@@ -21,8 +21,9 @@ For three decades, *Modern Marvels* chronicled human technological achievement a
 ### The Content-First Principle
 Rather than assuming filenames or upstream databases were correct, this archive establishes episode identity from **primary broadcast evidence**:
 1. **Dialogue Transcripts**: Verified spoken dialogue from original audio, matching spoken title announcements (e.g., *"Now, [Title] on Modern Marvels"*).
-2. **On-Screen Credit Rolls**: Transcribed high-resolution optical credit cards establishing copyright years, production entities, and crew tenure.
-3. **Multi-Signal Cross-Checking**: No episode identification is accepted without independent agreement across at least two verifiable evidence channels.
+2. **On-Screen Credit Rolls & Copyright Forensics**: Transcribed optical credit cards and copyright notices establishing production entities and registration years.
+3. **Internal Transcript Temporal Analysis**: An on-screen copyright year or database listing does not always reflect the original premiere broadcast. The History Channel frequently re-packaged older documentaries (such as Greystone Communications' *Tales of the Gun*) under the *Modern Marvels* banner years later (e.g., *Shotguns* was produced in 1999 as *Tales of the Gun* with a `© 1999` copyright, but re-aired under Modern Marvels in 2006). Similarly, updated re-cuts added post-premiere footage (e.g., *More Earthmovers* burned a `© 2005` copyright and added dialogue referencing Hurricane Katrina from August 2005). By cross-examining contemporary news events, future projections, and production milestones in the spoken dialogue, we establish genuine broadcast provenance.
+4. **Multi-Signal Cross-Checking**: No episode identification is accepted without independent agreement across at least two verifiable evidence channels.
 
 ---
 

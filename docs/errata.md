@@ -2,9 +2,18 @@
 
 > **Status:** Active Community Tracking Document  
 > **Last Updated:** September 2, 2026  
-> **Scope:** Corrections required on **TheTVDB**, **The Movie Database (TMDB)**, and **IMDb** based on primary broadcast evidence (spoken audio transcripts, on-screen credit rolls, and optical copyright cards).
+> **Scope:** Systematic corrections required on **TheTVDB**, **The Movie Database (TMDB)**, and **IMDb** based on primary broadcast evidence (spoken audio transcripts, on-screen credit rolls, optical copyright cards, and internal temporal references).
 
 This document tracks erroneous episode entries across commercial databases that corrupt automated media managers (Plex, Sonarr, Kodi). Community editors and database moderators should use the citations below to delete, merge, or correct upstream records.
+
+---
+
+## 💡 Methodology: Copyright Cards vs. Premiere Releases vs. Re-Edits
+
+When analyzing historical documentaries, **an on-screen copyright year does not always equal the original broadcast premiere date**:
+* **Syndication & Series Re-branding:** The History Channel routinely re-packaged documentaries from sister series (such as Greystone Communications' *Tales of the Gun*) under the *Modern Marvels* banner years later. For example, *Shotguns* carried an on-screen title of *Tales of the Gun* with a `© MCMXCIX (1999)` copyright card, yet TMDB cataloged it as a 2006 Modern Marvels episode (`S13E38`).
+* **Updated & Revised Cuts:** Popular episodes were updated with newer footage years after their premiere. For instance, *More Earthmovers* carried a `© 1999` copyright, but later broadcasts burned a `© 2005` copyright and inserted dialogue discussing **Hurricane Katrina (August 2005)**.
+* **Internal Transcript Temporal Forensics:** Rather than trusting commercial catalog dates or standalone copyright years, this archive examines **spoken dialogue references** (e.g., whether an event like Katrina is spoken of as past history, or whether an aerospace mission in 2003 is described as a future plan).
 
 ---
 
@@ -47,26 +56,24 @@ Entries that duplicate an existing canonical episode due to rerun air dates or '
 
 ---
 
-## 📅 Priority 4: Severe Air Date Divergences (≥ 4 Years)
+## 📅 Priority 4: Air Date Divergences & Forensic Transcript Analysis
 
-Episodes where TheTVDB and TMDB diverge by four or more years due to rerun confusion or misattributed production windows:
+Episodes where TheTVDB and TMDB diverge significantly, resolved via optical copyright cards and transcript temporal markers:
 
-| Canonical ID | Episode Title | TMDB Air Date | TheTVDB Air Date | Divergence | Primary Evidence Finding |
-| :---: | :--- | :---: | :---: | :---: | :--- |
-| `MME00006` | **Transatlantic Cable** | `1994-03-27` | `1998-08-17` | **4 years** | Copyright © 1994 A&E. TMDB holds the correct original broadcast air date. TheTVDB listing represents a 1998 repeat. |
-| `MME00007` | **Balloons** | `1994-12-16` | `1999-12-16` | **5 years** | Copyright © 1994. TheTVDB incorrectly indexed this under December 1999. |
-| `MME00023` | **The NYC Subway** | `1995-10-19` | `1999-01-06` | **4 years** | Copyright © 1995. TMDB date corroborated by historical TV Guide listings from October 1995. |
-| `MME00107` | **More Earthmovers** | `1999-10-18` | `2006-10-09` | **7 years** | Copyright © 1999. TheTVDB logged an October 2006 rerun date. |
-| `MME00402` | **Firefighting: The Arson Detectives** | `2004-09-30` | `1998-11-17` | **6 years** | TheTVDB conflated this 2004 production with an earlier 1998 firefighting documentary. |
-| `MME00443` | **Firefighting!: Extreme Conditions** | `2005-02-15` | `1998-12-08` | **7 years** | TheTVDB applied the 1998 broadcast date of 'Firefighting! Containing the Demon' to this 2005 production. |
-| `MME00544` | **Shotguns** | `2006-09-17` | `1999-05-23` | **7 years** | On-screen graphics and copyright cards date this high-definition production to 2006. TheTVDB 1999 date is erroneous. |
-| `MME00668` | **Helicopters** | `2010-04-29` | `1998-09-14` | **12 years** | Modern Marvels produced two distinct documentaries titled 'Helicopters' (1998 and 2010). TheTVDB mapped both to 1998. |
+| Canonical ID | Episode Title | TMDB Date | TheTVDB Date | Forensic Verdict | Primary Evidence Finding |
+| :---: | :--- | :---: | :---: | :--- | :--- |
+| `MME00544` | **Shotguns** | `2006-09-17` | `1999-05-23` | **Original 1999 production, re-packaged under Modern Marvels in 2006** | Primary optical credits prove this film was produced by Greystone Communications, Inc. under the on-screen title 'Tales of the Gun' with copyright '© MCMXCIX (1999) A&E Television Networks'. TheTVDB (1999-05-23) and IMDb (1999) record the genuine original premiere date. TMDB (2006-09-17, S13E38) records a syndication rebroadcast when The History Channel re-packaged several Greystone gun documentaries under the Modern Marvels umbrella. The copyright and production personnel confirm a 1999 origin, not 2006. |
+| `MME00107` | **More Earthmovers** | `1999-10-18` | `2006-10-09` | **Revised 2006 cut incorporating post-2005 footage** | Optical copyright cards on the broadcast master carry dual years: '© 1999, 2005 Actuality Productions'. Crucially, transcript analysis reveals explicit dialogue referencing Hurricane Katrina: 'Hurricane Katrina made landfall in Mississippi on 29 August 2005...'. Because Katrina occurred in August 2005, the broadcast version cannot be the 1999 original. TheTVDB's air date of October 9, 2006 accurately dates this revised broadcast. |
+| `MME00243` | **Jet Engines** | `2002-08-21` | `1999-05-03` | **Original 1999 production; TMDB reflects repeat** | Optical copyright card reads '© 1999 Actuality Productions'. Transcript internal dating confirms 1999 as the contemporary baseline: the narrator remarks 'no one would ever have anticipated that the airplane would have been flying in 1999, or as it probably will be in 2019' (treating 1999 as present and 2019 as future). TheTVDB's 1999-05-03 date is the verified original premiere. |
+| `MME00668` | **Helicopters** | `2010-04-29` | `1998-09-14` | **Completely different 2010 HD documentary conflated with 1998 classic** | Optical copyright card reads '© 2009 Actuality Productions, Inc.'. Dialogue references 2008 production milestones: 'produce nearly 900 helicopters in 2008... winning Popular Science's Best of What's New award in 2008'. TheTVDB's 1998 date is an erroneous mapping to an earlier 1998 episode of the same name. TMDB's 2010-04-29 air date is correct. |
+| `MME00007` | **Balloons** | `1994-12-16` | `1999-12-16` | **1999 production; TMDB date is erroneous** | Transcript dialogue discusses NASA exploration milestones scheduled for the future: 'NASA plans to launch its first interplanetary aerobot by rocket in 2003... scheduled to enter the atmosphere of Venus and Titan in 2005'. These plans were formulated in the late 1990s, refuting TMDB's 1994 date and confirming TheTVDB's December 1999 broadcast. |
+| `MME00573` | **More Ice** | `2007-02-11` | `2009-10-28` | **2007 premiere; TheTVDB date is a late repeat** | Optical copyright card reads '© 2007 History Television Network Productions'. Transcript references research expeditions conducted in 2006: 'in 2006, scientists from California's Monterey Bay Aquarium Research Institute sailed to the Pacific coastal waters'. Corroborates TMDB's February 11, 2007 air date; TheTVDB's 2009 date is a syndicated repeat. |
 
 ---
 
 ## How to Submit Upstream Corrections
 
 When submitting tickets to database moderators:
-1. **TheTVDB:** Post a ticket at [support.thetvdb.com](https://support.thetvdb.com) referencing the specific Episode ID and citing the primary copyright year and dialogue transcript URL from this archive.
+1. **TheTVDB:** Post a ticket at [support.thetvdb.com](https://support.thetvdb.com) referencing the specific Episode ID and citing the primary copyright year, dialogue transcript URL, and temporal evidence from this archive.
 2. **TMDB:** Post a content report on the specific episode's discussion forum referencing the standalone 1-hour broadcast recordings.
 3. **Link to Evidence:** Always provide the direct URL to the episode's dossier in this archive (`https://shanto.github.io/Modern-Marvels-Public/episodes/MME#####/`) as the primary proof.
