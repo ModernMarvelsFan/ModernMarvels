@@ -1,0 +1,2124 @@
+1
+00:00:00,001 --> 00:00:04,000
+They attract.
+
+2
+00:00:04,001 --> 00:00:07,000
+They repel.
+
+3
+00:00:07,001 --> 00:00:11,000
+And they put a new spin on modern technology.
+
+4
+00:00:11,001 --> 00:00:14,000
+From your car to your computer.
+
+5
+00:00:14,001 --> 00:00:18,000
+From high-speed trains to high-tech space propulsion.
+
+6
+00:00:18,001 --> 00:00:25,000
+Harnessing a fundamental force of nature as perplexing as it is powerful.
+
+7
+00:00:25,001 --> 00:00:29,000
+Now, Magnets on Modern Marvels.
+
+8
+00:00:42,000 --> 00:00:46,000
+Welcome to Six Flags Magic Mountain in Southern California.
+
+9
+00:00:47,000 --> 00:00:53,000
+Here, thrill seekers are taking the ride of their lives on the attraction called Superman.
+
+10
+00:00:55,000 --> 00:01:00,680
+A roller coaster that owes its extreme propulsion and popularity to magnets.
+
+11
+00:01:02,680 --> 00:01:06,320
+Six Flags wanted to build a roller coaster that went where no coaster had gone before,
+
+12
+00:01:06,640 --> 00:01:08,700
+and that was to break the 100 mile an hour barrier.
+
+13
+00:01:09,980 --> 00:01:13,580
+In order to get the speed, with conventional coaster technology,
+
+14
+00:01:13,860 --> 00:01:18,800
+we would have had to build a lift with a chain probably close to 500 feet tall in order to get that.
+
+15
+00:01:18,801 --> 00:01:26,400
+Ride engineers had to find a more innovative solution.
+
+16
+00:01:27,400 --> 00:01:36,329
+So we turned to magnets and electromagnets in order to generate an acceleration of the car that would break every record that was ever known in the roller coaster
+
+17
+00:01:36,330 --> 00:01:37,030
+world.
+
+18
+00:01:38,640 --> 00:01:42,900
+Superman uses magnetic devices called linear synchronous motors.
+
+19
+00:01:44,220 --> 00:01:48,420
+Although the technology is complex, the underlying principle is elegantly simple.
+
+20
+00:01:48,800 --> 00:01:53,800
+Everybody remembers from when they were kids where you had a magnet with a north pole and
+
+21
+00:01:53,801 --> 00:01:57,800
+a south pole, and if you took another magnet and got the two north poles together, they'd
+
+22
+00:01:57,801 --> 00:02:01,840
+repel, put the north to the south, and they would attract each other.
+
+23
+00:02:01,841 --> 00:02:05,400
+And that's fundamentally how this technology works on the ride.
+
+24
+00:02:05,401 --> 00:02:09,240
+You have magnets on the car.
+
+25
+00:02:09,241 --> 00:02:15,700
+You have electromagnets in the track, and the electromagnets can produce repulsive and
+
+26
+00:02:15,701 --> 00:02:19,780
+attractive forces to move the car and as soon as the car gets to the place where
+
+27
+00:02:19,781 --> 00:02:24,100
+it's being attracted the electromagnet changes its polarity the current changes
+
+28
+00:02:24,101 --> 00:02:27,740
+and attractive force turns to a repulsive force and you keep doing this in
+
+29
+00:02:27,741 --> 00:02:32,940
+synchronism with the motion of the car and produce constant motion
+
+30
+00:02:34,620 --> 00:02:39,360
+banks of computers and switchers shift the electromagnets polarity in
+
+31
+00:02:39,361 --> 00:02:42,020
+milliseconds
+
+32
+00:02:42,021 --> 00:02:51,500
+This enables the cars to accelerate from a dead standstill to over 100 miles per hour in just seven seconds.
+
+33
+00:02:52,260 --> 00:02:57,640
+To this day, it remains in the record books as the tallest and fastest roller coaster,
+
+34
+00:02:57,860 --> 00:03:00,420
+and we couldn't have done it without magnets and electromagnets.
+
+35
+00:03:03,220 --> 00:03:06,980
+We rely on magnets for a lot more than thrills at the theme park.
+
+36
+00:03:08,820 --> 00:03:09,840
+They're everywhere.
+
+37
+00:03:09,841 --> 00:03:13,420
+playing a key role in virtually every kind of technology
+
+38
+00:03:13,421 --> 00:03:15,600
+from our microwaves
+
+39
+00:03:15,601 --> 00:03:17,500
+to our computers
+
+40
+00:03:17,501 --> 00:03:19,540
+to our cell phones.
+
+41
+00:03:20,740 --> 00:03:22,840
+Throughout our house, throughout our car, throughout any office
+
+42
+00:03:22,841 --> 00:03:25,600
+there are dozens and dozens of magnets doing their work
+
+43
+00:03:25,601 --> 00:03:28,740
+but without being seen, out of sight, out of mind.
+
+44
+00:03:28,741 --> 00:03:32,940
+We use magnets without hardly thinking about it every day.
+
+45
+00:03:33,720 --> 00:03:36,480
+Hidden on the stripe of your credit card
+
+46
+00:03:36,481 --> 00:03:41,460
+are little areas of magnetization, like a barcode.
+
+47
+00:03:42,040 --> 00:03:44,520
+And when you swipe that through the card reader,
+
+48
+00:03:44,880 --> 00:03:48,360
+that barcode information is downloaded to the computer.
+
+49
+00:03:49,280 --> 00:03:52,860
+For many of us, our reliance on magnets goes hand-in-hand
+
+50
+00:03:52,861 --> 00:03:55,340
+with our inability to fully fathom how they work.
+
+51
+00:03:57,500 --> 00:04:00,840
+Magnetism is fascinating because of the mysteries.
+
+52
+00:04:01,660 --> 00:04:04,720
+When you have things pulling at a distance
+
+53
+00:04:04,721 --> 00:04:06,580
+without contact.
+
+54
+00:04:07,260 --> 00:04:10,960
+Certainly we understand when I push this hand against this hand
+
+55
+00:04:10,961 --> 00:04:13,040
+where the forces are coming from.
+
+56
+00:04:13,041 --> 00:04:18,380
+But when I take a north pole and bring a north pole close to it
+
+57
+00:04:18,381 --> 00:04:22,500
+and they push apart, I don't see any contact.
+
+58
+00:04:22,900 --> 00:04:25,160
+And that is always puzzling to people.
+
+59
+00:04:26,600 --> 00:04:29,700
+A magnet is simply an object that attracts iron.
+
+60
+00:04:30,540 --> 00:04:33,300
+It attracts some of the objects that are similar to iron,
+
+61
+00:04:33,400 --> 00:04:34,460
+like cobalt or steel.
+
+62
+00:04:34,720 --> 00:04:39,880
+But it does not attract other things like wood, glass, plastic, copper.
+
+63
+00:04:40,640 --> 00:04:43,620
+So it's a very selective attraction force.
+
+64
+00:04:45,040 --> 00:04:50,660
+This selective force also has a handy knack for passing on its properties to the iron objects it touches.
+
+65
+00:04:52,720 --> 00:04:54,880
+This is a bar of steel.
+
+66
+00:04:55,360 --> 00:04:57,800
+Right now it's not magnetized.
+
+67
+00:04:57,801 --> 00:05:05,200
+To show that this is not magnetic, I'll just simply bring it down to the pile of paper clips and nothing gets picked up.
+
+68
+00:05:06,040 --> 00:05:10,400
+All I'm going to do is touch the north pole of this magnet.
+
+69
+00:05:10,500 --> 00:05:11,960
+It doesn't matter what pole you touch.
+
+70
+00:05:14,560 --> 00:05:18,760
+Now, this bar of metal becomes a magnet.
+
+71
+00:05:20,800 --> 00:05:25,160
+A magnet works its magic by extending its force invisibly beyond itself,
+
+72
+00:05:25,161 --> 00:05:28,040
+creating what's known as a magnetic field.
+
+73
+00:05:29,720 --> 00:05:34,960
+Now we can make that visible so you can see it with some iron powder.
+
+74
+00:05:35,860 --> 00:05:42,140
+And I'll cover the magnet up and put a white piece of paper on there so you can actually see it.
+
+75
+00:05:42,700 --> 00:05:45,240
+And I'll sprinkle some iron powder.
+
+76
+00:05:45,241 --> 00:05:49,820
+These are little tiny particles of iron that will trace out the magnetic field.
+
+77
+00:05:50,640 --> 00:05:54,380
+It's collecting a lot of powder right between the poles,
+
+78
+00:05:54,381 --> 00:05:59,320
+But looping out into space are these magnetic lines,
+
+79
+00:06:00,420 --> 00:06:04,300
+returning to the South Pole, traveling through the magnet again,
+
+80
+00:06:04,560 --> 00:06:09,260
+and exiting the North Pole in a circular looping fashion.
+
+81
+00:06:10,380 --> 00:06:13,540
+To understand how a magnet is able to generate its field,
+
+82
+00:06:13,960 --> 00:06:16,120
+we must look to the atoms from which they're made.
+
+83
+00:06:17,900 --> 00:06:22,580
+If you look at the model of an atom surrounding the nucleus
+
+84
+00:06:22,581 --> 00:06:25,940
+in orbits are these electrons.
+
+85
+00:06:26,240 --> 00:06:28,340
+These electrons are charged particles.
+
+86
+00:06:28,780 --> 00:06:31,180
+That constitutes a magnetic field.
+
+87
+00:06:31,380 --> 00:06:34,720
+So atoms can be atomic magnets.
+
+88
+00:06:35,280 --> 00:06:37,840
+That's the reason something is magnetic,
+
+89
+00:06:38,080 --> 00:06:40,000
+because of those atomic magnets.
+
+90
+00:06:40,680 --> 00:06:43,820
+The paired electrons of many substances, however,
+
+91
+00:06:43,821 --> 00:06:45,380
+spin in opposite directions,
+
+92
+00:06:45,900 --> 00:06:48,140
+canceling out their respective magnetic fields.
+
+93
+00:06:48,141 --> 00:06:57,020
+Magnetism results only when more of an atom's electrons are spinning in one direction than in the other, free to emit their magnetic fields.
+
+94
+00:06:59,080 --> 00:07:01,340
+The atomic properties of magnets vary.
+
+95
+00:07:02,540 --> 00:07:11,840
+There are so-called permanent magnets and temporary magnets, like the small bars on CD packages, which can lose their magnetism.
+
+96
+00:07:11,841 --> 00:07:16,840
+To prevent one from triggering the security alarm after you buy a CD,
+
+97
+00:07:17,520 --> 00:07:22,080
+the clerk uses an electromagnet to neutralize or degauss its magnetic field.
+
+98
+00:07:23,840 --> 00:07:26,220
+And what exactly is an electromagnet?
+
+99
+00:07:27,120 --> 00:07:32,020
+Like the name implies, it's any magnet that requires electricity in order to function.
+
+100
+00:07:33,940 --> 00:07:36,540
+Kids have been making the simplest versions for decades.
+
+101
+00:07:37,300 --> 00:07:42,020
+Just wrap some copper wire around a nail and attach the two ends of wire to a battery.
+
+102
+00:07:43,940 --> 00:07:49,540
+The electric current flowing through the coil creates a magnetic field, and the nail becomes a magnet.
+
+103
+00:07:51,440 --> 00:07:53,780
+Disconnect the wire and the magnetic field vanishes.
+
+104
+00:08:02,400 --> 00:08:06,040
+Perhaps no one values an electromagnet more than the junk man.
+
+105
+00:08:06,540 --> 00:08:15,700
+At Columbus Auto Shredding in Ohio, magnets surging with electricity make quick work of
+
+106
+00:08:15,701 --> 00:08:20,520
+scrap metal bound for recycling centers.
+
+107
+00:08:20,521 --> 00:08:25,860
+This particular machine works with joysticks, right and left hand.
+
+108
+00:08:25,861 --> 00:08:31,540
+And we swing the machine over the material, stop it, maneuver the boom into place, let
+
+109
+00:08:31,541 --> 00:08:34,060
+the magnet down onto the material.
+
+110
+00:08:34,061 --> 00:08:36,200
+We activate with the right hand the magnet.
+
+111
+00:08:36,380 --> 00:08:37,880
+We've got the material attached.
+
+112
+00:08:38,040 --> 00:08:39,940
+We pull the boom back, pick it up.
+
+113
+00:08:40,200 --> 00:08:42,000
+We swing it over the truck.
+
+114
+00:08:42,360 --> 00:08:44,360
+Then we let it down into the bed,
+
+115
+00:08:44,900 --> 00:08:48,760
+and then we use the left button to de-energize the magnet and let go of the scrap.
+
+116
+00:08:50,600 --> 00:08:55,200
+This six-foot-wide magnet, capable of hoisting more than 5,000 pounds,
+
+117
+00:08:55,400 --> 00:08:59,180
+was crafted here at Ohio Magnetics just outside Cleveland.
+
+118
+00:08:59,181 --> 00:09:06,180
+Its workers have been churning out king-size magnets for the steel industry since 1917.
+
+119
+00:09:06,181 --> 00:09:11,180
+This is one of our Ohio Lodestar magnets.
+
+120
+00:09:11,181 --> 00:09:15,180
+This is not a magnet unless electricity is running through it.
+
+121
+00:09:15,181 --> 00:09:20,180
+The electricity comes in through the external magnet leads,
+
+122
+00:09:20,181 --> 00:09:24,180
+goes into the terminal box, and down into the magnet coil.
+
+123
+00:09:24,181 --> 00:09:25,020
+Magnet coil.
+
+124
+00:09:27,720 --> 00:09:31,880
+Manufacturing an electromagnet this beefy requires several exacting steps.
+
+125
+00:09:32,840 --> 00:09:36,220
+It all starts with a roughly cast carbon steel case.
+
+126
+00:09:38,080 --> 00:09:41,540
+This will house the coil that will carry the magnet's electric current.
+
+127
+00:09:43,700 --> 00:09:48,800
+The first step is to flip the case upside down so a boring mill can hone its interior.
+
+128
+00:09:50,040 --> 00:09:53,120
+This will ensure that the coil will fit inside it precisely.
+
+129
+00:09:54,180 --> 00:09:57,460
+I have to check my measurements after every cut.
+
+130
+00:09:57,860 --> 00:10:01,720
+That's to make sure that I'm not going over or I'm not undersized.
+
+131
+00:10:02,160 --> 00:10:09,200
+The most important dimensions to hold inside of this case here is the inside diameter and the center core diameter.
+
+132
+00:10:09,680 --> 00:10:14,640
+So the coil can fit in there properly and rest on the bottom and on these shoulders here.
+
+133
+00:10:16,620 --> 00:10:22,660
+The precisely machined case is also tailored to fit the bottom plate of the magnet on which the coil will be wound.
+
+134
+00:10:24,180 --> 00:10:27,740
+This is the bottom of an electro scrap magnet.
+
+135
+00:10:28,560 --> 00:10:31,140
+The bottom will get a layer of insulation,
+
+136
+00:10:31,860 --> 00:10:34,960
+and then around here will wrap the aluminum conductor.
+
+137
+00:10:36,540 --> 00:10:38,940
+Thin strips of aluminum form the coil,
+
+138
+00:10:39,420 --> 00:10:42,140
+tightly wound around a core fixed to the bottom plate.
+
+139
+00:10:43,540 --> 00:10:48,140
+A thin strip of paper, called Nomex, is layered between each wind.
+
+140
+00:10:49,300 --> 00:10:53,000
+The Nomex electrically insulates the adjacent layers of aluminum from one another
+
+141
+00:10:53,001 --> 00:10:54,300
+to prevent shorting.
+
+142
+00:10:57,100 --> 00:10:59,140
+After the coil assembly is complete,
+
+143
+00:10:59,820 --> 00:11:02,600
+a welder fuses the case and the coil assembly together.
+
+144
+00:11:04,900 --> 00:11:08,580
+Then, workers pour in a proprietary insulating compound
+
+145
+00:11:08,581 --> 00:11:11,120
+that will fill the cavity remaining in the case.
+
+146
+00:11:13,820 --> 00:11:18,000
+The compound will prevent the coil from contacting the inner wall of the case,
+
+147
+00:11:18,480 --> 00:11:21,220
+again eliminating the possibility of electrical shorting.
+
+148
+00:11:23,000 --> 00:11:27,600
+It will also act as a shock absorber as the magnet impacts against the material it lifts.
+
+149
+00:11:28,960 --> 00:11:31,220
+And it will help the magnet keep its cool.
+
+150
+00:11:32,780 --> 00:11:34,660
+Heat is a magnet's worst enemy.
+
+151
+00:11:35,380 --> 00:11:41,520
+A magnet will lose about 25% of its lifting capability during a day's operation.
+
+152
+00:11:42,800 --> 00:11:49,540
+The role of the compound is important because it transfers heat from the coil to the outside of the magnet case.
+
+153
+00:11:49,541 --> 00:11:53,660
+and then air, which is around the outside of the magnet,
+
+154
+00:11:53,820 --> 00:11:57,540
+cools the magnet to allow the magnet to efficiently operate.
+
+155
+00:11:58,540 --> 00:12:01,340
+To cure the compound inside the magnet case,
+
+156
+00:12:02,000 --> 00:12:03,940
+workers transfer the assemblage into an oven
+
+157
+00:12:03,941 --> 00:12:07,980
+where it bakes at 325 degrees Fahrenheit for 12 hours.
+
+158
+00:12:12,880 --> 00:12:15,640
+Then, after the magnet passes a series of tests,
+
+159
+00:12:16,060 --> 00:12:17,040
+it's ready for action.
+
+160
+00:12:17,980 --> 00:12:23,240
+As we've seen, lifting magnets make all the difference at facilities like Columbus Auto Shredding.
+
+161
+00:12:28,440 --> 00:12:34,200
+But they aren't the only kinds of magnets the company relies on to extract the recyclable iron and steel.
+
+162
+00:12:37,300 --> 00:12:42,660
+In its processing plant, where derelict cars have an appointment with Doom and the ravenous shredder,
+
+163
+00:12:43,500 --> 00:12:45,980
+a variety of magnets await the mangled remains.
+
+164
+00:12:47,040 --> 00:12:54,040
+It'll be their job to separate the iron and steel from the mass of debris.
+
+165
+00:12:54,041 --> 00:13:01,040
+First, conveyors move the shreds beneath these rotating drums.
+
+166
+00:13:01,041 --> 00:13:09,040
+Inside the drums, magnets set at fixed positions direct their attractive force down toward the passing fragments.
+
+167
+00:13:09,041 --> 00:13:16,040
+The magnets draw them to the drum's surface, where they adhere until they're rotated up
+
+168
+00:13:16,041 --> 00:13:20,000
+and out of the magnetic field's range.
+
+169
+00:13:20,001 --> 00:13:24,240
+The shreds then fall to a conveyor.
+
+170
+00:13:24,241 --> 00:13:29,040
+The uncollected shreds move to another magnet, set within the body of this rotating belt,
+
+171
+00:13:29,041 --> 00:13:32,320
+to separate the iron and steel the large drums may have missed.
+
+172
+00:13:32,321 --> 00:13:40,660
+The magnet is in the center, and what happens is material is processed underneath the magnet,
+
+173
+00:13:40,661 --> 00:13:46,380
+picked up by the magnetic field, and then moved out by this conveyor belt until it gets
+
+174
+00:13:46,381 --> 00:13:51,000
+beyond the field of the magnet where it is dropped off.
+
+175
+00:13:51,001 --> 00:13:56,320
+On average, the plant's magnets separate 500 tons of iron and steel each day, which
+
+176
+00:13:56,321 --> 00:14:05,760
+the company then sells to recycling dealers.
+
+177
+00:14:05,761 --> 00:14:11,400
+At the junkyard and across the globe, magnets may not always attract a lot of attention,
+
+178
+00:14:11,401 --> 00:14:17,420
+but their contribution is undeniable.
+
+179
+00:14:17,421 --> 00:14:22,000
+One of the most ubiquitous varieties is hanging around in your kitchen.
+
+180
+00:14:22,001 --> 00:14:31,320
+To make it, you have to shake, rattle, and roll.
+
+181
+00:14:31,321 --> 00:14:36,300
+Many cows have magnets placed in their stomachs to attract nails, wire, and other accidentally
+
+182
+00:14:36,301 --> 00:14:40,340
+ingested metals that could harm their digestive tracts.
+
+183
+00:14:40,341 --> 00:14:45,580
+A magnet can safely remain there for the duration of a cow's life.
+
+184
+00:14:45,581 --> 00:14:51,180
+Magnets will return on Modern Marvels.
+
+185
+00:14:51,181 --> 00:14:57,660
+We now return to Magnets on Modern Marvels.
+
+186
+00:14:57,661 --> 00:15:03,620
+In our world of technological wonders, magnets are the forgotten stars.
+
+187
+00:15:03,621 --> 00:15:08,820
+Performing their vital functions so invisibly, we ignore their presence.
+
+188
+00:15:08,821 --> 00:15:13,940
+And of all our unheralded magnets, the one we take most for granted is the enormous one
+
+189
+00:15:13,941 --> 00:15:16,900
+right beneath our feet.
+
+190
+00:15:16,901 --> 00:15:20,480
+The Earth is a giant magnet.
+
+191
+00:15:20,481 --> 00:15:25,380
+An ocean of molten iron at its core generates its magnetic field.
+
+192
+00:15:25,381 --> 00:15:30,240
+The field streams out at the North Magnetic Pole, loops around the planet, and returns
+
+193
+00:15:30,241 --> 00:15:33,480
+through the South Magnetic Pole.
+
+194
+00:15:33,481 --> 00:15:38,060
+This invisible force shields us against the lethal winds of radiation emitted from the
+
+195
+00:15:38,061 --> 00:15:42,220
+Sun and distant stars.
+
+196
+00:15:42,221 --> 00:15:46,620
+You can observe this drama in the skies above the Arctic Circle.
+
+197
+00:15:46,621 --> 00:15:52,100
+The cosmic light show called the Aurora Borealis results when the Earth's magnetic field
+
+198
+00:15:52,101 --> 00:15:57,860
+traps solar particles in the atmosphere and deflects them toward the pole.
+
+199
+00:15:57,861 --> 00:16:02,560
+Closer to home, a more mundane variety of magnet plays a slightly less crucial role
+
+200
+00:16:02,561 --> 00:16:09,700
+in our existence, as it clings to the appliance we visit about 11 times each day.
+
+201
+00:16:09,701 --> 00:16:14,840
+Refrigerator magnets have enabled us to turn this nucleus of the American home into an
+
+202
+00:16:14,841 --> 00:16:18,240
+information center and art gallery.
+
+203
+00:16:18,241 --> 00:16:22,400
+Ever wondered where these indispensable little gadgets come from?
+
+204
+00:16:22,401 --> 00:16:29,020
+There's no better place to start looking than FlexMag Industries in Marietta, Ohio.
+
+205
+00:16:29,021 --> 00:16:32,960
+There's at least a 50-50 chance that the products on your refrigerator
+
+206
+00:16:32,961 --> 00:16:36,320
+were made at this facility.
+
+207
+00:16:36,321 --> 00:16:41,460
+FlexMag rolls out up to 100,000 pounds of magnets every day.
+
+208
+00:16:41,461 --> 00:16:44,580
+From the strips that secure your shower door,
+
+209
+00:16:44,581 --> 00:16:46,620
+to the signs you can stick to the side of your car.
+
+210
+00:16:48,180 --> 00:16:50,680
+The two main materials that we use in our flexible magnets
+
+211
+00:16:50,681 --> 00:16:55,720
+are synthetic rubber and then also ferrite powder.
+
+212
+00:16:56,160 --> 00:16:59,540
+This material is made from strontium carbonate and iron oxide.
+
+213
+00:17:00,260 --> 00:17:04,400
+This magnetic powder is only very finely magnetic.
+
+214
+00:17:04,800 --> 00:17:08,980
+As you can see, it doesn't really stick to itself very well,
+
+215
+00:17:08,981 --> 00:17:12,060
+so it has to be very fine and airborne before it will stick to anything metal.
+
+216
+00:17:12,061 --> 00:17:19,060
+This is where the life of your fridge magnet begins, in what FlexMag calls an intensive mixer.
+
+217
+00:17:19,061 --> 00:17:26,060
+After workers throw in the rubber, bags and all, the ferrite powder showers on top of it.
+
+218
+00:17:26,061 --> 00:17:35,060
+We use rotors to distribute the material evenly, and then there's a large ram that puts pressure on the mix as it is mixing.
+
+219
+00:17:35,061 --> 00:17:40,060
+Between those two, we get an even distribution, and we readily mix the ferrite throughout the rubber.
+
+220
+00:17:40,061 --> 00:17:45,270
+the rubber. It takes approximately five to seven minutes to run a batch.
+
+221
+00:17:45,271 --> 00:17:46,500
+Once the material
+
+222
+00:17:46,501 --> 00:17:52,540
+is discharged from the intensive mixer, it's not in a format that we can use, so we dump
+
+223
+00:17:52,541 --> 00:17:55,562
+it into what we call a batch extruder.
+
+224
+00:17:55,563 --> 00:17:59,380
+We maintain the temperature of about 275 degrees
+
+225
+00:17:59,381 --> 00:18:05,560
+through this process in order to keep the material so that it's able to extrude it easily.
+
+226
+00:18:05,561 --> 00:18:11,160
+Next, conveyors transfer the extruded compound to other machines that granulate and cool it.
+
+227
+00:18:13,220 --> 00:18:18,320
+Then the powdery mixture passes through heated rollers that press it into a thin sheet.
+
+228
+00:18:20,020 --> 00:18:23,940
+At this point, this humble material wouldn't stick to your fridge or anything else metallic.
+
+229
+00:18:26,300 --> 00:18:31,160
+But now it's finally ready to pass over the simple device that'll turn it into a magnet.
+
+230
+00:18:31,161 --> 00:18:39,760
+It's a roller consisting of powerful permanent magnets classified as rare earths.
+
+231
+00:18:39,761 --> 00:18:46,360
+These particular rare earth magnets are neodymium iron boron and are positioned such that their
+
+232
+00:18:46,361 --> 00:18:51,160
+north and south poles alternate along the length of the roller.
+
+233
+00:18:51,161 --> 00:18:55,880
+Before the sheath passes over this roller, the small fairy particles in there are really
+
+234
+00:18:55,881 --> 00:18:59,160
+not aligned magnetically in any form or fashion.
+
+235
+00:18:59,161 --> 00:19:04,840
+If they pass over this, the field that is produced off of this rare earth magnetic roller
+
+236
+00:19:04,841 --> 00:19:09,680
+aligns those little particles in the sheet to create a magnetic pattern on the sheet.
+
+237
+00:19:09,681 --> 00:19:16,600
+And those would be a mirror image of what this magnetic pattern is on this roller.
+
+238
+00:19:16,601 --> 00:19:23,820
+Seconds after the sheet's bottom side is magnetized, a machine laminates its non-metallic top side.
+
+239
+00:19:23,821 --> 00:19:26,900
+This is the side that will stare back at you from your refrigerator.
+
+240
+00:19:26,901 --> 00:19:30,400
+emblazoned with everything from calendars to the phone number of your local pizzeria.
+
+241
+00:19:32,020 --> 00:19:35,900
+But before FlexMag ships the rolls to its clients who apply those touches,
+
+242
+00:19:36,800 --> 00:19:39,240
+how can it be sure of its product's stick-to-itiveness?
+
+243
+00:19:40,740 --> 00:19:44,420
+One of the ways we make sure that the magnetic material is actually magnetized
+
+244
+00:19:44,421 --> 00:19:46,400
+is we use sheet vellum.
+
+245
+00:19:46,401 --> 00:19:51,760
+The vellum is actually two thin pieces of plastic with a liquid medium in between
+
+246
+00:19:51,761 --> 00:19:56,100
+that holds fine magnetic particles that align with the magnetic pattern.
+
+247
+00:19:56,101 --> 00:20:01,060
+And this material will show you the magnetic imprint on the magnetic sheet.
+
+248
+00:20:01,061 --> 00:20:05,480
+As you can see, it's the same magnetic imprint that we used on the rare earth magnet roller.
+
+249
+00:20:06,840 --> 00:20:11,880
+Magnets have been leaving their distinctive mark on civilization for more than 2,000 years.
+
+250
+00:20:12,200 --> 00:20:16,540
+And it all started with the discovery of a curiously attractive rock.
+
+251
+00:20:16,541 --> 00:20:27,340
+Earth's magnetic poles have changed places hundreds of times over the past 400 million years,
+
+252
+00:20:28,000 --> 00:20:30,060
+reversing the direction of its magnetic field.
+
+253
+00:20:31,100 --> 00:20:34,940
+The last reversal occurred about 780,000 years ago.
+
+254
+00:20:36,100 --> 00:20:38,620
+Magnets will return on Modern Marvels.
+
+255
+00:20:38,621 --> 00:20:47,000
+We now return to Magnets on Modern Marvels.
+
+256
+00:20:50,860 --> 00:20:56,760
+For centuries, scientists have attempted to solve one of the animal kingdom's most perplexing mysteries.
+
+257
+00:20:58,080 --> 00:21:03,920
+How do some species regularly navigate vast distances across the globe without getting lost?
+
+258
+00:21:05,280 --> 00:21:08,320
+Recent studies suggest an intriguing solution to the puzzle.
+
+259
+00:21:08,620 --> 00:21:16,620
+Researchers believe some animals use tiny natural magnets in their bodies that enable them to sense the Earth's magnetic field.
+
+260
+00:21:16,621 --> 00:21:28,620
+There is some evidence that birds and animals and fish use the magnetic field lines of the Earth to help them in their migration.
+
+261
+00:21:28,621 --> 00:21:32,620
+They can find their direction, much like we do with a compass.
+
+262
+00:21:32,621 --> 00:21:39,380
+Just as animals may use magnets to survive in nature, we use them to sustain ourselves
+
+263
+00:21:39,381 --> 00:21:44,860
+in a world of mechanization.
+
+264
+00:21:44,861 --> 00:21:50,620
+Our enduring relationship with magnetism dates back to antiquity.
+
+265
+00:21:50,621 --> 00:21:56,340
+About 2000 years ago, the ancient Greeks and the ancient Chinese independently discovered
+
+266
+00:21:56,341 --> 00:22:00,140
+Earth's only magnet crafted by nature.
+
+267
+00:22:00,141 --> 00:22:03,640
+It became known as the lodestone, or magnetite.
+
+268
+00:22:05,640 --> 00:22:10,640
+It's an oxide of iron, and the basic properties of the lodestone come from its atomic structure.
+
+269
+00:22:10,641 --> 00:22:13,640
+But how it's magnetized is still a bit of a mystery.
+
+270
+00:22:13,641 --> 00:22:16,240
+We think there was lightning strikes hitting the rock,
+
+271
+00:22:16,241 --> 00:22:19,640
+and the magnetic fields from the lightning magnetizing the rocks.
+
+272
+00:22:21,340 --> 00:22:26,640
+Chinese innovators used the unusual mineral as part of a device made of polished brass.
+
+273
+00:22:26,641 --> 00:22:33,520
+On its surface, a spoon-shaped lodestone was free to rotate in response to the Earth's magnetic field.
+
+274
+00:22:34,960 --> 00:22:41,100
+It marked man's earliest step toward the first practical application of magnets, the compass.
+
+275
+00:22:43,420 --> 00:22:50,020
+A compass's magnetic needle determines direction by aligning itself with the Earth's magnetic north and south poles.
+
+276
+00:22:50,021 --> 00:23:04,021
+If I place this in a little cup and allow it to float on some water so it's free to rotate, the compass will turn around and align itself pointing at the south pole.
+
+277
+00:23:07,660 --> 00:23:16,740
+If I reverse the magnet, the compass senses that the pole has changed and points the other way.
+
+278
+00:23:17,360 --> 00:23:21,160
+Reverse it again, it swings back around.
+
+279
+00:23:22,820 --> 00:23:27,600
+By the 13th century AD, the compass changed the face of sea travel,
+
+280
+00:23:28,320 --> 00:23:32,060
+relieving sailors from plotting their courses solely by the sun and stars.
+
+281
+00:23:32,061 --> 00:23:37,740
+When storms obscured the skies, they could still ably navigate.
+
+282
+00:23:37,741 --> 00:23:45,300
+In the centuries to come, the curious began to slowly unravel magnetism's mysteries.
+
+283
+00:23:45,301 --> 00:23:53,180
+William Gilbert, physician to England's Queen Elizabeth I, led the way in 1600 with his
+
+284
+00:23:53,181 --> 00:23:56,820
+landmark treatise, De Magnete.
+
+285
+00:23:56,821 --> 00:24:00,180
+It was Gilbert who first concluded that the Earth was indeed a giant magnet.
+
+286
+00:24:00,181 --> 00:24:07,180
+More than two centuries passed before an accidental discovery produced the next crucial breakthrough.
+
+287
+00:24:07,181 --> 00:24:17,180
+In 1820, Danish physicist Hans Christian Ørsted stumbled upon magnetism's inextricable relationship to electricity.
+
+288
+00:24:17,181 --> 00:24:24,180
+Hans Christian Ørsted was the first to demonstrate that electric current down a wire would produce a magnetic field.
+
+289
+00:24:24,181 --> 00:24:25,320
+and magnetic field.
+
+290
+00:24:25,860 --> 00:24:28,140
+He just had a compass needle near a wire.
+
+291
+00:24:28,580 --> 00:24:30,420
+When the current went on, the compass needle turned.
+
+292
+00:24:31,180 --> 00:24:33,660
+When the current went off, the compass needle turned back.
+
+293
+00:24:34,740 --> 00:24:36,760
+And he thought this was very curious.
+
+294
+00:24:37,360 --> 00:24:42,800
+This discovery tied together two separate disciplines,
+
+295
+00:24:43,180 --> 00:24:45,260
+electricity and magnetism.
+
+296
+00:24:45,680 --> 00:24:48,720
+Orsted discovered that they're really one and the same thing.
+
+297
+00:24:50,120 --> 00:24:54,080
+A decade after Orsted discovered that electricity creates magnetism,
+
+298
+00:24:54,180 --> 00:25:01,180
+English scientist Michael Faraday demonstrated the reverse, that magnetism can produce electricity.
+
+299
+00:25:01,181 --> 00:25:11,180
+He found that moving a magnet near a stationary coil of wire, or moving a coil of wire within a magnetic field, induced electric current.
+
+300
+00:25:11,181 --> 00:25:19,180
+The oscilloscope is connected to the coil, and it reads the voltage that is induced in the coil.
+
+301
+00:25:19,181 --> 00:25:25,360
+So you can see as I move the coil through the magnet, the spot moves up and down in response.
+
+302
+00:25:27,780 --> 00:25:32,620
+The faster you go, the greater the voltage.
+
+303
+00:25:33,460 --> 00:25:36,240
+So if you need more electricity, you have to move it faster.
+
+304
+00:25:39,040 --> 00:25:41,060
+Faraday's discovery was monumental.
+
+305
+00:25:42,200 --> 00:25:45,000
+It paved the way for the invention of the electric generator,
+
+306
+00:25:45,001 --> 00:25:49,700
+which enabled man to create electricity on a scale never before imaginable.
+
+307
+00:25:51,080 --> 00:25:55,180
+The key to generating the power was to harness some form of mechanical energy
+
+308
+00:25:55,181 --> 00:25:58,420
+in order to put the magnets or electric coils into motion.
+
+309
+00:26:00,020 --> 00:26:04,400
+In a hydroelectric plant, there's water falling over the dam
+
+310
+00:26:04,401 --> 00:26:07,580
+through the sluice way and turning the water wheel.
+
+311
+00:26:08,120 --> 00:26:11,020
+In a coal-burning power plant, the coal makes steam
+
+312
+00:26:11,021 --> 00:26:13,720
+and the steam turbine turns the generator.
+
+313
+00:26:13,721 --> 00:26:18,360
+A wind power generator, the wind turns the blades of the generator.
+
+314
+00:26:19,340 --> 00:26:21,620
+So the process is the same.
+
+315
+00:26:22,060 --> 00:26:25,180
+Mechanical energy converted to electricity.
+
+316
+00:26:26,520 --> 00:26:31,320
+In the early 20th century, magnets were also empowering the reverse of this process,
+
+317
+00:26:32,140 --> 00:26:35,960
+driving electrical motors that converted electricity to mechanical energy.
+
+318
+00:26:38,120 --> 00:26:42,400
+The motors had eclipsed steam engines as the era's prime movers,
+
+319
+00:26:42,401 --> 00:26:46,160
+propelling everything from trolleys to cranes to elevators.
+
+320
+00:26:46,161 --> 00:26:51,940
+In a common electric motor, an electromagnet called the armature
+
+321
+00:26:51,941 --> 00:26:56,500
+revolves between the north and south poles of a stationary magnet called the stator.
+
+322
+00:26:56,501 --> 00:27:02,800
+The armature rotates until its north pole is opposite the south pole of the stator.
+
+323
+00:27:02,801 --> 00:27:09,940
+The direction of the armature's current is then reversed by a device called a commutator,
+
+324
+00:27:09,941 --> 00:27:12,940
+changing its North Pole to a South Pole.
+
+325
+00:27:13,940 --> 00:27:17,940
+The two South Poles repel each other, pushing the armature forward.
+
+326
+00:27:18,940 --> 00:27:21,940
+The current reverses every half turn,
+
+327
+00:27:21,941 --> 00:27:26,940
+keeping the armature in motion by frustrating its effort to bring North Poles near South Poles.
+
+328
+00:27:29,940 --> 00:27:34,940
+Magnet-driven motors and generators accelerated the 20th century's modernization through electricity.
+
+329
+00:27:34,941 --> 00:27:41,940
+electricity. Two inextricably linked industries powered one another's advancement.
+
+330
+00:27:41,941 --> 00:27:48,268
+The rise of the electrical industry involved a great growth in the use of magnets.
+
+331
+00:27:48,269 --> 00:27:48,969
+And
+
+332
+00:27:48,970 --> 00:27:52,212
+also these things worked together. As the industry grew, magnets got better.
+
+333
+00:27:52,213 --> 00:27:52,913
+As magnets
+
+334
+00:27:52,914 --> 00:27:54,053
+got better, the industry grew.
+
+335
+00:27:54,054 --> 00:27:56,760
+So it was very much a symbiotic relationship between magnets
+
+336
+00:27:56,761 --> 00:28:01,480
+and electricity. Experts advanced both industries by developing
+
+337
+00:28:01,481 --> 00:28:06,780
+new generations of magnets with ever-improving properties.
+
+338
+00:28:06,781 --> 00:28:13,700
+The first commercial magnets were made from carbon steel, and later tungsten steel.
+
+339
+00:28:13,701 --> 00:28:18,580
+These were stronger than the naturally occurring lodestone, but heat and jarring could significantly
+
+340
+00:28:18,581 --> 00:28:22,280
+reduce their magnetism.
+
+341
+00:28:22,281 --> 00:28:29,000
+In the 1930s, researchers created a stronger, more heat-resistant variety called Alnico,
+
+342
+00:28:29,001 --> 00:28:33,320
+an iron-based alloy containing aluminum, nickel, and cobalt.
+
+343
+00:28:35,480 --> 00:28:39,960
+Still widely produced today, they stored greater magnetism in a smaller package.
+
+344
+00:28:41,400 --> 00:28:45,480
+But without an electric jolt, their magnetic potential remained dormant.
+
+345
+00:28:47,400 --> 00:28:50,040
+You need a very large magnetic field to magnetize them adequately.
+
+346
+00:28:50,680 --> 00:28:54,160
+So what you want to do is have an electromagnet with a large current.
+
+347
+00:28:55,760 --> 00:28:58,880
+Magnetizing the material is a swift and simple process.
+
+348
+00:28:59,000 --> 00:29:03,520
+Just place the wannabe magnets close to an electromagnet, then turn on the juice.
+
+349
+00:29:04,060 --> 00:29:08,300
+The intense magnetic field realigns the alloy's atoms to make it magnetic.
+
+350
+00:29:14,080 --> 00:29:20,820
+In the 1950s, Alnico magnets were joined by low-cost compact alternatives called ferrites.
+
+351
+00:29:22,100 --> 00:29:27,220
+Today, these iron oxide compounds account for about 90% of the permanent magnet market.
+
+352
+00:29:29,000 --> 00:29:35,000
+The ferrite magnets allowed motors to be made in a smaller diameter, shorter length,
+
+353
+00:29:35,001 --> 00:29:40,000
+and really the application fitted itself very well for the automobile industry.
+
+354
+00:29:40,001 --> 00:29:46,000
+Now you could have seat positioner motors, for example, that fit very nicely beneath the passenger seat,
+
+355
+00:29:46,001 --> 00:29:52,000
+and window lift motors that were now small enough to fit very nicely into the door of an automobile.
+
+356
+00:29:52,001 --> 00:29:57,000
+Today, magnets play a key role in not only our cars,
+
+357
+00:29:57,001 --> 00:30:00,000
+but also our computers.
+
+358
+00:30:00,001 --> 00:30:06,000
+Researchers exploring new frontiers in that field are beginning to see the light.
+
+359
+00:30:10,000 --> 00:30:17,000
+The most powerful known magnetic object in the universe is a neutron star, SGR 180620,
+
+360
+00:30:17,001 --> 00:30:20,000
+in the constellation of Sagittarius.
+
+361
+00:30:20,001 --> 00:30:25,000
+Its magnetic field is a thousand trillion times stronger than Earth's.
+
+362
+00:30:25,001 --> 00:30:31,060
+Earth's magnets will return on modern Marvel's
+
+363
+00:30:31,660 --> 00:30:37,240
+we now return to magnets on modern Marvel's
+
+364
+00:30:42,520 --> 00:30:48,180
+no device illustrates the march of miniaturization and advances in magnets
+
+365
+00:30:48,181 --> 00:30:54,720
+better than the cell phone when retailers unveiled the first generation
+
+366
+00:30:54,721 --> 00:30:59,200
+models in the 1980s. They were as big as bricks and just about as heavy.
+
+367
+00:31:01,520 --> 00:31:06,560
+Over the years, smaller and smaller transistors helped designers create phones with footprints no
+
+368
+00:31:06,561 --> 00:31:12,000
+bigger than a business card. But without a tiny rare earth magnet for its speaker,
+
+369
+00:31:12,640 --> 00:31:15,753
+a model this petite would never have been possible.
+
+370
+00:31:15,754 --> 00:31:18,560
+Rare earth magnets were first developed in the
+
+371
+00:31:18,561 --> 00:31:24,480
+1970s and 80s, derived from a group of scarce metals that until that time were very difficult
+
+372
+00:31:24,481 --> 00:31:25,710
+to refine.
+
+373
+00:31:25,711 --> 00:31:35,800
+They've found that adding these metals to sumerium and cobalt together make a very
+
+374
+00:31:35,801 --> 00:31:40,025
+powerful permanent magnet. These are extremely strong.
+
+375
+00:31:40,026 --> 00:31:42,920
+If you take a magnet made of sumerium
+
+376
+00:31:42,921 --> 00:31:49,780
+cobalt, just three-eighths of an inch square, and you bring them together, you physically have to
+
+377
+00:31:49,781 --> 00:31:53,380
+work very hard to pull them apart.
+
+378
+00:31:53,381 --> 00:31:55,640
+The mighty and minuscule rare earth magnets
+
+379
+00:31:55,641 --> 00:31:59,360
+have helped power the age of mobile computing.
+
+380
+00:31:59,361 --> 00:32:02,080
+They're an integral part of every laptop's miniature disk
+
+381
+00:32:02,081 --> 00:32:04,480
+drive.
+
+382
+00:32:04,481 --> 00:32:06,640
+The relationship between magnets and computers
+
+383
+00:32:06,641 --> 00:32:10,060
+dates back to the 1950s, when scientists explored
+
+384
+00:32:10,061 --> 00:32:15,920
+the idea of using magnets as repositories for information.
+
+385
+00:32:15,921 --> 00:32:19,440
+A north pole up gives one measure of something.
+
+386
+00:32:19,860 --> 00:32:22,660
+A north pole down gives another measure of things.
+
+387
+00:32:22,661 --> 00:32:26,800
+And once we can say this is yes and this is no,
+
+388
+00:32:27,160 --> 00:32:29,500
+then we can build a memory device out of it.
+
+389
+00:32:30,660 --> 00:32:33,500
+Most computers today come equipped with hard drives
+
+390
+00:32:33,501 --> 00:32:35,780
+featuring a layer embedded with tiny magnets.
+
+391
+00:32:37,320 --> 00:32:39,880
+The north-south configurations of those magnets
+
+392
+00:32:39,881 --> 00:32:41,320
+contain encoded information.
+
+393
+00:32:42,460 --> 00:32:45,540
+The hard drive is magnetic.
+
+394
+00:32:45,920 --> 00:32:54,260
+There is a read-write head in the computer that rides just above this rotating disk,
+
+395
+00:32:54,261 --> 00:33:02,260
+and as it rotates, it writes and reads little bits and bytes of information on that disk.
+
+396
+00:33:02,800 --> 00:33:06,420
+It could be a south pole, and next to it, it might write a north pole,
+
+397
+00:33:06,540 --> 00:33:08,840
+so you'd have a one and a zero.
+
+398
+00:33:10,380 --> 00:33:14,420
+Ones and zeros are the components of the so-called binary language of computers.
+
+399
+00:33:15,920 --> 00:33:19,420
+What would appear to us as an ocean of indecipherable numbers
+
+400
+00:33:19,421 --> 00:33:22,920
+contains data easily digestible by the computer's processor.
+
+401
+00:33:24,920 --> 00:33:28,920
+Magnetic hard drives, however, retain only part of a computer's data.
+
+402
+00:33:30,420 --> 00:33:32,920
+Semiconductors provide its primary memory,
+
+403
+00:33:32,921 --> 00:33:35,420
+in which most of the computing takes place.
+
+404
+00:33:36,920 --> 00:33:40,920
+The semiconductor memory known as RAM is faster,
+
+405
+00:33:40,921 --> 00:33:43,420
+but carries a distinct disadvantage.
+
+406
+00:33:43,421 --> 00:33:47,420
+When you shut off the power, the data disappear.
+
+407
+00:33:49,420 --> 00:33:55,420
+Rebooting your computer takes several minutes because it's reloading the lost data onto the memory chips.
+
+408
+00:33:56,420 --> 00:34:03,420
+Researchers, including MIT professor Carolyn Ross, are searching for an alternative, using magnets.
+
+409
+00:34:04,420 --> 00:34:10,420
+The next big thing that's coming along is called MRAM, that's Magnetic Random Access Memory.
+
+410
+00:34:10,421 --> 00:34:14,460
+And what that is is a magnetic chip that you can put in your computer,
+
+411
+00:34:14,461 --> 00:34:17,700
+and it acts like the memory chips we have now,
+
+412
+00:34:17,920 --> 00:34:22,000
+except that when you turn the computer off, the information stays there.
+
+413
+00:34:22,300 --> 00:34:24,440
+And so when you turn the computer back on,
+
+414
+00:34:24,680 --> 00:34:28,060
+all the information is still there and the computer comes on immediately
+
+415
+00:34:28,061 --> 00:34:30,620
+without having to wait for it to boot up.
+
+416
+00:34:31,880 --> 00:34:35,800
+To determine which magnetic material might make the best MRAM chip,
+
+417
+00:34:35,801 --> 00:34:40,800
+Researchers place samples in a machine called an alternating gradient magnetometer.
+
+418
+00:34:40,801 --> 00:34:45,800
+This machine has a couple of big magnets. These are electromagnets.
+
+419
+00:34:45,801 --> 00:34:50,800
+So we pass a big current through some coils and that produces a magnetic field.
+
+420
+00:34:50,801 --> 00:34:54,800
+And it characterizes the magnetic properties of a material.
+
+421
+00:34:54,801 --> 00:34:59,800
+So we can assess whether that will be a good material to use in an MRAM or a hard disk
+
+422
+00:34:59,801 --> 00:35:07,760
+hard disk or other applications like transformer cores, which all use magnetic materials.
+
+423
+00:35:07,761 --> 00:35:13,040
+As the quest for MRAM continues, researchers at Ohio State University are exploring an
+
+424
+00:35:13,041 --> 00:35:14,920
+intriguing alternative.
+
+425
+00:35:14,921 --> 00:35:21,960
+They've created an unusual magnet that also promises to start your computer in a flash.
+
+426
+00:35:21,961 --> 00:35:25,980
+It's made not of iron or steel, but plastic.
+
+427
+00:35:25,981 --> 00:35:29,320
+Presently, plastic magnets remain sensitive to the air.
+
+428
+00:35:30,520 --> 00:35:32,380
+So in our research and our development,
+
+429
+00:35:32,520 --> 00:35:34,880
+we keep our plastic magnets in environments
+
+430
+00:35:34,881 --> 00:35:37,060
+which have no oxygen and no moisture.
+
+431
+00:35:38,760 --> 00:35:40,920
+Researchers produce the plastic magnets
+
+432
+00:35:40,921 --> 00:35:42,260
+by mixing two chemicals,
+
+433
+00:35:43,000 --> 00:35:46,000
+vanadium hexacarbonyl and tetracyanoethylene.
+
+434
+00:35:47,000 --> 00:35:49,740
+What I have here is the vanadium TCME
+
+435
+00:35:49,741 --> 00:35:52,780
+that's been deposited on a piece of Teflon tape.
+
+436
+00:35:53,200 --> 00:35:55,100
+The easiest way to tell if it's magnetic or not
+
+437
+00:35:55,101 --> 00:35:58,100
+is to stick it next to a magnet and see for the tracks.
+
+438
+00:35:59,900 --> 00:36:04,100
+Ohio State's research teams have learned they can manipulate the strength of this magnetism
+
+439
+00:36:04,101 --> 00:36:05,780
+using surprising new methods.
+
+440
+00:36:07,140 --> 00:36:12,860
+With plastic magnets, you're able to control magnetism in ways we can control it
+
+441
+00:36:12,861 --> 00:36:15,000
+with conventional metal or ceramic magnets.
+
+442
+00:36:15,520 --> 00:36:19,120
+The plastic magnet has a structure we can address with light.
+
+443
+00:36:19,121 --> 00:36:28,120
+Experimenting with lasers, the researchers have found they can alter the strength of plastic magnets using different colors of light.
+
+444
+00:36:28,121 --> 00:36:34,120
+Blue light increases the magnet's strength by about 150%.
+
+445
+00:36:34,121 --> 00:36:43,120
+Green light has the opposite effect. It reduces the magnetism by about 60%.
+
+446
+00:36:43,121 --> 00:36:50,120
+Such results hold the promise of recording and reading digital information in a revolutionary new way.
+
+447
+00:36:50,121 --> 00:37:02,089
+Plastics that are magnetic opens up the opportunity for new kinds of technologies that will have computers that turn on instantly, low-power electronics, lightweight
+
+448
+00:37:02,090 --> 00:37:04,120
+ways of storing information.
+
+449
+00:37:04,121 --> 00:37:11,120
+Experts are confident that magnets will rise to the occasion in all fields of scientific endeavor.
+
+450
+00:37:11,121 --> 00:37:18,120
+Some of magnetism's most intriguing applications are totally up in the air.
+
+451
+00:37:22,120 --> 00:37:29,120
+In 1956, IBM introduced RayMac, the first computer system to use magnetic disks to store data.
+
+452
+00:37:30,120 --> 00:37:39,120
+It required 50 24-inch disks to store 5 megabytes, about the same amount of memory needed for a typical MP3 song.
+
+453
+00:37:39,121 --> 00:37:46,120
+Magnets will return on Modern Marvels.
+
+454
+00:37:46,121 --> 00:37:53,120
+We now return to Magnets on Modern Marvels.
+
+455
+00:37:53,121 --> 00:37:58,120
+There's a magnet in Florida attracting the global scientific community.
+
+456
+00:37:58,121 --> 00:38:02,120
+Housed at Tallahassee's National High Magnetic Field Laboratory,
+
+457
+00:38:02,121 --> 00:38:06,120
+it's the largest and most powerful magnet in the world.
+
+458
+00:38:06,121 --> 00:38:10,520
+It generates a magnetic field about a million times greater than the Earth's,
+
+459
+00:38:10,521 --> 00:38:13,220
+making it an invaluable research tool.
+
+460
+00:38:13,221 --> 00:38:18,320
+The mission of the laboratory, the primary mission,
+
+461
+00:38:18,321 --> 00:38:21,020
+is to conduct science in very high magnetic fields.
+
+462
+00:38:21,021 --> 00:38:25,720
+The main reason that we seek out these very, very high fields
+
+463
+00:38:25,721 --> 00:38:29,520
+are much the same reason we might measure things at very high temperatures,
+
+464
+00:38:29,521 --> 00:38:31,720
+or very low temperatures, very extreme conditions.
+
+465
+00:38:31,721 --> 00:38:35,520
+When you move to new areas, just like Captain Kirk and Captain Picard,
+
+466
+00:38:35,521 --> 00:38:39,580
+when you go where no one has gone before, you are bound to learn some new things.
+
+467
+00:38:40,640 --> 00:38:46,020
+The jumbo magnet's awesome force results from the combined power of a giant electromagnet
+
+468
+00:38:46,021 --> 00:38:49,320
+and a nitrogen and helium-cooled superconducting magnet.
+
+469
+00:38:50,840 --> 00:38:56,500
+It's so strong, it can actually levitate materials that you wouldn't expect to react to any magnet.
+
+470
+00:38:58,120 --> 00:39:04,560
+This is possible because most common materials, including water and living tissue, are weakly magnetic.
+
+471
+00:39:05,520 --> 00:39:11,520
+They're said to be diamagnetic, meaning they exhibit a subtle tendency to be repulsed by a magnetic field.
+
+472
+00:39:13,600 --> 00:39:22,720
+One intriguing way to demonstrate this diamagnetic force, as well as the unparalleled power of the lab's magnet, is to enlist the aid of an ordinary frog.
+
+473
+00:39:24,960 --> 00:39:29,140
+Frogs are 90% water, and water is diamagnetic.
+
+474
+00:39:29,141 --> 00:39:33,380
+and let's imagine what happens when we bring a frog
+
+475
+00:39:33,381 --> 00:39:37,800
+near the center of a high magnetic field region.
+
+476
+00:39:38,320 --> 00:39:43,500
+When we do this, the diamagnetic force on the frog gets larger and larger.
+
+477
+00:39:45,680 --> 00:39:48,260
+It may look like the frog is floating in water,
+
+478
+00:39:48,820 --> 00:39:50,900
+but it's actually suspended in the air.
+
+479
+00:39:52,520 --> 00:39:55,520
+The magnetic field being generated is so intense
+
+480
+00:39:55,521 --> 00:39:57,980
+that it's canceling out the force of gravity.
+
+481
+00:39:59,140 --> 00:40:07,540
+A magnet's power of levitation over everything from frogs to frying pans represents much more than an amusing parlor trick.
+
+482
+00:40:08,420 --> 00:40:12,080
+It offers a world of tantalizing commercial possibilities.
+
+483
+00:40:13,020 --> 00:40:22,180
+Say you have machinery that you want to spin very, very fast, and ordinary ball bearings won't do because there's too much friction,
+
+484
+00:40:22,181 --> 00:40:25,760
+you could levitate. They're called magnetic bearings.
+
+485
+00:40:25,761 --> 00:40:32,720
+You can levitate the shaft and allow the shaft to rotate it in a magnetic field.
+
+486
+00:40:34,060 --> 00:40:40,660
+A racier form of magnetic levitation is scorching its way along a 12-mile test track in Emsland, Germany.
+
+487
+00:40:41,800 --> 00:40:51,200
+Here and in Japan, maglev engineers are developing frictionless rail systems that propel trains at speeds up to 275 miles per hour.
+
+488
+00:40:52,380 --> 00:40:55,420
+Wondering how you levitate one of these 60-ton rail cars?
+
+489
+00:40:55,760 --> 00:41:05,520
+The bottom section of the train wraps around a T-shaped track called the guideway.
+
+490
+00:41:05,521 --> 00:41:10,920
+A set of electromagnets lines both sides of the train's undercarriage.
+
+491
+00:41:10,921 --> 00:41:15,880
+An electromagnetic field generated in the guideway attracts the magnets, lifting the
+
+492
+00:41:15,881 --> 00:41:19,980
+train less than half an inch above the track.
+
+493
+00:41:19,981 --> 00:41:24,800
+A second set of magnets lining the train's sides exerts a lateral force, keeping the
+
+494
+00:41:24,801 --> 00:41:26,800
+the vehicle properly aligned.
+
+495
+00:41:30,640 --> 00:41:34,120
+If you're looking for the motor that propels the maglev forward,
+
+496
+00:41:34,121 --> 00:41:37,200
+don't bother looking anywhere on the train.
+
+497
+00:41:37,201 --> 00:41:40,880
+It's laid out flat along the guideway.
+
+498
+00:41:40,881 --> 00:41:47,640
+A system of magnets like that used on Magic Mountain's Superman roller coaster.
+
+499
+00:41:47,641 --> 00:41:50,720
+This is, for example, another application of a linear synchronous motor.
+
+500
+00:41:50,721 --> 00:41:55,100
+If you synchronize the changing of the poles with the motion of the train,
+
+501
+00:41:55,480 --> 00:41:56,960
+you can keep the forces going.
+
+502
+00:41:58,520 --> 00:42:02,420
+Train engineers aren't the only ones getting a lift out of magnetic levitation.
+
+503
+00:42:04,080 --> 00:42:10,080
+Scientists at NASA are exploring how magnets can give the spacecraft of tomorrow a boost into orbit.
+
+504
+00:42:11,720 --> 00:42:17,740
+One of the things that we're investigating that deals with the use of electromagnetic energy
+
+505
+00:42:17,741 --> 00:42:20,000
+is a launch assist system.
+
+506
+00:42:20,001 --> 00:42:34,001
+And this is a ground-based electromagnetic rail with levitation coils and a linear motor that provides thrust to give a launch vehicle the initial velocity from a dead
+
+507
+00:42:34,512 --> 00:42:37,640
+stop up to 400 to 600 miles an hour.
+
+508
+00:42:37,641 --> 00:42:43,520
+We have no contact with the ground due to the levitation.
+
+509
+00:42:44,320 --> 00:42:50,240
+And then the linear motor provides the acceleration and the propulsion in the forward direction.
+
+510
+00:42:53,160 --> 00:42:57,620
+A magnetic levitation launch system would conserve a huge amount of fuel.
+
+511
+00:42:58,660 --> 00:43:01,760
+Fuel that would otherwise be needed to escape Earth's gravity
+
+512
+00:43:01,761 --> 00:43:05,420
+could then be available to propel a craft deeper into space.
+
+513
+00:43:05,421 --> 00:43:12,340
+But some believe magnet technology will play a far more significant role in our quest to reach the stars.
+
+514
+00:43:13,460 --> 00:43:20,480
+Within the next few decades, space propulsion systems could be fueled by superheated gases, called plasmas.
+
+515
+00:43:21,020 --> 00:43:24,460
+And magnets may be the key to containing their immense energy.
+
+516
+00:43:25,640 --> 00:43:33,120
+The particles inside the plasma are charged particles that have very high kinetic energy.
+
+517
+00:43:33,121 --> 00:43:34,420
+That means they're moving.
+
+518
+00:43:34,421 --> 00:43:38,520
+Moving charged particles create a magnetic field.
+
+519
+00:43:39,120 --> 00:43:41,700
+So that means a plasma is magnetic.
+
+520
+00:43:42,040 --> 00:43:45,180
+It will respond to a magnetic field.
+
+521
+00:43:46,520 --> 00:43:51,840
+Experts theorize that magnets would be the only force capable of preventing the superheated plasmas
+
+522
+00:43:51,841 --> 00:43:54,360
+from burning through the walls of the propulsion system.
+
+523
+00:43:55,660 --> 00:43:59,780
+And only magnets could safely direct the plasmas to reaction chambers.
+
+524
+00:43:59,781 --> 00:44:06,160
+If such a system could be engineered, it would power a bold new age of exploration.
+
+525
+00:44:08,060 --> 00:44:15,000
+This concept would eventually lead to enabling humans to go anywhere in the solar system
+
+526
+00:44:15,001 --> 00:44:18,540
+anytime they want to go and at reasonable cost.
+
+527
+00:44:19,760 --> 00:44:22,180
+From the cosmos to your computer.
+
+528
+00:44:23,700 --> 00:44:26,440
+From roller coasters to your refrigerator.
+
+529
+00:44:26,441 --> 00:44:33,440
+magnets exert their invisible yet indelible influence they surround us and
+
+530
+00:44:33,441 --> 00:44:39,440
+empower us as a crucial driving force in our lives
+
+531
+00:44:39,441 --> 00:44:43,440
+the glorious
+

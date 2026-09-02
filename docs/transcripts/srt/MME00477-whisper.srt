@@ -1,0 +1,2216 @@
+1
+00:00:00,001 --> 00:00:06,760
+They're slick operators in liquid, semi-liquid or solid form.
+
+2
+00:00:08,040 --> 00:00:11,680
+The biggest machines and the smallest depend on lubricants.
+
+3
+00:00:13,400 --> 00:00:17,980
+Without them, the world's gears, wheels and bearings would grind to a halt.
+
+4
+00:00:18,980 --> 00:00:21,940
+Now, Lube Job on Modern Marvels.
+
+5
+00:00:30,000 --> 00:00:43,040
+The maintenance schedule says it's time for a lube job.
+
+6
+00:00:43,420 --> 00:00:46,600
+But instead of heading to a gas station, we've come to a bigger facility.
+
+7
+00:00:47,880 --> 00:00:51,220
+That's because the vehicle to be serviced is somewhat bigger than a car.
+
+8
+00:00:52,280 --> 00:00:56,280
+And it's more complex, so the lube job is going to take a little longer.
+
+9
+00:00:56,281 --> 00:01:00,600
+This is a Boeing 757.
+
+10
+00:01:01,400 --> 00:01:04,920
+We do it every six months or so. We'll have the airplane completely lubed.
+
+11
+00:01:05,220 --> 00:01:08,900
+We have to lube about 700 lube points on the aircraft or lube areas.
+
+12
+00:01:09,600 --> 00:01:14,540
+And this will be done accomplished in approximately 50 man hours.
+
+13
+00:01:16,380 --> 00:01:20,120
+Welcome to the American Airlines maintenance facility in Tulsa, Oklahoma,
+
+14
+00:01:20,380 --> 00:01:23,840
+where the lubing begins with the 757's wings.
+
+15
+00:01:23,841 --> 00:01:29,440
+On the wing of this airplane, we have to lubricate all the flight control surfaces to change the shape of the wings.
+
+16
+00:01:30,480 --> 00:01:39,020
+These surfaces include the spoilers, the leading edge slats, the ailerons, and the flaps.
+
+17
+00:01:40,660 --> 00:01:45,080
+All the pivot points, actuators, and associated mechanisms must be greased.
+
+18
+00:01:45,880 --> 00:01:48,600
+The lubricants we use on these aircraft have to face extreme challenges.
+
+19
+00:01:48,601 --> 00:01:54,980
+They have to be able to work and operate and be useful in minus 60 degrees when they're flying up at altitude,
+
+20
+00:01:55,240 --> 00:01:57,440
+down to sitting on the ramp at 130 degrees.
+
+21
+00:01:59,300 --> 00:02:05,800
+The synthetic grease for the flight control surfaces can withstand temperatures as frigid as minus 100 degrees Fahrenheit,
+
+22
+00:02:06,600 --> 00:02:09,180
+or as searing as plus 250.
+
+23
+00:02:10,700 --> 00:02:12,540
+We're on the tail of the aircraft now.
+
+24
+00:02:12,640 --> 00:02:15,160
+This is the elevator that controls the pitch of the aircraft,
+
+25
+00:02:15,161 --> 00:02:20,540
+And the gentlemen behind me are lubeing the elevator hinge points and also the action
+
+26
+00:02:20,541 --> 00:02:22,920
+requirements.
+
+27
+00:02:22,921 --> 00:02:26,340
+Workers also have to lube the rudder.
+
+28
+00:02:26,341 --> 00:02:29,600
+Meanwhile the rest of the team has moved to the landing gear.
+
+29
+00:02:29,601 --> 00:02:33,420
+At the lower points, which collect intense heat from the brakes, the technicians switch
+
+30
+00:02:33,421 --> 00:02:42,800
+to a special high temperature grease, which can withstand up to 350 degrees Fahrenheit.
+
+31
+00:02:42,801 --> 00:02:47,040
+Finally, it's time to lube the massive turbofan engines.
+
+32
+00:02:47,041 --> 00:02:55,720
+The engine on our Boeing 757 aircraft is in the 40,000-pound thrust range, and the engine
+
+33
+00:02:55,721 --> 00:03:00,880
+oil quantity is only about 20 quarts.
+
+34
+00:03:00,881 --> 00:03:04,740
+Airline engineers are so confident about modern synthetic turbine oils that in this
+
+35
+00:03:04,741 --> 00:03:07,980
+jet, the oil is rarely changed.
+
+36
+00:03:07,981 --> 00:03:09,560
+It's usually just topped off.
+
+37
+00:03:09,561 --> 00:03:21,577
+Through the normal replenishment that occurs as they use oil, we find that the oil stays good enough, fresh enough to operate very satisfactorily without draining and
+
+38
+00:03:21,578 --> 00:03:22,880
+refilling the oil.
+
+39
+00:03:24,140 --> 00:03:29,380
+It's taken four technicians one day, but at last this lube job is done.
+
+40
+00:03:30,160 --> 00:03:32,220
+One plane, 700 lube points.
+
+41
+00:03:34,620 --> 00:03:39,240
+Elsewhere in our machine-driven world, there are countless mechanical points to be lubricated.
+
+42
+00:03:39,560 --> 00:03:53,560
+And there are a vast number of lubricants to do the job.
+
+43
+00:03:55,740 --> 00:04:00,920
+The main function of a lubricant is to reduce friction and wear between two rubbing surfaces.
+
+44
+00:04:02,480 --> 00:04:06,080
+Lubricants do this by forming a film, which separates those surfaces.
+
+45
+00:04:06,081 --> 00:04:10,700
+Take away that film, and the result can lead to mechanical failure.
+
+46
+00:04:11,200 --> 00:04:14,300
+If it weren't for lubricants, things would wear out a lot faster,
+
+47
+00:04:14,720 --> 00:04:18,760
+and we'd have a lot higher energy and power losses than we currently experience.
+
+48
+00:04:19,740 --> 00:04:23,580
+Wind turbines put lubricants to a particularly severe test.
+
+49
+00:04:24,160 --> 00:04:28,560
+Some must endure over a trillion cycles on their rotating elements over 20 years' spans.
+
+50
+00:04:28,660 --> 00:04:32,560
+Under severe circumstances, if those oils weren't doing a good job
+
+51
+00:04:32,561 --> 00:04:34,860
+or if the gearbox had some sort of a failure,
+
+52
+00:04:35,300 --> 00:04:37,920
+then the rotating propeller wouldn't be able to turn the gearbox,
+
+53
+00:04:38,180 --> 00:04:39,500
+so you wouldn't generate electricity,
+
+54
+00:04:39,860 --> 00:04:42,700
+but you'd generate an awful lot of heat, damage the gearbox,
+
+55
+00:04:43,040 --> 00:04:44,620
+and potentially even have a fire.
+
+56
+00:04:46,640 --> 00:04:50,200
+Only proper lubrication in advance can prevent such a scenario.
+
+57
+00:04:52,020 --> 00:04:56,420
+But the turbine's 300-foot height makes a lube job a towering chore.
+
+58
+00:04:57,360 --> 00:05:00,780
+Once applied, the lubricants must survive extreme pressures
+
+59
+00:05:00,781 --> 00:05:03,180
+produced by the 75,000-pound rotor,
+
+60
+00:05:03,740 --> 00:05:06,300
+and they also have to stand up to the elements.
+
+61
+00:05:07,320 --> 00:05:09,900
+They're typically deployed in very harsh environments,
+
+62
+00:05:10,400 --> 00:05:11,560
+very remote locations,
+
+63
+00:05:12,080 --> 00:05:15,460
+usually exposed to very harsh moisture conditions
+
+64
+00:05:15,461 --> 00:05:16,800
+as well as extremes in temperature,
+
+65
+00:05:17,300 --> 00:05:18,900
+also wind-driven dust.
+
+66
+00:05:19,420 --> 00:05:23,080
+A wind turbine typically will operate for 20 to 22 hours a day,
+
+67
+00:05:23,500 --> 00:05:24,320
+unlike an automobile,
+
+68
+00:05:24,321 --> 00:05:26,380
+which you may only drive one to two hours a day.
+
+69
+00:05:26,381 --> 00:05:33,760
+The lubricants must take this punishment over a very long haul.
+
+70
+00:05:33,761 --> 00:05:40,660
+The gearbox oil of wind turbines in remote locations may not get changed for seven years.
+
+71
+00:05:40,661 --> 00:05:46,300
+If the oil breaks down within the wind turbine gearbox and we do not have adequate lubrication,
+
+72
+00:05:46,301 --> 00:05:49,280
+we will have premature wear of the gearbox.
+
+73
+00:05:49,281 --> 00:05:55,480
+To prevent such breakdowns, chemists have concocted a synthetic oil the technicians
+
+74
+00:05:55,481 --> 00:06:01,480
+pump into the gearbox at the factory. The lubricant can weather extreme temperatures
+
+75
+00:06:01,481 --> 00:06:02,907
+and last for years.
+
+76
+00:06:02,908 --> 00:06:08,240
+Being much thicker than, say, a car's oil, allows it to withstand heavy
+
+77
+00:06:08,241 --> 00:06:09,774
+mechanical loads.
+
+78
+00:06:09,775 --> 00:06:16,720
+And to reduce gearbox wear, the oil contains particles of the solid lubricant
+
+79
+00:06:16,721 --> 00:06:18,980
+molybdenum disulfide.
+
+80
+00:06:18,981 --> 00:06:24,260
+We do a lot to make sure that the oil inside this gearbox is maintained at adequate temperature,
+
+81
+00:06:24,261 --> 00:06:26,240
+proper temperature and proper cleanliness.
+
+82
+00:06:26,241 --> 00:06:30,000
+Therefore, we have a system on the gearbox for cooling the oil,
+
+83
+00:06:30,001 --> 00:06:33,540
+and we also have a system on the gearbox for heating the oil.
+
+84
+00:06:33,541 --> 00:06:35,600
+This is a filtration system for the gearbox,
+
+85
+00:06:35,601 --> 00:06:38,080
+very critical to deliver clean, cool oil
+
+86
+00:06:38,081 --> 00:06:39,540
+to all the bearings in the gearbox.
+
+87
+00:06:45,080 --> 00:06:47,580
+The origins of lubricants date back a lot farther
+
+88
+00:06:47,581 --> 00:06:49,720
+than your last oil change.
+
+89
+00:06:49,721 --> 00:06:52,280
+Evidence of one of the earliest lubricant discoveries
+
+90
+00:06:52,281 --> 00:06:57,320
+was from early Mesopotamia, dating to about 3250 BC.
+
+91
+00:06:57,321 --> 00:06:59,460
+An early potter's wheel that was discovered
+
+92
+00:06:59,461 --> 00:07:02,660
+showed evidence of hydrocarbon lubricants, probably
+
+93
+00:07:02,661 --> 00:07:07,120
+from a tar seepage in the local area.
+
+94
+00:07:07,121 --> 00:07:08,900
+Relics from Egyptian burial sites
+
+95
+00:07:08,901 --> 00:07:13,640
+reveal that ancient wheels of other kinds were also lubed.
+
+96
+00:07:13,641 --> 00:07:17,880
+Several chariots excavated from Egyptian tombs
+
+97
+00:07:17,881 --> 00:07:21,300
+showed evidence of lubrication on the axles.
+
+98
+00:07:21,301 --> 00:07:24,840
+This was oxidized animal fat, possibly from mutton or beef.
+
+99
+00:07:25,720 --> 00:07:30,760
+For the next three millennia, technology advanced, but lubricants did not.
+
+100
+00:07:31,840 --> 00:07:38,540
+For thousands of years, we had to rely on two different types of natural lubricants,
+
+101
+00:07:39,180 --> 00:07:41,360
+animal fats and vegetable oils.
+
+102
+00:07:41,520 --> 00:07:47,300
+A good example would be olive oil and also beef tallow for animal fats.
+
+103
+00:07:47,301 --> 00:07:54,440
+Even the engineering wonder of the Middle Ages, the mechanical clock, was probably lubricated with animal fats.
+
+104
+00:07:55,840 --> 00:07:59,860
+In warm, arid climates, the lubricant of choice was olive oil.
+
+105
+00:08:00,580 --> 00:08:02,220
+In China, soybean oil.
+
+106
+00:08:03,440 --> 00:08:06,020
+In northwestern Europe, lards and tallows.
+
+107
+00:08:08,660 --> 00:08:14,820
+The Industrial Revolution produced a string of new techno-wonders, but little that was new to lubricate them.
+
+108
+00:08:14,821 --> 00:08:22,120
+The era, however, does provide the earliest written accounts of one of the first solid lubricants, graphite.
+
+109
+00:08:22,700 --> 00:08:28,640
+Workers ground the mineral into a slippery powder, which was used to maintain both small and large machinery in mills.
+
+110
+00:08:31,120 --> 00:08:32,760
+What makes graphite slippery?
+
+111
+00:08:34,180 --> 00:08:42,100
+It has a crystalline structure that's layered, with strong bonds between atoms within a layer, but weak bonds between atoms of different layers.
+
+112
+00:08:42,940 --> 00:08:45,280
+This allows the layers to slide on one another.
+
+113
+00:08:47,180 --> 00:08:52,480
+But by and large, the groundbreaking machines of the Industrial Revolution were lubed with the same old stuff.
+
+114
+00:08:53,120 --> 00:08:54,880
+Though, with a new twist.
+
+115
+00:08:55,680 --> 00:09:01,600
+They were still using the same lubricants, goose grease, lard, palm oil, things like that.
+
+116
+00:09:01,601 --> 00:09:04,200
+But they started mixing them in exotic combinations.
+
+117
+00:09:05,880 --> 00:09:09,820
+There was one organic lubricant of the era, however, that trumped the rest.
+
+118
+00:09:09,821 --> 00:09:13,100
+a liquid hydrocarbon produced by the sperm whale.
+
+119
+00:09:14,980 --> 00:09:20,500
+Sperm whale oil is a natural ester, and it stands up better to oxidation.
+
+120
+00:09:20,900 --> 00:09:25,540
+It doesn't turn rancid and smell bad, and on top of that, it's an excellent lubricant.
+
+121
+00:09:27,560 --> 00:09:31,440
+Sperm whale oil had unique properties in that it had a good shelf life.
+
+122
+00:09:31,441 --> 00:09:36,560
+It had good high-temperature properties and didn't break down at elevated temperatures
+
+123
+00:09:36,561 --> 00:09:40,060
+as readily as other vegetable and animal-based oils.
+
+124
+00:09:40,440 --> 00:09:43,920
+And so it became sort of the gold standard for lubricants.
+
+125
+00:09:44,420 --> 00:09:49,860
+The sperm whale was hunted for its oil from the 1700s until the early 1980s.
+
+126
+00:09:51,920 --> 00:09:55,840
+The liquid was extracted from the blubber and huge head cavity of the whale,
+
+127
+00:09:56,180 --> 00:09:58,560
+a unique feature compared to other whale species.
+
+128
+00:10:00,620 --> 00:10:05,400
+Sperm whale oil was used for high-precision instruments such as clocks,
+
+129
+00:10:05,401 --> 00:10:10,080
+high-speed machinery and other delicate equipment that needed lubrication.
+
+130
+00:10:11,260 --> 00:10:16,600
+But during the Industrial Revolution, people used sperm whale oil primarily for illumination.
+
+131
+00:10:17,600 --> 00:10:20,620
+It was the fuel burned most widely in lamps.
+
+132
+00:10:22,160 --> 00:10:27,700
+And these beautiful creatures were almost hunted to extinction because of this use,
+
+133
+00:10:27,820 --> 00:10:33,180
+and it was becoming very expensive to secure sperm whale oil for these uses.
+
+134
+00:10:33,181 --> 00:10:38,240
+So the search was on for another fuel to replace sperm whale oil.
+
+135
+00:10:39,660 --> 00:10:42,240
+One possibility, petroleum.
+
+136
+00:10:43,400 --> 00:10:48,360
+For centuries, people living where it seeped naturally to the surface collected it for various uses.
+
+137
+00:10:51,040 --> 00:10:54,920
+Egyptians used petroleum for their advanced mummification techniques.
+
+138
+00:10:58,640 --> 00:11:01,420
+Some Native Americans sealed their canoes with it,
+
+139
+00:11:01,421 --> 00:11:05,740
+while other Americans even drank it for their health.
+
+140
+00:11:07,580 --> 00:11:10,860
+In the early 19th century and on,
+
+141
+00:11:11,360 --> 00:11:16,200
+there were many folks gathering up these oils and selling them as all-purpose cures
+
+142
+00:11:16,201 --> 00:11:21,880
+to cure anything from jaundice to liver disease to the gout.
+
+143
+00:11:23,080 --> 00:11:26,560
+Petroleum had little significant application until 1849,
+
+144
+00:11:27,120 --> 00:11:30,980
+when innovators developed a process for distilling a lamp fuel from coal.
+
+145
+00:11:31,420 --> 00:11:34,440
+A light oil called kerosene.
+
+146
+00:11:36,760 --> 00:11:44,480
+In the mid-1800s, they discovered that they could take coal and heat it up and cook the oils out of it.
+
+147
+00:11:45,020 --> 00:11:46,120
+They got two cuts.
+
+148
+00:11:46,260 --> 00:11:50,280
+One was kerosene and one was a thicker oil that was used for lubrication.
+
+149
+00:11:51,720 --> 00:11:56,880
+Kerosene was easy to make, smelled better than sperm whale oil as it burned, and didn't spoil.
+
+150
+00:11:57,940 --> 00:11:59,700
+It created less smoke.
+
+151
+00:11:59,701 --> 00:12:06,860
+It provided a more even and bright light, and with the discovery of being able to just pump oil out of the ground
+
+152
+00:12:06,861 --> 00:12:10,060
+and put a little bit of distillation on it to create lots of kerosene,
+
+153
+00:12:10,360 --> 00:12:18,040
+it drove the price of kerosene way down and really drove the use of whale oil out of the lamp oil market.
+
+154
+00:12:20,920 --> 00:12:25,760
+By 1857, kerosene lanterns had snuffed out whale oil lamps.
+
+155
+00:12:25,761 --> 00:12:33,220
+But petroleum lubricants had not replaced the old animal fats in plant seed oils, which were cheaper to make.
+
+156
+00:12:35,000 --> 00:12:41,320
+However, a new method of producing petroleum was about to revolutionize lubrication and the world.
+
+157
+00:12:45,720 --> 00:12:55,220
+The cavity in the head of a sperm whale, called the spermaceti organ, holds up to 530 gallons of oil and can extend through 40% of the whale's length.
+
+158
+00:12:55,760 --> 00:13:01,100
+Lube Job will return on Modern Marvelous, here on the History Channel.
+
+159
+00:13:05,760 --> 00:13:09,180
+We now return to Lube Job on Modern Marvelous.
+
+160
+00:13:14,260 --> 00:13:19,200
+When it comes to lubricating today's machines, petroleum products dominate.
+
+161
+00:13:19,201 --> 00:13:28,320
+It's hard to imagine that just 150 years ago, most machinery was lubed with plant and animal-based compounds.
+
+162
+00:13:32,420 --> 00:13:36,660
+But in 1859, in the oil slick fields of Pennsylvania,
+
+163
+00:13:37,280 --> 00:13:41,960
+an entrepreneur and adventurer named Colonel Edwin Drake would discover lubrication's future.
+
+164
+00:13:41,961 --> 00:13:48,540
+Colonel Drake was able to hire a drilling team and secure the necessary supplies and the necessary land
+
+165
+00:13:48,541 --> 00:13:50,340
+to drill a successful oil well.
+
+166
+00:13:50,900 --> 00:13:52,460
+And when he discovered oil,
+
+167
+00:13:52,700 --> 00:13:55,420
+it really changed the entire industry overnight
+
+168
+00:13:55,421 --> 00:13:58,700
+because all of a sudden they had a ready supply
+
+169
+00:13:58,701 --> 00:14:02,460
+of literally hundreds and hundreds and hundreds of gallons of oil a day
+
+170
+00:14:02,461 --> 00:14:03,740
+coming out of the ground,
+
+171
+00:14:04,020 --> 00:14:07,180
+and that oil was immediately useful to lubricate.
+
+172
+00:14:09,160 --> 00:14:13,040
+Soon, lubricants made from crude oil replaced those from plants and animals.
+
+173
+00:14:14,900 --> 00:14:17,940
+Not only were they cheaper, but they withstood heat better
+
+174
+00:14:17,941 --> 00:14:19,140
+and didn't putrefy.
+
+175
+00:14:21,980 --> 00:14:25,940
+The new lubricants greased the wheels of a vast array of new machines,
+
+176
+00:14:26,500 --> 00:14:27,740
+most notably the automobile.
+
+177
+00:14:28,600 --> 00:14:31,220
+Its popularity had a huge impact on lubricants.
+
+178
+00:14:31,900 --> 00:14:35,780
+The very first automotive motor oils were crude, literally.
+
+179
+00:14:37,680 --> 00:14:40,160
+They were basically crude right out of the ground
+
+180
+00:14:40,161 --> 00:14:43,500
+with maybe a minor amount of purification or refining.
+
+181
+00:14:44,100 --> 00:14:46,400
+So there were a lot of impurities in there
+
+182
+00:14:46,401 --> 00:14:50,500
+and the oxygen from the air or inside the engine
+
+183
+00:14:50,501 --> 00:14:54,080
+could combine with those impurities and form sludge.
+
+184
+00:14:55,360 --> 00:14:57,540
+Hot temperatures broke down the oils.
+
+185
+00:14:58,400 --> 00:15:00,380
+Cold temperatures made the oils too thick.
+
+186
+00:15:01,080 --> 00:15:04,900
+It was very difficult for the cold oil to be pumped up out of the bottom of the engine.
+
+187
+00:15:05,500 --> 00:15:07,060
+Likewise, when the engine was hot,
+
+188
+00:15:07,400 --> 00:15:10,400
+it was more easy for the oil to be evaporated
+
+189
+00:15:10,401 --> 00:15:12,340
+and blown out the exhaust pipe as smoke.
+
+190
+00:15:12,341 --> 00:15:19,340
+In short, changes in temperature trigger dramatic changes in the oil's viscosity or thickness.
+
+191
+00:15:19,341 --> 00:15:25,340
+In technical terms, viscosity is the resistance to flow.
+
+192
+00:15:25,341 --> 00:15:31,340
+Cold temperatures boost viscosity, while heat reduces it.
+
+193
+00:15:31,341 --> 00:15:40,340
+If you heat a liquid, the molecules separate from each other and this allows the liquids to flow easier.
+
+194
+00:15:40,341 --> 00:15:44,580
+If you cool a liquid, the molecules become closer to each other,
+
+195
+00:15:44,581 --> 00:15:49,380
+and there is less flexibility of molecules or atoms to vibrate and move.
+
+196
+00:15:49,920 --> 00:15:54,600
+The lower the viscosity of a lubricant, the less cushion it provides between moving parts.
+
+197
+00:15:55,620 --> 00:15:59,200
+And since heat lowers viscosity, it reduces protection against wear.
+
+198
+00:15:59,760 --> 00:16:04,360
+But cold temperatures can make viscosity so high that moving parts can't move,
+
+199
+00:16:04,740 --> 00:16:06,180
+and a car engine won't start.
+
+200
+00:16:06,181 --> 00:16:11,140
+In the 1920s, oil companies sought to solve this dilemma.
+
+201
+00:16:11,780 --> 00:16:15,740
+They started making lower viscosity oils by distilling crude at lower temperatures.
+
+202
+00:16:17,040 --> 00:16:20,540
+Depending on the weather, motorists could alternate between thick and thin.
+
+203
+00:16:22,620 --> 00:16:27,420
+In the winter, they would put a much thinner oil in so that cranking would be much easier.
+
+204
+00:16:28,060 --> 00:16:31,280
+And in the summer, they would have to move to a thicker oil
+
+205
+00:16:31,281 --> 00:16:36,840
+so that you'd maintain that oil film thickness between the moving engine parts.
+
+206
+00:16:37,680 --> 00:16:43,200
+In the early 1950s, oil companies began manufacturing multigrade oils,
+
+207
+00:16:43,500 --> 00:16:45,460
+whose viscosity morphed with temperature.
+
+208
+00:16:47,020 --> 00:16:49,620
+Now motorists could use the same oil year-round.
+
+209
+00:16:50,780 --> 00:16:53,160
+Multigrade set the standard for modern motor oil.
+
+210
+00:16:55,020 --> 00:16:59,720
+Multigrade motor oils act like a very thin oil at cold temperatures
+
+211
+00:16:59,721 --> 00:17:01,920
+so that it's easier to start the vehicle,
+
+212
+00:17:02,440 --> 00:17:05,720
+but then they open up and become more viscous at high temperatures
+
+213
+00:17:05,721 --> 00:17:08,960
+so there's a thicker lubricating film to protect moving parts.
+
+214
+00:17:10,180 --> 00:17:13,180
+The secret to multigrade oils is a polymer additive.
+
+215
+00:17:15,080 --> 00:17:18,940
+Polymers are simple molecules that hook up to form large molecular structures.
+
+216
+00:17:20,600 --> 00:17:24,180
+When a multigrade oil is cold, the polymers coil up.
+
+217
+00:17:25,300 --> 00:17:29,520
+But as the oil gets hot, the polymers unwind into long chains
+
+218
+00:17:29,521 --> 00:17:31,140
+that stop the oil from thinning.
+
+219
+00:17:34,080 --> 00:17:37,660
+Additives also help turn petroleum into a wide variety of lubricants
+
+220
+00:17:37,661 --> 00:17:41,280
+to lube the 2,000 different friction points in the average car.
+
+221
+00:17:45,000 --> 00:17:49,080
+Motor oil lubes, cleans, and cools critical parts of the engine.
+
+222
+00:17:50,160 --> 00:17:52,780
+The motor oil has to be very thin and free-flowing
+
+223
+00:17:52,781 --> 00:17:56,800
+so that it can start in its resting place when you start the engine in the morning.
+
+224
+00:17:56,801 --> 00:18:02,620
+It can be drawn up the pickup tube, go through the oil filter, it lubricates the crankshaft,
+
+225
+00:18:02,760 --> 00:18:07,360
+it comes up, it lubricates the camshaft, and then it trickles back down to the bottom for its next cycle.
+
+226
+00:18:09,080 --> 00:18:11,500
+Automatic transmission fluid is a light oil.
+
+227
+00:18:12,640 --> 00:18:17,340
+Its red color comes from a dye, added so that the fluid won't be mistaken for motor oil.
+
+228
+00:18:19,260 --> 00:18:22,720
+Automatic transmission fluid is thinner in viscosity than motor oil
+
+229
+00:18:22,721 --> 00:18:28,560
+because it needs to get through all these small passages and nooks and crannies within the automatic transmission.
+
+230
+00:18:29,840 --> 00:18:36,600
+Additives in the fluid called friction modifiers ensure that the transmission's clutches don't slip or grab during shifting.
+
+231
+00:18:40,180 --> 00:18:42,860
+Gear oil lubricates the rear differential.
+
+232
+00:18:43,600 --> 00:18:49,460
+It's a heavy oil with a sulfurous smell caused by an additive that helps it withstand extreme pressures.
+
+233
+00:18:50,280 --> 00:18:53,440
+Gear oil differs from motor oil in that it's thicker in viscosity
+
+234
+00:18:53,441 --> 00:18:57,100
+because you have all of the power from the transmission
+
+235
+00:18:57,101 --> 00:19:01,720
+being carried through this pinion gear and this ring gear out to the wheels.
+
+236
+00:19:02,200 --> 00:19:05,660
+So the oil needs to be thicker in viscosity to help keep those gear teeth separated.
+
+237
+00:19:07,000 --> 00:19:10,620
+A car's ball joints demand a lubricant that's semi-solid.
+
+238
+00:19:11,680 --> 00:19:12,380
+Grease.
+
+239
+00:19:12,660 --> 00:19:16,740
+Grease is a combination of a liquid lubricant
+
+240
+00:19:16,741 --> 00:19:19,660
+and a thickener that kind of acts like a sponge.
+
+241
+00:19:20,260 --> 00:19:24,260
+And the sponge helps hold the lubricant in place in odd locations
+
+242
+00:19:24,261 --> 00:19:30,180
+where a regular liquid would typically drip out or be thrown out by high rotations.
+
+243
+00:19:31,300 --> 00:19:34,880
+The continual development of new additives has made possible
+
+244
+00:19:34,881 --> 00:19:37,640
+the creation of a universe of petroleum lubricants
+
+245
+00:19:37,641 --> 00:19:39,820
+for a staggering range of applications.
+
+246
+00:19:42,360 --> 00:19:46,660
+But today's world of lubrication isn't limited to products that come from the ground.
+
+247
+00:19:46,740 --> 00:19:50,740
+Now we can make lubricants from scratch.
+
+248
+00:19:53,740 --> 00:19:58,740
+In the 1850s, Samuel Keir built America's first commercial oil refinery.
+
+249
+00:19:59,740 --> 00:20:04,740
+A one-barrel still in Pittsburgh that turned petroleum into kerosene.
+
+250
+00:20:05,740 --> 00:20:08,740
+Lube Job will return on Modern Marvels.
+
+251
+00:20:11,740 --> 00:20:15,740
+We now return to Lube Job on Modern Marvels.
+
+252
+00:20:16,740 --> 00:20:23,740
+How do you keep a mammoth telescope rotating smoothly?
+
+253
+00:20:23,741 --> 00:20:33,740
+That was the challenge tackled in the 1930s by engineers who designed the 200-inch Hale Telescope at Mount Palomar in California.
+
+254
+00:20:33,741 --> 00:20:39,740
+The large horseshoe-shaped object we see behind us supports the north end of the telescope.
+
+255
+00:20:39,741 --> 00:20:42,740
+The telescope weighs over a million pounds.
+
+256
+00:20:42,741 --> 00:20:51,300
+In order for the horseshoe and its massive burden to rotate freely, the horseshoe must literally float on top of its curved support structure.
+
+257
+00:20:51,960 --> 00:20:58,060
+The horseshoe is lubricated by sitting on some pads made of classic bearing material called Babbitt.
+
+258
+00:20:58,620 --> 00:21:02,100
+But if it just dragged on those pads, it would have a lot of friction.
+
+259
+00:21:04,280 --> 00:21:10,080
+So we inject high-pressure oil from pumps down below into pockets in these Babbitt pads.
+
+260
+00:21:10,081 --> 00:21:16,360
+And when we eject it at a high enough pressure, it literally lifts the telescope up and supports it on a film of oil.
+
+261
+00:21:18,100 --> 00:21:24,280
+When the pumps are on, the oil squirts continuously out of the pads at 350 pounds per square inch.
+
+262
+00:21:25,220 --> 00:21:26,880
+It's then recirculating.
+
+263
+00:21:27,680 --> 00:21:33,020
+Originally, it was a special oil called Mobile Flying Horse Telescope Oil No. 95,
+
+264
+00:21:33,520 --> 00:21:39,120
+which was specially compounded to compensate for the seasonal temperature differences here.
+
+265
+00:21:40,080 --> 00:21:47,080
+In recent years, Palomar has switched from petroleum to synthetic oil since it's less flammable.
+
+266
+00:21:50,080 --> 00:21:53,080
+And synthetics also outdo petroleum lubricants on many other counts,
+
+267
+00:21:54,080 --> 00:21:59,080
+a superiority that first aroused commercial interest in the early 20th century.
+
+268
+00:22:01,080 --> 00:22:08,080
+In the 1920s, Standard Oil Company of Indiana developed the first commercial process
+
+269
+00:22:08,081 --> 00:22:10,747
+for making synthetic hydrocarbons.
+
+270
+00:22:10,748 --> 00:22:16,080
+However, due to a lack of interest as well as high production costs,
+
+271
+00:22:16,081 --> 00:22:21,080
+this process was abandoned after the first pilot plant operation.
+
+272
+00:22:21,081 --> 00:22:27,080
+During the same time, IG Farben company in Germany developed the same process.
+
+273
+00:22:27,081 --> 00:22:32,080
+That process made an artificial hydrocarbon from coal.
+
+274
+00:22:32,081 --> 00:22:33,080
+whole.
+
+275
+00:22:33,081 --> 00:22:40,080
+Though other techniques can also create synthetic lubricants out of everything from petroleum
+
+276
+00:22:40,081 --> 00:22:43,940
+to silica sand.
+
+277
+00:22:43,941 --> 00:22:48,900
+The molecules are custom made in a lab by taking naturally occurring ingredients, breaking
+
+278
+00:22:48,901 --> 00:22:53,740
+them apart, and then rebuilding them to be uniform in size, shape, and weight.
+
+279
+00:22:53,741 --> 00:22:57,860
+And that's what makes synthetic oils so good is that you can take out what you don't want
+
+280
+00:22:57,861 --> 00:23:00,120
+in an oil that you pump out of the ground.
+
+281
+00:23:00,121 --> 00:23:03,900
+synthetic oil where you start with a pure gas for example and you make a
+
+282
+00:23:03,901 --> 00:23:08,740
+polymer fluid from a couple of pure gases that you react together you know
+
+283
+00:23:08,741 --> 00:23:12,000
+what you wind up with because you control the starting materials so you
+
+284
+00:23:12,001 --> 00:23:18,300
+have better control of things like how viscosity changes with temperature on
+
+285
+00:23:18,301 --> 00:23:21,780
+the other hand conventional lubricants made from crude oil contains some
+
+286
+00:23:21,781 --> 00:23:26,900
+molecules you don't want petroleum oils are a mix of different types of
+
+287
+00:23:26,901 --> 00:23:30,260
+molecules, including some that are broken or jagged.
+
+288
+00:23:30,261 --> 00:23:32,780
+The early synthetic oils were developed
+
+289
+00:23:32,781 --> 00:23:34,057
+to avoid this.
+
+290
+00:23:34,058 --> 00:23:41,080
+The flawed molecules in petroleum easily attach to oxygen molecules, and that
+
+291
+00:23:41,081 --> 00:23:45,376
+triggers oxidation, which breaks down the lubricant.
+
+292
+00:23:45,377 --> 00:23:48,020
+But for Germany in the late 30s,
+
+293
+00:23:48,021 --> 00:23:50,800
+The big problem with petroleum was its scarcity.
+
+294
+00:23:57,320 --> 00:24:00,000
+By the time Hitler's blitzkrieg had struck Poland,
+
+295
+00:24:00,600 --> 00:24:04,860
+the Germans were manufacturing synthetic lubricants for their military vehicles.
+
+296
+00:24:06,340 --> 00:24:09,660
+And soon the Americans were making them too, for bombers.
+
+297
+00:24:11,640 --> 00:24:15,600
+But it was the post-war development of a new aircraft, the jet,
+
+298
+00:24:15,601 --> 00:24:18,900
+which mostly drove the development of synthetic lubricants.
+
+299
+00:24:20,360 --> 00:24:24,480
+The first jet engines were flown during World War II by the Germans,
+
+300
+00:24:24,960 --> 00:24:28,940
+and those jet engines were using whatever conventional oils were available.
+
+301
+00:24:29,460 --> 00:24:34,440
+But it didn't take too long into the 1940s that we found out that conventional petroleum oils
+
+302
+00:24:34,441 --> 00:24:38,060
+just didn't have the thermal stability to be able to withstand the high temperatures
+
+303
+00:24:38,061 --> 00:24:40,160
+without breaking down in jet engines.
+
+304
+00:24:40,161 --> 00:24:45,400
+High temperatures in the engine can oxidize the oil and thin it down.
+
+305
+00:24:46,200 --> 00:24:50,100
+Synthetic lubricants can handle that much better than hydrocarbon oils can.
+
+306
+00:24:51,520 --> 00:24:55,360
+Jet aircraft also fly at higher altitudes than piston planes.
+
+307
+00:24:56,500 --> 00:25:01,480
+There, atmospheric pressure is lower, which causes petroleum lubricants to evaporate.
+
+308
+00:25:02,000 --> 00:25:06,040
+Hydrocarbon lubricants have smaller molecules as part of the mixture,
+
+309
+00:25:06,041 --> 00:25:10,040
+and these smaller molecules will evaporate away or boil away.
+
+310
+00:25:10,160 --> 00:25:14,240
+creating a highly flammable vapor.
+
+311
+00:25:16,400 --> 00:25:19,320
+However, it was the cold weather benefits of synthetics
+
+312
+00:25:19,321 --> 00:25:23,380
+that inspired one of the visionaries who brought these lubricants to motorists.
+
+313
+00:25:27,220 --> 00:25:32,780
+In the mid-1960s, Lieutenant Colonel Albert Amatuzio, a jet fighter pilot,
+
+314
+00:25:33,220 --> 00:25:36,440
+began experimenting with used synthetic turbine oil from his jet.
+
+315
+00:25:36,441 --> 00:25:42,500
+He was flying in the northern climates where it's quite cold and knew that it worked in his airplanes.
+
+316
+00:25:42,940 --> 00:25:47,900
+He decided to experiment with his cars and see if it would help them start in the cold winters of Minnesota.
+
+317
+00:25:49,480 --> 00:25:53,500
+It did help, so he launched a business to exploit his research.
+
+318
+00:25:54,520 --> 00:25:58,720
+And working with several chemical companies, he developed a history-making motor oil.
+
+319
+00:25:58,721 --> 00:26:08,520
+In 1972, it became the first 100% synthetic car motor oil to be approved by the American Petroleum Institute.
+
+320
+00:26:11,660 --> 00:26:17,700
+Synthetic motor oils excel in winter cold because they aren't hampered by harmful chemicals found in petroleum.
+
+321
+00:26:20,300 --> 00:26:26,040
+There's just a lot of paraffin-type molecules that make wax that occurs in nature,
+
+322
+00:26:26,041 --> 00:26:28,840
+and it finds its way into crude oil.
+
+323
+00:26:30,180 --> 00:26:34,480
+At cold temperatures, the paraffin hardens, hindering the flow of motor oil.
+
+324
+00:26:35,520 --> 00:26:40,660
+From a cold start in wintertime, it can take as long as 20 minutes
+
+325
+00:26:40,661 --> 00:26:43,860
+for the oil to get to the working parts in the engine.
+
+326
+00:26:44,460 --> 00:26:47,500
+In 20 minutes, you can have disastrous wear occur.
+
+327
+00:26:49,840 --> 00:26:53,660
+Today, all of the major oil companies manufacture synthetic motor oils.
+
+328
+00:26:53,661 --> 00:26:58,220
+Though they cost two to four times as much as petroleum products,
+
+329
+00:26:58,800 --> 00:27:02,340
+synthetics now rate as one of the fastest-growing segments of the oil industry.
+
+330
+00:27:04,980 --> 00:27:08,080
+But synthetic lubricants can also be solids.
+
+331
+00:27:09,200 --> 00:27:14,600
+The world's best-known solid lubricant, Teflon, was discovered by accident in 1938.
+
+332
+00:27:16,280 --> 00:27:18,880
+Dr. Roy Plunkett was a chemist for DuPont,
+
+333
+00:27:18,881 --> 00:27:23,200
+and he was investigating the manufacture of new refrigerants.
+
+334
+00:27:23,660 --> 00:27:25,900
+for freon refrigeration.
+
+335
+00:27:25,901 --> 00:27:28,740
+Plunkett and his assistant had stored a refrigerant gas
+
+336
+00:27:28,741 --> 00:27:32,400
+in a pressurized cylinder kept in dry ice.
+
+337
+00:27:32,401 --> 00:27:35,500
+But when they later opened it, no gas came out
+
+338
+00:27:35,501 --> 00:27:36,980
+because the pressure and temperature
+
+339
+00:27:36,981 --> 00:27:40,780
+had caused the gas molecules to form long solid strands,
+
+340
+00:27:40,781 --> 00:27:42,440
+polymers.
+
+341
+00:27:42,441 --> 00:27:44,680
+And when the cylinder was turned upside down,
+
+342
+00:27:44,681 --> 00:27:46,380
+lo and behold, white powder came out,
+
+343
+00:27:46,381 --> 00:27:49,920
+which was a surprise because tetrofluorethylene gas
+
+344
+00:27:49,921 --> 00:27:52,660
+had been put into the cylinder and a fluoropolymer
+
+345
+00:27:52,661 --> 00:27:54,460
+had come out of the cylinder.
+
+346
+00:27:54,461 --> 00:27:59,040
+And furthermore, the cylinder was then taken and cut in half.
+
+347
+00:27:59,041 --> 00:28:01,460
+There was white powder all on the inside.
+
+348
+00:28:01,461 --> 00:28:06,540
+And this indeed was the first sample of Teflon fluoropolymer.
+
+349
+00:28:06,541 --> 00:28:10,100
+Plunkett discovered that Teflon stood up to corrosive chemicals.
+
+350
+00:28:10,101 --> 00:28:12,440
+That's why one of its initial uses was on the project
+
+351
+00:28:12,441 --> 00:28:15,260
+to build the first atomic bomb.
+
+352
+00:28:15,261 --> 00:28:17,940
+Gaskets made out of Teflon fluoropolymer
+
+353
+00:28:17,941 --> 00:28:20,140
+were very good in corrosive environments.
+
+354
+00:28:20,141 --> 00:28:26,820
+and the Manhattan Project required corrosive chemistry to purify and enrich the uranium.
+
+355
+00:28:27,780 --> 00:28:30,240
+But Teflon had another useful trait.
+
+356
+00:28:30,940 --> 00:28:35,640
+It was slippery, more so than any natural solid lubricant like graphite.
+
+357
+00:28:36,320 --> 00:28:40,260
+And that slickness soon turned Teflon into a household word.
+
+358
+00:28:41,420 --> 00:28:46,520
+The secret to Teflon's slipperiness is an atom which comes from a mineral fluorospar.
+
+359
+00:28:46,521 --> 00:28:52,760
+What makes Teflon fluoropolymer so slippery is the fact that the fluorine atom is an integral
+
+360
+00:28:52,761 --> 00:28:55,200
+part of the polymer in the chemistry.
+
+361
+00:28:55,201 --> 00:29:00,800
+The outside surface is shielded by the fluorine atom, which is not reactive with most chemicals
+
+362
+00:29:00,801 --> 00:29:05,360
+and things do not want to stick and slide off the surface.
+
+363
+00:29:05,361 --> 00:29:08,800
+Lubricating challenges at home can't compare with those in the heavens.
+
+364
+00:29:08,801 --> 00:29:13,520
+The environment of space may be hostile, but lubricants keep our craft running smoothly.
+
+365
+00:29:16,520 --> 00:29:21,160
+The first synthetic hydrocarbons, ancestors of today's synthetic motor oils,
+
+366
+00:29:21,161 --> 00:29:26,480
+were created by the chemists Charles Friedel and James Crafts in 1877.
+
+367
+00:29:28,040 --> 00:29:32,420
+Lube Job will return on Modern Marvels, here on the History Channel.
+
+368
+00:29:36,500 --> 00:29:40,320
+We now return to Lube Job on Modern Marvels.
+
+369
+00:29:40,321 --> 00:29:48,500
+It's no exaggeration to say that the exploration of the heavens depends on space-age lubrication,
+
+370
+00:29:49,000 --> 00:29:53,780
+because the harsh new realm of the final frontier has placed new demands on lubricants.
+
+371
+00:29:55,080 --> 00:29:57,060
+First of all, they had to do with vacuum.
+
+372
+00:29:57,240 --> 00:30:01,980
+There's a very hard vacuum in space, and we had to keep the lubricants from evaporating off quickly.
+
+373
+00:30:02,560 --> 00:30:06,940
+Second of all, the temperature extremes in space are much more severe than Earth.
+
+374
+00:30:06,941 --> 00:30:12,620
+There's radiation, there's dust and debris if you're on the moon or Mars,
+
+375
+00:30:13,200 --> 00:30:16,880
+and in addition, it's an extremely long way to go to change your oil.
+
+376
+00:30:19,040 --> 00:30:23,140
+Plus, lubricants had to resist fire, a danger posed by rockets.
+
+377
+00:30:24,280 --> 00:30:29,920
+That was one of the main reasons back in the 60s that NASA adopted a new family of lubricants.
+
+378
+00:30:29,921 --> 00:30:39,720
+NASA was first attracted to Krytox because it was non-flammable and wouldn't react with the oxygen and fuels that they used in their engines.
+
+379
+00:30:41,540 --> 00:30:51,100
+Krytox is DuPont's brand name for a class of lubricants called perfluoropolyethers, or PFPEs, which the company invented in 1959.
+
+380
+00:30:51,101 --> 00:30:59,980
+They're synthesized strings of molecules that contain the same slippery fluorine atoms as
+
+381
+00:30:59,981 --> 00:31:05,667
+Teflon. PFPEs can be turned into either an oil or grease.
+
+382
+00:31:05,668 --> 00:31:08,560
+The grease on the left is the
+
+383
+00:31:08,561 --> 00:31:14,703
+Krytox. The grease on the right is a hydrocarbon lubricant.
+
+384
+00:31:14,704 --> 00:31:18,660
+As you can see, the Krytox is unburned
+
+385
+00:31:18,661 --> 00:31:23,300
+and still looking good the hydrocarbon lubricant is still burning and will continue to burn until
+
+386
+00:31:23,301 --> 00:31:29,540
+it consumes itself and pfpe's had other traits that made them perfect for space
+
+387
+00:31:30,740 --> 00:31:36,100
+they were slow to evaporate resistant to radiation and performed an extreme cold
+
+388
+00:31:39,220 --> 00:31:43,860
+at low temperatures krytox dramatically outperforms hydrocarbon lubricants
+
+389
+00:31:43,861 --> 00:31:48,860
+Both samples have been chilled to minus 94 Fahrenheit.
+
+390
+00:31:48,861 --> 00:31:51,860
+The Krytox still pours.
+
+391
+00:31:55,860 --> 00:31:58,860
+The hydrocarbon is frozen solid.
+
+392
+00:32:00,860 --> 00:32:05,860
+NASA has employed PFPEs on everything from spacesuits to the Mars rovers.
+
+393
+00:32:05,861 --> 00:32:09,860
+PFPEs were the only choice for the deep freeze of Mars.
+
+394
+00:32:09,861 --> 00:32:13,320
+Mars tends to be kind of a cold place.
+
+395
+00:32:13,900 --> 00:32:17,740
+And one of the things that's nice about the fluorocarbon oils
+
+396
+00:32:17,741 --> 00:32:20,600
+is that we can really tailor their molecular weights
+
+397
+00:32:20,601 --> 00:32:25,080
+and come up with an oil that flows very freely at very, very low temperatures.
+
+398
+00:32:25,240 --> 00:32:30,080
+At temperatures hundreds of degrees below zero, we still get good flowability.
+
+399
+00:32:32,620 --> 00:32:36,940
+PFPEs have lubricated the Mars rovers since the very first mission in 1997.
+
+400
+00:32:36,941 --> 00:32:42,940
+Every mechanism that keeps a rover roving depends on them.
+
+401
+00:32:42,941 --> 00:32:46,940
+There's the six wheels and four of those six wheels steer.
+
+402
+00:32:46,941 --> 00:32:51,940
+There's a suspension that holds onto the wheels that also articulates to keep all six wheels on the surface.
+
+403
+00:32:51,941 --> 00:32:54,940
+Over here we have the high gain antenna.
+
+404
+00:32:54,941 --> 00:32:58,940
+This is the two axis gimbal, again lubricated with PFPEs.
+
+405
+00:32:58,941 --> 00:33:01,940
+And this is what we communicate to Earth with.
+
+406
+00:33:01,941 --> 00:33:12,940
+Also lubed by PFPEs, the rover's mechanical arm and its mast, which aims cameras.
+
+407
+00:33:12,941 --> 00:33:20,940
+But PFPEs do have one drawback, which surfaces in zero-gravity environments.
+
+408
+00:33:20,941 --> 00:33:25,940
+Like most things that aren't nailed down, they want to go places.
+
+409
+00:33:25,941 --> 00:33:30,940
+One of the big challenges of space lubrication is that we're dealing with a zero-g or vacuum environment.
+
+410
+00:33:30,941 --> 00:33:35,360
+In that kind of situation, the lubricant will have a tendency to want to migrate away from
+
+411
+00:33:35,361 --> 00:33:40,280
+the surface to which it was applied, which is called creep.
+
+412
+00:33:40,281 --> 00:33:44,620
+NASA thinks it may have been a creeping lubricant which caused controlled gyroscopes on the
+
+413
+00:33:44,621 --> 00:33:51,280
+International Space Station to fail.
+
+414
+00:33:51,281 --> 00:33:54,720
+Pennzoil Company solved the creep issue in the 1980s.
+
+415
+00:33:54,721 --> 00:33:59,220
+They found out they could use a leftover material from their refineries to make a new lubricant
+
+416
+00:33:59,221 --> 00:34:01,800
+called penzane.
+
+417
+00:34:01,801 --> 00:34:04,020
+Penzane is built starting with cyclopentadiene,
+
+418
+00:34:04,021 --> 00:34:07,100
+which is a byproduct of gasoline out of the refinery.
+
+419
+00:34:07,101 --> 00:34:08,880
+It's then reacted with Gorbet alcohols
+
+420
+00:34:08,881 --> 00:34:12,000
+to make the finished product.
+
+421
+00:34:12,001 --> 00:34:14,880
+Besides working as an oil, this synthetic hydrocarbon
+
+422
+00:34:14,881 --> 00:34:20,980
+can be turned into a grease, which in zero gravity stays put.
+
+423
+00:34:20,981 --> 00:34:22,840
+Penzane is particularly resistant to creep
+
+424
+00:34:22,841 --> 00:34:24,620
+because it has a high surface tension.
+
+425
+00:34:24,621 --> 00:34:27,360
+So it adheres very well to the surface to which it's applied,
+
+426
+00:34:27,361 --> 00:34:29,100
+and it stays there.
+
+427
+00:34:29,101 --> 00:34:32,900
+PFPEs used by NASA have been spun off into many consumer products,
+
+428
+00:34:33,100 --> 00:34:36,220
+from computer hard disks to gear for slippery slopes.
+
+429
+00:34:37,060 --> 00:34:40,180
+In working with the Krytox PFPE products,
+
+430
+00:34:40,181 --> 00:34:45,800
+we learned that it worked amazingly well on skis and snowboards.
+
+431
+00:34:50,680 --> 00:34:53,660
+Another aerospace lubricant took off with consumers
+
+432
+00:34:53,661 --> 00:34:56,680
+to become the world's most famous household lubricant.
+
+433
+00:34:56,681 --> 00:35:01,920
+It was invented by a tiny San Diego firm called the Rocket Chemical Company.
+
+434
+00:35:03,120 --> 00:35:07,320
+In 1953, they were hired to fix a problem with a rocket.
+
+435
+00:35:11,800 --> 00:35:16,540
+There was a problem with condensation and corrosion with the Atlas Space Rocket.
+
+436
+00:35:16,740 --> 00:35:22,620
+And from these original vials back in the 50s, the formulation of WD-40 was created.
+
+437
+00:35:22,621 --> 00:35:30,220
+The formula which was developed by chemists here after 39 tries, we ended up with the 40th formula.
+
+438
+00:35:31,140 --> 00:35:33,040
+WD stands for water displacement.
+
+439
+00:35:33,280 --> 00:35:36,960
+40th formula was the magnificent formulation that solved that problem.
+
+440
+00:35:37,520 --> 00:35:42,860
+And from that came the first aerosol can of WD-40 that was manufactured.
+
+441
+00:35:44,200 --> 00:35:51,920
+The liquid worked not only as a rust inhibitor, but also as a solvent, penetrant, cleaning agents, and lubricant.
+
+442
+00:35:52,620 --> 00:35:57,300
+Workers at the company that made the Atlas rocket took notice.
+
+443
+00:35:59,060 --> 00:36:03,440
+The engineers and the plant workers found many uses for the product
+
+444
+00:36:03,441 --> 00:36:09,080
+and really identified that those uses were things that they wanted to use WD-40 on at home.
+
+445
+00:36:09,400 --> 00:36:12,820
+So they would sneak it home and use it and tell their friends about it,
+
+446
+00:36:12,821 --> 00:36:17,140
+and that's the way the product WD-40 got some of its early usage.
+
+447
+00:36:18,680 --> 00:36:21,680
+When the makers of WD-40 saw what was going on,
+
+448
+00:36:21,681 --> 00:36:24,560
+They decided to cash in and sell it to the public.
+
+449
+00:36:26,380 --> 00:36:30,740
+The product, in fact, was one of the first products to be aerosolized.
+
+450
+00:36:30,980 --> 00:36:34,980
+That packaging change made it easy for the consumer to use the brand.
+
+451
+00:36:37,160 --> 00:36:39,780
+In case you hadn't noticed, the marketing worked.
+
+452
+00:36:40,680 --> 00:36:45,080
+The WD-40 can in the United States is in 8 out of 10 households.
+
+453
+00:36:45,400 --> 00:36:49,840
+In fact, it's probably in more households in the U.S. than Coca-Cola.
+
+454
+00:36:49,841 --> 00:36:53,940
+and then from there it's in 160 countries around the world.
+
+455
+00:36:55,200 --> 00:36:59,300
+WD-40 is mixed by what the company affectionately calls brewmasters.
+
+456
+00:37:00,320 --> 00:37:04,840
+Ken East serves as the lone American brewmaster at the company's San Diego headquarters.
+
+457
+00:37:05,200 --> 00:37:10,240
+WD-40 consists of six raw materials that I bring in through our valving system.
+
+458
+00:37:10,740 --> 00:37:15,180
+I bring them in, they come in through here, I monitor each raw material.
+
+459
+00:37:15,181 --> 00:37:18,440
+We get so many gallons, we take it into the system.
+
+460
+00:37:18,441 --> 00:37:22,140
+Once it goes in here, we bring it into the vat.
+
+461
+00:37:24,660 --> 00:37:28,000
+It takes 30 minutes of stirring to brew the final cocktail.
+
+462
+00:37:29,280 --> 00:37:32,760
+The recipe is top secret, known to just a handful of employees.
+
+463
+00:37:33,440 --> 00:37:35,360
+So, what are those secret ingredients?
+
+464
+00:37:35,580 --> 00:37:36,520
+Oh, I can't tell you that.
+
+465
+00:37:37,100 --> 00:37:38,480
+I'd have to kill you if I told you that.
+
+466
+00:37:42,740 --> 00:37:45,540
+Over the years, all anyone else has been able to learn
+
+467
+00:37:45,541 --> 00:37:52,020
+is that WD-40 is a blend of petroleum distillates, a hydrocarbon solvent, and a petroleum base oil.
+
+468
+00:37:54,980 --> 00:37:59,891
+The formula has remained secret and it's locked in a bank vault.
+
+469
+00:37:59,892 --> 00:38:02,500
+I don't know the formula of WD-40,
+
+470
+00:38:03,700 --> 00:38:14,020
+but in it are lubricants and fragrances and anti-corrosives that all come together to make
+
+471
+00:38:14,021 --> 00:38:16,460
+a formula that does many many things.
+
+472
+00:38:18,460 --> 00:38:21,460
+But there are things that today's lubricants can't do
+
+473
+00:38:21,461 --> 00:38:23,380
+when it comes to the machines of tomorrow.
+
+474
+00:38:24,420 --> 00:38:28,140
+Micro devices and the next jet engines are creating sticky problems
+
+475
+00:38:28,141 --> 00:38:30,820
+that demand new lubricating solutions.
+
+476
+00:38:34,540 --> 00:38:39,900
+In 1992, Denver firefighters dislodged a naked burglar
+
+477
+00:38:39,901 --> 00:38:43,080
+stuck in a 14-inch diameter air vent
+
+478
+00:38:43,081 --> 00:38:45,680
+by spraying him with WD-40.
+
+479
+00:38:46,920 --> 00:38:49,520
+Lubejob will return on Modern Marvels
+
+480
+00:38:49,521 --> 00:38:51,540
+here on the History Channel.
+
+481
+00:38:55,380 --> 00:38:59,040
+We now return to Lubejob on Modern Marvels.
+
+482
+00:39:02,140 --> 00:39:06,780
+With technology pushing machines to new size and speed extremes,
+
+483
+00:39:07,400 --> 00:39:10,660
+engineers are scrambling to expand friction-reducing possibilities.
+
+484
+00:39:13,080 --> 00:39:16,200
+and the hurdles get bigger as machines get smaller.
+
+485
+00:39:17,720 --> 00:39:20,680
+Microelectromechanical systems, or MEMS,
+
+486
+00:39:21,000 --> 00:39:23,660
+are being developed for sensors in automobile tires,
+
+487
+00:39:24,640 --> 00:39:28,000
+anti-lock braking systems, and four-wheel drive transmissions.
+
+488
+00:39:29,020 --> 00:39:33,920
+The problem with lubing MEMS is that the laws of nature don't work the same on a micro scale.
+
+489
+00:39:35,900 --> 00:39:39,000
+Well, the main challenges associated with lubricating micromachines
+
+490
+00:39:39,001 --> 00:39:40,780
+come from the fact that they're so small,
+
+491
+00:39:41,360 --> 00:39:42,760
+and they have very little inertia.
+
+492
+00:39:42,761 --> 00:39:45,960
+So these devices are typically designed to operate quickly.
+
+493
+00:39:46,360 --> 00:39:50,340
+Lubricating oils are just not appropriate because the device would be sitting in a bath of fluid
+
+494
+00:39:50,341 --> 00:39:52,520
+and would have to shear that fluid every time it moves.
+
+495
+00:39:55,220 --> 00:39:59,200
+Researchers at Sandia National Labs are tackling this issue
+
+496
+00:39:59,201 --> 00:40:02,920
+in the Microsystems and Engineering Sciences Applications Project.
+
+497
+00:40:04,000 --> 00:40:07,420
+The biggest challenge of using any lubricant for microsystems
+
+498
+00:40:07,421 --> 00:40:10,260
+is getting the lubricant to the sliding surfaces where it's needed.
+
+499
+00:40:10,900 --> 00:40:13,120
+Frequently, these devices have very complex shape,
+
+500
+00:40:13,440 --> 00:40:17,300
+and the sliding surfaces are deeply buried inside the mechanism.
+
+501
+00:40:18,440 --> 00:40:23,700
+The researchers have found one solution in so-called gas-deposited lubricating films.
+
+502
+00:40:25,860 --> 00:40:30,280
+One of the chief ways of lubricating microsystems is with gas-deposited films.
+
+503
+00:40:30,820 --> 00:40:33,980
+And the way that works is the molecules are evaporated from some source,
+
+504
+00:40:33,981 --> 00:40:37,000
+they move through the air, and then land on the surfaces,
+
+505
+00:40:37,440 --> 00:40:39,800
+and they can migrate along those surfaces to where they're needed.
+
+506
+00:40:40,260 --> 00:40:47,460
+The molecules of the lubricant and alcohol can easily negotiate the narrow gaps in this micro machine,
+
+507
+00:40:47,860 --> 00:40:50,020
+which measures only 2 millimeters across,
+
+508
+00:40:50,840 --> 00:40:53,400
+about the width of the lead in a typical wooden pencil,
+
+509
+00:40:54,060 --> 00:40:58,760
+and about 15 microns thick, just one-fourth the diameter of a human hair.
+
+510
+00:41:00,500 --> 00:41:02,820
+The machine is being used to measure friction.
+
+511
+00:41:03,180 --> 00:41:05,260
+The lubricant is everywhere on this device,
+
+512
+00:41:05,660 --> 00:41:08,080
+but contact only takes place between this movable beam
+
+513
+00:41:08,081 --> 00:41:11,200
+and one of these posts that are anchored to the substrate.
+
+514
+00:41:13,720 --> 00:41:15,180
+After coating the device,
+
+515
+00:41:15,560 --> 00:41:18,740
+the lubricant's molecules chemically attach to the machine's surfaces.
+
+516
+00:41:20,500 --> 00:41:24,180
+The molecules of this film can be engineered to have one end that is sticky
+
+517
+00:41:24,181 --> 00:41:26,840
+so that it reacts with the silicon surface and will attach,
+
+518
+00:41:27,200 --> 00:41:30,560
+and the other end that is very slippery so that things slide over it very easily.
+
+519
+00:41:35,200 --> 00:41:37,760
+For machines you don't need a microscope to see,
+
+520
+00:41:38,080 --> 00:41:40,740
+The answer to lubrication may be found in the air.
+
+521
+00:41:41,400 --> 00:41:46,480
+This is a microturbine power generating system manufactured by Capstone Turbine Corporation.
+
+522
+00:41:47,400 --> 00:41:52,420
+The heart of the machine is the generator that runs at 96,000 revolutions per minute.
+
+523
+00:41:53,420 --> 00:41:58,040
+What I have in front of me is a cross-section of a Capstone microturbine generator.
+
+524
+00:41:58,840 --> 00:42:04,020
+What happens during the combustion process is we bring air through the turbine,
+
+525
+00:42:04,021 --> 00:42:07,480
+which drives a shaft and compressor wheel
+
+526
+00:42:07,481 --> 00:42:11,420
+and drives a generator which produces 60 kilowatts of energy.
+
+527
+00:42:11,421 --> 00:42:14,880
+What I have in front of me is that shaft removed
+
+528
+00:42:14,881 --> 00:42:19,100
+which rides here where my fingers are on cushions of air
+
+529
+00:42:19,101 --> 00:42:23,380
+in the single moving part of a capstone microturbine.
+
+530
+00:42:24,920 --> 00:42:29,200
+The same technology will one day revolutionize jet aircraft engines,
+
+531
+00:42:29,680 --> 00:42:30,940
+making them oil-free.
+
+532
+00:42:30,941 --> 00:42:36,620
+That's the dream behind a NASA research project that created this test rig.
+
+533
+00:42:38,680 --> 00:42:43,860
+Like the power generating systems, it floats a spinning turbine shaft on a cushion of air.
+
+534
+00:42:45,740 --> 00:42:49,880
+The advantages of air over conventional lubricants is less drag.
+
+535
+00:42:50,440 --> 00:42:52,340
+It doesn't break down over time.
+
+536
+00:42:52,940 --> 00:42:57,260
+It's not needed to be replenished as conventional oils or greases do.
+
+537
+00:42:57,261 --> 00:43:02,500
+and it increases the overall performance and reliability of the rotating parts.
+
+538
+00:43:04,360 --> 00:43:09,300
+This machine's secret is a foil air bearing, which has two components.
+
+539
+00:43:09,840 --> 00:43:15,280
+The top foil, made of a high-temperature alloy, and a corrugated bump foil.
+
+540
+00:43:17,360 --> 00:43:20,400
+At speeds above 2,000 revolutions per minute,
+
+541
+00:43:20,840 --> 00:43:24,300
+a thin film of air separates the shaft from the bearing surfaces.
+
+542
+00:43:24,301 --> 00:43:36,150
+If you provide this kind of an air bearing for jet engines, it turns out that you can not only eliminate 15% of the engine weight, but you can also eliminate half of
+
+543
+00:43:36,151 --> 00:43:38,520
+all the engine maintenance costs.
+
+544
+00:43:41,920 --> 00:43:44,560
+Air lubrication is also clean.
+
+545
+00:43:45,760 --> 00:43:50,400
+This futuristic technology doesn't leak or burn oil like conventional turbo machinery.
+
+546
+00:43:51,520 --> 00:43:53,960
+And there's no used oil to get rid of.
+
+547
+00:43:54,300 --> 00:44:00,314
+It's abundant as a resource. It's green friendly. It's environmentally friendly.
+
+548
+00:44:00,315 --> 00:44:11,140
+And more importantly, it provides for improvements in product performance heretofore not known in conventional types of bearings and lubricants.
+
+549
+00:44:11,141 --> 00:44:18,280
+With air and the invention of new lubricants, our machines will be able to go further and
+
+550
+00:44:18,281 --> 00:44:22,380
+faster for longer periods of time.
+
+551
+00:44:22,381 --> 00:44:25,140
+That's been the purpose of lubricants from the start.
+
+552
+00:44:25,141 --> 00:44:33,900
+From helping a chariot axle spin to allowing robotic arms on Mars rovers to move.
+
+553
+00:44:33,901 --> 00:44:38,260
+Lubricants are crucial to the advance of technology.
+
+554
+00:44:38,261 --> 00:44:41,560
+They literally keep the wheels of progress turning.
+

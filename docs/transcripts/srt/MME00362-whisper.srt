@@ -1,0 +1,2032 @@
+1
+00:00:00,001 --> 00:00:09,920
+The history of auto racing is littered with spectacular and deadly crashes.
+
+2
+00:00:12,720 --> 00:00:19,800
+But today, a high-tech array of safety gear has evolved to separate victory from disaster.
+
+3
+00:00:24,800 --> 00:00:28,840
+Now, racetrack tech on Modern Marvels.
+
+4
+00:01:00,000 --> 00:01:07,400
+In auto racing, highly evolved breeds of automobiles push the limits of mechanical engineering
+
+5
+00:01:07,401 --> 00:01:09,100
+and aerodynamics.
+
+6
+00:01:09,101 --> 00:01:13,880
+Equipped with the latest technology, race teams fine tune each machine in search of
+
+7
+00:01:13,881 --> 00:01:15,620
+a winning edge.
+
+8
+00:01:15,621 --> 00:01:19,840
+Which in racing means one thing, speed.
+
+9
+00:01:19,841 --> 00:01:24,520
+Unfortunately, there's no guarantee of making it to the finish line.
+
+10
+00:01:24,521 --> 00:01:29,840
+The sport's risks are as clearly defined as the black and white on a checkered flag.
+
+11
+00:01:29,841 --> 00:01:33,400
+racing professionals understand the dangers they face.
+
+12
+00:01:33,401 --> 00:01:38,960
+They also know that hidden in the twisted mass of carbon fiber and steel lie clues that
+
+13
+00:01:38,961 --> 00:01:44,220
+can lead the way to designing safer race cars.
+
+14
+00:01:44,221 --> 00:01:49,440
+That's why today there's a new kind of crash science developing in motorsports.
+
+15
+00:01:49,441 --> 00:01:54,640
+It's a track savvy brand of detective work that allows crash scene investigators to draw
+
+16
+00:01:54,641 --> 00:01:58,800
+valuable safety lessons from every pile of wreckage.
+
+17
+00:01:58,801 --> 00:02:03,300
+There's all kinds of things they can go back now and look at, hard evidence, break it down,
+
+18
+00:02:03,301 --> 00:02:09,900
+analyze it, almost make it look almost as if it's revisiting the scene of a crime.
+
+19
+00:02:09,901 --> 00:02:15,200
+From the crash scene, it's off to the laboratory, where researchers conceive and test the latest
+
+20
+00:02:15,201 --> 00:02:17,200
+safety innovations.
+
+21
+00:02:17,201 --> 00:02:22,180
+They blend data gathered at the track with space-age materials to create newer, better
+
+22
+00:02:22,181 --> 00:02:23,820
+safety gear.
+
+23
+00:02:23,821 --> 00:02:29,220
+This gear is constantly evolving because for every technological breakthrough, there's
+
+24
+00:02:29,221 --> 00:02:32,920
+another breakdown waiting just around the next turn.
+
+25
+00:02:32,921 --> 00:02:34,760
+There's an action and a reaction.
+
+26
+00:02:34,761 --> 00:02:38,780
+What you think is the best today may not be the best tomorrow.
+
+27
+00:02:38,781 --> 00:02:45,140
+Auto racing began in Europe in the mid-1890s with cars running neck and neck at a top speed
+
+28
+00:02:45,141 --> 00:02:48,380
+of 11 miles per hour.
+
+29
+00:02:48,381 --> 00:02:53,120
+Around the turn of the century, American and European racers began competing on tracks
+
+30
+00:02:53,121 --> 00:02:54,900
+like the Brickyard in Indianapolis.
+
+31
+00:02:55,680 --> 00:02:59,040
+These new tracks became showplaces for the best cars
+
+32
+00:02:59,041 --> 00:03:01,020
+and the biggest egos.
+
+33
+00:03:02,040 --> 00:03:06,500
+Well, in the early days, there was a whole lot of men were men,
+
+34
+00:03:06,660 --> 00:03:10,060
+and that was the whole philosophy behind racing.
+
+35
+00:03:10,220 --> 00:03:11,880
+I mean, it was who could be the biggest man
+
+36
+00:03:11,881 --> 00:03:15,380
+and had the biggest ego to get out there
+
+37
+00:03:15,381 --> 00:03:17,040
+and really go after it to go racing.
+
+38
+00:03:17,940 --> 00:03:19,920
+The drivers had to be fearless
+
+39
+00:03:19,921 --> 00:03:23,160
+because even at speeds of just 50 miles per hour,
+
+40
+00:03:23,600 --> 00:03:26,040
+cars were prone to devastating equipment failure.
+
+41
+00:03:26,980 --> 00:03:29,560
+One of the most common parts to fail were the tires.
+
+42
+00:03:30,720 --> 00:03:32,880
+So the quest to make a better race tire
+
+43
+00:03:32,881 --> 00:03:36,000
+became one of the first safety challenges in motorsports.
+
+44
+00:03:37,780 --> 00:03:41,060
+Engineers at one of the early tire manufacturers, Goodyear,
+
+45
+00:03:41,400 --> 00:03:44,040
+determined that tire failure was caused by a deficiency
+
+46
+00:03:44,041 --> 00:03:45,980
+in the tire's square woven fabric.
+
+47
+00:03:46,820 --> 00:03:48,380
+As a race car rounded a corner,
+
+48
+00:03:48,381 --> 00:03:51,360
+the force of the turn would cause the fabric to tear.
+
+49
+00:03:52,300 --> 00:03:54,860
+By switching to a cord fabric design,
+
+50
+00:03:55,320 --> 00:03:58,520
+Goodyear found that the tires could flex in the turns without tearing.
+
+51
+00:03:59,280 --> 00:04:01,940
+But this innovation, like so many in early racing,
+
+52
+00:04:02,340 --> 00:04:06,000
+was soon made obsolete by the sport's increasing speeds.
+
+53
+00:04:07,340 --> 00:04:11,100
+From dirt ovals in the south to the Grand Prix courses in Europe,
+
+54
+00:04:11,760 --> 00:04:15,340
+race teams were obsessed only with building faster cars.
+
+55
+00:04:15,341 --> 00:04:23,440
+And while the technology of speed zoomed into the future, the development of safety gear remained mired in the past.
+
+56
+00:04:24,640 --> 00:04:29,580
+In the 1940s, drivers wore flimsy helmets with liners made of pressed cork.
+
+57
+00:04:30,280 --> 00:04:36,960
+And up until the 1960s, racers buckled up with a single lap belt and dressed in flammable cotton suits.
+
+58
+00:04:38,880 --> 00:04:44,440
+Finally, in the 1970s, racing began to fully embrace new innovations in safety.
+
+59
+00:04:45,340 --> 00:04:51,840
+Drivers started wearing modern protective fire suits, stronger helmets, and shoulder harness seat belts.
+
+60
+00:04:54,380 --> 00:04:58,840
+The new safety gear was often custom made by the race teams and drivers themselves.
+
+61
+00:05:00,600 --> 00:05:07,200
+It was a bunch of guys that saw things and the patterns that occurred with a series or sequence of crashes.
+
+62
+00:05:07,680 --> 00:05:11,540
+And it was friends of friends of friends that said, hey, look, we need to do something here.
+
+63
+00:05:11,541 --> 00:05:18,100
+It would not be until the late 1980s that the study of racing safety became a recognized science.
+
+64
+00:05:19,120 --> 00:05:22,920
+By then, track speeds were topping 200 miles per hour.
+
+65
+00:05:23,680 --> 00:05:26,820
+And with the increased speed came increased dangers.
+
+66
+00:05:27,540 --> 00:05:30,620
+It was clear that something had to be done about safety.
+
+67
+00:05:31,120 --> 00:05:35,860
+So race officials teamed up with the biomechanical engineers working in the auto industry.
+
+68
+00:05:35,861 --> 00:05:46,531
+We had the sleds, we had the dummies, and we had the recording devices that allowed us to put black box recorders into the race cars and begin to collect what turns
+
+69
+00:05:46,532 --> 00:05:50,500
+out to be super valuable data on real people in real crashes.
+
+70
+00:05:51,200 --> 00:05:59,140
+Crash investigators began using high-speed cameras to slow things down and see the method within the madness of a dramatic crash.
+
+71
+00:05:59,780 --> 00:06:04,260
+Through their research, they defined two major categories of crashes.
+
+72
+00:06:04,261 --> 00:06:08,760
+In a dispersed crash, the car crumples into pieces that fly off.
+
+73
+00:06:09,940 --> 00:06:14,180
+As this happens, the force of the impact is transferred away from the driver.
+
+74
+00:06:14,780 --> 00:06:19,340
+In a focused crash, the force of the impact is channeled in a single direction.
+
+75
+00:06:20,380 --> 00:06:26,480
+Driver Alex Zanardi experienced this type of crash in 2001 at Germany's Eurospeedway.
+
+76
+00:06:26,481 --> 00:06:37,900
+I think the thing with the Zanardi accident was it was really just, you know, two cars at a certain angle at the wrong place at the wrong time.
+
+77
+00:06:38,280 --> 00:06:43,920
+As Zanardi pulled out of the pits, he was struck by an oncoming racer at full speed.
+
+78
+00:06:44,660 --> 00:06:46,880
+The impact tore off the front end of his car.
+
+79
+00:06:48,040 --> 00:06:50,260
+Zanardi lost both of his legs in the accident.
+
+80
+00:06:50,261 --> 00:06:57,260
+After carefully studying the crash, officials decided to add even more carbon fiber reinforcement
+
+81
+00:06:57,261 --> 00:07:03,260
+to the sidewall of the racing tub that surrounds the driver in Indy-style cars.
+
+82
+00:07:03,261 --> 00:07:10,260
+The extra carbon fiber became known as the Zanardi bar, and it reinforced the midsection of the car.
+
+83
+00:07:10,261 --> 00:07:19,260
+In 2002, an accident at the Australian race in Surfer's Paradise demonstrated the Zanardi bar's effectiveness in a crash.
+
+84
+00:07:19,261 --> 00:07:24,060
+But the dramatic collision also showed that even more protection was needed.
+
+85
+00:07:25,000 --> 00:07:28,980
+At Surfer's Paradise, the track was wet and visibility was limited.
+
+86
+00:07:30,200 --> 00:07:36,540
+By the time Japanese driver Tora Takagi came upon a multi-car accident, there was no time to react.
+
+87
+00:07:37,620 --> 00:07:40,520
+And as you can see, this is the first part of the impact.
+
+88
+00:07:40,880 --> 00:07:42,700
+You can just see the wheel.
+
+89
+00:07:43,300 --> 00:07:45,820
+There's the shape of the wheel and there's the axle.
+
+90
+00:07:45,821 --> 00:07:52,240
+In the second phase of the crash, the tub of Takagi's car was T-boned by another oncoming racer.
+
+91
+00:07:52,241 --> 00:07:58,620
+The force of the impact penetrated Takagi's carbon tub and flipped his car upside down.
+
+92
+00:07:58,621 --> 00:08:06,460
+In the aftermath of the crash, Takagi's race team was able to examine the point of penetration just beneath the Zanardi bar.
+
+93
+00:08:06,461 --> 00:08:10,480
+And here we've got a safety system being added.
+
+94
+00:08:10,481 --> 00:08:15,820
+and guess what? This nose is actually gone in underneath the patch.
+
+95
+00:08:16,100 --> 00:08:19,500
+It's gone below the area. So what does that need to do?
+
+96
+00:08:19,580 --> 00:08:26,100
+That needs to carry on around here to add some safety to the below that patch
+
+97
+00:08:26,101 --> 00:08:29,340
+because not all of the accidents go in here or go in here.
+
+98
+00:08:29,420 --> 00:08:33,780
+They can go anywhere. So you might say it looks obvious now,
+
+99
+00:08:33,781 --> 00:08:39,360
+but this is the first time anybody's ever seen this kind of destruction.
+
+100
+00:08:40,480 --> 00:08:47,040
+Takagi's car was destroyed, but the Zanardi bar helped it hold together well enough to prevent any serious injuries.
+
+101
+00:08:48,060 --> 00:08:50,800
+Takagi was back racing the following week.
+
+102
+00:08:51,700 --> 00:08:57,660
+And today, car designers are still analyzing how to prevent future penetrations of the carbon fiber tub.
+
+103
+00:08:59,160 --> 00:09:04,760
+Car-to-car crashes aren't the only ones that leave safety engineers scratching their heads.
+
+104
+00:09:04,761 --> 00:09:13,880
+In fact, some of the most perplexing and deadly crashes occur when cars slam into the walls that line the track.
+
+105
+00:09:14,560 --> 00:09:17,760
+In the early days, some tracks had no walls.
+
+106
+00:09:18,480 --> 00:09:24,660
+But after cars started crashing into the spectators, barriers were added to protect the race fans.
+
+107
+00:09:25,740 --> 00:09:32,120
+Wooden, straw, and plain old dirt barriers helped absorb the brunt of the impact,
+
+108
+00:09:32,121 --> 00:09:35,020
+but didn't always stop a tumbling car.
+
+109
+00:09:35,620 --> 00:09:39,500
+So tracks began building the concrete barriers that are still in use today.
+
+110
+00:09:40,640 --> 00:09:43,820
+Concrete walls can stop a car dead in its tracks,
+
+111
+00:09:44,240 --> 00:09:48,180
+but the blunt force of the impact causes serious injuries to drivers.
+
+112
+00:09:54,180 --> 00:09:59,220
+At the University of Nebraska, engineers are testing a new type of track wall.
+
+113
+00:09:59,380 --> 00:10:01,460
+It's called the Safer Barrier.
+
+114
+00:10:02,120 --> 00:10:06,120
+SAFER stands for Steel and Foam Energy Reduction.
+
+115
+00:10:06,121 --> 00:10:12,120
+The barrier is constructed of rectangular steel tubes welded together to form a unified element.
+
+116
+00:10:12,121 --> 00:10:22,120
+Bundles of two-inch thick sheets of extruded closed cell polystyrene are placed in modules between the steel tubing and the existing concrete wall.
+
+117
+00:10:22,121 --> 00:10:31,120
+We use these strategically spaced behind the steel skin to absorb the impact event that's coming in with the crash vehicle.
+
+118
+00:10:31,121 --> 00:10:36,480
+We're trying to make it less strenuous on the drivers in the race cars
+
+119
+00:10:36,481 --> 00:10:40,160
+and trying to reduce the potential for serious injuries.
+
+120
+00:10:41,160 --> 00:10:44,600
+Dr. Dean Sicking's team at the University of Nebraska
+
+121
+00:10:44,601 --> 00:10:50,260
+uses test dummies and real Indy race cars to study the safer barriers' effectiveness.
+
+122
+00:10:51,500 --> 00:10:54,200
+Each car is outfitted with crash recorders,
+
+123
+00:10:54,440 --> 00:10:56,820
+which are linked to sensors installed throughout the car.
+
+124
+00:10:57,700 --> 00:11:02,420
+These sensors monitor the force loads as the energy of the crash rips through the car.
+
+125
+00:11:04,440 --> 00:11:10,860
+The force of the impact is also measured with accelerometers embedded inside the head of the crash test dummy.
+
+126
+00:11:11,880 --> 00:11:16,700
+I once described this dummy as the fastest riding dummy on Earth.
+
+127
+00:11:17,360 --> 00:11:22,800
+In the head, there are three accelerometers mounted at the CG, or center gravity of the skull,
+
+128
+00:11:22,801 --> 00:11:27,540
+measuring accelerations in three directions, the frontal, side to side, up and down.
+
+129
+00:11:28,140 --> 00:11:34,160
+The data gathered by the crash recorders is assembled in a way that lets researchers know how well the barriers are working.
+
+130
+00:11:35,300 --> 00:11:36,000
+Now, Dr.
+
+131
+00:11:36,001 --> 00:11:42,500
+Sikin is preparing to crash real Indy race cars into both a concrete wall and a new, safer barrier.
+
+132
+00:11:43,560 --> 00:11:48,200
+He will then compare data and see where improvements to the barrier system can be made.
+
+133
+00:11:48,201 --> 00:11:55,600
+We're going to try to crash this into a radius concrete barrier at 150 miles per hour and 25 degrees.
+
+134
+00:11:55,601 --> 00:12:02,080
+The cameras are in place, and the car hurls toward the wall at 150 miles per hour.
+
+135
+00:12:04,660 --> 00:12:07,900
+The devastation is quick and complete.
+
+136
+00:12:09,000 --> 00:12:13,900
+Next, Dr. Sicking's research team sends an identical car into the safer barrier.
+
+137
+00:12:15,040 --> 00:12:18,140
+The second crash appears just as destructive as the first.
+
+138
+00:12:18,200 --> 00:12:23,200
+But computer readings from the car's crash recorders tell a different story.
+
+139
+00:12:23,201 --> 00:12:29,200
+At the point of impact, the safer barrier begins to absorb the force of the crash.
+
+140
+00:12:29,201 --> 00:12:34,200
+This force dissipates as the crash continues and protects the driver in the cockpit.
+
+141
+00:12:43,200 --> 00:12:47,200
+Similar tests using stock cars offer the same promising results.
+
+142
+00:12:48,200 --> 00:13:00,020
+The vast majority of injuries and fatalities over the last 10 years have involved the outside barriers on the outsides of the turns.
+
+143
+00:13:00,700 --> 00:13:01,740
+And so that's been our focus.
+
+144
+00:13:01,741 --> 00:13:10,920
+As we move forward and we tackle this problem and we achieve success in that we dramatically reduce injury and fatalities for those impacts,
+
+145
+00:13:10,921 --> 00:13:20,500
+other less common types of crashes that are producing injuries and fatalities will be addressed in the future, I'm sure.
+
+146
+00:13:21,640 --> 00:13:29,540
+Before the advent of modern research techniques, safety innovations were spurred only by injuries and fatalities at the track.
+
+147
+00:13:34,080 --> 00:13:40,880
+Next, new safety requirements emerged from a pair of tragedies during stock car racing's golden age.
+
+148
+00:13:40,920 --> 00:13:53,960
+In 1954, Air Force Colonel John Stapp rode a rocket sled called the Sonic Wind to speeds
+
+149
+00:13:53,961 --> 00:13:56,480
+over 600 miles per hour.
+
+150
+00:13:56,481 --> 00:14:01,920
+These sled tests paved the way for modern race safety research.
+
+151
+00:14:01,921 --> 00:14:07,680
+You're watching Modern Marvels.
+
+152
+00:14:07,780 --> 00:14:10,160
+Racetrack tech here on the History Channel.
+
+153
+00:14:11,280 --> 00:14:14,000
+No matter what kind of racing it was,
+
+154
+00:14:14,440 --> 00:14:18,560
+a devil-may-care attitude permeated the early history of motorsports.
+
+155
+00:14:19,520 --> 00:14:21,860
+Racers placed winning above all else
+
+156
+00:14:21,861 --> 00:14:24,360
+and had the body count to prove it.
+
+157
+00:14:28,120 --> 00:14:30,700
+When the Mercedes, driven by Pierre Leves,
+
+158
+00:14:30,701 --> 00:14:34,820
+crashed head-on into the sand and followed a path of death.
+
+159
+00:14:34,840 --> 00:14:41,080
+It was not uncommon in the 50s and the 60s to read about a race car driver dying on a weekend.
+
+160
+00:14:41,220 --> 00:14:43,360
+The sports pages were full of that kind of thing.
+
+161
+00:14:43,960 --> 00:14:46,720
+And it was accepted that racing was a dangerous sport
+
+162
+00:14:46,721 --> 00:14:49,760
+and that people didn't seem to worry too much about that.
+
+163
+00:14:50,360 --> 00:14:54,840
+Then, in 1964, two popular stock car drivers,
+
+164
+00:14:54,841 --> 00:14:59,800
+Joe Weatherly and Fireball Roberts, were killed in a pair of tragic accidents.
+
+165
+00:15:00,560 --> 00:15:04,920
+Both deaths were blamed on the driver's unwillingness to use certain safety gear.
+
+166
+00:15:05,840 --> 00:15:11,820
+For Weatherly, it was the shoulder seatbelt, which he refused to wear during a race at Riverside, California.
+
+167
+00:15:12,380 --> 00:15:16,840
+And right before he left the pits, they told him to put his shoulder harness on.
+
+168
+00:15:16,841 --> 00:15:20,099
+He declined to do it. He just said, I'm uncomfortable with it.
+
+169
+00:15:20,100 --> 00:15:21,360
+I don't want to do that.
+
+170
+00:15:22,100 --> 00:15:28,600
+Well, he ended up on, I believe, about the lap 187 that day, and I think it was at Riverside.
+
+171
+00:15:28,601 --> 00:15:37,060
+he spun and hit the wall driver's side first and his head actually snapped out
+
+172
+00:15:37,061 --> 00:15:39,760
+of the car and hit the retaining wall he died instantly.
+
+173
+00:15:39,761 --> 00:15:44,440
+Weatherly's death led race officials to require full seat belt harnesses and
+
+174
+00:15:44,441 --> 00:15:49,900
+window nets designed to keep the driver safely inside the car. That same year
+
+175
+00:15:49,901 --> 00:15:54,700
+Fireball Roberts declined to wear another piece of standard equipment the
+
+176
+00:15:54,701 --> 00:15:56,657
+flame retardant racing suit.
+
+177
+00:15:56,658 --> 00:16:00,640
+Throughout the early 1960s, regular cotton jumpsuits were
+
+178
+00:16:00,641 --> 00:16:07,260
+dipped in borax and other solutions that didn't catch fire but could inflame the skin.
+
+179
+00:16:07,261 --> 00:16:13,060
+Before the start of the 1964 Charlotte World 600, Roberts presented race officials with
+
+180
+00:16:13,061 --> 00:16:17,420
+a physician's note claiming the regulation racing suits caused him to break out in a
+
+181
+00:16:17,421 --> 00:16:18,121
+rash.
+
+182
+00:16:18,122 --> 00:16:24,020
+So when the starting flag dropped in Charlotte, Fireball sped away wearing no fire
+
+183
+00:16:24,021 --> 00:16:24,823
+protection.
+
+184
+00:16:24,824 --> 00:16:30,520
+Then, on the seventh lap of the race, Fireball swerved to miss a two-car wreck
+
+185
+00:16:30,521 --> 00:16:35,960
+and hit the track's inside retaining wall. Something's happened to Fireball Roberts.
+
+186
+00:16:36,160 --> 00:16:40,500
+It's unbelievable. Roberts is pulling low. He's in trouble. He's in trouble.
+
+187
+00:16:43,180 --> 00:16:49,160
+The crash ruptured the fuel tank. Within seconds, Fireball Roberts was on fire.
+
+188
+00:16:49,161 --> 00:16:57,020
+the star racer was pulled from the car and rushed to the hospital he remained there for weeks while
+
+189
+00:16:57,021 --> 00:17:03,800
+race fans prayed for his recovery unfortunately there was no good news to report about fireball
+
+190
+00:17:03,801 --> 00:17:12,500
+that probably was one of the biggest tragedies to promote fire safety people were hoping that
+
+191
+00:17:12,501 --> 00:17:18,800
+he would survive, and when he didn't, I think there was an outcry saying, we need to have
+
+192
+00:17:18,801 --> 00:17:19,880
+safer cars.
+
+193
+00:17:20,400 --> 00:17:25,540
+After Robert's death, race officials began to enforce strict fire safety requirements.
+
+194
+00:17:26,180 --> 00:17:31,040
+The gas tanks were reinforced, and drivers were required to wear fire retardant suits,
+
+195
+00:17:31,500 --> 00:17:33,140
+regardless of their doctor's orders.
+
+196
+00:17:33,480 --> 00:17:39,280
+The materials at hand were aluminized kevlar and aluminized cotton at that time, and those
+
+197
+00:17:39,281 --> 00:17:45,680
+were very uncomfortable, like kind of, kind of like wearing a, you know, aluminum foil, kind of like a potato.
+
+198
+00:17:46,480 --> 00:17:51,791
+Then in 1967, fire suit technology took a space age leap forward.
+
+199
+00:17:51,792 --> 00:17:54,160
+It happened when Pete Conrad,
+
+200
+00:17:54,161 --> 00:17:59,760
+an astronaut turned race driver, teamed up with a tattooed hot rodder from Southern California
+
+201
+00:17:59,761 --> 00:18:01,084
+named Bill Simpson.
+
+202
+00:18:01,085 --> 00:18:06,240
+And he said, hey Simpson, he goes, uh, uh, there's a new material. It's a,
+
+203
+00:18:06,241 --> 00:18:09,200
+It's a high temperature nylon that's being made by DuPont.
+
+204
+00:18:10,100 --> 00:18:12,020
+And he says, it might be interest to you.
+
+205
+00:18:12,040 --> 00:18:12,740
+And I said, why?
+
+206
+00:18:13,200 --> 00:18:16,820
+He goes, well, because what they're doing is they're making these parachutes to bring these capsules back
+
+207
+00:18:16,821 --> 00:18:18,820
+and pieces and parts of rockets.
+
+208
+00:18:19,220 --> 00:18:22,580
+And when it comes back through the atmosphere, the parachute doesn't burn out.
+
+209
+00:18:23,500 --> 00:18:26,420
+It was kind of a miracle fabric.
+
+210
+00:18:27,140 --> 00:18:33,420
+Instead of feeding the flame, the carbon molecular structure in Nomex allowed it to char and self-extinguish.
+
+211
+00:18:33,421 --> 00:18:37,900
+The fabric revolutionized fire protection.
+
+212
+00:18:38,900 --> 00:18:43,660
+It also established Bill Simpson as one of the founding fathers of modern racing safety.
+
+213
+00:18:44,420 --> 00:18:48,060
+Simpson was an 8th grade dropout with no formal design training.
+
+214
+00:18:48,600 --> 00:18:53,480
+But he learned how to turn his street smarts into one safety innovation after another.
+
+215
+00:18:53,900 --> 00:18:59,220
+I would go do a race on a weekend and I'd see something and I'd come home on Sunday night and I'd say this is what we need to do.
+
+216
+00:18:59,820 --> 00:19:01,540
+And the next weekend I would have it.
+
+217
+00:19:02,360 --> 00:19:03,280
+And I would test it.
+
+218
+00:19:03,420 --> 00:19:10,060
+Simpson brought a hot rod his attitude to product testing he'd do anything to prove that his gear
+
+219
+00:19:10,061 --> 00:19:19,260
+was the best even if that meant setting himself on fire and i had another guy that was a competitor
+
+220
+00:19:19,261 --> 00:19:24,980
+to Simpson i saw this guy come and i said hey i understand that you're telling people that my
+
+221
+00:19:24,981 --> 00:19:28,980
+product doesn't work as i say it does and he goes well you know there's a lot of salesmen buffing
+
+222
+00:19:28,981 --> 00:19:31,000
+and I said, I'll tell you what let's do.
+
+223
+00:19:31,900 --> 00:19:33,940
+Let's go across the street over there tonight.
+
+224
+00:19:34,040 --> 00:19:35,920
+I got on the property across the street from the speedway.
+
+225
+00:19:35,980 --> 00:19:37,340
+Let's have a burn off.
+
+226
+00:19:38,800 --> 00:19:40,900
+A crowd gathered to watch Simpson,
+
+227
+00:19:41,140 --> 00:19:43,440
+who pushed his Nomex race suit to the limit
+
+228
+00:19:43,441 --> 00:19:44,960
+by covering it with gasoline.
+
+229
+00:19:46,340 --> 00:19:48,960
+He strikes us, man, throws it at me, and poof.
+
+230
+00:19:58,980 --> 00:20:02,800
+And I'm sitting there going, oh, man, I should have done this.
+
+231
+00:20:03,120 --> 00:20:05,680
+Because, I mean, I'm totally engulfed in flames.
+
+232
+00:20:06,620 --> 00:20:10,080
+Totally engulfed, but also totally protected.
+
+233
+00:20:11,620 --> 00:20:16,780
+Today, at his new company, Impact Racing, Simpson continues his safety research.
+
+234
+00:20:16,920 --> 00:20:21,780
+But unlike the old days, he no longer tests the fire suits himself.
+
+235
+00:20:21,781 --> 00:20:28,540
+Instead, Simpson leaves the fire experiments to Thermoman, a high-tech mannequin DuPont
+
+236
+00:20:28,541 --> 00:20:31,820
+uses to test the latest Nomex gear for racers.
+
+237
+00:20:31,821 --> 00:20:37,460
+If you consider a standard butane lighter and you light it and hold your finger in the
+
+238
+00:20:37,461 --> 00:20:43,760
+hottest part of the flame, your fingertip is about one square centimeter of area.
+
+239
+00:20:43,761 --> 00:20:48,160
+If you hold your finger in the hottest part of the flame for about one or two seconds,
+
+240
+00:20:48,161 --> 00:20:53,760
+That's more than enough energy to cause a second degree burn to occur on the tip of your finger.
+
+241
+00:20:53,761 --> 00:20:56,060
+That would be blistering of your skin.
+
+242
+00:20:56,061 --> 00:21:01,940
+If you imagine that the mannequin system has enough energy being delivered to it to match
+
+243
+00:21:01,941 --> 00:21:07,880
+18,000 butane lighters, then you get a general idea of how hot the fire is.
+
+244
+00:21:07,881 --> 00:21:16,920
+Three, two, one.
+
+245
+00:21:16,921 --> 00:21:24,420
+The fire has extinguished, but it was enough energy to cause the everyday cotton clothing to catch fire, ignite, and will continue to burn.
+
+246
+00:21:25,180 --> 00:21:34,020
+With Thermoman dressed in cotton street clothes, the mannequin sensors produce computerized animation that shows the lethal potential of a flash fire.
+
+247
+00:21:34,780 --> 00:21:36,520
+So I'm going to start this animation.
+
+248
+00:21:36,720 --> 00:21:43,060
+This orange depicts the actual flash fire, and the time here is ticking away, one and a half, two seconds, okay?
+
+249
+00:21:43,061 --> 00:21:47,000
+You can see his body is starting to turn brown, which indicates a second-degree burn.
+
+250
+00:21:47,380 --> 00:21:48,560
+Okay, the flash fire is over.
+
+251
+00:21:48,680 --> 00:21:54,300
+Right now, he's only 7% burn injury, but his garment is now igniting.
+
+252
+00:21:54,400 --> 00:21:58,920
+The cotton is igniting and continuing to burn, so it's creating more and more injury.
+
+253
+00:22:01,100 --> 00:22:05,960
+And here we're at 91% burn injury, which is what the resulting burn injury is.
+
+254
+00:22:07,200 --> 00:22:11,000
+Next, DuPont dresses Thermoman in Nomex coveralls.
+
+255
+00:22:13,060 --> 00:22:24,060
+This is a typical simulation of the type of fire intensity and duration as well as the fire suit that a stock car race car driver might encounter.
+
+256
+00:22:24,600 --> 00:22:27,300
+Three, two, one.
+
+257
+00:22:29,960 --> 00:22:33,420
+This is a seven second exposure. It's a very long duration.
+
+258
+00:22:35,780 --> 00:22:38,780
+When set ablaze, Nomex breaks apart.
+
+259
+00:22:38,781 --> 00:22:46,260
+This dissipates the energy of the fire the same way energy is dispersed when a race car scatters into pieces during a wreck.
+
+260
+00:22:47,540 --> 00:22:55,260
+Using Thermoman, researchers are able to break down the burn injury data and predict survivability according to the victim's age.
+
+261
+00:22:56,460 --> 00:23:03,680
+So for the QC Nomex garment, survivability was pretty high for age 20 to 29.
+
+262
+00:23:03,900 --> 00:23:05,260
+It was almost 100%.
+
+263
+00:23:05,261 --> 00:23:09,920
+So here you can really see the difference between Nomex and 100% cotton.
+
+264
+00:23:10,060 --> 00:23:11,340
+I mean, it's very visible.
+
+265
+00:23:13,280 --> 00:23:17,280
+Next, top-of-the-line race tires are put under the X-ray.
+
+266
+00:23:22,240 --> 00:23:26,620
+Race fuels for Indy cars, dragsters, and sprint cars burn invisibly.
+
+267
+00:23:27,020 --> 00:23:30,120
+So in a fire, the driver can't always see the flames,
+
+268
+00:23:30,540 --> 00:23:33,680
+even as temperatures in the cockpit reach 2,000 degrees.
+
+269
+00:23:35,260 --> 00:23:44,460
+You're watching Modern Marvels Racetrack Tech here on the History Channel.
+
+270
+00:23:50,680 --> 00:23:55,380
+American racers made many of their first tracks in the sands of Daytona Beach, Florida.
+
+271
+00:23:56,380 --> 00:24:02,700
+And it was in Daytona in 1965 that Goodyear conducted some of the first race tire safety tests.
+
+272
+00:24:02,701 --> 00:24:07,100
+Looking to protect drivers in the event of a blowout,
+
+273
+00:24:07,660 --> 00:24:10,900
+engineers developed an inner liner for its stock car race tires.
+
+274
+00:24:11,800 --> 00:24:14,680
+The new design amounted to a tire within a tire.
+
+275
+00:24:15,600 --> 00:24:18,120
+Goodyear was confident the inner liner would work.
+
+276
+00:24:19,060 --> 00:24:23,620
+But they needed a pair of drivers brave enough to volunteer as human guinea pigs.
+
+277
+00:24:24,120 --> 00:24:27,000
+So we've got this concept of a tire within a tire, our safety shield,
+
+278
+00:24:27,001 --> 00:24:28,840
+and we go to the racetrack to try this.
+
+279
+00:24:29,440 --> 00:24:32,980
+We pull in Lee Petty and Daryl Derringer to try this out,
+
+280
+00:24:33,460 --> 00:24:39,200
+tell them to go out and run over this two-inch pipe that we've cut to blow the tire out and see what happens.
+
+281
+00:24:39,340 --> 00:24:41,420
+So that's what we did on the back switch to Daytona.
+
+282
+00:24:42,180 --> 00:24:43,920
+The new inner liners worked.
+
+283
+00:24:43,921 --> 00:24:47,440
+They kept the tires inflated after the main tire failed.
+
+284
+00:24:48,280 --> 00:24:53,580
+This allowed racers to remain in control and return to the pits after a blowout on the track.
+
+285
+00:24:56,000 --> 00:24:58,720
+It's a concept that's still in use today.
+
+286
+00:24:58,840 --> 00:25:11,720
+Of course, tire technology is far more complex today, to the point that each tire is designed individually according to purpose.
+
+287
+00:25:13,580 --> 00:25:26,307
+We do design tires specifically for wheel positions on cars, right sides different than left sides, tracks different than other tracks, Daytona different than
+
+288
+00:25:26,308 --> 00:25:28,160
+Martinsville and so on.
+
+289
+00:25:28,161 --> 00:25:32,860
+It's evolved to be quite a sophisticated operation anymore.
+
+290
+00:25:34,080 --> 00:25:36,540
+Race tires are still constructed by hand.
+
+291
+00:25:37,200 --> 00:25:40,520
+Each layer is carefully applied and inspected for imperfections.
+
+292
+00:25:41,520 --> 00:25:49,380
+After going through the curing process, an x-ray is used to ensure that the tire's rubber and reinforcement materials maintain their integrity.
+
+293
+00:25:49,381 --> 00:25:58,760
+If a tire underperforms at the track, engineers can retrace the steps of each tire's life in search of clues about what went wrong.
+
+294
+00:26:00,080 --> 00:26:07,540
+Every race tire we make has a unique barcode on it that allows us to track the tire in the field.
+
+295
+00:26:07,680 --> 00:26:13,900
+The design engineers will use that information to look at potential improvements in the tire for the future.
+
+296
+00:26:14,660 --> 00:26:17,120
+A lot is riding on a race tire.
+
+297
+00:26:17,840 --> 00:26:22,340
+It's responsible for translating the roar of the engine into winning speeds.
+
+298
+00:26:22,800 --> 00:26:26,800
+But very little of the tire actually makes contact with the track.
+
+299
+00:26:28,100 --> 00:26:32,780
+The average race fan may not know that the only thing that keeps a NASCAR car in contact with the road
+
+300
+00:26:32,781 --> 00:26:37,140
+is four square contact patches, which is essentially one square foot.
+
+301
+00:26:37,720 --> 00:26:42,500
+Each tire has essentially the same contact areas as a man's size 11 shoe.
+
+302
+00:26:43,400 --> 00:26:46,920
+This contact area is tested through computer simulations.
+
+303
+00:26:47,120 --> 00:26:51,860
+which allow tire engineers to run virtual tires around a virtual track.
+
+304
+00:26:54,280 --> 00:26:58,660
+Constantly changing. It's a very dynamic process as the tire goes around the track.
+
+305
+00:26:59,220 --> 00:27:03,460
+And you want some heat on the surface of the tire, but not too much.
+
+306
+00:27:03,880 --> 00:27:09,760
+But you don't want to get too much heat because heat can accelerate degradation of rubber,
+
+307
+00:27:10,220 --> 00:27:11,900
+and then that can cause a tire failure.
+
+308
+00:27:11,901 --> 00:27:18,900
+Tire failure is rare, but there is the occasional blowout and burn-up.
+
+309
+00:27:18,901 --> 00:27:25,900
+Under extreme conditions, it's not the tire that fails, it's the entire wheel.
+
+310
+00:27:25,901 --> 00:27:34,900
+In drag racing, the rear tires must transfer the awesome force of an 8,000 horsepower engine to the surface of the track.
+
+311
+00:27:34,901 --> 00:27:44,580
+A set of crashes during the late 1980s demonstrated how the amount of torque placed on the metal wheel fittings was enough to break the rear wheels clean off.
+
+312
+00:27:46,460 --> 00:27:54,720
+We actually had a situation where the center of the wheel was tearing out and releasing the rim and tire combination.
+
+313
+00:27:55,160 --> 00:27:59,140
+The car starts to get airborne. It takes the rear wheels off the track.
+
+314
+00:27:59,141 --> 00:28:09,133
+At that point, the wheels were spinning free, the wheel broke loose, and the centrifugal force of that wheel and tire combination took it to a height that I can't tell
+
+315
+00:28:09,134 --> 00:28:13,800
+you exactly, but I would imagine it's at least as high as a 10-story building.
+
+316
+00:28:14,520 --> 00:28:17,880
+And that wheel-tire combination is 80 pounds.
+
+317
+00:28:18,720 --> 00:28:24,180
+So when it came back down, it was like dropping an 80-pound weight from a 10-story building.
+
+318
+00:28:24,760 --> 00:28:25,620
+It's just incredible.
+
+319
+00:28:29,140 --> 00:28:37,000
+In response to these events, the National Hot Rod Association required race teams to outfit their cars with stronger wheels.
+
+320
+00:28:37,900 --> 00:28:42,880
+So we developed a specification to control the strength of that wheel.
+
+321
+00:28:43,260 --> 00:28:51,320
+We went into the computer, we said, okay, what we need to do now is strengthen our test requirement for that wheel.
+
+322
+00:28:51,560 --> 00:28:56,480
+And by strengthening the test requirement, the manufacturers were obligated to make a stronger wheel.
+
+323
+00:28:56,481 --> 00:29:02,360
+At drag strips today, cars routinely race over 300 miles per hour.
+
+324
+00:29:03,280 --> 00:29:08,280
+The newer, stronger rim and tire assemblies are designed to hold up under these intense conditions.
+
+325
+00:29:09,260 --> 00:29:11,580
+Sometimes it's the tire that goes airborne.
+
+326
+00:29:12,260 --> 00:29:14,680
+Other times, it's the entire car.
+
+327
+00:29:16,960 --> 00:29:20,780
+The aerodynamics of a race car create a downward push.
+
+328
+00:29:21,220 --> 00:29:23,740
+That is, as long as the car is traveling forward.
+
+329
+00:29:23,741 --> 00:29:29,540
+But if the car gets sideways or backwards, more airflow travels under the car.
+
+330
+00:29:30,280 --> 00:29:32,760
+This airflow can send the vehicle skyward.
+
+331
+00:29:37,280 --> 00:29:42,240
+Few racers understand what it's like being airborne better than Richard Petty.
+
+332
+00:29:43,160 --> 00:29:49,100
+Petty's blue and red STP car cartwheeled down the track at Daytona in 1988.
+
+333
+00:29:49,101 --> 00:29:58,800
+In Richard Petty's case, get airborne, do a series of flips, and everybody was concerned about putting a car into the grandstands.
+
+334
+00:29:59,640 --> 00:30:04,600
+So there was a big push by NASCAR to try to figure out a way to keep these cars on the ground.
+
+335
+00:30:05,340 --> 00:30:13,520
+In 1993, a group of engineers and members of the Roush Racing Team started testing different mechanisms designed to prevent flight.
+
+336
+00:30:14,200 --> 00:30:16,040
+They tried drilling holes in the roof.
+
+337
+00:30:16,041 --> 00:30:21,100
+They experimented with propping up the rear deck lid in an effort to redirect the airflow.
+
+338
+00:30:22,180 --> 00:30:24,720
+Nothing seemed to stop the cars from lifting off.
+
+339
+00:30:25,540 --> 00:30:32,440
+Then, near the end of the 1993 race season, they tried a new device, the roof flap.
+
+340
+00:30:32,780 --> 00:30:44,920
+General Motors and Roush Industries and NASCAR all went together to try to establish what the parameters were to make a car lift off.
+
+341
+00:30:44,921 --> 00:30:50,780
+and they did some wind tunnel testing and finally came up with a design where the two flaps,
+
+342
+00:30:51,240 --> 00:30:57,500
+when the car is turned, come up, spoil the air across the top of the car and keep the car from flying.
+
+343
+00:30:57,780 --> 00:31:00,880
+The flaps are made of Kevlar and mounted at the back of the roof.
+
+344
+00:31:01,840 --> 00:31:03,900
+Each is attached with hinges and cables.
+
+345
+00:31:04,560 --> 00:31:09,120
+When the car turns around backwards, the air running across the flaps creates a negative pressure
+
+346
+00:31:09,121 --> 00:31:14,440
+and it lifts the flaps up, creates like a vacuum and sucks them up.
+
+347
+00:31:14,920 --> 00:31:19,760
+Once deployed, the flaps spoil the upward airflow and keep the car on the ground.
+
+348
+00:31:21,460 --> 00:31:26,620
+Stock cars were outfitted with the flaps for the first time at the 1994 Daytona 500.
+
+349
+00:31:27,820 --> 00:31:31,400
+In the years that followed, the flaps helped keep cars pinned to the track.
+
+350
+00:31:31,980 --> 00:31:37,520
+But in 2000, stock car racing was confronted with another deadly dilemma.
+
+351
+00:31:38,220 --> 00:31:43,660
+One that forced crash scientists to dissect the awesome force of a high-speed frontal impact.
+
+352
+00:31:43,661 --> 00:31:48,780
+Coming up, researchers confront a racetrack killer head on.
+
+353
+00:31:57,020 --> 00:32:02,760
+One cylinder in a dragster's engine produces more horsepower than an entire stock car engine.
+
+354
+00:32:07,660 --> 00:32:12,000
+Watching modern marvels, racetrack tech here on the History Channel.
+
+355
+00:32:13,660 --> 00:32:16,700
+In every crash, there is a moment of impact.
+
+356
+00:32:17,520 --> 00:32:20,420
+This dramatic event happens faster than the eye can see.
+
+357
+00:32:21,420 --> 00:32:25,740
+So researchers use high-speed cameras to examine crashes frame by frame,
+
+358
+00:32:26,360 --> 00:32:28,940
+breaking the impact down to thousands of a second.
+
+359
+00:32:29,780 --> 00:32:31,780
+In each microphase of the crash,
+
+360
+00:32:32,300 --> 00:32:36,420
+biomechanical engineers study how the human body and the car interact.
+
+361
+00:32:37,000 --> 00:32:40,580
+They examine how the force of the impact travels through the car
+
+362
+00:32:40,581 --> 00:32:42,360
+and is transferred to the driver.
+
+363
+00:32:42,361 --> 00:32:46,260
+crash scientists measure this force in g's
+
+364
+00:32:46,261 --> 00:32:56,340
+a g is a measure of acceleration it's how quickly your speed or velocity changes in a
+
+365
+00:32:56,341 --> 00:33:02,940
+passenger car crash typically the acceleration level will be maybe 25 or 30 g's in a passenger
+
+366
+00:33:02,941 --> 00:33:12,200
+car crash so these uh racing crashes are many times bigger than that 80 90 100 140 times the
+
+367
+00:33:12,201 --> 00:33:15,900
+acceleration of gravity. So they're much more severe than other kinds of crashes.
+
+368
+00:33:16,700 --> 00:33:19,980
+In race car crashes, huge amounts of force
+
+369
+00:33:19,981 --> 00:33:21,740
+are placed on the body of the driver.
+
+370
+00:33:23,600 --> 00:33:25,880
+Well, what that really means for those that
+
+371
+00:33:25,881 --> 00:33:29,820
+is that you take your body weight, and let's say you weigh
+
+372
+00:33:29,821 --> 00:33:33,780
+165 pounds, and you're going to experience
+
+373
+00:33:33,781 --> 00:33:38,160
+a 100G crash. That means that 16,500
+
+374
+00:33:38,161 --> 00:33:41,700
+pounds are being placed on your body. That's
+
+375
+00:33:41,701 --> 00:33:44,880
+eight tons you know that's that's a lot of weight
+
+376
+00:33:44,881 --> 00:33:49,380
+it is a lot of weight enough in fact to cause an injury known
+
+377
+00:33:49,381 --> 00:33:54,200
+as a basilar skull fracture this type of fracture occurs when the impact of a
+
+378
+00:33:54,201 --> 00:33:54,901
+crash
+
+379
+00:33:54,902 --> 00:33:59,780
+throws a driver's head forward with deadly force
+
+380
+00:34:01,260 --> 00:34:04,980
+the basilar skull fracture is the most common way that drivers have been killed
+
+381
+00:34:04,981 --> 00:34:06,040
+over the years and
+
+382
+00:34:06,041 --> 00:34:09,460
+the mechanism is that their torsos are restrained
+
+383
+00:34:09,461 --> 00:34:12,620
+and their head is unrestrained, and when their head swings forward,
+
+384
+00:34:13,180 --> 00:34:17,540
+there's enough tension that develops in the neck that it actually breaks the base of the skull.
+
+385
+00:34:17,980 --> 00:34:22,240
+And if we look at this anatomical model, we can see where the spinal cord is attached here,
+
+386
+00:34:22,740 --> 00:34:30,960
+and the neck vertebrae attach around that, and then the muscles in the neck attach around the outside of that.
+
+387
+00:34:30,961 --> 00:34:38,440
+And as the head swings forward, there's just enough tension in those tissues that just pulls the base of the skull apart.
+
+388
+00:34:38,441 --> 00:34:43,440
+Seat belts alone cannot prevent basilar skull fractures.
+
+389
+00:34:43,441 --> 00:34:47,858
+Hoping to protect drivers from basilar skull fractures, Dr.
+
+390
+00:34:47,859 --> 00:34:49,880
+Bob Hubbard began tinkering
+
+391
+00:34:49,881 --> 00:34:53,980
+with a full head and neck restraint system in the early 1980s.
+
+392
+00:34:53,981 --> 00:35:00,700
+He settled on a bulky shoulder brace with tethers running to the helmet of the driver.
+
+393
+00:35:00,701 --> 00:35:06,160
+The device then and still now is put on from behind and it sits on the shoulders while
+
+394
+00:35:06,161 --> 00:35:08,160
+the driver is driving.
+
+395
+00:35:08,161 --> 00:35:13,940
+Hubbard called his invention the Hans device. Hans stands for head and neck
+
+396
+00:35:13,941 --> 00:35:20,640
+support and in 1989 at Wayne State University in Detroit Dr. Hubbard ran the
+
+397
+00:35:20,641 --> 00:35:28,080
+device through a series of sled tests. We started doing the Hans testing before
+
+398
+00:35:28,081 --> 00:35:32,640
+the automobile companies really started studying racing crashes so we didn't
+
+399
+00:35:32,641 --> 00:35:37,560
+know how severe the racing crashes were going to be. The researchers outfitted a
+
+400
+00:35:37,561 --> 00:35:42,246
+test dummy with a Hans prototype, a crash helmet and a racing harness.
+
+401
+00:35:42,247 --> 00:35:44,120
+Then they released the sled.
+
+402
+00:35:51,080 --> 00:35:55,560
+So the dummy is sitting here and the device hasn't really been restrained yet.
+
+403
+00:35:56,200 --> 00:35:58,798
+Now the shoulders are going back being restrained.
+
+404
+00:35:58,799 --> 00:36:01,240
+You can see the the forehead of the dummy being
+
+405
+00:36:01,241 --> 00:36:07,000
+loaded through the tethers of the Hans device and the head really hardly moves off the shoulders.
+
+406
+00:36:07,560 --> 00:36:09,140
+It looks like a pretty good test, doesn't it, Paul?
+
+407
+00:36:09,220 --> 00:36:09,920
+It's great.
+
+408
+00:36:09,921 --> 00:36:10,740
+See anything weird there?
+
+409
+00:36:11,140 --> 00:36:11,840
+I don't know.
+
+410
+00:36:11,841 --> 00:36:12,541
+Okay.
+
+411
+00:36:12,700 --> 00:36:14,100
+The Hans worked.
+
+412
+00:36:14,940 --> 00:36:19,960
+Without the restraint, the dummy's head would have swung forward in a deadly downward motion.
+
+413
+00:36:20,980 --> 00:36:24,520
+The tests showed that the Hans could prevent basilar skull fractures.
+
+414
+00:36:25,080 --> 00:36:28,620
+But the drivers had to be willing to wear the unwieldy device.
+
+415
+00:36:28,621 --> 00:36:40,360
+So at that time they developed a Hans device that was fairly large and surrounded the back of the shoulders and had tethers going to the helmet.
+
+416
+00:36:41,280 --> 00:36:49,700
+And there were some drivers that used it and many drivers tried it on and said that is not, you know, that's too cumbersome.
+
+417
+00:36:50,060 --> 00:36:54,300
+Dr. Hubbard responded by making a smaller, sleeker Hans device.
+
+418
+00:36:55,000 --> 00:36:57,560
+Still, few racers bothered to wear one.
+
+419
+00:36:57,561 --> 00:37:05,380
+Then, in 2000, crashes claimed the lives of stock car racers Adam Petty and Kenny Irwin.
+
+420
+00:37:05,381 --> 00:37:08,460
+Both died from basilar skull fractures.
+
+421
+00:37:08,461 --> 00:37:15,060
+These tragedies were followed the same year by the death of truck series driver Tony Roper.
+
+422
+00:37:15,061 --> 00:37:15,761
+Dr.
+
+423
+00:37:15,762 --> 00:37:19,740
+Hubbard wanted to demonstrate once and for all that his smaller Hans device could
+
+424
+00:37:19,741 --> 00:37:23,220
+protect a driver during a 100G crash.
+
+425
+00:37:23,221 --> 00:37:27,940
+So he approached Patrick Miller at MGA Research in Troy, Michigan and asked him to build an
+
+426
+00:37:27,941 --> 00:37:35,000
+experimental hot rod sled capable of delivering 100 Gs.
+
+427
+00:37:35,001 --> 00:37:42,700
+He needed the way to test his device at speeds well above what was capable of being done
+
+428
+00:37:42,701 --> 00:37:46,660
+on existing sled facilities at that time.
+
+429
+00:37:46,661 --> 00:37:53,180
+What we did is we built ourselves a very lightweight sled carriage weighing about 500 pounds
+
+430
+00:37:53,181 --> 00:37:55,620
+where the regular carriage is about 2,000 pounds.
+
+431
+00:37:56,400 --> 00:38:00,260
+The lighter weight sled allowed for greater speeds on the test track.
+
+432
+00:38:01,320 --> 00:38:05,260
+Dr. Hubbard suited up a dummy and secured the smaller Hans device.
+
+433
+00:38:06,120 --> 00:38:10,360
+Then he crossed his fingers and let the countdown roll.
+
+434
+00:38:11,220 --> 00:38:13,860
+Three, two, one.
+
+435
+00:38:13,861 --> 00:38:23,340
+The backward thrust of the sled simulated the force placed on a driver in a high-speed head-on collision.
+
+436
+00:38:24,180 --> 00:38:30,640
+The dummy's body was thrown forward at a velocity that more than doubled the initial 40G test.
+
+437
+00:38:31,180 --> 00:38:36,560
+When Hubbard reviewed video from the test, he could see that the smaller Hans device worked.
+
+438
+00:38:37,160 --> 00:38:40,360
+It stopped the head from hyperextending away from the torso.
+
+439
+00:38:40,361 --> 00:38:49,360
+In the laboratory, high-speed images demonstrated again and again how a head and neck restraint system could dampen deadly G-loads.
+
+440
+00:38:50,360 --> 00:38:57,360
+And on February 18, 2001, the death of a racing legend would drive this point home.
+
+441
+00:39:02,360 --> 00:39:09,360
+In 1989, actor Paul Newman became one of the first race car drivers to wear an early prototype of the Hans device.
+
+442
+00:39:10,360 --> 00:39:21,320
+You're watching Modern Marvel's Racetrack Tech here on the History Channel.
+
+443
+00:39:22,260 --> 00:39:25,680
+Working in relative anonymity, in laboratories and garages,
+
+444
+00:39:26,340 --> 00:39:31,000
+crash investigators had dramatically advanced racing safety since the late 1980s.
+
+445
+00:39:31,440 --> 00:39:37,240
+But in 2001, the field of crash science suddenly became front-page news.
+
+446
+00:39:40,360 --> 00:39:52,140
+Dale Earnhardt was a seven-time champion known to fans as the Intimidator.
+
+447
+00:39:53,580 --> 00:39:59,940
+He was a living icon and one of the top contenders at the 2001 Daytona 500.
+
+448
+00:40:00,940 --> 00:40:08,400
+On the final lap of the race, Earnhardt's car number three grazed the bumper of Sterling Marlin's number 40 car.
+
+449
+00:40:08,401 --> 00:40:12,820
+Earnhardt turned suddenly up the track toward the outside wall.
+
+450
+00:40:13,480 --> 00:40:17,420
+He was then hit from the side by Kenny Schrader's number 36 car.
+
+451
+00:40:18,400 --> 00:40:22,980
+What happened next would keep crash scientists talking for years to come.
+
+452
+00:40:23,920 --> 00:40:25,760
+He was down on the inside of the track.
+
+453
+00:40:25,880 --> 00:40:29,760
+He went up, he got hit, kind of spun him around, and he went into the wall.
+
+454
+00:40:29,920 --> 00:40:34,980
+But what happened is, it didn't look like a bad crash as you viewed it,
+
+455
+00:40:34,981 --> 00:40:43,580
+But the change in velocity of that car from where it was just prior to the incident to just after the incident was pretty astounding.
+
+456
+00:40:44,700 --> 00:40:49,260
+Earnhardt hit the outside wall going approximately 180 miles per hour.
+
+457
+00:40:49,660 --> 00:40:53,240
+The collision threw Earnhardt's head forward in a whipping motion.
+
+458
+00:40:54,800 --> 00:40:57,300
+He was not wearing any form of head and neck restraint.
+
+459
+00:40:58,040 --> 00:41:03,840
+And according to some experts who've studied the crash, the force of the impact caused a basilar skull fracture.
+
+460
+00:41:04,980 --> 00:41:06,520
+The injury proved fatal.
+
+461
+00:41:07,800 --> 00:41:10,200
+Racing lost one of its most beloved drivers.
+
+462
+00:41:11,100 --> 00:41:13,040
+Combined with the tragedies of 2000,
+
+463
+00:41:14,000 --> 00:41:17,740
+Earnhardt's death pushed the field of racing safety into the spotlight.
+
+464
+00:41:18,560 --> 00:41:23,120
+The crashes with Tony Roper, Adam Petty, Kenny Irwin,
+
+465
+00:41:23,121 --> 00:41:27,760
+and ultimately Dale Earnhardt, I get choked up over this.
+
+466
+00:41:29,460 --> 00:41:34,680
+As a safety company, we lost a bunch of good guys.
+
+467
+00:41:34,980 --> 00:41:40,520
+We work hard. We work hard to keep everybody safe.
+
+468
+00:41:41,520 --> 00:41:48,660
+We saw through all of those incidents that safety needed to be improved.
+
+469
+00:41:49,420 --> 00:41:57,440
+Every moment of the Earnhardt crash was analyzed, and in the aftermath of the tragedy, a renewed commitment to safety emerged.
+
+470
+00:41:58,240 --> 00:42:02,080
+Much like the shocking death of Fireball Roberts in 1964,
+
+471
+00:42:03,140 --> 00:42:06,780
+the Earnhardt crash became a watershed moment in racing history.
+
+472
+00:42:07,340 --> 00:42:10,900
+Following Roberts' death, drivers were required to wear fire suits.
+
+473
+00:42:11,820 --> 00:42:16,900
+When Earnhardt died, race officials mandated the use of some kind of head and neck restraint.
+
+474
+00:42:16,901 --> 00:42:23,560
+You could argue that Fireball Roberts in his day was as big a name as Dale Earnhardt was in his day.
+
+475
+00:42:23,561 --> 00:42:31,240
+and he was also coming toward the end of his career as a driver and and Dale Earnhardt like
+
+476
+00:42:31,241 --> 00:42:36,060
+Fireball Roberts I think his legacy ultimately will be that he made the sports safer because
+
+477
+00:42:36,061 --> 00:42:41,980
+they immediately started looking into the Hans device they immediately started looking into
+
+478
+00:42:41,981 --> 00:42:47,520
+escape hatches for the cars they immediately started looking into the softer walls issue
+
+479
+00:42:47,521 --> 00:42:51,660
+which I think they probably should have looked at a good eight or ten years earlier than they did
+
+480
+00:42:51,661 --> 00:42:59,660
+But instead of being, they're being more proactive instead of reactive on these safety issues now.
+
+481
+00:43:00,360 --> 00:43:04,780
+And I think that that's probably ultimately going to be his legacy, his greatest legacy.
+
+482
+00:43:16,060 --> 00:43:20,100
+Everywhere in motorsports, the wheels of innovation keep turning.
+
+483
+00:43:21,000 --> 00:43:23,440
+At Bill Simpson's company, Impact Racing,
+
+484
+00:43:23,940 --> 00:43:28,160
+the godfather of safety gear is finding ways to make better helmets,
+
+485
+00:43:29,200 --> 00:43:31,740
+restraints, and fire suits.
+
+486
+00:43:32,440 --> 00:43:37,520
+The suits are made with a new flame-retardant material called Impactanium.
+
+487
+00:43:38,340 --> 00:43:40,600
+It's light years better than anything that we have today,
+
+488
+00:43:41,260 --> 00:43:44,420
+and this will be in all the fire suits that are made by Impact Racing.
+
+489
+00:43:45,180 --> 00:43:48,860
+I just know that if I was a race driver and this was available,
+
+490
+00:43:48,861 --> 00:43:50,600
+this is the only thing that I would have.
+
+491
+00:43:53,280 --> 00:43:55,840
+From the cockpit of the newest Indy race cars
+
+492
+00:43:55,841 --> 00:43:58,260
+to the palm of Bill Simpson's hand,
+
+493
+00:43:58,960 --> 00:44:02,240
+the technology of racing safety continues to evolve.
+
+494
+00:44:03,060 --> 00:44:05,200
+And, you know, that's the history of our sport.
+
+495
+00:44:05,960 --> 00:44:09,340
+It's not something that just happens once and once.
+
+496
+00:44:09,400 --> 00:44:10,220
+It's the history of our sport.
+
+497
+00:44:10,320 --> 00:44:11,220
+People do things.
+
+498
+00:44:11,500 --> 00:44:12,840
+It makes them go that much faster,
+
+499
+00:44:12,960 --> 00:44:14,040
+puts that much more stress on them,
+
+500
+00:44:14,060 --> 00:44:16,880
+then something else breaks or something else happens.
+
+501
+00:44:16,881 --> 00:44:19,460
+And then you go to that and you just keep going.
+
+502
+00:44:19,540 --> 00:44:22,540
+That's why cars keep going faster and faster and faster.
+
+503
+00:44:28,260 --> 00:44:31,000
+The speeds are getting faster.
+
+504
+00:44:31,980 --> 00:44:34,040
+The cars are getting safer.
+
+505
+00:44:34,660 --> 00:44:37,520
+And new safety systems, born out of destruction,
+
+506
+00:44:38,040 --> 00:44:40,720
+are allowing drivers to walk away from crashes
+
+507
+00:44:40,721 --> 00:44:44,280
+that only a few years ago would have been fatal
+
+508
+00:44:44,281 --> 00:44:47,960
+without the achievements of today's crash scientists.
+

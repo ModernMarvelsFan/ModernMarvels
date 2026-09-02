@@ -1,0 +1,2080 @@
+1
+00:00:00,001 --> 00:00:07,040
+An oil rig capsizes, sending 84 men to their frigid, watery graves.
+
+2
+00:00:07,860 --> 00:00:11,900
+A jet fuel plant explodes, raining devastation for miles around.
+
+3
+00:00:12,660 --> 00:00:16,240
+A pro golf star's plane goes down, shrouded in mystery.
+
+4
+00:00:18,060 --> 00:00:23,280
+Four vehicles plunge into a river as a bridge collapses in the darkness of night.
+
+5
+00:00:23,840 --> 00:00:29,100
+And the worst dam failure of the 19th century annihilates an entire town.
+
+6
+00:00:30,000 --> 00:00:34,020
+Now, Engineering Disasters on Modern Marvels.
+
+7
+00:00:44,380 --> 00:00:49,840
+Just ten miles outside the city of Las Vegas lies the suburb of Henderson, Nevada.
+
+8
+00:00:52,760 --> 00:00:57,780
+On May 4th, 1988, this small community changed forever.
+
+9
+00:01:00,000 --> 00:01:11,624
+Three miles from town, two major explosions measuring 3.0 and 3.5 on the Richter scale ripped through the desert locale and sent visible shockwaves across a 10-mile
+
+10
+00:01:11,625 --> 00:01:12,325
+radius.
+
+11
+00:01:15,340 --> 00:01:20,320
+Two people died. Over 300 people in the surrounding area were injured.
+
+12
+00:01:22,540 --> 00:01:25,560
+Property damage was nearly $100 million.
+
+13
+00:01:25,561 --> 00:01:33,760
+The two explosions originated at the Pacific Engineering Production Company of Nevada,
+
+14
+00:01:34,940 --> 00:01:36,680
+otherwise known as Pepcon.
+
+15
+00:01:38,920 --> 00:01:40,965
+Pepcon was one of only two U.S.
+
+16
+00:01:40,966 --> 00:01:45,780
+manufacturers of ammonium perchlorate, an oxidizer for solid rocket fuel.
+
+17
+00:01:45,781 --> 00:01:54,320
+AP, or the long name is ammonium perchlorate, is a salt.
+
+18
+00:01:55,020 --> 00:01:59,360
+It's comprised of ammonium, which is nitrogen and hydrogen,
+
+19
+00:02:00,200 --> 00:02:03,840
+and chlorate, which is comprised of chlorine and oxygen.
+
+20
+00:02:06,060 --> 00:02:10,420
+This odorless white granular substance is not volatile if left alone.
+
+21
+00:02:10,900 --> 00:02:13,820
+However, it becomes highly explosive if contaminated,
+
+22
+00:02:13,821 --> 00:02:16,300
+or combined with any kind of fuel.
+
+23
+00:02:16,760 --> 00:02:21,600
+To give you some perspective, ammonium perchlorate, which is 55% by weight oxygen,
+
+24
+00:02:22,100 --> 00:02:27,160
+as compared to the air we breathe, which is only approximately 29% by weight oxygen.
+
+25
+00:02:27,400 --> 00:02:35,860
+So it's richer in oxygen and therefore promotes combustion of most fuels more intensely.
+
+26
+00:02:37,580 --> 00:02:43,100
+Ammonium perchlorate is used on a large scale in solid fuel rocket engines for NASA and the military.
+
+27
+00:02:43,820 --> 00:02:49,660
+It's the chemical in rocket propellant that releases oxygen, essential in the combustion of fuel.
+
+28
+00:02:51,400 --> 00:02:55,620
+One of the biggest customers for AP is NASA's Space Shuttle program.
+
+29
+00:02:56,840 --> 00:03:03,800
+On January 28, 1986, the Space Shuttle Challenger exploded 73 seconds after takeoff,
+
+30
+00:03:04,200 --> 00:03:06,580
+causing NASA to ground all Space Shuttle flights.
+
+31
+00:03:08,500 --> 00:03:11,760
+But PEPCON continued to manufacture ammonium perchlorate.
+
+32
+00:03:11,761 --> 00:03:14,560
+and stockpiling.
+
+33
+00:03:16,060 --> 00:03:20,460
+Never before had so much ammonium perchlorate been stored in one location.
+
+34
+00:03:21,380 --> 00:03:25,440
+We had approximately 10.5 million pounds of ammonium perchlorate
+
+35
+00:03:25,441 --> 00:03:27,500
+being stored at the Pepcon facility.
+
+36
+00:03:28,920 --> 00:03:32,780
+Pepcon was multiple buildings occupying approximately 15 acres.
+
+37
+00:03:32,781 --> 00:03:38,800
+The buildings were typically constructed of fiberglass-reinforced plastic panels
+
+38
+00:03:38,801 --> 00:03:45,160
+over metal purlins and beams and posts.
+
+39
+00:03:46,420 --> 00:03:51,420
+This was done because of the nature of perchlorate being so corrosive.
+
+40
+00:03:51,840 --> 00:03:56,720
+On the morning of May 4, 1988, an open barrel of AP caught fire.
+
+41
+00:03:56,960 --> 00:04:00,960
+It's our observation that the plant housekeeping was not very good.
+
+42
+00:04:01,300 --> 00:04:05,000
+There's a very strong possibility that much of the ammonium perchlorate on site
+
+43
+00:04:05,001 --> 00:04:07,460
+had some very low level of contamination.
+
+44
+00:04:07,461 --> 00:04:14,460
+The fire from the one barrel rapidly spread to other storage containers and the fiberglass structure itself.
+
+45
+00:04:14,461 --> 00:04:19,460
+The only tool that workers had to combat the fire was a garden hose.
+
+46
+00:04:19,461 --> 00:04:21,460
+It was ineffectual.
+
+47
+00:04:21,461 --> 00:04:28,460
+With a class 4 oxidizer, such as ammonium perchlorate, there is no real method of fire extinguishment.
+
+48
+00:04:28,461 --> 00:04:34,460
+Once it gets going, you can't put enough water on it quickly enough to break the combustion chain.
+
+49
+00:04:34,461 --> 00:04:35,161
+chain.
+
+50
+00:04:35,162 --> 00:04:40,780
+The employees at PEPCON, our analysis showed and follow-up investigations show that
+
+51
+00:04:40,781 --> 00:04:48,120
+the safety briefings that they had basically included if there's a fire in the plant run like
+
+52
+00:04:48,121 --> 00:04:53,702
+hell. With wind blowing, the fire quickly became a raging inferno.
+
+53
+00:04:53,703 --> 00:04:56,240
+When subjected to heat, the AP
+
+54
+00:04:56,241 --> 00:05:00,361
+started releasing its energy, goes into a self-heating process.
+
+55
+00:05:00,362 --> 00:05:01,800
+It's releasing copious
+
+56
+00:05:01,801 --> 00:05:05,560
+amounts of oxygen and it reaches what's called critical mass.
+
+57
+00:05:05,561 --> 00:05:11,680
+At just a few hundred degrees, AP can begin to consume itself, acting as its own oxidizer
+
+58
+00:05:11,681 --> 00:05:12,381
+and fuel.
+
+59
+00:05:14,380 --> 00:05:16,320
+A chain reaction began.
+
+60
+00:05:17,120 --> 00:05:18,900
+The plant was being engulfed by fire.
+
+61
+00:05:21,300 --> 00:05:26,500
+Polyethylene drums launched like rockets into other nearby storage areas and ignited
+
+62
+00:05:26,501 --> 00:05:27,201
+more AP.
+
+63
+00:05:28,540 --> 00:05:31,280
+Detonation is a high-speed explosion.
+
+64
+00:05:31,800 --> 00:05:38,040
+as opposed to just a fire or a deflagration, which is a low-speed explosion.
+
+65
+00:05:38,180 --> 00:05:44,760
+What we had at PEPCON was a detonation because it caused that final shock wave.
+
+66
+00:05:45,200 --> 00:05:48,040
+The fire burned for approximately 20 minutes,
+
+67
+00:05:48,780 --> 00:05:53,460
+generating tremendous amounts of heat before the explosion that caused the first shock wave.
+
+68
+00:05:55,820 --> 00:05:57,080
+That's going to be loud.
+
+69
+00:05:57,081 --> 00:06:04,000
+It basically proceeded through the storage of ammonium perchlorate, very much like a Roman candle.
+
+70
+00:06:06,820 --> 00:06:12,480
+And then this very rapid heating and thermal shock caused the ammonium perchlorate to explode.
+
+71
+00:06:14,380 --> 00:06:16,860
+A total of seven explosions occurred.
+
+72
+00:06:16,861 --> 00:06:27,120
+Firefighters rushing to the scene were caught in the shockwave and reassessed their adversary.
+
+73
+00:06:28,200 --> 00:06:32,720
+As we were driving down Boulder Highway, I had the window open and one of the other explosions that occurred.
+
+74
+00:06:32,980 --> 00:06:37,900
+I could actually feel it hit me, not that it did any damage, but I could feel the vibration of the explosion.
+
+75
+00:06:38,980 --> 00:06:44,820
+To exacerbate an already critical situation, a natural gas pipeline ran directly under the plant.
+
+76
+00:06:46,860 --> 00:06:54,520
+The final detonation, which measured about 3.5 on the Richter scale,
+
+77
+00:06:54,940 --> 00:06:57,760
+occurred right over the gas line.
+
+78
+00:06:57,820 --> 00:07:01,460
+It was a 16-inch gas line servicing the city of Las Vegas, Nevada.
+
+79
+00:07:02,280 --> 00:07:06,980
+Having consumed its fuel of AP, the initial fire burned itself out,
+
+80
+00:07:07,420 --> 00:07:10,820
+but the ruptured pipeline fed a new 100-foot bloom of fire.
+
+81
+00:07:11,940 --> 00:07:15,220
+It burned for almost an hour before the line was shut down.
+
+82
+00:07:15,221 --> 00:07:24,678
+There was a lot of speculation in the early part of the investigation that the pipeline may have played a role in at least initiating or aiding and abetting those
+
+83
+00:07:24,679 --> 00:07:25,379
+explosions.
+
+84
+00:07:26,220 --> 00:07:31,180
+It took months of investigation by teams of experts to determine the cause of the explosions.
+
+85
+00:07:31,900 --> 00:07:39,620
+We were retained to bring in the appropriate people with the right technologies to understand what went wrong and how it happened.
+
+86
+00:07:39,621 --> 00:07:48,040
+What investigators surmised was that welding debris had drifted through the air to an area of open barrels, igniting the AP.
+
+87
+00:07:48,460 --> 00:07:58,120
+What we found out was that there had been welding and what's called flame-cutting activities on some of the steel structure in the batch-dry building.
+
+88
+00:07:58,980 --> 00:08:08,460
+Open barrels of AP were common in certain areas of the plant, but that meant they were exposed to dust, fibers, and other contaminants, creating the perfect tinder.
+
+89
+00:08:09,100 --> 00:08:14,080
+The storage containers that held the AP also contributed to the intense heat and combustion.
+
+90
+00:08:14,960 --> 00:08:19,620
+They chose to store the ammonia plurie in several different kinds of containers.
+
+91
+00:08:20,680 --> 00:08:24,260
+One container they used was what we call an aluminum tote bin.
+
+92
+00:08:24,860 --> 00:08:30,340
+Another container used was what we call poly bins, and it's like a smaller 55-gallon drum.
+
+93
+00:08:30,341 --> 00:08:34,820
+Those two types of containers were the majority of the containers.
+
+94
+00:08:34,821 --> 00:08:43,660
+Now, the irony of the situation is that one of the standard formulas for a solid rocket propellant
+
+95
+00:08:43,661 --> 00:08:53,100
+is approximately 70% by weight ammonium perchlorate, 15% by weight aluminum particles, and 15% by weight rubber binder.
+
+96
+00:08:53,640 --> 00:08:59,580
+The polyethylene drums provided the rubber binder, and the other bins provided the aluminum fuel.
+
+97
+00:09:00,360 --> 00:09:04,060
+And when that's all mixed together, it makes a solid propellant.
+
+98
+00:09:04,820 --> 00:09:16,240
+after investigators examined the evidence left at the scene and conducted various experiments
+
+99
+00:09:16,241 --> 00:09:22,640
+with ammonium perchlorate the reason for the explosions became clear the question was how
+
+100
+00:09:22,641 --> 00:09:28,440
+can ammonium perchlorate detonate the answer is it can detonate when it's heated and very
+
+101
+00:09:28,441 --> 00:09:34,280
+definitely it was heated intensely by the precursor fires here those fires being particularly
+
+102
+00:09:34,281 --> 00:09:39,700
+intense because they were fueled by ammonium perchlorate acting as an oxidizer.
+
+103
+00:09:45,040 --> 00:09:50,720
+The Pepcon catastrophe demonstrated the extreme importance of proper AP storage.
+
+104
+00:09:51,280 --> 00:09:55,840
+I think there's a lot of things that we learned after the disaster, and certainly the most
+
+105
+00:09:55,841 --> 00:10:01,240
+important is a safety culture within the organization that's manufacturing these types
+
+106
+00:10:01,241 --> 00:10:05,400
+of chemicals and remember that this stuff was basically stored out in the parking lot.
+
+107
+00:10:07,480 --> 00:10:15,400
+Many, many thousands of pounds of it stored in close proximity and we know for any kind of
+
+108
+00:10:16,200 --> 00:10:21,960
+substance that's potentially explosive that that's bad practice that instead small amounts
+
+109
+00:10:21,961 --> 00:10:27,720
+should be stored and compartmentalized with cement walls or something such that if one area
+
+110
+00:10:27,721 --> 00:10:31,880
+does ignite and go, it's not going to sympathetically detonate all the rest.
+
+111
+00:10:33,880 --> 00:10:39,520
+Pacific Engineering Company of Nevada has since changed its name to Western Electrochemical
+
+112
+00:10:39,521 --> 00:10:43,408
+and is relocated to an even more remote location.
+
+113
+00:10:43,409 --> 00:10:46,820
+However, now it is the sole manufacturer of
+
+114
+00:10:46,821 --> 00:10:49,031
+AP in North America.
+
+115
+00:10:49,032 --> 00:10:56,660
+The AP explosion measuring magnitude 3.5 on the Richter scale equaled
+
+116
+00:10:56,661 --> 00:11:01,060
+the energy yield of over 300 tons of TNT.
+
+117
+00:11:01,061 --> 00:11:04,340
+Engineering disasters will return on Modern Marvels.
+
+118
+00:11:09,300 --> 00:11:13,560
+Each day, about 90,000 vehicles travel Interstate 95
+
+119
+00:11:13,561 --> 00:11:15,720
+between Connecticut and New York.
+
+120
+00:11:15,721 --> 00:11:20,720
+But on June 28, 1983, four such vehicles wouldn't make it home.
+
+121
+00:11:20,721 --> 00:11:28,840
+At 1.28 a.m., a 100-foot section of a Connecticut turnpike bridge collapsed,
+
+122
+00:11:29,360 --> 00:11:35,960
+sending two cars and two tractor trailers plummeting 70 feet into the Mianus River below.
+
+123
+00:11:36,540 --> 00:11:38,800
+The first truck immediately locked up its brakes.
+
+124
+00:11:38,920 --> 00:11:45,080
+That was the one in the right lane and started skinning about 150 feet before the beginning of the structure.
+
+125
+00:11:46,020 --> 00:11:51,000
+At that point, the person following did in fact slam on their brakes also,
+
+126
+00:11:51,140 --> 00:11:54,700
+fearing an accident because of the jackknifing trucks in front of them,
+
+127
+00:11:55,120 --> 00:11:57,740
+at which point three vehicles disappeared from sight.
+
+128
+00:11:59,860 --> 00:12:02,560
+I reached the site and I looked over the edge
+
+129
+00:12:02,561 --> 00:12:05,400
+and I thought I was in some sort of a science fiction movie.
+
+130
+00:12:05,740 --> 00:12:08,800
+There was lights all over the place, police lights, sirens.
+
+131
+00:12:09,520 --> 00:12:13,200
+And I looked over the bridge and there were two trucks dangling in the water.
+
+132
+00:12:13,201 --> 00:12:17,980
+there was debris from the bridge and there was all kinds of debris from the trucks and the first
+
+133
+00:12:17,981 --> 00:12:26,120
+thought in my mind was that only four cars fell over lives have been lost and a major artery in
+
+134
+00:12:26,121 --> 00:12:33,640
+the transportation system was now severed by 95 was closed in both directions as national guard
+
+135
+00:12:33,641 --> 00:12:40,780
+helicopters helped police reroute traffic state and federal agencies as well as private engineering
+
+136
+00:12:40,781 --> 00:12:45,840
+firms were called in to investigate the accident that devastated the affluent community of
+
+137
+00:12:45,841 --> 00:12:46,541
+Greenwich, Connecticut.
+
+138
+00:12:49,380 --> 00:12:52,380
+It had been almost 30 years since the bridge's construction.
+
+139
+00:12:53,480 --> 00:12:58,980
+As the federal interstate program of the 1950s drove the northeastern United States into
+
+140
+00:12:58,981 --> 00:13:04,140
+the superhighway age, bridges and highways were being built with unprecedented speed
+
+141
+00:13:04,141 --> 00:13:05,360
+and determination.
+
+142
+00:13:05,361 --> 00:13:12,360
+To keep costs in check, economical methods of construction were used.
+
+143
+00:13:12,361 --> 00:13:18,460
+The Mianus River Bridge, opened in 1958, used a construction technique known as the pin
+
+144
+00:13:18,461 --> 00:13:24,580
+and hanger design to connect the bridge's roadway to its supports.
+
+145
+00:13:24,581 --> 00:13:31,800
+A pin and hanger assembly consists of two steel plates attached to girders by two steel pins.
+
+146
+00:13:31,801 --> 00:13:36,260
+Retaining bolts are then installed through the pins with a keeper plate at each end.
+
+147
+00:13:37,360 --> 00:13:40,120
+A standard nut is fastened to complete the assembly.
+
+148
+00:13:40,920 --> 00:13:46,440
+The suspended span of the Mianus River Bridge had two of these assemblies, one at each corner of the north end.
+
+149
+00:13:47,080 --> 00:13:55,960
+And it allows the structure to move back and forth because with long spans you have issues with expansion and contraction, especially in the environment in Connecticut.
+
+150
+00:13:55,961 --> 00:14:02,960
+The bridge's location, years of heavy traffic, and harsh weather conditions all took a severe toll.
+
+151
+00:14:02,961 --> 00:14:13,960
+You're over a water course that happens to be a salt martian, fundamentally subject to tidal flow from Long Island Sound.
+
+152
+00:14:13,961 --> 00:14:18,960
+But also the material that we put on the roads in the winter has quite a bit of salt in it.
+
+153
+00:14:18,961 --> 00:14:19,661
+in it.
+
+154
+00:14:19,662 --> 00:14:26,200
+And over a course of years, recognizing this is now 30 years old practically, rust built up.
+
+155
+00:14:28,400 --> 00:14:33,680
+The official statement from investigating engineers was that the Mianus River bridge
+
+156
+00:14:33,681 --> 00:14:39,200
+collapsed because of undetected lateral displacement of the hangars by corrosion-induced forces.
+
+157
+00:14:42,320 --> 00:14:46,760
+The rust caused the inside hangar of the northeast corner of the suspended span
+
+158
+00:14:46,761 --> 00:14:49,260
+to slide off the lower pin.
+
+159
+00:14:50,160 --> 00:14:52,700
+Now the entire weight of the span's north end
+
+160
+00:14:52,701 --> 00:14:55,660
+rested precariously on one hanger assembly.
+
+161
+00:14:57,060 --> 00:14:59,620
+Because it wasn't designed to carry this much weight,
+
+162
+00:15:00,340 --> 00:15:03,140
+it was only a matter of time before it too failed.
+
+163
+00:15:03,900 --> 00:15:07,800
+And then ultimately the pin worked its way out of the remaining hanger
+
+164
+00:15:07,801 --> 00:15:09,900
+and that corner of the span fell.
+
+165
+00:15:11,820 --> 00:15:15,300
+While rust corrosion of steel subjected to this type of environment
+
+166
+00:15:15,301 --> 00:15:18,000
+is essentially a natural, unavoidable process.
+
+167
+00:15:18,880 --> 00:15:22,100
+The undetected part was definitely avoidable.
+
+168
+00:15:24,300 --> 00:15:27,620
+Hardesty in Hanover was one of the engineering firms
+
+169
+00:15:27,621 --> 00:15:29,340
+called in to evaluate the collapse.
+
+170
+00:15:30,480 --> 00:15:32,300
+After looking at the situation,
+
+171
+00:15:32,560 --> 00:15:37,300
+we knew that the other three spans were in immediate danger.
+
+172
+00:15:37,940 --> 00:15:40,060
+And by noon the next day,
+
+173
+00:15:40,061 --> 00:15:46,220
+we had a mechanism to clamp the remaining pin and hangers together
+
+174
+00:15:46,221 --> 00:15:50,120
+so that they would resist failure.
+
+175
+00:15:50,121 --> 00:15:54,200
+A temporary bridge span was installed 25 days after the accident,
+
+176
+00:15:54,920 --> 00:15:56,260
+allowing traffic to resume.
+
+177
+00:15:57,280 --> 00:15:59,720
+And construction began on a more permanent structure,
+
+178
+00:16:00,240 --> 00:16:02,220
+which opened in January of 1984.
+
+179
+00:16:02,980 --> 00:16:06,720
+But with so many of the state's bridges built with the same failed technique,
+
+180
+00:16:06,721 --> 00:16:11,220
+The race to prevent more potentially fatal bridge collapses was on.
+
+181
+00:16:12,720 --> 00:16:15,380
+Subsequent to the Bionis River event,
+
+182
+00:16:16,700 --> 00:16:20,380
+not only the state of Connecticut, but the entire country went out
+
+183
+00:16:20,381 --> 00:16:23,080
+and started inspecting all their pin and hanger assemblies.
+
+184
+00:16:23,740 --> 00:16:27,380
+We've inspected all the hanger assemblies, cleaned all the hanger assemblies,
+
+185
+00:16:27,840 --> 00:16:32,340
+upgraded the hanger assemblies to be certain that they had the appropriate connection pieces,
+
+186
+00:16:32,920 --> 00:16:35,300
+and then we put in what we call catcher mitts,
+
+187
+00:16:35,301 --> 00:16:40,440
+a structural component beneath the hangar that if the hangar does in fact fail,
+
+188
+00:16:41,020 --> 00:16:42,840
+that end of the structure can't fall.
+
+189
+00:16:43,720 --> 00:16:48,780
+The accident drew national attention to the problems caused by deferred bridge maintenance.
+
+190
+00:16:51,760 --> 00:16:56,220
+Connecticut's Governor William O'Neill embarked on an unprecedented 10-year,
+
+191
+00:16:56,400 --> 00:17:01,780
+$5.5 billion plan to reconstruct and rehabilitate the state's roads and bridges.
+
+192
+00:17:05,300 --> 00:17:12,220
+In 1989, the Mianus Bridge was transformed again, with expanded traffic lanes and updated retrofitting.
+
+193
+00:17:13,360 --> 00:17:20,320
+Thanks to Governor O'Neill's dedication, Connecticut now boasts the nation's best bridge inspection and maintenance program.
+
+194
+00:17:22,800 --> 00:17:29,300
+Perhaps the bridge designers of the 1950s didn't anticipate that future generations would neglect maintenance.
+
+195
+00:17:29,301 --> 00:17:35,960
+But the three lives taken by the failure of the Mianus River Bridge may have saved many more.
+
+196
+00:17:37,460 --> 00:17:44,340
+In 1983, the Mianus River Bridge was secured and rebuilt at a cost of over $75 million.
+
+197
+00:17:45,400 --> 00:17:49,300
+Engineering disasters will return on Modern Marvels.
+
+198
+00:17:54,800 --> 00:17:58,100
+Tumultuous storms in the North Atlantic are not uncommon.
+
+199
+00:17:59,300 --> 00:18:04,680
+But the Ocean Ranger was built to withstand the worst of them.
+
+200
+00:18:06,680 --> 00:18:13,020
+Owned by Ocean Drilling and Exploration Company, or Odeco, it was hailed as unsinkable.
+
+201
+00:18:14,140 --> 00:18:20,200
+The $120 million semi-submersible oil rig was the pride of an offshore exploration fleet.
+
+202
+00:18:21,220 --> 00:18:28,040
+Its job was to search for oil farther and deeper than ever before, in areas previously thought too hostile.
+
+203
+00:18:28,041 --> 00:18:35,040
+A semi-submersible is a particular type of vessel that's really been adapted exclusively for drilling offshore.
+
+204
+00:18:35,041 --> 00:18:41,040
+And the reason for that is it's got particularly good motion characteristics in waves.
+
+205
+00:18:41,041 --> 00:18:45,040
+And that is achieved by having the pontoons underneath the water.
+
+206
+00:18:45,041 --> 00:18:47,040
+The main part of the buoyancy is underneath the surface.
+
+207
+00:18:47,041 --> 00:18:52,040
+And the part that crosses the surface are the columns, which are relatively small in area.
+
+208
+00:18:52,041 --> 00:18:57,040
+And what this means is that the vessel doesn't respond to wave action very much.
+
+209
+00:18:57,041 --> 00:19:00,040
+much and so the motion characteristics are good for drilling.
+
+210
+00:19:00,041 --> 00:19:06,040
+With a platform the size of two football fields and towering 35 stories from Kiel to
+
+211
+00:19:06,041 --> 00:19:08,860
+Derrick, it was the symbol of stability.
+
+212
+00:19:08,861 --> 00:19:13,420
+The Ocean Ranger at the time was built was the largest of such vessel in the world.
+
+213
+00:19:13,421 --> 00:19:19,920
+It had two pontoons and eight columns which was not unusual, but it was the largest vessel
+
+214
+00:19:19,921 --> 00:19:25,200
+and generally with vessels the larger they are the better they behave in the sea.
+
+215
+00:19:25,201 --> 00:19:30,380
+So it was probably the most tolerant vessel of its time.
+
+216
+00:19:30,381 --> 00:19:34,680
+And of course at the time it was probably the most modern.
+
+217
+00:19:34,681 --> 00:19:41,380
+In November 1980, the Ocean Ranger arrived on the Grand Banks, 170 miles off the coast
+
+218
+00:19:41,381 --> 00:19:42,380
+of Newfoundland.
+
+219
+00:19:42,381 --> 00:19:49,360
+Yeah, back in the 80s when work wasn't so plenty, you know, when the Eudrichs came to
+
+220
+00:19:49,361 --> 00:19:50,920
+Newfoundland it was great.
+
+221
+00:19:50,921 --> 00:19:56,060
+I mean, people got jobs offshore and they went out there and they made good money.
+
+222
+00:19:56,880 --> 00:19:57,740
+And it was good work.
+
+223
+00:19:58,100 --> 00:20:01,040
+The oil business in Newfoundland put a lot of people on their feet.
+
+224
+00:20:03,760 --> 00:20:09,060
+On February 6, 1982, the crew of the Ocean Ranger got its first scare
+
+225
+00:20:09,061 --> 00:20:14,260
+when a problem with the ballast control caused the rig to tilt or list unexpectedly.
+
+226
+00:20:15,400 --> 00:20:18,180
+Ballast control is the process by which the rig is kept level
+
+227
+00:20:18,181 --> 00:20:23,460
+by pumping seawater into or out of the ballast tanks located in the pontoons.
+
+228
+00:20:23,760 --> 00:20:29,600
+I was in the crane moving around some stuff and the rigs started to list.
+
+229
+00:20:29,900 --> 00:20:31,900
+So we didn't know what the hell was going on there.
+
+230
+00:20:32,140 --> 00:20:39,100
+So I got down out of the crane and my workers and myself and all the other people went to the light bulbs.
+
+231
+00:20:39,101 --> 00:20:43,620
+And it was kind of panicking because we didn't know it was a beautiful day.
+
+232
+00:20:43,621 --> 00:20:47,080
+and if it had to be a bad day that day,
+
+233
+00:20:47,140 --> 00:20:48,480
+I wouldn't want to be aboard that rig.
+
+234
+00:20:49,300 --> 00:20:50,880
+Luckily, the seas were calm
+
+235
+00:20:50,881 --> 00:20:52,540
+and the problem was corrected,
+
+236
+00:20:52,860 --> 00:20:55,060
+but the stage for catastrophe was set.
+
+237
+00:20:57,100 --> 00:20:59,140
+John Crow went on his monthly shore leave
+
+238
+00:20:59,141 --> 00:21:00,100
+a few days later.
+
+239
+00:21:03,420 --> 00:21:05,680
+On February 14, 1982,
+
+240
+00:21:06,380 --> 00:21:08,420
+an intense storm hit the Grand Banks
+
+241
+00:21:08,421 --> 00:21:09,840
+with winds of 90 knots
+
+242
+00:21:09,841 --> 00:21:11,580
+and waves as high as 50 feet.
+
+243
+00:21:13,620 --> 00:21:18,680
+At about 8 p.m., a violent wave broke through a porthole in the ballast control room
+
+244
+00:21:18,681 --> 00:21:24,260
+and washed over the control panel, causing the system to short-circuit.
+
+245
+00:21:25,200 --> 00:21:33,520
+Now you have a whole bunch of electric components that are soaking wet with not just water, salt water.
+
+246
+00:21:34,000 --> 00:21:40,480
+So, of course, immediately the whole electrical system controlling the stability of the Ocean Ranger falls apart.
+
+247
+00:21:40,481 --> 00:21:44,500
+I mean, stops working, starts working effortlessly.
+
+248
+00:21:45,460 --> 00:21:50,560
+Because such emergency situations were never anticipated on the unsinkable Ocean Ranger,
+
+249
+00:21:51,140 --> 00:21:53,500
+technical and safety training had been less than adequate.
+
+250
+00:21:54,340 --> 00:21:59,200
+The confused crew scrambled to fix the problem, but this time the seas were raging.
+
+251
+00:22:00,780 --> 00:22:06,740
+Seawater entered the forward tanks in the port pontoon and caused a rapid 10-degree list to port and forward.
+
+252
+00:22:07,060 --> 00:22:10,160
+The rig wasn't designed to deal with this kind of situation.
+
+253
+00:22:10,480 --> 00:22:15,100
+Where they had difficulties because in the Ocean Ranger, the ballast pumps were located in the stern.
+
+254
+00:22:15,580 --> 00:22:16,760
+It was listed to the bow.
+
+255
+00:22:17,460 --> 00:22:20,580
+These pumps were not capable of pumping out the bow tanks.
+
+256
+00:22:21,660 --> 00:22:26,200
+The crew was also untrained in the operation of the pneumatic manual override system.
+
+257
+00:22:27,420 --> 00:22:33,500
+No one on that ship knew how to use extra long threaded control rods,
+
+258
+00:22:33,501 --> 00:22:38,440
+which would bypass the control panel that was now soaked altogether
+
+259
+00:22:38,441 --> 00:22:41,960
+and could cause them to manually turn on the air relays
+
+260
+00:22:41,961 --> 00:22:45,000
+that would change the valving and the stability of the ship.
+
+261
+00:22:47,280 --> 00:22:52,120
+Just after 1 a.m. on February 15th, a distress call was issued.
+
+262
+00:22:53,740 --> 00:22:55,060
+Search and rescue, Bairns.
+
+263
+00:22:55,160 --> 00:22:56,220
+Mobile radio calling?
+
+264
+00:22:56,420 --> 00:22:57,120
+Yeah.
+
+265
+00:22:57,121 --> 00:22:58,500
+Got an emergency on the Ocean Ranger.
+
+266
+00:22:58,960 --> 00:23:01,680
+Half an hour later, the crew commenced evacuation.
+
+267
+00:23:01,940 --> 00:23:03,880
+They want to evacuate by the looks of it.
+
+268
+00:23:03,881 --> 00:23:09,960
+But only a fraction of the men were able to board the lifeboats,
+
+269
+00:23:10,360 --> 00:23:13,960
+which weren't even designed for violent storms in heavy listing situations.
+
+270
+00:23:14,500 --> 00:23:16,700
+These circumstances had not been anticipated.
+
+271
+00:23:17,180 --> 00:23:20,600
+The launch method where you just drop them on two cables,
+
+272
+00:23:21,060 --> 00:23:24,660
+you really have very little control over what happens as soon as you start that launch.
+
+273
+00:23:25,420 --> 00:23:28,140
+The rig capsized at 3.15 a.m.
+
+274
+00:23:29,780 --> 00:23:33,260
+A nearby supply ship attempted to carry out rescue operations.
+
+275
+00:23:33,880 --> 00:23:39,080
+but the seas were too rough and too cold
+
+276
+00:23:39,081 --> 00:23:43,640
+wearing only their clothes and life jackets the men including those who fell
+
+277
+00:23:43,641 --> 00:23:47,960
+out of the lifeboats were immobilized almost instantly and couldn't grasp the
+
+278
+00:23:47,961 --> 00:23:51,000
+lines being cast
+
+279
+00:23:51,001 --> 00:23:55,480
+all 84 of the ocean rangers men met their watery graves in a matter of
+
+280
+00:23:55,481 --> 00:23:59,640
+minutes
+
+281
+00:23:59,641 --> 00:24:01,641
+With no survivors, Canadian and U.S.
+
+282
+00:24:01,642 --> 00:24:05,920
+investigators had to somehow piece together what happened that fateful night.
+
+283
+00:24:10,900 --> 00:24:14,820
+Canada's National Research Council built a scale model of the Ocean Ranger
+
+284
+00:24:14,821 --> 00:24:18,660
+and performed a myriad of lab tests to determine what went wrong.
+
+285
+00:24:19,600 --> 00:24:28,360
+This is the model of the Ocean Ranger that was used as part of the inquiry into the disaster conducted by the Royal Commission.
+
+286
+00:24:28,361 --> 00:24:31,500
+This area here is where the ballast control room was located.
+
+287
+00:24:31,620 --> 00:24:34,820
+The portholes would have been located so that you could see the draft marks.
+
+288
+00:24:35,380 --> 00:24:37,320
+The water level would have been about here.
+
+289
+00:24:38,480 --> 00:24:43,860
+And so you can see that the control room is located a fair ways below the main deck here.
+
+290
+00:24:44,720 --> 00:24:47,640
+The ballast control was located too low on the rig,
+
+291
+00:24:48,060 --> 00:24:52,040
+and the control panel was too close to a porthole, rendering it vulnerable.
+
+292
+00:24:52,980 --> 00:24:56,860
+When you consider ballast control panels and rig designs that have been made since,
+
+293
+00:24:56,861 --> 00:25:01,380
+it is almost universal, or I'm sure it is universal now,
+
+294
+00:25:01,460 --> 00:25:04,260
+that if they are not waterproof, then they are in situations
+
+295
+00:25:04,261 --> 00:25:09,500
+where either water from the outside or water from internal pipes cannot get at them.
+
+296
+00:25:09,740 --> 00:25:11,760
+Aside from identifying the design flaws,
+
+297
+00:25:12,820 --> 00:25:16,880
+investigators cited inadequate crew training and numerous safety violations.
+
+298
+00:25:18,020 --> 00:25:20,320
+As a result of the Ocean Ranger tragedy,
+
+299
+00:25:20,900 --> 00:25:23,900
+survival suits, as well as technical and survival training,
+
+300
+00:25:23,901 --> 00:25:27,860
+were made mandatory on rigs stationed in North Atlantic waters.
+
+301
+00:25:28,840 --> 00:25:30,760
+Lifeboat launch systems have improved dramatically,
+
+302
+00:25:31,400 --> 00:25:36,200
+and semi-submersibles are now required to carry lifeboats for 200% crew capacity,
+
+303
+00:25:36,680 --> 00:25:38,980
+with half located on opposing poles of the vessel,
+
+304
+00:25:39,760 --> 00:25:41,660
+in case of a heavy list in either direction.
+
+305
+00:25:43,140 --> 00:25:47,860
+On the Ocean Ranger on that fatal night, I mean, I guess the weather was so bad,
+
+306
+00:25:47,861 --> 00:25:53,940
+and I guess if they had to close the dark window in the lake,
+
+307
+00:25:54,400 --> 00:25:58,140
+you know, so many things you can say they could have done probably.
+
+308
+00:25:58,640 --> 00:26:02,540
+And I guess Mother Nature just let everybody know
+
+309
+00:26:02,541 --> 00:26:04,860
+that you can build nothing big enough that she can take.
+
+310
+00:26:09,740 --> 00:26:13,960
+The Ocean Ranger weighed approximately 25,000 metric tons,
+
+311
+00:26:14,540 --> 00:26:16,360
+about half the weight of the Titanic.
+
+312
+00:26:16,361 --> 00:26:21,360
+Engineering Disasters will return on Modern Marvels.
+
+313
+00:26:24,360 --> 00:26:29,360
+Johnstown, Pennsylvania, lies in the heart of the Allegheny Mountains.
+
+314
+00:26:30,360 --> 00:26:34,360
+This 200-year-old town is a place of many stories.
+
+315
+00:26:34,361 --> 00:26:41,360
+But the most famous and the most tragic is that of the Great Flood of 1889.
+
+316
+00:26:46,360 --> 00:26:59,460
+Well, Johnstown was a sort of backwoods trading center when it was founded in 1800.
+
+317
+00:26:59,461 --> 00:27:05,420
+It boomed when the Pennsylvania Canal came through in the 1830s, and then 20 years later
+
+318
+00:27:05,421 --> 00:27:07,760
+when the Pennsylvania Railroad came through.
+
+319
+00:27:08,580 --> 00:27:09,700
+And it was a matter of decades.
+
+320
+00:27:09,820 --> 00:27:14,500
+It had gone from kind of a frontier outpost to one of the leading steel centers in the
+
+321
+00:27:14,501 --> 00:27:15,201
+world.
+
+322
+00:27:16,360 --> 00:27:18,700
+As industry grew, so did the town.
+
+323
+00:27:19,680 --> 00:27:23,220
+Approximately 30,000 people resided in the area in 1889.
+
+324
+00:27:25,460 --> 00:27:28,300
+Its location was a major reason for its success.
+
+325
+00:27:28,720 --> 00:27:33,300
+There are three major rivers around the Johnstown area.
+
+326
+00:27:33,620 --> 00:27:38,140
+You have the Little Connemaw River, and you have the Stony Creek River.
+
+327
+00:27:38,940 --> 00:27:43,680
+And these two rivers merge to form the Connemaw River itself.
+
+328
+00:27:43,681 --> 00:27:49,700
+These rivers have provided what was necessary for the industries that were here,
+
+329
+00:27:50,040 --> 00:27:53,640
+and these rivers helped put the town on the map.
+
+330
+00:27:54,540 --> 00:28:00,540
+The rivers also provided mass transportation and helped create the Pennsylvania Mainline Canal System.
+
+331
+00:28:01,260 --> 00:28:09,680
+By 1834, you had this wonderfully ambitious system that went basically from Pittsburgh to Philadelphia
+
+332
+00:28:09,681 --> 00:28:14,680
+Philadelphia by a combination of narrow gauge railroad and traditional canals.
+
+333
+00:28:15,680 --> 00:28:19,680
+One problem with this system was a lack of water during the summer months.
+
+334
+00:28:19,681 --> 00:28:26,680
+To ensure maximum mobility, the answer was to build a dam that would hold a reservoir of water to be channeled into the canals.
+
+335
+00:28:30,680 --> 00:28:35,680
+The site chosen was 14 miles east of and 410 feet above Johnstown.
+
+336
+00:28:35,681 --> 00:28:40,680
+construction began on the South Fork Dam in 1838.
+
+337
+00:28:40,681 --> 00:28:47,680
+It was made of puddled earth and what that means is they would just make a layer of earth, dirt and rock.
+
+338
+00:28:47,681 --> 00:28:51,680
+Water would be added to make it airtight and watertight.
+
+339
+00:28:51,681 --> 00:28:56,680
+The center of the embankment consisted of slate, stones and more earth.
+
+340
+00:28:56,681 --> 00:29:01,680
+The downstream portion was built up mostly of rocks, weighing up to 10 tons.
+
+341
+00:29:01,681 --> 00:29:07,460
+It had, we believe, certainly one spillway, but we think it had a second emergency spillway.
+
+342
+00:29:07,740 --> 00:29:15,920
+It had pipes running underneath it, a culvert, that allowed the operator of the dam to actually drain it if there was an emergency.
+
+343
+00:29:16,680 --> 00:29:27,640
+Taking 14 years to complete, the dam stood 72 feet high, 918 feet across, 10 feet thick at the top, and 220 feet thick at its base.
+
+344
+00:29:28,180 --> 00:29:29,540
+It seemed impenetrable.
+
+345
+00:29:29,541 --> 00:29:40,129
+But one of the many ironies in the timeline of the Johnstown flood story was that the western reservoir of the Pennsylvania Mainline Canal was finished just in time
+
+346
+00:29:40,130 --> 00:29:42,260
+for canals to go out of business.
+
+347
+00:29:43,900 --> 00:29:47,740
+The railroads had taken over as the preferred source of transportation.
+
+348
+00:29:48,660 --> 00:29:53,660
+With no need for a reservoir, the dam stood in neglect for the next 27 years.
+
+349
+00:29:53,661 --> 00:30:03,160
+In 1862, a heavy storm caused a collapse in the center portion of the dam, which destroyed the stone culvert.
+
+350
+00:30:04,160 --> 00:30:13,780
+The marred structure sat until 1879, when industrialist Benjamin Ruff bought the land and created the exclusive South Fork Fishing and Hunting Club.
+
+351
+00:30:14,080 --> 00:30:20,520
+Ruff, who had worked for the railroad, hired some workmen and came up here and began to rebuild the dam.
+
+352
+00:30:20,521 --> 00:30:29,540
+They had no engineer working on the project, and it was really just a construction gang, a railroad construction gang.
+
+353
+00:30:30,080 --> 00:30:33,680
+Built like a railroad embankment, the dam was eventually repaired.
+
+354
+00:30:34,600 --> 00:30:39,080
+But puddled clay was not used, and the culvert was not reinstalled.
+
+355
+00:30:39,880 --> 00:30:42,640
+The old reservoir was now renamed Connemaw Lake.
+
+356
+00:30:43,780 --> 00:30:48,040
+The South Fork Dam was really an accident waiting to happen.
+
+357
+00:30:48,041 --> 00:30:52,980
+When it was reconstructed, there were several very serious engineering flaws,
+
+358
+00:30:53,420 --> 00:30:57,340
+which really totally set the stage for disaster.
+
+359
+00:30:57,900 --> 00:31:04,360
+Along with no discharge system, one of the most damaging changes was the placement of mesh screens at the spillway,
+
+360
+00:31:04,860 --> 00:31:07,900
+which prevented fish that had been imported for the club from escaping.
+
+361
+00:31:09,920 --> 00:31:14,280
+The dam stood for close to another decade, until 1889.
+
+362
+00:31:18,040 --> 00:31:22,020
+the great storm of 1889 arrived.
+
+363
+00:31:23,520 --> 00:31:29,160
+By the time people got up the next morning, on the morning of Friday, May 31st,
+
+364
+00:31:29,480 --> 00:31:34,520
+many of the people in Johnstown saw that the streets in front of their homes were underwater.
+
+365
+00:31:35,260 --> 00:31:41,440
+And it wasn't long before many of the streets in Johnstown actually resembled canals more than streets.
+
+366
+00:31:43,060 --> 00:31:46,020
+The rivers surrounding Johnstown were overflowing.
+
+367
+00:31:46,960 --> 00:31:51,280
+Connemaw Lake was taking on massive amounts of water in a very short period of time.
+
+368
+00:31:52,120 --> 00:31:58,140
+Connemaw Lake would grow an estimated 30 to 33 percent larger than its normal size.
+
+369
+00:31:58,800 --> 00:32:04,880
+Water was being dumped into the lake from the hills around it, as well as a lot of junk coming into the lake.
+
+370
+00:32:06,740 --> 00:32:11,060
+Frantic efforts to stop water from flowing over the top of the dam were futile.
+
+371
+00:32:11,061 --> 00:32:16,020
+The spillway's mesh screens were so choked with debris, they couldn't be removed.
+
+372
+00:32:16,300 --> 00:32:19,600
+Water was rising about a foot an hour behind the dam.
+
+373
+00:32:19,820 --> 00:32:24,380
+It was just a matter of time until water started over the top.
+
+374
+00:32:25,240 --> 00:32:30,940
+Many railway travelers and residents of the towns that lined the Little Connemaw River took to the hills.
+
+375
+00:32:31,980 --> 00:32:35,020
+Those that didn't paid with their lives.
+
+376
+00:32:35,021 --> 00:32:41,900
+They stood watching until about 10 minutes after 3 when the eroded dam just pushed away.
+
+377
+00:32:44,080 --> 00:32:52,180
+And 20 million tons of water just leapt out of the reservoir and began 14-mile descent on Johnstown.
+
+378
+00:32:53,960 --> 00:32:58,500
+The flood wave ripped through the valley, decimating everything in its path.
+
+379
+00:32:58,501 --> 00:33:03,980
+So what you almost had was a ball of water rolling down this narrow, sluice-like valley.
+
+380
+00:33:03,981 --> 00:33:08,300
+and it pushed ahead of it everything, trees, houses, boulders.
+
+381
+00:33:08,620 --> 00:33:11,360
+It pushed 80-ton locomotives as far as a mile,
+
+382
+00:33:11,740 --> 00:33:14,760
+snapped off three-foot diameter hardwood trees.
+
+383
+00:33:17,020 --> 00:33:19,560
+Reportedly reaching heights of up to 50 feet,
+
+384
+00:33:19,980 --> 00:33:23,580
+the wall hit downtown, severing buildings from their foundations.
+
+385
+00:33:24,700 --> 00:33:28,760
+And as the flood came into town, it broke into three directions
+
+386
+00:33:28,761 --> 00:33:33,080
+and you had three tidal waves come crashing into Johnstown.
+
+387
+00:33:33,980 --> 00:33:42,640
+Residents were floating on their rooftops hoping for an escape.
+
+388
+00:33:43,600 --> 00:33:46,420
+It took only 10 minutes for the town to be wiped out.
+
+389
+00:33:49,960 --> 00:33:55,780
+The once bustling Johnstown, proudly built on the backs of hard labor, was annihilated.
+
+390
+00:33:57,480 --> 00:34:03,860
+An estimated 30 acres of debris as deep as 40 feet accumulated at the stone railroad bridge.
+
+391
+00:34:03,980 --> 00:34:04,980
+on the edge of town.
+
+392
+00:34:07,340 --> 00:34:10,400
+The wreckage contained coal, kerosene, and lime,
+
+393
+00:34:10,840 --> 00:34:13,660
+which soon ignited and became a raging inferno.
+
+394
+00:34:14,440 --> 00:34:16,840
+The fire burned for three and a half days.
+
+395
+00:34:17,040 --> 00:34:19,600
+As many as 80 people who survived the flood died
+
+396
+00:34:19,601 --> 00:34:22,880
+in a funeral pyre at the Stone Bridge.
+
+397
+00:34:23,200 --> 00:34:25,540
+The death toll from the Johnstown flood
+
+398
+00:34:25,541 --> 00:34:28,940
+is recorded as 2,209.
+
+399
+00:34:29,580 --> 00:34:32,500
+It was estimated about 20,000 were in areas
+
+400
+00:34:32,501 --> 00:34:33,880
+that were actually hit by the flood.
+
+401
+00:34:33,980 --> 00:34:36,740
+And so about one in ten perished.
+
+402
+00:34:37,660 --> 00:34:40,080
+But the town itself did not perish.
+
+403
+00:34:41,320 --> 00:34:46,660
+The Johnstown Flood started the first major civilian relief effort in American history.
+
+404
+00:34:46,860 --> 00:34:50,100
+It's one of the most inspirational stories in American history.
+
+405
+00:34:51,060 --> 00:34:58,280
+A new organization called the American Red Cross, led by founder Clara Barton, was on the scene in five days.
+
+406
+00:34:58,281 --> 00:35:04,580
+During the next five months, the Red Cross began its journey towards the organization we know today.
+
+407
+00:35:05,180 --> 00:35:09,560
+25,000 people were homeless. They all needed to be fed and clothed.
+
+408
+00:35:09,800 --> 00:35:17,340
+And for weeks, people were dependent on commissaries living in tents or hovels, you know, constructed out of wreckage.
+
+409
+00:35:18,180 --> 00:35:21,700
+With remarkable speed, Johnstown began to rebuild.
+
+410
+00:35:23,140 --> 00:35:26,080
+Within six weeks, the mills were back in operation.
+
+411
+00:35:26,081 --> 00:35:31,080
+Industry and the railroads had made commitments to rebuild.
+
+412
+00:35:31,081 --> 00:35:37,080
+In Johnstown, their memorial was going to be a newer, bigger, better city.
+
+413
+00:35:37,081 --> 00:35:41,080
+Victims blamed the South Fork Fishing and Hunting Club.
+
+414
+00:35:41,081 --> 00:35:45,080
+But the courts deemed the disaster an act of God.
+
+415
+00:35:45,081 --> 00:35:48,080
+The survivors received no legal compensation.
+
+416
+00:35:48,081 --> 00:35:55,080
+compensation. Today, the dam site is part of the Johnstown Flood National Memorial,
+
+417
+00:35:55,880 --> 00:36:02,221
+run by the National Park Service. The area is once again used for recreation.
+
+418
+00:36:02,222 --> 00:36:02,922
+But just
+
+419
+00:36:03,960 --> 00:36:10,960
+14 miles downriver, in the Grandview Cemetery, lie the bodies of 777 unidentified souls of
+
+420
+00:36:12,100 --> 00:36:15,840
+the flood, victims of the dam's faulty engineering.
+
+421
+00:36:18,080 --> 00:36:25,080
+The water from Connemaw Lake took less than an hour to flow 14 miles down the narrow valley.
+
+422
+00:36:25,081 --> 00:36:32,080
+The amount of water was estimated to equal that flowing over Niagara Falls in 36 minutes.
+
+423
+00:36:32,081 --> 00:36:37,080
+Engineering disasters will return on Modern Marvels.
+
+424
+00:36:39,080 --> 00:36:43,080
+Millions of people travel by air every day.
+
+425
+00:36:43,081 --> 00:36:46,080
+Most on large commercial airliners.
+
+426
+00:36:48,080 --> 00:36:53,080
+Only a lucky handful can afford the luxury of private jet travel.
+
+427
+00:36:53,081 --> 00:36:58,080
+But even the fortunate few can't always escape misfortune.
+
+428
+00:37:05,080 --> 00:37:17,080
+On October 25, 1999, champion pro golfer Payne Stewart, three other passengers, and two pilots boarded a Learjet 35 in Orlando, Florida.
+
+429
+00:37:18,080 --> 00:37:20,560
+They were destined for Love Field in Dallas, Texas,
+
+430
+00:37:21,180 --> 00:37:23,080
+the site of John F. Kennedy's final landing,
+
+431
+00:37:23,520 --> 00:37:25,760
+and the eventual swearing-in of Lyndon B. Johnson.
+
+432
+00:37:26,600 --> 00:37:30,400
+The Lyra 35 is a rather small twin-engine business jet.
+
+433
+00:37:30,520 --> 00:37:33,240
+In this case, it was used for on-demand air taxi purposes.
+
+434
+00:37:34,100 --> 00:37:39,320
+It's quite fast, cruising at an average airspeed of about 500 miles an hour.
+
+435
+00:37:39,980 --> 00:37:41,220
+It's got long legs to it.
+
+436
+00:37:41,640 --> 00:37:44,840
+You can go over 2,000 miles in one of these before you have to refuel.
+
+437
+00:37:44,841 --> 00:37:52,100
+The airplane in question that Payne Stewart was flying, I believe, was built in 1976.
+
+438
+00:37:52,920 --> 00:37:55,880
+It's been a very popular airplane, very reliable.
+
+439
+00:37:57,340 --> 00:37:59,920
+The planned flight time was two hours.
+
+440
+00:38:01,140 --> 00:38:07,260
+The plane was filled to 5,300 pounds fuel weight, enough for a four-hour, 45-minute flight.
+
+441
+00:38:08,320 --> 00:38:11,580
+The aircraft departed at 9.19 a.m.
+
+442
+00:38:12,280 --> 00:38:14,720
+Minutes later, something happened.
+
+443
+00:38:14,840 --> 00:38:21,480
+They received a clearance up to 23,000 feet at about 927, I believe.
+
+444
+00:38:22,360 --> 00:38:25,860
+They acknowledged this particular transmission without any problems.
+
+445
+00:38:26,040 --> 00:38:28,500
+There was nothing excited in the pilot's voices at all.
+
+446
+00:38:29,420 --> 00:38:32,180
+And they began to climb higher.
+
+447
+00:38:35,060 --> 00:38:37,820
+Later, they were cleared to 39,000 feet,
+
+448
+00:38:38,380 --> 00:38:42,480
+and the air traffic controller, about six minutes after this last transmission,
+
+449
+00:38:42,481 --> 00:38:45,840
+called them up again to ask them to re-channelize their radio
+
+450
+00:38:45,841 --> 00:38:48,760
+and transfer to another air route traffic control center.
+
+451
+00:38:50,160 --> 00:38:53,640
+Well, they got no response, and he tried about five more times,
+
+452
+00:38:54,180 --> 00:38:55,420
+still didn't get a response.
+
+453
+00:38:56,160 --> 00:38:58,260
+The aircraft proceeded to climb an altitude
+
+454
+00:38:58,261 --> 00:39:02,520
+and then deviated from its flight plan as it crossed into the central time zone.
+
+455
+00:39:03,200 --> 00:39:05,440
+And then when it finally climbed through its altitude,
+
+456
+00:39:05,580 --> 00:39:07,700
+its assigned altitude, without leveling off,
+
+457
+00:39:08,160 --> 00:39:09,700
+I'm sure they became quite worried,
+
+458
+00:39:09,701 --> 00:39:13,440
+and alarms began going off across the country, in fact.
+
+459
+00:39:14,400 --> 00:39:19,300
+At 9.52 a.m., the FAA summoned Air Force chase planes.
+
+460
+00:39:21,680 --> 00:39:26,460
+NF-16 caught up to the derelict aircraft, 45,000 feet over Memphis.
+
+461
+00:39:26,800 --> 00:39:30,420
+They noticed no gaping holes in the airplane,
+
+462
+00:39:30,800 --> 00:39:35,060
+none of these windows blown out, for instance, no holes in the windscreen.
+
+463
+00:39:35,061 --> 00:39:42,600
+And no response from the target aircraft as I mentioned, both sides of the cockpit are condensed or frosted over.
+
+464
+00:39:43,460 --> 00:39:45,760
+Could not see in the cockpit area.
+
+465
+00:39:47,640 --> 00:39:52,160
+Based on what the pilots observed, it was likely that the cabin had depressurized
+
+466
+00:39:52,161 --> 00:39:56,900
+and the inhabitants were incapacitated and quite probably dead.
+
+467
+00:39:59,520 --> 00:40:04,560
+With no radio contact in over an hour and no idea what was happening on board,
+
+468
+00:40:05,060 --> 00:40:10,280
+All anyone could do was watch and wait for the Learjet to run out of fuel and crash.
+
+469
+00:40:11,700 --> 00:40:15,280
+The Air Force and the FAA really did not have a lot of options.
+
+470
+00:40:15,820 --> 00:40:18,160
+Again, you have to remember this was well before 9-11,
+
+471
+00:40:18,360 --> 00:40:22,580
+so there was undoubtedly no great concern about terrorism or anything like that.
+
+472
+00:40:23,300 --> 00:40:28,200
+The aircraft was on a steady course over the vast Midwest stretches of this country.
+
+473
+00:40:28,820 --> 00:40:33,000
+It wasn't going to overfly any large cities or anything, so the options were quite limited.
+
+474
+00:40:33,001 --> 00:40:39,300
+The aircraft was escorted the entire way up north until the engines quit and it crashed.
+
+475
+00:40:45,540 --> 00:40:50,760
+NTSB investigators toured the twisted wreckage at the crash site near Aberdeen, South Dakota,
+
+476
+00:40:51,540 --> 00:40:54,820
+over a thousand miles from the flight's intended destination.
+
+477
+00:40:56,680 --> 00:41:01,380
+The evidence indicated that the plane did indeed suffer a massive loss of cabin pressure.
+
+478
+00:41:01,381 --> 00:41:07,360
+Aircraft such as the Lear and airliners that people fly around in today are pressurized.
+
+479
+00:41:07,620 --> 00:41:11,340
+That's because they fly so high that the air is too thin to sustain life.
+
+480
+00:41:12,460 --> 00:41:17,720
+And aircraft itself compresses air to put into the cockpit and the cabin.
+
+481
+00:41:18,180 --> 00:41:22,340
+And again, people need compressed air, a lower atmospheric pressure to live, actually.
+
+482
+00:41:24,000 --> 00:41:27,480
+Outside air flows into the engine and passes through a compressor.
+
+483
+00:41:27,481 --> 00:41:32,480
+The air is pumped through filters and then circulates throughout the cabin.
+
+484
+00:41:32,481 --> 00:41:42,480
+An outflow valve at the back of the plane lets some of the air out so that a cabin pressure of about 6,000 feet can be maintained.
+
+485
+00:41:42,481 --> 00:41:50,480
+A remnant of another valve in the system, the flow control valve, was retrieved from the crash site.
+
+486
+00:41:50,481 --> 00:41:51,181
+site.
+
+487
+00:41:51,182 --> 00:41:56,000
+Found in the fully closed position, it would have prevented airflow into the cabin,
+
+488
+00:41:56,001 --> 00:42:02,560
+causing depressurization. Also found in the debris was the cockpit voice recorder.
+
+489
+00:42:02,561 --> 00:42:03,261
+While
+
+490
+00:42:03,262 --> 00:42:09,200
+no actual voices were audible, investigators could hear the cabin altitude warning alarm.
+
+491
+00:42:09,201 --> 00:42:15,720
+The theory was that the cabin had depressurized very rapidly, making it difficult for the
+
+492
+00:42:15,721 --> 00:42:16,741
+crew to react.
+
+493
+00:42:16,742 --> 00:42:22,720
+At their altitude, those on board could have become hypoxic and lost consciousness
+
+494
+00:42:22,840 --> 00:42:27,160
+in as little as 15 seconds.
+
+495
+00:42:27,161 --> 00:42:31,680
+Hypoxia is a physiological condition where the brain simply does not get enough oxygen
+
+496
+00:42:31,681 --> 00:42:35,496
+to function correctly. There are varying degrees of hypoxia.
+
+497
+00:42:35,497 --> 00:42:37,340
+You can become mildly hypoxic
+
+498
+00:42:37,341 --> 00:42:42,557
+driving up in Denver, Colorado if you're not used to that type of an altitude.
+
+499
+00:42:42,558 --> 00:42:43,560
+Severe hypoxia,
+
+500
+00:42:43,561 --> 00:42:47,240
+though can render you unconscious and of course eventually it can kill you.
+
+501
+00:42:49,720 --> 00:42:54,540
+The older private jet models were not equipped with an automatic pressurization system that
+
+502
+00:42:54,541 --> 00:42:59,218
+activates as soon as a loss of cabin pressure is detected.
+
+503
+00:42:59,219 --> 00:43:01,880
+Unlike the primary pressurization
+
+504
+00:43:01,881 --> 00:43:07,120
+system, which uses compressed air from the engine, the emergency system relies on oxygen
+
+505
+00:43:07,121 --> 00:43:10,400
+from a reserve tank, commonly found in the nose of the plane.
+
+506
+00:43:12,760 --> 00:43:17,600
+Not having the automatic system makes the routine pre-flight check of oxygen systems
+
+507
+00:43:17,601 --> 00:43:18,900
+that much more vital.
+
+508
+00:43:19,460 --> 00:43:23,900
+Prior to any flight, the oxygen system should be checked out thoroughly
+
+509
+00:43:23,901 --> 00:43:28,800
+because it is your lifeline in the event of an emergency depressurization.
+
+510
+00:43:29,740 --> 00:43:34,280
+So prior to any flight, the crew should check the oxygen mass that is flowing.
+
+511
+00:43:34,780 --> 00:43:36,280
+Here's the emergency position.
+
+512
+00:43:36,281 --> 00:43:37,460
+You can hear the mask.
+
+513
+00:43:38,920 --> 00:43:41,500
+And they should put the mask on and breathe.
+
+514
+00:43:46,520 --> 00:43:53,500
+All small jet aircraft designed after 1969 are equipped with an automatic emergency pressurization system.
+
+515
+00:43:54,220 --> 00:43:56,300
+The Learjet in question was designed earlier.
+
+516
+00:43:56,880 --> 00:44:04,020
+Since the older models are still flying, the NTSB has suggested the FAA require retrofitting them with the automatic system.
+
+517
+00:44:04,021 --> 00:44:11,020
+This accident was a particular concern to the safety board and I think to the air taxi
+
+518
+00:44:11,700 --> 00:44:18,700
+operators because this particular corner of the industry is growing almost exponentially.
+
+519
+00:44:18,701 --> 00:44:25,260
+Although the FAA acknowledges that the presence of an automatic pressurization system would
+
+520
+00:44:25,261 --> 00:44:28,660
+enhance safety, it has not implemented this proposal.
+

@@ -1,0 +1,2244 @@
+1
+00:00:00,001 --> 00:00:10,000
+Throughout history, mankind's most spectacular achievements and his worst disasters have come from the same hand.
+
+2
+00:00:10,001 --> 00:00:16,000
+Engineers make modern life possible, but when they fail, thousands can die.
+
+3
+00:00:16,001 --> 00:00:20,000
+Now, Engineering Disasters on Modern Marvels.
+
+4
+00:00:30,000 --> 00:00:44,000
+Major disasters occur because there's a whole string of events that happen in a certain order,
+
+5
+00:00:44,380 --> 00:00:48,460
+any one of which, had they not happened, the disaster wouldn't have happened.
+
+6
+00:00:48,580 --> 00:00:51,060
+We'd like it to stir up your cryo tank.
+
+7
+00:00:51,420 --> 00:00:54,060
+You figure that nothing is perfect. Everything's going to fail.
+
+8
+00:00:54,061 --> 00:01:00,380
+Two or three failures that interact in a way that nobody anticipated bring the system down.
+
+9
+00:01:01,260 --> 00:01:08,480
+Some of our most soaring triumphs as a race.
+
+10
+00:01:08,960 --> 00:01:14,140
+The pyramids, the Parthenon, the shining towers of a modern city.
+
+11
+00:01:15,320 --> 00:01:19,300
+Public building can be the most impressive and memorable of engineering feats,
+
+12
+00:01:19,301 --> 00:01:22,240
+and the most spectacular when it fails.
+
+13
+00:01:24,060 --> 00:01:29,660
+Engineering disasters are nothing new.
+
+14
+00:01:30,240 --> 00:01:33,440
+Over 4,000 years ago, the oldest written law book,
+
+15
+00:01:33,540 --> 00:01:36,020
+The Code of Hammurabi from ancient Babylon,
+
+16
+00:01:36,520 --> 00:01:40,340
+provided penalties that represented the world's first building codes.
+
+17
+00:01:43,540 --> 00:01:47,620
+If a builder build a house for someone and does not construct it properly,
+
+18
+00:01:48,100 --> 00:01:50,980
+and the house which he built fall in and kill its owner,
+
+19
+00:01:51,480 --> 00:01:53,440
+then that builder shall be put to death.
+
+20
+00:01:54,060 --> 00:01:58,380
+If it kill the son of the owner, the son of that builder shall be put to death.
+
+21
+00:01:59,040 --> 00:02:04,440
+If it kill a slave of the owner, then he shall pay slave for slave to the owner of the house.
+
+22
+00:02:05,040 --> 00:02:09,780
+If it ruin goods, he shall make compensation for all that has been ruined.
+
+23
+00:02:12,120 --> 00:02:16,060
+In 305 B.C., after a military victory,
+
+24
+00:02:16,061 --> 00:02:20,820
+the citizens of ancient Rhodes commissioned the largest statue ever built
+
+25
+00:02:20,821 --> 00:02:24,240
+as tribute to their protector, the god Apollo.
+
+26
+00:02:25,260 --> 00:02:29,280
+Built of solid bronze by the sculptor Chares of Lindos,
+
+27
+00:02:29,281 --> 00:02:34,040
+the massive monument and its base rose 150 feet above the harbor,
+
+28
+00:02:34,640 --> 00:02:37,040
+about the same height as the modern Statue of Liberty.
+
+29
+00:02:37,600 --> 00:02:40,020
+It took eight years to build, and when it was finished,
+
+30
+00:02:40,120 --> 00:02:43,880
+the Colossus of Rhodes was one of the seven wonders of the world.
+
+31
+00:02:45,080 --> 00:02:49,040
+But Chares and his engineers were only guessing at the stresses involved.
+
+32
+00:02:49,720 --> 00:02:52,420
+In an earthquake in the 2nd century B.C.,
+
+33
+00:02:52,421 --> 00:02:56,340
+the mighty statue cracked at the knees and fell to earth.
+
+34
+00:02:57,860 --> 00:03:01,120
+Throughout history, the curious want to know what happens
+
+35
+00:03:01,121 --> 00:03:04,480
+when you try to build a little farther, a little lighter,
+
+36
+00:03:04,740 --> 00:03:06,480
+a little higher than anyone else.
+
+37
+00:03:06,900 --> 00:03:09,520
+Oftentimes, the answer is disaster.
+
+38
+00:03:11,520 --> 00:03:14,660
+In the Middle Ages, the Gothic cathedrals of France
+
+39
+00:03:14,661 --> 00:03:17,640
+sent thin spidery spires straight up into the heavens.
+
+40
+00:03:19,040 --> 00:03:26,040
+The citizens of Beauvais, France wanted their cathedral to be taller and more beautiful than any that had come before.
+
+41
+00:03:29,040 --> 00:03:38,040
+Once again, the medieval engineers were pushing the envelope, building higher than anyone else, against forces they didn't fully understand.
+
+42
+00:03:39,040 --> 00:03:43,040
+At 157 feet, it was the highest roof in Europe at the time.
+
+43
+00:03:43,041 --> 00:03:52,140
+But with only a spidery internal network of iron tie rods for support,
+
+44
+00:03:52,420 --> 00:03:54,100
+the result was disaster.
+
+45
+00:03:54,960 --> 00:03:58,000
+In 1284, the roof collapsed into the choir.
+
+46
+00:04:01,280 --> 00:04:04,140
+After the collapse, the cathedral was rebuilt
+
+47
+00:04:04,141 --> 00:04:08,240
+with additional heavy stone piers holding the roof up from the foundation.
+
+48
+00:04:08,241 --> 00:04:15,020
+Though there was never enough money to complete it
+
+49
+00:04:15,021 --> 00:04:16,880
+according to the grandiose plans
+
+50
+00:04:16,881 --> 00:04:21,020
+the Beauvais Cathedral has been called the Parthenon of France
+
+51
+00:04:21,021 --> 00:04:26,020
+Another building most famous for its engineering failure
+
+52
+00:04:26,021 --> 00:04:30,080
+is a bell tower constructed in Italy beginning in 1174
+
+53
+00:04:30,081 --> 00:04:34,420
+Its foundation was so flawed it became world famous
+
+54
+00:04:34,421 --> 00:04:36,560
+as the Leaning Tower of Pisa
+
+55
+00:04:36,561 --> 00:04:39,560
+Today the tower is closed.
+
+56
+00:04:39,561 --> 00:04:42,560
+Massive lead counterweights are slowing its collapse
+
+57
+00:04:42,561 --> 00:04:46,560
+and local engineers have devised a system of cables to hold it up
+
+58
+00:04:46,561 --> 00:04:49,560
+while they try to repair its foundation.
+
+59
+00:04:54,560 --> 00:04:59,560
+In the next 800 years, engineering passed from an art into a science,
+
+60
+00:04:59,561 --> 00:05:03,560
+and the achievements and failures of engineers became truly breathtaking.
+
+61
+00:05:06,560 --> 00:05:11,700
+When the Tacoma Narrows Bridge in Washington State opened in 1940,
+
+62
+00:05:11,701 --> 00:05:16,020
+it was thought to be lovely and elegant in the new lightweight style,
+
+63
+00:05:16,380 --> 00:05:18,600
+but nothing very groundbreaking.
+
+64
+00:05:19,660 --> 00:05:22,360
+It was a wonderful bridge to just look at. It was beautiful.
+
+65
+00:05:23,920 --> 00:05:29,140
+The spectacular Golden Gate Bridge in San Francisco had opened three years before,
+
+66
+00:05:29,700 --> 00:05:32,060
+with a span almost 2,000 feet longer.
+
+67
+00:05:32,061 --> 00:05:39,560
+On the other coast, New York's George Washington Bridge, built in 1933, was 700 feet longer.
+
+68
+00:05:40,300 --> 00:05:43,880
+But the Tacoma Narrows Bridge would make a lasting name for itself.
+
+69
+00:05:44,420 --> 00:05:48,420
+Within days of its opening, it began to sway like a hammock in the breeze.
+
+70
+00:05:49,180 --> 00:05:51,760
+Pretty soon it was the most famous bridge in America.
+
+71
+00:05:53,040 --> 00:06:01,480
+We learned about the bridge that when the wind was up, it would become galloping gertie,
+
+72
+00:06:01,481 --> 00:06:02,640
+move up and down.
+
+73
+00:06:03,140 --> 00:06:04,880
+And when the wind was really bad,
+
+74
+00:06:04,940 --> 00:06:06,580
+we used to ride our bikes out there,
+
+75
+00:06:06,980 --> 00:06:09,560
+park on a hill beside the bridge
+
+76
+00:06:09,561 --> 00:06:12,080
+and watch it go up and down just for a lark.
+
+77
+00:06:12,940 --> 00:06:15,900
+They let people go when the dropping was so sudden
+
+78
+00:06:15,901 --> 00:06:18,300
+that it felt like an old-fashioned elevator.
+
+79
+00:06:19,240 --> 00:06:19,940
+Boom.
+
+80
+00:06:20,260 --> 00:06:20,960
+Like that.
+
+81
+00:06:21,860 --> 00:06:25,460
+Galloping Gertie remained open to traffic for four months.
+
+82
+00:06:25,960 --> 00:06:28,600
+But in November, everybody was ordered off
+
+83
+00:06:28,601 --> 00:06:32,100
+as a 40-mile-an-hour gale whipped across her deck,
+
+84
+00:06:32,420 --> 00:06:34,540
+lifting the roadway like a sail.
+
+85
+00:06:35,880 --> 00:06:39,760
+We went out to watch it whip, and it was really whipping,
+
+86
+00:06:39,980 --> 00:06:41,280
+and there was one car on it.
+
+87
+00:06:41,540 --> 00:06:43,480
+But then it got late, and so we left.
+
+88
+00:06:44,180 --> 00:06:46,700
+By afternoon, the stresses were too much.
+
+89
+00:06:47,340 --> 00:06:50,420
+Incredibly, the 11,000-ton center span
+
+90
+00:06:50,421 --> 00:06:52,760
+ripped away and crashed into the sea.
+
+91
+00:06:58,600 --> 00:07:05,280
+Aerodynamic problems had never been considered important before.
+
+92
+00:07:05,281 --> 00:07:11,260
+Every bridge ever designed, even the smallest arch over a stream,
+
+93
+00:07:12,340 --> 00:07:16,420
+has some aerodynamic lift associated with that span, some aerodynamic characteristics.
+
+94
+00:07:16,980 --> 00:07:21,740
+Well, if the bridge is stone and it's 20 feet long, how important are the aerodynamic forces?
+
+95
+00:07:23,440 --> 00:07:24,300
+They're not.
+
+96
+00:07:24,301 --> 00:07:29,120
+But the Tacoma Narrows Bridge was no stone arch over a stream.
+
+97
+00:07:30,040 --> 00:07:33,120
+The center span was 2,800 feet long.
+
+98
+00:07:33,920 --> 00:07:39,180
+Ironically, the major factor in the spectacular collapse was that bridge designers were getting better.
+
+99
+00:07:40,580 --> 00:07:42,620
+Bridges were no longer, thinner, and lighter.
+
+100
+00:07:43,300 --> 00:07:51,240
+As that trend continued, inevitably, the secondary effect of aerodynamics on a bridge one day became a primary effect.
+
+101
+00:07:51,241 --> 00:07:57,240
+The aerodynamics are always there, but as you get longer and longer and longer, there's just more profile,
+
+102
+00:07:58,260 --> 00:08:02,700
+and your bridge is getting less proportionately stiff to length as you're getting longer and longer spans,
+
+103
+00:08:02,780 --> 00:08:07,320
+and all of a sudden, a second-order force becomes a first-order force.
+
+104
+00:08:07,840 --> 00:08:14,240
+After the spectacular collapse of the Tacoma Narrows Bridge, other bridges with similar construction were stiffened,
+
+105
+00:08:15,020 --> 00:08:19,100
+and they remain open to traffic today, almost 60 years later.
+
+106
+00:08:19,960 --> 00:08:23,600
+The Tacoma Narrows Bridge disaster forced engineers from then on
+
+107
+00:08:23,601 --> 00:08:27,260
+to take aerodynamics into consideration when designing bridges.
+
+108
+00:08:34,580 --> 00:08:38,880
+From bridge construction to public buildings like the Beauvais Cathedral,
+
+109
+00:08:39,480 --> 00:08:44,040
+the buildings people use and rely on every day are still liable to fail.
+
+110
+00:08:44,041 --> 00:08:50,520
+on the night of July 17th 1981
+
+111
+00:08:50,521 --> 00:08:53,900
+1500 people were enjoying a tea dance
+
+112
+00:08:53,901 --> 00:08:56,260
+in the lobby of the Kansas City Hyatt Hotel
+
+113
+00:08:56,261 --> 00:08:59,820
+because it was the biggest crowd to date for the new building
+
+114
+00:08:59,821 --> 00:09:02,600
+stresses from weight were higher than they had ever been
+
+115
+00:09:02,601 --> 00:09:09,640
+this animation helps explain what happened
+
+116
+00:09:09,641 --> 00:09:13,860
+the hotel lobby featured three walkways
+
+117
+00:09:13,861 --> 00:09:16,240
+suspended in levels over the main floor.
+
+118
+00:09:17,460 --> 00:09:18,980
+This is the way it was originally designed.
+
+119
+00:09:19,620 --> 00:09:22,760
+See, the load never should have gone through this box beam.
+
+120
+00:09:23,900 --> 00:09:26,920
+See, the original design was the load go all the way through to the ceiling.
+
+121
+00:09:27,980 --> 00:09:29,180
+But you see what they did here.
+
+122
+00:09:30,120 --> 00:09:32,440
+The quality of the weld here and the quality of the weld here
+
+123
+00:09:32,441 --> 00:09:34,180
+determines whether or not this connection stays up.
+
+124
+00:09:38,180 --> 00:09:40,040
+But good welds are not.
+
+125
+00:09:40,300 --> 00:09:43,120
+They were never designed to carry such loads.
+
+126
+00:09:43,860 --> 00:09:47,620
+When the rubble was cleared away, 114 people lay dead.
+
+127
+00:09:48,120 --> 00:09:50,120
+How did construction like this slip by?
+
+128
+00:09:50,740 --> 00:09:52,240
+Weren't there building inspectors?
+
+129
+00:09:52,680 --> 00:09:56,740
+Roger McCarthy investigated on behalf of the architect's insurance company.
+
+130
+00:09:57,460 --> 00:10:02,220
+Yes, this was a 600-room hotel, and the building inspection took 27 minutes.
+
+131
+00:10:02,980 --> 00:10:08,020
+In the years following the collapse, a blizzard of lawsuits flew in every direction,
+
+132
+00:10:08,540 --> 00:10:11,340
+and two structural engineers lost their licenses.
+
+133
+00:10:12,060 --> 00:10:15,740
+Incredible as the Hyatt collapse and the Tacoma Narrows Bridge may seem,
+
+134
+00:10:15,900 --> 00:10:19,740
+they are just the most recent engineering disasters in public building.
+
+135
+00:10:20,260 --> 00:10:22,900
+If history teaches anything, they won't be the last.
+
+136
+00:10:24,380 --> 00:10:30,640
+With 114 people killed, the Hyatt disaster was the worst single structure collapse
+
+137
+00:10:30,641 --> 00:10:34,100
+in terms of loss of life in United States history.
+
+138
+00:10:35,040 --> 00:10:39,000
+Engineering disasters will continue in a moment on Modern Marvels.
+
+139
+00:10:41,340 --> 00:10:48,640
+Water, the birthplace of life, sustainer of life, ancient highway since the first ore was carved.
+
+140
+00:10:49,560 --> 00:10:55,340
+Since the dawn of time, man has tried to tame the power of water, to turn it to his own purpose.
+
+141
+00:10:55,900 --> 00:11:00,420
+Sometimes he succeeds. When he fails, it can be spectacular.
+
+142
+00:11:01,840 --> 00:11:06,860
+As history progressed, builders of ever more complex systems and machines were discovering
+
+143
+00:11:06,861 --> 00:11:11,260
+that the more complex the system, the more things there are to go wrong.
+
+144
+00:11:12,360 --> 00:11:17,140
+The Titanic, I think, is one of the most classic illustrations of that.
+
+145
+00:11:17,700 --> 00:11:22,080
+Had just any number of things, just one thing been different,
+
+146
+00:11:22,680 --> 00:11:23,900
+the disaster wouldn't have happened.
+
+147
+00:11:25,120 --> 00:11:29,020
+She was the biggest, the most luxurious, the most expensive.
+
+148
+00:11:29,840 --> 00:11:33,440
+Millionaires used their influence to get tickets on her maiden voyage
+
+149
+00:11:33,441 --> 00:11:35,300
+from Southampton to New York.
+
+150
+00:11:36,240 --> 00:11:41,600
+Then at 11.40 p.m., the fifth day out, she struck an iceberg.
+
+151
+00:11:42,820 --> 00:11:46,660
+1,507 souls went down to the bottom.
+
+152
+00:11:47,540 --> 00:11:52,420
+Yet the total area of the holes in her side were only about the size of a refrigerator.
+
+153
+00:11:53,540 --> 00:11:57,000
+What happened to sink the unsinkable ship?
+
+154
+00:11:57,600 --> 00:12:00,780
+The killer is when the top of the bulkhead goes below the waterline,
+
+155
+00:12:00,980 --> 00:12:04,900
+that allows the next bulkhead in the cascade to be flooded.
+
+156
+00:12:04,901 --> 00:12:10,660
+See, so what happens, as soon as the weight of the front pulls the top of the next bulkhead below the waterline,
+
+157
+00:12:10,880 --> 00:12:13,560
+then the water can cascade into the following bulkheads.
+
+158
+00:12:14,220 --> 00:12:16,680
+That's the mechanical cause of the disaster.
+
+159
+00:12:17,280 --> 00:12:19,300
+But mystery still remains.
+
+160
+00:12:20,180 --> 00:12:23,220
+How did the iceberg rip through the double steel hull?
+
+161
+00:12:24,380 --> 00:12:25,780
+Not very tough steel.
+
+162
+00:12:25,960 --> 00:12:30,660
+There's no question that the plate in the Titanic could not be used in a ship today.
+
+163
+00:12:31,420 --> 00:12:35,200
+But we do see linear indications that look like the seams fail.
+
+164
+00:12:35,580 --> 00:12:36,900
+Bad rivets or bad steel?
+
+165
+00:12:37,560 --> 00:12:39,200
+We've pulled up a couple rivets.
+
+166
+00:12:39,620 --> 00:12:40,780
+They don't look very good.
+
+167
+00:12:41,380 --> 00:12:44,640
+So the rivets weren't very good, and the hull plate was not very good.
+
+168
+00:12:45,400 --> 00:12:51,480
+The steel in the Titanic's hull was far inferior to modern steel in one crucial respect.
+
+169
+00:12:52,060 --> 00:12:56,560
+Because of its high sulfur content, it became brittle as it got colder.
+
+170
+00:12:57,160 --> 00:12:58,820
+That meant in the icy North Atlantic,
+
+171
+00:12:58,960 --> 00:13:02,160
+the Titanic's hull was more prone to breaking rather than bending.
+
+172
+00:13:02,161 --> 00:13:06,800
+And new studies indicate the three million rivets that held the ship together
+
+173
+00:13:06,801 --> 00:13:09,760
+were made badly even by the standards of the time.
+
+174
+00:13:10,440 --> 00:13:13,180
+Whole seams zipped open when she hit the iceberg.
+
+175
+00:13:13,880 --> 00:13:17,220
+It's hard to imagine the most luxurious ship ever built.
+
+176
+00:13:17,860 --> 00:13:20,280
+But underneath the gold leaf and mahogany,
+
+177
+00:13:20,440 --> 00:13:23,800
+they used bad steel and poor rivets to hold her together.
+
+178
+00:13:26,560 --> 00:13:37,220
+As in the triumphant Hoover Dam in Nevada, the power of water tamed can be breathtaking, unless it goes horribly wrong.
+
+179
+00:13:38,040 --> 00:13:42,240
+Surrounded by some of the most beautiful scenery in the world, in 1972,
+
+180
+00:13:43,000 --> 00:13:47,060
+the Bureau of Reclamation began construction on the Teton Dam in Idaho,
+
+181
+00:13:47,061 --> 00:13:51,380
+a project so ambitious they hoped it would change the scenery forever.
+
+182
+00:13:51,381 --> 00:13:56,860
+it was a risky dam
+
+183
+00:13:56,861 --> 00:13:59,480
+it was built on risky
+
+184
+00:13:59,481 --> 00:14:01,400
+subsoil
+
+185
+00:14:01,401 --> 00:14:03,060
+in an earthquake area
+
+186
+00:14:03,061 --> 00:14:04,100
+but they pushed it
+
+187
+00:14:04,101 --> 00:14:07,100
+work began in 1972
+
+188
+00:14:07,101 --> 00:14:08,820
+after surveys were completed
+
+189
+00:14:08,821 --> 00:14:09,880
+and plans drawn
+
+190
+00:14:09,881 --> 00:14:12,420
+but critics charged the Bureau of Reclamation
+
+191
+00:14:12,421 --> 00:14:14,480
+which built the dam moved too quickly
+
+192
+00:14:14,481 --> 00:14:16,420
+they say they should have done
+
+193
+00:14:16,421 --> 00:14:17,800
+far more preparation
+
+194
+00:14:17,801 --> 00:14:20,260
+that they didn't show enough respect
+
+195
+00:14:20,261 --> 00:14:21,960
+for the power of water.
+
+196
+00:14:23,700 --> 00:14:26,720
+They went ahead like they went ahead with the Challenger launch.
+
+197
+00:14:27,260 --> 00:14:29,400
+We're going to get this done. We're going to do it.
+
+198
+00:14:29,420 --> 00:14:30,460
+It's going to be a great thing.
+
+199
+00:14:31,280 --> 00:14:32,120
+They were wrong.
+
+200
+00:14:32,520 --> 00:14:34,800
+As the earthen dam filled to capacity,
+
+201
+00:14:35,120 --> 00:14:39,240
+deep inside, water was eroding the subsoil foundation of the dam.
+
+202
+00:14:40,100 --> 00:14:41,360
+And there was another problem.
+
+203
+00:14:41,980 --> 00:14:44,480
+Piping or water seepage within the dam itself
+
+204
+00:14:44,481 --> 00:14:46,500
+was fatally weakening the structure,
+
+205
+00:14:47,300 --> 00:14:49,040
+making it soggy and soft.
+
+206
+00:14:49,700 --> 00:14:54,520
+Tiny wet spots began to appear on the face of the dam as it neared capacity.
+
+207
+00:14:55,260 --> 00:15:05,480
+They got signs that they had not sufficiently sealed the base of the dam and that it was leaking.
+
+208
+00:15:06,860 --> 00:15:08,500
+Another warning sign.
+
+209
+00:15:08,900 --> 00:15:13,760
+High-pressure springs appeared in the earth thousands of feet downstream from the dam.
+
+210
+00:15:14,520 --> 00:15:18,040
+On the dam face itself, the wet spots became leaks.
+
+211
+00:15:18,041 --> 00:15:23,020
+On the morning of June 5, 1976, more leaks developed.
+
+212
+00:15:23,600 --> 00:15:28,980
+A government photographer took this series of pictures as the wet spots turned into small holes,
+
+213
+00:15:29,320 --> 00:15:31,520
+then larger holes in the face of the dam.
+
+214
+00:15:32,100 --> 00:15:34,520
+The dam was collapsing before his eyes.
+
+215
+00:15:37,560 --> 00:15:44,440
+Then suddenly, the 500-yard thick earthen wall collapsed like a sandcastle under a wave.
+
+216
+00:15:44,441 --> 00:15:49,040
+Torrent washed away everything in 300 square miles.
+
+217
+00:15:49,780 --> 00:15:55,640
+80 billion gallons of water totally destroyed two towns and killed 11 people.
+
+218
+00:16:01,860 --> 00:16:10,020
+The failure of the Teton Dam led to a national review of federal rules regarding dam construction and inspection.
+
+219
+00:16:14,440 --> 00:16:21,220
+Coming up next, the kind of accidents that strike fear into the hearts of all who ride in airplanes.
+
+220
+00:16:22,040 --> 00:16:23,500
+Aviation disasters.
+
+221
+00:16:25,840 --> 00:16:30,140
+The Titanic skipper was the most experienced captain in the company.
+
+222
+00:16:30,680 --> 00:16:35,080
+He argued strongly for more lifeboats to be removed before they sailed,
+
+223
+00:16:35,760 --> 00:16:38,760
+saying it was inconceivable they would ever be used.
+
+224
+00:16:39,460 --> 00:16:43,240
+Engineering disasters will return on Modern Models.
+
+225
+00:16:44,440 --> 00:16:50,880
+Mankind has a spirit that wants to rise and soar in space.
+
+226
+00:16:51,640 --> 00:16:55,840
+Visionary engineers from Leonardo da Vinci all the way to the Wright brothers
+
+227
+00:16:55,841 --> 00:16:57,680
+have made that dream come true.
+
+228
+00:16:58,960 --> 00:17:02,720
+600 million passengers now take flight every year,
+
+229
+00:17:03,360 --> 00:17:05,800
+soaring faster and higher than any bird.
+
+230
+00:17:05,801 --> 00:17:16,080
+The first aviation disaster involved Daedalus and his son Icarus.
+
+231
+00:17:16,081 --> 00:17:20,180
+In the Greek myth, Icarus pushed the envelope too far.
+
+232
+00:17:20,980 --> 00:17:26,980
+When he began to approach the sun, the wax on his wings failed, and he tumbled back to earth.
+
+233
+00:17:26,981 --> 00:17:38,600
+The first important air disaster involved the hydrogen-filled Zeppelin, Hindenburg.
+
+234
+00:17:38,920 --> 00:17:44,220
+After several round trips from Germany to the airship landing field at Lakehurst, New Jersey,
+
+235
+00:17:44,860 --> 00:17:51,200
+on May 6, 1937, the Hindenburg arrived just after a fierce electrical storm.
+
+236
+00:17:52,220 --> 00:17:56,840
+Camera crews were there to chronicle what happened when she dropped her mooring lines to Earth.
+
+237
+00:17:56,980 --> 00:17:59,960
+This is terrible. This is one of the worst catastrophes in the world.
+
+238
+00:18:00,360 --> 00:18:05,900
+Oh, it's a place 20, oh, 400 or 500 feet into the sky.
+
+239
+00:18:06,080 --> 00:18:08,500
+It's a terrific crash, ladies and gentlemen.
+
+240
+00:18:08,501 --> 00:18:10,180
+It's a smoke and it's slaves now.
+
+241
+00:18:10,420 --> 00:18:14,520
+And the flamers crashing to the ground, not quite to the boring mass.
+
+242
+00:18:14,740 --> 00:18:16,960
+It's all the humanity and all the...
+
+243
+00:18:16,961 --> 00:18:21,640
+Many suspected political sabotage as the cause of the disaster.
+
+244
+00:18:22,120 --> 00:18:24,740
+But more likely was a combination of failures.
+
+245
+00:18:24,741 --> 00:18:30,440
+some form of electrical discharge resulting from the ship's ropes touching the ground after a thunderstorm,
+
+246
+00:18:31,180 --> 00:18:34,820
+coupled with a leak in one of the hydrogen bags that allowed the ship to float.
+
+247
+00:18:35,560 --> 00:18:40,260
+The discharge most likely caused a spark that ignited the extremely explosive hydrogen.
+
+248
+00:18:41,000 --> 00:18:43,700
+The entire ship was incinerated in seconds.
+
+249
+00:18:45,780 --> 00:18:49,700
+The horrifying footage made such a deep impression around the world
+
+250
+00:18:49,701 --> 00:18:52,980
+that after the Hindenburg, Zeppelins were completely abandoned.
+
+251
+00:18:52,981 --> 00:18:57,140
+yet only 36 people had died in the fiery crash.
+
+252
+00:19:01,240 --> 00:19:04,960
+A modern airliner is a device with a million parts
+
+253
+00:19:04,961 --> 00:19:08,460
+that pushes fragile humans to the edge of space
+
+254
+00:19:08,461 --> 00:19:09,900
+and the edge of the sound barrier.
+
+255
+00:19:10,560 --> 00:19:12,880
+The failure of one or two of those parts
+
+256
+00:19:12,881 --> 00:19:14,380
+at precisely the right moment
+
+257
+00:19:14,381 --> 00:19:17,420
+and the whole magnificent system falls to earth
+
+258
+00:19:17,421 --> 00:19:19,120
+often killing hundreds.
+
+259
+00:19:20,020 --> 00:19:25,920
+One of the co-pilots came rushing back several times, back and forth.
+
+260
+00:19:26,920 --> 00:19:31,920
+And you could look at the eyes of the stewardess and know that we were in serious trouble.
+
+261
+00:19:32,680 --> 00:19:34,120
+Just look at their eyes.
+
+262
+00:19:35,140 --> 00:19:37,720
+Mary and Jim Call did what few people have done.
+
+263
+00:19:38,120 --> 00:19:40,460
+They survived an airline disaster.
+
+264
+00:19:41,540 --> 00:19:47,980
+Theirs came aboard one of the troubled early McDonnell Douglas DC-10s on a 1989 flight to Chicago.
+
+265
+00:19:48,880 --> 00:19:53,560
+Everything seemed perfectly routine until a loud bang rocked the plane.
+
+266
+00:19:54,220 --> 00:19:55,960
+Soon the pilot made an announcement.
+
+267
+00:19:56,560 --> 00:20:02,200
+After we did the big dive and we heard the big boom,
+
+268
+00:20:02,900 --> 00:20:04,940
+he told us that we lost the tail engine.
+
+269
+00:20:06,540 --> 00:20:10,860
+We really weren't aware that there was a big gaping hole in the back of the plane.
+
+270
+00:20:11,620 --> 00:20:12,780
+He said he wasn't going to kid us.
+
+271
+00:20:12,900 --> 00:20:14,800
+It was going to be rough, very rough.
+
+272
+00:20:15,000 --> 00:20:16,280
+He said he wasn't going to kid us.
+
+273
+00:20:16,281 --> 00:20:23,180
+What Jim and Mary didn't know was that the number two engine in the tail had lost a fan disc.
+
+274
+00:20:23,620 --> 00:20:30,660
+In an instant, the disintegrating fan's shrapnel punctured all three of the plane's redundant hydraulic lines,
+
+275
+00:20:31,040 --> 00:20:36,740
+causing all the hydraulic fluid to leak out and at the same time chopped off a piece of the tail.
+
+276
+00:20:37,280 --> 00:20:41,160
+With no hydraulics, the captain had no control of the aircraft.
+
+277
+00:20:41,960 --> 00:20:46,540
+Other aircraft use a fourth separate line in case of accidents like this.
+
+278
+00:20:47,240 --> 00:20:50,140
+At least one passenger knew exactly what was happening.
+
+279
+00:20:50,720 --> 00:20:53,060
+He built commercial airliners for a living.
+
+280
+00:20:53,820 --> 00:20:56,720
+I recognized some of the noises the aircraft was making.
+
+281
+00:20:57,260 --> 00:20:59,660
+The hydraulic systems were sucking air.
+
+282
+00:21:00,280 --> 00:21:01,220
+I just thought we're dead.
+
+283
+00:21:02,360 --> 00:21:04,060
+No hydraulics, no control.
+
+284
+00:21:04,680 --> 00:21:07,020
+No wing surfaces, no brakes, no nothing.
+
+285
+00:21:07,021 --> 00:21:15,400
+For over 40 unforgettable minutes, this DC-10 carrying Bill Mackin and the calls hurtled through the sky.
+
+286
+00:21:15,960 --> 00:21:18,820
+It almost turned over at least three times.
+
+287
+00:21:19,760 --> 00:21:25,160
+Passengers watched in horror as the crew dumped excess fuel in preparation for a crash.
+
+288
+00:21:26,020 --> 00:21:28,520
+Surprisingly, there was a little panic on board.
+
+289
+00:21:29,420 --> 00:21:32,000
+Some crying, some people cried, some people prayed.
+
+290
+00:21:32,001 --> 00:21:36,320
+There was hysterics. There was some silent sobbing.
+
+291
+00:21:37,020 --> 00:21:43,400
+People saying the Lord's Prayer, but not the mass hysteria that you would expect.
+
+292
+00:21:43,401 --> 00:21:44,860
+No, there was not hysteria at all.
+
+293
+00:21:45,060 --> 00:21:46,620
+People were very, very calm.
+
+294
+00:21:46,980 --> 00:21:48,080
+Looking at each other.
+
+295
+00:21:50,100 --> 00:21:52,360
+A TV crew was standing by.
+
+296
+00:21:53,240 --> 00:21:55,600
+Through an incredible piece of flying by the captain,
+
+297
+00:21:56,100 --> 00:21:59,900
+the huge wide body controlled only by the two outboard engines
+
+298
+00:21:59,901 --> 00:22:03,000
+miraculously made it to the Sioux City Airport.
+
+299
+00:22:03,640 --> 00:22:05,980
+It came to earth only yards short of the runway.
+
+300
+00:22:07,020 --> 00:22:11,480
+We were just like being tossed like rag dolls every which way I
+
+301
+00:22:12,060 --> 00:22:16,180
+Got knocked up and I saw the flame shoot over top of my left
+
+302
+00:22:17,260 --> 00:22:18,840
+left side of
+
+303
+00:22:18,841 --> 00:22:25,520
+The cabin all the overhead bins opened up everything come flying out through the cabin and we saw the fire and
+
+304
+00:22:26,400 --> 00:22:31,740
+Fireball come down first class section and I could feel the heat and see the fire
+
+305
+00:22:31,980 --> 00:22:34,080
+But I never did get burned every got time
+
+306
+00:22:35,080 --> 00:22:41,060
+Incredibly, 185 people, including Bill Macken, the calls, and the captain,
+
+307
+00:22:41,220 --> 00:22:43,380
+walked away from this fiery disaster.
+
+308
+00:22:44,140 --> 00:22:46,920
+Sadly, 111 weren't so lucky.
+
+309
+00:22:51,340 --> 00:22:56,300
+Just as important as careful design is proper maintenance of aircraft.
+
+310
+00:22:57,220 --> 00:23:03,460
+Take the Aloha Airline 737 descending for a landing at Honolulu in April of 1988.
+
+311
+00:23:04,080 --> 00:23:08,640
+Suddenly, 18 feet of the top of the plane simply tore off.
+
+312
+00:23:09,580 --> 00:23:13,280
+A flight attendant who was not in her seat was sucked out into the sky.
+
+313
+00:23:14,240 --> 00:23:17,900
+But after an emergency landing, no other lives were lost.
+
+314
+00:23:19,280 --> 00:23:21,760
+Design flaw and a maintenance disaster.
+
+315
+00:23:22,260 --> 00:23:23,760
+Obviously, a design flaw.
+
+316
+00:23:23,880 --> 00:23:30,440
+And what is really sad is other operators and the manufacturer had figured that out.
+
+317
+00:23:30,441 --> 00:23:36,040
+there were actually kits available to go back and retrofit and check for those things.
+
+318
+00:23:36,560 --> 00:23:41,560
+The problem turned out to be simple metal fatigue associated with the use of aluminum,
+
+319
+00:23:41,820 --> 00:23:45,900
+which is unlike steel in one crucial respect, fatigue life.
+
+320
+00:23:46,620 --> 00:23:48,940
+Aluminum does not have an infinite fatigue life.
+
+321
+00:23:49,200 --> 00:23:53,680
+If I took a bar that it took 10,000 pounds to break and I started pulling on it at 2,000 pounds,
+
+322
+00:23:53,860 --> 00:23:57,360
+after a while, it would go, snap, and I would have two pieces.
+
+323
+00:23:57,940 --> 00:24:04,280
+Every time an aluminum passenger jet reaches altitude, it is pressurized inside like a balloon.
+
+324
+00:24:04,800 --> 00:24:06,900
+When it descends, the pressure is released.
+
+325
+00:24:07,380 --> 00:24:13,000
+If this process continues indefinitely without maintenance, sooner or later the balloon bursts.
+
+326
+00:24:13,820 --> 00:24:20,020
+In airplanes, it becomes a concern around 30,000 to 50,000 takeoff and landing cycles.
+
+327
+00:24:20,580 --> 00:24:23,600
+The first thing that happens is that cracks form in the skin.
+
+328
+00:24:23,601 --> 00:24:33,620
+There were a couple people who actually saw the crack, or they boarded, and they just assumed, and I also assumed, that we could just trust that somebody had seen that
+
+329
+00:24:33,621 --> 00:24:35,840
+and the government was doing its job.
+
+330
+00:24:39,580 --> 00:24:51,940
+Then there's the case of TWA 800, which went down in the sea on its way from New York to Paris on July 17, 1996, taking all 230 lives.
+
+331
+00:24:51,941 --> 00:24:59,460
+In the weeks and months after the crash, there was widespread speculation that the plane might have been brought down by a missile.
+
+332
+00:25:00,260 --> 00:25:08,400
+The speculation reached such a fever pitch that the FBI commissioned the CIA to create this film explaining their version of events.
+
+333
+00:25:09,280 --> 00:25:12,380
+They hoped to put to rest the missile theory once and for all.
+
+334
+00:25:13,200 --> 00:25:19,000
+The FBI believes faulty wiring caused a spark in an empty fuel tank igniting an explosion.
+
+335
+00:25:19,100 --> 00:25:21,920
+The film was shown on television nationwide.
+
+336
+00:25:22,700 --> 00:25:34,321
+Just after the aircraft exploded, it pitched up abruptly and climbed several thousand feet from its last recorded altitude of about 13,800 feet to a maximum altitude
+
+337
+00:25:34,322 --> 00:25:35,800
+of about 17,000 feet.
+
+338
+00:25:36,760 --> 00:25:47,580
+The FBI, as well as many in the industry, believe that two kinds of wire known to be trouble for some time may have failed and caused a spontaneous explosion on board.
+
+339
+00:25:48,200 --> 00:25:51,860
+The wire, though still in use, is quietly being phased out.
+
+340
+00:25:51,940 --> 00:25:56,040
+The United States military pulled it off their planes.
+
+341
+00:25:56,041 --> 00:25:57,940
+The Navy pulled it off their planes.
+
+342
+00:25:57,941 --> 00:26:02,440
+In fact, planes they couldn't get it off of, they grounded in the early 80s, mothballed them.
+
+343
+00:26:02,441 --> 00:26:05,440
+They made sure it was not on Air Force One.
+
+344
+00:26:05,441 --> 00:26:12,440
+But for the rest of us, the Federal Aviation's position is, it is not a threat to safety.
+
+345
+00:26:12,441 --> 00:26:21,440
+TWA Flight 800 went down in about 120 feet of water 10 miles off the coast of Long Island, New York.
+
+346
+00:26:21,441 --> 00:26:22,141
+U.S.
+
+347
+00:26:22,142 --> 00:26:27,360
+Navy divers spent four months and 4,000 dives to do what many thought was impossible.
+
+348
+00:26:28,140 --> 00:26:31,140
+They raised 90% of the shattered airliner,
+
+349
+00:26:31,700 --> 00:26:37,300
+a plane that weighed 350,000 pounds empty from the bottom of the ocean.
+
+350
+00:26:37,840 --> 00:26:40,820
+The plane was reconstructed in a warehouse on shore.
+
+351
+00:26:42,220 --> 00:26:45,820
+The old McDonnell Douglas DC-10 is no longer being manufactured,
+
+352
+00:26:46,820 --> 00:26:50,760
+and Boeing is phasing out its famed 747 in favor of the new 777,
+
+353
+00:26:50,761 --> 00:26:55,460
+which carries the same passengers the same distance for a third less cost.
+
+354
+00:26:55,820 --> 00:26:59,200
+Engineering disasters will return on Modern Marvels.
+
+355
+00:27:01,000 --> 00:27:03,880
+In the checkered history of the human race,
+
+356
+00:27:04,320 --> 00:27:07,200
+the machine makers, the divisors of things,
+
+357
+00:27:07,720 --> 00:27:11,500
+have brought mankind some of its most soaring moments of glory.
+
+358
+00:27:12,720 --> 00:27:16,140
+Among those moments certainly was the sight of a human being
+
+359
+00:27:16,141 --> 00:27:20,440
+leaving his, our, footprint on the surface of the moon.
+
+360
+00:27:20,760 --> 00:27:26,560
+I believe that this nation should commit itself to achieving the goal,
+
+361
+00:27:27,300 --> 00:27:33,120
+before this decade is out, of landing a man on the moon and returning him safely to the Earth.
+
+362
+00:27:39,900 --> 00:27:45,240
+The Apollo program was NASA's response to President Kennedy's challenge.
+
+363
+00:27:45,241 --> 00:27:52,740
+The program was designed to progress in stages.
+
+364
+00:27:52,741 --> 00:27:57,200
+Apollo 1 was staffed with some of America's most experienced astronauts,
+
+365
+00:27:57,760 --> 00:28:00,200
+Gus Grissom, Ed White, and Roger Chaffee.
+
+366
+00:28:01,140 --> 00:28:07,480
+On January 27, 1967, all three perished inside their training module on Earth
+
+367
+00:28:07,481 --> 00:28:11,680
+when faulty wiring caused a spark in the oxygen-rich environment.
+
+368
+00:28:11,681 --> 00:28:18,460
+though technicians outside the capsule knew about the fire and worked frantically to free the trapped astronauts
+
+369
+00:28:18,461 --> 00:28:23,000
+it took five minutes to get the complex escape hatch open
+
+370
+00:28:23,001 --> 00:28:26,040
+by then it was too late for the three men inside
+
+371
+00:28:26,041 --> 00:28:30,040
+the disaster set the space program back over a year
+
+372
+00:28:30,041 --> 00:28:34,260
+16 months later in 1969
+
+373
+00:28:34,261 --> 00:28:37,620
+Apollo 11 landed on the moon
+
+374
+00:28:37,621 --> 00:28:49,620
+This was an engineering triumph, perhaps beyond anything in history.
+
+375
+00:28:49,621 --> 00:28:58,620
+That's one small step for man, one giant leap for mankind.
+
+376
+00:28:58,621 --> 00:29:04,620
+But on the heels of triumph, just one year later, disaster struck again.
+
+377
+00:29:04,621 --> 00:29:06,620
+Apollo 13.
+
+378
+00:29:06,621 --> 00:29:08,500
+Okay, we've had a problem here.
+
+379
+00:29:09,640 --> 00:29:11,840
+Wonderful accident, so to speak.
+
+380
+00:29:12,460 --> 00:29:18,680
+Turned out to be an absolutely stunning recovery from that.
+
+381
+00:29:19,020 --> 00:29:23,780
+What was to be America's third landing on the moon ended in near disaster
+
+382
+00:29:23,781 --> 00:29:27,420
+when astronauts heard and felt an explosion on board.
+
+383
+00:29:28,080 --> 00:29:35,020
+A few small things that went wrong that normally wouldn't have made any difference.
+
+384
+00:29:35,021 --> 00:29:40,540
+and they came together in just a particular kind of way in that ship.
+
+385
+00:29:41,300 --> 00:29:45,040
+It turned out that two of the three fuel cells were destroyed
+
+386
+00:29:45,041 --> 00:29:48,320
+and both oxygen tanks were losing pressure.
+
+387
+00:29:49,180 --> 00:29:53,360
+Ground control and the crew figured out a way to use the lunar lander as a life raft
+
+388
+00:29:53,361 --> 00:29:57,940
+and four days later they rounded the moon and returned safely to Earth.
+
+389
+00:29:58,420 --> 00:30:04,760
+Two or three failures that interact in a way that nobody anticipated they would interact.
+
+390
+00:30:05,020 --> 00:30:10,000
+then they defeat the safety systems and bring the system down.
+
+391
+00:30:11,040 --> 00:30:16,460
+Several small, unconnected engineering failures combined to cause this disaster.
+
+392
+00:30:17,220 --> 00:30:24,340
+A heater thermostat supposed to be upgraded to accept 65 volts was overlooked and burned out above 28 volts.
+
+393
+00:30:24,840 --> 00:30:29,440
+Several years before the flight, an oxygen tank had been dropped about two inches,
+
+394
+00:30:30,040 --> 00:30:32,320
+further damaging the attached thermostat.
+
+395
+00:30:33,040 --> 00:30:36,840
+When astronauts followed orders to stir the tanks, a routine procedure.
+
+396
+00:30:36,841 --> 00:30:44,220
+The already damaged wiring melted, shorting out and causing a spark in an environment of pure oxygen.
+
+397
+00:30:44,920 --> 00:30:48,500
+The resulting explosion blew the side of the spacecraft off.
+
+398
+00:30:49,040 --> 00:30:52,120
+After Apollo 13, the astronauts said,
+
+399
+00:30:52,580 --> 00:30:56,820
+we are trained all the time for the unexpected.
+
+400
+00:30:56,821 --> 00:31:04,500
+They slammed things to us in the simulator that just never would think about in order to prepare us for this.
+
+401
+00:31:04,980 --> 00:31:13,500
+But if they had thrown those interactions that happened that brought about Apollo 13 to us in the simulator,
+
+402
+00:31:14,060 --> 00:31:15,780
+we would have walked off the program.
+
+403
+00:31:15,920 --> 00:31:17,460
+We would have said, that's so far out.
+
+404
+00:31:17,740 --> 00:31:18,980
+That could never happen.
+
+405
+00:31:18,981 --> 00:31:32,981
+That same aerospace industry that could so inspire the people of Earth shattered our confidence and broke our hearts in an instant on January 28th, 1986.
+
+406
+00:31:36,640 --> 00:31:45,040
+Few who watched the Challenger disaster live will ever forget that moment as the magnificent ship exploded and dropped into the sea.
+
+407
+00:31:45,880 --> 00:31:48,960
+In the weeks that followed, sorrow turned to rage,
+
+408
+00:31:49,640 --> 00:31:52,420
+as the true causes of the disaster became known.
+
+409
+00:31:53,380 --> 00:31:57,840
+The immediate cause was a white-hot flame that burned through the side of a rocket motor.
+
+410
+00:31:57,841 --> 00:32:01,600
+A puff of smoke is visible here as the burn-through begins.
+
+411
+00:32:02,440 --> 00:32:05,900
+Only seconds later in the flight, the hot flare is clearly visible,
+
+412
+00:32:06,220 --> 00:32:08,140
+burning through the side of the rocket motor.
+
+413
+00:32:08,780 --> 00:32:12,100
+Like a blowtorch, the flare burned through the main fuel tank,
+
+414
+00:32:12,101 --> 00:32:17,560
+igniting the liquid oxygen and hydrogen inside in a spectacular explosion.
+
+415
+00:32:18,700 --> 00:32:21,640
+The flare had started at a joint in the rocket motor,
+
+416
+00:32:22,200 --> 00:32:24,280
+joint sealed with rubber O-rings.
+
+417
+00:32:25,560 --> 00:32:28,080
+NASA and its contractors had evidence
+
+418
+00:32:28,081 --> 00:32:32,900
+that the rocket motor O-rings could fail below 53 degrees Fahrenheit.
+
+419
+00:32:33,700 --> 00:32:38,820
+But NASA had already launched shuttles below 53 degrees and gotten away with it.
+
+420
+00:32:38,821 --> 00:32:41,440
+Just because you got lucky doesn't mean the risk is reduced.
+
+421
+00:32:41,441 --> 00:32:46,360
+And sure enough, the risks were still there, and the statistics caught up with them.
+
+422
+00:32:46,820 --> 00:32:54,360
+On January 28, 1986, NASA decided to go ahead with the shuttle launch at only 36 degrees.
+
+423
+00:32:55,640 --> 00:32:59,200
+There was solid ice all over the launch pad.
+
+424
+00:33:00,500 --> 00:33:04,760
+Engineers involved with the O-rings did everything they could to stop the launch.
+
+425
+00:33:05,580 --> 00:33:08,320
+On the fourth or fifth time, they pushed the envelope.
+
+426
+00:33:08,321 --> 00:33:13,840
+So sure enough, almost exactly at the temperatures they said, those O-rings blew apart.
+
+427
+00:33:14,000 --> 00:33:19,080
+And the tragedy of that is, besides the tragic souls lost on the Challenger themselves,
+
+428
+00:33:19,220 --> 00:33:23,440
+there were people on the ground who warned about it, who were so upset about it,
+
+429
+00:33:23,460 --> 00:33:28,580
+and who to this day are destroyed because they knew about it, tried to warn, and they were dismissed.
+
+430
+00:33:33,220 --> 00:33:36,660
+In recent years, there was another American space disaster.
+
+431
+00:33:36,661 --> 00:33:41,440
+this one did not cause any loss of life, though it was a huge financial mess.
+
+432
+00:33:42,100 --> 00:33:43,840
+And it was unusual in another way.
+
+433
+00:33:44,260 --> 00:33:45,640
+It had a happy ending.
+
+434
+00:33:46,820 --> 00:33:51,580
+The Hubble Space Telescope was a bitter disappointment to scientists from the day it was launched.
+
+435
+00:33:52,180 --> 00:33:57,000
+But the Hubble was already in orbit before scientists discovered the main mirror was distorted,
+
+436
+00:33:57,820 --> 00:34:01,940
+producing only about one-third the resolution it was designed for.
+
+437
+00:34:03,380 --> 00:34:05,200
+Several things had gone wrong.
+
+438
+00:34:05,201 --> 00:34:10,260
+One, the mirror had been ground to almost unthinkably close tolerances,
+
+439
+00:34:10,700 --> 00:34:11,840
+but in the wrong shape.
+
+440
+00:34:12,480 --> 00:34:16,100
+Because its own weight distorted its shape in the gravity on Earth.
+
+441
+00:34:16,640 --> 00:34:19,920
+Once freed of gravity, the mirror sprung into a slightly different shape.
+
+442
+00:34:20,260 --> 00:34:22,180
+Critics say it should have been tested for that.
+
+443
+00:34:22,940 --> 00:34:23,940
+We have an axiom here.
+
+444
+00:34:24,440 --> 00:34:26,440
+One test is worth a thousand expert opinions.
+
+445
+00:34:27,320 --> 00:34:31,440
+And this is a classic example where no one could figure out
+
+446
+00:34:31,441 --> 00:34:34,400
+a very elegant way to test it in zero-G.
+
+447
+00:34:34,401 --> 00:34:35,640
+so they didn't.
+
+448
+00:34:36,600 --> 00:34:37,780
+NASA had two choices.
+
+449
+00:34:38,360 --> 00:34:41,000
+They could abandon the hugely expensive project
+
+450
+00:34:41,001 --> 00:34:43,520
+or they could send a crew up to fix it.
+
+451
+00:34:44,340 --> 00:34:46,840
+Astronaut Story Musgrave got the job.
+
+452
+00:34:47,180 --> 00:34:50,000
+When he arrived in space, the Hubble was a mess.
+
+453
+00:34:51,280 --> 00:34:54,200
+Putting in some new rate gyros which had failed.
+
+454
+00:34:54,340 --> 00:34:56,640
+Putting in the new wide-field planetary camera,
+
+455
+00:34:56,740 --> 00:35:00,280
+the deployable optics bench to correct for the spherical aberration,
+
+456
+00:35:00,740 --> 00:35:02,040
+new magnetometers.
+
+457
+00:35:02,780 --> 00:35:08,060
+The computer had lost half of its memory, replacing a coprocessor to get the memory back.
+
+458
+00:35:08,480 --> 00:35:15,840
+All of those kinds of tasks, if you added up the total amount of work that we had to do, it came out to five days.
+
+459
+00:35:16,300 --> 00:35:20,400
+At the end of it, the results were better than anyone had dared hope for.
+
+460
+00:35:20,700 --> 00:35:29,680
+Since Story Musgrave's $50 million overhaul, the Hubble Space Telescope has looked farther into space than any instrument in history.
+
+461
+00:35:29,681 --> 00:35:34,880
+A huge, costly engineering disaster that was fixed.
+
+462
+00:35:37,360 --> 00:35:43,960
+The repaired Hubble Space Telescope can now see 10.5 billion light years into the past.
+
+463
+00:35:44,540 --> 00:35:49,500
+A distance that approaches the edges of the Big Bang at the beginning of the universe.
+
+464
+00:35:50,300 --> 00:35:53,860
+Engineering disasters will return on Modern Marvels.
+
+465
+00:35:53,861 --> 00:36:03,520
+According to a failure analysis study, the average American consumes so much energy every day,
+
+466
+00:36:04,060 --> 00:36:07,260
+it would take 200 slaves to reproduce his lifestyle.
+
+467
+00:36:08,220 --> 00:36:10,920
+Modern industry makes such luxury possible.
+
+468
+00:36:11,540 --> 00:36:16,300
+But the energy generators, chemical and manufacturing plants that create so much luxury
+
+469
+00:36:16,301 --> 00:36:19,080
+can spread instant death when they fail.
+
+470
+00:36:19,081 --> 00:36:28,340
+Since the first mushroom cloud lit the sky in the New Mexico desert in 1945,
+
+471
+00:36:29,000 --> 00:36:30,980
+the world has never been the same.
+
+472
+00:36:32,420 --> 00:36:37,780
+Thirty-four years later, Three Mile Island, America's worst nuclear disaster.
+
+473
+00:36:38,580 --> 00:36:43,780
+Three Mile Island had four fairly trivial failures.
+
+474
+00:36:43,781 --> 00:36:50,520
+failures. All of them had ways to recover from. None were that serious. But they all
+
+475
+00:36:50,521 --> 00:36:52,189
+happened together.
+
+476
+00:36:52,190 --> 00:36:58,960
+And that led the operators, following their instructions, doing just what
+
+477
+00:36:58,961 --> 00:37:02,992
+they should have done, to zig when they should have zagged.
+
+478
+00:37:02,993 --> 00:37:04,700
+That caused the accident.
+
+479
+00:37:05,460 --> 00:37:12,860
+It began on March 28th, 1979, when a cooling pump failed at TMI reactor number two.
+
+480
+00:37:13,780 --> 00:37:16,980
+The reactor automatically shut down as it was supposed to,
+
+481
+00:37:17,460 --> 00:37:22,240
+but then a relief valve stuck open, venting radioactive steam out to the atmosphere,
+
+482
+00:37:22,900 --> 00:37:25,540
+after which the operators made a crucial mistake.
+
+483
+00:37:26,280 --> 00:37:29,240
+They stopped the flow of water to the radioactive core.
+
+484
+00:37:29,860 --> 00:37:35,280
+The hot uranium core quickly boiled off the remaining water and then began to melt.
+
+485
+00:37:36,220 --> 00:37:38,300
+Although operators followed their training,
+
+486
+00:37:38,480 --> 00:37:42,140
+they weren't aware of the interaction of the group of failures that was occurring.
+
+487
+00:37:43,140 --> 00:37:45,660
+But when the core dried up and began to melt down,
+
+488
+00:37:46,160 --> 00:37:49,660
+operators realized their mistake and resumed the coolant flow.
+
+489
+00:37:50,260 --> 00:37:54,180
+But the fuel was so hot by then, it shattered on contact with the cool water.
+
+490
+00:37:55,320 --> 00:37:58,840
+By the end of the accident, about half of the core had melted down.
+
+491
+00:37:59,740 --> 00:38:02,020
+Almost all the radiation was contained.
+
+492
+00:38:02,021 --> 00:38:06,320
+There was no loss of life and no large-scale release of radiation.
+
+493
+00:38:06,640 --> 00:38:11,540
+But the disaster effectively doomed the nuclear power industry in America.
+
+494
+00:38:12,140 --> 00:38:26,140
+Seven years later, April 26, 1986.
+
+495
+00:38:27,540 --> 00:38:31,340
+The Ukraine is seen in this Russian documentary.
+
+496
+00:38:32,080 --> 00:38:35,800
+Reactor number four at Chernobyl explodes and burns,
+
+497
+00:38:36,580 --> 00:38:39,220
+pouring radioactive material into the atmosphere.
+
+498
+00:38:39,221 --> 00:38:46,220
+31 people die on the spot. Children were found to be most vulnerable.
+
+499
+00:38:46,221 --> 00:38:59,220
+In the days after the explosion, a cloud of radioactivity that started out 200 times stronger than the Hiroshima and Nagasaki bombs spread across Russia and Europe.
+
+500
+00:38:59,221 --> 00:39:09,933
+Back at the site, firefighters facing certain death with superhuman courage put out the blaze and poured thousands of yards of concrete on the damaged building, trying
+
+501
+00:39:09,934 --> 00:39:11,280
+to entomb it forever.
+
+502
+00:39:14,080 --> 00:39:21,240
+Filmmaker Vladimir Shevchenko, who shot this incredible footage, was among those who died of radiation poisoning.
+
+503
+00:39:21,241 --> 00:39:27,240
+As bad as Chernobyl was, it could have been much worse.
+
+504
+00:39:27,241 --> 00:39:34,240
+If the wind had been blowing the other way, Chernobyl might have devastated the city of Kiev 80 miles to the south.
+
+505
+00:39:34,241 --> 00:39:39,240
+Kiev's population is three and a quarter million.
+
+506
+00:39:39,241 --> 00:39:45,240
+The explosions at Chernobyl occurred while an experiment was being run in the reactor.
+
+507
+00:39:45,241 --> 00:39:50,240
+Incredibly, the experiment was conducted with the emergency water cooling system shut off.
+
+508
+00:39:50,241 --> 00:39:57,240
+When the experiment went bad through a series of mistakes and miscalculations, a runaway reaction began.
+
+509
+00:39:57,241 --> 00:40:06,240
+Out of control, the reaction shattered the fuel and eventually blew the roof off the building, exposing the core to the atmosphere.
+
+510
+00:40:06,241 --> 00:40:13,240
+Chernobyl's Soviet-built reactor didn't have an immense, massive containment building like Three Mile Islands.
+
+511
+00:40:13,241 --> 00:40:17,512
+islands. Chernobyl was the design disaster.
+
+512
+00:40:17,513 --> 00:40:22,380
+I mean, first of all, the Soviets had much weaker
+
+513
+00:40:22,381 --> 00:40:27,456
+and less safe designs for their nuclear power plants than even the U.S.
+
+514
+00:40:27,457 --> 00:40:28,600
+manufacturers of
+
+515
+00:40:28,601 --> 00:40:30,141
+nuclear power plants.
+
+516
+00:40:30,142 --> 00:40:35,500
+And coupled with a whole culture of secrecy, cover-up, bureaucratic flank
+
+517
+00:40:35,501 --> 00:40:39,784
+covering, it was a recipe for disaster. And it occurred.
+
+518
+00:40:39,785 --> 00:40:42,920
+Nuclear power plants in the United States
+
+519
+00:40:42,921 --> 00:40:47,560
+in Europe are designed and maintained to much higher standards than the ones at Chernobyl.
+
+520
+00:40:48,280 --> 00:40:56,040
+But even so, could such an accident happen here? The NRC back about 15 years ago
+
+521
+00:40:57,080 --> 00:41:01,295
+thought that in the next 20 years there'd be one meltdown all the way.
+
+522
+00:41:01,296 --> 00:41:02,680
+It hasn't happened yet.
+
+523
+00:41:02,681 --> 00:41:05,560
+When it happens, it'll happen, you know, without any alert.
+
+524
+00:41:12,920 --> 00:41:20,300
+The worst industrial disaster in history didn't involve a nuclear reactor or a plane or a bridge.
+
+525
+00:41:22,880 --> 00:41:24,120
+Bhopal, India.
+
+526
+00:41:24,920 --> 00:41:31,940
+Late one night in December 1984, a Union carbide pesticide plant based in Bhopal had an accident.
+
+527
+00:41:33,580 --> 00:41:36,220
+It was right next to a large community.
+
+528
+00:41:36,221 --> 00:41:44,040
+The community didn't have almost a roof over their head because it's just a shanty town.
+
+529
+00:41:44,320 --> 00:41:45,200
+It was very open.
+
+530
+00:41:46,040 --> 00:41:48,120
+Happened at night. Everybody was there.
+
+531
+00:41:48,580 --> 00:41:51,020
+There was no warning for this accident.
+
+532
+00:41:51,580 --> 00:41:56,900
+And when the accident happened, the people in the plant ran the other way and didn't warn anybody.
+
+533
+00:41:58,200 --> 00:42:04,240
+Somehow, 50,000 pounds of deadly methyl isocyanate gas escaped from the plant,
+
+534
+00:42:04,241 --> 00:42:08,460
+spreading across the sleeping city of one million souls.
+
+535
+00:42:09,480 --> 00:42:12,100
+Between 2,000 and 6,000 people died instantly,
+
+536
+00:42:12,760 --> 00:42:13,760
+most in their beds.
+
+537
+00:42:14,700 --> 00:42:17,560
+Thousands more died later or were blinded.
+
+538
+00:42:18,620 --> 00:42:22,360
+Well, Powell was just a very sloppy operation of the plant.
+
+539
+00:42:22,840 --> 00:42:26,600
+First of all, it shouldn't have been positioned and sited in that area
+
+540
+00:42:26,601 --> 00:42:28,360
+with huge population density.
+
+541
+00:42:28,361 --> 00:42:30,820
+You know, you put that in a more remote area.
+
+542
+00:42:30,821 --> 00:42:36,800
+But basically it was negligence up and down the line in terms of the operation of the plant.
+
+543
+00:42:37,920 --> 00:42:44,320
+The underground tanks holding the poison were triple the size of any other tanks in the world for the same poison.
+
+544
+00:42:45,080 --> 00:42:47,460
+The tanks were overfilled. They were too hot.
+
+545
+00:42:48,220 --> 00:42:52,500
+When water hit the poison through leaking valves, a runaway reaction occurred.
+
+546
+00:42:53,360 --> 00:42:58,980
+The devices and systems designed to neutralize it were either not functioning or had been removed.
+
+547
+00:42:58,981 --> 00:43:09,398
+The Indian government initially demanded three billion dollars in damages and said they would prosecute Union Carbide executives for the world's worst industrial
+
+548
+00:43:09,399 --> 00:43:10,099
+disaster.
+
+549
+00:43:10,100 --> 00:43:19,980
+But by 1996 Union Carbide was paying a reduced settlement of 470 million and the executives had avoided criminal prosecution.
+
+550
+00:43:19,981 --> 00:43:26,980
+At his core, the human animal is a builder.
+
+551
+00:43:26,981 --> 00:43:31,980
+In all ages, among all races, that has always been true.
+
+552
+00:43:31,981 --> 00:43:36,980
+Man's path out of the cave was littered with tools.
+
+553
+00:43:36,981 --> 00:43:39,980
+But we have entered a new era in history.
+
+554
+00:43:39,981 --> 00:43:42,980
+Our devices have grown in complexity to the point
+
+555
+00:43:42,981 --> 00:43:46,980
+that we can no longer anticipate everything that could possibly go wrong.
+
+556
+00:43:46,981 --> 00:43:53,980
+The more complex the system, the more likely an unforeseen interaction of small failures
+
+557
+00:43:53,981 --> 00:43:55,980
+will cause a disaster.
+
+558
+00:43:55,981 --> 00:43:57,980
+And this is to be feared.
+
+559
+00:43:57,981 --> 00:44:04,980
+Because the genie that lives inside our most powerful machines, our nuclear reactors, our
+
+560
+00:44:04,981 --> 00:44:08,980
+chemical plants, will kill us if it can escape.
+
+561
+00:44:08,981 --> 00:44:15,980
+For the first time in history, engineers can wipe out whole cities by mistake.
+

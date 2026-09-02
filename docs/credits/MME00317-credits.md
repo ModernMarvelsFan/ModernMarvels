@@ -1,0 +1,51 @@
+# Credit Roll: Aircraft Carrier (2003)
+**Canonical Episode:** [`MME00317: Aircraft Carrier`](../episodes/MME00317.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `©1991 A&E Television Networks All Rights Reserved`
+* **Production Company:** Greystone Communications, Inc., The History Channel, A&E Television Networks, WOODHOLLY PRODUCTIONS, MATCHFRAME VIDEO, PREMORE, PANAVIDEO
+* **Narrator:** —
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **"Aircraft Carriers" Produced By** | STEPHANIE HAFFNER |
+| **Addtional Editing** | CATHERINE GIARDINA, JONATHAN MOSER, DINO CASTRO |
+| **Assistant Camera** | STEVE GREEN |
+| **Associate Director** | ROBERT LIHANI |
+| **Associate Producers** | STEPHANIE HAFFNER, ROBERT BEEMER |
+| **Audio Engineer** | RON LUSTBERG |
+| **Coordinating Producer** | JOHN CORRY |
+| **Director** | ROBERT KIRK |
+| **Director of Photography** | DONALD M. MCCUAIG |
+| **Driver** | RANDY BITTLE |
+| **Editorial Consultant** | PAUL BEAVER, PUBLISHER, JANES DEFENCE WEEKLY |
+| **Editorial Consultants** | COL. WALTER J. BOYNE USAF (RET.), FORMER DIRECTOR, NATIONAL AIR &amp; SPACE MUSEUM, Steven Llanso, Senior Weapons Editor, Periscope U.S. Naval Institute Military Database, LIET. GEN. F.J. BROWN U.S. ARMY (RET.) |
+| **Electrician** | LENNY LEVINE |
+| **Executive Producer** | CRAIG HAFFNER |
+| **Executive in Charge of Production** | STEVEN LEWIS |
+| **Field Camera** | GORDON HOOVER, BOWDON HUNT, BRIAN PRATT, JOHN SORAPURE |
+| **Field Engineers** | SCOTT DUNCAN, T.J. LANGDON, PHILLIP PRATT, ANDREW WILLMENT |
+| **Film Research** | DON HOUGHTALING, KLARA FOELLER, BONNIE ROWAN |
+| **Filmlook Process By** | WOODHOLLY PRODUCTIONS |
+| **Gaffer** | LARRY ROTH |
+| **Graphics** | JOHANNA BERTOLDO, ROBERT VEGA |
+| **Grip** | TONY HICKS |
+| **Key Grip** | JACK PALINKAS |
+| **Main Title Design** | JONATHAN MOSER |
+| **Music By** | CHRISTOPHER STONE |
+| **Post Production Audio** | CRAIG PLACHY |
+| **Post Production Services** | MATCHFRAME VIDEO, PREMORE, PANAVIDEO |
+| **Producer in Great Britain** | PAUL BERNARD |
+| **Production Assistants** | RYAN RELICH, JAMIE ERLICHT, TONYA LARSEN, MICHELE VIGNIERI |
+| **Senior Editors** | JEFF CALDWELL, STEVE POMERANTZ |
+| **Senior Producer** | ROBERT KIRK |
+| **Series Producer** | ROBERT LIHANI |
+| **Sound Mixer** | KEN WILLINGHAM |
+| **Teleprompter** | GLENN HERNITER |
+
+---
+[← Return to Episode Dossier](../episodes/MME00317.md)

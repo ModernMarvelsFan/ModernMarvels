@@ -1,0 +1,2088 @@
+1
+00:00:00,600 --> 00:00:05,200
+No one wants a handmade engine block or jet turbine.
+
+2
+00:00:06,220 --> 00:00:08,840
+We want precision things made by machines.
+
+3
+00:00:09,720 --> 00:00:11,840
+Machine tools built our modern world.
+
+4
+00:00:12,460 --> 00:00:14,660
+Our lifestyle wouldn't exist without them.
+
+5
+00:00:15,280 --> 00:00:18,260
+Now, machine tools on Modern Marvels.
+
+6
+00:00:30,000 --> 00:00:44,000
+Simply put, machine tools are power-driven machines of all shapes and sizes,
+
+7
+00:00:47,880 --> 00:00:49,800
+primarily used to create metal parts.
+
+8
+00:00:51,260 --> 00:00:55,720
+Those metal parts might be the steel mold for a plastic automobile headlight.
+
+9
+00:00:56,720 --> 00:00:59,980
+They might be the aluminum supports for a jet airplane body.
+
+10
+00:01:00,000 --> 00:01:03,920
+or they might be parts to another machine tool.
+
+11
+00:01:06,860 --> 00:01:10,600
+Machine tools have left their legacy cut, stamped, and shaped
+
+12
+00:01:10,601 --> 00:01:13,000
+into the metal of every imaginable product.
+
+13
+00:01:14,060 --> 00:01:20,520
+It produces thousands of parts that go into the makeup of various items that we utilize every day.
+
+14
+00:01:21,080 --> 00:01:24,340
+If there's no machine tool, everything would have to be shaped by hand,
+
+15
+00:01:24,341 --> 00:01:30,280
+hand scraped, fitted, or filed into specific shape to fit into mating parts.
+
+16
+00:01:31,420 --> 00:01:36,120
+All these inventions that came about in the late 19th, early 20th century
+
+17
+00:01:36,121 --> 00:01:41,280
+might not have come about as easily as they had if it were not for machine tools.
+
+18
+00:01:42,900 --> 00:01:45,680
+Machine tools are at their core tools.
+
+19
+00:01:46,600 --> 00:01:49,060
+If you think about a tool like a hand drill,
+
+20
+00:01:49,680 --> 00:01:52,960
+a machine tool takes that drill's process and mechanizes it
+
+21
+00:01:52,961 --> 00:01:57,740
+and performs it more precisely and more efficiently than a human ever could.
+
+22
+00:01:59,240 --> 00:02:03,140
+The most widely used machine tools today are called machining centers.
+
+23
+00:02:04,300 --> 00:02:08,300
+They perform a host of operations from drilling to milling to boring.
+
+24
+00:02:09,560 --> 00:02:13,240
+A raw block of metal goes in, a finished part comes out.
+
+25
+00:02:16,380 --> 00:02:20,220
+One place where this began was the Cincinnati Screw and Tap Company,
+
+26
+00:02:20,221 --> 00:02:23,680
+founded in 1884 by George Mueller and Fred Holtz.
+
+27
+00:02:25,180 --> 00:02:30,220
+Today, the company they started is one of the world's leading machine tool manufacturers.
+
+28
+00:02:31,320 --> 00:02:35,580
+What we do here in Cincinnati is we design, manufacture, and assemble
+
+29
+00:02:35,581 --> 00:02:38,320
+all of our machine tools built in the United States.
+
+30
+00:02:38,740 --> 00:02:43,700
+This particular machine is called the U5 because it can operate on five sites of a part.
+
+31
+00:02:44,180 --> 00:02:47,140
+And these days, our customers, in trying to reduce setup,
+
+32
+00:02:47,141 --> 00:02:49,980
+they want to complete a part in one operation.
+
+33
+00:02:50,220 --> 00:02:53,220
+Hence, they want to be able to operate on all five sides of the part.
+
+34
+00:02:54,320 --> 00:02:58,140
+Typical customers of this kind of machine tool are tool and die manufacturers.
+
+35
+00:02:58,720 --> 00:03:05,060
+The machine would come in and would actually shape the die, for example, in the shape of a doorframe for a car.
+
+36
+00:03:06,660 --> 00:03:12,740
+There are two Pentium microprocessors running the computer that runs this computer numerical control machine.
+
+37
+00:03:13,160 --> 00:03:15,940
+The computer directs all the operations of the machine tool.
+
+38
+00:03:15,941 --> 00:03:22,960
+There might be up to 50,000 unique tool points all blended together in one motion.
+
+39
+00:03:23,440 --> 00:03:27,520
+You can store literally hundreds of thousands of data points in a machine like this.
+
+40
+00:03:29,320 --> 00:03:31,360
+Machine tools don't come cheap.
+
+41
+00:03:31,900 --> 00:03:36,800
+This one starts at close to a million dollars, and that price can quickly double as features are added.
+
+42
+00:03:41,940 --> 00:03:45,680
+Also building the machine tool business was R.K. LeBlond.
+
+43
+00:03:45,940 --> 00:03:50,180
+which opened in Cincinnati in 1887 with just a handful of employees.
+
+44
+00:03:52,280 --> 00:03:57,720
+Today, it's the Makino Company, one of the largest machine tool manufacturers in the world.
+
+45
+00:03:59,660 --> 00:04:03,760
+Among other things, its tools make precision parts for the space shuttle program.
+
+46
+00:04:04,960 --> 00:04:08,660
+This is one of the stages of an impeller for the main shuttle engine.
+
+47
+00:04:09,180 --> 00:04:11,340
+What happens is we take three of these, stack them together,
+
+48
+00:04:11,341 --> 00:04:17,180
+and together they'll generate about 76,000 horsepower running at 36,000 RPM.
+
+49
+00:04:17,820 --> 00:04:21,120
+This is a turbo pump for the oxygen on the main shuttle engine
+
+50
+00:04:21,121 --> 00:04:23,260
+and it has the ability to drain a swimming pool,
+
+51
+00:04:23,860 --> 00:04:26,320
+an Olympic-sized swimming pool, in 59 seconds.
+
+52
+00:04:28,200 --> 00:04:31,320
+The part is machined from a solid piece of titanium
+
+53
+00:04:31,321 --> 00:04:33,920
+that can cost as much as $50,000.
+
+54
+00:04:35,700 --> 00:04:40,160
+The machining center cuts it to precise, extremely complex specifications.
+
+55
+00:04:41,340 --> 00:04:46,700
+It takes about 13 or 14 days straight just to mill this part.
+
+56
+00:04:46,940 --> 00:04:48,600
+So this is probably as difficult as it gets.
+
+57
+00:04:51,640 --> 00:04:55,380
+Machine tools are really extensions of man's most basic tools,
+
+58
+00:04:55,760 --> 00:04:57,560
+the human hand and the human mind.
+
+59
+00:04:59,460 --> 00:05:03,040
+Primitive forms of machine tools have been around for thousands of years.
+
+60
+00:05:04,740 --> 00:05:09,660
+Crude bracelets were turned as early as 100 B.C. by the Laten Kelts.
+
+61
+00:05:11,340 --> 00:05:15,020
+There are drawings of sword grinders dating back to the Dark Ages.
+
+62
+00:05:16,040 --> 00:05:24,420
+In the 1600s, sawmills and gristmills, early forms of machine tools, were built next to streams and powered by falling water.
+
+63
+00:05:26,020 --> 00:05:31,900
+In the 1680s, Peter the Great collected simple machine tools that could decorate watches and trinkets.
+
+64
+00:05:33,680 --> 00:05:41,280
+But the story of modern machine tools, those strong enough to shape heavy metal, begins with the Industrial Revolution in England.
+
+65
+00:05:41,340 --> 00:05:51,060
+in the 1700s. These tools depended upon a new source of power, steam. In 1765, James
+
+66
+00:05:51,061 --> 00:05:55,651
+Watt created a steam engine, dependable enough to power a machine.
+
+67
+00:05:55,652 --> 00:05:57,320
+His engine harnessed the
+
+68
+00:05:57,321 --> 00:06:02,500
+up and down action of the piston and used it to turn a crankshaft, a process called
+
+69
+00:06:02,501 --> 00:06:03,473
+rotary power.
+
+70
+00:06:03,474 --> 00:06:09,460
+Watt's rotating crankshaft would be what powered the first modern machine tools.
+
+71
+00:06:11,340 --> 00:06:18,080
+The real beauty of the steam engines, at least related to the machine industry, is that you could put a steam engine anywhere.
+
+72
+00:06:18,600 --> 00:06:22,900
+You didn't need a water source. You didn't need a mill run to operate a wheel.
+
+73
+00:06:23,180 --> 00:06:27,080
+You could put a steam engine of any size in your factory and do machining.
+
+74
+00:06:28,720 --> 00:06:36,220
+It was really an innovation to have a steam engine that could be hooked up almost anywhere.
+
+75
+00:06:37,060 --> 00:06:41,180
+Steam engines, however, were difficult to run.
+
+76
+00:06:41,360 --> 00:06:43,160
+They took a long time to get started.
+
+77
+00:06:43,840 --> 00:06:45,380
+They had to be well lubricated.
+
+78
+00:06:46,000 --> 00:06:46,700
+They were loud.
+
+79
+00:06:47,960 --> 00:06:49,920
+Unfortunately, they were quite dirty.
+
+80
+00:06:51,060 --> 00:06:52,860
+They were surely not safe.
+
+81
+00:06:55,060 --> 00:06:58,920
+In spite of their shortcomings, within 50 years of Watts' steam engine,
+
+82
+00:06:59,420 --> 00:07:02,140
+all the basic modern machine tools would be invented,
+
+83
+00:07:02,600 --> 00:07:04,240
+most of them powered by steam.
+
+84
+00:07:05,240 --> 00:07:08,160
+Some would be adaptations of earlier woodworking tools.
+
+85
+00:07:08,900 --> 00:07:10,980
+Some would be completely new ideas.
+
+86
+00:07:12,200 --> 00:07:19,820
+The mid-1700s through the early 1900s would be the single greatest period of machine tool invention and design.
+
+87
+00:07:23,020 --> 00:07:28,980
+We think that we are so far advanced today, and we are so clever and so smart,
+
+88
+00:07:29,500 --> 00:07:32,360
+and have so much technology behind us,
+
+89
+00:07:32,361 --> 00:07:44,260
+And yet the early people that devised the first machine tools really were very, very bright individuals.
+
+90
+00:07:44,740 --> 00:07:51,460
+It was a, by guessing, by golly type of thing that eventually produced something of value.
+
+91
+00:07:52,480 --> 00:08:01,080
+They didn't have the college degrees that are evident today, but by golly they had a lot of ingenuity and they used it.
+
+92
+00:08:02,360 --> 00:08:11,840
+Machine tools changed the world by making possible the manufacture of all kinds of goods,
+
+93
+00:08:11,841 --> 00:08:16,300
+which prior to the Industrial Revolution had only been within the realm of the wealthy.
+
+94
+00:08:17,240 --> 00:08:21,200
+Suddenly, they could be produced in vast quantities at low cost.
+
+95
+00:08:23,540 --> 00:08:28,300
+The machine tools that made this possible can be broken down into seven basic types.
+
+96
+00:08:28,301 --> 00:08:33,940
+The earliest are the turning machines, also known as lathes and boards.
+
+97
+00:08:35,020 --> 00:08:40,180
+The second were the planers and shapers, built to work with metal much like a carpenter's plan.
+
+98
+00:08:40,780 --> 00:08:44,520
+Third was the most durable of all machine tools, the milling machine.
+
+99
+00:08:45,360 --> 00:08:48,660
+Like the planer and shaper, it smooths and shapes metal parts.
+
+100
+00:08:48,661 --> 00:08:52,100
+Four other tools round out the seven.
+
+101
+00:08:52,880 --> 00:09:00,040
+Drilling machines, grinders, power saws, and large metal shaping tools known as punch presses.
+
+102
+00:09:00,840 --> 00:09:04,960
+All were invented by men working with little more than intuition and a deadline.
+
+103
+00:09:05,700 --> 00:09:08,560
+When we come back, we'll take a look at them all.
+
+104
+00:09:11,680 --> 00:09:16,140
+The earliest object ever found made by a turning machine was a bowl.
+
+105
+00:09:16,141 --> 00:09:19,540
+Discovered in Italy, made in 700 B.C.
+
+106
+00:09:20,320 --> 00:09:23,380
+Machine tools will return on Modern Marvels.
+
+107
+00:09:24,620 --> 00:09:29,760
+It is difficult to trace the development of a machine tool in a single clear line.
+
+108
+00:09:31,700 --> 00:09:34,960
+People invented machine tools for their own private use.
+
+109
+00:09:35,520 --> 00:09:38,820
+To make some specific product, never intending to sell them.
+
+110
+00:09:40,100 --> 00:09:42,680
+Also, early machinists were concentrated together.
+
+111
+00:09:42,681 --> 00:09:46,560
+As they visited one another's shops, they saw and borrowed ideas.
+
+112
+00:09:47,200 --> 00:09:51,840
+There was little respect for patents, and laws that protected machine tools were hard to enforce.
+
+113
+00:09:53,000 --> 00:09:57,500
+Still, it is clear that the first modern machine tool to be invented was the turning machine,
+
+114
+00:09:58,040 --> 00:09:59,620
+commonly called a boring machine.
+
+115
+00:10:03,420 --> 00:10:06,220
+Its invention is credited to John Wilkinson,
+
+116
+00:10:06,820 --> 00:10:10,140
+known in the 1760s as the great Stafford Iron Master,
+
+117
+00:10:10,380 --> 00:10:12,480
+because of his skill casting iron.
+
+118
+00:10:12,680 --> 00:10:19,500
+Wilkinson had been pouring iron castings since his 20s when he built his first blast furnace.
+
+119
+00:10:21,120 --> 00:10:27,620
+In 1775, realizing it would help to make cannons if he could bore the inside of the rough barrels smooth,
+
+120
+00:10:28,420 --> 00:10:32,000
+he used Watt's steam engine to construct the first boring machine.
+
+121
+00:10:34,180 --> 00:10:36,340
+Other boring machines soon followed.
+
+122
+00:10:37,260 --> 00:10:38,600
+Most were used to make cannons.
+
+123
+00:10:39,960 --> 00:10:42,400
+Weapons were often the first use for machine tools.
+
+124
+00:10:42,680 --> 00:10:51,380
+However, Wilkinson's machine was also used to improve the steam engine by boring larger pistons.
+
+125
+00:10:51,381 --> 00:10:55,580
+Like many machine tools, it improved the machine that had helped give it life.
+
+126
+00:10:58,080 --> 00:11:02,060
+Wilkinson's boring machine was soon followed by a metal cutting lathe.
+
+127
+00:11:03,100 --> 00:11:11,180
+The lathe is probably the most versatile machine and the most widely used of all the machine tools
+
+128
+00:11:11,181 --> 00:11:14,680
+because so many things are cylindrical in nature,
+
+129
+00:11:15,120 --> 00:11:22,000
+and its primary purpose is to cut metal down to a specific diameter.
+
+130
+00:11:22,820 --> 00:11:26,920
+This is important if you're going to make an axle shaft, for instance,
+
+131
+00:11:27,560 --> 00:11:30,400
+for a wagon so that the wagon wheel would fit on.
+
+132
+00:11:31,640 --> 00:11:36,600
+It's important in the manufacture of any type of automobile parts,
+
+133
+00:11:37,020 --> 00:11:38,980
+transmissions, engines.
+
+134
+00:11:38,981 --> 00:11:44,740
+virtually everything is basically cylindrical in nature,
+
+135
+00:11:45,320 --> 00:11:48,300
+and this is turned on a lathe.
+
+136
+00:11:51,780 --> 00:11:54,300
+Wilkinson, however, did not invent the lathe.
+
+137
+00:11:54,600 --> 00:11:56,060
+That fell to another Englishman.
+
+138
+00:11:57,840 --> 00:12:02,700
+Henry Maudsley had apprenticed to the famous lockmaker Joseph Brahma in 1791.
+
+139
+00:12:04,460 --> 00:12:06,180
+Maudsley soon became Brahma's foreman,
+
+140
+00:12:06,380 --> 00:12:08,660
+but when Maudsley was refused a raise,
+
+141
+00:12:08,980 --> 00:12:10,360
+He struck out on his own.
+
+142
+00:12:11,440 --> 00:12:16,980
+In 1797, inspired by the early wooden lathes, Maudsley created the first metal lathe.
+
+143
+00:12:17,300 --> 00:12:18,740
+It was used to cut screws.
+
+144
+00:12:20,780 --> 00:12:28,400
+In the early 1800s, an American named Tom Blanchard created a new kind of lathe to machine heavy wood gun stocks.
+
+145
+00:12:28,920 --> 00:12:30,620
+It was called a pattern lathe.
+
+146
+00:12:31,620 --> 00:12:35,580
+He would put in essentially a pattern piece in the top of the machine,
+
+147
+00:12:36,040 --> 00:12:42,940
+and the lathe would follow this pattern to create another identical gunstock in 20, 25 minutes.
+
+148
+00:12:43,980 --> 00:12:47,740
+It was this type of machining that they were going for, especially in the firearms industry,
+
+149
+00:12:47,900 --> 00:12:50,400
+where you could pump out these pieces and then assemble them.
+
+150
+00:12:51,840 --> 00:12:54,960
+Lathes became the focus of early productivity experts.
+
+151
+00:12:55,720 --> 00:12:59,500
+Their handles were moved to one side, so machinists wouldn't have to walk around them.
+
+152
+00:13:00,620 --> 00:13:06,540
+In 1845, Stephen Fitch of Middlefield, Connecticut built the first turret lathe,
+
+153
+00:13:06,541 --> 00:13:10,460
+in which several tools could be held and rotated as the cutting progressed.
+
+154
+00:13:12,740 --> 00:13:17,580
+In 1887, the R.K. LeBlond Company opened in Cincinnati, Ohio,
+
+155
+00:13:18,060 --> 00:13:20,860
+a city that would become famous for machine tool manufacturing.
+
+156
+00:13:23,840 --> 00:13:27,460
+LeBlond would become the largest manufacturer of lathes in the world.
+
+157
+00:13:27,461 --> 00:13:34,120
+This is a 1903 R.K. LeBlanc lathe. It was manufactured here in Cincinnati.
+
+158
+00:13:35,460 --> 00:13:38,380
+The lathe is the oldest form of all machine tools.
+
+159
+00:13:38,860 --> 00:13:45,340
+The idea of actually turning an object to shape it into a round shape or a smoother round shape
+
+160
+00:13:45,341 --> 00:13:48,180
+goes back millennia, even to the time of the first wheels.
+
+161
+00:13:51,320 --> 00:13:57,320
+Two critical aspects of all lathes are their speed, the rate at which the stock turns, and their feed.
+
+162
+00:13:57,460 --> 00:13:59,580
+how fast the tool is moved as it cuts.
+
+163
+00:14:00,960 --> 00:14:04,520
+The speed of the lathe is controlled by the pulley size,
+
+164
+00:14:04,620 --> 00:14:06,820
+which is set on the lathe itself.
+
+165
+00:14:07,300 --> 00:14:10,360
+The smaller the pulley wheel that it's set on the lathe,
+
+166
+00:14:10,580 --> 00:14:12,320
+the faster they are higher the RPMs.
+
+167
+00:14:12,520 --> 00:14:13,880
+The larger, the slower.
+
+168
+00:14:14,580 --> 00:14:18,120
+There's another pulley wheel system which controls the feed rate,
+
+169
+00:14:18,121 --> 00:14:21,400
+the rate that the tool moves either one direction or another
+
+170
+00:14:21,401 --> 00:14:22,780
+on the stock that's being worked.
+
+171
+00:14:22,781 --> 00:14:31,960
+While their power has evolved from steam to diesel, and now electric, lathes still look
+
+172
+00:14:31,961 --> 00:14:36,500
+much the same as they did 100 years ago.
+
+173
+00:14:36,501 --> 00:14:41,560
+You can make a machine tool faster, you can make them more accurate, and you can make them
+
+174
+00:14:41,561 --> 00:14:48,220
+more precise, but the principles behind cutting, shaping, and finishing a piece of metal have
+
+175
+00:14:48,221 --> 00:14:50,220
+remained the same.
+
+176
+00:14:50,221 --> 00:14:58,360
+The principles may have remained the same, but lathes did grow in size, the spindles on some reaching over 40 feet.
+
+177
+00:15:00,680 --> 00:15:06,080
+And as with all machine tools, they were at their busiest during both world wars.
+
+178
+00:15:07,760 --> 00:15:14,780
+As far as the Arcade LeBlanc company is concerned, they had a tremendous role in World War I and World War II.
+
+179
+00:15:14,781 --> 00:15:22,640
+They produced what we call a gun boring lathe for the various artillery pieces that were used throughout the war.
+
+180
+00:15:23,160 --> 00:15:25,080
+The big howitzers.
+
+181
+00:15:29,800 --> 00:15:34,480
+Many believe World War II could not have been won without American machine tools.
+
+182
+00:15:34,481 --> 00:15:44,420
+without the quality of machines that we had which produced quality parts we never could have
+
+183
+00:15:44,421 --> 00:15:53,260
+provided the war material for england france and the australians the canadians they all used
+
+184
+00:15:53,261 --> 00:15:59,080
+american equipment i think they made the difference between our winning the war or
+
+185
+00:15:59,081 --> 00:16:00,968
+possibly losing the war.
+
+186
+00:16:00,969 --> 00:16:06,080
+If we had not been able to supply virtually the rest of the world
+
+187
+00:16:06,081 --> 00:16:12,080
+with the necessary war material, we might be saluting the Nazi flag today.
+
+188
+00:16:14,840 --> 00:16:20,040
+Computers were added to lathes in the 1960s as they developed into the modern machining
+
+189
+00:16:20,041 --> 00:16:25,752
+centers of today. Most modern turning machines are computer controlled.
+
+190
+00:16:25,753 --> 00:16:27,280
+You have originally
+
+191
+00:16:27,281 --> 00:16:31,260
+spindle speeds of 3,000 to 4,000 RPM. Now you're talking
+
+192
+00:16:31,261 --> 00:16:33,520
+20,000 to 30,000 RPM.
+
+193
+00:16:34,900 --> 00:16:39,140
+Almost all the things that rely on motion from electric motors
+
+194
+00:16:39,141 --> 00:16:42,740
+involve parts that spin, and most of those parts are produced on lathes
+
+195
+00:16:42,741 --> 00:16:47,380
+and turning machines. Lathes and boring machines
+
+196
+00:16:47,381 --> 00:16:51,040
+did not develop in a vacuum. Other very different machine tools
+
+197
+00:16:51,041 --> 00:16:55,200
+were developed at the same time. The second category, planers
+
+198
+00:16:55,201 --> 00:17:00,580
+and shapers at one time were some of the most important machine tools.
+
+199
+00:17:00,581 --> 00:17:02,040
+Planers and shapers
+
+200
+00:17:02,041 --> 00:17:08,800
+can be compared to the carpenter's plane, used to smooth and cut flat metal surfaces.
+
+201
+00:17:08,801 --> 00:17:14,100
+With planers, the work moves under the tool.
+
+202
+00:17:14,101 --> 00:17:19,280
+With shapers, the tool moves over the work.
+
+203
+00:17:19,281 --> 00:17:24,720
+James Fox, a one-time country butler turned machinist, is credited with building one of
+
+204
+00:17:24,721 --> 00:17:26,880
+the first metal planers in 1814.
+
+205
+00:17:30,300 --> 00:17:36,500
+One of the oldest planers is at the American Precision Museum in Windsor, Vermont, home
+
+206
+00:17:36,501 --> 00:17:39,680
+to one of the world's largest collection of machine tools.
+
+207
+00:17:41,180 --> 00:17:42,840
+Ed Battison is its founder.
+
+208
+00:17:45,200 --> 00:17:47,960
+Most of the early machine tools have no maker's name on them.
+
+209
+00:17:48,420 --> 00:17:53,020
+They were made by the people that needed them rather than the people that were making a
+
+210
+00:17:53,021 --> 00:17:53,940
+market out of selling.
+
+211
+00:17:54,720 --> 00:17:59,780
+We have an iron planer. It's operated entirely by hand, and it was made with file.
+
+212
+00:18:00,580 --> 00:18:03,160
+It was cast a rough shape and then fired up.
+
+213
+00:18:03,580 --> 00:18:05,880
+It would make all the shapes you can't make on a lathe.
+
+214
+00:18:09,880 --> 00:18:13,380
+James Naismith was an Englishman who worked for Henry Maudsley,
+
+215
+00:18:14,020 --> 00:18:17,000
+the same Henry Maudsley who invented the first lathe.
+
+216
+00:18:18,460 --> 00:18:24,480
+After Maudsley's death in 1831, Naismith moved to Edinburgh and opened his own shop.
+
+217
+00:18:24,720 --> 00:18:31,720
+He specialized in making paddle wheels for steamboats, parts too large to move under a planer.
+
+218
+00:18:31,721 --> 00:18:35,720
+So in 1839, he invented a tool that moved over the part.
+
+219
+00:18:35,721 --> 00:18:37,720
+He called it a steam hammer.
+
+220
+00:18:37,721 --> 00:18:41,720
+In fact, it was the first metal shaper.
+
+221
+00:18:41,721 --> 00:18:46,720
+This is a shaper from the American Tool Works, built in 1906 right here in Cincinnati.
+
+222
+00:18:46,721 --> 00:18:51,720
+The shaper does a real basic type of job for people.
+
+223
+00:18:51,721 --> 00:18:55,120
+It basically shapes a piece of stock.
+
+224
+00:18:55,980 --> 00:19:01,060
+It goes through an enormous amount of movement just to perform this simple task, though.
+
+225
+00:19:01,420 --> 00:19:03,600
+Shapers can eliminate simple filing.
+
+226
+00:19:04,200 --> 00:19:07,340
+It can also make keyways or notches for fitted pieces.
+
+227
+00:19:08,400 --> 00:19:14,260
+As the stock is moved left or right, the cutting tool is moved back and forth.
+
+228
+00:19:14,620 --> 00:19:19,600
+When the cutting tool moves to the home position, to the rear, the table moves over gradually,
+
+229
+00:19:19,601 --> 00:19:24,520
+and then the cutting tool moves forward again and takes another bite off of the stock itself.
+
+230
+00:19:26,700 --> 00:19:32,900
+Shapers and planers played a critical role, not just in creating new products, but in creating new machine tools.
+
+231
+00:19:33,880 --> 00:19:39,040
+One of those tools was the milling machine, the third category of machine tools.
+
+232
+00:19:40,120 --> 00:19:44,220
+Unlike previous machine tools, milling machines would not get their start in England,
+
+233
+00:19:44,620 --> 00:19:47,160
+but in the newly independent United States.
+
+234
+00:19:49,600 --> 00:19:51,046
+In the 1800s, E.M.
+
+235
+00:19:51,047 --> 00:19:58,760
+Remington and sons used their machine tools not only to make guns, but also to make typewriters.
+
+236
+00:19:59,960 --> 00:20:02,900
+Machine tools will return on Modern Marvels.
+
+237
+00:20:05,780 --> 00:20:15,280
+After the American Revolution, the British tried to maintain their industrial superiority by prohibiting machine tool exports to the United States.
+
+238
+00:20:15,281 --> 00:20:23,760
+after the revolutionary war a lot of the technology was banned from the united states in the same way
+
+239
+00:20:23,761 --> 00:20:29,800
+that we have embargoes against cuba or people would like embargoes against china today
+
+240
+00:20:29,801 --> 00:20:36,840
+if the political situation had changed then the technology would have come in
+
+241
+00:20:36,841 --> 00:20:43,400
+you know very freely we were the up and coming yankees england often looked down upon the united
+
+242
+00:20:43,401 --> 00:20:47,839
+States in the types of machines that they produced, that they were inferior.
+
+243
+00:20:47,840 --> 00:20:48,540
+They weren't
+
+244
+00:20:48,541 --> 00:20:54,160
+of the quality of the British machines. And in some respects, that's very true.
+
+245
+00:20:54,161 --> 00:20:54,861
+We didn't
+
+246
+00:20:54,862 --> 00:21:00,320
+produce the types of these large, sturdy machine tools that the British did, but in many respects
+
+247
+00:21:00,321 --> 00:21:04,940
+that worked in our favor because the machine tool industry changed so rapidly in the 19th
+
+248
+00:21:04,941 --> 00:21:08,869
+century that we could afford to build little cheaper machines.
+
+249
+00:21:08,870 --> 00:21:10,580
+Within 10 to 20 years, they
+
+250
+00:21:10,581 --> 00:21:13,815
+were on to something new and different, and those machines were replaced.
+
+251
+00:21:13,816 --> 00:21:14,516
+Whereas I think
+
+252
+00:21:14,517 --> 00:21:18,860
+many instances, the British stayed with the world reliable machines, and we surpassed
+
+253
+00:21:18,861 --> 00:21:19,561
+them.
+
+254
+00:21:23,620 --> 00:21:28,020
+Credit for inventing the milling machine is usually given to the famous American inventor
+
+255
+00:21:28,021 --> 00:21:32,780
+Eli Whitney. But it's credit, some say, he doesn't deserve.
+
+256
+00:21:32,781 --> 00:21:35,120
+Whitney was born in Westboro,
+
+257
+00:21:35,121 --> 00:21:42,040
+Massachusetts in 1765 and became famous for his new cotton gin, used to remove the seeds
+
+258
+00:21:42,041 --> 00:21:43,896
+from raw cotton plants.
+
+259
+00:21:43,897 --> 00:21:48,900
+While Whitney held the cotton gin patent and the machines were
+
+260
+00:21:48,901 --> 00:21:54,100
+legally his alone to make, the ease with which they could be copied made them the target
+
+261
+00:21:54,101 --> 00:21:54,907
+of pirates.
+
+262
+00:21:54,908 --> 00:22:00,780
+To cover his legal bills defending the cotton gin, Whitney started manufacturing
+
+263
+00:22:00,781 --> 00:22:01,481
+rifles.
+
+264
+00:22:01,482 --> 00:22:07,480
+He built the first milling machine to help fulfill a government contract calling
+
+265
+00:22:07,481 --> 00:22:14,299
+for him to manufacture 10,000 muskets in a record-breaking two years.
+
+266
+00:22:14,300 --> 00:22:15,880
+But some say the
+
+267
+00:22:15,881 --> 00:22:21,560
+great Eli Whitney borrowed his design from another American gun manufacturer, John Hall.
+
+268
+00:22:22,220 --> 00:22:26,800
+Government contracts said any machine tools used in gun manufacture could be copied by
+
+269
+00:22:26,801 --> 00:22:31,000
+others, so long as they were used to help make more guns.
+
+270
+00:22:33,000 --> 00:22:38,060
+Many believe Hall had the first milling machine and that Whitney simply borrowed his design.
+
+271
+00:22:38,840 --> 00:22:42,520
+But being more famous, Whitney ended up with the credit.
+
+272
+00:22:43,980 --> 00:22:49,520
+I don't think they worried too much about whether somebody stole a patent or not, simply
+
+273
+00:22:49,521 --> 00:22:52,460
+because communications aren't what they are today.
+
+274
+00:22:52,461 --> 00:23:01,460
+I think that there is a tremendous amount of adaptation from one builder to another.
+
+275
+00:23:05,460 --> 00:23:09,380
+In many ways, milling machines do the work of a planer or shaper.
+
+276
+00:23:10,240 --> 00:23:12,240
+Metal is cut smooth by a spinning blade.
+
+277
+00:23:13,100 --> 00:23:19,300
+But unlike a planer or shaper, a milling machine does not have to back up after each cut, and that makes it faster.
+
+278
+00:23:22,460 --> 00:23:25,720
+The milling machine is pretty much the brains of the machine tool shop.
+
+279
+00:23:26,020 --> 00:23:28,800
+It's used for making precise cuts.
+
+280
+00:23:29,620 --> 00:23:33,580
+This one is a horizontal mill or what's sometimes referred to as a slab mill.
+
+281
+00:23:34,520 --> 00:23:38,400
+You can adjust the stock that you're working on on any axis.
+
+282
+00:23:39,440 --> 00:23:44,960
+This table is moving the stock against the rotating sharpened steel tool.
+
+283
+00:23:44,961 --> 00:23:51,500
+The steel tool basically chips away or scrapes away small particles of the metal.
+
+284
+00:23:52,460 --> 00:23:58,940
+Any slab of metal that needed to be milled off to a uniform height would be milled on a horizontal mill like this.
+
+285
+00:24:02,440 --> 00:24:07,380
+The Cincinnati Screw and Tap Company built its first milling machine in 1878.
+
+286
+00:24:08,380 --> 00:24:13,160
+The company would soon become the largest manufacturer of milling machines in the world.
+
+287
+00:24:13,760 --> 00:24:21,140
+A really big break for the company came just about the turn of the century with the advent of manufacturers of bicycles.
+
+288
+00:24:21,141 --> 00:24:24,140
+and the bicycle parts, of course, are made of metal
+
+289
+00:24:24,141 --> 00:24:27,820
+and there was a need in the growing bicycle industry
+
+290
+00:24:27,821 --> 00:24:31,040
+to have milling machines to make the components for bicycles.
+
+291
+00:24:34,200 --> 00:24:38,100
+Milling machines also became a key part of the early automotive industry
+
+292
+00:24:38,101 --> 00:24:42,700
+when Henry Ford used them in his factory to help manufacture the first Model Ts.
+
+293
+00:24:45,900 --> 00:24:49,420
+Because the milling machine was more efficient than planers and shapers,
+
+294
+00:24:50,280 --> 00:24:54,260
+By the mid-1900s, it had replaced them in most machine shops.
+
+295
+00:24:56,540 --> 00:25:00,600
+World War I and World War II propelled milling machine manufacturers
+
+296
+00:25:00,601 --> 00:25:03,720
+to make unprecedented numbers of these valuable machines.
+
+297
+00:25:05,340 --> 00:25:09,500
+The production of airplanes, or the production of jeeps,
+
+298
+00:25:09,501 --> 00:25:13,740
+or the production of personnel carriers, or the production of tanks,
+
+299
+00:25:14,340 --> 00:25:19,100
+or even the production of guns and arms, is all dependent on metal parts.
+
+300
+00:25:19,420 --> 00:25:21,000
+mass-produced metal parts.
+
+301
+00:25:21,840 --> 00:25:26,440
+In World War I, Cincinnati was very busy making basic machine tools,
+
+302
+00:25:26,920 --> 00:25:30,460
+and we were making them for the factories that made or goods.
+
+303
+00:25:31,140 --> 00:25:34,940
+In World War II, we were also extremely busy here
+
+304
+00:25:34,941 --> 00:25:40,160
+in making those same machine tools to support not just the U.S.,
+
+305
+00:25:40,161 --> 00:25:45,020
+but we were also supporting the Allies with machine tools during that period of time.
+
+306
+00:25:45,021 --> 00:25:53,320
+And we were actually making components, portions of tanks, portions of personnel carriers.
+
+307
+00:25:53,460 --> 00:25:57,660
+We were actually making those components in the factory at the same time we were making machine tools.
+
+308
+00:26:01,100 --> 00:26:05,620
+After the war, milling machines were retooled to make consumer goods,
+
+309
+00:26:06,040 --> 00:26:10,120
+one of the reasons for the explosion in the standard of living in the 1950s.
+
+310
+00:26:10,121 --> 00:26:18,600
+Within decades, milling machines had reached heights of precision and power never dreamed of before.
+
+311
+00:26:19,980 --> 00:26:23,620
+Modern milling machines evolved into complete machining centers
+
+312
+00:26:23,621 --> 00:26:27,280
+that could perform multiple functions on a part as it was milled.
+
+313
+00:26:27,960 --> 00:26:34,500
+The precision with which you can make metal parts that fit together in a tight fashion
+
+314
+00:26:34,501 --> 00:26:40,140
+is solely dependent on the precision accuracy capabilities
+
+315
+00:26:40,141 --> 00:26:42,960
+of the machine tool that you use to make those parts.
+
+316
+00:26:43,960 --> 00:26:46,540
+The more accurate the machine tool is,
+
+317
+00:26:46,960 --> 00:26:50,760
+the more precisely you can control the dimensions of parts
+
+318
+00:26:50,761 --> 00:26:55,180
+that ultimately mate together in an engine or in an aircraft
+
+319
+00:26:55,181 --> 00:26:56,940
+or whatever the case may be.
+
+320
+00:26:56,941 --> 00:27:07,400
+Precise, interchangeable parts are a concept we now take for granted.
+
+321
+00:27:08,860 --> 00:27:14,660
+But prior to Whitney's milling machine, supposedly identical parts would always differ slightly.
+
+322
+00:27:15,480 --> 00:27:17,940
+A machinist would have to shave the part for a match.
+
+323
+00:27:20,020 --> 00:27:26,060
+Whitney claimed his milling machine was so precise that any part from any musket could be interchanged with any other.
+
+324
+00:27:26,940 --> 00:27:29,680
+He called the concept interchangeable parts.
+
+325
+00:27:31,540 --> 00:27:35,420
+Thomas Jefferson accepted Whitney's claims after examining ten muskets,
+
+326
+00:27:36,020 --> 00:27:39,660
+although some say Whitney overstated the interchangeability of his parts.
+
+327
+00:27:41,340 --> 00:27:42,440
+They were terrible.
+
+328
+00:27:43,200 --> 00:27:47,260
+Jefferson was an enthusiastic amateur, but there's a lot of things he didn't know.
+
+329
+00:27:48,000 --> 00:27:51,120
+And one thing he didn't know about was interchangeability.
+
+330
+00:27:52,100 --> 00:27:56,500
+Whitney made one gun and ten locks that supposedly would fit it.
+
+331
+00:27:56,940 --> 00:28:01,560
+Well, that's easy enough to do if you've spent time enough and money enough to do it.
+
+332
+00:28:01,600 --> 00:28:03,100
+And he saved the contract that way.
+
+333
+00:28:03,500 --> 00:28:05,780
+He fooled Jefferson and the water department.
+
+334
+00:28:09,080 --> 00:28:13,140
+Nevertheless, the concept of interchangeable parts was here to stay.
+
+335
+00:28:13,660 --> 00:28:20,020
+Soon, many gun manufacturers, including Robbins & Lawrence, Springfield, and Colt, had achieved it.
+
+336
+00:28:22,820 --> 00:28:26,820
+While the milling machine brought about a new precision in the products it created,
+
+337
+00:28:26,940 --> 00:28:29,320
+It didn't accomplish this feat alone.
+
+338
+00:28:30,220 --> 00:28:33,560
+There were four other machine tools that played a critical role.
+
+339
+00:28:36,560 --> 00:28:42,780
+Eli Whitney's milling machine was so well designed, it did not change for 150 years.
+
+340
+00:28:44,180 --> 00:28:47,000
+Machine tools will return on Modern Marvels.
+
+341
+00:28:49,520 --> 00:28:51,860
+Drilling is a very old art.
+
+342
+00:28:51,861 --> 00:28:57,400
+The crudest form of drilling is the bow, a method familiar to most Boy Scouts.
+
+343
+00:28:59,620 --> 00:29:03,360
+One of the earliest improvements in drilling was a bit with a twisted groove,
+
+344
+00:29:04,120 --> 00:29:06,020
+so shavings would rise from the hole.
+
+345
+00:29:09,280 --> 00:29:12,980
+The blacksmith's post drill was one of the earliest modern drills.
+
+346
+00:29:14,240 --> 00:29:19,640
+This is a post drill, and as with any tool, it eliminates a lot of work from your task.
+
+347
+00:29:19,641 --> 00:29:24,040
+instead of having to push down on a drill that you might have had to push down with your shoulder
+
+348
+00:29:24,041 --> 00:29:25,820
+and get maybe an inaccurate hole.
+
+349
+00:29:26,180 --> 00:29:29,900
+The post drill mounts firmly and securely on a post in a shop,
+
+350
+00:29:30,360 --> 00:29:34,320
+and then the power is kept constant when you're turning it by the flywheel.
+
+351
+00:29:36,800 --> 00:29:41,180
+It was a simple step to connect the drill's flywheel to a steam-powered belt.
+
+352
+00:29:42,000 --> 00:29:44,320
+Soon, power drills were in every machine shop.
+
+353
+00:29:44,900 --> 00:29:46,860
+They became the fourth type of machine tool.
+
+354
+00:29:47,680 --> 00:29:51,080
+For drills, advancement came not so much in the improvement of the machine,
+
+355
+00:29:51,680 --> 00:29:53,520
+but in the metal that made the cutting bit.
+
+356
+00:29:55,180 --> 00:30:00,180
+The early steel, made of iron and carbon, was hard, but it could be brittle.
+
+357
+00:30:02,020 --> 00:30:05,000
+After crucible steel was invented in 1751,
+
+358
+00:30:05,600 --> 00:30:08,560
+in which alloy steels could be created in a sealed furnace,
+
+359
+00:30:08,920 --> 00:30:14,440
+drill bits could be made harder and were able to drill holes in harder metal stock.
+
+360
+00:30:14,441 --> 00:30:23,520
+By the early 1900s, drilling machines were being used to build sewing machines, bicycles, and watches.
+
+361
+00:30:25,220 --> 00:30:29,980
+Drills that could cut 30 or more holes at a time were used to machine engine blocks.
+
+362
+00:30:32,260 --> 00:30:36,000
+Hole making happens to be the most common metalworking operation in industry.
+
+363
+00:30:36,540 --> 00:30:37,440
+We make a lot of holes.
+
+364
+00:30:38,320 --> 00:30:42,920
+Drilling machines come in all kinds of sizes because we make small holes, we make very large holes.
+
+365
+00:30:42,921 --> 00:30:49,920
+Hole making is just so common that it's essential to manufacturing in almost every industry.
+
+366
+00:30:49,921 --> 00:30:56,920
+I think some of the most impressive drilling machines today are those designed for high-speed hole making.
+
+367
+00:30:56,921 --> 00:31:02,920
+Typically these drill at speeds that almost, you can hardly see the hole making process at so fast.
+
+368
+00:31:02,921 --> 00:31:06,920
+Certain work pieces require hundreds, even thousands of holes.
+
+369
+00:31:06,921 --> 00:31:11,920
+So the faster those holes can be made, the more efficient the drilling machine has to be.
+
+370
+00:31:12,920 --> 00:31:17,560
+The advances of the 1800s that led to better drills
+
+371
+00:31:17,561 --> 00:31:21,360
+also led to a new type of machine tool, the grinding machine.
+
+372
+00:31:22,540 --> 00:31:28,080
+As early as the 1500s, Leonardo da Vinci was drawing sketches of primitive grinders.
+
+373
+00:31:29,020 --> 00:31:33,280
+For hundreds of years, man has used forms of them to sharpen his tools.
+
+374
+00:31:36,720 --> 00:31:41,920
+In 1837, James Naismith, the same Naismith who invented the shaper,
+
+375
+00:31:41,921 --> 00:31:44,360
+patented the first machine grinder.
+
+376
+00:31:46,400 --> 00:31:49,580
+Charles Norton was one of the most famous manufacturers of grinders.
+
+377
+00:31:50,240 --> 00:31:52,040
+When his employers, Brown and Sharp,
+
+378
+00:31:52,420 --> 00:31:55,100
+were not interested in developing a large production grinder,
+
+379
+00:31:55,620 --> 00:31:56,980
+Norton set out on his own.
+
+380
+00:31:58,460 --> 00:32:01,720
+In 1903, he developed the Norton grinding machine.
+
+381
+00:32:03,000 --> 00:32:07,200
+It could grind out an automobile crankshaft in just 15 minutes,
+
+382
+00:32:07,201 --> 00:32:09,800
+a job that previously took five hours.
+
+383
+00:32:10,760 --> 00:32:12,480
+It was a tremendous success.
+
+384
+00:32:13,180 --> 00:32:15,860
+Henry Ford ordered 35 for his Model T plant.
+
+385
+00:32:19,400 --> 00:32:22,540
+Grinders are best suited to work on extremely hard metal.
+
+386
+00:32:23,760 --> 00:32:28,980
+Once steel is machined, it is often heated and cooled in a process that can cause distortions.
+
+387
+00:32:30,260 --> 00:32:34,120
+Grinders are one of the few tools that can machine this heat-treated steel.
+
+388
+00:32:34,121 --> 00:32:41,560
+Grinding is generally a process that's applied when extreme accuracy is very important
+
+389
+00:32:41,561 --> 00:32:47,360
+because grinding can be highly controlled and it can be used to achieve levels of precision
+
+390
+00:32:47,361 --> 00:32:49,800
+that would be impossible with other types of machine tools.
+
+391
+00:32:53,980 --> 00:32:58,720
+Today, grinders are used by the aerospace industry to shape metals like titanium,
+
+392
+00:32:58,721 --> 00:33:05,720
+Inconel and Hastelloy, extremely hard metals designed to resist high temperatures.
+
+393
+00:33:05,721 --> 00:33:09,720
+These modern grinders are the most accurate of all machine tools.
+
+394
+00:33:09,721 --> 00:33:16,720
+The best can grind a part to within one ten-thousandth of an inch.
+
+395
+00:33:16,721 --> 00:33:22,720
+The sixth type of machine tool is the most simple, the power saw.
+
+396
+00:33:22,721 --> 00:33:27,720
+The first steam-powered sawmill was built in London in 1663.
+
+397
+00:33:27,721 --> 00:33:30,380
+It was built not to cut metal, but wood.
+
+398
+00:33:31,320 --> 00:33:35,900
+It caused riots among woodcutters, who thought the power saw would replace them.
+
+399
+00:33:37,160 --> 00:33:41,980
+Not to worry, it took another century for steam-powered sawmills to reach widespread use.
+
+400
+00:33:43,460 --> 00:33:46,780
+By the mid-1700s, as blades became harder,
+
+401
+00:33:47,660 --> 00:33:51,660
+power saws were installed in most factories to saw metal before it was machined.
+
+402
+00:33:51,661 --> 00:34:01,920
+In the early 19th century, the invention of a power bandsaw was made possible by the improved flexibility of steel.
+
+403
+00:34:03,400 --> 00:34:09,720
+The saw's rotating blade was flexible enough to wrap around rotary wheels, yet hard enough to stay sharp.
+
+404
+00:34:11,720 --> 00:34:16,540
+Power saws are often the first machine tool that raw material is going to counter,
+
+405
+00:34:16,760 --> 00:34:21,520
+even though they may not have the same glamour that other types of machines have.
+
+406
+00:34:21,660 --> 00:34:25,460
+They're still extremely important parts of the manufacturing process
+
+407
+00:34:25,461 --> 00:34:29,080
+because they essentially create the work pieces
+
+408
+00:34:29,081 --> 00:34:33,860
+that will go to other types of machine tools for complete manufacturing.
+
+409
+00:34:35,800 --> 00:34:39,500
+The seventh and final category of machine tool, the punch press,
+
+410
+00:34:39,660 --> 00:34:41,540
+wasn't designed to cut or shave metal.
+
+411
+00:34:42,000 --> 00:34:43,580
+It was made to press it into shape.
+
+412
+00:34:45,420 --> 00:34:48,680
+Metalworking is broken down into two different types.
+
+413
+00:34:48,681 --> 00:34:57,540
+one you have the production of parts by the removal of metal in the form of chips
+
+414
+00:34:57,541 --> 00:35:04,160
+and that's what we do on a lathe on a milling machine on a planer but then beyond that you
+
+415
+00:35:04,161 --> 00:35:13,700
+have a form of metal working which is the forming of metal by pressure so that you use a press then
+
+416
+00:35:13,701 --> 00:35:16,280
+to form it against a die.
+
+417
+00:35:20,300 --> 00:35:23,680
+Punch presses were one of the final machine tools to be developed.
+
+418
+00:35:25,020 --> 00:35:27,380
+They have heavy rams on a flywheel
+
+419
+00:35:27,381 --> 00:35:30,100
+that when triggered, press down against a base.
+
+420
+00:35:31,800 --> 00:35:33,780
+They shape metal over a die,
+
+421
+00:35:34,160 --> 00:35:37,800
+a hard metal block that forms the metal into a particular shape.
+
+422
+00:35:39,180 --> 00:35:40,540
+When I was young,
+
+423
+00:35:40,541 --> 00:35:45,800
+my father wouldn't allow me to leave the car door open.
+
+424
+00:35:46,420 --> 00:35:49,420
+I'd open the car for some reason and leave it hanging on the hinges.
+
+425
+00:35:50,220 --> 00:35:50,940
+Nothing doing.
+
+426
+00:35:51,860 --> 00:35:52,840
+That was a wooden body.
+
+427
+00:35:55,220 --> 00:35:57,940
+And it didn't hold its shape, so you had to slam the door.
+
+428
+00:35:58,660 --> 00:36:03,140
+But nowadays, you can let the door hang on to it all through your body.
+
+429
+00:36:03,940 --> 00:36:07,480
+And as the volume of cars went up, they started making the parts and presses.
+
+430
+00:36:07,481 --> 00:36:11,360
+instead of woodworking shops.
+
+431
+00:36:13,720 --> 00:36:18,220
+Again, machine tools played a major role in World War I and World War II
+
+432
+00:36:18,221 --> 00:36:22,580
+as punch presses formed parts for tanks, jeeps, ammunition casings,
+
+433
+00:36:22,760 --> 00:36:24,320
+and countless other war products.
+
+434
+00:36:29,300 --> 00:36:33,040
+Today, as punch presses have become more complex and precise,
+
+435
+00:36:33,041 --> 00:36:38,880
+They are used to shape metal into every conceivable shape for every conceivable use.
+
+436
+00:36:40,500 --> 00:36:44,020
+Next, the new ultra-modern machine tools.
+
+437
+00:36:46,120 --> 00:36:52,480
+During World War II, the machine tool industry built 800,000 new machine tools.
+
+438
+00:36:53,620 --> 00:36:56,620
+Machine tools will return on Modern Marvels.
+
+439
+00:36:57,880 --> 00:37:01,700
+While machine tools remain as a legacy of the Industrial Revolution,
+
+440
+00:37:02,300 --> 00:37:08,020
+Since the 1960s, they have taken on a new level of sophistication, rivaling their initial design.
+
+441
+00:37:09,340 --> 00:37:12,340
+The most dramatic changes have to do with how they are controlled.
+
+442
+00:37:15,820 --> 00:37:22,160
+The earliest machine tools used flywheels to control the position of the tool and the speed at which it cut.
+
+443
+00:37:24,520 --> 00:37:30,860
+Beginning in the early 1950s, those flywheels came under the control of paper tapes and punch cards.
+
+444
+00:37:30,861 --> 00:37:33,980
+used to trigger a precise numeric routine.
+
+445
+00:37:35,240 --> 00:37:37,540
+That routine could be easily repeated.
+
+446
+00:37:38,680 --> 00:37:40,700
+The process was called numeric control.
+
+447
+00:37:42,840 --> 00:37:45,500
+Numeric control was invented in 1947
+
+448
+00:37:45,501 --> 00:37:50,540
+when John Parsons put a milling machine under the control of an IBM punch card.
+
+449
+00:37:51,240 --> 00:37:53,880
+It spawned a whole new world of machine tools.
+
+450
+00:37:55,200 --> 00:37:59,120
+The biggest change in machine tools occurred with the introduction of numerical control.
+
+451
+00:37:59,840 --> 00:38:04,320
+That basically made it possible to automate the entire machining operation.
+
+452
+00:38:05,060 --> 00:38:08,840
+Instead of relying on the operator turning hand wheels,
+
+453
+00:38:08,841 --> 00:38:15,660
+the motion of the machine is basically directed by the numbers that are read off the tape
+
+454
+00:38:15,661 --> 00:38:22,660
+and then translated into corresponding motions that will duplicate the shape that the designer had in mind.
+
+455
+00:38:22,661 --> 00:38:31,040
+everybody thought this was a great innovation where you had a paper tape that ran through a
+
+456
+00:38:31,041 --> 00:38:38,320
+machine and you put your workpiece on when machines became more automated then they would have
+
+457
+00:38:38,321 --> 00:38:47,840
+one man to set the machine up and an operator who simply put the workpiece in and push the
+
+458
+00:38:47,841 --> 00:38:54,160
+buttons to start the machine, take the workpiece out, put another workpiece in, and there the
+
+459
+00:38:54,161 --> 00:38:57,016
+responsibility was on the setup man.
+
+460
+00:38:57,017 --> 00:39:01,300
+Numeric control systems dramatically improved with the
+
+461
+00:39:01,301 --> 00:39:04,122
+addition of computers in the 1960s.
+
+462
+00:39:04,123 --> 00:39:08,880
+A training experience resides in the computer that controls
+
+463
+00:39:08,881 --> 00:39:13,400
+the machine tool, and that's made it possible for the machine tool to do things that were simply
+
+464
+00:39:13,401 --> 00:39:17,245
+impossible when they were operated by hand.
+
+465
+00:39:17,246 --> 00:39:21,180
+We can do things that involve accuracies and
+
+466
+00:39:21,181 --> 00:39:27,060
+shapes that would simply be beyond the capability of the machinist's ability to coordinate eye and
+
+467
+00:39:27,061 --> 00:39:31,800
+hand to turn the wheels that move the workpiece or move the spinning tool against it.
+
+468
+00:39:34,440 --> 00:39:38,760
+Computer control means more fluid shapes can be made by the machine tools.
+
+469
+00:39:38,761 --> 00:39:43,480
+One reason for the new modern fluidity seen in so many products.
+
+470
+00:39:44,380 --> 00:39:47,440
+Fluidity that first had to be created on a machine tool.
+
+471
+00:39:51,920 --> 00:39:56,920
+Robots have also been added to machine tools to move parts and change tools.
+
+472
+00:39:58,420 --> 00:40:04,000
+The automatic tool change mechanisms are unique mostly to the machining centers.
+
+473
+00:40:04,001 --> 00:40:15,400
+In the machining centers, they can utilize many, many tools, from a 40-tool magazine up to 400 or 500 tools in a magazine.
+
+474
+00:40:22,180 --> 00:40:26,780
+By definition, the cutting edge of a machine tool must be harder than what it is cutting.
+
+475
+00:40:26,781 --> 00:40:34,240
+As metals get harder, machine tools have had to adopt ultra-modern cutting techniques.
+
+476
+00:40:36,240 --> 00:40:41,760
+Many machine tools now use a process called electrical discharge machining, EDM.
+
+477
+00:40:42,940 --> 00:40:49,080
+Powered by electricity, the machines use electrons to vaporize the material instead of cutting it with a tool.
+
+478
+00:40:49,081 --> 00:40:58,200
+They use the energy of a spark to essentially explode a microscopic bit of material away from the surface.
+
+479
+00:40:58,820 --> 00:41:01,320
+This is microscopic, so it's something you can't see with the eye.
+
+480
+00:41:01,920 --> 00:41:06,000
+But as that heat builds up to a certain point, at least as hot as the temperature of the sun,
+
+481
+00:41:06,460 --> 00:41:10,000
+a small bubble of gas forms, and when that bubble of gas explodes,
+
+482
+00:41:10,001 --> 00:41:13,080
+it blows away a microscopic bit of metal from the surface.
+
+483
+00:41:13,081 --> 00:41:17,380
+like an electronic bandsaw
+
+484
+00:41:17,381 --> 00:41:20,740
+a microscopically thin wire charged with electricity
+
+485
+00:41:20,741 --> 00:41:23,340
+cuts metal with a very fine edge
+
+486
+00:41:23,341 --> 00:41:26,640
+the cut is extremely smooth
+
+487
+00:41:26,641 --> 00:41:29,180
+eliminating the need for further machining
+
+488
+00:41:29,181 --> 00:41:34,560
+some of the most modern machine tools being developed today
+
+489
+00:41:34,561 --> 00:41:36,160
+don't work with metal at all
+
+490
+00:41:36,161 --> 00:41:38,520
+at Cincinnati Machine
+
+491
+00:41:38,521 --> 00:41:42,220
+machine tools that are a combination of many different technologies
+
+492
+00:41:42,221 --> 00:41:47,860
+are being used to create a brand new fiber material that's stronger than titanium, yet
+
+493
+00:41:47,861 --> 00:41:48,900
+lighter than aluminum.
+
+494
+00:41:49,860 --> 00:41:55,400
+Basically, for 100 years, machine tool builders have been creating machines that take raw
+
+495
+00:41:55,401 --> 00:42:01,300
+components such as cast iron, steel, or titanium, and by machining and cutting, we remove metal
+
+496
+00:42:01,301 --> 00:42:02,720
+in order to create a finished part.
+
+497
+00:42:03,080 --> 00:42:08,220
+This is the reverse process where we take the actual material, in this case, fiber composite
+
+498
+00:42:08,221 --> 00:42:12,940
+material and we lay it and place it building up the finished part for our customer.
+
+499
+00:42:13,740 --> 00:42:17,820
+What I'll show you here is the actual fiber threads,
+
+500
+00:42:19,180 --> 00:42:22,140
+fiber strands that are running through these 32 toes.
+
+501
+00:42:23,900 --> 00:42:28,140
+Multiple strands allow the fiber to be molded into smooth fluid shapes.
+
+502
+00:42:29,100 --> 00:42:33,260
+As it is laid down, the fiber is heated for fusing and cut to precise length.
+
+503
+00:42:33,261 --> 00:42:37,880
+holes are left for windows and other components
+
+504
+00:42:37,881 --> 00:42:42,260
+the new material is perfect for building lightweight new aircraft
+
+505
+00:42:42,261 --> 00:42:48,560
+I think that in the next 10 years
+
+506
+00:42:48,561 --> 00:42:54,040
+we will still see the computer and communications technologies
+
+507
+00:42:54,041 --> 00:42:58,220
+as the fundamental driver of innovation in the machine tool industry
+
+508
+00:42:58,221 --> 00:43:01,940
+it has been a driver for the last 20 years
+
+509
+00:43:01,941 --> 00:43:07,700
+we expect to see that knowledge start to become embodied in the machine tool itself.
+
+510
+00:43:08,320 --> 00:43:14,440
+And it's the computer and the evolution of computer and motion control technology that's allowing that to happen.
+
+511
+00:43:21,520 --> 00:43:24,800
+From their earliest days in the small shops of London
+
+512
+00:43:24,801 --> 00:43:28,700
+to the modern computer-controlled machining centers of today,
+
+513
+00:43:29,560 --> 00:43:33,020
+Machine tools have been at the center of man's industrial evolution.
+
+514
+00:43:34,100 --> 00:43:37,640
+There is little doubt machine tools will continue to shape our future,
+
+515
+00:43:38,260 --> 00:43:42,700
+just as machine tools undeniably shaped our past.
+
+516
+00:43:46,000 --> 00:43:50,760
+The History Channel proudly offers the program you're watching on home video
+
+517
+00:43:50,761 --> 00:43:53,700
+for only $24.95 plus shipping and handling.
+
+518
+00:43:53,701 --> 00:44:00,560
+To order, call 1-800-708-1776 or shop online at HistoryChannel.com.
+
+519
+00:44:01,560 --> 00:44:06,180
+Sunken ships, lost cities, missing subs, until now.
+
+520
+00:44:06,560 --> 00:44:10,320
+With new advances in sonar technology and remotely operated vehicles,
+
+521
+00:44:10,580 --> 00:44:15,320
+divers put their lives on the line and bring to life what history had given up for dead.
+
+522
+00:44:15,680 --> 00:44:19,900
+A new series, Deep Sea Detectives, tonight at 8 on the History Channel.
+

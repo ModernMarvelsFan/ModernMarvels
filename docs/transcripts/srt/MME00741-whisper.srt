@@ -1,0 +1,2508 @@
+1
+00:00:00,001 --> 00:00:10,140
+It's the greatest freight transportation system in the world.
+
+2
+00:00:11,200 --> 00:00:16,360
+A complex network woven into the very fabric of the United States.
+
+3
+00:00:18,140 --> 00:00:23,420
+From the early iron horses to today's sleek steel stallions.
+
+4
+00:00:24,420 --> 00:00:29,840
+They grind up hillsides, sneak through valleys, thunder across prairies.
+
+5
+00:00:30,000 --> 00:00:31,840
+to deliver the goods.
+
+6
+00:00:33,040 --> 00:00:36,460
+Now, Great Trains Plus on Modern Marvels.
+
+7
+00:00:51,560 --> 00:00:53,680
+Welcome to North Platte, Nebraska,
+
+8
+00:00:54,220 --> 00:00:56,580
+home of the largest rail yard in the world.
+
+9
+00:00:56,581 --> 00:01:00,820
+Union Pacific's Bailey Yard.
+
+10
+00:01:01,540 --> 00:01:04,520
+The yard is approximately 3,500 acres.
+
+11
+00:01:05,240 --> 00:01:08,100
+It's 8 miles long, about 2 miles wide.
+
+12
+00:01:08,380 --> 00:01:10,100
+No other rail facility like it in the world.
+
+13
+00:01:10,840 --> 00:01:13,240
+Rail yards are the hubs of railroad operations.
+
+14
+00:01:14,480 --> 00:01:17,480
+Here, freight cars from across the system are funneled in,
+
+15
+00:01:17,880 --> 00:01:20,580
+sorted, and then reassigned to new trains
+
+16
+00:01:20,581 --> 00:01:23,220
+that will bring them closer to their final destination.
+
+17
+00:01:23,900 --> 00:01:25,960
+Just about anything that's produced in the United States
+
+18
+00:01:25,961 --> 00:01:27,320
+is shipped by rail.
+
+19
+00:01:27,321 --> 00:01:29,600
+So if you're talking about wine or cheese,
+
+20
+00:01:29,601 --> 00:01:33,860
+fresh vegetables, televisions, radios, automobiles,
+
+21
+00:01:33,861 --> 00:01:36,760
+automobile parts, you name it, just about everything
+
+22
+00:01:36,761 --> 00:01:42,160
+that America uses on a daily basis comes through North Platte.
+
+23
+00:01:42,161 --> 00:01:44,440
+The Bailey Yard is strategically located
+
+24
+00:01:44,441 --> 00:01:46,760
+in the center of the Union Pacific Rail Network.
+
+25
+00:01:49,460 --> 00:01:51,720
+The facility is so large, you can't
+
+26
+00:01:51,721 --> 00:01:54,460
+see more than a third of it from any point in the yard.
+
+27
+00:01:55,960 --> 00:02:05,320
+Well, that is, except from the computer screens of the command center, where all rail activity
+
+28
+00:02:05,321 --> 00:02:07,920
+on the yard is monitored.
+
+29
+00:02:07,921 --> 00:02:15,460
+What we do in the BCC, Bailey Command Center, is coordinating the movement of between 130
+
+30
+00:02:15,461 --> 00:02:18,800
+and 180 trains per day.
+
+31
+00:02:18,801 --> 00:02:24,840
+Utilizing computer-based controls, the center monitors all traffic over Bailey Yard's 315
+
+32
+00:02:24,841 --> 00:02:31,340
+miles of track. In addition to locomotive movements, workers process 14,000 freight
+
+33
+00:02:31,341 --> 00:02:33,463
+cars through the yard each day.
+
+34
+00:02:33,464 --> 00:02:37,160
+For some of these cars, their first stop is one of the
+
+35
+00:02:37,161 --> 00:02:40,080
+two classification yards, or hump yards.
+
+36
+00:02:40,081 --> 00:02:42,707
+This is where we process eastbound trains.
+
+37
+00:02:42,708 --> 00:02:45,460
+Trains that come into North Platte are going
+
+38
+00:02:45,461 --> 00:02:48,743
+to be sorted here to their four destinations.
+
+39
+00:02:48,744 --> 00:02:51,880
+So we are taking these cars apart that have
+
+40
+00:02:51,881 --> 00:02:54,340
+come in on a train, and then we're sorting them
+
+41
+00:02:54,341 --> 00:02:56,960
+to go out destinations further points from here.
+
+42
+00:02:57,680 --> 00:03:00,280
+The hump is a three-story man-made hill
+
+43
+00:03:00,281 --> 00:03:04,200
+that allows up to four cars a minute to roll into its bowl.
+
+44
+00:03:05,320 --> 00:03:07,000
+Gravity pulls them off the hill.
+
+45
+00:03:07,700 --> 00:03:09,580
+The computer picks up the weight of the car
+
+46
+00:03:09,581 --> 00:03:11,320
+as it goes over the scale rails here.
+
+47
+00:03:12,800 --> 00:03:15,000
+The car then passes through a system
+
+48
+00:03:15,001 --> 00:03:17,600
+of computerized retarders, or brakes,
+
+49
+00:03:17,800 --> 00:03:21,040
+that pinch the wheels as they go through to slow the car down.
+
+50
+00:03:21,880 --> 00:03:29,180
+It slows them down accordingly, not only to distance that it needs to travel to the other
+
+51
+00:03:29,181 --> 00:03:34,120
+end, but it also computes how much distance is left in the rail.
+
+52
+00:03:34,121 --> 00:03:37,600
+And the computer will go all the way from 12 mile an hour down to one mile an hour if
+
+53
+00:03:37,601 --> 00:03:43,180
+necessary to allow for safe and careful handling of the freight that's inside these cars.
+
+54
+00:03:43,181 --> 00:03:47,600
+It's pretty amazing that the amount of tonnage that's going over this hill, how softly it's
+
+55
+00:03:47,601 --> 00:03:50,880
+handled down here when it hits the bottom end of things.
+
+56
+00:03:50,881 --> 00:03:55,880
+The destination of each car is entered into a computer.
+
+57
+00:03:55,881 --> 00:03:57,880
+It automatically switches the track,
+
+58
+00:03:57,881 --> 00:04:01,880
+so the car rolls directly onto its assigned rail.
+
+59
+00:04:01,881 --> 00:04:05,880
+At the trim tower at the other end of the bowl are trim crews,
+
+60
+00:04:05,881 --> 00:04:07,880
+and what they do is they actually build the trains
+
+61
+00:04:07,881 --> 00:04:09,880
+that are going to leave North Platte.
+
+62
+00:04:09,881 --> 00:04:10,880
+So we take them apart here,
+
+63
+00:04:10,881 --> 00:04:13,880
+they put them back together down there.
+
+64
+00:04:13,881 --> 00:04:16,880
+Remote-controlled switch engines,
+
+65
+00:04:16,881 --> 00:04:20,200
+less powerful locomotives used for switching cars in a rail yard,
+
+66
+00:04:21,240 --> 00:04:25,740
+assemble the trains when enough freight cars going to a single location have been humped.
+
+67
+00:04:26,760 --> 00:04:30,840
+The hump used to be the focal point of the railroad yard.
+
+68
+00:04:31,200 --> 00:04:33,800
+Pretty much all traffic was handled in this fashion.
+
+69
+00:04:34,440 --> 00:04:39,820
+What's changed that has taken the pressure off of this are trains like you see leaving over there.
+
+70
+00:04:40,100 --> 00:04:43,460
+They leave their originating point all in one big chunk.
+
+71
+00:04:43,580 --> 00:04:45,920
+They arrive at their destination in one big chunk.
+
+72
+00:04:45,921 --> 00:04:51,360
+Unit freight, or an entire train consisting of the same type of freight, like a coal train,
+
+73
+00:04:51,361 --> 00:04:55,300
+is treated differently, since it doesn't need to be reassigned.
+
+74
+00:04:55,301 --> 00:05:00,640
+For unit freight, there are 26 run-through tracks, some with pad areas,
+
+75
+00:05:00,641 --> 00:05:06,700
+which allow trains to pull up, refuel, and depart without having to detach from the locomotive.
+
+76
+00:05:06,701 --> 00:05:12,420
+Every train that comes in must have a mechanical inspection by our car forces.
+
+77
+00:05:12,421 --> 00:05:17,760
+We have a NASCAR pit team concept for our locomotives.
+
+78
+00:05:17,940 --> 00:05:23,300
+They're a team of five men and women that attack each locomotive that comes in where they had to be fueled.
+
+79
+00:05:23,880 --> 00:05:26,100
+The oil has to be checked. They shine the windshields.
+
+80
+00:05:26,101 --> 00:05:27,580
+They get the locomotive ready to go.
+
+81
+00:05:28,140 --> 00:05:31,740
+Our goal is to do it in 45 minutes to service the train completely.
+
+82
+00:05:32,300 --> 00:05:38,260
+And then we expect the train crew to be here as soon as we drop our protection, which is blue flags.
+
+83
+00:05:38,261 --> 00:05:45,200
+In addition to these pit stops, the Bailey Yard boasts a locomotive repair depot the
+
+84
+00:05:45,201 --> 00:05:48,140
+size of five football fields.
+
+85
+00:05:48,141 --> 00:05:50,840
+This is not a heavy duty repair facility.
+
+86
+00:05:50,841 --> 00:05:57,200
+What we do here is quarterly maintenance, semi-annual, annual and tri-annual standard
+
+87
+00:05:57,201 --> 00:05:59,980
+maintenance on our locomotives.
+
+88
+00:05:59,981 --> 00:06:06,660
+And just as important, rail cars are serviced at the Bailey Yard as well.
+
+89
+00:06:06,661 --> 00:06:10,160
+Part of the issue we have with Duranmas on occasion
+
+90
+00:06:10,161 --> 00:06:13,760
+are our wheels or axles failing en route.
+
+91
+00:06:13,761 --> 00:06:15,700
+And so our car department employees
+
+92
+00:06:15,701 --> 00:06:18,700
+really focus in on the conditions of wheels and axles
+
+93
+00:06:18,701 --> 00:06:21,780
+as they're coming through our run-through facilities.
+
+94
+00:06:21,781 --> 00:06:26,140
+Four-person crews sort, service, and repair locomotive tires
+
+95
+00:06:26,141 --> 00:06:28,140
+at the train yard.
+
+96
+00:06:28,141 --> 00:06:32,220
+The repair facility handles roughly 50 cars daily.
+
+97
+00:06:32,221 --> 00:06:35,780
+The repair facility handles roughly 50 cars daily,
+
+98
+00:06:36,840 --> 00:06:40,100
+totaling approximately 10,000 pairs of wheels each year.
+
+99
+00:06:41,180 --> 00:06:43,760
+What used to take 12 days to repair
+
+100
+00:06:43,761 --> 00:06:48,080
+takes crews 8 to 12 minutes to get a train back on track.
+
+101
+00:06:49,160 --> 00:06:52,540
+And most important of all are the people at the Bailey Yard.
+
+102
+00:06:53,080 --> 00:06:57,180
+Today, the train yard is home to approximately 2,000 Union Pacific employees
+
+103
+00:06:57,181 --> 00:07:00,740
+that work around the clock 365 days a year.
+
+104
+00:07:00,741 --> 00:07:06,440
+inspecting over 14,000 freight cars a day and keeping freight moving.
+
+105
+00:07:07,520 --> 00:07:10,400
+There's an absolute production mandate at Norplat,
+
+106
+00:07:10,540 --> 00:07:15,200
+whether it's rain, snow, sun, blizzard, high winds.
+
+107
+00:07:15,360 --> 00:07:18,500
+We must hit those production targets because if we don't,
+
+108
+00:07:18,860 --> 00:07:20,780
+we will back up the railroad on both sides.
+
+109
+00:07:20,781 --> 00:07:24,820
+And we cannot have that kind of impact on the Union Pacific system.
+
+110
+00:07:24,821 --> 00:07:35,260
+The Bailey Yard may be the largest rail yard servicing the largest railroad in North America,
+
+111
+00:07:35,261 --> 00:07:42,600
+but it's also a mammoth cog in a much larger machine.
+
+112
+00:07:42,601 --> 00:07:50,580
+We're talking about an $80 billion a year industry.
+
+113
+00:07:50,581 --> 00:07:56,260
+A system so large, it encompasses over 140,000 miles of track
+
+114
+00:07:56,261 --> 00:07:58,060
+and extends to nearly every corner
+
+115
+00:07:58,061 --> 00:08:00,960
+of the continental United States.
+
+116
+00:08:00,961 --> 00:08:02,700
+And it's more than that.
+
+117
+00:08:02,701 --> 00:08:06,900
+It's approximately 38,000 locomotives, 1.7 million
+
+118
+00:08:06,901 --> 00:08:08,120
+freight cars.
+
+119
+00:08:08,121 --> 00:08:11,920
+Its trains average 100 cars long, extending over a mile
+
+120
+00:08:11,921 --> 00:08:13,980
+and a half.
+
+121
+00:08:13,981 --> 00:08:20,000
+It's 1.8 billion tons of freight crossing the country each year.
+
+122
+00:08:20,001 --> 00:08:23,760
+but it was the movement of freight that was the driving force behind the creation of the railroad.
+
+123
+00:08:29,740 --> 00:08:34,520
+The railroad business traces its roots back to rudimentary horse-drawn carts like these,
+
+124
+00:08:36,260 --> 00:08:40,180
+navigating rails in coal mines and stone quarries in the 1820s.
+
+125
+00:08:41,140 --> 00:08:45,920
+The whole principle is that you have steel wheels on steel rails,
+
+126
+00:08:46,140 --> 00:08:48,800
+and that lowers the coefficient of friction.
+
+127
+00:08:48,801 --> 00:08:57,020
+You could pull more with less power on a steel rail than if you were trying to pull a wagon over the mud or dirt roads.
+
+128
+00:08:58,380 --> 00:09:02,100
+Railways that utilized horses to move public goods soon emerged.
+
+129
+00:09:02,600 --> 00:09:08,660
+After 1830, with the Tom Fum and the first successful steam engines, the best friend of Charleston,
+
+130
+00:09:09,200 --> 00:09:15,920
+and those early ones, they proved that steam was reliable and more powerful than horsepower.
+
+131
+00:09:15,921 --> 00:09:23,840
+steam engines quickly replaced horses and mules on rail operations and it didn't take long for
+
+132
+00:09:23,841 --> 00:09:28,560
+railroad entrepreneurs to set their sights on capturing the american freight business
+
+133
+00:09:30,000 --> 00:09:35,920
+a market cornered by the growing east coast canals just about the time it was taking them to build
+
+134
+00:09:35,921 --> 00:09:40,160
+the canals to a standard where they would be really useful you could build a railroad next
+
+135
+00:09:40,161 --> 00:09:45,500
+to the canal and just beat the pants off the canal boats with a train.
+
+136
+00:09:45,501 --> 00:09:50,840
+And the railroad simply technologically replaced the canals almost overnight.
+
+137
+00:09:50,841 --> 00:09:56,000
+Laborers built tracks as fast as humanly possible.
+
+138
+00:09:56,001 --> 00:10:02,920
+By the 1850s, railroad tracks extended from the East Coast to the Great Lakes.
+
+139
+00:10:02,921 --> 00:10:09,840
+In 1869, the Union Pacific and Central Pacific Railroads met at Promontory Summit, Utah,
+
+140
+00:10:09,841 --> 00:10:12,340
+and completed the Transcontinental Railroad.
+
+141
+00:10:14,540 --> 00:10:18,080
+The railroad business expanded very rapidly
+
+142
+00:10:18,081 --> 00:10:20,320
+because you could make a lot of money at it.
+
+143
+00:10:20,321 --> 00:10:22,760
+There was hardly a holler in West Virginia
+
+144
+00:10:22,761 --> 00:10:26,060
+that didn't have a branch line reaching a coal mine.
+
+145
+00:10:26,061 --> 00:10:29,960
+There was hardly a hill or valley in the Pacific Northwest
+
+146
+00:10:29,961 --> 00:10:32,460
+that didn't have a lumber railroad in it.
+
+147
+00:10:32,461 --> 00:10:35,840
+Railroads changed the landscape of America,
+
+148
+00:10:35,841 --> 00:10:39,000
+creating new towns along their tracks,
+
+149
+00:10:39,001 --> 00:10:42,600
+supplying the new population with building materials and other necessities,
+
+150
+00:10:43,220 --> 00:10:46,360
+and carrying far-flung crops to markets back east.
+
+151
+00:10:46,900 --> 00:10:51,980
+They could send their money and their gold and stuff back from California to the bankers in the east.
+
+152
+00:10:52,360 --> 00:10:56,580
+All of the things that people wanted and needed could be brought in by train.
+
+153
+00:10:57,540 --> 00:11:01,220
+But moving America's freight didn't become the complex system of rails
+
+154
+00:11:01,221 --> 00:11:04,040
+that stretches to every corner of the nation overnight.
+
+155
+00:11:04,041 --> 00:11:13,620
+Today, American railroads move more than 5,000 ton miles of freight per person every year,
+
+156
+00:11:13,860 --> 00:11:18,260
+more than any country in the world. But getting there began with tycoons,
+
+157
+00:11:18,900 --> 00:11:25,400
+like Cornelius Vanderbilt, Jay Gould, and Leland Stanford competing to dominate the market.
+
+158
+00:11:26,060 --> 00:11:30,220
+What separates the United States from the rest of the world is that the American railroads
+
+159
+00:11:30,221 --> 00:11:32,060
+were all private enterprise.
+
+160
+00:11:32,061 --> 00:11:35,560
+They were all private companies, highly competitive companies,
+
+161
+00:11:35,561 --> 00:11:39,260
+often run by robber barons who would have financial wars
+
+162
+00:11:39,261 --> 00:11:42,060
+and the whole business.
+
+163
+00:11:42,061 --> 00:11:44,960
+Due to the infighting among the rival railroads,
+
+164
+00:11:44,961 --> 00:11:48,080
+no cohesive system existed to move freight efficiently
+
+165
+00:11:48,081 --> 00:11:51,880
+across the various independently owned lines.
+
+166
+00:11:51,881 --> 00:11:53,880
+During the First World War, there was concern
+
+167
+00:11:53,881 --> 00:11:55,580
+that the railroads wouldn't be able to keep up
+
+168
+00:11:55,581 --> 00:11:57,880
+with the demand for service,
+
+169
+00:11:57,881 --> 00:12:02,020
+and the federal government took over the operation of the railroads
+
+170
+00:12:02,021 --> 00:12:04,020
+under the United States Railway Administration.
+
+171
+00:12:04,780 --> 00:12:08,360
+Their idea was to standardize railroad operating procedures
+
+172
+00:12:08,361 --> 00:12:11,020
+and try to make the railroads more efficient.
+
+173
+00:12:12,560 --> 00:12:16,700
+Soon after the war, the government returned the rails to private enterprise.
+
+174
+00:12:17,340 --> 00:12:19,680
+Twenty years later, by World War II,
+
+175
+00:12:20,300 --> 00:12:24,140
+a collection of independent railroads operated as a coordinated system,
+
+176
+00:12:24,141 --> 00:12:26,500
+and no government intervention was needed.
+
+177
+00:12:26,501 --> 00:12:32,440
+The steel backbone of the nation played its part in winning the war.
+
+178
+00:12:33,440 --> 00:12:38,560
+But by the 1950s, the railroad's monopoly on freight transportation was quickly eroded.
+
+179
+00:12:40,340 --> 00:12:45,180
+Trucking and the newly created interstate highway system threatened to derail the railroads.
+
+180
+00:12:45,540 --> 00:12:51,680
+Then the railroads, which were a network of little feudal domains of different railroads,
+
+181
+00:12:51,760 --> 00:12:56,460
+all competing with each other in a system that was set up to compete among each other,
+
+182
+00:12:56,500 --> 00:13:00,580
+were suddenly having to compete with a new outside competitor.
+
+183
+00:13:02,340 --> 00:13:06,480
+Railroads responded by merging, as well as upgrading and modernizing.
+
+184
+00:13:08,220 --> 00:13:12,820
+And today, freight trains are still the number one way to move goods long distances.
+
+185
+00:13:14,640 --> 00:13:17,220
+An early pioneer was General Electric.
+
+186
+00:13:19,400 --> 00:13:23,280
+Since 1907, GE owned and manufactured locomotives.
+
+187
+00:13:23,281 --> 00:13:32,820
+At this factory in Erie, Pennsylvania, 208-ton, 44,000-horsepower diesel electric beasts roared to life.
+
+188
+00:13:32,821 --> 00:13:39,040
+General Electric needs approximately 26 days to completely build one of these steel giants,
+
+189
+00:13:39,041 --> 00:13:42,940
+and the last 12 days are spent in this final assembly building.
+
+190
+00:13:42,941 --> 00:13:49,680
+This is Station 1, the first station of a four-station final assembly process for the locomotive.
+
+191
+00:13:49,681 --> 00:13:55,720
+In station one, you can see where the platform is brought in and inverted in the upside-down position.
+
+192
+00:13:58,720 --> 00:14:02,640
+Workers install sensitive electronics and piping to the undercarriage.
+
+193
+00:14:04,120 --> 00:14:08,360
+Next is a staging area for pre-built components waiting to be installed.
+
+194
+00:14:09,280 --> 00:14:16,020
+This is an example of the Evolution Series engine that is really the heart and soul of the Evolution Series locomotive.
+
+195
+00:14:16,021 --> 00:14:24,460
+The 44,000 horsepower diesel engine produces with 12 cylinders what the previous engines needed 16 cylinders to accomplish.
+
+196
+00:14:24,940 --> 00:14:31,980
+The new Evolution Series locomotive engine is 3% more fuel efficient than its predecessor engines.
+
+197
+00:14:32,540 --> 00:14:37,620
+The average locomotive will burn approximately 350,000 gallons a year.
+
+198
+00:14:37,621 --> 00:14:49,962
+And if you expand that over a 20-year life, the 3% improvement in fuel efficiency correlates to about 200,000 gallons less diesel fuel is burned over the life of the
+
+199
+00:14:49,963 --> 00:14:50,663
+product.
+
+200
+00:14:52,600 --> 00:14:57,220
+With the frame now upright, the engine and other components are ready to be put in place.
+
+201
+00:14:57,800 --> 00:15:02,820
+This is really where the locomotive assembly process turns into an automated assembly line.
+
+202
+00:15:02,821 --> 00:15:08,460
+The platform from station one is brought down and put into its upright position.
+
+203
+00:15:08,900 --> 00:15:13,580
+And here we will start to place the individual cabs and components on the platform
+
+204
+00:15:13,581 --> 00:15:17,020
+and start to do the final assembly of the locomotive.
+
+205
+00:15:19,600 --> 00:15:23,400
+The locomotive starts taking shape as it advances down the line
+
+206
+00:15:23,401 --> 00:15:27,100
+in what workers call the world's largest air hockey table.
+
+207
+00:15:27,960 --> 00:15:31,200
+What happens is we'll connect an air hose to the air jacks.
+
+208
+00:15:31,201 --> 00:15:35,020
+the air will slightly elevate the locomotive platform
+
+209
+00:15:35,021 --> 00:15:38,560
+and move it down from one workstation to the other,
+
+210
+00:15:39,000 --> 00:15:40,920
+which is kind of impressive when you think of,
+
+211
+00:15:41,180 --> 00:15:45,420
+as it nears the final workstation, it's over 300,000 pounds.
+
+212
+00:15:46,880 --> 00:15:52,080
+But the 75-foot-long, 16-foot-high steel behemoths aren't finished yet.
+
+213
+00:15:52,460 --> 00:15:55,340
+At this point, the locomotive is essentially complete,
+
+214
+00:15:55,440 --> 00:15:56,780
+except for the truck assemblies.
+
+215
+00:15:57,320 --> 00:16:00,360
+From here, we'll lift the locomotive assembly off the air jacks
+
+216
+00:16:00,361 --> 00:16:03,600
+and take it over to Station 4.
+
+217
+00:16:03,601 --> 00:16:06,820
+A crane operator lifts the 150-ton locomotive
+
+218
+00:16:06,821 --> 00:16:11,160
+over the factory floor and deposits it gently
+
+219
+00:16:11,161 --> 00:16:13,640
+onto a set of trucks or wheel assemblies.
+
+220
+00:16:19,420 --> 00:16:22,000
+After the locomotive is completed in Station 4,
+
+221
+00:16:22,001 --> 00:16:24,480
+it's brought back to one of our paint booths.
+
+222
+00:16:24,481 --> 00:16:26,960
+And you can see here, it's in the initial stages
+
+223
+00:16:26,961 --> 00:16:30,260
+of being prepared for the final paint job.
+
+224
+00:16:30,261 --> 00:16:33,560
+Specific colors and logos to identify a company's freight
+
+225
+00:16:33,561 --> 00:16:36,400
+is key for safety and brand recognition.
+
+226
+00:16:36,401 --> 00:16:39,220
+And with that, a custom paint job is complete
+
+227
+00:16:39,221 --> 00:16:41,060
+for this BNSF locomotive.
+
+228
+00:16:44,120 --> 00:16:46,340
+In the initial years of the railroad,
+
+229
+00:16:46,341 --> 00:16:48,760
+the biggest obstacle was simply making sure
+
+230
+00:16:48,761 --> 00:16:51,800
+the trains carrying expensive cargo could go the distance.
+
+231
+00:16:53,580 --> 00:16:56,620
+This shiny new Goliath is much smarter and much cleaner
+
+232
+00:16:56,621 --> 00:16:58,640
+than the power and might that ruled the rails
+
+233
+00:16:58,641 --> 00:17:00,600
+for nearly two centuries before.
+
+234
+00:17:04,020 --> 00:17:05,740
+The development of the steam locomotive
+
+235
+00:17:05,741 --> 00:17:08,880
+was both evolutionary and revolutionary.
+
+236
+00:17:08,881 --> 00:17:11,880
+The biggest problem initially was finding the proportions,
+
+237
+00:17:11,881 --> 00:17:15,160
+the proportions between the boiler, the cylinders,
+
+238
+00:17:15,161 --> 00:17:18,060
+the drivers, and the linkage mechanisms.
+
+239
+00:17:18,061 --> 00:17:21,000
+The first locomotive that really got it all right
+
+240
+00:17:21,001 --> 00:17:23,240
+in the right proportions was a locomotive
+
+241
+00:17:23,241 --> 00:17:24,500
+called the John Bull.
+
+242
+00:17:26,360 --> 00:17:28,500
+Mechanics put the John Bull into commission
+
+243
+00:17:28,501 --> 00:17:32,580
+in 1831, and it became the first locomotive ever
+
+244
+00:17:32,581 --> 00:17:34,440
+to be duplicated.
+
+245
+00:17:34,441 --> 00:17:37,520
+But the wood-burning model was quickly outmoded,
+
+246
+00:17:37,521 --> 00:17:42,440
+as locomotives increased rapidly in size and power.
+
+247
+00:17:42,441 --> 00:17:45,280
+Wood was used generally in the American railroads
+
+248
+00:17:45,281 --> 00:17:47,700
+till sometime right after the Civil War.
+
+249
+00:17:47,701 --> 00:17:50,740
+And what happened was that a lot of territories
+
+250
+00:17:50,741 --> 00:17:53,300
+that the railroads are going in, in the prairies and the plains,
+
+251
+00:17:53,301 --> 00:17:55,960
+there weren't any trees around.
+
+252
+00:17:55,961 --> 00:17:59,560
+Most locomotives introduced at the end of the 19th century burned coal.
+
+253
+00:18:00,400 --> 00:18:06,820
+Back in those days, about every three, four years, you'd get a larger locomotive.
+
+254
+00:18:07,020 --> 00:18:10,640
+They just kept advancing the technology every couple of years.
+
+255
+00:18:11,200 --> 00:18:12,500
+And it's like your automobile.
+
+256
+00:18:12,760 --> 00:18:17,940
+Somebody would come out with a new model, and the railroads would try it out and find out that,
+
+257
+00:18:17,941 --> 00:18:21,100
+yeah, this is pretty efficient, and we'll buy some of these.
+
+258
+00:18:21,760 --> 00:18:25,300
+Early 20th century locomotives easily dwarfed their predecessors.
+
+259
+00:18:25,301 --> 00:18:28,800
+Their size and power may have changed drastically.
+
+260
+00:18:28,801 --> 00:18:31,800
+However, there were a few fundamental changes
+
+261
+00:18:31,801 --> 00:18:32,800
+in how they worked.
+
+262
+00:18:35,800 --> 00:18:38,800
+Pressurized steam enters one side of the cylinder
+
+263
+00:18:38,801 --> 00:18:40,800
+and pushes the piston away.
+
+264
+00:18:40,801 --> 00:18:43,800
+A valve shifts the steam to the other side
+
+265
+00:18:43,801 --> 00:18:45,800
+and forces the piston back.
+
+266
+00:18:45,801 --> 00:18:49,300
+A series of connected rods convert the piston's back-and-forth
+
+267
+00:18:49,301 --> 00:18:53,800
+motion to the rotational motion of the wheels.
+
+268
+00:18:53,801 --> 00:19:00,800
+By the Second World War, the steam locomotive had reached its pinnacle of technological development,
+
+269
+00:19:00,801 --> 00:19:03,800
+and it had an unlikely replacement.
+
+270
+00:19:05,800 --> 00:19:09,800
+The diesel was introduced in the 1920s.
+
+271
+00:19:09,801 --> 00:19:14,800
+It was not considered to be a real road-worthy locomotive.
+
+272
+00:19:14,801 --> 00:19:19,800
+They were used as switch engines, they were used in specialties, they were used in lightweight streamliners,
+
+273
+00:19:19,801 --> 00:19:22,800
+but they weren't really considered a threat.
+
+274
+00:19:23,800 --> 00:19:33,198
+The Electromotive Corporation in Cleveland, Ohio, decided that until they could replace a full-size steam locomotive with a diesel, the diesel wasn't going to get
+
+275
+00:19:33,199 --> 00:19:33,899
+anywhere.
+
+276
+00:19:34,220 --> 00:19:46,280
+So in 1939, they created the FT freight diesel, which was a two-unit diesel, had two 16-cylinder engines rated at 1,350 horsepower each.
+
+277
+00:19:46,500 --> 00:19:50,420
+And that locomotive single-handedly killed the steam engine.
+
+278
+00:19:50,421 --> 00:19:56,580
+For railroaders like Bernie O'Brien, who spent decades working on steam locomotives
+
+279
+00:19:56,581 --> 00:20:00,620
+like the Union Pacific Challenger, the switch to diesel was bittersweet.
+
+280
+00:20:00,621 --> 00:20:04,900
+It was a sad thing for me to see that happen.
+
+281
+00:20:04,901 --> 00:20:10,360
+Our last Challengers were only six years old when they phased them out of service, which
+
+282
+00:20:10,361 --> 00:20:13,600
+is just pretty hard to believe.
+
+283
+00:20:13,601 --> 00:20:19,060
+The steam locomotive did not fail as a machine because it wasn't a good puller of freight.
+
+284
+00:20:19,061 --> 00:20:22,520
+The steam locomotive was extremely labor intensive,
+
+285
+00:20:22,521 --> 00:20:25,840
+and it required a lot of care.
+
+286
+00:20:25,841 --> 00:20:27,640
+The diesel is like your automobile.
+
+287
+00:20:27,641 --> 00:20:28,720
+It's automatic.
+
+288
+00:20:28,721 --> 00:20:30,920
+You fire it up and it goes.
+
+289
+00:20:30,921 --> 00:20:32,920
+The mechanics of a diesel locomotive
+
+290
+00:20:32,921 --> 00:20:37,480
+are very different from those of a steam engine.
+
+291
+00:20:37,481 --> 00:20:39,760
+In the cylinder, a fuel-air mixture
+
+292
+00:20:39,761 --> 00:20:43,280
+is compressed by the piston to a point where it ignites.
+
+293
+00:20:43,281 --> 00:20:45,800
+The explosion forces the piston down,
+
+294
+00:20:45,801 --> 00:20:48,860
+which turns the crankshaft.
+
+295
+00:20:48,861 --> 00:20:53,000
+An alternator then converts the motion of the crankshaft into electrical power,
+
+296
+00:20:53,360 --> 00:20:59,100
+which is fed down to individual traction motors on each axle to turn the wheels of a locomotive.
+
+297
+00:21:01,280 --> 00:21:07,260
+Well, one of the advantages of diesel power is that you could couple as many units together
+
+298
+00:21:07,261 --> 00:21:10,520
+as you needed for power to get it over the road.
+
+299
+00:21:10,521 --> 00:21:16,380
+It just depends upon how much power you needed, and one man controlled all of those units.
+
+300
+00:21:16,381 --> 00:21:18,980
+Like their steam predecessors,
+
+301
+00:21:19,080 --> 00:21:21,920
+each generation of diesel electric locomotives
+
+302
+00:21:22,020 --> 00:21:24,520
+continued to outpace the last.
+
+303
+00:21:24,620 --> 00:21:26,920
+Today's freight locomotives are able to haul
+
+304
+00:21:27,020 --> 00:21:30,020
+more tonnage than ever, but it's a feat that requires
+
+305
+00:21:30,120 --> 00:21:31,520
+more than just horsepower.
+
+306
+00:21:35,140 --> 00:21:38,340
+With its punishing uphill grade, tight curves,
+
+307
+00:21:38,440 --> 00:21:42,280
+and steep descent, Southern California's Cajon Pass
+
+308
+00:21:42,380 --> 00:21:44,680
+is one of the most treacherous railroad routes
+
+309
+00:21:44,681 --> 00:21:47,680
+in the United States.
+
+310
+00:21:47,681 --> 00:21:50,180
+Patrick Marquez, a locomotive engineer
+
+311
+00:21:50,181 --> 00:21:52,680
+for the Burlington Northern Santa Fe,
+
+312
+00:21:52,681 --> 00:21:54,180
+used to make the grinding journey
+
+313
+00:21:54,181 --> 00:21:57,680
+at the mountain pass several times a week.
+
+314
+00:21:57,681 --> 00:22:00,180
+He does this with a mile and a half of freight,
+
+315
+00:22:00,181 --> 00:22:06,680
+which weighs upwards of 6,000 tons trailing behind the engines.
+
+316
+00:22:06,681 --> 00:22:08,680
+It's normally a two-man operation.
+
+317
+00:22:08,681 --> 00:22:11,180
+A conductor who serves as the manager of the train
+
+318
+00:22:11,181 --> 00:22:13,680
+and its rolling stock...
+
+319
+00:22:13,681 --> 00:22:17,960
+BNSF 7644 East Farmer Bryant, over.
+
+320
+00:22:17,961 --> 00:22:21,720
+And the engineer, or train driver.
+
+321
+00:22:21,721 --> 00:22:24,460
+But for this grueling journey, a second engineer
+
+322
+00:22:24,461 --> 00:22:26,820
+with two helper locomotives couples
+
+323
+00:22:26,821 --> 00:22:30,460
+onto the rear of the train to push it to the top of the hill.
+
+324
+00:22:34,700 --> 00:22:36,260
+Helper's going to contact me and let
+
+325
+00:22:36,261 --> 00:22:37,840
+me know when he's getting a release
+
+326
+00:22:37,841 --> 00:22:40,080
+on the rear end of the train, and then we'll leave.
+
+327
+00:22:43,680 --> 00:22:46,020
+Here we go.
+
+328
+00:22:46,021 --> 00:22:49,020
+So now he just gave me the signal that air brakes are releasing.
+
+329
+00:22:51,680 --> 00:22:54,060
+We come right off the brakes, give some throttle,
+
+330
+00:22:54,061 --> 00:22:54,800
+and we take off.
+
+331
+00:22:58,300 --> 00:22:59,600
+As soon as we take this corner, you're
+
+332
+00:22:59,601 --> 00:23:02,160
+going to notice our speed dropping dramatically,
+
+333
+00:23:02,161 --> 00:23:04,800
+because the hill is all the way up that to the summit.
+
+334
+00:23:07,240 --> 00:23:10,940
+The engines must provide 64,000 pounds of tractive effort
+
+335
+00:23:10,941 --> 00:23:12,240
+to propel the train forward.
+
+336
+00:23:13,680 --> 00:23:18,420
+The more power we exert into the traction motor,
+
+337
+00:23:18,421 --> 00:23:22,680
+the more likely that that wheel has the opportunity to spin.
+
+338
+00:23:22,681 --> 00:23:26,000
+In order to keep it from spinning, we'll use sand,
+
+339
+00:23:26,001 --> 00:23:31,260
+and that will put a grit or sandpaper underneath the wheel
+
+340
+00:23:31,261 --> 00:23:35,840
+so we don't have metal to metal, and it'll keep it moving.
+
+341
+00:23:35,841 --> 00:23:38,740
+Today's locomotives are equipped with an electronic traction
+
+342
+00:23:38,741 --> 00:23:40,320
+control system.
+
+343
+00:23:40,321 --> 00:23:43,060
+The system uses compressed air to spray sand
+
+344
+00:23:43,061 --> 00:23:45,700
+from a nozzle in front of each wheel.
+
+345
+00:23:45,701 --> 00:23:48,800
+If I spin my wheels, the computer will sense a wheel
+
+346
+00:23:48,801 --> 00:23:50,860
+slip, like on a car.
+
+347
+00:23:50,861 --> 00:23:51,860
+You know, you feel it.
+
+348
+00:23:51,861 --> 00:23:53,860
+And you'll also feel it in here.
+
+349
+00:23:53,861 --> 00:23:55,520
+And I'll get a little signal in here.
+
+350
+00:23:55,521 --> 00:23:57,600
+It'll say, wheel slip.
+
+351
+00:23:57,601 --> 00:23:59,700
+Before the helper is clear block, I'll plug back.
+
+352
+00:23:59,701 --> 00:24:02,260
+Engineer Marquez is in constant communication
+
+353
+00:24:02,261 --> 00:24:04,160
+with the helper locomotive engineer
+
+354
+00:24:04,161 --> 00:24:06,000
+at the back of his train.
+
+355
+00:24:06,001 --> 00:24:07,500
+If we didn't pick up those helpers,
+
+356
+00:24:07,501 --> 00:24:09,620
+we'd probably be getting a lot of wheel slip.
+
+357
+00:24:09,621 --> 00:24:11,720
+The wheels would just be slipping.
+
+358
+00:24:11,721 --> 00:24:15,320
+we wouldn't have enough power to pull this up the hill.
+
+359
+00:24:15,321 --> 00:24:18,300
+It takes a lot of effort to get more than 12 million pounds
+
+360
+00:24:18,301 --> 00:24:20,300
+to the top of the hill.
+
+361
+00:24:20,301 --> 00:24:22,260
+Gravity's pulling it that way.
+
+362
+00:24:22,261 --> 00:24:23,660
+I'm trying to pull it that way, right?
+
+363
+00:24:31,200 --> 00:24:35,140
+If we stopped out here, and if I released my brakes
+
+364
+00:24:35,141 --> 00:24:39,140
+without giving it power, we'd start rolling back.
+
+365
+00:24:39,141 --> 00:24:40,880
+With all the tools on board to keep
+
+366
+00:24:40,881 --> 00:24:45,855
+his train moving forward, Marquez can sit back and enjoy the ride to the top.
+
+367
+00:24:45,856 --> 00:24:46,760
+Well, sort of.
+
+368
+00:24:46,761 --> 00:24:53,891
+That's an alerter. It's like a safety device. Just basically to keep me awake.
+
+369
+00:24:53,892 --> 00:24:54,592
+If I'm
+
+370
+00:24:54,593 --> 00:25:00,572
+capacitated somehow and the alerter times out, it'll apply the brakes at a service rate.
+
+371
+00:25:00,573 --> 00:25:01,273
+It'll
+
+372
+00:25:01,274 --> 00:25:03,744
+just slow the train down gradually and just come to a stop.
+
+373
+00:25:03,745 --> 00:25:05,420
+I just hit this button, the alerter
+
+374
+00:25:05,421 --> 00:25:07,920
+reset that every time pops up.
+
+375
+00:25:07,921 --> 00:25:10,820
+If I do something with the throttle, brakes,
+
+376
+00:25:10,821 --> 00:25:12,760
+something like that, it'll reset it too,
+
+377
+00:25:12,761 --> 00:25:14,980
+because it's showing that I'm awake, you know.
+
+378
+00:25:14,981 --> 00:25:15,980
+I'll move the controls.
+
+379
+00:25:18,660 --> 00:25:20,960
+Marquez has to stop his train at the summit
+
+380
+00:25:20,961 --> 00:25:23,920
+to let off the helper engines.
+
+381
+00:25:23,921 --> 00:25:26,320
+All I got to do is throttle down,
+
+382
+00:25:26,321 --> 00:25:28,480
+and the train will stall out, come to a stop.
+
+383
+00:25:32,760 --> 00:25:35,040
+This stop was planned, but not all of them
+
+384
+00:25:35,041 --> 00:25:38,800
+can be.
+
+385
+00:25:38,801 --> 00:25:40,920
+If we're moving 20 mile an hour and we're coming down
+
+386
+00:25:40,921 --> 00:25:44,880
+to Mountain Gray territory, and this train weighs roughly
+
+387
+00:25:44,881 --> 00:25:48,160
+6,000 ton or more, it could possibly take us a quarter
+
+388
+00:25:48,161 --> 00:25:53,940
+of a mile to stop the train in an emergency application.
+
+389
+00:25:53,941 --> 00:25:56,280
+And as every early railroader knew,
+
+390
+00:25:56,281 --> 00:25:58,500
+being unable to stop a speeding train
+
+391
+00:25:58,501 --> 00:26:01,080
+was, well, a train wreck.
+
+392
+00:26:05,040 --> 00:26:10,200
+The earliest railroads used hand brakes of various types.
+
+393
+00:26:10,480 --> 00:26:15,060
+Often this was as simple as a lever with a wooden block going against the wheel.
+
+394
+00:26:15,560 --> 00:26:20,440
+As the cars got bigger, they would go to what we would call a stem winder
+
+395
+00:26:20,441 --> 00:26:24,960
+that tightened a chain that pulled iron shoes against the wheels,
+
+396
+00:26:24,961 --> 00:26:27,600
+but they all had to be done by hand.
+
+397
+00:26:29,140 --> 00:26:33,880
+Every five or six cars would have a brake man who had to apply the brakes on each of his cars.
+
+398
+00:26:33,881 --> 00:26:42,675
+And the brakeman was probably one of the most dangerous jobs in railroading because there was this chance that you would be thrown off the car or lose your footing in
+
+399
+00:26:42,676 --> 00:26:43,376
+that.
+
+400
+00:26:43,377 --> 00:26:49,600
+But you had to walk from car to car on the roofs of the cars applying the handbrakes in order to stop the train.
+
+401
+00:26:50,200 --> 00:26:54,740
+But back then, the workers were considered expendable, and that's what it took to stop trains.
+
+402
+00:26:56,800 --> 00:27:03,120
+In 1866, George Westinghouse took on the challenge of finding a more effective way to stop a train.
+
+403
+00:27:03,121 --> 00:27:07,120
+And by 1873, he developed what remains to this day
+
+404
+00:27:07,121 --> 00:27:11,120
+one of the most significant safety inventions of all time,
+
+405
+00:27:11,121 --> 00:27:14,120
+the automatic air brake.
+
+406
+00:27:14,121 --> 00:27:18,120
+The air brakes on a freight train are supplied with compressed air from the locomotive.
+
+407
+00:27:18,121 --> 00:27:24,120
+As the air reservoir in each car fills, it trips a valve to release the brakes on that car.
+
+408
+00:27:26,120 --> 00:27:31,120
+Only when the last car disengages its brakes can the train move.
+
+409
+00:27:31,121 --> 00:27:35,720
+The system is failsafe, as any reduction of this air pressure,
+
+410
+00:27:35,721 --> 00:27:40,120
+such as a rupture in the air supply hose, causes the brakes to be applied.
+
+411
+00:27:40,121 --> 00:27:44,560
+When Diesel Electric replaced the steam locomotive,
+
+412
+00:27:44,561 --> 00:27:47,520
+it brought with it another revolutionary technology,
+
+413
+00:27:47,521 --> 00:27:50,620
+dynamic braking to supplement air brakes.
+
+414
+00:27:50,621 --> 00:27:53,620
+Back at the Cajon Pass,
+
+415
+00:27:53,621 --> 00:27:57,460
+engineer Marquez relies upon dynamic braking
+
+416
+00:27:57,461 --> 00:28:01,120
+to start his downhill descent. I'm in dynamic braking now,
+
+417
+00:28:01,121 --> 00:28:03,960
+it just turns the traction motors into big resistors.
+
+418
+00:28:07,100 --> 00:28:09,620
+Instead of feeding power to the wheels,
+
+419
+00:28:09,621 --> 00:28:13,700
+the traction motors now take power from the wheels.
+
+420
+00:28:13,701 --> 00:28:16,240
+The energy is dissipated as heat.
+
+421
+00:28:16,241 --> 00:28:20,640
+The underpowered traction motors have become hard to turn,
+
+422
+00:28:20,641 --> 00:28:24,480
+thereby providing resistance to the wheels, slowing the train.
+
+423
+00:28:27,740 --> 00:28:29,620
+The more I move this lever forward,
+
+424
+00:28:29,621 --> 00:28:33,460
+It demands more amps, which basically slows the motors down,
+
+425
+00:28:33,900 --> 00:28:34,900
+adds resistance to them.
+
+426
+00:28:34,980 --> 00:28:36,880
+So they're the ones slowing us down now,
+
+427
+00:28:37,160 --> 00:28:39,580
+which means I've got to be prepared to add more amps
+
+428
+00:28:39,581 --> 00:28:41,020
+to keep my train under control.
+
+429
+00:28:43,660 --> 00:28:46,080
+Dynamic brakes are very useful on downgrades
+
+430
+00:28:46,081 --> 00:28:49,340
+and save a considerable amount of wear on air brake shoes.
+
+431
+00:28:53,020 --> 00:28:54,900
+Gravity's just pulling us downhill.
+
+432
+00:28:55,760 --> 00:28:58,680
+Like I said, I have resistance on my head end
+
+433
+00:28:58,681 --> 00:29:03,280
+because I turn these traction motors into resistors.
+
+434
+00:29:03,281 --> 00:29:05,280
+So the wheels are turning around, trying to slow us down.
+
+435
+00:29:05,281 --> 00:29:07,060
+The engines are trying to slow us down.
+
+436
+00:29:07,061 --> 00:29:09,400
+The train's just pushing against our engine,
+
+437
+00:29:09,401 --> 00:29:12,560
+and I can try and control my speed with the dynamic brakes.
+
+438
+00:29:12,561 --> 00:29:14,900
+As we get faster, if I don't want to go too fast,
+
+439
+00:29:14,901 --> 00:29:18,040
+I'll add more dynamic brakes trying to slow down
+
+440
+00:29:18,041 --> 00:29:20,960
+or keep our speed constant.
+
+441
+00:29:20,961 --> 00:29:25,740
+If I want to gain some speed, I can reduce my dynamic braking,
+
+442
+00:29:25,741 --> 00:29:28,240
+which means the wheels will turn easier on the engines.
+
+443
+00:29:28,241 --> 00:29:29,660
+It means gravity will shove more.
+
+444
+00:29:31,580 --> 00:29:36,640
+But the dynamic brakes may not be enough to keep this freight train from becoming a roller coaster ride.
+
+445
+00:29:37,460 --> 00:29:39,280
+I'm in full dynamic brakes.
+
+446
+00:29:39,720 --> 00:29:43,980
+I'm demanding 35 kilopounds from my motors and all that resistance.
+
+447
+00:29:44,420 --> 00:29:45,940
+The train's just going too fast.
+
+448
+00:29:46,520 --> 00:29:48,940
+I'm just going to keep picking up speed unless I do something.
+
+449
+00:29:49,880 --> 00:29:52,340
+So now I'll slow my train down with some air brakes.
+
+450
+00:29:54,480 --> 00:29:57,860
+Essentially, he's riding the brakes the rest of the journey down.
+
+451
+00:29:58,240 --> 00:30:04,640
+When Marquez's 6,000-ton train reaches the bottom,
+
+452
+00:30:05,640 --> 00:30:10,240
+it becomes yet another train that has successfully negotiated the Cajon Pass
+
+453
+00:30:10,241 --> 00:30:15,400
+and transported hundreds of freight containers over the mountains.
+
+454
+00:30:16,520 --> 00:30:20,840
+And the containers it carries are significant beyond the goods they hold.
+
+455
+00:30:21,700 --> 00:30:23,860
+With the increase in imports coming from Asia,
+
+456
+00:30:24,500 --> 00:30:28,180
+these freight containers have come to rejuvenate the railroad industry.
+
+457
+00:30:28,240 --> 00:30:36,080
+Over 7 million containers enter the ports of Los Angeles and Long Beach every year.
+
+458
+00:30:38,640 --> 00:30:40,920
+More than anywhere else in the United States.
+
+459
+00:30:41,920 --> 00:30:47,180
+They are intermodal loads, containers designed to flow easily from one mode of transport to another.
+
+460
+00:30:47,740 --> 00:30:51,060
+And they have revolutionized and revitalized the rail industry.
+
+461
+00:30:51,740 --> 00:30:56,900
+Intermodal containers are an extension of the container ship operations that are here at the Port of Los Angeles.
+
+462
+00:30:56,901 --> 00:30:59,660
+Containers come off the ship, they move on to the dock,
+
+463
+00:30:59,661 --> 00:31:01,440
+and then they're either moved out by truck
+
+464
+00:31:01,441 --> 00:31:04,280
+or moved out by rail.
+
+465
+00:31:04,281 --> 00:31:07,140
+Over 50 trains leave the twin ports of Los Angeles
+
+466
+00:31:07,141 --> 00:31:09,820
+and Long Beach on a daily basis,
+
+467
+00:31:09,821 --> 00:31:14,520
+each carrying approximately 220 containers.
+
+468
+00:31:14,521 --> 00:31:17,860
+That keeps about 11,000 trucks off congested Los Angeles
+
+469
+00:31:17,861 --> 00:31:21,700
+freeways every day.
+
+470
+00:31:21,701 --> 00:31:25,420
+The advent of trade with Asia, especially in the last 20 years,
+
+471
+00:31:25,421 --> 00:31:27,180
+and specifically China in the last 10,
+
+472
+00:31:27,181 --> 00:31:30,860
+has doubled the amount of volume that is coming into the West Coast ports
+
+473
+00:31:30,861 --> 00:31:32,420
+over that period of time.
+
+474
+00:31:32,421 --> 00:31:37,420
+And the container trains have really been a way to be an outlet for that for large volumes.
+
+475
+00:31:39,020 --> 00:31:41,700
+And intermodal train traffic coming out of the ports
+
+476
+00:31:41,701 --> 00:31:46,420
+is expected to double to 100 trains daily in the next two decades.
+
+477
+00:31:46,421 --> 00:31:51,420
+Over 60% of the cargo that comes through these ports, containerized cargo,
+
+478
+00:31:51,421 --> 00:31:54,740
+in the form of imports, is destined for the rest of the nation.
+
+479
+00:31:54,741 --> 00:31:57,400
+And the first stop, or the first passage, if you will,
+
+480
+00:31:57,401 --> 00:31:59,520
+for that traffic is on the Alameda Corridors.
+
+481
+00:31:59,521 --> 00:32:03,220
+It heads east to service the rest of the nation.
+
+482
+00:32:03,221 --> 00:32:05,420
+The 20-mile-long corridor is essentially
+
+483
+00:32:05,421 --> 00:32:09,860
+an expressway for trains,
+
+484
+00:32:09,861 --> 00:32:13,060
+connecting the ports to rail yards east of the city.
+
+485
+00:32:13,061 --> 00:32:17,560
+This 10-mile section that we fondly refer to as the trench
+
+486
+00:32:17,561 --> 00:32:19,440
+was kind of the crown jewel of the program.
+
+487
+00:32:19,441 --> 00:32:22,240
+It's 10 miles long, represents about one-half
+
+488
+00:32:22,241 --> 00:32:24,740
+the length of the overall corridor.
+
+489
+00:32:24,741 --> 00:32:28,440
+In the trench, train travels unimpeded beneath city traffic.
+
+490
+00:32:29,320 --> 00:32:34,040
+A journey that once took almost two hours has been cut to only 45 minutes.
+
+491
+00:32:34,540 --> 00:32:36,140
+It's really a national asset.
+
+492
+00:32:37,060 --> 00:32:41,260
+What the Alameda Corridor represents is probably one of the strongest links
+
+493
+00:32:41,261 --> 00:32:44,060
+in the transcontinental rail network at this point in time.
+
+494
+00:32:47,340 --> 00:32:51,980
+Intermodal freight has surpassed coal as the number one revenue generator for the rail industry.
+
+495
+00:32:51,981 --> 00:32:57,460
+And the articulated well car, designed to carry intermodal containers,
+
+496
+00:32:58,140 --> 00:33:01,920
+helped railroads remain relevant in the competitive world of freight transportation.
+
+497
+00:33:03,200 --> 00:33:07,080
+Each car is able to fit one container in a depressed well area.
+
+498
+00:33:07,900 --> 00:33:12,120
+With another resting on top, the well area lowers the height of the load,
+
+499
+00:33:12,640 --> 00:33:17,180
+allowing it to make bridge and tunnel clearances, as well as lowering its center of gravity.
+
+500
+00:33:17,820 --> 00:33:22,460
+The double-stack opportunity provides two for the price of one in a given car space.
+
+501
+00:33:22,800 --> 00:33:26,100
+So the loading volumes can increase, the cost per unit drops,
+
+502
+00:33:26,200 --> 00:33:30,380
+and makes the rail a very, very efficient and cost-effective way to move cargo.
+
+503
+00:33:30,920 --> 00:33:34,180
+Of course, the well car isn't the first freight car to fill a special need.
+
+504
+00:33:36,280 --> 00:33:39,880
+The earliest freight cars were simple platforms with wheels attached.
+
+505
+00:33:40,340 --> 00:33:42,540
+But soon enough, sides were added.
+
+506
+00:33:43,320 --> 00:33:46,140
+This particular type of car here is a gondola.
+
+507
+00:33:46,141 --> 00:33:48,940
+Now, it's gondola, not gondola.
+
+508
+00:33:48,941 --> 00:33:50,140
+All those are in Venice.
+
+509
+00:33:50,141 --> 00:33:52,140
+There are none on America's railroads.
+
+510
+00:33:52,141 --> 00:33:56,140
+This particular type of car was one of the earlier types of cars.
+
+511
+00:33:56,141 --> 00:34:00,140
+But gondolas were no match for harsh winters,
+
+512
+00:34:00,141 --> 00:34:05,140
+extremely hot summers, and long treks between settled areas of the U.S.
+
+513
+00:34:05,141 --> 00:34:08,140
+This called for an enclosed car.
+
+514
+00:34:08,141 --> 00:34:13,140
+Thus, the boxcar, an icon of American freight railroading, was born.
+
+515
+00:34:13,141 --> 00:34:18,140
+Boxcars often functioned as rolling billboards for the railroads they served.
+
+516
+00:34:18,141 --> 00:34:21,140
+Boxcars were modified in several other car types.
+
+517
+00:34:21,141 --> 00:34:26,140
+With open slats on the side, it was modified into a cattle car to carry cattle.
+
+518
+00:34:26,141 --> 00:34:33,140
+With heavy insulation and ice bunkers in either end, it could be used as a refrigerator car to haul perishable items.
+
+519
+00:34:33,141 --> 00:34:38,140
+Refers, or refrigerator cars, changed the way America ate.
+
+520
+00:34:38,141 --> 00:34:43,820
+The refrigerator car was essentially an ice box on wheels, and this worked well until
+
+521
+00:34:43,821 --> 00:34:47,600
+the advent of the frozen food industry.
+
+522
+00:34:47,601 --> 00:34:49,520
+Enter the mechanical refrigerator car.
+
+523
+00:34:49,521 --> 00:34:55,980
+In the early 1950s, a small diesel engine was used to power a refrigeration device.
+
+524
+00:34:55,981 --> 00:35:01,340
+The cars then became, instead of ice boxes on wheels, actual refrigerators on wheels.
+
+525
+00:35:01,341 --> 00:35:05,500
+This spelled the doom of the iced reefer.
+
+526
+00:35:05,501 --> 00:35:11,220
+The rail industry was able to accommodate just about every market in the United States.
+
+527
+00:35:11,221 --> 00:35:14,740
+The petroleum age led to the introduction of the tank car.
+
+528
+00:35:14,741 --> 00:35:19,360
+The automobile revolution led to the emergence of the auto rack.
+
+529
+00:35:19,361 --> 00:35:25,160
+And the piggyback, or TOFC trailer on flat car, was developed in response to trucking
+
+530
+00:35:25,161 --> 00:35:27,180
+competition in the 1950s.
+
+531
+00:35:27,181 --> 00:35:32,620
+But with the proliferation of freight car designs came the demise of another railroad
+
+532
+00:35:32,621 --> 00:35:35,260
+car, the caboose.
+
+533
+00:35:35,261 --> 00:35:38,900
+Radios made possible to work with fewer people.
+
+534
+00:35:39,240 --> 00:35:42,520
+So you didn't need four or five people to run a train.
+
+535
+00:35:42,620 --> 00:35:45,860
+You could run a train pretty effectively with two or three people.
+
+536
+00:35:46,160 --> 00:35:50,540
+The caboose became an unnecessary appendage on the rear of the train.
+
+537
+00:35:51,240 --> 00:35:54,420
+Technology caught up with the caboose in the form of FRED.
+
+538
+00:35:55,280 --> 00:35:57,540
+FRED means flashing rear-end device.
+
+539
+00:35:58,140 --> 00:36:03,020
+For the men who lost their jobs as a result of this, the F had a different connotation.
+
+540
+00:36:05,260 --> 00:36:12,260
+The dumb Fred can be anything from a blinking light to a simple red flag stuck on the end of the last car.
+
+541
+00:36:12,261 --> 00:36:20,260
+Smart Fred, or the end of train device as it came to be called, can radio information about the airline pressure
+
+542
+00:36:20,261 --> 00:36:25,260
+as well as let the engineer know what the cars at the end of the train are doing.
+
+543
+00:36:25,261 --> 00:36:29,260
+But it's not just the end of the train that's gotten smarter.
+
+544
+00:36:29,261 --> 00:36:32,800
+Railroad operations are moving full throttle
+
+545
+00:36:32,801 --> 00:36:36,960
+to the very cutting edge of the information age.
+
+546
+00:36:40,900 --> 00:36:44,040
+At any given time, there are thousands of trains
+
+547
+00:36:44,041 --> 00:36:46,460
+snaking their way across the North American continent.
+
+548
+00:36:48,100 --> 00:36:49,600
+Their paths intersect.
+
+549
+00:36:50,120 --> 00:36:51,460
+They share some of the same rail
+
+550
+00:36:51,461 --> 00:36:54,840
+and may even use the same line in opposing directions.
+
+551
+00:36:55,840 --> 00:36:58,340
+It may sound like a train wreck just waiting to happen.
+
+552
+00:36:59,260 --> 00:37:09,900
+But every move of every train is closely monitored and calculated by dispatchers located at operation
+
+553
+00:37:09,901 --> 00:37:11,640
+centers throughout the United States.
+
+554
+00:37:12,300 --> 00:37:17,260
+The train crew has a responsibility to operate the train, but the train dispatcher gives them
+
+555
+00:37:17,261 --> 00:37:18,060
+the route to run on.
+
+556
+00:37:19,240 --> 00:37:25,760
+Train dispatchers are the rulers of the rails, and no move can be made without their authorization.
+
+557
+00:37:25,761 --> 00:37:34,080
+BNSF Railway's Network Operations Center is command central for the dispatchers of one
+
+558
+00:37:34,081 --> 00:37:36,080
+of the largest railroads in North America.
+
+559
+00:37:36,081 --> 00:37:41,700
+The facility is 45,000 square feet, about the size of a football field.
+
+560
+00:37:41,701 --> 00:37:45,520
+We house at any given time about 225 employees.
+
+561
+00:37:45,521 --> 00:37:51,400
+There's 94 different dispatching workstations.
+
+562
+00:37:51,401 --> 00:37:57,720
+dispatcher's territory is 200 to 500 miles and their planning horizon is two to three hours ahead
+
+563
+00:37:59,640 --> 00:38:04,200
+he or she has a screen with a track layout on the computer screen and it's all point and click the
+
+564
+00:38:04,201 --> 00:38:10,760
+dispatcher can point to a switch or a route and direct that train's movement over that
+
+565
+00:38:10,761 --> 00:38:16,920
+which is just a point and click operation this way it's the dispatcher that selects the path of the
+
+566
+00:38:16,921 --> 00:38:20,360
+the train, not the engineer.
+
+567
+00:38:20,361 --> 00:38:23,460
+So it's imperative that the dispatchers know exactly where
+
+568
+00:38:23,461 --> 00:38:25,760
+their trains are at all times.
+
+569
+00:38:25,761 --> 00:38:27,600
+We've got two different tracking mechanisms.
+
+570
+00:38:27,601 --> 00:38:30,440
+One's through the signal system that actually tracks trains
+
+571
+00:38:30,441 --> 00:38:33,480
+through electric current in the rail that brings the information
+
+572
+00:38:33,481 --> 00:38:35,700
+into the train dispatcher's dispatching system.
+
+573
+00:38:35,701 --> 00:38:39,600
+And then secondly, we've got a wireless AEI automatic equipment
+
+574
+00:38:39,601 --> 00:38:43,240
+identification that wirelessly transmits information
+
+575
+00:38:43,241 --> 00:38:46,320
+into the train dispatcher and gives him or her location
+
+576
+00:38:46,321 --> 00:38:47,021
+route.
+
+577
+00:38:47,022 --> 00:38:53,580
+And this is basically an RFID that we place on all the rail cars, all the locomotives,
+
+578
+00:38:53,581 --> 00:38:56,917
+on every rail car in North America.
+
+579
+00:38:56,918 --> 00:39:02,160
+BNSF has around 500 AEI readers and as the trains go by
+
+580
+00:39:02,161 --> 00:39:09,000
+these readers it energizes the tag and captures what car that is or what locomotive that is and
+
+581
+00:39:09,001 --> 00:39:15,240
+then we use that information to update our mainframe and identify exactly what's on the train at that
+
+582
+00:39:15,241 --> 00:39:17,480
+point in time.
+
+583
+00:39:17,481 --> 00:39:20,740
+Within a few seconds of a train going by a reader,
+
+584
+00:39:20,741 --> 00:39:23,740
+the information is available to the dispatchers at the network
+
+585
+00:39:23,741 --> 00:39:28,380
+operations center, as well as to customers online.
+
+586
+00:39:28,381 --> 00:39:31,480
+But since readers may be up to 100 miles apart,
+
+587
+00:39:31,481 --> 00:39:35,220
+and conductors set out cars at various points along the route,
+
+588
+00:39:35,221 --> 00:39:38,860
+dispatchers need even more accurate reporting.
+
+589
+00:39:38,861 --> 00:39:45,240
+BNSF on a daily basis has around 1,400 trains in operation.
+
+590
+00:39:45,241 --> 00:39:46,580
+The trains go through a reader,
+
+591
+00:39:47,280 --> 00:39:48,600
+reporting critical information
+
+592
+00:39:48,601 --> 00:39:50,580
+through the Voice Train Reporting application.
+
+593
+00:39:51,640 --> 00:39:54,500
+The application automatically converts verbal information
+
+594
+00:39:54,501 --> 00:39:56,200
+into computer data.
+
+595
+00:39:56,660 --> 00:39:59,120
+So they basically just use the radio that they have,
+
+596
+00:39:59,200 --> 00:40:00,300
+they tell us what they did.
+
+597
+00:40:00,740 --> 00:40:02,340
+Within nine seconds,
+
+598
+00:40:02,540 --> 00:40:04,240
+that information's updated in our mainframe.
+
+599
+00:40:05,360 --> 00:40:07,240
+This information can be anything
+
+600
+00:40:07,241 --> 00:40:09,560
+from picking up cars to leaving cars out
+
+601
+00:40:09,561 --> 00:40:11,960
+at various sidetracks and yards along the route.
+
+602
+00:40:11,961 --> 00:40:17,160
+Handheld computers are also used to report car movement.
+
+603
+00:40:18,360 --> 00:40:23,400
+This would be very similar to what UPS does in that that's how they keep track of their packages.
+
+604
+00:40:24,200 --> 00:40:26,120
+This is how we keep track of our rail cars.
+
+605
+00:40:26,220 --> 00:40:29,080
+And if you consider a rail car as just a lot bigger package,
+
+606
+00:40:29,660 --> 00:40:35,560
+this is basically where we track where we left the car, when we left it there,
+
+607
+00:40:35,561 --> 00:40:40,360
+and it's how we identify to the conductor you need to go pick up that package.
+
+608
+00:40:40,361 --> 00:40:47,360
+Railroads are now exploring innovative ways to utilize Wi-Fi and GPS technologies to increase rail safety.
+
+609
+00:40:47,361 --> 00:40:53,360
+An example of a safety initiative is electronic train management system, or ETMS as we call it.
+
+610
+00:41:02,360 --> 00:41:09,360
+The locomotive on-board system would have the authority that's granted to the train, the speed, the distance,
+
+611
+00:41:09,361 --> 00:41:13,180
+the distance that they have to travel with the authority that's been issued.
+
+612
+00:41:13,620 --> 00:41:16,440
+The system automatically takes control of the train
+
+613
+00:41:16,441 --> 00:41:20,200
+if the engineer exceeds the authority given to him by the dispatcher,
+
+614
+00:41:20,840 --> 00:41:22,200
+fails to acknowledge his signal,
+
+615
+00:41:22,800 --> 00:41:25,660
+or even if he's about to take a curve too quickly.
+
+616
+00:41:26,440 --> 00:41:30,500
+The system constantly monitors information about the path ahead of the train
+
+617
+00:41:30,501 --> 00:41:33,440
+and determines what actions are required from the engineer.
+
+618
+00:41:34,000 --> 00:41:37,400
+It gives a warning to the engineer if he's not taking the appropriate action
+
+619
+00:41:37,401 --> 00:41:39,500
+to stop or slow down the train.
+
+620
+00:41:39,960 --> 00:41:43,960
+If they violate that or don't react to stop the train
+
+621
+00:41:43,961 --> 00:41:45,400
+before they get to the end of their authority,
+
+622
+00:41:45,560 --> 00:41:46,960
+it'll automatically stop the train.
+
+623
+00:41:48,560 --> 00:41:51,920
+Once implemented, ETMS will allow railroads
+
+624
+00:41:51,921 --> 00:41:53,960
+to run trains more safely and efficiently.
+
+625
+00:41:55,660 --> 00:41:59,060
+So as we move forward faster than ever before,
+
+626
+00:41:59,420 --> 00:42:02,100
+we can be sure that the rail industry will continue
+
+627
+00:42:02,101 --> 00:42:05,720
+to be the best and most cost-effective way to move freight.
+

@@ -1,0 +1,49 @@
+# Credit Roll: Insulation (2006)
+**Canonical Episode:** [`MME00515: Insulation`](../episodes/MME00515.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 2006 A&E Television Networks All Rights Reserved`
+* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
+* **Narrator:** MAX RAPHAEL, JOHN KNAPP
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Accountant** | DIANA STOLPE |
+| **Animated Photos by** | ADAM GOODWIN |
+| **Animation by** | VICTOR BORNIA |
+| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM, ALEXANDER RUBINOW |
+| **Assistant Post Coordinator** | JEREMIAH DOCKRAY |
+| **Associate Producer** | KAYLAN EGGERT |
+| **Camera** | VICTOR ALAZONES, DAVE BAKER, RODDY BLELLOCH, DANIEL "DJ" COCORAN, TRAVIS JOHNSON, JOHN KABASAKALIS, JOHN MURLOWSKI, CHRIS PYLE, MARK WEILER |
+| **Clearance Coordinators** | LAWRENCE GIVENS III, AARON ZOBER |
+| **Coordinators** | BONI OSMANI, BRAD SKILES |
+| **Created by** | BRUCE NASH |
+| **Director of Research** | ALLISON BOON |
+| **Director of Rights and Clearances** | KATIE DEL CORE |
+| **Edited by** | SCOT KELLY |
+| **Executive Producer** | DON CAMBOU |
+| **Field Audio** | CHRISTOPHER GURNEY, JOHN LAROSA, ROGER LOUIE, DENNIS MAHR, JIM McMANUS, HERMAN RICH, ALEX ROSSNER, BARTLEY SHEDRON |
+| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
+| **For The History Channel / Programming Coordinator** | MICHELE WILCOX |
+| **Historical Consultant** | RICK BYNUM, AIA |
+| **Line Producer** | PAUL DZILVELIS |
+| **Music by** | GUY THOMAS |
+| **Narrated by** | MAX RAPHAEL |
+| **Online Editor** | JOHN PRICE |
+| **Post Assistants** | ROB HARRINGTON, GAYLEN KOBAYASHI |
+| **Post Coordinator** | TERRENCE HARTWELL |
+| **Post Producer** | TIM KNAUFF |
+| **Producer** | BRUCE NASH |
+| **Production Controller** | DANI ESLIN |
+| **Production Manager** | SHELIA COLLINS |
+| **Researchers** | ULDIS BALODIS, BRADLEY COMBEST, JOHN KNAPP |
+| **Sound Mixer** | ED THACKER |
+| **Voice Over Coordinator** | JOHN KNAPP |
+| **Written and Produced by** | GREG GOLDMAN |
+
+---
+[← Return to Episode Dossier](../episodes/MME00515.md)

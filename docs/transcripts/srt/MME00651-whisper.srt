@@ -1,0 +1,2724 @@
+1
+00:00:01,000 --> 00:00:03,300
+If you're wondering how far or how long,
+
+2
+00:00:03,301 --> 00:00:06,300
+how heavy, how fast, or how cold,
+
+3
+00:00:06,301 --> 00:00:08,400
+when you need to know what you're working with,
+
+4
+00:00:08,401 --> 00:00:09,800
+you've got to measure it.
+
+5
+00:00:09,801 --> 00:00:12,000
+From radar guns to atomic clocks,
+
+6
+00:00:12,001 --> 00:00:14,000
+speedometers to whale scales,
+
+7
+00:00:14,001 --> 00:00:17,000
+the high-precision tools that bear the heaviest loads,
+
+8
+00:00:17,001 --> 00:00:20,200
+feel the heat, and respond to the slightest touch,
+
+9
+00:00:20,201 --> 00:00:23,000
+allow us to build our civilization.
+
+10
+00:00:23,001 --> 00:00:27,000
+Now, measure it on Modern Marvels.
+
+11
+00:00:30,000 --> 00:00:40,540
+Your alarm clock erupts.
+
+12
+00:00:42,000 --> 00:00:45,180
+It's chilly, so you crank up the thermostat before making breakfast.
+
+13
+00:00:46,460 --> 00:00:49,420
+You flip on the news to see what the weather will be like outside.
+
+14
+00:00:50,700 --> 00:00:54,620
+It's not even 8 a.m., and you've already encountered a series of measurements.
+
+15
+00:00:54,621 --> 00:01:00,100
+and the rest of your day will be guided by an inescapable string of numbers that define your
+
+16
+00:01:00,101 --> 00:01:06,140
+world. In your car, at the office, on the road, and even on the bathroom floor.
+
+17
+00:01:06,141 --> 00:01:07,440
+Nearly everywhere
+
+18
+00:01:07,441 --> 00:01:13,100
+you go and everything you do depends on measurements. They're what lifted us from
+
+19
+00:01:13,101 --> 00:01:15,515
+the Stone Age into civilization.
+
+20
+00:01:15,516 --> 00:01:20,420
+To ensure that we get the right amount of fruit, gas, or postage,
+
+21
+00:01:20,421 --> 00:01:25,060
+the National Institute of Standards and Technology, or NIST,
+
+22
+00:01:25,820 --> 00:01:28,120
+defines all of these measurements and more.
+
+23
+00:01:28,620 --> 00:01:34,760
+We are responsible for what's known as realization of the primary units of measurement.
+
+24
+00:01:34,761 --> 00:01:39,720
+We are charged with the research and the dissemination of the basic units
+
+25
+00:01:39,721 --> 00:01:41,820
+by which we all measure our lives.
+
+26
+00:01:43,720 --> 00:01:47,680
+NIST was born out of tragedies like the Great Baltimore Fire of 1904,
+
+27
+00:01:47,681 --> 00:01:54,120
+which wouldn't have been such a disaster if all the United States were operating under a standardized set of measurements.
+
+28
+00:01:56,180 --> 00:01:59,540
+During that fire, 1,500 buildings burnt to the ground.
+
+29
+00:02:00,300 --> 00:02:04,968
+The Baltimore Fire Department called for help, and crews came from Washington, D.C.
+
+30
+00:02:04,969 --> 00:02:05,980
+and New York City.
+
+31
+00:02:06,400 --> 00:02:12,040
+But when they arrived in Baltimore City, they found that their hose couplings did not match the couplings of Baltimore fire hydrants.
+
+32
+00:02:12,041 --> 00:02:21,080
+And so they were not able to help, and the importance of standards for things like hose couplings and fire hydrant fixtures became very, very apparent.
+
+33
+00:02:22,520 --> 00:02:36,144
+For the seven base units of measurement, length, mass, time, electrical current, temperature, moles, or the number of elemental bodies in a substance, and luminous
+
+34
+00:02:36,145 --> 00:02:39,320
+intensity, the standards are all here.
+
+35
+00:02:40,220 --> 00:02:43,260
+NIST maintains the meter, our critical length standard.
+
+36
+00:02:44,640 --> 00:02:50,340
+In 1791, the French Academy of Sciences divided the longitude from the North Pole to the equator,
+
+37
+00:02:50,880 --> 00:02:53,340
+through Paris, into 10 million parts.
+
+38
+00:02:54,220 --> 00:02:55,880
+Each fraction represented one meter.
+
+39
+00:02:57,260 --> 00:03:02,020
+In 1889, the International Bureau of Weights and Measures created a meter bar
+
+40
+00:03:02,021 --> 00:03:05,540
+made of a platinum iridium alloy to act as the standard.
+
+41
+00:03:05,541 --> 00:03:14,140
+This is the United States actual meter bar, the one that every length measurement was traced to for over 90 years.
+
+42
+00:03:15,440 --> 00:03:17,440
+The meter bar proved impractical.
+
+43
+00:03:18,480 --> 00:03:24,980
+The metal alloy is worth over $100,000, but it's still susceptible to wear, and therefore change.
+
+44
+00:03:25,740 --> 00:03:30,340
+So in 1983, the world's measurement community agreed to redefine the meter
+
+45
+00:03:30,341 --> 00:03:33,200
+as the distance light travels in a vacuum
+
+46
+00:03:33,201 --> 00:03:40,200
+in one 299,792,458th of a second.
+
+47
+00:03:42,760 --> 00:03:43,900
+But hold on.
+
+48
+00:03:44,540 --> 00:03:46,960
+Why does America care so much about a unit of measurement
+
+49
+00:03:46,961 --> 00:03:48,240
+it doesn't readily use?
+
+50
+00:03:49,040 --> 00:03:51,960
+It's been estimated, in fact, that U.S. manufacturers,
+
+51
+00:03:52,100 --> 00:03:55,120
+about 75% of them, are totally metric.
+
+52
+00:03:56,120 --> 00:03:59,440
+For Americans, the continued use of the inch-pound system
+
+53
+00:03:59,441 --> 00:04:01,120
+is merely a historical holdover.
+
+54
+00:04:01,560 --> 00:04:03,880
+As colonists from Great Britain,
+
+55
+00:04:04,120 --> 00:04:06,140
+we didn't have our own measurement system,
+
+56
+00:04:06,380 --> 00:04:08,440
+so we brought what we were familiar with
+
+57
+00:04:08,441 --> 00:04:10,480
+when we came to the United States.
+
+58
+00:04:11,920 --> 00:04:15,340
+The U.S. customary system is mathematically impractical.
+
+59
+00:04:17,220 --> 00:04:18,500
+Twelve inches are in a foot,
+
+60
+00:04:19,120 --> 00:04:20,320
+three feet are in a yard,
+
+61
+00:04:21,000 --> 00:04:24,240
+and 1,760 yards are in a mile.
+
+62
+00:04:27,040 --> 00:04:29,400
+Conversely, the base unit of length in the metric system
+
+63
+00:04:29,401 --> 00:04:33,660
+is a meter and its other units are expressed in multiples of 10.
+
+64
+00:04:35,880 --> 00:04:37,860
+A kilometer is a thousand meters.
+
+65
+00:04:39,880 --> 00:04:43,480
+Regardless of whether you're working with metric or the U.S. customary system,
+
+66
+00:04:44,020 --> 00:04:47,340
+your measurement is only as accurate as the instrument being used.
+
+67
+00:04:51,580 --> 00:04:54,300
+The standard length measurement regulated by NIST
+
+68
+00:04:54,301 --> 00:04:57,080
+is the basis for how companies like Stanley Tools
+
+69
+00:04:57,081 --> 00:05:01,720
+create professional and consumer distance measuring devices.
+
+70
+00:05:01,820 --> 00:05:04,880
+At its manufacturing facility in New Britain, Connecticut,
+
+71
+00:05:04,980 --> 00:05:08,320
+workers roll out more than 10 million tape measures a year.
+
+72
+00:05:08,420 --> 00:05:12,220
+Stanley was founded in 1843 really
+
+73
+00:05:12,320 --> 00:05:15,840
+around hardware products, which are hinges and the like,
+
+74
+00:05:15,940 --> 00:05:17,840
+by Frederick T. Stanley and his brother.
+
+75
+00:05:17,940 --> 00:05:20,340
+The old adage, measure twice and cut once,
+
+76
+00:05:20,440 --> 00:05:21,940
+has been with us forever.
+
+77
+00:05:22,040 --> 00:05:23,840
+And if you're inaccurate in what you do,
+
+78
+00:05:23,940 --> 00:05:25,840
+then every other part of that project
+
+79
+00:05:25,841 --> 00:05:29,680
+project or that development will be incorrect.
+
+80
+00:05:29,681 --> 00:05:31,580
+Each step in the manufacturing process
+
+81
+00:05:31,581 --> 00:05:33,540
+is essential to the final product's ability
+
+82
+00:05:33,541 --> 00:05:36,680
+to take an accurate length measurement.
+
+83
+00:05:36,681 --> 00:05:38,660
+We're at the slitter, which is the beginning
+
+84
+00:05:38,661 --> 00:05:40,220
+of our tape roll operation.
+
+85
+00:05:40,221 --> 00:05:42,860
+This is where we take wide band material
+
+86
+00:05:42,861 --> 00:05:45,520
+and we slid it into whatever size our customer requires.
+
+87
+00:05:45,521 --> 00:05:48,140
+Each tape roll has a blade, and it also
+
+88
+00:05:48,141 --> 00:05:49,880
+has a spring that's about two thirds
+
+89
+00:05:49,881 --> 00:05:50,880
+of the length of a blade.
+
+90
+00:05:50,881 --> 00:05:53,600
+So what we have here is a tool that's actually
+
+91
+00:05:53,601 --> 00:05:58,880
+slitting seven pieces of one inch wide tape rule material.
+
+92
+00:05:58,881 --> 00:06:03,360
+These massive steel wheels will become individual tape measures.
+
+93
+00:06:03,361 --> 00:06:08,980
+To make the tool easier for one person to use, the tape measure has to have good standout.
+
+94
+00:06:08,981 --> 00:06:12,600
+Standout is how far can this blade measure something with one person, essentially.
+
+95
+00:06:12,601 --> 00:06:15,840
+How long will it stand out on its own?
+
+96
+00:06:15,841 --> 00:06:21,240
+This product will stand out 11 feet, which is an industry best.
+
+97
+00:06:21,241 --> 00:06:23,140
+To achieve a desirable level of standout,
+
+98
+00:06:23,620 --> 00:06:25,700
+the steel blades for the spring and the tape rule
+
+99
+00:06:25,701 --> 00:06:28,260
+must be heat-treated and tempered after they're slit.
+
+100
+00:06:30,120 --> 00:06:33,920
+What we're doing here is we're hardening the material in this furnace.
+
+101
+00:06:34,200 --> 00:06:36,080
+It's coming up to like 1,800 degrees.
+
+102
+00:06:36,440 --> 00:06:37,860
+Then we're quenching it with water.
+
+103
+00:06:38,220 --> 00:06:40,580
+This process also gives the tape rule its curve.
+
+104
+00:06:42,360 --> 00:06:43,980
+After the blades have their bath,
+
+105
+00:06:44,520 --> 00:06:46,540
+machines apply the signature yellow paint
+
+106
+00:06:46,541 --> 00:06:48,380
+to the entire length of the tape rule.
+
+107
+00:06:49,020 --> 00:06:50,760
+Then workers haul them off to printing.
+
+108
+00:06:51,240 --> 00:06:53,880
+These are two bands that we print our tape rolls with.
+
+109
+00:06:54,280 --> 00:06:57,260
+One band is black that we put graduations on.
+
+110
+00:06:57,340 --> 00:06:58,540
+That's the important part of printing.
+
+111
+00:06:58,920 --> 00:07:01,560
+The second band is the red band that are the graphics.
+
+112
+00:07:02,720 --> 00:07:04,940
+The so-called laser interferometer,
+
+113
+00:07:05,560 --> 00:07:09,120
+utilized by Stanley Tools to ensure the accuracy of each of its tape measures,
+
+114
+00:07:09,740 --> 00:07:11,900
+is traceable to the NIST standardized meter.
+
+115
+00:07:14,800 --> 00:07:17,140
+If the graduations on the rule are off,
+
+116
+00:07:17,740 --> 00:07:20,800
+Stanley can compress or stretch the bands to adjust the print.
+
+117
+00:07:21,240 --> 00:07:26,840
+After we've printed a coil, we take one blade, bring it into this gauge, and this gauge at
+
+118
+00:07:26,841 --> 00:07:30,720
+pre-described increments measures from four inches to the end of the blade.
+
+119
+00:07:30,721 --> 00:07:35,420
+If this sample is accurate, then all the tape rolls from the previous sample are also accurate.
+
+120
+00:07:35,421 --> 00:07:39,600
+This is our in-process check to ensure the accuracy of everything that we manufacture.
+
+121
+00:07:39,601 --> 00:07:43,200
+The device actually measures to the center of every single graduation.
+
+122
+00:07:43,201 --> 00:07:48,440
+As an example, any particular rule setup has variances along the length, and this machine
+
+123
+00:07:48,441 --> 00:07:53,840
+you will find five discrete points and check for tolerance at that point.
+
+124
+00:07:53,841 --> 00:08:00,200
+Thousands of years before NIST and the rest of the world agreed on length standards for the graduations on this tape,
+
+125
+00:08:00,201 --> 00:08:05,080
+ancient civilizations were creating their own methods for measuring distance.
+
+126
+00:08:05,081 --> 00:08:13,680
+In the Fertile Crescent, as early as 5000 BC, the Sumerians created the first units of length based on human anatomy.
+
+127
+00:08:13,681 --> 00:08:15,980
+The distance from the elbow to the fingertips
+
+128
+00:08:15,981 --> 00:08:20,980
+was called a cue and is still known today as the cubit.
+
+129
+00:08:20,981 --> 00:08:24,520
+The ancient Egyptians borrowed the cubit from the Sumerians.
+
+130
+00:08:24,521 --> 00:08:28,200
+Thousands and thousands of workers who built the pyramids
+
+131
+00:08:28,201 --> 00:08:31,540
+were able to take transfers from this master cubit
+
+132
+00:08:31,541 --> 00:08:34,300
+and do the design and the construction of the pyramid.
+
+133
+00:08:34,301 --> 00:08:37,280
+And in fact, the pyramid was built within an accuracy
+
+134
+00:08:37,281 --> 00:08:39,540
+of 0.05%.
+
+135
+00:08:39,541 --> 00:08:43,180
+Using these wooden sticks that were calibrated
+
+136
+00:08:43,181 --> 00:08:46,020
+of the master royal granite cubit.
+
+137
+00:08:46,021 --> 00:08:49,420
+The calibration, in fact, was required to take place once
+
+138
+00:08:49,421 --> 00:08:52,180
+every moon under penalty of death.
+
+139
+00:08:52,181 --> 00:08:54,020
+We have somewhat less stringent requirements
+
+140
+00:08:54,021 --> 00:08:57,020
+for recalibration intervals now.
+
+141
+00:08:57,021 --> 00:08:59,520
+Ancient scribes and engineers all over the world
+
+142
+00:08:59,521 --> 00:09:02,440
+use the human figure measurements.
+
+143
+00:09:02,441 --> 00:09:05,440
+We get our inch from an old English measurement,
+
+144
+00:09:05,441 --> 00:09:09,840
+the width of a man's thumb at the base of the nail.
+
+145
+00:09:09,841 --> 00:09:13,980
+We actually get our foot from the length of a man's foot.
+
+146
+00:09:13,981 --> 00:09:16,480
+Our yard could have been the length of a man's nose
+
+147
+00:09:16,481 --> 00:09:18,720
+to his fingertips.
+
+148
+00:09:18,721 --> 00:09:23,520
+And our mile, or mele passum, was devised by the Romans
+
+149
+00:09:23,521 --> 00:09:25,740
+and literally translated to 1,000 paces.
+
+150
+00:09:28,360 --> 00:09:30,620
+In reality, the variations among these measurements
+
+151
+00:09:30,621 --> 00:09:34,180
+were vast, but they still led to cultural advancement
+
+152
+00:09:34,181 --> 00:09:36,340
+and expanded trade.
+
+153
+00:09:36,341 --> 00:09:38,980
+Empires had to agree on how to measure their goods
+
+154
+00:09:38,981 --> 00:09:42,420
+in order to price them in a marketplace with ever-growing borders.
+
+155
+00:09:42,421 --> 00:09:46,920
+But today, the comparability community, if you will, is now worldwide.
+
+156
+00:09:46,921 --> 00:09:49,920
+And so these local standards don't do us any good anymore.
+
+157
+00:09:49,921 --> 00:09:53,880
+We need globally accepted standards.
+
+158
+00:09:53,881 --> 00:09:57,740
+And that takes us back to Stanley and its strict adherence to NIST standards.
+
+159
+00:10:00,480 --> 00:10:04,540
+If the tape rule sample is good, workers load the rolls into machines
+
+160
+00:10:04,541 --> 00:10:08,120
+that glue on a protective mylar film.
+
+161
+00:10:08,121 --> 00:10:11,460
+Machines then cut the rolls into 250 individual measuring tapes.
+
+162
+00:10:13,360 --> 00:10:20,100
+Each tape is inspected before assembly to weed out any physical abnormalities that would affect its ability to take an accurate measurement.
+
+163
+00:10:21,440 --> 00:10:29,380
+If they find an anomaly, not only do they select that blade out for a strap, but they also determine the root cause so we can correct that problem.
+
+164
+00:10:29,381 --> 00:10:32,520
+It involves some 87 different attributes that they look for.
+
+165
+00:10:38,120 --> 00:10:40,820
+Workers move approved blades onto the assembly line,
+
+166
+00:10:41,280 --> 00:10:42,760
+where they're hooked to their springs,
+
+167
+00:10:44,180 --> 00:10:46,340
+encased, screwed tight,
+
+168
+00:10:46,920 --> 00:10:48,340
+and packaged for shipment.
+
+169
+00:10:49,960 --> 00:10:52,260
+Stanley may turn out a high-precision tape rule,
+
+170
+00:10:52,620 --> 00:10:55,680
+but it's only good for measuring relatively short distances.
+
+171
+00:10:57,700 --> 00:11:00,560
+How do you measure the distance around something really big
+
+172
+00:11:00,561 --> 00:11:02,900
+or to something really far away?
+
+173
+00:11:02,901 --> 00:11:10,240
+Surveyors have used triangulation since the 6th century BC to measure the heights of mountains
+
+174
+00:11:10,241 --> 00:11:12,960
+and sea islands in order to make better maps.
+
+175
+00:11:12,961 --> 00:11:15,680
+First, they find the distance to the mountain
+
+176
+00:11:15,681 --> 00:11:20,572
+by measuring angles to it from locations at either end of a fixed baseline.
+
+177
+00:11:20,573 --> 00:11:21,420
+Then they use
+
+178
+00:11:21,421 --> 00:11:24,999
+a known altitude to find the angle to the top of the mountain.
+
+179
+00:11:25,000 --> 00:11:27,020
+With that angle, they can calculate
+
+180
+00:11:27,021 --> 00:11:28,775
+the mountain's height.
+
+181
+00:11:28,776 --> 00:11:33,960
+Over 2,000 years ago, Eratosthenes cleverly used triangulation to
+
+182
+00:11:33,961 --> 00:11:39,380
+measure the circumference of the Earth. His calculation was off by less than 1%.
+
+183
+00:11:39,381 --> 00:11:47,920
+And even today, astronomers use triangulation to measure a star's distance from the Earth.
+
+184
+00:11:49,900 --> 00:11:53,860
+Since stars are so far away, their distance is measured in light years.
+
+185
+00:11:53,861 --> 00:11:59,800
+The distance light speeding at 186,000 miles a second travels in one year.
+
+186
+00:12:01,340 --> 00:12:05,680
+So we can measure the distance to a star because we can measure time.
+
+187
+00:12:06,660 --> 00:12:11,140
+And we get that essential time measurement from the most accurate clock on Earth.
+
+188
+00:12:11,720 --> 00:12:17,360
+But why does the world need a clock 100 million times more accurate than the one on your wrist?
+
+189
+00:12:17,361 --> 00:12:20,651
+In the 1960s, NIST moved from Washington, D.C.
+
+190
+00:12:20,652 --> 00:12:32,100
+to Gaithersburg, Maryland, in part because the vibrations from city traffic were strong enough to affect the organization's ability to take proper measurements.
+
+191
+00:12:33,340 --> 00:12:35,860
+Measure It will return on Modern Marvels.
+
+192
+00:12:37,340 --> 00:12:40,900
+We now return to Measure It on Modern Marvels.
+
+193
+00:12:43,180 --> 00:12:45,320
+Our lives are ruled by measurements.
+
+194
+00:12:45,321 --> 00:12:51,320
+If you don't think so, try to get through your day without looking at a clock.
+
+195
+00:12:51,321 --> 00:12:54,320
+We measure time as if our lives depend on them.
+
+196
+00:12:54,321 --> 00:12:58,320
+And they do.
+
+197
+00:12:58,321 --> 00:13:02,320
+Leave it to NIST to build the world's most accurate timekeeping instrument,
+
+198
+00:13:02,321 --> 00:13:05,320
+the NIST F1 atomic clock.
+
+199
+00:13:05,321 --> 00:13:08,320
+So how accurate is the most accurate clock on Earth?
+
+200
+00:13:08,321 --> 00:13:13,320
+We originally said, well, we want to get an accuracy of about 10 to the minus 15 out of this clock,
+
+201
+00:13:13,321 --> 00:13:16,080
+and it's now at 3 times 10 to the minus 16.
+
+202
+00:13:19,160 --> 00:13:23,620
+And that means that's the equivalent of the clock losing
+
+203
+00:13:23,621 --> 00:13:26,560
+or gaining one second in about 100 million years.
+
+204
+00:13:27,300 --> 00:13:30,500
+Stephen Jeffords, with NIST's Time and Frequency Division,
+
+205
+00:13:31,120 --> 00:13:34,200
+has led the F1 project from its inception in 1996.
+
+206
+00:13:34,740 --> 00:13:38,360
+We call this an atomic clock, and it's really not a clock
+
+207
+00:13:38,361 --> 00:13:41,000
+in the way that you tend to think of a clock.
+
+208
+00:13:41,001 --> 00:13:43,480
+It doesn't have hands, and it doesn't tell time.
+
+209
+00:13:43,640 --> 00:13:46,740
+All it does is tell me how long a second is.
+
+210
+00:13:47,260 --> 00:13:52,000
+It doesn't put a label on the second to say that it's 5 o'clock in the afternoon.
+
+211
+00:13:52,440 --> 00:13:57,260
+It will just tell me the difference between 5 o'clock and 5001.
+
+212
+00:13:57,900 --> 00:14:01,880
+The standard second, like the meter, is based on a natural phenomenon,
+
+213
+00:14:02,580 --> 00:14:08,880
+the oscillation between the nucleus of a cesium-133 atom and its surrounding electrons.
+
+214
+00:14:08,881 --> 00:14:14,920
+Before the first atomic clock, NIST faced the second on astronomical observations,
+
+215
+00:14:14,921 --> 00:14:20,060
+and it was recorded as one 86,400th of a solar day.
+
+216
+00:14:22,400 --> 00:14:28,100
+But by the early 1900s, researchers had already concluded that the measurement was problematic.
+
+217
+00:14:28,520 --> 00:14:33,920
+So it turns out that the rotation of the Earth on its axis is not a very good clock.
+
+218
+00:14:34,120 --> 00:14:37,820
+The Earth wobbles, it doesn't rotate at the same speed all the time.
+
+219
+00:14:38,280 --> 00:14:40,680
+Sometimes it slows down, sometimes it speeds up.
+
+220
+00:14:40,740 --> 00:14:44,400
+And it turns out that the rate between the atomic clocks
+
+221
+00:14:44,401 --> 00:14:46,500
+and using the Earth as a clock
+
+222
+00:14:46,501 --> 00:14:49,840
+has differed by about 30 seconds over this 40 years.
+
+223
+00:14:49,960 --> 00:14:51,780
+And 30 seconds is not that big a deal.
+
+224
+00:14:51,860 --> 00:14:54,260
+But if you let this continue indefinitely,
+
+225
+00:14:54,261 --> 00:14:57,520
+you end up with sunrise being in the afternoon
+
+226
+00:14:57,521 --> 00:14:58,300
+and things like that.
+
+227
+00:14:59,020 --> 00:15:01,720
+The solution came in the late 1940s,
+
+228
+00:15:02,040 --> 00:15:04,760
+while Nobel Prize-winning physicist Norman Ramsey
+
+229
+00:15:04,761 --> 00:15:07,320
+was studying the frequency oscillations of atoms.
+
+230
+00:15:07,820 --> 00:15:11,820
+And along the line, he said, hey, wait a minute.
+
+231
+00:15:11,940 --> 00:15:14,240
+If I can measure these frequencies this accurately,
+
+232
+00:15:14,480 --> 00:15:17,100
+I can turn this around and turn it into a clock.
+
+233
+00:15:17,260 --> 00:15:18,780
+I must know how fast it's ticking,
+
+234
+00:15:19,280 --> 00:15:20,880
+because the ticking rate is the frequency.
+
+235
+00:15:21,640 --> 00:15:25,260
+In 1967, the world agreed to a new standard,
+
+236
+00:15:25,880 --> 00:15:26,800
+the atomic second.
+
+237
+00:15:27,180 --> 00:15:35,800
+The atomic second equals 9,192,631,770 oscillations
+
+238
+00:15:35,801 --> 00:15:40,900
+oscillations in a cesium-133 atom.
+
+239
+00:15:40,901 --> 00:15:42,840
+But building a device to accurately measure those
+
+240
+00:15:42,841 --> 00:15:45,940
+oscillations wasn't easy.
+
+241
+00:15:45,941 --> 00:15:49,140
+The clock must be able to first select only cesium atoms in
+
+242
+00:15:49,141 --> 00:15:52,820
+their lowest energy state, then excite them into a higher
+
+243
+00:15:52,821 --> 00:15:55,780
+energy state.
+
+244
+00:15:55,781 --> 00:15:59,900
+The cesium starts inside here, gets shot through this tube
+
+245
+00:15:59,901 --> 00:16:03,820
+inside the clock, at which point there's a vapor, a gas of
+
+246
+00:16:03,821 --> 00:16:05,370
+cesium atoms in there.
+
+247
+00:16:05,371 --> 00:16:10,300
+Six lasers directed into the F1's main chamber control the movement of
+
+248
+00:16:10,301 --> 00:16:16,457
+the cesium atoms during the experiment. The next chamber has a microwave field.
+
+249
+00:16:16,458 --> 00:16:17,860
+It's here that the
+
+250
+00:16:17,861 --> 00:16:20,542
+atoms move into their excited state.
+
+251
+00:16:20,543 --> 00:16:25,160
+The difference between those two states is given in terms of a
+
+252
+00:16:25,161 --> 00:16:33,000
+frequency as 9,192,631,770 cycles per second, and this process is repeated
+
+253
+00:16:33,001 --> 00:16:37,000
+24 hours a day, seven days a week for about a month.
+
+254
+00:16:37,800 --> 00:16:40,440
+The clock counts the cycles, or ticks.
+
+255
+00:16:41,240 --> 00:16:49,900
+And every 9,192,631,770 ticks is a second.
+
+256
+00:16:52,060 --> 00:16:55,140
+The whole world is now dependent on this time measurement.
+
+257
+00:16:56,060 --> 00:17:00,740
+You don't need time which is good to one second in 100 million years in your everyday life.
+
+258
+00:17:00,741 --> 00:17:05,360
+except for systems that you tend not to know run on time.
+
+259
+00:17:05,520 --> 00:17:10,000
+Things like the global positioning system is absolutely dependent on atomic clocks.
+
+260
+00:17:10,200 --> 00:17:14,060
+High-speed data transfer over Internet lines and things like that
+
+261
+00:17:14,061 --> 00:17:16,940
+depend on really accurate frequency representations
+
+262
+00:17:16,941 --> 00:17:20,360
+because we have to agree about what the frequency of the transfer is.
+
+263
+00:17:21,460 --> 00:17:24,020
+Of course, timekeeping wasn't always this accurate.
+
+264
+00:17:24,940 --> 00:17:27,720
+The earliest clocks were very rudimentary timers,
+
+265
+00:17:28,340 --> 00:17:30,300
+and some examples can be found here.
+
+266
+00:17:30,740 --> 00:17:35,460
+at the National Association of Watch and Clock Collectors Museum in Columbia, Pennsylvania.
+
+267
+00:17:36,740 --> 00:17:41,980
+Klepsidra, or water clocks, were used as early as the 2nd century BC in ancient Egypt.
+
+268
+00:17:42,480 --> 00:17:45,780
+As it empties, it either fills another basin to tell you how time it is,
+
+269
+00:17:45,880 --> 00:17:48,980
+or by marks on the inside of the klepsidra, it tells you what time it is.
+
+270
+00:17:49,640 --> 00:17:54,400
+As the sun passes through the sky, sundials equated shadow to a measurement.
+
+271
+00:17:56,260 --> 00:17:59,540
+Monasteries and churches burned candles and incense to keep time.
+
+272
+00:18:00,740 --> 00:18:04,000
+and the mechanical clock wouldn't have advanced as early as it did
+
+273
+00:18:04,001 --> 00:18:09,040
+if medieval religious institutions hadn't pushed for its creation in the 13th century.
+
+274
+00:18:10,640 --> 00:18:14,920
+Religion has always played a really vital role in the measurement of time and keeping track of time.
+
+275
+00:18:15,040 --> 00:18:18,960
+Each religion required you to know what time it was, so you knew it was time for you then to go to prayer.
+
+276
+00:18:18,961 --> 00:18:22,880
+Some of the earliest time pieces were church clocks or tower clocks.
+
+277
+00:18:24,440 --> 00:18:29,460
+In the 17th century, the pendulum revolutionized the way clocks measured time.
+
+278
+00:18:29,461 --> 00:18:34,240
+While the pendulum was a huge advance in the accuracy of the clock, it did have problems.
+
+279
+00:18:34,580 --> 00:18:36,260
+One of the main problems is it's made out of metal,
+
+280
+00:18:36,560 --> 00:18:40,120
+but you have to compensate for changes in the metal as a result of temperature change.
+
+281
+00:18:40,540 --> 00:18:43,360
+One way to do that is using a mercury pendulum like the one you see here,
+
+282
+00:18:43,620 --> 00:18:49,220
+which when the rod expands from heat, the mercury will rise and maintain the swing,
+
+283
+00:18:49,300 --> 00:18:51,680
+the balance of the pendulum, and the accuracy of the clock.
+
+284
+00:18:52,140 --> 00:18:55,140
+Another way to do that is by putting two different metals together
+
+285
+00:18:55,141 --> 00:18:57,320
+that react differently to temperature changes,
+
+286
+00:18:57,321 --> 00:18:59,240
+therefore the pendulum stays the same length.
+
+287
+00:18:59,460 --> 00:19:00,840
+and it keeps the clock running accurately.
+
+288
+00:19:01,740 --> 00:19:04,780
+We now return to Measure It on Modern Marbles.
+
+289
+00:19:08,060 --> 00:19:10,660
+Hourglasses use the flow of sand to measure time.
+
+290
+00:19:11,680 --> 00:19:14,480
+Early sailors needed them to successfully navigate the seas.
+
+291
+00:19:15,140 --> 00:19:16,640
+In discovery of the New World,
+
+292
+00:19:16,820 --> 00:19:19,040
+sailing across the ocean was an important endeavor,
+
+293
+00:19:19,220 --> 00:19:21,060
+and it was important not to get lost on the way.
+
+294
+00:19:21,061 --> 00:19:24,340
+And it turns out that latitude, distance north and south,
+
+295
+00:19:24,500 --> 00:19:26,880
+was fairly well measured by tracking the sun,
+
+296
+00:19:26,881 --> 00:19:31,140
+but longitude, the distance across the ocean, was a challenge.
+
+297
+00:19:32,020 --> 00:19:35,120
+To find longitude, sailors needed a portable timepiece
+
+298
+00:19:35,121 --> 00:19:37,000
+to calculate their position at sea,
+
+299
+00:19:37,300 --> 00:19:41,000
+and pendulum clocks of the day couldn't operate without a stable surface.
+
+300
+00:19:42,400 --> 00:19:46,660
+In 1761, Yorkshire carpenter John Harrison,
+
+301
+00:19:47,040 --> 00:19:51,560
+with no scientific training, solved this problem with his marine chronometer.
+
+302
+00:19:52,160 --> 00:19:56,700
+It had a pair of counter-oscillating weighted beams connected by springs
+
+303
+00:19:56,701 --> 00:19:59,740
+that weren't affected by gravity or the motion of a ship.
+
+304
+00:20:00,260 --> 00:20:04,140
+It kept time accurate to five seconds a day, even in stormy seas.
+
+305
+00:20:04,980 --> 00:20:08,420
+This technology remained ship standard well into the 20th century.
+
+306
+00:20:09,920 --> 00:20:13,400
+In the 16th century, clocks got smaller and more portable.
+
+307
+00:20:15,080 --> 00:20:19,540
+Mechanical watches can be highly sophisticated, but they all measure time the same way.
+
+308
+00:20:19,541 --> 00:20:22,900
+The first section is the mainspring.
+
+309
+00:20:22,901 --> 00:20:27,240
+It's a coiled piece of steel that is pretty big when you get it all apart.
+
+310
+00:20:27,420 --> 00:20:28,440
+That's our power source.
+
+311
+00:20:29,920 --> 00:20:32,280
+Winding the watch puts tension on the mainspring.
+
+312
+00:20:33,840 --> 00:20:37,440
+As the spring uncoils, it releases energy to the gear train.
+
+313
+00:20:38,860 --> 00:20:43,820
+The gear train transmits this energy to the balance wheel, which oscillates back and forth.
+
+314
+00:20:45,280 --> 00:20:48,140
+The escapement keeps the balance wheel oscillating
+
+315
+00:20:48,141 --> 00:20:52,700
+by allowing the watch's gears to advance a set amount with each swing of the balance.
+
+316
+00:20:52,900 --> 00:20:59,900
+With each turn of the gears, the readable time is expressed with hands on the watch face.
+
+317
+00:20:59,901 --> 00:21:07,900
+You'll pay upwards of $10,000 for a beautifully crafted mechanical watch that will measure accurate time within seconds every year.
+
+318
+00:21:07,901 --> 00:21:12,900
+But what if you have $9,995 less?
+
+319
+00:21:12,901 --> 00:21:16,900
+A battery-powered kids' quartz watch will do fine.
+
+320
+00:21:16,901 --> 00:21:20,900
+It's actually 10 times more accurate than the finest mechanical watch.
+
+321
+00:21:20,901 --> 00:21:21,601
+watch.
+
+322
+00:21:21,602 --> 00:21:26,100
+It's the same portions and the same components that actually do the same thing
+
+323
+00:21:26,101 --> 00:21:27,169
+as a mechanical watch.
+
+324
+00:21:27,170 --> 00:21:30,520
+The quartz movement will keep better time just because the technology
+
+325
+00:21:30,521 --> 00:21:35,613
+is so much more advanced. Here the mainspring is replaced by a battery.
+
+326
+00:21:35,614 --> 00:21:37,120
+Instead of a balance,
+
+327
+00:21:37,121 --> 00:21:42,620
+time is measured with the oscillations of an electrified piece of synthetic quartz.
+
+328
+00:21:42,621 --> 00:21:46,680
+The pulse from the quartz is regulated by a circuit board, which changes the digital
+
+329
+00:21:46,681 --> 00:21:49,640
+readout on the face.
+
+330
+00:21:49,740 --> 00:21:52,120
+So there are lots of ways to measure time.
+
+331
+00:21:52,220 --> 00:21:53,920
+Take your mark.
+
+332
+00:21:54,020 --> 00:21:54,920
+Up!
+
+333
+00:21:55,020 --> 00:21:57,920
+Ah!
+
+334
+00:21:58,020 --> 00:22:01,320
+But what if you need to stop it?
+
+335
+00:22:01,420 --> 00:22:04,040
+Colorado Time Systems in Loveland, Colorado,
+
+336
+00:22:04,140 --> 00:22:07,240
+makes hyper-accurate timing systems and touch pads used
+
+337
+00:22:07,340 --> 00:22:10,440
+for competitive swimming events.
+
+338
+00:22:10,540 --> 00:22:13,000
+The system typically measures a swimmer's time within 1
+
+339
+00:22:13,100 --> 00:22:16,140
+1-100th of a second.
+
+340
+00:22:16,141 --> 00:22:22,560
+That's the interval by which Michael Phelps barely took gold in the 100-meter butterfly at the 2008 Beijing Olympics.
+
+341
+00:22:26,720 --> 00:22:30,120
+The touchpad only responds to the stroke of the swimmer's fingertips.
+
+342
+00:22:31,260 --> 00:22:33,100
+Waves in the pool don't affect its measurements.
+
+343
+00:22:34,400 --> 00:22:38,100
+Results this infallible have only been recorded since the mid-1980s.
+
+344
+00:22:38,980 --> 00:22:42,800
+The early days, swimming was judged by humans.
+
+345
+00:22:42,801 --> 00:22:46,600
+They were eyeballing the finish and declaring winners,
+
+346
+00:22:46,880 --> 00:22:49,700
+and you would have a number of judges each picking place.
+
+347
+00:22:49,880 --> 00:22:53,560
+Then timing came along and manual stopwatches were used.
+
+348
+00:22:54,180 --> 00:22:55,760
+But humans make mistakes.
+
+349
+00:22:56,620 --> 00:22:59,520
+The timing system is now a fully automatic timing system.
+
+350
+00:22:59,640 --> 00:23:04,920
+The start is picked up electronically when the referee hits the horn
+
+351
+00:23:04,921 --> 00:23:06,880
+and the strobe light goes off.
+
+352
+00:23:07,180 --> 00:23:08,580
+As the swimmer touches the wall,
+
+353
+00:23:08,581 --> 00:23:12,180
+we will record the exact time that that touch came in.
+
+354
+00:23:12,800 --> 00:23:14,920
+The pad is essentially a large switch.
+
+355
+00:23:15,800 --> 00:23:20,020
+When a swimmer touches it, the switch closes and sends a signal to the timing system.
+
+356
+00:23:20,740 --> 00:23:23,780
+This collects the signals from the touchpads.
+
+357
+00:23:24,280 --> 00:23:27,400
+It passes the data to our specialized timing board.
+
+358
+00:23:28,320 --> 00:23:34,000
+On the timing board is the single crystal that is the very accurate part of the timing.
+
+359
+00:23:34,720 --> 00:23:36,560
+It's accurate to five parts per million.
+
+360
+00:23:37,440 --> 00:23:41,120
+And underneath the timing board is a standard single board computer.
+
+361
+00:23:41,121 --> 00:23:44,620
+The timing system is wired directly into the scoreboard.
+
+362
+00:23:45,320 --> 00:23:51,960
+Currently, all the rule books in the world specify that we should time to one hundredth of a second accuracy.
+
+363
+00:23:52,360 --> 00:23:55,220
+But we have the ability to time to a thousandth of a second.
+
+364
+00:23:55,500 --> 00:23:59,000
+This is used sometimes, particularly when people want to make sure ties are broken.
+
+365
+00:24:02,720 --> 00:24:05,380
+A timer can help calculate a swimmer's speed.
+
+366
+00:24:06,860 --> 00:24:08,900
+But how do you measure speed in a plane?
+
+367
+00:24:08,901 --> 00:24:15,900
+in a car or outside of a car.
+
+368
+00:24:15,901 --> 00:24:18,900
+A jiffy is an actual unit of time.
+
+369
+00:24:18,901 --> 00:24:22,900
+Computer scientists say it's about 1 1 100th of a second.
+
+370
+00:24:22,901 --> 00:24:26,900
+Electrical engineers clock it at around 1 60th of a second.
+
+371
+00:24:26,901 --> 00:24:29,900
+But physicists view it as the time light takes
+
+372
+00:24:29,901 --> 00:24:33,900
+to travel the radius of an electron.
+
+373
+00:24:33,901 --> 00:24:38,900
+Measure It will return on Modern Marvels.
+
+374
+00:24:38,901 --> 00:24:42,900
+We now return to Measure It on Modern Marvels.
+
+375
+00:24:42,901 --> 00:24:45,900
+If you can measure distance and you can measure time,
+
+376
+00:24:45,901 --> 00:24:47,900
+you can measure speed.
+
+377
+00:24:47,901 --> 00:24:50,900
+Most of us rely on only one speed measurement,
+
+378
+00:24:50,901 --> 00:24:53,900
+the one displayed on our car's speedometer.
+
+379
+00:24:53,901 --> 00:24:56,900
+We expect it to be accurate every time we drive.
+
+380
+00:24:56,901 --> 00:24:59,900
+The speedometer is a display that indicates how fast
+
+381
+00:24:59,901 --> 00:25:01,900
+your vehicle is moving.
+
+382
+00:25:01,901 --> 00:25:05,940
+A speedometer picks up the speed that your tires are rotating,
+
+383
+00:25:06,480 --> 00:25:11,020
+and it converts that into the speed your vehicle is moving down the road.
+
+384
+00:25:12,100 --> 00:25:14,960
+General Motors Proving Grounds in Milford, Michigan,
+
+385
+00:25:15,300 --> 00:25:19,800
+utilizes over 130 miles of track to test its speedometers for errors.
+
+386
+00:25:20,800 --> 00:25:25,200
+What we're prepared to demonstrate here is how long it takes to cover
+
+387
+00:25:25,201 --> 00:25:28,620
+the distance of a football field at a given speed.
+
+388
+00:25:28,621 --> 00:25:32,380
+So in the simplest terms, distance divided by time,
+
+389
+00:25:32,500 --> 00:25:34,960
+we're going to go through one time at 60 miles an hour
+
+390
+00:25:34,961 --> 00:25:36,580
+and measure that speed.
+
+391
+00:25:36,940 --> 00:25:39,280
+Then we'll go the next time at 150 miles an hour
+
+392
+00:25:39,281 --> 00:25:42,060
+to show for the kind of differences you'll see
+
+393
+00:25:42,061 --> 00:25:44,580
+in the amount of distance covered in time.
+
+394
+00:25:45,480 --> 00:25:48,740
+We're approaching the pylons here at 60 miles an hour,
+
+395
+00:25:48,840 --> 00:25:49,820
+so we'll get our time.
+
+396
+00:25:55,000 --> 00:25:55,700
+Start.
+
+397
+00:25:55,701 --> 00:26:04,232
+stop. So that was roughly three seconds to go through 100 yards.
+
+398
+00:26:04,233 --> 00:26:07,240
+At 150 miles per hour,
+
+399
+00:26:07,340 --> 00:26:09,800
+a car will make the same trip in a little over one second.
+
+400
+00:26:10,240 --> 00:26:14,000
+Now we're approaching a little bit quicker than last time.
+
+401
+00:26:16,380 --> 00:26:23,500
+Here's the pylons, set, stop. That was one second.
+
+402
+00:26:25,480 --> 00:26:31,120
+Motorists can use this simple method to check the measurements
+
+403
+00:26:31,121 --> 00:26:32,220
+on their car's speedometer.
+
+404
+00:26:32,221 --> 00:26:35,740
+When you're going down the highway, there are mile markers,
+
+405
+00:26:35,741 --> 00:26:40,180
+so you can set your crews on a given speed from one mile marker
+
+406
+00:26:40,181 --> 00:26:43,940
+to the next, take a stopwatch, and say, for example,
+
+407
+00:26:44,480 --> 00:26:49,020
+it takes 45 seconds to go from one mile marker to the next.
+
+408
+00:26:49,560 --> 00:26:51,720
+That means you're going 80 miles an hour.
+
+409
+00:26:52,380 --> 00:26:55,160
+Fortunately, a speedometer does the calculating for us.
+
+410
+00:26:55,480 --> 00:27:01,180
+Its real-time reporting of a vehicle's speed begins with wheel speed sensors in the bearing of each tire.
+
+411
+00:27:01,840 --> 00:27:07,640
+That data from the wheel speed transfers up to an engine control module like this.
+
+412
+00:27:07,680 --> 00:27:09,240
+This is basically a mini-computer.
+
+413
+00:27:09,241 --> 00:27:14,440
+This actually calculates the RPK, revolutions per kilometer, for this tire,
+
+414
+00:27:15,020 --> 00:27:18,420
+and it calculates the absolute speed of the vehicle going down the road.
+
+415
+00:27:18,860 --> 00:27:24,620
+So that speed is then transmitted from this box to the cluster that you actually look at.
+
+416
+00:27:25,480 --> 00:27:29,480
+Speedometers like this one only became available in the 1980s.
+
+417
+00:27:29,481 --> 00:27:32,480
+Before we were as advanced electronically as we are,
+
+418
+00:27:32,481 --> 00:27:37,480
+this would have been a cable coming into the back of the speedometer and actually rotating.
+
+419
+00:27:37,481 --> 00:27:40,480
+And instead of using the computer to calculate the speed,
+
+420
+00:27:40,481 --> 00:27:45,480
+there were sets of gears that mechanically did the conversion for you.
+
+421
+00:27:45,481 --> 00:27:52,480
+Despite technological differences, the precise calibration of both systems depends on the diameter of the tires.
+
+422
+00:27:52,481 --> 00:28:00,380
+A bigger tire will rotate fewer times over the same distance that a smaller tire will.
+
+423
+00:28:00,980 --> 00:28:07,080
+So to get the calculations correct so that your speed indicates correctly, you just take that into account.
+
+424
+00:28:07,081 --> 00:28:12,200
+The lesson? Change your tire size and your speedometer will no longer be accurate.
+
+425
+00:28:13,080 --> 00:28:20,660
+In the GM Tire and Wheel Lab, engineers use a dynamometer to try to replicate tire stress as equivalent to real road conditions.
+
+426
+00:28:20,661 --> 00:28:25,660
+This machine simulates the load that this axle would see for a given car.
+
+427
+00:28:25,661 --> 00:28:34,660
+This point changes with how heavy the vehicle is, how soft the tire is, how much heat is in the tire.
+
+428
+00:28:34,661 --> 00:28:41,660
+So this is a way for us to accurately calculate what this radius is, which we call the static loaded radius,
+
+429
+00:28:41,661 --> 00:28:46,660
+and that ultimately tells us what the revolutions per kilometer are.
+
+430
+00:28:46,661 --> 00:28:52,660
+This RPK measurement is used to calculate speed in the engine control module.
+
+431
+00:28:52,661 --> 00:29:00,660
+Speedometers obviously have a certain amount of error, but we try to keep our error within plus or minus a mile per hour
+
+432
+00:29:00,661 --> 00:29:06,660
+when you're out at 60 or 70 miles per hour so that you know exactly what your speed is.
+
+433
+00:29:06,661 --> 00:29:10,660
+In new cars, speedometers are more important than ever.
+
+434
+00:29:10,661 --> 00:29:14,160
+When vehicles had a lot of wind noise or a lot of engine noise,
+
+435
+00:29:14,240 --> 00:29:18,860
+a lot of road noise, it was obvious very quickly how fast you were going.
+
+436
+00:29:19,560 --> 00:29:22,760
+And now when you're in the most refined vehicles,
+
+437
+00:29:23,180 --> 00:29:25,640
+you look down and you're surprised how fast you're actually going,
+
+438
+00:29:25,820 --> 00:29:27,520
+which is why the speedometer is very important.
+
+439
+00:29:28,280 --> 00:29:32,180
+All fine for us car drivers, but how does a pilot know how fast he's going?
+
+440
+00:29:33,240 --> 00:29:36,480
+As it flies, a jet measures ram pressure,
+
+441
+00:29:36,740 --> 00:29:39,520
+or the pressure of air molecules hitting the jet's body.
+
+442
+00:29:39,521 --> 00:29:42,520
+The jet also measures air pressure.
+
+443
+00:29:42,521 --> 00:29:48,520
+The difference between ram pressure and the air pressure is indicated to the pilot as the jet's speed.
+
+444
+00:29:48,521 --> 00:29:52,520
+Pilots refer to their mock meters during supersonic flight.
+
+445
+00:29:52,521 --> 00:29:57,520
+The mock speed is the jet's speed divided by the speed of sound.
+
+446
+00:29:57,521 --> 00:30:03,520
+Back on Earth, your speedometer is not the only thing measuring how fast your car is going on the highway.
+
+447
+00:30:03,521 --> 00:30:07,520
+Officers use radar to track speeders on our roads.
+
+448
+00:30:07,521 --> 00:30:11,520
+Sergeant Andrew Hernandez with the California Highway Patrol
+
+449
+00:30:11,521 --> 00:30:14,520
+trains officers how to use the technology.
+
+450
+00:30:14,521 --> 00:30:18,520
+Back in 1842, Christian Johann Doppler theorized
+
+451
+00:30:18,521 --> 00:30:21,520
+the Doppler principle, and the Doppler radar is what is used
+
+452
+00:30:21,521 --> 00:30:23,520
+in police radar.
+
+453
+00:30:23,521 --> 00:30:26,520
+Radar uses radio waves to measure speed.
+
+454
+00:30:26,521 --> 00:30:29,520
+The radio wave is infinite unless one of three things
+
+455
+00:30:29,521 --> 00:30:32,520
+happens, and that's either refraction, refraction, or
+
+456
+00:30:32,521 --> 00:30:36,520
+absorption. So when that happens, when it attacks a vehicle
+
+457
+00:30:36,521 --> 00:30:40,360
+vehicle that is coming at it, it's going to go ahead and have what they call a Doppler ship.
+
+458
+00:30:40,361 --> 00:30:43,625
+If the vehicle is coming at it, it normally compresses the waves.
+
+459
+00:30:43,626 --> 00:30:44,680
+Pulling away from it,
+
+460
+00:30:44,681 --> 00:30:46,110
+it'll elongate the wave.
+
+461
+00:30:46,111 --> 00:30:50,280
+The patrol car's radar unit sends out radio waves to confirm the speed
+
+462
+00:30:50,281 --> 00:30:52,766
+of the patrol car relative to the ground.
+
+463
+00:30:52,767 --> 00:30:56,040
+The waves also reflect off other vehicles on the road,
+
+464
+00:30:56,600 --> 00:31:00,520
+and the radar unit records the difference in frequency, or Doppler shift.
+
+465
+00:31:00,521 --> 00:31:05,820
+That's all the unit needs to calculate the speed of the target vehicle.
+
+466
+00:31:07,020 --> 00:31:11,280
+And the frequency shift recognized by the radar unit is audible to the officer.
+
+467
+00:31:11,800 --> 00:31:17,320
+On the right would be the patrol car speed, and on the left would be the target vehicle speed.
+
+468
+00:31:17,460 --> 00:31:20,020
+For example, if we're picking up the big rig, we have 48 miles an hour.
+
+469
+00:31:20,120 --> 00:31:24,840
+It doesn't come up and say this speed belongs to this truck.
+
+470
+00:31:24,841 --> 00:31:30,980
+That's where the expertise and the years in the job,
+
+471
+00:31:31,220 --> 00:31:33,980
+being able to do a visual estimation of people's speeds comes into play.
+
+472
+00:31:34,160 --> 00:31:37,680
+The radar unit is just a tool for the officers to verify what they're seeing.
+
+473
+00:31:38,380 --> 00:31:39,840
+But when the unit detects a speeder...
+
+474
+00:31:45,920 --> 00:31:49,020
+The reason why I'm stopping is the post is speeding, but it's 65,
+
+475
+00:31:49,260 --> 00:31:51,140
+and I'm having a radar at 80 miles an hour.
+
+476
+00:31:51,141 --> 00:31:56,140
+Handheld radar units are a more selective way to measure a motorist's speed.
+
+477
+00:31:56,141 --> 00:32:01,140
+What we have here is the Stalker 2. It's a handheld radar unit.
+
+478
+00:32:01,141 --> 00:32:06,140
+We can control what objects or what vehicles it's going to be picking up, which helps eliminate errors.
+
+479
+00:32:06,141 --> 00:32:10,140
+Some people say, well, it wasn't me that you got that car that was going the other way.
+
+480
+00:32:10,141 --> 00:32:16,140
+And that's what this one will help solve and hopefully put people's mind to ease that it was them.
+
+481
+00:32:16,141 --> 00:32:22,320
+For drivers out there who think they can use a radar detector to outsmart the long arm of the law, think again.
+
+482
+00:32:22,880 --> 00:32:24,560
+Detectors are going to detect the signal.
+
+483
+00:32:25,240 --> 00:32:29,680
+And the unfortunate part is that, yeah, they're going to do their job, but it's already too late.
+
+484
+00:32:30,700 --> 00:32:32,180
+Speed measured it.
+
+485
+00:32:32,780 --> 00:32:34,080
+Now let's measure weight.
+
+486
+00:32:34,380 --> 00:32:36,320
+But let's make it a little more challenging.
+
+487
+00:32:36,740 --> 00:32:38,980
+How about trying to weigh a live killer whale?
+
+488
+00:32:38,981 --> 00:32:46,380
+It's estimated that 20 million speeding citations are issued in the United States every year.
+
+489
+00:32:47,200 --> 00:32:50,940
+And police radar units are used in 13 million of those cases.
+
+490
+00:32:51,920 --> 00:32:54,000
+Measure It will return on Modern Marvels.
+
+491
+00:32:55,520 --> 00:32:58,760
+We now return to Measure It on Modern Marvels.
+
+492
+00:33:00,580 --> 00:33:04,180
+How do you weigh the top predator of the ocean, the killer whale?
+
+493
+00:33:04,181 --> 00:33:11,060
+SeaWorld in San Diego, California, has the massive task of managing the health and well-being
+
+494
+00:33:11,061 --> 00:33:14,940
+of seven killer whales.
+
+495
+00:33:14,941 --> 00:33:21,500
+They all play the role of Shamu, the star of this marine life park.
+
+496
+00:33:21,501 --> 00:33:24,880
+Today they're weighing their second largest killer whale.
+
+497
+00:33:24,881 --> 00:33:26,920
+She's over 20 feet long.
+
+498
+00:33:26,921 --> 00:33:30,960
+She's one of our most experienced whales here at Shamu Stadium.
+
+499
+00:33:30,961 --> 00:33:35,960
+As the whales live at SeaWorld, the trainers are responsible for their care, and that care
+
+500
+00:33:35,961 --> 00:33:39,120
+requires monitoring the weight of each animal.
+
+501
+00:33:39,121 --> 00:33:43,200
+We take weights on the whales weekly, and we use all of these weight measurements to
+
+502
+00:33:43,201 --> 00:33:47,380
+monitor growth rates and apply this knowledge to populations of killer whales out there
+
+503
+00:33:47,381 --> 00:33:48,380
+in the ocean.
+
+504
+00:33:48,381 --> 00:33:53,440
+An adult killer whale can grow to more than six tons, so the scale used to weigh these
+
+505
+00:33:53,441 --> 00:33:57,660
+mammals has to be tough enough to handle a truck.
+
+506
+00:33:57,661 --> 00:34:03,000
+It's different from your bathroom scale, which uses levers and a spring to measure weight.
+
+507
+00:34:03,001 --> 00:34:08,420
+The scale is comprised of a platform that sits atop six individual load cells.
+
+508
+00:34:08,421 --> 00:34:15,440
+Each load cell consists of a piston, a base, a clamp ring, fluid, and a diaphragm.
+
+509
+00:34:15,441 --> 00:34:21,120
+When the whale is on the scale, the piston puts pressure on the diaphragm and the fluid.
+
+510
+00:34:21,121 --> 00:34:25,100
+The fluid transmits the pressure change to the totalizer.
+
+511
+00:34:25,101 --> 00:34:29,860
+The totalizer sums the pressure signals and converts them into an electrical signal, which
+
+512
+00:34:29,861 --> 00:34:34,220
+is displayed as the whale's weight.
+
+513
+00:34:34,221 --> 00:34:36,320
+Reading the display is the easy part.
+
+514
+00:34:36,321 --> 00:34:38,280
+Getting the whale onto the scale is a bit trickier.
+
+515
+00:34:38,281 --> 00:34:42,860
+The way that we would teach the scale behavior is we would simply use our hands and place
+
+516
+00:34:42,861 --> 00:34:47,140
+them in front of us, get the animal to come up and touch our hand with their rostrum.
+
+517
+00:34:47,141 --> 00:34:50,740
+We'll communicate to the animal that that's exactly what we want them to do by blowing
+
+518
+00:34:50,741 --> 00:34:51,740
+the whistle.
+
+519
+00:34:51,741 --> 00:34:52,740
+That just means yes.
+
+520
+00:34:52,741 --> 00:34:55,240
+we're going to be bridging, communicating to the animal
+
+521
+00:34:55,241 --> 00:34:56,740
+that that's what we want them to do,
+
+522
+00:34:56,741 --> 00:34:58,740
+and reinforcing the animal for that correct behavior
+
+523
+00:34:58,741 --> 00:35:00,740
+until eventually we have them sliding up completely
+
+524
+00:35:00,741 --> 00:35:01,740
+onto the scale.
+
+525
+00:35:09,740 --> 00:35:13,740
+And we get a final weight of 8,125 pounds.
+
+526
+00:35:13,741 --> 00:35:14,740
+That's awesome, Shamu.
+
+527
+00:35:17,740 --> 00:35:21,740
+In 1303, British merchants introduced the Averduplatic
+
+528
+00:35:21,741 --> 00:35:27,340
+produced the Averdupoise pound as the mass standard for the imperial measurement system.
+
+529
+00:35:27,341 --> 00:35:33,260
+The Averdupoise pound was the weight of 7,000 grains of wheat and was divided into 16 ounces,
+
+530
+00:35:33,261 --> 00:35:36,300
+just like the modern U.S. pound.
+
+531
+00:35:36,301 --> 00:35:43,220
+But today the standard for mass is the International Prototype Kilogram, or IPK.
+
+532
+00:35:43,221 --> 00:35:48,980
+The United States copy of the IPK is maintained by, you guessed it, NIST.
+
+533
+00:35:48,981 --> 00:35:55,980
+The International Prototype Kilogram is a platinum meridium artifact that looks just like this one right here under this bell jar.
+
+534
+00:35:55,981 --> 00:36:04,980
+At the time when the kilogram was manufactured and sanctioned, 40 replicas were made and distributed to the signatories of the meter convention.
+
+535
+00:36:06,980 --> 00:36:12,980
+An object's mass is the same no matter where it is, while its weight changes as a function of gravity.
+
+536
+00:36:12,981 --> 00:36:17,980
+In early trade, merchants would balance carob seeds against goods
+
+537
+00:36:17,981 --> 00:36:21,980
+because they were thought to be naturally of a standard size and mass.
+
+538
+00:36:21,981 --> 00:36:25,980
+When weighing devices came along, like two-pan balances,
+
+539
+00:36:25,981 --> 00:36:29,980
+they used the carob seeds as a counterweight to measure things
+
+540
+00:36:29,981 --> 00:36:32,980
+like the weight of precious stones, like diamonds,
+
+541
+00:36:32,981 --> 00:36:34,980
+and so that's where we get the term carot.
+
+542
+00:36:34,981 --> 00:36:37,980
+As it turns out, carob seeds aren't all that stable in nature.
+
+543
+00:36:37,981 --> 00:36:40,980
+They're really not that much different from a lot of other seeds,
+
+544
+00:36:40,981 --> 00:36:48,380
+And in fact, there's about a 23% variation in carob seeds' size and weight.
+
+545
+00:36:48,880 --> 00:36:51,560
+Dishonest traders would often take advantage of the situation.
+
+546
+00:36:52,240 --> 00:36:57,820
+So I might have the larger, heavier ones, 50 of them, for one use,
+
+547
+00:36:57,960 --> 00:37:00,380
+and 50 of the lighter ones for another use.
+
+548
+00:37:00,540 --> 00:37:02,880
+For instance, if I were buying, I'd use one set.
+
+549
+00:37:03,180 --> 00:37:05,680
+And if I were selling, I think I'd choose to use the other set.
+
+550
+00:37:06,580 --> 00:37:09,420
+Of the seven basic measurements monitored by NIST,
+
+551
+00:37:10,120 --> 00:37:12,480
+Mass is the only one based on a physical object.
+
+552
+00:37:14,120 --> 00:37:17,540
+The IPK and its replicas were forged in 1901.
+
+553
+00:37:19,100 --> 00:37:22,480
+In 1989, physicists charged with maintaining it
+
+554
+00:37:22,481 --> 00:37:26,240
+claimed the artifact had changed by as much as 50 micrograms.
+
+555
+00:37:27,600 --> 00:37:29,160
+It doesn't sound like much.
+
+556
+00:37:29,900 --> 00:37:31,720
+In fact, it's about the weight of a grain of salt.
+
+557
+00:37:32,800 --> 00:37:37,260
+But that shift was more than enough to have groups reliant on accurate mass measurements,
+
+558
+00:37:37,760 --> 00:37:38,960
+worried about the consequences.
+
+559
+00:37:39,420 --> 00:37:43,260
+We metrologists are very greedy in our measurements.
+
+560
+00:37:43,600 --> 00:37:46,720
+We like to keep track of every microgram,
+
+561
+00:37:46,920 --> 00:37:49,280
+of every fraction of a microgram if we can,
+
+562
+00:37:49,281 --> 00:37:51,760
+so we can detect things with very high precision
+
+563
+00:37:51,761 --> 00:37:53,480
+so that you know what you're buying
+
+564
+00:37:53,481 --> 00:37:55,400
+and you know what you're measuring exactly.
+
+565
+00:37:56,180 --> 00:37:58,380
+The mass and force group at NIST
+
+566
+00:37:58,381 --> 00:38:00,920
+has set out to minimize the slight instability
+
+567
+00:38:00,921 --> 00:38:02,060
+in the mass of the kilogram.
+
+568
+00:38:02,860 --> 00:38:04,640
+The main thing that needs to be done
+
+569
+00:38:04,641 --> 00:38:06,880
+is one needs to have a definition
+
+570
+00:38:06,881 --> 00:38:08,540
+that is not based on an artifact
+
+571
+00:38:08,541 --> 00:38:12,720
+because then you eliminate all possible sources of instability.
+
+572
+00:38:14,120 --> 00:38:19,260
+There's a worldwide effort dedicated to relating the kilogram to phenomena that exist in nature,
+
+573
+00:38:19,860 --> 00:38:21,720
+like those for length and time.
+
+574
+00:38:23,040 --> 00:38:25,840
+These projects involve complicated calculations,
+
+575
+00:38:26,500 --> 00:38:32,800
+but suffice to say, the Avogadro project will attempt to count every atom in a new kilogram artifact.
+
+576
+00:38:33,660 --> 00:38:36,980
+The watt balance will try to define it with electronics.
+
+577
+00:38:36,981 --> 00:38:39,580
+We want to create the most perfect measurement
+
+578
+00:38:39,680 --> 00:38:44,220
+that can exist that we can trust for long times to come.
+
+579
+00:38:44,320 --> 00:38:47,020
+After all, 50 micrograms probably
+
+580
+00:38:47,120 --> 00:38:49,920
+won't make a difference when Shamu gets on the scale.
+
+581
+00:38:50,020 --> 00:38:51,620
+But it may affect the exacting method
+
+582
+00:38:51,720 --> 00:38:56,240
+by which pharmaceutical companies manufacture drugs.
+
+583
+00:38:56,340 --> 00:38:59,240
+It takes a large scale to measure the weight of a whale.
+
+584
+00:38:59,340 --> 00:39:01,740
+But to take the temperature of your chicken or turkey
+
+585
+00:39:01,840 --> 00:39:06,980
+dinner, all you need is this ingenious little device.
+
+586
+00:39:06,981 --> 00:39:12,500
+In 2005, a team of Caltech scientists built the world's most sensitive scales.
+
+587
+00:39:13,420 --> 00:39:19,320
+They can weigh a few zeptograms, or the approximate mass of one protein molecule.
+
+588
+00:39:20,520 --> 00:39:22,900
+Measure It will return on Modern Marvels.
+
+589
+00:39:24,100 --> 00:39:27,640
+We now return to Measure It on Modern Marvels.
+
+590
+00:39:29,100 --> 00:39:32,060
+We know when it's hot, and we know when it's cold.
+
+591
+00:39:32,061 --> 00:39:36,040
+But we need thermometers to quantify temperatures with precision.
+
+592
+00:39:36,980 --> 00:39:44,320
+They recorded the hottest temperature on Earth at 136 degrees Fahrenheit and the coldest
+
+593
+00:39:44,321 --> 00:39:47,320
+at minus 128 degrees.
+
+594
+00:39:47,321 --> 00:39:49,480
+And this man has over 3,000 of them.
+
+595
+00:39:49,481 --> 00:39:56,020
+We're in a little Cape Cod village of Onset, Massachusetts, which has now been named the
+
+596
+00:39:56,021 --> 00:40:02,060
+thermometer capital of the world because I've had as many as 5,100 thermometers pass through
+
+597
+00:40:02,061 --> 00:40:03,060
+the museum.
+
+598
+00:40:03,061 --> 00:40:05,480
+Started about 25 years ago.
+
+599
+00:40:05,481 --> 00:40:06,680
+Why?
+
+600
+00:40:06,681 --> 00:40:08,680
+Someone had to do it.
+
+601
+00:40:08,681 --> 00:40:11,680
+Dick's collection spans all seven continents
+
+602
+00:40:11,681 --> 00:40:15,680
+and includes examples of almost every type of thermometer ever made.
+
+603
+00:40:15,681 --> 00:40:18,680
+This one uses a human hair to detect humidity.
+
+604
+00:40:18,681 --> 00:40:20,680
+This one is a thermocouple.
+
+605
+00:40:20,681 --> 00:40:23,680
+And this one can help you calculate wind chill.
+
+606
+00:40:23,681 --> 00:40:29,680
+This type was invented by the engineers that worked with Frank Perdue, the chicken man.
+
+607
+00:40:29,681 --> 00:40:36,680
+The way this one works is a fusible plug, which is simply a material that melts at a certain temperature,
+
+608
+00:40:36,681 --> 00:40:39,400
+in this case around 160 degrees,
+
+609
+00:40:39,401 --> 00:40:43,080
+and when it does melt, it releases a little spring
+
+610
+00:40:43,081 --> 00:40:45,580
+that pops up the red arrow.
+
+611
+00:40:45,581 --> 00:40:47,260
+John Glenn swallowed one like this
+
+612
+00:40:47,261 --> 00:40:50,360
+when he went back to space in 1998.
+
+613
+00:40:50,361 --> 00:40:55,360
+The interior parts of this would be a radio transmitter,
+
+614
+00:40:55,960 --> 00:40:59,320
+a battery, and of course, a very small thermometer.
+
+615
+00:41:00,800 --> 00:41:05,160
+Galileo invented one of the first thermometers in 1593,
+
+616
+00:41:05,161 --> 00:41:07,480
+but its measurements weren't very exact.
+
+617
+00:41:07,481 --> 00:41:10,720
+This one's called a Galilean thermometer for Galileo.
+
+618
+00:41:10,721 --> 00:41:13,740
+You can see I've got six balls here
+
+619
+00:41:13,741 --> 00:41:15,500
+and they're all immersed in liquid.
+
+620
+00:41:15,501 --> 00:41:17,720
+That liquid is gonna change its buoyancy
+
+621
+00:41:17,721 --> 00:41:20,080
+as a function of temperature.
+
+622
+00:41:20,081 --> 00:41:21,440
+Each colored ball is filled
+
+623
+00:41:21,441 --> 00:41:24,460
+with a slightly different amount of alcohol.
+
+624
+00:41:24,461 --> 00:41:27,780
+Since alcohol is less dense than water, the balls float.
+
+625
+00:41:28,860 --> 00:41:31,220
+But as the temperature outside increases,
+
+626
+00:41:31,221 --> 00:41:33,620
+the density of the water decreases.
+
+627
+00:41:33,621 --> 00:41:36,120
+That causes the balls to sink.
+
+628
+00:41:36,121 --> 00:41:38,160
+By counting the number of balls remaining,
+
+629
+00:41:38,161 --> 00:41:40,580
+you have an idea of the temperature.
+
+630
+00:41:40,581 --> 00:41:43,760
+You can say, oh, it's a four ball day or a three ball day,
+
+631
+00:41:43,761 --> 00:41:45,520
+a two ball day.
+
+632
+00:41:45,521 --> 00:41:48,400
+100 years after Galileo's thermometer,
+
+633
+00:41:48,401 --> 00:41:50,400
+Daniel Gabriel Fahrenheit came up
+
+634
+00:41:50,401 --> 00:41:53,400
+with the first numerical temperature scale.
+
+635
+00:41:53,401 --> 00:41:56,160
+It had three arbitrary fixed points,
+
+636
+00:41:56,161 --> 00:42:00,820
+zero, 32 degrees for the freezing point of water,
+
+637
+00:42:00,821 --> 00:42:04,440
+and 96, which was the temperature of his wife's armpit.
+
+638
+00:42:05,480 --> 00:42:09,640
+About 20 years after Fahrenheit made his thermometer,
+
+639
+00:42:10,500 --> 00:42:12,760
+Celsius made a different scale.
+
+640
+00:42:13,120 --> 00:42:16,500
+Zero on Celsius' scale was the ice point.
+
+641
+00:42:16,740 --> 00:42:18,860
+100 was the boiling point of water.
+
+642
+00:42:19,400 --> 00:42:22,580
+Because it's based on multiples of 10, like the metric system,
+
+643
+00:42:23,300 --> 00:42:26,280
+Celsius became the temperature scale of choice in 1887.
+
+644
+00:42:28,100 --> 00:42:30,360
+But Fahrenheit still has some fans.
+
+645
+00:42:30,820 --> 00:42:32,820
+including the United States.
+
+646
+00:42:32,821 --> 00:42:35,820
+Fahrenheit took his measurements with mercury in glass,
+
+647
+00:42:35,821 --> 00:42:38,820
+which was very conducive to temperature change.
+
+648
+00:42:38,821 --> 00:42:42,820
+Mercury responds to a change in temperature more quickly
+
+649
+00:42:42,821 --> 00:42:44,820
+than other liquids.
+
+650
+00:42:44,821 --> 00:42:48,820
+The thermometer freezes at minus 36 degrees Fahrenheit,
+
+651
+00:42:48,821 --> 00:42:50,820
+but it does go over a thousand degrees.
+
+652
+00:42:50,821 --> 00:42:54,820
+It is a very usable but a very dangerous liquid.
+
+653
+00:42:54,821 --> 00:42:58,820
+Today, many thermometers are made with alcohol or kerosene.
+
+654
+00:42:58,821 --> 00:43:03,820
+They work the same, minus the health hazards.
+
+655
+00:43:03,821 --> 00:43:09,820
+NIST establishes its calibration standard with something called a water triple point cell.
+
+656
+00:43:09,821 --> 00:43:12,820
+This is a cell that has only very pure water in it.
+
+657
+00:43:12,821 --> 00:43:14,820
+Up here there's no air, it's a vacuum.
+
+658
+00:43:14,821 --> 00:43:19,820
+When water exists in all three phases of matter, it's at the triple point.
+
+659
+00:43:19,821 --> 00:43:27,820
+Whenever we have those three phases coexisting, then that nature conspires to lock that down at a single temperature.
+
+660
+00:43:27,821 --> 00:43:31,440
+We've assigned that temperature to be 0.01 degrees C.
+
+661
+00:43:31,540 --> 00:43:33,540
+This is the point that defines the Kelvin.
+
+662
+00:43:34,540 --> 00:43:36,040
+The Kelvin is the NIST standard,
+
+663
+00:43:36,460 --> 00:43:38,900
+and they use it to design hyperaccurate thermometers.
+
+664
+00:43:39,980 --> 00:43:42,760
+We have a standard platinum resistance thermometer right here.
+
+665
+00:43:43,740 --> 00:43:47,500
+This is one of the most accurate thermometers in the world.
+
+666
+00:43:48,380 --> 00:43:52,480
+This thermometer can measure up to 420 degrees C.
+
+667
+00:43:52,481 --> 00:43:55,280
+This thermometer uses pure platinum wire,
+
+668
+00:43:55,281 --> 00:43:58,080
+where you measure the resistance of that wire that changes
+
+669
+00:43:58,180 --> 00:43:59,520
+as a function of temperature.
+
+670
+00:43:59,620 --> 00:44:01,720
+The digital thermometer in your medicine cabinet
+
+671
+00:44:01,820 --> 00:44:04,520
+uses the same principle and achieves accuracy
+
+672
+00:44:04,620 --> 00:44:07,720
+within 1 1⁄2 degree.
+
+673
+00:44:07,820 --> 00:44:10,820
+Platinum resistance thermometers are the instruments of choice
+
+674
+00:44:10,920 --> 00:44:12,640
+for measuring the temperature of everything
+
+675
+00:44:12,740 --> 00:44:18,840
+from the core of a submarine to lava to your home oven,
+
+676
+00:44:18,940 --> 00:44:23,380
+grains of wheat to kilograms, sundials to atomic clocks,
+
+677
+00:44:23,381 --> 00:44:26,820
+the length of a human foot to the speed of light.
+
+678
+00:44:26,920 --> 00:44:29,920
+As we strive to calculate more perfect measurements,
+
+679
+00:44:30,020 --> 00:44:33,520
+the units we use to define them may change.
+
+680
+00:44:33,620 --> 00:44:38,820
+But what won't change, whether it's length, speed, time,
+
+681
+00:44:38,920 --> 00:44:43,940
+weight, or temperature, is our need to measure it.
+

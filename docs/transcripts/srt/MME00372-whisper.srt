@@ -1,0 +1,2152 @@
+1
+00:00:01,000 --> 00:00:04,000
+It allows you to effortlessly control your car
+
+2
+00:00:04,001 --> 00:00:08,000
+and provides precision maneuvering for the most advanced military aircraft.
+
+3
+00:00:08,001 --> 00:00:12,000
+But this workhorse of industry is as basic as fluids in motion.
+
+4
+00:00:12,001 --> 00:00:18,000
+Now, Engineering's Hidden Marvel, Hydraulics, on Modern Marvels.
+
+5
+00:00:30,000 --> 00:00:32,840
+Our industrialized world depends on hydraulics.
+
+6
+00:00:36,040 --> 00:00:41,280
+But hydraulics is so fundamental to our way of life that we hardly notice it.
+
+7
+00:00:42,480 --> 00:00:49,260
+Hydraulics has taken us from the Model T to the SUV, from Kitty Hawk to the F-22 Raptor.
+
+8
+00:00:50,700 --> 00:00:57,440
+Hydraulics provides the muscles that lift, steer, and drive excavators that mine Earth's precious resources.
+
+9
+00:00:57,441 --> 00:01:04,100
+and is the force behind the machinery that fabricates the very structure of our cities.
+
+10
+00:01:05,380 --> 00:01:08,080
+Hydraulics elevates us, thrills us.
+
+11
+00:01:10,660 --> 00:01:12,540
+It even picks up our garbage.
+
+12
+00:01:13,460 --> 00:01:16,320
+You look at a lot of applications and we see hydraulics.
+
+13
+00:01:16,360 --> 00:01:20,440
+If you think about a car going down the street, of course you have hydraulic power steering, hydraulic brakes.
+
+14
+00:01:20,880 --> 00:01:24,820
+A lot of the roofs on those cars, the convertible tops are all hydraulic controlled.
+
+15
+00:01:24,821 --> 00:01:27,820
+Get into aircraft, all the control surfaces.
+
+16
+00:01:27,821 --> 00:01:30,820
+Amusement parks, a lot of the rides today,
+
+17
+00:01:30,821 --> 00:01:32,820
+there's hydraulic powered roller coasters.
+
+18
+00:01:32,821 --> 00:01:34,820
+Oh my God!
+
+19
+00:01:38,820 --> 00:01:42,820
+Go 0 to 120 in 4 seconds.
+
+20
+00:01:45,820 --> 00:01:48,820
+Hydraulics is the branch of physics that studies the behavior
+
+21
+00:01:48,821 --> 00:01:51,820
+of liquids at rest or in motion.
+
+22
+00:01:51,821 --> 00:01:58,820
+liquid in motion. Liquid in motion is referred to as hydrodynamics.
+
+23
+00:01:58,821 --> 00:02:02,820
+Civil engineers use this form of hydraulics in hydroelectric power plants,
+
+24
+00:02:02,821 --> 00:02:07,820
+manipulating the flow of liquid to push turbines. Those power plants provide
+
+25
+00:02:07,821 --> 00:02:13,820
+electricity to over a billion people worldwide. The second type of hydraulics,
+
+26
+00:02:13,821 --> 00:02:19,820
+liquids at rest, is referred to as hydrostatics. Mechanical engineers use
+
+27
+00:02:19,821 --> 00:02:23,860
+mechanical engineers use this form of hydraulics to produce force through the pressurization
+
+28
+00:02:23,861 --> 00:02:30,860
+of incompressible liquids. If you have two pistons within a closed hydraulic system,
+
+29
+00:02:30,861 --> 00:02:36,860
+any force that is applied to piston A will be completely transferred to piston B.
+
+30
+00:02:36,861 --> 00:02:44,260
+The power of your blow is transferred to the other plunger by hydraulic transfer of power.
+
+31
+00:02:44,261 --> 00:02:48,920
+One of the benefits of a closed hydraulic system is the ability to multiply force.
+
+32
+00:02:50,620 --> 00:03:01,920
+If piston B has a surface area 10 times that of piston A, piston B will move one unit for every 10 units that piston A moves, but at 10 times the force.
+
+33
+00:03:03,500 --> 00:03:12,080
+Therefore, 100 pounds of force applied to piston A will supply enough pressure under piston B to move an object weighing 1,000 pounds.
+
+34
+00:03:12,081 --> 00:03:18,880
+Remarkable in its simplicity, hydraulic multiplication of force is awesome in its capability
+
+35
+00:03:18,881 --> 00:03:23,060
+and is what delivers the brute force for nearly every large machine.
+
+36
+00:03:24,540 --> 00:03:30,200
+In most people's mind, they consider hydraulics the application of high-pressure fluids,
+
+37
+00:03:30,640 --> 00:03:35,160
+generally speaking, to move large amounts of weight and generate a lot of force.
+
+38
+00:03:36,720 --> 00:03:42,000
+Some of the more impressive applications of hydraulics are just pure raw hydraulic force.
+
+39
+00:03:42,080 --> 00:03:47,580
+You look at car crushers as an example.
+
+40
+00:03:47,720 --> 00:03:48,420
+It's unbelievable.
+
+41
+00:03:48,560 --> 00:03:53,080
+You'll take five or six cars piled vertically and they're smashed to just feet.
+
+42
+00:03:53,520 --> 00:03:55,280
+And you have to say, how is that done?
+
+43
+00:03:55,840 --> 00:03:56,620
+It's hydraulics.
+
+44
+00:03:58,960 --> 00:04:05,260
+One of the most common devices that utilizes hydraulic multiplication of force is the hydraulic jack.
+
+45
+00:04:06,260 --> 00:04:10,560
+When you push the lever up and down, you're actually pushing on a small piston,
+
+46
+00:04:10,561 --> 00:04:15,560
+which pushes hydraulic fluid, and this fluid flows into a larger piston.
+
+47
+00:04:15,740 --> 00:04:19,820
+Say the small piston that you're pushing has a surface area of one square inch,
+
+48
+00:04:19,821 --> 00:04:23,260
+but the large piston that's actually pushing up your car,
+
+49
+00:04:23,540 --> 00:04:27,300
+that might have a surface area of, say, ten square inches.
+
+50
+00:04:27,640 --> 00:04:30,160
+So for every pound of force you push with that lever,
+
+51
+00:04:30,520 --> 00:04:33,100
+the hydraulic system multiplies that force ten times.
+
+52
+00:04:33,660 --> 00:04:38,000
+Unfortunately, in hydraulics, like in everything else, there's no free lunch.
+
+53
+00:04:38,001 --> 00:04:41,440
+so you don't get it for free.
+
+54
+00:04:42,100 --> 00:04:43,640
+In order to get that to work,
+
+55
+00:04:43,780 --> 00:04:46,560
+you have to pump 10 times the amount of fluid.
+
+56
+00:04:47,520 --> 00:04:50,820
+Although the basic principles behind hydraulics may appear simple,
+
+57
+00:04:51,440 --> 00:04:53,980
+it took many brilliant minds thousands of years
+
+58
+00:04:53,981 --> 00:04:56,660
+to fully understand the inherent power of fluid.
+
+59
+00:04:59,320 --> 00:05:01,540
+The Greeks in 250 B.C.
+
+60
+00:05:01,720 --> 00:05:03,640
+were one of the earliest societies
+
+61
+00:05:03,641 --> 00:05:05,920
+to look for ways of controlling the flow of water,
+
+62
+00:05:05,921 --> 00:05:08,680
+inventing many hydraulic devices.
+
+63
+00:05:10,820 --> 00:05:12,480
+Some were devised for amusement,
+
+64
+00:05:12,980 --> 00:05:16,000
+like this invention that forced air out of a small bent tube,
+
+65
+00:05:16,420 --> 00:05:17,660
+producing the sound of a bird.
+
+66
+00:05:19,020 --> 00:05:21,460
+Others were more useful, such as the water clock.
+
+67
+00:05:23,160 --> 00:05:26,060
+The Greek who made the most lasting contribution to hydraulics
+
+68
+00:05:26,061 --> 00:05:27,900
+was the mathematician Archimedes,
+
+69
+00:05:27,901 --> 00:05:31,880
+who discovered the first principle of hydrostatics,
+
+70
+00:05:32,900 --> 00:05:33,600
+buoyancy.
+
+71
+00:05:34,080 --> 00:05:38,800
+His buoyancy experiment was basically based on the concept
+
+72
+00:05:38,801 --> 00:05:41,620
+that a material that is submerged to water
+
+73
+00:05:41,621 --> 00:05:45,060
+experiences a force against gravity,
+
+74
+00:05:45,340 --> 00:05:48,300
+and that force is known as pressure.
+
+75
+00:05:48,920 --> 00:05:50,780
+He also was the same inventor who said,
+
+76
+00:05:50,860 --> 00:05:52,900
+if you give me a lever long enough in a place to stand,
+
+77
+00:05:53,000 --> 00:05:53,780
+I can move the earth.
+
+78
+00:05:54,300 --> 00:05:56,000
+Fundamentally, that's the principle of levers,
+
+79
+00:05:56,540 --> 00:05:58,660
+and realistically, that's what we're doing with hydraulics
+
+80
+00:05:58,661 --> 00:05:59,580
+on a daily basis.
+
+81
+00:05:59,581 --> 00:06:05,580
+By 30 BC, the Roman Empire had cast its shadow across the borders of Greece.
+
+82
+00:06:05,581 --> 00:06:11,580
+But instead of destroying Greek society, the Romans learned from it, improving upon several
+
+83
+00:06:11,581 --> 00:06:16,580
+Greek inventions, including the water wheel and the aqueduct.
+
+84
+00:06:16,581 --> 00:06:22,580
+The Romans, they realized that they had to feed bigger areas, then they had to have a
+
+85
+00:06:22,581 --> 00:06:28,580
+system where they can carry large quantities and at the same time use the concept of gravity.
+
+86
+00:06:28,581 --> 00:06:31,140
+concept of gravity.
+
+87
+00:06:31,141 --> 00:06:36,880
+In the aqueducts, water flowed swiftly, producing as much as 1,300 pounds of pressure per square
+
+88
+00:06:36,881 --> 00:06:41,534
+inch, 25 times the standard water pressure of a city today.
+
+89
+00:06:41,535 --> 00:06:43,900
+Roman engineers often designed
+
+90
+00:06:43,901 --> 00:06:49,720
+the aqueducts to end its cisterns, which would push water up through small openings, turning
+
+91
+00:06:49,721 --> 00:06:55,356
+the liquid into a fountain and providing drinking water for the citizens of Rome.
+
+92
+00:06:55,357 --> 00:06:56,400
+Other aqueducts
+
+93
+00:06:56,401 --> 00:06:59,640
+were sent to water mills, transferring the water's energy
+
+94
+00:06:59,641 --> 00:07:03,760
+into kinetic energy to grind grain into flour.
+
+95
+00:07:03,761 --> 00:07:06,320
+But Roman engineers didn't develop further hydraulic
+
+96
+00:07:06,321 --> 00:07:12,020
+technology, relying instead on the strength of slave labor.
+
+97
+00:07:12,021 --> 00:07:14,960
+In the millennium that followed, the science of hydraulics
+
+98
+00:07:14,961 --> 00:07:16,940
+didn't advance.
+
+99
+00:07:16,941 --> 00:07:18,900
+Old technologies such as water mills
+
+100
+00:07:18,901 --> 00:07:20,560
+flourished during medieval times.
+
+101
+00:07:20,561 --> 00:07:29,240
+Finally, in the 17th century, French mathematician Blaise Pascal made a groundbreaking discovery.
+
+102
+00:07:30,400 --> 00:07:36,380
+By multiplying fluid depth by its inherent weight, Pascal created the formula to determine fluid pressure.
+
+103
+00:07:37,460 --> 00:07:42,600
+This led to the most important aspect of hydrostatics, multiplication of force.
+
+104
+00:07:44,100 --> 00:07:48,660
+Pascal's principle is the basis for all the work that we do in hydraulics today.
+
+105
+00:07:49,420 --> 00:07:55,800
+By 1795, Englishman Joseph Brahma had put Pascal's principle to work with his hydraulic press.
+
+106
+00:07:56,600 --> 00:08:04,220
+When the first hydraulic systems were used around the 1800s, they did use water as the hydraulic fluid.
+
+107
+00:08:04,300 --> 00:08:06,660
+And water does not make a very good hydraulic fluid.
+
+108
+00:08:06,860 --> 00:08:10,400
+Some of the problems it has, it's very thin, so it leaks past your seals.
+
+109
+00:08:10,620 --> 00:08:14,700
+Back in the 1800s, the seals they had were things like leather and ropes and things of that sort.
+
+110
+00:08:15,080 --> 00:08:17,640
+So if they did seal, they didn't seal for very long.
+
+111
+00:08:18,660 --> 00:08:24,260
+The inefficient hydraulic industry languished, but soon after the Brahma Press, a new discovery
+
+112
+00:08:24,261 --> 00:08:29,060
+in America would lead indirectly to a new hydraulic technology.
+
+113
+00:08:29,061 --> 00:08:34,420
+The discovery of gold at Sutter's Mill in 1848 led to one of the largest human migrations
+
+114
+00:08:34,421 --> 00:08:37,280
+in history.
+
+115
+00:08:37,281 --> 00:08:42,420
+Desiring a faster, quicker way to uncover riches, a new method of gold mining quickly
+
+116
+00:08:42,421 --> 00:08:46,420
+spread throughout America, called hydraulicing.
+
+117
+00:08:46,421 --> 00:08:50,940
+And for the next 50 years, hydraulic mining would literally change the landscape of America.
+
+118
+00:08:53,980 --> 00:08:58,980
+People have recognized for a long time that the power behind water can be enormous.
+
+119
+00:08:59,460 --> 00:09:03,840
+And in the early mining days in the U.S., the gold rush era, we took major advantage of this.
+
+120
+00:09:04,580 --> 00:09:07,120
+Accessing water sources at much higher elevations,
+
+121
+00:09:07,860 --> 00:09:11,240
+miners constructed wood pipes and attached the ends to nozzles,
+
+122
+00:09:11,241 --> 00:09:17,320
+creating hoses that could shoot water at high velocity against the California hillsides.
+
+123
+00:09:18,060 --> 00:09:20,820
+The hillsides disintegrated, releasing the gold.
+
+124
+00:09:22,200 --> 00:09:25,740
+The scientific principle behind this effective method of gold mining
+
+125
+00:09:25,741 --> 00:09:30,280
+was established by Swiss mathematician Daniel Bernoulli in 1738.
+
+126
+00:09:31,800 --> 00:09:35,280
+Bernoulli found that if a containment of water is forced through a smaller opening,
+
+127
+00:09:35,820 --> 00:09:39,060
+such as a nozzle, the pressure that builds behind the opening
+
+128
+00:09:39,061 --> 00:09:42,020
+would increase the water's velocity, creating a jet.
+
+129
+00:09:44,200 --> 00:09:47,320
+Although it's unlikely that the miners were aware of Bernoulli's principle,
+
+130
+00:09:47,740 --> 00:09:49,760
+their method of mining was effective nonetheless.
+
+131
+00:09:50,560 --> 00:09:54,540
+The pressures were on the order of 800 pounds per square inch to 1,000 pounds per square inch.
+
+132
+00:09:54,980 --> 00:09:57,600
+So 1,000 pounds per square inch blasting against raw earth.
+
+133
+00:09:58,080 --> 00:09:59,640
+You clean the soil away in a hurry.
+
+134
+00:10:00,400 --> 00:10:04,040
+Hydraulic nozzles called monitors reached 16 feet in length
+
+135
+00:10:04,041 --> 00:10:08,900
+and could deliver as much as 30,000 gallons of water a minute in a 9-inch stream.
+
+136
+00:10:09,060 --> 00:10:15,940
+At its peak, the hydraulic mining industry in California employed 20,000 people and had
+
+137
+00:10:15,941 --> 00:10:20,820
+returns close to $100 million in gold.
+
+138
+00:10:20,821 --> 00:10:26,500
+The success of hydraulic gold mining was matched only by its devastating effect on the environment.
+
+139
+00:10:26,501 --> 00:10:31,680
+By 1884, it was outlawed in California by a federal injunction.
+
+140
+00:10:31,681 --> 00:10:37,720
+Although hydraulic gold mining had come to an end, a new kind of gold, black gold, was
+
+141
+00:10:37,721 --> 00:10:42,720
+was about to bring hydraulics to the forefront of the Industrial Revolution.
+
+142
+00:10:44,720 --> 00:10:48,720
+Daniel Bernoulli's father, Johann Bernoulli, became so jealous
+
+143
+00:10:48,721 --> 00:10:52,720
+after his son published his book, Hydrodynamica, in 1738,
+
+144
+00:10:52,721 --> 00:10:55,720
+that he wrote his own book on hydraulics,
+
+145
+00:10:55,721 --> 00:11:00,720
+and predated it in a futile attempt to take credit for his son's findings.
+
+146
+00:11:00,721 --> 00:11:12,160
+Until the 19th century, hydraulic power was achieved primarily through harnessing the energy of flowing water.
+
+147
+00:11:13,740 --> 00:11:17,840
+This would change in 1859 with the discovery of oil.
+
+148
+00:11:19,720 --> 00:11:27,680
+Unfortunately, water has this tendency to turn into solids at something like 32 degrees Fahrenheit.
+
+149
+00:11:28,180 --> 00:11:30,160
+That is, it freezes, turns into ice.
+
+150
+00:11:30,720 --> 00:11:38,480
+And it tends to boil at about 212, so it tends to have a relatively narrow operating window.
+
+151
+00:11:39,220 --> 00:11:45,660
+Oil, on the other hand, can have an operating temperature of well below zero degrees Fahrenheit
+
+152
+00:11:45,661 --> 00:11:48,800
+to well above 250 degrees Fahrenheit.
+
+153
+00:11:49,580 --> 00:11:55,860
+The discovery of a suitable hydraulic fluid made the hydraulic press an essential tool on the factory floor
+
+154
+00:11:55,861 --> 00:12:00,760
+and helped to drive the evolution of America's newest obsession, the automobile.
+
+155
+00:12:02,540 --> 00:12:10,500
+Hydraulics played a crucial part in enabling vehicles to transform from sort of the hay wagon type of thing
+
+156
+00:12:10,501 --> 00:12:16,520
+to the ever heavier, ever more comfortable, ever more, you know, livable vehicles that we have today.
+
+157
+00:12:18,380 --> 00:12:25,180
+By the early 1900s, the automobile industry began to provide a faster means of travel than the horse and carriage.
+
+158
+00:12:25,860 --> 00:12:27,820
+But this posed a difficult problem.
+
+159
+00:12:28,380 --> 00:12:30,140
+How do you make the motorized carriage stop?
+
+160
+00:12:31,180 --> 00:12:32,394
+In 1904, Ransom E.
+
+161
+00:12:32,395 --> 00:12:36,980
+Olds designed the first widely used brake system for the automobile.
+
+162
+00:12:38,040 --> 00:12:42,820
+This external brake consisted of a single flexible stainless steel band
+
+163
+00:12:42,821 --> 00:12:45,720
+wrapped around a drum on the rear axle of the car wheel.
+
+164
+00:12:46,340 --> 00:12:49,940
+When the brake pedal was applied, a cable would contract the band,
+
+165
+00:12:50,460 --> 00:12:52,340
+gripping the drum and stopping the wheel.
+
+166
+00:12:52,341 --> 00:12:56,120
+there was a lot of room for improvement
+
+167
+00:12:56,121 --> 00:12:59,820
+one of the major flaws of the external brake
+
+168
+00:12:59,821 --> 00:13:02,640
+was that it had no protection from outside elements
+
+169
+00:13:02,641 --> 00:13:05,140
+most roads were unpaved
+
+170
+00:13:05,141 --> 00:13:07,860
+and the metal bands and drums quickly wore down
+
+171
+00:13:07,861 --> 00:13:12,020
+the external brake was replaced by internal brakes
+
+172
+00:13:12,021 --> 00:13:15,980
+that relied on steel cables and pulleys
+
+173
+00:13:15,981 --> 00:13:17,460
+and the strength of the driver
+
+174
+00:13:17,461 --> 00:13:19,720
+to provide enough force to stop the car
+
+175
+00:13:19,721 --> 00:13:27,000
+Strong steel cables provide powerful, unfailing and flexible connections between the brake
+
+176
+00:13:27,001 --> 00:13:28,500
+pedal and the brake itself.
+
+177
+00:13:28,501 --> 00:13:32,440
+Of course, as the weight of the vehicles increased and their speed increased, we had
+
+178
+00:13:32,441 --> 00:13:36,160
+to come up with more effective ways to stop these machines.
+
+179
+00:13:36,161 --> 00:13:41,480
+In 1918, aviation pioneer Malcolm Lockheed began to develop a hydraulic brake system
+
+180
+00:13:41,481 --> 00:13:43,860
+for automobiles.
+
+181
+00:13:43,861 --> 00:13:48,680
+Using petroleum oil as a lubricant, Lockheed designed a hydraulic system that transmitted
+
+182
+00:13:48,681 --> 00:13:53,420
+fluid pressure against the brake drum allowing for smoother improved braking
+
+183
+00:13:53,421 --> 00:14:01,800
+ability in 1920 Lockheed sold his brake patent to Vincent Bendix founder of the
+
+184
+00:14:01,801 --> 00:14:08,300
+Bendix Corporation a year later the Duesenberg became the first passenger
+
+185
+00:14:08,301 --> 00:14:13,280
+car to come equipped with a four-wheel hydraulic brake system the way that the
+
+186
+00:14:13,281 --> 00:14:18,380
+early hydraulic systems for braking worked on cars was your pedal would push
+
+187
+00:14:18,381 --> 00:14:23,840
+on a piston in a cylinder full of hydraulic fluid and that would push the
+
+188
+00:14:23,841 --> 00:14:27,260
+fluid to each wheel. The fluid would come into another cylinder with two little
+
+189
+00:14:27,261 --> 00:14:32,600
+pistons that push out against a couple of shoes, sort of curved shoes that push
+
+190
+00:14:32,601 --> 00:14:35,940
+out onto a cylindrical drum and when they press on it like that it creates
+
+191
+00:14:35,941 --> 00:14:40,520
+friction and slows the car down. So suddenly you can transmit a lot of energy to
+
+192
+00:14:40,521 --> 00:14:46,280
+these individual wheel brakes. Although the brakes were a success, the rest of
+
+193
+00:14:46,281 --> 00:14:49,320
+the automotive industry was slow to adapt.
+
+194
+00:14:49,321 --> 00:14:53,460
+The American motorist was comfortable with mechanical brakes.
+
+195
+00:14:53,461 --> 00:14:57,160
+You can see, here's a cable, here's the link, it's right out where I can see it.
+
+196
+00:14:57,161 --> 00:15:02,440
+And to try and convince this person that you can push fluid through a line, whoa, that
+
+197
+00:15:02,441 --> 00:15:03,840
+was kind of a mind blower.
+
+198
+00:15:03,841 --> 00:15:09,440
+So it was a difficult uphill battle to make that case, and they had to sort of do it by
+
+199
+00:15:09,441 --> 00:15:13,640
+just demonstrating how much more effective it was.
+
+200
+00:15:13,641 --> 00:15:18,720
+hydraulic application that the automotive industry was hoping consumers would soon demand was power
+
+201
+00:15:18,721 --> 00:15:19,421
+steering.
+
+202
+00:15:19,422 --> 00:15:24,340
+But the Great Depression of the 1930s brought its development to a screeching halt.
+
+203
+00:15:25,860 --> 00:15:30,300
+Poverty-stricken Americans didn't have the means or the interest to spend money on the latest
+
+204
+00:15:30,301 --> 00:15:32,512
+automobile gadget to hit the market.
+
+205
+00:15:32,513 --> 00:15:36,260
+By the time the American economy began to reinvigorate itself
+
+206
+00:15:36,261 --> 00:15:41,020
+in the 1940s, another crippling event was to take hold of America.
+
+207
+00:15:43,640 --> 00:15:50,160
+Most of the R&D efforts for improving hydraulics went into the war effort for tanks and vehicles and ships and things.
+
+208
+00:15:51,280 --> 00:15:55,780
+And so really after World War II was over and people who had been in the war got back into the workplace,
+
+209
+00:15:56,040 --> 00:15:58,920
+that saw a real blossoming of the hydraulic industry.
+
+210
+00:15:59,640 --> 00:16:02,360
+The automobile industry slipped into high gear.
+
+211
+00:16:03,160 --> 00:16:07,480
+Drivers were ready to go faster than ever before, and Detroit was happy to oblige them.
+
+212
+00:16:08,340 --> 00:16:10,260
+Those engines were made out of cast iron.
+
+213
+00:16:10,261 --> 00:16:14,260
+They were big and heavy, and they were almost exclusively in the front.
+
+214
+00:16:14,261 --> 00:16:16,260
+They were over the steering wheels.
+
+215
+00:16:16,261 --> 00:16:21,260
+So with all that weight, it became very difficult to turn those wheels.
+
+216
+00:16:21,261 --> 00:16:27,260
+The technology for power steering had been developed for the automobile before World War II,
+
+217
+00:16:27,261 --> 00:16:31,260
+making it an easy transition for auto manufacturers.
+
+218
+00:16:31,261 --> 00:16:35,260
+Just take a hydraulic pump and have this driven by the engine,
+
+219
+00:16:35,261 --> 00:16:41,240
+And the combination of the hydraulic flow and pressure is what provided the power to turn the wheels to the left or right.
+
+220
+00:16:41,460 --> 00:16:44,500
+If you turn it to the left, all it does is actuate a valve.
+
+221
+00:16:44,860 --> 00:16:49,680
+The valve opens and routes fluid into a piston, which would turn the wheel to the left.
+
+222
+00:16:50,640 --> 00:16:52,920
+So power steering became an absolute godsend.
+
+223
+00:16:53,000 --> 00:16:56,660
+And the early ones, they wanted to make themselves known.
+
+224
+00:16:56,800 --> 00:16:59,880
+And so your power steering would be totally zero effort.
+
+225
+00:17:00,040 --> 00:17:03,320
+I mean, you could, with your pinky finger, steer these gigantic cars.
+
+226
+00:17:05,260 --> 00:17:10,820
+Since the advent of power steering and brakes, their hydraulic systems have largely remained the same.
+
+227
+00:17:12,040 --> 00:17:19,300
+Brakes are now complemented with vacuum assist, making it possible to stop even the largest SUV with just a touch from your foot.
+
+228
+00:17:20,360 --> 00:17:27,360
+Power steering also features power assist, which increases the flow of hydraulic fluid based on the speed with which the steering wheel is turned.
+
+229
+00:17:29,480 --> 00:17:34,620
+Modern hydraulic applications for the automobile focus on style and driver comfort.
+
+230
+00:17:35,260 --> 00:17:44,980
+You can spend a car with metal springs, but you can also put a piston there with hydraulics to get the same type of springing effect.
+
+231
+00:17:45,960 --> 00:17:54,940
+The holy grail of suspension is active body control, a feature only found in high-end luxury cars like the Mercedes-Benz CL Coupe.
+
+232
+00:17:56,120 --> 00:18:02,340
+Active body control will keep the car steady and level, even on the sharpest turns or the bumpiest of roads.
+
+233
+00:18:02,341 --> 00:18:07,360
+the system works by placing a hydraulic plunger on top of the suspension coil.
+
+234
+00:18:08,920 --> 00:18:12,140
+If the car runs over a pothole, within milliseconds,
+
+235
+00:18:12,940 --> 00:18:15,860
+sensors located throughout the car activate the plunger,
+
+236
+00:18:16,520 --> 00:18:19,120
+causing it to extend and balance the car body.
+
+237
+00:18:20,180 --> 00:18:24,100
+But perhaps its most unique feature is the ability to change suspension.
+
+238
+00:18:25,400 --> 00:18:27,180
+Want the feel of a high-end sports car?
+
+239
+00:18:27,181 --> 00:18:30,320
+Just push a button and the hydraulics will make it happen.
+
+240
+00:18:32,340 --> 00:18:38,340
+Although the invention of hydraulic brakes and power steering helped drive the automotive business,
+
+241
+00:18:38,341 --> 00:18:45,340
+the impact these innovations had on the construction industry literally changed the face of the earth.
+
+242
+00:18:48,340 --> 00:18:53,340
+Vincent Bendix, founder of Bendix Brakes, was inspired to develop a better car brake
+
+243
+00:18:53,341 --> 00:18:58,340
+after his father was hit and killed by a car with defective cable brakes.
+
+244
+00:19:02,340 --> 00:19:11,560
+The greatest example of the brute strength that hydraulics can deliver is found in the construction industry.
+
+245
+00:19:18,460 --> 00:19:26,100
+Over the years, the excavators, cranes, and trucks that have built our world have grown exponentially in size.
+
+246
+00:19:28,440 --> 00:19:32,240
+Achieving unmatched efficiency and power through hydraulics.
+
+247
+00:19:32,340 --> 00:19:36,680
+If you go to a construction site, you can't help but see hydraulics.
+
+248
+00:19:37,500 --> 00:19:40,640
+It's everywhere. It's in virtually every machine that's on the construction site.
+
+249
+00:19:41,880 --> 00:19:46,080
+And in many cases, or probably most cases, it's because there's just no better way of doing it.
+
+250
+00:19:48,040 --> 00:19:50,260
+At a warehouse in Youngstown, Ohio,
+
+251
+00:19:50,980 --> 00:19:55,420
+the Robbins Company is putting the final touches on two gigantic tunnel boring machines.
+
+252
+00:19:57,040 --> 00:20:01,820
+The drills are nearly 400 feet long and weigh a hefty 800 tons.
+
+253
+00:20:02,340 --> 00:20:07,400
+To move something this massive, there was only one practical alternative.
+
+254
+00:20:08,780 --> 00:20:16,300
+The amount of force we get from the hydraulics far exceeds what we can get from electrics without going into great cost.
+
+255
+00:20:16,920 --> 00:20:21,880
+Hydraulic gives you more force and power, especially in these type of machines.
+
+256
+00:20:22,480 --> 00:20:25,680
+You need that force to cut the rock as hard as it can be sometimes.
+
+257
+00:20:25,681 --> 00:20:34,020
+When the drill is activated, 800 gallons of hydraulic fluid travel through seven miles
+
+258
+00:20:34,021 --> 00:20:40,000
+of hosing to hundreds of hydraulic components.
+
+259
+00:20:40,001 --> 00:20:46,300
+The hydraulic system is capable of pushing the drill's pistons at a force of 5,250 pounds
+
+260
+00:20:46,301 --> 00:20:48,240
+of pressure per square inch.
+
+261
+00:20:48,241 --> 00:20:54,960
+When we talk about hydraulic pressure, what we're doing is putting force into a cylinder
+
+262
+00:20:54,961 --> 00:20:58,540
+which in turn puts force against a given component.
+
+263
+00:20:59,500 --> 00:21:03,240
+Doing the cutting is a 24-foot diameter drill head
+
+264
+00:21:03,241 --> 00:21:06,840
+that runs on 10, 450-horsepower motors.
+
+265
+00:21:07,700 --> 00:21:10,700
+The drill head features 46 19-inch teeth
+
+266
+00:21:10,701 --> 00:21:13,900
+that will shatter rock at a rate of 25 feet an hour.
+
+267
+00:21:14,660 --> 00:21:16,460
+Although electrics power the drill head,
+
+268
+00:21:16,820 --> 00:21:19,180
+it's the hydraulics that makes the cutting possible.
+
+269
+00:21:20,160 --> 00:21:23,860
+Behind me you see some curved items we call a gripper shoe.
+
+270
+00:21:23,861 --> 00:21:30,760
+So if we put 5,000 pounds of pressure on that shoe, that is giving us enough force to hold
+
+271
+00:21:30,761 --> 00:21:35,580
+that machine in place so that it doesn't try to spin in the tunnel.
+
+272
+00:21:35,581 --> 00:21:40,100
+The grip shoe transmits 4 million pounds of force against a tunnel wall.
+
+273
+00:21:40,101 --> 00:21:44,820
+When the drill is stabilized, a second set of cylinders extend, pushing the drill forward
+
+274
+00:21:44,821 --> 00:21:47,960
+at a force of 3 million pounds.
+
+275
+00:21:47,961 --> 00:21:49,960
+That shoe weighs about 40,000 pounds.
+
+276
+00:21:49,961 --> 00:21:58,360
+And as it moves very smoothly, as you see, it just shows you how the hydraulics move that kind of weight smoothly and steady.
+
+277
+00:21:59,500 --> 00:22:05,700
+After inspection, the mammoth drills will be sent to Iceland for the construction of a hydroelectric power plant.
+
+278
+00:22:07,820 --> 00:22:14,820
+Prodigious construction equipment, such as the Robins tunnel boring machines, represents the unparalleled power that hydraulics can offer.
+
+279
+00:22:14,821 --> 00:22:23,580
+but the history of hydraulics in construction had a fairly modest beginning starting with a
+
+280
+00:22:23,581 --> 00:22:31,980
+flatbed truck by 1910 the truck was altered from a simple transportation vehicle to a machine that
+
+281
+00:22:31,981 --> 00:22:40,500
+could carry large bulk materials such as dirt rock and coal placing these materials into the
+
+282
+00:22:40,501 --> 00:22:44,500
+The truck bed was the job of the steam shovel.
+
+283
+00:22:44,501 --> 00:22:47,500
+Unloading them was done with a mechanical dump body.
+
+284
+00:22:47,501 --> 00:22:52,500
+The construction industry today relies on the hydraulic cylinder.
+
+285
+00:22:52,501 --> 00:22:58,500
+If you consider the dump truck, the early trucks consisted of a winch and pulley system.
+
+286
+00:22:58,501 --> 00:23:05,500
+The operator had to get out of the cab, wind up this crank to dump the bed of the truck.
+
+287
+00:23:05,501 --> 00:23:15,080
+Today, they sit in the cab, they push a button, the hydraulics extends a ram from the cylinder and empties the bed of the truck.
+
+288
+00:23:15,860 --> 00:23:26,680
+The hydraulic cylinder is a method of converting the hydraulic energy to a workable energy in a back-and-forth motion.
+
+289
+00:23:26,800 --> 00:23:29,520
+And that's really all it does is it moves in or it moves out.
+
+290
+00:23:29,521 --> 00:23:36,140
+This is the popular hydraulic type, which operates easily and efficiently under all loads.
+
+291
+00:23:36,780 --> 00:23:39,880
+The end gate is double-acting and is operated by a control level.
+
+292
+00:23:41,560 --> 00:23:47,640
+The increased efficiency and reliability of the hydraulic dump truck resonated throughout the construction industry.
+
+293
+00:23:48,440 --> 00:23:54,360
+But the impact of the Great Depression and World War II stifled the growth of hydraulic construction machines.
+
+294
+00:23:54,361 --> 00:24:00,660
+After the war, new hydraulic pumps that were designed to increase fluid pressure for tanks
+
+295
+00:24:00,661 --> 00:24:04,560
+and aircraft were introduced to the revitalized construction industry.
+
+296
+00:24:06,520 --> 00:24:11,400
+Coupled with the advent of power steering and hydraulic brakes, manufacturers started
+
+297
+00:24:11,401 --> 00:24:15,760
+to build bigger, heavier, and more powerful machines than ever before.
+
+298
+00:24:16,860 --> 00:24:20,860
+The construction industry has to move great quantities of earth.
+
+299
+00:24:21,380 --> 00:24:26,080
+So you could have 10 backhoes loading 10 trucks,
+
+300
+00:24:26,720 --> 00:24:31,520
+or you could have one backhoe loading one large truck.
+
+301
+00:24:32,080 --> 00:24:35,860
+And when you did that, you had to move the same amount of earth,
+
+302
+00:24:36,040 --> 00:24:39,500
+so that means the piece of equipment had to be much larger.
+
+303
+00:24:41,440 --> 00:24:45,620
+Today, construction vehicles are some of the largest machines in the world,
+
+304
+00:24:45,621 --> 00:24:48,300
+with nearly all of them utilizing hydraulics,
+
+305
+00:24:48,301 --> 00:24:52,920
+including the Caterpillar 330CL excavator.
+
+306
+00:24:53,520 --> 00:24:56,540
+The weight of this arm is in the neighborhood of 10,000 pounds.
+
+307
+00:24:57,980 --> 00:25:03,520
+We'd have quite a bit of problem moving that arm efficiently without the use of hydraulics.
+
+308
+00:25:07,680 --> 00:25:12,480
+Hydraulics also makes it possible to maneuver the Liebherr T-282B mining truck
+
+309
+00:25:12,481 --> 00:25:18,440
+and its 400-ton payload capacity?
+
+310
+00:25:19,960 --> 00:25:22,120
+Well, hydraulic cylinders provide the power
+
+311
+00:25:22,121 --> 00:25:24,460
+to lift the bed nearly 50 feet into the air.
+
+312
+00:25:28,400 --> 00:25:30,380
+Cranes rely on hydraulics, too.
+
+313
+00:25:31,260 --> 00:25:33,120
+Taylor Machine Works' 80-foot-long
+
+314
+00:25:33,121 --> 00:25:35,940
+and 80-foot-wide gantry crane called Big Red
+
+315
+00:25:35,941 --> 00:25:41,660
+uses hydraulics to lift cargo containers
+
+316
+00:25:41,661 --> 00:25:44,440
+that weigh upwards of 90,000 pounds.
+
+317
+00:25:45,580 --> 00:25:47,560
+But hydraulic construction machines
+
+318
+00:25:47,561 --> 00:25:49,760
+don't always focus on strength and power.
+
+319
+00:25:51,420 --> 00:25:53,980
+Timberjack's tree forester uses hydraulics
+
+320
+00:25:53,981 --> 00:25:56,400
+to walk through the forest with the grace of a dancer.
+
+321
+00:26:00,240 --> 00:26:03,280
+But you might want to watch your toes around this ballerina.
+
+322
+00:26:03,920 --> 00:26:09,740
+Whether it's walking, dumping, digging, or drilling,
+
+323
+00:26:09,741 --> 00:26:14,280
+the environment of a construction site is one of the dirtiest places on earth
+
+324
+00:26:14,281 --> 00:26:20,980
+yet the most identifiable component of the hydraulic machine the cylinder never appears
+
+325
+00:26:20,981 --> 00:26:25,740
+to lose its luster any kind of contamination within the hydraulic system is going to have
+
+326
+00:26:25,741 --> 00:26:33,500
+a devastating effect upon the system itself the cylinders have a wiper on the end of the cylinder
+
+327
+00:26:33,501 --> 00:26:39,620
+head that as the cylinder rod retracts it cleans off the excess dirt so when it extends again
+
+328
+00:26:39,621 --> 00:26:41,220
+and it's as though it were needed.
+
+329
+00:26:43,400 --> 00:26:46,800
+But hydraulics is not just revolutionized machines on the ground.
+
+330
+00:26:47,380 --> 00:26:49,940
+It's revolutionized machines in the sky, too.
+
+331
+00:26:53,300 --> 00:26:58,720
+From the latest military planes to the future of commercial air travel.
+
+332
+00:27:00,720 --> 00:27:06,280
+Speed boat racing pioneer Garfield Wood invented the hydraulic lift in 1911
+
+333
+00:27:06,281 --> 00:27:10,240
+as a means to unload coal from truck beds more efficiently.
+
+334
+00:27:17,080 --> 00:27:25,160
+Over the last 100 years, the aerospace industry has transformed from this to this.
+
+335
+00:27:26,500 --> 00:27:32,840
+The astounding leap in aircraft technology would not have been possible without the power of hydraulics.
+
+336
+00:27:32,841 --> 00:27:36,840
+The airplane really shows a prime example of one of the advantages of hydraulics,
+
+337
+00:27:36,841 --> 00:27:40,840
+to where you can have a single place where you generate your power through the engine
+
+338
+00:27:40,841 --> 00:27:44,840
+and transmit this through hydraulic lines to wherever you need it,
+
+339
+00:27:44,841 --> 00:27:46,840
+whether it's at the back of the plane or in the wings.
+
+340
+00:27:50,840 --> 00:27:55,840
+Inside the body of a passenger aircraft is an intricate system of pumps and hoses
+
+341
+00:27:55,841 --> 00:28:00,840
+that transfers the highly pressurized fluid that commands nearly every phase of flight control.
+
+342
+00:28:02,840 --> 00:28:06,760
+Most of these systems operate by what is known as fly-by-wire.
+
+343
+00:28:07,960 --> 00:28:14,840
+In a typical fly-by-wire system, flight command is controlled electrically, but powered hydraulically.
+
+344
+00:28:17,180 --> 00:28:21,400
+When a pilot wants to move the rudder, the command is input into a computer.
+
+345
+00:28:21,960 --> 00:28:25,320
+The signal is then sent electrically by wire to the hydraulic system.
+
+346
+00:28:26,800 --> 00:28:32,660
+This system consists of one reservoir per engine that supplies fluid to two pumps per engine.
+
+347
+00:28:32,840 --> 00:28:39,600
+The pumps send fluid pressurized at 3,000 pounds per square inch through metal tubing
+
+348
+00:28:39,601 --> 00:28:44,120
+that extends the remaining length of the fuselage where it connects to an actuator, pushing
+
+349
+00:28:44,121 --> 00:28:49,360
+a piston and moving the rudder.
+
+350
+00:28:49,361 --> 00:28:53,840
+This powerful and efficient system of fluid pressure transference is a huge contrast to
+
+351
+00:28:53,841 --> 00:28:59,640
+the one used by Orville and Wilbur Wright over a hundred years ago.
+
+352
+00:28:59,641 --> 00:29:02,260
+The Wright Brothers aircraft had no hydraulics on it.
+
+353
+00:29:02,880 --> 00:29:07,440
+Its basic control was by a lever and cables or pulleys,
+
+354
+00:29:07,600 --> 00:29:10,480
+and this allowed them to have the three axes of control.
+
+355
+00:29:11,980 --> 00:29:16,040
+During World War I, the slow-moving dual-wing airplanes
+
+356
+00:29:16,041 --> 00:29:19,300
+functioned similarly to early Wright Brothers flyers,
+
+357
+00:29:20,020 --> 00:29:24,100
+relying on the strength of the aviator to move cables and pulleys for flight control.
+
+358
+00:29:24,980 --> 00:29:29,360
+Those were small aircraft, so therefore it was very easy for the pilot
+
+359
+00:29:29,361 --> 00:29:35,600
+to control the motion of the actuators simply by moving the stick back and forth.
+
+360
+00:29:37,080 --> 00:29:42,700
+After World War I, the military looked at ways to increase the speed and performance of the airplane.
+
+361
+00:29:44,900 --> 00:29:47,800
+Engineers focused their attention on the landing gear.
+
+362
+00:29:48,760 --> 00:29:50,520
+All landing gear before were fixed.
+
+363
+00:29:51,060 --> 00:29:58,200
+The Navy decided to do some test in which they actually raised the landing gear through a crank and pulley arrangement,
+
+364
+00:29:58,201 --> 00:30:02,200
+and they found that it could reduce to drag about 30 percent,
+
+365
+00:30:02,600 --> 00:30:06,580
+but it was very intensive and therefore hydraulics was looked at
+
+366
+00:30:06,581 --> 00:30:09,180
+as a way of doing this very effectively.
+
+367
+00:30:09,780 --> 00:30:15,080
+The first hydraulically operated landing gear system was produced in 1929,
+
+368
+00:30:15,980 --> 00:30:18,780
+opening the door for hydraulic applications on aircraft.
+
+369
+00:30:19,780 --> 00:30:23,920
+In the years that followed, planes continued to grow in size and speed,
+
+370
+00:30:23,921 --> 00:30:29,440
+increasing pilot difficulty to command the aircraft using the stick and pulley system.
+
+371
+00:30:30,440 --> 00:30:34,300
+To be able to move the elevators, for example, or the rudder or the air lines.
+
+372
+00:30:34,580 --> 00:30:39,120
+Trying to do it by hand or the conventional pulley and cable system,
+
+373
+00:30:39,121 --> 00:30:41,860
+most of those aircraft would be into the ground or the water.
+
+374
+00:30:42,920 --> 00:30:45,880
+With the success of hydraulically operated landing gear,
+
+375
+00:30:46,540 --> 00:30:49,860
+military engineers followed the lead set by the automobile industry,
+
+376
+00:30:49,861 --> 00:30:54,000
+installing hydraulic brakes aboard all military aircraft.
+
+377
+00:30:55,740 --> 00:30:57,640
+Soon everything from flaps and rudders
+
+378
+00:30:57,641 --> 00:31:00,680
+to gun turrets and bomb bay doors
+
+379
+00:31:00,681 --> 00:31:02,880
+were utilizing hydraulics to actuate.
+
+380
+00:31:03,880 --> 00:31:06,940
+Although the flight control system still required the pilot
+
+381
+00:31:06,941 --> 00:31:08,420
+to move cables and pulleys,
+
+382
+00:31:09,080 --> 00:31:12,500
+the actuators now moved with hydraulic multiplication of force.
+
+383
+00:31:13,860 --> 00:31:17,200
+But the planes of World War II needed to perform maneuvers
+
+384
+00:31:17,201 --> 00:31:19,600
+faster and swifter than ever before.
+
+385
+00:31:19,860 --> 00:31:28,360
+The pressures have to increase to be able to allow the pilot to move the surfaces, to do what he wanted to do.
+
+386
+00:31:29,440 --> 00:31:31,120
+You needed a new type of pump.
+
+387
+00:31:32,980 --> 00:31:39,640
+The gear pumps, which were being used on most military aircraft, were inefficient and would leak at high pressures.
+
+388
+00:31:41,320 --> 00:31:48,460
+Hydraulic pioneer Harry Vickers designed a piston pump, which quickly became the predominant pump for World War II aircraft.
+
+389
+00:31:49,860 --> 00:31:56,840
+With these new piston pumps, fluid pressure increased from 1,000 psi to 3,000 psi.
+
+390
+00:31:59,200 --> 00:32:04,160
+But this increase in pressure also added stress to the hydraulic hoses and sealants.
+
+391
+00:32:05,800 --> 00:32:12,940
+If a hydraulic fluid would spray onto an engine manifold, it would certainly cause a fire.
+
+392
+00:32:12,941 --> 00:32:19,140
+And many of the fires that you've seen, in general, those were hydraulic leaks that started the fires.
+
+393
+00:32:19,860 --> 00:32:23,440
+Many times a hydraulic leak would not be something you'd think of with dripping.
+
+394
+00:32:23,760 --> 00:32:26,200
+It's high pressure, so it would leak out of a hose or a fitting.
+
+395
+00:32:26,560 --> 00:32:28,560
+It would often come out as a spray.
+
+396
+00:32:28,980 --> 00:32:32,080
+If there was a fire already started, the leaking oil would feed the fire
+
+397
+00:32:32,081 --> 00:32:33,420
+and you'd have catastrophic events.
+
+398
+00:32:35,380 --> 00:32:40,040
+To combat this, the military changed to a less flammable kerosene oil
+
+399
+00:32:40,041 --> 00:32:42,420
+called Mil H 5606.
+
+400
+00:32:43,440 --> 00:32:47,100
+A new sealant was designed as well, known simply as the O-ring.
+
+401
+00:32:48,040 --> 00:32:53,780
+The O-ring has a unique ability to be able to compress, to fill a space,
+
+402
+00:32:53,940 --> 00:32:56,940
+and it's able to do that very efficiently.
+
+403
+00:32:57,380 --> 00:33:00,020
+It's a donut-shaped piece of elastomer,
+
+404
+00:33:00,540 --> 00:33:07,400
+and it became the seal of choice for most of the products that are in a hydraulic system.
+
+405
+00:33:08,280 --> 00:33:12,460
+By the end of World War II, innovations in aeronautic hydraulics
+
+406
+00:33:12,461 --> 00:33:16,000
+found an easy transition into the burgeoning commercial aircraft industry.
+
+407
+00:33:17,100 --> 00:33:21,060
+Commercial airlines discovered that they could also take advantage of the hydraulics
+
+408
+00:33:21,061 --> 00:33:25,020
+to where their aircraft could be made larger, lighter, and able to hold more people.
+
+409
+00:33:25,300 --> 00:33:30,480
+So by having these aircraft that could carry more people, it made airline travel more practical.
+
+410
+00:33:31,960 --> 00:33:38,440
+The mil-aged kerosene-based fluids used in military aircraft were deemed unsafe by the FAA.
+
+411
+00:33:39,520 --> 00:33:46,020
+In 1948, aircraft manufacturers addressed this concern with the development of Skydrol 7000.
+
+412
+00:33:46,880 --> 00:33:50,300
+This fluid was a phosphate ester and is still in use today.
+
+413
+00:33:50,840 --> 00:33:54,020
+Phosphate esters are a class of synthetic hydraulic fluids
+
+414
+00:33:54,021 --> 00:33:57,120
+which have very good lubricating qualities.
+
+415
+00:33:57,660 --> 00:34:00,340
+In addition, they tend to be fire resistant.
+
+416
+00:34:02,380 --> 00:34:03,700
+Except for the fluid,
+
+417
+00:34:04,380 --> 00:34:06,840
+the hydraulic functions of early commercial aircraft
+
+418
+00:34:06,841 --> 00:34:09,720
+were almost identical to those used on military planes.
+
+419
+00:34:10,980 --> 00:34:12,820
+Hydraulics actuated the landing gear,
+
+420
+00:34:13,440 --> 00:34:14,660
+moved flaps and rudders,
+
+421
+00:34:14,661 --> 00:34:17,060
+and controlled the brakes.
+
+422
+00:34:17,860 --> 00:34:20,600
+Because of the size and weight of commercial airliners,
+
+423
+00:34:21,440 --> 00:34:24,580
+hydraulic pressure increased to 3,000 PSI,
+
+424
+00:34:25,240 --> 00:34:28,260
+the same pressure already used on most military aircraft
+
+425
+00:34:28,261 --> 00:34:29,960
+and construction machines.
+
+426
+00:34:31,540 --> 00:34:34,820
+Although this increase in fluid pressure gave pilots the muscle
+
+427
+00:34:34,821 --> 00:34:37,160
+to operate actuators through cables and pulleys,
+
+428
+00:34:37,600 --> 00:34:40,820
+by the 1980s, it was time for a change.
+
+429
+00:34:42,100 --> 00:34:44,400
+The problem with the cable and pulley is
+
+430
+00:34:44,401 --> 00:34:47,100
+as surfaces become larger and larger,
+
+431
+00:34:47,300 --> 00:34:50,040
+it is very difficult even to give the correct feel.
+
+432
+00:34:50,540 --> 00:34:52,840
+Electronics can make this decision much quicker.
+
+433
+00:34:53,200 --> 00:34:56,320
+Today's aircraft have much greater performance capabilities
+
+434
+00:34:56,321 --> 00:34:59,960
+and have to do things like moving these surfaces almost instantaneously.
+
+435
+00:35:01,020 --> 00:35:04,980
+Fly-by-wire hydraulic systems continue to dominate the flight control
+
+436
+00:35:04,981 --> 00:35:08,120
+of even the most advanced commercial and military aircraft.
+
+437
+00:35:09,020 --> 00:35:13,460
+The hydraulics aboard the F-22 fighter plane are pretty much state-of-the-art.
+
+438
+00:35:13,461 --> 00:35:22,920
+We have all of the primary flight controls, the landing gear, the weapons bay doors open very quickly and close very quickly to launch missiles.
+
+439
+00:35:23,280 --> 00:35:30,320
+The propulsion system depends very heavily on hydraulics in the F-22 for control of the inlets and the exhaust gnaws.
+
+440
+00:35:32,960 --> 00:35:40,860
+The biggest advancement in hydraulic technology for aircraft is the development of the EHA, or Electric Hydrostatic Actuator.
+
+441
+00:35:40,861 --> 00:35:50,820
+Originally developed in the early 90s, the EHA contains all the components of a hydraulic system in one small package.
+
+442
+00:35:52,280 --> 00:36:01,680
+By placing EHAs next to aircraft control surfaces, designers eliminate thousands of feet of hydraulic tubing and hundreds of pounds of weight.
+
+443
+00:36:02,340 --> 00:36:10,600
+This EHA is considered cutting-edge technology because it removes the distribution elements that are part of a conventional hydraulic system.
+
+444
+00:36:10,601 --> 00:36:13,600
+There are two electric motors that work in tandem.
+
+445
+00:36:14,080 --> 00:36:21,020
+We also have hydraulic reservoirs to capture the thermal expansion contraction required to power the hydraulic pumps of this system.
+
+446
+00:36:21,420 --> 00:36:25,980
+The linkage here is attached directly to the flight control surface.
+
+447
+00:36:27,580 --> 00:36:35,060
+The first aircraft to use EHA technology for primary flight control will be the F-35 Joint Strike Fighter.
+
+448
+00:36:40,600 --> 00:36:47,600
+The first commercial aircraft to feature EHAs, in this case for secondary flight control,
+
+449
+00:36:47,601 --> 00:36:50,600
+will be the new Airbus A380.
+
+450
+00:36:50,601 --> 00:36:57,600
+Boasting a length of 239 feet and a wingspan nearly as long as a football field,
+
+451
+00:36:57,601 --> 00:37:01,600
+this is the largest commercial airplane ever to be built.
+
+452
+00:37:01,601 --> 00:37:08,600
+New hydraulic technology had to be created to control an aircraft that weighs well over 300 tons.
+
+453
+00:37:08,601 --> 00:37:15,760
+Certainly the A380 offered the hydraulic system designer several major challenges.
+
+454
+00:37:15,761 --> 00:37:29,700
+If we were going to use the conventional hydraulic system concepts, 3000 PSI for example, the pumps would be massive, the lines, fittings and hoses would be massive.
+
+455
+00:37:29,980 --> 00:37:38,080
+A solution to this was to increase the pressure, not from 3000 to 4000, but to take it to the next step, 5000 PSI.
+
+456
+00:37:38,600 --> 00:37:46,600
+But as the aerospace industry continues to look for ways to improve upon the efficiency and safety of flight control systems,
+
+457
+00:37:46,601 --> 00:37:53,600
+engineers are investigating the idea of using electric motors to actuate control surfaces,
+
+458
+00:37:53,601 --> 00:37:56,600
+thus eliminating hydraulics completely from flight control.
+
+459
+00:37:58,600 --> 00:38:02,600
+Before that happens, a formidable hurdle lies ahead.
+
+460
+00:38:02,601 --> 00:38:06,740
+engineers need to develop a practical motor that can create the needed force
+
+461
+00:38:06,741 --> 00:38:11,160
+to actuate the surface controls efficiently.
+
+462
+00:38:11,660 --> 00:38:17,220
+But hydraulics not only shapes our future, it brings the past to life. Prehistoric
+
+463
+00:38:17,221 --> 00:38:23,300
+dinosaurs animate with the help of hydraulics. The Airbus A380 will feature
+
+464
+00:38:23,301 --> 00:38:28,880
+four independent primary flight control systems. Each of these systems is capable
+
+465
+00:38:28,881 --> 00:38:34,080
+of operating the aircraft should the others fail, creating a redundancy system unequaled
+
+466
+00:38:34,081 --> 00:38:36,260
+by any military or commercial plane.
+
+467
+00:38:43,860 --> 00:38:48,920
+Hydraulics not only plays a key role in our work lives, it plays a role in our play lives, too.
+
+468
+00:38:51,540 --> 00:38:56,340
+Universal Studios in Hollywood, California is home to some of the most cutting-edge hydraulic
+
+469
+00:38:56,341 --> 00:38:57,500
+attractions in the world.
+
+470
+00:38:58,880 --> 00:39:05,412
+You would not be able to have any of these attractions move this much weight and be this reliable without hydraulics.
+
+471
+00:39:05,414 --> 00:39:06,920
+It just would never happen.
+
+472
+00:39:07,920 --> 00:39:13,160
+One of the more complex hydraulic attractions at Universal Studios is Earthquake the Ride.
+
+473
+00:39:15,060 --> 00:39:20,500
+Passengers entering this stage are given an idea of what it's like to endure a massive seismic event.
+
+474
+00:39:28,880 --> 00:39:42,880
+The hydraulic system for Earthquake runs on just two 50-horsepower motors.
+
+475
+00:39:44,640 --> 00:39:49,300
+The system works by sending fluid through hydraulic pumps to a series of accumulators
+
+476
+00:39:49,301 --> 00:39:55,360
+that store the fluid at pressure, keeping it ready for each show.
+
+477
+00:39:55,361 --> 00:40:00,360
+Underneath the floor of earthquake, a dark cavern is home to dozens of hydraulic cylinders.
+
+478
+00:40:00,361 --> 00:40:06,900
+Moving the 20,000-pound floor bed in linear and lateral movements, the cylinders create
+
+479
+00:40:06,901 --> 00:40:10,180
+the feeling of an 8.3 temblor.
+
+480
+00:40:10,181 --> 00:40:13,840
+But that's only one of the hydraulic effects on this ride.
+
+481
+00:40:13,841 --> 00:40:17,420
+As the show's going on, we have a large slab that'll fall.
+
+482
+00:40:17,421 --> 00:40:20,920
+It's got four big hydraulic cylinders behind it.
+
+483
+00:40:20,921 --> 00:40:23,820
+It is probably somewhere around 9,000 pounds.
+
+484
+00:40:25,400 --> 00:40:29,540
+And also we have a train that comes out and crashes right in front of the tram.
+
+485
+00:40:29,880 --> 00:40:31,700
+It's driven out by a hydraulic ram.
+
+486
+00:40:33,520 --> 00:40:37,200
+When the tram exits the stage, the hydraulic cylinders retract,
+
+487
+00:40:37,860 --> 00:40:40,480
+carefully putting all the props back to their original positions.
+
+488
+00:40:41,760 --> 00:40:45,260
+You have to keep the show exactly the same every single time.
+
+489
+00:40:47,360 --> 00:40:49,200
+Earthquakes, hydraulics are very sophisticated.
+
+490
+00:40:49,201 --> 00:40:54,200
+Universal's Terminator 2 3D also features several precision
+
+491
+00:40:54,201 --> 00:40:59,200
+hydraulic effects. Hydraulics control the platforms that raise
+
+492
+00:40:59,201 --> 00:41:04,200
+and lower different characters onto the stage. And they also
+
+493
+00:41:04,201 --> 00:41:09,200
+animate the six gun-toting Cyberdyne robots using 3,000 PSI
+
+494
+00:41:09,201 --> 00:41:15,200
+pumps to actuate cylinders in the head, torso, and arms.
+
+495
+00:41:19,200 --> 00:41:27,180
+But the attraction that utilizes the most hydraulic effects at Universal is Jurassic Park,
+
+496
+00:41:27,181 --> 00:41:27,881
+the ride.
+
+497
+00:41:27,882 --> 00:41:33,140
+Visitors cruise through prehistoric tropics, encountering a bevy of life-size and
+
+498
+00:41:33,141 --> 00:41:40,260
+lifelike dinosaurs, including a 40-foot tall ultrasaur that uses 15 hydraulic cylinders
+
+499
+00:41:40,261 --> 00:41:41,520
+in the neck alone.
+
+500
+00:41:41,521 --> 00:41:50,960
+This particular figure we just saw, the oil that comes in here, this is a pressure line.
+
+501
+00:41:50,961 --> 00:41:53,400
+It's set at 3,000 psi.
+
+502
+00:41:53,401 --> 00:41:59,020
+The hydraulic module here will distribute the oil to the figure itself, which has the
+
+503
+00:41:59,021 --> 00:42:01,020
+one we saw, it's just a torso and head.
+
+504
+00:42:01,021 --> 00:42:06,800
+It has six separate moves, six separate cylinders, and it's all powered by hydraulic.
+
+505
+00:42:06,801 --> 00:42:11,120
+After encountering several dinosaurs, the ride drops another hydraulic throw, so to
+
+506
+00:42:11,121 --> 00:42:16,155
+speak. We use hydraulics on the following car for two reasons really.
+
+507
+00:42:16,156 --> 00:42:17,760
+It's more controllable
+
+508
+00:42:17,761 --> 00:42:21,811
+than any other kind of power and it's also less expensive energy-wise.
+
+509
+00:42:21,812 --> 00:42:23,200
+The cylinder is actually
+
+510
+00:42:23,201 --> 00:42:25,333
+hooked up to a block and tackle.
+
+511
+00:42:25,334 --> 00:42:29,600
+What that does is that increases the motion of the Jeep compared
+
+512
+00:42:29,601 --> 00:42:34,255
+to the cylinder. The Jeep will move 32 feet while the cylinder will only move nine.
+
+513
+00:42:34,256 --> 00:42:35,040
+So all we need
+
+514
+00:42:35,041 --> 00:42:37,800
+a nine-foot cylinder to get that much movement.
+
+515
+00:42:37,801 --> 00:42:40,480
+That increases the force on the cylinder,
+
+516
+00:42:40,481 --> 00:42:42,580
+but the hydraulics overcomes that,
+
+517
+00:42:42,581 --> 00:42:44,720
+and it's no problem at all.
+
+518
+00:42:44,721 --> 00:42:47,420
+Then there's Waterworld,
+
+519
+00:42:47,421 --> 00:42:49,120
+which uses a hydraulic catapult
+
+520
+00:42:49,121 --> 00:42:51,160
+to launch a 2,000-pound airplane
+
+521
+00:42:51,161 --> 00:42:53,420
+60 feet across a man-made lake.
+
+522
+00:42:56,460 --> 00:42:58,660
+And, of course, there's old Bruce the Sharp.
+
+523
+00:42:58,661 --> 00:43:08,860
+With so many hydraulic attractions, it's no surprise that even the trams at Universal
+
+524
+00:43:08,861 --> 00:43:13,020
+run with the help of hydraulics.
+
+525
+00:43:13,021 --> 00:43:20,660
+Whether it's entertainment or construction, when something big needs to be moved, hydraulics
+
+526
+00:43:20,661 --> 00:43:24,460
+still remains the power of choice, at least for now.
+
+527
+00:43:24,461 --> 00:43:29,300
+But the continuing advancement of electronic systems may eventually lead to electric motors
+
+528
+00:43:29,301 --> 00:43:35,100
+replacing hydraulics as the power source leader in force applications.
+
+529
+00:43:35,101 --> 00:43:41,220
+I believe the future of hydraulics is a combination of electronics and hydraulics.
+
+530
+00:43:41,221 --> 00:43:48,200
+In some applications, hydraulics may be phased out, but we will never see the power density
+
+531
+00:43:48,201 --> 00:43:52,100
+from the electronic systems that we see from the hydraulic system.
+
+532
+00:43:52,101 --> 00:43:58,460
+I just can't fathom any other technology that will be able to generate hundreds of thousands
+
+533
+00:43:58,461 --> 00:44:04,380
+of foot-pounds of torque or the thousands of tons of force needed to drill a hole in
+
+534
+00:44:04,381 --> 00:44:06,860
+through a mountain or under a lake.
+
+535
+00:44:06,861 --> 00:44:14,420
+Whether or not hydraulics is supplanted by another power application is yet to be decided.
+
+536
+00:44:14,421 --> 00:44:22,080
+But until that day comes, when something big has to be moved, when a high amount of power
+
+537
+00:44:22,081 --> 00:44:30,800
+is needed. With precision control, hydraulics will remain the power of choice.
+
+538
+00:44:52,080 --> 00:44:54,680
+All right.
+

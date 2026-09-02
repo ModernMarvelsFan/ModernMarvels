@@ -1,0 +1,46 @@
+# Credit Roll: U.S. Mints: Money Machines (1999)
+**Canonical Episode:** [`MME00092: U.S. Mints: Money Machines`](../episodes/MME00092.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 1998 A&E Television Networks All Rights Reserved.`
+* **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY CHANNEL, A&E Television Networks
+* **Narrator:** MAX RAPHAEL, MELANIE PIPES
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Additional Editing by** | GARY REID |
+| **Additional Graphics** | BARRY HILL |
+| **Additional Segments Produced by** | EMILY LAU |
+| **Assistant Accountants** | LINDA SCRIBNER, JUDI MINITELLO |
+| **Assistant Editors** | TANYA PHIPPS, STUART BRODLIEB, HARRIS COHEN, ERIC SIEVERING |
+| **Assistant to Don Cambou** | TIM SHELL |
+| **Associate Producer** | ROBERT ZIEL |
+| **Camera** | NICK BLANCHETT, MIKE HUSTON, JULIO C. LUZQUINOS |
+| **Clearance Supervisor** | LESLIE ANNE CLARK |
+| **Created by** | BRUCE NASH |
+| **Edited by** | ROBERT POTTER |
+| **Field Audio** | BARRY O'BRIEN, ALBERT LEUNG, THOMAS M. STANTON |
+| **For The History Channel / Executive Producer** | CHARLIE MADAY |
+| **For The History Channel / Supervising Producer** | BETH DIETRICH-SEGARRA |
+| **Graphics &amp; Animation** | DOUG WHITNEY |
+| **Line Producer** | PAUL DZILVELIS |
+| **Music by** | ALAN ETT MUSIC GROUP |
+| **Narrated by** | MAX RAPHAEL |
+| **Online Editor** | DAVID REX, JULIE G. ANTEPLI |
+| **Post Production Supervisor** | SCOTT BERKSON |
+| **Producer** | BRUCE NASH |
+| **Production Auditor** | DANI ESLIN |
+| **Production Coordinator** | KEITH DOLS |
+| **Production Manager** | PHILIP WALLNUTT |
+| **Researchers** | BARRY HILL, TRACY HOOD |
+| **Sound Mixer** | PAUL RAY, SAM KAUFMANN |
+| **Supervising Producer** | DON CAMBOU |
+| **Voice Over Coordinator** | MELANIE PIPES |
+| **Written and Produced by** | TOM JENNINGS |
+
+---
+[← Return to Episode Dossier](../episodes/MME00092.md)

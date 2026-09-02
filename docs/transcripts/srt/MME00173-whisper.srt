@@ -1,0 +1,1980 @@
+1
+00:00:00,001 --> 00:00:03,860
+...triod of Pisa, more dangerous today than ever before.
+
+2
+00:00:04,660 --> 00:00:08,100
+The dream of unlimited nuclear power turns deadly.
+
+3
+00:00:09,880 --> 00:00:13,100
+Three cosmonauts pay the ultimate price in the space race.
+
+4
+00:00:14,060 --> 00:00:16,640
+The U.S. Air Force meets a tragic end at sea.
+
+5
+00:00:17,840 --> 00:00:22,520
+And NASA loses its way and millions of dollars on the trip to Mars.
+
+6
+00:00:23,080 --> 00:00:27,060
+Now, Engineering Disasters 3 on Modern Marvels.
+
+7
+00:00:30,000 --> 00:00:44,000
+With this building, nine centuries old, began the saga of one of the most visible and enduring
+
+8
+00:00:44,880 --> 00:00:47,660
+engineering disasters the world has ever known.
+
+9
+00:00:49,800 --> 00:00:55,320
+In 1063, construction began on a cathedral in the Italian city of Pisa.
+
+10
+00:00:56,560 --> 00:00:59,520
+It was the largest Romanesque church in Tuscany.
+
+11
+00:01:00,000 --> 00:01:09,220
+The Duomo, as it was known, was the centerpiece of a group of buildings that included a baptistry and a bell tower.
+
+12
+00:01:11,180 --> 00:01:21,560
+In August of 1171, workers dug the foundation for the tower, which was to soar 183 feet into the sky, the tallest in the region.
+
+13
+00:01:21,561 --> 00:01:26,560
+At that time, many towns were competing for towers.
+
+14
+00:01:26,561 --> 00:01:33,560
+Especially in Italy, there were towers built in Pisa, there were towers built in Bologna, in Rome.
+
+15
+00:01:33,561 --> 00:01:36,560
+Each family tried to build one bigger than the next one.
+
+16
+00:01:36,561 --> 00:01:40,560
+Towers at the time were considered to be status symbols.
+
+17
+00:01:40,561 --> 00:01:48,560
+The first three stories, the tall ground story, and the first two logias, or open galleries,
+
+18
+00:01:48,561 --> 00:01:53,008
+galleries were built between 1173 and 1178.
+
+19
+00:01:53,009 --> 00:01:57,560
+The next four logias were added between 1272
+
+20
+00:01:57,561 --> 00:01:58,831
+and 1278.
+
+21
+00:01:58,832 --> 00:02:09,560
+While adding the next logias, the builders discovered that the tower's great
+
+22
+00:02:09,561 --> 00:02:16,560
+height and consequent weight of 14,000 tons caused it to sink unevenly into the ground.
+
+23
+00:02:16,561 --> 00:02:29,198
+Where the tower sits is not perfectly flat, not perfectly even, so the high side, what started off as the high side of the tower, seemed to be on sturdier soil than
+
+24
+00:02:29,199 --> 00:02:30,200
+the low side.
+
+25
+00:02:30,201 --> 00:02:32,960
+So the low side kept sinking further and further down.
+
+26
+00:02:34,700 --> 00:02:41,380
+Undaunted, the builders believed that they could correct the lean by building the fourth story taller on the south side.
+
+27
+00:02:41,381 --> 00:02:47,560
+But the extra weight of the new construction made the tower tilt farther still.
+
+28
+00:02:48,880 --> 00:02:53,000
+By 1298, the tower was leaning more than four and a half feet.
+
+29
+00:02:54,180 --> 00:02:56,820
+The belfry was added in 1370.
+
+30
+00:02:57,940 --> 00:03:02,980
+By 1550, the tower's lean increased to about 12 and a half feet.
+
+31
+00:03:03,940 --> 00:03:10,060
+Until the early 20th century, very little was known about the properties of soil.
+
+32
+00:03:10,061 --> 00:03:14,340
+It was thought of merely if you put your building on the ground and you try to put it on rock.
+
+33
+00:03:14,660 --> 00:03:17,700
+If you can't put it on rock, you spread the load out as much as you can.
+
+34
+00:03:18,900 --> 00:03:22,820
+Odd as it was, this regional landmark could not be abandoned.
+
+35
+00:03:23,980 --> 00:03:28,620
+In 1911, the Italian government began taking careful measurements each year.
+
+36
+00:03:30,100 --> 00:03:37,100
+Engineers discovered, to their dismay, that the tower was tipping southward at the rate of 1 20th of an inch per year.
+
+37
+00:03:37,101 --> 00:03:46,100
+From the time it was completed in 1370, the tower had leaned more than 13 feet off the vertical.
+
+38
+00:03:46,101 --> 00:03:51,100
+Engineers continued to search for solutions.
+
+39
+00:03:51,101 --> 00:03:57,100
+In 1934, they hit upon the idea of stabilizing the tower's uncertain foundation
+
+40
+00:03:57,101 --> 00:04:05,100
+by drilling 361 holes around the base and injecting 80 tons of grout to firm up the soil.
+
+41
+00:04:07,100 --> 00:04:08,660
+Their efforts were for naught.
+
+42
+00:04:09,380 --> 00:04:11,580
+Rather than strengthening the ground beneath the tower,
+
+43
+00:04:12,180 --> 00:04:16,660
+the holes made the ground less stable, and the tower's lean increased.
+
+44
+00:04:17,900 --> 00:04:21,660
+The Tower of Pisa is a lesson for engineers and architects,
+
+45
+00:04:21,860 --> 00:04:26,460
+and that is that you have to be very careful what you're building upon,
+
+46
+00:04:26,461 --> 00:04:33,300
+because what you're building on may actually end up being what causes the problem in your structure.
+
+47
+00:04:33,301 --> 00:04:42,040
+That is why today we are very concerned and we explore the soils under a building long before the building is started.
+
+48
+00:04:43,960 --> 00:04:51,020
+Experts acknowledge that an earthquake, a windstorm, or even a heavy rain might send the tower crashing to earth.
+
+49
+00:04:52,040 --> 00:04:54,440
+It was closed to the public in 1990.
+
+50
+00:04:54,441 --> 00:05:05,860
+A fresh approach was needed, and engineers decided that better data might help them address the city's very public engineering fiasco.
+
+51
+00:05:07,780 --> 00:05:15,480
+They embarked on the ambitious project of wiring the tower with 120 sensors to monitor its every inclination.
+
+52
+00:05:16,540 --> 00:05:21,860
+They learned that in the late morning, the tower leaned away from the sun to the northwest,
+
+53
+00:05:21,861 --> 00:05:26,307
+west, as its southeastern side warmed up and expanded.
+
+54
+00:05:26,308 --> 00:05:28,860
+At night, the southeastern side
+
+55
+00:05:28,861 --> 00:05:32,405
+cooled down, and the tower leaned back.
+
+56
+00:05:32,406 --> 00:05:36,860
+By studying the soft clay beneath the foundation,
+
+57
+00:05:36,861 --> 00:05:40,860
+architectural historians determined that the centuries-long delays during construction
+
+58
+00:05:40,861 --> 00:05:45,604
+could provide a clue to setting the tower straight.
+
+59
+00:05:45,605 --> 00:05:48,860
+The delays allowed the clay beneath
+
+60
+00:05:48,861 --> 00:05:51,971
+the tower to settle and become stronger.
+
+61
+00:05:51,972 --> 00:05:55,860
+Without those delays, historians believe the tower
+
+62
+00:05:56,300 --> 00:05:58,407
+would have toppled long ago.
+
+63
+00:05:58,408 --> 00:06:02,620
+This seemed to confirm the idea that the problem lay not
+
+64
+00:06:02,621 --> 00:06:08,620
+with the tower, but with the ground upon which it stood.
+
+65
+00:06:08,621 --> 00:06:15,620
+In June of 1999, engineers discovered a way to steer the tower by changing the soil composition
+
+66
+00:06:15,621 --> 00:06:18,860
+beneath it.
+
+67
+00:06:18,861 --> 00:06:23,860
+Forty-one drill pipes were arrayed around the north quadrant of the tower.
+
+68
+00:06:23,861 --> 00:06:28,860
+They entered the soil at different points along an arc about forty feet from the base,
+
+69
+00:06:28,861 --> 00:06:31,860
+at an angle of thirty degrees.
+
+70
+00:06:31,861 --> 00:06:35,860
+Inside each eight-inch diameter pipe was an auger,
+
+71
+00:06:35,861 --> 00:06:42,860
+a corkscrew bit that trapped soil between its blades and channeled it to the surface.
+
+72
+00:06:42,861 --> 00:06:47,860
+The tower settled into the yard-long channels created by the bits.
+
+73
+00:06:47,861 --> 00:06:53,860
+Perhaps this last attempt will actually prevent the tower from leaning any further.
+
+74
+00:06:54,860 --> 00:07:02,860
+By the end of summer 1999, the tower had tilted back toward the north by about one inch and a half at the top.
+
+75
+00:07:03,860 --> 00:07:07,860
+Engineers expect to auger more soil from beneath the tower's high side
+
+76
+00:07:08,860 --> 00:07:14,860
+and return the structure to the five degree lean it last saw in the 19th century.
+
+77
+00:07:14,861 --> 00:07:23,500
+It's clear that once the tower does not lean anymore, the Pizans are not going to want to straighten the tower out,
+
+78
+00:07:23,501 --> 00:07:26,120
+because, after all, who would want to see a straight tower of Pisa?
+
+79
+00:07:27,480 --> 00:07:30,880
+Some estimates put the cost of saving the tower at $7 million.
+
+80
+00:07:32,480 --> 00:07:38,520
+But its saviors say it's worth it to have a safer, if not completely straight, Tower of Pisa.
+
+81
+00:07:38,521 --> 00:07:45,520
+The tower's faults have made it one of the world's major tourist attractions.
+
+82
+00:07:45,521 --> 00:07:50,520
+But in the lonely high desert of the American Northwest,
+
+83
+00:07:50,521 --> 00:07:53,520
+there was a vastly different engineering disaster.
+
+84
+00:07:53,521 --> 00:07:57,520
+So terrifying, it was buried beneath the earth.
+
+85
+00:07:57,521 --> 00:08:05,520
+In January 1961, three men would die of injuries received here.
+
+86
+00:08:05,521 --> 00:08:10,140
+the site of the world's first peacetime nuclear accident.
+
+87
+00:08:12,140 --> 00:08:17,100
+Splitting the atom revealed all that was great and horrible about human intelligence.
+
+88
+00:08:17,980 --> 00:08:23,140
+It was the final word in settling World War II, a constant threat during the Cold War,
+
+89
+00:08:23,720 --> 00:08:28,880
+and, its proponents believed, a grand opportunity to power the world peacefully.
+
+90
+00:08:28,881 --> 00:08:30,857
+In 1958, the U.S.
+
+91
+00:08:30,858 --> 00:08:38,880
+Army started construction on the SL-1, the Station Low Power Reactor,
+
+92
+00:08:38,881 --> 00:08:42,880
+at the Nuclear Reactor Testing Facility in Southeastern Idaho.
+
+93
+00:08:42,881 --> 00:08:49,880
+It was used as a training site for future deployments of this reactor type.
+
+94
+00:08:49,881 --> 00:08:53,880
+It would take about six months for an operator to be fully trained.
+
+95
+00:08:53,881 --> 00:08:54,957
+fully trained.
+
+96
+00:08:54,958 --> 00:09:00,880
+The reactor ran without incident for two and a half years, only shutting down
+
+97
+00:09:00,881 --> 00:09:04,260
+for maintenance over the Christmas holiday.
+
+98
+00:09:04,261 --> 00:09:07,640
+After the new year, a three-man maintenance
+
+99
+00:09:07,641 --> 00:09:10,699
+crew was assigned to restart the reactor.
+
+100
+00:09:10,700 --> 00:09:14,280
+The routine of operating and testing the reactor
+
+101
+00:09:14,281 --> 00:09:22,780
+was to operate it for any number of days or weeks, shut it down, train the crew in maintaining
+
+102
+00:09:22,781 --> 00:09:27,125
+the reactor, maintenance tasks, possibly make changes.
+
+103
+00:09:27,126 --> 00:09:29,780
+It operated in this fashion while
+
+104
+00:09:29,781 --> 00:09:36,620
+the trainees were certified and given the instruction that they needed.
+
+105
+00:09:36,621 --> 00:09:42,493
+The core of uranium-235 gave off subatomic particles called neutrons.
+
+106
+00:09:42,494 --> 00:09:43,940
+It was surrounded
+
+107
+00:09:43,941 --> 00:09:49,060
+by water which cooled the system and slowed the neutrons to a rate suitable for fission
+
+108
+00:09:49,061 --> 00:09:49,907
+to occur.
+
+109
+00:09:49,908 --> 00:09:57,620
+Inside the 13-ton reactor vessel, control rods made of boron regulated the fission
+
+110
+00:09:57,621 --> 00:10:02,784
+reaction. The rods absorbed the neutrons produced by the core.
+
+111
+00:10:02,785 --> 00:10:05,200
+Therefore, when the rods were
+
+112
+00:10:05,201 --> 00:10:11,369
+lowered into the core area and absorbed neutrons, the fission slowed down.
+
+113
+00:10:11,370 --> 00:10:13,120
+When they were raised
+
+114
+00:10:13,121 --> 00:10:18,020
+and the neutrons flowed freely, the fission reactions sped up.
+
+115
+00:10:18,021 --> 00:10:24,660
+So if you want to regulate the rate at which the neutron reaction is going,
+
+116
+00:10:24,661 --> 00:10:31,020
+you regulate the control rods in the reactor itself.
+
+117
+00:10:31,021 --> 00:10:38,080
+At 9 a.m. on January 3, 1961, an alarm rang out at the fire station.
+
+118
+00:10:38,081 --> 00:10:43,000
+The trouble spot was designated ARA, Army Reactor Area.
+
+119
+00:10:44,360 --> 00:10:48,380
+It turned out to be a false alarm triggered by a bulky heat detector.
+
+120
+00:10:49,560 --> 00:10:56,120
+The crew working to restart the reactor heard another fire alarm at 4 p.m., also false.
+
+121
+00:10:57,400 --> 00:11:02,320
+But at 9 p.m., a fateful third alarm signal rang out.
+
+122
+00:11:02,321 --> 00:11:10,180
+Six Atomic Energy Commission firefighters, an assistant chief and a security officer
+
+123
+00:11:10,181 --> 00:11:13,380
+rolled to the reactor site 12 miles away.
+
+124
+00:11:14,160 --> 00:11:17,360
+Now it is 17 below zero.
+
+125
+00:11:18,060 --> 00:11:24,740
+We've been out there twice during the day already, and so we're human,
+
+126
+00:11:24,980 --> 00:11:28,020
+and we're disgruntled because we have to get out in the night,
+
+127
+00:11:28,160 --> 00:11:30,680
+and we have to go back out in this cold.
+
+128
+00:11:30,681 --> 00:11:37,680
+They arrived nine minutes later to find nothing out of the ordinary.
+
+129
+00:11:37,681 --> 00:11:44,420
+There was no bulky heat indicator this time, and certainly no sign of fire.
+
+130
+00:11:44,421 --> 00:11:51,680
+But once inside the SL1 building, they saw the flashing indicator of a radiation alarm.
+
+131
+00:11:51,681 --> 00:11:53,680
+The area was compromised.
+
+132
+00:11:53,681 --> 00:11:56,680
+A radioactive leak, or worse.
+
+133
+00:11:56,681 --> 00:12:00,440
+And strangely, the reactor maintenance crew was nowhere to be found,
+
+134
+00:12:00,860 --> 00:12:06,140
+even though their coats hung on the rack and their lunch pails were in the cafeteria.
+
+135
+00:12:07,240 --> 00:12:10,100
+That plant was not run with zero people.
+
+136
+00:12:11,120 --> 00:12:16,820
+Could it have been that when something happened, maybe they took off across the desert,
+
+137
+00:12:17,140 --> 00:12:19,600
+evacuated the plant? We did not know that.
+
+138
+00:12:21,000 --> 00:12:25,060
+As the firefighters approached the stairs to the second floor reactor room,
+
+139
+00:12:25,820 --> 00:12:27,960
+They noticed a new disturbing development.
+
+140
+00:12:29,120 --> 00:12:33,280
+The instruments they used to measure radiation pegged at their maximum.
+
+141
+00:12:34,700 --> 00:12:40,680
+The firefighters left the building, but the assistant fire chief, concerned about the maintenance crew,
+
+142
+00:12:41,340 --> 00:12:46,040
+continued on upstairs, alone, to check the reactor room.
+
+143
+00:12:47,300 --> 00:12:51,640
+There he made a grisly discovery, a body motionless on the floor.
+
+144
+00:12:51,641 --> 00:12:58,640
+We were told that we should not enter the complex again because of the hazard of the high radiation.
+
+145
+00:12:58,641 --> 00:13:05,640
+A fresh team arrived with robust instruments capable of measuring high radiation levels.
+
+146
+00:13:05,641 --> 00:13:13,640
+Inside the SL-1, their instruments also pegged at their maximum, 500 Röntgens.
+
+147
+00:13:13,641 --> 00:13:18,640
+Typically, a single dose of 600 Röntgens is fatal.
+
+148
+00:13:18,641 --> 00:13:29,080
+Next, a search and rescue team risks their lives to go inside the SL-1 and investigate the disaster.
+
+149
+00:13:31,300 --> 00:13:35,720
+There are 430 operational nuclear reactors worldwide.
+
+150
+00:13:36,440 --> 00:13:39,700
+They provide 16% of the world's electricity.
+
+151
+00:13:40,980 --> 00:13:44,340
+Engineering Disasters 3 will return on Modern Marvels.
+
+152
+00:13:44,341 --> 00:13:53,411
+In January 1961, the world's first peacetime nuclear accident presented troubling issues for the U.S.
+
+153
+00:13:53,412 --> 00:13:54,112
+Army.
+
+154
+00:13:55,700 --> 00:13:58,260
+The entire reactor was a hot zone.
+
+155
+00:13:59,680 --> 00:14:04,900
+At 10.30 p.m., five technicians in full protective gear entered the contaminated area.
+
+156
+00:14:06,300 --> 00:14:11,640
+Each man carried at least one film badge, which recorded his radiation exposure.
+
+157
+00:14:11,641 --> 00:14:18,640
+Just as photographic film reacts to light energy, it is also affected by radioactive energy.
+
+158
+00:14:18,641 --> 00:14:25,640
+The badges were examined to be sure no man received a radiation dose beyond the acceptable limit.
+
+159
+00:14:25,641 --> 00:14:32,640
+A technician called a health physicist was on site to watch over the process.
+
+160
+00:14:32,641 --> 00:14:39,640
+Because of the extreme health risk, he allowed each team of rescue workers in the reactor room for only one minute.
+
+161
+00:14:39,641 --> 00:14:40,341
+minute.
+
+162
+00:14:40,342 --> 00:14:45,760
+Someone told me he had a big metal wrench of some kind and when your minute was up,
+
+163
+00:14:46,200 --> 00:14:53,080
+he'd bang on the wall and you'd rush out of there with your one minute of work done.
+
+164
+00:14:54,080 --> 00:14:58,300
+The men inside the reactor building presented their own radiation hazards
+
+165
+00:14:58,301 --> 00:15:04,380
+and technicians took special precautions when handling them to prevent the spread of contamination.
+
+166
+00:15:04,381 --> 00:15:12,380
+One victim who was clinging to life was transported to a remote desert location for a medical exam.
+
+167
+00:15:13,380 --> 00:15:17,640
+The site doctor immediately responded out across the desert.
+
+168
+00:15:17,780 --> 00:15:20,000
+It probably took him a half an hour to get there.
+
+169
+00:15:20,220 --> 00:15:22,000
+This was quite a driving distance.
+
+170
+00:15:22,160 --> 00:15:26,060
+The doctor checked him over and then declared he had expired
+
+171
+00:15:26,061 --> 00:15:29,340
+because we don't want to spread contamination all over the desert.
+
+172
+00:15:29,341 --> 00:15:34,740
+The ambulance sat there for quite a while until they decided for sure what they wanted to do at that point.
+
+173
+00:15:35,500 --> 00:15:39,920
+Later that night, the last guy was found in an improbable place.
+
+174
+00:15:41,420 --> 00:15:48,060
+No one had seen him because he was pinned to the ceiling of the reactor room, impaled by a control rod.
+
+175
+00:15:50,880 --> 00:15:55,420
+A photographer was given permission to suit up, go in and take photographs
+
+176
+00:15:55,421 --> 00:16:00,320
+because they had to figure out how they were going to remove the body of the third man pinned up on the ceiling.
+
+177
+00:16:00,680 --> 00:16:03,640
+They didn't know whether the reactor was stable or not.
+
+178
+00:16:03,880 --> 00:16:05,840
+They didn't know if it could go critical again.
+
+179
+00:16:06,300 --> 00:16:09,680
+They certainly didn't want anything falling into one of those openings.
+
+180
+00:16:10,740 --> 00:16:15,000
+Technicians made a sling to lift him out without disturbing the sensitive hot zone.
+
+181
+00:16:15,880 --> 00:16:20,820
+It would be hard to recover the idea of how much shock this produced.
+
+182
+00:16:20,821 --> 00:16:28,800
+The entire history of the Atomic Energy Commission, 16 years, had never generated an accident like this.
+
+183
+00:16:29,460 --> 00:16:30,600
+I mean, it was unprecedented.
+
+184
+00:16:31,680 --> 00:16:38,320
+General Electric, experienced in nuclear decontamination, was privately contracted to dismantle and secure the site.
+
+185
+00:16:40,520 --> 00:16:47,240
+As spring 1961 turned to summer, the reactor building was broken down piece by piece.
+
+186
+00:16:47,241 --> 00:16:55,340
+Some sections of the SL1 were buried nearby after passing a radiation check.
+
+187
+00:16:56,820 --> 00:17:05,780
+Others, which could have held the secret to the disaster, were transported 40 miles in sealed vehicles to a facility called the Hot Shop.
+
+188
+00:17:06,780 --> 00:17:10,000
+There, they would undergo decontamination and analysis.
+
+189
+00:17:11,360 --> 00:17:14,540
+This painstaking work continued for 11 months.
+
+190
+00:17:14,541 --> 00:17:23,740
+Then, finally, a crane lifted the entire reactor vessel from the gutted building and loaded it onto a vehicle for transport to the hot shop.
+
+191
+00:17:25,740 --> 00:17:31,980
+The difficult job of dismantling the reactor was complete, but the real work was just beginning.
+
+192
+00:17:33,780 --> 00:17:37,760
+In the hot shop, the reactor vessel was picked over for clues.
+
+193
+00:17:38,700 --> 00:17:44,060
+Analyzing scratch marks along it, investigators determined that uncontrolled nuclear fission,
+
+194
+00:17:44,540 --> 00:17:51,320
+called an excursion, generated great heat, causing water surrounding the core to turn into high-pressure steam.
+
+195
+00:17:52,460 --> 00:17:57,100
+This pressurized steam launched the reactor vessel upward like a rocket.
+
+196
+00:17:57,660 --> 00:18:04,700
+It all happened so fast that the steam forced the water up, hit the top of the reactor at 10,000 pounds per square inch.
+
+197
+00:18:04,701 --> 00:18:05,887
+terrific force.
+
+198
+00:18:05,888 --> 00:18:11,980
+And the reactor actually jumped nine feet into the air and was stopped by the
+
+199
+00:18:11,981 --> 00:18:18,020
+ceiling of the room it was in. There are no survivors of this accident. There was no
+
+200
+00:18:18,021 --> 00:18:20,001
+testimony, no witnesses.
+
+201
+00:18:20,002 --> 00:18:25,200
+But the evidence found that this central control rod had indeed
+
+202
+00:18:25,201 --> 00:18:29,601
+been moved up to 20 inches. That was a design flaw.
+
+203
+00:18:29,602 --> 00:18:32,880
+Investigators believe that the reactor
+
+204
+00:18:32,881 --> 00:18:38,680
+went critical because one of its control rods was pulled out past the safe limit of 4.2 inches.
+
+205
+00:18:40,660 --> 00:18:45,920
+Since the control rods regulate the fission reaction, removing one or more would cause
+
+206
+00:18:45,921 --> 00:18:53,360
+the nuclear reaction to accelerate out of control. What remained a mystery was why a
+
+207
+00:18:53,361 --> 00:18:59,300
+trained worker would pull the rod out so far, knowing full well the dire consequences of
+
+208
+00:18:59,301 --> 00:19:02,060
+doing so. Theories abounded.
+
+209
+00:19:02,061 --> 00:19:07,580
+Most convincing was that the control rod simply stuck in
+
+210
+00:19:07,581 --> 00:19:08,627
+its housing.
+
+211
+00:19:08,628 --> 00:19:15,080
+It required so much force to move that it was inadvertently jerked upward.
+
+212
+00:19:15,081 --> 00:19:21,180
+SL1 plant records showed that indeed the rods had a history of sticking and at times were
+
+213
+00:19:21,181 --> 00:19:27,280
+difficult to relocate, even during the simple maintenance the crew was attempting to perform.
+
+214
+00:19:28,980 --> 00:19:33,800
+This business of having stuck control rods the previous month or two never should have
+
+215
+00:19:33,801 --> 00:19:37,316
+been permitted to go on unless an explanation had been found for that.
+
+216
+00:19:37,317 --> 00:19:38,220
+Something had been
+
+217
+00:19:38,221 --> 00:19:43,291
+lacking in the attention to detail on safe operation of this reactor.
+
+218
+00:19:43,292 --> 00:19:44,540
+The investigation
+
+219
+00:19:44,541 --> 00:19:51,040
+complete, the SL-1 program was scrapped, and the Atomic Energy Commission was plunged into
+
+220
+00:19:51,041 --> 00:19:56,040
+to a morass of official accusation, investigation, and self-examination.
+
+221
+00:19:56,041 --> 00:19:59,040
+They wanted the rest of the laboratories to learn from this.
+
+222
+00:19:59,041 --> 00:20:04,040
+Some of the things they learned were applied after the Three Mile Island accident,
+
+223
+00:20:04,041 --> 00:20:09,040
+the cleanup methods, the management of equipment, the management of people, the protection of people.
+
+224
+00:20:09,041 --> 00:20:14,040
+The people at this site made it their business to consider this matter,
+
+225
+00:20:14,041 --> 00:20:20,040
+and so they designed certain techniques and tools and procedures should it ever happen again.
+
+226
+00:20:20,041 --> 00:20:22,040
+Thank God it hasn't.
+
+227
+00:20:22,041 --> 00:20:30,040
+Since the SL1, no reactor has been designed to go critical when the central control rod is removed.
+
+228
+00:20:30,041 --> 00:20:34,040
+All human interaction has been eliminated.
+
+229
+00:20:34,041 --> 00:20:41,040
+Computer-controlled mechanisms move the rods, and they cannot be pulled past the critical point at any time.
+
+230
+00:20:41,041 --> 00:20:49,040
+While the nuclear power industry worked hard to address the technical issues brought up by the SL1 disaster,
+
+231
+00:20:49,041 --> 00:20:56,040
+the psychological damage had been done, and the promise of nuclear power would never shine as brightly again.
+
+232
+00:21:00,040 --> 00:21:07,040
+Next, the defenders of the free world build a radar tower that proves to be a greater enemy than the Soviets.
+
+233
+00:21:10,040 --> 00:21:11,242
+In 1954, the U.S.
+
+234
+00:21:11,243 --> 00:21:17,040
+government was carefully monitoring a disturbing buildup of Soviet military might.
+
+235
+00:21:19,040 --> 00:21:26,580
+In the days before the intercontinental ballistic missile, long-range Soviet bombers had America in their crosshairs.
+
+236
+00:21:29,200 --> 00:21:35,500
+American fighter jets were an effective countermeasure, but their radar range was only 15 miles.
+
+237
+00:21:36,680 --> 00:21:37,888
+Therefore, the U.S.
+
+238
+00:21:37,889 --> 00:21:44,180
+military set up a radar early warning system to detect any aircraft that entered American airspace.
+
+239
+00:21:44,181 --> 00:21:50,960
+At the farthest reaches of the defensive line were RC-121 reconnaissance aircraft.
+
+240
+00:21:52,640 --> 00:21:56,280
+Next were radar-equipped seagoing vessels called picket ships.
+
+241
+00:21:58,080 --> 00:22:03,380
+Any report of enemy contact was to be radioed to the next planned link in the defensive chain,
+
+242
+00:22:04,040 --> 00:22:07,340
+a group of five offshore radar installations.
+
+243
+00:22:07,341 --> 00:22:14,340
+These artificial islands were called Texas Towers because of their design similarities
+
+244
+00:22:14,720 --> 00:22:17,536
+to oil rigs off the coast of Texas.
+
+245
+00:22:17,537 --> 00:22:21,720
+Of the planned Quintet, three towers were built from
+
+246
+00:22:21,721 --> 00:22:23,038
+1957 until 1960.
+
+247
+00:22:23,039 --> 00:22:28,720
+Tower 2 was constructed with its legs attached to the radar platform,
+
+248
+00:22:28,721 --> 00:22:35,720
+then floated to its position 110 miles off the coast of Massachusetts in 56 feet of water.
+
+249
+00:22:37,340 --> 00:22:42,760
+Tower 3, constructed similarly, was positioned nearby in 80 feet of water.
+
+250
+00:22:44,400 --> 00:22:52,860
+Tower 4, to be placed 78 miles off the coast of New Jersey, was to be in the deepest water, 185 feet.
+
+251
+00:22:53,520 --> 00:22:56,500
+Tower 2 and 3 were built with 15 legs.
+
+252
+00:22:56,780 --> 00:23:03,380
+They had three permanent and 12 that they jettisoned off after they had it up.
+
+253
+00:23:03,381 --> 00:23:09,560
+Tower 4 went out with two legs on the water and one above, all braced together on a pontoon.
+
+254
+00:23:10,280 --> 00:23:15,020
+Perhaps because it had longer legs than the others, Tower 4 was constructed differently.
+
+255
+00:23:15,860 --> 00:23:20,100
+The leg assembly, seen here as it was floated separately from the tower platform,
+
+256
+00:23:20,780 --> 00:23:27,020
+encountered rough weather on the 360-mile trip from the North Portland main shipyard where it was built.
+
+257
+00:23:27,021 --> 00:23:37,180
+On the way to its position off the coast of New Jersey, at least two braces fell from the legs, weakening the structure.
+
+258
+00:23:38,800 --> 00:23:45,840
+Though the Air Force brass were aware of the damage, they elected to make repairs after the legs were connected to the base.
+
+259
+00:23:46,940 --> 00:23:50,177
+I think the mistake was they repaired it after it was up.
+
+260
+00:23:50,178 --> 00:23:53,300
+I think that was the most critical time for that tower.
+
+261
+00:23:54,040 --> 00:23:59,640
+After nine months under construction, the bill for Tower 4 came to $21 million.
+
+262
+00:24:00,460 --> 00:24:05,700
+It was big enough for a six-story building to fit below its triangular steel platform.
+
+263
+00:24:08,880 --> 00:24:12,240
+The Air Force assigned 70 men to serve on the tower.
+
+264
+00:24:13,520 --> 00:24:20,200
+A mix of military radar technicians and civilians who maintained and repaired the massive man-made island.
+
+265
+00:24:20,201 --> 00:24:27,200
+My dad got a job as a welder on Tower Number 4. I was a refueler.
+
+266
+00:24:27,201 --> 00:24:33,200
+Don Abbott refueled Boeing H-21 helicopters for the trip out to Tower 4.
+
+267
+00:24:33,201 --> 00:24:37,200
+His father, David, was often a passenger.
+
+268
+00:24:37,201 --> 00:24:44,200
+Life was hard and cold aboard the tower, but the Air Force did its best to make it bearable.
+
+269
+00:24:44,201 --> 00:24:48,300
+When one crew was working, the other crew was playing.
+
+270
+00:24:48,740 --> 00:24:53,220
+We had pool tables, ping pong tables, and we had fishing.
+
+271
+00:24:53,480 --> 00:24:54,560
+We even had basketball.
+
+272
+00:24:55,000 --> 00:24:57,240
+The only problem was there was only one ball.
+
+273
+00:24:57,560 --> 00:25:00,460
+If the ball went overboard, they had to go and get it.
+
+274
+00:25:00,820 --> 00:25:05,100
+They did all their cooking on the tower, had fresh rolls every day.
+
+275
+00:25:06,300 --> 00:25:09,320
+The amenities helped the crew cope with rough conditions.
+
+276
+00:25:10,280 --> 00:25:14,720
+But from day one, Tower 4 shook more violently than the others.
+
+277
+00:25:15,500 --> 00:25:19,740
+And over its next two years in service, it was lashed by two hurricanes.
+
+278
+00:25:21,500 --> 00:25:29,420
+I had a plum in my cabin, and I used to watch it go back and forth, or it even turned, it gyrates.
+
+279
+00:25:29,800 --> 00:25:33,200
+That was my ticket of knowing what was going on with the tower.
+
+280
+00:25:33,840 --> 00:25:37,540
+They decided that they were going to name it Old Shaky, and that's what they did.
+
+281
+00:25:39,320 --> 00:25:43,520
+The men who served on Tower 4 knew they were taking a risk.
+
+282
+00:25:45,060 --> 00:25:49,080
+But for Lieutenant Colonel Cutler, safety was a top priority.
+
+283
+00:25:50,040 --> 00:25:52,960
+He notified headquarters about the tower's gyration.
+
+284
+00:25:53,220 --> 00:25:56,160
+I sent a letter in saying that we have a problem here.
+
+285
+00:25:56,360 --> 00:25:59,400
+We have to send a crew out here to try to do something with it.
+
+286
+00:26:00,380 --> 00:26:04,120
+Divers were sent into the water to attach K-braces to the tower legs.
+
+287
+00:26:05,420 --> 00:26:06,960
+And it didn't last that long.
+
+288
+00:26:07,160 --> 00:26:08,180
+And that didn't do the job.
+
+289
+00:26:08,181 --> 00:26:11,226
+That told me one thing. Everything's going backwards.
+
+290
+00:26:11,227 --> 00:26:14,100
+Nothing's going forwards, no matter what they did.
+
+291
+00:26:15,200 --> 00:26:21,300
+By spring of 1960, Lieutenant Colonel Cutler completed his one-year tour of duty on the tower.
+
+292
+00:26:22,020 --> 00:26:25,940
+He was relieved by a career Navy man, Captain Gordon Phelan.
+
+293
+00:26:26,860 --> 00:26:33,660
+By fall of 1960, the shaking was so severe that most of the men serving on Tower 4 were evacuated,
+
+294
+00:26:33,661 --> 00:26:39,340
+leaving a skeleton crew of 14 servicemen and 14 civilian repairmen.
+
+295
+00:26:41,620 --> 00:26:48,220
+On the evening of January 14, 1961, a severe storm closed in on the tower.
+
+296
+00:26:49,080 --> 00:26:53,560
+By dawn, 55 mile per hour winds were beating the ocean into a frenzy.
+
+297
+00:26:54,160 --> 00:26:59,160
+That day, Mrs. Fennel, Gordon's wife, had spoken to her husband twice.
+
+298
+00:26:59,300 --> 00:27:03,440
+Once around 1 o'clock and the second time at 6 o'clock.
+
+299
+00:27:03,660 --> 00:27:08,840
+During that one o'clock conversation, she could hear noises in the background.
+
+300
+00:27:09,380 --> 00:27:13,140
+She asked what that was, and he said, well, the tower's breaking up.
+
+301
+00:27:13,380 --> 00:27:18,940
+In a macabre type of humor, there was a lot of metal, banging against metal.
+
+302
+00:27:19,500 --> 00:27:22,860
+One of the support beams on the leg had broken loose
+
+303
+00:27:22,861 --> 00:27:27,280
+and was just literally swinging back and forth against the leg.
+
+304
+00:27:28,220 --> 00:27:33,080
+As the storm continued to mount its assault, official indecision reigned.
+
+305
+00:27:33,660 --> 00:27:40,900
+In the Air Force chain of command, no one was certain who had the authority to abandon a tower so critical to America's national defense.
+
+306
+00:27:42,800 --> 00:27:49,780
+By 4 p.m., Captain Phelan took matters into his own hands and called for helicopters to evacuate Tower 4.
+
+307
+00:27:51,120 --> 00:27:55,020
+Seas were so high, no rescue ship could dare approach.
+
+308
+00:27:55,021 --> 00:28:09,021
+We had a 5,000-ton structure sitting on top of three 12-and-a-half diameter thin-walled legs 67 feet above the surface of the ocean, being slammed by waves higher than
+
+309
+00:28:09,233 --> 00:28:14,340
+a three-story building, winds gusting over 55 miles an hour.
+
+310
+00:28:14,980 --> 00:28:20,760
+There was no way at that time that you could lower anybody to a ship standing by.
+
+311
+00:28:20,761 --> 00:28:29,680
+At 7.30 p.m., the tower's glowing image vanished from the radar screens of all ships in the area.
+
+312
+00:28:30,880 --> 00:28:34,880
+The captain was watching his radar and couldn't believe it.
+
+313
+00:28:34,980 --> 00:28:39,660
+He went to his backup radar unit, checked that, tower wasn't there.
+
+314
+00:28:41,040 --> 00:28:46,620
+He grabbed the radio and shouted, Tower 4, Tower 4, no response.
+
+315
+00:28:46,621 --> 00:28:50,080
+He flipped over to the emergency broadcast channel.
+
+316
+00:28:50,520 --> 00:28:53,620
+Again, he cried, Tower 4, Tower 4.
+
+317
+00:28:54,140 --> 00:28:56,040
+Nothing but static came back.
+
+318
+00:28:57,160 --> 00:29:00,400
+At 8 p.m., rescue workers reached the site.
+
+319
+00:29:01,400 --> 00:29:03,760
+They found only debris and heaving seas.
+
+320
+00:29:04,440 --> 00:29:05,920
+Tower 4 was gone.
+
+321
+00:29:06,940 --> 00:29:11,520
+Only one body was eventually recovered, that of Master Sergeant Ronald Backey.
+
+322
+00:29:11,521 --> 00:29:16,740
+Donald Abbott's father was among the men missing and presumed dead
+
+323
+00:29:16,741 --> 00:29:19,000
+The phone rang at our house
+
+324
+00:29:19,001 --> 00:29:23,660
+and at the same time we heard a thump at the front door
+
+325
+00:29:23,661 --> 00:29:26,500
+It was a young fellow delivering the Boston Globe
+
+326
+00:29:26,501 --> 00:29:28,140
+They just had it all over the front page
+
+327
+00:29:28,141 --> 00:29:29,880
+We had no warning whatsoever
+
+328
+00:29:29,881 --> 00:29:34,920
+and my aunt was on the telephone telling my mom that the tower had collapsed
+
+329
+00:29:34,921 --> 00:29:36,260
+and that all 28 were dead
+
+330
+00:29:36,261 --> 00:29:42,080
+I didn't see anything on the tower that was worth losing 28 people.
+
+331
+00:29:42,340 --> 00:29:44,980
+And I say that as a USAF officer.
+
+332
+00:29:47,000 --> 00:29:52,060
+Congress assailed the Air Force for its mistakes in the design and maintenance of Tower 4.
+
+333
+00:29:53,960 --> 00:29:57,860
+Pinned connections were too weak to withstand unpredictable sea conditions.
+
+334
+00:29:59,020 --> 00:30:02,380
+Structural deficiencies in the tower legs should have been addressed
+
+335
+00:30:02,381 --> 00:30:05,820
+before they were magnified by the action of wind and waves.
+
+336
+00:30:06,260 --> 00:30:11,040
+What they did for Tower 4 had never been done before.
+
+337
+00:30:11,240 --> 00:30:13,760
+This was an engineering milestone.
+
+338
+00:30:14,140 --> 00:30:18,720
+I'm sure it was designed to the best of their knowledge at that time.
+
+339
+00:30:19,580 --> 00:30:24,860
+Today, Tower 4 is a wreck 185 feet below the surface of the Atlantic.
+
+340
+00:30:25,480 --> 00:30:31,760
+A silent witness to a brave experiment in national defense that went very wrong.
+
+341
+00:30:31,761 --> 00:30:45,720
+On July 14, 1999, divers placed a plaque on Tower 4, honoring the 28 men who gave their lives, serving on an artificial island at sea.
+
+342
+00:30:49,220 --> 00:30:54,000
+Next, a triumphant Soviet space mission has an unexpected ending.
+
+343
+00:30:54,001 --> 00:31:04,480
+The last Texas tower was dismantled in 1963, made obsolete by AWACS, the Airborne Warning and Control System.
+
+344
+00:31:05,200 --> 00:31:09,040
+Engineering Disasters 3 will return on Modern Marvels.
+
+345
+00:31:11,360 --> 00:31:16,840
+June 29, 1971, dawned a proud day for the Soviet space program.
+
+346
+00:31:16,841 --> 00:31:25,040
+The three cosmonauts of Soyuz 11 had lived in space aboard Salyut 1 for more than three weeks.
+
+347
+00:31:26,540 --> 00:31:30,460
+In the Soviet view, it was the crowning achievement of the space race.
+
+348
+00:31:31,260 --> 00:31:38,080
+Well, this entire era was about the competition in the space race, which was a critical part of the Cold War.
+
+349
+00:31:38,560 --> 00:31:41,220
+It was really about who was the better system.
+
+350
+00:31:41,340 --> 00:31:45,220
+Was it the Soviet communist system or the American capitalist system?
+
+351
+00:31:45,221 --> 00:31:48,900
+And both countries viewed the space program as their crowning achievements,
+
+352
+00:31:49,420 --> 00:31:53,640
+as the pinnacle of their achievements both sociologically and technologically as nations.
+
+353
+00:31:54,280 --> 00:31:55,228
+At 9.28 p.m.
+
+354
+00:31:55,229 --> 00:32:02,100
+on June 29th, the cosmonauts unducked Soyuz 11 and drifted free from the space station.
+
+355
+00:32:03,640 --> 00:32:09,920
+In accordance with procedure, they changed from full-pressure suits into space-saving woolen flight suits.
+
+356
+00:32:09,921 --> 00:32:17,920
+The cosmonauts, when they got out of the space station, would leave their suits up there because they couldn't afford the weight.
+
+357
+00:32:17,921 --> 00:32:20,499
+They said, fine, we won't have pressure suits on.
+
+358
+00:32:20,500 --> 00:32:23,920
+We've got a nice pressurized cabin, don't have to worry about it.
+
+359
+00:32:23,921 --> 00:32:30,920
+The flawless recovery was tracked by the Soviets as the cosmonauts descended through Earth's atmosphere.
+
+360
+00:32:30,921 --> 00:32:37,920
+Unlike American astronauts who splashed down in the ocean, cosmonauts touched down on land.
+
+361
+00:32:37,921 --> 00:32:44,920
+When recovery crews reached the descent vehicle, they were expecting to greet three jubilant heroes.
+
+362
+00:32:51,920 --> 00:32:54,920
+But the cosmonauts were dead.
+
+363
+00:32:54,921 --> 00:33:00,920
+The stunned ground crew attempted artificial respiration, but it was too late.
+
+364
+00:33:01,920 --> 00:33:06,920
+The tragedy was a black mark on the Soviet space program.
+
+365
+00:33:07,920 --> 00:33:12,920
+The mournful march of a state funeral echoed through Red Square.
+
+366
+00:33:12,921 --> 00:33:19,920
+Scientists speculated about what happened and what potential blow it would deal to the future of manned space flight.
+
+367
+00:33:19,921 --> 00:33:24,920
+There were theories that perhaps it was just too long for these cosmonauts to be in space.
+
+368
+00:33:24,921 --> 00:33:29,920
+24 days is too long. Space is dangerous. Maybe their hearts couldn't take it.
+
+369
+00:33:29,921 --> 00:33:34,920
+These spacecraft are the only thing between these people and the vacuum of space.
+
+370
+00:33:34,921 --> 00:33:38,220
+There were some ideas that some chemicals, some noxious chemicals,
+
+371
+00:33:38,400 --> 00:33:40,960
+had leaked out of the spacecraft and poisoned the astronauts.
+
+372
+00:33:41,980 --> 00:33:48,180
+A Soviet commission investigating the tragedy reported that a rapid drop in cockpit pressure occurred
+
+373
+00:33:48,181 --> 00:33:51,740
+because of a flaw in the integrity of the cabin seal.
+
+374
+00:33:54,620 --> 00:33:59,660
+As far as NASA was concerned, the initial report only raised more questions.
+
+375
+00:33:59,661 --> 00:34:04,660
+The Americans needed hard information because in the near future,
+
+376
+00:34:04,661 --> 00:34:10,660
+their astronauts were to occupy a Soviet spacecraft as part of a joint space venture.
+
+377
+00:34:10,661 --> 00:34:15,660
+American experts really wanted to understand what happened to these three cosmonauts.
+
+378
+00:34:15,661 --> 00:34:18,660
+Could it happen to American astronauts?
+
+379
+00:34:18,661 --> 00:34:21,660
+Could the Apollo astronauts suffer a similar fate?
+
+380
+00:34:21,661 --> 00:34:26,660
+And so there were some very high-level contacts between American and Soviet politicians
+
+381
+00:34:26,661 --> 00:34:33,660
+politicians asking for the Soviets to share information, which the Soviets did.
+
+382
+00:34:33,661 --> 00:34:43,660
+A Soviet-American collaboration uncovered the truth by meticulously reconstructing the final fatal moments of Soyuz 11.
+
+383
+00:34:43,661 --> 00:34:52,660
+The problem was traced to a design flaw in the way the Soyuz spacecraft separated from the Soyuz space station.
+
+384
+00:34:52,661 --> 00:35:00,720
+To send the cosmonauts on their way home, their capsule was freed from the space station when a set of explosive bolts fired one by one.
+
+385
+00:35:01,780 --> 00:35:07,520
+But unfortunately, on the flight of Soyuz 11, the explosive bolts fired all at once.
+
+386
+00:35:08,660 --> 00:35:12,140
+Severe vibrations caused a pressure equalization valve to open.
+
+387
+00:35:13,280 --> 00:35:22,500
+The three cosmonauts not only suffocated, but as the air pressure dropped rapidly in the cabin, nitrogen present in their tissues was released.
+
+388
+00:35:22,660 --> 00:35:25,260
+creating gas bubbles.
+
+389
+00:35:25,261 --> 00:35:30,260
+This phenomenon, common to deep sea divers, is called the bends.
+
+390
+00:35:30,261 --> 00:35:35,260
+Once these bubbles form in the brain, spinal cord, or even peripheral nerves,
+
+391
+00:35:35,261 --> 00:35:38,560
+paralysis and convulsions are the result.
+
+392
+00:35:38,561 --> 00:35:46,260
+And in the cosmonaut's tragic case, they succumb to a quick and brutal death.
+
+393
+00:35:46,261 --> 00:35:50,260
+Their blood went hypoxic, which means that, among other things,
+
+394
+00:35:50,261 --> 00:35:54,940
+the nitrogen came out of solution in the blood, and their blood, you could say, essentially boiled.
+
+395
+00:35:55,400 --> 00:36:00,340
+It would be like going from the bottom of the ocean to the surface in a fraction of a second.
+
+396
+00:36:01,020 --> 00:36:06,120
+So their death was extremely rapid and, by all accounts, painless.
+
+397
+00:36:07,980 --> 00:36:11,380
+Upon completion of the joint Soviet-American investigation,
+
+398
+00:36:12,220 --> 00:36:16,140
+NASA was reassured that since their spacecraft hatch was designed differently,
+
+399
+00:36:16,141 --> 00:36:23,140
+A similar accident could not happen during an Apollo mission.
+
+400
+00:36:25,740 --> 00:36:32,740
+While tragic, the Soyuz 11 mission marked the beginning of a dialogue between Soviet and American scientists
+
+401
+00:36:32,741 --> 00:36:39,740
+that would serve both well in future space station missions.
+
+402
+00:36:39,741 --> 00:36:50,740
+Next, a search for life in outer space has unexpected consequences.
+
+403
+00:36:50,741 --> 00:36:55,740
+The record to date for the longest stay in space is held by cosmonaut Sergey Abdiyev,
+
+404
+00:36:55,741 --> 00:37:00,740
+who remained aboard Mir for 742 days.
+
+405
+00:37:00,741 --> 00:37:04,740
+Engineering Disasters 3 will return on Modern Marvels.
+
+406
+00:37:09,740 --> 00:37:16,820
+On December 11, 1998, NASA launched a Delta II rocket with precious payload aboard.
+
+407
+00:37:18,660 --> 00:37:22,460
+The Mars Climate Orbiter was on its way to the Red Planet.
+
+408
+00:37:24,080 --> 00:37:30,400
+Two instruments aboard the spacecraft, the pressure infrared radiometer and the Mars color imager,
+
+409
+00:37:30,880 --> 00:37:34,080
+would provide the first detailed data about the Martian atmosphere.
+
+410
+00:37:34,081 --> 00:37:41,080
+The orbiter would remain in Martian orbit for two years and function as a relay station
+
+411
+00:37:41,081 --> 00:37:44,080
+for the next planned mission.
+
+412
+00:37:44,081 --> 00:37:51,080
+In this way, NASA would fly two smaller, cheaper missions rather than a single costly mission.
+
+413
+00:37:51,081 --> 00:37:58,080
+It was a two-for-one approach that was hailed for its economy and efficiency.
+
+414
+00:37:58,081 --> 00:38:03,080
+NASA engineers had adopted a philosophy they called Faster, Better, Cheaper,
+
+415
+00:38:03,081 --> 00:38:10,080
+believing that it would allow them to fly more missions and spend less.
+
+416
+00:38:10,081 --> 00:38:17,080
+On September 23, 1999, at 2.01 a.m. Pacific Daylight Time,
+
+417
+00:38:17,081 --> 00:38:21,080
+the probe was supposed to fire its main engine,
+
+418
+00:38:21,081 --> 00:38:24,080
+pass behind the Red Planet,
+
+419
+00:38:24,081 --> 00:38:31,080
+then enter an orbit 93 miles above the Martian surface.
+
+420
+00:38:31,081 --> 00:38:37,400
+But instead, when it should have reemerged from behind Mars and reestablished radio contact from orbit,
+
+421
+00:38:38,040 --> 00:38:40,340
+there was no radio signal.
+
+422
+00:38:42,780 --> 00:38:49,360
+Scientists later concluded that it went in far too low, only 37 miles above the surface.
+
+423
+00:38:50,100 --> 00:38:56,780
+The cause was a grade school level calculation error, and the effect, an engineering disaster.
+
+424
+00:38:56,781 --> 00:39:01,880
+What happened was that the engines ended up burning too long,
+
+425
+00:39:01,881 --> 00:39:07,020
+and the spacecraft went too low into the atmosphere, slowed down too much,
+
+426
+00:39:07,380 --> 00:39:12,440
+dived into the atmosphere, and burned up in the atmosphere as far as we could tell.
+
+427
+00:39:13,780 --> 00:39:16,000
+It was an embarrassing blunder.
+
+428
+00:39:16,960 --> 00:39:20,000
+The spacecraft's builders, Lockheed Martin Astronautics,
+
+429
+00:39:20,440 --> 00:39:25,700
+calculated trajectory and engine thrust using the English system of inches, feet, and pounds.
+
+430
+00:39:26,780 --> 00:39:34,380
+But NASA's navigation team assumed those numbers were metric, millimeters, meters, and newtons.
+
+431
+00:39:34,780 --> 00:39:40,820
+They entered the wrong values into the navigation computer, sending the climate orbiter off course.
+
+432
+00:39:42,160 --> 00:39:48,260
+When the spacecraft entered the Martian atmosphere at 10,000 miles per hour, it was doomed.
+
+433
+00:39:49,200 --> 00:39:53,380
+NASA had to answer for the loss of the $125 million vehicle.
+
+434
+00:39:53,381 --> 00:39:58,380
+The navigation team came on the program two months before the launch.
+
+435
+00:39:58,381 --> 00:40:01,380
+So they were not familiar. They hadn't attended the preliminary design review.
+
+436
+00:40:01,381 --> 00:40:03,380
+They hadn't attended the critical design review.
+
+437
+00:40:03,381 --> 00:40:06,380
+They were really not familiar with the spacecraft.
+
+438
+00:40:06,381 --> 00:40:12,380
+Although the Mars Climate Orbiter failed, NASA had already committed to its next Mars mission.
+
+439
+00:40:12,381 --> 00:40:13,315
+mission.
+
+440
+00:40:13,316 --> 00:40:22,660
+On December 3, 1999, the $165 million Mars polar lander was to touch down on the
+
+441
+00:40:22,661 --> 00:40:26,987
+Martian South Pole. Its mission, a search for water.
+
+442
+00:40:26,988 --> 00:40:29,900
+Scientists hypothesized that water,
+
+443
+00:40:30,400 --> 00:40:36,160
+vital to life as we know it, once flowed across the Martian landscape and could be stored
+
+444
+00:40:36,161 --> 00:40:37,500
+as ice at the pole.
+
+445
+00:40:40,100 --> 00:40:45,600
+One of the exciting parts of the Mars Polar Lander payload was something called the TIGA,
+
+446
+00:40:46,100 --> 00:40:48,700
+which was the Thermal Evolved Gas Analyzer.
+
+447
+00:40:48,960 --> 00:40:53,620
+There was a robot arm on the Lander which would scoop up some soil, put it into the
+
+448
+00:40:53,621 --> 00:40:58,080
+TIGA instrument, and then there was an oven that would heat it up and measure the various
+
+449
+00:40:58,081 --> 00:41:00,720
+components of the gases as they came off.
+
+450
+00:41:00,721 --> 00:41:06,860
+And so it was going to detect not only how much water there was, but maybe the isotopic composition,
+
+451
+00:41:07,020 --> 00:41:10,760
+that is, how many neutrons were there in that particular kind of water.
+
+452
+00:41:11,500 --> 00:41:14,020
+Still stinging from the Mars orbiter debacle,
+
+453
+00:41:14,680 --> 00:41:18,460
+jet propulsion lab engineers knew the stakes were higher this time.
+
+454
+00:41:19,920 --> 00:41:24,420
+Not only did the polar lander cost $40 million more than the Mars orbiter,
+
+455
+00:41:25,000 --> 00:41:28,000
+but landing on Mars was more difficult than orbiting it.
+
+456
+00:41:28,001 --> 00:41:36,740
+Landing on another planet is probably the most difficult thing we do, and every detail must be right.
+
+457
+00:41:37,520 --> 00:41:43,360
+So we must learn, and we must learn quickly from the loss of Mars Climate Orbiter.
+
+458
+00:41:44,220 --> 00:41:49,760
+Anxious engineers double-checked their mission plan and made design modifications to the spacecraft.
+
+459
+00:41:49,761 --> 00:41:59,260
+They indeed discovered that there was a possibility that the rockets wouldn't start properly after having been in the cold of space for a long time.
+
+460
+00:41:59,500 --> 00:42:05,980
+So they did a bunch of tests and verified that indeed if they used certain procedures that it would be fine.
+
+461
+00:42:06,900 --> 00:42:07,889
+At 12.39 p.m.
+
+462
+00:42:07,890 --> 00:42:13,820
+on December 3rd, NASA was expecting to receive a signal from the polar lander.
+
+463
+00:42:15,320 --> 00:42:17,400
+But no signal ever came.
+
+464
+00:42:17,401 --> 00:42:21,400
+The spacecraft was never heard from again.
+
+465
+00:42:21,401 --> 00:42:27,400
+Scientists believe that like the Climate Orbiter, the Polar Lander crashed on the Martian surface,
+
+466
+00:42:27,401 --> 00:42:31,400
+but this time for a different reason.
+
+467
+00:42:31,401 --> 00:42:36,400
+A software error caused the Polar Lander to deploy its landing legs too early
+
+468
+00:42:36,401 --> 00:42:41,400
+and turn off its engines more than 100 feet from the planet's surface.
+
+469
+00:42:41,401 --> 00:42:43,400
+And the whole thing crashed.
+
+470
+00:42:43,401 --> 00:42:49,520
+Well, it was definitely a bad missed opportunity because that was their opportunity to get to the South Pole.
+
+471
+00:42:49,640 --> 00:42:53,600
+And if there's water anywhere near the surface on Mars, it's at the poles.
+
+472
+00:42:54,040 --> 00:42:57,680
+And so this was going to be the experiment that could really go look for water.
+
+473
+00:42:59,020 --> 00:43:02,680
+NASA had egg on its face for the second time in as many months.
+
+474
+00:43:04,240 --> 00:43:10,080
+Failure analysis revealed the problem to be the very philosophy of faster, better, cheaper
+
+475
+00:43:10,081 --> 00:43:13,180
+that NASA adopted to streamline its operations.
+
+476
+00:43:13,400 --> 00:43:20,260
+The philosophy was, well, hey, if we send small missions frequently, then we're spreading the risk.
+
+477
+00:43:20,780 --> 00:43:25,940
+And on top of that, we can take advantage of what we learn with one mission to design another mission.
+
+478
+00:43:26,520 --> 00:43:32,500
+Unfortunately, that works rather well as long as your appetite doesn't exceed your resources.
+
+479
+00:43:33,540 --> 00:43:40,400
+Following the twin disasters of the Climate Orbiter and Polar Lander, NASA cut back on its missions to Mars.
+
+480
+00:43:41,360 --> 00:43:46,880
+The next mission to search for water on the Red Planet may not come until 2007.
+
+481
+00:43:49,260 --> 00:43:52,740
+Hard lessons came from each of these engineering disasters.
+
+482
+00:43:53,220 --> 00:43:56,420
+When building the tallest tower on land or at sea,
+
+483
+00:43:57,140 --> 00:43:59,920
+exploring interplanetary or subatomic space,
+
+484
+00:44:00,440 --> 00:44:03,120
+engineers and designers went out on a limb
+
+485
+00:44:03,121 --> 00:44:07,380
+and unfortunately found their reach exceeded their grasp.
+
+486
+00:44:07,381 --> 00:44:14,780
+In ambitious projects like these, necessity was the mother of invention, but also midwife to mistakes.
+
+487
+00:44:15,860 --> 00:44:20,360
+Minor errors led to complicated problems and even cost lives.
+
+488
+00:44:21,280 --> 00:44:26,460
+Perhaps an insatiable desire to push to the limit is hardwired into our genetic code,
+
+489
+00:44:26,900 --> 00:44:32,100
+but going to the maximum in extreme situations will always demand its due.
+
+490
+00:44:32,101 --> 00:44:39,100
+Tonight on the History Channel, it wasn't just about riding the range.
+
+491
+00:44:39,320 --> 00:44:42,300
+You had to know how to strut your stuff for an audience and a camera.
+
+492
+00:44:42,400 --> 00:44:45,300
+You're always doing a part that you know John Wayne could have done better.
+
+493
+00:44:45,301 --> 00:44:50,360
+We're talking about cowboys in action in Wild West shows, the Western movies, and TV.
+
+494
+00:44:50,860 --> 00:44:52,240
+When cowboys were king.
+
+495
+00:44:52,560 --> 00:44:54,380
+Tonight at 8 on the History Channel.
+

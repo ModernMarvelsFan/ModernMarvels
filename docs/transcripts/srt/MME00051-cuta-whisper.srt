@@ -1,0 +1,2732 @@
+1
+00:00:00,001 --> 00:00:03,000
+An age-old battle.
+
+2
+00:00:03,001 --> 00:00:05,000
+Good versus evil.
+
+3
+00:00:05,001 --> 00:00:07,000
+Criminal versus the law.
+
+4
+00:00:07,001 --> 00:00:11,000
+Now, a new player is balancing the scales of justice.
+
+5
+00:00:11,001 --> 00:00:13,000
+Science.
+
+6
+00:00:13,001 --> 00:00:17,000
+Hair follicles, micro fibers, DNA,
+
+7
+00:00:17,001 --> 00:00:20,000
+their unmasking murderers, solving old crimes,
+
+8
+00:00:20,001 --> 00:00:22,000
+setting innocence free.
+
+9
+00:00:22,001 --> 00:00:26,000
+Now, forensic science on modern marvels.
+
+10
+00:00:26,001 --> 00:00:40,001
+The modern era of crime fighting began a century ago in the consulting room of a London physician.
+
+11
+00:00:44,560 --> 00:00:49,600
+With his medical practice failing, Dr. Arthur Conan Doyle turned to writing stories.
+
+12
+00:00:50,800 --> 00:00:55,400
+In 1887, he invented the most famous fictional character of all time.
+
+13
+00:00:56,000 --> 00:00:59,700
+and with him a new scientific field.
+
+14
+00:00:59,701 --> 00:01:04,240
+Consulting detective Sherlock Holmes deciphered physical clues,
+
+15
+00:01:04,241 --> 00:01:08,740
+a revolutionary approach to solving crimes.
+
+16
+00:01:08,741 --> 00:01:09,840
+What do you think?
+
+17
+00:01:09,841 --> 00:01:11,640
+There's been murdered done.
+
+18
+00:01:11,641 --> 00:01:13,960
+The murderer was a man.
+
+19
+00:01:13,961 --> 00:01:17,860
+He was in the prime of life, six feet in height,
+
+20
+00:01:17,861 --> 00:01:21,200
+has small feet wear square-toed boots,
+
+21
+00:01:21,201 --> 00:01:25,900
+limped slightly on the left foot, and smokes Trichinopley cigars.
+
+22
+00:01:26,000 --> 00:01:28,900
+The early police work was totally dependent on informers.
+
+23
+00:01:29,000 --> 00:01:30,800
+And then Arthur Conan Doyle came along,
+
+24
+00:01:30,900 --> 00:01:32,800
+and he said, you don't need informers.
+
+25
+00:01:32,900 --> 00:01:34,600
+You don't need to hit people over the head
+
+26
+00:01:34,700 --> 00:01:36,500
+with rubber pipes to make them confess.
+
+27
+00:01:36,600 --> 00:01:38,100
+They're going to leave evidence behind.
+
+28
+00:01:42,200 --> 00:01:45,200
+Once Sherlock Holmes showed what was possible,
+
+29
+00:01:45,300 --> 00:01:48,600
+police officers at Scotland Yard followed his lead.
+
+30
+00:01:49,800 --> 00:01:52,000
+Forensic science was born.
+
+31
+00:01:56,000 --> 00:02:03,000
+19th century policemen struggled with the difficulty
+
+32
+00:02:03,001 --> 00:02:10,000
+of reliably identifying individuals, photography, body measurements,
+
+33
+00:02:10,001 --> 00:02:13,000
+even branding offenders.
+
+34
+00:02:13,001 --> 00:02:16,000
+All these methods fell short.
+
+35
+00:02:16,001 --> 00:02:20,000
+Then in the 1890s, British scientists developed the long-sought,
+
+36
+00:02:20,001 --> 00:02:24,000
+full-proof means of identification, fingerprints.
+
+37
+00:02:24,001 --> 00:02:28,000
+They organize the seemingly random patterns
+
+38
+00:02:28,001 --> 00:02:33,000
+into three categories, loops, arches, and swirls,
+
+39
+00:02:33,001 --> 00:02:37,000
+allowing prints to be classified and compared.
+
+40
+00:02:37,001 --> 00:02:44,000
+By 1903, both Scotland Yard and the New York City Police Department
+
+41
+00:02:44,001 --> 00:02:46,000
+fingerprinted suspects.
+
+42
+00:02:46,001 --> 00:02:49,000
+A practice quickly adopted the world over.
+
+43
+00:02:49,001 --> 00:02:53,000
+In the decades to come, even public enemy number one
+
+44
+00:02:53,001 --> 00:02:58,000
+one would learn the power of the new technology.
+
+45
+00:02:58,001 --> 00:03:00,500
+John Dillinger, Pudlum, Bandit,
+
+46
+00:03:00,501 --> 00:03:02,500
+jailbreaker, bank robber and murderer
+
+47
+00:03:02,501 --> 00:03:05,500
+was headed for Indiana to be tried for murder.
+
+48
+00:03:05,501 --> 00:03:07,500
+A shudder of relief thrilled the country,
+
+49
+00:03:07,501 --> 00:03:10,500
+for the entire nation had hoped for the capture of this gunman,
+
+50
+00:03:10,501 --> 00:03:14,500
+who, from petty obscurity, had leaped to shameful notoriety
+
+51
+00:03:14,501 --> 00:03:17,500
+as public enemy number one within a few brief weeks.
+
+52
+00:03:21,500 --> 00:03:22,500
+Dillinger's wild rampage of Rampage
+
+53
+00:03:22,501 --> 00:03:26,000
+of robberies and murders had terrorized the Midwest.
+
+54
+00:03:26,001 --> 00:03:30,500
+Awaiting trial he was held in a supposedly escape-proof jail
+
+55
+00:03:30,501 --> 00:03:34,500
+and guarded by an army of gun-toting FBI men.
+
+56
+00:03:34,501 --> 00:03:38,500
+He boldly bluffed his way out with a wooden gun
+
+57
+00:03:38,501 --> 00:03:40,500
+and was back on the loose.
+
+58
+00:03:40,501 --> 00:03:43,500
+Desperate to conceal his identity, he dyed his hair,
+
+59
+00:03:43,501 --> 00:03:48,500
+grew a mustache, and had a surgeon alter his face and his fingertips.
+
+60
+00:03:48,501 --> 00:03:51,500
+Throughout history, people have the people of the United States.
+
+61
+00:03:51,501 --> 00:03:54,300
+Throughout history, people have tried to obscure or destroy
+
+62
+00:03:54,400 --> 00:03:55,300
+their fingerprints.
+
+63
+00:03:55,400 --> 00:03:57,800
+There's a great legendary story of John Dillinger,
+
+64
+00:03:57,900 --> 00:04:02,140
+who paid a doctor $5,000 to treat his fingerprints with acid.
+
+65
+00:04:02,240 --> 00:04:05,240
+He did successfully obscure the center of the fingerprints,
+
+66
+00:04:05,340 --> 00:04:07,040
+but there were ridges around those points
+
+67
+00:04:07,140 --> 00:04:09,160
+that were easily identifiable as his.
+
+68
+00:04:11,560 --> 00:04:15,360
+For months, Dillinger successfully eluded a nationwide manhunt,
+
+69
+00:04:16,660 --> 00:04:19,060
+then betrayed by one of his many girlfriends,
+
+70
+00:04:19,160 --> 00:04:21,400
+he was gunned down by G-men,
+
+71
+00:04:21,500 --> 00:04:26,000
+as he emerged from the biograph theater in Chicago.
+
+72
+00:04:26,001 --> 00:04:28,500
+The bullet-riddled corpse bore little resemblance
+
+73
+00:04:28,501 --> 00:04:31,040
+to a figure known by all.
+
+74
+00:04:31,041 --> 00:04:36,140
+But the outer ridges of his fingers proved that it was, John Dillinger.
+
+75
+00:04:46,100 --> 00:04:48,200
+Forty years later, the next generation
+
+76
+00:04:48,201 --> 00:04:51,500
+of fingerprint technology would expose one of the centuries most
+
+77
+00:04:51,501 --> 00:04:53,500
+notorious assassins.
+
+78
+00:05:01,500 --> 00:05:05,680
+On April 4th, 1968, civil rights leader Martin Luther King, Jr.
+
+79
+00:05:05,681 --> 00:05:11,120
+was shot to death on the balcony of a Memphis motel.
+
+80
+00:05:11,121 --> 00:05:16,000
+In a room across the street, police recovered the killer's rifle.
+
+81
+00:05:16,001 --> 00:05:21,000
+Nearly wiped clean, the rifle butt contained the partial print of a single finger.
+
+82
+00:05:21,001 --> 00:05:28,000
+With few other leads, a massive effort was made to identify the print.
+
+83
+00:05:28,001 --> 00:05:40,000
+The FBI examiners literally broke up into groups of thousands of individuals, and one by one, they went through those fingerprint cards,
+
+84
+00:05:40,001 --> 00:05:49,000
+manually searching the fingerprints found at that scene against millions of card files.
+
+85
+00:05:49,001 --> 00:05:54,000
+But the FBI files contained over 50 million prints.
+
+86
+00:05:54,001 --> 00:05:57,000
+Too many for any manual search.
+
+87
+00:05:57,001 --> 00:06:01,000
+For the first time in fingerprinting history,
+
+88
+00:06:01,001 --> 00:06:04,000
+a rudimentary computer narrowed the field.
+
+89
+00:06:04,001 --> 00:06:08,000
+It selected out the fingerprint cards of wanted felons,
+
+90
+00:06:08,001 --> 00:06:11,000
+a manageable 2,000 names.
+
+91
+00:06:11,001 --> 00:06:14,000
+They were going to go through every one of those 2,000 cards
+
+92
+00:06:14,001 --> 00:06:16,000
+and see if they could make a match.
+
+93
+00:06:16,001 --> 00:06:18,000
+Just after they started, somebody said,
+
+94
+00:06:18,001 --> 00:06:20,040
+somebody said, I got him.
+
+95
+00:06:20,041 --> 00:06:22,000
+And everybody laughed and assumed he was kidding.
+
+96
+00:06:22,001 --> 00:06:23,040
+He said, no, I'm not kidding.
+
+97
+00:06:23,041 --> 00:06:24,040
+This is him.
+
+98
+00:06:24,041 --> 00:06:25,040
+This is the guy.
+
+99
+00:06:25,041 --> 00:06:27,340
+It was maybe the third or fourth car they looked at,
+
+100
+00:06:27,341 --> 00:06:30,340
+and it was James Earl Ray, and that's how he was identified.
+
+101
+00:06:30,341 --> 00:06:35,960
+Ray's prints were traced to maps, hotel rooms,
+
+102
+00:06:35,961 --> 00:06:39,660
+and car keys across the south.
+
+103
+00:06:39,661 --> 00:06:42,600
+Investigators followed a trail of fake IDs
+
+104
+00:06:42,601 --> 00:06:45,360
+from city to city and across the Atlantic.
+
+105
+00:06:45,361 --> 00:06:59,361
+Finally, the FBI and Interpol tracked him to London, where he was apprehended.
+
+106
+00:07:04,140 --> 00:07:08,480
+Ray pleaded guilty to killing King and was sentenced to 99 years in prison.
+
+107
+00:07:15,360 --> 00:07:20,360
+In recent years, computers have evolved into an essential part
+
+108
+00:07:20,361 --> 00:07:23,360
+of fingerprinting technology.
+
+109
+00:07:23,361 --> 00:07:25,360
+The automated fingerprint identification system,
+
+110
+00:07:25,361 --> 00:07:30,360
+or A-F-I-S, compares the ridges and swirls of millions
+
+111
+00:07:30,361 --> 00:07:33,360
+of prints at incredible speed.
+
+112
+00:07:33,361 --> 00:07:38,360
+When a latent fingerprint is found at the scene of a crime,
+
+113
+00:07:38,361 --> 00:07:44,360
+it can be lifted, imaged, searched against a database
+
+114
+00:07:44,361 --> 00:07:47,860
+of millions of individuals, and with a matter of minutes,
+
+115
+00:07:47,861 --> 00:07:49,860
+identify an individual.
+
+116
+00:07:51,960 --> 00:07:55,500
+New imaging techniques allow modern investigators
+
+117
+00:07:55,501 --> 00:07:58,100
+to detect previously invisible prints.
+
+118
+00:07:59,900 --> 00:08:01,380
+It used to be at a crime scene.
+
+119
+00:08:01,381 --> 00:08:03,980
+They'd turn on all the lights as brightly as they could.
+
+120
+00:08:03,981 --> 00:08:06,040
+It was they would shed some light on the crime.
+
+121
+00:08:06,041 --> 00:08:08,360
+Now what they do is they turn out the lights,
+
+122
+00:08:08,361 --> 00:08:11,980
+and they put on infrared detectors, heat detectors.
+
+123
+00:08:11,981 --> 00:08:14,020
+They use all kinds of different devices
+
+124
+00:08:14,021 --> 00:08:16,520
+to find things that can't be seen by the naked eye,
+
+125
+00:08:16,521 --> 00:08:19,020
+but which may very well be good lead evidence.
+
+126
+00:08:19,021 --> 00:08:23,020
+New technologies can solve old mysteries.
+
+127
+00:08:23,021 --> 00:08:30,020
+In 1982, Valerian Trefa, Romanian Orthodox Bishop of Cleveland,
+
+128
+00:08:30,021 --> 00:08:34,020
+was accused of collaborating with the Nazis in World War II.
+
+129
+00:08:34,021 --> 00:08:39,020
+The case hinged on a key piece of evidence,
+
+130
+00:08:39,021 --> 00:08:44,020
+a 1942 postcard from Trifa, pledging loyalty to SS Chiefs
+
+131
+00:08:44,021 --> 00:08:46,020
+Henry Himmler.
+
+132
+00:08:46,021 --> 00:08:48,520
+Treyf had denied any contact with Himmler,
+
+133
+00:08:48,521 --> 00:08:52,020
+calling the postcard a forgery.
+
+134
+00:08:52,021 --> 00:08:55,020
+The West German government permitted the FBI
+
+135
+00:08:55,021 --> 00:09:00,020
+to inspect the document on the condition that it not be damaged.
+
+136
+00:09:00,021 --> 00:09:03,020
+Forced to forego their normal methods,
+
+137
+00:09:03,021 --> 00:09:07,020
+agents examined the card with a machine new to the FBI lab.
+
+138
+00:09:07,021 --> 00:09:10,020
+A laser.
+
+139
+00:09:10,021 --> 00:09:14,020
+Under an intense laser beam,
+
+140
+00:09:14,021 --> 00:09:17,820
+human oil soaked into the paper 40 years earlier
+
+141
+00:09:17,920 --> 00:09:19,820
+became visible.
+
+142
+00:09:19,920 --> 00:09:23,920
+The faint outlines of a hidden fingerprint came to life.
+
+143
+00:09:25,060 --> 00:09:28,860
+It matched the prints on Trifa's U.S. citizenship papers,
+
+144
+00:09:28,960 --> 00:09:30,160
+and he was deported.
+
+145
+00:09:34,880 --> 00:09:39,480
+A 1940s criminal undone by 1980s technology.
+
+146
+00:09:44,020 --> 00:09:47,060
+Like Trifa, many criminals are tripped up by clues
+
+147
+00:09:47,160 --> 00:09:49,660
+they had no idea they were leaving,
+
+148
+00:09:49,760 --> 00:09:52,960
+as the infamous Atlanta child killer would learn,
+
+149
+00:09:53,060 --> 00:09:56,960
+in the right hand, the tiniest thread of evidence
+
+150
+00:09:57,060 --> 00:09:59,260
+can trap a serial killer.
+
+151
+00:10:04,380 --> 00:10:06,380
+You're watching Forensic Science,
+
+152
+00:10:06,480 --> 00:10:09,380
+the crime fighter's weapon on modern models.
+
+153
+00:10:09,381 --> 00:10:16,380
+An old Chinese proverb states that everything may depend
+
+154
+00:10:16,381 --> 00:10:19,380
+on the difference between two hairs.
+
+155
+00:10:19,381 --> 00:10:23,380
+For modern criminologists, the telling similarities
+
+156
+00:10:23,381 --> 00:10:28,380
+between hairs and between fibers speak volumes.
+
+157
+00:10:32,380 --> 00:10:35,380
+The last 50 years has seen an explosion
+
+158
+00:10:35,381 --> 00:10:39,380
+in the manufacture of man-made fibers, creating a boom
+
+159
+00:10:39,381 --> 00:10:42,680
+for fashion designers and crime fighters.
+
+160
+00:10:48,980 --> 00:10:52,620
+Beginning in July, 1979, a series of murders
+
+161
+00:10:52,621 --> 00:10:56,060
+terrorized the citizens of Atlanta.
+
+162
+00:10:56,061 --> 00:10:58,340
+For almost two agonizing years,
+
+163
+00:10:58,341 --> 00:11:00,840
+the strangled bodies of young men and boys
+
+164
+00:11:00,841 --> 00:11:05,680
+appeared at the rate of more than one a month.
+
+165
+00:11:05,681 --> 00:11:09,380
+All the victims were African Americans, raising the ugly
+
+166
+00:11:09,381 --> 00:11:11,380
+of a racist serial killer.
+
+167
+00:11:11,381 --> 00:11:13,380
+Fear and panic gripped the city.
+
+168
+00:11:13,381 --> 00:11:17,380
+For 16 months, the puzzling children's case
+
+169
+00:11:17,381 --> 00:11:19,380
+has unraveled with almost horrifying certainty,
+
+170
+00:11:19,381 --> 00:11:22,380
+producing scenes of small bodies
+
+171
+00:11:22,381 --> 00:11:23,380
+draped in white sheets.
+
+172
+00:11:23,381 --> 00:11:25,380
+Since July of 1979,
+
+173
+00:11:25,381 --> 00:11:27,380
+11 bodies have been discovered
+
+174
+00:11:27,381 --> 00:11:29,380
+and four children have been reported missing.
+
+175
+00:11:29,381 --> 00:11:31,380
+In 1979, there were four deaths.
+
+176
+00:11:31,381 --> 00:11:35,380
+The only physical evidence
+
+177
+00:11:35,381 --> 00:11:37,380
+connecting the killings
+
+178
+00:11:37,381 --> 00:11:40,880
+were tiny violet and greenish yellow carpet fibers
+
+179
+00:11:40,881 --> 00:11:44,280
+found on several victims.
+
+180
+00:11:44,281 --> 00:11:48,120
+A special FBI Atlanta task force began a massive effort
+
+181
+00:11:48,121 --> 00:11:52,620
+to trace the fibers to their origins.
+
+182
+00:11:56,620 --> 00:11:59,940
+The carpet fibers were quite unusual.
+
+183
+00:11:59,941 --> 00:12:02,480
+They had unusual characteristics, unusual properties.
+
+184
+00:12:02,481 --> 00:12:05,240
+We had a difficult time identifying
+
+185
+00:12:05,241 --> 00:12:07,140
+who manufactured these fibers.
+
+186
+00:12:07,141 --> 00:12:11,640
+In a way, that's good, because the more uncommon a particular item is,
+
+187
+00:12:11,641 --> 00:12:13,940
+the smaller the chance that you're going to find it,
+
+188
+00:12:13,941 --> 00:12:16,740
+just in a coincidental residence or a car.
+
+189
+00:12:18,540 --> 00:12:20,780
+The only tentative evidence that may connect him,
+
+190
+00:12:20,781 --> 00:12:23,260
+and I emphasize may connect him to the cases,
+
+191
+00:12:23,261 --> 00:12:24,520
+is some fiber evidence.
+
+192
+00:12:24,521 --> 00:12:25,900
+Is that right?
+
+193
+00:12:25,901 --> 00:12:28,360
+When the press made the fiber evidence public,
+
+194
+00:12:28,361 --> 00:12:31,900
+the killer responded by changing his methods.
+
+195
+00:12:31,901 --> 00:12:35,260
+He began stripping victims and dumping their bodies in rivers,
+
+196
+00:12:35,261 --> 00:12:37,120
+presumably to remove any tailtelling.
+
+197
+00:12:37,140 --> 00:12:40,140
+fibers.
+
+198
+00:12:40,141 --> 00:12:43,140
+Police countered by staking out the major rivers
+
+199
+00:12:43,141 --> 00:12:46,140
+in the Atlanta metropolitan area.
+
+200
+00:12:46,141 --> 00:12:51,140
+On May 22, 1981, a surveillance team hidden beneath a bridge
+
+201
+00:12:51,141 --> 00:12:54,140
+spanning the Chattahoochee River heard a loud splash,
+
+202
+00:12:54,141 --> 00:12:59,140
+followed by a car, slowly driving off the bridge.
+
+203
+00:12:59,141 --> 00:13:04,140
+The African-American driver was stopped and arrested.
+
+204
+00:13:04,141 --> 00:13:06,140
+His name, Wayne Williams.
+
+205
+00:13:06,141 --> 00:13:13,140
+Two days later, the naked body of the latest victim
+
+206
+00:13:13,141 --> 00:13:16,140
+was pulled from the river one mile downstream.
+
+207
+00:13:16,141 --> 00:13:21,140
+In the corpse's hair, one greenish yellow fiber.
+
+208
+00:13:21,141 --> 00:13:24,140
+Agents searched Williams' home and discovered a bedroom carpet
+
+209
+00:13:24,141 --> 00:13:26,140
+of the same color.
+
+210
+00:13:26,141 --> 00:13:31,140
+It strands an exact match of the fibers found on so many victims.
+
+211
+00:13:31,141 --> 00:13:35,140
+It was the first of many matches that proved his guilt.
+
+212
+00:13:35,141 --> 00:13:40,140
+They associated Wayne Williams through dog hairs,
+
+213
+00:13:40,141 --> 00:13:44,140
+through carpet hairs, through all kinds of fibers
+
+214
+00:13:44,141 --> 00:13:45,140
+from clothing.
+
+215
+00:13:45,141 --> 00:13:50,140
+It was the first time in history that a major prosecution
+
+216
+00:13:50,141 --> 00:13:54,140
+had been based almost solely on hair and fiber evidence.
+
+217
+00:13:54,141 --> 00:13:57,140
+Williams was convicted of two of the murders
+
+218
+00:13:57,141 --> 00:14:00,140
+and sentenced to life in jail.
+
+219
+00:14:00,141 --> 00:14:03,140
+This landmark prosecution boosted the importance
+
+220
+00:14:03,141 --> 00:14:06,140
+of hair and fiber evidence leading to its use
+
+221
+00:14:06,141 --> 00:14:09,640
+even in cases where the victims were never recovered.
+
+222
+00:14:09,641 --> 00:14:23,641
+One of the extraordinary uses of hair and fiber evidence
+
+223
+00:14:25,640 --> 00:14:28,140
+was in solving the kidnapping of a little girl
+
+224
+00:14:28,141 --> 00:14:29,640
+named Melissa Brennan.
+
+225
+00:14:29,641 --> 00:14:31,640
+She was with her mother at a Christmas party.
+
+226
+00:14:31,641 --> 00:14:32,640
+Her mother turned around.
+
+227
+00:14:32,641 --> 00:14:37,640
+and she was gone, and she was never seen again.
+
+228
+00:14:37,641 --> 00:14:41,640
+December 3, 1988 began as a joyous Christmas celebration
+
+229
+00:14:41,641 --> 00:14:45,640
+for a five-year-old Melissa Brannon of Fairfax, Virginia.
+
+230
+00:14:45,641 --> 00:14:49,640
+We're off with you're no so bright.
+
+231
+00:14:49,641 --> 00:14:54,640
+Won't you go my say tonight?
+
+232
+00:14:54,641 --> 00:14:59,640
+At 10 p.m., Melissa suddenly vanished from the party.
+
+233
+00:14:59,641 --> 00:15:02,640
+Virginia police immediately began an engagement
+
+234
+00:15:02,641 --> 00:15:06,140
+exhaustive effort to find her, stopping nearby motorists,
+
+235
+00:15:06,141 --> 00:15:09,640
+scouring the area for clues.
+
+236
+00:15:09,641 --> 00:15:12,640
+Throughout that frigid, wintry night, and into the next day,
+
+237
+00:15:12,641 --> 00:15:15,640
+police, soldiers, and volunteers,
+
+238
+00:15:15,641 --> 00:15:19,640
+searched the woods and rivers for any trace of the little girl.
+
+239
+00:15:23,640 --> 00:15:27,640
+In the hours immediately after Melissa's disappearance,
+
+240
+00:15:27,641 --> 00:15:30,640
+police questioned those present at the party.
+
+241
+00:15:30,641 --> 00:15:32,640
+One man, Cal Hughes,
+
+242
+00:15:32,641 --> 00:15:36,240
+had left at 10 p.m., although no one saw him with the little girl.
+
+243
+00:15:40,240 --> 00:15:43,480
+When police reached Hughes at his home at 1 a.m.,
+
+244
+00:15:43,580 --> 00:15:46,780
+he was busy washing his clothes from that evening,
+
+245
+00:15:46,781 --> 00:15:48,880
+including his belt and shoes.
+
+246
+00:15:53,760 --> 00:15:57,440
+When Hughes denied that Melissa had ever been in his car,
+
+247
+00:15:57,441 --> 00:16:02,140
+FBI agents used tape to collect hundreds of fibers from the vehicle.
+
+248
+00:16:02,640 --> 00:16:10,640
+FBI Special Agent Doug Dietrich examined the fibers.
+
+249
+00:16:10,641 --> 00:16:13,640
+With a young daughter of his own the same age as Melissa,
+
+250
+00:16:13,641 --> 00:16:17,640
+Diedrich toiled with an extra measure of determination.
+
+251
+00:16:17,641 --> 00:16:21,640
+He quickly identified black rabbit hairs from the car seat,
+
+252
+00:16:21,641 --> 00:16:24,640
+matching them to a coat worn by Melissa's mother.
+
+253
+00:16:24,641 --> 00:16:29,640
+The tiny strands had traveled from mother to daughter
+
+254
+00:16:29,641 --> 00:16:31,640
+to Calhue's car.
+
+255
+00:16:31,641 --> 00:16:38,640
+The match put Melissa in Hugh's car,
+
+256
+00:16:38,641 --> 00:16:42,640
+but the evidence was too slim to arrest him.
+
+257
+00:16:42,641 --> 00:16:45,640
+Diedrich faced a dilemma.
+
+258
+00:16:45,641 --> 00:16:47,640
+With Melissa and her clothes still missing,
+
+259
+00:16:47,641 --> 00:16:50,640
+how could he make further matches?
+
+260
+00:16:50,641 --> 00:16:53,640
+Then he hit upon the unprecedented idea
+
+261
+00:16:53,641 --> 00:16:58,640
+of recreating the Sesame Street outfit Melissa had worn that night.
+
+262
+00:17:01,640 --> 00:17:05,140
+The clothes were traced to a J.C. penny mail order catalog
+
+263
+00:17:05,141 --> 00:17:07,840
+and arrangements made to obtain a duplicate set.
+
+264
+00:17:10,140 --> 00:17:12,540
+Late one afternoon, Federal Express arrived
+
+265
+00:17:12,541 --> 00:17:15,480
+with a package for Agent Diedrich.
+
+266
+00:17:15,481 --> 00:17:17,660
+He removed a thread from the blue sweater
+
+267
+00:17:17,661 --> 00:17:20,700
+and compared it to a blue fiber from the car.
+
+268
+00:17:29,400 --> 00:17:31,580
+And there was this feeling of exhilaration
+
+269
+00:17:31,640 --> 00:17:33,980
+that he had made contact with the victim.
+
+270
+00:17:33,981 --> 00:17:36,520
+In some way, the victim was talking to him,
+
+271
+00:17:36,521 --> 00:17:38,440
+was giving him the evidence that he needed
+
+272
+00:17:38,441 --> 00:17:40,520
+to put her in the front seat of the car.
+
+273
+00:17:41,820 --> 00:17:44,920
+Diedrich would make over 7,000 comparisons
+
+274
+00:17:44,921 --> 00:17:50,160
+between similar blue fabrics without detecting another match,
+
+275
+00:17:50,161 --> 00:17:53,760
+proving the significance of his initial finding.
+
+276
+00:17:53,761 --> 00:17:55,960
+He uncovered other matches as well,
+
+277
+00:17:55,961 --> 00:17:58,960
+including red threads from the skirt.
+
+278
+00:17:58,961 --> 00:18:01,640
+And in a critical deduction, he showed that the number
+
+279
+00:18:01,641 --> 00:18:04,180
+of fibers in the car were strong evidence
+
+280
+00:18:04,181 --> 00:18:07,980
+that Melissa removed her jacket.
+
+281
+00:18:07,981 --> 00:18:11,380
+Although she has yet to be found, Cal Hughes was convicted
+
+282
+00:18:11,381 --> 00:18:14,480
+of abduction and sentenced to 50 years in prison.
+
+283
+00:18:18,460 --> 00:18:26,400
+Melissa's tragedy stunned her family and her community.
+
+284
+00:18:26,401 --> 00:18:30,060
+Just one year earlier, the global community
+
+285
+00:18:30,061 --> 00:18:33,360
+was shocked by a crime that shattered hundreds of families.
+
+286
+00:18:34,560 --> 00:18:36,700
+It began in a small Scottish town,
+
+287
+00:18:37,000 --> 00:18:41,440
+and it ended as the greatest investigation in crime history.
+
+288
+00:18:45,440 --> 00:18:49,480
+You're watching Forensic Science,
+
+289
+00:18:49,680 --> 00:18:52,180
+the Crime Fighter's Weapon on Modern Mortals.
+
+290
+00:18:53,580 --> 00:18:58,360
+On November 1, 1955, a United Airlines flight
+
+291
+00:18:58,361 --> 00:19:00,040
+and route from Denver to Portland,
+
+292
+00:19:00,060 --> 00:19:05,060
+exploded in mid-air, killing all 44 people aboard.
+
+293
+00:19:05,061 --> 00:19:08,060
+For the first time in U.S. history,
+
+294
+00:19:08,061 --> 00:19:11,060
+a civilian aircraft had fallen prey to a bomber.
+
+295
+00:19:11,061 --> 00:19:25,061
+A few days later, police arrested 23-year-old Jack Gilbert Graham,
+
+296
+00:19:28,060 --> 00:19:29,060
+who admitted to planting a bomb.
+
+297
+00:19:29,061 --> 00:19:33,600
+to planting a bomb in the suitcase of one of the passengers.
+
+298
+00:19:33,601 --> 00:19:40,840
+That passenger was his mother, his motive, collecting on her travel insurance.
+
+299
+00:19:40,841 --> 00:19:47,780
+Graham was executed for his crimes, but he had inaugurated a new era of mass murder.
+
+300
+00:19:47,781 --> 00:19:53,560
+In the 1960s and 70s, a series of bombings rocked the U.S.
+
+301
+00:19:53,561 --> 00:19:58,620
+The FBI responded by creating a special explosives unit in 1972.
+
+302
+00:19:58,621 --> 00:20:02,620
+In recent years, that unit has battled bombers
+
+303
+00:20:02,621 --> 00:20:06,620
+far more sophisticated than Jack Gilbert Graham.
+
+304
+00:20:06,621 --> 00:20:20,621
+The technology of terrorism is escalating.
+
+305
+00:20:25,620 --> 00:20:26,620
+I think the technology of terrorism is escalating.
+
+306
+00:20:26,621 --> 00:20:31,460
+think the technology of investigating may be escalating faster.
+
+307
+00:20:31,461 --> 00:20:35,620
+When you look at the major terrorist attacks,
+
+308
+00:20:35,621 --> 00:20:38,960
+investigators today approach these cases
+
+309
+00:20:38,961 --> 00:20:44,780
+with a zeal and a motivation like never before.
+
+310
+00:20:44,781 --> 00:20:51,420
+They know the technology is available to solve the case.
+
+311
+00:20:51,421 --> 00:20:54,920
+No case would present investigators with a greater challenge
+
+312
+00:20:54,921 --> 00:20:56,920
+than Pan Am 103.
+
+313
+00:20:57,920 --> 00:21:02,920
+On December 21st, 1988, a Boeing 757 jetliner
+
+314
+00:21:02,921 --> 00:21:04,920
+exploded over the skies of Scotland,
+
+315
+00:21:04,921 --> 00:21:07,920
+killing 259 people.
+
+316
+00:21:09,920 --> 00:21:12,920
+It was a scene from hell.
+
+317
+00:21:12,921 --> 00:21:16,920
+Debris and body parts, raining down on the countryside.
+
+318
+00:21:16,921 --> 00:21:19,920
+Some victims still strapped into their seats,
+
+319
+00:21:19,921 --> 00:21:22,920
+the sickening odor of burning flesh.
+
+320
+00:21:22,921 --> 00:21:35,760
+This was a crime scene of over 800 square miles,
+
+321
+00:21:35,761 --> 00:21:39,360
+containing millions of possible clues.
+
+322
+00:21:39,361 --> 00:21:42,680
+Thousands of outraged officials and civilians alike
+
+323
+00:21:42,681 --> 00:21:46,380
+set out over rolling hills and sleeping towns
+
+324
+00:21:46,381 --> 00:21:49,680
+to collect every scrap of potential evidence.
+
+325
+00:21:49,681 --> 00:21:52,920
+In the words of one British detective, if it's not breathing,
+
+326
+00:21:52,921 --> 00:21:54,920
+and it's not a rock, pick it up.
+
+327
+00:21:54,921 --> 00:21:58,920
+You can't find the material to examine
+
+328
+00:21:58,921 --> 00:22:01,920
+unless you're willing to grant the hundreds
+
+329
+00:22:01,921 --> 00:22:03,920
+and hundreds and thousands of man hours
+
+330
+00:22:03,921 --> 00:22:06,920
+that go into actually collecting the material
+
+331
+00:22:06,921 --> 00:22:07,920
+at the crime scene.
+
+332
+00:22:07,921 --> 00:22:09,920
+There's no shortcut for that.
+
+333
+00:22:11,920 --> 00:22:14,920
+The enormous effort paid off.
+
+334
+00:22:14,921 --> 00:22:17,920
+In a nearby hangar, a giant jigsaw puzzle
+
+335
+00:22:17,921 --> 00:22:21,920
+was slowly assembled from millions of pieces.
+
+336
+00:22:21,921 --> 00:22:26,920
+Eventually, investigators literally reconstructed the jet.
+
+337
+00:22:26,921 --> 00:22:31,920
+The entire process would take years, but just days after the explosion,
+
+338
+00:22:31,921 --> 00:22:37,920
+they found a 3 by 8 inch fragment of metal railing from the cargo hold.
+
+339
+00:22:37,921 --> 00:22:41,920
+It showed the distinctive pitting and catering found only on surfaces
+
+340
+00:22:41,921 --> 00:22:46,920
+exposed to high-intensity explosions.
+
+341
+00:22:46,921 --> 00:22:51,920
+This tiny shard confirmed that a bomb was responsible, and a small,
+
+342
+00:22:51,921 --> 00:22:54,680
+and located the blast in the luggage compartment.
+
+343
+00:22:57,600 --> 00:23:00,360
+In the month that followed, painstaking collection
+
+344
+00:23:00,361 --> 00:23:03,860
+and analysis uncovered two more vital clues.
+
+345
+00:23:04,760 --> 00:23:07,660
+Objects near ground zero were coated with residue
+
+346
+00:23:07,661 --> 00:23:12,980
+of the explosive Centex, a high-energy plastic explosive,
+
+347
+00:23:12,981 --> 00:23:15,380
+known to be used by terrorists,
+
+348
+00:23:15,381 --> 00:23:18,420
+and the damage on the remains of a Toshiba radio
+
+349
+00:23:18,421 --> 00:23:21,020
+showed that it had housed the bomb.
+
+350
+00:23:21,920 --> 00:23:26,920
+Knowing that it was a Toshiba radio, knowing it was Semtex,
+
+351
+00:23:26,921 --> 00:23:28,920
+they were able to reconstruct the bomb.
+
+352
+00:23:28,921 --> 00:23:31,920
+So the FBI crime lab built bombs.
+
+353
+00:23:31,921 --> 00:23:34,920
+They put them in luggage containers, filled with suitcases,
+
+354
+00:23:34,921 --> 00:23:35,920
+and they blew them up.
+
+355
+00:23:35,921 --> 00:23:38,920
+When they were able to replicate almost exactly the damage
+
+356
+00:23:38,921 --> 00:23:41,920
+to the luggage container that had been aboard Pan Am 103,
+
+357
+00:23:41,921 --> 00:23:44,920
+they felt that they had located that bomb on that airplane
+
+358
+00:23:44,921 --> 00:23:46,920
+within 10 inches.
+
+359
+00:23:46,921 --> 00:23:50,920
+The bomb was pinpointed to a section of the cargo hole
+
+360
+00:23:50,921 --> 00:23:52,760
+of the cargo hold containing luggage
+
+361
+00:23:52,860 --> 00:23:54,920
+from a connecting flight to Malta.
+
+362
+00:23:56,160 --> 00:23:59,060
+Meanwhile, the remains of clothing used to wrap the bomb
+
+363
+00:23:59,160 --> 00:24:03,060
+were traced to the store Mary's house, also of Malta.
+
+364
+00:24:07,760 --> 00:24:10,980
+The shopkeeper recalled the man who had bought the clothes
+
+365
+00:24:11,080 --> 00:24:14,080
+precisely because he had purchased an odd mix
+
+366
+00:24:14,180 --> 00:24:15,880
+of unrelated items.
+
+367
+00:24:17,580 --> 00:24:19,580
+As investigators left Mary's house,
+
+368
+00:24:19,581 --> 00:24:20,920
+they noticed a building
+
+369
+00:24:20,921 --> 00:24:24,220
+across the street, the Libyan embassy.
+
+370
+00:24:30,860 --> 00:24:33,300
+The web was closing.
+
+371
+00:24:33,301 --> 00:24:35,000
+Two years after the crash,
+
+372
+00:24:35,001 --> 00:24:39,140
+searchers in Lockerbie struck upon a needle in a haystack,
+
+373
+00:24:39,141 --> 00:24:45,240
+a thumbnail-sized circuit from the bomb's timing device.
+
+374
+00:24:45,241 --> 00:24:47,840
+With all the material aboard, all the electronics
+
+375
+00:24:47,841 --> 00:24:50,860
+on that plane, how do you narrow
+
+376
+00:24:50,920 --> 00:24:57,720
+down your search and find one little less than one inch square circuit board.
+
+377
+00:24:57,721 --> 00:25:01,860
+When there are hundreds, literally thousands of circuit boards on that plane.
+
+378
+00:25:01,861 --> 00:25:04,360
+The investigators in Great Britain found that fragment.
+
+379
+00:25:04,361 --> 00:25:06,060
+They knew it was unique.
+
+380
+00:25:06,061 --> 00:25:08,780
+They knew it was especially important.
+
+381
+00:25:08,781 --> 00:25:15,980
+And they set about with the rest of the task force trying to identify the source of that.
+
+382
+00:25:15,981 --> 00:25:20,860
+Lettering on the circuit board had been scratched off to hide its origins.
+
+383
+00:25:20,920 --> 00:25:26,060
+infrared photography unveiled letters hidden beneath the scratches.
+
+384
+00:25:26,061 --> 00:25:32,800
+The manufacturer was revealed as Mibo, Swiss makers of high-quality timers.
+
+385
+00:25:32,801 --> 00:25:37,240
+The company reluctantly admitted having sold 20 of the timers
+
+386
+00:25:37,241 --> 00:25:41,800
+to the Libyan government.
+
+387
+00:25:41,801 --> 00:25:46,420
+The more sophisticated the terrorist gets, the more evidence he leaves behind.
+
+388
+00:25:46,421 --> 00:25:50,900
+In Panium 103, he used a very sophisticated timer, a unique timer.
+
+389
+00:25:50,920 --> 00:25:55,920
+A timer that I'm sure that the terrorist thought
+
+390
+00:25:55,921 --> 00:25:57,920
+would never be traced back to him,
+
+391
+00:25:57,921 --> 00:25:59,920
+in fact, would never be found.
+
+392
+00:26:01,920 --> 00:26:04,920
+Two Libyan nationals were indicted for the murders
+
+393
+00:26:04,921 --> 00:26:07,920
+of those aboard Pan Am 103.
+
+394
+00:26:07,921 --> 00:26:10,920
+They remain at large somewhere in Libya,
+
+395
+00:26:10,921 --> 00:26:14,920
+fugitives hiding from an outraged world.
+
+396
+00:26:14,921 --> 00:26:17,920
+When you start with an airplane that has been exploded
+
+397
+00:26:17,921 --> 00:26:21,260
+loaded literally into millions of pieces,
+
+398
+00:26:21,261 --> 00:26:23,600
+many of them no larger than a thumbnail.
+
+399
+00:26:23,601 --> 00:26:25,760
+And you're able to trace that back to the two people
+
+400
+00:26:25,761 --> 00:26:28,560
+who put that bomb aboard the airplane.
+
+401
+00:26:28,561 --> 00:26:30,560
+You know that you've seen one of the great investigations
+
+402
+00:26:30,561 --> 00:26:33,860
+in criminal history.
+
+403
+00:26:33,861 --> 00:26:36,980
+Pan Am 103 is but one of many cases
+
+404
+00:26:36,981 --> 00:26:42,380
+pitting fanatical terrorists against modern science.
+
+405
+00:26:42,381 --> 00:26:44,880
+Five years after the Lockerbie tragedy,
+
+406
+00:26:44,881 --> 00:26:47,920
+the new technique of DNA fingerprinting would implicate
+
+407
+00:26:47,921 --> 00:26:52,360
+the men behind the worst act of foreign terrorism on U.S. soil.
+
+408
+00:26:59,360 --> 00:27:02,560
+The owner at the clothing store, Mary's House in Malta,
+
+409
+00:27:02,860 --> 00:27:05,580
+remembered Abdel Bassett as a customer in his store
+
+410
+00:27:05,581 --> 00:27:07,780
+because he bought a pair of pants so ugly
+
+411
+00:27:07,781 --> 00:27:09,800
+the owner thought they would never sell.
+
+412
+00:27:10,600 --> 00:27:12,920
+Forensic science, the crime fighter's weapon,
+
+413
+00:27:13,180 --> 00:27:15,120
+will continue on modern marvels.
+
+414
+00:27:17,920 --> 00:27:20,920
+You're watching Forensic Science,
+
+415
+00:27:20,921 --> 00:27:23,920
+the Crime Fighters' Weapon on Modern Models.
+
+416
+00:27:23,921 --> 00:27:29,920
+For nearly a century, fingerprints
+
+417
+00:27:29,921 --> 00:27:33,920
+were the most reliable means of identifying individuals.
+
+418
+00:27:33,921 --> 00:27:35,920
+But in just the last decade,
+
+419
+00:27:35,921 --> 00:27:40,920
+an information age technology has revolutionized forensic science.
+
+420
+00:27:40,921 --> 00:27:44,920
+Crime fighting has entered the era of DNA.
+
+421
+00:27:44,921 --> 00:27:45,920
+DNA.
+
+422
+00:27:45,921 --> 00:27:55,760
+While one can put on a pair of gloves and prevent leaving fingerprints, it's impossible
+
+423
+00:27:55,761 --> 00:28:06,160
+for an individual to engage in an act of violence and not leave some calling card in the form
+
+424
+00:28:06,161 --> 00:28:14,680
+of cellular material, saliva on a cigarette butt, perspiration in a hatband, individual, individual
+
+425
+00:28:14,681 --> 00:28:19,680
+any number of different cellular biological materials
+
+426
+00:28:19,681 --> 00:28:24,680
+all have the same DNA profile for an individual.
+
+427
+00:28:24,681 --> 00:28:29,680
+In the World Trade Center case, after the bombing,
+
+428
+00:28:29,681 --> 00:28:32,680
+somebody wrote a letter to the New York Times
+
+429
+00:28:32,681 --> 00:28:35,680
+claiming responsibility and threatening further bombings.
+
+430
+00:28:35,681 --> 00:28:37,680
+When suspects were identified,
+
+431
+00:28:37,681 --> 00:28:40,680
+they were able to match one suspect to the letter
+
+432
+00:28:40,681 --> 00:28:44,680
+by showing his DNA in the saliva used,
+
+433
+00:28:44,681 --> 00:28:47,920
+to lick the stamp proving he had sent this letter,
+
+434
+00:28:47,921 --> 00:28:49,720
+and there was information in that letter
+
+435
+00:28:49,721 --> 00:28:52,020
+that directly associated him with the bombing.
+
+436
+00:28:56,060 --> 00:29:00,520
+With the exception of twins, the DNA of each person
+
+437
+00:29:00,521 --> 00:29:03,060
+is unique to that individual.
+
+438
+00:29:03,061 --> 00:29:06,700
+DNA technology can not only trap the guilty,
+
+439
+00:29:06,701 --> 00:29:09,440
+but exonerate the innocent.
+
+440
+00:29:09,441 --> 00:29:13,540
+If it's not your DNA, you weren't there.
+
+441
+00:29:13,541 --> 00:29:14,580
+So if there's a rape case,
+
+442
+00:29:14,680 --> 00:29:19,680
+and they find semen, and it's not the DNA of a suspect,
+
+443
+00:29:19,681 --> 00:29:21,680
+he is not the perpetrator of that crime.
+
+444
+00:29:21,681 --> 00:29:24,680
+And in fact, in about a third of all cases to this point,
+
+445
+00:29:24,681 --> 00:29:27,680
+DNA has successfully excluded suspects
+
+446
+00:29:27,681 --> 00:29:29,680
+from criminal prosecution.
+
+447
+00:29:31,680 --> 00:29:35,680
+DNA has only been allowed in trials since 1988.
+
+448
+00:29:35,681 --> 00:29:38,680
+But if evidence samples are properly preserved,
+
+449
+00:29:38,681 --> 00:29:43,680
+it can reach back across the years to write old wrongs.
+
+450
+00:29:43,681 --> 00:29:55,520
+They knocked on the door.
+
+451
+00:29:55,521 --> 00:29:59,120
+They had the place around in the police cars
+
+452
+00:29:59,121 --> 00:30:01,740
+and pistols drawn and the whole bit.
+
+453
+00:30:01,741 --> 00:30:03,440
+And I kept saying, what are you doing?
+
+454
+00:30:03,441 --> 00:30:04,440
+You know, this is great.
+
+455
+00:30:04,441 --> 00:30:05,440
+Well, you're being arrested.
+
+456
+00:30:05,441 --> 00:30:08,680
+We have a warrant for your arrest, first-degree murder.
+
+457
+00:30:08,681 --> 00:30:12,180
+In the death of Don Hamilton, the little girl.
+
+458
+00:30:12,181 --> 00:30:13,180
+And I said, you're out of your damn mind.
+
+459
+00:30:13,181 --> 00:30:15,180
+I am on.
+
+460
+00:30:15,181 --> 00:30:18,680
+In 1984, the body of nine-year-old Don Hamilton
+
+461
+00:30:18,681 --> 00:30:23,920
+was found in a wooded area in Rosedale, Maryland.
+
+462
+00:30:23,921 --> 00:30:27,100
+She had been raped and murdered.
+
+463
+00:30:27,101 --> 00:30:30,760
+Jane Miller of Baltimore television station WBAL
+
+464
+00:30:30,761 --> 00:30:37,440
+covered the brutal crime and its long aftermath.
+
+465
+00:30:37,441 --> 00:30:40,940
+The entire area reacted with shock.
+
+466
+00:30:40,941 --> 00:30:42,940
+It was every parent's nightmare.
+
+467
+00:30:42,941 --> 00:30:44,980
+their worst fear.
+
+468
+00:30:44,981 --> 00:30:47,120
+As we conducted our investigation into this case,
+
+469
+00:30:47,121 --> 00:30:48,820
+one detective who had worked on the case
+
+470
+00:30:48,821 --> 00:30:51,220
+from the beginning told us there was a mentality
+
+471
+00:30:51,221 --> 00:30:53,520
+in the police department to get somebody.
+
+472
+00:30:53,521 --> 00:30:56,280
+There was so much pressure to solve the case
+
+473
+00:30:56,281 --> 00:30:59,520
+and to find someone, to arrest someone,
+
+474
+00:30:59,521 --> 00:31:02,520
+to bring about some kind of relief to the community.
+
+475
+00:31:06,720 --> 00:31:09,900
+The pressure upon them was so great
+
+476
+00:31:09,901 --> 00:31:12,440
+that the first nibble
+
+477
+00:31:12,441 --> 00:31:17,140
+of anything, they jumped on and snowballed into this great
+
+478
+00:31:17,141 --> 00:31:19,740
+avalanche of what happened to me for nine years,
+
+479
+00:31:19,741 --> 00:31:22,980
+actually eight years, 11 months, and 19 days of hell.
+
+480
+00:31:26,020 --> 00:31:29,520
+Kirk Bloodsworth was 22 when Dawn was murdered.
+
+481
+00:31:30,620 --> 00:31:34,260
+He was a blue collar ex-marine newly moved to Rosdale,
+
+482
+00:31:34,261 --> 00:31:37,700
+an outsider in the upper middle-class neighborhood.
+
+483
+00:31:38,840 --> 00:31:42,340
+A young boy who had witnessed the crime while looking up a hill
+
+484
+00:31:42,440 --> 00:31:47,540
+into the sun identified Kirk as the culprit.
+
+485
+00:31:47,541 --> 00:31:53,220
+The police jumped on the questionable ID hauling Kirk into custody.
+
+486
+00:31:53,221 --> 00:31:59,420
+Too poor to hire an attorney, he was dealt one from the public defender's office.
+
+487
+00:31:59,421 --> 00:32:00,860
+And he sits down and he tells me, well, Mr.
+
+488
+00:32:00,861 --> 00:32:02,500
+Bluffsworth, if I really believe you're innocent,
+
+489
+00:32:02,501 --> 00:32:04,500
+I think you're innocent man.
+
+490
+00:32:04,501 --> 00:32:07,440
+I got to tell you, I really know my way around a courtroom.
+
+491
+00:32:07,441 --> 00:32:09,640
+And there's no place I can't find my way at random.
+
+492
+00:32:09,641 --> 00:32:12,420
+He gets up and we couldn't shake hands, you know, he says goodbye.
+
+493
+00:32:12,440 --> 00:32:13,680
+and he turns around and grabs his coat
+
+494
+00:32:13,681 --> 00:32:16,680
+and runs right into the wall.
+
+495
+00:32:16,681 --> 00:32:20,680
+Now, I said to myself, well, I'm in deep shit.
+
+496
+00:32:20,681 --> 00:32:22,280
+You know, here's a man that's telling me all this crap,
+
+497
+00:32:22,281 --> 00:32:25,980
+and can he find his way out of a door he just come through?
+
+498
+00:32:25,981 --> 00:32:27,780
+And it really turned out that way.
+
+499
+00:32:27,781 --> 00:32:31,400
+It was a farce from the very beginning.
+
+500
+00:32:31,401 --> 00:32:35,400
+By all accounts, Kirk's trial was a mismatch.
+
+501
+00:32:35,401 --> 00:32:41,000
+On one side, an outsider represented by an incompetent lawyer.
+
+502
+00:32:41,001 --> 00:32:45,000
+On the other, the district attorney backed by an outraged town
+
+503
+00:32:45,001 --> 00:32:47,000
+demanding justice.
+
+504
+00:32:49,000 --> 00:32:51,000
+Imagine being a juror in this case,
+
+505
+00:32:51,001 --> 00:32:55,000
+sitting there listening to this very horrible graphic testimony
+
+506
+00:32:55,001 --> 00:32:58,000
+of how this little girl died, what was done to her,
+
+507
+00:32:58,001 --> 00:33:02,000
+and being charged with finding who was responsible for this.
+
+508
+00:33:02,001 --> 00:33:05,000
+It was a tough spot for a jury to be in
+
+509
+00:33:05,001 --> 00:33:09,000
+because they're looking at this guy who is the police say he did it.
+
+510
+00:33:09,001 --> 00:33:14,000
+They slammed me, convicted me on all counts,
+
+511
+00:33:14,001 --> 00:33:17,000
+and in the courtroom, they're up in applause.
+
+512
+00:33:17,001 --> 00:33:21,000
+And when I was sentenced to death, they did the same thing.
+
+513
+00:33:21,001 --> 00:33:24,000
+And they parted up until 2 o'clock of the morning.
+
+514
+00:33:24,001 --> 00:33:29,000
+And I thought how frickin morbid that was, you know.
+
+515
+00:33:29,001 --> 00:33:32,000
+They don't know me.
+
+516
+00:33:32,001 --> 00:33:37,000
+Awaiting execution, Kirk was moved to death row
+
+517
+00:33:37,001 --> 00:33:40,000
+at the Maryland Penitentiary in downtown Baltimore.
+
+518
+00:33:41,000 --> 00:33:44,000
+The oldest prison still in use in America.
+
+519
+00:33:44,001 --> 00:33:47,000
+Inmates know it as Castle Dracula.
+
+520
+00:33:47,001 --> 00:33:50,000
+It was so terrible.
+
+521
+00:33:50,001 --> 00:33:53,000
+I remember the power going off in prison one time.
+
+522
+00:33:53,001 --> 00:33:57,000
+And I was laying in my bed and I had a single cell
+
+523
+00:33:57,001 --> 00:33:59,000
+and this was when I was on death row.
+
+524
+00:33:59,001 --> 00:34:01,000
+And these things were falling.
+
+525
+00:34:01,001 --> 00:34:02,000
+He hit me in the head.
+
+526
+00:34:02,001 --> 00:34:03,000
+I didn't know what the hell it was.
+
+527
+00:34:03,001 --> 00:34:05,000
+And the lights came on.
+
+528
+00:34:05,001 --> 00:34:06,000
+And I looked up and I couldn't believe it.
+
+529
+00:34:06,001 --> 00:34:06,840
+I couldn't believe it.
+
+530
+00:34:06,841 --> 00:34:09,640
+It was about a thousand roaches crawling on my ceiling,
+
+531
+00:34:09,641 --> 00:34:13,740
+dropping on me, falling on me, mice, rats.
+
+532
+00:34:17,840 --> 00:34:23,160
+You convicted of a child murdered.
+
+533
+00:34:25,160 --> 00:34:27,060
+Me had a worst thing in there.
+
+534
+00:34:27,061 --> 00:34:33,560
+And I was brutalized, but I stood up for myself.
+
+535
+00:34:33,561 --> 00:34:35,300
+I'm not in a little person, you know.
+
+536
+00:34:35,301 --> 00:34:36,001
+I can take care of.
+
+537
+00:34:36,002 --> 00:34:44,000
+I almost got stabbed a couple times.
+
+538
+00:34:44,001 --> 00:34:48,000
+The people in the top tears would piss on you.
+
+539
+00:34:48,001 --> 00:34:51,000
+So feces all over the place.
+
+540
+00:34:51,001 --> 00:34:53,000
+Flood you out.
+
+541
+00:34:53,001 --> 00:35:05,000
+For Kirk,
+
+542
+00:35:05,001 --> 00:35:08,100
+For Kirk, time was running out.
+
+543
+00:35:08,101 --> 00:35:11,940
+No one believed his protestations of innocence.
+
+544
+00:35:11,941 --> 00:35:16,040
+After two years on death row, he was sliding ever closer
+
+545
+00:35:16,041 --> 00:35:19,940
+to his appointment with the gas chamber.
+
+546
+00:35:23,940 --> 00:35:26,820
+The fate of Kirk Bloodsworth hinged on a dry spot
+
+547
+00:35:26,821 --> 00:35:30,500
+of bodily fluid less than one 16th of an inch wide.
+
+548
+00:35:30,501 --> 00:35:33,160
+Forensic science, the crime fighter's weapon,
+
+549
+00:35:33,161 --> 00:35:34,960
+will continue on modern marvels.
+
+550
+00:35:35,000 --> 00:35:44,900
+I was on death row at the Maryland Penitentiary, T.
+
+551
+00:35:44,901 --> 00:35:45,900
+A.
+
+552
+00:35:45,901 --> 00:35:48,600
+I was there for two years.
+
+553
+00:35:48,601 --> 00:35:50,900
+Actually, I was over top the gas chamber.
+
+554
+00:35:50,901 --> 00:35:55,200
+I slept right over top of it.
+
+555
+00:35:55,201 --> 00:36:01,200
+I was right on that corner about 15 feet away.
+
+556
+00:36:01,201 --> 00:36:04,980
+Now I'm on death row waiting to get executed for somebody else's
+
+557
+00:36:05,000 --> 00:36:09,000
+and this isn't going to happen to me.
+
+558
+00:36:09,001 --> 00:36:14,000
+No way in hell am I going to let it happen.
+
+559
+00:36:14,001 --> 00:36:17,000
+Kirk fought vainly to escape his dungeon,
+
+560
+00:36:17,001 --> 00:36:22,000
+shouting his innocence into a long line of deaf ears.
+
+561
+00:36:22,001 --> 00:36:26,000
+I wrote everybody from the President of the United States
+
+562
+00:36:26,001 --> 00:36:31,000
+is Donald Trump just to try, well, maybe I'll write him,
+
+563
+00:36:31,001 --> 00:36:34,000
+you know, maybe I'll write him, you know, maybe I'll write this person,
+
+564
+00:36:34,001 --> 00:36:35,000
+Maybe I'll write her.
+
+565
+00:36:35,001 --> 00:36:38,000
+Maybe I'll call this person.
+
+566
+00:36:38,001 --> 00:36:43,000
+And my father and mother were doing the same thing.
+
+567
+00:36:43,001 --> 00:36:49,880
+To maintain his sanity, Kirk took to reading everything from Gestalt's psychology to Stephen King.
+
+568
+00:36:49,881 --> 00:36:53,760
+Over 3,000 books during his years in prison.
+
+569
+00:36:53,761 --> 00:36:59,900
+He poured over legal tomes, educating himself about the rules of discovery, about the rights
+
+570
+00:36:59,901 --> 00:37:03,980
+of the accused, and about forensic science.
+
+571
+00:37:04,000 --> 00:37:08,500
+Then one fateful day he picked up the nonfiction thriller,
+
+572
+00:37:08,501 --> 00:37:11,500
+The Blooding, by Joseph Womba.
+
+573
+00:37:11,501 --> 00:37:15,500
+Its story featured a still experimental process
+
+574
+00:37:15,501 --> 00:37:18,500
+called DNA fingerprinting.
+
+575
+00:37:18,501 --> 00:37:21,500
+You could not have a conversation with Kirk
+
+576
+00:37:21,501 --> 00:37:25,500
+at that time in 1987 and 1988 and 89
+
+577
+00:37:25,501 --> 00:37:30,000
+without him bringing up DNA and all the experimentation
+
+578
+00:37:30,001 --> 00:37:31,500
+that was going on with it.
+
+579
+00:37:31,501 --> 00:37:33,500
+He was the one that was really pushing this.
+
+580
+00:37:33,501 --> 00:37:35,340
+I have an entire box of letters,
+
+581
+00:37:35,341 --> 00:37:36,840
+and in each one of those letters,
+
+582
+00:37:36,841 --> 00:37:40,800
+somewhere in that letter, would appear the same statements.
+
+583
+00:37:40,801 --> 00:37:43,340
+One is, I didn't do this.
+
+584
+00:37:43,341 --> 00:37:47,340
+And secondly, he would talk about DNA.
+
+585
+00:37:47,341 --> 00:37:50,760
+DNA typing initially required a significant sample
+
+586
+00:37:50,761 --> 00:37:52,560
+for testing.
+
+587
+00:37:52,561 --> 00:37:56,560
+More than present in Kirk's case, he had struck another dead end.
+
+588
+00:37:56,561 --> 00:38:10,560
+But by 191, just three years after DNA testing was introduced,
+
+589
+00:38:10,561 --> 00:38:14,560
+the technology had leaped forward.
+
+590
+00:38:14,561 --> 00:38:21,560
+Investigators took another look at the underwear Don Hamilton wore on her final night.
+
+591
+00:38:21,561 --> 00:38:25,560
+What was discovered on this pair of underwear was a very
+
+592
+00:38:25,561 --> 00:38:30,560
+was a very tiny spot of semen that had never been seen before
+
+593
+00:38:32,560 --> 00:38:35,560
+because the technology wasn't available to see it.
+
+594
+00:38:35,561 --> 00:38:40,560
+And with what's called PCR, that allows that little spot
+
+595
+00:38:40,561 --> 00:38:46,560
+to be magnified, to be enlarged, so that it can be tested.
+
+596
+00:38:47,560 --> 00:38:52,560
+Helped by a new team of lawyers, Kirk Press to have the underwear tested.
+
+597
+00:38:52,561 --> 00:38:54,560
+He knew that vindication lay at hand.
+
+598
+00:38:54,561 --> 00:38:58,560
+lay at hand, yet still he languished in jail.
+
+599
+00:38:58,561 --> 00:39:00,560
+The prosecution agreed.
+
+600
+00:39:00,561 --> 00:39:02,560
+They said they're a reason to believe
+
+601
+00:39:02,561 --> 00:39:04,560
+that he's not the one that the positive
+
+602
+00:39:04,561 --> 00:39:07,560
+this thing, and we're going to cut him loose.
+
+603
+00:39:07,561 --> 00:39:12,560
+And they wrote an agreement, which we all signed to this effect.
+
+604
+00:39:12,561 --> 00:39:14,560
+And it took a year.
+
+605
+00:39:14,561 --> 00:39:17,560
+I call them every day, every day, every day, every day.
+
+606
+00:39:17,561 --> 00:39:20,560
+We get the results back.
+
+607
+00:39:20,561 --> 00:39:24,560
+While awaiting the test results, Kirk lost the one person,
+
+608
+00:39:24,561 --> 00:39:27,760
+who never doubted him, his mother.
+
+609
+00:39:27,761 --> 00:39:30,000
+Prohibited from attending her funeral,
+
+610
+00:39:30,001 --> 00:39:34,160
+he was taken in shackles to the funeral home.
+
+611
+00:39:34,161 --> 00:39:35,200
+And nobody could be there.
+
+612
+00:39:35,201 --> 00:39:37,280
+I didn't see my father there or nothing.
+
+613
+00:39:37,281 --> 00:39:39,680
+I was there by myself.
+
+614
+00:39:39,681 --> 00:39:47,280
+And I had leg chains on, waist chain, handcuffs, and block.
+
+615
+00:39:47,281 --> 00:39:53,860
+And that's how I had to be my mother.
+
+616
+00:39:53,861 --> 00:39:55,860
+I remember kissing her goodbye.
+
+617
+00:39:59,860 --> 00:40:00,860
+And that was it.
+
+618
+00:40:02,860 --> 00:40:03,860
+I was there five minutes.
+
+619
+00:40:06,860 --> 00:40:09,860
+Kirk had endured nine years of jail.
+
+620
+00:40:10,860 --> 00:40:15,860
+Aging from 23 to 32, he had withstood the abuse of inmates
+
+621
+00:40:15,861 --> 00:40:17,860
+and jailers alike.
+
+622
+00:40:17,861 --> 00:40:21,860
+He had waited over a year for the DNA to be tested
+
+623
+00:40:21,861 --> 00:40:22,860
+and retested.
+
+624
+00:40:22,861 --> 00:40:27,860
+I picked up the phone that day in May of 1993,
+
+625
+00:40:27,861 --> 00:40:30,860
+and all I could hear on the other end
+
+626
+00:40:30,861 --> 00:40:34,860
+was kind of this joyful screaming.
+
+627
+00:40:34,861 --> 00:40:36,860
+And at first I couldn't figure out who it was,
+
+628
+00:40:36,861 --> 00:40:37,860
+and then a couple of seconds later,
+
+629
+00:40:37,861 --> 00:40:39,860
+it could only be one person.
+
+630
+00:40:39,861 --> 00:40:42,860
+It was Kirk saying, it's not me.
+
+631
+00:40:42,861 --> 00:40:45,860
+The DNA tests are back, and it's not me.
+
+632
+00:40:45,861 --> 00:40:51,860
+I had my key to unlock that damn door.
+
+633
+00:40:51,861 --> 00:40:57,760
+the damn door that held me for so many years.
+
+634
+00:40:57,761 --> 00:41:01,620
+I went absolutely ape shit at that point.
+
+635
+00:41:01,621 --> 00:41:04,940
+I threw my hands up in the air and I started screaming,
+
+636
+00:41:04,941 --> 00:41:09,140
+running down the tear, tears running down my face.
+
+637
+00:41:09,141 --> 00:41:12,380
+I just knew that it was over.
+
+638
+00:41:12,381 --> 00:41:17,100
+How's it feel, man?
+
+639
+00:41:17,101 --> 00:41:18,100
+How's it feel?
+
+640
+00:41:18,101 --> 00:41:19,100
+Great.
+
+641
+00:41:19,101 --> 00:41:20,100
+Fantastic.
+
+642
+00:41:20,101 --> 00:41:21,100
+Seriously.
+
+643
+00:41:21,101 --> 00:41:25,100
+I've just got a lot of flood of emotions right now.
+
+644
+00:41:25,101 --> 00:41:28,100
+It's hard to describe.
+
+645
+00:41:28,101 --> 00:41:30,100
+Hard to describe.
+
+646
+00:41:30,101 --> 00:41:31,100
+We got it.
+
+647
+00:41:31,101 --> 00:41:32,100
+We're happy.
+
+648
+00:41:32,101 --> 00:41:33,100
+No, we got here.
+
+649
+00:41:33,101 --> 00:41:36,100
+He's happy.
+
+650
+00:41:36,101 --> 00:41:37,100
+He's happy.
+
+651
+00:41:51,100 --> 00:41:56,100
+DNA typing has existed for less than one decade.
+
+652
+00:41:56,101 --> 00:42:10,101
+Its promise for the future is limitless.
+
+653
+00:42:15,100 --> 00:42:20,100
+When you speak, you spew DNA out of your mouth.
+
+654
+00:42:20,101 --> 00:42:23,440
+out of your mouth, the loosest cells in your body
+
+655
+00:42:23,441 --> 00:42:25,440
+are the cells on the inside of your cheek.
+
+656
+00:42:25,441 --> 00:42:28,040
+When you talk on a telephone, you're leaving DNA
+
+657
+00:42:28,041 --> 00:42:29,440
+on that telephone.
+
+658
+00:42:29,441 --> 00:42:31,940
+They're developing technologies now
+
+659
+00:42:31,941 --> 00:42:32,940
+to take it off the telephone,
+
+660
+00:42:32,941 --> 00:42:35,940
+to identify you as the person who use that phone.
+
+661
+00:42:35,941 --> 00:42:41,060
+Science and technology is only now beginning
+
+662
+00:42:41,061 --> 00:42:42,860
+to be applied to crime fighting.
+
+663
+00:42:42,861 --> 00:42:45,860
+What's started to happen is extraordinary.
+
+664
+00:42:45,861 --> 00:42:49,960
+What's going to happen in the next 15 or 20 years is mind
+
+665
+00:42:49,961 --> 00:42:58,960
+to date only about two dozen prisoners have been freed by DNA evidence but as the
+
+666
+00:42:58,961 --> 00:43:04,640
+technology becomes cheaper and more widely used hundreds of unjustly jailed may be
+
+667
+00:43:04,641 --> 00:43:12,460
+released from their nightmares DNA will be their weapon against human passions the
+
+668
+00:43:12,461 --> 00:43:19,560
+fear of evil the desire for vengeance the moment the jury saw the pictures of that
+
+669
+00:43:19,561 --> 00:43:25,440
+little girl, they had to have a terrible reaction to it because it was vicious.
+
+670
+00:43:25,441 --> 00:43:29,460
+Everybody on that jury could imagine if that was their own little girl.
+
+671
+00:43:29,461 --> 00:43:34,980
+The benefit of DNA is that it removes all that emotion.
+
+672
+00:43:34,981 --> 00:43:42,680
+It's a piece of science that doesn't allow the emotion to taint it.
+
+673
+00:43:42,681 --> 00:43:49,040
+I still have dreams about it today, I mean, to this very day that I'm being let down the
+
+674
+00:43:49,041 --> 00:43:54,040
+the hallway to the death chamber and strapping me in.
+
+675
+00:43:54,740 --> 00:43:59,040
+And I just happened to be in the easy chair and I wake up.
+
+676
+00:44:01,040 --> 00:44:05,140
+Kirk was exonerated by a drop of fluid.
+
+677
+00:44:05,141 --> 00:44:10,740
+The next man may be convicted by DNA cells left on a telephone.
+
+678
+00:44:10,741 --> 00:44:15,740
+Just as Sherlock Holmes revolutionized crime fighting a century ago,
+
+679
+00:44:15,741 --> 00:44:18,940
+we are now entering a new era in crime science.
+
+680
+00:44:19,040 --> 00:44:24,040
+Detectives have traditionally searched for a smoking gun.
+
+681
+00:44:24,041 --> 00:44:28,040
+Criminologists of the future will need only the smoke.
+
+682
+00:44:28,041 --> 00:44:31,040
+The Smok.
+
+683
+00:44:59,620 --> 00:45:00,820
+wise wise
+

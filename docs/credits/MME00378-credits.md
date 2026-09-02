@@ -1,0 +1,42 @@
+# Credit Roll: Rubber (2004)
+**Canonical Episode:** [`MME00378: Rubber`](../episodes/MME00378.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
+* **Narrator:** MIKKI DEL MONICO, MAX RAPHAEL
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Accountants** | JUDY GORDON, SHERIDAN LIU |
+| **Animation by** | VICTOR BORNIA |
+| **Assistant Editor** | LAURA STEINHOFF |
+| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
+| **Associate Producer** | DAN GIBBONS |
+| **Camera** | JOE CLARK, EVERETT A. HARRIS, JARED MANDERS, ERIC THORNTON, JORGE CASTILLO-TRENTIN |
+| **Clearance Supervisor** | KATIE DEL CORE |
+| **Created by** | BRUCE NASH |
+| **Director of Research** | ANTHONY LACOUES |
+| **Edited by** | SCOT KELLY |
+| **Executive Producer** | DON CAMBOU |
+| **Field Audio** | DEREK JOHNSTON, KEITH PEARSON, JEREMY SETTLES, THOM SHAFER |
+| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
+| **Line Producer** | PAUL DZILVELIS |
+| **Music by** | GUY THOMAS |
+| **Narrated by** | MAX RAPHAEL |
+| **Online Editor** | JOHN PRICE |
+| **Post Assistant** | GAYLEN KOBAYASHI |
+| **Post Producer** | TIM KNAUFF |
+| **Producer** | BRUCE NASH |
+| **Production Controller** | DANI ESLIN |
+| **Production Manager** | SHELIA COLLINS |
+| **Sound Mixer** | PAUL RAY |
+| **Voice Over Coordinator** | MIKKI DEL MONICO |
+| **Written and Produced by** | JEFFREY WILLERTH |
+
+---
+[← Return to Episode Dossier](../episodes/MME00378.md)

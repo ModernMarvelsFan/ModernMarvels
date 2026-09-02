@@ -1,0 +1,2140 @@
+1
+00:00:01,000 --> 00:00:06,700
+Plotting distant planets and your own neighborhood.
+
+2
+00:00:07,240 --> 00:00:09,840
+Please proceed to the highlighted route.
+
+3
+00:00:10,620 --> 00:00:12,780
+Maps fueled by adventure.
+
+4
+00:00:13,600 --> 00:00:15,400
+Older than recorded history.
+
+5
+00:00:16,380 --> 00:00:20,160
+Now, mapmaking on Modern Marvels.
+
+6
+00:00:30,000 --> 00:00:44,000
+A map was there when man first walked on the moon.
+
+7
+00:00:49,360 --> 00:00:54,480
+William Clark drew this map when he charted America's Northwest Passage with Meriwether Lewis.
+
+8
+00:00:55,840 --> 00:00:57,880
+This is the planet Venus.
+
+9
+00:00:58,620 --> 00:01:00,280
+It's also a map.
+
+10
+00:01:01,820 --> 00:01:06,440
+Throughout history, maps have inspired adventure and warned of danger.
+
+11
+00:01:07,200 --> 00:01:12,300
+They've been created as great works of art and to plot horrific carnage.
+
+12
+00:01:12,980 --> 00:01:15,680
+They've also helped us get to where we're going.
+
+13
+00:01:16,900 --> 00:01:23,500
+In addition to geography, the map itself gives you an idea of what the technology was at the time that the map was constructed.
+
+14
+00:01:23,501 --> 00:01:29,180
+We have maps in the past where there weren't great cartographic techniques and tools,
+
+15
+00:01:29,580 --> 00:01:32,140
+and as a consequence, maps tended to be very simple,
+
+16
+00:01:32,300 --> 00:01:35,940
+simply because people could not create a complex image.
+
+17
+00:01:36,480 --> 00:01:39,560
+Today, with our advances in computer science and computer graphics,
+
+18
+00:01:39,900 --> 00:01:43,600
+we can create very, very specific displays with great deals of complexity.
+
+19
+00:01:44,520 --> 00:01:50,640
+No place are the technological advances of cartography better demonstrated than in New York City.
+
+20
+00:01:50,641 --> 00:01:59,100
+During the 20th century, New York generated an incomparable energy stoked by the wonder
+
+21
+00:01:59,101 --> 00:02:09,500
+of skyscrapers, the power of Wall Street, and the ever-present fear of crime.
+
+22
+00:02:09,501 --> 00:02:12,660
+Violence tarnished the city's greatness.
+
+23
+00:02:12,661 --> 00:02:16,640
+In the late 1990s, however, violent crime began to plummet.
+
+24
+00:02:16,641 --> 00:02:22,360
+A key weapon in New York's war on criminals really wasn't a weapon at all, but a map.
+
+25
+00:02:23,060 --> 00:02:29,760
+A 10-foot-long, interactive, computerized supermap system called ComStat.
+
+26
+00:02:31,460 --> 00:02:32,639
+This is revolutionary.
+
+27
+00:02:32,640 --> 00:02:37,460
+I mean, most police departments in the world are now coming here to copy what we're doing.
+
+28
+00:02:38,100 --> 00:02:42,400
+ComStat is part of the greatest revolution in mapping since Columbus.
+
+29
+00:02:42,401 --> 00:02:47,400
+technology has taken the map from paper to cyberspace.
+
+30
+00:02:48,400 --> 00:02:50,400
+Like traditional maps,
+
+31
+00:02:50,401 --> 00:02:53,400
+Comstat is a geographical representation of an area,
+
+32
+00:02:53,401 --> 00:02:57,400
+a visual display of streets and landmarks.
+
+33
+00:02:57,401 --> 00:03:00,400
+But rather than being printed on paper,
+
+34
+00:03:00,401 --> 00:03:03,400
+it is an electronic projection.
+
+35
+00:03:03,401 --> 00:03:08,400
+Comstat looms above the NYPD's Command and Control Room,
+
+36
+00:03:08,401 --> 00:03:11,400
+Crime-Fighting Nerve Center of New York.
+
+37
+00:03:11,401 --> 00:03:19,940
+The computers that power Comstat actually make it thousands of maps in one.
+
+38
+00:03:19,941 --> 00:03:25,900
+At the push of a button and a click on a menu screen, Comstat can instantly display a wealth
+
+39
+00:03:25,901 --> 00:03:32,460
+of updated crime information on virtually every block in the city.
+
+40
+00:03:32,461 --> 00:03:36,780
+We believe that these maps and the way we use them in this room through our Comstat system
+
+41
+00:03:36,781 --> 00:03:40,680
+is largely responsible for the decline of crime in New York City.
+
+42
+00:03:40,681 --> 00:03:47,280
+Numerous icons represent all types of recent crime, including skyscrapers for shootings,
+
+43
+00:03:48,640 --> 00:03:54,100
+dots for robberies, and triangles or kites for narcotic deals.
+
+44
+00:03:55,460 --> 00:03:59,100
+The size of the icon represents the number of incidents.
+
+45
+00:04:00,200 --> 00:04:02,800
+Color indicates the shift on which the crime occurred.
+
+46
+00:04:02,801 --> 00:04:07,800
+The icons are also the subject of twice weekly meetings,
+
+47
+00:04:07,801 --> 00:04:11,800
+where the department's 76 precinct commanders are grilled
+
+48
+00:04:11,801 --> 00:04:15,800
+by the city's police commissioners about crime.
+
+49
+00:04:15,801 --> 00:04:17,800
+When you see it on a map, they jump right off the page,
+
+50
+00:04:17,801 --> 00:04:18,800
+they actually speak to you.
+
+51
+00:04:18,801 --> 00:04:22,800
+You see a cluster of shootings in a two, three block area.
+
+52
+00:04:22,801 --> 00:04:24,800
+You know instinctively something's going on.
+
+53
+00:04:24,801 --> 00:04:27,800
+We use this information to question our commanders
+
+54
+00:04:27,801 --> 00:04:29,800
+and find out who's involved.
+
+55
+00:04:29,801 --> 00:04:30,800
+Then we ask the narcotics people.
+
+56
+00:04:30,801 --> 00:04:33,800
+narcotics people, more often than not you find out it's narcotics related.
+
+57
+00:04:33,801 --> 00:04:37,800
+There's a bit of a turf war going on for control of these corners.
+
+58
+00:04:37,801 --> 00:04:40,800
+Somebody got shot as they were trying to take over a corner.
+
+59
+00:04:40,801 --> 00:04:43,800
+The retaliatory shooting is the other one.
+
+60
+00:04:43,801 --> 00:04:49,800
+Besides plotting crime, the Comstat map provides layer after layer of visual data
+
+61
+00:04:49,801 --> 00:04:52,800
+related to those crimes.
+
+62
+00:04:52,801 --> 00:04:58,800
+For instance, Comstat can plot all of New York's banks and automatic teller machines,
+
+63
+00:04:58,801 --> 00:05:03,000
+locations for criminal activity.
+
+64
+00:05:03,001 --> 00:05:08,920
+With a click on a menu screen, Comstat displays another important picture, a link between
+
+65
+00:05:08,921 --> 00:05:13,740
+a rash of burglaries and possible suspects.
+
+66
+00:05:13,741 --> 00:05:17,240
+This is the border of the 67th and 70th precincts.
+
+67
+00:05:17,241 --> 00:05:20,860
+The blue diamonds represent residential burglaries.
+
+68
+00:05:20,861 --> 00:05:25,160
+The green squares that you see surrounding the burglaries are parolees, people on parole
+
+69
+00:05:25,161 --> 00:05:27,360
+from state prison for burglary.
+
+70
+00:05:27,361 --> 00:05:32,400
+The next logical question is, are any of these people here responsible for all these...
+
+71
+00:05:32,401 --> 00:05:36,260
+There's a lot of burglaries happening, right, in this little L-shape here.
+
+72
+00:05:36,860 --> 00:05:38,580
+Is the precinct commander aware of it?
+
+73
+00:05:39,020 --> 00:05:42,460
+Have we matched their prints to any of the latent fingerprints we covered at the scenes?
+
+74
+00:05:43,020 --> 00:05:45,060
+Have we interviewed anybody upon release from prison?
+
+75
+00:05:46,020 --> 00:05:47,720
+These are the obvious questions we ask.
+
+76
+00:05:48,200 --> 00:05:55,160
+Comstat can even display photographs and video of parolees or other suspects in criminal investigations.
+
+77
+00:05:55,161 --> 00:06:01,160
+While the data contained in Comstat's memory banks can be obtained through written reports,
+
+78
+00:06:01,161 --> 00:06:08,160
+it is the power of a map, a mosaic of information broken down by geographical reference points
+
+79
+00:06:08,161 --> 00:06:10,160
+that make it a success.
+
+80
+00:06:14,160 --> 00:06:18,160
+Our precinct commanders will tell you that it's probably the most effective way
+
+81
+00:06:18,161 --> 00:06:20,160
+to know what's going on in their precinct.
+
+82
+00:06:20,161 --> 00:06:25,760
+in their precinct really gives us direction and it gives us focus and that's really what maps
+
+83
+00:06:25,761 --> 00:06:32,880
+are used for maps have been providing direction and focus for thousands perhaps even hundreds of
+
+84
+00:06:32,881 --> 00:06:41,120
+thousands of years even the oldest maps share a commonality with comstat they're an effort
+
+85
+00:06:41,121 --> 00:06:48,640
+to communicate in fact maps are one of the first forms of communication no one knows who made the
+
+86
+00:06:48,641 --> 00:06:59,020
+first map who tried to use a drawing in some way to represent here in relation to there.
+
+87
+00:06:59,021 --> 00:07:05,000
+We don't know that, but we do know that it probably occurred well before people started
+
+88
+00:07:05,001 --> 00:07:06,500
+to write.
+
+89
+00:07:06,501 --> 00:07:13,480
+So when you look back at some of the old maps, you're really looking back into the minds
+
+90
+00:07:13,481 --> 00:07:22,560
+of people at that time, how they conceived the world they lived in, what they knew, what
+
+91
+00:07:22,561 --> 00:07:25,358
+they imagined, what they didn't know.
+
+92
+00:07:25,359 --> 00:07:29,140
+So it's another way of looking into the history of
+
+93
+00:07:29,141 --> 00:07:30,481
+human development.
+
+94
+00:07:30,482 --> 00:07:35,400
+Maps are thought to have emerged throughout the prehistoric world,
+
+95
+00:07:35,940 --> 00:07:40,580
+before people could even perceive of civilizations outside of their own.
+
+96
+00:07:40,581 --> 00:07:46,820
+Maps have been made probably out of any medium you can think of.
+
+97
+00:07:46,821 --> 00:07:52,340
+There are petroglyphs, paintings on rock that are thought to be map-like.
+
+98
+00:07:52,720 --> 00:07:59,520
+There are all sorts of documented stories of indigenous people making maps in sand
+
+99
+00:07:59,521 --> 00:08:05,120
+and piling up dirt to form hills and explaining how to get from place to place like that.
+
+100
+00:08:05,121 --> 00:08:09,120
+Centuries before Europeans explored the Pacific,
+
+101
+00:08:09,121 --> 00:08:14,120
+Marshall Islanders made maps by lashing sticks and seashells together.
+
+102
+00:08:14,121 --> 00:08:18,120
+The sticks represented prevailing winds and wave patterns,
+
+103
+00:08:18,121 --> 00:08:22,120
+while the shells indicated islands.
+
+104
+00:08:22,121 --> 00:08:26,120
+Footprints showed the route from one village to another
+
+105
+00:08:26,121 --> 00:08:32,120
+on pre-Columbian Mexican maps that were drawn on dried tree bark.
+
+106
+00:08:32,121 --> 00:08:37,280
+It is believed that the Babylonians made the first world maps in the 6th century BC,
+
+107
+00:08:38,180 --> 00:08:42,420
+though the Babylonians' view of the world was limited to the ocean shore.
+
+108
+00:08:44,600 --> 00:08:50,580
+Someone took a stick or some sort of writing instrument
+
+109
+00:08:50,581 --> 00:08:56,940
+and etched in the clay the Tigris and Euphrates rivers
+
+110
+00:08:56,941 --> 00:09:02,780
+and in a circular ocean out around there
+
+111
+00:09:02,781 --> 00:09:06,720
+and then bake the clay to preserve it.
+
+112
+00:09:07,000 --> 00:09:07,800
+So that was a map.
+
+113
+00:09:08,720 --> 00:09:10,660
+By the first century A.D.,
+
+114
+00:09:10,661 --> 00:09:14,400
+the Roman Empire stretched across Europe and into Africa.
+
+115
+00:09:15,320 --> 00:09:17,940
+At a time when all roads led to Rome,
+
+116
+00:09:18,640 --> 00:09:20,980
+the Romans were the first to make roadmaps.
+
+117
+00:09:21,840 --> 00:09:25,460
+Romans were obviously vitally interested in roads
+
+118
+00:09:25,461 --> 00:09:28,560
+because they had this huge far-flung empire,
+
+119
+00:09:28,940 --> 00:09:32,260
+and what tied it together were these wonderful roads that they'd built.
+
+120
+00:09:33,040 --> 00:09:35,760
+One of the largest collections of antiquity maps
+
+121
+00:09:35,761 --> 00:09:38,580
+resides at Chicago's Newberry Library.
+
+122
+00:09:39,480 --> 00:09:42,640
+Included in the collection is a 5th century reproduction
+
+123
+00:09:42,641 --> 00:09:46,140
+of a 1st century A.D. Roman road map.
+
+124
+00:09:47,420 --> 00:09:49,440
+Originally printed on animal skins,
+
+125
+00:09:49,441 --> 00:09:52,500
+the map is a 15-foot long scroll.
+
+126
+00:09:52,501 --> 00:10:01,200
+It really shows the whole road network of the empire from Europe all the way to the Near East and all of North Africa
+
+127
+00:10:01,201 --> 00:10:08,840
+as if it were sort of compressed into this long, narrow band, kind of like modern subway maps.
+
+128
+00:10:09,060 --> 00:10:14,640
+And they have the little notches, little jagged lines on the road indicate a day's march.
+
+129
+00:10:15,380 --> 00:10:18,660
+You could calculate how long it would take you to get from place to place.
+
+130
+00:10:18,661 --> 00:10:26,660
+Roman roadmaps spanned the gap between primitive prehistoric maps and those that would be based on scientific principles.
+
+131
+00:10:26,661 --> 00:10:33,660
+Yet, a cultural revolution would suppress scientific map making for hundreds of years.
+
+132
+00:10:36,660 --> 00:10:45,660
+A 1760s English geography game in which wooden maps could be disassembled and put back together gave birth to the jigsaw puzzle.
+
+133
+00:10:45,661 --> 00:10:48,160
+puzzle.
+
+134
+00:10:48,260 --> 00:10:51,260
+I believe that this nation should commit itself
+
+135
+00:10:51,360 --> 00:10:55,300
+to achieving the goal before this decade is out
+
+136
+00:10:55,400 --> 00:10:58,400
+of landing a man on the moon and returning him safely
+
+137
+00:10:58,500 --> 00:10:59,500
+to the Earth.
+
+138
+00:10:59,600 --> 00:11:02,880
+With those historic words, President John F. Kennedy
+
+139
+00:11:02,980 --> 00:11:06,640
+accelerated what would become the world's second great age
+
+140
+00:11:06,740 --> 00:11:07,440
+of discovery.
+
+141
+00:11:09,920 --> 00:11:10,980
+Lift off.
+
+142
+00:11:11,080 --> 00:11:13,720
+We have a lift off.
+
+143
+00:11:13,721 --> 00:11:19,320
+The Apollo missions to the moon were both triumphs of engineering and the human spirit.
+
+144
+00:11:20,460 --> 00:11:24,200
+God bless all of you, all of you on the good Earth.
+
+145
+00:11:24,960 --> 00:11:29,640
+They also culminated in one of the greatest achievements in the history of cartography,
+
+146
+00:11:30,340 --> 00:11:35,200
+the precise mapping of an area where no human being had ever stepped foot.
+
+147
+00:11:36,040 --> 00:11:41,380
+Without an accurate map of the moon's crater-popped and boulder-strewn surface,
+
+148
+00:11:41,381 --> 00:11:44,680
+astronauts Neil Armstrong and Buzz Aldrin
+
+149
+00:11:44,681 --> 00:11:48,080
+could never have safely landed their lunar module.
+
+150
+00:11:48,740 --> 00:11:49,440
+Contact light.
+
+151
+00:11:50,080 --> 00:11:51,000
+Okay, engine stop.
+
+152
+00:11:52,080 --> 00:11:55,400
+Houston, Tranquility Base here.
+
+153
+00:11:55,700 --> 00:11:56,680
+The Eagle has landed.
+
+154
+00:11:57,320 --> 00:12:00,240
+Early maps of the moon had been made from Earth
+
+155
+00:12:00,241 --> 00:12:04,840
+ever since Galileo looked through his primitive telescope in 1610.
+
+156
+00:12:05,840 --> 00:12:09,420
+Of course, the power of telescopes improved exponentially
+
+157
+00:12:09,421 --> 00:12:10,920
+into the 20th century.
+
+158
+00:12:11,380 --> 00:12:18,220
+But finding a safe, smooth surface to land a spacecraft on required a closer look.
+
+159
+00:12:19,960 --> 00:12:24,880
+The effort took five years and involved three different series of spacecraft.
+
+160
+00:12:25,640 --> 00:12:30,660
+But the most important mapping data was obtained by five unmanned lunar orbiters,
+
+161
+00:12:31,180 --> 00:12:34,400
+launched between 1966 and 1968.
+
+162
+00:12:36,620 --> 00:12:40,700
+Each was equipped with two separate 70-millimeter cameras.
+
+163
+00:12:41,380 --> 00:12:45,960
+One camera took wide-angle images to create a mosaic of the moon's surface.
+
+164
+00:12:46,880 --> 00:12:53,560
+The other camera, equipped with a telephoto lens, took high-resolution images of potential landing sites.
+
+165
+00:12:54,760 --> 00:12:58,440
+The five orbiters took a total of nearly 1,500 photographs.
+
+166
+00:12:59,260 --> 00:13:04,580
+They were electronically beamed back to Earth and constructed into a series of maps.
+
+167
+00:13:04,880 --> 00:13:06,900
+Are you coming down the ladder now?
+
+168
+00:13:06,901 --> 00:13:15,980
+Small-scale versions of the maps actually traveled with the astronauts who used them to help navigate landing sites.
+
+169
+00:13:16,860 --> 00:13:24,300
+While the successful lunar landings opened the door to a new range of possibilities for the science of cartography,
+
+170
+00:13:24,800 --> 00:13:28,980
+they also relied on principles that were established centuries earlier.
+
+171
+00:13:28,981 --> 00:13:29,763
+earlier.
+
+172
+00:13:29,764 --> 00:13:38,180
+Between the years 125 and 150, a Greek scholar named Ptolemy became the first to apply
+
+173
+00:13:38,181 --> 00:13:45,778
+science to map making. He recorded his theories in a book titled Geography.
+
+174
+00:13:45,779 --> 00:13:47,500
+He enunciated the
+
+175
+00:13:47,501 --> 00:13:55,680
+scientific principles for cartography, the idea of using mapping to scale, the idea of perspective,
+
+176
+00:13:56,280 --> 00:13:59,480
+The rough idea of coordinates, having grids on maps,
+
+177
+00:13:59,481 --> 00:14:03,100
+all these things that we take for granted in mapping today,
+
+178
+00:14:03,920 --> 00:14:05,340
+Ptolemy enunciated this.
+
+179
+00:14:05,760 --> 00:14:09,980
+Now, he didn't know, and the people at that time didn't have the abilities
+
+180
+00:14:09,981 --> 00:14:13,760
+to put into practice all of these principles,
+
+181
+00:14:14,160 --> 00:14:22,320
+but they were there on paper or on papyrus to lead the world later on.
+
+182
+00:14:22,800 --> 00:14:24,740
+It would have to be much later.
+
+183
+00:14:24,741 --> 00:14:30,120
+All of Ptolemy's contributions to cartography would be lost for centuries.
+
+184
+00:14:30,121 --> 00:14:36,080
+Much of the world's scientific knowledge, including Ptolemy's, was archived at the
+
+185
+00:14:36,081 --> 00:14:42,560
+library in Alexandria, Egypt. In 391, Christian mobs destroyed the building
+
+186
+00:14:42,561 --> 00:14:49,800
+and its contents. As the world entered the Dark Ages, mapmaking was assigned to
+
+187
+00:14:49,801 --> 00:14:56,236
+monks. Suddenly, European maps represented not geography, but theology.
+
+188
+00:14:56,237 --> 00:14:58,140
+The earliest of these
+
+189
+00:14:58,141 --> 00:15:00,343
+new maps were called TO maps.
+
+190
+00:15:00,344 --> 00:15:04,900
+The T symbolized the cross, with the three known continents,
+
+191
+00:15:05,100 --> 00:15:08,964
+Europe, Asia, and Africa, at each station.
+
+192
+00:15:08,965 --> 00:15:12,920
+The O was the circular ocean that the monks
+
+193
+00:15:12,921 --> 00:15:14,860
+believed confined the world.
+
+194
+00:15:16,760 --> 00:15:19,820
+T.O. maps grew to be far more complex and elaborate,
+
+195
+00:15:20,260 --> 00:15:22,440
+but maintained their biblical perspective.
+
+196
+00:15:23,360 --> 00:15:26,220
+This is a replica of a map from the year 1240
+
+197
+00:15:26,221 --> 00:15:28,740
+that was so large it was painted on the wall
+
+198
+00:15:28,741 --> 00:15:30,900
+of a monastery in Edsdorf, Germany.
+
+199
+00:15:31,800 --> 00:15:34,680
+The original was destroyed in World War II.
+
+200
+00:15:35,340 --> 00:15:36,800
+Here's the Mediterranean.
+
+201
+00:15:37,540 --> 00:15:39,380
+If you think of the T.O. map,
+
+202
+00:15:39,500 --> 00:15:42,160
+it's still got the basic T.O. shape,
+
+203
+00:15:42,161 --> 00:15:46,460
+The top, the Mediterranean here, is the stem of the T,
+
+204
+00:15:46,840 --> 00:15:52,480
+and the bar of the T is the Nile River and the Dardanelles and the Black Sea.
+
+205
+00:15:53,720 --> 00:15:56,640
+The head of Christ is at the top of the map,
+
+206
+00:15:57,560 --> 00:16:01,220
+his feet at the bottom and his hands at the sides.
+
+207
+00:16:02,260 --> 00:16:05,620
+He is literally holding the world within his embrace.
+
+208
+00:16:05,621 --> 00:16:11,260
+The holy city of Jerusalem is centered in an area referred to as
+
+209
+00:16:11,261 --> 00:16:15,320
+Umbilicus Mundi, the navel of the earth.
+
+210
+00:16:16,600 --> 00:16:22,720
+Besides the known lands, the map also illustrates the biblical location of the Garden of Eden.
+
+211
+00:16:24,700 --> 00:16:30,440
+This 15th century Teo map, where the continents are named Ham, Shem, and Japheth,
+
+212
+00:16:30,441 --> 00:16:34,380
+for the sons of Noah, was one of the last of its kind.
+
+213
+00:16:35,620 --> 00:16:39,620
+But it's significant for another reason as well.
+
+214
+00:16:39,621 --> 00:16:44,620
+It was the first known map to be produced on the mechanical printing press,
+
+215
+00:16:44,621 --> 00:16:47,620
+a new invention that would liberate map making.
+
+216
+00:16:47,621 --> 00:16:51,620
+Suddenly, maps could be reproduced en masse,
+
+217
+00:16:51,621 --> 00:16:54,620
+rather than being redrawn by hand.
+
+218
+00:16:54,621 --> 00:16:58,620
+At the same time, the world had rediscovered Ptolemy.
+
+219
+00:16:58,621 --> 00:17:02,620
+Prior to the destruction of the Alexandrian Library,
+
+220
+00:17:02,621 --> 00:17:07,620
+copies of Ptolemy's geography were spirited away by Arab Muslims.
+
+221
+00:17:07,621 --> 00:17:12,620
+In the late 1300s, they were uncovered in Constantinople,
+
+222
+00:17:12,621 --> 00:17:15,620
+now Istanbul, Turkey.
+
+223
+00:17:15,621 --> 00:17:19,620
+Thanks to the printing press, 12 centuries after it was written,
+
+224
+00:17:19,621 --> 00:17:24,620
+geography was suddenly enjoying mass distribution.
+
+225
+00:17:24,621 --> 00:17:27,620
+Combined with the liberated thinking of the Renaissance,
+
+226
+00:17:27,621 --> 00:17:31,340
+of the Renaissance, the old world stood poised
+
+227
+00:17:31,341 --> 00:17:34,260
+to discover the new world.
+
+228
+00:17:34,261 --> 00:17:37,700
+Before this Renaissance view, the ocean
+
+229
+00:17:37,701 --> 00:17:44,420
+was considered the circular body that confined the world.
+
+230
+00:17:44,421 --> 00:17:47,180
+Some of the savants in Florence began
+
+231
+00:17:47,181 --> 00:17:53,260
+to hear about the world way out there and read Ptolemy
+
+232
+00:17:53,261 --> 00:18:02,920
+and began to conceive of the oceans being a medium for communications, not for imprisonment.
+
+233
+00:18:03,700 --> 00:18:11,960
+It was a liberating concept, and liberation is what it takes to go forward.
+
+234
+00:18:13,440 --> 00:18:19,840
+Ironically, it was an error of Ptolemy's that in 1492 emboldened Christopher Columbus
+
+235
+00:18:19,841 --> 00:18:23,780
+to cross the Atlantic in search of a short route to Asia.
+
+236
+00:18:25,800 --> 00:18:29,280
+While he understood the spherical nature of the Earth,
+
+237
+00:18:29,920 --> 00:18:33,840
+Ptolemy had drastically underestimated its circumference.
+
+238
+00:18:35,040 --> 00:18:39,940
+This is a reduced facsimile of a manuscript globe
+
+239
+00:18:39,941 --> 00:18:42,520
+that was made in Germany in 1492.
+
+240
+00:18:43,080 --> 00:18:45,580
+It's doubtful that Columbus ever saw this globe,
+
+241
+00:18:45,720 --> 00:18:47,760
+or the original, it's now in Nuremberg,
+
+242
+00:18:47,761 --> 00:18:50,940
+but he certainly may well have seen something like it.
+
+243
+00:18:51,920 --> 00:18:58,380
+Now, because Ptolemy had very badly underestimated the size of the Earth,
+
+244
+00:18:58,381 --> 00:19:00,320
+the diameter of the Earth,
+
+245
+00:19:00,820 --> 00:19:04,500
+and had overestimated the length of the Mediterranean
+
+246
+00:19:04,501 --> 00:19:06,700
+and the whole length of Asia,
+
+247
+00:19:07,260 --> 00:19:13,180
+by the time you mapped a too large continent onto a too small globe,
+
+248
+00:19:13,640 --> 00:19:17,240
+you end up with a very short distance between Spain here
+
+249
+00:19:17,241 --> 00:19:18,800
+and Japan here.
+
+250
+00:19:19,520 --> 00:19:21,820
+And so I think it demonstrates beautifully
+
+251
+00:19:21,821 --> 00:19:25,820
+what Columbus obviously had in mind
+
+252
+00:19:25,821 --> 00:19:27,820
+when he sailed west here from Spain
+
+253
+00:19:27,821 --> 00:19:30,100
+across the Atlantic,
+
+254
+00:19:30,720 --> 00:19:32,080
+and he struck some islands,
+
+255
+00:19:32,520 --> 00:19:34,580
+which he quite naturally assumed
+
+256
+00:19:34,581 --> 00:19:36,080
+were off the mainland of China.
+
+257
+00:19:36,180 --> 00:19:37,460
+He spent the rest of his career,
+
+258
+00:19:37,600 --> 00:19:38,660
+his next three voyages,
+
+259
+00:19:39,180 --> 00:19:40,640
+trying to discover the mainland
+
+260
+00:19:40,641 --> 00:19:42,460
+that he was convinced was there.
+
+261
+00:19:43,100 --> 00:19:44,540
+Thinking it was Asia,
+
+262
+00:19:44,541 --> 00:19:47,480
+Columbus most likely landed in the Bahamas.
+
+263
+00:19:48,420 --> 00:19:51,300
+To add insult to injury, when another explorer,
+
+264
+00:19:51,540 --> 00:19:56,220
+Amerigo Vespucci, first theorized that Columbus had founded a new continent,
+
+265
+00:19:57,180 --> 00:20:00,180
+prominent German mapmaker Martin Waldsmuller
+
+266
+00:20:00,181 --> 00:20:02,660
+named the new land not after Columbus,
+
+267
+00:20:03,320 --> 00:20:05,900
+but America in honor of Vespucci.
+
+268
+00:20:06,600 --> 00:20:07,780
+The name stuck.
+
+269
+00:20:07,781 --> 00:20:18,700
+However, the journeys of Columbus and his contemporaries would lead to a new age of precision mapping
+
+270
+00:20:18,701 --> 00:20:25,780
+and a white lie that would permeate cartography for the next 500 years.
+
+271
+00:20:27,840 --> 00:20:34,240
+The magnetic compass is believed to have been invented by the Chinese as early as the 11th century
+
+272
+00:20:34,241 --> 00:20:37,420
+and introduced to Europe by Marco Polo.
+
+273
+00:20:37,780 --> 00:20:50,440
+The United States Geological Survey in Reston, Virginia,
+
+274
+00:20:50,441 --> 00:20:55,580
+is the most advanced and prolific mapmaking entity that the world has ever seen.
+
+275
+00:20:55,581 --> 00:21:09,040
+The agency runs its own printing plant where every week about 500,000 maps come off the presses.
+
+276
+00:21:14,680 --> 00:21:20,520
+200-pound stacks of maps are positioned with ease as they float on a bed of air
+
+277
+00:21:20,521 --> 00:21:25,140
+before being trimmed to size on an automatic cutting machine.
+
+278
+00:21:25,580 --> 00:21:36,420
+Another machine does what so many of us fail to do.
+
+279
+00:21:36,940 --> 00:21:40,500
+It folds the maps with neat and orderly creases.
+
+280
+00:21:41,400 --> 00:21:44,120
+But there is no machine or technology
+
+281
+00:21:44,121 --> 00:21:48,380
+that can ever change one truth about mapmaking.
+
+282
+00:21:48,381 --> 00:21:53,460
+The map is like every other human form, flawed.
+
+283
+00:21:53,461 --> 00:21:58,460
+You should bear in mind when you look at a map that it is a compromise.
+
+284
+00:21:58,461 --> 00:22:04,460
+If you're going to have a completely reliable and accurate map of reality,
+
+285
+00:22:04,461 --> 00:22:10,460
+it would have to be on a scale of one to one, which of course defeats the purpose.
+
+286
+00:22:10,461 --> 00:22:13,460
+Every map contains a geographical lie,
+
+287
+00:22:13,461 --> 00:22:21,460
+a compromise that comes from trying to project the geography of a round world onto a flat surface.
+
+288
+00:22:21,461 --> 00:22:28,460
+The most common and longest-running white lie in mapmaking is called the Greenland problem.
+
+289
+00:22:28,461 --> 00:22:35,460
+On many world maps, the island of Greenland appears as large as South America.
+
+290
+00:22:35,461 --> 00:22:42,460
+The reason for this dates back to a time shortly after Columbus's journeys to the New World.
+
+291
+00:22:42,461 --> 00:22:50,460
+The European invasion of the Americas created a demand for accurate navigational maps.
+
+292
+00:22:50,461 --> 00:22:55,460
+Yet mapmakers still struggled with precision.
+
+293
+00:22:55,461 --> 00:23:01,460
+They could draw shapes of land masses based on the observations of explorers.
+
+294
+00:23:01,461 --> 00:23:04,460
+But their problem was with projection,
+
+295
+00:23:04,461 --> 00:23:12,460
+an accurate directional representation of a big round world on a small flat piece of paper.
+
+296
+00:23:12,461 --> 00:23:22,060
+In 1569, a Flemish geographer named Gerardus Mercator used mathematics and his own intuition
+
+297
+00:23:22,061 --> 00:23:28,300
+to develop a new projection system, one that would not only serve the pilgrims when they
+
+298
+00:23:28,301 --> 00:23:36,340
+sailed to America 50 years later, but would be one of the most popular projections for the next 500 years.
+
+299
+00:23:36,341 --> 00:23:46,820
+This is one of the first printed editions of Mercator's world map on his new projection.
+
+300
+00:23:47,340 --> 00:23:55,640
+It's still basically the rectangular world map that most of us have seen in many a book on Atlas
+
+301
+00:23:55,641 --> 00:23:58,720
+and probably had hanging up in the walls of our schools.
+
+302
+00:23:59,800 --> 00:24:05,880
+Mercator's projection made it possible for navigators to draw straight lines between two points.
+
+303
+00:24:06,340 --> 00:24:09,680
+and use compass bearings to steer between them.
+
+304
+00:24:11,600 --> 00:24:16,440
+The compromise is that in order to straighten the curving lines of the poles,
+
+305
+00:24:16,441 --> 00:24:20,560
+the upper and lower landmasses of the map are exaggerated.
+
+306
+00:24:22,460 --> 00:24:25,660
+The result is the Greenland problem.
+
+307
+00:24:27,260 --> 00:24:31,820
+The navigational benefits, however, vastly outweigh the distortion.
+
+308
+00:24:31,821 --> 00:24:36,620
+Mercator's projection is still used by navigators today.
+
+309
+00:24:37,620 --> 00:24:41,500
+About a hundred years after Mercator devised his projection,
+
+310
+00:24:42,380 --> 00:24:45,880
+an Italian cartographer named Jean-Dominique Cassini
+
+311
+00:24:45,881 --> 00:24:49,420
+was employed by the King of France to map the nation.
+
+312
+00:24:50,620 --> 00:24:56,440
+It was to be done with a level of scientific accuracy never before achieved.
+
+313
+00:24:56,441 --> 00:25:03,440
+To accomplish this, Cassini devised a system based on geometry.
+
+314
+00:25:03,441 --> 00:25:09,440
+If you know the length of one side and two of the angles of a triangle,
+
+315
+00:25:09,441 --> 00:25:13,440
+you can calculate the length of the other two sides.
+
+316
+00:25:13,441 --> 00:25:20,440
+Thus, taking triangular measurements meant he wouldn't have to travel to every point he mapped.
+
+317
+00:25:20,441 --> 00:25:30,220
+As innovative as his idea was, mapping France was still an extremely complex and time-consuming task.
+
+318
+00:25:30,221 --> 00:25:32,380
+It took a hundred years.
+
+319
+00:25:33,520 --> 00:25:37,540
+Cassini was relieved by his son and his grandson,
+
+320
+00:25:38,000 --> 00:25:44,960
+until finally his great-grandson completed and published the map set in 1745.
+
+321
+00:25:44,961 --> 00:25:47,960
+Tied together by triangles,
+
+322
+00:25:48,000 --> 00:25:53,960
+this map provides the basis for large-scale topographic mapping.
+
+323
+00:25:54,000 --> 00:25:56,980
+So the kings of France,
+
+324
+00:25:57,000 --> 00:26:00,980
+just about the time they lost their kingdom to the revolution,
+
+325
+00:26:01,000 --> 00:26:04,940
+finally had a good map of their kingdom.
+
+326
+00:26:04,980 --> 00:26:08,960
+The French monarchy certainly would not be the first or last
+
+327
+00:26:08,980 --> 00:26:12,960
+to see their maps altered due to revolution or war.
+
+328
+00:26:12,961 --> 00:26:13,661
+war.
+
+329
+00:26:13,662 --> 00:26:22,520
+But thanks to Mercator and Cassini, cartography had a new scientific foundation on which to chart
+
+330
+00:26:22,521 --> 00:26:23,468
+the future.
+
+331
+00:26:23,469 --> 00:26:30,360
+In addition to his map projection, Gerardus Mercator was also the first to refer
+
+332
+00:26:30,361 --> 00:26:36,920
+to a collection of maps as an atlas. Mapmaking will return on Modern Marvel.
+
+333
+00:27:42,960 --> 00:27:50,580
+marvels. America's oldest mapmaker Rand McNally still produces conventional
+
+334
+00:27:50,581 --> 00:27:56,840
+fold-out and book-style road maps from their headquarters in Skokie, Illinois.
+
+335
+00:27:56,841 --> 00:28:05,280
+But now long trips can be planned down to the smallest detail on CD-ROMs. These
+
+336
+00:28:05,281 --> 00:28:10,200
+products make it possible to plan a trip based on a variety of factors including
+
+337
+00:28:10,201 --> 00:28:16,900
+sightseeing possibilities, road construction, and even traffic congestion patterns.
+
+338
+00:28:18,400 --> 00:28:23,820
+William Rand and Andrew McNally could probably have never dreamt of such possibilities when
+
+339
+00:28:23,821 --> 00:28:28,884
+they started a small Chicago printing firm in 1856.
+
+340
+00:28:28,885 --> 00:28:32,160
+Since Chicago was a boom town for
+
+341
+00:28:32,161 --> 00:28:38,600
+the railroad industry, they began printing train tickets five years prior to the Civil War.
+
+342
+00:28:40,200 --> 00:28:45,980
+In 1872, they expanded to printing pocket-sized timetable guides for train lines.
+
+343
+00:28:46,920 --> 00:28:51,780
+It was in these booklets that the first Rand McNally maps appeared.
+
+344
+00:28:52,920 --> 00:28:56,420
+They were fold-out maps of the nation's train routes.
+
+345
+00:28:58,240 --> 00:29:04,340
+They listed every populated city, train station, and mail stop on a state-by-state basis.
+
+346
+00:29:04,341 --> 00:29:12,180
+But in the 1890s, Rand and McNally were capitalizing on another transportation boom, the bicycle.
+
+347
+00:29:13,060 --> 00:29:19,120
+They began printing bike maps which showed the best bicycle paths in cities all over the country.
+
+348
+00:29:20,780 --> 00:29:28,300
+Shortly after, the invention of the automobile heralded a brand new type of map, the photo auto guide.
+
+349
+00:29:28,301 --> 00:29:32,960
+This is one of Rand McNally's photo auto guides, they were called.
+
+350
+00:29:32,961 --> 00:29:38,300
+It was an early 20th century attempt to help the motorists get around.
+
+351
+00:29:39,060 --> 00:29:43,900
+The guides used a series of photographs to show the routes between specific cities.
+
+352
+00:29:44,600 --> 00:29:50,300
+They captured landmarks at key intersections and used arrows to indicate the proper direction.
+
+353
+00:29:51,880 --> 00:30:01,040
+The founder's son, Andrew McNally II, actually photographed the Chicago to Milwaukee route himself while on his honeymoon.
+
+354
+00:30:02,040 --> 00:30:05,760
+Auto photo guides, though, would soon give way to more familiar maps.
+
+355
+00:30:07,080 --> 00:30:11,820
+In 1914, Rand McNally was actually asked to make maps
+
+356
+00:30:11,821 --> 00:30:14,740
+for the first gas stations in Pennsylvania,
+
+357
+00:30:15,120 --> 00:30:17,860
+and this began the entrance of Rand McNally
+
+358
+00:30:17,861 --> 00:30:19,980
+into what became the road map industry.
+
+359
+00:30:20,700 --> 00:30:24,540
+With more American automobile drivers taking to the roads,
+
+360
+00:30:24,541 --> 00:30:28,680
+Rand McNally was soon printing more complex maps and road atlases.
+
+361
+00:30:29,680 --> 00:30:34,780
+One of the biggest obstacles to mapping America's roads was that many of them were unmarked,
+
+362
+00:30:34,980 --> 00:30:37,340
+or only went by local names.
+
+363
+00:30:38,380 --> 00:30:45,680
+A map draftsman, Martin Brink, devised a solution that resulted in Rand McNally's Blaze Trails series of maps.
+
+364
+00:30:47,380 --> 00:30:51,620
+The Blaze Trails map assigned a reference number to each highway.
+
+365
+00:30:51,621 --> 00:30:59,620
+The map contained a key that matched that number to the highway's name and a unique symbol designed by Rand McNally.
+
+366
+00:30:59,621 --> 00:31:06,620
+The company's own employees painted the symbols on roadside utility poles all across the country.
+
+367
+00:31:06,621 --> 00:31:17,620
+Twenty years after the first Blaze Trails maps, Rand McNally would face an overwhelming demand for another kind of map.
+
+368
+00:31:21,620 --> 00:31:26,740
+During World War II, maps were critical to virtually every aspect of battle.
+
+369
+00:31:30,020 --> 00:31:36,420
+General Dwight Eisenhower used a Mercator projection map to plot a landing point on the coast of France
+
+370
+00:31:36,980 --> 00:31:44,020
+for what would be one of the most decisive battles of the 20th century, the 1944 D-Day invasion.
+
+371
+00:31:45,780 --> 00:31:51,140
+Adolf Hitler read a map and wrongly predicted that the attack would come from another flank.
+
+372
+00:31:51,620 --> 00:31:59,060
+But from the very start of the war, Americans back home eager for news relied not only on
+
+373
+00:31:59,061 --> 00:32:02,860
+radio but also on maps.
+
+374
+00:32:02,861 --> 00:32:10,060
+In 1939, within 24 hours of German troops marching into Poland, Rand McNally's supply
+
+375
+00:32:10,061 --> 00:32:13,980
+of European maps was exhausted.
+
+376
+00:32:13,981 --> 00:32:19,420
+The company's printing presses worked around the clock to produce World War II maps.
+
+377
+00:32:19,421 --> 00:32:22,820
+As once independent nations became occupied territories,
+
+378
+00:32:23,300 --> 00:32:26,520
+cartographers would reflect those changes on the maps.
+
+379
+00:32:28,040 --> 00:32:31,560
+Map and globe production would continue 24 hours a day
+
+380
+00:32:31,561 --> 00:32:33,600
+throughout the entire war.
+
+381
+00:32:36,140 --> 00:32:39,300
+There was a great interest in the public's side
+
+382
+00:32:39,301 --> 00:32:43,180
+to know what's where, what's the status of the battles,
+
+383
+00:32:43,181 --> 00:32:46,780
+what's the status of who is in fact now occupying what area.
+
+384
+00:32:46,781 --> 00:32:49,540
+Besides the major theaters of battle,
+
+385
+00:32:49,880 --> 00:32:53,620
+Grand McNally's World War II maps also included special sections.
+
+386
+00:32:54,440 --> 00:32:58,180
+They were devoted to military hardware such as battleships,
+
+387
+00:32:59,120 --> 00:33:03,380
+the types of uniforms worn by the different armies fighting the war,
+
+388
+00:33:03,780 --> 00:33:04,680
+and other features.
+
+389
+00:33:06,920 --> 00:33:10,700
+Maps help families back home feel closer to their loved ones overseas.
+
+390
+00:33:10,701 --> 00:33:22,020
+Some of the same technology that aided the Allied forces in winning the war would forever alter mapmaking.
+
+391
+00:33:23,160 --> 00:33:29,980
+Aerial photography was used as early as the Civil War, when pictures were taken out of hot air balloons for reconnaissance.
+
+392
+00:33:31,060 --> 00:33:36,280
+Wilbur Wright himself took the first aerial photograph from an airplane in 1909.
+
+393
+00:33:36,281 --> 00:33:41,520
+though it wasn't until World War II that both the aircraft and cameras were
+
+394
+00:33:41,521 --> 00:33:46,420
+sophisticated enough to actually make maps from the images.
+
+395
+00:33:46,421 --> 00:33:51,700
+So that was another major revolution. You no longer had to go out and measure
+
+396
+00:33:51,701 --> 00:33:55,060
+everything on the ground. You could start measuring things in
+
+397
+00:33:55,061 --> 00:34:00,380
+aerial photographs. The British invention of radar was one of the most important
+
+398
+00:34:00,381 --> 00:34:05,560
+technological advances to emerge from the war. Without the ability to detect
+
+399
+00:34:05,561 --> 00:34:09,020
+Hitler's powerful air and naval forces from miles away.
+
+400
+00:34:09,800 --> 00:34:12,560
+The outcome of the war could have been much different.
+
+401
+00:34:14,180 --> 00:34:19,360
+In the post-war period, radar was this emerging technology,
+
+402
+00:34:20,320 --> 00:34:27,100
+and soon people in aviation and in the military and in cartography
+
+403
+00:34:27,101 --> 00:34:33,100
+began to realize that here was something that enabled you to do something
+
+404
+00:34:33,101 --> 00:34:37,940
+that hadn't been done before, which is to map the unseen.
+
+405
+00:34:40,300 --> 00:34:43,700
+Following the war, cartographers from the U.S. military
+
+406
+00:34:43,701 --> 00:34:48,100
+and Latin American nations embarked on a major mapping expedition
+
+407
+00:34:48,101 --> 00:34:50,400
+made possible only by radar.
+
+408
+00:34:51,760 --> 00:34:56,260
+Most of Central and South America's vast forest and mountain ranges
+
+409
+00:34:56,261 --> 00:35:00,520
+had never been measured by even the most fundamental surveying tools.
+
+410
+00:35:00,521 --> 00:35:08,220
+But now, ground crews could bounce radar signals off faraway objects and measure the distance
+
+411
+00:35:08,221 --> 00:35:10,960
+of the signal's rebound.
+
+412
+00:35:10,961 --> 00:35:11,798
+Teams of U.S.
+
+413
+00:35:11,799 --> 00:35:16,760
+and Latin American cartographers interviewed forest-dwelling natives to learn
+
+414
+00:35:16,761 --> 00:35:24,420
+the names of rarely seen and never before mapped geographical areas.
+
+415
+00:35:24,421 --> 00:35:30,740
+While early radar technology made it possible to map these remote sections of the Earth,
+
+416
+00:35:30,741 --> 00:35:37,660
+50 years later, radar would advance to mapping other worlds.
+
+417
+00:35:37,661 --> 00:35:44,660
+A misconception that California was an island was first printed on a map in 1627.
+
+418
+00:35:44,661 --> 00:35:51,180
+Despite contrary evidence, most map publishers did not correct the mistake until 1784.
+
+419
+00:35:54,420 --> 00:35:58,000
+This is a simulated flyover of Venus.
+
+420
+00:35:59,280 --> 00:36:02,680
+It's also an accurate topographical map.
+
+421
+00:36:03,640 --> 00:36:11,800
+It was created by combining computer graphics with a radar imaging device on board the NASA space probe Magellan.
+
+422
+00:36:12,900 --> 00:36:18,360
+Venus is Earth's closest neighbor and is similar in size and distance from the Sun.
+
+423
+00:36:18,820 --> 00:36:22,340
+But it is shrouded by dense, gaseous clouds.
+
+424
+00:36:22,341 --> 00:36:27,340
+The planet's surface is penetrable only by radar.
+
+425
+00:36:27,341 --> 00:36:32,340
+Magellan began its orbit around Venus in May of 1990.
+
+426
+00:36:32,341 --> 00:36:37,340
+In thousands of radar bursts that last less than a second,
+
+427
+00:36:37,341 --> 00:36:43,340
+Magellan acquired enough information to make detailed images of the Venusian surface.
+
+428
+00:36:43,341 --> 00:36:48,340
+It transferred the data to NASA's Deep Space Network dishes,
+
+429
+00:36:48,341 --> 00:36:54,760
+which then transmitted it to the Jet Propulsion Laboratory in Pasadena, California.
+
+430
+00:36:56,180 --> 00:37:02,660
+There, 15-foot-long image strips were combined with computer graphics to create the flyover.
+
+431
+00:37:05,440 --> 00:37:08,460
+Magellan has revealed the presence of enormous volcanoes,
+
+432
+00:37:09,000 --> 00:37:12,180
+about 30 times more than the number found on Earth.
+
+433
+00:37:12,181 --> 00:37:19,180
+And then there is Artemis, a 4,000-mile-long lava channel.
+
+434
+00:37:19,181 --> 00:37:24,180
+Scientists can use this mapping data to learn more about the formation of Venus.
+
+435
+00:37:24,181 --> 00:37:28,180
+And in the process of getting to know our neighbor,
+
+436
+00:37:28,181 --> 00:37:31,180
+they might learn more about the Earth's formation.
+
+437
+00:37:31,181 --> 00:37:37,180
+But back on Earth, maps are being used for more pressing matters.
+
+438
+00:37:37,181 --> 00:37:41,780
+When a disaster strikes, the first response is to aid the victims.
+
+439
+00:37:43,120 --> 00:37:47,720
+A secondary response is to find ways to mitigate future damage.
+
+440
+00:37:48,660 --> 00:37:51,960
+Maps are absolutely necessary to do that,
+
+441
+00:37:52,060 --> 00:37:58,000
+because what needs to be done, you need to have first a base of where all the populations are now,
+
+442
+00:37:58,140 --> 00:38:02,920
+where the infrastructure is now, where the roads, where the telecommunications networks are now.
+
+443
+00:38:03,600 --> 00:38:07,460
+Then you also have to know where the places are most at risk.
+
+444
+00:38:07,461 --> 00:38:11,860
+Once those are done, you can identify the overlaps, where people are at risk.
+
+445
+00:38:12,600 --> 00:38:15,520
+This is where disasters are mapped.
+
+446
+00:38:16,240 --> 00:38:20,620
+The Center for Integration of Natural Disaster Information, or CINDY.
+
+447
+00:38:21,140 --> 00:38:26,120
+It's located in the Reston, Virginia headquarters of the U.S. Geological Survey.
+
+448
+00:38:26,121 --> 00:38:32,520
+Cindy was on full alert in 1993 when record rainfalls inundated 31 U.S.
+
+449
+00:38:32,521 --> 00:38:38,740
+states and three Canadian provinces along the Mississippi floodplain.
+
+450
+00:38:39,700 --> 00:38:42,220
+Damage was in the billions of dollars.
+
+451
+00:38:43,180 --> 00:38:46,600
+500 counties were declared disaster areas.
+
+452
+00:38:48,060 --> 00:38:52,460
+Maps were needed not only to aid rescue crews, but to plan for the future.
+
+453
+00:38:52,461 --> 00:38:59,460
+USGS aerial photography teams took to the sky to begin mapping the damage.
+
+454
+00:38:59,461 --> 00:39:06,460
+That aerial photography has been used for identifying places where bridges have been washed out,
+
+455
+00:39:06,461 --> 00:39:11,460
+places where communities have been isolated, places where rivers have changed course,
+
+456
+00:39:11,461 --> 00:39:15,460
+and doing damage assessments like that.
+
+457
+00:39:15,461 --> 00:39:21,460
+In addition, satellite imagery was obtained for a wider view of the damage.
+
+458
+00:39:21,461 --> 00:39:26,960
+When combined with the aerial photography and other data at the Cindy Lab,
+
+459
+00:39:26,961 --> 00:39:32,460
+cartographers create computer-generated maps that tell a story.
+
+460
+00:39:32,461 --> 00:39:38,460
+They portray the Mississippi floodplain prior to the 93 storms.
+
+461
+00:39:38,461 --> 00:39:42,460
+They show the dramatic swelling of the floodplains
+
+462
+00:39:42,461 --> 00:39:47,460
+and finally the severe erosion that was caused as the water receded.
+
+463
+00:39:47,461 --> 00:39:56,460
+These maps will not only assist in restoring the floodplain, but also in the future planning of cities and homes.
+
+464
+00:39:56,461 --> 00:40:01,460
+These mapping techniques are not only employed during disasters.
+
+465
+00:40:01,461 --> 00:40:08,460
+The USGS is constantly updating maps to reflect geographical change.
+
+466
+00:40:08,461 --> 00:40:15,460
+New strips of aerial photography taken from all over the nation are constantly being analyzed
+
+467
+00:40:15,461 --> 00:40:20,460
+for quality by USGS cartographers.
+
+468
+00:40:20,461 --> 00:40:27,460
+Next, they're optically corrected for any distortion caused by the landscape, light refraction,
+
+469
+00:40:27,461 --> 00:40:29,460
+or the camera lens.
+
+470
+00:40:29,461 --> 00:40:34,460
+The result is a digital orthophoto quadrangle, or DOQ.
+
+471
+00:40:34,461 --> 00:40:38,460
+It is a measurably correct photo map.
+
+472
+00:40:38,461 --> 00:40:42,460
+The DOQ is layered over a digital raster graphic,
+
+473
+00:40:42,461 --> 00:40:46,460
+a computer-scanned image of an older map.
+
+474
+00:40:46,461 --> 00:40:50,460
+Cartographers can alter the lines on the digital raster graphic
+
+475
+00:40:50,461 --> 00:40:54,460
+to match geographical changes seen on the DOQ.
+
+476
+00:40:58,460 --> 00:41:02,460
+The older map will then be reprinted with the corrections intact.
+
+477
+00:41:04,460 --> 00:41:11,460
+Now, newer technologies are changing the entire concept of what a map can be.
+
+478
+00:41:11,461 --> 00:41:18,460
+The folded or misfolded maps that for decades have been stored in glove compartments
+
+479
+00:41:18,461 --> 00:41:25,460
+are giving way to satellite-powered guidance systems installed in automobiles.
+
+480
+00:41:25,461 --> 00:41:33,460
+More than just a map, it's a sort of co-piloting navigator.
+
+481
+00:41:33,461 --> 00:41:39,160
+navigator. When a desired address is entered, the system displays a roadmap.
+
+482
+00:41:40,940 --> 00:41:43,322
+Please proceed to the highlighted route.
+
+483
+00:41:43,323 --> 00:41:46,180
+It shows the current position of the automobile,
+
+484
+00:41:46,181 --> 00:41:51,100
+the streets immediately surrounding it, and the direction to proceed toward.
+
+485
+00:41:52,560 --> 00:41:58,500
+Once the car is moving, the display changes to easy-to-see directional arrows,
+
+486
+00:41:58,501 --> 00:42:07,340
+while a voice prompt alerts the driver to upcoming turns.
+
+487
+00:42:08,400 --> 00:42:12,940
+The system can also provide a real-time map of the car's route.
+
+488
+00:42:13,740 --> 00:42:18,460
+The actual position of the automobile is indicated by a traveling green triangle.
+
+489
+00:42:20,560 --> 00:42:27,640
+Some products, like the Magellan Navigator, even provide directories to points of interest, such as restaurants.
+
+490
+00:42:28,500 --> 00:42:35,500
+Select a location category and the system will display nearby possibilities
+
+491
+00:42:35,501 --> 00:42:39,500
+and then guide you to your choice.
+
+492
+00:42:39,501 --> 00:42:45,500
+All of this is made possible by 24 orbiting satellites
+
+493
+00:42:45,501 --> 00:42:50,500
+that comprise the Global Positioning System, or GPS.
+
+494
+00:42:50,501 --> 00:42:55,500
+The Global Positioning System was a concept developed by the Defense Department
+
+495
+00:42:55,501 --> 00:43:01,500
+to enable them to better locate their assets during battle.
+
+496
+00:43:01,501 --> 00:43:04,000
+That is, they wanted to be able to precisely locate
+
+497
+00:43:04,001 --> 00:43:07,040
+where American troops' facilities and assets were,
+
+498
+00:43:07,220 --> 00:43:10,420
+and also know where enemy troops' facility assets were.
+
+499
+00:43:13,820 --> 00:43:15,980
+Developed in the 1970s,
+
+500
+00:43:16,300 --> 00:43:20,300
+the effectiveness of GPS was most dramatically displayed
+
+501
+00:43:20,301 --> 00:43:23,260
+in the 1991 Gulf War.
+
+502
+00:43:25,500 --> 00:43:34,500
+Fighter pilots use GPS to both locate targets and guide their missiles under the secure
+
+503
+00:43:34,501 --> 00:43:37,960
+cover of darkness.
+
+504
+00:43:37,961 --> 00:43:42,680
+Commanders on the other side of the world could pinpoint the location of every soldier,
+
+505
+00:43:42,681 --> 00:43:51,040
+tank and other military vehicles to within 15 feet.
+
+506
+00:43:51,041 --> 00:43:56,040
+The satellites that power GPS are a high-tech variation of triangulation,
+
+507
+00:43:57,240 --> 00:44:00,740
+the method used to map France three centuries earlier.
+
+508
+00:44:03,140 --> 00:44:06,840
+The 24 GPS satellites are constantly orbiting the Earth.
+
+509
+00:44:07,440 --> 00:44:10,740
+Each one emanates a timing signal to a specific zone,
+
+510
+00:44:11,640 --> 00:44:14,040
+effectively covering the entire planet.
+
+511
+00:44:15,240 --> 00:44:19,840
+Atomic clocks time exactly how long the signal takes to travel to the Earth
+
+512
+00:44:19,841 --> 00:44:22,520
+and rebound back to the satellite.
+
+513
+00:44:24,400 --> 00:44:28,140
+When a ground receiver such as one installed in an automobile
+
+514
+00:44:28,141 --> 00:44:30,280
+detects at least three of these signals,
+
+515
+00:44:30,800 --> 00:44:34,820
+it can analyze their frequency and determine an exact location
+
+516
+00:44:34,821 --> 00:44:36,060
+based on latitude,
+
+517
+00:44:38,160 --> 00:44:38,860
+longitude,
+
+518
+00:44:39,660 --> 00:44:41,780
+and altitude.
+
+519
+00:44:43,600 --> 00:44:47,080
+Since the computers and GPS receivers are programmed
+
+520
+00:44:47,081 --> 00:44:50,400
+with corresponding points of specific blocks on Earth.
+
+521
+00:44:51,560 --> 00:44:56,320
+They can provide the digital directions from one point to another.
+
+522
+00:44:58,340 --> 00:45:02,560
+Other mapping applications of GPS can save lives.
+
+523
+00:45:03,860 --> 00:45:08,000
+Emergency response teams use GPS to immediately calculate
+
+524
+00:45:08,001 --> 00:45:11,160
+the quickest route to any disaster location.
+
+525
+00:45:11,161 --> 00:45:20,320
+Meanwhile, GPS provides dispatchers with picture-perfect knowledge of where all their emergency vehicles
+
+526
+00:45:20,321 --> 00:45:23,500
+are located with real-time accuracy.
+
+527
+00:45:26,240 --> 00:45:34,120
+The maps of today are no longer merely the drawings and ideas of one or two people who
+
+528
+00:45:34,121 --> 00:45:35,740
+have gone out and explored an area.
+
+529
+00:45:35,741 --> 00:45:44,240
+They are now the culmination of 1,000 years or 2,000 years of technology that has measured the Earth,
+
+530
+00:45:44,760 --> 00:45:49,320
+has gathered information about the people on the Earth, the places on the Earth,
+
+531
+00:45:49,460 --> 00:45:53,440
+and is continuing to gather information about the people and places on the Earth
+
+532
+00:45:53,441 --> 00:45:58,800
+using everything from aerial photography to satellite means and people still going out
+
+533
+00:45:58,801 --> 00:46:03,160
+and using the most traditional, the most classic methods of gathering that information.
+
+534
+00:46:03,161 --> 00:46:06,500
+We haven't lost using any of the technologies.
+
+535
+00:46:06,760 --> 00:46:09,260
+We've just added to all of those technologies.
+

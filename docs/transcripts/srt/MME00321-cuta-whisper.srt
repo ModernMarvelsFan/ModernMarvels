@@ -1,0 +1,2304 @@
+1
+00:00:00,001 --> 00:00:06,420
+The seven-member crew of America's 113th Space Shuttle mission
+
+2
+00:00:06,421 --> 00:00:10,820
+exit the crew quarters on the third floor of the Operations and Checkout Building
+
+3
+00:00:10,821 --> 00:00:12,880
+at Kennedy Space Center in Florida.
+
+4
+00:00:15,380 --> 00:00:18,320
+They take their traditional walk to the transporter van
+
+5
+00:00:18,321 --> 00:00:20,360
+that will carry them to the launch pad.
+
+6
+00:00:21,460 --> 00:00:25,040
+We have booster ignition and liftoff of Space Shuttle Columbia
+
+7
+00:00:25,041 --> 00:00:29,200
+with a multitude of national and international space research experiments.
+
+8
+00:00:30,860 --> 00:00:35,440
+They lift off aboard America's first space shuttle, the 22-year-old Columbia.
+
+9
+00:00:36,880 --> 00:00:41,160
+The astronauts spend the next 16 days in orbit conducting dozens of experiments
+
+10
+00:00:41,161 --> 00:00:43,140
+dedicated to improving life on Earth.
+
+11
+00:00:44,640 --> 00:00:49,840
+Finally, each one makes their preparations to reenter the Earth's atmosphere and return home.
+
+12
+00:00:50,920 --> 00:00:53,840
+This is amazing. It's really getting really bright out there.
+
+13
+00:00:54,660 --> 00:00:55,360
+Yep.
+
+14
+00:00:55,700 --> 00:00:57,780
+Yeah, you definitely don't want to be outside now.
+
+15
+00:00:57,781 --> 00:00:59,980
+Looks like a black race.
+
+16
+00:01:01,620 --> 00:01:05,380
+Only minutes from landing, with friends and families waiting to greet them,
+
+17
+00:01:06,140 --> 00:01:07,320
+disaster strikes.
+
+18
+00:01:08,880 --> 00:01:10,240
+My fellow Americans,
+
+19
+00:01:10,800 --> 00:01:13,340
+this day has brought terrible news
+
+20
+00:01:13,341 --> 00:01:16,280
+and great sadness to our country.
+
+21
+00:01:17,800 --> 00:01:19,160
+At 9 o'clock this morning,
+
+22
+00:01:20,240 --> 00:01:21,480
+Mission Control in Houston
+
+23
+00:01:21,481 --> 00:01:24,860
+lost contact with our space shuttle Columbia.
+
+24
+00:01:24,861 --> 00:01:31,320
+A short time later, debris was seen falling from the skies above Texas.
+
+25
+00:01:33,040 --> 00:01:34,100
+The Columbia's lost.
+
+26
+00:01:38,140 --> 00:01:44,640
+Having flown in the Columbia, the most difficult emotional part of that for me
+
+27
+00:01:44,641 --> 00:01:48,340
+was looking at my family, my wife and my children,
+
+28
+00:01:48,600 --> 00:01:52,060
+and their emotional response to that loss.
+
+29
+00:01:52,061 --> 00:01:58,760
+and then transferring that feeling to how terrible it must be for the families
+
+30
+00:01:58,761 --> 00:02:00,320
+of the people that were on board the shuttle.
+
+31
+00:02:01,060 --> 00:02:04,240
+You have a spectacular team that's still in what they can do,
+
+32
+00:02:05,040 --> 00:02:07,880
+but they're trying to manage a vehicle which cannot be made safe.
+
+33
+00:02:08,800 --> 00:02:12,100
+It's a fantastically dangerous and vulnerable and critical machine.
+
+34
+00:02:13,100 --> 00:02:17,380
+With the loss of Columbia, the world is reminded that a successful mission
+
+35
+00:02:17,381 --> 00:02:21,400
+depends on the performance of millions of parts, systems, and people.
+
+36
+00:02:22,060 --> 00:02:28,960
+With two exceptions, all of America's shuttle missions have met those unwavering conditions,
+
+37
+00:02:29,640 --> 00:02:31,960
+and Columbia blazed the trail.
+
+38
+00:02:33,720 --> 00:02:39,980
+Soon after NASA was formed in 1958, it began testing precursors to today's space shuttle.
+
+39
+00:02:41,880 --> 00:02:46,580
+What has motivated people who are interested in spaceflight from the very beginning
+
+40
+00:02:46,581 --> 00:02:49,760
+is the ability to take off like an airplane,
+
+41
+00:02:50,460 --> 00:02:53,560
+fly into hypersonic and orbital velocities,
+
+42
+00:02:53,920 --> 00:02:57,420
+go up into orbit, fly in orbit, and come back and land like an airplane.
+
+43
+00:02:57,520 --> 00:02:59,340
+That's what everybody wants, and to do that repeatedly,
+
+44
+00:02:59,540 --> 00:03:01,360
+just like we do in airliners today.
+
+45
+00:03:02,680 --> 00:03:06,020
+But by 1961, with the space race accelerating,
+
+46
+00:03:06,580 --> 00:03:09,080
+President John Kennedy had a more immediate goal.
+
+47
+00:03:09,081 --> 00:03:13,280
+Of landing a man on the moon and returning him safely to the Earth.
+
+48
+00:03:13,281 --> 00:03:20,140
+beating the Russians to the moon meant using more readily available, single-use only rockets and spacecraft.
+
+49
+00:03:22,480 --> 00:03:28,460
+But seven years later, NASA's budgets were being cut, due in part to the Vietnam War.
+
+50
+00:03:29,980 --> 00:03:34,280
+Its future would depend on finding a more economical means of exploring space.
+
+51
+00:03:34,281 --> 00:03:43,400
+So by the summer of 1969, as Neil Armstrong and Buzz Aldrin became the first human beings to explore the moon,
+
+52
+00:03:44,100 --> 00:03:48,060
+plans for a reusable space vehicle had been revived.
+
+53
+00:03:49,800 --> 00:03:57,960
+The concept that NASA really championed was essentially two fully reusable vehicles.
+
+54
+00:03:58,960 --> 00:04:05,000
+As this early NASA animation illustrates, the idea was to mate a pair of winged manned spacecraft.
+
+55
+00:04:06,380 --> 00:04:11,300
+The larger, more powerful vehicle would boost the other to near-orbital velocities,
+
+56
+00:04:11,800 --> 00:04:16,420
+then separate and return to a conventional runway landing back on Earth.
+
+57
+00:04:17,560 --> 00:04:21,200
+The smaller vehicle would then fire its own engines to reach orbit.
+
+58
+00:04:22,380 --> 00:04:24,620
+The problem with that, it was exceptionally expensive.
+
+59
+00:04:24,621 --> 00:04:28,020
+And the budget constraints said that's not going to really be possible
+
+60
+00:04:28,021 --> 00:04:32,160
+because you would have to develop two full reusable spacecraft.
+
+61
+00:04:33,240 --> 00:04:38,060
+But as plans continued to develop, America was growing more entrenched in Vietnam
+
+62
+00:04:38,061 --> 00:04:41,300
+and struggling with racial and economic tensions.
+
+63
+00:04:42,460 --> 00:04:47,880
+Many voters and politicians alike believed the space program should be abandoned altogether
+
+64
+00:04:47,881 --> 00:04:50,620
+in favor of solving problems at home.
+
+65
+00:04:50,621 --> 00:04:56,920
+Some of President Richard Nixon's closest advisors, however, convinced him the shuttle must be built.
+
+66
+00:04:58,420 --> 00:05:03,880
+John Ehrlichman talked about how he had a conversation with Nixon one day in which he says,
+
+67
+00:05:03,940 --> 00:05:08,180
+you know, with this reusable vehicle that can go up into orbit and then return,
+
+68
+00:05:09,120 --> 00:05:15,160
+we can go up and capture Soviet satellites and bring them back.
+
+69
+00:05:16,040 --> 00:05:19,660
+And Nixon thought that was very cool and wanted to do that.
+
+70
+00:05:19,661 --> 00:05:23,800
+Now, the shuttle's never been used for that purpose, but that was a selling point.
+
+71
+00:05:24,820 --> 00:05:27,420
+Nixon would hear one other compelling argument as well.
+
+72
+00:05:28,420 --> 00:05:35,540
+Casper Weinberger, who was at that point in time the second person at the Office of Management and Budget in the White House,
+
+73
+00:05:35,541 --> 00:05:47,180
+made the case in the summer of 1971 that we really needed to approve this new vehicle that NASA was championing, this space shuttle,
+
+74
+00:05:47,181 --> 00:05:53,680
+because we needed to show that our best days are not behind us,
+
+75
+00:05:53,800 --> 00:05:57,140
+that we could do something that is for the benefit of all humanity.
+
+76
+00:05:58,080 --> 00:06:02,700
+And he sent a memo into the president in which he made this case,
+
+77
+00:06:03,200 --> 00:06:05,940
+and Nixon wrote across the top of it,
+
+78
+00:06:06,040 --> 00:06:07,120
+I agree with Cap.
+
+79
+00:06:07,500 --> 00:06:09,700
+It's time to do something about this.
+
+80
+00:06:10,180 --> 00:06:12,700
+On April 21, 1972,
+
+81
+00:06:13,620 --> 00:06:19,320
+Apollo 16 commander John Young was exploring the moon on NASA's next-to-last lunar landing
+
+82
+00:06:19,321 --> 00:06:22,880
+when mission control transmitted big news from Earth.
+
+83
+00:06:24,440 --> 00:06:31,000
+The outcast space budget gets to 277 to 60, which includes a vote for the shuttle.
+
+84
+00:06:31,240 --> 00:06:32,660
+I don't want to do that.
+
+85
+00:06:32,780 --> 00:06:36,020
+I don't think he needs that shuttle. My bad. You'll see.
+
+86
+00:06:37,800 --> 00:06:40,520
+Congress had just approved funding for the space shuttle.
+
+87
+00:06:40,521 --> 00:06:45,080
+Young was jubilant, though he couldn't possibly know that nine years later
+
+88
+00:06:45,081 --> 00:06:48,340
+he'd serve as commander of the shuttle's maiden space voyage
+
+89
+00:06:48,341 --> 00:06:51,580
+But before that day came
+
+90
+00:06:51,581 --> 00:06:54,720
+the technological challenges of building the shuttle
+
+91
+00:06:54,721 --> 00:06:57,020
+would nearly ground it forever
+
+92
+00:06:57,021 --> 00:07:01,720
+If the shuttle's three main engines pumped water instead of fuel
+
+93
+00:07:01,721 --> 00:07:06,040
+they would drain an average-sized swimming pool every 25 seconds
+
+94
+00:07:06,041 --> 00:07:11,040
+Space Shuttle Columbia will return on Modern Marvels.
+
+95
+00:07:14,720 --> 00:07:17,500
+When today's astronauts climb aboard the space shuttle,
+
+96
+00:07:18,140 --> 00:07:22,040
+they enter a vehicle designed very much like the one Congress approved back in 1972.
+
+97
+00:07:24,260 --> 00:07:26,540
+The crew lives and works in the orbiter.
+
+98
+00:07:27,500 --> 00:07:30,100
+A combination rocket, spacecraft, and airplane,
+
+99
+00:07:30,600 --> 00:07:34,340
+it is 122 feet long and has a 78-foot wingspan.
+
+100
+00:07:34,341 --> 00:07:45,421
+The shuttle's three main engines, located at the rear of the orbiter, are fueled by a million and a half pounds of liquid hydrogen and liquid oxygen, stored in the
+
+101
+00:07:45,422 --> 00:07:47,800
+154-foot-tall orange external tank.
+
+102
+00:07:49,300 --> 00:07:56,640
+When the three main engines ignite, it sort of jolts you around a little bit, kind of like riding a 10-speed down a gravel road or something like that.
+
+103
+00:07:56,641 --> 00:08:04,560
+A pair of 149-foot-long solid rocket boosters ignite, along with the main engines at liftoff.
+
+104
+00:08:05,840 --> 00:08:12,620
+The two boosters produce 44 million horsepower, the equivalent of nearly 15,000 locomotives.
+
+105
+00:08:13,400 --> 00:08:17,100
+When the solids ignite, it's kind of like riding a dirt bike down a railroad track.
+
+106
+00:08:17,160 --> 00:08:18,380
+It gives you a pretty good shake.
+
+107
+00:08:19,780 --> 00:08:24,520
+Just over two minutes after liftoff, with the shuttle flying at 3,200 miles per hour,
+
+108
+00:08:25,140 --> 00:08:27,960
+the boosters burn out and are jettisoned from the vehicle.
+
+109
+00:08:29,460 --> 00:08:32,560
+There's a small jolt as they are separated from the shuttle,
+
+110
+00:08:33,060 --> 00:08:34,920
+and then they fall back in the ocean.
+
+111
+00:08:36,220 --> 00:08:40,860
+The boosters are recovered, towed back to shore, and refurbished to fly again.
+
+112
+00:08:42,560 --> 00:08:46,760
+52 miles above the Earth, the shuttle's main engine shut down
+
+113
+00:08:46,761 --> 00:08:49,080
+as the external tank runs out of propellant.
+
+114
+00:08:49,900 --> 00:08:52,060
+The tank then separates from the orbiter
+
+115
+00:08:52,061 --> 00:08:55,880
+and breaks up as it falls back through the intense heat of the Earth's atmosphere.
+
+116
+00:08:56,920 --> 00:08:59,180
+It is the only expendable part of the shuttle.
+
+117
+00:09:00,920 --> 00:09:05,920
+The pilot then activates a set of smaller, liquid-fueled maneuvering engines to reach orbit.
+
+118
+00:09:07,320 --> 00:09:13,620
+Eight minutes after liftoff, the orbiter is circling the Earth at 17,500 miles per hour.
+
+119
+00:09:16,220 --> 00:09:20,680
+Returning home, it endures temperatures up to 2,900 degrees Fahrenheit
+
+120
+00:09:20,681 --> 00:09:22,760
+as it re-enters the Earth's atmosphere.
+
+121
+00:09:24,860 --> 00:09:28,940
+The orbiter must then glide, completely unpowered by engines,
+
+122
+00:09:29,380 --> 00:09:33,440
+from halfway around the world to touch down on a specific runway.
+
+123
+00:09:35,080 --> 00:09:37,860
+Such performance is still spectacular by today's standards.
+
+124
+00:09:38,620 --> 00:09:42,760
+But the space shuttle was designed and built in the early 1970s,
+
+125
+00:09:43,160 --> 00:09:46,200
+years before Americans enjoyed personal computers,
+
+126
+00:09:46,201 --> 00:09:50,180
+digital display clocks, or even telephone answering machines.
+
+127
+00:09:50,680 --> 00:09:56,020
+Building the shuttle was just as complicated as going to the moon in many respects.
+
+128
+00:09:56,400 --> 00:09:58,700
+It required technologies that didn't exist.
+
+129
+00:09:59,240 --> 00:10:03,300
+In some cases, NASA engineers didn't quite know how to get to those technologies.
+
+130
+00:10:03,420 --> 00:10:07,040
+They could kind of roughly define what they needed, but they weren't sure how to get there.
+
+131
+00:10:08,800 --> 00:10:13,100
+Developing those technologies would involve the contributions of over 50,000 Americans,
+
+132
+00:10:13,680 --> 00:10:17,460
+working for hundreds of contractors in 47 different states.
+
+133
+00:10:17,461 --> 00:10:24,920
+The solid rocket boosters were assembled, loaded with propellants, and tested by the
+
+134
+00:10:24,921 --> 00:10:26,840
+Fiacol Company in Brigham City, Utah.
+
+135
+00:10:29,300 --> 00:10:34,880
+They're made from weld-free, high-strength steel in a process called rolled ring forging.
+
+136
+00:10:36,280 --> 00:10:41,460
+Each booster contains 11 segments that are joined together using high-strength steel pins.
+
+137
+00:10:41,461 --> 00:10:48,000
+In New Orleans, Martin Marietta was at work on the huge external tank.
+
+138
+00:10:49,320 --> 00:10:54,080
+Since the temperature of liquid hydrogen is 423 degrees below zero,
+
+139
+00:10:54,800 --> 00:10:57,360
+the tank would be encased in spray-on insulation.
+
+140
+00:10:58,740 --> 00:11:03,840
+This would prevent ice from accumulating on its surface in the humidity of its Florida launch site.
+
+141
+00:11:05,940 --> 00:11:09,680
+The most complex job went to Rockwell International in Southern California.
+
+142
+00:11:09,681 --> 00:11:13,860
+Rockwell would design and assemble the orbiter itself.
+
+143
+00:11:15,800 --> 00:11:19,000
+Its Rocketdyne division was responsible for the shuttle's main engines.
+
+144
+00:11:21,000 --> 00:11:24,900
+In all, the shuttle would consist of 2.5 million parts,
+
+145
+00:11:25,540 --> 00:11:28,200
+including more than 1,000 plumbing valves and connections,
+
+146
+00:11:28,960 --> 00:11:32,980
+1,400 circuit breakers, and 230 miles of wire.
+
+147
+00:11:33,980 --> 00:11:37,680
+I remember when I started on the program, I asked myself,
+
+148
+00:11:37,681 --> 00:11:40,500
+is it possible to do this thing?
+
+149
+00:11:41,380 --> 00:11:42,620
+Is it really possible?
+
+150
+00:11:42,740 --> 00:11:45,280
+Because when you looked at all the things that have to happen
+
+151
+00:11:45,281 --> 00:11:47,200
+and the time was allocated,
+
+152
+00:11:48,140 --> 00:11:51,200
+emotionally you thought or intellectually you thought it's just not possible.
+
+153
+00:11:52,340 --> 00:11:55,680
+But what we did is instead we just focused on the year at a time.
+
+154
+00:11:57,400 --> 00:12:00,380
+On the morning of September 17, 1976,
+
+155
+00:12:00,960 --> 00:12:04,300
+the Rockwell team treated the world to a glimpse of the future,
+
+156
+00:12:05,620 --> 00:12:06,960
+a test model of the orbiter.
+
+157
+00:12:07,680 --> 00:12:11,780
+one not intended for spaceflight, rolled out of their Palmdale, California plant.
+
+158
+00:12:12,900 --> 00:12:17,760
+It was named Enterprise, after the starship in the television series Star Trek.
+
+159
+00:12:20,100 --> 00:12:26,900
+In August of 1977, astronauts Fred Hayes and Gordon Fullerton would put Enterprise to the test.
+
+160
+00:12:28,380 --> 00:12:36,180
+Their job was to release the 150,000-pound glider from the back of a specially equipped 747 jumbo jet,
+
+161
+00:12:36,181 --> 00:12:40,720
+and with only one chance for success, attempt a landing.
+
+162
+00:12:42,040 --> 00:12:46,800
+At 24,000 feet, Hayes fired the explosive bolts holding the aircraft together.
+
+163
+00:12:47,580 --> 00:12:52,060
+And as expected, Enterprise lifted straight up as the jetliner veered away.
+
+164
+00:12:53,420 --> 00:12:58,960
+Five minutes later, Hayes glided Enterprise toward the runway for what would be a perfect landing.
+
+165
+00:13:00,020 --> 00:13:04,000
+But the test only proved the shuttle as a glider, not as a spacecraft.
+
+166
+00:13:04,960 --> 00:13:07,580
+That test would be up to the shuttle Columbia,
+
+167
+00:13:08,180 --> 00:13:11,620
+which was nearing completion and was plagued with two major problems.
+
+168
+00:13:13,440 --> 00:13:16,240
+The first involved the shuttle's three main engines,
+
+169
+00:13:16,660 --> 00:13:18,660
+the most complex engines ever developed.
+
+170
+00:13:20,520 --> 00:13:25,220
+One of the difficult new requirements for this rocket engine
+
+171
+00:13:25,221 --> 00:13:26,900
+is that it be reusable.
+
+172
+00:13:27,940 --> 00:13:31,580
+In fact, it's to be reused for 55 flights.
+
+173
+00:13:31,581 --> 00:13:36,180
+Previously, all rocket engines were expendable.
+
+174
+00:13:37,640 --> 00:13:42,220
+In addition, the engines needed to be much lighter than prior rocket engines.
+
+175
+00:13:43,000 --> 00:13:45,780
+Yet for their weight, they had to be far more powerful,
+
+176
+00:13:46,600 --> 00:13:50,460
+capable of generating 23 times as much power as Hoover Dam.
+
+177
+00:13:50,980 --> 00:13:55,920
+Individual turbine blades were roughly the size of a postage stamp,
+
+178
+00:13:56,460 --> 00:13:59,360
+and it developed 600 horsepower per blade.
+
+179
+00:13:59,361 --> 00:14:07,340
+During testing, those turbine blades cracked and nozzles gave out under the extreme pressures and vibrations.
+
+180
+00:14:09,080 --> 00:14:15,720
+It was later discovered that the grade of welding wire used on the engines was causing weaknesses in welded areas.
+
+181
+00:14:17,540 --> 00:14:23,520
+By upgrading the wire and making other modifications, the engines began testing with consistent success.
+
+182
+00:14:23,521 --> 00:14:30,140
+The second challenge that they had was a thermal protection system, or the TPS as it's called.
+
+183
+00:14:32,040 --> 00:14:36,060
+The TPS protects the orbiter from burning up as it re-enters the atmosphere.
+
+184
+00:14:36,900 --> 00:14:38,520
+It would consist of three materials.
+
+185
+00:14:39,840 --> 00:14:43,460
+Reinforced carbon-carbon panels were installed on the nose and wing edges.
+
+186
+00:14:44,320 --> 00:14:46,560
+The sections that encountered the highest temperatures.
+
+187
+00:14:48,160 --> 00:14:51,300
+Most of the top side of the orbiter was considered least vulnerable
+
+188
+00:14:51,301 --> 00:14:53,540
+and covered with a flame-resistant fabric.
+
+189
+00:14:55,140 --> 00:14:58,640
+The greatest challenge was protecting the largest section of the Orbiter,
+
+190
+00:14:59,300 --> 00:15:02,500
+especially the underside, which dissipates most of the heat.
+
+191
+00:15:05,120 --> 00:15:09,820
+These areas would be protected by nearly 31,000 individually designed,
+
+192
+00:15:10,100 --> 00:15:12,540
+lightweight, heat-resistant ceramic tiles.
+
+193
+00:15:14,620 --> 00:15:18,720
+The problem was getting the tiles to bond to the Orbiter's aluminum skin.
+
+194
+00:15:18,721 --> 00:15:21,420
+this tile is a ceramic
+
+195
+00:15:21,421 --> 00:15:24,260
+and if you really look under a microscope
+
+196
+00:15:24,261 --> 00:15:27,360
+it's probably 97% air
+
+197
+00:15:27,361 --> 00:15:28,800
+there's nothing there
+
+198
+00:15:28,801 --> 00:15:32,700
+it's sand in strands that have been
+
+199
+00:15:32,701 --> 00:15:35,480
+heat treated and then a coating put on
+
+200
+00:15:35,481 --> 00:15:37,720
+and when we put that tile
+
+201
+00:15:37,721 --> 00:15:39,080
+attached to the vehicle
+
+202
+00:15:39,081 --> 00:15:42,000
+it was breaking at a point
+
+203
+00:15:42,001 --> 00:15:44,120
+where we didn't understand why it was breaking
+
+204
+00:15:44,121 --> 00:15:47,120
+in March 1979
+
+205
+00:15:47,121 --> 00:15:50,420
+a blue ribbon panel of experts from around the country
+
+206
+00:15:50,421 --> 00:15:53,340
+began searching for a solution to the tile problem.
+
+207
+00:15:54,600 --> 00:15:57,860
+At the same time, in order to maintain a processing schedule,
+
+208
+00:15:58,580 --> 00:16:01,200
+NASA transported Columbia to the Kennedy Space Center
+
+209
+00:16:01,201 --> 00:16:03,220
+with thousands of tiles still missing.
+
+210
+00:16:05,360 --> 00:16:08,800
+Six months later, the experts determined that the solution
+
+211
+00:16:08,801 --> 00:16:11,440
+was to add a special coating to the back of each tile,
+
+212
+00:16:12,120 --> 00:16:13,920
+strengthening where it bonds to the orbiter.
+
+213
+00:16:13,921 --> 00:16:19,720
+Workers at the Kennedy Space Center would spend until Christmas 1980
+
+214
+00:16:19,721 --> 00:16:26,480
+Modifying, applying, and waterproofing the 30,759 tiles on the orbiter
+
+215
+00:16:26,481 --> 00:16:35,000
+By the spring of 1981, Columbia, the most complex and expensive vehicle ever built
+
+216
+00:16:35,001 --> 00:16:36,720
+Was ready to fly
+
+217
+00:16:36,721 --> 00:16:42,620
+Columbia was named for a Boston sailing vessel
+
+218
+00:16:42,621 --> 00:16:44,020
+captained by Robert Gray,
+
+219
+00:16:44,460 --> 00:16:48,260
+who in 1790 completed the first U.S. circumnavigation of the globe.
+
+220
+00:16:49,180 --> 00:16:51,940
+Space Shuttle Columbia will return on Modern Marvels.
+
+221
+00:16:55,640 --> 00:16:57,520
+Prior to every space shuttle flight,
+
+222
+00:16:57,521 --> 00:17:00,920
+a series of events take place at Florida's Kennedy Space Center
+
+223
+00:17:00,921 --> 00:17:04,180
+that is nearly as spectacular as liftoff itself.
+
+224
+00:17:04,181 --> 00:17:10,920
+The shuttle is rolled out of its processing hangar on a 96-wheel transporter
+
+225
+00:17:10,921 --> 00:17:15,240
+and carried to the 525-foot-tall Vehicle Assembly Building,
+
+226
+00:17:15,800 --> 00:17:19,600
+which was originally built to assemble Saturn V rockets during the Apollo era.
+
+227
+00:17:22,360 --> 00:17:27,500
+The newly completed Columbia made this trip for the first time in November 1980.
+
+228
+00:17:28,240 --> 00:17:33,940
+The first time Columbia rolled out of the processing facility after years of working there,
+
+229
+00:17:33,941 --> 00:17:38,060
+and rolled over to the VAB, there were thousands of people out there
+
+230
+00:17:38,061 --> 00:17:42,000
+just to watch that short trip between the processing facility and the VAB.
+
+231
+00:17:42,140 --> 00:17:45,740
+All those technicians that glued tile on, all those engineers that wrote software,
+
+232
+00:17:45,900 --> 00:17:49,420
+all those people that worked in logistics that procured parts,
+
+233
+00:17:50,060 --> 00:17:53,300
+everybody felt that they were a member of the team.
+
+234
+00:17:55,080 --> 00:17:58,220
+Waiting for every orbiter inside the vehicle assembly building
+
+235
+00:17:58,221 --> 00:18:01,260
+are the solid rocket boosters and external tank,
+
+236
+00:18:01,261 --> 00:18:05,400
+which had been raised to the vertical position and attached together.
+
+237
+00:18:07,100 --> 00:18:11,000
+A pair of cranes lift the orbiter vertically toward the top of the building,
+
+238
+00:18:11,540 --> 00:18:12,980
+high above the external tank.
+
+239
+00:18:14,560 --> 00:18:18,960
+It's aligned with the tank and is gently lowered down and attached to it.
+
+240
+00:18:21,040 --> 00:18:26,820
+Next, this slow-moving 6 million-pound vehicle called the Shuttle Crawler Transporter
+
+241
+00:18:26,821 --> 00:18:31,040
+carries the spacecraft out of the building and toward the launch pad.
+
+242
+00:18:31,260 --> 00:18:37,100
+Fully loaded, the crawler moves at one mile per hour.
+
+243
+00:18:38,600 --> 00:18:45,720
+For its maiden voyage, mission STS-1, Columbia arrived at the pad on December 31, 1980,
+
+244
+00:18:46,460 --> 00:18:50,180
+four months prior to launch, for a series of pre-launch tests.
+
+245
+00:18:50,840 --> 00:18:57,180
+The spacecraft was nothing like we had ever checked out or launched before.
+
+246
+00:18:57,181 --> 00:19:05,760
+Most of the checkout with the previous capsules or spacecraft were switches in the cockpit and manual activity.
+
+247
+00:19:06,720 --> 00:19:16,460
+This brought in a computer complex on board and drove us to more computers in our ground checkout than we'd ever had before.
+
+248
+00:19:16,680 --> 00:19:20,600
+So our engineers had become very proficient in computers.
+
+249
+00:19:20,601 --> 00:19:26,480
+And for people that had grown up in the slide rule era, this was a challenge.
+
+250
+00:19:27,180 --> 00:19:34,240
+The computers would play a key role in firing the shuttle's engines and igniting the solid rocket boosters.
+
+251
+00:19:35,160 --> 00:19:43,800
+The Air Force was telling Congress that the shuttle will lose one out of 30 missions due to solid rocket boosters alone.
+
+252
+00:19:44,800 --> 00:19:51,820
+They said, we're sorry to give you the news, but we are operating solid rocket boosters, and that's our record.
+
+253
+00:19:53,260 --> 00:19:56,280
+So SDS-1 had a lot of unknowns.
+
+254
+00:19:56,980 --> 00:19:58,140
+There was a lot of risk taken.
+
+255
+00:19:58,240 --> 00:20:02,880
+The people who flew that really were quite courageous because there was no guarantee.
+
+256
+00:20:04,220 --> 00:20:07,600
+Those people would include NASA's most experienced astronaut.
+
+257
+00:20:08,780 --> 00:20:13,220
+John Young, a veteran of two Gemini missions as well as two Apollo missions,
+
+258
+00:20:13,740 --> 00:20:15,440
+was selected to command Columbia.
+
+259
+00:20:17,060 --> 00:20:18,760
+The pilot was Bob Crippen.
+
+260
+00:20:19,440 --> 00:20:24,920
+Though he was an Apollo-era astronaut and had more than 4,000 hours of jet aircraft flying time,
+
+261
+00:20:24,921 --> 00:20:27,800
+This would be his first space flight.
+
+262
+00:20:29,880 --> 00:20:36,860
+On April 12, 1981, Young and Crippen posed for cameras during the astronauts' traditional pre-launch breakfast.
+
+263
+00:20:38,760 --> 00:20:46,260
+In a few hours, they would be flying the first vehicle sent into space without the benefit of previously unmanned orbital testing.
+
+264
+00:20:48,360 --> 00:20:51,740
+It was almost like Apollo again. We hadn't been in space.
+
+265
+00:20:52,320 --> 00:20:58,480
+In 1981, when they flew Columbia, we had not sent humans into space since 1975, six-year absence.
+
+266
+00:20:58,800 --> 00:21:00,620
+So everybody was excited about this.
+
+267
+00:21:00,920 --> 00:21:03,360
+And then there were all these unknowns about this mission.
+
+268
+00:21:03,840 --> 00:21:05,320
+Would the engine work properly?
+
+269
+00:21:05,640 --> 00:21:10,220
+These shuttle tiles that were glued onto the underside of the orbiter, would that be successful?
+
+270
+00:21:10,940 --> 00:21:14,280
+We've gone for main engine start. We have main engine start.
+
+271
+00:21:14,281 --> 00:21:25,080
+...from America's first space shuttle, and the shuttle has cleared the tower.
+
+272
+00:21:27,780 --> 00:21:29,880
+As Columbia made its ascent,
+
+273
+00:21:30,900 --> 00:21:33,660
+Crippen and Young noticed debris flying past their window.
+
+274
+00:21:34,860 --> 00:21:39,640
+It would later be determined that this was ice and insulation from the external tank,
+
+275
+00:21:40,360 --> 00:21:43,440
+an occurrence that would become common on future flights.
+
+276
+00:21:44,280 --> 00:21:47,900
+and prove fatal on Columbia's final flight.
+
+277
+00:21:48,920 --> 00:21:50,280
+We see SIB set flight.
+
+278
+00:21:51,500 --> 00:21:52,280
+Roger on a set.
+
+279
+00:21:55,480 --> 00:21:57,780
+The rest of the ascent went flawlessly.
+
+280
+00:21:58,820 --> 00:22:04,560
+Once in orbit, Young and Crippen's first test would be opening the 60-foot-long payload bay doors.
+
+281
+00:22:05,420 --> 00:22:07,660
+But this procedure was more than a test.
+
+282
+00:22:08,160 --> 00:22:10,240
+Okay, the fourth door's coming open now.
+
+283
+00:22:10,920 --> 00:22:11,620
+Roger, copy.
+
+284
+00:22:11,621 --> 00:22:16,140
+Inside the doors are radiators that help cool the shuttle
+
+285
+00:22:16,141 --> 00:22:20,820
+So opening them as soon as possible would be a critical step in all shuttle missions
+
+286
+00:22:20,821 --> 00:22:23,740
+The doors opened perfectly
+
+287
+00:22:23,741 --> 00:22:28,820
+But when they did, Young and Crippen pointed cameras back toward the engine pods
+
+288
+00:22:28,821 --> 00:22:30,740
+And saw a disturbing sight
+
+289
+00:22:30,741 --> 00:22:36,740
+We do have a few tiles missing off of both of them
+
+290
+00:22:36,741 --> 00:22:42,380
+off of the starboard pod, three tile and some smaller pieces,
+
+291
+00:22:42,900 --> 00:22:47,640
+and off the port pod looks like, I see one full square,
+
+292
+00:22:47,860 --> 00:22:50,060
+and it looks like a few little triangular shapes.
+
+293
+00:22:51,460 --> 00:22:56,280
+NASA determined that since these were the less critical white tiles on the top side of the orbiter,
+
+294
+00:22:56,800 --> 00:22:58,980
+as opposed to the black tiles on the underside,
+
+295
+00:22:59,760 --> 00:23:01,940
+a safe reentry was still possible.
+
+296
+00:23:01,941 --> 00:23:07,260
+assuming the tiles on the underside were not damaged as well.
+
+297
+00:23:08,680 --> 00:23:12,140
+Nobody knew with certainty whether they were or not.
+
+298
+00:23:13,300 --> 00:23:17,680
+Two days later, Columbia attempted to become the first winged spacecraft
+
+299
+00:23:17,681 --> 00:23:21,980
+to re-enter the atmosphere and make a conventional runway landing.
+
+300
+00:23:22,860 --> 00:23:24,180
+John, we're all riding with you.
+
+301
+00:23:26,500 --> 00:23:29,880
+Back on Earth, a six-mile-long string of traffic
+
+302
+00:23:29,881 --> 00:23:34,280
+was carrying half a million spectators to Edwards Air Force Base in California
+
+303
+00:23:34,281 --> 00:23:36,560
+to witness the historic touchdown.
+
+304
+00:23:37,980 --> 00:23:40,500
+While Columbia was enduring the searing heat of reentry,
+
+305
+00:23:41,160 --> 00:23:45,200
+mission control would lose radio contact for approximately 20 minutes.
+
+306
+00:23:45,840 --> 00:23:48,300
+And they lost it just as they were supposed to,
+
+307
+00:23:48,620 --> 00:23:52,100
+and as you come out of that, they weren't sure that they would hear these guys again.
+
+308
+00:23:52,860 --> 00:23:58,580
+There's concern that they knew some of those shuttle tiles had been popped off during the launch.
+
+309
+00:23:59,200 --> 00:24:00,280
+Well, what would happen?
+
+310
+00:24:00,380 --> 00:24:02,920
+Would there be a burn through of these individual places?
+
+311
+00:24:03,260 --> 00:24:04,820
+Would the crew come back safely?
+
+312
+00:24:08,860 --> 00:24:10,440
+What a way to come to California.
+
+313
+00:24:11,440 --> 00:24:13,100
+They regain the telemetry.
+
+314
+00:24:13,320 --> 00:24:17,080
+They hear a sonic boom as it comes below the speed of sound.
+
+315
+00:24:17,081 --> 00:24:22,400
+They see it off in the distance, and Walter Cronkite literally breathes a sigh of relief,
+
+316
+00:24:22,740 --> 00:24:25,280
+wipes his brow and says, they fade it.
+
+317
+00:24:28,580 --> 00:24:35,120
+Soon after landing, John Young was supposed to remain on board for a brief medical exam.
+
+318
+00:24:37,120 --> 00:24:40,400
+Instead, he came bounding out of the shuttle ahead of time.
+
+319
+00:24:41,380 --> 00:24:44,040
+In a post-flight statement, he explained why.
+
+320
+00:24:44,280 --> 00:24:49,740
+Everyone had said that they had shown, from an engineering and statistics standpoint,
+
+321
+00:24:50,260 --> 00:24:53,300
+that it was impossible, impossible, mind you,
+
+322
+00:24:53,600 --> 00:24:57,340
+that some of those critical tiles on the bottom of the vehicle would not fall off.
+
+323
+00:24:57,341 --> 00:24:59,140
+But none of those tiles fell off.
+
+324
+00:24:59,420 --> 00:25:02,300
+And it's all due to the individual effort of the American people.
+
+325
+00:25:05,000 --> 00:25:09,600
+Over the next 15 months, Columbia would fly three more two-man missions
+
+326
+00:25:09,601 --> 00:25:12,760
+to test the shuttle's various systems in different orbits.
+
+327
+00:25:15,400 --> 00:25:18,720
+Its fifth flight, launched November 11, 1982,
+
+328
+00:25:19,560 --> 00:25:22,640
+was considered the space shuttle's first fully operational mission
+
+329
+00:25:22,641 --> 00:25:27,060
+and marked the first time a four-man crew ever flew into space.
+
+330
+00:25:27,340 --> 00:25:31,780
+Columbia would soon be joined by three sister orbiters.
+
+331
+00:25:32,880 --> 00:25:36,020
+Together, they would make space travel seem routine
+
+332
+00:25:36,021 --> 00:25:38,740
+until disaster proved otherwise.
+
+333
+00:25:40,600 --> 00:25:43,260
+Columbia's maiden voyage was made on the 20th anniversary
+
+334
+00:25:43,261 --> 00:25:47,680
+of the first manned spaceflight by Soviet cosmonaut Yuri Gagarin.
+
+335
+00:25:48,720 --> 00:25:51,420
+Space Shuttle Columbia will return on Modern Marvels.
+
+336
+00:25:51,421 --> 00:25:57,820
+During the first 22 years of the space shuttle program,
+
+337
+00:25:58,400 --> 00:26:02,020
+few astronauts spent more hours in orbit than Story Musgrave.
+
+338
+00:26:03,400 --> 00:26:06,200
+His sixth and final mission was on board the Columbia.
+
+339
+00:26:07,080 --> 00:26:08,840
+Launched in November of 1996,
+
+340
+00:26:09,660 --> 00:26:13,620
+the mission distinguished him as the only person to ever fly on all five shuttles.
+
+341
+00:26:14,220 --> 00:26:18,380
+And at age 61, he became the oldest person to ever fly in space
+
+342
+00:26:18,381 --> 00:26:21,060
+until John Glenn flew on the shuttle Discovery.
+
+343
+00:26:21,420 --> 00:26:24,420
+in 1998 at age 77.
+
+344
+00:26:25,620 --> 00:26:29,360
+But to this astronaut, who joined NASA during the Apollo era
+
+345
+00:26:29,361 --> 00:26:33,320
+and played key roles in developing several shuttle systems,
+
+346
+00:26:34,600 --> 00:26:38,740
+flying the reusable spacecraft was anything but routine.
+
+347
+00:26:41,640 --> 00:26:46,780
+The vehicle that we were getting into, it was simply frightening.
+
+348
+00:26:47,160 --> 00:26:51,240
+I don't do this because it's dangerous, and I don't do it because it's risky.
+
+349
+00:26:51,420 --> 00:26:55,100
+I do it because I'm a space person and I have no other way to get up there.
+
+350
+00:26:55,680 --> 00:26:59,120
+I certainly would have rather gotten there by Mercury, Gemini, or Apollo.
+
+351
+00:27:00,460 --> 00:27:04,820
+Vehicles that are ten times safer or a hundred times safer than the shuttle is.
+
+352
+00:27:06,120 --> 00:27:11,880
+Yet throughout the early 1980s, the shuttle would continue with one successful mission after the next.
+
+353
+00:27:12,040 --> 00:27:18,880
+Way out there on the end of the runway, the space shuttle Challenger, affixed atop a 747,
+
+354
+00:27:18,881 --> 00:27:25,180
+is about to start on the first leg of a journey that would eventually put it into space in November.
+
+355
+00:27:25,400 --> 00:27:26,980
+It's headed for Florida now.
+
+356
+00:27:28,480 --> 00:27:37,760
+With the addition of three more orbiters, Challenger in 1983, Discovery in 1984, and Atlantis in 1985,
+
+357
+00:27:38,860 --> 00:27:42,100
+NASA was pushing to launch shuttles as quickly as possible.
+
+358
+00:27:43,000 --> 00:27:46,000
+Turn them around like airplanes initially was the thought.
+
+359
+00:27:46,001 --> 00:27:52,260
+They found out very quickly that wasn't possible, but we could still fly maybe as many as 25 missions a year,
+
+360
+00:27:52,460 --> 00:27:53,700
+you know, one every other week.
+
+361
+00:27:54,400 --> 00:27:59,040
+And that was a very exciting prospect, and to get there you have to push very hard.
+
+362
+00:27:59,041 --> 00:28:04,920
+And so all through 1985, the NASA administrator is pressuring the shuttle program to launch on schedule,
+
+363
+00:28:05,180 --> 00:28:09,560
+and if you look at the number of launches that year, they're much greater than in any other year in the history of the program.
+
+364
+00:28:09,561 --> 00:28:13,640
+1986 was expected to be equally as demanding,
+
+365
+00:28:14,080 --> 00:28:17,740
+and Columbia was scheduled to fly the year's first mission in January.
+
+366
+00:28:19,300 --> 00:28:23,520
+Despite pressure to launch, the mission set a record of seven postponements,
+
+367
+00:28:24,200 --> 00:28:28,840
+four with a crew on board, which included U.S. Congressman Bill Nelson of Florida.
+
+368
+00:28:29,400 --> 00:28:37,880
+Only after the fact did I find out some of the near misses that we had in those four scrubs.
+
+369
+00:28:37,881 --> 00:28:40,080
+Everything is go. The orbit is on board computers.
+
+370
+00:28:40,240 --> 00:28:42,660
+We have a cutoff.
+
+371
+00:28:43,900 --> 00:28:46,980
+One scrub occurred just 31 seconds to launch
+
+372
+00:28:46,981 --> 00:28:49,380
+when it was discovered that a fatigued technician
+
+373
+00:28:49,381 --> 00:28:53,240
+had accidentally allowed 18,000 pounds of liquid oxygen
+
+374
+00:28:53,241 --> 00:28:55,620
+to drain out of the external tank.
+
+375
+00:28:57,140 --> 00:28:59,660
+Had we launched 31 seconds later,
+
+376
+00:28:59,840 --> 00:29:04,220
+we would have not had enough fuel to get to orbital velocity,
+
+377
+00:29:04,221 --> 00:29:11,460
+and therefore Hoot Gibson, our commander, would have had to put down a fully loaded spacecraft
+
+378
+00:29:11,461 --> 00:29:17,640
+in an emergency landing on a 10,000-foot runway in Dakar, Senegal,
+
+379
+00:29:17,641 --> 00:29:22,400
+where the end of the runway dropped straight off down a cliff into the Atlantic Ocean.
+
+380
+00:29:23,580 --> 00:29:28,840
+Columbia finally lifted off on January 12, 1986 for a six-day mission.
+
+381
+00:29:28,841 --> 00:29:32,860
+The space shuttle Challenger with teacher Krista McAuliffe
+
+382
+00:29:32,861 --> 00:29:36,500
+was set to launch just four days after Columbia returned home.
+
+383
+00:29:36,840 --> 00:29:42,920
+I don't think any teacher has ever been more ready to have two lessons in my life.
+
+384
+00:29:43,100 --> 00:29:47,320
+I've been preparing these since September, and I just hope everybody tunes in.
+
+385
+00:29:47,500 --> 00:29:52,360
+Krista McAuliffe was going to do this broadcast from space, this lesson from space.
+
+386
+00:29:52,440 --> 00:29:57,900
+It was going to go literally around the world and be taught to students all over.
+
+387
+00:29:58,840 --> 00:30:03,940
+Never before had two shuttle missions been scheduled to launch so close to each other.
+
+388
+00:30:04,780 --> 00:30:10,940
+Weather and mechanical delays, however, pushed the Challenger launch back six days to January 28th.
+
+389
+00:30:12,320 --> 00:30:19,560
+On that day, the temperature was a frigid 36 degrees, 15 degrees colder than any prior launch,
+
+390
+00:30:20,060 --> 00:30:22,640
+and icicles could be seen forming on the launch pad.
+
+391
+00:30:22,641 --> 00:30:27,060
+While the crew was having its pre-launch breakfast,
+
+392
+00:30:27,700 --> 00:30:30,040
+engineers who had designed the solid rocket boosters
+
+393
+00:30:30,041 --> 00:30:34,300
+were warning NASA that such temperatures could trigger a catastrophic failure
+
+394
+00:30:34,301 --> 00:30:36,120
+in the booster's joint seals.
+
+395
+00:30:37,400 --> 00:30:41,240
+The technical decision in those matters has got to be
+
+396
+00:30:41,241 --> 00:30:46,440
+not just analytical data, but it has to be common sense data.
+
+397
+00:30:46,441 --> 00:30:49,680
+Like foot and a half long icicles on the launch pad,
+
+398
+00:30:49,820 --> 00:30:52,040
+you look at the icicles and you say no.
+
+399
+00:30:52,640 --> 00:30:54,900
+What is this? What are we doing?
+
+400
+00:30:55,860 --> 00:30:56,840
+And you don't go.
+
+401
+00:30:58,920 --> 00:31:00,560
+But the shuttle did launch.
+
+402
+00:31:01,340 --> 00:31:04,060
+And with school children the world over watching on television,
+
+403
+00:31:04,600 --> 00:31:07,870
+the worst accident in the history of U.S.
+
+404
+00:31:07,871 --> 00:31:11,380
+space exploration occurred 73 seconds later.
+
+405
+00:31:15,840 --> 00:31:20,100
+The cause of the accident was blamed on a design flaw in the solid rocket boosters
+
+406
+00:31:20,101 --> 00:31:25,140
+and on NASA management for putting money and expediency ahead of safety.
+
+407
+00:31:27,140 --> 00:31:31,120
+The Challenger tragedy grounded the space shuttle for the next 32 months.
+
+408
+00:31:32,020 --> 00:31:37,280
+Columbia and the two remaining orbiters were transported back to their California manufacturing facility
+
+409
+00:31:37,281 --> 00:31:40,620
+for more than 200 safety improvements and modifications.
+
+410
+00:31:43,380 --> 00:31:46,420
+There was a major redesign of the solid rocket boosters,
+
+411
+00:31:46,940 --> 00:31:49,260
+and improvements were made to the shuttle's main engines.
+
+412
+00:31:50,100 --> 00:31:55,360
+NASA also commissioned the building of the space shuttle Endeavour,
+
+413
+00:31:55,900 --> 00:31:58,340
+which would make its maiden voyage in 1992.
+
+414
+00:32:00,260 --> 00:32:02,160
+But perhaps more significantly,
+
+415
+00:32:02,920 --> 00:32:06,440
+NASA's management structure, safety, and decision-making procedures
+
+416
+00:32:06,441 --> 00:32:08,520
+were drastically overhauled.
+
+417
+00:32:09,580 --> 00:32:14,100
+It put control of technical operations in the hands of the technicians again,
+
+418
+00:32:14,360 --> 00:32:18,040
+and they would resist any interference by people that didn't know the technology.
+
+419
+00:32:18,620 --> 00:32:21,600
+And so the launch control director was responsible for launches.
+
+420
+00:32:21,780 --> 00:32:24,840
+Mission control was responsible for running missions, and that's the way it went.
+
+421
+00:32:25,100 --> 00:32:28,360
+And I've been incredibly proud of that team, confident of that team.
+
+422
+00:32:29,540 --> 00:32:33,280
+Throughout the 1990s, Columbia flew 16 missions,
+
+423
+00:32:33,960 --> 00:32:38,260
+launching satellites, conducting hundreds of experiments to improve life on Earth,
+
+424
+00:32:38,820 --> 00:32:41,760
+and helping us better understand the depth of our universe.
+
+425
+00:32:43,240 --> 00:32:47,700
+On March 1, 2002, Columbia flew to the Hubble telescope,
+
+426
+00:32:48,040 --> 00:32:49,080
+to pay a service call.
+
+427
+00:32:51,520 --> 00:32:54,460
+Among other improvements, the crew replaced a camera
+
+428
+00:32:54,461 --> 00:32:56,500
+with one that had twice the field of view
+
+429
+00:32:56,501 --> 00:32:58,420
+and five times the resolution.
+
+430
+00:32:59,940 --> 00:33:01,280
+Meanwhile, back on Earth,
+
+431
+00:33:01,660 --> 00:33:03,480
+the crew for Columbia's next voyage
+
+432
+00:33:03,481 --> 00:33:06,960
+was busy training for one of the largest science missions ever flown.
+
+433
+00:33:08,100 --> 00:33:10,440
+It would prove to be Columbia's final journey.
+
+434
+00:33:11,860 --> 00:33:13,140
+In June 1995,
+
+435
+00:33:13,740 --> 00:33:15,740
+NASA delayed the launch of the shuttle Discovery
+
+436
+00:33:15,741 --> 00:33:21,100
+after finding that woodpeckers had poked dozens of holes in the external fuel tank's foam insulation.
+
+437
+00:33:22,440 --> 00:33:25,140
+Space Shuttle Columbia will return on Modern Marvels.
+
+438
+00:33:26,460 --> 00:33:29,200
+The shuttle program opens space travel to the world.
+
+439
+00:33:30,340 --> 00:33:35,960
+Columbia alone hosted astronauts from Germany, Canada, Italy, Ukraine, and Japan.
+
+440
+00:33:35,961 --> 00:33:48,680
+In 1998, the first astronaut from Israel moved his family to Houston to begin training to fly on Columbia.
+
+441
+00:33:50,780 --> 00:33:58,220
+Ilan Ramon, married with four children, was the son of a Holocaust survivor and a fighter pilot in the Israeli Air Force.
+
+442
+00:33:59,020 --> 00:34:01,620
+His crewmates would become like a second family.
+
+443
+00:34:02,440 --> 00:34:03,360
+They were.
+
+444
+00:34:04,280 --> 00:34:07,280
+Commander Rick Husband, married with two young children.
+
+445
+00:34:08,080 --> 00:34:11,360
+Columbia would be the second shuttle flight for this Air Force test pilot.
+
+446
+00:34:12,940 --> 00:34:16,240
+Pilot Willie McCool, married with three children.
+
+447
+00:34:16,840 --> 00:34:19,880
+He was a Navy fighter pilot who hadn't yet flown a shuttle mission.
+
+448
+00:34:22,060 --> 00:34:25,660
+Payload Commander Michael Anderson, married with two children.
+
+449
+00:34:26,360 --> 00:34:29,000
+This Air Force pilot had flown one prior shuttle mission.
+
+450
+00:34:29,001 --> 00:34:34,840
+Mission Specialist Kalpan Achola, or K.C. to the rest of the crew
+
+451
+00:34:34,841 --> 00:34:39,920
+Married with no children, this aeronautical engineer and pilot was born in India
+
+452
+00:34:39,921 --> 00:34:42,220
+And flew one previous shuttle mission
+
+453
+00:34:42,221 --> 00:34:47,900
+Mission Specialist David Brown, the only bachelor on the crew
+
+454
+00:34:47,901 --> 00:34:51,500
+Was a physician, Navy pilot, and flight surgeon
+
+455
+00:34:51,501 --> 00:34:54,000
+As well as a former circus performer
+
+456
+00:34:55,200 --> 00:34:57,540
+Columbia would be his first shuttle flight
+
+457
+00:34:57,541 --> 00:35:03,440
+Mission Specialist Laurel Clark, married with one child.
+
+458
+00:35:04,180 --> 00:35:07,960
+She was also a pediatrician, a flight surgeon, and a Navy commander.
+
+459
+00:35:08,900 --> 00:35:10,900
+This would be her first shuttle mission as well.
+
+460
+00:35:12,080 --> 00:35:15,960
+Well, all the crew members were excited about being on the science mission,
+
+461
+00:35:16,200 --> 00:35:18,340
+and that's true for any mission that flies in space.
+
+462
+00:35:18,440 --> 00:35:19,860
+The crew's always excited to be there.
+
+463
+00:35:19,861 --> 00:35:25,460
+But this one perhaps even more so, because it's one of the few that was purely dedicated to science.
+
+464
+00:35:26,460 --> 00:35:30,800
+The crew's 16-day mission would require them to complete more than 80 experiments.
+
+465
+00:35:32,200 --> 00:35:36,900
+They were designed to shed light on such areas as combating prostate and bone cancer,
+
+466
+00:35:38,020 --> 00:35:41,980
+kidney stone formation, sleep patterns, and fire suppression.
+
+467
+00:35:44,560 --> 00:35:50,720
+With a huge workload ahead of them, the excited crew lifted off at 10.39 a.m.
+
+468
+00:35:50,721 --> 00:35:52,320
+on January 16, 2003.
+
+469
+00:35:52,321 --> 00:36:00,320
+By initial appearances, the launch in ascent seemed normal, and Columbia reached its planned orbit.
+
+470
+00:36:02,180 --> 00:36:06,560
+The following day, however, NASA engineers reviewed video of the launch.
+
+471
+00:36:07,460 --> 00:36:11,500
+They discovered that 81 seconds after liftoff, at 60,000 feet,
+
+472
+00:36:12,380 --> 00:36:18,900
+a chunk of foam from the external tank struck the protective carbon-carbon panel on the edge of the left wing.
+
+473
+00:36:18,901 --> 00:36:24,120
+an area where temperatures reached nearly 3,000 degrees on reentry.
+
+474
+00:36:25,640 --> 00:36:29,820
+Since Columbia's first flight, NASA was aware of foam striking the orbiter,
+
+475
+00:36:30,300 --> 00:36:32,820
+but it had been dismissed as a serious safety threat.
+
+476
+00:36:34,200 --> 00:36:36,620
+Yet this strike did concern some engineers.
+
+477
+00:36:37,920 --> 00:36:41,480
+Though lightweight, the object was estimated to be three feet long
+
+478
+00:36:41,481 --> 00:36:45,120
+and struck when the shuttle's speed was about 500 miles per hour.
+
+479
+00:36:46,560 --> 00:36:48,180
+You know what a milk carton is?
+
+480
+00:36:48,181 --> 00:36:51,740
+try something that weighs one and a half times a milk carton,
+
+481
+00:36:51,820 --> 00:36:53,680
+it's in your face at 500 miles an hour.
+
+482
+00:36:53,900 --> 00:36:55,040
+It's going to take your head off.
+
+483
+00:36:56,540 --> 00:36:58,820
+While the crew was going about its work in orbit,
+
+484
+00:36:59,580 --> 00:37:01,440
+NASA engineers had issued reports
+
+485
+00:37:01,441 --> 00:37:04,600
+indicating the strike could have caused a breach on the edge of the wing,
+
+486
+00:37:05,120 --> 00:37:06,840
+which would doom the shuttle on re-entry.
+
+487
+00:37:09,340 --> 00:37:12,400
+However, these were considered worst-case scenario reports,
+
+488
+00:37:12,600 --> 00:37:16,360
+and their managers concluded the strike was not serious enough to pose a danger.
+
+489
+00:37:18,180 --> 00:37:23,840
+In footage recovered after Columbia's destruction, the crew appeared to relish their time in space.
+
+490
+00:37:24,660 --> 00:37:28,060
+Good morning, Ken. Good morning to all.
+
+491
+00:37:28,061 --> 00:37:33,780
+And a special good morning to my wife, Rona, the love of my life.
+
+492
+00:37:41,640 --> 00:37:42,340
+Baseball.
+
+493
+00:37:42,520 --> 00:37:44,000
+Hey, better, better, better, better, better, better.
+
+494
+00:37:44,440 --> 00:37:45,300
+Zero G baseball.
+
+495
+00:37:48,180 --> 00:37:49,580
+You're supposed to catch it, Elon.
+
+496
+00:37:53,580 --> 00:37:54,300
+Bicycle kick.
+
+497
+00:37:57,480 --> 00:37:59,340
+Wow, Willie, that was impressive.
+
+498
+00:38:00,180 --> 00:38:05,200
+On the morning of February 1, 2003, the crew prepared to return home.
+
+499
+00:38:05,960 --> 00:38:09,320
+There might be some plasma now.
+
+500
+00:38:10,440 --> 00:38:11,960
+We see it out the front also.
+
+501
+00:38:12,200 --> 00:38:17,720
+A little north of Hawaii, at an altitude of 75 miles,
+
+502
+00:38:18,180 --> 00:38:21,000
+Columbia penetrated the outer fringes of the atmosphere.
+
+503
+00:38:22,000 --> 00:38:24,920
+Soon after, an orange glow surrounded the orbiter
+
+504
+00:38:24,921 --> 00:38:28,880
+as atmospheric friction began heating up the thermal protection system.
+
+505
+00:38:29,300 --> 00:38:32,160
+This is amazing. It's really getting really bright out there.
+
+506
+00:38:33,000 --> 00:38:36,100
+Yep. Yeah, you definitely don't want to be outside now.
+
+507
+00:38:36,840 --> 00:38:38,340
+Looks like a blast for us.
+
+508
+00:38:39,720 --> 00:38:42,880
+Twenty-three minutes prior to its scheduled landing in Florida,
+
+509
+00:38:43,560 --> 00:38:45,680
+Columbia sailed just north of San Francisco
+
+510
+00:38:45,681 --> 00:38:49,720
+when mission control monitors began showing the first hints of trouble.
+
+511
+00:38:51,340 --> 00:38:57,560
+FYI, I've just lost four separate temperature transducers on the left side of the vehicle.
+
+512
+00:38:58,200 --> 00:39:01,520
+There was a halt in the flow of temperature readings from the left wing.
+
+513
+00:39:03,140 --> 00:39:06,180
+Since sensor glitches during reentry were not uncommon,
+
+514
+00:39:07,100 --> 00:39:10,100
+Flight Director Leroy Cain was not yet overly concerned.
+
+515
+00:39:10,101 --> 00:39:17,900
+over the next five minutes however more sensors went dead and the temperature in the left landing
+
+516
+00:39:17,901 --> 00:39:25,520
+gears spiked 60 degrees the tires pressure on left outboard left inboard both tires
+
+517
+00:39:25,521 --> 00:39:30,860
+and columbia houston we see your tire pressure messages and we did not
+
+518
+00:39:30,861 --> 00:39:32,420
+Is it instrumentation, Max?
+
+519
+00:39:32,940 --> 00:39:33,640
+I'll fight Max.
+
+520
+00:39:33,641 --> 00:39:34,420
+Those are also off.
+
+521
+00:39:34,421 --> 00:39:35,121
+Roger.
+
+522
+00:39:41,560 --> 00:39:44,240
+Communication with the crew was suddenly lost.
+
+523
+00:39:44,900 --> 00:39:47,600
+Columbia was 39 miles over north-central Texas,
+
+524
+00:39:48,140 --> 00:39:52,640
+traveling 18 times the speed of sound, 16 minutes from its scheduled landing.
+
+525
+00:39:54,260 --> 00:39:57,000
+Columbia, Houston, UHF comm check.
+
+526
+00:39:57,001 --> 00:40:02,700
+While flight controllers tried to reestablish communication for several minutes,
+
+527
+00:40:03,800 --> 00:40:10,980
+Texas and Louisiana residents were reporting mysterious loud noises and fireballs streaking through the sky.
+
+528
+00:40:12,160 --> 00:40:14,600
+GC flight. GC flight.
+
+529
+00:40:15,500 --> 00:40:17,420
+Fly GC. Lock the doors. Copy.
+
+530
+00:40:19,040 --> 00:40:24,360
+At 9.29 a.m., flight director Kane declared a contingency,
+
+531
+00:40:25,240 --> 00:40:27,520
+A NASA term meaning the shuttle had been lost.
+
+532
+00:40:28,340 --> 00:40:29,860
+Mission control was locked down.
+
+533
+00:40:30,500 --> 00:40:32,620
+Phone calls were not allowed in or out,
+
+534
+00:40:33,080 --> 00:40:36,780
+as controllers began saving and downloading all of Columbia's flight data.
+
+535
+00:40:40,080 --> 00:40:43,220
+Within minutes, a massive recovery effort was begun.
+
+536
+00:40:44,020 --> 00:40:49,020
+It covered a 2,800-square-mile area from mid-Texas through Louisiana.
+
+537
+00:40:49,021 --> 00:41:00,918
+Over the next several months, the Columbia Accident Investigation Board would conclude that superheated gases entered a breach in Columbia's left wing during re-entry
+
+538
+00:41:00,919 --> 00:41:04,000
+and melted its internal aluminum structure.
+
+539
+00:41:05,340 --> 00:41:08,280
+They blamed the breach on the foam strike during liftoff.
+
+540
+00:41:10,440 --> 00:41:17,520
+The board conducted tests by shooting a piece of foam from a nitrogen-powered cannon at nearly 500 miles per hour.
+
+541
+00:41:19,020 --> 00:41:21,840
+directly at a carbon-carbon panel.
+
+542
+00:41:23,240 --> 00:41:25,640
+Even though the foam struck a glancing blow,
+
+543
+00:41:26,140 --> 00:41:28,400
+it produced a hole 16 inches across,
+
+544
+00:41:28,800 --> 00:41:31,120
+more than large enough to cause the breach.
+
+545
+00:41:34,100 --> 00:41:36,640
+The board also made several recommendations.
+
+546
+00:41:37,680 --> 00:41:41,180
+It called for modifications to the foam on the external tank
+
+547
+00:41:41,181 --> 00:41:42,660
+to reduce debris strikes.
+
+548
+00:41:44,060 --> 00:41:46,660
+It also recommended that astronauts be trained
+
+549
+00:41:46,661 --> 00:41:49,080
+to repair the thermal protection system in orbit,
+
+550
+00:41:49,700 --> 00:41:54,320
+and that better photographic coverage be provided between launch and ascent.
+
+551
+00:41:55,880 --> 00:41:59,800
+The remaining space shuttles are expected to fly for at least another decade,
+
+552
+00:42:00,380 --> 00:42:03,720
+as they continue to play a vital role for the International Space Station.
+
+553
+00:42:05,380 --> 00:42:08,140
+While various replacements for the shuttle are under study,
+
+554
+00:42:08,860 --> 00:42:11,580
+none are expected to come online in the near future.
+
+555
+00:42:11,581 --> 00:42:22,080
+In the days following the disaster, a memorial service was held on the shuttle runway at Kennedy Space Center.
+
+556
+00:42:23,420 --> 00:42:27,760
+Bob Crippen, Columbia's first pilot, talked about his old friend.
+
+557
+00:42:28,720 --> 00:42:36,420
+I'm sure that Columbia, which had traveled millions of miles and made that fiery re-entry 27 times before,
+
+558
+00:42:36,421 --> 00:42:43,580
+struggled mightily in those last moments to bring her crew home safely once again.
+
+559
+00:42:44,900 --> 00:42:46,520
+She wasn't successful.
+
+560
+00:42:48,320 --> 00:42:54,060
+Columbia and the other orbiters were all named after great explorer ships
+
+561
+00:42:54,061 --> 00:42:57,300
+for that is their mission, to explore the unknown.
+
+562
+00:42:58,440 --> 00:43:04,260
+Columbia was hardly a thing of beauty except those of us who loved and cared for her.
+
+563
+00:43:04,261 --> 00:43:06,660
+Many said she was old and past her prime.
+
+564
+00:43:08,080 --> 00:43:12,440
+Still, she had only lived barely a quarter of her design life.
+
+565
+00:43:13,440 --> 00:43:15,740
+Columbia had a great many missions ahead of her.
+
+566
+00:43:17,060 --> 00:43:21,500
+She, along with the crew, had her life snuffed out in her prime.
+
+567
+00:43:22,380 --> 00:43:25,960
+There's heavy grief in our hearts, which will diminish with time,
+
+568
+00:43:26,680 --> 00:43:30,980
+but it will never go away, and we will never forget.
+
+569
+00:43:34,260 --> 00:43:43,000
+Hail Rick, Willie, Casey, Mike, Laurel, Dave, and Alain.
+
+570
+00:43:44,160 --> 00:43:45,000
+Hail Columbia.
+
+571
+00:43:55,800 --> 00:43:57,480
+Tonight on Modern Marvel's Wednesday.
+
+572
+00:43:57,960 --> 00:44:01,160
+So, when you think of a warrior, does this kind of look come to mind?
+
+573
+00:44:01,400 --> 00:44:03,280
+I mean, check out the protective headgear.
+
+574
+00:44:03,281 --> 00:44:05,760
+And what about these super sharp woolly gauntlets?
+
+575
+00:44:06,000 --> 00:44:10,560
+Seriously, though, this was standard army gear for some of the toughest fighters in World War II.
+
+576
+00:44:10,820 --> 00:44:14,960
+The Winter Warriors on Modern Marvels, tonight at 8 on the History Channel.
+

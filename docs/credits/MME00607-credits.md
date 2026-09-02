@@ -1,0 +1,46 @@
+# Credit Roll: The Pig (2007)
+**Canonical Episode:** [`MME00607: The Pig`](../episodes/MME00607.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 2007 A&E Television Networks, All Rights Reserved`
+* **Production Company:** Actuality Productions, Inc., History Television Networks Productions, i.e. effects, Alan Ett Music Group
+* **Narrator:** Max Raphael
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Accountant** | Sheridan Liu |
+| **Animation** | i.e. effects |
+| **Assistant Editors** | Alexander Rubinow, Patrick Cashman |
+| **Associate Producer** | Mel Rafford |
+| **Asst Post Coordinator** | Gaylen Kobayashi |
+| **Camera** | Keith Barefoot, Bob Brunk, Bob Cundari, Morgan Schmidt-Feng, John Kabasakalis, Lon Magdich |
+| **Clearance Coordinator** | Aaron Zober |
+| **Coordinators** | Brad Skiles, Maya Sykes |
+| **Created by** | Bruce Nash |
+| **Director of Clearance** | Jerianne Keaney |
+| **Director of Research** | Terrence Hartwell |
+| **Editor** | Harold E. Rouze Jr. |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Ryan Agostino, Ray Day, Ryan Handley, Ken Paulakovich, Charles Rohr, Greg Stidham, Paul Wustrack |
+| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
+| **For The History Channel / Programming Coordinator** | Adam Rosante |
+| **Historical Consultant** | National Pork Board |
+| **Music** | Alan Ett Music Group |
+| **Narrator** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assist** | Joshua Janiak |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Executive** | Paul Dzilvelis |
+| **Production Manager** | Shelia Collins |
+| **Sound Mixer** | Erik Valenzuela |
+| **Supervising Producer** | Ron Nelson |
+| **Written and Produced by** | Jim Hense |
+
+---
+[← Return to Episode Dossier](../episodes/MME00607.md)

@@ -1,0 +1,2448 @@
+1
+00:00:00,001 --> 00:00:04,000
+It's the military's high-tech vanishing act.
+
+2
+00:00:04,001 --> 00:00:07,000
+A masterful blend of contours and composites
+
+3
+00:00:07,001 --> 00:00:10,000
+that makes aircraft invisible to radar.
+
+4
+00:00:10,001 --> 00:00:15,000
+This sky-high sleight of man is now coming down to Earth
+
+5
+00:00:15,001 --> 00:00:18,000
+and setting out on the high seas.
+
+6
+00:00:18,001 --> 00:00:22,000
+Daunting. Deadly. Top secret.
+
+7
+00:00:22,001 --> 00:00:25,000
+Now, Stealth Technology on Modern Marvels.
+
+8
+00:00:30,000 --> 00:00:44,000
+Sleek, lethal, powerful, the F-822 Raptor opens a new era in stealth technology, the revolutionary
+
+9
+00:00:46,760 --> 00:00:51,080
+concept that's changed the face of aerial warfare since the 1990s.
+
+10
+00:00:51,500 --> 00:00:55,380
+Compared to anything else that's out there, this airplane is head and shoulders above
+
+11
+00:00:55,381 --> 00:00:56,081
+those jets.
+
+12
+00:00:56,082 --> 00:00:59,620
+We can get to places very quickly before people would expect us,
+
+13
+00:01:00,060 --> 00:01:02,360
+and with stealth there, they don't know that we're going to be there.
+
+14
+00:01:03,120 --> 00:01:05,000
+The Raptor, like all stealth aircraft,
+
+15
+00:01:05,200 --> 00:01:08,220
+reduces its observability in five distinct areas.
+
+16
+00:01:10,100 --> 00:01:15,120
+Visual, acoustic, heat, infrared, and most of all, radar.
+
+17
+00:01:17,280 --> 00:01:20,220
+Radar, short for radio detecting and ranging,
+
+18
+00:01:20,840 --> 00:01:24,380
+locates an object by transmitting ultra-high frequency radio waves.
+
+19
+00:01:24,381 --> 00:01:28,940
+By measuring the time taken for the radio waves to be reflected back to the transmitter,
+
+20
+00:01:29,760 --> 00:01:32,820
+the location, speed, and size of the object can be determined.
+
+21
+00:01:33,840 --> 00:01:36,440
+One of the best ways to reduce the chance of detection
+
+22
+00:01:36,441 --> 00:01:41,560
+is to create aircraft with the smallest possible radar cross-section, or RCS.
+
+23
+00:01:42,500 --> 00:01:45,920
+An aircraft's RCS can be reduced in two fundamental ways.
+
+24
+00:01:46,460 --> 00:01:49,620
+First, specially designed contours built into the airframe
+
+25
+00:01:49,621 --> 00:01:52,120
+help deflect radar away from the source.
+
+26
+00:01:53,060 --> 00:01:56,060
+The earliest stealth aircraft accomplished this using flat panels.
+
+27
+00:01:56,820 --> 00:01:59,140
+The latest generation of stealth has curved panels.
+
+28
+00:01:59,980 --> 00:02:05,000
+The second way for a plane to minimize its radar cross-section is through the materials that coat the airframe.
+
+29
+00:02:06,100 --> 00:02:10,160
+Those materials help absorb or trap radar signals rather than reflect them.
+
+30
+00:02:11,080 --> 00:02:15,760
+The composition of these radar-absorbing materials, or RAM, remains classified.
+
+31
+00:02:15,761 --> 00:02:24,840
+with the fa-22 raptor stealth technology has come of age manufactured by lockheed martin in
+
+32
+00:02:24,841 --> 00:02:31,480
+partnership with boeing and pratt and whitney it measures more than 62 feet long with a wingspan of
+
+33
+00:02:31,481 --> 00:02:38,760
+more than 44 feet yet its radar signature is smaller than a sparrows in the past achieving
+
+34
+00:02:38,761 --> 00:02:44,540
+such invisibility required compromising aerodynamic performance case in point the
+
+35
+00:02:44,541 --> 00:02:48,140
+Raptor's revolutionary predecessor, the F-117A.
+
+36
+00:02:48,740 --> 00:02:52,640
+But the F-22 is as speedy and nimble as it is stealthy.
+
+37
+00:02:53,060 --> 00:02:58,660
+If you compare the F-22 to a F-117, you'll notice that ours is very smooth, curved shapes,
+
+38
+00:02:58,720 --> 00:03:02,600
+and basically where that helps us is in the aerodynamic capabilities of the airplane.
+
+39
+00:03:02,760 --> 00:03:08,780
+We are much more agile, much more capable than the F-117, which is basically a series
+
+40
+00:03:08,781 --> 00:03:13,560
+of flat plates, which greatly affects their aerodynamic agility capability.
+
+41
+00:03:13,561 --> 00:03:17,560
+Designing a stealth aircraft is really not rocket science.
+
+42
+00:03:17,561 --> 00:03:19,560
+The first thing we do is we take care of shaping.
+
+43
+00:03:19,561 --> 00:03:21,560
+Once you take care of the shaping portion of it,
+
+44
+00:03:21,561 --> 00:03:23,560
+you've done about 90% of the stealth.
+
+45
+00:03:23,561 --> 00:03:25,560
+And in the area of shaping, what we worry about
+
+46
+00:03:25,561 --> 00:03:27,560
+is what we call planform shaping.
+
+47
+00:03:29,560 --> 00:03:32,560
+Planform shaping is an airframe design strategy
+
+48
+00:03:32,561 --> 00:03:35,560
+in which leading edges are aligned along identical angles.
+
+49
+00:03:36,560 --> 00:03:38,560
+The goal is to predict and control the direction
+
+50
+00:03:38,561 --> 00:03:40,560
+that radar waves bounce off surfaces,
+
+51
+00:03:40,561 --> 00:03:45,060
+surfaces, a phenomenon called scattering.
+
+52
+00:03:45,061 --> 00:03:48,160
+The Raptor sports another key element of effective shaping.
+
+53
+00:03:48,161 --> 00:03:51,240
+Unlike conventional planes, which feature protruding navigation and
+
+54
+00:03:51,241 --> 00:03:55,200
+communications gear, the Raptor integrates such equipment seamlessly
+
+55
+00:03:55,201 --> 00:03:57,080
+within its airframe.
+
+56
+00:03:57,081 --> 00:04:00,340
+As you look at the airplane, you notice that it's basically smooth.
+
+57
+00:04:00,341 --> 00:04:03,680
+There are no antennas or anything sticking out of the airplane that you
+
+58
+00:04:03,681 --> 00:04:05,420
+would see on other aircraft.
+
+59
+00:04:05,421 --> 00:04:09,620
+And that's because we've taken all the antennas and sensors on the
+
+60
+00:04:09,621 --> 00:04:13,760
+airplane and they're embedded in the leading edges, trailing edges in the aircraft itself.
+
+61
+00:04:14,540 --> 00:04:18,973
+You can see right here, this large panel is actually our UHF radio antenna.
+
+62
+00:04:18,974 --> 00:04:19,800
+There's one on
+
+63
+00:04:19,801 --> 00:04:21,918
+the bottom here, there's one on top of the wing.
+
+64
+00:04:21,919 --> 00:04:24,080
+If you were to look at an F-15 or F-16, you'd see
+
+65
+00:04:24,081 --> 00:04:28,500
+a blade antenna and that's what they're using, where ours are smooth like this.
+
+66
+00:04:30,000 --> 00:04:35,120
+Using the Raptor's advanced stealth technology, a pilot can soar undetected in enemy airspace
+
+67
+00:04:35,121 --> 00:04:37,060
+long enough to deliver his deadly arsenal
+
+68
+00:04:37,061 --> 00:04:39,260
+and return home unscathed.
+
+69
+00:04:39,680 --> 00:04:41,140
+The reason we carry all the weapons
+
+70
+00:04:41,141 --> 00:04:43,420
+internal is for stealth reasons.
+
+71
+00:04:44,260 --> 00:04:45,020
+With everything
+
+72
+00:04:45,021 --> 00:04:47,080
+internal of the airplane, you don't have an increased
+
+73
+00:04:47,081 --> 00:04:49,100
+radar cross-section, so people can't see you
+
+74
+00:04:49,101 --> 00:04:50,960
+as well. When it comes time to employ
+
+75
+00:04:50,961 --> 00:04:52,980
+the weapon, the doors open
+
+76
+00:04:52,981 --> 00:04:55,120
+quickly, the missile is released, and then the doors
+
+77
+00:04:55,121 --> 00:04:57,160
+close back up to put us back in that stealthy
+
+78
+00:04:57,161 --> 00:04:59,120
+configuration, so people can't
+
+79
+00:04:59,121 --> 00:04:59,821
+see us.
+
+80
+00:05:01,020 --> 00:05:03,140
+Since straight lines or seams on a
+
+81
+00:05:03,141 --> 00:05:04,700
+plane easily reflect radar,
+
+82
+00:05:05,120 --> 00:05:07,780
+Every door on the Raptor features sawtoothed edging,
+
+83
+00:05:08,440 --> 00:05:11,740
+from weapons bays and landing gear to maintenance access panels.
+
+84
+00:05:13,960 --> 00:05:17,520
+The Raptor's cockpit canopy is another triumph of stealth design.
+
+85
+00:05:18,560 --> 00:05:20,440
+Radar can penetrate a conventional canopy
+
+86
+00:05:20,441 --> 00:05:23,520
+and reflect off the cockpit interior and the pilot himself.
+
+87
+00:05:24,800 --> 00:05:27,620
+To counter this effect, previous stealth generations
+
+88
+00:05:27,621 --> 00:05:29,640
+were forced to compromise the pilot's view.
+
+89
+00:05:30,520 --> 00:05:33,760
+But the Raptor's radically redesigned 11-foot-long canopy
+
+90
+00:05:33,761 --> 00:05:36,880
+grants the pilot a 360-degree view.
+
+91
+00:05:40,880 --> 00:05:43,520
+To make sure that we don't get scattering from the cockpit
+
+92
+00:05:43,521 --> 00:05:45,420
+or from the pilot, the pilot's helmet,
+
+93
+00:05:45,860 --> 00:05:48,220
+we put specialized coatings on the canopy
+
+94
+00:05:48,221 --> 00:05:50,360
+that provide it the conductivity
+
+95
+00:05:50,361 --> 00:05:53,340
+so it looks just like a metal plate
+
+96
+00:05:53,341 --> 00:05:55,880
+and energy reflects off of that
+
+97
+00:05:55,881 --> 00:05:58,600
+rather than going into the canopy and reflecting back out.
+
+98
+00:05:58,601 --> 00:06:07,500
+The Raptor's stealth technology is coupled with an advanced propulsion system called Super Cruise.
+
+99
+00:06:07,900 --> 00:06:17,406
+New Pratt & Whitney engines with increased thrust-to-weight ratios enable the Raptor to cruise for extended periods at supersonic speeds without the added thrust of
+
+100
+00:06:17,407 --> 00:06:18,160
+afterburners.
+
+101
+00:06:19,240 --> 00:06:26,920
+Earlier jet fighters, known as legacy aircraft, use afterburners when they need an extra boost for carrier liftoffs or for supersonic speed.
+
+102
+00:06:28,600 --> 00:06:36,720
+Typically, when we go into an afterburner mode on a jet engine, that's accomplished
+
+103
+00:06:36,721 --> 00:06:43,440
+by effectively just squirting jet fuel into the exhaust system and lighting it off.
+
+104
+00:06:43,441 --> 00:06:48,800
+We don't need to do that to be able to go super cruise.
+
+105
+00:06:48,801 --> 00:06:55,800
+Super cruise enables the Raptor to go faster, farther, and longer than any previous jet.
+
+106
+00:06:55,801 --> 00:07:04,480
+The longest a legacy aircraft can continuously fire its afterburners is about 15 minutes.
+
+107
+00:07:06,060 --> 00:07:09,800
+The Raptor can operate in supercruise mode for almost a half hour.
+
+108
+00:07:11,000 --> 00:07:15,360
+A lot more sustainment, a lot more speed on the battlefield over a longer period of time.
+
+109
+00:07:18,000 --> 00:07:23,600
+Between stealth and supercruise, we have the ability of surprise or the capability of surprise.
+
+110
+00:07:23,601 --> 00:07:26,840
+is people don't know we're there and we can get there very quickly,
+
+111
+00:07:27,420 --> 00:07:30,040
+and they just don't have the time to react to what we're doing.
+
+112
+00:07:31,740 --> 00:07:36,620
+Pilots can get a taste of the F-A-22's combat prowess here at the Raptor's Nest.
+
+113
+00:07:37,440 --> 00:07:41,580
+This cockpit demonstrator shows the advantages of stealth technology in combat.
+
+114
+00:07:42,940 --> 00:07:48,540
+We're going to fly a practice mission here to give you an idea of what the F-A-22 is capable of doing.
+
+115
+00:07:49,220 --> 00:07:51,340
+We're at 40,000 feet right now.
+
+116
+00:07:51,341 --> 00:07:55,040
+The Raptor's exact radar signature is classified,
+
+117
+00:07:55,660 --> 00:07:58,820
+so the display features a notional or approximate range.
+
+118
+00:07:59,560 --> 00:08:02,720
+We've got the own ship, the F-822,
+
+119
+00:08:03,080 --> 00:08:05,000
+right here in the middle of this defensive display
+
+120
+00:08:05,001 --> 00:08:09,380
+with this blue notional signature ring around it.
+
+121
+00:08:10,380 --> 00:08:13,880
+That indicates that the airplane is a stealthy airplane.
+
+122
+00:08:14,600 --> 00:08:17,420
+Just a flip of a switch shows the difference stealth makes.
+
+123
+00:08:18,020 --> 00:08:19,500
+With the Raptor's stealth disabled,
+
+124
+00:08:19,501 --> 00:08:22,320
+its radar signature more than doubles in size.
+
+125
+00:08:24,120 --> 00:08:25,440
+But in stealth mode,
+
+126
+00:08:25,880 --> 00:08:27,720
+the Raptor can infiltrate enemy territory,
+
+127
+00:08:28,100 --> 00:08:31,080
+destroy targets, and withdraw before it's detected.
+
+128
+00:08:32,920 --> 00:08:35,000
+Even if confronted by an enemy fighter,
+
+129
+00:08:35,640 --> 00:08:38,160
+the pilot can trust in the Raptor's agility and weapons
+
+130
+00:08:38,161 --> 00:08:41,800
+to get the first look, the first shot, and the first kill.
+
+131
+00:08:43,980 --> 00:08:48,120
+We can rule the day as an air-dominant fighter in this century.
+
+132
+00:08:49,500 --> 00:08:52,940
+This is a fighter pilot's dream.
+
+133
+00:08:55,180 --> 00:08:58,300
+The dream of inventing the ultimate countermeasure to radar
+
+134
+00:08:58,301 --> 00:09:01,060
+dates back to World War II and the Battle of Britain.
+
+135
+00:09:02,640 --> 00:09:06,740
+In 1940, the Nazi juggernaut was poised to control all of Europe.
+
+136
+00:09:07,680 --> 00:09:10,520
+Only England and the Royal Air Force stood in Hitler's way.
+
+137
+00:09:11,480 --> 00:09:15,080
+But the RAF was just one-tenth the size of the German air force,
+
+138
+00:09:15,460 --> 00:09:16,380
+the mighty Luftwaffe.
+
+139
+00:09:19,500 --> 00:09:22,560
+For nearly three months, the RAF and the Luftwaffe
+
+140
+00:09:22,561 --> 00:09:24,740
+waged daily battles above Great Britain
+
+141
+00:09:24,741 --> 00:09:26,040
+for control of the skies.
+
+142
+00:09:28,320 --> 00:09:30,940
+Although Germany had a tremendous numerical advantage
+
+143
+00:09:30,941 --> 00:09:34,240
+in planes and pilots, British tactics and technology
+
+144
+00:09:34,241 --> 00:09:34,941
+were superior.
+
+145
+00:09:37,540 --> 00:09:39,340
+Hermann Goering, the head of the Luftwaffe,
+
+146
+00:09:39,740 --> 00:09:42,160
+thought it was uncanny that the RAF always seemed
+
+147
+00:09:42,161 --> 00:09:45,080
+to be in the ideal position to intercept German air attacks.
+
+148
+00:09:45,700 --> 00:09:46,680
+It wasn't uncanny.
+
+149
+00:09:47,340 --> 00:09:48,040
+It was radar.
+
+150
+00:09:49,500 --> 00:09:54,500
+The RAF had the huge advantage of knowing where and when the Luftwaffe would attack.
+
+151
+00:09:54,501 --> 00:09:59,680
+They could even determine the size, speed, and heading of the attack force and be ready
+
+152
+00:09:59,681 --> 00:10:04,340
+to pounce on it from above.
+
+153
+00:10:04,341 --> 00:10:13,340
+Without control of the skies, Adolf Hitler was forced to abort the invasion of England.
+
+154
+00:10:13,341 --> 00:10:17,520
+Since the end of World War II, radar has made it nearly impossible for warplanes to attack
+
+155
+00:10:17,521 --> 00:10:20,080
+an enemy without being detected well in advance.
+
+156
+00:10:22,560 --> 00:10:25,700
+In the late 50s, the U.S. learned of great advances
+
+157
+00:10:25,701 --> 00:10:27,820
+in Soviet radar and missile technology.
+
+158
+00:10:29,900 --> 00:10:33,420
+The wake-up call occurred in an era when U-2 spy planes
+
+159
+00:10:33,421 --> 00:10:35,020
+were flying over the Soviet Union.
+
+160
+00:10:35,660 --> 00:10:38,600
+The U-2 was one of the great advances in aircraft technology.
+
+161
+00:10:39,380 --> 00:10:43,700
+It was an incredible leap in an ability to fly over an enemy's territory,
+
+162
+00:10:43,701 --> 00:10:46,580
+fly above his ability to see you on radar,
+
+163
+00:10:46,581 --> 00:10:51,440
+fly above his ability to employ fighters against you
+
+164
+00:10:51,441 --> 00:10:53,560
+at a key moment in the Cold War.
+
+165
+00:10:54,040 --> 00:10:58,920
+But on May 1, 1960, U-2 pilot Francis Gary Powers
+
+166
+00:10:58,921 --> 00:11:01,440
+was shot down by a Soviet surface-to-air missile.
+
+167
+00:11:02,140 --> 00:11:03,940
+It marked the first time in history
+
+168
+00:11:03,941 --> 00:11:05,740
+that a missile had brought down a plane.
+
+169
+00:11:07,520 --> 00:11:08,700
+Powers survived the crash
+
+170
+00:11:08,701 --> 00:11:11,080
+and was convicted of espionage in Moscow.
+
+171
+00:11:13,040 --> 00:11:15,320
+U-2 flights over Russia were halted.
+
+172
+00:11:15,321 --> 00:11:23,500
+Two things, I think, really precipitated us to really go after stealth as a matter of national priority,
+
+173
+00:11:24,120 --> 00:11:31,900
+and that was the downing of the U-2s and the realization that the penetrating bombers that we had
+
+174
+00:11:31,901 --> 00:11:35,380
+could no longer penetrate the critical Soviet Union airspace.
+
+175
+00:11:37,540 --> 00:11:41,420
+Soviet advances in radar and surface-to-air missile technology
+
+176
+00:11:41,421 --> 00:11:46,400
+now made it harder for the U.S. Air Force's Strategic Air Command, or SAC,
+
+177
+00:11:46,700 --> 00:11:48,900
+to accomplish one of its primary missions,
+
+178
+00:11:50,020 --> 00:11:51,600
+penetrating Soviet airspace
+
+179
+00:11:51,601 --> 00:11:55,220
+and reaching key military targets deep within the Soviet Union.
+
+180
+00:12:01,560 --> 00:12:04,500
+Leaders in the Pentagon reasoned that if the Soviet Union
+
+181
+00:12:04,501 --> 00:12:08,620
+no longer feared the U.S. Air Force's ability to retaliate after an attack,
+
+182
+00:12:09,180 --> 00:12:11,980
+it might be tempted to launch a nuclear first strike.
+
+183
+00:12:13,000 --> 00:12:17,220
+It became a top U.S. priority to develop tactics or planes
+
+184
+00:12:17,221 --> 00:12:21,620
+that would circumvent Soviet radar defenses and shift the balance of power.
+
+185
+00:12:22,960 --> 00:12:27,200
+In the 1970s, you had the Air Force saying,
+
+186
+00:12:27,201 --> 00:12:32,600
+we want a capability to be able to go into a hostile area without radar seeing us.
+
+187
+00:12:33,560 --> 00:12:38,320
+In cooperation with the Defense Advanced Research Projects Agency, or DARPA,
+
+188
+00:12:38,620 --> 00:12:41,060
+a scientific bureau within the Defense Department,
+
+189
+00:12:41,660 --> 00:12:44,260
+the Air Force initiated a special research program.
+
+190
+00:12:45,300 --> 00:12:48,280
+It asked the leading military aircraft manufacturers
+
+191
+00:12:48,281 --> 00:12:50,380
+to present proposals for a warplane
+
+192
+00:12:50,381 --> 00:12:52,680
+with the smallest possible radar signature.
+
+193
+00:12:54,540 --> 00:12:57,440
+Ironically, one of the companies not asked to enter the competition
+
+194
+00:12:57,441 --> 00:13:01,320
+was the most respected secret think tank in the aerospace industry,
+
+195
+00:13:02,280 --> 00:13:03,420
+Lockheed Skunk Works.
+
+196
+00:13:04,400 --> 00:13:07,940
+Skunk Works was named after a foul-smelling secret moonshine still
+
+197
+00:13:07,941 --> 00:13:10,540
+featured in Al Capp's Lil Abner comic strip.
+
+198
+00:13:12,440 --> 00:13:15,120
+It had earned a reputation as the preeminent creator
+
+199
+00:13:15,121 --> 00:13:17,100
+of exotic high-performance aircraft,
+
+200
+00:13:17,560 --> 00:13:19,600
+including jets like the high-flying U-2.
+
+201
+00:13:21,400 --> 00:13:23,160
+We were not asked to participate.
+
+202
+00:13:23,520 --> 00:13:25,960
+Basically, they went to the fighter houses of the day.
+
+203
+00:13:26,080 --> 00:13:27,580
+People had fighters in production.
+
+204
+00:13:27,740 --> 00:13:28,440
+We didn't.
+
+205
+00:13:28,540 --> 00:13:30,240
+We were not currently building a fighter.
+
+206
+00:13:30,960 --> 00:13:33,160
+So we were not in the ballgame, so to speak.
+
+207
+00:13:33,161 --> 00:13:38,020
+But Skunk Works had a secret.
+
+208
+00:13:38,800 --> 00:13:44,940
+It had already ventured into low observable technology for their number one client, the Central Intelligence Agency.
+
+209
+00:13:45,920 --> 00:13:51,700
+Amazingly, throughout the 1950s, the CIA had its own air force of sophisticated spy planes.
+
+210
+00:13:52,600 --> 00:13:56,500
+Their greatest spy plane was the SR-71 Blackbird.
+
+211
+00:13:56,501 --> 00:14:03,280
+It was capable of speeds in excess of 2,000 miles per hour at altitudes over 80,000 feet.
+
+212
+00:14:04,080 --> 00:14:06,300
+It was specially shaped to defeat radar.
+
+213
+00:14:07,100 --> 00:14:10,940
+Its wings, tail, and fuselage were loaded with special composite materials
+
+214
+00:14:10,941 --> 00:14:14,000
+and iron ferrites that absorbed radar energy.
+
+215
+00:14:15,020 --> 00:14:18,960
+In addition, the leading edges of its wings were lined with a radar-absorbing structure,
+
+216
+00:14:19,360 --> 00:14:21,800
+or RAS, that trapped radar energy.
+
+217
+00:14:21,801 --> 00:14:30,780
+Skunk Works' problem was that all the Blackbird's design features were classified and property of the CIA.
+
+218
+00:14:31,780 --> 00:14:38,620
+But Ben Rich, the head of Skunk Works, persisted and eventually won the CIA's permission to reveal the secret data.
+
+219
+00:14:39,600 --> 00:14:43,440
+Lockheed was permitted to enter the stealth or low-observable competition.
+
+220
+00:14:43,980 --> 00:14:47,740
+Now all Skunk Works had to do to win was build an invisible airplane.
+
+221
+00:14:48,720 --> 00:14:51,500
+Fortunately, they had someone who thought he could do it.
+
+222
+00:14:51,800 --> 00:14:58,560
+The march of stealth technology began with one revolutionary aircraft,
+
+223
+00:14:59,160 --> 00:15:02,040
+born of a secrecy as black as its titanium airframe.
+
+224
+00:15:02,900 --> 00:15:05,920
+What the right flyer was to aviation in its earliest days,
+
+225
+00:15:06,500 --> 00:15:09,740
+the F-117 Nighthawk has been to stealth technology.
+
+226
+00:15:10,580 --> 00:15:13,940
+From a historical standpoint, people are going to look back on the F-117,
+
+227
+00:15:14,360 --> 00:15:17,040
+and it will certainly be a milestone.
+
+228
+00:15:17,041 --> 00:15:21,140
+And it's just amazing to me that the thing was designed over 30 years ago,
+
+229
+00:15:21,141 --> 00:15:25,820
+and it is still, bar none, the best out there at what it does.
+
+230
+00:15:26,200 --> 00:15:30,880
+And you need somebody to go in and provide precision munitions.
+
+231
+00:15:31,220 --> 00:15:34,160
+There's nobody else to call, in my opinion, other than the F-117.
+
+232
+00:15:34,860 --> 00:15:36,800
+Developed by Lockheed Skunk Works,
+
+233
+00:15:37,240 --> 00:15:40,900
+the F-117 was the first stealth aircraft to be tested in combat.
+
+234
+00:15:41,760 --> 00:15:43,640
+On December 19, 1989,
+
+235
+00:15:44,300 --> 00:15:46,980
+eight Nighthawks took part in Operation Just Cause,
+
+236
+00:15:47,400 --> 00:15:48,920
+the military invasion of Panama.
+
+237
+00:15:51,140 --> 00:15:56,780
+But it was Operation Desert Storm in 1991 that brought these fighters public acclaim.
+
+238
+00:15:57,480 --> 00:16:03,120
+In nearly 1,300 missions, they accounted for 40% of all targets eliminated in the war.
+
+239
+00:16:05,200 --> 00:16:10,200
+Despite the presence of hundreds of anti-aircraft artillery batteries and surface-to-air missiles,
+
+240
+00:16:10,720 --> 00:16:14,460
+not a single stealth fighter was lost, proving the old axiom,
+
+241
+00:16:14,960 --> 00:16:16,580
+you can't hit what you can't see.
+
+242
+00:16:21,140 --> 00:16:29,300
+Lieutenant Colonel Joseph Salata was based with the 37th Tactical Fighter Wing Night Stalker Squadron in Saudi Arabia.
+
+243
+00:16:29,860 --> 00:16:34,180
+He flew the F-117 in the first wave of black jets to attack Baghdad.
+
+244
+00:16:34,500 --> 00:16:39,060
+We sort of believed in stealth technology, but we hadn't really proven it at the time.
+
+245
+00:16:39,180 --> 00:16:45,860
+We had done it in radar tests and so forth, but never in actual combat when there were actual bullets flying at you.
+
+246
+00:16:46,120 --> 00:16:50,220
+So there was probably just a little bit of nervousness there.
+
+247
+00:16:51,140 --> 00:16:54,040
+Until we saw what happened on the first night,
+
+248
+00:16:54,580 --> 00:16:56,680
+and we saw how successful we really could be,
+
+249
+00:16:56,681 --> 00:17:01,240
+and saw that the Skunk Works really did design a great stealth airplane.
+
+250
+00:17:02,680 --> 00:17:07,600
+The F-117s destroyed Saddam Hussein's key command and control centers,
+
+251
+00:17:08,040 --> 00:17:10,200
+the heart of his integrated air defense system,
+
+252
+00:17:10,640 --> 00:17:12,200
+and vital communication centers.
+
+253
+00:17:13,080 --> 00:17:18,500
+In just one night, the black jets all but eliminated Iraq's ability to wage a coordinated war.
+
+254
+00:17:18,501 --> 00:17:23,400
+We had mission success rates that were unprecedented.
+
+255
+00:17:24,180 --> 00:17:27,420
+You could almost guarantee that a target was going to be taken out by a stealth
+
+256
+00:17:27,421 --> 00:17:32,820
+as long as we didn't have problems with weather or maintenance on our aircraft or something like that.
+
+257
+00:17:33,400 --> 00:17:37,880
+As long as we got to the target, we had a very high success rate of killing that target.
+
+258
+00:17:39,020 --> 00:17:42,320
+The mysterious black jets sent shockwaves around the globe,
+
+259
+00:17:42,760 --> 00:17:44,920
+putting military planners and governments on notice
+
+260
+00:17:44,921 --> 00:17:47,360
+that every defensive radar system in the world
+
+261
+00:17:47,361 --> 00:17:49,520
+was now useless against stealth technology.
+
+262
+00:17:50,200 --> 00:17:52,600
+This really changes the nature of warfare.
+
+263
+00:17:52,960 --> 00:17:54,800
+To be able to go into a foreign country,
+
+264
+00:17:55,480 --> 00:17:57,400
+be able to destroy a target
+
+265
+00:17:57,401 --> 00:17:59,680
+without them even knowing you're there
+
+266
+00:17:59,681 --> 00:18:00,720
+until the target's destroyed.
+
+267
+00:18:01,120 --> 00:18:03,160
+They didn't know we destroyed those targets.
+
+268
+00:18:03,280 --> 00:18:05,420
+They didn't know these planes were in-country
+
+269
+00:18:05,421 --> 00:18:07,540
+until there was smoke over Baghdad.
+
+270
+00:18:08,860 --> 00:18:11,660
+Twelve years later, in Operation Iraqi Freedom,
+
+271
+00:18:11,661 --> 00:18:14,660
+the F-117 once again ruled the skies.
+
+272
+00:18:14,661 --> 00:18:18,660
+As far as what was it like to fly the stealth
+
+273
+00:18:18,661 --> 00:18:21,660
+in Operation Iraqi Freedom, well, I'll be honest,
+
+274
+00:18:21,661 --> 00:18:24,660
+I was a little bit nervous the first night.
+
+275
+00:18:24,661 --> 00:18:26,660
+And so you rely on your training,
+
+276
+00:18:26,661 --> 00:18:28,660
+and everything just kind of starts to flow,
+
+277
+00:18:28,661 --> 00:18:30,660
+just like a normal type of sortie.
+
+278
+00:18:30,661 --> 00:18:32,660
+Throughout that whole campaign,
+
+279
+00:18:32,661 --> 00:18:35,660
+over 100 sorties and, you know,
+
+280
+00:18:35,661 --> 00:18:38,660
+500 or 600 hours of flying,
+
+281
+00:18:38,661 --> 00:18:44,740
+The aircraft never took a scratch, and we were able to have about a 92% hit rate.
+
+282
+00:18:44,741 --> 00:18:51,240
+Every combat mission that I flew in OIF, I never felt like I was being tracked.
+
+283
+00:18:51,241 --> 00:18:55,840
+And I think from that standpoint, LO paid for itself right there.
+
+284
+00:18:55,841 --> 00:18:59,420
+You can get in there and get out and get your job done.
+
+285
+00:18:59,421 --> 00:19:06,520
+The combat success of the F-117 has set the standard for all low observable technology.
+
+286
+00:19:06,521 --> 00:19:08,700
+The plane's origins date back to the early 70s,
+
+287
+00:19:09,040 --> 00:19:15,260
+when the Pentagon asked military aircraft makers to submit designs for a fighter jet with reduced radar detectability.
+
+288
+00:19:16,620 --> 00:19:22,920
+Those with the best design would win a contract to build two demonstration planes, codenamed Have Blue.
+
+289
+00:19:23,920 --> 00:19:31,460
+In 1975, Dennis Overholzer was a 36-year-old software designer specializing in electromagnetic problems.
+
+290
+00:19:32,400 --> 00:19:36,040
+In early May, Skunk Works project manager Dick Shearer
+
+291
+00:19:36,041 --> 00:19:38,180
+asked him to solve an interesting problem.
+
+292
+00:19:40,200 --> 00:19:41,920
+Dick Shearer then asked me,
+
+293
+00:19:42,140 --> 00:19:44,720
+how should we shape an airplane to make it invisible?
+
+294
+00:19:46,160 --> 00:19:49,920
+And I says, well, I says, it's rather straightforward
+
+295
+00:19:49,921 --> 00:19:53,420
+from a radar cross-section viewpoint.
+
+296
+00:19:53,680 --> 00:19:56,100
+I says, you just make it out of a lot of flat panels.
+
+297
+00:19:56,880 --> 00:19:58,460
+You tilt the flat panels over,
+
+298
+00:19:58,660 --> 00:20:00,940
+and you sweep the edges on the panels.
+
+299
+00:20:01,460 --> 00:20:04,860
+and you put this together with a bunch of these flat panels.
+
+300
+00:20:06,060 --> 00:20:09,400
+Well, Dick said, you've got to be kidding me, he said.
+
+301
+00:20:09,840 --> 00:20:11,280
+Nobody says that.
+
+302
+00:20:11,400 --> 00:20:13,040
+I said, well, you asked.
+
+303
+00:20:13,740 --> 00:20:17,220
+Overholzer created new computer software called Echo One.
+
+304
+00:20:17,980 --> 00:20:21,040
+It calculated how each surface of a plane would scatter radar
+
+305
+00:20:21,041 --> 00:20:23,800
+or electromagnetic waves that struck its surface.
+
+306
+00:20:24,760 --> 00:20:29,380
+About a year later, the march toward stealth was advanced by Overholzer's mentor,
+
+307
+00:20:29,381 --> 00:20:33,440
+a retired former Skunk Works mathematician named Bill Schroeder.
+
+308
+00:20:34,260 --> 00:20:37,860
+He came across an obscure scientific work written 15 years earlier
+
+309
+00:20:37,861 --> 00:20:41,500
+by a little-known Russian physicist named Peter Ufimtsev.
+
+310
+00:20:42,880 --> 00:20:46,720
+Ufimtsev had shown how to predict the directions a geometric configuration
+
+311
+00:20:46,721 --> 00:20:49,020
+would scatter electromagnetic radiation.
+
+312
+00:20:50,740 --> 00:20:54,740
+For Skunk Works, it was like finding the Rosetta Stone of stealth technology.
+
+313
+00:20:54,741 --> 00:21:01,100
+It now had the design principles that would lead to the F-117.
+
+314
+00:21:01,101 --> 00:21:06,680
+The aircraft was designed 30 years ago by Lockheed Martin in the late 70s.
+
+315
+00:21:07,040 --> 00:21:13,100
+And what they utilized was a type of stealth technology called a faceted shape design.
+
+316
+00:21:14,100 --> 00:21:18,840
+And what that does is confuses any kind of radar signal.
+
+317
+00:21:18,841 --> 00:21:23,100
+and consequently we're able to maintain, for the most part, invisible
+
+318
+00:21:23,101 --> 00:21:26,680
+against anybody that may be trying to detect our presence out there.
+
+319
+00:21:27,560 --> 00:21:33,420
+The discovery of Upimcev's work accelerated Skunk Works' plans for a flat panel stealth design.
+
+320
+00:21:34,060 --> 00:21:35,860
+It looked promising in theory.
+
+321
+00:21:36,560 --> 00:21:39,680
+The only question now was how to make it fly.
+
+322
+00:21:39,681 --> 00:21:48,860
+To this day, experimental stealth aircraft are born under a cloak of secrecy.
+
+323
+00:21:49,600 --> 00:21:53,540
+In October 2002, Boeing unveiled its bird of prey.
+
+324
+00:21:54,320 --> 00:21:58,420
+The once highly classified project ran from 1992 to 1999,
+
+325
+00:21:58,980 --> 00:22:01,540
+testing technologies that are now industry standards.
+
+326
+00:22:03,700 --> 00:22:07,800
+Two more recently revealed top secret programs are a stealth helicopter,
+
+327
+00:22:07,801 --> 00:22:14,760
+the RAH-66 Comanche, and an unmanned surveillance vehicle called the Dark Star.
+
+328
+00:22:15,460 --> 00:22:20,300
+But no aircraft's evolution was ever as closely guarded as the F-117s.
+
+329
+00:22:20,680 --> 00:22:26,800
+In the race for stealth technology in the mid-70s, Lockheed Martin put its money on an ambitious design.
+
+330
+00:22:28,120 --> 00:22:32,260
+Skunk Works designers created a sketch for a plane made completely of flat sides.
+
+331
+00:22:32,261 --> 00:22:38,920
+From above, the plane resembled an arrowhead or a diamond that had been beveled in four
+
+332
+00:22:38,921 --> 00:22:41,500
+primary directions.
+
+333
+00:22:41,501 --> 00:22:47,760
+My good friend Dick Cantrell was head of aerodynamics and of course, as one might expect, when Dick
+
+334
+00:22:47,761 --> 00:22:53,600
+first saw some of the stealth designs we were coming up with, specifically our first diamond
+
+335
+00:22:53,601 --> 00:23:00,140
+shaped object, which he named the Hopeless Diamond, he had some serious doubts about
+
+336
+00:23:00,141 --> 00:23:05,640
+it and he came to me in kind of a confidence off to the side one day and he said to me,
+
+337
+00:23:05,760 --> 00:23:12,223
+he said, Dennis, is this really as low a cross section as you're claiming?
+
+338
+00:23:12,224 --> 00:23:13,620
+And I said, yes,
+
+339
+00:23:13,660 --> 00:23:14,360
+it is.
+
+340
+00:23:14,361 --> 00:23:18,620
+Dick thought for a moment and then he says, well, he says, in that case, he says,
+
+341
+00:23:18,740 --> 00:23:20,458
+we'll teach it to fly.
+
+342
+00:23:20,459 --> 00:23:26,080
+In 1976, Lockheed took a 10-foot model of their plane to the Air Force's
+
+343
+00:23:26,081 --> 00:23:27,266
+radar test range.
+
+344
+00:23:27,267 --> 00:23:32,360
+The results of the tests stunned both DARPA and the Air Force and won the
+
+345
+00:23:32,361 --> 00:23:33,399
+development contract.
+
+346
+00:23:33,400 --> 00:23:37,160
+Skunk Works had presented them with an aircraft that had the radar signature
+
+347
+00:23:37,161 --> 00:23:41,014
+of an insect. The results were dramatic, to say the least.
+
+348
+00:23:41,015 --> 00:23:43,140
+Two things happened immediately.
+
+349
+00:23:43,440 --> 00:23:50,320
+The first of which is this fairly unclassified white world program immediately became black and
+
+350
+00:23:50,321 --> 00:23:51,520
+was classified top secret.
+
+351
+00:23:51,860 --> 00:23:53,860
+And black means in this context,
+
+352
+00:23:54,000 --> 00:23:56,560
+not just top secret, but unacknowledged.
+
+353
+00:23:57,100 --> 00:23:59,000
+It was as black as the Manhattan Project.
+
+354
+00:24:00,180 --> 00:24:03,420
+The other thing is DARPA and the Air Force and Lockheed
+
+355
+00:24:03,421 --> 00:24:06,460
+got together and mutually funded the development
+
+356
+00:24:06,461 --> 00:24:10,160
+of two low-observable technology demonstration aircraft,
+
+357
+00:24:10,280 --> 00:24:11,320
+the half-blue aircraft.
+
+358
+00:24:13,080 --> 00:24:15,780
+The challenge now is to build a real airplane
+
+359
+00:24:15,781 --> 00:24:18,060
+loaded with all kinds of non-stealth things,
+
+360
+00:24:18,061 --> 00:24:21,760
+like a cockpit, engines, exhausts, and a pilot.
+
+361
+00:24:23,440 --> 00:24:26,440
+The final half-blue design was like nothing ever built,
+
+362
+00:24:26,980 --> 00:24:29,740
+perhaps because it was the first ever conceived by electrical
+
+363
+00:24:29,741 --> 00:24:31,560
+rather than aeronautical engineers.
+
+364
+00:24:32,560 --> 00:24:37,940
+The plane was 39.8 feet long and weighed around 12,000 pounds.
+
+365
+00:24:39,460 --> 00:24:44,060
+The leading edges of the wings were swept back to a razor-sharp 70 degrees.
+
+366
+00:24:44,061 --> 00:24:52,820
+In late November 1977, the engineering team flew Hav Blue to a secret airstrip in the Nevada desert.
+
+367
+00:24:53,420 --> 00:24:58,060
+It was unloaded at night and placed in a hangar to conceal it from the prying eyes of Soviet satellites.
+
+368
+00:24:59,780 --> 00:25:04,860
+On December 1, 1977, Hav Blue took to the skies for the first time.
+
+369
+00:25:05,580 --> 00:25:08,320
+The fact that the plane even flew was an engineering miracle.
+
+370
+00:25:08,321 --> 00:25:17,540
+The instability of the aircraft in pitch, yaw, and roll, of course, pitch being the longitudinal force of the aircraft, and roll, and yaw, it's side slip.
+
+371
+00:25:18,140 --> 00:25:26,160
+So the parameters that control those motions of the aircraft were very, very critical in the development of the airplane.
+
+372
+00:25:26,520 --> 00:25:34,640
+The original half-blue airplane was the first aircraft to ever fly that was unstable in all three axes.
+
+373
+00:25:34,641 --> 00:25:40,760
+And without fly-by-wire flight control systems, there would not have been a HavBlue airplane.
+
+374
+00:25:42,820 --> 00:25:49,020
+Fly-by-wire flight control replaces mechanical controls with wires, sensors, computers, and actuators.
+
+375
+00:25:49,640 --> 00:25:53,600
+In the decades since the flight system helped get HavBlue off the ground,
+
+376
+00:25:54,240 --> 00:25:56,920
+it's become standard equipment on all stealth aircraft.
+
+377
+00:25:56,921 --> 00:26:05,840
+And these are the pedal tubes that the aircraft uses to tell it where it's at, how high it is, how fast it's going.
+
+378
+00:26:06,280 --> 00:26:10,020
+All four of these are hooked up to their own individual computer systems.
+
+379
+00:26:10,920 --> 00:26:18,980
+Even though the pilot of a fly-by-wire system still uses the standard stick and pedals, the computers assist by making constant adjustments.
+
+380
+00:26:18,981 --> 00:26:29,240
+On November 16, 1978, the Air Force ordered five full-scale prototypes, or YF-117As.
+
+381
+00:26:31,340 --> 00:26:36,500
+Skunk Works now had to adapt their design to account for such non-stealth items as a bomb bay,
+
+382
+00:26:37,000 --> 00:26:41,500
+a weapons targeting system, radio antennas, and still keep it stealthy.
+
+383
+00:26:41,920 --> 00:26:44,900
+The big question was, could it be done?
+
+384
+00:26:44,901 --> 00:26:51,880
+Stealth technology's prowess in the skies is matched by astronomical budgets.
+
+385
+00:26:52,640 --> 00:26:59,880
+Current production plans for the F-A-22 Raptor total 279 jets at $133 million each.
+
+386
+00:27:00,280 --> 00:27:06,780
+In response to such high costs, the Defense Department commissioned the construction of the F-35 Joint Strike Fighter,
+
+387
+00:27:07,340 --> 00:27:11,140
+a stealth warplane that can be adapted to meet the needs of each branch of the military.
+
+388
+00:27:11,141 --> 00:27:18,580
+Whether designed for conventional airstrips, aircraft carriers, or even vertical liftoff and landing,
+
+389
+00:27:19,400 --> 00:27:25,320
+the F-35 brings stealth capability to the field for between $28 and $38 million per plane.
+
+390
+00:27:27,880 --> 00:27:33,820
+Such flexibility and affordability were unimaginable when history's first stealth aircraft was in development.
+
+391
+00:27:33,821 --> 00:27:43,980
+The first prototype of the stealth jet, the YF-117A, was completed in the spring of 1981.
+
+392
+00:27:44,840 --> 00:27:50,860
+It weighed 52,000 pounds and was 65 feet long, much larger than half blue.
+
+393
+00:27:52,300 --> 00:27:57,760
+The wider shape of the plane met the Air Force's requirement that it carry up to 5,000 pounds of munitions.
+
+394
+00:27:58,720 --> 00:28:04,980
+To accommodate the internal bomb bay, the prototype's swept wings were much broader than the original half blue.
+
+395
+00:28:05,820 --> 00:28:08,200
+The F-117 has a similar structure today.
+
+396
+00:28:09,480 --> 00:28:12,700
+This is commonly referred to as a mile 12.
+
+397
+00:28:13,180 --> 00:28:19,360
+Anyway, this is where our ordnance hang on, and it's in the down configuration.
+
+398
+00:28:19,361 --> 00:28:24,600
+It's called a trapeze, and it actually will swing up into the airplane, and then they'll close the doors.
+
+399
+00:28:24,601 --> 00:28:29,720
+And that reduces our exposure to the radar that are looking at us.
+
+400
+00:28:30,200 --> 00:28:35,220
+So we come in, the door's open, the bomb comes off, the door's closed very, very quickly.
+
+401
+00:28:36,760 --> 00:28:41,820
+A desert camouflage scheme disguised the prototype's facets during daytime flight testing.
+
+402
+00:28:42,540 --> 00:28:47,720
+The Air Force requested that all future planes be painted black for their intended role as night fighters.
+
+403
+00:28:48,520 --> 00:28:52,020
+The F-117 is designed and has operated at night.
+
+404
+00:28:52,021 --> 00:28:55,880
+This goes back to the black world origins of the F-117.
+
+405
+00:28:56,020 --> 00:28:58,420
+It continues to this day. It is a night fighter.
+
+406
+00:28:58,920 --> 00:29:01,540
+It proves that stealth technology does work.
+
+407
+00:29:02,160 --> 00:29:06,320
+The F-117 is an incredible aircraft that has far exceeded any expectations.
+
+408
+00:29:07,980 --> 00:29:10,420
+The Air Force ordered 29 planes.
+
+409
+00:29:11,160 --> 00:29:17,520
+Eventually, Lockheed would produce 59 F-117s at a cost of $42.6 million per plane.
+
+410
+00:29:17,521 --> 00:29:24,320
+One of the hardest challenges was the fact that we wanted this airplane to look just like the hopeless diamond.
+
+411
+00:29:24,840 --> 00:29:28,280
+We wanted perfectly flat angled surfaces to appear to the radar.
+
+412
+00:29:29,540 --> 00:29:35,600
+But to fly it, we had to take in air, we had to exhaust air, we had to have lights on the wingtips,
+
+413
+00:29:35,740 --> 00:29:42,540
+we had to have a canopy for the pilot, we had to have an aperture for the infrared system to see through.
+
+414
+00:29:42,541 --> 00:29:47,740
+So we ended up creating solutions, very innovative solutions to all of those challenges.
+
+415
+00:29:51,560 --> 00:29:54,660
+Among the most innovative of these was the platypus tail.
+
+416
+00:29:55,080 --> 00:30:00,400
+What the platypus does is shield the exhaust system of the airplane, which is very flat and very wide.
+
+417
+00:30:00,840 --> 00:30:05,700
+All of the air that comes out of the engine is hot and washes over the platypus exhaust,
+
+418
+00:30:06,040 --> 00:30:09,920
+which is basically constructed of high-temperature ceramic brick.
+
+419
+00:30:09,921 --> 00:30:14,440
+and that brick is almost identical to the space shuttle tiles.
+
+420
+00:30:15,860 --> 00:30:21,640
+Instead of funneling all of the exhausts in a small location,
+
+421
+00:30:21,760 --> 00:30:26,700
+what they did is they spread it out and they utilized a special composite material
+
+422
+00:30:26,701 --> 00:30:29,380
+on the aft end of the tailpipes, if you will,
+
+423
+00:30:29,560 --> 00:30:34,680
+and what that does is also help to minimize the exhaust temperature.
+
+424
+00:30:34,681 --> 00:30:38,040
+So hiding not just from the radar lookers,
+
+425
+00:30:38,041 --> 00:30:41,120
+but also anybody that may be trying to see us
+
+426
+00:30:41,121 --> 00:30:42,980
+from an infrared standpoint.
+
+427
+00:30:44,200 --> 00:30:46,900
+To further decrease the prototype's heat signature,
+
+428
+00:30:47,620 --> 00:30:49,340
+engineers eliminated afterburners,
+
+429
+00:30:49,560 --> 00:30:52,120
+which raised engine temperature by about 30%.
+
+430
+00:30:52,121 --> 00:30:58,220
+In October 1979, the Air Force formed
+
+431
+00:30:58,221 --> 00:31:01,600
+the 4450th Tactical Fighter Wing near Tonopah,
+
+432
+00:31:02,060 --> 00:31:03,940
+a remote town in the Nevada desert.
+
+433
+00:31:03,941 --> 00:31:08,040
+The U.S. Air Force gave Colonel Bob Jackson
+
+434
+00:31:08,041 --> 00:31:09,900
+the task of assembling the elite group
+
+435
+00:31:09,901 --> 00:31:12,420
+that would make the F-117s operational.
+
+436
+00:31:14,460 --> 00:31:16,200
+Lieutenant General Dennis R. Larson
+
+437
+00:31:16,201 --> 00:31:17,900
+was a young captain when he was recruited
+
+438
+00:31:17,901 --> 00:31:18,900
+for the secret program.
+
+439
+00:31:19,820 --> 00:31:21,440
+His first interview with Colonel Jackson
+
+440
+00:31:21,441 --> 00:31:22,860
+was typical of those conducted
+
+441
+00:31:22,861 --> 00:31:24,260
+with the program's other pilots.
+
+442
+00:31:26,900 --> 00:31:28,440
+When I walked in the door, he said,
+
+443
+00:31:28,520 --> 00:31:29,700
+I want to hire you for a job.
+
+444
+00:31:30,280 --> 00:31:32,940
+All I can tell you is that it's a great job.
+
+445
+00:31:33,540 --> 00:31:35,180
+I can't tell you where you're going to live,
+
+446
+00:31:35,460 --> 00:31:36,780
+except for it's going to be in the desert.
+
+447
+00:31:37,680 --> 00:31:39,540
+I can't tell you whether you're going to be flying.
+
+448
+00:31:40,780 --> 00:31:42,120
+And that's all I can tell you.
+
+449
+00:31:42,540 --> 00:31:43,420
+Are you interested?
+
+450
+00:31:44,360 --> 00:31:48,080
+And I waited about two seconds, I think, or something like that,
+
+451
+00:31:48,100 --> 00:31:49,160
+and says, I'll take the job.
+
+452
+00:31:50,380 --> 00:31:53,340
+At Tonopah, pilots were introduced to the black jets
+
+453
+00:31:53,341 --> 00:31:55,140
+in a scene right out of a Hollywood movie.
+
+454
+00:31:55,940 --> 00:31:59,840
+Normally we tried to show the pilots the airplane in the dark at night
+
+455
+00:31:59,841 --> 00:32:02,280
+with the hangar doors just partially opened,
+
+456
+00:32:02,281 --> 00:32:06,580
+big American flag over the top of the airplane hanging from the top of the hangar,
+
+457
+00:32:07,200 --> 00:32:11,140
+and your heart just kind of got up into your throat.
+
+458
+00:32:12,680 --> 00:32:16,280
+For security reasons, pilots were forced to sleep during the day
+
+459
+00:32:16,281 --> 00:32:18,820
+and fly at night for the first six years.
+
+460
+00:32:19,600 --> 00:32:22,940
+The people who worked on that fighter when it was still in the black world
+
+461
+00:32:22,941 --> 00:32:25,380
+referred to this as the vampire convention
+
+462
+00:32:25,381 --> 00:32:28,900
+because they would have to rush home, get the aircraft in the hangar,
+
+463
+00:32:28,901 --> 00:32:30,520
+and be back by sunrise.
+
+464
+00:32:31,160 --> 00:32:35,540
+The F-117A came out of the black on November 10, 1988,
+
+465
+00:32:36,280 --> 00:32:39,840
+when the Defense Department released this purposely fuzzy photo to the public.
+
+466
+00:32:41,080 --> 00:32:46,440
+Just 12 days later, the public would get its first look at another top-secret stealth plane,
+
+467
+00:32:47,040 --> 00:32:48,000
+the B-2 bomber.
+
+468
+00:32:48,720 --> 00:32:51,560
+By that time, the B-2 had been in development for seven years.
+
+469
+00:32:52,720 --> 00:32:58,640
+It started in 1981, when Northrop's Advanced Systems Division won an Air Force competition
+
+470
+00:32:58,641 --> 00:33:01,340
+to design a plane that could fly long distances,
+
+471
+00:33:01,900 --> 00:33:05,240
+carry a large payload, and invade an enemy's air defense system.
+
+472
+00:33:06,860 --> 00:33:08,540
+In short, a stealth bomber.
+
+473
+00:33:14,380 --> 00:33:17,460
+Thanks to a decade of advances in computer technology,
+
+474
+00:33:17,960 --> 00:33:21,520
+it was now possible to project the results of Ufimtsev's computations
+
+475
+00:33:21,521 --> 00:33:23,400
+over curved or rounded surfaces.
+
+476
+00:33:24,220 --> 00:33:26,880
+Instead of flat surfaces like the F-117,
+
+477
+00:33:26,881 --> 00:33:29,880
+the stealth bomber would have a smooth, curved shape.
+
+478
+00:33:30,880 --> 00:33:36,120
+The more aerodynamic shape would allow the B-2 to increase its lift and lessen its drag,
+
+479
+00:33:36,600 --> 00:33:41,840
+enhancing its performance as a long-range aircraft required to carry 40,000 pounds of bombs,
+
+480
+00:33:42,280 --> 00:33:43,740
+6,000 nautical miles.
+
+481
+00:33:45,200 --> 00:33:51,580
+The F-117A could employ two weapons against a precision target anywhere in the world at any time.
+
+482
+00:33:52,200 --> 00:33:54,560
+The B-2 is the next generation of that,
+
+483
+00:33:54,561 --> 00:34:00,620
+And you've gone from being able to destroy two targets to destroying up to 16 targets at one time.
+
+484
+00:34:02,100 --> 00:34:05,280
+Northrop based its design on a large flying wing,
+
+485
+00:34:05,760 --> 00:34:11,480
+an aerodynamic concept pioneered 30 years earlier by the company's legendary founder, Jack Northrop.
+
+486
+00:34:13,220 --> 00:34:19,480
+In the late 1940s, Northrop had unveiled his innovative giant four-engine bomber, the B-35,
+
+487
+00:34:20,140 --> 00:34:22,420
+as well as the jet-powered YB-49.
+
+488
+00:34:24,560 --> 00:34:30,100
+But control systems of that era had trouble making the flying wing a stable bombing platform,
+
+489
+00:34:30,460 --> 00:34:32,620
+and Washington lost interest in the concept.
+
+490
+00:34:38,140 --> 00:34:45,500
+Based on the B-2 mission requirements, Northrop engineers determined that the ideal width for the B-2 was 172 feet,
+
+491
+00:34:46,000 --> 00:34:49,220
+the identical width of Jack Northrop's original flying wing.
+
+492
+00:34:49,221 --> 00:34:59,320
+One remarkable innovation on the B-2 was the extensive use of carbon fiber epoxy composites.
+
+493
+00:35:00,640 --> 00:35:05,960
+Lighter than aluminum and stronger than steel, these composites also help absorb radar.
+
+494
+00:35:07,120 --> 00:35:12,260
+The outboard section of the aircraft included a 65-foot section made entirely of composites.
+
+495
+00:35:12,960 --> 00:35:16,560
+In fact, the B-2 is made of more pure carbon fiber material than metal.
+
+496
+00:35:19,220 --> 00:35:27,400
+Both the F-117 and the B-2 reach top speeds of about 650 miles per hour, just shy of Mach 1.
+
+497
+00:35:28,680 --> 00:35:31,180
+Neither carries guns or air-to-air missiles.
+
+498
+00:35:31,740 --> 00:35:35,040
+They depend on stealth for survival, not speed or weapons.
+
+499
+00:35:36,060 --> 00:35:40,060
+Both planes showcase stealth technology's role as a force multiplier.
+
+500
+00:35:40,880 --> 00:35:44,620
+Force multiplier is the ability to destroy a target,
+
+501
+00:35:44,621 --> 00:35:48,840
+to inflict the intended damage on an enemy with a smaller amount of force.
+
+502
+00:35:49,220 --> 00:35:58,300
+In Operation Desert Storm, you have one airplane, the F-117, able to destroy one target, guaranteed with precision accuracy.
+
+503
+00:35:58,820 --> 00:36:07,399
+When you go on to the next level of technology, you have the B-2, where now with one airplane, you can destroy 16 targets, which really changes the whole nature of
+
+504
+00:36:07,400 --> 00:36:08,100
+warfare.
+
+505
+00:36:08,520 --> 00:36:17,480
+We are asked to do a number of different types of missions, one of which is to take down enemy radars, enemy SAM sites, and things like that.
+
+506
+00:36:17,481 --> 00:36:20,620
+What that does is it enables other aircraft that may not
+
+507
+00:36:20,720 --> 00:36:25,120
+be as stealthy but may carry a lot more ordnance
+
+508
+00:36:25,220 --> 00:36:28,060
+fly through that breach in the armor
+
+509
+00:36:28,160 --> 00:36:29,900
+and then get their job done too.
+
+510
+00:36:32,100 --> 00:36:34,900
+Stealth's mastery of the skies has become legendary.
+
+511
+00:36:35,000 --> 00:36:37,700
+But that's not the only place this cutting edge technology
+
+512
+00:36:37,800 --> 00:36:39,100
+is making a big splash.
+
+513
+00:36:39,101 --> 00:36:39,909
+flash.
+
+514
+00:36:39,910 --> 00:36:52,180
+In the mid-1980s, while still top secret itself, the F-117 spawned a surprising descendant,
+
+515
+00:36:52,181 --> 00:36:57,820
+the Sea Shadow, stealth's first sea craft. Operated by Lockheed Martin for Naval Sea
+
+516
+00:36:57,821 --> 00:37:02,220
+Systems Command, it has a radar signature no larger than a dinghy's.
+
+517
+00:37:02,221 --> 00:37:08,281
+One of the most characteristic things about this ship is its faceted hull.
+
+518
+00:37:08,282 --> 00:37:09,100
+Everything
+
+519
+00:37:09,101 --> 00:37:14,240
+is at an angle, nothing presents a flat, broadside view anywhere.
+
+520
+00:37:15,940 --> 00:37:18,300
+Because the sea shadow operates in the water,
+
+521
+00:37:18,820 --> 00:37:20,440
+it must contend not only with radar,
+
+522
+00:37:20,920 --> 00:37:23,960
+but also with a second detection system, sonar.
+
+523
+00:37:25,940 --> 00:37:28,180
+Short for sound navigation ranging,
+
+524
+00:37:28,960 --> 00:37:31,120
+sonar sends an acoustic pulse through the water.
+
+525
+00:37:31,900 --> 00:37:33,680
+When the sound waves encounter an obstacle,
+
+526
+00:37:33,681 --> 00:37:36,200
+they reflect or echo back to the source.
+
+527
+00:37:36,960 --> 00:37:40,860
+Sonar calculates distances by measuring the time it takes for that echo to return.
+
+528
+00:37:42,600 --> 00:37:46,480
+A faceted surface proved to be as stealthy in the water as in the sky.
+
+529
+00:37:47,180 --> 00:37:50,300
+The sea shadow can slip through both radar and sonar.
+
+530
+00:37:50,840 --> 00:37:53,920
+But in open water, such total success is a liability.
+
+531
+00:37:54,800 --> 00:37:59,520
+Ocean waves show up on radar, and the sea shadow left an open hole in the water pattern.
+
+532
+00:38:00,740 --> 00:38:05,600
+Sea Shadow's designers at Lockheed Martin solved this problem, but they're not telling how.
+
+533
+00:38:06,200 --> 00:38:15,200
+That's no surprise for a vessel born under a cloak of secrecy.
+
+534
+00:38:15,201 --> 00:38:21,200
+Like the F-117, the Sea Shadow was built under top secret security.
+
+535
+00:38:21,201 --> 00:38:26,200
+Components were delivered at night and lowered through the retractable roof of this barge.
+
+536
+00:38:26,201 --> 00:38:32,200
+In 1985, the entire barge transported the vessel to a secret test range for sea trials.
+
+537
+00:38:32,201 --> 00:38:36,165
+The same barge as Sea Shadow's home today, moored at the U.S.
+
+538
+00:38:36,166 --> 00:38:37,920
+Naval Station in San Diego.
+
+539
+00:38:39,280 --> 00:38:42,940
+Sea Shadow is what's commonly referred to as a SWATH hull design.
+
+540
+00:38:43,560 --> 00:38:47,640
+SWATH stands for Small Water Plane Area Twin Hull Vessel.
+
+541
+00:38:49,040 --> 00:38:51,800
+The Sea Shadow's hull design is key to its stealth.
+
+542
+00:38:53,180 --> 00:38:57,560
+Standard V-shaped hulls create a ship's most evident signature, its wake.
+
+543
+00:38:58,400 --> 00:39:01,500
+WEEKS can be detected not only by radar and sonar operators,
+
+544
+00:39:01,880 --> 00:39:06,100
+but also by aerial surveillance teams, leaving ships vulnerable to attack.
+
+545
+00:39:08,180 --> 00:39:12,660
+Sea Shadow's unusual hull is specially designed to avoid creating this telltale signature.
+
+546
+00:39:13,320 --> 00:39:19,220
+At the end of each strut is a lower hull section with the length of the ship and about 10 feet in diameter.
+
+547
+00:39:20,040 --> 00:39:24,780
+The only part that actually cuts the surface of the water are the two struts that go to the lower hulls,
+
+548
+00:39:24,781 --> 00:39:28,120
+and they're very long and narrow and pointed on the ends,
+
+549
+00:39:28,360 --> 00:39:31,200
+so they create little to no wake as we go through the water.
+
+550
+00:39:34,020 --> 00:39:37,200
+The near-constant vibration of engines and generators,
+
+551
+00:39:37,660 --> 00:39:39,240
+a dead giveaway to sonar detection,
+
+552
+00:39:39,780 --> 00:39:42,260
+presents another challenge to stealth technology at sea.
+
+553
+00:39:43,360 --> 00:39:46,160
+We have vibration eliminators in all piping systems.
+
+554
+00:39:46,380 --> 00:39:49,160
+Most have two angles to them.
+
+555
+00:39:49,161 --> 00:39:53,280
+You have a vertical vibration eliminator and a horizontal eliminator.
+
+556
+00:39:53,281 --> 00:39:58,780
+We'll go around the corner and we will see another type of system that eliminates the
+
+557
+00:39:58,781 --> 00:40:01,220
+vibration from the equipment itself.
+
+558
+00:40:01,221 --> 00:40:05,820
+This very large engine is mounted on four vibration eliminators.
+
+559
+00:40:05,821 --> 00:40:10,900
+Those are in the foundation of the unit and they prevent the vibration and the noise from
+
+560
+00:40:10,901 --> 00:40:15,660
+this large diesel engine from transmitting to the hull and thus into the water.
+
+561
+00:40:15,661 --> 00:40:19,520
+Those four mounts are located at each corner.
+
+562
+00:40:19,521 --> 00:40:21,900
+You can see that they're a thick substance.
+
+563
+00:40:21,901 --> 00:40:24,560
+They're in elastomeric rubber.
+
+564
+00:40:24,561 --> 00:40:27,440
+The bolts go through those to prevent the machinery
+
+565
+00:40:27,441 --> 00:40:31,180
+from tilting, but yet the machinery is totally isolated
+
+566
+00:40:31,181 --> 00:40:35,300
+from the steel hull of the ship through that cushion.
+
+567
+00:40:35,301 --> 00:40:38,100
+Inside and out, every element of the sea shadow
+
+568
+00:40:38,101 --> 00:40:40,380
+contributes to maximum stealth.
+
+569
+00:40:40,381 --> 00:40:42,960
+Topside hatches have sawtoothed edges
+
+570
+00:40:42,961 --> 00:40:45,480
+and retractable cleats for mooring lines.
+
+571
+00:40:45,481 --> 00:40:49,960
+If we were in a situation where we might want to clean
+
+572
+00:40:49,961 --> 00:40:53,580
+the deck and reduce our signature.
+
+573
+00:40:53,581 --> 00:40:55,920
+We can dismount all the antennas from topside
+
+574
+00:40:55,921 --> 00:40:58,400
+and stow them below.
+
+575
+00:40:58,401 --> 00:41:00,020
+But normally when we're at sea, we
+
+576
+00:41:00,021 --> 00:41:01,380
+don't want to operate that way.
+
+577
+00:41:01,381 --> 00:41:03,620
+We want to be seen by other vessels,
+
+578
+00:41:03,621 --> 00:41:05,160
+and see other vessels.
+
+579
+00:41:05,161 --> 00:41:09,140
+And we need these sensors and antennas to do that.
+
+580
+00:41:09,141 --> 00:41:10,940
+Design elements from the sea shadow
+
+581
+00:41:10,941 --> 00:41:14,580
+are now being built into a new generation of naval vessels.
+
+582
+00:41:14,581 --> 00:41:17,320
+These warships with reduced radar signatures
+
+583
+00:41:17,321 --> 00:41:19,680
+signify that stealth is coming of age at sea.
+
+584
+00:41:20,220 --> 00:41:22,880
+Some of the technology that I know is carried over
+
+585
+00:41:22,881 --> 00:41:25,180
+is its faceted hull,
+
+586
+00:41:25,680 --> 00:41:28,880
+and you'll see that now in DDG-51,
+
+587
+00:41:29,080 --> 00:41:30,680
+Arleigh Burke-class destroyers,
+
+588
+00:41:30,880 --> 00:41:32,180
+the LPD-17,
+
+589
+00:41:32,980 --> 00:41:34,840
+very clean superstructures,
+
+590
+00:41:35,560 --> 00:41:38,020
+some gentle angles to the ships.
+
+591
+00:41:38,680 --> 00:41:41,520
+A lot of that is derived,
+
+592
+00:41:41,740 --> 00:41:43,000
+has been derived from the testing
+
+593
+00:41:43,001 --> 00:41:44,100
+that was done on Sea Shadow.
+
+594
+00:41:44,101 --> 00:41:50,500
+Time will tell if stealth's impact on naval warfare will be as dramatic as its effect in the skies.
+
+595
+00:41:51,780 --> 00:41:57,560
+On the sea and in the air, stealth tech may progress beyond what's now imaginable.
+
+596
+00:41:59,140 --> 00:42:03,460
+The continual research and development of stealth technology is absolutely essential.
+
+597
+00:42:03,740 --> 00:42:07,960
+We've almost developed a level of complacency because we've been so good for so long.
+
+598
+00:42:08,180 --> 00:42:12,700
+We've had the best aircraft in the world, but you have to continue to work to have that.
+
+599
+00:42:12,701 --> 00:42:19,200
+When we go to war, we don't want to go to war with somebody who has a near capability to us or even an equal capability.
+
+600
+00:42:19,780 --> 00:42:23,360
+We want to have overwhelming power. We want to have air dominance.
+
+601
+00:42:23,880 --> 00:42:25,680
+And stealth technology is essential to that.
+
+602
+00:42:26,260 --> 00:42:34,960
+I think it's important that research and development, places like the Skunk Works, continue to reach out, continue to take risk, and sometimes fail.
+
+603
+00:42:35,520 --> 00:42:41,380
+And I think the real issue today is we have become such a risk-averse society.
+
+604
+00:42:41,381 --> 00:42:44,480
+failure is just not accepted,
+
+605
+00:42:45,260 --> 00:42:47,780
+that by virtue of not taking those risks,
+
+606
+00:42:48,140 --> 00:42:50,440
+we are not going to discover the next technologies
+
+607
+00:42:50,441 --> 00:42:51,580
+that need to be discovered
+
+608
+00:42:51,581 --> 00:42:55,520
+to truly make our force affordable and invincible.
+
+609
+00:42:56,720 --> 00:42:59,700
+And don't forget that we didn't see the F-117
+
+610
+00:42:59,701 --> 00:43:01,760
+until a decade after it first flew.
+
+611
+00:43:02,780 --> 00:43:05,160
+Who knows what amazing stealth technology
+
+612
+00:43:05,161 --> 00:43:06,900
+may already be out there.
+

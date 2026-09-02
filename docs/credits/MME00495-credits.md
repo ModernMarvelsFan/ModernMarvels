@@ -1,0 +1,47 @@
+# Credit Roll: Brewing (2005)
+**Canonical Episode:** [`MME00495: Brewing`](../episodes/MME00495.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `Produced by ACTUALITY PRODUCTIONS, INC. / History Television Network Productions / © 2005 A&E Television Network All Rights Reserved`
+* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Network
+* **Narrator:** JOHN KNAPP, MAX RAPHAEL
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Accountants** | APRIL BROWN, LISA CASELLA, SHERIDAN LIU, PAULETTE PANTOJA |
+| **Animated Maps by** | RED GYPSY ANIMATION |
+| **Animated Photos by** | ADAM GOODWIN |
+| **Animation by** | RANDALL RICKERT |
+| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
+| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
+| **Camera** | MANUEL BRUECKL, GUY DEFEIS, DANIEL DESLOGE, RIC J. EDEVANE, LON MAGDICH, JED UDALL |
+| **Clearance Coordinators** | LAWRENCE GIVENS III, AARON ZOBER |
+| **Clearance Supervisor** | KATIE DEL CORE |
+| **Coordinators** | BONI OSMANI, BRAD SKILES |
+| **Created by** | BRUCE NASH |
+| **Director of Research** | ALLISON BOON |
+| **Edited by** | BRUCE HEPLER |
+| **Executive Producer** | DON CAMBOU |
+| **Field Audio** | ROB MAERZ, BRIGITTE SCHALLER, RON STROBEL, TONY WEST |
+| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
+| **Line Producer** | PAUL DZILVELIS |
+| **Music by** | ALAN ETT MUSIC GROUP |
+| **Narrated by** | MAX RAPHAEL |
+| **Online Editor** | JOHN PRICE |
+| **Post Assistants** | GAYLEN KOBAYASHI, KEVIN McCARTNEY |
+| **Post Coordinator** | TERRENCE HARTWELL |
+| **Post Producer** | TIM KNAUFF |
+| **Producer** | BRUCE NASH |
+| **Production Controller** | DANI ESLIN |
+| **Production Manager** | SHELIA COLLINS |
+| **Researchers** | ULDIS BALODIS, JOHN KNAPP |
+| **Sound Mixer** | ED THACKER |
+| **Voice Over Coordinator** | JOHN KNAPP |
+| **Written and Produced by** | ANTHONY LACQUES |
+
+---
+[← Return to Episode Dossier](../episodes/MME00495.md)

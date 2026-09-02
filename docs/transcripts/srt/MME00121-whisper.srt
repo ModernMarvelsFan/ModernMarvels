@@ -1,0 +1,2280 @@
+1
+00:00:00,001 --> 00:00:14,001
+They're made of rope, wood, stone, iron, steel, and the human impulse to reach out and explore.
+
+2
+00:00:20,760 --> 00:00:24,280
+Now, Bridges on Modern Marvels.
+
+3
+00:00:47,571 --> 00:00:50,520
+We walk a world surrounded by everyday wonders.
+
+4
+00:00:51,340 --> 00:00:53,040
+None greater than our bridges.
+
+5
+00:00:54,540 --> 00:00:57,740
+There is something impressive about a bridge, any bridge.
+
+6
+00:00:58,240 --> 00:00:59,960
+A problem gracefully solved.
+
+7
+00:01:00,000 --> 00:01:01,480
+A barrier overcome.
+
+8
+00:01:02,040 --> 00:01:03,460
+A passage achieved.
+
+9
+00:01:06,200 --> 00:01:10,700
+Bridges are such an elegant resolution of the age-old human struggle with nature.
+
+10
+00:01:11,380 --> 00:01:13,800
+A bridge does not conquer, exploit, or destroy.
+
+11
+00:01:14,580 --> 00:01:17,760
+It simply, literally, overcomes.
+
+12
+00:01:21,140 --> 00:01:24,880
+Maybe that's why people seem to have an instinctual fondness for bridges.
+
+13
+00:01:25,560 --> 00:01:27,900
+They represent a good side of human nature.
+
+14
+00:01:27,901 --> 00:01:38,760
+a desire to reach across to unify to connect riches bring together what is separate not just
+
+15
+00:01:38,761 --> 00:01:44,820
+in the physical plane but in what you could even call a spiritual way to make it possible for us
+
+16
+00:01:44,821 --> 00:01:50,620
+to do what i think is at the core of of of what it means to be a human which is which is to explore
+
+17
+00:01:50,621 --> 00:01:55,820
+and to explore one's world and to expand to reach out i think this very simple thing which it is
+
+18
+00:01:55,821 --> 00:02:00,600
+linking two points, you see, and permitting people go across, has such an unbelievable
+
+19
+00:02:00,601 --> 00:02:03,820
+power, and it has such an unbelievable force.
+
+20
+00:02:03,821 --> 00:02:07,040
+I mean, it has even almost a religious sense,
+
+21
+00:02:07,180 --> 00:02:11,800
+you see, and this force, this is something very elementar that everybody can understand.
+
+22
+00:02:12,780 --> 00:02:18,560
+The sheer beauty of bridges, their perfect proportions and elegant lines, is also part
+
+23
+00:02:18,561 --> 00:02:19,764
+of their appeal.
+
+24
+00:02:19,765 --> 00:02:25,180
+People love to look at the bridges, and there's something about the math
+
+25
+00:02:25,181 --> 00:02:27,600
+that is suddenly physically portrayed.
+
+26
+00:02:28,180 --> 00:02:29,960
+It's, I guess, mathematical poetry.
+
+27
+00:02:30,880 --> 00:02:34,880
+And the math is portrayed in that graceful cantilever
+
+28
+00:02:34,881 --> 00:02:40,120
+and the amazing arch that will only work in a pure mathematical way.
+
+29
+00:02:40,560 --> 00:02:44,480
+Anything else, anything that looks improper will make it fall down.
+
+30
+00:02:45,420 --> 00:02:49,480
+Bridges do on occasion fall down, even pretty ones.
+
+31
+00:02:50,320 --> 00:02:52,180
+The Tacoma Narrows Bridge, for example,
+
+32
+00:02:52,340 --> 00:02:54,660
+which came apart at the seams in 1940,
+
+33
+00:02:54,661 --> 00:02:57,400
+in a 42-mile-an-hour windstorm
+
+34
+00:02:57,401 --> 00:03:01,100
+is perhaps the most spectacular 20th century bridge disaster.
+
+35
+00:03:01,920 --> 00:03:09,620
+What happened was a complex phenomenon called flutter
+
+36
+00:03:09,621 --> 00:03:15,880
+in which different kinds of motion begin to complement each other
+
+37
+00:03:15,881 --> 00:03:17,840
+and each one excites the other
+
+38
+00:03:17,841 --> 00:03:25,360
+so that every move gets to be just a little bit larger than the previous one.
+
+39
+00:03:26,320 --> 00:03:29,860
+And there is no turning back once this process starts.
+
+40
+00:03:30,220 --> 00:03:34,580
+In structures, Murphy's Law is a rigorous law.
+
+41
+00:03:34,820 --> 00:03:37,680
+If it can fall down, it will fall down.
+
+42
+00:03:38,180 --> 00:03:39,060
+This bridge could.
+
+43
+00:03:40,480 --> 00:03:44,700
+How do bridge designers go about planning these enormous, complex structures
+
+44
+00:03:44,701 --> 00:03:46,880
+in such a way as to avoid a collapse?
+
+45
+00:03:47,500 --> 00:03:50,800
+What are some of the key questions they must ask in developing a design?
+
+46
+00:03:52,620 --> 00:03:55,600
+How much does the bridge itself weigh? It has to hold itself up.
+
+47
+00:03:56,160 --> 00:03:59,940
+It's one of the first things that a bridge engineer will calculate.
+
+48
+00:04:00,160 --> 00:04:01,240
+Can it hold itself up?
+
+49
+00:04:01,460 --> 00:04:04,160
+And then there's the live load of everything that you put on the bridge.
+
+50
+00:04:04,780 --> 00:04:06,480
+And you have to think worst case.
+
+51
+00:04:06,481 --> 00:04:11,480
+What if there's a terrible traffic jam and there was a truck demonstration
+
+52
+00:04:12,040 --> 00:04:14,160
+and every lane is filled with trucks?
+
+53
+00:04:15,100 --> 00:04:18,360
+Then you say, what if I also added all the environmental loads?
+
+54
+00:04:18,440 --> 00:04:22,100
+What if two feet of snow suddenly fell on the bridge at that time?
+
+55
+00:04:22,680 --> 00:04:23,700
+So that's the challenge.
+
+56
+00:04:23,701 --> 00:04:31,240
+It's the challenge of gravity, of defying gravity, of holding these people, these vehicles, the snow and everything up in the air.
+
+57
+00:04:32,800 --> 00:04:41,960
+The Romans were the first great bridge builders, erecting so many bridges, it was said, that one could traverse the Roman Empire without fording a single stream.
+
+58
+00:04:41,961 --> 00:04:48,960
+All Roman bridges are arch bridges, the dominant bridge type in the world until the 19th century.
+
+59
+00:04:48,961 --> 00:04:53,960
+The arch is a wonderfully stable form that works through compression.
+
+60
+00:04:53,961 --> 00:04:58,960
+That is, any pressure or weight on top of the arch is driven straight down toward the ground,
+
+61
+00:04:58,961 --> 00:05:03,960
+where it is resisted, reinforcing the stones that make up the arch itself.
+
+62
+00:05:03,961 --> 00:05:07,960
+The way that an arch is built up is a series of stones.
+
+63
+00:05:07,961 --> 00:05:13,860
+stones the french had a wonderful word for it they were called vous soires stones that that had
+
+64
+00:05:13,861 --> 00:05:20,660
+angles to them and the way that you would build an arch you would build a wooden what we call
+
+65
+00:05:20,661 --> 00:05:28,260
+false work that would resemble your finished arch and then you would begin laying the stones up
+
+66
+00:05:28,261 --> 00:05:35,040
+till you got to the top that top stone is called the keystone once the keystone's in place you can
+
+67
+00:05:35,041 --> 00:05:42,480
+remove your scaffolding in your form and your structure will stay in place without falling down.
+
+68
+00:05:43,440 --> 00:05:49,480
+Rome's most amazing bridges were its aqueducts, like the Pond du Gard in Nîmes, France, composed
+
+69
+00:05:49,481 --> 00:05:56,880
+of three tiers towering 155 feet above the river Gard and helping transport water no less than 31
+
+70
+00:05:56,881 --> 00:05:57,581
+miles.
+
+71
+00:05:57,582 --> 00:06:04,800
+Incredibly, the Voussoirs on the bottom and middle tiers of this great structure were cut so
+
+72
+00:06:04,801 --> 00:06:08,133
+perfectly, but they were laid in place without mortar.
+
+73
+00:06:08,134 --> 00:06:10,540
+Compression alone has held this perfect
+
+74
+00:06:10,541 --> 00:06:13,620
+aqueduct together for 2,000 years.
+
+75
+00:06:14,360 --> 00:06:19,460
+What I think is wonderful in the Roman bridges, it is this unbelievable sense of gravity.
+
+76
+00:06:20,080 --> 00:06:26,080
+You see, they are all works, you know, who stays in the landscape with the same naturality
+
+77
+00:06:26,081 --> 00:06:27,207
+as the mountains.
+
+78
+00:06:27,208 --> 00:06:31,780
+You see, they are also all working on compression, not under tension.
+
+79
+00:06:31,781 --> 00:06:35,720
+working on compression is working like the pyramid
+
+80
+00:06:35,721 --> 00:06:38,800
+and sometimes they even discover mortar
+
+81
+00:06:38,801 --> 00:06:40,860
+mortar is a weak path
+
+82
+00:06:40,861 --> 00:06:43,620
+so we will do bridges without mortar
+
+83
+00:06:43,621 --> 00:06:45,700
+just putting stones against stone
+
+84
+00:06:45,701 --> 00:06:49,260
+so it is also a very deep sense of purity
+
+85
+00:06:49,261 --> 00:06:53,500
+and a very deep sense of the artistic achievement
+
+86
+00:06:53,501 --> 00:06:57,680
+When Rome fell in the 5th century AD
+
+87
+00:06:57,681 --> 00:06:59,840
+the art of bridge building fell with it
+
+88
+00:06:59,841 --> 00:07:04,840
+Many centuries would pass before another great bridge project was even attempted.
+
+89
+00:07:04,841 --> 00:07:11,840
+The legendary London Bridge across the Thames, built over 33 years at the end of the 12th century,
+
+90
+00:07:11,841 --> 00:07:13,973
+was a glorious mess of a bridge.
+
+91
+00:07:13,974 --> 00:07:18,840
+Clumsy and ugly by Roman standards, but a bold breakthrough for its time.
+
+92
+00:07:20,840 --> 00:07:26,840
+935 feet long, London Bridge clopped across the Thames with no less than 19 arches
+
+93
+00:07:26,841 --> 00:07:32,640
+arches and massive piers that were half as wide as the arch spans. The piers were so
+
+94
+00:07:32,641 --> 00:07:37,120
+thick that they created a dangerous whirlpool in the river, and going under the bridge by
+
+95
+00:07:37,121 --> 00:07:39,799
+boat was called shooting the bridge.
+
+96
+00:07:39,800 --> 00:07:44,040
+Despite its drawbacks, this was a great and vital bridge,
+
+97
+00:07:44,600 --> 00:07:49,397
+crammed with vendors, fashionable apartments, even a gallows.
+
+98
+00:07:49,398 --> 00:07:51,520
+And it was a workhorse, the
+
+99
+00:07:51,521 --> 00:07:54,822
+only bridge over the Thames for 600 years.
+
+100
+00:07:54,823 --> 00:07:58,360
+It was finally torn down and replaced in 1831
+
+101
+00:07:58,361 --> 00:08:01,455
+by the heavily trafficked New London Bridge.
+
+102
+00:08:01,456 --> 00:08:04,760
+That bridge didn't last nearly so long, sinking
+
+103
+00:08:04,761 --> 00:08:09,658
+dangerously into the Thames and being dismantled in 1968.
+
+104
+00:08:09,659 --> 00:08:12,580
+Bizarrely, the historic bridge was
+
+105
+00:08:12,581 --> 00:08:17,360
+put up for sale and bought by an American who was building a resort town in Arizona
+
+106
+00:08:17,361 --> 00:08:18,960
+called Lake Havasu.
+
+107
+00:08:19,660 --> 00:08:22,380
+He figured London Bridge would be a great asset.
+
+108
+00:08:24,000 --> 00:08:27,940
+And there she rests, a great bridge with a storied past.
+
+109
+00:08:30,000 --> 00:08:34,460
+The Renaissance brought the first real advances in bridge design since Rome,
+
+110
+00:08:34,920 --> 00:08:37,880
+as architects explored ways to elongate the arch.
+
+111
+00:08:39,240 --> 00:08:43,440
+Arches became continually more and more refined
+
+112
+00:08:43,441 --> 00:08:48,460
+and more and more bold in their proportions.
+
+113
+00:08:49,140 --> 00:08:54,000
+An arch which is completely circular is very safe.
+
+114
+00:08:54,920 --> 00:08:58,900
+And if you note, the Roman arches are indeed circular.
+
+115
+00:08:59,620 --> 00:09:03,100
+As you want to span longer distances,
+
+116
+00:09:03,580 --> 00:09:05,420
+you open the arch more and more
+
+117
+00:09:05,421 --> 00:09:08,280
+and the risk of having it break in the middle
+
+118
+00:09:08,281 --> 00:09:11,740
+or kick out at the foot increases.
+
+119
+00:09:11,741 --> 00:09:18,100
+but gradually builders did become more and more audacious
+
+120
+00:09:18,101 --> 00:09:22,280
+and arches did get a different proportion.
+
+121
+00:09:22,700 --> 00:09:24,980
+They became lower and longer gradually.
+
+122
+00:09:26,700 --> 00:09:29,080
+Many of the great bridges of Paris
+
+123
+00:09:29,081 --> 00:09:32,980
+were built by a pioneering bridge designer named Jean-Rodolphe Peronet
+
+124
+00:09:32,981 --> 00:09:35,220
+who perfected the Masonry Arch Bridge.
+
+125
+00:09:36,940 --> 00:09:39,500
+Peronet made a revolutionary discovery about arches.
+
+126
+00:09:40,140 --> 00:09:43,420
+Their thrust is not entirely downward, but also lateral.
+
+127
+00:09:45,040 --> 00:09:48,060
+Peers, it turned out, could be much thinner than anyone thought,
+
+128
+00:09:48,660 --> 00:09:50,460
+one-fifth the size of those of Rome,
+
+129
+00:09:50,900 --> 00:09:54,240
+so long as solid abutments picked up the stress on either side.
+
+130
+00:09:56,620 --> 00:09:59,260
+Where you get more of an elliptical or flat arch,
+
+131
+00:09:59,460 --> 00:10:01,520
+you begin to develop thrust,
+
+132
+00:10:01,521 --> 00:10:05,060
+in other words, the tendency of that arch to want to push out.
+
+133
+00:10:05,061 --> 00:10:08,520
+and so you've got to come up with another solution
+
+134
+00:10:08,521 --> 00:10:10,200
+restrain that thrust
+
+135
+00:10:10,201 --> 00:10:13,420
+and the solution is massive abutments
+
+136
+00:10:13,421 --> 00:10:15,180
+a massive amount of stone
+
+137
+00:10:15,181 --> 00:10:17,860
+that's going to counteract the tendency of that arch
+
+138
+00:10:17,861 --> 00:10:20,420
+to want to move out.
+
+139
+00:10:21,600 --> 00:10:24,340
+Pironet designed the Pont de la Concorde in Paris
+
+140
+00:10:24,341 --> 00:10:26,700
+in 1791 when he was 82.
+
+141
+00:10:27,700 --> 00:10:29,720
+The bridge which stretches across the Seine
+
+142
+00:10:29,721 --> 00:10:31,220
+in a few elegant strides
+
+143
+00:10:31,221 --> 00:10:33,220
+is considered his masterpiece.
+
+144
+00:10:35,060 --> 00:10:42,700
+Since ancient times, stone had been the only material one could use in building a major span.
+
+145
+00:10:43,400 --> 00:10:47,920
+At the end of the 18th century, all that was about to change.
+
+146
+00:10:51,040 --> 00:10:53,680
+Bridges have always had a spiritual connotation.
+
+147
+00:10:53,681 --> 00:11:00,460
+The official Latin title for the Pope is the Pontifex Maximus, or the Supreme Builder of the Bridge.
+
+148
+00:11:01,640 --> 00:11:04,540
+Bridges will return on Modern Marvels.
+
+149
+00:11:05,060 --> 00:11:14,520
+Until the end of the 18th century, bridges had been pretty much constructed of two materials, wood and stone.
+
+150
+00:11:16,440 --> 00:11:24,040
+In 1779, in the industrial midlands of England, a new material was introduced, cast iron.
+
+151
+00:11:25,640 --> 00:11:31,460
+Iron Bridge, as it was called, spanned the Severn River outside the tiny village of Colbrookdale,
+
+152
+00:11:31,461 --> 00:11:35,360
+where it augured a revolution in bridge construction and design.
+
+153
+00:11:37,940 --> 00:11:40,240
+Small, quiet, delicate.
+
+154
+00:11:41,000 --> 00:11:45,220
+This is the forerunner of the iron and steel monsters of the 19th and 20th centuries.
+
+155
+00:11:45,880 --> 00:11:49,100
+Not just arch bridges, but suspension spans as well.
+
+156
+00:11:50,860 --> 00:11:55,220
+A local foundry commissioned iron bridge is a way of showing off what cast iron,
+
+157
+00:11:55,221 --> 00:11:58,860
+which was stronger, more flexible, and cheaper than stone could do.
+
+158
+00:11:58,861 --> 00:12:06,580
+Ironically, though it pointed to the future, Iron Bridge was erected like a bridge from the past.
+
+159
+00:12:06,980 --> 00:12:15,740
+It is a beautifully made bridge, and what's interesting about it is if you look at the way they worked the iron, they worked the iron as though it were wood.
+
+160
+00:12:16,800 --> 00:12:21,300
+And the construction of the bridge is a mirror of wood construction.
+
+161
+00:12:21,700 --> 00:12:24,720
+It was as though they were just learning how to use the material.
+
+162
+00:12:24,721 --> 00:12:34,180
+The bridge, which consists of five arching ribs and 800 pieces of iron, is held together like woodwork, without a single bolt.
+
+163
+00:12:35,140 --> 00:12:38,300
+Instead, tongue and groove fittings and screws keep it in place.
+
+164
+00:12:40,340 --> 00:12:43,700
+At first, Iron Bridge was admired more as a novelty than a breakthrough.
+
+165
+00:12:44,460 --> 00:12:48,880
+But when it was the only bridge to survive a flood on the Severn, engineers took note.
+
+166
+00:12:48,881 --> 00:12:55,960
+Indeed, the Manai Strait Bridge, built off the coast of Wales in 1826,
+
+167
+00:12:56,380 --> 00:13:01,520
+used iron chains to hold up a record-setting 580-foot suspension span.
+
+168
+00:13:03,180 --> 00:13:05,880
+Designed by renowned engineer Thomas Telford,
+
+169
+00:13:06,440 --> 00:13:09,620
+this was the world's first large-scale suspension bridge,
+
+170
+00:13:09,621 --> 00:13:15,180
+a quantum leap that launched an era of suspension supremacy that continues to this day.
+
+171
+00:13:15,181 --> 00:13:20,120
+The principle behind the suspension bridge is simple
+
+172
+00:13:20,121 --> 00:13:24,680
+Cables anchored in an abutment on one end are strung over two towers
+
+173
+00:13:24,681 --> 00:13:27,640
+And then anchored in an abutment on the other end
+
+174
+00:13:27,641 --> 00:13:34,100
+The suspended cables support a roadway and deck by way of smaller vertical cables or suspenders
+
+175
+00:13:34,101 --> 00:13:39,640
+Suspension bridges existed before iron, but on a very small scale
+
+176
+00:13:39,641 --> 00:13:42,920
+With hemp and fibers used to hold up the bridge
+
+177
+00:13:45,180 --> 00:13:54,280
+Telford fashioned 16 wrought iron I-bar chains made up of hundreds of small iron bars bolted together at either end, like a bicycle chain.
+
+178
+00:13:54,920 --> 00:14:00,840
+He put the giant chains through hundreds of load tests to make sure they were strong enough to hold up the Mammoth Bridge.
+
+179
+00:14:02,320 --> 00:14:12,420
+1,710 feet long, counting the approaches, the Manai Strait was the longest bridge in the world in 1826, a first for a suspension span.
+
+180
+00:14:15,180 --> 00:14:18,740
+While Europe was exploring the possibilities of iron and the suspension bridge,
+
+181
+00:14:19,300 --> 00:14:23,020
+America was throwing up thousands of covered truss bridges made of wood.
+
+182
+00:14:24,640 --> 00:14:28,560
+Wooden bridges flourished in the U.S. more than anywhere else in the world.
+
+183
+00:14:30,620 --> 00:14:32,100
+Convenience was a major reason.
+
+184
+00:14:32,620 --> 00:14:35,800
+With huge forest lands, wood was available and cheap.
+
+185
+00:14:37,740 --> 00:14:43,560
+Also, a strong, highly creative woodworking tradition produced literally hundreds of truss designs.
+
+186
+00:14:45,180 --> 00:14:49,220
+A truss bridge is one that uses its frame to help prop itself up.
+
+187
+00:14:49,920 --> 00:14:54,800
+A frame based on the power of the triangle, the strongest geometric shape around.
+
+188
+00:14:55,760 --> 00:15:00,280
+The basic concept of a truss bridge is a three-sided triangle.
+
+189
+00:15:01,040 --> 00:15:09,980
+And the phenomenon about the three-sided triangle is it's the only form out of a rectangle, a trapezoid, a circle,
+
+190
+00:15:10,440 --> 00:15:14,200
+that will not change shape if you put a force on it.
+
+191
+00:15:15,180 --> 00:15:19,620
+So a series of rigid triangles arranged in some sort of configuration,
+
+192
+00:15:19,980 --> 00:15:24,060
+which is what differentiated between the different truss types,
+
+193
+00:15:24,760 --> 00:15:28,240
+is the fundamental principle of the truss.
+
+194
+00:15:29,960 --> 00:15:33,220
+Most of the bridges were covered to protect them from the elements.
+
+195
+00:15:34,780 --> 00:15:40,780
+Toll keepers often had to shovel snow onto these so-called kissing bridges to accommodate sleighs.
+
+196
+00:15:42,020 --> 00:15:44,020
+The railroads put an end to the wooden bridge.
+
+197
+00:15:44,600 --> 00:15:49,060
+trains were simply too heavy and threw off sparks that set many bridges on fire.
+
+198
+00:15:50,320 --> 00:15:54,320
+For the 1840s, metal truss bridges were sweeping the country,
+
+199
+00:15:55,060 --> 00:16:00,100
+bridges that literally came in a box and could be assembled by a crew of farmers in a few days.
+
+200
+00:16:01,660 --> 00:16:07,100
+These bridges were usually fabricated in the eastern industrial centers,
+
+201
+00:16:07,880 --> 00:16:13,020
+such as Pittsburgh, where a small factory would fabricate a bridge.
+
+202
+00:16:13,021 --> 00:16:19,880
+It would be laid out on the factory floor, pre-assembled to make sure that all the pieces went together,
+
+203
+00:16:20,740 --> 00:16:28,480
+then broken apart, loaded on a railroad, shipped 150, 250 miles across the country,
+
+204
+00:16:29,000 --> 00:16:32,240
+and then be re-erected in the middle of nowhere.
+
+205
+00:16:33,640 --> 00:16:37,160
+The race to come up with the perfect truss design intensified.
+
+206
+00:16:38,020 --> 00:16:40,580
+800 truss patents were issued overall.
+
+207
+00:16:40,581 --> 00:16:47,700
+Scores of bridge factories competed to build up the small town infrastructure of America,
+
+208
+00:16:48,440 --> 00:16:53,380
+erecting tens of thousands of prefabricated metal bridges by century's end.
+
+209
+00:16:57,580 --> 00:17:03,960
+The great American achievement in 19th century bridge building was not, however, the prefabricated metal truss.
+
+210
+00:17:04,520 --> 00:17:08,340
+The Civil War jump-started the country's iron and steel industries,
+
+211
+00:17:08,341 --> 00:17:13,440
+and bridge builders turned their attention to the exciting possibilities of the suspension bridge.
+
+212
+00:17:14,420 --> 00:17:18,980
+John Roebling, a German immigrant engineer, came up with a new kind of suspension cable
+
+213
+00:17:18,981 --> 00:17:21,920
+that would revolutionize suspension spans.
+
+214
+00:17:22,980 --> 00:17:28,560
+Roebling's great breakthrough was the use of parallel wires, pencil-thin wires,
+
+215
+00:17:29,300 --> 00:17:33,700
+to gather, pack together, providing a strength that would be greater
+
+216
+00:17:33,701 --> 00:17:38,760
+and a flexibility that would be greater than a steel beam or an iron beam.
+
+217
+00:17:39,400 --> 00:17:44,500
+So whereas in the past you might have had an I-bar or bar going from location to location,
+
+218
+00:17:45,000 --> 00:17:49,180
+now you would have a series of strands of steel wire.
+
+219
+00:17:49,181 --> 00:17:56,720
+And the steel wire together is A, as strong or stronger, B, as flexible or it's more flexible,
+
+220
+00:17:57,280 --> 00:18:00,500
+and C, allow for some breakage without a failure.
+
+221
+00:18:00,501 --> 00:18:07,240
+Roebling's iron rope allowed the suspension bridge to span unheard of lengths.
+
+222
+00:18:08,260 --> 00:18:13,660
+In 1869 he began work on a bridge over New York's East River between Brooklyn and Manhattan.
+
+223
+00:18:14,400 --> 00:18:19,860
+A 1600 foot span, 500 feet longer than the longest suspension bridge in the world.
+
+224
+00:18:20,400 --> 00:18:21,940
+Impossible, the experts agreed.
+
+225
+00:18:21,941 --> 00:18:29,440
+One of the great British engineers wrote to Roebling that his bridge is insane and impossible,
+
+226
+00:18:30,200 --> 00:18:34,140
+but should it be proven possible, everybody else would look stupid.
+
+227
+00:18:35,520 --> 00:18:39,820
+And it definitely is possible. It has been there for 115 years now.
+
+228
+00:18:40,660 --> 00:18:46,900
+It took 14 years and more than 20 lives, including Roebling's, to build the Brooklyn Bridge.
+
+229
+00:18:47,440 --> 00:18:48,600
+But build it he did.
+
+230
+00:18:48,601 --> 00:18:53,000
+The Brooklyn Bridge is the first truly modern bridge.
+
+231
+00:18:53,620 --> 00:18:59,800
+In both construction and design, this was the prototype for the great suspension landmarks of the 20th century.
+
+232
+00:19:02,120 --> 00:19:05,960
+Groobling pioneered the process and the technique for building a bridge on such a scale.
+
+233
+00:19:06,660 --> 00:19:11,700
+The use of pneumatic caissons to dredge out the riverbed and lay massive foundations.
+
+234
+00:19:12,740 --> 00:19:18,520
+The endless, painstaking spinning of cables, building them up wire by wire.
+
+235
+00:19:18,600 --> 00:19:26,020
+5,434 wires per strand, 19 strands per cable, four cables in all.
+
+236
+00:19:27,080 --> 00:19:32,480
+Most importantly, at a time when many suspension bridges were collapsing from heavy traffic and wind,
+
+237
+00:19:33,240 --> 00:19:36,780
+Roebling figured out a way to stabilize a giant suspension span,
+
+238
+00:19:37,420 --> 00:19:42,560
+designing a triple system of supports that could withstand every kind of stress.
+
+239
+00:19:42,561 --> 00:19:48,000
+and Roebling invented a structural scheme
+
+240
+00:19:48,001 --> 00:19:51,720
+which he was confident, correctly so,
+
+241
+00:19:52,040 --> 00:19:53,940
+would resist any wind.
+
+242
+00:19:55,080 --> 00:19:58,180
+This scheme consists of the suspension system
+
+243
+00:19:58,181 --> 00:20:03,640
+which in turn has the cables and the suspenders.
+
+244
+00:20:03,780 --> 00:20:07,560
+That alone is enough to keep the bridge up.
+
+245
+00:20:08,260 --> 00:20:10,600
+But also there are these diagonal stays
+
+246
+00:20:10,601 --> 00:20:15,260
+fanning out from the top of the tower towards the roadway.
+
+247
+00:20:16,100 --> 00:20:20,440
+And then he has a quite substantial stiffening truss going alongside the bridge.
+
+248
+00:20:21,840 --> 00:20:26,680
+Roebling argued if any one of these three systems should fail,
+
+249
+00:20:27,480 --> 00:20:30,840
+the other two will sustain the bridge and prevent the collapse.
+
+250
+00:20:32,040 --> 00:20:35,460
+As it happens, one of the systems did fail.
+
+251
+00:20:35,461 --> 00:20:39,180
+The diagonal stays failed due to corrosion.
+
+252
+00:20:39,181 --> 00:20:42,360
+They corroded so much that one fell down.
+
+253
+00:20:43,340 --> 00:20:47,700
+Owing to the large degree of redundancy that he built into his bridge,
+
+254
+00:20:48,120 --> 00:20:52,120
+it was not a problem replacing any one component at the time.
+
+255
+00:20:53,960 --> 00:20:57,340
+Roebling may have launched the modern era of monumental spans,
+
+256
+00:20:57,780 --> 00:21:03,300
+but the coming century would soon produce bridges that would make the Brooklyn Bridge seem small.
+
+257
+00:21:03,301 --> 00:21:09,720
+There are many great bridge cities in the world.
+
+258
+00:21:10,440 --> 00:21:11,400
+Paris, for example.
+
+259
+00:21:12,160 --> 00:21:13,060
+Or New York.
+
+260
+00:21:14,300 --> 00:21:15,900
+Or San Francisco.
+
+261
+00:21:17,100 --> 00:21:24,520
+From an engineering point of view, none of the great Bay Area bridges is more impressive than the San Francisco-Oakland Bay Bridge.
+
+262
+00:21:26,340 --> 00:21:31,940
+The workhorse bridge of the region, more than 100 million vehicles a year cross the Bay Bridge.
+
+263
+00:21:31,941 --> 00:21:34,480
+280,000 a day
+
+264
+00:21:34,481 --> 00:21:36,780
+more than any other bridge in the world
+
+265
+00:21:36,781 --> 00:21:40,620
+Built during the depression of the 1930s
+
+266
+00:21:40,621 --> 00:21:42,340
+and opened in 1936
+
+267
+00:21:42,341 --> 00:21:44,100
+this hybrid bridge
+
+268
+00:21:44,101 --> 00:21:47,480
+part suspension, part cantilever, part truss
+
+269
+00:21:47,481 --> 00:21:50,120
+stretches an incredible 8.5 miles
+
+270
+00:21:50,121 --> 00:21:53,380
+over the deep and difficult waters of the San Francisco Bay
+
+271
+00:21:53,381 --> 00:21:57,620
+Everybody thinks of the Golden Gate Bridge
+
+272
+00:21:57,621 --> 00:21:58,840
+when they go to San Francisco
+
+273
+00:21:58,841 --> 00:22:00,880
+I think about the Oakland Bay Bridge
+
+274
+00:22:01,520 --> 00:22:04,320
+I think that's even nicer than the Golden Gate.
+
+275
+00:22:04,820 --> 00:22:09,480
+It's almost magical in the sense that it's two suspension bridges,
+
+276
+00:22:09,820 --> 00:22:14,460
+and I wonder how many people notice the anchorage that's built right into the water there.
+
+277
+00:22:15,000 --> 00:22:18,380
+And so you think that that's a suspension bridge that goes on forever,
+
+278
+00:22:18,381 --> 00:22:22,900
+but it really is just two separate suspension bridges joined together
+
+279
+00:22:22,901 --> 00:22:29,120
+and creating this elegant catenary that seems to go on for miles and miles.
+
+280
+00:22:30,880 --> 00:22:33,600
+The Bay Bridge design is unique.
+
+281
+00:22:34,240 --> 00:22:38,440
+A double suspension bridge, each half of which is bigger than the Brooklyn Bridge,
+
+282
+00:22:38,720 --> 00:22:42,100
+runs from San Francisco to Yerba Buena Island in the middle of the bay.
+
+283
+00:22:43,100 --> 00:22:48,480
+A double deck tunnel carries traffic through the island and onto the eastern half of the bridge,
+
+284
+00:22:48,860 --> 00:22:52,000
+which consists of one of the world's largest cantilever spans
+
+285
+00:22:52,001 --> 00:22:55,700
+and a long series of trusses that extend to the Oakland shore.
+
+286
+00:22:55,701 --> 00:23:02,660
+The most remarkable part of this bridge, as is often the case, is the part you can't see
+
+287
+00:23:02,661 --> 00:23:05,020
+The underwater anchorages and piers
+
+288
+00:23:05,021 --> 00:23:12,200
+Massive piers had to be founded at record depths, as much as 240 feet to bedrock on the eastern side
+
+289
+00:23:13,200 --> 00:23:19,480
+An artificial island, meanwhile, had to be built in the middle of the bay to anchor the two suspension spans
+
+290
+00:23:19,481 --> 00:23:23,400
+This central anchorage was made of pure concrete
+
+291
+00:23:23,401 --> 00:23:25,900
+more than went into the Empire State Building.
+
+292
+00:23:26,840 --> 00:23:32,220
+People may think an anchorage is simply a block that just stands there,
+
+293
+00:23:32,320 --> 00:23:34,100
+but it's got an enormous function.
+
+294
+00:23:34,260 --> 00:23:38,660
+It has the entire responsibility of holding up that bridge.
+
+295
+00:23:39,140 --> 00:23:40,700
+Now imagine in the Bay Bridge,
+
+296
+00:23:41,080 --> 00:23:46,340
+you've got the forces of the first bridge trying to pull it up this way
+
+297
+00:23:46,341 --> 00:23:51,080
+and the forces of the other bridge trying to pull it up in the opposite direction
+
+298
+00:23:51,081 --> 00:23:56,460
+and you're trying to be right in the center of a waterway
+
+299
+00:23:56,461 --> 00:23:59,600
+in which you've got some harsh currents and harsh conditions.
+
+300
+00:24:00,120 --> 00:24:02,340
+That's a magnificent concept.
+
+301
+00:24:02,500 --> 00:24:05,100
+Just dreaming it up took a lot of courage.
+
+302
+00:24:07,200 --> 00:24:11,240
+520-foot towers, the size of 60-story high-rises,
+
+303
+00:24:11,241 --> 00:24:13,940
+and the largest structures in the Bay Area skyline
+
+304
+00:24:13,941 --> 00:24:18,720
+consumed 18% of all the steel produced in the U.S. in 1934.
+
+305
+00:24:21,080 --> 00:24:27,480
+70,000 miles worth of pencil-thin wire went into the cables that hold up this extraordinary span.
+
+306
+00:24:30,820 --> 00:24:36,140
+As an engineering triumph, the Bay Bridge was hailed as the greatest bridge of its time.
+
+307
+00:24:38,480 --> 00:24:43,860
+Only a year after it opened in 1936, however, another bridge stole the spotlight.
+
+308
+00:24:44,000 --> 00:24:48,460
+A bridge located just to the north, across the waters of the Golden Gate Strait.
+
+309
+00:24:49,700 --> 00:24:50,920
+The Golden Gate.
+
+310
+00:24:51,080 --> 00:24:55,020
+Perhaps the most famous, most beautiful suspension bridge in the world.
+
+311
+00:24:56,620 --> 00:25:01,120
+And it was world champion in length until Verrazano came along.
+
+312
+00:25:01,920 --> 00:25:03,700
+And that was in 1964.
+
+313
+00:25:04,780 --> 00:25:06,180
+It's a magnificent bridge.
+
+314
+00:25:06,960 --> 00:25:10,380
+Obviously the surroundings, which are also magnificent, help.
+
+315
+00:25:11,060 --> 00:25:16,900
+But it's an extremely beautiful masterpiece of a structure.
+
+316
+00:25:16,901 --> 00:25:22,900
+A masterpiece that took tremendous determination and will to complete.
+
+317
+00:25:23,820 --> 00:25:28,440
+The waters of the Golden Gate were even more turbulent than those of the San Francisco Bay.
+
+318
+00:25:29,440 --> 00:25:37,580
+A 1,000-foot trestle, or temporary roadway that carried materials from San Francisco to the South Pier, was destroyed by a storm.
+
+319
+00:25:38,680 --> 00:25:44,260
+After five months of repairs, it was destroyed again, this time by a ship lost in the fog.
+
+320
+00:25:45,020 --> 00:25:49,380
+A year into construction, engineers had to come up with another way of building the pier.
+
+321
+00:25:50,720 --> 00:25:56,480
+But when it was finished, the Golden Gate, with its 4,200-foot central span,
+
+322
+00:25:57,080 --> 00:26:00,920
+famous Art Deco towers, and striking paint job,
+
+323
+00:26:01,440 --> 00:26:05,260
+was immediately hailed as a triumph of engineering and art.
+
+324
+00:26:06,140 --> 00:26:09,800
+A color called International Orange was used to paint this bridge
+
+325
+00:26:09,801 --> 00:26:12,560
+because of the way it complements the Golden Gate straight.
+
+326
+00:26:12,561 --> 00:26:22,060
+If you take the Golden Gate in San Francisco, you will see a symbiosis or a synergy between bridge and place.
+
+327
+00:26:22,780 --> 00:26:29,220
+I mean, the bridge is so beautiful that it makes this place even more beautiful.
+
+328
+00:26:30,320 --> 00:26:34,140
+And the place is also so beautiful that makes the bridge completely unique.
+
+329
+00:26:35,520 --> 00:26:40,200
+The Golden Gate was the longest suspension bridge in the world until 1964,
+
+330
+00:26:40,201 --> 00:26:44,320
+when the Verrazano Narrows in New York passed it by 60 feet.
+
+331
+00:26:45,300 --> 00:26:48,600
+The Verrazano is still the longest suspension span in the U.S.
+
+332
+00:26:50,740 --> 00:26:53,700
+But size isn't everything when it comes to evaluating a bridge.
+
+333
+00:26:54,280 --> 00:26:59,520
+The vast majority of the 550,000 bridges in the United States are relatively small.
+
+334
+00:26:59,720 --> 00:27:06,160
+A small bridge with a long lifespan is just as much an achievement
+
+335
+00:27:06,161 --> 00:27:09,920
+as a short-lived bridge with a long physical span.
+
+336
+00:27:10,200 --> 00:27:19,340
+Some of the most notable small bridges in America are in Central Park, which boasts no less than 38 spans, none of them alike.
+
+337
+00:27:19,900 --> 00:27:22,780
+All of them carefully designed to blend in with the park.
+
+338
+00:27:24,900 --> 00:27:29,220
+Huddleston Bridge is made from rocks that were excavated while digging nearby roads.
+
+339
+00:27:30,080 --> 00:27:35,880
+The stones were laid dry, without mortar, and create an arch that seems to have tumbled into place.
+
+340
+00:27:35,881 --> 00:27:45,000
+Goldarch Bridge is one of five iron bridges in Central Park, which has half the iron bridges in the U.S.
+
+341
+00:27:46,800 --> 00:27:52,900
+Built between 1859 and 1861, these graceful Gothic spans are beautifully detailed
+
+342
+00:27:52,901 --> 00:27:57,160
+and help maintain the escape-from-the-city ambience of the park.
+
+343
+00:27:58,900 --> 00:28:03,440
+In fact, the bridges of Central Park play a crucial role in protecting that ambience.
+
+344
+00:28:05,880 --> 00:28:13,200
+Camouflaged overpasses, like this one, separate people going through the park from cars and buses below.
+
+345
+00:28:14,080 --> 00:28:20,880
+They sunk those roads below the grade of the park so that traffic actually moves across the park,
+
+346
+00:28:21,180 --> 00:28:25,360
+but you never know it. You walk over the bridge and you walk across it.
+
+347
+00:28:25,940 --> 00:28:30,540
+And if they were at grade and you had stoplights and everything,
+
+348
+00:28:30,541 --> 00:28:40,380
+Rather than having one big park of 843 acres, you really would probably end up with five smaller parks just because of the traffic flow.
+
+349
+00:28:42,440 --> 00:28:45,680
+Bridges don't just separate lines of traffic on land.
+
+350
+00:28:46,380 --> 00:28:53,260
+A special category of bridges makes it possible for low-hanging river spans to carry vehicular traffic without blocking boats.
+
+351
+00:28:53,980 --> 00:28:56,480
+Coming up, bridges that move.
+
+352
+00:29:00,540 --> 00:29:06,480
+The Chinese built the world's first iron chain-link suspension bridge in the 13th century.
+
+353
+00:29:07,560 --> 00:29:10,200
+Bridges will return on Modern Marvels.
+
+354
+00:29:12,780 --> 00:29:16,640
+Anyone interested in learning about bridges would do well to visit Pittsburgh,
+
+355
+00:29:17,200 --> 00:29:21,520
+a city with more bridges per capita than any place in the world except Venice, Italy.
+
+356
+00:29:22,860 --> 00:29:27,040
+Pittsburgh doesn't have hundreds of canals, but it does have three rivers.
+
+357
+00:29:27,660 --> 00:29:29,800
+The Monongahela, Allegheny, and Ohio.
+
+358
+00:29:30,540 --> 00:29:34,520
+which at least partly explains why more than 1,700 bridges are needed
+
+359
+00:29:34,521 --> 00:29:37,300
+to help people get around the city and its environs.
+
+360
+00:29:38,220 --> 00:29:42,380
+Pittsburgh is like a miniature model of Manhattan itself,
+
+361
+00:29:42,900 --> 00:29:45,860
+where everything is reduced except the number of bridges,
+
+362
+00:29:46,280 --> 00:29:50,100
+which has not only not been reduced, but actually been increased.
+
+363
+00:29:50,500 --> 00:29:55,000
+They have arches, they have trusses of all kinds.
+
+364
+00:29:55,001 --> 00:30:00,940
+it's like kids let loose to build any kind of bridge they would possibly like.
+
+365
+00:30:02,140 --> 00:30:05,920
+And they build new ones, they maintain the old ones.
+
+366
+00:30:06,040 --> 00:30:09,440
+It's an exciting place, particularly for steel bridges.
+
+367
+00:30:11,020 --> 00:30:14,640
+Pittsburgh, of course, was the steel capital of the world for much of the century.
+
+368
+00:30:15,540 --> 00:30:19,980
+And what better way to use and showcase huge amounts of steel than in a bridge?
+
+369
+00:30:20,660 --> 00:30:24,640
+What you have in Pittsburgh is you have a lot of really beautiful bridges.
+
+370
+00:30:24,641 --> 00:30:29,240
+bridges that were designed to be beautiful, that were designed to make a statement,
+
+371
+00:30:29,400 --> 00:30:33,560
+that were designed to say, we're Pittsburgh, we are the industrial center of America,
+
+372
+00:30:33,900 --> 00:30:36,820
+we're important, look at these beautiful things we can build.
+
+373
+00:30:38,180 --> 00:30:43,360
+Three of the most beautiful bridges in Pittsburgh are the 6th, 7th, and 9th Street bridges.
+
+374
+00:30:43,980 --> 00:30:45,560
+The Three Sisters, as they're called.
+
+375
+00:30:46,180 --> 00:30:48,720
+Identical suspension spans lined up in a row.
+
+376
+00:30:50,360 --> 00:30:53,240
+What makes these bridges unusual beyond their configuration
+
+377
+00:30:53,241 --> 00:30:57,180
+is the fact that they are old-fashioned I-bar suspension bridges,
+
+378
+00:30:57,820 --> 00:31:00,700
+held in place by steel chains rather than wire cables.
+
+379
+00:31:02,320 --> 00:31:04,120
+And that they are self-anchored.
+
+380
+00:31:04,580 --> 00:31:07,840
+That is, they aren't held in place by huge anchorages on each side.
+
+381
+00:31:08,600 --> 00:31:11,360
+Instead, the suspension cables are tied to the deck itself,
+
+382
+00:31:11,540 --> 00:31:13,000
+which holds the structure in place.
+
+383
+00:31:14,980 --> 00:31:18,020
+Another impressive rarity is the Smithfield Bridge,
+
+384
+00:31:18,580 --> 00:31:19,660
+the city's oldest.
+
+385
+00:31:19,661 --> 00:31:23,480
+designed and built in 1883 by Gustav Lindenthal,
+
+386
+00:31:23,900 --> 00:31:26,340
+a legendary bridge engineer of the last century.
+
+387
+00:31:27,880 --> 00:31:31,920
+Called a lenticular truss because of its parabolic or lens-like design,
+
+388
+00:31:32,640 --> 00:31:36,140
+this is the last double-spam bridge of its kind in the United States.
+
+389
+00:31:38,540 --> 00:31:42,400
+This slender concrete giant, the Westinghouse Bridge,
+
+390
+00:31:42,800 --> 00:31:46,160
+was the longest and highest concrete arch highway bridge in the world
+
+391
+00:31:46,161 --> 00:31:48,220
+when it was built in 1932.
+
+392
+00:31:49,660 --> 00:31:53,160
+It crosses over an industrial valley, the Turtle Creek Valley,
+
+393
+00:31:53,420 --> 00:31:58,820
+and the architects and engineers said that they wanted to bring order to the chaos of the valley,
+
+394
+00:31:59,140 --> 00:32:01,700
+which was already crossed by three layers of transportation,
+
+395
+00:32:02,080 --> 00:32:05,140
+and there's two big mills down there, and there's a stream down there.
+
+396
+00:32:05,141 --> 00:32:12,120
+And then just rising up above this valley is this marvelous, slender bridge,
+
+397
+00:32:12,760 --> 00:32:15,460
+and it's such a contrast to the rest of the valley,
+
+398
+00:32:15,700 --> 00:32:17,780
+and that's the goal they were striving for.
+
+399
+00:32:17,781 --> 00:32:20,420
+They wanted beauty, not just functionality at that bridge.
+
+400
+00:32:20,720 --> 00:32:23,780
+I think it's the loveliest bridge in Allegheny County.
+
+401
+00:32:24,780 --> 00:32:28,140
+The American Bridge Company, an offshoot of U.S. steel,
+
+402
+00:32:28,700 --> 00:32:31,340
+fabricated the steel for all of Pittsburgh's bridges,
+
+403
+00:32:31,860 --> 00:32:34,360
+along with thousands of other bridges around the world.
+
+404
+00:32:35,820 --> 00:32:40,980
+The bridge building operation was so huge that an entire town grew up around it.
+
+405
+00:32:41,460 --> 00:32:43,640
+Ambridge, short for American Bridge.
+
+406
+00:32:43,641 --> 00:32:55,090
+All told, these fabrication workshops, which were shut down in the 1980s, churned out steel parts for over 10,000 bridges, including the San Francisco-Oakland Bay
+
+407
+00:32:55,091 --> 00:32:59,260
+Bridge, the Mackinac Bridge, and many other landmark spans.
+
+408
+00:33:00,880 --> 00:33:07,920
+But for all her bridges, there is one species of bridge that Pittsburgh does not have, the movable bridge.
+
+409
+00:33:09,560 --> 00:33:11,240
+The movable bridge.
+
+410
+00:33:12,060 --> 00:33:15,820
+As a rule, the one thing we want our bridges not to do is move.
+
+411
+00:33:17,120 --> 00:33:18,480
+But there are exceptions.
+
+412
+00:33:19,280 --> 00:33:25,320
+A whole category of bridges that work like giant machines regulating conflicting lines of land and water traffic.
+
+413
+00:33:26,120 --> 00:33:28,700
+We have a wide variety of movable bridges.
+
+414
+00:33:28,980 --> 00:33:30,120
+I think they're the most fun.
+
+415
+00:33:30,800 --> 00:33:37,600
+It's the problem of how do you get a ship going through, how do you get the traffic over, how do you solve that problem.
+
+416
+00:33:37,601 --> 00:33:42,120
+and there are a half dozen different ways people have solved that problem.
+
+417
+00:33:42,780 --> 00:33:48,980
+Well, maybe you swing the bridge on an axle and the bridge just rotates and then boats can go by.
+
+418
+00:33:49,560 --> 00:33:50,260
+That's one way.
+
+419
+00:33:51,520 --> 00:33:59,740
+Maybe the bridge opens like a drawbridge and, you know, you have a single leaf drawbridge or a double leaf drawbridge.
+
+420
+00:34:00,740 --> 00:34:03,760
+Maybe you could have a bridge just lift up vertically.
+
+421
+00:34:03,761 --> 00:34:05,580
+I mean, isn't that a great concept?
+
+422
+00:34:05,700 --> 00:34:07,780
+Somebody thinks that the bridge will just go vertically.
+
+423
+00:34:07,920 --> 00:34:12,020
+Those are lift bridges and give you the widest possible way for ships to pass,
+
+424
+00:34:12,120 --> 00:34:14,260
+but don't give you the height.
+
+425
+00:34:15,000 --> 00:34:19,180
+There's another bridge that's very rare, although we're lucky we have one in New York City,
+
+426
+00:34:19,660 --> 00:34:21,000
+and that's a retractable bridge.
+
+427
+00:34:21,480 --> 00:34:23,980
+And that kind of combines a bridge with railroads.
+
+428
+00:34:24,080 --> 00:34:25,860
+The bridge becomes a railroad.
+
+429
+00:34:26,080 --> 00:34:29,800
+It's on rail lines and slides out of the way.
+
+430
+00:34:29,801 --> 00:34:36,020
+and the Carroll Street Bridge is a beautiful example of it.
+
+431
+00:34:38,720 --> 00:34:41,340
+Moveable bridges are usually located in cities
+
+432
+00:34:41,341 --> 00:34:44,640
+where land is too expensive to build along approach roads
+
+433
+00:34:44,641 --> 00:34:46,660
+needed for high-level fixed bridges.
+
+434
+00:34:48,520 --> 00:34:51,280
+Trains, which can only rise at a 1% grade,
+
+435
+00:34:51,780 --> 00:34:54,720
+need 5,000 feet to ease on to a fixed bridge
+
+436
+00:34:54,721 --> 00:34:56,360
+that's just 50 feet high.
+
+437
+00:34:56,361 --> 00:35:09,049
+One of the most celebrated and largest movable bridges in the world is the Tower Bridge of London, a bascule or drawbridge type bridge with a 1,045 ton roadway that
+
+438
+00:35:09,050 --> 00:35:12,840
+opens up to let traffic on the Thames River pass.
+
+439
+00:35:14,160 --> 00:35:20,840
+This majestic bridge was built in the 1890s across the Pool of London, the busiest port in the world at that time.
+
+440
+00:35:20,841 --> 00:35:26,620
+It gave millions of East Londoners a desperately needed way of getting across the Thames
+
+441
+00:35:26,621 --> 00:35:31,480
+without in any way hindering the hundreds of ships that passed in and out of the pool each day.
+
+442
+00:35:32,780 --> 00:35:37,780
+A triumph of Victorian engineering, the bridge was powered by enormous steam engines,
+
+443
+00:35:38,200 --> 00:35:43,740
+the largest in the world at one time, which opened and closed the massive decks in less than a minute.
+
+444
+00:35:46,680 --> 00:35:50,100
+Impatient pedestrians can still use a unique bridge within a bridge,
+
+445
+00:35:50,101 --> 00:35:54,400
+connecting the towers at the top to cross over while the bascules are up.
+
+446
+00:35:56,320 --> 00:35:58,380
+Located adjacent to the Tower of London,
+
+447
+00:35:58,940 --> 00:36:02,940
+Tower Bridge is wrapped up in masonry and detailed like a medieval tower
+
+448
+00:36:02,941 --> 00:36:05,100
+to fit in with its historic surroundings.
+
+449
+00:36:06,020 --> 00:36:09,120
+In fact, this is one of the first great modern steel bridges
+
+450
+00:36:09,121 --> 00:36:11,200
+made to look like an antique.
+
+451
+00:36:11,340 --> 00:36:15,220
+The effect of this architectural costume is magical.
+
+452
+00:36:16,440 --> 00:36:19,000
+It happens once you add a stone to it.
+
+453
+00:36:19,001 --> 00:36:21,500
+You see, the stone is a support to your imagination.
+
+454
+00:36:21,860 --> 00:36:25,000
+And then you can transport even your dreams, you know, to that.
+
+455
+00:36:25,080 --> 00:36:28,440
+I'm thinking it is more than a bridge, it's a castle or something like that.
+
+456
+00:36:28,480 --> 00:36:29,860
+You understand? And it is a fortress.
+
+457
+00:36:30,780 --> 00:36:34,260
+And it works so well with the whole surrounding, with the city of London,
+
+458
+00:36:34,360 --> 00:36:35,880
+with the character of the city of London,
+
+459
+00:36:36,260 --> 00:36:39,000
+that the bridge itself is such a landmark to London
+
+460
+00:36:39,001 --> 00:36:40,940
+as much as the houses of the parliament.
+
+461
+00:36:42,280 --> 00:36:45,800
+I would love to go over to London and operate the Tower Bridge.
+
+462
+00:36:45,801 --> 00:36:48,960
+I mean, that is such a huge bridge and just feel.
+
+463
+00:36:49,000 --> 00:36:51,260
+What it feels like to operate a bridge that large.
+
+464
+00:36:51,820 --> 00:36:54,580
+You know, that must be really something for that guy when he operates that bridge.
+
+465
+00:36:57,120 --> 00:36:59,920
+Moveable bridges, of course, aren't always so large.
+
+466
+00:37:00,780 --> 00:37:05,400
+This bascule across the Gowanus Canal in the Bronx is barely 100 feet long,
+
+467
+00:37:05,940 --> 00:37:09,700
+which makes it a giant compared to this one-man swing bridge,
+
+468
+00:37:09,940 --> 00:37:12,840
+which opens up to let the occasional boat pass by.
+
+469
+00:37:12,841 --> 00:37:20,040
+For all of their diversity, the potential range and structure of bridges has barely been tapped.
+
+470
+00:37:20,820 --> 00:37:26,280
+The 21st century promises to bring an unprecedented imaginative quality to bridge design.
+
+471
+00:37:31,120 --> 00:37:38,080
+When bridge experts talk about the future of bridges, one name keeps popping up, Santiago Calatrava.
+
+472
+00:37:38,081 --> 00:37:44,380
+Who is Santiago Calatrava? We're all watching anxiously to find out.
+
+473
+00:37:45,560 --> 00:37:49,660
+Santiago Calatrava is a Spanish bridge designer living in Zurich,
+
+474
+00:37:50,320 --> 00:37:54,920
+who at the age of 48 has already designed over 50 bridges worldwide.
+
+475
+00:37:56,160 --> 00:38:00,040
+Startling, original bridges, unlike any that have come before.
+
+476
+00:38:00,041 --> 00:38:11,460
+He is an extremely talented man who has stated that to him it's only one art, the art of building.
+
+477
+00:38:12,460 --> 00:38:19,640
+And he employs his talents in building a bridge or a building or children's toys, as the case may be.
+
+478
+00:38:20,560 --> 00:38:27,160
+And he does not comprehend the division between architects and engineers, particularly when applied to himself.
+
+479
+00:38:27,161 --> 00:38:34,200
+Unlike many contemporary engineers, Calatravasi's bridges is more than mere infrastructure.
+
+480
+00:38:34,201 --> 00:38:40,040
+What I discovered in the bridges, it is their capacity to dignify a place, a landscape.
+
+481
+00:38:40,920 --> 00:38:49,120
+And I think it is essential, you know, to use the element of a bridge as much as you can use in a city the element of a cathedral
+
+482
+00:38:49,121 --> 00:38:53,980
+or the element of a particular sculpture or a particular work of art,
+
+483
+00:38:54,060 --> 00:38:57,240
+you know, who will dignify the life of the surrounding,
+
+484
+00:38:57,400 --> 00:38:59,260
+who will dignify the image of the city,
+
+485
+00:38:59,400 --> 00:39:02,120
+who will dignify and contribute to the people.
+
+486
+00:39:03,440 --> 00:39:06,740
+Calatrava bridges, like this slender beauty outside Paris,
+
+487
+00:39:07,260 --> 00:39:09,360
+appeal to the imagination and the eye.
+
+488
+00:39:11,420 --> 00:39:13,940
+His bridges are unusually suggestive,
+
+489
+00:39:13,941 --> 00:39:16,500
+and one of his favorite metaphors is the anatomy,
+
+490
+00:39:17,180 --> 00:39:20,260
+especially the skeleton, which is evident in many of his designs.
+
+491
+00:39:21,680 --> 00:39:23,680
+Once you go into the bridge itself,
+
+492
+00:39:23,800 --> 00:39:28,080
+you discover that still there is a very wide march of expression in a bridge.
+
+493
+00:39:28,840 --> 00:39:31,360
+This expression, in my case, in my particular case,
+
+494
+00:39:31,440 --> 00:39:33,860
+is very much related to the structural nature,
+
+495
+00:39:33,861 --> 00:39:38,720
+and so I try always to signify relations to bones
+
+496
+00:39:38,721 --> 00:39:43,200
+or relation to a skelet or to the spine of fishes.
+
+497
+00:39:43,201 --> 00:39:48,880
+The Alameo Bridge in Seville, Spain is one of Calatrava's most innovative.
+
+498
+00:39:49,940 --> 00:39:56,760
+Normally, a cable-stayed bridge of this type is held in place by cables radiating from both sides of a vertical mast.
+
+499
+00:39:58,140 --> 00:40:02,080
+Calatrava discovered that by leaning the mast and building up its weight,
+
+500
+00:40:02,660 --> 00:40:08,640
+he could do away with the cables on one side, creating a strikingly suggestive minimalist span.
+
+501
+00:40:08,641 --> 00:40:17,520
+You can say it is a sailboat, it is a harp, you see, to do music, a gigantic harp, you
+
+502
+00:40:17,521 --> 00:40:22,220
+know, you can even think, you know, it is like a bird, you know, who goes up into the
+
+503
+00:40:22,221 --> 00:40:23,220
+sky.
+
+504
+00:40:23,221 --> 00:40:26,520
+We cannot stop our imagination to associate images.
+
+505
+00:40:26,521 --> 00:40:32,840
+However, I would like very much to underline the steps who brought me to the Alamedo was
+
+506
+00:40:32,841 --> 00:40:38,180
+very much related to the idea of making a bridge, you know, who is even more essential
+
+507
+00:40:38,181 --> 00:40:41,480
+than the most essential cable-stair bridges built until this moment.
+
+508
+00:40:42,740 --> 00:40:44,400
+To do bridges is almost a secret.
+
+509
+00:40:44,880 --> 00:40:47,640
+It is a secret because it takes a lot of years
+
+510
+00:40:47,641 --> 00:40:50,900
+until you get the essence of the statics,
+
+511
+00:40:51,140 --> 00:40:54,180
+until you get the essence of the behavior of the bridge.
+
+512
+00:40:54,460 --> 00:40:57,440
+And the more you study them, the more you respect them.
+
+513
+00:40:57,441 --> 00:40:59,520
+You respect them in two terms.
+
+514
+00:40:59,720 --> 00:41:02,620
+You respect them because it is difficult to do bridges
+
+515
+00:41:02,621 --> 00:41:04,620
+and because it is beautiful to do bridges,
+
+516
+00:41:04,621 --> 00:41:08,600
+but you respect also them because it is dangerous to do bridges.
+
+517
+00:41:09,820 --> 00:41:13,560
+And so I think it is certainly, you know, it's an art.
+
+518
+00:41:13,980 --> 00:41:15,340
+My opinion is a high art.
+
+519
+00:41:15,440 --> 00:41:19,440
+It's a difficult one that you cannot improve from one day to another.
+
+520
+00:41:19,660 --> 00:41:20,960
+You need almost a whole life.
+
+521
+00:41:23,300 --> 00:41:26,120
+Kalitrava's disciplined yet audacious approach to bridges
+
+522
+00:41:26,121 --> 00:41:28,340
+will soon be in evidence in the United States.
+
+523
+00:41:29,100 --> 00:41:32,620
+In Milwaukee, Wisconsin, he is currently building a suspended footbridge
+
+524
+00:41:32,621 --> 00:41:39,620
+footbridge with a two hundred foot angled mast for the Milwaukee Art Museum.
+
+525
+00:41:39,621 --> 00:41:44,320
+And to revive downtown Dallas, he is convinced the city to fill the dry bed of the Trinity
+
+526
+00:41:44,321 --> 00:41:50,120
+River with water and then decorate it with a series of water bridges.
+
+527
+00:41:50,121 --> 00:41:54,820
+While Kalatrava searches for new ways to shape a bridge, the centuries old march to build
+
+528
+00:41:54,821 --> 00:42:00,420
+the biggest, longest, widest bridge in the world goes on.
+
+529
+00:42:00,421 --> 00:42:04,680
+The Japanese, who launched the greatest bridge-building program in history in 1970,
+
+530
+00:42:05,340 --> 00:42:09,780
+a $27 billion project to link their islands with 18 major spans,
+
+531
+00:42:10,320 --> 00:42:13,200
+now boast the world's longest suspension bridge.
+
+532
+00:42:14,740 --> 00:42:18,660
+The Akashikaikyo Bridge, linking Kobe and Awaji Island,
+
+533
+00:42:19,280 --> 00:42:24,080
+has a once inconceivable 6,527-foot span.
+
+534
+00:42:24,260 --> 00:42:26,660
+That's four times the length of the Brooklyn Bridge,
+
+535
+00:42:26,920 --> 00:42:28,940
+and a third longer than the Golden Gate.
+
+536
+00:42:29,900 --> 00:42:31,460
+Where will it all end?
+
+537
+00:42:32,460 --> 00:42:35,660
+Have we come close to reaching a limit on our ability to span?
+
+538
+00:42:36,660 --> 00:42:38,620
+In a word, no.
+
+539
+00:42:39,560 --> 00:42:43,180
+New materials, super light, super strong plastic fibers,
+
+540
+00:42:43,580 --> 00:42:45,980
+will make seemingly impossible bridges viable.
+
+541
+00:42:47,140 --> 00:42:50,280
+Already there's been serious talk of throwing a suspension bridge
+
+542
+00:42:50,281 --> 00:42:52,440
+across the 23-mile English Channel.
+
+543
+00:42:54,440 --> 00:42:58,640
+And of connecting Sicily to the Italian mainland across the Messina Strait.
+
+544
+00:42:58,940 --> 00:43:06,580
+Before getting carried away imagining super spans of the future, however,
+
+545
+00:43:07,160 --> 00:43:10,020
+we'd better learn to take care of the bridges we already have.
+
+546
+00:43:11,200 --> 00:43:16,080
+Bridge maintenance rather than construction is the big challenge facing bridges today.
+
+547
+00:43:17,400 --> 00:43:23,020
+Budget cuts and neglect have caused the collapse of scores of spans and the decay of thousands more.
+
+548
+00:43:23,021 --> 00:43:29,520
+In the 1970s, no less than 40% of the bridges in America were deemed structurally deficient.
+
+549
+00:43:30,120 --> 00:43:36,880
+A major mistake people have is they think a bridge is just there, it's physical, and needs very little attention.
+
+550
+00:43:37,800 --> 00:43:42,040
+In fact, the bridge is moving. It's moving. It could be swaying back and forth.
+
+551
+00:43:42,120 --> 00:43:44,620
+It could be rising and falling with the load.
+
+552
+00:43:44,740 --> 00:43:48,480
+It could be expanding and contracting based on temperature.
+
+553
+00:43:49,100 --> 00:43:51,960
+And as a result, it has to have lots of movable parts.
+
+554
+00:43:51,961 --> 00:43:56,400
+all those pots have to be lubricated, they have to be kept clean.
+
+555
+00:43:56,920 --> 00:44:00,860
+This is a machine, and if you don't take care of it,
+
+556
+00:44:00,920 --> 00:44:04,440
+it will freeze, it will break, and it will fail.
+
+557
+00:44:05,820 --> 00:44:09,300
+You see, bridges are not only part of the natural landscape,
+
+558
+00:44:09,480 --> 00:44:11,000
+I would like also to underline that.
+
+559
+00:44:11,400 --> 00:44:14,140
+They are also very much part of a cultural landscape,
+
+560
+00:44:14,340 --> 00:44:16,220
+so they are also part of our culture,
+
+561
+00:44:16,760 --> 00:44:21,520
+and the new generations will judge us as well,
+
+562
+00:44:21,521 --> 00:44:24,920
+or as bad according to the quality of the bridges that we have there.
+
+563
+00:44:26,480 --> 00:44:32,920
+And perhaps, according to the sincerity of our desire to reach across and join.
+
+564
+00:44:35,940 --> 00:44:39,480
+Our president was gone. Generals were in rebellion.
+
+565
+00:44:39,920 --> 00:44:42,780
+In 30 days, we would cease to exist as a nation.
+
+566
+00:44:43,140 --> 00:44:47,240
+But a handshake and one man's word changed history forever.
+
+567
+00:44:47,900 --> 00:44:50,060
+It wasn't a month. It was a miracle.
+
+568
+00:44:50,061 --> 00:44:51,900
+April 1865
+
+569
+00:44:51,901 --> 00:44:53,660
+April 14th at 9
+
+570
+00:44:53,661 --> 00:44:55,220
+Only on the History Channel
+

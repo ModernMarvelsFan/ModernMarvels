@@ -1,0 +1,3144 @@
+1
+00:00:00,001 --> 00:00:04,000
+Alaska. It's unlike any other state in the U.S.
+
+2
+00:00:04,001 --> 00:00:08,000
+A vast frozen wilderness stretching from above the Arctic Circle
+
+3
+00:00:08,001 --> 00:00:12,000
+over 1,400 miles south. It's America's
+
+4
+00:00:12,001 --> 00:00:16,000
+last frontier. Big, rugged, and cold.
+
+5
+00:00:16,001 --> 00:00:20,000
+60 below zero. Dark out. We come to work in the dark, we go home in the dark.
+
+6
+00:00:20,001 --> 00:00:24,000
+It's always dark. Even surviving here takes an arsenal of unique
+
+7
+00:00:24,001 --> 00:00:28,000
+tools, engineered by Alaskans, to take on this ultimate state of extremes.
+
+8
+00:00:28,001 --> 00:00:31,000
+There are Alaska solutions for Alaska problems.
+
+9
+00:00:31,001 --> 00:00:33,000
+If you didn't have an Alaska as a test ground,
+
+10
+00:00:33,001 --> 00:00:35,000
+then you would have invented one.
+
+11
+00:00:35,001 --> 00:00:38,000
+It's Alaska Tech, now on Modern Marvels.
+
+12
+00:00:53,000 --> 00:00:57,000
+As a land of extremes, Alaska delivers in a big way.
+
+13
+00:00:57,001 --> 00:01:00,000
+On size alone, it tops the charts.
+
+14
+00:01:00,001 --> 00:01:02,500
+Twice the square footage of Texas,
+
+15
+00:01:02,501 --> 00:01:06,000
+with 33,000 miles of shoreline.
+
+16
+00:01:06,001 --> 00:01:10,000
+The state could stretch all the way from Florida to California.
+
+17
+00:01:12,000 --> 00:01:15,000
+Its landscape makes for epic forces of nature
+
+18
+00:01:15,001 --> 00:01:18,000
+and the coldest temperatures in the US,
+
+19
+00:01:18,001 --> 00:01:21,000
+down to 80 below zero in some parts.
+
+20
+00:01:21,001 --> 00:01:25,000
+39 mountain ranges and over half of the world's glaciers
+
+21
+00:01:25,001 --> 00:01:28,140
+of the world's glaciers separate communities into the most
+
+22
+00:01:28,141 --> 00:01:31,540
+isolated in the country.
+
+23
+00:01:31,541 --> 00:01:35,380
+In most of the state, there were only two seasons, 10 months
+
+24
+00:01:35,381 --> 00:01:39,240
+of winter and two months of thaw.
+
+25
+00:01:39,241 --> 00:01:41,040
+Both of them wreak havoc on the roads.
+
+26
+00:01:47,160 --> 00:01:50,500
+Alaska's highway system serves just a third of the state,
+
+27
+00:01:50,501 --> 00:01:53,700
+with only 5,600 miles of roads.
+
+28
+00:01:53,701 --> 00:01:55,540
+That's the same amount as in Vermont,
+
+29
+00:01:55,541 --> 00:01:58,800
+yet Alaska is 62 times bigger.
+
+30
+00:01:58,801 --> 00:02:02,240
+No road is more critical than this north-south lifeline,
+
+31
+00:02:02,241 --> 00:02:05,640
+the Richardson Highway, which brings oil and supplies
+
+32
+00:02:05,641 --> 00:02:08,240
+from the southern coast into Alaska's interior.
+
+33
+00:02:11,960 --> 00:02:15,460
+But this highway is also home to Thompson Pass,
+
+34
+00:02:15,461 --> 00:02:20,260
+a 2,800-foot gap in the Chugash Mountains, which just so happens
+
+35
+00:02:20,261 --> 00:02:23,700
+to be the snowiest place in Alaska.
+
+36
+00:02:23,701 --> 00:02:30,500
+The all-time record for snowfall here, 974 inches.
+
+37
+00:02:30,600 --> 00:02:35,740
+And its yearly average is over 500 inches, more than 41 feet,
+
+38
+00:02:35,840 --> 00:02:37,640
+enough to bury a four-story building.
+
+39
+00:02:44,760 --> 00:02:48,460
+Then there are the avalanches, which average 20 per year.
+
+40
+00:02:48,461 --> 00:02:54,340
+It wasn't until 1950 that snowplows even attempted
+
+41
+00:02:54,440 --> 00:02:56,140
+to keep the pass open year round.
+
+42
+00:03:02,140 --> 00:03:05,820
+But ever since, a specialized team of DOT drivers
+
+43
+00:03:05,920 --> 00:03:11,720
+rotates through 20-hour shifts, facing whiteouts day and night.
+
+44
+00:03:11,820 --> 00:03:14,060
+We do our best to keep the roads open,
+
+45
+00:03:14,160 --> 00:03:17,280
+but sometimes it's just really nasty and, you know,
+
+46
+00:03:17,281 --> 00:03:19,280
+and Alaskans are tough.
+
+47
+00:03:19,680 --> 00:03:23,980
+You can't tell them it's bad and expect them to go home.
+
+48
+00:03:24,780 --> 00:03:26,900
+So how can these drivers keep plowing
+
+49
+00:03:26,901 --> 00:03:28,360
+through such treacherous conditions?
+
+50
+00:03:30,760 --> 00:03:34,000
+With a new groundbreaking GPS navigation system
+
+51
+00:03:34,001 --> 00:03:37,100
+that allows them to steer through a virtual moving map
+
+52
+00:03:37,101 --> 00:03:37,801
+of the highway.
+
+53
+00:03:40,540 --> 00:03:44,000
+Our truck's antenna communicates with a fixed ground antenna
+
+54
+00:03:44,001 --> 00:03:46,340
+to determine the truck's position on the road
+
+55
+00:03:46,341 --> 00:03:49,380
+within three centimeters.
+
+56
+00:03:49,480 --> 00:03:52,080
+The GPS is really like having a sixth sense.
+
+57
+00:03:52,180 --> 00:03:54,080
+When your vision goes away, you still
+
+58
+00:03:54,180 --> 00:03:56,880
+have the GPS to show you where you are.
+
+59
+00:03:56,980 --> 00:03:58,480
+The map appears on a monitor
+
+60
+00:03:58,580 --> 00:04:01,580
+in the back of the cab, which is reflected onto an acrylic
+
+61
+00:04:01,680 --> 00:04:04,200
+screen, kind of like a see-through video game
+
+62
+00:04:04,300 --> 00:04:05,300
+monitor.
+
+63
+00:04:05,400 --> 00:04:08,260
+This way, drivers can watch the screen and the road
+
+64
+00:04:08,360 --> 00:04:11,400
+at the same time.
+
+65
+00:04:11,500 --> 00:04:15,140
+The driver's truck appears as a white square on the screen.
+
+66
+00:04:15,141 --> 00:04:18,240
+The center line, intersections, mile markers, turn lanes,
+
+67
+00:04:18,340 --> 00:04:23,780
+guardrails, and avalanche zones are all marked.
+
+68
+00:04:23,880 --> 00:04:28,680
+The way the system works is if I start to move too far to the
+
+69
+00:04:28,780 --> 00:04:31,020
+left and cross over the center line,
+
+70
+00:04:31,120 --> 00:04:33,300
+the yellow center line will turn red,
+
+71
+00:04:33,400 --> 00:04:35,460
+letting me know that I've gone too far to the left.
+
+72
+00:04:35,560 --> 00:04:37,800
+And the same thing if I go too far to the right,
+
+73
+00:04:37,900 --> 00:04:39,760
+the white fog line will turn red,
+
+74
+00:04:39,860 --> 00:04:41,940
+letting me know I'm going too far to the right.
+
+75
+00:04:42,040 --> 00:04:43,700
+The GPS unit is also equipped
+
+76
+00:04:43,701 --> 00:04:45,740
+with other warning sensors.
+
+77
+00:04:45,840 --> 00:04:48,340
+We also have a seat function I can turn on,
+
+78
+00:04:48,440 --> 00:04:51,440
+which will vibrate the left side of my seat
+
+79
+00:04:51,540 --> 00:04:53,780
+as I travel over the center line.
+
+80
+00:04:53,880 --> 00:04:55,880
+And again, if I go too far to the right
+
+81
+00:04:55,980 --> 00:04:57,580
+and start to travel over the fog line,
+
+82
+00:04:57,680 --> 00:04:59,380
+it will vibrate the right side of my seat.
+
+83
+00:05:03,680 --> 00:05:05,460
+Too far to the left at the wrong moment
+
+84
+00:05:05,560 --> 00:05:10,360
+could mean a head-on collision with a semi.
+
+85
+00:05:10,460 --> 00:05:13,200
+But radar enables the system to pick up the location
+
+86
+00:05:13,201 --> 00:05:16,200
+of other vehicles, so drivers know when to make room
+
+87
+00:05:16,300 --> 00:05:18,540
+for a truck that's about to pass,
+
+88
+00:05:18,640 --> 00:05:21,940
+and when to slow down for an obstruction ahead.
+
+89
+00:05:22,040 --> 00:05:24,840
+It's a major advancement in reducing driver's stress
+
+90
+00:05:24,940 --> 00:05:26,680
+and fatigue on the job.
+
+91
+00:05:26,780 --> 00:05:29,080
+These trucks are basically one-man armies.
+
+92
+00:05:29,180 --> 00:05:31,520
+They really have reduced the amount of time
+
+93
+00:05:31,620 --> 00:05:34,180
+that we have to spend in our graders removing snowpack,
+
+94
+00:05:34,280 --> 00:05:36,320
+and they're really an impressive vehicle.
+
+95
+00:05:36,321 --> 00:05:39,320
+Plow trucks do their part to keep the roads open
+
+96
+00:05:39,321 --> 00:05:41,320
+throughout Alaska's winters.
+
+97
+00:05:41,321 --> 00:05:43,320
+But keeping your own car on the road
+
+98
+00:05:43,321 --> 00:05:46,320
+is a whole other battle.
+
+99
+00:05:46,321 --> 00:05:49,320
+Most cars are simply not built to operate at temperatures
+
+100
+00:05:49,321 --> 00:05:51,320
+down to 60 below.
+
+101
+00:05:51,321 --> 00:05:53,320
+And the danger of breaking down in these conditions
+
+102
+00:05:53,321 --> 00:05:55,320
+can't be overestimated.
+
+103
+00:05:55,321 --> 00:05:57,320
+You're fighting the cold weather.
+
+104
+00:05:57,321 --> 00:05:59,320
+You're fighting your vehicle.
+
+105
+00:05:59,321 --> 00:06:01,320
+You know, we got a saying that you don't know what
+
+106
+00:06:01,321 --> 00:06:02,320
+you're doing.
+
+107
+00:06:02,321 --> 00:06:04,320
+You're fighting your vehicle.
+
+108
+00:06:04,321 --> 00:06:06,820
+You know, we got to sing Mother Nature
+
+109
+00:06:06,821 --> 00:06:08,320
+because she can be a frigid bitch up here.
+
+110
+00:06:09,680 --> 00:06:12,660
+Ken Boschert runs his car shop out of Fairbanks,
+
+111
+00:06:12,980 --> 00:06:15,260
+where everyone knows he's the man to see
+
+112
+00:06:15,261 --> 00:06:16,640
+about winterizing a vehicle.
+
+113
+00:06:17,760 --> 00:06:20,240
+Because here, even a daily commute
+
+114
+00:06:20,241 --> 00:06:22,520
+can quickly become a matter of life and death.
+
+115
+00:06:24,020 --> 00:06:25,220
+Buddy and I went to the gym,
+
+116
+00:06:26,000 --> 00:06:27,640
+broke down on his way home from the gym.
+
+117
+00:06:27,780 --> 00:06:28,660
+He's still in his shorts.
+
+118
+00:06:29,060 --> 00:06:30,520
+He goes to walk home, he makes it,
+
+119
+00:06:30,900 --> 00:06:33,820
+but he frostbit his foot, and he actually lost a toe.
+
+120
+00:06:34,320 --> 00:06:36,860
+So now he's got four tails on one foot.
+
+121
+00:06:36,861 --> 00:06:38,960
+Simple thing, just driving home from the gym,
+
+122
+00:06:38,961 --> 00:06:41,520
+50 below one night.
+
+123
+00:06:41,521 --> 00:06:42,820
+It can happen.
+
+124
+00:06:42,821 --> 00:06:46,060
+Every year, Ken spends the summer outfitting cars
+
+125
+00:06:46,061 --> 00:06:48,860
+with Alaska-tested cold-fighting kits.
+
+126
+00:06:48,861 --> 00:06:51,980
+The first challenge would be to actually just get the car running.
+
+127
+00:06:51,981 --> 00:06:53,480
+You've got to get started every morning.
+
+128
+00:06:53,481 --> 00:06:56,680
+And it's 60 below zero, batteries don't work.
+
+129
+00:06:56,681 --> 00:06:58,620
+And so if you don't have your car winterized
+
+130
+00:06:58,621 --> 00:06:59,880
+with a whole bunch of heaters on it,
+
+131
+00:06:59,881 --> 00:07:01,680
+it's not going to do nothing.
+
+132
+00:07:01,681 --> 00:07:03,420
+So we got one of these four-way boxes,
+
+133
+00:07:03,421 --> 00:07:06,720
+It plugs into your house on this end.
+
+134
+00:07:06,721 --> 00:07:08,620
+And what we do is we mount this under the hood
+
+135
+00:07:08,621 --> 00:07:10,920
+in a nice place so it doesn't get dirty or wet.
+
+136
+00:07:10,921 --> 00:07:12,920
+And then these are silicone pad heaters.
+
+137
+00:07:12,921 --> 00:07:14,460
+They do different jobs.
+
+138
+00:07:16,460 --> 00:07:19,260
+The silicone pads are glued onto specific parts
+
+139
+00:07:19,261 --> 00:07:21,880
+of the engine to keep it warm.
+
+140
+00:07:21,881 --> 00:07:24,780
+Here is a 100-watt silicone pad heater,
+
+141
+00:07:24,781 --> 00:07:27,580
+and it's glued right onto the oil pan.
+
+142
+00:07:27,581 --> 00:07:29,780
+All right, here we see the cord coming up front.
+
+143
+00:07:29,781 --> 00:07:32,420
+Glue it right on the automatic transmission pan,
+
+144
+00:07:32,421 --> 00:07:34,080
+and you can put it in gear, and the transmission
+
+145
+00:07:34,081 --> 00:07:36,560
+actually lets the vehicle move.
+
+146
+00:07:36,561 --> 00:07:39,260
+One that's a 600-watt, it's a freeze plug heater,
+
+147
+00:07:39,261 --> 00:07:40,860
+and it heats all the coolant in the engine.
+
+148
+00:07:40,861 --> 00:07:42,760
+This is the one that does most of the work,
+
+149
+00:07:42,761 --> 00:07:44,360
+and it just gets blistering hot.
+
+150
+00:07:44,361 --> 00:07:46,160
+This little heater element fits right in the,
+
+151
+00:07:46,161 --> 00:07:49,480
+just fits right in the coolant jacket and bolts in.
+
+152
+00:07:49,481 --> 00:07:52,280
+When all four of Ken's heaters are working properly,
+
+153
+00:07:52,281 --> 00:07:54,580
+they fool the engine into thinking that it's operating
+
+154
+00:07:54,581 --> 00:07:57,680
+at a temperature of about 50 above zero.
+
+155
+00:07:57,681 --> 00:08:00,320
+But once the car is running, it still has obstacles
+
+156
+00:08:00,321 --> 00:08:02,420
+to contend with on the road.
+
+157
+00:08:02,421 --> 00:08:03,880
+You need some great tires like these.
+
+158
+00:08:03,881 --> 00:08:06,260
+These are great tires, big tires.
+
+159
+00:08:06,261 --> 00:08:07,920
+But if you notice in here, it's all these,
+
+160
+00:08:07,921 --> 00:08:09,360
+see all these little cuts?
+
+161
+00:08:09,361 --> 00:08:10,960
+This is called siping.
+
+162
+00:08:10,961 --> 00:08:14,060
+And these little cuts get you extra traction on the ice
+
+163
+00:08:14,061 --> 00:08:16,660
+because they'll expand out, and they'll just,
+
+164
+00:08:16,661 --> 00:08:18,780
+they'll actually just take a little bite of that ice,
+
+165
+00:08:18,781 --> 00:08:20,900
+and they'll pull you along, and help keep your steering
+
+166
+00:08:20,901 --> 00:08:23,380
+and braking good so you can stay on the road.
+
+167
+00:08:23,381 --> 00:08:25,680
+As if the cold and ice weren't enough.
+
+168
+00:08:25,681 --> 00:08:27,740
+Remember, it's dark out all the time.
+
+169
+00:08:27,741 --> 00:08:28,820
+It's just dark.
+
+170
+00:08:28,821 --> 00:08:30,980
+We come to work in the dark, we go home in the dark.
+
+171
+00:08:30,981 --> 00:08:32,420
+It's always dark.
+
+172
+00:08:32,421 --> 00:08:34,380
+And that's not all drivers face.
+
+173
+00:08:34,381 --> 00:08:37,860
+The moose in Alaska are the biggest of their species.
+
+174
+00:08:37,861 --> 00:08:41,820
+And every year, 400 to 500 get killed in car accidents,
+
+175
+00:08:41,821 --> 00:08:43,600
+taking some people out with them.
+
+176
+00:08:43,601 --> 00:08:44,800
+So it's great to have moose lights.
+
+177
+00:08:44,801 --> 00:08:47,240
+Big safety features, not just to look cool.
+
+178
+00:08:47,241 --> 00:08:48,640
+They actually have a purpose.
+
+179
+00:08:48,641 --> 00:08:52,980
+They look cool, but it's a safety issue.
+
+180
+00:08:52,981 --> 00:08:54,740
+Keeping your truck running is important
+
+181
+00:08:54,741 --> 00:08:55,980
+in the towns and cities.
+
+182
+00:09:02,420 --> 00:09:06,100
+But the majority of the state is not even accessible by roads.
+
+183
+00:09:07,360 --> 00:09:09,880
+So to really stay mobile through the winters up here,
+
+184
+00:09:10,180 --> 00:09:12,620
+you've got to winterize your plane.
+
+185
+00:09:13,360 --> 00:09:15,400
+There are things that Alaskans know very well.
+
+186
+00:09:15,620 --> 00:09:17,500
+Snow is one of them. Flying on snow is another.
+
+187
+00:09:18,540 --> 00:09:20,740
+And that requires landing on snow.
+
+188
+00:09:21,640 --> 00:09:25,320
+If I have skis on, the world is my runway in the middle of winter
+
+189
+00:09:25,321 --> 00:09:27,300
+if I have skis. I can land on snow anywhere.
+
+190
+00:09:27,301 --> 00:09:36,140
+Airglass is Alaska's leading manufacturer of landing skis for all kinds of aircraft,
+
+191
+00:09:36,580 --> 00:09:40,320
+from military helicopters to single-engine Cessnas.
+
+192
+00:09:40,321 --> 00:09:42,960
+An engineer named Wes Landis started
+
+193
+00:09:42,961 --> 00:09:46,708
+the company in 1954 out of his Anchorage garage.
+
+194
+00:09:46,709 --> 00:09:50,300
+He changed the game for aircraft skis by using
+
+195
+00:09:50,301 --> 00:09:54,936
+the cutting-edge material Airglass still uses today, fiberglass.
+
+196
+00:09:54,937 --> 00:09:56,820
+Some of the helicopters we
+
+197
+00:09:56,821 --> 00:10:00,220
+We make skis for the military hold up to 55,000 pounds.
+
+198
+00:10:00,221 --> 00:10:03,920
+So the technology has driven how do we make those skis,
+
+199
+00:10:03,921 --> 00:10:06,460
+how do we make them light, how do we make them functional.
+
+200
+00:10:06,461 --> 00:10:07,860
+For some of their products,
+
+201
+00:10:07,861 --> 00:10:11,640
+Airglass uses a new highly durable fiberglass composite
+
+202
+00:10:11,641 --> 00:10:13,100
+called Twintex.
+
+203
+00:10:13,101 --> 00:10:14,840
+It's basically indestructible.
+
+204
+00:10:14,841 --> 00:10:19,480
+It's very flexible, and it's very good for impact resistance,
+
+205
+00:10:19,481 --> 00:10:22,680
+which is what aircraft skis typically run into,
+
+206
+00:10:22,681 --> 00:10:26,440
+is a lot of pounding on the snow and ice.
+
+207
+00:10:26,441 --> 00:10:29,680
+Tom Lawhorn and Joe Witteshek are one of the expert teams
+
+208
+00:10:29,681 --> 00:10:31,740
+who make each pair of skis by hand.
+
+209
+00:10:32,900 --> 00:10:35,600
+Our largest single cost is labor.
+
+210
+00:10:36,320 --> 00:10:38,980
+And because it's highly skilled and it's all hand done,
+
+211
+00:10:39,380 --> 00:10:40,640
+we wouldn't have it any other way.
+
+212
+00:10:43,160 --> 00:10:45,100
+Today, the team is making skis
+
+213
+00:10:45,101 --> 00:10:47,480
+that will fit up to a 4,000-pound Cessna.
+
+214
+00:10:48,080 --> 00:10:50,180
+The process starts at the vacuum mold.
+
+215
+00:10:51,260 --> 00:10:54,500
+The team uses suction to help pull the flexible fabric
+
+216
+00:10:54,501 --> 00:10:55,420
+tightly into shape.
+
+217
+00:10:55,421 --> 00:10:59,420
+They layer a total of eight sheets of fiberglass into a mold.
+
+218
+00:10:59,421 --> 00:11:03,420
+The mold goes into an oven, where the composite bakes
+
+219
+00:11:03,421 --> 00:11:06,420
+until the layers liquefy and bond together.
+
+220
+00:11:06,421 --> 00:11:10,420
+As it cools, it solidifies into shape as one rigid piece.
+
+221
+00:11:10,421 --> 00:11:14,420
+It may not look like it, but this piece of fiberglass
+
+222
+00:11:14,421 --> 00:11:18,420
+is much stronger than a similar-sized piece of wood,
+
+223
+00:11:20,420 --> 00:11:23,420
+which is what pilots were stuck with before World War II
+
+224
+00:11:23,421 --> 00:11:27,160
+inspired innovations in landing gear in Alaska.
+
+225
+00:11:27,260 --> 00:11:29,460
+The breakthrough was sparked by an invasion
+
+226
+00:11:29,560 --> 00:11:32,060
+that most of us in the rest of the US tend to forget.
+
+227
+00:11:35,160 --> 00:11:38,660
+In June 1942, Japanese soldiers landed
+
+228
+00:11:38,760 --> 00:11:42,480
+on Alaska's Aleutian Islands, starting a grueling 15-month
+
+229
+00:11:42,580 --> 00:11:46,780
+air war, the first armed invasion of American soil
+
+230
+00:11:46,880 --> 00:11:49,880
+since the War of 1812.
+
+231
+00:11:49,980 --> 00:11:52,140
+With so few runways in Alaska, planes
+
+232
+00:11:52,141 --> 00:11:55,840
+planes that could land on water soon held the edge.
+
+233
+00:11:55,940 --> 00:11:58,740
+But their aluminum floats had some problems on snow.
+
+234
+00:12:04,280 --> 00:12:07,080
+When fiberglass became available after the war,
+
+235
+00:12:07,180 --> 00:12:09,900
+Wes Landis was inspired to see what this new material could
+
+236
+00:12:10,000 --> 00:12:12,100
+do for snow landings.
+
+237
+00:12:12,200 --> 00:12:14,000
+Turns out, a lot.
+
+238
+00:12:17,900 --> 00:12:20,300
+Tom and Joe are now ready to join the top and bottom
+
+239
+00:12:20,301 --> 00:12:25,740
+and bottom halves of the ski together using a powerful resin.
+
+240
+00:12:25,741 --> 00:12:32,460
+After a few hours, the ski is ready for its hardware and rigging.
+
+241
+00:12:32,461 --> 00:12:35,980
+This is a completed LH4000.
+
+242
+00:12:35,981 --> 00:12:37,220
+The hardware is on it.
+
+243
+00:12:37,221 --> 00:12:39,580
+It has a completed bottom.
+
+244
+00:12:39,581 --> 00:12:42,300
+It's been trimmed to the final size.
+
+245
+00:12:42,301 --> 00:12:46,100
+One of Airglass's unique designs is a hydraulic door
+
+246
+00:12:46,101 --> 00:12:49,460
+that allows skis to be attached to the landing gear alongside the wheels.
+
+247
+00:12:50,100 --> 00:12:55,520
+In the early days before each flight, pilots had to choose wheels or skis.
+
+248
+00:12:56,000 --> 00:12:58,400
+Now they can select either option while in flight.
+
+249
+00:12:59,120 --> 00:13:03,060
+A big plus for safety and another example of homegrown innovation.
+
+250
+00:13:03,780 --> 00:13:08,760
+So I do believe made in Alaska, designed in Alaska by people that are flying in Alaska makes a big difference.
+
+251
+00:13:12,120 --> 00:13:13,760
+Coming up...
+
+252
+00:13:13,761 --> 00:13:17,760
+Nature's unpredictable behavior calls for new tech
+
+253
+00:13:17,860 --> 00:13:19,160
+to keep pilots alive.
+
+254
+00:13:19,260 --> 00:13:22,200
+We used to kill one pilot every nine days in Alaska.
+
+255
+00:13:22,300 --> 00:13:25,500
+When Alaska Tech returns on Modern Marvels.
+
+256
+00:13:29,600 --> 00:13:33,420
+We now return to Alaska Tech on Modern Marvels.
+
+257
+00:13:36,620 --> 00:13:40,120
+On this tech journey through America's last frontier,
+
+258
+00:13:40,220 --> 00:13:42,760
+we've seen some of the unique tools Alaskans use
+
+259
+00:13:42,761 --> 00:13:46,260
+use to keep moving through relentless cold and ice.
+
+260
+00:13:46,360 --> 00:13:49,760
+But that is just the tip of the iceberg.
+
+261
+00:13:49,860 --> 00:13:53,900
+Alaskans also face a host of other natural extremes.
+
+262
+00:13:54,000 --> 00:13:57,000
+Because when Mother Nature hits here, she hits big.
+
+263
+00:14:02,520 --> 00:14:03,420
+Take earthquakes.
+
+264
+00:14:06,020 --> 00:14:09,620
+Of the 15 strongest quakes ever recorded worldwide,
+
+265
+00:14:09,720 --> 00:14:12,760
+three were in Alaska, including a colossal
+
+266
+00:14:12,761 --> 00:14:17,360
+earthquake that devastated Anchorage in 1964.
+
+267
+00:14:17,460 --> 00:14:20,360
+It's still the second largest earthquake ever recorded.
+
+268
+00:14:26,500 --> 00:14:30,820
+After the earthquakes, frequently come the killer waves,
+
+269
+00:14:30,920 --> 00:14:33,420
+as the shaking Earth causes underwater landslides
+
+270
+00:14:33,520 --> 00:14:35,820
+that push massive walls of water toward land.
+
+271
+00:14:35,821 --> 00:14:40,320
+toward land.
+
+272
+00:14:40,420 --> 00:14:45,800
+In 1958, a super tsunami, the largest wave ever known,
+
+273
+00:14:45,900 --> 00:14:49,000
+exploded in Lituya Bay in Alaska's Panhandle.
+
+274
+00:14:52,140 --> 00:14:55,780
+At 1,720 feet, the wave was more than 50 times taller
+
+275
+00:14:55,880 --> 00:14:58,440
+than the one that hit Japan in 2011.
+
+276
+00:14:58,540 --> 00:15:01,340
+Fortunately, it struck an unpopulated area,
+
+277
+00:15:01,440 --> 00:15:04,480
+but it uprooted millions of trees on mountaintops that
+
+278
+00:15:04,481 --> 00:15:08,480
+that still lay bare today.
+
+279
+00:15:08,481 --> 00:15:12,420
+If that weren't enough, there's also Alaska's more explosive
+
+280
+00:15:12,421 --> 00:15:13,220
+adversaries.
+
+281
+00:15:16,420 --> 00:15:18,920
+The state has more than 40 active volcanoes.
+
+282
+00:15:26,640 --> 00:15:31,440
+We have several eruptions per decade compared to the lower
+
+283
+00:15:31,441 --> 00:15:34,740
+where we have a few eruptions per century.
+
+284
+00:15:34,840 --> 00:15:36,580
+So a lot of action up here.
+
+285
+00:15:36,680 --> 00:15:39,680
+Rick Wessels monitors volcanoes as part of a team
+
+286
+00:15:39,780 --> 00:15:42,080
+at the Alaska Volcano Observatory.
+
+287
+00:15:42,180 --> 00:15:43,480
+It depends on the volcano.
+
+288
+00:15:43,580 --> 00:15:45,380
+Every volcano is a different beast.
+
+289
+00:15:45,480 --> 00:15:47,960
+So it responds slightly differently to each one.
+
+290
+00:15:48,060 --> 00:15:50,900
+The team uses seismic instruments, gas analysis,
+
+291
+00:15:51,000 --> 00:15:54,000
+and satellite imagery to detect movement and temperature
+
+292
+00:15:54,100 --> 00:15:55,900
+changes on Alaska's active volcanoes.
+
+293
+00:15:55,901 --> 00:15:57,640
+I'm not sure this is true.
+
+294
+00:15:57,740 --> 00:15:58,840
+Yeah, that's good.
+
+295
+00:15:58,940 --> 00:16:01,880
+One big clue is midwinter in Alaska, of course,
+
+296
+00:16:01,980 --> 00:16:05,640
+is usually frozen solid at these elevations of these volcanoes.
+
+297
+00:16:05,740 --> 00:16:06,740
+But all of a sudden, we're starting
+
+298
+00:16:06,840 --> 00:16:09,220
+to see liquid water near the top of the volcano.
+
+299
+00:16:09,320 --> 00:16:11,420
+There's water flowing, which doesn't happen in the winter
+
+300
+00:16:11,520 --> 00:16:14,680
+unless something else is going on, like the volcano heating up.
+
+301
+00:16:14,780 --> 00:16:16,580
+That's currently happening on Cleveland
+
+302
+00:16:16,680 --> 00:16:19,760
+Volcano in the Aleutian Islands.
+
+303
+00:16:19,860 --> 00:16:23,220
+Its recent rise in temperature has crews keeping careful watch
+
+304
+00:16:23,320 --> 00:16:24,120
+around the clock.
+
+305
+00:16:24,121 --> 00:16:25,120
+around the clock.
+
+306
+00:16:25,121 --> 00:16:26,120
+We can see the energy.
+
+307
+00:16:26,121 --> 00:16:32,700
+If there were a big eruption cloud in any one of these volcanoes, including the ones
+
+308
+00:16:32,701 --> 00:16:35,820
+we're focusing on, which is Cleveland Volcano right here, we'd actually be able to see
+
+309
+00:16:35,821 --> 00:16:36,820
+that develop.
+
+310
+00:16:36,821 --> 00:16:39,300
+And this data is captured about every 15 minutes.
+
+311
+00:16:39,301 --> 00:16:48,960
+Monitoring the data daily is crucial, especially for pilots.
+
+312
+00:16:48,961 --> 00:16:51,540
+Thousands of planes fly these northern skies every day,
+
+313
+00:16:52,120 --> 00:16:55,060
+including large commercial jets with international destinations.
+
+314
+00:16:56,240 --> 00:16:58,640
+A giant ash cloud would endanger them all.
+
+315
+00:17:02,940 --> 00:17:06,960
+For example, in 1987, a redoubt volcano erupted,
+
+316
+00:17:07,740 --> 00:17:09,680
+about 100 miles from Anchorage's airport.
+
+317
+00:17:10,840 --> 00:17:14,540
+When a KLM 747 jet flew through the ash cloud,
+
+318
+00:17:15,180 --> 00:17:16,720
+all four engines failed.
+
+319
+00:17:16,721 --> 00:17:21,020
+The plane fell 14,000 feet before the captain could restart
+
+320
+00:17:21,120 --> 00:17:23,020
+the engines and land.
+
+321
+00:17:23,120 --> 00:17:25,320
+Miraculously, no lives were lost,
+
+322
+00:17:25,420 --> 00:17:28,660
+but the near tragedy cost $80 million in damages.
+
+323
+00:17:32,260 --> 00:17:35,680
+To avoid future accidents, geologist Christy Wallace
+
+324
+00:17:35,780 --> 00:17:38,480
+is seeking a better understanding of ash clouds.
+
+325
+00:17:38,580 --> 00:17:40,480
+CHRISTY WALLACE, What we know about ash clouds
+
+326
+00:17:40,580 --> 00:17:45,020
+is that they contain glass shards, mineral fragments,
+
+327
+00:17:45,021 --> 00:17:46,860
+mineral fragments, and rock fragments.
+
+328
+00:17:46,861 --> 00:17:49,340
+And all of those together can be very abrasive.
+
+329
+00:17:49,780 --> 00:17:51,840
+But Christie has found that the glass content
+
+330
+00:17:51,841 --> 00:17:54,260
+is what's most dangerous to aviation.
+
+331
+00:17:54,660 --> 00:17:58,480
+And that glass can melt at operating temperatures of jet engines.
+
+332
+00:17:58,840 --> 00:18:01,120
+Which can disable a plane in minutes.
+
+333
+00:18:02,260 --> 00:18:05,280
+Christie's study will determine where and when it's safe to fly
+
+334
+00:18:05,281 --> 00:18:09,000
+after an eruption to avoid unnecessary grounding of air traffic.
+
+335
+00:18:09,820 --> 00:18:12,640
+That's huge in Alaska, where without planes,
+
+336
+00:18:12,641 --> 00:18:14,640
+are totally cut off from basic needs.
+
+337
+00:18:20,640 --> 00:18:26,640
+80% of Alaskan villages are not accessible by road.
+
+338
+00:18:26,641 --> 00:18:29,640
+Planes deliver mail, groceries, and medicine.
+
+339
+00:18:29,641 --> 00:18:32,640
+They get children to school and the sick to the hospital.
+
+340
+00:18:32,641 --> 00:18:35,640
+When you dial 911 for an ambulance,
+
+341
+00:18:35,641 --> 00:18:40,640
+you don't get a car, you get a small airplane.
+
+342
+00:18:40,641 --> 00:18:44,640
+But Alaska is also one of the most dangerous places to fly.
+
+343
+00:18:44,641 --> 00:18:47,640
+We used to kill one pilot every nine days in Alaska
+
+344
+00:18:47,641 --> 00:18:51,640
+and have one major accident every three days.
+
+345
+00:18:51,641 --> 00:18:54,640
+Challenging flying Alaska due to the terrain
+
+346
+00:18:54,641 --> 00:18:56,640
+and changing weather conditions
+
+347
+00:18:56,641 --> 00:18:59,640
+and lack of aviation infrastructure in general.
+
+348
+00:18:59,641 --> 00:19:02,640
+The standard radar technology relied on by pilots
+
+349
+00:19:02,641 --> 00:19:06,640
+in the lower 48 has never even existed here.
+
+350
+00:19:06,641 --> 00:19:08,640
+It's too difficult to install and maintain
+
+351
+00:19:08,641 --> 00:19:12,480
+to install and maintain in the vast remote areas of the state.
+
+352
+00:19:12,481 --> 00:19:15,180
+In Alaska, within 10 minutes flying time,
+
+353
+00:19:15,181 --> 00:19:18,640
+you are out in a place where no man has actually walked
+
+354
+00:19:18,641 --> 00:19:22,080
+and no buildings or infrastructure is available.
+
+355
+00:19:22,081 --> 00:19:24,480
+Without radar, until recently, pilots here
+
+356
+00:19:24,481 --> 00:19:28,900
+had only one tool for navigation, their eyesight.
+
+357
+00:19:28,901 --> 00:19:31,040
+That's why airplane accident rates in Alaska
+
+358
+00:19:31,041 --> 00:19:35,140
+were five times higher than in the rest of the country.
+
+359
+00:19:35,141 --> 00:19:37,980
+To save lives, the Alaska aviation industry
+
+360
+00:19:37,981 --> 00:19:41,580
+collaborated with the FAA to develop a new state-of-the-art
+
+361
+00:19:41,680 --> 00:19:44,080
+piloting technology.
+
+362
+00:19:44,180 --> 00:19:49,020
+Called the Capstone Program, this system uses GPS instead of radar
+
+363
+00:19:49,120 --> 00:19:52,660
+to constantly update pilots on flying conditions.
+
+364
+00:19:52,760 --> 00:19:55,140
+Pilots access the information from a single screen
+
+365
+00:19:55,240 --> 00:19:56,740
+on their dashboard.
+
+366
+00:19:56,840 --> 00:19:59,740
+The navigation function keeps them on their flight path,
+
+367
+00:19:59,840 --> 00:20:02,580
+while a continuous weather uplink informs them of Alaska's
+
+368
+00:20:02,680 --> 00:20:06,540
+constantly changing climate conditions.
+
+369
+00:20:06,541 --> 00:20:09,880
+The traffic feature enables a plane to transmit its position
+
+370
+00:20:09,881 --> 00:20:12,080
+and receive other aircraft's positions
+
+371
+00:20:12,081 --> 00:20:14,940
+via GPS and ground stations.
+
+372
+00:20:14,941 --> 00:20:18,820
+It's a vast improvement to just looking out the window.
+
+373
+00:20:18,821 --> 00:20:20,920
+The terrain display is a piloting feature
+
+374
+00:20:20,921 --> 00:20:24,260
+totally unique to Alaska.
+
+375
+00:20:24,261 --> 00:20:27,200
+A majority of accidents here are referred to as CFIT,
+
+376
+00:20:27,201 --> 00:20:30,000
+or controlled flight into terrain.
+
+377
+00:20:30,001 --> 00:20:31,560
+That means crashing into a mountain
+
+378
+00:20:31,561 --> 00:20:33,500
+you didn't know was there.
+
+379
+00:20:33,501 --> 00:20:35,800
+This is a good example out the front window.
+
+380
+00:20:35,801 --> 00:20:39,100
+Even though the sun's out, you can still see snow fields
+
+381
+00:20:39,200 --> 00:20:41,840
+on the bottom with the white clouds a little on top.
+
+382
+00:20:41,940 --> 00:20:44,340
+And you can't really tell where the clouds stop
+
+383
+00:20:44,440 --> 00:20:47,540
+and where the terrain starts.
+
+384
+00:20:47,640 --> 00:20:50,740
+Now the capstone system sees it for you.
+
+385
+00:20:50,840 --> 00:20:53,360
+Color coding indicates changes in terrain heights
+
+386
+00:20:53,460 --> 00:20:55,460
+around you as you fly.
+
+387
+00:20:55,560 --> 00:20:58,920
+Anything green is 2,000 feet below.
+
+388
+00:20:59,020 --> 00:21:01,360
+Yellow is within 500 feet.
+
+389
+00:21:01,460 --> 00:21:04,760
+And red is at or above your altitude.
+
+390
+00:21:04,761 --> 00:21:08,360
+So in the red, you're dead.
+
+391
+00:21:08,460 --> 00:21:11,460
+With constantly updated information at their fingertips,
+
+392
+00:21:11,560 --> 00:21:14,100
+pilots here fly much safer skies.
+
+393
+00:21:14,200 --> 00:21:16,300
+In just one year with the new system,
+
+394
+00:21:16,400 --> 00:21:20,200
+Alaska's aviation accident rate dropped 47%.
+
+395
+00:21:20,300 --> 00:21:23,980
+It's a far, far safer place than it used to be.
+
+396
+00:21:24,080 --> 00:21:27,480
+By 2020, the FAA plans to equip the lower 48
+
+397
+00:21:27,580 --> 00:21:29,880
+with the second generation of this system,
+
+398
+00:21:29,980 --> 00:21:33,380
+aptly calling it next gen.
+
+399
+00:21:33,381 --> 00:21:35,380
+environment in Alaska was a perfect place to test out
+
+400
+00:21:35,381 --> 00:21:37,380
+the new technology.
+
+401
+00:21:37,381 --> 00:21:39,380
+If you didn't have an Alaska as a test ground,
+
+402
+00:21:39,381 --> 00:21:41,380
+then you would have invented one.
+
+403
+00:21:43,380 --> 00:21:46,380
+Coming up, roads and houses built on ice
+
+404
+00:21:46,381 --> 00:21:48,380
+can't take the heat.
+
+405
+00:21:48,381 --> 00:21:50,380
+And this gold digger's got the right tools
+
+406
+00:21:50,381 --> 00:21:52,380
+to hit pay dirt.
+
+407
+00:21:52,381 --> 00:21:56,380
+My best days in gold mining was 38 ounces, 15 minutes.
+
+408
+00:22:03,380 --> 00:22:09,720
+Fish, plants, and insects in Alaska have adapted to survive at temperatures down to 60 below zero,
+
+409
+00:22:10,140 --> 00:22:12,360
+thanks to antifreezing proteins in their blood.
+
+410
+00:22:13,040 --> 00:22:17,340
+Scientists have begun to isolate these unique proteins and make use of them in new ways,
+
+411
+00:22:17,520 --> 00:22:20,560
+from making ice cream to de-icing planes.
+
+412
+00:22:21,180 --> 00:22:23,560
+Alaska Tech will return on Modern Marvels.
+
+413
+00:22:27,780 --> 00:22:31,500
+We now return to Alaska Tech on Modern Marvels.
+
+414
+00:22:33,380 --> 00:22:36,220
+We've seen how tough a subarctic environment can be
+
+415
+00:22:36,320 --> 00:22:38,520
+on cars and trucks.
+
+416
+00:22:38,620 --> 00:22:40,120
+But what about the roads they drive on?
+
+417
+00:22:42,820 --> 00:22:45,520
+It turns out the biggest threat to Alaska's highways
+
+418
+00:22:45,620 --> 00:22:50,140
+lies beneath them in the form of permafrost.
+
+419
+00:22:50,240 --> 00:22:54,240
+Permafrost is ice-rich soil that forms just below the surface
+
+420
+00:22:54,340 --> 00:22:57,040
+and has been frozen for at least two years.
+
+421
+00:22:57,140 --> 00:23:00,340
+It covers 25 million kilometers of our planet,
+
+422
+00:23:00,440 --> 00:23:02,740
+yet most of us have never seen it.
+
+423
+00:23:02,741 --> 00:23:05,480
+But in Alaska, it can't be escaped.
+
+424
+00:23:06,200 --> 00:23:08,440
+Permafrost blankets 80% of the state.
+
+425
+00:23:09,040 --> 00:23:11,900
+It lies under most of Alaska's roads and highways,
+
+426
+00:23:12,420 --> 00:23:13,660
+providing a hard base.
+
+427
+00:23:14,360 --> 00:23:16,020
+That is, until it melts.
+
+428
+00:23:19,360 --> 00:23:21,320
+Permafrost, as long as it's frozen,
+
+429
+00:23:21,440 --> 00:23:22,920
+it's good stable stuff, right?
+
+430
+00:23:23,380 --> 00:23:26,960
+But once it thaws, it's water-saturated goo
+
+431
+00:23:26,961 --> 00:23:28,060
+where the water runs away.
+
+432
+00:23:29,700 --> 00:23:32,340
+Dr. Matthew Sturm studies permafrost
+
+433
+00:23:32,341 --> 00:23:34,700
+at the Cold Regions Research and Engineering Lab
+
+434
+00:23:34,701 --> 00:23:35,840
+near Fairbanks.
+
+435
+00:23:36,460 --> 00:23:38,140
+The lab is actually a tunnel,
+
+436
+00:23:38,500 --> 00:23:39,820
+the only one of its kind,
+
+437
+00:23:40,560 --> 00:23:41,700
+providing a rare window
+
+438
+00:23:41,701 --> 00:23:44,240
+into what Alaskan engineers are up against.
+
+439
+00:23:44,860 --> 00:23:49,640
+So we know that permafrost is soil, rock, and ice,
+
+440
+00:23:49,760 --> 00:23:51,900
+but often it's hard to see the ice in there.
+
+441
+00:23:52,160 --> 00:23:54,420
+Here's a good place to see the fact
+
+442
+00:23:54,421 --> 00:23:56,240
+that there's a lot of ice.
+
+443
+00:23:57,000 --> 00:23:58,740
+There are several types of ice features
+
+444
+00:23:58,741 --> 00:24:00,540
+that can exist within permafrost,
+
+445
+00:24:00,541 --> 00:24:02,880
+often layered on top of each other in columns
+
+446
+00:24:02,980 --> 00:24:05,780
+that can be up to 1,000 feet deep.
+
+447
+00:24:05,880 --> 00:24:10,480
+So the column we're looking at here, it's mostly water.
+
+448
+00:24:10,580 --> 00:24:13,280
+You wouldn't build a road on a lake that was frozen
+
+449
+00:24:13,380 --> 00:24:18,300
+and expect it to survive that spring, right?
+
+450
+00:24:18,400 --> 00:24:20,500
+That's information Alaskans could have used
+
+451
+00:24:20,600 --> 00:24:23,200
+before building their highway system,
+
+452
+00:24:23,300 --> 00:24:25,900
+since most of their roads run through the most problematic
+
+453
+00:24:26,000 --> 00:24:30,540
+permafrost region, creating relentless road hazards.
+
+454
+00:24:30,541 --> 00:24:35,540
+Mike Coffey heads up the Alaska DOT maintenance division.
+
+455
+00:24:35,640 --> 00:24:37,340
+His massive road repair operation
+
+456
+00:24:37,440 --> 00:24:39,140
+comes with a hefty price tag.
+
+457
+00:24:39,240 --> 00:24:42,080
+MIKE COFFEY, Alaska DOT maintenance division.
+
+458
+00:24:42,180 --> 00:24:43,080
+We spend $10 million to $12 million
+
+459
+00:24:43,180 --> 00:24:45,480
+because that's what we have available to do the work.
+
+460
+00:24:45,580 --> 00:24:51,100
+If we had $20 million, we'd be spending $20 million.
+
+461
+00:24:51,200 --> 00:24:54,100
+Year after year, crews spend the short summer months
+
+462
+00:24:54,200 --> 00:24:57,840
+patching cracks and gaping holes in the roads
+
+463
+00:24:57,841 --> 00:25:02,420
+and leveling out what they refer to as the roller coaster effect.
+
+464
+00:25:03,120 --> 00:25:05,320
+It's a never-ending game of catch-up.
+
+465
+00:25:05,980 --> 00:25:10,080
+We're basically, you know, the Band-Aid on the big problem.
+
+466
+00:25:10,980 --> 00:25:15,320
+So the big goal is to find new ways to stop the thawing before it starts.
+
+467
+00:25:15,820 --> 00:25:19,260
+So the interesting thing for engineers in Alaska
+
+468
+00:25:19,261 --> 00:25:21,580
+is we're basically in the refrigeration business.
+
+469
+00:25:22,120 --> 00:25:26,920
+We try to keep the ground frozen to keep the structure on top of it stable.
+
+470
+00:25:26,921 --> 00:25:29,960
+So this may look like a big pile of rocks,
+
+471
+00:25:30,060 --> 00:25:32,120
+but it's actually a state-of-the-art air conditioning
+
+472
+00:25:32,220 --> 00:25:34,560
+system for the ground.
+
+473
+00:25:34,660 --> 00:25:36,960
+It's called an air convection embankment,
+
+474
+00:25:37,060 --> 00:25:38,560
+or ACE rock system.
+
+475
+00:25:38,660 --> 00:25:44,580
+The concept of the ACE rock is it's all 6 to 12-inch rock,
+
+476
+00:25:44,680 --> 00:25:46,580
+and there's a lot of voids in it.
+
+477
+00:25:46,680 --> 00:25:50,080
+And so what it allows is air circulation
+
+478
+00:25:50,180 --> 00:25:52,080
+during the winter time.
+
+479
+00:25:52,180 --> 00:25:54,580
+The weight of the road causes the ground below it
+
+480
+00:25:54,680 --> 00:25:55,680
+to heat up.
+
+481
+00:25:55,681 --> 00:25:58,220
+rather than trapping all that heat in the soil,
+
+482
+00:25:58,320 --> 00:26:01,160
+the hot air can now rise up through the voids between the
+
+483
+00:26:01,260 --> 00:26:05,860
+rocks, while the cold air from above is drawn into the ground,
+
+484
+00:26:05,960 --> 00:26:08,320
+keeping the permafrost frozen below.
+
+485
+00:26:08,420 --> 00:26:13,000
+So we have to try and be proactive and learn on our own
+
+486
+00:26:13,100 --> 00:26:14,200
+because it's our problem.
+
+487
+00:26:18,900 --> 00:26:20,900
+Permafrost's unstable surface
+
+488
+00:26:21,000 --> 00:26:23,200
+presents similar problems for Alaska's construction
+
+489
+00:26:23,300 --> 00:26:25,680
+industry.
+
+490
+00:26:25,681 --> 00:26:28,780
+Building projects, like this hospital in Nome,
+
+491
+00:26:28,880 --> 00:26:31,180
+face a sobering challenge.
+
+492
+00:26:31,280 --> 00:26:33,560
+A large building can generate enough heat
+
+493
+00:26:33,660 --> 00:26:37,500
+to accelerate the permafrost's thawing significantly.
+
+494
+00:26:37,600 --> 00:26:39,800
+That means buildings often buckle and cave
+
+495
+00:26:39,900 --> 00:26:41,800
+into collapsed ground.
+
+496
+00:26:41,900 --> 00:26:43,100
+The solution?
+
+497
+00:26:43,200 --> 00:26:46,240
+Place the building on pilings to keep these monster heat
+
+498
+00:26:46,340 --> 00:26:51,900
+sources off the ground and allow for circulation in between.
+
+499
+00:26:52,000 --> 00:26:55,680
+40 to 60 foot pilings are driven deep into the soil.
+
+500
+00:26:55,681 --> 00:26:58,680
+This pile is vertical.
+
+501
+00:26:58,780 --> 00:27:01,280
+It's essentially what we call a friction pile.
+
+502
+00:27:01,380 --> 00:27:04,420
+It's held in the ground by the friction of the ground.
+
+503
+00:27:04,520 --> 00:27:07,220
+But friction only works when the ground is frozen,
+
+504
+00:27:07,320 --> 00:27:09,420
+and eventually the surrounding permafrost soil
+
+505
+00:27:09,520 --> 00:27:11,620
+will start to thaw.
+
+506
+00:27:11,720 --> 00:27:15,340
+They got to bring in the big guns.
+
+507
+00:27:15,440 --> 00:27:17,140
+So we don't need a big area frozen,
+
+508
+00:27:17,240 --> 00:27:19,740
+but we need the area around that pile frozen.
+
+509
+00:27:19,840 --> 00:27:21,780
+So that's why you'll see a thermal siphon
+
+510
+00:27:21,880 --> 00:27:24,240
+adjacent to every pile.
+
+511
+00:27:24,241 --> 00:27:32,860
+A thermosyphon is a tube driven into the ground, in this case near each piling.
+
+512
+00:27:32,861 --> 00:27:37,200
+Liquid carbon dioxide fills the bottom of the tube, which absorbs heat from the earth
+
+513
+00:27:37,201 --> 00:27:39,180
+until it boils.
+
+514
+00:27:39,181 --> 00:27:44,320
+The resulting vapor rises to the top of the tube and passes through cooling fins before
+
+515
+00:27:44,321 --> 00:27:46,580
+it's released into the air.
+
+516
+00:27:46,581 --> 00:27:51,240
+This keeps the nearby ground temperatures well below freezing, so the permafrost can't
+
+517
+00:27:51,241 --> 00:27:58,740
+melt and gives the building a good chance to survive 50 years or more.
+
+518
+00:27:58,741 --> 00:28:01,680
+But if permafrost is a challenge to build on,
+
+519
+00:28:01,681 --> 00:28:05,700
+it's virtually impossible to build through.
+
+520
+00:28:05,701 --> 00:28:08,400
+To install water and sewage pipes in Alaska,
+
+521
+00:28:08,401 --> 00:28:11,100
+building crews need to dig down at least six feet
+
+522
+00:28:11,101 --> 00:28:13,640
+under the permafrost layer.
+
+523
+00:28:13,641 --> 00:28:16,320
+If they lay the pipe any closer to the permafrost,
+
+524
+00:28:16,321 --> 00:28:19,400
+it could get crushed when the thaw sets in.
+
+525
+00:28:19,401 --> 00:28:24,640
+That lens will fall out of there and then will create a void.
+
+526
+00:28:24,641 --> 00:28:26,580
+And then the ground sinks.
+
+527
+00:28:26,581 --> 00:28:29,120
+And when that happens, that's no good for pipe,
+
+528
+00:28:29,121 --> 00:28:31,780
+because what will happen is the pipe will sink.
+
+529
+00:28:31,781 --> 00:28:33,780
+Just getting the water to flow to your tap
+
+530
+00:28:33,781 --> 00:28:35,240
+brings on another set of challenges.
+
+531
+00:28:38,880 --> 00:28:40,980
+Water systems in the lower 48 states
+
+532
+00:28:40,981 --> 00:28:43,200
+have pipes full of stagnant water,
+
+533
+00:28:43,201 --> 00:28:45,060
+ready to be released at the turn of a tap.
+
+534
+00:28:45,061 --> 00:28:49,600
+But in some towns in Alaska where temperatures frequently dip
+
+535
+00:28:49,660 --> 00:28:53,600
+as low as 60 below, how do they keep water pipes from freezing
+
+536
+00:28:53,660 --> 00:28:55,000
+and bursting?
+
+537
+00:28:55,060 --> 00:28:56,200
+The trick?
+
+538
+00:28:56,280 --> 00:28:57,700
+Constant circulation.
+
+539
+00:29:01,300 --> 00:29:05,020
+In Arctic towns, the power plant maintains a minimum input
+
+540
+00:29:05,080 --> 00:29:08,620
+of 100 gallons of water coming in from wells at all times.
+
+541
+00:29:08,680 --> 00:29:11,860
+It's heated here and then runs through town and back
+
+542
+00:29:11,861 --> 00:29:14,760
+It's heated here and then runs through town and back
+
+543
+00:29:14,761 --> 00:29:18,600
+in a continuous loop 24-7.
+
+544
+00:29:18,601 --> 00:29:22,440
+As long as the water keeps moving, it won't freeze.
+
+545
+00:29:22,441 --> 00:29:24,900
+And Alaskans can get water out of their taps
+
+546
+00:29:24,901 --> 00:29:28,240
+through record-breaking cold.
+
+547
+00:29:28,241 --> 00:29:30,840
+Alaska's permafrost means nothing is simple here.
+
+548
+00:29:33,580 --> 00:29:38,360
+Even straightening up the house takes on a whole new meaning.
+
+549
+00:29:38,361 --> 00:29:41,800
+Over time, many homes built on permafrost soil
+
+550
+00:29:41,801 --> 00:29:44,300
+into the ground haphazardly.
+
+551
+00:29:44,400 --> 00:29:48,100
+As ice wedges below thaw, the soil disappears,
+
+552
+00:29:48,200 --> 00:29:50,540
+and houses have nowhere to go but down.
+
+553
+00:29:53,240 --> 00:29:56,740
+To fight back against the thaw, some Alaskans raise their houses
+
+554
+00:29:56,840 --> 00:30:01,660
+on stilts, but gradual sinking is inevitable.
+
+555
+00:30:01,760 --> 00:30:04,320
+So homeowners have to level their houses periodically
+
+556
+00:30:04,420 --> 00:30:07,160
+to adjust for the disappearing ground.
+
+557
+00:30:07,260 --> 00:30:09,720
+It's not surprising that the increasing rate of thawing
+
+558
+00:30:09,721 --> 00:30:11,720
+of thawing due to climate change,
+
+559
+00:30:11,721 --> 00:30:15,720
+has scientists and engineers worried for Alaska's future?
+
+560
+00:30:15,721 --> 00:30:17,220
+So we always thought that permafrost,
+
+561
+00:30:17,221 --> 00:30:20,220
+even in a warming climate, would thaw very slowly.
+
+562
+00:30:20,221 --> 00:30:22,220
+We'd have time to respond.
+
+563
+00:30:22,221 --> 00:30:24,220
+You know, if we've got 200 years to respond,
+
+564
+00:30:24,221 --> 00:30:25,220
+we're going to be okay.
+
+565
+00:30:25,221 --> 00:30:28,220
+But if we've got two decades, we're not.
+
+566
+00:30:36,220 --> 00:30:38,220
+If most climate scientists are right,
+
+567
+00:30:38,221 --> 00:30:40,560
+Alaskans will have to make some major changes
+
+568
+00:30:40,660 --> 00:30:45,560
+in the years ahead to be able to survive on the tundra.
+
+569
+00:30:45,660 --> 00:30:50,260
+Next up, sleds built for maximum speed.
+
+570
+00:30:50,360 --> 00:30:53,060
+We have a smoother riding, faster sled now
+
+571
+00:30:53,160 --> 00:30:54,900
+than we have for years.
+
+572
+00:30:55,000 --> 00:30:58,280
+And a heroic mission puts this small town on the map.
+
+573
+00:31:03,580 --> 00:31:05,980
+To construct houses for Arctic conditions,
+
+574
+00:31:05,981 --> 00:31:10,840
+Some Alaskan home builders are taking a cue from a traditional model, igloos.
+
+575
+00:31:11,360 --> 00:31:15,020
+They've developed a spray foam that mimics the insulation of ice blocks.
+
+576
+00:31:15,840 --> 00:31:19,560
+Air pockets get trapped inside it, keeping the structure airtight.
+
+577
+00:31:20,240 --> 00:31:22,740
+Alaska Tech will return on Modern Marvels.
+
+578
+00:31:26,020 --> 00:31:29,680
+We now return to Alaska Tech on Modern Marvels.
+
+579
+00:31:29,681 --> 00:31:34,680
+The hardy souls that choose to live in Alaska relish the
+
+580
+00:31:34,780 --> 00:31:36,680
+challenge of extreme weather.
+
+581
+00:31:40,820 --> 00:31:44,360
+But residents of the isolated town of Nome take this to a
+
+582
+00:31:44,460 --> 00:31:45,700
+whole new level.
+
+583
+00:31:47,760 --> 00:31:50,940
+This small town lies on the Seward Peninsula, just off the
+
+584
+00:31:51,040 --> 00:31:53,500
+coast of the Bering Sea.
+
+585
+00:31:53,600 --> 00:31:57,140
+Its sub-arctic climate makes for long, grueling winters and
+
+586
+00:31:57,141 --> 00:31:59,140
+and short, cool summers.
+
+587
+00:32:02,640 --> 00:32:04,640
+There's no state road into Nome,
+
+588
+00:32:04,641 --> 00:32:07,980
+so the town's 3,500 residents live totally cut off
+
+589
+00:32:07,981 --> 00:32:11,480
+from ground access in or out.
+
+590
+00:32:11,481 --> 00:32:14,800
+Planes are the only motorized way to get supplies in,
+
+591
+00:32:14,801 --> 00:32:16,800
+except during the short summer months,
+
+592
+00:32:16,801 --> 00:32:20,600
+when Nomers rely heavily on barges.
+
+593
+00:32:20,601 --> 00:32:23,440
+There's a large variety of items that come in on the barge.
+
+594
+00:32:23,441 --> 00:32:26,140
+Just about anything you see down in the lower 48,
+
+595
+00:32:26,141 --> 00:32:29,980
+you wouldn't think twice about running down the street,
+
+596
+00:32:30,080 --> 00:32:32,580
+but we have to think ahead and plan ahead
+
+597
+00:32:32,680 --> 00:32:34,780
+and have it barged in.
+
+598
+00:32:34,880 --> 00:32:38,220
+Without the barges to bring us the main material,
+
+599
+00:32:38,320 --> 00:32:39,880
+the cargo and the fuel that we need,
+
+600
+00:32:39,980 --> 00:32:42,960
+it would be much more difficult to function here
+
+601
+00:32:43,060 --> 00:32:44,660
+and to develop and build.
+
+602
+00:32:49,360 --> 00:32:52,200
+Building projects here face an extremely limited working
+
+603
+00:32:52,300 --> 00:32:54,660
+window before winter sets in.
+
+604
+00:32:54,661 --> 00:32:56,700
+The urgency has picked up.
+
+605
+00:32:56,800 --> 00:32:58,000
+We're now in overdrive.
+
+606
+00:32:58,100 --> 00:33:02,700
+This is September, and what you didn't get done in September,
+
+607
+00:33:02,800 --> 00:33:04,340
+there are going to be some projects you're just
+
+608
+00:33:04,440 --> 00:33:07,600
+going to have to wait until next year.
+
+609
+00:33:07,700 --> 00:33:09,340
+This hospital construction project
+
+610
+00:33:09,440 --> 00:33:12,940
+is nearing completion, but there's still much left to do.
+
+611
+00:33:13,040 --> 00:33:14,520
+So crews are working overtime.
+
+612
+00:33:18,820 --> 00:33:21,380
+They're building an addition to Noam's Hospital,
+
+613
+00:33:21,480 --> 00:33:24,020
+first constructed almost a century ago,
+
+614
+00:33:24,021 --> 00:33:28,020
+and probably the most famous hospital in Alaska.
+
+615
+00:33:28,120 --> 00:33:31,320
+It was here in 1925 that victims of ditheria
+
+616
+00:33:31,420 --> 00:33:34,700
+came for treatment, sparking an epidemic that nearly wiped out
+
+617
+00:33:34,800 --> 00:33:37,000
+the entire population of Nome.
+
+618
+00:33:37,100 --> 00:33:39,600
+The only available medicine was in Anchorage,
+
+619
+00:33:39,700 --> 00:33:42,900
+but brutal weather made flying it in impossible.
+
+620
+00:33:43,000 --> 00:33:47,780
+So the life-saving serum traveled partway by train.
+
+621
+00:33:47,880 --> 00:33:50,480
+And then resourceful Alaskans turned
+
+622
+00:33:50,481 --> 00:33:53,820
+to their last resort, dog sleds.
+
+623
+00:33:53,920 --> 00:33:58,980
+A heroic team effort included 20 mushers and over 100 dogs,
+
+624
+00:33:59,080 --> 00:34:02,620
+relaying across 674 miles of frozen tundra.
+
+625
+00:34:07,360 --> 00:34:10,300
+In 5 and 1 half days, they delivered the vaccine
+
+626
+00:34:10,400 --> 00:34:13,200
+to the hospital in time to save many children from death.
+
+627
+00:34:13,201 --> 00:34:18,200
+This epic journey launched Alaska's most famous sporting
+
+628
+00:34:18,201 --> 00:34:22,200
+event, the Iditarod.
+
+629
+00:34:22,201 --> 00:34:25,200
+Every year, the race brings together mushers from around
+
+630
+00:34:25,201 --> 00:34:29,200
+the world to retrace the course from Anchorage to Nome.
+
+631
+00:34:29,201 --> 00:34:34,200
+Mushers know that a quality sled can make you or break you.
+
+632
+00:34:38,200 --> 00:34:42,200
+So many of Alaska's finest turn to Bernie Willis,
+
+633
+00:34:42,201 --> 00:34:46,200
+We turn to Bernie Willis, a seasoned sled maker
+
+634
+00:34:46,201 --> 00:34:48,940
+whose unique designs have led many to victory.
+
+635
+00:34:48,941 --> 00:34:54,840
+The function of a sled over the snow has never changed.
+
+636
+00:34:54,841 --> 00:34:58,640
+So what I've tried to do is adapt modern materials
+
+637
+00:34:58,641 --> 00:35:02,560
+to the traditional function of a sled over the snow.
+
+638
+00:35:02,561 --> 00:35:05,860
+Bernie's sleds work just as effectively for everyday use,
+
+639
+00:35:05,861 --> 00:35:08,160
+as sleds remain a common mode of transportation
+
+640
+00:35:08,161 --> 00:35:10,160
+in remote parts of the state.
+
+641
+00:35:10,161 --> 00:35:13,920
+There are quite a few people in Alaska that use sleds out of necessity.
+
+642
+00:35:17,920 --> 00:35:21,920
+Bernie's sleds are constructed piece by piece for maximum performance.
+
+643
+00:35:27,440 --> 00:35:32,560
+Inspired by the design of downhill skis, Bernie builds runners that are tapered and
+
+644
+00:35:32,561 --> 00:35:37,680
+consist of several strips of wood, unlike traditional runners shaped from one thick piece.
+
+645
+00:35:37,681 --> 00:35:40,320
+I don't know of any other dog sled makers that
+
+646
+00:35:40,420 --> 00:35:42,820
+use the wedge piece.
+
+647
+00:35:42,920 --> 00:35:45,360
+Then he reinforces his runners with two layers
+
+648
+00:35:45,460 --> 00:35:46,160
+of fiberglass.
+
+649
+00:35:51,700 --> 00:35:54,900
+The fabric he uses for the sled's bed decreases drag
+
+650
+00:35:55,000 --> 00:35:56,660
+to keep the momentum moving forward.
+
+651
+00:36:00,200 --> 00:36:04,240
+It was inspired by his days of flying airplanes.
+
+652
+00:36:04,340 --> 00:36:07,200
+I was sitting in the cockpit of the last night
+
+653
+00:36:07,201 --> 00:36:11,200
+jet one day, and I saw the baggage cart go by and saw
+
+654
+00:36:11,300 --> 00:36:15,140
+the curtains flopping against the suitcases.
+
+655
+00:36:15,240 --> 00:36:18,940
+And I thought, that material is really strong.
+
+656
+00:36:19,040 --> 00:36:23,440
+I bet that would work as a sled bed.
+
+657
+00:36:23,540 --> 00:36:27,760
+Bernie also uses plastic and rubber from bicycle tires
+
+658
+00:36:27,860 --> 00:36:31,760
+to give a musher extra traction on his sled.
+
+659
+00:36:31,860 --> 00:36:34,800
+Design updates like these pay off for a musher running
+
+660
+00:36:34,801 --> 00:36:39,140
+or a musher running a long, treacherous course.
+
+661
+00:36:39,141 --> 00:36:43,200
+Some have increased their speeds by 10% with his sleds.
+
+662
+00:36:43,201 --> 00:36:46,320
+So we have a smoother riding, faster sled now
+
+663
+00:36:46,321 --> 00:36:49,880
+than we have for years.
+
+664
+00:36:49,881 --> 00:36:52,020
+Sled makers like Bernie worked feverishly
+
+665
+00:36:52,021 --> 00:36:54,220
+through the summer to get deliveries out in time
+
+666
+00:36:54,221 --> 00:36:56,320
+for the winter racing season.
+
+667
+00:36:56,321 --> 00:36:58,720
+But just because there's no snow in those months
+
+668
+00:36:58,721 --> 00:37:00,700
+doesn't mean mushers stop training.
+
+669
+00:37:00,701 --> 00:37:05,700
+Many, like Nils Hahn, use creative tactics
+
+670
+00:37:05,800 --> 00:37:08,900
+to keep their dog teams in tough shape during the offseason.
+
+671
+00:37:09,000 --> 00:37:12,240
+They just love to run, so whenever they are hooked up
+
+672
+00:37:12,340 --> 00:37:15,540
+to a tug line and a neck line and have a harness on them,
+
+673
+00:37:15,640 --> 00:37:18,660
+you know, it's in creating them where they want to just pull
+
+674
+00:37:18,760 --> 00:37:20,060
+as hard as they can.
+
+675
+00:37:20,160 --> 00:37:22,360
+That's the case whether they're pulling a sled
+
+676
+00:37:22,460 --> 00:37:23,960
+or an ATV.
+
+677
+00:37:25,960 --> 00:37:28,460
+The dogs are hooked up in their sled configuration,
+
+678
+00:37:28,461 --> 00:37:31,600
+configuration, six pairs of two.
+
+679
+00:37:31,601 --> 00:37:34,460
+Nils uses his brakes to control their speed,
+
+680
+00:37:34,461 --> 00:37:37,500
+but the rest of the job is up to the dogs.
+
+681
+00:37:37,501 --> 00:37:40,240
+So four-wheelers, you know, it's pretty noisy
+
+682
+00:37:40,241 --> 00:37:43,640
+and pretty bumpy, but it's also very, very handy
+
+683
+00:37:43,641 --> 00:37:45,520
+for dog training.
+
+684
+00:37:45,521 --> 00:37:48,520
+Muddy summer trails are rougher than the nicely groomed ones
+
+685
+00:37:48,521 --> 00:37:50,080
+they run in winter.
+
+686
+00:37:50,081 --> 00:37:52,460
+So if Nils can keep his team at a four-minute mile
+
+687
+00:37:52,461 --> 00:37:54,760
+for two hours in these conditions,
+
+688
+00:37:54,761 --> 00:37:57,260
+He knows the dogs will be able to do it in a race.
+
+689
+00:38:02,760 --> 00:38:06,420
+Coming up, a modern-day gold rush,
+
+690
+00:38:06,421 --> 00:38:09,560
+where low-tech tools can find treasure in the sand.
+
+691
+00:38:09,561 --> 00:38:10,960
+That's the pay street.
+
+692
+00:38:10,961 --> 00:38:11,960
+That's what you're looking for.
+
+693
+00:38:11,961 --> 00:38:14,260
+Alaska Tech will return on Modern Marvels.
+
+694
+00:38:18,720 --> 00:38:21,760
+We now return to Alaska Tech on Modern Marvels.
+
+695
+00:38:24,760 --> 00:38:29,760
+Despite the challenges that come with its terrain and weather,
+
+696
+00:38:29,860 --> 00:38:32,700
+Alaska remains a land of opportunity
+
+697
+00:38:32,800 --> 00:38:34,700
+for those armed with the right tools.
+
+698
+00:38:37,800 --> 00:38:40,800
+In coastal towns like Nome, specialized boats
+
+699
+00:38:40,900 --> 00:38:42,820
+are key to the summer economy.
+
+700
+00:38:42,920 --> 00:38:46,820
+Between June and September, Nome Harbor is full of them,
+
+701
+00:38:46,920 --> 00:38:51,320
+some out for fish, a plenty of others for gold.
+
+702
+00:38:54,760 --> 00:38:56,920
+We normally think of California as home
+
+703
+00:38:57,020 --> 00:39:00,460
+to the big American gold rush, but Alaska's heyday
+
+704
+00:39:00,560 --> 00:39:05,600
+lasted almost four times longer, spanning close to 40 years.
+
+705
+00:39:05,700 --> 00:39:08,600
+The area around Nome became a hotbed of gold prospecting
+
+706
+00:39:08,700 --> 00:39:12,120
+in 1898, when gold was discovered in the beaches
+
+707
+00:39:12,220 --> 00:39:13,220
+along the Bering Sea.
+
+708
+00:39:16,320 --> 00:39:20,720
+28,000 people flocked to Nome for their shot at wealth.
+
+709
+00:39:20,820 --> 00:39:23,760
+Since then, over 5 million ounces of gold
+
+710
+00:39:23,761 --> 00:39:26,900
+have been found in this area.
+
+711
+00:39:27,000 --> 00:39:29,000
+And there's still much more to be had,
+
+712
+00:39:29,100 --> 00:39:31,200
+if you're willing to spend the time and money to look.
+
+713
+00:39:37,900 --> 00:39:41,420
+John Manns concentrates on offshore gold mining.
+
+714
+00:39:41,520 --> 00:39:44,720
+His dredging vessel is a customized pontoon boat,
+
+715
+00:39:44,820 --> 00:39:47,620
+which he's modified for maximum gold-sucking power.
+
+716
+00:39:51,020 --> 00:39:53,060
+John and his dredging partner dive
+
+717
+00:39:53,061 --> 00:39:58,060
+whenever weather allows, always exploring new parts of the sea.
+
+718
+00:39:58,160 --> 00:40:00,060
+This is about where I first started last year,
+
+719
+00:40:00,160 --> 00:40:02,700
+my first time out here in the sun.
+
+720
+00:40:02,800 --> 00:40:05,500
+OK, let's do set anchor right here and see what that does.
+
+721
+00:40:10,480 --> 00:40:12,840
+Dredging is the process of sucking up sections
+
+722
+00:40:12,940 --> 00:40:14,680
+of the ocean floor.
+
+723
+00:40:14,780 --> 00:40:18,960
+It's the most efficient way to extract gold here.
+
+724
+00:40:19,060 --> 00:40:22,120
+John's attached a powerful engine to an 8-inch hose,
+
+725
+00:40:22,121 --> 00:40:24,520
+turning it into a giant vacuum.
+
+726
+00:40:24,620 --> 00:40:27,860
+Simple, but dangerous equipment.
+
+727
+00:40:27,960 --> 00:40:31,600
+These hoses are 40, 45, 50 foot long.
+
+728
+00:40:31,700 --> 00:40:34,100
+And when they're full of water and gravel,
+
+729
+00:40:34,200 --> 00:40:36,540
+it's like slaying a dragon.
+
+730
+00:40:36,640 --> 00:40:39,700
+You're pretty much on the losing end if it takes control of you.
+
+731
+00:40:47,940 --> 00:40:51,220
+As sand, dirt, and rocks are sucked up from the ocean floor,
+
+732
+00:40:51,221 --> 00:40:53,520
+They're sent through a series of compartments and filters
+
+733
+00:40:53,620 --> 00:40:56,260
+below the boat.
+
+734
+00:40:56,360 --> 00:40:59,460
+There, the gold settles out from the rest of the material
+
+735
+00:40:59,560 --> 00:41:01,560
+and gets filtered down into its pure form.
+
+736
+00:41:08,540 --> 00:41:12,080
+Owning a dredge is a big investment.
+
+737
+00:41:12,180 --> 00:41:15,220
+Building one costs at least $50,000,
+
+738
+00:41:15,320 --> 00:41:18,120
+and operating each year is another $50,000.
+
+739
+00:41:18,220 --> 00:41:20,120
+But with the value of gold so high,
+
+740
+00:41:20,121 --> 00:41:22,020
+the potential for payoff is great.
+
+741
+00:41:23,860 --> 00:41:28,020
+In 2011, gold was up around $1,800 an ounce,
+
+742
+00:41:28,740 --> 00:41:31,540
+making dredging a lucrative business for someone like John.
+
+743
+00:41:31,980 --> 00:41:36,480
+My best days in gold mining was 38 ounces,
+
+744
+00:41:36,600 --> 00:41:38,020
+and I made that in like 15 minutes.
+
+745
+00:41:38,600 --> 00:41:41,260
+It's no wonder they're calling the latest influx of gold seekers
+
+746
+00:41:41,261 --> 00:41:43,480
+a modern gold rush for Nome.
+
+747
+00:41:45,720 --> 00:41:48,100
+Even those who can't invest in a dredging business
+
+748
+00:41:48,101 --> 00:41:48,880
+can turn a profit.
+
+749
+00:41:50,120 --> 00:41:54,500
+Many, like Buddy, spend the summers combing Gnomes beaches instead,
+
+750
+00:41:55,640 --> 00:41:59,140
+using a portable gold-finding contraption called a rocker box.
+
+751
+00:42:00,760 --> 00:42:03,000
+Rocker boxes were around in the early days,
+
+752
+00:42:03,500 --> 00:42:06,400
+but thanks to modern additions like a generator and a pump hose,
+
+753
+00:42:07,080 --> 00:42:08,480
+Buddy can work much more efficiently.
+
+754
+00:42:10,680 --> 00:42:15,360
+Before picking a spot, Buddy checks for sand that shows a visible sign of gold.
+
+755
+00:42:17,020 --> 00:42:19,160
+I'm just trying to peel back the layer.
+
+756
+00:42:20,120 --> 00:42:22,480
+See the red? That's the pastry right there.
+
+757
+00:42:23,260 --> 00:42:24,440
+That's what you're looking for.
+
+758
+00:42:24,520 --> 00:42:26,900
+You go, when you prospect, you pan it,
+
+759
+00:42:26,960 --> 00:42:28,120
+you see how much gold is in it,
+
+760
+00:42:28,620 --> 00:42:30,560
+and if it's good enough,
+
+761
+00:42:30,700 --> 00:42:33,980
+then you do like I'm doing right now,
+
+762
+00:42:35,260 --> 00:42:38,420
+shovel it into the beach box and recover the gold from it.
+
+763
+00:42:40,180 --> 00:42:42,980
+The filtering process is similar to that on the dredge.
+
+764
+00:42:47,000 --> 00:42:48,920
+The bigger rocks get sifted out,
+
+765
+00:42:48,921 --> 00:42:52,620
+while the spray bars wash the remaining dirt and sand.
+
+766
+00:42:53,460 --> 00:42:56,740
+It falls through to a metal grate called a ripple board,
+
+767
+00:42:57,040 --> 00:42:59,580
+which creates a whirlpool effect from the running water.
+
+768
+00:43:00,600 --> 00:43:03,000
+As water flows over the grate and back to sea,
+
+769
+00:43:03,720 --> 00:43:05,460
+lighter sand and dirt go with it.
+
+770
+00:43:06,440 --> 00:43:09,260
+Gold is heavier, so instead it gets pulled down
+
+771
+00:43:09,261 --> 00:43:11,700
+and trapped by the astroturf material below.
+
+772
+00:43:13,760 --> 00:43:17,520
+Finally, Buddy carefully pans through small amounts of what's left
+
+773
+00:43:17,521 --> 00:43:22,000
+in order to extract the valuable gold nuggets.
+
+774
+00:43:22,100 --> 00:43:24,560
+Cleaning just one tablespoon of material
+
+775
+00:43:24,660 --> 00:43:27,400
+can take him up to an hour.
+
+776
+00:43:27,500 --> 00:43:29,900
+Buddy hasn't hit a huge payday yet,
+
+777
+00:43:30,000 --> 00:43:33,140
+but for him, searching is half the find.
+
+778
+00:43:33,240 --> 00:43:34,900
+It's a hobby.
+
+779
+00:43:35,000 --> 00:43:37,540
+The peace of mind that comes along with being here,
+
+780
+00:43:37,640 --> 00:43:41,040
+flipping at the ocean, hearing the waves is just an honor.
+
+781
+00:43:47,520 --> 00:43:50,360
+The hunt for gold is one of many opportunities
+
+782
+00:43:50,460 --> 00:43:53,860
+in this extreme state that has lured people for decades.
+
+783
+00:43:55,920 --> 00:43:58,360
+Though its volatile land creates challenges
+
+784
+00:43:58,460 --> 00:44:02,560
+for those who live here, their innovative solutions
+
+785
+00:44:02,660 --> 00:44:06,280
+prove that with a strong will and a can-do attitude,
+
+786
+00:44:06,380 --> 00:44:10,880
+you can make it and thrive in our frontier state.
+

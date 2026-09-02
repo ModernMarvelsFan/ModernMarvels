@@ -1,0 +1,2040 @@
+1
+00:00:22,474 --> 00:00:28,740
+The gun has played a critical role in history, an invention which has been praised and denounced,
+
+2
+00:00:28,741 --> 00:00:30,680
+served hero and villain alike,
+
+3
+00:00:31,060 --> 00:00:33,360
+and carries with it moral responsibility.
+
+4
+00:00:34,260 --> 00:00:37,460
+To understand the gun is to better understand history.
+
+5
+00:00:41,760 --> 00:00:44,340
+In the world of modern firearms,
+
+6
+00:00:44,760 --> 00:00:47,260
+the future is closer than you might imagine.
+
+7
+00:00:49,800 --> 00:00:53,680
+The marriage between sophisticated technology and tradition
+
+8
+00:00:53,681 --> 00:00:57,020
+has brought gun makers to the brink of a new frontier.
+
+9
+00:00:58,740 --> 00:01:09,020
+The products that can come out of this are really limited by the imagination of the engineering personnel that are assigned to the project working on it.
+
+10
+00:01:09,021 --> 00:01:11,841
+If we think we can do a ray gun, we probably can do a ray gun.
+
+11
+00:01:11,842 --> 00:01:14,980
+It's just going to take a little more technology, a little more time.
+
+12
+00:01:16,440 --> 00:01:25,360
+I think what we will see will be guns that fire bullets that will be able to go over top of barricades.
+
+13
+00:01:25,361 --> 00:01:27,920
+they'll explode over top of barricades
+
+14
+00:01:27,921 --> 00:01:30,180
+and they will strike the bad guys.
+
+15
+00:01:30,280 --> 00:01:33,200
+I haven't been told to go build a lightsaber yet,
+
+16
+00:01:33,280 --> 00:01:34,380
+but I'm waiting for that.
+
+17
+00:01:36,660 --> 00:01:38,840
+Since the first crude firearms
+
+18
+00:01:38,841 --> 00:01:40,960
+were forged by hand centuries ago,
+
+19
+00:01:41,200 --> 00:01:42,880
+the goal has been the same.
+
+20
+00:01:43,500 --> 00:01:46,540
+Make lighter, more durable, and smarter guns
+
+21
+00:01:46,541 --> 00:01:50,160
+that can fire faster, farther, and with more accuracy.
+
+22
+00:01:50,161 --> 00:02:04,161
+Ironically, in the next century, the goal will also be to make some guns less deadly.
+
+23
+00:02:04,360 --> 00:02:09,660
+But creating the guns of the future will go beyond making improvements to just the machinery
+
+24
+00:02:09,661 --> 00:02:10,660
+itself.
+
+25
+00:02:10,661 --> 00:02:16,500
+Looking at future weapons systems is to start moving your eyes from simply pipes with rifling
+
+26
+00:02:16,501 --> 00:02:22,900
+in them to systems that work together to accomplish the mission.
+
+27
+00:02:22,901 --> 00:02:28,280
+Right now we think of a rifle alone as a weapon system, and that's the gun.
+
+28
+00:02:28,281 --> 00:02:32,080
+But what we're beginning to do by putting electronics on the gun, putting electronics
+
+29
+00:02:32,081 --> 00:02:38,700
+on the soldier, and having the multiple soldiers being able to link together is then making
+
+30
+00:02:38,701 --> 00:02:44,820
+the entire element a weapon system.
+
+31
+00:02:44,821 --> 00:02:47,220
+The idea is simple.
+
+32
+00:02:47,221 --> 00:02:52,360
+Take what works and make it work in a changing world driven by the advanced technology of
+
+33
+00:02:52,361 --> 00:02:56,360
+computers.
+
+34
+00:02:56,361 --> 00:03:02,160
+However, implementing that idea is not an easy task, given that the basic components
+
+35
+00:03:02,161 --> 00:03:08,060
+of a gun are not much different than they were 100 years ago.
+
+36
+00:03:08,061 --> 00:03:13,180
+The history of firearms can be charted by a continuous, ongoing series of technical
+
+37
+00:03:13,181 --> 00:03:19,004
+advances. The first hand cannons replaced bows and arrows.
+
+38
+00:03:19,005 --> 00:03:22,820
+Match locks replaced the hand cannons.
+
+39
+00:03:25,460 --> 00:03:32,900
+Then came wheel locks, followed by flint locks, cartridge revolvers, and ultimately automatic
+
+40
+00:03:32,901 --> 00:03:34,152
+pistols and rifles.
+
+41
+00:03:34,153 --> 00:03:39,620
+In any given time, a particular gun would be the gun of the future. In other words,
+
+42
+00:03:39,621 --> 00:03:44,520
+the guns of the past at their particular place and time in history were futuristic guns.
+
+43
+00:03:47,200 --> 00:03:53,240
+The period since World War II has seen a rapid acceleration in improvements to gun technology.
+
+44
+00:03:54,120 --> 00:03:57,840
+The result has been guns of the future that exist today.
+
+45
+00:04:00,040 --> 00:04:06,220
+In the mid-1960s, for example, the Army introduced the M16 assault rifle,
+
+46
+00:04:06,221 --> 00:04:08,940
+which replaced the standard M14.
+
+47
+00:04:09,620 --> 00:04:17,660
+Initially called the AR-16, the M16 was made from metal alloys and plastics.
+
+48
+00:04:18,660 --> 00:04:23,280
+Thus the gun was much lighter, a tremendous benefit for soldiers in the field.
+
+49
+00:04:25,540 --> 00:04:29,720
+I was a young Marine in Vietnam at that time and carried an M14.
+
+50
+00:04:30,640 --> 00:04:34,260
+And the M14 had been the first gun that I had actually fired.
+
+51
+00:04:34,261 --> 00:04:40,120
+I formed the opinion that the M14 was certainly perhaps one of the finest rifles ever made.
+
+52
+00:04:40,720 --> 00:04:46,300
+However, I think, looking back at it, and even looking at the AR-1516 at that time,
+
+53
+00:04:46,660 --> 00:04:49,240
+it was a lot lighter, easier to carry.
+
+54
+00:04:49,440 --> 00:04:52,620
+I think it was certainly a weapon of the future.
+
+55
+00:04:55,000 --> 00:04:58,800
+But for every success, there have been dozens of misfires.
+
+56
+00:04:59,540 --> 00:05:01,520
+Some attempts failed miserably.
+
+57
+00:05:04,260 --> 00:05:10,760
+Maybe you could call them solutions for problems that didn't exist, but they were kind of fun
+
+58
+00:05:10,761 --> 00:05:13,360
+and they were certainly innovative in their time.
+
+59
+00:05:18,300 --> 00:05:22,680
+One such weapon developed in the 1960s was called the gyrojet.
+
+60
+00:05:23,240 --> 00:05:26,720
+It was not so much a gun as it was a small rocket launcher.
+
+61
+00:05:28,080 --> 00:05:33,700
+The way it works is the cartridges themselves are loaded into the gun, into the magazine.
+
+62
+00:05:34,260 --> 00:05:37,600
+The hammer is actually forward of the cartridge.
+
+63
+00:05:38,240 --> 00:05:41,120
+And what happens is that when you pull the trigger,
+
+64
+00:05:41,220 --> 00:05:46,740
+the hammer pushes the little rocket back onto a fixed firing pin.
+
+65
+00:05:47,240 --> 00:05:50,600
+This ignites the charge, and this thing takes off.
+
+66
+00:05:52,300 --> 00:05:55,020
+The gyrojet had two major drawbacks.
+
+67
+00:05:55,400 --> 00:05:58,760
+It was not very powerful, and it was wildly inaccurate.
+
+68
+00:06:00,960 --> 00:06:03,040
+We're not going to be able to fire this here today
+
+69
+00:06:03,041 --> 00:06:05,760
+because of the dry brush in Southern California
+
+70
+00:06:05,761 --> 00:06:08,980
+would probably ignite this whole place.
+
+71
+00:06:09,320 --> 00:06:12,200
+So unfortunately, we will not be able to fire it.
+
+72
+00:06:18,560 --> 00:06:22,000
+Another attempt to make a space-age gun was the Dardik.
+
+73
+00:06:23,880 --> 00:06:27,500
+What made the Dardik revolutionary was not so much the gun,
+
+74
+00:06:27,501 --> 00:06:28,720
+but its ammunition.
+
+75
+00:06:29,680 --> 00:06:32,960
+Triangular plastic-coated bullets called trowns
+
+76
+00:06:32,961 --> 00:06:38,160
+It was a revolver of sorts.
+
+77
+00:06:38,380 --> 00:06:42,280
+You took these little trowels and you put them in the magazine in the butt.
+
+78
+00:06:42,980 --> 00:06:49,260
+And as you pulled the trigger, it would kind of flop into the cylinder and you'd fire it.
+
+79
+00:06:49,300 --> 00:06:51,040
+And then the cylinder would rotate and it would fall out.
+
+80
+00:06:52,300 --> 00:06:55,500
+And it would pick up another one and then you'd fire it and then the next one would fall out.
+
+81
+00:06:56,140 --> 00:06:58,080
+The guns themselves were kind of flimsy.
+
+82
+00:06:59,380 --> 00:07:01,600
+Nobody cared. What's the advantage to this thing?
+
+83
+00:07:02,960 --> 00:07:09,960
+Today, the Dardik is a collector's item, and its ammunition is so rare that a single trownd caused...
+
+84
+00:07:11,580 --> 00:07:12,380
+$50.
+
+85
+00:07:15,820 --> 00:07:25,120
+Though the Dardik and the gyrojet were failures, they were emblematic of an ever-accelerating race to create new weapons for the next millennium.
+
+86
+00:07:25,121 --> 00:07:33,320
+Today, gun makers agree that the key to the future lies in the materials used
+
+87
+00:07:33,321 --> 00:07:42,040
+And the next generation of super guns will be made from synthetic alloys never before dreamed possible
+
+88
+00:07:42,041 --> 00:07:48,440
+Sioux warriors armed themselves with the Winchester Model 1866
+
+89
+00:07:48,441 --> 00:07:52,900
+When they confronted General George Custer's troops at the Battle of Little Bighorn
+
+90
+00:07:52,901 --> 00:07:55,860
+Modern Marvels will return in a moment.
+
+91
+00:07:58,500 --> 00:08:02,900
+We now return to Super Guns on Modern Marvels.
+
+92
+00:08:04,900 --> 00:08:13,660
+For those familiar with firearms, the new Heckler & Koch G36, introduced in 1999, is the future.
+
+93
+00:08:13,661 --> 00:08:27,661
+Made from a polymer plastic, the machine gun is one of the lightest automatic weapons in the world,
+
+94
+00:08:28,400 --> 00:08:30,920
+weighing in at just six and a half pounds.
+
+95
+00:08:32,540 --> 00:08:39,200
+The G36 as being a futuristic weapon, starting with the material that it's made of,
+
+96
+00:08:39,201 --> 00:08:44,700
+the receiver, the buttstock, the pistol grip, most parts of the pistol, the carry handle,
+
+97
+00:08:44,780 --> 00:08:46,360
+everything is just about polymire.
+
+98
+00:08:46,980 --> 00:08:51,560
+We are finding that polymire is a very durable, flexible, reliable material.
+
+99
+00:08:53,940 --> 00:08:56,760
+Even the gun's magazines are made from plastic.
+
+100
+00:08:57,440 --> 00:09:02,260
+They are more durable than steel magazines, which can dent if dropped on cement.
+
+101
+00:09:02,261 --> 00:09:13,900
+Besides its light weight, the G36 uses state-of-the-art gun technology to create a weapon that some
+
+102
+00:09:13,901 --> 00:09:15,940
+say is near perfect.
+
+103
+00:09:15,941 --> 00:09:23,600
+The gun is easy to assemble and disassemble.
+
+104
+00:09:23,601 --> 00:09:31,720
+It rarely needs cleaning, and it can be quickly adapted to any situation.
+
+105
+00:09:31,721 --> 00:09:36,760
+The G36 comes with three different barrels that can be changed in the field, depending
+
+106
+00:09:36,761 --> 00:09:40,160
+upon tactical needs.
+
+107
+00:09:40,161 --> 00:09:46,040
+Another futuristic feature of the G36 is the ability to change the sights to fit a specific
+
+108
+00:09:46,041 --> 00:09:50,620
+situation.
+
+109
+00:09:50,621 --> 00:10:00,040
+The G36 can use a traditional iron sight, a daylight scope, or a night vision scope.
+
+110
+00:10:00,041 --> 00:10:04,340
+Though it has become a favorite of the police, the weapon has also made an appearance in
+
+111
+00:10:04,341 --> 00:10:11,080
+the war zone, with German peacekeeping forces patrolling in Kosovo.
+
+112
+00:10:11,081 --> 00:10:16,400
+You will probably be able to look back at the G36 and realize that could be, or could
+
+113
+00:10:16,401 --> 00:10:21,640
+have been, or is the platform for the basis for whatever's coming in the future.
+
+114
+00:10:21,641 --> 00:10:24,560
+You know, we're talking about the Polymeyer, we're talking about the easy controls, the
+
+115
+00:10:24,561 --> 00:10:29,880
+cleaning, the maintenance, the ability to easily operate.
+
+116
+00:10:29,881 --> 00:10:35,020
+Ultimately, what sets the G36 apart from other weapons like it is its weight.
+
+117
+00:10:37,520 --> 00:10:42,320
+But gun manufacturers traditionally have been leery of making their products lighter
+
+118
+00:10:42,321 --> 00:10:44,320
+for fear of reducing durability.
+
+119
+00:10:47,620 --> 00:10:50,400
+Plastics and aluminum seem to be one answer.
+
+120
+00:10:51,400 --> 00:10:55,280
+At the Beretta manufacturing plant outside of Washington, D.C.,
+
+121
+00:10:55,281 --> 00:10:59,440
+the world's most popular handgun, the 9mm, is made.
+
+122
+00:10:59,880 --> 00:11:07,160
+What we started with is this solid block of aluminum, and you can see that we've hogged
+
+123
+00:11:07,161 --> 00:11:08,700
+that all out.
+
+124
+00:11:08,701 --> 00:11:14,760
+We've taken out about 75% of the weight, and you can see all the material that's been removed
+
+125
+00:11:14,761 --> 00:11:19,820
+and how we end up with this finished frame, which is now ready to be anodized and then
+
+126
+00:11:19,821 --> 00:11:25,560
+sent to the manufacturing and assembly area.
+
+127
+00:11:25,561 --> 00:11:32,960
+In the 1970s, the Glock automatic pistol revolutionized how people thought about plastics and firearms.
+
+128
+00:11:32,961 --> 00:11:38,900
+More than 90% of the gun was made from plastic, proving that the material could be used successfully
+
+129
+00:11:38,901 --> 00:11:44,500
+in a handgun.
+
+130
+00:11:44,501 --> 00:11:50,180
+But perhaps the most revolutionary material being utilized today is the metal alloy called
+
+131
+00:11:50,181 --> 00:11:51,180
+titanium.
+
+132
+00:11:55,560 --> 00:12:00,260
+Titanium is often used in the aircraft industry as a substitute for aluminum.
+
+133
+00:12:01,220 --> 00:12:05,020
+It is found in the outer skin and landing gear components of commercial planes.
+
+134
+00:12:05,900 --> 00:12:08,320
+It also serves as housing for jet engines.
+
+135
+00:12:13,400 --> 00:12:16,920
+Titanium has been widely used in missiles and space capsules,
+
+136
+00:12:17,360 --> 00:12:21,040
+and it was a major part of the Apollo and Gemini space programs.
+
+137
+00:12:25,560 --> 00:12:30,680
+But only in the past few years has titanium found a home in the gun industry.
+
+138
+00:12:34,260 --> 00:12:40,320
+Because it is a metal that bends, meaning it can be easily manipulated in the manufacturing process,
+
+139
+00:12:40,860 --> 00:12:44,400
+it was at first thought to have too much give to work in a firearm.
+
+140
+00:12:44,401 --> 00:12:56,560
+but by incorporating small sections of steel into the housing of a revolver
+
+141
+00:12:56,561 --> 00:13:01,520
+new ultra lightweight titanium handguns are starting to come on the market
+
+142
+00:13:01,521 --> 00:13:09,380
+the advantage is it's corrosion resistant it's much lighter than steel it's a little more
+
+143
+00:13:09,381 --> 00:13:14,740
+flexible, consequently you have a little bit of a problem making a gun completely out of
+
+144
+00:13:14,741 --> 00:13:20,380
+titanium. The Brazilian firm of Taurus has a superb new series of titanium revolvers
+
+145
+00:13:20,381 --> 00:13:23,400
+out where the guns are about 99.9% titanium.
+
+146
+00:13:25,080 --> 00:13:30,300
+But the guns still must have steel liners in their barrels because titanium cannot be
+
+147
+00:13:30,301 --> 00:13:37,860
+rifled. Other parts, like springs and the firing pin, must also be made from steel.
+
+148
+00:13:39,380 --> 00:13:46,760
+And because so much of the gun is made from light material, a large revolver can weigh as little as a pound.
+
+149
+00:13:49,880 --> 00:13:59,880
+In fact, the weight of the largest steel handgun made by Taurus, the .454 revolver, amazes even the most seasoned gun enthusiasts.
+
+150
+00:14:03,780 --> 00:14:08,260
+But super guns are not just ultralight weapons that still have power.
+
+151
+00:14:09,380 --> 00:14:17,320
+In the military, the simple act of firing at a target may someday incorporate a dizzying array of advanced technology.
+
+152
+00:14:19,480 --> 00:14:25,360
+But even there, the most important component still will be the soldier himself.
+
+153
+00:14:26,560 --> 00:14:33,100
+In 1956, Heckler and Koch developed the G3, an infantry rifle for the German army.
+
+154
+00:14:33,580 --> 00:14:37,500
+It was regarded as a milestone in the history of the defense industry.
+
+155
+00:14:38,340 --> 00:14:40,760
+Modern Marvels will continue in a moment.
+
+156
+00:14:43,580 --> 00:14:46,880
+Modern Marvels now returns to Super Guns.
+
+157
+00:14:51,560 --> 00:14:57,880
+At an underground military firing range, just outside of Washington, D.C.,
+
+158
+00:14:57,881 --> 00:15:01,940
+the Army's latest weapons technology is put through its paces.
+
+159
+00:15:01,941 --> 00:15:09,940
+Called the land warrior system, this weapon of the future is not just a gun, but an entire soldier.
+
+160
+00:15:15,940 --> 00:15:25,940
+Those developing the land warrior system use words more associated with computers than guns, software, batteries, mouses, joysticks.
+
+161
+00:15:25,941 --> 00:15:26,940
+joysticks.
+
+162
+00:15:26,941 --> 00:15:31,120
+You know, you always have to keep the situation.
+
+163
+00:15:31,121 --> 00:15:36,520
+Though the Army may not care for the comparison, a soldier equipped with a land warrior resembles
+
+164
+00:15:36,521 --> 00:15:39,700
+something out of a science fiction film.
+
+165
+00:15:39,701 --> 00:15:45,100
+What it enables you to do is, it enables you to give the individual soldier now enhanced
+
+166
+00:15:45,101 --> 00:15:46,880
+capability on the battlefield.
+
+167
+00:15:46,881 --> 00:15:52,220
+Now what's happened is we've now incorporated the chin mic system here, which is simply done
+
+168
+00:15:52,221 --> 00:15:55,700
+by activating on the chest, push the talk.
+
+169
+00:15:55,701 --> 00:15:59,860
+This enables now each individual soldier on the battlefield to voice communication at all times.
+
+170
+00:16:00,400 --> 00:16:03,840
+This is essential for command and control, especially at a leader standpoint.
+
+171
+00:16:05,500 --> 00:16:11,180
+The soldier carries an M4 machine gun, which is fitted with infrared and thermal sights.
+
+172
+00:16:15,460 --> 00:16:18,960
+A heads-up display can be accessed through an eyepiece,
+
+173
+00:16:19,160 --> 00:16:24,260
+which can give the soldier instant information about where he and his unit are in the field.
+
+174
+00:16:25,700 --> 00:16:31,580
+Okay, the IHAS here enables the soldier a direct link through his computer system to
+
+175
+00:16:31,581 --> 00:16:34,320
+the weapon system that the soldier carries now.
+
+176
+00:16:34,321 --> 00:16:37,460
+This weapon system is the M4 modular weapon system.
+
+177
+00:16:37,461 --> 00:16:41,140
+This weapon system was designed to incorporate different sights according to the mission.
+
+178
+00:16:41,141 --> 00:16:47,800
+Today, this leader configuration is equipped with a medium thermal weapon sight, a digital
+
+179
+00:16:47,801 --> 00:16:53,760
+laser rangefinder with integrated compass, a daylight video camera, and can also incorporate
+
+180
+00:16:53,761 --> 00:16:54,760
+a bayonet.
+
+181
+00:16:54,761 --> 00:17:02,020
+You literally start with a naked soldier who's trained and ready.
+
+182
+00:17:02,021 --> 00:17:08,140
+Then what we begin doing is we put the initial environmental layer around him, uniform, protection
+
+183
+00:17:08,141 --> 00:17:11,620
+from chemical environments, those type of things.
+
+184
+00:17:11,621 --> 00:17:19,100
+You then wrap him in any mission-specific equipment, load-bearing equipment, packs.
+
+185
+00:17:19,101 --> 00:17:25,780
+The third layer then becomes the digital components, the computer radio subsystem, the integrated
+
+186
+00:17:25,781 --> 00:17:32,060
+helmet assembly, which has the daylight video site and the night thermal site with the daylight
+
+187
+00:17:32,061 --> 00:17:35,760
+imaging capability in it.
+
+188
+00:17:35,761 --> 00:17:38,220
+He sends them a message and he may want to...
+
+189
+00:17:38,221 --> 00:17:43,200
+Platoon leaders carry a handheld computer screen, which allows them to manipulate data
+
+190
+00:17:43,201 --> 00:17:46,720
+in the field before sending it to command.
+
+191
+00:17:46,721 --> 00:17:50,880
+With this map, you can go over to the different things, and you can see that you can draw on the map,
+
+192
+00:17:50,881 --> 00:17:53,620
+you can enlarge it, you can zoom in on your position.
+
+193
+00:17:53,621 --> 00:17:55,120
+Go to zoom in, please.
+
+194
+00:17:55,121 --> 00:17:57,020
+There, and you've got to click down here.
+
+195
+00:17:57,021 --> 00:17:59,920
+So you click on the particular target, and you zoom it in.
+
+196
+00:18:03,520 --> 00:18:09,760
+A computer mouse button on the trigger housing of the M4 allows the soldier to decipher information
+
+197
+00:18:09,761 --> 00:18:12,020
+and transmit it to his command center.
+
+198
+00:18:12,021 --> 00:18:20,880
+He clicks, pops open a menu, it's pre-formatted messages, data's already filled into the appropriate
+
+199
+00:18:20,881 --> 00:18:27,160
+fields, he fills in any final details he wants, hit send, and it hops up the chain of command
+
+200
+00:18:27,161 --> 00:18:28,300
+to the appropriate levels.
+
+201
+00:18:29,240 --> 00:18:32,080
+The soldier's computer that he has on board is located right here.
+
+202
+00:18:33,020 --> 00:18:37,860
+This computer system enables him really an adverse area to work with.
+
+203
+00:18:37,861 --> 00:18:44,020
+He's able to pull up certain data files that he needs to use for individual tasks as well as for the mission task.
+
+204
+00:18:44,480 --> 00:18:47,960
+And once again, this is brought up through the monocular display that he has on the front of his Kevlar.
+
+205
+00:18:49,040 --> 00:18:53,820
+The soldier's global positioning system he has on board, which he's able to bring up in his IHAS as well,
+
+206
+00:18:54,220 --> 00:18:59,940
+gives him the ability to know his position on the battlefield as well as his friendly soldiers left and right and enemy positions.
+
+207
+00:19:01,660 --> 00:19:05,160
+Though the trading of information in battle is crucial to victory,
+
+208
+00:19:05,161 --> 00:19:11,420
+one of the system's more basic components may be the most favorite among soldiers field testing the land warrior.
+
+209
+00:19:13,800 --> 00:19:20,780
+The gun site has a video viewfinder that can relay televised images of the combat zone back to command.
+
+210
+00:19:22,700 --> 00:19:30,380
+The viewfinder also means a soldier does not have to be looking down the barrel of the gun in order to accurately fix on a target.
+
+211
+00:19:30,381 --> 00:19:37,380
+Let's say the soldier is in a military operations and urban terrain mount environment.
+
+212
+00:19:37,381 --> 00:19:41,380
+Lots of shooting around corners, lots of exposing yourself to try and see what's around corners.
+
+213
+00:19:41,381 --> 00:19:48,380
+With the sights on the rifle having the ability to connect up to the heads up display,
+
+214
+00:19:48,381 --> 00:19:51,380
+this soldier can look through the sight on the weapon.
+
+215
+00:19:51,381 --> 00:19:59,380
+So instead of having to lean around the corner and expose the upper portion of his body to potential fire in order to see,
+
+216
+00:19:59,381 --> 00:20:05,380
+He instead just has to take the rifle and put it around the corner, exposing at best his hands.
+
+217
+00:20:05,780 --> 00:20:08,900
+If he does it right, he can probably get away with not having to do that as well.
+
+218
+00:20:09,820 --> 00:20:15,200
+Not only will he be able to see around the corner, but he's also going to be able to engage targets precisely.
+
+219
+00:20:15,460 --> 00:20:16,940
+And that's an important piece of this.
+
+220
+00:20:17,040 --> 00:20:20,040
+It's the precision with which you can engage targets.
+
+221
+00:20:20,041 --> 00:20:32,140
+You may remember scenes from Vietnam that you'd see on TV where there'd be people shooting over their heads out of foxholes, and they're just spraying bullets.
+
+222
+00:20:33,120 --> 00:20:36,617
+You don't have to do this. You can put the gun up there.
+
+223
+00:20:36,618 --> 00:20:43,860
+You still have the same security that you had in those positions in Vietnam, but you can precisely engage the enemy.
+
+224
+00:20:43,861 --> 00:20:52,360
+However, the high-tech sighting systems of the Land Warrior go far beyond simple video technology.
+
+225
+00:20:54,120 --> 00:21:02,240
+The gun is also equipped with day-for-night sights that allow a soldier to look into the darkness and see as if it were high noon.
+
+226
+00:21:05,140 --> 00:21:12,740
+And to ensure that the system has every technology currently available, the Army has incorporated thermal sighting as well.
+
+227
+00:21:13,860 --> 00:21:19,420
+A soldier can detect the body heat of an enemy up to 500 yards away.
+
+228
+00:21:21,340 --> 00:21:25,620
+Let's say you're at night or you're having trouble identifying targets in a wood line.
+
+229
+00:21:25,920 --> 00:21:34,140
+You can flip over to your thermal weapon sight and the body heat of an individual brings you up like a big light bulb in a dark area.
+
+230
+00:21:35,260 --> 00:21:38,500
+And again, there are crosshairs on there lined with the barrel.
+
+231
+00:21:39,100 --> 00:21:43,660
+And you can lay your sight directly on the target again and return fire.
+
+232
+00:21:43,860 --> 00:21:46,880
+So from a personal perspective, personal engagement standpoint,
+
+233
+00:21:46,881 --> 00:21:54,100
+the weapon system becomes more a part of the individual soldier
+
+234
+00:21:54,101 --> 00:21:56,280
+and a more precise weapon.
+
+235
+00:21:57,980 --> 00:22:02,660
+Perfecting the land warrior requires sophisticated training facilities as well.
+
+236
+00:22:03,600 --> 00:22:07,400
+This special night vision range is a high-tech marvel unto itself.
+
+237
+00:22:07,401 --> 00:22:14,040
+We have the ability to turn the lights off.
+
+238
+00:22:14,041 --> 00:22:16,800
+We can go in complete darkness, as you can see.
+
+239
+00:22:17,940 --> 00:22:21,820
+And we can use the image intensification devices,
+
+240
+00:22:21,980 --> 00:22:28,100
+which depend upon a small amount of light to intensify and provide you an image.
+
+241
+00:22:31,980 --> 00:22:35,640
+Though the land warrior system is still in the prototype stage,
+
+242
+00:22:35,641 --> 00:22:39,820
+the Army hopes it will be ready for the field within two years.
+
+243
+00:22:42,260 --> 00:22:48,200
+The challenge now is to make the components of the Land Warrior system even smaller and lighter.
+
+244
+00:22:48,920 --> 00:22:52,660
+The total package now weighs less than 25 pounds.
+
+245
+00:22:53,560 --> 00:22:56,080
+On this system right here, since it's a demonstrator model and everything,
+
+246
+00:22:56,600 --> 00:22:59,640
+what we've done is we've incorporated the soldier intercom system here,
+
+247
+00:22:59,820 --> 00:23:01,120
+which this will be done away with.
+
+248
+00:23:01,121 --> 00:23:06,120
+This system right here is the DCM, which basically runs from the IHAS through to the computer system.
+
+249
+00:23:06,121 --> 00:23:10,120
+This will be reduced about half its size.
+
+250
+00:23:10,121 --> 00:23:15,120
+The cable itself, we're still working the routing aspect of it and which direction we want to go with it.
+
+251
+00:23:15,121 --> 00:23:21,120
+One of the main drawbacks to the system is a lack of battery time.
+
+252
+00:23:21,121 --> 00:23:28,120
+Currently, all the computer technology in a Land Warrior drains a battery in about 12 hours.
+
+253
+00:23:31,120 --> 00:23:37,340
+A soldier can only carry two of the batteries, so he must be resupplied every 24 hours.
+
+254
+00:23:38,040 --> 00:23:40,200
+The other factor is cost.
+
+255
+00:23:40,940 --> 00:23:44,600
+So far, millions have been spent developing the land warrior system,
+
+256
+00:23:45,080 --> 00:23:49,560
+and millions more are necessary to get it into the hands of soldiers in the field.
+
+257
+00:23:51,680 --> 00:23:53,120
+They're going to be more expensive.
+
+258
+00:23:53,880 --> 00:23:55,740
+There's going to be more things that can go wrong.
+
+259
+00:23:55,741 --> 00:24:00,200
+and it's going to take a greater degree of training and sophistication
+
+260
+00:24:00,201 --> 00:24:01,940
+to get the average soldier to use these things.
+
+261
+00:24:02,440 --> 00:24:05,320
+I've been in the Army and I can remember getting the average recruit
+
+262
+00:24:05,321 --> 00:24:08,140
+just to be able to work his M-14 properly was difficult.
+
+263
+00:24:10,120 --> 00:24:14,760
+But Army officials say soldiers trained with a land warrior pick it up quickly.
+
+264
+00:24:16,960 --> 00:24:19,760
+For young people who grew up in the computer age,
+
+265
+00:24:19,761 --> 00:24:23,180
+having a mouse control button on a gun seems natural.
+
+266
+00:24:25,740 --> 00:24:36,800
+The Army believes that the new Land Warrior system is the weapon of the future, not just because of its firing capabilities, but as part of a total information system.
+
+267
+00:24:39,940 --> 00:24:51,060
+Many envision a day when a soldier looking at an enemy on the ground can send information or an image to a pilot in a fighter jet high above the combat zone.
+
+268
+00:24:51,061 --> 00:24:58,940
+In essence, this gun of the future will fight on a virtual battlefield.
+
+269
+00:25:02,280 --> 00:25:03,800
+Warfare is managed chaos.
+
+270
+00:25:04,580 --> 00:25:09,280
+And what you want to do is you want to allow the enemy to have much more of the chaos
+
+271
+00:25:09,281 --> 00:25:10,400
+and you more of the management.
+
+272
+00:25:11,060 --> 00:25:13,840
+So you want to make sure that as the pilot comes in,
+
+273
+00:25:13,900 --> 00:25:16,080
+he can discern where you are, where the enemy is,
+
+274
+00:25:16,140 --> 00:25:18,240
+he understands what his targets are,
+
+275
+00:25:18,241 --> 00:25:22,800
+And so you want him to gather data from the soldiers on the ground.
+
+276
+00:25:23,780 --> 00:25:27,200
+But not every supergun is geared for killing an enemy.
+
+277
+00:25:28,400 --> 00:25:32,960
+In the gritty world of police work, the objective is often the opposite.
+
+278
+00:25:34,900 --> 00:25:38,520
+For the deputies in the Los Angeles County Sheriff's Department,
+
+279
+00:25:39,040 --> 00:25:43,680
+using modern technology in their weapons may help them with the toughest part of their job,
+
+280
+00:25:44,060 --> 00:25:46,760
+fighting criminals and saving lives.
+
+281
+00:25:48,240 --> 00:25:54,960
+To be accepted by the Army, the land warrior system must weigh less than 80 pounds.
+
+282
+00:25:54,961 --> 00:26:02,680
+Currently, the personal load weighs 79 pounds, while the combat load weighs 92 pounds, including water and ammunition.
+
+283
+00:26:03,440 --> 00:26:05,460
+Super Guns will return in a moment.
+
+284
+00:26:07,400 --> 00:26:11,960
+We now return to Super Guns on Modern Marvels.
+
+285
+00:26:11,961 --> 00:26:22,700
+For police officers across the country, taking a human life is a last desperate resort.
+
+286
+00:26:25,940 --> 00:26:29,720
+If the only tool you have is a hammer, you tend to think of every problem as a nail.
+
+287
+00:26:30,180 --> 00:26:34,160
+And as a result of that, if the only way you have of resolving this problem is with lethal force,
+
+288
+00:26:34,360 --> 00:26:36,820
+you tend to think of it as a lethal force problem.
+
+289
+00:26:37,240 --> 00:26:39,680
+Well, there's some real problems with that.
+
+290
+00:26:39,681 --> 00:26:45,100
+One of which is that it takes substantial provocation to use lethal force.
+
+291
+00:26:45,660 --> 00:26:49,540
+And right along with that provocation comes a substantial amount of risk.
+
+292
+00:26:50,180 --> 00:26:56,360
+So anything that we can do to intervene at a lower level by using less force or less lethal force
+
+293
+00:26:56,361 --> 00:27:02,140
+allows the officer to resolve the situation without the accompanying risk.
+
+294
+00:27:02,141 --> 00:27:12,380
+I think there's a trend that maybe to be more tolerant, to find techniques, maybe to use less lethal force.
+
+295
+00:27:12,381 --> 00:27:21,160
+I think that police officers 10, 15, 20 years from now need to be a lot smarter than we've been in the last, through the 60s, 70s and 80s.
+
+296
+00:27:21,460 --> 00:27:22,420
+Certainly more tolerant.
+
+297
+00:27:24,300 --> 00:27:31,580
+But developing non-lethal methods to fight criminals, many of whom are armed to the teeth, is a speculative venture.
+
+298
+00:27:32,140 --> 00:27:36,380
+There's such a new field that some of these terms we've actually had to coin,
+
+299
+00:27:36,820 --> 00:27:38,400
+non-lethal being one of them.
+
+300
+00:27:38,860 --> 00:27:40,980
+There was never a way to describe that.
+
+301
+00:27:41,500 --> 00:27:46,380
+What happens is that a less lethal weapon, for the first time in history,
+
+302
+00:27:46,660 --> 00:27:49,820
+is being defined by its intent and not its capability.
+
+303
+00:27:50,360 --> 00:27:54,700
+Where a lethal weapon attempts to defeat an adversary's ability to fight,
+
+304
+00:27:54,701 --> 00:27:57,980
+a less lethal weapon attempts to defeat his will to fight.
+
+305
+00:27:57,981 --> 00:28:05,600
+Finding clever ways not to kill people who are fighting the police has involved years of trial and error.
+
+306
+00:28:08,600 --> 00:28:16,840
+Rubber bullets, meant to be used in riot situations to strike a person in the knees, can ricochet off the ground and shatter a windpipe.
+
+307
+00:28:20,040 --> 00:28:23,260
+There's two misnomers with less lethal force.
+
+308
+00:28:23,600 --> 00:28:27,140
+One is that it won't kill you, and that's not true in most cases.
+
+309
+00:28:27,141 --> 00:28:30,180
+and the other one is that it's painless, and that's definitely not true.
+
+310
+00:28:30,420 --> 00:28:33,360
+To more precisely define it and keep it in the minds of our deputies,
+
+311
+00:28:33,920 --> 00:28:37,040
+we tell them that it's less lethal or less than lethal,
+
+312
+00:28:37,220 --> 00:28:42,380
+meaning that we're trying to intervene without having to resort to our sidearms.
+
+313
+00:28:48,080 --> 00:28:50,940
+At the L.A. County Sheriff's firing range,
+
+314
+00:28:50,941 --> 00:28:54,500
+a new generation of nontraditional weapons holds promise.
+
+315
+00:28:57,140 --> 00:29:03,360
+What has happened is that in the last four or five years, the Department of Defense has been downsizing.
+
+316
+00:29:03,361 --> 00:29:08,360
+And as a result of that, the developers and defense contractors and federal laboratories
+
+317
+00:29:08,361 --> 00:29:17,160
+who have had this huge defense market in the past have had to find some way or some other place to sell their goods.
+
+318
+00:29:17,280 --> 00:29:21,880
+And as a result of that, very similar in application and function is law enforcement.
+
+319
+00:29:21,881 --> 00:29:26,880
+The premise is simple.
+
+320
+00:29:27,560 --> 00:29:31,240
+Stop a violent criminal without having to take that person's life.
+
+321
+00:29:32,240 --> 00:29:35,460
+Police believe the best way to do that is to inflict pain.
+
+322
+00:29:38,360 --> 00:29:40,940
+The idea of pain we're comfortable with.
+
+323
+00:29:41,040 --> 00:29:42,760
+We can use pain to induce compliance.
+
+324
+00:29:43,420 --> 00:29:48,900
+The problem is that most of these devices also have trauma accompanied with the pain.
+
+325
+00:29:49,160 --> 00:29:50,240
+Pain is okay.
+
+326
+00:29:50,241 --> 00:29:51,880
+the trauma we're trying to avoid.
+
+327
+00:29:52,160 --> 00:29:55,440
+It's usually something that we're willing to live with for right now,
+
+328
+00:29:55,900 --> 00:29:59,560
+bruising, abrasions, but sometimes it can break bones,
+
+329
+00:29:59,760 --> 00:30:01,080
+it can leave serious bruises,
+
+330
+00:30:01,580 --> 00:30:04,740
+and depending on how it's used, serious injuries,
+
+331
+00:30:04,840 --> 00:30:06,460
+internal injuries and things like that.
+
+332
+00:30:09,040 --> 00:30:11,480
+To try and avoid inflicting trauma,
+
+333
+00:30:12,220 --> 00:30:14,560
+sheriffs are using an arsenal of new weapons
+
+334
+00:30:14,561 --> 00:30:17,300
+in their battle-to-end officer-involved shootings.
+
+335
+00:30:17,301 --> 00:30:25,300
+Though this weapon looks like a regular shotgun, it actually fires shells filled with beanbags.
+
+336
+00:30:25,301 --> 00:30:30,300
+This is probably the boldest venture that we've taken so far.
+
+337
+00:30:30,301 --> 00:30:34,300
+Every radio car has one in the field right now, keeps it in the trunk.
+
+338
+00:30:34,301 --> 00:30:36,300
+It's available when they need it.
+
+339
+00:30:36,301 --> 00:30:38,300
+We've saved I don't even know how many people's lives.
+
+340
+00:30:38,301 --> 00:30:43,300
+The very first weekend that we employed it, we saved a guy's life that had a knife.
+
+341
+00:30:43,301 --> 00:30:47,860
+Had he, had that same incident occurred even a day before, they'd have had to kill him.
+
+342
+00:30:50,220 --> 00:30:55,280
+Little training is needed because the stun bag weapon works just like any shotgun.
+
+343
+00:31:02,160 --> 00:31:05,600
+The biggest problem with a bean bag right now is that it's not very aerodynamic.
+
+344
+00:31:06,180 --> 00:31:07,700
+It doesn't fly straight.
+
+345
+00:31:07,860 --> 00:31:10,480
+And as a result of that, it doesn't go where we want it to go.
+
+346
+00:31:10,481 --> 00:31:15,240
+They're either square or circular pads that are curled up inside the shotgun shell,
+
+347
+00:31:15,460 --> 00:31:18,820
+and then they come out of the tube of the shotgun and then open up.
+
+348
+00:31:19,000 --> 00:31:21,360
+In order to be effective, they need to strike flat.
+
+349
+00:31:21,760 --> 00:31:25,460
+But in order to fly, they need to allow the wind to go around them,
+
+350
+00:31:25,500 --> 00:31:27,000
+so they fly like a leaf in the wind.
+
+351
+00:31:29,100 --> 00:31:33,780
+A step up on the pain threshold is a severe-looking weapon called the Arwen.
+
+352
+00:31:34,620 --> 00:31:39,500
+The gun fires 5-inch shells of hardened plastic that can dent a metal door.
+
+353
+00:31:40,480 --> 00:31:54,480
+As you can see by the impacts on this metal door, that the velocity and the weight is
+
+354
+00:31:54,760 --> 00:32:00,860
+enough to give somebody no question that they've been hit.
+
+355
+00:32:00,861 --> 00:32:04,260
+And generally one or two shots puts somebody down.
+
+356
+00:32:04,261 --> 00:32:05,460
+We saved a woman's life.
+
+357
+00:32:05,461 --> 00:32:08,040
+She was going to commit suicide.
+
+358
+00:32:08,041 --> 00:32:13,461
+had a .357 underneath her chin, and we hit her right in the arm with the R1.
+
+359
+00:32:13,462 --> 00:32:14,460
+Broke her arm,
+
+360
+00:32:14,960 --> 00:32:18,919
+and we felt bad. We thought, oh, we're really going to catch heat for this.
+
+361
+00:32:18,920 --> 00:32:20,080
+But we were the heroes
+
+362
+00:32:20,081 --> 00:32:25,040
+because the alternative to that same situation was to shoot her or let her shoot herself.
+
+363
+00:32:25,660 --> 00:32:29,480
+And so as a result of that, even though it wasn't the circumstance that we had hoped for,
+
+364
+00:32:29,740 --> 00:32:31,753
+it was so much better than the alternative.
+
+365
+00:32:31,754 --> 00:32:34,000
+And that was one of the times that we coined the
+
+366
+00:32:34,001 --> 00:32:37,720
+phrase, the standard is not perfection. The standard is the alternative.
+
+367
+00:32:41,400 --> 00:32:47,060
+A crucial factor in implementing less than lethal force is keeping the police far away
+
+368
+00:32:47,061 --> 00:32:49,191
+from an armed suspect.
+
+369
+00:32:49,192 --> 00:32:55,680
+One answer is firing thick plastic rings from an air-powered rifle.
+
+370
+00:32:58,600 --> 00:33:02,800
+The rings can travel up to 100 yards and still be effective.
+
+371
+00:33:04,000 --> 00:33:16,640
+When used properly, the ring can knock the wind out of a suspect
+
+372
+00:33:16,641 --> 00:33:20,120
+or inflict enough pain to stop a person in their tracks.
+
+373
+00:33:24,220 --> 00:33:29,480
+If all else fails, police are working on a less high-tech, non-lethal weapon
+
+374
+00:33:29,481 --> 00:33:34,160
+that utilizes an ammunition typically associated with teenage pranksters.
+
+375
+00:33:35,440 --> 00:33:37,820
+This gun fires stink bombs,
+
+376
+00:33:38,560 --> 00:33:41,140
+plastic pellets filled with a revolutionary liquid
+
+377
+00:33:41,141 --> 00:33:44,440
+that smells worse than just about anything on Earth.
+
+378
+00:33:45,560 --> 00:33:48,120
+It smells like a combination of fecal matter,
+
+379
+00:33:48,900 --> 00:33:52,180
+dead mammals, garlic and sulfur all mixed together.
+
+380
+00:33:56,840 --> 00:33:58,900
+You just wave it under your nose.
+
+381
+00:33:59,480 --> 00:34:07,480
+This stuff will gag a maggot.
+
+382
+00:34:08,040 --> 00:34:09,520
+This stuff is going to be great.
+
+383
+00:34:10,220 --> 00:34:12,760
+We don't even know everything we can do with this stuff yet.
+
+384
+00:34:14,220 --> 00:34:17,320
+Another version fires pellets filled with pepper powder,
+
+385
+00:34:17,860 --> 00:34:21,180
+a choking compound that irritates the eyes and throat.
+
+386
+00:34:21,181 --> 00:34:34,420
+So we have special masks for the deputies that filter out the powder, but also on the
+
+387
+00:34:34,421 --> 00:34:40,060
+suspect's clothing, we need to keep it on him so we don't contaminate our car, contaminate
+
+388
+00:34:40,061 --> 00:34:40,761
+our jail.
+
+389
+00:34:40,762 --> 00:34:47,340
+So what we've come up with is conventional, regular hairspray that we spray it on and
+
+390
+00:34:47,341 --> 00:34:49,124
+it seals it to the close.
+
+391
+00:34:49,125 --> 00:34:54,120
+So this powder that's here will be sealed on there with the stickiness
+
+392
+00:34:54,121 --> 00:34:55,535
+of the hairspray.
+
+393
+00:34:55,536 --> 00:35:02,360
+For the police, attempts to put weapons with less than lethal force into the field
+
+394
+00:35:02,361 --> 00:35:05,800
+is essential to the future of law enforcement.
+
+395
+00:35:05,801 --> 00:35:09,540
+Because when an officer is forced to fire his gun,
+
+396
+00:35:09,541 --> 00:35:12,940
+the repercussions for everyone involved are severe.
+
+397
+00:35:12,941 --> 00:35:22,020
+There is some tremendous trauma, particularly psychological trauma, that accompany people that use lethal force.
+
+398
+00:35:22,160 --> 00:35:25,440
+We send our people to a psychologist for five days.
+
+399
+00:35:26,040 --> 00:35:27,340
+They're taken out of the field.
+
+400
+00:35:27,520 --> 00:35:34,500
+I mean, it's a tremendous, life-changing event when you're put in a position that you're not allowed to flee from
+
+401
+00:35:34,501 --> 00:35:38,200
+and have to resolve and end up having to kill someone.
+
+402
+00:35:38,201 --> 00:35:44,420
+So less lethal provide that option of intervening without that accompanying humanitarian problems.
+
+403
+00:35:44,800 --> 00:35:48,440
+Not to say that there's none there with it, it's just not to the degree with lethal force.
+
+404
+00:35:50,760 --> 00:35:55,660
+Implementing less than lethal weaponry on a wide scale may still be years away.
+
+405
+00:35:56,800 --> 00:36:04,340
+In the meantime, gun manufacturers are looking for ways to make traditional weapons not only more effective, but safer.
+
+406
+00:36:04,341 --> 00:36:11,340
+Thanks to computer technology, these guns may someday have brains as well as bullets.
+
+407
+00:36:14,340 --> 00:36:24,985
+In 1995, special forces units in Somalia considered using lasers that could temporarily blind the enemy, but thought the risk of permanent blindness was too high and
+
+408
+00:36:24,986 --> 00:36:26,340
+decided against them.
+
+409
+00:36:26,341 --> 00:36:29,340
+Super guns will continue in a moment.
+
+410
+00:36:29,341 --> 00:36:38,340
+in a moment. We now return to Super Guns on Modern Marvels.
+
+411
+00:36:41,340 --> 00:36:48,340
+Inside the grip of this Colt 45 may lie the future of Super Gun technology.
+
+412
+00:36:48,341 --> 00:36:59,380
+The smart gun is equipped with a small computer, which allows the trigger to be activated only
+
+413
+00:36:59,381 --> 00:37:02,460
+by its owner.
+
+414
+00:37:02,461 --> 00:37:06,840
+This is possible because the shooter wears a special wristwatch programmed to restrict
+
+415
+00:37:06,841 --> 00:37:09,700
+access to the gun's firing mechanism.
+
+416
+00:37:09,701 --> 00:37:18,560
+If the concept proved successful, it could revolutionize guns and gun safety.
+
+417
+00:37:21,280 --> 00:37:24,680
+It's not as easy as putting a lock on it like some people may want to tell you.
+
+418
+00:37:25,160 --> 00:37:29,500
+I think it's a situation that if we can build a better mousetrap, to coin that phrase,
+
+419
+00:37:29,860 --> 00:37:32,300
+we're going to be a company to go into this next millennium
+
+420
+00:37:32,301 --> 00:37:35,440
+and be the head of the game like our founder did when he first started it.
+
+421
+00:37:35,441 --> 00:37:40,940
+Two years ago, after a series of highly publicized school shootings,
+
+422
+00:37:41,600 --> 00:37:47,740
+officials at Colt Manufacturing decided they wanted to do something to make guns safer, much safer.
+
+423
+00:37:50,480 --> 00:37:56,640
+Another motivation was the fact that 12% of the police officers killed in the line of duty each year
+
+424
+00:37:56,641 --> 00:38:00,800
+are shot with their own guns, taken away from them by criminals.
+
+425
+00:38:05,440 --> 00:38:13,440
+Colt hired a team of Silicon Valley designers to blend the latest in computer technology with the firing system of an automatic pistol.
+
+426
+00:38:16,440 --> 00:38:28,440
+This product has an electronic device that is installed in it that prevents the trigger from operating unless the weapon is in the hands of an authorized user.
+
+427
+00:38:28,441 --> 00:38:35,520
+This particular weapon has been developed for the law enforcement community.
+
+428
+00:38:35,800 --> 00:38:42,860
+It is our second prototype of the smart gun, and it uses a transmitter.
+
+429
+00:38:43,420 --> 00:38:51,020
+As you can see, the trigger is not active right now in that when you pull it, the hammer does not fire.
+
+430
+00:38:51,021 --> 00:39:00,120
+However, when in the close proximity of a transmitting device, the trigger unlocks and now the gun can be fired.
+
+431
+00:39:00,560 --> 00:39:09,860
+And as long as the weapon is in the hands or in close proximity to the transmitting device, the weapon becomes or stays active.
+
+432
+00:39:09,861 --> 00:39:14,600
+If the weapon is taken away from the police officer or the person using it,
+
+433
+00:39:15,080 --> 00:39:19,180
+such that it is no longer in proximity of the transmitter,
+
+434
+00:39:20,160 --> 00:39:22,720
+the weapon no longer is functional.
+
+435
+00:39:24,520 --> 00:39:29,880
+The smart gun has come a long way since the first prototype was built in early 1999.
+
+436
+00:39:31,560 --> 00:39:35,900
+The technology that makes it work used to be housed in a large box.
+
+437
+00:39:36,220 --> 00:39:38,800
+Now, it fits into the grip of the gun.
+
+438
+00:39:39,860 --> 00:39:48,960
+In June 1999, our cameras were the first to record Colt's working smart gun prototype
+
+439
+00:39:48,961 --> 00:39:51,980
+in action at the company's range in Hartford, Connecticut.
+
+440
+00:39:58,600 --> 00:40:03,200
+Since members of law enforcement will most likely be the first to use the weapon,
+
+441
+00:40:03,920 --> 00:40:08,020
+officials at Colt want to be very sure that it will work every time.
+
+442
+00:40:08,021 --> 00:40:12,516
+The question now is can we do it reliably?
+
+443
+00:40:12,517 --> 00:40:21,400
+And therein lies the $64,000 question and the unknowns associated with the product.
+
+444
+00:40:21,401 --> 00:40:30,100
+There are a number of people that have commented that this technology is ready for prime time right now.
+
+445
+00:40:30,760 --> 00:40:32,320
+That's not quite so.
+
+446
+00:40:33,820 --> 00:40:41,900
+We have the technology to make the firearm functional, as you can see from this one here.
+
+447
+00:40:41,901 --> 00:40:51,200
+Now the question is, is this gun going to operate reliably in the field first time, every time, for as long as the law enforcement official needs it?
+
+448
+00:40:51,400 --> 00:41:03,237
+It's that reliance on computers that has many in the gun world wondering just how far technology should go in trying to improve something that has been around for more
+
+449
+00:41:03,238 --> 00:41:04,300
+than 500 years.
+
+450
+00:41:06,120 --> 00:41:08,460
+Computers are certainly the wave of the future.
+
+451
+00:41:08,960 --> 00:41:12,640
+They're being included in everything, automobiles, airplanes, and firearms.
+
+452
+00:41:12,641 --> 00:41:19,775
+The problem with computers, and I think we've probably all experienced this with our cars as well, is that the more things you've got going on in there, the more
+
+453
+00:41:19,776 --> 00:41:21,680
+chances you have for something to go wrong.
+
+454
+00:41:21,740 --> 00:41:27,740
+And when you're in a battlefield situation, you want things to work as simply and as effectively as possible.
+
+455
+00:41:28,180 --> 00:41:34,180
+I am certainly no expert on electronics and computers, and I'm sure that they're probably coming up with some wonderful, wonderful systems.
+
+456
+00:41:34,181 --> 00:41:40,160
+But we must always remember that there must be some simple backup system so that if something happens to these things,
+
+457
+00:41:40,320 --> 00:41:43,840
+you can still fire the gun without having to worry about wearing a helmet or a heads-up display
+
+458
+00:41:43,841 --> 00:41:49,180
+or some sort of a smart system whereby nobody else can fire the gun but you.
+
+459
+00:41:51,340 --> 00:41:56,880
+But in an age where the computer is the driving force behind nearly every new technology developed,
+
+460
+00:41:57,340 --> 00:42:02,420
+there is no denying that the interaction between the microchip and the firearm is inevitable.
+
+461
+00:42:04,180 --> 00:42:13,040
+I think we'll see some kind of a marriage or combination, computerized ammo, computerized guns, that will be really doing very smart things.
+
+462
+00:42:13,100 --> 00:42:18,540
+It will take all the thinking other than the decision to use deadly force.
+
+463
+00:42:18,780 --> 00:42:24,860
+I think those computers will do the distance, and we're already there in a sense, but I think they'll refine that even more.
+
+464
+00:42:26,260 --> 00:42:30,340
+I think the marriage between the computer, the gun, and the ammo will be even greater.
+
+465
+00:42:30,341 --> 00:42:39,340
+And as technology changes the world of guns, it also changes who buys guns and why.
+
+466
+00:42:40,760 --> 00:42:45,260
+The person buying and carrying guns today are much different than even 30 years ago.
+
+467
+00:42:46,100 --> 00:42:47,400
+You know, we grew up with firearms.
+
+468
+00:42:47,720 --> 00:42:51,760
+Kids that were in high school in the 70s, you know, we hunt, we fished, we did a lot of shooting.
+
+469
+00:42:52,280 --> 00:42:56,080
+Today, people are less exposed to firearms due to the political climate,
+
+470
+00:42:56,320 --> 00:42:59,940
+lack of ranges to go shoot, and a general lack of hunting in this country.
+
+471
+00:42:59,941 --> 00:43:11,079
+So the guns of the future have to have systems built into them, very much like cars, electric dryers for your hair, any kind of tool or appliance that's used by a
+
+472
+00:43:11,080 --> 00:43:11,780
+novice.
+
+473
+00:43:12,020 --> 00:43:16,200
+But with a firearm, keeping your finger off the trigger is only part of the system.
+
+474
+00:43:17,480 --> 00:43:19,260
+Internally, it has to be drop-proof.
+
+475
+00:43:19,760 --> 00:43:23,280
+It has to be able to function correctly at all times.
+
+476
+00:43:23,281 --> 00:43:27,920
+If we wanted to just sit back and just sell guns for the sake of selling guns,
+
+477
+00:43:28,120 --> 00:43:30,740
+we could write our current designs for probably another 50 years.
+
+478
+00:43:31,000 --> 00:43:35,560
+But we would be less responsive as a company, I feel, if we just did that.
+
+479
+00:43:37,580 --> 00:43:40,220
+What will the super gun of the future be like?
+
+480
+00:43:40,820 --> 00:43:45,060
+Just looking at the changes that took place with technology in the 20th century,
+
+481
+00:43:45,600 --> 00:43:46,940
+it's anyone's guess.
+
+482
+00:43:47,840 --> 00:43:51,680
+There's a kid growing up and reading comic books, for instance,
+
+483
+00:43:51,681 --> 00:43:54,680
+and I'm reading all the crime fighters
+
+484
+00:43:54,681 --> 00:43:58,260
+or I'm reading comic books about people going to the moon
+
+485
+00:43:58,261 --> 00:44:01,060
+and in rocket ships and space platforms and everything
+
+486
+00:44:01,061 --> 00:44:05,080
+and whoever would have thought that in the 90s or the 80s
+
+487
+00:44:05,081 --> 00:44:07,460
+putting a space shuttle up is just, you know,
+
+488
+00:44:07,900 --> 00:44:10,460
+a thing that can be done any day of the week.
+
+489
+00:44:11,020 --> 00:44:12,860
+And so based on that experience,
+
+490
+00:44:13,120 --> 00:44:15,780
+I think that 30, 40, 50 years,
+
+491
+00:44:15,880 --> 00:44:19,200
+maybe we'll be using ray guns, magic things
+
+492
+00:44:19,201 --> 00:44:21,260
+that won't have any failures,
+
+493
+00:44:21,261 --> 00:44:22,820
+that won't shoot the wrong people.
+
+494
+00:44:26,380 --> 00:44:28,120
+Tomorrow on the History Channel.
+
+495
+00:44:28,800 --> 00:44:31,680
+With a top speed of over 650 miles per hour
+
+496
+00:44:31,681 --> 00:44:32,620
+and a crew of two,
+
+497
+00:44:33,040 --> 00:44:35,380
+the B-2 can reach and accurately hit
+
+498
+00:44:35,381 --> 00:44:38,120
+any important military target on the globe.
+
+499
+00:44:38,380 --> 00:44:41,580
+How can a plane this size show up on radar screens
+
+500
+00:44:41,581 --> 00:44:43,000
+no bigger than a bug?
+
+501
+00:44:43,001 --> 00:44:45,020
+See how these mysterious black jets
+
+502
+00:44:45,021 --> 00:44:47,020
+become almost invisible to the enemy
+
+503
+00:44:47,021 --> 00:44:49,000
+through top-secret stealth technology
+
+504
+00:44:49,001 --> 00:44:51,340
+Technology on modern marvels.
+
+505
+00:44:51,460 --> 00:44:53,840
+Tomorrow night at 10 on the History Channel.
+
+506
+00:44:56,200 --> 00:44:59,680
+Now, an exclusive home video offer from the History Channel.
+
+507
+00:45:00,160 --> 00:45:04,780
+You can own the program you've just seen for only $24.95 plus shipping and handling.
+
+508
+00:45:05,460 --> 00:45:12,460
+To order, call 1-800-708-1776 or shop online at historychannel.com.
+
+509
+00:45:19,000 --> 00:45:27,040
+better better better
+
+510
+00:45:27,041 --> 00:45:29,040
+better
+

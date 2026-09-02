@@ -1,0 +1,38 @@
+# Credit Roll: The Winchester (2002)
+**Canonical Episode:** [`MME00206: The Winchester`](../episodes/MME00206.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `(c)199? / A&E TELEVISION NETWORKS / All Rights Reserved`
+* **Production Company:** Greystone Communications, Inc., Matchframe Video, SabuCat Productions
+* **Narrator:** —
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Associate Producers** | Deborah M. Davis, Tony Long |
+| **Avid Assistant Editors** | Katherine Smith, Kyle Yaskin |
+| **Controller** | Anit Chan |
+| **Coordinating Producer** | Louis C. Tarantino |
+| **Electronic Graphics** | Janice Bech |
+| **Executive Producer for The History Channel** | Charlie Maday |
+| **Executive Producers** | Craig Haffner, Donna E. Lusitana |
+| **General Counsel** | Shinaan Krakowsky |
+| **Motion Control Services** | Matchframe Video |
+| **Online/Composite Editors** | Margaret Moore, Michael L. Hall |
+| **Original Music by** | Christopher Stone, Steven Morrell |
+| **Post Production Assistants** | Philip Anagnos, Kathy Bugajsky, Todd Carney, Candi Giles, Chris Worthington |
+| **Post Production Audio** | Craig Plachy, Ron Miller |
+| **Post Production Services** | Matchframe Video |
+| **Post Production Supervisor** | Blaine Williams |
+| **Production Accountant** | Debra B. Blemker |
+| **Production Assistants** | Troy R. Barbour, Brad Haight, Unique Lenhardt |
+| **Production Coordinator** | Douglas J. Cohen |
+| **Reenactor Coordinator** | Carl A. Clink |
+| **Series Consultant** | Garry James |
+| **Supervising Producer** | Raymond Bridgers |
+
+---
+[← Return to Episode Dossier](../episodes/MME00206.md)

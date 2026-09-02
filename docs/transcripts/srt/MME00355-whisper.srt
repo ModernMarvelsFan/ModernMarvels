@@ -1,0 +1,2316 @@
+1
+00:00:00,001 --> 00:00:07,000
+A drill bit leads to the disappearance of an entire lake and everything in it.
+
+2
+00:00:07,001 --> 00:00:12,000
+The tallest man-made structures in the world turn to crumpled steel.
+
+3
+00:00:12,001 --> 00:00:16,000
+A poorly designed dam wipes out an entire community in minutes.
+
+4
+00:00:16,001 --> 00:00:19,000
+A freeway collapse in earthquake country.
+
+5
+00:00:19,001 --> 00:00:22,000
+And the worst oil spill in US history.
+
+6
+00:00:22,001 --> 00:00:26,000
+Now, Engineering Disasters on Modern Marvels.
+
+7
+00:00:30,000 --> 00:00:41,900
+Architects and engineers have long been obsessed with the idea of building the tallest structure
+
+8
+00:00:41,901 --> 00:00:44,060
+in the world.
+
+9
+00:00:44,061 --> 00:00:49,600
+From the ancient pyramid of Khufu, which stood as man's highest creation for 43 centuries,
+
+10
+00:00:49,601 --> 00:00:56,120
+before being eclipsed by the Eiffel Tower, to the 20th century's skyscrapers, which
+
+11
+00:00:56,121 --> 00:00:59,144
+jostle for top rank as they push ever higher.
+
+12
+00:00:59,145 --> 00:01:01,900
+The desire to be on top, looking down, is
+
+13
+00:01:01,901 --> 00:01:03,088
+an enduring one.
+
+14
+00:01:03,089 --> 00:01:08,580
+But all these magnificent structures fall far short of a stark utilitarian
+
+15
+00:01:08,581 --> 00:01:15,580
+tower that rises up from the plains of North Dakota to a vertiginous height of 2,063 feet.
+
+16
+00:01:15,581 --> 00:01:19,017
+Meet the KVLY Broadcasting Tower.
+
+17
+00:01:19,018 --> 00:01:24,640
+Its antenna stands 356 feet higher than the tip of the
+
+18
+00:01:24,641 --> 00:01:31,500
+antenna on the Sears Tower, higher than any other structure on Earth.
+
+19
+00:01:31,501 --> 00:01:35,640
+They are very impressive structures and yet when you drive by them they don't look like
+
+20
+00:01:35,641 --> 00:01:39,450
+much. In fact they're even hard to see under certain conditions.
+
+21
+00:01:39,451 --> 00:01:40,700
+But there is an awful
+
+22
+00:01:40,701 --> 00:01:47,400
+lot of very sophisticated engineering that goes into designing them.
+
+23
+00:01:47,401 --> 00:01:52,880
+FM and television waves can't go around obstructions and thus require a very high launching pad
+
+24
+00:01:52,881 --> 00:01:55,480
+to reach the desired coverage area.
+
+25
+00:01:55,481 --> 00:01:59,000
+In regions of the Midwest and South lacking tall mountains,
+
+26
+00:01:59,001 --> 00:02:02,280
+the solution is to build a tower of extreme height,
+
+27
+00:02:02,281 --> 00:02:03,700
+like the KVLY tower.
+
+28
+00:02:08,680 --> 00:02:12,240
+The most characteristic design feature of broadcast towers
+
+29
+00:02:12,241 --> 00:02:14,440
+is this steel lattice framework, which
+
+30
+00:02:14,441 --> 00:02:17,800
+is bolted together in 20 to 40 foot sections all the way
+
+31
+00:02:17,801 --> 00:02:20,280
+to the top.
+
+32
+00:02:20,281 --> 00:02:26,100
+A less noticeable but crucial part of the tallest towers are thin steel cables called guy lines.
+
+33
+00:02:27,280 --> 00:02:32,280
+These high-strength pre-tensioned cables stretch down from the tower at several vertical points
+
+34
+00:02:32,281 --> 00:02:35,120
+and are anchored into cement foundations on the ground.
+
+35
+00:02:35,800 --> 00:02:38,440
+Basically, a guy cable is a tension element.
+
+36
+00:02:38,900 --> 00:02:42,300
+The only force that it sees is tension. It can't take any other force.
+
+37
+00:02:42,301 --> 00:02:45,600
+The guy cables are not carrying any gravity loads or any weight.
+
+38
+00:02:45,900 --> 00:02:49,820
+They're only resisting the tendency for the wind to push the tower over.
+
+39
+00:02:50,280 --> 00:02:58,160
+Since they anchor the tower to the ground, guy lines prevent antenna towers from being considered the highest freestanding structures in the world.
+
+40
+00:02:59,240 --> 00:03:02,480
+They can also play a key role in a tower's collapse.
+
+41
+00:03:04,100 --> 00:03:11,780
+This is the view from an antenna tower in Missouri City, Texas, on the final day of its construction, December 7, 1982.
+
+42
+00:03:11,781 --> 00:03:16,280
+known simply as the senior road tower
+
+43
+00:03:16,281 --> 00:03:19,900
+it was to be 1,971 feet high
+
+44
+00:03:19,901 --> 00:03:24,840
+less than 100 feet kept it from being the tallest structure in the world
+
+45
+00:03:24,841 --> 00:03:27,600
+an hour after these pictures were taken
+
+46
+00:03:27,601 --> 00:03:30,760
+it would be reduced to a crumpled mass of steel
+
+47
+00:03:30,761 --> 00:03:33,800
+the basic tower structure was complete
+
+48
+00:03:33,801 --> 00:03:37,680
+and the first portion of the antenna had been installed
+
+49
+00:03:37,681 --> 00:03:41,340
+the antenna was a very large broadband antenna
+
+50
+00:03:41,341 --> 00:03:43,940
+for multiple FM stations.
+
+51
+00:03:44,340 --> 00:03:46,140
+It was built in two sections,
+
+52
+00:03:46,880 --> 00:03:49,640
+each of which was about 60 feet long.
+
+53
+00:03:50,460 --> 00:03:53,380
+And they were lifting the final section,
+
+54
+00:03:54,140 --> 00:03:57,500
+and it was moving up the tower about halfway.
+
+55
+00:03:58,640 --> 00:04:01,140
+The FM antenna weighed six tons.
+
+56
+00:04:02,000 --> 00:04:04,860
+The five-man rigging crew had constructed a hoisting device
+
+57
+00:04:04,861 --> 00:04:07,640
+called a gin pole, specifically for this job.
+
+58
+00:04:07,641 --> 00:04:09,280
+When you are building a tower,
+
+59
+00:04:09,281 --> 00:04:11,820
+you typically cannot reach it with a crane.
+
+60
+00:04:12,100 --> 00:04:14,860
+So if this is a tower, we hoist a gin pole up the side of it
+
+61
+00:04:14,861 --> 00:04:16,320
+and we put it up higher than the tower.
+
+62
+00:04:16,760 --> 00:04:19,580
+Now from the top of that, we can put something on the top of the tower.
+
+63
+00:04:20,760 --> 00:04:22,120
+In a dangerous maneuver,
+
+64
+00:04:22,800 --> 00:04:26,560
+three of the five men were riding inside the antenna as it was being lifted,
+
+65
+00:04:27,020 --> 00:04:29,180
+while the other two were on the tower itself.
+
+66
+00:04:29,800 --> 00:04:32,060
+You're mostly focused on the work that you have to do
+
+67
+00:04:32,061 --> 00:04:35,020
+and the task at hand and staying alive and not falling off.
+
+68
+00:04:36,240 --> 00:04:38,340
+At about the 1,500-foot level,
+
+69
+00:04:38,940 --> 00:04:42,220
+The U-bolts on the clamp bearing the weight of the antenna failed.
+
+70
+00:04:42,840 --> 00:04:45,980
+The antenna and the men attached to it fell toward the ground.
+
+71
+00:04:46,160 --> 00:04:47,580
+Oh, my God.
+
+72
+00:04:52,060 --> 00:04:57,400
+At 1,000 feet, the antenna sliced one of the 27 guy lines that held up the tower.
+
+73
+00:04:58,140 --> 00:05:04,600
+The tower sprang in one direction, whipped back the opposite way, and collapsed with a thunderous roar.
+
+74
+00:05:04,601 --> 00:05:13,600
+Say that one of those cables had a tension in it of, I'll say, 20,000 pounds,
+
+75
+00:05:14,100 --> 00:05:16,800
+and then you suddenly break that.
+
+76
+00:05:17,380 --> 00:05:20,220
+So you release that kind of energy.
+
+77
+00:05:21,560 --> 00:05:26,500
+The other cables that are still intact are pulling by that amount of force the other direction.
+
+78
+00:05:27,060 --> 00:05:30,680
+And so they pull the tower sideways, and that causes it to buckle.
+
+79
+00:05:30,681 --> 00:05:34,960
+The stunned contractors ran to the scene of destruction.
+
+80
+00:05:35,840 --> 00:05:37,680
+All five men were dead.
+
+81
+00:05:39,500 --> 00:05:40,760
+Does anybody hear this stuff?
+
+82
+00:05:45,440 --> 00:05:51,140
+The transformation from sky-high tower to tangle of steel took 17 seconds.
+
+83
+00:05:53,840 --> 00:05:58,840
+The total collapse of the senior road tower was caused by the guyline snapping.
+
+84
+00:05:59,800 --> 00:06:05,580
+But the disaster was set in motion by the failure of the half-inch diameter U-bolts on the gin pole.
+
+85
+00:06:06,900 --> 00:06:13,200
+During the subsequent investigation, analysis would show that the sheer strength of the bolts was half what it should have been.
+
+86
+00:06:14,320 --> 00:06:20,300
+Some observers believe these small puffs of smoke are actually debris flying off the bolts as they snapped.
+
+87
+00:06:22,020 --> 00:06:28,360
+According to the investigation, the riggers had not consulted with a licensed engineer when selecting the U-bolts.
+
+88
+00:06:28,840 --> 00:06:35,080
+Tall antenna towers and the brave men who work on them are still at risk during construction
+
+89
+00:06:35,081 --> 00:06:36,900
+and maintenance.
+
+90
+00:06:36,901 --> 00:06:45,560
+Between 1992 and 2002, 163 people died in tower accidents.
+
+91
+00:06:45,561 --> 00:06:50,180
+For engineers, the challenge is to reduce the risk of catastrophic failure during moments
+
+92
+00:06:50,181 --> 00:06:53,180
+when the forces acting on the tower are being shifted.
+
+93
+00:06:53,181 --> 00:06:56,800
+For instance, if they're replacing a brace, what happens is they go up there and they
+
+94
+00:06:56,801 --> 00:06:58,620
+take that brace off.
+
+95
+00:06:58,621 --> 00:07:03,460
+Once they take the brace off the tower, now the tower is vulnerable.
+
+96
+00:07:03,461 --> 00:07:05,780
+Natural forces also pose a threat.
+
+97
+00:07:05,781 --> 00:07:09,940
+Ice and wind, especially acting together, can bring a tower down.
+
+98
+00:07:09,941 --> 00:07:14,420
+So you have the weight of the ice itself, and then you have the increased area that's
+
+99
+00:07:14,421 --> 00:07:18,600
+exposed to the wind due to the thickness of the ice coatings.
+
+100
+00:07:18,601 --> 00:07:22,800
+And this can increase the wind forces considerably.
+
+101
+00:07:22,801 --> 00:07:28,620
+But it's the collapses during routine construction and maintenance that continue
+
+102
+00:07:28,621 --> 00:07:32,280
+to echo lessons not learned from the tragic senior road tower disaster.
+
+103
+00:07:33,360 --> 00:07:38,060
+These collapses, which most often involve the loss of human life, are the most preventable.
+
+104
+00:07:38,600 --> 00:07:43,620
+It is an industry that does have some hazards to it during construction, and you certainly
+
+105
+00:07:43,621 --> 00:07:45,200
+have to be extremely careful.
+
+106
+00:07:45,860 --> 00:07:53,180
+And there has been a big increase in the attention being paid to the safety issues during construction.
+
+107
+00:07:53,181 --> 00:08:00,860
+Which is good, because humanity's hunger for instant information, communication, and entertainment is only increasing.
+
+108
+00:08:02,560 --> 00:08:08,920
+Communications off of towers and mountaintops and broadcast sites is the backbone of our entire society.
+
+109
+00:08:09,080 --> 00:08:15,980
+With all of our communications, police, fire, ambulance, television, radio, two-way radio communications,
+
+110
+00:08:16,220 --> 00:08:21,380
+all sorts of communications are being handled by these tower sites that you don't even realize.
+
+111
+00:08:21,381 --> 00:08:26,600
+Another vital resource moves all around us 24 hours a day.
+
+112
+00:08:27,620 --> 00:08:28,320
+Oil.
+
+113
+00:08:28,540 --> 00:08:31,840
+We don't think about it until disaster strikes.
+
+114
+00:08:33,080 --> 00:08:38,300
+If a baseball were dropped from the KVLY tower in North Dakota at the beginning of this sentence,
+
+115
+00:08:38,820 --> 00:08:42,640
+it wouldn't hit the ground until six seconds into the next commercial.
+
+116
+00:08:45,420 --> 00:08:48,640
+Engineering Disasters will return on Modern Marvels.
+
+117
+00:08:48,641 --> 00:08:53,640
+We now return to Engineering Disasters on Modern Marvels.
+
+118
+00:08:55,280 --> 00:08:59,620
+It grabbed front page headlines and filled television news time for months.
+
+119
+00:09:00,320 --> 00:09:08,160
+The images of dead and dying wildlife and hundreds of miles of pristine coastline choking with crude oil saddened and angered the public.
+
+120
+00:09:09,360 --> 00:09:17,480
+Another image was burned into the public's consciousness as the media focused on an allegedly drunken captain who had steered his boat into a reef.
+
+121
+00:09:18,060 --> 00:09:19,460
+But there's a lot more to the story.
+
+122
+00:09:20,040 --> 00:09:22,937
+The Exxon Valdez oil spill, the worst in U.S.
+
+123
+00:09:22,938 --> 00:09:25,640
+history, was also an engineering disaster.
+
+124
+00:09:25,900 --> 00:09:30,500
+The human element in the Exxon Valdez is multidimensional,
+
+125
+00:09:30,800 --> 00:09:34,560
+and people focused again on the simplistic issue of Captain Hazelwood.
+
+126
+00:09:34,920 --> 00:09:40,420
+We like to be able to point the failure at one person or one thing,
+
+127
+00:09:40,680 --> 00:09:44,860
+and if Joe Hazelwood had not had that last drink, everything would have been okay.
+
+128
+00:09:44,861 --> 00:09:48,980
+and not seeing the complexity of the incident.
+
+129
+00:09:51,680 --> 00:09:54,740
+We're approaching the Exxon Valdez.
+
+130
+00:09:54,900 --> 00:09:55,840
+She's hard to ground.
+
+131
+00:09:56,340 --> 00:09:59,720
+She's got the starboard slop tag, starboard wing tank,
+
+132
+00:09:59,880 --> 00:10:02,140
+and possibly five center are impacted.
+
+133
+00:10:04,040 --> 00:10:07,900
+The grounding of the tanker Exxon Valdez on Bly Reef
+
+134
+00:10:07,901 --> 00:10:12,060
+occurred at four minutes after midnight on March 24, 1989,
+
+135
+00:10:12,860 --> 00:10:14,580
+a clear night with calm seas.
+
+136
+00:10:14,860 --> 00:10:17,380
+You can see a black oil line right here.
+
+137
+00:10:18,460 --> 00:10:22,500
+The vessel has lost 105,000 barrels of oil so far.
+
+138
+00:10:24,200 --> 00:10:28,260
+The massive tanker, nearly as long as the Chrysler building is tall,
+
+139
+00:10:28,760 --> 00:10:32,720
+was carrying 53 million gallons of North Slope Alaskan crude.
+
+140
+00:10:33,700 --> 00:10:37,760
+Oil from the North Slope makes an 800-mile journey through the Trans-Alaska pipeline
+
+141
+00:10:37,761 --> 00:10:41,260
+to the port of Valdez, where it's pumped into tankers.
+
+142
+00:10:41,261 --> 00:10:48,640
+the north slope oil and the pipeline to valdez and the sea leg from valdez to the west coast
+
+143
+00:10:48,641 --> 00:10:54,220
+of the u.s was a highly political decision when it was created you may remember that the bill to
+
+144
+00:10:54,221 --> 00:11:01,520
+to create the the pipeline was was passed on a tie vote the immediate cause of the accident was
+
+145
+00:11:01,521 --> 00:11:06,620
+fairly simple captain joseph hazelwood had ordered the ship to leave the outbound shipping lane
+
+146
+00:11:06,621 --> 00:11:11,460
+and head inward to avoid icebergs, a fairly common move in Prince William's sound.
+
+147
+00:11:13,080 --> 00:11:20,400
+Hazelwood then left the third mate, who had steered super tankers through the sound 25 times previously, in command of the ship.
+
+148
+00:11:21,580 --> 00:11:28,060
+To re-enter the shipping lanes before running into Bly Reef, the Exxon Valdez would have to make a hard right turn.
+
+149
+00:11:28,540 --> 00:11:32,780
+This is not a sports car you're driving. This is a 200,000 deadweight ton tanker.
+
+150
+00:11:32,781 --> 00:11:38,040
+and when you give a rudder command or an engine command, it doesn't instantly change.
+
+151
+00:11:38,460 --> 00:11:42,700
+The third mate had a relatively inexperienced seaman assisting him with a turn.
+
+152
+00:11:43,340 --> 00:11:46,760
+The 987-foot tanker failed to make the turn in time.
+
+153
+00:11:47,600 --> 00:11:53,300
+Traveling at 12 knots, the ship slammed into the rocky bottom of Bly Reef and ran full of ground.
+
+154
+00:11:54,160 --> 00:11:56,340
+Eight of its 11 cargo tanks were torn open.
+
+155
+00:11:57,080 --> 00:11:58,780
+Oil gushed freely into the sea.
+
+156
+00:11:59,540 --> 00:12:01,440
+11 million gallons would enter the water.
+
+157
+00:12:02,380 --> 00:12:03,740
+In his call to the Coast Guard,
+
+158
+00:12:04,180 --> 00:12:06,820
+Hazelwood made one of the great understatements of all time.
+
+159
+00:12:08,880 --> 00:12:10,480
+There should be any radar there.
+
+160
+00:12:10,481 --> 00:12:15,580
+We've fetched up hard ground north of Goose Island,
+
+161
+00:12:15,800 --> 00:12:19,300
+a fly reef, and at that point,
+
+162
+00:12:20,060 --> 00:12:21,180
+we'll get some oil.
+
+163
+00:12:22,940 --> 00:12:24,940
+Human error had played its part,
+
+164
+00:12:25,520 --> 00:12:29,160
+but the ensuing disaster would reveal a fatally linked chain of engineering
+
+165
+00:12:29,161 --> 00:12:30,620
+as well as human failure.
+
+166
+00:12:31,440 --> 00:12:34,020
+The most immediate failure was with the ship itself.
+
+167
+00:12:34,021 --> 00:12:37,900
+When the Exxon Valdez happened in 1989, when that ran aground,
+
+168
+00:12:38,260 --> 00:12:43,760
+the whole issue of these monster ships that carry these massive amounts of oil,
+
+169
+00:12:44,400 --> 00:12:48,660
+the issue of the ship having only a single hull came to light.
+
+170
+00:12:49,880 --> 00:12:52,700
+The Exxon Valdez was only two years old.
+
+171
+00:12:53,160 --> 00:12:57,680
+Yet only three quarters of an inch of steel was all that stood between millions of gallons of oil
+
+172
+00:12:57,681 --> 00:13:01,320
+and one of the most environmentally sensitive areas of the United States.
+
+173
+00:13:01,440 --> 00:13:07,500
+The long-awaited catastrophe of the single-hulled supertanker had arrived.
+
+174
+00:13:07,840 --> 00:13:12,360
+When the controversial Trans-Alaska pipeline began operations in 1977,
+
+175
+00:13:13,220 --> 00:13:17,280
+it came with promises that all tankers would be outfitted with double hulls.
+
+176
+00:13:17,500 --> 00:13:20,580
+Think of a U for a cross-section of a supertanker.
+
+177
+00:13:21,020 --> 00:13:25,100
+Then think of a smaller U inside with a 10-foot difference in between.
+
+178
+00:13:25,800 --> 00:13:28,860
+So it's basically a hull inside a hull. That's why they call it a double hull.
+
+179
+00:13:29,420 --> 00:13:38,320
+And so if there is an impact, the energy of that impact hopefully is taken up by penetrating the first hull, but not the second one.
+
+180
+00:13:39,220 --> 00:13:42,820
+The double hull was a promise not kept or enforced.
+
+181
+00:13:43,640 --> 00:13:48,200
+In 1989, nearly all of the tankers leaving the port of Valdez had a single hull.
+
+182
+00:13:50,900 --> 00:13:56,060
+But the ship itself was only part of a complex oil transport system that had broken down.
+
+183
+00:13:57,500 --> 00:13:58,520
+A systems failure.
+
+184
+00:13:58,860 --> 00:14:04,520
+There were assurances given by the oil companies that it would be operated in a fail-safe mode.
+
+185
+00:14:05,420 --> 00:14:14,360
+And sometime between 1977 and 1989, the operations of the system had degraded to a point where a very severe accident could occur.
+
+186
+00:14:14,361 --> 00:14:21,020
+When you get to a system where one mistake means that you lost the whole thing, then you really haven't designed the system very well.
+
+187
+00:14:22,620 --> 00:14:25,960
+A key part of the system's failure was inadequate radar.
+
+188
+00:14:26,940 --> 00:14:32,180
+Shortly before the disaster, the Valdez Coast Guard Station's radar crews had been cut in half,
+
+189
+00:14:32,760 --> 00:14:37,680
+and the radar itself had been replaced with a unit that was no longer capable of detecting Bly Reef.
+
+190
+00:14:38,260 --> 00:14:45,580
+So when the Exxon Valdez was heading for Bly Reef, it was not under any external radar coverage.
+
+191
+00:14:46,960 --> 00:14:52,060
+Reductions in the tanker's crew size, nearly 50%, further increased the chance of disaster.
+
+192
+00:14:52,061 --> 00:14:57,700
+The final weak link in the chain was the spill response.
+
+193
+00:14:58,240 --> 00:15:02,940
+The strategy was if you have a major oil spill to contain it near the ship to minimize damage
+
+194
+00:15:02,941 --> 00:15:05,320
+and then remove it from the containment,
+
+195
+00:15:05,940 --> 00:15:10,420
+the response was a total failure because the oil totally escaped from the vicinity of the ship.
+
+196
+00:15:12,780 --> 00:15:18,860
+Nearly every technology used to clean up the oil spill arrived too late and was ineffective.
+
+197
+00:15:19,780 --> 00:15:23,980
+Many of the containment booms, large floating curtains used to corral the oil,
+
+198
+00:15:24,460 --> 00:15:26,200
+were of the wrong type for ocean use.
+
+199
+00:15:27,020 --> 00:15:28,340
+Some actually sank.
+
+200
+00:15:29,160 --> 00:15:32,620
+Fishermen with buckets reportedly had better success in scooping up oil
+
+201
+00:15:32,621 --> 00:15:37,060
+than Exxon did with skimmers, mechanical vacuums that suck up oil.
+
+202
+00:15:37,780 --> 00:15:40,340
+And when foul weather arrived on the third day,
+
+203
+00:15:40,740 --> 00:15:43,300
+whipping up the oil into a thick moose-like froth,
+
+204
+00:15:43,900 --> 00:15:48,080
+it was too late for chemical dispersants to be effective in breaking down the oil.
+
+205
+00:15:48,860 --> 00:15:52,840
+The initial cleanup was a total failure because there was inadequate resources.
+
+206
+00:15:53,700 --> 00:15:56,080
+The people of Alaska justifiably felt betrayed.
+
+207
+00:15:56,700 --> 00:16:01,480
+They were told that if anything happens, we have the equipment, we have the skills to clean it up.
+
+208
+00:16:01,620 --> 00:16:02,840
+And that was not there.
+
+209
+00:16:03,520 --> 00:16:04,600
+It's a pristine region.
+
+210
+00:16:04,740 --> 00:16:07,300
+If you've ever been there, Prince William Sound is incredibly beautiful.
+
+211
+00:16:07,840 --> 00:16:12,060
+So the environmental damage was proportionally very high for the amount of oil spilled.
+
+212
+00:16:12,061 --> 00:16:19,060
+then it just became just a massive shoreline cleanup and restoration exercise,
+
+213
+00:16:19,960 --> 00:16:22,220
+which took months and it cost a lot of money,
+
+214
+00:16:22,600 --> 00:16:25,340
+and it's still doubtful what good that actually did.
+
+215
+00:16:29,240 --> 00:16:33,840
+The good that did come out of this disaster, and the Oil Pollution Act of 1990,
+
+216
+00:16:34,520 --> 00:16:36,700
+came in the form of better tug escorts,
+
+217
+00:16:37,040 --> 00:16:39,740
+which can tow or nudge the giant tankers away from danger.
+
+218
+00:16:39,741 --> 00:16:43,500
+GPS systems in concert with improved radar
+
+219
+00:16:43,501 --> 00:16:46,800
+dramatically improved cleanup technologies
+
+220
+00:16:46,801 --> 00:16:52,080
+and a mandate that all U.S. tankers have double hulls by 2015.
+
+221
+00:16:53,120 --> 00:16:55,620
+The accidents have always led to the change of design.
+
+222
+00:16:56,200 --> 00:16:58,580
+Engineers, we learn from previous screw-ups
+
+223
+00:16:58,581 --> 00:17:03,040
+and we look very carefully at previous engineering disasters.
+
+224
+00:17:06,260 --> 00:17:08,900
+While oil spills continue to plague the seas,
+
+225
+00:17:08,901 --> 00:17:11,800
+at least one region, ironically, is ready.
+
+226
+00:17:12,160 --> 00:17:19,140
+The irony is probably the only port in the world where you are absolutely prepared for a major oil spill is now Valdez.
+
+227
+00:17:20,700 --> 00:17:23,540
+If preventing man-made disasters is difficult,
+
+228
+00:17:24,240 --> 00:17:29,240
+engineering for natural disasters, especially earthquakes, is a mammoth challenge.
+
+229
+00:17:31,400 --> 00:17:33,780
+According to a U.S. Coast Guard report,
+
+230
+00:17:33,781 --> 00:17:38,440
+of the 15 double-hull accidents between 1990 and 1999,
+
+231
+00:17:38,900 --> 00:17:42,900
+None resulted in any oil spilled.
+
+232
+00:17:42,901 --> 00:17:46,900
+Engineering Disasters will return on Modern Marvels.
+
+233
+00:17:46,901 --> 00:17:50,900
+We now return to Engineering Disasters on Modern Marvels.
+
+234
+00:17:50,901 --> 00:17:56,900
+California. Its very name evokes the idea of a promised land.
+
+235
+00:17:56,901 --> 00:18:01,900
+But the Golden State has always paid a price for its prime location.
+
+236
+00:18:01,901 --> 00:18:07,900
+Raging wildfires, drought, and giant waves that batter its coast.
+
+237
+00:18:07,901 --> 00:18:15,540
+Of all the natural disasters that plague California, the deadliest and least understood are earthquakes.
+
+238
+00:18:18,560 --> 00:18:23,060
+The threat of the big one will always pose a daunting challenge for the state's engineers.
+
+239
+00:18:23,820 --> 00:18:26,560
+It's not like these hurricanes where you can line up and prepare.
+
+240
+00:18:27,180 --> 00:18:30,320
+I guess the bright side is we're kind of competing against time.
+
+241
+00:18:30,321 --> 00:18:36,720
+The longer this big earthquake takes to occur, the better prepared we're getting.
+
+242
+00:18:37,900 --> 00:18:44,420
+The most painful lessons have taken place at the vulnerable connecting points of California's gigantic circulatory system.
+
+243
+00:18:45,980 --> 00:18:47,260
+Freeway bridges.
+
+244
+00:18:48,740 --> 00:18:53,640
+One particularly tragic incident sent shockwaves through the engineering community.
+
+245
+00:18:54,480 --> 00:19:02,120
+The collapse of the Cypress Viaduct structure in Oakland during the 7.1 Loma Prieta earthquake on October 17, 1989.
+
+246
+00:19:02,121 --> 00:19:05,860
+The quake lasted 12 seconds
+
+247
+00:19:05,861 --> 00:19:09,380
+and although the epicenter was 50 miles to the south
+
+248
+00:19:09,381 --> 00:19:12,700
+the worst structural failure and greatest loss of life
+
+249
+00:19:12,701 --> 00:19:13,960
+would occur here
+
+250
+00:19:13,961 --> 00:19:16,920
+when a one and a quarter mile upper deck section
+
+251
+00:19:16,921 --> 00:19:18,300
+of the 880 freeway
+
+252
+00:19:18,301 --> 00:19:20,420
+pancaked onto the lower deck
+
+253
+00:19:20,421 --> 00:19:22,920
+42 people died
+
+254
+00:19:22,921 --> 00:19:24,360
+crushed in their cars
+
+255
+00:19:24,361 --> 00:19:26,560
+the detached unstable structure
+
+256
+00:19:26,561 --> 00:19:29,160
+made rescue efforts difficult and dangerous
+
+257
+00:19:29,161 --> 00:19:31,240
+It was a progressive collapse
+
+258
+00:19:31,241 --> 00:19:36,120
+A failure occurs in some localized area, and because of that failure,
+
+259
+00:19:36,300 --> 00:19:41,300
+the loads then are exceptionally high as they're transmitted to other parts of the structure.
+
+260
+00:19:42,680 --> 00:19:46,740
+The immediate cause of the disaster was the failure of certain support columns.
+
+261
+00:19:47,480 --> 00:19:51,940
+The intense horizontal movement of the earthquake caused the columns to shear outward,
+
+262
+00:19:52,700 --> 00:19:55,960
+leaving the upper roadway no place to go, but straight down.
+
+263
+00:19:55,961 --> 00:19:59,980
+The top part of the roadway had relatively small columns,
+
+264
+00:19:59,981 --> 00:20:04,940
+and there were deficiencies right where the columns from the upper level
+
+265
+00:20:04,941 --> 00:20:09,980
+sat on or essentially met the roadway at the top of the first level.
+
+266
+00:20:11,660 --> 00:20:16,180
+The column failure demonstrated an especially cruel quirk of earthquake behavior.
+
+267
+00:20:16,360 --> 00:20:18,840
+Most structures are designed to resist vertical loads.
+
+268
+00:20:19,360 --> 00:20:21,940
+When you have the earthquake, you're applying lateral loads.
+
+269
+00:20:22,480 --> 00:20:26,860
+And so for a good earthquake design, you must not only design the structure to take its weight,
+
+270
+00:20:26,861 --> 00:20:31,460
+but you must design the structure to take these lateral loads that would tend to push it over.
+
+271
+00:20:32,840 --> 00:20:35,880
+When the Cypress Viaduct was completed in 1957,
+
+272
+00:20:36,600 --> 00:20:39,460
+it was the state's first double-decked freeway bridge.
+
+273
+00:20:40,340 --> 00:20:42,780
+Engineers thought they had built in sufficient redundancy
+
+274
+00:20:42,781 --> 00:20:45,800
+by designing it with two sets of columns instead of one.
+
+275
+00:20:46,560 --> 00:20:49,720
+But they didn't count on the dramatic increase of destructive force
+
+276
+00:20:49,721 --> 00:20:51,400
+caused by the ground itself,
+
+277
+00:20:51,960 --> 00:20:54,820
+a phenomenon known as soft soil amplification.
+
+278
+00:20:54,821 --> 00:20:59,540
+The cypress structure is located fairly close to the San Francisco Bay,
+
+279
+00:21:00,060 --> 00:21:03,440
+and the soils underneath it tend to be soft soils.
+
+280
+00:21:03,860 --> 00:21:04,780
+They call it bay mud.
+
+281
+00:21:05,520 --> 00:21:09,700
+And at the cypress structure, there's the ground accelerations,
+
+282
+00:21:09,880 --> 00:21:12,660
+which might have been .05 g, are amplified,
+
+283
+00:21:12,980 --> 00:21:16,000
+so by the time you hit the foundation of the cypress structure,
+
+284
+00:21:16,140 --> 00:21:20,020
+there may be .25 g or a five-fold amplification.
+
+285
+00:21:21,020 --> 00:21:25,600
+G measures the rate of ground acceleration as a percentage of the Earth's gravity.
+
+286
+00:21:26,560 --> 00:21:29,960
+The Cyprus was built to withstand only 0.06 G.
+
+287
+00:21:32,340 --> 00:21:37,500
+This flaw stems from the fact that the Cyprus, like many of California's freeway bridges,
+
+288
+00:21:38,040 --> 00:21:41,440
+was built during a 30-year lull of major earthquake activity.
+
+289
+00:21:42,340 --> 00:21:45,000
+There simply hadn't been enough big quakes to learn from.
+
+290
+00:21:47,120 --> 00:21:49,080
+Fast forward to 1994.
+
+291
+00:21:50,020 --> 00:21:53,480
+the California Department of Transportation, or Caltrans,
+
+292
+00:21:53,960 --> 00:21:57,400
+began building a new meticulously engineered Cypress Viaduct
+
+293
+00:21:57,401 --> 00:21:59,340
+in the shadow of its former self.
+
+294
+00:22:00,020 --> 00:22:01,980
+But just as work was beginning in Oakland,
+
+295
+00:22:02,420 --> 00:22:04,720
+the 6.6 Northridge earthquake struck,
+
+296
+00:22:05,160 --> 00:22:07,700
+400 miles to the south in Los Angeles,
+
+297
+00:22:08,140 --> 00:22:09,940
+where eight freeway bridges collapsed,
+
+298
+00:22:10,480 --> 00:22:12,000
+some shearing in half,
+
+299
+00:22:12,480 --> 00:22:14,220
+others simply falling down.
+
+300
+00:22:15,840 --> 00:22:17,560
+Only the earthquake's timing,
+
+301
+00:22:18,100 --> 00:22:19,980
+it struck at 4.30 a.m.,
+
+302
+00:22:19,981 --> 00:22:21,700
+kept freeway fatalities low.
+
+303
+00:22:22,820 --> 00:22:24,800
+The Northridge quake brought into sharp relief
+
+304
+00:22:24,801 --> 00:22:27,340
+the urgency of fixing California's freeways.
+
+305
+00:22:28,440 --> 00:22:31,540
+Back in Oakland, Caltrans engineers and contractors,
+
+306
+00:22:32,160 --> 00:22:34,280
+once again armed with hard-won knowledge,
+
+307
+00:22:34,840 --> 00:22:35,760
+continued their work.
+
+308
+00:22:36,600 --> 00:22:39,140
+The new Cypress structure would be an engineering achievement.
+
+309
+00:22:39,820 --> 00:22:43,700
+It would be marked by advanced use of a fairly new concept in freeway design,
+
+310
+00:22:44,340 --> 00:22:46,500
+flexibility, or ductility.
+
+311
+00:22:46,501 --> 00:22:49,420
+One of the essential features of ductility is that
+
+312
+00:22:49,421 --> 00:22:54,780
+if you exceed the strength of the structure, it doesn't fail.
+
+313
+00:22:54,940 --> 00:22:57,560
+It can deform, but it doesn't collapse.
+
+314
+00:22:57,561 --> 00:23:02,980
+And this is the concept which is now being put into the design of modern freeway structures.
+
+315
+00:23:04,240 --> 00:23:07,700
+The bend-but-don't-break concept was realized dramatically
+
+316
+00:23:07,701 --> 00:23:12,320
+in heavily reinforced cast-and-steel shell, concrete piles,
+
+317
+00:23:13,040 --> 00:23:15,540
+sunk as deep as 90 feet into the bay mud.
+
+318
+00:23:19,420 --> 00:23:23,420
+and in vastly improved connections where the columns join the roadway.
+
+319
+00:23:25,420 --> 00:23:31,420
+The new Cypress Viaduct has been designed to withstand 1.8 G of peak horizontal force,
+
+320
+00:23:31,421 --> 00:23:34,420
+or 30 times greater than its original strength.
+
+321
+00:23:34,421 --> 00:23:38,420
+It's a model for the future of California's 12,000 miles of freeway
+
+322
+00:23:38,421 --> 00:23:44,420
+and the type of extreme engineering needed for those who live in the seismic hot zone.
+
+323
+00:23:44,421 --> 00:23:50,840
+many, many things that have been done to improve the safety of bridges for earthquakes.
+
+324
+00:23:51,580 --> 00:23:58,260
+And by and large, through a learning process, the bridges are a lot safer in California now
+
+325
+00:23:58,261 --> 00:24:01,021
+than probably anywhere else in the world.
+
+326
+00:24:01,022 --> 00:24:04,320
+That doesn't mean we still don't have more to do.
+
+327
+00:24:04,980 --> 00:24:07,680
+But in the heart of America's coal mining country,
+
+328
+00:24:07,681 --> 00:24:12,500
+a blatant failure of engineering would be necessary to spark reform.
+
+329
+00:24:14,420 --> 00:24:21,040
+During the 1995 Kobe Japan quake, a one-third-mile section of expressway collapsed, killing 16 people.
+
+330
+00:24:21,640 --> 00:24:26,240
+Like the cypress structure, its failure was caused partly by the soft soil on which it was built.
+
+331
+00:24:26,820 --> 00:24:28,460
+Engineering disasters will return.
+
+332
+00:24:29,160 --> 00:24:33,020
+We now return to Engineering Disasters on Modern Marvels.
+
+333
+00:24:38,240 --> 00:24:43,620
+This is Buffalo Creek, West Virginia, a steep, rugged valley in the heart of Appalachia.
+
+334
+00:24:44,420 --> 00:24:49,660
+The surrounding region of Logan County became known as the birthplace of the Hatfield-McCoy
+
+335
+00:24:49,661 --> 00:24:56,240
+feud and later as one of the most prolific producers of coal in the United States.
+
+336
+00:24:56,241 --> 00:25:03,100
+But since February 26, 1972, it's better known as a place torn apart by a dreadful engineering
+
+337
+00:25:03,101 --> 00:25:12,400
+disaster, one that killed 125 people and forever altered a community.
+
+338
+00:25:12,401 --> 00:25:17,160
+The roots of the disaster are deeply embedded in the history of coal mining.
+
+339
+00:25:17,161 --> 00:25:21,840
+Getting coal out of the ground has always been a labor-intensive activity and a dangerous
+
+340
+00:25:21,841 --> 00:25:22,840
+one.
+
+341
+00:25:22,841 --> 00:25:29,460
+Methane poisoning, cave-ins, and explosions are just some of the hazards that plague miners.
+
+342
+00:25:29,461 --> 00:25:37,080
+In 1925 alone, 686 workers died in the mines of West Virginia.
+
+343
+00:25:37,081 --> 00:25:43,080
+the decades, hard-fought gains in safety conditions and increased automation made coal mining
+
+344
+00:25:43,081 --> 00:25:49,080
+a somewhat less hazardous job.
+
+345
+00:25:49,081 --> 00:25:53,492
+But one aspect of the coal mining operation remained dangerously unchecked.
+
+346
+00:25:53,493 --> 00:25:54,193
+Coal waste
+
+347
+00:25:54,194 --> 00:25:54,894
+dams.
+
+348
+00:25:54,895 --> 00:26:00,520
+Unlike traditional dams, coal waste dams provide neither electricity nor a reservoir
+
+349
+00:26:00,521 --> 00:26:05,140
+of potable water. They are essentially gigantic garbage dumps.
+
+350
+00:26:06,760 --> 00:26:12,136
+You mine coal, and coal usually has some material in it that's not coal.
+
+351
+00:26:12,137 --> 00:26:13,480
+You run it through
+
+352
+00:26:13,481 --> 00:26:18,292
+different processes, and you end up with coal, and then you end up with refuse.
+
+353
+00:26:18,293 --> 00:26:18,993
+And these
+
+354
+00:26:18,994 --> 00:26:21,344
+processes include the use of water.
+
+355
+00:26:21,345 --> 00:26:24,920
+So now you have refuse you have to get rid of, and
+
+356
+00:26:24,921 --> 00:26:26,000
+water you have to get rid of.
+
+357
+00:26:26,001 --> 00:26:32,240
+For years, mining companies dumped the wastewater directly into streams, including Buffalo Creek.
+
+358
+00:26:32,760 --> 00:26:35,060
+But early environmental laws put a stop to that.
+
+359
+00:26:37,100 --> 00:26:43,380
+The companies were required to at least make an effort to try to control the wastewater from the plant.
+
+360
+00:26:44,980 --> 00:26:49,300
+The cheapest thing for them to do was just to build a dam across the valley.
+
+361
+00:26:49,301 --> 00:26:54,890
+In 1960, the Laredo Mining Company built what became known as Dam No.
+
+362
+00:26:54,891 --> 00:26:58,940
+1, overlooking the narrow valley of Buffalo Creek.
+
+363
+00:26:59,660 --> 00:27:07,000
+The dam was built of coal waste, also called gob, which smoldered and often caught fire due to its high carbon content.
+
+364
+00:27:08,760 --> 00:27:09,460
+When No.
+
+365
+00:27:09,461 --> 00:27:14,873
+1's reservoir became filled with silt, the mining company built the larger dam, No.
+
+366
+00:27:14,874 --> 00:27:19,240
+2, right behind it, on soft clay soil with little shear strength.
+
+367
+00:27:19,300 --> 00:27:22,300
+Several near failures plagued the first two dams.
+
+368
+00:27:22,301 --> 00:27:29,300
+Dam number one overtopped several times and there were black water discharges that came into Buffalo Creek.
+
+369
+00:27:29,301 --> 00:27:38,300
+Dam number two failed, the front face of it failed and split in the middle a couple of times in the late 60s.
+
+370
+00:27:38,301 --> 00:27:39,001
+The U.S.
+
+371
+00:27:39,002 --> 00:27:44,300
+Geological Survey reported that the dams were in fact vulnerable to a washout.
+
+372
+00:27:44,301 --> 00:27:52,740
+And there was evidence of foundation failure piping in both structures, particularly in dam number two.
+
+373
+00:27:53,020 --> 00:27:56,140
+But the company went ahead and built the third dam anyway.
+
+374
+00:27:57,020 --> 00:28:04,760
+Dam number three was to be massive, 500 feet thick in the middle, stretching 465 feet across the valley
+
+375
+00:28:04,761 --> 00:28:09,160
+and rising 60 feet above dam number two's impoundment pond.
+
+376
+00:28:09,161 --> 00:28:21,080
+Despite the dam size and the fact that it was to be built overlooking a floodplain home to several small towns, the only engineering plan was this rudimentary sketch.
+
+377
+00:28:22,580 --> 00:28:28,420
+At the time, engineering requirements for coal dams and federal enforcement were sorely lacking.
+
+378
+00:28:29,260 --> 00:28:35,658
+There was just one provision that said any refuse embankments and impoundments should be substantially constructed.
+
+379
+00:28:35,659 --> 00:28:37,160
+That was it. One paragraph.
+
+380
+00:28:39,160 --> 00:28:44,820
+The mining company's bulldozers began forming the giant face of dam number three in 1968.
+
+381
+00:28:46,020 --> 00:28:48,280
+The coarse-refuse material was not compacted.
+
+382
+00:28:48,420 --> 00:28:53,300
+It was dumped by large trucks and then pushed into the center of the valley,
+
+383
+00:28:53,400 --> 00:28:57,760
+out on top of the slurry that had been discharged by the previous dams.
+
+384
+00:28:57,761 --> 00:29:04,260
+There's no way one could get compaction with that thick layer of material being pushed forward.
+
+385
+00:29:04,640 --> 00:29:07,580
+So there was no strength whatsoever in the material.
+
+386
+00:29:07,581 --> 00:29:14,420
+In addition, the dam was built without proper spillways to alleviate the reservoir when it reached capacity.
+
+387
+00:29:16,380 --> 00:29:21,120
+Such basic engineering deficiencies made a catastrophe virtually inevitable.
+
+388
+00:29:21,900 --> 00:29:28,580
+The front face of the dam failed, I believe, in both 1969 and again in 1971.
+
+389
+00:29:29,180 --> 00:29:35,680
+So there had been two failures of the front face of dam number three prior to February 26, 1972.
+
+390
+00:29:35,681 --> 00:29:43,680
+anybody with engineering knowledge knew that there were some serious problems with dam number three and its long-term stability.
+
+391
+00:29:44,680 --> 00:29:51,800
+Despite such evidence, the Pittston Company, the dam's final owners, did not make the needed structural changes.
+
+392
+00:29:54,480 --> 00:29:58,240
+8 a.m., February 26, 1972.
+
+393
+00:29:58,241 --> 00:30:07,580
+Four years of runoff from the mine and seasonal rains had swollen the dam's reservoir to 132 million gallons.
+
+394
+00:30:08,600 --> 00:30:11,460
+Anxious residents noted large cracks in the dam's face.
+
+395
+00:30:12,240 --> 00:30:13,540
+The crest had become soft.
+
+396
+00:30:14,080 --> 00:30:18,720
+The mining company officials, even though they had no real engineering knowledge,
+
+397
+00:30:19,060 --> 00:30:24,780
+took it upon themselves to tell people that there was no danger and they should go home or stay in their homes.
+
+398
+00:30:25,640 --> 00:30:31,500
+It was only some local residents who actually warned their neighbors and got some people out.
+
+399
+00:30:32,300 --> 00:30:39,620
+Somebody did call my mother and told her that there was fear, I guess, up on the creek that the dam would break.
+
+400
+00:30:40,260 --> 00:30:42,161
+And so we kind of knew something was going on.
+
+401
+00:30:42,162 --> 00:30:44,600
+We didn't have any clue how bad it was going to be, though.
+
+402
+00:30:44,601 --> 00:30:54,480
+water had saturated so deeply into the dam's interior that a third of its face slid off into
+
+403
+00:30:54,481 --> 00:31:00,080
+the impoundment pond of dam number two the remainder of the dam then failed catastrophically
+
+404
+00:31:00,081 --> 00:31:07,220
+it simply liquefied unleashing massive amounts of energy as it overtopped dams one and two
+
+405
+00:31:07,221 --> 00:31:12,940
+on its unstoppable path to the valley below the flood announced itself with loud explosions
+
+406
+00:31:12,941 --> 00:31:16,780
+as it slammed into the smoldering gov pile that was dam number one.
+
+407
+00:31:17,760 --> 00:31:20,120
+The town of Saunders was directly below.
+
+408
+00:31:21,000 --> 00:31:23,600
+And so within a matter of moments,
+
+409
+00:31:23,820 --> 00:31:28,620
+the whole town of Saunders was obliterated by this mass of water and slur.
+
+410
+00:31:29,340 --> 00:31:34,300
+The 20-foot-high flood wave surged with 132 million gallons of water
+
+411
+00:31:34,301 --> 00:31:36,520
+and 1 million gallons of sludge.
+
+412
+00:31:37,060 --> 00:31:40,720
+It gained momentum from gravity and from its own increasing mass
+
+413
+00:31:40,721 --> 00:31:45,800
+as it grabbed up mud, coal waste, and soon, houses and cars.
+
+414
+00:31:47,480 --> 00:31:50,700
+I could see the creek and I could see all this black water coming down it.
+
+415
+00:31:51,440 --> 00:31:54,160
+You know, I'm thinking, we got some type of flood.
+
+416
+00:31:54,320 --> 00:31:57,080
+And then I seen that white house float down and hit the bridge.
+
+417
+00:31:57,960 --> 00:32:00,180
+And, you know, the house just splintered all the pieces
+
+418
+00:32:00,181 --> 00:32:03,080
+and the water backed up and started coming over toward where I was at.
+
+419
+00:32:04,120 --> 00:32:07,380
+As some scrambled up the cold, muddy hillsides to escape,
+
+420
+00:32:07,920 --> 00:32:10,300
+they looked back to see houses floating by
+
+421
+00:32:10,301 --> 00:32:12,680
+with people still looking out the windows.
+
+422
+00:32:13,580 --> 00:32:17,580
+Houses that were soon smashed to bits along overpasses and railroad trestles.
+
+423
+00:32:18,220 --> 00:32:21,280
+When the trestle started breaking, I heard a lot of people screaming.
+
+424
+00:32:22,120 --> 00:32:27,100
+And we found out later that there were people on the trestle when it broke.
+
+425
+00:32:28,060 --> 00:32:32,200
+The torrent of water and waste cut a 17-mile swath of destruction
+
+426
+00:32:32,201 --> 00:32:35,000
+through the 17 small towns along Buffalo Creek
+
+427
+00:32:35,001 --> 00:32:37,200
+before joining the Guyon Dot River.
+
+428
+00:32:38,040 --> 00:32:40,020
+It was all over by 11 a.m.
+
+429
+00:32:40,300 --> 00:32:44,040
+125 people died.
+
+430
+00:32:44,780 --> 00:32:46,100
+1,000 more were injured.
+
+431
+00:32:47,000 --> 00:32:52,260
+507 houses, 44 mobile homes, and 30 businesses were destroyed.
+
+432
+00:32:53,380 --> 00:32:55,320
+4,000 people were left homeless.
+
+433
+00:32:56,040 --> 00:33:01,740
+It was like you had civilization one day, and then it was pure chaos the next day.
+
+434
+00:33:01,741 --> 00:33:05,400
+And that chaos lasted for a very, very, very long time.
+
+435
+00:33:06,660 --> 00:33:08,600
+Entire families died together.
+
+436
+00:33:08,601 --> 00:33:15,160
+There was friends and friends of friends and relatives of relatives that died.
+
+437
+00:33:17,640 --> 00:33:19,560
+A lot of funerals to go to.
+
+438
+00:33:24,180 --> 00:33:25,640
+Rage followed grief.
+
+439
+00:33:26,640 --> 00:33:32,440
+Co-operators money and elect you politicians and you get to Washington and you care nothing about us.
+
+440
+00:33:32,441 --> 00:33:41,340
+As with other disasters of this scale, the Buffalo Creek Dam disaster was a shocking wake-up call to federal and state agencies.
+
+441
+00:33:43,000 --> 00:33:52,160
+The Army Corps of Engineers and the Mine Safety and Health Administration, or MSHA, launched a comprehensive inspection of coal waste dams across the nation.
+
+442
+00:33:52,840 --> 00:34:01,260
+We felt that we needed to have an engineering analysis of what was available and be able to tell the mining community,
+
+443
+00:34:01,261 --> 00:34:04,460
+if you're going to build these things, here's what you've got to do.
+
+444
+00:34:05,540 --> 00:34:10,160
+Out of the horror of Buffalo Creek came a remarkable era of dam improvement,
+
+445
+00:34:10,820 --> 00:34:13,440
+where before almost no regulations existed.
+
+446
+00:34:14,320 --> 00:34:17,800
+MSHA and other agencies wrote detailed engineering specifications.
+
+447
+00:34:19,120 --> 00:34:23,720
+They demonstrated how proper engineering, combined with vigilant public scrutiny,
+
+448
+00:34:24,340 --> 00:34:27,560
+can prevent a tragedy like Buffalo Creek from happening again.
+
+449
+00:34:28,560 --> 00:34:31,200
+Other disasters defy prediction.
+
+450
+00:34:31,260 --> 00:34:38,260
+and belief. Next, a spectacular chain of catastrophe is unleashed in Louisiana.
+
+451
+00:34:38,261 --> 00:34:43,673
+There are over 650 coal waste dams in the United States today.
+
+452
+00:34:43,674 --> 00:34:49,260
+At least 232 are in West Virginia, more than in any other state.
+
+453
+00:34:49,261 --> 00:34:54,260
+Engineering Disasters will return on Modern Marvels.
+
+454
+00:34:54,261 --> 00:35:00,260
+We now return to Engineering Disasters on Modern Marvels.
+
+455
+00:35:00,261 --> 00:35:05,740
+The southern coast of Louisiana, where the water flows, everywhere.
+
+456
+00:35:07,120 --> 00:35:15,380
+Shallow lakes full of catfish, broad bayous, canals dotted with shrimp boats, all leading to the Gulf of Mexico.
+
+457
+00:35:16,520 --> 00:35:24,040
+On November 20, 1980, water would play the key role in one of the strangest and most spectacular engineering disasters ever.
+
+458
+00:35:24,041 --> 00:35:31,280
+This was once the shaft of the Jefferson Island salt mine, where men had been pulling salt
+
+459
+00:35:31,281 --> 00:35:32,660
+out of the earth since 1919.
+
+460
+00:35:32,661 --> 00:35:42,180
+Louisiana's salt lies in gigantic underground domes, some larger than Mount Everest, which
+
+461
+00:35:42,181 --> 00:35:46,920
+are pushed upward by the force of the heavier rock that surrounds them.
+
+462
+00:35:46,921 --> 00:35:51,520
+Part of the Jefferson Island mine is located directly under Lake Peignore.
+
+463
+00:35:51,521 --> 00:35:54,340
+The mine, which was operated by the Diamond Crystal Salt Company,
+
+464
+00:35:54,940 --> 00:35:59,680
+shared space on Jefferson Island with a lush botanical preserve known as Live Oak Gardens.
+
+465
+00:36:02,440 --> 00:36:05,400
+There's another abundant resource deep under Lake Peñor,
+
+466
+00:36:06,040 --> 00:36:08,880
+one frequently found in pockets near salt domes.
+
+467
+00:36:09,560 --> 00:36:11,560
+It's as black as the salt is white.
+
+468
+00:36:12,020 --> 00:36:17,800
+That salt moves upward and it pierces through surrounding strata,
+
+469
+00:36:18,300 --> 00:36:20,720
+sands, clays, and limestones.
+
+470
+00:36:20,721 --> 00:36:31,000
+And this piercing produces faults and folds within these surrounding sediments, producing an ideal mechanism to trap oil.
+
+471
+00:36:31,900 --> 00:36:39,860
+So it was hardly surprising that Texaco was conducting exploratory drilling close to the Jefferson Island salt mine in November of 1980.
+
+472
+00:36:39,861 --> 00:36:46,320
+On November 20th, the two delicate underground and underwater operations,
+
+473
+00:36:46,980 --> 00:36:51,300
+drilling oil and mining salt, collided in spectacular fashion.
+
+474
+00:36:53,580 --> 00:36:57,120
+Well, it was a typical day in November the 20th, 1980.
+
+475
+00:36:57,640 --> 00:37:00,000
+A nice, cool, crisp day, clear skies.
+
+476
+00:37:00,980 --> 00:37:03,940
+People were fishing out on the lake, as they usually do.
+
+477
+00:37:05,240 --> 00:37:07,300
+The mine was in full operation.
+
+478
+00:37:07,301 --> 00:37:13,680
+But in the pre-dawn hours, the oil drilling crew on Lake Peignore had run into a problem.
+
+479
+00:37:14,660 --> 00:37:16,680
+At 500 or 600 feet, they hit salt.
+
+480
+00:37:17,180 --> 00:37:21,000
+And they were not supposed to hit salt for another couple of hundred feet.
+
+481
+00:37:21,900 --> 00:37:23,680
+The drill bit became stuck.
+
+482
+00:37:24,360 --> 00:37:26,420
+The crew heard strange popping sounds.
+
+483
+00:37:27,080 --> 00:37:29,320
+The oil rig tilted badly to one side.
+
+484
+00:37:30,160 --> 00:37:35,580
+And at that point in time, the drillers recognized that they had a fairly serious problem on their hands.
+
+485
+00:37:35,581 --> 00:37:43,220
+What they didn't realize is the 14-inch drill bit had punctured the roof of the salt mine at the 1,300-foot level,
+
+486
+00:37:43,920 --> 00:37:46,380
+creating a funnel for Lake Pignore to drain into.
+
+487
+00:37:47,380 --> 00:37:50,540
+It was apparently the result of a simple miscalculation.
+
+488
+00:37:51,240 --> 00:37:56,180
+It seems that there was an engineering error in the location of the Texaco well.
+
+489
+00:37:56,640 --> 00:38:00,180
+They used a form of triangulation for determining the location,
+
+490
+00:38:00,181 --> 00:38:05,380
+and one of the points they used for triangulating was an error.
+
+491
+00:38:05,580 --> 00:38:13,860
+And consequently, it rotated the location of the borehole about 400 feet closer to the main mine than it should have been.
+
+492
+00:38:14,280 --> 00:38:19,900
+90 minutes after the drill became stuck, the drilling crew, who had wisely abandoned the tilting rig,
+
+493
+00:38:20,540 --> 00:38:28,180
+watched in amazement from the shore as their 150-foot derrick disappeared into a lake that was less than 10 feet deep.
+
+494
+00:38:28,181 --> 00:38:39,180
+Meanwhile, 1,300 feet below the surface of Lake Peñor, diamond crystal miners, who had not been alerted to a problem, looked up to see something you should never see
+
+495
+00:38:39,181 --> 00:38:40,180
+in a salt mine.
+
+496
+00:38:40,900 --> 00:38:41,600
+Water.
+
+497
+00:38:41,740 --> 00:38:45,040
+Water flowing through salt tends to dissolve the salt.
+
+498
+00:38:46,120 --> 00:38:51,680
+As you increase the volume of water, you increase the volume of salt that can be dissolved.
+
+499
+00:38:53,240 --> 00:38:58,120
+Soon it was clear. Lake Peñor was draining through the hole bored by the drill bit.
+
+500
+00:38:58,180 --> 00:38:59,720
+and into the salt mine.
+
+501
+00:39:00,800 --> 00:39:04,640
+As the 2.5 billion gallons of Lake Peneur surged into the mine
+
+502
+00:39:04,641 --> 00:39:06,860
+with 10 times the pressure of a fire hydrant,
+
+503
+00:39:07,440 --> 00:39:09,840
+a mighty whirlpool was forming on the surface.
+
+504
+00:39:12,160 --> 00:39:14,980
+Remarkably, thanks to well-rehearsed evacuation drills
+
+505
+00:39:14,981 --> 00:39:16,540
+and the heroics of several miners,
+
+506
+00:39:17,040 --> 00:39:19,980
+all 55 people in the mine managed to get out.
+
+507
+00:39:20,760 --> 00:39:24,240
+But back on the surface, the chaos was just beginning.
+
+508
+00:39:28,180 --> 00:39:37,260
+The whirlpool is basically a vortex of water and mud that is flowing down into a fairly confined space.
+
+509
+00:39:37,261 --> 00:39:45,240
+And that whirlpool is basically flowing downwards under the force of gravity, pulling sediment and other materials down with it.
+
+510
+00:39:45,820 --> 00:39:51,520
+The whirlpool sucking force pulled heavy-duty barges toward it as their crews leapt for safety.
+
+511
+00:39:51,521 --> 00:39:58,400
+men watched with jaws agape as 11 barges and a tugboat disappeared into the vortex
+
+512
+00:39:58,401 --> 00:40:05,020
+those are four fully loaded flatbed trucks spinning helplessly in the whirlpool
+
+513
+00:40:05,021 --> 00:40:13,360
+enter leon's viator jr who had simply wanted to catch some fish that day i was crazy enough to be
+
+514
+00:40:13,361 --> 00:40:21,220
+on the lake november the 20th 1980 so i asked my nephew to come with me on the boat and was
+
+515
+00:40:21,221 --> 00:40:28,220
+gonna go catch some catfish. We went. We're gonna go and try our luck.
+
+516
+00:40:28,221 --> 00:40:32,220
+What his luck would have it that day.
+
+517
+00:40:32,221 --> 00:40:38,220
+Vietor soon found himself and his 14-foot boat being yanked toward the whirlpool and certain death.
+
+518
+00:40:38,221 --> 00:40:47,220
+When we got further down on the lake, I spotted something, an eye in the ground.
+
+519
+00:40:47,221 --> 00:40:53,380
+to me it measured 100 feet in diameter and there was a lot of barges all glooped to it
+
+520
+00:40:54,420 --> 00:41:00,500
+i didn't know what was happening when a barge that was blocking the way was sucked into the hole
+
+521
+00:41:00,501 --> 00:41:05,860
+it gave viator a narrow path to skirt the maelstrom he gunned the motor and reached the
+
+522
+00:41:05,861 --> 00:41:12,740
+shore with seconds to spare viator then tied his boat to a tree when i looked like this i seen my
+
+523
+00:41:12,741 --> 00:41:17,285
+boat that I had tied to the tree and there it was going into the whirlpool.
+
+524
+00:41:17,286 --> 00:41:18,740
+So that's the last thing
+
+525
+00:41:18,741 --> 00:41:23,603
+I've seen, my boat tied up to the tree going into the hole.
+
+526
+00:41:23,604 --> 00:41:26,900
+By that point, the whirlpool was sucking
+
+527
+00:41:26,901 --> 00:41:28,794
+down Jefferson Island itself.
+
+528
+00:41:28,795 --> 00:41:33,300
+Before evening, 65 acres of land, including much of live oak gardens,
+
+529
+00:41:33,301 --> 00:41:38,700
+would end up at the bottom of the mine. 150 year old trees were snapped in half.
+
+530
+00:41:38,701 --> 00:41:39,780
+There were pecan
+
+531
+00:41:39,781 --> 00:41:44,520
+trees that were 150 feet tall down here in this woods and to stand there and
+
+532
+00:41:44,521 --> 00:41:50,460
+watch them drop completely out of sight yeah along the shoreline along the
+
+533
+00:41:50,461 --> 00:41:54,960
+live old gardens and the Jefferson Island mansion you're basically seeing
+
+534
+00:41:54,961 --> 00:41:59,700
+what are called landslides where the ground is actually shearing and breaking
+
+535
+00:41:59,701 --> 00:42:04,740
+apart and gravity is pulling these blocks down into the hole
+
+536
+00:42:09,780 --> 00:42:14,960
+That house that we were standing on, all you see now is a chimney.
+
+537
+00:42:15,560 --> 00:42:17,100
+The house sank about 30 feet.
+
+538
+00:42:18,380 --> 00:42:19,420
+Could things get worse?
+
+539
+00:42:20,320 --> 00:42:21,020
+Yes.
+
+540
+00:42:21,720 --> 00:42:25,960
+Delcum Canal, which normally flowed away from Lake Peñor and into the Gulf of Mexico,
+
+541
+00:42:26,700 --> 00:42:30,220
+actually reversed direction under the intense sucking power of the whirlpool.
+
+542
+00:42:31,040 --> 00:42:34,160
+As the water rushed into the now nearly empty lake bed,
+
+543
+00:42:34,161 --> 00:42:39,880
+it formed a 150 foot waterfall, the highest ever in Louisiana.
+
+544
+00:42:41,880 --> 00:42:46,040
+But that's the only time the Gulf of Mexico flew north, basically.
+
+545
+00:42:46,740 --> 00:42:49,800
+So that's a lot of water to fill up that hole.
+
+546
+00:42:51,080 --> 00:42:53,140
+As the water rushed into the mine,
+
+547
+00:42:53,640 --> 00:42:56,300
+its rapid displacement of the underground caverns
+
+548
+00:42:56,301 --> 00:42:58,400
+shot a deafening blast of compressed air
+
+549
+00:42:58,401 --> 00:43:02,420
+and later a 400 foot geyser up from the mine shaft.
+
+550
+00:43:02,421 --> 00:43:05,440
+To see something like this, it was terrible, really.
+
+551
+00:43:05,920 --> 00:43:08,240
+I thought it was the end of the world.
+
+552
+00:43:09,340 --> 00:43:12,880
+It took two days for the canal's water to fill up the mine in Lake Peignore.
+
+553
+00:43:13,620 --> 00:43:19,400
+When the water pressure equalized, nine of the 11 sunk barges popped up like corks in a bathtub.
+
+554
+00:43:21,640 --> 00:43:25,540
+The drilling operation and the underground salt mine were complete losses.
+
+555
+00:43:27,860 --> 00:43:30,620
+The cause of the disaster was never officially determined,
+
+556
+00:43:30,621 --> 00:43:34,980
+since all the evidence was at the bottom of a 1,500-foot water-filled salt mine.
+
+557
+00:43:35,880 --> 00:43:40,580
+But there's no definitive evidence that the mine itself was structurally unsound.
+
+558
+00:43:41,720 --> 00:43:46,080
+The culprit was most likely a 14-inch wide drill bit.
+
+559
+00:43:48,700 --> 00:43:52,360
+This engineering disaster did have at least one positive effect.
+
+560
+00:43:52,980 --> 00:43:55,840
+It made Lake Peneur a little more interesting.
+
+561
+00:43:55,841 --> 00:44:01,080
+It's a shallow lake and now we have part of it that's a deep lake.
+
+562
+00:44:01,081 --> 00:44:04,640
+So it's changed the type of fish that live in the lake.
+
+563
+00:44:04,641 --> 00:44:10,620
+And we catch a redfish and saltwater species that were not very prevalent here before.
+
+564
+00:44:10,621 --> 00:44:14,780
+But not everyone is planning a fishing trip to Lake Benyur.
+
+565
+00:44:14,781 --> 00:44:22,900
+What I went through and got out of there alive, I don't care for it really.
+
+566
+00:44:22,901 --> 00:44:25,160
+I prefer buying my fish.
+
+567
+00:44:27,600 --> 00:44:31,760
+It can hardly be said that the Jefferson Island disaster had a happy ending.
+
+568
+00:44:32,780 --> 00:44:36,260
+The loss to livelihoods and cherished property was devastating.
+
+569
+00:44:37,080 --> 00:44:40,680
+Yet the fact that no human beings perished was fortunate indeed.
+
+570
+00:44:41,540 --> 00:44:44,620
+For if there's one lesson to take from this strange engineering disaster,
+
+571
+00:44:45,380 --> 00:44:48,800
+it's that a small mistake can have huge consequences.
+
+572
+00:44:48,801 --> 00:44:54,840
+Think the first Superdome was opened in 1965?
+
+573
+00:44:55,360 --> 00:44:57,140
+You're about 2,000 years off.
+
+574
+00:44:57,380 --> 00:45:00,160
+Think the first gated communities were built in the 1980s?
+
+575
+00:45:00,320 --> 00:45:01,020
+Think again.
+
+576
+00:45:01,180 --> 00:45:04,220
+The Romans, they not only conquered the ancient world,
+
+577
+00:45:04,460 --> 00:45:05,880
+they conquered the future.
+
+578
+00:45:06,340 --> 00:45:08,360
+Rome, engineering and empire.
+
+579
+00:45:08,680 --> 00:45:09,380
+Tonight at 8th.
+

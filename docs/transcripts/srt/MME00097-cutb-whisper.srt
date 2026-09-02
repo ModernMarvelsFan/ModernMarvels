@@ -1,0 +1,3180 @@
+1
+00:00:00,001 --> 00:00:06,000
+The task monumental and for many, deadly.
+
+2
+00:00:06,001 --> 00:00:09,000
+Building the world's largest dam in one of the most unforgiving
+
+3
+00:00:09,001 --> 00:00:12,000
+climates on Earth. Nothing like it had ever been
+
+4
+00:00:12,001 --> 00:00:18,000
+attempted. Now, Hoover Dam on Modern Marvents.
+
+5
+00:00:30,000 --> 00:00:33,300
+Located in the middle of America's southwestern desert,
+
+6
+00:00:33,400 --> 00:00:36,400
+stands a true giant in the history of human ingenuity
+
+7
+00:00:36,500 --> 00:00:38,940
+and accomplishment.
+
+8
+00:00:39,040 --> 00:00:42,680
+Built in the 1930s, Hoover Dam holds back trillions
+
+9
+00:00:42,780 --> 00:00:45,040
+of gallons of life-sustaining water,
+
+10
+00:00:45,140 --> 00:00:48,780
+provides prodigious amounts of hydroelectric power,
+
+11
+00:00:48,880 --> 00:00:54,160
+and inspires awe as a structure of monumental proportions.
+
+12
+00:00:54,260 --> 00:01:00,000
+At 726 feet, Hoover Dam is as tall as a skyscraper.
+
+13
+00:01:00,001 --> 00:01:03,600
+At the base of the dam, the concrete is an incredible
+
+14
+00:01:03,700 --> 00:01:07,600
+660 feet thick.
+
+15
+00:01:07,700 --> 00:01:10,440
+The amount of concrete used to construct Hoover Dam
+
+16
+00:01:10,540 --> 00:01:15,940
+could build a two-lane highway from Los Angeles to Boston.
+
+17
+00:01:16,040 --> 00:01:19,060
+While from the outside, the dam appears to be a solid wall
+
+18
+00:01:19,160 --> 00:01:23,060
+of concrete, inside it's laced with two miles of corridors
+
+19
+00:01:23,160 --> 00:01:23,960
+and tunnels.
+
+20
+00:01:23,961 --> 00:01:24,661
+tunnels.
+
+21
+00:01:28,500 --> 00:01:30,600
+The dam holds back nearly two years
+
+22
+00:01:30,601 --> 00:01:33,540
+of the Colorado River's average flow
+
+23
+00:01:33,541 --> 00:01:37,300
+and creates 110 mile long Lake Mead.
+
+24
+00:01:37,301 --> 00:01:40,280
+It's America's largest man-made reservoir
+
+25
+00:01:40,281 --> 00:01:43,880
+and is located in one of the driest places on Earth,
+
+26
+00:01:43,881 --> 00:01:46,380
+30 miles southeast of Las Vegas, Nevada.
+
+27
+00:01:53,960 --> 00:02:02,720
+The primary reasons the dam was built were flood control and to guarantee a steady water supply to the quickly growing population in the southwestern United States.
+
+28
+00:02:05,700 --> 00:02:12,760
+Generating electricity was secondary, but now much of the modern southwest depends on the dam to feed its power-hungry lifestyle.
+
+29
+00:02:16,680 --> 00:02:22,720
+To generate electricity, water is fed into 30-foot diameter pipes called penstocks.
+
+30
+00:02:23,960 --> 00:02:27,360
+the four intake towers standing in Lake Mead.
+
+31
+00:02:27,460 --> 00:02:29,460
+Once it goes into the 30-foot diameter water pipe,
+
+32
+00:02:29,560 --> 00:02:31,760
+the water's traveling at about 12 miles an hour,
+
+33
+00:02:31,860 --> 00:02:33,700
+which is fast for water, but not fast enough
+
+34
+00:02:33,800 --> 00:02:35,200
+to turn our generators.
+
+35
+00:02:35,300 --> 00:02:38,500
+The rotating weight of the generators itself is 800 tons.
+
+36
+00:02:38,600 --> 00:02:40,000
+So we need to increase the speed,
+
+37
+00:02:40,100 --> 00:02:42,720
+and we do that by continuously reducing the size of the pipe.
+
+38
+00:02:42,820 --> 00:02:44,520
+30 foot becomes 13.
+
+39
+00:02:44,620 --> 00:02:46,520
+13 narrows down to a scroll case, which
+
+40
+00:02:46,620 --> 00:02:48,020
+is four feet in diameter.
+
+41
+00:02:48,120 --> 00:02:50,120
+By the time the water actually reaches the turbine,
+
+42
+00:02:50,220 --> 00:02:53,960
+it's going approximately 85 miles an hour.
+
+43
+00:02:53,961 --> 00:02:58,040
+Eventually, it hits the turbine runner, which I've got one out for maintenance here in the background.
+
+44
+00:02:58,700 --> 00:03:00,980
+This turbine runner weighs 35 tons.
+
+45
+00:03:01,200 --> 00:03:02,120
+It's stainless steel.
+
+46
+00:03:02,620 --> 00:03:08,980
+The water impacting that turbine runner causes it to rotate 180 RPMs 180 times per minute.
+
+47
+00:03:09,720 --> 00:03:13,660
+That rotation is transferred through a solid shaft up to our generator rotor.
+
+48
+00:03:14,840 --> 00:03:20,780
+When you push a generator, what you're doing is you're moving magnetic fields across wires.
+
+49
+00:03:20,781 --> 00:03:24,180
+We have our big electromagnets on the rotor of the machine,
+
+50
+00:03:24,280 --> 00:03:27,620
+and then we have stationary wires that we call the stator.
+
+51
+00:03:27,720 --> 00:03:31,220
+And when those magnetic fields cross across the stator,
+
+52
+00:03:31,320 --> 00:03:34,820
+it pushes electrons through those big wires in the stator,
+
+53
+00:03:34,920 --> 00:03:38,000
+and that's the electrons on their way to our transformer
+
+54
+00:03:38,100 --> 00:03:40,440
+and out to the world.
+
+55
+00:03:40,540 --> 00:03:42,540
+The electricity leaves the transformers
+
+56
+00:03:42,640 --> 00:03:46,340
+on power lines strung up along the sides of the canyon.
+
+57
+00:03:46,440 --> 00:03:48,900
+Behind me, you'll see what they call cantilever towers,
+
+58
+00:03:48,901 --> 00:03:50,940
+and they appear to be falling into the canyon,
+
+59
+00:03:51,040 --> 00:03:52,100
+but they're not.
+
+60
+00:03:52,200 --> 00:03:53,240
+They're actually leaning into the canyon,
+
+61
+00:03:53,340 --> 00:03:54,840
+and they're designed to be that way.
+
+62
+00:03:54,940 --> 00:03:56,740
+What we want to do is take the power lines up
+
+63
+00:03:56,840 --> 00:03:59,080
+and over the canyon walls without having them touch
+
+64
+00:03:59,180 --> 00:04:00,440
+the same canyon walls.
+
+65
+00:04:00,540 --> 00:04:01,840
+Otherwise, they would shore it out.
+
+66
+00:04:01,940 --> 00:04:03,740
+And that's mainly due to the ferrous material that's
+
+67
+00:04:03,840 --> 00:04:06,560
+inside those canyon walls.
+
+68
+00:04:06,660 --> 00:04:08,780
+In other words, there's enough iron content
+
+69
+00:04:08,880 --> 00:04:11,720
+in the canyon walls to cause the electricity to arc off
+
+70
+00:04:11,820 --> 00:04:14,120
+the cables if they were allowed to get too close.
+
+71
+00:04:14,121 --> 00:04:20,720
+There were 17 generators in Hoover Dam's huge power plant,
+
+72
+00:04:20,721 --> 00:04:25,860
+and they produce more than 4 billion kilowatt hours a year.
+
+73
+00:04:25,861 --> 00:04:29,060
+We have a service area, including all of Southern
+
+74
+00:04:29,061 --> 00:04:33,780
+California and Arizona, probably more than 20 million people that
+
+75
+00:04:33,781 --> 00:04:36,280
+receive some of the power.
+
+76
+00:04:36,281 --> 00:04:40,480
+Despite Hoover Dam's massive size, like so many of the
+
+77
+00:04:40,481 --> 00:04:44,120
+construction projects of the 1930s, there's an element
+
+78
+00:04:44,121 --> 00:04:50,360
+built into it. Notable artists brought a touch
+
+79
+00:04:50,361 --> 00:04:53,360
+of class to this once bleak and desolate canyon.
+
+80
+00:04:57,360 --> 00:05:02,560
+Inside, Art Deco design flourishes are found in the ornate visitor
+
+81
+00:05:02,561 --> 00:05:07,120
+elevators, gleaming aluminum doors, and decorative railings
+
+82
+00:05:07,121 --> 00:05:11,880
+in the powerhouse. Inlaid in the terrazzo floors
+
+83
+00:05:11,881 --> 00:05:15,680
+inspired by Native American art that symbolize the power of the
+
+84
+00:05:15,681 --> 00:05:17,920
+dam.
+
+85
+00:05:17,921 --> 00:05:20,680
+At the halfway point along one of the main corridors that runs
+
+86
+00:05:20,681 --> 00:05:24,720
+through the dam, a design marks the border between Arizona and
+
+87
+00:05:24,721 --> 00:05:25,720
+Nevada.
+
+88
+00:05:29,240 --> 00:05:32,540
+Hoover Dam epitomizes humanity's discontent with accepting
+
+89
+00:05:32,541 --> 00:05:35,240
+nature's rules.
+
+90
+00:05:35,241 --> 00:05:39,640
+It transformed the environment around it.
+
+91
+00:05:39,641 --> 00:05:43,640
+Building the dam was a colossal undertaking in 1931.
+
+92
+00:05:43,740 --> 00:05:47,880
+It was the largest government project ever attempted.
+
+93
+00:05:47,980 --> 00:05:50,760
+Constructed in the depths of the Depression,
+
+94
+00:05:50,860 --> 00:05:54,280
+it promised to change Barrett to Bountable.
+
+95
+00:05:54,380 --> 00:05:56,820
+The Southwest is an arid area.
+
+96
+00:05:56,920 --> 00:05:59,300
+And without a dam like Hoover Dam
+
+97
+00:05:59,400 --> 00:06:02,300
+to control the flow of the river and make the water available
+
+98
+00:06:02,400 --> 00:06:04,300
+when it's needed, we just couldn't
+
+99
+00:06:04,400 --> 00:06:06,660
+have the level of economic development
+
+100
+00:06:06,760 --> 00:06:09,640
+that we have in the Southwest today.
+
+101
+00:06:09,641 --> 00:06:16,640
+Hoover Dam was the first major attempt to tame the mighty Colorado River, the same river that carved the Grand Canyon.
+
+102
+00:06:19,640 --> 00:06:27,640
+Snow melting in the Rocky Mountains sends a torrent of water down the Colorado every spring, but then dries to a trickle by summer.
+
+103
+00:06:27,641 --> 00:06:31,780
+trickle by summer. The 1,400-mile-long river
+
+104
+00:06:31,781 --> 00:06:39,780
+drains water from seven states, Wyoming, Nevada, Utah, Colorado,
+
+105
+00:06:39,781 --> 00:06:45,400
+New Mexico, Arizona, and California, and empties into the
+
+106
+00:06:45,401 --> 00:06:49,600
+Gulf of California. The early settlers who were
+
+107
+00:06:49,601 --> 00:06:53,500
+trying to build an economy, build lives at the bottom end of this
+
+108
+00:06:53,501 --> 00:06:56,900
+river, they planted their crops and built their fields and built
+
+109
+00:06:56,901 --> 00:06:59,460
+homes and businesses, in the spring times,
+
+110
+00:06:59,461 --> 00:07:03,240
+those would be subject to inundation or destruction
+
+111
+00:07:03,241 --> 00:07:05,700
+because of the floods coming down the river.
+
+112
+00:07:05,701 --> 00:07:08,640
+And by the end of the summer, when the farmers really
+
+113
+00:07:08,641 --> 00:07:11,480
+needed that water to get their crops to maturity,
+
+114
+00:07:11,481 --> 00:07:14,080
+they couldn't get to the water.
+
+115
+00:07:14,081 --> 00:07:16,520
+Attempts to harness the power of the Colorado River
+
+116
+00:07:16,521 --> 00:07:20,260
+date back more than a century.
+
+117
+00:07:20,261 --> 00:07:25,020
+In 1901, a private company constructed a canal system
+
+118
+00:07:25,021 --> 00:07:28,720
+water from the Colorado River and delivered it to the arid
+
+119
+00:07:28,721 --> 00:07:32,020
+but fertile Imperial Valley of Southern California.
+
+120
+00:07:32,021 --> 00:07:34,860
+The company cut an opening in the western bank of the Colorado
+
+121
+00:07:34,861 --> 00:07:40,260
+River and installed a head gate, which controlled water flow.
+
+122
+00:07:40,261 --> 00:07:42,980
+Initially, the system of small gates and channels worked
+
+123
+00:07:42,981 --> 00:07:46,980
+beyond expectation. Fields produced a bounty
+
+124
+00:07:46,981 --> 00:07:51,980
+of agricultural products. Soon, thousands of people flocked
+
+125
+00:07:51,981 --> 00:07:54,780
+flocked to the Imperial Valley with dreams of finding a new
+
+126
+00:07:54,880 --> 00:07:57,280
+Eden.
+
+127
+00:07:57,380 --> 00:08:02,120
+But their dreams soon turned into a nightmare.
+
+128
+00:08:02,220 --> 00:08:04,920
+The problem was these were not very well engineered works,
+
+129
+00:08:05,020 --> 00:08:06,120
+and they weren't very good.
+
+130
+00:08:06,220 --> 00:08:10,140
+And the Colorado River in 1905 had a major flood come down
+
+131
+00:08:10,240 --> 00:08:13,440
+the river, and it washed out these head works and flowed
+
+132
+00:08:13,540 --> 00:08:16,340
+into the Imperial Valley for 18 months.
+
+133
+00:08:16,440 --> 00:08:19,240
+They essentially created what is today the Salton Sea,
+
+134
+00:08:19,241 --> 00:08:23,440
+much of the agricultural land, destroyed homes, destroyed
+
+135
+00:08:23,540 --> 00:08:26,740
+businesses, really wreaked havoc.
+
+136
+00:08:26,840 --> 00:08:29,580
+If the breach wasn't repaired, experts
+
+137
+00:08:29,680 --> 00:08:33,580
+predicted the Salton Sea would continue to grow and eventually
+
+138
+00:08:33,680 --> 00:08:38,500
+drown millions of acres of California and Arizona.
+
+139
+00:08:38,600 --> 00:08:42,000
+It wasn't until early 1907 that the breach was successfully
+
+140
+00:08:42,100 --> 00:08:45,800
+closed, but it was considered only a temporary solution.
+
+141
+00:08:45,801 --> 00:08:50,600
+In 1922, Arthur Powell Davis, director of the US Bureau
+
+142
+00:08:50,700 --> 00:08:54,040
+of Reclamation, recommended a series of reservoirs
+
+143
+00:08:54,140 --> 00:08:55,740
+to control the entire river.
+
+144
+00:08:58,240 --> 00:09:01,840
+Known as the Fall Davis Report, the centerpiece of the plan
+
+145
+00:09:01,940 --> 00:09:04,920
+was a colossal dam to be built in Boulder Canyon
+
+146
+00:09:05,020 --> 00:09:06,360
+between Nevada and Arizona.
+
+147
+00:09:10,300 --> 00:09:12,360
+Before the measure could proceed,
+
+148
+00:09:12,460 --> 00:09:15,800
+the states had to decide on an equitable division of water.
+
+149
+00:09:15,801 --> 00:09:20,600
+Arizona believed California was trying to steal an unfair share
+
+150
+00:09:20,601 --> 00:09:25,040
+of water and blocked legislation for several years.
+
+151
+00:09:25,041 --> 00:09:28,040
+There's always a fight over water in the West.
+
+152
+00:09:28,041 --> 00:09:32,040
+When water is scarce, there's going to be tension over water,
+
+153
+00:09:32,041 --> 00:09:34,960
+and that was the case years ago.
+
+154
+00:09:34,961 --> 00:09:37,460
+It's still the case today.
+
+155
+00:09:37,461 --> 00:09:42,100
+Finally, in 1929, the Boulder Canyon Project Act
+
+156
+00:09:42,101 --> 00:09:45,800
+passed in Congress.
+
+157
+00:09:45,801 --> 00:09:55,560
+The Bureau of Reclamation worked to design a structure capable of holding back trillions of gallons of water in a very high yet narrow canyon.
+
+158
+00:09:57,340 --> 00:10:00,920
+They considered many different designs before finding the answer.
+
+159
+00:10:03,560 --> 00:10:08,180
+Hoover Dam is a combination of gravity and arch.
+
+160
+00:10:08,181 --> 00:10:19,860
+Gravity dams are dams that are just so massive that they can, their weight of them themselves can hold back the weight of the water behind them.
+
+161
+00:10:20,060 --> 00:10:26,760
+And then arch dams traditionally are built in the shape of an arch and they're actually keyed into canyon walls.
+
+162
+00:10:27,020 --> 00:10:32,700
+The weight of the water presses the arch into the sides of the canyon walls and there's strength in the arch.
+
+163
+00:10:32,701 --> 00:10:34,240
+It's kind of like an egg shell.
+
+164
+00:10:34,340 --> 00:10:36,440
+If you try to press in on the edge of an egg,
+
+165
+00:10:36,540 --> 00:10:37,940
+an egg shell is very thin.
+
+166
+00:10:38,040 --> 00:10:39,740
+But the egg itself is very strong.
+
+167
+00:10:39,840 --> 00:10:43,080
+If you try to press in on the edge of a, on the two ends
+
+168
+00:10:43,180 --> 00:10:45,440
+of an egg, you'll find that you can't crush an egg.
+
+169
+00:10:45,540 --> 00:10:48,380
+It's the strength of the arch.
+
+170
+00:10:48,480 --> 00:10:52,180
+The Bureau of Reclamation's planned Arch Gravity Dam
+
+171
+00:10:52,280 --> 00:10:55,160
+would not only be the largest dam in the world,
+
+172
+00:10:55,260 --> 00:10:59,420
+it was to be built in one of the most desolate areas on Earth.
+
+173
+00:10:59,520 --> 00:11:02,460
+I sometimes question the audacity of the people
+
+174
+00:11:02,461 --> 00:11:05,160
+the people who had the courage and the conviction
+
+175
+00:11:05,161 --> 00:11:07,660
+to think they could build a dam out in the middle of a desert
+
+176
+00:11:07,661 --> 00:11:08,660
+where nothing existed.
+
+177
+00:11:08,661 --> 00:11:10,800
+There were no roads to the site.
+
+178
+00:11:10,801 --> 00:11:13,140
+There was no power to the site.
+
+179
+00:11:13,141 --> 00:11:15,380
+There was no labor force here.
+
+180
+00:11:15,381 --> 00:11:17,700
+There was nowhere for the people to live who were going
+
+181
+00:11:17,701 --> 00:11:19,600
+to come and build the dam.
+
+182
+00:11:19,601 --> 00:11:21,720
+In spite of all the obstacles,
+
+183
+00:11:21,721 --> 00:11:23,740
+the dam had to be perfect.
+
+184
+00:11:23,741 --> 00:11:26,960
+Surveyors decided to move the location from Boulder Canyon
+
+185
+00:11:26,961 --> 00:11:30,020
+to Black Canyon, eight miles downstream.
+
+186
+00:11:30,021 --> 00:11:32,220
+Black Canyon, the site where we actually are today,
+
+187
+00:11:32,221 --> 00:11:35,220
+mostly because of the fissures that are underneath where we
+
+188
+00:11:35,221 --> 00:11:36,220
+are today.
+
+189
+00:11:36,221 --> 00:11:38,220
+There were less fissures here in this area.
+
+190
+00:11:38,221 --> 00:11:41,220
+Now, the rock is some of the best rock that you can find for
+
+191
+00:11:41,221 --> 00:11:42,220
+placing a dam.
+
+192
+00:11:42,221 --> 00:11:43,220
+It's called Andesite Brescia.
+
+193
+00:11:43,221 --> 00:11:46,220
+It actually has a tighter granular composition than
+
+194
+00:11:46,221 --> 00:11:48,220
+granite.
+
+195
+00:11:48,221 --> 00:11:52,220
+The location was set, but the task ahead was great.
+
+196
+00:11:52,221 --> 00:11:56,220
+Hire an army of thousands, divert the river around the
+
+197
+00:11:56,221 --> 00:12:01,220
+dam site, and form a mountain of concrete into a dam, all
+
+198
+00:12:01,221 --> 00:12:04,360
+all in the middle of nowhere.
+
+199
+00:12:04,460 --> 00:12:05,660
+One question remained.
+
+200
+00:12:08,460 --> 00:12:09,460
+Could it be done?
+
+201
+00:12:12,960 --> 00:12:15,460
+Lake Mead, the reservoir created by Hoover Dam,
+
+202
+00:12:15,560 --> 00:12:19,380
+contains enough water to cover the entire state of Pennsylvania
+
+203
+00:12:19,480 --> 00:12:21,080
+with one foot of water.
+
+204
+00:12:31,220 --> 00:12:33,220
+Hoover Dam.
+
+205
+00:12:42,360 --> 00:12:45,960
+Hoover Dam may be an icon of American ingenuity,
+
+206
+00:12:45,961 --> 00:12:49,340
+but the structure itself is only the end product
+
+207
+00:12:49,341 --> 00:12:53,340
+of an elaborate engineering, logistical, and human story.
+
+208
+00:12:55,980 --> 00:12:59,420
+In 1930, the Bureau of Reclamation,
+
+209
+00:12:59,421 --> 00:13:03,420
+responsible for water management in the Western United States,
+
+210
+00:13:03,520 --> 00:13:06,520
+had to first build a railway supply line from Las Vegas
+
+211
+00:13:06,620 --> 00:13:10,260
+to Black Canyon, the site chosen for the new dam.
+
+212
+00:13:12,760 --> 00:13:15,460
+Although the site had changed from Boulder Canyon to Black
+
+213
+00:13:15,560 --> 00:13:19,180
+Canyon, the endeavor was still called the Boulder Canyon
+
+214
+00:13:19,280 --> 00:13:20,280
+Project.
+
+215
+00:13:20,380 --> 00:13:23,980
+People naturally anticipated the name would be Boulder Dam.
+
+216
+00:13:24,080 --> 00:13:27,780
+But at a railroad spike driving ceremony, Ray Wilbur,
+
+217
+00:13:27,781 --> 00:13:30,440
+Ray Wilbur, Secretary of the Interior under President
+
+218
+00:13:30,540 --> 00:13:34,620
+Herbert Hoover, set the record straight.
+
+219
+00:13:34,720 --> 00:13:37,820
+The Secretary of the Interior, Ray Lyman Wilbur,
+
+220
+00:13:37,920 --> 00:13:39,720
+came out to drive the Silver Spike
+
+221
+00:13:39,820 --> 00:13:42,920
+to begin construction of the railroad spur from Las Vegas
+
+222
+00:13:43,020 --> 00:13:45,540
+out to Boulder City town site.
+
+223
+00:13:45,640 --> 00:13:48,240
+And that day is the day that he announced, well, we're going
+
+224
+00:13:48,340 --> 00:13:50,040
+to call it Hoover Dam.
+
+225
+00:13:50,140 --> 00:13:53,540
+Well, this was a year after the stock market had crashed
+
+226
+00:13:53,640 --> 00:13:55,140
+and the Depression was settling in
+
+227
+00:13:55,141 --> 00:13:57,840
+and people were not at all happy with Hoover.
+
+228
+00:13:57,841 --> 00:14:01,180
+Despite the public's disapproval of President Hoover,
+
+229
+00:14:01,181 --> 00:14:04,040
+they welcomed the new job opportunities.
+
+230
+00:14:04,041 --> 00:14:07,080
+People were desperate for work.
+
+231
+00:14:07,081 --> 00:14:09,780
+Soon, thousands poured into the Las Vegas area
+
+232
+00:14:09,781 --> 00:14:12,000
+in hopes of finding employment.
+
+233
+00:14:12,001 --> 00:14:13,900
+Before the construction started,
+
+234
+00:14:13,901 --> 00:14:17,400
+before they hired anybody, they came because they knew
+
+235
+00:14:17,401 --> 00:14:23,600
+there was a chance of a job, just a rumor of a job.
+
+236
+00:14:23,601 --> 00:14:26,260
+Before any of today's social programs,
+
+237
+00:14:26,360 --> 00:14:29,840
+the only choice the unemployed had was to search out work,
+
+238
+00:14:29,940 --> 00:14:33,240
+wherever it might be.
+
+239
+00:14:33,340 --> 00:14:35,840
+Unfortunately, the dam was to be built in one of the most
+
+240
+00:14:35,940 --> 00:14:38,540
+inhospitable climates in the world,
+
+241
+00:14:38,640 --> 00:14:42,460
+where temperatures regularly reached 120 degrees,
+
+242
+00:14:42,560 --> 00:14:46,560
+and shelter simply didn't exist.
+
+243
+00:14:46,660 --> 00:14:49,260
+Desperate people brought their entire families.
+
+244
+00:14:49,360 --> 00:14:51,900
+They set up makeshift camps or lived in their cars
+
+245
+00:14:51,901 --> 00:14:52,900
+while waiting for work.
+
+246
+00:14:56,200 --> 00:14:58,600
+Unsanitary living conditions and heat
+
+247
+00:14:58,700 --> 00:15:01,640
+claimed several lives that first summer.
+
+248
+00:15:01,740 --> 00:15:04,040
+The government planned to build Boulder City,
+
+249
+00:15:04,140 --> 00:15:08,140
+an elaborate construction camp for its workers.
+
+250
+00:15:08,240 --> 00:15:11,460
+But it wouldn't be built for more than a year.
+
+251
+00:15:11,560 --> 00:15:17,200
+Problem was that the depression caught the government off guard.
+
+252
+00:15:17,300 --> 00:15:20,860
+They had hoped that they would be able to have the city built
+
+253
+00:15:20,861 --> 00:15:23,760
+and finished before people could move in,
+
+254
+00:15:23,860 --> 00:15:26,000
+and then they would start work on the dam.
+
+255
+00:15:26,100 --> 00:15:30,900
+But the stock market crashed, and people started moving in.
+
+256
+00:15:31,000 --> 00:15:35,200
+On January 10, 1931, the true scope of the project
+
+257
+00:15:35,300 --> 00:15:37,980
+became public knowledge.
+
+258
+00:15:38,080 --> 00:15:40,220
+The Bureau of Reclamation supplied plans
+
+259
+00:15:40,320 --> 00:15:42,380
+to any company interested in placing a bid
+
+260
+00:15:42,480 --> 00:15:45,320
+on the construction of the dam.
+
+261
+00:15:45,420 --> 00:15:48,220
+And it seemed everyone was interested in what was sure
+
+262
+00:15:48,221 --> 00:15:52,820
+to be the largest government contract ever awarded.
+
+263
+00:15:52,920 --> 00:15:56,720
+Blueprints detailed an immense structure.
+
+264
+00:15:56,820 --> 00:15:58,460
+The process of dam building called
+
+265
+00:15:58,560 --> 00:16:00,860
+for three enormous undertakings.
+
+266
+00:16:00,960 --> 00:16:04,580
+First, tremendous tunnels over 50 feet in diameter
+
+267
+00:16:04,680 --> 00:16:07,180
+were needed to divert the course of the river.
+
+268
+00:16:07,280 --> 00:16:10,980
+Then temporary cofferdams would be erected to provide a dry work
+
+269
+00:16:11,080 --> 00:16:12,380
+area.
+
+270
+00:16:12,480 --> 00:16:16,320
+And finally, 3 and 1 quarter million cubic yards of concrete
+
+271
+00:16:16,321 --> 00:16:19,280
+would be poured to build the dam itself.
+
+272
+00:16:19,281 --> 00:16:21,860
+The sheer size of the project intimidated even the most
+
+273
+00:16:21,861 --> 00:16:24,080
+confident contractors.
+
+274
+00:16:24,081 --> 00:16:26,080
+The challenge was monumental.
+
+275
+00:16:26,081 --> 00:16:28,660
+Build the world's largest dam in the middle of the desert
+
+276
+00:16:28,661 --> 00:16:30,620
+in less than seven years.
+
+277
+00:16:30,621 --> 00:16:32,920
+The government imposed deadline.
+
+278
+00:16:32,921 --> 00:16:35,660
+Back in the 30s, there was no one company that
+
+279
+00:16:35,661 --> 00:16:38,420
+could accomplish the building of the Hoover Dam.
+
+280
+00:16:38,421 --> 00:16:40,760
+It was such a massive project.
+
+281
+00:16:40,761 --> 00:16:43,480
+So six individual companies actually got together
+
+282
+00:16:43,481 --> 00:16:45,060
+and formed one entity.
+
+283
+00:16:45,061 --> 00:16:48,600
+And they called themselves Six Companies.
+
+284
+00:16:48,700 --> 00:16:50,900
+All of the firms that made up Six Companies
+
+285
+00:16:51,000 --> 00:16:53,200
+were familiar with big projects.
+
+286
+00:16:53,300 --> 00:16:56,800
+They had independently shaped the West, building railroads,
+
+287
+00:16:56,900 --> 00:17:02,120
+tunnels, bridges, and highways.
+
+288
+00:17:02,220 --> 00:17:05,220
+Between the six, perhaps they had enough experience
+
+289
+00:17:05,320 --> 00:17:09,420
+and resources to build a dam of such great magnitude.
+
+290
+00:17:09,520 --> 00:17:12,120
+But they needed someone who was respected in the field of dam
+
+291
+00:17:12,121 --> 00:17:14,860
+construction to oversee the project.
+
+292
+00:17:14,960 --> 00:17:19,120
+And they chose Frank Crow to be their foreman here,
+
+293
+00:17:19,220 --> 00:17:21,160
+the superintendent of the job.
+
+294
+00:17:21,260 --> 00:17:23,660
+And he was a hands-on foreman.
+
+295
+00:17:23,760 --> 00:17:28,460
+He didn't spend much time behind his desk.
+
+296
+00:17:28,560 --> 00:17:32,180
+Frank Crow was the most respected dam builder in America.
+
+297
+00:17:32,280 --> 00:17:36,680
+Born in 1882, he was a seasoned veteran with more than 20 years
+
+298
+00:17:36,780 --> 00:17:40,920
+of experience and had developed important time-saving and innovative
+
+299
+00:17:40,921 --> 00:17:45,920
+methods. With Crow on board, six companies
+
+300
+00:17:45,921 --> 00:17:48,920
+was ready to make a bid for the dam construction.
+
+301
+00:17:48,921 --> 00:17:54,920
+On March 4, 1931, the Bureau of Reclamation opened sealed bids.
+
+302
+00:17:54,921 --> 00:17:58,920
+Six companies' firm won the contract with the lowest bid
+
+303
+00:17:58,921 --> 00:18:05,920
+of $48,890,955.
+
+304
+00:18:05,921 --> 00:18:06,820
+Let it go!
+
+305
+00:18:06,821 --> 00:18:07,820
+Let it go!
+
+306
+00:18:07,821 --> 00:18:13,420
+Blasting began almost immediately.
+
+307
+00:18:13,421 --> 00:18:16,560
+Six companies had their work cut out for them.
+
+308
+00:18:16,561 --> 00:18:19,800
+Initially, even getting to the dam site was an obstacle.
+
+309
+00:18:19,801 --> 00:18:21,240
+As there were no roads from the rim
+
+310
+00:18:21,241 --> 00:18:24,680
+to the bottom of the canyon, men had to ride ferries
+
+311
+00:18:24,681 --> 00:18:26,840
+to the dam site.
+
+312
+00:18:26,841 --> 00:18:29,940
+Later, cableways were erected across the canyon
+
+313
+00:18:29,941 --> 00:18:33,920
+to get men and materials to the bottom.
+
+314
+00:18:33,921 --> 00:18:37,460
+The first monumental task was the diversion of the river
+
+315
+00:18:37,560 --> 00:18:40,920
+around the dam site. Engineers needed a dry work area
+
+316
+00:18:41,020 --> 00:18:45,460
+in which to set the dam. Four enormous tunnels
+
+317
+00:18:45,560 --> 00:18:47,160
+had to be drilled through the canyon walls
+
+318
+00:18:47,260 --> 00:18:51,580
+to circumvent the site. The tunnels would have to carry
+
+319
+00:18:51,680 --> 00:18:56,080
+the entire volume of the Colorado River.
+
+320
+00:18:56,180 --> 00:18:59,020
+To add to the pressure, the Bureau of Reclamation
+
+321
+00:18:59,120 --> 00:19:01,720
+initiated stiff fines for missed deadlines
+
+322
+00:19:01,721 --> 00:19:02,960
+at each stage of construction.
+
+323
+00:19:06,860 --> 00:19:10,860
+Workmen drilled blasting holes and loaded them with dynamite.
+
+324
+00:19:10,960 --> 00:19:13,800
+A special three-story truck holding drillers
+
+325
+00:19:13,900 --> 00:19:16,160
+at three different levels expedited the process.
+
+326
+00:19:21,280 --> 00:19:24,000
+An endless stream of trucks removed blasted rock
+
+327
+00:19:24,100 --> 00:19:27,440
+from the diversion tunnels and labored up the steep incline
+
+328
+00:19:27,540 --> 00:19:29,540
+for disposal.
+
+329
+00:19:29,541 --> 00:19:33,640
+Three shifts of men worked 24 hours a day, seven days a week,
+
+330
+00:19:33,641 --> 00:19:36,040
+to keep the tunnels on schedule.
+
+331
+00:19:36,041 --> 00:19:39,380
+Frank Crowe was responsible for keeping things moving.
+
+332
+00:19:39,381 --> 00:19:41,480
+And so it was hurry up, hurry up, hurry up.
+
+333
+00:19:41,481 --> 00:19:44,880
+And in fact, his nickname was Hurry Up Crowe.
+
+334
+00:19:44,881 --> 00:19:47,300
+We've got to get all this done.
+
+335
+00:19:47,301 --> 00:19:51,800
+He was really was a genius in his way.
+
+336
+00:19:51,801 --> 00:19:55,900
+The hectic pace of construction had its consequences.
+
+337
+00:19:55,901 --> 00:19:59,600
+Heat exhaustion cost 14 men their lives.
+
+338
+00:19:59,700 --> 00:20:01,600
+After the depression and the crash,
+
+339
+00:20:01,700 --> 00:20:03,800
+it was so difficult to get a job.
+
+340
+00:20:03,900 --> 00:20:06,840
+Companies like the six companies could easily afford
+
+341
+00:20:06,940 --> 00:20:10,240
+to cut a lot of corners in terms of safety and health
+
+342
+00:20:10,340 --> 00:20:12,960
+of their workers, in terms of pay, in terms of comfort,
+
+343
+00:20:13,060 --> 00:20:14,060
+and that kind of thing.
+
+344
+00:20:14,160 --> 00:20:15,160
+And they did.
+
+345
+00:20:15,260 --> 00:20:19,860
+Tensions came to a head in the scorching summer of 1931.
+
+346
+00:20:19,960 --> 00:20:23,960
+Striking workers demanded better working conditions, fresh water,
+
+347
+00:20:23,961 --> 00:20:26,800
+and improved safety precautions.
+
+348
+00:20:26,900 --> 00:20:30,900
+Six companies responded by firing 1,400 strikers
+
+349
+00:20:31,000 --> 00:20:33,100
+and hiring fresh workers readily available
+
+350
+00:20:33,200 --> 00:20:34,100
+because of the depression.
+
+351
+00:20:36,940 --> 00:20:40,920
+I came here in August in 1931, and I
+
+352
+00:20:41,020 --> 00:20:43,720
+worked as a truck driver down at the dam site.
+
+353
+00:20:43,820 --> 00:20:47,720
+I remember one stretch of 10 months without a day off,
+
+354
+00:20:47,820 --> 00:20:51,020
+and we were working seven days a week.
+
+355
+00:20:51,021 --> 00:20:53,920
+And the pay was, to me, was great.
+
+356
+00:20:54,020 --> 00:20:56,220
+It was $5 a day.
+
+357
+00:20:56,320 --> 00:20:58,620
+More than 5,000 men worked on the dam
+
+358
+00:20:58,720 --> 00:21:01,260
+at the height of construction.
+
+359
+00:21:01,360 --> 00:21:04,360
+Frank Crowe's hardworking team completed the diversion tunnels
+
+360
+00:21:04,460 --> 00:21:07,400
+months ahead of schedule.
+
+361
+00:21:07,500 --> 00:21:09,500
+After digging the diversion tunnels,
+
+362
+00:21:09,600 --> 00:21:12,400
+workers lined them with three feet of concrete.
+
+363
+00:21:12,500 --> 00:21:14,580
+Special forms of gigantic proportion
+
+364
+00:21:14,680 --> 00:21:18,240
+moved along the interior of the tunnels.
+
+365
+00:21:18,340 --> 00:21:21,020
+But the job had just begun, and the most spectacular
+
+366
+00:21:21,021 --> 00:21:23,020
+spectacular work was yet to come.
+
+367
+00:21:27,020 --> 00:21:30,860
+Roughly 100 workers lost their lives creating Hoover Dam.
+
+368
+00:21:30,861 --> 00:21:35,120
+Coincidentally, the first and last persons killed on sight,
+
+369
+00:21:35,121 --> 00:21:39,580
+J.G. Tierney and P.W. Tierney, were father and son.
+
+370
+00:21:39,581 --> 00:21:42,420
+The first tours were given in 1937.
+
+371
+00:21:42,421 --> 00:21:47,340
+As of 2005, it's estimated that more than 39 million people
+
+372
+00:21:47,341 --> 00:21:51,360
+have come all the way to Black Canyon to experience the dam.
+
+373
+00:21:51,361 --> 00:21:54,680
+They get a sense of the way to the city of Black Canyon
+
+374
+00:21:54,681 --> 00:21:56,820
+and to the city of Black Canyon.
+
+375
+00:21:56,821 --> 00:22:00,340
+And they're all the way to the city of Black Canyon.
+
+376
+00:22:00,341 --> 00:22:04,140
+And they're all the way to the city of Black Canyon
+
+377
+00:22:04,141 --> 00:22:06,680
+to experience the dam.
+
+378
+00:22:06,681 --> 00:22:10,680
+They get a sense of awe, the amount of effort that it took
+
+379
+00:22:10,780 --> 00:22:13,480
+to build such a massive structure.
+
+380
+00:22:13,580 --> 00:22:15,620
+Back in the 30s, they didn't have computers.
+
+381
+00:22:15,720 --> 00:22:18,820
+You know, they had a slide ruler, a pencil, and eraser.
+
+382
+00:22:18,920 --> 00:22:22,860
+There was just a huge amount of blood, sweat, and tears
+
+383
+00:22:22,960 --> 00:22:26,640
+literally put into the building of Uwe Dam.
+
+384
+00:22:26,740 --> 00:22:28,960
+Hanging on the parking structure
+
+385
+00:22:29,060 --> 00:22:32,600
+is a sculpture of a high scaler, one of the dam builders
+
+386
+00:22:32,700 --> 00:22:36,680
+who prepared the canyon walls for construction.
+
+387
+00:22:36,681 --> 00:22:39,440
+It pays tribute to the thousands of workers who came to this
+
+388
+00:22:39,540 --> 00:22:43,620
+rugged and desolate place to work on the dam.
+
+389
+00:22:43,720 --> 00:22:46,420
+A plaque on the pillar lists those who lost their lives
+
+390
+00:22:46,520 --> 00:22:51,420
+during the difficult and often dangerous construction.
+
+391
+00:22:51,520 --> 00:22:57,340
+No job was more precarious than that of the high scalers.
+
+392
+00:22:57,440 --> 00:23:00,380
+The jagged canyon walls required smoothing and shaping
+
+393
+00:23:00,480 --> 00:23:02,240
+for the abutting dam.
+
+394
+00:23:02,340 --> 00:23:04,380
+And thousands of cubic yards of rock
+
+395
+00:23:04,381 --> 00:23:07,720
+needed to be blasted from the sheer canyon faces.
+
+396
+00:23:07,820 --> 00:23:12,120
+In daring acrobatic displays, high scalers swung from ropes
+
+397
+00:23:12,220 --> 00:23:15,320
+to accomplish the bold feat.
+
+398
+00:23:15,420 --> 00:23:17,920
+The high scalers had to hang off the side of the canyon wall,
+
+399
+00:23:18,020 --> 00:23:21,060
+sitting in bosun's chairs, suspended by ropes.
+
+400
+00:23:21,160 --> 00:23:23,360
+They carried a 44-pound pneumatic drill.
+
+401
+00:23:23,460 --> 00:23:25,440
+They drilled holes into the canyon wall,
+
+402
+00:23:25,540 --> 00:23:27,900
+placed dynamite charges into those holes.
+
+403
+00:23:28,000 --> 00:23:30,200
+They then swung away as the dynamite exploded,
+
+404
+00:23:30,300 --> 00:23:32,140
+swung back to the original positions,
+
+405
+00:23:32,240 --> 00:23:33,840
+prying off the broken pieces of rock
+
+406
+00:23:33,841 --> 00:23:38,680
+with steel levers. When dam construction began,
+
+407
+00:23:38,681 --> 00:23:42,720
+government policy dictated that the high scalers and all employees
+
+408
+00:23:42,721 --> 00:23:46,720
+should be out of the squatter style camps and into more acceptable living conditions.
+
+409
+00:23:49,360 --> 00:23:54,000
+Six companies labored to provide housing for its workers as quickly as possible,
+
+410
+00:23:54,001 --> 00:23:57,440
+and built Boulder City, seven miles from the work site.
+
+411
+00:23:59,040 --> 00:24:03,840
+They built everything that a city should have. And the planning for Boulder City
+
+412
+00:24:03,841 --> 00:24:06,740
+it was decided that it would be a full community.
+
+413
+00:24:06,840 --> 00:24:08,480
+It would have a movie theater.
+
+414
+00:24:08,580 --> 00:24:09,980
+It would have entertainment.
+
+415
+00:24:10,080 --> 00:24:12,080
+It would have schools for the children.
+
+416
+00:24:12,180 --> 00:24:15,180
+It would have churches for people to go to.
+
+417
+00:24:15,280 --> 00:24:18,180
+Boulder City was normal in all senses,
+
+418
+00:24:18,280 --> 00:24:21,000
+except that it was a government reservation.
+
+419
+00:24:21,100 --> 00:24:23,600
+The Secretary of the Interior, Ray Wilbur,
+
+420
+00:24:23,700 --> 00:24:29,100
+appointed Sims Ely to manage the city of 7,000 residents.
+
+421
+00:24:29,200 --> 00:24:33,840
+A man who commanded respect, Sims Ely acted as general
+
+422
+00:24:33,841 --> 00:24:38,640
+Mayor and Chamber of Commerce. He decided who would be given
+
+423
+00:24:38,641 --> 00:24:43,040
+business licenses and what types of businesses they could have.
+
+424
+00:24:43,041 --> 00:24:46,080
+Unlike many others during the Depression, people in Boulder
+
+425
+00:24:46,081 --> 00:24:50,080
+City had some money to spend. But by choosing which businesses
+
+426
+00:24:50,081 --> 00:24:54,080
+were allowed in town, Simsie Lee determined for his workers how
+
+427
+00:24:54,081 --> 00:24:57,080
+to spend their money more responsibly.
+
+428
+00:24:57,081 --> 00:25:00,080
+Six companies paid their men partially in script.
+
+429
+00:25:00,081 --> 00:25:03,080
+This was money that was printed by six companies, and they could
+
+430
+00:25:03,081 --> 00:25:06,280
+and they could only spend it at the company's store
+
+431
+00:25:06,380 --> 00:25:08,280
+in Boulder City.
+
+432
+00:25:08,380 --> 00:25:11,280
+Boulder City was a company-controlled town.
+
+433
+00:25:11,380 --> 00:25:14,620
+As city manager, Sim Zeeley was also responsible for enforcing
+
+434
+00:25:14,720 --> 00:25:19,440
+the law and had federal marshals on site to help him do it.
+
+435
+00:25:19,540 --> 00:25:23,440
+Alcohol and gambling were not allowed within the city limits.
+
+436
+00:25:23,540 --> 00:25:27,540
+But in nearby Las Vegas, just about everything was.
+
+437
+00:25:27,541 --> 00:25:29,540
+to the price of the price.
+
+438
+00:25:32,540 --> 00:25:37,540
+Las Vegas offered an escape from the rigid rules of Boulder City.
+
+439
+00:25:37,541 --> 00:25:40,540
+Boulder fueled the commerce and growth of Las Vegas.
+
+440
+00:25:40,541 --> 00:25:43,540
+And like the international attraction it is today,
+
+441
+00:25:43,541 --> 00:25:47,540
+Las Vegas accepted all varieties of currency.
+
+442
+00:25:47,541 --> 00:25:50,540
+The workers would go down to Las Vegas onto Block 16,
+
+443
+00:25:50,541 --> 00:25:52,540
+which is the red light district, and they would drink,
+
+444
+00:25:52,541 --> 00:25:55,540
+and they would gamble, and they would get serviced
+
+445
+00:25:55,541 --> 00:25:59,240
+along Block 16, and they would pay for it with the script.
+
+446
+00:25:59,340 --> 00:26:01,940
+Then the prostitutes take the script they earned
+
+447
+00:26:02,040 --> 00:26:06,280
+and come back up to Boulder City with it and go shopping.
+
+448
+00:26:06,380 --> 00:26:08,980
+Boulder City's location, only 30 miles
+
+449
+00:26:09,080 --> 00:26:11,780
+from rowdy Las Vegas, emphasized the fact
+
+450
+00:26:11,880 --> 00:26:13,800
+that it was a haven.
+
+451
+00:26:13,900 --> 00:26:16,200
+There was very little crime in Boulder City,
+
+452
+00:26:16,300 --> 00:26:19,900
+and to many it was a paradise, a sanctuary, safer
+
+453
+00:26:20,000 --> 00:26:22,700
+from the evils of the outside world.
+
+454
+00:26:22,800 --> 00:26:24,200
+It was a mild town.
+
+455
+00:26:24,201 --> 00:26:26,000
+It was perfect.
+
+456
+00:26:26,100 --> 00:26:27,840
+It was meant to be perfect.
+
+457
+00:26:27,940 --> 00:26:31,340
+You couldn't have any kind of alcohol.
+
+458
+00:26:31,440 --> 00:26:33,740
+You better not.
+
+459
+00:26:33,840 --> 00:26:38,340
+Boulder City offered security, shelter, and a full belly.
+
+460
+00:26:38,440 --> 00:26:41,560
+The food was good, and there was plenty of it.
+
+461
+00:26:41,660 --> 00:26:44,560
+When others were starving, workers in Boulder City
+
+462
+00:26:44,660 --> 00:26:48,460
+feasted on three square meals a day.
+
+463
+00:26:48,560 --> 00:26:51,960
+The Anderson Brothers mess hall served as many as 1,300 men
+
+464
+00:26:52,060 --> 00:26:53,960
+per seating.
+
+465
+00:26:53,961 --> 00:26:58,260
+and prepared as many as 6,000 meals a day.
+
+466
+00:26:58,360 --> 00:27:01,000
+Boulder City was more than a construction camp.
+
+467
+00:27:01,100 --> 00:27:04,440
+It was a place where people could get a new start.
+
+468
+00:27:04,540 --> 00:27:08,180
+But Boulder City wasn't for everyone.
+
+469
+00:27:08,280 --> 00:27:10,240
+It was supposed to be a perfect town,
+
+470
+00:27:10,340 --> 00:27:13,140
+but the segregation was tremendous too.
+
+471
+00:27:13,240 --> 00:27:16,520
+They had one black crew that worked on the dam.
+
+472
+00:27:16,620 --> 00:27:18,660
+There was about 14 or 15 members.
+
+473
+00:27:18,760 --> 00:27:21,720
+They could not even live in Boulder City.
+
+474
+00:27:23,960 --> 00:27:27,360
+Fewer than 1% of DAM employees were African-American,
+
+475
+00:27:27,361 --> 00:27:31,860
+and they were signed the least desirable positions.
+
+476
+00:27:31,861 --> 00:27:35,200
+The new Secretary of the Interior, Harold Dickies,
+
+477
+00:27:35,201 --> 00:27:37,840
+hoped to alter the situation.
+
+478
+00:27:37,841 --> 00:27:40,800
+But he didn't have authority to change six companies' hiring
+
+479
+00:27:40,801 --> 00:27:42,220
+practices.
+
+480
+00:27:42,221 --> 00:27:46,480
+He did, however, have authority in Boulder City.
+
+481
+00:27:46,481 --> 00:27:50,980
+He announced in 1933 that the few African-American employees
+
+482
+00:27:50,981 --> 00:27:52,460
+could live there.
+
+483
+00:27:52,461 --> 00:27:55,260
+it was a minor victory for those who found discrimination
+
+484
+00:27:55,261 --> 00:27:56,160
+a way of life.
+
+485
+00:28:01,260 --> 00:28:04,060
+For all the men, Hoover Dam offered work
+
+486
+00:28:04,061 --> 00:28:07,260
+during the crushing Great Depression.
+
+487
+00:28:07,261 --> 00:28:11,400
+Once the dam began to rise from the bottom of Black Canyon,
+
+488
+00:28:11,401 --> 00:28:13,560
+those men would see they were part of something
+
+489
+00:28:13,561 --> 00:28:17,400
+growing to historic proportions, something
+
+490
+00:28:17,401 --> 00:28:20,260
+that would demand the development of new technologies
+
+491
+00:28:20,261 --> 00:28:24,760
+before it could be completed.
+
+492
+00:28:24,761 --> 00:28:27,460
+Herbert Hoover, champion and namesake of the dam,
+
+493
+00:28:27,461 --> 00:28:32,200
+only visited it once during construction in 1932.
+
+494
+00:28:46,160 --> 00:28:48,560
+More than once over the years, Hoover Dam
+
+495
+00:28:48,561 --> 00:28:52,560
+something of an identity crisis.
+
+496
+00:28:52,660 --> 00:28:55,400
+It was originally referred to as Boulder Dam,
+
+497
+00:28:55,500 --> 00:28:57,300
+even though it ended up being built in black
+
+498
+00:28:57,400 --> 00:29:00,000
+instead of Boulder Canyon.
+
+499
+00:29:00,100 --> 00:29:03,500
+Construction began during Herbert Hoover's administration,
+
+500
+00:29:03,600 --> 00:29:06,520
+and it became Hoover Dam.
+
+501
+00:29:06,620 --> 00:29:09,120
+Herbert Hoover was very instrumental in getting
+
+502
+00:29:09,220 --> 00:29:12,120
+this Black Canyon Project Act put through Congress
+
+503
+00:29:12,220 --> 00:29:13,920
+so the dam could get built.
+
+504
+00:29:14,020 --> 00:29:16,320
+But what happened was when the Roosevelt administration
+
+505
+00:29:16,321 --> 00:29:20,060
+came into play, they didn't really care for Hubert Hoover,
+
+506
+00:29:20,160 --> 00:29:22,460
+and they didn't like calling it Hoover Dam.
+
+507
+00:29:22,560 --> 00:29:26,560
+So they made a statement calling it Boulder Dam.
+
+508
+00:29:26,660 --> 00:29:29,460
+Even to this day, I'll have people come up to me and ask,
+
+509
+00:29:29,560 --> 00:29:31,360
+where's Boulder Dam?
+
+510
+00:29:31,460 --> 00:29:34,780
+It wouldn't be until 1947 that an act of Congress
+
+511
+00:29:34,880 --> 00:29:38,680
+made Hoover Dam the official name.
+
+512
+00:29:38,780 --> 00:29:41,680
+But fortunately, the great name debate didn't impede progress
+
+513
+00:29:41,780 --> 00:29:43,480
+on the dam.
+
+514
+00:29:43,481 --> 00:29:47,720
+On November 14, 1932, water began flowing through the great
+
+515
+00:29:47,820 --> 00:29:50,320
+diversion tunnels.
+
+516
+00:29:50,420 --> 00:29:53,020
+Men successfully forced the entire Colorado River
+
+517
+00:29:53,120 --> 00:29:56,520
+from its ancient pen.
+
+518
+00:29:56,620 --> 00:30:00,240
+Then the two temporary dams, called coffer dams,
+
+519
+00:30:00,340 --> 00:30:03,040
+were erected to provide the dry work area.
+
+520
+00:30:03,140 --> 00:30:05,040
+The coffer dams are both earthen.
+
+521
+00:30:05,140 --> 00:30:07,540
+The one that is upriver is actually a larger one.
+
+522
+00:30:07,640 --> 00:30:09,440
+It was one of the larger dams in the world
+
+523
+00:30:09,540 --> 00:30:12,480
+when it was constructed almost 100 feet high,
+
+524
+00:30:12,481 --> 00:30:14,020
+but 700 feet thick.
+
+525
+00:30:14,120 --> 00:30:16,520
+It's actually thicker than the Hoover Dam is.
+
+526
+00:30:16,620 --> 00:30:18,820
+Lower Cofford Dam needed to be, of course, much smaller
+
+527
+00:30:18,920 --> 00:30:20,820
+because all it was doing was allowing water not
+
+528
+00:30:20,920 --> 00:30:22,420
+to back up on the workers.
+
+529
+00:30:22,520 --> 00:30:24,920
+Water was then pumped from between the dams
+
+530
+00:30:25,020 --> 00:30:27,620
+and excavation began.
+
+531
+00:30:27,720 --> 00:30:29,740
+Excavation was a monumental undertaking.
+
+532
+00:30:32,640 --> 00:30:34,940
+More than 40 feet of rock, sand, and silt
+
+533
+00:30:35,040 --> 00:30:39,280
+had to be removed from the now dry riverbank.
+
+534
+00:30:39,281 --> 00:30:42,680
+Steam shovels dredged a half million cubic yards of material
+
+535
+00:30:42,780 --> 00:30:45,920
+in preparation for pouring concrete.
+
+536
+00:30:46,020 --> 00:30:50,460
+And on June 6, 1933, the first bucket of concrete poured
+
+537
+00:30:50,560 --> 00:30:52,560
+into the form at the bottom of the canyon.
+
+538
+00:30:56,040 --> 00:30:57,860
+Producing enough concrete for the dam
+
+539
+00:30:57,960 --> 00:30:59,900
+was a problem in itself.
+
+540
+00:31:00,000 --> 00:31:03,940
+Hoover Dam required nearly as much concrete as all previous
+
+541
+00:31:04,040 --> 00:31:05,840
+Bureau of Reclamation dams combined.
+
+542
+00:31:09,280 --> 00:31:12,120
+A nearby riverbed provided the gravel.
+
+543
+00:31:12,220 --> 00:31:14,680
+Men loaded material into train cars
+
+544
+00:31:14,780 --> 00:31:16,980
+and transported it to the separating plant,
+
+545
+00:31:17,080 --> 00:31:20,320
+where it was divided by size.
+
+546
+00:31:20,420 --> 00:31:23,020
+Trains then hauled gravel to the two mixing facilities
+
+547
+00:31:23,120 --> 00:31:25,320
+built to produce the tremendous amount of concrete.
+
+548
+00:31:28,740 --> 00:31:31,800
+Night and day, concrete left the mixing plant,
+
+549
+00:31:31,900 --> 00:31:35,400
+truckload after truckload, bucket after bucket,
+
+550
+00:31:35,500 --> 00:31:37,040
+for placement in the dam forms.
+
+551
+00:31:39,280 --> 00:31:41,920
+It's not one monolithic piece.
+
+552
+00:31:42,020 --> 00:31:43,920
+It's poured more like a kid's LEGO toy
+
+553
+00:31:44,020 --> 00:31:45,920
+is locked together like that.
+
+554
+00:31:46,020 --> 00:31:48,220
+And they poured grout in between those.
+
+555
+00:31:48,320 --> 00:31:50,420
+So they poured it in individual blocks.
+
+556
+00:31:54,520 --> 00:31:58,540
+The dam was built up in forms from 25 to 60 feet square
+
+557
+00:31:58,640 --> 00:32:01,540
+and 5 feet deep.
+
+558
+00:32:01,640 --> 00:32:04,380
+If they had poured it as one massive block,
+
+559
+00:32:04,480 --> 00:32:06,980
+not only would it be inclined to crack,
+
+560
+00:32:06,981 --> 00:32:12,380
+But it would take over 125 years to completely harden.
+
+561
+00:32:12,480 --> 00:32:14,620
+The chemical reaction of hardening concrete
+
+562
+00:32:14,720 --> 00:32:16,620
+also produces heat.
+
+563
+00:32:16,720 --> 00:32:20,220
+Too much heat would cause the huge concrete blocks to crack,
+
+564
+00:32:20,320 --> 00:32:23,220
+so steel pipes were inserted into the wet concrete,
+
+565
+00:32:23,320 --> 00:32:26,240
+and cold water pumped through them to reduce cracking.
+
+566
+00:32:28,300 --> 00:32:32,000
+A project of this magnitude and such strict deadlines
+
+567
+00:32:32,100 --> 00:32:35,680
+required many innovative construction techniques.
+
+568
+00:32:35,681 --> 00:32:38,580
+Frank Crow pioneered the extensive use of cableways
+
+569
+00:32:38,680 --> 00:32:42,180
+on earlier projects, but never before had cableways
+
+570
+00:32:42,280 --> 00:32:45,820
+been used so efficiently.
+
+571
+00:32:45,920 --> 00:32:49,320
+From 1 8th of a mile above, cableway operators
+
+572
+00:32:49,420 --> 00:32:53,540
+choreographed a ballet of man and machine.
+
+573
+00:32:53,640 --> 00:32:58,040
+Train cars transported concrete buckets from the mixing plant.
+
+574
+00:32:58,140 --> 00:33:01,380
+Cableway operators lifted the 22-ton buckets and sent them
+
+575
+00:33:01,480 --> 00:33:05,680
+gliding to the appropriate form.
+
+576
+00:33:05,681 --> 00:33:09,180
+There, men released the safety locks,
+
+577
+00:33:09,181 --> 00:33:13,920
+and 16 tons of concrete poured into the form.
+
+578
+00:33:13,921 --> 00:33:18,220
+Activity progressed 24 hours a day, seven days a week,
+
+579
+00:33:18,221 --> 00:33:22,920
+as workers poured up to 1,100 buckets of concrete per day.
+
+580
+00:33:22,921 --> 00:33:26,340
+This kind of dangerous work led to another innovation
+
+581
+00:33:26,341 --> 00:33:27,940
+at the dam site.
+
+582
+00:33:27,941 --> 00:33:31,180
+We believe that this is where the hard hat was invented,
+
+583
+00:33:31,181 --> 00:33:34,180
+that everybody was able to get the dams.
+
+584
+00:33:34,181 --> 00:33:37,640
+was invented that everybody uses nowadays.
+
+585
+00:33:37,641 --> 00:33:40,380
+The construction workers had been faced with debris
+
+586
+00:33:40,381 --> 00:33:44,080
+falling on them from above, and they realized
+
+587
+00:33:44,081 --> 00:33:46,540
+that they were going to have to do something.
+
+588
+00:33:46,541 --> 00:33:51,240
+And so what they did was they put two baseball caps together
+
+589
+00:33:51,241 --> 00:33:55,420
+like this with the bill going this way and this way.
+
+590
+00:33:55,421 --> 00:33:59,080
+And then they dipped it in tar and let it harden
+
+591
+00:33:59,081 --> 00:34:01,480
+and dipped it in tar and let it harden.
+
+592
+00:34:01,481 --> 00:34:03,140
+And these were all homemade hats.
+
+593
+00:34:03,141 --> 00:34:06,280
+This company didn't have anything to do with this.
+
+594
+00:34:06,281 --> 00:34:10,440
+But when several men wearing these so-called hard-boil hats
+
+595
+00:34:10,441 --> 00:34:13,620
+were saved from falling debris, six companies purchased
+
+596
+00:34:13,621 --> 00:34:17,020
+thousands of them for their employees.
+
+597
+00:34:17,021 --> 00:34:20,220
+As the dam grew taller, so did the tail surrounding
+
+598
+00:34:20,221 --> 00:34:21,660
+the project.
+
+599
+00:34:21,661 --> 00:34:25,420
+Despite rumors, no one is buried in the concrete.
+
+600
+00:34:25,421 --> 00:34:28,340
+A decomposing body would have threatened the integrity
+
+601
+00:34:28,341 --> 00:34:29,340
+of the dam.
+
+602
+00:34:29,341 --> 00:34:32,700
+Besides, an average pour only increased the concrete's depth
+
+603
+00:34:32,701 --> 00:34:37,200
+inches. While the concrete was being poured,
+
+604
+00:34:37,300 --> 00:34:39,240
+there were several ancillary projects happening
+
+605
+00:34:39,340 --> 00:34:44,040
+simultaneously. The four steel-reinforced
+
+606
+00:34:44,140 --> 00:34:48,740
+concrete water intake towers were built behind the dam.
+
+607
+00:34:48,840 --> 00:34:52,160
+Mounted nearly halfway up the sides of the canyon, the towers
+
+608
+00:34:52,260 --> 00:34:56,260
+only had to be 395 feet tall.
+
+609
+00:34:56,360 --> 00:35:00,060
+Manufacturing the giant steel penstocks needed to feed water
+
+610
+00:35:00,061 --> 00:35:02,860
+from the intake towers to the turbines,
+
+611
+00:35:02,960 --> 00:35:06,860
+tested the resources of the day.
+
+612
+00:35:06,960 --> 00:35:10,200
+The 30-foot diameter pipes were too large to ship,
+
+613
+00:35:10,300 --> 00:35:12,700
+so an entire fabrication facility was erected
+
+614
+00:35:12,800 --> 00:35:15,800
+close to the dam.
+
+615
+00:35:15,900 --> 00:35:19,520
+Giant presses rolled 2 and 3-quarter inch steel plates
+
+616
+00:35:19,620 --> 00:35:25,020
+into 11-foot pipe sections, weighing 80 tons each.
+
+617
+00:35:25,120 --> 00:35:30,060
+Two pieces combined to make one colossal section 22 feet long.
+
+618
+00:35:30,061 --> 00:35:34,060
+Tractors moved the enormous sections to the canyon rim,
+
+619
+00:35:34,160 --> 00:35:36,700
+where the largest cableway floated them
+
+620
+00:35:36,800 --> 00:35:39,000
+to the base of the dam.
+
+621
+00:35:39,100 --> 00:35:41,300
+Each section was joined to other sections,
+
+622
+00:35:41,400 --> 00:35:43,900
+forming over one mile of welded pipe.
+
+623
+00:35:46,000 --> 00:35:49,120
+On each side of the dam, engineers designed a spillway
+
+624
+00:35:49,220 --> 00:35:51,820
+to protect it in times of great flooding.
+
+625
+00:35:51,920 --> 00:35:53,320
+If the water ever got high enough,
+
+626
+00:35:53,420 --> 00:35:56,120
+or it would endanger the dam by going over the top of the dam,
+
+627
+00:35:56,220 --> 00:35:58,120
+which would destroy the power plant below,
+
+628
+00:35:58,121 --> 00:36:00,660
+water actually goes over the sides,
+
+629
+00:36:00,760 --> 00:36:03,760
+and it goes down through large 50-foot diameter tubes
+
+630
+00:36:03,860 --> 00:36:06,060
+that push the water around the side of the project.
+
+631
+00:36:06,160 --> 00:36:09,560
+And those have been used twice in history, once in 1941
+
+632
+00:36:09,660 --> 00:36:12,060
+and again in 1983.
+
+633
+00:36:12,160 --> 00:36:14,780
+That year, water flowed over the spillways
+
+634
+00:36:14,880 --> 00:36:18,680
+at 52,000 cubic feet per second.
+
+635
+00:36:18,780 --> 00:36:22,520
+Despite the record water flow, the spillways performed just
+
+636
+00:36:22,620 --> 00:36:26,280
+as their designers had intended and helped minimize flooding
+
+637
+00:36:26,281 --> 00:36:32,280
+flooding downriver. When the spillways were constructed,
+
+638
+00:36:32,281 --> 00:36:35,620
+the dam was one step closer to completion.
+
+639
+00:36:35,621 --> 00:36:39,020
+But there was a lot at risk, and only one way to test the
+
+640
+00:36:39,021 --> 00:36:42,520
+structure, fill Lake Mead and see if the dam would be able to
+
+641
+00:36:42,521 --> 00:36:46,040
+hold back the pressure exerted by trillions of gallons of
+
+642
+00:36:46,041 --> 00:36:51,980
+water. From 1939 to 1949, Hoover Dam's
+
+643
+00:36:51,981 --> 00:36:54,840
+power plant was the world's largest hydroelectric
+
+644
+00:36:54,841 --> 00:36:59,240
+installation, it is still one of America's biggest facilities.
+
+645
+00:37:11,900 --> 00:37:14,900
+When Hoover Dam was finished in 1935,
+
+646
+00:37:14,901 --> 00:37:18,800
+it was the biggest dam in the world, which under Frank Crowe's
+
+647
+00:37:18,801 --> 00:37:22,200
+leadership was completed faster and for less money than initially
+
+648
+00:37:22,201 --> 00:37:23,900
+planned.
+
+649
+00:37:23,901 --> 00:37:27,600
+to accomplish what Frank Crow did two years ahead of schedule
+
+650
+00:37:27,700 --> 00:37:29,500
+and under budget.
+
+651
+00:37:29,600 --> 00:37:31,640
+Had to be a tremendous individual,
+
+652
+00:37:31,740 --> 00:37:34,440
+maybe not loved by everybody, but certainly
+
+653
+00:37:34,540 --> 00:37:38,340
+he set out to build the dam, and he accomplished that.
+
+654
+00:37:38,440 --> 00:37:42,060
+Over 21,000 workers had labored on the massive project.
+
+655
+00:37:42,160 --> 00:37:44,860
+For them, the end product became more than just a combination
+
+656
+00:37:44,960 --> 00:37:47,160
+of sweat and concrete.
+
+657
+00:37:47,260 --> 00:37:49,860
+At the time we completed it, I just
+
+658
+00:37:49,960 --> 00:37:52,400
+felt that I had been a part of something
+
+659
+00:37:52,401 --> 00:37:54,240
+that was just tremendous.
+
+660
+00:37:54,340 --> 00:37:58,540
+On September 30, 1935, President Franklin Delano
+
+661
+00:37:58,640 --> 00:38:01,840
+Roosevelt came to dedicate the dam that so many had worked so
+
+662
+00:38:01,940 --> 00:38:04,740
+hard to complete.
+
+663
+00:38:04,840 --> 00:38:07,040
+Four months before Roosevelt's dedication,
+
+664
+00:38:07,140 --> 00:38:10,260
+Lake Mead began filling.
+
+665
+00:38:10,360 --> 00:38:13,660
+It took six years to reach maximum capacity,
+
+666
+00:38:13,760 --> 00:38:15,960
+and the mighty structure successfully held back
+
+667
+00:38:16,060 --> 00:38:17,560
+trillions of gallons of water.
+
+668
+00:38:17,561 --> 00:38:22,560
+There was no shortage of pride in what was accomplished
+
+669
+00:38:22,660 --> 00:38:24,300
+in Black Canyon.
+
+670
+00:38:24,400 --> 00:38:29,100
+And in 1938, sculptor Oscar J.W. Hanson
+
+671
+00:38:29,200 --> 00:38:31,600
+completed a memorial next to the dam,
+
+672
+00:38:31,700 --> 00:38:34,520
+featuring two statues called the Winged Figures
+
+673
+00:38:34,620 --> 00:38:36,120
+of the Republic.
+
+674
+00:38:36,220 --> 00:38:39,020
+He wanted to make a statement about the workers
+
+675
+00:38:39,120 --> 00:38:40,220
+on the project.
+
+676
+00:38:40,320 --> 00:38:42,660
+And that statement was built by man, the Hoover Dam,
+
+677
+00:38:42,760 --> 00:38:44,420
+but not the average man.
+
+678
+00:38:44,520 --> 00:38:45,960
+They're 30 feet tall.
+
+679
+00:38:45,961 --> 00:38:48,860
+They weigh 4 1⁄2 tons of statuary bronze.
+
+680
+00:38:48,960 --> 00:38:50,960
+And you notice they've aged to a lovely green color,
+
+681
+00:38:51,060 --> 00:38:52,460
+except for the toes.
+
+682
+00:38:52,560 --> 00:38:54,460
+It is considered good luck in Hoover Dam folklore
+
+683
+00:38:54,560 --> 00:38:57,300
+to rub the toes.
+
+684
+00:38:57,400 --> 00:38:59,300
+Inlaid on the floor around the statues
+
+685
+00:38:59,400 --> 00:39:02,720
+are 209 disks of various sizes.
+
+686
+00:39:02,820 --> 00:39:05,220
+They indicate the positions of the brightest stars
+
+687
+00:39:05,320 --> 00:39:08,720
+and planets that were visible from this exact location
+
+688
+00:39:08,820 --> 00:39:13,720
+at 8.56 PM on the 30th of September, 1935,
+
+689
+00:39:13,721 --> 00:39:16,520
+the day of President Roosevelt's dedication.
+
+690
+00:39:16,620 --> 00:39:19,220
+And the goal of the sculptor, Oscar J.W. Hansen,
+
+691
+00:39:19,320 --> 00:39:22,020
+was to go ahead and provide something to what he called
+
+692
+00:39:22,120 --> 00:39:23,460
+future visitors.
+
+693
+00:39:23,560 --> 00:39:25,660
+And his thinking was that we, as human beings,
+
+694
+00:39:25,760 --> 00:39:27,060
+may not be here.
+
+695
+00:39:27,160 --> 00:39:29,500
+He assumed that those future visitors would be able to read
+
+696
+00:39:29,600 --> 00:39:32,140
+a star chart, and they could tell the position of the stars
+
+697
+00:39:32,240 --> 00:39:35,380
+when they come to visit versus where they were in 1935,
+
+698
+00:39:35,480 --> 00:39:37,580
+and be able to estimate how long ago the construction
+
+699
+00:39:37,680 --> 00:39:39,820
+was finished.
+
+700
+00:39:39,920 --> 00:39:42,080
+When construction ended, most men
+
+701
+00:39:42,081 --> 00:39:44,540
+Most men left to work on other dams,
+
+702
+00:39:44,640 --> 00:39:46,880
+but many stayed to work on the powerhouse
+
+703
+00:39:46,980 --> 00:39:49,180
+and finishing touches.
+
+704
+00:39:49,280 --> 00:39:51,420
+Unlike other construction camps,
+
+705
+00:39:51,520 --> 00:39:53,520
+Boulder City didn't dry up.
+
+706
+00:39:53,620 --> 00:39:59,000
+It remained a reservation until 1959, when it incorporated.
+
+707
+00:39:59,100 --> 00:40:04,040
+While alcohol was finally offered for sale in 1969,
+
+708
+00:40:04,140 --> 00:40:07,480
+Boulder City remains the only city in Nevada that doesn't
+
+709
+00:40:07,580 --> 00:40:08,340
+allow gambling.
+
+710
+00:40:12,080 --> 00:40:15,680
+Hoover Dam quickly became an indispensable component
+
+711
+00:40:15,780 --> 00:40:19,160
+of the successful development of America's southwest
+
+712
+00:40:19,260 --> 00:40:22,860
+that had to be protected.
+
+713
+00:40:22,960 --> 00:40:24,900
+On a hill above the dam are the remains
+
+714
+00:40:25,000 --> 00:40:29,300
+of one of the gun emplacements built during World War II.
+
+715
+00:40:29,400 --> 00:40:31,940
+As a supplier of power to defense plants,
+
+716
+00:40:32,040 --> 00:40:35,800
+the dam was considered a primary military target.
+
+717
+00:40:35,900 --> 00:40:40,400
+Since September 11, 2001, new and not to be disclosed
+
+718
+00:40:40,401 --> 00:40:44,240
+security measures have been instituted in and around the dam.
+
+719
+00:40:48,640 --> 00:40:50,960
+The structure itself has been remarkably steadfast
+
+720
+00:40:50,961 --> 00:40:53,760
+since it was built. Over the decades,
+
+721
+00:40:53,761 --> 00:40:56,400
+inspectors have walked the interior tunnels
+
+722
+00:40:56,401 --> 00:40:59,200
+and marked even the slightest crack in the concrete,
+
+723
+00:40:59,201 --> 00:41:00,800
+but none has proved significant.
+
+724
+00:41:04,640 --> 00:41:07,640
+Large doors similar to those inside submarines
+
+725
+00:41:07,641 --> 00:41:09,600
+were put in place to protect the power plant
+
+726
+00:41:09,601 --> 00:41:14,100
+from a possible flood should one of the huge water pipes rupture.
+
+727
+00:41:14,101 --> 00:41:17,100
+They have never been needed.
+
+728
+00:41:17,101 --> 00:41:19,100
+One of the upgrades in safety technology
+
+729
+00:41:19,101 --> 00:41:21,840
+is to add some additional earthquake sensors.
+
+730
+00:41:21,841 --> 00:41:24,100
+We've experienced over 20,000 earthquakes here
+
+731
+00:41:24,101 --> 00:41:27,100
+at the dam and the power plants, the highest being a 5.6
+
+732
+00:41:27,101 --> 00:41:30,600
+on the Richter scale, with no damage to the dam, power plant,
+
+733
+00:41:30,601 --> 00:41:32,400
+or any piping so far.
+
+734
+00:41:32,401 --> 00:41:35,600
+People estimate that the dam is able to withstand an 8.6
+
+735
+00:41:35,601 --> 00:41:38,100
+on the Richter scale.
+
+736
+00:41:38,101 --> 00:41:39,860
+While the concrete structure of the dam
+
+737
+00:41:39,861 --> 00:41:42,100
+has remained virtually unchanged,
+
+738
+00:41:42,101 --> 00:41:43,800
+the moving parts in the power plant
+
+739
+00:41:43,801 --> 00:41:46,980
+have required maintenance and upgrades.
+
+740
+00:41:46,981 --> 00:41:49,640
+Original turbine runners we had here were cast iron.
+
+741
+00:41:49,641 --> 00:41:52,820
+They've got a life of approximately 40 to 50 years.
+
+742
+00:41:52,821 --> 00:41:55,860
+So beginning in the mid-'80s, 50 year into the life
+
+743
+00:41:55,861 --> 00:41:57,620
+of the project, they were replaced
+
+744
+00:41:57,621 --> 00:41:59,120
+with the stainless steel runners.
+
+745
+00:41:59,121 --> 00:42:02,120
+Up above the generator, where all the electricity was produced,
+
+746
+00:42:02,121 --> 00:42:04,500
+back at the same time in the mid-'80s,
+
+747
+00:42:04,501 --> 00:42:06,400
+we took the old generator, which again,
+
+748
+00:42:06,401 --> 00:42:09,900
+Then after 30, 40 years, insulation wears out,
+
+749
+00:42:10,000 --> 00:42:11,240
+breaks down.
+
+750
+00:42:11,340 --> 00:42:13,200
+We did a complete overhaul of generators
+
+751
+00:42:13,300 --> 00:42:16,780
+to then produce new outputs from about 87 megawatts
+
+752
+00:42:16,880 --> 00:42:17,780
+up to 130.
+
+753
+00:42:17,880 --> 00:42:19,820
+So we got quite a bit more power out of the same
+
+754
+00:42:19,920 --> 00:42:21,020
+by just upgrading the unit.
+
+755
+00:42:24,160 --> 00:42:27,860
+Water continues to be the dam's most precious commodity.
+
+756
+00:42:27,960 --> 00:42:30,860
+And the US is not the only beneficiary.
+
+757
+00:42:30,960 --> 00:42:36,400
+Mexico receives 1.5 million acre feet of water a year.
+
+758
+00:42:36,401 --> 00:42:39,040
+While Hoover Dam does supply much needed water,
+
+759
+00:42:39,140 --> 00:42:42,600
+like all dams, it blocks the natural flow of a river
+
+760
+00:42:42,700 --> 00:42:45,740
+and has an impact on plants and animals.
+
+761
+00:42:45,840 --> 00:42:48,140
+More fish live here than ever could before.
+
+762
+00:42:48,240 --> 00:42:51,440
+More animals, mountain sheep, birds, mountain lions,
+
+763
+00:42:51,540 --> 00:42:54,560
+because the one scarce element, the one thing that was missing
+
+764
+00:42:54,660 --> 00:42:56,760
+from this environment, water.
+
+765
+00:42:56,860 --> 00:42:58,560
+But altering the natural habitat
+
+766
+00:42:58,660 --> 00:43:01,060
+has also led to the absence of many species
+
+767
+00:43:01,160 --> 00:43:03,460
+within the Colorado River.
+
+768
+00:43:03,560 --> 00:43:06,400
+Some native fish have found reproduction more
+
+769
+00:43:06,401 --> 00:43:08,200
+in the colder waters of Lake Mead.
+
+770
+00:43:11,600 --> 00:43:13,200
+The engineers that designed Hoover Dam
+
+771
+00:43:13,300 --> 00:43:14,800
+could not have foreseen all the ways
+
+772
+00:43:14,900 --> 00:43:16,700
+the completed project would affect people
+
+773
+00:43:16,800 --> 00:43:17,540
+and the environment.
+
+774
+00:43:21,340 --> 00:43:23,360
+But judged by its original goals,
+
+775
+00:43:23,460 --> 00:43:26,260
+Hoover Dam is a tremendous success story.
+
+776
+00:43:26,360 --> 00:43:28,960
+From the close-knit community of Boulder City
+
+777
+00:43:29,060 --> 00:43:33,200
+to bountiful harvests in once barren landscapes,
+
+778
+00:43:33,300 --> 00:43:36,160
+Hoover Dam has changed the course of a river
+
+779
+00:43:36,161 --> 00:43:39,100
+and the course of people's lives.
+
+780
+00:43:39,101 --> 00:43:43,400
+Here we are, almost 70 years after the dam was completed.
+
+781
+00:43:43,401 --> 00:43:46,700
+The dam has never missed one single day of providing water
+
+782
+00:43:46,701 --> 00:43:48,800
+or electricity to its customers.
+
+783
+00:43:48,801 --> 00:43:52,400
+And some say we'll still be here serving the public 2,000 years
+
+784
+00:43:52,401 --> 00:43:54,420
+from today.
+
+785
+00:43:54,421 --> 00:43:58,420
+I think it symbolizes what the American people were about
+
+786
+00:43:58,421 --> 00:44:01,220
+in that particular time in our history.
+
+787
+00:44:01,221 --> 00:44:03,420
+We were moving to new frontiers.
+
+788
+00:44:03,421 --> 00:44:04,920
+We were settling the West.
+
+789
+00:44:04,921 --> 00:44:07,120
+We were building a nation.
+
+790
+00:44:07,220 --> 00:44:08,860
+We were building a life.
+
+791
+00:44:08,960 --> 00:44:13,760
+And the attitude was, we can do this.
+
+792
+00:44:13,860 --> 00:44:16,660
+The men who built Hoover Dam had not only
+
+793
+00:44:16,760 --> 00:44:18,760
+accomplished what they set out to do,
+
+794
+00:44:18,860 --> 00:44:21,900
+but created what has been cited as one of the seven
+
+795
+00:44:22,000 --> 00:44:23,900
+engineering wonders of the world.
+

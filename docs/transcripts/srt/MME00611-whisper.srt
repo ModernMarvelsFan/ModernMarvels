@@ -1,0 +1,2692 @@
+1
+00:00:00,001 --> 00:00:06,000
+From San Diego to Sweden, they churn out food for the masses.
+
+2
+00:00:06,001 --> 00:00:08,000
+What type of combo would you like?
+
+3
+00:00:08,001 --> 00:00:14,000
+Where seconds equal dollars, tech innovation rules, and flipping burgers is a thing of the past.
+
+4
+00:00:14,001 --> 00:00:21,000
+These industry giants grow it, process it, freeze it, ship it, track it, fry it, and pack it.
+
+5
+00:00:21,001 --> 00:00:24,000
+All so we can pay them to eat it.
+
+6
+00:00:24,001 --> 00:00:25,000
+Have a great day.
+
+7
+00:00:25,001 --> 00:00:26,000
+You too.
+
+8
+00:00:26,001 --> 00:00:29,920
+Now fast food tech, BillionServed on Modern Marvels.
+
+9
+00:00:41,860 --> 00:00:44,600
+Lunch rush at a busy McDonald's in Oak Brook, Illinois.
+
+10
+00:00:45,680 --> 00:00:50,280
+In two hours, about 40 employees will serve as many as 550 meals.
+
+11
+00:00:50,281 --> 00:00:54,420
+Worldwide, in over 31,000 locations,
+
+12
+00:00:54,520 --> 00:00:58,460
+McDonald's serves 50 million customers each day.
+
+13
+00:00:58,560 --> 00:01:02,360
+On an annual basis, we serve over 800 million pounds of beef.
+
+14
+00:01:02,460 --> 00:01:06,360
+We serve over 600 million eggs, all of that on top of the fact
+
+15
+00:01:06,460 --> 00:01:09,600
+that we serve over 3 billion pounds of our world-famous
+
+16
+00:01:09,700 --> 00:01:11,100
+French fries.
+
+17
+00:01:11,200 --> 00:01:14,340
+With eateries in well over 100 countries,
+
+18
+00:01:14,440 --> 00:01:16,840
+McDonald's reigns as the undisputed champion
+
+19
+00:01:16,940 --> 00:01:20,280
+of fast food ubiquity.
+
+20
+00:01:20,281 --> 00:01:23,760
+But it's not easy to please a world full of culturally varied palates.
+
+21
+00:01:25,340 --> 00:01:29,140
+McDonald's business is really largely based on a core menu product,
+
+22
+00:01:29,280 --> 00:01:32,240
+which would be Big Macs and burgers and fries and shakes.
+
+23
+00:01:32,720 --> 00:01:35,360
+However, occasionally in international markets,
+
+24
+00:01:35,460 --> 00:01:39,200
+we'll go out and develop products that are really developed specifically for a local taste.
+
+25
+00:01:39,420 --> 00:01:43,320
+Examples of that may be the Maharaja Mac, which is served in India,
+
+26
+00:01:43,321 --> 00:01:45,720
+which is actually a chicken-based version of the Big Mac.
+
+27
+00:01:46,120 --> 00:01:49,900
+Things like the Teriyaki Burger, which is a pork-based product that's served in Japan.
+
+28
+00:01:50,280 --> 00:01:52,740
+and various rice products that are served in other places
+
+29
+00:01:52,741 --> 00:01:55,420
+across Asia.
+
+30
+00:01:55,421 --> 00:01:57,220
+If you live in the Western world,
+
+31
+00:01:57,221 --> 00:02:01,860
+odds are good you've eaten McDonald's food at least once.
+
+32
+00:02:01,861 --> 00:02:03,720
+And if you're like most Americans,
+
+33
+00:02:03,721 --> 00:02:08,960
+you probably eat some kind of fast food at least once a week.
+
+34
+00:02:08,961 --> 00:02:12,440
+In fact, over 75% of all restaurant visits
+
+35
+00:02:12,441 --> 00:02:15,040
+happen at a fast food restaurant.
+
+36
+00:02:15,041 --> 00:02:16,040
+Nobody wants to cook.
+
+37
+00:02:16,041 --> 00:02:18,040
+We want to find someone else to do the cooking.
+
+38
+00:02:18,041 --> 00:02:21,040
+And the answer to that question has been a restaurant,
+
+39
+00:02:21,540 --> 00:02:24,280
+an inexpensive restaurant, a fast food restaurant
+
+40
+00:02:24,281 --> 00:02:26,240
+who provides us with foods that we actually like.
+
+41
+00:02:27,160 --> 00:02:28,280
+And since the beginning,
+
+42
+00:02:28,780 --> 00:02:30,660
+the quintessential fast food combination
+
+43
+00:02:30,661 --> 00:02:33,520
+has been the burger, fries, and shake.
+
+44
+00:02:34,220 --> 00:02:37,320
+I believe the burger, fry, and soft drink or shake
+
+45
+00:02:37,321 --> 00:02:39,060
+is the number one meal ordered in America
+
+46
+00:02:39,061 --> 00:02:40,360
+because they're a complete meal.
+
+47
+00:02:40,500 --> 00:02:42,000
+It's not easy to make in your house,
+
+48
+00:02:42,100 --> 00:02:44,440
+and yet they remain very inexpensive and portable.
+
+49
+00:02:45,500 --> 00:02:47,880
+And at the center of this complete meal,
+
+50
+00:02:48,040 --> 00:02:51,480
+All hail the mighty burger.
+
+51
+00:02:55,320 --> 00:03:03,440
+Today, McDonald's and its competitors depend on evolving technologies to deliver burger after burger after burger.
+
+52
+00:03:04,080 --> 00:03:10,320
+Folks talk about flipping burgers, and with a technology that we introduced a number of years ago, we actually don't flip them any longer.
+
+53
+00:03:10,740 --> 00:03:13,000
+This is a grill that we call the clamshell grill.
+
+54
+00:03:13,001 --> 00:03:16,060
+It actually cooks burgers on both sides at the same time.
+
+55
+00:03:16,061 --> 00:03:18,060
+It'll take regular hamburger patties
+
+56
+00:03:18,061 --> 00:03:20,060
+and cook them in less than half the time
+
+57
+00:03:20,061 --> 00:03:23,060
+that it used to with our previous grills.
+
+58
+00:03:23,061 --> 00:03:25,060
+It'll be somewhere near 40 seconds
+
+59
+00:03:25,061 --> 00:03:26,060
+that this product will be actually completed
+
+60
+00:03:26,061 --> 00:03:28,060
+and ready to be served.
+
+61
+00:03:28,061 --> 00:03:30,060
+The cook time for these same patties
+
+62
+00:03:30,061 --> 00:03:32,060
+used to be something a little under two minutes.
+
+63
+00:03:34,060 --> 00:03:38,060
+And here come four perfectly cooked patties.
+
+64
+00:03:38,061 --> 00:03:40,060
+This is our rapid toaster.
+
+65
+00:03:40,061 --> 00:03:42,060
+We drop the bun into the toaster.
+
+66
+00:03:42,061 --> 00:03:49,060
+And 17 seconds later, we have a perfectly toasted bun.
+
+67
+00:03:49,061 --> 00:03:56,060
+Since this is all happening simultaneously, you're looking at raw meat to finished burger
+
+68
+00:03:56,061 --> 00:03:57,521
+in a little over a minute.
+
+69
+00:03:57,522 --> 00:04:01,060
+Of course, at that speed, you'll need something to wash it down
+
+70
+00:04:01,061 --> 00:04:01,761
+and fast.
+
+71
+00:04:01,762 --> 00:04:08,060
+This piece of equipment is probably the crew's favorite technology, the automated beverage dispenser.
+
+72
+00:04:08,061 --> 00:04:11,060
+This machine is actually tied to our POS equipment.
+
+73
+00:04:11,061 --> 00:04:14,060
+Now, when a customer in the drive-thru orders the products,
+
+74
+00:04:14,061 --> 00:04:17,060
+it knows what size they've ordered, whether they want ice,
+
+75
+00:04:17,061 --> 00:04:20,060
+no ice, lots of ice, a little bit of ice, and actually pours the
+
+76
+00:04:20,061 --> 00:04:22,060
+product for the crew person.
+
+77
+00:04:22,061 --> 00:04:25,060
+This piece of equipment will pour more than 5,000 drinks per
+
+78
+00:04:25,061 --> 00:04:27,060
+week.
+
+79
+00:04:27,061 --> 00:04:29,060
+But back to burgers.
+
+80
+00:04:29,061 --> 00:04:32,060
+McDonald's big seller is the Big Mac.
+
+81
+00:04:32,061 --> 00:04:36,060
+Consumers buy over $550 million each year, just in the United
+
+82
+00:04:36,061 --> 00:04:37,060
+States.
+
+83
+00:04:37,061 --> 00:04:42,060
+The Big Mac is a to all beef patties, special sauce, lettuce, cheese, pickles, onion, and
+
+84
+00:04:42,061 --> 00:04:43,060
+a sesame seed bun.
+
+85
+00:04:43,061 --> 00:04:48,060
+The sauce is clearly a secret sauce, and it wouldn't be much of a secret if I told you.
+
+86
+00:04:48,061 --> 00:04:52,060
+But maybe the liquid production people who make the sauce will tell us.
+
+87
+00:04:52,061 --> 00:04:57,060
+For the Big Mac sauce, I can tell you we use soybean oil and eggs, but I can't tell you
+
+88
+00:04:57,061 --> 00:04:58,060
+anything after that.
+
+89
+00:04:58,061 --> 00:05:05,060
+As far as the quantities of Big Mac, we do 15 million tubes annually at this facility,
+
+90
+00:05:05,061 --> 00:05:08,700
+which equates to 600 million shots,
+
+91
+00:05:08,701 --> 00:05:11,800
+which serves 300 million sandwiches.
+
+92
+00:05:12,940 --> 00:05:16,940
+In the kitchen, a worker places a tube in the sauce gun.
+
+93
+00:05:16,941 --> 00:05:18,640
+Squeeze the trigger and the gun releases
+
+94
+00:05:18,641 --> 00:05:20,200
+a perfect portion of sauce.
+
+95
+00:05:21,180 --> 00:05:23,740
+The iconic Big Mac double-decker style sandwich
+
+96
+00:05:23,741 --> 00:05:27,840
+was invented in 1967 by McDonald's franchisee,
+
+97
+00:05:27,841 --> 00:05:30,420
+Jim Delligotti of Uniontown, Pennsylvania.
+
+98
+00:05:32,420 --> 00:05:34,020
+When I started, they said I had to work
+
+99
+00:05:34,021 --> 00:05:37,120
+with what we have there.
+
+100
+00:05:37,121 --> 00:05:39,720
+So I wasn't allowed to bring any other bun or anything in.
+
+101
+00:05:39,721 --> 00:05:44,100
+So I think for one day or two days, I forget which it was,
+
+102
+00:05:44,101 --> 00:05:47,160
+I did it on a regular hamburger bun.
+
+103
+00:05:47,161 --> 00:05:48,400
+But it was just too sloppy.
+
+104
+00:05:48,401 --> 00:05:50,640
+So I went out and got the double cut bun.
+
+105
+00:05:50,641 --> 00:05:54,940
+And from then on, it's history.
+
+106
+00:05:54,941 --> 00:05:56,940
+The history of fast food itself
+
+107
+00:05:56,941 --> 00:05:59,880
+is linked to another industry that highlights speed,
+
+108
+00:05:59,881 --> 00:06:01,320
+convenience, and affordability.
+
+109
+00:06:01,321 --> 00:06:07,400
+The burgeoning post-war car culture spawned a new kind of place to eat.
+
+110
+00:06:09,780 --> 00:06:14,760
+Drive-in restaurants sprouted up all over America, most notably on the West Coast.
+
+111
+00:06:16,380 --> 00:06:20,380
+They may have been a lot of fun, but drive-ins weren't all that fast.
+
+112
+00:06:21,080 --> 00:06:25,240
+The fast food joint as we know it can be traced back to a source with a now familiar name.
+
+113
+00:06:26,760 --> 00:06:31,100
+Back in 1948, the McDonald's brothers actually opened the first restaurant
+
+114
+00:06:31,101 --> 00:06:32,700
+in San Bernardino, California.
+
+115
+00:06:35,360 --> 00:06:37,120
+Inspired by Henry Ford,
+
+116
+00:06:37,740 --> 00:06:39,680
+the McDonald's replaced short-order cooks
+
+117
+00:06:39,681 --> 00:06:40,900
+with unskilled workers,
+
+118
+00:06:41,280 --> 00:06:43,160
+each completing one step of the process,
+
+119
+00:06:43,580 --> 00:06:44,640
+like an assembly line,
+
+120
+00:06:45,540 --> 00:06:47,640
+making the food fast and consistent.
+
+121
+00:06:49,020 --> 00:06:52,280
+They cut costs by eliminating carhops and waitresses,
+
+122
+00:06:52,940 --> 00:06:54,000
+plates and silverware,
+
+123
+00:06:54,001 --> 00:06:56,040
+and thus dishwashers,
+
+124
+00:06:56,300 --> 00:06:57,960
+making the food less expensive.
+
+125
+00:06:57,961 --> 00:07:04,220
+Years later, a milkshake mixer salesman would buy out the McDonald brothers and use their
+
+126
+00:07:04,221 --> 00:07:11,860
+food service model to spin the business into hamburger gold.
+
+127
+00:07:11,861 --> 00:07:16,580
+So where does all this fast food and drink come from?
+
+128
+00:07:16,581 --> 00:07:21,480
+To facilitate such a mammoth operation, McDonald's partners with companies like Golden State
+
+129
+00:07:21,481 --> 00:07:26,040
+Foods Distribution Centers.
+
+130
+00:07:26,041 --> 00:07:31,714
+Golden State Foods operates 12 distribution centers that service McDonald's in several U.S.
+
+131
+00:07:31,715 --> 00:07:34,520
+regions, as well as about 20 other countries.
+
+132
+00:07:37,400 --> 00:07:41,920
+This is their largest facility, located in City of Industry, California.
+
+133
+00:07:42,640 --> 00:07:49,560
+This location services over 1,000 McDonald's restaurants in the Southern California market and Las Vegas market.
+
+134
+00:07:49,561 --> 00:07:56,940
+And because of the proximity of the Los Angeles ports, we also prep shipments to our overseas customers.
+
+135
+00:07:57,600 --> 00:08:03,160
+This facility ships out on a weekly basis about 45,000 cases of French fries,
+
+136
+00:08:03,580 --> 00:08:10,680
+which equates to about 1,000,000.6 pounds, about 17 million individual servings of French fries.
+
+137
+00:08:10,980 --> 00:08:15,460
+This location also ships out 7,000 cases of cheese,
+
+138
+00:08:15,461 --> 00:08:19,480
+which equates to 8.9 million individual slices.
+
+139
+00:08:20,120 --> 00:08:24,680
+All of that's in addition to the 900,000 pounds of beef set out each week.
+
+140
+00:08:26,280 --> 00:08:28,440
+And of course, something for the kids.
+
+141
+00:08:28,980 --> 00:08:33,600
+What you're seeing here is 75,000 square feet of McDonald's Happy Meal toys.
+
+142
+00:08:33,900 --> 00:08:39,000
+We distribute 650 million units a year, just like this one.
+
+143
+00:08:39,260 --> 00:08:42,620
+This makes McDonald's one of the largest toy distributorships in the world.
+
+144
+00:08:42,621 --> 00:08:49,700
+Golden State Foods also stocks trash bags, cash bags, packaging, cleaning supplies.
+
+145
+00:08:50,640 --> 00:08:53,960
+If you see it in a McDonald's, it came from a place like this.
+
+146
+00:08:55,240 --> 00:09:02,320
+This distribution center stocks about 900 different items that are provided by over 40 different suppliers.
+
+147
+00:09:03,260 --> 00:09:11,320
+You can imagine what a McDonald's lot would look like if all 40 of those suppliers tried to make individual deliveries.
+
+148
+00:09:12,620 --> 00:09:16,560
+goods arrived by the truckload from the various growers and manufacturers
+
+149
+00:09:16,561 --> 00:09:19,700
+and are inspected thoroughly for contamination.
+
+150
+00:09:22,140 --> 00:09:25,140
+Then workers sort them into one of three main areas,
+
+151
+00:09:25,780 --> 00:09:28,580
+dry products, refrigerated, and frozen.
+
+152
+00:09:29,520 --> 00:09:32,020
+We're in the refrigerator compartment of the facility.
+
+153
+00:09:32,520 --> 00:09:34,460
+This is a 38-degree temperature.
+
+154
+00:09:35,020 --> 00:09:37,360
+This is where we keep eggs for breakfast,
+
+155
+00:09:38,000 --> 00:09:41,260
+cheese for our sandwiches, and produce for our salads.
+
+156
+00:09:41,261 --> 00:09:43,260
+This is the freezer.
+
+157
+00:09:43,261 --> 00:09:46,260
+This is maintained at below zero.
+
+158
+00:09:46,261 --> 00:09:50,260
+This is where we keep the protein items, the beef patties,
+
+159
+00:09:50,261 --> 00:09:52,260
+the chicken products, and of course,
+
+160
+00:09:52,261 --> 00:09:55,260
+the famous French fries from McDonald's.
+
+161
+00:09:55,261 --> 00:10:00,260
+Restaurants send in their orders, and technology takes over.
+
+162
+00:10:00,261 --> 00:10:04,260
+The order is downloaded via radio frequency from the mainframe
+
+163
+00:10:04,261 --> 00:10:08,260
+to the actual order selectors' headsets,
+
+164
+00:10:08,261 --> 00:10:12,440
+and the order is directed to the order selector via voice.
+
+165
+00:10:12,441 --> 00:10:13,600
+3059.
+
+166
+00:10:13,601 --> 00:10:18,200
+And they go directly to the order selection location,
+
+167
+00:10:18,201 --> 00:10:22,700
+and they're specifying the quantity of the item to select
+
+168
+00:10:22,701 --> 00:10:24,740
+and the type of product to select,
+
+169
+00:10:24,741 --> 00:10:27,140
+and verification is made via voice.
+
+170
+00:10:27,141 --> 00:10:31,040
+Workers load the specified products onto pallets,
+
+171
+00:10:31,041 --> 00:10:33,780
+which are then forklifted onto delivery trucks.
+
+172
+00:10:33,781 --> 00:10:39,260
+from production to distribution to consumption.
+
+173
+00:10:40,120 --> 00:10:43,220
+McDonald's operates like a well-oiled machine.
+
+174
+00:10:44,360 --> 00:10:46,900
+And though it may be the proverbial 800-pound gorilla,
+
+175
+00:10:47,660 --> 00:10:49,940
+it isn't the only burger slinger in town.
+
+176
+00:10:51,460 --> 00:10:55,380
+Competitors like Wendy's, Jack in the Box, Burger King, and Carl's Jr.
+
+177
+00:10:55,920 --> 00:10:59,940
+also take a big bite out of the fast food biz using various strategies.
+
+178
+00:11:00,820 --> 00:11:02,640
+Find a niche and fill it.
+
+179
+00:11:02,641 --> 00:11:05,880
+In one instance, fill it really, really full.
+
+180
+00:11:07,080 --> 00:11:10,240
+In a world of obesity awareness and burger bashing,
+
+181
+00:11:10,940 --> 00:11:12,500
+Carl's Jr. is on the offensive,
+
+182
+00:11:13,500 --> 00:11:15,340
+building burgers bigger and badder,
+
+183
+00:11:15,800 --> 00:11:18,640
+topping them with gooey sauces, fried onion rings,
+
+184
+00:11:19,080 --> 00:11:23,180
+slabs of pastrami, layers of bacon, and gobs of guacamole.
+
+185
+00:11:23,640 --> 00:11:26,800
+So this is the Santa Fe sauce.
+
+186
+00:11:26,880 --> 00:11:28,720
+It goes on both sides of the bun.
+
+187
+00:11:28,721 --> 00:11:42,721
+Then we add lettuce, two tomato slices, red onion, a half pound of Angus beef, two slices of pepper jack cheese, two slices of bacon, and two scoops of guacamole.
+
+188
+00:11:46,640 --> 00:11:49,880
+Not enough meat for you? How about this carnivore's delight?
+
+189
+00:11:50,580 --> 00:11:55,100
+Two quarter pound patties and pastrami.
+
+190
+00:11:55,101 --> 00:12:02,920
+Jay Leno joked about it on The Tonight Show, saying that what's the world coming to when
+
+191
+00:12:02,921 --> 00:12:06,160
+meat is now a condiment for more meat?
+
+192
+00:12:06,161 --> 00:12:08,340
+So where will this mega burger mania end?
+
+193
+00:12:08,341 --> 00:12:13,100
+Well, if I were ready to make an outrageous burger, I would put all the proteins together.
+
+194
+00:12:13,101 --> 00:12:21,080
+Hamburger, chicken, fish, cheese, maybe breakfast sausage, bacon.
+
+195
+00:12:21,081 --> 00:12:23,780
+It would be awesomely bad.
+
+196
+00:12:25,100 --> 00:12:29,860
+But a gigantic burger does not a perfect fast food meal make.
+
+197
+00:12:30,800 --> 00:12:32,340
+Would you like fries with that?
+
+198
+00:12:34,860 --> 00:12:40,480
+According to McDonald's, the weight of sesame seeds used in a year on Big Macs sold in the U.S.
+
+199
+00:12:40,900 --> 00:12:45,260
+equals the weight of more than two Boeing 747 airplanes.
+
+200
+00:12:46,820 --> 00:12:51,800
+Fast Food Tech will return on Modern Marvels here on the History Channel.
+
+201
+00:12:55,100 --> 00:13:02,060
+First introduced to Americans by Thomas Jefferson, the simple fried potato stick has become a fast food staple.
+
+202
+00:13:03,100 --> 00:13:07,180
+Known today as the French fry, it's the quintessential side dish.
+
+203
+00:13:07,900 --> 00:13:12,540
+Delicious, mass produced, and massively profitable for fast food restaurants.
+
+204
+00:13:14,040 --> 00:13:15,784
+More than a million acres of U.S.
+
+205
+00:13:15,785 --> 00:13:19,800
+land, about the size of Rhode Island, are devoted to the growth of potatoes.
+
+206
+00:13:19,801 --> 00:13:25,700
+And 35% of the harvest goes to making frozen french fries.
+
+207
+00:13:26,080 --> 00:13:29,180
+These potatoes in this particular field today are russet burbac.
+
+208
+00:13:29,720 --> 00:13:32,440
+This particular potato here is about a 10-ounce potato.
+
+209
+00:13:32,700 --> 00:13:35,520
+We could get approximately 100 strips out of this potato.
+
+210
+00:13:36,780 --> 00:13:41,680
+A little bigger potato, we'd get maybe 125, 130 strips out of one potato.
+
+211
+00:13:41,880 --> 00:13:45,980
+But this is just about the perfect-sized potato for making french fries right here.
+
+212
+00:13:45,981 --> 00:13:52,980
+The Ochoa Foods potato processing plant in Warden, Washington, converts 2 million pounds
+
+213
+00:13:52,981 --> 00:14:00,240
+of potatoes into nearly 100 million French fries each day.
+
+214
+00:14:00,241 --> 00:14:05,100
+The potatoes are brought in from the field and separated by size.
+
+215
+00:14:05,101 --> 00:14:07,600
+After an initial wash, they're off to the steam peeler.
+
+216
+00:14:07,601 --> 00:14:10,400
+It's about an 1800 liter vessel.
+
+217
+00:14:10,401 --> 00:14:14,540
+We put in about 800 pounds of potatoes and turn the steam on.
+
+218
+00:14:14,541 --> 00:14:19,440
+It's about 250 psi of steam, which equates to about 405 degrees.
+
+219
+00:14:20,440 --> 00:14:24,160
+As the drum rotates, steam enters through a high-pressure valve.
+
+220
+00:14:25,340 --> 00:14:31,960
+When that pressure is rapidly released, it causes an explosion that blows the peels away from the surface of the potatoes.
+
+221
+00:14:33,660 --> 00:14:35,760
+They're in there for about 10 seconds.
+
+222
+00:14:37,560 --> 00:14:42,440
+After a quick rinse in the barrel washer to get rid of the loose skins, it's time for inspection.
+
+223
+00:14:42,441 --> 00:14:49,860
+workers scrutinize the load and trim away any foreign material defects and generally ugly bits
+
+224
+00:14:49,861 --> 00:14:56,860
+the potatoes are then once again separated by size in preparation for the water cutter
+
+225
+00:14:56,861 --> 00:15:05,220
+the water cutter is basically a potato cannon water pumps through it at about 50 miles per hour
+
+226
+00:15:06,000 --> 00:15:11,640
+the pressure forces the potatoes one at a time through the pipe toward a stationary grid of
+
+227
+00:15:11,641 --> 00:15:18,880
+blades. One whole potato goes in, 100 potato strips come out.
+
+228
+00:15:18,881 --> 00:15:21,740
+The starchy potato and water soup shoots out onto a
+
+229
+00:15:21,741 --> 00:15:27,700
+conveyor in the dewatering area. Next up, more quality control.
+
+230
+00:15:27,701 --> 00:15:31,500
+This is our grating deck. The first set of rollers back here
+
+231
+00:15:31,501 --> 00:15:34,600
+is where we take the slivers out. Then we go on to the
+
+232
+00:15:34,601 --> 00:15:38,200
+grater shaker that takes the nubbins and the short pieces
+
+233
+00:15:38,201 --> 00:15:43,200
+The next conveyor carries the fries past a high-res camera
+
+234
+00:15:43,201 --> 00:15:46,200
+that identifies visible defects.
+
+235
+00:15:46,201 --> 00:15:50,200
+Then the automatic defect removal system uses bursts of air
+
+236
+00:15:50,201 --> 00:15:52,200
+to knock out the bad ones.
+
+237
+00:15:52,201 --> 00:15:55,200
+A cutter slices out the imperfection.
+
+238
+00:15:55,201 --> 00:15:58,200
+The fries that make the grade travel to the blanching area
+
+239
+00:15:58,201 --> 00:16:00,200
+for a hot bath.
+
+240
+00:16:00,201 --> 00:16:04,200
+Here the fries submerge into 160-inch
+
+241
+00:16:04,201 --> 00:16:13,640
+Here the fries submerge into 170 to 180 degree water for 11 to 16 minutes.
+
+242
+00:16:13,641 --> 00:16:19,020
+This will allow the starch granules within the potato cells to swell up, giving the strips
+
+243
+00:16:19,021 --> 00:16:23,860
+a mealy, fluffy texture.
+
+244
+00:16:23,861 --> 00:16:28,520
+No one wants soggy fries, so a trip through the dehydrating tunnel removes the excess
+
+245
+00:16:28,521 --> 00:16:29,520
+moisture.
+
+246
+00:16:29,521 --> 00:16:30,776
+This is our dryer.
+
+247
+00:16:30,777 --> 00:16:35,660
+We evaporate about 9,000 pounds of water per hour through this system.
+
+248
+00:16:36,960 --> 00:16:41,100
+By this point in the process, after peeling, blanching, and dehydrating,
+
+249
+00:16:41,860 --> 00:16:45,680
+100 pounds of potatoes will yield about 55 pounds of fries.
+
+250
+00:16:47,740 --> 00:16:51,160
+Now, a final round of inspection and into the fryer.
+
+251
+00:16:53,600 --> 00:16:57,640
+Partially frying the potatoes in 375-degree soybean oil
+
+252
+00:16:57,641 --> 00:17:01,780
+dramatically cuts down the cooking time on the restaurant end.
+
+253
+00:17:01,880 --> 00:17:04,780
+After all, it is fast food.
+
+254
+00:17:04,880 --> 00:17:06,880
+A conveyor then carries the hot potatoes
+
+255
+00:17:06,980 --> 00:17:12,980
+through a 180-foot tunnel, kept at minus 35 degrees.
+
+256
+00:17:13,080 --> 00:17:16,400
+Flash freezing helps sustain shelf life.
+
+257
+00:17:16,500 --> 00:17:19,300
+The fries emerge at 10 degrees Fahrenheit,
+
+258
+00:17:19,400 --> 00:17:23,300
+ready for packaging and cold storage.
+
+259
+00:17:23,400 --> 00:17:24,840
+This is the freezer here.
+
+260
+00:17:24,940 --> 00:17:26,900
+It's five degrees below zero.
+
+261
+00:17:26,901 --> 00:17:31,060
+We have about 30 to 33 million pounds of french fries in here.
+
+262
+00:17:31,480 --> 00:17:35,900
+Takes us about 30 to 35 days to turn this freezer over.
+
+263
+00:17:37,220 --> 00:17:42,120
+A potato's journey from delivery to storage takes one hour and 10 minutes.
+
+264
+00:17:42,920 --> 00:17:47,200
+About 25% of Ochoa's frozen fries continue their journey to Wendy's.
+
+265
+00:17:49,460 --> 00:17:54,900
+Most chains serve this kind of frozen potato fried in some sort of vegetable oil in similar fryers.
+
+266
+00:17:56,900 --> 00:18:01,900
+Still, each claims to have the secret for perfect fries.
+
+267
+00:18:02,000 --> 00:18:05,200
+This particular development is a frozen fry dispenser
+
+268
+00:18:05,300 --> 00:18:09,040
+that will hold up to 60 pounds of frozen French fries
+
+269
+00:18:09,140 --> 00:18:10,640
+yet ready to be cooked.
+
+270
+00:18:10,740 --> 00:18:16,660
+We simply take a basket, place it in the dispenser.
+
+271
+00:18:16,760 --> 00:18:19,860
+An electric eye will know that the fries, the fry basket
+
+272
+00:18:19,960 --> 00:18:21,160
+has been placed there.
+
+273
+00:18:21,260 --> 00:18:26,400
+We'll then put the fries into our high efficiency gas fryer.
+
+274
+00:18:26,401 --> 00:18:29,940
+And the computer actually begins to count down the amount of time
+
+275
+00:18:29,941 --> 00:18:32,080
+it takes for these fries to be cooked.
+
+276
+00:18:32,081 --> 00:18:36,340
+Dump, salt, scoop, and serve.
+
+277
+00:18:36,341 --> 00:18:37,980
+The specially designed scooping tool
+
+278
+00:18:37,981 --> 00:18:41,140
+makes the perfectly portioned treats stand at attention,
+
+279
+00:18:41,141 --> 00:18:43,120
+ready to take their place next to the burger.
+
+280
+00:18:47,180 --> 00:18:49,000
+America's love affair with French fries
+
+281
+00:18:49,001 --> 00:18:51,360
+began when Jefferson served them at Monticello
+
+282
+00:18:51,361 --> 00:18:55,160
+after his ambassadorship to France, hence their name.
+
+283
+00:18:56,400 --> 00:19:01,400
+Today, McDonald's is the largest single buyer of potatoes in the United States,
+
+284
+00:19:01,401 --> 00:19:06,400
+which means it'll need a whole lot of ketchup for dipping.
+
+285
+00:19:06,401 --> 00:19:09,400
+I'd like some fries, please, with extra ketchup.
+
+286
+00:19:09,401 --> 00:19:12,400
+So it's back to the liquid production facility,
+
+287
+00:19:12,401 --> 00:19:17,400
+where rows of nozzles deposit ketchup into packets of all sizes.
+
+288
+00:19:17,401 --> 00:19:23,400
+In this facility, we package ketchup from 9 grams all the way up to about 3 gallons.
+
+289
+00:19:23,401 --> 00:19:27,400
+We package about 15 million ketchup packets a day.
+
+290
+00:19:27,401 --> 00:19:31,400
+That equals about 4.5 billion packets of ketchup a year.
+
+291
+00:19:31,401 --> 00:19:36,400
+That's half of the ketchup consumed in McDonald's in the United States every year.
+
+292
+00:19:36,401 --> 00:19:40,400
+We package a unique formula of ketchup just for McDonald's.
+
+293
+00:19:40,401 --> 00:19:45,400
+So what is it about french fries, the very smell of which makes us salivate?
+
+294
+00:19:45,401 --> 00:19:51,400
+It's likely that the smell of cooking starch and fat incites a physical reaction,
+
+295
+00:19:51,401 --> 00:19:54,040
+because our bodies know that much needed calories
+
+296
+00:19:54,140 --> 00:19:58,040
+and energy are on the way, an instinct originating
+
+297
+00:19:58,140 --> 00:20:01,940
+back in history when food was scarce.
+
+298
+00:20:02,040 --> 00:20:03,440
+We like fried food.
+
+299
+00:20:03,540 --> 00:20:05,840
+We don't like to say we like fried food, but we do.
+
+300
+00:20:05,940 --> 00:20:07,980
+If you want a salad, you have it available to you.
+
+301
+00:20:08,080 --> 00:20:09,220
+You may not choose to eat it.
+
+302
+00:20:09,320 --> 00:20:10,880
+The moment you walk in there, you may find that, boy,
+
+303
+00:20:10,980 --> 00:20:14,360
+that burger smells good, and that happens quite a bit.
+
+304
+00:20:14,460 --> 00:20:16,600
+Now that you have your burger and fries,
+
+305
+00:20:16,700 --> 00:20:20,000
+let's complete that meal with a concoction that's part milk,
+
+306
+00:20:20,001 --> 00:20:25,200
+milk, part soft drink, and part dessert, the shake.
+
+307
+00:20:25,201 --> 00:20:28,380
+Again, each chain wants to stand out.
+
+308
+00:20:28,381 --> 00:20:30,100
+Our hand-scooped ice cream shakes
+
+309
+00:20:30,101 --> 00:20:31,720
+are made the old-fashioned way.
+
+310
+00:20:31,721 --> 00:20:37,080
+We hand-scoop the ice cream, add syrup, milk,
+
+311
+00:20:37,081 --> 00:20:40,020
+blend it on an old-fashioned ice cream milkshake ledger,
+
+312
+00:20:40,021 --> 00:20:43,200
+and top it off with whipped cream.
+
+313
+00:20:43,201 --> 00:20:45,020
+Another company's shake offering
+
+314
+00:20:45,021 --> 00:20:49,640
+is really more half-shake, half soft-serve ice cream.
+
+315
+00:20:49,641 --> 00:20:52,840
+Wendy's has had Frosties since the beginning of our existence.
+
+316
+00:20:53,580 --> 00:20:55,980
+From the longest time, we just had a chocolate Frostie.
+
+317
+00:20:56,700 --> 00:20:59,280
+In 2007, we added a new flavor, vanilla.
+
+318
+00:21:00,060 --> 00:21:03,040
+The way it works is we put a mix inside the machine.
+
+319
+00:21:03,160 --> 00:21:03,900
+It comes in a liquid.
+
+320
+00:21:04,080 --> 00:21:05,200
+The hopper is refrigerated.
+
+321
+00:21:05,800 --> 00:21:08,760
+And then it slowly filters into a chamber.
+
+322
+00:21:08,761 --> 00:21:11,460
+And then once it's frozen and the light's ready to go,
+
+323
+00:21:11,980 --> 00:21:15,820
+we're able to portion it out into a Frostie.
+
+324
+00:21:15,821 --> 00:21:22,820
+Company-wide, Wendy's sells about 250 million Frosties annually.
+
+325
+00:21:22,821 --> 00:21:25,820
+Wendy's has another Frosty product now.
+
+326
+00:21:25,821 --> 00:21:34,820
+And then we use a spoon, actually, as the mixing mechanism.
+
+327
+00:21:34,821 --> 00:21:41,820
+We release the spoon.
+
+328
+00:21:41,821 --> 00:21:44,960
+And you have a Twisted Frosty.
+
+329
+00:21:46,660 --> 00:21:48,940
+And, of course, there's the McDonald's shake.
+
+330
+00:21:49,740 --> 00:21:52,920
+The McDonald's shakes are actually made of 100% dairy mix.
+
+331
+00:21:53,140 --> 00:21:56,320
+A dairy mix is a product that's made of milk and a milk salad.
+
+332
+00:21:58,100 --> 00:22:02,080
+This prefab dairy mix is combined with liquid milk and flavored syrup,
+
+333
+00:22:02,840 --> 00:22:04,980
+chilled and dispensed by machine.
+
+334
+00:22:06,660 --> 00:22:10,260
+This method provides a consistent product and speedy serve time
+
+335
+00:22:10,261 --> 00:22:12,340
+that the old-fashioned way couldn't match.
+
+336
+00:22:14,460 --> 00:22:16,700
+It was the old-fashioned milkshake
+
+337
+00:22:16,701 --> 00:22:19,500
+that first introduced multi-mixer salesman Ray Kroc
+
+338
+00:22:19,501 --> 00:22:21,180
+to McDonald's in 1954.
+
+339
+00:22:22,940 --> 00:22:26,560
+While most burger joints in the 1950s had one, maybe two,
+
+340
+00:22:27,440 --> 00:22:29,460
+McDonald's used eight multi-mixers.
+
+341
+00:22:31,760 --> 00:22:34,500
+Ray Kroc hopped a plane to California to find out why.
+
+342
+00:22:36,120 --> 00:22:38,060
+Upon seeing the breakout success
+
+343
+00:22:38,061 --> 00:22:39,620
+of the innovative restaurant model,
+
+344
+00:22:40,260 --> 00:22:43,720
+Croc struck a deal to become McDonald's exclusive franchise broker.
+
+345
+00:22:45,900 --> 00:22:48,680
+With that move, he made business history
+
+346
+00:22:48,681 --> 00:22:52,880
+by founding the largest, most profitable fast food empire on Earth,
+
+347
+00:22:53,740 --> 00:22:56,020
+thanks in part to the humble shake.
+
+348
+00:22:59,080 --> 00:23:03,600
+Burgers, fries, and shakes make up 40% of fast food meals served.
+
+349
+00:23:05,140 --> 00:23:06,900
+But move over, burger joints.
+
+350
+00:23:07,240 --> 00:23:09,020
+There's another hombre in town.
+
+351
+00:23:09,620 --> 00:23:19,500
+In one year, Ochoa Foods produces enough fries to reach from the Earth to the moon and back more than three times.
+
+352
+00:23:20,880 --> 00:23:24,060
+Fast food tech will return on Modern Marvels.
+
+353
+00:23:27,660 --> 00:23:36,440
+Burger chains dominate the American landscape, but a growing segment of the quick service restaurant biz belongs to cuisine originating south of the border.
+
+354
+00:23:36,441 --> 00:23:41,840
+In recent years, Mexican food has taken off because it has a health halo.
+
+355
+00:23:42,080 --> 00:23:46,600
+It's the idea that those fresh vegetables that were using tortillas, you know,
+
+356
+00:23:46,940 --> 00:23:50,400
+it's less fried food than something like French fries and a burger.
+
+357
+00:23:51,880 --> 00:23:58,200
+Taco Bell serves over 2 billion customers each year, resulting in about $6 billion in sales.
+
+358
+00:23:59,700 --> 00:24:05,080
+Most of that revenue comes from the 2 billion tacos and 1 billion burritos it sells annually.
+
+359
+00:24:05,081 --> 00:24:07,140
+We sell a lot of food.
+
+360
+00:24:07,220 --> 00:24:09,260
+When you're going to make that much, it's going to take a lot.
+
+361
+00:24:09,440 --> 00:24:14,420
+We use over 3.8 billion corn and flour tortillas.
+
+362
+00:24:14,640 --> 00:24:17,880
+We use 120 million pounds of fresh lettuce,
+
+363
+00:24:18,360 --> 00:24:20,800
+62 million pounds of pinto beans,
+
+364
+00:24:21,360 --> 00:24:24,260
+295 million pounds of ground beef,
+
+365
+00:24:24,400 --> 00:24:26,540
+and 106 million pounds of cheese.
+
+366
+00:24:27,920 --> 00:24:30,500
+But like many of today's well-known fast food chains,
+
+367
+00:24:31,140 --> 00:24:34,280
+Taco Bell was small before it became grande.
+
+368
+00:24:35,080 --> 00:24:44,000
+Mexican restaurant owner Glen Bell started Taco Bell in Downey, California in 1962.
+
+369
+00:24:44,001 --> 00:24:48,840
+Bell applied McDonald's assembly line process to Mexican food.
+
+370
+00:24:48,841 --> 00:24:56,640
+Still, tacos aren't burgers, so Bell had to tailor prep tools specific to his menu.
+
+371
+00:24:56,641 --> 00:25:01,580
+Glen Bell wanted to find a way to make hard shell tacos to fry them quickly, and so he
+
+372
+00:25:01,581 --> 00:25:09,660
+He went to a chicken coop manufacturer and talked this guy into making the original fry form out of chicken wire.
+
+373
+00:25:11,200 --> 00:25:14,900
+With this tool, he created a U-shaped hard taco shell.
+
+374
+00:25:15,460 --> 00:25:18,520
+It's easy to fry, stack, and hold.
+
+375
+00:25:20,180 --> 00:25:26,060
+Bell soon became a taco titan, whose company is still known for engineering effective and efficient kitchen equipment.
+
+376
+00:25:26,061 --> 00:25:34,740
+We grill all of our tortillas in our restaurant, and by instituting this grill in our restaurants
+
+377
+00:25:34,741 --> 00:25:39,660
+versus steaming tortillas in the old days, this process has saved a significant amount
+
+378
+00:25:39,661 --> 00:25:40,760
+of energy in our restaurants.
+
+379
+00:25:41,080 --> 00:25:45,820
+We're saving over 100 kilowatt hours every day, which is about a tenth of all of our
+
+380
+00:25:45,821 --> 00:25:46,521
+energy.
+
+381
+00:25:46,940 --> 00:25:50,200
+In here is where we hold our hot proteins and sauces.
+
+382
+00:25:50,201 --> 00:25:57,620
+This saves over 125 gallons of hot water every day versus what Glenn Bell used to use back in the old days.
+
+383
+00:25:58,160 --> 00:26:00,080
+There was steam bellowing out.
+
+384
+00:26:00,520 --> 00:26:02,240
+Now today everything is dry.
+
+385
+00:26:02,420 --> 00:26:04,660
+It's held hotter and more consistently.
+
+386
+00:26:05,420 --> 00:26:11,400
+And plus we save over 300 million gallons a year of hot water just with this new holding station.
+
+387
+00:26:13,120 --> 00:26:16,600
+These days many of Taco Bell's products don't need an assembly line.
+
+388
+00:26:16,601 --> 00:26:23,920
+Thanks to various kitchen innovations implemented over time, the process has been streamlined
+
+389
+00:26:23,921 --> 00:26:30,460
+to the point that one person can fill an entire order quickly and consistently.
+
+390
+00:26:30,461 --> 00:26:36,700
+We have portion control devices, for example, like this, versus in Glenville days they had
+
+391
+00:26:36,701 --> 00:26:41,680
+a pie knife and they would merely grab in the beef and put it on the taco.
+
+392
+00:26:41,681 --> 00:26:46,360
+We had portion control nacho cheese and red sauce so that we can make sure that we consistently
+
+393
+00:26:46,361 --> 00:26:48,440
+give the right amount of product.
+
+394
+00:26:48,740 --> 00:26:50,660
+We have sour cream and guacamole
+
+395
+00:26:50,661 --> 00:26:51,880
+that is portion controlled.
+
+396
+00:26:52,700 --> 00:26:55,120
+And all that means you can crank out a fresh taco
+
+397
+00:26:55,121 --> 00:26:56,720
+really fast.
+
+398
+00:26:57,420 --> 00:26:58,900
+Crunchy taco begins with
+
+399
+00:26:58,901 --> 00:27:00,540
+our nice shell here.
+
+400
+00:27:00,660 --> 00:27:02,720
+We add our beef. Put on an ounce
+
+401
+00:27:02,721 --> 00:27:03,800
+and a half of beef.
+
+402
+00:27:05,020 --> 00:27:06,720
+Next, we have a half
+
+403
+00:27:06,721 --> 00:27:07,560
+an ounce of lettuce.
+
+404
+00:27:08,620 --> 00:27:10,840
+And then we top it off with cheese.
+
+405
+00:27:12,200 --> 00:27:12,900
+And that is
+
+406
+00:27:12,901 --> 00:27:14,020
+our freshly prepared taco.
+
+407
+00:27:14,021 --> 00:27:17,760
+This taco today is made in 10.7 seconds.
+
+408
+00:27:18,620 --> 00:27:20,820
+Taco Bell, like other fast food chains,
+
+409
+00:27:20,960 --> 00:27:23,620
+constantly tries to develop food you can eat on the run.
+
+410
+00:27:24,600 --> 00:27:27,360
+A perfect example, the Crunchwrap Supreme.
+
+411
+00:27:28,060 --> 00:27:30,540
+Take one of our 12-inch flour tortillas.
+
+412
+00:27:31,140 --> 00:27:33,940
+We then top it with a portion of our seasoned beef,
+
+413
+00:27:38,080 --> 00:27:39,340
+nacho cheese sauce,
+
+414
+00:27:39,920 --> 00:27:41,140
+with one of our tostada shells,
+
+415
+00:27:41,141 --> 00:27:44,260
+lettuce, sour cream, and tomatoes.
+
+416
+00:27:44,261 --> 00:27:48,940
+We then fold the product with our special six-sided
+
+417
+00:27:48,941 --> 00:27:56,940
+fold that allows us to ensure the product is completely sealed for maximum portability.
+
+418
+00:27:56,941 --> 00:28:03,941
+We then place the product on the grill for 27 seconds to seal it tight.
+
+419
+00:28:03,942 --> 00:28:05,420
+Take our crunch
+
+420
+00:28:05,421 --> 00:28:14,920
+off the grill, slide it inside our easy to eat from bag,
+
+421
+00:28:14,921 --> 00:28:18,260
+and fold it down to serve.
+
+422
+00:28:18,261 --> 00:28:20,660
+When you're in the car and you want to eat the product,
+
+423
+00:28:20,661 --> 00:28:23,080
+all you need to do is open up the bag,
+
+424
+00:28:23,081 --> 00:28:27,340
+slide the product up, as you can see, nicely sealed,
+
+425
+00:28:27,341 --> 00:28:28,740
+and you can take a bite and enjoy.
+
+426
+00:28:32,520 --> 00:28:35,120
+The foil lined bag isn't just portable.
+
+427
+00:28:35,121 --> 00:28:37,280
+It also helps the product retain heat.
+
+428
+00:28:39,400 --> 00:28:42,980
+Because of the often unusual shapes and contents of their products,
+
+429
+00:28:43,560 --> 00:28:46,560
+Taco Bell has to develop packaging specific to their needs.
+
+430
+00:28:47,840 --> 00:28:50,100
+The wraps are different materials.
+
+431
+00:28:50,320 --> 00:28:52,340
+Some are thinner than others.
+
+432
+00:28:52,540 --> 00:28:57,420
+Some are thicker than others based on the protein or the carrier that we're holding it in.
+
+433
+00:28:57,540 --> 00:28:59,400
+This is used for a soft taco.
+
+434
+00:28:59,800 --> 00:29:00,740
+It's a pocket.
+
+435
+00:29:00,741 --> 00:29:05,740
+One use of packaging that's a little unique is our quesadilla.
+
+436
+00:29:05,741 --> 00:29:09,740
+So here's our fresh grilled quesadilla.
+
+437
+00:29:09,741 --> 00:29:11,740
+Place it in the wrap.
+
+438
+00:29:14,740 --> 00:29:17,740
+And then we cut it actually while it's in the wrap.
+
+439
+00:29:17,741 --> 00:29:19,740
+So we have guides here.
+
+440
+00:29:19,741 --> 00:29:21,740
+Cut it this way.
+
+441
+00:29:21,741 --> 00:29:23,740
+Right through the wrap.
+
+442
+00:29:26,740 --> 00:29:27,740
+Fold it over.
+
+443
+00:29:27,741 --> 00:29:29,740
+And it's good to go.
+
+444
+00:29:29,741 --> 00:29:32,740
+But before fast food companies start blowing their profits
+
+445
+00:29:32,741 --> 00:29:35,740
+designing fancy equipment and packaging,
+
+446
+00:29:35,741 --> 00:29:38,740
+they first have to invest in making sure you try the food
+
+447
+00:29:38,741 --> 00:29:40,740
+and that it doesn't make you sick.
+
+448
+00:29:44,740 --> 00:29:48,740
+If you stack all the flour tortillas Taco Bell serves in a year,
+
+449
+00:29:48,741 --> 00:29:52,740
+the column would be 3,500 miles high.
+
+450
+00:29:52,741 --> 00:29:56,740
+Fast Food Tech will return on Modern Marvels.
+
+451
+00:29:56,741 --> 00:30:03,700
+It doesn't matter if they're selling burgers or tacos, french fries or nachos.
+
+452
+00:30:04,000 --> 00:30:07,720
+There's some fierce competition for fast food dollars and brand loyalty.
+
+453
+00:30:09,480 --> 00:30:14,260
+Industry-wide, that translates to advertising costs in the billions of dollars.
+
+454
+00:30:16,020 --> 00:30:19,660
+Fast food companies are king when it comes to famous marketing strategies.
+
+455
+00:30:20,960 --> 00:30:26,440
+Studies have shown that Ronald McDonald is the second most recognizable character in the world.
+
+456
+00:30:26,740 --> 00:30:28,900
+after Santa Claus.
+
+457
+00:30:28,901 --> 00:30:31,840
+That's proliferation.
+
+458
+00:30:31,841 --> 00:30:35,920
+While McDonald's aims much of its advertising at families,
+
+459
+00:30:35,921 --> 00:30:38,560
+Carl's Jr. is known for its racy ads,
+
+460
+00:30:38,561 --> 00:30:42,520
+targeting another key fast food chomping demographic.
+
+461
+00:30:42,521 --> 00:30:45,460
+Our target audience we call young hungry guys, which
+
+462
+00:30:45,461 --> 00:30:47,860
+are guys between the ages of 18 and 34.
+
+463
+00:30:47,861 --> 00:30:50,320
+They go to fast food more than any other group.
+
+464
+00:30:50,321 --> 00:30:53,660
+And they really use fast food as an alternative to their kitchen.
+
+465
+00:30:53,661 --> 00:30:54,900
+They may go in their kitchen, but they
+
+466
+00:30:54,901 --> 00:30:56,440
+don't know how a lot of the things work in there.
+
+467
+00:30:56,441 --> 00:30:57,960
+so they use fast food at their kitchen.
+
+468
+00:30:59,860 --> 00:31:03,520
+Carl's Jr. markets to this group using provocative slogans like,
+
+469
+00:31:04,020 --> 00:31:07,020
+if it doesn't get all over the place, it doesn't belong in your face.
+
+470
+00:31:08,840 --> 00:31:12,540
+Making what is jokingly referred to as burger porn.
+
+471
+00:31:14,880 --> 00:31:17,680
+But before they let you stuff your face with that burger,
+
+472
+00:31:18,380 --> 00:31:22,120
+it goes through test after test after test.
+
+473
+00:31:22,840 --> 00:31:25,840
+The first line of defense in any food-related business,
+
+474
+00:31:25,841 --> 00:31:28,840
+fast or otherwise, is food safety.
+
+475
+00:31:30,340 --> 00:31:34,000
+Toiling in labs and test kitchens within the walls of corporate HQ,
+
+476
+00:31:34,880 --> 00:31:36,960
+these workers are on the front lines,
+
+477
+00:31:37,700 --> 00:31:39,880
+beefing up security in the war on pathogens
+
+478
+00:31:39,881 --> 00:31:41,820
+found in our favorite quick cuisines.
+
+479
+00:31:42,580 --> 00:31:47,540
+We turned food safety into a management system called HACCP.
+
+480
+00:31:47,800 --> 00:31:49,860
+It's an acronym, H-A-C-C-P,
+
+481
+00:31:50,220 --> 00:31:52,880
+for hazard analysis and critical control points.
+
+482
+00:31:52,881 --> 00:31:55,460
+A term is used, farm to fork.
+
+483
+00:31:55,461 --> 00:32:01,720
+You need to start controlling food safety and quality attributes as far up in the supply chain as you can,
+
+484
+00:32:01,920 --> 00:32:07,740
+and then design and integrate your safety systems all the way through until you deliver the food to a guest.
+
+485
+00:32:09,060 --> 00:32:16,600
+Before it becomes part of your burger or taco, meat is subjected to some serious science, probing what might be inside.
+
+486
+00:32:16,601 --> 00:32:23,615
+Any raw meat can contain some level of pathogens, be it salmonella, E.
+
+487
+00:32:23,616 --> 00:32:25,820
+coli 0157H7, listeria,
+
+488
+00:32:26,080 --> 00:32:32,812
+camphlobacter, this whole big list of complex names, are part of proteins.
+
+489
+00:32:32,813 --> 00:32:34,540
+So proper handling,
+
+490
+00:32:34,800 --> 00:32:40,440
+refrigeration, temperature controls, and then properly cooking are parts of the quality system.
+
+491
+00:32:40,441 --> 00:32:45,260
+Today, we use gene probe technology like you would see on CSI Miami.
+
+492
+00:32:45,560 --> 00:32:51,320
+You basically take samples, extract their DNA, break up the DNA chain,
+
+493
+00:32:51,440 --> 00:32:53,460
+and then you compare those against known standards.
+
+494
+00:32:55,020 --> 00:32:59,160
+Since Jack in the Box implemented its food safety program in 1993,
+
+495
+00:33:00,020 --> 00:33:02,580
+many other QSRs have adopted the system,
+
+496
+00:33:03,220 --> 00:33:07,300
+as have some food retailers, schools, and even the military.
+
+497
+00:33:07,301 --> 00:33:13,600
+The system has been extremely effective in controlling pathogens and significantly decreasing
+
+498
+00:33:13,601 --> 00:33:18,560
+risks of contamination.
+
+499
+00:33:18,561 --> 00:33:22,240
+Another job of corporate fast food test kitchens is to develop new products.
+
+500
+00:33:22,241 --> 00:33:27,020
+When developing a new product, there are a lot of factors that come into play.
+
+501
+00:33:27,021 --> 00:33:32,060
+For example, does the technology exist to make the product that we're interested in
+
+502
+00:33:32,061 --> 00:33:37,520
+making from the supplier side and from our side in terms of operations.
+
+503
+00:33:37,521 --> 00:33:40,040
+Can we execute this consistently?
+
+504
+00:33:40,041 --> 00:33:43,380
+Can we make it the quality level that we want?
+
+505
+00:33:43,381 --> 00:33:49,380
+Can it be sold to the consumer at the right price point?
+
+506
+00:33:49,381 --> 00:33:56,060
+Once they have the answers, they test the product on the public.
+
+507
+00:33:56,061 --> 00:34:01,900
+But sometimes after hundreds of tests and months, even years in development, some products
+
+508
+00:34:01,901 --> 00:34:02,900
+still flop.
+
+509
+00:34:02,901 --> 00:34:07,080
+One of the greatest stories in fast food is that consumers told McDonald's they wanted
+
+510
+00:34:07,081 --> 00:34:10,840
+the McLean Deluxe, and it was one of the biggest failures in food service history.
+
+511
+00:34:10,841 --> 00:34:15,220
+The McLean Deluxe failed because a fat-free burger doesn't taste very good.
+
+512
+00:34:15,221 --> 00:34:19,940
+What consumers say they want in the test group or in the test kitchen is not necessarily
+
+513
+00:34:19,941 --> 00:34:23,460
+what they'd want to buy.
+
+514
+00:34:23,461 --> 00:34:30,780
+Some products end up as limited-time offers or as seasonal menu items that come and go.
+
+515
+00:34:31,900 --> 00:34:37,280
+One of the more recent sensations to emerge from a fast food kitchen isn't food at all.
+
+516
+00:34:38,180 --> 00:34:39,940
+Biodiesel is a very interesting subject.
+
+517
+00:34:40,620 --> 00:34:45,700
+McDonald's is encouraging all of its distributors to be environmentally conscious.
+
+518
+00:34:46,380 --> 00:34:54,000
+The waste oil that comes out of the fryers in the McDonald's restaurant can be processed and turned into biodiesel fuel.
+
+519
+00:34:54,600 --> 00:35:00,080
+In the case of this distribution center, for instance, 100% of our fleet burns biodiesel fuel.
+
+520
+00:35:00,081 --> 00:35:03,680
+It's a blended mix of diesel fuel and biodiesel fuel.
+
+521
+00:35:03,681 --> 00:35:07,760
+Restaurants are using the oil that's delivered to cook their
+
+522
+00:35:07,761 --> 00:35:08,720
+french fries.
+
+523
+00:35:08,721 --> 00:35:12,400
+That oil is then collected, processed, and burned in our
+
+524
+00:35:12,401 --> 00:35:14,720
+trucks to create cleaner air.
+
+525
+00:35:14,721 --> 00:35:20,160
+The use of McFuel is still in its infancy, but it's a step in
+
+526
+00:35:20,161 --> 00:35:21,040
+the right direction.
+
+527
+00:35:21,041 --> 00:35:26,240
+Environmentally conscious and now more health conscious,
+
+528
+00:35:26,241 --> 00:35:30,820
+consumers are forcing another trend that greatly impacts the industry.
+
+529
+00:35:32,080 --> 00:35:36,200
+It's all about getting the nasty trans fat out of fast food.
+
+530
+00:35:37,320 --> 00:35:41,120
+McDonald's, Burger King, KFC, all these brands for years
+
+531
+00:35:41,121 --> 00:35:44,120
+have been testing and looking at trans fat-free oils.
+
+532
+00:35:44,760 --> 00:35:47,840
+The issue was, for most of those chains, was one, taste.
+
+533
+00:35:48,540 --> 00:35:52,540
+You know, a lot of fast food success is about the comfort food level of it.
+
+534
+00:35:52,541 --> 00:35:54,820
+The other issue was supply.
+
+535
+00:35:54,821 --> 00:36:01,300
+Trans-fat-free oils are based on a blend of certain corn oils, canola oils, soybean oils,
+
+536
+00:36:01,301 --> 00:36:08,460
+and the American farmers, until recently, didn't have enough of those products to satisfy someone like McDonald's.
+
+537
+00:36:08,461 --> 00:36:09,760
+But you're seeing that change.
+
+538
+00:36:10,760 --> 00:36:14,020
+It's not exactly health food, but every bit helps.
+
+539
+00:36:15,140 --> 00:36:16,580
+So, you hungry yet?
+
+540
+00:36:17,180 --> 00:36:19,360
+If so, head off to the nearest drive-thru.
+
+541
+00:36:20,260 --> 00:36:22,320
+But your order taker may not be there.
+
+542
+00:36:23,000 --> 00:36:24,500
+She might be here.
+
+543
+00:36:24,820 --> 00:36:33,760
+In 1974, Burger King launched its famous Have It Your Way ad campaign that emphasized fast food burger customization.
+
+544
+00:36:35,480 --> 00:36:43,640
+In fact, there are 221,184 possible ways to order a Burger King Whopper.
+
+545
+00:36:45,140 --> 00:36:48,380
+Fast food tech will return on Modern Marvels.
+
+546
+00:36:48,381 --> 00:36:59,580
+Obviously, the fast food biz depends on the fast just as much as the food.
+
+547
+00:36:59,581 --> 00:37:00,580
+Time is money.
+
+548
+00:37:00,581 --> 00:37:07,320
+So when it comes to shaving seconds off the ordering process, the pros miss no opportunity.
+
+549
+00:37:07,321 --> 00:37:11,100
+And it all starts at the point of sale.
+
+550
+00:37:11,101 --> 00:37:17,500
+Counter workers use cash registers with easy-to-read, large-print buttons, decreasing reading time.
+
+551
+00:37:17,501 --> 00:37:22,500
+Some locations let customers input their own orders at computerized kiosks.
+
+552
+00:37:22,501 --> 00:37:24,954
+Please select a language. English?
+
+553
+00:37:24,955 --> 00:37:29,500
+Do you want to try the jalapeno and pepper jack burger or sats?
+
+554
+00:37:29,501 --> 00:37:32,500
+Please select an item from our full menu.
+
+555
+00:37:32,501 --> 00:37:40,500
+But with 60 to 70 percent of orders originating at the drive-thru, this is where fast food tech really has to accelerate.
+
+556
+00:37:40,501 --> 00:37:43,500
+When that drive-thru window started appearing, it changed everything.
+
+557
+00:37:43,501 --> 00:37:47,840
+As a matter of fact, the fastest growing appliance in this country is not a barbecue grill.
+
+558
+00:37:48,240 --> 00:37:49,560
+It's not a George Foreman grill.
+
+559
+00:37:49,820 --> 00:37:50,720
+It's a power window.
+
+560
+00:37:51,620 --> 00:37:52,420
+The power window?
+
+561
+00:37:53,640 --> 00:37:57,540
+Because that's doing more of your ordering for you and preparing meals than ever before.
+
+562
+00:37:58,160 --> 00:38:01,300
+The ideal service time and drive-thru is actually a matter of seconds.
+
+563
+00:38:01,520 --> 00:38:03,340
+You want to get in and out under two minutes.
+
+564
+00:38:04,080 --> 00:38:08,900
+Most consumers say that if it's longer than five minutes, they'll leave and never come back.
+
+565
+00:38:08,901 --> 00:38:13,082
+Since 1987, fast food eateries like this Carl's Jr.
+
+566
+00:38:13,083 --> 00:38:16,280
+location have called on Faye's research
+
+567
+00:38:16,281 --> 00:38:20,100
+to install time management hardware and software in their drive-thrus.
+
+568
+00:38:20,101 --> 00:38:29,360
+Every six seconds of improvement in speed of service amounts to typically a 1% increase
+
+569
+00:38:29,361 --> 00:38:33,940
+in sales and it has a dramatic impact on the bottom line.
+
+570
+00:38:33,941 --> 00:38:38,880
+When a car arrives at the order point or menu board, a sensor loop, essentially a large
+
+571
+00:38:38,881 --> 00:38:43,880
+metal detector located under the pavement, alerts the order taker and starts the clock.
+
+572
+00:38:43,881 --> 00:38:45,880
+Can I make the order please?
+
+573
+00:38:45,881 --> 00:38:48,880
+Yes, please. I'd like a number one combo.
+
+574
+00:38:48,881 --> 00:38:50,880
+Okay. Do you like whiskey?
+
+575
+00:38:50,881 --> 00:38:54,880
+Yes. And the drink of Diet Coke, regular size.
+
+576
+00:38:54,881 --> 00:38:55,880
+Would that complete your order, sir?
+
+577
+00:38:55,881 --> 00:38:56,880
+Yes, it will.
+
+578
+00:38:56,881 --> 00:38:58,880
+Is the order correct on the screen?
+
+579
+00:38:58,881 --> 00:38:59,880
+Yes.
+
+580
+00:38:59,881 --> 00:39:05,880
+All right. Your tray is going to be 484. Thank you. Please move forward, sir.
+
+581
+00:39:05,881 --> 00:39:10,140
+Sensors located under the pavement at each window will track the car at each
+
+582
+00:39:10,141 --> 00:39:16,260
+part of the drive-through process. Our timer measured how long it took for me
+
+583
+00:39:16,261 --> 00:39:21,360
+to be greeted. It measured exactly how long I was at the menu board. The same
+
+584
+00:39:21,361 --> 00:39:25,740
+thing is going on with the two cars that are in front of me right now and anyone
+
+585
+00:39:25,741 --> 00:39:30,260
+that comes along behind me at this point that may now be ordering is also being
+
+586
+00:39:30,261 --> 00:39:35,120
+timed. The information is being displayed to the crew inside of the
+
+587
+00:39:35,121 --> 00:39:35,828
+restaurant.
+
+588
+00:39:35,829 --> 00:39:41,300
+The timer's software uses the results to calculate which segments of the process need
+
+589
+00:39:41,301 --> 00:39:45,640
+improvement. Once that data is collected, it's put into a database.
+
+590
+00:39:45,641 --> 00:39:47,260
+It's analyzed, evaluated,
+
+591
+00:39:47,261 --> 00:39:49,423
+almost like a report card.
+
+592
+00:39:49,424 --> 00:39:55,080
+Each car can be graded A, B, C, D, and F and categorized in terms of
+
+593
+00:39:55,081 --> 00:39:55,810
+performance.
+
+594
+00:39:55,811 --> 00:40:00,800
+And that data then is available not only to the crew in the store, but also to the
+
+595
+00:40:00,801 --> 00:40:03,260
+management that's overseeing all of the stores.
+
+596
+00:40:04,140 --> 00:40:06,000
+And the customer is none the wiser.
+
+597
+00:40:06,800 --> 00:40:10,620
+But getting your food fast shouldn't come at the expense of getting it right.
+
+598
+00:40:12,420 --> 00:40:15,980
+Ever have the frustration of taking home a bag containing the wrong order?
+
+599
+00:40:18,100 --> 00:40:21,940
+What if you're at the drive-thru and your order taker is miles away?
+
+600
+00:40:22,540 --> 00:40:23,240
+Think that'll help?
+
+601
+00:40:24,020 --> 00:40:26,020
+This Wendy's franchise owner thinks so.
+
+602
+00:40:26,880 --> 00:40:30,620
+He's partnered with an ordering solutions company, Exit 41.
+
+603
+00:40:30,800 --> 00:40:33,860
+to improve order accuracy and customer service
+
+604
+00:40:33,861 --> 00:40:36,760
+by centralizing the order-taking part of the equation.
+
+605
+00:40:37,420 --> 00:40:39,700
+This call center is in Lexington, Kentucky,
+
+606
+00:40:39,701 --> 00:40:42,880
+and it services not only just the local Wendy's,
+
+607
+00:40:42,940 --> 00:40:44,640
+the 16 restaurants in this area,
+
+608
+00:40:45,020 --> 00:40:48,940
+it actually supports Wendy's out of Washington, D.C.,
+
+609
+00:40:48,941 --> 00:40:51,020
+out of Maryland, out of Michigan,
+
+610
+00:40:51,560 --> 00:40:54,580
+Nashua, New Hampshire, Florida.
+
+611
+00:40:55,700 --> 00:40:58,180
+A sensor loop is located underground,
+
+612
+00:40:58,780 --> 00:41:00,380
+two feet in front of the order pedestal.
+
+613
+00:41:00,381 --> 00:41:05,380
+The separation provides extra time as the customer reaches the speaker.
+
+614
+00:41:05,381 --> 00:41:11,380
+The sensor triggers a call to the order center using a voice over internet protocol line.
+
+615
+00:41:11,381 --> 00:41:16,380
+And a camera mounted on the pedestal snaps the car's photo.
+
+616
+00:41:16,381 --> 00:41:20,380
+Typical answer time? 3, 2, 1...
+
+617
+00:41:20,381 --> 00:41:22,380
+Hello, may I take your order please?
+
+618
+00:41:22,381 --> 00:41:28,380
+Hi, can I get a 2-5-piece nuggets with sweet-parasauce and a Junior Bacon Cheeseburger with no tomato, please?
+
+619
+00:41:28,381 --> 00:41:30,380
+Will that complete your order today?
+
+620
+00:41:30,381 --> 00:41:31,380
+Yep.
+
+621
+00:41:31,381 --> 00:41:32,380
+Thank you.
+
+622
+00:41:32,381 --> 00:41:33,380
+That's going to be 321 at the first window.
+
+623
+00:41:33,381 --> 00:41:34,380
+You have a great day.
+
+624
+00:41:34,381 --> 00:41:35,380
+Thank you.
+
+625
+00:41:35,381 --> 00:41:39,380
+Instantaneously, that order is entered into the restaurant,
+
+626
+00:41:39,381 --> 00:41:43,380
+and the staff in the restaurant can start making your food
+
+627
+00:41:43,381 --> 00:41:45,380
+while you're waiting.
+
+628
+00:41:45,381 --> 00:41:49,380
+This Wendy's is equipped with two order lanes.
+
+629
+00:41:49,381 --> 00:41:52,380
+No more first in, first out.
+
+630
+00:41:52,381 --> 00:41:55,380
+The picture comes in play to make sure we are actually
+
+631
+00:41:55,381 --> 00:41:57,380
+looking at the right car, to make sure we cash out the right
+
+632
+00:41:57,381 --> 00:42:01,860
+we cash out the right order, because if we don't, then two people's orders gets messed up.
+
+633
+00:42:03,620 --> 00:42:07,580
+Multiple order lanes make accuracy from a remote call center more challenging,
+
+634
+00:42:08,400 --> 00:42:12,520
+but they also help avoid a bottleneck situation caused by a waffling customer.
+
+635
+00:42:14,220 --> 00:42:19,240
+From an operations standpoint, typically the slow point in any restaurant is not operations
+
+636
+00:42:19,241 --> 00:42:20,825
+on the inside of production.
+
+637
+00:42:20,826 --> 00:42:24,560
+It's usually the customer at the speaker, but now with two speaker
+
+638
+00:42:24,561 --> 00:42:29,440
+points outside we're able to serve the customer a whole lot better the
+
+639
+00:42:29,441 --> 00:42:33,920
+centralized order center manned by professional order takers benefits the
+
+640
+00:42:33,921 --> 00:42:39,120
+busy kitchen crew as well it is calmer inside the restaurant there's less
+
+641
+00:42:39,121 --> 00:42:43,460
+noise we're no longer have to wear headsets so you know you don't have
+
+642
+00:42:43,461 --> 00:42:46,940
+that aggravation and if anybody's ever done it they know that it's quite an
+
+643
+00:42:46,941 --> 00:42:51,500
+aggravation to wear that headset all day long as advantageous as centralized
+
+644
+00:42:51,501 --> 00:42:54,380
+ordering has become, this technology isn't perfect.
+
+645
+00:42:55,820 --> 00:42:58,687
+We've been able to improve our order accuracy.
+
+646
+00:42:58,688 --> 00:43:01,740
+We've been able to improve the time that it takes
+
+647
+00:43:01,741 --> 00:43:02,441
+the order.
+
+648
+00:43:02,442 --> 00:43:07,500
+We've been really happy with the sales increase that we've been able to sustain.
+
+649
+00:43:07,501 --> 00:43:12,700
+The only drawback we've seen is when the internet doesn't work and we have a little problem with that
+
+650
+00:43:12,701 --> 00:43:17,180
+from time to time because, you know, we're really very dependent upon it now.
+
+651
+00:43:17,181 --> 00:43:20,220
+Still, the obvious question remains.
+
+652
+00:43:20,221 --> 00:43:23,720
+Could fast food order taking be outsourced as far away as,
+
+653
+00:43:23,721 --> 00:43:25,720
+say, India?
+
+654
+00:43:25,721 --> 00:43:28,720
+There's two critical elements to be able to provide
+
+655
+00:43:28,721 --> 00:43:30,020
+high-end service.
+
+656
+00:43:30,021 --> 00:43:32,720
+One is to actually speak English well and clearly.
+
+657
+00:43:32,721 --> 00:43:34,840
+You don't have a lot of time in an order,
+
+658
+00:43:34,841 --> 00:43:37,340
+and you want to be able to really understand that order
+
+659
+00:43:37,341 --> 00:43:38,340
+taker.
+
+660
+00:43:38,341 --> 00:43:40,340
+And the second is actually an understanding of fast food.
+
+661
+00:43:40,341 --> 00:43:41,680
+We love fast food.
+
+662
+00:43:41,681 --> 00:43:42,980
+We as a country love it.
+
+663
+00:43:42,981 --> 00:43:45,340
+There are parts of the world where they don't understand
+
+664
+00:43:45,341 --> 00:43:48,420
+understand fast food and do have issues with, you know,
+
+665
+00:43:48,421 --> 00:43:52,380
+serving beef, and we would stay away from those areas.
+
+666
+00:43:52,381 --> 00:43:58,120
+That sounds like a no on India, at least for now.
+
+667
+00:43:58,121 --> 00:44:00,620
+Regardless of where you are in the world,
+
+668
+00:44:00,621 --> 00:44:02,900
+armies of people and fleets of trucks
+
+669
+00:44:02,901 --> 00:44:05,560
+delivering millions of tons of products
+
+670
+00:44:05,561 --> 00:44:08,600
+ensure that you get that food fast for the low price
+
+671
+00:44:08,601 --> 00:44:10,860
+you're used to paying.
+
+672
+00:44:10,861 --> 00:44:15,340
+Because the real keys to fast food's overwhelming success
+
+673
+00:44:15,341 --> 00:44:16,440
+Our product consistency.
+

@@ -1,0 +1,2248 @@
+1
+00:00:00,001 --> 00:00:06,240
+American astronauts stranded in space, their lives on the line.
+
+2
+00:00:06,640 --> 00:00:09,020
+The Pluto module was designed to only support two people.
+
+3
+00:00:09,360 --> 00:00:11,060
+I keep counting the crew, there's three of us.
+
+4
+00:00:11,880 --> 00:00:12,940
+I used to believe that Apollo.
+
+5
+00:00:13,620 --> 00:00:15,560
+And it was that time when I said,
+
+6
+00:00:15,960 --> 00:00:18,720
+it's gonna be tough, maybe impossible to get this crew back home.
+
+7
+00:00:19,420 --> 00:00:22,340
+An extraordinary rescue effort to bring them home safely.
+
+8
+00:00:23,180 --> 00:00:26,740
+A combination of human courage and advanced technology.
+
+9
+00:00:26,741 --> 00:00:30,740
+Now, Apollo 13 on Modern Marvels.
+
+10
+00:00:56,740 --> 00:00:59,240
+2, 1, 0.
+
+11
+00:00:59,820 --> 00:01:01,960
+We have commit and we have liftoff.
+
+12
+00:01:02,080 --> 00:01:02,840
+2, 13.
+
+13
+00:01:03,480 --> 00:01:05,660
+April 11, 1970.
+
+14
+00:01:06,880 --> 00:01:08,880
+Apollo 13 takes to the heavens.
+
+15
+00:01:09,560 --> 00:01:12,800
+The thunder of the Saturn V rocket's five F-1 engines
+
+16
+00:01:12,801 --> 00:01:15,500
+generating 160 million horsepower.
+
+17
+00:01:17,340 --> 00:01:20,400
+To shoot for the moon requires raw power.
+
+18
+00:01:21,480 --> 00:01:25,500
+The Saturn V rocket is 363 feet tall,
+
+19
+00:01:25,501 --> 00:01:29,360
+60 feet higher than the Statue of Liberty including its pedestal
+
+20
+00:01:29,361 --> 00:01:33,100
+and weighs 13 times as much as the statue itself.
+
+21
+00:01:36,320 --> 00:01:40,560
+Lifted into Earth orbit at 17,500 miles per hour
+
+22
+00:01:40,561 --> 00:01:42,660
+is the mission's three-man crew.
+
+23
+00:01:43,700 --> 00:01:44,980
+Commander James Lovell,
+
+24
+00:01:45,760 --> 00:01:47,620
+Lunar Module Pilot Fred Hayes,
+
+25
+00:01:47,980 --> 00:01:50,380
+and Command Module Pilot John Swigert.
+
+26
+00:01:50,381 --> 00:01:57,380
+Apollo 13 would be the first mission to make a difficult lunar landing in rugged terrain.
+
+27
+00:01:57,381 --> 00:02:04,380
+Back in 1969, Apollo 11 made history in the Sea of Tranquility.
+
+28
+00:02:04,381 --> 00:02:10,380
+The first lunar landing, a moonwalk by Neil Armstrong and Edwin Aldrin Jr.
+
+29
+00:02:10,381 --> 00:02:18,380
+Apollo 12 featured two more moonwalks, this time in the Ocean of Storms.
+
+30
+00:02:18,381 --> 00:02:19,081
+storms.
+
+31
+00:02:19,082 --> 00:02:24,520
+Both missions, however, touched down on relatively flat portions of the lunar surface.
+
+32
+00:02:26,300 --> 00:02:30,820
+Apollo 13 was to land in the mountainous region of the Fra Moro Highlands,
+
+33
+00:02:31,340 --> 00:02:36,900
+whose rocky surface scientists believed held clues to the birth of not only the moon,
+
+34
+00:02:37,760 --> 00:02:39,820
+but of the entire solar system.
+
+35
+00:02:42,080 --> 00:02:45,070
+Here on the Earth, we don't have any of that original rock.
+
+36
+00:02:45,071 --> 00:02:46,540
+And the reason is because all
+
+37
+00:02:46,541 --> 00:02:49,618
+the erosion techniques that are happening every day on this planet.
+
+38
+00:02:49,619 --> 00:02:50,720
+And so this was a chance
+
+39
+00:02:50,721 --> 00:02:55,460
+to get in and see if we could find some of that original primordial rock.
+
+40
+00:02:56,600 --> 00:02:59,516
+Apollo 13 was going to be my last flight.
+
+41
+00:02:59,517 --> 00:03:03,000
+I thought this would be a great accumulation of a
+
+42
+00:03:03,001 --> 00:03:04,697
+space flight career.
+
+43
+00:03:04,698 --> 00:03:10,380
+So I was looking very anxiously to land in the highlands, which had
+
+44
+00:03:10,381 --> 00:03:13,140
+not been done before.
+
+45
+00:03:13,141 --> 00:03:16,220
+12 minutes and 39 seconds into the flight,
+
+46
+00:03:16,221 --> 00:03:20,820
+Apollo 13 is inserted into Earth orbit.
+
+47
+00:03:20,821 --> 00:03:23,040
+Back at mission control in Houston,
+
+48
+00:03:23,041 --> 00:03:27,100
+Apollo 13 is in the capable hands of flight director Gene Kranz.
+
+49
+00:03:29,740 --> 00:03:32,060
+The square-jawed ex-Korean war aviator
+
+50
+00:03:32,061 --> 00:03:37,740
+is known for his unshakable sense of organization and command.
+
+51
+00:03:37,741 --> 00:03:40,460
+The flight director's job description is incredibly simple.
+
+52
+00:03:40,960 --> 00:03:46,680
+It says, the flight director may take any action needed for crew safety and mission success.
+
+53
+00:03:49,620 --> 00:03:53,180
+Early in the mission, Kranz faced several minor glitches.
+
+54
+00:03:53,960 --> 00:03:58,840
+An engine failure in the second stage booster raised concerns about the fuel supply.
+
+55
+00:04:00,520 --> 00:04:07,360
+And even before that, an 11th hour personnel change sent ripples of insecurity through mission control.
+
+56
+00:04:07,740 --> 00:04:11,160
+One week earlier, the crew was exposed to German measles,
+
+57
+00:04:11,560 --> 00:04:15,000
+and doctors found Ken Mattingly, the designated command module pilot,
+
+58
+00:04:15,340 --> 00:04:18,420
+had never had the measles before and therefore was not immune.
+
+59
+00:04:18,940 --> 00:04:22,700
+When you've worked on something, it's been your goal for many years,
+
+60
+00:04:22,701 --> 00:04:26,380
+and you've worked on this particular flight for over a year,
+
+61
+00:04:26,560 --> 00:04:29,480
+and there isn't a long line of repeat opportunities.
+
+62
+00:04:29,800 --> 00:04:31,640
+I had a good case of feeling sorry for myself.
+
+63
+00:04:32,000 --> 00:04:34,100
+I didn't want to lose them, and I argued with the doctors,
+
+64
+00:04:34,101 --> 00:04:38,640
+saying that, you know, I can't think of a better place to have the measles than around the moon.
+
+65
+00:04:39,120 --> 00:04:41,580
+However, the doctors didn't agree, and he was dropped,
+
+66
+00:04:41,680 --> 00:04:45,040
+and we brought Jack Swigert, the backup command module pilot, on board.
+
+67
+00:04:47,700 --> 00:04:50,760
+Superbly trained for the job, Swigert fit in well.
+
+68
+00:04:51,720 --> 00:04:55,660
+Two hours, 41 minutes, and 47 seconds after launch,
+
+69
+00:04:56,100 --> 00:05:01,880
+the spacecraft is injected into a lunar trajectory at 24,500 miles per hour.
+
+70
+00:05:04,100 --> 00:05:12,220
+A half hour later, the cylindrical service module and conical command module are separated from the third stage booster,
+
+71
+00:05:13,480 --> 00:05:19,120
+turned around in space, and then moved back in for docking with the lunar module.
+
+72
+00:05:20,620 --> 00:05:24,840
+Lunar touchdown is scheduled for April 15th, four days away.
+
+73
+00:05:26,700 --> 00:05:32,260
+But then, a simple request for equipment maintenance changes everything.
+
+74
+00:05:34,100 --> 00:05:42,100
+Oxygen and hydrogen are kept on board in a supercooled state, minus 340 degrees Fahrenheit.
+
+75
+00:05:42,101 --> 00:05:49,600
+When mixed in the ship's fuel cells, the gases combine to form electricity, heat, and even drinking water.
+
+76
+00:05:51,000 --> 00:05:55,840
+Because oxygen and hydrogen in this supercooled state tend to settle unevenly in the tanks,
+
+77
+00:05:56,400 --> 00:06:02,540
+the crew is periodically asked to stir the tanks with a remotely operated electric fan.
+
+78
+00:06:02,541 --> 00:06:06,940
+Engineers refer to this as a cryo stir.
+
+79
+00:06:10,320 --> 00:06:16,580
+It falls to the Electrical and Environmental Command Officer, or ECOM, to request the procedure.
+
+80
+00:06:21,460 --> 00:06:23,800
+Dan, we've got one more item for you when you get a chance.
+
+81
+00:06:23,920 --> 00:06:26,460
+We'd like it to stir up your cryo tanks.
+
+82
+00:06:27,500 --> 00:06:29,100
+In addition, I have a shaft in front of you.
+
+83
+00:06:29,101 --> 00:06:33,340
+Just to be a good e-comm, I decided to have an extra stir done before they went to sleep,
+
+84
+00:06:33,780 --> 00:06:35,700
+which was about an hour before the end of my shift.
+
+85
+00:06:36,180 --> 00:06:38,500
+We had a few things we had to clean up before they went to bed,
+
+86
+00:06:38,501 --> 00:06:43,520
+and so I asked the flight director if we could add to the list, how about a stir?
+
+87
+00:06:45,180 --> 00:06:48,960
+Two days, seven hours, and 54 minutes into the mission,
+
+88
+00:06:49,600 --> 00:06:52,860
+Jack Swigert flips the fan switch to stir the tanks.
+
+89
+00:06:54,500 --> 00:06:58,840
+We couldn't tell that they did it except by watching the gauges.
+
+90
+00:06:58,841 --> 00:07:01,960
+And all of a sudden, there was nothing there.
+
+91
+00:07:02,520 --> 00:07:07,900
+The data went away, and I looked at my screen, and I said, oh-oh.
+
+92
+00:07:09,640 --> 00:07:15,380
+As Liebergat's troubling oxygen tank readings ripple through the monitoring equipment at mission control,
+
+93
+00:07:15,880 --> 00:07:21,220
+in space, the astronauts grapple with a ship that is out of control.
+
+94
+00:07:21,221 --> 00:07:29,840
+16 seconds after Swigert flipped the fan switch, an explosive bang and shudder rocked Apollo 13.
+
+95
+00:07:35,320 --> 00:07:40,140
+We had a pretty large bang associated with the caution and warning.
+
+96
+00:07:40,500 --> 00:07:45,700
+Lights coming on, noise all over, jets trying to fire to stabilize the spacecraft.
+
+97
+00:07:46,440 --> 00:07:48,120
+We didn't know what happened.
+
+98
+00:07:48,121 --> 00:08:00,754
+Don't ever consider it because if you even let that move in the smallest fashion into your mind, you're going to start compromising the direction you need to make the
+
+99
+00:08:00,755 --> 00:08:05,854
+We will not lose this crew. right things happen. So think positive.
+
+100
+00:08:05,855 --> 00:08:07,300
+Make things happen.
+
+101
+00:08:07,301 --> 00:08:12,580
+For the first 60 seconds, the voice loops were literally chaotic
+
+102
+00:08:12,581 --> 00:08:17,640
+because so many reports were coming in as the controllers would see jets firing
+
+103
+00:08:17,641 --> 00:08:21,320
+and they'd see the electrical problem progress through other elements of the system.
+
+104
+00:08:22,980 --> 00:08:28,280
+On board Apollo 13, there is a loss of power in what is called Main Bus B,
+
+105
+00:08:29,140 --> 00:08:31,620
+one of two main power distribution panels.
+
+106
+00:08:31,621 --> 00:08:38,180
+If one is gone, it means that half the systems in the spacecraft are dead.
+
+107
+00:08:39,940 --> 00:08:43,780
+As in all space travel, adequate electrical power is critical.
+
+108
+00:08:44,760 --> 00:08:48,720
+Without it, all vital systems aboard Apollo 13 would go dark,
+
+109
+00:08:49,660 --> 00:08:52,360
+transforming the most advanced spacecraft in the world
+
+110
+00:08:52,361 --> 00:08:56,060
+into a metal hulk aimlessly drifting in space
+
+111
+00:08:56,061 --> 00:08:58,900
+without navigation or life support systems.
+
+112
+00:08:58,901 --> 00:09:05,900
+I knew it was something very serious, something not normal, very wrong, because there were
+
+113
+00:09:05,901 --> 00:09:09,900
+a very large number of caution and warning lights on.
+
+114
+00:09:09,901 --> 00:09:12,900
+The caution warning light array has two color lights.
+
+115
+00:09:12,901 --> 00:09:18,900
+Some are red, which generally means very bad, and some are orange or yellow, which means
+
+116
+00:09:18,901 --> 00:09:20,900
+bad but not quite so bad.
+
+117
+00:09:20,901 --> 00:09:25,900
+And if I recall, we had about seven of those lights on, plus a master alarm, a big red
+
+118
+00:09:25,901 --> 00:09:28,900
+plus a blue computer restart light.
+
+119
+00:09:28,901 --> 00:09:35,900
+This did not replicate anything I'd ever encountered in training for a single failure.
+
+120
+00:09:50,900 --> 00:09:52,900
+We had never ever simulated a case like this,
+
+121
+00:09:52,901 --> 00:09:56,900
+a case like this because you don't simulate up to a quadruple failure.
+
+122
+00:09:56,901 --> 00:10:01,900
+You may simulate a double failure, but not this kind of cascading quadruple failure because
+
+123
+00:10:01,901 --> 00:10:06,900
+there's nothing to work. I mean, the spacecraft dies into simulation.
+
+124
+00:10:07,900 --> 00:10:11,900
+In the meantime, Jack Swigert is called mission control.
+
+125
+00:10:11,901 --> 00:10:14,900
+Houston, we've had a problem here.
+
+126
+00:10:14,901 --> 00:10:17,900
+Can I say again, please?
+
+127
+00:10:17,901 --> 00:10:20,900
+Houston, we've had a problem.
+
+128
+00:10:20,901 --> 00:10:26,640
+You get that sort of burning sensation in the stomach, and you say, why me? Why now?
+
+129
+00:10:27,120 --> 00:10:29,180
+Why didn't it happen on 12 or wait to 14?
+
+130
+00:10:29,181 --> 00:10:31,340
+And what do we do to get out of this thing?
+
+131
+00:10:31,920 --> 00:10:38,380
+Then it dawned on me that we are in more serious trouble than merely not landing on the moon.
+
+132
+00:10:38,381 --> 00:10:44,120
+And that's when our thought process changed from being one of disappointment to one of survival.
+
+133
+00:10:45,560 --> 00:10:49,980
+Relying on his pilot's instincts, Commander Lovell eyeballs the situation.
+
+134
+00:10:50,900 --> 00:10:53,900
+He looks out the window and doesn't like what he sees.
+
+135
+00:10:54,780 --> 00:10:58,320
+We are venting something out into space.
+
+136
+00:10:58,900 --> 00:11:00,000
+Roger, we copy your venting.
+
+137
+00:11:00,920 --> 00:11:02,020
+Sir, gas is no sort.
+
+138
+00:11:03,400 --> 00:11:05,420
+Jim Lovell called down from the spacecraft.
+
+139
+00:11:05,580 --> 00:11:07,800
+Hey, I'm looking outside window 5 in the spacecraft.
+
+140
+00:11:08,540 --> 00:11:11,740
+I see some kind of a gaseous substance, some kind of a vapor.
+
+141
+00:11:12,360 --> 00:11:14,600
+I think we may be venting our oxygen.
+
+142
+00:11:14,601 --> 00:11:18,300
+And this was the final piece of information that said,
+
+143
+00:11:18,301 --> 00:11:23,380
+hey, we had an explosion on board the spacecraft with a lot of collateral damage,
+
+144
+00:11:23,880 --> 00:11:26,840
+and now this is not a mission that's going to go to the moon.
+
+145
+00:11:26,940 --> 00:11:29,300
+This is a mission of survival.
+
+146
+00:11:29,520 --> 00:11:33,600
+And it was that time when I looked into the eyes of the Tiger and said,
+
+147
+00:11:33,940 --> 00:11:36,720
+it's going to be tough, maybe impossible to get this crew back home.
+
+148
+00:11:37,980 --> 00:11:42,900
+The engines of the Saturn V must burn more than 5.8 million pounds of propellant
+
+149
+00:11:42,901 --> 00:11:46,860
+in order to accelerate to 24,500 miles per hour.
+
+150
+00:11:46,861 --> 00:11:51,080
+The speed required to put a spacecraft on a path toward the moon.
+
+151
+00:11:52,060 --> 00:11:54,660
+Apollo 13 will continue on Modern Marvels.
+
+152
+00:11:55,200 --> 00:11:58,700
+We now return to Apollo 13 on Modern Marvels.
+
+153
+00:12:01,720 --> 00:12:05,660
+Two days, eight hours, 33 minutes into the mission.
+
+154
+00:12:07,460 --> 00:12:09,960
+Apollo 13 is stranded in space.
+
+155
+00:12:09,961 --> 00:12:18,000
+Those on the ground and up above can't help but think of the darkest chapter in NASA's recent past.
+
+156
+00:12:19,840 --> 00:12:27,120
+In 1967, during the first Apollo mission, an explosive fire instantly killed all three men aboard.
+
+157
+00:12:29,020 --> 00:12:34,740
+Virgil Gus Grissom, Edward White, and Roger Taffey lost their lives on the launch pad
+
+158
+00:12:34,741 --> 00:12:37,260
+when a fire broke out inside the cabin
+
+159
+00:12:37,261 --> 00:12:40,780
+and spread rapidly in the concentrated oxygen environment.
+
+160
+00:12:44,220 --> 00:12:48,940
+In January of 1967, we had the horrendous Apollo 1 fire,
+
+161
+00:12:49,060 --> 00:12:53,520
+and I think it was a prime year to demonstrate what happens
+
+162
+00:12:53,521 --> 00:12:58,640
+when you push for a goal so hard that you become blind
+
+163
+00:12:58,641 --> 00:13:02,120
+and in some ways complacent to the dangers.
+
+164
+00:13:02,121 --> 00:13:05,120
+thousands of changes were made to the Apollo spacecraft.
+
+165
+00:13:05,121 --> 00:13:11,120
+And I think a lot of people consider today that those three guys did not give their lives in vain.
+
+166
+00:13:16,120 --> 00:13:20,120
+The Apollo Command Module, one of the most complex spacecraft ever built,
+
+167
+00:13:20,121 --> 00:13:26,120
+would undergo many modifications and safety checks before Americans again traveled in space.
+
+168
+00:13:26,121 --> 00:13:30,160
+space.
+
+169
+00:13:30,161 --> 00:13:38,480
+Apollo 7, carrying three astronauts, flight tested the command module circling the Earth.
+
+170
+00:13:38,481 --> 00:13:43,620
+Apollo 8, with James Lovell aboard as command module pilot, was the first lunar orbital
+
+171
+00:13:43,621 --> 00:13:50,520
+mission.
+
+172
+00:13:50,521 --> 00:13:55,580
+The world was awed by the crew's stunning images of the moon and our own small blue
+
+173
+00:13:55,581 --> 00:13:59,900
+planet and moved by their readings from the Bible's book of Genesis.
+
+174
+00:13:59,901 --> 00:14:06,140
+God said, let the waters under the heavens be gathered together into one place and let
+
+175
+00:14:06,141 --> 00:14:09,400
+the dry land appear and it was so.
+
+176
+00:14:09,401 --> 00:14:15,280
+And God called the dry land earth and God saw that it was good.
+
+177
+00:14:15,281 --> 00:14:22,440
+and from the crew of Apollo 8, God bless all of you, all of you on the good Earth.
+
+178
+00:14:25,740 --> 00:14:28,840
+Apollo 9 was a dry run for the lunar module,
+
+179
+00:14:29,440 --> 00:14:33,880
+the engineering miracle which would eventually allow astronauts to touch down on the moon.
+
+180
+00:14:35,480 --> 00:14:37,900
+Okay, we're nice and stable with respect to you.
+
+181
+00:14:39,300 --> 00:14:41,940
+It's a nice-looking machine. So is yours.
+
+182
+00:14:41,941 --> 00:14:50,640
+Apollo 10 again went to the moon, this time for an orbital run-through.
+
+183
+00:14:51,420 --> 00:14:55,060
+It was followed by the twin triumphs of Apollo 11 and 12.
+
+184
+00:14:57,680 --> 00:15:03,000
+The Apollo 13 mission was thwarted before it got to the moon.
+
+185
+00:15:07,780 --> 00:15:10,120
+Its service module is useless.
+
+186
+00:15:10,121 --> 00:15:17,260
+half its electrical systems called electrical bus B are dead the command module the only part of the
+
+187
+00:15:17,261 --> 00:15:22,900
+spacecraft with a heat shield capable of surviving reentry has just two hours of battery power
+
+188
+00:15:29,200 --> 00:15:35,500
+back at mission control flight director Gene Kranz knows he has only one real option to bring the
+
+189
+00:15:35,501 --> 00:15:39,260
+crew home. Use the lunar module as a lifeboat.
+
+190
+00:15:41,580 --> 00:15:42,720
+And we have a
+
+191
+00:15:42,721 --> 00:15:46,700
+procedure for getting power from the lamp.
+
+192
+00:15:47,200 --> 00:15:50,720
+We'd like you to copy down. Okay. Stand by, Jack.
+
+193
+00:15:51,440 --> 00:15:54,960
+That sounds like good news. I made a call to the crew and I said,
+
+194
+00:15:55,080 --> 00:15:58,860
+look, flight controllers, settle down. Let's make your calls crisp. Electrical
+
+195
+00:15:58,861 --> 00:16:02,248
+bus A is still good. Don't do anything to screw it up. The lunar module's attached.
+
+196
+00:16:02,249 --> 00:16:02,949
+We're going to
+
+197
+00:16:02,950 --> 00:16:04,133
+use that as our lifeboat.
+
+198
+00:16:04,134 --> 00:16:07,440
+Get me more people, get me more communications, and get me more
+
+199
+00:16:07,441 --> 00:16:13,260
+computing capabilities. And this was what I would say the turning point in the fight
+
+200
+00:16:13,261 --> 00:16:14,713
+to save the crew.
+
+201
+00:16:14,714 --> 00:16:20,440
+The concept of using the lunar module as a lifeboat was explored on
+
+202
+00:16:20,441 --> 00:16:23,389
+earlier missions and run in simulations.
+
+203
+00:16:23,390 --> 00:16:26,780
+The operations team envisioned using the lunar
+
+204
+00:16:26,781 --> 00:16:33,380
+module's thrusters to correct a faulty moon orbit, for example.
+
+205
+00:16:33,381 --> 00:16:37,600
+But working the lifeboat plan between the Earth and the moon brought on a new set of
+
+206
+00:16:37,601 --> 00:16:41,320
+problems that no one had ever considered.
+
+207
+00:16:41,321 --> 00:16:46,360
+The lunar module was designed never to come back home again, had no heat shield, the skin
+
+208
+00:16:46,361 --> 00:16:50,240
+was so thin that you could punch your fist right through it if you wanted to.
+
+209
+00:16:50,241 --> 00:16:54,660
+And more than that, the lunar module was designed to only support two people.
+
+210
+00:16:54,661 --> 00:16:57,440
+I keep counting to the crew, there's three of us.
+
+211
+00:16:59,680 --> 00:17:03,200
+Two days, nine hours, 37 minutes into the mission,
+
+212
+00:17:03,800 --> 00:17:07,080
+the Apollo 13 crew leaves the command service module
+
+213
+00:17:07,081 --> 00:17:09,400
+and takes refuge in the lunar module.
+
+214
+00:17:11,380 --> 00:17:13,400
+To save fuel and electricity,
+
+215
+00:17:14,280 --> 00:17:17,820
+mission control opts for what is called a free return trajectory.
+
+216
+00:17:20,340 --> 00:17:23,340
+Lovell and his crew could fly around the dark side of the moon
+
+217
+00:17:23,341 --> 00:17:28,260
+and hopefully use that body's gravitational force to slingshot them homeward.
+
+218
+00:17:30,040 --> 00:17:36,520
+It is a risky plan because it depends upon precise navigation using sightings on stars.
+
+219
+00:17:37,340 --> 00:17:38,980
+And that was going to be difficult
+
+220
+00:17:38,981 --> 00:17:44,520
+because the explosion had created yet another problem for Apollo 13.
+
+221
+00:17:45,260 --> 00:17:50,520
+When I looked out the window, the explosion had put around the spacecraft
+
+222
+00:17:50,521 --> 00:17:52,480
+thousands of small pieces of debris,
+
+223
+00:17:52,481 --> 00:17:56,720
+And these were false stars. We couldn't tell a real star from a false star.
+
+224
+00:17:57,100 --> 00:18:03,580
+There was no way to do a star sighting to know whether our platform had been aligned correctly or not.
+
+225
+00:18:05,020 --> 00:18:08,160
+We're moving seven miles a second toward the moon.
+
+226
+00:18:08,940 --> 00:18:14,020
+And this debris cloud actually is moving along with us.
+
+227
+00:18:14,120 --> 00:18:20,720
+And until we perform a maneuver to get away from that debris, it's going to be with us.
+
+228
+00:18:22,480 --> 00:18:27,300
+Mission Control's solution was to use the only celestial bodies visible to the crew
+
+229
+00:18:27,301 --> 00:18:29,580
+and attempt to set a course by them.
+
+230
+00:18:31,540 --> 00:18:35,720
+They found features on the sun, the earth, and the moon
+
+231
+00:18:35,721 --> 00:18:39,120
+that could be easily recognized by the crew
+
+232
+00:18:39,121 --> 00:18:43,320
+and could be essentially established as a point source
+
+233
+00:18:43,321 --> 00:18:46,500
+so that we could use this as the equivalent of a star.
+
+234
+00:18:47,960 --> 00:18:49,880
+As Lovell sights the earth,
+
+235
+00:18:50,360 --> 00:18:55,100
+Hayes sights the moon through a periscope-like device called the Alignment Optical Telescope.
+
+236
+00:18:55,880 --> 00:18:59,920
+If the alignment is good, the Earth and the moon line up in the sights,
+
+237
+00:19:00,540 --> 00:19:03,560
+verifying that the navigational system is on target.
+
+238
+00:19:06,020 --> 00:19:11,600
+And slowly but surely, it was almost like the music from My Fair Lady.
+
+239
+00:19:11,760 --> 00:19:13,780
+You know, I think I've got it, I've got it, I've got it.
+
+240
+00:19:13,781 --> 00:19:19,460
+And then pretty soon, the last puff of the rocket engine and the spacecraft stopped
+
+241
+00:19:19,461 --> 00:19:24,560
+and the fine alignment on the telescope showed that we were pointing at the sun.
+
+242
+00:19:24,720 --> 00:19:27,240
+And so we said, hey, we're okay.
+
+243
+00:19:29,100 --> 00:19:32,720
+Two days, 13 hours, and 29 minutes into the mission,
+
+244
+00:19:33,420 --> 00:19:38,640
+the crew fires the lunar module descent engine to begin the free return flight path.
+
+245
+00:19:42,160 --> 00:19:46,080
+Running the ship on reduced power means the living conditions are difficult.
+
+246
+00:19:46,081 --> 00:19:57,120
+The temperature inside the lunar module, or LEM, is dropping and soon reaches 38 degrees Fahrenheit, about as cold as a refrigerator.
+
+247
+00:19:59,120 --> 00:20:05,500
+Water was collecting everywhere, and on every electric connector, a big glob of water was building up.
+
+248
+00:20:05,820 --> 00:20:12,480
+After a day, all three of us huddled in the LEM, which in a way, I guess, helped just mutual body warmth.
+
+249
+00:20:12,481 --> 00:20:20,380
+As the astronauts shiver in space amid their damp and dripping consoles, the equipment
+
+250
+00:20:20,381 --> 00:20:25,080
+aboard Apollo 13, ironically, is in danger of overheating.
+
+251
+00:20:25,081 --> 00:20:30,940
+Normally, water mixed with a coolant called glycol is circulated through the spacecraft
+
+252
+00:20:30,941 --> 00:20:34,340
+to keep the equipment functioning properly.
+
+253
+00:20:34,341 --> 00:20:40,300
+But on Apollo 13, water is scarce because two of the three fuel cells that produce it
+
+254
+00:20:40,301 --> 00:20:42,820
+are damaged beyond repair.
+
+255
+00:20:42,821 --> 00:20:47,260
+Heat will build up quickly in the spacecraft's electrical systems.
+
+256
+00:20:47,261 --> 00:20:52,560
+Mission Control's only solution is to shut down all but the most critical devices.
+
+257
+00:20:52,561 --> 00:20:57,320
+Get the spacecraft powered down as rapidly as we can to a survival mode,
+
+258
+00:20:57,321 --> 00:21:00,760
+save the energy in case we might need it downstream,
+
+259
+00:21:00,761 --> 00:21:05,420
+and this is going to put us on a plateau where we can think.
+
+260
+00:21:05,421 --> 00:21:08,800
+Though he keeps a cool head, Kranz desperately needs to know
+
+261
+00:21:08,801 --> 00:21:12,060
+how long the electrical power in the spacecraft could last.
+
+262
+00:21:15,340 --> 00:21:18,720
+The news from his engineers is not good.
+
+263
+00:21:20,660 --> 00:21:27,800
+To make it back to Earth, the astronaut's lifeboat would have to consume only 15 amps of electricity per hour.
+
+264
+00:21:28,620 --> 00:21:34,000
+But the lunar module designers calculate the minimum draw at 20 amps per hour.
+
+265
+00:21:34,001 --> 00:21:40,120
+somehow Kranz and his team have to get the draw down by five amps
+
+266
+00:21:40,121 --> 00:21:44,460
+to make it possible for the crew of Apollo 13 to get home
+
+267
+00:21:44,461 --> 00:21:49,900
+while the launch controllers get out their slide rules
+
+268
+00:21:49,901 --> 00:21:52,020
+and grapple with the problem around the clock
+
+269
+00:21:52,021 --> 00:21:56,000
+Kranz knows that even that will not be enough
+
+270
+00:21:56,001 --> 00:22:02,040
+although the mainframe systems used by NASA were state of the art in 1970
+
+271
+00:22:02,041 --> 00:22:06,800
+By today's standards, they are cumbersome and agonizingly slow,
+
+272
+00:22:07,220 --> 00:22:10,540
+with less computing power than today's average laptop.
+
+273
+00:22:11,280 --> 00:22:14,440
+You have very little flexibility in using these machines.
+
+274
+00:22:15,280 --> 00:22:16,540
+That's the bad news.
+
+275
+00:22:16,620 --> 00:22:19,640
+But the good news was it was a massive leap forward
+
+276
+00:22:19,641 --> 00:22:22,160
+from the very primitive systems that we used
+
+277
+00:22:22,161 --> 00:22:26,020
+in the early Mercury and the Gemini systems.
+
+278
+00:22:27,520 --> 00:22:31,740
+The astronauts of Apollo 13 have occupied their wounded ship
+
+279
+00:22:31,741 --> 00:22:33,240
+for three days.
+
+280
+00:22:33,241 --> 00:22:35,740
+As the computers run the numbers,
+
+281
+00:22:35,741 --> 00:22:38,540
+Kranz's team runs on pure adrenaline,
+
+282
+00:22:38,541 --> 00:22:40,540
+surviving on catnaps.
+
+283
+00:22:40,541 --> 00:22:42,240
+Working equations,
+
+284
+00:22:42,241 --> 00:22:45,240
+trying to reconstruct why the explosion occurred
+
+285
+00:22:45,241 --> 00:22:47,240
+and what can be done to fix it
+
+286
+00:22:47,241 --> 00:22:49,240
+before it's too late.
+
+287
+00:22:52,240 --> 00:22:57,740
+The Apollo Guidance computer is approximately the same size as today's desktop computer,
+
+288
+00:22:57,741 --> 00:23:01,240
+but had as much as a hundred times less computing capacity.
+
+289
+00:23:01,241 --> 00:23:06,240
+Apollo 13 will continue on Modern Marvels.
+
+290
+00:23:06,241 --> 00:23:11,240
+We now return to Apollo 13 on Modern Marvels.
+
+291
+00:23:11,241 --> 00:23:18,240
+At the time of the Apollo 13 mission, many Americans have become somewhat complacent about space flight.
+
+292
+00:23:18,241 --> 00:23:24,240
+But with word of trouble in space, the mission becomes big news.
+
+293
+00:23:24,241 --> 00:23:28,240
+People everywhere are glued to their televisions for the latest bulletin.
+
+294
+00:23:28,241 --> 00:23:36,520
+latest bulletin. Newspapers carry banner headlines. Never before has a NASA failure
+
+295
+00:23:36,521 --> 00:23:42,259
+been paraded around the world so nakedly and for so long.
+
+296
+00:23:42,260 --> 00:23:45,280
+Space flight is also difficult
+
+297
+00:23:45,281 --> 00:23:49,952
+for those left behind, the astronauts' loved ones and families.
+
+298
+00:23:49,953 --> 00:23:51,880
+Surviving on whatever news
+
+299
+00:23:51,881 --> 00:23:57,100
+NASA lets out, they want to know if their husbands, fathers and friends are all right.
+
+300
+00:23:57,101 --> 00:24:00,520
+and what their chances are of making it back alive.
+
+301
+00:24:01,960 --> 00:24:04,480
+Marilyn Lovell, wife of Commander James Lovell,
+
+302
+00:24:04,600 --> 00:24:07,580
+must contend with hordes of reporters knocking on her door
+
+303
+00:24:07,581 --> 00:24:10,260
+with questions that she can't answer.
+
+304
+00:24:12,260 --> 00:24:14,440
+Are they going to get home? Are they going to hit the earth?
+
+305
+00:24:14,520 --> 00:24:16,660
+Are they going to miss the earth? Are they getting poisoned?
+
+306
+00:24:16,661 --> 00:24:18,880
+Are they running out of oxygen?
+
+307
+00:24:19,280 --> 00:24:22,040
+All these things sort of grow on the families.
+
+308
+00:24:22,041 --> 00:24:31,660
+It's a much worse situation for those on the ground with their expectations of hearing that you've made it through,
+
+309
+00:24:32,340 --> 00:24:36,260
+because literally they are helpless to be able to do anything during that period.
+
+310
+00:24:38,160 --> 00:24:44,400
+In space, the men of Apollo 13 could only watch the blue marble of the Earth drift away,
+
+311
+00:24:44,940 --> 00:24:50,580
+and imagine what might have been had they made their mark on the gray mystery drifting by below them.
+
+312
+00:24:50,581 --> 00:24:53,040
+like the others who were there first.
+
+313
+00:24:54,420 --> 00:24:58,200
+During Apollo 13's silent transit around the backside of the moon,
+
+314
+00:24:58,900 --> 00:25:01,920
+the astronauts are out of contact with Earth tracking stations
+
+315
+00:25:01,921 --> 00:25:04,980
+for 24 minutes and 35 seconds.
+
+316
+00:25:06,060 --> 00:25:07,460
+Emerging on the other side,
+
+317
+00:25:07,960 --> 00:25:11,280
+lunar gravitational force redirects their trajectory homeward.
+
+318
+00:25:13,580 --> 00:25:17,920
+Mr. Trance, can you tell us what sort of physical discomfort
+
+319
+00:25:17,921 --> 00:25:19,520
+the crew is in at the moment?
+
+320
+00:25:20,580 --> 00:25:24,120
+We're trying to work up some kind of a crew rest cycle right now
+
+321
+00:25:24,121 --> 00:25:26,180
+to give them an adequate amount of rest
+
+322
+00:25:26,181 --> 00:25:29,260
+between now and the possible mid-course correction at 104 hours.
+
+323
+00:25:30,180 --> 00:25:32,520
+While those on the ground watch and worry,
+
+324
+00:25:33,000 --> 00:25:35,620
+they cannot guess how the cold and damp conditions
+
+325
+00:25:35,621 --> 00:25:38,580
+inside the lunar module take their toll on the crew.
+
+326
+00:25:40,440 --> 00:25:42,020
+Fred Hayes is the first victim,
+
+327
+00:25:42,560 --> 00:25:44,200
+falling ill with a bladder infection.
+
+328
+00:25:45,000 --> 00:25:47,940
+I did realize that at first he tried to keep it quiet for a while,
+
+329
+00:25:47,941 --> 00:25:54,080
+But pretty soon, his teeth started chattering, and he was getting quite sick.
+
+330
+00:25:55,020 --> 00:25:59,900
+Probably caused by the climate, severe cold, getting tired.
+
+331
+00:26:00,860 --> 00:26:02,580
+We didn't drink enough water.
+
+332
+00:26:03,160 --> 00:26:08,920
+But that combination of things allowed this bug to pick me out as the weakest one of the three.
+
+333
+00:26:09,820 --> 00:26:14,960
+As Fred Hayes' condition gets worse, there was another crisis growing in intensity.
+
+334
+00:26:14,961 --> 00:26:21,960
+The Apollo 13 crew was at risk of poisoning themselves with every breath.
+
+335
+00:26:21,961 --> 00:26:27,960
+One of the things that had to be contended with was the carbon dioxide buildup in the
+
+336
+00:26:27,961 --> 00:26:32,960
+space carrier from the crew expiration of their breath.
+
+337
+00:26:32,961 --> 00:26:36,960
+And yes, it was anticipated to become a problem.
+
+338
+00:26:36,961 --> 00:26:42,960
+With each breath in, the crew draws precious oxygen into their lungs.
+
+339
+00:26:42,961 --> 00:26:49,920
+With each breath out, they expel carbon dioxide, a deadly substance in sufficient quantity.
+
+340
+00:26:52,480 --> 00:26:57,920
+Normally, the waste carbon dioxide is removed by passing it through lithium hydroxide crystals
+
+341
+00:26:58,480 --> 00:27:00,812
+packed in cylindrical canisters.
+
+342
+00:27:00,813 --> 00:27:05,840
+But the onboard supply of those canisters is running dangerously low.
+
+343
+00:27:05,841 --> 00:27:13,720
+A group of engineers recognized that we would eventually run out of the cylindrical canisters
+
+344
+00:27:13,721 --> 00:27:17,520
+that we used to clean the carbon dioxide out of the air.
+
+345
+00:27:17,521 --> 00:27:21,860
+But they also recognized we had plenty of square canisters over in the command and service
+
+346
+00:27:21,861 --> 00:27:24,820
+module that weren't going to get used.
+
+347
+00:27:24,821 --> 00:27:27,880
+We literally had square pegs and round holes.
+
+348
+00:27:27,881 --> 00:27:32,360
+The different contractor built the system in the command module, used little cubical
+
+349
+00:27:32,361 --> 00:27:37,080
+lithium hydroxide canisters and because of design considerations in the lunar module,
+
+350
+00:27:37,081 --> 00:27:39,740
+they made them cylindrical.
+
+351
+00:27:39,741 --> 00:27:43,680
+So they came up with the idea of fabricating an adapter
+
+352
+00:27:43,681 --> 00:27:49,120
+made out of the cardboard cover of the flight plan, the plastic bag that they had their
+
+353
+00:27:49,121 --> 00:27:50,480
+lunar suits in.
+
+354
+00:27:50,481 --> 00:27:54,660
+We used a sock as a filter and then some duct tape and a hose
+
+355
+00:27:54,661 --> 00:27:58,540
+and we fashioned this adapter and tested it in the laboratory.
+
+356
+00:27:58,541 --> 00:28:03,580
+And then the engineers actually brought it in mission control so we could see what it looked like.
+
+357
+00:28:04,160 --> 00:28:08,120
+Then we wrote the procedures, now that we knew what it looked like,
+
+358
+00:28:08,200 --> 00:28:11,400
+and how they told the crew how to make this device.
+
+359
+00:28:13,520 --> 00:28:16,920
+Shaking their heads with amusement and using a lot of duct tape,
+
+360
+00:28:17,620 --> 00:28:23,480
+the crew constructs a makeshift air purifier with the odd assortment of parts dictated by mission control.
+
+361
+00:28:24,500 --> 00:28:25,400
+But it worked perfectly.
+
+362
+00:28:25,401 --> 00:28:31,040
+As soon as we had it in place and had the air flowing through this jury-rigged canister,
+
+363
+00:28:31,420 --> 00:28:35,320
+we saw that the partial pressure of carbon dioxide started to decrease.
+
+364
+00:28:35,980 --> 00:28:39,480
+The jury-rigged adapter buys the crew more time,
+
+365
+00:28:40,220 --> 00:28:42,820
+yet their most difficult challenges lay ahead.
+
+366
+00:28:44,720 --> 00:28:51,780
+As their cold, dark spacecraft rapidly approaches Earth at 7,212 miles per hour,
+
+367
+00:28:51,781 --> 00:28:53,740
+back on the ground.
+
+368
+00:28:54,440 --> 00:28:57,000
+Flight controllers are laboring to come up with a way
+
+369
+00:28:57,001 --> 00:28:59,780
+to bring the ship's electrical systems back online
+
+370
+00:28:59,781 --> 00:29:03,320
+and bring Apollo 13 back to life
+
+371
+00:29:03,321 --> 00:29:06,540
+without causing irreparable damage to the lifeboat.
+
+372
+00:29:07,280 --> 00:29:08,800
+The cruise only hope.
+
+373
+00:29:10,840 --> 00:29:14,700
+The electrical system aboard Apollo 13's command module
+
+374
+00:29:14,701 --> 00:29:16,840
+contains about 15 miles of wire,
+
+375
+00:29:17,380 --> 00:29:20,020
+enough to wire 50 two-bedroom homes.
+
+376
+00:29:20,021 --> 00:29:23,720
+Apollo 13 will return on Modern Marvels.
+
+377
+00:29:24,880 --> 00:29:29,060
+We now return to Apollo 13 on Modern Marvels.
+
+378
+00:29:30,540 --> 00:29:35,260
+As the astronauts of Apollo 13 drift toward home in their wounded spacecraft,
+
+379
+00:29:35,880 --> 00:29:38,640
+they have done everything possible to conserve their resources.
+
+380
+00:29:39,660 --> 00:29:42,280
+A free return course around the back of the moon
+
+381
+00:29:42,281 --> 00:29:47,320
+has successfully used lunar gravity to slingshot Apollo 13 toward Earth
+
+382
+00:29:47,321 --> 00:29:50,300
+with minimal course adjustments and fuel expenditure.
+
+383
+00:29:52,180 --> 00:29:55,480
+But the largest problem of all remains to be solved.
+
+384
+00:29:56,680 --> 00:30:00,620
+Does Apollo 13 have enough electrical power to get back to Earth?
+
+385
+00:30:02,260 --> 00:30:04,840
+Gene Kranz, the flight director overseeing the mission,
+
+386
+00:30:05,300 --> 00:30:07,500
+has his team on a round-the-clock quest
+
+387
+00:30:07,501 --> 00:30:13,660
+to calculate how the Apollo 13 spacecraft might draw no more than 15 amps per hour.
+
+388
+00:30:13,661 --> 00:30:21,020
+Frankly, you just work whatever it takes to get the job done.
+
+389
+00:30:21,160 --> 00:30:27,340
+To my recollection, I do not recall any arrests for any member of my team for almost two days.
+
+390
+00:30:29,940 --> 00:30:32,420
+Answers were coming in from all over the country.
+
+391
+00:30:33,100 --> 00:30:35,360
+A brain trust assembled by NASA.
+
+392
+00:30:36,060 --> 00:30:42,140
+It included just about everyone who had built, worked on, or thought about the design of Apollo 13.
+
+393
+00:30:43,660 --> 00:30:47,780
+including astronaut Ken Mattingly, who had been scrubbed from the mission.
+
+394
+00:30:48,260 --> 00:30:50,120
+Mattingly was more or less the troubleshooter,
+
+395
+00:30:50,240 --> 00:30:54,860
+moving between the various teams, looking at what was happening, commenting, critiquing.
+
+396
+00:30:54,861 --> 00:31:00,060
+Ken is the kind of guy you like to have on the team because he asks the right questions.
+
+397
+00:31:00,880 --> 00:31:07,780
+And he also senses options and alternatives that maybe people really weren't developing.
+
+398
+00:31:09,260 --> 00:31:12,580
+Kranz and his team are faced with the problem of writing a procedure
+
+399
+00:31:12,581 --> 00:31:15,080
+for something that has never been attempted.
+
+400
+00:31:17,400 --> 00:31:20,380
+Before Apollo 13 can begin re-entry,
+
+401
+00:31:21,140 --> 00:31:24,220
+the spacecraft systems have to be brought back online.
+
+402
+00:31:26,000 --> 00:31:27,620
+It is a tall order.
+
+403
+00:31:28,480 --> 00:31:33,080
+Powered down, Apollo 13 is transmitting scant data back to Houston.
+
+404
+00:31:34,520 --> 00:31:40,140
+In order to extend the consumables so we could coast back to the Earth,
+
+405
+00:31:40,141 --> 00:31:42,040
+which is going to take another 100 and some odd hours,
+
+406
+00:31:42,580 --> 00:31:46,480
+They had to take all the electrical power possible off the lunar module.
+
+407
+00:31:47,320 --> 00:31:50,240
+And so that meant just turning off all of the guidance computers.
+
+408
+00:31:50,560 --> 00:31:55,980
+We left ourselves with a fan to circulate the cabin atmosphere, a radio to talk.
+
+409
+00:31:56,780 --> 00:31:57,560
+And that's about it.
+
+410
+00:31:57,920 --> 00:32:02,380
+The most disturbing thing to the folks on the ground was the fact that all this equipment turned off.
+
+411
+00:32:03,100 --> 00:32:06,160
+They had no further insight into the health of the spacecraft.
+
+412
+00:32:06,161 --> 00:32:13,040
+Without active instrumentation, the launch controllers have to find a way to power up
+
+413
+00:32:13,041 --> 00:32:20,000
+the spacecraft systems with the least amount of electrical drain.
+
+414
+00:32:20,001 --> 00:32:24,820
+Since the lunar module is still connected to the command module, engineers pursue the
+
+415
+00:32:24,821 --> 00:32:28,000
+most logical path.
+
+416
+00:32:28,001 --> 00:32:31,400
+Allow the two units to share electrical resources.
+
+417
+00:32:31,401 --> 00:32:38,000
+It was a long, complex procedure which took people all over the country, contributing
+
+418
+00:32:38,001 --> 00:32:44,840
+to just a running series of debates and discussions about how to do it, until they finally came
+
+419
+00:32:44,841 --> 00:32:50,600
+up with a plan which seemed to fit the power budget.
+
+420
+00:32:50,601 --> 00:32:54,480
+At this point, the lunar module is close to freezing.
+
+421
+00:32:54,481 --> 00:32:59,480
+The walls and windows drip with condensed water.
+
+422
+00:32:59,481 --> 00:33:07,480
+While the ground team labors over the plan, aboard Apollo 13, Commander James Lovell is
+
+423
+00:33:07,481 --> 00:33:09,480
+preoccupied with one inescapable fact.
+
+424
+00:33:09,481 --> 00:33:14,480
+The blue-green orb of the Earth is getting closer, and he hasn't received instructions
+
+425
+00:33:14,481 --> 00:33:19,480
+from Mission Control on exactly how he will restart his spacecraft's electrical systems.
+
+426
+00:33:19,481 --> 00:33:24,960
+They were very slow in getting those instructions up, and I was getting very worried.
+
+427
+00:33:25,100 --> 00:33:28,240
+I mean, we were all in, of course, that it was going to intercept the earth in some manner.
+
+428
+00:33:28,760 --> 00:33:31,600
+And I knew that our people were getting very, very tired.
+
+429
+00:33:32,100 --> 00:33:35,520
+And I tried to chastise the control center saying,
+
+430
+00:33:35,660 --> 00:33:39,740
+let's just get the stuff to turn this thing on and make sure we get it back home safely.
+
+431
+00:33:41,320 --> 00:33:44,780
+The procedure is so complex that when finally complete,
+
+432
+00:33:44,781 --> 00:33:49,380
+it encompasses 400 entries and is 39 pages long.
+
+433
+00:33:49,480 --> 00:33:56,600
+As Lovell pilots the spacecraft, Swigert, with assistance from Hayes, copies down the procedure by hand.
+
+434
+00:33:57,380 --> 00:33:59,163
+No mistakes can be tolerated.
+
+435
+00:33:59,164 --> 00:34:03,160
+A flawless execution is required for the crew to come back alive.
+
+436
+00:34:03,900 --> 00:34:12,300
+We were trying to voice up the procedures to the crew for the final entry that we realized how this exhaustion,
+
+437
+00:34:12,301 --> 00:34:18,780
+the cold temperatures, and the dehydration that Fred Hayes was suffering.
+
+438
+00:34:18,781 --> 00:34:24,060
+and yet he was the man who had to execute the procedures on board the lunar module.
+
+439
+00:34:25,140 --> 00:34:28,900
+It was read up to us and we did not have blank paper.
+
+440
+00:34:29,940 --> 00:34:37,700
+So we had to use the inside and back and front covers on checklist books and burn cards
+
+441
+00:34:37,701 --> 00:34:41,120
+that were meant to be filled in for burns, but we used those
+
+442
+00:34:41,121 --> 00:34:44,380
+because it was very lengthy and it all had to be handwritten.
+
+443
+00:34:44,381 --> 00:34:49,800
+For the power-up procedure to be successful, each man has to do his part.
+
+444
+00:34:50,500 --> 00:34:56,800
+With Lovell guiding the ship, Hayes in the LEM, and Swigert in the command module,
+
+445
+00:34:57,000 --> 00:35:00,640
+they all have to flip a dizzying array of switches in just the right order.
+
+446
+00:35:01,420 --> 00:35:04,240
+We had the lunar module that we were using as our lifeboat.
+
+447
+00:35:04,780 --> 00:35:09,760
+We had the cone-shaped command module, which was required for reentry.
+
+448
+00:35:09,860 --> 00:35:13,080
+It had the only heat shield, but it had a very limited electrical power lifetime.
+
+449
+00:35:13,081 --> 00:35:15,380
+Then we had the damaged service module.
+
+450
+00:35:15,580 --> 00:35:20,180
+We had to maneuver this stock of spacecraft into an orientation
+
+451
+00:35:20,181 --> 00:35:23,740
+so we could separate the pieces on different trajectories.
+
+452
+00:35:24,620 --> 00:35:29,680
+The men of Apollo 13 have passed five days and seven hours in space.
+
+453
+00:35:30,300 --> 00:35:35,080
+It is up to this exhausted crew, who have been subsisting on three hours of sleep per night,
+
+454
+00:35:35,520 --> 00:35:38,500
+to safely guide their spacecraft into the recovery zone.
+
+455
+00:35:38,501 --> 00:35:45,500
+We have to come inside a two degree pie-shaped wedge that comes down to the atmosphere.
+
+456
+00:35:45,501 --> 00:35:49,500
+No less than five and a half degrees, no greater than seven and a half degrees.
+
+457
+00:35:49,501 --> 00:35:52,500
+We had to thread ourselves inside that atmosphere for a safe landing.
+
+458
+00:35:52,501 --> 00:35:56,500
+If we come in too shallow, we skip out like skipping a stone on water.
+
+459
+00:35:56,501 --> 00:36:02,500
+If we come in too steep, the sudden deceleration makes us a fiery meteor for a few brief seconds, and that would be it.
+
+460
+00:36:02,501 --> 00:36:06,500
+The timeline is getting tighter.
+
+461
+00:36:06,501 --> 00:36:12,400
+The crew's recovery window is small, and as it happens, nature is not on their side.
+
+462
+00:36:12,401 --> 00:36:19,900
+A typhoon is developing in the recovery area, making the odds even slimmer for the safe return of Apollo 13.
+
+463
+00:36:19,901 --> 00:36:28,300
+When an Apollo spacecraft re-entered Earth's atmosphere, it generated enough energy to light up Los Angeles for a minute and a half.
+
+464
+00:36:28,301 --> 00:36:32,800
+Apollo 13 will return on Modern Marvels.
+
+465
+00:36:32,801 --> 00:36:37,620
+We now return to Apollo 13 on Modern Marvels.
+
+466
+00:36:39,740 --> 00:36:46,660
+The entire Apollo 13 mission hangs in the balance as the crew begins the complex power-up procedure.
+
+467
+00:36:47,620 --> 00:36:50,440
+The job is expected to take 30 minutes to complete.
+
+468
+00:36:54,240 --> 00:37:02,600
+Even though the spacecraft is chilly and damp, thankfully, not one electrical circuit shorts out from condensation on the wires.
+
+469
+00:37:02,800 --> 00:37:10,800
+On the ground, mission control watches as the spacecraft systems come back online.
+
+470
+00:37:10,801 --> 00:37:16,720
+Command module pilot Jack Swigert is as tired as the rest of the crew, but he faces an absolutely
+
+471
+00:37:16,721 --> 00:37:19,520
+critical task.
+
+472
+00:37:19,521 --> 00:37:23,300
+Jack had the critical thing of throwing the right switch so he got rid of the service
+
+473
+00:37:23,301 --> 00:37:26,640
+module so he wouldn't also get rid of Fred and I on the lunar module.
+
+474
+00:37:26,641 --> 00:37:31,700
+He taped a little thing on the lunar module jettison switch saying no,
+
+475
+00:37:32,380 --> 00:37:36,420
+so that he wouldn't throw that one when Fred and I were in there.
+
+476
+00:37:37,800 --> 00:37:41,880
+Swigert throws the right switch, and the service module is detached.
+
+477
+00:37:44,000 --> 00:37:47,340
+Despite their fatigue and Fred Hayes' high fever,
+
+478
+00:37:47,341 --> 00:37:51,180
+the crew completes the entire procedure in just 21 minutes.
+
+479
+00:37:51,181 --> 00:38:02,060
+the crew watches amazed as the service module drifts away in space 39 529 miles from earth
+
+480
+00:38:02,061 --> 00:38:09,720
+and there's one whole side of that big business is that right right by the high
+
+481
+00:38:09,721 --> 00:38:16,140
+gate antenna the whole panel is blown out almost from the uh base to the engine copy that
+
+482
+00:38:16,141 --> 00:38:25,320
+While the lunar module is okay, for the first time it is clear how much damage to the service module has been caused by the explosion.
+
+483
+00:38:28,080 --> 00:38:31,440
+Back at mission control, there is more bad news.
+
+484
+00:38:32,180 --> 00:38:35,060
+The spacecraft is drawing two more amps than it ought to.
+
+485
+00:38:36,800 --> 00:38:43,640
+Tolerances are so tight that Apollo 13 might run short of electrical power just when it's needed most.
+
+486
+00:38:43,641 --> 00:38:50,980
+added to that concern is the knowledge that the spacecraft has drifted off course
+
+487
+00:38:50,981 --> 00:38:58,080
+it was dicey all the way to the very end the navy came in and said we have a typhoon developing
+
+488
+00:38:58,081 --> 00:39:03,860
+in the pacific just off samoa where we're bringing spacecraft back to and they were really
+
+489
+00:39:03,861 --> 00:39:09,960
+looking at seeing if we could change our landing point any but that is when we determined that
+
+490
+00:39:09,961 --> 00:39:12,580
+we're actually not on the proper return path.
+
+491
+00:39:13,140 --> 00:39:16,780
+As we're now approaching the Earth's atmosphere, we're only about eight hours out.
+
+492
+00:39:17,460 --> 00:39:19,280
+The trajectory people come in and say,
+
+493
+00:39:19,380 --> 00:39:22,680
+hey, flight, we are off our return trajectory again.
+
+494
+00:39:22,740 --> 00:39:27,400
+We have to perform another emergency maneuver to get back in the reentry corridor.
+
+495
+00:39:28,560 --> 00:39:30,940
+The two extra amps are vanquished.
+
+496
+00:39:30,941 --> 00:39:33,140
+When admission controls instruction,
+
+497
+00:39:33,640 --> 00:39:37,400
+part of Apollo 13's backup navigation system is shut down.
+
+498
+00:39:39,960 --> 00:39:46,960
+Finally, reentry begins after five difficult days in space.
+
+499
+00:39:46,961 --> 00:39:52,960
+When you first hit the atmosphere, the very upper reaches, you're ionizing the air to some degree,
+
+500
+00:39:52,961 --> 00:39:56,960
+so the spacecraft, including the interior, takes on a little white glow.
+
+501
+00:39:56,961 --> 00:40:00,960
+Just think of yourself inside of a neon light bulb.
+
+502
+00:40:00,961 --> 00:40:05,960
+The ionization of air around the command module during reentry
+
+503
+00:40:05,961 --> 00:40:10,700
+prevents radio contact with mission control for a period of about four minutes.
+
+504
+00:40:11,340 --> 00:40:16,860
+But during Apollo 13's re-entry, five minutes pass with no communication from the crew.
+
+505
+00:40:18,880 --> 00:40:22,320
+Mission control becomes absolutely silent.
+
+506
+00:40:22,500 --> 00:40:26,320
+All you hear is the noise of the air conditioning and the hum of the electronics
+
+507
+00:40:26,321 --> 00:40:29,400
+and every eye is on the wall, clocks counting down to zero.
+
+508
+00:40:30,200 --> 00:40:33,780
+When it finally hits zero, you say, Apollo 13, Houston.
+
+509
+00:40:33,781 --> 00:40:35,920
+and you don't get any response.
+
+510
+00:40:36,000 --> 00:40:36,760
+All you hear is static.
+
+511
+00:40:37,300 --> 00:40:39,180
+And you call again and you call again
+
+512
+00:40:39,181 --> 00:40:40,740
+and finally after one minute,
+
+513
+00:40:41,180 --> 00:40:43,320
+for the first time in this mission,
+
+514
+00:40:43,560 --> 00:40:45,640
+you're wondering what in the hell happened.
+
+515
+00:40:47,240 --> 00:40:50,380
+But hope is eternal there.
+
+516
+00:40:50,460 --> 00:40:51,340
+You keep calling
+
+517
+00:40:51,341 --> 00:40:53,420
+and at one minute and 27 seconds,
+
+518
+00:40:53,520 --> 00:40:54,420
+you got this call.
+
+519
+00:40:56,500 --> 00:40:57,420
+Okay, go.
+
+520
+00:40:59,840 --> 00:41:01,060
+Okay, we read you, Jack.
+
+521
+00:41:01,061 --> 00:41:05,060
+That was Command Module Pilot Jack Swigert.
+
+522
+00:41:05,061 --> 00:41:09,060
+And when you see those parachutes blossom on that screen,
+
+523
+00:41:09,061 --> 00:41:13,060
+I believe many of the mission controllers, myself included, literally cried.
+
+524
+00:41:13,061 --> 00:41:18,060
+Five days, 22 hours, and 54 minutes into the mission,
+
+525
+00:41:18,061 --> 00:41:24,060
+the Command Module splashes down within four miles of the recovery aircraft carrier.
+
+526
+00:41:24,061 --> 00:41:34,060
+The splashdown comes and of course, if we bob back up again and we see water on the windshield,
+
+527
+00:41:34,061 --> 00:41:37,060
+there's a great, a great sigh of relief.
+
+528
+00:41:37,061 --> 00:41:43,060
+The weary and chilled astronauts board the recovery ship, USS Iwo Jima.
+
+529
+00:41:43,061 --> 00:41:51,060
+The chaplain then turned and he gave a prayer of thanks for the millions and millions of
+
+530
+00:41:51,061 --> 00:41:53,060
+people who prayed for our safe return.
+
+531
+00:41:53,061 --> 00:41:58,480
+Oh Lord, we joyfully welcome back to Earth astronauts Lovell, Hayes, and Swigert.
+
+532
+00:41:59,020 --> 00:42:04,380
+We offer our humble thanksgiving for this successful recovery. Amen.
+
+533
+00:42:05,220 --> 00:42:12,120
+And when that crew hit the carrier deck, and when we handed over our responsibility to the aircraft carrier task force commander,
+
+534
+00:42:12,520 --> 00:42:20,200
+then we could celebrate, and it was only then that we could feel this intense release that we had pulled off a miracle.
+
+535
+00:42:20,201 --> 00:42:27,260
+When the astronauts are reunited with their families in Hawaii, President Richard Nixon
+
+536
+00:42:27,261 --> 00:42:31,420
+awards them the Presidential Medal of Freedom.
+
+537
+00:42:31,421 --> 00:42:35,640
+And the world rejoices at the crew's safe return.
+
+538
+00:42:35,641 --> 00:42:41,540
+Well, it was sort of hard to grasp on all this positive attention we were getting.
+
+539
+00:42:41,541 --> 00:42:47,120
+The one letter that I cherish, Charles Lindbergh, wrote me that he was in the Philippines,
+
+540
+00:42:47,121 --> 00:42:50,500
+been listening to the radio from Manila to how far we were coming and whether we were
+
+541
+00:42:50,501 --> 00:42:53,440
+going to make it or not.
+
+542
+00:42:53,441 --> 00:42:59,320
+Lindbergh, like the astronauts of Apollo 13, knew about staring down fear and overcoming
+
+543
+00:42:59,321 --> 00:43:03,060
+the limitations of a flying machine.
+
+544
+00:43:03,061 --> 00:43:07,000
+Apollo 13, mission-wise, was a failure.
+
+545
+00:43:07,001 --> 00:43:15,520
+But it was a triumph in human ability to take a crisis and through crisis management get
+
+546
+00:43:15,521 --> 00:43:18,820
+almost certain catastrophe back home safely.
+
+547
+00:43:20,940 --> 00:43:23,860
+A triumph of ingenuity and guts,
+
+548
+00:43:24,480 --> 00:43:26,920
+the Apollo 13 mission is often called
+
+549
+00:43:26,921 --> 00:43:29,200
+NASA's most successful failure.
+
+550
+00:43:33,260 --> 00:43:37,400
+It caused the American Space Agency to re-examine itself
+
+551
+00:43:37,401 --> 00:43:39,560
+and the purpose of the space program.
+
+552
+00:43:42,260 --> 00:43:44,260
+In a mission post-mortem,
+
+553
+00:43:44,261 --> 00:43:49,540
+engineers learned that excess voltage fed to the oxygen tank a month before
+
+554
+00:43:49,541 --> 00:43:56,680
+launch had damaged a thermostat causing the tank to overheat and degrading the
+
+555
+00:43:56,681 --> 00:44:02,380
+insulation on the electrical wiring when the fan was turned on for the cryo
+
+556
+00:44:02,381 --> 00:44:07,960
+stir a short circuit resulted in a spark which caused the tank to catch fire and
+
+557
+00:44:07,961 --> 00:44:08,960
+and explode.
+
+558
+00:44:12,800 --> 00:44:15,460
+The lessons learned on the Apollo 13 mission
+
+559
+00:44:15,560 --> 00:44:17,460
+will remain with NASA forever
+
+560
+00:44:18,460 --> 00:44:19,960
+and bring a deeper meaning
+
+561
+00:44:20,260 --> 00:44:22,960
+to the grand mission of going to the moon.
+
+562
+00:44:26,360 --> 00:44:28,780
+For some, it has been seen as an act of necessity.
+

@@ -1,0 +1,2516 @@
+1
+00:00:00,001 --> 00:00:14,001
+Reach across time and see yourself.
+
+2
+00:00:15,820 --> 00:00:19,000
+You stand tall against terrifying enemies.
+
+3
+00:00:20,440 --> 00:00:25,060
+You build masterpieces and break down barriers.
+
+4
+00:00:26,140 --> 00:00:29,560
+You rush into the future and meet your past.
+
+5
+00:00:30,000 --> 00:00:36,480
+For every time, at every moment, the official network of every millennium.
+
+6
+00:00:37,520 --> 00:00:38,620
+The History Channel.
+
+7
+00:00:39,260 --> 00:00:41,540
+Where the past comes alive.
+
+8
+00:00:44,960 --> 00:00:48,920
+The Internet is the defining technology of our time.
+
+9
+00:00:49,300 --> 00:00:54,000
+An historic revolution in communications for the human race that is changing the world.
+
+10
+00:00:54,680 --> 00:00:56,380
+Well, the Internet is the next big thing.
+
+11
+00:00:56,381 --> 00:01:00,620
+It is on a par with the wheel and fire and language and the printing press.
+
+12
+00:01:01,520 --> 00:01:06,660
+The Internet enables millions of people with personal computers to communicate and connect.
+
+13
+00:01:07,460 --> 00:01:08,160
+It's email.
+
+14
+00:01:08,600 --> 00:01:09,500
+You've got mail.
+
+15
+00:01:10,160 --> 00:01:12,700
+It's newsgroups and chat rooms.
+
+16
+00:01:13,740 --> 00:01:17,180
+It's also the world's largest marketplace and shopping mall.
+
+17
+00:01:19,340 --> 00:01:25,000
+And it's a link to websites the world over with information for every aspect of life
+
+18
+00:01:25,001 --> 00:01:27,080
+and even the life after.
+
+19
+00:01:28,840 --> 00:01:33,560
+This is, in fact, the telecommunications infrastructure for the 21st century.
+
+20
+00:01:34,020 --> 00:01:36,080
+But where did the Internet come from?
+
+21
+00:01:37,360 --> 00:01:38,880
+How did it get started?
+
+22
+00:01:40,140 --> 00:01:44,020
+And who built this essential tool and playful toy to millions?
+
+23
+00:01:44,800 --> 00:01:46,520
+And where is it going?
+
+24
+00:01:55,000 --> 00:02:02,500
+This is the age of the Internet, a global network of computer-based communication.
+
+25
+00:02:04,000 --> 00:02:14,300
+At the turn of the 21st century, millions of people around the world are now online every day to exchange messages, conduct business, meet people, and find information.
+
+26
+00:02:15,200 --> 00:02:19,720
+Free from the limits of time, distance, and even tyranny.
+
+27
+00:02:19,721 --> 00:02:28,320
+Computer communication can also be a tool of war to manage materiel and manpower,
+
+28
+00:02:28,800 --> 00:02:31,840
+as the UN coalition did in the war against Saddam Hussein.
+
+29
+00:02:32,900 --> 00:02:39,000
+If you knew where things were and you knew what was available better than your opponent did,
+
+30
+00:02:39,380 --> 00:02:41,400
+then you could organize your offensive.
+
+31
+00:02:41,940 --> 00:02:45,560
+And I think we learned that lesson pretty clearly in the 1992 Gulf War,
+
+32
+00:02:45,680 --> 00:02:48,620
+where we clearly knew where things were better than our opponents did.
+
+33
+00:02:49,720 --> 00:02:54,720
+But the Internet is also a vital information link.
+
+34
+00:02:54,721 --> 00:03:00,720
+During the Kosovo crisis, it carried uncensored news past state-owned newspapers, television and radio,
+
+35
+00:03:00,721 --> 00:03:03,720
+with the real story of the Balkan tragedy.
+
+36
+00:03:06,720 --> 00:03:12,720
+Be it peace or war, the worldwide use of the Internet is practically indispensable.
+
+37
+00:03:12,721 --> 00:03:17,720
+Yet its origins date back only to the 1950s.
+
+38
+00:03:17,721 --> 00:03:24,720
+No invention in history has grown so fast to touch so many lives.
+
+39
+00:03:24,721 --> 00:03:30,720
+It's something that we didn't see with the telephone,
+
+40
+00:03:30,721 --> 00:03:33,720
+with the automobile, or with the printing press.
+
+41
+00:03:33,721 --> 00:03:38,720
+This is an absolutely incredible communications tool,
+
+42
+00:03:38,721 --> 00:03:45,720
+and it gives us instant access to things happening everywhere.
+
+43
+00:03:45,721 --> 00:03:53,558
+In scope, more email is exchanged on the Internet today than first-class letters delivered by the U.S.
+
+44
+00:03:53,559 --> 00:03:54,480
+Post Office.
+
+45
+00:03:57,180 --> 00:04:02,860
+In financial importance, the Internet generated $301 billion in business
+
+46
+00:04:02,861 --> 00:04:08,200
+and was responsible for one-third of the total U.S. economic growth in 1998.
+
+47
+00:04:08,201 --> 00:04:12,360
+It is a key component of our culture and civilization.
+
+48
+00:04:12,361 --> 00:04:16,360
+and yet no one really controls it.
+
+49
+00:04:16,361 --> 00:04:21,360
+Things that matter the most usually don't have anybody in charge.
+
+50
+00:04:21,361 --> 00:04:27,599
+The seminal idea behind the Internet was envisioned by a psychologist named J.C.R.
+
+51
+00:04:27,600 --> 00:04:28,360
+Licklider,
+
+52
+00:04:28,361 --> 00:04:33,360
+a professor at the Massachusetts Institute of Technology in the 1950s.
+
+53
+00:04:33,361 --> 00:04:37,360
+Licklider's vision was that computers would allow you to communicate better
+
+54
+00:04:37,361 --> 00:04:39,360
+and that would allow you to connect all the computers together
+
+55
+00:04:39,361 --> 00:04:43,760
+computers together so that they might be more useful in the sharing of information among people.
+
+56
+00:04:45,040 --> 00:04:49,600
+Computer communication was a flight of imagination far beyond anything at the movies.
+
+57
+00:04:52,400 --> 00:04:57,440
+Computers were portrayed as sci-fi props like electronic brains alongside robots,
+
+58
+00:04:57,441 --> 00:04:59,120
+ray guns and flying saucers.
+
+59
+00:05:02,400 --> 00:05:08,240
+In fact, the idea of a worldwide communications network of computers was far more imaginative
+
+60
+00:05:08,241 --> 00:05:10,040
+than anything Hollywood came up with.
+
+61
+00:05:12,580 --> 00:05:16,920
+After all, the first computers were monstrously large and expensive devices
+
+62
+00:05:16,921 --> 00:05:18,780
+that were never intended to communicate.
+
+63
+00:05:19,580 --> 00:05:21,280
+All the computers were as big as a room.
+
+64
+00:05:21,560 --> 00:05:25,220
+You were lucky to have one in a city or maybe one on a campus
+
+65
+00:05:25,221 --> 00:05:27,320
+or, if you were lucky, one in a room.
+
+66
+00:05:28,160 --> 00:05:31,780
+They could have remained stand-alone computing machines for a long time,
+
+67
+00:05:32,120 --> 00:05:35,580
+but a frightening display of Soviet scientific superiority
+
+68
+00:05:35,581 --> 00:05:42,580
+during the Cold War spurred them into teamwork.
+
+69
+00:05:43,580 --> 00:05:48,580
+In October 1957, the Soviet Union launched Sputnik.
+
+70
+00:05:48,581 --> 00:05:52,580
+To catch up and hopefully surpass the Soviets in space technology,
+
+71
+00:05:52,581 --> 00:05:55,580
+President Eisenhower created the bureau at the Defense Department
+
+72
+00:05:55,581 --> 00:06:00,580
+called ARPA, the Advanced Research Projects Agency.
+
+73
+00:06:00,581 --> 00:06:02,580
+It was in charge of the space program,
+
+74
+00:06:02,581 --> 00:06:05,580
+which then included computer science.
+
+75
+00:06:05,581 --> 00:06:09,580
+But when the space program got its own agency, NASA,
+
+76
+00:06:09,581 --> 00:06:12,580
+computer research fell into relative obscurity.
+
+77
+00:06:12,581 --> 00:06:15,580
+America turned its attention to conquering the stars
+
+78
+00:06:15,581 --> 00:06:18,580
+and beating the Russians in space.
+
+79
+00:06:18,581 --> 00:06:21,580
+I believe that this nation should commit itself
+
+80
+00:06:21,581 --> 00:06:24,580
+to achieving the goal before this decade is out
+
+81
+00:06:24,581 --> 00:06:26,580
+of landing a man on the moon
+
+82
+00:06:26,581 --> 00:06:29,580
+and returning him safely to the Earth.
+
+83
+00:06:32,580 --> 00:06:43,180
+While America gave birth to a space program that grew from a crawl to a run by presidential
+
+84
+00:06:43,181 --> 00:06:48,900
+edict, computer communication was in the embryonic stage, but it was making progress.
+
+85
+00:06:50,180 --> 00:06:56,640
+At MIT, a graduate student named Leonard Kleinrock began applying queuing theory to data transmission.
+
+86
+00:06:57,540 --> 00:07:02,540
+Cueing theory is a fantastic tool for evaluating computer and communication systems.
+
+87
+00:07:03,040 --> 00:07:05,040
+You know, a queue is a very simple structure.
+
+88
+00:07:05,420 --> 00:07:09,140
+It's simply a system to which you arrive, hang around a while, and leave.
+
+89
+00:07:10,140 --> 00:07:12,460
+Like letters going through post offices,
+
+90
+00:07:13,040 --> 00:07:16,560
+Kleinrock showed how packages of data would queue or line up
+
+91
+00:07:16,561 --> 00:07:19,980
+at the nodes of a communications network as they transited through.
+
+92
+00:07:20,720 --> 00:07:24,240
+This way, he could determine the overall speed of the network.
+
+93
+00:07:24,241 --> 00:07:31,240
+He then showed how to speed up the network by implementing two techniques, demand access
+
+94
+00:07:31,241 --> 00:07:32,240
+and distributed control.
+
+95
+00:07:32,241 --> 00:07:38,480
+So the point of demand access, you don't get it till you need it, is the key idea for effective
+
+96
+00:07:38,481 --> 00:07:40,480
+resource sharing with data networks.
+
+97
+00:07:40,481 --> 00:07:46,480
+Now the second principle that I uncovered was the idea that to use distributed control
+
+98
+00:07:46,481 --> 00:07:53,240
+in a network, no one switch device authority should control the entire network.
+
+99
+00:07:53,241 --> 00:07:56,160
+Rather, every switch should share in that control.
+
+100
+00:07:56,760 --> 00:07:58,320
+It should decide the routing procedure,
+
+101
+00:07:58,760 --> 00:08:00,860
+it should decide how much traffic is allowed in,
+
+102
+00:08:01,120 --> 00:08:03,620
+where it's going, when to do reassembly,
+
+103
+00:08:03,960 --> 00:08:06,360
+when to do all of the functions in a distributed fashion.
+
+104
+00:08:07,320 --> 00:08:10,300
+Kleinrock's work was a dawning light on Licklider's vision.
+
+105
+00:08:10,960 --> 00:08:15,180
+It was the aha that computer communication could one day be a reality.
+
+106
+00:08:16,080 --> 00:08:18,220
+It also marked a revolutionary departure
+
+107
+00:08:18,221 --> 00:08:22,140
+from the telephone system's use of a technology called circuit switching.
+
+108
+00:08:22,141 --> 00:08:26,360
+When you make a telephone call, you pick up the phone and you dial a number.
+
+109
+00:08:27,360 --> 00:08:31,520
+And the switching system that connects you with the other telephone
+
+110
+00:08:31,521 --> 00:08:36,120
+actually creates a circuit between the two machines, between the two telephones.
+
+111
+00:08:36,300 --> 00:08:39,420
+And that connection is dedicated to the conversation.
+
+112
+00:08:39,720 --> 00:08:43,640
+Even if you're not saying anything, the communications path is in place,
+
+113
+00:08:43,700 --> 00:08:46,280
+and it's kept there until one or the other of you hangs up.
+
+114
+00:08:47,400 --> 00:08:51,180
+The telephone system had an Achilles heel, and still does.
+
+115
+00:08:51,181 --> 00:08:55,780
+If the connection path between telephones is broken, the call is lost.
+
+116
+00:08:56,920 --> 00:09:01,180
+That weakness became a matter of national security to the military in the early 60s,
+
+117
+00:09:02,000 --> 00:09:04,100
+when they feared a Soviet nuclear attack.
+
+118
+00:09:12,680 --> 00:09:17,820
+Besides leveling American cities, the telephone system would be so damaged
+
+119
+00:09:17,821 --> 00:09:20,940
+that the military would be unable to launch a counterattack.
+
+120
+00:09:21,180 --> 00:09:26,680
+To assure retaliation, America needed an indestructible communications network.
+
+121
+00:09:27,680 --> 00:09:30,380
+Paul Boran was hired to see if one could be built.
+
+122
+00:09:31,180 --> 00:09:37,520
+We started off by playing with fishnet-type networks,
+
+123
+00:09:38,020 --> 00:09:41,720
+so that if you chop it up, there's still a path through the network.
+
+124
+00:09:42,120 --> 00:09:44,100
+Now, the problem was we didn't know how to do that.
+
+125
+00:09:45,440 --> 00:09:50,940
+So we came up with the notion of what we called the hot potato rooting,
+
+126
+00:09:51,180 --> 00:09:56,400
+Sort of a demonstration that it's doable so the traffic can find its way through the network.
+
+127
+00:09:57,020 --> 00:09:59,620
+But to do that, you've got to chop the data up in little pieces.
+
+128
+00:10:00,260 --> 00:10:04,440
+Hot potato routing meant a message transiting a network got to where it was going,
+
+129
+00:10:04,660 --> 00:10:06,720
+even if part of the network was destroyed.
+
+130
+00:10:07,520 --> 00:10:08,400
+But how?
+
+131
+00:10:08,820 --> 00:10:12,740
+Buran was inspired by a previous study of mice in a maze.
+
+132
+00:10:12,741 --> 00:10:21,740
+Claude Shannon, in 1952, built a machine that modeled a mouse finding its way through a maze.
+
+133
+00:10:21,741 --> 00:10:29,740
+And he said, well, if we can model a mouse going through a maze, then we should be able to do the same with information.
+
+134
+00:10:29,741 --> 00:10:38,740
+So the information flows along in each of the packets that's necessary to find its way through the network.
+
+135
+00:10:38,741 --> 00:10:40,740
+That's the key.
+
+136
+00:10:42,740 --> 00:10:45,540
+Next, borrowing an idea from the telegraph,
+
+137
+00:10:46,480 --> 00:10:52,060
+Buran decided to chop up each message into small, equal-sized pieces, called packets.
+
+138
+00:10:52,820 --> 00:10:56,920
+Each packet was like a postcard, with a to and a from address.
+
+139
+00:10:58,040 --> 00:11:02,360
+Each packet gets a header put on it, which says where that packet wants to go,
+
+140
+00:11:02,800 --> 00:11:06,860
+and you launch that packet into the network, and it goes hop, hop, hop through the network,
+
+141
+00:11:07,460 --> 00:11:10,720
+followed on the heels by the other packets, and they may take different paths.
+
+142
+00:11:10,721 --> 00:11:15,180
+But no dedicated path is constantly available for them.
+
+143
+00:11:15,480 --> 00:11:17,920
+They'll find their way along paths that are available.
+
+144
+00:11:19,620 --> 00:11:25,460
+Then, Baran allowed each node to decide where to send each packet as it traversed the network.
+
+145
+00:11:26,480 --> 00:11:32,720
+A node was like a post office that knows where next to send a postcard as it continues its way from sender to recipient.
+
+146
+00:11:32,721 --> 00:11:37,260
+But unlike a post office, a node would keep copies of the packets
+
+147
+00:11:37,261 --> 00:11:41,900
+and keep sending them out until they arrive successfully at the next node.
+
+148
+00:11:42,560 --> 00:11:45,700
+This design for a network, a packet switching network,
+
+149
+00:11:45,960 --> 00:11:50,620
+gets its messages through better than telephones as long as some part of the network functions.
+
+150
+00:11:52,040 --> 00:11:57,180
+The telephone system, which relies on dedicated circuits, fails when circuits are broken.
+
+151
+00:11:57,181 --> 00:12:04,180
+By 1962, there was enough research and theory to show that a viable computer network could be built.
+
+152
+00:12:04,181 --> 00:12:12,180
+But implementing one had to wait seven years, until 1969, coincidentally the same year man first walked on the moon.
+
+153
+00:12:12,181 --> 00:12:18,180
+While this space triumph grew out of a national fear of Soviet domination,
+
+154
+00:12:18,181 --> 00:12:25,180
+the first computer network stemmed from the frustrations of a single ARPA scientist, Bob Taylor.
+
+155
+00:12:27,180 --> 00:12:32,580
+In the early 1960s, surfing was the search for the perfect wave.
+
+156
+00:12:33,540 --> 00:12:35,800
+Mail was only delivered by the post office.
+
+157
+00:12:36,680 --> 00:12:39,420
+Online meant waiting behind someone at the movie theater.
+
+158
+00:12:39,980 --> 00:12:42,800
+And the server was a waitress at your favorite drive-in.
+
+159
+00:12:43,500 --> 00:12:44,520
+Hello, can I take your order?
+
+160
+00:12:44,680 --> 00:12:46,100
+Make mine a ham sandwich and coffee.
+
+161
+00:12:47,320 --> 00:12:48,300
+Mail, mail, mail!
+
+162
+00:12:49,300 --> 00:12:53,920
+But as the decade wore on, new ideas were reshaping America.
+
+163
+00:12:54,680 --> 00:12:56,680
+For some, civil rights was the cause.
+
+164
+00:12:56,681 --> 00:12:58,560
+or stopping the Vietnam War.
+
+165
+00:12:59,200 --> 00:13:01,200
+For others, it was landing on the moon.
+
+166
+00:13:01,201 --> 00:13:02,360
+Pitch 212.
+
+167
+00:13:02,600 --> 00:13:03,480
+Okay, engine stop.
+
+168
+00:13:03,640 --> 00:13:04,760
+We copy you down, Eagle.
+
+169
+00:13:05,300 --> 00:13:07,340
+Listen, Tranquility Base here.
+
+170
+00:13:07,600 --> 00:13:08,540
+The Eagle has landed.
+
+171
+00:13:09,020 --> 00:13:11,300
+Roger, you got a bunch of guys about to turn blue.
+
+172
+00:13:11,360 --> 00:13:12,580
+But in the world of computers,
+
+173
+00:13:13,100 --> 00:13:16,400
+the new big idea was something called time-sharing.
+
+174
+00:13:17,340 --> 00:13:19,920
+The old computers had been big machines
+
+175
+00:13:19,921 --> 00:13:21,200
+that you punched cards
+
+176
+00:13:21,840 --> 00:13:23,600
+and you submitted the cards in decks
+
+177
+00:13:23,601 --> 00:13:25,260
+and the next day you got the answers.
+
+178
+00:13:25,261 --> 00:13:33,679
+But in 1969, timesharing was happening, where you would actually sit at a terminal and you would type in your questions and your programs, and the answer would come
+
+179
+00:13:33,680 --> 00:13:34,860
+back two seconds later.
+
+180
+00:13:35,540 --> 00:13:43,080
+If you were very avant-garde, you had a terminal in your house, and you were logging into a computer across town.
+
+181
+00:13:43,081 --> 00:13:50,840
+In 1966, Bob Taylor of ARPA, the Advanced Research Projects Agency, needed a separate
+
+182
+00:13:50,841 --> 00:13:55,840
+terminal to log into each of several timeshared computers at research centers across the country.
+
+183
+00:13:56,840 --> 00:14:02,260
+No two computers could talk to each other, so Taylor had to move from terminal to terminal
+
+184
+00:14:02,261 --> 00:14:04,477
+to work on a different computer.
+
+185
+00:14:04,478 --> 00:14:08,980
+He knew a single terminal could suffice if all the computers were
+
+186
+00:14:08,981 --> 00:14:10,180
+in a common network.
+
+187
+00:14:12,020 --> 00:14:14,640
+Taylor wanted to build a network
+
+188
+00:14:14,641 --> 00:14:16,100
+because he thought it was crazy
+
+189
+00:14:16,101 --> 00:14:17,800
+that he had to have three different terminals
+
+190
+00:14:17,801 --> 00:14:19,840
+to talk to three different machines.
+
+191
+00:14:20,100 --> 00:14:21,080
+Instead of one terminal,
+
+192
+00:14:21,200 --> 00:14:22,180
+they could talk to all three.
+
+193
+00:14:22,440 --> 00:14:24,320
+So his notion was to pursue
+
+194
+00:14:24,321 --> 00:14:25,900
+the creation of a network
+
+195
+00:14:25,901 --> 00:14:28,980
+which would link heterogeneous computers
+
+196
+00:14:28,981 --> 00:14:31,980
+to each other through this network.
+
+197
+00:14:32,800 --> 00:14:34,360
+Taylor asked his boss for money
+
+198
+00:14:34,361 --> 00:14:35,980
+to build a computer network,
+
+199
+00:14:36,500 --> 00:14:38,400
+arguing that it could save ARPA time,
+
+200
+00:14:38,401 --> 00:14:39,880
+money, and resources.
+
+201
+00:14:41,400 --> 00:14:48,620
+It was a very straightforward connect researchers to expensive computers that you would not want to replicate.
+
+202
+00:14:49,720 --> 00:14:51,220
+Resource sharing was the term.
+
+203
+00:14:51,480 --> 00:14:56,100
+It was logging into remote computers, but then it very quickly went from logging into remote computers
+
+204
+00:14:56,101 --> 00:14:58,900
+to transferring files among these expensive computers.
+
+205
+00:15:00,680 --> 00:15:05,180
+What Taylor wanted had neither the hype nor the expense of going to the moon.
+
+206
+00:15:05,181 --> 00:15:13,180
+He was allocated one million dollars to turn the theories of a computer network into a reality.
+
+207
+00:15:13,181 --> 00:15:18,180
+This was enough to start a chain reaction that changed the world.
+
+208
+00:15:18,181 --> 00:15:22,180
+Of course, at the time, nobody knew it.
+
+209
+00:15:22,181 --> 00:15:26,180
+We all knew that we were dealing with very powerful technology.
+
+210
+00:15:26,181 --> 00:15:32,180
+But I don't think any of us 20 years ago or 25 years ago had any appreciation for what it would be like
+
+211
+00:15:32,181 --> 00:15:37,840
+like if, you know, everybody on the planet had access to information or could produce
+
+212
+00:15:37,841 --> 00:15:39,780
+information and share it.
+
+213
+00:15:39,781 --> 00:15:42,960
+Taylor recruited Larry Roberts for the job.
+
+214
+00:15:42,961 --> 00:15:48,320
+Roberts had built the world's first experimental connection between two computers at the MIT
+
+215
+00:15:48,321 --> 00:15:51,300
+Lincoln Laboratories in Lexington, Massachusetts.
+
+216
+00:15:51,301 --> 00:15:57,740
+I knew that I knew how to do it because I actually had built the first network.
+
+217
+00:15:57,741 --> 00:16:02,060
+I had lived with Len Kleinrock at MIT and learned about packet switching and queuing,
+
+218
+00:16:02,600 --> 00:16:03,660
+because he was my office mate.
+
+219
+00:16:04,120 --> 00:16:07,280
+And so I had built the connection between the two computers
+
+220
+00:16:07,281 --> 00:16:10,160
+as basically the same kind of connection that OpenNet had,
+
+221
+00:16:10,161 --> 00:16:12,420
+except that now we were going to distribute it to more people.
+
+222
+00:16:14,400 --> 00:16:18,280
+Roberts wasn't sure about the best way to network mainframe computers.
+
+223
+00:16:18,920 --> 00:16:20,820
+One way would be to link them in a chain.
+
+224
+00:16:21,420 --> 00:16:23,040
+But this design had a flaw.
+
+225
+00:16:23,041 --> 00:16:30,040
+If you tried to interconnect the large computers directly, then each of those large computers
+
+226
+00:16:30,041 --> 00:16:34,040
+would have to figure out how to work with each of the other large computers.
+
+227
+00:16:34,041 --> 00:16:39,040
+So they would have a tremendous problem in their software to be able to figure out the
+
+228
+00:16:39,041 --> 00:16:44,040
+rules and procedures and protocols for dealing with ten different kinds of computers out
+
+229
+00:16:44,041 --> 00:16:45,040
+in the country.
+
+230
+00:16:45,041 --> 00:16:50,040
+On a cab ride home from a conference, Roberts was inspired with a better way to connect
+
+231
+00:16:50,041 --> 00:16:55,220
+to connect the computers when a fellow engineer suggested building identical special-purpose
+
+232
+00:16:55,221 --> 00:17:00,360
+mini-computers to form the network and tie each timeshared computer to one of them.
+
+233
+00:17:01,340 --> 00:17:05,500
+This way they only had to learn how to deal with the one little computer that you put there.
+
+234
+00:17:06,940 --> 00:17:12,580
+It was a brilliant simplification, and it made the universities more willing to participate
+
+235
+00:17:12,581 --> 00:17:16,480
+in the network because it would not interfere with their own computer projects.
+
+236
+00:17:16,481 --> 00:17:21,180
+On paper, Roberts had the network design figured out.
+
+237
+00:17:21,780 --> 00:17:24,480
+Now all he had to do was find someone to build it.
+
+238
+00:17:24,920 --> 00:17:26,680
+But it wouldn't be the telephone company.
+
+239
+00:17:27,540 --> 00:17:31,200
+The phone companies, A, believed it couldn't be done.
+
+240
+00:17:31,780 --> 00:17:35,440
+B, didn't think it would be useful or anybody would want it if it were done.
+
+241
+00:17:35,580 --> 00:17:40,240
+And C, had huge investments in their current communication systems and weren't interested.
+
+242
+00:17:41,000 --> 00:17:45,540
+If there was going to be a computer network, someone else had to build it.
+
+243
+00:17:45,541 --> 00:17:49,580
+But who?
+
+244
+00:17:49,581 --> 00:17:56,580
+By the standards of today, 1968 was a medieval time of communication technology.
+
+245
+00:17:56,581 --> 00:18:00,580
+Typewriters, not word processors, pounded out letters.
+
+246
+00:18:00,581 --> 00:18:03,580
+Most telephones used rotary dials.
+
+247
+00:18:03,581 --> 00:18:06,940
+Black and white television was as common as color.
+
+248
+00:18:06,941 --> 00:18:11,540
+The height of high tech was the lunar module, which had less computing power than today's
+
+249
+00:18:11,541 --> 00:18:14,540
+personal computer.
+
+250
+00:18:14,541 --> 00:18:25,136
+1968 also was the year Larry Roberts sought out the engineers to build the Advanced Research Projects Agency's computer network, the ARPANET, the acorn that would grow
+
+251
+00:18:25,137 --> 00:18:27,040
+to become the mighty Internet.
+
+252
+00:18:27,960 --> 00:18:38,000
+It was going to be based on special purpose mini computers called interface message processors, or IMPs, and a revolutionary technology called packet switching.
+
+253
+00:18:38,480 --> 00:18:41,844
+So here's the way it works. Suppose I want to send a long document.
+
+254
+00:18:41,845 --> 00:18:43,200
+I feed it into the network.
+
+255
+00:18:43,201 --> 00:18:47,200
+The first thing the network does is chop that up into a lot of little pieces called packets.
+
+256
+00:18:48,080 --> 00:18:53,260
+And each packet is launched into the network, and it tries to find its way to its destination,
+
+257
+00:18:53,560 --> 00:18:55,340
+each packet operating independently.
+
+258
+00:18:56,400 --> 00:18:59,980
+At the other end, the final destination takes all these packets,
+
+259
+00:19:00,140 --> 00:19:02,680
+think of those little postcards carrying your data,
+
+260
+00:19:03,060 --> 00:19:07,520
+puts them back into a long document, and delivers them to the recipient at the other end.
+
+261
+00:19:08,180 --> 00:19:11,260
+The plan was to network four identical imps.
+
+262
+00:19:11,261 --> 00:19:23,360
+Each one was to be attached to a different kind of mainframe computer, a Sigma-7 at UCLA, an SDS-940 at the Stanford Research Institute, an IBM 360-75 at the
+
+263
+00:19:23,361 --> 00:19:29,680
+University of California at Santa Barbara, and a PDP-10 at the University of Utah.
+
+264
+00:19:29,681 --> 00:19:36,680
+Roberts asked 140 companies, including AT&T and IBM, to bid on the project.
+
+265
+00:19:36,681 --> 00:19:40,680
+But the giants of communication and computers refused.
+
+266
+00:19:40,681 --> 00:19:42,680
+They said it wouldn't work.
+
+267
+00:19:42,681 --> 00:19:44,680
+Well, they didn't think it would work.
+
+268
+00:19:44,681 --> 00:19:47,680
+They didn't see that it was very important or mainstream.
+
+269
+00:19:47,681 --> 00:19:51,680
+I mean, after all, communications, we've got our own communication systems here at IBM,
+
+270
+00:19:51,681 --> 00:19:56,680
+and AT&T does the telephone system. What else do we need? What's your problem?
+
+271
+00:19:56,681 --> 00:20:00,500
+So the telecom guys would say, little boy, go away.
+
+272
+00:20:00,900 --> 00:20:02,540
+You represent no revenue to us.
+
+273
+00:20:02,960 --> 00:20:04,080
+And they were right, we didn't.
+
+274
+00:20:04,620 --> 00:20:08,080
+So little boy went away and created Packet Switching on its own.
+
+275
+00:20:09,440 --> 00:20:16,020
+A small Cambridge, Massachusetts company, Bolt, Brannock & Newman, known as BBN, wasn't sure either.
+
+276
+00:20:16,420 --> 00:20:17,700
+But they were willing to try.
+
+277
+00:20:18,580 --> 00:20:20,540
+Frank Hart headed the BBN team.
+
+278
+00:20:21,200 --> 00:20:23,860
+Well, we had to, first of all, figure out if we knew how to do it.
+
+279
+00:20:23,861 --> 00:20:30,740
+I think it was a relatively revolutionary concept to put together a packet switching communication system,
+
+280
+00:20:31,240 --> 00:20:32,700
+and no one had done that before.
+
+281
+00:20:34,300 --> 00:20:40,240
+BBN won the contract and went to work building the emps for the ARPANET on January 1, 1969.
+
+282
+00:20:41,240 --> 00:20:43,740
+The first was due at UCLA in nine months.
+
+283
+00:20:44,580 --> 00:20:48,320
+Hart's team faced a crush of obstacles and very little time.
+
+284
+00:20:48,321 --> 00:20:54,560
+It's not like a scientific discovery of the second law of thermodynamics or finding what
+
+285
+00:20:54,561 --> 00:20:56,280
+DNA molecules look like.
+
+286
+00:20:56,281 --> 00:21:03,260
+It was an engineering problem with dozens of very difficult, messy, undone engineering
+
+287
+00:21:03,261 --> 00:21:04,480
+problems.
+
+288
+00:21:04,481 --> 00:21:08,260
+And some of them were simply the fact that it was such a rushed schedule.
+
+289
+00:21:08,261 --> 00:21:14,340
+UCLA was also under a deadline to write the software so its Sigma-7 computer could communicate
+
+290
+00:21:14,341 --> 00:21:15,600
+with the imp.
+
+291
+00:21:15,601 --> 00:21:22,100
+Ironically, graduate students were chosen to forge this first important link in the world's first computer network.
+
+292
+00:21:23,180 --> 00:21:27,880
+The senior professors who were in charge of each of the projects, the principal investigators, as they're called,
+
+293
+00:21:28,440 --> 00:21:33,260
+really did not spend much time thinking about or focusing on it.
+
+294
+00:21:33,261 --> 00:21:39,140
+It was left to the next tier down, to the graduate students or, in some cases, staff members at places like SRI.
+
+295
+00:21:40,900 --> 00:21:43,480
+Just figure out something useful to do with this.
+
+296
+00:21:43,481 --> 00:21:50,480
+Crocker wrote the code to join UCLA's computer to the first imp in what was to become the ARPANET.
+
+297
+00:21:50,481 --> 00:22:01,480
+The idea of having one computer send a program over to another computer was a big leap in some ways, but very natural in other ways.
+
+298
+00:22:01,481 --> 00:22:04,480
+But in those days there was no commonality across the computers,
+
+299
+00:22:04,481 --> 00:22:09,480
+and so part of what we had to think about was in order to make that idea work there would have to be a common language,
+
+300
+00:22:09,481 --> 00:22:13,840
+would have to be a common language, and we actually spent time trying to define what
+
+301
+00:22:13,841 --> 00:22:15,240
+that language might be.
+
+302
+00:22:17,140 --> 00:22:21,560
+Back at BBN, Hart's team was facing numerous engineering challenges.
+
+303
+00:22:22,500 --> 00:22:25,900
+One was, how do you stop the packets from circulating forever?
+
+304
+00:22:26,660 --> 00:22:29,200
+How do they know when to stop at their destination?
+
+305
+00:22:30,580 --> 00:22:35,900
+You dump a piece of message into the system, and now it's to wind its way through it, at
+
+306
+00:22:35,901 --> 00:22:37,940
+each node picking the best path.
+
+307
+00:22:37,941 --> 00:22:40,240
+Well, what stops it from circulating forever?
+
+308
+00:22:40,860 --> 00:22:43,240
+That was a very difficult technical problem.
+
+309
+00:22:43,320 --> 00:22:44,240
+No one had done that.
+
+310
+00:22:45,060 --> 00:22:47,740
+Another thing, a host has a big message to send.
+
+311
+00:22:47,820 --> 00:22:49,120
+It dumps a big message in.
+
+312
+00:22:49,380 --> 00:22:50,940
+What stops it from overflowing?
+
+313
+00:22:51,120 --> 00:22:55,140
+What protects the system from just having this stuff fall on the floor?
+
+314
+00:22:56,060 --> 00:22:58,400
+And there was a concern about the phone lines.
+
+315
+00:22:58,980 --> 00:23:01,040
+They were built for voice traffic, not data.
+
+316
+00:23:02,560 --> 00:23:04,920
+Special hardware and software was required
+
+317
+00:23:04,921 --> 00:23:08,600
+so that when errors occurred, the imps could retransmit the message.
+
+318
+00:23:11,760 --> 00:23:15,840
+Also, there was no guarantee the mainframe computers would hold up.
+
+319
+00:23:16,420 --> 00:23:20,240
+They were just not built to run non-stop as communications machines.
+
+320
+00:23:21,120 --> 00:23:25,180
+Even worse, how would you know where problems were occurring to fix them?
+
+321
+00:23:26,020 --> 00:23:29,120
+When some guy in some sight hit a key on his keyboard,
+
+322
+00:23:29,660 --> 00:23:32,680
+the message had to go from his keyboard to his big computer,
+
+323
+00:23:32,820 --> 00:23:34,600
+from his big computer to the little computer,
+
+324
+00:23:34,920 --> 00:23:37,380
+through a whole bunch of other little imps at other sites,
+
+325
+00:23:37,480 --> 00:23:39,360
+and finally to a one at the destination,
+
+326
+00:23:39,740 --> 00:23:42,340
+and then into the host, and then they had to come back all the way.
+
+327
+00:23:42,600 --> 00:23:44,000
+And when the guy didn't get an answer,
+
+328
+00:23:44,280 --> 00:23:46,560
+he didn't care where it broke, he just didn't like it.
+
+329
+00:23:46,640 --> 00:23:48,640
+He kicked it, you know, he would yell and scream.
+
+330
+00:23:48,980 --> 00:23:51,500
+So you had to have a way of finding out where it broke.
+
+331
+00:23:51,920 --> 00:23:55,560
+And that was, again, a difficult problem for the network authority,
+
+332
+00:23:55,561 --> 00:23:57,060
+which was us in this case.
+
+333
+00:23:58,880 --> 00:24:03,260
+There were glitches up until the day BBN shipped the first imp to UCLA.
+
+334
+00:24:03,261 --> 00:24:07,260
+In fact, BBN could have kept on improving it forever.
+
+335
+00:24:07,261 --> 00:24:10,260
+There were people in the group that wanted it perfect,
+
+336
+00:24:10,261 --> 00:24:11,260
+and there were other people that said,
+
+337
+00:24:11,261 --> 00:24:13,260
+come on, come on, we've got to get it out of here in nine months.
+
+338
+00:24:13,261 --> 00:24:15,260
+It has to be just good enough.
+
+339
+00:24:15,261 --> 00:24:18,260
+That was the kind of decision that I ended up having to make.
+
+340
+00:24:18,261 --> 00:24:22,260
+What was good enough, and where did one seek more perfection?
+
+341
+00:24:24,260 --> 00:24:30,260
+On September 1, 1969, the first piece of hardware created for the computer network
+
+342
+00:24:30,261 --> 00:24:35,260
+network that was the forerunner of the Internet arrived at UCLA.
+
+343
+00:24:35,261 --> 00:24:40,080
+What I do remember is that they slid the thing in place, turned the power on, and the lights
+
+344
+00:24:40,081 --> 00:24:45,680
+immediately started blinking because the program had been put in before it left BB&N and it
+
+345
+00:24:45,681 --> 00:24:47,040
+was just turned off.
+
+346
+00:24:47,041 --> 00:24:50,080
+When they turned it on again, it picked up right where it left off.
+
+347
+00:24:50,081 --> 00:24:52,100
+Now there wasn't much of a network to speak of.
+
+348
+00:24:52,101 --> 00:24:53,420
+There was the first note at UCLA.
+
+349
+00:24:53,421 --> 00:24:58,500
+They didn't have anybody to talk to, so we just sent traffic to ourselves.
+
+350
+00:24:58,501 --> 00:25:03,680
+By the end of 1969, all four sites were interconnected.
+
+351
+00:25:03,681 --> 00:25:08,060
+Had this primitive computer network failed, the effort to network computers might have
+
+352
+00:25:08,061 --> 00:25:13,320
+been scrapped as just another project beyond the reach of current technology.
+
+353
+00:25:13,321 --> 00:25:15,500
+But it worked.
+
+354
+00:25:15,501 --> 00:25:22,500
+In April 1971, the ARPANET had 18 mainframe computers hooked into the network.
+
+355
+00:25:22,501 --> 00:25:28,020
+Bob Metcalf was a grad student who connected MIT's computer to it.
+
+356
+00:25:28,021 --> 00:25:29,660
+The thrill was connecting things together.
+
+357
+00:25:29,780 --> 00:25:31,180
+You know, there's action at a distance.
+
+358
+00:25:31,400 --> 00:25:34,960
+You know, you can wiggle something here and it moves over there.
+
+359
+00:25:35,460 --> 00:25:40,820
+So I was able to form packets of bits and send them.
+
+360
+00:25:41,240 --> 00:25:44,960
+And over the phone, the guy in California would say, I got it.
+
+361
+00:25:45,660 --> 00:25:47,000
+And I'd say, well, send it back.
+
+362
+00:25:47,100 --> 00:25:48,180
+And then he'd send it back.
+
+363
+00:25:48,181 --> 00:25:54,360
+It was the thrill of reaching out and touching someone or something far away.
+
+364
+00:25:54,361 --> 00:26:00,280
+At first, there wasn't much to do on the ARPANET beyond transferring data files among its members.
+
+365
+00:26:01,000 --> 00:26:03,220
+But then, a new capability was added.
+
+366
+00:26:03,800 --> 00:26:06,860
+The first killer application that would bring in the masses
+
+367
+00:26:06,861 --> 00:26:10,420
+and take the usefulness of computer networking to a new level.
+
+368
+00:26:10,920 --> 00:26:13,020
+That killer app was email.
+
+369
+00:26:14,500 --> 00:26:19,640
+I was actually working on a mail program, but it was a program for a single computer
+
+370
+00:26:19,641 --> 00:26:24,840
+so that you could send messages from yourself to another user on the same time-sharing computer.
+
+371
+00:26:25,580 --> 00:26:28,800
+And I had written a couple of programs to transfer files,
+
+372
+00:26:29,100 --> 00:26:34,400
+and it occurred to me that since the mailbox that I was sending these messages to
+
+373
+00:26:34,401 --> 00:26:38,580
+was nothing more than a file, I could send that file across the network
+
+374
+00:26:38,581 --> 00:26:41,640
+instead of keeping it within the same machine.
+
+375
+00:26:42,280 --> 00:26:46,080
+And so I put two programs together, modified the code a little bit,
+
+376
+00:26:46,081 --> 00:26:49,880
+and the first email program was created.
+
+377
+00:26:50,900 --> 00:26:53,920
+Tomlinson did more than just write the code for email.
+
+378
+00:26:54,700 --> 00:27:00,480
+In a keystroke, he gave the world a new icon for the information age, the at sign.
+
+379
+00:27:01,080 --> 00:27:04,380
+The at sign was the most obvious choice
+
+380
+00:27:04,381 --> 00:27:07,940
+because we're talking about a user who was at some computer.
+
+381
+00:27:08,740 --> 00:27:09,500
+It just made sense.
+
+382
+00:27:10,420 --> 00:27:14,520
+Ironically, what would become one of the most popular applications on the Internet
+
+383
+00:27:14,521 --> 00:27:17,700
+was a program Tomlinson wrote on his own time.
+
+384
+00:27:18,240 --> 00:27:19,740
+It seemed like a neat idea.
+
+385
+00:27:20,940 --> 00:27:23,400
+Nobody was clamoring for email.
+
+386
+00:27:23,620 --> 00:27:28,120
+Our sponsor, Department of Defense, didn't say anything about wanting email.
+
+387
+00:27:28,780 --> 00:27:30,260
+My boss didn't say anything about email.
+
+388
+00:27:31,760 --> 00:27:33,820
+But, in fact, nobody said anything about email
+
+389
+00:27:33,821 --> 00:27:36,720
+because the term wasn't coined until several years later.
+
+390
+00:27:36,940 --> 00:27:41,180
+But it just seemed like an interesting thing to do with a computer and a network.
+
+391
+00:27:41,740 --> 00:27:42,620
+And so I just did it.
+
+392
+00:27:42,621 --> 00:27:49,620
+So then electronic mail became the completely unanticipated killer app, as we say, for the ARPANET.
+
+393
+00:27:49,621 --> 00:27:55,620
+We went from remote login, file transfer, electronic mail in a year flat or two years flat,
+
+394
+00:27:55,621 --> 00:27:59,620
+and then it stayed that way for 20 years.
+
+395
+00:27:59,621 --> 00:28:05,620
+In October 1972, ARPA turned science fiction into science fact
+
+396
+00:28:05,621 --> 00:28:09,620
+when it demonstrated the computer network in Washington, D.C.
+
+397
+00:28:09,621 --> 00:28:21,620
+But unlike flying saucers, this idea really did take over the world.
+
+398
+00:28:21,621 --> 00:28:27,220
+The telephone, television, radio and postal systems are essential communication infrastructures
+
+399
+00:28:27,221 --> 00:28:31,520
+for life as we know it.
+
+400
+00:28:31,521 --> 00:28:37,180
+But as the world enters a new millennium, it appears as if the Internet, begun in 1969
+
+401
+00:28:37,181 --> 00:28:42,980
+an experimental computer network, is gradually absorbing many of their functions.
+
+402
+00:28:42,981 --> 00:28:47,380
+The Internet can do that because it was built with an open architecture.
+
+403
+00:28:47,381 --> 00:28:52,920
+It's a super highway with plenty of on-ramps, lanes and no traffic restrictions.
+
+404
+00:28:52,921 --> 00:28:55,820
+It handles whatever comes down the road.
+
+405
+00:28:55,821 --> 00:29:01,280
+This generality of purpose is the brilliance of its design.
+
+406
+00:29:01,281 --> 00:29:06,520
+We were very conscious that we were opening up new territory and that rather than pick
+
+407
+00:29:06,521 --> 00:29:13,440
+very limited applications that we ought to lay a foundation that was as broad and open-ended as possible.
+
+408
+00:29:14,640 --> 00:29:16,700
+Inclusion guided the network's development.
+
+409
+00:29:17,560 --> 00:29:21,040
+Anyone could contribute ideas about its use and how to improve it.
+
+410
+00:29:21,960 --> 00:29:27,620
+Ideas were offered as requests for comments so everyone would feel free to discuss and criticize them.
+
+411
+00:29:27,621 --> 00:29:37,860
+I wanted to emphasize the point that we were not making assertions or edicts, but that
+
+412
+00:29:37,861 --> 00:29:42,900
+we were trying to create a dialogue, that we were putting forth ideas and that it was
+
+413
+00:29:42,901 --> 00:29:45,720
+supposed to engender responses.
+
+414
+00:29:45,721 --> 00:29:48,500
+And so we made the simplest possible rules.
+
+415
+00:29:48,501 --> 00:29:53,680
+Anybody could write anything they want, that it had no status, that it got whatever credibility
+
+416
+00:29:53,681 --> 00:29:57,020
+it got from its content, not from the fact that it had been blessed by somebody.
+
+417
+00:29:57,021 --> 00:30:02,020
+There's a kind of Internet culture which grew out of the academic community.
+
+418
+00:30:02,021 --> 00:30:06,020
+What you find is that there's a tradition of sharing of knowledge
+
+419
+00:30:06,021 --> 00:30:08,020
+and people will add to it.
+
+420
+00:30:08,021 --> 00:30:11,020
+They will find mistakes and bugs and they'll fix them.
+
+421
+00:30:11,021 --> 00:30:13,020
+They'll tell you about them and everybody else.
+
+422
+00:30:13,021 --> 00:30:18,020
+The rate of evolution, the rate at which the new functionality can be added
+
+423
+00:30:18,021 --> 00:30:23,020
+is very higher, much higher, simply because so many people are contributing to it.
+
+424
+00:30:23,021 --> 00:30:28,020
+By 1972, the ARPANET had fewer than 25 sites online.
+
+425
+00:30:28,640 --> 00:30:29,680
+Yet more were coming.
+
+426
+00:30:30,680 --> 00:30:35,260
+What sparked the increase was the first international conference on computers and communication,
+
+427
+00:30:35,800 --> 00:30:38,740
+sponsored by ARPA as a coming-out party for its network.
+
+428
+00:30:40,620 --> 00:30:47,280
+Bob Metcalf, fresh from MIT and Harvard, was in charge of compiling a list of just what the network could do.
+
+429
+00:30:47,281 --> 00:30:53,120
+So all I did was contact all the people who had computers on the ARPANET,
+
+430
+00:30:53,160 --> 00:30:57,040
+and there weren't very many, like 19 or 23 or some number,
+
+431
+00:30:57,100 --> 00:31:00,080
+and said, do you have something interesting that's going on at your host
+
+432
+00:31:00,081 --> 00:31:02,420
+that you'd like other people to access over the net?
+
+433
+00:31:03,280 --> 00:31:07,420
+Metcalfe could only find a few esoteric uses for the fledgling network,
+
+434
+00:31:07,900 --> 00:31:11,960
+but at this early stage, that was enough for an impressive demonstration.
+
+435
+00:31:11,961 --> 00:31:21,200
+By the time of this demo, I could find 19, 19, imagine that, 19 different things that you could do on the net.
+
+436
+00:31:21,840 --> 00:31:24,260
+And they had a program that pretended to be a psychotic.
+
+437
+00:31:24,580 --> 00:31:26,220
+They had games that you could play.
+
+438
+00:31:26,400 --> 00:31:31,200
+They had demonstrations of symbolic manipulation of mathematical formulas.
+
+439
+00:31:31,560 --> 00:31:38,900
+They had more technical things like remote job entry for submitting jobs from one computer to the next and getting the results back.
+
+440
+00:31:38,901 --> 00:31:43,900
+But demonstrations sometimes go wrong, and at the wrong time.
+
+441
+00:31:43,901 --> 00:31:47,900
+Well, imagine a graduate student, big red beard.
+
+442
+00:31:47,901 --> 00:31:53,900
+I put together this book, and in walks ten AT&T executives, all in pinstripe suits.
+
+443
+00:31:53,901 --> 00:32:00,900
+And they needed someone to give them a tour of the ARPANET, so I was the natural choice, having done the book.
+
+444
+00:32:00,901 --> 00:32:04,900
+So they gave me these ten executives, and I started giving them the tour.
+
+445
+00:32:04,901 --> 00:32:08,740
+them the tour and right in the middle of the tour the ARPANET for the only time
+
+446
+00:32:08,741 --> 00:32:12,160
+during the two or three days of the demonstration the net crashed the
+
+447
+00:32:12,161 --> 00:32:19,120
+computer the imp crashed and the demo froze and here's this poor graduate
+
+448
+00:32:19,121 --> 00:32:22,480
+student having worked on this for several years and being his life's work
+
+449
+00:32:22,481 --> 00:32:27,760
+and he turns around and these ten AT&T executives thought it was funny in fact
+
+450
+00:32:27,761 --> 00:32:32,020
+were somewhat amused and happy that it had crashed because this was very
+
+451
+00:32:32,021 --> 00:32:38,440
+reassuring to their lifestyle and their technology that this packet switching was just too
+
+452
+00:32:38,441 --> 00:32:40,280
+unreliable and they didn't have to worry about it.
+
+453
+00:32:40,281 --> 00:32:46,420
+And the fact that they were amused angered me greatly, angered me.
+
+454
+00:32:46,500 --> 00:32:50,420
+In fact, to this day, many years later, I still have a thing against telephone companies
+
+455
+00:32:50,421 --> 00:32:51,121
+for that reason.
+
+456
+00:32:52,900 --> 00:32:56,860
+After the conference, the development of computer networks took off.
+
+457
+00:32:57,720 --> 00:33:00,920
+Networks soon began to multiply throughout the Western world.
+
+458
+00:33:02,020 --> 00:33:08,020
+The National Science Foundation made being on their network a requisite for receiving grant money.
+
+459
+00:33:09,280 --> 00:33:10,860
+Soon other networks emerged.
+
+460
+00:33:11,340 --> 00:33:15,340
+There were LANs, or local area networks, to link computers throughout offices,
+
+461
+00:33:16,260 --> 00:33:21,620
+and WANs, or wide area networks, to link computers across buildings or campuses.
+
+462
+00:33:22,460 --> 00:33:26,640
+But each new network was like a foreign country speaking its own language.
+
+463
+00:33:27,020 --> 00:33:31,140
+Could disparate networks be interconnected to make an Internet work?
+
+464
+00:33:32,020 --> 00:33:41,020
+In 1973, Ben Cerf and Bob Kahn teamed up to develop a set of rules or procedures known as the TCP IP protocol
+
+465
+00:33:41,021 --> 00:33:47,020
+that, if followed by different computer networks, would allow them to pass their message packets back and forth.
+
+466
+00:33:48,020 --> 00:33:57,020
+The protocolon, which actually is the term used to describe a little piece of papyrus that goes on the front of a scroll.
+
+467
+00:33:57,021 --> 00:33:57,721
+scroll.
+
+468
+00:33:57,722 --> 00:34:01,520
+But the protocol on this is in fact the little thing that tells you what's in
+
+469
+00:34:01,521 --> 00:34:03,272
+the rest of the scroll.
+
+470
+00:34:03,273 --> 00:34:08,300
+We use that term because packets have headers on them at the front
+
+471
+00:34:08,301 --> 00:34:12,080
+that say where they're going, where they came from, and what information they contain, and
+
+472
+00:34:12,081 --> 00:34:16,300
+then comes the information itself. We thought that represented a protocol too.
+
+473
+00:34:16,301 --> 00:34:19,999
+The TCP IP protocol enabled the networks to interconnect.
+
+474
+00:34:20,000 --> 00:34:22,140
+Cerf and Kahn called the computer
+
+475
+00:34:22,141 --> 00:34:26,680
+in the network that would know the protocol and thus be able to communicate across networks
+
+476
+00:34:26,681 --> 00:34:27,680
+the gateway.
+
+477
+00:34:27,681 --> 00:34:32,560
+This puzzle has some pieces already on the board.
+
+478
+00:34:32,561 --> 00:34:34,560
+I had computers of various kinds.
+
+479
+00:34:34,561 --> 00:34:36,840
+I had networks of various kinds.
+
+480
+00:34:36,841 --> 00:34:39,460
+And I wasn't allowed to mess around with the networks.
+
+481
+00:34:39,461 --> 00:34:42,560
+The only place that could know were the outside of the networks.
+
+482
+00:34:42,561 --> 00:34:44,360
+Well, what's outside the networks?
+
+483
+00:34:44,361 --> 00:34:46,440
+The host computers are outside.
+
+484
+00:34:46,441 --> 00:34:51,840
+And then I needed something that would interconnect the networks to each other.
+
+485
+00:34:51,841 --> 00:34:56,660
+And as Bob and I discussed all this, we concluded we needed something that we call the gateway.
+
+486
+00:34:56,661 --> 00:35:01,260
+gateway that knew how to talk to each of the networks it was connected to, which could
+
+487
+00:35:01,261 --> 00:35:11,260
+be two or three or four, and could encapsulate, envelope, packets coming from the host computers
+
+488
+00:35:11,261 --> 00:35:15,480
+into packets going through the underlying networks.
+
+489
+00:35:16,420 --> 00:35:21,360
+Others proposed different protocols, but if there wasn't a common one for all networks
+
+490
+00:35:21,361 --> 00:35:27,100
+to follow, a common language, there would be several Internets instead of a single unified one.
+
+491
+00:35:28,060 --> 00:35:35,640
+Finally, in 1983, after 10 years of refinement and bureaucratic haggling, TCPIP was adopted as
+
+492
+00:35:35,641 --> 00:35:42,300
+the universal standard, marking a milestone in the development of the Internet, a common network of
+
+493
+00:35:42,301 --> 00:35:44,519
+interconnected networks.
+
+494
+00:35:44,520 --> 00:35:50,900
+If we have enough in common, if we hold enough in common, then we can
+
+495
+00:35:50,901 --> 00:35:56,015
+communicate. If we don't hold enough in common, it's much harder.
+
+496
+00:35:56,016 --> 00:35:58,140
+So in fact, the reason that
+
+497
+00:35:58,141 --> 00:36:04,540
+the network works at all is that we have worked very hard to create all this commonality so that
+
+498
+00:36:04,541 --> 00:36:10,483
+we share enough knowledge to make it possible to convey information to each other.
+
+499
+00:36:10,484 --> 00:36:11,280
+The ARPANET
+
+500
+00:36:11,281 --> 00:36:16,420
+was developed as a tool for defense research and restricted to select universities and think tanks
+
+501
+00:36:16,421 --> 00:36:20,558
+engaged in government projects, not individuals or businesses.
+
+502
+00:36:20,559 --> 00:36:22,760
+For this reason, private networks
+
+503
+00:36:22,761 --> 00:36:28,000
+like Prodigy, CompuServe, and what came to be called America Online started to spring
+
+504
+00:36:28,001 --> 00:36:33,300
+up where individuals could join in. Still, the Internet had not reached Main Street,
+
+505
+00:36:33,440 --> 00:36:39,011
+USA, but a major milestone in its young life was about to see all that change.
+
+506
+00:36:39,012 --> 00:36:40,440
+Unlike technological
+
+507
+00:36:40,441 --> 00:36:45,180
+breakthroughs that swell the use of computer networks, this milestone was political.
+
+508
+00:36:46,420 --> 00:36:50,520
+It would unleash the full power of free enterprise and American ingenuity
+
+509
+00:36:50,521 --> 00:36:55,340
+and bring a worldwide communications network into the home and office.
+
+510
+00:37:00,360 --> 00:37:04,120
+The Internet grew by the fate and fortune of new technologies.
+
+511
+00:37:05,480 --> 00:37:09,860
+Among them were breakthroughs in electronics that brought mainframe computer power
+
+512
+00:37:09,861 --> 00:37:12,720
+down to the size and cost of a desktop PC.
+
+513
+00:37:12,721 --> 00:37:19,680
+The silicon chip, the high-speed modem, and the computer mouse are as significant in shaping
+
+514
+00:37:19,681 --> 00:37:22,600
+the use of the Internet as the first imp.
+
+515
+00:37:22,601 --> 00:37:28,820
+However, one of the Internet's major milestones was achieved not by technology, but by an
+
+516
+00:37:28,821 --> 00:37:31,740
+act of Congress.
+
+517
+00:37:31,741 --> 00:37:37,220
+On June 9, 1992, Congress passed a bill taking the Internet out of the exclusive hands of
+
+518
+00:37:37,221 --> 00:37:39,440
+government and into the public.
+
+519
+00:37:39,441 --> 00:37:42,360
+The following November, President Bush signed it into law.
+
+520
+00:37:42,361 --> 00:37:44,880
+The Internet had crossed the Rubicon.
+
+521
+00:37:44,881 --> 00:37:48,900
+The government, in particular National Science Foundation, which had been investing in research
+
+522
+00:37:48,901 --> 00:37:54,120
+in the ARPANET and then the Internet, began to get the idea that maybe this should be
+
+523
+00:37:54,121 --> 00:37:55,120
+turned loose.
+
+524
+00:37:55,121 --> 00:38:01,200
+This technology should be turned loose into the open world for commercial use, for whatever
+
+525
+00:38:01,201 --> 00:38:02,200
+use.
+
+526
+00:38:02,201 --> 00:38:07,200
+And that unleashed a lot of commercial energy and competition and progress.
+
+527
+00:38:09,440 --> 00:38:13,940
+By allowing free enterprise and individuals access to the Internet,
+
+528
+00:38:15,060 --> 00:38:20,000
+the seeds were planted that would flourish into many new and previously unimagined uses.
+
+529
+00:38:25,480 --> 00:38:31,940
+But the dream of easily sharing information among computers was thwarted by the complexity of finding it.
+
+530
+00:38:32,360 --> 00:38:35,540
+It was like having the Library of Congress at your disposal,
+
+531
+00:38:35,541 --> 00:38:41,980
+but being unable to gather what was written on a desired topic without tedious and often discouraging hunts.
+
+532
+00:38:43,120 --> 00:38:48,920
+Under 1980s technology, it was difficult to research a topic without being a computer wizard.
+
+533
+00:38:50,820 --> 00:38:54,900
+Around the same time that Congress was opening the Internet to more people,
+
+534
+00:38:55,460 --> 00:39:01,840
+a physicist named Tim Berners-Lee at the CERN Research Institute in Switzerland created an easier way.
+
+535
+00:39:01,841 --> 00:39:08,480
+CERN was a microcosm of the rest of the world in that it was global.
+
+536
+00:39:08,920 --> 00:39:13,020
+A lot of people reporting to different institutes, trying to solve problems together.
+
+537
+00:39:14,000 --> 00:39:18,380
+But unlike the rest of the world, most people had workstations on their desks.
+
+538
+00:39:19,020 --> 00:39:23,160
+Berners-Lee developed the software to more easily follow threads of knowledge
+
+539
+00:39:23,161 --> 00:39:25,740
+within the information stored throughout the Internet.
+
+540
+00:39:25,741 --> 00:39:31,740
+Computers are good at storing information in trees, in matrices.
+
+541
+00:39:31,741 --> 00:39:33,740
+They'd been programmed to work like that.
+
+542
+00:39:33,741 --> 00:39:38,740
+They hadn't really been programmed to store information in random associations,
+
+543
+00:39:38,741 --> 00:39:42,740
+so that when you smell a particular type of coffee
+
+544
+00:39:42,741 --> 00:39:44,740
+and it takes you back to the coffee house where you first smelt it,
+
+545
+00:39:44,741 --> 00:39:46,740
+that is the sort of thing a brain can store.
+
+546
+00:39:46,741 --> 00:39:49,740
+That's not the sort of thing that computers were programmed to store.
+
+547
+00:39:49,741 --> 00:39:54,740
+By using a computer mouse to click on a word or phrase linked across the Internet,
+
+548
+00:39:54,741 --> 00:40:00,740
+One could instantaneously follow a link from site to site around the web in pursuit of a topic.
+
+549
+00:40:00,741 --> 00:40:05,740
+The crisscrossing of these myriad threads across the globe reminded him of a web.
+
+550
+00:40:05,741 --> 00:40:10,740
+So he named his invention the World Wide Web.
+
+551
+00:40:10,741 --> 00:40:13,740
+The next thing you know, it started growing on itself.
+
+552
+00:40:13,741 --> 00:40:16,740
+It went from just Tim in his little computer in Switzerland
+
+553
+00:40:16,741 --> 00:40:22,740
+to a worldwide phenomenon carrying billions going on trillions of dollars of commerce.
+
+554
+00:40:22,741 --> 00:40:24,600
+It's just an incredible story.
+
+555
+00:40:25,720 --> 00:40:27,580
+And completely unexpected.
+
+556
+00:40:27,760 --> 00:40:30,060
+None of the geniuses who designed the ARPANET in the beginning
+
+557
+00:40:30,061 --> 00:40:32,280
+had any idea that anything like that would happen.
+
+558
+00:40:34,380 --> 00:40:38,420
+Even though the World Wide Web made it easier to follow threads of information,
+
+559
+00:40:38,780 --> 00:40:41,160
+it was not terribly user-friendly at first.
+
+560
+00:40:41,640 --> 00:40:44,800
+But it gave the Internet a revolutionary new capability
+
+561
+00:40:44,801 --> 00:40:47,200
+beyond file transfers and email.
+
+562
+00:40:47,201 --> 00:40:55,400
+Still, in 1992, there were only 50 web pages on the Internet.
+
+563
+00:40:55,401 --> 00:41:00,760
+If the World Wide Web made the Internet more accessible, another development rocketed it
+
+564
+00:41:00,761 --> 00:41:05,240
+to near instantaneous acceptance by people far and wide.
+
+565
+00:41:05,241 --> 00:41:10,180
+This was a very user-friendly software used to browse the World Wide Web.
+
+566
+00:41:10,181 --> 00:41:15,700
+It was developed in 1993 at the University of Illinois by a 22-year-old student named
+
+567
+00:41:15,701 --> 00:41:16,700
+Mark Andreessen.
+
+568
+00:41:16,701 --> 00:41:22,400
+It was called Mosaic and later commercialized by Netscape that enabled access to the World
+
+569
+00:41:22,401 --> 00:41:28,400
+Wide Web and therefore made it a lot easier for people to get access to content.
+
+570
+00:41:28,401 --> 00:41:33,540
+Mark Andreessen's browser turned the Internet into a graphically rich world, the very signature
+
+571
+00:41:33,541 --> 00:41:35,620
+of today's Internet.
+
+572
+00:41:35,621 --> 00:41:41,380
+It was able to display text, use scroll bars, jump around the Web at the click of a mouse.
+
+573
+00:41:41,381 --> 00:41:44,600
+In short, it was the essence of user-friendly.
+
+574
+00:41:44,601 --> 00:41:48,600
+It wasn't the first or the last browser, but it was a breakthrough application.
+
+575
+00:41:48,601 --> 00:41:49,600
+In this case, a short video like this.
+
+576
+00:41:49,601 --> 00:41:54,600
+The killer app that brought the fire of the Internet and web to humankind.
+
+577
+00:41:54,601 --> 00:42:07,600
+In 1993, after Andreessen's browser hit, the web grew by 341,000 percent.
+
+578
+00:42:07,601 --> 00:42:12,600
+By the late 90s, the Internet had grown in simplicity of use, complexity of performance,
+
+579
+00:42:12,601 --> 00:42:14,320
+and multiplicity of information.
+
+580
+00:42:15,380 --> 00:42:19,360
+It now had completely redefined the use of the personal computer.
+
+581
+00:42:20,860 --> 00:42:24,480
+What was once an in-house word processor and spreadsheet calculator
+
+582
+00:42:24,481 --> 00:42:27,620
+was by the end of the 20th century
+
+583
+00:42:27,621 --> 00:42:30,000
+a way to get out of the house without leaving it.
+
+584
+00:42:31,080 --> 00:42:33,580
+A way to go online with the world.
+
+585
+00:42:36,360 --> 00:42:39,500
+Well, the only reason you have a television is because of the network
+
+586
+00:42:39,501 --> 00:42:42,020
+and pretty soon that will be true of computers.
+
+587
+00:42:42,021 --> 00:42:44,760
+that the only reason you have a computer is to be on the network,
+
+588
+00:42:44,880 --> 00:42:46,780
+not to do word processing and spreadsheets.
+
+589
+00:42:46,880 --> 00:42:47,600
+Those are incidental.
+
+590
+00:42:48,960 --> 00:42:51,100
+At the start of the 21st century,
+
+591
+00:42:51,560 --> 00:42:53,000
+the Internet is turning everything,
+
+592
+00:42:53,320 --> 00:42:55,220
+from business to games to dating,
+
+593
+00:42:55,580 --> 00:42:58,020
+into a series of keystrokes and mouse clicks.
+
+594
+00:42:58,640 --> 00:43:02,900
+Everything the free enterprise system can put on sale is going online.
+
+595
+00:43:04,180 --> 00:43:06,500
+Web pages can even turn one person's interest,
+
+596
+00:43:06,660 --> 00:43:07,620
+no matter how unique,
+
+597
+00:43:07,980 --> 00:43:09,940
+into a source of information for others.
+
+598
+00:43:09,941 --> 00:43:18,940
+This online community called Netizens now communicates and connects around the globe, unfettered by boundaries and borders,
+
+599
+00:43:18,941 --> 00:43:25,940
+all because of this great communications infrastructure that was built like a great cathedral, one brick at a time.
+
+600
+00:43:27,940 --> 00:43:32,940
+This marvel of art and science is still very much under construction.
+
+601
+00:43:32,941 --> 00:43:38,300
+To make something happen on the scale that it has worldwide, it really takes lots of
+
+602
+00:43:38,301 --> 00:43:40,700
+people to see opportunity and go capitalize on it.
+
+603
+00:43:40,701 --> 00:43:47,400
+The combination of email as we've traditionally known it, augmented by graphics and video
+
+604
+00:43:47,401 --> 00:43:53,220
+and voice, is going to become the wave of the future.
+
+605
+00:43:53,221 --> 00:43:57,500
+And it's going to be hard to tell the difference between voice communication and email, because
+
+606
+00:43:57,501 --> 00:44:04,500
+if email can contain voice, then that will probably suffice. It's coming right now.
+
+607
+00:44:05,020 --> 00:44:10,100
+What began as a million-dollar investment by the government in 1969 to link computers
+
+608
+00:44:10,101 --> 00:44:15,090
+to share information was now, at the turn of the century, the future.
+
+609
+00:44:15,091 --> 00:44:16,320
+At present, there
+
+610
+00:44:16,321 --> 00:44:23,320
+are over 11 million domain names registered on the Internet and nearly 70 million websites.
+
+611
+00:44:23,321 --> 00:44:28,160
+www.com and at are the new icons of the information age.
+
+612
+00:44:28,700 --> 00:44:31,400
+With the enormous use of the Internet and the Web,
+
+613
+00:44:31,880 --> 00:44:34,240
+innovation and evolution will continue,
+
+614
+00:44:34,820 --> 00:44:38,620
+and it will reinvent communications of all kinds.
+
+615
+00:44:40,460 --> 00:44:44,300
+I don't think we know yet just how important this is.
+
+616
+00:44:44,301 --> 00:44:46,960
+Many of us believe that this is, in fact,
+
+617
+00:44:47,200 --> 00:44:50,200
+the telecommunications infrastructure for the 21st century,
+
+618
+00:44:50,201 --> 00:44:54,180
+that it will absorb and support all of the other media,
+
+619
+00:44:54,320 --> 00:44:56,140
+telephony, television, radio,
+
+620
+00:44:56,480 --> 00:44:58,600
+and of course conventional computer communications.
+
+621
+00:44:59,180 --> 00:45:01,400
+But in some sense, it's still early days.
+
+622
+00:45:01,600 --> 00:45:04,960
+Remember that this system is no older in 1999
+
+623
+00:45:04,961 --> 00:45:08,200
+than the telephone system was in 1900.
+
+624
+00:45:08,460 --> 00:45:12,280
+You know, the telephone's 123 years old.
+
+625
+00:45:12,460 --> 00:45:14,840
+The Internet is only 30 years old.
+
+626
+00:45:15,060 --> 00:45:17,400
+And it's got a lot of future ahead of it.
+
+627
+00:45:17,401 --> 00:45:21,780
+So don't think for a moment that this little look at the history is going to capture it all,
+
+628
+00:45:21,880 --> 00:45:24,100
+because it's happening right now, even as we sit here.
+
+629
+00:46:14,440 --> 00:46:15,640
+topic
+

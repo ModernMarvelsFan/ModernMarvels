@@ -1,0 +1,3016 @@
+1
+00:00:00,001 --> 00:00:05,080
+A plumbing failure creates a sinkhole that can swallow a mansion.
+
+2
+00:00:06,280 --> 00:00:09,980
+A dance party turns deadly when designer skywalks collapse.
+
+3
+00:00:10,980 --> 00:00:15,000
+A dangerous cloud of gas explodes into a fiery industrial disaster.
+
+4
+00:00:16,880 --> 00:00:20,420
+Dykes and levees give way to floodwaters that claim the lives of millions.
+
+5
+00:00:21,800 --> 00:00:28,100
+And the miracle mineral turns out to be an invisible killer that suffocates thousands each year.
+
+6
+00:00:28,101 --> 00:00:33,100
+Now, Engineering Disasters on Modern Marvels.
+
+7
+00:00:33,101 --> 00:00:47,101
+Liquefied Natural Gas, or LNG, has become an increasingly popular energy choice for many nations.
+
+8
+00:00:51,500 --> 00:00:59,080
+Though LNG has enjoyed a relatively safe track record, it can be an extremely dangerous commodity, capable of causing massive fires.
+
+9
+00:00:59,081 --> 00:01:03,240
+LNG is natural gas in a liquid form.
+
+10
+00:01:04,240 --> 00:01:07,900
+When natural gas is cooled to minus 259 degrees Fahrenheit,
+
+11
+00:01:08,420 --> 00:01:11,180
+it becomes a clear, colorless, odorless liquid.
+
+12
+00:01:11,500 --> 00:01:16,100
+By liquefying the natural gas, you reduce its volume by a factor of about 640,
+
+13
+00:01:16,260 --> 00:01:18,040
+so you make it much, much smaller in volume,
+
+14
+00:01:18,460 --> 00:01:21,000
+and it allows you to store it much more economically.
+
+15
+00:01:21,760 --> 00:01:27,200
+This property of LNG allows for cost-effective transport of massive quantities of natural gas.
+
+16
+00:01:29,080 --> 00:01:38,080
+Today, more than 150 LNG ocean tankers transport over 110 million metric tons of LNG annually to ports around the world.
+
+17
+00:01:41,080 --> 00:01:47,080
+By 2010, LNG is projected to fulfill 10% of U.S. energy needs.
+
+18
+00:01:47,081 --> 00:01:58,980
+There are currently 70 storage facilities called peak shaving plants in North America.
+
+19
+00:01:58,981 --> 00:02:01,820
+They store LNG for peak demands.
+
+20
+00:02:02,280 --> 00:02:08,780
+We also have five LNG import terminals and one export terminal in the U.S.
+
+21
+00:02:09,120 --> 00:02:14,480
+By 2010, we probably will have five or six more import terminals.
+
+22
+00:02:14,481 --> 00:02:19,520
+The concept of liquefying natural gas dates back to the 19th century.
+
+23
+00:02:20,480 --> 00:02:23,420
+Its practical advantages were, and still are, appealing.
+
+24
+00:02:25,400 --> 00:02:30,580
+Sixty years ago, the city of Cleveland built the first commercial LNG facility in the U.S.
+
+25
+00:02:31,620 --> 00:02:36,480
+It was there that the full scope of LNG's deadly potential would be realized.
+
+26
+00:02:36,840 --> 00:02:43,980
+We're standing here on the epicenter of where the Issa Howell Gas Company exposed an affair occurred in 1944.
+
+27
+00:02:44,480 --> 00:02:55,890
+And it's indeed on this very site, on the green grass of what is now Gardena Park, where the four enormous liquefaction, degasification, natural gas storage tanks once
+
+28
+00:02:55,891 --> 00:02:56,591
+stood.
+
+29
+00:02:56,900 --> 00:03:03,060
+On October 20th, 1944, a storage tank at the East Ohio Gas Company failed.
+
+30
+00:03:03,840 --> 00:03:05,816
+Suddenly, at 2.41 p.m.
+
+31
+00:03:05,817 --> 00:03:12,552
+on an otherwise unremarkable fall day, the world ended in the Northwood St.
+
+32
+00:03:12,553 --> 00:03:13,540
+Clair area.
+
+33
+00:03:13,541 --> 00:03:19,960
+Leaking LNG vapor ignited, and the resulting explosion and fire killed 128 people.
+
+34
+00:03:20,880 --> 00:03:25,180
+79 homes, 2 factories, and 217 cars were destroyed.
+
+35
+00:03:26,640 --> 00:03:30,980
+The East Ohio Gas Company began building LNG facilities in 1940,
+
+36
+00:03:31,800 --> 00:03:35,900
+as intense wartime manufacturing contributed to repeated natural gas shortages.
+
+37
+00:03:37,080 --> 00:03:40,460
+So what they would do essentially was, when the demand was low,
+
+38
+00:03:40,461 --> 00:03:45,740
+They would take on gaseous natural gas, liquefy it and store it.
+
+39
+00:03:46,160 --> 00:03:52,720
+And when the demand was high, they would then re-gasify the liquefied natural gas and use it in that time.
+
+40
+00:03:53,680 --> 00:04:03,280
+Three 57-foot-tall liquid natural gas tanks, each capable of storing 50 million cubic feet of LNG, were put into operation by early 1941.
+
+41
+00:04:03,281 --> 00:04:15,580
+Those three tanks were of spherical construction, and the support was from vertical columns that connected up to an equatorial beam that went around those spheres.
+
+42
+00:04:16,540 --> 00:04:29,700
+That plant operated just fine with those three tanks for a couple of years, and the demand increased, and the plant then obtained approval to construct a fourth tank.
+
+43
+00:04:29,701 --> 00:04:37,260
+The number four tank held 100 million cubic feet of LNG, double the amount of the previous tanks.
+
+44
+00:04:37,980 --> 00:04:42,200
+It was a cylindrical shape and more stable because it was supported from the base.
+
+45
+00:04:43,520 --> 00:04:49,820
+As with the first three tanks, number four was constructed using a 3.5% nickel steel alloy.
+
+46
+00:04:51,180 --> 00:04:54,340
+All of the tanks were built on East Ohio gas property,
+
+47
+00:04:55,240 --> 00:04:59,420
+situated adjacent to the densely populated Cleveland neighborhood called Norwood.
+
+48
+00:04:59,700 --> 00:05:07,560
+There was no templative experience for people, I think, either at the technical level or the neighborhood level,
+
+49
+00:05:07,980 --> 00:05:11,700
+to have any understanding of the danger that they were inviting in their neighborhood.
+
+50
+00:05:11,701 --> 00:05:13,000
+At about 2.30 p.m.
+
+51
+00:05:13,001 --> 00:05:21,520
+on October 20, 1944, several residents of Norwood noticed white, steam-like vapors creeping out from tank number four.
+
+52
+00:05:22,740 --> 00:05:27,420
+Leaking gas from the tank ignited, causing a massive explosion and fire.
+
+53
+00:05:28,420 --> 00:05:31,500
+Houses eight blocks away from the tanks instantly began to burn.
+
+54
+00:05:32,360 --> 00:05:35,200
+When I first saw the fire, and the only time I saw the fire,
+
+55
+00:05:35,300 --> 00:05:38,880
+is when I was turning down, I was running down East 61st Street,
+
+56
+00:05:39,100 --> 00:05:43,820
+turned around and looked back, and I saw this sky full of fire, full of flame.
+
+57
+00:05:43,821 --> 00:05:48,620
+And it was like the sun had come to Earth.
+
+58
+00:05:49,340 --> 00:05:53,320
+The burning and the fires reached temperatures of 3,000 degrees Fahrenheit.
+
+59
+00:05:53,321 --> 00:05:58,420
+the flames will at their heat probably 2,800 feet in the air.
+
+60
+00:05:59,480 --> 00:06:04,500
+If LNG leaks out of its sub-zero container, it will not immediately dissipate.
+
+61
+00:06:06,020 --> 00:06:11,300
+In its liquid form, natural gas is heavier than air, and it will stay close to the ground.
+
+62
+00:06:12,020 --> 00:06:16,460
+The LNG can linger for up to 30 minutes before warming enough to evaporate,
+
+63
+00:06:16,940 --> 00:06:19,920
+ample time for an ignition source to spark an explosion.
+
+64
+00:06:19,921 --> 00:06:25,920
+The tank in Cleveland contained 90 million cubic feet of LNG, which spread as an invisible
+
+65
+00:06:25,921 --> 00:06:28,920
+vapor cloud into the street and sewer system.
+
+66
+00:06:28,921 --> 00:06:35,920
+Essentially, the neighborhood just before the first initial explosion occurred is best
+
+67
+00:06:35,921 --> 00:06:38,920
+thought of as sort of a saturated wick.
+
+68
+00:06:38,921 --> 00:06:45,920
+Pilot lights ignited the cloud once it was inside, and houses burned from the inside out.
+
+69
+00:06:45,921 --> 00:06:50,820
+Firefighters were helpless as the water supply system was decimated by multiple explosions.
+
+70
+00:06:52,020 --> 00:06:55,040
+The fire continued to smolder for three days after the explosion.
+
+71
+00:06:56,120 --> 00:06:58,520
+The spread of the fire was attributed to several causes,
+
+72
+00:06:59,080 --> 00:07:02,820
+but one fatal flaw was to blame for the initial leak in tank number four.
+
+73
+00:07:03,760 --> 00:07:06,940
+The properties of 3.5% nickel-steel alloys,
+
+74
+00:07:07,300 --> 00:07:10,660
+when subjected to sub-freezing temperatures, were not thoroughly understood.
+
+75
+00:07:10,661 --> 00:07:17,860
+It was later learned that a higher concentration of nickel was needed to ensure steel's integrity in sub-freezing conditions.
+
+76
+00:07:18,800 --> 00:07:25,420
+The steel alloy lining of tank number four was weakened by the cold temperatures of the LNG, which allowed a crack to form.
+
+77
+00:07:26,000 --> 00:07:33,360
+There was a small leak, and the crack propagated, the leak got large, and it dumped the entire tank.
+
+78
+00:07:34,020 --> 00:07:39,980
+Today, LNG tanks are made with either stainless steel or a steel alloy with 9% nickel.
+
+79
+00:07:39,981 --> 00:07:43,000
+both of which maintain their strength at freezing temperatures.
+
+80
+00:07:44,140 --> 00:07:49,240
+Other fundamental improvements have also become standard procedure in modern LNG facilities.
+
+81
+00:07:49,740 --> 00:07:58,400
+One of the major changes since Cleveland is that facilities are very well instrumented for any hazards.
+
+82
+00:07:59,000 --> 00:08:05,500
+And this is for vapor, any escaped vapor, any fires, the flame detectors,
+
+83
+00:08:05,501 --> 00:08:11,500
+such that you can detect immediately any hazard.
+
+84
+00:08:11,501 --> 00:08:19,480
+And this is part of the philosophy of trying to anticipate any troubles as soon as possible before they happen.
+
+85
+00:08:20,280 --> 00:08:25,400
+Since the Cleveland tragedy, LNG tanks are surrounded by berms and dikes,
+
+86
+00:08:25,720 --> 00:08:28,200
+which can contain the entire contents of a tank.
+
+87
+00:08:29,260 --> 00:08:32,780
+Additionally, an exclusion zone is determined for each facility,
+
+88
+00:08:32,781 --> 00:08:37,460
+keeping populated areas at a safe distance, even in the event of an accident.
+
+89
+00:08:38,700 --> 00:08:41,080
+LNG is touted as a safe energy source.
+
+90
+00:08:41,740 --> 00:08:48,300
+But in early 2004, an explosion at an export facility in Scykta, Algeria, killed 27 people.
+
+91
+00:08:49,220 --> 00:08:53,220
+There's no question that an accident of the magnitude of the Scykta accident
+
+92
+00:08:53,221 --> 00:08:58,580
+raises questions associated with the safety of LNG.
+
+93
+00:08:58,581 --> 00:09:03,560
+but it is premature to read into that in my opinion,
+
+94
+00:09:03,980 --> 00:09:07,880
+given that we just don't know what occurred.
+
+95
+00:09:09,980 --> 00:09:15,860
+Opponents to proposed LNG import terminals fear that terrorists targeting an LNG tanker in port
+
+96
+00:09:15,861 --> 00:09:21,720
+could turn the vast stores of supercooled gas into a mile-wide ignitable vapor cloud.
+
+97
+00:09:22,400 --> 00:09:28,540
+Recently there has been concern about intentional damage to a facility.
+
+98
+00:09:28,580 --> 00:09:35,320
+Any feasible attack would have results that are less than the maximum credible accident
+
+99
+00:09:35,321 --> 00:09:40,420
+that the facility and exclusion zones are already designed for.
+
+100
+00:09:41,540 --> 00:09:44,560
+Offshore import terminals are being developed as an alternative
+
+101
+00:09:44,561 --> 00:09:49,400
+to minimize the risk of potential damage, since they would be several miles from land.
+
+102
+00:09:50,560 --> 00:09:56,000
+The Cleveland disaster provided the foundation for the safe handling of liquefied natural gas.
+
+103
+00:09:56,001 --> 00:10:07,000
+But despite safety measures and technological improvements, the growing number of LNG facilities will continue to create opportunities for another disaster.
+
+104
+00:10:07,001 --> 00:10:19,360
+Since the first cargoes of LNG were shipped on a regular commercial basis in 1964, over 32,000 shipments have been made without a single incident of LNG being lost
+
+105
+00:10:19,361 --> 00:10:23,000
+through a breach or failure of the ship's tanks.
+
+106
+00:10:23,001 --> 00:10:27,000
+Engineering Disasters will return on Modern Marvels.
+
+107
+00:10:53,000 --> 00:10:54,840
+reliable wireless network in the nation.
+
+108
+00:10:54,841 --> 00:10:55,541
+Now.
+
+109
+00:10:55,542 --> 00:10:56,242
+Now.
+
+110
+00:10:56,243 --> 00:10:56,943
+Now.
+
+111
+00:10:56,944 --> 00:10:57,644
+Now.
+
+112
+00:10:57,645 --> 00:10:58,345
+Can you hear me now?
+
+113
+00:10:58,346 --> 00:10:59,046
+Now.
+
+114
+00:10:59,047 --> 00:10:59,747
+Can you hear me now?
+
+115
+00:11:00,740 --> 00:11:01,440
+Good.
+
+116
+00:11:01,441 --> 00:11:02,180
+Verizon Wireless.
+
+117
+00:11:02,300 --> 00:11:03,000
+Can you hear me now?
+
+118
+00:11:03,001 --> 00:11:04,100
+We never stop working for you.
+
+119
+00:11:04,120 --> 00:11:04,820
+Good.
+
+120
+00:11:16,980 --> 00:11:19,400
+Nobody stands behind their cars like Mitsubishi.
+
+121
+00:11:19,401 --> 00:11:23,580
+because every new Mitsubishi now comes with a 10-year powertrain warranty,
+
+122
+00:11:24,080 --> 00:11:25,740
+5-year bumper-to-bumper warranty,
+
+123
+00:11:26,100 --> 00:11:28,280
+and 3 years free scheduled maintenance.
+
+124
+00:11:28,620 --> 00:11:33,280
+Now get up to $5,000 factory cash back on the best backcars in the world.
+
+125
+00:11:39,940 --> 00:11:42,660
+When hard work is combined with pure talent,
+
+126
+00:11:43,920 --> 00:11:48,280
+a really good performance is transformed into a brilliant one.
+
+127
+00:11:49,400 --> 00:11:57,140
+It's true of every art, including the art of investing.
+
+128
+00:11:59,380 --> 00:12:02,040
+Talk to your advisor about Opinion Funds.
+
+129
+00:12:02,200 --> 00:12:03,400
+The right way to invest.
+
+130
+00:12:04,680 --> 00:12:05,740
+Bob Harris.
+
+131
+00:12:06,640 --> 00:12:08,080
+Love is in the air.
+
+132
+00:12:08,960 --> 00:12:09,660
+Love.
+
+133
+00:12:10,280 --> 00:12:11,180
+Is that what you see?
+
+134
+00:12:11,920 --> 00:12:12,920
+What do you see?
+
+135
+00:12:13,460 --> 00:12:14,320
+I see commerce.
+
+136
+00:12:14,700 --> 00:12:15,400
+I see industry.
+
+137
+00:12:15,700 --> 00:12:16,400
+I see medicine.
+
+138
+00:12:16,820 --> 00:12:18,280
+A second opinion from a continent away.
+
+139
+00:12:18,281 --> 00:12:24,280
+I see mortgage approvals, video, audio, downloadable, on-demand, a million wireless transactions.
+
+140
+00:12:24,460 --> 00:12:25,560
+That's what I see.
+
+141
+00:12:26,360 --> 00:12:27,320
+You're such a romantic.
+
+142
+00:12:28,220 --> 00:12:29,120
+I know.
+
+143
+00:12:30,080 --> 00:12:32,660
+The on-demand world in Paris and everywhere.
+
+144
+00:12:32,960 --> 00:12:33,880
+With help from IBM.
+
+145
+00:12:34,360 --> 00:12:36,100
+This is the working man.
+
+146
+00:12:36,580 --> 00:12:37,880
+The builder of America.
+
+147
+00:12:38,820 --> 00:12:40,520
+Exposed to asbestos.
+
+148
+00:12:41,480 --> 00:12:43,920
+Diagnosed with the diseases of the working man.
+
+149
+00:12:43,921 --> 00:12:50,820
+lung cancer, mesothelioma, asbestosis, robbed of a healthy life.
+
+150
+00:12:52,000 --> 00:12:54,300
+If you or a loved one has been diagnosed,
+
+151
+00:12:55,020 --> 00:12:58,060
+Barron and Bud could help you and your family find justice.
+
+152
+00:12:58,860 --> 00:13:01,120
+Call the law firm of Barron and Bud.
+
+153
+00:13:01,660 --> 00:13:03,260
+It's time for justice.
+
+154
+00:13:13,920 --> 00:13:26,580
+The new ES.
+
+155
+00:13:27,580 --> 00:13:29,260
+Refine with a passion.
+
+156
+00:13:31,760 --> 00:13:33,360
+But your Houston-ary elixir dealer.
+
+157
+00:13:34,460 --> 00:13:36,860
+Like a plague, its onset was swift.
+
+158
+00:13:37,720 --> 00:13:40,040
+An infestation of the unholiest kind.
+
+159
+00:13:40,041 --> 00:13:43,780
+But in 1692, a crime against God.
+
+160
+00:13:43,920 --> 00:13:45,280
+It was a crime against state.
+
+161
+00:13:45,960 --> 00:13:48,680
+Witch Hunt, Sunday at 8 on the History Channel.
+
+162
+00:13:49,940 --> 00:13:55,720
+Check out what's coming up tomorrow night on Modern Marvel's Wednesday here on the History Channel.
+
+163
+00:14:00,280 --> 00:14:04,220
+We now return to Engineering Disasters on Modern Marvel's.
+
+164
+00:14:06,320 --> 00:14:09,420
+Kansas City, July 17, 1981.
+
+165
+00:14:09,421 --> 00:14:15,360
+close to 1,500 people gathered at the newly built Hyatt Hotel for a dance competition.
+
+166
+00:14:16,300 --> 00:14:20,600
+The hotel was less than a year old and featured innovative architectural designs.
+
+167
+00:14:21,540 --> 00:14:27,060
+At 7.45 p.m., as some danced and others looked down on the festive atmosphere from skywalks,
+
+168
+00:14:27,480 --> 00:14:30,860
+the fourth floor, 60-ton walkway gave way.
+
+169
+00:14:31,800 --> 00:14:37,540
+It landed on the second floor skywalk below, and both walkways fell to the lobby floor.
+
+170
+00:14:37,541 --> 00:14:41,080
+114 people were killed.
+
+171
+00:14:41,920 --> 00:14:46,193
+This was the single largest structural disaster in terms of loss of life in U.S.
+
+172
+00:14:46,194 --> 00:14:46,894
+history.
+
+173
+00:14:47,860 --> 00:14:53,660
+The investigation following the disaster would reveal an accumulation of project management errors,
+
+174
+00:14:54,040 --> 00:15:00,520
+which ultimately allowed for a simple yet deadly flaw to be installed in the support system of the overhead walkways.
+
+175
+00:15:00,521 --> 00:15:09,660
+The Kansas City Hyatt was a stunning example of current architectural innovation when it first opened its doors in July of 1980.
+
+176
+00:15:11,040 --> 00:15:21,940
+Well, the Hyatt Hotel in downtown Kansas City was commissioned to be an architecturally interesting and imposing structure.
+
+177
+00:15:22,400 --> 00:15:27,100
+The lobby, when you walked in, was four stories high.
+
+178
+00:15:27,101 --> 00:15:33,220
+One of the signature features about the Hyatt Hotel in Kansas City was the fact that they had a set of suspended walkways.
+
+179
+00:15:33,620 --> 00:15:40,280
+They were there to capture the attention of visitors that walked in because they looked like they were virtually suspended in air.
+
+180
+00:15:41,200 --> 00:15:44,420
+But few realized that the hotel had a problematic history.
+
+181
+00:15:45,340 --> 00:15:51,580
+This hotel was envisioned as a large part of the downtown redevelopment and was commissioned on a fast track.
+
+182
+00:15:52,060 --> 00:15:52,760
+Get it up.
+
+183
+00:15:52,761 --> 00:16:00,220
+The hotel then went through a fast track in which we built this whole hotel between 1978 and 1980.
+
+184
+00:16:00,600 --> 00:16:09,340
+We built a huge hotel which consists of the underground parking garage and cleaning the tower in a period of two and a half to two and three quarter years.
+
+185
+00:16:09,980 --> 00:16:17,660
+The fast track method, which is still used today, entails continuing to design components of a structure as others are already being built.
+
+186
+00:16:17,661 --> 00:16:22,660
+The expedited construction of the Hyatt was further complicated by staffing problems.
+
+187
+00:16:22,661 --> 00:16:33,660
+In 1979, construction of the hotel is going apace, but certain management and personnel problems show up.
+
+188
+00:16:40,363 --> 00:16:50,467
+Somehow, because of the problems of fast track, because of the changes on the design team, the designer, the design engineer, the engineer of record, and the chief
+
+189
+00:16:50,468 --> 00:16:54,000
+detailer resigned somewhere in the middle of the project.
+
+190
+00:16:54,300 --> 00:16:56,300
+This project was transferred to somebody else.
+
+191
+00:16:56,760 --> 00:17:03,360
+During these personnel shifts, a minor design change in the connections supporting the atrium walkways was overlooked.
+
+192
+00:17:03,660 --> 00:17:09,380
+In the original blueprints, a single metal rod ran through a hollow steel beam called a box beam.
+
+193
+00:17:10,040 --> 00:17:13,320
+The rod carried the weight of each walkway to a roof truss.
+
+194
+00:17:13,700 --> 00:17:17,780
+The original box beam construction was supposed to be a continuous rod.
+
+195
+00:17:18,920 --> 00:17:25,680
+It was supposed to be one rod that went through the fourth floor and picked up the second floor independently.
+
+196
+00:17:26,180 --> 00:17:33,080
+The design was difficult to build, so the steel fabricator made a request to replace the single rod with two separate rods.
+
+197
+00:17:33,560 --> 00:17:36,620
+thereby creating new connection points in the fourth floor beams.
+
+198
+00:17:37,520 --> 00:17:41,740
+This modification left the second floor walkway hanging from the fourth floor,
+
+199
+00:17:42,620 --> 00:17:46,860
+instead of the ceiling, doubling the load on the fourth floor box beam connections.
+
+200
+00:17:47,840 --> 00:17:50,300
+The new walkway design needed to be drawn in detail,
+
+201
+00:17:50,700 --> 00:17:52,940
+and new weight calculations needed to be included.
+
+202
+00:17:54,220 --> 00:17:57,620
+Several levels of project managers approved the new bridge design,
+
+203
+00:17:57,621 --> 00:18:00,920
+with the simple yet crucial load calculations missing.
+
+204
+00:18:00,921 --> 00:18:05,340
+It wasn't that this connection was misdesigned.
+
+205
+00:18:05,840 --> 00:18:09,000
+This connection was never designed.
+
+206
+00:18:09,680 --> 00:18:11,120
+That was the problem.
+
+207
+00:18:11,820 --> 00:18:18,480
+It was detailed, but in changes and movements of the detail between the different parties,
+
+208
+00:18:18,900 --> 00:18:20,780
+it never got engineered.
+
+209
+00:18:21,860 --> 00:18:25,320
+And as it became part of various detailed plans,
+
+210
+00:18:25,580 --> 00:18:29,320
+people kept assuming that the design had been checked at some point in the process.
+
+211
+00:18:29,321 --> 00:18:36,380
+Hyatt engineer Jack Gillam gave the undesigned connections the final seal of approval, and they were installed.
+
+212
+00:18:37,620 --> 00:18:41,760
+There was an opportunity to catch the flawed design in October of 1979,
+
+213
+00:18:42,360 --> 00:18:45,900
+when during construction, a section of the atrium roof collapsed.
+
+214
+00:18:47,000 --> 00:18:49,640
+Construction was halted, and the building was inspected.
+
+215
+00:18:50,460 --> 00:18:57,160
+We checked all the connections to the roof, but we did not check anything any further at that time.
+
+216
+00:18:57,161 --> 00:18:59,640
+We did not look at the bridges whatsoever.
+
+217
+00:19:00,820 --> 00:19:05,200
+So literally, the whole lobby, all of the design details were checked.
+
+218
+00:19:05,880 --> 00:19:10,740
+Even the rods suspending the walkways were looked at.
+
+219
+00:19:11,160 --> 00:19:15,640
+And no one thought to go to where the walkways connected together and down to each other and say,
+
+220
+00:19:15,960 --> 00:19:20,440
+what's that connection and how is it designed?
+
+221
+00:19:20,441 --> 00:19:28,500
+But unfortunately, and literally, the check stopped one connection too short.
+
+222
+00:19:29,320 --> 00:19:34,600
+In November, construction began again, and the hotel opened the following summer.
+
+223
+00:19:37,140 --> 00:19:41,700
+Over the next year, the steel box beam connections slowly deformed.
+
+224
+00:19:42,720 --> 00:19:48,540
+On the evening of July 17th, a weekly dance competition was being covered by local news crews.
+
+225
+00:19:49,320 --> 00:19:53,400
+Reporter Michael Mahoney was reaching for a videotape when disaster struck.
+
+226
+00:19:53,401 --> 00:20:00,300
+I was reaching down, sort of looking at the floor, and heard these really sharp metallic pop, pop, like that.
+
+227
+00:20:00,520 --> 00:20:04,440
+The walkway on the second floor began to sag and then finally broke apart.
+
+228
+00:20:04,540 --> 00:20:08,100
+There were people trapped underneath these huge blocks of concrete.
+
+229
+00:20:08,560 --> 00:20:13,440
+There were people that had been speared by the broken glass from the side rails of the walkways.
+
+230
+00:20:13,441 --> 00:20:18,840
+Investigators who were on the scene within hours after the collapse discovered glaring
+
+231
+00:20:18,841 --> 00:20:20,240
+clues as to what had happened.
+
+232
+00:20:20,241 --> 00:20:27,180
+When I get there, there's just six rods hanging silently from the ceiling while the walkways
+
+233
+00:20:27,181 --> 00:20:28,840
+have pulled off and collapsed.
+
+234
+00:20:29,260 --> 00:20:31,240
+By the first morning, we all knew what had happened.
+
+235
+00:20:31,620 --> 00:20:32,440
+There was no question.
+
+236
+00:20:33,220 --> 00:20:37,700
+And there are some classic photographs that we and others have taken of the joint where
+
+237
+00:20:37,701 --> 00:20:41,180
+the two lips are bent through and they're perfectly straight.
+
+238
+00:20:41,181 --> 00:20:47,080
+analysis of the debris enabled forensic engineers to reenact the chain of events
+
+239
+00:20:47,081 --> 00:20:51,900
+giving them a clear picture of how the overstressed box beam connections failed
+
+240
+00:20:51,901 --> 00:20:57,640
+literally you had a situation where the rod was pulling up at the bottom of the sea and this
+
+241
+00:20:57,641 --> 00:21:05,180
+bottom set of thumbs was the whole load bearing structure for the two sections of course what
+
+242
+00:21:05,181 --> 00:21:10,180
+What happened in the disaster is the rod pulls right through.
+
+243
+00:21:10,181 --> 00:21:16,180
+The National Bureau of Standards report indicated that the box beam connection failure was inevitable.
+
+244
+00:21:16,181 --> 00:21:24,180
+The design should have considered larger nut or even better and simpler.
+
+245
+00:21:24,181 --> 00:21:27,180
+Consider a plate with a hole.
+
+246
+00:21:27,181 --> 00:21:32,180
+It would be like a distribution plate or spacer that would be put there.
+
+247
+00:21:32,181 --> 00:21:40,620
+That plate probably would cost something outrageous like 40 cents, maybe a dollar was the whole.
+
+248
+00:21:41,760 --> 00:21:44,580
+That's what would have prevented this thing.
+
+249
+00:21:45,220 --> 00:21:48,740
+The Hyatt tragedy was as much about process as it was physics.
+
+250
+00:21:49,200 --> 00:22:00,940
+Most importantly, what the investigation revealed, that the process by which we design and build structures needs to be more rigorous.
+
+251
+00:22:02,180 --> 00:22:04,720
+and higher level of quality control.
+
+252
+00:22:05,320 --> 00:22:10,000
+The engineers who affixed their approval seals to the incomplete shop drawings lost their licenses.
+
+253
+00:22:10,660 --> 00:22:12,260
+Where does the buck stop on this thing?
+
+254
+00:22:13,640 --> 00:22:18,000
+Well, it stops, I mean, who are the responsible people?
+
+255
+00:22:18,900 --> 00:22:21,560
+I mean, everybody should be responsible for their own work.
+
+256
+00:22:22,460 --> 00:22:25,720
+Okay, so does it stop with the owner?
+
+257
+00:22:26,880 --> 00:22:30,180
+Was the owner responsible for certain things?
+
+258
+00:22:30,460 --> 00:22:31,620
+Probably, yes.
+
+259
+00:22:32,180 --> 00:22:38,307
+The contractor, yes. The fabricator, yes. But it really stops them in one place.
+
+260
+00:22:38,308 --> 00:22:43,515
+It stops with the structural engineer who put his seal on the lines.
+
+261
+00:22:43,516 --> 00:22:44,740
+And that was me.
+
+262
+00:22:44,741 --> 00:22:51,220
+The Kansas City Hyatt was a much changed building when it reopened its doors 11 weeks after the disaster.
+
+263
+00:22:51,221 --> 00:22:52,966
+The walkways are back.
+
+264
+00:22:52,967 --> 00:23:01,220
+But all of the elegance of the original design, the etherealness, the thinness of support, that is gone.
+
+265
+00:23:01,221 --> 00:23:12,860
+It has been replaced with a gigantic pillar system that has to be over-designed by a factor of 20.
+
+266
+00:23:13,980 --> 00:23:18,540
+I think in part to ensure that there's confidence that those walkways will never come down again.
+
+267
+00:23:19,280 --> 00:23:21,440
+The collapse was a wake-up call to engineers.
+
+268
+00:23:21,441 --> 00:23:31,280
+As a result of this disaster, the codes that govern the structural design of buildings of this type were actually changed.
+
+269
+00:23:31,281 --> 00:23:36,680
+There was a very explicit articulation in the subsequent revision of the codes
+
+270
+00:23:36,681 --> 00:23:41,720
+of where the responsibility for this engineering analysis lies,
+
+271
+00:23:42,860 --> 00:23:47,380
+thereby hopefully ensuring that you'll never have a situation again
+
+272
+00:23:47,381 --> 00:23:49,480
+where someone assumes someone else is doing it
+
+273
+00:23:49,481 --> 00:23:54,300
+because it's not clear in their minds just who's really got the responsibility to do it.
+
+274
+00:23:54,820 --> 00:23:58,700
+The 114 lives lost in the Hyatt Skywalk collapse
+
+275
+00:23:58,701 --> 00:24:01,120
+serve as a lasting reminder to engineers.
+
+276
+00:24:01,280 --> 00:24:05,280
+that the smallest of errors can lead to the largest of tragedies.
+
+277
+00:24:07,280 --> 00:24:10,940
+City building inspectors averaged just eight minutes a week
+
+278
+00:24:10,941 --> 00:24:15,900
+inspecting the 40-story Hyatt Hotel during its 28-month-long construction.
+
+279
+00:24:17,880 --> 00:24:21,120
+Engineering disasters will return on Modern Marvels.
+
+280
+00:24:24,100 --> 00:24:26,080
+Tomorrow on Modern Marvels Wednesday,
+
+281
+00:24:26,400 --> 00:24:28,900
+it was a scientific experiment shrouded in secrecy.
+
+282
+00:24:28,901 --> 00:24:33,040
+A specially fortified plane that would be able to fly beyond the speed of sound.
+
+283
+00:24:33,540 --> 00:24:35,920
+Its success could ever change the face of aviation.
+
+284
+00:24:36,200 --> 00:24:39,780
+We have gone from merely penetrating it to actually thriving.
+
+285
+00:24:40,140 --> 00:24:42,140
+Modern Marvel's Breaking the Sound Barrier.
+
+286
+00:24:42,380 --> 00:24:43,840
+Tomorrow at 8 on the History Show.
+
+287
+00:24:44,480 --> 00:24:49,100
+For the feeling of freer breathing, Vicks Vapora works as fast...
+
+288
+00:24:49,101 --> 00:24:52,780
+As fast...
+
+289
+00:24:52,781 --> 00:24:55,640
+As fast as you can put it on.
+
+290
+00:24:55,641 --> 00:24:57,660
+Can your cold medicine do that?
+
+291
+00:24:57,820 --> 00:24:58,880
+Get the QuickVicks.
+
+292
+00:25:02,480 --> 00:25:07,388
+Ah, Paris. Love is in the air. Love. Is that what you see? What do you see?
+
+293
+00:25:07,389 --> 00:25:10,463
+I see commerce. I see industry. I see medicine.
+
+294
+00:25:10,464 --> 00:25:14,716
+A second opinion from a continent away. I see mortgage approvals.
+
+295
+00:25:14,717 --> 00:25:19,362
+Video, audio, downloadable, on-demand, a million wireless transactions.
+
+296
+00:25:19,363 --> 00:25:20,540
+That's what I see.
+
+297
+00:25:21,100 --> 00:25:24,100
+You're such romantic. I know.
+
+298
+00:25:24,101 --> 00:25:29,100
+The on-demand world in Paris and everywhere with help from IBM.
+
+299
+00:25:51,080 --> 00:25:53,660
+Introducing Tide with a Touch of Downy.
+
+300
+00:25:54,360 --> 00:25:57,100
+An irresistible combination of softness and cream.
+
+301
+00:25:57,101 --> 00:25:59,060
+New Tide with a touch of Downey.
+
+302
+00:26:05,720 --> 00:26:10,800
+Right now you can stay in a select Disney value resort for as little as $55 per night per room.
+
+303
+00:26:11,060 --> 00:26:13,960
+And one of our theme parks will be open a whole hour early.
+
+304
+00:26:14,460 --> 00:26:17,500
+Now that's an offer that's hard to resist, no matter who you are.
+
+305
+00:26:18,740 --> 00:26:23,280
+A great hotel for as little as $55 with transportation and early admission.
+
+306
+00:26:23,720 --> 00:26:25,200
+Call now for your dream vacation.
+
+307
+00:26:27,100 --> 00:26:29,100
+White Pro!
+
+308
+00:26:29,101 --> 00:26:33,100
+Shade. Blend. Whiten.
+
+309
+00:26:33,101 --> 00:26:39,192
+Crest Spin Brush Pro Whitening. Two moving heads and polishing bristles.
+
+310
+00:26:39,193 --> 00:26:44,100
+Brush away stains for whiter teeth in 14 days. Guaranteed.
+
+311
+00:26:44,101 --> 00:26:46,025
+I remember it like it was yesterday.
+
+312
+00:26:46,026 --> 00:26:49,929
+I was hosting my first big business dinner, and I paid with my Visa card.
+
+313
+00:26:49,930 --> 00:26:54,100
+Turns out I was over my limit. I was so embarrassed, I didn't know what to do.
+
+314
+00:26:54,101 --> 00:26:57,580
+So I got the American Express card and it never happened again.
+
+315
+00:26:57,800 --> 00:26:59,600
+Call now for the American Express card.
+
+316
+00:26:59,800 --> 00:27:01,820
+We can take your application right over the phone.
+
+317
+00:27:02,240 --> 00:27:05,160
+Applying for the card was one of the easiest things I've ever done.
+
+318
+00:27:05,420 --> 00:27:06,160
+And smartest.
+
+319
+00:27:06,540 --> 00:27:08,640
+Because American Express is there for me.
+
+320
+00:27:08,840 --> 00:27:10,780
+Whether I'm out shopping or on vacation.
+
+321
+00:27:11,220 --> 00:27:12,600
+I feel better knowing that.
+
+322
+00:27:12,800 --> 00:27:14,660
+Now the card has rewards built in.
+
+323
+00:27:14,900 --> 00:27:17,140
+I get a point for virtually every dollar I spend.
+
+324
+00:27:17,280 --> 00:27:19,380
+Plus double points at places I shop the most.
+
+325
+00:27:19,500 --> 00:27:21,200
+Like supermarkets and gas stations.
+
+326
+00:27:21,380 --> 00:27:23,420
+And I can redeem them for just about anything.
+
+327
+00:27:23,421 --> 00:27:25,740
+from a trip to Rome to a flat-screen TV.
+
+328
+00:27:26,360 --> 00:27:28,380
+So call now for the American Express card.
+
+329
+00:27:28,640 --> 00:27:30,180
+You can apply right over the phone.
+
+330
+00:27:30,680 --> 00:27:32,540
+It helped not having a preset spending unit.
+
+331
+00:27:32,860 --> 00:27:35,180
+It's great earning double points at so many places.
+
+332
+00:27:35,560 --> 00:27:38,140
+I can call 24 hours a day. That helps.
+
+333
+00:27:38,500 --> 00:27:40,440
+Call 1-800-THE-CARD and apply now.
+
+334
+00:27:40,640 --> 00:27:42,740
+There's never been a better time to be a card member.
+
+335
+00:27:45,000 --> 00:27:48,020
+Can inspiration make the town and country even more amazing?
+
+336
+00:27:48,460 --> 00:27:49,160
+Yes.
+
+337
+00:27:49,600 --> 00:27:51,840
+Can it be luxurious and still rate high in safety?
+
+338
+00:27:51,841 --> 00:27:58,420
+With front and rear crumple zones and a 5-star side impact crash chest rating, yes, you can find a place for everything.
+
+339
+00:27:58,900 --> 00:28:04,400
+As the old minivan bestowed your seating and storage, of course, the amazing new Chrysler town and country.
+
+340
+00:28:04,960 --> 00:28:07,100
+Chrysler, inspiration comes standard.
+
+341
+00:28:07,720 --> 00:28:11,860
+Qualified returning diamond Chrysler owners can get up to $3,500 in combined cash allowances.
+
+342
+00:28:12,160 --> 00:28:14,300
+America's hottest products are at your Chrysler dealer.
+
+343
+00:28:15,540 --> 00:28:19,580
+We now return to engineering disasters on Modern Marvels.
+
+344
+00:28:19,581 --> 00:28:26,020
+Naturally occurring sinkholes surface every day in several regions of the United States,
+
+345
+00:28:26,660 --> 00:28:30,760
+particularly Florida, sometimes wreaking havoc in populated areas.
+
+346
+00:28:32,220 --> 00:28:35,320
+Many urban areas, though, are plagued by another kind of sinkhole,
+
+347
+00:28:35,860 --> 00:28:40,160
+those formed by the breakdown of man-made infrastructure hidden under a bustling city.
+
+348
+00:28:41,540 --> 00:28:45,220
+A common culprit is the collapse of a deteriorating sewer pipe.
+
+349
+00:28:45,520 --> 00:28:49,440
+As far as sewer collapses, they're, of course, not a natural phenomenon,
+
+350
+00:28:49,580 --> 00:28:51,800
+because of a man-made condition.
+
+351
+00:28:51,900 --> 00:28:55,480
+But again, you have the similarity between those and the natural phenomenon
+
+352
+00:28:55,481 --> 00:28:59,120
+because you have water that's basically carrying away soils.
+
+353
+00:29:00,580 --> 00:29:04,880
+During the early 1900s, rapidly expanding cities around the country
+
+354
+00:29:04,881 --> 00:29:06,940
+began building networks of sewer tunnels.
+
+355
+00:29:08,200 --> 00:29:11,820
+Close to a century later, many of these aging tunnel-like pipes
+
+356
+00:29:11,821 --> 00:29:15,020
+have begun to fail, sometimes with deadly consequences.
+
+357
+00:29:16,060 --> 00:29:18,940
+The potential for this kind of thing can happen anywhere.
+
+358
+00:29:18,941 --> 00:29:24,020
+And a lot of it just depends on how old these lines are and what may have been placed on top of them.
+
+359
+00:29:24,021 --> 00:29:28,940
+Because the original designs probably never anticipated some of the conditions that they're exposed to now.
+
+360
+00:29:29,940 --> 00:29:38,700
+On December 11th, 1995, residents of an oceanside community in San Francisco witnessed just how catastrophic a sewer collapse could be.
+
+361
+00:29:39,220 --> 00:29:46,080
+There's a geyser of water coming out on a fancy street in San Francisco, and there's a tide of sewage flowing down past people's walls.
+
+362
+00:29:46,081 --> 00:29:51,320
+This went on for 45 minutes until finally the sewer collapsed.
+
+363
+00:29:51,520 --> 00:29:52,220
+It broke.
+
+364
+00:29:53,120 --> 00:29:58,340
+It's like you've just got a machete and you just chopped through the garden hose.
+
+365
+00:29:58,800 --> 00:30:00,920
+At that point, the water just goes glug, glug, glug.
+
+366
+00:30:01,460 --> 00:30:06,180
+Neighbors watched helplessly as a multi-million dollar home slid into a massive sinkhole.
+
+367
+00:30:11,200 --> 00:30:14,580
+The sinkhole also damaged several nearby homes.
+
+368
+00:30:14,581 --> 00:30:19,580
+The flow of heavy rains from the previous night was obstructed by a gate in the sewer line.
+
+369
+00:30:19,581 --> 00:30:25,580
+The gate was being used to temporarily block sewage flow during construction on pipes downstream.
+
+370
+00:30:25,581 --> 00:30:30,580
+We concluded that this gate had been left in a partly lowered position.
+
+371
+00:30:30,581 --> 00:30:34,580
+So it's a bit like if you have a garden hose and the water is just flowing through it,
+
+372
+00:30:34,581 --> 00:30:38,580
+and you put your foot on the garden hose, squeeze down on it,
+
+373
+00:30:38,581 --> 00:30:42,580
+you pressurize the garden hose so that this gate created a pressure,
+
+374
+00:30:42,581 --> 00:30:48,340
+pressure and the pressure was felt all the way up 1500 feet up the pressurized water needed
+
+375
+00:30:48,341 --> 00:30:53,940
+another way out nearby sewer construction created a small sinkhole above the sewer line
+
+376
+00:30:55,300 --> 00:30:58,980
+it grew during each rainfall creating a weak point over the tunnel
+
+377
+00:30:59,540 --> 00:31:02,740
+and provided an ideal location for the water to break through
+
+378
+00:31:04,660 --> 00:31:10,580
+san francisco sinkhole didn't injure anyone but a sinkhole in atlanta destroyed more than property
+
+379
+00:31:10,581 --> 00:31:18,340
+In the early morning hours of June 14, 1993, just as a severe rainstorm was tapering off,
+
+380
+00:31:18,960 --> 00:31:24,220
+two employees of the Marriott Courtyard Hotel in Atlanta, Georgia, were meeting in the hotel parking lot.
+
+381
+00:31:25,320 --> 00:31:27,960
+Suddenly, the ground beneath them began to cave in.
+
+382
+00:31:28,720 --> 00:31:31,700
+Within seconds, they were swept into a massive and watery chasm.
+
+383
+00:31:32,560 --> 00:31:38,140
+They were innocent victims of a sewer collapse that resulted in an 80-foot-deep by 100-foot-wide sinkhole.
+
+384
+00:31:38,141 --> 00:31:43,100
+Ensuing investigations delved into the 100-year history of the site
+
+385
+00:31:43,101 --> 00:31:45,780
+and into the installation of a safety device
+
+386
+00:31:45,781 --> 00:31:49,060
+that's very presence contributed to the sudden sinkhole formation.
+
+387
+00:31:51,460 --> 00:31:54,400
+The sewer that collapsed, the Orange Street trunk sewer,
+
+388
+00:31:54,480 --> 00:31:57,020
+was constructed in the early 1900s.
+
+389
+00:31:57,080 --> 00:32:00,560
+It was an unreinforced concrete arch,
+
+390
+00:32:01,420 --> 00:32:05,260
+and it was cutting edge for that particular time
+
+391
+00:32:05,261 --> 00:32:09,040
+because prior to that, most of the sewers had been constructed of brick.
+
+392
+00:32:10,120 --> 00:32:14,900
+Like many other sewer lines of the day, the Orm Street trunk was built above ground,
+
+393
+00:32:15,320 --> 00:32:20,200
+simply a tube resting in a creek bed that utilized the natural slope of the stream.
+
+394
+00:32:21,080 --> 00:32:26,240
+But during the 1960s, the tunnel was buried with fill from nearby freeway construction.
+
+395
+00:32:27,240 --> 00:32:28,900
+Warehouses were then built over it.
+
+396
+00:32:28,901 --> 00:32:33,240
+The condition that the improvements resulted in on that particular site
+
+397
+00:32:33,241 --> 00:32:40,180
+raised that elevation to approximately 30 to 42 feet above the invert of the sewer.
+
+398
+00:32:40,960 --> 00:32:45,720
+So it added a lot more weight above that structure
+
+399
+00:32:45,721 --> 00:32:50,040
+than existed over it at any point during this previous history.
+
+400
+00:32:50,780 --> 00:32:54,580
+In 1971, on the same site as the future Marriott parking lot,
+
+401
+00:32:54,780 --> 00:32:58,260
+a 98-foot-wide sinkhole formed under a warehouse.
+
+402
+00:32:59,780 --> 00:33:01,200
+The site was investigated.
+
+403
+00:33:01,201 --> 00:33:07,740
+It was opened up, reconstructed, repaired, and no life was lost.
+
+404
+00:33:08,400 --> 00:33:11,880
+In 1989, a hotel developer bought the neighboring lot.
+
+405
+00:33:13,060 --> 00:33:17,220
+It was decided that the sewer line could support the hotel's surface parking lot.
+
+406
+00:33:18,580 --> 00:33:22,300
+The design team, however, was concerned enough about the poor condition of the sewer
+
+407
+00:33:22,301 --> 00:33:25,200
+that it researched safety devices for the site.
+
+408
+00:33:26,100 --> 00:33:29,900
+A specialty contractor proposed a cost-effective and novel solution,
+
+409
+00:33:29,901 --> 00:33:35,700
+burying an enormous geo-grid, or safety net, between the parking lot and the sewer.
+
+410
+00:33:36,400 --> 00:33:42,280
+The geo-grid would alert people to a sinkhole by gradually sagging over an anticipated 20-foot wide void,
+
+411
+00:33:42,940 --> 00:33:47,420
+suspending the parking lot for 100 hours, ample time to evacuate the area.
+
+412
+00:33:48,220 --> 00:33:51,240
+But the ensuing sinkhole would overwhelm their estimates.
+
+413
+00:33:51,880 --> 00:33:59,360
+Several days before the 1993 collapse, city workers inspected the sewer after reports of cracks in the hotel parking lot.
+
+414
+00:33:59,900 --> 00:34:03,660
+At that point, one of the city inspectors actually walked part of the line,
+
+415
+00:34:04,500 --> 00:34:08,880
+and they noticed that the invert upstream of the manhole,
+
+416
+00:34:09,140 --> 00:34:13,580
+which is going toward the 1971 collapse zone, actually was heaved up.
+
+417
+00:34:13,960 --> 00:34:17,120
+Two days later, before scheduled sewer repairs could be done,
+
+418
+00:34:17,720 --> 00:34:19,660
+Atlanta was hit with a severe rainstorm.
+
+419
+00:34:20,340 --> 00:34:23,400
+Cracks in the sewer walls allowed water to run outside of the sewer.
+
+420
+00:34:23,401 --> 00:34:27,420
+The soil in the area was actually very silty,
+
+421
+00:34:27,421 --> 00:34:32,260
+So it had a lot of very fine particles in it, and they're very susceptible to erosion.
+
+422
+00:34:32,740 --> 00:34:36,880
+So if there is exfiltration, infiltration, those fine particles get picked up
+
+423
+00:34:36,881 --> 00:34:40,360
+and then get reintroduced into the sewer and busy create these voids.
+
+424
+00:34:40,760 --> 00:34:47,200
+What happened that day was that basically the sewer was carrying away a lot of the fines
+
+425
+00:34:47,201 --> 00:34:51,400
+that the side walls could have collapsed at that point.
+
+426
+00:34:52,040 --> 00:34:56,480
+So much of the supporting soil was washed away that the sewer gave way.
+
+427
+00:34:57,420 --> 00:35:01,840
+The catastrophic sewer collapse resulted in a sinkhole that was 100 feet wide,
+
+428
+00:35:02,380 --> 00:35:04,640
+five times the estimated 20-foot diameter.
+
+429
+00:35:05,700 --> 00:35:08,460
+The geogrid supported the parking lot for five hours,
+
+430
+00:35:08,860 --> 00:35:12,120
+but in doing so, concealed typical sinkhole warning signs.
+
+431
+00:35:12,680 --> 00:35:19,620
+The early signs of distress were placed away from the center of what would later become the hole to the edges.
+
+432
+00:35:19,760 --> 00:35:24,540
+The geogrid was pulling at anchor points, creating multiple small depressions,
+
+433
+00:35:24,541 --> 00:35:27,500
+instead of one larger and more obvious one.
+
+434
+00:35:28,980 --> 00:35:33,420
+Since the collapse, the sewer was replaced by new reinforced concrete pipe.
+
+435
+00:35:35,140 --> 00:35:38,740
+These recent sewer collapses have been a warning to cities around the country
+
+436
+00:35:38,741 --> 00:35:41,240
+that still depend on century-old sewers.
+
+437
+00:35:43,100 --> 00:35:44,780
+Replacing sewer lines is costly,
+
+438
+00:35:45,320 --> 00:35:48,600
+so strengthening existing pipes is a more practical solution.
+
+439
+00:35:48,601 --> 00:35:52,740
+We've probably spent in the order of approximately $50 million
+
+440
+00:35:52,741 --> 00:35:56,445
+dollars in making improvements to just the combined sewers.
+
+441
+00:35:56,446 --> 00:35:58,140
+And we've done that using a
+
+442
+00:35:58,141 --> 00:36:01,413
+rehabilitation process called Gunite.
+
+443
+00:36:01,414 --> 00:36:06,720
+And Gunite is simply a concrete that can be sprayed onto the
+
+444
+00:36:06,721 --> 00:36:10,800
+wall of the existing pipe. The Gunite strengthens sewer walls.
+
+445
+00:36:10,801 --> 00:36:12,840
+But new technologies, including
+
+446
+00:36:12,841 --> 00:36:18,440
+remote-controlled cameras which detect leaks and voids in and around sewers, are aiding cities in
+
+447
+00:36:18,441 --> 00:36:23,440
+in the effort to catch failing sewers before they collapse and cause disaster.
+
+448
+00:36:26,440 --> 00:36:35,440
+The sinkhole that swallowed the San Francisco mansion cost the city more than $18 million in repairs, clean-up, and cranes by nearby property owners.
+
+449
+00:36:35,441 --> 00:36:38,440
+Engineering disasters will return on Modern Marvels.
+
+450
+00:36:38,441 --> 00:36:42,000
+kings bowed to him
+
+451
+00:36:42,001 --> 00:36:43,960
+emperors fled from him
+
+452
+00:36:43,961 --> 00:36:45,620
+even wild horses
+
+453
+00:36:45,621 --> 00:36:46,820
+not before him
+
+454
+00:36:46,821 --> 00:36:48,760
+Alexander the Great
+
+455
+00:36:48,761 --> 00:36:50,620
+Sunday, November 7th
+
+456
+00:36:50,621 --> 00:36:51,640
+on the History Channel
+
+457
+00:36:51,641 --> 00:36:54,540
+he wasn't Alexander the Tinnitus
+
+458
+00:36:54,541 --> 00:36:58,200
+can inspiration make the SUV safer?
+
+459
+00:36:59,020 --> 00:36:59,720
+it can
+
+460
+00:36:59,721 --> 00:37:01,980
+with 5 star government crash test ratings
+
+461
+00:37:01,981 --> 00:37:04,060
+available side curtain gear bags
+
+462
+00:37:04,061 --> 00:37:05,100
+for all three wheels
+
+463
+00:37:05,101 --> 00:37:06,440
+and all wheel drive
+
+464
+00:37:06,441 --> 00:37:10,180
+The best rating of any SUV tested for world-of-resistance.
+
+465
+00:37:10,760 --> 00:37:11,660
+Chrysler Pacifica.
+
+466
+00:37:11,900 --> 00:37:13,040
+We didn't just make an SUV.
+
+467
+00:37:13,600 --> 00:37:15,400
+We made a safety utility vehicle.
+
+468
+00:37:16,000 --> 00:37:16,700
+Chrysler.
+
+469
+00:37:16,840 --> 00:37:18,080
+Inspiration comes standard.
+
+470
+00:37:18,460 --> 00:37:22,480
+And now get $1,000 in October bonus cash for a combined cash allowance of $3,000.
+
+471
+00:37:22,960 --> 00:37:25,260
+America's hottest products are extra Chrysler dealer.
+
+472
+00:37:25,640 --> 00:37:27,800
+Boston Market's new seasonal dinner specials.
+
+473
+00:37:27,860 --> 00:37:31,420
+Lemonade rotisserie chicken, exotic pan-Asian grilled chicken with Asian salad,
+
+474
+00:37:31,560 --> 00:37:32,920
+and spicy chipotle meatloaf.
+
+475
+00:37:32,921 --> 00:37:34,380
+Plus brand new seasonal sides.
+
+476
+00:37:34,381 --> 00:37:37,900
+broccoli spears with hollandaise, potatoes au gratin, and cranberry walnut relish.
+
+477
+00:37:38,240 --> 00:37:40,040
+Boston Market. We're always cooking.
+
+478
+00:37:40,580 --> 00:37:41,280
+Guys?
+
+479
+00:37:41,400 --> 00:37:42,260
+No way!
+
+480
+00:37:42,480 --> 00:37:44,540
+Yeah, I got us on the Verizon Wireless Family Share Plan,
+
+481
+00:37:44,660 --> 00:37:46,340
+so we can talk to each other as much as we want.
+
+482
+00:37:48,960 --> 00:37:51,840
+And it's got in, so you can talk to your friends all you want, too.
+
+483
+00:37:51,960 --> 00:37:52,660
+Really awesome, now.
+
+484
+00:37:52,661 --> 00:37:53,900
+Yeah, good, good hug.
+
+485
+00:37:56,400 --> 00:37:58,120
+Okay, sign up for the Family Share Plan,
+
+486
+00:37:58,160 --> 00:38:00,440
+and now the whole family can make unlimited in-calls to each other
+
+487
+00:38:00,441 --> 00:38:03,500
+and any other Verizon Wireless customer from the America's Choice coverage area.
+
+488
+00:38:03,501 --> 00:38:04,201
+Give me a call.
+
+489
+00:38:04,380 --> 00:38:06,140
+Now announcing Verizon Wireless at Best Buy.
+
+490
+00:38:06,240 --> 00:38:06,940
+Can you hear me now?
+
+491
+00:38:08,040 --> 00:38:08,740
+Good.
+
+492
+00:38:08,741 --> 00:38:10,340
+Verizon Wireless, we never stop working for you.
+
+493
+00:38:10,580 --> 00:38:13,220
+Surviving cancer is still the biggest victory of my life.
+
+494
+00:38:13,540 --> 00:38:16,180
+And I did it with the help of three Bristol-Myers Squibb medicines.
+
+495
+00:38:16,820 --> 00:38:20,840
+Today, Bristol-Myers Squibb researchers are fighting our most serious diseases.
+
+496
+00:38:21,320 --> 00:38:25,440
+Their life-saving medicines have turned many cancer patients into cancer survivors.
+
+497
+00:38:25,980 --> 00:38:30,880
+Medicines for AIDS, heart disease, and serious mental illness reflect their commitment to research
+
+498
+00:38:30,881 --> 00:38:33,640
+and to extending and enhancing human life.
+
+499
+00:38:33,641 --> 00:38:38,240
+I'm living proof of that. Hope, triumph, and the miracle of medicine.
+
+500
+00:38:38,720 --> 00:38:39,780
+Bristol-Nars with company.
+
+501
+00:38:44,800 --> 00:38:47,260
+New Aquafresh Extreme Clean Whitening.
+
+502
+00:38:47,540 --> 00:38:50,940
+It showers your whole mouth with microactive foam as it whitens,
+
+503
+00:38:51,180 --> 00:38:53,500
+then leaves a cool tingling that just won't quit.
+
+504
+00:38:53,760 --> 00:38:55,200
+New Extreme Clean Whitening.
+
+505
+00:38:55,201 --> 00:39:05,260
+Bonjour, my dear.
+
+506
+00:39:06,000 --> 00:39:07,360
+Hi, how are you?
+
+507
+00:39:07,740 --> 00:39:09,400
+May I help you find something today?
+
+508
+00:39:13,360 --> 00:39:14,060
+Tangerine.
+
+509
+00:39:14,120 --> 00:39:15,020
+That's fun, isn't it?
+
+510
+00:39:15,340 --> 00:39:17,660
+I bet you look wonderful in pink.
+
+511
+00:39:17,820 --> 00:39:19,020
+Oh, that's adorable!
+
+512
+00:39:20,160 --> 00:39:21,680
+I don't like to call them colors.
+
+513
+00:39:21,681 --> 00:39:22,820
+I like to call them flavors.
+
+514
+00:39:22,821 --> 00:39:25,560
+Don't do this to friends and loved ones.
+
+515
+00:39:25,960 --> 00:39:29,320
+Instead of a gift certificate, give the American Express gift card.
+
+516
+00:39:29,560 --> 00:39:31,420
+It's good in over a million places.
+
+517
+00:39:35,960 --> 00:39:38,440
+American Express gift cards are easy to order.
+
+518
+00:39:38,860 --> 00:39:41,800
+Just go to americanexpress.com slash gift card.
+
+519
+00:39:42,340 --> 00:39:44,140
+They can buy almost anything.
+
+520
+00:39:44,740 --> 00:39:47,500
+From skirts to sushi to sporting goods.
+
+521
+00:39:47,840 --> 00:39:49,840
+The American Express gift card.
+
+522
+00:39:50,120 --> 00:39:52,640
+Instead of one place, it's good all over the place.
+
+523
+00:39:52,820 --> 00:40:03,520
+Get the power to multitask.
+
+524
+00:40:03,740 --> 00:40:08,240
+Right now, get this Dimension desktop with the power and performance of an Intel Pentium 4 processor with HT technology.
+
+525
+00:40:08,460 --> 00:40:11,120
+Yours for the amazing price of $9.99 after instant savings.
+
+526
+00:40:11,300 --> 00:40:13,780
+Plus, get a free flat panel upgrade and free two-day shipping.
+
+527
+00:40:14,040 --> 00:40:15,740
+Other Dell desktops start at just $4.19.
+
+528
+00:40:15,960 --> 00:40:17,220
+Would you better call or go online soon?
+
+529
+00:40:17,380 --> 00:40:18,720
+Get more out of multimedia with Dell.
+
+530
+00:40:18,860 --> 00:40:19,820
+And get more out of now.
+
+531
+00:40:19,821 --> 00:40:22,420
+Dell PCs use Intel Pentium 4 processors with HT technology.
+
+532
+00:40:22,820 --> 00:40:29,240
+On the next conspiracy, anthrax attacks, next.
+
+533
+00:40:31,500 --> 00:40:35,460
+We now return to engineering disasters on Modern Marbles.
+
+534
+00:40:36,260 --> 00:40:44,460
+In 2004, a century-old levy in Northern California broke and flooded more than 12,000 acres of crops,
+
+535
+00:40:45,140 --> 00:40:48,680
+causing an estimated $93.7 million in damages.
+
+536
+00:40:48,681 --> 00:40:55,300
+certainly a disaster yet it couldn't compare to the devastation and staggering loss of life
+
+537
+00:40:55,301 --> 00:41:02,900
+the China's Yangtze River Delta experienced in 1931 when a system of levees also failed to hold
+
+538
+00:41:02,901 --> 00:41:04,521
+back rushing waters.
+
+539
+00:41:04,522 --> 00:41:10,760
+It burst through levees of with a wall of water about 22 feet high and caused
+
+540
+00:41:10,761 --> 00:41:18,500
+3.7 million deaths it was the third largest flood on record it's the one that caused the most damage
+
+541
+00:41:18,501 --> 00:41:26,380
+The Yenzi River basin is very large. The Yenzi River is about 6,300 kilometers long.
+
+542
+00:41:26,381 --> 00:41:33,060
+And the basin have a very unique characteristics that is very high from the upstream region.
+
+543
+00:41:33,880 --> 00:41:42,740
+The original source of the Yenzi River is from the Deepak-Qinghai Plateau, which has elevations 3,500 to 5,000 meters.
+
+544
+00:41:42,741 --> 00:41:48,520
+then rushed down to the middle ridge about 2,000 to 500 meters high
+
+545
+00:41:48,521 --> 00:41:53,740
+and then to the flatter area downstream and then empty into the sea at Shanghai.
+
+546
+00:41:54,640 --> 00:41:58,880
+Due to the powerful flow of the river, called the Dragon by the Chinese,
+
+547
+00:41:59,760 --> 00:42:03,560
+great floods historically raged through this area about every 10 years.
+
+548
+00:42:04,400 --> 00:42:05,860
+There's two major reasons.
+
+549
+00:42:05,861 --> 00:42:09,560
+One is the high plateau in the upstream reaches.
+
+550
+00:42:09,561 --> 00:42:16,780
+and they concentrate the rainfall very quickly to the downstream, the middle and lower reaches.
+
+551
+00:42:17,420 --> 00:42:22,860
+The other reason is a lot of moist caused storms gathered from the Bay of Bengal
+
+552
+00:42:22,861 --> 00:42:28,880
+and the Indian Ocean come to the high mountains, and that produced enormous flood.
+
+553
+00:42:30,200 --> 00:42:34,940
+The main flood protection in this area was provided by a system of makeshift levees
+
+554
+00:42:34,941 --> 00:42:37,740
+built by the generations of farmers who lived there.
+
+555
+00:42:39,560 --> 00:42:44,980
+The levees are built along the banks of rivers, so they're built up in layers.
+
+556
+00:42:45,420 --> 00:42:50,140
+Back in the 1800s, these would probably be compacted with animals.
+
+557
+00:42:50,780 --> 00:42:57,400
+So there's levees around that are hundreds of years old that are very susceptible to high water erosion,
+
+558
+00:42:58,520 --> 00:43:03,000
+earthquakes, water overtopping them, and you have these failures.
+
+559
+00:43:03,001 --> 00:43:10,000
+While the Chinese were threatened by an imminent Japanese invasion in the summer of 1931, a
+
+560
+00:43:10,001 --> 00:43:15,000
+series of very heavy storms passed through this region, when there should have only been
+
+561
+00:43:15,001 --> 00:43:16,000
+two.
+
+562
+00:43:16,001 --> 00:43:21,000
+This is a perfect storm situation where the right meteorological conditions occurred,
+
+563
+00:43:21,001 --> 00:43:29,000
+where storms sat over the river basin for a long time period, and then it just overwhelms
+
+564
+00:43:29,001 --> 00:43:32,540
+overwhelms the system that's designed to contain them.
+
+565
+00:43:33,420 --> 00:43:36,380
+Deng Ting Lake was flanked by some of China's oldest levees.
+
+566
+00:43:37,100 --> 00:43:40,620
+The lowlands that surround it are just 105 feet above sea level.
+
+567
+00:43:41,300 --> 00:43:45,020
+When the levees failed, Deng Ting became a vast inland sea.
+
+568
+00:43:46,140 --> 00:43:51,660
+It's like a wall of water in the height of a two-story building coming through.
+
+569
+00:43:51,940 --> 00:43:55,360
+And when that happens, of course, the roads are very upstream and downstream.
+
+570
+00:43:55,361 --> 00:44:01,840
+The waters rose above the rooftops of homes and large population centers, including Nanking and Wuhan.
+
+571
+00:44:02,440 --> 00:44:07,840
+And 51 million people, one-fourth of China's population at the time, became homeless.
+
+572
+00:44:09,080 --> 00:44:10,240
+They were the lucky ones.
+
+573
+00:44:10,920 --> 00:44:14,740
+Approximately 145,000 people were killed by the flood itself,
+
+574
+00:44:15,140 --> 00:44:20,620
+while millions of others suffered later deaths due to disease and starvation caused by the disaster.
+
+575
+00:44:21,240 --> 00:44:24,760
+The area near Wuhan remained flooded for more than four months.
+
+576
+00:44:25,360 --> 00:44:29,680
+the depth of the water exceeding six feet and in places more than 20 feet.
+
+577
+00:44:30,540 --> 00:44:34,960
+With the country now at war with Japan, recovering from the disaster was difficult,
+
+578
+00:44:35,740 --> 00:44:39,980
+and maintaining and building a stronger infrastructure was not an immediate priority.
+
+579
+00:44:41,560 --> 00:44:44,740
+Since 1931, there's another war.
+
+580
+00:44:44,741 --> 00:44:52,300
+The Japanese invasion is 1937 to 1945, and then there's a civil war, 1945 to 1949.
+
+581
+00:44:52,301 --> 00:44:59,100
+So after 1949, the current government has done quite a bit to control the flood.
+
+582
+00:44:59,780 --> 00:45:04,580
+And they have established local river basins and they upgrade the major levees.
+
+583
+00:45:05,180 --> 00:45:10,200
+In 1992, they also began constructing the Three Gorges Dam,
+
+584
+00:45:10,940 --> 00:45:18,020
+a controversial dam that rises 600 feet into the sky and stretches 1.5 miles across the river.
+
+585
+00:45:18,840 --> 00:45:21,440
+It's due to be completed in 2009.
+
+586
+00:45:21,441 --> 00:45:27,480
+The Three Gorges Dam has so much flood carrying capacity.
+
+587
+00:45:27,980 --> 00:45:30,480
+It's about 21 billion cubic meters.
+
+588
+00:45:31,420 --> 00:45:34,520
+For example, the 1931 flood happens again.
+
+589
+00:45:35,300 --> 00:45:41,340
+Most of the flood can be contained by the Three Gorges Project Reservoir,
+
+590
+00:45:41,940 --> 00:45:44,640
+and that will reduce the damage tremendously.
+
+591
+00:45:45,440 --> 00:45:46,820
+Some disagree.
+
+592
+00:45:46,821 --> 00:45:56,060
+The Three Gorges Dam will provide some flood protection in the lower reaches, but it's not going to stop all the floods.
+
+593
+00:45:56,640 --> 00:46:06,560
+But any storms that occur downstream of the dam, which is a very large area, contains huge populations.
+
+594
+00:46:07,740 --> 00:46:12,460
+This area is susceptible to floods and there's no dams to protect that.
+
+595
+00:46:12,461 --> 00:46:18,660
+The impact of the Three Gorges Dam on flooding are very ambiguous.
+
+596
+00:46:19,340 --> 00:46:27,140
+It's a double-edged sword in the sense that the dam will also trap the sediments, the silt.
+
+597
+00:46:27,141 --> 00:46:31,360
+It will increase the level of the riverbed,
+
+598
+00:46:31,720 --> 00:46:36,680
+and so it will mean it will increase the flooding risks for the population upstream.
+
+599
+00:46:37,780 --> 00:46:42,400
+Perhaps the Three Gorges Dam and other flood walls will be able to harness the Yangtze's fury,
+
+600
+00:46:42,460 --> 00:46:48,320
+But the great flood of 1931 taught a lesson through death and misery.
+
+601
+00:46:49,300 --> 00:46:51,700
+The dragon is not easily tamed.
+
+602
+00:46:54,980 --> 00:46:57,560
+Proceeding the great flood of 1931,
+
+603
+00:46:58,280 --> 00:47:02,120
+China suffered a drought between 1928 and 1930
+
+604
+00:47:02,121 --> 00:47:04,520
+that claimed the lives of 3 million.
+
+605
+00:47:05,840 --> 00:47:09,300
+Engineering disasters will return on Modern Marvels.
+
+606
+00:47:09,301 --> 00:47:18,660
+on the next conspiracy anthrax attacks next now on home video from the history channel
+
+607
+00:47:18,661 --> 00:47:24,360
+own your copy of this program delivered directly to you for just $24.95 plus shipping and handling
+
+608
+00:47:24,361 --> 00:47:33,420
+to order call 1-800-708-1776 or shop historychannel.com tech tuesday is brought to you in part by
+
+609
+00:47:33,421 --> 00:47:34,121
+Chrysler.
+
+610
+00:47:36,040 --> 00:47:39,140
+Can inspiration make the town and country even more amazing?
+
+611
+00:47:39,600 --> 00:47:40,300
+Yes.
+
+612
+00:47:40,700 --> 00:47:42,940
+Can it be luxurious and still wait high in safety?
+
+613
+00:47:43,400 --> 00:47:46,960
+With front and rear crumple zones and a five-star side impact crash chest rating?
+
+614
+00:47:47,200 --> 00:47:47,900
+Yes.
+
+615
+00:47:48,120 --> 00:47:49,500
+Can it find a place for everything?
+
+616
+00:47:49,940 --> 00:47:52,140
+Has the Alden minivan bestowed your seating and storage?
+
+617
+00:47:52,660 --> 00:47:53,360
+Of course.
+
+618
+00:47:53,640 --> 00:47:55,480
+The amazing new Chrysler town and country.
+
+619
+00:47:56,060 --> 00:47:56,760
+Chrysler.
+
+620
+00:47:56,920 --> 00:47:58,160
+Inspiration comes standard.
+
+621
+00:47:58,760 --> 00:48:02,940
+Qualified returning down the Chrysler owners can get up to $3,500 in combined cash allowances.
+
+622
+00:48:02,941 --> 00:48:05,260
+America's hottest products are at your price, sir.
+
+623
+00:48:09,400 --> 00:48:14,760
+Every motion picture begins with a single dramatic frame.
+
+624
+00:48:15,760 --> 00:48:21,380
+Introducing the Hitachi UltraVision Cineform Series Plasma High Definition Television.
+
+625
+00:48:22,500 --> 00:48:26,940
+Exclusive plasma technologies deliver the smoothest film-like picture.
+
+626
+00:48:27,980 --> 00:48:30,660
+Original technologies. Seamless integration.
+
+627
+00:48:30,661 --> 00:48:33,420
+only from Hitachi.
+
+628
+00:49:00,660 --> 00:49:04,933
+words apart. Visit microsoft.com slash meet now or call us today.
+
+629
+00:49:04,934 --> 00:49:06,840
+Everything my Roadrunner does
+
+630
+00:49:06,841 --> 00:49:11,327
+is fast, like sending my grandpa video clips to my school's football team.
+
+631
+00:49:11,328 --> 00:49:12,540
+Or downloading music
+
+632
+00:49:12,541 --> 00:49:17,454
+with Roadrunner Rhapsody. Or I'm sending this one to Kramps.
+
+633
+00:49:17,455 --> 00:49:20,320
+Roadrunner High Speed Online is one
+
+634
+00:49:20,321 --> 00:49:23,901
+more reason why with Time Warner Cable, now anything's possible.
+
+635
+00:49:23,902 --> 00:49:25,300
+I like sharing music too.
+
+636
+00:49:25,301 --> 00:49:30,100
+Call 1-800-ROADRUNNER
+
+637
+00:49:30,101 --> 00:49:33,280
+and get your first six months at $29.95 a month
+
+638
+00:49:33,281 --> 00:49:34,400
+plus free installation.
+
+639
+00:49:35,660 --> 00:49:37,440
+This is the working man.
+
+640
+00:49:37,900 --> 00:49:39,200
+The builder of America.
+
+641
+00:49:40,140 --> 00:49:41,860
+Exposed to asbestos.
+
+642
+00:49:42,820 --> 00:49:45,260
+Diagnosed with the diseases of the working man.
+
+643
+00:49:45,820 --> 00:49:49,860
+Lung cancer, mesothelioma, asbestosis.
+
+644
+00:49:50,640 --> 00:49:52,120
+Robbed of a healthy life.
+
+645
+00:49:52,121 --> 00:49:59,400
+If you or a loved one has been diagnosed, Barron and Bud could help you and your family find justice.
+
+646
+00:50:00,200 --> 00:50:02,460
+Call the law firm of Barron and Bud.
+
+647
+00:50:03,040 --> 00:50:04,620
+It's time for justice.
+
+648
+00:50:06,000 --> 00:50:07,180
+What's in a name?
+
+649
+00:50:09,240 --> 00:50:13,280
+At Genealogy.com, discover the history of your family.
+
+650
+00:50:13,920 --> 00:50:17,320
+Now with the free trial membership, it's even easier to begin.
+
+651
+00:50:17,780 --> 00:50:19,820
+Visit Genealogy.com today.
+
+652
+00:50:22,120 --> 00:50:35,440
+In 1692, a crime against God was a crime against state.
+
+653
+00:50:35,980 --> 00:50:38,820
+Witch Hunt, Sunday at 8 on the History Channel.
+
+654
+00:50:41,420 --> 00:50:46,060
+We now return to engineering disasters on Modern Marvels.
+
+655
+00:50:47,140 --> 00:50:51,640
+Asbestos is the disaster of the century that took a century to uncover.
+
+656
+00:50:52,120 --> 00:50:57,540
+It claims 10,000 American lives each year and thousands more worldwide.
+
+657
+00:50:57,541 --> 00:51:07,540
+I can think of no substance in the American workplace that has caused more disease and death than the use of asbestos.
+
+658
+00:51:07,541 --> 00:51:21,290
+When the World Trade Center towers collapsed in 2001, over 1.2 million tons of identified and unidentified hazardous substances, including asbestos, filled the skies
+
+659
+00:51:21,291 --> 00:51:22,540
+over Manhattan.
+
+660
+00:51:22,541 --> 00:51:33,440
+There was enough asbestos in the North Tower of the World Trade Center to create an environmental catastrophe when the building collapsed.
+
+661
+00:51:33,441 --> 00:51:39,940
+Days after the attacks, the Environmental Protection Agency and Occupational Safety and Health Administration
+
+662
+00:51:39,941 --> 00:51:45,740
+found no excessive levels of asbestos in the air, except at or near Ground Zero,
+
+663
+00:51:46,380 --> 00:51:49,860
+and deemed that the air contamination was not a public health threat.
+
+664
+00:51:51,100 --> 00:51:53,920
+However, that testing may only tell part of the story.
+
+665
+00:51:53,921 --> 00:52:00,500
+Generally, when these exposures occur, the monitoring that takes place occurs three or four days after the event,
+
+666
+00:52:00,501 --> 00:52:04,180
+so we don't know what immediately was into the environment
+
+667
+00:52:04,181 --> 00:52:08,500
+and what immediately people were breathing that were around the event.
+
+668
+00:52:08,660 --> 00:52:11,960
+There were many people who participated in the recovery process,
+
+669
+00:52:12,100 --> 00:52:16,660
+in the cleanup process, that did not wear proper respiratory equipment.
+
+670
+00:52:17,160 --> 00:52:22,240
+Many of them have reported the presence of what is known as the World Trade Center cough,
+
+671
+00:52:22,900 --> 00:52:29,740
+which is a type of acute reaction to the dust that contained all types of toxins.
+
+672
+00:52:30,500 --> 00:52:32,140
+Including asbestos.
+
+673
+00:52:33,400 --> 00:52:41,340
+Once touted as the miracle mineral, asbestos in Greek means inextinguishable or incombustible.
+
+674
+00:52:42,780 --> 00:52:46,420
+The mineral's fire-retardant qualities are among its most valuable characteristics.
+
+675
+00:52:47,280 --> 00:52:49,520
+But asbestos is also dangerous.
+
+676
+00:52:49,940 --> 00:52:59,780
+It lurks silently in our walls, pipes, roof shingles, tiles, brake pads, and in the air we breathe.
+
+677
+00:53:00,500 --> 00:53:06,500
+Asbestos was first mined commercially in Quebec, Canada in the late 1800s.
+
+678
+00:53:06,501 --> 00:53:11,500
+The rock-like mineral separates easily into very small airborne fibers.
+
+679
+00:53:11,501 --> 00:53:16,500
+And it is this aerodynamic substance that becomes harmful when inhaled.
+
+680
+00:53:16,501 --> 00:53:21,500
+These fibers can break down and get into the respiratory tract.
+
+681
+00:53:21,501 --> 00:53:25,500
+If you don't breathe the fibers in, they're not really a danger.
+
+682
+00:53:25,501 --> 00:53:31,780
+Those that you can breathe in come into the lung, and because they're natural, they're virtually indestructible.
+
+683
+00:53:31,781 --> 00:53:41,920
+So they continue in the lung to cause a scarring of the lung, and eventually leads to a breathing problem that we now call asbestosis.
+
+684
+00:53:42,760 --> 00:53:51,080
+In 1924, results from an autopsy performed on a 33-year-old woman who worked in an asbestos textile factory for 20 years
+
+685
+00:53:51,081 --> 00:53:54,880
+presented the first clear case of death due to asbestosis.
+
+686
+00:53:55,500 --> 00:54:02,120
+Then in 1930, the British epidemiological study came about of the textile mill workers
+
+687
+00:54:02,121 --> 00:54:08,440
+that showed a much higher prevalence of death and disease from asbestosis
+
+688
+00:54:08,441 --> 00:54:11,540
+in people that manufactured textile products.
+
+689
+00:54:12,580 --> 00:54:16,800
+Despite this and similar reports, the asbestos industry in the U.S.
+
+690
+00:54:16,880 --> 00:54:21,840
+continued to mine, manufacture, and use asbestos in over 3,000 consumer products.
+
+691
+00:54:21,841 --> 00:54:28,840
+The more knowledge that was published in the medical literature about asbestos causing first asbestosis,
+
+692
+00:54:29,880 --> 00:54:35,980
+then lung cancer, then mesothelioma, then other cancers such as gastrointestinal cancers,
+
+693
+00:54:36,360 --> 00:54:41,260
+the more asbestos was being produced and sold to the American public.
+
+694
+00:54:41,960 --> 00:54:44,780
+The industry had long known that asbestos was dangerous,
+
+695
+00:54:45,180 --> 00:54:49,700
+yet it continued to use it without protecting or warning its employees and consumers.
+
+696
+00:54:51,840 --> 00:54:57,180
+Insurance companies knew that asbestos was a risk very early on.
+
+697
+00:54:57,760 --> 00:55:02,920
+In fact, in 1918, an insurance company representative by the name of Hoffman wrote
+
+698
+00:55:02,921 --> 00:55:09,100
+that insurance companies were reluctant to insure people who mined asbestos.
+
+699
+00:55:09,101 --> 00:55:12,840
+They didn't know how to describe asbestosis.
+
+700
+00:55:13,040 --> 00:55:14,820
+They didn't use the term asbestosis.
+
+701
+00:55:15,240 --> 00:55:19,880
+But they knew that workers in this trade died early, and they died rapidly,
+
+702
+00:55:19,881 --> 00:55:23,840
+and they died much more often than workers in other industries.
+
+703
+00:55:24,500 --> 00:55:27,220
+Well, the asbestos industry was aware of this.
+
+704
+00:55:27,460 --> 00:55:31,720
+During the 1930s, it's very clear that the asbestos industry
+
+705
+00:55:31,721 --> 00:55:38,340
+were actually sponsoring research into the area of asbestos and asbestos-related disease.
+
+706
+00:55:38,680 --> 00:55:41,760
+And there are notes in the literature and the letters in the literature
+
+707
+00:55:41,761 --> 00:55:47,660
+saying this is what we're finding, and when cancer came about as a suspicion,
+
+708
+00:55:47,661 --> 00:55:49,540
+let's not mention cancer.
+
+709
+00:55:49,880 --> 00:55:55,920
+Unfortunately, it took decades and thousands of deaths before the industry's dirty little secret was revealed.
+
+710
+00:55:57,320 --> 00:56:04,600
+But fortunately for future victims and their families, the asbestos industry left a paper trail long enough to hang itself.
+
+711
+00:56:05,100 --> 00:56:11,060
+So there is just a vast amount of evidence out there that employers knew about asbestos hazards.
+
+712
+00:56:11,700 --> 00:56:18,260
+Officials of the asbestos companies knew in the 1940s and the 1950s that asbestos could cause cancer.
+
+713
+00:56:18,261 --> 00:56:24,300
+and in the 1960s they were very well aware that asbestos exposure could cause mesothelioma.
+
+714
+00:56:25,180 --> 00:56:29,720
+But it wasn't until the late 1960s or the early 1970s
+
+715
+00:56:29,721 --> 00:56:33,420
+that these companies ever placed warning labels on their products.
+
+716
+00:56:34,680 --> 00:56:40,300
+Finally, in 1972, when the Occupational Safety and Health Administration was established,
+
+717
+00:56:40,301 --> 00:56:43,460
+the first substance it regulated was asbestos.
+
+718
+00:56:43,461 --> 00:56:52,100
+It was virtually impossible for any employer to use asbestos in the workplace to an extent where there was visible dust,
+
+719
+00:56:52,720 --> 00:56:58,580
+which meant that, as a result, pipe coverings that contained asbestos, asbestos cements,
+
+720
+00:56:59,040 --> 00:57:07,320
+and all of the various dusty products that asbestos was used in ceased to be commercially viable anymore.
+
+721
+00:57:07,321 --> 00:57:12,700
+By the early 1980s, companies like Brickley Environmental in San Bernardino, California,
+
+722
+00:57:12,701 --> 00:57:21,040
+have worked on the remediation of asbestos in schools, office buildings, banks, airports, and other commercial use facilities.
+
+723
+00:57:21,320 --> 00:57:27,020
+The material that we're actually going to be removing today is the acoustical ceiling texture, which is above us.
+
+724
+00:57:27,560 --> 00:57:29,160
+This material contains asbestos.
+
+725
+00:57:30,020 --> 00:57:33,660
+The process for removal will be to get the containment set up,
+
+726
+00:57:33,661 --> 00:57:37,080
+negative pressure installed, which you can see down at the end of the hallway down there.
+
+727
+00:57:37,081 --> 00:57:43,640
+The negative pressure system sucks air out of the work area through a series of filters
+
+728
+00:57:43,641 --> 00:57:48,920
+and discharges that air outside, creating a negative pressure in the work area, which
+
+729
+00:57:48,921 --> 00:57:53,400
+ensures that asbestos fibers cannot escape the containment.
+
+730
+00:57:53,401 --> 00:57:56,980
+Once that negative pressure is established, the containment is set up, the decon is set
+
+731
+00:57:56,981 --> 00:58:02,920
+up, the crew will suit up, put on respirators, come in, wet this material down and manually
+
+732
+00:58:02,921 --> 00:58:03,920
+begin scraping it.
+
+733
+00:58:03,921 --> 00:58:09,280
+As they scrape the material, they'll package it, bag it, and process it for final disposal.
+
+734
+00:58:10,600 --> 00:58:15,540
+Despite the efforts to reduce the amount of asbestos manufactured and used in the United States,
+
+735
+00:58:16,120 --> 00:58:18,120
+the asbestos crisis is far from over.
+
+736
+00:58:18,460 --> 00:58:22,280
+Asbestos products continue to be sold today.
+
+737
+00:58:22,281 --> 00:58:28,700
+Many people think that asbestos has been banned, but in fact, there is no ban of asbestos products.
+
+738
+00:58:28,701 --> 00:58:34,820
+As long as asbestos remains in the air we breathe, asbestos cases will remain in the courts.
+
+739
+00:58:35,760 --> 00:58:42,000
+And because of the numbers of people who have been injured by the inhalation of asbestos,
+
+740
+00:58:42,460 --> 00:58:45,740
+we have hundreds of thousands of cases pending in the court system.
+
+741
+00:58:46,480 --> 00:58:52,360
+Thousands of men and women who built our country in the decades following World War II have already paid the price.
+
+742
+00:58:52,361 --> 00:58:58,200
+The people that are dying today are German people that have been exposed 20, 30 years ago.
+
+743
+00:59:06,446 --> 00:59:16,546
+I think that asbestos has become a disaster in the engineering sense because while it has so many useful uses, the overwhelming problems have been that those are
+
+744
+00:59:16,547 --> 00:59:18,240
+outweighed by the epidemic.
+
+745
+00:59:18,241 --> 00:59:23,280
+odorless and tasteless.
+
+746
+00:59:24,720 --> 00:59:29,720
+This invisible killer has taken over 300,000 lives in the last century
+
+747
+00:59:29,721 --> 00:59:36,220
+and is estimated to take 150,000 more between now and 2030.
+
+748
+00:59:40,120 --> 00:59:42,060
+Facts provoke thought.
+
+749
+00:59:43,300 --> 00:59:45,220
+Thought spills questions.
+
+750
+00:59:45,221 --> 00:59:48,920
+Questions ignite controversy.
+
+751
+00:59:49,820 --> 00:59:51,020
+Make up your own mind.
+
+752
+00:59:51,580 --> 00:59:52,340
+Conspiracy.
+
+753
+00:59:52,640 --> 00:59:53,340
+Next.
+
+754
+00:59:53,341 --> 00:59:54,460
+Only on the History Channel.
+

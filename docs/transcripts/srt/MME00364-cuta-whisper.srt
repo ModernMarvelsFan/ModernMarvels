@@ -1,0 +1,2280 @@
+1
+00:00:00,001 --> 00:00:12,000
+On March 19, 2003, coalition troops invaded Iraq, aiming for Saddam Hussein and Baghdad
+
+2
+00:00:12,001 --> 00:00:17,000
+with all of the force and might of the United States military.
+
+3
+00:00:17,001 --> 00:00:23,000
+The invasion generated a flood of intelligence from satellite imagery, weapons mounted video feeds,
+
+4
+00:00:23,001 --> 00:00:30,000
+computers, broadcast news reports, and telephone and radio calls from troops on the ground.
+
+5
+00:00:30,001 --> 00:00:36,000
+All of it was gathered, sorted and filtered by United States Central Command, or CENTCOM,
+
+6
+00:00:36,001 --> 00:00:39,000
+a modern military command post.
+
+7
+00:00:39,001 --> 00:00:44,000
+CENTCOM isn't the entire U.S. military structure that monitors the world.
+
+8
+00:00:44,001 --> 00:00:51,000
+It is just one part of that structure, the part that monitors the so-called central region.
+
+9
+00:00:51,001 --> 00:00:54,700
+Other command posts similar to CENTCOM have different responsibilities,
+
+10
+00:00:55,840 --> 00:00:57,860
+including monitoring other regions of the world
+
+11
+00:00:57,861 --> 00:01:01,020
+or handling specialized military functions.
+
+12
+00:01:02,780 --> 00:01:07,240
+But all modern command posts are at their core, conduits of information.
+
+13
+00:01:08,500 --> 00:01:11,300
+CENTCOM is the premier example of the modern command post
+
+14
+00:01:11,301 --> 00:01:15,100
+because it is enmeshed in the most hostile region on the planet.
+
+15
+00:01:16,240 --> 00:01:20,420
+The tools it uses to gather and sort information have to be cutting edge.
+
+16
+00:01:21,000 --> 00:01:31,600
+There is a belt of conflict and turmoil that runs across the center of the globe, through Africa, through the Middle East and Central Asia.
+
+17
+00:01:31,880 --> 00:01:36,620
+And it is from this belt of turmoil that most of the conflict in today's world is happening.
+
+18
+00:01:37,360 --> 00:01:41,820
+And CENTCOM happens to sit smack dab in the middle of this belt of turmoil.
+
+19
+00:01:43,280 --> 00:01:47,220
+CENTCOM is a joint command center, headed by General John Abizade.
+
+20
+00:01:50,566 --> 00:02:00,372
+With its main post at MacDill Air Force Base outside Tampa, Florida, and another forward command post in Doha, Qatar, right within its area of responsibility, or AOR,
+
+21
+00:02:00,373 --> 00:02:07,520
+these two command posts are tethered by communications equipment, and together they monitor events in a 25-country swath.
+
+22
+00:02:07,521 --> 00:02:13,740
+Although CENTCOM was established more than two decades ago, CENTCOM's forward command
+
+23
+00:02:13,741 --> 00:02:19,440
+post in Doha, Qatar was constructed in just three months in 2003, after planners felt
+
+24
+00:02:19,441 --> 00:02:24,300
+it was safe and necessary to have a military presence within the CENTCOM AOR.
+
+25
+00:02:25,080 --> 00:02:28,000
+You might ask yourself, is that a workable solution?
+
+26
+00:02:28,180 --> 00:02:34,800
+How can a command have real-time operational control over a very complex area of the world,
+
+27
+00:02:34,801 --> 00:02:36,480
+12,000 miles away?
+
+28
+00:02:36,481 --> 00:02:39,360
+quite possible due to technology and communications.
+
+29
+00:02:40,760 --> 00:02:46,380
+Bringing such a complex communications network to an area of the world with relatively low-tech infrastructure
+
+30
+00:02:46,381 --> 00:02:51,440
+presented challenges to those planning CENTCOM's forward command post in late 2002.
+
+31
+00:02:53,120 --> 00:02:57,480
+We loaded the headquarters aboard a ship and deployed it to Qatar.
+
+32
+00:02:57,680 --> 00:03:02,960
+We sent an advanced party here just about ten days before the headquarters arrived,
+
+33
+00:03:02,961 --> 00:03:09,960
+all crated up in its collapsible boxes and they prepared the area inside a big hangar-like
+
+34
+00:03:09,961 --> 00:03:16,800
+structure, which was nice because it allowed us better environmental control.
+
+35
+00:03:16,801 --> 00:03:19,591
+We were connected through fiber optic connections.
+
+36
+00:03:19,592 --> 00:03:21,880
+Then we came in, set up the headquarters,
+
+37
+00:03:21,881 --> 00:03:27,740
+and we were able to link into those connections to give the headquarters the connectivity
+
+38
+00:03:27,741 --> 00:03:30,640
+it needed to do the warfighting.
+
+39
+00:03:30,641 --> 00:03:36,020
+Within months, CENTCOM was a joint command, part in Tampa and part in Doha.
+
+40
+00:03:36,021 --> 00:03:41,780
+The two posts worked together to monitor the AOR, manage the situation in Afghanistan,
+
+41
+00:03:41,781 --> 00:03:44,560
+and conduct the war in Iraq.
+
+42
+00:03:44,561 --> 00:03:50,080
+We are focused over here on the immediacy of the war effort in Iraq and Afghanistan.
+
+43
+00:03:50,081 --> 00:03:57,240
+But at the same time, being forward allows us to go out and engage with all of the 25
+
+44
+00:03:57,241 --> 00:04:02,000
+countries that are in this area of responsibility.
+
+45
+00:04:02,001 --> 00:04:07,220
+During the war, this place was a hum of professionalism.
+
+46
+00:04:07,221 --> 00:04:12,040
+Each desk that you see behind me was very busy gathering information, assessing what
+
+47
+00:04:12,041 --> 00:04:20,000
+it meant within the context of the ongoing battle, and framing decisions for the commander.
+
+48
+00:04:20,001 --> 00:04:24,760
+Having CENTCOM's forward command thousands of miles away in Qatar, and its base back
+
+49
+00:04:24,761 --> 00:04:30,080
+at MacDill, Florida, made for some logistical challenges that only the most sophisticated
+
+50
+00:04:30,081 --> 00:04:32,360
+communications tools could overcome.
+
+51
+00:04:32,361 --> 00:04:39,560
+Technology today allows us to keep everybody pretty much informed on what's going on and
+
+52
+00:04:39,561 --> 00:04:40,560
+up to speed.
+
+53
+00:04:40,561 --> 00:04:43,640
+And that's the real challenge of the split operations.
+
+54
+00:04:43,641 --> 00:04:47,080
+It's keeping everybody on the same sheet of music.
+
+55
+00:04:47,081 --> 00:04:50,200
+NavSat Bahrain, this is CENTCOM for a comms check.
+
+56
+00:04:50,201 --> 00:04:51,200
+How do you read?
+
+57
+00:04:51,201 --> 00:04:52,200
+CENTCOM, this is NavSat Bahrain.
+
+58
+00:04:52,201 --> 00:04:54,200
+I have you loud and clear.
+
+59
+00:04:54,201 --> 00:05:00,200
+satellites, telephones, computer screens, video conferences.
+
+60
+00:05:00,201 --> 00:05:04,200
+A network of the most sophisticated communications technology available
+
+61
+00:05:04,201 --> 00:05:10,200
+enables command posts to develop intelligence into an overwhelming military advantage.
+
+62
+00:05:10,201 --> 00:05:15,200
+Communications aided by high technology these days is what we call a force multiplier.
+
+63
+00:05:15,201 --> 00:05:20,200
+It actually enhances the ability of your force to have any effect in warfare.
+
+64
+00:05:20,201 --> 00:05:27,200
+The purpose of this secure video teleconference is to facilitate command of the Central Command component commanders...
+
+65
+00:05:27,201 --> 00:05:31,200
+Modern command posts provide three basic types of information.
+
+66
+00:05:31,201 --> 00:05:34,200
+First is situational awareness.
+
+67
+00:05:34,201 --> 00:05:39,200
+We'll provide a general understanding of what is happening in our area of responsibility,
+
+68
+00:05:39,201 --> 00:05:44,200
+or more specifically, an understanding of the insurgency that is ongoing in Iraq
+
+69
+00:05:44,201 --> 00:05:48,200
+or ongoing Al-Qaeda terrorist activities in Afghanistan.
+
+70
+00:05:48,201 --> 00:05:53,200
+The second type of information we'll provide is force protection information.
+
+71
+00:05:53,201 --> 00:06:00,200
+Essentially, we receive information about threats or impending attacks upon our forces in the area of responsibility.
+
+72
+00:06:00,201 --> 00:06:07,200
+Finally, we provide targeting information, and targeting is key to any application of military force.
+
+73
+00:06:07,201 --> 00:06:14,200
+Every moment of every day, intelligence information is analyzed at CENTCOM in Doha and in Florida.
+
+74
+00:06:14,201 --> 00:06:19,720
+Anything that emits a signal, be it friendly or enemy, gets placed on that screen.
+
+75
+00:06:20,440 --> 00:06:22,660
+In the middle screen is a video teleconference.
+
+76
+00:06:23,520 --> 00:06:30,280
+We do those every day, and we collaborate with DIA, CIA, and also our subordinate commands.
+
+77
+00:06:30,860 --> 00:06:33,980
+To your top right is a tool called Top Scene.
+
+78
+00:06:33,981 --> 00:06:39,000
+We manipulate the imagery so that it appears in a three-dimensional environment.
+
+79
+00:06:39,001 --> 00:06:45,120
+There's a chat session going on with folks in our forward headquarters in Gutter.
+
+80
+00:06:45,121 --> 00:06:50,940
+You also see between them there's a phone called the Internet phone, IP phone,
+
+81
+00:06:51,340 --> 00:06:54,140
+and it allows secure communication at the top secret level.
+
+82
+00:06:54,500 --> 00:06:56,800
+Again, a good collaborative tool.
+
+83
+00:06:58,520 --> 00:07:01,640
+Today's command posts are actually communications hubs,
+
+84
+00:07:02,100 --> 00:07:05,560
+technologically unparalleled and able to gather information from anywhere,
+
+85
+00:07:06,300 --> 00:07:07,100
+Send it to anywhere.
+
+86
+00:07:07,820 --> 00:07:09,840
+And do it securely and in real time.
+
+87
+00:07:10,740 --> 00:07:16,960
+The technology really allows you to get inside the enemy's decision cycle.
+
+88
+00:07:17,800 --> 00:07:18,820
+And that's critical.
+
+89
+00:07:19,020 --> 00:07:24,280
+I mean, that simply means that we know more than he knows about the battlefield and the battle space that's over it.
+
+90
+00:07:24,980 --> 00:07:26,940
+And we know it sooner and quicker.
+
+91
+00:07:27,420 --> 00:07:29,960
+And therefore, we're able to make decisions on that quicker.
+
+92
+00:07:29,961 --> 00:07:35,000
+So this process needs to happen very quickly if you want it to be effective in warfare.
+
+93
+00:07:35,001 --> 00:07:41,060
+And one of the major differences between the 1991 Gulf War and the 2003 Gulf War
+
+94
+00:07:41,061 --> 00:07:45,000
+is we've cut this process from days to hours to minutes.
+
+95
+00:07:46,160 --> 00:07:49,860
+What you're looking at here is a three-day look at activity inside of Iraq.
+
+96
+00:07:50,900 --> 00:07:54,660
+It's human reporting as well as other sources, other intelligence disciplines.
+
+97
+00:07:55,200 --> 00:07:58,020
+And what we try and do is take a look at a specific site.
+
+98
+00:07:58,021 --> 00:08:04,460
+We drill down into those sites using other sources to try and identify specific locations
+
+99
+00:08:04,461 --> 00:08:06,780
+in order to target and track those individuals.
+
+100
+00:08:07,360 --> 00:08:11,000
+We hand them off to Special Operations Forces and Convincial Forces inside of Iraq
+
+101
+00:08:11,001 --> 00:08:13,080
+so they either capture or kill those individuals.
+
+102
+00:08:14,560 --> 00:08:18,720
+Central Command is just one of nine United States unified command posts
+
+103
+00:08:18,721 --> 00:08:20,200
+that envelop the entire planet.
+
+104
+00:08:21,200 --> 00:08:23,000
+There are four other regional commands.
+
+105
+00:08:23,440 --> 00:08:26,740
+European Command monitors Europe, most of Africa, and much of Asia.
+
+106
+00:08:28,420 --> 00:08:32,020
+Pacific Command monitors Southern Asia, Australia, and Antarctica.
+
+107
+00:08:32,021 --> 00:08:36,020
+Southern Command monitors portions of Central and South America.
+
+108
+00:08:36,021 --> 00:08:41,020
+Northern Command, the newest, formed in the wake of the September 11th attacks,
+
+109
+00:08:41,021 --> 00:08:45,020
+oversees North America and is responsible for homeland security.
+
+110
+00:08:47,020 --> 00:08:51,020
+Four other non-regional commands complete the unified command structure,
+
+111
+00:08:51,021 --> 00:08:55,020
+including Transportation Command, which handles logistics,
+
+112
+00:08:55,021 --> 00:08:59,020
+the delivery of all military equipment, food, and even soldiers.
+
+113
+00:08:59,021 --> 00:09:07,020
+Joint Forces Command is in charge of coordinating the various military branches, troops, and military experimentation.
+
+114
+00:09:07,021 --> 00:09:16,020
+Strategic Command controls military space operations, strategic warning and intelligence assessments, and global strategic planning.
+
+115
+00:09:16,021 --> 00:09:21,020
+Special Operations Command controls secret military operations requiring specialized training.
+
+116
+00:09:21,021 --> 00:09:26,020
+Each unified command has a command structure similar to CENTCOM.
+
+117
+00:09:26,021 --> 00:09:32,080
+Commander CENTCOM answers directly to the Secretary of Defense and he or she to the President.
+
+118
+00:09:32,820 --> 00:09:39,200
+So there's a direct chain of command with only one person in between the President of the United States and the Central Command Commander.
+
+119
+00:09:39,680 --> 00:09:45,720
+And what is true of CENTCOM's communications network is true of each of the command posts among the unified commands.
+
+120
+00:09:47,120 --> 00:09:53,380
+But because CENTCOM's AOR is the hotspot, it frequently implements the latest technology first,
+
+121
+00:09:53,381 --> 00:09:59,740
+enabling commanders like Avasaid to literally conduct a war from thousands of miles away if they need to.
+
+122
+00:10:00,860 --> 00:10:07,680
+The commander now has the ability to choose his location rather than being dictated by geography.
+
+123
+00:10:08,440 --> 00:10:15,160
+We can provide the commander with all the information that he needs no matter where he's located on the planet.
+
+124
+00:10:16,140 --> 00:10:20,040
+Modern technology has made command posts like CENTCOM possible.
+
+125
+00:10:20,041 --> 00:10:24,060
+although the long history of warfare is marked by much slower communication.
+
+126
+00:10:25,460 --> 00:10:29,480
+But when information was available, it often gave a decisive advantage.
+
+127
+00:10:31,360 --> 00:10:34,660
+The regions contested by the Palestinians and Israelis
+
+128
+00:10:34,661 --> 00:10:39,180
+are actually under the jurisdiction of European Command, not Central Command.
+
+129
+00:10:39,800 --> 00:10:42,160
+Command Central will return on Modern Marvels.
+
+130
+00:10:44,240 --> 00:10:48,540
+Military intelligence has always been a vital component of every commander's arsenal.
+
+131
+00:10:48,541 --> 00:10:55,340
+Today it continues to provide a tactical advantage to command posts like CENTCOM,
+
+132
+00:10:56,040 --> 00:11:00,520
+just as it has since the very first command post ever gathered information about an enemy.
+
+133
+00:11:02,480 --> 00:11:05,340
+From the very beginning that we have descriptions of battles,
+
+134
+00:11:05,860 --> 00:11:08,160
+that's what we always look for, you know, the intelligence.
+
+135
+00:11:08,280 --> 00:11:10,340
+Who had it? Who needed it? Did it get there in time?
+
+136
+00:11:11,860 --> 00:11:13,920
+Ancient commanders were also kings,
+
+137
+00:11:14,480 --> 00:11:17,920
+which meant political and military powers were centralized within the leader.
+
+138
+00:11:18,540 --> 00:11:25,320
+Thutmose III, for example, a famous conquering general had dozens of campaigns in the north
+
+139
+00:11:25,321 --> 00:11:27,480
+and southern border and Woodleuthan himself.
+
+140
+00:11:27,481 --> 00:11:32,940
+Now, he didn't have to report back to himself because he's already in the field.
+
+141
+00:11:32,941 --> 00:11:38,820
+But often, word had to be sent from one commander to another, or to his troops, usually over
+
+142
+00:11:38,821 --> 00:11:41,380
+a battlefield.
+
+143
+00:11:41,381 --> 00:11:45,400
+Sometimes flags and musical instruments were used to convey tactical information over the
+
+144
+00:11:45,401 --> 00:11:48,380
+din of battle.
+
+145
+00:11:48,381 --> 00:11:54,440
+signals originating in the recesses of history were adapted and employed well into the 20th century.
+
+146
+00:11:55,540 --> 00:12:00,880
+Some of the earliest forms of communications included horns, bugles, conch shells, and drums.
+
+147
+00:12:01,160 --> 00:12:06,065
+The bugle, for instance, was used to give tactical signals on the battlefield.
+
+148
+00:12:06,066 --> 00:12:07,260
+A certain series of
+
+149
+00:12:07,261 --> 00:12:12,860
+notes would mean certain things to the troops, and the noise of the bugle could carry above the
+
+150
+00:12:12,861 --> 00:12:16,118
+in a battle, troops could hear it and react accordingly.
+
+151
+00:12:16,119 --> 00:12:17,980
+To the actual soldier in combat,
+
+152
+00:12:18,500 --> 00:12:22,163
+the flag was a focal point for him in a chaos of war.
+
+153
+00:12:22,164 --> 00:12:24,720
+A soldier, bullets flying around him,
+
+154
+00:12:24,900 --> 00:12:26,251
+smoke blinding him, whatever.
+
+155
+00:12:26,252 --> 00:12:29,420
+If he could see the flag, if he could see the direction the flag was
+
+156
+00:12:29,421 --> 00:12:32,988
+moving, he could focus on that flag and follow it.
+
+157
+00:12:32,989 --> 00:12:36,200
+Over greater distances, visual cues were more
+
+158
+00:12:36,201 --> 00:12:40,743
+difficult. Sometimes simple messages could be relayed using fire.
+
+159
+00:12:40,744 --> 00:12:42,560
+That type of signal can be
+
+160
+00:12:42,561 --> 00:12:44,140
+of the one if by land, two if by sea.
+
+161
+00:12:44,440 --> 00:12:47,100
+It will just tell you that there's been an invasion.
+
+162
+00:12:47,980 --> 00:12:49,480
+It has to be a prearranged signal.
+
+163
+00:12:51,460 --> 00:12:54,300
+The Romans improved on this simple communication tool
+
+164
+00:12:54,301 --> 00:12:56,820
+using an A-frame made of large timbers
+
+165
+00:12:56,821 --> 00:12:59,000
+that could be either raised or lowered.
+
+166
+00:13:00,300 --> 00:13:02,740
+On each timber was a fire that signaled a code.
+
+167
+00:13:03,200 --> 00:13:06,420
+You break the alphabet up into blocks
+
+168
+00:13:06,421 --> 00:13:08,480
+of so many letters per block.
+
+169
+00:13:08,660 --> 00:13:11,160
+The first torch tells you which block.
+
+170
+00:13:11,161 --> 00:13:15,140
+the second signal tells you which letter within the block.
+
+171
+00:13:15,440 --> 00:13:18,780
+And so you can actually spell things out alphabetically.
+
+172
+00:13:19,680 --> 00:13:22,980
+But most intelligence from ancient battlefields and commanders
+
+173
+00:13:22,981 --> 00:13:25,320
+required transporting a physical thing,
+
+174
+00:13:26,160 --> 00:13:30,040
+using a messenger to verbally relay the message or hand over the tablet.
+
+175
+00:13:31,220 --> 00:13:35,540
+Technology was basic, a swift runner or a good horse, and a good road.
+
+176
+00:13:35,541 --> 00:13:45,100
+Sending a messenger or a horse rider through a wilderness can't really count on that, especially during inclement weather.
+
+177
+00:13:45,640 --> 00:13:54,240
+Now a road gives you a path, that way the messenger knows the way, knows the way back, and also during weather it increases the chance of getting there.
+
+178
+00:13:55,120 --> 00:14:02,400
+Once all roads led to Rome, military strategists could combine this broadcast network with a courier service,
+
+179
+00:14:03,000 --> 00:14:08,120
+by foot or horse, to relay information from the far reaches of the empire back to the Senate.
+
+180
+00:14:09,420 --> 00:14:13,220
+But lag time, sometimes as great as months from an outpost like Britain,
+
+181
+00:14:13,800 --> 00:14:19,420
+prevented distant capitals like Rome from functioning as battle-time command posts in outlying areas.
+
+182
+00:14:19,421 --> 00:14:25,200
+Centralization was possible to the extent that Rome was the capital.
+
+183
+00:14:25,780 --> 00:14:33,100
+And the Senate obviously ran the war because it sent the consuls out in order to execute that war.
+
+184
+00:14:33,340 --> 00:14:35,600
+Very often foreign policy was made on the borders.
+
+185
+00:14:37,300 --> 00:14:41,080
+At a time when military commanders were among the few who were literate,
+
+186
+00:14:41,560 --> 00:14:45,460
+written communication was a form of security, though it wasn't foolproof.
+
+187
+00:14:45,980 --> 00:14:50,140
+Messages by courier could also be intercepted, with monumental consequences.
+
+188
+00:14:50,920 --> 00:14:55,780
+When Hannibal was in the south of Italy, waiting for his brother to reinforce him,
+
+189
+00:14:56,220 --> 00:15:01,740
+his brother sends a letter to Hannibal, saying, let's meet up and we'll crush the Romans.
+
+190
+00:15:02,320 --> 00:15:04,580
+Hannibal writes back, then the Romans intercept it.
+
+191
+00:15:04,940 --> 00:15:06,820
+So now they know where his reinforcements are.
+
+192
+00:15:06,821 --> 00:15:11,180
+They proceed to the north of Italy, defeat Hasdrubal, cut his head off,
+
+193
+00:15:11,820 --> 00:15:14,580
+and then ride all the way down to the south of Italy.
+
+194
+00:15:14,581 --> 00:15:19,000
+and bowl the head into the tent of Hannibal.
+
+195
+00:15:19,200 --> 00:15:21,680
+Sort of a message, you know, your reinforcements aren't coming.
+
+196
+00:15:23,080 --> 00:15:25,860
+Securing intelligence sometimes required a disguise,
+
+197
+00:15:26,480 --> 00:15:28,680
+a message scratched on tablets of lead
+
+198
+00:15:28,681 --> 00:15:31,340
+and tied to a swimmer's arm for waterproof delivery.
+
+199
+00:15:33,240 --> 00:15:35,380
+Or etched on thin sheets of lead,
+
+200
+00:15:35,700 --> 00:15:38,240
+then curled into a tube to be worn as a woman's earring.
+
+201
+00:15:40,580 --> 00:15:43,020
+Or tattooed on the shaved head of a slave
+
+202
+00:15:43,021 --> 00:15:45,820
+and delivered only after his hair had grown back.
+
+203
+00:15:46,600 --> 00:15:49,000
+The only message he was to deliver was shave my head.
+
+204
+00:15:49,900 --> 00:15:52,300
+It would work with a military censor now.
+
+205
+00:15:53,620 --> 00:15:57,580
+Military centralization didn't improve in the centuries following the Roman Empire.
+
+206
+00:15:58,400 --> 00:16:00,940
+In fact, it declined during the Middle Ages,
+
+207
+00:16:01,440 --> 00:16:05,500
+as road systems fell apart and feudal hierarchy decentralized power,
+
+208
+00:16:05,900 --> 00:16:07,440
+both political and military.
+
+209
+00:16:07,800 --> 00:16:12,020
+You still had, essentially, communications that was,
+
+210
+00:16:12,021 --> 00:16:15,680
+for the most part on the battlefield, no faster than your fastest rider.
+
+211
+00:16:16,480 --> 00:16:19,520
+And that was the way of things for some two millennia.
+
+212
+00:16:20,460 --> 00:16:24,060
+But a decisive change was evident during the American Civil War
+
+213
+00:16:24,061 --> 00:16:26,700
+due to two revolutionary technologies.
+
+214
+00:16:27,720 --> 00:16:32,140
+The first was the telegraph, which for the first time since fire
+
+215
+00:16:32,141 --> 00:16:36,240
+signals made distant communication possible without transporting a physical
+
+216
+00:16:36,241 --> 00:16:36,941
+message.
+
+217
+00:16:36,942 --> 00:16:41,720
+This is an example of a Civil War telegraph key.
+
+218
+00:16:41,721 --> 00:16:46,720
+This particular example is called a camelback because of the hump of the lever arm for the key.
+
+219
+00:16:46,721 --> 00:16:52,720
+What you would have here are a couple of contacts that once the contacts are closed,
+
+220
+00:16:52,721 --> 00:16:57,720
+a spark is created which travels along the line to a sounder.
+
+221
+00:16:57,721 --> 00:17:03,720
+This would be at a distance station, and the spark goes through these coils here,
+
+222
+00:17:03,721 --> 00:17:06,960
+through induction makes this lever arm click against the other.
+
+223
+00:17:09,360 --> 00:17:12,640
+Battlefield reports now traveled at electric speed.
+
+224
+00:17:13,680 --> 00:17:17,080
+The dashes and dots of Morse code still needed to be translated,
+
+225
+00:17:17,740 --> 00:17:22,020
+but distant commanders could coordinate quickly without leaving their command posts.
+
+226
+00:17:22,920 --> 00:17:27,960
+The military telegraph was used to connect general headquarters to corps headquarters,
+
+227
+00:17:28,400 --> 00:17:32,080
+down to division headquarters, but it usually didn't extend much farther than that,
+
+228
+00:17:32,081 --> 00:17:36,300
+down to the company level, down to the foot soldier, the front lines, if you will.
+
+229
+00:17:37,240 --> 00:17:39,900
+Below division commanders, communication was verbal.
+
+230
+00:17:40,580 --> 00:17:43,260
+General Grant, who had a telegraph key at his command post,
+
+231
+00:17:43,700 --> 00:17:46,040
+could send messages to President Lincoln in Washington
+
+232
+00:17:46,041 --> 00:17:49,320
+faster than he could send messages to his own lieutenants.
+
+233
+00:17:49,700 --> 00:17:51,840
+But the telegraph presented its own challenges.
+
+234
+00:17:52,980 --> 00:17:57,440
+There are attempts to link division commanders with corps commanders,
+
+235
+00:17:57,560 --> 00:18:00,340
+with army commanders at Gettysburg by running telegraph wire.
+
+236
+00:18:00,341 --> 00:18:04,120
+And the experiment was partially successful.
+
+237
+00:18:04,660 --> 00:18:08,140
+A skilled telegrapher could send messages quite quickly,
+
+238
+00:18:08,640 --> 00:18:12,080
+so you could get an answer back in 15 or 20 minutes to a query.
+
+239
+00:18:13,300 --> 00:18:19,040
+A command post like Grant's, usually established in a nearby commandeered home or even a church,
+
+240
+00:18:19,520 --> 00:18:24,200
+might have anywhere from 5 to 15 men, mostly clerks hand-copying orders.
+
+241
+00:18:25,780 --> 00:18:29,880
+Others would gather information from couriers and dispatch it to officers.
+
+242
+00:18:30,340 --> 00:18:32,260
+Still others would man the telegraph.
+
+243
+00:18:33,640 --> 00:18:36,740
+Tables were used to display maps of nearby battlefields.
+
+244
+00:18:38,020 --> 00:18:42,660
+These maps might even include topographic information gathered by map-making scouts.
+
+245
+00:18:44,020 --> 00:18:49,000
+The second revolutionary technology that changed the Civil War command post was the railroad.
+
+246
+00:18:49,960 --> 00:18:51,920
+The railroad kind of drove the telegraph.
+
+247
+00:18:52,020 --> 00:18:55,980
+In other words, with the railroad being able to move a large number of troops quickly,
+
+248
+00:18:56,120 --> 00:18:59,220
+you had to have means to get that word to the commander.
+
+249
+00:18:59,900 --> 00:19:03,840
+A steam locomotive could sustain speeds far exceeding the top speed of a horse,
+
+250
+00:19:04,140 --> 00:19:05,880
+as long as the track was maintained,
+
+251
+00:19:06,400 --> 00:19:09,240
+and the military could transport more on them than just couriers.
+
+252
+00:19:10,560 --> 00:19:15,860
+It was able to utilize the railroad in moving large numbers of troops rapidly to the field.
+
+253
+00:19:15,861 --> 00:19:19,820
+Jefferson Davis himself, for example, at the first Battle of Manassas,
+
+254
+00:19:20,100 --> 00:19:24,740
+telegraphing the commander on the field to bring reinforcements,
+
+255
+00:19:24,860 --> 00:19:26,520
+and they arrive by railroad.
+
+256
+00:19:26,521 --> 00:19:33,920
+Command posts were able to collect remote information, evaluate it, then swiftly act with decisive force.
+
+257
+00:19:34,980 --> 00:19:38,280
+The North controlled more telegraph lines and railroad track than the South.
+
+258
+00:19:39,340 --> 00:19:44,240
+So communication was a tactical advantage, as long as the post could manage all the intelligence.
+
+259
+00:19:44,940 --> 00:19:47,640
+And that required a staff of command post office workers.
+
+260
+00:19:48,860 --> 00:19:54,960
+In addition to bureaucracy, centralization created another burden, at least from a military perspective.
+
+261
+00:19:54,961 --> 00:19:56,900
+Civilian Oversight.
+
+262
+00:19:57,760 --> 00:20:03,840
+These telegraph lines become very important to connecting Army field commanders
+
+263
+00:20:03,841 --> 00:20:08,560
+to the Central Command in Washington at the War Department.
+
+264
+00:20:08,760 --> 00:20:12,100
+That's where the telegraph lines all fed into.
+
+265
+00:20:12,600 --> 00:20:17,700
+Curiously enough, they never continued the telegraph lines over to the White House just across the street.
+
+266
+00:20:18,180 --> 00:20:21,360
+Abraham Lincoln would make his daily journeys from the White House
+
+267
+00:20:21,361 --> 00:20:25,900
+and sat patiently listening to the ticker machines bring in the reports.
+
+268
+00:20:27,220 --> 00:20:32,040
+As important as the telegraph and the railroad were to the evolution of command posts,
+
+269
+00:20:32,580 --> 00:20:36,060
+they would both be eclipsed by innovations in communication technology
+
+270
+00:20:36,061 --> 00:20:39,620
+that took place in the years following the end of the Civil War.
+
+271
+00:20:42,620 --> 00:20:47,080
+Sending messages via carrier pigeons by exploiting their natural homing instincts
+
+272
+00:20:47,081 --> 00:20:51,700
+has a long military history, but an inconsistent one for the United States.
+
+273
+00:20:52,320 --> 00:20:53,678
+During World War I, U.S.
+
+274
+00:20:53,679 --> 00:20:57,300
+carrier pigeons made excellent targets for enemy guns in Europe.
+
+275
+00:20:58,480 --> 00:21:00,920
+Command Central will return on Modern Marvels.
+
+276
+00:21:02,380 --> 00:21:08,940
+Command posts continued their path toward further centralization in part due to an 1876 invention.
+
+277
+00:21:10,540 --> 00:21:13,640
+Alexander Graham Bell's telephone improved on the telegraph
+
+278
+00:21:13,641 --> 00:21:17,460
+by sending a human voice along the cables rather than a coded blip.
+
+279
+00:21:18,720 --> 00:21:22,880
+The phone made real-time two-way conversation possible over great distances.
+
+280
+00:21:24,180 --> 00:21:26,680
+The military was eager to exploit its potential.
+
+281
+00:21:28,120 --> 00:21:34,120
+By the 1880s, the United States Army is pushing for a field telephone,
+
+282
+00:21:34,240 --> 00:21:36,480
+and the person doing it is Adolphus Greeley.
+
+283
+00:21:36,481 --> 00:21:40,420
+He develops the field telephone, and the United States Army uses it.
+
+284
+00:21:40,421 --> 00:21:43,960
+Here you have a camp telephone of World War I vintage.
+
+285
+00:21:44,220 --> 00:21:47,200
+Telephony had developed by the start of the World War,
+
+286
+00:21:47,660 --> 00:21:51,420
+and this was a new method of communication used within the front lines.
+
+287
+00:21:51,900 --> 00:21:54,920
+You would have two telephone units connected by a wire, of course,
+
+288
+00:21:55,160 --> 00:21:58,640
+and if you wanted to make a call, you'd lift up on the handset here,
+
+289
+00:21:58,960 --> 00:22:00,440
+reach over here and turn a crank,
+
+290
+00:22:01,160 --> 00:22:04,240
+which would send a signal down the wire and ring a bell on the other end,
+
+291
+00:22:04,380 --> 00:22:06,860
+alerting the other end that there was a call coming in.
+
+292
+00:22:06,861 --> 00:22:10,260
+And once you got the call on the other line, you would just talk normally.
+
+293
+00:22:10,420 --> 00:22:14,140
+A large battery inside the unit provided the power.
+
+294
+00:22:15,840 --> 00:22:20,060
+The field telephone brought communication from command central to just behind the front.
+
+295
+00:22:21,520 --> 00:22:26,000
+But because it needed a wire connection to a network, it was vulnerable to artillery.
+
+296
+00:22:28,140 --> 00:22:34,680
+The logical improvement over the telegraph and telephone was real-time two-way communication without a landline.
+
+297
+00:22:34,681 --> 00:22:40,840
+Marconi patented a wireless telegraph in 1895, precursor to the radio.
+
+298
+00:22:41,840 --> 00:22:44,280
+But early wireless devices were big and heavy.
+
+299
+00:22:45,080 --> 00:22:49,160
+Marconi's was practicable aboard ships where weight didn't make much difference
+
+300
+00:22:49,161 --> 00:22:53,060
+and was adopted by the Navy by 1910 or 11.
+
+301
+00:22:54,420 --> 00:23:02,100
+Ironically, World War I military command centers were able to communicate with naval ships far out at sea with relative ease using the radio.
+
+302
+00:23:02,980 --> 00:23:06,540
+Yet communication with front-line troops in the foxholes of eastern France
+
+303
+00:23:06,541 --> 00:23:10,000
+was still impossible due to the size of the unwieldy devices.
+
+304
+00:23:11,140 --> 00:23:14,840
+One reason why World War I offensives bogged down
+
+305
+00:23:14,841 --> 00:23:20,280
+is because the infantry generally tries to advance in concert with the artillery,
+
+306
+00:23:20,720 --> 00:23:22,580
+with the rolling barrages.
+
+307
+00:23:27,320 --> 00:23:29,520
+But inevitably there were snags.
+
+308
+00:23:29,960 --> 00:23:31,920
+Barbed wire would slow infantrymen down.
+
+309
+00:23:32,100 --> 00:23:39,540
+And so the artillery barrage, a time barrage, would roll forward, but the infantry would generally fall behind.
+
+310
+00:23:43,860 --> 00:23:52,540
+More precisely, there was no quick way for the men in the trenches to communicate with the artillery via the command post to challenges they faced at the front.
+
+311
+00:23:53,780 --> 00:23:55,460
+Messengers proved too slow.
+
+312
+00:23:56,540 --> 00:24:01,540
+But elsewhere in the theater of war, improvements in transportation were aiding military communication.
+
+313
+00:24:02,100 --> 00:24:09,660
+The internal combustion engine paved the way for the automobile, faster than a courier's horse and more agile than a railroad locomotive.
+
+314
+00:24:12,800 --> 00:24:19,200
+But it was the airplane's use of the internal combustion engine that really provided a leap forward in communication.
+
+315
+00:24:21,020 --> 00:24:30,580
+The United States Army Signal Corps issues the first contract for an airplane, for a military airplane, with the Wright brothers in 1908.
+
+316
+00:24:30,581 --> 00:24:35,580
+So this is hardly five years after the Wright brothers first flight.
+
+317
+00:24:35,581 --> 00:24:40,580
+But make no mistake, in the first World War, the key importance of the aircraft was reconnaissance.
+
+318
+00:24:40,581 --> 00:24:43,580
+It wasn't bombing, it wasn't the fighter, it was reconnaissance.
+
+319
+00:24:44,580 --> 00:24:50,580
+Reconnaissance planes provided a tactical advantage due to another technology invented in the 19th century.
+
+320
+00:24:50,581 --> 00:24:52,580
+The photographic camera.
+
+321
+00:24:52,581 --> 00:24:58,400
+Because observers couldn't remember or sketch the labyrinthine trench system, photographs
+
+322
+00:24:58,401 --> 00:25:04,280
+were the most important intelligence a World War I plane could capture.
+
+323
+00:25:04,281 --> 00:25:08,220
+Photos and other data could be couriered by auto or flown back to General Pershing's
+
+324
+00:25:08,221 --> 00:25:11,900
+headquarters in western France.
+
+325
+00:25:11,901 --> 00:25:15,460
+Pershing and his staff created a command central out of commandeered French buildings
+
+326
+00:25:15,461 --> 00:25:18,220
+behind the front.
+
+327
+00:25:18,221 --> 00:25:22,380
+Couriers gave information from the front to clerks who copied, encoded and sent the
+
+328
+00:25:22,381 --> 00:25:26,920
+information on through telegraph, telephone or radio connections up the
+
+329
+00:25:26,921 --> 00:25:32,200
+chain of command to Washington if necessary. Sometimes information from
+
+330
+00:25:32,201 --> 00:25:36,500
+above came down to Pershing's post where his staff determined who needed to know
+
+331
+00:25:36,501 --> 00:25:42,060
+what before sending it on its way. Reconnaissance photos, battlefield maps,
+
+332
+00:25:42,061 --> 00:25:47,280
+intercepted enemy communications, requests for supplies, all passed through
+
+333
+00:25:47,281 --> 00:25:51,900
+Pershing's command post and were evaluated. The command post had become a
+
+334
+00:25:51,901 --> 00:25:56,553
+clearinghouse, sorting and prioritizing a deluge of intelligence.
+
+335
+00:25:56,554 --> 00:25:58,200
+With overseas telegraph
+
+336
+00:25:58,201 --> 00:26:03,660
+and telephone cables and radio relay stations connecting Pershing to Washington, the United
+
+337
+00:26:03,661 --> 00:26:07,800
+States was on the verge of running the war thousands of miles from the battlefield.
+
+338
+00:26:07,801 --> 00:26:13,100
+The Army Signal Corps in World War I connected Washington, D.C., with Pershing's headquarters
+
+339
+00:26:13,101 --> 00:26:15,835
+in France, with the divisional commanders.
+
+340
+00:26:15,836 --> 00:26:18,700
+In other words, Washington could talk to the
+
+341
+00:26:18,701 --> 00:26:22,320
+divisional commanders if Washington so chose to do that.
+
+342
+00:26:23,000 --> 00:26:24,620
+But Washington chose not to.
+
+343
+00:26:25,140 --> 00:26:29,860
+One reason why Washington wasn't running the war is that Woodrow Wilson did not particularly
+
+344
+00:26:29,861 --> 00:26:32,240
+feel that he was capable of running the war.
+
+345
+00:26:32,241 --> 00:26:37,340
+So essentially Washington gave Pershing carte blanche, but certainly this communications
+
+346
+00:26:37,341 --> 00:26:42,980
+net enabled Pershing to immediately transmit requests for necessities.
+
+347
+00:26:43,780 --> 00:26:47,380
+Military professionals hoped political leaders would trust the system.
+
+348
+00:26:47,381 --> 00:26:53,560
+Even after the armistice in 1918, military planners continued improving communications
+
+349
+00:26:53,561 --> 00:26:58,540
+technology, like the telephone and the radio, strengthening the capabilities of command
+
+350
+00:26:58,541 --> 00:27:03,160
+posts for the anticipated next war.
+
+351
+00:27:03,161 --> 00:27:07,911
+And by World War II, new technology was finally able to connect Washington, D.C.
+
+352
+00:27:07,912 --> 00:27:08,920
+to the commanders
+
+353
+00:27:08,921 --> 00:27:11,440
+at the front lines.
+
+354
+00:27:11,441 --> 00:27:14,480
+This is a Signal Corps BC-611 transceiver.
+
+355
+00:27:14,481 --> 00:27:18,840
+What you would do with this is after you've jumped with it, a lot of times paratroopers
+
+356
+00:27:18,841 --> 00:27:24,020
+jump with it and they have this cover to keep you from inadvertently sending out a signal,
+
+357
+00:27:24,021 --> 00:27:35,600
+you take the cover off, you would take off the antenna cover, extend the antenna, and
+
+358
+00:27:35,601 --> 00:27:42,380
+the act of extending the antenna actually turns the unit on, and then press the PTT
+
+359
+00:27:42,381 --> 00:27:45,620
+to push to talk switch and talk into this normally.
+
+360
+00:27:45,621 --> 00:27:47,360
+Release the switch to receive.
+
+361
+00:27:48,360 --> 00:27:51,420
+You have a sling so you can put it over your shoulder
+
+362
+00:27:51,421 --> 00:27:53,760
+so you can be looking at a map or whatever
+
+363
+00:27:53,761 --> 00:27:55,600
+while you're using it or slinging over your back
+
+364
+00:27:55,601 --> 00:27:56,620
+when not in use.
+
+365
+00:27:56,621 --> 00:27:59,200
+Turn the unit off, push the antenna back down
+
+366
+00:27:59,201 --> 00:28:00,100
+into its housing.
+
+367
+00:28:04,240 --> 00:28:07,880
+This is a BC-1000 walkie-talkie.
+
+368
+00:28:07,881 --> 00:28:11,600
+This is an FM radio as opposed to the AM transceiver
+
+369
+00:28:11,601 --> 00:28:13,600
+that we just looked at.
+
+370
+00:28:13,601 --> 00:28:16,600
+This has greater range than the handheld transceiver,
+
+371
+00:28:16,601 --> 00:28:19,200
+and it also is less resistant to interference,
+
+372
+00:28:19,201 --> 00:28:22,080
+thanks to the frequency modulation.
+
+373
+00:28:22,081 --> 00:28:26,220
+To operate this, you would tune in your frequency here.
+
+374
+00:28:26,221 --> 00:28:28,820
+Again, this is an advantage over the handheld,
+
+375
+00:28:28,821 --> 00:28:30,220
+which is a fixed frequency.
+
+376
+00:28:30,221 --> 00:28:32,260
+This is a tunable frequency.
+
+377
+00:28:32,261 --> 00:28:34,960
+You have a handset right here.
+
+378
+00:28:34,961 --> 00:28:37,420
+When you talk, you rotate this little lever
+
+379
+00:28:37,421 --> 00:28:40,860
+with your thumb to talk, and then release to receive.
+
+380
+00:28:41,600 --> 00:28:47,200
+The knob switched the circuit from the receiver attached to the earphone to the transmitter
+
+381
+00:28:47,201 --> 00:28:50,720
+in the mouthpiece.
+
+382
+00:28:50,721 --> 00:28:55,360
+Secretary of War George Marshall embraced technology, which allowed him to conduct from
+
+383
+00:28:55,361 --> 00:29:02,240
+Washington a single war in two regions thousands of miles apart, the European Theater and the
+
+384
+00:29:02,241 --> 00:29:04,240
+Pacific Theater.
+
+385
+00:29:04,241 --> 00:29:09,360
+This idea of separate theaters of war managed simultaneously from far away was possible
+
+386
+00:29:09,361 --> 00:29:11,160
+only because of improved communication.
+
+387
+00:29:12,360 --> 00:29:15,880
+Yet Marshall gave his regional commanders enormous autonomy.
+
+388
+00:29:16,880 --> 00:29:19,960
+If you look at Marshall's administrative philosophy,
+
+389
+00:29:20,180 --> 00:29:25,520
+it's something like that of a very large, well-run corporation with branch offices.
+
+390
+00:29:26,220 --> 00:29:29,200
+And the boss at the center, if he is good,
+
+391
+00:29:29,760 --> 00:29:34,140
+has excellent information flow from the heads of those branch offices.
+
+392
+00:29:34,860 --> 00:29:37,200
+Eisenhower called the War Department in Washington
+
+393
+00:29:37,201 --> 00:29:39,660
+from his European theater command post in France,
+
+394
+00:29:40,120 --> 00:29:43,240
+days after the June 6, 1944 D-Day invasion,
+
+395
+00:29:43,700 --> 00:29:45,140
+to order vital tank parts.
+
+396
+00:29:47,160 --> 00:29:48,920
+Marshall was also in close communication
+
+397
+00:29:48,921 --> 00:29:51,120
+with General MacArthur and Admiral Nimitz,
+
+398
+00:29:51,540 --> 00:29:52,980
+both managing the Pacific Theater.
+
+399
+00:29:54,440 --> 00:29:56,140
+But on the other side of the front,
+
+400
+00:29:56,580 --> 00:29:58,700
+there was a perfect illustration of the flaw
+
+401
+00:29:58,701 --> 00:30:00,820
+inherent in a centralized command structure,
+
+402
+00:30:01,380 --> 00:30:04,060
+a micromanaging dictator at the very center
+
+403
+00:30:04,061 --> 00:30:05,620
+of a centralized command.
+
+404
+00:30:06,440 --> 00:30:13,900
+Hitler is the perfect example of a national leader who concerned himself not only with the movement of armies,
+
+405
+00:30:14,320 --> 00:30:20,400
+but with the movement of divisions, with the movement of units of brigade size, battalion size,
+
+406
+00:30:20,680 --> 00:30:22,880
+that is, units of fewer than a thousand men.
+
+407
+00:30:23,180 --> 00:30:30,940
+And Hitler's interference, which this modern communications made possible, was a great advantage to us.
+
+408
+00:30:30,941 --> 00:30:38,440
+Communications technology enabled the World War II command post to monitor battlefields across the globe.
+
+409
+00:30:38,441 --> 00:30:49,520
+But the next war would for the most part be a cold one, based on high-tech spying, greater centralization, and more bureaucracy in the command structure.
+
+410
+00:30:51,740 --> 00:31:00,240
+As a captain during World War I, future General George Marshall so impressed General Pershing that after the armistice, Pershing made him his aide-de-camp.
+
+411
+00:31:00,940 --> 00:31:03,740
+Command Central will return on Modern Marvels.
+
+412
+00:31:05,000 --> 00:31:11,960
+After World War II, the United States was the dominant Western power against the Communists in the subsequent Cold War.
+
+413
+00:31:13,220 --> 00:31:18,860
+Former Secretary of War George Marshall worked with President Truman to create a new centralized military
+
+414
+00:31:18,861 --> 00:31:23,620
+based on regional commands connected by superior communication technology.
+
+415
+00:31:24,520 --> 00:31:26,120
+His changes began at the top.
+
+416
+00:31:26,121 --> 00:31:33,640
+He began to back what we would call the Defense Department, that is a single unified cabinet
+
+417
+00:31:33,641 --> 00:31:38,680
+level department in which all the military branches would be under a single civilian
+
+418
+00:31:38,681 --> 00:31:40,740
+chief.
+
+419
+00:31:40,741 --> 00:31:45,280
+Under Truman, Marshall created the Joint Chiefs of Staff, representing the different branches
+
+420
+00:31:45,281 --> 00:31:50,560
+of the military, which would answer to the newly created Secretary of Defense.
+
+421
+00:31:50,561 --> 00:31:53,840
+The Secretary of Defense answered only to the President.
+
+422
+00:31:53,841 --> 00:31:57,500
+Eventually, as the unified command posts we know today evolved,
+
+423
+00:31:58,100 --> 00:32:00,860
+they too would answer directly to the Secretary of Defense.
+
+424
+00:32:01,820 --> 00:32:06,780
+So while Marshall does not invent the modern army's organizational structure,
+
+425
+00:32:06,781 --> 00:32:12,220
+he certainly is the man who was at least as important as anyone else
+
+426
+00:32:12,221 --> 00:32:15,360
+in showing the way that it should be done.
+
+427
+00:32:16,680 --> 00:32:20,080
+Technologies that would support and enhance this new command structure
+
+428
+00:32:20,081 --> 00:32:22,900
+were embodied in the computer and the satellite.
+
+429
+00:32:23,840 --> 00:32:36,100
+Our need to have rapid communications was, of course, pushed very hard by the threat of a Soviet surprise attack on the United States, a nuclear Pearl Harbor.
+
+430
+00:32:36,101 --> 00:32:46,720
+A decapitation strike against the leadership in Washington, D.C., by big Soviet ICBMs might well take out the entire National Command Authority.
+
+431
+00:32:46,721 --> 00:32:53,720
+Satellites offered instant early detection, important in a Soviet ICBM attack that might take only 30 minutes.
+
+432
+00:32:53,721 --> 00:33:00,720
+We need the ability to look into the Soviet Union and discern what their intentions are.
+
+433
+00:33:00,721 --> 00:33:06,720
+It was important to get satellites up, and we achieved that by the early 1960s.
+
+434
+00:33:06,721 --> 00:33:12,720
+Monitoring events throughout the world was easier with a giant eye floating overhead.
+
+435
+00:33:12,721 --> 00:33:17,340
+floating overhead that could beam information back to Washington and its military command
+
+436
+00:33:17,341 --> 00:33:21,119
+posts. Now those military posts needed a giant brain.
+
+437
+00:33:21,120 --> 00:33:23,900
+Early computers were already tabulating
+
+438
+00:33:23,901 --> 00:33:27,912
+artillery accuracy during the later stages of World War II.
+
+439
+00:33:27,913 --> 00:33:30,020
+By the 1950s, they were working
+
+440
+00:33:30,021 --> 00:33:32,068
+to collect and store intelligence.
+
+441
+00:33:32,069 --> 00:33:35,080
+You need the help of computers to help process all
+
+442
+00:33:35,081 --> 00:33:38,475
+this data. It's more data than a human can get through in a timely manner.
+
+443
+00:33:38,476 --> 00:33:39,176
+In the late
+
+444
+00:33:39,177 --> 00:33:44,140
+1950, the military created ARPA, the Advanced Research Projects Agency, and its job was
+
+445
+00:33:44,141 --> 00:33:46,584
+to develop new communications technologies.
+
+446
+00:33:46,585 --> 00:33:49,540
+Well, ARPA scientists fiddled around with computers,
+
+447
+00:33:50,600 --> 00:33:55,480
+linked them together, and by 1969, they had four nodes connected together in what they
+
+448
+00:33:55,481 --> 00:34:01,840
+called an ARPANET. Now, from this ARPANET grew more nodes until it evolved into the
+
+449
+00:34:01,841 --> 00:34:03,020
+Internet that we know it today.
+
+450
+00:34:03,560 --> 00:34:07,620
+These innovations made communication ever faster and more complete.
+
+451
+00:34:08,480 --> 00:34:12,660
+Photographs could be sent via satellite, as could television images.
+
+452
+00:34:14,480 --> 00:34:17,160
+Messages could be broadcast from one computer to another.
+
+453
+00:34:18,040 --> 00:34:22,880
+The need to physically courier a message was long gone, but weaknesses in the system weren't.
+
+454
+00:34:23,360 --> 00:34:32,980
+During the war in Vietnam in the 1960s, opponents with fewer resources and less technology exploited them by fighting low-tech guerrilla-style wars.
+
+455
+00:34:32,981 --> 00:34:41,760
+They have adopted a very fine cell-like system that suppresses the flow of information.
+
+456
+00:34:42,500 --> 00:34:48,440
+And this makes it difficult for a technologically oriented society like ours to break into that.
+
+457
+00:34:49,280 --> 00:34:53,160
+America continued to pursue a more centralized regional command structure,
+
+458
+00:34:53,560 --> 00:34:57,340
+even as the Cold War began to thaw in the 1980s and 1990s.
+
+459
+00:34:57,800 --> 00:35:02,540
+But events in the Near East and North Africa, plus the strategic importance of oil,
+
+460
+00:35:02,980 --> 00:35:05,360
+refocused attention toward that region of the world.
+
+461
+00:35:06,520 --> 00:35:08,200
+Before the creation of Central Command,
+
+462
+00:35:08,440 --> 00:35:10,760
+the world was divided up between the European Command,
+
+463
+00:35:10,900 --> 00:35:14,260
+which stretches far as Pakistan and Afghanistan,
+
+464
+00:35:14,680 --> 00:35:17,660
+and the Pacific Command, which actually included Pakistan,
+
+465
+00:35:18,400 --> 00:35:22,360
+and India, and the dividing line between the commands
+
+466
+00:35:22,361 --> 00:35:23,800
+was at that border.
+
+467
+00:35:24,740 --> 00:35:27,320
+A long war between Iran and Iraq
+
+468
+00:35:27,321 --> 00:35:29,440
+followed the Soviet invasion of Afghanistan
+
+469
+00:35:29,441 --> 00:35:33,020
+and the Iranian hostage crisis, both in 1979.
+
+470
+00:35:34,540 --> 00:35:37,660
+President Carter created the Rapid Deployment Task Force,
+
+471
+00:35:37,940 --> 00:35:39,920
+which monitored these Middle Eastern events
+
+472
+00:35:39,921 --> 00:35:42,420
+and was on standby to intervene militarily.
+
+473
+00:35:43,460 --> 00:35:45,020
+Then when Reagan became president,
+
+474
+00:35:45,021 --> 00:35:49,220
+he decided that the best thing to do with this rather ad hoc unit
+
+475
+00:35:49,221 --> 00:35:51,020
+called the Rapid Deployment Joint Task Force
+
+476
+00:35:51,021 --> 00:35:54,560
+was to turn it into a full-fledged unified command
+
+477
+00:35:54,561 --> 00:35:58,620
+in the same sense as the European command, the Pacific command.
+
+478
+00:35:59,440 --> 00:36:02,420
+Central Command became a full command in 1983.
+
+479
+00:36:04,440 --> 00:36:11,340
+CENTCOM's stewardship of the region was put to the test when in 1990, Saddam Hussein's Iraq invaded Kuwait.
+
+480
+00:36:12,440 --> 00:36:17,620
+Again, the world's eyes were riveted to this volatile region under Central Command's watch.
+
+481
+00:36:18,540 --> 00:36:22,008
+But what really set things into motion was the U.S.
+
+482
+00:36:22,009 --> 00:36:25,000
+decision to send over half a million troops,
+
+483
+00:36:25,001 --> 00:36:29,160
+plus the troops of some 30-odd other coalition members
+
+484
+00:36:29,161 --> 00:36:34,260
+to invade Iraq and Kuwait and take back Kuwait from the Iraqis in 1991.
+
+485
+00:36:35,020 --> 00:36:37,460
+This put the command on a totally different footing,
+
+486
+00:36:37,461 --> 00:36:42,560
+and from that level of strategic attention flowed the new technologies,
+
+487
+00:36:42,960 --> 00:36:49,380
+the innovative military experiences, and other advantages, if you will, over the 1990s.
+
+488
+00:36:49,760 --> 00:36:54,380
+The Gulf War was also the last war in a long line of American military engagements.
+
+489
+00:36:54,381 --> 00:36:59,140
+before communications technology truly permeated every aspect of warfare.
+
+490
+00:36:59,680 --> 00:37:07,040
+The Gulf War of 1991 was, in many ways, the Cold War battle that we never fought against the Soviets.
+
+491
+00:37:08,040 --> 00:37:13,440
+And we got glimpses of the future of an information technology-driven war, but it was not one.
+
+492
+00:37:13,960 --> 00:37:17,200
+It was a war that was still fought mostly by tank ships and planes.
+
+493
+00:37:17,201 --> 00:37:23,140
+And so the modern wars that started with the Civil War and ended with the Gulf War,
+
+494
+00:37:23,141 --> 00:37:25,760
+were really wars that were characterized by industrial mass.
+
+495
+00:37:26,860 --> 00:37:31,840
+And World War II really being the apogee of that style of warfare.
+
+496
+00:37:32,040 --> 00:37:34,000
+But if you look at wars of the information age,
+
+497
+00:37:34,060 --> 00:37:38,600
+in World War II, what it took a thousand bombers to destroy,
+
+498
+00:37:40,300 --> 00:37:42,920
+could be destroyed by a hundred bombers in Vietnam,
+
+499
+00:37:45,780 --> 00:37:49,560
+could be destroyed by maybe ten bombers in the 1991 Gulf War,
+
+500
+00:37:49,561 --> 00:37:57,400
+and can now be destroyed by one bomber or even less in the 2003 Iraq War
+
+501
+00:37:57,401 --> 00:38:00,380
+because of the advances in information technology and communications,
+
+502
+00:38:00,820 --> 00:38:02,660
+not so much the advances in weaponry.
+
+503
+00:38:03,480 --> 00:38:09,880
+The war in Iraq that began on March 19, 2003, was a new war for a new era,
+
+504
+00:38:10,320 --> 00:38:14,480
+managed by computer and telephone and video conferences from command posts,
+
+505
+00:38:14,960 --> 00:38:17,340
+hundreds, even thousands of miles away.
+
+506
+00:38:17,341 --> 00:38:23,020
+communication technology no longer simply helped relay messages and gather intelligence.
+
+507
+00:38:23,540 --> 00:38:28,380
+Now it made bombs smarter, tanks deadlier, and the fighting force smaller.
+
+508
+00:38:31,100 --> 00:38:36,400
+Of the nine unified commands, Strategic Command is responsible for space surveillance
+
+509
+00:38:36,401 --> 00:38:39,460
+or monitoring man-made objects orbiting Earth.
+
+510
+00:38:40,640 --> 00:38:42,800
+Command Central will return on Modern Marvels.
+
+511
+00:38:42,801 --> 00:38:54,560
+The future of the command post is virtual, a command post that exists in the web of electronic communications, rather than a real place of brick and mortar.
+
+512
+00:38:55,380 --> 00:39:04,986
+In future wars, computers will allow soldiers and battlefield commanders to pull down from this virtual command post their own options, based on their environment,
+
+513
+00:39:04,987 --> 00:39:07,520
+rather than having a plan thrust upon them.
+
+514
+00:39:07,521 --> 00:39:14,940
+We will design systems where the user will be able to determine, much like the users of the Internet do, what they want to see.
+
+515
+00:39:15,520 --> 00:39:19,799
+So the broadcaster won't be in charge of what information goes to the user.
+
+516
+00:39:19,800 --> 00:39:21,340
+The user will be in charge.
+
+517
+00:39:22,120 --> 00:39:25,240
+In future wars, information will become the primary weapon.
+
+518
+00:39:25,840 --> 00:39:31,020
+In future wars, soldiers may even remain back at the command post, safely removed from the battlefield.
+
+519
+00:39:31,021 --> 00:39:41,027
+Why send a soldier or a pilot somewhere where you can send an unmanned vehicle that can provide the same sort of information, in fact better information because an
+
+520
+00:39:41,028 --> 00:39:51,156
+unmanned vehicle not only can have several different kinds of sensory devices built into it, but it only exposes the technology to danger when it gets in trouble and
+
+521
+00:39:51,157 --> 00:39:52,200
+not a human life.
+
+522
+00:39:53,280 --> 00:39:58,240
+Technology can now bring a realistic virtual version of the battlefield right to the command post.
+
+523
+00:39:58,241 --> 00:40:07,020
+examples of this futuristic net-centric warfare were on display during the invasion of iraq in 2003
+
+524
+00:40:07,021 --> 00:40:13,160
+look at the second gulf war where daily you're faxing large number of things back and everybody
+
+525
+00:40:13,161 --> 00:40:20,340
+is on instant messaging and everybody's emailing back with regularity that changed the whole
+
+526
+00:40:20,341 --> 00:40:26,080
+approach to technology in less than a decade i think sometimes we forget that in the first gulf
+
+527
+00:40:26,081 --> 00:40:27,560
+we didn't even have email.
+
+528
+00:40:29,200 --> 00:40:32,440
+In both Afghanistan and in Iraq recently,
+
+529
+00:40:32,980 --> 00:40:35,260
+you had the specter of B-2 bombers
+
+530
+00:40:35,261 --> 00:40:38,160
+running their daily bombing missions from Missouri
+
+531
+00:40:38,161 --> 00:40:40,740
+to Afghanistan and Iraq and back again,
+
+532
+00:40:41,280 --> 00:40:43,600
+controlled by headquarters from Florida
+
+533
+00:40:43,601 --> 00:40:46,460
+and supplied by information,
+
+534
+00:40:46,860 --> 00:40:48,500
+gathered maybe another continent away
+
+535
+00:40:48,501 --> 00:40:49,780
+and sent to them in real time.
+
+536
+00:40:51,560 --> 00:40:54,360
+And that network will only get more powerful.
+
+537
+00:40:55,020 --> 00:40:58,380
+Global positioning systems may someday be sewn into every uniform.
+
+538
+00:40:59,060 --> 00:41:01,720
+Video cameras may someday be installed into every helmet.
+
+539
+00:41:02,640 --> 00:41:07,500
+Computer programs can generate nearly infinite scenarios for how a conflict might play out.
+
+540
+00:41:08,680 --> 00:41:13,220
+The technology exists, but the flow of information may become overwhelming.
+
+541
+00:41:13,860 --> 00:41:19,500
+Even though we have the ability to get things from satellites and to electronically monitor information,
+
+542
+00:41:19,740 --> 00:41:24,320
+it complicates things because we wind up with more information than we can analyze at any given time.
+
+543
+00:41:24,360 --> 00:41:31,020
+And there's always a possibility of, if not human error, human sabotage getting into one of those systems.
+
+544
+00:41:31,600 --> 00:41:33,580
+And what if the whole thing crashes?
+
+545
+00:41:35,080 --> 00:41:40,500
+An astute adversary will go after this advantage, whether it's through computer viruses,
+
+546
+00:41:40,880 --> 00:41:42,360
+or whether it's through electromagnetic weapons,
+
+547
+00:41:43,180 --> 00:41:48,440
+or whether it's through any means meant to disrupt this big network of communications
+
+548
+00:41:48,441 --> 00:41:51,100
+that sits like a bubble above American forces.
+
+549
+00:41:51,980 --> 00:41:56,920
+Another option for adversaries is to completely slip under the radar, so to speak,
+
+550
+00:41:57,120 --> 00:42:01,480
+to play by rules other than the ones dictated by sophisticated communication systems.
+
+551
+00:42:02,180 --> 00:42:06,900
+The real key to success in warfare is to get to the future ahead of the next guy.
+
+552
+00:42:07,880 --> 00:42:13,760
+And on September 11, 2001, for instance, you could say that al-Qaeda arrived at the future before we did.
+
+553
+00:42:13,761 --> 00:42:21,440
+They brought a new style of warfare to our shores.
+
+554
+00:42:26,300 --> 00:42:32,720
+Not every challenge faced by the United States can be handled through an email from a command post thousands of miles away.
+
+555
+00:42:33,640 --> 00:42:39,360
+It took a very low-tech approach to intelligence gathering to find Saddam Hussein.
+
+556
+00:42:39,361 --> 00:42:48,874
+So, at what point do we listen to our technical instincts, which allow us to draw further and further away from the battlefield, or do we listen to our political
+
+557
+00:42:48,875 --> 00:42:56,260
+instincts, which require us to have very physical engagements in the sorts of missions that CENTCOM's involved in these days?
+
+558
+00:42:58,660 --> 00:43:05,500
+Modern wars, now monitored by command posts like CENTCOM, combine both technological and human components.
+
+559
+00:43:06,320 --> 00:43:10,320
+Even the communications technology utilized by modern commands has to be read,
+
+560
+00:43:11,260 --> 00:43:14,080
+interpreted, and acted upon by a person.
+
+561
+00:43:15,780 --> 00:43:18,820
+At the end of the day, war is a human business.
+
+562
+00:43:19,440 --> 00:43:22,640
+All commanders bring a different style of command.
+
+563
+00:43:23,520 --> 00:43:26,700
+Some are very, very comfortable handling it through pure technology.
+
+564
+00:43:27,580 --> 00:43:30,880
+And perhaps have had the training time to understand all that.
+
+565
+00:43:31,360 --> 00:43:32,800
+Others like a mixture of it.
+
+566
+00:43:32,801 --> 00:43:37,860
+I like to look a subordinate in the eyes to understand his confidence.
+
+567
+00:43:38,060 --> 00:43:39,480
+Does he understand my intent?
+
+568
+00:43:40,440 --> 00:43:44,160
+And then you've always got the technological piece to back it up.
+
+569
+00:43:44,820 --> 00:43:48,140
+And if the long history of command post is any indication,
+
+570
+00:43:49,340 --> 00:43:53,820
+that technological component will only get more sophisticated in the future.
+

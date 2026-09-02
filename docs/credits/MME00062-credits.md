@@ -1,0 +1,48 @@
+# Credit Roll: The Atlantic Wall (1998)
+**Canonical Episode:** [`MME00062: The Atlantic Wall`](../episodes/MME00062.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `(c) 1999 & 2005 A&E Television Network All Rights Reserved`
+* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
+* **Narrator:** MAX RAPHAEL, JOHN KNAPP
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Accountants** | LINDA SCRIBNER, JUDI MINITELLO, SHERIDAN LIU, LISA CASELLA, PAULETTE PANTOJA |
+| **Animated Maps by** | RED GYPSY ANIMATION |
+| **Animated Stills by** | ADAM GOODWIN |
+| **Animation by** | VICTOR BORNIA |
+| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
+| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
+| **Associate Producer** | CORRIE KAUFMAN |
+| **Camera** | RUDI DEMUNTER, LUKE ELLIS, DAVID GERDRUM, JOHN KABASAKALIS, MAC KENNY, RAINES SPEIDEL, THEODORE THORNTON |
+| **Clearance Supervisors** | AMY TRAHANT, KATIE DEL CORE |
+| **Consulting Producer** | RON NELSON |
+| **Coordinators** | TERRENCE HARTWELL, BRAD SKILES |
+| **Created by** | BRUCE NASH |
+| **Director of Research** | ALLISON BOON |
+| **Edited by** | SEAN DASH, ANDREW CORWIN |
+| **Executive Producer** | DON CAMBOU |
+| **Field Audio** | STEVE CONNOR, ROBERT FETZER, CHERYL GERDRUM, THIBAUT JAMAR, GREG STIDHAM, JUGEN SCHWARZ |
+| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
+| **Historical Consultants** | EDWARD VON DER PORTEN, RUDI ROLF |
+| **Line Producer** | PAUL DZILVELIS |
+| **Music by** | ALAN ETT MUSIC GROUP |
+| **Narrated by** | MAX RAPHAEL |
+| **Online Editor** | JOHN PRICE |
+| **Post Assistants** | GAYLEN KOBAYASHI, KEVIN McCARTNEY |
+| **Post Producer** | TIM KNAUFF |
+| **Producer** | BRUCE NASH |
+| **Production Controller** | DANI ESLIN |
+| **Production Managers** | LISA BLACKWOOD HOPE, SHELIA COLLINS |
+| **Researchers** | BARRY HILL, ULDIS BALODIS, JOHN KNAPP |
+| **Sound Mixer** | ED THACKER |
+| **Voice Over Coordinator** | JOHN KNAPP |
+| **Written and Produced by** | MATTHEW P. HICKEY, RICHARD JONES |
+
+---
+[← Return to Episode Dossier](../episodes/MME00062.md)

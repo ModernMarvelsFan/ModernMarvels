@@ -1,0 +1,2252 @@
+1
+00:00:00,001 --> 00:00:05,000
+Forget about the rod and reel.
+
+2
+00:00:05,001 --> 00:00:08,000
+Commercial fishermen mean business.
+
+3
+00:00:08,001 --> 00:00:11,000
+Often they bet their lives on this high-stakes game.
+
+4
+00:00:11,001 --> 00:00:17,000
+With the latest high-tech electronics and strong and sophisticated nets,
+
+5
+00:00:17,001 --> 00:00:21,000
+landing the catch is an exercise of deadly efficiency.
+
+6
+00:00:21,001 --> 00:00:24,000
+But are these boats cleaning out the seas?
+
+7
+00:00:24,001 --> 00:00:27,000
+Is there a better way?
+
+8
+00:00:47,029 --> 00:00:49,240
+Now, commercial fishing on Modern Marvels.
+
+9
+00:00:49,241 --> 00:00:55,820
+In Alaska's Bering Sea, monstrous ships stalk schools of fish with precision and mechanical
+
+10
+00:00:55,821 --> 00:01:02,820
+muscle.
+
+11
+00:01:04,140 --> 00:01:11,140
+At 376 feet, the Alaska Ocean is one of the largest commercial fishing vessels on Earth.
+
+12
+00:01:12,260 --> 00:01:17,860
+But in the North Pacific, size takes a back seat to high technology.
+
+13
+00:01:17,861 --> 00:01:19,260
+The ship's bridge
+
+14
+00:01:19,540 --> 00:01:25,180
+contains the latest in navigational gear and a series of monitors that display the cold,
+
+15
+00:01:25,181 --> 00:01:28,880
+calculated hunt for fish.
+
+16
+00:01:28,881 --> 00:01:34,400
+Sometimes you can get a hundred tons of fish inside of five or ten minutes.
+
+17
+00:01:34,401 --> 00:01:39,640
+Every piece of electronics we've come to rely heavily on and you hate to see any
+
+18
+00:01:39,641 --> 00:01:41,440
+of them go out.
+
+19
+00:01:41,441 --> 00:01:47,900
+It's called fish finding technology and it's revolutionized commercial fishing.
+
+20
+00:01:47,901 --> 00:01:52,420
+The main advantages are if you can get out and find a fish, you're saving fuel,
+
+21
+00:01:52,421 --> 00:01:54,800
+you're saving time, you're saving wear and tear on your boat.
+
+22
+00:01:56,820 --> 00:02:00,160
+It was World War II that opened the door on finding fish.
+
+23
+00:02:01,740 --> 00:02:04,300
+The sonar developed to hunt enemy submarines
+
+24
+00:02:04,301 --> 00:02:07,240
+is now making fishermen more efficient,
+
+25
+00:02:08,520 --> 00:02:10,980
+a key to survival in a heavily regulated business.
+
+26
+00:02:12,620 --> 00:02:14,720
+Thousands of miles from Alaskan waters,
+
+27
+00:02:15,420 --> 00:02:17,700
+the White Dove II fishes for tuna
+
+28
+00:02:17,701 --> 00:02:20,100
+out of the historic port of Gloucester in Massachusetts.
+
+29
+00:02:22,420 --> 00:02:28,600
+The regulations that are required for fishing these days range everywhere from how many days you can go fishing,
+
+30
+00:02:29,240 --> 00:02:33,680
+how long you can stay out, how many fish you can have on board of a particular species, etc., etc.
+
+31
+00:02:33,940 --> 00:02:37,840
+And with many of these guys down to 50 days a year, you have to be very efficient,
+
+32
+00:02:38,140 --> 00:02:42,000
+get on the fish, find the fish, turn around and come home and minimize your days used at sea.
+
+33
+00:02:42,001 --> 00:02:52,540
+Small fishing boats also depend on the latest in fish-finding gear.
+
+34
+00:02:54,760 --> 00:03:03,500
+A fish-finder or acoustic echo-sounder transmits a sound echo or ping from a transducer straight down to the ocean floor.
+
+35
+00:03:04,340 --> 00:03:05,563
+So your pulse goes down.
+
+36
+00:03:05,564 --> 00:03:09,180
+If it hits a fish, generally what it's transmitting off is the bladder,
+
+37
+00:03:09,181 --> 00:03:12,280
+the air bladder inside the fish, which will vary between species.
+
+38
+00:03:12,720 --> 00:03:15,160
+Certain fish will look stronger at certain different frequencies,
+
+39
+00:03:15,640 --> 00:03:19,440
+and they'll use those different frequencies to help differentiate between species and the like.
+
+40
+00:03:20,360 --> 00:03:25,300
+A more sophisticated omni-sonar uses multiple transducers
+
+41
+00:03:25,301 --> 00:03:28,000
+that ping 360 degrees around the vessel.
+
+42
+00:03:28,980 --> 00:03:30,940
+What that allows you to do is see the targets.
+
+43
+00:03:31,300 --> 00:03:33,300
+Depending on the frequency and the range that you've selected,
+
+44
+00:03:33,380 --> 00:03:35,280
+that allows you to see the targets around the vessel,
+
+45
+00:03:35,281 --> 00:03:37,520
+as opposed to the echo-sonder, which shows them under the vessel.
+
+46
+00:03:39,180 --> 00:03:41,940
+But pinpointing a school of fish is only half the picture.
+
+47
+00:03:43,340 --> 00:03:46,560
+The computerized chart plotter has replaced paper nautical charts
+
+48
+00:03:46,561 --> 00:03:50,500
+with a system capable of using global positioning
+
+49
+00:03:50,501 --> 00:03:54,580
+to map, monitor and record the ocean bottom in 3D.
+
+50
+00:03:55,540 --> 00:03:57,360
+So now by just glancing over at the chart,
+
+51
+00:03:57,780 --> 00:04:00,460
+you can see yourself positioned on the bottom.
+
+52
+00:04:00,461 --> 00:04:04,680
+So you can record where you've been, you can put marks where certain features are.
+
+53
+00:04:04,780 --> 00:04:08,620
+Maybe there's a wreck there which tends to collect fish or damaged nets,
+
+54
+00:04:08,621 --> 00:04:09,780
+that you may want to avoid.
+
+55
+00:04:12,160 --> 00:04:15,800
+Today, fishing on a tight schedule with pinpoint accuracy
+
+56
+00:04:15,801 --> 00:04:19,520
+is mandatory for a small commercial fisherman to stay in business.
+
+57
+00:04:20,660 --> 00:04:24,160
+But this centuries-old tradition may have endangered itself.
+
+58
+00:04:25,200 --> 00:04:28,400
+Overfishing or the severe depletion of certain fish species
+
+59
+00:04:28,401 --> 00:04:31,080
+threatens both man and nature.
+
+60
+00:04:33,940 --> 00:04:36,940
+According to the UN's Food and Agriculture Organization,
+
+61
+00:04:36,941 --> 00:04:45,180
+about 60% of all commercially important fish types are fully exploited, overexploited, or depleted.
+
+62
+00:04:47,140 --> 00:04:50,720
+But the fishing continues while one reality doesn't change.
+
+63
+00:04:52,000 --> 00:04:56,180
+Commercial fishing remains one of the most dangerous occupations in the world.
+
+64
+00:04:56,181 --> 00:05:08,080
+Working on a constantly moving platform with the threat of rogue waves and sudden devastating fires,
+
+65
+00:05:09,600 --> 00:05:12,900
+fishermen face potential disaster every day they set out to sea.
+
+66
+00:05:16,080 --> 00:05:20,540
+The evolution of fishing gear in North America begins with the fish weir.
+
+67
+00:05:20,541 --> 00:05:28,320
+In 1913, during the excavation of the Boston subway, workers unearthed a Native American
+
+68
+00:05:28,321 --> 00:05:31,900
+fish weir dated at nearly 4,000 years old.
+
+69
+00:05:32,740 --> 00:05:38,660
+The weir resembled a fence with an estimated 60,000 stakes used to trap fish during low
+
+70
+00:05:38,661 --> 00:05:39,361
+tide.
+
+71
+00:05:41,120 --> 00:05:47,820
+In the 16th century B.C., Egyptian fishermen were fishing from canoes with barbed hooks
+
+72
+00:05:47,821 --> 00:05:53,800
+made of brines and a variety of nets to scoop and corral fish in large numbers.
+
+73
+00:05:56,240 --> 00:06:00,200
+Commercial fishing began on an international scale in 12th century Europe
+
+74
+00:06:00,201 --> 00:06:05,500
+when the major maritime nations began venturing farther from their heavily fished seas.
+
+75
+00:06:07,140 --> 00:06:13,840
+In 1497, Italian mariner John Cabot was contracted by England's Henry VII
+
+76
+00:06:13,841 --> 00:06:17,880
+to find the passage to Asia that had eluded Christopher Columbus.
+
+77
+00:06:19,440 --> 00:06:24,360
+Instead of a new trade route, Cabot found a landmass he named Newfoundland.
+
+78
+00:06:25,980 --> 00:06:30,780
+Along this foreign shore, he discovered a treasure greater than gold, cod.
+
+79
+00:06:31,140 --> 00:06:36,800
+And reports went back to Europe of incredible stocks of cod.
+
+80
+00:06:37,380 --> 00:06:42,160
+And the phrase that was used was that you could scoop them up with a basket.
+
+81
+00:06:42,161 --> 00:06:54,300
+And when Europeans heard about this, it created a kind of a rush, like a gold rush, a cod rush, to North America.
+
+82
+00:06:55,400 --> 00:06:58,100
+Cod was one of the most valuable fish in the world.
+
+83
+00:06:59,240 --> 00:07:01,620
+Its flavorful white flesh was highly prized.
+
+84
+00:07:03,500 --> 00:07:09,780
+Salting and drying the flesh could preserve it for months, yielding a food that was 80% concentrated protein.
+
+85
+00:07:09,781 --> 00:07:13,421
+A good fishery was like a good oil field.
+
+86
+00:07:13,422 --> 00:07:18,660
+Tremendous profits were being made from North American cod.
+
+87
+00:07:18,900 --> 00:07:32,900
+So it was ideal for explorers, for provisions for armies, and in fact it became viewed by the British and by other countries as a strategically important material,
+
+88
+00:07:33,215 --> 00:07:34,620
+material of war.
+
+89
+00:07:34,621 --> 00:07:41,760
+Soon the French, British, Spanish and Portuguese were building long-range fishing fleets
+
+90
+00:07:41,761 --> 00:07:46,240
+To begin an all-out commercial assault on the North Atlantic Cod
+
+91
+00:07:46,241 --> 00:07:50,600
+The cod ranged from the waters of Newfoundland's Graham Banks
+
+92
+00:07:50,601 --> 00:07:53,960
+All the way to what is now Cape Cod, Massachusetts
+
+93
+00:07:53,961 --> 00:07:58,480
+The salt codfish that soon was being caught in great quantity
+
+94
+00:07:58,481 --> 00:08:00,540
+And shipped back to Europe
+
+95
+00:08:00,541 --> 00:08:04,860
+was being traded with the Spanish for their gold
+
+96
+00:08:04,861 --> 00:08:10,520
+because salt codfish was the only protein that you could preserve in those latitudes down there.
+
+97
+00:08:11,020 --> 00:08:15,220
+The technology of fishing in open seas changed little for centuries.
+
+98
+00:08:16,300 --> 00:08:18,020
+Cod was generally caught by hand lining,
+
+99
+00:08:18,620 --> 00:08:23,520
+a method by which one man used a line, a weight, and a baited hook
+
+100
+00:08:23,521 --> 00:08:26,000
+to catch and haul in a single fish.
+
+101
+00:08:26,001 --> 00:08:30,540
+Handlining from dories dates back to the 16th century.
+
+102
+00:08:32,620 --> 00:08:38,820
+A dory is a small rowboat, lowered over the side of the mothership to return only when full of fish.
+
+103
+00:08:40,300 --> 00:08:42,920
+Commercial dory fishing was extremely dangerous.
+
+104
+00:08:43,780 --> 00:08:47,020
+A storm would come up and the dory would get blown downwind from the schooner.
+
+105
+00:08:47,720 --> 00:08:49,340
+And if it was a little foggy, it would be out of sight.
+
+106
+00:08:49,500 --> 00:08:53,560
+And they would be adrift 300 or 400 miles from land with essentially no food.
+
+107
+00:08:54,300 --> 00:08:55,380
+And, you know, that was it.
+
+108
+00:08:55,860 --> 00:09:02,380
+Often the catch would get so heavy that at a certain point the small boat would just sink.
+
+109
+00:09:02,840 --> 00:09:05,800
+The mothership would try to fish these guys out,
+
+110
+00:09:06,000 --> 00:09:11,540
+but in the North Atlantic most of the year you can't stay alive more than a few minutes in the water.
+
+111
+00:09:12,440 --> 00:09:14,280
+So it was incredibly dangerous.
+
+112
+00:09:16,220 --> 00:09:20,380
+But the rich cod stocks became vital to colonial America's economy.
+
+113
+00:09:21,240 --> 00:09:25,060
+New Englanders made immense profits trading salt cod to the world.
+
+114
+00:09:25,380 --> 00:09:31,060
+It eventually brought financial independence from the British, and therefore helped establish
+
+115
+00:09:31,061 --> 00:09:33,700
+the United States of America.
+
+116
+00:09:33,701 --> 00:09:41,020
+But the march of technology finally shifted the worldwide demand from salted fish to fresh
+
+117
+00:09:41,021 --> 00:09:43,520
+fish.
+
+118
+00:09:43,521 --> 00:09:49,260
+In the late 19th century, the birth of steam power put engines aboard ships.
+
+119
+00:09:49,261 --> 00:09:54,860
+Soon steam and eventually diesel powered fishing vessels were plying the oceans and scooping
+
+120
+00:09:54,861 --> 00:10:00,360
+up fish in large trawl nets, effectively speeding up the delivery of the catch to market.
+
+121
+00:10:03,120 --> 00:10:08,920
+Then, in the 1920s, a New York inventor named Clarence Birdseye changed fishing forever
+
+122
+00:10:08,921 --> 00:10:12,020
+when he unveiled a fast freezing technique to the world.
+
+123
+00:10:12,980 --> 00:10:18,820
+The fast freezing process completely changed fishing because it meant that fish could be
+
+124
+00:10:18,821 --> 00:10:23,060
+taken inland in a country like the United States with a huge interior.
+
+125
+00:10:23,061 --> 00:10:26,680
+This meant a tremendous increase in the market.
+
+126
+00:10:28,320 --> 00:10:33,780
+By 1948, the world's commercial fish catch reached 19 million tons.
+
+127
+00:10:34,900 --> 00:10:40,940
+It jumped to 60 million tons in 1960, and 100 million tons by 1989.
+
+128
+00:10:43,480 --> 00:10:49,040
+Hundreds of years of relentless fishing in the North Atlantic resulted in catastrophe.
+
+129
+00:10:49,041 --> 00:10:54,720
+In 1992, Canada declared a moratorium on the Graham Banks Cod fishery.
+
+130
+00:10:55,520 --> 00:11:01,000
+One of the most productive fisheries for over 500 years was now depleted.
+
+131
+00:11:02,660 --> 00:11:06,480
+While overfishing in most of the world's oceans is now a reality,
+
+132
+00:11:07,620 --> 00:11:11,240
+a few conservation-minded scientists are fighting back
+
+133
+00:11:11,241 --> 00:11:16,760
+by using behavior modification to keep juvenile fish out of the net entirely.
+
+134
+00:11:19,040 --> 00:11:24,440
+Paul Revere used the image of a codfish, a symbol of prosperity, when he designed currency
+
+135
+00:11:24,441 --> 00:11:29,040
+plates for the Massachusetts Bay Colony in 1776.
+
+136
+00:11:29,041 --> 00:11:32,040
+Commercial fishing will return.
+
+137
+00:11:32,041 --> 00:11:42,040
+The Port of Gloucester, Massachusetts is the oldest fishing harbor in the United States.
+
+138
+00:11:42,041 --> 00:11:47,560
+Its seafarers have fished the far-off waters of Georgia's Bank and the Grand Banks since
+
+139
+00:11:47,561 --> 00:11:51,694
+the 17th century, many never returned.
+
+140
+00:11:51,695 --> 00:11:57,460
+Overlooking the harbor is the Fisherman's Memorial, a
+
+141
+00:11:57,461 --> 00:12:03,220
+tribute naming thousands of local fishermen who have lost their lives at sea, including
+
+142
+00:12:03,221 --> 00:12:08,185
+the six men who perished in the infamous Halloween Gale in 1991.
+
+143
+00:12:08,186 --> 00:12:10,280
+Their story was told in the
+
+144
+00:12:10,281 --> 00:12:14,501
+book and the 2000 feature film, The Perfect Storm.
+
+145
+00:12:14,502 --> 00:12:17,540
+Linda Greenlaw was on the outer edge
+
+146
+00:12:17,541 --> 00:12:22,460
+of the perfect storm, skippering the Hannah Bowden, the Andrea Gale's sister ship.
+
+147
+00:12:22,780 --> 00:12:25,768
+We had 70 knots of wind for a couple of days. It was bad.
+
+148
+00:12:25,769 --> 00:12:27,760
+It was not life-threatening. But I was
+
+149
+00:12:27,761 --> 00:12:28,461
+very frightened.
+
+150
+00:12:28,462 --> 00:12:31,520
+Listening to the boats west of me, these are guys who've been fishing all their
+
+151
+00:12:31,521 --> 00:12:38,220
+lives. The Andrea Gale eventually succumbed to the 100-foot seas and 90-knot winds.
+
+152
+00:12:39,580 --> 00:12:43,860
+Commercial fishing is always on the top of the list of the most dangerous professions.
+
+153
+00:12:43,861 --> 00:12:46,200
+and a lot of that, of course, is due to bad weather.
+
+154
+00:12:48,820 --> 00:12:52,640
+Commercial fishing is one of the toughest professions on the face of the planet.
+
+155
+00:12:53,320 --> 00:12:57,140
+These are individuals who go hundreds of miles away.
+
+156
+00:12:57,400 --> 00:12:59,320
+They work around the clock.
+
+157
+00:12:59,480 --> 00:13:05,640
+They operate under changing conditions, often under horrendous conditions.
+
+158
+00:13:06,540 --> 00:13:11,320
+And they really are, I guess, the last of the true hunter-gatherers.
+
+159
+00:13:11,321 --> 00:13:17,080
+Far from shore, smaller boats are more susceptible to nature's fury.
+
+160
+00:13:19,040 --> 00:13:24,080
+In fishing ports up and down the east coast, many of these small boats are called draggers.
+
+161
+00:13:25,740 --> 00:13:30,660
+Draggers are bottom trawlers, vessels that tow a large net along the ocean bottom,
+
+162
+00:13:31,680 --> 00:13:36,400
+targeting ground fish, such as haddock, cod, whiting, and flounder.
+
+163
+00:13:36,401 --> 00:13:42,940
+Today's bottom trawler pulls the funnel-shaped net at a three-knot average speed.
+
+164
+00:13:44,200 --> 00:13:46,900
+Guiding the net on either end are otter doors.
+
+165
+00:13:47,660 --> 00:13:50,260
+These heavy metal devices force the net to the bottom
+
+166
+00:13:50,261 --> 00:13:54,640
+and provide hydrodynamic spread to keep the net's mouth open.
+
+167
+00:13:56,160 --> 00:13:59,780
+Floats positioned along the headline keep the net open vertically,
+
+168
+00:14:00,520 --> 00:14:05,540
+while a weighted ground rope and rubber rollers keep the net in contact with the ocean bottom.
+
+169
+00:14:06,400 --> 00:14:13,400
+As fish are overtaken, they're guided into the collection area, known as the cod end.
+
+170
+00:14:13,401 --> 00:14:20,400
+While popular, bottom trawlers are outnumbered by vessels called purse saeners.
+
+171
+00:14:20,401 --> 00:14:27,400
+Saeners target high and mid-water schooling fish, such as tuna, salmon and mackerel.
+
+172
+00:14:27,401 --> 00:14:33,400
+In past centuries, saen nets were deployed from beaches.
+
+173
+00:14:33,401 --> 00:14:37,400
+Fishermen rode the long nets in a semicircle around a school of fish,
+
+174
+00:14:37,401 --> 00:14:40,400
+while horses pulled to catch to shore.
+
+175
+00:14:43,400 --> 00:14:47,400
+Today's open ocean purse seins can reach a length of one mile.
+
+176
+00:14:48,400 --> 00:14:51,400
+The net is motored around a large school of fish.
+
+177
+00:14:54,400 --> 00:14:56,400
+When the circle is complete,
+
+178
+00:14:56,401 --> 00:15:00,400
+the bottom purse line is pulled in like the strings of a woman's purse,
+
+179
+00:15:00,401 --> 00:15:02,400
+trapping the fish.
+
+180
+00:15:03,400 --> 00:15:10,400
+The net is tightened and the fish are removed and brought aboard for cold storage.
+
+181
+00:15:15,400 --> 00:15:22,400
+Purse seining and bottom dragging are highly effective, but at the same time pose environmental threats.
+
+182
+00:15:22,401 --> 00:15:25,400
+The primary threat is known as bycatch.
+
+183
+00:15:25,401 --> 00:15:30,400
+If you put a net into the water you're going to catch a number of things that you are not targeting
+
+184
+00:15:30,401 --> 00:15:36,400
+targeting and then those are thrown back into the water at the end of the
+
+185
+00:15:36,401 --> 00:15:43,400
+toe. Globally we waste some 30% of everything that's caught that is not targeted.
+
+186
+00:15:46,400 --> 00:15:52,400
+In eastern Pacific waters by the 1960s, vast numbers of bycatch dolphins were
+
+187
+00:15:52,401 --> 00:15:57,400
+dying in purse sains meant for tuna. Because dolphins often school above the
+
+188
+00:15:57,401 --> 00:16:03,400
+fish. Fishermen targeted the mammals to catch tuna.
+
+189
+00:16:03,401 --> 00:16:08,760
+Public outcry in the United States eventually pressured Congress into passing the 1990 Dolphin
+
+190
+00:16:08,761 --> 00:16:09,461
+Safe Act.
+
+191
+00:16:09,462 --> 00:16:15,280
+Today the label indicates that government observers certify the tuna has been caught
+
+192
+00:16:15,281 --> 00:16:17,149
+without harming dolphins.
+
+193
+00:16:17,150 --> 00:16:21,860
+This is achieved by physically lowering the float rope to allow
+
+194
+00:16:21,861 --> 00:16:25,900
+the mammals to escape the net.
+
+195
+00:16:25,901 --> 00:16:31,000
+While the Dolphin Safe Program has been very successful, limiting other types of bycatch
+
+196
+00:16:31,001 --> 00:16:34,040
+is often more difficult.
+
+197
+00:16:34,041 --> 00:16:40,800
+The National Marine Fisheries Service monitors commercial catch quotas and bycatch limits.
+
+198
+00:16:40,801 --> 00:16:43,980
+But scientists and fishermen often don't see eye to eye.
+
+199
+00:16:43,981 --> 00:16:47,360
+This impacts their way they make a living, their profitability.
+
+200
+00:16:47,361 --> 00:16:51,340
+And there was a lot of confrontation, I think, for a long time between us and them.
+
+201
+00:16:51,540 --> 00:16:52,560
+It was us versus them.
+
+202
+00:16:53,160 --> 00:16:55,820
+And they're on the water every day, and they see things.
+
+203
+00:16:56,040 --> 00:16:59,760
+And so we started what's called cooperative research, working with the industry,
+
+204
+00:16:59,960 --> 00:17:02,120
+and it's become a more open process.
+
+205
+00:17:03,220 --> 00:17:06,780
+Cooperative research pairs actual commercial fishermen with scientists
+
+206
+00:17:06,781 --> 00:17:10,480
+to develop new conservation-minded fishing techniques.
+
+207
+00:17:10,481 --> 00:17:18,200
+Most recently, this partnership has resolved a highly publicized emotional bycatch issue,
+
+208
+00:17:18,880 --> 00:17:20,720
+the fate of the endangered sea turtle.
+
+209
+00:17:21,820 --> 00:17:25,220
+For many years, shrimp trawlers were responsible for the catch,
+
+210
+00:17:25,720 --> 00:17:28,620
+and often the subsequent deaths of various sea turtle species.
+
+211
+00:17:30,500 --> 00:17:34,020
+The National Marine Fisheries Service responded with a device
+
+212
+00:17:34,021 --> 00:17:36,780
+that has now required gear on shrimp trawl nets.
+
+213
+00:17:38,180 --> 00:17:40,420
+It's called a turtle excluder device.
+
+214
+00:17:40,480 --> 00:17:43,061
+Basically it's very simple. It's a grid.
+
+215
+00:17:43,062 --> 00:17:46,480
+It's usually made out of aluminum or stainless steel.
+
+216
+00:17:46,481 --> 00:17:48,938
+It goes into the nets. You put a hole below it.
+
+217
+00:17:48,939 --> 00:17:54,480
+And so what it does is the turtle hits that grid and just shoots out of the net, either top or the bottom.
+
+218
+00:17:54,481 --> 00:17:57,480
+But the grids are big enough so the fish go through.
+
+219
+00:18:00,480 --> 00:18:09,480
+The Marine Conservation Program at Massachusetts Manamit Center is dedicated to reducing bycatch in the problematic New England fisheries.
+
+220
+00:18:09,481 --> 00:18:16,860
+So what we have been trying to do over the years is to develop more targeted, more selective
+
+221
+00:18:16,861 --> 00:18:21,580
+fishing practices that allow us to catch only the things that we want to catch, that there's
+
+222
+00:18:21,581 --> 00:18:25,800
+a market for and release everything else underwater unharmed.
+
+223
+00:18:25,801 --> 00:18:31,140
+The New England haddock fishery has long been plagued by the unwanted bycatch of the severely
+
+224
+00:18:31,141 --> 00:18:33,660
+depleted Atlantic cod.
+
+225
+00:18:33,661 --> 00:18:38,580
+The two fish frequently swim in close contact.
+
+226
+00:18:38,581 --> 00:18:43,980
+In fixed underwater video cameras, Manamit scientists studied the behavior of cod and
+
+227
+00:18:43,981 --> 00:18:46,720
+haddock as they entered the net.
+
+228
+00:18:46,721 --> 00:18:50,540
+They found that haddock usually react by swimming higher in the water.
+
+229
+00:18:50,541 --> 00:18:54,640
+So if they enter the net at a higher level, then we're able to put a separator panel in
+
+230
+00:18:54,641 --> 00:18:59,100
+the middle of the net, which will direct all of the haddock into the cod end where we retain
+
+231
+00:18:59,101 --> 00:19:02,600
+the fish, and all the cod will go out underneath.
+
+232
+00:19:02,601 --> 00:19:08,560
+A more far-reaching problem is the by-catch of all species of juvenile fish.
+
+233
+00:19:08,561 --> 00:19:15,560
+forbid catching small young fish because of the potential damage to the stocks population.
+
+234
+00:19:17,560 --> 00:19:22,220
+A larger net mesh size has helped curb some bycatch by allowing juveniles to escape the
+
+235
+00:19:22,221 --> 00:19:28,220
+net. But scientists are now trying to improve results with behavior modification.
+
+236
+00:19:28,221 --> 00:19:34,220
+We know that most of the reactions of the fish are mediated through the visual system.
+
+237
+00:19:34,221 --> 00:19:37,680
+so the fish see what's around them, they try to avoid it.
+
+238
+00:19:38,740 --> 00:19:42,780
+We inserted into the net something that we think would look like
+
+239
+00:19:42,781 --> 00:19:45,520
+the large looming mouth of an approaching predator,
+
+240
+00:19:46,000 --> 00:19:48,900
+so we simply put a black tarp inside the net.
+
+241
+00:19:49,720 --> 00:19:54,160
+It causes all of the fish that encounter it to try and escape through the meshes.
+
+242
+00:19:54,940 --> 00:19:59,160
+The small ones are capable of doing it because they're small enough to get out of the meshes.
+
+243
+00:19:59,161 --> 00:20:07,000
+While still in its infancy, fish behavior modification is offering promising solutions to the bycatch problem.
+
+244
+00:20:08,460 --> 00:20:11,940
+This fish psychotherapy may someday go high tech.
+
+245
+00:20:12,580 --> 00:20:20,660
+This may involve things like using laser lights to direct fish to a much smaller cod end
+
+246
+00:20:20,661 --> 00:20:22,600
+so that we're not towing a whole net.
+
+247
+00:20:22,601 --> 00:20:29,460
+or we might be able to use holograms of some description to get fish to react to those.
+
+248
+00:20:29,800 --> 00:20:33,400
+There are lots of things that we haven't even dreamt of yet.
+
+249
+00:20:34,080 --> 00:20:38,120
+While scientists are learning how to better preserve wild fish species,
+
+250
+00:20:39,020 --> 00:20:44,700
+others are domesticating them in an effort to build the high-tech fish farm of the future.
+
+251
+00:20:44,701 --> 00:20:55,000
+Since the year 1716, more than 5,000 fishermen from the port of Gloucester, Massachusetts, have died at sea.
+
+252
+00:20:55,960 --> 00:20:58,600
+Commercial fishing will return on Modern Marvels.
+
+253
+00:21:02,380 --> 00:21:10,740
+For thousands of years, commercial fishing followed a hunter-gatherer tradition, pursuing and harvesting fish in the wild.
+
+254
+00:21:11,600 --> 00:21:18,680
+But an explosion in world population and the reality of overfishing have promoted a newer vision of the commercial fisherman.
+
+255
+00:21:19,620 --> 00:21:22,640
+This fisherman doesn't catch fish. He farms it.
+
+256
+00:21:24,260 --> 00:21:28,580
+In 1970, U.S. commercial aquaculture was in its infancy,
+
+257
+00:21:29,140 --> 00:21:35,180
+with most farms raising trout, catfish, or carp in inland ponds or holding tanks.
+
+258
+00:21:35,940 --> 00:21:39,880
+Worldwide aquaculture contributed just over 3% of all fish production.
+
+259
+00:21:39,881 --> 00:21:44,880
+By the year 2003, it was contributing more than 30%.
+
+260
+00:21:44,881 --> 00:21:50,880
+In the 21st century, the salmon is the king of the aquatic barnyard.
+
+261
+00:21:50,881 --> 00:21:54,880
+The near-shore farming of salmon is a booming business,
+
+262
+00:21:54,881 --> 00:21:59,880
+with vast underwater cage complexes located in calm water bays and estuaries
+
+263
+00:21:59,881 --> 00:22:04,880
+in places like Norway, Chile and the coast of Maine.
+
+264
+00:22:04,881 --> 00:22:08,880
+But large-scale near-shore farming isn't the perfect solution.
+
+265
+00:22:08,881 --> 00:22:12,121
+solution. The environment could be the casualty.
+
+266
+00:22:12,122 --> 00:22:15,160
+Salmon raised in pens are raised in very high
+
+267
+00:22:15,161 --> 00:22:15,861
+densities.
+
+268
+00:22:15,862 --> 00:22:18,380
+And just like with human beings, when you have a lot of people together, a
+
+269
+00:22:18,381 --> 00:22:20,900
+lot of fish together, disease tends to run rampant.
+
+270
+00:22:20,901 --> 00:22:22,580
+And then these diseases get out to
+
+271
+00:22:22,581 --> 00:22:28,059
+the wild populations and can cause them significant physiological stress.
+
+272
+00:22:28,060 --> 00:22:29,560
+A more typical issue
+
+273
+00:22:29,561 --> 00:22:32,440
+is dealing with huge amounts of fish waste.
+
+274
+00:22:32,441 --> 00:22:35,320
+Salmon aquaculturists need places that have
+
+275
+00:22:35,321 --> 00:22:38,400
+clean water with very little pollution.
+
+276
+00:22:38,401 --> 00:22:44,360
+The irony of needing these clean water places for salmon is that salmon then in turn end
+
+277
+00:22:44,361 --> 00:22:50,620
+up polluting the very water that was chosen for its pristine nature.
+
+278
+00:22:50,621 --> 00:22:54,160
+The impacts that were noticed were primarily impacts on the seafloor.
+
+279
+00:22:54,161 --> 00:23:01,940
+So fish feces, uneaten food, settling on the seafloor, changing what was a natural environment
+
+280
+00:23:01,941 --> 00:23:04,700
+into an environment that was degraded.
+
+281
+00:23:05,320 --> 00:23:11,320
+Salmon farmers are sensitive to these problems, and attempts have been made to reduce environmental
+
+282
+00:23:11,321 --> 00:23:12,021
+impacts.
+
+283
+00:23:12,022 --> 00:23:18,320
+But with 28% of the world's wild fish stocks either overfished or nearing extinction,
+
+284
+00:23:18,321 --> 00:23:24,320
+aquaculture must overcome its drawbacks to help feed an expanding world.
+
+285
+00:23:24,321 --> 00:23:31,320
+The National Oceanic and Atmospheric Administration, or NOAA, has vowed to increase the annual
+
+286
+00:23:31,321 --> 00:23:32,853
+annual value of U.S.
+
+287
+00:23:32,854 --> 00:23:37,760
+fish farming from $1 billion to $5 billion in the next 25 years.
+
+288
+00:23:37,761 --> 00:23:39,567
+We have to look at the combination.
+
+289
+00:23:39,568 --> 00:23:42,200
+How does the wild and the agriculture fit together?
+
+290
+00:23:42,201 --> 00:23:46,300
+So there's no doubt that agriculture has a place in the future. Is it controversial?
+
+291
+00:23:46,301 --> 00:23:51,460
+You bet. Right now it is extremely controversial.
+
+292
+00:23:51,461 --> 00:23:57,515
+One group of scientists is going where no fish farmer has dared to cultivate.
+
+293
+00:23:57,516 --> 00:23:58,380
+Researchers
+
+294
+00:23:58,381 --> 00:24:03,420
+with the University of New Hampshire's Open Ocean Aquaculture program hope to neutralize
+
+295
+00:24:03,421 --> 00:24:08,340
+some of the environmental impacts by moving the farm miles out to sea.
+
+296
+00:24:08,341 --> 00:24:11,700
+I think the offshore environment is actually a better environment for a lot of the species
+
+297
+00:24:11,701 --> 00:24:13,800
+that we're thinking about culturing.
+
+298
+00:24:13,801 --> 00:24:16,600
+You've got a lot more stable conditions in terms
+
+299
+00:24:16,601 --> 00:24:21,380
+of the temperature and salinity, you've got a lot of water movement so that there's always
+
+300
+00:24:21,381 --> 00:24:23,544
+clean water and well oxygenated water.
+
+301
+00:24:23,545 --> 00:24:26,220
+And on the environmental side of things you get
+
+302
+00:24:26,221 --> 00:24:33,160
+a lot more dispersion of any kind of waste, both fish waste and any uneaten food.
+
+303
+00:24:33,161 --> 00:24:38,040
+After years of experiments with flounder and haddock in smaller cages, the team has built
+
+304
+00:24:38,041 --> 00:24:44,280
+the first commercial scale farm, containing over 35,000 of the famous Atlantic cod.
+
+305
+00:24:44,281 --> 00:24:50,120
+But the scientific challenges of building an open ocean cage that could withstand the
+
+306
+00:24:50,121 --> 00:24:52,720
+biggest New England storms were daunting.
+
+307
+00:24:52,721 --> 00:24:58,760
+When it came to mooring systems, we took an approach of developing modeling tools
+
+308
+00:24:58,761 --> 00:25:03,860
+so that we could understand how you would attach these things to the seafloor,
+
+309
+00:25:03,960 --> 00:25:07,440
+what kind of anchors, what kind of ropes, where the stresses would be.
+
+310
+00:25:08,680 --> 00:25:15,240
+Three 3,000 cubic meter cages were assembled by divers and sunk to a depth of 100 feet.
+
+311
+00:25:16,580 --> 00:25:21,540
+Nine one-ton anchors and heavy-duty chain hold the deep-sea farm in place.
+
+312
+00:25:22,720 --> 00:25:30,080
+Once the farm was up and running, thousands of cod fingerlings began their two-year lease in the blue water cages.
+
+313
+00:25:32,080 --> 00:25:39,940
+But raising the brood of wild cod in captivity was uncharted territory, so video cameras were installed to monitor the nursery.
+
+314
+00:25:41,300 --> 00:25:46,800
+The deep-sea cameras are controlled remotely to observe the societal behaviors of the captive cod.
+
+315
+00:25:48,060 --> 00:25:52,660
+The researchers implanted small sonar transmitters inside a number of fish.
+
+316
+00:25:52,720 --> 00:25:56,920
+And then we have hydrophones or listening devices inside the cage,
+
+317
+00:25:57,060 --> 00:26:00,240
+and we can then track these fish 24 hours a day,
+
+318
+00:26:00,360 --> 00:26:03,560
+track their motion throughout the cage, not only where they go,
+
+319
+00:26:03,800 --> 00:26:08,500
+but how fast they're swimming and understand what their behavior is
+
+320
+00:26:08,501 --> 00:26:11,400
+and what their swimming speed is relative to feeding,
+
+321
+00:26:11,680 --> 00:26:16,320
+relative to day-night differences, relative to interactions with other fish.
+
+322
+00:26:18,240 --> 00:26:21,100
+Because the farm is over 10 miles from shore,
+
+323
+00:26:21,920 --> 00:26:25,140
+Feeding the cod requires the latest in high-tech room service.
+
+324
+00:26:27,240 --> 00:26:30,420
+A lone automated feeder buoy sustains the colony.
+
+325
+00:26:32,840 --> 00:26:35,660
+By periodically stocking the buoy with fish pellets,
+
+326
+00:26:36,780 --> 00:26:40,480
+the researchers are able to pump measured quantities of feed into the cages.
+
+327
+00:26:43,480 --> 00:26:47,360
+Inside the buoy is the remote-controlled brain that rings the dinner bell.
+
+328
+00:26:47,361 --> 00:26:54,360
+So we've got to have all the control mechanisms, all the solenoid valves and so on that open
+
+329
+00:26:54,620 --> 00:26:59,720
+and close all these valves, turn the pumps on, so it's really a giant computer that's
+
+330
+00:26:59,721 --> 00:27:02,445
+out there operating all these mechanical systems.
+
+331
+00:27:02,446 --> 00:27:04,780
+And what's nice about it is we can do that
+
+332
+00:27:04,781 --> 00:27:07,640
+from the computer here at the university.
+
+333
+00:27:07,641 --> 00:27:13,835
+The Open Ocean Aquaculture Project represents a quantum leap in fish farming.
+
+334
+00:27:13,836 --> 00:27:14,640
+But it too
+
+335
+00:27:14,641 --> 00:27:18,740
+potential environmental impacts.
+
+336
+00:27:18,741 --> 00:27:22,280
+One of the greatest challenges is oxygen depletion.
+
+337
+00:27:22,281 --> 00:27:25,960
+Farm-raised fish excrete ammonia, which depletes oxygen.
+
+338
+00:27:25,961 --> 00:27:28,840
+Well right now we can't measure it beyond the rim of the cage.
+
+339
+00:27:28,841 --> 00:27:31,360
+We haven't seen any oxygen depletion.
+
+340
+00:27:31,361 --> 00:27:34,320
+But then again, we have 35,000 fish out there.
+
+341
+00:27:34,321 --> 00:27:38,120
+The farm of the future will have a half a million fish.
+
+342
+00:27:38,121 --> 00:27:41,760
+Understanding what happens on a small scale and then building it out is going to help
+
+343
+00:27:41,761 --> 00:27:46,040
+us predict what happens in a real commercial operation.
+
+344
+00:27:46,041 --> 00:27:51,340
+But even as fish farms get bigger, the world will continue to depend on wild caught fish
+
+345
+00:27:51,341 --> 00:27:53,435
+to feed its growing masses.
+
+346
+00:27:53,436 --> 00:27:58,480
+And in one remote fishery, there is a factory at sea that without
+
+347
+00:27:58,481 --> 00:28:05,160
+restraint has the capability to strip the oceans of their fish.
+
+348
+00:28:05,161 --> 00:28:11,360
+Growing seaweed in a fish farm can improve water quality by reducing nitrogen and phosphorus,
+
+349
+00:28:11,361 --> 00:28:13,840
+both found in fish waste.
+
+350
+00:28:13,841 --> 00:28:22,280
+Commercial fishing will return on Modern Marvels, here on the History Channel.
+
+351
+00:28:22,281 --> 00:28:29,040
+Hundreds of miles from shore, in frigid Alaskan seas that can produce wave heights of 50 feet,
+
+352
+00:28:29,041 --> 00:28:34,880
+the modern factory trawler gives chase to a school of pollen.
+
+353
+00:28:34,881 --> 00:28:40,180
+Some of these massive catcher processors have the ability to catch, process and freeze more
+
+354
+00:28:40,181 --> 00:28:42,780
+than 500 tons of fish in a single day.
+
+355
+00:28:42,781 --> 00:28:49,300
+It's one of the reasons that a vessel like this is so large, is that we take our production
+
+356
+00:28:49,301 --> 00:28:54,460
+facility to the fish, rather than bringing the fish to the production facility.
+
+357
+00:28:54,461 --> 00:28:59,740
+While salmon was and is still a lucrative Alaskan fish, for decades few considered the
+
+358
+00:28:59,741 --> 00:29:05,800
+boundless offshore populations of walleye pollock, Pacific cod and whiting in the Gulf
+
+359
+00:29:05,801 --> 00:29:07,300
+and Bering Sea.
+
+360
+00:29:07,301 --> 00:29:15,600
+In the 1950s, factory trawler fleets from the Soviet Union, Japan, and other countries began fishing these remote waters.
+
+361
+00:29:17,600 --> 00:29:24,740
+As time went on, and other people here in the Northwest understood that those fisheries were worth a lot of money,
+
+362
+00:29:25,480 --> 00:29:29,820
+and that we could bring a lot more of those dollars home to the beach, home to America,
+
+363
+00:29:29,960 --> 00:29:32,860
+if we extended our jurisdiction out to the 200 mile.
+
+364
+00:29:33,320 --> 00:29:37,020
+It wasn't just a fisheries decision, but it was a good decision for fishermen.
+
+365
+00:29:37,300 --> 00:29:43,780
+Until 1976, most nations observed a 12-mile territorial boundary at sea.
+
+366
+00:29:44,660 --> 00:29:46,980
+Then Congress passed the Magnuson Act,
+
+367
+00:29:47,540 --> 00:29:51,400
+and the U.S. established a 200-mile exclusive economic zone.
+
+368
+00:29:52,520 --> 00:29:53,860
+So did many other nations.
+
+369
+00:29:54,780 --> 00:29:57,380
+The U.S. proceeded to evict the foreign fleets.
+
+370
+00:29:58,600 --> 00:30:03,020
+At first, American fishermen worked in joint ventures with foreign factory vessels.
+
+371
+00:30:03,021 --> 00:30:08,840
+until the early 1980s, when the U.S. launched its own factory trawler fleet.
+
+372
+00:30:09,740 --> 00:30:12,360
+When those vessels began coming around,
+
+373
+00:30:13,200 --> 00:30:16,660
+we began essentially taking over the entire fishery
+
+374
+00:30:16,661 --> 00:30:19,920
+and moving the foreign fleets off the 200-mile zone
+
+375
+00:30:19,921 --> 00:30:24,540
+and putting up a whole new kind of fishing in Alaska that we hadn't seen there before.
+
+376
+00:30:26,720 --> 00:30:28,880
+Based in Seattle's Puget Sound,
+
+377
+00:30:28,881 --> 00:30:33,880
+Today's fleet of catcher processors travel to Alaskan waters for two fishing seasons,
+
+378
+00:30:33,881 --> 00:30:37,880
+in the winter and late summer.
+
+379
+00:30:37,881 --> 00:30:44,880
+While there are only 15 active vessels in the entire fleet, their catch capacity is unrivaled.
+
+380
+00:30:44,881 --> 00:30:52,880
+In 2002, the factory trawlers and smaller catcher vessels landed more than 1.5 million tons of pollock,
+
+381
+00:30:52,881 --> 00:30:57,880
+some 40% of the entire commercial fish catch in the United States.
+
+382
+00:30:57,881 --> 00:31:03,100
+At the time that these big vessels were being developed,
+
+383
+00:31:03,380 --> 00:31:07,880
+there were great technological advances going on in hydraulics,
+
+384
+00:31:07,940 --> 00:31:11,680
+high-pressure hydraulics, gear, big troll winches,
+
+385
+00:31:12,300 --> 00:31:13,620
+and certainly electronics.
+
+386
+00:31:14,100 --> 00:31:16,540
+Also in the material that the nets were made out of,
+
+387
+00:31:16,620 --> 00:31:20,700
+spectrofiber nets, very similar to Kevlar
+
+388
+00:31:20,701 --> 00:31:23,420
+and things that you would make bulletproof vests out of.
+
+389
+00:31:24,360 --> 00:31:27,080
+With a price tag approaching $100,000,
+
+390
+00:31:27,940 --> 00:31:33,340
+Some of these mid-water monstrosities have a mouth nearly as wide as a football field is long.
+
+391
+00:31:35,140 --> 00:31:39,420
+The Alaska Fisheries Science Center makes and repairs a variety of trawl nets.
+
+392
+00:31:40,380 --> 00:31:43,880
+This is a four-seam bottom trawl using the ground fish fisheries in Alaska.
+
+393
+00:31:44,660 --> 00:31:47,960
+This net is towed by a boat of about 700 horsepower.
+
+394
+00:31:48,460 --> 00:31:50,140
+Typical factory trawler in Alaska.
+
+395
+00:31:50,640 --> 00:31:54,100
+It's closer to 2,500 to 3,500 horsepower.
+
+396
+00:31:54,101 --> 00:31:59,800
+This is a lot smaller than you'll see on those boats, but it's of the same shape, just a smaller version of it.
+
+397
+00:32:00,440 --> 00:32:05,080
+Protecting many trawl nets from damage and maximizing their spread radius underwater
+
+398
+00:32:05,081 --> 00:32:11,520
+is the duty of wireless acoustic sensors mounted on or near the otter doors that pull the net.
+
+399
+00:32:12,540 --> 00:32:16,960
+What these sensors do is send back information about the geometry of the trawl.
+
+400
+00:32:17,380 --> 00:32:18,620
+These are door spread sensors.
+
+401
+00:32:18,621 --> 00:32:22,200
+One of them is placed on either door, and you can get the distance between it,
+
+402
+00:32:22,280 --> 00:32:24,560
+and you can see that your trawl is flying stable.
+
+403
+00:32:24,800 --> 00:32:28,060
+And this increases the efficiency of the fishing operation drastically.
+
+404
+00:32:30,900 --> 00:32:34,940
+This pollock fishery, fortunately, is the cleanest fishery in the world.
+
+405
+00:32:35,260 --> 00:32:38,440
+And we catch almost 100% pollock.
+
+406
+00:32:38,600 --> 00:32:41,920
+So it's very important for us, too, to keep it clean.
+
+407
+00:32:43,560 --> 00:32:47,060
+Fishermen often refer to the cod end of the net as the money bag.
+
+408
+00:32:48,620 --> 00:32:54,600
+Knowing when the giant bag is full under water is critical to avoid smashing the fish with an oversized load.
+
+409
+00:32:56,340 --> 00:32:58,500
+These are catch load sensors right here.
+
+410
+00:32:59,060 --> 00:33:03,160
+And the way that these work are as the bag fills up, naturally it gets wider this way.
+
+411
+00:33:03,560 --> 00:33:05,540
+These lines start taking some strain.
+
+412
+00:33:05,940 --> 00:33:08,020
+And you'll see this, oftentimes it's called a sausage.
+
+413
+00:33:08,560 --> 00:33:12,740
+As that happens and these open up sideways, it pulls and it trips this
+
+414
+00:33:12,741 --> 00:33:18,020
+and sends an acoustic message back to the skipper and says that at this point there's fish up to this point.
+
+415
+00:33:18,021 --> 00:33:18,721
+in the bag.
+
+416
+00:33:18,722 --> 00:33:23,100
+And when this happens, the skipper knows that I have a 100-ton bag, I've got
+
+417
+00:33:23,101 --> 00:33:26,660
+100 tons of fish, and it's time to haul back before I cause damage to the net.
+
+418
+00:33:27,820 --> 00:33:33,620
+Because the processing factory below deck runs 24 hours a day, fish must be caught at
+
+419
+00:33:33,621 --> 00:33:37,000
+a rate that matches the factory's ability to process and freeze it.
+
+420
+00:33:38,620 --> 00:33:44,200
+Automation for us is of the essence. It's extremely important because we don't have
+
+421
+00:33:44,201 --> 00:33:46,380
+a lot of room on board for people.
+
+422
+00:33:46,960 --> 00:33:48,640
+We're limited by the amount of people
+
+423
+00:33:48,641 --> 00:33:50,260
+we can put on a vessel this size.
+
+424
+00:33:50,400 --> 00:33:52,780
+So anything we can automate, we do.
+
+425
+00:33:53,900 --> 00:33:56,180
+The vessels that we operate run somewhere between
+
+426
+00:33:56,181 --> 00:33:58,420
+15 and 20 tons of fish an hour
+
+427
+00:33:58,421 --> 00:34:01,500
+and on a pace that produces roughly
+
+428
+00:34:01,501 --> 00:34:03,440
+100 tons of finished goods a day.
+
+429
+00:34:05,120 --> 00:34:07,260
+After sizing and weighing the catch,
+
+430
+00:34:07,261 --> 00:34:09,480
+the removal of skin and bones begins.
+
+431
+00:34:10,140 --> 00:34:12,420
+We can process 120 fish a minute
+
+432
+00:34:12,421 --> 00:34:15,680
+through a fillet machine that will produce a boneless, skinless fillet.
+
+433
+00:34:16,500 --> 00:34:20,120
+And that's done without any interaction with the fish
+
+434
+00:34:20,121 --> 00:34:22,200
+other than the driver placing it into the machine.
+
+435
+00:34:23,040 --> 00:34:26,540
+So sizing of the fish and then a proper adjustment of the fillet machine
+
+436
+00:34:26,541 --> 00:34:28,040
+is a critical thing for us.
+
+437
+00:34:28,780 --> 00:34:33,380
+The human eye checks the machine's work as the fillets cross the candling table.
+
+438
+00:34:34,240 --> 00:34:37,080
+Here, workers check for any skin or bones that remain.
+
+439
+00:34:38,240 --> 00:34:42,160
+From this point, the fish will become one of two products for the end consumer.
+
+440
+00:34:42,420 --> 00:34:48,820
+The majority are pressed into formed fish fillets that will end up as fast food sandwiches
+
+441
+00:34:48,821 --> 00:34:51,280
+or fish sticks.
+
+442
+00:34:51,281 --> 00:34:53,280
+The other product is called Surimi.
+
+443
+00:34:53,281 --> 00:35:00,540
+Surimi was originally created as a form of storage for fish without refrigeration.
+
+444
+00:35:00,541 --> 00:35:06,320
+The process of creating Surimi is a process that removes the soluble protein and oils
+
+445
+00:35:06,321 --> 00:35:09,000
+from the fish protein.
+
+446
+00:35:09,001 --> 00:35:13,840
+This fish paste is later used to make imitation crab meat and many other manufactured foods
+
+447
+00:35:13,841 --> 00:35:19,000
+in the Japanese market.
+
+448
+00:35:19,001 --> 00:35:23,920
+When onboard processing is complete, the fish products are quickly frozen and then delivered
+
+449
+00:35:23,921 --> 00:35:26,660
+to the ship's massive cold storage hold.
+
+450
+00:35:26,661 --> 00:35:33,620
+When the hold is full, the fishing ends and the vessel heads to port for unloading.
+
+451
+00:35:33,621 --> 00:35:39,420
+Throughout the 1990s, a combined yearly harvest quota for Pollock turned the Bering Sea into
+
+452
+00:35:39,421 --> 00:35:42,580
+a high stakes commercial fishing tournament.
+
+453
+00:35:42,581 --> 00:35:47,820
+The fishery was open for everybody to fish as fast and as hard as you could until the
+
+454
+00:35:47,821 --> 00:35:50,180
+quota was caught.
+
+455
+00:35:50,181 --> 00:35:55,220
+There was a real pressure not only from fishermen but from the environmental community to end
+
+456
+00:35:55,221 --> 00:35:58,280
+what they call the race for fish.
+
+457
+00:35:58,281 --> 00:36:05,280
+But by the end of the 20th century, the Bering Sea Pollock fishery underwent a drastic change.
+
+458
+00:36:05,281 --> 00:36:12,280
+Today the competitors are now teammates, as a cooperative is now in place to eliminate overfishing.
+
+459
+00:36:12,281 --> 00:36:17,280
+But when more than a million tons of pollock are being harvested in a single year,
+
+460
+00:36:17,281 --> 00:36:25,280
+it's up to a new generation of fishery scientists to make sure this fish will never share the fate of the Atlantic cod.
+
+461
+00:36:28,280 --> 00:36:39,880
+In 1999, scientists tracked a school of pollock that covered more than 30,000 square nautical miles and contained more than 11 billion fish.
+
+462
+00:36:40,920 --> 00:36:43,820
+Commercial fishing will return on Modern Marvels.
+
+463
+00:36:43,821 --> 00:36:50,020
+At Seaview Lobster Company in Kittery, Maine,
+
+464
+00:36:50,320 --> 00:36:53,480
+a harvest of prehistoric-looking bugs
+
+465
+00:36:53,481 --> 00:36:55,680
+is sorted, weighed, and prepared
+
+466
+00:36:55,681 --> 00:36:59,240
+for overnight shipment to points around the world.
+
+467
+00:37:00,840 --> 00:37:04,220
+Commercial lobstering is a $300 million a year business,
+
+468
+00:37:04,720 --> 00:37:06,900
+one of America's highest-value fisheries.
+
+469
+00:37:07,540 --> 00:37:10,580
+But the lust for lobster has a very short history.
+
+470
+00:37:10,581 --> 00:37:14,240
+Well, lobsters were always regarded as a trash species.
+
+471
+00:37:14,680 --> 00:37:17,000
+Years ago, they used to wash up in windrows on the beach,
+
+472
+00:37:17,080 --> 00:37:20,560
+and people would harvest them, carry them home, and spread them on the fields as fertilizer.
+
+473
+00:37:20,900 --> 00:37:22,760
+They were always fed to the slaves and the servants,
+
+474
+00:37:23,000 --> 00:37:25,500
+and they were considered a very low-level dietary item.
+
+475
+00:37:25,820 --> 00:37:28,720
+As time progressed, people seemed to develop a taste for them.
+
+476
+00:37:28,780 --> 00:37:29,840
+They became more and more popular.
+
+477
+00:37:30,840 --> 00:37:35,980
+By the late 1800s, their value skyrocketed, and the great lobster hunt began.
+
+478
+00:37:36,680 --> 00:37:39,720
+And then as the fishing picked up, the numbers declined.
+
+479
+00:37:39,721 --> 00:37:45,480
+fairly rapidly, but the unusual thing, the surprising thing is, despite all the fishing
+
+480
+00:37:45,481 --> 00:37:50,800
+pressure, the lobster populations have not declined much in the last 50 years, I'd say.
+
+481
+00:37:53,220 --> 00:37:58,940
+At the University of New Hampshire, zoologists are trying to determine how lobsters are resisting
+
+482
+00:37:58,941 --> 00:38:02,760
+fishing pressure in an attempt to better forecast their future.
+
+483
+00:38:02,761 --> 00:38:09,020
+One part of the research uses video cameras placed inside the traps.
+
+484
+00:38:10,980 --> 00:38:13,840
+The static lobster trap has changed very little.
+
+485
+00:38:14,560 --> 00:38:17,300
+It still depends on the lobsters to capture themselves.
+
+486
+00:38:17,800 --> 00:38:23,580
+We found out that although many lobsters approach traps, many lobsters go into traps,
+
+487
+00:38:24,180 --> 00:38:27,060
+we actually end up catching very few of those lobsters.
+
+488
+00:38:27,280 --> 00:38:32,180
+The time-lapse cameras revealed that the lobster fishery thrives on inefficiency.
+
+489
+00:38:32,760 --> 00:38:37,760
+The most striking thing is that lobsters are climbing all over these traps.
+
+490
+00:38:37,761 --> 00:38:38,760
+It's like a little anthill.
+
+491
+00:38:38,761 --> 00:38:43,760
+Once a lobster gets into the trap, it prevents others from entering while it's feeding.
+
+492
+00:38:43,761 --> 00:38:45,760
+They can escape fairly readily.
+
+493
+00:38:45,761 --> 00:38:46,760
+Ninety percent of them get out.
+
+494
+00:38:46,761 --> 00:38:51,760
+We call it the restaurant theory that they're just stopping by, they're having something to eat.
+
+495
+00:38:51,761 --> 00:38:54,760
+They occasionally get caught and pulled up to the surface.
+
+496
+00:38:54,761 --> 00:38:56,760
+But many, many of them get away.
+
+497
+00:38:56,761 --> 00:39:00,760
+This has implications of why the fishery is so robust.
+
+498
+00:39:00,761 --> 00:39:05,360
+We're not removing as many lobsters as we might be able to remove if we had very efficient traps.
+
+499
+00:39:06,500 --> 00:39:12,320
+By mounting sonar transmitters on lobsters, the scientists are able to remotely monitor movement
+
+500
+00:39:12,321 --> 00:39:15,760
+and gain valuable information on behavior dynamics.
+
+501
+00:39:18,600 --> 00:39:23,500
+In the inefficient New England lobster fishery, catch levels continue to be high.
+
+502
+00:39:23,501 --> 00:39:31,600
+But inefficiency plays no part in the $2 billion a year Alaska Pollock fishery.
+
+503
+00:39:31,601 --> 00:39:36,300
+Here absolute efficiency is the key to conservation.
+
+504
+00:39:36,301 --> 00:39:43,300
+The National Marine Fisheries Service has revolutionized the science of population dynamics
+
+505
+00:39:43,301 --> 00:39:46,600
+and forged a rare partnership with the commercial fishing fleet.
+
+506
+00:39:46,601 --> 00:39:53,380
+We conduct annual stock assessments where we estimate the productivity of the resource
+
+507
+00:39:53,381 --> 00:40:01,140
+and from that make recommendations to the North Pacific Council on harvest levels for the coming year.
+
+508
+00:40:02,020 --> 00:40:07,420
+Scientists estimated the pollock population at 12.3 million tons in 2004.
+
+509
+00:40:08,720 --> 00:40:15,540
+Based on legal catch limits, fishermen harvested 1.64 million tons, or about 13% of the total population.
+
+510
+00:40:16,540 --> 00:40:19,520
+Counting fish and arriving at the all-important harvest maximum
+
+511
+00:40:19,521 --> 00:40:22,920
+is a major undertaking that requires human observers,
+
+512
+00:40:24,040 --> 00:40:26,680
+acoustic science, and a little fishing.
+
+513
+00:40:27,800 --> 00:40:31,980
+The Net Shed at the Alaska Fisheries Science Center in Seattle
+
+514
+00:40:31,981 --> 00:40:36,220
+builds and repairs massive trawl nets for scientists turned fishermen.
+
+515
+00:40:36,940 --> 00:40:39,420
+We use these nets for stock assessment purposes.
+
+516
+00:40:39,780 --> 00:40:43,200
+We go out, we catch fish, we make the same toes year after year,
+
+517
+00:40:43,201 --> 00:40:47,120
+and then we get a feel for where the stocks are going up, they're going down.
+
+518
+00:40:47,440 --> 00:40:53,640
+We take samples, we look at the biology, we take link frequencies, we take sets of the fish,
+
+519
+00:40:54,040 --> 00:40:58,520
+and then you get a feel for what the aggregate of the fish are and the health of the stock in that area.
+
+520
+00:40:59,700 --> 00:41:03,120
+One highly specialized fishing vessel is the Miller Freeman,
+
+521
+00:41:04,320 --> 00:41:08,140
+a floating research laboratory capable of finding and counting fish
+
+522
+00:41:08,141 --> 00:41:11,620
+in a 5 million square kilometer area of the Bering Sea.
+
+523
+00:41:13,200 --> 00:41:17,300
+We run a uniformly spaced parallel transect pattern.
+
+524
+00:41:17,400 --> 00:41:19,060
+It's basically like going out and mowing the yard,
+
+525
+00:41:19,500 --> 00:41:24,120
+but collecting acoustic data and information from net catches along those parallel transects.
+
+526
+00:41:25,380 --> 00:41:28,040
+And what we do is we use a scientific echo sounder,
+
+527
+00:41:28,580 --> 00:41:33,680
+as well as trawls, large nets, either mid-water nets or bottom nets,
+
+528
+00:41:33,840 --> 00:41:36,800
+to sample the acoustic targets that we encounter.
+
+529
+00:41:37,960 --> 00:41:42,820
+The researchers chase large schools of pollock to sample population density.
+
+530
+00:41:43,200 --> 00:41:45,560
+and the ratio of juveniles to adults.
+
+531
+00:41:47,900 --> 00:41:52,040
+The final part of the equation is the NOAA observer program.
+
+532
+00:41:53,200 --> 00:41:54,026
+As in most U.S.
+
+533
+00:41:54,027 --> 00:41:57,880
+fisheries, trained observers are placed aboard many commercial vessels
+
+534
+00:41:57,881 --> 00:42:05,380
+to get a first-hand view of the intended catch and the unintended bycatch.
+
+535
+00:42:06,000 --> 00:42:10,580
+Well, their principal responsibility is to collect information on catch quantity and composition,
+
+536
+00:42:10,581 --> 00:42:13,460
+to document that and then to send it forward.
+
+537
+00:42:13,880 --> 00:42:16,860
+There are bycatch issues that really affect fishing opportunities,
+
+538
+00:42:17,080 --> 00:42:19,580
+and in some cases fisheries can be closed or curtailed
+
+539
+00:42:19,581 --> 00:42:22,040
+because of bycatch of salmon or halibut.
+
+540
+00:42:24,440 --> 00:42:28,200
+Observers transmit a near real-time report on catch composition
+
+541
+00:42:28,201 --> 00:42:30,540
+and any bycatch issues.
+
+542
+00:42:31,540 --> 00:42:35,300
+This information is reviewed by commercial fleet managers in Seattle,
+
+543
+00:42:35,620 --> 00:42:40,380
+who can then immediately redirect the fishing to an area without the bycatch problems.
+
+544
+00:42:40,580 --> 00:42:47,580
+This relationship between fishermen and scientists is critical to the health of America's largest fishery.
+
+545
+00:42:47,581 --> 00:42:50,580
+But the Alaskan waters are unique.
+
+546
+00:42:50,581 --> 00:42:56,580
+Today, nine of the world's 17 major fisheries are considered overfished or threatened.
+
+547
+00:42:56,581 --> 00:43:01,580
+Rather than saving them, better technology may be leading to their demise.
+
+548
+00:43:01,581 --> 00:43:05,580
+I think since World War II, that technology has increased so much.
+
+549
+00:43:05,581 --> 00:43:10,020
+sonar, depth finders, got greater speed, you know, just so many things that made
+
+550
+00:43:10,021 --> 00:43:16,920
+fishing more effective. Efficiency is devastating to a fishery. What
+
+551
+00:43:16,921 --> 00:43:25,260
+efficiency means is that you produce more with fewer people. Ideally, a
+
+552
+00:43:25,261 --> 00:43:29,320
+fishery should be doing just the opposite. They should be catching less fish and
+
+553
+00:43:29,321 --> 00:43:35,100
+employing more fishermen. But the Bering Sea may predict a different future.
+
+554
+00:43:35,101 --> 00:43:41,120
+One that combines efficiency and science to harvest yet safeguard the ocean's bounty.
+
+555
+00:43:42,120 --> 00:43:47,040
+For every 15 pollock we catch, there's still 85 of them swimming in the Bering Sea,
+
+556
+00:43:47,041 --> 00:43:50,620
+even though we catch over 1.3 million metric tons.
+
+557
+00:43:50,920 --> 00:43:53,860
+So when you have a golden goose like the North Pacific,
+
+558
+00:43:54,100 --> 00:43:58,060
+it really is not in the best interest of the industry to kill the thing off.
+
+559
+00:43:59,680 --> 00:44:03,500
+In some U.S. fisheries, conservation is a major priority.
+
+560
+00:44:05,100 --> 00:44:10,000
+Aquaculture and better fishery science will hopefully take pressure off wild stocks.
+
+561
+00:44:11,000 --> 00:44:16,560
+But without proper management, the future for all fisheries may be an empty net.
+
+562
+00:44:17,840 --> 00:44:21,080
+Meanwhile, a determined group of men keep fishing,
+
+563
+00:44:22,500 --> 00:44:28,960
+struggling to maintain a proud tradition in nature's threatening and threatened seas.
+

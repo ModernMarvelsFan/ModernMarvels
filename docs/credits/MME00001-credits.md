@@ -1,0 +1,35 @@
+# Credit Roll: Grand Coulee Dam (1993)
+**Canonical Episode:** [`MME00001: Grand Coulee Dam`](../episodes/MME00001.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `(c)19?? A&E TELEVISION NETWORKS / ALL RIGHTS RESERVED`
+* **Production Company:** Premore, Inc., Midtown Post, Art F/X
+* **Narrator:** Harlan Saperstein
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Archival Footage Consultant** | Ted Troll |
+| **Camera** | Geoff Schaff |
+| **Coordinating Producer** | Tim Busa |
+| **Created by** | Bruce Nash |
+| **Editor** | Andy Thomas |
+| **Executive Producer** | Bob Jaffe |
+| **Executive in Charge** | Mel A. Bishop |
+| **Graphics** | Ron Clark, Art F/X |
+| **Music by** | Scott Page-Pagter, John Valentino |
+| **Narrated by** | Harlan Saperstein |
+| **On-Line Editor** | Brian Pete |
+| **Post Production** | Premore, Inc., Midtown Post, Valage |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Victoria Waters, Denise Agard, Nathan Wilson |
+| **Re-Recording Mixer** | Wayne Cook |
+| **Senior Producer** | Jeff Scheftel |
+| **Show Accountant** | Lynn Marchionno |
+| **Written and Produced by** | Andy Thomas |
+
+---
+[← Return to Episode Dossier](../episodes/MME00001.md)

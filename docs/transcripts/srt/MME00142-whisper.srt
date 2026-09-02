@@ -1,0 +1,5072 @@
+1
+00:00:00,001 --> 00:00:05,000
+Life without cars is almost impossible to imagine.
+
+2
+00:00:05,001 --> 00:00:07,000
+But how do they really work?
+
+3
+00:00:07,001 --> 00:00:11,000
+And who developed all the modern features we've come to rely on?
+
+4
+00:00:11,001 --> 00:00:17,000
+Well, roll up your sleeves for a real nuts and bolts tour under the hood of the modern car.
+
+5
+00:00:17,001 --> 00:00:21,000
+Now, The Body Shop on Modern Marvels.
+
+6
+00:00:30,000 --> 00:00:44,000
+Hi, I'm Ron Hazleton, and this is The Body Shop on the History Channel.
+
+7
+00:00:50,300 --> 00:00:54,160
+There's nothing I like more than taking things apart and putting them back together.
+
+8
+00:00:54,161 --> 00:00:59,480
+And in the next two hours, with the help of my two highly trained, certified technicians,
+
+9
+00:00:59,481 --> 00:01:05,540
+Bob and Chris, we're going to take one of America's most popular cars, this Ford Taurus,
+
+10
+00:01:05,541 --> 00:01:08,340
+and sacrifice it on the altar of knowledge.
+
+11
+00:01:08,341 --> 00:01:11,980
+We're going to unscrew it, unbolt it, and generally rip it apart.
+
+12
+00:01:11,981 --> 00:01:17,560
+Now, there's no way we'll have time to go into all of the 14,000 parts, but by the end
+
+13
+00:01:17,561 --> 00:01:21,380
+of the program, you'll really know what makes a car tick.
+
+14
+00:01:21,381 --> 00:01:24,940
+You'll learn the stories behind all of today's automotive systems.
+
+15
+00:01:24,941 --> 00:01:29,220
+So put on your metal overalls and let's go to work.
+
+16
+00:01:29,221 --> 00:01:33,260
+Now it's only fitting that we start with the heart of any car, the engine.
+
+17
+00:01:33,261 --> 00:01:35,940
+Bob, Chris, let's take her out.
+
+18
+00:01:35,941 --> 00:01:36,940
+Okay, Ron.
+
+19
+00:01:46,940 --> 00:01:51,340
+Most people don't think about the controlled chaos that takes place in an engine
+
+20
+00:01:51,341 --> 00:01:54,100
+once we turn the key and step on the gas.
+
+21
+00:01:54,101 --> 00:01:57,640
+The really exciting action takes place inside the cylinders,
+
+22
+00:01:57,641 --> 00:02:00,440
+which are located under here, the cylinder heads.
+
+23
+00:02:00,441 --> 00:02:02,380
+Bob, Chris, let's open her up.
+
+24
+00:02:10,220 --> 00:02:12,400
+Imagine, while you're driving,
+
+25
+00:02:12,401 --> 00:02:14,800
+thousands of miniature explosions per minute
+
+26
+00:02:14,801 --> 00:02:17,100
+are blasting away in the cylinders.
+
+27
+00:02:17,101 --> 00:02:20,240
+That's why it's called an internal combustion engine.
+
+28
+00:02:20,241 --> 00:02:21,460
+Now, here's how it works.
+
+29
+00:02:22,620 --> 00:02:26,000
+When the engine's running, these little valves open up,
+
+30
+00:02:26,420 --> 00:02:29,540
+allowing a fine mist of gasoline and air to enter the cylinder.
+
+31
+00:02:30,120 --> 00:02:32,880
+The explosions occur at the tip of the spark plug.
+
+32
+00:02:32,980 --> 00:02:34,560
+You can see the end of one right here.
+
+33
+00:02:35,080 --> 00:02:38,700
+Now that forces the pistons down into the cylinder,
+
+34
+00:02:39,140 --> 00:02:41,500
+causing the crankshaft back here to spin.
+
+35
+00:02:41,501 --> 00:02:45,060
+The faster the crankshaft spins, the faster you go.
+
+36
+00:02:45,061 --> 00:02:52,060
+Today's engines propel cars with amazing power and efficiency.
+
+37
+00:02:52,061 --> 00:03:00,060
+And combining cars with computers has transformed virtually every system, especially engines,
+
+38
+00:03:00,061 --> 00:03:05,060
+also known in body shop parlance as power plants.
+
+39
+00:03:05,061 --> 00:03:08,060
+They're remarkable devices.
+
+40
+00:03:08,061 --> 00:03:11,060
+They're making more horsepower than we've ever made before.
+
+41
+00:03:11,061 --> 00:03:14,300
+they start perfectly, and they hardly produce any pollution
+
+42
+00:03:14,400 --> 00:03:16,560
+at all.
+
+43
+00:03:16,660 --> 00:03:19,460
+Because of electronics, you can almost seal the hood today
+
+44
+00:03:19,560 --> 00:03:21,000
+and run the car for 100,000 miles.
+
+45
+00:03:24,500 --> 00:03:27,500
+Future gas-powered engines will be even more reliable,
+
+46
+00:03:27,600 --> 00:03:31,120
+and engineers are making progress on high-tech, zero-emission
+
+47
+00:03:31,220 --> 00:03:32,020
+alternatives.
+
+48
+00:03:35,620 --> 00:03:39,160
+It's taken over 100 years of driving and a billion engines
+
+49
+00:03:39,161 --> 00:03:40,558
+engines to get here.
+
+50
+00:03:40,559 --> 00:03:45,100
+People have tinkered and tested to make cars run and to make them
+
+51
+00:03:45,101 --> 00:03:52,100
+fun. But coming up with the first practical engine was the biggest challenge of all.
+
+52
+00:03:52,101 --> 00:03:59,100
+In 1878, Nicholas Otto of Germany built a single cylinder power plant that was smaller
+
+53
+00:04:00,600 --> 00:04:03,638
+and stronger than others around the world.
+
+54
+00:04:03,639 --> 00:04:06,820
+His engine generated more power than bulkier
+
+55
+00:04:06,821 --> 00:04:11,060
+rivals thanks to two additional steps.
+
+56
+00:04:11,061 --> 00:04:14,220
+This motion came to be known as a four-stroke cycle,
+
+57
+00:04:14,221 --> 00:04:16,920
+the same system still used in cars today.
+
+58
+00:04:20,260 --> 00:04:22,620
+During the intake phase, fuel and air
+
+59
+00:04:22,621 --> 00:04:26,520
+are drawn into the cylinder as the piston moves down.
+
+60
+00:04:26,521 --> 00:04:28,580
+In compression, the piston moves up
+
+61
+00:04:28,581 --> 00:04:32,960
+to squeeze the fuel-air mixture, making it more explosive.
+
+62
+00:04:32,961 --> 00:04:36,160
+Then ignition occurs, which hurls the piston down,
+
+63
+00:04:36,161 --> 00:04:38,720
+creating the power stroke.
+
+64
+00:04:38,721 --> 00:04:41,320
+During the final stage, the piston moves back up
+
+65
+00:04:41,321 --> 00:04:43,100
+to exhaust any unburned gases.
+
+66
+00:04:46,380 --> 00:04:49,180
+Earlier two-cycle models that skipped compression
+
+67
+00:04:49,181 --> 00:04:52,820
+and ignored exhaust were left in the dust.
+
+68
+00:04:52,821 --> 00:04:54,980
+Four cycles packed a bigger punch
+
+69
+00:04:54,981 --> 00:04:56,260
+with the same amount of fuel.
+
+70
+00:04:59,280 --> 00:05:03,160
+By 1886, Gottlieb Daimler and Carl Benz
+
+71
+00:05:03,161 --> 00:05:06,400
+improved on their countryman's tabletop design.
+
+72
+00:05:06,401 --> 00:05:10,300
+Gasoline-powered vehicles were on the road.
+
+73
+00:05:10,301 --> 00:05:13,160
+These engines were better built.
+
+74
+00:05:13,161 --> 00:05:15,780
+They were more carefully machined.
+
+75
+00:05:15,781 --> 00:05:19,600
+They had better compression, had better horsepower.
+
+76
+00:05:19,601 --> 00:05:22,340
+They began to use gasoline.
+
+77
+00:05:22,341 --> 00:05:26,680
+The other vehicles used a mixture of camphor and gasoline
+
+78
+00:05:26,681 --> 00:05:29,860
+and sometimes kerosene.
+
+79
+00:05:29,861 --> 00:05:31,960
+They worked, but they had little to fear
+
+80
+00:05:31,961 --> 00:05:35,800
+from early police with top speeds under 10 miles per hour.
+
+81
+00:05:38,760 --> 00:05:41,060
+The Americans were a little behind their European
+
+82
+00:05:41,061 --> 00:05:44,360
+counterparts at first, but they caught up with a vengeance
+
+83
+00:05:44,361 --> 00:05:47,080
+by the end of the century.
+
+84
+00:05:47,081 --> 00:05:50,500
+The Durye brothers built one of the earliest successful gas
+
+85
+00:05:50,501 --> 00:05:55,420
+powered vehicles in the US in 1895.
+
+86
+00:05:55,421 --> 00:05:58,120
+The Durye was a one cylinder engine.
+
+87
+00:05:58,121 --> 00:06:00,300
+It was somewhere around four horsepower.
+
+88
+00:06:00,301 --> 00:06:06,140
+propel the vehicle 0, 9 or 10 miles an hour going downhill
+
+89
+00:06:06,240 --> 00:06:09,140
+with a tailwind.
+
+90
+00:06:09,240 --> 00:06:11,840
+By the turn of the century, gas engines became more
+
+91
+00:06:11,940 --> 00:06:15,540
+powerful as two-cylinder models grew more common.
+
+92
+00:06:15,640 --> 00:06:19,960
+But early drivers still had other options.
+
+93
+00:06:20,060 --> 00:06:24,460
+The first national automobile show was held in 1900 and they
+
+94
+00:06:24,560 --> 00:06:29,900
+had a People's Choice voting award and surprisingly
+
+95
+00:06:29,901 --> 00:06:31,900
+the electric was the choice of the people.
+
+96
+00:06:31,901 --> 00:06:35,900
+Steam was second, and the gasoline was a distant third
+
+97
+00:06:35,901 --> 00:06:41,900
+because the gasoline was noisy, smelly, and it was dirty.
+
+98
+00:06:41,901 --> 00:06:43,900
+But just after the turn of the century,
+
+99
+00:06:43,901 --> 00:06:46,900
+internal combustion engines started taking over.
+
+100
+00:06:46,901 --> 00:06:49,900
+They were more reliable and had better range and power
+
+101
+00:06:49,901 --> 00:06:52,900
+thanks to multiple cylinders.
+
+102
+00:06:52,901 --> 00:06:55,900
+The disadvantages of steam and electricity
+
+103
+00:06:55,901 --> 00:06:58,900
+became harder to live with.
+
+104
+00:06:58,901 --> 00:07:03,400
+The gasoline engine won out over the others' steam and
+
+105
+00:07:03,500 --> 00:07:07,700
+electricity 100 years ago for the very simple reason it was
+
+106
+00:07:07,800 --> 00:07:09,140
+the best engine.
+
+107
+00:07:09,240 --> 00:07:10,840
+The gasoline engine, among other things,
+
+108
+00:07:10,940 --> 00:07:14,640
+can carry its own fuel with it, which an electric can't.
+
+109
+00:07:14,740 --> 00:07:18,860
+It starts up immediately, which a steam engine doesn't.
+
+110
+00:07:18,960 --> 00:07:22,660
+And it's fairly simple.
+
+111
+00:07:22,760 --> 00:07:25,360
+The epitome of the simple, reliable, rugged,
+
+112
+00:07:25,361 --> 00:07:30,760
+rugged gasoline-powered car appeared in 1908.
+
+113
+00:07:30,761 --> 00:07:35,680
+That was the year Henry Ford introduced his Model T.
+
+114
+00:07:35,681 --> 00:07:38,840
+When the Model T came out, it was a sensation.
+
+115
+00:07:38,841 --> 00:07:43,240
+It originally cost $850, which was not cheap.
+
+116
+00:07:43,241 --> 00:07:47,280
+But for your $850, you got a four-cylinder car that was
+
+117
+00:07:47,281 --> 00:07:48,740
+relatively powerful.
+
+118
+00:07:48,741 --> 00:07:51,060
+You got a very modern engine.
+
+119
+00:07:51,061 --> 00:07:55,080
+You got a very strong, light car that could navigate
+
+120
+00:07:55,081 --> 00:07:58,680
+the abysmal American roads, and the Model T very quickly
+
+121
+00:07:58,681 --> 00:08:01,780
+became the best-selling car in America, and eventually the
+
+122
+00:08:01,781 --> 00:08:04,620
+best-selling car in the world.
+
+123
+00:08:04,621 --> 00:08:07,920
+Its 20-horsepower, four-cylinder engine was more
+
+124
+00:08:07,921 --> 00:08:11,400
+powerful, yet lighter, than other engines at the time.
+
+125
+00:08:11,401 --> 00:08:15,100
+That's because Ford cast the engine block all in one piece,
+
+126
+00:08:15,101 --> 00:08:19,800
+instead of several pieces as other companies were doing.
+
+127
+00:08:19,801 --> 00:08:23,440
+By 1910, long six- and eight-cylinder monsters
+
+128
+00:08:23,441 --> 00:08:24,780
+began to appear.
+
+129
+00:08:24,781 --> 00:08:27,280
+Speeds topped 50 miles an hour.
+
+130
+00:08:31,280 --> 00:08:33,820
+Moving from one cylinder to multiple cylinders
+
+131
+00:08:33,821 --> 00:08:34,820
+wasn't too tough.
+
+132
+00:08:35,820 --> 00:08:38,780
+Workers simply attached each piston to the crankshaft
+
+133
+00:08:38,781 --> 00:08:40,920
+with connecting rods.
+
+134
+00:08:40,921 --> 00:08:43,660
+More cylinders turned the crankshaft faster,
+
+135
+00:08:43,661 --> 00:08:45,760
+which pushed you down the road faster.
+
+136
+00:08:48,600 --> 00:08:51,500
+Air and fuel were still mixed in the carburetor,
+
+137
+00:08:51,501 --> 00:08:53,560
+just like earlier single cylinder engines.
+
+138
+00:08:54,720 --> 00:08:57,620
+But multiple cylinders needed an extra link
+
+139
+00:08:57,621 --> 00:08:59,660
+between the carburetor and each cylinder,
+
+140
+00:09:00,240 --> 00:09:02,600
+a part known as the intake manifold.
+
+141
+00:09:06,700 --> 00:09:09,620
+Pushing the accelerator opened the throttle valve
+
+142
+00:09:09,621 --> 00:09:10,960
+at the top of the carburetor,
+
+143
+00:09:10,961 --> 00:09:13,000
+which allowed air to flow through.
+
+144
+00:09:13,780 --> 00:09:16,140
+As air rushed into the throat of the carburetor,
+
+145
+00:09:16,460 --> 00:09:19,540
+it pulled small droplets of fuel from a fuel bowl.
+
+146
+00:09:19,541 --> 00:09:23,540
+This combustible mixture entered the intake manifold.
+
+147
+00:09:23,541 --> 00:09:29,540
+Small tunnels in the manifold channeled an equal amount of the mixture to each cylinder.
+
+148
+00:09:29,541 --> 00:09:35,540
+After combustion, the exhaust left the cylinders through similar tunnels in the exhaust manifold,
+
+149
+00:09:35,541 --> 00:09:41,540
+which led to a single exhaust pipe.
+
+150
+00:09:41,541 --> 00:09:47,540
+Then in 1915, Henry Leland's Cadillac Company became the first manufacturer
+
+151
+00:09:47,541 --> 00:09:49,940
+to mass-produce eight-cylinder engines
+
+152
+00:09:49,941 --> 00:09:53,180
+arranged in a V-shape.
+
+153
+00:09:53,181 --> 00:09:55,440
+Angling the cylinders towards each other
+
+154
+00:09:55,441 --> 00:09:58,080
+allowed this powerful engine to take up less space
+
+155
+00:09:58,081 --> 00:10:03,180
+under the hood than a long row of side-by-side cylinders.
+
+156
+00:10:03,181 --> 00:10:06,000
+It was really a marvel of technology.
+
+157
+00:10:06,001 --> 00:10:10,000
+It was 314 cubic inches, 77 horsepower,
+
+158
+00:10:10,001 --> 00:10:12,400
+pushed our cars upwards of 70 miles an hour.
+
+159
+00:10:12,401 --> 00:10:15,700
+The V8 design also offered reliability and smoothness
+
+160
+00:10:15,701 --> 00:10:18,660
+that was unheard of in four-cylinder and six-cylinder
+
+161
+00:10:18,661 --> 00:10:19,361
+engines.
+
+162
+00:10:22,300 --> 00:10:25,540
+314 cubic inches was the total volume
+
+163
+00:10:25,541 --> 00:10:28,540
+inside the eight cylinders.
+
+164
+00:10:28,541 --> 00:10:31,140
+Power increased as the cubic inches increased,
+
+165
+00:10:31,141 --> 00:10:33,760
+since a larger cylinder provided more room
+
+166
+00:10:33,761 --> 00:10:35,060
+for a stronger boom.
+
+167
+00:10:38,660 --> 00:10:43,300
+Then in 1930, Cadillac came out with a real beast of an engine,
+
+168
+00:10:43,301 --> 00:10:48,900
+A massive 452 cubic inch V16.
+
+169
+00:10:49,000 --> 00:10:51,600
+Its power and 100 mile an hour speed
+
+170
+00:10:51,700 --> 00:10:56,180
+soon attracted some very interesting customers.
+
+171
+00:10:56,280 --> 00:10:59,880
+It attracted people such as Al Capone and Machine Gun Kelly.
+
+172
+00:10:59,980 --> 00:11:02,360
+We're talking about a day when there were not radio
+
+173
+00:11:02,460 --> 00:11:04,660
+transmissions in the police cars or helicopters.
+
+174
+00:11:04,760 --> 00:11:08,060
+So it became a matter of who had the fastest horse
+
+175
+00:11:08,160 --> 00:11:09,360
+to get out of town.
+
+176
+00:11:09,460 --> 00:11:13,300
+And some of the Cadillacs fit the bill very well.
+
+177
+00:11:13,301 --> 00:11:16,800
+Although Cadillac made the V16 until 1940,
+
+178
+00:11:16,900 --> 00:11:20,100
+the depression definitely depressed luxury car makers
+
+179
+00:11:20,200 --> 00:11:22,100
+in the 1930s.
+
+180
+00:11:22,200 --> 00:11:27,140
+Getting back to basics set the stage for Henry Ford once again.
+
+181
+00:11:27,240 --> 00:11:31,660
+In the 1920s, V8s only appeared in luxury cars.
+
+182
+00:11:31,760 --> 00:11:37,460
+But by 1932, Ford managed to offer V8s in his lower-priced cars.
+
+183
+00:11:37,560 --> 00:11:40,060
+Just like the four-cylinder Model T,
+
+184
+00:11:40,160 --> 00:11:42,700
+casting the V8 engine block in one piece
+
+185
+00:11:42,701 --> 00:11:46,640
+was the secret to its affordability.
+
+186
+00:11:46,740 --> 00:11:52,680
+The Ford V8 became the muscle car of the 1930s and the 1940s.
+
+187
+00:11:52,780 --> 00:11:58,480
+And in fact, John Dillinger used Ford V8s very frequently.
+
+188
+00:11:58,580 --> 00:12:00,460
+Dillinger never really purchased cars.
+
+189
+00:12:00,560 --> 00:12:01,880
+He stole them.
+
+190
+00:12:01,980 --> 00:12:06,260
+But he once wrote a letter to Henry Ford that states
+
+191
+00:12:06,360 --> 00:12:10,000
+that when I'm stealing a car, I always look for a Ford
+
+192
+00:12:10,001 --> 00:12:13,000
+Ford because it's the best car and the fastest car
+
+193
+00:12:13,100 --> 00:12:13,800
+in the business.
+
+194
+00:12:16,300 --> 00:12:19,240
+But not all engine innovations worked.
+
+195
+00:12:19,340 --> 00:12:22,380
+In the early 1940s, some consumer car makers
+
+196
+00:12:22,480 --> 00:12:25,580
+went a little overboard by incorporating an idea
+
+197
+00:12:25,680 --> 00:12:28,220
+that race cars had been using to boost their power
+
+198
+00:12:28,320 --> 00:12:32,060
+for many years, dual carburetors.
+
+199
+00:12:32,160 --> 00:12:35,160
+Two carburetors allowed more fuel and air into the engine,
+
+200
+00:12:35,260 --> 00:12:38,120
+leading to lots of power.
+
+201
+00:12:38,121 --> 00:12:40,680
+But coordinating the flow of air was difficult,
+
+202
+00:12:40,681 --> 00:12:43,820
+and most cars stuck with the single carburetor engines.
+
+203
+00:12:46,720 --> 00:12:49,060
+In the first 50 years of the century,
+
+204
+00:12:49,061 --> 00:12:51,360
+engine designers had come a long way,
+
+205
+00:12:51,361 --> 00:12:55,680
+from one-cylinder wimps to multi-cylinder monsters.
+
+206
+00:12:55,681 --> 00:12:58,880
+But things would get a lot tougher in the next 50 years,
+
+207
+00:12:58,881 --> 00:13:01,680
+as consumers demanded more power,
+
+208
+00:13:01,681 --> 00:13:04,680
+and the government laid down the law on pollution.
+
+209
+00:13:08,120 --> 00:13:14,120
+James Watt invented the term horsepower by watching ponies lift coal from mine shacks.
+
+210
+00:13:14,121 --> 00:13:18,830
+One horsepower equals 330 pounds raised 100 feet in one minute.
+
+211
+00:13:18,831 --> 00:13:22,120
+The Body Shop will return on Modern Marvels.
+
+212
+00:13:27,240 --> 00:13:30,520
+We now return to The Body Shop on Modern Marvels.
+
+213
+00:13:32,840 --> 00:13:37,640
+Engines, explosions and flying metal. No wonder we think they're so cool.
+
+214
+00:13:37,641 --> 00:13:43,800
+But obviously, there has to be some way of controlling all this action, and that is what the camshaft is for.
+
+215
+00:13:44,300 --> 00:13:46,520
+Think of it as the engine's mechanical brain.
+
+216
+00:13:46,940 --> 00:13:52,340
+It's located right up here and connected to the crankshaft down here by this timing chain.
+
+217
+00:13:52,341 --> 00:13:59,480
+As the camshaft spins around, these lobes open and close each cylinder valve at just the right time.
+
+218
+00:14:00,020 --> 00:14:05,820
+All of this split-second precision adds up to a steady source of power and a nice smooth ride.
+
+219
+00:14:07,640 --> 00:14:18,653
+Following the end of World War II in 1945, engineers kept squeezing more power and smoothness out of engines by making V8s better, instead of just building bigger and
+
+220
+00:14:18,654 --> 00:14:19,980
+bigger power plants.
+
+221
+00:14:22,380 --> 00:14:31,820
+The next real development was in the high compression overhead valve V8, which Oldsmobile and Cadillac introduced in 1948.
+
+222
+00:14:31,821 --> 00:14:43,797
+And high compression simply meant, if you could think of it in terms of keeping the top on the teapot as it's boiling, it's holding that pressure in there to make it
+
+223
+00:14:43,798 --> 00:14:44,498
+work.
+
+224
+00:14:45,240 --> 00:14:49,320
+It improved significantly the power to weight ratio of the cars.
+
+225
+00:14:50,020 --> 00:14:55,900
+The overhead valve engine was a full 200 pounds lighter weight than the flathead that it replaced.
+
+226
+00:14:55,901 --> 00:15:03,660
+A lighter engine and a lighter car in general led to more speed or better gas mileage.
+
+227
+00:15:04,780 --> 00:15:07,200
+Lower weight meant less for the engine to push.
+
+228
+00:15:10,980 --> 00:15:19,220
+One way of doing this was by using lighter, stronger metal alloys, like aluminum pistons, which popped up in the late 40s.
+
+229
+00:15:19,221 --> 00:15:28,060
+In 1960, Buick and Oldsmobile continued the light is right mantra with engines made almost
+
+230
+00:15:28,061 --> 00:15:29,240
+entirely of aluminum.
+
+231
+00:15:31,040 --> 00:15:37,620
+But as oil and gas prices continued to rise in the late 60s and early 70s, four and six
+
+232
+00:15:37,621 --> 00:15:39,400
+cylinder engines began to make a comeback.
+
+233
+00:15:40,980 --> 00:15:44,440
+Fuel mileage rose, but performance fizzled.
+
+234
+00:15:45,640 --> 00:15:48,800
+Customers wanted more power from their economy cars.
+
+235
+00:15:49,220 --> 00:15:54,220
+At the same time, the government wanted cleaner running cars.
+
+236
+00:15:54,221 --> 00:15:57,220
+This would sap even more strength.
+
+237
+00:15:57,221 --> 00:16:00,220
+Engine designers faced an incredible challenge.
+
+238
+00:16:00,221 --> 00:16:07,220
+Their solution was to replace the carburetor with a new system known as fuel injection.
+
+239
+00:16:13,220 --> 00:16:16,220
+This is a carburetor.
+
+240
+00:16:16,221 --> 00:16:23,580
+It became a thing of the past by the 1970s when it was replaced by something smaller, lighter, and more efficient.
+
+241
+00:16:24,180 --> 00:16:27,040
+The fuel injector. It's standard on most cars today.
+
+242
+00:16:27,600 --> 00:16:28,600
+Now, here's how it works.
+
+243
+00:16:29,280 --> 00:16:34,440
+This nozzle here sends fuel into the cylinder in a fine, precise spray.
+
+244
+00:16:34,880 --> 00:16:38,380
+You get a better mixture with the air and more bang for your buck.
+
+245
+00:16:38,560 --> 00:16:44,340
+In other words, more power, more mileage, and less pollution from the same amount of fuel.
+
+246
+00:16:44,341 --> 00:16:47,340
+Well, no wonder the carburetor's history.
+
+247
+00:16:49,040 --> 00:16:52,560
+The first fuel injectors came on the scene in the 50s,
+
+248
+00:16:53,000 --> 00:16:55,800
+like the complicated system on the 58 Corvette.
+
+249
+00:16:57,080 --> 00:17:01,380
+The original fuel injection systems were mechanical systems.
+
+250
+00:17:01,520 --> 00:17:03,520
+They were controlled by cams and gears,
+
+251
+00:17:03,780 --> 00:17:05,440
+and they were very, very expensive.
+
+252
+00:17:05,620 --> 00:17:08,720
+They were very complex because these control mechanisms
+
+253
+00:17:08,721 --> 00:17:11,320
+required very precise, fine machining.
+
+254
+00:17:11,321 --> 00:17:17,320
+Electronic fuel injection was the answer to engine designers' prayers.
+
+255
+00:17:17,321 --> 00:17:24,320
+In the early 1970s, computers gave them all of fuel injection's benefits and made it simpler
+
+256
+00:17:24,321 --> 00:17:26,320
+and cheaper than mechanical systems.
+
+257
+00:17:26,321 --> 00:17:32,320
+But within a few years, fuel injection still wasn't clean enough for the government.
+
+258
+00:17:32,321 --> 00:17:37,320
+Emission standards grew more strict in the 1970s.
+
+259
+00:17:37,321 --> 00:17:42,640
+The industry turned to the catalytic converter, which was attached to the exhaust system.
+
+260
+00:17:43,780 --> 00:17:55,160
+It takes some of the pollutants that come out of the engine, and by running them over a grid of platinum and other catalysts, converts them into less harmful materials.
+
+261
+00:17:55,800 --> 00:17:59,860
+And that all of a sudden made it possible to meet much tighter emission standards.
+
+262
+00:18:01,180 --> 00:18:07,240
+But in the late 70s, even fuel injection and the catalytic converter couldn't meet government standards.
+
+263
+00:18:07,320 --> 00:18:11,320
+Electronic sensors were the next step.
+
+264
+00:18:11,321 --> 00:18:14,320
+Sensors let the two systems talk to each other,
+
+265
+00:18:14,321 --> 00:18:19,320
+giving engines a near-perfect fuel-air mix every time they fired.
+
+266
+00:18:19,321 --> 00:18:23,320
+These days, we've taken this to a very, very fine art,
+
+267
+00:18:23,321 --> 00:18:27,320
+and a modern engine produces between 1 and 2 percent as much air pollution
+
+268
+00:18:27,321 --> 00:18:30,320
+as an uncontrolled engine from the 60s did.
+
+269
+00:18:30,321 --> 00:18:38,268
+it. Future gas engines will deliver much more radical innovations.
+
+270
+00:18:38,269 --> 00:18:41,520
+In fact, having a V8 engine
+
+271
+00:18:41,521 --> 00:18:46,720
+in the future may not necessarily mean that all eight pistons are pumping all the time.
+
+272
+00:18:48,560 --> 00:18:53,360
+We're going to see future engines that can shut off cylinders when they're not needed,
+
+273
+00:18:53,361 --> 00:18:58,320
+and that's very good from a fuel economy standpoint because typically most engines,
+
+274
+00:18:58,321 --> 00:19:00,160
+when you're just cruising down the highway
+
+275
+00:19:00,161 --> 00:19:02,860
+or using maybe 10% of their maximum output.
+
+276
+00:19:05,800 --> 00:19:09,360
+Other car engines may not even run on gasoline at all.
+
+277
+00:19:09,860 --> 00:19:13,100
+One recent alternative is actually a very old idea.
+
+278
+00:19:14,800 --> 00:19:16,580
+Vehicles powered by electric motors
+
+279
+00:19:16,581 --> 00:19:18,340
+don't produce any harmful emissions,
+
+280
+00:19:18,341 --> 00:19:21,160
+but they still face some of the same limitations
+
+281
+00:19:21,161 --> 00:19:23,300
+that existed 100 years ago.
+
+282
+00:19:24,600 --> 00:19:27,340
+Many different manufacturers have tried electric vehicles,
+
+283
+00:19:27,341 --> 00:19:31,880
+vehicles, and we've seen that they can be powerful and exciting just like an internal
+
+284
+00:19:31,881 --> 00:19:36,240
+combustion engine, but they've been universally limited by range.
+
+285
+00:19:36,241 --> 00:19:41,580
+So once you're in the 60 miles to 100 mile range, you're beginning to stretch what's
+
+286
+00:19:41,581 --> 00:19:43,840
+practical.
+
+287
+00:19:43,841 --> 00:19:48,340
+Other recently introduced consumer models are trying to have the best of both worlds
+
+288
+00:19:48,341 --> 00:19:51,140
+by using two sources of power.
+
+289
+00:19:51,141 --> 00:19:54,620
+These are known as hybrid vehicles.
+
+290
+00:19:54,621 --> 00:19:57,720
+The Honda Insight is one example.
+
+291
+00:19:57,721 --> 00:20:01,220
+It uses a small gas engine supplemented by an electric motor
+
+292
+00:20:01,221 --> 00:20:04,820
+when extra power is needed.
+
+293
+00:20:04,821 --> 00:20:07,420
+Since the gas engine has to do less work,
+
+294
+00:20:07,421 --> 00:20:10,920
+the Insight averages about 70 miles per gallon.
+
+295
+00:20:10,921 --> 00:20:14,360
+That's tops in official US government mileage measuring
+
+296
+00:20:14,361 --> 00:20:16,580
+history.
+
+297
+00:20:16,581 --> 00:20:19,160
+Fuel cells are currently under research
+
+298
+00:20:19,161 --> 00:20:22,200
+and may become the first practical zero emission
+
+299
+00:20:22,201 --> 00:20:24,480
+power plants.
+
+300
+00:20:24,481 --> 00:20:28,880
+They generate power by passing hydrogen through a special membrane.
+
+301
+00:20:28,881 --> 00:20:32,320
+Electrons are released, which generates electricity.
+
+302
+00:20:32,321 --> 00:20:35,820
+Then the free hydrogen and the electrons reconnect
+
+303
+00:20:35,821 --> 00:20:43,040
+and are combined with oxygen, leading to the reaction's only other byproduct, water.
+
+304
+00:20:43,041 --> 00:20:46,320
+NASA engineers developed fuel cells like these
+
+305
+00:20:46,321 --> 00:20:52,040
+to provide power on hydrogen-fueled rockets for the space program.
+
+306
+00:20:52,041 --> 00:20:54,880
+Fuel cells basically have about twice the efficiency
+
+307
+00:20:54,881 --> 00:20:56,460
+of an internal combustion engine.
+
+308
+00:20:56,580 --> 00:20:58,920
+So again, fuel economy should be very good.
+
+309
+00:20:58,921 --> 00:21:01,420
+The issue is, as they run on hydrogen,
+
+310
+00:21:02,200 --> 00:21:05,540
+there's not a good, practical, inexpensive way
+
+311
+00:21:05,541 --> 00:21:07,980
+to either produce hydrogen today,
+
+312
+00:21:08,160 --> 00:21:11,980
+nor transport hydrogen, nor store it on board.
+
+313
+00:21:12,860 --> 00:21:16,580
+Since hydrogen gas would require a trailer-sized tank
+
+314
+00:21:16,581 --> 00:21:20,240
+and low-temperature liquid hydrogen can be dangerous,
+
+315
+00:21:20,241 --> 00:21:27,600
+the goal of a powerful, efficient, convenient, zero-emission engine still seems just beyond our reach.
+
+316
+00:21:30,860 --> 00:21:35,400
+Roughly one out of every four U.S. patents relates to a part of the automobile,
+
+317
+00:21:35,900 --> 00:21:37,980
+more than any other consumer product.
+
+318
+00:21:39,320 --> 00:21:42,780
+The Body Shop will continue on Modern Marvels.
+
+319
+00:21:42,781 --> 00:21:52,640
+We now return to The Body Shop on Modern Marvels.
+
+320
+00:21:55,820 --> 00:21:59,160
+Now that we've looked at the heart of the car, let's look at the skin.
+
+321
+00:21:59,840 --> 00:22:04,980
+The exterior of this Taurus is a combination of plastic and hardened steel.
+
+322
+00:22:06,200 --> 00:22:10,880
+In some places, the steel measures an unbelievably thin three-quarters of a millimeter.
+
+323
+00:22:10,881 --> 00:22:12,880
+Hey, Chris, let's cut out a hunk.
+
+324
+00:22:12,881 --> 00:22:13,880
+Say it right here.
+
+325
+00:22:22,880 --> 00:22:24,880
+Thanks, Chris.
+
+326
+00:22:24,881 --> 00:22:25,880
+Now, don't worry.
+
+327
+00:22:25,881 --> 00:22:27,880
+There's more than this skin protecting you.
+
+328
+00:22:27,881 --> 00:22:29,880
+We'll talk about that later.
+
+329
+00:22:29,881 --> 00:22:32,880
+But for everyone who thinks that beauty is only skin deep,
+
+330
+00:22:32,881 --> 00:22:36,880
+the body of a car may be the perfect example.
+
+331
+00:22:36,881 --> 00:22:39,880
+Over the decades, designers have shaped car bodies
+
+332
+00:22:39,881 --> 00:22:41,880
+into an almost endless variety.
+
+333
+00:22:44,880 --> 00:22:47,880
+From ragtops and convertibles to tail fins,
+
+334
+00:22:47,881 --> 00:22:52,880
+uninspiring box-like designs to sleek aerodynamic wonders,
+
+335
+00:22:52,881 --> 00:22:56,880
+cars have looks to satisfy almost any taste.
+
+336
+00:22:56,881 --> 00:23:00,880
+But all of this attention to form is actually rooted in function.
+
+337
+00:23:04,880 --> 00:23:07,880
+The earliest cars were simply wooden horse carriages with
+
+338
+00:23:07,881 --> 00:23:09,840
+with motors.
+
+339
+00:23:09,841 --> 00:23:13,280
+There were no doors, no roofs, not even a windshield.
+
+340
+00:23:13,281 --> 00:23:15,780
+Drivers were totally exposed to the elements.
+
+341
+00:23:19,540 --> 00:23:22,700
+As car speeds went up, engineers raised the sides
+
+342
+00:23:22,701 --> 00:23:24,380
+and added doors.
+
+343
+00:23:24,381 --> 00:23:27,060
+Windshields and carriage-like ragtop roofs
+
+344
+00:23:27,061 --> 00:23:30,940
+became popular after the turn of the century.
+
+345
+00:23:30,941 --> 00:23:33,720
+One of the earliest completely enclosed cars
+
+346
+00:23:33,721 --> 00:23:37,580
+was the 1905 Cadillac Osceola.
+
+347
+00:23:37,581 --> 00:23:40,780
+It was a one-of-a-kind, turn-of-the-century concept car.
+
+348
+00:23:41,340 --> 00:23:46,060
+The closed-body idea was very appealing to Cadillac's founder, Henry Leland.
+
+349
+00:23:47,160 --> 00:23:50,600
+When you look at the car, you can see it has a very tall silhouette,
+
+350
+00:23:51,160 --> 00:23:55,380
+and one of the reasons for that was that Henry Leland was very tall, well over six feet tall.
+
+351
+00:23:56,020 --> 00:24:00,340
+Osceola was such a significant innovation to the automobile business that Henry Leland kept that car,
+
+352
+00:24:00,800 --> 00:24:03,040
+and that was his actual personal car that he drove.
+
+353
+00:24:03,041 --> 00:24:12,660
+However, it took quite a while for closed-bodied cars to catch on because they were expensive.
+
+354
+00:24:12,661 --> 00:24:20,480
+In fact, closed cars didn't outsell open models until 1927, 22 years later.
+
+355
+00:24:20,481 --> 00:24:24,800
+In addition to offering more protection from the elements, cars were gradually changing
+
+356
+00:24:24,801 --> 00:24:29,540
+their skins from wood to steel.
+
+357
+00:24:29,541 --> 00:24:32,540
+The fancy steel bodies appeared as early as 1912,
+
+358
+00:24:32,541 --> 00:24:36,540
+but they didn't dominate the market until the 1930s.
+
+359
+00:24:38,540 --> 00:24:44,540
+Advances in metal shaping set the stage for one of the brightest periods in American car styling.
+
+360
+00:24:44,541 --> 00:24:50,540
+Before the late 20s, more practical engineers had always dictated a car's shape.
+
+361
+00:24:50,541 --> 00:24:58,540
+That changed in 1927, when General Motors placed Harley Earl in charge of the art and color section.
+
+362
+00:24:58,541 --> 00:25:01,860
+the first department in the industry dedicated exclusively
+
+363
+00:25:01,861 --> 00:25:05,060
+to styling.
+
+364
+00:25:05,061 --> 00:25:09,160
+His first GM design was the 1927 LaSalle,
+
+365
+00:25:09,161 --> 00:25:14,440
+which became the pace car for that year's Indianapolis 500.
+
+366
+00:25:14,441 --> 00:25:17,720
+The styling on the car is very fresh.
+
+367
+00:25:17,721 --> 00:25:19,860
+It has flowing lines, whereas if you
+
+368
+00:25:19,861 --> 00:25:21,600
+look at the earlier cars that were designed
+
+369
+00:25:21,601 --> 00:25:24,320
+by the mechanical engineers, they're very straightforward,
+
+370
+00:25:24,321 --> 00:25:26,060
+more form and function than styling.
+
+371
+00:25:28,540 --> 00:25:35,360
+Flowing lines came from a process that Earl used over the decades at GM, his idea of clay modeling.
+
+372
+00:25:36,520 --> 00:25:38,560
+Previously, models had been made of wood.
+
+373
+00:25:39,760 --> 00:25:43,340
+Clay gave Earl the freedom to test many different shapes and ideas.
+
+374
+00:25:44,180 --> 00:25:46,700
+It's an innovation that's still in use today.
+
+375
+00:25:50,560 --> 00:25:58,360
+In 1929, the Kord Car Company hired Gordon Buhrig to supervise the design of its Duesenberg line of cars.
+
+376
+00:25:58,540 --> 00:26:03,740
+Gordon Buig was really one of the finest designers then.
+
+377
+00:26:03,741 --> 00:26:07,680
+He could design any vehicle and leave off all the trim.
+
+378
+00:26:08,020 --> 00:26:09,520
+It would still be beautiful.
+
+379
+00:26:10,100 --> 00:26:13,020
+It was beautiful in shape, in form.
+
+380
+00:26:13,660 --> 00:26:16,820
+And that's what made his design so ascending.
+
+381
+00:26:18,920 --> 00:26:22,820
+Movie stars like Clark Gable, Gary Cooper, and Mae West
+
+382
+00:26:22,821 --> 00:26:26,800
+happily paid about $15,000 for their doozies,
+
+383
+00:26:26,801 --> 00:26:30,240
+or $153,000 today.
+
+384
+00:26:30,940 --> 00:26:34,900
+With that kind of price tag, it's a good thing the J model is still considered
+
+385
+00:26:34,901 --> 00:26:39,000
+one of the most stylish and opulent cars in American automotive history.
+
+386
+00:26:42,360 --> 00:26:48,260
+Although the depression sank luxury car sales, advances in body design continued.
+
+387
+00:26:49,600 --> 00:26:56,560
+The 1934 Chrysler Airflow was aptly named since it was the first car designed in a wind tunnel.
+
+388
+00:26:56,800 --> 00:27:03,800
+This allowed the car to slice through the air more efficiently than earlier models.
+
+389
+00:27:06,800 --> 00:27:10,698
+Smaller, sporty cars became popular in the 1950s.
+
+390
+00:27:10,699 --> 00:27:13,800
+In 1953, designers at Chevrolet decided
+
+391
+00:27:13,801 --> 00:27:16,002
+to try out a non-steel body.
+
+392
+00:27:16,003 --> 00:27:20,800
+They used a new type of plastic known as fiberglass to create
+
+393
+00:27:20,801 --> 00:27:23,340
+to create the highly successful Corvette.
+
+394
+00:27:24,680 --> 00:27:26,580
+Fiberglass made the Corvette light
+
+395
+00:27:26,581 --> 00:27:28,260
+and allowed for stylish curves,
+
+396
+00:27:28,580 --> 00:27:30,720
+but there was also a practical reason
+
+397
+00:27:30,721 --> 00:27:31,920
+for using this material.
+
+398
+00:27:33,900 --> 00:27:36,720
+It's cheaper to build a low-volume car
+
+399
+00:27:36,721 --> 00:27:37,700
+out of fiberglass,
+
+400
+00:27:38,160 --> 00:27:42,020
+and the reason is when you make a body out of steel,
+
+401
+00:27:42,380 --> 00:27:44,660
+you have to produce these enormous dies
+
+402
+00:27:44,661 --> 00:27:47,300
+that stamp a flat sheet of steel
+
+403
+00:27:47,301 --> 00:27:50,280
+and produce a fender or a hood or a roof.
+
+404
+00:27:50,800 --> 00:27:56,800
+The Corvette's fiberglass body was molded on less expensive equipment.
+
+405
+00:27:56,801 --> 00:28:03,800
+Since annual Corvette production has always been in the tens of thousands compared to hundreds of thousands for more common models,
+
+406
+00:28:03,801 --> 00:28:09,800
+Chevrolet saved manufacturing costs with this non-steel body.
+
+407
+00:28:09,801 --> 00:28:14,800
+But fiberglass also helped the Corvette seem new and different.
+
+408
+00:28:14,801 --> 00:28:21,800
+However, 1970s car bodies offered very little in new and different styles.
+
+409
+00:28:21,801 --> 00:28:25,800
+Designers were being pulled in several directions.
+
+410
+00:28:25,801 --> 00:28:31,800
+Safety standards from the government started to prohibit any sharp corners on car bodies.
+
+411
+00:28:31,801 --> 00:28:35,800
+At the same time, the government was requiring higher fuel economy,
+
+412
+00:28:35,801 --> 00:28:39,800
+which increased the need for smaller, lighter cars.
+
+413
+00:28:39,801 --> 00:28:44,800
+But customers didn't want to give up any interior space.
+
+414
+00:28:44,900 --> 00:28:47,440
+So if you want to make the outside of the car smaller,
+
+415
+00:28:47,540 --> 00:28:50,440
+keep the inside big, well, you make a box.
+
+416
+00:28:50,540 --> 00:28:53,480
+And by the time we got to the late 70s,
+
+417
+00:28:53,580 --> 00:28:56,020
+we had cars with very little chrome on them,
+
+418
+00:28:56,120 --> 00:29:01,380
+very few sharp edges, and extremely boxy shapes.
+
+419
+00:29:01,480 --> 00:29:03,560
+In recent years, some designers
+
+420
+00:29:03,660 --> 00:29:06,300
+have looked to aluminum as the next body material
+
+421
+00:29:06,400 --> 00:29:08,500
+to unseat steel.
+
+422
+00:29:08,501 --> 00:29:14,400
+Although aluminum is lighter, it's not as easy to shape as steel, and since different
+
+423
+00:29:14,401 --> 00:29:19,780
+metals can't be welded together, it cannot be attached to steel, which is still the most
+
+424
+00:29:19,781 --> 00:29:25,060
+common material for the underlying structure of the car.
+
+425
+00:29:25,061 --> 00:29:29,460
+Due to these limitations, some manufacturers are starting to make certain body panels out
+
+426
+00:29:29,461 --> 00:29:33,900
+of plastic and keep other parts steel.
+
+427
+00:29:33,901 --> 00:29:38,500
+Future stylists may be working with carbon fiber materials.
+
+428
+00:29:38,501 --> 00:29:44,460
+carbon fiber combines durable plastics and carbon compounds to create a lightweight material
+
+429
+00:29:44,461 --> 00:29:47,674
+up to 35 times stronger than steel.
+
+430
+00:29:47,675 --> 00:29:52,540
+Indy car bodies are made from this advanced material.
+
+431
+00:29:52,541 --> 00:29:58,280
+But with a price tag 10 to 100 times higher than steel, it might stay on the track and
+
+432
+00:29:58,281 --> 00:30:03,491
+out of John Q. Public's garage for years to come.
+
+433
+00:30:03,492 --> 00:30:07,320
+Along with the skin, every car has a
+
+434
+00:30:07,321 --> 00:30:12,840
+skeleton. Now this torus has a unitized body, that's a fancy term for a big cage
+
+435
+00:30:12,841 --> 00:30:19,440
+just underneath the exterior. It consists of the roof, six pillars in between and
+
+436
+00:30:19,441 --> 00:30:23,640
+at either end of the doors, and the undercarriage. It's the thickest,
+
+437
+00:30:23,641 --> 00:30:28,380
+strongest part of a car. It supports everything else like the engine, the
+
+438
+00:30:28,381 --> 00:30:33,600
+transmission, and the wheels. And during collisions, its design protects
+
+439
+00:30:33,601 --> 00:30:39,480
+passengers by actually absorbing impact.
+
+440
+00:30:39,481 --> 00:30:46,640
+Early cars didn't have unitized bodies, just metal ladder-shaped structures known as chassis.
+
+441
+00:30:46,641 --> 00:30:55,980
+A strong chassis kept bad roads from making mincemeat out of the rest of the car.
+
+442
+00:30:55,981 --> 00:31:01,720
+In the 1920s, workers joined the chassis and the body near the end of the assembly line.
+
+443
+00:31:01,721 --> 00:31:05,720
+But that began to change in the 1930s.
+
+444
+00:31:05,721 --> 00:31:10,720
+In 1936, Lincoln came out with a car called a Zephyr,
+
+445
+00:31:10,721 --> 00:31:13,720
+and it was what we would think of today as a unit body.
+
+446
+00:31:13,721 --> 00:31:19,720
+That is, the chassis and the body were actually put together as a unit.
+
+447
+00:31:19,721 --> 00:31:26,720
+The unit, or unitized body, could be made lighter than two separate pieces.
+
+448
+00:31:26,721 --> 00:31:31,600
+It was also quieter since it was welded together instead of attached with rivets.
+
+449
+00:31:32,300 --> 00:31:38,080
+These factors were important as America's roads became smoother and the cars traveled faster.
+
+450
+00:31:40,580 --> 00:31:48,400
+In the 60s and 70s, small cars generally used unit bodies, and larger cars and light trucks used chassis.
+
+451
+00:31:50,020 --> 00:31:55,240
+A mixture still exists today since each type of construction has pros and cons.
+
+452
+00:31:55,241 --> 00:32:01,180
+For instance, a unit body can be safer in an accident since it's all in one piece,
+
+453
+00:32:01,181 --> 00:32:03,400
+but harder to repair afterwards.
+
+454
+00:32:03,401 --> 00:32:14,140
+Chassis suppliers are also starting to make things easier for car manufacturers.
+
+455
+00:32:14,141 --> 00:32:20,560
+Instead of just sending car makers a metal frame, some are sending more complete undercarriages.
+
+456
+00:32:20,561 --> 00:32:25,560
+This concept is known as the rolling chassis.
+
+457
+00:32:25,660 --> 00:32:27,560
+You'd find complete wheel systems.
+
+458
+00:32:27,660 --> 00:32:30,200
+You'd find the axle, the driveline.
+
+459
+00:32:30,300 --> 00:32:33,000
+You'd find all the plumbing that goes on a vehicle.
+
+460
+00:32:33,100 --> 00:32:34,800
+You'd take it to the assembler.
+
+461
+00:32:34,900 --> 00:32:39,620
+They'd drop an engine in, put the seats and the cabin box,
+
+462
+00:32:39,720 --> 00:32:41,820
+and go.
+
+463
+00:32:41,920 --> 00:32:44,420
+Just like automobile skins, designers
+
+464
+00:32:44,520 --> 00:32:46,320
+are working with a variety of materials
+
+465
+00:32:46,420 --> 00:32:50,560
+to make the underlying frame stronger and lighter.
+
+466
+00:32:50,561 --> 00:32:54,560
+Steel still rules, but aluminum and carbon fiber composite
+
+467
+00:32:54,660 --> 00:33:00,000
+materials may soon make their way into the car's skeleton.
+
+468
+00:33:00,100 --> 00:33:03,600
+But the frame won't go anywhere unless the rubber meets the
+
+469
+00:33:03,700 --> 00:33:04,500
+road.
+
+470
+00:33:04,600 --> 00:33:07,520
+Coming up, an inside look at the world of wheels.
+
+471
+00:33:10,620 --> 00:33:14,320
+In the early 1900s, an inventor attached a fake horse neck and
+
+472
+00:33:14,420 --> 00:33:17,920
+head to the front of his car to put real horses at ease.
+
+473
+00:33:17,921 --> 00:33:20,920
+The loud engine noises still terrified them.
+
+474
+00:33:22,920 --> 00:33:25,920
+The Body Shop will return on Modern Marvels.
+
+475
+00:33:30,920 --> 00:33:34,920
+We now return to The Body Shop on Modern Marvels.
+
+476
+00:33:39,920 --> 00:33:40,920
+More parts, huh?
+
+477
+00:33:40,921 --> 00:33:41,920
+That's right.
+
+478
+00:33:41,921 --> 00:33:42,621
+That's right.
+
+479
+00:33:46,000 --> 00:33:48,620
+If there's a Rodney Dangerfield of car parts,
+
+480
+00:33:48,740 --> 00:33:49,880
+it's got to be the wheels.
+
+481
+00:33:50,200 --> 00:33:51,480
+They just don't get no respect.
+
+482
+00:33:52,040 --> 00:33:55,480
+In fact, people used to test them by kicking the rubber.
+
+483
+00:33:56,000 --> 00:33:57,920
+And most times, you only think about them
+
+484
+00:33:57,921 --> 00:34:00,380
+when something is wrong, like having to change a flat.
+
+485
+00:34:00,720 --> 00:34:01,960
+But they're awfully important.
+
+486
+00:34:02,380 --> 00:34:04,120
+They're the only thing touching the road.
+
+487
+00:34:04,780 --> 00:34:07,980
+There are two basic parts, the metal rim and the rubber tire.
+
+488
+00:34:08,520 --> 00:34:09,720
+Let's go inside this tire.
+
+489
+00:34:09,721 --> 00:34:12,720
+It's made of a couple of layers or plies.
+
+490
+00:34:12,721 --> 00:34:18,720
+Rubber is mixed with lots of different cord materials like nylon and steel wire strands.
+
+491
+00:34:18,721 --> 00:34:24,720
+In fact, everyday run-of-the-mill tires are made of over 200 different ingredients and materials.
+
+492
+00:34:26,720 --> 00:34:31,720
+Early tires didn't have fancy layers. They didn't even have air in them.
+
+493
+00:34:31,721 --> 00:34:36,720
+These smooth, solid rubber tires were a pain in the neck and back for early drivers.
+
+494
+00:34:36,721 --> 00:34:40,480
+drivers. It just shook the heck out of the
+
+495
+00:34:40,481 --> 00:34:41,295
+automobile.
+
+496
+00:34:41,296 --> 00:34:47,220
+And even though they could get the thing going, if they got out into the country
+
+497
+00:34:47,221 --> 00:34:51,010
+and it rained, you couldn't get any traction.
+
+498
+00:34:51,011 --> 00:34:54,800
+Tires got all pumped up after the turn of the
+
+499
+00:34:54,801 --> 00:34:55,501
+century.
+
+500
+00:34:55,502 --> 00:35:02,060
+The air cushion added a lot of comfort, but the typical tire only lasted for about 2,000
+
+501
+00:35:02,061 --> 00:35:02,761
+miles.
+
+502
+00:35:02,762 --> 00:35:11,100
+A young Harvey Firestone was one of the first proponents of these air-filled or pneumatic
+
+503
+00:35:11,101 --> 00:35:11,801
+tires.
+
+504
+00:35:11,802 --> 00:35:17,440
+He struck up a long-time friendship with Henry Ford before the turn of the century.
+
+505
+00:35:18,580 --> 00:35:24,460
+When Firestone learned of the large number of Model T's Ford was planning to produce in 1908,
+
+506
+00:35:24,461 --> 00:35:32,040
+he saw an opportunity. Harvey Firestone developed one line of his tires to fit
+
+507
+00:35:32,041 --> 00:35:37,980
+on Ford's Model T cars, convinced his old friend that these tires would work for him,
+
+508
+00:35:38,280 --> 00:35:42,900
+and they struck up a relationship that lasted really through most of the 20th century.
+
+509
+00:35:44,960 --> 00:35:48,900
+By 1910, treads gave early drivers a better grip.
+
+510
+00:35:51,400 --> 00:35:56,520
+And in 1920, tire makers began placing inner tubes inside tires.
+
+511
+00:35:57,260 --> 00:36:00,980
+The inner tube provided an extra layer of protection against punctures.
+
+512
+00:36:02,040 --> 00:36:09,040
+Durability increased to 8,000 miles, but a set of four tires could set you back $60,
+
+513
+00:36:09,041 --> 00:36:12,040
+or about one month's pay for many workers.
+
+514
+00:36:15,040 --> 00:36:22,040
+More durable synthetic rubbers were developed in the 1930s, but they weren't good enough to make tires from.
+
+515
+00:36:23,040 --> 00:36:27,040
+As World War II began, this task became much more critical.
+
+516
+00:36:27,041 --> 00:36:28,480
+critical.
+
+517
+00:36:28,580 --> 00:36:31,480
+Tires were needed for a huge number of military vehicles
+
+518
+00:36:31,580 --> 00:36:33,780
+and airplanes.
+
+519
+00:36:33,880 --> 00:36:37,380
+The army couldn't move without tires.
+
+520
+00:36:37,480 --> 00:36:42,680
+A task force was formed to try to find the exact ingredients
+
+521
+00:36:42,780 --> 00:36:47,400
+that would allow mass production of synthetic tires.
+
+522
+00:36:47,500 --> 00:36:51,540
+This was the government deemed the most important project
+
+523
+00:36:51,640 --> 00:36:53,600
+of the war, even more important than the development
+
+524
+00:36:53,700 --> 00:36:54,900
+of the atomic bomb.
+
+525
+00:36:54,901 --> 00:37:02,420
+Had we not gotten synthetic rubber, we might not have gotten to the point that we could have saved ourselves with the atomic bomb.
+
+526
+00:37:04,040 --> 00:37:09,740
+After the war, tire makers mixed synthetic and natural rubbers to create more durable tires.
+
+527
+00:37:11,220 --> 00:37:15,120
+Even today, natural rubber remains an important ingredient.
+
+528
+00:37:17,340 --> 00:37:22,280
+Post-war consumers liked durability, but they wanted their tires to look good, too.
+
+529
+00:37:22,281 --> 00:37:27,280
+White sidewalls lent an air of sophistication to these round black donuts.
+
+530
+00:37:27,281 --> 00:37:32,758
+Underneath the fancy white walls, tougher rubber allowed B.F.
+
+531
+00:37:32,759 --> 00:37:36,080
+Goodrich to introduce a tubeless tire
+
+532
+00:37:36,081 --> 00:37:36,795
+in 1948.
+
+533
+00:37:36,796 --> 00:37:44,120
+Unlike the earliest air-filled tires, it was not a round circle of inflated rubber
+
+534
+00:37:44,121 --> 00:37:50,080
+placed on top of a rim. The tubeless tire consisted of only a tread and sidewalls.
+
+535
+00:37:50,081 --> 00:37:55,900
+air was sealed between the sides of the tire and the rim. This allowed makers to
+
+536
+00:37:55,901 --> 00:38:04,300
+toss the tube. Fewer materials meant cheaper tires. The plies or layers of the
+
+537
+00:38:04,301 --> 00:38:09,880
+tires were also becoming more durable. Earlier tires had used layers of natural
+
+538
+00:38:09,881 --> 00:38:18,280
+materials like cotton. Synthetic materials like rayon helped tires last longer.
+
+539
+00:38:18,281 --> 00:38:25,720
+The plies inside the tires overlapped each other in a diagonal pattern known as the bias
+
+540
+00:38:25,721 --> 00:38:26,720
+ply.
+
+541
+00:38:26,721 --> 00:38:30,740
+But this pattern had its drawbacks.
+
+542
+00:38:30,741 --> 00:38:34,280
+They looked very similar to the tires we know today, but the construction underneath
+
+543
+00:38:34,281 --> 00:38:35,860
+was very different.
+
+544
+00:38:35,861 --> 00:38:39,960
+Those layers, those diagonal layers, tended to wear against one another and tended to
+
+545
+00:38:39,961 --> 00:38:43,620
+cause the tire to wear out sooner.
+
+546
+00:38:43,621 --> 00:38:48,940
+The French Michelin Company invented the radial tire in 1946.
+
+547
+00:38:48,941 --> 00:38:54,820
+It found increasing use in Europe in the 1950s and 60s, but didn't arrive in America until
+
+548
+00:38:54,821 --> 00:38:57,240
+the 1970s.
+
+549
+00:38:57,241 --> 00:39:03,920
+The plies in a radial tire were laid at a 90-degree angle to the grooves in the tread.
+
+550
+00:39:03,921 --> 00:39:08,420
+This arrangement, along with the advances in ply materials such as fiberglass and steel
+
+551
+00:39:08,421 --> 00:39:15,420
+wires resulted in tires that lasted for about 50,000 miles.
+
+552
+00:39:15,421 --> 00:39:16,121
+U.S.
+
+553
+00:39:16,122 --> 00:39:22,420
+tire companies were hesitant to adopt radials since rearranging the plies required
+
+554
+00:39:22,421 --> 00:39:29,580
+billions of dollars worth of new manufacturing equipment.
+
+555
+00:39:29,581 --> 00:39:36,580
+Radials were better, but car makers in Detroit had always put price above performance.
+
+556
+00:39:36,581 --> 00:39:40,620
+Over the years, it has become a cliche that all Detroit wanted
+
+557
+00:39:40,621 --> 00:39:44,280
+was tires that were round, black, and cheap,
+
+558
+00:39:44,281 --> 00:39:47,720
+and they really didn't care about the round and black part.
+
+559
+00:39:53,220 --> 00:39:55,860
+In recent years, car manufacturers have accepted
+
+560
+00:39:55,861 --> 00:39:59,340
+that higher quality tires lead to increased gas mileage
+
+561
+00:39:59,341 --> 00:40:00,340
+and better safety.
+
+562
+00:40:03,140 --> 00:40:05,840
+Convenience is increasing too.
+
+563
+00:40:05,841 --> 00:40:11,160
+In fact, some products on the market now may already be turning spare tires into a thing
+
+564
+00:40:11,161 --> 00:40:13,920
+of the past.
+
+565
+00:40:13,921 --> 00:40:18,620
+Over the decades, tires have needed less and less air pressure to remain inflated as the
+
+566
+00:40:18,621 --> 00:40:23,280
+supporting structures inside have become stronger.
+
+567
+00:40:23,281 --> 00:40:29,280
+Goodyear's Run Flat tire has taken that concept to the next level.
+
+568
+00:40:29,281 --> 00:40:34,920
+It can be driven for 50 miles without any air pressure inside.
+
+569
+00:40:34,921 --> 00:40:38,560
+The drill is sold separately.
+
+570
+00:40:38,561 --> 00:40:48,520
+But even the best set of tires won't do you much good if you can't get them to stop turning.
+
+571
+00:40:48,521 --> 00:40:51,100
+Now what would you say is the most forceful part of a car?
+
+572
+00:40:51,101 --> 00:40:54,160
+I bet most of you said the engine, right?
+
+573
+00:40:54,161 --> 00:40:55,960
+Well, you're wrong.
+
+574
+00:40:55,961 --> 00:40:57,720
+It's the brakes.
+
+575
+00:40:57,721 --> 00:41:02,540
+Big engines can move a car from zero to 60 in five or six seconds, but a good set of
+
+576
+00:41:02,541 --> 00:41:05,653
+brakes can stop that car in only three seconds.
+
+577
+00:41:05,654 --> 00:41:08,700
+Most cars today are equipped with disc brakes,
+
+578
+00:41:08,701 --> 00:41:09,980
+like these here.
+
+579
+00:41:09,981 --> 00:41:15,900
+The calipers pinch the brake pad against this rotor, which makes the wheel
+
+580
+00:41:15,901 --> 00:41:16,601
+slow down.
+
+581
+00:41:16,602 --> 00:41:22,140
+Hydraulic fluid inside this brake line makes our job of pushing the brake pedal
+
+582
+00:41:22,141 --> 00:41:26,085
+a lot easier, but it wasn't always this way.
+
+583
+00:41:26,086 --> 00:41:30,300
+In the 1880s, the earliest automotive inventors
+
+584
+00:41:30,301 --> 00:41:32,900
+were so happy just to get their vehicles running,
+
+585
+00:41:33,280 --> 00:41:35,280
+they hadn't bothered to install brakes.
+
+586
+00:41:35,840 --> 00:41:38,760
+They didn't figure that they needed brakes on them.
+
+587
+00:41:39,840 --> 00:41:41,920
+First of all, they didn't go fast enough.
+
+588
+00:41:43,060 --> 00:41:46,120
+And what they would do was to shut the engine down
+
+589
+00:41:46,121 --> 00:41:48,160
+and let the compression of the engine
+
+590
+00:41:48,161 --> 00:41:52,180
+that wasn't firing any longer slow the car down.
+
+591
+00:41:54,240 --> 00:41:56,580
+Consumer models in the late 1800s
+
+592
+00:41:56,581 --> 00:41:59,240
+used simple friction brakes, just like wagons.
+
+593
+00:42:00,300 --> 00:42:05,020
+Pulling a lever forced wood or metal to rub against the axle or rear wheel.
+
+594
+00:42:08,140 --> 00:42:11,340
+As cars grew faster after the turn of the century,
+
+595
+00:42:11,341 --> 00:42:14,620
+mechanical drum brakes were installed on the rear wheels only.
+
+596
+00:42:15,820 --> 00:42:20,220
+The driver pulled a hand lever or pushed a foot pedal that was attached to cables.
+
+597
+00:42:23,260 --> 00:42:28,940
+Tension from the cables forced two semi-circular brake shoes against the inner wall of the brake drum.
+
+598
+00:42:30,300 --> 00:42:36,760
+Since the drum had been bolted to the wheel, the friction between the shoes and the drum slowed the car down.
+
+599
+00:42:40,780 --> 00:42:46,640
+In the early 1920s, these cable-operated mechanical brakes spread to all four wheels.
+
+600
+00:42:48,200 --> 00:42:50,660
+But the system still had limitations.
+
+601
+00:42:52,280 --> 00:42:55,220
+A cable could become loose during normal driving.
+
+602
+00:42:55,221 --> 00:43:02,220
+This would cause one tire to receive less braking pressure than the others, resulting in skids or spins.
+
+603
+00:43:02,221 --> 00:43:11,220
+Then in 1924, Walter Chrysler's company introduced four-wheel hydraulic brakes.
+
+604
+00:43:11,221 --> 00:43:20,220
+Instead of depending on cables, a hydraulic fluid system ensured that equal pressure was always distributed to all four brakes.
+
+605
+00:43:20,221 --> 00:43:22,660
+brakes.
+
+606
+00:43:22,661 --> 00:43:25,720
+Hydraulic fluid couldn't be compressed since there were no air
+
+607
+00:43:25,721 --> 00:43:27,080
+bubbles in the thick liquid.
+
+608
+00:43:29,900 --> 00:43:33,800
+There's a cylinder that's filled with hydraulic fluid.
+
+609
+00:43:33,801 --> 00:43:38,480
+And when you push on a pedal, you're squirting that hydraulic
+
+610
+00:43:38,481 --> 00:43:39,640
+fluid out.
+
+611
+00:43:39,641 --> 00:43:43,380
+And it's relatively easy then to make sure that you're
+
+612
+00:43:43,381 --> 00:43:46,560
+getting the same pressure because it's the same fluid
+
+613
+00:43:46,561 --> 00:43:48,020
+going out to all four wheels.
+
+614
+00:43:50,220 --> 00:43:56,140
+As cars became heavier in the next few decades, hydraulic brakes were assisted by several methods,
+
+615
+00:43:56,141 --> 00:43:59,660
+such as vacuum pressure created during normal engine operation.
+
+616
+00:44:02,220 --> 00:44:07,340
+Additional pressure forced through the hydraulic tubes made things easier for the driver,
+
+617
+00:44:07,341 --> 00:44:08,620
+or at least for their foot.
+
+618
+00:44:11,500 --> 00:44:15,580
+Disc brakes filtered down to consumers from aircraft and racing cars.
+
+619
+00:44:15,581 --> 00:44:23,200
+They first appeared in Europe in 1949, but didn't become popular in America until the mid-60s.
+
+620
+00:44:23,201 --> 00:44:31,060
+Instead of pushing brake shoes outwards against a drum, disc brakes use pincer-like calipers
+
+621
+00:44:31,061 --> 00:44:35,165
+with friction pads to squeeze a flat circular rotor.
+
+622
+00:44:35,166 --> 00:44:38,560
+Like the drum in the older braking systems,
+
+623
+00:44:38,561 --> 00:44:40,420
+the rotor was bolted to the wheel.
+
+624
+00:44:45,580 --> 00:44:51,900
+Disc brakes helped control heat buildup, which often reduced friction or stopping power in drum brakes.
+
+625
+00:44:55,260 --> 00:44:59,100
+Just as electronics helped boost engine performance in the 1970s,
+
+626
+00:44:59,660 --> 00:45:03,100
+microprocessors revolutionized brakes a few years later.
+
+627
+00:45:05,180 --> 00:45:10,940
+Combining disc brakes with electronic sensors and controls led to anti-lock brakes,
+
+628
+00:45:10,941 --> 00:45:14,640
+also known as ABS, or Advanced Braking System.
+
+629
+00:45:16,380 --> 00:45:18,600
+If you press on a brake too hard,
+
+630
+00:45:18,840 --> 00:45:21,840
+you apply so much braking power that the wheel stops turning,
+
+631
+00:45:22,520 --> 00:45:25,020
+and the wheel is sliding along on the pavement.
+
+632
+00:45:25,420 --> 00:45:27,140
+You lose complete controllability
+
+633
+00:45:27,141 --> 00:45:32,080
+because a wheel that isn't rotating has no sense of direction.
+
+634
+00:45:32,081 --> 00:45:34,980
+Then the electronics engages some valves
+
+635
+00:45:34,981 --> 00:45:37,000
+to reduce the hydraulic pressure
+
+636
+00:45:37,001 --> 00:45:39,320
+to make sure that the brake doesn't lock up.
+
+637
+00:45:39,321 --> 00:45:46,580
+And on a good system, this pulsation of brakes on, brakes off can be repeated 20, 30, 40 times a second.
+
+638
+00:45:50,180 --> 00:45:52,620
+Today's ABS brakes are very sophisticated.
+
+639
+00:45:56,500 --> 00:46:04,440
+But systems coming in the next few years may keep even the worst drivers out of accidents with better control and automation.
+
+640
+00:46:04,441 --> 00:46:09,440
+If you get too close to the vehicle in front of you,
+
+641
+00:46:09,540 --> 00:46:12,440
+audible alarms will sound to bring the situation
+
+642
+00:46:12,540 --> 00:46:13,440
+to your attention.
+
+643
+00:46:15,980 --> 00:46:19,480
+If you're really clueless, the car will start braking itself
+
+644
+00:46:19,580 --> 00:46:22,500
+to keep a safe distance.
+
+645
+00:46:22,600 --> 00:46:26,100
+It's very difficult initially to allow yourself
+
+646
+00:46:26,200 --> 00:46:29,140
+to let the vehicle have control.
+
+647
+00:46:29,240 --> 00:46:31,100
+You have a great urge to step on that brake
+
+648
+00:46:31,200 --> 00:46:33,440
+when you see the vehicle in front of you slowing down,
+
+649
+00:46:33,441 --> 00:46:38,740
+slowing down, but the system does slow you down and does keep you at a safe distance,
+
+650
+00:46:38,741 --> 00:46:41,215
+and it's really quite remarkable.
+
+651
+00:46:41,216 --> 00:46:45,340
+Automatic braking is bringing commuters one step closer
+
+652
+00:46:45,341 --> 00:46:50,540
+to their dream of reading the paper while they drive instead of worrying about stopping and starting.
+
+653
+00:46:53,140 --> 00:46:58,380
+But they'll need good suspension systems to keep their coffee in their mugs and off their laps.
+
+654
+00:46:58,381 --> 00:47:04,380
+Coming up, the shocking truth of developing a smooth ride.
+
+655
+00:47:08,380 --> 00:47:13,380
+Charles Goodyear was thrown in jail for a short time in 1837 when he couldn't pay for
+
+656
+00:47:13,381 --> 00:47:15,380
+rubber received on credit.
+
+657
+00:47:15,381 --> 00:47:18,380
+He died penniless in 1860.
+
+658
+00:47:18,381 --> 00:47:21,380
+The Body Shop will return on Modern Marvels.
+
+659
+00:47:21,381 --> 00:47:35,380
+Now, the Body Shop on Modern Marvels.
+
+660
+00:47:35,381 --> 00:47:42,060
+Well, our shop's filling up, but we've still got a lot of parts to take off this Taurus,
+
+661
+00:47:42,061 --> 00:47:44,020
+so I guess we better get back to work.
+
+662
+00:47:44,021 --> 00:47:48,920
+Now, even with cushy air-filled tires and a strong frame, you'd still have a pretty
+
+663
+00:47:48,921 --> 00:47:51,437
+rough ride without a suspension system.
+
+664
+00:47:51,438 --> 00:47:54,600
+Springs and shock absorbers are the main parts of
+
+665
+00:47:54,601 --> 00:47:58,710
+a suspension. They're the flexible link between the wheel and the frame.
+
+666
+00:47:58,711 --> 00:47:59,680
+And make sure you
+
+667
+00:47:59,681 --> 00:48:03,809
+don't bite your tongue off if you hit a pothole.
+
+668
+00:48:03,810 --> 00:48:07,680
+Early cars were so slow there was little fear
+
+669
+00:48:07,681 --> 00:48:12,406
+of tipping over. But the ride was definitely rough.
+
+670
+00:48:12,407 --> 00:48:16,020
+Long, curved metal leaf springs between
+
+671
+00:48:16,021 --> 00:48:19,020
+the wheels and the chassis provided some relief.
+
+672
+00:48:22,020 --> 00:48:25,520
+By 1910, simple straps and early shock absorbers
+
+673
+00:48:25,521 --> 00:48:27,520
+helped reduce this bouncing.
+
+674
+00:48:30,020 --> 00:48:32,520
+But even as leaf springs and shock absorbers improved
+
+675
+00:48:32,521 --> 00:48:34,020
+in the teens and 20s,
+
+676
+00:48:34,021 --> 00:48:37,520
+drivers and passengers still had a fairly rough ride.
+
+677
+00:48:39,520 --> 00:48:43,520
+Solid front and rear axles were the main culprits.
+
+678
+00:48:43,521 --> 00:48:49,120
+If the left front tire dropped into a pothole, the right front tire would jerk up in the air.
+
+679
+00:48:50,120 --> 00:48:53,680
+The entire car angled from side to side on rough roads.
+
+680
+00:48:54,640 --> 00:48:56,840
+The same problem occurred with the rear axle.
+
+681
+00:48:59,680 --> 00:49:02,400
+Independent front suspension solved part of this problem.
+
+682
+00:49:03,280 --> 00:49:09,640
+In the early 1930s, Cadillac engineer Maurice Ali experimented with the European system
+
+683
+00:49:09,641 --> 00:49:15,020
+of attaching each of the front wheel assemblies to the sides of the frame instead of a long,
+
+684
+00:49:15,021 --> 00:49:17,880
+solid axle.
+
+685
+00:49:17,881 --> 00:49:22,320
+Arms connected a wheel to the frame, and a variety of joints, springs, and coils allowed
+
+686
+00:49:22,321 --> 00:49:26,860
+the wheel to turn and absorb bumps.
+
+687
+00:49:26,861 --> 00:49:34,020
+If you're going over a very rough road, instead of the axle going like this, the wheels tend
+
+688
+00:49:34,021 --> 00:49:38,640
+to follow the bumps, and it makes not only for a better, smoother ride, it also makes
+
+689
+00:49:38,641 --> 00:49:41,100
+the car handled better.
+
+690
+00:49:41,101 --> 00:49:45,340
+Most 1934 General Motors models had this system,
+
+691
+00:49:45,341 --> 00:49:50,220
+and other companies quickly jumped on the bandwagon.
+
+692
+00:49:50,221 --> 00:49:52,680
+In the late 40s, engineer Earl McPherson
+
+693
+00:49:52,681 --> 00:49:55,760
+moved from GM to Ford.
+
+694
+00:49:55,761 --> 00:49:58,660
+He developed a system that combined a coil spring and a
+
+695
+00:49:58,661 --> 00:50:02,420
+shock absorber into one unit.
+
+696
+00:50:02,421 --> 00:50:07,100
+It became known as the McPherson Strut Suspension System.
+
+697
+00:50:07,101 --> 00:50:09,640
+It didn't necessarily offer a smoother ride,
+
+698
+00:50:09,641 --> 00:50:13,700
+but it was widely used for other reasons.
+
+699
+00:50:13,701 --> 00:50:17,300
+Most of the reasons for going to the McPherson suspension
+
+700
+00:50:17,301 --> 00:50:24,600
+was for the interest of simplicity, lower cost,
+
+701
+00:50:24,601 --> 00:50:27,800
+and it was more compact, particularly
+
+702
+00:50:27,801 --> 00:50:30,660
+when they went to the all front wheel drive,
+
+703
+00:50:30,661 --> 00:50:31,900
+front engine cars.
+
+704
+00:50:31,901 --> 00:50:35,260
+There wasn't much space left there.
+
+705
+00:50:35,261 --> 00:50:42,100
+The rear independent suspension appeared in Europe during the 1950s, but American manufacturers
+
+706
+00:50:42,101 --> 00:50:47,160
+didn't adopt it until the 1970s and 80s.
+
+707
+00:50:47,161 --> 00:50:52,440
+By this time, most American cars used front-wheel drive, meaning the turning power of the engine
+
+708
+00:50:52,441 --> 00:50:56,160
+went to the front wheels instead of the rear wheels.
+
+709
+00:50:56,161 --> 00:51:00,820
+Since the rear wheels didn't have to turn or supply power, it was easier to remove the
+
+710
+00:51:00,821 --> 00:51:07,360
+axle and provide them with independent suspension. But by the late 70s, luxury
+
+711
+00:51:07,361 --> 00:51:11,920
+cars have become sophisticated enough to offer independent suspension on all
+
+712
+00:51:11,921 --> 00:51:20,980
+four wheels. Another innovation known as active suspension first appeared on
+
+713
+00:51:20,981 --> 00:51:25,820
+race cars then on a few high priced models in the 1980s and 90s, such as the
+
+714
+00:51:25,821 --> 00:51:27,620
+and several Mercedes models.
+
+715
+00:51:30,560 --> 00:51:33,500
+This complex system used sensors and hydraulics
+
+716
+00:51:33,501 --> 00:51:37,960
+to actually pull a wheel up as soon as it sensed a bump,
+
+717
+00:51:37,961 --> 00:51:42,840
+instead of letting the springs react to the wheel's movements.
+
+718
+00:51:42,841 --> 00:51:46,300
+I drove an active suspension Corvette in the mid-'80s.
+
+719
+00:51:46,301 --> 00:51:47,880
+It was truly remarkable.
+
+720
+00:51:47,881 --> 00:51:49,380
+But even under mass production, there's
+
+721
+00:51:49,381 --> 00:51:50,680
+just a lot of hardware there.
+
+722
+00:51:50,681 --> 00:51:53,320
+And it's going to cost more than even the most sophisticated
+
+723
+00:51:53,321 --> 00:51:54,380
+shocks and springs.
+
+724
+00:51:55,820 --> 00:52:01,780
+As with all other parts of the car, electronics have bounced their way into today's suspension systems.
+
+725
+00:52:02,820 --> 00:52:05,920
+Shock absorbers can now be set for different amounts of stiffness
+
+726
+00:52:05,921 --> 00:52:09,980
+and adjust themselves up to 10 times a second during driving.
+
+727
+00:52:11,360 --> 00:52:17,620
+Future suspensions will execute even faster adjustments to provide the smoothest ride at all times.
+
+728
+00:52:19,940 --> 00:52:24,380
+So how do a bunch of explosions under the hood of our tourists make the wheels turn?
+
+729
+00:52:24,381 --> 00:52:30,380
+while the answer is the drive train and the transmission is one of its most important parts.
+
+730
+00:52:31,580 --> 00:52:35,360
+Today's automatic transmissions are filled with transmission fluid,
+
+731
+00:52:35,920 --> 00:52:38,540
+which is three times thinner than the average motor oil,
+
+732
+00:52:38,880 --> 00:52:41,800
+and a variety of pretty strange looking pieces.
+
+733
+00:52:42,500 --> 00:52:45,800
+One of the most important parts is the torque converter.
+
+734
+00:52:46,640 --> 00:52:49,820
+We'll get an inside look at the amazing way it works in a few minutes.
+
+735
+00:52:50,300 --> 00:52:53,760
+First, let's try to imagine a car without a transmission.
+
+736
+00:52:54,380 --> 00:52:57,580
+As soon as you turned the key, your car would speed forward.
+
+737
+00:52:58,040 --> 00:53:01,880
+And the only way to stop it would be to turn the engine off and then slam on the brakes.
+
+738
+00:53:03,840 --> 00:53:10,100
+Early inventors created transmissions with belts or chains or combinations of both to engage the wheels.
+
+739
+00:53:11,420 --> 00:53:13,820
+Many resembled bicycle chains and gears.
+
+740
+00:53:15,160 --> 00:53:18,000
+Drivers could change between low, high, and reverse.
+
+741
+00:53:18,001 --> 00:53:21,760
+worse.
+
+742
+00:53:21,761 --> 00:53:28,240
+Then in 1901, the American auto car model adopted the French invention of the drive shaft,
+
+743
+00:53:28,241 --> 00:53:32,540
+which connected the crankshaft to the rear axle.
+
+744
+00:53:32,541 --> 00:53:35,420
+That was important because you didn't have the problem of the chains.
+
+745
+00:53:35,421 --> 00:53:37,480
+The chains tended to stretch.
+
+746
+00:53:37,481 --> 00:53:39,120
+They tended to break.
+
+747
+00:53:39,121 --> 00:53:44,960
+And once you got the concept of the shaft drive, it was a straight through drive.
+
+748
+00:53:44,961 --> 00:53:50,300
+When the engine's spinning motion reached the rear axle, gears inside the differential
+
+749
+00:53:50,301 --> 00:53:56,800
+transferred the sideways spinning motion into forward or reverse spinning of the wheels.
+
+750
+00:53:56,801 --> 00:54:04,540
+All other American car builders quickly ditched chains and used the drive shaft.
+
+751
+00:54:04,541 --> 00:54:09,120
+But there was still no rhyme or reason to how cars changed gears.
+
+752
+00:54:09,121 --> 00:54:16,880
+Many of the hand levers were even located on the outside of the vehicle.
+
+753
+00:54:16,881 --> 00:54:22,160
+Ford's Model T used a system which was easier than most since it had three foot pedals and
+
+754
+00:54:22,161 --> 00:54:24,080
+no hand levers.
+
+755
+00:54:24,081 --> 00:54:28,460
+It was known as a planetary transmission.
+
+756
+00:54:28,461 --> 00:54:34,060
+The planetary transmission was one of the most significant elements of the Model T because
+
+757
+00:54:34,061 --> 00:54:36,560
+it made the Model T simple to drive.
+
+758
+00:54:36,561 --> 00:54:41,940
+And that was an important part of why the vehicle became so popular.
+
+759
+00:54:41,941 --> 00:54:44,440
+By the 1920s, most other car makers
+
+760
+00:54:44,441 --> 00:54:47,340
+adopted three-speed sliding gear systems,
+
+761
+00:54:47,341 --> 00:54:49,940
+like today's manual transmissions.
+
+762
+00:54:49,941 --> 00:54:52,080
+Pushing the clutch foot pedal allowed drivers
+
+763
+00:54:52,081 --> 00:54:55,740
+to briefly disengage the gears and move a hand lever
+
+764
+00:54:55,741 --> 00:54:59,280
+into the desired gear.
+
+765
+00:54:59,281 --> 00:55:03,560
+Four-speed transmissions became popular in the 1930s.
+
+766
+00:55:03,561 --> 00:55:08,200
+Some drivers had trouble steering while shifting this many gears.
+
+767
+00:55:08,201 --> 00:55:16,160
+Although people who drove this badly usually had a few drinks in them too.
+
+768
+00:55:16,161 --> 00:55:22,060
+Driving became a lot easier in 1939 when Oldsmobile introduced its Hydromatic transmission, their
+
+769
+00:55:22,061 --> 00:55:24,320
+brand name for an automatic transmission.
+
+770
+00:55:24,321 --> 00:55:26,120
+...direction selector.
+
+771
+00:55:26,121 --> 00:55:31,080
+Just set the selector at drive, then step on the accelerator and you're off.
+
+772
+00:55:31,081 --> 00:55:33,420
+All shifting is automatic.
+
+773
+00:55:33,421 --> 00:55:38,240
+Other car companies rushed to market with their own automatics until World War II halted
+
+774
+00:55:38,241 --> 00:55:40,260
+civilian car production.
+
+775
+00:55:40,261 --> 00:55:44,240
+But the war also had some unexpected benefits for transmissions.
+
+776
+00:55:44,241 --> 00:55:50,240
+Hydramatic automatic transmissions were used in U.S. produced tanks.
+
+777
+00:55:50,241 --> 00:55:55,140
+And in order to become durable enough and reliable enough to be used in tanks, a tremendous
+
+778
+00:55:55,141 --> 00:55:58,300
+amount of additional development work was done.
+
+779
+00:55:58,301 --> 00:56:05,400
+Thanks to tanks, post-war drivers enjoyed better automatics.
+
+780
+00:56:05,401 --> 00:56:09,700
+The key to an automatic transmission is the torque converter.
+
+781
+00:56:09,701 --> 00:56:14,620
+In a manual transmission, metal gears directly connect the engine to the drive shaft.
+
+782
+00:56:14,621 --> 00:56:20,160
+But in a torque converter, the engine spins a fan-like object encased in transmission
+
+783
+00:56:20,161 --> 00:56:22,300
+fluid.
+
+784
+00:56:22,301 --> 00:56:26,740
+When the brake pedal is released, another fan across the fluid-filled chamber is allowed
+
+785
+00:56:26,741 --> 00:56:28,240
+to move.
+
+786
+00:56:28,241 --> 00:56:33,920
+The second fan eventually connects the drive shaft and wheels.
+
+787
+00:56:33,921 --> 00:56:38,960
+The spinning motion from the engine fan is transmitted through the fluid and causes the
+
+788
+00:56:38,961 --> 00:56:44,620
+second fan to gradually increase its speed until it matches the engine fan.
+
+789
+00:56:44,621 --> 00:56:50,200
+It has a big advantage in that it cushions changes.
+
+790
+00:56:50,201 --> 00:56:53,240
+Take your foot off the brake and now you step on the gas pedal.
+
+791
+00:56:53,241 --> 00:56:56,000
+Well, you don't jerk that hard in the vehicle
+
+792
+00:56:56,001 --> 00:56:58,600
+because it gradually starts increasing the speed
+
+793
+00:56:58,601 --> 00:57:01,320
+going into the transmission, which connects to the wheels.
+
+794
+00:57:02,720 --> 00:57:05,620
+Since you didn't have to use a clutch or shift gears,
+
+795
+00:57:06,400 --> 00:57:09,760
+the ease and simplicity of automatic transmissions
+
+796
+00:57:09,761 --> 00:57:12,080
+helped open the car market to more people
+
+797
+00:57:12,081 --> 00:57:14,360
+than almost any other automotive invention.
+
+798
+00:57:17,720 --> 00:57:21,200
+Another old idea that found new life decades later
+
+799
+00:57:21,201 --> 00:57:22,900
+was front-wheel drive.
+
+800
+00:57:23,240 --> 00:57:28,240
+The stylish Cordell 29 had front-wheel drive in 1929.
+
+801
+00:57:28,241 --> 00:57:35,240
+Forty years later, as oil prices rose, car makers were building cars for better fuel economy.
+
+802
+00:57:35,241 --> 00:57:44,240
+Engineers squeezed more space out of smaller vehicles by turning the engine sideways and using front-wheel drive.
+
+803
+00:57:44,241 --> 00:57:50,240
+This meant the turning power was going to the front wheels instead of through a drive shaft to the rear wheels.
+
+804
+00:57:50,241 --> 00:57:53,080
+wheels.
+
+805
+00:57:53,081 --> 00:57:57,160
+Many people felt that front wheel drive also provided better traction.
+
+806
+00:57:57,161 --> 00:58:04,280
+But recently, some companies have changed back to rear wheel drive.
+
+807
+00:58:04,281 --> 00:58:08,580
+The problem is that ultimately when it comes to handling and performance, front wheel drive
+
+808
+00:58:08,581 --> 00:58:13,240
+has its limitations because you're basically asking the front wheels to do too much.
+
+809
+00:58:13,241 --> 00:58:17,160
+They have to support a bunch of the weight of the car, they have to help with cornering,
+
+810
+00:58:17,161 --> 00:58:23,760
+They have to steer and they also have to put the power down.
+
+811
+00:58:23,761 --> 00:58:30,400
+Future transmissions, whether front or rear wheel drive, will become even more efficient.
+
+812
+00:58:30,401 --> 00:58:34,060
+Six speed cars are already starting to appear.
+
+813
+00:58:34,061 --> 00:58:39,460
+The more speeds or gear ratios a driver has to choose from means the engine and the transmission
+
+814
+00:58:39,461 --> 00:58:43,400
+can work together more efficiently.
+
+815
+00:58:43,401 --> 00:58:47,400
+Imagine if you could have an unlimited amount of speeds to choose from.
+
+816
+00:58:47,401 --> 00:58:50,400
+Well, automotive engineers already have.
+
+817
+00:58:50,401 --> 00:58:55,400
+They're now developing continuously variable transmissions.
+
+818
+00:58:55,401 --> 00:59:00,400
+Electronics will allow the transmission to smoothly move from one speed to the next
+
+819
+00:59:00,401 --> 00:59:07,400
+in an unlimited number of ratios and increase gas mileage by up to 20%.
+
+820
+00:59:07,401 --> 00:59:11,400
+It seems that everything in the car is getting better.
+
+821
+00:59:11,401 --> 00:59:16,400
+Even the dependable old steering wheel is going through some major changes.
+
+822
+00:59:16,401 --> 00:59:20,400
+We'll swerve into steering next.
+
+823
+00:59:20,401 --> 00:59:28,400
+Before 1920, a squeaky clean inventor attached a watertight box to the side of his car.
+
+824
+00:59:28,401 --> 00:59:33,400
+Soap and water cleaned his clothes as the car bounced along.
+
+825
+00:59:33,401 --> 00:59:38,400
+The Body Shop will continue on Modern Marvels.
+
+826
+00:59:41,400 --> 00:59:45,400
+Now, the Body Shop on Modern Marvels.
+
+827
+00:59:45,401 --> 00:59:49,400
+Well, finally, something we can wrap our hands around
+
+828
+00:59:49,401 --> 00:59:53,400
+without getting them greasy. You use the steering wheel every time you
+
+829
+00:59:53,401 --> 00:59:57,400
+drive, but do you really know how it works? Well, we're going to show you.
+
+830
+00:59:57,401 --> 01:00:01,400
+Chris, take it out.
+
+831
+01:00:11,400 --> 01:00:18,860
+Besides the wheel, there are three parts.
+
+832
+01:00:19,200 --> 01:00:24,960
+The steering column, the steering gears, which are located right in here, and the tie rods.
+
+833
+01:00:24,961 --> 01:00:32,580
+Now, when you turn the steering wheel, these gears push or pull the tie rod in one direction or another, which turns the wheels.
+
+834
+01:00:32,581 --> 01:00:41,580
+And like we saw with the brakes, the brute force required to operate this part of a car in the early days of driving became a breeze later on.
+
+835
+01:00:41,581 --> 01:00:46,580
+Before the turn of the century, cars didn't even have steering wheels.
+
+836
+01:00:46,581 --> 01:00:53,580
+Drivers used simple sticks known as tillers which kept them on their toes.
+
+837
+01:00:53,581 --> 01:01:00,580
+Decades later, Henry Ford still enjoyed the challenge of maneuvering his first vehicle from 1896.
+
+838
+01:01:00,581 --> 01:01:06,380
+Small movements caused the car to constantly change direction.
+
+839
+01:01:06,980 --> 01:01:11,320
+And shock from bumps in the road made the tiller want to jump out of a driver's hand.
+
+840
+01:01:13,840 --> 01:01:19,480
+Driving a vehicle with a tiller, when you had those old dirt roads, it requires some considerable effort.
+
+841
+01:01:19,760 --> 01:01:24,520
+And even on modern roads, you have to hold on to that tiller every single minute.
+
+842
+01:01:24,980 --> 01:01:25,700
+It was alarming.
+
+843
+01:01:30,580 --> 01:01:38,460
+The steering wheel sent the tiller packing just after the turn of the century.
+
+844
+01:01:38,461 --> 01:01:43,380
+It was easier for drivers to hold onto, and the steering column absorbed shock or feedback
+
+845
+01:01:43,381 --> 01:01:45,840
+from the road.
+
+846
+01:01:45,841 --> 01:01:49,880
+Less feedback meant that the wheel didn't try to twist its way out of a driver's hand
+
+847
+01:01:49,881 --> 01:01:54,100
+like the tillers did.
+
+848
+01:01:54,101 --> 01:01:59,940
+Early steering columns usually used a worm gear system, also known as recirculating ball
+
+849
+01:01:59,941 --> 01:02:05,460
+steering to turn the wheels. At the end of the column were threads just like the
+
+850
+01:02:05,461 --> 01:02:11,400
+threads on a screw. As the driver turned the steering wheel the threads caused
+
+851
+01:02:11,401 --> 01:02:16,540
+the other part of the gear to twist to the left or right. The arm attached at
+
+852
+01:02:16,541 --> 01:02:20,760
+the end of this part of the gear then pushed the tie rods connected to both
+
+853
+01:02:20,761 --> 01:02:25,100
+front wheels in the appropriate direction.
+
+854
+01:02:25,101 --> 01:02:32,700
+A few cars in the early 1900s began experimenting with rack and pinion steering, like the first
+
+855
+01:02:32,701 --> 01:02:35,800
+Cadillac in 1903.
+
+856
+01:02:35,801 --> 01:02:40,880
+The rack part of the gear was just that, a long rack of gear teeth.
+
+857
+01:02:40,881 --> 01:02:46,360
+The pinion piece was a small round nub with similar teeth.
+
+858
+01:02:46,361 --> 01:02:51,980
+As the driver turned the wheel, the pinion rotated, causing the rack to move.
+
+859
+01:02:51,981 --> 01:02:56,420
+the rack pushed the wheels in the same direction.
+
+860
+01:02:56,421 --> 01:02:59,520
+But the worm won out, since it was easier to turn
+
+861
+01:02:59,521 --> 01:03:03,280
+and absorbed more feedback.
+
+862
+01:03:03,281 --> 01:03:06,700
+However, as car makers produced larger and larger models
+
+863
+01:03:06,701 --> 01:03:11,540
+after World War II, steering became difficult.
+
+864
+01:03:11,541 --> 01:03:14,780
+Then in 1951, Chrysler and Buick
+
+865
+01:03:14,781 --> 01:03:17,860
+introduced similar power steering systems.
+
+866
+01:03:17,861 --> 01:03:20,760
+Just as hydraulics had improved braking,
+
+867
+01:03:20,761 --> 01:03:25,260
+they put the power into power steering.
+
+868
+01:03:25,261 --> 01:03:27,400
+When the driver turned the wheel, hydraulics
+
+869
+01:03:27,401 --> 01:03:29,460
+pushed the steering gear in the right direction.
+
+870
+01:03:34,660 --> 01:03:38,060
+This hydraulic helping hand made it easier for drivers
+
+871
+01:03:38,061 --> 01:03:40,100
+to turn the wheel.
+
+872
+01:03:40,101 --> 01:03:41,860
+Power steering allowed many people
+
+873
+01:03:41,861 --> 01:03:45,320
+to really enjoy driving for the first time.
+
+874
+01:03:45,321 --> 01:03:48,380
+But in some ways, engineers in the 50s
+
+875
+01:03:48,381 --> 01:03:51,040
+may have made steering too easy.
+
+876
+01:03:51,041 --> 01:03:53,920
+It was like the steering wheel was mounted in butter.
+
+877
+01:03:53,921 --> 01:03:56,520
+And you could spin these things with one finger,
+
+878
+01:03:56,521 --> 01:03:58,380
+but there was no road feedback.
+
+879
+01:03:58,381 --> 01:03:59,980
+You knew the car went in this direction,
+
+880
+01:03:59,981 --> 01:04:03,640
+so the wheel must be connected to the steering wheel,
+
+881
+01:04:03,641 --> 01:04:06,560
+but it sure didn't feel like it.
+
+882
+01:04:06,561 --> 01:04:10,320
+In the 1970s, manufacturers developed better systems
+
+883
+01:04:10,321 --> 01:04:13,240
+that made steering easier, but still gave drivers
+
+884
+01:04:13,241 --> 01:04:16,180
+a feel for the road.
+
+885
+01:04:16,181 --> 01:04:21,680
+By this time, the harder to turn rack and pinion system made a comeback in light cars.
+
+886
+01:04:21,681 --> 01:04:26,120
+Race cars had been using its more precise handling features for several decades.
+
+887
+01:04:26,121 --> 01:04:32,980
+It's a very small package, so it goes well into a small vehicle.
+
+888
+01:04:32,981 --> 01:04:42,340
+The smaller vehicles weigh less, so the disadvantages of rack and pinion are not as noticeable.
+
+889
+01:04:42,341 --> 01:04:48,580
+the heavier vehicle rack and pinion can be a problem.
+
+890
+01:04:48,581 --> 01:04:51,780
+In the last 20 years, engineers combined rack and pinion's
+
+891
+01:04:51,781 --> 01:04:55,200
+accurate handling with hydraulics' ease of turning.
+
+892
+01:04:55,201 --> 01:04:58,120
+This has helped rack and pinion spread beyond the economy
+
+893
+01:04:58,121 --> 01:05:01,940
+market into larger cars.
+
+894
+01:05:01,941 --> 01:05:05,540
+Then in the late 1990s, engineers married steering
+
+895
+01:05:05,541 --> 01:05:07,580
+and electronics.
+
+896
+01:05:07,581 --> 01:05:10,540
+Microprocessors connected to the speedometer
+
+897
+01:05:10,541 --> 01:05:14,380
+could adjust the steering of the car at different speeds.
+
+898
+01:05:14,381 --> 01:05:16,720
+This was called variable ratio steering.
+
+899
+01:05:19,440 --> 01:05:24,520
+At low speeds, the system makes the wheel easy to turn rapidly.
+
+900
+01:05:24,521 --> 01:05:26,520
+On the highway, the steering is stiffer
+
+901
+01:05:26,521 --> 01:05:31,340
+to prevent motorists from oversteering or swerving.
+
+902
+01:05:31,341 --> 01:05:33,960
+And just like modern brakes, steering
+
+903
+01:05:33,961 --> 01:05:37,240
+systems are on the verge of moving beyond hydraulics
+
+904
+01:05:37,241 --> 01:05:39,400
+to electric systems.
+
+905
+01:05:39,401 --> 01:05:44,300
+electric power steering will be available in the next few years.
+
+906
+01:05:44,301 --> 01:05:46,440
+As soon as the wheel turns, a miniature motor
+
+907
+01:05:46,441 --> 01:05:48,800
+at the end of the steering column will activate
+
+908
+01:05:48,801 --> 01:05:51,840
+and move the tie rods.
+
+909
+01:05:51,841 --> 01:05:56,120
+It has a dramatic increase in fuel economy.
+
+910
+01:05:56,121 --> 01:05:59,820
+It feels even better than a hydraulic power steering system.
+
+911
+01:05:59,821 --> 01:06:02,960
+And it basically will replace the hydraulic power steering
+
+912
+01:06:02,961 --> 01:06:05,060
+systems because it's more efficient.
+
+913
+01:06:05,061 --> 01:06:13,360
+The fully electronic systems of the future, known as steer by wire, will completely eliminate
+
+914
+01:06:13,361 --> 01:06:15,120
+gears.
+
+915
+01:06:15,121 --> 01:06:21,060
+Steering wheels will simply be a way for drivers to feed electronic signals to the wheels.
+
+916
+01:06:21,061 --> 01:06:28,240
+Drivers may even steer with a joystick.
+
+917
+01:06:28,241 --> 01:06:33,740
+Now we've just seen how electricity helps with the steering, but it does a lot more.
+
+918
+01:06:33,741 --> 01:06:37,340
+This 12-volt battery is the key to the car's electrical system.
+
+919
+01:06:37,341 --> 01:06:41,840
+It powers the lights and all the accessories when the engine is off, and energizes the
+
+920
+01:06:41,841 --> 01:06:44,680
+starting motor when you turn the key.
+
+921
+01:06:44,681 --> 01:06:49,500
+This motor spins for a short time in order to get the engine running, which in turn powers
+
+922
+01:06:49,501 --> 01:06:51,660
+the alternator.
+
+923
+01:06:51,661 --> 01:06:56,980
+The alternator is a little powerhouse that sends current to all the electrical components
+
+924
+01:06:56,981 --> 01:06:58,660
+throughout the car.
+
+925
+01:06:58,661 --> 01:07:00,760
+It even recharges the battery.
+
+926
+01:07:00,761 --> 01:07:02,260
+Edison would have been proud.
+
+927
+01:07:03,740 --> 01:07:10,740
+Electricity has been a vital component of automobiles since the very first models.
+
+928
+01:07:10,741 --> 01:07:18,740
+Without that tiny spark at the end of the spark plug, the engine would just be a heavy piece of modern art.
+
+929
+01:07:18,741 --> 01:07:24,740
+In the first few decades of driving, motorists had to use a hand crank to start the engine.
+
+930
+01:07:24,741 --> 01:07:31,740
+Turning the crank moved the cylinders and drew energy from 6-volt batteries.
+
+931
+01:07:31,741 --> 01:07:35,200
+Once the crank had been turned a few times, the engine would catch.
+
+932
+01:07:35,980 --> 01:07:40,940
+This meant that it started to provide enough power by itself to draw electricity from the batteries.
+
+933
+01:07:42,560 --> 01:07:48,720
+But crank starting a car was strenuous, and engines didn't always catch the first few times.
+
+934
+01:07:49,680 --> 01:07:53,740
+This was the number one thing that would injure you in automobile operation.
+
+935
+01:07:54,260 --> 01:07:57,460
+The term cranky comes from having a bad day crank starting your automobile.
+
+936
+01:07:57,461 --> 01:08:02,460
+If the engine misfired, the crank could quickly and powerfully
+
+937
+01:08:02,560 --> 01:08:06,200
+kick backwards in the motorist's hands.
+
+938
+01:08:06,300 --> 01:08:09,700
+Broken fingers or arms were common.
+
+939
+01:08:09,800 --> 01:08:11,900
+Since the crank was low on the car,
+
+940
+01:08:12,000 --> 01:08:13,700
+the person's head would also be low,
+
+941
+01:08:13,800 --> 01:08:17,720
+and sometimes even more serious injuries occurred.
+
+942
+01:08:17,820 --> 01:08:21,560
+This was the case in 1910 when a friend of Cadillac's Henry
+
+943
+01:08:21,660 --> 01:08:24,760
+Leland was critically hurt.
+
+944
+01:08:24,761 --> 01:08:30,860
+It came back up, struck him in the side of the head, and he ended up dying from his injuries
+
+945
+01:08:30,861 --> 01:08:33,100
+in the hospital at a later date.
+
+946
+01:08:33,101 --> 01:08:39,720
+This so upset Henry Leland that he set his engineers to a task to eliminate the crank.
+
+947
+01:08:39,721 --> 01:08:42,960
+Then Leland hired a man named Charles Kettering.
+
+948
+01:08:42,961 --> 01:08:48,520
+Kettering had already developed a small, powerful electric motor for use inside cash registers.
+
+949
+01:08:48,521 --> 01:08:58,240
+By 1911, he used a similar type motor to provide crank-free electric starting for cars.
+
+950
+01:08:58,241 --> 01:09:02,620
+The driver pushed a button to activate the electric motor.
+
+951
+01:09:02,621 --> 01:09:07,420
+A belt on this motor turned a shaft attached to the gas engine for a few seconds until
+
+952
+01:09:07,421 --> 01:09:12,920
+the engine was able to power itself.
+
+953
+01:09:12,921 --> 01:09:19,080
+Henry Leland quickly installed electric starters on all 1912 Cadillacs.
+
+954
+01:09:19,081 --> 01:09:24,540
+Just three years later, virtually every American car used this type of starter.
+
+955
+01:09:24,541 --> 01:09:26,040
+It was unanimous.
+
+956
+01:09:26,041 --> 01:09:28,640
+The crank stank.
+
+957
+01:09:28,641 --> 01:09:36,800
+So consequently, the automobile became available to more people, the elderly.
+
+958
+01:09:36,801 --> 01:09:40,080
+Became available to the infirm.
+
+959
+01:09:40,081 --> 01:09:42,120
+Became available to women.
+
+960
+01:09:42,121 --> 01:09:49,120
+Self-starter was certainly one of those inventions that had a tremendous impact on the desirability of the automobile.
+
+961
+01:09:54,720 --> 01:09:58,220
+But Kettering's system did even more.
+
+962
+01:09:58,221 --> 01:10:03,620
+Once the gas engine was running, it was able to send power back to the electric motor.
+
+963
+01:10:03,621 --> 01:10:08,620
+At this point, the motor became a generator, which charged the battery on the side of the car.
+
+964
+01:10:08,621 --> 01:10:16,840
+Kettering used this power to run electric headlights for the first time on the same 1912
+
+965
+01:10:16,841 --> 01:10:23,560
+Cadillac. Early cars had mainly used oil lanterns, which did not provide much light.
+
+966
+01:10:24,760 --> 01:10:28,400
+They could even get blown out if wind got inside the glass casing.
+
+967
+01:10:29,980 --> 01:10:34,195
+Electric lights changed the way you drove a car at night.
+
+968
+01:10:34,196 --> 01:10:36,340
+The lights prior to that were
+
+969
+01:10:36,341 --> 01:10:37,840
+basically to see the car.
+
+970
+01:10:37,841 --> 01:10:39,640
+But now with electric lights, you're actually
+
+971
+01:10:39,641 --> 01:10:42,980
+being able to cast out enough beam that allows you to see
+
+972
+01:10:42,981 --> 01:10:43,980
+where you're actually heading.
+
+973
+01:10:49,180 --> 01:10:52,620
+Then in the mid-1950s, as the use of electric equipment
+
+974
+01:10:52,621 --> 01:10:56,100
+like interior lights, electric horns, and radios increased,
+
+975
+01:10:56,101 --> 01:11:01,140
+manufacturers switched from 6-volt batteries to 12 volts.
+
+976
+01:11:01,141 --> 01:11:02,900
+Higher voltage allowed the battery
+
+977
+01:11:02,901 --> 01:11:06,340
+to keep up with the growing demand for electric devices.
+
+978
+01:11:06,341 --> 01:11:11,200
+For instance, Packard had already introduced power windows in 1941.
+
+979
+01:11:16,920 --> 01:11:21,600
+In 1960, the car's electrical system became even more sophisticated
+
+980
+01:11:21,601 --> 01:11:25,840
+when Chrysler introduced the alternator on its Valiant model.
+
+981
+01:11:26,900 --> 01:11:30,360
+The alternator was simply a more efficient generator.
+
+982
+01:11:30,361 --> 01:11:35,360
+When electronics entered the automobile in the 1970s,
+
+983
+01:11:35,460 --> 01:11:38,960
+the amount of electrical power needed rose once again.
+
+984
+01:11:39,060 --> 01:11:40,900
+Today, as microprocessors continue
+
+985
+01:11:41,000 --> 01:11:44,000
+to make virtually every part of the car more efficient,
+
+986
+01:11:44,100 --> 01:11:49,220
+a 12-volt battery is on the verge of becoming overburdened.
+
+987
+01:11:52,720 --> 01:11:56,560
+A car maybe in the 50s may have had like 50 circuits,
+
+988
+01:11:56,660 --> 01:11:57,960
+wiring circuits.
+
+989
+01:11:57,961 --> 01:12:01,500
+circuits. Today there's about 1,800 of them.
+
+990
+01:12:01,501 --> 01:12:04,960
+So I mean, the car has become very complex.
+
+991
+01:12:04,961 --> 01:12:14,960
+Researchers are now exploring the possibility of boosting the car battery from 12 volts to 42 volts in the next 5 to 10 years.
+
+992
+01:12:14,961 --> 01:12:22,960
+Higher voltage will allow future batteries to run all of today's and tomorrow's amazing electronic systems.
+
+993
+01:12:27,960 --> 01:12:31,560
+A single spark plug fires about 15 times every second,
+
+994
+01:12:31,561 --> 01:12:35,000
+or one million times every thousand miles.
+
+995
+01:12:35,001 --> 01:12:38,440
+The Body Shop will continue on Modern Marvels.
+
+996
+01:12:43,640 --> 01:12:47,240
+We now return to The Body Shop on Modern Marvels.
+
+997
+01:12:47,241 --> 01:13:00,780
+With all the time we spend in the car these days, it's practically a second home.
+
+998
+01:13:00,781 --> 01:13:03,960
+And we want it as comfortable as our first home.
+
+999
+01:13:03,961 --> 01:13:10,760
+Multi-speaker sound systems, built-in phones, plush seats, lumbar supports, all designed
+
+1000
+01:13:10,761 --> 01:13:14,540
+to transport us in luxury and keep us connected.
+
+1001
+01:13:14,541 --> 01:13:18,540
+adding creature comforts to cars, well, that's nothing new.
+
+1002
+01:13:22,220 --> 01:13:26,820
+The earliest car seats were slightly padded, non-adjustable wooden benches.
+
+1003
+01:13:27,620 --> 01:13:31,800
+If your legs weren't long enough to reach the pedals, you were simply out of luck.
+
+1004
+01:13:33,780 --> 01:13:39,700
+Then in 1914, Maxwell became the first company to offer an adjustable front seat.
+
+1005
+01:13:39,701 --> 01:13:48,300
+As interiors grew fancier, keeping folks out of cars became important.
+
+1006
+01:13:48,301 --> 01:13:51,080
+The first door locks appeared in the early 1920s.
+
+1007
+01:13:51,081 --> 01:13:57,380
+They were vital because there was little else to stop early car thieves.
+
+1008
+01:13:57,381 --> 01:14:00,280
+Prior to this, vehicles did not have locks.
+
+1009
+01:14:00,281 --> 01:14:02,500
+There were no ignition locks.
+
+1010
+01:14:02,501 --> 01:14:04,300
+There were no door locks, nothing.
+
+1011
+01:14:04,301 --> 01:14:09,400
+And in fact, someone could get into your car, start it up and drive away.
+
+1012
+01:14:09,401 --> 01:14:11,400
+if you left it parked on the street.
+
+1013
+01:14:13,400 --> 01:14:15,640
+Keys were not used to unlock the steering column
+
+1014
+01:14:15,641 --> 01:14:19,640
+and start the car until Chrysler introduced this in 1949.
+
+1015
+01:14:21,240 --> 01:14:25,000
+Before that, drivers started cars in a wide variety of ways,
+
+1016
+01:14:25,001 --> 01:14:27,640
+including buttons, foot pedals, or switches.
+
+1017
+01:14:30,000 --> 01:14:32,640
+Another reason for owners to lock their doors
+
+1018
+01:14:32,641 --> 01:14:36,000
+was the development of car radios in the late 20s.
+
+1019
+01:14:36,001 --> 01:14:39,140
+Typically, in those days, it would take two trained
+
+1020
+01:14:39,240 --> 01:14:41,740
+technicians two to three days to install a car radio
+
+1021
+01:14:41,840 --> 01:14:42,940
+in your vehicle.
+
+1022
+01:14:43,040 --> 01:14:48,040
+They would weigh over 20 pounds the size of a car battery.
+
+1023
+01:14:48,140 --> 01:14:50,740
+Not only were radios big, their price
+
+1024
+01:14:50,840 --> 01:14:52,660
+tags were enormous.
+
+1025
+01:14:52,760 --> 01:14:56,560
+At a time when consumers could buy a car for about $600,
+
+1026
+01:14:56,660 --> 01:15:02,860
+the cost of a radio and installation was almost $400.
+
+1027
+01:15:02,960 --> 01:15:05,360
+Now, things sure are a lot better today.
+
+1028
+01:15:05,361 --> 01:15:11,140
+And in the future, drivers will be able to receive a wide range of digital stations by satellite.
+
+1029
+01:15:12,760 --> 01:15:20,200
+And that's basically going to be like a cable TV for your car radio, where you'll have your choice of up to 100 channels of different information.
+
+1030
+01:15:20,201 --> 01:15:25,200
+It's going to give you more and more choices and a wider range of material to listen to in the car.
+
+1031
+01:15:28,940 --> 01:15:34,460
+But drivers and passengers would have a very hard time enjoying all of these conveniences inside their cars.
+
+1032
+01:15:34,461 --> 01:15:36,960
+if they were sweating or freezing.
+
+1033
+01:15:38,340 --> 01:15:41,460
+Heating and air conditioning are two of the most basic
+
+1034
+01:15:41,461 --> 01:15:43,160
+and important creature comforts.
+
+1035
+01:15:44,020 --> 01:15:46,860
+Yet these systems took quite some time to develop.
+
+1036
+01:15:48,340 --> 01:15:50,960
+Early drivers wore elaborate storm aprons,
+
+1037
+01:15:51,140 --> 01:15:53,760
+giving new meaning to one size fits all.
+
+1038
+01:15:54,580 --> 01:15:57,260
+These aprons and heavy coats were the primary means
+
+1039
+01:15:57,261 --> 01:15:59,620
+of protection against cold, wet conditions.
+
+1040
+01:15:59,621 --> 01:16:05,620
+As closed cars entered the market in the 1920s,
+
+1041
+01:16:05,621 --> 01:16:09,620
+more elaborate systems could be developed.
+
+1042
+01:16:09,621 --> 01:16:13,620
+Since the engine generated a lot of heat, some well-meaning
+
+1043
+01:16:13,621 --> 01:16:17,620
+but very misguided inventors thought that hot exhaust fumes
+
+1044
+01:16:17,621 --> 01:16:20,620
+would be a good source of warmth.
+
+1045
+01:16:20,621 --> 01:16:24,620
+Exhaust gas is highly toxic, and fortunately,
+
+1046
+01:16:24,621 --> 01:16:27,620
+those early automobiles were not leak-proof,
+
+1047
+01:16:27,621 --> 01:16:32,080
+leak-proof, but there used to be fires in the passenger compartment.
+
+1048
+01:16:32,081 --> 01:16:38,900
+Sometimes it would burn your soles when you put your feet over the exhaust gas foot warmer.
+
+1049
+01:16:38,901 --> 01:16:45,280
+It was clear that a safer form of heating needed to be developed.
+
+1050
+01:16:45,281 --> 01:16:51,260
+In 1926, semi-portable hot water car heaters became available.
+
+1051
+01:16:51,261 --> 01:16:55,580
+Water heated in the engine compartment passed through a maze of small tubes just behind a
+
+1052
+01:16:55,581 --> 01:16:56,281
+fan.
+
+1053
+01:16:56,282 --> 01:17:04,820
+Then in 1937, Nash introduced a built-in heating system that drew fresh outside air
+
+1054
+01:17:04,821 --> 01:17:11,980
+into the engine compartment, where it was filtered, heated, and released into the interior.
+
+1055
+01:17:11,981 --> 01:17:19,160
+Nash's system became the model for all other heaters.
+
+1056
+01:17:19,161 --> 01:17:25,180
+Keeping cool in hot weather was seen as more of a luxury, and therefore developed later.
+
+1057
+01:17:25,181 --> 01:17:27,202
+In 1930, John Hammond, Jr.
+
+1058
+01:17:27,203 --> 01:17:32,180
+of Houston, Texas, paid the Kelvinator Refrigerator Company over
+
+1059
+01:17:32,181 --> 01:17:37,780
+$1,000 to mount a special cooling unit on the back of his Cadillac.
+
+1060
+01:17:37,781 --> 01:17:44,660
+This bulky experiment became the first air conditioning system in a car.
+
+1061
+01:17:44,661 --> 01:17:50,080
+By 1939, engineers at Packard spread coils and condensers and compressors throughout
+
+1062
+01:17:50,081 --> 01:17:55,440
+the car to create the first commercial air conditioning system.
+
+1063
+01:17:55,441 --> 01:18:01,900
+In 1954, the Harrison Radiator Division of GM finally produced an air conditioning system
+
+1064
+01:18:01,901 --> 01:18:05,040
+small enough to fit entirely under the hood.
+
+1065
+01:18:05,041 --> 01:18:10,780
+It first appeared in the 1954 Pontiac.
+
+1066
+01:18:10,781 --> 01:18:14,360
+Over the years, heaters and air conditioners have been combined.
+
+1067
+01:18:14,361 --> 01:18:19,180
+Electronics have also allowed drivers to set specific temperatures inside the cabin.
+
+1068
+01:18:20,040 --> 01:18:26,540
+And in the next few years, motorists won't have to set any buttons at all, thanks to so-called smart sensors.
+
+1069
+01:18:27,460 --> 01:18:35,380
+We envision them being introduced in the air conditioning system to sense the skin temperature,
+
+1070
+01:18:35,381 --> 01:18:40,380
+temperature, the moisture level at the skin, and also voice
+
+1071
+01:18:40,480 --> 01:18:45,480
+recognition system to provide individualized control of the
+
+1072
+01:18:45,580 --> 01:18:47,480
+temperature.
+
+1073
+01:18:51,580 --> 01:18:55,480
+Future drivers will ride in climate controlled luxury.
+
+1074
+01:18:55,580 --> 01:18:58,480
+But if you don't have your health, you don't have anything.
+
+1075
+01:19:05,380 --> 01:19:10,060
+Gee, I hate when that happens.
+
+1076
+01:19:10,061 --> 01:19:13,280
+Almost as much as when this happens.
+
+1077
+01:19:21,960 --> 01:19:24,980
+Now, chances are you're never going to be hit by a sledgehammer.
+
+1078
+01:19:25,300 --> 01:19:28,920
+But a serious accident could cause this same type of damage.
+
+1079
+01:19:29,660 --> 01:19:32,340
+Luckily, a layer of plastic inside the glass
+
+1080
+01:19:32,341 --> 01:19:34,800
+keeps it from breaking into big, dangerous pieces.
+
+1081
+01:19:35,380 --> 01:19:41,060
+Now, we all like luxury, but safety is really a car's most important feature.
+
+1082
+01:19:43,120 --> 01:19:46,640
+Although early driving was thrilling, it was also dangerous.
+
+1083
+01:19:47,940 --> 01:19:52,400
+Before World War I, cars had killed 36,000 people in America.
+
+1084
+01:19:53,380 --> 01:19:54,080
+U.S.
+
+1085
+01:19:54,081 --> 01:19:59,980
+deaths in the Revolutionary War, the War of 1812, and the Spanish-American War totaled only 22,000.
+
+1086
+01:19:59,981 --> 01:20:09,360
+Since early drivers sat high on top of their cars without doors, finding a way to remain
+
+1087
+01:20:09,361 --> 01:20:14,100
+in the vehicle became one of the first safety goals.
+
+1088
+01:20:14,101 --> 01:20:21,160
+Seat belts actually occurred as early as 1903 when there was a race, one of these high-speed
+
+1089
+01:20:21,161 --> 01:20:26,920
+races, and the driver strapped himself in with a belt.
+
+1090
+01:20:26,921 --> 01:20:32,180
+And that was the first use of somebody strapping themselves into an automobile.
+
+1091
+01:20:32,181 --> 01:20:38,860
+But seat belts weren't widely used on consumer models for another 50 years.
+
+1092
+01:20:38,861 --> 01:20:42,660
+Since early drivers weren't too concerned about buckling up, having a little cushion
+
+1093
+01:20:42,661 --> 01:20:45,960
+during collisions was important.
+
+1094
+01:20:45,961 --> 01:20:52,620
+Front bumpers became available as an extra option in 1906.
+
+1095
+01:20:52,621 --> 01:20:56,820
+Another safety device which filtered down to the average motorist from racing was the
+
+1096
+01:20:56,821 --> 01:20:59,020
+rear view mirror.
+
+1097
+01:20:59,021 --> 01:21:08,200
+In 1911, Ray Haroon rigged a mirror on his car and went on to win the Indianapolis 500.
+
+1098
+01:21:08,201 --> 01:21:15,300
+By the 1930s, these mirrors became more popular on consumer models.
+
+1099
+01:21:15,301 --> 01:21:21,460
+Closed bodied cars in the 1920s offered motorists more structural strength, but they also raised
+
+1100
+01:21:21,461 --> 01:21:24,560
+new concerns about glass.
+
+1101
+01:21:24,561 --> 01:21:26,700
+Plate glass in the early models usually
+
+1102
+01:21:26,701 --> 01:21:30,280
+broke into long, dangerous shards during accidents
+
+1103
+01:21:30,281 --> 01:21:34,800
+or when attacked by angry baseball pitchers.
+
+1104
+01:21:34,801 --> 01:21:36,680
+It was kind of a scary situation.
+
+1105
+01:21:36,681 --> 01:21:39,160
+And in fact, many people in the 1920s
+
+1106
+01:21:39,161 --> 01:21:42,460
+refused to ride in closed cars because of the perceived
+
+1107
+01:21:42,461 --> 01:21:46,660
+danger of the shattering plate glass.
+
+1108
+01:21:46,661 --> 01:21:51,380
+The invention of safety glass eased these fears.
+
+1109
+01:21:51,381 --> 01:21:56,320
+In much the same way as today, manufacturers sandwiched a layer of plastic between two
+
+1110
+01:21:56,321 --> 01:21:59,560
+sheets of glass.
+
+1111
+01:21:59,561 --> 01:22:04,980
+When it broke, the glass either stuck to the plastic or broke off in small, round, harmless
+
+1112
+01:22:04,981 --> 01:22:08,020
+pieces.
+
+1113
+01:22:08,021 --> 01:22:14,680
+The 1928 Ford Model A and 28 Cadillacs were some of the very first models to use safety
+
+1114
+01:22:14,681 --> 01:22:17,000
+glass.
+
+1115
+01:22:17,001 --> 01:22:21,940
+Since windshields were commonplace, windshield wipers had to keep them clean to ensure good
+
+1116
+01:22:21,941 --> 01:22:23,900
+visibility.
+
+1117
+01:22:23,901 --> 01:22:29,260
+In 1916, drivers had to move the windshield wipers back and forth by hand.
+
+1118
+01:22:29,261 --> 01:22:34,280
+A small knob on the inside of the window was attached to the blade on the outside.
+
+1119
+01:22:34,281 --> 01:22:38,620
+It was clear that a better system was needed.
+
+1120
+01:22:38,621 --> 01:22:44,040
+Very quickly, some clever engineers discovered that the windshield wiper could be powered
+
+1121
+01:22:44,041 --> 01:22:46,260
+by a vacuum motor.
+
+1122
+01:22:46,261 --> 01:22:50,200
+This was driven from the vacuum developed inside the engine.
+
+1123
+01:22:50,201 --> 01:22:53,300
+The only problem was when you're driving up a hill
+
+1124
+01:22:53,301 --> 01:22:56,100
+and you're pushing the engine, the vacuum in the engine
+
+1125
+01:22:56,101 --> 01:22:57,600
+drops very low.
+
+1126
+01:22:57,601 --> 01:23:00,740
+So you would see vehicles climbing hills in the rain,
+
+1127
+01:23:00,741 --> 01:23:02,880
+and their wipers would stop operating.
+
+1128
+01:23:06,440 --> 01:23:08,880
+By the 1950s, electric windshield wipers
+
+1129
+01:23:08,881 --> 01:23:11,660
+were fairly common, and the older vacuum problem
+
+1130
+01:23:11,661 --> 01:23:12,460
+disappeared.
+
+1131
+01:23:12,461 --> 01:23:19,460
+Safety belts made a comeback, beginning with the 1949 Nash.
+
+1132
+01:23:19,461 --> 01:23:25,460
+They gradually appeared on more cars in the 50s and 60s.
+
+1133
+01:23:25,461 --> 01:23:31,460
+Airbags were combined with seat belts to provide even greater safety in the early 1970s.
+
+1134
+01:23:31,461 --> 01:23:38,460
+But before they came on the market, researchers struggled to make these complex devices work.
+
+1135
+01:23:38,461 --> 01:23:43,460
+Our first prototype of that was developed in 1971.
+
+1136
+01:23:43,560 --> 01:23:45,960
+There were a lot of technical challenges,
+
+1137
+01:23:46,060 --> 01:23:48,100
+because you're asking some mechanism
+
+1138
+01:23:48,200 --> 01:23:52,800
+to fill a bag in a little less than 50 milliseconds,
+
+1139
+01:23:52,900 --> 01:23:56,720
+which is to give you an idea of 50 milliseconds,
+
+1140
+01:23:56,820 --> 01:23:59,720
+you blink your eye, and it takes 250 milliseconds.
+
+1141
+01:24:02,760 --> 01:24:04,820
+When the vehicle received an impact,
+
+1142
+01:24:04,920 --> 01:24:07,520
+an electronic signal raced to the airbag.
+
+1143
+01:24:07,521 --> 01:24:08,221
+airbag.
+
+1144
+01:24:08,222 --> 01:24:14,520
+A small charge propelled the bag beyond its housing and a pressurized gas inflator
+
+1145
+01:24:14,521 --> 01:24:16,795
+quickly filled the bag.
+
+1146
+01:24:16,796 --> 01:24:23,520
+The system worked well, but it was an $800 option when GM introduced
+
+1147
+01:24:24,040 --> 01:24:30,299
+it in 1973. Since these cars only cost about $6,000, airbag sales fell flat.
+
+1148
+01:24:30,300 --> 01:24:31,040
+They were
+
+1149
+01:24:31,041 --> 01:24:35,334
+flat. They were discontinued three years later.
+
+1150
+01:24:35,335 --> 01:24:39,080
+They re-emerged in 1987 due to government
+
+1151
+01:24:39,081 --> 01:24:45,695
+mandates. They were less expensive and this time well received by the public.
+
+1152
+01:24:45,696 --> 01:24:46,640
+Since then,
+
+1153
+01:24:46,641 --> 01:24:51,326
+airbags have started to pop up in many areas around the interior.
+
+1154
+01:24:51,327 --> 01:24:52,840
+Passenger airbags and
+
+1155
+01:24:52,841 --> 01:24:55,891
+side impact systems are now fairly common.
+
+1156
+01:24:55,892 --> 01:24:59,160
+The newest type is known as a curtain airbag,
+
+1157
+01:24:59,161 --> 01:25:03,360
+which expands from the roof, protects the driver if the car rolls over.
+
+1158
+01:25:07,000 --> 01:25:10,340
+But there's still a need for airbags to become smarter.
+
+1159
+01:25:10,980 --> 01:25:14,900
+While they have saved many lives, they expand with such force
+
+1160
+01:25:14,901 --> 01:25:17,960
+that they have also caused some injuries and even deaths.
+
+1161
+01:25:19,240 --> 01:25:23,460
+What we're trying to do is develop a sensing system in the seating positions
+
+1162
+01:25:23,461 --> 01:25:30,900
+that identify if the seat is occupied by too small of a person, typically a child,
+
+1163
+01:25:31,600 --> 01:25:33,540
+then we try and suppress the airbag.
+
+1164
+01:25:34,180 --> 01:25:38,580
+We've also developed dual-stage or variable-stage inflators
+
+1165
+01:25:38,581 --> 01:25:43,840
+that will actually respond to either the size or the location of the occupant.
+
+1166
+01:25:46,560 --> 01:25:49,700
+Smarter airbags, along with automatic braking systems
+
+1167
+01:25:49,701 --> 01:25:52,280
+which maintain the safe distance between cars,
+
+1168
+01:25:52,281 --> 01:25:55,780
+will undoubtedly make future driving much safer.
+
+1169
+01:26:00,500 --> 01:26:05,340
+Computers are the key to most of the smarter, safer, faster systems on today's cars.
+
+1170
+01:26:06,100 --> 01:26:11,420
+Coming up, we'll see when these chips first work their way into the body shop.
+
+1171
+01:26:11,421 --> 01:26:25,421
+The first patent for a windshield wiper was issued in 1903 to a woman named Mary Anderson.
+
+1172
+01:26:26,100 --> 01:26:34,900
+The Body Shop will continue on Modern Marvels.
+
+1173
+01:26:34,901 --> 01:26:40,640
+We now return to The Body Shop on Modern Marvels.
+
+1174
+01:26:40,641 --> 01:26:43,100
+We've already dissected this car's body.
+
+1175
+01:26:43,101 --> 01:26:46,020
+Now we're going to dissect its brain.
+
+1176
+01:26:46,021 --> 01:26:47,020
+Thanks Chris.
+
+1177
+01:26:47,021 --> 01:26:50,480
+Well, actually, all of its different brains.
+
+1178
+01:26:50,481 --> 01:26:54,960
+Small computer chips like these appear in several locations throughout the car and do
+
+1179
+01:26:54,961 --> 01:26:59,740
+a much better job than the big dumb mechanical systems of the past.
+
+1180
+01:26:59,741 --> 01:27:08,200
+So when did the automotive world's mad scientist first try mating cars and computers?
+
+1181
+01:27:08,201 --> 01:27:13,500
+Engineers in the 1950s and 60s were far too bulky to be installed in a car.
+
+1182
+01:27:13,501 --> 01:27:21,380
+By 1970, engineers were right on the verge of combining these two technological wonders.
+
+1183
+01:27:21,381 --> 01:27:26,280
+Back in those days, we filled a trunk full of computers and the supporting equipment
+
+1184
+01:27:26,281 --> 01:27:27,960
+to go with them.
+
+1185
+01:27:27,961 --> 01:27:30,940
+People thought, you'll never put a computer on a car.
+
+1186
+01:27:30,941 --> 01:27:34,180
+And the reason was, was their mental model.
+
+1187
+01:27:34,181 --> 01:27:41,460
+The smallest computer they had seen tended to fill up maybe a quarter of a room.
+
+1188
+01:27:41,461 --> 01:27:47,200
+Within a few years after the invention of the microprocessor in 1971, computerized systems
+
+1189
+01:27:47,201 --> 01:27:53,380
+to help the engine perform better shrank to the size of a car's battery.
+
+1190
+01:27:53,381 --> 01:27:58,360
+The first systems led to electronic fuel injection, which increased power and fuel economy while
+
+1191
+01:27:58,361 --> 01:28:01,760
+lowering pollution.
+
+1192
+01:28:01,761 --> 01:28:07,760
+But the computers were still subject to interference from radio stations, sensitive to varying weather conditions.
+
+1193
+01:28:07,761 --> 01:28:15,760
+In the early 1980s, we had built our confidence that we could make these computers live in the field.
+
+1194
+01:28:15,761 --> 01:28:21,760
+Houston, Anchorage, Minnesota, when you buy a car, it has to work everywhere.
+
+1195
+01:28:21,761 --> 01:28:28,760
+Today, microprocessors and sensors certainly are a vital part of every major system.
+
+1196
+01:28:28,761 --> 01:28:35,760
+And the current trend is for all of these different systems to start electronically talking to each other.
+
+1197
+01:28:35,761 --> 01:28:43,760
+Some of today's experimental safety systems are prime examples of this interactivity.
+
+1198
+01:28:43,761 --> 01:28:52,760
+For instance, an emerging concern is a lot of rollover accidents are resulting in fatalities.
+
+1199
+01:28:52,761 --> 01:28:56,800
+What we're trying to develop is taking signals off
+
+1200
+01:28:56,801 --> 01:29:00,900
+of other systems, such as the brake system
+
+1201
+01:29:00,901 --> 01:29:03,400
+or the suspension system, and combining that
+
+1202
+01:29:03,401 --> 01:29:07,080
+with other sensors that would, in fact, confirm, yes, this car
+
+1203
+01:29:07,081 --> 01:29:12,040
+is going to tip over, and then firing a head curtain airbag
+
+1204
+01:29:12,041 --> 01:29:15,540
+that, in fact, would keep you in the car and cushion your head.
+
+1205
+01:29:19,520 --> 01:29:21,560
+Old-fashioned mechanics are getting stretched
+
+1206
+01:29:21,561 --> 01:29:26,520
+to their limits with all of this new electronic equipment.
+
+1207
+01:29:26,521 --> 01:29:29,600
+But sometime in the future, routine adjustments may not
+
+1208
+01:29:29,601 --> 01:29:35,120
+involve any physical contact with the car at all.
+
+1209
+01:29:35,121 --> 01:29:38,060
+By using computer technology on board the vehicle,
+
+1210
+01:29:38,061 --> 01:29:40,900
+coupled with wireless technology, while the consumer
+
+1211
+01:29:40,901 --> 01:29:44,720
+is at home asleep, we can download software upgrades
+
+1212
+01:29:44,721 --> 01:29:46,560
+that can provide a more efficient engine
+
+1213
+01:29:46,561 --> 01:29:47,660
+or provide improved safety.
+
+1214
+01:29:47,661 --> 01:29:54,660
+Computers will certainly change driving and even maintenance in the future.
+
+1215
+01:29:54,661 --> 01:29:58,660
+But some of today's electronic gadgets are already pretty impressive.
+
+1216
+01:29:58,661 --> 01:30:05,660
+Navigation systems help prevent drivers from becoming lost beginning in the mid-1990s.
+
+1217
+01:30:05,661 --> 01:30:10,660
+Since then, they have grown more reliable and sophisticated.
+
+1218
+01:30:10,661 --> 01:30:14,660
+You can program in an address where you would like to go.
+
+1219
+01:30:14,661 --> 01:30:19,980
+to go, the system knows where you are, knows where your destination is, knows the road
+
+1220
+01:30:19,981 --> 01:30:25,380
+network in between, it will map a route, and most of them will give you verbal directions.
+
+1221
+01:30:25,381 --> 01:30:35,300
+Mr. Miller, accident requires detour. Take Highway 7 to Mercer Village.
+
+1222
+01:30:35,301 --> 01:30:39,951
+Another high-tech aid for modern drivers is known as the heads-up display.
+
+1223
+01:30:39,952 --> 01:30:41,020
+A small projector
+
+1224
+01:30:41,021 --> 01:30:44,260
+in the dashboard allows them to see gauges and other information
+
+1225
+01:30:44,261 --> 01:30:47,760
+without taking their eyes off the road.
+
+1226
+01:30:47,761 --> 01:30:51,960
+The first system appeared in the 1988 Oldsmobile.
+
+1227
+01:30:51,961 --> 01:30:55,060
+We project an image on the windshield,
+
+1228
+01:30:55,061 --> 01:30:56,760
+but at a virtual distance.
+
+1229
+01:30:56,761 --> 01:30:59,340
+So it appears to be out at the front of the bumper,
+
+1230
+01:30:59,341 --> 01:31:01,780
+so to speak, so that you don't have to readjust
+
+1231
+01:31:01,781 --> 01:31:02,740
+to your focal point.
+
+1232
+01:31:02,741 --> 01:31:05,480
+So you'll typically see speeds, turn signals,
+
+1233
+01:31:05,481 --> 01:31:06,680
+and things like that.
+
+1234
+01:31:06,681 --> 01:31:08,620
+We basically can put everything up there.
+
+1235
+01:31:11,020 --> 01:31:19,020
+In 1999, Cadillac introduced an even more advanced feature for the windshield, an infrared display.
+
+1236
+01:31:19,021 --> 01:31:29,820
+This device allows drivers to see heat from people, animals, and slight temperature differences between inanimate objects beyond the range of their headlights and
+
+1237
+01:31:29,821 --> 01:31:31,020
+through dense fog.
+
+1238
+01:31:31,021 --> 01:31:38,020
+This feature has improved safety for drivers, pedestrians, and even dogs.
+
+1239
+01:31:41,020 --> 01:31:46,020
+TV and video games are making the car look more like a living room on wheels.
+
+1240
+01:31:46,021 --> 01:31:55,020
+But interactive wireless technology and voice recognition will also help transform the vehicle into a mobile office.
+
+1241
+01:31:55,021 --> 01:32:03,020
+Nobody wants someone driving along while they're peering and pushing away on some little keyboard and staring at a screen.
+
+1242
+01:32:03,021 --> 01:32:10,020
+However, we're very close to being able to have systems that will let you log on and say, read me my email,
+
+1243
+01:32:10,021 --> 01:32:13,020
+And the system will call up, read you the title of the email,
+
+1244
+01:32:13,120 --> 01:32:15,460
+and you'll say, yes, read me that one.
+
+1245
+01:32:15,560 --> 01:32:19,460
+And it will go through and read you the text of your email.
+
+1246
+01:32:19,560 --> 01:32:21,760
+Experimental voice recognition systems
+
+1247
+01:32:21,860 --> 01:32:25,660
+can already communicate in over a dozen languages
+
+1248
+01:32:25,760 --> 01:32:29,380
+and have vocabularies of several thousand words.
+
+1249
+01:32:29,480 --> 01:32:32,380
+The systems of the future will know hundreds of thousands
+
+1250
+01:32:32,480 --> 01:32:35,520
+of words and even recognize different dialects
+
+1251
+01:32:35,620 --> 01:32:37,620
+within the same language.
+
+1252
+01:32:37,621 --> 01:32:43,420
+Phone dial 5-5-5-1-2-1-2.
+
+1253
+01:32:47,420 --> 01:32:52,960
+Today's automobile is literally the best technological value on the planet.
+
+1254
+01:32:53,320 --> 01:32:57,700
+When you think about what a car costs and what it delivers in return,
+
+1255
+01:32:58,300 --> 01:32:59,660
+I mean, it gets you from point A to B.
+
+1256
+01:32:59,760 --> 01:33:01,280
+It gives you personal freedom, certainly.
+
+1257
+01:33:01,281 --> 01:33:08,280
+But it's also got a cooling system, a heating system, a radio system, some sort of entertainment
+
+1258
+01:33:08,281 --> 01:33:10,640
+system, an electronic system.
+
+1259
+01:33:11,140 --> 01:33:13,060
+And a refrigerator is $1,000.
+
+1260
+01:33:13,380 --> 01:33:15,120
+The refrigerator just keeps your food cold.
+
+1261
+01:33:17,800 --> 01:33:21,480
+Automobiles have changed enormously just in the last 50 years.
+
+1262
+01:33:22,300 --> 01:33:27,860
+And with the breakthroughs in today's information age, future innovations will come at a faster
+
+1263
+01:33:27,861 --> 01:33:29,360
+pace than ever before.
+
+1264
+01:33:31,280 --> 01:33:42,620
+Well, we definitely got our hands dirty today, which is always a good thing.
+
+1265
+01:33:42,621 --> 01:33:50,460
+And thanks to Chris and Bob here, we did a pretty good job of dissecting this Taurus and looking into the past of its parts.
+
+1266
+01:33:51,060 --> 01:33:55,800
+Though we don't know exactly how cars will evolve in the coming decades, one thing is certain.
+
+1267
+01:33:56,280 --> 01:34:00,680
+We'll still be enjoying them and taking them apart for a long, long time to come.
+
+1268
+01:34:01,280 --> 01:34:03,400
+I'm Ron Hazleton. Good night.
+

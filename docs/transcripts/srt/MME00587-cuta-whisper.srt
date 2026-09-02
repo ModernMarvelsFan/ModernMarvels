@@ -1,0 +1,2420 @@
+1
+00:00:00,001 --> 00:00:04,640
+Now, 70s Tech on Modern Marbles. Can you dig it?
+
+2
+00:00:15,280 --> 00:00:19,880
+Big froze. Funky threads. Far out fads.
+
+3
+00:00:20,900 --> 00:00:26,400
+In the 1970s, Americans left conformity at the door and adopted a hedonistic lifestyle.
+
+4
+00:00:26,401 --> 00:00:31,400
+The self-absorbed era became known as the me decade.
+
+5
+00:00:31,401 --> 00:00:34,400
+And the breakthrough technologies that help power this attitude
+
+6
+00:00:34,401 --> 00:00:38,400
+have matured into the way cool gadgetry we now take for granted.
+
+7
+00:00:40,400 --> 00:00:43,400
+Case in point, video and computer games.
+
+8
+00:00:46,400 --> 00:00:49,400
+Each year, hundreds of millions of dedicated gamers
+
+9
+00:00:49,401 --> 00:00:53,400
+drop upwards of $20 billion of cold hard cash
+
+10
+00:00:53,401 --> 00:00:55,400
+to feed what's become a national obsession.
+
+11
+00:00:56,400 --> 00:01:07,400
+But the monster success of this multi-billion dollar industry can trace its origin to a simple blip of an icon that's totally 70s.
+
+12
+00:01:12,700 --> 00:01:13,400
+Pong.
+
+13
+00:01:14,740 --> 00:01:16,180
+Don't miss the ball.
+
+14
+00:01:18,420 --> 00:01:25,520
+But before there was Pong, there was the video game Ping Pong, the brainchild of television engineer Ralph Baer.
+
+15
+00:01:25,521 --> 00:01:30,420
+It all began in 1966.
+
+16
+00:01:30,421 --> 00:01:34,460
+While employed by a defense contractor, Bayer came up with the idea of a device that would
+
+17
+00:01:34,461 --> 00:01:40,820
+allow people to play games using their television sets.
+
+18
+00:01:40,821 --> 00:01:42,980
+The motivation was very simple.
+
+19
+00:01:42,981 --> 00:01:46,760
+Forty million TV sets are out there in the U.S. alone.
+
+20
+00:01:46,761 --> 00:01:52,020
+If you attach something to one percent of those sets, that's 400,000 units.
+
+21
+00:01:52,021 --> 00:01:55,360
+Multiply that by a sales price of 25 bucks.
+
+22
+00:01:55,361 --> 00:01:59,240
+That's $100 million worth of stuff.
+
+23
+00:01:59,241 --> 00:02:04,420
+Within two years, Behr and several associates completed construction of a prototype.
+
+24
+00:02:04,421 --> 00:02:09,520
+They called it the Brown Box.
+
+25
+00:02:09,521 --> 00:02:15,760
+Like the original Brown Box, this replica stores only 128 kilobytes of memory, equivalent
+
+26
+00:02:15,761 --> 00:02:19,760
+to a one-page Microsoft Word document.
+
+27
+00:02:19,761 --> 00:02:23,340
+But that's enough brain power to generate simple shapes.
+
+28
+00:02:23,341 --> 00:02:26,340
+In 1968, using these simple shapes,
+
+29
+00:02:26,341 --> 00:02:29,220
+Bayer's team came up with an idea destined to help create
+
+30
+00:02:29,221 --> 00:02:32,380
+an entertainment renaissance.
+
+31
+00:02:32,381 --> 00:02:34,580
+Let's have a machine control spot,
+
+32
+00:02:34,581 --> 00:02:38,460
+a spot that's moved by some logic in the circuitry.
+
+33
+00:02:38,461 --> 00:02:41,160
+The instant we had the spot moving back and forth,
+
+34
+00:02:41,161 --> 00:02:43,140
+we knew we had something.
+
+35
+00:02:43,141 --> 00:02:46,900
+And that something evolved into ping pong.
+
+36
+00:02:46,901 --> 00:02:49,540
+This rare 1967 footage featuring Ralph
+
+37
+00:02:49,541 --> 00:02:52,000
+bear is one of the earliest recordings of a video game.
+
+38
+00:02:53,000 --> 00:02:58,440
+Here we go. Up and down and up. He's getting tricky.
+
+39
+00:03:00,760 --> 00:03:01,920
+Missed it. One up.
+
+40
+00:03:05,260 --> 00:03:08,080
+A series of circuits controlled Ping Pong's gameplay.
+
+41
+00:03:09,080 --> 00:03:11,600
+When the ball appeared to come in contact with the paddle,
+
+42
+00:03:12,060 --> 00:03:18,320
+an electronic signal was sent to a logic circuit that triggered an output signal to a so-called flip-flop switch.
+
+43
+00:03:19,540 --> 00:03:26,940
+The signal caused the flip-flop to alter its state and change the direction of the ball.
+
+44
+00:03:26,941 --> 00:03:33,720
+This phenomenon occurred every time the ball touched a paddle or a wall.
+
+45
+00:03:33,721 --> 00:03:38,280
+Although groundbreaking, Bear's ping-pong lacked some fundamental gaming elements, such
+
+46
+00:03:38,281 --> 00:03:43,920
+as sound and a score counter.
+
+47
+00:03:43,921 --> 00:03:47,640
+The racket didn't alter the trajectory of the ball.
+
+48
+00:03:47,641 --> 00:03:51,080
+Instead, a player used an English knob on the controller,
+
+49
+00:03:51,081 --> 00:03:54,020
+which is seen here dramatically change the direction of the ball
+
+50
+00:03:54,021 --> 00:03:55,320
+after it left the racket.
+
+51
+00:03:55,321 --> 00:03:56,820
+Down I go.
+
+52
+00:03:56,821 --> 00:03:58,920
+Now watch me fake him up.
+
+53
+00:03:58,921 --> 00:04:01,160
+Despite Ping Pong's limitations,
+
+54
+00:04:01,161 --> 00:04:05,620
+Baer sensed in 1970 that he had a marketable game.
+
+55
+00:04:05,621 --> 00:04:10,960
+He licensed his brown box to TV manufacturer Magnavox.
+
+56
+00:04:10,961 --> 00:04:13,640
+Magnavox renamed it the Odyssey.
+
+57
+00:04:13,641 --> 00:04:15,400
+They built about half a dozen boxes,
+
+58
+00:04:15,401 --> 00:04:18,320
+They took them all over the country for consumer acceptance testing.
+
+59
+00:04:19,880 --> 00:04:25,260
+In September 1971, Magnavox tested the Odyssey in Burlingame, California.
+
+60
+00:04:26,340 --> 00:04:33,120
+A young engineer named Nolan Bushnell, who designed one of the first arcade games, Computer Space, was in attendance.
+
+61
+00:04:34,180 --> 00:04:37,920
+I'd been in the video game business for about two years at that time.
+
+62
+00:04:38,340 --> 00:04:44,640
+And I'd heard about this video game coming to Burlingame, so I went up to take a look at it.
+
+63
+00:04:44,641 --> 00:04:47,360
+And I thought it was a pretty dreadful game, actually.
+
+64
+00:04:49,920 --> 00:04:52,520
+Even so, Bushnell recognized its potential.
+
+65
+00:04:53,240 --> 00:04:59,520
+And the new company he founded, Atari, decided to create an arcade version of ping pong called Pong.
+
+66
+00:05:00,740 --> 00:05:02,380
+We turned it into a game.
+
+67
+00:05:03,000 --> 00:05:06,980
+The Odyssey really wasn't a game, you know, in a lot of ways.
+
+68
+00:05:06,981 --> 00:05:10,340
+It wasn't a lot of strategy. There was no scoring, no sound.
+
+69
+00:05:10,341 --> 00:05:19,960
+But the most important characteristic was the algorithm by which where the ball hit on the paddle, it created an angle.
+
+70
+00:05:20,440 --> 00:05:26,840
+So it allowed a paddle to be an offensive weapon rather than just blocking the ball.
+
+71
+00:05:28,780 --> 00:05:34,980
+In 1972, priced just under $100, the Odyssey hit store shelves.
+
+72
+00:05:34,981 --> 00:05:42,860
+Priced at a quarter per game, Atari's Pong debuted at a local tavern in Sunnyvale, California.
+
+73
+00:05:43,340 --> 00:05:46,000
+It was in the bar for a day and a half or two days.
+
+74
+00:05:46,380 --> 00:05:47,580
+We get a service call.
+
+75
+00:05:48,000 --> 00:05:50,740
+The service call says, hey, get this machine out of here.
+
+76
+00:05:50,760 --> 00:05:51,460
+It doesn't work.
+
+77
+00:05:52,700 --> 00:05:59,320
+And we go down, open it up, and it had taken so many quarters that it totally jammed up the coin box.
+
+78
+00:05:59,321 --> 00:06:09,360
+By 1974, when Atari's Pong was still gobbling up quarters, the original Magnavox Odyssey had ceased production.
+
+79
+00:06:10,400 --> 00:06:18,900
+Three years later, Bushnell invested the millions he made with Pong to develop a home video game console dubbed the Atari 2600.
+
+80
+00:06:18,901 --> 00:06:25,180
+Featuring the now familiar eight-directional joystick with a single red button, the revolutionary
+
+81
+00:06:25,181 --> 00:06:30,140
+console produced an offspring of the Mi decade known as the gamer.
+
+82
+00:06:30,141 --> 00:06:40,460
+A multi-billion dollar industry was off and running.
+
+83
+00:06:40,461 --> 00:06:48,420
+The key component that made the Atari 2600 sing was a tiny high-tech wonder born in the
+
+84
+00:06:48,421 --> 00:06:52,460
+70s destined to transform technology.
+
+85
+00:06:52,461 --> 00:06:58,180
+The microprocessor or simply the chip.
+
+86
+00:06:58,181 --> 00:07:02,940
+The electronic ancestor to the chip was the bulky vacuum tube.
+
+87
+00:07:02,941 --> 00:07:07,260
+It was replaced by the smaller transistor in the 1960s.
+
+88
+00:07:07,261 --> 00:07:12,260
+By the 1970s, engineers were building transistors of microscopic size.
+
+89
+00:07:12,261 --> 00:07:17,760
+A transistor can turn the flow of a current on or off, allowing it to process the binary
+
+90
+00:07:17,761 --> 00:07:20,880
+language of a computer.
+
+91
+00:07:20,881 --> 00:07:25,980
+By placing thousands of transistors onto a semiconductor, engineers generated the processing
+
+92
+00:07:25,981 --> 00:07:29,820
+power of a large computer on a single chip.
+
+93
+00:07:29,821 --> 00:07:39,820
+In 1971, Intel engineered the world's first microprocessor and designated it the Intel 4004.
+
+94
+00:07:39,821 --> 00:07:42,771
+It was the first computer on a chip.
+
+95
+00:07:42,772 --> 00:07:49,820
+In fact, when we advertised it, and that was November of 1971, it was not a modest ad.
+
+96
+00:07:49,821 --> 00:07:53,820
+We said announcing a new era of integrated electronics.
+
+97
+00:07:53,821 --> 00:08:00,380
+As chip integration got big, the size of electronics started getting small.
+
+98
+00:08:01,180 --> 00:08:06,520
+One of the first new gadgets produced by this giant leap towards miniaturization was the pocket calculator.
+
+99
+00:08:09,020 --> 00:08:13,560
+Leading the way in 1972 was Hewlett-Packard's HP35.
+
+100
+00:08:15,140 --> 00:08:20,800
+Its $395 price tag may have been a few too many numbers left of the decimal point for some,
+
+101
+00:08:20,801 --> 00:08:27,140
+but it provided a lightning-fast alternative to every engineering geek's best friend, the slide rule.
+
+102
+00:08:28,020 --> 00:08:32,960
+What I have here is a slide rule. This is what I used to get me through college.
+
+103
+00:08:33,680 --> 00:08:36,880
+What I have here is a TI-84 Plus Silver Edition.
+
+104
+00:08:38,080 --> 00:08:43,680
+Like the old HP-35, this modern calculator made by Texas Instruments
+
+105
+00:08:43,681 --> 00:08:47,740
+has a speed limited only by how fast the operator can push its buttons.
+
+106
+00:08:47,741 --> 00:08:51,740
+But exactly how much faster is it than a slide rule?
+
+107
+00:08:51,741 --> 00:08:54,740
+Contestants, what's the square root of 23?
+
+108
+00:08:54,741 --> 00:08:58,740
+Ben.
+
+109
+00:08:58,741 --> 00:09:02,740
+It's going to be a while.
+
+110
+00:09:02,741 --> 00:09:08,740
+You don't mind me singing while I'm doing this, do you?
+
+111
+00:09:08,741 --> 00:09:10,740
+Yeah.
+
+112
+00:09:10,741 --> 00:09:12,740
+Let's see.
+
+113
+00:09:12,741 --> 00:09:18,540
+That's about 4.8.
+
+114
+00:09:20,240 --> 00:09:21,560
+4.79.
+
+115
+00:09:23,940 --> 00:09:29,840
+When you look at the calculator, it gave you incredible accuracy to the right of the decimal point
+
+116
+00:09:29,841 --> 00:09:32,100
+that with a slide rule, you just can't get that.
+
+117
+00:09:32,101 --> 00:09:36,140
+Although the microchip was integral in creating handheld consumer electronics,
+
+118
+00:09:36,620 --> 00:09:41,660
+it required another 70s breakthrough to translate its binary language into a readable display.
+
+119
+00:09:42,740 --> 00:09:45,540
+The light-emitting diode, or LED.
+
+120
+00:09:47,220 --> 00:09:54,520
+An LED is a semiconductor junction, and you pump in voltage and current, basically,
+
+121
+00:09:54,700 --> 00:09:57,020
+and that excites electrons in the material.
+
+122
+00:09:57,680 --> 00:10:01,380
+And then when the electrons drop back down to their normal state, they emit a photon.
+
+123
+00:10:02,080 --> 00:10:03,100
+The photon is light.
+
+124
+00:10:05,180 --> 00:10:09,600
+Combining microchips and LEDs not only created portable electronics for work,
+
+125
+00:10:09,601 --> 00:10:15,300
+like the pocket calculator, but also handheld toys for fun, like Mattel football.
+
+126
+00:10:19,520 --> 00:10:25,560
+And in a decade known for questionable style, LED watches became a fashion statement.
+
+127
+00:10:26,220 --> 00:10:28,500
+The concept of an LED watch is kind of odd.
+
+128
+00:10:28,580 --> 00:10:30,840
+It's very difficult to read in the daylight, for example.
+
+129
+00:10:31,200 --> 00:10:34,540
+You need two hands to tell the time, so that's not too good in a watch.
+
+130
+00:10:34,541 --> 00:10:41,580
+LED watches didn't survive the 70s, but the technology they harnessed is alive and well,
+
+131
+00:10:42,140 --> 00:10:48,080
+and lighting up a style of high-definition TVs known as DLP, or digital light projection.
+
+132
+00:10:49,440 --> 00:10:53,920
+This is a sample of red, green, and blue high-power devices.
+
+133
+00:10:54,060 --> 00:10:55,940
+They're not fully on here, or I'd be blinded.
+
+134
+00:10:56,500 --> 00:11:01,580
+But you can see that by turning the lights on and off, you can generate different colors.
+
+135
+00:11:01,581 --> 00:11:13,224
+In a DLP TV, we turn these devices on and off in microseconds, and they shine on our device, and the mirrors flip on and off and generate exactly the right color for
+
+136
+00:11:13,225 --> 00:11:14,000
+each pixel.
+
+137
+00:11:16,380 --> 00:11:23,320
+While LEDs had us seeing red in the 70s, one iconic gadget of the decade was filling our ears with sound.
+
+138
+00:11:23,321 --> 00:11:37,321
+In 1978, Texas Instruments introduced millions of Americans to the first handheld electronic device with something to say.
+
+139
+00:11:43,040 --> 00:11:44,280
+The speak and spell.
+
+140
+00:11:45,080 --> 00:11:49,400
+While it may look like child's play, inside was state-of-the-art 70s tech.
+
+141
+00:11:49,401 --> 00:11:54,800
+If you were to open it up, and we tried to make sure that children couldn't open it up,
+
+142
+00:11:55,280 --> 00:11:57,860
+you would find a microprocessor, a TMS-1000.
+
+143
+00:11:58,860 --> 00:12:02,820
+There were two memory chips that stored all of the speech data.
+
+144
+00:12:03,400 --> 00:12:07,360
+And then the fourth was the DSP, or the speech synthesizer.
+
+145
+00:12:07,740 --> 00:12:12,560
+And its purpose was to take the speech data out of the memory devices.
+
+146
+00:12:12,561 --> 00:12:20,480
+A DSP, or digital signal processor, is a specialized microchip that can perform a multitude of
+
+147
+00:12:20,481 --> 00:12:24,120
+complex mathematics in the same amount of time it takes to press a button.
+
+148
+00:12:24,121 --> 00:12:35,240
+It was, in many views, including mine, the first digital signal processor that was ever created.
+
+149
+00:12:35,241 --> 00:12:42,320
+When Speak and Spell hit the market in 1978, Texas Instruments couldn't produce them fast
+
+150
+00:12:42,321 --> 00:12:48,960
+enough to keep up with demand. Kids loved it, partly because it was user-friendly in
+
+151
+00:12:48,961 --> 00:12:50,280
+the truest sense possible.
+
+152
+00:12:50,281 --> 00:12:57,440
+It felt more like a friend giving you your words than a teacher. It never raised its
+
+153
+00:12:57,441 --> 00:13:04,880
+voice, it never yelled, it never screamed at you, and that made it a very nice environment
+
+154
+00:13:04,881 --> 00:13:05,880
+for a child.
+
+155
+00:13:05,881 --> 00:13:08,880
+For settings, press one.
+
+156
+00:13:08,881 --> 00:13:11,880
+Today, DSP technology is pervasive,
+
+157
+00:13:11,881 --> 00:13:14,880
+utilized in cell phones and car navigation systems.
+
+158
+00:13:14,881 --> 00:13:17,880
+Make a U-turn, if possible.
+
+159
+00:13:17,881 --> 00:13:20,880
+The refined speech of these gadgets is a product of advancements
+
+160
+00:13:20,881 --> 00:13:24,880
+in the processing power of digital signal processors.
+
+161
+00:13:24,881 --> 00:13:27,880
+So, the next time your electronic device starts wrapping,
+
+162
+00:13:27,881 --> 00:13:32,880
+give props to the Speak & Spell, a way-cool gadget from the 70s.
+
+163
+00:13:32,881 --> 00:13:33,880
+Say it.
+
+164
+00:13:33,881 --> 00:13:37,320
+While Speak and Spell produced groundbreaking sounds,
+
+165
+00:13:37,920 --> 00:13:41,760
+another technological wonder of the decade was breaking the sound barrier.
+
+166
+00:13:42,980 --> 00:13:47,360
+In the 1970s, commercial air travel was turning supersonic.
+
+167
+00:13:50,960 --> 00:13:54,960
+Atari derived its name from a Japanese term used in the game Go.
+
+168
+00:13:55,580 --> 00:14:00,460
+It describes a scenario in which the opposing player's game piece will be captured on the next turn.
+
+169
+00:14:00,461 --> 00:14:04,460
+70s tech will return on modern marvels
+
+170
+00:14:08,460 --> 00:14:18,700
+its style regal its passengers elite its velocity twice the speed of sound
+
+171
+00:14:18,701 --> 00:14:27,940
+in 1976 the concord ushered in the age of supersonic air travel with a ferocious sonic boom
+
+172
+00:14:27,941 --> 00:14:37,100
+Although it flew for nearly 30 years, only 2.5 million travelers ever climbed aboard,
+
+173
+00:14:37,101 --> 00:14:42,520
+a tiny fraction of the 54 million Americans that now fly each month.
+
+174
+00:14:42,521 --> 00:14:45,160
+To be a passenger on the Concorde was luxurious.
+
+175
+00:14:45,161 --> 00:14:52,660
+It was the individual attention that you received, the nice leather seats, the drinks, the Chateaubriand,
+
+176
+00:14:52,661 --> 00:14:56,060
+you were just treated royally.
+
+177
+00:14:56,061 --> 00:14:59,863
+the luxury was the unique thrill of supersonic travel.
+
+178
+00:14:59,864 --> 00:15:02,540
+At maximum speed, the Concorde covered
+
+179
+00:15:02,541 --> 00:15:07,434
+23 miles a minute, soaring faster than the rotation of the Earth.
+
+180
+00:15:07,435 --> 00:15:08,940
+And when cruising at
+
+181
+00:15:08,941 --> 00:15:14,360
+60,000 feet, safely above air turbulence, passengers claimed they could view the curvature
+
+182
+00:15:14,361 --> 00:15:21,820
+of the Earth. This entire spectacle was available for as much as $6,000, one way.
+
+183
+00:15:21,821 --> 00:15:30,400
+the story of Concorde begins in 1962 while the Americans and Russians were engaged in the space
+
+184
+00:15:30,401 --> 00:15:36,520
+race Britain and France shocked the world when they agreed to combine resources in another
+
+185
+00:15:36,521 --> 00:15:42,580
+contest for technological superiority the race to build the world's first supersonic airliner
+
+186
+00:15:43,780 --> 00:15:49,600
+they named their consortium the Concorde there were plenty of supersonic airplanes but no attempt
+
+187
+00:15:49,601 --> 00:15:53,200
+had been made to carry passengers comfortably, reliably,
+
+188
+00:15:53,201 --> 00:15:56,640
+over long distances at supersonic speed.
+
+189
+00:15:56,641 --> 00:15:59,940
+Britain and France saw in the supersonic transport
+
+190
+00:15:59,941 --> 00:16:02,800
+an opportunity to make one of these technological leaps
+
+191
+00:16:02,801 --> 00:16:05,840
+that would focus attention upon themselves
+
+192
+00:16:05,841 --> 00:16:07,540
+and surround them with glory.
+
+193
+00:16:10,300 --> 00:16:11,980
+The proposed Concorde was designed
+
+194
+00:16:11,981 --> 00:16:17,160
+to reach a maximum speed of 1,350 miles per hour,
+
+195
+00:16:17,161 --> 00:16:24,420
+seat 100 passengers, and fly from Paris or London to New York City, nonstop, in just over
+
+196
+00:16:24,421 --> 00:16:27,780
+three hours, less than half the time of a 707.
+
+197
+00:16:30,000 --> 00:16:34,860
+The intrepid move by Britain and France compelled both the United States and the Soviet Union
+
+198
+00:16:34,861 --> 00:16:36,120
+to take action.
+
+199
+00:16:38,040 --> 00:16:43,920
+Once the ball started rolling, Russia quickly got involved, and shortly after that, the
+
+200
+00:16:43,921 --> 00:16:47,920
+United States decided that if all these other people were building super-siding
+
+201
+00:16:47,921 --> 00:16:51,860
+transports we certainly couldn't get left behind. Kennedy in a speech to the
+
+202
+00:16:51,861 --> 00:16:57,600
+Air Force Academy said we must go there, we must be bigger, we must be better, we
+
+203
+00:16:57,601 --> 00:17:05,240
+must be faster, and we must do it by the end of the 1960s. By 1965 a government
+
+204
+00:17:05,241 --> 00:17:09,780
+plan was in place to allocate funds for 75% of the development cost for an
+
+205
+00:17:09,781 --> 00:17:15,717
+American SST. The remaining tab would be paid by the company awarded the contract.
+
+206
+00:17:15,718 --> 00:17:17,600
+That honor went to Boeing.
+
+207
+00:17:18,600 --> 00:17:30,286
+Seemingly in response to some sort of patriotic notion that if ours wasn't way bigger, way better, faster, heavier, and in every way more glorious than theirs, we
+
+208
+00:17:30,287 --> 00:17:35,480
+The American program was a kind of psychological freak on its own terms.
+
+209
+00:17:35,481 --> 00:17:37,500
+would somehow be humiliated.
+
+210
+00:17:37,501 --> 00:17:42,860
+the United States set out to build an airplane of almost unimaginable ambition.
+
+211
+00:17:43,820 --> 00:17:47,700
+The proposed Boeing 2707 was a giant.
+
+212
+00:17:48,500 --> 00:17:53,260
+Its fuselage would span 300 feet in length and seat 300 passengers.
+
+213
+00:17:54,140 --> 00:18:00,000
+At maximum speed, it would travel at Mach 3, or 2,100 miles per hour.
+
+214
+00:18:01,360 --> 00:18:03,460
+Compared to its European rival, the Concorde,
+
+215
+00:18:03,461 --> 00:18:06,240
+the Boeing aircraft would be 100 feet longer,
+
+216
+00:18:06,241 --> 00:18:11,540
+hold three times as many passengers, and travel 60% faster.
+
+217
+00:18:14,380 --> 00:18:17,200
+But instead of ripping through the skies at Mach 3,
+
+218
+00:18:17,960 --> 00:18:23,580
+the Boeing 2707 is sitting still at the Hiller Aviation Museum in San Carlos, California.
+
+219
+00:18:25,360 --> 00:18:28,240
+This mock-up, built by Boeing in 1969,
+
+220
+00:18:28,940 --> 00:18:32,580
+is the closest the United States ever came to building an SST.
+
+221
+00:18:32,581 --> 00:18:36,880
+We're in the fuselage of the Boeing 2707-300.
+
+222
+00:18:36,881 --> 00:18:40,320
+This is actually the first wide-bodied aircraft ever
+
+223
+00:18:40,321 --> 00:18:41,021
+designed.
+
+224
+00:18:41,022 --> 00:18:44,660
+First class section on the Boeing 2707 is going to be 30,
+
+225
+00:18:44,661 --> 00:18:48,060
+with about 270 people for the rear.
+
+226
+00:18:48,061 --> 00:18:50,560
+But the inordinate cost of such an ambitious plane
+
+227
+00:18:50,561 --> 00:18:53,340
+made it an economic loser.
+
+228
+00:18:53,341 --> 00:18:56,100
+By 1971, the federal government voted
+
+229
+00:18:56,101 --> 00:18:59,580
+to withdraw funding, ending the program.
+
+230
+00:18:59,581 --> 00:19:02,240
+There was approximately $1 billion spent on the program,
+
+231
+00:19:02,241 --> 00:19:03,880
+and it did almost bankrupt Boeing.
+
+232
+00:19:04,680 --> 00:19:05,920
+There was a billboard in Seattle,
+
+233
+00:19:06,440 --> 00:19:07,560
+and allegedly it said,
+
+234
+00:19:07,680 --> 00:19:10,140
+will the last person leaving Seattle please turn off the lights.
+
+235
+00:19:11,540 --> 00:19:14,660
+While America's attempt at building a supersonic airliner
+
+236
+00:19:14,661 --> 00:19:16,120
+was a spectacular failure,
+
+237
+00:19:16,660 --> 00:19:19,660
+the Concorde faced its own obstacles
+
+238
+00:19:19,661 --> 00:19:21,420
+before it could take to the sky.
+
+239
+00:19:22,040 --> 00:19:24,920
+The issue with a supersonic airplane
+
+240
+00:19:24,921 --> 00:19:28,260
+is trying to get fuel consumption down enough
+
+241
+00:19:28,261 --> 00:19:30,340
+so that you can go a good distance,
+
+242
+00:19:30,341 --> 00:19:32,920
+and that means getting dragged down.
+
+243
+00:19:34,020 --> 00:19:38,100
+The drag of the airplane was going to be largely conditioned on two items,
+
+244
+00:19:38,200 --> 00:19:39,640
+the fuselage and the wing.
+
+245
+00:19:40,700 --> 00:19:44,020
+The fuselage of the Concorde would be built long and slender,
+
+246
+00:19:44,880 --> 00:19:47,900
+tapering to a point at the nose and tail to minimize drag.
+
+247
+00:19:49,820 --> 00:19:52,180
+The wing design was far more complex.
+
+248
+00:19:53,180 --> 00:19:55,380
+Unlike the straight wings of conventional airliners,
+
+249
+00:19:55,900 --> 00:19:58,720
+the shape of the Concorde wing needed a continuous curvature
+
+250
+00:19:58,721 --> 00:20:02,960
+to optimize airflow during supersonic flight,
+
+251
+00:20:03,060 --> 00:20:08,160
+a design known as an OG delta wing.
+
+252
+00:20:08,260 --> 00:20:10,560
+The Concorde's engineers performed exhaustive wind
+
+253
+00:20:10,660 --> 00:20:14,260
+tunnel tests to optimize its performance.
+
+254
+00:20:14,360 --> 00:20:16,080
+In order to get it to work efficiently
+
+255
+00:20:16,180 --> 00:20:19,580
+at supersonic speed, it had to be tailored very carefully
+
+256
+00:20:19,680 --> 00:20:23,520
+to the particular shape of the flow.
+
+257
+00:20:23,620 --> 00:20:26,220
+And that shape, it resembles a wave which
+
+258
+00:20:26,221 --> 00:20:29,720
+which curls around the sides of the fuselage
+
+259
+00:20:29,721 --> 00:20:33,020
+and then breaks over the upper surface of the wing.
+
+260
+00:20:33,021 --> 00:20:37,060
+And that wave is triggered by the long extensions
+
+261
+00:20:37,061 --> 00:20:39,160
+along the fuselage sides.
+
+262
+00:20:39,161 --> 00:20:41,860
+And then as the wing broadens out,
+
+263
+00:20:41,861 --> 00:20:43,780
+it droops down at the front.
+
+264
+00:20:43,781 --> 00:20:46,380
+And all of this just has to do with accommodating
+
+265
+00:20:46,381 --> 00:20:50,620
+this sort of beautifully curling airflow.
+
+266
+00:20:50,621 --> 00:20:53,280
+During its over a quarter century of service,
+
+267
+00:20:53,281 --> 00:20:55,380
+this sleek design would allow the Concorde
+
+268
+00:20:55,381 --> 00:20:57,620
+to cut through the air with optimal efficiency.
+
+269
+00:20:58,900 --> 00:21:00,640
+But it would also create a problem.
+
+270
+00:21:02,480 --> 00:21:06,240
+The aerodynamics of the wing forced pilots to take off and land
+
+271
+00:21:06,241 --> 00:21:10,360
+at an abnormally high angle, producing a major blind spot.
+
+272
+00:21:12,500 --> 00:21:16,560
+The engineering solution became one of Concorde's most unique physical traits,
+
+273
+00:21:17,720 --> 00:21:18,520
+the Droop Snoot.
+
+274
+00:21:19,680 --> 00:21:22,440
+The technology was really fairly crude.
+
+275
+00:21:22,441 --> 00:21:25,840
+I mean, you know, well, can't see through the nose?
+
+276
+00:21:25,980 --> 00:21:28,000
+All right, we'll just lower it.
+
+277
+00:21:30,760 --> 00:21:32,240
+Crude, but effective.
+
+278
+00:21:34,340 --> 00:21:37,920
+So with the aerodynamics in place, four engines,
+
+279
+00:21:38,200 --> 00:21:41,160
+each capable of producing 38,000 pounds of thrust,
+
+280
+00:21:41,780 --> 00:21:43,700
+were fitted underneath Concorde's wings,
+
+281
+00:21:45,280 --> 00:21:48,440
+generating enough power to propel the aircraft through the sound barrier
+
+282
+00:21:48,441 --> 00:21:50,120
+and up to Mach 2.
+
+283
+00:21:50,121 --> 00:21:57,800
+By 1973, three Concorde prototypes had been built and were undergoing test trials.
+
+284
+00:22:00,320 --> 00:22:09,660
+Meanwhile, the last player in the battle for supersonic air supremacy, the Soviet Union, had finished building its SST, the Tu-144.
+
+285
+00:22:11,500 --> 00:22:18,040
+At the 1973 Paris Air Show, it would go head-to-head against the Concorde in a public demonstration.
+
+286
+00:22:20,120 --> 00:22:22,820
+But several minutes into its flight, tragedy struck.
+
+287
+00:22:24,760 --> 00:22:26,940
+While performing a turn at high speed,
+
+288
+00:22:27,480 --> 00:22:29,500
+the pilot lost control of the aircraft.
+
+289
+00:22:30,820 --> 00:22:34,660
+The Tu-144 crashed, killing all six on board
+
+290
+00:22:34,661 --> 00:22:36,400
+and eight people on the ground.
+
+291
+00:22:37,780 --> 00:22:39,580
+Although the Soviets cited pilot error
+
+292
+00:22:39,581 --> 00:22:40,700
+as the cause of the crash,
+
+293
+00:22:41,500 --> 00:22:44,280
+they opted to discontinue their SST program.
+
+294
+00:22:44,281 --> 00:22:51,540
+In a battle against the two preeminent superpowers,
+
+295
+00:22:52,280 --> 00:22:53,360
+Concorde was the victor.
+
+296
+00:22:53,980 --> 00:22:56,760
+It now had a monopoly on the supersonic transport business.
+
+297
+00:22:57,900 --> 00:23:02,080
+For nearly 25 years, the Concorde flew across the Atlantic.
+
+298
+00:23:02,880 --> 00:23:04,860
+But as the new millennium dawned,
+
+299
+00:23:04,980 --> 00:23:07,140
+a crash that killed 113 people,
+
+300
+00:23:07,820 --> 00:23:09,800
+combined with a drop in transatlantic travel
+
+301
+00:23:09,801 --> 00:23:12,680
+and escalating ticket prices following 9-11,
+
+302
+00:23:12,681 --> 00:23:14,440
+doomed the Concorde.
+
+303
+00:23:15,340 --> 00:23:18,620
+To purchase a seat from London to New York
+
+304
+00:23:18,621 --> 00:23:21,420
+in the early 1980s on the Concorde
+
+305
+00:23:21,421 --> 00:23:23,320
+was about $3,600,
+
+306
+00:23:24,320 --> 00:23:26,980
+and this cost kept escalating with expenses
+
+307
+00:23:26,981 --> 00:23:29,420
+over the air price of fuel and operations.
+
+308
+00:23:29,660 --> 00:23:33,500
+So the early 2000s, that price was over $6,000.
+
+309
+00:23:34,400 --> 00:23:38,500
+The Concorde was permanently grounded in October 2003.
+
+310
+00:23:40,040 --> 00:23:42,360
+Of the 14 that entered commercial service,
+
+311
+00:23:42,680 --> 00:23:45,860
+Twelve now reside in museums throughout the world.
+
+312
+00:23:46,860 --> 00:23:51,860
+I think the Concorde is the end of the era of supersonic passenger travel,
+
+313
+00:23:52,040 --> 00:23:54,360
+at least for the airlines. The economics aren't there.
+
+314
+00:23:54,840 --> 00:23:59,300
+I think the only future for supersonic travel is with the business community.
+
+315
+00:24:00,780 --> 00:24:04,740
+While the Concorde symbolized the fast-paced lifestyle of the Mi decade,
+
+316
+00:24:07,520 --> 00:24:09,640
+other technologies followed suit
+
+317
+00:24:09,641 --> 00:24:13,640
+by producing results in a flash.
+
+318
+00:24:16,960 --> 00:24:18,760
+During supersonic flight,
+
+319
+00:24:19,280 --> 00:24:21,800
+air friction heated parts of the Concorde's fuselage
+
+320
+00:24:21,801 --> 00:24:23,660
+to well over 200 degrees Fahrenheit,
+
+321
+00:24:24,400 --> 00:24:27,000
+causing it to expand as much as 10 inches in length.
+
+322
+00:24:28,300 --> 00:24:30,760
+70s Tech will return on Modern Marvels.
+
+323
+00:24:34,380 --> 00:24:37,840
+Point, click, download.
+
+324
+00:24:38,800 --> 00:24:41,360
+That's all it takes to capture an image with a digital camera.
+
+325
+00:24:42,500 --> 00:24:48,500
+But in the early 1970s, most amateur photographers had to send the film they shot away for processing
+
+326
+00:24:48,501 --> 00:24:50,600
+before a single image could be viewed.
+
+327
+00:24:52,560 --> 00:24:53,260
+Bummer.
+
+328
+00:24:54,420 --> 00:24:57,600
+Those in the me decade were eager for a quicker alternative.
+
+329
+00:24:59,660 --> 00:25:05,200
+They got it in 1972, when the Polaroid Corporation released the SX-70,
+
+330
+00:25:05,201 --> 00:25:11,940
+A camera that could spit out a snapshot and process it in a matter of seconds, even in direct sunlight.
+
+331
+00:25:12,780 --> 00:25:13,520
+Far out.
+
+332
+00:25:14,300 --> 00:25:19,040
+The world at large seemed to be very excited about the SX-70 when it arrived on the market.
+
+333
+00:25:19,820 --> 00:25:23,700
+It was like nothing they'd ever seen before. It was magical.
+
+334
+00:25:24,900 --> 00:25:32,640
+At the height of its popularity, Americans spent more money on SX-70 film at the corner drugstore than they did on toothpaste.
+
+335
+00:25:32,641 --> 00:25:36,720
+and snapped an estimated one billion Polaroid prints.
+
+336
+00:25:38,280 --> 00:25:42,300
+The SX-70 was the creation of Polaroid founder Edwin Land.
+
+337
+00:25:43,460 --> 00:25:45,400
+His camera may have been instant,
+
+338
+00:25:45,860 --> 00:25:48,480
+but the technology behind it was years in the making.
+
+339
+00:25:49,120 --> 00:25:51,060
+It began in 1943.
+
+340
+00:25:52,360 --> 00:25:54,680
+It was all really stimulated by a question
+
+341
+00:25:54,681 --> 00:25:58,240
+that his daughter Jennifer made when they were taking pictures.
+
+342
+00:25:58,740 --> 00:26:01,240
+And she said, why can't I see the pictures now, Daddy?
+
+343
+00:26:01,800 --> 00:26:04,220
+Hmm, you know, why can't you?
+
+344
+00:26:05,140 --> 00:26:07,400
+Four years later, Land answered his daughter
+
+345
+00:26:07,401 --> 00:26:09,980
+by producing Polaroid's first instant camera.
+
+346
+00:26:11,620 --> 00:26:15,500
+The first camera here, the Model 95, was introduced in 1948.
+
+347
+00:26:16,400 --> 00:26:19,300
+And it was the first camera that was available on the market
+
+348
+00:26:19,301 --> 00:26:22,300
+that enabled you to produce pictures instantly
+
+349
+00:26:22,301 --> 00:26:25,100
+without having to send them away for development.
+
+350
+00:26:25,340 --> 00:26:26,980
+Now we have a picture.
+
+351
+00:26:28,460 --> 00:26:31,200
+How does this ancestor to the SX-70 work?
+
+352
+00:26:31,240 --> 00:26:37,940
+After taking the picture, the operator pulls a tab, sliding the negative and the receiving
+
+353
+00:26:37,941 --> 00:26:42,520
+sheet through a set of rollers, which causes a pod of chemicals embedded in the receiving
+
+354
+00:26:42,521 --> 00:26:45,440
+sheet to burst.
+
+355
+00:26:45,441 --> 00:26:49,740
+The rollers spread the chemicals evenly across the negative, starting a chemical reaction
+
+356
+00:26:49,741 --> 00:26:53,340
+that processes the image.
+
+357
+00:26:53,341 --> 00:26:59,840
+By 1949, professional photographers like Ansel Adams championed the Model 95 as a landmark
+
+358
+00:26:59,841 --> 00:27:04,390
+achievement. But Land was focused on a bigger picture.
+
+359
+00:27:04,391 --> 00:27:07,760
+Land's idea really was to have something
+
+360
+00:27:07,761 --> 00:27:11,088
+that was an absolute one-set photography.
+
+361
+00:27:11,089 --> 00:27:14,660
+And what that meant to him was being able to
+
+362
+00:27:14,661 --> 00:27:21,516
+take the picture and really have everything else done for you.
+
+363
+00:27:21,517 --> 00:27:24,280
+For nearly 25 years, Land
+
+364
+00:27:24,281 --> 00:27:27,145
+strived to make such a camera a reality.
+
+365
+00:27:27,146 --> 00:27:30,440
+To do it, he needed to develop a chemical that
+
+366
+00:27:30,441 --> 00:27:36,226
+would allow the exposed film to process in broad daylight.
+
+367
+00:27:36,227 --> 00:27:38,820
+In 1972, he succeeded with
+
+368
+00:27:38,821 --> 00:27:47,493
+the stylish SX-70. The SX-70 was the world's first folding single-end reflex camera.
+
+369
+00:27:47,494 --> 00:27:48,194
+It
+
+370
+00:27:48,195 --> 00:27:51,000
+It was made out of brushed chrome and real leather panels.
+
+371
+00:27:51,180 --> 00:27:54,880
+It was sold back in 1972 at over $200,
+
+372
+00:27:55,340 --> 00:27:57,400
+which was a lot of money in those days.
+
+373
+00:27:58,740 --> 00:28:00,960
+Similar to the operation of the Model 95,
+
+374
+00:28:01,680 --> 00:28:03,480
+as the film exits the SX-70,
+
+375
+00:28:03,940 --> 00:28:06,920
+it passes through two rollers that burst a pot of chemicals,
+
+376
+00:28:07,440 --> 00:28:08,640
+spreading them across the negative.
+
+377
+00:28:11,440 --> 00:28:12,920
+While the image is developing,
+
+378
+00:28:12,921 --> 00:28:14,780
+a so-called opacifier,
+
+379
+00:28:14,781 --> 00:28:21,380
+A highly colorized dye mixed in the chemical pod shields the negative, acting like a liquid darkroom door.
+
+380
+00:28:22,620 --> 00:28:25,040
+The opacifier absorbs all ambient light.
+
+381
+00:28:26,700 --> 00:28:32,000
+After 60 seconds, the picture is processed and the opacifying dye becomes colorless,
+
+382
+00:28:32,640 --> 00:28:36,500
+gradually revealing the image as if it's magically appearing before your eyes.
+
+383
+00:28:36,501 --> 00:28:45,980
+in 1972 the flashy sx70 became the instant friend of millions of amateur shutterbugs
+
+384
+00:28:45,981 --> 00:28:52,640
+the 70s not only introduced america to the instant camera it also introduced us to the
+
+385
+00:28:52,641 --> 00:28:59,320
+first appliance with a surname mr coffee the original automatic drip coffee maker
+
+386
+00:28:59,321 --> 00:29:02,012
+Since its debut in 1972, Mr.
+
+387
+00:29:02,013 --> 00:29:07,780
+Coffee has been the world's number one coffee maker, selling
+
+388
+00:29:07,781 --> 00:29:10,820
+over 50 million units.
+
+389
+00:29:10,821 --> 00:29:17,040
+Before Mr. Coffee, Java junkies relied on percolators.
+
+390
+00:29:17,041 --> 00:29:21,200
+They worked well enough, but their method of operation was to boil the coffee grounds,
+
+391
+00:29:21,201 --> 00:29:24,360
+which created a bitter brew.
+
+392
+00:29:24,361 --> 00:29:28,280
+So what's the method behind Mr. Coffee's refined brewing prowess?
+
+393
+00:29:28,281 --> 00:29:31,280
+Let's brew a pot and find out.
+
+394
+00:29:31,281 --> 00:29:34,280
+We poured the water into the water tank.
+
+395
+00:29:34,281 --> 00:29:35,280
+That's this assembly.
+
+396
+00:29:35,281 --> 00:29:38,280
+It's got a heat-activated valve on the bottom,
+
+397
+00:29:38,281 --> 00:29:41,280
+and that valve responds to the heat generated by this coil
+
+398
+00:29:41,281 --> 00:29:43,280
+on the inside of this heater.
+
+399
+00:29:43,281 --> 00:29:47,280
+As that heats up, it opens up the valve and lets water into the coil,
+
+400
+00:29:47,281 --> 00:29:52,280
+and that water flows out through the middle above the brew basket,
+
+401
+00:29:52,281 --> 00:29:57,280
+and the result of all of this is coffee that is made at the proper time
+
+402
+00:29:57,281 --> 00:30:02,280
+time and temperature for the best extraction possible.
+
+403
+00:30:02,281 --> 00:30:05,280
+When Mr. Coffee was released in 1972,
+
+404
+00:30:05,281 --> 00:30:09,280
+it quickly became America's number one coffee maker.
+
+405
+00:30:09,281 --> 00:30:12,280
+35 years later, he's had a few facelifts,
+
+406
+00:30:12,281 --> 00:30:17,280
+but he still brews a mean cup of joe.
+
+407
+00:30:17,281 --> 00:30:20,280
+Mr. Coffee wasn't the only new appliance in the 70s
+
+408
+00:30:20,281 --> 00:30:23,280
+to guest star in America's kitchens.
+
+409
+00:30:23,281 --> 00:30:26,280
+By 1970, the microwave oven started nuking meals
+
+410
+00:30:26,281 --> 00:30:31,420
+meals in a fraction of the time required by conventional ovens.
+
+411
+00:30:31,421 --> 00:30:35,820
+The secret to its cooking efficiency is the magnetron.
+
+412
+00:30:35,821 --> 00:30:43,260
+The magnetron, which is essentially an X-ray emitting source which is steered through electromagnets.
+
+413
+00:30:43,261 --> 00:30:50,180
+What it does is very precisely put out a spray of microwaves and cooks by jiggling the water
+
+414
+00:30:50,181 --> 00:30:53,480
+molecules in your food.
+
+415
+00:30:53,481 --> 00:30:57,560
+The invention of the microwave oven stems from the Raytheon Company's work in building
+
+416
+00:30:57,561 --> 00:31:00,780
+radar magnetrons during World War II.
+
+417
+00:31:00,781 --> 00:31:07,580
+The magnetron was developed to increase the ability of World War II radars to detect airplanes,
+
+418
+00:31:07,581 --> 00:31:12,060
+create a smaller frequency of wavelength, which is called the microwave.
+
+419
+00:31:12,061 --> 00:31:16,720
+Towards the end of the war, the Raytheon Company, which was the major manufacturer of magnetrons
+
+420
+00:31:16,721 --> 00:31:20,660
+for the military, they needed to come up with some other use for the magnetrons that they
+
+421
+00:31:20,661 --> 00:31:21,660
+had.
+
+422
+00:31:21,661 --> 00:31:24,220
+So what they thought was, well, let's see if we can use them for cooking.
+
+423
+00:31:24,300 --> 00:31:25,900
+Let's see if we can develop an oven for them.
+
+424
+00:31:26,840 --> 00:31:31,780
+In 1954, Raytheon produced the first commercial microwave oven.
+
+425
+00:31:33,120 --> 00:31:35,240
+Fittingly, it dubbed it the Radar Range.
+
+426
+00:31:36,200 --> 00:31:41,700
+They built the first microwave ovens to be very robust, almost military grade.
+
+427
+00:31:42,120 --> 00:31:44,820
+They were in the range of 2,000 or 3,000 pounds each.
+
+428
+00:31:44,821 --> 00:31:46,620
+They were also extremely high-powered.
+
+429
+00:31:46,720 --> 00:31:48,580
+They could cook a roast in 75 seconds.
+
+430
+00:31:49,440 --> 00:31:53,700
+The radar range was a giant in size, but not in sales.
+
+431
+00:31:54,540 --> 00:31:59,160
+Only a few restaurants had the floor space and the cash for the $2,000 behemoth.
+
+432
+00:32:00,140 --> 00:32:07,560
+But by 1976, advancements in manufacturing created smaller-sized magnetrons that were cheaper to produce.
+
+433
+00:32:08,380 --> 00:32:12,740
+The once pricey luxury item had radiated into a $100 appliance.
+
+434
+00:32:13,560 --> 00:32:15,660
+well-suited for the me first generation
+
+435
+00:32:15,661 --> 00:32:19,280
+that was eager to spend its free time letting it all hang out.
+
+436
+00:32:19,940 --> 00:32:20,640
+Groovy.
+
+437
+00:32:23,100 --> 00:32:25,260
+Today, microwave ovens can cook anything.
+
+438
+00:32:26,160 --> 00:32:27,540
+Well, almost anything.
+
+439
+00:32:28,420 --> 00:32:31,180
+Well, there are lots of fun experiments with microwaves you can do.
+
+440
+00:32:31,600 --> 00:32:35,260
+Metal you can't put in because it's reflecting the waves back into the magnetron.
+
+441
+00:32:37,620 --> 00:32:40,800
+You might not want to try cooking an egg in a microwave either.
+
+442
+00:32:42,740 --> 00:32:49,100
+Nuking meals in the 70s provided quick results for a generation living life in the fast lane.
+
+443
+00:32:50,820 --> 00:32:56,000
+Some motorists lived that life literally behind the wheel of the blazing, screaming chicken.
+
+444
+00:32:56,580 --> 00:32:59,100
+One of the baddest muscle cars to ever hit the road.
+
+445
+00:33:01,800 --> 00:33:10,820
+In 1952, expendable 3D glasses made by Polaroid enabled filmgoers to watch the first American 3D movie shot in color.
+
+446
+00:33:10,821 --> 00:33:12,220
+Buonadevil.
+
+447
+00:33:13,100 --> 00:33:16,820
+70s Tech will return on Modern Marvels.
+
+448
+00:33:22,200 --> 00:33:23,480
+Blaze and speed.
+
+449
+00:33:24,140 --> 00:33:25,880
+A big block engine.
+
+450
+00:33:26,600 --> 00:33:28,980
+And an ominous logo decorating the hood.
+
+451
+00:33:30,520 --> 00:33:36,160
+The Firebird Trans Am was a take-no-prisoner's muscle car that personified 70s sheep.
+
+452
+00:33:37,180 --> 00:33:38,160
+And they were cool.
+
+453
+00:33:38,380 --> 00:33:40,160
+You know, a guy in high school had one of these cars.
+
+454
+00:33:40,161 --> 00:33:41,820
+he was considered the king, right?
+
+455
+00:33:42,000 --> 00:33:44,680
+The shaker hood scoop, the screaming chicken on the hood,
+
+456
+00:33:44,900 --> 00:33:46,800
+and then the ducktail spoiler on the back.
+
+457
+00:33:47,000 --> 00:33:50,120
+The entire design of the car just screams performance.
+
+458
+00:33:52,200 --> 00:33:54,860
+The most powerful Trans Am engine of the decade
+
+459
+00:33:54,861 --> 00:33:58,340
+was a 455 cubic inch big block eight cylinder,
+
+460
+00:33:58,960 --> 00:34:02,180
+pumping well over 290 horsepower.
+
+461
+00:34:03,780 --> 00:34:05,580
+The Trans Am's screen performance,
+
+462
+00:34:06,140 --> 00:34:09,320
+not only on the streets, but also on the silver screen,
+
+463
+00:34:09,321 --> 00:34:13,540
+propelling Smokey and the Bandit to box office glory in 1977.
+
+464
+00:34:15,080 --> 00:34:17,580
+The Trans Am may have embodied the 70s,
+
+465
+00:34:17,900 --> 00:34:21,680
+but it was born out of the muscle car craze that was rooted in the 60s.
+
+466
+00:34:22,360 --> 00:34:27,180
+Traditionally, a muscle car is a mid-sized automotive platform
+
+467
+00:34:27,181 --> 00:34:28,720
+with a huge engine in it,
+
+468
+00:34:28,780 --> 00:34:32,920
+the biggest engine usually that the corporate hierarchy allows to be built.
+
+469
+00:34:33,260 --> 00:34:36,140
+But they will go like a scalded dog in a straight line,
+
+470
+00:34:36,320 --> 00:34:38,180
+making a lot of great noises as well.
+
+471
+00:34:39,320 --> 00:34:45,420
+Pontiac was no stranger to the muscle car phenomenon. In 1964 it had ushered in
+
+472
+00:34:45,421 --> 00:34:52,980
+the era with the GTO. But by 1972 a hike in insurance rates combined with
+
+473
+00:34:52,981 --> 00:34:57,620
+stringent government emission standards pressured Detroit to swap horsepower for
+
+474
+00:34:57,621 --> 00:35:05,360
+improved gas mileage. Pontiac however bucked the trend releasing the Trans Am
+
+475
+00:35:05,361 --> 00:35:14,320
+455 super duty in 1973 the most powerful muscle car of the decade and everybody pretty much said
+
+476
+00:35:14,321 --> 00:35:21,520
+where in the heck did this thing come from it was a muscle car and more they were faster
+
+477
+00:35:21,521 --> 00:35:30,720
+stronger than they had a need to be they were far and away from 1973 through the rest of 1970s
+
+478
+00:35:31,440 --> 00:35:32,780
+They were the muscle car.
+
+479
+00:35:33,060 --> 00:35:34,360
+Nothing else came close.
+
+480
+00:35:36,060 --> 00:35:40,440
+The 1973 model was the first to feature the Firebird emblem on the hood.
+
+481
+00:35:42,240 --> 00:35:43,660
+Although it was an eye-catcher,
+
+482
+00:35:44,420 --> 00:35:47,920
+it's what was under the hood of the Super Duty that blew away the competition.
+
+483
+00:35:49,060 --> 00:35:51,440
+The Super Duty engine was hand-assembled,
+
+484
+00:35:51,960 --> 00:35:53,780
+a high-nickel block for strength.
+
+485
+00:35:54,260 --> 00:35:57,380
+The cylinder heads were high-flow, big carburetor.
+
+486
+00:35:57,381 --> 00:35:59,860
+May as well have been a funnel on the hood saying, gas here.
+
+487
+00:35:59,861 --> 00:36:04,860
+Pontiac rated the Super Duty engine at 290 horsepower.
+
+488
+00:36:05,520 --> 00:36:09,380
+Well, you know, it might have made 290 horsepower at about 1,500 RPM,
+
+489
+00:36:09,880 --> 00:36:13,940
+but when you get in the power band, you were looking at well over 400 horsepower.
+
+490
+00:36:14,280 --> 00:36:16,500
+These were serious drag strip monsters.
+
+491
+00:36:18,620 --> 00:36:21,240
+Sure, this guzzler only got 10 miles to the gallon,
+
+492
+00:36:21,820 --> 00:36:25,180
+but its sticker price of $3,000 didn't break the bank.
+
+493
+00:36:26,640 --> 00:36:29,060
+When commandeered by a driver with a lead foot,
+
+494
+00:36:29,061 --> 00:36:33,640
+the Super Duty could rocket from zero to 100 in just 10 seconds.
+
+495
+00:36:37,060 --> 00:36:39,680
+Driving a Trans Am was definitely a gas,
+
+496
+00:36:40,200 --> 00:36:44,500
+but it was a shortage of that valuable resource that essentially killed the Super Duty.
+
+497
+00:36:45,440 --> 00:36:50,320
+In 1973, a national energy crisis forced gas prices to double.
+
+498
+00:36:51,260 --> 00:36:55,120
+Gas-thirsty muscle cars like the Super Duty were headed for the chopping block.
+
+499
+00:36:55,121 --> 00:37:04,300
+Muscle cars were supplanted by fuel-efficient subcompact cars like the Gremlin, the Pacer, and the Pinto.
+
+500
+00:37:05,500 --> 00:37:09,320
+Its unprotected fuel tank made it a hot car for a different reason.
+
+501
+00:37:16,660 --> 00:37:21,300
+In 1975, Trans Am horsepower dropped to 200,
+
+502
+00:37:21,301 --> 00:37:24,600
+but its reputation for performance and unique style
+
+503
+00:37:24,601 --> 00:37:26,880
+continued to generate mondo sales.
+
+504
+00:37:28,080 --> 00:37:32,380
+Then, in 1977, the popularity of the screaming chicken
+
+505
+00:37:32,381 --> 00:37:34,420
+would reach movie star status.
+
+506
+00:37:35,380 --> 00:37:37,140
+When Smokey and the Bandit hit,
+
+507
+00:37:37,360 --> 00:37:40,200
+Trans Am production, almost overnight, had to double.
+
+508
+00:37:40,800 --> 00:37:42,720
+The public was enamored with the car.
+
+509
+00:37:42,980 --> 00:37:45,180
+They wanted the car. They wanted to be seen in the car.
+
+510
+00:37:45,360 --> 00:37:48,400
+I think the term could just be described as explosive.
+
+511
+00:37:49,260 --> 00:37:50,580
+Sales went through the roof.
+
+512
+00:37:51,300 --> 00:37:57,020
+In 77 and 78, Pontiac sold over 150,000 Trans Ams,
+
+513
+00:37:57,400 --> 00:38:00,040
+nearly twice the number sold in the previous six years,
+
+514
+00:38:00,680 --> 00:38:03,940
+including thousands of the black and gold version made famous in the movie.
+
+515
+00:38:06,820 --> 00:38:11,780
+Today, the Trans Am banded as a collector's item, worth as much as $40,000.
+
+516
+00:38:14,180 --> 00:38:18,160
+I think a lot of people saw that movie and they fell in love with the car,
+
+517
+00:38:18,161 --> 00:38:19,380
+maybe for the first time.
+
+518
+00:38:19,700 --> 00:38:21,120
+I was a little kid when it came out.
+
+519
+00:38:21,300 --> 00:38:23,580
+and it had a strong impact for me.
+
+520
+00:38:24,080 --> 00:38:26,100
+I mean, this was the car I've always wanted to own.
+
+521
+00:38:28,120 --> 00:38:30,340
+Although the Trans Am is closely identified
+
+522
+00:38:30,341 --> 00:38:32,440
+with the style and attitude of the 70s,
+
+523
+00:38:32,720 --> 00:38:35,600
+the model continued to sell up until 2002.
+
+524
+00:38:37,940 --> 00:38:39,840
+Today, rumors rumble that Pontiac
+
+525
+00:38:39,841 --> 00:38:41,540
+may be planning a Trans Am sequel,
+
+526
+00:38:42,160 --> 00:38:45,540
+but perhaps minus the car's foul figurehead.
+
+527
+00:38:46,340 --> 00:38:48,600
+If the Trans Am is reborn,
+
+528
+00:38:48,601 --> 00:38:52,100
+I don't know if they're going to put a screaming chicken on the hood.
+
+529
+00:38:52,101 --> 00:38:56,100
+The Firebird emblem that we know and love was born in the 70s.
+
+530
+00:38:56,101 --> 00:38:57,600
+It was embraced by the 70s.
+
+531
+00:38:57,601 --> 00:38:59,600
+It made a statement about the 70s.
+
+532
+00:38:59,601 --> 00:39:02,600
+Maybe it just belongs in the 70s.
+
+533
+00:39:04,600 --> 00:39:08,600
+In the 1970s, Trans Am owners weren't the only motorists screaming,
+
+534
+00:39:08,601 --> 00:39:10,600
+I can't drive 55.
+
+535
+00:39:10,601 --> 00:39:14,100
+Truckers were also pushing the needle above the double nickel.
+
+536
+00:39:14,101 --> 00:39:18,100
+And a gadget in the cab kept them one step ahead of the law.
+
+537
+00:39:18,101 --> 00:39:23,240
+Southbound, there's a Smokey sitting in that northbound scale house watching you as you go by.
+
+538
+00:39:23,940 --> 00:39:25,520
+That's a 10-4, good buddy.
+
+539
+00:39:27,960 --> 00:39:30,740
+According to Smokey and the Bandit director Hal Needham,
+
+540
+00:39:31,060 --> 00:39:37,740
+one of two 1977 Trans Ams provided by Pontiac was destroyed during a stunt as it jumped a river.
+
+541
+00:39:38,440 --> 00:39:40,640
+70s Tech will return on Modern Marvels.
+
+542
+00:39:42,740 --> 00:39:46,740
+X-T-R-A, that is right.
+
+543
+00:39:46,741 --> 00:39:50,720
+Some technologies from the 1970s have stood the test of time,
+
+544
+00:39:51,580 --> 00:39:54,140
+evolving into gadgets we now can't live without.
+
+545
+00:39:54,480 --> 00:39:56,420
+Make a U-turn, if possible.
+
+546
+00:39:58,100 --> 00:40:01,360
+Others had a shelf life as brief as the streaking craze.
+
+547
+00:40:02,840 --> 00:40:04,240
+Remember the leisure suit?
+
+548
+00:40:04,660 --> 00:40:05,760
+The pet rock?
+
+549
+00:40:06,420 --> 00:40:07,700
+And mood rings?
+
+550
+00:40:08,920 --> 00:40:11,560
+Rare is the gadget that transcends its medium
+
+551
+00:40:11,561 --> 00:40:13,360
+and becomes a national obsession.
+
+552
+00:40:13,361 --> 00:40:17,500
+But that's what happened in the 1970s with the Citizens Band
+
+553
+00:40:17,600 --> 00:40:18,400
+radio.
+
+554
+00:40:18,500 --> 00:40:23,300
+In a decade in which few had car phones,
+
+555
+00:40:23,400 --> 00:40:25,800
+the CB became the official mouthpiece
+
+556
+00:40:25,900 --> 00:40:28,700
+for the American motorist.
+
+557
+00:40:28,800 --> 00:40:30,880
+Grabbing a CB radio was the equivalent
+
+558
+00:40:30,980 --> 00:40:33,620
+to shooting the breeze in an internet chat room.
+
+559
+00:40:33,720 --> 00:40:37,420
+Drivers had their own nicknames or handles.
+
+560
+00:40:37,520 --> 00:40:41,420
+Well, mine was Big Bob, and then there was Nasty, Smelly.
+
+561
+00:40:41,421 --> 00:40:47,500
+smelly you know there's even stinky and spoke their own unique slanguage
+
+562
+00:40:49,020 --> 00:40:52,780
+how about over our southbound what's going on at the chicken house up our new tucker
+
+563
+00:40:55,980 --> 00:41:01,180
+copy that good buddy today's truckers mimic the slang used by their 70s brethren
+
+564
+00:41:02,380 --> 00:41:09,100
+but the cb airwaves aren't quite as clogged in the 1970s americans snapped up an average of
+
+565
+00:41:09,101 --> 00:41:13,340
+seven million CB radios a year.
+
+566
+00:41:13,341 --> 00:41:15,100
+In those days, everybody went down the highway
+
+567
+00:41:15,101 --> 00:41:17,340
+with one of those flagships flying around.
+
+568
+00:41:17,341 --> 00:41:18,700
+They were talking to everybody.
+
+569
+00:41:18,701 --> 00:41:19,820
+They were talking to Grandma.
+
+570
+00:41:19,821 --> 00:41:23,820
+I had my grandmother on a CB, you know?
+
+571
+00:41:23,821 --> 00:41:27,580
+A CB radio operates like any other radio transmitter.
+
+572
+00:41:27,581 --> 00:41:31,340
+It has 40 channels and broadcasts over a narrow bandwidth,
+
+573
+00:41:31,341 --> 00:41:35,260
+between 24 and 27 megahertz.
+
+574
+00:41:35,261 --> 00:41:37,740
+But unlike the transmitter of a radio station,
+
+575
+00:41:37,741 --> 00:41:40,000
+which broadcasts from a tall antenna tower,
+
+576
+00:41:40,580 --> 00:41:42,360
+a CB radio has a short antenna,
+
+577
+00:41:43,020 --> 00:41:44,940
+typically measuring only 10 feet tall.
+
+578
+00:41:46,200 --> 00:41:49,280
+This limits its broadcast range to about 5 miles.
+
+579
+00:41:52,520 --> 00:41:55,620
+In 1974, when the interstate speed limit
+
+580
+00:41:55,621 --> 00:41:58,320
+was lowered from 70 to 55 miles per hour,
+
+581
+00:41:58,960 --> 00:42:01,060
+the CB radio became the secret weapon
+
+582
+00:42:01,061 --> 00:42:02,600
+for clock-conscious truckers.
+
+583
+00:42:03,640 --> 00:42:06,320
+The truckers were interested in going
+
+584
+00:42:06,321 --> 00:42:12,360
+more than 55 miles an hour, so they were looking for the CB to spot radar traps, and they were
+
+585
+00:42:12,361 --> 00:42:16,380
+communicating between each other where the radar speed traps were.
+
+586
+00:42:18,380 --> 00:42:24,960
+By 1975, pop culture had embraced CB radios, inspiring the four-wheeling motorists to jump
+
+587
+00:42:24,961 --> 00:42:26,580
+on board the CB bandwagon.
+
+588
+00:42:29,680 --> 00:42:35,240
+CB radio companies like Midland in Kansas City, Missouri, started churning out sets faster
+
+589
+00:42:35,241 --> 00:42:36,880
+that a trucker could lay the hammer down.
+
+590
+00:42:42,720 --> 00:42:47,920
+This particular CB model was one of our early 23-channel CB radios
+
+591
+00:42:47,921 --> 00:42:51,380
+and was targeted to the four-wheel driver.
+
+592
+00:42:51,381 --> 00:42:55,820
+It would be common to find it in Panto, Chevette, Gremlin, car like that.
+
+593
+00:42:56,680 --> 00:42:59,740
+Early 70s retail price on this was around $100.
+
+594
+00:42:59,741 --> 00:43:06,780
+As with most fads, the CB phenomenon gradually bugged out.
+
+595
+00:43:07,600 --> 00:43:11,340
+By the 1980s, four-wheelers swapped their CB radios for cell phones,
+
+596
+00:43:11,920 --> 00:43:16,100
+and the CB radio returned to its rightful owner, the trucker.
+
+597
+00:43:17,260 --> 00:43:18,580
+That's a Big Ten 4.
+
+598
+00:43:21,440 --> 00:43:26,640
+The far-out technology of the 70s reached far enough out to leave an enduring legacy.
+
+599
+00:43:26,641 --> 00:43:31,640
+Yesterday's 70s toy is today's talking computer.
+
+600
+00:43:31,641 --> 00:43:34,640
+In a quarter mile, make a left turn.
+
+601
+00:43:34,641 --> 00:43:37,640
+The technology in that 70s handheld game
+
+602
+00:43:37,641 --> 00:43:40,640
+now lights up your big screen TV.
+
+603
+00:43:40,641 --> 00:43:44,640
+The iconic gadgets of the 70s may seem simple,
+
+604
+00:43:44,641 --> 00:43:47,640
+but they've spawned a complex assortment of technologies
+
+605
+00:43:47,641 --> 00:43:49,640
+that continue to enrich our lives.
+

@@ -1,0 +1,45 @@
+# Credit Roll: Egyptian Pyramids (2003)
+**Canonical Episode:** [`MME00352: Egyptian Pyramids`](../episodes/MME00352.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 2003 A&E Television Networks`
+* **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY CHANNEL
+* **Narrator:** MAX RAPHAEL, MELANIE PIPES
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Animation by** | GLENN TAKAKJIAN |
+| **Assistant Accountants** | SHERIDAN LIU, DENNIS LUCIANI |
+| **Assistant Editors** | TAYLOR GREATHEAD, ALISON TUSAN |
+| **Associate Producer** | TAMARA PHILLIPS |
+| **Camera** | AYMAN ATEF, TONY FLANAGAN, ERIC SANTIAGO |
+| **Clearance Supervisor** | KATIE DEL CORE |
+| **Coordinator** | ROSALYN McVAY |
+| **Created by** | BRUCE NASH |
+| **Director of Research** | ANTHONY LACQUES |
+| **Edited by** | BRIAN JOHNSON |
+| **Executive Producer** | BETH DIETRICH-SEGARRA, DON CAMBOU |
+| **Field Audio** | JAMES FAIR, ROB MAERZ, ABDEL HAKIM SOLIMAN |
+| **Field Producer** | DOUG MILLER |
+| **Historical Consultant** | DR. LAWRENCE BERMAN |
+| **Line Producer** | PAUL DZILVELIS |
+| **Music by** | GUY THOMAS |
+| **Narrated by** | MAX RAPHAEL |
+| **Online Editor** | CHUCK CREWS |
+| **Post Assistant** | ALEXANDER RUBINOW |
+| **Post Coordinator** | LAURA STEINHOFF |
+| **Post Producer** | LAUREN LEVINE |
+| **Producer** | BRUCE NASH |
+| **Production Auditor** | DANI ESLIN |
+| **Production Manager** | SHELIA COLLINS |
+| **Production Manager-Egypt** | HISHAM GOHAR |
+| **Researcher / Voice Over Coordinator** | MELANIE PIPES |
+| **Sound Mixer** | PAUL RAY |
+| **Written and Produced by** | LEE FULKERSON |
+
+---
+[← Return to Episode Dossier](../episodes/MME00352.md)

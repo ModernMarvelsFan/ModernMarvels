@@ -1,0 +1,3188 @@
+1
+00:00:23,160 --> 00:00:27,120
+In 1929, the Grav Zeppelin flew around the world
+
+2
+00:00:27,121 --> 00:00:31,760
+with 20 passengers, almost four years before the first solo
+
+3
+00:00:31,860 --> 00:00:34,720
+flight around the globe by an airplane.
+
+4
+00:00:34,820 --> 00:00:37,500
+For 12 and 1 1 days, the Graf's passengers
+
+5
+00:00:37,600 --> 00:00:43,600
+dined on gourmet meals, listened to music,
+
+6
+00:00:43,700 --> 00:00:47,000
+and looked out the window as they passed leisurely over regions
+
+7
+00:00:47,100 --> 00:00:51,820
+that no human being had ever seen from the air before.
+
+8
+00:00:51,920 --> 00:00:56,240
+This was airship travel at its peak, an evolutionary voyage
+
+9
+00:00:56,241 --> 00:00:59,540
+that began with a basic balloon and a lot of hot air.
+
+10
+00:01:03,480 --> 00:01:07,920
+Man tried to fly for 5,000 years before he finally
+
+11
+00:01:08,020 --> 00:01:10,560
+hit on the idea of the balloon.
+
+12
+00:01:10,660 --> 00:01:14,020
+With no place to go but up in 1783,
+
+13
+00:01:14,120 --> 00:01:17,700
+the Montgolfier brothers created the first balloon that rose
+
+14
+00:01:17,800 --> 00:01:20,940
+under its own power, hot air.
+
+15
+00:01:21,040 --> 00:01:24,000
+They were constantly going around with sponges and water
+
+16
+00:01:24,100 --> 00:01:25,900
+to put out small fires.
+
+17
+00:01:25,901 --> 00:01:29,200
+In December of that year, French chemist J.A. Charles
+
+18
+00:01:29,300 --> 00:01:33,300
+made the first manned flight in a balloon filled with hydrogen,
+
+19
+00:01:33,400 --> 00:01:36,140
+a much lighter source of lift.
+
+20
+00:01:36,240 --> 00:01:39,320
+It was about seven times lighter than air.
+
+21
+00:01:39,420 --> 00:01:41,520
+And it didn't take much to figure out
+
+22
+00:01:41,620 --> 00:01:43,780
+that that would help support flight,
+
+23
+00:01:43,880 --> 00:01:45,320
+and especially manned flight.
+
+24
+00:01:45,420 --> 00:01:48,060
+But hydrogen was considered flammable air
+
+25
+00:01:48,160 --> 00:01:51,120
+because it burns furiously, especially
+
+26
+00:01:51,220 --> 00:01:54,460
+when mixed with oxygen.
+
+27
+00:01:54,461 --> 00:01:56,900
+The problem now facing the early aeronauts
+
+28
+00:01:57,000 --> 00:01:59,300
+was how to contain the lighter than air,
+
+29
+00:01:59,400 --> 00:02:02,700
+highly flammable hydrogen gas.
+
+30
+00:02:02,800 --> 00:02:06,200
+Fabric technology has had progressed by that time,
+
+31
+00:02:06,300 --> 00:02:08,540
+and they were starting to rubber coat balloons.
+
+32
+00:02:08,640 --> 00:02:11,980
+They found out once you flew, let's go somewhere.
+
+33
+00:02:12,080 --> 00:02:13,280
+We want to fly.
+
+34
+00:02:13,380 --> 00:02:15,820
+The balloon itself was a pretty limited vehicle.
+
+35
+00:02:15,920 --> 00:02:17,580
+After all, you couldn't steer it.
+
+36
+00:02:17,680 --> 00:02:20,120
+It simply floated to wherever the wind dug it.
+
+37
+00:02:20,220 --> 00:02:21,980
+A handful of aviators believe
+
+38
+00:02:22,080 --> 00:02:23,820
+that the best hope for controlled flight
+
+39
+00:02:23,821 --> 00:02:29,560
+was a motorized steerable balloon, or dirigible.
+
+40
+00:02:29,660 --> 00:02:32,100
+Among them was a dashing young Brazilian balloonist
+
+41
+00:02:32,200 --> 00:02:35,000
+named Alberto Santos Dumont, who said
+
+42
+00:02:35,100 --> 00:02:38,200
+trying to propel a dirigible balloon through the air
+
+43
+00:02:38,300 --> 00:02:42,500
+is like pushing a candle through a brick wall.
+
+44
+00:02:42,600 --> 00:02:46,180
+In 1884, two members of the French Army's Balloon Corps
+
+45
+00:02:46,280 --> 00:02:48,780
+achieved an aeronautical first when
+
+46
+00:02:48,880 --> 00:02:51,180
+they navigated their electric-powered balloon
+
+47
+00:02:51,181 --> 00:02:55,920
+back to its original starting point against the wind.
+
+48
+00:02:56,020 --> 00:02:57,980
+The 23-minute flight was cut short
+
+49
+00:02:58,080 --> 00:03:03,020
+by the limited life of the engine's 500-pound batteries.
+
+50
+00:03:03,120 --> 00:03:06,060
+Engine weight haunted the airship pioneers.
+
+51
+00:03:06,160 --> 00:03:08,100
+The challenge now was to create a balloon that
+
+52
+00:03:08,200 --> 00:03:11,700
+was not only steerable, but streamlined and strong enough
+
+53
+00:03:11,800 --> 00:03:14,940
+to lift men and machines.
+
+54
+00:03:15,040 --> 00:03:20,280
+By 1897, Santos Dumont began work on his first airship.
+
+55
+00:03:20,281 --> 00:03:23,480
+Santos made a great leap forward in engine technology
+
+56
+00:03:23,580 --> 00:03:28,080
+using a motorcycle-type motor for his airship
+
+57
+00:03:28,180 --> 00:03:31,620
+and did some innovative work in propeller design
+
+58
+00:03:31,720 --> 00:03:34,220
+that gave his ship greater efficiency.
+
+59
+00:03:34,320 --> 00:03:37,200
+It was a smaller engine, giving him more lift,
+
+60
+00:03:37,300 --> 00:03:39,760
+available lift for payload or for passengers.
+
+61
+00:03:39,860 --> 00:03:42,640
+In order to maintain the internal gas pressure
+
+62
+00:03:42,740 --> 00:03:45,440
+of the elongated and egg-shaped balloons,
+
+63
+00:03:45,540 --> 00:03:48,980
+aerial pioneers added ballonets, or airbags,
+
+64
+00:03:48,981 --> 00:03:51,920
+that expand and contract to compensate for changes
+
+65
+00:03:52,020 --> 00:03:55,420
+in the pressure of the lifting gas.
+
+66
+00:03:55,520 --> 00:03:58,920
+This basic principle is still used in dirigibles or blimps
+
+67
+00:03:59,020 --> 00:04:00,520
+today.
+
+68
+00:04:00,620 --> 00:04:03,220
+Soon, the French added a rigid load-bearing keel
+
+69
+00:04:03,320 --> 00:04:06,540
+to the elongated balloon to help distribute the enormous weight
+
+70
+00:04:06,640 --> 00:04:10,040
+of the early electric and steam engines.
+
+71
+00:04:10,140 --> 00:04:13,740
+These semi-rigid airships were quite successful
+
+72
+00:04:13,840 --> 00:04:16,840
+and used as military lookouts.
+
+73
+00:04:16,841 --> 00:04:19,440
+And then a man by the name of Count Zeppelin came along
+
+74
+00:04:19,540 --> 00:04:20,740
+and said, well, what would happen
+
+75
+00:04:20,840 --> 00:04:23,340
+if we took a whole bunch of balloons and put them together
+
+76
+00:04:23,440 --> 00:04:25,340
+and put a framework around them?
+
+77
+00:04:25,440 --> 00:04:29,580
+And from that was born the Zeppelin airship.
+
+78
+00:04:29,680 --> 00:04:34,400
+On July 2, 1900, a feisty Count Ferdinand von Zeppelin
+
+79
+00:04:34,500 --> 00:04:39,260
+staked his fortune and reputation on a crazy idea.
+
+80
+00:04:39,360 --> 00:04:41,940
+Three years before the Wright brothers' first flight,
+
+81
+00:04:42,040 --> 00:04:45,260
+the Count's first rigid airship took flight over Lake Constance
+
+82
+00:04:45,261 --> 00:04:47,020
+in southern Germany.
+
+83
+00:04:47,120 --> 00:04:52,460
+It flew for 18 minutes and a distance of 3 and 1 half miles.
+
+84
+00:04:52,560 --> 00:04:58,000
+The LZ-1 for Luftschiff Zeppelin I was 416 feet long,
+
+85
+00:04:58,100 --> 00:05:01,840
+38 and 1 half feet in diameter, and had a lifting capacity
+
+86
+00:05:01,940 --> 00:05:04,840
+of more than 27,000 pounds.
+
+87
+00:05:04,940 --> 00:05:06,140
+How did he do it?
+
+88
+00:05:06,240 --> 00:05:08,480
+Rather than fill one airbag with hydrogen
+
+89
+00:05:08,580 --> 00:05:12,920
+as his predecessors had, the count inflated 17 large gas
+
+90
+00:05:12,921 --> 00:05:16,420
+and enclosed them in a rigid aerodynamic structure
+
+91
+00:05:16,520 --> 00:05:19,720
+of aluminum alloy, or deraumine.
+
+92
+00:05:19,820 --> 00:05:22,100
+The airship was powered by two engines
+
+93
+00:05:22,200 --> 00:05:25,960
+with the combined horsepower of a Volkswagen Beetle.
+
+94
+00:05:26,060 --> 00:05:28,000
+At the turn of the century, it was the invention
+
+95
+00:05:28,100 --> 00:05:30,340
+of the internal combustion engine
+
+96
+00:05:30,440 --> 00:05:34,180
+that helped make the Count's dream of a rigid airship a reality.
+
+97
+00:05:34,280 --> 00:05:37,640
+But they were expensive to build.
+
+98
+00:05:37,740 --> 00:05:39,880
+The German military said if Count Zeppelin
+
+99
+00:05:39,881 --> 00:05:43,020
+if Count Zeppelin can keep his airship in the air
+
+100
+00:05:43,021 --> 00:05:46,720
+for 24 hours endurance, that they would be willing to purchase
+
+101
+00:05:46,721 --> 00:05:49,220
+then his next airship.
+
+102
+00:05:49,221 --> 00:05:51,860
+During one 24-hour endurance flight,
+
+103
+00:05:51,861 --> 00:05:54,460
+Count von Zeppelin experienced engine trouble
+
+104
+00:05:54,461 --> 00:05:57,640
+and put the airship down near the Daimler Engine Works
+
+105
+00:05:57,641 --> 00:05:59,200
+and went to launch.
+
+106
+00:05:59,201 --> 00:06:02,240
+It would prove fortuitous.
+
+107
+00:06:02,241 --> 00:06:06,600
+In the meantime, a storm came and blew the airship away.
+
+108
+00:06:06,601 --> 00:06:09,200
+Most unfortunate for the Count, because it didn't fulfill
+
+109
+00:06:09,201 --> 00:06:14,000
+24-hour endurance requirement for government sponsorship.
+
+110
+00:06:14,001 --> 00:06:17,640
+But what happened was a spontaneous flood of donations
+
+111
+00:06:17,641 --> 00:06:21,620
+came from the German people to help pay for the next airship.
+
+112
+00:06:21,621 --> 00:06:24,320
+He received about 7.5 million gold marks
+
+113
+00:06:24,321 --> 00:06:27,880
+from the loss of his ship and from all the donations that
+
+114
+00:06:27,881 --> 00:06:30,620
+came in to build the Zeppelin company
+
+115
+00:06:30,621 --> 00:06:32,360
+and to build future airships.
+
+116
+00:06:32,361 --> 00:06:34,260
+That was a technical marvel.
+
+117
+00:06:34,261 --> 00:06:37,020
+As the Zeppelin began to work the bugs out
+
+118
+00:06:37,021 --> 00:06:39,720
+and began to be used more or less routinely.
+
+119
+00:06:39,820 --> 00:06:43,560
+Just before World War I, there was a German Zeppelin
+
+120
+00:06:43,660 --> 00:06:45,760
+commercial service called the DeLag.
+
+121
+00:06:45,860 --> 00:06:47,460
+The different Zeppelins of the DeLag
+
+122
+00:06:47,560 --> 00:06:49,560
+were making what we would call joyrides.
+
+123
+00:06:49,660 --> 00:06:51,860
+You have to remember, aviation was totally new.
+
+124
+00:06:51,960 --> 00:06:55,980
+And people really paid for their flights simply
+
+125
+00:06:56,080 --> 00:07:01,280
+to have a bird's eye view of the city or town which they lived in.
+
+126
+00:07:01,380 --> 00:07:02,680
+What's interesting to note, though,
+
+127
+00:07:02,780 --> 00:07:06,120
+is a number of the passengers were not Germans.
+
+128
+00:07:06,121 --> 00:07:09,060
+The enthusiasm of taking a flight on an airship
+
+129
+00:07:09,160 --> 00:07:13,220
+had reached virtually every corner of the world.
+
+130
+00:07:13,320 --> 00:07:16,400
+By 1914, the Daylog airships carried more
+
+131
+00:07:16,500 --> 00:07:21,340
+than 34,000 passengers, over 100,000 miles.
+
+132
+00:07:21,440 --> 00:07:25,240
+Without a single accident, it was an economical success.
+
+133
+00:07:30,240 --> 00:07:33,420
+With the start of World War I, the Daylog commercial service
+
+134
+00:07:33,421 --> 00:07:38,420
+came to an end, and Zeppelins were used for military purposes.
+
+135
+00:07:38,520 --> 00:07:43,000
+The Zeppelin was touted as the great secret weapon
+
+136
+00:07:43,100 --> 00:07:46,060
+that was going to revolutionize warfare.
+
+137
+00:07:46,160 --> 00:07:49,440
+The German rigid airships reigned supreme.
+
+138
+00:07:49,540 --> 00:07:52,240
+Capable of flying above 11,000 feet,
+
+139
+00:07:52,340 --> 00:07:55,500
+they were well out of the range of ground-based anti-aircraft
+
+140
+00:07:55,600 --> 00:07:59,680
+guns, and not a single airship was lost to enemy fire.
+
+141
+00:07:59,780 --> 00:08:02,540
+The German military ordered 26 airships
+
+142
+00:08:02,541 --> 00:08:04,200
+during the first year of the war,
+
+143
+00:08:04,300 --> 00:08:07,420
+and the Zeppelin company went into high gear.
+
+144
+00:08:07,520 --> 00:08:09,780
+They were producing a rigid airship basically every two
+
+145
+00:08:09,880 --> 00:08:13,780
+weeks off of one of the factories somewhere in Germany.
+
+146
+00:08:13,880 --> 00:08:18,060
+It takes a million rivets to produce one airship.
+
+147
+00:08:18,160 --> 00:08:21,100
+It also takes 700,000 skins, that
+
+148
+00:08:21,200 --> 00:08:24,100
+is the internal intestines of a cow,
+
+149
+00:08:24,200 --> 00:08:27,100
+to make all the gas bags for one airship.
+
+150
+00:08:27,200 --> 00:08:29,940
+It was a huge wartime effort.
+
+151
+00:08:30,040 --> 00:08:32,240
+Zeppelins were used by the German military
+
+152
+00:08:32,241 --> 00:08:35,280
+for reconnaissance, as well as bombing raids
+
+153
+00:08:35,380 --> 00:08:36,880
+over Great Britain.
+
+154
+00:08:36,980 --> 00:08:39,640
+They were above the clouds oftentimes.
+
+155
+00:08:39,740 --> 00:08:42,980
+They did try using radio as a means of navigation.
+
+156
+00:08:43,080 --> 00:08:46,480
+And many a raid took place by Zeppelin,
+
+157
+00:08:46,580 --> 00:08:49,360
+in which the commander would report that he raided this place
+
+158
+00:08:49,460 --> 00:08:51,300
+or that place, and he was nowhere near it.
+
+159
+00:08:51,400 --> 00:08:53,060
+There was no bombing accuracy.
+
+160
+00:08:53,160 --> 00:08:54,200
+On the other hand, the airships
+
+161
+00:08:54,300 --> 00:08:56,940
+did a large amount of reconnaissance work,
+
+162
+00:08:57,040 --> 00:08:59,740
+basically flying over the sea, watching out
+
+163
+00:08:59,840 --> 00:09:02,240
+for the British Navy.
+
+164
+00:09:02,241 --> 00:09:06,880
+As the war escalated, the Germans built lighter and lighter airships,
+
+165
+00:09:06,881 --> 00:09:10,840
+capable of operating at an altitude of 20,000 feet.
+
+166
+00:09:10,841 --> 00:09:15,420
+Frustrated by their lack of rigid airship technology,
+
+167
+00:09:15,421 --> 00:09:18,320
+the British concentrated on building fighter planes,
+
+168
+00:09:18,321 --> 00:09:21,500
+capable of climbing to 22,000 feet,
+
+169
+00:09:21,501 --> 00:09:25,660
+and ammunition that could bring the high-flying Zeppelins down.
+
+170
+00:09:25,661 --> 00:09:29,660
+The thing that really did the airships in during the First World War
+
+171
+00:09:29,661 --> 00:09:32,600
+by the British of the so-called incendiary bullet.
+
+172
+00:09:32,700 --> 00:09:35,540
+A bullet like this hitting an airship filled with hydrogen
+
+173
+00:09:35,640 --> 00:09:38,300
+meant one bullet was all it took to bring an airship
+
+174
+00:09:38,400 --> 00:09:40,340
+down in flames.
+
+175
+00:09:40,440 --> 00:09:42,680
+It was not the great Zeppelin airships
+
+176
+00:09:42,780 --> 00:09:46,280
+that revolutionized warfare in World War I.
+
+177
+00:09:46,380 --> 00:09:49,820
+Instead, it turned out to be a small incendiary bullet.
+
+178
+00:09:53,420 --> 00:09:57,460
+In March of 1917, at the age of 78,
+
+179
+00:09:57,461 --> 00:10:01,260
+In 1978, Count von Zeppelin died.
+
+180
+00:10:01,360 --> 00:10:04,260
+Two Zeppelins dropped flowers as his coffin
+
+181
+00:10:04,360 --> 00:10:05,560
+was lowered into the earth.
+
+182
+00:10:11,700 --> 00:10:15,120
+At the end of World War I, the great German Zeppelin company
+
+183
+00:10:15,220 --> 00:10:17,620
+was forbidden from building any more airships
+
+184
+00:10:17,720 --> 00:10:20,080
+by the Treaty of Versailles.
+
+185
+00:10:20,180 --> 00:10:22,560
+The remaining Zeppelin airships were to be divided up
+
+186
+00:10:22,660 --> 00:10:24,480
+among the Allies.
+
+187
+00:10:24,481 --> 00:10:27,480
+airship crews basically destroyed the majority
+
+188
+00:10:27,580 --> 00:10:30,720
+of the airships in their hangars before the treaty
+
+189
+00:10:30,820 --> 00:10:32,620
+went into effect.
+
+190
+00:10:32,720 --> 00:10:35,560
+The airships that the Germans did give over, for example,
+
+191
+00:10:35,660 --> 00:10:38,600
+to the French, they didn't give them the technology
+
+192
+00:10:38,700 --> 00:10:41,700
+as to how to operate them and how to maintain them.
+
+193
+00:10:41,800 --> 00:10:44,700
+That they kept unto themselves.
+
+194
+00:10:44,800 --> 00:10:48,140
+By 1921, the United States was interested in getting
+
+195
+00:10:48,240 --> 00:10:49,800
+its own airship.
+
+196
+00:10:49,900 --> 00:10:51,440
+They ordered a British-built version
+
+197
+00:10:51,540 --> 00:10:53,740
+of the high-flying German airships.
+
+198
+00:10:53,741 --> 00:10:57,980
+And during the final stress test at sea, the R-38 snapped in two,
+
+199
+00:10:58,080 --> 00:11:00,480
+killing 44 sailors.
+
+200
+00:11:00,580 --> 00:11:02,740
+The airship's light frame buckled under the pressure
+
+201
+00:11:02,840 --> 00:11:05,180
+of high-speed turns.
+
+202
+00:11:05,280 --> 00:11:08,480
+Despite considerable apprehension from the Allies,
+
+203
+00:11:08,580 --> 00:11:11,220
+the United States ordered an airship from the cash-strapped
+
+204
+00:11:11,320 --> 00:11:14,360
+Zeppelin Company as part of war reparations.
+
+205
+00:11:14,460 --> 00:11:18,200
+The ship was to be delivered in 1922.
+
+206
+00:11:18,300 --> 00:11:20,360
+In the meantime, the Americans decided
+
+207
+00:11:20,460 --> 00:11:22,260
+to build their own airship.
+
+208
+00:11:22,261 --> 00:11:24,300
+They would call it the Shenandoah.
+
+209
+00:11:24,400 --> 00:11:27,660
+During the war, a German Zeppelin came down in France,
+
+210
+00:11:27,760 --> 00:11:30,100
+and the Allies had a chance to inspect it.
+
+211
+00:11:30,200 --> 00:11:32,000
+This was the L-49.
+
+212
+00:11:32,100 --> 00:11:35,000
+And as a result, they generated some drawings.
+
+213
+00:11:35,100 --> 00:11:37,600
+The Navy acquired these drawings and basically
+
+214
+00:11:37,700 --> 00:11:40,820
+built their own Zeppelin in Philadelphia.
+
+215
+00:11:40,920 --> 00:11:44,380
+The technology was very much World War I technology
+
+216
+00:11:44,480 --> 00:11:45,820
+on the Shenandoah.
+
+217
+00:11:45,920 --> 00:11:48,620
+There were some American refinements and improvements.
+
+218
+00:11:48,720 --> 00:11:51,260
+And of course, it flew with helium, not hydrogen.
+
+219
+00:11:51,261 --> 00:11:55,460
+Helium is an inert gas first discovered in a few Texas oil
+
+220
+00:11:55,560 --> 00:11:56,500
+wells.
+
+221
+00:11:56,600 --> 00:12:01,600
+In 1922, the gas was in short supply and very expensive.
+
+222
+00:12:01,700 --> 00:12:04,440
+And even though helium provided less lift than hydrogen,
+
+223
+00:12:04,540 --> 00:12:08,640
+its primary advantage was that it does not burn.
+
+224
+00:12:08,740 --> 00:12:11,440
+The golden age of airships had begun.
+
+225
+00:12:11,540 --> 00:12:14,380
+The Shenandoah's first flight from Lakehurst, New Jersey,
+
+226
+00:12:14,480 --> 00:12:18,620
+marked the beginning of the era of American rigid airships.
+
+227
+00:12:18,621 --> 00:12:21,020
+Americans were enchanted by the ship's flights
+
+228
+00:12:21,120 --> 00:12:22,220
+around the country.
+
+229
+00:12:22,320 --> 00:12:25,260
+She was hailed as the forerunner to a commercial passenger
+
+230
+00:12:25,360 --> 00:12:26,420
+airship.
+
+231
+00:12:26,520 --> 00:12:29,260
+However, her service was cut short.
+
+232
+00:12:29,360 --> 00:12:32,860
+In 1925, the Shenandoah got caught in a severe Midwest
+
+233
+00:12:32,960 --> 00:12:35,540
+thunderstorm and broke in half.
+
+234
+00:12:35,640 --> 00:12:38,980
+The 210-foot-long forward section carrying seven men
+
+235
+00:12:39,080 --> 00:12:41,380
+shot up to 10,000 feet.
+
+236
+00:12:41,480 --> 00:12:43,320
+Lieutenant Commander Charles Rosendahl
+
+237
+00:12:43,420 --> 00:12:45,480
+figured he could fly what was left of the airship
+
+238
+00:12:45,580 --> 00:12:48,620
+under the same principles as a balloon.
+
+239
+00:12:48,621 --> 00:12:51,120
+By dumping gasoline and valving off helium,
+
+240
+00:12:51,220 --> 00:12:54,020
+he was able to fly what was left of the ship for almost two
+
+241
+00:12:54,120 --> 00:12:58,000
+hours before the forward section of the Shenandoah crashed.
+
+242
+00:12:58,100 --> 00:13:02,100
+While badly injured, Rosendahl and his six men survived.
+
+243
+00:13:02,200 --> 00:13:03,840
+14 others died.
+
+244
+00:13:11,080 --> 00:13:14,080
+In October of 1924, Americans were
+
+245
+00:13:14,180 --> 00:13:17,440
+able to get their first look at their second rigid airship,
+
+246
+00:13:17,441 --> 00:13:21,580
+the German-built LZ-126.
+
+247
+00:13:21,680 --> 00:13:23,480
+This was the state-of-the-art airship
+
+248
+00:13:23,580 --> 00:13:25,480
+design for the 1920s.
+
+249
+00:13:25,580 --> 00:13:27,280
+And the Germans believed it would be the last Zeppelin
+
+250
+00:13:27,380 --> 00:13:28,380
+they would ever build.
+
+251
+00:13:28,480 --> 00:13:31,180
+So they put extra care into its construction.
+
+252
+00:13:31,280 --> 00:13:35,360
+The LZ-126 was the vision of Dr. Hugo Eckner,
+
+253
+00:13:35,460 --> 00:13:38,560
+a business-savvy and cautious Zeppelin pilot who
+
+254
+00:13:38,660 --> 00:13:42,140
+took over the company after Count von Zeppelin's death.
+
+255
+00:13:42,240 --> 00:13:45,500
+His favorite task was using the Zeppelin
+
+256
+00:13:45,501 --> 00:13:48,500
+as a means of increasing friendship between nations.
+
+257
+00:13:48,501 --> 00:13:52,500
+To him, the Zeppelin provided this means
+
+258
+00:13:52,501 --> 00:13:55,500
+of international trade and commerce.
+
+259
+00:13:55,501 --> 00:13:59,500
+Eichner was a very unique businessman,
+
+260
+00:13:59,501 --> 00:14:02,500
+and that is very evident through the LZ-126,
+
+261
+00:14:02,501 --> 00:14:04,500
+because when the ship was completed
+
+262
+00:14:04,501 --> 00:14:07,500
+and due to make its flight to the United States,
+
+263
+00:14:07,501 --> 00:14:10,500
+no insurance company was willing to take the risk.
+
+264
+00:14:10,501 --> 00:14:13,500
+But he was so sure of the technology of that airship
+
+265
+00:14:13,501 --> 00:14:15,940
+and that the flight would be successful,
+
+266
+00:14:15,941 --> 00:14:19,100
+that he said, OK, we will ensure the flight ourselves.
+
+267
+00:14:19,101 --> 00:14:22,080
+But he knew that the whole future of the Zeppelin cause
+
+268
+00:14:22,081 --> 00:14:23,540
+was at stake.
+
+269
+00:14:23,541 --> 00:14:25,640
+He had to deliver that airship.
+
+270
+00:14:25,641 --> 00:14:27,640
+He took the risk, and it paid off.
+
+271
+00:14:27,641 --> 00:14:30,580
+But he did land with very few gallons of fuel in the tank.
+
+272
+00:14:30,581 --> 00:14:32,220
+Upon his arrival in the States,
+
+273
+00:14:32,221 --> 00:14:34,880
+Eckner took a leisurely flight over Manhattan
+
+274
+00:14:34,881 --> 00:14:37,400
+before delivering the ship to the Navy base
+
+275
+00:14:37,401 --> 00:14:39,920
+in Lakehurst, New Jersey.
+
+276
+00:14:39,921 --> 00:14:42,820
+The Navy immediately replaced the ship's hydrogen
+
+277
+00:14:42,821 --> 00:14:48,560
+with non-flammable helium and renamed her Los Angeles.
+
+278
+00:14:48,660 --> 00:14:51,320
+You know, I see this thing in front of the hangar coming in.
+
+279
+00:14:51,420 --> 00:14:52,560
+I didn't know what the heck I saw.
+
+280
+00:14:52,660 --> 00:14:54,360
+It was so big.
+
+281
+00:14:54,460 --> 00:14:58,360
+I mean, it looked like a mountain was floating in there.
+
+282
+00:14:58,460 --> 00:15:02,040
+It was given to the Navy to use for experimental and training
+
+283
+00:15:02,140 --> 00:15:03,380
+purposes.
+
+284
+00:15:03,480 --> 00:15:06,580
+And it wasn't supposed to be used for war purposes
+
+285
+00:15:06,680 --> 00:15:07,720
+or anything like that.
+
+286
+00:15:07,820 --> 00:15:10,580
+The Los Angeles went on to have a long and distinguished
+
+287
+00:15:10,581 --> 00:15:12,380
+as a Navy training ship.
+
+288
+00:15:12,480 --> 00:15:15,620
+She flew more than 4,000 hours, the most
+
+289
+00:15:15,720 --> 00:15:17,520
+of any American rigid airship.
+
+290
+00:15:20,160 --> 00:15:22,800
+While the Germans were trying to reestablish a tradition
+
+291
+00:15:22,900 --> 00:15:25,600
+of building rigid airships, the British were having trouble
+
+292
+00:15:25,700 --> 00:15:27,160
+with their designs.
+
+293
+00:15:27,260 --> 00:15:30,700
+Using downed zeppelins from World War I as models,
+
+294
+00:15:30,800 --> 00:15:32,540
+their technology was dated.
+
+295
+00:15:32,640 --> 00:15:34,680
+Nevertheless, in 1930, the British
+
+296
+00:15:34,780 --> 00:15:37,380
+rolled out one of the most unique airships to date.
+
+297
+00:15:37,381 --> 00:15:42,380
+the R101 featured promenades and panoramic views.
+
+298
+00:15:42,480 --> 00:15:44,660
+At the last minute, an additional airbag
+
+299
+00:15:44,760 --> 00:15:47,820
+was needed in order to lift the lavish ship.
+
+300
+00:15:47,920 --> 00:15:50,060
+The British seemed to have a flair
+
+301
+00:15:50,160 --> 00:15:54,300
+for putting on too many things that were not necessary.
+
+302
+00:15:54,400 --> 00:15:57,960
+A ship's bell, for example, that probably weighed 20,
+
+303
+00:15:58,060 --> 00:16:01,800
+40 pounds, things like that added up very quickly.
+
+304
+00:16:01,900 --> 00:16:04,500
+54 passengers boarded the R101
+
+305
+00:16:04,501 --> 00:16:07,260
+for her maiden voyage to India.
+
+306
+00:16:07,360 --> 00:16:10,100
+150 miles from England, the airship crashed
+
+307
+00:16:10,200 --> 00:16:13,300
+in the French countryside, killing 48 people,
+
+308
+00:16:13,400 --> 00:16:15,840
+as well as the British rigid airship program.
+
+309
+00:16:18,680 --> 00:16:20,880
+The American airship program, on the other hand,
+
+310
+00:16:20,980 --> 00:16:22,620
+was about to change.
+
+311
+00:16:22,720 --> 00:16:26,160
+Rich in helium, yet lacking the necessary technology,
+
+312
+00:16:26,260 --> 00:16:29,160
+the Americans went into business with the airship experienced
+
+313
+00:16:29,260 --> 00:16:32,560
+Germans forming the Goodyear Zeppelin Company.
+
+314
+00:16:32,561 --> 00:16:35,760
+Here was an American firm who believed in building Zeppelins.
+
+315
+00:16:35,860 --> 00:16:38,960
+P.W. Litchfield, who was the president of Goodyear,
+
+316
+00:16:39,060 --> 00:16:41,360
+was very much an airship advocate,
+
+317
+00:16:41,460 --> 00:16:45,100
+and he negotiated to acquire the Zeppelin patents.
+
+318
+00:16:45,200 --> 00:16:47,200
+They not only acquired the patent rights,
+
+319
+00:16:47,300 --> 00:16:52,320
+but they acquired 13 of the Zeppelin company's leading
+
+320
+00:16:52,420 --> 00:16:55,720
+technologists, including Dr. Carl Arnstein,
+
+321
+00:16:55,820 --> 00:17:00,020
+who had been one of the chief engineers in the Zeppelin company.
+
+322
+00:17:00,021 --> 00:17:01,620
+He brought these other 12 over.
+
+323
+00:17:01,720 --> 00:17:04,960
+They were known, incidentally, as the 12 disciples.
+
+324
+00:17:05,060 --> 00:17:08,020
+They began work immediately on the USS Akron,
+
+325
+00:17:08,120 --> 00:17:11,760
+the most innovative airship of her time.
+
+326
+00:17:11,860 --> 00:17:14,900
+Construction started in the autumn of 1929,
+
+327
+00:17:15,000 --> 00:17:18,340
+and it was finished by the summer of 1931.
+
+328
+00:17:18,440 --> 00:17:20,700
+She was a battleship of the sky.
+
+329
+00:17:20,800 --> 00:17:22,740
+The USS Akron was the first ship,
+
+330
+00:17:22,840 --> 00:17:26,380
+and that was different in that it was designed from the outset
+
+331
+00:17:26,480 --> 00:17:28,340
+to be a flying aircraft carrier.
+
+332
+00:17:28,341 --> 00:17:31,340
+inside the belly of the airship there was a hangar bay
+
+333
+00:17:31,440 --> 00:17:33,520
+and it could carry up to five biplanes.
+
+334
+00:17:33,620 --> 00:17:35,620
+They had several planes, but the most famous
+
+335
+00:17:35,720 --> 00:17:41,280
+was the Sparrowhawk, a little bit of a 20-foot wingspan fighter.
+
+336
+00:17:41,380 --> 00:17:43,560
+It would come up, had a hook on the top,
+
+337
+00:17:43,660 --> 00:17:47,460
+and it would hook onto a trapeze bar from a trapeze
+
+338
+00:17:47,560 --> 00:17:48,860
+and lowered from the ship.
+
+339
+00:17:48,960 --> 00:17:52,400
+It would engage, and then the trapeze would raise the ship up
+
+340
+00:17:52,500 --> 00:17:53,760
+and store it in a hangar.
+
+341
+00:17:53,761 --> 00:17:56,660
+in a hangar.
+
+342
+00:17:56,760 --> 00:17:58,740
+And the idea behind this was that the planes
+
+343
+00:17:58,840 --> 00:18:01,560
+could fly out and scout at a much greater distance
+
+344
+00:18:01,660 --> 00:18:03,200
+than the airship alone.
+
+345
+00:18:03,300 --> 00:18:06,080
+The Akron had three reinforced keels
+
+346
+00:18:06,180 --> 00:18:09,740
+and eight engines capable of driving the ship at nearly 70
+
+347
+00:18:09,840 --> 00:18:12,080
+miles per hour.
+
+348
+00:18:12,180 --> 00:18:14,240
+The engines were inside the ship,
+
+349
+00:18:14,340 --> 00:18:16,780
+and a long shaft came out there on the propellers.
+
+350
+00:18:16,880 --> 00:18:21,780
+And you just walk through a door into the engine compartment.
+
+351
+00:18:21,781 --> 00:18:26,720
+In 1933, after logging more than 1,700 flight hours,
+
+352
+00:18:26,820 --> 00:18:31,260
+the 200-ton airship flew into a storm off the New Jersey coast
+
+353
+00:18:31,360 --> 00:18:33,820
+and hit the water at full speed.
+
+354
+00:18:33,920 --> 00:18:36,660
+73 of the 76 men perished.
+
+355
+00:18:36,760 --> 00:18:40,500
+There were no life jackets on board.
+
+356
+00:18:40,600 --> 00:18:42,860
+Barely two weeks after the crash of the Akron,
+
+357
+00:18:42,960 --> 00:18:44,900
+her sister ship was completed.
+
+358
+00:18:45,000 --> 00:18:48,580
+The USS Macon was identical, except that she was 8,000
+
+359
+00:18:48,680 --> 00:18:50,980
+pounds lighter and faster.
+
+360
+00:18:50,981 --> 00:18:53,380
+the fact the new commanding officer found difficult
+
+361
+00:18:53,480 --> 00:18:55,420
+to deal with.
+
+362
+00:18:55,520 --> 00:18:58,480
+As one senior airship officer remarked to me,
+
+363
+00:18:58,580 --> 00:19:01,960
+he was so careful it was downright embarrassing.
+
+364
+00:19:02,060 --> 00:19:04,120
+And you can't, again, you can't really blame him.
+
+365
+00:19:04,220 --> 00:19:06,420
+I mean, he takes command of a ship.
+
+366
+00:19:06,520 --> 00:19:09,960
+The preceding ship was destroyed only two weeks before.
+
+367
+00:19:10,060 --> 00:19:12,500
+Built to cruise 10,000 miles without refueling,
+
+368
+00:19:12,600 --> 00:19:14,340
+she's the pride of the Navy.
+
+369
+00:19:14,440 --> 00:19:16,540
+Using its fighter planes as lookouts,
+
+370
+00:19:16,640 --> 00:19:20,640
+the Macon could patrol almost 129,000 square miles
+
+371
+00:19:20,641 --> 00:19:23,680
+of ocean in a day.
+
+372
+00:19:23,780 --> 00:19:27,840
+In February of 1935, the Macon was lost in severe weather
+
+373
+00:19:27,940 --> 00:19:32,760
+off the coast of California near Point Sur.
+
+374
+00:19:32,860 --> 00:19:35,120
+This time, they had life jackets on board,
+
+375
+00:19:35,220 --> 00:19:40,260
+and all but two of the 83 men on board survived.
+
+376
+00:19:40,360 --> 00:19:44,000
+When the Macon sank, the Navy was not interested enough
+
+377
+00:19:44,100 --> 00:19:46,460
+in wanting to recover or do anything
+
+378
+00:19:46,560 --> 00:19:48,160
+about bringing any of it back up.
+
+379
+00:19:48,161 --> 00:19:51,400
+They figured they'd spent enough money down the drain
+
+380
+00:19:51,500 --> 00:19:54,200
+and had gotten nothing really from it except wrecks.
+
+381
+00:19:59,180 --> 00:20:03,880
+On July 8, 1928, the LZ-127, or Graf Zeppelin,
+
+382
+00:20:03,980 --> 00:20:07,080
+was christened by Count von Zeppelin's daughter.
+
+383
+00:20:07,180 --> 00:20:10,580
+Nearly 10 stories high, the ship cleared the hangar door
+
+384
+00:20:10,680 --> 00:20:12,620
+by only two feet.
+
+385
+00:20:12,720 --> 00:20:15,120
+With the easing of sanctions imposed by the Versailles
+
+386
+00:20:15,220 --> 00:20:17,460
+Treaty, the Germans were back in the Zeppelin business
+
+387
+00:20:17,461 --> 00:20:19,500
+for themselves.
+
+388
+00:20:19,600 --> 00:20:22,760
+At the helm was Dr. Hugo Eckner, the Zeppelin's greatest
+
+389
+00:20:22,860 --> 00:20:24,200
+champion.
+
+390
+00:20:24,300 --> 00:20:26,460
+This was the period of empire building.
+
+391
+00:20:26,560 --> 00:20:31,080
+The vision of Dr. Eckner was to see an intercontinental airship
+
+392
+00:20:31,180 --> 00:20:33,940
+passenger service.
+
+393
+00:20:34,040 --> 00:20:38,520
+At 775 feet, the Graf Zeppelin was two and a half football
+
+394
+00:20:38,620 --> 00:20:39,680
+fields long.
+
+395
+00:20:39,780 --> 00:20:42,020
+And in early October, she set out
+
+396
+00:20:42,120 --> 00:20:45,760
+on the first trans-oceanic voyage by an airship
+
+397
+00:20:45,860 --> 00:20:47,460
+with passengers.
+
+398
+00:20:47,461 --> 00:20:54,360
+It was designed to prove the airworthiness of rigid airships.
+
+399
+00:20:54,361 --> 00:20:55,110
+That was Dr.
+
+400
+00:20:55,111 --> 00:20:59,920
+Eckner's primary concern because you have to remember at this time, the early
+
+401
+00:20:59,921 --> 00:21:03,620
+airlines, they were starting to make a name for themselves.
+
+402
+00:21:03,621 --> 00:21:10,820
+And so airships, due to the dangerous nature of hydrogen, due to their size, tended to
+
+403
+00:21:10,821 --> 00:21:15,060
+be still considered as a frail means of transportation.
+
+404
+00:21:15,061 --> 00:21:19,160
+And so the 127 was really a very experimental airship.
+
+405
+00:21:19,260 --> 00:21:23,160
+Equipped with two sets of gas cells, one for engine fuel
+
+406
+00:21:23,260 --> 00:21:27,280
+and another for lifting gas, the Graf Zeppelin arrived safely
+
+407
+00:21:27,380 --> 00:21:29,040
+in the United States.
+
+408
+00:21:29,140 --> 00:21:32,440
+The airship was met with great fanfare as thousands of people
+
+409
+00:21:32,540 --> 00:21:35,420
+flocked to get a glimpse of her.
+
+410
+00:21:35,520 --> 00:21:39,280
+In bold pursuit of his dream of regular commercial transcontinental
+
+411
+00:21:39,380 --> 00:21:43,060
+airship service, Hugo Eckner vowed to fly the Graf Zeppelin
+
+412
+00:21:43,061 --> 00:21:46,560
+Not in a fictional 80 days, but in two weeks,
+
+413
+00:21:46,660 --> 00:21:50,660
+the trip was projected to cost more than $250,000,
+
+414
+00:21:50,760 --> 00:21:54,000
+money the Zeppelin company didn't have.
+
+415
+00:21:54,100 --> 00:21:56,300
+As a friend of his once remarked to me,
+
+416
+00:21:56,400 --> 00:21:59,300
+you know, it's remarkable that he kept that company going
+
+417
+00:21:59,400 --> 00:22:02,320
+at the depths of the depression, particularly in Germany.
+
+418
+00:22:02,420 --> 00:22:05,620
+So he knew how to get money and make money and the like.
+
+419
+00:22:05,720 --> 00:22:09,380
+So too did newspaper magnate William Randolph Hearst,
+
+420
+00:22:09,381 --> 00:22:14,220
+who immediately offered $150,000 to Eckner for the exclusive rights
+
+421
+00:22:14,320 --> 00:22:15,460
+to cover the trip.
+
+422
+00:22:15,560 --> 00:22:19,120
+Incredibly, the rest of the money came from stamp collectors.
+
+423
+00:22:19,220 --> 00:22:21,720
+Notices would appear even in the New York Times
+
+424
+00:22:21,820 --> 00:22:24,400
+or the papers in this country and everywhere else
+
+425
+00:22:24,500 --> 00:22:26,760
+that the ship was going to make this record flight.
+
+426
+00:22:26,860 --> 00:22:29,600
+And now is your chance, everyone, to get some mail
+
+427
+00:22:29,700 --> 00:22:33,340
+with a special stamp on it carried on the Graf Zeppelin.
+
+428
+00:22:33,341 --> 00:22:34,340
+Zeppelin.
+
+429
+00:22:37,680 --> 00:22:39,180
+The flight of the Graf Zeppelin
+
+430
+00:22:39,280 --> 00:22:43,280
+provided classic newsreel images seen worldwide.
+
+431
+00:22:43,380 --> 00:22:45,380
+To the magic of motion pictures,
+
+432
+00:22:45,480 --> 00:22:49,580
+you will share with us the thrills and enjoyment of perhaps
+
+433
+00:22:49,680 --> 00:22:52,100
+the greatest aerial ventures in all history.
+
+434
+00:22:55,200 --> 00:22:59,600
+We are now well out over the Atlantic.
+
+435
+00:22:59,700 --> 00:23:03,340
+We are making 80 miles per hour.
+
+436
+00:23:03,341 --> 00:23:06,780
+Inspecting the outer covering of the Zeppelin,
+
+437
+00:23:06,880 --> 00:23:12,380
+this chap makes certain to hold on to that rope.
+
+438
+00:23:12,480 --> 00:23:14,880
+Several correspondents were on board,
+
+439
+00:23:14,980 --> 00:23:17,880
+busy writing their stories for the Hearst newspapers.
+
+440
+00:23:22,100 --> 00:23:24,200
+This is the dining room.
+
+441
+00:23:24,300 --> 00:23:29,240
+Comfortable, even luxurious, worthy of any first class
+
+442
+00:23:29,340 --> 00:23:30,700
+hotel on land.
+
+443
+00:23:33,340 --> 00:23:36,480
+And now, as we sail, let's listen a while.
+
+444
+00:23:49,120 --> 00:23:50,620
+England at last.
+
+445
+00:23:50,720 --> 00:23:53,920
+The Graf crossed the Atlantic in a record 42 hours
+
+446
+00:23:54,020 --> 00:23:57,400
+and continued on her way to Germany.
+
+447
+00:23:57,500 --> 00:24:00,440
+Berlin, where thousands in the streets
+
+448
+00:24:00,441 --> 00:24:07,440
+below rejoice over the Zeppelin's triumph.
+
+449
+00:24:07,441 --> 00:24:15,440
+The land of the rising sun in sight.
+
+450
+00:24:24,440 --> 00:24:28,440
+And now for the unexplored skies of the Pacific.
+
+451
+00:24:28,441 --> 00:24:32,280
+On the first non-stop flight ever made.
+
+452
+00:24:33,480 --> 00:24:37,940
+Most of the time we fly in a strange uncanny universe
+
+453
+00:24:37,941 --> 00:24:41,280
+with limitless seas of close-packed clouds,
+
+454
+00:24:41,900 --> 00:24:45,100
+below a world in which time means little
+
+455
+00:24:45,101 --> 00:24:49,480
+and the ordinary perceptions of distance even less.
+
+456
+00:24:58,440 --> 00:25:05,440
+Our first glimpse of American territory.
+
+457
+00:25:12,620 --> 00:25:16,400
+Directly over the Golden Gate, the sleek silver airship
+
+458
+00:25:16,401 --> 00:25:19,860
+approaches San Francisco.
+
+459
+00:25:19,861 --> 00:25:25,160
+The graph flies very, very low over the heart of the city.
+
+460
+00:25:25,161 --> 00:25:27,800
+Occasionally, we are shaken up a bit,
+
+461
+00:25:27,801 --> 00:25:31,160
+but we float safely over the mountains of the great southwest.
+
+462
+00:25:33,160 --> 00:25:37,460
+What an inspiring view of the grandeur that is America we are getting.
+
+463
+00:25:38,420 --> 00:25:42,860
+A voyage such as we have made is truly not only an education in geography,
+
+464
+00:25:43,720 --> 00:25:45,220
+but a lesson in patriotism.
+
+465
+00:25:48,100 --> 00:25:53,140
+Chicago is giving us as great a thrill as the Zeppelin is giving Chicago.
+
+466
+00:25:53,141 --> 00:25:59,620
+In 12 flying days, we have traveled some 20,000 miles,
+
+467
+00:25:59,720 --> 00:26:04,920
+spanned two continents, looked down upon 10 nations,
+
+468
+00:26:05,020 --> 00:26:08,920
+conquered mountains and sea, and here we are,
+
+469
+00:26:09,020 --> 00:26:11,060
+journey's end in sight.
+
+470
+00:26:15,320 --> 00:26:18,200
+After successfully completing a trip around the world,
+
+471
+00:26:18,300 --> 00:26:21,200
+Dr. Eckner was hailed in New York as a hero
+
+472
+00:26:21,201 --> 00:26:25,240
+as a hero and considered one of the most famous men in the world.
+
+473
+00:26:25,340 --> 00:26:29,440
+This flight has convinced me that the airship has
+
+474
+00:26:29,540 --> 00:26:32,380
+passed the experimental stage.
+
+475
+00:26:32,480 --> 00:26:33,840
+Indeed, it had.
+
+476
+00:26:33,940 --> 00:26:37,720
+The 7,000-mile nonstop flight from Germany to Japan
+
+477
+00:26:37,820 --> 00:26:42,060
+was proof positive for many airship skeptics.
+
+478
+00:26:42,160 --> 00:26:43,960
+She still had enough fuel on board
+
+479
+00:26:44,060 --> 00:26:45,960
+to make another two days in the air.
+
+480
+00:26:46,060 --> 00:26:49,060
+So that means the rigid airship could have almost
+
+481
+00:26:49,061 --> 00:26:54,460
+stayed up in the air nonstop for a week carrying passengers
+
+482
+00:26:54,560 --> 00:26:57,500
+and safely.
+
+483
+00:26:57,600 --> 00:26:59,600
+Soon, Eckner pioneered passenger
+
+484
+00:26:59,700 --> 00:27:02,100
+service to South America.
+
+485
+00:27:02,200 --> 00:27:05,940
+Only the well-to-do could afford a flight on an airship.
+
+486
+00:27:06,040 --> 00:27:08,120
+The early flights, or these flights to North and South
+
+487
+00:27:08,220 --> 00:27:11,620
+America cost approximately 1,000 Reismark, which
+
+488
+00:27:11,720 --> 00:27:16,820
+was several years' income for a normal German worker
+
+489
+00:27:16,920 --> 00:27:17,920
+at the time.
+
+490
+00:27:17,921 --> 00:27:20,660
+It only took 2 and 1 1 days to North America
+
+491
+00:27:20,760 --> 00:27:24,600
+and 3 and 1 1 days to South America nonstop.
+
+492
+00:27:24,700 --> 00:27:27,860
+Even the airplanes from Pan Am were not
+
+493
+00:27:27,960 --> 00:27:30,340
+able to make this type of a trip.
+
+494
+00:27:30,440 --> 00:27:33,740
+It was the fastest means of getting there.
+
+495
+00:27:33,840 --> 00:27:35,900
+With still more skies to fly,
+
+496
+00:27:36,000 --> 00:27:39,600
+Eckner set off on a scientific expedition to the North Pole
+
+497
+00:27:39,700 --> 00:27:42,120
+in July of 1931.
+
+498
+00:27:42,220 --> 00:27:43,980
+Not only did they bring back information
+
+499
+00:27:44,080 --> 00:27:46,940
+about the Arctic's atmosphere, but the Graf Zeppelin
+
+500
+00:27:46,941 --> 00:27:50,340
+proved she could fly in extreme conditions.
+
+501
+00:27:50,440 --> 00:27:53,520
+Here again, cold weather didn't affect the operation
+
+502
+00:27:53,620 --> 00:27:54,820
+of the airship at all.
+
+503
+00:27:54,920 --> 00:27:58,680
+And so that was the big success and the big reasoning
+
+504
+00:27:58,780 --> 00:28:00,920
+behind the 127.
+
+505
+00:28:01,020 --> 00:28:04,500
+After that, Eckner could prove and safely say,
+
+506
+00:28:04,600 --> 00:28:08,400
+we can start an intercontinental passenger airship service
+
+507
+00:28:08,500 --> 00:28:10,160
+and make it work.
+
+508
+00:28:10,260 --> 00:28:12,840
+While the Graf Zeppelin ruled the skies,
+
+509
+00:28:12,940 --> 00:28:16,940
+Hitler and the Nazi party were navigating to rule Germany.
+
+510
+00:28:16,941 --> 00:28:19,800
+If Eckner was to continue building his dream,
+
+511
+00:28:19,801 --> 00:28:22,580
+he would soon have to make a deal with the devil.
+
+512
+00:28:26,640 --> 00:28:30,780
+By 1933, Hitler and the Nazi party controlled Germany.
+
+513
+00:28:30,781 --> 00:28:33,920
+They also controlled the fate of Dr. Eckner
+
+514
+00:28:33,921 --> 00:28:37,260
+and his dream of intercontinental airship service.
+
+515
+00:28:37,261 --> 00:28:43,200
+I hope I will be able in about six or seven weeks
+
+516
+00:28:43,201 --> 00:28:49,440
+to take over the new airship to the United States of America.
+
+517
+00:28:49,441 --> 00:28:52,440
+He was asked at one time to let Hitler
+
+518
+00:28:52,441 --> 00:28:55,780
+speak at a political rally in the German Zeppelin company
+
+519
+00:28:55,781 --> 00:28:59,340
+hangars at Friedrichshafen, and he refused.
+
+520
+00:28:59,341 --> 00:29:02,460
+Well, you didn't do that and still remain very friendly
+
+521
+00:29:02,461 --> 00:29:04,520
+with the Nazis.
+
+522
+00:29:04,521 --> 00:29:07,420
+Eckner was an outspoken critic of the Nazi party
+
+523
+00:29:07,421 --> 00:29:10,220
+and was only spared from the concentration camps
+
+524
+00:29:10,221 --> 00:29:12,720
+of his popularity throughout the world.
+
+525
+00:29:12,820 --> 00:29:14,760
+Because of the fame that he'd acquired
+
+526
+00:29:14,860 --> 00:29:16,700
+in the trips around the world and the like,
+
+527
+00:29:16,800 --> 00:29:20,160
+the Nazis wanted to make sure they could use Echner
+
+528
+00:29:20,260 --> 00:29:23,900
+for promotional and publicity and propaganda purposes.
+
+529
+00:29:24,000 --> 00:29:26,700
+Dr. Echner did not like the Nazis.
+
+530
+00:29:26,800 --> 00:29:28,380
+That is very obvious.
+
+531
+00:29:28,480 --> 00:29:30,940
+But on the other hand, he saw the necessity
+
+532
+00:29:31,040 --> 00:29:32,740
+to play with the devil, if you will.
+
+533
+00:29:32,840 --> 00:29:36,120
+And that gave Dr. Echner the funds that he needed
+
+534
+00:29:36,220 --> 00:29:40,220
+to begin his Intercontinental Airship service.
+
+535
+00:29:40,221 --> 00:29:42,020
+The deal was this.
+
+536
+00:29:42,120 --> 00:29:44,320
+Eckner needed money to build bigger hangars
+
+537
+00:29:44,420 --> 00:29:46,920
+that could house an entire fleet of airships large enough
+
+538
+00:29:47,020 --> 00:29:49,460
+to service the major cities of the world.
+
+539
+00:29:49,560 --> 00:29:51,860
+Hitler agreed to finance Eckner's plans
+
+540
+00:29:51,960 --> 00:29:54,660
+and formed an operating company which would control
+
+541
+00:29:54,760 --> 00:29:57,880
+the airships out of Frankfurt.
+
+542
+00:29:57,980 --> 00:30:00,900
+Early in 1936, one of Eckner's dream ships
+
+543
+00:30:01,000 --> 00:30:03,880
+became a reality with the unveiling of the Hindenburg,
+
+544
+00:30:03,980 --> 00:30:06,820
+the epitome of everything the Germans had learned
+
+545
+00:30:06,920 --> 00:30:08,640
+about rigid airships.
+
+546
+00:30:08,641 --> 00:30:11,980
+She was the largest airship the world would ever see.
+
+547
+00:30:12,080 --> 00:30:15,440
+I saw the Hindenburg, and I've never forgotten it.
+
+548
+00:30:15,540 --> 00:30:19,980
+And I don't think anybody else ever did who did see it.
+
+549
+00:30:20,080 --> 00:30:24,620
+At a length of 804 feet, she was 572 feet
+
+550
+00:30:24,720 --> 00:30:29,800
+longer than a 747 jumbo jet and only 78 feet shorter
+
+551
+00:30:29,900 --> 00:30:31,000
+than the Titanic.
+
+552
+00:30:31,100 --> 00:30:37,040
+She weighed 130 tons and was as high as a 13-story building.
+
+553
+00:30:37,041 --> 00:30:41,280
+The Hindenburg had a gas capacity of more than 7 million
+
+554
+00:30:41,380 --> 00:30:46,120
+cubic feet, the volume of 300 average American homes.
+
+555
+00:30:46,220 --> 00:30:49,580
+She was powered by four Daimler-Benz diesel engines
+
+556
+00:30:49,680 --> 00:30:54,160
+capable of 1,320 horsepower each.
+
+557
+00:30:54,260 --> 00:30:57,400
+Her aluminum alloy girders laid end to end would stretch
+
+558
+00:30:57,500 --> 00:31:00,360
+for 13 miles.
+
+559
+00:31:00,460 --> 00:31:03,800
+To Eckner's dismay, however, huge swastikas emblazoned
+
+560
+00:31:03,801 --> 00:31:07,480
+emblazoned the ship's 105-foot tail fins.
+
+561
+00:31:07,580 --> 00:31:09,780
+And it wasn't long before the Hindenburg
+
+562
+00:31:09,880 --> 00:31:14,820
+and the beloved Graf Zeppelin went to work for the Nazi party.
+
+563
+00:31:14,920 --> 00:31:17,540
+The Nazis needed the airships for propaganda purposes
+
+564
+00:31:17,640 --> 00:31:19,820
+with the big swastikas on the tail.
+
+565
+00:31:19,920 --> 00:31:22,780
+And Eckner had a fit about that.
+
+566
+00:31:22,880 --> 00:31:24,960
+Shortly after the Hindenburg was completed,
+
+567
+00:31:25,060 --> 00:31:29,100
+the airships traveled to German cities of 100,000 or more,
+
+568
+00:31:29,200 --> 00:31:33,400
+dropping leaflets promoting Hitler and Nazi party platforms.
+
+569
+00:31:33,401 --> 00:31:35,900
+they continued to exploit the massive airship
+
+570
+00:31:35,901 --> 00:31:39,000
+for political purposes at the Nazi Party's Congress
+
+571
+00:31:39,001 --> 00:31:44,580
+in Nuremberg and the 1936 Olympic Games in Berlin.
+
+572
+00:31:44,581 --> 00:31:48,140
+The Nazis replaced Eckner as the ship's cautious and conservative
+
+573
+00:31:48,141 --> 00:31:52,180
+captain in favor of a pilot that was more politically acceptable,
+
+574
+00:31:52,181 --> 00:31:55,280
+a move that didn't sit well with Eckner when the new pilot
+
+575
+00:31:55,281 --> 00:31:59,000
+damaged the Hindenburg's tail fin.
+
+576
+00:31:59,001 --> 00:32:03,780
+Eckner storms up to Lehmann, who was the captain in command
+
+577
+00:32:03,781 --> 00:32:06,720
+of it at that time, and in a loud voice said,
+
+578
+00:32:06,721 --> 00:32:09,960
+how could you take our brand new airship out just
+
+579
+00:32:09,961 --> 00:32:14,060
+to please your lord and master Adolf Hitler?
+
+580
+00:32:14,061 --> 00:32:16,940
+As a result, the press people were informed
+
+581
+00:32:16,941 --> 00:32:20,320
+that from henceforth, Eckner's name and picture
+
+582
+00:32:20,321 --> 00:32:23,820
+were not ever to be mentioned in the Nazi press again.
+
+583
+00:32:23,821 --> 00:32:27,900
+So he was quite a brave fellow in that respect.
+
+584
+00:32:29,000 --> 00:32:33,240
+When the Hindenburg made its first trip to this country
+
+585
+00:32:33,340 --> 00:32:37,580
+in 1936, Eckner was on board, but he had no title
+
+586
+00:32:37,680 --> 00:32:38,740
+and no authority.
+
+587
+00:32:38,840 --> 00:32:40,740
+They went around him, essentially.
+
+588
+00:32:40,840 --> 00:32:43,120
+Of all the man-made birds that fly,
+
+589
+00:32:43,220 --> 00:32:45,280
+this was the greatest.
+
+590
+00:32:45,380 --> 00:32:47,360
+The Hindenburg was built above all
+
+591
+00:32:47,460 --> 00:32:50,260
+for intercontinental flight, and eventually,
+
+592
+00:32:50,360 --> 00:32:51,860
+that's what she did.
+
+593
+00:32:51,960 --> 00:32:55,220
+In 1936, the airship made seven scheduled round trips
+
+594
+00:32:55,320 --> 00:32:59,000
+to South America and 10 to North America.
+
+595
+00:32:59,001 --> 00:33:03,440
+The Hindenburg was the largest man-made thing that ever flew.
+
+596
+00:33:03,540 --> 00:33:08,640
+And it normally flew at altitudes of 1,000 feet or less.
+
+597
+00:33:08,740 --> 00:33:11,580
+Now, when you had something three-city blockless long
+
+598
+00:33:11,680 --> 00:33:15,380
+flying directly overhead, making very little noise,
+
+599
+00:33:15,480 --> 00:33:17,880
+it left a tremendous impression.
+
+600
+00:33:17,980 --> 00:33:20,020
+Just as Eckner had imagined,
+
+601
+00:33:20,120 --> 00:33:22,460
+the Hindenburg's passenger accommodations
+
+602
+00:33:22,560 --> 00:33:26,320
+set a new standard in aircraft luxury.
+
+603
+00:33:26,321 --> 00:33:29,920
+They had every comfort dreamable on board.
+
+604
+00:33:30,020 --> 00:33:34,260
+Gourmet meals were cooked in an electric kitchen.
+
+605
+00:33:34,360 --> 00:33:36,060
+The passengers had two bunks.
+
+606
+00:33:36,160 --> 00:33:37,900
+There was two beds in a room.
+
+607
+00:33:38,000 --> 00:33:40,640
+Each room was equipped with hot and cold running water.
+
+608
+00:33:40,740 --> 00:33:42,200
+There was also a shower.
+
+609
+00:33:42,300 --> 00:33:45,200
+There was a writing room, which also had a piano on board.
+
+610
+00:33:45,300 --> 00:33:47,440
+Of course, the piano was out of aluminum
+
+611
+00:33:47,540 --> 00:33:50,040
+and didn't weigh more than about 40 pounds.
+
+612
+00:33:50,140 --> 00:33:53,620
+The Hindenburg even had its own special smoking room,
+
+613
+00:33:53,720 --> 00:33:55,620
+which was pressurized.
+
+614
+00:33:55,621 --> 00:33:59,800
+to prevent any hydrogen gas from entering the room.
+
+615
+00:33:59,900 --> 00:34:02,560
+In the smoking room was one lighter,
+
+616
+00:34:02,660 --> 00:34:04,500
+which was shared among all smokers.
+
+617
+00:34:04,600 --> 00:34:07,100
+And you could only smoke with inside that room, which
+
+618
+00:34:07,200 --> 00:34:10,060
+made it, of course, a very unique airship.
+
+619
+00:34:10,160 --> 00:34:14,000
+Passengers paid $400 one way to North America
+
+620
+00:34:14,100 --> 00:34:17,680
+and 720 round trip.
+
+621
+00:34:17,780 --> 00:34:19,680
+Filled with highly flammable hydrogen,
+
+622
+00:34:19,780 --> 00:34:22,980
+the crew wore felt booties to prevent even the smallest
+
+623
+00:34:23,080 --> 00:34:25,620
+spark from friction.
+
+624
+00:34:25,621 --> 00:34:27,420
+But attention to the smallest detail
+
+625
+00:34:27,520 --> 00:34:30,260
+would not be enough to prevent Hugo Eckner's dream
+
+626
+00:34:30,360 --> 00:34:31,760
+from going up in smoke.
+
+627
+00:34:37,660 --> 00:34:41,000
+Only a handful of reporters were present in 1937
+
+628
+00:34:41,100 --> 00:34:43,980
+when the Hindenburg made her final approach to the Navy
+
+629
+00:34:44,080 --> 00:34:46,140
+base in Lakehurst, New Jersey.
+
+630
+00:34:46,240 --> 00:34:50,140
+After all, Eckner's dream ship had made 17 transcontinental
+
+631
+00:34:50,240 --> 00:34:51,720
+flights the year before.
+
+632
+00:34:51,721 --> 00:34:55,720
+John Ionicone was working that day on the Navy ground crew.
+
+633
+00:34:55,820 --> 00:34:58,720
+He was one of 198 sailors on station
+
+634
+00:34:58,820 --> 00:35:02,660
+and the only military man still alive who saw what happened.
+
+635
+00:35:02,760 --> 00:35:05,660
+JOHN Ionicone, John Ionicone, was working that day
+
+636
+00:35:05,760 --> 00:35:07,160
+on the Navy ground crew.
+
+637
+00:35:07,260 --> 00:35:11,680
+He was one of 198 sailors on station and the only military
+
+638
+00:35:11,780 --> 00:35:14,580
+man still alive who saw what happened.
+
+639
+00:35:14,680 --> 00:35:18,120
+JOHN Ionicone, John Ionicone, was supposed to come in at 6
+
+640
+00:35:18,220 --> 00:35:20,580
+o'clock that morning, but it was 12 hours late.
+
+641
+00:35:20,581 --> 00:35:21,980
+started to clear up.
+
+642
+00:35:21,981 --> 00:35:23,680
+In the meantime, the ship got all wet.
+
+643
+00:35:23,681 --> 00:35:25,720
+They were coming in for a landing,
+
+644
+00:35:25,721 --> 00:35:29,460
+and we could see the whole ship from where we were all the time.
+
+645
+00:35:29,461 --> 00:35:31,620
+She dropped the lines, and the ground crew
+
+646
+00:35:31,621 --> 00:35:35,020
+had a hold of the two nose lines.
+
+647
+00:35:35,021 --> 00:35:36,100
+And it was a routine landing.
+
+648
+00:35:36,101 --> 00:35:37,340
+Everything was routine.
+
+649
+00:35:37,341 --> 00:35:39,500
+And then all of a sudden, right there in front of the tail,
+
+650
+00:35:39,501 --> 00:35:43,100
+I saw a big red glow inside the ship.
+
+651
+00:35:43,101 --> 00:35:46,380
+And then it broke through the cover, and it just burned.
+
+652
+00:35:46,381 --> 00:35:47,480
+And it's crashing.
+
+653
+00:35:47,481 --> 00:35:48,181
+It's crashing.
+
+654
+00:35:48,182 --> 00:35:48,980
+Terrible.
+
+655
+00:35:48,981 --> 00:35:49,681
+Oh, my.
+
+656
+00:35:49,682 --> 00:35:50,880
+Get out of the way, please.
+
+657
+00:35:50,881 --> 00:35:52,420
+It's burning, bursting into flames,
+
+658
+00:35:52,421 --> 00:35:54,160
+and it's falling on the mooring fast,
+
+659
+00:35:54,161 --> 00:35:55,320
+and all the folks between us.
+
+660
+00:35:55,321 --> 00:35:56,120
+This is terrible.
+
+661
+00:35:56,121 --> 00:35:58,680
+This is one of the worst catastrophes in the world.
+
+662
+00:35:58,681 --> 00:36:04,800
+Oh, it's like 20, oh, 400 or 500 feet into the sky.
+
+663
+00:36:04,801 --> 00:36:06,800
+It's a terrific crash, lady, still,
+
+664
+00:36:06,801 --> 00:36:09,660
+but the smoke is in flames now, and the framers
+
+665
+00:36:09,661 --> 00:36:13,240
+crashing to the ground, not quite to the mooring fast.
+
+666
+00:36:13,241 --> 00:36:17,440
+Oh, the humanity, and all the...
+
+667
+00:36:17,441 --> 00:36:21,060
+I saw one man jump out of the nose.
+
+668
+00:36:21,061 --> 00:36:23,720
+And when it was up there about 400 feet, and he got killed.
+
+669
+00:36:26,740 --> 00:36:28,680
+We saw one man walk out.
+
+670
+00:36:28,681 --> 00:36:32,600
+And he was burnt from the top of his head to his heels.
+
+671
+00:36:32,601 --> 00:36:33,800
+All he had on was his shoes.
+
+672
+00:36:41,860 --> 00:36:44,620
+When we got to the passenger compartment,
+
+673
+00:36:44,621 --> 00:36:46,340
+I mean, there was people still in it.
+
+674
+00:36:46,341 --> 00:36:48,000
+We told them to get out, and we started looking around
+
+675
+00:36:48,100 --> 00:36:49,180
+for some more.
+
+676
+00:36:49,280 --> 00:36:52,680
+They wasn't even scratched.
+
+677
+00:36:52,780 --> 00:36:56,180
+The Hindenburg, which took four years to build,
+
+678
+00:36:56,280 --> 00:36:59,080
+was destroyed in approximately 37 seconds.
+
+679
+00:37:05,400 --> 00:37:08,000
+What was but a moment ago, the queen of the air
+
+680
+00:37:08,100 --> 00:37:13,440
+is now a shell of consuming flame, a tragic memory.
+
+681
+00:37:13,540 --> 00:37:16,340
+On the night of May 6, 1937, the Green
+
+682
+00:37:16,341 --> 00:37:21,840
+The greatest airship ever built lay in a smoldering, twisted heap.
+
+683
+00:37:21,841 --> 00:37:25,140
+I stood watch on it that night, tried to keep the looters out of it.
+
+684
+00:37:25,141 --> 00:37:25,980
+But you couldn't do it.
+
+685
+00:37:25,981 --> 00:37:27,780
+I mean, everybody's come in and they want a little piece of this,
+
+686
+00:37:27,781 --> 00:37:29,980
+a little piece of that.
+
+687
+00:37:29,981 --> 00:37:32,880
+Miraculously, 62 people survived.
+
+688
+00:37:32,881 --> 00:37:36,520
+The Americans and Germans held hearings to investigate the cause
+
+689
+00:37:36,521 --> 00:37:39,860
+of the crash that killed 35.
+
+690
+00:37:39,861 --> 00:37:42,160
+The Germans said it was sabotaged, most of them,
+
+691
+00:37:42,161 --> 00:37:46,500
+because they could not bring themselves to a frame of mind
+
+692
+00:37:46,600 --> 00:37:51,200
+to admit that there could be any deficiency in the airship.
+
+693
+00:37:51,300 --> 00:37:52,900
+Eckner was not the same way.
+
+694
+00:37:53,000 --> 00:37:55,700
+I talked to him at some length about what did he,
+
+695
+00:37:55,800 --> 00:37:57,500
+the greatest airship man of all time,
+
+696
+00:37:57,600 --> 00:38:00,220
+think about what destroyed his airship.
+
+697
+00:38:00,320 --> 00:38:02,520
+And he was convinced it made a sharp turn
+
+698
+00:38:02,620 --> 00:38:04,820
+before it approached the mast.
+
+699
+00:38:04,920 --> 00:38:07,720
+He thinks that there was a broken wire that slashed open
+
+700
+00:38:07,820 --> 00:38:09,520
+a gas cell.
+
+701
+00:38:09,521 --> 00:38:15,100
+that hydrogen escaped, caught and collected up inside the ship and started to leak out
+
+702
+00:38:15,101 --> 00:38:22,820
+of it, and that the static electricity in the air was enough to set the thing off.
+
+703
+00:38:22,821 --> 00:38:30,940
+I believe the Hindenburg crash as such marked the end of the airship as an effective passenger
+
+704
+00:38:30,941 --> 00:38:34,180
+vehicle for intercontinental travel.
+
+705
+00:38:34,181 --> 00:38:37,720
+You have to remember airplanes had reached that magic point
+
+706
+00:38:37,721 --> 00:38:41,620
+of technologically surpassing or at least achieving
+
+707
+00:38:41,621 --> 00:38:44,020
+the same thing even in a shorter period of time,
+
+708
+00:38:44,021 --> 00:38:46,100
+to be true or for, than the airships.
+
+709
+00:38:46,101 --> 00:38:49,800
+So the days of the airship, the ridges were numbered.
+
+710
+00:38:49,801 --> 00:38:52,700
+The Hindenburg is no more.
+
+711
+00:38:52,701 --> 00:38:55,100
+But this catastrophe will not dim the vision
+
+712
+00:38:55,101 --> 00:38:57,800
+nor stop the work of the undaunted pioneers.
+
+713
+00:38:57,801 --> 00:39:08,620
+The Germans completed another ship, virtually a sister ship of the Hindenburg, and they
+
+714
+00:39:08,621 --> 00:39:14,680
+had made something in the order of 40 flights in 1938 and 39.
+
+715
+00:39:14,681 --> 00:39:19,820
+But it could never enter commercial service because the United States would not sell it
+
+716
+00:39:19,821 --> 00:39:20,820
+helium.
+
+717
+00:39:20,821 --> 00:39:26,220
+And nobody was going to ride a hydrogen-filled passenger
+
+718
+00:39:26,320 --> 00:39:27,020
+airship again.
+
+719
+00:39:35,160 --> 00:39:36,860
+With the start of World War II,
+
+720
+00:39:36,960 --> 00:39:40,040
+the Nazis deflated and dismantled the remaining rigid
+
+721
+00:39:40,140 --> 00:39:41,300
+airships.
+
+722
+00:39:41,400 --> 00:39:43,480
+The once peaceful giants of the sky
+
+723
+00:39:43,580 --> 00:39:46,880
+were scrapped and melted down for fighter planes.
+
+724
+00:39:46,980 --> 00:39:50,180
+The US Navy still was interested in airships,
+
+725
+00:39:50,181 --> 00:39:53,380
+but knew that politically they could never build
+
+726
+00:39:53,480 --> 00:39:55,420
+a really large one again.
+
+727
+00:39:55,520 --> 00:39:58,520
+So they went instead to more blimps,
+
+728
+00:39:58,620 --> 00:40:01,820
+small, non-rigid airships.
+
+729
+00:40:01,920 --> 00:40:05,720
+A fraction the size of the rigid airships.
+
+730
+00:40:05,820 --> 00:40:08,940
+Their job was patrolling for U-boats,
+
+731
+00:40:09,040 --> 00:40:12,740
+and their squadrons were based all the way from Canada,
+
+732
+00:40:12,840 --> 00:40:15,940
+down along the East Coast, the Gulf Coast,
+
+733
+00:40:16,040 --> 00:40:17,940
+in the Caribbean, down to Brazil,
+
+734
+00:40:17,941 --> 00:40:21,180
+and we flew them to Africa, to the Mediterranean.
+
+735
+00:40:21,280 --> 00:40:25,280
+They escorted something like 70,000 ships,
+
+736
+00:40:25,380 --> 00:40:30,020
+with only two lost to an enemy submarine attack.
+
+737
+00:40:30,120 --> 00:40:33,220
+After the war, Hugo Eckner served as a consultant
+
+738
+00:40:33,320 --> 00:40:34,760
+to the Goodyear Company.
+
+739
+00:40:34,860 --> 00:40:37,660
+Prior to his death in 1954, he said,
+
+740
+00:40:37,760 --> 00:40:40,460
+the Zeppelin has given way to the airplane.
+
+741
+00:40:40,560 --> 00:40:42,960
+A good thing has been replaced by a better.
+
+742
+00:40:47,940 --> 00:40:51,380
+Today, blimps are used primarily for advertising
+
+743
+00:40:51,480 --> 00:40:55,040
+and can still draw the attention of everybody in sight.
+
+744
+00:40:55,140 --> 00:40:56,880
+While their sophisticated mechanics
+
+745
+00:40:56,980 --> 00:41:00,880
+make them much easier to steer than the zeppelins of the past,
+
+746
+00:41:00,980 --> 00:41:05,160
+blimps are nowhere near the size of the giant airships.
+
+747
+00:41:05,260 --> 00:41:10,600
+An average blimp has about 100,000 cubic feet of gas,
+
+748
+00:41:10,700 --> 00:41:13,140
+helium nowadays.
+
+749
+00:41:13,240 --> 00:41:17,940
+The Hindenburg had 7 and 1 half million cubic feet.
+
+750
+00:41:17,941 --> 00:41:20,340
+Basically, a blimp today is about the length
+
+751
+00:41:20,440 --> 00:41:22,680
+of the tail of the Hindenburg.
+
+752
+00:41:22,780 --> 00:41:24,940
+A variety of blimps and tethered balloons
+
+753
+00:41:25,040 --> 00:41:29,080
+are also used for communications platforms,
+
+754
+00:41:29,180 --> 00:41:33,720
+observation, radar, drug interdiction, and border patrols.
+
+755
+00:41:33,820 --> 00:41:36,520
+They are all filled with non-flammable helium
+
+756
+00:41:36,620 --> 00:41:40,020
+and seem to lack the romance, promise, and adventure
+
+757
+00:41:40,120 --> 00:41:43,940
+of the great rigid airships.
+
+758
+00:41:44,040 --> 00:41:46,800
+More than 60 years after the crash of the Hindenburg,
+
+759
+00:41:46,801 --> 00:41:51,240
+the Zeppelin company is building a revolutionary new airship.
+
+760
+00:41:51,340 --> 00:41:52,800
+It's called the NT07.
+
+761
+00:41:52,900 --> 00:41:54,940
+It is a rigid airship in design,
+
+762
+00:41:55,040 --> 00:41:59,780
+although it has very little structure inside.
+
+763
+00:41:59,880 --> 00:42:02,120
+The new Zeppelin will seat 12
+
+764
+00:42:02,220 --> 00:42:05,120
+and have a top speed of 90 miles an hour.
+
+765
+00:42:05,220 --> 00:42:07,220
+Due to the airship's mechanical agility,
+
+766
+00:42:07,320 --> 00:42:10,720
+its primary use will be for sightseeing.
+
+767
+00:42:10,820 --> 00:42:12,800
+The advantage of the new Zeppelin
+
+768
+00:42:12,900 --> 00:42:16,160
+is incorporated in its tail thruster unit,
+
+769
+00:42:16,161 --> 00:42:19,860
+which will allow the pilot to control the airship left, right,
+
+770
+00:42:19,960 --> 00:42:23,260
+nose up and nose down at zero airspeed.
+
+771
+00:42:27,140 --> 00:42:30,100
+This ability will reduce the number of ground crew needed
+
+772
+00:42:30,200 --> 00:42:32,040
+on takeoff and landing.
+
+773
+00:42:32,140 --> 00:42:35,080
+The ship's technical manager is a distant relative
+
+774
+00:42:35,180 --> 00:42:38,040
+of Count von Zeppelin himself.
+
+775
+00:42:38,140 --> 00:42:43,220
+Five Zeppelins have already been sold for $6.8 million each.
+
+776
+00:42:43,221 --> 00:42:47,400
+The Germans will use the NT07 for tourism, advertising,
+
+777
+00:42:47,500 --> 00:42:49,300
+and scientific research.
+
+778
+00:42:49,400 --> 00:42:53,460
+The Swiss plan to use the new airship for sightseeing.
+
+779
+00:42:53,560 --> 00:42:57,160
+Another German company plans to build an enormous rigid air
+
+780
+00:42:57,260 --> 00:43:00,980
+ship to transport heavy cargo to faraway places.
+
+781
+00:43:01,080 --> 00:43:02,500
+As far as I see from their plans,
+
+782
+00:43:02,600 --> 00:43:05,480
+if they get away with this, their airship
+
+783
+00:43:05,580 --> 00:43:10,180
+would be even much, much larger than the Hindenburg ever was.
+
+784
+00:43:10,280 --> 00:43:12,040
+In fact, the planned cargo lifter
+
+785
+00:43:12,041 --> 00:43:16,440
+is 3 and 1 half times the length of a 747
+
+786
+00:43:16,540 --> 00:43:19,580
+and will have a payload of more than four times that
+
+787
+00:43:19,680 --> 00:43:24,420
+of a jumbo jet or 175 tons.
+
+788
+00:43:24,520 --> 00:43:28,760
+Estimated cost, $60 million.
+
+789
+00:43:28,860 --> 00:43:31,360
+Located on a former Soviet military base,
+
+790
+00:43:31,460 --> 00:43:34,600
+work has already begun on a hangar, which will house
+
+791
+00:43:34,700 --> 00:43:36,460
+two cargo lifters.
+
+792
+00:43:36,560 --> 00:43:39,540
+The huge airships will utilize solar energy
+
+793
+00:43:39,541 --> 00:43:42,940
+and use one-tenth the fuel of a traditional 747.
+
+794
+00:43:44,140 --> 00:43:46,740
+It seems within the foreseeable future, at least,
+
+795
+00:43:47,120 --> 00:43:49,960
+that we may indeed see the rebirth of the rigid airship.
+
+796
+00:43:50,340 --> 00:43:54,060
+And that prospect holds the same promise as the original Zeppelin's.
+
+797
+00:43:54,440 --> 00:43:58,260
+If you are lucky enough to ever see one, you will never forget it.
+

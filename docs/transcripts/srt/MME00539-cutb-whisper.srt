@@ -1,0 +1,2656 @@
+1
+00:00:00,001 --> 00:00:02,000
+Egyptian mummies.
+
+2
+00:00:02,001 --> 00:00:06,000
+These ancient preserved bodies are speaking from the dead.
+
+3
+00:00:06,001 --> 00:00:12,000
+Computer scanning virtually unwraps them to reveal their secrets.
+
+4
+00:00:12,001 --> 00:00:16,000
+Was King Tut murdered? Technology has the answer.
+
+5
+00:00:16,001 --> 00:00:22,000
+Learn how to make a mummy and how to preserve one for millennia.
+
+6
+00:00:22,001 --> 00:00:26,000
+Now, Mummy Tech on Modern Marvels.
+
+7
+00:00:30,000 --> 00:00:44,000
+This patient is about to receive a dose of high-technology treatment.
+
+8
+00:00:49,560 --> 00:00:51,440
+Start the scan.
+
+9
+00:00:51,441 --> 00:01:02,620
+Computer tomography scanning, known as CT or CAT scanning, explores inside a human body
+
+10
+00:01:02,621 --> 00:01:06,460
+and is a life-saving tool for diagnosing disease.
+
+11
+00:01:07,120 --> 00:01:10,800
+But in this case, the patient is dead.
+
+12
+00:01:11,800 --> 00:01:13,720
+In fact, dead for 5,000 years.
+
+13
+00:01:13,721 --> 00:01:20,760
+But hopefully the CT scan will tell us why he died and what conditions may have led to his death.
+
+14
+00:01:21,440 --> 00:01:23,611
+This mummy from the Michael C.
+
+15
+00:01:23,612 --> 00:01:30,920
+Carlos Museum in Atlanta, Georgia, is examined without being unwrapped to uncover the secrets inside.
+
+16
+00:01:33,020 --> 00:01:37,760
+Looks like there is some tissue there. Wow. Oh, that's really interesting.
+
+17
+00:01:39,240 --> 00:01:41,880
+CT scanning is based on the X-ray principle.
+
+18
+00:01:42,960 --> 00:01:50,020
+As X-rays pass through the body, they're absorbed at differing levels, creating a flat image on film.
+
+19
+00:01:51,440 --> 00:01:59,260
+In the case of the CT, the x-rays are fired from various angles around the subject to
+
+20
+00:01:59,261 --> 00:02:03,060
+create a cross-section, or slice.
+
+21
+00:02:03,061 --> 00:02:08,280
+As the patient moves through the scanner, up to 1,500 slices are produced and stacked
+
+22
+00:02:08,281 --> 00:02:14,100
+together like a deck of cards to form a comprehensive picture of the body.
+
+23
+00:02:14,101 --> 00:02:20,420
+Technology has really revolutionized both the study of mummies and dealing with them
+
+24
+00:02:20,421 --> 00:02:24,020
+because it helps us not only understand how they were made,
+
+25
+00:02:24,120 --> 00:02:28,660
+but it helps us preserve them for future generations.
+
+26
+00:02:28,760 --> 00:02:30,160
+Across the country,
+
+27
+00:02:30,260 --> 00:02:34,960
+at the Rosicrucian Egyptian Museum in San Jose, California,
+
+28
+00:02:35,060 --> 00:02:38,580
+a curiously tiny mummy has been on display
+
+29
+00:02:38,680 --> 00:02:42,780
+for more than 75 years.
+
+30
+00:02:42,880 --> 00:02:44,880
+The mystery of this small mummy
+
+31
+00:02:44,980 --> 00:02:48,320
+is a story of who this was,
+
+32
+00:02:48,321 --> 00:02:53,560
+was how this person lived and how this person died.
+
+33
+00:02:54,080 --> 00:02:57,600
+And given that this is a small mummy, the assumption was a child.
+
+34
+00:02:58,480 --> 00:03:01,020
+To unlock the mystery beneath the bandages,
+
+35
+00:03:01,840 --> 00:03:06,140
+Dr. Amy Ladd, along with a team of scanning and computer experts,
+
+36
+00:03:07,480 --> 00:03:10,700
+performed one of the most sophisticated high-tech medical exams
+
+37
+00:03:10,701 --> 00:03:13,440
+ever carried out on an Egyptian mummy.
+
+38
+00:03:14,260 --> 00:03:16,300
+This technology is fascinating.
+
+39
+00:03:16,301 --> 00:03:18,240
+It's like doing a virtual autopsy.
+
+40
+00:03:18,320 --> 00:03:20,320
+without touching the mummy at all.
+
+41
+00:03:21,880 --> 00:03:25,620
+The type of scanner used on the mummy is called a C-arm.
+
+42
+00:03:26,920 --> 00:03:30,240
+It's a movable arm that completely encircles the subject.
+
+43
+00:03:32,100 --> 00:03:36,320
+The C-arm produces an astounding 60,000 image slices,
+
+44
+00:03:36,860 --> 00:03:41,300
+which deliver details rarely before seen in a mummy scan.
+
+45
+00:03:42,860 --> 00:03:44,800
+This is breakthrough technology.
+
+46
+00:03:44,801 --> 00:03:48,380
+Humans cannot even go through the scanner right now.
+
+47
+00:03:48,480 --> 00:03:49,340
+It's that new.
+
+48
+00:03:49,840 --> 00:03:52,220
+The thousands of images from the scanner
+
+49
+00:03:52,221 --> 00:03:54,000
+were then fed into a supercomputer
+
+50
+00:03:54,001 --> 00:03:59,140
+to create a virtual three-dimensional image inside the mummy.
+
+51
+00:04:01,400 --> 00:04:05,800
+It's a fantastic thing because it's preserved in its original state.
+
+52
+00:04:06,140 --> 00:04:08,520
+And as we found out, it is preserved so well
+
+53
+00:04:08,521 --> 00:04:10,620
+that we can see details as if it were a child
+
+54
+00:04:10,621 --> 00:04:12,680
+that we're seeing in the clinic today.
+
+55
+00:04:13,520 --> 00:04:15,640
+With these astounding images,
+
+56
+00:04:16,400 --> 00:04:19,460
+Dr. Ladd was able to solve the mystery of the tiny mummy.
+
+57
+00:04:20,780 --> 00:04:24,300
+First, by examining the 3,000-year-old teeth.
+
+58
+00:04:26,080 --> 00:04:28,180
+This is the mummy scan of the jaw.
+
+59
+00:04:28,400 --> 00:04:29,480
+This is from the side.
+
+60
+00:04:30,200 --> 00:04:34,900
+You see the lower jaw, baby teeth, which are already in place,
+
+61
+00:04:35,200 --> 00:04:38,940
+and the teeth that haven't come in yet that are beginning to form,
+
+62
+00:04:39,300 --> 00:04:40,880
+including the six-year molars.
+
+63
+00:04:40,881 --> 00:04:44,640
+This tells us the age because there's baby teeth still in place,
+
+64
+00:04:44,740 --> 00:04:47,980
+so we know it's a young child, hasn't lost any teeth.
+
+65
+00:04:48,460 --> 00:04:50,200
+The six-year molars haven't come in yet,
+
+66
+00:04:50,240 --> 00:04:52,380
+which tells that this child is younger than six.
+
+67
+00:04:54,560 --> 00:04:58,980
+Details from under the wrappings also revealed clues about the sex of the child.
+
+68
+00:05:00,660 --> 00:05:04,920
+So this image of the mummy skull, the child's skull,
+
+69
+00:05:05,220 --> 00:05:08,740
+we know it's a girl because on the skull there is a wavy pattern,
+
+70
+00:05:08,741 --> 00:05:11,160
+which is the preservation of the child's hair.
+
+71
+00:05:11,320 --> 00:05:15,420
+And at that time, a girl had hair and a boy had his head shaved.
+
+72
+00:05:15,900 --> 00:05:21,140
+We also know it's a girl because there is no mummified genitalia between the legs,
+
+73
+00:05:21,340 --> 00:05:23,620
+which, by default, that's a girl and not a boy.
+
+74
+00:05:25,100 --> 00:05:29,800
+The scanning images were even able to tell the story of how the little girl may have died.
+
+75
+00:05:32,300 --> 00:05:37,200
+There's a suggestion of there's some scalloping out these kind of grayish areas,
+
+76
+00:05:37,201 --> 00:05:41,300
+which possibly means there was increased intracranial pressure,
+
+77
+00:05:41,460 --> 00:05:44,820
+meaning this child may have had a virus or a bacteria infection
+
+78
+00:05:44,821 --> 00:05:47,880
+causing swelling in the brain, which may have been the cause of death.
+
+79
+00:05:50,440 --> 00:05:52,200
+So it was really a tragedy.
+
+80
+00:05:52,400 --> 00:05:54,960
+There was this healthy child probably running around
+
+81
+00:05:54,961 --> 00:05:56,720
+until just a few weeks before her death.
+
+82
+00:05:57,160 --> 00:05:58,640
+And what an abrupt ending.
+
+83
+00:05:58,641 --> 00:06:02,640
+This is a kid who had a whole life to live, which wasn't.
+
+84
+00:06:03,400 --> 00:06:05,000
+And it's preserved in time,
+
+85
+00:06:05,001 --> 00:06:08,400
+and that's been a wonderful experience, unraveling that mystery.
+
+86
+00:06:10,760 --> 00:06:14,040
+Our high tech may help us understand the past,
+
+87
+00:06:14,680 --> 00:06:17,700
+but how did the Egyptians use their technology
+
+88
+00:06:17,701 --> 00:06:22,600
+to accomplish some of the most amazing body preservation the world has ever known?
+
+89
+00:06:23,720 --> 00:06:25,900
+The Egyptians were the techies of their day.
+
+90
+00:06:26,540 --> 00:06:28,600
+They had skills that nobody else had.
+
+91
+00:06:29,240 --> 00:06:32,320
+Dr. Robert Breyer, a renowned Egyptologist,
+
+92
+00:06:32,321 --> 00:06:38,780
+is considered by many to be the world's foremost expert on mummies and the mummification process.
+
+93
+00:06:39,780 --> 00:06:40,480
+In fact...
+
+94
+00:06:41,380 --> 00:06:44,220
+People sometimes call me Mr. Mummy. I'd never call myself that.
+
+95
+00:06:44,400 --> 00:06:47,940
+But I think it's that they're surprised that there's anybody who would work with just mummies.
+
+96
+00:06:49,000 --> 00:06:51,240
+Dr. Breyer is so fascinated by mummies,
+
+97
+00:06:51,780 --> 00:06:55,240
+he wanted to accomplish what no one else had in thousands of years.
+
+98
+00:06:55,241 --> 00:07:05,260
+In 1994, he performed and documented an actual body mummification, using the same process
+
+99
+00:07:05,261 --> 00:07:06,420
+as the ancient Egyptians.
+
+100
+00:07:06,421 --> 00:07:13,120
+I decided to mummify a human cadaver because I wanted to know exactly how the Egyptians
+
+101
+00:07:13,121 --> 00:07:14,160
+mummified their dead.
+
+102
+00:07:15,160 --> 00:07:18,562
+Without the use of modern medical technology, Dr.
+
+103
+00:07:18,563 --> 00:07:21,200
+Breyer set out to mummify a body using
+
+104
+00:07:21,201 --> 00:07:24,680
+the exact tools available to the Egyptians millennia ago.
+
+105
+00:07:25,240 --> 00:07:29,380
+In order to do the project, we had to replicate Egyptian tools.
+
+106
+00:07:30,040 --> 00:07:33,680
+Now, they had knives made out of bronze and copper,
+
+107
+00:07:33,960 --> 00:07:37,360
+but they also had obsidian, which is volcanic glass,
+
+108
+00:07:37,580 --> 00:07:40,860
+and that's very sharp, even sharper than surgical scalpels.
+
+109
+00:07:41,080 --> 00:07:42,720
+So they used that for incisions, too.
+
+110
+00:07:43,480 --> 00:07:45,720
+Using a cadaver donated to science,
+
+111
+00:07:46,360 --> 00:07:50,300
+Dr. Breyer began his first step in the Egyptian mummification process,
+
+112
+00:07:51,540 --> 00:07:53,420
+removing the internal organs,
+
+113
+00:07:53,421 --> 00:07:55,380
+which are prone to rapid decay.
+
+114
+00:07:57,620 --> 00:07:59,220
+In order to preserve a body,
+
+115
+00:07:59,620 --> 00:08:02,040
+you have to make sure that bacteria don't act on it.
+
+116
+00:08:02,340 --> 00:08:03,600
+Bacteria is what causes decay.
+
+117
+00:08:04,000 --> 00:08:05,260
+They act on the soft tissue.
+
+118
+00:08:05,700 --> 00:08:08,540
+And the reason they go to the soft tissue is there's water there.
+
+119
+00:08:08,800 --> 00:08:11,940
+So the key is dehydrate quickly, get rid of the moisture,
+
+120
+00:08:12,180 --> 00:08:13,960
+so the bacteria won't decay your body.
+
+121
+00:08:14,660 --> 00:08:16,840
+Now, this tool was really important.
+
+122
+00:08:17,720 --> 00:08:20,320
+They removed the internal organs through a tiny incision,
+
+123
+00:08:20,560 --> 00:08:21,880
+only 3 1⁄2 inches wide.
+
+124
+00:08:21,881 --> 00:08:24,460
+So you can't get your full hands, you can't get two hands in.
+
+125
+00:08:24,760 --> 00:08:27,220
+So this tool, when you've got your incision made,
+
+126
+00:08:27,360 --> 00:08:30,540
+you can put it in the incision and kind of pull the organs out.
+
+127
+00:08:31,740 --> 00:08:34,320
+The Egyptians made such small incisions
+
+128
+00:08:34,321 --> 00:08:37,940
+because they wanted to cause bodies as little damage as possible.
+
+129
+00:08:41,420 --> 00:08:44,340
+Ancient embalmers removed all the internal organs,
+
+130
+00:08:44,780 --> 00:08:50,240
+from the stomach and lungs to the liver, pancreas and gallbladder.
+
+131
+00:08:50,241 --> 00:08:53,240
+The only organ left was the heart.
+
+132
+00:08:53,340 --> 00:08:55,240
+They left the heart in place
+
+133
+00:08:55,340 --> 00:08:57,840
+because they believed you thought with your heart.
+
+134
+00:08:57,940 --> 00:08:59,840
+They didn't realize you thought with your brain.
+
+135
+00:08:59,940 --> 00:09:02,280
+So they left the heart in place because you're going to need that
+
+136
+00:09:02,380 --> 00:09:04,980
+to do your thinking when you get to the next world.
+
+137
+00:09:05,080 --> 00:09:07,300
+Once the organs were removed,
+
+138
+00:09:07,400 --> 00:09:11,200
+the Egyptians stored them and buried them with the mummy
+
+139
+00:09:11,300 --> 00:09:15,200
+in containers called canopic jars.
+
+140
+00:09:15,300 --> 00:09:16,900
+It's really a jar.
+
+141
+00:09:17,000 --> 00:09:17,900
+It's got a lid.
+
+142
+00:09:18,000 --> 00:09:19,600
+It's hollow inside.
+
+143
+00:09:19,601 --> 00:09:23,500
+And the lid is in the shape of a god who protects the internal organs.
+
+144
+00:09:24,180 --> 00:09:28,340
+And the ancient Egyptians put the internal organs inside for protection.
+
+145
+00:09:29,580 --> 00:09:32,220
+Nearly morticians didn't preserve the brain
+
+146
+00:09:32,221 --> 00:09:35,800
+because they thought it was responsible for producing mucus.
+
+147
+00:09:36,560 --> 00:09:38,880
+So to keep skull damage to a minimum,
+
+148
+00:09:39,980 --> 00:09:42,600
+they removed the brain through the nose.
+
+149
+00:09:43,520 --> 00:09:47,160
+Undoubtedly, the hardest thing for the Egyptians to do was remove the brain.
+
+150
+00:09:47,161 --> 00:09:49,160
+Now, this was done by a skilled surgeon,
+
+151
+00:09:49,161 --> 00:09:52,160
+somebody who really knew what he was doing.
+
+152
+00:09:52,161 --> 00:09:55,160
+The surgeon opened a pathway to the brain
+
+153
+00:09:55,161 --> 00:09:57,160
+by breaking through the ethmoid bone
+
+154
+00:09:57,161 --> 00:10:00,160
+in the back of the nasal cavity.
+
+155
+00:10:00,161 --> 00:10:03,160
+And then they used something like this.
+
+156
+00:10:03,161 --> 00:10:05,160
+I mean, it looks like a coat hanger.
+
+157
+00:10:05,161 --> 00:10:08,160
+And what they did was they inserted it through the nasal passages
+
+158
+00:10:08,161 --> 00:10:10,160
+into the cranium.
+
+159
+00:10:12,160 --> 00:10:14,160
+The brain doesn't stick to the tool.
+
+160
+00:10:14,161 --> 00:10:16,160
+It's almost too liquid.
+
+161
+00:10:16,161 --> 00:10:20,400
+So what we realized is that the way the Egyptians did it was,
+
+162
+00:10:21,040 --> 00:10:24,340
+they indeed put the long coat hanger light instrument through the nose.
+
+163
+00:10:24,940 --> 00:10:27,520
+But then once it's in the cranium, in the brain,
+
+164
+00:10:27,960 --> 00:10:29,880
+you use it like a kitchen whisk almost.
+
+165
+00:10:29,881 --> 00:10:32,660
+We rotated it around and around and around,
+
+166
+00:10:33,100 --> 00:10:35,580
+breaking down the brain, liquefying it.
+
+167
+00:10:35,920 --> 00:10:37,860
+Then you turn the cadaver upside down,
+
+168
+00:10:38,060 --> 00:10:40,720
+and the brain runs out through the nose like a liquid.
+
+169
+00:10:41,160 --> 00:10:42,560
+That's how the Egyptians did it.
+
+170
+00:10:42,561 --> 00:10:46,860
+The ancient embalmers removed moisture from inside the body
+
+171
+00:10:46,861 --> 00:10:52,420
+by inserting pouches of a sodium carbonate compound called natrin.
+
+172
+00:10:53,560 --> 00:10:54,700
+This is natrin.
+
+173
+00:10:55,440 --> 00:10:59,700
+It's exactly like the natrin the ancient Egyptian embalmers used 2,000 years ago.
+
+174
+00:11:00,500 --> 00:11:03,900
+Natrin is basically a salt, and the way it dehydrates is like any salt.
+
+175
+00:11:04,200 --> 00:11:04,940
+It's hygroscopic.
+
+176
+00:11:04,941 --> 00:11:10,260
+It pulls the water out of the body, bonds with it, and the body becomes dehydrated.
+
+177
+00:11:12,560 --> 00:11:15,860
+Then, Dr. Breyer copied the Egyptian practice
+
+178
+00:11:15,960 --> 00:11:19,260
+of covering the outside of the body with natron
+
+179
+00:11:19,360 --> 00:11:22,160
+and leaving it to dry in the heat for 35 days.
+
+180
+00:11:25,300 --> 00:11:26,400
+The result?
+
+181
+00:11:26,500 --> 00:11:30,020
+A dried out but recognizable body.
+
+182
+00:11:30,120 --> 00:11:33,320
+This, in essence, is what a mummy would have looked like thousands
+
+183
+00:11:33,420 --> 00:11:36,720
+of years ago before the final and most recognizable step
+
+184
+00:11:36,820 --> 00:11:42,560
+in mummification, wrapping the deceased in linen, lots of linen.
+
+185
+00:11:42,561 --> 00:11:44,780
+And wrapping was a ritual.
+
+186
+00:11:45,720 --> 00:11:48,060
+They wrapped each finger individually,
+
+187
+00:11:48,580 --> 00:11:50,940
+the hands,
+
+188
+00:11:52,240 --> 00:11:53,900
+the legs.
+
+189
+00:11:54,900 --> 00:11:57,440
+There are magical spells on the bandages.
+
+190
+00:11:58,020 --> 00:12:00,880
+As this is going on, priests are chanting prayers.
+
+191
+00:12:01,220 --> 00:12:03,000
+So there's a ritual that's going on
+
+192
+00:12:03,001 --> 00:12:05,120
+parallel to the physical process.
+
+193
+00:12:06,200 --> 00:12:08,580
+Over 20 pounds of linen wrappings
+
+194
+00:12:08,581 --> 00:12:11,100
+were used during a typical Egyptian mummification.
+
+195
+00:12:11,101 --> 00:12:14,520
+If you were wealthy enough, as you were being wrapped,
+
+196
+00:12:15,220 --> 00:12:18,980
+within the layers of wrapping, they would place magical amulets.
+
+197
+00:12:19,340 --> 00:12:22,600
+Now, an amulet is anything that's small that can be worn for protection.
+
+198
+00:12:23,620 --> 00:12:27,440
+So in the bandages, you could have as many as 100 amulets.
+
+199
+00:12:28,360 --> 00:12:30,580
+This is an ancient amulet from a mummy.
+
+200
+00:12:30,900 --> 00:12:32,120
+It's 3,000 years old.
+
+201
+00:12:32,620 --> 00:12:36,420
+And if you look at it closely, you can see that it's carved like a beetle.
+
+202
+00:12:37,200 --> 00:12:39,100
+And on the bottom is the payoff.
+
+203
+00:12:39,101 --> 00:12:40,600
+There are two little holes.
+
+204
+00:12:41,100 --> 00:12:44,220
+That's where it was sewn onto the mummy to protect it forever.
+
+205
+00:12:44,520 --> 00:12:45,520
+It was in the wrappings.
+
+206
+00:12:46,340 --> 00:12:49,620
+The wrappings were coated with resin made from tree sap.
+
+207
+00:12:50,920 --> 00:12:54,140
+The resin hardened into a black tar-like substance,
+
+208
+00:12:54,600 --> 00:12:57,180
+which ensured the wrapping stayed in place.
+
+209
+00:12:58,940 --> 00:13:02,700
+The word mummy comes from the Arabic word mumia,
+
+210
+00:13:03,120 --> 00:13:04,540
+which means black tar.
+
+211
+00:13:06,140 --> 00:13:10,500
+The entire process took the Egyptians up to 70 days to complete.
+
+212
+00:13:11,100 --> 00:13:18,040
+For these modern-day mummifiers, it was an education in a long-lost ancient art.
+
+213
+00:13:19,440 --> 00:13:21,800
+I think the mummy project was really important.
+
+214
+00:13:22,540 --> 00:13:27,040
+It was the first time in 2,000 years that anyone had conducted an Egyptian mummification.
+
+215
+00:13:27,740 --> 00:13:31,540
+And for the first time, we know the details now of how they did it.
+
+216
+00:13:31,780 --> 00:13:33,080
+So I think it was really important.
+
+217
+00:13:35,560 --> 00:13:38,480
+Although the process was over for Dr. Breyer,
+
+218
+00:13:39,480 --> 00:13:44,020
+The ancients still had much to do to protect the mummy for eternity.
+
+219
+00:13:46,220 --> 00:13:51,440
+In addition to the wrappings, the Egyptians used a papier-mâché-like material
+
+220
+00:13:51,441 --> 00:13:55,860
+called a cartonnage to cover the head and feet of the mummy.
+
+221
+00:13:57,520 --> 00:14:00,000
+Then the body was placed in a wooden coffin.
+
+222
+00:14:01,220 --> 00:14:04,780
+And finally, if the deceased had been wealthy or a pharaoh,
+
+223
+00:14:04,781 --> 00:14:09,780
+The mummy was sealed in a stone or granite sarcophagus.
+
+224
+00:14:09,781 --> 00:14:11,780
+So it's kind of like a whole set of luggage
+
+225
+00:14:11,781 --> 00:14:13,780
+that fits one inside the other.
+
+226
+00:14:13,781 --> 00:14:15,780
+You've got all of these different layers of protection,
+
+227
+00:14:15,781 --> 00:14:17,780
+all for eternity.
+
+228
+00:14:19,780 --> 00:14:22,780
+Although mummification was a complicated,
+
+229
+00:14:22,781 --> 00:14:25,780
+time-consuming task, it was only the start
+
+230
+00:14:25,781 --> 00:14:28,780
+of a burial ritual.
+
+231
+00:14:28,781 --> 00:14:31,780
+The Egyptians honored the dead by constructing
+
+232
+00:14:31,781 --> 00:14:34,920
+by constructing enormous tombs and temples,
+
+233
+00:14:34,921 --> 00:14:37,920
+which became wonders of the world.
+
+234
+00:14:44,420 --> 00:14:47,240
+Dr. Bob Breyer used more than 400 pounds
+
+235
+00:14:47,241 --> 00:14:51,640
+of the salt compound natron to create his modern-day mummy.
+
+236
+00:14:51,641 --> 00:14:57,640
+Mummy Tech will return on Modern Marvels.
+
+237
+00:14:57,641 --> 00:15:06,640
+Egypt is the only country in the world where the process of preserving a body became an art form.
+
+238
+00:15:09,840 --> 00:15:14,580
+The Egyptians began to develop their skills before 3000 BC.
+
+239
+00:15:16,940 --> 00:15:20,600
+Mummification actually was discovered sort of by accident by the ancient Egyptians.
+
+240
+00:15:21,160 --> 00:15:24,560
+This is such a hot, dry climate. The sand is virtually an oven.
+
+241
+00:15:24,561 --> 00:15:28,500
+They buried people in graves in the ground
+
+242
+00:15:28,501 --> 00:15:31,860
+and then discovered that these bodies were pretty much preserved,
+
+243
+00:15:32,200 --> 00:15:34,700
+almost like dried fish.
+
+244
+00:15:35,140 --> 00:15:38,180
+And they realized that nature could do this
+
+245
+00:15:38,181 --> 00:15:40,440
+and then began to develop technologies
+
+246
+00:15:40,441 --> 00:15:42,620
+and a pretty sophisticated science
+
+247
+00:15:42,621 --> 00:15:45,220
+to be able to sort of artificially do the same thing.
+
+248
+00:15:46,140 --> 00:15:48,420
+As it evolved over the centuries,
+
+249
+00:15:49,220 --> 00:15:51,620
+mummification grew into a vast industry.
+
+250
+00:15:52,620 --> 00:15:54,180
+When it came to mummification,
+
+251
+00:15:54,560 --> 00:15:57,520
+The Egyptians were way ahead of everybody in the Near East.
+
+252
+00:15:58,060 --> 00:15:59,360
+Nobody could do it like they did.
+
+253
+00:15:59,460 --> 00:16:00,900
+They also had the resources.
+
+254
+00:16:01,440 --> 00:16:03,960
+They were a wealthy country that had conquered the Near East,
+
+255
+00:16:04,100 --> 00:16:06,160
+so it takes a lot of money to do this,
+
+256
+00:16:06,280 --> 00:16:07,600
+and they had the money to do it,
+
+257
+00:16:07,601 --> 00:16:11,120
+so they could indulge themselves and really perfect the art form.
+
+258
+00:16:12,580 --> 00:16:16,160
+The Egyptians utilized their technology and resources
+
+259
+00:16:16,161 --> 00:16:17,760
+not only for mummification,
+
+260
+00:16:18,280 --> 00:16:21,460
+but also to build enormous tombs.
+
+261
+00:16:21,461 --> 00:16:28,460
+A vast complex of these tombs is known as a necropolis, or city of the dead.
+
+262
+00:16:28,461 --> 00:16:35,460
+The design and technology to make the tombs was pretty sophisticated and pretty demanding.
+
+263
+00:16:35,461 --> 00:16:40,460
+They were working with bronze tools, hewing out square chambers in the rock,
+
+264
+00:16:40,461 --> 00:16:44,460
+sometimes hundreds of yards deep into the limestone.
+
+265
+00:16:44,461 --> 00:16:49,460
+And typically, a pharaoh had this team working for 40 years to prepare his tomb.
+
+266
+00:16:49,461 --> 00:16:52,860
+That's a remarkable feat of skill and engineering,
+
+267
+00:16:53,260 --> 00:16:54,700
+considering what they had at their disposal.
+
+268
+00:16:59,480 --> 00:17:01,600
+The Great Pyramid of Khufu,
+
+269
+00:17:01,900 --> 00:17:03,540
+one of the seven wonders of the world,
+
+270
+00:17:04,100 --> 00:17:06,980
+is a tomb constructed utilizing this organization
+
+271
+00:17:06,981 --> 00:17:08,320
+and building technology.
+
+272
+00:17:11,820 --> 00:17:16,860
+It is still the single largest masonry building ever constructed,
+
+273
+00:17:16,861 --> 00:17:19,860
+And all of that was done to house, in the center,
+
+274
+00:17:20,060 --> 00:17:23,540
+a little tiny burial chamber with the pharaoh's mummy inside.
+
+275
+00:17:26,680 --> 00:17:30,820
+The Egyptians believed that a dead person's soul left the body,
+
+276
+00:17:31,280 --> 00:17:34,320
+but would rejoin it at burial.
+
+277
+00:17:35,940 --> 00:17:40,220
+So the deceased needed his body and worldly possessions for the afterlife.
+
+278
+00:17:42,500 --> 00:17:45,640
+The basic design for most Egyptian tombs
+
+279
+00:17:45,641 --> 00:17:47,740
+included three essential compartments.
+
+280
+00:17:48,520 --> 00:17:51,260
+The entrance, the offering chamber,
+
+281
+00:17:51,820 --> 00:17:53,280
+and the burial chamber.
+
+282
+00:17:54,420 --> 00:17:57,840
+This is a typical entrance to an ancient Egyptian tomb.
+
+283
+00:17:58,720 --> 00:18:00,300
+These hieroglyphs would tell you
+
+284
+00:18:00,301 --> 00:18:02,320
+who was buried in this tomb,
+
+285
+00:18:02,860 --> 00:18:06,100
+would also present a welcome and a curse.
+
+286
+00:18:06,880 --> 00:18:09,800
+The curse or the warning in the hieroglyph says,
+
+287
+00:18:09,801 --> 00:18:11,920
+if you come with bad intentions,
+
+288
+00:18:12,400 --> 00:18:14,600
+depart now before it is too late.
+
+289
+00:18:14,601 --> 00:18:17,500
+But we have good intentions, so let's go inside.
+
+290
+00:18:25,720 --> 00:18:30,660
+Tomb builders carved a tunnel that connected the entrance to the first room inside,
+
+291
+00:18:31,680 --> 00:18:33,280
+the offering chamber.
+
+292
+00:18:34,960 --> 00:18:38,860
+A door like this would have been found in an ancient tomb.
+
+293
+00:18:38,861 --> 00:18:44,680
+The relatives of the deceased person would leave offerings here at the bottom of the door,
+
+294
+00:18:45,040 --> 00:18:50,560
+and the deceased person's soul would magically enter here
+
+295
+00:18:50,561 --> 00:18:54,920
+and take the food or other offerings to the afterlife,
+
+296
+00:18:55,440 --> 00:18:57,580
+back out through this same magical door.
+
+297
+00:19:02,940 --> 00:19:07,280
+The Egyptians dug a shaft, sometimes hundreds of feet long,
+
+298
+00:19:07,281 --> 00:19:09,600
+that connected to the final chamber.
+
+299
+00:19:12,120 --> 00:19:14,280
+We're in the burial chamber now.
+
+300
+00:19:14,700 --> 00:19:17,060
+This is the granite sarcophagus.
+
+301
+00:19:17,660 --> 00:19:20,740
+Inside of this would have been a wooden sarcophagus,
+
+302
+00:19:20,880 --> 00:19:23,880
+and inside of that would have been placed the body of the tomb owner.
+
+303
+00:19:24,360 --> 00:19:27,100
+All of this, then, would have been buried underground.
+
+304
+00:19:28,080 --> 00:19:31,840
+The hieroglyphs and images in the burial chamber
+
+305
+00:19:31,841 --> 00:19:36,500
+describe the life that the tomb owner wanted to live in the afterlife.
+
+306
+00:19:37,280 --> 00:19:40,280
+Included in the burial chamber would have been items
+
+307
+00:19:40,380 --> 00:19:44,180
+that the deceased person would hope to use in the next life,
+
+308
+00:19:44,280 --> 00:19:49,320
+treasures that they would take with them to the afterlife.
+
+309
+00:19:49,420 --> 00:19:52,220
+The enormous treasures became easy targets
+
+310
+00:19:52,320 --> 00:19:54,160
+for grave robbers.
+
+311
+00:19:54,260 --> 00:19:56,760
+So tomb builders created a barricade
+
+312
+00:19:56,860 --> 00:20:00,240
+to protect these riches by backfilling the passages
+
+313
+00:20:00,340 --> 00:20:02,440
+to the burial chamber.
+
+314
+00:20:02,540 --> 00:20:04,180
+So the first thing a thief encountered
+
+315
+00:20:04,181 --> 00:20:08,180
+when he found the tomb site was sometimes 300 yards
+
+316
+00:20:08,220 --> 00:20:11,180
+of solid stone rubble that he had to dig through
+
+317
+00:20:11,220 --> 00:20:14,180
+to get into the tomb proper.
+
+318
+00:20:14,220 --> 00:20:16,860
+Over the centuries, the interiors of tombs
+
+319
+00:20:16,900 --> 00:20:19,300
+became increasingly elaborate,
+
+320
+00:20:19,320 --> 00:20:22,900
+with the intention of confusing tomb raiders.
+
+321
+00:20:22,940 --> 00:20:26,260
+Often, Egyptian tombs were designed specifically
+
+322
+00:20:26,300 --> 00:20:30,700
+to hide the mummy, to keep the mummy secret.
+
+323
+00:20:30,701 --> 00:20:38,740
+So one of the manners was to use false passages, false doors, false chambers, etc.,
+
+324
+00:20:38,741 --> 00:20:43,100
+so that people would be lost, in effect, kind of in a maze, often.
+
+325
+00:20:44,180 --> 00:20:46,920
+However, this did little to deter grave robbing.
+
+326
+00:20:49,160 --> 00:20:52,320
+Thieves often desecrated the mummies and their tombs
+
+327
+00:20:52,321 --> 00:20:55,820
+to steal the riches that were meant for the afterlife.
+
+328
+00:20:55,821 --> 00:21:00,520
+The effect of the plundering of the tomb over the centuries
+
+329
+00:21:00,521 --> 00:21:04,120
+was that an untold number of ancient riches
+
+330
+00:21:04,121 --> 00:21:06,740
+have been lost or dispersed.
+
+331
+00:21:07,540 --> 00:21:10,980
+A threat greater than grave robbing was yet to come.
+
+332
+00:21:12,900 --> 00:21:17,320
+In 525 B.C., the Persians conquered Egypt,
+
+333
+00:21:18,380 --> 00:21:21,220
+followed by the Greeks and the Romans.
+
+334
+00:21:21,221 --> 00:21:25,800
+The invaders were fascinated by mummification
+
+335
+00:21:25,801 --> 00:21:28,640
+and allowed the practice to continue.
+
+336
+00:21:30,560 --> 00:21:35,460
+But later in 642 AD, the Arabs occupied Egypt
+
+337
+00:21:35,461 --> 00:21:37,940
+and Islam became the dominant religion.
+
+338
+00:21:39,920 --> 00:21:43,540
+Mummification was not tolerated and came to an end.
+
+339
+00:21:44,760 --> 00:21:46,620
+And then it became a lost art.
+
+340
+00:21:47,420 --> 00:21:49,640
+Egypt was eventually invaded by the Arabs,
+
+341
+00:21:49,641 --> 00:21:51,680
+becomes a Muslim country,
+
+342
+00:21:52,180 --> 00:21:55,060
+and in a sense is cut off from the Christian West.
+
+343
+00:21:55,460 --> 00:21:57,740
+So throughout the Middle Ages, throughout the Renaissance,
+
+344
+00:21:58,140 --> 00:21:59,480
+we've lost touch with Egypt,
+
+345
+00:21:59,740 --> 00:22:01,640
+and that art of mummification is gone.
+
+346
+00:22:02,540 --> 00:22:03,920
+So sands come in,
+
+347
+00:22:04,620 --> 00:22:06,780
+whole temples are lost,
+
+348
+00:22:07,380 --> 00:22:08,680
+tombs are buried under sand,
+
+349
+00:22:08,681 --> 00:22:10,480
+and it simply remains there,
+
+350
+00:22:10,860 --> 00:22:12,560
+waiting for archaeologists to discover it.
+
+351
+00:22:15,240 --> 00:22:18,260
+With the advance of another conquering superpower,
+
+352
+00:22:18,261 --> 00:22:21,360
+Egypt's mummies would be rediscovered.
+
+353
+00:22:22,660 --> 00:22:26,000
+In 1798, Napoleon invaded Egypt
+
+354
+00:22:26,001 --> 00:22:29,700
+and took scientists with him to document Egyptian culture.
+
+355
+00:22:30,640 --> 00:22:34,280
+And they really do the first archaeological survey of Egypt.
+
+356
+00:22:34,720 --> 00:22:38,000
+And this is how the West really learns about Egypt for the first time.
+
+357
+00:22:38,320 --> 00:22:41,580
+When they start publishing their drawings and their paintings
+
+358
+00:22:41,581 --> 00:22:45,440
+and people see for the first time accurate depictions of mummies,
+
+359
+00:22:45,441 --> 00:22:49,440
+This is when Europe goes wild with Egyptomania.
+
+360
+00:22:49,441 --> 00:22:52,440
+In the 19th and early 20th centuries,
+
+361
+00:22:52,441 --> 00:22:55,440
+Egyptian mummies became historical treasures
+
+362
+00:22:55,441 --> 00:22:58,440
+sought after by museums worldwide.
+
+363
+00:22:58,441 --> 00:23:01,440
+Once people realize how important mummies are,
+
+364
+00:23:01,441 --> 00:23:03,440
+that they're part of history,
+
+365
+00:23:03,441 --> 00:23:05,440
+then they start being displayed in museums,
+
+366
+00:23:05,441 --> 00:23:07,440
+being taken care of,
+
+367
+00:23:07,441 --> 00:23:10,440
+and then that leads to studying them.
+
+368
+00:23:10,441 --> 00:23:12,440
+During the 1900s,
+
+369
+00:23:12,441 --> 00:23:15,240
+archaeologists combed Egyptian burial sites
+
+370
+00:23:15,340 --> 00:23:18,380
+for these links to the past.
+
+371
+00:23:18,480 --> 00:23:20,080
+One of the most important discoveries
+
+372
+00:23:20,180 --> 00:23:23,580
+was the tomb of King Tut.
+
+373
+00:23:23,680 --> 00:23:25,980
+But there was more than treasure here.
+
+374
+00:23:26,080 --> 00:23:29,100
+There was a curse and a murder mystery.
+
+375
+00:23:33,800 --> 00:23:38,700
+The Egyptians mummified not only humans, but also animals.
+
+376
+00:23:38,701 --> 00:23:42,500
+Dogs, cats, cows, and even lions
+
+377
+00:23:42,501 --> 00:23:45,600
+have been discovered mummified in ancient tombs.
+
+378
+00:23:47,460 --> 00:23:49,900
+Mummy Tech will return on Modern Marvel,
+
+379
+00:23:50,700 --> 00:23:52,860
+here on the History Channel.
+
+380
+00:23:55,460 --> 00:24:00,000
+King Tutankhamen, or as he is best known, King Tut,
+
+381
+00:24:00,660 --> 00:24:03,660
+is probably the most famous mummy in the world.
+
+382
+00:24:05,560 --> 00:24:06,260
+Hi.
+
+383
+00:24:06,261 --> 00:24:10,380
+The pharaoh is not only celebrated for the enormous riches
+
+384
+00:24:10,381 --> 00:24:15,660
+discovered in his tomb, but also for the mysteries surrounding
+
+385
+00:24:15,661 --> 00:24:17,440
+his life and death.
+
+386
+00:24:19,320 --> 00:24:23,080
+Today's technology has attempted to uncover some of the answers
+
+387
+00:24:23,081 --> 00:24:25,160
+to this legendary intrigue.
+
+388
+00:24:27,980 --> 00:24:31,720
+Fascination has surrounded Tut since British archaeologist
+
+389
+00:24:31,721 --> 00:24:35,180
+Howard Carter first discovered him in 1922.
+
+390
+00:24:36,240 --> 00:24:42,380
+When he discovered the tomb and actually began to publicize these finds, this news galloped around the world.
+
+391
+00:24:42,520 --> 00:24:48,920
+I mean, front page news in New York and in Sydney and in Cairo and in Paris were all talking about this sensational find.
+
+392
+00:24:49,000 --> 00:24:49,980
+It really was Tutmania.
+
+393
+00:24:51,300 --> 00:24:56,700
+In the beginning, Tutmania was motivated by the stores of riches found in his tomb.
+
+394
+00:24:58,360 --> 00:25:04,040
+There were over 5,000 objects put into this very small tomb with King Tut.
+
+395
+00:25:04,041 --> 00:25:06,560
+There's gold, there's alabaster, there's ivory,
+
+396
+00:25:07,100 --> 00:25:10,000
+jewelry and precious stones that still dazzle your eye.
+
+397
+00:25:10,340 --> 00:25:13,380
+And one of the most remarkable things is how well-preserved they are,
+
+398
+00:25:13,500 --> 00:25:14,800
+as though they were made yesterday.
+
+399
+00:25:16,700 --> 00:25:19,440
+One of the most celebrated relics unearthed
+
+400
+00:25:19,441 --> 00:25:22,880
+was the gold burial mask that was placed on Tut's face.
+
+401
+00:25:24,260 --> 00:25:28,580
+This particular death mask is one of the most spectacular objects
+
+402
+00:25:28,581 --> 00:25:32,040
+ever found in anywhere, anywhere and from any culture,
+
+403
+00:25:32,041 --> 00:25:36,720
+made of gold and a variety of other metals, including silver,
+
+404
+00:25:37,040 --> 00:25:40,620
+but also with stones such as onyx, turquoise, obsidian,
+
+405
+00:25:40,780 --> 00:25:42,860
+a variety of different elements put together
+
+406
+00:25:42,861 --> 00:25:46,300
+to make an absolutely gorgeous death mask.
+
+407
+00:25:46,720 --> 00:25:51,700
+In a short time, supernatural mystery would accompany this sublime treasure.
+
+408
+00:25:53,380 --> 00:25:56,900
+Legend has it that those who entered the tomb became ill
+
+409
+00:25:56,901 --> 00:25:59,000
+and died shortly thereafter.
+
+410
+00:25:59,001 --> 00:26:04,560
+The first individual to die that started the legend of the curse of the mummy was Lord Carnarvon.
+
+411
+00:26:04,920 --> 00:26:07,700
+He was the man who financed Carter's digs.
+
+412
+00:26:08,060 --> 00:26:12,980
+He died about two months after Carter opened the chamber that had the mummy in it.
+
+413
+00:26:13,420 --> 00:26:21,480
+And so the legend was born, and then over time, anybody who was associated with the project who died suddenly was ascribed to be a victim of the mummy's curse.
+
+414
+00:26:22,660 --> 00:26:24,760
+For decades, the myth endured.
+
+415
+00:26:26,040 --> 00:26:28,040
+Hollywood even cashed in on the curse.
+
+416
+00:26:29,000 --> 00:26:31,740
+I think the mummy, as a horror for you,
+
+417
+00:26:31,760 --> 00:26:35,500
+really becomes prominent after the discovery of King Tut's tomb.
+
+418
+00:26:35,540 --> 00:26:38,380
+There was all this talk about the curse of King Tut,
+
+419
+00:26:38,400 --> 00:26:41,940
+and then you get the idea of mummies as things that kill people.
+
+420
+00:26:41,980 --> 00:26:44,780
+So I think it's really after Tutankhamun's tomb was discovered.
+
+421
+00:26:44,820 --> 00:26:49,360
+The curse may have struck gold at the box office,
+
+422
+00:26:49,380 --> 00:26:51,960
+but science has some far different theories
+
+423
+00:26:51,980 --> 00:26:55,400
+about what might cause death to those who enter tombs.
+
+424
+00:26:55,401 --> 00:27:02,740
+there apparently are some very real scientific reasons that are surfacing now
+
+425
+00:27:02,741 --> 00:27:07,420
+most archaeologists these days who open sealed tombs in ancient egypt actually let the tombs
+
+426
+00:27:07,421 --> 00:27:11,840
+breathe so to speak for a few days because there may well be build-ups of toxic gases
+
+427
+00:27:11,841 --> 00:27:16,440
+other toxic materials these are chambers that have been sealed for countless generations
+
+428
+00:27:16,441 --> 00:27:23,340
+they have decomposing bodies in them foodstuffs the resins and the other chemicals that were
+
+429
+00:27:23,341 --> 00:27:26,100
+made and used during the lummification process,
+
+430
+00:27:26,240 --> 00:27:29,180
+all of that can contribute to a pretty risky environment.
+
+431
+00:27:29,280 --> 00:27:31,280
+So archaeologists actually let the tombs breathe
+
+432
+00:27:31,380 --> 00:27:33,280
+before they go in.
+
+433
+00:27:33,380 --> 00:27:35,780
+So perhaps science has solved the mystery
+
+434
+00:27:35,880 --> 00:27:39,380
+of the curse of King Tut.
+
+435
+00:27:39,480 --> 00:27:41,500
+Likewise, science has been put to use
+
+436
+00:27:41,600 --> 00:27:49,200
+to solve another enduring King Tut mystery, a royal murder.
+
+437
+00:27:49,300 --> 00:27:51,100
+The mystery of King Tut's death
+
+438
+00:27:51,101 --> 00:27:54,480
+began at the time that he was found,
+
+439
+00:27:54,760 --> 00:27:56,820
+because they discovered that he was a youth,
+
+440
+00:27:56,980 --> 00:27:59,600
+and we needed to find out exactly how he died.
+
+441
+00:27:59,680 --> 00:28:00,900
+Did he die a natural death?
+
+442
+00:28:01,100 --> 00:28:02,840
+Was he murdered? Was he killed?
+
+443
+00:28:03,360 --> 00:28:07,820
+The boy king ruled ancient Egypt about 3,500 years ago
+
+444
+00:28:07,821 --> 00:28:10,440
+after inheriting the throne from his father
+
+445
+00:28:10,441 --> 00:28:12,100
+at the tender age of nine.
+
+446
+00:28:13,960 --> 00:28:17,180
+Ten years later, his reign was cut short.
+
+447
+00:28:17,780 --> 00:28:20,080
+And there were a number of contenders for the throne,
+
+448
+00:28:20,081 --> 00:28:22,720
+so it's certainly within the realm of possibility.
+
+449
+00:28:23,020 --> 00:28:26,940
+We know that there were other assassinations in Egyptian history of pharaohs,
+
+450
+00:28:26,980 --> 00:28:30,900
+so it would certainly be possible that Tutankhamen could have been murdered.
+
+451
+00:28:31,500 --> 00:28:36,860
+In an effort to solve the mystery, Tut's mummy was X-rayed in 1968,
+
+452
+00:28:37,280 --> 00:28:41,720
+which revealed an intriguing hole in the back of his head.
+
+453
+00:28:43,520 --> 00:28:46,820
+The idea that Tut might have died in a palace coup
+
+454
+00:28:46,821 --> 00:28:50,860
+really took hold after the X-ray of the mummy
+
+455
+00:28:50,861 --> 00:28:53,760
+and revealed a chip of bone driven up into the back of his head.
+
+456
+00:28:53,820 --> 00:28:54,880
+He might have been bludgeoned.
+
+457
+00:28:57,500 --> 00:29:02,000
+In 2005, Tuts remains underwent a CT scan,
+
+458
+00:29:02,400 --> 00:29:05,560
+which produced detailed cross-section images.
+
+459
+00:29:06,380 --> 00:29:10,160
+The discovery in the CAT scan about the hole in the back of the head
+
+460
+00:29:10,161 --> 00:29:13,720
+indicated that it was part of the mummification process.
+
+461
+00:29:13,721 --> 00:29:19,160
+In fact, in the 18th dynasty, many of the mummies had holes in the back of the head,
+
+462
+00:29:19,220 --> 00:29:21,260
+they've discovered when they do these CAT scans.
+
+463
+00:29:21,640 --> 00:29:24,720
+So what caused the boy king to die so young?
+
+464
+00:29:26,480 --> 00:29:31,160
+The CT scan may have also revealed the real cause of Tut's demise.
+
+465
+00:29:33,280 --> 00:29:41,740
+The latest discoveries with CT scanning seem to have suggested that there was perhaps a fracture in his leg
+
+466
+00:29:41,741 --> 00:29:45,800
+and that perhaps an infection that set in later could have killed him,
+
+467
+00:29:46,080 --> 00:29:49,500
+we know that even a toothache, the cavity,
+
+468
+00:29:49,760 --> 00:29:52,820
+could eventually lead to someone's death.
+
+469
+00:29:52,900 --> 00:29:58,020
+And in fact, some of the pharaohs seem to have died from infected teeth.
+
+470
+00:29:58,680 --> 00:30:03,260
+This new evidence has essentially ended the investigation into Tut's murder.
+
+471
+00:30:04,620 --> 00:30:06,680
+The case for murder is closed.
+
+472
+00:30:06,681 --> 00:30:11,200
+100% of the population of Egyptologists believe he was not murdered.
+
+473
+00:30:11,740 --> 00:30:16,140
+In addition to finding the cause of King Tut's death,
+
+474
+00:30:16,141 --> 00:30:21,860
+technology has also given us clues as to what he looked like.
+
+475
+00:30:21,861 --> 00:30:26,720
+Using facial reconstruction, much like law enforcement uses today
+
+476
+00:30:26,721 --> 00:30:29,980
+to help solve murder cases, scientists
+
+477
+00:30:29,981 --> 00:30:32,540
+have created a lifelike model of the Egyptian king.
+
+478
+00:30:35,800 --> 00:30:38,400
+The CT scan images were used to construct
+
+479
+00:30:38,401 --> 00:30:42,540
+plastic model of Tut's skull.
+
+480
+00:30:42,541 --> 00:30:46,700
+Then, using clay, a sculptor molded layers of musculature
+
+481
+00:30:46,701 --> 00:30:48,540
+and skin.
+
+482
+00:30:48,541 --> 00:30:53,780
+An artist fleshed out details, eyebrow thickness, nose, lips,
+
+483
+00:30:53,781 --> 00:30:56,300
+and the approximate shape of Tut's ears.
+
+484
+00:30:56,301 --> 00:31:00,000
+Finally, glass eyes, hair, and even historically accurate
+
+485
+00:31:00,001 --> 00:31:02,460
+makeup completed the reconstruction.
+
+486
+00:31:02,461 --> 00:31:09,460
+This is believed to be what King Tut actually looked like.
+
+487
+00:31:09,461 --> 00:31:16,460
+I think because of the technology that underlies this reconstruction,
+
+488
+00:31:16,461 --> 00:31:22,460
+it's as close as anybody is going to get to what Tut looked like in life.
+
+489
+00:31:22,461 --> 00:31:28,460
+However, the study of the boy king's remains may be far from over.
+
+490
+00:31:28,461 --> 00:31:34,000
+from over. Can technology reveal even more?
+
+491
+00:31:34,001 --> 00:31:38,900
+The fascination of Tut endures and I think as new technologies evolve, he will be a natural
+
+492
+00:31:38,901 --> 00:31:44,020
+subject to apply those new technologies and unlock pieces of the story we can't even guess
+
+493
+00:31:44,021 --> 00:31:47,560
+at yet. King Tut has always received the finest
+
+494
+00:31:47,561 --> 00:31:50,339
+care and scientific study.
+
+495
+00:31:50,340 --> 00:31:56,860
+But for centuries, countless mummies were desecrated, stolen,
+
+496
+00:31:56,861 --> 00:31:58,860
+or simply lost and forgotten.
+
+497
+00:32:03,260 --> 00:32:05,860
+The treasure found in King Tut's tomb
+
+498
+00:32:05,861 --> 00:32:09,860
+is valued today at more than a half billion dollars.
+
+499
+00:32:11,460 --> 00:32:14,860
+Mummy Tech will return on Modern Marvels.
+
+500
+00:32:21,660 --> 00:32:25,360
+Had the ancient Egyptians known the degree of shocking desecration
+
+501
+00:32:25,361 --> 00:32:28,960
+to which their mummies would be subject.
+
+502
+00:32:28,961 --> 00:32:34,400
+They might have thought twice about embalming them for eternity.
+
+503
+00:32:34,401 --> 00:32:38,280
+Through the ages, mummies have been used for all kinds of things.
+
+504
+00:32:38,281 --> 00:32:42,820
+People believed that ground-up mummy itself could give you immortality.
+
+505
+00:32:42,821 --> 00:32:47,320
+So apothecaries in Europe, pharmacists, started grinding up mummies
+
+506
+00:32:47,321 --> 00:32:51,460
+and using it as a medical ingredient to help the sick.
+
+507
+00:32:51,461 --> 00:32:54,520
+During the Civil War, there was a shortage of paper.
+
+508
+00:32:54,521 --> 00:32:57,040
+So the linen from mummies, the mummy bandages,
+
+509
+00:32:57,320 --> 00:33:00,000
+were shipped over to America and pulped
+
+510
+00:33:00,001 --> 00:33:03,120
+and made into paper for various industries.
+
+511
+00:33:04,440 --> 00:33:07,320
+19th century aristocrats entertained themselves
+
+512
+00:33:07,321 --> 00:33:10,280
+by buying mummies and holding what were called
+
+513
+00:33:10,281 --> 00:33:13,280
+observation sessions for public audiences.
+
+514
+00:33:15,500 --> 00:33:16,980
+People would unwrap them,
+
+515
+00:33:17,300 --> 00:33:19,180
+and they'd want to see what's inside the bandages.
+
+516
+00:33:19,181 --> 00:33:21,240
+They'd certainly want to see what the face looked like.
+
+517
+00:33:21,580 --> 00:33:23,260
+And really, we've lost a lot of knowledge
+
+518
+00:33:23,261 --> 00:33:24,640
+and information about that.
+
+519
+00:33:24,720 --> 00:33:26,500
+I mean, I think if any poor ancient Egyptian
+
+520
+00:33:26,501 --> 00:33:27,940
+knew what was going to happen to his mummy that way,
+
+521
+00:33:27,980 --> 00:33:29,440
+I think he'd be very unhappy about it.
+
+522
+00:33:30,060 --> 00:33:32,600
+This poor fellow may have been the guest of honor,
+
+523
+00:33:33,580 --> 00:33:37,120
+purchased for an unwrapping party held in a private home.
+
+524
+00:33:38,160 --> 00:33:41,320
+It's very probable that this mummy was unwrapped
+
+525
+00:33:41,321 --> 00:33:45,320
+during Victorian times as part of one of those parlor games
+
+526
+00:33:45,321 --> 00:33:47,700
+where they would just unwrap the linens
+
+527
+00:33:47,701 --> 00:33:50,280
+to see what amulets or jewels or treasures
+
+528
+00:33:50,281 --> 00:33:52,100
+would fall off of the mummy's body.
+
+529
+00:33:52,101 --> 00:33:54,100
+They were fascinated with what they might find.
+
+530
+00:33:54,200 --> 00:33:55,100
+It was a treasure hunt.
+
+531
+00:33:55,200 --> 00:33:57,500
+It was a lot easier than going to Egypt
+
+532
+00:33:57,600 --> 00:33:58,800
+and digging through the sand.
+
+533
+00:33:58,900 --> 00:34:00,900
+They could simply unwrap these linens
+
+534
+00:34:01,000 --> 00:34:04,540
+and see what would fall out, and then it belonged to them.
+
+535
+00:34:04,640 --> 00:34:08,040
+Mummies were bought and sold like any other commodity.
+
+536
+00:34:08,140 --> 00:34:09,960
+Many were lost over time.
+
+537
+00:34:12,060 --> 00:34:15,560
+In 1860, a collection of mummies was purchased
+
+538
+00:34:15,660 --> 00:34:17,660
+by a museum in Niagara Falls.
+
+539
+00:34:17,661 --> 00:34:21,660
+No one knew that in that collection rested one of the
+
+540
+00:34:21,661 --> 00:34:26,660
+most powerful men ever to walk the banks of the Nile.
+
+541
+00:34:26,661 --> 00:34:31,660
+The Niagara Falls Museum was really less of a true museum
+
+542
+00:34:31,661 --> 00:34:36,660
+than a kind of sideshow, where it had two-headed animals and
+
+543
+00:34:36,661 --> 00:34:40,660
+the barrels people went over the falls in and kind of bizarre
+
+544
+00:34:40,661 --> 00:34:44,660
+things like that. But one mummy in this collection
+
+545
+00:34:44,661 --> 00:34:48,900
+a collection of oddities seemed to stand out.
+
+546
+00:34:48,901 --> 00:34:50,760
+As a seven-year-old or eight-year-old boy,
+
+547
+00:34:50,761 --> 00:34:52,460
+I went to the museum and saw this mummy
+
+548
+00:34:52,461 --> 00:34:54,340
+and stood face to face, if you will,
+
+549
+00:34:54,341 --> 00:34:56,100
+with this ancient person.
+
+550
+00:34:56,101 --> 00:34:57,840
+The first thing that made people look at this
+
+551
+00:34:57,841 --> 00:34:59,700
+was the pose of the mummy
+
+552
+00:34:59,701 --> 00:35:03,240
+and the obvious high quality of the process.
+
+553
+00:35:03,241 --> 00:35:06,820
+The real tip-off was that the position of the arms
+
+554
+00:35:06,821 --> 00:35:08,820
+was crossed over the chest.
+
+555
+00:35:08,821 --> 00:35:12,560
+This was a posture reserved only for pharaohs.
+
+556
+00:35:12,561 --> 00:35:14,460
+For more than 100 years,
+
+557
+00:35:14,461 --> 00:35:17,400
+This mummy entertained the masses,
+
+558
+00:35:17,401 --> 00:35:22,560
+until the Niagara Falls Museum closed in 1998.
+
+559
+00:35:22,561 --> 00:35:25,620
+Its mummies were sold to the Michael C. Carlos Museum
+
+560
+00:35:25,621 --> 00:35:27,220
+at Emory University in Atlanta.
+
+561
+00:35:30,280 --> 00:35:32,820
+There, the mysterious cross-armed body
+
+562
+00:35:32,821 --> 00:35:35,780
+finally received the high-tech attention needed
+
+563
+00:35:35,781 --> 00:35:39,240
+for a thorough background check.
+
+564
+00:35:39,241 --> 00:35:42,320
+So once it got here, we began consulting
+
+565
+00:35:42,321 --> 00:35:44,820
+with experts from all over the world.
+
+566
+00:35:44,821 --> 00:35:46,480
+However, the pharaoh connection
+
+567
+00:35:46,481 --> 00:35:49,020
+couldn't be established with DNA,
+
+568
+00:35:49,021 --> 00:35:51,080
+since Egyptian authorities were reluctant
+
+569
+00:35:51,081 --> 00:35:54,320
+to give samples from their royal mummies.
+
+570
+00:35:54,321 --> 00:35:58,500
+Instead, non-invasive CT scans and x-rays
+
+571
+00:35:58,501 --> 00:36:02,100
+were compared to other known ancient pharaohs.
+
+572
+00:36:02,101 --> 00:36:04,820
+Just who was this mummy?
+
+573
+00:36:04,821 --> 00:36:10,560
+Stunningly, one candidate stood out, Ramsey's the first.
+
+574
+00:36:10,561 --> 00:36:17,560
+The style of the wrappings matched other important royal mummies, most closely that of Setti I
+
+575
+00:36:17,561 --> 00:36:25,560
+and Ramses II, son and grandson of the missing mummy of Ramses I.
+
+576
+00:36:25,561 --> 00:36:34,560
+The CT scan was very useful because it revealed inside the mummy two very tightly coiled pieces
+
+577
+00:36:34,561 --> 00:36:41,100
+of linen in the body cavity used as filling to help sort of plump out the body once the
+
+578
+00:36:41,101 --> 00:36:43,272
+internal organs were removed.
+
+579
+00:36:43,273 --> 00:36:48,140
+This is paralleled only by the mummy of Seti I, the son of Ramses
+
+580
+00:36:48,141 --> 00:36:52,104
+I. So that seemed to clinch father and son together.
+
+581
+00:36:52,105 --> 00:36:54,620
+We came to the conclusion that it
+
+582
+00:36:54,621 --> 00:36:58,104
+by far was most likely the mummy of Ramses I.
+
+583
+00:36:58,105 --> 00:37:01,820
+The discovery of Ramses I filled a long-standing
+
+584
+00:37:01,821 --> 00:37:07,760
+gap in the historical lineage of Egyptian pharaohs.
+
+585
+00:37:07,761 --> 00:37:13,460
+In order for the great king to take his place with other royal mummies,
+
+586
+00:37:13,461 --> 00:37:19,780
+the Carlos Museum voluntarily sent him back to Egypt,
+
+587
+00:37:19,781 --> 00:37:23,780
+where he received a regal reception.
+
+588
+00:37:31,820 --> 00:37:37,040
+Without this technology, we never would have been able to make that determination.
+
+589
+00:37:37,860 --> 00:37:41,940
+Being the mummy of Ramses I, giving it back its identity.
+
+590
+00:37:45,780 --> 00:37:50,200
+Just as scientists use technology to give Ramses his name and his honor,
+
+591
+00:37:51,580 --> 00:37:57,340
+other scientists use technology to preserve and protect legions of unnamed mummies,
+
+592
+00:37:57,780 --> 00:38:01,200
+or at risk of literally crumbling to dust.
+
+593
+00:38:01,820 --> 00:38:11,820
+Over a 3,000 year period, more than 70 million Egyptians were mummified.
+
+594
+00:38:11,821 --> 00:38:16,820
+Mummy Tech will return on Modern Marvels.
+
+595
+00:38:16,821 --> 00:38:30,821
+Locked away in sealed tombs, mummies have survived for thousands of years.
+
+596
+00:38:35,760 --> 00:38:39,980
+But now that they're out in the modern world, how will they fare?
+
+597
+00:38:39,981 --> 00:38:46,700
+Restoring and preserving mummies is kind of in its infancy.
+
+598
+00:38:47,080 --> 00:38:54,840
+The biggest challenge that we face with the mummies is that the linens and the bodies themselves have become fragile and brittle and often broken over time.
+
+599
+00:38:56,060 --> 00:39:01,560
+Preservationists use a sheer nylon material to help keep mummies from literally falling to pieces.
+
+600
+00:39:02,500 --> 00:39:06,880
+This newly developed technique holds the bandages and body parts together.
+
+601
+00:39:06,881 --> 00:39:13,780
+This mummy has been prepared for display in the galleries by first carefully arranging
+
+602
+00:39:13,781 --> 00:39:19,160
+the wrappings that are on the mummy and then covering the whole mummy with a sheer fabric
+
+603
+00:39:19,161 --> 00:39:24,120
+that matches the color of the old linen and allows you to see through it, enabling you
+
+604
+00:39:24,121 --> 00:39:28,660
+to see the wrappings as they were originally arranged, somewhat as a hairnet does.
+
+605
+00:39:28,661 --> 00:39:34,640
+It allows those loose and now very brittle linens to stay in place around the mummy as
+
+606
+00:39:34,641 --> 00:39:36,640
+it lies on display.
+
+607
+00:39:36,641 --> 00:39:40,280
+The natrin, or salt compound, that was used by the Egyptians
+
+608
+00:39:40,281 --> 00:39:44,080
+to preserve mummies today may cause a mummy to actually
+
+609
+00:39:44,081 --> 00:39:44,840
+disintegrate.
+
+610
+00:39:46,760 --> 00:39:49,920
+And if there are any changes in temperature and humidity,
+
+611
+00:39:50,300 --> 00:39:54,060
+the salt that is naturally dissolved in the material
+
+612
+00:39:54,061 --> 00:39:57,960
+will re-dissolve and migrate in or out,
+
+613
+00:39:58,080 --> 00:40:01,760
+depending on if the air is drier or wetter than the object.
+
+614
+00:40:02,240 --> 00:40:04,760
+And the movement of this salt back and forth
+
+615
+00:40:04,761 --> 00:40:06,540
+actually erodes the surface.
+
+616
+00:40:06,700 --> 00:40:09,940
+It actually causes things to explode from the inside out.
+
+617
+00:40:10,780 --> 00:40:12,240
+To control this problem,
+
+618
+00:40:12,940 --> 00:40:16,560
+a specially designed computerized system at the Carlos Museum
+
+619
+00:40:16,561 --> 00:40:18,820
+regulates temperature and humidity.
+
+620
+00:40:21,120 --> 00:40:25,160
+The museum is kept at very specific environmental conditions,
+
+621
+00:40:25,161 --> 00:40:26,840
+and in order to accomplish that,
+
+622
+00:40:26,940 --> 00:40:30,520
+we use environmental controls through an air conditioning system
+
+623
+00:40:30,521 --> 00:40:34,020
+that are set to maintain temperature at about 70 degrees
+
+624
+00:40:34,021 --> 00:40:36,340
+plus or minus 2 degrees Fahrenheit,
+
+625
+00:40:36,720 --> 00:40:39,680
+and then we set the relative humidity around 50%,
+
+626
+00:40:39,681 --> 00:40:41,940
+plus or minus 5% RH.
+
+627
+00:40:43,720 --> 00:40:47,380
+Tiny organic microbes can also wreak havoc on a mummy.
+
+628
+00:40:49,780 --> 00:40:52,140
+At the Egyptian Museum in Cairo,
+
+629
+00:40:52,760 --> 00:40:57,940
+a common intruder was found resting alongside kings and queens.
+
+630
+00:40:59,320 --> 00:41:02,500
+It was discovered that the mummies in the Egyptian Museum in Cairo
+
+631
+00:41:02,501 --> 00:41:03,840
+were growing mold.
+
+632
+00:41:04,020 --> 00:41:05,260
+They were literally getting moldy.
+
+633
+00:41:06,240 --> 00:41:10,440
+Everyday household mold and fungus can destroy the most revered pharaoh.
+
+634
+00:41:13,160 --> 00:41:18,620
+If mummy is not protected, mummy could be disintegrated in a matter of a couple of years.
+
+635
+00:41:19,820 --> 00:41:25,480
+Shin Maikawa is a senior scientist at the Getty Conservation Institute in Los Angeles, California.
+
+636
+00:41:27,860 --> 00:41:32,380
+He was asked by the Cairo Museum to help solve the problem of the moldy mummies.
+
+637
+00:41:34,020 --> 00:41:41,020
+Three things affecting mummies are temperature, relative humidity and oxygen.
+
+638
+00:41:41,021 --> 00:41:47,020
+Oxygen is one of the largest contributors to the breakdown of organic material
+
+639
+00:41:47,021 --> 00:41:54,020
+because it provides the fuel that allows microbes like mold and fungi to breed and multiply.
+
+640
+00:41:54,021 --> 00:42:00,020
+To attack the problem, Maikawa designed an oxygen-free display case.
+
+641
+00:42:00,021 --> 00:42:04,020
+This is a small prototype of the custom-built case.
+
+642
+00:42:06,020 --> 00:42:14,020
+The goal of the display case is to provide stable, dry environment for mummies without oxygen,
+
+643
+00:42:14,021 --> 00:42:22,020
+so that we can eliminate both stress from humidity variation and possibility of fungi attack.
+
+644
+00:42:22,021 --> 00:42:29,020
+To create an environment good for mummies and bad for microbes, three additional materials are needed.
+
+645
+00:42:30,020 --> 00:42:40,060
+A compound of essentially powdered iron absorbs oxygen in the air, while activated charcoal
+
+646
+00:42:40,061 --> 00:42:43,180
+granules filter out impurities and pollutants.
+
+647
+00:42:44,640 --> 00:42:49,820
+And silicon gel caplets help control the humidity or moisture.
+
+648
+00:42:51,580 --> 00:42:54,460
+They're all placed inside the display case.
+
+649
+00:42:55,580 --> 00:42:58,780
+Then the case is sealed, airtight.
+
+650
+00:43:00,020 --> 00:43:04,060
+Now the environment of the case is made inhospitable to microbes.
+
+651
+00:43:08,060 --> 00:43:13,960
+As oxygen is removed, and pure nitrogen is pumped in.
+
+652
+00:43:15,220 --> 00:43:19,460
+Nothing live can possibly survive in nitrogen.
+
+653
+00:43:19,840 --> 00:43:22,780
+So once you put a mummy in there, in an atmosphere of nitrogen,
+
+654
+00:43:23,120 --> 00:43:27,440
+no fungus, no bacteria, no molds, it'll be preserved just perfectly.
+
+655
+00:43:28,300 --> 00:43:31,820
+The Egyptian museum has now placed their royal mummies
+
+656
+00:43:31,821 --> 00:43:33,940
+in Maikawa's specially designed cases.
+
+657
+00:43:35,140 --> 00:43:39,000
+And the common mold problem has been vanquished.
+
+658
+00:43:40,220 --> 00:43:44,100
+This play case is very easy to build, very inexpensive,
+
+659
+00:43:44,760 --> 00:43:46,860
+and we can keep the mummy forever.
+
+660
+00:43:50,060 --> 00:43:54,820
+And after all, forever was the goal of the ancient Egyptians
+
+661
+00:43:54,821 --> 00:43:55,880
+in the first place.
+
+662
+00:43:57,440 --> 00:44:05,480
+They believed that speaking the names of the dead and visiting their remains would give
+
+663
+00:44:05,481 --> 00:44:09,280
+the deceased an eternal afterlife.
+
+664
+00:44:09,281 --> 00:44:18,320
+Today, with the public intensely interested in mummies, it appears they may have succeeded.
+

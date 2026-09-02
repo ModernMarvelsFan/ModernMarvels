@@ -1,0 +1,3276 @@
+1
+00:00:00,001 --> 00:00:04,500
+They are part of a new and developing arsenal.
+
+2
+00:00:04,501 --> 00:00:06,000
+Please wait.
+
+3
+00:00:06,001 --> 00:00:10,000
+Countermeasures designed to answer the looming threat of terror
+
+4
+00:00:10,001 --> 00:00:12,000
+against corporate targets.
+
+5
+00:00:12,001 --> 00:00:15,000
+Threats that cannot be specified or even seen
+
+6
+00:00:15,001 --> 00:00:17,000
+until the damage has begun.
+
+7
+00:00:30,000 --> 00:00:39,540
+They are breathtaking structures, titans that can rise more than 100 stories from the ground
+
+8
+00:00:39,541 --> 00:00:42,431
+and contain upwards of a million square feet.
+
+9
+00:00:42,432 --> 00:00:45,580
+Among the greatest monuments to wealth, commerce,
+
+10
+00:00:45,581 --> 00:00:50,176
+and capitalism, they are the symbol of corporate America.
+
+11
+00:00:50,177 --> 00:00:53,160
+Ever since the first skyscrapers were
+
+12
+00:00:53,161 --> 00:00:59,320
+erected in the 1930s, these towers were heralded as efficient and centralized places to concentrate
+
+13
+00:00:59,321 --> 00:01:02,720
+and conduct business in the modern world.
+
+14
+00:01:02,820 --> 00:01:06,220
+But in the days following 9-11, corporate high-rise buildings
+
+15
+00:01:06,320 --> 00:01:09,320
+everywhere emerged in the public eye for another reason,
+
+16
+00:01:09,420 --> 00:01:14,160
+as a prime target for large-scale terrorist attack.
+
+17
+00:01:14,260 --> 00:01:17,180
+To defend these giants and the people who work in them,
+
+18
+00:01:17,280 --> 00:01:20,580
+an army of scientists, engineers, and security advisors
+
+19
+00:01:20,680 --> 00:01:24,580
+have begun a vital mission, to develop the web of technologies
+
+20
+00:01:24,680 --> 00:01:27,480
+that will come together to make corporate America safe
+
+21
+00:01:27,481 --> 00:01:29,480
+safe from terrorist attack.
+
+22
+00:01:33,080 --> 00:01:36,080
+Some rely on complex biological sensors,
+
+23
+00:01:36,081 --> 00:01:40,220
+marvels that can sniff out traces of anthrax or explosives
+
+24
+00:01:40,221 --> 00:01:43,020
+and give warning in time to save lives.
+
+25
+00:01:43,021 --> 00:01:48,640
+Others use artificial intelligence to recognize the face of terror
+
+26
+00:01:48,641 --> 00:01:52,280
+from a database of millions and sound the alarm.
+
+27
+00:01:52,281 --> 00:01:56,280
+Some rely on brute strength and remarkable engineering
+
+28
+00:01:56,281 --> 00:02:01,080
+to make sensitive targets safe from attack,
+
+29
+00:02:01,180 --> 00:02:02,180
+at the moment it counts.
+
+30
+00:02:05,080 --> 00:02:10,520
+When all else fails, there are extreme life-saving measures,
+
+31
+00:02:10,620 --> 00:02:13,840
+a newly developed technology that can seek out radiation
+
+32
+00:02:13,940 --> 00:02:16,040
+before an attack with a dirty bomb.
+
+33
+00:02:16,140 --> 00:02:18,340
+Which tells me there's something radioactive here.
+
+34
+00:02:18,440 --> 00:02:20,680
+And a parachute designed to help victims
+
+35
+00:02:20,780 --> 00:02:22,280
+survive the unthinkable.
+
+36
+00:02:26,280 --> 00:02:32,780
+Security experts list them among the soft targets, places
+
+37
+00:02:32,781 --> 00:02:35,280
+vulnerable to harm from many angles.
+
+38
+00:02:35,281 --> 00:02:38,280
+This is because, to a terrorist cell,
+
+39
+00:02:38,281 --> 00:02:41,280
+any area of a high-rise building holds the potential
+
+40
+00:02:41,281 --> 00:02:44,280
+to be exploited in an attack.
+
+41
+00:02:44,281 --> 00:02:47,280
+Because of car or truck bombs, like those used in attacks
+
+42
+00:02:47,281 --> 00:02:50,280
+on foreign embassies, the Federal Building in Oklahoma
+
+43
+00:02:50,281 --> 00:02:53,280
+City, and even the World Trade Center in 1990,
+
+44
+00:02:53,281 --> 00:02:56,580
+and even the World Trade Center in 1993,
+
+45
+00:02:56,680 --> 00:03:00,320
+most security consultants agree that protecting a high rise
+
+46
+00:03:00,420 --> 00:03:03,220
+from terrorists starts on the ground floor.
+
+47
+00:03:15,840 --> 00:03:20,000
+If an 18-wheeler fully loaded was to hit or strike one
+
+48
+00:03:20,100 --> 00:03:22,440
+of our vehicle barriers, the kinetic energy
+
+49
+00:03:22,441 --> 00:03:25,540
+The kinetic energy of the vehicle would be absorbed
+
+50
+00:03:25,541 --> 00:03:28,280
+by the structure of our barrier and then down
+
+51
+00:03:28,281 --> 00:03:30,380
+into the foundation or the soil.
+
+52
+00:03:31,940 --> 00:03:35,040
+This is the high-tech world where potential truck bombs
+
+53
+00:03:35,041 --> 00:03:39,100
+are reduced to terms like mass, speed, and kinetic energy,
+
+54
+00:03:39,520 --> 00:03:42,000
+where they are destroyed in a violent crash
+
+55
+00:03:42,001 --> 00:03:44,520
+which spares the target but not the driver.
+
+56
+00:03:46,060 --> 00:03:47,800
+It can be a pickup truck.
+
+57
+00:03:47,940 --> 00:03:49,140
+It can be an 18-wheeler.
+
+58
+00:03:49,141 --> 00:03:52,180
+It can be a heavily loaded fuel truck.
+
+59
+00:03:52,440 --> 00:03:55,700
+we can stop them effectively if they're deployed properly.
+
+60
+00:03:57,820 --> 00:04:01,120
+The engineers behind this brand of brute strength
+
+61
+00:04:01,121 --> 00:04:03,280
+are at California's Delta Scientific,
+
+62
+00:04:03,780 --> 00:04:05,720
+a little-known brand name that's at work
+
+63
+00:04:05,721 --> 00:04:08,280
+in some of the most high-profile targets in the world.
+
+64
+00:04:08,880 --> 00:04:12,560
+Some of the places which we feel free to speak about
+
+65
+00:04:12,561 --> 00:04:14,060
+are the Pentagon.
+
+66
+00:04:15,220 --> 00:04:18,600
+Nearly every building on Capitol Hill has our equipment.
+
+67
+00:04:18,601 --> 00:04:22,900
+Although they cannot disclose the other locations,
+
+68
+00:04:23,000 --> 00:04:26,240
+delta barriers like this one, the IP5000,
+
+69
+00:04:26,340 --> 00:04:29,040
+are protecting some of the tallest corporate skyscrapers
+
+70
+00:04:29,140 --> 00:04:29,940
+in America.
+
+71
+00:04:34,440 --> 00:04:36,460
+Especially after the 9-11 attack,
+
+72
+00:04:36,560 --> 00:04:39,260
+there have been many applications of our vehicle
+
+73
+00:04:39,360 --> 00:04:41,260
+barricades to protect high rise buildings,
+
+74
+00:04:41,360 --> 00:04:45,660
+as this is an obvious, established target.
+
+75
+00:04:45,760 --> 00:04:48,600
+Each barricade installation starts
+
+76
+00:04:48,601 --> 00:04:50,340
+with a risk analysis.
+
+77
+00:04:50,440 --> 00:04:53,180
+The goal is to stop the truck bomb as far away
+
+78
+00:04:53,280 --> 00:04:55,800
+from the protected structure as possible
+
+79
+00:04:55,900 --> 00:04:59,420
+to minimize damage in case of explosion.
+
+80
+00:04:59,520 --> 00:05:01,280
+To safeguard a high-rise building,
+
+81
+00:05:01,380 --> 00:05:03,420
+you would look at the threat, in other words,
+
+82
+00:05:03,520 --> 00:05:07,120
+the size and speed a vehicle could approach the building,
+
+83
+00:05:07,220 --> 00:05:10,060
+and then look at where you could place the barricades
+
+84
+00:05:10,160 --> 00:05:14,320
+and to allow access control.
+
+85
+00:05:14,420 --> 00:05:16,100
+These steel structures are massive
+
+86
+00:05:16,101 --> 00:05:19,240
+and can weigh upwards of 11,000 pounds.
+
+87
+00:05:19,340 --> 00:05:22,280
+But the engineers here know that a 15,000 pound truck
+
+88
+00:05:22,380 --> 00:05:25,740
+traveling at 50 miles per hour will strike its target
+
+89
+00:05:25,840 --> 00:05:29,720
+with more than a million pounds of force.
+
+90
+00:05:29,820 --> 00:05:32,220
+For the amount of kinetic energy that they're stopping,
+
+91
+00:05:32,320 --> 00:05:34,780
+they're actually very lightweight structures.
+
+92
+00:05:34,880 --> 00:05:41,060
+And the physics to conduct the flow of kinetic energy
+
+93
+00:05:41,061 --> 00:05:47,560
+into foundations away from the vehicle is tremendous.
+
+94
+00:05:47,660 --> 00:05:49,900
+The technology behind these super barriers
+
+95
+00:05:50,000 --> 00:05:52,740
+promises that each one will stop a speeding truck
+
+96
+00:05:52,840 --> 00:05:54,940
+bomb dead in its tracks.
+
+97
+00:05:55,040 --> 00:05:57,780
+But in the life and death world of counterterrorism,
+
+98
+00:05:57,880 --> 00:06:00,440
+promises are not enough.
+
+99
+00:06:00,540 --> 00:06:03,880
+The testing process is the proof of the design.
+
+100
+00:06:03,980 --> 00:06:08,720
+The way we test a barricade is that we put it into as real
+
+101
+00:06:08,820 --> 00:06:10,420
+a situation as possible.
+
+102
+00:06:10,421 --> 00:06:14,860
+We'll actually dig a hole, pour a standard foundation,
+
+103
+00:06:15,440 --> 00:06:19,280
+have a fully operating barricade at the end of a long runway.
+
+104
+00:06:19,680 --> 00:06:22,980
+We then take an attacking vehicle.
+
+105
+00:06:23,420 --> 00:06:27,860
+And there's nothing that is more thrilling and unnerving to us
+
+106
+00:06:27,861 --> 00:06:32,240
+to see this vehicle slowly start accelerating faster and faster and faster
+
+107
+00:06:32,241 --> 00:06:35,360
+as it draws nearer to the vehicle barrier.
+
+108
+00:06:35,361 --> 00:06:42,360
+You see it collide with a very resounding sound.
+
+109
+00:06:42,361 --> 00:06:44,360
+There's immediate damage to the truck,
+
+110
+00:06:44,361 --> 00:06:48,360
+which usually means that the engine has been displaced from
+
+111
+00:06:48,361 --> 00:06:51,360
+the frame, pushed back into the cab,
+
+112
+00:06:51,361 --> 00:06:56,360
+and so the energy is dissipated in heat, sound, and fury.
+
+113
+00:06:59,360 --> 00:07:03,360
+The moment of truth lasts just 2 tenths of a second,
+
+114
+00:07:03,361 --> 00:07:04,260
+of a second.
+
+115
+00:07:04,360 --> 00:07:06,600
+But when the dust settles, the attacking truck
+
+116
+00:07:06,700 --> 00:07:10,400
+has been completely destroyed and its driver presumed dead.
+
+117
+00:07:10,500 --> 00:07:13,840
+In a real-life scenario, a catastrophic terrorist attack
+
+118
+00:07:13,940 --> 00:07:15,040
+would have just been thwarted.
+
+119
+00:07:17,580 --> 00:07:19,340
+In the event an unprotected building
+
+120
+00:07:19,440 --> 00:07:23,040
+gets warning that it might be in imminent danger of attack,
+
+121
+00:07:23,140 --> 00:07:24,980
+a portable version of the Delta Barrier
+
+122
+00:07:25,080 --> 00:07:28,680
+can be set up in 15 minutes.
+
+123
+00:07:28,780 --> 00:07:32,160
+Tests prove that this machine has the same stopping power
+
+124
+00:07:32,161 --> 00:07:33,560
+as its big brothers.
+
+125
+00:07:33,660 --> 00:07:35,800
+This barricade is the one that was crash test.
+
+126
+00:07:35,900 --> 00:07:36,800
+This is the very unit.
+
+127
+00:07:41,900 --> 00:07:44,740
+The solid steel stopping plate of the MP5000
+
+128
+00:07:44,840 --> 00:07:46,980
+weighs 3,000 pounds.
+
+129
+00:07:47,080 --> 00:07:50,620
+Close inspection reveals no damage to this portable barrier
+
+130
+00:07:50,720 --> 00:07:52,940
+save for a small nick.
+
+131
+00:07:53,040 --> 00:07:55,720
+The truck was completely destroyed.
+
+132
+00:07:55,820 --> 00:07:58,120
+The driver most likely would have been killed.
+
+133
+00:07:58,220 --> 00:08:02,160
+It's still ready to go, still ready to protect you.
+
+134
+00:08:02,161 --> 00:08:05,760
+But solid steel is not the only defense a corporation can use
+
+135
+00:08:05,860 --> 00:08:08,760
+to protect its ground floor from a terrorist car bomb.
+
+136
+00:08:12,000 --> 00:08:15,340
+At the laboratory and test site of computer recognition systems
+
+137
+00:08:15,440 --> 00:08:18,040
+in Cambridge, Massachusetts, another technology
+
+138
+00:08:18,140 --> 00:08:21,540
+is taking shape that promises to quickly identify a vehicle
+
+139
+00:08:21,640 --> 00:08:23,740
+that might be carrying a bomb.
+
+140
+00:08:23,840 --> 00:08:25,920
+The system can prevent a high-rise building
+
+141
+00:08:26,020 --> 00:08:27,820
+or any building from coming under terrorist attack
+
+142
+00:08:27,920 --> 00:08:30,780
+by only allowing known drivers and permitted drivers
+
+143
+00:08:30,781 --> 00:08:32,680
+to the building.
+
+144
+00:08:32,780 --> 00:08:37,720
+The $150,000 CRS Vista uses video cameras, sensors,
+
+145
+00:08:37,820 --> 00:08:41,620
+and computers to match arriving cars against vehicles
+
+146
+00:08:41,720 --> 00:08:43,720
+in its database.
+
+147
+00:08:43,820 --> 00:08:46,820
+It also checks to see if an incoming vehicle weighs more
+
+148
+00:08:46,920 --> 00:08:52,240
+than it should, a warning sign that a bomb might be on board.
+
+149
+00:08:52,340 --> 00:08:54,880
+Vista begins to work as soon as a vehicle approaches
+
+150
+00:08:54,980 --> 00:08:57,540
+its rectangular white sensor.
+
+151
+00:08:57,541 --> 00:09:00,440
+The sensor received radio frequency identification,
+
+152
+00:09:01,280 --> 00:09:02,760
+or RFID for short.
+
+153
+00:09:04,080 --> 00:09:08,040
+Each vehicle has an RFID transponder in the windshield.
+
+154
+00:09:08,980 --> 00:09:13,260
+And this tag associates the vehicle and the person in the vehicle
+
+155
+00:09:13,261 --> 00:09:15,160
+with the database.
+
+156
+00:09:15,340 --> 00:09:17,900
+The database has a photograph of the individual.
+
+157
+00:09:18,280 --> 00:09:19,700
+It's a photograph of the vehicle.
+
+158
+00:09:20,260 --> 00:09:22,580
+It's got the weight per axle of the vehicle,
+
+159
+00:09:22,740 --> 00:09:25,500
+the gross vehicle weight, and a record of the license plate.
+
+160
+00:09:25,501 --> 00:09:29,500
+Proprietary software compares the image of the license plate,
+
+161
+00:09:29,600 --> 00:09:32,500
+the driver, and the vehicle with the information stored
+
+162
+00:09:32,600 --> 00:09:34,500
+in the database.
+
+163
+00:09:34,600 --> 00:09:38,540
+Any deviation alerts security personnel to possible danger,
+
+164
+00:09:38,640 --> 00:09:43,660
+before the car and a possible intruder with a bomb gets inside.
+
+165
+00:09:45,860 --> 00:09:48,760
+Here we have what the actual axle weight was
+
+166
+00:09:48,860 --> 00:09:51,660
+and what the axle weight should be for both axles.
+
+167
+00:09:51,760 --> 00:09:54,660
+In the event that this was, this car was of a weight
+
+168
+00:09:54,661 --> 00:09:56,460
+or these license plates not match,
+
+169
+00:09:56,560 --> 00:09:58,900
+we would flash an alarm.
+
+170
+00:09:59,000 --> 00:10:01,300
+But stopping a possible car bomb outside
+
+171
+00:10:01,400 --> 00:10:04,640
+is only one layer of protection in the complex matrix
+
+172
+00:10:04,740 --> 00:10:07,100
+of anti-terror technology being developed
+
+173
+00:10:07,200 --> 00:10:10,100
+to protect the corporate high-rise building from attack.
+
+174
+00:10:20,820 --> 00:10:23,660
+Controlling the entry of people into a corporate high-rise
+
+175
+00:10:23,661 --> 00:10:26,400
+is crucial to preventing a terrorist attack.
+
+176
+00:10:26,500 --> 00:10:28,160
+But given the hundreds of thousands
+
+177
+00:10:28,260 --> 00:10:29,960
+who may enter the building each day,
+
+178
+00:10:30,060 --> 00:10:33,900
+monitoring each one is a daunting task.
+
+179
+00:10:34,000 --> 00:10:37,180
+Today, technologies are emerging that tirelessly work
+
+180
+00:10:37,280 --> 00:10:39,640
+to guard a building's entrance and perimeter
+
+181
+00:10:39,740 --> 00:10:42,280
+to warn of intruders before they get inside.
+
+182
+00:10:47,980 --> 00:10:51,160
+This is video surveillance that can think.
+
+183
+00:10:51,161 --> 00:10:53,860
+It represents the union of applied mathematics,
+
+184
+00:10:53,960 --> 00:10:57,200
+computer science, and electrical engineering.
+
+185
+00:10:57,300 --> 00:10:59,000
+In the world of corporate security,
+
+186
+00:10:59,100 --> 00:11:01,500
+it is a new breed of watchdog.
+
+187
+00:11:01,600 --> 00:11:05,200
+Its designer calls it Video IQ.
+
+188
+00:11:05,300 --> 00:11:07,600
+The big picture of Video IQ is pretty simple.
+
+189
+00:11:07,700 --> 00:11:10,620
+It's an automated video surveillance system
+
+190
+00:11:10,720 --> 00:11:13,520
+that detects the presence of humans, all weather, day,
+
+191
+00:11:13,620 --> 00:11:15,020
+night.
+
+192
+00:11:15,120 --> 00:11:17,820
+The system is programmed to distinguish between people
+
+193
+00:11:17,821 --> 00:11:21,160
+and other moving images like cars, shadows, and trees.
+
+194
+00:11:25,160 --> 00:11:27,160
+In a typical security application,
+
+195
+00:11:27,260 --> 00:11:30,560
+the camera's field of view is quite a bit wider
+
+196
+00:11:30,660 --> 00:11:32,860
+than the region that you're actually interested in.
+
+197
+00:11:32,960 --> 00:11:36,380
+So in this case, we have the camera up here looking out
+
+198
+00:11:36,480 --> 00:11:39,980
+over public areas and the edge of our property.
+
+199
+00:11:40,080 --> 00:11:42,380
+People in the public area is perfectly OK.
+
+200
+00:11:42,480 --> 00:11:44,380
+When they step into our own property,
+
+201
+00:11:44,480 --> 00:11:46,580
+the area that we want under surveillance,
+
+202
+00:11:46,581 --> 00:11:48,620
+we want our system to alert us.
+
+203
+00:11:48,720 --> 00:11:49,680
+Is it a vehicle?
+
+204
+00:11:49,780 --> 00:11:50,820
+Is it a person?
+
+205
+00:11:50,920 --> 00:11:53,720
+So when you saw my car come through the region of interest,
+
+206
+00:11:53,820 --> 00:11:56,620
+when it nudged through, yellow box on the car.
+
+207
+00:11:56,720 --> 00:12:00,060
+As soon as I step out, red box on me.
+
+208
+00:12:00,160 --> 00:12:01,400
+The underlying foundation
+
+209
+00:12:01,500 --> 00:12:03,400
+is the system's ability to learn.
+
+210
+00:12:03,500 --> 00:12:06,060
+At its heart is a neural network that allows the machine
+
+211
+00:12:06,160 --> 00:12:09,100
+to define images, such as a human or a vehicle,
+
+212
+00:12:09,200 --> 00:12:11,100
+and decide which one to watch.
+
+213
+00:12:11,200 --> 00:12:15,340
+Three basic components that rely on this cool technology.
+
+214
+00:12:15,341 --> 00:12:19,940
+One is the detector, and that essentially, if you will,
+
+215
+00:12:20,040 --> 00:12:23,140
+parses the foreground action objects that are of interest
+
+216
+00:12:23,240 --> 00:12:25,980
+from the dynamic background.
+
+217
+00:12:26,080 --> 00:12:28,580
+The second component is called the tracker.
+
+218
+00:12:28,680 --> 00:12:31,080
+It scans the scene frame by frame,
+
+219
+00:12:31,180 --> 00:12:33,700
+looking for what it calls action objects
+
+220
+00:12:33,800 --> 00:12:37,000
+and keeps track of anything that moves.
+
+221
+00:12:37,100 --> 00:12:39,300
+The third component is the classifier,
+
+222
+00:12:39,400 --> 00:12:43,500
+and that's the real brain that distinguishes the humans
+
+223
+00:12:43,501 --> 00:12:45,640
+from non-human action objects.
+
+224
+00:12:45,740 --> 00:12:49,440
+And then we zero in on the humans and keep track of them.
+
+225
+00:12:49,540 --> 00:12:52,040
+It takes less than a second for the system's neural net
+
+226
+00:12:52,140 --> 00:12:56,240
+to distinguish a human moving in its field of view.
+
+227
+00:12:56,340 --> 00:12:58,620
+The upper right image here shows you
+
+228
+00:12:58,720 --> 00:13:00,980
+a typical response to the system when people enter
+
+229
+00:13:01,080 --> 00:13:02,880
+the field of view.
+
+230
+00:13:02,980 --> 00:13:04,180
+Here comes a person.
+
+231
+00:13:04,280 --> 00:13:06,760
+And as soon as he's in the full field of view,
+
+232
+00:13:06,860 --> 00:13:09,520
+he's detected as a person and bounded with a red box.
+
+233
+00:13:09,521 --> 00:13:17,020
+Much like a human brain, Video IQ actually thinks in abstraction.
+
+234
+00:13:17,120 --> 00:13:19,600
+This is its mind's eye.
+
+235
+00:13:19,700 --> 00:13:22,140
+Abstractly, you can see on the left here,
+
+236
+00:13:22,240 --> 00:13:25,040
+in the center of the image, a pair of people.
+
+237
+00:13:25,140 --> 00:13:26,400
+It's very abstract.
+
+238
+00:13:26,500 --> 00:13:29,580
+Just below it on the left, you see now an individual person.
+
+239
+00:13:29,680 --> 00:13:32,980
+On the right, opposite that abstract individual person,
+
+240
+00:13:33,080 --> 00:13:35,040
+you see a notion of possibly a vehicle.
+
+241
+00:13:35,140 --> 00:13:37,040
+And then finally here on the left,
+
+242
+00:13:37,041 --> 00:13:38,040
+a vehicle.
+
+243
+00:13:38,140 --> 00:13:40,080
+And then finally here on the lower left,
+
+244
+00:13:40,180 --> 00:13:43,640
+you see what is clearly an abstract representation
+
+245
+00:13:43,740 --> 00:13:46,580
+of a vehicle.
+
+246
+00:13:46,680 --> 00:13:48,780
+While this system uses abstract reasoning
+
+247
+00:13:48,880 --> 00:13:51,460
+to distinguish people from objects,
+
+248
+00:13:51,560 --> 00:13:54,260
+another science, biometrics, can enhance security
+
+249
+00:13:54,360 --> 00:13:57,860
+by distinguishing people from each other.
+
+250
+00:13:57,960 --> 00:13:59,960
+The art of positively identifying people
+
+251
+00:14:00,060 --> 00:14:03,100
+by their physical characteristics is not new.
+
+252
+00:14:03,200 --> 00:14:05,640
+100 years ago, prison inmates were identified
+
+253
+00:14:05,641 --> 00:14:08,980
+an arcane practice called the Bertillion system.
+
+254
+00:14:09,080 --> 00:14:10,940
+Technicians painstakingly collected
+
+255
+00:14:11,040 --> 00:14:13,380
+detailed body measurements of their subject
+
+256
+00:14:13,480 --> 00:14:16,680
+and combined them into an identity profile.
+
+257
+00:14:16,780 --> 00:14:20,380
+That system gave way to the familiar sciences of photography
+
+258
+00:14:20,480 --> 00:14:21,280
+and fingerprinting.
+
+259
+00:14:24,200 --> 00:14:26,500
+Today, a process called live scanning
+
+260
+00:14:26,600 --> 00:14:29,740
+allows electronic fingerprints to be collected and compared
+
+261
+00:14:29,840 --> 00:14:34,440
+instantly to a database of known criminals and terrorists.
+
+262
+00:14:34,441 --> 00:14:37,480
+But the state of the art in biometric identification
+
+263
+00:14:37,580 --> 00:14:41,580
+has evolved into the 21st century.
+
+264
+00:14:41,680 --> 00:14:42,780
+Welcome.
+
+265
+00:14:42,880 --> 00:14:44,480
+Please look at the camera.
+
+266
+00:14:44,580 --> 00:14:49,080
+It's called the Visage facial recognition system.
+
+267
+00:14:49,180 --> 00:14:53,100
+And just as the walkthrough metal detector introduced in 1935
+
+268
+00:14:53,200 --> 00:14:55,800
+warned of concealed weapons before they could be carried
+
+269
+00:14:55,900 --> 00:14:58,500
+into a building, facial recognition
+
+270
+00:14:58,600 --> 00:15:01,400
+promises to control which identities will be granted
+
+271
+00:15:01,500 --> 00:15:02,700
+access.
+
+272
+00:15:02,701 --> 00:15:05,000
+As I approach the screening station,
+
+273
+00:15:05,100 --> 00:15:09,140
+the camera captures my images, sends those images to a system,
+
+274
+00:15:09,240 --> 00:15:11,500
+and checks me against the database.
+
+275
+00:15:11,600 --> 00:15:15,040
+The system is based on a technology called eigenfaces,
+
+276
+00:15:15,140 --> 00:15:17,840
+which allows the computer to break facial features down
+
+277
+00:15:17,940 --> 00:15:21,460
+to 100 three-dimensional factors for analysis
+
+278
+00:15:21,560 --> 00:15:26,160
+and make a positive identification in under 10 seconds.
+
+279
+00:15:26,260 --> 00:15:30,460
+What you're looking at now is what's happening in the camera.
+
+280
+00:15:30,461 --> 00:15:33,700
+It's capturing my face, and in the upper right-hand corner,
+
+281
+00:15:33,800 --> 00:15:36,300
+it's creating a mathematical model of my face.
+
+282
+00:15:36,400 --> 00:15:40,200
+That's the model that's used to compare what's on the camera
+
+283
+00:15:40,300 --> 00:15:42,040
+with what's on the database.
+
+284
+00:15:42,140 --> 00:15:44,340
+As you can see, if I move my face,
+
+285
+00:15:44,440 --> 00:15:48,220
+the model gets much more fuzzy or much harder to see.
+
+286
+00:15:48,320 --> 00:15:50,140
+When I look directly at the camera,
+
+287
+00:15:50,240 --> 00:15:53,680
+it's a very clear representation of my face.
+
+288
+00:15:53,780 --> 00:15:56,480
+When installed at the entrance to a building,
+
+289
+00:15:56,580 --> 00:15:58,120
+the facial recognition system will
+
+290
+00:15:58,121 --> 00:16:00,760
+that only people with faces stored in the database
+
+291
+00:16:00,860 --> 00:16:02,060
+can gain access.
+
+292
+00:16:02,160 --> 00:16:04,960
+Others are instantly turned away.
+
+293
+00:16:05,060 --> 00:16:07,860
+The system can also work to ensure that people already
+
+294
+00:16:07,960 --> 00:16:11,360
+inside are not entering sensitive areas.
+
+295
+00:16:11,460 --> 00:16:14,500
+What we're looking at now is a camera that
+
+296
+00:16:14,600 --> 00:16:18,080
+looks in a hallway to see if a person who is there should be.
+
+297
+00:16:18,180 --> 00:16:21,880
+The camera's capturing my image, searching a database.
+
+298
+00:16:21,980 --> 00:16:24,480
+And if I'm a place where I shouldn't be,
+
+299
+00:16:24,580 --> 00:16:28,120
+information is brought up in the screen to alert security.
+
+300
+00:16:28,121 --> 00:16:34,520
+In an environment where you're trying to protect the building
+
+301
+00:16:34,521 --> 00:16:37,220
+from some kind of terrorist act, a system like this
+
+302
+00:16:37,221 --> 00:16:40,260
+can very quickly identify if a person is in an area
+
+303
+00:16:40,261 --> 00:16:42,460
+that they're not authorized to be in.
+
+304
+00:16:42,461 --> 00:16:44,060
+It might just be somebody who's lost.
+
+305
+00:16:44,061 --> 00:16:45,980
+It might be someone delivering a message.
+
+306
+00:16:45,981 --> 00:16:48,680
+But in theory, it could be somebody trying to do some damage.
+
+307
+00:16:51,320 --> 00:16:54,420
+There are still more layers of technology being developed
+
+308
+00:16:54,421 --> 00:16:56,720
+to answer the looming threat of terror
+
+309
+00:16:56,721 --> 00:16:59,360
+against corporate targets, machines
+
+310
+00:16:59,361 --> 00:17:02,260
+that can smell a bomb or a bioterror weapon
+
+311
+00:17:02,261 --> 00:17:04,560
+before they get inside.
+
+312
+00:17:04,561 --> 00:17:05,560
+Exit.
+
+313
+00:17:15,380 --> 00:17:18,180
+New York City, Wall Street.
+
+314
+00:17:18,181 --> 00:17:21,440
+For more than 100 years, this has been the financial heart
+
+315
+00:17:21,441 --> 00:17:24,420
+of corporate America.
+
+316
+00:17:24,421 --> 00:17:28,420
+And unfortunately, it is also where the threat of terrorism
+
+317
+00:17:28,520 --> 00:17:32,420
+against corporate America was first defined.
+
+318
+00:17:32,520 --> 00:17:35,160
+September 16, 1920.
+
+319
+00:17:35,260 --> 00:17:38,260
+A TNT bomb planted in a horse-drawn wagon
+
+320
+00:17:38,360 --> 00:17:40,260
+explodes on Wall Street.
+
+321
+00:17:40,360 --> 00:17:43,380
+The presumed target is the banking house of Morgan,
+
+322
+00:17:43,480 --> 00:17:46,280
+predecessor of the J.P. Morgan empire.
+
+323
+00:17:48,420 --> 00:17:51,320
+Forty people are killed and hundreds injured.
+
+324
+00:17:51,420 --> 00:17:53,380
+The terrorists responsible were believed
+
+325
+00:17:53,381 --> 00:17:55,680
+were believed to have been part of the anarchist movement
+
+326
+00:17:55,780 --> 00:17:58,580
+of the period, but the crime was never solved.
+
+327
+00:18:02,280 --> 00:18:07,220
+August 3, 1975, one man is dead and seven others are wounded
+
+328
+00:18:07,320 --> 00:18:10,260
+after a terrorist bomb explodes at the Mobile Oil Building
+
+329
+00:18:10,360 --> 00:18:11,860
+in midtown Manhattan.
+
+330
+00:18:11,960 --> 00:18:14,500
+47th Street, on the center island.
+
+331
+00:18:14,600 --> 00:18:17,500
+Clear the center island, please.
+
+332
+00:18:17,600 --> 00:18:19,040
+Out of the street.
+
+333
+00:18:19,140 --> 00:18:22,380
+The attack is attributed to the Puerto Rican terrorist group
+
+334
+00:18:22,381 --> 00:18:25,620
+The group struck again that year.
+
+335
+00:18:25,720 --> 00:18:28,280
+Their target was another Wall Street landmark,
+
+336
+00:18:28,380 --> 00:18:30,280
+the historic Francis Tavern.
+
+337
+00:18:30,380 --> 00:18:34,320
+The FALN terrorists chose the site for its symbolic value.
+
+338
+00:18:34,420 --> 00:18:37,120
+Financiers had been meeting for lunch at this landmark
+
+339
+00:18:37,220 --> 00:18:39,740
+for more than 150 years.
+
+340
+00:18:43,840 --> 00:18:46,780
+This time, an explosive device had been placed near an unused
+
+341
+00:18:46,880 --> 00:18:50,280
+exit door at the corner of Pearl and Broad Streets.
+
+342
+00:18:50,281 --> 00:18:54,020
+Pearl and Broad Streets.
+
+343
+00:18:54,120 --> 00:18:56,220
+The bomb went off at lunchtime, tearing
+
+344
+00:18:56,320 --> 00:18:59,520
+into the crowded dining room, killing four instantly
+
+345
+00:18:59,620 --> 00:19:00,820
+and wounding 50 others.
+
+346
+00:19:05,020 --> 00:19:07,940
+But these tragic events would not be the last,
+
+347
+00:19:08,040 --> 00:19:09,960
+and terrorist attacks with explosives
+
+348
+00:19:10,060 --> 00:19:11,540
+have become alarmingly widespread.
+
+349
+00:19:15,440 --> 00:19:18,000
+And corporate America has begun to answer the threat
+
+350
+00:19:18,001 --> 00:19:20,040
+serious injury and material damage,
+
+351
+00:19:20,140 --> 00:19:23,300
+with a newly developed arsenal of bomb detection equipment
+
+352
+00:19:23,400 --> 00:19:25,400
+being produced by GE.
+
+353
+00:19:25,500 --> 00:19:27,640
+Wait for moving life.
+
+354
+00:19:27,740 --> 00:19:30,740
+Try to carry a bomb into some well-protected corporate
+
+355
+00:19:30,840 --> 00:19:33,440
+buildings, and you'll come face to face with this.
+
+356
+00:19:33,540 --> 00:19:34,760
+Enter.
+
+357
+00:19:34,860 --> 00:19:37,360
+Air pumpers on.
+
+358
+00:19:37,460 --> 00:19:40,160
+It's called the ion track entry scan.
+
+359
+00:19:40,260 --> 00:19:43,100
+The entry scan explosives and narcotics trace detector
+
+360
+00:19:43,200 --> 00:19:46,700
+works on the idea that when somebody has explosives
+
+361
+00:19:46,701 --> 00:19:49,100
+explosives or narcotics strapped to their body,
+
+362
+00:19:49,200 --> 00:19:52,740
+or for that matter, come into contact with these substances,
+
+363
+00:19:52,840 --> 00:19:56,040
+it can detect these trace amounts or microscopic amounts
+
+364
+00:19:56,140 --> 00:19:58,940
+of substances on the person.
+
+365
+00:19:59,040 --> 00:20:02,520
+The portal starts to work as soon as a subject steps inside.
+
+366
+00:20:02,620 --> 00:20:05,280
+The puffs of air that hit me were actually releasing
+
+367
+00:20:05,380 --> 00:20:08,920
+particles and vapors that maybe contaminated onto my clothes
+
+368
+00:20:09,020 --> 00:20:11,660
+to actually carry them upwards.
+
+369
+00:20:11,760 --> 00:20:15,760
+The $125,000 ion track system relies
+
+370
+00:20:15,761 --> 00:20:19,760
+of spectrometry to sniff out traces of explosives,
+
+371
+00:20:19,860 --> 00:20:22,900
+even the few molecules, that are left behind
+
+372
+00:20:23,000 --> 00:20:25,800
+in a suicide bomber's hair, clothing, or hands
+
+373
+00:20:25,900 --> 00:20:28,700
+after explosives are handled.
+
+374
+00:20:28,800 --> 00:20:31,800
+The entry scan is extremely sensitive down
+
+375
+00:20:31,900 --> 00:20:33,420
+to the nanogram level.
+
+376
+00:20:33,520 --> 00:20:35,320
+And if you think about what is a nanogram,
+
+377
+00:20:35,420 --> 00:20:37,420
+it's 1 billionth of a gram.
+
+378
+00:20:37,520 --> 00:20:39,620
+The entry scan sample collection system
+
+379
+00:20:39,720 --> 00:20:42,320
+takes advantage of a natural airflow phenomenon
+
+380
+00:20:42,321 --> 00:20:45,360
+called the human convection plume.
+
+381
+00:20:45,460 --> 00:20:48,500
+It flows upward around the body and carries vapors
+
+382
+00:20:48,600 --> 00:20:50,820
+and particles up with it.
+
+383
+00:20:50,920 --> 00:20:53,840
+Once the subject steps inside, their air sample
+
+384
+00:20:53,940 --> 00:20:58,700
+rises into a collection chamber at the top of the machine.
+
+385
+00:20:58,800 --> 00:21:00,880
+Next, the molecules in the chamber
+
+386
+00:21:00,980 --> 00:21:03,640
+are electrically charged or ionized.
+
+387
+00:21:03,740 --> 00:21:06,480
+Then the ions enter a detection tube.
+
+388
+00:21:06,580 --> 00:21:08,320
+As the ions drift through the tube,
+
+389
+00:21:08,420 --> 00:21:10,940
+their speed or flight signature is measured
+
+390
+00:21:10,941 --> 00:21:13,480
+and compared to the known signatures of explosives
+
+391
+00:21:13,580 --> 00:21:16,880
+like TNT, C4, and nitroglycerin.
+
+392
+00:21:20,280 --> 00:21:23,080
+Within 14 seconds, the results are in.
+
+393
+00:21:23,180 --> 00:21:25,080
+This is a nitro alarm.
+
+394
+00:21:25,180 --> 00:21:27,520
+And the screen view that you're looking at right now
+
+395
+00:21:27,620 --> 00:21:28,920
+is a plasmagram.
+
+396
+00:21:29,020 --> 00:21:31,860
+On our y-axis here, we have the relative strength
+
+397
+00:21:31,960 --> 00:21:32,760
+of the alarm.
+
+398
+00:21:32,860 --> 00:21:36,540
+And on the x-axis, we have the time of flight of the molecule.
+
+399
+00:21:36,640 --> 00:21:39,400
+Smaller, portable versions of the new ion trackers
+
+400
+00:21:39,401 --> 00:21:42,700
+can put this anti-terror technology virtually anywhere
+
+401
+00:21:42,800 --> 00:21:45,340
+a terrorist might conceal explosives.
+
+402
+00:21:45,440 --> 00:21:48,140
+What we've got here is GE Eintracht's itemizer.
+
+403
+00:21:48,240 --> 00:21:50,540
+And how it's used is we basically
+
+404
+00:21:50,640 --> 00:21:54,040
+acquire a sample by taking a sample trap, which is what
+
+405
+00:21:54,140 --> 00:21:55,740
+is on the end of this wand.
+
+406
+00:21:55,840 --> 00:22:02,560
+We'll wipe surfaces down and take it off the wand,
+
+407
+00:22:02,660 --> 00:22:07,000
+introduce it into the machine, where it takes an analysis
+
+408
+00:22:07,001 --> 00:22:08,240
+typically in about 10 seconds.
+
+409
+00:22:11,840 --> 00:22:14,240
+It's an updated version of the bomb-sniffing equipment
+
+410
+00:22:14,340 --> 00:22:17,340
+used by airport security since 2000
+
+411
+00:22:17,440 --> 00:22:20,240
+to detect traces of explosives on luggage,
+
+412
+00:22:20,340 --> 00:22:23,980
+evidence that the traveler has been in contact with a bomb.
+
+413
+00:22:24,080 --> 00:22:26,860
+To give you an idea of the sensitivity of the equipment,
+
+414
+00:22:26,960 --> 00:22:31,860
+what I've got here is one very small grain of TNT.
+
+415
+00:22:31,960 --> 00:22:35,860
+And if I just place that in my hands,
+
+416
+00:22:35,861 --> 00:22:42,100
+Take a sample, introduce it into the machine,
+
+417
+00:22:42,200 --> 00:22:44,940
+remove the sample.
+
+418
+00:22:45,040 --> 00:22:47,680
+That's a pretty large hit.
+
+419
+00:22:47,780 --> 00:22:49,580
+But machines like this wouldn't
+
+420
+00:22:49,680 --> 00:22:53,240
+be able to tell TNT from table salt if it weren't
+
+421
+00:22:53,340 --> 00:22:54,540
+for machines like this.
+
+422
+00:22:54,541 --> 00:23:07,020
+This is the 10-kilogram spherical chamber
+
+423
+00:23:07,120 --> 00:23:09,760
+at the Department of Energy's Lawrence Livermore Labs.
+
+424
+00:23:14,520 --> 00:23:17,260
+Scientists in the Energetic Materials Lab here
+
+425
+00:23:17,360 --> 00:23:20,940
+use it to study explosions, like those made by plastic
+
+426
+00:23:21,040 --> 00:23:24,540
+explosives, TNT, and fertilizer bombs.
+
+427
+00:23:24,541 --> 00:23:30,580
+What they learn is how to make substances that look like high
+
+428
+00:23:30,680 --> 00:23:34,580
+explosives, smell like high explosives, even x-ray like the
+
+429
+00:23:34,680 --> 00:23:37,880
+real thing, but won't even burn.
+
+430
+00:23:37,980 --> 00:23:41,960
+Called explosive simulants, these bogus bombs are used to train
+
+431
+00:23:42,060 --> 00:23:45,920
+bomb-sniffing dogs and calibrate detection equipment without the
+
+432
+00:23:46,020 --> 00:23:48,400
+danger of a real explosion.
+
+433
+00:23:48,500 --> 00:23:51,560
+This is an example of Semtex right here.
+
+434
+00:23:51,561 --> 00:23:54,060
+This is an explosive that was originally developed
+
+435
+00:23:54,160 --> 00:23:55,400
+in Eastern Europe.
+
+436
+00:23:55,500 --> 00:23:57,300
+This is an actual simulant.
+
+437
+00:23:57,400 --> 00:23:59,440
+It looks like the real explosive.
+
+438
+00:23:59,540 --> 00:24:01,100
+It smells like the real explosives.
+
+439
+00:24:01,200 --> 00:24:03,500
+It can be picked up on the detection equipment that
+
+440
+00:24:03,600 --> 00:24:05,700
+are being developed for office buildings.
+
+441
+00:24:05,800 --> 00:24:07,500
+And while simulating explosives
+
+442
+00:24:07,600 --> 00:24:10,840
+is one part of the answer to preventing their use in an attack,
+
+443
+00:24:10,940 --> 00:24:14,320
+there are still ways that a terrorist can evade the security
+
+444
+00:24:14,420 --> 00:24:17,320
+intended to thwart a bombing.
+
+445
+00:24:17,420 --> 00:24:20,280
+Even in the best protected area, one vulnerable feature
+
+446
+00:24:20,281 --> 00:24:23,760
+one vulnerable feature is often overlooked, the trash receptacle.
+
+447
+00:24:24,820 --> 00:24:27,060
+Although they are a necessity for waste management,
+
+448
+00:24:27,280 --> 00:24:29,360
+they are also an extremely soft target
+
+449
+00:24:29,361 --> 00:24:33,480
+which can easily conceal an explosive device planted by a terrorist.
+
+450
+00:24:36,700 --> 00:24:39,300
+The trash can might even heighten the attack
+
+451
+00:24:39,301 --> 00:24:41,200
+because when the bomb is detonated,
+
+452
+00:24:41,201 --> 00:24:45,420
+the can itself will add shrapnel and fragmentation to the blast area.
+
+453
+00:24:46,540 --> 00:24:48,620
+To counter this very real threat,
+
+454
+00:24:48,621 --> 00:24:51,560
+New York's American Innovations has engineered a sort of trash
+
+455
+00:24:51,660 --> 00:24:56,620
+can on steroids, the bomb-resistant waste receptacle.
+
+456
+00:24:56,720 --> 00:24:58,860
+As this test video shows, it is designed
+
+457
+00:24:58,960 --> 00:25:01,660
+to contain an explosion and direct the resulting blast
+
+458
+00:25:01,760 --> 00:25:04,240
+force straight up.
+
+459
+00:25:04,340 --> 00:25:07,840
+During tests conducted with military grade C-4 explosives,
+
+460
+00:25:07,940 --> 00:25:10,180
+the bomb-resistant containers sent the blasts
+
+461
+00:25:10,280 --> 00:25:14,140
+dramatically skyward, absorbing the residual energy
+
+462
+00:25:14,240 --> 00:25:17,580
+with their bulging sidewalls.
+
+463
+00:25:17,581 --> 00:25:20,420
+In this case, the threat would have been neutralized.
+
+464
+00:25:20,520 --> 00:25:23,180
+But the fallout from a so-called dirty bomb
+
+465
+00:25:23,280 --> 00:25:26,820
+or a biological release would pose another kind of threat.
+
+466
+00:25:29,920 --> 00:25:33,760
+Such challenges have prompted a new breed of dream machines
+
+467
+00:25:33,860 --> 00:25:36,140
+designed to detect invisible threats
+
+468
+00:25:36,240 --> 00:25:38,040
+before they can reach their targets.
+
+469
+00:25:38,041 --> 00:25:50,760
+They are the unseen tools of terror, anthrax spores,
+
+470
+00:25:50,860 --> 00:25:55,420
+smallpox virus, botulism bacteria, bubonic plague.
+
+471
+00:25:55,520 --> 00:25:57,320
+These are the organisms or the agents
+
+472
+00:25:57,420 --> 00:25:59,300
+that are of greatest concern.
+
+473
+00:25:59,400 --> 00:26:02,500
+There is good reason to believe that they could potentially
+
+474
+00:26:02,600 --> 00:26:08,040
+be used as agents in a biological warfare attack.
+
+475
+00:26:08,041 --> 00:26:09,740
+Although the US and other countries
+
+476
+00:26:09,840 --> 00:26:13,680
+developed biological weapons during and after World War II,
+
+477
+00:26:13,780 --> 00:26:19,180
+the programs were outlawed under international law in 1972.
+
+478
+00:26:19,280 --> 00:26:21,980
+Still, experts in counterterrorism
+
+479
+00:26:22,080 --> 00:26:24,920
+have warned that a terrorist attack with biological agents
+
+480
+00:26:25,020 --> 00:26:28,400
+against corporate targets is not a question of if, but when.
+
+481
+00:26:33,300 --> 00:26:35,900
+As recent events have proved, when is now.
+
+482
+00:26:38,040 --> 00:26:40,040
+October 2001.
+
+483
+00:26:40,140 --> 00:26:42,040
+The offices of tabloid newspaper
+
+484
+00:26:42,140 --> 00:26:45,040
+The National Enquirer are mysteriously contaminated
+
+485
+00:26:45,140 --> 00:26:46,540
+with anthrax.
+
+486
+00:26:46,640 --> 00:26:48,680
+A 63-year-old picture editor dies
+
+487
+00:26:48,780 --> 00:26:50,780
+after being contaminated.
+
+488
+00:26:50,880 --> 00:26:55,700
+Investigators suggest the event is the work of bioterrorists.
+
+489
+00:26:55,800 --> 00:26:58,700
+Corporations across America have since begun adopting
+
+490
+00:26:58,800 --> 00:27:01,400
+mail-handling sanitation machinery,
+
+491
+00:27:01,500 --> 00:27:04,440
+like the Mail Shelter, to guard against the possibility
+
+492
+00:27:04,540 --> 00:27:08,040
+of more anthrax attacks through the mail.
+
+493
+00:27:08,041 --> 00:27:10,340
+The mail shelter allows workers to open envelopes
+
+494
+00:27:10,440 --> 00:27:13,040
+in a pressurized chamber that draws contaminants
+
+495
+00:27:13,140 --> 00:27:18,380
+into an air filter before they can contaminate the mail room.
+
+496
+00:27:18,480 --> 00:27:23,020
+The example of what happened in the fall of 2001
+
+497
+00:27:23,120 --> 00:27:25,120
+really brought home the fact that we
+
+498
+00:27:25,220 --> 00:27:29,560
+need to be ready to respond in a rapid fashion
+
+499
+00:27:29,660 --> 00:27:31,760
+to be able to decontaminate and restore buildings
+
+500
+00:27:31,860 --> 00:27:34,340
+and infrastructure that has been subjected
+
+501
+00:27:34,440 --> 00:27:36,340
+to some kind of intentional release
+
+502
+00:27:36,341 --> 00:27:40,180
+of a microbiological organism.
+
+503
+00:27:40,280 --> 00:27:43,380
+The first step at avoiding the effects of bioterrorism
+
+504
+00:27:43,480 --> 00:27:44,980
+is prevention.
+
+505
+00:27:45,080 --> 00:27:47,080
+At the Lawrence Livermore National Laboratory,
+
+506
+00:27:47,180 --> 00:27:49,880
+progress is being made at perfecting a sort of smoke
+
+507
+00:27:49,980 --> 00:27:53,100
+detector for deadly pathogens.
+
+508
+00:27:53,200 --> 00:27:56,800
+The APDS, the Autonomous Pathogen Detection System,
+
+509
+00:27:56,900 --> 00:28:01,540
+is a system that's designed to continuously monitor the air
+
+510
+00:28:01,640 --> 00:28:06,100
+for the presence of airborne biological threat agents.
+
+511
+00:28:06,101 --> 00:28:11,900
+Things like anthrax or the organism that causes plague.
+
+512
+00:28:12,000 --> 00:28:14,140
+Identifying a sample once took scientists
+
+513
+00:28:14,240 --> 00:28:16,580
+hours in a laboratory, precious time
+
+514
+00:28:16,680 --> 00:28:20,280
+before an act of bioterrorism could be detected.
+
+515
+00:28:20,380 --> 00:28:23,320
+The sample must arrive from the location where contamination
+
+516
+00:28:23,420 --> 00:28:24,480
+is suspected.
+
+517
+00:28:24,580 --> 00:28:26,760
+Then technicians run complex procedures
+
+518
+00:28:26,860 --> 00:28:30,160
+like antibody identification and DNA analysis
+
+519
+00:28:30,260 --> 00:28:32,660
+to get their answer.
+
+520
+00:28:32,760 --> 00:28:35,300
+Because diseases like smallpox and anthrax
+
+521
+00:28:35,301 --> 00:28:38,100
+can be cured if there is sufficient warning,
+
+522
+00:28:38,200 --> 00:28:41,200
+detection time is crucial.
+
+523
+00:28:41,300 --> 00:28:45,680
+This is the Autonomous Pathogen Detector, or APDS.
+
+524
+00:28:45,780 --> 00:28:49,180
+It will run 24 hours a day without help from people
+
+525
+00:28:49,280 --> 00:28:52,860
+to duplicate the same complex tests once done in the lab,
+
+526
+00:28:52,960 --> 00:28:55,780
+constantly searching for the unique signatures of killer
+
+527
+00:28:55,880 --> 00:28:58,820
+germs in the air.
+
+528
+00:28:58,920 --> 00:29:02,220
+The device samples the air, filters out smoke and dust,
+
+529
+00:29:02,320 --> 00:29:04,500
+and mixes what remains with lab fluids
+
+530
+00:29:04,501 --> 00:29:08,840
+to extract the DNA of any pathogen it collects.
+
+531
+00:29:08,940 --> 00:29:10,900
+The system relies on gene chips, which
+
+532
+00:29:11,000 --> 00:29:13,740
+are imprinted with the DNA information of anthrax,
+
+533
+00:29:13,840 --> 00:29:17,240
+smallpox, and other deadly microbes.
+
+534
+00:29:17,340 --> 00:29:21,480
+If the DNA from an air sample matches the DNA on the chip,
+
+535
+00:29:21,580 --> 00:29:26,020
+this is evidence of a biological release.
+
+536
+00:29:26,120 --> 00:29:29,460
+The aerosol collector takes in air continuously.
+
+537
+00:29:29,560 --> 00:29:33,700
+It screens out large particles, things like pollen, which are
+
+538
+00:29:33,701 --> 00:29:37,400
+which are quite big relative to the size of the particles
+
+539
+00:29:37,500 --> 00:29:39,940
+we're actually interested in.
+
+540
+00:29:40,040 --> 00:29:44,480
+The smaller particles then are concentrated into a fluid.
+
+541
+00:29:44,580 --> 00:29:47,120
+And the fluid is contained here in this,
+
+542
+00:29:47,220 --> 00:29:50,020
+this is called a cyclone.
+
+543
+00:29:50,120 --> 00:29:52,260
+Next, the solution from the cyclone
+
+544
+00:29:52,360 --> 00:29:55,260
+is pumped into an automated sample reservoir
+
+545
+00:29:55,360 --> 00:29:57,860
+to await a barrage of tests.
+
+546
+00:29:57,960 --> 00:30:01,560
+That's the sole of the APDS.
+
+547
+00:30:01,561 --> 00:30:04,960
+It's a multiplex detection system.
+
+548
+00:30:05,060 --> 00:30:06,360
+See the probe here?
+
+549
+00:30:06,460 --> 00:30:08,760
+It goes down and aspirates into that sample cup,
+
+550
+00:30:08,860 --> 00:30:11,300
+pulls up a sample, and then analyzes that
+
+551
+00:30:11,400 --> 00:30:13,800
+for a total of 60 seconds.
+
+552
+00:30:13,900 --> 00:30:16,800
+You're looking now at the fluidics module.
+
+553
+00:30:16,900 --> 00:30:19,480
+This is the module that allows us to conduct
+
+554
+00:30:19,580 --> 00:30:23,020
+an automated immunoassay.
+
+555
+00:30:23,120 --> 00:30:24,720
+A handheld version of this machine,
+
+556
+00:30:24,820 --> 00:30:29,280
+called HANA, for Handheld Advanced Nucleic Acid Analyzer,
+
+557
+00:30:29,281 --> 00:30:32,220
+is designed to be used by emergency response teams
+
+558
+00:30:32,320 --> 00:30:35,780
+when an event of bioterrorism is suspected.
+
+559
+00:30:35,880 --> 00:30:39,820
+All the responder has to do is introduce the sample,
+
+560
+00:30:39,920 --> 00:30:43,320
+set in the appropriate program to begin this operation
+
+561
+00:30:43,420 --> 00:30:47,040
+in this chamber or whichever chamber is appropriate,
+
+562
+00:30:47,140 --> 00:30:49,560
+and then wait 20 minutes for a response.
+
+563
+00:30:49,660 --> 00:30:51,400
+A response is a signal.
+
+564
+00:30:51,500 --> 00:30:53,840
+You'll get an amplification of a signal here
+
+565
+00:30:53,940 --> 00:30:58,000
+to tell you if the agent that you're looking for in your assay
+
+566
+00:30:58,001 --> 00:31:01,940
+is present or not.
+
+567
+00:31:02,040 --> 00:31:05,040
+But as the threat of biological attack persists,
+
+568
+00:31:05,140 --> 00:31:07,380
+there is another equally disturbing threat
+
+569
+00:31:07,480 --> 00:31:09,120
+that researchers at the Livermore Labs
+
+570
+00:31:09,220 --> 00:31:12,840
+must also address, the possibility of radiological
+
+571
+00:31:12,940 --> 00:31:17,720
+terror attack with a dirty bomb.
+
+572
+00:31:17,820 --> 00:31:20,920
+A dirty bomb is a conventional explosive like dynamite
+
+573
+00:31:21,020 --> 00:31:23,720
+that has been packaged with radioactive material that
+
+574
+00:31:23,820 --> 00:31:26,220
+scatters when the bomb goes off.
+
+575
+00:31:26,221 --> 00:31:31,460
+It kills by airborne radiation and contamination.
+
+576
+00:31:31,560 --> 00:31:33,660
+Scientists here agree that the best defense
+
+577
+00:31:33,760 --> 00:31:36,220
+against a radioactive weapon is to find it early
+
+578
+00:31:36,320 --> 00:31:39,160
+and identify it using this.
+
+579
+00:31:39,260 --> 00:31:41,960
+The RadScout's a portable radiation detection tool.
+
+580
+00:31:42,060 --> 00:31:45,280
+It will detect gamma rays and neutron radiation,
+
+581
+00:31:45,380 --> 00:31:48,480
+do the analysis on board, and tell the person operating
+
+582
+00:31:48,580 --> 00:31:51,020
+it what the material, what likely material produced
+
+583
+00:31:51,120 --> 00:31:55,420
+that radiation to allow us to begin doing a threat analysis.
+
+584
+00:31:55,421 --> 00:32:00,860
+Traces of uranium, plutonium, the likely tools of a terrorist,
+
+585
+00:32:00,960 --> 00:32:04,320
+can quickly be isolated from normal background radiation
+
+586
+00:32:04,420 --> 00:32:06,960
+with this handheld device.
+
+587
+00:32:07,060 --> 00:32:09,760
+The Rad Scout's forte is its portability.
+
+588
+00:32:09,860 --> 00:32:11,760
+So once a threat has been called in
+
+589
+00:32:11,860 --> 00:32:13,580
+or there's a suspicion of a threat,
+
+590
+00:32:13,680 --> 00:32:14,980
+the Rad Scout is an excellent tool
+
+591
+00:32:15,080 --> 00:32:17,980
+to take down the halls, up and down the high rise,
+
+592
+00:32:18,080 --> 00:32:20,120
+looking for elevated radiation.
+
+593
+00:32:20,220 --> 00:32:22,080
+That's using it in its detector mode.
+
+594
+00:32:22,180 --> 00:32:24,480
+Once we've found a spot with elevated radiation,
+
+595
+00:32:24,481 --> 00:32:26,240
+we can then do the analysis.
+
+596
+00:32:26,340 --> 00:32:28,180
+And so it's very good at searching areas
+
+597
+00:32:28,280 --> 00:32:30,080
+and identifying the threat.
+
+598
+00:32:30,180 --> 00:32:32,320
+In this laboratory trial, the threat
+
+599
+00:32:32,420 --> 00:32:35,720
+could be hidden anywhere or nowhere.
+
+600
+00:32:35,820 --> 00:32:37,320
+The first thing I have to do with the Rad Scout
+
+601
+00:32:37,420 --> 00:32:39,420
+is get a measure of the background of radiation.
+
+602
+00:32:39,520 --> 00:32:41,140
+Everywhere in the world, there's radiation,
+
+603
+00:32:41,240 --> 00:32:43,340
+but it varies from location to location.
+
+604
+00:32:43,440 --> 00:32:47,040
+As I walk through here, I'm just watching a bar chart here
+
+605
+00:32:47,140 --> 00:32:49,540
+that's telling me how much radiation is present.
+
+606
+00:32:49,640 --> 00:32:52,280
+But I'm just looking for that bar chart to go up, which
+
+607
+00:32:52,281 --> 00:32:55,820
+which tells me there's something radioactive here.
+
+608
+00:32:55,821 --> 00:32:57,980
+Once the investigator calibrates the detector
+
+609
+00:32:57,981 --> 00:33:01,160
+for this location, he can then hunt for unusual levels
+
+610
+00:33:01,161 --> 00:33:03,800
+of radiation, indications that something dangerous
+
+611
+00:33:03,801 --> 00:33:05,720
+might be hiding here.
+
+612
+00:33:05,721 --> 00:33:08,520
+There's about 50 counts per second of gamma radiation
+
+613
+00:33:08,521 --> 00:33:09,520
+coming here.
+
+614
+00:33:09,521 --> 00:33:11,740
+So now what I'll do is I'll go looking for regions
+
+615
+00:33:11,741 --> 00:33:15,240
+where there's more radiation than the background.
+
+616
+00:33:15,241 --> 00:33:18,900
+And as I walk through here, I'm seeing small variations
+
+617
+00:33:18,901 --> 00:33:20,200
+in the radiation.
+
+618
+00:33:20,201 --> 00:33:23,940
+As I get in here, I see increased radiation.
+
+619
+00:33:24,040 --> 00:33:26,840
+And over here, I see significantly increased radiation.
+
+620
+00:33:26,940 --> 00:33:28,740
+And so now I've got a reason to think there's something
+
+621
+00:33:28,840 --> 00:33:31,340
+in this file cabinet that's at a higher level,
+
+622
+00:33:31,440 --> 00:33:33,240
+that's producing a higher level of radiation.
+
+623
+00:33:33,340 --> 00:33:35,440
+And I'd like to go understand what that is.
+
+624
+00:33:35,540 --> 00:33:39,160
+The RadScout's touch screen activates the search mode.
+
+625
+00:33:39,260 --> 00:33:42,120
+And it's already starting to tell me sources of radiation
+
+626
+00:33:42,220 --> 00:33:43,160
+that it could be.
+
+627
+00:33:43,260 --> 00:33:46,560
+And now it's identified thorium as a source of radiation
+
+628
+00:33:46,660 --> 00:33:48,000
+that it has identified.
+
+629
+00:33:48,100 --> 00:33:49,560
+And again, with my training, I understand
+
+630
+00:33:49,561 --> 00:33:52,060
+is a common component in some optical lenses.
+
+631
+00:33:52,160 --> 00:33:53,460
+And so there's a chance that there's
+
+632
+00:33:53,560 --> 00:33:55,160
+just an optical component in here.
+
+633
+00:33:55,260 --> 00:33:57,060
+And so we'll open up the file cabinet
+
+634
+00:33:57,160 --> 00:33:59,900
+and look for the actual piece of material.
+
+635
+00:34:00,000 --> 00:34:02,500
+And here you can see an optical component that gets used
+
+636
+00:34:02,600 --> 00:34:04,900
+routinely around the laboratory that has radioactive thorium
+
+637
+00:34:05,000 --> 00:34:07,120
+in it at a very small level.
+
+638
+00:34:07,220 --> 00:34:10,040
+The trace levels of radioactive thorium detected here
+
+639
+00:34:10,140 --> 00:34:12,520
+do not pose any real health hazard.
+
+640
+00:34:12,620 --> 00:34:15,560
+But if a well-concealed dirty bomb had been planted here
+
+641
+00:34:15,660 --> 00:34:18,760
+instead, the Rad Scout would have likely detected it
+
+642
+00:34:18,761 --> 00:34:23,000
+and given security workers time to evacuate.
+
+643
+00:34:23,100 --> 00:34:26,340
+But when terror strikes, there isn't always a clear way out,
+
+644
+00:34:26,440 --> 00:34:28,640
+especially from a burning high rise.
+
+645
+00:34:28,740 --> 00:34:30,980
+To answer this need, there is a new technology
+
+646
+00:34:31,080 --> 00:34:34,940
+that promises to help victims safely escape by jumping off.
+
+647
+00:34:39,920 --> 00:34:41,920
+The explosion went off around 9 a.m.
+
+648
+00:34:42,020 --> 00:34:44,520
+And we could feel the explosion.
+
+649
+00:34:44,620 --> 00:34:47,320
+April 19, 1995.
+
+650
+00:34:47,321 --> 00:34:51,260
+At 9.02 a.m., a rental truck packed with homemade explosives
+
+651
+00:34:51,261 --> 00:34:52,760
+blows up in Oklahoma City.
+
+652
+00:34:53,420 --> 00:34:56,360
+The force of the truck bomb rips away the entire north side
+
+653
+00:34:56,361 --> 00:34:58,160
+of the Alfred P. Murrah Federal Building,
+
+654
+00:34:58,860 --> 00:35:03,160
+killing 169 people, including 20 children attending daycare.
+
+655
+00:35:04,460 --> 00:35:07,780
+Such a terrorist attack remains a constant concern
+
+656
+00:35:07,781 --> 00:35:08,980
+in a corporate high-rise.
+
+657
+00:35:09,420 --> 00:35:10,620
+Despite efforts at prevention,
+
+658
+00:35:11,240 --> 00:35:14,960
+the real and present danger posed by bombs continues to loom.
+
+659
+00:35:14,961 --> 00:35:18,660
+Today, building materials designed to withstand such blasts
+
+660
+00:35:18,760 --> 00:35:21,440
+are being developed that could save lives in the event
+
+661
+00:35:21,540 --> 00:35:25,140
+that the unthinkable happens again.
+
+662
+00:35:25,240 --> 00:35:28,440
+The main threat in a blast mitigation to people
+
+663
+00:35:28,540 --> 00:35:32,080
+is the glass shards, that when glass shatters,
+
+664
+00:35:32,180 --> 00:35:34,440
+it fires out missiles.
+
+665
+00:35:34,540 --> 00:35:39,020
+And when the glass is taken out, then the other things
+
+666
+00:35:39,120 --> 00:35:43,080
+in the immediate area also become missiles.
+
+667
+00:35:43,081 --> 00:35:47,080
+These windows address actually three types of threats,
+
+668
+00:35:47,180 --> 00:35:53,920
+and this is blast, bio, and chemo warfare materials.
+
+669
+00:35:54,020 --> 00:35:56,820
+At their development site in Arlington, Virginia,
+
+670
+00:35:56,920 --> 00:35:59,760
+a team of glass manufacturers have joined forces
+
+671
+00:35:59,860 --> 00:36:01,600
+to produce the first window designed
+
+672
+00:36:01,700 --> 00:36:04,540
+to withstand a terrorist attack.
+
+673
+00:36:04,640 --> 00:36:06,900
+Moti Emek is chief technology consultant
+
+674
+00:36:07,000 --> 00:36:09,180
+at Old Castle R. Paul Glass.
+
+675
+00:36:09,181 --> 00:36:13,880
+What we have here is a window that was demonstrated
+
+676
+00:36:13,980 --> 00:36:15,980
+in a real blast event.
+
+677
+00:36:16,080 --> 00:36:18,820
+Now, this specific window was exposed
+
+678
+00:36:18,920 --> 00:36:24,860
+to a charge of 50 pounds of TNT at a standoff of 30 feet.
+
+679
+00:36:24,960 --> 00:36:27,000
+The windows aren't designed to look pretty
+
+680
+00:36:27,100 --> 00:36:28,160
+after an explosion.
+
+681
+00:36:28,260 --> 00:36:31,800
+Their purpose is singular, to protect the people inside.
+
+682
+00:36:31,900 --> 00:36:33,400
+What's special about this glass
+
+683
+00:36:33,500 --> 00:36:36,300
+is that it's made of two layers of glass
+
+684
+00:36:36,301 --> 00:36:40,880
+of glass with an interlayer of very resilient film.
+
+685
+00:36:40,980 --> 00:36:43,140
+When subjected to the force of a blast,
+
+686
+00:36:43,240 --> 00:36:45,300
+the windows shatter immediately.
+
+687
+00:36:45,400 --> 00:36:49,740
+But the fragments remained attached
+
+688
+00:36:49,840 --> 00:36:51,740
+to the interlayer of film.
+
+689
+00:36:51,840 --> 00:36:55,280
+And the whole fabric of fragments of glass with the film
+
+690
+00:36:55,380 --> 00:36:58,820
+will start to balloon in the protected area.
+
+691
+00:36:58,920 --> 00:37:04,520
+Since the glass and the frame creates together a system,
+
+692
+00:37:04,521 --> 00:37:08,600
+The bonding of the glass to the frame is very special,
+
+693
+00:37:08,700 --> 00:37:14,060
+and it absorbs some of the blast energy.
+
+694
+00:37:14,160 --> 00:37:16,640
+Using scenarios that combine a blast's force
+
+695
+00:37:16,740 --> 00:37:20,040
+and its distance from a building, the Old Castle R. Paul
+
+696
+00:37:20,140 --> 00:37:23,100
+engineers can design windows to protect against an array
+
+697
+00:37:23,200 --> 00:37:26,500
+of terrorist threats.
+
+698
+00:37:26,600 --> 00:37:29,120
+This window survived the relatively small charge
+
+699
+00:37:29,220 --> 00:37:32,420
+that might be delivered in a suitcase bomb at close range.
+
+700
+00:37:34,520 --> 00:37:40,520
+Window number 1810 survived the blast from 220 pounds of TNT,
+
+701
+00:37:40,521 --> 00:37:43,520
+about the size of a terrorist car bomb.
+
+702
+00:37:43,521 --> 00:37:47,520
+The next scenario is that the guy comes not with his own car,
+
+703
+00:37:47,521 --> 00:37:51,520
+but with a little truck, like 5,000 pounds,
+
+704
+00:37:51,521 --> 00:37:54,520
+like what we had in Oklahoma City.
+
+705
+00:37:54,521 --> 00:37:57,520
+In the Oklahoma City bombing,
+
+706
+00:37:57,521 --> 00:38:01,520
+Timothy McVeigh is believed to have used a 5,000-pound ammonium nitrate,
+
+707
+00:38:01,521 --> 00:38:04,320
+ammonium nitrate, or fertilizer bomb,
+
+708
+00:38:04,321 --> 00:38:07,520
+parked outside in his rented truck.
+
+709
+00:38:07,521 --> 00:38:13,060
+And we have windows that can give the right protection
+
+710
+00:38:13,061 --> 00:38:17,200
+against this type of terror threat.
+
+711
+00:38:17,201 --> 00:38:19,140
+To develop bomb-resistant windows
+
+712
+00:38:19,141 --> 00:38:21,140
+that might protect a high-rise building
+
+713
+00:38:21,141 --> 00:38:23,840
+from another Oklahoma City-type attack,
+
+714
+00:38:23,841 --> 00:38:27,280
+test window number 1006 was subjected to a blast
+
+715
+00:38:27,281 --> 00:38:31,020
+from nearly 6,000 pounds of the same fertilizer explosive
+
+716
+00:38:31,021 --> 00:38:34,360
+that McVeigh used in 1995.
+
+717
+00:38:34,460 --> 00:38:39,220
+Eventually, what you'll see, like, in a slow motion,
+
+718
+00:38:39,320 --> 00:38:41,660
+as you can see in the video clip, is
+
+719
+00:38:41,760 --> 00:38:45,060
+that the whole window will balloon in a little bit.
+
+720
+00:38:45,160 --> 00:38:47,540
+The window jams will deflect in.
+
+721
+00:38:47,640 --> 00:38:48,780
+It's very flexible.
+
+722
+00:38:48,880 --> 00:38:50,080
+It will return back.
+
+723
+00:38:50,180 --> 00:38:51,980
+The glass will return back.
+
+724
+00:38:52,080 --> 00:38:56,380
+The window jams will return back, and then back again.
+
+725
+00:38:56,480 --> 00:38:58,780
+The result, if the building didn't collapse,
+
+726
+00:38:58,880 --> 00:39:00,680
+the occupants behind this window would likely
+
+727
+00:39:00,681 --> 00:39:05,580
+have been protected from the devastating bomb blast.
+
+728
+00:39:05,680 --> 00:39:07,820
+But in the event prevention fails,
+
+729
+00:39:07,920 --> 00:39:10,320
+breakthrough developments on a familiar technology
+
+730
+00:39:10,420 --> 00:39:13,620
+may provide a fast way to get out of harm's way.
+
+731
+00:39:18,640 --> 00:39:20,540
+In the days following September 11th,
+
+732
+00:39:20,640 --> 00:39:23,540
+Americans began to reevaluate all that is supposed
+
+733
+00:39:23,640 --> 00:39:25,340
+to keep us safe.
+
+734
+00:39:25,440 --> 00:39:26,840
+From the chilling memory of workers
+
+735
+00:39:26,940 --> 00:39:29,940
+leaping from the upper floors of the World Trade Center,
+
+736
+00:39:29,941 --> 00:39:31,980
+A team of parachute designers was inspired
+
+737
+00:39:32,080 --> 00:39:36,280
+to create a last resort method to evacuate a burning high rise.
+
+738
+00:39:36,380 --> 00:39:38,280
+It's called the evacu-chute.
+
+739
+00:39:44,380 --> 00:39:48,300
+I believe that a lot of people that were trapped in 9-11
+
+740
+00:39:48,400 --> 00:39:51,900
+would have been able to use our evacu-chute system successfully
+
+741
+00:39:52,000 --> 00:39:53,600
+to be able to get out of the building.
+
+742
+00:39:53,700 --> 00:39:55,540
+It is the first of its kind to address
+
+743
+00:39:55,640 --> 00:39:57,900
+the growing demand for personal parachutes
+
+744
+00:39:57,901 --> 00:40:00,700
+among high-rise workers who fear that the unthinkable
+
+745
+00:40:00,800 --> 00:40:03,800
+could happen again.
+
+746
+00:40:03,900 --> 00:40:06,440
+It is designed for evacuation from a minimum height
+
+747
+00:40:06,540 --> 00:40:10,540
+of 15 stories, or 130 feet above the ground,
+
+748
+00:40:10,640 --> 00:40:12,640
+and can be ready for use in less than a minute.
+
+749
+00:40:15,460 --> 00:40:17,460
+It's very straightforward and simple.
+
+750
+00:40:17,560 --> 00:40:22,560
+You have three main buckles, main points, your two leg,
+
+751
+00:40:22,660 --> 00:40:24,160
+and your one center.
+
+752
+00:40:24,161 --> 00:40:30,200
+And what you have here is the static line.
+
+753
+00:40:30,300 --> 00:40:35,340
+And what the individual does is they pull out
+
+754
+00:40:35,440 --> 00:40:37,080
+until they see the red string.
+
+755
+00:40:37,180 --> 00:40:41,940
+When they see the red string, they don't pull any further.
+
+756
+00:40:42,040 --> 00:40:43,840
+The static line makes the evacu-shoot
+
+757
+00:40:43,940 --> 00:40:45,540
+work automatically.
+
+758
+00:40:45,640 --> 00:40:48,280
+Before jumping, the fireproof Kevlar strap
+
+759
+00:40:48,380 --> 00:40:51,760
+is hooked to a fixed object or wall bracket.
+
+760
+00:40:51,761 --> 00:40:55,000
+Once that is in place, all the evacuee has to do
+
+761
+00:40:55,100 --> 00:40:58,500
+is jump feet first and hands free.
+
+762
+00:40:58,600 --> 00:41:01,600
+Everything else is done automatically.
+
+763
+00:41:01,700 --> 00:41:03,800
+Once in the air, the Kevlar line
+
+764
+00:41:03,900 --> 00:41:06,700
+acts like a ripcord to deploy the parachute canopy
+
+765
+00:41:06,800 --> 00:41:09,220
+in less than two seconds.
+
+766
+00:41:09,320 --> 00:41:13,420
+It's impossible to have people jumping from a building
+
+767
+00:41:13,520 --> 00:41:15,620
+deploying the parachute, especially people that
+
+768
+00:41:15,720 --> 00:41:18,020
+have no parachute experience.
+
+769
+00:41:18,120 --> 00:41:21,520
+Static line, what that ensures is that
+
+770
+00:41:21,521 --> 00:41:25,220
+that the parachute opens correctly every time,
+
+771
+00:41:25,320 --> 00:41:29,560
+and it's the only fail-safe way that we can make sure
+
+772
+00:41:29,660 --> 00:41:33,860
+that that deployment is done properly.
+
+773
+00:41:33,960 --> 00:41:36,360
+More cutting-edge design is evident in the parachute's
+
+774
+00:41:36,460 --> 00:41:38,160
+nylon canopy.
+
+775
+00:41:38,260 --> 00:41:41,780
+It scoops the air that fills it into the shape of a cone.
+
+776
+00:41:41,880 --> 00:41:44,880
+This airflow guides the evacuee away from the flames
+
+777
+00:41:44,980 --> 00:41:48,280
+of a burning building at a 45-degree angle of descent.
+
+778
+00:41:48,281 --> 00:41:53,780
+The 45-degree angle makes it a lot easier when you do touch down
+
+779
+00:41:53,781 --> 00:41:56,920
+versus falling straight down at a 90-degree angle.
+
+780
+00:41:56,921 --> 00:42:00,980
+You're actually able to absorb a little bit more of the shock
+
+781
+00:42:00,981 --> 00:42:03,740
+of the landing based on that 45-degree angle.
+
+782
+00:42:04,400 --> 00:42:07,280
+Although few people have actually jumped with an evacu-shoot,
+
+783
+00:42:07,820 --> 00:42:10,340
+the company's president has taken a test flight.
+
+784
+00:42:11,080 --> 00:42:12,700
+And I'm not a professional parachute,
+
+785
+00:42:12,701 --> 00:42:16,540
+so to me, it felt comfortable.
+
+786
+00:42:16,541 --> 00:42:19,780
+I basically stood the landing up.
+
+787
+00:42:20,040 --> 00:42:23,180
+I just basically ran.
+
+788
+00:42:23,820 --> 00:42:28,160
+And when I touched down, it was very easy, very comfortable.
+
+789
+00:42:29,380 --> 00:42:32,860
+But while most anti-terror tech gives warning
+
+790
+00:42:32,861 --> 00:42:40,760
+or provides defense from imminent attack,
+
+791
+00:42:41,000 --> 00:42:45,600
+the $1,500 evacu-shoot is strictly a desperate measure
+
+792
+00:42:45,601 --> 00:42:50,000
+to be used only when no other choice exists.
+
+793
+00:42:50,100 --> 00:42:51,800
+Opponents argue that the evacu-shoot
+
+794
+00:42:51,900 --> 00:42:54,840
+may provide a false sense of security in the high rise,
+
+795
+00:42:54,940 --> 00:42:56,540
+or that victims might choose to use it
+
+796
+00:42:56,640 --> 00:42:59,840
+before conventional rescue methods have been exhausted,
+
+797
+00:42:59,940 --> 00:43:02,460
+only adding to the risk.
+
+798
+00:43:02,560 --> 00:43:05,460
+I completely understand that leaping from a high rise
+
+799
+00:43:05,560 --> 00:43:10,460
+building goes against just about anybody's perspective
+
+800
+00:43:10,560 --> 00:43:12,160
+of what's natural.
+
+801
+00:43:12,260 --> 00:43:15,360
+However, when people get informed and become educated
+
+802
+00:43:15,361 --> 00:43:19,900
+of the realities of high-rise fires and evacuation.
+
+803
+00:43:20,000 --> 00:43:23,900
+Systems such as the evacu-shoot will become common sense.
+
+804
+00:43:24,000 --> 00:43:26,700
+How will the corporate world cope with the likelihood
+
+805
+00:43:26,800 --> 00:43:28,700
+that there will be more terrorist attacks
+
+806
+00:43:28,800 --> 00:43:32,520
+against soft targets like high-rise buildings?
+
+807
+00:43:32,620 --> 00:43:34,820
+The answer is taking shape in the laboratories
+
+808
+00:43:34,920 --> 00:43:37,320
+and testing centers across America,
+
+809
+00:43:37,420 --> 00:43:40,620
+on the leading edge of anti-terror technology.
+
+810
+00:43:40,720 --> 00:43:43,720
+If an organization or an individual knows,
+
+811
+00:43:43,721 --> 00:43:46,220
+we're going to be able to respond quickly
+
+812
+00:43:46,320 --> 00:43:48,220
+with minimal infrastructure damage,
+
+813
+00:43:48,320 --> 00:43:52,520
+minimal economic damage, and ideally minimal human damage,
+
+814
+00:43:52,620 --> 00:43:56,360
+then there's no real reason to have a release or an event at
+
+815
+00:43:56,460 --> 00:43:57,260
+all.
+
+816
+00:43:57,360 --> 00:43:59,160
+It loses all of its impact.
+
+817
+00:43:59,260 --> 00:44:02,880
+Their work may never erase terrorism completely.
+
+818
+00:44:02,980 --> 00:44:07,480
+But together, they will bring us closer to a common goal,
+
+819
+00:44:07,580 --> 00:44:09,420
+the goal of being prepared.
+

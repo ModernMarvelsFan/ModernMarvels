@@ -1,0 +1,3304 @@
+1
+00:00:00,001 --> 00:00:03,000
+What do french fries, TV dinners,
+
+2
+00:00:03,001 --> 00:00:06,000
+and bottles of baby formula have in common?
+
+3
+00:00:06,001 --> 00:00:07,000
+Nothing, right?
+
+4
+00:00:07,001 --> 00:00:09,000
+But at one point, they were all considered
+
+5
+00:00:09,001 --> 00:00:12,000
+to be the future of food.
+
+6
+00:00:12,001 --> 00:00:14,000
+Americans have always had a knack for inventing
+
+7
+00:00:14,001 --> 00:00:16,000
+and reinventing the future.
+
+8
+00:00:16,001 --> 00:00:19,000
+We have a long history of pushing food technology
+
+9
+00:00:19,001 --> 00:00:24,000
+to create new flavors, new textures, and new foods.
+
+10
+00:00:24,001 --> 00:00:27,000
+Like the surprising origins of Cheetos,
+
+11
+00:00:27,001 --> 00:00:29,000
+launching ice cream into outer space,
+
+12
+00:00:29,001 --> 00:00:32,000
+and adding eggs to a box of Betty Crocker powder
+
+13
+00:00:32,100 --> 00:00:35,440
+to, poof, bake a magical cake.
+
+14
+00:00:35,540 --> 00:00:38,840
+Today, we'll get a sneak peek of the delicious innovations
+
+15
+00:00:38,940 --> 00:00:41,740
+in our food future, from the sci-fi way
+
+16
+00:00:41,840 --> 00:00:45,680
+to grow veggies without sunlight to robots
+
+17
+00:00:45,780 --> 00:00:49,480
+autonomously crafting hamburgers and pizza.
+
+18
+00:00:49,580 --> 00:00:53,520
+And you won't believe what scientists discovered in plants
+
+19
+00:00:53,620 --> 00:00:58,000
+that's also found in meat and creates the delicious meat
+
+20
+00:00:58,001 --> 00:01:00,340
+meat flavor that we crave.
+
+21
+00:01:00,440 --> 00:01:03,200
+Come take a ride with me in my flying car,
+
+22
+00:01:03,300 --> 00:01:06,740
+because this is Modern Marvel's The Future of Food.
+
+23
+00:01:22,360 --> 00:01:24,600
+For a glimpse into the future, I've
+
+24
+00:01:24,700 --> 00:01:27,560
+come here to Natick, Massachusetts.
+
+25
+00:01:27,561 --> 00:01:30,700
+Natick's General Equipment and Packaging Laboratory
+
+26
+00:01:30,701 --> 00:01:32,840
+has both small items and large.
+
+27
+00:01:33,500 --> 00:01:37,420
+The military's funding of food research dates back to World War II.
+
+28
+00:01:37,920 --> 00:01:41,880
+And by 1963, their food research and development mission
+
+29
+00:01:41,881 --> 00:01:43,840
+moved here to Natick Labs.
+
+30
+00:01:44,280 --> 00:01:46,560
+These food development efforts by the military
+
+31
+00:01:46,561 --> 00:01:49,900
+are how American classics like sandwich bread,
+
+32
+00:01:50,120 --> 00:01:53,840
+the McRib, and some would even say Cheetos, were created.
+
+33
+00:01:53,841 --> 00:02:00,640
+So to see what they do here is to see a glimpse of our future eats.
+
+34
+00:02:00,641 --> 00:02:07,120
+To learn how they do it, Lori Aleksic is taking us behind the scenes of this vast compound
+
+35
+00:02:07,121 --> 00:02:09,986
+of 50 buildings spanning 78 acres.
+
+36
+00:02:09,987 --> 00:02:14,960
+Lori is the team leader of food engineering and analysis at
+
+37
+00:02:14,961 --> 00:02:20,383
+the Army's facilities. How are you? How are you? A little bit of patriotic elbow.
+
+38
+00:02:20,384 --> 00:02:21,120
+You develop
+
+39
+00:02:21,121 --> 00:02:22,320
+Everything here?
+
+40
+00:02:22,321 --> 00:02:25,160
+Yes, we're the only DOD facility
+
+41
+00:02:25,161 --> 00:02:27,000
+that conducts the research and development
+
+42
+00:02:27,001 --> 00:02:28,500
+of field food service equipment.
+
+43
+00:02:28,501 --> 00:02:31,700
+So how often are you introducing new products?
+
+44
+00:02:31,701 --> 00:02:33,040
+Every single year.
+
+45
+00:02:33,041 --> 00:02:34,360
+Really? Yep.
+
+46
+00:02:34,361 --> 00:02:36,740
+Lori's team are the skilled pros,
+
+47
+00:02:36,741 --> 00:02:38,980
+constantly testing new food technologies
+
+48
+00:02:38,981 --> 00:02:40,980
+for use by the military today,
+
+49
+00:02:40,981 --> 00:02:46,320
+but soon could be the future of consumer food tomorrow.
+
+50
+00:02:46,321 --> 00:02:49,580
+And speaking of the future, while I suit up,
+
+51
+00:02:49,581 --> 00:02:52,580
+we're making a pit stop to a company in the Bay Area
+
+52
+00:02:52,581 --> 00:02:56,580
+that delivers an old favorite with a science fiction spin.
+
+53
+00:03:02,920 --> 00:03:06,100
+Creator is the first restaurant to fully automate
+
+54
+00:03:06,101 --> 00:03:08,100
+a major sector of food.
+
+55
+00:03:08,101 --> 00:03:11,100
+They're making hamburgers by robot.
+
+56
+00:03:16,980 --> 00:03:19,580
+With the app, you can order from the ground up
+
+57
+00:03:19,581 --> 00:03:21,920
+You can specify some of the usual customization things,
+
+58
+00:03:21,921 --> 00:03:24,820
+like extra tomatoes, no pickles.
+
+59
+00:03:24,821 --> 00:03:27,120
+You can also do things you can't do anywhere else.
+
+60
+00:03:27,121 --> 00:03:29,220
+You choose every item,
+
+61
+00:03:29,221 --> 00:03:32,120
+down to the milliliter of sauces and seasonings
+
+62
+00:03:32,121 --> 00:03:33,620
+that make up your burger.
+
+63
+00:03:33,621 --> 00:03:35,120
+Finally, when you place your order,
+
+64
+00:03:35,121 --> 00:03:37,440
+the apple even tell you exactly how long it takes
+
+65
+00:03:37,441 --> 00:03:38,840
+to make your burger, because guess what?
+
+66
+00:03:38,841 --> 00:03:39,940
+It's all made by a machine.
+
+67
+00:03:39,941 --> 00:03:41,840
+We know exactly when everything's gonna be ready.
+
+68
+00:03:41,841 --> 00:03:46,780
+At full go, it can produce 150 burgers an hour.
+
+69
+00:03:46,781 --> 00:03:50,120
+But efficiency is only the beginning.
+
+70
+00:03:50,220 --> 00:03:52,780
+Creator's robot takes a fresh hamburger bun
+
+71
+00:03:52,880 --> 00:03:55,960
+and guides it through a blade, slicing it in half.
+
+72
+00:03:56,060 --> 00:03:59,720
+A series of motors then butters and moves the sliced bun
+
+73
+00:03:59,820 --> 00:04:02,600
+through an open view toaster so you can actually see
+
+74
+00:04:02,700 --> 00:04:04,500
+the browning as it's happening.
+
+75
+00:04:04,600 --> 00:04:07,040
+A conveyor belt advances the toasted bun
+
+76
+00:04:07,140 --> 00:04:09,640
+to the next position, the saucer.
+
+77
+00:04:09,740 --> 00:04:13,780
+Some of their sauce varieties include smoked oyster aioli,
+
+78
+00:04:13,880 --> 00:04:16,540
+their own take on a thousand island dressing,
+
+79
+00:04:16,541 --> 00:04:21,540
+sunflower seed tahini, and shiitake mushroom sauce.
+
+80
+00:04:21,640 --> 00:04:25,240
+Then your topping selections are all cut fresh to order
+
+81
+00:04:25,340 --> 00:04:27,480
+and are carefully placed onto your bun.
+
+82
+00:04:27,580 --> 00:04:29,620
+The next up is cheese.
+
+83
+00:04:29,720 --> 00:04:32,520
+Your selection of cheese is freshly grated onto your bun
+
+84
+00:04:32,620 --> 00:04:34,960
+and then moves down to a torch-like melter
+
+85
+00:04:35,060 --> 00:04:37,960
+to give you that perfect stringy yet gooey texture
+
+86
+00:04:38,060 --> 00:04:39,960
+when you bite into your burger.
+
+87
+00:04:40,060 --> 00:04:41,500
+While the robot has been preparing
+
+88
+00:04:41,600 --> 00:04:43,500
+all of your personalized toppings,
+
+89
+00:04:43,600 --> 00:04:46,000
+it's also been grinding the beef to order.
+
+90
+00:04:46,001 --> 00:04:49,000
+We throw cubes of chuck and brisket right in the machine.
+
+91
+00:04:49,100 --> 00:04:51,040
+Not only does it grind it to order,
+
+92
+00:04:51,140 --> 00:04:55,340
+it, after grinds it, aligns the meat to go vertically,
+
+93
+00:04:55,440 --> 00:04:58,440
+along with the way your teeth bite into the patty.
+
+94
+00:04:58,540 --> 00:05:00,940
+And that makes it more tenderly fall apart into your mouth.
+
+95
+00:05:01,040 --> 00:05:03,660
+The freshest and most tender of burger patties
+
+96
+00:05:03,760 --> 00:05:07,060
+is also custom-seasoned by you.
+
+97
+00:05:07,160 --> 00:05:10,100
+You get to choose from 12 different seasonings
+
+98
+00:05:10,200 --> 00:05:12,900
+and how much of each you'd like on your burger.
+
+99
+00:05:13,000 --> 00:05:14,700
+And with choreographed timing,
+
+100
+00:05:14,701 --> 00:05:18,140
+your freshly grilled patty meets your custom dress bun
+
+101
+00:05:18,141 --> 00:05:21,320
+at the end of the line where the two are assembled.
+
+102
+00:05:21,660 --> 00:05:24,020
+All I did was push a button on a phone
+
+103
+00:05:24,021 --> 00:05:28,280
+and made the freshest, most personalized burger out there.
+
+104
+00:05:29,780 --> 00:05:30,860
+That's freaking good.
+
+105
+00:05:31,420 --> 00:05:34,620
+Americans have loved a good hamburger for decades,
+
+106
+00:05:34,880 --> 00:05:38,260
+but you'd be surprised to know a lot of other foods we love
+
+107
+00:05:38,261 --> 00:05:40,640
+exist because of the military.
+
+108
+00:05:40,641 --> 00:05:44,040
+To show how much American food has changed
+
+109
+00:05:44,041 --> 00:05:46,040
+in just 50 years.
+
+110
+00:05:46,041 --> 00:05:49,740
+It's vastly different, even just two generations back,
+
+111
+00:05:49,741 --> 00:05:53,140
+what Americans are eating and what Americans see
+
+112
+00:05:53,141 --> 00:05:56,560
+as even being an American food.
+
+113
+00:05:56,561 --> 00:05:59,460
+Some of the everyday foods Americans eat today
+
+114
+00:05:59,461 --> 00:06:02,460
+became everyday foods because of the military.
+
+115
+00:06:02,461 --> 00:06:06,700
+Take, for example, soft and delicious sandwich bread.
+
+116
+00:06:06,701 --> 00:06:09,800
+During World War II, military food scientists
+
+117
+00:06:09,801 --> 00:06:13,340
+came up with a formula to keep bread soft and fresh
+
+118
+00:06:13,341 --> 00:06:16,880
+even longer than before, which is still being utilized
+
+119
+00:06:16,881 --> 00:06:18,940
+commercially to this day.
+
+120
+00:06:18,941 --> 00:06:22,720
+Plus, Cheeto lovers might know, during World War II,
+
+121
+00:06:22,721 --> 00:06:26,720
+the military funded research in dehydrating cheese,
+
+122
+00:06:26,721 --> 00:06:29,720
+which eventually led to cheese powder.
+
+123
+00:06:29,721 --> 00:06:32,560
+At the end of the war, the surplus of cheese powder
+
+124
+00:06:32,561 --> 00:06:35,860
+was sold to food makers like the Frito Company,
+
+125
+00:06:35,861 --> 00:06:39,960
+which covered corn puffs with the magical cheesy dust.
+
+126
+00:06:39,961 --> 00:06:41,940
+It's the sort of thing that you just can't stop
+
+127
+00:06:41,941 --> 00:06:42,940
+having more of.
+
+128
+00:06:42,941 --> 00:06:44,940
+And there's just something about the satisfaction
+
+129
+00:06:44,941 --> 00:06:46,940
+at the very end where you lick your fingers.
+
+130
+00:06:46,941 --> 00:06:48,940
+That specifically, that last moment,
+
+131
+00:06:48,941 --> 00:06:50,940
+is what I most remember growing up.
+
+132
+00:06:50,941 --> 00:06:53,940
+We may not have had any of these culinary advances
+
+133
+00:06:53,941 --> 00:06:56,940
+without food technologists like Lori and her team,
+
+134
+00:06:56,941 --> 00:06:59,940
+who are constantly finding the newest ways
+
+135
+00:06:59,941 --> 00:07:02,940
+to push food into the future.
+
+136
+00:07:02,941 --> 00:07:04,940
+Today, what we'll be able to show you
+
+137
+00:07:04,941 --> 00:07:07,940
+is we're doing a tube food production.
+
+138
+00:07:07,941 --> 00:07:10,940
+Well, this is something I'm pretty sure you have never seen.
+
+139
+00:07:10,941 --> 00:07:12,440
+OK.
+
+140
+00:07:12,441 --> 00:07:15,980
+These are tube foods for U-2 pilots.
+
+141
+00:07:15,981 --> 00:07:16,780
+Really?
+
+142
+00:07:16,781 --> 00:07:17,940
+Yep.
+
+143
+00:07:17,941 --> 00:07:20,480
+The men and women flying U-2 spy planes monitor war zones
+
+144
+00:07:20,481 --> 00:07:22,780
+and targets all over the world.
+
+145
+00:07:22,781 --> 00:07:26,280
+U-2 pilots fly at very high altitudes,
+
+146
+00:07:26,281 --> 00:07:29,360
+wearing a pressurized suit and helmet,
+
+147
+00:07:29,361 --> 00:07:32,600
+so they cannot eat the food with their hands or utensils.
+
+148
+00:07:32,601 --> 00:07:36,940
+And they're up there sometimes for 12 hours at a time.
+
+149
+00:07:36,941 --> 00:07:39,940
+So since pilots need to keep their hands on the controls
+
+150
+00:07:39,941 --> 00:07:42,480
+and their eyes on the ground, enter one of Natick's
+
+151
+00:07:42,481 --> 00:07:46,480
+most successful and efficient products, the tube food.
+
+152
+00:07:52,980 --> 00:07:55,480
+Now, I noticed that these don't have labels.
+
+153
+00:07:55,481 --> 00:07:58,020
+When I see tubes with these kind of applicators,
+
+154
+00:07:58,021 --> 00:07:59,020
+it scares me.
+
+155
+00:07:59,021 --> 00:08:02,020
+Well, after we process them, we do apply labels to them.
+
+156
+00:08:02,021 --> 00:08:04,360
+But I purposely took these labels off
+
+157
+00:08:04,361 --> 00:08:06,600
+because I wanted to see if you wanted to try them
+
+158
+00:08:06,601 --> 00:08:07,900
+and guess what they were.
+
+159
+00:08:07,901 --> 00:08:09,900
+Oh, I absolutely want that.
+
+160
+00:08:20,280 --> 00:08:21,620
+Wait a darn minute.
+
+161
+00:08:25,280 --> 00:08:27,020
+Is that spaghetti and meatballs?
+
+162
+00:08:27,080 --> 00:08:28,380
+It's spaghetti and meat sauce.
+
+163
+00:08:28,460 --> 00:08:29,380
+Good guess.
+
+164
+00:08:29,460 --> 00:08:30,360
+Oh, my gosh.
+
+165
+00:08:30,420 --> 00:08:31,360
+Yep.
+
+166
+00:08:31,420 --> 00:08:32,720
+So is that a piece of pasta?
+
+167
+00:08:32,800 --> 00:08:33,720
+Yep.
+
+168
+00:08:33,800 --> 00:08:34,820
+It's incredible.
+
+169
+00:08:34,900 --> 00:08:35,920
+And it's really good meat sauce.
+
+170
+00:08:35,921 --> 00:08:42,460
+There's clearly onion, clearly has like that rich sort of umami
+
+171
+00:08:42,461 --> 00:08:44,920
+you get from a good tomato sauce.
+
+172
+00:08:44,921 --> 00:08:47,460
+It's absolutely stunning.
+
+173
+00:08:47,461 --> 00:08:50,960
+These foods in tubes really do give the mouth feel
+
+174
+00:08:50,961 --> 00:08:53,580
+and the experience of actually eating a meal,
+
+175
+00:08:53,581 --> 00:08:56,000
+which is different than the apple sauce
+
+176
+00:08:56,001 --> 00:08:58,580
+or pureed beef and vegetables John Glenn was eating
+
+177
+00:08:58,581 --> 00:09:01,080
+from a tube back in the 1960s.
+
+178
+00:09:01,081 --> 00:09:04,040
+This is like the three-course dinner chewing gum
+
+179
+00:09:04,041 --> 00:09:06,200
+that Willy Wonka made at his factory.
+
+180
+00:09:06,300 --> 00:09:08,780
+Now, here's number two.
+
+181
+00:09:08,880 --> 00:09:11,980
+So, okay, it literally looks like something like honey mustard.
+
+182
+00:09:17,480 --> 00:09:18,480
+No way.
+
+183
+00:09:18,580 --> 00:09:19,980
+Is this truffle mac and cheese?
+
+184
+00:09:20,080 --> 00:09:22,100
+That's exactly what it is, truffle mac and cheese.
+
+185
+00:09:22,200 --> 00:09:23,600
+And you guys are using real truffle.
+
+186
+00:09:23,700 --> 00:09:25,200
+Real truffle oil, yes.
+
+187
+00:09:25,300 --> 00:09:27,400
+It is phenomenal.
+
+188
+00:09:27,500 --> 00:09:29,400
+It's so good.
+
+189
+00:09:29,500 --> 00:09:30,640
+I can't stop eating it.
+
+190
+00:09:30,740 --> 00:09:33,140
+Round three, fight.
+
+191
+00:09:33,141 --> 00:09:34,380
+Looks like an aioli.
+
+192
+00:09:42,020 --> 00:09:43,180
+Holy moly.
+
+193
+00:09:45,980 --> 00:09:49,180
+The year, 1986.
+
+194
+00:09:49,181 --> 00:09:51,660
+My age, 12.
+
+195
+00:09:51,661 --> 00:09:57,300
+The dream, become a fighter pilot like Maverick and Top Gun.
+
+196
+00:09:57,301 --> 00:10:00,900
+Well, I guess things played out a little bit different.
+
+197
+00:10:00,901 --> 00:10:03,700
+But today, I get a consolation prize.
+
+198
+00:10:03,800 --> 00:10:08,000
+I'm eating just like the pilot of a U-2 spy plane.
+
+199
+00:10:08,100 --> 00:10:10,840
+And with 21st century technology.
+
+200
+00:10:10,940 --> 00:10:12,940
+Come on, talk to me, Goose.
+
+201
+00:10:13,040 --> 00:10:14,140
+Looks like an aioli.
+
+202
+00:10:17,320 --> 00:10:18,660
+That's apple pie.
+
+203
+00:10:18,760 --> 00:10:20,160
+That's apple pie dessert.
+
+204
+00:10:20,260 --> 00:10:22,860
+That's right.
+
+205
+00:10:22,960 --> 00:10:24,860
+Holy moly.
+
+206
+00:10:24,960 --> 00:10:27,460
+But how on earth did you get the crust in there?
+
+207
+00:10:27,560 --> 00:10:29,900
+It's real crust ingredients.
+
+208
+00:10:29,901 --> 00:10:32,740
+So do you make a pie and then blend the pie?
+
+209
+00:10:32,741 --> 00:10:36,440
+It's more of an apple pie filling with crust blended in.
+
+210
+00:10:36,441 --> 00:10:38,740
+The crust is the thing that's breaking my brain
+
+211
+00:10:38,741 --> 00:10:39,940
+a little bit here, Lori.
+
+212
+00:10:39,941 --> 00:10:41,980
+The folks at Natick totally understand
+
+213
+00:10:41,981 --> 00:10:44,480
+that hunger is probably best satisfied
+
+214
+00:10:44,481 --> 00:10:47,320
+by the act of actually chewing food,
+
+215
+00:10:47,321 --> 00:10:49,480
+not just pumping our bodies with calories.
+
+216
+00:10:49,481 --> 00:10:51,560
+And one day when I go to space,
+
+217
+00:10:51,561 --> 00:10:54,400
+I'm definitely gonna be hungry for more than applesauce.
+
+218
+00:10:54,401 --> 00:10:57,420
+But not all our foods are conducive for space travel,
+
+219
+00:10:57,421 --> 00:10:59,900
+or at least not yet.
+
+220
+00:10:59,901 --> 00:11:02,360
+When you think about barbecue or burgers,
+
+221
+00:11:02,440 --> 00:11:07,740
+grilling in the backyard, we love to feed the beast.
+
+222
+00:11:07,800 --> 00:11:11,820
+The commercial ability of basically making you be able
+
+223
+00:11:11,880 --> 00:11:13,940
+to have meat at any moment that you want to
+
+224
+00:11:14,020 --> 00:11:16,880
+by going to a supermarket has made it so that we feel
+
+225
+00:11:16,960 --> 00:11:20,020
+that it's simple, that it's a natural part of our diet.
+
+226
+00:11:20,080 --> 00:11:22,260
+You won't be disappointed in these takes, man.
+
+227
+00:11:22,320 --> 00:11:25,300
+That Norman Rockwell image of the table of plenty
+
+228
+00:11:25,360 --> 00:11:28,520
+with the big turkey is so incredibly
+
+229
+00:11:28,521 --> 00:11:30,520
+20th century American dream.
+
+230
+00:11:30,521 --> 00:11:33,520
+What we've evolved into is a culture where we think
+
+231
+00:11:33,521 --> 00:11:35,520
+that in order for a meal to be complete,
+
+232
+00:11:35,521 --> 00:11:38,520
+the centerpiece needs to be a large piece of meat.
+
+233
+00:11:40,520 --> 00:11:42,520
+But what if in the future,
+
+234
+00:11:42,521 --> 00:11:46,520
+science helps us redefine what meat is?
+
+235
+00:11:52,520 --> 00:11:55,520
+Impossible Foods' plant-based meat alternatives
+
+236
+00:11:55,521 --> 00:11:57,520
+have recently been popping up on menus
+
+237
+00:11:57,521 --> 00:12:00,560
+on menus at iconic restaurants around the country,
+
+238
+00:12:00,561 --> 00:12:03,620
+like Burger King, White Castle, and more.
+
+239
+00:12:03,621 --> 00:12:06,860
+They're on a mission to convert avowed meat lovers
+
+240
+00:12:06,861 --> 00:12:09,400
+to plant-based alternatives that look, taste,
+
+241
+00:12:09,401 --> 00:12:12,700
+and even bleed like the real thing.
+
+242
+00:12:12,701 --> 00:12:16,880
+They're looking at meat not just as a byproduct of animals.
+
+243
+00:12:16,881 --> 00:12:20,340
+They're breaking it down to inspect each and every molecule
+
+244
+00:12:20,341 --> 00:12:23,020
+so they can figure out what plant-based sources
+
+245
+00:12:23,021 --> 00:12:25,180
+contain the same molecules.
+
+246
+00:12:25,181 --> 00:12:29,140
+Then they extract those molecules from plant products
+
+247
+00:12:29,141 --> 00:12:33,420
+and mash them up together again to replicate the juicy, tender,
+
+248
+00:12:33,421 --> 00:12:37,120
+meaty experience we as meat lovers crave.
+
+249
+00:12:37,121 --> 00:12:39,340
+When you actually break it down and ask consumers,
+
+250
+00:12:39,341 --> 00:12:42,340
+what is the number one most important thing when choosing
+
+251
+00:12:42,341 --> 00:12:44,020
+the food that they purchase?
+
+252
+00:12:44,021 --> 00:12:47,300
+Flavor is always their number one choice.
+
+253
+00:12:47,301 --> 00:12:49,980
+So our first goal was to really understand what
+
+254
+00:12:49,981 --> 00:12:51,740
+makes meat taste like meat.
+
+255
+00:12:51,741 --> 00:12:53,980
+Actually, it's a really complex mixture
+
+256
+00:12:53,981 --> 00:12:56,320
+of like over 200 compounds.
+
+257
+00:12:56,321 --> 00:12:59,660
+Impossible Foods does this thanks to this machine
+
+258
+00:12:59,661 --> 00:13:02,620
+right here, the gas chromatography mass
+
+259
+00:13:02,621 --> 00:13:05,020
+spectrometry machine.
+
+260
+00:13:05,021 --> 00:13:07,820
+Let's just call it the GCMS.
+
+261
+00:13:07,821 --> 00:13:10,600
+This thing takes a piece of meat and breaks it down
+
+262
+00:13:10,601 --> 00:13:15,900
+until it reaches the gas phase, then generates a report
+
+263
+00:13:15,901 --> 00:13:18,240
+telling you what aromas and flavors
+
+264
+00:13:18,241 --> 00:13:20,340
+are detected in the meat sample.
+
+265
+00:13:20,341 --> 00:13:21,340
+Not just beef.
+
+266
+00:13:21,341 --> 00:13:25,680
+You could put a piece of chicken, pork, or even fish in there,
+
+267
+00:13:25,681 --> 00:13:29,900
+and the GCMS will tell you what smells and tastes are present.
+
+268
+00:13:29,901 --> 00:13:32,360
+You can see that the detector is picking up
+
+269
+00:13:32,361 --> 00:13:34,260
+all of these individual peaks, which
+
+270
+00:13:34,261 --> 00:13:37,560
+represent different flavor compounds and aromas.
+
+271
+00:13:37,561 --> 00:13:40,740
+So it's our job then to go in and understand
+
+272
+00:13:40,741 --> 00:13:43,580
+which of those are the most important to make something
+
+273
+00:13:43,581 --> 00:13:46,000
+that your brain recognizes as meat.
+
+274
+00:13:46,001 --> 00:13:48,920
+But flavors and aromas don't add up to meat.
+
+275
+00:13:48,921 --> 00:13:50,340
+Where's the beef?
+
+276
+00:13:50,341 --> 00:13:52,000
+Well, that's what comes next.
+
+277
+00:13:52,001 --> 00:13:55,100
+After the GCMS showed what compounds were present,
+
+278
+00:13:55,101 --> 00:13:58,000
+the crazy smart scientists at Impossible Foods
+
+279
+00:13:58,001 --> 00:14:01,400
+discovered something present across all living matter,
+
+280
+00:14:01,401 --> 00:14:02,940
+including plants.
+
+281
+00:14:03,860 --> 00:14:06,640
+They discovered this iron molecule called heme,
+
+282
+00:14:06,641 --> 00:14:10,840
+which is the key ingredient that makes meat taste like meat.
+
+283
+00:14:10,841 --> 00:14:13,660
+And when people crave meat,
+
+284
+00:14:13,661 --> 00:14:15,620
+it's really a craving for heme.
+
+285
+00:14:15,621 --> 00:14:18,140
+Heme is the iron-containing molecule
+
+286
+00:14:18,141 --> 00:14:22,180
+that aids in carrying oxygen throughout all living matter,
+
+287
+00:14:22,181 --> 00:14:24,320
+animals and plants.
+
+288
+00:14:24,321 --> 00:14:26,880
+It is essential for life.
+
+289
+00:14:26,881 --> 00:14:32,300
+And it turns out heme is what gives meat that flavor we crave.
+
+290
+00:14:32,301 --> 00:14:34,760
+If you look at different types of meat,
+
+291
+00:14:34,761 --> 00:14:36,060
+the only thing that's different is really
+
+292
+00:14:36,061 --> 00:14:37,800
+the concentration of heme.
+
+293
+00:14:37,801 --> 00:14:41,520
+So red meat and beef from cows is red
+
+294
+00:14:41,521 --> 00:14:43,220
+because it has a lot of heme.
+
+295
+00:14:43,221 --> 00:14:46,340
+And pork is a little less red because it has less heme.
+
+296
+00:14:46,341 --> 00:14:47,960
+And then chicken, even less so.
+
+297
+00:14:47,961 --> 00:14:50,860
+It also is what's giving you that color
+
+298
+00:14:50,861 --> 00:14:53,500
+and actually goes through the same exact color transition
+
+299
+00:14:53,501 --> 00:14:54,500
+when you cook it.
+
+300
+00:14:54,501 --> 00:14:57,680
+So once the scientists came across heme,
+
+301
+00:14:57,681 --> 00:15:00,560
+they got to working on how to sustainably and rapidly
+
+302
+00:15:00,561 --> 00:15:02,680
+reproduce the molecule in bulk.
+
+303
+00:15:02,681 --> 00:15:06,060
+And for the science geniuses at Impossible, it was simple.
+
+304
+00:15:06,061 --> 00:15:07,880
+Yeast fermentation.
+
+305
+00:15:07,881 --> 00:15:10,700
+The process that we use to ferment yeast to make heme
+
+306
+00:15:10,701 --> 00:15:13,680
+is used to make beer and wine.
+
+307
+00:15:13,681 --> 00:15:16,960
+And we're utilizing that same process of fermentation
+
+308
+00:15:16,961 --> 00:15:20,060
+from yeast in order to make our key ingredient.
+
+309
+00:15:20,061 --> 00:15:22,300
+And for all of you doubters out there,
+
+310
+00:15:22,301 --> 00:15:27,640
+Impossible Foods executive chef has one more thing to show you.
+
+311
+00:15:27,641 --> 00:15:30,500
+This is going to eat, chew, respond, react,
+
+312
+00:15:30,501 --> 00:15:32,340
+just how you cook it, just how you eat it,
+
+313
+00:15:32,341 --> 00:15:34,980
+the same characteristics of any beef hamburger,
+
+314
+00:15:34,981 --> 00:15:36,880
+just made from plants.
+
+315
+00:15:36,881 --> 00:15:39,520
+If it looks like a burger and tastes like a burger,
+
+316
+00:15:39,521 --> 00:15:42,320
+I'm probably going to call it a burger no matter how it's made.
+
+317
+00:15:42,321 --> 00:15:47,320
+Now, if they could only just put one into a tube.
+
+318
+00:15:47,321 --> 00:15:51,320
+Now we're getting a behind-the-scenes look
+
+319
+00:15:51,321 --> 00:15:54,320
+at how Natick Labs makes the tube foods
+
+320
+00:15:54,321 --> 00:15:57,320
+that may one day be the meals we eat on the go.
+
+321
+00:15:57,321 --> 00:16:00,320
+An entire dish at the squeeze of our fingers.
+
+322
+00:16:00,321 --> 00:16:03,320
+So what are you guys making right now on the line?
+
+323
+00:16:03,321 --> 00:16:06,320
+They're making a caffeinated chocolate pudding today.
+
+324
+00:16:06,321 --> 00:16:07,320
+Can I see how it's made?
+
+325
+00:16:07,321 --> 00:16:08,320
+Yeah, let's go.
+
+326
+00:16:08,321 --> 00:16:09,320
+Let's go.
+
+327
+00:16:12,320 --> 00:16:16,760
+Today we're venturing where no man has eaten before the future,
+
+328
+00:16:16,860 --> 00:16:20,160
+and more precisely, the future of food.
+
+329
+00:16:20,260 --> 00:16:22,860
+I just taste tested the newest meals
+
+330
+00:16:22,960 --> 00:16:25,700
+and tubes that the military has developed.
+
+331
+00:16:25,800 --> 00:16:29,940
+And naturally, I had to see how they were being made.
+
+332
+00:16:30,040 --> 00:16:31,640
+So I'll walk you through the process.
+
+333
+00:16:31,740 --> 00:16:33,440
+Laurie and Dan are going to show us
+
+334
+00:16:33,540 --> 00:16:35,920
+how they make these tube foods, which who knows?
+
+335
+00:16:36,020 --> 00:16:39,880
+One day, we may be able to pick up at our local grocery store
+
+336
+00:16:39,881 --> 00:16:42,880
+as easily as we buy a carton of milk.
+
+337
+00:16:42,980 --> 00:16:45,720
+To make caffeine-dense chocolate pudding,
+
+338
+00:16:45,820 --> 00:16:50,420
+sugar, cocoa, butter, milk, and powdered caffeine
+
+339
+00:16:50,520 --> 00:16:53,060
+are added to this vat, where it heats,
+
+340
+00:16:53,160 --> 00:16:55,400
+just like you'd make pudding on the stove at home.
+
+341
+00:16:55,500 --> 00:16:59,700
+OK, and it goes up and over here into this hopper.
+
+342
+00:16:59,800 --> 00:17:02,200
+The hopper is attached to several nozzles
+
+343
+00:17:02,300 --> 00:17:04,040
+pumping the food into tubes.
+
+344
+00:17:04,140 --> 00:17:06,940
+In this case, it's pudding, but it could be the delicious
+
+345
+00:17:07,040 --> 00:17:08,880
+spaghetti and meat sauce that I had earlier.
+
+346
+00:17:08,881 --> 00:17:13,020
+The food gets pumped into a maximum of 1,200 tubes
+
+347
+00:17:13,021 --> 00:17:14,520
+in just one run.
+
+348
+00:17:14,521 --> 00:17:15,980
+After the tubes are filled,
+
+349
+00:17:15,981 --> 00:17:18,620
+the ends are folded and crimped to seal.
+
+350
+00:17:18,621 --> 00:17:20,820
+So one puts it together, right?
+
+351
+00:17:20,821 --> 00:17:23,560
+It puts a big fold, doubles that fold,
+
+352
+00:17:23,561 --> 00:17:27,740
+and the third stage turns it around and completes the fold.
+
+353
+00:17:27,741 --> 00:17:30,060
+And there's a last station there at the end,
+
+354
+00:17:30,061 --> 00:17:31,440
+which puts the date on it.
+
+355
+00:17:31,441 --> 00:17:33,340
+Each of the foods developed here
+
+356
+00:17:33,341 --> 00:17:35,740
+are created with different goals in mind.
+
+357
+00:17:35,741 --> 00:17:38,480
+For example, the pudding is to offer a pick-me-up
+
+358
+00:17:38,481 --> 00:17:41,820
+for long shifts, but other tube foods are meant to be meals.
+
+359
+00:17:41,821 --> 00:17:43,780
+So how long will the meal last?
+
+360
+00:17:43,781 --> 00:17:46,280
+These will last three years and 80 degrees.
+
+361
+00:17:46,281 --> 00:17:47,480
+Wow.
+
+362
+00:17:47,481 --> 00:17:48,480
+At least.
+
+363
+00:17:48,481 --> 00:17:49,480
+At least.
+
+364
+00:17:49,481 --> 00:17:52,480
+You have to think about weight, volume, nutrition,
+
+365
+00:17:52,481 --> 00:17:53,980
+shelf stability.
+
+366
+00:17:53,981 --> 00:17:55,480
+You're like that machine on the Jetsons
+
+367
+00:17:55,481 --> 00:17:57,980
+where they can press a button and it just materializes
+
+368
+00:17:57,981 --> 00:17:59,480
+the food they want.
+
+369
+00:17:59,481 --> 00:18:02,480
+Well, we may not be the Jetsons quite yet,
+
+370
+00:18:02,481 --> 00:18:05,480
+but we are getting closer.
+
+371
+00:18:08,480 --> 00:18:10,820
+Welcome to Picnic headquarters.
+
+372
+00:18:10,821 --> 00:18:14,260
+We're making the world's first automated pizza production system
+
+373
+00:18:14,261 --> 00:18:16,620
+for restaurants and commercial food operators.
+
+374
+00:18:17,220 --> 00:18:20,900
+Custom-made gourmet pizza doesn't sound futuristic,
+
+375
+00:18:21,220 --> 00:18:25,740
+but how it's made has the future written all over it.
+
+376
+00:18:26,240 --> 00:18:29,260
+Picnic is re-envisioning pizza making
+
+377
+00:18:29,261 --> 00:18:31,040
+with their automatic assembly line
+
+378
+00:18:31,041 --> 00:18:33,360
+programmed to crank out pizza pies fast
+
+379
+00:18:33,361 --> 00:18:35,200
+and with all the fixings.
+
+380
+00:18:35,720 --> 00:18:37,360
+Food service is a hard, tedious,
+
+381
+00:18:37,361 --> 00:18:40,360
+a sometimes dangerous job, and automation can make it easier.
+
+382
+00:18:43,260 --> 00:18:45,400
+Picnic isn't selling pizzas.
+
+383
+00:18:45,401 --> 00:18:48,240
+They're manufacturing and developing this robot
+
+384
+00:18:48,241 --> 00:18:51,640
+to help make the pizza-making process more efficient,
+
+385
+00:18:51,641 --> 00:18:54,140
+cost-effective, and standardized,
+
+386
+00:18:54,141 --> 00:18:57,880
+so you can depend on the same great-tasting pizza every time.
+
+387
+00:18:57,881 --> 00:19:00,480
+Our system, it's not a robot, it's a cobot,
+
+388
+00:19:00,481 --> 00:19:03,120
+meaning that it is designed to work in cooperation
+
+389
+00:19:03,121 --> 00:19:05,860
+with human workers, not to fully replace human workers.
+
+390
+00:19:05,861 --> 00:19:06,960
+It's true.
+
+391
+00:19:06,961 --> 00:19:10,800
+While this cobot assembles pies like any tool,
+
+392
+00:19:10,801 --> 00:19:13,660
+it just doesn't work without a chef's touch.
+
+393
+00:19:13,661 --> 00:19:15,760
+Fresh ingredients are prepared and loaded
+
+394
+00:19:15,761 --> 00:19:17,500
+into the system's compartments.
+
+395
+00:19:17,501 --> 00:19:22,640
+And of course, before anything else, there's the dough.
+
+396
+00:19:22,641 --> 00:19:26,080
+Our system will handle any dough, frozen, hand-tossed,
+
+397
+00:19:26,081 --> 00:19:29,780
+any shape, any size, any thickness.
+
+398
+00:19:29,781 --> 00:19:33,820
+So Brian's going to enter the order into the touchscreen.
+
+399
+00:19:33,821 --> 00:19:36,580
+And as soon as the system recognizes the order,
+
+400
+00:19:36,581 --> 00:19:37,980
+it automatically starts moving.
+
+401
+00:19:37,981 --> 00:19:39,880
+As the dough goes down the system,
+
+402
+00:19:39,881 --> 00:19:43,880
+we put sauce, cheese.
+
+403
+00:19:43,881 --> 00:19:46,720
+This sleek piece of futuristic machinery
+
+404
+00:19:46,721 --> 00:19:49,060
+is outfitted with cameras to make sure
+
+405
+00:19:49,061 --> 00:19:52,420
+just the right amount of each ingredient is added.
+
+406
+00:19:52,421 --> 00:19:54,000
+So because this is a supreme,
+
+407
+00:19:54,001 --> 00:19:57,260
+it's going to get every ingredient that's mounted today.
+
+408
+00:19:57,261 --> 00:20:00,600
+We have fresh sliced pepperoni right off the stick.
+
+409
+00:20:00,601 --> 00:20:03,440
+And then we're going to put sausage, onions,
+
+410
+00:20:03,441 --> 00:20:05,400
+and green peppers on this pizza.
+
+411
+00:20:05,401 --> 00:20:08,500
+So it's getting a little of everything.
+
+412
+00:20:08,501 --> 00:20:11,100
+And the assembly is whip-fast.
+
+413
+00:20:11,101 --> 00:20:15,540
+Our system can make up to 300 custom pizzas per hour.
+
+414
+00:20:15,541 --> 00:20:19,240
+It's part of what makes our system unique.
+
+415
+00:20:19,241 --> 00:20:21,520
+No matter how you slice it, this system
+
+416
+00:20:21,521 --> 00:20:23,420
+seems like the way of the future.
+
+417
+00:20:30,560 --> 00:20:32,660
+And Lori's team of food scientists
+
+418
+00:20:32,661 --> 00:20:35,500
+is right at the cutting edge of our edible future,
+
+419
+00:20:35,501 --> 00:20:39,800
+creating teeny tiny compressed and nutrient dense foods.
+
+420
+00:20:39,801 --> 00:20:41,840
+Another way that we hope to show you today
+
+421
+00:20:41,841 --> 00:20:47,500
+is using a combination of pressure and ultrasonic energy.
+
+422
+00:20:47,501 --> 00:20:48,840
+Ultrasonic energy?
+
+423
+00:20:48,841 --> 00:20:49,840
+Mm-hmm.
+
+424
+00:20:52,220 --> 00:20:53,020
+Show me that.
+
+425
+00:20:53,021 --> 00:20:53,940
+OK, I'd love to show you.
+
+426
+00:20:53,941 --> 00:20:54,840
+Lead on.
+
+427
+00:20:54,841 --> 00:20:55,840
+We'll be right back.
+
+428
+00:20:59,840 --> 00:21:02,840
+Where would we be without the technological leaps
+
+429
+00:21:02,841 --> 00:21:04,840
+that led to our favorite foods?
+
+430
+00:21:04,841 --> 00:21:07,840
+Developments like powdered cheese.
+
+431
+00:21:07,841 --> 00:21:11,840
+To this day, the military is researching technological advances
+
+432
+00:21:11,841 --> 00:21:14,840
+that could bring us our future favorite foods.
+
+433
+00:21:14,841 --> 00:21:15,840
+This is Dr. Ann Barrett.
+
+434
+00:21:15,841 --> 00:21:16,840
+Hi, Doc.
+
+435
+00:21:16,841 --> 00:21:19,840
+Ann is an expert in a novel compression technology
+
+436
+00:21:19,841 --> 00:21:22,840
+called ultrasonic agglomeration.
+
+437
+00:21:22,841 --> 00:21:25,000
+Ultrasonic agglomeration was first developed
+
+438
+00:21:25,001 --> 00:21:27,720
+for the plastics industry, but it was Dr. Anne
+
+439
+00:21:27,721 --> 00:21:31,480
+and her colleagues who adapted that high technology to food.
+
+440
+00:21:31,481 --> 00:21:34,920
+It uses ultrasonic vibrations and energy
+
+441
+00:21:34,921 --> 00:21:39,960
+to almost melt powdered foods and transform it into a solid.
+
+442
+00:21:39,961 --> 00:21:43,760
+We are taking the tropical fruit powders,
+
+443
+00:21:43,761 --> 00:21:47,000
+which actually contain real fruits and vegetables.
+
+444
+00:21:47,001 --> 00:21:48,300
+OK.
+
+445
+00:21:48,301 --> 00:21:49,800
+And we're going to weld them into a small,
+
+446
+00:21:49,801 --> 00:21:51,800
+chewable candy type of product.
+
+447
+00:21:51,801 --> 00:21:53,140
+All right, I'm gonna watch this happen.
+
+448
+00:21:53,141 --> 00:21:54,140
+All right.
+
+449
+00:21:54,141 --> 00:21:55,440
+This is an ultrasonic horn.
+
+450
+00:21:55,441 --> 00:21:56,440
+Uh-huh.
+
+451
+00:21:56,441 --> 00:21:59,040
+It's vibrating ultrasonically, so it will make sound.
+
+452
+00:21:59,041 --> 00:22:01,040
+The sound waves cause vibrations
+
+453
+00:22:01,041 --> 00:22:02,640
+on the powdered fruit particles,
+
+454
+00:22:02,641 --> 00:22:05,740
+so they rub against each other at a very fast rate.
+
+455
+00:22:05,741 --> 00:22:08,720
+That causes friction, which also causes heat,
+
+456
+00:22:08,721 --> 00:22:11,520
+making the surfaces melt or soften.
+
+457
+00:22:11,521 --> 00:22:14,520
+Then the compression component of the machine
+
+458
+00:22:14,521 --> 00:22:16,560
+forces the heated particles together,
+
+459
+00:22:16,561 --> 00:22:20,520
+so the softened surfaces can melt together and form a solid.
+
+460
+00:22:20,521 --> 00:22:24,320
+Dr. Anne places about 15 grams of dried powdered fruit
+
+461
+00:22:24,321 --> 00:22:26,000
+under the ultrasonic horn.
+
+462
+00:22:29,600 --> 00:22:30,560
+I heard it.
+
+463
+00:22:30,640 --> 00:22:31,700
+I felt it in my teeth.
+
+464
+00:22:32,260 --> 00:22:32,960
+Wow.
+
+465
+00:22:33,440 --> 00:22:34,400
+See how fast that is?
+
+466
+00:22:34,740 --> 00:22:37,000
+The powdered fruit is now compressed
+
+467
+00:22:37,001 --> 00:22:39,940
+into a chewy, vitamin-packed candy snack,
+
+468
+00:22:40,260 --> 00:22:42,840
+giving soldiers the vitamin boost they need.
+
+469
+00:22:43,340 --> 00:22:45,840
+And now I get the unique opportunity
+
+470
+00:22:45,841 --> 00:22:48,380
+to taste one of the first foods ever made
+
+471
+00:22:48,381 --> 00:22:50,220
+with the energy of sound waves.
+
+472
+00:22:50,520 --> 00:22:53,020
+It's super bendy, almost like a fruit roll-up.
+
+473
+00:22:58,120 --> 00:23:00,360
+Mm, it's like a chewy granola bar.
+
+474
+00:23:00,460 --> 00:23:02,260
+It's a chewy nature bar.
+
+475
+00:23:02,360 --> 00:23:05,560
+I taste mango very, very, very prominently.
+
+476
+00:23:05,660 --> 00:23:07,280
+Mm, an apple.
+
+477
+00:23:07,380 --> 00:23:08,280
+Mm-hmm.
+
+478
+00:23:08,380 --> 00:23:10,880
+So far, so good.
+
+479
+00:23:10,980 --> 00:23:12,880
+There's a faint kind of carrot-y note.
+
+480
+00:23:12,980 --> 00:23:14,380
+There's carrot in it.
+
+481
+00:23:14,480 --> 00:23:15,280
+Yeah.
+
+482
+00:23:15,380 --> 00:23:16,280
+This is crazy.
+
+483
+00:23:16,380 --> 00:23:17,620
+This was powder.
+
+484
+00:23:17,720 --> 00:23:20,020
+And I've already identified different real fruits.
+
+485
+00:23:20,021 --> 00:23:21,360
+fruits that are in it.
+
+486
+00:23:25,900 --> 00:23:30,300
+Powder manifesting into food has changed the future of food
+
+487
+00:23:30,301 --> 00:23:31,640
+before.
+
+488
+00:23:31,641 --> 00:23:35,200
+It's beater-licking delicious and as easy as pie,
+
+489
+00:23:35,201 --> 00:23:37,900
+except it's cake in a box.
+
+490
+00:23:37,901 --> 00:23:40,500
+Guaranteed perfect every time you bake.
+
+491
+00:23:40,501 --> 00:23:42,180
+Cake after cake after cake.
+
+492
+00:23:42,181 --> 00:23:45,480
+Boxed cake mix is so common to us today.
+
+493
+00:23:45,481 --> 00:23:48,480
+But before the 1930s, if you wanted a cake,
+
+494
+00:23:48,481 --> 00:23:51,560
+you had to make it entirely from scratch.
+
+495
+00:23:51,561 --> 00:23:56,340
+The box of dried cake mix was officially patented in 1933
+
+496
+00:23:56,341 --> 00:23:58,880
+by John D. Duff from Pennsylvania.
+
+497
+00:23:58,881 --> 00:24:01,920
+His molasses company had a supply surplus.
+
+498
+00:24:01,921 --> 00:24:03,720
+So rather than toss it out,
+
+499
+00:24:03,721 --> 00:24:08,000
+Duff figured out how to successfully dehydrate molasses
+
+500
+00:24:08,001 --> 00:24:11,720
+into powder, which he mixed with other powdered ingredients
+
+501
+00:24:11,721 --> 00:24:15,340
+to make cake, like flour, sugar, salt, and baking soda.
+
+502
+00:24:15,341 --> 00:24:18,080
+His original use was for gingerbread cake
+
+503
+00:24:18,081 --> 00:24:21,680
+And in a subsequent patent, he also introduced mixes
+
+504
+00:24:21,681 --> 00:24:24,920
+for white, spice, and devil's food cake.
+
+505
+00:24:24,921 --> 00:24:27,220
+But it wasn't until post-World War II
+
+506
+00:24:27,221 --> 00:24:30,960
+that we learned to love the convenience of just adding eggs.
+
+507
+00:24:30,961 --> 00:24:34,320
+This act of cracking fresh eggs and mixing them
+
+508
+00:24:34,321 --> 00:24:36,560
+into a conveniently prepared cake mix,
+
+509
+00:24:36,561 --> 00:24:38,600
+like Duncan Hines or Betty Crocker,
+
+510
+00:24:38,601 --> 00:24:42,740
+made us feel like we actually baked a cake from scratch
+
+511
+00:24:42,741 --> 00:24:46,140
+without actually having to bake a cake from scratch.
+
+512
+00:24:46,141 --> 00:24:50,400
+A light and tender Betty Crocker yellow cake.
+
+513
+00:24:50,401 --> 00:24:51,180
+Perfect.
+
+514
+00:24:51,181 --> 00:24:52,140
+Anytime.
+
+515
+00:24:52,141 --> 00:24:55,800
+The indispensable convenience of powdered cake mix
+
+516
+00:24:55,801 --> 00:24:58,020
+revolutionized baking.
+
+517
+00:24:58,021 --> 00:25:00,540
+It meant that any meal could be as special as a birthday
+
+518
+00:25:00,541 --> 00:25:03,920
+celebration by just adding eggs.
+
+519
+00:25:03,921 --> 00:25:07,680
+Dehydrated cake mix isn't the only dried food
+
+520
+00:25:07,681 --> 00:25:09,880
+that revolutionized the food industry.
+
+521
+00:25:09,881 --> 00:25:14,020
+The military has been dehydrating foods since World War II,
+
+522
+00:25:14,021 --> 00:25:16,480
+using what was then a cutting-edge technique,
+
+523
+00:25:16,481 --> 00:25:17,920
+the freeze-dry method.
+
+524
+00:25:17,921 --> 00:25:21,840
+And that new technique bled into now-famous favorites
+
+525
+00:25:21,841 --> 00:25:26,860
+like freeze-dried fruits or even Nissin's instant noodles.
+
+526
+00:25:26,861 --> 00:25:31,600
+But now they're working on a new futuristic dehydration
+
+527
+00:25:31,601 --> 00:25:35,020
+method that sounds like something out of Star Trek.
+
+528
+00:25:35,021 --> 00:25:37,480
+But it isn't.
+
+529
+00:25:37,481 --> 00:25:38,360
+Well, come on in.
+
+530
+00:25:38,361 --> 00:25:39,960
+This is the pilot plant here.
+
+531
+00:25:39,961 --> 00:25:43,400
+And I'm going to introduce you to Lauren O'Connor.
+
+532
+00:25:43,401 --> 00:25:44,940
+And she does product development.
+
+533
+00:25:45,280 --> 00:25:49,520
+Right now, she's working on new components for the close combat assault ration.
+
+534
+00:25:50,160 --> 00:25:53,460
+The decades-old freeze-dry method has been the military's go-to
+
+535
+00:25:53,461 --> 00:25:56,900
+for dehydrating and preserving foods for soldiers on the move.
+
+536
+00:25:57,240 --> 00:26:02,240
+Today, we'll get to taste something that has been freeze-dried the usual way.
+
+537
+00:26:03,020 --> 00:26:09,140
+Then, we'll also get to taste that same food using the newer high-tech method,
+
+538
+00:26:09,340 --> 00:26:11,880
+which almost no one else has tasted.
+
+539
+00:26:11,881 --> 00:26:16,020
+The first prototypes haven't even been field tested yet,
+
+540
+00:26:16,021 --> 00:26:19,920
+but Lori and her team are giving us the first look
+
+541
+00:26:19,921 --> 00:26:22,220
+at this mind-blowing technology.
+
+542
+00:26:26,220 --> 00:26:28,900
+For decades, the US military has funded the research
+
+543
+00:26:28,901 --> 00:26:31,060
+and development of culinary advancements
+
+544
+00:26:31,061 --> 00:26:34,440
+that eventually led to some of our favorite foods.
+
+545
+00:26:34,441 --> 00:26:37,540
+The team at Natick Labs continues those efforts,
+
+546
+00:26:37,541 --> 00:26:39,700
+investigating which way the future of food
+
+547
+00:26:39,701 --> 00:26:43,400
+food can be taken to the next level.
+
+548
+00:26:43,401 --> 00:26:46,840
+Today, I get to taste test their latest discovery
+
+549
+00:26:46,841 --> 00:26:49,340
+in dehydration.
+
+550
+00:26:49,341 --> 00:26:52,440
+It could have repercussions on the packaged and preserved
+
+551
+00:26:52,441 --> 00:26:54,940
+foods that we buy today.
+
+552
+00:26:54,941 --> 00:26:58,180
+And it could also open up doors for a variety
+
+553
+00:26:58,181 --> 00:27:01,180
+of unexpected foods in smaller sizes
+
+554
+00:27:01,181 --> 00:27:04,560
+that keep longer than before.
+
+555
+00:27:04,561 --> 00:27:09,640
+It's called vacuum microwave drying, or VMD.
+
+556
+00:27:09,641 --> 00:27:12,480
+Food technologist Lauren is baking a fresh batch
+
+557
+00:27:12,481 --> 00:27:13,680
+of coffee cake today.
+
+558
+00:27:13,681 --> 00:27:15,380
+This has all the typical things you'd
+
+559
+00:27:15,381 --> 00:27:17,140
+see in a homemade coffee cake, which
+
+560
+00:27:17,141 --> 00:27:18,680
+is the great thing about this technology,
+
+561
+00:27:18,681 --> 00:27:21,560
+is you can take a regular recipe and turn it
+
+562
+00:27:21,561 --> 00:27:23,960
+into a formula for the rations.
+
+563
+00:27:23,961 --> 00:27:25,320
+This is pretty great.
+
+564
+00:27:25,321 --> 00:27:27,400
+For several packaged and preserved foods
+
+565
+00:27:27,401 --> 00:27:29,900
+that even we buy at our grocery stores,
+
+566
+00:27:29,901 --> 00:27:32,560
+manufacturers add preservatives that we'd never
+
+567
+00:27:32,561 --> 00:27:36,100
+use in our home kitchens, like sorbic acid or mono
+
+568
+00:27:36,101 --> 00:27:37,460
+and diglycerides.
+
+569
+00:27:37,461 --> 00:27:42,100
+But now, Natick Labs is able to use just regular ingredients,
+
+570
+00:27:42,101 --> 00:27:45,260
+like butter and cream, because they're preserving foods
+
+571
+00:27:45,261 --> 00:27:48,200
+using the vanguard of food technology
+
+572
+00:27:48,201 --> 00:27:53,700
+that surrounds us in this kitchen, like VMD.
+
+573
+00:27:53,701 --> 00:27:57,820
+For both freeze drying and vacuum microwave drying techniques,
+
+574
+00:27:57,821 --> 00:27:59,940
+the first step is making the food.
+
+575
+00:27:59,941 --> 00:28:03,260
+In this case, it's preservative-free food.
+
+576
+00:28:03,261 --> 00:28:06,720
+This coffee cake is going into the oven at 350 degrees
+
+577
+00:28:06,721 --> 00:28:09,280
+And 30 minutes later, it's fully baked.
+
+578
+00:28:09,281 --> 00:28:13,220
+It smells so good, and it smells like grandma's kitchen here.
+
+579
+00:28:13,221 --> 00:28:15,820
+And then, like, just beyond, there's a guy with, like,
+
+580
+00:28:15,821 --> 00:28:20,400
+an AR-15 and guys parachuting and guys with a 50 cal on a Jeep.
+
+581
+00:28:20,401 --> 00:28:24,540
+Next, food scientist Dr. Tom will slice up this coffee cake
+
+582
+00:28:24,541 --> 00:28:27,700
+and separate them into two batches for dehydration.
+
+583
+00:28:27,701 --> 00:28:31,320
+First is the old-school freeze-drying method.
+
+584
+00:28:31,321 --> 00:28:33,980
+Once the oedip is frozen, the moisture inside
+
+585
+00:28:33,981 --> 00:28:36,320
+will have turned into ice crystals.
+
+586
+00:28:36,321 --> 00:28:39,120
+Then it's placed in a freeze dryer under a vacuum
+
+587
+00:28:39,121 --> 00:28:41,260
+where the dry heat is applied.
+
+588
+00:28:41,261 --> 00:28:43,820
+It causes the ice crystals to vaporize,
+
+589
+00:28:43,821 --> 00:28:46,160
+leaving behind air pockets in their place.
+
+590
+00:28:46,161 --> 00:28:48,700
+Once these coffee cake slices are dehydrated,
+
+591
+00:28:48,701 --> 00:28:51,100
+they get packed into airtight pouches,
+
+592
+00:28:51,101 --> 00:28:54,280
+preserving it for up to three years
+
+593
+00:28:54,281 --> 00:28:56,900
+for soldiers out in the field.
+
+594
+00:28:56,901 --> 00:28:59,520
+By eliminating any reintroduction of moisture,
+
+595
+00:28:59,521 --> 00:29:02,240
+it virtually stops bacteria from forming,
+
+596
+00:29:02,241 --> 00:29:04,820
+thus preserving the foods.
+
+597
+00:29:04,821 --> 00:29:07,820
+Modern freeze drying has been the drying technique of choice
+
+598
+00:29:07,821 --> 00:29:12,400
+used by the military and NASA since the 50s and 60s.
+
+599
+00:29:12,401 --> 00:29:15,920
+It's the technology that brought us the creamy, sweet,
+
+600
+00:29:15,921 --> 00:29:20,400
+yet curiously crunchy astronaut ice cream.
+
+601
+00:29:20,401 --> 00:29:22,400
+This freeze dried dessert took flight
+
+602
+00:29:22,401 --> 00:29:28,480
+on the Apollo 7 space mission in October 1968, supposedly.
+
+603
+00:29:28,481 --> 00:29:30,980
+It turns out, after all these decades
+
+604
+00:29:30,981 --> 00:29:33,860
+of fawning over this novelty treat at space museum gift
+
+605
+00:29:33,861 --> 00:29:37,700
+astronaut ice cream might be a farce.
+
+606
+00:29:37,701 --> 00:29:40,200
+In recent years, astronaut Walt Cunningham,
+
+607
+00:29:40,201 --> 00:29:42,360
+who was aboard Apollo 7, said,
+
+608
+00:29:42,361 --> 00:29:46,200
+we never had that stuff.
+
+609
+00:29:46,201 --> 00:29:48,700
+This is a freeze dryer.
+
+610
+00:29:48,701 --> 00:29:51,620
+And we're going to load the sample.
+
+611
+00:29:51,621 --> 00:29:53,820
+You know he's a food scientist.
+
+612
+00:29:53,821 --> 00:29:57,320
+He took a tray of cake and called it a sample.
+
+613
+00:29:57,321 --> 00:30:00,020
+Close it, start operating.
+
+614
+00:30:00,021 --> 00:30:02,020
+And how long does the process take?
+
+615
+00:30:02,021 --> 00:30:05,020
+48 to 72 hours.
+
+616
+00:30:05,021 --> 00:30:06,520
+Two to three days?
+
+617
+00:30:06,521 --> 00:30:09,360
+That's why freeze drying is so expensive.
+
+618
+00:30:09,361 --> 00:30:11,020
+And that's why the team at Natick
+
+619
+00:30:11,021 --> 00:30:13,860
+has been working with a new and improved technology,
+
+620
+00:30:13,861 --> 00:30:15,360
+vacuum microwave drying.
+
+621
+00:30:26,520 --> 00:30:29,480
+I'm not going to load the B&D samples.
+
+622
+00:30:29,481 --> 00:30:30,780
+OK.
+
+623
+00:30:30,781 --> 00:30:35,780
+So regardless of freeze drying or vacuum microwave drying,
+
+624
+00:30:35,781 --> 00:30:37,780
+everything gets frozen first.
+
+625
+00:30:37,781 --> 00:30:38,780
+Yeah.
+
+626
+00:30:38,781 --> 00:30:40,780
+So how long does VMD take?
+
+627
+00:30:40,781 --> 00:30:44,780
+For this product, it takes about 15 to 18 minutes.
+
+628
+00:30:44,781 --> 00:30:45,780
+Yes.
+
+629
+00:30:45,781 --> 00:30:47,780
+15 to 18 minutes versus two to three days.
+
+630
+00:30:47,781 --> 00:30:49,780
+Why on earth would you ever do freeze drying?
+
+631
+00:30:49,781 --> 00:30:50,780
+Right.
+
+632
+00:30:50,781 --> 00:30:55,780
+Nedick Labs is one of few places preserving food using VMD.
+
+633
+00:30:55,781 --> 00:30:58,780
+And once Lori's team has cracked the code,
+
+634
+00:30:58,781 --> 00:31:02,580
+we could be eating up tons of different food this way.
+
+635
+00:31:02,581 --> 00:31:05,080
+And it rotates, I guess, during the process?
+
+636
+00:31:05,081 --> 00:31:06,080
+Correct.
+
+637
+00:31:06,081 --> 00:31:08,580
+The bondage of this one is you can,
+
+638
+00:31:08,581 --> 00:31:12,620
+because you use microwave, so you can uniformly dry the product.
+
+639
+00:31:12,621 --> 00:31:15,540
+So is this doing both processes at once?
+
+640
+00:31:15,541 --> 00:31:17,040
+It's microwaving and vacuuming?
+
+641
+00:31:17,041 --> 00:31:19,540
+And the vacuum at the same time.
+
+642
+00:31:19,541 --> 00:31:21,940
+Get you a machine that can do both.
+
+643
+00:31:21,941 --> 00:31:25,540
+And the other advantage is we don't have to dry this down
+
+644
+00:31:25,541 --> 00:31:27,280
+all the way to bone dry.
+
+645
+00:31:27,281 --> 00:31:27,981
+Correct.
+
+646
+00:31:27,982 --> 00:31:30,980
+where the freeze-dry process takes it completely dry,
+
+647
+00:31:31,080 --> 00:31:35,320
+Tom can kind of decide how dry he wants to make it.
+
+648
+00:31:35,420 --> 00:31:37,420
+With the ability to adjust dryness,
+
+649
+00:31:37,520 --> 00:31:41,320
+each food item has the potential to be more appetizing.
+
+650
+00:31:41,420 --> 00:31:44,360
+There's some freeze-dried foods you can just add water to,
+
+651
+00:31:44,460 --> 00:31:46,200
+like a cup of instant noodles.
+
+652
+00:31:46,300 --> 00:31:49,800
+But it wouldn't be appetizing to add water to coffee cake.
+
+653
+00:31:49,900 --> 00:31:52,200
+So if this technology succeeds,
+
+654
+00:31:52,300 --> 00:31:54,980
+it allows for a much wider variety of foods
+
+655
+00:31:54,981 --> 00:31:58,580
+to be dehydrated and still be delicious.
+
+656
+00:31:58,680 --> 00:32:01,680
+It's much more cost and time efficient,
+
+657
+00:32:01,780 --> 00:32:05,920
+which means dehydrated foods that are almost identical
+
+658
+00:32:06,020 --> 00:32:09,120
+to their original form can be more affordable and available
+
+659
+00:32:09,220 --> 00:32:12,200
+to the average consumer, holding more nutrition,
+
+660
+00:32:12,300 --> 00:32:15,740
+and tasting better overall.
+
+661
+00:32:15,840 --> 00:32:19,340
+For today, coffee cake is the prototype on the menu.
+
+662
+00:32:19,440 --> 00:32:22,180
+First, we have Lauren's Original Bake.
+
+663
+00:32:22,181 --> 00:32:25,480
+Second and third are the two dehydrated slices
+
+664
+00:32:25,580 --> 00:32:27,620
+via two different drying methods.
+
+665
+00:32:27,720 --> 00:32:28,620
+Which is which?
+
+666
+00:32:28,720 --> 00:32:29,720
+We don't know.
+
+667
+00:32:29,820 --> 00:32:32,820
+But it's amazing because they both look virtually the same
+
+668
+00:32:32,920 --> 00:32:34,220
+as the original bake.
+
+669
+00:32:34,320 --> 00:32:36,720
+And if the tastes are comparable,
+
+670
+00:32:36,820 --> 00:32:40,340
+I could be getting the very first bite of the future
+
+671
+00:32:40,440 --> 00:32:42,840
+of dehydrated food.
+
+672
+00:32:42,940 --> 00:32:43,840
+Oh.
+
+673
+00:32:46,040 --> 00:32:48,180
+Welcome back to the future.
+
+674
+00:32:48,280 --> 00:32:50,880
+We're at Natick Labs, where they're pushing culinary
+
+675
+00:32:50,881 --> 00:32:53,280
+culinary technology to the limit.
+
+676
+00:32:53,281 --> 00:32:55,380
+But while the teams here in the past
+
+677
+00:32:55,381 --> 00:32:58,720
+have given us some of the greatest advancements in food,
+
+678
+00:32:58,721 --> 00:33:02,100
+not all futuristic foods from the past
+
+679
+00:33:02,101 --> 00:33:03,720
+have been so successful.
+
+680
+00:33:03,721 --> 00:33:07,100
+Let's explore the past future of food
+
+681
+00:33:07,101 --> 00:33:10,500
+and what they may have predicted right or wrong.
+
+682
+00:33:10,501 --> 00:33:13,760
+In the 1950s, a writer for Science Digest
+
+683
+00:33:13,761 --> 00:33:17,240
+predicted that we would all be grazing our own beef
+
+684
+00:33:17,241 --> 00:33:19,440
+in our backyards, and those cows would be
+
+685
+00:33:19,441 --> 00:33:21,300
+about the size of dogs.
+
+686
+00:33:21,301 --> 00:33:24,040
+Radiation would have produced these mini cows,
+
+687
+00:33:24,041 --> 00:33:27,220
+which would be the perfect serving size for a family.
+
+688
+00:33:27,221 --> 00:33:29,420
+Maybe it doesn't take radiation,
+
+689
+00:33:29,421 --> 00:33:33,980
+but some people do eat small cows by way of their calf,
+
+690
+00:33:33,981 --> 00:33:35,680
+AKA veal.
+
+691
+00:33:35,681 --> 00:33:38,260
+Another past vision of future food
+
+692
+00:33:38,261 --> 00:33:41,260
+that actually became quite the success might surprise you.
+
+693
+00:33:41,261 --> 00:33:44,100
+And the underlying technology was developed
+
+694
+00:33:44,101 --> 00:33:46,560
+by the military's food researchers.
+
+695
+00:33:46,561 --> 00:33:50,800
+the saucy restructured meat phenomenon known as
+
+696
+00:33:50,801 --> 00:33:54,640
+the McDonald's McRib sandwich.
+
+697
+00:33:54,641 --> 00:33:58,240
+It originally made its debut in 1981.
+
+698
+00:33:58,241 --> 00:34:02,080
+It's made by taking primarily undervalued pork trimmings
+
+699
+00:34:02,081 --> 00:34:05,020
+and sort of gluing it together, so to speak,
+
+700
+00:34:05,021 --> 00:34:07,240
+which food technologists originally
+
+701
+00:34:07,241 --> 00:34:11,420
+developed for the military back in the 60s.
+
+702
+00:34:11,421 --> 00:34:15,020
+Now, if we go back to December 1900,
+
+703
+00:34:15,021 --> 00:34:18,920
+Ladies Home Journal published an article forecasting
+
+704
+00:34:18,921 --> 00:34:21,460
+that in the future, vegetables would be grown
+
+705
+00:34:21,461 --> 00:34:23,160
+with electricity.
+
+706
+00:34:23,161 --> 00:34:26,760
+But where on earth can real life plants grow
+
+707
+00:34:26,761 --> 00:34:28,760
+using just electricity?
+
+708
+00:34:28,761 --> 00:34:31,180
+Well, it turns out they were right.
+
+709
+00:34:31,181 --> 00:34:33,440
+And the answer is everywhere.
+
+710
+00:34:33,441 --> 00:34:37,080
+All you need is some water and a shipping container.
+
+711
+00:34:40,780 --> 00:34:43,680
+Freight Farms is a company that somehow created
+
+712
+00:34:43,681 --> 00:34:48,420
+hydroponic farms scale to fit into 320 square foot
+
+713
+00:34:48,421 --> 00:34:49,660
+shipping containers.
+
+714
+00:34:49,661 --> 00:34:52,460
+Today, we're getting an intimate look at one of those,
+
+715
+00:34:52,461 --> 00:34:54,320
+Wiseacre Farm.
+
+716
+00:34:54,321 --> 00:34:58,820
+In these tight quarters, Aviad Scheinfeld and his dad Sam
+
+717
+00:34:58,821 --> 00:35:02,960
+are growing two acres of traditional farmland,
+
+718
+00:35:02,961 --> 00:35:05,260
+meaning the equivalent amount of land
+
+719
+00:35:05,261 --> 00:35:07,440
+you'd need for the same amount of crops
+
+720
+00:35:07,441 --> 00:35:12,180
+would take over 270 times that of this container.
+
+721
+00:35:12,181 --> 00:35:16,220
+Altogether, there are about 8,000 living plants in here,
+
+722
+00:35:16,221 --> 00:35:19,180
+thanks to 88 plant panels hanging vertically
+
+723
+00:35:19,181 --> 00:35:21,020
+against the container walls.
+
+724
+00:35:21,021 --> 00:35:24,700
+And all of this can be done without sun,
+
+725
+00:35:24,701 --> 00:35:28,620
+just like Ladies Home Journal predicted back at 1900.
+
+726
+00:35:28,621 --> 00:35:31,860
+So in this farm, instead of depending on sunlight,
+
+727
+00:35:31,861 --> 00:35:34,460
+we make our own with the LED panels.
+
+728
+00:35:34,461 --> 00:35:37,880
+That means the plants sunbathe every day,
+
+729
+00:35:37,881 --> 00:35:40,700
+starting at 4 PM till 8 AM.
+
+730
+00:35:40,701 --> 00:35:44,900
+when the LED lights go out and the work lights come on.
+
+731
+00:35:44,901 --> 00:35:49,180
+At which point, Aviad and his dad can tend to the plants,
+
+732
+00:35:49,181 --> 00:35:53,200
+harvest as needed, and plant and sow new seeds
+
+733
+00:35:53,201 --> 00:35:56,320
+without disrupting the natural growing process.
+
+734
+00:35:56,321 --> 00:36:00,180
+It allows Aviad and his dad to deliver fresh produce
+
+735
+00:36:00,181 --> 00:36:03,800
+directly to people's homes within hours of harvest,
+
+736
+00:36:03,801 --> 00:36:05,920
+rain or shine.
+
+737
+00:36:05,921 --> 00:36:09,920
+Back in my good days, we had to plow the ground,
+
+738
+00:36:09,921 --> 00:36:13,220
+Then we had to plan, waiting for the rain.
+
+739
+00:36:13,221 --> 00:36:17,460
+And then in the end of spring, we came back to harvest.
+
+740
+00:36:17,461 --> 00:36:20,740
+It took about six months with a lot of praying.
+
+741
+00:36:20,741 --> 00:36:24,660
+And here, you know, it takes us five, six, seven weeks
+
+742
+00:36:24,661 --> 00:36:27,920
+between the time we seed and the time we harvest.
+
+743
+00:36:27,921 --> 00:36:30,780
+So I know exactly when I'm going to get
+
+744
+00:36:30,781 --> 00:36:31,960
+and what I'm going to get.
+
+745
+00:36:35,680 --> 00:36:37,720
+The technology behind container farming
+
+746
+00:36:37,721 --> 00:36:41,280
+could mean we may all be Dr. Green Thumbs one day,
+
+747
+00:36:41,281 --> 00:36:44,700
+never killing a plant, and always having access
+
+748
+00:36:44,701 --> 00:36:47,760
+to fresh produce even when the sun isn't shining.
+
+749
+00:36:48,640 --> 00:36:50,740
+But now that we've had our vegetables,
+
+750
+00:36:50,741 --> 00:36:52,600
+let's get some dessert.
+
+751
+00:36:52,601 --> 00:36:54,580
+High-tech dessert.
+
+752
+00:36:54,581 --> 00:36:58,200
+Natick Labs is at the brink of cracking the code
+
+753
+00:36:58,201 --> 00:37:01,180
+to the future of food dehydration and preservation
+
+754
+00:37:01,181 --> 00:37:05,220
+with the latest technology of vacuum microwave drying.
+
+755
+00:37:05,221 --> 00:37:06,640
+And I'm getting a sneak peek
+
+756
+00:37:06,641 --> 00:37:09,400
+their latest prototype with this coffee cake.
+
+757
+00:37:09,401 --> 00:37:10,280
+There you go.
+
+758
+00:37:10,281 --> 00:37:10,981
+Have fun.
+
+759
+00:37:10,982 --> 00:37:11,940
+Thank you, Tom.
+
+760
+00:37:11,941 --> 00:37:12,840
+Thank you.
+
+761
+00:37:12,841 --> 00:37:17,520
+I'm on a blind taste test of different coffee cakes.
+
+762
+00:37:17,521 --> 00:37:19,680
+One will be Lauren's original bake.
+
+763
+00:37:19,681 --> 00:37:24,060
+The other two will be two different dehydrated versions.
+
+764
+00:37:24,061 --> 00:37:26,520
+One is freeze dried, the dehydration method
+
+765
+00:37:26,521 --> 00:37:29,060
+that's been used in the food and pharmaceutical industry
+
+766
+00:37:29,061 --> 00:37:30,840
+for decades.
+
+767
+00:37:30,841 --> 00:37:33,660
+The other was dehydrated in a machine
+
+768
+00:37:33,661 --> 00:37:37,000
+that looks like it's from 2001 A Space Odyssey,
+
+769
+00:37:37,001 --> 00:37:39,320
+the vacuum microwave dryer.
+
+770
+00:37:39,321 --> 00:37:43,580
+If Lori's team can make a great tasting dried coffee cake
+
+771
+00:37:43,581 --> 00:37:45,400
+using this new method,
+
+772
+00:37:45,401 --> 00:37:48,260
+we could all be seeing a cornucopia
+
+773
+00:37:48,261 --> 00:37:50,700
+of preservative-free dehydrated foods
+
+774
+00:37:50,701 --> 00:37:52,980
+in every grocery and convenience store.
+
+775
+00:37:54,500 --> 00:37:56,980
+So this is the fresh one that Lauren made.
+
+776
+00:37:56,981 --> 00:37:57,840
+That's correct.
+
+777
+00:37:57,841 --> 00:37:58,740
+Okay.
+
+778
+00:37:58,741 --> 00:38:01,640
+It feels so moist.
+
+779
+00:38:01,641 --> 00:38:02,860
+Well done, Lauren.
+
+780
+00:38:03,660 --> 00:38:05,660
+It's so good.
+
+781
+00:38:05,661 --> 00:38:07,660
+It's so good.
+
+782
+00:38:07,661 --> 00:38:09,660
+It's so good.
+
+783
+00:38:09,661 --> 00:38:11,660
+It's like, kind of like pound cake
+
+784
+00:38:11,661 --> 00:38:14,660
+in terms of, like, the richness and that stickiness.
+
+785
+00:38:14,661 --> 00:38:15,660
+Oh.
+
+786
+00:38:15,661 --> 00:38:18,660
+Okay, so number two.
+
+787
+00:38:18,661 --> 00:38:22,660
+And this still smells like when you had the ingredients out.
+
+788
+00:38:27,660 --> 00:38:29,660
+Yeah, I can't...
+
+789
+00:38:29,661 --> 00:38:31,660
+It blows my mind that this has been dried
+
+790
+00:38:31,661 --> 00:38:33,500
+still smells like coffee cake.
+
+791
+00:38:33,501 --> 00:38:35,840
+OK, now the next one.
+
+792
+00:38:35,841 --> 00:38:38,200
+Again, you would look at this, and you immediately
+
+793
+00:38:38,201 --> 00:38:39,200
+know it's coffee cake.
+
+794
+00:38:43,540 --> 00:38:46,220
+And I remember what you said, that the VMD
+
+795
+00:38:46,221 --> 00:38:48,900
+has a little more give, which leads me to believe
+
+796
+00:38:48,901 --> 00:38:50,980
+this is probably the freeze-dry.
+
+797
+00:38:50,981 --> 00:38:53,640
+Then I would say VMD in the middle.
+
+798
+00:38:53,641 --> 00:38:55,140
+That is exactly correct.
+
+799
+00:38:55,141 --> 00:38:55,980
+You got it.
+
+800
+00:38:55,981 --> 00:38:57,020
+Yep.
+
+801
+00:38:57,021 --> 00:38:59,340
+What's also crazy is that in my mouth,
+
+802
+00:38:59,341 --> 00:39:00,600
+I have that butter feeling.
+
+803
+00:39:00,601 --> 00:39:03,420
+I'm like, you'd think it would only be manifest in the fresh one.
+
+804
+00:39:03,560 --> 00:39:06,060
+But as you chew, it comes out in all of them.
+
+805
+00:39:08,540 --> 00:39:16,660
+What's so amazing about this is that the VMD coffee cake tasted so much like Warren's original coffee cake,
+
+806
+00:39:16,880 --> 00:39:23,120
+and without any preservatives or chemicals, which several packaged foods at the grocery store need for shelf stabilization.
+
+807
+00:39:23,800 --> 00:39:30,060
+There's no telling what this could mean, not only for the types of food that may be added to our grocery aisles,
+
+808
+00:39:30,061 --> 00:39:34,540
+but also without having to worry about eating a ton of additives.
+
+809
+00:39:35,020 --> 00:39:39,660
+If this is what the teams at Natick have been researching and developing all these years,
+
+810
+00:39:39,880 --> 00:39:42,760
+the future of food is boundless.
+
+811
+00:39:42,940 --> 00:39:48,940
+Not just for the military, we can't forget that the technology export at Natick Labs
+
+812
+00:39:48,941 --> 00:39:55,260
+often becomes the food industry's advances that the American public gets to enjoy too.
+
+813
+00:39:55,960 --> 00:39:58,760
+And as long as we stay inspired and keep innovating,
+
+814
+00:39:58,761 --> 00:40:01,100
+The sky is the limit.
+
+815
+00:40:01,200 --> 00:40:03,500
+But I think we're in pretty good hands right now.
+
+816
+00:40:03,600 --> 00:40:06,400
+We've seen how facilities like this one are constantly
+
+817
+00:40:06,500 --> 00:40:08,440
+pushing the technological envelope when it comes
+
+818
+00:40:08,540 --> 00:40:10,000
+to feeding our military.
+
+819
+00:40:10,100 --> 00:40:13,540
+We've seen the impossible become possible with meat
+
+820
+00:40:13,640 --> 00:40:14,780
+that isn't meat.
+
+821
+00:40:14,880 --> 00:40:17,340
+We have seen robots flipping burgers,
+
+822
+00:40:17,440 --> 00:40:20,680
+and we learned that size isn't everything when it comes
+
+823
+00:40:20,780 --> 00:40:22,820
+to the farms of the future.
+
+824
+00:40:22,920 --> 00:40:25,480
+So make sure your DeLorean has a cup holder,
+
+825
+00:40:25,481 --> 00:40:28,980
+because the future of food looks delicious.
+
+826
+00:40:30,980 --> 00:40:32,980
+Oh, my God, that pizza!
+

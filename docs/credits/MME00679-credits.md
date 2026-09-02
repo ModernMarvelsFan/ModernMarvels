@@ -1,0 +1,42 @@
+# Credit Roll: Coin Operated II (2010)
+**Canonical Episode:** [`MME00679: Coin Operated II`](../episodes/MME00679.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 2010 A&E Television Networks`
+* **Production Company:** Half Yard Productions, PIXELDUST STUDIOS, TAKOMA MEDIA
+* **Narrator:** MAX RAPHAEL
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Additional Editing** | AUSTIN ELSTON, LARA UNDERWOOD |
+| **Additional Footage** | CHRIS BERGER, THE CHRISTOPHER GROUP INTERNATIONAL |
+| **Assistant Editors** | ADAM KIRK, WANAKHAVI WAKHISI |
+| **Associate Producer** | SARAH ROONEY |
+| **Associate Producers** | ARJUN V. RAO, AMBER SEYLER, KELLY TUCKER |
+| **Coordinating Producer** | CARTER FIGUEROA |
+| **Created by** | BRUCE NASH |
+| **Digitizer** | MARCIA ROBUSTO |
+| **Directors of Photography** | ROBERT CASE, DALLAS CHILDERS, ROB FEATHERSTONE, MATT FRANKLIN, JOHN MANIS, ANDREW SCHWARTZ |
+| **Executive Producer** | JOHN VERHOFF |
+| **Executive Producers** | SEAN GALLAGHER, ABBY GREENSFELDER, LIBBY RICHMAN |
+| **Field Producers** | BROOKE BARROWS, SCOTT MICHNICK, SYDNE WHITE |
+| **Graphics** | DAVE GLANZ, PIXELDUST STUDIOS |
+| **Music** | AUDIO NETWORKS, EXTREME MUSIC |
+| **Narrator** | MAX RAPHAEL |
+| **Online Editor/Colorist** | MATT DOE |
+| **Post Production Coordinator** | CAMERON YOUNG |
+| **Post Production Supervisor** | LIAM MONSCHEIN |
+| **Producer** | JENNIFER ANDERSON |
+| **Production Manager** | JENNIFER PARTIN |
+| **Programming Coordinator** | KELLY VORASI |
+| **Researcher** | ANN GRAU DUVALL |
+| **Series Producer** | BRIAN LEONARD |
+| **Sound** | PABLO DURANA, MATTHEW ENGEL, MARK MARIACA, BRAD MORMON, N.G. POHOLCHUK, ROBERT PORTER |
+| **Sound Design** | TAKOMA MEDIA |
+
+---
+[← Return to Episode Dossier](../episodes/MME00679.md)

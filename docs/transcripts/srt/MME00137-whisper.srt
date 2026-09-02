@@ -1,0 +1,2608 @@
+1
+00:00:00,001 --> 00:00:09,000
+They are icons of the open road and the backbone of the transportation and construction industries.
+
+2
+00:00:09,001 --> 00:00:19,000
+From off-road powerhouses to traveling condominiums, they are rigorously tested and built to last.
+
+3
+00:00:19,001 --> 00:00:23,000
+Now, trucks on Modern Marvels.
+
+4
+00:00:30,000 --> 00:00:34,540
+When the going gets tough, count on the world's arsenal
+
+5
+00:00:34,640 --> 00:00:38,200
+of wheeled workhorses to muscle in and meet the challenge.
+
+6
+00:00:43,340 --> 00:00:47,060
+No matter how dirty or daunting the task,
+
+7
+00:00:47,160 --> 00:00:49,460
+trucks ride to our rescue.
+
+8
+00:00:49,560 --> 00:00:52,760
+From transporting our most dangerous cargoes,
+
+9
+00:00:52,860 --> 00:00:56,500
+to carrying military and emergency teams,
+
+10
+00:00:56,501 --> 00:01:01,160
+to supporting the mightiest civil engineering feats.
+
+11
+00:01:03,980 --> 00:01:07,780
+But first and foremost, we rely on trucks to deliver.
+
+12
+00:01:08,860 --> 00:01:12,700
+A network of multi-ton vehicles transporting goods and raw materials
+
+13
+00:01:12,701 --> 00:01:16,720
+between producer and consumer is the economic lifeblood of the nation.
+
+14
+00:01:18,180 --> 00:01:22,100
+More than 80% of all freight in the United States moves by truck.
+
+15
+00:01:22,101 --> 00:01:28,100
+You know, as the economy grows, one of the things that takes off in parallel is truck driving.
+
+16
+00:01:29,680 --> 00:01:35,480
+Because this is the way that most goods are transported across the United States.
+
+17
+00:01:36,180 --> 00:01:40,700
+In fact, pretty much anything you can think of has been brought to you at some point by a truck.
+
+18
+00:01:42,400 --> 00:01:46,880
+America's love affair with trucks is more than a century old and still going strong.
+
+19
+00:01:47,500 --> 00:01:50,100
+Trucks not only symbolize the romance of the open road,
+
+20
+00:01:52,100 --> 00:01:55,280
+But also, Thunder Along is the very epitome of power
+
+21
+00:01:55,281 --> 00:01:56,100
+and endurance.
+
+22
+00:01:59,960 --> 00:02:02,920
+One recognizable phrase sums it up,
+
+23
+00:02:02,921 --> 00:02:05,640
+built like a Mack truck.
+
+24
+00:02:05,641 --> 00:02:08,620
+Mack trucks, now owned by Volvo North America,
+
+25
+00:02:08,621 --> 00:02:11,060
+conjures images of ironclad strength
+
+26
+00:02:11,061 --> 00:02:12,380
+and unwavering dependability.
+
+27
+00:02:15,120 --> 00:02:17,920
+Volvo operates two test centers where researchers
+
+28
+00:02:17,921 --> 00:02:20,600
+and engineers are helping to ensure that Mack maintains
+
+29
+00:02:20,601 --> 00:02:21,840
+its rugged reputation.
+
+30
+00:02:21,841 --> 00:02:25,980
+A truck customer expects a tremendous amount, and they should.
+
+31
+00:02:25,981 --> 00:02:31,520
+In one year's time, a heavy-duty truck can run twice as many miles as your average car
+
+32
+00:02:31,521 --> 00:02:34,780
+or pickup trucks will in an overall lifetime.
+
+33
+00:02:34,781 --> 00:02:40,940
+Engineers at the test centers stress and load individual components to make sure they
+
+34
+00:02:40,941 --> 00:02:42,720
+won't fail in the real world.
+
+35
+00:02:42,721 --> 00:02:49,160
+With accelerometers, we gather direct information for calculating force on the components and
+
+36
+00:02:49,161 --> 00:02:55,060
+assistance within the truck and we have strain gauges so that we can measure direct strain
+
+37
+00:02:55,061 --> 00:03:00,280
+off the components and to be able to do stress analysis on these pieces.
+
+38
+00:03:00,281 --> 00:03:05,380
+The cabling, as you see down the vehicle, will run into a data recording equipment so
+
+39
+00:03:05,381 --> 00:03:11,160
+that we can take the real-time data later and extrapolate it and to be able to convert
+
+40
+00:03:11,161 --> 00:03:18,220
+that electrical signal into direct measurements.
+
+41
+00:03:18,221 --> 00:03:22,440
+Some of the machines seem more torture device than engineering equipment.
+
+42
+00:03:22,441 --> 00:03:29,340
+The cab bump test rig is used to evaluate the durability of a cab under severe impact
+
+43
+00:03:29,341 --> 00:03:32,260
+type of loads.
+
+44
+00:03:32,261 --> 00:03:37,780
+This is particularly important for vocational type of trucks.
+
+45
+00:03:37,781 --> 00:03:42,340
+As they operate off roads, you go through potholes, you go over rocks, bumps, various
+
+46
+00:03:42,341 --> 00:03:47,700
+types of uneven terrain.
+
+47
+00:03:47,701 --> 00:03:52,700
+Once the lab tests are completed, the trucks pit their strength against a half-mile gauntlet,
+
+48
+00:03:52,701 --> 00:03:57,020
+where only the strong survive.
+
+49
+00:03:57,021 --> 00:04:01,460
+The object is to see how well and how long they can withstand the worst road environment
+
+50
+00:04:01,461 --> 00:04:02,460
+possible.
+
+51
+00:04:02,461 --> 00:04:08,740
+On the endurance test, each truck that we have is tested for 12 weeks, roughly, which
+
+52
+00:04:08,741 --> 00:04:11,740
+simulates a million kilometers of actual road miles.
+
+53
+00:04:11,741 --> 00:04:15,200
+We run the test 24-7 until the test is completed.
+
+54
+00:04:15,201 --> 00:04:22,200
+Now we're going to do a high speed lap at 24 miles an hour, run over the corrugations
+
+55
+00:04:22,201 --> 00:04:25,200
+and that's basically to check the front suspension.
+
+56
+00:04:28,200 --> 00:04:35,200
+I can tell when something's not right, hear something mad noise like a brake in the suspension or something
+
+57
+00:04:35,201 --> 00:04:38,200
+and I stop and check my vehicle to see what it was.
+
+58
+00:04:38,201 --> 00:04:45,060
+Lessons learned at the test facilities ensure that today's Mack trucks live up to the reputation
+
+59
+00:04:45,061 --> 00:04:50,000
+of their predecessors, which first rolled off the assembly line in 1905.
+
+60
+00:04:51,740 --> 00:04:55,740
+Mack draws on decades of experience to build trucks for every application.
+
+61
+00:04:56,980 --> 00:05:02,160
+Truck manufacturing is similar to automotive in that we have assembly lines, and that's
+
+62
+00:05:02,161 --> 00:05:02,861
+where it ends.
+
+63
+00:05:02,862 --> 00:05:06,700
+Henry Ford would roll over in his grave if he saw what was coming down our lines.
+
+64
+00:05:08,200 --> 00:05:15,380
+Yesteryear's auto pioneers would also be bowled over to see robots on the line, working side
+
+65
+00:05:15,381 --> 00:05:19,840
+by side with workers to get dozens of trucks off the line every day.
+
+66
+00:05:19,841 --> 00:05:26,720
+The Mack plant at the Mukunji facility just outside Allentown, Pennsylvania sprawls over
+
+67
+00:05:26,721 --> 00:05:32,380
+a million square feet, enough floor space to house four aircraft carriers.
+
+68
+00:05:32,381 --> 00:05:41,380
+The plant runs three cab lines, two chassis lines, and a paint facility.
+
+69
+00:05:41,381 --> 00:05:44,980
+What we're looking at now is a frame.
+
+70
+00:05:44,981 --> 00:05:49,480
+This is the bare bones truck right before anything really major happens to it.
+
+71
+00:05:49,481 --> 00:05:56,420
+What the frame is made up of are major components of the frame rails, cross members, and then
+
+72
+00:05:56,421 --> 00:06:00,480
+you have your front and rear axle assemblies.
+
+73
+00:06:00,481 --> 00:06:03,320
+If these hit the line, we can do anything with these,
+
+74
+00:06:03,420 --> 00:06:05,480
+and the truck can be 100 different variations
+
+75
+00:06:05,580 --> 00:06:08,720
+on any set of rails like this.
+
+76
+00:06:08,820 --> 00:06:10,920
+From these rails, workers can create vehicles
+
+77
+00:06:11,020 --> 00:06:14,920
+ranging from garbage trucks to dumpers to mixers.
+
+78
+00:06:15,020 --> 00:06:17,540
+The one thing they'll all have in common
+
+79
+00:06:17,640 --> 00:06:18,940
+is a huge diesel engine.
+
+80
+00:06:22,140 --> 00:06:26,340
+Some can produce an astonishing 600 horsepower.
+
+81
+00:06:26,440 --> 00:06:27,980
+That's twice as much as that produced
+
+82
+00:06:27,981 --> 00:06:30,880
+produced by an average pickup truck.
+
+83
+00:06:30,881 --> 00:06:35,180
+These engines weigh in at a hefty 3,000 pounds.
+
+84
+00:06:35,181 --> 00:06:37,480
+And even for experienced assembly line workers,
+
+85
+00:06:37,481 --> 00:06:42,220
+placing them onto the frame is a difficult procedure.
+
+86
+00:06:42,221 --> 00:06:44,900
+In another part of the factory, workers assemble the truck's
+
+87
+00:06:44,901 --> 00:06:45,601
+cab.
+
+88
+00:06:48,640 --> 00:06:51,020
+After welders make the initial welds,
+
+89
+00:06:51,021 --> 00:06:53,560
+their robotic counterparts finish the job,
+
+90
+00:06:53,561 --> 00:06:55,860
+doing the repetitive work of welding the cab's parts
+
+91
+00:06:55,861 --> 00:07:00,360
+together.
+
+92
+00:07:00,361 --> 00:07:02,540
+Once complete, the cab is hoisted over the frame
+
+93
+00:07:02,541 --> 00:07:05,700
+and bolted into place.
+
+94
+00:07:05,701 --> 00:07:09,640
+And the familiar form of the truck begins to take shape.
+
+95
+00:07:09,641 --> 00:07:12,180
+Right now we're at the end of our H line in Mukunji.
+
+96
+00:07:12,181 --> 00:07:17,680
+On this line daily, we have about 27 trucks come offline.
+
+97
+00:07:17,681 --> 00:07:20,360
+They come off about every 15 minutes.
+
+98
+00:07:20,361 --> 00:07:22,980
+Across our second chassis assembly line,
+
+99
+00:07:22,981 --> 00:07:27,540
+We run that at about 39 a day, and they'll come off every nine minutes.
+
+100
+00:07:27,640 --> 00:07:31,340
+So our overall rate between the two lines is 66 trucks a day.
+
+101
+00:07:32,660 --> 00:07:38,200
+The vinyl product can average between $60,000 and $130,000 without the body.
+
+102
+00:07:40,220 --> 00:07:43,920
+Once finished, the truck is ready to handle whatever the customer can dish out.
+
+103
+00:07:45,320 --> 00:07:50,720
+But the strength and dependability of modern trucks is as much a story of evolution as of nuts and bolts.
+
+104
+00:07:52,980 --> 00:07:55,280
+As far as the first truck in the world,
+
+105
+00:07:55,281 --> 00:07:58,020
+there's some question about when that actually occurred.
+
+106
+00:07:58,021 --> 00:08:02,320
+I think a lot has to do with what is the definition of a truck.
+
+107
+00:08:02,321 --> 00:08:05,760
+There are records that indicate a French artillery captain
+
+108
+00:08:05,761 --> 00:08:09,460
+by the name of Cunot developed a steam powered tractor
+
+109
+00:08:09,461 --> 00:08:15,100
+used to pull heavy military cannons in 1769.
+
+110
+00:08:15,101 --> 00:08:16,700
+Other large steam tractor engines
+
+111
+00:08:16,701 --> 00:08:19,300
+would emerge and be used to pull buggies and wagons.
+
+112
+00:08:19,301 --> 00:08:24,140
+But these early vehicles were inefficient and soon became
+
+113
+00:08:24,141 --> 00:08:25,540
+novelties used by the wealthy.
+
+114
+00:08:27,540 --> 00:08:29,540
+By the middle of the 19th century,
+
+115
+00:08:29,541 --> 00:08:32,540
+the horse was still the most efficient form of road
+
+116
+00:08:32,541 --> 00:08:34,540
+transportation.
+
+117
+00:08:34,541 --> 00:08:37,660
+But that would change with the advent of the internal combustion
+
+118
+00:08:37,661 --> 00:08:41,660
+engine by N.A. Otto in 1876.
+
+119
+00:08:44,460 --> 00:08:47,100
+Over the next few years, tinkerers and craftsmen from
+
+120
+00:08:47,101 --> 00:08:52,100
+and craftsmen from around the world embraced these new engines.
+
+121
+00:08:52,101 --> 00:08:56,100
+Then in 1892, Charles Duryea built what many believed
+
+122
+00:08:56,101 --> 00:09:01,100
+to be America's first gasoline-powered vehicle.
+
+123
+00:09:01,101 --> 00:09:05,100
+Six years later, the Winton Motor Carriage Company of Cleveland
+
+124
+00:09:05,101 --> 00:09:07,100
+claimed to build the first commercial gasoline delivery
+
+125
+00:09:07,101 --> 00:09:10,100
+wagon, which was an accurate description.
+
+126
+00:09:13,100 --> 00:09:16,100
+By the turn of the century, most truck bodies were little more
+
+127
+00:09:16,101 --> 00:09:18,000
+were little more than modified wagons.
+
+128
+00:09:18,940 --> 00:09:19,880
+Many were chain-driven,
+
+129
+00:09:20,420 --> 00:09:22,960
+and some steered with a rudimentary device called a tiller.
+
+130
+00:09:24,860 --> 00:09:26,700
+Adding to an already rough ride,
+
+131
+00:09:26,980 --> 00:09:28,720
+the wheels were simple metal rims
+
+132
+00:09:28,721 --> 00:09:30,400
+with a hard piece of rubber attached.
+
+133
+00:09:31,460 --> 00:09:33,260
+A driver was asked to sit on a board,
+
+134
+00:09:33,380 --> 00:09:34,760
+out in the weather, out in the rain,
+
+135
+00:09:35,480 --> 00:09:36,680
+and deal with the elements.
+
+136
+00:09:37,660 --> 00:09:38,980
+Driving in an early truck
+
+137
+00:09:38,981 --> 00:09:40,800
+was not a very comfortable experience.
+
+138
+00:09:41,580 --> 00:09:42,900
+I think it's important to recognize
+
+139
+00:09:42,901 --> 00:09:44,440
+that when trucks were first developed
+
+140
+00:09:44,441 --> 00:09:46,220
+that their focus was to haul freight,
+
+141
+00:09:46,500 --> 00:09:48,420
+not necessarily provide driver comfort.
+
+142
+00:09:48,540 --> 00:09:50,080
+And that's exactly what these vehicles did.
+
+143
+00:09:52,180 --> 00:09:54,580
+To move freight, trucks needed power,
+
+144
+00:09:55,080 --> 00:09:57,380
+something early gas engines had trouble providing.
+
+145
+00:09:58,920 --> 00:10:01,580
+Railroads, by contrast, possessed more than enough power
+
+146
+00:10:01,581 --> 00:10:03,660
+to continue their decades-long reign
+
+147
+00:10:03,661 --> 00:10:05,800
+as the kings of long-distance transportation.
+
+148
+00:10:07,780 --> 00:10:11,160
+But early gas-powered trucks faced their most immediate competition
+
+149
+00:10:11,161 --> 00:10:13,800
+from trucks propelled by steam or electricity.
+
+150
+00:10:14,440 --> 00:10:18,340
+When the truck was initially being developed, the very first trucks,
+
+151
+00:10:18,800 --> 00:10:23,100
+it was not a foregone conclusion that they would be gasoline and then later diesel-powered.
+
+152
+00:10:23,280 --> 00:10:25,260
+So there were electric trucks and steam trucks,
+
+153
+00:10:25,640 --> 00:10:30,420
+and one of the problems with the early steam vehicles is that they were built like a locomotive.
+
+154
+00:10:30,421 --> 00:10:34,140
+They had boilers, and they required multiple operators sometimes.
+
+155
+00:10:34,380 --> 00:10:38,420
+You had to have a fuel source, and you had to keep it full of water, or it would explode.
+
+156
+00:10:40,000 --> 00:10:42,620
+The novel electric trucks were ahead of their time,
+
+157
+00:10:42,621 --> 00:10:44,980
+but were encumbered by large batteries.
+
+158
+00:10:45,640 --> 00:10:48,280
+Well, the same problems that we've had in the last 20 years
+
+159
+00:10:48,281 --> 00:10:50,400
+trying to develop an exclusively electric car,
+
+160
+00:10:50,920 --> 00:10:53,140
+the electric trucks had mammoth batteries.
+
+161
+00:10:53,340 --> 00:10:56,920
+And recall, this is the battery technology of the early 20th century,
+
+162
+00:10:57,040 --> 00:10:58,820
+giant lead batteries with lots of acid.
+
+163
+00:10:59,180 --> 00:11:00,840
+Their upshot was that they were quiet,
+
+164
+00:11:00,841 --> 00:11:02,960
+but for over-the-road use and general use,
+
+165
+00:11:03,500 --> 00:11:06,060
+they just couldn't go very far without having to be recharged.
+
+166
+00:11:07,620 --> 00:11:09,720
+For many consumers of the era, however,
+
+167
+00:11:09,840 --> 00:11:11,940
+the hard choice wasn't gas or electric.
+
+168
+00:11:12,620 --> 00:11:14,940
+It was car or horse.
+
+169
+00:11:15,840 --> 00:11:18,820
+Eventually it became very clear that gasoline-powered trucks
+
+170
+00:11:18,821 --> 00:11:21,140
+are cheaper to operate than horses and wagons.
+
+171
+00:11:21,560 --> 00:11:23,220
+You can park a truck for two or three days,
+
+172
+00:11:23,420 --> 00:11:25,400
+you don't need to feed it, you don't need to watch it,
+
+173
+00:11:25,620 --> 00:11:28,080
+it doesn't get a cold, it doesn't get sick, it doesn't die.
+
+174
+00:11:28,620 --> 00:11:31,940
+It does need repair, but it was just cheaper in the long run
+
+175
+00:11:31,941 --> 00:11:32,960
+than horses and wagons.
+
+176
+00:11:34,300 --> 00:11:36,820
+Although horse-drawn wagons struggled to compete
+
+177
+00:11:36,821 --> 00:11:38,440
+against gasoline-powered vehicles,
+
+178
+00:11:39,220 --> 00:11:41,960
+the Teamsters who drove them weren't going down without a fight.
+
+179
+00:11:42,620 --> 00:11:50,080
+And one of the ways that the Teamsters would try to get a leg up is by backing their wagons with the horses into the radiator of trucks.
+
+180
+00:11:50,320 --> 00:11:54,160
+That was a way to disarm the truck because that was a very delicate part of the truck at the time.
+
+181
+00:11:56,400 --> 00:12:01,500
+Although heavy, slow, and crude, the fledgling trucks had proven they were here to stay.
+
+182
+00:12:02,340 --> 00:12:08,960
+In years to come, innovators would develop a sleek new fleet of workhorses that would revolutionize the industry.
+
+183
+00:12:08,961 --> 00:12:16,412
+In 1919, a military truck convoy took 62 days to travel from Washington, D.C.
+
+184
+00:12:16,413 --> 00:12:17,960
+to San Francisco
+
+185
+00:12:17,961 --> 00:12:21,580
+because of poor roads and mechanical breakdowns.
+
+186
+00:12:22,740 --> 00:12:27,440
+Trucks will return on Modern Marvels, here on the History Channel.
+
+187
+00:12:33,520 --> 00:12:38,520
+Make room for these earth-moving behemoths that stand more than two stories tall.
+
+188
+00:12:38,960 --> 00:12:41,800
+Drivers must scale ladders at the front of the vehicle
+
+189
+00:12:41,900 --> 00:12:44,500
+to reach the cab.
+
+190
+00:12:44,600 --> 00:12:47,700
+Once there, they can literally move mountains.
+
+191
+00:12:47,800 --> 00:12:51,900
+Trucks like these are able to haul 320 tons of earth.
+
+192
+00:12:52,000 --> 00:12:57,020
+Fully loaded, they weigh in at over a million pounds.
+
+193
+00:12:57,120 --> 00:13:02,820
+And every ounce of that weight rests solely on the tires.
+
+194
+00:13:02,920 --> 00:13:06,420
+Made of special compounds of rubber and synthetic material,
+
+195
+00:13:06,421 --> 00:13:09,420
+The tires are marvels unto themselves.
+
+196
+00:13:09,520 --> 00:13:12,020
+They stand over 12 and 1⁄2 feet tall
+
+197
+00:13:12,120 --> 00:13:14,020
+and weigh up to five tons.
+
+198
+00:13:17,360 --> 00:13:19,460
+Today's trucks, no matter what their size,
+
+199
+00:13:19,560 --> 00:13:23,680
+owe their existence to the tires they ride on.
+
+200
+00:13:23,780 --> 00:13:25,980
+And although modern tires are built to withstand
+
+201
+00:13:26,080 --> 00:13:28,180
+the most punishing road conditions,
+
+202
+00:13:28,280 --> 00:13:33,520
+blowouts are a fact of life, caused either by road debris
+
+203
+00:13:33,521 --> 00:13:36,900
+debris or excess friction and heat.
+
+204
+00:13:36,901 --> 00:13:40,060
+The best truck tires deliver not only when fully inflated,
+
+205
+00:13:40,061 --> 00:13:42,840
+but also when they're punctured.
+
+206
+00:13:42,841 --> 00:13:47,980
+Case in point, Michelin's new super-wide tire.
+
+207
+00:13:47,981 --> 00:13:51,760
+The construction of the tire is such that when you have a blowout,
+
+208
+00:13:51,761 --> 00:13:53,960
+and we've done this with dynamite on the tires,
+
+209
+00:13:53,961 --> 00:13:58,180
+basically plastic explosive, you can see that it'll just
+
+210
+00:13:58,181 --> 00:13:58,881
+sit right down.
+
+211
+00:13:58,882 --> 00:14:00,360
+The truck will come to a safe stop.
+
+212
+00:14:03,520 --> 00:14:07,160
+But the most manageable blowout of all is the one you can see coming.
+
+213
+00:14:08,700 --> 00:14:12,900
+Volvo North America's advanced engineering team is working on a new monitoring system
+
+214
+00:14:12,901 --> 00:14:15,700
+that will enable drivers to keep tabs on their tires.
+
+215
+00:14:16,600 --> 00:14:21,160
+With these devices, we know the pressure in this tire even going down the road.
+
+216
+00:14:21,280 --> 00:14:24,490
+If a driver were to pick up a nail, that's not going to get better.
+
+217
+00:14:24,491 --> 00:14:25,400
+It only gets worse.
+
+218
+00:14:25,920 --> 00:14:30,300
+So the driver is notified in the cab you have a leak in this tire.
+
+219
+00:14:30,301 --> 00:14:32,740
+but at the same time he's getting that signal,
+
+220
+00:14:33,240 --> 00:14:35,660
+we can broadcast that signal through satellite
+
+221
+00:14:35,661 --> 00:14:39,600
+and go to a service, third-party service or the fleet itself,
+
+222
+00:14:40,120 --> 00:14:43,680
+and say, okay, this driver needs this tire, he's in this truck,
+
+223
+00:14:43,760 --> 00:14:45,300
+we know where he is, we know where he's going.
+
+224
+00:14:46,660 --> 00:14:49,780
+The advanced system will be a cost-effective time saver
+
+225
+00:14:49,781 --> 00:14:52,740
+as a new tire can be ready at a predetermined site
+
+226
+00:14:52,741 --> 00:14:54,940
+before the troubled truck suffers a blowout.
+
+227
+00:14:54,941 --> 00:15:04,100
+A century ago, the earliest trucks were equipped with tires that were impervious to blowouts,
+
+228
+00:15:04,101 --> 00:15:05,800
+but had little else going for them.
+
+229
+00:15:05,801 --> 00:15:10,120
+The first trucks mostly used solid rubber tires.
+
+230
+00:15:10,121 --> 00:15:14,880
+And this was fine as long as the top speeds were limited to about 10 miles an hour.
+
+231
+00:15:14,881 --> 00:15:17,220
+And that was good for city use.
+
+232
+00:15:17,221 --> 00:15:20,940
+If you went out on dirt roads in the country, you had very poor traction with these kinds
+
+233
+00:15:20,941 --> 00:15:24,720
+of tires, no tread or anything.
+
+234
+00:15:24,721 --> 00:15:31,000
+In the early 19th century, air-filled or pneumatic tires were commonly used on bicycles and early
+
+235
+00:15:31,001 --> 00:15:35,680
+passenger cars, but they were not well suited for early trucks.
+
+236
+00:15:35,681 --> 00:15:43,540
+A truck with solid rubber tires could carry as much as the driver dared to load.
+
+237
+00:15:43,541 --> 00:15:47,240
+But early air-filled tires would explode under too much weight.
+
+238
+00:15:47,241 --> 00:15:52,120
+Even as tire technology advanced, most drivers and owners remained skeptical about the durability
+
+239
+00:15:52,121 --> 00:15:54,400
+of pneumatic tires.
+
+240
+00:15:54,401 --> 00:16:00,020
+They had a good product, but the public was not convinced because many of the companies
+
+241
+00:16:00,021 --> 00:16:06,100
+that had large trucks and large heavy freight had never had any problems with the solid
+
+242
+00:16:06,101 --> 00:16:08,640
+tire on the rim and the wood spoke.
+
+243
+00:16:08,641 --> 00:16:11,360
+It was just a well-worked horse.
+
+244
+00:16:11,361 --> 00:16:15,280
+So why should they buy these new rubber tires?
+
+245
+00:16:15,281 --> 00:16:18,260
+Despite their shortcomings, trucks were catching on.
+
+246
+00:16:18,261 --> 00:16:25,260
+At the outset of World War I, the British and French armies contracted American manufacturers,
+
+247
+00:16:25,261 --> 00:16:32,760
+such as FWD and White Motors, to build trucks for the war effort.
+
+248
+00:16:32,761 --> 00:16:35,394
+Years before the arrival of American troops, U.S.
+
+249
+00:16:35,395 --> 00:16:37,760
+trucks would serve on Europe's battlefields.
+
+250
+00:16:37,761 --> 00:16:39,760
+These trucks were shipped overseas.
+
+251
+00:16:39,761 --> 00:16:43,660
+It turned out the trucks weren't too good using in the front lines, because they were
+
+252
+00:16:43,661 --> 00:16:46,100
+bogged down in the mud of the trenches.
+
+253
+00:16:46,101 --> 00:16:50,900
+But they were wonderful behind the lines for shipping supplies up to the soldiers in the
+
+254
+00:16:50,901 --> 00:16:51,900
+front lines.
+
+255
+00:16:51,901 --> 00:16:56,020
+Legends were born.
+
+256
+00:16:56,021 --> 00:17:01,820
+The Mack Model AC, with its pug nose and reputation for stubborn reliability, was nicknamed the
+
+257
+00:17:01,821 --> 00:17:05,360
+Bulldog by grateful British troops.
+
+258
+00:17:05,361 --> 00:17:12,300
+The Bulldog nickname would stick and later become the company's trademark.
+
+259
+00:17:12,301 --> 00:17:15,180
+from the battlefields of Europe, the American military
+
+260
+00:17:15,181 --> 00:17:16,980
+would soon be putting trucks to the test.
+
+261
+00:17:18,600 --> 00:17:23,620
+In March 1916, U.S. soldiers led by General John J. Pershing
+
+262
+00:17:23,621 --> 00:17:27,380
+crossed the border into Mexico in pursuit of Pancho Villa,
+
+263
+00:17:27,700 --> 00:17:29,500
+who had attacked Columbus, New Mexico.
+
+264
+00:17:34,360 --> 00:17:37,960
+Included in the strike force, 550 trucks.
+
+265
+00:17:37,961 --> 00:17:44,500
+Unfortunately, the U.S. Army had trained neither drivers nor mechanics
+
+266
+00:17:44,501 --> 00:17:46,560
+and was forced to hire civilians.
+
+267
+00:17:48,920 --> 00:17:55,680
+To make matters worse, numerous manufacturers had built the 128 different makes and models in the convoy.
+
+268
+00:17:59,020 --> 00:18:04,340
+Supplying thousands of non-interchangeable parts to keep the trucks moving was almost impossible.
+
+269
+00:18:04,341 --> 00:18:10,340
+Still, Pershing recognized the potential benefit of military trucks.
+
+270
+00:18:10,341 --> 00:18:18,200
+In 1917, he already had learned a valuable lesson in Mexico, and he immediately went
+
+271
+00:18:18,201 --> 00:18:23,720
+to Washington and to the Bureau of Standards and said, hey, we have to come up with a standardized
+
+272
+00:18:23,721 --> 00:18:29,140
+truck because the problems we had in Mexico, we can't repeat in Europe.
+
+273
+00:18:29,141 --> 00:18:33,460
+When American troops were deployed in 1917,
+
+274
+00:18:33,461 --> 00:18:37,240
+the U.S. military hastily ordered 100,000 trucks.
+
+275
+00:18:38,720 --> 00:18:42,580
+The government contracted more than 200 companies to build the vehicles.
+
+276
+00:18:43,680 --> 00:18:47,480
+But since the problem of interchangeable parts still hadn't been solved,
+
+277
+00:18:48,020 --> 00:18:49,980
+it was another recipe for disaster.
+
+278
+00:18:51,060 --> 00:18:52,560
+Something had to be done.
+
+279
+00:18:53,800 --> 00:18:58,800
+The Army called together several of the heavy-duty truck manufacturers
+
+280
+00:18:58,801 --> 00:19:01,780
+and engine manufacturers, transmission suppliers,
+
+281
+00:19:02,020 --> 00:19:04,960
+to come up with a standard truck design
+
+282
+00:19:04,961 --> 00:19:06,800
+that they could all build at the same time
+
+283
+00:19:06,801 --> 00:19:08,120
+and parts would be interchangeable.
+
+284
+00:19:08,620 --> 00:19:12,740
+And this was officially called the standard Type B,
+
+285
+00:19:13,220 --> 00:19:16,440
+but it's generally referred to as the Liberty Truck.
+
+286
+00:19:17,000 --> 00:19:18,820
+World War I was a very significant event
+
+287
+00:19:18,821 --> 00:19:21,260
+as far as the development of the trucking industry is concerned.
+
+288
+00:19:21,480 --> 00:19:23,040
+If we simply look at the numbers,
+
+289
+00:19:23,860 --> 00:19:26,400
+in approximately 1908 there were 4,000 trucks
+
+290
+00:19:26,401 --> 00:19:27,560
+in use in the United States.
+
+291
+00:19:27,561 --> 00:19:30,480
+Before World War I, it had gone to 300,000,
+
+292
+00:19:30,980 --> 00:19:33,820
+and after World War I, it had exploded to over a million trucks.
+
+293
+00:19:34,400 --> 00:19:37,140
+The trucks were able to prove themselves to the American public
+
+294
+00:19:37,141 --> 00:19:40,640
+that they were capable of carrying heavy loads under very difficult conditions.
+
+295
+00:19:43,240 --> 00:19:47,000
+American manufacturers looked to cash in on the truck's newfound acceptance.
+
+296
+00:19:49,180 --> 00:19:50,840
+For the Goodyear Tire Company,
+
+297
+00:19:50,980 --> 00:19:54,240
+this meant finally selling the public on improved pneumatic tires.
+
+298
+00:19:54,241 --> 00:19:58,280
+In 1918, to show the product's superiority,
+
+299
+00:19:59,420 --> 00:20:01,820
+Goodyear outfitted seven trucks with the new tires
+
+300
+00:20:01,821 --> 00:20:03,900
+and set them loose on America's roads.
+
+301
+00:20:05,800 --> 00:20:08,500
+The pneumatic tires allowed for increased speed
+
+302
+00:20:08,501 --> 00:20:10,140
+and better traction off-road,
+
+303
+00:20:10,800 --> 00:20:14,360
+a crucial improvement as the American road system was poorly developed.
+
+304
+00:20:16,140 --> 00:20:18,460
+The roads that connected cities and states
+
+305
+00:20:18,461 --> 00:20:21,640
+were little more than dirt paths, if they existed at all.
+
+306
+00:20:21,641 --> 00:20:27,900
+Trucks would bounce off the treacherous roads or smash through bridges built to handle horse traffic.
+
+307
+00:20:28,640 --> 00:20:34,900
+Road conditions and tires are what limited the sizes of the trucks as they grew.
+
+308
+00:20:35,980 --> 00:20:42,840
+I think that truck technology was out running ahead of the road conditions in this country.
+
+309
+00:20:44,900 --> 00:20:48,140
+Still, the trucks were increasing in power and dependability,
+
+310
+00:20:48,141 --> 00:20:51,700
+and the booming post-war economy was ready to put them to work.
+
+311
+00:20:52,460 --> 00:20:57,140
+So after the war, there was a pent-up demand for goods in the country,
+
+312
+00:20:57,820 --> 00:20:59,300
+a poor transportation system,
+
+313
+00:20:59,500 --> 00:21:02,580
+and thousands and thousands of soldiers coming back with the idea,
+
+314
+00:21:02,780 --> 00:21:03,920
+I'm going to start a truck line.
+
+315
+00:21:05,260 --> 00:21:08,760
+But one vehicle manufacturer was conspicuously absent.
+
+316
+00:21:10,940 --> 00:21:13,900
+Originally, Henry Ford didn't see the need to build trucks.
+
+317
+00:21:13,901 --> 00:21:20,040
+He was obsessed with mass producing and selling his Model T automobiles cheaply.
+
+318
+00:21:20,640 --> 00:21:22,420
+Another vehicle line would just interfere.
+
+319
+00:21:24,700 --> 00:21:29,260
+Wagon makers, carpenters, blacksmiths, and even other truck manufacturers
+
+320
+00:21:29,261 --> 00:21:33,800
+made good money converting Ford's Model T cars into extended bed trucks.
+
+321
+00:21:35,720 --> 00:21:40,440
+While some industry giants slumbered, others saw the potential for great profit.
+
+322
+00:21:40,441 --> 00:21:52,260
+In 1900, the Firestone Company, which was competing with arch-rival Goodyear to put tires on American vehicles, began manufacturing in Akron, Ohio.
+
+323
+00:21:55,920 --> 00:21:59,480
+Firestone made a fortune selling tires to Ford and other manufacturers.
+
+324
+00:22:01,120 --> 00:22:07,380
+In 1919, Firestone initiated the Ship by Truck campaign in order to promote long-haul trucking.
+
+325
+00:22:10,440 --> 00:22:14,000
+As trucks began to loosen the railroad's grip on transportation,
+
+326
+00:22:15,020 --> 00:22:18,140
+improved technology gave the growing industry an added boost.
+
+327
+00:22:19,640 --> 00:22:22,660
+Prior to the 1920s, the engines that were found in trucks
+
+328
+00:22:22,661 --> 00:22:26,320
+were two-cylinders and four-cylinders, gas-powered, with limited horsepower.
+
+329
+00:22:27,340 --> 00:22:30,660
+With the need to carry heavier loads over improved roads,
+
+330
+00:22:30,940 --> 00:22:32,800
+there was a need to have more powerful engines.
+
+331
+00:22:33,400 --> 00:22:36,900
+We started seeing a movement from four-cylinder engines to inline six-cylinder engines,
+
+332
+00:22:37,300 --> 00:22:39,660
+which is pretty much the standard in today's heavy-duty trucks.
+
+333
+00:22:40,440 --> 00:22:49,820
+The vehicles began to look like modern trucks, with covered cabs for the driver and goods hauled in trailers as opposed to being strapped to the vehicle's body.
+
+334
+00:22:51,640 --> 00:22:58,580
+By 1927, the number of American trucks had grown to nearly 3 million, and demand was increasing daily.
+
+335
+00:23:00,620 --> 00:23:08,720
+Numerous truck manufacturers were there to fill the orders, but the good times were about to end, as the Great Depression took its toll on the economy.
+
+336
+00:23:08,721 --> 00:23:14,020
+When the market crashed and the demand for trucks ceased,
+
+337
+00:23:14,780 --> 00:23:20,180
+most of them weren't in the financial position to weather the storm that followed.
+
+338
+00:23:22,420 --> 00:23:25,700
+Despite the Depression, however, some truck companies benefited.
+
+339
+00:23:26,820 --> 00:23:30,360
+Public works projects from road construction to the building of Hoover Dam
+
+340
+00:23:30,361 --> 00:23:33,880
+depended on powerful trucks to haul tons of earth and equipment.
+
+341
+00:23:33,881 --> 00:23:42,340
+names like Kenworth, Sterling and Mack remain strong and continue to keep up with technology
+
+342
+00:23:42,341 --> 00:23:50,480
+German engineer Rudolf Diesel revolutionized the industry by inventing the efficient engine
+
+343
+00:23:50,481 --> 00:23:56,860
+that still bears his name diesel's idea of using the compression of the engine to cause the
+
+344
+00:23:56,861 --> 00:24:03,100
+explosion of the fuel was the turning point in the development of the so-called diesel
+
+345
+00:24:03,101 --> 00:24:04,520
+internal combustion engine.
+
+346
+00:24:05,640 --> 00:24:07,240
+Unlike gasoline models,
+
+347
+00:24:07,840 --> 00:24:09,540
+diesel engines don't rely on a spark
+
+348
+00:24:09,541 --> 00:24:10,360
+to ignite the fuel.
+
+349
+00:24:11,480 --> 00:24:13,420
+Instead, the engine compresses the air
+
+350
+00:24:13,421 --> 00:24:15,140
+and the diesel mixture so forcefully
+
+351
+00:24:15,141 --> 00:24:17,920
+that the fuel destabilizes and combusts
+
+352
+00:24:17,921 --> 00:24:19,100
+because of the high compression
+
+353
+00:24:19,101 --> 00:24:20,180
+in the combustion chamber.
+
+354
+00:24:22,060 --> 00:24:23,560
+The blast is much greater
+
+355
+00:24:23,561 --> 00:24:24,540
+than in the gas engine.
+
+356
+00:24:25,360 --> 00:24:27,340
+This means the diesel produces more power,
+
+357
+00:24:27,900 --> 00:24:29,900
+but it also means that all engine pieces
+
+358
+00:24:29,901 --> 00:24:31,420
+must be larger and stronger
+
+359
+00:24:31,421 --> 00:24:32,860
+to withstand the punishment.
+
+360
+00:24:33,100 --> 00:24:41,860
+The greater power output was a boon to the industry, but the heavier built engines were
+
+361
+00:24:41,861 --> 00:24:43,340
+more expensive to make.
+
+362
+00:24:43,341 --> 00:24:49,420
+It would be years before they became standard equipment.
+
+363
+00:24:49,421 --> 00:24:54,660
+With the outbreak of World War II, dependable manufacturers like Mack and General Motors
+
+364
+00:24:54,661 --> 00:25:00,200
+devoted all their resources to building military trucks.
+
+365
+00:25:00,201 --> 00:25:04,300
+The Army's new workhorse was the 2.5-ton dual axle,
+
+366
+00:25:04,301 --> 00:25:07,540
+which would move troops and supplies in Europe, Africa,
+
+367
+00:25:07,541 --> 00:25:11,540
+and throughout the Pacific theater.
+
+368
+00:25:11,541 --> 00:25:14,420
+At war's end, North American manufacturers
+
+369
+00:25:14,421 --> 00:25:19,880
+had built 2,600,887 trucks for victory overseas.
+
+370
+00:25:23,820 --> 00:25:27,700
+By the 1950s, a new highway system and a booming economy
+
+371
+00:25:27,701 --> 00:25:30,040
+laid the groundwork for the golden age of trucking.
+
+372
+00:25:32,940 --> 00:25:36,640
+In 1931, mechanic inventor Klessie L. Cummins
+
+373
+00:25:36,641 --> 00:25:40,300
+drove coast to coast in a truck with a Cummins diesel engine
+
+374
+00:25:40,301 --> 00:25:45,220
+on a mere $11.22 worth of fuel.
+
+375
+00:25:45,221 --> 00:25:47,660
+Trucks will return on Modern Marvels.
+
+376
+00:25:47,661 --> 00:25:56,660
+The open road.
+
+377
+00:25:59,660 --> 00:26:02,660
+Shimmering heat waves rise off endless miles of blacktop.
+
+378
+00:26:05,560 --> 00:26:09,660
+A solitary driver pilots a lonely, austere 18-wheeler.
+
+379
+00:26:13,000 --> 00:26:15,200
+The image of the monotonous life of a trucker
+
+380
+00:26:15,201 --> 00:26:18,200
+that today's truck manufacturers would like to make obsolete.
+
+381
+00:26:21,100 --> 00:26:22,200
+The biggest names in the industry
+
+382
+00:26:22,300 --> 00:26:24,200
+are pushing the envelope of design
+
+383
+00:26:24,300 --> 00:26:26,200
+to build trucks with world-class comfort.
+
+384
+00:26:30,140 --> 00:26:33,200
+Today's cockpits are high-tech and luxurious.
+
+385
+00:26:33,300 --> 00:26:36,200
+This is a 77-inch sleeper, which is one of the largest
+
+386
+00:26:36,300 --> 00:26:38,200
+production sleepers in the industry.
+
+387
+00:26:38,300 --> 00:26:40,200
+This sleeper features a lot of amenities
+
+388
+00:26:40,300 --> 00:26:42,200
+that make this a very comfortable home environment
+
+389
+00:26:42,201 --> 00:26:43,740
+environment for the driver.
+
+390
+00:26:43,840 --> 00:26:47,100
+A nice upper bunk with an interspring mattress.
+
+391
+00:26:47,200 --> 00:26:49,500
+The lower bunk also features a workstation,
+
+392
+00:26:49,600 --> 00:26:52,240
+which is a nice area for dining or working
+
+393
+00:26:52,340 --> 00:26:53,440
+at the end of the day.
+
+394
+00:26:53,540 --> 00:26:56,540
+So all in all, the driver has a lot of place to store items,
+
+395
+00:26:56,640 --> 00:26:58,240
+a very comfortable place to stay at night.
+
+396
+00:27:07,020 --> 00:27:11,300
+While such customized comfort is routine today,
+
+397
+00:27:11,301 --> 00:27:17,380
+In the 1940s, driver comfort was low on the list of the trucking industry's priorities.
+
+398
+00:27:21,420 --> 00:27:26,100
+After World War II, its number one goal was to meet escalating consumer demand.
+
+399
+00:27:27,580 --> 00:27:30,580
+Trucks began traveling faster and farther than ever before.
+
+400
+00:27:34,760 --> 00:27:38,560
+They could easily handle the flat terrain in the eastern half of the United States.
+
+401
+00:27:39,400 --> 00:27:42,560
+But the mountains in the rugged west were a different story.
+
+402
+00:27:43,340 --> 00:27:47,860
+The 275-horsepower supercharged Cummins in this 1955 Kenworth
+
+403
+00:27:47,861 --> 00:27:50,620
+was one of the most powerful diesel engines available at the time.
+
+404
+00:27:52,780 --> 00:27:57,000
+On long grades and steep hills, some of the lesser horsepower trucks,
+
+405
+00:27:57,080 --> 00:27:58,780
+the 150 and 200-horsepower trucks,
+
+406
+00:27:58,940 --> 00:28:02,040
+you'd practically be counting the lug nuts as they rotated around.
+
+407
+00:28:02,100 --> 00:28:03,380
+You could walk beside the truck.
+
+408
+00:28:03,381 --> 00:28:05,020
+It would crawl up the hill so slowly.
+
+409
+00:28:05,021 --> 00:28:09,600
+A handful of Western truck manufacturers
+
+410
+00:28:09,601 --> 00:28:11,480
+were trying to bring the West up to speed.
+
+411
+00:28:16,420 --> 00:28:18,700
+The owners of a Utah shipping company
+
+412
+00:28:18,701 --> 00:28:20,240
+named Consolidated Freight
+
+413
+00:28:20,241 --> 00:28:23,120
+figured success hinged on lighter trailers
+
+414
+00:28:23,121 --> 00:28:25,060
+and more space to haul more goods.
+
+415
+00:28:27,560 --> 00:28:30,020
+Unable to find a manufacturer to meet their needs,
+
+416
+00:28:30,460 --> 00:28:32,060
+they decided to build their own vehicles.
+
+417
+00:28:32,061 --> 00:28:35,560
+and the Freightliner Corporation was born.
+
+418
+00:28:38,100 --> 00:28:40,840
+It became a mainstay of West Coast trucking.
+
+419
+00:28:41,360 --> 00:28:44,400
+But such new companies equipped with improving technology
+
+420
+00:28:44,401 --> 00:28:47,820
+could only go so far on America's underdeveloped road system.
+
+421
+00:28:49,260 --> 00:28:53,880
+The highway system is the partner with trucks in trucking.
+
+422
+00:28:54,340 --> 00:28:56,880
+And early roads were just impassable at times.
+
+423
+00:28:57,080 --> 00:28:59,000
+Mud ruts passed for roads.
+
+424
+00:28:59,001 --> 00:29:01,760
+And if you couldn't get through, the freight couldn't get through.
+
+425
+00:29:02,060 --> 00:29:04,860
+And it's been a gradual process of roads being improved
+
+426
+00:29:04,861 --> 00:29:07,460
+to improve our national transportation system.
+
+427
+00:29:08,040 --> 00:29:11,600
+In 1956, President Dwight D. Eisenhower
+
+428
+00:29:11,601 --> 00:29:13,660
+signed the Federal Aid Highway Act,
+
+429
+00:29:14,300 --> 00:29:18,020
+which authorized the creation of a 41,000-mile interstate system.
+
+430
+00:29:21,240 --> 00:29:24,660
+Originally designed to accommodate military equipment convoys,
+
+431
+00:29:25,200 --> 00:29:26,940
+the interstate system was ideal
+
+432
+00:29:26,941 --> 00:29:29,340
+for large multi-trailered commercial trucks.
+
+433
+00:29:29,341 --> 00:29:35,320
+And a lot more thought was put into on-ramps, off-ramps,
+
+434
+00:29:35,540 --> 00:29:38,080
+overpasses, bridges, that sort of thing,
+
+435
+00:29:38,260 --> 00:29:41,080
+just to make sure that trucks could effectively
+
+436
+00:29:41,081 --> 00:29:42,560
+and safely carry their loads.
+
+437
+00:29:44,300 --> 00:29:47,720
+The golden age of American trucking was in full swing.
+
+438
+00:29:49,640 --> 00:29:51,840
+Better roads and more powerful trucks
+
+439
+00:29:51,841 --> 00:29:54,300
+enabled the industry to deliver almost anything
+
+440
+00:29:54,301 --> 00:29:57,040
+to any location, quickly and affordably.
+
+441
+00:29:57,041 --> 00:30:03,600
+For the first time ever, trucks overtook railroads as the predominant way to ship goods.
+
+442
+00:30:04,740 --> 00:30:10,820
+By the mid-1960s, more than 13 million commercial vehicles were traversing America's roads.
+
+443
+00:30:12,840 --> 00:30:18,520
+Many sported the latest in truck technology, lighter aluminum and fiberglass trailers.
+
+444
+00:30:20,340 --> 00:30:25,400
+But when the 70s arrived, improvements in engine design would take center stage
+
+445
+00:30:25,401 --> 00:30:28,140
+as the world's fuel supplies were threatened.
+
+446
+00:30:30,160 --> 00:30:33,200
+Most 18-wheelers today have 12 gears,
+
+447
+00:30:33,760 --> 00:30:35,780
+10 forward and 2 reverse.
+
+448
+00:30:36,860 --> 00:30:39,500
+Trucks will return on Modern Marvels.
+
+449
+00:30:45,300 --> 00:30:47,360
+They are the kings of the road,
+
+450
+00:30:48,100 --> 00:30:49,920
+commanding 40 tons of machinery,
+
+451
+00:30:50,540 --> 00:30:54,040
+moving at 70 miles per hour along endless ribbons of asphalt.
+
+452
+00:30:55,400 --> 00:30:59,040
+But even the best drivers are vulnerable to the hazards of the open road.
+
+453
+00:31:01,700 --> 00:31:06,960
+Perhaps no company recognizes the inevitability of traffic mishaps more than Volvo.
+
+454
+00:31:08,100 --> 00:31:13,000
+It's built its reputation building safe, reliable vehicles, including trucks.
+
+455
+00:31:19,760 --> 00:31:22,540
+At Volvo's safety testing center in Sweden,
+
+456
+00:31:23,400 --> 00:31:27,300
+engineers orchestrate a symphony of sudden impacts in the name of safety.
+
+457
+00:31:32,000 --> 00:31:36,460
+They crash vehicles into fixed objects to judge drivers' survivability
+
+458
+00:31:36,461 --> 00:31:39,360
+and learn how to improve overall truck design.
+
+459
+00:31:40,360 --> 00:31:43,100
+One of the drivers' concerns that we have to address is,
+
+460
+00:31:43,101 --> 00:31:46,340
+what happens with that engine that's directly in front of you in an accident?
+
+461
+00:31:46,900 --> 00:31:51,160
+So we've designed that engine to move down and underneath the cab,
+
+462
+00:31:51,161 --> 00:31:55,360
+thereby allowing the driver to safely exit the vehicle
+
+463
+00:31:55,361 --> 00:31:57,260
+when the accident is completed.
+
+464
+00:31:59,100 --> 00:32:02,720
+Today, 50% of truck driver fatalities in the U.S.
+
+465
+00:32:02,721 --> 00:32:04,460
+involve a rollover crash.
+
+466
+00:32:05,520 --> 00:32:07,400
+To test a cab's integrity,
+
+467
+00:32:08,340 --> 00:32:10,600
+technicians slam one metric ton weights
+
+468
+00:32:10,601 --> 00:32:13,840
+into window support columns in the rear of the cab
+
+469
+00:32:13,841 --> 00:32:17,220
+to simulate the crushing forces exerted during an accident.
+
+470
+00:32:18,320 --> 00:32:20,760
+The tests have yielded better cab design
+
+471
+00:32:20,761 --> 00:32:22,960
+and construction.
+
+472
+00:32:22,961 --> 00:32:25,820
+The knowledge gained in thorough research and testing
+
+473
+00:32:25,821 --> 00:32:27,360
+has paid off in lives saved.
+
+474
+00:32:29,900 --> 00:32:33,240
+Truck driver fatality rates have dropped roughly 50%
+
+475
+00:32:33,241 --> 00:32:36,620
+over the last 20 years.
+
+476
+00:32:36,621 --> 00:32:39,580
+But truck safety is as much about preventing accidents
+
+477
+00:32:39,581 --> 00:32:40,420
+as surviving them.
+
+478
+00:32:43,360 --> 00:32:46,160
+Anti-lock brake systems, or ABS,
+
+479
+00:32:46,161 --> 00:32:49,700
+have improved with the addition of computer monitoring,
+
+480
+00:32:49,701 --> 00:32:53,200
+helping to bring multi-ton vehicles to a stop quickly and safely.
+
+481
+00:32:54,460 --> 00:32:57,980
+When you think about the size of a tractor trailer,
+
+482
+00:32:57,981 --> 00:33:03,100
+you don't realize sometimes that the most critical part of that tractor
+
+483
+00:33:03,101 --> 00:33:05,720
+is this right here, where it hits the road.
+
+484
+00:33:06,240 --> 00:33:08,240
+And that's where braking comes in.
+
+485
+00:33:08,580 --> 00:33:13,080
+You might be surprised to realize just how fast these trucks can actually stop.
+
+486
+00:33:13,420 --> 00:33:15,460
+They have a very advanced braking system.
+
+487
+00:33:16,020 --> 00:33:18,980
+The Volvo features ABS with traction control.
+
+488
+00:33:19,700 --> 00:33:24,100
+We also have a new innovation for vehicle stability.
+
+489
+00:33:25,300 --> 00:33:29,760
+The system works with the ABS system and traction control
+
+490
+00:33:29,761 --> 00:33:38,120
+and looks at situations where the driver might be approaching an unsafe event.
+
+491
+00:33:38,800 --> 00:33:41,660
+There are sensors in the vehicle that see what's happening
+
+492
+00:33:41,661 --> 00:33:46,440
+as well as looking at what the driver is doing with the steering wheel, the throttle, and the brake.
+
+493
+00:33:46,441 --> 00:33:50,560
+and if needed, will apply more braking,
+
+494
+00:33:50,780 --> 00:33:53,080
+take throttle away so that the driver
+
+495
+00:33:53,081 --> 00:33:54,980
+can continue that maneuver safely.
+
+496
+00:33:57,400 --> 00:33:59,400
+The quest to make safer trucks
+
+497
+00:33:59,401 --> 00:34:00,840
+has been an ongoing process.
+
+498
+00:34:02,040 --> 00:34:04,920
+In the 1960s, engineers devised
+
+499
+00:34:04,921 --> 00:34:06,880
+what came to be called the Jake Brake.
+
+500
+00:34:09,080 --> 00:34:11,520
+The Jake Brake uses the truck's own engine
+
+501
+00:34:11,521 --> 00:34:13,680
+to slow the truck down to a controlled speed
+
+502
+00:34:13,681 --> 00:34:14,640
+while going downhill.
+
+503
+00:34:16,440 --> 00:34:21,440
+Normally, the pistons inside the engine work to compress air
+
+504
+00:34:21,540 --> 00:34:24,440
+and fuel, which causes an explosion that powers the
+
+505
+00:34:24,540 --> 00:34:26,440
+vehicle.
+
+506
+00:34:26,540 --> 00:34:29,980
+The jake brake slows the engine by opening the exhaust valve,
+
+507
+00:34:30,080 --> 00:34:32,380
+allowing the compressed air to escape.
+
+508
+00:34:35,500 --> 00:34:40,500
+During the 1970s, engineers made additional strides in safety
+
+509
+00:34:40,600 --> 00:34:43,500
+as they applied ergonomics to cab design.
+
+510
+00:34:46,440 --> 00:34:54,200
+They modified seats, steering wheels, and instrument panels to increase driver comfort and decrease
+
+511
+00:34:54,201 --> 00:34:55,040
+driver fatigue.
+
+512
+00:34:58,000 --> 00:35:02,540
+But the fuel shortages of the 70s caused the most significant change of the era.
+
+513
+00:35:03,940 --> 00:35:06,700
+Fuel efficiency became the number one priority.
+
+514
+00:35:08,900 --> 00:35:11,700
+One solution was aerodynamic truck design.
+
+515
+00:35:11,701 --> 00:35:19,860
+Curved edges and spoilers became standard design features.
+
+516
+00:35:19,861 --> 00:35:22,540
+Engine manufacturers also felt the crunch.
+
+517
+00:35:22,541 --> 00:35:29,320
+In 1985, after nearly a decade of research and design, Detroit Diesel introduced the
+
+518
+00:35:29,321 --> 00:35:33,460
+first electronically controlled diesel engine.
+
+519
+00:35:33,461 --> 00:35:38,180
+Electronics really started a revolution in the configuration of our trucks.
+
+520
+00:35:38,181 --> 00:35:43,740
+Back in the late 80s, the US government had proposed more stringent emissions requirements
+
+521
+00:35:43,741 --> 00:35:46,260
+for heavy duty diesel engines.
+
+522
+00:35:46,261 --> 00:35:51,800
+The only effective way to be able to meet those regulations was the addition of electronics
+
+523
+00:35:51,801 --> 00:35:56,940
+to control the fuel system and in essence control the operation of our engines.
+
+524
+00:35:56,941 --> 00:36:05,040
+Today's electronically controlled fuel efficient engines use massive amounts of
+
+525
+00:36:05,041 --> 00:36:10,600
+torque and horsepower to pull loads up to 80,000 pounds.
+
+526
+00:36:10,601 --> 00:36:14,200
+This 16-liter engine puts out 625 horsepower
+
+527
+00:36:14,201 --> 00:36:16,480
+and 2,250 foot-pounds of torque.
+
+528
+00:36:16,481 --> 00:36:20,420
+And torque is what gets something moving off the line.
+
+529
+00:36:20,421 --> 00:36:22,440
+It gets the load moving to highway speed.
+
+530
+00:36:22,441 --> 00:36:24,840
+It also allows the truck to maintain that speed going up
+
+531
+00:36:24,841 --> 00:36:25,920
+a grade.
+
+532
+00:36:25,921 --> 00:36:28,440
+And maintaining that speed is what allows
+
+533
+00:36:28,441 --> 00:36:32,400
+the driver to get the load to the destination quicker.
+
+534
+00:36:32,401 --> 00:36:34,920
+Although the most important advances in truck design
+
+535
+00:36:34,921 --> 00:36:36,900
+are crowded under the hood.
+
+536
+00:36:36,901 --> 00:36:41,800
+Other innovations strut their stuff proudly in the open.
+
+537
+00:36:41,801 --> 00:36:44,700
+The Volvo VT880 really brings together
+
+538
+00:36:44,701 --> 00:36:46,380
+a blend of aerodynamics.
+
+539
+00:36:46,381 --> 00:36:49,500
+For example, you see that in the headlamp assembly,
+
+540
+00:36:49,501 --> 00:36:52,360
+which is designed to keep air moving very smoothly
+
+541
+00:36:52,361 --> 00:36:53,740
+over the surface.
+
+542
+00:36:53,741 --> 00:36:57,080
+But it also brings in that beefy, muscular look
+
+543
+00:36:57,081 --> 00:37:00,540
+that owner-operators want, the large forward hood.
+
+544
+00:37:00,541 --> 00:37:03,440
+So it's a very effective blend to give the look
+
+545
+00:37:03,441 --> 00:37:05,920
+and still provide maximum aerodynamics.
+
+546
+00:37:05,921 --> 00:37:07,540
+Aerodynamics means fuel economy.
+
+547
+00:37:07,541 --> 00:37:11,100
+Fuel economy means profitability.
+
+548
+00:37:11,101 --> 00:37:13,740
+The profitable multi-billion dollar truck industry
+
+549
+00:37:13,741 --> 00:37:16,080
+is banking on computer controlled collision
+
+550
+00:37:16,081 --> 00:37:19,340
+avoidance systems and driverless technology
+
+551
+00:37:19,341 --> 00:37:21,640
+to help pave the way to the truck of the future.
+
+552
+00:37:25,000 --> 00:37:28,480
+Today's short haul truck drivers lose valuable time,
+
+553
+00:37:28,481 --> 00:37:30,920
+waiting an average of 33 hours a week
+
+554
+00:37:30,921 --> 00:37:34,520
+while their cargo is loaded and unloaded.
+
+555
+00:37:34,521 --> 00:37:37,080
+Trucks will return on Modern Marvels.
+
+556
+00:37:42,680 --> 00:37:46,820
+As the strength, speed, and safety of trucks have developed,
+
+557
+00:37:46,821 --> 00:37:48,420
+our dependence upon them has grown.
+
+558
+00:37:51,420 --> 00:37:54,200
+Modern life revolves around a steady stream of goods
+
+559
+00:37:54,201 --> 00:37:57,700
+and raw materials being delivered on time around the globe.
+
+560
+00:38:00,920 --> 00:38:04,660
+Keeping track of the millions of trucks on our highways has become a vital necessity.
+
+561
+00:38:07,180 --> 00:38:12,600
+San Diego-based Qualcomm tracks over 335,000 trucks worldwide
+
+562
+00:38:12,601 --> 00:38:16,460
+and receives millions of messages and position reports every day.
+
+563
+00:38:20,080 --> 00:38:22,980
+The network management center receives the messages,
+
+564
+00:38:23,600 --> 00:38:27,460
+along with the truck's location, via global positioning satellites.
+
+565
+00:38:27,461 --> 00:38:39,826
+The truck's delivery time, location, and driver's messages are then relayed to the truck company, helping to avoid traffic congestion and decrease loading and
+
+566
+00:38:39,827 --> 00:38:41,000
+unloading time.
+
+567
+00:38:45,500 --> 00:38:52,460
+In its ongoing effort to maximize efficiency, the industry has pioneered several innovations in truck maintenance.
+
+568
+00:38:52,461 --> 00:39:01,360
+numerous onboard sensors monitor the truck's engine brakes suspension and other vital components
+
+569
+00:39:01,361 --> 00:39:08,780
+we can take that type of information and through satellite or cellular communications
+
+570
+00:39:08,781 --> 00:39:15,980
+feed that information from the truck back to the maintenance repair manager back at the home base
+
+571
+00:39:15,981 --> 00:39:22,300
+so long before the the truck and the driver are stranded along the road we have the capability
+
+572
+00:39:22,301 --> 00:39:26,460
+to be able to forecast that in the next weeks, the next month,
+
+573
+00:39:26,980 --> 00:39:30,120
+a particular system or a particular part is going to need service
+
+574
+00:39:30,121 --> 00:39:31,800
+or it's going to need repair.
+
+575
+00:39:34,180 --> 00:39:36,440
+So what's next in advanced truck design?
+
+576
+00:39:37,480 --> 00:39:39,280
+Volvo is testing new technologies
+
+577
+00:39:39,281 --> 00:39:41,920
+using this vehicle as a rolling research lab.
+
+578
+00:39:44,840 --> 00:39:47,180
+The advanced engineering department within Volvo
+
+579
+00:39:47,181 --> 00:39:50,480
+does build these things for the purpose of evaluating technologies
+
+580
+00:39:50,481 --> 00:39:54,040
+and getting customer feedback as to whether a particular technology
+
+581
+00:39:54,041 --> 00:39:57,080
+is worth pursuing to take to production or not.
+
+582
+00:39:58,400 --> 00:40:00,920
+Researchers and technicians are currently testing
+
+583
+00:40:00,921 --> 00:40:03,380
+a computerized wireless communication system
+
+584
+00:40:03,381 --> 00:40:07,160
+that may save freight truckers from time-consuming inspection stops.
+
+585
+00:40:07,420 --> 00:40:11,780
+The purpose is this truck will inspect itself with electronic sensors,
+
+586
+00:40:12,000 --> 00:40:15,260
+and then as we approach a weigh station as a for instance,
+
+587
+00:40:15,960 --> 00:40:18,640
+then this truck will tell the weigh station, I'm okay.
+
+588
+00:40:18,641 --> 00:40:20,180
+and the waste station will say,
+
+589
+00:40:20,600 --> 00:40:22,480
+this truck's okay, gets a green light,
+
+590
+00:40:22,620 --> 00:40:25,020
+the trucker goes right on past without having to stop,
+
+591
+00:40:25,320 --> 00:40:27,560
+there's two-some million inspections every year,
+
+592
+00:40:27,700 --> 00:40:29,320
+and this truck will inspect itself
+
+593
+00:40:29,321 --> 00:40:31,060
+and broadcast that inspection.
+
+594
+00:40:32,780 --> 00:40:35,620
+As new generations of trucks inspect themselves,
+
+595
+00:40:36,240 --> 00:40:38,160
+they'll also be able to help their drivers
+
+596
+00:40:38,161 --> 00:40:40,020
+inspect what often eludes their view.
+
+597
+00:40:40,980 --> 00:40:42,460
+In any truck this size,
+
+598
+00:40:42,560 --> 00:40:45,060
+there is an area that's commonly called the blind spot.
+
+599
+00:40:45,460 --> 00:40:47,840
+That blind spot is a dangerous place
+
+600
+00:40:47,841 --> 00:40:52,500
+for a small vehicle such as a small passenger car to drive because the driver cannot see him.
+
+601
+00:40:53,200 --> 00:40:59,640
+So in an attempt to try to get visibility of that blind spot, we've added this camera here.
+
+602
+00:41:00,200 --> 00:41:03,121
+If I turn on my right turn signal, there's our audio man.
+
+603
+00:41:03,122 --> 00:41:05,120
+I can't see him from where I'm sitting,
+
+604
+00:41:05,220 --> 00:41:07,580
+but I can see him very clearly from that blind spot camera.
+
+605
+00:41:08,860 --> 00:41:13,940
+Forward-facing radar is another tool commonly used today to help truck drivers avoid collisions.
+
+606
+00:41:13,941 --> 00:41:20,500
+If your reaction time has been slowed by a full day on the road,
+
+607
+00:41:21,100 --> 00:41:23,560
+it'll help you steer clear of slow-moving cars
+
+608
+00:41:23,561 --> 00:41:25,980
+or those making erratic lane changes.
+
+609
+00:41:27,640 --> 00:41:32,240
+The Doppler radar, similar to what your local weatherman may show,
+
+610
+00:41:32,840 --> 00:41:36,420
+senses speed rather than just the image.
+
+611
+00:41:36,660 --> 00:41:38,700
+If a vehicle pulls directly in front of the truck,
+
+612
+00:41:39,420 --> 00:41:41,740
+this allows the computer then to calculate
+
+613
+00:41:41,741 --> 00:41:43,580
+what is the safe following distance,
+
+614
+00:41:43,581 --> 00:41:45,840
+the vehicle will automatically slow down
+
+615
+00:41:45,841 --> 00:41:47,940
+to maintain that safe following distance.
+
+616
+00:41:48,580 --> 00:41:50,140
+Once that traffic clears,
+
+617
+00:41:50,480 --> 00:41:53,320
+the vehicle will zoom the previous set speed.
+
+618
+00:41:55,060 --> 00:41:58,860
+Modern technology has made the driver's job safer and easier.
+
+619
+00:41:59,660 --> 00:42:01,820
+But trucks of the future may take the driver
+
+620
+00:42:01,821 --> 00:42:02,900
+right out of the equation.
+
+621
+00:42:06,200 --> 00:42:08,900
+These two prototype vehicles are being developed
+
+622
+00:42:08,901 --> 00:42:10,000
+by Daimler Chrysler.
+
+623
+00:42:11,000 --> 00:42:13,420
+The first truck is operated conventionally.
+
+624
+00:42:13,580 --> 00:42:16,880
+The second is electronically linked to the first.
+
+625
+00:42:18,560 --> 00:42:20,960
+In this high-tech version of Follow the Leader,
+
+626
+00:42:21,620 --> 00:42:26,400
+an infrared camera in the second truck tracks a target painted on the back of the first vehicle.
+
+627
+00:42:29,320 --> 00:42:33,680
+The second vehicle drives itself with the information provided by the lead truck.
+
+628
+00:42:36,980 --> 00:42:40,920
+In recent years, the Pentagon has been developing its own driverless vehicles
+
+629
+00:42:40,921 --> 00:42:44,000
+with one goal in mind, saving lives.
+
+630
+00:42:44,960 --> 00:42:48,040
+Historically, slow-moving military supply convoys
+
+631
+00:42:48,041 --> 00:42:51,120
+have proven to be among an army's most vulnerable targets.
+
+632
+00:42:52,440 --> 00:42:54,780
+Today's strategists hope that unmanned trucks
+
+633
+00:42:54,781 --> 00:42:57,620
+will one day relieve soldiers of this hazardous duty.
+
+634
+00:43:00,100 --> 00:43:03,120
+Oshkosh's Teramax is a thinking machine
+
+635
+00:43:03,121 --> 00:43:06,200
+that gives new meaning to the term military intelligence.
+
+636
+00:43:10,920 --> 00:43:17,260
+Equipped with an autonomous guidance system, the Terramax can identify obstacles, then
+
+637
+00:43:17,261 --> 00:43:27,100
+decide whether to go around or over them, and at what speed, all without any human input.
+
+638
+00:43:27,101 --> 00:43:35,740
+State-of-the-art unmanned vehicles are truly the trucks of the future.
+
+639
+00:43:35,741 --> 00:43:38,860
+In today's electronic fast-paced society,
+
+640
+00:43:38,861 --> 00:43:41,500
+trucks might seem like old world technology.
+
+641
+00:43:44,420 --> 00:43:47,120
+But their ability to handle almost any load
+
+642
+00:43:47,121 --> 00:43:49,780
+and deliver goods almost anywhere
+
+643
+00:43:49,781 --> 00:43:52,040
+makes them an integral part of modern life.
+
+644
+00:43:53,520 --> 00:43:55,860
+And that means we'll always have a need for smarter,
+
+645
+00:43:55,861 --> 00:43:58,460
+more capable, more fuel efficient trucks
+
+646
+00:43:58,461 --> 00:44:02,240
+and smarter, more capable drivers.
+
+647
+00:44:02,241 --> 00:44:04,140
+We will see this continue into the future,
+
+648
+00:44:04,141 --> 00:44:06,980
+of technology and skill and beauty
+
+649
+00:44:07,080 --> 00:44:10,080
+to bring your goods to your door.
+
+650
+00:44:10,180 --> 00:44:12,920
+Our love affair with the world's brawniest vehicles
+
+651
+00:44:13,020 --> 00:44:17,080
+just keeps on trucking, an indelible fusion of man
+
+652
+00:44:17,180 --> 00:44:18,080
+and man.
+

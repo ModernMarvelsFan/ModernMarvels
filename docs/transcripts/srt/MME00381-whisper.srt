@@ -1,0 +1,2996 @@
+1
+00:00:00,001 --> 00:00:02,700
+Return to Robots on Modern Marvels.
+
+2
+00:00:06,140 --> 00:00:06,840
+There, miss.
+
+3
+00:00:06,841 --> 00:00:10,360
+You see the heterodynes are feeding back into the stimulus reaction activators,
+
+4
+00:00:10,480 --> 00:00:12,760
+causing non-snaps of the motor control resistor units.
+
+5
+00:00:13,300 --> 00:00:14,820
+Oh, that's good.
+
+6
+00:00:15,260 --> 00:00:16,860
+No, lady, that's bad.
+
+7
+00:00:17,240 --> 00:00:19,640
+But your regenerative circuits are tuned asynchronously,
+
+8
+00:00:19,940 --> 00:00:22,660
+and that causes concatenation in the intermediate amplifiers.
+
+9
+00:00:23,140 --> 00:00:24,800
+Well, that's bad, isn't it?
+
+10
+00:00:25,560 --> 00:00:27,600
+No, that's good.
+
+11
+00:00:27,601 --> 00:00:31,600
+From now on, I don't think there will be the slightest trouble with your robot.
+
+12
+00:00:31,601 --> 00:00:34,600
+Your domestic problems are completely solved.
+
+13
+00:00:34,601 --> 00:00:37,600
+No one ever thought it was going to be easy,
+
+14
+00:00:37,601 --> 00:00:40,600
+but building an intelligent robot remained the holy grail
+
+15
+00:00:40,601 --> 00:00:44,600
+that challenged and tormented some of the greatest scientific minds
+
+16
+00:00:44,601 --> 00:00:48,600
+for the latter half of this century.
+
+17
+00:00:48,601 --> 00:00:55,600
+The advent of digital computers in the 1940s suggested the way forward.
+
+18
+00:00:55,601 --> 00:01:02,700
+In America, ENIAC, the first supercomputer, was a giant brain composed of a room full of vacuum tubes.
+
+19
+00:01:03,560 --> 00:01:09,240
+It was built in 1946 to calculate the trajectories of artillery shells.
+
+20
+00:01:11,380 --> 00:01:17,440
+At the same time in Britain, mathematical genius Alan Turing was working on the Turing machine,
+
+21
+00:01:18,120 --> 00:01:23,100
+a theoretical device used to process equations without human direction.
+
+22
+00:01:24,100 --> 00:01:28,400
+The idea of mimicking human mental abilities through electronics was born.
+
+23
+00:01:31,100 --> 00:01:37,680
+His goal, as was the goal of all of the people who started in the field,
+
+24
+00:01:37,800 --> 00:01:39,920
+was to achieve human-level intelligence.
+
+25
+00:01:40,640 --> 00:01:45,300
+And he thought that computers would be able to play the imitation game,
+
+26
+00:01:45,301 --> 00:01:52,020
+that is, would be able to successfully pretend to be human over a teletype line by the year 2000.
+
+27
+00:01:53,100 --> 00:02:01,300
+At a conference at Dartmouth College in 1956, Professor John McCarthy coined the term artificial
+
+28
+00:02:01,301 --> 00:02:07,580
+intelligence or AI.
+
+29
+00:02:07,581 --> 00:02:13,280
+This conference inspired AI researchers at MIT such as Marvin Minsky to lay the groundwork
+
+30
+00:02:13,281 --> 00:02:17,380
+for computerized thinking machines.
+
+31
+00:02:17,381 --> 00:02:21,220
+They devised programs that could play chess,
+
+32
+00:02:21,221 --> 00:02:26,940
+recognize different shapes,
+
+33
+00:02:26,941 --> 00:02:31,160
+and solve logistical problems.
+
+34
+00:02:31,161 --> 00:02:34,180
+Claude Shannon created a remarkable experiment called
+
+35
+00:02:34,181 --> 00:02:37,820
+the Mouse in the Maze that appeared to learn.
+
+36
+00:02:37,821 --> 00:02:40,500
+Driven by a motorized electric magnet,
+
+37
+00:02:40,501 --> 00:02:43,480
+its path was recorded by a computer that remembered only
+
+38
+00:02:43,481 --> 00:02:47,200
+the successful parts of the journey.
+
+39
+00:02:47,201 --> 00:02:52,320
+On its second attempt, the mouse finds the target easily in a fraction of the time.
+
+40
+00:03:04,400 --> 00:03:11,500
+In 1963, McCarthy moved to Stanford University and established the Artificial Intelligence Laboratory.
+
+41
+00:03:11,501 --> 00:03:18,500
+One of the major things that we undertook to do was robotics,
+
+42
+00:03:18,501 --> 00:03:26,500
+and in particular computer vision in connection with robotics.
+
+43
+00:03:26,501 --> 00:03:32,500
+AI researchers figured that for programs to perform more like humans,
+
+44
+00:03:32,501 --> 00:03:37,500
+they needed to be coupled with hardware to see, hear, and feel.
+
+45
+00:03:37,501 --> 00:03:43,500
+Robot arms attached to TV cameras could perform very rudimentary tasks,
+
+46
+00:03:43,501 --> 00:03:46,500
+such as moving colored blocks.
+
+47
+00:03:46,501 --> 00:03:49,500
+But a dreadful paradox became apparent.
+
+48
+00:03:49,501 --> 00:03:54,500
+While AI computer programs could easily outstrip human performance at calculus,
+
+49
+00:03:54,501 --> 00:03:57,500
+when coupled with a mechanical appendage,
+
+50
+00:03:57,501 --> 00:04:02,500
+they could barely achieve the hand-eye coordination of a toddler.
+
+51
+00:04:02,501 --> 00:04:07,500
+Giving the basic sensory perceptions our brains accomplish effortlessly to robots
+
+52
+00:04:07,501 --> 00:04:10,500
+was proving to be a Herculean task.
+
+53
+00:04:12,500 --> 00:04:17,500
+In hindsight, of course, it's obvious that those are actually the hard parts
+
+54
+00:04:17,501 --> 00:04:23,500
+because those are the things that human beings have done as a life or death matter
+
+55
+00:04:23,501 --> 00:04:26,500
+for most of our evolution.
+
+56
+00:04:26,501 --> 00:04:29,500
+Yet while other labs struggled with these problems,
+
+57
+00:04:29,501 --> 00:04:37,300
+problems, Stanford Research Institute, or SRI, made history in 1969 by producing Shakey,
+
+58
+00:04:37,301 --> 00:04:42,060
+the first ever reasoning robot that was mobile.
+
+59
+00:04:42,061 --> 00:04:47,640
+Standing five feet tall, Shakey was driven by two motors and had a TV camera and radio
+
+60
+00:04:47,641 --> 00:04:50,940
+link to an off-board computer.
+
+61
+00:04:50,941 --> 00:04:59,460
+It could navigate, keeping track of its position and speed by counting wheel revolutions.
+
+62
+00:04:59,461 --> 00:05:05,560
+We wanted a system to be able to learn a little bit about its world, make a map, use that
+
+63
+00:05:05,561 --> 00:05:12,820
+map to figure out how to make motion throughout its world, how to move.
+
+64
+00:05:12,821 --> 00:05:19,180
+Lacking a complex vision system, Shakey's world was a simply painted geometric environment,
+
+65
+00:05:19,181 --> 00:05:28,580
+deliberately making it easier to perform the higher functions of learning and planning.
+
+66
+00:05:28,581 --> 00:05:32,700
+Shakey could perform simple tasks such as moving a block from one place to another.
+
+67
+00:05:33,980 --> 00:05:38,540
+From a general command, Shakey would assess the state of the world around it
+
+68
+00:05:38,541 --> 00:05:41,300
+and deduce what it needed to do to complete the task.
+
+69
+00:05:44,240 --> 00:05:46,200
+And in fact, it worked very well.
+
+70
+00:05:46,300 --> 00:05:50,400
+You could go in and move the boxes while the robot was performing some plan.
+
+71
+00:05:50,500 --> 00:05:52,340
+It would recognize that things were going wrong.
+
+72
+00:05:52,460 --> 00:05:55,220
+It would replan and it would figure out what to do again.
+
+73
+00:05:56,020 --> 00:05:57,760
+Just a phenomenal idea.
+
+74
+00:05:58,580 --> 00:06:04,220
+We put together a component in the area of computer vision, in the area of planning,
+
+75
+00:06:04,400 --> 00:06:10,560
+and we put these together into a system that functioned smoothly, all as one integrated device.
+
+76
+00:06:11,680 --> 00:06:15,840
+I think that was probably the first time that so many different components,
+
+77
+00:06:15,841 --> 00:06:19,660
+so many different parts of artificial intelligence were put together into one system.
+
+78
+00:06:20,880 --> 00:06:26,200
+But even though Shakey's brain was impressive, spontaneity was not its strong point.
+
+79
+00:06:26,201 --> 00:06:33,200
+Every move took more than an hour to compute, and even then there was a high chance of failure.
+
+80
+00:06:34,200 --> 00:06:41,200
+Over at Stanford University in the early 70s, they were having problems of a different nature with their robot vehicle,
+
+81
+00:06:41,201 --> 00:06:44,200
+namely trying to keep it under control.
+
+82
+00:06:45,200 --> 00:06:50,200
+The AI lab was experimenting with the famous Stanford cart,
+
+83
+00:06:50,201 --> 00:06:57,200
+A mobile robot, which unlike Shakey, could see and navigate in any environment.
+
+84
+00:06:57,201 --> 00:07:06,200
+The cart had on it a television camera, and we illegally used an unused television channel,
+
+85
+00:07:06,201 --> 00:07:13,200
+and we used model airplane type controller to get the information back to the cart.
+
+86
+00:07:13,201 --> 00:07:21,880
+From 1971 to 1979, AI students like Hans Moravec wrote programs which developed the
+
+87
+00:07:21,881 --> 00:07:27,500
+cart from a dimly aware road hazard to a machine able to track its path from the horizontal
+
+88
+00:07:27,501 --> 00:07:32,200
+shape of the skyline.
+
+89
+00:07:32,201 --> 00:07:35,200
+You could use it indoors or outdoors.
+
+90
+00:07:35,201 --> 00:07:37,120
+You could move chairs and tables.
+
+91
+00:07:37,121 --> 00:07:39,660
+You didn't need special kinds of objects.
+
+92
+00:07:39,661 --> 00:07:41,080
+It could recognize just about anything.
+
+93
+00:07:41,081 --> 00:07:44,280
+In fact, natural objects work better with the cart.
+
+94
+00:07:45,360 --> 00:07:48,660
+The cart had one camera that took a series of nine images
+
+95
+00:07:48,661 --> 00:07:51,460
+from which it would gauge the distance to an object
+
+96
+00:07:51,461 --> 00:07:53,540
+by using nine separate coordinates.
+
+97
+00:07:57,540 --> 00:08:00,080
+Its performance, however, still lacked perfection.
+
+98
+00:08:01,760 --> 00:08:05,800
+On a good day in 1979, it could successfully cross
+
+99
+00:08:05,801 --> 00:08:09,880
+a cluttered 30 meter space, but it took five hours to do so.
+
+100
+00:08:11,080 --> 00:08:20,080
+The dreams of AI roboticists were constantly pulled back down to Earth by the harsh reality of current technology.
+
+101
+00:08:20,081 --> 00:08:25,080
+But upgrades and computer processing power did lead to progress.
+
+102
+00:08:25,081 --> 00:08:31,080
+Flaky, son of Shakey, emerged at SRI in the late 70s.
+
+103
+00:08:31,081 --> 00:08:40,080
+Roving SRI like a distant cousin of R2-D2, Flaky could interpret even vague statements from its master
+
+104
+00:08:40,081 --> 00:08:42,540
+and perform an appropriate action.
+
+105
+00:08:44,040 --> 00:08:52,380
+I want Leslie to have the bagel.
+
+106
+00:08:53,280 --> 00:08:53,980
+Enter.
+
+107
+00:08:55,420 --> 00:08:57,280
+I want Leslie to have the bagel.
+
+108
+00:08:58,360 --> 00:09:00,660
+Finished successfully parsing sentence.
+
+109
+00:09:02,260 --> 00:09:05,840
+The master only said he wanted Leslie to have a bagel.
+
+110
+00:09:05,841 --> 00:09:10,840
+Flakey reasoned he must find her and deliver it.
+
+111
+00:09:10,841 --> 00:09:19,840
+The idea at that point was that you were trying to make a robot that would essentially be a robotic person.
+
+112
+00:09:19,841 --> 00:09:27,840
+That is, it would have all the capabilities, hopefully, eventually, of a person self-contained within this one box.
+
+113
+00:09:27,841 --> 00:09:31,840
+Flakey saw through a TV camera eye.
+
+114
+00:09:31,841 --> 00:09:35,840
+Its sonar sensors were hooked up to a map-making program,
+
+115
+00:09:35,841 --> 00:09:38,840
+which plotted and stored information.
+
+116
+00:09:38,841 --> 00:09:40,840
+It's able to move in real time.
+
+117
+00:09:40,841 --> 00:09:43,840
+It builds up its model of the world very quickly,
+
+118
+00:09:43,841 --> 00:09:45,840
+say, as it moves down the corridor,
+
+119
+00:09:45,841 --> 00:09:46,840
+it figures out that it's in a corridor,
+
+120
+00:09:46,841 --> 00:09:48,840
+that it hits an opening like a door,
+
+121
+00:09:48,841 --> 00:09:49,840
+that it's supposed to turn in that door,
+
+122
+00:09:49,841 --> 00:09:52,840
+and that it actually does turn into that doorway.
+
+123
+00:09:53,840 --> 00:09:57,840
+By the late 80s, Flakey was given stereoscopic vision
+
+124
+00:09:57,841 --> 00:10:00,840
+and enhanced speech recognition software.
+
+125
+00:10:00,841 --> 00:10:09,840
+But it was still a far cry from the goal of human-equivalent robots envisioned by the pioneers of AI at the dawn of the computer age.
+
+126
+00:10:10,840 --> 00:10:11,840
+Sign here.
+
+127
+00:10:18,840 --> 00:10:25,840
+Robot mining devices that operate on a track placed along the wall can mine 17 to 20 feet in an eight-hour day.
+
+128
+00:10:25,841 --> 00:10:28,840
+There are only about 100 of these robots in the U.S.,
+
+129
+00:10:28,841 --> 00:10:32,840
+but they produce about one-third of the coal coming from underground mines.
+
+130
+00:10:32,841 --> 00:10:35,840
+Modern Marvels will return in a moment.
+
+131
+00:10:35,841 --> 00:10:37,840
+...marvels.
+
+132
+00:10:41,840 --> 00:10:46,840
+Tobor, the most amazing, the most fantastic creation of man's mind.
+
+133
+00:10:46,841 --> 00:10:49,840
+Oh, he looks alive.
+
+134
+00:10:49,841 --> 00:10:52,840
+Throughout the 1950s, 60s, and 70s,
+
+135
+00:10:52,841 --> 00:10:57,840
+In the 1970s, popular culture tenaciously held on to the vision of the intelligent robot.
+
+136
+00:10:58,840 --> 00:11:01,840
+But fantasy still far outstripped reality.
+
+137
+00:11:04,840 --> 00:11:09,840
+Mechanical men built during this period, like Swiss engineer Peter Stoyer's robot,
+
+138
+00:11:10,840 --> 00:11:13,840
+were little more than sophisticated automatons,
+
+139
+00:11:14,840 --> 00:11:17,840
+close cousins of Electro and Sparco from earlier decades.
+
+140
+00:11:22,840 --> 00:11:29,840
+However, researchers were pursuing the dream of a human-like robot, one arm at a time.
+
+141
+00:11:30,840 --> 00:11:37,840
+In the 1950s, highly dexterous mechanical arms had been developed for handling radioactive isotopes.
+
+142
+00:11:37,841 --> 00:11:51,841
+SAM was built for NASA to operate in radioactive test sites and in outer space.
+
+143
+00:11:58,180 --> 00:12:03,100
+But these machines were teleoperated, reacting only to human control.
+
+144
+00:12:03,101 --> 00:12:10,100
+Then scientists at Stanford and MIT coupled this mechanical dexterity with the new advances
+
+145
+00:12:10,840 --> 00:12:18,420
+in artificial intelligence and vision systems.
+
+146
+00:12:18,421 --> 00:12:23,340
+Experimental robots like the Salisbury Hand gave the machines a refined sense of touch
+
+147
+00:12:23,341 --> 00:12:31,080
+so they could handle small and delicate items.
+
+148
+00:12:31,081 --> 00:12:36,000
+In the early 1970s, several Stanford graduates recognized the potential of these breakthroughs
+
+149
+00:12:36,001 --> 00:12:41,260
+for private industry and formed a company to manufacture and market these intelligent
+
+150
+00:12:41,261 --> 00:12:42,640
+robot arms.
+
+151
+00:12:42,641 --> 00:12:50,080
+That company had three people, Vic Scheinman, myself, and Bruce Shimano.
+
+152
+00:12:50,081 --> 00:12:54,940
+The company was called VICARM, which stood for Vicks Arm, and we began to build small
+
+153
+00:12:54,941 --> 00:12:59,660
+electric computer-controlled robots for research purposes.
+
+154
+00:12:59,661 --> 00:13:05,000
+The Vicarm could move with unprecedented precision and reliability.
+
+155
+00:13:05,001 --> 00:13:10,800
+It was capable of repeating a motion with stunning accuracy.
+
+156
+00:13:10,801 --> 00:13:15,980
+The partners wanted to take their invention to the industrial market, essentially giving
+
+157
+00:13:15,981 --> 00:13:19,020
+the Unimate a brain.
+
+158
+00:13:19,021 --> 00:13:25,600
+So like Joe Engelberger before him, Vic Scheinman took his robotic show on the road.
+
+159
+00:13:25,601 --> 00:13:28,580
+Ironically, it was Engelberger who got him in the door,
+
+160
+00:13:29,140 --> 00:13:32,640
+literally at a trade show in Chicago in 1975.
+
+161
+00:13:34,140 --> 00:13:36,560
+All of a sudden there was this commotion out on the steps,
+
+162
+00:13:36,760 --> 00:13:40,140
+and we asked security to go out there and see what was going on.
+
+163
+00:13:40,141 --> 00:13:42,360
+Well, Vic Scheinman was out there with a briefcase.
+
+164
+00:13:42,480 --> 00:13:45,460
+He'd open up his briefcase, and this little robot arm would move around.
+
+165
+00:13:45,880 --> 00:13:48,260
+So we threw him out of the trade show two or three times.
+
+166
+00:13:48,740 --> 00:13:52,300
+And he was standing out in front of the show with a robot under his arm,
+
+167
+00:13:52,340 --> 00:13:55,180
+and it was like a Frenchman selling filthy pictures, you know.
+
+168
+00:13:55,600 --> 00:13:58,160
+And I said, come on in, Vic.
+
+169
+00:13:58,280 --> 00:14:01,480
+We'll put a table up at the corner of our booth and you can start showing people.
+
+170
+00:14:02,160 --> 00:14:04,400
+All the attention came to Vic's little iron.
+
+171
+00:14:05,560 --> 00:14:08,640
+Unimation was so impressed that they bought the Vikarm company.
+
+172
+00:14:10,740 --> 00:14:15,520
+General Motors then commissioned them to create a new robot for automobile assembly lines.
+
+173
+00:14:16,960 --> 00:14:21,560
+Together they developed a robot that set an industry standard, the Puma,
+
+174
+00:14:22,380 --> 00:14:25,000
+programmable universal machine for assembly.
+
+175
+00:14:25,600 --> 00:14:30,600
+The Puma was an industrial version of the Vicarma technology.
+
+176
+00:14:30,601 --> 00:14:36,600
+It had incorporated into its base an LSI 11 computer, a small microcomputer.
+
+177
+00:14:36,601 --> 00:14:39,600
+It could move to a repeatability of four thousandths of an inch,
+
+178
+00:14:39,601 --> 00:14:42,600
+which is about the thickness of a sheet of paper.
+
+179
+00:14:42,601 --> 00:14:45,600
+That early computer had only eight kilobytes of memory in it.
+
+180
+00:14:45,601 --> 00:14:48,600
+And I remember my partner, Bruce Shimano, commenting to me
+
+181
+00:14:48,601 --> 00:14:52,600
+that he didn't think he'd ever be able to develop enough software to fill eight kilobytes of memory.
+
+182
+00:14:52,601 --> 00:14:59,440
+memory. Unlike the massive hydraulically controlled Unimate, the Puma was a small
+
+183
+00:14:59,441 --> 00:15:00,704
+electric robot.
+
+184
+00:15:00,705 --> 00:15:06,520
+The movement to an electric motor to help drive the robots really was
+
+185
+00:15:06,521 --> 00:15:11,780
+a key point and that was a benchmark time and it created a lot of new application interest areas
+
+186
+00:15:11,781 --> 00:15:17,851
+and expanded the industry quite dramatically going from hydraulics to electric.
+
+187
+00:15:17,852 --> 00:15:18,620
+Originally
+
+188
+00:15:18,621 --> 00:15:22,220
+The puma was sized to be about the same size as a person.
+
+189
+00:15:22,800 --> 00:15:30,680
+And the idea was that it would be very difficult to get the workforce and the plants to accept this kind of technology.
+
+190
+00:15:30,820 --> 00:15:37,560
+And if it was sized about the size of a human, you could imagine using some places where robots would perform the work
+
+191
+00:15:37,561 --> 00:15:39,760
+or other places where people could perform the work.
+
+192
+00:15:39,761 --> 00:15:44,500
+And if there were problems, you could backfill that technology with people.
+
+193
+00:15:44,501 --> 00:15:54,820
+Puma sales quickly grew to about $35 million a year, and a thriving industry in intelligent
+
+194
+00:15:54,821 --> 00:15:59,060
+industrial robots was born.
+
+195
+00:15:59,061 --> 00:16:04,020
+Soon the vision systems were improved so robots could recognize and manipulate parts randomly
+
+196
+00:16:04,021 --> 00:16:08,260
+placed on a moving conveyor belt.
+
+197
+00:16:08,261 --> 00:16:13,060
+The robots were taught this remarkable task by first showing the parts to the machine's
+
+198
+00:16:13,061 --> 00:16:16,520
+video camera eye.
+
+199
+00:16:16,521 --> 00:16:21,040
+The computer would memorize that shape and look for a match as parts came down the conveyor
+
+200
+00:16:21,041 --> 00:16:23,700
+belt.
+
+201
+00:16:23,701 --> 00:16:30,600
+By now, robots had achieved intelligence roughly equivalent to that of a cricket.
+
+202
+00:16:30,601 --> 00:16:35,040
+One application in the mid-80s was in the food industry where robots were picking up
+
+203
+00:16:35,041 --> 00:16:39,220
+candy that was coming down a moving conveyor belt or cookies that were coming down a moving
+
+204
+00:16:39,221 --> 00:16:43,460
+conveyor belt, using the machine vision to find the candy or the cookie, then picking
+
+205
+00:16:43,461 --> 00:16:45,760
+it up and putting it into an appropriate package.
+
+206
+00:16:47,400 --> 00:16:52,500
+During this time, General Motors bought about half the industrial robots manufactured in
+
+207
+00:16:52,501 --> 00:16:56,360
+the U.S. and decided to form its own robotic division.
+
+208
+00:16:58,020 --> 00:17:01,000
+Westinghouse also got into the game by buying Unimation.
+
+209
+00:17:01,001 --> 00:17:10,000
+Carlyle and Shimano, not keen on becoming conventional corporate types, formed their own company called Adept.
+
+210
+00:17:10,001 --> 00:17:21,000
+Adept specialized in improved machine vision, and they incorporated a new mechanical technology called the direct-drive robot arm.
+
+211
+00:17:21,001 --> 00:17:29,240
+Older robot arms had large motors located in the base of the machine and systems of wires,
+
+212
+00:17:29,241 --> 00:17:33,600
+pulleys and gears to control the joints.
+
+213
+00:17:33,601 --> 00:17:39,500
+The play in these arms prevented them from performing precise movements.
+
+214
+00:17:39,501 --> 00:17:44,160
+But the direct drive arm placed small but powerful electric motors at every joint on
+
+215
+00:17:44,161 --> 00:17:47,040
+the arm.
+
+216
+00:17:47,041 --> 00:17:48,800
+that generate tremendous torque.
+
+217
+00:17:52,560 --> 00:17:56,460
+Originally developed at Carnegie Mellon University by Takeo Kanadi,
+
+218
+00:17:56,920 --> 00:18:01,680
+direct drive arms generated an immense leap in speed, reliability, and precision.
+
+219
+00:18:02,520 --> 00:18:06,720
+Movement repeatability was reduced to about one-third the thickness of a sheet of paper.
+
+220
+00:18:10,260 --> 00:18:14,580
+Today, Adept is one of the few successful American industrial robot companies.
+
+221
+00:18:14,581 --> 00:18:21,460
+GM and Westinghouse have both dropped out, and the industry is dominated by companies
+
+222
+00:18:21,461 --> 00:18:27,800
+from Japan, where the robot market is five times larger than in America.
+
+223
+00:18:27,801 --> 00:18:33,260
+Japanese companies such as Fanuc Robotics have branches throughout the world, and although
+
+224
+00:18:33,261 --> 00:18:38,620
+these companies didn't invent industrial robots, they have added new levels of efficiency to
+
+225
+00:18:38,621 --> 00:18:41,040
+the technology.
+
+226
+00:18:41,041 --> 00:18:42,160
+They saw something good.
+
+227
+00:18:42,161 --> 00:18:44,420
+They don't worry about whether it was invented there or not.
+
+228
+00:18:44,421 --> 00:18:47,080
+They figure out how to use it most effectively for their objectives.
+
+229
+00:18:47,340 --> 00:18:52,780
+Their most recent motor factory has 200 robots and 40 operators in the plan
+
+230
+00:18:52,781 --> 00:18:58,700
+and is capable of running overnight, unmanned, actually, for a full three- to four-day weekend.
+
+231
+00:19:00,220 --> 00:19:04,860
+At Fanuc's headquarters, they even have robots building other robots.
+
+232
+00:19:08,320 --> 00:19:11,760
+The Japanese have honed the once-awkward robot arm
+
+233
+00:19:11,761 --> 00:19:15,740
+into a dexterous tool eerily similar to a human limb.
+
+234
+00:19:17,640 --> 00:19:22,600
+They proudly display the capabilities of their robots in impressive demonstrations.
+
+235
+00:19:24,400 --> 00:19:27,580
+Robots balancing spinning tops on the edge of a sword.
+
+236
+00:19:45,694 --> 00:19:49,380
+Or coordinating two arms in a demonstration of flower arranging.
+
+237
+00:19:49,381 --> 00:19:55,520
+Or agile robot fingers manipulating a tiny bolt.
+
+238
+00:19:55,521 --> 00:20:02,060
+and even a robot arm that uses its vision system to draw remarkably accurate portraits.
+
+239
+00:20:02,061 --> 00:20:04,200
+The beret is optional.
+
+240
+00:20:13,260 --> 00:20:19,260
+The next challenge was to move robots from the factory floor to the outside world.
+
+241
+00:20:19,261 --> 00:20:23,940
+Director, Playboy, Recluse.
+
+242
+00:20:24,080 --> 00:20:25,400
+Now take a look at his inventions.
+
+243
+00:20:25,780 --> 00:20:28,820
+We now return to Robots on Modern Marvels.
+
+244
+00:20:31,600 --> 00:20:36,780
+By the late 70s, robots had become fixtures in laboratories and on factory floors.
+
+245
+00:20:38,000 --> 00:20:40,040
+But these were controlled environments,
+
+246
+00:20:40,620 --> 00:20:44,760
+and it was unclear when robots would take on the challenges of the real world.
+
+247
+00:20:44,761 --> 00:20:52,840
+At Carnegie Mellon University in Pittsburgh, scientists tackled the highly complex problems
+
+248
+00:20:52,841 --> 00:21:02,360
+of programming robots to sense, plan and think in the natural world.
+
+249
+00:21:02,361 --> 00:21:07,200
+The majority of funding for robots went toward basic research aimed at solving theoretical
+
+250
+00:21:07,201 --> 00:21:08,200
+problems.
+
+251
+00:21:08,201 --> 00:21:10,840
+But that was all about to change.
+
+252
+00:21:14,760 --> 00:21:22,580
+In a small farming community less than 200 miles from Carnegie Mellon, the core of reactor
+
+253
+00:21:22,581 --> 00:21:31,520
+number two, the Three Mile Island nuclear facility, suffered a near catastrophic meltdown.
+
+254
+00:21:31,521 --> 00:21:37,000
+To avert a disaster, the operators were forced to flood the reactor's basement with 600,000
+
+255
+00:21:37,001 --> 00:21:39,740
+gallons of water.
+
+256
+00:21:39,741 --> 00:21:45,900
+The contaminated sludge, along with unknown levels of radioactivity, made any human exploration
+
+257
+00:21:45,901 --> 00:21:48,800
+potentially deadly.
+
+258
+00:21:48,801 --> 00:21:53,660
+Three Mile Island turned to Carnegie Mellon for help, and the industry of field robotics
+
+259
+00:21:53,661 --> 00:21:54,660
+was born.
+
+260
+00:21:54,661 --> 00:22:01,600
+Three Mile Island was a galvanizing event in our personal history.
+
+261
+00:22:01,601 --> 00:22:08,620
+It was the opportunity to take machines full term, not just ideas and laboratory curiosities,
+
+262
+00:22:08,621 --> 00:22:14,940
+full-up working machines that would go into that accident and perform serious work.
+
+263
+00:22:15,820 --> 00:22:22,440
+The first robot to enter the disaster area was the Remote Reconnaissance Vehicle, or RRV.
+
+264
+00:22:24,060 --> 00:22:30,480
+The six-wheeled robot carried two onboard cameras, radiation and infrared sensors,
+
+265
+00:22:31,100 --> 00:22:33,680
+and an array of photographic equipment.
+
+266
+00:22:33,681 --> 00:22:40,680
+The RRV was made stable enough so that it would not tip over into the toxic cesspool,
+
+267
+00:22:40,681 --> 00:22:45,680
+and small enough so that it could fit through existing doorways in the reactor's core.
+
+268
+00:22:47,680 --> 00:22:55,680
+Then, in November of 1984, the RRV made the dangerous plunge into the Three Mile Island hot zone.
+
+269
+00:22:55,681 --> 00:23:00,680
+When the reconnaissance vehicle went into the containment building for the first time,
+
+270
+00:23:00,681 --> 00:23:02,680
+was high drama.
+
+271
+00:23:02,681 --> 00:23:07,680
+We were able to view the surroundings, the conditions,
+
+272
+00:23:07,681 --> 00:23:10,680
+the flooding, the damage.
+
+273
+00:23:10,681 --> 00:23:14,680
+But more importantly, an event frozen in time,
+
+274
+00:23:14,681 --> 00:23:19,680
+where lunchboxes and watches and ladders were just abandoned as people left.
+
+275
+00:23:19,681 --> 00:23:24,680
+And it was truly special since this machine was the first thing to have gone in,
+
+276
+00:23:24,681 --> 00:23:28,680
+and to this day the only thing to have gone into the basement.
+
+277
+00:23:28,681 --> 00:23:35,360
+The scientists knew that one of the most important things about sending a robot in was the ability
+
+278
+00:23:35,361 --> 00:23:37,860
+to get the robot back out.
+
+279
+00:23:37,861 --> 00:23:44,900
+Otherwise, they had just added several tons of new nuclear waste to the problem.
+
+280
+00:23:44,901 --> 00:23:51,100
+For this reason, the RRV was able to negotiate its way back to a lift station, dock itself
+
+281
+00:23:51,101 --> 00:23:56,800
+to a hook, and be hoisted into a wash-down area above the toxic sludge.
+
+282
+00:23:56,801 --> 00:24:03,960
+A heavy gauge tether was also added to allow for constant communication and if necessary
+
+283
+00:24:03,961 --> 00:24:07,620
+to function as an escape plan of last resort.
+
+284
+00:24:07,621 --> 00:24:14,420
+A 10,000 pound giant known as Workhorse came next.
+
+285
+00:24:14,421 --> 00:24:19,240
+It was built to disassemble the contaminated areas.
+
+286
+00:24:19,241 --> 00:24:28,240
+A powerful robot had the ability to grasp, saw, and extend the heights of up to 30 feet.
+
+287
+00:24:28,241 --> 00:24:33,700
+Though it was never deployed into Three Mile Island, it was part of what Whitaker realized
+
+288
+00:24:33,701 --> 00:24:39,300
+was an emerging market for his field robots, performing jobs that were too dangerous for
+
+289
+00:24:39,301 --> 00:24:41,800
+humans.
+
+290
+00:24:41,801 --> 00:24:48,980
+In the earliest going, before the existence of field robots, there were no research
+
+291
+00:24:48,981 --> 00:24:49,921
+contracts.
+
+292
+00:24:49,922 --> 00:24:57,540
+We created opportunities from hazard and operated as technical ambulance chasers.
+
+293
+00:24:58,660 --> 00:25:03,700
+A new industry had been born, but these machines looked and acted nothing like the
+
+294
+00:25:03,701 --> 00:25:07,420
+popular conceptions of friendly humanoid robots.
+
+295
+00:25:07,421 --> 00:25:11,140
+A friend of mine came to visit and I took her on
+
+296
+00:25:11,141 --> 00:25:15,596
+a tour and she walked around and she said, well, nothing has a head.
+
+297
+00:25:15,597 --> 00:25:17,300
+She really wanted to see a
+
+298
+00:25:17,301 --> 00:25:19,990
+face and arms and the whole bit on the robotics.
+
+299
+00:25:19,991 --> 00:25:22,400
+I was kind of surprised when they look like
+
+300
+00:25:22,401 --> 00:25:26,325
+trucks and they look like tractors and they look like jeeps.
+
+301
+00:25:26,326 --> 00:25:27,960
+I think there's a certain
+
+302
+00:25:27,961 --> 00:25:33,649
+artistic movement in robotics to build some human-like robotics.
+
+303
+00:25:33,650 --> 00:25:35,960
+And certainly the ultimate
+
+304
+00:25:36,440 --> 00:25:42,020
+in robotics would be duplicating a human. In our work that's not necessary. We think
+
+305
+00:25:42,021 --> 00:25:49,520
+Humans can do good human things and our machines are designed to assist rather than replace the human individual.
+
+306
+00:25:50,520 --> 00:25:57,360
+In 1988, Whitaker co-founded a company called Red Zone to build robots for dangerous jobs.
+
+307
+00:25:58,860 --> 00:26:06,160
+Red Zone designers shape the robots for specific tasks and the machines often take strange and unusual forms.
+
+308
+00:26:06,161 --> 00:26:16,640
+Fury slithers inside underground storage chambers and uses powerful magnetic wheels to attach itself to the tank walls
+
+309
+00:26:16,641 --> 00:26:20,380
+It was intended for tank inspection
+
+310
+00:26:20,381 --> 00:26:25,980
+So that it could go in and actually inspect the inside of a tank without having to empty the tank
+
+311
+00:26:25,981 --> 00:26:28,320
+So that if a tank had fluid or liquid in it
+
+312
+00:26:28,321 --> 00:26:32,040
+It could actually be dropped and inspect for cracks, leaks, that type of thing
+
+313
+00:26:36,160 --> 00:26:43,160
+Houdini was created for cleaning radioactive sludge out of nuclear waste chambers.
+
+314
+00:26:43,161 --> 00:26:50,160
+Like its namesake, Houdini can crawl into places other robots can't.
+
+315
+00:26:54,160 --> 00:27:03,160
+For robots that will work inside tanks, inside pipes, inside mines and caves, there are two approaches.
+
+316
+00:27:03,161 --> 00:27:09,160
+One is to forcefully make openings large enough to enter.
+
+317
+00:27:09,161 --> 00:27:16,160
+The other is to collapse, become small enough to go through existing openings.
+
+318
+00:27:20,160 --> 00:27:24,160
+This particular robot folds like a parallelogram,
+
+319
+00:27:24,161 --> 00:27:29,160
+so it can go down a 22-inch diameter opening.
+
+320
+00:27:29,161 --> 00:27:34,160
+and that's typical of the kind of openings that were left in a lot of these nuclear waste tanks.
+
+321
+00:27:34,161 --> 00:27:39,160
+So as the bulldozer folds, it goes down in the tank, opens back up,
+
+322
+00:27:39,161 --> 00:27:45,160
+and then it can move waste around in the tank to the clean-out sumps and so forth.
+
+323
+00:27:49,160 --> 00:27:53,160
+Today, a new generation of the Houdini robot called Pioneer
+
+324
+00:27:53,161 --> 00:27:58,160
+is being developed and tested at Red Zone for use of the Chernobyl nuclear accident
+
+325
+00:27:58,161 --> 00:28:05,240
+accident in the Ukraine. The radiation levels at Chernobyl were so massive that
+
+326
+00:28:05,241 --> 00:28:09,280
+over 30 of the first humans to investigate it died within weeks or
+
+327
+00:28:09,281 --> 00:28:15,260
+months. Researchers learned quickly that if they weren't careful, extreme
+
+328
+00:28:15,261 --> 00:28:22,480
+radiation could spell death for robots too, by melting electronic wiring, fogging
+
+329
+00:28:22,481 --> 00:28:29,780
+camera lenses and destroying rubber treads.
+
+330
+00:28:29,781 --> 00:28:36,040
+Most field robots rely on wheels and tracks to navigate through perilous terrain.
+
+331
+00:28:36,041 --> 00:28:41,720
+But many jobs require another, more complex system of locomotion.
+
+332
+00:28:41,721 --> 00:28:49,380
+Perhaps a third of this world and maybe much more of other planets is inaccessible to the
+
+333
+00:28:49,381 --> 00:28:54,140
+traditional locomotors like wheels and tracks.
+
+334
+00:28:54,141 --> 00:28:58,780
+Legs, as manifested in nature, show incredible ability
+
+335
+00:28:58,781 --> 00:29:03,940
+to climb and maneuver, to scale near vertical walls.
+
+336
+00:29:03,941 --> 00:29:09,060
+And this motion can theoretically be done with efficiency
+
+337
+00:29:09,061 --> 00:29:14,820
+beyond that achievable with wheels and tracks.
+
+338
+00:29:14,821 --> 00:29:16,860
+Early experiments with legged movement
+
+339
+00:29:16,861 --> 00:29:19,200
+like General Electric's walking truck,
+
+340
+00:29:19,201 --> 00:29:23,360
+known as the elephant, found few uses and were incredibly expensive.
+
+341
+00:29:30,320 --> 00:29:34,440
+In the early 1980s, Ivan Sutherland built his walker.
+
+342
+00:29:36,640 --> 00:29:40,360
+The position of the six legs were controlled with microprocessors,
+
+343
+00:29:41,720 --> 00:29:46,540
+while an 18-horsepower engine propelled the robot at about 2 miles per hour.
+
+344
+00:29:46,541 --> 00:29:51,540
+Sutherland's design gathered valuable knowledge about balance and coordination.
+
+345
+00:29:51,541 --> 00:29:56,540
+Although the attempt was interesting, it was not very practical.
+
+346
+00:29:56,541 --> 00:30:04,540
+The answer to many of the problems facing walking robots came from California's Odetics Corporation
+
+347
+00:30:04,541 --> 00:30:07,540
+and their Odex-1 Functionoid.
+
+348
+00:30:07,541 --> 00:30:12,540
+It could navigate relatively flat surfaces with ease.
+
+349
+00:30:12,541 --> 00:30:13,503
+with ease.
+
+350
+00:30:13,504 --> 00:30:21,300
+It also had amazing balance, climbing ability, and strength, able to lift several
+
+351
+00:30:21,301 --> 00:30:28,404
+tons using its entire body, or up to 450 pounds with a single leg.
+
+352
+00:30:28,405 --> 00:30:30,880
+But independent thought
+
+353
+00:30:30,881 --> 00:30:36,137
+and outdoor navigation still eluded even this impressive robot.
+
+354
+00:30:36,138 --> 00:30:38,640
+Ambler was created at Carnegie
+
+355
+00:30:38,641 --> 00:30:45,760
+melon to be fully autonomous and take on tough terrain like large boulders and deep crevices.
+
+356
+00:30:47,520 --> 00:30:52,640
+Unlike animals or insects, Ambler could move any of its six legs independently.
+
+357
+00:30:54,560 --> 00:31:00,480
+The robot's vision and reasoning systems allotted to plan leg placements up to 1,000 moves ahead,
+
+358
+00:31:01,680 --> 00:31:03,760
+as if playing a masterful game of chess.
+
+359
+00:31:03,761 --> 00:31:08,760
+The first couple times we moved it, it was pretty scary.
+
+360
+00:31:08,761 --> 00:31:11,760
+It's almost like a building next to you is getting ready to shift.
+
+361
+00:31:11,761 --> 00:31:14,760
+Almost all of these things, when you first start them up,
+
+362
+00:31:14,761 --> 00:31:16,760
+you don't know what they're going to do,
+
+363
+00:31:16,761 --> 00:31:19,760
+so you sort of put them in a condition where they're not going to hurt anybody,
+
+364
+00:31:19,761 --> 00:31:20,760
+and you stand back.
+
+365
+00:31:28,760 --> 00:31:31,760
+But this much thought required a massive superstructure
+
+366
+00:31:31,761 --> 00:31:33,760
+weighing thousands of pounds.
+
+367
+00:31:35,760 --> 00:31:40,760
+Ambler was self-contained, self-reliant with everything on board.
+
+368
+00:31:41,760 --> 00:31:45,760
+Once the sensing came on board, once the computers came on board,
+
+369
+00:31:45,761 --> 00:31:47,760
+there was a need for power.
+
+370
+00:31:47,761 --> 00:31:49,760
+That increased the mass, that increased the scale,
+
+371
+00:31:49,761 --> 00:31:53,760
+and this was a problem that spiraled, feeding itself,
+
+372
+00:31:53,761 --> 00:31:56,760
+and the scale of Ambler is a result.
+
+373
+00:31:56,761 --> 00:32:04,760
+Ambler had been intended to explore Mars, but its monstrous size made that trip impossible.
+
+374
+00:32:04,761 --> 00:32:11,760
+Instead, Red Whitaker's team had to find new, dangerous territory on Earth for Ambler's
+
+375
+00:32:11,761 --> 00:32:12,760
+descendants.
+
+376
+00:32:12,761 --> 00:32:17,760
+The scientists chose the Mount Erebus volcano in Antarctica.
+
+377
+00:32:17,761 --> 00:32:23,760
+The robot to explore this uncharted hellhole was an eight-legged walker known as Dante.
+
+378
+00:32:23,761 --> 00:32:32,680
+The robot went through rigorous testing on the slag heap of an abandoned Pittsburgh steel mill
+
+379
+00:32:32,681 --> 00:32:36,760
+before making the 13,000 mile trip to the White Continent.
+
+380
+00:32:37,760 --> 00:32:43,700
+We deployed Dante onto the volcano in thousands of little pieces and parts
+
+381
+00:32:43,701 --> 00:32:49,400
+with a quarter million lines of fresh software, new sensors, new physical form.
+
+382
+00:32:49,401 --> 00:32:52,400
+intense at 10,000 feet.
+
+383
+00:32:52,401 --> 00:32:56,400
+We assembled it piece by piece, downloaded software,
+
+384
+00:32:56,401 --> 00:32:59,400
+brought it to life. I was amazed this thing walked.
+
+385
+00:33:02,400 --> 00:33:06,400
+In the end, it was ice rather than fire that killed Dante.
+
+386
+00:33:06,401 --> 00:33:10,400
+Wiring and circuitry intended to withstand the extreme heat
+
+387
+00:33:10,401 --> 00:33:14,400
+of an active volcano was unable to survive the severe cold
+
+388
+00:33:14,401 --> 00:33:16,400
+at the top of the mountain.
+
+389
+00:33:16,401 --> 00:33:19,400
+and Dante failed after only three steps.
+
+390
+00:33:22,400 --> 00:33:26,400
+The makers of Dante went back to the drawing board and redesigned their creation.
+
+391
+00:33:28,400 --> 00:33:35,400
+New leg configurations, joint placements and metals made Dante II's legs three times as strong as its predecessor.
+
+392
+00:33:38,400 --> 00:33:41,400
+Dante II was sent into Mount Spur, an Alaskan volcano.
+
+393
+00:33:41,401 --> 00:33:48,400
+volcano. Step by step it negotiated loose terrain and withstood a barrage of falling
+
+394
+00:33:48,401 --> 00:33:51,900
+rocks as it made its unprecedented descent.
+
+395
+00:33:51,901 --> 00:33:55,400
+Dante's sensors allowed researchers to take
+
+396
+00:33:55,401 --> 00:34:02,400
+seismic readings, view video images and even smell the chemical content of the air, all
+
+397
+00:34:02,401 --> 00:34:07,314
+from their command post in Anchorage over 200 miles away.
+
+398
+00:34:07,315 --> 00:34:09,900
+Eventually the extreme terrain
+
+399
+00:34:09,901 --> 00:34:16,900
+in high winds combined to tip over Dante II, and the robot had to be airlifted to safety.
+
+400
+00:34:20,900 --> 00:34:25,820
+Red Whitaker and his field robots team have helped build an industry for robots that step
+
+401
+00:34:25,821 --> 00:34:28,575
+in when our own technology backfires.
+
+402
+00:34:28,576 --> 00:34:32,820
+They've gone into nuclear reactors and noxious volcanoes.
+
+403
+00:34:32,821 --> 00:34:39,820
+But other scientists are dealing with a subject even more daunting, rush hour traffic.
+
+404
+00:34:45,820 --> 00:34:47,820
+Now this is...
+
+405
+00:34:47,821 --> 00:34:50,820
+On Modern Marvel's Boys Toys Week tonight.
+
+406
+00:34:50,821 --> 00:34:55,820
+We now return to robots on Modern Marvel's.
+
+407
+00:34:55,821 --> 00:35:02,820
+Like an infant learning to walk, robots had taken their first awkward steps.
+
+408
+00:35:02,821 --> 00:35:05,820
+But like a teenager learning to drive,
+
+409
+00:35:05,821 --> 00:35:11,820
+true freedom would only come once robots could travel great distances on their own.
+
+410
+00:35:11,821 --> 00:35:18,820
+In 1979, Hans Moravec brought the knowledge from his Stanford cart to Pittsburgh
+
+411
+00:35:18,821 --> 00:35:23,820
+and joined forces with a team from Carnegie Mellon University to create mobile robots.
+
+412
+00:35:23,821 --> 00:35:27,780
+robots.
+
+413
+00:35:27,781 --> 00:35:32,420
+Carnegie Mellon researchers had been working on their own cart called the Intelligent Mobile
+
+414
+00:35:32,421 --> 00:35:36,480
+Platform, or IMP.
+
+415
+00:35:36,481 --> 00:35:41,440
+This hallway navigator borrowed autofocus sonar technology from Polaroid cameras to
+
+416
+00:35:41,441 --> 00:35:44,140
+map its world.
+
+417
+00:35:44,141 --> 00:35:50,060
+It scanned its environment as a lighthouse would, but sonar proved to have severe limitations.
+
+418
+00:35:50,061 --> 00:35:54,740
+It can't see very far away. It has a problem if you have a smooth surface,
+
+419
+00:35:54,880 --> 00:35:58,040
+the sonar just hits the smooth surface and bounces and never comes back.
+
+420
+00:35:58,720 --> 00:36:03,200
+And so you may think that there's nothing there when in fact there's a nice smooth wall.
+
+421
+00:36:05,320 --> 00:36:08,880
+Moravik's next project with the Carnegie Mellon team, called Uranus,
+
+422
+00:36:09,580 --> 00:36:14,040
+used specially designed wheels to overcome some troublesome technical issues.
+
+423
+00:36:14,041 --> 00:36:21,040
+Uranus exhibits that unique ability to move instantaneously in all directions,
+
+424
+00:36:21,041 --> 00:36:25,040
+not just like we drive a car, but also to move laterally, spin on a dime,
+
+425
+00:36:25,041 --> 00:36:28,040
+or to pirouette so it could turn while moving.
+
+426
+00:36:28,041 --> 00:36:31,040
+And we couldn't solve the parallel parking problem,
+
+427
+00:36:31,041 --> 00:36:34,040
+so we made machines that could move like chess pieces
+
+428
+00:36:34,041 --> 00:36:38,040
+that could execute the kind of simple plans and models that we could create.
+
+429
+00:36:39,040 --> 00:36:43,040
+With the advent of microcomputers in the mid-1980s,
+
+430
+00:36:43,041 --> 00:36:47,460
+Scientists dreamed of finally creating a fully autonomous mobile robot.
+
+431
+00:36:48,460 --> 00:36:50,740
+But even using state-of-the-art technology,
+
+432
+00:36:51,760 --> 00:36:55,480
+they required a specially rigged truck dubbed the NavLab 1.
+
+433
+00:36:59,300 --> 00:37:04,640
+The robot vehicle needed a separate four-cylinder engine to power four computer workstations,
+
+434
+00:37:05,360 --> 00:37:10,680
+a supercomputer, its vision systems, and an air conditioner.
+
+435
+00:37:10,681 --> 00:37:17,680
+Graduate students sat in the back to control the equipment, but the big truck was driving on its own.
+
+436
+00:37:17,681 --> 00:37:26,680
+Originally, few people believed that NavLab would ever travel over five miles an hour and then be able to stop.
+
+437
+00:37:26,681 --> 00:37:31,680
+The NavLab 1 typically ran at about a walking speed.
+
+438
+00:37:31,681 --> 00:37:37,680
+In fact, my son was born at the same time that we built the NavLab 1, and we had a contest.
+
+439
+00:37:37,681 --> 00:37:41,360
+that when he was crawling, it was moving at a crawling speed.
+
+440
+00:37:41,900 --> 00:37:44,600
+When he learned how to walk, it was moving at a walking speed.
+
+441
+00:37:44,960 --> 00:37:48,260
+When he learned how to run, it was moving at about a running speed.
+
+442
+00:37:48,840 --> 00:37:53,580
+He finally got a bicycle, and then the NavLab 1 was moving at about the speed he could ride his bicycle.
+
+443
+00:37:56,360 --> 00:37:59,080
+NavLab ultimately exceeded 20 miles per hour,
+
+444
+00:37:59,400 --> 00:38:05,080
+but children on bicycles were just the kind of object that its vision system had difficulty handling.
+
+445
+00:38:05,081 --> 00:38:11,760
+Navlab was equipped with stereo video cameras and a laser rangefinder, but it still had
+
+446
+00:38:11,761 --> 00:38:18,160
+great difficulty telling the difference between changes in terrain.
+
+447
+00:38:18,161 --> 00:38:24,720
+The blue truck was replaced with Navlab 2, a US Army Humvee fitted with an impressive
+
+448
+00:38:24,721 --> 00:38:30,880
+new vision system known as Alvin.
+
+449
+00:38:30,881 --> 00:38:34,580
+Alvin is what is called a neural network program.
+
+450
+00:38:34,581 --> 00:38:39,000
+It's actually capable of learning to drive.
+
+451
+00:38:39,001 --> 00:38:44,760
+Alvin is shown the road through a video camera while a person does the driving.
+
+452
+00:38:44,761 --> 00:38:47,820
+After about five minutes of this learning process,
+
+453
+00:38:47,821 --> 00:38:53,520
+Alvin takes over and continues driving on its own.
+
+454
+00:38:53,521 --> 00:38:59,760
+Navlab 2 eventually reached driving speeds of 55 miles per hour.
+
+455
+00:38:59,761 --> 00:39:05,760
+Then in 1995, the Nav Lab team decided to try a new streamlined approach with their robot vehicles.
+
+456
+00:39:06,760 --> 00:39:16,060
+We said, look, rather than putting all the processing power and all the electrical power on board that we think we might possibly need, let's go the other direction.
+
+457
+00:39:16,560 --> 00:39:25,120
+Let's figure out how much power is available just through the cigarette lighter, and let's limit our processing to whatever we can get off of the vehicle as unmodified.
+
+458
+00:39:25,121 --> 00:39:33,480
+Navlab 5 was a stock minivan complete with laptop computer and multiple television cameras
+
+459
+00:39:33,481 --> 00:39:36,703
+for front, side, and rear vision.
+
+460
+00:39:36,704 --> 00:39:41,880
+Alvin was replaced by a more sophisticated neural net
+
+461
+00:39:41,881 --> 00:39:48,495
+system, RALF, which could handle lane changes and heavier traffic.
+
+462
+00:39:48,496 --> 00:39:50,800
+In 1996, Thorpe and his
+
+463
+00:39:50,801 --> 00:39:54,800
+sent Navlab 5 on the No Hands Across America Drive,
+
+464
+00:39:54,801 --> 00:39:58,800
+in which it made its way from Washington, D.C. to California.
+
+465
+00:39:58,801 --> 00:40:04,800
+Ralph did the driving during 98.2% of the trip.
+
+466
+00:40:04,801 --> 00:40:10,800
+The newest Navlabs have reached a point where the distinctions between robot and car have all but disappeared.
+
+467
+00:40:10,801 --> 00:40:16,800
+The computers, radar and cameras are now virtually undetectable.
+
+468
+00:40:16,801 --> 00:40:21,040
+and detectable. And that, Chuck Thorpe believes, is the whole point.
+
+469
+00:40:22,740 --> 00:40:27,860
+Oh, if you take it to show it to my son's sixth grade class, they're disappointed because it doesn't look so impressive.
+
+470
+00:40:28,620 --> 00:40:34,180
+But that's really the idea, that computers are disappearing, the robotic stuff is disappearing.
+
+471
+00:40:34,660 --> 00:40:38,180
+It's more and more of a comfortable environment that just feels like a car,
+
+472
+00:40:38,500 --> 00:40:43,620
+a very smart car that can help you drive, but very much a familiar environment to be driving.
+
+473
+00:40:46,800 --> 00:40:51,680
+The same technology that drives NavLab has also been employed by other industries,
+
+474
+00:40:52,220 --> 00:40:53,860
+such as earthmoving and farming.
+
+475
+00:40:55,660 --> 00:40:59,620
+Some tractors can now distinguish between cut and uncut crops
+
+476
+00:40:59,621 --> 00:41:02,060
+and plow entire fields without an operator.
+
+477
+00:41:05,720 --> 00:41:11,060
+And one day soon, unmanned helicopters will be able to perform search and rescue missions
+
+478
+00:41:11,061 --> 00:41:13,280
+more efficiently than humans ever could.
+
+479
+00:41:16,800 --> 00:41:25,800
+But the ultimate goal of the Nav Lab project was not just exploration of our own atmosphere.
+
+480
+00:41:25,801 --> 00:41:31,800
+A planetary rover called Nomad also used the technology.
+
+481
+00:41:31,801 --> 00:41:39,800
+The Chilean Atacama Desert, the driest on Earth, was chosen to test the new robot because
+
+482
+00:41:39,801 --> 00:41:43,800
+of its resemblance to the Martian surface.
+
+483
+00:41:43,801 --> 00:41:48,800
+Nomad was designed to operate autonomously for long periods,
+
+484
+00:41:48,801 --> 00:41:51,800
+navigate through unfamiliar territory,
+
+485
+00:41:51,801 --> 00:41:55,800
+and identify meteorites and other rock samples.
+
+486
+00:41:55,801 --> 00:41:58,800
+The robot vehicle plotted its own course
+
+487
+00:41:58,801 --> 00:42:02,800
+for the majority of its six weeks in the desert.
+
+488
+00:42:02,801 --> 00:42:04,800
+When it was given directions,
+
+489
+00:42:04,801 --> 00:42:07,800
+they often came from classrooms halfway around the world
+
+490
+00:42:07,801 --> 00:42:12,800
+that were set up to communicate with the robot.
+
+491
+00:42:12,801 --> 00:42:19,800
+Nomad was intended to operate in much the same way as NASA's Pathfinder, designed by the Jet Propulsion Laboratory.
+
+492
+00:42:20,800 --> 00:42:28,800
+Pathfinder sent back startling images from the Red Planet and spawned a new generation's interest in space exploration and robots.
+
+493
+00:42:31,800 --> 00:42:36,800
+The application of robotics in medicine is a rapidly evolving area.
+
+494
+00:42:36,801 --> 00:42:40,800
+Work has been done on robotic diagnosis and robotic radio and laser therapy.
+
+495
+00:42:40,801 --> 00:42:42,800
+laser therapy. Modern Marvels
+
+496
+00:42:42,801 --> 00:42:43,860
+will continue in a moment.
+
+497
+00:42:45,480 --> 00:42:46,680
+Carmen Electra hosts
+
+498
+00:42:46,681 --> 00:42:48,720
+Howard Hughes Tech on Modern Marvels
+
+499
+00:42:48,721 --> 00:42:49,880
+Boys Toys Week tonight.
+
+500
+00:42:51,000 --> 00:42:52,600
+Now on home video from
+
+501
+00:42:52,601 --> 00:42:54,760
+the History Channel. Own your copy of this
+
+502
+00:42:54,761 --> 00:42:56,680
+program delivered directly to you for
+
+503
+00:42:56,681 --> 00:42:58,680
+just $29.95 plus shipping
+
+504
+00:42:58,681 --> 00:43:00,080
+and handling. To order, call
+
+505
+00:43:00,081 --> 00:43:02,640
+1-800-708-1776
+
+506
+00:43:02,641 --> 00:43:04,680
+or shop historychannel.com.
+
+507
+00:43:06,280 --> 00:43:06,980
+Tech Thursday
+
+508
+00:43:06,981 --> 00:43:08,560
+is brought to you in part by
+
+509
+00:43:08,561 --> 00:43:09,480
+Fox Home Video.
+
+510
+00:43:10,800 --> 00:43:13,980
+This Tuesday, a murder only he can solve.
+
+511
+00:43:14,080 --> 00:43:14,780
+My robot.
+
+512
+00:43:14,940 --> 00:43:17,220
+And Lipitor has proven benefits for your heart.
+
+513
+00:43:17,760 --> 00:43:22,860
+Lipitor is not for everyone, including people with liver problems and women who are nursing, pregnant, or may become pregnant.
+
+514
+00:43:23,140 --> 00:43:25,400
+Simple blood tests are needed to check for liver problems.
+
+515
+00:43:25,401 --> 00:43:31,900
+Tell your doctor about other medications you are taking or if you experience muscle pain or weakness as they may be a sign of a serious side effect.
+
+516
+00:43:32,520 --> 00:43:33,760
+So take the next step.
+
+517
+00:43:34,000 --> 00:43:36,200
+Ask your doctor about the benefits of Lipitor.
+
+518
+00:43:38,260 --> 00:43:39,340
+It's not your job.
+
+519
+00:43:39,600 --> 00:43:40,580
+It's not your laugh.
+
+520
+00:43:40,581 --> 00:43:41,680
+It's not your hair.
+
+521
+00:43:42,060 --> 00:43:42,940
+It's not your shoes.
+
+522
+00:43:43,200 --> 00:43:44,040
+It's not your car.
+
+523
+00:43:44,180 --> 00:43:47,760
+You can tell more about a person by the watch they wear than anything else.
+
+524
+00:43:48,100 --> 00:43:49,060
+Seiko Kinetic.
+
+525
+00:43:49,320 --> 00:43:51,280
+Powered by the movement of your body.
+
+526
+00:43:51,520 --> 00:43:52,220
+It's your watch.
+
+527
+00:43:52,360 --> 00:43:55,940
+Some people believe there's a carpentry gene, and I think I got it.
+
+528
+00:43:56,200 --> 00:43:58,020
+Hanging things, I'm a little hit or miss on.
+
+529
+00:43:58,240 --> 00:44:00,560
+But with the Black & Decker bullseye, it's foolproof.
+
+530
+00:44:00,720 --> 00:44:04,040
+I just find a stud, hang it on the wall, and it self-levels.
+
+531
+00:44:04,120 --> 00:44:05,240
+Gives you a straight line every time.
+
+532
+00:44:05,360 --> 00:44:07,020
+The bullseye from Black & Decker.
+
+533
+00:44:07,021 --> 00:44:10,140
+My goals, things are the oldest.
+
+534
+00:44:10,141 --> 00:44:12,460
+Howie, Sirius Satellite Radio is great.
+
+535
+00:44:12,680 --> 00:44:13,380
+Yeah, Terry.
+
+536
+00:44:13,381 --> 00:44:14,420
+We got all these different channels.
+
+537
+00:44:14,600 --> 00:44:17,000
+Country, rock, even your favorite, rap.
+
+538
+00:44:18,460 --> 00:44:21,120
+Sirius Digital Quality Sound coming through.
+
+539
+00:44:21,460 --> 00:44:22,860
+Just like me in the playoffs.
+
+540
+00:44:23,280 --> 00:44:27,340
+Hurry into Radio Shack now and save $50 on Sirius Satellite Radio after rebates
+
+541
+00:44:27,341 --> 00:44:29,660
+when you buy a receiver and home or car docking station
+
+542
+00:44:29,661 --> 00:44:31,340
+and subscribe to three months of service.
+
+543
+00:44:31,560 --> 00:44:34,040
+I could use a commercial break right now.
+
+544
+00:44:34,460 --> 00:44:36,480
+Sirius Satellite Radio at Radio Shack.
+
+545
+00:44:36,520 --> 00:44:37,220
+Thank you very much.
+
+546
+00:44:37,221 --> 00:44:40,660
+Start cleaning with HGTV's Mission Organization.
+
+547
+00:44:41,040 --> 00:44:44,000
+It's packed with practical advice to get you organized.
+
+548
+00:44:44,200 --> 00:44:45,680
+Wow, you did all this today?
+
+549
+00:44:45,900 --> 00:44:50,720
+So clear out the clutter, label the litter, break out the garbage bags, and throw stuff out.
+
+550
+00:44:50,880 --> 00:44:52,720
+It was either the garage or Bob.
+
+551
+00:44:52,900 --> 00:44:56,800
+Mission Organization, Wednesday nights at 930 on HGTV.
+
+552
+00:44:57,320 --> 00:45:01,420
+Let Closet Factory, your custom storage solution authority, help you clear the clutter.
+
+553
+00:45:01,421 --> 00:45:07,100
+Call Closet Factory at 1-800-667-3496 for your free design consultation.
+
+554
+00:45:12,300 --> 00:45:14,920
+The all-new Jeep Grand Cherokee.
+
+555
+00:45:15,780 --> 00:45:19,840
+With QuadraDrive II, our most advanced four-wheel drive system ever,
+
+556
+00:45:20,420 --> 00:45:25,100
+a 5.7-liter Hemi V8, and our new electronic stability program.
+
+557
+00:45:26,060 --> 00:45:28,340
+The off-road legend continues.
+
+558
+00:45:29,140 --> 00:45:29,840
+On-road.
+
+559
+00:45:29,841 --> 00:45:33,320
+Now, during the cheap year-end sales drive,
+
+560
+00:45:33,420 --> 00:45:36,460
+get a combined cash allowance of $2,000 on Grand Cherokee.
+
+561
+00:45:36,720 --> 00:45:38,140
+Hurry ends January 3rd.
+
+562
+00:45:38,400 --> 00:45:39,380
+It's a boy's toy.
+
+563
+00:45:39,520 --> 00:45:41,000
+Great, let's shoot this. Action.
+
+564
+00:45:41,440 --> 00:45:42,200
+Oh, yeah.
+
+565
+00:45:42,320 --> 00:45:43,020
+Awesome!
+
+566
+00:45:43,580 --> 00:45:44,280
+Vroom.
+
+567
+00:45:44,600 --> 00:45:48,160
+Modern Marvel's Boy's Toys Week with host Carmen Electra.
+
+568
+00:45:48,800 --> 00:45:50,520
+All this week on the History Channel.
+
+569
+00:45:53,320 --> 00:45:56,820
+We now return to robots on Modern Marvels.
+
+570
+00:45:59,760 --> 00:46:06,760
+The evolution of robots has transformed them from primitive experiments into remarkably capable machines.
+
+571
+00:46:07,760 --> 00:46:16,760
+Today, even a child's robotic toy possesses more power and functionality than the most advanced robot of 50 years ago.
+
+572
+00:46:17,760 --> 00:46:23,760
+But as impressive as they've become, one element is still clearly lacking.
+
+573
+00:46:24,760 --> 00:46:28,760
+Most successful robots don't look anything like the robots of our fantasies.
+
+574
+00:46:29,760 --> 00:46:39,140
+Whatever became of our original vision stated so many centuries ago, to create a machine
+
+575
+00:46:39,141 --> 00:46:44,480
+in our own image, to be our dutiful servant.
+
+576
+00:46:44,481 --> 00:46:50,700
+In the early 1980s, Nolan Bushnell, founder of Atari and inventor of the first video games,
+
+577
+00:46:50,701 --> 00:46:57,540
+founded Androbot, a company dedicated to putting an intelligent robot in every home.
+
+578
+00:46:57,541 --> 00:47:01,460
+The basic Androbot model was named Topo.
+
+579
+00:47:01,461 --> 00:47:06,740
+This robot was designed to be remotely controlled by your personal computer.
+
+580
+00:47:06,741 --> 00:47:11,940
+Topo was programmed to sing, dance and deliver witticisms, but it wouldn't know where to
+
+581
+00:47:11,941 --> 00:47:14,560
+start dusting the furniture.
+
+582
+00:47:14,561 --> 00:47:18,540
+In fact it was unable to distinguish its master from the furniture.
+
+583
+00:47:18,541 --> 00:47:24,640
+However, the top of the line Androbot was endowed with far more intelligence and autonomy.
+
+584
+00:47:24,641 --> 00:47:25,940
+It was known as Bob.
+
+585
+00:47:25,941 --> 00:47:27,940
+Hi, folks.
+
+586
+00:47:27,941 --> 00:47:32,940
+Bob was the Cadillac, the starship.
+
+587
+00:47:32,941 --> 00:47:36,940
+This was meant to be the be-all and end-all robot.
+
+588
+00:47:36,941 --> 00:47:39,940
+Brains on board is what it stood for.
+
+589
+00:47:39,941 --> 00:47:46,940
+It had multiple processors, a cool operating system, and censored to the hilt.
+
+590
+00:47:46,941 --> 00:47:49,940
+Bob was completely self-contained.
+
+591
+00:47:49,941 --> 00:47:53,780
+It was equipped with dual reprogrammable computers,
+
+592
+00:47:53,781 --> 00:47:58,040
+infrared sensors to detect and recognize human beings,
+
+593
+00:47:58,041 --> 00:48:01,840
+ultrasonic sensors to navigate through the house,
+
+594
+00:48:01,841 --> 00:48:05,180
+as well as speech and voice recognition.
+
+595
+00:48:05,181 --> 00:48:08,180
+Your humble servant.
+
+596
+00:48:08,181 --> 00:48:12,180
+Bob, get me a beer.
+
+597
+00:48:12,181 --> 00:48:19,180
+What Bob would do would be a somewhat more amusing computer.
+
+598
+00:48:19,181 --> 00:48:21,800
+amusing companion than a dog or a cat.
+
+599
+00:48:21,801 --> 00:48:25,800
+Then you can go into what I'd call basic fetch activities.
+
+600
+00:48:26,300 --> 00:48:30,880
+Bring me a Coke, bring me my newspaper, bring me my slippers, that sort of thing.
+
+601
+00:48:42,160 --> 00:48:47,020
+Prices for Androbot robots range from about $700 to $2,000.
+
+602
+00:48:49,180 --> 00:48:57,640
+Despite glowing early projections, lack of funding and the limitations of 1980s technology forced Androbot out of business.
+
+603
+00:49:03,000 --> 00:49:09,620
+However, today Joe Engelberger has re-emerged on the scene with a new service robot known as Helpmate,
+
+604
+00:49:10,020 --> 00:49:12,200
+which is now being tested in hospitals.
+
+605
+00:49:13,640 --> 00:49:17,740
+The Helpmate delivers meals and medicines in more than a dozen U.S. hospitals,
+
+606
+00:49:17,741 --> 00:49:20,780
+allowing personnel to spend more time with patients.
+
+607
+00:49:22,300 --> 00:49:26,620
+The helpmate has learned to negotiate its way through the use of an array of infrared sensors.
+
+608
+00:49:30,920 --> 00:49:33,000
+It can even call elevators.
+
+609
+00:49:33,800 --> 00:49:35,100
+Please stand clear.
+
+610
+00:49:39,860 --> 00:49:41,900
+And knows when it's time to recharge.
+
+611
+00:49:43,840 --> 00:49:47,320
+My battery is low. Please call the operator.
+
+612
+00:49:47,740 --> 00:49:50,780
+I am about to move.
+
+613
+00:49:51,480 --> 00:49:55,000
+Engelberger also manufactures the aptly name ScrubMate.
+
+614
+00:50:00,400 --> 00:50:03,460
+Engelberger sees a bright future for service robots,
+
+615
+00:50:03,700 --> 00:50:07,020
+which he appropriately quantifies in automotive terms.
+
+616
+00:50:08,380 --> 00:50:10,560
+Certainly in less than 50 years,
+
+617
+00:50:10,561 --> 00:50:15,320
+there will be household robots just as likely as Cadillacs.
+
+618
+00:50:15,321 --> 00:50:18,180
+probably not as likely as Chevrolets.
+
+619
+00:50:19,180 --> 00:50:23,040
+These personal service robots rely on artificial intelligence,
+
+620
+00:50:23,340 --> 00:50:26,000
+but also artificial personality.
+
+621
+00:50:28,080 --> 00:50:31,700
+They are not required to look exactly like a human being.
+
+622
+00:50:32,900 --> 00:50:38,100
+Do you want it to have personality, or do you want it to vacuum the floor?
+
+623
+00:50:38,740 --> 00:50:43,040
+If it's a function bot, humanoid is less important.
+
+624
+00:50:43,041 --> 00:50:49,760
+if it's a entertainment bot or a pet bot or some of those things,
+
+625
+00:50:50,400 --> 00:50:51,720
+it has to be cute.
+
+626
+00:50:52,100 --> 00:50:54,940
+It doesn't necessarily need to be anthropomorphic, but it needs to be cute.
+
+627
+00:50:55,480 --> 00:51:00,680
+In the entertainment industry, it is critical for robots to look as lifelike as possible.
+
+628
+00:51:03,520 --> 00:51:09,200
+Companies like AVG in California create lifelike replicas of man and beast
+
+629
+00:51:09,201 --> 00:51:11,720
+for amusement parks and museums around the world.
+
+630
+00:51:13,040 --> 00:51:19,040
+Creatures from dragons to dinosaurs achieve an alarmingly high level of realism.
+
+631
+00:51:19,041 --> 00:51:26,040
+But in order to sell the illusion, designers go to great lengths to replicate human form and action.
+
+632
+00:51:28,040 --> 00:51:32,040
+Skin is created using specially formulated silicon rubber.
+
+633
+00:51:34,040 --> 00:51:39,040
+A key step is to carefully synchronize the pre-recorded voice to the robot.
+
+634
+00:51:39,041 --> 00:51:49,760
+I think I know now what they mean by the expression, if looks could kill.
+
+635
+00:51:49,761 --> 00:51:54,240
+You actually synchronize the soundtrack with the computer.
+
+636
+00:51:54,241 --> 00:51:55,680
+They enslave each other.
+
+637
+00:51:55,681 --> 00:51:57,620
+So they always work together.
+
+638
+00:51:57,621 --> 00:52:00,680
+And then you start putting layers on top.
+
+639
+00:52:00,681 --> 00:52:05,080
+You start maybe with the mouth, synchronizing the mouth to the soundtrack.
+
+640
+00:52:05,081 --> 00:52:10,580
+Then you start adding facial expressions, blinking, then you start adding the head,
+
+641
+00:52:10,581 --> 00:52:11,880
+turning the eyes.
+
+642
+00:52:11,881 --> 00:52:17,080
+You always have to make sure that the eyes are leading the head.
+
+643
+00:52:17,081 --> 00:52:19,580
+Otherwise it would look really robotics.
+
+644
+00:52:19,581 --> 00:52:22,980
+To make something believable, you have to make sure that all the movement have the right
+
+645
+00:52:22,981 --> 00:52:26,400
+sequence to look alive.
+
+646
+00:52:26,401 --> 00:52:30,540
+Most of these robots are powered with pneumatics, air pressure.
+
+647
+00:52:30,541 --> 00:52:32,860
+Others use hydraulics.
+
+648
+00:52:32,861 --> 00:52:38,060
+running through hydraulic lines creates fluid movement but can quickly destroy the illusion
+
+649
+00:52:39,580 --> 00:52:44,540
+hydraulics is the best quality movement but it has maintenance problems where you if you
+
+650
+00:52:44,541 --> 00:52:50,700
+lose a hydraulic line you ruin thousands of dollars in cosmetics treatment because the
+
+651
+00:52:50,701 --> 00:52:53,900
+oil is start leaking all over the place and sometimes it looks very gross
+
+652
+00:52:56,380 --> 00:53:00,860
+sarkos entertainment in utah also builds lifelike creatures for theme parks and museums
+
+653
+00:53:00,861 --> 00:53:09,860
+Their Sarcoman achieves his remarkably realistic movement through teleoperation or can be computer controlled.
+
+654
+00:53:12,860 --> 00:53:16,860
+But despite their appearance, most entertainment robots are not very smart.
+
+655
+00:53:17,860 --> 00:53:20,860
+They're really just highly sophisticated automatons.
+
+656
+00:53:20,861 --> 00:53:27,860
+But what if their realistic features were combined with advanced artificial intelligence
+
+657
+00:53:27,861 --> 00:53:33,860
+and dexterous industrial robot arms and mobile field robotic legs?
+
+658
+00:53:33,861 --> 00:53:40,860
+How possible is the creation of an android, a true artificial human being?
+
+659
+00:53:40,861 --> 00:53:44,860
+The comparisons are always very, very difficult.
+
+660
+00:53:44,861 --> 00:53:47,860
+I mean, we know what the robot is supposed to be. It's supposed to be me.
+
+661
+00:53:47,861 --> 00:53:55,625
+me. And so very few new technologies have that comparison problem.
+
+662
+00:53:55,626 --> 00:53:57,860
+Usually a prototype
+
+663
+00:53:57,861 --> 00:54:03,388
+is the first of its kind forever and so it's as good as it gets. Wow, that's neat.
+
+664
+00:54:03,389 --> 00:54:04,089
+Whereas
+
+665
+00:54:04,090 --> 00:54:06,860
+the robot compared to the human being is always lacking.
+
+666
+00:54:06,861 --> 00:54:14,860
+One of the most advanced attempts is the Honda Human, a top secret 10 year project that put
+
+667
+00:54:14,861 --> 00:54:17,860
+to put brains in an amazingly realistic body.
+
+668
+00:54:22,820 --> 00:54:24,660
+It does things that until recently
+
+669
+00:54:24,661 --> 00:54:28,440
+the most ambitious roboticists thought impossible.
+
+670
+00:54:28,441 --> 00:54:31,580
+Not only can it move upright on two legs,
+
+671
+00:54:31,581 --> 00:54:34,360
+it can also negotiate a set of stairs on its own.
+
+672
+00:54:35,700 --> 00:54:38,860
+It sees through two eyes inside the helmet
+
+673
+00:54:38,861 --> 00:54:41,460
+and carries its brains and battery on its back.
+
+674
+00:54:44,860 --> 00:54:55,420
+In another decade, Honda intends to bring its human out onto the factory floor to work
+
+675
+00:54:55,421 --> 00:55:01,940
+alongside human beings who will control it by simple voice commands.
+
+676
+00:55:01,941 --> 00:55:10,020
+While Japan leads the way in building robot bodies, the Artificial Intelligence Lab at
+
+677
+00:55:10,021 --> 00:55:14,020
+MIT is making serious headway in building smarter brains.
+
+678
+00:55:14,021 --> 00:55:21,520
+Here, they built COG, a humanoid robot who is the logical heir to the cybernetic tradition
+
+679
+00:55:21,521 --> 00:55:23,520
+of the 1950s.
+
+680
+00:55:23,521 --> 00:55:31,400
+A robot designed to learn through its interaction with humans in the world.
+
+681
+00:55:31,401 --> 00:55:34,920
+In order to act intelligently, there's a lot of things you have to know about the world.
+
+682
+00:55:34,921 --> 00:55:39,020
+And one approach is to try and tell an artificial intelligence program everything.
+
+683
+00:55:39,021 --> 00:55:41,672
+it out in great detail and tell it all the facts.
+
+684
+00:55:41,673 --> 00:55:43,620
+By building a robot, we're trying to
+
+685
+00:55:43,621 --> 00:55:47,780
+build a system which can act in the world, interact with people, and learn for itself.
+
+686
+00:55:47,980 --> 00:55:53,660
+And our hope is that that will lead to a quicker accumulation of the sort of knowledge of what
+
+687
+00:55:53,661 --> 00:55:58,000
+it is to act in the world so that we can have true artificial intelligence.
+
+688
+00:55:59,100 --> 00:56:01,946
+COG is its own laboratory of machine learning.
+
+689
+00:56:01,947 --> 00:56:05,040
+Like a child, it builds up knowledge by experience
+
+690
+00:56:05,041 --> 00:56:10,160
+and experimentation, eventually in the distant future, developing adult intelligence.
+
+691
+00:56:11,900 --> 00:56:15,900
+Cog looks human because Brooks believes that to gain human intelligence,
+
+692
+00:56:16,460 --> 00:56:20,060
+a robot must experience the world in a similar physical way.
+
+693
+00:56:21,180 --> 00:56:25,000
+A lot of us have seen Star Trek, the next generation with Commander Data,
+
+694
+00:56:25,001 --> 00:56:30,000
+the android robot which is very human-like, except he doesn't quite have emotions.
+
+695
+00:56:31,160 --> 00:56:32,160
+That's our ultimate goal.
+
+696
+00:56:32,161 --> 00:56:35,520
+We're trying to figure out how to build a robot that is that capable.
+
+697
+00:56:35,900 --> 00:56:37,440
+It's going to take a long, long time.
+
+698
+00:56:37,740 --> 00:56:39,660
+It may take longer than 400 years.
+
+699
+00:56:40,020 --> 00:56:42,200
+This is some of the first steps towards that goal.
+
+700
+00:56:43,560 --> 00:56:47,820
+Basing his predictions on the exponential increase in computer processing power,
+
+701
+00:56:48,060 --> 00:56:49,680
+which doubles every 18 months,
+
+702
+00:56:50,380 --> 00:56:55,180
+Hans Moravec believes robots will make a great revolutionary step every 10 years.
+
+703
+00:56:58,020 --> 00:57:00,700
+First, they will achieve the intelligence of a lizard,
+
+704
+00:57:00,701 --> 00:57:04,440
+then a mouse, then a monkey.
+
+705
+00:57:05,960 --> 00:57:08,580
+And the fourth generation robot is human-like,
+
+706
+00:57:09,800 --> 00:57:13,760
+and I expect those perhaps around 2040.
+
+707
+00:57:15,220 --> 00:57:17,160
+At that point, we're pretty much out of work
+
+708
+00:57:17,161 --> 00:57:21,380
+because the robots can do everything we can do better and cheaper.
+
+709
+00:57:23,140 --> 00:57:26,480
+Undoubtedly, we will someday fulfill the science fiction vision
+
+710
+00:57:26,481 --> 00:57:28,360
+of intelligent humanoid robots.
+
+711
+00:57:28,361 --> 00:57:32,420
+whether it be in 40 years or 400.
+
+712
+00:57:33,940 --> 00:57:38,800
+But as fantasy and reality merge, one question remains unanswered.
+
+713
+00:57:39,700 --> 00:57:41,200
+Who will be calling the shots?
+
+714
+00:57:41,880 --> 00:57:42,800
+Will it be us?
+
+715
+00:57:43,660 --> 00:57:45,240
+Or will it be the robots?
+
+716
+00:57:48,240 --> 00:57:50,700
+So what you're going to do is you're going to read the engine like this.
+
+717
+00:57:52,700 --> 00:57:57,280
+I think the throttle's over here and it goes like this.
+
+718
+00:57:58,360 --> 00:58:00,580
+Vroom. Vroom.
+
+719
+00:58:01,420 --> 00:58:02,420
+You know, kind of like that.
+
+720
+00:58:02,680 --> 00:58:05,920
+Modern Marvel's Boys Toys Week with host Carmen Electra.
+
+721
+00:58:06,120 --> 00:58:07,800
+All this week on the History Channel.
+
+722
+00:58:13,440 --> 00:58:16,260
+...appear to respond like simple animals
+
+723
+00:58:16,261 --> 00:58:22,120
+and learn just by reacting to a variety of basic stimuli, such as light.
+
+724
+00:58:22,121 --> 00:58:30,420
+independently of wiener british neurophysiologist gray walter created the famous cybernetic turtles
+
+725
+00:58:30,421 --> 00:58:37,140
+in the late 1940s these robots experienced the world with phototubes microphones and contact
+
+726
+00:58:37,141 --> 00:58:45,420
+switches and could navigate through the environment one of the most impressive of all cybernetic
+
+727
+00:58:45,421 --> 00:58:51,900
+animals was known as the beast it was built in the early 60s at johns hopkins university's
+
+728
+00:58:51,901 --> 00:58:54,900
+Applied Physics Lab.
+
+729
+00:58:54,901 --> 00:58:59,500
+The environment in which this vehicle is to live is that of the halls of the Applied
+
+730
+00:58:59,501 --> 00:59:02,020
+Physics Laboratory.
+
+731
+00:59:02,021 --> 00:59:07,020
+There it must cope with the various obstructions around the wall while seeking out sufficient
+
+732
+00:59:07,021 --> 00:59:11,980
+power outlets from which to keep the battery charged which are located in the lower part
+
+733
+00:59:11,981 --> 00:59:15,740
+of the body section.
+
+734
+00:59:15,741 --> 00:59:22,300
+The beast's goal was continuous motion and unassisted survival in this environment.
+
+735
+00:59:22,301 --> 00:59:30,360
+Equipped with sonar, a photocell eye and tactile sensors, it managed very well.
+
+736
+00:59:30,361 --> 00:59:33,660
+During the working day, most office doors are left open.
+
+737
+00:59:33,661 --> 00:59:38,420
+It is desirable not to allow the device to enter these offices and must, therefore, sense
+
+738
+00:59:38,421 --> 00:59:45,420
+the door jamb, bridge the open door, and regain acquisition with the wall.
+
+739
+00:59:49,300 --> 00:59:56,300
+It could even prevent itself from falling down stairwells.
+
+740
+00:59:57,700 --> 01:00:04,700
+When trapped, it went into a vibratory mode to shake itself free.
+
+741
+01:00:04,701 --> 01:00:10,820
+The beast had no real brain, just sensors, but its electronic behavior patterns
+
+742
+01:00:10,821 --> 01:00:14,540
+allowed it to survive in the world.
+
+743
+01:00:16,380 --> 01:00:21,140
+This bottom-up approach of achieving the bare rudiments of intelligence with
+
+744
+01:00:21,141 --> 01:00:26,200
+simple models of animals was soon eclipsed in the early 1960s as a new
+
+745
+01:00:26,201 --> 01:00:31,820
+field took hold. Artificial intelligence.
+
+746
+01:00:34,700 --> 01:00:37,980
+Now this is a boy's toy.
+
+747
+01:00:37,981 --> 01:00:39,260
+Great, let's shoot this.
+
+748
+01:00:39,261 --> 01:00:40,260
+Action.
+
+749
+01:00:40,261 --> 01:00:42,300
+Awesome.
+

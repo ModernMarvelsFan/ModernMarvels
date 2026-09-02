@@ -1,0 +1,3208 @@
+1
+00:00:00,001 --> 00:00:04,240
+You're looking at the dominant entertainment medium of the day,
+
+2
+00:00:04,540 --> 00:00:08,500
+complete with screeching high-speed chases and explosive gunplay.
+
+3
+00:00:09,020 --> 00:00:10,920
+But no, it's not a movie.
+
+4
+00:00:11,280 --> 00:00:14,600
+It's a game, an interactive video game.
+
+5
+00:00:15,560 --> 00:00:18,380
+You go through the same process you would in making a great film,
+
+6
+00:00:18,760 --> 00:00:20,600
+but then you apply the technology.
+
+7
+00:00:21,200 --> 00:00:25,000
+What you must do with the technology is make it simple, hot, and deep.
+
+8
+00:00:25,001 --> 00:00:30,000
+Games have been with us since the beginning of time,
+
+9
+00:00:30,100 --> 00:00:33,500
+but these are the first games to use computer technology.
+
+10
+00:00:33,600 --> 00:00:35,340
+In fact, they don't just use it.
+
+11
+00:00:35,440 --> 00:00:37,440
+They drive it.
+
+12
+00:00:37,540 --> 00:00:38,940
+If it weren't for video games,
+
+13
+00:00:39,040 --> 00:00:41,320
+you wouldn't have the computer or Internet revolution
+
+14
+00:00:41,420 --> 00:00:42,520
+that you have today.
+
+15
+00:00:42,620 --> 00:00:45,580
+If it weren't for video games humanizing computers,
+
+16
+00:00:45,680 --> 00:00:47,660
+you wouldn't see them in everybody's home.
+
+17
+00:00:47,760 --> 00:00:50,100
+Unlike any games before in history,
+
+18
+00:00:50,200 --> 00:00:53,600
+these games play with you one-on-one in their world,
+
+19
+00:00:53,601 --> 00:00:55,360
+in their world, not yours.
+
+20
+00:00:55,460 --> 00:00:58,900
+A virtual world of 3D graphics and stereo sound
+
+21
+00:00:59,000 --> 00:01:01,740
+capable of inspiring an emotional, physical,
+
+22
+00:01:01,840 --> 00:01:04,240
+and even psychological experience.
+
+23
+00:01:04,340 --> 00:01:07,840
+A video game is, I guess it's a joyride to insanity.
+
+24
+00:01:07,940 --> 00:01:13,260
+It's a journey to our inner nightmares and fantasies.
+
+25
+00:01:16,860 --> 00:01:19,200
+But they weren't always so sophisticated.
+
+26
+00:01:19,300 --> 00:01:21,400
+Once, they were nothing more than a beam of light
+
+27
+00:01:21,500 --> 00:01:22,900
+on a cathode ray tube.
+
+28
+00:01:22,901 --> 00:01:26,600
+How they evolved into high-tech computer art and science
+
+29
+00:01:26,601 --> 00:01:29,300
+is the story of humankind's urge to play
+
+30
+00:01:29,301 --> 00:01:32,760
+and of the growth of computers into today's dominant medium.
+
+31
+00:01:33,720 --> 00:01:37,700
+What began as a play-inspired tinkering at an MIT computer
+
+32
+00:01:37,701 --> 00:01:39,820
+has turned into a billion-dollar industry,
+
+33
+00:01:40,260 --> 00:01:42,260
+offering thousands of software titles
+
+34
+00:01:42,261 --> 00:01:44,120
+and a variety of hardware platforms
+
+35
+00:01:44,121 --> 00:01:45,700
+for the amusement of millions.
+
+36
+00:01:46,100 --> 00:01:48,320
+And it all happened just for the fun of it.
+
+37
+00:02:11,700 --> 00:02:12,900
+Music
+
+38
+00:02:12,901 --> 00:02:15,220
+In living rooms across the United States,
+
+39
+00:02:15,520 --> 00:02:17,460
+the youth of America and the young at heart
+
+40
+00:02:17,461 --> 00:02:19,780
+are playing games, video games.
+
+41
+00:02:19,781 --> 00:02:23,480
+Home computers and television sets fed by game consoles
+
+42
+00:02:23,580 --> 00:02:28,020
+have become the virtual playground for a new generation.
+
+43
+00:02:28,120 --> 00:02:31,920
+They're full of action and adventure,
+
+44
+00:02:32,020 --> 00:02:37,840
+battles between good and evil, quests and cyber shootouts,
+
+45
+00:02:37,940 --> 00:02:41,640
+and all kinds of races and sports contests.
+
+46
+00:02:41,740 --> 00:02:44,240
+For many, this is a world so much bigger in scope
+
+47
+00:02:44,340 --> 00:02:46,380
+and richer in possibilities that there's
+
+48
+00:02:46,480 --> 00:02:47,840
+no better place to play.
+
+49
+00:02:47,940 --> 00:02:48,840
+What did I get?
+
+50
+00:02:48,841 --> 00:02:51,840
+The game space becomes a virtual play space.
+
+51
+00:02:51,940 --> 00:02:53,140
+It becomes an environment.
+
+52
+00:02:53,240 --> 00:02:55,480
+They can do the things that boys used to do
+
+53
+00:02:55,580 --> 00:02:57,480
+in their imagination, sitting in their backyard
+
+54
+00:02:57,580 --> 00:02:58,980
+in suburban America.
+
+55
+00:02:59,080 --> 00:03:00,180
+They can take risks.
+
+56
+00:03:00,280 --> 00:03:01,380
+They can take challenges.
+
+57
+00:03:01,480 --> 00:03:02,880
+They can compete with each other.
+
+58
+00:03:02,980 --> 00:03:06,500
+They can have larger than life, blood and thunder adventure
+
+59
+00:03:06,600 --> 00:03:08,600
+that really gets the blood pumping.
+
+60
+00:03:13,640 --> 00:03:16,440
+Video games are the virtual place to hang out,
+
+61
+00:03:16,441 --> 00:03:20,440
+a kind of electronic alleyway where boys will be boys
+
+62
+00:03:20,540 --> 00:03:23,080
+and fantasies will come to virtual life.
+
+63
+00:03:23,180 --> 00:03:25,680
+Are you in love with her?
+
+64
+00:03:25,780 --> 00:03:27,180
+Love.
+
+65
+00:03:27,280 --> 00:03:29,080
+Love is for the living, Sal.
+
+66
+00:03:29,180 --> 00:03:31,080
+I'm only after her for one reason.
+
+67
+00:03:31,180 --> 00:03:32,680
+She's my ticket out of here.
+
+68
+00:03:32,780 --> 00:03:34,200
+You are there.
+
+69
+00:03:34,300 --> 00:03:35,400
+You are inside.
+
+70
+00:03:35,500 --> 00:03:36,800
+You are making decisions.
+
+71
+00:03:36,900 --> 00:03:38,800
+You are seeing the results of what you are doing.
+
+72
+00:03:38,900 --> 00:03:43,300
+You're having a fantasy and a spectacular experience.
+
+73
+00:03:43,400 --> 00:03:45,600
+For all their fantasy, video games
+
+74
+00:03:45,601 --> 00:03:49,300
+Video games duplicate reality in exacting detail.
+
+75
+00:03:49,400 --> 00:03:51,300
+Just how they do that is a marvel
+
+76
+00:03:51,400 --> 00:03:53,000
+of several different technologies
+
+77
+00:03:53,100 --> 00:03:55,040
+that have emerged since the birth of video games
+
+78
+00:03:55,140 --> 00:03:56,640
+in the early 60s.
+
+79
+00:03:56,740 --> 00:03:58,240
+One of the most essential is something
+
+80
+00:03:58,340 --> 00:03:59,840
+called texture mapping.
+
+81
+00:03:59,940 --> 00:04:02,140
+It turns the game into a three-dimensional,
+
+82
+00:04:02,240 --> 00:04:05,960
+photorealistic, immersive experience.
+
+83
+00:04:06,060 --> 00:04:09,760
+In the 1980s, games, there was no texture mapping.
+
+84
+00:04:09,860 --> 00:04:13,660
+And when you created an object, if you had a spacecraft,
+
+85
+00:04:13,760 --> 00:04:15,200
+it would just be plain.
+
+86
+00:04:15,201 --> 00:04:18,940
+there wouldn't be any detail on the surfaces.
+
+87
+00:04:19,040 --> 00:04:22,940
+We went to some of the MIT, one of the MIT tech libraries,
+
+88
+00:04:23,040 --> 00:04:25,680
+and saw that on high-end supercomputers and graphic
+
+89
+00:04:25,780 --> 00:04:28,340
+workstations, they were doing texture mapping.
+
+90
+00:04:28,440 --> 00:04:31,620
+And we did some trials to see whether we could do that
+
+91
+00:04:31,720 --> 00:04:33,360
+on a PC at the time.
+
+92
+00:04:33,460 --> 00:04:35,160
+This is in 1990.
+
+93
+00:04:35,260 --> 00:04:36,960
+Found out, yes, it would actually work.
+
+94
+00:04:37,060 --> 00:04:39,060
+When the Trade Federation Viceroy arrives,
+
+95
+00:04:39,160 --> 00:04:41,500
+we must convince him to leave the system.
+
+96
+00:04:41,600 --> 00:04:44,700
+Be prepared for the unexpected.
+
+97
+00:04:44,701 --> 00:04:47,600
+The room is filling with poison gas.
+
+98
+00:04:47,700 --> 00:04:51,000
+Texture mapping adds photo realism to a game.
+
+99
+00:04:51,100 --> 00:04:55,140
+It's eye-catching and beautiful.
+
+100
+00:04:55,240 --> 00:04:57,740
+It offers the look and feel of real worlds.
+
+101
+00:05:02,120 --> 00:05:04,880
+It grew out of the development of more powerful computer
+
+102
+00:05:04,980 --> 00:05:07,560
+microprocessors and advanced games
+
+103
+00:05:07,660 --> 00:05:10,100
+beyond monochrome images.
+
+104
+00:05:10,200 --> 00:05:12,860
+You can take a texture, and instead of putting it
+
+105
+00:05:12,861 --> 00:05:21,860
+it on the cube, you're putting it on a more rounded sphere that maybe has a nose and some
+
+106
+00:05:21,861 --> 00:05:28,160
+other details of the shape, and then the textures can be much more detailed.
+
+107
+00:05:28,161 --> 00:05:32,940
+And all of a sudden you have this very real looking character or real looking desk or
+
+108
+00:05:32,941 --> 00:05:38,020
+real looking chandelier, and it's really incredible.
+
+109
+00:05:38,021 --> 00:05:43,700
+And then once it's in the engine and it has all its motions put on it and it has its sound,
+
+110
+00:05:43,701 --> 00:05:44,700
+it's really very immersive.
+
+111
+00:05:44,701 --> 00:05:49,740
+All of a sudden you're walking and talking to this person that, you know, was just a
+
+112
+00:05:49,741 --> 00:05:50,740
+cube.
+
+113
+00:05:50,741 --> 00:05:57,620
+A computer simulated game takes an average of 24 months of full-time work from a staff
+
+114
+00:05:57,621 --> 00:05:58,620
+of 20.
+
+115
+00:05:58,621 --> 00:06:03,980
+There are thousands of details, and at times things go wrong, as they did in the texture
+
+116
+00:06:03,981 --> 00:06:07,980
+mapping of a torpedo attack sequence for a combat simulation game.
+
+117
+00:06:07,981 --> 00:06:10,980
+The torpedoes are dropping, they're hitting the water, right?
+
+118
+00:06:10,981 --> 00:06:12,980
+And they're making splashes, right?
+
+119
+00:06:12,981 --> 00:06:16,980
+Yet, uh, when they hit an object, uh, they pass right through.
+
+120
+00:06:16,981 --> 00:06:18,980
+Okay? We need that fixed right away.
+
+121
+00:06:18,981 --> 00:06:21,980
+Well, it turns out that our boats, right, for rendering purposes
+
+122
+00:06:21,981 --> 00:06:24,980
+and for cheating purposes, uh, we don't render the keels
+
+123
+00:06:24,981 --> 00:06:25,980
+under the water.
+
+124
+00:06:25,981 --> 00:06:28,980
+So what's happening is the torpedo, which is traveling at 15 feet
+
+125
+00:06:28,981 --> 00:06:30,980
+under the water, as it should in real life,
+
+126
+00:06:30,981 --> 00:06:32,980
+in real life, because we're simulating a torpedo,
+
+127
+00:06:32,981 --> 00:06:34,220
+is missing the boat.
+
+128
+00:06:34,221 --> 00:06:36,280
+From a water perspective, looking at the water,
+
+129
+00:06:36,281 --> 00:06:38,220
+you wouldn't see underneath the boat.
+
+130
+00:06:38,221 --> 00:06:40,880
+So now it's, oh god, we have to go back and redo the model.
+
+131
+00:06:40,881 --> 00:06:45,560
+We have to add an underneath to the model
+
+132
+00:06:45,561 --> 00:06:49,360
+so that the torpedo knows to hit the boat and to blow it up.
+
+133
+00:06:49,361 --> 00:06:52,500
+When it's done, the game's environments are so real,
+
+134
+00:06:52,501 --> 00:06:54,740
+there's no need to suspend disbelief.
+
+135
+00:06:54,741 --> 00:06:56,980
+It looks like the real thing.
+
+136
+00:06:56,981 --> 00:06:58,860
+But not only have the game environments
+
+137
+00:06:58,861 --> 00:07:00,760
+reached a level of reality, so have
+
+138
+00:07:00,761 --> 00:07:03,520
+of game characters because of another technology
+
+139
+00:07:03,620 --> 00:07:05,400
+called motion capture.
+
+140
+00:07:05,500 --> 00:07:07,400
+It's the ultimate realization of a technique
+
+141
+00:07:07,500 --> 00:07:12,200
+used by Walt Disney to help animators draw Snow White.
+
+142
+00:07:12,300 --> 00:07:14,200
+Motion capture reached a new height
+
+143
+00:07:14,300 --> 00:07:16,300
+with video games in the 90s.
+
+144
+00:07:16,400 --> 00:07:19,440
+Motion capture electronically copies a movement,
+
+145
+00:07:19,540 --> 00:07:22,080
+like Tiger Woods driving a golf ball,
+
+146
+00:07:22,180 --> 00:07:24,760
+and turns it into a computer image.
+
+147
+00:07:24,860 --> 00:07:28,360
+Wired from head to toe, every movement of a desired action,
+
+148
+00:07:28,361 --> 00:07:30,360
+every turn and twist of a body,
+
+149
+00:07:30,361 --> 00:07:34,360
+every arm and leg in motion is accurately copied.
+
+150
+00:07:34,361 --> 00:07:37,360
+An earlier generation of games relied on an artist's
+
+151
+00:07:37,361 --> 00:07:40,360
+interpretation and rendition of the body's movement.
+
+152
+00:07:40,361 --> 00:07:42,360
+But motion capture makes every movement real,
+
+153
+00:07:42,361 --> 00:07:48,360
+from a sword stroke to a slap shot or a slam dunk.
+
+154
+00:07:48,361 --> 00:07:51,360
+He makes the cast.
+
+155
+00:07:51,361 --> 00:07:54,360
+Added to image is the dimension of sound.
+
+156
+00:07:54,361 --> 00:07:57,360
+The reality created in the games of today
+
+157
+00:07:57,361 --> 00:07:59,760
+is done with voices, music, and sound effects
+
+158
+00:07:59,860 --> 00:08:01,760
+that rival the quality of a Hollywood movie.
+
+159
+00:08:01,860 --> 00:08:04,060
+Oh, my!
+
+160
+00:08:04,160 --> 00:08:07,700
+Sound studios and star voices punctuate the games.
+
+161
+00:08:07,800 --> 00:08:09,600
+It'll be a hell of a lot easier to get to crash sites.
+
+162
+00:08:14,120 --> 00:08:16,520
+If today's games look, feel, and sound
+
+163
+00:08:16,620 --> 00:08:19,720
+like major motion pictures, the very first computer game
+
+164
+00:08:19,820 --> 00:08:22,560
+resembled a low-budget sci-fi movie.
+
+165
+00:08:22,660 --> 00:08:24,520
+The game was called Space War.
+
+166
+00:08:24,521 --> 00:08:28,520
+It was developed in 1962 at MIT by a graduate student
+
+167
+00:08:28,521 --> 00:08:30,020
+named Steve Russell.
+
+168
+00:08:30,021 --> 00:08:33,520
+Space War had only two factors in common with today's games.
+
+169
+00:08:33,521 --> 00:08:35,020
+First, it shot something.
+
+170
+00:08:35,021 --> 00:08:37,720
+And second, it was played on a computer.
+
+171
+00:08:37,721 --> 00:08:39,120
+But what a computer.
+
+172
+00:08:39,121 --> 00:08:42,620
+It was an $8 million mainframe that was used to calculate
+
+173
+00:08:42,621 --> 00:08:44,020
+missile trajectories.
+
+174
+00:08:44,021 --> 00:08:48,520
+It had no keyboard, no mouse, no CD-ROM, and no audio system.
+
+175
+00:08:48,521 --> 00:08:52,420
+Computers were big blocks of vacuum tubes and scary things
+
+176
+00:08:52,421 --> 00:08:56,720
+where you had to communicate via punch cards or tape with hole in it
+
+177
+00:08:56,721 --> 00:09:00,260
+or basically some kind of huge magnetic spool of tape.
+
+178
+00:09:00,261 --> 00:09:03,840
+Now, all of a sudden, for the first time, you just moved a knob
+
+179
+00:09:03,841 --> 00:09:09,140
+or you pressed a button, and the machine had to do what you wanted to do.
+
+180
+00:09:09,141 --> 00:09:12,540
+Spacewar spread from MIT to other computer labs
+
+181
+00:09:12,541 --> 00:09:15,420
+and universities across the country on the ARPANET,
+
+182
+00:09:15,421 --> 00:09:17,120
+the forerunner of the Internet.
+
+183
+00:09:17,121 --> 00:09:20,040
+It was an instant hit among computer students.
+
+184
+00:09:20,041 --> 00:09:22,680
+But Space War was unavailable to the public.
+
+185
+00:09:22,681 --> 00:09:25,480
+After all, to play it, one needed a multimillion dollar
+
+186
+00:09:25,481 --> 00:09:26,920
+mainframe computer.
+
+187
+00:09:26,921 --> 00:09:30,920
+But the inspiration and innovation for a new generation
+
+188
+00:09:30,921 --> 00:09:33,480
+of games was let loose on the world.
+
+189
+00:09:33,481 --> 00:09:35,320
+It would turn a game like Space War,
+
+190
+00:09:35,321 --> 00:09:38,720
+once a mainframe computer game, into an arcade staple
+
+191
+00:09:38,721 --> 00:09:42,320
+in just 16 years by taming the technology.
+
+192
+00:09:42,321 --> 00:09:45,040
+In the meantime, a new group of technologists,
+
+193
+00:09:45,041 --> 00:09:48,360
+visionaries, and entrepreneurs pioneered the concept
+
+194
+00:09:48,361 --> 00:09:50,520
+and development of video games.
+
+195
+00:09:50,620 --> 00:09:52,860
+One was a military defense contractor.
+
+196
+00:09:52,960 --> 00:09:55,100
+The other, an arcade game entrepreneur.
+
+197
+00:09:59,900 --> 00:10:02,700
+From Gettysburg to Desert Storm,
+
+198
+00:10:02,800 --> 00:10:05,320
+practically every decisive battle in history,
+
+199
+00:10:05,420 --> 00:10:07,520
+on land, at sea, and in the air,
+
+200
+00:10:07,620 --> 00:10:10,120
+has been turned into an interactive game.
+
+201
+00:10:10,220 --> 00:10:12,260
+War games are an ever-popular genre
+
+202
+00:10:12,360 --> 00:10:16,220
+and account for more than half the titles published in America.
+
+203
+00:10:16,320 --> 00:10:18,060
+We have to accept that in our nature
+
+204
+00:10:18,061 --> 00:10:22,600
+We're a somewhat imperialistic and predatory species,
+
+205
+00:10:22,700 --> 00:10:28,840
+and we're attracted to dynamic, active experiences,
+
+206
+00:10:28,940 --> 00:10:30,240
+war being one of them.
+
+207
+00:10:30,340 --> 00:10:31,740
+One of the things about war games
+
+208
+00:10:31,840 --> 00:10:35,680
+is that they take advantage of all of the intelligence
+
+209
+00:10:35,780 --> 00:10:39,020
+and the strategic thinking and pattern recognition
+
+210
+00:10:39,120 --> 00:10:43,380
+and many other aspects of how the human brain works uniquely.
+
+211
+00:10:43,480 --> 00:10:45,720
+One of the most immersive games to be published
+
+212
+00:10:45,721 --> 00:10:49,560
+simulates the Allied air battle over Europe in World War II.
+
+213
+00:10:49,660 --> 00:10:51,360
+It's called flight combat.
+
+214
+00:10:51,460 --> 00:10:53,920
+Players pilot a squadron of B-7 teams
+
+215
+00:10:54,020 --> 00:10:56,460
+over the dangerous skies of Nazi Germany
+
+216
+00:10:56,560 --> 00:10:59,060
+to blow up factories and win the war.
+
+217
+00:10:59,160 --> 00:11:02,160
+Game developers were awestruck by the real history
+
+218
+00:11:02,260 --> 00:11:04,480
+and decided it would make a great game.
+
+219
+00:11:04,580 --> 00:11:06,680
+We had this idea about doing a World War II game
+
+220
+00:11:06,780 --> 00:11:08,880
+and making it really immersive and focusing on a couple
+
+221
+00:11:08,980 --> 00:11:12,580
+of very key features, like a 3D-driven physics-based
+
+222
+00:11:12,680 --> 00:11:15,720
+damage system, where chunks would go flying off airplanes
+
+223
+00:11:15,721 --> 00:11:17,220
+Guys would go spinning out.
+
+224
+00:11:17,221 --> 00:11:18,520
+Engines would catch on fire.
+
+225
+00:11:18,521 --> 00:11:19,520
+Planes would explode.
+
+226
+00:11:19,521 --> 00:11:21,520
+It would be collateral damage, things like that.
+
+227
+00:11:24,960 --> 00:11:27,240
+But this is not just a game.
+
+228
+00:11:27,241 --> 00:11:30,440
+It's an historical event where thousands perished.
+
+229
+00:11:30,441 --> 00:11:33,500
+So the developers wrestled with technological, emotional,
+
+230
+00:11:33,501 --> 00:11:37,080
+and ethical challenges in making it into a game.
+
+231
+00:11:37,081 --> 00:11:39,640
+How far should they go in showing death?
+
+232
+00:11:39,641 --> 00:11:42,280
+What kind of carnage is acceptable?
+
+233
+00:11:42,281 --> 00:11:45,420
+To answer these questions, they asked veterans.
+
+234
+00:11:45,421 --> 00:11:51,980
+I remember having Will Smiley, who was a B-17 pilot who flew about 28 missions in World War II.
+
+235
+00:11:53,000 --> 00:11:58,260
+He, you know, would, he was in here one afternoon for about four hours just sort of retelling his adventures.
+
+236
+00:11:59,460 --> 00:12:04,800
+And he literally broke down and started crying when he was starting to think about his friends, the people that he'd lost.
+
+237
+00:12:04,801 --> 00:12:12,382
+And, you know, that just, like, we had about 12 people in a room and, you know, we're all, like, tears are forming in our eyes and we're really feeling empathy for
+
+238
+00:12:12,383 --> 00:12:13,083
+this person.
+
+239
+00:12:13,084 --> 00:12:15,580
+And part of that is like relaying that in the game,
+
+240
+00:12:15,680 --> 00:12:17,420
+is like how do you relay that empathy?
+
+241
+00:12:17,520 --> 00:12:22,380
+How do you make that person feel like war is not a fun thing?
+
+242
+00:12:22,480 --> 00:12:24,620
+Even though flight combat is a game,
+
+243
+00:12:24,720 --> 00:12:27,180
+its developers wanted players to understand
+
+244
+00:12:27,280 --> 00:12:29,020
+that real war is not.
+
+245
+00:12:29,120 --> 00:12:31,520
+So they made it into a documentary with footage
+
+246
+00:12:31,620 --> 00:12:34,600
+and information about what actually happened in the air
+
+247
+00:12:34,700 --> 00:12:37,900
+war against Nazi Germany.
+
+248
+00:12:38,000 --> 00:12:40,300
+The sheer ambition of the technology
+
+249
+00:12:40,301 --> 00:12:44,440
+technology in a game like flight combat makes it hard to imagine that the very
+
+250
+00:12:44,441 --> 00:12:48,940
+first commercial video game was so primitive, so simple, it was a virtual
+
+251
+00:12:48,941 --> 00:12:53,920
+electronic amoeba compared to today's dynamic games. Yet as mindless as that
+
+252
+00:12:53,921 --> 00:12:58,960
+game may seem today, it was truly revolutionary and all it involved were
+
+253
+00:12:58,961 --> 00:13:03,040
+two beams of light chasing each other across a cathode ray tube. The idea
+
+254
+00:13:03,041 --> 00:13:07,120
+originated with a military defense contractor named Ralph Baer who built
+
+255
+00:13:07,121 --> 00:13:09,760
+for the Apollo space missions.
+
+256
+00:13:09,860 --> 00:13:12,120
+Baer's inspiration came as he stared into a bank
+
+257
+00:13:12,220 --> 00:13:15,420
+of television sets at an airport in 1966.
+
+258
+00:13:15,520 --> 00:13:18,460
+Everyone else saw arrival and departure schedules,
+
+259
+00:13:18,560 --> 00:13:20,460
+but Baer saw the future.
+
+260
+00:13:20,560 --> 00:13:23,880
+He had a, you know, one of those eureka experiences.
+
+261
+00:13:23,980 --> 00:13:25,680
+He's sitting looking at the television set,
+
+262
+00:13:25,780 --> 00:13:28,080
+and he's saying, this television set is in millions
+
+263
+00:13:28,180 --> 00:13:30,180
+upon millions of American homes,
+
+264
+00:13:30,280 --> 00:13:32,220
+and all people are doing is looking at it.
+
+265
+00:13:32,320 --> 00:13:35,820
+You know, there's got to be something else that we can do
+
+266
+00:13:35,821 --> 00:13:37,820
+with the television.
+
+267
+00:13:37,821 --> 00:13:40,820
+And I think he initially started off with trying to, like,
+
+268
+00:13:40,821 --> 00:13:42,820
+etch a sketch kind of things, drawing things.
+
+269
+00:13:42,821 --> 00:13:45,820
+And then he came up with the idea of playing games
+
+270
+00:13:45,821 --> 00:13:48,820
+on the television set.
+
+271
+00:13:48,821 --> 00:13:51,820
+Bear built an interface that moved a beam of light
+
+272
+00:13:51,821 --> 00:13:53,820
+across a television set.
+
+273
+00:13:53,821 --> 00:13:56,820
+From that day forward, there would be more to do with the TV
+
+274
+00:13:56,821 --> 00:13:58,820
+than just watch it.
+
+275
+00:13:58,821 --> 00:14:03,820
+It was kind of like the way people took back the TV screen.
+
+276
+00:14:03,821 --> 00:14:08,840
+Because, like, the TV screen is something that's beamed at you by stations, by big stars and everything.
+
+277
+00:14:08,920 --> 00:14:14,040
+And you just kind of sat there and watched it, you know, got a tan from the glow of the tube.
+
+278
+00:14:14,240 --> 00:14:20,340
+And it was to realize you could actually affect something on that sacred screen, you know.
+
+279
+00:14:20,720 --> 00:14:25,340
+That, you know, it was kind of like, just like you go to church and you never go up and, like, touch the altar, you know.
+
+280
+00:14:25,341 --> 00:14:30,940
+And here you could actually go up and, you know, light the candles or, you know, break the candles.
+
+281
+00:14:35,114 --> 00:14:44,683
+On August 10, 1970, Baer applied for patent $3,829.95 for an apparatus and method for the generation, display, and manipulation of symbols upon screens of television
+
+282
+00:14:44,684 --> 00:14:51,700
+receivers for the purpose of training, simulation, playing games, and for engaging in action by one or more participants.
+
+283
+00:14:51,701 --> 00:14:56,700
+At first, Bear took his brave new invention to the captains of cable television,
+
+284
+00:14:56,701 --> 00:15:00,700
+the perfect delivery system, he thought, for playing video games.
+
+285
+00:15:00,701 --> 00:15:02,700
+But cable wanted no part of it.
+
+286
+00:15:02,701 --> 00:15:05,700
+Another company, however, did.
+
+287
+00:15:05,701 --> 00:15:12,700
+In 1972, Magnavox released Bear's invention, a home game console named Odyssey.
+
+288
+00:15:12,701 --> 00:15:19,700
+By adding a piece of plastic over a TV set, it became 12 different games, from table tennis to hockey.
+
+289
+00:15:19,701 --> 00:15:25,000
+It was primitive by today's standards, but groundbreaking in its day and expensive.
+
+290
+00:15:25,380 --> 00:15:27,000
+The system cost $100.
+
+291
+00:15:28,300 --> 00:15:32,760
+Odyssey, the world's first home video game, was a moderate success.
+
+292
+00:15:33,280 --> 00:15:35,860
+But another game took America by storm.
+
+293
+00:15:36,220 --> 00:15:42,260
+It made a millionaire of its creator, inspired the idea of video arcades, and reinvented amusement.
+
+294
+00:15:42,780 --> 00:15:44,720
+The world would never be the same.
+
+295
+00:15:49,700 --> 00:16:00,920
+When it comes to games played at arcades, or at home on PCs or consoles, sports themes are a perennial favorite.
+
+296
+00:16:01,360 --> 00:16:06,820
+There are games that duplicate every athletic event on the planet to evoke the fantasy of the major leagues.
+
+297
+00:16:06,821 --> 00:16:07,660
+It has a chance.
+
+298
+00:16:07,720 --> 00:16:11,640
+A kind of thrill of virtual victory, an agony of virtual defeat.
+
+299
+00:16:11,940 --> 00:16:17,560
+The sports, I think, in one sense, they're a metaphor for war, but they're also a metaphor for heroism,
+
+300
+00:16:17,561 --> 00:16:23,420
+in that it creates a context in which it's socially acceptable to stand out from your peers and to achieve great things,
+
+301
+00:16:23,580 --> 00:16:27,940
+and even to the point of having a crowd around you that's going to cheer at the moment when you do it.
+
+302
+00:16:28,940 --> 00:16:34,860
+In the history of electronic games, it was a sporting event that inspired the first hit video game,
+
+303
+00:16:35,040 --> 00:16:41,200
+but not because it offered a chance to play one-on-one with Michael Jordan or crush a homer off of Roger Clemens.
+
+304
+00:16:41,201 --> 00:16:47,900
+It was a sports event because it was technically possible to create and both simple and fun to play.
+
+305
+00:16:48,340 --> 00:16:50,000
+The game was Pong.
+
+306
+00:16:50,900 --> 00:16:55,000
+It was like a test pattern, you know, going boop, boop, boop, boop.
+
+307
+00:16:55,240 --> 00:17:01,220
+And basically everybody understood the analogy of ping pong, tennis, and it was just something cute to do.
+
+308
+00:17:01,280 --> 00:17:07,040
+And for the first time, a lot of people felt like they could drop a quarter in the machine and control a computer.
+
+309
+00:17:07,041 --> 00:17:11,540
+and it was very cool to feel like you were playing a high-tech game.
+
+310
+00:17:12,440 --> 00:17:16,600
+Pong was not a home game like the ones introduced by Ralph Baer the same year.
+
+311
+00:17:16,940 --> 00:17:19,780
+Pong was a five-foot console built for arcades.
+
+312
+00:17:20,140 --> 00:17:22,680
+The first two were leased to a gas station and a bar.
+
+313
+00:17:23,200 --> 00:17:26,040
+They stood upright with a television monitor at eye level
+
+314
+00:17:26,041 --> 00:17:28,620
+and used transistors, not microprocessors,
+
+315
+00:17:28,800 --> 00:17:31,520
+to cast a beam of light on a black-and-white monitor.
+
+316
+00:17:33,400 --> 00:17:36,060
+Pong was the brainchild of Nolan Bushnell,
+
+317
+00:17:36,061 --> 00:17:42,300
+the founder of Atari, a company started on $250 borrowed dollars to make electronic arcade games
+
+318
+00:17:42,301 --> 00:17:45,807
+and sold, less than a decade later, for $28 million.
+
+319
+00:17:45,808 --> 00:17:48,640
+While a student at the University of Utah,
+
+320
+00:17:48,980 --> 00:17:50,461
+Bushnell had played Space War.
+
+321
+00:17:50,462 --> 00:17:53,720
+It was the world's first computer game, developed by Steve Russell
+
+322
+00:17:53,721 --> 00:17:56,985
+at MIT and sent out over the first computer network.
+
+323
+00:17:56,986 --> 00:17:59,560
+But Bushnell was not just into computers.
+
+324
+00:18:00,020 --> 00:18:03,482
+He also loved games and worked nights at an amusement park.
+
+325
+00:18:03,483 --> 00:18:05,360
+Bushnell believed computer games
+
+326
+00:18:05,361 --> 00:18:08,000
+and arcades were destined to be together.
+
+327
+00:18:08,001 --> 00:18:10,560
+But the creation of Pong was an accident.
+
+328
+00:18:10,561 --> 00:18:13,440
+Their aim was initially to make a racing game,
+
+329
+00:18:13,441 --> 00:18:18,940
+but they decided to test out their new programmer, designer,
+
+330
+00:18:18,941 --> 00:18:23,220
+engineer, Al Alcorn, on a real simple table tennis game.
+
+331
+00:18:23,221 --> 00:18:25,420
+And they realized that this is just incredibly fun.
+
+332
+00:18:25,421 --> 00:18:30,120
+And they ended up with Pong, a game with only two instructions,
+
+333
+00:18:30,121 --> 00:18:33,220
+insert coin and avoid missing ball for high score.
+
+334
+00:18:33,221 --> 00:18:36,960
+And plus, you could play it with a beer in one hand.
+
+335
+00:18:36,961 --> 00:18:40,060
+Pong hit the market in April 1972
+
+336
+00:18:40,061 --> 00:18:43,860
+and quickly sold 6,000 units at $1,000 each.
+
+337
+00:18:43,861 --> 00:18:46,240
+Now, standing next to pinball games,
+
+338
+00:18:46,241 --> 00:18:49,740
+shooting galleries, and skeetball was Pong.
+
+339
+00:18:49,741 --> 00:18:52,080
+But in less than a decade, pinball arcades
+
+340
+00:18:52,081 --> 00:18:54,480
+would become video game arcades.
+
+341
+00:18:54,481 --> 00:18:56,240
+The demand for Pong was so great,
+
+342
+00:18:56,241 --> 00:18:57,740
+they couldn't keep up with it.
+
+343
+00:18:57,741 --> 00:19:02,480
+And the games overflowed with quarters, jamming machines.
+
+344
+00:19:02,481 --> 00:19:06,080
+Pong was a Neanderthal compared to today's sports games,
+
+345
+00:19:06,081 --> 00:19:08,320
+but it was the first step in an evolution
+
+346
+00:19:08,321 --> 00:19:11,360
+to virtual reality that was achieved one breakthrough
+
+347
+00:19:11,361 --> 00:19:12,320
+at a time.
+
+348
+00:19:12,321 --> 00:19:15,720
+The first advance after Pong's transistor-based technology
+
+349
+00:19:15,721 --> 00:19:19,160
+was the use of a ROM chip to store graphics in a game called
+
+350
+00:19:19,161 --> 00:19:21,260
+Tank in 1974.
+
+351
+00:19:21,261 --> 00:19:24,440
+Now, for the very first time, an object actually
+
+352
+00:19:24,441 --> 00:19:28,000
+looked like something, not just a stick figure.
+
+353
+00:19:28,001 --> 00:19:31,000
+After Pong and Tank, the technological crusade
+
+354
+00:19:31,001 --> 00:19:34,200
+was to get more data, more bits on the screen.
+
+355
+00:19:34,201 --> 00:19:36,300
+Insiders called it the bit revolution.
+
+356
+00:19:41,080 --> 00:19:44,480
+That basically means that you can get more data through,
+
+357
+00:19:44,481 --> 00:19:48,160
+you know, in a fraction of a second than you could before.
+
+358
+00:19:48,161 --> 00:19:51,280
+All your throughput to have dots bouncing against each other
+
+359
+00:19:51,281 --> 00:19:55,020
+in the Pong days, and then to have blocky polygons moving
+
+360
+00:19:55,021 --> 00:19:59,160
+in the 8-bit days, and then to be able to have more colors
+
+361
+00:19:59,161 --> 00:20:02,800
+in the 16-bit days, and then to be able to have more polygons
+
+362
+00:20:02,801 --> 00:20:06,320
+and textures in the 32-bit days and the 64-bit days,
+
+363
+00:20:06,321 --> 00:20:09,320
+all that really means is that you're pushing more information
+
+364
+00:20:09,321 --> 00:20:12,120
+onto the screen and that everything looks brighter
+
+365
+00:20:12,121 --> 00:20:16,480
+and bigger and more realistic and more detailed.
+
+366
+00:20:16,481 --> 00:20:19,940
+After the bit revolution came the color revolution.
+
+367
+00:20:19,941 --> 00:20:22,920
+Monitors, once capable only of amber or green,
+
+368
+00:20:22,921 --> 00:20:24,600
+burst out in color.
+
+369
+00:20:24,601 --> 00:20:27,500
+By 1976, that spelled a thankful end
+
+370
+00:20:27,501 --> 00:20:29,800
+to black and white games.
+
+371
+00:20:29,801 --> 00:20:33,000
+Breakout was probably the first big color game,
+
+372
+00:20:33,001 --> 00:20:36,600
+and it was the one that really got the Atari machines
+
+373
+00:20:36,601 --> 00:20:39,560
+into Sears, and I think that's when it really took off
+
+374
+00:20:39,561 --> 00:20:41,360
+as a mass market.
+
+375
+00:20:41,361 --> 00:20:44,560
+Breakout was a breakthrough, but its real impact
+
+376
+00:20:44,561 --> 00:20:47,800
+was in helping start the personal computer revolution.
+
+377
+00:20:47,801 --> 00:20:52,240
+Its young designers went on to start a company called Apple.
+
+378
+00:20:52,241 --> 00:20:55,840
+Breakout in 76 was designed by Steve Jobs
+
+379
+00:20:55,841 --> 00:20:58,840
+who went on to found Apple Computer after that.
+
+380
+00:20:58,940 --> 00:21:03,040
+And the Apple One prototype shared a lot of the parts
+
+381
+00:21:03,140 --> 00:21:06,380
+with the breakout architecture because they stole a lot
+
+382
+00:21:06,480 --> 00:21:07,780
+from Atari at the time.
+
+383
+00:21:11,080 --> 00:21:13,400
+The advent of color moved video games
+
+384
+00:21:13,500 --> 00:21:15,900
+off the back road of black and white stick figures
+
+385
+00:21:16,000 --> 00:21:18,800
+and onto the highway toward photo realism.
+
+386
+00:21:18,900 --> 00:21:21,800
+But another Atari innovation gave the game world
+
+387
+00:21:21,900 --> 00:21:24,600
+a new tool for play and an icon.
+
+388
+00:21:24,601 --> 00:21:26,400
+It was the joystick.
+
+389
+00:21:26,500 --> 00:21:31,400
+The joystick first came with a 1977 Atari 2600 home game
+
+390
+00:21:31,500 --> 00:21:32,300
+console.
+
+391
+00:21:32,400 --> 00:21:35,440
+It also featured a breakthrough 8-bit central processor
+
+392
+00:21:35,540 --> 00:21:36,340
+unit.
+
+393
+00:21:36,440 --> 00:21:38,840
+The joystick was similar to a computer mouse,
+
+394
+00:21:38,940 --> 00:21:40,940
+but instead of manipulating a cursor,
+
+395
+00:21:41,040 --> 00:21:43,360
+it moved an object or fired a shot.
+
+396
+00:21:43,460 --> 00:21:46,360
+The joystick gave the player more control over the game
+
+397
+00:21:46,460 --> 00:21:48,800
+and a sense of being in the action.
+
+398
+00:21:48,900 --> 00:21:52,200
+You know, you might want to lighten up someday, Slade.
+
+399
+00:21:52,201 --> 00:21:56,200
+I hear being an all the time can raise your cholesterol level.
+
+400
+00:21:56,201 --> 00:21:59,200
+But hardware aside, like joysticks,
+
+401
+00:21:59,201 --> 00:22:02,200
+bits, and color monitors, the next big thing in games
+
+402
+00:22:02,201 --> 00:22:05,200
+was adding a storyline and role-playing.
+
+403
+00:22:05,201 --> 00:22:08,200
+Although role-play and story was a primitive idea
+
+404
+00:22:08,201 --> 00:22:12,200
+to games in the 1970s, it came to be the raison d'etre
+
+405
+00:22:12,201 --> 00:22:15,200
+for Millennium Games, and it started with a game
+
+406
+00:22:15,201 --> 00:22:17,200
+called Space Invaders.
+
+407
+00:22:17,201 --> 00:22:22,200
+I had this block of invaders, this array of invaders,
+
+408
+00:22:22,300 --> 00:22:24,200
+and as you kept whittling away at them,
+
+409
+00:22:24,300 --> 00:22:25,800
+blowing away creature after creature,
+
+410
+00:22:25,900 --> 00:22:27,940
+they kept going faster and faster and faster
+
+411
+00:22:28,040 --> 00:22:30,540
+and descending on you, and the heartbeat got faster
+
+412
+00:22:30,640 --> 00:22:34,160
+and faster, and it was enough to drive you nuts.
+
+413
+00:22:37,860 --> 00:22:39,660
+It was an astounding experience.
+
+414
+00:22:39,760 --> 00:22:42,900
+You were, for the very first time, somewhere else
+
+415
+00:22:43,000 --> 00:22:45,900
+fighting something else, and it was life and death.
+
+416
+00:22:45,901 --> 00:22:47,900
+It really was an amazing experience.
+
+417
+00:22:47,901 --> 00:22:49,900
+Space Invaders was so popular,
+
+418
+00:22:49,901 --> 00:22:53,900
+it caused a coin shortage in Japan and truancy in America.
+
+419
+00:22:53,901 --> 00:22:57,900
+It also changed how people thought about electronic games.
+
+420
+00:22:57,901 --> 00:23:01,900
+Space Invaders started this whole, to me,
+
+421
+00:23:01,901 --> 00:23:04,900
+the whole genre of artificial intelligence.
+
+422
+00:23:04,901 --> 00:23:06,900
+Because you had an enemy,
+
+423
+00:23:06,901 --> 00:23:10,900
+the first game that actually had computer enemies on the screen
+
+424
+00:23:10,901 --> 00:23:13,900
+that had their own little life,
+
+425
+00:23:13,901 --> 00:23:16,400
+They had their own objectives, had their own goals.
+
+426
+00:23:16,500 --> 00:23:18,900
+And it was kind of you, either you would survive
+
+427
+00:23:19,000 --> 00:23:20,400
+or they would survive.
+
+428
+00:23:20,500 --> 00:23:24,440
+And to me, that was just, it was just like this incredible
+
+429
+00:23:24,540 --> 00:23:27,840
+struggle which always ended in your defeat.
+
+430
+00:23:27,940 --> 00:23:30,960
+But for some reason, you had to keep struggling against it.
+
+431
+00:23:31,060 --> 00:23:33,260
+Space Invaders was so popular,
+
+432
+00:23:33,360 --> 00:23:37,360
+it turned arcades into the new dens of iniquity for teenagers.
+
+433
+00:23:37,460 --> 00:23:40,460
+Even though home consoles offered many of the same titles,
+
+434
+00:23:40,560 --> 00:23:43,160
+they didn't have the same high-tech performance.
+
+435
+00:23:43,161 --> 00:23:46,160
+Arcade games were bigger, more powerful, and louder.
+
+436
+00:23:46,260 --> 00:23:49,000
+They were packed with thousands of dollars of technology,
+
+437
+00:23:49,100 --> 00:23:50,960
+paid for by millions of kids,
+
+438
+00:23:51,060 --> 00:23:53,800
+pumping billions of quarters into the video slots
+
+439
+00:23:53,900 --> 00:23:55,800
+to take on aliens.
+
+440
+00:23:55,900 --> 00:23:58,300
+But soon they sparked an international outcry
+
+441
+00:23:58,400 --> 00:24:01,620
+that dubbed them the electronic drug.
+
+442
+00:24:01,720 --> 00:24:04,220
+In the Philippines, Ferdinand Marcos banned them.
+
+443
+00:24:04,320 --> 00:24:06,720
+In America, city councils enacted curfews
+
+444
+00:24:06,820 --> 00:24:08,460
+to make children come home.
+
+445
+00:24:08,560 --> 00:24:10,260
+The Surgeon General, C. Everett Cook,
+
+446
+00:24:10,360 --> 00:24:12,320
+who ordered warning labels on cigarettes,
+
+447
+00:24:12,321 --> 00:24:17,980
+cigarettes said video games produced aberrations in childhood behavior, causing users to be
+
+448
+00:24:17,981 --> 00:24:20,100
+addicted body and soul.
+
+449
+00:24:20,101 --> 00:24:24,100
+Even the Journal of American Medicine announced that video game play damaged wrists and hands
+
+450
+00:24:24,101 --> 00:24:25,240
+over time.
+
+451
+00:24:25,241 --> 00:24:27,040
+But nothing kept the kids from playing.
+
+452
+00:24:27,041 --> 00:24:29,180
+Oh, there's a flying saucer.
+
+453
+00:24:29,181 --> 00:24:32,320
+Kids are naturally drawn toward things that shock and offend adults.
+
+454
+00:24:32,321 --> 00:24:38,640
+I think what we're afraid of about these games is that they bring to the surface dark sides
+
+455
+00:24:38,641 --> 00:24:41,640
+of our children, aggressive side of our children,
+
+456
+00:24:41,641 --> 00:24:44,580
+and children's sexual fantasies.
+
+457
+00:24:44,581 --> 00:24:46,220
+We don't like to accept that children
+
+458
+00:24:46,221 --> 00:24:48,340
+have any of those things.
+
+459
+00:24:48,341 --> 00:24:52,180
+Loved or loathed, more games followed in new genres,
+
+460
+00:24:52,181 --> 00:24:56,500
+like Lunar Lander, the first flight simulation game.
+
+461
+00:24:56,501 --> 00:24:59,500
+Then Asteroids, the last great black and white
+
+462
+00:24:59,501 --> 00:25:01,660
+two-dimensional game.
+
+463
+00:25:01,661 --> 00:25:05,640
+Then came a game destined to be the video icon of the 80s.
+
+464
+00:25:05,641 --> 00:25:08,240
+It was derived from a Japanese nursery rhyme
+
+465
+00:25:08,241 --> 00:25:09,980
+about a devouring monster.
+
+466
+00:25:09,981 --> 00:25:11,640
+It was called Pac-Man.
+
+467
+00:25:12,940 --> 00:25:14,840
+Pac-Man was followed by Defender,
+
+468
+00:25:14,841 --> 00:25:16,620
+a game that left an indelible mark
+
+469
+00:25:16,621 --> 00:25:17,980
+on the generation of gamers
+
+470
+00:25:17,981 --> 00:25:20,560
+because of its sheer emotional intensity.
+
+471
+00:25:20,561 --> 00:25:24,260
+The first game to achieve so visceral a response.
+
+472
+00:25:24,261 --> 00:25:26,620
+All we had was this title, Defender.
+
+473
+00:25:26,621 --> 00:25:28,060
+You know, like you're defending something
+
+474
+00:25:28,061 --> 00:25:30,760
+because if you want to blow up things
+
+475
+00:25:30,761 --> 00:25:33,100
+and show a lot of gratuitous violence,
+
+476
+00:25:33,101 --> 00:25:35,200
+it's nice to have the moral high ground.
+
+477
+00:25:35,201 --> 00:25:37,760
+You know, you're defending the world.
+
+478
+00:25:37,761 --> 00:25:40,300
+You're not just raping and pillaging,
+
+479
+00:25:40,301 --> 00:25:42,540
+but you're on the side of fear.
+
+480
+00:25:42,541 --> 00:25:44,400
+Defender was one of the best ways
+
+481
+00:25:44,401 --> 00:25:46,260
+that I could probably spend my allowance.
+
+482
+00:25:46,261 --> 00:25:48,880
+These poor people were being taken away by the aliens,
+
+483
+00:25:48,881 --> 00:25:50,580
+and your job was to shoot the aliens
+
+484
+00:25:50,581 --> 00:25:53,600
+so your poor settlers or native population
+
+485
+00:25:53,601 --> 00:25:55,940
+wouldn't be swept away and kidnapped.
+
+486
+00:25:55,941 --> 00:25:57,540
+The popularity of video games
+
+487
+00:25:57,541 --> 00:25:59,320
+reached every part of America,
+
+488
+00:25:59,321 --> 00:26:02,620
+even the Oval Office and President Ronald Reagan.
+
+489
+00:26:02,621 --> 00:26:04,760
+Once you begin a great movement,
+
+490
+00:26:04,761 --> 00:26:06,760
+there's no telling where it'll end.
+
+491
+00:26:06,761 --> 00:26:15,960
+He talked about how these video games were training, you know, the warriors of the next century to, you know, in a positive fashion.
+
+492
+00:26:15,961 --> 00:26:26,942
+I mean, he did not, this was not as to where today you have people saying, you know, calling video games ridiculously, merger simulators and things like that, flying
+
+493
+00:26:26,943 --> 00:26:27,940
+off the handle.
+
+494
+00:26:28,020 --> 00:26:32,380
+He was just talking about how they were developing the skills that would be needed in the future.
+
+495
+00:26:32,700 --> 00:26:35,500
+And, you know, he wasn't so far off.
+
+496
+00:26:35,501 --> 00:26:39,300
+For all the leaps in technology that boosted the sophistication
+
+497
+00:26:39,400 --> 00:26:43,140
+of video games, none compared to the one about to change America
+
+498
+00:26:43,240 --> 00:26:45,040
+and video games as well.
+
+499
+00:26:45,140 --> 00:26:48,240
+The games, played at arcades and on home consoles,
+
+500
+00:26:48,340 --> 00:26:51,280
+were about to have yet another platform to play on,
+
+501
+00:26:51,380 --> 00:26:52,960
+the home computer.
+
+502
+00:26:53,060 --> 00:26:55,660
+And from the very first Apple and IBM,
+
+503
+00:26:55,760 --> 00:26:59,160
+the world of video games was about to become a home staple.
+
+504
+00:26:59,161 --> 00:27:00,000
+a home staple.
+
+505
+00:27:03,340 --> 00:27:08,460
+Ladies and gentlemen, boys and girls,
+
+506
+00:27:08,461 --> 00:27:11,300
+let's get ready to rumble.
+
+507
+00:27:11,301 --> 00:27:14,920
+By the mid-1980s, video games had become an entertainment
+
+508
+00:27:14,921 --> 00:27:15,640
+icon.
+
+509
+00:27:15,641 --> 00:27:17,920
+In honor of its place in the American heart,
+
+510
+00:27:17,921 --> 00:27:21,600
+the industry received the ultimate pop tribute.
+
+511
+00:27:21,601 --> 00:27:26,060
+In 1999, the US Post Office issued a commemorative stamp
+
+512
+00:27:26,061 --> 00:27:27,320
+in its honor.
+
+513
+00:27:27,321 --> 00:27:28,260
+And why not?
+
+514
+00:27:28,261 --> 00:27:30,800
+Video games were right up there among the best ideas
+
+515
+00:27:30,801 --> 00:27:32,280
+America had ever come up with.
+
+516
+00:27:32,720 --> 00:27:36,780
+They were original, fun, fast, hip, and high tech.
+
+517
+00:27:37,140 --> 00:27:39,560
+And most of all, they were cool.
+
+518
+00:27:40,600 --> 00:27:42,820
+On their way to the heights of popularity,
+
+519
+00:27:43,140 --> 00:27:44,660
+these games did more than amuse.
+
+520
+00:27:45,020 --> 00:27:48,480
+They also addressed a new generation's psychological needs,
+
+521
+00:27:48,481 --> 00:27:51,460
+and they did so as easily as hitting an on-off switch.
+
+522
+00:27:52,540 --> 00:27:56,580
+We have all these inner fantasies of, like, taking charge,
+
+523
+00:27:56,581 --> 00:27:59,220
+you know, Rambo-esque things of, you know,
+
+524
+00:27:59,280 --> 00:28:00,660
+making things right, you know?
+
+525
+00:28:00,680 --> 00:28:03,180
+It's like we sure screwed up, you know, the real world,
+
+526
+00:28:03,560 --> 00:28:05,960
+so at least in the video game, maybe we can fix things there.
+
+527
+00:28:06,400 --> 00:28:08,920
+You know, we can make it right in the artificial world,
+
+528
+00:28:09,560 --> 00:28:11,500
+you know, because the real world is just way too messy to do.
+
+529
+00:28:14,200 --> 00:28:16,800
+One of the founders of the industry was Atari.
+
+530
+00:28:17,140 --> 00:28:19,480
+Their games were so successful at the arcade
+
+531
+00:28:19,481 --> 00:28:22,280
+and in home renditions that a flood of competitors followed,
+
+532
+00:28:22,600 --> 00:28:25,800
+many from Japan, like Nintendo, Sega, and Sony.
+
+533
+00:28:25,801 --> 00:28:31,800
+Though masters of arcade games, they left a mark on home consoles, systems that operate
+
+534
+00:28:31,801 --> 00:28:36,640
+like miniature arcades feeding a television with a cartridge or CD-ROM.
+
+535
+00:28:36,641 --> 00:28:41,380
+The consoles were the first platforms to take games into a third dimension at home by adding
+
+536
+00:28:41,381 --> 00:28:45,800
+superior graphics that left wireframe two-dimension behind.
+
+537
+00:28:45,801 --> 00:28:53,560
+Photorealism in video games and computer games is the holy grail.
+
+538
+00:28:53,561 --> 00:28:57,360
+All of a sudden you say, whoa, that's like real life,
+
+539
+00:28:57,460 --> 00:29:01,360
+but impossible, and I like that.
+
+540
+00:29:01,460 --> 00:29:04,300
+Nintendo, whose name means luck of heaven,
+
+541
+00:29:04,400 --> 00:29:07,100
+went from a maker of playing cards in Japan
+
+542
+00:29:07,200 --> 00:29:10,040
+to become a global master of arcade games.
+
+543
+00:29:10,140 --> 00:29:13,020
+They brought Donkey Kong and Mario to the world
+
+544
+00:29:13,120 --> 00:29:15,240
+and miniaturized the concept of gameplay
+
+545
+00:29:15,340 --> 00:29:18,120
+in handheld units called Game Boys.
+
+546
+00:29:18,220 --> 00:29:20,920
+Their game success is legendary.
+
+547
+00:29:20,921 --> 00:29:24,120
+Nintendo's Super Mario 3 sold more copies
+
+548
+00:29:24,220 --> 00:29:28,120
+than any other video game in history, 7 million.
+
+549
+00:29:28,220 --> 00:29:32,160
+In one year, 1992, pre-tax profits for Nintendo
+
+550
+00:29:32,260 --> 00:29:34,460
+was $7 billion.
+
+551
+00:29:34,560 --> 00:29:38,280
+By the 90s, Nintendo beat all of Hollywood in earned revenue.
+
+552
+00:29:38,380 --> 00:29:42,100
+They moved video games from a fad to a staple of play.
+
+553
+00:29:42,200 --> 00:29:44,480
+In the process, they created a generation
+
+554
+00:29:44,580 --> 00:29:46,920
+of revolutionary home game consoles
+
+555
+00:29:47,020 --> 00:29:50,920
+that reached an apogee in the Nintendo 64.
+
+556
+00:29:50,921 --> 00:29:54,160
+But Nintendo's success only inspired more competition
+
+557
+00:29:54,161 --> 00:29:55,820
+in games and hardware technology.
+
+558
+00:29:56,260 --> 00:29:58,440
+Video games were not just for the kiddies anymore.
+
+559
+00:29:58,880 --> 00:30:02,400
+By the mid-1990s, the average age of a gamer was 24.
+
+560
+00:30:03,020 --> 00:30:05,280
+A PlayStation game console could be found
+
+561
+00:30:05,281 --> 00:30:07,940
+in one out of every four U.S. households.
+
+562
+00:30:08,900 --> 00:30:12,320
+Sega and Sony continued to push the envelope of technology.
+
+563
+00:30:12,920 --> 00:30:15,920
+Sega's Dreamcast's American release in 1999
+
+564
+00:30:15,921 --> 00:30:19,980
+sold 250,000 units within 24 hours
+
+565
+00:30:19,981 --> 00:30:22,180
+and $400,000 in five days.
+
+566
+00:30:23,280 --> 00:30:26,740
+Sega Dreamcast is responsible for the single largest day
+
+567
+00:30:26,741 --> 00:30:29,760
+in retail of any kind of entertainment experience ever.
+
+568
+00:30:30,120 --> 00:30:33,560
+$97 million in one single day of sales.
+
+569
+00:30:33,760 --> 00:30:36,920
+I mean, it was amazing because we tried to look at
+
+570
+00:30:36,921 --> 00:30:40,100
+what was the biggest retail event up until that time.
+
+571
+00:30:40,320 --> 00:30:41,600
+And we had to go beyond retail.
+
+572
+00:30:41,720 --> 00:30:43,620
+We had to look into all forms of entertainment.
+
+573
+00:30:43,621 --> 00:30:45,640
+And we looked at sales of CDs.
+
+574
+00:30:45,641 --> 00:30:50,440
+And we finally found the Phantom Menace at 28.2 million
+
+575
+00:30:50,540 --> 00:30:51,980
+was the single largest event.
+
+576
+00:30:52,080 --> 00:30:54,380
+And we blew that away almost three times.
+
+577
+00:30:54,480 --> 00:30:57,880
+Remember, I'm the monkey and you're the cheese grater.
+
+578
+00:30:57,980 --> 00:30:59,180
+So no messing around.
+
+579
+00:31:02,000 --> 00:31:04,320
+But the next generation of home consoles
+
+580
+00:31:04,420 --> 00:31:07,600
+will do more than elevate games to new graphic levels.
+
+581
+00:31:07,700 --> 00:31:10,640
+Gaming consoles like Sony's PlayStation 2
+
+582
+00:31:10,740 --> 00:31:13,500
+will become the essence of the home entertainment center,
+
+583
+00:31:13,501 --> 00:31:15,900
+combining various mediums of entertainment.
+
+584
+00:31:15,901 --> 00:31:18,180
+It'll play video games and DVDs
+
+585
+00:31:18,181 --> 00:31:21,540
+and replace the personal computer for an internet connection.
+
+586
+00:31:21,541 --> 00:31:23,940
+While the game hardware becomes more sophisticated,
+
+587
+00:31:23,941 --> 00:31:27,780
+the game's software is changing the definition of interaction.
+
+588
+00:31:30,620 --> 00:31:32,620
+You blow something up, you know you've interacted.
+
+589
+00:31:32,621 --> 00:31:34,060
+You know that you've pushed the button
+
+590
+00:31:34,061 --> 00:31:35,580
+and it's made a difference.
+
+591
+00:31:35,581 --> 00:31:38,660
+You know that your participation is actively changing
+
+592
+00:31:38,661 --> 00:31:40,620
+the environment which is there on the screen.
+
+593
+00:31:40,621 --> 00:31:42,660
+But it becomes almost too easy to offer
+
+594
+00:31:42,661 --> 00:31:44,900
+that blowing things up over and over again
+
+595
+00:31:45,000 --> 00:31:50,660
+as the only kind of satisfaction offered to game players.
+
+596
+00:31:50,760 --> 00:31:52,600
+One of the most dramatic examples
+
+597
+00:31:52,700 --> 00:31:56,300
+of the rethinking of Interaction is a new game from Sega.
+
+598
+00:31:56,400 --> 00:31:59,620
+It cost $60 million, the most ever spent,
+
+599
+00:31:59,720 --> 00:32:02,120
+to develop Shenmue, a new milestone
+
+600
+00:32:02,220 --> 00:32:04,420
+in the meaning of Interaction.
+
+601
+00:32:04,520 --> 00:32:07,060
+Shenmue's an example of really what
+
+602
+00:32:07,160 --> 00:32:08,720
+can be looked at in the future.
+
+603
+00:32:08,820 --> 00:32:11,120
+You actually go up and you talk to a character.
+
+604
+00:32:11,121 --> 00:32:12,620
+And when you talk to that character,
+
+605
+00:32:12,621 --> 00:32:13,960
+depending on the type of day,
+
+606
+00:32:13,961 --> 00:32:16,120
+depending on what you say to that character,
+
+607
+00:32:16,121 --> 00:32:18,620
+will cause a different sort of reaction to come back to.
+
+608
+00:32:18,621 --> 00:32:22,160
+They have lots of stuff that will bring back childhood memories.
+
+609
+00:32:22,161 --> 00:32:23,860
+It's really fun.
+
+610
+00:32:23,861 --> 00:32:26,160
+It goes beyond just wanting to kill something
+
+611
+00:32:26,161 --> 00:32:27,880
+and get the points for killing them,
+
+612
+00:32:27,881 --> 00:32:29,380
+that they might actually have information
+
+613
+00:32:29,381 --> 00:32:32,680
+or that the relationship you have is valuable in the future.
+
+614
+00:32:32,681 --> 00:32:34,780
+The games are still in their infancy,
+
+615
+00:32:34,781 --> 00:32:36,480
+but the technology behind them
+
+616
+00:32:36,481 --> 00:32:38,320
+has raised the excitement of games
+
+617
+00:32:38,321 --> 00:32:41,520
+from eye-hand challenges to the level, some would say,
+
+618
+00:32:41,620 --> 00:32:43,560
+of art and literature.
+
+619
+00:32:43,660 --> 00:32:47,820
+The technology is so good, so complete, it's invisible.
+
+620
+00:32:47,920 --> 00:32:51,300
+Games can now focus on creating a whole new experience,
+
+621
+00:32:51,400 --> 00:32:55,000
+far beyond adrenaline-pumping thrills and over-the-top sound.
+
+622
+00:32:55,100 --> 00:32:57,600
+And the vehicle to take games to the next level
+
+623
+00:32:57,700 --> 00:33:00,980
+is the technology of the personal computer and the Internet.
+
+624
+00:33:08,320 --> 00:33:22,320
+Electronic games were born amid the computer revolution of the 1960s.
+
+625
+00:33:22,340 --> 00:33:26,660
+By 1981, when two former Atari game developers started Apple,
+
+626
+00:33:26,980 --> 00:33:29,380
+games were added to the world's first personal computer.
+
+627
+00:33:29,920 --> 00:33:31,600
+IBM followed suit a year later,
+
+628
+00:33:31,740 --> 00:33:34,120
+going so far as to add a joystick to their PC.
+
+629
+00:33:34,121 --> 00:33:37,160
+What no one imagined was that computers would advance
+
+630
+00:33:37,260 --> 00:33:39,660
+the development of games at warp speed
+
+631
+00:33:39,760 --> 00:33:41,920
+and become one of the most important platforms
+
+632
+00:33:42,020 --> 00:33:44,160
+to play them on, getting more sophisticated
+
+633
+00:33:44,260 --> 00:33:45,860
+with every breakthrough in technology,
+
+634
+00:33:45,960 --> 00:33:48,660
+from microprocessors to memory.
+
+635
+00:33:48,760 --> 00:33:51,340
+While arcade players and home consoles
+
+636
+00:33:51,440 --> 00:33:53,480
+dominated the medium in the early days,
+
+637
+00:33:53,580 --> 00:33:56,680
+it was only a matter of time before a home computer's
+
+638
+00:33:56,780 --> 00:34:00,080
+price and performance made it the game platform in millions
+
+639
+00:34:00,180 --> 00:34:01,480
+of homes around the world.
+
+640
+00:34:01,481 --> 00:34:08,480
+world.
+
+641
+00:34:08,481 --> 00:34:10,980
+Video games brought computers into the culture.
+
+642
+00:34:10,981 --> 00:34:14,360
+It, it, uh, they brought computers into the home.
+
+643
+00:34:14,361 --> 00:34:17,500
+And I mean, you know, hey, do you need 16.7 million colors
+
+644
+00:34:17,501 --> 00:34:19,600
+on your desktop to do a spreadsheet?
+
+645
+00:34:19,601 --> 00:34:22,260
+Do you need 32-bit stereo sound for word processing?
+
+646
+00:34:22,261 --> 00:34:23,900
+No, absolutely not.
+
+647
+00:34:23,901 --> 00:34:25,880
+You need them for video games, and that's what people
+
+648
+00:34:25,881 --> 00:34:26,980
+buy computers for.
+
+649
+00:34:31,480 --> 00:34:44,960
+With PC usage growing in more and more homes,
+
+650
+00:34:45,060 --> 00:34:48,160
+the days of the arcade as the place to play electronic games
+
+651
+00:34:48,260 --> 00:34:49,260
+were numbered.
+
+652
+00:34:49,360 --> 00:34:51,700
+Instead of feeding quarters into a video slot,
+
+653
+00:34:51,800 --> 00:34:55,040
+kids were urging their parents to buy a family computer,
+
+654
+00:34:55,140 --> 00:34:58,500
+but with all the power possible to drive a hot new 3D graphic
+
+655
+00:34:58,600 --> 00:34:59,900
+game.
+
+656
+00:34:59,901 --> 00:35:02,740
+Computer is the medium of doing,
+
+657
+00:35:02,840 --> 00:35:06,400
+and people learn by doing, and we love to play.
+
+658
+00:35:06,500 --> 00:35:08,000
+And it's just a perfect fit.
+
+659
+00:35:10,240 --> 00:35:13,340
+At first, computer games were copies or extensions
+
+660
+00:35:13,440 --> 00:35:15,040
+of arcade and console games.
+
+661
+00:35:15,140 --> 00:35:16,960
+This is my shape.
+
+662
+00:35:17,060 --> 00:35:19,220
+But by the mid-'90s, they began to find
+
+663
+00:35:19,320 --> 00:35:21,660
+their own unique distinction as games.
+
+664
+00:35:21,760 --> 00:35:23,860
+Central to their identity was an emphasis
+
+665
+00:35:23,960 --> 00:35:25,600
+on more mature tastes.
+
+666
+00:35:25,700 --> 00:35:28,600
+Will you dedicate yourself to our survival?
+
+667
+00:35:29,900 --> 00:35:35,600
+The early games, quite frankly, were just classic hack and slash, you know, generic swords and sorcery.
+
+668
+00:35:36,160 --> 00:35:40,520
+But over time, I began to get feedback that you might consider things like fan mail,
+
+669
+00:35:41,040 --> 00:35:45,760
+or I began to see the impact that these games were having on, you know, young people around the world.
+
+670
+00:35:46,380 --> 00:35:51,700
+And I personalized that to saying that, you know, with this opportunity to speak to the masses,
+
+671
+00:35:51,960 --> 00:35:59,360
+came a responsibility to ensure that the content that they were participating in was content that had a net positive effect.
+
+672
+00:35:59,900 --> 00:36:03,500
+Far from the days of a beam of light ricocheting off rackets,
+
+673
+00:36:03,600 --> 00:36:05,500
+computer and video games have advanced
+
+674
+00:36:05,600 --> 00:36:08,500
+into complex storylines, complete with heroes,
+
+675
+00:36:08,600 --> 00:36:11,340
+villains, plots, scenes, and settings,
+
+676
+00:36:11,440 --> 00:36:15,040
+anywhere from the portals of hell to the tombs of Egypt.
+
+677
+00:36:15,140 --> 00:36:17,960
+The computer game is now a medium for stories.
+
+678
+00:36:20,660 --> 00:36:23,760
+We're at the threshold of a new era of storytelling.
+
+679
+00:36:23,860 --> 00:36:25,560
+One can imagine the future.
+
+680
+00:36:25,660 --> 00:36:28,000
+We look back and we're talking about the cyber bards,
+
+681
+00:36:28,001 --> 00:36:30,000
+that is the storytellers who have grabbed hold
+
+682
+00:36:30,001 --> 00:36:34,000
+of the potentials of an immersive media technology
+
+683
+00:36:34,001 --> 00:36:38,000
+and really begun to explore how one can use that
+
+684
+00:36:38,001 --> 00:36:39,000
+to tell stories.
+
+685
+00:36:39,001 --> 00:36:40,000
+We're at a baby stage.
+
+686
+00:36:40,001 --> 00:36:43,000
+But down the line, we may see it as an exciting
+
+687
+00:36:43,001 --> 00:36:47,000
+and dynamic a form as cinema itself.
+
+688
+00:36:47,001 --> 00:36:50,000
+We want to develop a game that engages and challenges
+
+689
+00:36:50,001 --> 00:36:53,000
+and inspires, but most important, inspires.
+
+690
+00:36:53,001 --> 00:36:55,000
+And what do we mean by that?
+
+691
+00:36:55,001 --> 00:36:57,000
+That means that it's not only inspires you to keep
+
+692
+00:36:57,001 --> 00:36:58,960
+inspires you to keep playing.
+
+693
+00:36:58,961 --> 00:37:00,900
+It inspires you to want to know more about it,
+
+694
+00:37:00,901 --> 00:37:03,740
+want to be more immersed in the characters,
+
+695
+00:37:03,741 --> 00:37:09,040
+be more sympathetic to them so that when they hurt, you hurt.
+
+696
+00:37:09,041 --> 00:37:10,180
+That becomes very important.
+
+697
+00:37:10,181 --> 00:37:15,620
+It's really finding a way to connect the player
+
+698
+00:37:15,621 --> 00:37:19,020
+with that main character, with the game,
+
+699
+00:37:19,021 --> 00:37:21,920
+so that they feel each other's pain.
+
+700
+00:37:21,921 --> 00:37:24,200
+If you haven't bagged a premium before the next sales
+
+701
+00:37:24,201 --> 00:37:26,200
+comes in, you're out!
+
+702
+00:37:26,300 --> 00:37:28,000
+Guess they couldn't save me, huh?
+
+703
+00:37:28,100 --> 00:37:31,600
+No, but there's still a chance you could save me.
+
+704
+00:37:31,700 --> 00:37:33,700
+Hollywood has flocked to computer games
+
+705
+00:37:33,800 --> 00:37:35,940
+as a new creative storytelling outlet,
+
+706
+00:37:36,040 --> 00:37:38,640
+attracting some of the biggest names in film.
+
+707
+00:37:38,740 --> 00:37:41,020
+Steven Spielberg turned the epic blockbuster
+
+708
+00:37:41,120 --> 00:37:44,420
+Saving Private Ryan into the game Medal of Honor.
+
+709
+00:37:44,520 --> 00:37:47,960
+Tom Clancy was behind Rainbow Six and Rogue Spear.
+
+710
+00:37:48,060 --> 00:37:51,160
+And the granddaddy of science fiction and movie myth,
+
+711
+00:37:51,161 --> 00:37:55,160
+George Lucas has an entire company at work making games.
+
+712
+00:37:59,160 --> 00:38:02,160
+While home computers have shaped games into stories,
+
+713
+00:38:02,161 --> 00:38:06,160
+the advent of the Internet and online game play
+
+714
+00:38:06,161 --> 00:38:09,160
+have turned games into a kind of parallel universe,
+
+715
+00:38:09,161 --> 00:38:11,160
+where people not only play games,
+
+716
+00:38:11,161 --> 00:38:13,160
+they explore aspects of themselves,
+
+717
+00:38:13,161 --> 00:38:16,160
+a kind of exercise in conscious living,
+
+718
+00:38:16,161 --> 00:38:19,160
+free from the stresses of the real world.
+
+719
+00:38:19,161 --> 00:38:23,060
+One of the most popular online games is the Ultima series.
+
+720
+00:38:23,160 --> 00:38:25,660
+It's a medieval fantasy world.
+
+721
+00:38:25,760 --> 00:38:28,160
+But more than a game, it's a community.
+
+722
+00:38:28,260 --> 00:38:30,600
+The game connects people around the globe
+
+723
+00:38:30,700 --> 00:38:33,300
+drawn to a similar game culture and experience.
+
+724
+00:38:33,400 --> 00:38:36,480
+Unlike other games that involve amassing a body count,
+
+725
+00:38:36,580 --> 00:38:40,040
+this emphasizes character and ethics, parts of the game
+
+726
+00:38:40,140 --> 00:38:41,620
+that have made it a bestseller.
+
+727
+00:38:44,260 --> 00:38:47,080
+I began to create a game where you had to prove yourself
+
+728
+00:38:47,081 --> 00:38:49,320
+to prove yourself to be a person of good virtue
+
+729
+00:38:49,420 --> 00:38:52,520
+in order to win the game, not just overcome the obstacles.
+
+730
+00:38:52,620 --> 00:38:55,820
+People knew whenever they played a Lord British game
+
+731
+00:38:55,920 --> 00:38:59,020
+that they were going to be immersed in the world of Britannia
+
+732
+00:38:59,120 --> 00:39:01,560
+and they knew that they were going to face things
+
+733
+00:39:01,660 --> 00:39:04,260
+that they had never faced before.
+
+734
+00:39:04,360 --> 00:39:07,540
+Because everything that you did, every person that you killed,
+
+735
+00:39:07,640 --> 00:39:09,600
+every item that you stole, you know,
+
+736
+00:39:09,700 --> 00:39:11,980
+worked against your karma, if you will.
+
+737
+00:39:12,080 --> 00:39:15,940
+And basically, you had to work on being the balanced avatar.
+
+738
+00:39:15,941 --> 00:39:18,640
+You not only had to save the world, but you had to save yourself.
+
+739
+00:39:20,340 --> 00:39:24,740
+My lord, the Avatar has arrived in Britannia
+
+740
+00:39:24,741 --> 00:39:28,700
+and has been easily dispatched by my worm guard.
+
+741
+00:39:29,160 --> 00:39:30,580
+Do not be so sure.
+
+742
+00:39:31,540 --> 00:39:35,900
+The meddlesome champion of virtue is not so easily defeated.
+
+743
+00:39:36,500 --> 00:39:39,440
+With the advent of the internet, now we finally have the ability
+
+744
+00:39:39,441 --> 00:39:43,640
+for people to sit in their own homes, connect together via the internet
+
+745
+00:39:43,641 --> 00:39:45,480
+so that everyone who plays this game
+
+746
+00:39:45,580 --> 00:39:48,140
+is simultaneously connected together.
+
+747
+00:39:48,240 --> 00:39:51,840
+At any point in time, up to 200,000 people around the world
+
+748
+00:39:51,940 --> 00:39:53,680
+are online playing Ultima.
+
+749
+00:39:53,780 --> 00:39:55,780
+The game is updated and changed online
+
+750
+00:39:55,880 --> 00:39:59,080
+when a new version is ready, so there are no obstacles or costs
+
+751
+00:39:59,180 --> 00:40:01,300
+associated with packaging or shipping.
+
+752
+00:40:01,400 --> 00:40:04,400
+Like a utility bill for water or electricity,
+
+753
+00:40:04,500 --> 00:40:07,700
+players pay a monthly fee to enter a virtual world
+
+754
+00:40:07,800 --> 00:40:09,840
+where there are permanent consequences,
+
+755
+00:40:09,841 --> 00:40:13,840
+a world that never ends, and a game that is never over.
+
+756
+00:40:13,841 --> 00:40:17,840
+What you do here lasts your entire virtual lifetime.
+
+757
+00:40:17,841 --> 00:40:20,840
+The game has taken off beyond the wildest imagination
+
+758
+00:40:20,841 --> 00:40:23,840
+of its creator, and now includes people paying real money
+
+759
+00:40:23,841 --> 00:40:25,840
+to buy virtual real estate.
+
+760
+00:40:25,841 --> 00:40:28,840
+But the most significant difference about this game
+
+761
+00:40:28,841 --> 00:40:33,840
+is its ability to teach players the value of ethical behavior.
+
+762
+00:40:33,841 --> 00:40:35,840
+In a persistent virtual world,
+
+763
+00:40:35,841 --> 00:40:38,840
+whatever you do is now instantly and forever
+
+764
+00:40:38,841 --> 00:40:41,840
+part of the permanent history of that virtual world.
+
+765
+00:40:41,841 --> 00:40:45,840
+And so therefore, the ramification of your deeds
+
+766
+00:40:45,841 --> 00:40:47,840
+is much more important.
+
+767
+00:40:47,841 --> 00:40:51,840
+You can't flippantly do something that you might otherwise
+
+768
+00:40:51,841 --> 00:40:54,840
+consider unethical or poor behavior,
+
+769
+00:40:54,841 --> 00:40:56,840
+because that deed, just like in the real world,
+
+770
+00:40:56,841 --> 00:40:59,840
+will follow you continuously for the rest of your virtual life.
+
+771
+00:41:01,840 --> 00:41:04,840
+Ultima and games like it have taken to heart
+
+772
+00:41:04,841 --> 00:41:07,840
+that video games are a negative experience
+
+773
+00:41:07,841 --> 00:41:09,840
+and turned it into a positive by making their games
+
+774
+00:41:09,841 --> 00:41:12,840
+a kind of handbook of moral instruction.
+
+775
+00:41:12,841 --> 00:41:15,840
+Like good literature, the interactive game experience
+
+776
+00:41:15,841 --> 00:41:18,840
+now has the potential to educate and inspire
+
+777
+00:41:18,841 --> 00:41:20,840
+as well as entertain.
+
+778
+00:41:26,840 --> 00:41:31,840
+Blackthorn, you are indeed a fool to want, Britannia.
+
+779
+00:41:31,841 --> 00:41:35,340
+once I had finished with it.
+
+780
+00:41:38,080 --> 00:41:41,780
+Video games will never be as essential as food, clothing,
+
+781
+00:41:41,880 --> 00:41:45,620
+or shelter, but they have become a multibillion-dollar industry
+
+782
+00:41:45,720 --> 00:41:49,120
+by providing the space for adolescents and adults to dream,
+
+783
+00:41:49,220 --> 00:41:53,020
+to fantasize, and to experience a kind of mastery
+
+784
+00:41:53,120 --> 00:41:55,760
+not wholly available in the real world.
+
+785
+00:41:55,860 --> 00:41:59,360
+And most of all, for all the genius of technology
+
+786
+00:41:59,361 --> 00:42:02,200
+and sophistication of art and science,
+
+787
+00:42:02,300 --> 00:42:04,700
+the end result is to tell a good story.
+
+788
+00:42:10,340 --> 00:42:12,840
+So 10,000 years ago, people sat around a campfire
+
+789
+00:42:12,940 --> 00:42:14,700
+and they listened to a story, and that seemed completely
+
+790
+00:42:14,800 --> 00:42:15,780
+natural.
+
+791
+00:42:15,880 --> 00:42:18,340
+And 30 years ago, they sat around the living room
+
+792
+00:42:18,440 --> 00:42:20,520
+and they watched the television, and that also
+
+793
+00:42:20,620 --> 00:42:22,080
+seemed completely natural.
+
+794
+00:42:22,180 --> 00:42:25,820
+A time is coming where what will really seem natural to people
+
+795
+00:42:25,821 --> 00:42:28,620
+is to sit down in front of a computer screen,
+
+796
+00:42:28,720 --> 00:42:31,000
+whether it's in their living room or their den,
+
+797
+00:42:31,100 --> 00:42:34,300
+or even at work, and be connected with other people
+
+798
+00:42:34,400 --> 00:42:37,800
+around the world, sharing in a fantasy world experience,
+
+799
+00:42:37,900 --> 00:42:40,840
+making their own story, being a hero all by themselves.
+
+800
+00:42:44,000 --> 00:42:45,340
+Ah!
+
+801
+00:42:45,440 --> 00:42:46,840
+I'm getting out of here.
+
+802
+00:42:46,940 --> 00:42:48,680
+This world's for suckers.
+

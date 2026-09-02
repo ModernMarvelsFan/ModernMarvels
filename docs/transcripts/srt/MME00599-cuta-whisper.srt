@@ -1,0 +1,3108 @@
+1
+00:00:00,001 --> 00:00:06,240
+Lightsabers and X-wing fighters to bionic bad guys
+
+2
+00:00:06,241 --> 00:00:08,240
+Commander, tear this ship apart!
+
+3
+00:00:08,241 --> 00:00:14,920
+And high-tech gadgets of every shape, size, and personality
+
+4
+00:00:14,921 --> 00:00:16,920
+We'll be destroyed to shore!
+
+5
+00:00:16,921 --> 00:00:23,160
+From the mind of George Lucas came an epic saga about a galaxy far, far away.
+
+6
+00:00:23,161 --> 00:00:25,160
+I'm gonna make a jump to light speed.
+
+7
+00:00:25,161 --> 00:00:32,560
+But just how much of the amazing technology seen in the Star Wars saga is actually based
+
+8
+00:00:32,561 --> 00:00:33,760
+on scientific fact?
+
+9
+00:00:33,761 --> 00:00:35,260
+Help me Obi-Wan Kenobi.
+
+10
+00:00:35,261 --> 00:00:38,360
+And how much is simply a Jedi mind trick?
+
+11
+00:00:38,361 --> 00:00:43,900
+There's a lot of elements in the movies that are coming to be true.
+
+12
+00:00:43,901 --> 00:00:46,740
+Could a lightsaber really work?
+
+13
+00:00:46,741 --> 00:00:53,480
+And just how plausible is the science behind the world's best known half man, half machine,
+
+14
+00:00:53,481 --> 00:00:54,480
+Darth Vader?
+
+15
+00:00:54,481 --> 00:00:58,480
+Present technology is catching up with Star Wars and surpassing it.
+
+16
+00:00:58,481 --> 00:01:03,480
+So hop in your Landspeeder and get ready to take an incredible journey
+
+17
+00:01:03,481 --> 00:01:11,480
+as we test the science fact and science fiction of Star Wars Tech.
+
+18
+00:01:24,480 --> 00:01:25,480
+Here they come.
+
+19
+00:01:28,480 --> 00:01:31,480
+When you say the word Star Wars,
+
+20
+00:01:31,481 --> 00:01:35,480
+most people probably picture gigantic spaceships
+
+21
+00:01:35,481 --> 00:01:39,480
+shooting across the galaxy in a burst of digital surround sound.
+
+22
+00:01:41,480 --> 00:01:45,480
+But while those huge explosions are certainly spectacular,
+
+23
+00:01:45,481 --> 00:01:47,480
+how realistic are they?
+
+24
+00:01:47,481 --> 00:01:50,480
+In Star Wars, you hear a lot of sound,
+
+25
+00:01:50,481 --> 00:01:53,480
+but actually in space, there would be no sound.
+
+26
+00:01:54,480 --> 00:01:56,480
+Sound requires air.
+
+27
+00:01:56,481 --> 00:02:00,480
+The reason you can hear me is because my voice is actually vibrating the air.
+
+28
+00:02:00,481 --> 00:02:02,480
+Space is basically a vacuum.
+
+29
+00:02:02,481 --> 00:02:05,480
+Sound only travels through material interacting with the air around it.
+
+30
+00:02:05,481 --> 00:02:09,480
+So if you watch the ship explode, you wouldn't hear anything.
+
+31
+00:02:14,480 --> 00:02:19,480
+There is sound in space in Star Wars films just to add dramatic emphasis to the shots.
+
+32
+00:02:19,481 --> 00:02:23,480
+emphasis to the shots.
+
+33
+00:02:23,481 --> 00:02:26,480
+In a visual effects shot, sometimes sound effects actually sell the shot.
+
+34
+00:02:30,080 --> 00:02:32,080
+Without the sound effect, it just doesn't work.
+
+35
+00:02:35,480 --> 00:02:38,180
+Big fiery explosions in space are another fantasy.
+
+36
+00:02:38,181 --> 00:02:41,980
+Such a big explosion needs more oxygen than you would get from the limited oxygen
+
+37
+00:02:41,981 --> 00:02:42,681
+in a ship,
+
+38
+00:02:42,682 --> 00:02:45,480
+so fires would be much smaller than you actually see in Star Wars.
+
+39
+00:02:45,481 --> 00:02:49,480
+The ships themselves being hit would be presumably flammable.
+
+40
+00:02:51,480 --> 00:02:53,480
+So the smoke that you get when they're hit,
+
+41
+00:02:53,481 --> 00:02:55,480
+you would get whether you're in the atmosphere or not.
+
+42
+00:02:55,481 --> 00:02:57,480
+So that's reasonable.
+
+43
+00:02:58,480 --> 00:03:02,480
+But not everything in a Star Wars space battle strays far from fact.
+
+44
+00:03:03,480 --> 00:03:05,480
+Take X-Wing fighters, for example,
+
+45
+00:03:05,481 --> 00:03:08,480
+the preferred craft of the heroic Rebel Alliance.
+
+46
+00:03:08,481 --> 00:03:12,480
+R2, that stabilizer's broken loose again. See if you can't lock it down.
+
+47
+00:03:12,481 --> 00:03:15,980
+With a few modifications, this sleek and speedy flyer
+
+48
+00:03:16,060 --> 00:03:19,020
+would fit right in with the fighter planes found on our planet.
+
+49
+00:03:21,520 --> 00:03:23,320
+George Lucas looked at the X-Wing fighter
+
+50
+00:03:23,400 --> 00:03:25,360
+as kind of an extrapolation of modern aircraft,
+
+51
+00:03:25,420 --> 00:03:26,860
+jet fighters and things like that.
+
+52
+00:03:31,360 --> 00:03:34,140
+And I think that relationship that it looks like a fighter plane,
+
+53
+00:03:34,200 --> 00:03:35,940
+that people can connect with that,
+
+54
+00:03:36,000 --> 00:03:38,800
+so you look at it and automatically people get what that is.
+
+55
+00:03:38,801 --> 00:03:44,840
+But the X-wing would need a lot more engine power than our fighter planes
+
+56
+00:03:44,841 --> 00:03:47,780
+to make hairpin turns like this in outer space.
+
+57
+00:03:48,000 --> 00:03:50,980
+In terms of maneuverability, you're out in space,
+
+58
+00:03:51,020 --> 00:03:54,300
+so you can't use the atmosphere to generate any of the forces on you.
+
+59
+00:03:56,040 --> 00:03:59,980
+An airplane turns and banks because it gets forces on the wings.
+
+60
+00:04:00,420 --> 00:04:01,920
+In space, you don't have that to use,
+
+61
+00:04:02,020 --> 00:04:05,700
+so you need engines that can send out in all directions if you're going to turn a lot.
+
+62
+00:04:05,701 --> 00:04:09,200
+You'd have to have a bunch of different thrusters mounted all over the vehicle,
+
+63
+00:04:09,300 --> 00:04:10,700
+and they'd have to operate in perfect unison
+
+64
+00:04:10,800 --> 00:04:12,700
+in order to get those kinds of coordinated turns.
+
+65
+00:04:14,200 --> 00:04:17,700
+Those kinds of turns and movements, it's not really possible.
+
+66
+00:04:19,200 --> 00:04:22,200
+In battle, the X-Wings meet their match
+
+67
+00:04:22,300 --> 00:04:24,700
+when confronted by the deadly Imperial TIE fighters.
+
+68
+00:04:26,200 --> 00:04:28,200
+Hit, but not bad. R2, see what you can do with it.
+
+69
+00:04:28,300 --> 00:04:30,200
+But here's one Star Wars technology
+
+70
+00:04:30,300 --> 00:04:33,200
+that's a lot closer to our galaxy than you might think.
+
+71
+00:04:33,201 --> 00:04:33,901
+think.
+
+72
+00:04:33,902 --> 00:04:40,480
+The TIE in TIE fighter stands for twin ion engine, a type of engine that really does exist.
+
+73
+00:04:44,000 --> 00:04:47,200
+HYE, check hydraulic pressure, no? Hydraulics go.
+
+74
+00:04:47,201 --> 00:04:54,000
+In 1998, NASA launched a spacecraft known as Deep Space One on a data gathering mission.
+
+75
+00:04:55,120 --> 00:05:00,080
+Main engine start and liftoff of the Delta rocket with Deep Space One,
+
+76
+00:05:00,081 --> 00:05:03,180
+testing the spacecraft technologies of the next century.
+
+77
+00:05:04,040 --> 00:05:10,700
+After launch, the spacecraft was propelled on its journey across the solar system by a single ion engine.
+
+78
+00:05:11,260 --> 00:05:14,780
+The concept for ion engines has actually been around for more than 100 years.
+
+79
+00:05:14,781 --> 00:05:19,740
+Now, the way it works is xenon gas, which is like helium or neon but heavier,
+
+80
+00:05:19,960 --> 00:05:24,540
+is introduced into a chamber here, and it's ionized, which means it's given an electric charge.
+
+81
+00:05:24,541 --> 00:05:30,640
+And once it has an electric charge, a voltage applied between this grid and one just behind it
+
+82
+00:05:30,641 --> 00:05:33,480
+causes the xenon to shoot out of the engine.
+
+83
+00:05:34,120 --> 00:05:36,920
+Well, the action of the xenon going out this direction
+
+84
+00:05:36,921 --> 00:05:40,420
+causes a reaction that pushes the spacecraft in the other direction.
+
+85
+00:05:41,120 --> 00:05:44,040
+And that's how the ion thruster propels the spacecraft.
+
+86
+00:05:45,240 --> 00:05:49,320
+Ion engines are great for long space voyages
+
+87
+00:05:49,321 --> 00:05:52,020
+that you don't mind getting there a little bit slowly.
+
+88
+00:05:52,021 --> 00:05:58,480
+The problem is, while the particles have very high velocity, which is good, they have very
+
+89
+00:05:58,481 --> 00:05:59,480
+low mass.
+
+90
+00:05:59,481 --> 00:06:03,720
+And it takes a lot of energy to accelerate just a few particles, so we can only do a
+
+91
+00:06:03,721 --> 00:06:04,720
+few at a time.
+
+92
+00:06:04,721 --> 00:06:10,180
+In fact, the ion engines that we use push on a spacecraft about as hard as this single
+
+93
+00:06:10,181 --> 00:06:12,220
+piece of paper pushes on my hand.
+
+94
+00:06:12,221 --> 00:06:17,020
+And so if you're being chased by an enemy who's trying to kill you, I think you'd probably
+
+95
+00:06:17,021 --> 00:06:19,640
+opt for maneuverability over fuel efficiency.
+
+96
+00:06:22,020 --> 00:06:27,520
+Not only does the speed of the Empire's TIE fighters push the limits of current science,
+
+97
+00:06:27,521 --> 00:06:30,020
+so do their large windshields,
+
+98
+00:06:30,021 --> 00:06:34,020
+which can also be found on many other Star Wars spacecraft,
+
+99
+00:06:34,021 --> 00:06:36,020
+like Han Solo's Millennium Falcon.
+
+100
+00:06:36,021 --> 00:06:42,020
+Sir, the possibility of successfully navigating an asteroid field is approximately 3,720 to 1.
+
+101
+00:06:42,021 --> 00:06:43,020
+Never tell me the odds.
+
+102
+00:06:43,021 --> 00:06:49,020
+It's very difficult to manufacture glass that can withstand the vacuum pressure exerted by space
+
+103
+00:06:49,021 --> 00:06:53,020
+and also stand up to occasional encounters with floating debris.
+
+104
+00:06:56,020 --> 00:06:59,020
+That's why the windows on real spaceships tend to be very small
+
+105
+00:06:59,021 --> 00:07:02,020
+and up to two and a half inches thick.
+
+106
+00:07:02,021 --> 00:07:05,020
+But what if those windows weren't made of glass?
+
+107
+00:07:05,021 --> 00:07:09,020
+One possibility that's very exciting that's a recent development
+
+108
+00:07:09,021 --> 00:07:12,020
+is a plasma window.
+
+109
+00:07:12,021 --> 00:07:15,020
+Plasma is the fourth state of matter.
+
+110
+00:07:15,021 --> 00:07:18,020
+Solid, liquid, gas, plasma.
+
+111
+00:07:19,020 --> 00:07:22,140
+Plasma is like a gas that's been very electrified,
+
+112
+00:07:22,280 --> 00:07:24,900
+so it has separated positive and negative charges.
+
+113
+00:07:25,160 --> 00:07:28,900
+Like what's in a neon light, you have a tube to contain the plasma,
+
+114
+00:07:29,340 --> 00:07:30,960
+which then glows and creates light.
+
+115
+00:07:31,380 --> 00:07:33,880
+Plasma has different properties than a gas
+
+116
+00:07:33,881 --> 00:07:36,400
+because you have these charged particles moving around.
+
+117
+00:07:36,500 --> 00:07:38,480
+They create electric and magnetic fields,
+
+118
+00:07:38,481 --> 00:07:42,960
+and you can contain the plasma with electric and magnetic fields.
+
+119
+00:07:43,380 --> 00:07:48,560
+In 1995, physicist Adi Hershkovich did exactly that.
+
+120
+00:07:49,020 --> 00:07:52,140
+when he created the first plasma window.
+
+121
+00:07:52,141 --> 00:07:55,400
+It was tiny compared to windows in Star Wars ships,
+
+122
+00:07:55,401 --> 00:07:57,360
+only two inches in diameter,
+
+123
+00:07:57,361 --> 00:07:59,240
+but it opened up the possibility
+
+124
+00:07:59,241 --> 00:08:02,380
+of having gigantic space windows in the future.
+
+125
+00:08:02,381 --> 00:08:04,660
+Plasma, because of its density,
+
+126
+00:08:04,661 --> 00:08:07,760
+can hold in atmosphere on one side
+
+127
+00:08:07,761 --> 00:08:10,360
+and keep out space on the other side.
+
+128
+00:08:10,361 --> 00:08:13,340
+And so it's something that could potentially work
+
+129
+00:08:13,341 --> 00:08:15,980
+as a kind of force wall constrained
+
+130
+00:08:15,981 --> 00:08:19,020
+within the boundaries of, say, a window opening,
+
+131
+00:08:19,021 --> 00:08:21,580
+or say, the Death Star landing bay,
+
+132
+00:08:21,581 --> 00:08:27,020
+and virtually be a wall between the vacuum and the atmosphere.
+
+133
+00:08:28,820 --> 00:08:32,060
+Another impressive feature of the spaceships in Star Wars
+
+134
+00:08:32,061 --> 00:08:34,140
+is their ability to jump to light speed.
+
+135
+00:08:34,141 --> 00:08:36,060
+Strap yourselves in. I'm gonna make you jump to light speed.
+
+136
+00:08:36,061 --> 00:08:38,140
+Unfortunately, in our galaxy,
+
+137
+00:08:38,141 --> 00:08:41,700
+spacecraft can't travel anywhere near the speed of light,
+
+138
+00:08:41,701 --> 00:08:43,800
+much less beyond it.
+
+139
+00:08:43,801 --> 00:08:45,180
+In our everyday experience, we think,
+
+140
+00:08:45,181 --> 00:08:47,980
+OK, if I want to go twice as fast, I need twice as much energy.
+
+141
+00:08:48,920 --> 00:08:52,180
+The amount of energy you need to go a little bit faster, it's all proportional.
+
+142
+00:08:53,080 --> 00:08:57,860
+So going four times faster would take four times the amount of energy, and so on.
+
+143
+00:08:58,260 --> 00:08:58,960
+Simple, right?
+
+144
+00:08:59,620 --> 00:09:00,820
+Well, here's the problem.
+
+145
+00:09:01,160 --> 00:09:03,560
+According to Einstein's special theory of relativity,
+
+146
+00:09:04,040 --> 00:09:08,420
+as any object with mass or weight goes faster, it actually gets heavier.
+
+147
+00:09:09,060 --> 00:09:11,320
+The amount of energy you need to go a little bit faster
+
+148
+00:09:11,321 --> 00:09:13,140
+just keeps getting bigger and bigger and bigger,
+
+149
+00:09:13,300 --> 00:09:14,980
+and it goes to infinity, essentially.
+
+150
+00:09:15,180 --> 00:09:23,060
+The more mass you have, the more energy it takes to accelerate to a given speed.
+
+151
+00:09:23,061 --> 00:09:24,060
+Ready for light speed?
+
+152
+00:09:24,061 --> 00:09:28,060
+One, two, three!
+
+153
+00:09:28,061 --> 00:09:32,500
+To accelerate something with mass to the speed of light would require pretty much infinite
+
+154
+00:09:32,501 --> 00:09:33,500
+energy.
+
+155
+00:09:33,501 --> 00:09:35,500
+Currently, no known way to do this.
+
+156
+00:09:35,501 --> 00:09:36,500
+That's it.
+
+157
+00:09:36,501 --> 00:09:45,180
+The Millennium Falcon may have speed, but when it comes to sheer power,
+
+158
+00:09:45,181 --> 00:09:48,680
+There's nothing that can beat the Death Star.
+
+159
+00:09:48,681 --> 00:09:52,180
+In his original script for episode four, A New Hope,
+
+160
+00:09:52,181 --> 00:09:55,660
+George Lucas envisioned a space station so huge
+
+161
+00:09:55,661 --> 00:09:57,860
+it could carry fleets of TIE fighters,
+
+162
+00:09:57,861 --> 00:10:01,160
+legions of stormtroopers, and hold enough energy
+
+163
+00:10:01,161 --> 00:10:05,000
+to blow up an entire planet.
+
+164
+00:10:05,001 --> 00:10:07,840
+An international group of space agencies
+
+165
+00:10:07,841 --> 00:10:10,140
+has been working on the International Space Station
+
+166
+00:10:10,141 --> 00:10:11,940
+for many, many years now.
+
+167
+00:10:11,941 --> 00:10:14,280
+It's microscopic in comparison to the size
+
+168
+00:10:14,281 --> 00:10:15,540
+of the Death Star.
+
+169
+00:10:15,620 --> 00:10:17,820
+About the size of two football fields,
+
+170
+00:10:17,880 --> 00:10:21,020
+the International Space Station might seem pretty big,
+
+171
+00:10:21,080 --> 00:10:24,260
+but the Death Star's got it beat by miles.
+
+172
+00:10:24,320 --> 00:10:27,320
+At 160 kilometers in diameter,
+
+173
+00:10:27,400 --> 00:10:30,600
+it's nearly 900 times larger.
+
+174
+00:10:30,660 --> 00:10:32,660
+And the Death Star's immense size
+
+175
+00:10:32,740 --> 00:10:34,700
+doesn't keep it from orbiting planets
+
+176
+00:10:34,760 --> 00:10:36,900
+or traveling across a star system.
+
+177
+00:10:36,960 --> 00:10:39,440
+It actually would have pretty modest propulsion needs
+
+178
+00:10:39,500 --> 00:10:41,540
+since it's just in a normal Keplerian orbit,
+
+179
+00:10:41,600 --> 00:10:43,540
+just like the Earth is around the sun.
+
+180
+00:10:43,541 --> 00:10:46,820
+it really would only need small thrusts to change its trajectory.
+
+181
+00:10:47,680 --> 00:10:49,560
+We're approaching the planet Yavin.
+
+182
+00:10:49,980 --> 00:10:52,180
+The rebel base is on the moon on the far side.
+
+183
+00:10:52,620 --> 00:10:54,420
+We are preparing to orbit the planet.
+
+184
+00:10:55,380 --> 00:10:59,220
+But to get the Death Star moving fast or to make it change direction
+
+185
+00:10:59,221 --> 00:11:01,300
+requires a tremendous amount of power,
+
+186
+00:11:01,301 --> 00:11:04,240
+and that's something that's probably very difficult to achieve.
+
+187
+00:11:05,020 --> 00:11:07,980
+A more plausible feature of the Death Star is gravity.
+
+188
+00:11:08,820 --> 00:11:13,220
+Because it's so huge, the Death Star has a certain amount of natural gravity.
+
+189
+00:11:13,540 --> 00:11:15,580
+There would be gravity on the surface of it.
+
+190
+00:11:15,680 --> 00:11:17,920
+It would be detectable, but very, very weak.
+
+191
+00:11:18,340 --> 00:11:22,720
+As you went toward the center, there would be less and less gravity.
+
+192
+00:11:22,780 --> 00:11:24,320
+When you got to the middle, there'd be zero.
+
+193
+00:11:24,740 --> 00:11:27,460
+So they would have to provide some other gravity field.
+
+194
+00:11:27,540 --> 00:11:28,740
+You'd have to generate that.
+
+195
+00:11:29,640 --> 00:11:33,160
+So what would it take to let Darth Vader and his stormtroopers
+
+196
+00:11:33,161 --> 00:11:37,220
+stroll leisurely down corridors while plotting to take over the galaxy?
+
+197
+00:11:37,640 --> 00:11:40,780
+One of the interesting things is that you can make a pseudo-gravity field
+
+198
+00:11:40,781 --> 00:11:42,040
+by rotating the Death Star.
+
+199
+00:11:42,041 --> 00:11:44,040
+If it's spinning on a north-south axis,
+
+200
+00:11:44,041 --> 00:11:46,040
+centrifugal forces would be generated,
+
+201
+00:11:46,041 --> 00:11:49,040
+and it would feel like gravity on the inner wall of the Death Star.
+
+202
+00:11:49,041 --> 00:11:52,040
+The problem is, people would be walking on the surface of the walls,
+
+203
+00:11:52,041 --> 00:11:54,040
+so you'd have to turn the hallway sideways
+
+204
+00:11:54,041 --> 00:11:57,040
+to make it look like people were walking on the floor normally.
+
+205
+00:11:57,041 --> 00:11:59,040
+So you could walk around out there.
+
+206
+00:11:59,041 --> 00:12:01,040
+People have done the calculations.
+
+207
+00:12:01,041 --> 00:12:03,040
+It's not that hard to make it spin that fast.
+
+208
+00:12:03,041 --> 00:12:06,040
+But for all its amazing capabilities,
+
+209
+00:12:06,041 --> 00:12:09,040
+there was one thing the Death Star couldn't overcome,
+
+210
+00:12:09,041 --> 00:12:15,140
+overcome a fatal design flaw one that allowed a lone pilot with a keen eye and
+
+211
+00:12:15,141 --> 00:12:23,280
+the help of the force to blow the whole thing to smithereens
+
+212
+00:12:28,040 --> 00:12:33,040
+light is coming in but although some of Star Wars amazing technologies seem to
+
+213
+00:12:33,041 --> 00:12:38,200
+be light years away from possibility here on earth others are almost within
+
+214
+00:12:38,201 --> 00:12:39,540
+within our grasp.
+
+215
+00:12:39,541 --> 00:12:40,540
+Big.
+
+216
+00:12:42,540 --> 00:12:43,580
+He's bad.
+
+217
+00:12:44,580 --> 00:12:46,800
+I find your lack of faith disturbing.
+
+218
+00:12:47,840 --> 00:12:49,340
+And he's bionic.
+
+219
+00:12:50,840 --> 00:12:53,840
+He's Darth Vader, the ultimate screen villain.
+
+220
+00:12:53,841 --> 00:12:55,380
+You are beaten.
+
+221
+00:12:55,381 --> 00:12:57,560
+It is useless to resist.
+
+222
+00:12:59,880 --> 00:13:02,160
+He was born Anakin Skywalker,
+
+223
+00:13:02,161 --> 00:13:06,160
+a clean-cut, likable kid with a talent for the Force,
+
+224
+00:13:06,161 --> 00:13:09,500
+who grew up and lost his soul to the dark side.
+
+225
+00:13:09,540 --> 00:13:12,160
+Anakin, become my apprentice.
+
+226
+00:13:12,200 --> 00:13:15,000
+But that wasn't the only thing he lost.
+
+227
+00:13:15,040 --> 00:13:18,200
+First, his right arm was cut off in a duel.
+
+228
+00:13:22,080 --> 00:13:24,580
+You underestimate my power!
+
+229
+00:13:25,540 --> 00:13:27,040
+Don't try it!
+
+230
+00:13:27,080 --> 00:13:30,160
+Then, after a battle with Obi-Wan Kenobi,
+
+231
+00:13:30,180 --> 00:13:32,360
+he lost the rest of his limbs,
+
+232
+00:13:32,361 --> 00:13:36,400
+suffered severe burns to his body and damage to his lungs.
+
+233
+00:13:39,320 --> 00:13:42,360
+Advanced prosthetics were able to keep him alive
+
+234
+00:13:42,361 --> 00:13:46,560
+and turned him into the universe's most feared half-man,
+
+235
+00:13:46,561 --> 00:13:49,240
+half-machine.
+
+236
+00:13:49,241 --> 00:13:53,120
+But could anyone, even with the help of bionics,
+
+237
+00:13:53,121 --> 00:13:57,680
+sustain such extensive injuries and survive?
+
+238
+00:13:57,681 --> 00:14:02,680
+When that happens, when he's on the edge of the volcano,
+
+239
+00:14:02,681 --> 00:14:05,680
+he could survive that if he's in good shape.
+
+240
+00:14:07,680 --> 00:14:10,680
+The burning that happened could actually help cauterize
+
+241
+00:14:10,681 --> 00:14:13,680
+the blood flow, so it could reduce the loss of blood.
+
+242
+00:14:13,681 --> 00:14:15,680
+The searing of the lungs, et cetera, could be lethal, of course.
+
+243
+00:14:15,681 --> 00:14:18,680
+It's just a matter of how much and how poisonous the gas
+
+244
+00:14:18,681 --> 00:14:19,680
+and the amount of heat.
+
+245
+00:14:19,681 --> 00:14:23,680
+The thing I would be most worried about would be his lungs,
+
+246
+00:14:23,681 --> 00:14:29,380
+lungs because breathing in that super hot air can burn severely.
+
+247
+00:14:29,381 --> 00:14:32,580
+He seems to have continuous lung problems,
+
+248
+00:14:32,581 --> 00:14:36,100
+and he probably had permanent damage to his lung tissue,
+
+249
+00:14:36,101 --> 00:14:39,520
+in which case he would need some sort of purified, enriched
+
+250
+00:14:39,521 --> 00:14:42,340
+oxygen to be pumped into his lungs.
+
+251
+00:14:44,500 --> 00:14:47,940
+Vader's breath mask was one of the first features George Lucas
+
+252
+00:14:47,941 --> 00:14:50,080
+conceived for his character.
+
+253
+00:14:50,081 --> 00:14:54,280
+The concept soon evolved to include the trademark black bodysuit
+
+254
+00:14:54,281 --> 00:14:56,760
+that holds the key to Vader's survival.
+
+255
+00:14:56,761 --> 00:14:58,480
+Within the suit and the system he has,
+
+256
+00:14:58,481 --> 00:15:01,900
+he has to have sensors that access blood chemistry,
+
+257
+00:15:01,901 --> 00:15:03,900
+the amount of oxygen and carbon dioxide,
+
+258
+00:15:03,901 --> 00:15:06,720
+how much sugar's in his blood, his temperature, heart rate,
+
+259
+00:15:06,721 --> 00:15:08,600
+all those normal physiological things.
+
+260
+00:15:08,601 --> 00:15:10,640
+Those are then brought in, and through the chips
+
+261
+00:15:10,641 --> 00:15:13,700
+that are on his chest, he's got to then have an output
+
+262
+00:15:13,701 --> 00:15:16,240
+to correct them in a certain way, by raising temperature,
+
+263
+00:15:16,241 --> 00:15:17,940
+lowering glucose, whatever it is.
+
+264
+00:15:17,941 --> 00:15:19,940
+Most impressive.
+
+265
+00:15:19,980 --> 00:15:21,940
+And what's even more impressive?
+
+266
+00:15:21,980 --> 00:15:24,940
+The suit's combination of life-sustaining prosthetics
+
+267
+00:15:24,980 --> 00:15:27,940
+and bionics really isn't that far-fetched.
+
+268
+00:15:27,980 --> 00:15:31,920
+Obi-Wan has taught you well.
+
+269
+00:15:31,960 --> 00:15:35,920
+Take that noisy air pump that allows Vader to breathe.
+
+270
+00:15:37,960 --> 00:15:40,940
+A much quieter alternative is on the way.
+
+271
+00:15:40,960 --> 00:15:43,940
+To replace Darth's lung with a prosthetic lung,
+
+272
+00:15:43,960 --> 00:15:46,940
+this sort of technology exists right now.
+
+273
+00:15:46,941 --> 00:15:47,742
+right now.
+
+274
+00:15:47,743 --> 00:15:53,760
+We just take like a lab sponge like this and we put it in the chest cavity.
+
+275
+00:15:53,761 --> 00:15:58,500
+You notice that the sponge has got little holes in it and you can put fluids in here
+
+276
+00:15:58,501 --> 00:16:00,685
+and other compounds, growth factors.
+
+277
+00:16:00,686 --> 00:16:03,660
+You can even have stem cells that migrate in here
+
+278
+00:16:03,661 --> 00:16:07,120
+and you want to reconstruct the same sort of layer that would be on the surface of the
+
+279
+00:16:07,121 --> 00:16:08,981
+lungs. And this is being done right now.
+
+280
+00:16:08,982 --> 00:16:11,260
+It's being done with a lot of different polymers.
+
+281
+00:16:11,261 --> 00:16:12,760
+fat cells are being re-engineered.
+
+282
+00:16:17,760 --> 00:16:21,300
+In order to have a sense of touch and feel temperature,
+
+283
+00:16:21,301 --> 00:16:24,380
+Vader's prosthetics would have to contain heat and pressure
+
+284
+00:16:24,381 --> 00:16:29,820
+sensors, another seemingly sci-fi technology that's
+
+285
+00:16:29,821 --> 00:16:32,980
+currently available here on Earth.
+
+286
+00:16:32,981 --> 00:16:35,160
+We have some great prosthetic limbs now.
+
+287
+00:16:35,161 --> 00:16:38,860
+Say you have an artificial limb, you grab a coffee cup.
+
+288
+00:16:38,861 --> 00:16:43,000
+We now have sensors in the artificial fingers
+
+289
+00:16:43,001 --> 00:16:48,200
+that are attached to your nerves up in your residual limb.
+
+290
+00:16:48,201 --> 00:16:51,940
+And so if it's hot coffee, the heat would be transmitted
+
+291
+00:16:51,941 --> 00:16:54,480
+and you would feel in a little plate the heat.
+
+292
+00:16:54,481 --> 00:16:56,720
+If you are holding it too tightly,
+
+293
+00:16:56,721 --> 00:16:59,320
+the pressure will make your limb tingle.
+
+294
+00:16:59,321 --> 00:17:10,500
+We would be honored if you would join us.
+
+295
+00:17:10,600 --> 00:17:14,800
+And in case you were wondering why you never see Darth Vader snacking on Empire cuisine,
+
+296
+00:17:15,600 --> 00:17:19,980
+the Dark Lord gets all the nutrients he needs through a feeding tube in his suit.
+
+297
+00:17:20,720 --> 00:17:26,880
+But unfortunately, Vader's purely liquid diet could lead to gastrointestinal complications.
+
+298
+00:17:26,881 --> 00:17:29,380
+One of the main problems with liquid nutrients,
+
+299
+00:17:29,420 --> 00:17:31,080
+not a lot of bulk, a lot of fiber,
+
+300
+00:17:31,120 --> 00:17:34,920
+and the internal milieu, the flora within the gut,
+
+301
+00:17:34,960 --> 00:17:38,060
+gets very unhappy and it leads to sickness.
+
+302
+00:17:38,100 --> 00:17:40,500
+But what Vader lacks in a healthy diet
+
+303
+00:17:40,520 --> 00:17:44,200
+is more than compensated for by his enormous strength.
+
+304
+00:17:44,240 --> 00:17:46,740
+What have you done with those plants?
+
+305
+00:17:48,600 --> 00:17:51,140
+And that strength gets an extra boost
+
+306
+00:17:51,180 --> 00:17:53,180
+from a generator inside his armor
+
+307
+00:17:53,200 --> 00:17:54,880
+that stimulates his muscles
+
+308
+00:17:54,881 --> 00:17:58,880
+with powerful electrical impulses.
+
+309
+00:17:58,881 --> 00:18:01,880
+Right now, prosthetic limbs are powered with little batteries.
+
+310
+00:18:01,881 --> 00:18:03,880
+We're getting up to the lithium battery,
+
+311
+00:18:03,881 --> 00:18:05,880
+which is what's on your laptop.
+
+312
+00:18:05,881 --> 00:18:09,880
+I think in the future, we're going to be powering the limbs
+
+313
+00:18:09,881 --> 00:18:13,880
+with biological power through using the power of our bodies.
+
+314
+00:18:13,881 --> 00:18:16,880
+They actually have an interesting biologically-powered battery
+
+315
+00:18:16,881 --> 00:18:17,880
+right now.
+
+316
+00:18:17,881 --> 00:18:19,880
+It's about the size of a credit card,
+
+317
+00:18:19,881 --> 00:18:22,880
+and if you urinate on this battery,
+
+318
+00:18:22,881 --> 00:18:27,260
+battery, that charges it up and it runs for a while.
+
+319
+00:18:27,261 --> 00:18:31,160
+So one might think that perhaps Darth Vader, I don't know,
+
+320
+00:18:31,161 --> 00:18:33,620
+may be charging up his batteries in ways
+
+321
+00:18:33,621 --> 00:18:37,700
+we don't want to think about, but they're under the cape.
+
+322
+00:18:37,701 --> 00:18:41,120
+But of all the bionics used to put Darth Vader together
+
+323
+00:18:41,121 --> 00:18:44,820
+again, the most impressive is the technology that went
+
+324
+00:18:44,821 --> 00:18:48,600
+into the creation of his artificial hands.
+
+325
+00:18:48,601 --> 00:18:51,680
+It's something that also benefits Luke Skywalker
+
+326
+00:18:51,681 --> 00:18:54,720
+in episode five, The Empire Strikes Back.
+
+327
+00:18:58,720 --> 00:19:00,860
+Don't make me destroy you.
+
+328
+00:19:00,861 --> 00:19:04,520
+The hand is one of the body's most intricate structures,
+
+329
+00:19:04,521 --> 00:19:07,020
+and Star Wars engineers have replicated
+
+330
+00:19:07,021 --> 00:19:10,740
+its delicate dexterity down to the fingertips.
+
+331
+00:19:10,741 --> 00:19:14,300
+And that technology is actually within our reach.
+
+332
+00:19:14,301 --> 00:19:17,380
+Present prosthetic devices have two or three degrees
+
+333
+00:19:17,381 --> 00:19:18,200
+of freedom.
+
+334
+00:19:18,201 --> 00:19:19,480
+They're just movements like this.
+
+335
+00:19:19,481 --> 00:19:20,580
+It's how many movements.
+
+336
+00:19:20,581 --> 00:19:24,180
+The ones that you've seen this year have about four or five degrees of freedom.
+
+337
+00:19:24,280 --> 00:19:27,380
+What we need is 25 to do this, this, this, this, this, this.
+
+338
+00:19:27,760 --> 00:19:30,680
+So that will be coming out in about a year, year and a half.
+
+339
+00:19:31,140 --> 00:19:33,900
+So I would say that what we see in Star Wars is very plausible.
+
+340
+00:19:34,700 --> 00:19:38,300
+On Earth, some hand prosthetics are controlled by contracting
+
+341
+00:19:38,301 --> 00:19:40,620
+and relaxing residual muscles in the body.
+
+342
+00:19:40,621 --> 00:19:46,440
+The movement that makes it work is just in here.
+
+343
+00:19:47,600 --> 00:19:48,860
+There's a little micro switch.
+
+344
+00:19:48,861 --> 00:19:52,780
+and the slightest touch makes it open.
+
+345
+00:19:53,920 --> 00:19:55,900
+The slightest touch on this side.
+
+346
+00:19:56,940 --> 00:20:02,760
+Basically what I'm doing inside that cap is no more than that.
+
+347
+00:20:03,440 --> 00:20:05,960
+But to duplicate Star Wars technology,
+
+348
+00:20:06,300 --> 00:20:08,300
+there's still one missing piece of the puzzle.
+
+349
+00:20:09,140 --> 00:20:11,240
+Just how can the human brain communicate
+
+350
+00:20:11,241 --> 00:20:13,520
+with something like an artificial hand?
+
+351
+00:20:13,960 --> 00:20:16,180
+The brain sends a signal to the residual muscles
+
+352
+00:20:16,181 --> 00:20:17,460
+telling the hand to open.
+
+353
+00:20:18,340 --> 00:20:22,040
+The computer senses that information from the residual muscle and the hand opens.
+
+354
+00:20:22,700 --> 00:20:25,540
+Conversely, they can fire the muscles that would have caused their hand to close,
+
+355
+00:20:25,840 --> 00:20:26,820
+and the hand can close.
+
+356
+00:20:27,360 --> 00:20:29,000
+With some of the more advanced control techniques,
+
+357
+00:20:29,120 --> 00:20:33,080
+we're actually able to alter the types of signals that can go to the microprocessor
+
+358
+00:20:33,081 --> 00:20:36,720
+and change functions, make the hand do a pinch grip
+
+359
+00:20:36,721 --> 00:20:40,120
+or if you're holding a Coke bottle or something along those lines.
+
+360
+00:20:42,040 --> 00:20:45,400
+Fortunately, Luke Skywalker and even Darth Vader
+
+361
+00:20:45,401 --> 00:20:49,240
+fared better at the hands of Star Wars surgeons than this fellow.
+
+362
+00:20:52,400 --> 00:20:55,000
+What's the situation, Captain?
+
+363
+00:20:55,460 --> 00:20:57,020
+A forerunner of Darth Vader,
+
+364
+00:20:57,460 --> 00:21:01,000
+evil General Grievous became more machine than man
+
+365
+00:21:01,001 --> 00:21:04,980
+after doctors were only able to save his brain, eyes,
+
+366
+00:21:05,380 --> 00:21:07,520
+internal organs, and spinal cord.
+
+367
+00:21:07,760 --> 00:21:10,100
+Yes, Lord Sidious.
+
+368
+00:21:10,680 --> 00:21:12,140
+Grievous lost his arms and legs.
+
+369
+00:21:12,220 --> 00:21:13,680
+At that point, his brain was still intact.
+
+370
+00:21:13,760 --> 00:21:15,320
+It was used to moving arms and legs.
+
+371
+00:21:15,400 --> 00:21:19,000
+The question is whether you can take the signals that are already in his brain,
+
+372
+00:21:19,340 --> 00:21:22,020
+take that intention and will to move, and turn it into action.
+
+373
+00:21:22,680 --> 00:21:27,360
+We know the parts of the brain and the circuitries involved in some complex tasks.
+
+374
+00:21:27,680 --> 00:21:31,820
+But the command signal, the output of all that brain electricity,
+
+375
+00:21:32,420 --> 00:21:35,760
+what that really is, that code, we don't know that code yet, really.
+
+376
+00:21:37,200 --> 00:21:40,620
+Bionic technology is a continually evolving science.
+
+377
+00:21:40,621 --> 00:21:46,620
+Each year brings us closer to the day when the interchanging of human parts will be commonplace.
+
+378
+00:21:46,621 --> 00:21:52,620
+That constant evolution consciously influenced George Lucas and his effects team
+
+379
+00:21:52,621 --> 00:21:55,620
+when designing the bionics of General Grievous.
+
+380
+00:21:55,621 --> 00:21:58,620
+Grievous was the alpha technology, and it didn't quite work.
+
+381
+00:21:58,621 --> 00:22:02,620
+And so we tried to make him sort of heavy and clunky.
+
+382
+00:22:02,621 --> 00:22:04,620
+We had him coughing and rasping.
+
+383
+00:22:04,621 --> 00:22:09,300
+because we were thinking the technology wasn't quite working,
+
+384
+00:22:09,400 --> 00:22:10,800
+his lungs were filling with liquid.
+
+385
+00:22:12,620 --> 00:22:15,900
+But he was still stronger because of the technology.
+
+386
+00:22:17,760 --> 00:22:20,840
+But it wasn't until the beta version, that's Vader,
+
+387
+00:22:21,260 --> 00:22:25,000
+that he became stronger and was not restricted as much
+
+388
+00:22:25,001 --> 00:22:26,800
+with the technology as Grievous was.
+
+389
+00:22:26,801 --> 00:22:28,780
+Now I am the master.
+
+390
+00:22:29,480 --> 00:22:31,220
+Only a master of evil, Darth.
+
+391
+00:22:34,620 --> 00:22:38,120
+But not even Vader was endowed with this bionic bonus,
+
+392
+00:22:38,160 --> 00:22:40,120
+an extra pair of arms.
+
+393
+00:22:40,160 --> 00:22:41,560
+Attack!
+
+394
+00:22:41,600 --> 00:22:42,460
+Kenobi.
+
+395
+00:22:42,500 --> 00:22:44,560
+And those added limbs gave Grievous
+
+396
+00:22:44,600 --> 00:22:47,300
+a unique advantage over his Jedi opponents,
+
+397
+00:22:47,340 --> 00:22:50,140
+an ability to wield four of the most elegant,
+
+398
+00:22:50,160 --> 00:22:53,480
+but deadly, of all Star Wars technologies,
+
+399
+00:22:55,040 --> 00:22:56,280
+the lightsaber.
+
+400
+00:23:00,040 --> 00:23:02,280
+Your father's lightsaber.
+
+401
+00:23:02,281 --> 00:23:04,840
+This is the weapon of a Jedi Knight.
+
+402
+00:23:05,560 --> 00:23:08,080
+Not as clumsy or random as a blaster.
+
+403
+00:23:09,220 --> 00:23:14,320
+An elegant weapon, but a more civilized age.
+
+404
+00:23:14,860 --> 00:23:19,740
+The lightsaber has been a key part of the Star Wars arsenal since the saga began.
+
+405
+00:23:20,440 --> 00:23:26,540
+George Lucas envisioned it simply as a handle that shoots out a laser beam about four feet long.
+
+406
+00:23:26,541 --> 00:23:36,940
+It's relatively lightweight and can cut through almost anything and everyone with one graceful stroke.
+
+407
+00:23:37,600 --> 00:23:41,520
+The weapon of choice for both Jedi and Sith.
+
+408
+00:23:41,920 --> 00:23:43,540
+You're under arrest, Chancellor.
+
+409
+00:23:44,980 --> 00:23:47,740
+But could a lightsaber actually exist?
+
+410
+00:23:48,640 --> 00:23:53,040
+Could a beam of laser light really cut through everything from flesh and bone?
+
+411
+00:23:53,041 --> 00:23:57,020
+to giant steel doors.
+
+412
+00:23:57,220 --> 00:23:58,220
+This is impossible!
+
+413
+00:23:59,220 --> 00:24:02,180
+And is a lightsaber blade even made of light?
+
+414
+00:24:02,600 --> 00:24:07,300
+Light is too insubstantial to accomplish what a lightsaber accomplishes.
+
+415
+00:24:07,900 --> 00:24:12,620
+That is, you can't use light to repel an object, and yet lightsabers do that.
+
+416
+00:24:13,400 --> 00:24:15,900
+So how does a lightsaber's laser beam work?
+
+417
+00:24:16,600 --> 00:24:18,160
+And what exactly is a laser?
+
+418
+00:24:18,161 --> 00:24:23,160
+A laser stands for light amplification by stimulated emission of radiation,
+
+419
+00:24:23,161 --> 00:24:30,160
+which is a complicated way of saying that they're atomic processes that cause light to be emitted
+
+420
+00:24:30,161 --> 00:24:33,160
+in a way that all of the light waves move together.
+
+421
+00:24:33,161 --> 00:24:38,160
+In a laser, there's an interaction between the atoms and the light.
+
+422
+00:24:38,161 --> 00:24:43,160
+Rather than this light being completely random, going off in all directions and having all colors,
+
+423
+00:24:43,161 --> 00:24:50,160
+photons in a laser can group up and that will give you this beam which will have these special properties.
+
+424
+00:24:50,161 --> 00:24:57,160
+But in spite of their visual similarity, a laser beam can't come close to doing the kind of tricks a lightsaber can.
+
+425
+00:25:00,160 --> 00:25:04,160
+They crash into each other and clang. Of course light doesn't do that.
+
+426
+00:25:06,160 --> 00:25:09,160
+At the end of the lightsaber the light stops somehow.
+
+427
+00:25:09,161 --> 00:25:13,660
+Battling a laser, this beam will go on, practically speaking, forever.
+
+428
+00:25:13,740 --> 00:25:16,160
+A beam of light will continue
+
+429
+00:25:16,240 --> 00:25:19,500
+unless it is scattered, absorbed, or reflected.
+
+430
+00:25:19,580 --> 00:25:22,500
+There's no way a lightsaber would be a laser.
+
+431
+00:25:23,800 --> 00:25:25,180
+So when you think about it,
+
+432
+00:25:25,240 --> 00:25:28,680
+if Yoda and Count Dooku swung two laser beams at each other,
+
+433
+00:25:28,740 --> 00:25:31,940
+the result wouldn't exactly light up the box office.
+
+434
+00:25:32,020 --> 00:25:35,180
+If you have two laser beams crossing like lightsabers do in a battle,
+
+435
+00:25:35,260 --> 00:25:37,780
+it's really no different than two flashlights crossing,
+
+436
+00:25:37,781 --> 00:25:40,080
+and the light beams just pass right through each other
+
+437
+00:25:40,180 --> 00:25:41,280
+and have no influence.
+
+438
+00:25:45,780 --> 00:25:47,780
+OK, so lasers are out.
+
+439
+00:25:47,880 --> 00:25:50,120
+But how else could lightsabers work?
+
+440
+00:25:50,220 --> 00:25:52,920
+Some people theorize that lightsabers use plasma.
+
+441
+00:25:53,020 --> 00:25:54,540
+So when you think about plasma,
+
+442
+00:25:54,640 --> 00:25:58,940
+you think about a glowing, gaseous-like substance.
+
+443
+00:25:59,040 --> 00:26:01,040
+Stars are made out of plasma.
+
+444
+00:26:01,140 --> 00:26:05,480
+The sun, lightning bolts, fluorescent lights,
+
+445
+00:26:05,580 --> 00:26:07,140
+they're all plasma.
+
+446
+00:26:07,141 --> 00:26:10,560
+As we now know from our examination of the plasma window,
+
+447
+00:26:11,180 --> 00:26:15,660
+this fourth state of matter is made of positively and negatively charged particles
+
+448
+00:26:15,661 --> 00:26:19,700
+and can be constrained by both electric and magnetic fields.
+
+449
+00:26:20,380 --> 00:26:23,080
+On Earth now, we can make a cylinder of plasma.
+
+450
+00:26:23,760 --> 00:26:28,860
+So you can imagine a tall, long tube of plasma, just like the lightsaber.
+
+451
+00:26:30,340 --> 00:26:33,900
+Two plasma lightsabers would not cut through each other
+
+452
+00:26:33,901 --> 00:26:37,100
+because the magnetic fields would repel each other.
+
+453
+00:26:37,140 --> 00:26:41,140
+And plasma, when heated to a high degree,
+
+454
+00:26:41,141 --> 00:26:44,140
+will glow just like the lightsabers do.
+
+455
+00:26:44,141 --> 00:26:47,140
+But in order to get plasma hot enough
+
+456
+00:26:47,141 --> 00:26:50,140
+to slice through metal and people the way lightsabers do,
+
+457
+00:26:50,141 --> 00:26:53,140
+it would have to be about ten times hotter
+
+458
+00:26:53,141 --> 00:26:55,140
+than anything found here on Earth.
+
+459
+00:26:55,141 --> 00:26:57,140
+Good, Annika, good.
+
+460
+00:26:57,141 --> 00:27:00,140
+About 200 million degrees, actually.
+
+461
+00:27:02,140 --> 00:27:05,140
+It might just be better to mail it to your opponent,
+
+462
+00:27:05,141 --> 00:27:10,140
+turn it on via remote control and let them get a nice burn that way.
+
+463
+00:27:10,141 --> 00:27:14,140
+I see you have constructed a new lightsaber.
+
+464
+00:27:14,141 --> 00:27:19,140
+Another problem is the lightsaber handle is only the size of a flashlight.
+
+465
+00:27:19,141 --> 00:27:23,140
+Right now, we could generate something that looks like a lightsaber,
+
+466
+00:27:23,141 --> 00:27:27,140
+but it would take a building full of equipment to do it.
+
+467
+00:27:27,141 --> 00:27:28,140
+So that's a problem.
+
+468
+00:27:28,141 --> 00:27:33,140
+But if we can solve those problems, which I think, you know, in the future everything gets smaller,
+
+469
+00:27:33,141 --> 00:27:36,500
+we'll be able to make something like a lightsaber.
+
+470
+00:27:39,160 --> 00:27:41,840
+But what about all those other high-tech weapons
+
+471
+00:27:41,841 --> 00:27:43,980
+used by Star Wars heroes and villains?
+
+472
+00:27:44,960 --> 00:27:46,700
+Loki religions and ancient weapons
+
+473
+00:27:46,701 --> 00:27:48,600
+are no match for a good blaster at your site.
+
+474
+00:27:49,640 --> 00:27:52,620
+Star Wars lore tells us that blaster guns
+
+475
+00:27:52,621 --> 00:27:56,400
+operate by firing concentrated beams of high-energy particles.
+
+476
+00:27:57,700 --> 00:28:00,400
+Plasma has highly charged particles, too.
+
+477
+00:28:00,401 --> 00:28:03,400
+So could blaster technology also involve plasma?
+
+478
+00:28:03,440 --> 00:28:06,400
+Blaster beams look like they might be made of plasma
+
+479
+00:28:06,440 --> 00:28:08,400
+that's somehow been encapsulated or contained
+
+480
+00:28:08,440 --> 00:28:10,400
+in a way to form a plasma bullet.
+
+481
+00:28:11,440 --> 00:28:13,440
+This would be very deadly.
+
+482
+00:28:13,480 --> 00:28:16,440
+You're sending something with a lot of energy through something
+
+483
+00:28:16,480 --> 00:28:18,520
+and causing damage from the energy.
+
+484
+00:28:19,480 --> 00:28:22,520
+But finding a way to encapsulate fast-moving plasma
+
+485
+00:28:22,560 --> 00:28:26,520
+to form a blaster beam has Earth scientists stumped.
+
+486
+00:28:26,521 --> 00:28:28,520
+stomped.
+
+487
+00:28:28,521 --> 00:28:34,520
+These blaster guns, they shoot some piece of matter at an incredible speed.
+
+488
+00:28:34,521 --> 00:28:41,640
+But if you have a plasma in free air, it will cool down and relax its heat in the surrounding
+
+489
+00:28:41,641 --> 00:28:43,480
+air very quickly.
+
+490
+00:28:43,481 --> 00:28:47,140
+I could not see how that could work in an atmosphere.
+
+491
+00:28:47,141 --> 00:28:52,760
+But blasters aren't the only weapons that can project concentrated blasts of energy
+
+492
+00:28:52,761 --> 00:28:55,760
+in the Star Wars galaxy.
+
+493
+00:28:55,761 --> 00:28:58,760
+Let's say you find yourself under attack by big guns.
+
+494
+00:28:58,761 --> 00:29:02,000
+Starting up the shield!
+
+495
+00:29:02,001 --> 00:29:05,260
+The handiest tool to have would be a deflector shield.
+
+496
+00:29:05,261 --> 00:29:08,820
+And the bigger, the better.
+
+497
+00:29:08,821 --> 00:29:13,960
+Believe it or not, Earth scientists are developing just such a defensive technology.
+
+498
+00:29:13,961 --> 00:29:16,100
+Open fire.
+
+499
+00:29:16,101 --> 00:29:20,200
+But it'll be a while before they can make a shield tough enough to withstand a blast
+
+500
+00:29:20,201 --> 00:29:23,800
+at point-blank range.
+
+501
+00:29:23,801 --> 00:29:26,160
+could potentially be used as a shield.
+
+502
+00:29:26,560 --> 00:29:30,560
+There's scientists now who's developing cold plasmas
+
+503
+00:29:30,561 --> 00:29:32,260
+because if you had a hot plasma
+
+504
+00:29:32,261 --> 00:29:34,580
+and you put it around the outside of your ship as a shield,
+
+505
+00:29:35,180 --> 00:29:36,580
+it would tend to melt your ship.
+
+506
+00:29:36,960 --> 00:29:38,940
+But if it was a cold plasma,
+
+507
+00:29:39,180 --> 00:29:41,160
+it could potentially protect your ship.
+
+508
+00:29:41,220 --> 00:29:43,300
+It could deflect microwaves.
+
+509
+00:29:43,301 --> 00:29:46,340
+It could potentially deflect laser beams.
+
+510
+00:29:46,800 --> 00:29:48,260
+They're doing this now
+
+511
+00:29:48,261 --> 00:29:51,200
+to potentially shield satellites in orbit.
+
+512
+00:29:51,201 --> 00:29:53,700
+In the world of Star Wars technology,
+
+513
+00:29:53,800 --> 00:29:57,200
+it's possible for entire planets to have defense shields.
+
+514
+00:29:57,300 --> 00:30:01,340
+But even they're no match for the deadliest of all Star Wars weapons,
+
+515
+00:30:01,440 --> 00:30:03,440
+the Death Star super laser.
+
+516
+00:30:04,740 --> 00:30:07,960
+The way the laser works can be compared to a magnifying glass
+
+517
+00:30:08,060 --> 00:30:09,660
+when held under the sun.
+
+518
+00:30:09,760 --> 00:30:12,460
+Both devices collect energy and intensify it
+
+519
+00:30:12,560 --> 00:30:14,860
+into a single searing beam of light.
+
+520
+00:30:16,800 --> 00:30:19,660
+When the Death Star's light beams come together
+
+521
+00:30:19,661 --> 00:30:22,160
+to make the superlaser, in reality,
+
+522
+00:30:22,161 --> 00:30:24,960
+those laser beams would just pass right through each other.
+
+523
+00:30:24,961 --> 00:30:26,460
+They wouldn't combine.
+
+524
+00:30:26,461 --> 00:30:29,460
+You can focus a single beam of light with a magnifying glass,
+
+525
+00:30:29,461 --> 00:30:31,300
+but in the way the Death Star does it,
+
+526
+00:30:31,301 --> 00:30:33,500
+it happens in empty space.
+
+527
+00:30:33,501 --> 00:30:35,500
+That is, lasers come together
+
+528
+00:30:35,501 --> 00:30:37,220
+and then go a different direction.
+
+529
+00:30:37,221 --> 00:30:40,620
+And without some object there to redirect the laser beams,
+
+530
+00:30:40,621 --> 00:30:42,420
+there's no way that could happen.
+
+531
+00:30:42,421 --> 00:30:44,560
+We didn't actually have a lens out there.
+
+532
+00:30:44,561 --> 00:30:47,020
+George talked about how there would be a condenser
+
+533
+00:30:47,021 --> 00:30:49,260
+of some kind or other, even though it would be invisible,
+
+534
+00:30:49,261 --> 00:30:52,540
+that would bring multiple laser bolts together
+
+535
+00:30:52,541 --> 00:30:55,320
+and be able to shoot at an object.
+
+536
+00:30:55,600 --> 00:30:58,320
+I have chosen to test this station's destructive power
+
+537
+00:30:58,321 --> 00:31:00,240
+on your home planet of Alderaan.
+
+538
+00:31:00,520 --> 00:31:01,220
+No.
+
+539
+00:31:01,221 --> 00:31:02,340
+Commit primary action.
+
+540
+00:31:02,560 --> 00:31:06,000
+So, once again, the Empire's R&D department
+
+541
+00:31:06,001 --> 00:31:09,380
+seems to be light years ahead of anything we have on Earth,
+
+542
+00:31:09,740 --> 00:31:13,300
+especially since our scientists have yet to invent a weapon
+
+543
+00:31:13,301 --> 00:31:17,040
+powerful enough to blow away a planet with a single blast.
+
+544
+00:31:19,260 --> 00:31:24,260
+But not all Star Wars technology is so deadly.
+
+545
+00:31:24,300 --> 00:31:27,260
+Sometimes it can be downright fun,
+
+546
+00:31:27,300 --> 00:31:30,280
+especially if you have to travel across deserts
+
+547
+00:31:30,300 --> 00:31:32,780
+or through forests and cities
+
+548
+00:31:32,800 --> 00:31:36,280
+at lightning Tatooine to Endur.
+
+549
+00:31:39,380 --> 00:31:42,280
+And from Coruscant to Naboo,
+
+550
+00:31:44,280 --> 00:31:47,260
+the need for speed seems just as essential
+
+551
+00:31:47,261 --> 00:31:50,460
+just as essential to the life forms of Star Wars
+
+552
+00:31:50,461 --> 00:31:53,060
+as it is for thrill-seeking motorcyclists
+
+553
+00:31:53,061 --> 00:31:55,140
+and race car drivers here on Earth.
+
+554
+00:31:56,860 --> 00:31:59,640
+Not only are the planetary vehicles of Star Wars
+
+555
+00:31:59,641 --> 00:32:01,300
+incredible to look at,
+
+556
+00:32:01,301 --> 00:32:03,340
+they also come fully equipped
+
+557
+00:32:03,341 --> 00:32:05,640
+with more technological innovations
+
+558
+00:32:05,641 --> 00:32:07,480
+than you can shake a lightsaber at.
+
+559
+00:32:07,481 --> 00:32:10,220
+I don't mind flying, but what you're doing is suicide.
+
+560
+00:32:13,420 --> 00:32:16,720
+Let's take Luke Skywalker's Landspeeder, for example.
+
+561
+00:32:16,721 --> 00:32:20,220
+George Lucas described it as an auto-like transport
+
+562
+00:32:20,221 --> 00:32:25,220
+that travels a few feet above the ground on a magnetic field.
+
+563
+00:32:25,221 --> 00:32:30,060
+Magnetic levitation, or maglev technology, actually exists
+
+564
+00:32:30,061 --> 00:32:33,480
+and is based on the fact that two like magnetic poles
+
+565
+00:32:33,481 --> 00:32:36,180
+repel one another.
+
+566
+00:32:36,181 --> 00:32:39,140
+Maglev trains use this principle and operate
+
+567
+00:32:39,141 --> 00:32:42,320
+by moving a magnet attached to the train.
+
+568
+00:32:42,321 --> 00:32:44,680
+The action generates a magnetic field,
+
+569
+00:32:44,681 --> 00:32:48,620
+which lifts and propels the vehicle down the tracks on a cushion of air.
+
+570
+00:32:49,700 --> 00:32:54,620
+But how would maglev technology work on Luke's home planet, Tatooine,
+
+571
+00:32:54,980 --> 00:32:56,860
+where there don't appear to be any tracks?
+
+572
+00:32:57,360 --> 00:33:00,620
+You could do that if the planet's made out of the right magnetic materials,
+
+573
+00:33:00,940 --> 00:33:04,540
+something like iron or nickel that have a strong magnetic response.
+
+574
+00:33:04,980 --> 00:33:06,820
+Your ship could generate a magnetic field
+
+575
+00:33:06,821 --> 00:33:09,460
+that would then cause you to lift above that material.
+
+576
+00:33:10,340 --> 00:33:14,600
+But what if a planet didn't have the apparent magnetic properties of Tatooine?
+
+577
+00:33:14,680 --> 00:33:17,180
+A place like Coruscant, for instance.
+
+578
+00:33:17,720 --> 00:33:21,920
+How do the airspeeders of that world fly through the sky without wings?
+
+579
+00:33:22,520 --> 00:33:26,900
+Since these things seem to zip around just about any place and at any altitude you want,
+
+580
+00:33:28,240 --> 00:33:32,240
+it would require something that we don't have yet, pretty much anti-gravity.
+
+581
+00:33:32,900 --> 00:33:37,260
+We know about magnetism, charged particles attract and repel.
+
+582
+00:33:37,640 --> 00:33:40,080
+So one might think I could get gravity to repel.
+
+583
+00:33:40,081 --> 00:33:44,280
+It turns out within our universe we know that you can't make gravity repulsive.
+
+584
+00:33:44,680 --> 00:33:48,340
+However, you can look at theories of physics that are consistent within themselves
+
+585
+00:33:48,341 --> 00:33:51,560
+and could contain other forces that would act like anti-gravity.
+
+586
+00:33:53,240 --> 00:33:55,680
+You can imagine in a completely different universe,
+
+587
+00:33:56,040 --> 00:33:59,140
+you might get a force that can be repulsive relative to gravity,
+
+588
+00:33:59,540 --> 00:34:03,880
+and then you can imagine using that as a technology to generate these things that float.
+
+589
+00:34:04,420 --> 00:34:08,920
+In the Star Wars universe, many vehicles use this notion of anti-gravity.
+
+590
+00:34:09,540 --> 00:34:12,160
+George Lucas called it repulsor lift technology,
+
+591
+00:34:12,161 --> 00:34:15,400
+which allows crafts of every kind to lift off the ground,
+
+592
+00:34:16,280 --> 00:34:19,640
+hover, and even sail through the sky.
+
+593
+00:34:19,880 --> 00:34:21,740
+It seems like in the Star Wars universe,
+
+594
+00:34:21,920 --> 00:34:24,040
+they have the power to manipulate gravity.
+
+595
+00:34:24,620 --> 00:34:26,280
+If they can control gravity,
+
+596
+00:34:26,920 --> 00:34:31,360
+they can make repulsor lift vehicles of any kind.
+
+597
+00:34:32,040 --> 00:34:33,940
+Using repulsor lift technology
+
+598
+00:34:33,941 --> 00:34:36,280
+to fly above a planet's surface is one thing.
+
+599
+00:34:36,700 --> 00:34:39,160
+But just how do Luke, Leia, and those nasty stormtroopers
+
+600
+00:34:39,161 --> 00:34:44,100
+stormtroopers zip through giant redwoods on the moon of Endor without ever hitting a tree?
+
+601
+00:34:46,180 --> 00:34:47,680
+Well, almost never.
+
+602
+00:34:47,681 --> 00:34:53,680
+According to Star Wars experts, the answer to why stormtroopers are so quick
+
+603
+00:34:53,681 --> 00:34:57,216
+can be found right under their high-tech helmets.
+
+604
+00:34:57,217 --> 00:35:00,680
+I was reading an article recently about guys who
+
+605
+00:35:00,681 --> 00:35:02,380
+race on motorcycles.
+
+606
+00:35:05,320 --> 00:35:11,020
+And they want helmets that are going to give them GPS data
+
+607
+00:35:11,021 --> 00:35:16,160
+and data about the track ahead so that they
+
+608
+00:35:16,161 --> 00:35:17,640
+can react more quickly.
+
+609
+00:35:22,200 --> 00:35:25,180
+And I got the same thing going on on the moon of Endor
+
+610
+00:35:25,181 --> 00:35:27,240
+with those speeder bikes.
+
+611
+00:35:27,241 --> 00:35:29,580
+The stormtroopers weren't terribly bright.
+
+612
+00:35:30,680 --> 00:35:36,480
+So they did have these helmet systems that helped them to guide the speeder bikes.
+
+613
+00:35:38,600 --> 00:35:40,040
+They still lost out.
+
+614
+00:35:40,680 --> 00:35:42,500
+The Stormtroopers still crashed into things.
+
+615
+00:35:43,920 --> 00:35:49,280
+GPS-style helmets would also come in handy when piloting this high-speed Star Wars vehicle,
+
+616
+00:35:49,640 --> 00:35:54,580
+one which uses a technology that can already be found right here on Earth, the Podracer.
+
+617
+00:35:54,581 --> 00:35:57,580
+As built by young Anakin Skywalker,
+
+618
+00:35:57,581 --> 00:36:00,580
+the Podracer appears to have Earth-style jet engines.
+
+619
+00:36:00,581 --> 00:36:04,580
+George described the Podracers as being like two 747 engines
+
+620
+00:36:04,581 --> 00:36:06,580
+with the exterior covers pulled off,
+
+621
+00:36:06,581 --> 00:36:09,580
+with this little pod behind it on these wires.
+
+622
+00:36:09,581 --> 00:36:11,580
+He talked for probably 20 minutes,
+
+623
+00:36:11,581 --> 00:36:13,580
+right off the top of his head, about the Podracer
+
+624
+00:36:13,581 --> 00:36:15,580
+and about how it all worked.
+
+625
+00:36:18,580 --> 00:36:22,580
+And the impression I got was that he was there yesterday at the races.
+
+626
+00:36:22,581 --> 00:36:27,580
+I remember trying to talk to George about the technology of those huge engines.
+
+627
+00:36:30,580 --> 00:36:36,580
+Are they really like taking two 747 engines, putting some repulsors so they stay off the ground,
+
+628
+00:36:36,581 --> 00:36:39,580
+and then binding them together with this electrical beam?
+
+629
+00:36:39,581 --> 00:36:42,580
+And George's answer was, yeah, that's what it's like.
+
+630
+00:36:42,581 --> 00:36:45,580
+I asked about the beam in the middle, and he said,
+
+631
+00:36:45,581 --> 00:36:49,580
+well, the reason is because they've got this centrifugal force going on,
+
+632
+00:36:49,581 --> 00:36:54,200
+on, this gyroscope going on, and if they weren't bound together like that, they'd actually
+
+633
+00:36:54,201 --> 00:36:58,580
+smash into each other or head off like two magnets repelling each other.
+
+634
+00:36:58,581 --> 00:37:05,500
+Ooh, there goes Quadranero's power coupling.
+
+635
+00:37:05,501 --> 00:37:11,980
+Of course, as far as the forces of evil are concerned, speed isn't everything.
+
+636
+00:37:11,981 --> 00:37:15,980
+ADATs, better known as Imperial Walkers,
+
+637
+00:37:16,020 --> 00:37:18,980
+are a terrifying triumph of Empire engineering.
+
+638
+00:37:19,020 --> 00:37:21,980
+But even though they can trample the heroic rebels
+
+639
+00:37:22,020 --> 00:37:24,960
+on the planet Hoth as they do in Episode 5,
+
+640
+00:37:25,000 --> 00:37:26,960
+The Empire Strikes Back,
+
+641
+00:37:27,000 --> 00:37:29,960
+these behemoths aren't known for their quick moves.
+
+642
+00:37:30,000 --> 00:37:32,960
+When you look at these large, four-legged pieces of equipment,
+
+643
+00:37:33,000 --> 00:37:34,980
+it's hard to think of situations where they're a huge advantage
+
+644
+00:37:35,000 --> 00:37:37,980
+over a wheeled vehicle because they would be, I think,
+
+645
+00:37:38,000 --> 00:37:39,980
+a lot slower and a little more unstable.
+
+646
+00:37:40,000 --> 00:37:41,980
+Detach cable!
+
+647
+00:37:41,981 --> 00:37:55,680
+Fortunately for Empire engineers, their two-legged terrain vehicles, also known as chicken walkers,
+
+648
+00:37:55,860 --> 00:37:59,960
+were much more practical, even if they were a little unsteady on their feet.
+
+649
+00:38:00,320 --> 00:38:03,260
+That one made a little more sense to me because it's walking around in the jungle,
+
+650
+00:38:03,460 --> 00:38:08,980
+and you could imagine that you would need something like that in a dense jungle to move more like an animal or a person.
+
+651
+00:38:08,981 --> 00:38:14,280
+But sometimes the most sophisticated technology is still no match
+
+652
+00:38:14,281 --> 00:38:19,240
+when pitted against one simple adversary, human ingenuity.
+
+653
+00:38:20,460 --> 00:38:22,480
+Because as the old saying goes,
+
+654
+00:38:22,940 --> 00:38:27,540
+the bigger they are, the harder they fall.
+
+655
+00:38:30,060 --> 00:38:33,160
+I am C3PO, human-cyborg relations,
+
+656
+00:38:33,500 --> 00:38:35,580
+and this is my counterpart, Barton Dieter.
+
+657
+00:38:35,700 --> 00:38:36,400
+Hello.
+
+658
+00:38:38,980 --> 00:38:43,980
+Since 1977, when the first Star Wars film premiered...
+
+659
+00:38:43,981 --> 00:38:45,980
+Don't get technical with me.
+
+660
+00:38:45,981 --> 00:38:48,980
+Scientists and engineers have made great strides
+
+661
+00:38:48,981 --> 00:38:52,980
+toward developing real robots that can execute many of the functions
+
+662
+00:38:52,981 --> 00:38:54,980
+performed by the droids in Star Wars.
+
+663
+00:38:54,981 --> 00:38:55,980
+We need to operate quickly.
+
+664
+00:38:55,981 --> 00:38:58,980
+Using robots to aid in surgery is a very real possibility.
+
+665
+00:38:58,981 --> 00:39:02,980
+One example would be telesurgery, where a skilled surgeon moves his hand,
+
+666
+00:39:02,981 --> 00:39:06,980
+and at a distance, a robotic arm imitates his very movement.
+
+667
+00:39:06,981 --> 00:39:11,980
+Robots are also wonderful for very small precision surgical work as well as repetitive tasks.
+
+668
+00:39:11,981 --> 00:39:18,980
+Incredibly, robots are even learning how to express emotions, just like C-3PO.
+
+669
+00:39:18,981 --> 00:39:22,980
+I don't know what all this trouble is about, but I'm sure it must be your fault.
+
+670
+00:39:22,981 --> 00:39:24,980
+You watch your language.
+
+671
+00:39:24,981 --> 00:39:30,980
+One area I think Star Wars was a real breakthrough was with the treatment of the droids,
+
+672
+00:39:30,981 --> 00:39:33,980
+and the fact that the droids have personalities and emotions.
+
+673
+00:39:33,981 --> 00:39:38,997
+emotions. We seem to be made to suffer. It's our lot in life.
+
+674
+00:39:38,998 --> 00:39:42,040
+R2 and 3PO, here were two robots with
+
+675
+00:39:42,041 --> 00:39:43,993
+personalities with lots of emotions.
+
+676
+00:39:43,994 --> 00:39:47,140
+And don't let me catch you following me, begging for help,
+
+677
+00:39:47,240 --> 00:39:52,549
+because you won't get it. And these emotions actually helped them.
+
+678
+00:39:52,550 --> 00:39:54,480
+R2, can you hear me? You
+
+679
+00:39:54,481 --> 00:39:58,676
+must repair him. Sir, if any of my circuits or gears will help, I'll gladly donate.
+
+680
+00:39:58,677 --> 00:39:59,377
+He'll be
+
+681
+00:39:59,378 --> 00:40:01,080
+Emotions help us set priorities.
+
+682
+00:40:01,081 --> 00:40:03,080
+See if they've been captured. Hurry.
+
+683
+00:40:03,081 --> 00:40:06,080
+They help us plan and make decisions.
+
+684
+00:40:06,081 --> 00:40:10,080
+What does that mean? That means I am in charge here.
+
+685
+00:40:10,081 --> 00:40:13,080
+Researchers are making great progress in building robots
+
+686
+00:40:13,081 --> 00:40:15,080
+that can emulate human emotions.
+
+687
+00:40:15,081 --> 00:40:19,080
+As an example, MIT Media Lab's Kismet actually can carry on a conversation with you
+
+688
+00:40:19,081 --> 00:40:22,080
+and make facial expressions based on your mood.
+
+689
+00:40:22,081 --> 00:40:26,080
+They've programmed the responses in there so it will respond to your facial clues
+
+690
+00:40:26,081 --> 00:40:28,080
+using motors and gadgets.
+
+691
+00:40:28,081 --> 00:40:30,080
+Don't go.
+
+692
+00:40:30,081 --> 00:40:32,080
+No, I'm not going to go.
+
+693
+00:40:32,081 --> 00:40:34,080
+Oh, yay.
+
+694
+00:40:34,081 --> 00:40:36,080
+You're so silly.
+
+695
+00:40:36,081 --> 00:40:41,080
+The emotions that have been programmed into the robot have been modeled, computationally
+
+696
+00:40:41,081 --> 00:40:44,080
+modeled, after what we know about human emotions.
+
+697
+00:40:44,081 --> 00:40:46,080
+I love you.
+
+698
+00:40:46,081 --> 00:40:49,080
+Aw, did he say he loves me?
+
+699
+00:40:49,081 --> 00:40:51,080
+I love you.
+
+700
+00:40:51,081 --> 00:40:54,080
+Humans are super social.
+
+701
+00:40:54,081 --> 00:40:56,080
+And your favorite color, blue.
+
+702
+00:40:56,081 --> 00:40:56,781
+No.
+
+703
+00:40:57,060 --> 00:41:01,560
+So if we want to build a robot that can interact with people,
+
+704
+00:41:01,760 --> 00:41:03,800
+communicate with people, and learn from people,
+
+705
+00:41:03,980 --> 00:41:08,420
+it has to also be social,
+
+706
+00:41:08,740 --> 00:41:11,180
+because that's the way that people are going to try to teach it
+
+707
+00:41:11,181 --> 00:41:13,000
+and the way they're going to try to communicate to it.
+
+708
+00:41:13,060 --> 00:41:16,180
+No, you're not to do that. No.
+
+709
+00:41:17,300 --> 00:41:19,780
+R2, that way.
+
+710
+00:41:19,781 --> 00:41:27,540
+But if robot technology is now taking big steps forward...
+
+711
+00:41:27,541 --> 00:41:29,480
+What's going on, buddy?
+
+712
+00:41:29,920 --> 00:41:34,720
+Another seemingly simple Star Wars concept is scientifically tougher to crack.
+
+713
+00:41:34,860 --> 00:41:35,560
+Put him in.
+
+714
+00:41:36,660 --> 00:41:37,720
+Carbonite freezing.
+
+715
+00:41:43,400 --> 00:41:45,980
+Carbonite really does exist here on Earth.
+
+716
+00:41:46,540 --> 00:41:48,200
+It's a type of gunpowder.
+
+717
+00:41:48,201 --> 00:41:50,040
+But it doesn't have the same properties
+
+718
+00:41:50,140 --> 00:41:52,980
+that it does in the world of Star Wars.
+
+719
+00:41:53,080 --> 00:41:54,900
+The way it's used in the film,
+
+720
+00:41:55,000 --> 00:41:57,080
+it's kind of a dry ice with an opposite charge.
+
+721
+00:41:57,180 --> 00:41:59,480
+Anything with ite, carbon ite, it means it's
+
+722
+00:41:59,580 --> 00:42:01,180
+some alloy of some mineral.
+
+723
+00:42:01,280 --> 00:42:05,420
+So it's probably some carbon dioxide mineral alloy that
+
+724
+00:42:05,520 --> 00:42:08,520
+is able to be kept at very, very low temperatures.
+
+725
+00:42:08,620 --> 00:42:10,660
+Well, it's not ever explicitly explained.
+
+726
+00:42:10,760 --> 00:42:12,820
+But even though we haven't yet mastered
+
+727
+00:42:12,920 --> 00:42:16,260
+the art of freezing and unfreezing human beings,
+
+728
+00:42:16,261 --> 00:42:18,260
+Scientists are working on it.
+
+729
+00:42:18,261 --> 00:42:21,260
+It's a field of research called cryonics.
+
+730
+00:42:21,261 --> 00:42:24,260
+Cryonics is a way of taking a tissue
+
+731
+00:42:24,261 --> 00:42:27,260
+and bringing it down to a very, very low temperature,
+
+732
+00:42:27,261 --> 00:42:30,260
+so there's no more need for oxygen or blood flow.
+
+733
+00:42:30,261 --> 00:42:33,260
+And so what you have to do is replace the blood with glycerol.
+
+734
+00:42:33,261 --> 00:42:35,260
+It's the same stuff we use in the lab
+
+735
+00:42:35,261 --> 00:42:37,260
+to cryogenically preserve tissue.
+
+736
+00:42:39,260 --> 00:42:41,260
+So you can get organisms, you can get tissue down,
+
+737
+00:42:41,261 --> 00:42:42,260
+you can get a human down.
+
+738
+00:42:42,261 --> 00:42:44,260
+The problem is bringing them back up.
+
+739
+00:42:44,261 --> 00:42:50,300
+If you're warmed up too fast, you fall apart like peanut brittle, and then you just turn
+
+740
+00:42:50,301 --> 00:42:51,300
+into goo.
+
+741
+00:42:51,301 --> 00:42:56,220
+You have hibernation sickness.
+
+742
+00:42:56,221 --> 00:42:59,420
+There's probably good science with the freezing of Han.
+
+743
+00:42:59,421 --> 00:43:01,200
+The thawing, not so much.
+
+744
+00:43:01,201 --> 00:43:02,200
+I'm out of it.
+
+745
+00:43:02,201 --> 00:43:08,200
+For a little while, everybody gets delusions of grandeur.
+
+746
+00:43:08,201 --> 00:43:13,740
+So when it comes to technological possibilities, it seems fair to say that George Lucas and
+
+747
+00:43:13,741 --> 00:43:17,240
+and his creative team envisioned a scientific galaxy
+
+748
+00:43:17,241 --> 00:43:20,540
+that may not be so different from our own.
+
+749
+00:43:20,541 --> 00:43:22,920
+When people see something like that in a movie,
+
+750
+00:43:22,921 --> 00:43:24,760
+it directly inspires them.
+
+751
+00:43:24,761 --> 00:43:26,260
+Help me, Obi-Wan Kenobi.
+
+752
+00:43:26,261 --> 00:43:28,180
+Because kids that are looking at that
+
+753
+00:43:28,181 --> 00:43:30,220
+grow up to be professionals, engineers, scientists,
+
+754
+00:43:30,221 --> 00:43:31,560
+that sort of thing.
+
+755
+00:43:31,561 --> 00:43:32,860
+And they start thinking about that,
+
+756
+00:43:32,861 --> 00:43:35,100
+and that's the way they want it to go.
+
+757
+00:43:35,101 --> 00:43:36,460
+All right, I'll give it a try.
+
+758
+00:43:36,461 --> 00:43:37,600
+No.
+
+759
+00:43:37,601 --> 00:43:38,940
+Try not.
+
+760
+00:43:38,941 --> 00:43:41,060
+Do.
+
+761
+00:43:41,061 --> 00:43:43,360
+It shows how artists inform
+
+762
+00:43:43,361 --> 00:43:45,600
+and tell scientists what's important in the world,
+
+763
+00:43:45,601 --> 00:43:46,700
+and then we do it.
+
+764
+00:43:48,000 --> 00:43:50,940
+George Lucas's vision of this whole galactic civilization
+
+765
+00:43:50,941 --> 00:43:53,200
+really excited people and really got them interested
+
+766
+00:43:53,201 --> 00:43:54,380
+in moving in that direction
+
+767
+00:43:54,381 --> 00:43:56,140
+and pushing those technologies forward.
+
+768
+00:43:58,300 --> 00:44:00,440
+Technology is really catching up with Star Wars
+
+769
+00:44:00,441 --> 00:44:01,980
+in a bunch of different ways.
+
+770
+00:44:01,981 --> 00:44:05,180
+It seems like many of these things are within our grasp.
+
+771
+00:44:05,181 --> 00:44:08,320
+Search your feelings, you know it to be true.
+
+772
+00:44:10,420 --> 00:44:12,560
+What the mind can conceive,
+
+773
+00:44:12,561 --> 00:44:16,160
+Scientists and engineers strive to make a reality.
+
+774
+00:44:17,100 --> 00:44:21,540
+In judging from the advances in bionics and robotics
+
+775
+00:44:22,560 --> 00:44:26,240
+to ion propulsion and plasma technology,
+
+776
+00:44:27,740 --> 00:44:32,740
+perhaps the Star Wars galaxy isn't so far, far away
+
+777
+00:44:34,120 --> 00:44:35,040
+after all.
+

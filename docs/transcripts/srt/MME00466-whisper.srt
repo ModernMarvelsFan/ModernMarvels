@@ -1,0 +1,2504 @@
+1
+00:00:00,001 --> 00:00:05,000
+A paper-thin, wall-sized television.
+
+2
+00:00:05,001 --> 00:00:09,000
+A car that runs on processed seawater.
+
+3
+00:00:09,001 --> 00:00:12,000
+An army of robotic soldiers.
+
+4
+00:00:12,001 --> 00:00:15,000
+Outer space luxury resorts.
+
+5
+00:00:15,001 --> 00:00:18,000
+And human cyborgs.
+
+6
+00:00:18,001 --> 00:00:20,000
+No, it's not a movie.
+
+7
+00:00:20,001 --> 00:00:23,000
+Buckle up as we race into the near future
+
+8
+00:00:23,001 --> 00:00:26,000
+to see where fantasy becomes fact.
+
+9
+00:00:26,001 --> 00:00:27,000
+Now.
+
+10
+00:00:27,001 --> 00:00:28,860
+Future Tech on modern marbles.
+
+11
+00:00:43,320 --> 00:00:45,560
+Welcome to the year 2060.
+
+12
+00:00:46,120 --> 00:00:51,000
+As you'll notice, the world has changed quite dramatically in the past 50 years.
+
+13
+00:00:52,080 --> 00:00:53,560
+Several things are bigger.
+
+14
+00:00:53,561 --> 00:00:58,160
+World's tallest skyscraper, one-half mile in height.
+
+15
+00:00:58,940 --> 00:01:00,640
+But most things are smaller.
+
+16
+00:01:01,240 --> 00:01:04,280
+Nanotech medicines cure all forms of cancer.
+
+17
+00:01:04,760 --> 00:01:05,880
+Some things are faster.
+
+18
+00:01:06,920 --> 00:01:10,480
+Hypersonic flight from New York to Tokyo takes two hours.
+
+19
+00:01:11,320 --> 00:01:13,120
+While other things last longer.
+
+20
+00:01:13,780 --> 00:01:17,520
+Average human lifespan, 125 years.
+
+21
+00:01:18,520 --> 00:01:20,920
+Of course, these are just predictions.
+
+22
+00:01:20,921 --> 00:01:23,920
+will they ever be reality?
+
+23
+00:01:23,921 --> 00:01:28,920
+What technologies today will revolutionize tomorrow's personal transportation?
+
+24
+00:01:28,921 --> 00:01:35,920
+Bionics, warfare, home entertainment, and space exploration.
+
+25
+00:01:35,921 --> 00:01:39,920
+And why bother even trying to predict what's coming?
+
+26
+00:01:39,921 --> 00:01:42,920
+Forecasting the future is very important at a couple of levels.
+
+27
+00:01:42,921 --> 00:01:45,920
+If you can't anticipate what's going to happen,
+
+28
+00:01:45,921 --> 00:01:48,920
+you're going to be stuck reacting to what's happening.
+
+29
+00:01:48,921 --> 00:01:56,680
+happening. A good place to start on your road trip into the future is on the road.
+
+30
+00:02:01,240 --> 00:02:03,446
+What will tomorrow's wheels be like?
+
+31
+00:02:03,447 --> 00:02:07,000
+How about a vehicle that uses the most abundant element in
+
+32
+00:02:07,001 --> 00:02:13,844
+the universe as a fuel? Its only emissions are water vapor and a little heat.
+
+33
+00:02:13,845 --> 00:02:15,000
+It's twice as
+
+34
+00:02:15,001 --> 00:02:19,440
+efficient as today's combustion engines, and you can refuel the vehicle at home.
+
+35
+00:02:19,441 --> 00:02:26,236
+No fantasy, just such test vehicles are already on the road.
+
+36
+00:02:26,237 --> 00:02:30,540
+Get ready for the hydrogen revolution.
+
+37
+00:02:30,541 --> 00:02:35,460
+The hydrogen fuel cell vehicle is going to do to today's cars and trucks what today's
+
+38
+00:02:35,461 --> 00:02:39,039
+cars and trucks did to the horse and buggy of a hundred and fifty years ago.
+
+39
+00:02:39,040 --> 00:02:39,840
+It's a completely
+
+40
+00:02:39,841 --> 00:02:43,840
+revolutionary approach to automotive transportation.
+
+41
+00:02:43,841 --> 00:02:50,840
+Right now, nearly every major automobile manufacturer in the world is working on hydrogen fuel cell technology,
+
+42
+00:02:50,841 --> 00:02:57,840
+the technology that could begin to supplant gas-burning vehicles in the next 15 to 30 years.
+
+43
+00:02:57,841 --> 00:03:04,840
+A fuel cell vehicle essentially is an electric vehicle, but instead of using a battery to provide the power,
+
+44
+00:03:04,841 --> 00:03:08,840
+it uses a fuel cell to generate electricity on board.
+
+45
+00:03:08,841 --> 00:03:11,140
+These are very high-performance cars.
+
+46
+00:03:11,420 --> 00:03:17,620
+They have great get-up-and-go, wonderful acceleration, and really good driving performance.
+
+47
+00:03:20,080 --> 00:03:23,180
+This is General Motors' Hydrogen 3 vehicle.
+
+48
+00:03:23,700 --> 00:03:28,020
+This is not a conventional vehicle, but a fuel cell vehicle powered by hydrogen.
+
+49
+00:03:28,380 --> 00:03:33,820
+The hydrogen is stored in the back where the gas tank would normally be, and under the hood is a fuel cell.
+
+50
+00:03:33,821 --> 00:03:40,140
+Now the fuel cell system combines hydrogen and oxygen to make electricity, which powers
+
+51
+00:03:40,141 --> 00:03:41,280
+the vehicle.
+
+52
+00:03:41,281 --> 00:03:45,880
+The waste product is water, which goes out the tailpipe, and heat, which is thrown overboard
+
+53
+00:03:45,881 --> 00:03:46,880
+in the radiator.
+
+54
+00:03:46,881 --> 00:03:56,380
+A fuel cell will continue to produce electricity as long as oxygen and hydrogen are supplied.
+
+55
+00:03:56,381 --> 00:04:00,960
+Fuel cells are different from batteries in this respect.
+
+56
+00:04:00,961 --> 00:04:07,140
+are self-contained and eventually run down if not recharged. A common type of
+
+57
+00:04:07,141 --> 00:04:11,700
+fuel cell uses a proton exchange membrane which is sandwiched between two
+
+58
+00:04:11,701 --> 00:04:19,200
+electrodes. Hydrogen gas is fed to one side while oxygen is fed to the other.
+
+59
+00:04:19,201 --> 00:04:24,960
+The hydrogen atoms are attracted to the oxygen atoms but the membrane only
+
+60
+00:04:24,961 --> 00:04:31,400
+allows the positively charged hydrogen protons through. The electrons have to
+
+61
+00:04:31,401 --> 00:04:36,720
+take the long way around. This flow of electrons generates an electrical
+
+62
+00:04:36,721 --> 00:04:43,520
+current. Although the basic concept of fuel cells dates back to the 1890s, it
+
+63
+00:04:43,521 --> 00:04:50,120
+wasn't until the 1960s that fuel cell technology really took off.
+
+64
+00:04:54,960 --> 00:05:04,420
+NASA, looking for an alternative to heavy batteries, used fuel cells on the Gemini missions,
+
+65
+00:05:04,760 --> 00:05:10,860
+and later on the Moon missions, and eventually on the Space Shuttle missions.
+
+66
+00:05:11,760 --> 00:05:16,480
+One side benefit, the byproduct of the fuel cell is drinkable water.
+
+67
+00:05:16,481 --> 00:05:27,860
+but back on the ground this car can go 96 miles an hour and performs like a conventional minivan
+
+68
+00:05:27,861 --> 00:05:34,220
+it's impressive but engineers still have several technical speed bumps to overcome
+
+69
+00:05:34,221 --> 00:05:37,560
+before you're kicking the tires of your new fuel cell vehicle
+
+70
+00:05:39,560 --> 00:05:45,880
+the challenges that confront us right now are on board storage of hydrogen how much hydrogen can
+
+71
+00:05:45,881 --> 00:05:48,420
+and you store on board a vehicle to give it the range that it needs.
+
+72
+00:05:48,740 --> 00:05:52,060
+We have to lower component costs so this vehicle is more affordable.
+
+73
+00:05:53,040 --> 00:05:56,800
+A robust national refueling infrastructure is also extremely critical.
+
+74
+00:05:58,160 --> 00:06:03,040
+Hydrogen can be produced from diverse sources, including coal and natural gas.
+
+75
+00:06:04,560 --> 00:06:07,120
+Hydrogen can even be produced by electrolysis,
+
+76
+00:06:08,100 --> 00:06:13,720
+passing an electric current through water to break its molecules apart into hydrogen and oxygen gas.
+
+77
+00:06:15,880 --> 00:06:19,380
+It could be what frees the country from dependence on
+
+78
+00:06:19,381 --> 00:06:21,380
+foreign oil.
+
+79
+00:06:21,381 --> 00:06:24,380
+But today, hydrogen production isn't as green as it might
+
+80
+00:06:24,381 --> 00:06:26,380
+seem.
+
+81
+00:06:26,381 --> 00:06:30,380
+Right now, most commercially produced hydrogen comes from
+
+82
+00:06:30,381 --> 00:06:32,380
+natural gas.
+
+83
+00:06:32,381 --> 00:06:36,380
+If fossil fuels are used in the production of hydrogen, the
+
+84
+00:06:36,381 --> 00:06:38,380
+process generates air pollutants.
+
+85
+00:06:38,381 --> 00:06:41,380
+We're perhaps no better off.
+
+86
+00:06:41,381 --> 00:06:44,080
+That's why the goal of many environmental
+
+87
+00:06:44,081 --> 00:06:51,680
+That's why the goal of many environmentally conscious researchers is eventually to produce hydrogen entirely from renewable sources.
+
+88
+00:06:53,880 --> 00:07:02,020
+Renewable sources include wind energy, solar energy, geothermal, ways of making electricity.
+
+89
+00:07:02,021 --> 00:07:07,300
+And of course that electricity then can be used to produce hydrogen from water.
+
+90
+00:07:09,200 --> 00:07:13,340
+Another challenge is building a hydrogen infrastructure from the ground up.
+
+91
+00:07:14,080 --> 00:07:19,080
+California Governor Arnold Schwarzenegger believes he has the answer.
+
+92
+00:07:19,081 --> 00:07:25,840
+I will sign an executive order creating a public and private partnership that will create
+
+93
+00:07:25,841 --> 00:07:32,660
+hydrogen highways all over the state of California by the year 2010.
+
+94
+00:07:32,661 --> 00:07:38,720
+Governor Schwarzenegger's plan for a hydrogen highway calls for 150 to 200 hydrogen refueling
+
+95
+00:07:38,721 --> 00:07:48,200
+stations strategically placed along California's highways.
+
+96
+00:07:48,201 --> 00:07:53,840
+Fueling stations along major highways will be essential for long distance travel.
+
+97
+00:07:53,841 --> 00:08:00,580
+But for most in-town commuters, Honda has a plan to make filling up even easier.
+
+98
+00:08:00,581 --> 00:08:05,440
+As easy as a trip to your garage.
+
+99
+00:08:05,441 --> 00:08:10,860
+This home energy station connects to a home's natural gas line and is capable of producing
+
+100
+00:08:10,861 --> 00:08:15,600
+hydrogen for fuel cell vehicles.
+
+101
+00:08:15,601 --> 00:08:20,620
+A stationary fuel cell could even power the house.
+
+102
+00:08:20,621 --> 00:08:25,720
+Although there are test vehicles on the road and several infrastructure plans in progress,
+
+103
+00:08:25,721 --> 00:08:31,260
+it'll still be a while before you can fuel your car with hydrogen.
+
+104
+00:08:31,261 --> 00:08:34,680
+Fuel cells are still extremely expensive.
+
+105
+00:08:34,681 --> 00:08:37,780
+If a hydrogen fuel cell car was for sale today,
+
+106
+00:08:37,781 --> 00:08:42,020
+it'd probably cost hundreds of thousands of dollars.
+
+107
+00:08:42,021 --> 00:08:43,780
+Time and technological breakthroughs
+
+108
+00:08:43,781 --> 00:08:45,860
+will bring prices down.
+
+109
+00:08:45,861 --> 00:08:48,060
+But it could take 15 to 30 years
+
+110
+00:08:48,061 --> 00:08:50,520
+before practical and affordable hydrogen fuel cell
+
+111
+00:08:50,521 --> 00:08:52,160
+vehicles are available to the public.
+
+112
+00:08:54,900 --> 00:08:57,480
+Hopefully, the promise of a hydrogen economy
+
+113
+00:08:57,481 --> 00:08:59,680
+is worth the wait.
+
+114
+00:08:59,681 --> 00:09:04,380
+The idea of being able to have pollution-free driving
+
+115
+00:09:04,381 --> 00:09:09,620
+And in fact, having a diverse source of hydrogen, I think, is pretty damn exciting.
+
+116
+00:09:09,800 --> 00:09:12,300
+And I think people would love that.
+
+117
+00:09:13,160 --> 00:09:16,240
+Now, unfortunately, it doesn't help you with the congestion.
+
+118
+00:09:17,120 --> 00:09:20,720
+So you wouldn't be able to go faster anywhere.
+
+119
+00:09:22,820 --> 00:09:26,900
+That's when a future flying car would really come in handy.
+
+120
+00:09:28,120 --> 00:09:30,340
+Right now, you have three different kinds of vehicles.
+
+121
+00:09:30,820 --> 00:09:32,360
+You've got a car that goes along the ground.
+
+122
+00:09:32,760 --> 00:09:34,960
+You've got an airplane that takes you from point to point.
+
+123
+00:09:34,961 --> 00:09:39,260
+And then you've got these huge government finance things that take us up into space.
+
+124
+00:09:39,800 --> 00:09:45,960
+The future brings us the convergence of those three vehicles into one.
+
+125
+00:09:46,700 --> 00:09:48,760
+A car, plane, spaceship.
+
+126
+00:09:50,600 --> 00:09:55,980
+That could reduce a commute from Boston to New York City in four hours to 45 minutes.
+
+127
+00:09:58,700 --> 00:10:01,400
+So how do we get the wheels of technology turning?
+
+128
+00:10:02,020 --> 00:10:04,360
+Well, the real issue is how do we get rid of the wheel?
+
+129
+00:10:06,440 --> 00:10:09,200
+Because the wheel is a cause of tremendous friction.
+
+130
+00:10:10,000 --> 00:10:13,240
+With nanotechnology, one of the things that we may be able to do
+
+131
+00:10:13,241 --> 00:10:20,320
+is get rid of pavement by implanting the maglev repulsion wires in the grass
+
+132
+00:10:20,321 --> 00:10:23,780
+and turn our highways into grass.
+
+133
+00:10:25,460 --> 00:10:27,940
+Every car will be networked.
+
+134
+00:10:27,941 --> 00:10:30,380
+vehicles will run on automatic pilot,
+
+135
+00:10:31,080 --> 00:10:33,080
+allowing cars to travel closer together
+
+136
+00:10:33,081 --> 00:10:35,340
+and at incredible speeds.
+
+137
+00:10:36,780 --> 00:10:39,920
+So say goodbye to speeding tickets and traffic accidents.
+
+138
+00:10:40,620 --> 00:10:43,780
+In the future, there's no such thing as speed limit.
+
+139
+00:10:47,060 --> 00:10:48,700
+Like the car of tomorrow,
+
+140
+00:10:49,340 --> 00:10:52,220
+in the future, many things will think for themselves,
+
+141
+00:10:53,160 --> 00:10:55,160
+including robot war fighters.
+
+142
+00:10:55,960 --> 00:10:57,820
+Like it or not, the machines.
+
+143
+00:10:57,940 --> 00:11:00,700
+are coming.
+
+144
+00:11:00,701 --> 00:11:02,780
+Forecasting the future isn't easy.
+
+145
+00:11:02,781 --> 00:11:06,440
+In 1943, aviation writer Harry Bruno predicted
+
+146
+00:11:06,441 --> 00:11:09,620
+the decline of the automobile after World War II.
+
+147
+00:11:09,621 --> 00:11:14,700
+Instead of a car in every garage, there will be a helicopter.
+
+148
+00:11:14,701 --> 00:11:17,260
+Future Tech will return on Modern Marvels.
+
+149
+00:11:23,860 --> 00:11:26,860
+The history of warfare has shown at the force
+
+150
+00:11:26,861 --> 00:11:30,100
+with the greatest technological advantage usually wins.
+
+151
+00:11:31,060 --> 00:11:34,220
+Now the U.S. military is working on what could lead
+
+152
+00:11:34,221 --> 00:11:37,380
+to the most deadly weapon on the battlefield by 2025.
+
+153
+00:11:41,300 --> 00:11:42,300
+Robart III.
+
+154
+00:11:43,540 --> 00:11:44,680
+Welcome to the future.
+
+155
+00:11:46,280 --> 00:11:49,380
+Okay, so the research prototype looks more like
+
+156
+00:11:49,381 --> 00:11:51,160
+the Jetsons made in the Terminator.
+
+157
+00:11:52,400 --> 00:11:54,940
+But don't let his calm exterior fool you.
+
+158
+00:11:54,941 --> 00:11:58,940
+His robotic offspring could one day roam the battlefield,
+
+159
+00:11:58,941 --> 00:12:02,940
+hunting down enemies, and yes, killing them.
+
+160
+00:12:04,940 --> 00:12:09,940
+The Pentagon is spending billions of dollars in the pursuit of robotic technology
+
+161
+00:12:09,941 --> 00:12:12,940
+that will one day lead to autonomous warfighters.
+
+162
+00:12:12,941 --> 00:12:17,940
+In the military, we're specifically looking for things that are dangerous,
+
+163
+00:12:17,941 --> 00:12:23,940
+or boring, or hazardous to the human, and we try to let the robotic system
+
+164
+00:12:23,941 --> 00:12:27,020
+the robotic system take over in those areas.
+
+165
+00:12:27,021 --> 00:12:30,040
+The main advantage of the robot is it saves lives.
+
+166
+00:12:30,041 --> 00:12:32,560
+And it's also a force multiplier.
+
+167
+00:12:32,561 --> 00:12:33,820
+It doesn't get emotional.
+
+168
+00:12:33,821 --> 00:12:38,240
+It doesn't panic and pull the trigger because it's afraid.
+
+169
+00:12:38,241 --> 00:12:41,540
+It's more cold and calculating, and in that sense,
+
+170
+00:12:41,541 --> 00:12:45,960
+hopefully more able to make the right decision.
+
+171
+00:12:45,961 --> 00:12:51,340
+ROBART III is the product of 25 years of research.
+
+172
+00:12:51,341 --> 00:12:53,780
+He's an autonomous research prototype
+
+173
+00:12:53,781 --> 00:12:56,720
+developed at the Space and Naval Warfare Systems Center
+
+174
+00:12:56,721 --> 00:13:00,720
+in San Diego, California.
+
+175
+00:13:00,721 --> 00:13:03,120
+With various sensors, he's the first robot
+
+176
+00:13:03,121 --> 00:13:06,320
+to be able to detect a potential threat,
+
+177
+00:13:06,321 --> 00:13:09,220
+Initiating search and destroy mission,
+
+178
+00:13:09,221 --> 00:13:13,660
+Assess the threat, Seeking primary target vulnerability,
+
+179
+00:13:13,661 --> 00:13:17,740
+target lock acquired, commence firing,
+
+180
+00:13:17,741 --> 00:13:21,180
+and respond to the threat.
+
+181
+00:13:21,181 --> 00:13:22,640
+For this demonstration, the threat
+
+182
+00:13:22,641 --> 00:13:23,940
+happens to be a soda can.
+
+183
+00:13:23,941 --> 00:13:26,740
+Commencing search for secondary target.
+
+184
+00:13:30,340 --> 00:13:34,320
+But future Tactical Autonomous Combatants, or TACs,
+
+185
+00:13:34,780 --> 00:13:37,540
+will handle real weapons and real threats.
+
+186
+00:13:38,940 --> 00:13:43,240
+The issue, basically, of a robot equipped with a weapon
+
+187
+00:13:43,241 --> 00:13:44,780
+is somewhat controversial.
+
+188
+00:13:46,640 --> 00:13:50,220
+Our current strategy right now is to maintain a human in the loop
+
+189
+00:13:50,221 --> 00:13:54,360
+at all times to monitor the actions of the robot
+
+190
+00:13:54,361 --> 00:13:56,360
+and make the final decision as to whether or not
+
+191
+00:13:56,361 --> 00:13:58,960
+that truly is a combatant before you take action.
+
+192
+00:13:58,961 --> 00:14:04,160
+When we talk about robots, people like to think of automatons.
+
+193
+00:14:04,161 --> 00:14:07,580
+They like to think of bipedal, two-legged, two-armed,
+
+194
+00:14:07,581 --> 00:14:10,580
+one-head kind of thing, something like Schwarzenegger
+
+195
+00:14:10,581 --> 00:14:12,000
+in the Terminator.
+
+196
+00:14:12,001 --> 00:14:13,980
+We think robots could be very small.
+
+197
+00:14:13,981 --> 00:14:15,180
+They could look like insects.
+
+198
+00:14:15,181 --> 00:14:16,340
+They could look like trucks.
+
+199
+00:14:16,341 --> 00:14:17,780
+They could look like airplanes.
+
+200
+00:14:20,220 --> 00:14:34,220
+Hundreds of teleoperated machines are already serving in Iraq and Afghanistan, checking bunkers, searching buildings, and digging up roadside bombs.
+
+201
+00:14:36,500 --> 00:14:42,420
+However helpful, these machines are remotely controlled, each by at least one soldier.
+
+202
+00:14:43,780 --> 00:14:50,000
+The goal is to make autonomous machines, tacks, capable of thinking for themselves.
+
+203
+00:14:50,220 --> 00:15:01,720
+Today, researchers are working on complex algorithms that will help machines make decisions,
+
+204
+00:15:01,721 --> 00:15:08,220
+define targets, discern friend from foe, and navigate unknown terrain.
+
+205
+00:15:08,221 --> 00:15:12,820
+The robot obviously can do things that the human can't do.
+
+206
+00:15:12,821 --> 00:15:16,740
+There will always be some things that a human can do better than a robot.
+
+207
+00:15:16,741 --> 00:15:18,440
+by putting them together in a team,
+
+208
+00:15:18,441 --> 00:15:21,440
+you can send the robot in to do the dangerous stuff.
+
+209
+00:15:25,080 --> 00:15:27,600
+One autonomous robot already in service
+
+210
+00:15:27,601 --> 00:15:31,920
+is the Mobile Detection Assessment and Response System,
+
+211
+00:15:31,921 --> 00:15:35,160
+MDARS.
+
+212
+00:15:35,161 --> 00:15:37,180
+This is the MDARS exterior robot.
+
+213
+00:15:37,181 --> 00:15:38,980
+It's an autonomous security robot
+
+214
+00:15:38,981 --> 00:15:41,260
+which controls around fixed site installations
+
+215
+00:15:41,261 --> 00:15:43,420
+in the continental United States.
+
+216
+00:15:43,421 --> 00:15:45,600
+Patrols perimeters, randomly patrols.
+
+217
+00:15:45,601 --> 00:15:47,900
+There's no human operator driving this machine.
+
+218
+00:15:47,901 --> 00:15:49,800
+It basically runs by itself.
+
+219
+00:15:49,801 --> 00:15:53,540
+It navigates using the Novotel RT2 system, which is good,
+
+220
+00:15:53,541 --> 00:15:56,300
+to accuracies of about two centimeters.
+
+221
+00:15:56,301 --> 00:15:59,340
+We have a number of application payloads that go on here.
+
+222
+00:15:59,341 --> 00:16:01,740
+This is a remotely operated weapon.
+
+223
+00:16:01,741 --> 00:16:05,320
+This is a non-lethal replica of the weapon in here now.
+
+224
+00:16:05,321 --> 00:16:08,040
+You can remove this cradle here and drop in the actual weapon,
+
+225
+00:16:08,041 --> 00:16:09,660
+which looks just like this.
+
+226
+00:16:09,661 --> 00:16:12,540
+We have a number of systems on here for collision avoidance.
+
+227
+00:16:12,541 --> 00:16:13,880
+Basically what that means is they're
+
+228
+00:16:13,881 --> 00:16:16,640
+out ahead of the system to be sure there's nothing in the way.
+
+229
+00:16:16,641 --> 00:16:19,180
+We have a marsupial carrier on the back,
+
+230
+00:16:19,181 --> 00:16:26,120
+which has a erbot manned portable robot in it.
+
+231
+00:16:26,121 --> 00:16:28,260
+This allows this diesel-powered system
+
+232
+00:16:28,261 --> 00:16:32,600
+to carry this robot down to a point and release it
+
+233
+00:16:32,601 --> 00:16:35,860
+where it can go into places this system can't fit.
+
+234
+00:16:35,861 --> 00:16:39,580
+Underground, in culverts, bunkers, tunnels,
+
+235
+00:16:39,581 --> 00:16:42,180
+inside of buildings allows us to put a sensor
+
+236
+00:16:42,181 --> 00:16:44,680
+pretty much anywhere we want to.
+
+237
+00:16:44,681 --> 00:16:47,180
+The robots on the battlefield will serve roles
+
+238
+00:16:47,181 --> 00:16:51,820
+from pack animal to protector, but they will all be connected,
+
+239
+00:16:51,821 --> 00:16:55,360
+sharing information with each other.
+
+240
+00:16:55,361 --> 00:16:58,900
+One urban warfare scenario is to have automatic cannons
+
+241
+00:16:58,901 --> 00:17:03,160
+protecting troops occupying a hostile city.
+
+242
+00:17:03,161 --> 00:17:08,240
+When an enemy fires on U.S. troops, the humans take cover.
+
+243
+00:17:08,241 --> 00:17:10,740
+But these robots, which are linked,
+
+244
+00:17:10,741 --> 00:17:12,900
+triangulate where the shot came from,
+
+245
+00:17:13,000 --> 00:17:16,140
+and instantaneously return fire.
+
+246
+00:17:16,240 --> 00:17:17,940
+Insurgent fires a shot.
+
+247
+00:17:18,040 --> 00:17:20,880
+Before that insurgent can drop his rifle and run,
+
+248
+00:17:20,980 --> 00:17:23,080
+a grenade is coming through the window.
+
+249
+00:17:23,180 --> 00:17:25,920
+So you effectively made the insurgent
+
+250
+00:17:26,020 --> 00:17:30,260
+pay a very high price for messing with anybody with a robot.
+
+251
+00:17:30,360 --> 00:17:34,160
+But what happens if one short circuits?
+
+252
+00:17:34,260 --> 00:17:37,000
+What happens when armed robots become smart enough
+
+253
+00:17:37,100 --> 00:17:39,700
+and decide we're no longer useful,
+
+254
+00:17:39,701 --> 00:17:42,840
+and start decommissioning us.
+
+255
+00:17:42,841 --> 00:17:45,480
+Is that just science fiction?
+
+256
+00:17:45,481 --> 00:17:47,940
+Science fiction does precede science fact.
+
+257
+00:17:47,941 --> 00:17:51,220
+20 to 30 years from now, we will have the ability
+
+258
+00:17:51,221 --> 00:17:53,280
+to mimic the human brain.
+
+259
+00:17:53,281 --> 00:17:55,480
+Whether we'll be able to put the intelligence
+
+260
+00:17:55,481 --> 00:17:57,880
+and the ability to discern friend from foe,
+
+261
+00:17:57,881 --> 00:17:59,380
+that's going to be the real question.
+
+262
+00:17:59,381 --> 00:18:02,360
+Humans can't do it right now, so how do we expect robots
+
+263
+00:18:02,361 --> 00:18:04,900
+who would imitate human intelligence to do it?
+
+264
+00:18:04,901 --> 00:18:06,600
+It's going to be a real challenge,
+
+265
+00:18:06,601 --> 00:18:09,000
+and many people are very afraid
+
+266
+00:18:09,001 --> 00:18:10,440
+of sentient robots.
+
+267
+00:18:11,540 --> 00:18:15,120
+We envision that the machines will be working with humans,
+
+268
+00:18:15,220 --> 00:18:18,120
+they'll be supervised and not left to their own devices
+
+269
+00:18:18,121 --> 00:18:19,820
+100% of the time.
+
+270
+00:18:21,400 --> 00:18:24,560
+There are several technological challenges to overcome
+
+271
+00:18:24,561 --> 00:18:27,420
+before the armed autonomous robot warfighter
+
+272
+00:18:27,421 --> 00:18:28,200
+hits the battlefield.
+
+273
+00:18:29,140 --> 00:18:30,600
+But don't fool yourself.
+
+274
+00:18:31,360 --> 00:18:32,760
+The machines are coming.
+
+275
+00:18:33,160 --> 00:18:35,980
+The question, again, is not a matter of if we'll have this,
+
+276
+00:18:36,000 --> 00:18:36,820
+it's a question of when.
+
+277
+00:18:36,821 --> 00:18:40,660
+And we are inexorably marching technologically toward that.
+
+278
+00:18:40,661 --> 00:18:42,360
+Target lock acquired.
+
+279
+00:18:42,361 --> 00:18:43,360
+Commence firing.
+
+280
+00:18:48,660 --> 00:18:51,660
+The word robot was introduced in 1920
+
+281
+00:18:51,661 --> 00:18:54,380
+by the Czech playwright Carl Czopek
+
+282
+00:18:54,381 --> 00:18:56,780
+from the Czech word for forced labor.
+
+283
+00:18:56,781 --> 00:19:00,820
+In his play, intelligent robots turn on their human owners
+
+284
+00:19:00,821 --> 00:19:02,680
+and take over the world.
+
+285
+00:19:02,681 --> 00:19:05,580
+Future tech will return on Modern Marvels.
+
+286
+00:19:06,820 --> 00:19:16,500
+With the development of nanotechnology, scientists plan to do great things in the future.
+
+287
+00:19:16,501 --> 00:19:22,920
+Cure cancer, help feed the starving, and of course, build a kickin' home entertainment
+
+288
+00:19:22,921 --> 00:19:25,040
+system.
+
+289
+00:19:25,041 --> 00:19:29,180
+Televisions in the future will shrink as small as your retina and grow as big as your
+
+290
+00:19:29,181 --> 00:19:30,180
+house.
+
+291
+00:19:30,181 --> 00:19:35,320
+Instead of your television being in your living room, your living room is going to
+
+292
+00:19:35,321 --> 00:19:41,740
+be in your television. We are now at the point where materials are being invented
+
+293
+00:19:41,741 --> 00:19:50,440
+that can serve as television screens no matter how large or small they are. So we
+
+294
+00:19:50,441 --> 00:19:57,920
+will be painting or rolling up screens across walls, floors and ceilings. You
+
+295
+00:19:57,921 --> 00:20:02,440
+will be able to walk on them, you will be able to hang pictures on them, but you
+
+296
+00:20:02,441 --> 00:20:07,620
+You won't actually have to do that anymore because the pictures will actually be projected
+
+297
+00:20:07,621 --> 00:20:08,900
+as part of the screen.
+
+298
+00:20:08,901 --> 00:20:14,580
+So when you walk into your room, you will actually be able to walk into a completely
+
+299
+00:20:14,581 --> 00:20:17,660
+different room if you want to program it that way.
+
+300
+00:20:17,661 --> 00:20:20,560
+And that's going to be the big change.
+
+301
+00:20:20,561 --> 00:20:30,220
+Television was formally announced at the 1939 World's Fair in New York.
+
+302
+00:20:30,221 --> 00:20:36,720
+In the next half century, people will see as well as hear around the world.
+
+303
+00:20:36,721 --> 00:20:44,840
+Newspapers, magazines, mail, and messages will be sent through the air at lightning speed
+
+304
+00:20:44,841 --> 00:20:48,400
+and reproduced in the home.
+
+305
+00:20:48,401 --> 00:20:56,900
+Today, several companies are working on technologies for the next generation of televisions.
+
+306
+00:20:56,901 --> 00:21:00,900
+super thin, and even flexible electronic screens.
+
+307
+00:21:04,900 --> 00:21:08,900
+Organic light-emitting diode, OLED technology,
+
+308
+00:21:08,901 --> 00:21:11,900
+might lead to bigger, brighter, thinner,
+
+309
+00:21:11,901 --> 00:21:15,900
+and more colorful displays than even LCDs in the future.
+
+310
+00:21:17,900 --> 00:21:20,900
+OLEDs work by sandwiching organic material
+
+311
+00:21:20,901 --> 00:21:22,900
+between two electrodes.
+
+312
+00:21:22,901 --> 00:21:25,900
+When electricity flows through the organic material,
+
+313
+00:21:25,901 --> 00:21:27,040
+It glows.
+
+314
+00:21:29,200 --> 00:21:31,440
+Several companies have test models.
+
+315
+00:21:32,580 --> 00:21:36,140
+This 13-inch Phillips prototype is only one millimeter thick.
+
+316
+00:21:37,300 --> 00:21:46,420
+The Universal Display Corporation is even working on flexible OLED technology, using pliable substrates, such as plastic film.
+
+317
+00:21:51,640 --> 00:21:54,340
+Or thin, bendable metallic foil.
+
+318
+00:21:55,900 --> 00:22:02,900
+Imagine one day rolling up your 20-inch computer monitor and throwing it in your backpack.
+
+319
+00:22:02,901 --> 00:22:10,900
+Television is basically now constrained to a small rectangle on your wall or on your shelf.
+
+320
+00:22:10,901 --> 00:22:14,900
+The television of the future is unlimited in where it can be.
+
+321
+00:22:14,901 --> 00:22:20,900
+The television of the future is basically able to move to a personal television.
+
+322
+00:22:20,901 --> 00:22:26,900
+TV and video monitors will be on everything in the future.
+
+323
+00:22:28,500 --> 00:22:32,300
+Nanotech materials might turn entire buildings into moving billboards.
+
+324
+00:22:34,040 --> 00:22:39,840
+What's happening right now is that we see painted surfaces being developed
+
+325
+00:22:39,841 --> 00:22:46,040
+where you actually have a liquid that can be painted onto a very thin substrate
+
+326
+00:22:46,041 --> 00:22:48,840
+over very broad areas.
+
+327
+00:22:48,841 --> 00:22:51,040
+And that's the real revolution that's taking place.
+
+328
+00:22:51,420 --> 00:22:54,620
+That's where nanotechnology is having a huge impact
+
+329
+00:22:54,621 --> 00:22:58,440
+because you're getting these very, very tiny, pixel-like,
+
+330
+00:22:58,900 --> 00:23:03,560
+nano-sized particles that are being included in this liquid
+
+331
+00:23:03,561 --> 00:23:06,820
+that then solidifies to form, essentially,
+
+332
+00:23:07,220 --> 00:23:10,060
+a television screen over a very wide surface.
+
+333
+00:23:10,240 --> 00:23:15,820
+So you can now actually not be limited by flat surfaces or by size.
+
+334
+00:23:15,821 --> 00:23:21,220
+But video screens of the future won't only be the size of buildings.
+
+335
+00:23:21,780 --> 00:23:26,660
+They'll also be so well concealed, no one will even know you're watching television.
+
+336
+00:23:28,920 --> 00:23:35,000
+The television has another application that we're even actually beginning to see right now,
+
+337
+00:23:35,100 --> 00:23:37,320
+and it's known as optobionics.
+
+338
+00:23:37,580 --> 00:23:45,060
+This is where thousands and thousands of tiny computer chips are implanted in the back of the retina
+
+339
+00:23:45,061 --> 00:23:50,000
+and are connected directly to the optical nerve leading to the brain.
+
+340
+00:23:51,460 --> 00:23:56,280
+Today, several research groups are working on retinal microchip implantation
+
+341
+00:23:56,281 --> 00:23:58,460
+to improve vision, not television.
+
+342
+00:24:00,620 --> 00:24:05,080
+The Optobionics Corporation is developing a retinal microchip implant
+
+343
+00:24:05,081 --> 00:24:09,380
+for people with age-related macular degeneration and other eye conditions.
+
+344
+00:24:09,381 --> 00:24:19,620
+The microchip implanted on the back of the eye contains 5,000 microscopic solar cells
+
+345
+00:24:19,621 --> 00:24:25,500
+that convert the light energy from images into electrical chemical impulses that stimulate
+
+346
+00:24:25,501 --> 00:24:31,806
+the remaining functional cells. Clinical trials began in 2000.
+
+347
+00:24:31,807 --> 00:24:35,060
+So far, none of the patients has
+
+348
+00:24:35,061 --> 00:24:40,760
+rejected the implants, and all have reported improved vision.
+
+349
+00:24:40,761 --> 00:24:46,240
+The retina TV might be next, so stay tuned.
+
+350
+00:24:46,241 --> 00:24:49,600
+In the brave future, even the remote control
+
+351
+00:24:49,601 --> 00:24:51,580
+might become a thing of the past.
+
+352
+00:24:51,581 --> 00:24:55,620
+Next, a cerebral implant could make changing the channel
+
+353
+00:24:55,621 --> 00:24:58,840
+as easy as changing your mind.
+
+354
+00:24:58,841 --> 00:25:03,860
+In 1946, 20th Century Fox movie executive Daryl Zanuck
+
+355
+00:25:03,861 --> 00:25:07,880
+predicted TV wouldn't last six months after its introduction.
+
+356
+00:25:07,881 --> 00:25:10,220
+He said people will get tired of staring
+
+357
+00:25:10,221 --> 00:25:12,680
+at a plywood box every night.
+
+358
+00:25:12,681 --> 00:25:15,400
+Future Tech will return on Modern Marvels.
+
+359
+00:25:21,280 --> 00:25:24,900
+Ever want to control something telekinetically?
+
+360
+00:25:24,901 --> 00:25:27,220
+In the future, you might be able to.
+
+361
+00:25:28,580 --> 00:25:32,580
+Brain machine interfaces, including cerebral implants,
+
+362
+00:25:32,581 --> 00:25:35,380
+will soon merge microchip and mortal
+
+363
+00:25:35,381 --> 00:25:40,200
+to create a true bionic man with seemingly telekinetic powers.
+
+364
+00:25:40,201 --> 00:25:43,820
+A lot of people have this image that, basically from Hollywood,
+
+365
+00:25:43,821 --> 00:25:46,740
+that the machines are coming.
+
+366
+00:25:46,741 --> 00:25:50,340
+Well, the machines are coming, and they are us.
+
+367
+00:25:50,341 --> 00:25:53,820
+Because what we see happening is a marriage
+
+368
+00:25:53,821 --> 00:26:00,360
+between the computer electronic world and the human brain world.
+
+369
+00:26:02,580 --> 00:26:05,820
+But do scientists have the technology?
+
+370
+00:26:05,821 --> 00:26:11,720
+Do scientists have the capability to make the first bionic men and women?
+
+371
+00:26:11,721 --> 00:26:14,560
+The answer is yes.
+
+372
+00:26:14,561 --> 00:26:17,540
+And they're already here.
+
+373
+00:26:17,541 --> 00:26:24,860
+Scientists around the world are currently working on brain-machine interfaces, BMIs.
+
+374
+00:26:24,861 --> 00:26:32,520
+These devices facilitate direct communication between the brain and the computer.
+
+375
+00:26:32,521 --> 00:26:35,760
+For the severely disabled, it's a way to control the computer
+
+376
+00:26:35,761 --> 00:26:37,260
+without using a mouse or keyboard.
+
+377
+00:26:41,200 --> 00:26:44,340
+Andrew Junker of Brain Actuated Technologies
+
+378
+00:26:44,341 --> 00:26:47,600
+invented Brain Fingers, which is a BMI that
+
+379
+00:26:47,601 --> 00:26:51,800
+can be used for communicating, to surf the web,
+
+380
+00:26:51,801 --> 00:26:55,120
+or to control a computer-equipped house.
+
+381
+00:26:55,121 --> 00:26:58,040
+It can also control off-the-shelf software.
+
+382
+00:26:58,041 --> 00:27:00,580
+This is the CyberLink Brain Fingers system.
+
+383
+00:27:00,581 --> 00:27:05,260
+consists of a headband that plugs into an interface box which goes into the computer.
+
+384
+00:27:05,740 --> 00:27:11,840
+The way I connect, I wear this headband that has three sensors that will pick up the voltage at my forehead.
+
+385
+00:27:16,100 --> 00:27:19,920
+Brain cells communicate by producing tiny electrical impulses.
+
+386
+00:27:21,440 --> 00:27:24,640
+Brain fingers can detect and decode some of these impulses.
+
+387
+00:27:25,840 --> 00:27:29,860
+The signals are broken into frequencies Andrew calls brain fingers.
+
+388
+00:27:30,580 --> 00:27:36,800
+So we could use that signal, for example, to control or create a switch.
+
+389
+00:27:37,260 --> 00:27:42,820
+What's shown in this display is that muscle signal as it moves across the screen.
+
+390
+00:27:43,340 --> 00:27:48,860
+And in the simplest case, if I raise an eyebrow quickly, I have a switch.
+
+391
+00:27:49,260 --> 00:27:51,880
+You notice that when I go up, switch comes on.
+
+392
+00:27:52,420 --> 00:27:53,600
+Up, switch one on.
+
+393
+00:27:53,601 --> 00:27:58,600
+Mapping these electrical impulses to computer commands
+
+394
+00:27:58,700 --> 00:28:02,040
+allows a user to control the machine.
+
+395
+00:28:02,140 --> 00:28:05,640
+For instance, a user can tell the computer a quick glance
+
+396
+00:28:05,740 --> 00:28:09,540
+right moves the cursor right, and raising an eyebrow
+
+397
+00:28:09,640 --> 00:28:11,960
+moves the cursor left.
+
+398
+00:28:15,060 --> 00:28:17,960
+A slight tightening of the jaw raises the cursor,
+
+399
+00:28:18,060 --> 00:28:21,100
+and relaxing the muscle makes the cursor fall.
+
+400
+00:28:21,101 --> 00:28:23,320
+makes the cursor fall.
+
+401
+00:28:23,321 --> 00:28:26,340
+Now the person has full control of a mouse.
+
+402
+00:28:26,341 --> 00:28:27,540
+Take it up.
+
+403
+00:28:27,541 --> 00:28:31,120
+But perhaps an even more amazing attribute of brain fingers
+
+404
+00:28:31,121 --> 00:28:33,200
+is its ability to pick up and decipher
+
+405
+00:28:33,201 --> 00:28:36,540
+the frequencies, or brain waves, generated by the brain.
+
+406
+00:28:41,140 --> 00:28:44,300
+Brain fingers reads alpha and beta brain waves,
+
+407
+00:28:44,301 --> 00:28:48,200
+which can be thought of as different states of mind.
+
+408
+00:28:48,201 --> 00:28:52,760
+When relaxed, the brain produces more alpha waves.
+
+409
+00:28:52,761 --> 00:28:54,700
+When the mind is mentally excited,
+
+410
+00:28:54,701 --> 00:28:59,060
+alpha goes down and beta comes up.
+
+411
+00:28:59,061 --> 00:29:00,860
+By mapping the electrical impulses,
+
+412
+00:29:00,861 --> 00:29:03,900
+as well as the fluctuations of alpha and beta brainwaves
+
+413
+00:29:03,901 --> 00:29:06,600
+to computer commands, brain fingers
+
+414
+00:29:06,601 --> 00:29:09,100
+can control commercial software and games.
+
+415
+00:29:12,440 --> 00:29:15,600
+Using brain fingers is as easy as slipping on a headband.
+
+416
+00:29:18,200 --> 00:29:21,360
+But there's a more extreme BMI on the horizon
+
+417
+00:29:21,361 --> 00:29:24,080
+for those willing to go under the knife to get it.
+
+418
+00:29:25,960 --> 00:29:28,180
+One person already has.
+
+419
+00:29:30,140 --> 00:29:33,820
+Meet Matthew Nagel, the real bionic man.
+
+420
+00:29:34,840 --> 00:29:37,440
+He might not have computer-augmented supersight,
+
+421
+00:29:37,880 --> 00:29:40,120
+but he does have a neural sensor implant
+
+422
+00:29:40,121 --> 00:29:43,760
+and a direct connection between his brain and a computer.
+
+423
+00:29:45,680 --> 00:29:47,560
+Matthew is a quadriplegic,
+
+424
+00:29:47,561 --> 00:29:49,480
+paralyzed from the neck down.
+
+425
+00:29:50,680 --> 00:29:56,540
+In 2004, he became the first recipient of a BMI implant called BrainGate.
+
+426
+00:29:59,360 --> 00:30:05,240
+BrainGate actually taps into the real signals that orchestrate hand motions.
+
+427
+00:30:05,520 --> 00:30:13,780
+The idea is to tap into the part of the brain that gives the commands to move your hand.
+
+428
+00:30:13,781 --> 00:30:18,780
+This reddish strip right here is called the motor cortex.
+
+429
+00:30:18,781 --> 00:30:21,780
+This is the part of the cerebral cortex that controls movement,
+
+430
+00:30:21,781 --> 00:30:26,780
+and it's separated into subdivisions so that control of your leg is from up here,
+
+431
+00:30:26,781 --> 00:30:29,780
+control of the arm is down here, and control of the face is down here.
+
+432
+00:30:29,781 --> 00:30:33,780
+So if we're interested in signals for controlling the arm, we know right where to go.
+
+433
+00:30:35,780 --> 00:30:37,780
+Equipped with a road map of Matthew's brain,
+
+434
+00:30:37,781 --> 00:30:42,780
+a neurosurgeon cut a hole in his skull and implanted a tiny sensor
+
+435
+00:30:42,781 --> 00:30:44,760
+with 100 hair-thin electrodes.
+
+436
+00:30:47,540 --> 00:30:50,600
+The electrodes penetrated into the surface of his brain.
+
+437
+00:30:51,640 --> 00:30:53,960
+The sensor was attached to a connector,
+
+438
+00:30:54,500 --> 00:30:56,240
+which was fastened to the patient's skull.
+
+439
+00:30:58,360 --> 00:30:59,960
+One month after the surgery,
+
+440
+00:31:00,280 --> 00:31:02,040
+the team held their collective breath
+
+441
+00:31:02,041 --> 00:31:05,580
+as Matthew was plugged in for the first time.
+
+442
+00:31:07,340 --> 00:31:09,640
+After being cut off for three years,
+
+443
+00:31:10,100 --> 00:31:11,660
+doctors weren't sure Matthew's brain
+
+444
+00:31:11,661 --> 00:31:13,380
+was still sending readable signals.
+
+445
+00:31:14,720 --> 00:31:16,840
+A nearby cart held the components
+
+446
+00:31:16,841 --> 00:31:18,880
+that would hopefully convert his brain language
+
+447
+00:31:18,881 --> 00:31:21,120
+into something the computer could understand.
+
+448
+00:31:22,880 --> 00:31:25,940
+When we recorded from his motor cortex
+
+449
+00:31:25,941 --> 00:31:26,880
+and asked him,
+
+450
+00:31:27,620 --> 00:31:30,240
+think about moving left or think about moving right,
+
+451
+00:31:30,340 --> 00:31:32,460
+we saw that the brain activity changed.
+
+452
+00:31:32,840 --> 00:31:35,060
+So this was a fundamental step.
+
+453
+00:31:35,360 --> 00:31:38,880
+When we saw that, we knew that we could decode the information,
+
+454
+00:31:39,220 --> 00:31:41,100
+interpret it as if it were hand motion,
+
+455
+00:31:41,101 --> 00:31:44,540
+and then allow him to use his thoughts to control a computer cursor.
+
+456
+00:31:46,080 --> 00:31:53,400
+Within days, Matthew could move the cursor around by just thinking left, right, up, and down.
+
+457
+00:31:53,960 --> 00:31:56,160
+Next, I'm going to paint a circle.
+
+458
+00:32:01,140 --> 00:32:04,740
+That's the best circle I can do, and I'm going to act it.
+
+459
+00:32:05,600 --> 00:32:09,320
+The colors represent the activity changing in the various electrodes,
+
+460
+00:32:09,321 --> 00:32:17,420
+And that twinkling patchwork of information is actually telling us something about the intention or the intended movement that the patient might want to make.
+
+461
+00:32:17,840 --> 00:32:20,060
+Now I'm going to close the hand.
+
+462
+00:32:21,240 --> 00:32:27,580
+Matthew has even demonstrated the ability to open and close a robotic hand just by thinking about it.
+
+463
+00:32:27,581 --> 00:32:30,000
+Not bad, man. Not bad at all.
+
+464
+00:32:30,940 --> 00:32:32,820
+The implications are mind-blowing.
+
+465
+00:32:33,440 --> 00:32:38,340
+A future implant could give a spinal cord injury patient control of robotic limbs.
+
+466
+00:32:39,320 --> 00:32:43,320
+BMIs could one day be used to control super suits,
+
+467
+00:32:43,321 --> 00:32:47,320
+giving even the average Joe superhuman strength.
+
+468
+00:32:47,321 --> 00:32:51,320
+So you have a, for example, super strong skeleton
+
+469
+00:32:51,321 --> 00:32:54,320
+that is outside your body that you can control, that you step
+
+470
+00:32:54,321 --> 00:32:58,320
+into, that can allow you to lift weights that are four or five
+
+471
+00:32:58,321 --> 00:33:01,320
+times more than you normally would be able to do.
+
+472
+00:33:01,321 --> 00:33:06,320
+Right now, BMIs can't infuse superhuman strength,
+
+473
+00:33:06,321 --> 00:33:11,420
+strength, but they are making a difference to many.
+
+474
+00:33:11,421 --> 00:33:16,820
+The people who use them have been given superpowers by opening up worlds that were once closed
+
+475
+00:33:16,821 --> 00:33:17,820
+off.
+
+476
+00:33:17,821 --> 00:33:25,120
+In the 1984 science fiction novel Neuromancer, William Gibson coined the term Jack-In to
+
+477
+00:33:25,121 --> 00:33:30,080
+describe the process by which people physically connected their brains to a global computer
+
+478
+00:33:30,081 --> 00:33:32,040
+matrix.
+
+479
+00:33:32,041 --> 00:33:34,660
+Future Tech will return on Modern Marvels.
+
+480
+00:33:36,320 --> 00:33:40,160
+Planning your vacation for the year 2055?
+
+481
+00:33:40,161 --> 00:33:45,320
+Forget the moon, forget Atlantis, and come to the Red Planet.
+
+482
+00:33:45,321 --> 00:33:49,320
+Check out the Mars Buggy ATV Park.
+
+483
+00:33:49,321 --> 00:33:53,320
+See Olympus Mons, the largest volcano in the solar system.
+
+484
+00:33:53,321 --> 00:33:59,320
+Visit the historic K2 site, where scientists first discovered Martian fossils.
+
+485
+00:33:59,321 --> 00:34:02,320
+Whatever you decide to do on your Martian vacation,
+
+486
+00:34:02,321 --> 00:34:05,320
+we promise it will be out of this world.
+
+487
+00:34:08,320 --> 00:34:13,320
+It may seem like science fiction, but space tourism is on its way.
+
+488
+00:34:13,321 --> 00:34:16,320
+So pack your bags.
+
+489
+00:34:16,321 --> 00:34:22,320
+On October 4, 2004, Burt Rutan proved space was no longer the
+
+490
+00:34:22,321 --> 00:34:26,320
+sole domain of large, state-funded agencies.
+
+491
+00:34:26,321 --> 00:34:31,320
+With financing from investor Paul Allen, Rutan's company,
+
+492
+00:34:31,321 --> 00:34:36,320
+Scaled Composites, built a spaceship that rocketed its pilot
+
+493
+00:34:36,321 --> 00:34:44,320
+377,591 feet, around 71 miles, into the sky and into the record
+
+494
+00:34:44,321 --> 00:34:45,320
+books.
+
+495
+00:34:47,320 --> 00:34:50,320
+Rutan's team had built the first privately funded manned
+
+496
+00:34:50,321 --> 00:34:53,320
+spacecraft to reach the edge of space.
+
+497
+00:34:56,320 --> 00:35:02,820
+The flight was the second one within a week for the team, which won them the coveted Ansari
+
+498
+00:35:02,821 --> 00:35:13,920
+X Prize, a $10 million trophy established to jumpstart the space tourism industry.
+
+499
+00:35:13,921 --> 00:35:24,460
+Now the goal is to establish regular flights for the average person.
+
+500
+00:35:24,461 --> 00:35:28,320
+flights could begin in just a few years.
+
+501
+00:35:28,321 --> 00:35:37,700
+Estimated cost for a seat into space, $200,000.
+
+502
+00:35:37,701 --> 00:35:40,920
+An orbiting space station luxury resort could be next.
+
+503
+00:35:47,800 --> 00:35:52,660
+2004 was also a banner year for NASA.
+
+504
+00:35:52,661 --> 00:35:56,800
+two Mars exploration rovers, Spirit and Opportunity,
+
+505
+00:35:56,801 --> 00:35:58,660
+started exploring the red planet.
+
+506
+00:36:01,040 --> 00:36:04,220
+And then there was the big announcement from President Bush.
+
+507
+00:36:04,221 --> 00:36:08,380
+Today we set a new course for America's space program.
+
+508
+00:36:09,780 --> 00:36:12,220
+With the experience and knowledge gained on the moon,
+
+509
+00:36:13,640 --> 00:36:15,800
+we will then be ready to take the next steps
+
+510
+00:36:15,801 --> 00:36:20,120
+of space exploration, human missions to Mars
+
+511
+00:36:20,121 --> 00:36:22,220
+and to worlds beyond.
+
+512
+00:36:29,820 --> 00:36:33,040
+The president's commitment for a manned mission to Mars
+
+513
+00:36:33,041 --> 00:36:35,760
+included building a new crew exploration vehicle,
+
+514
+00:36:37,160 --> 00:36:39,660
+establishing an extended human presence on the moon,
+
+515
+00:36:40,340 --> 00:36:43,340
+and eventually going to Mars.
+
+516
+00:36:44,720 --> 00:36:46,980
+Cost estimates ranged widely,
+
+517
+00:36:47,280 --> 00:36:49,340
+from $50 to $500 billion.
+
+518
+00:36:50,120 --> 00:36:55,120
+The US has been interested in the Red Planet
+
+519
+00:36:55,121 --> 00:36:56,120
+for a long time.
+
+520
+00:36:58,120 --> 00:37:02,120
+1964, Mariner 4 flyby.
+
+521
+00:37:06,120 --> 00:37:11,120
+1975, Viking 1 and 2 missions.
+
+522
+00:37:14,120 --> 00:37:18,120
+1996, Mars Pathfinder.
+
+523
+00:37:20,120 --> 00:37:27,460
+2003, Mars Exploration Rovers.
+
+524
+00:37:29,960 --> 00:37:32,400
+Future missions will be even more ambitious.
+
+525
+00:37:33,520 --> 00:37:36,940
+There are a lot of problems to be solved, a lot of very exciting challenges,
+
+526
+00:37:37,340 --> 00:37:41,820
+and this is not a time where we can arbitrarily throw out any potential answer.
+
+527
+00:37:41,821 --> 00:37:46,620
+Five, four, three, two, one, we have ignition.
+
+528
+00:37:46,621 --> 00:37:50,620
+One challenge is trying to reduce trip duration.
+
+529
+00:37:50,621 --> 00:37:54,620
+Right now, the journey takes seven months, each way.
+
+530
+00:37:54,621 --> 00:37:59,620
+Once on the red planet, time will also be an issue.
+
+531
+00:37:59,621 --> 00:38:02,620
+When people are on the surface of Mars,
+
+532
+00:38:02,621 --> 00:38:05,620
+every work hour is going to be a very precious commodity.
+
+533
+00:38:05,621 --> 00:38:09,620
+So you certainly don't want to engage those people doing mundane things.
+
+534
+00:38:09,621 --> 00:38:13,620
+One of the models would be that you actually send robots,
+
+535
+00:38:13,621 --> 00:38:17,620
+and a lot of the infrastructure that people will count on
+
+536
+00:38:17,621 --> 00:38:19,620
+ahead of sending the people.
+
+537
+00:38:22,620 --> 00:38:25,620
+Robots could set up prefab habitats,
+
+538
+00:38:25,621 --> 00:38:27,620
+even before the first crew arrives.
+
+539
+00:38:28,620 --> 00:38:31,620
+Various groups of engineers, architects and dreamers
+
+540
+00:38:31,621 --> 00:38:34,620
+have developed concepts for the first Martian base,
+
+541
+00:38:36,620 --> 00:38:39,620
+including this one from the Sasakawa International Center
+
+542
+00:38:39,621 --> 00:38:41,620
+for Space Architecture.
+
+543
+00:38:41,621 --> 00:38:47,020
+Over my shoulder, we have a model of one of the Mars-based
+
+544
+00:38:47,021 --> 00:38:51,020
+scenarios that we've established that has a variety of different
+
+545
+00:38:51,021 --> 00:38:52,020
+kinds of elements.
+
+546
+00:38:52,021 --> 00:38:56,020
+Some of the larger ones are what we call pneumatic structures.
+
+547
+00:38:56,021 --> 00:39:00,020
+Upon arrival, it will deploy, it will inflate into a larger
+
+548
+00:39:00,021 --> 00:39:01,020
+structure.
+
+549
+00:39:01,021 --> 00:39:05,020
+We also may look at telescoping structures,
+
+550
+00:39:05,021 --> 00:39:08,020
+and they extend out.
+
+551
+00:39:08,021 --> 00:39:11,020
+Most designs are still on the drawing board.
+
+552
+00:39:11,021 --> 00:39:16,360
+But located in a Mars-like environment in the Utah desert,
+
+553
+00:39:16,361 --> 00:39:19,900
+a Martian base already exists.
+
+554
+00:39:23,100 --> 00:39:25,900
+Simulations at the Mars Desert Research Station
+
+555
+00:39:25,901 --> 00:39:28,300
+bring space exploration down to Earth.
+
+556
+00:39:31,540 --> 00:39:35,380
+The Mars Desert Research Station, or NDRS,
+
+557
+00:39:35,840 --> 00:39:37,780
+is a simulated Mars base.
+
+558
+00:39:37,781 --> 00:39:49,658
+So that's basically a facility where engineers and scientists can test procedures and equipment and similar things in preparation for building the first actual Mars
+
+559
+00:39:49,659 --> 00:39:50,359
+base.
+
+560
+00:39:52,400 --> 00:40:03,050
+The MDRS was established by the Mars Society, a private organization of specialists and researchers whose goals include promoting the manned exploration and settlement
+
+561
+00:40:03,051 --> 00:40:03,751
+of Mars.
+
+562
+00:40:07,780 --> 00:40:12,260
+Volunteers spend two-week rotations here.
+
+563
+00:40:12,261 --> 00:40:15,620
+Crew 37 happens to be from Georgia Tech.
+
+564
+00:40:15,621 --> 00:40:18,420
+The 11, I'm sure you guys do these to the HAB.
+
+565
+00:40:18,421 --> 00:40:21,300
+The purpose of MDRS is to gather data
+
+566
+00:40:21,301 --> 00:40:24,020
+and to gather experience to collect lessons learned
+
+567
+00:40:24,021 --> 00:40:29,060
+on how to operate and design such a planetary surface base.
+
+568
+00:40:29,061 --> 00:40:31,980
+So there are many elements that you could theoretically simulate
+
+569
+00:40:31,981 --> 00:40:35,580
+on a computer or as a separate part in a lab.
+
+570
+00:40:35,581 --> 00:40:38,260
+But as soon as you combine everything with the human crew,
+
+571
+00:40:38,720 --> 00:40:41,040
+that adds a whole other layer of complexity.
+
+572
+00:40:41,820 --> 00:40:45,080
+And this is why it's so important to put everything together in one place,
+
+573
+00:40:45,220 --> 00:40:47,800
+then add a crew, and then see how it works.
+
+574
+00:40:47,960 --> 00:40:52,180
+Because the whole purpose of sending a crew to Mars is to have them be productive.
+
+575
+00:40:56,680 --> 00:40:57,460
+That's right.
+
+576
+00:40:57,940 --> 00:41:00,240
+A trip to Mars won't actually be a vacation.
+
+577
+00:41:01,760 --> 00:41:05,100
+The crew will be busy building, exploring, and surviving.
+
+578
+00:41:05,580 --> 00:41:13,360
+Because transportation costs are so high, the goal is to pack light and use as many
+
+579
+00:41:13,361 --> 00:41:17,820
+Martian natural resources as possible.
+
+580
+00:41:17,821 --> 00:41:20,260
+Oxygen can be generated from the Martian atmosphere.
+
+581
+00:41:20,261 --> 00:41:26,320
+The Martian atmosphere consists of mainly carbon dioxide, CO2, so with the rather straightforward
+
+582
+00:41:26,321 --> 00:41:31,340
+chemical process, if you have enough power, you can extract the O2 from the CO2.
+
+583
+00:41:31,341 --> 00:41:36,340
+The thin Martian atmosphere is 95% carbon dioxide.
+
+584
+00:41:36,341 --> 00:41:39,340
+Pioneer Astronautics, under contract with NASA,
+
+585
+00:41:39,341 --> 00:41:43,340
+has already designed a solar-powered device that breaks down CO2
+
+586
+00:41:43,341 --> 00:41:46,340
+into carbon monoxide and oxygen.
+
+587
+00:41:46,341 --> 00:41:49,340
+Producing water is a little trickier.
+
+588
+00:41:49,341 --> 00:41:53,340
+Hydrogen, the primary ingredient of H2O, is hard to come by.
+
+589
+00:41:53,341 --> 00:41:59,340
+However, there are indications that Mars was once partially covered with water.
+
+590
+00:41:59,341 --> 00:42:06,340
+Maybe subsurface ice still exists and can be melted for human use.
+
+591
+00:42:06,341 --> 00:42:09,340
+Finding water is important for another reason.
+
+592
+00:42:09,341 --> 00:42:11,340
+Was there water? Is there water?
+
+593
+00:42:11,341 --> 00:42:13,340
+If there is water, where is the water?
+
+594
+00:42:13,341 --> 00:42:17,340
+And why the water is important is that often, you know,
+
+595
+00:42:17,341 --> 00:42:22,340
+it's felt that where there is water, there is some potential for life.
+
+596
+00:42:22,341 --> 00:42:25,340
+And that, of course, is, I think, the ultimate question
+
+597
+00:42:25,341 --> 00:42:27,340
+that people are intrigued by.
+
+598
+00:42:27,341 --> 00:42:30,340
+intrigued by, you know, is there life out there?
+
+599
+00:42:33,340 --> 00:42:36,140
+Robots can only do so much.
+
+600
+00:42:36,141 --> 00:42:40,020
+A manned mission might be the only way to find out.
+
+601
+00:42:40,021 --> 00:42:42,980
+Our civilization is currently at a level of technology
+
+602
+00:42:42,981 --> 00:42:45,860
+where we can send humans to Mars.
+
+603
+00:42:45,861 --> 00:42:49,300
+However, the level of technology is different from having
+
+604
+00:42:49,301 --> 00:42:52,460
+the actual equipment that's needed, all the systems,
+
+605
+00:42:52,461 --> 00:42:55,860
+and integrating those systems and making sure they actually work.
+
+606
+00:42:55,861 --> 00:43:00,540
+So my best guess is it will take us about 10 to 15 years
+
+607
+00:43:00,541 --> 00:43:04,220
+before all the systems are ready and integrated
+
+608
+00:43:04,221 --> 00:43:08,460
+and we can confidently send a crew to Mars.
+
+609
+00:43:08,461 --> 00:43:11,420
+That's an optimistic estimate, according to most experts.
+
+610
+00:43:16,660 --> 00:43:19,780
+That's the trouble with trying to predict the future.
+
+611
+00:43:19,781 --> 00:43:21,860
+It only takes time to be proven wrong.
+
+612
+00:43:21,861 --> 00:43:26,860
+Forecasting the future is a strange and risky business
+
+613
+00:43:26,861 --> 00:43:28,860
+because you hear people saying today,
+
+614
+00:43:28,861 --> 00:43:30,860
+well, where are the flying cars?
+
+615
+00:43:30,861 --> 00:43:31,860
+We don't see them.
+
+616
+00:43:31,861 --> 00:43:34,860
+A lot of the things that have been forecast
+
+617
+00:43:34,861 --> 00:43:36,860
+have in fact come true.
+
+618
+00:43:36,861 --> 00:43:39,860
+It's just that we haven't been able to predict
+
+619
+00:43:39,861 --> 00:43:42,860
+which ones of them will come true when.
+
+620
+00:43:42,861 --> 00:43:48,860
+Will we be vacationing on Mars in 2060 or 2160?
+
+621
+00:43:48,861 --> 00:43:50,860
+Hard to predict.
+
+622
+00:43:50,861 --> 00:43:54,360
+But predicting the future isn't about exactness.
+
+623
+00:43:54,361 --> 00:43:59,460
+It's about stirring imaginations, helping us avoid impending
+
+624
+00:43:59,461 --> 00:44:02,900
+disaster, and making for a better tomorrow.
+
+625
+00:44:05,400 --> 00:44:09,220
+Today's fantasies are tomorrow's facts.
+
+626
+00:44:09,221 --> 00:44:14,720
+So the sooner we get dreaming, the sooner we'll reach the stars.
+

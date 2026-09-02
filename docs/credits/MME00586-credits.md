@@ -1,0 +1,38 @@
+# Credit Roll: Engineering Disasters of the '70s (2007)
+**Canonical Episode:** [`MME00586: Engineering Disasters of the '70s`](../episodes/MME00586.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 2007 A&E Television Networks`
+* **Production Company:** Actuality Productions, Inc. (printed under each of the six segment names), History Television Network Productions, A&E Television Networks
+* **Narrator:** Max Rafael
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Associate Producers** | David Cherella, Meghan Fallon |
+| **Editor** | Michael Jasionowski |
+| **Executive Producer** | Carolyn Kresky |
+| **Graphics by** | TMBA |
+| **Music Provided by** | Pump Audio, LLC. |
+| **Narrator** | Max Rafael |
+| **Producer** | Thomas Rizzo |
+| **Production Coordinator** | Marti Glaser |
+| **Production Manager** | Coleen Weinstein |
+| **Segment: Buffalo Creek Dam - Executive Producer** | Don Cambou |
+| **Segment: Buffalo Creek Dam - Written &amp; Produced by** | Anthony Lacques, Gloria L. Morris |
+| **Segment: Edmund Fitzgerald - Executive Producer** | Don Cambou |
+| **Segment: Edmund Fitzgerald - Written &amp; Produced by** | Rob Beemer |
+| **Segment: Grain Elevator - Executive Producer** | Don Cambou |
+| **Segment: Grain Elevator - Written &amp; Produced by** | W. Scott Goldie |
+| **Segment: Rosemont Arena - Executive Producer** | Don Cambou |
+| **Segment: Rosemont Arena - Written &amp; Produced by** | W. Scott Goldie |
+| **Segment: Sansinena - Executive Producer** | Don Cambou |
+| **Segment: Sansinena - Written &amp; Produced by** | Holly A. Murdoch, Nancy Oey |
+| **Segment: Skyline Plaza - Executive Producer** | Don Cambou |
+| **Segment: Skyline Plaza - Written &amp; Produced by** | Jim Lindsay |
+
+---
+[← Return to Episode Dossier](../episodes/MME00586.md)

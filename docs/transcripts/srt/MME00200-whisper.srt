@@ -1,0 +1,2688 @@
+1
+00:00:01,000 --> 00:00:04,400
+Telescopes and window panes.
+
+2
+00:00:04,401 --> 00:00:08,000
+Crystal goblets and light bulbs.
+
+3
+00:00:08,001 --> 00:00:12,880
+Glass is everywhere, from the core of a volcano
+
+4
+00:00:12,881 --> 00:00:14,960
+to the core of your telephone line.
+
+5
+00:00:14,961 --> 00:00:18,920
+In fact, you're probably looking at it right now.
+
+6
+00:00:18,921 --> 00:00:22,720
+Now, Glass on Modern Marvels.
+
+7
+00:00:30,000 --> 00:00:44,000
+Corning, Inc. in Corning, New York, began making glass over
+
+8
+00:00:48,760 --> 00:00:59,760
+150 years ago. Back then, they made bottles.
+
+9
+00:00:59,761 --> 00:01:03,400
+Today, they make, among other things, glass optical fibers as
+
+10
+00:01:03,401 --> 00:01:08,860
+thin as human hair. If all of the optical fiber
+
+11
+00:01:08,861 --> 00:01:12,100
+currently installed were strung together, it would reach to the
+
+12
+00:01:12,101 --> 00:01:17,120
+moon and back 160 times. These fibers have
+
+13
+00:01:17,121 --> 00:01:20,820
+revolutionized communication because information can travel
+
+14
+00:01:20,821 --> 00:01:25,020
+inside light, and light can travel inside glass.
+
+15
+00:01:25,021 --> 00:01:29,760
+It comes from combining that light onto a single fiber,
+
+16
+00:01:29,761 --> 00:01:33,760
+carrying of that light down the fiber, then amplifying that
+
+17
+00:01:33,761 --> 00:01:37,760
+light so it can go further and further.
+
+18
+00:01:37,761 --> 00:01:40,760
+The principle behind fiber optics is demonstrated with a
+
+19
+00:01:40,761 --> 00:01:44,760
+flashlight and a stream of water. Shine the light into the
+
+20
+00:01:44,761 --> 00:01:47,760
+water and it will illuminate the whole length of the stream
+
+21
+00:01:47,761 --> 00:01:52,760
+because of a principle called total internal reflection.
+
+22
+00:01:52,761 --> 00:01:56,760
+Total internal reflection is a phenomenon whereby light is
+
+23
+00:01:56,761 --> 00:02:01,260
+trapped inside a media where any two media interact.
+
+24
+00:02:01,360 --> 00:02:04,660
+For instance, the surface between water and air is a
+
+25
+00:02:04,760 --> 00:02:08,400
+highly reflective surface. Fiber optic cable
+
+26
+00:02:08,500 --> 00:02:11,200
+traps light inside a core of glass.
+
+27
+00:02:11,300 --> 00:02:14,320
+The light then bounces off the exterior cladding of the fiber
+
+28
+00:02:14,420 --> 00:02:18,820
+all the way down its length, occasionally boosted by periodic
+
+29
+00:02:18,920 --> 00:02:22,260
+amplifiers, which are also glass.
+
+30
+00:02:22,360 --> 00:02:25,460
+Light is so efficient at carrying signals that four
+
+31
+00:02:25,461 --> 00:02:29,800
+of fiber optic cable holds the equivalent information of 33
+
+32
+00:02:29,801 --> 00:02:34,800
+tons of copper wire. Optical has lowered the cost
+
+33
+00:02:34,801 --> 00:02:40,900
+of moving information by some 90% over the last 10 years.
+
+34
+00:02:40,901 --> 00:02:45,420
+And over the next 10 years, our challenge as an industry is to
+
+35
+00:02:45,421 --> 00:02:51,120
+lower the cost of moving information by greater than 99%.
+
+36
+00:02:51,121 --> 00:02:53,820
+In the early 1970s, when Corning grasped the
+
+37
+00:02:53,821 --> 00:02:57,660
+grasped the potential of their fiber optic glass, they had no
+
+38
+00:02:57,661 --> 00:03:02,380
+customers. Everyone was happy with copper.
+
+39
+00:03:02,381 --> 00:03:05,260
+They started making fiber optic cable anyway.
+
+40
+00:03:05,261 --> 00:03:08,460
+And when the digital age hit, just about the same time the
+
+41
+00:03:08,461 --> 00:03:11,580
+government broke up Ma Bell, they were ready.
+
+42
+00:03:11,581 --> 00:03:16,060
+Corning's history is punctuated by innovations which really
+
+43
+00:03:16,061 --> 00:03:20,220
+don't have any particular use at the time they are discovered.
+
+44
+00:03:20,221 --> 00:03:24,460
+and then in 20 or 30 years we figure out something to do with
+
+45
+00:03:24,461 --> 00:03:27,660
+them. Fiber optic glass is simply a
+
+46
+00:03:27,661 --> 00:03:30,220
+purer form of the same stuff you used to drink out of.
+
+47
+00:03:33,900 --> 00:03:36,060
+The same stuff that hangs in your window frames.
+
+48
+00:03:37,900 --> 00:03:44,060
+Glass is probably the most versatile engineering material
+
+49
+00:03:44,061 --> 00:03:48,540
+the world has. Versatile because its raw materials
+
+50
+00:03:48,541 --> 00:03:53,540
+chemistry. Silica comes from sand.
+
+51
+00:03:53,541 --> 00:03:58,540
+If you heat silica or sand hot enough, it will melt into glass.
+
+52
+00:03:58,541 --> 00:04:03,540
+Adding ingredients like potash or potassium carbonate lowers
+
+53
+00:04:03,541 --> 00:04:07,540
+the temperature at which sand will melt.
+
+54
+00:04:07,541 --> 00:04:10,540
+It's that simple.
+
+55
+00:04:10,541 --> 00:04:16,540
+It has been transformed from beautiful peel to
+
+56
+00:04:16,541 --> 00:04:21,840
+beautiful pieces to very useful properties also.
+
+57
+00:04:21,841 --> 00:04:26,880
+It can be that that entices us, that that magnifies us, that
+
+58
+00:04:26,881 --> 00:04:32,300
+illuminates us. Simple and beautiful,
+
+59
+00:04:32,301 --> 00:04:35,780
+we still have not discovered all the ways glass may impact our
+
+60
+00:04:35,781 --> 00:04:39,300
+lives. In fact, we know still, even at
+
+61
+00:04:39,301 --> 00:04:42,900
+this point, very little about the true structure of glass.
+
+62
+00:04:42,901 --> 00:04:46,500
+We understand what atoms make it up.
+
+63
+00:04:46,501 --> 00:04:51,500
+We understand some of the basic molecular structure of it.
+
+64
+00:04:51,501 --> 00:04:55,540
+But we have a tremendous amount more to learn.
+
+65
+00:04:55,541 --> 00:04:59,460
+For instance, what is glass exactly?
+
+66
+00:04:59,461 --> 00:05:03,220
+It has properties of a solid and properties of a liquid.
+
+67
+00:05:03,221 --> 00:05:05,460
+But it is really neither.
+
+68
+00:05:05,461 --> 00:05:09,460
+It is strong, yet can be completely transparent.
+
+69
+00:05:12,900 --> 00:05:15,900
+Viewing glass on a molecular level helps explain some of
+
+70
+00:05:15,901 --> 00:05:19,700
+its mystery. Unlike a solid, in which molecules
+
+71
+00:05:19,701 --> 00:05:23,200
+freeze into what is called a crystalline pattern, and unlike
+
+72
+00:05:23,201 --> 00:05:27,200
+a liquid, in which molecules bounce around randomly, glass
+
+73
+00:05:27,201 --> 00:05:31,200
+molecules neither bounce around nor line up.
+
+74
+00:05:31,201 --> 00:05:34,700
+This is called a viscous pattern.
+
+75
+00:05:34,701 --> 00:05:38,200
+Glass is really the condition of any matter that has immobile
+
+76
+00:05:38,201 --> 00:05:41,700
+but unorganized molecules.
+
+77
+00:05:41,701 --> 00:05:44,700
+Another desirable property of some glass is that it does not
+
+78
+00:05:44,701 --> 00:05:48,300
+disperse light, but rather allows it to pass right through,
+
+79
+00:05:48,301 --> 00:05:50,300
+making it transparent.
+
+80
+00:05:55,740 --> 00:05:59,660
+Older than history, glass is both man-made and naturally
+
+81
+00:05:59,661 --> 00:06:03,260
+occurring. Glass forms when certain rocks
+
+82
+00:06:03,261 --> 00:06:06,260
+heat to melting temperatures, then cool.
+
+83
+00:06:06,261 --> 00:06:10,660
+Glass can form in the bowels of a volcano as obsidian, an opaque
+
+84
+00:06:10,661 --> 00:06:13,660
+black glass that became the first glass to be utilized by
+
+85
+00:06:13,661 --> 00:06:16,660
+man. Stone Age man in various
+
+86
+00:06:16,661 --> 00:06:20,660
+parts of the world used that very brittle but very sharp
+
+87
+00:06:20,661 --> 00:06:23,660
+obsidian to make tools and weapons.
+
+88
+00:06:23,661 --> 00:06:27,660
+Man-made glass came much later, possibly by accident, as
+
+89
+00:06:27,661 --> 00:06:31,660
+depicted in this old educational film, a cooking fire on a sandy
+
+90
+00:06:31,661 --> 00:06:35,660
+beach mixed with other minerals, lowering the melting threshold
+
+91
+00:06:35,661 --> 00:06:38,660
+of the sand, thus creating glass.
+
+92
+00:06:38,661 --> 00:06:42,100
+The earliest man-made glass that has come to light so far
+
+93
+00:06:42,200 --> 00:06:45,360
+was made sometime before 2000 BC.
+
+94
+00:06:45,460 --> 00:06:47,400
+We're not exactly sure when.
+
+95
+00:06:47,500 --> 00:06:50,400
+The earliest uses we know about for glass
+
+96
+00:06:50,500 --> 00:06:52,600
+are to make small precious things.
+
+97
+00:06:57,420 --> 00:07:00,380
+For nearly 2,000 years, artisans
+
+98
+00:07:00,480 --> 00:07:04,420
+have combined sand with ash and sodium carbonate,
+
+99
+00:07:04,520 --> 00:07:07,780
+which can lower the temperature at which silica melts by almost
+
+100
+00:07:07,781 --> 00:07:11,780
+almost half. They then add lime to increase
+
+101
+00:07:11,781 --> 00:07:16,780
+insolubility and put the mixture into a pot inside a very hot oven
+
+102
+00:07:16,781 --> 00:07:23,760
+or pot furnace, where it melts into a taffy-like consistency.
+
+103
+00:07:23,761 --> 00:07:27,600
+Early on, glass was worked over a core or nub of glass on the end
+
+104
+00:07:27,601 --> 00:07:30,700
+of a pole. But then, a revolution
+
+105
+00:07:30,701 --> 00:07:34,440
+occurred in glassmaking. Somewhere in the eastern
+
+106
+00:07:34,441 --> 00:07:39,140
+Mediterranean, sometime in the first century BC, people
+
+107
+00:07:39,240 --> 00:07:43,080
+discovered that by gathering molten glass on the end of a
+
+108
+00:07:43,180 --> 00:07:47,620
+hollow tube and blowing through the tube, one could form glass
+
+109
+00:07:47,720 --> 00:07:52,460
+vessels quickly, economically, simply by blowing the glass up
+
+110
+00:07:52,560 --> 00:07:55,620
+as though it were a balloon.
+
+111
+00:07:55,720 --> 00:07:58,860
+Almost immediately, the market for glass went far beyond
+
+112
+00:07:58,960 --> 00:08:01,940
+beads and jewelry. Glass previously had
+
+113
+00:08:01,941 --> 00:08:08,440
+a relatively luxurious commodity used for precious items.
+
+114
+00:08:08,540 --> 00:08:11,880
+Now, thanks to the discovery of glassblowing,
+
+115
+00:08:11,980 --> 00:08:13,880
+glass became commonplace.
+
+116
+00:08:13,980 --> 00:08:18,460
+It moved out of the luxurious reception room
+
+117
+00:08:18,560 --> 00:08:20,820
+into the kitchen and the store cupboard.
+
+118
+00:08:20,920 --> 00:08:23,460
+Glass became part of everyday life.
+
+119
+00:08:26,200 --> 00:08:29,400
+Glassblowing has changed little in 2,000 years,
+
+120
+00:08:29,401 --> 00:08:32,400
+as demonstrated by these artisans working in Indiana.
+
+121
+00:08:36,400 --> 00:08:41,400
+The process begins with, nowadays, a stainless steel blowpipe.
+
+122
+00:08:41,401 --> 00:08:43,400
+In the old days, they were steel or cast iron.
+
+123
+00:08:49,400 --> 00:08:53,400
+And you've preheated that blowpipe until it's just cherry red,
+
+124
+00:08:53,401 --> 00:08:57,400
+so that the glass will adhere to it, and you get a gatherer,
+
+125
+00:08:57,401 --> 00:09:04,180
+depending on how hot the glass is determines how much you gather it so it's gathered out and then
+
+126
+00:09:04,181 --> 00:09:11,440
+blocked or shaped with a variety of hand tools it's either wooden blocks or a newspaper are the
+
+127
+00:09:11,441 --> 00:09:17,320
+most typical ones and those tools chill the glass they draw the heat out of it and sort of put a
+
+128
+00:09:17,321 --> 00:09:24,640
+hard shell on it and then by putting a little pressure in the pipe the heat from the glass and
+
+129
+00:09:24,641 --> 00:09:29,640
+mouth or your diaphragm causes the air to expand.
+
+130
+00:09:37,280 --> 00:09:39,280
+The Romans seized on this technology,
+
+131
+00:09:39,281 --> 00:09:42,200
+adding their own technique of blowing glass inside
+
+132
+00:09:42,201 --> 00:09:46,200
+pre-constructed molds. Soon, blown glass objects
+
+133
+00:09:46,201 --> 00:09:49,640
+were found in the far reaches of the Roman Empire.
+
+134
+00:09:49,641 --> 00:09:53,040
+The Romans also learned to make opaque glass transparent.
+
+135
+00:09:53,041 --> 00:09:56,640
+after craftsmen in Alexandria discovered that adding manganese
+
+136
+00:09:56,641 --> 00:10:01,680
+oxide produced clear glass. Glass was quickly becoming not
+
+137
+00:10:01,681 --> 00:10:05,640
+just decorative but functional. Before long, it would become
+
+138
+00:10:05,641 --> 00:10:08,680
+essential, as lenses and magnifiers would help us look
+
+139
+00:10:08,681 --> 00:10:12,200
+into the furthest reaches of the universe and the smallest
+
+140
+00:10:12,201 --> 00:10:17,680
+aspects of our own bodies. Just two optical fibers can
+
+141
+00:10:17,681 --> 00:10:22,680
+Just two optical fibers can transmit the equivalent of 625,000
+
+142
+00:10:22,681 --> 00:10:26,680
+simultaneous phone calls. Glass will return on Modern
+
+143
+00:10:26,681 --> 00:10:33,680
+Marvels. We now return to Glass on Modern
+
+144
+00:10:33,681 --> 00:10:39,680
+Marvels. The Kokomo Opalescent Glass
+
+145
+00:10:39,681 --> 00:10:44,680
+Company in Indiana produces specialty glass in over 28,000
+
+146
+00:10:44,681 --> 00:10:48,680
+different colors, in much the same way as it has for over 100
+
+147
+00:10:48,681 --> 00:10:52,680
+years. The first step in our process
+
+148
+00:10:52,681 --> 00:10:55,680
+of glass manufacture is making the batches.
+
+149
+00:10:55,681 --> 00:10:59,680
+The batches are made by first filling a batch wagon with the
+
+150
+00:10:59,681 --> 00:11:03,680
+major ingredients, the silica sand and soda ash, and those are
+
+151
+00:11:03,681 --> 00:11:07,680
+gravity-fed from silos into wagons.
+
+152
+00:11:07,681 --> 00:11:12,680
+And then we add the metallic oxides that will bring about the
+
+153
+00:11:12,681 --> 00:11:14,840
+about the desired colors that we want.
+
+154
+00:11:24,100 --> 00:11:27,560
+And then those batches get mixed in a mixer.
+
+155
+00:11:31,560 --> 00:11:35,620
+That batch is then shoveled into a pot
+
+156
+00:11:35,621 --> 00:11:37,860
+and melts for 12 to 14 hours.
+
+157
+00:11:39,580 --> 00:11:42,460
+And then once it's melted,
+
+158
+00:11:42,461 --> 00:11:47,560
+Those colors are ladled out and ladled onto a mixing table.
+
+159
+00:11:47,561 --> 00:11:49,780
+If it's a two, three, four, or five color mix,
+
+160
+00:11:49,781 --> 00:11:51,580
+then that many ladlers will ladle out
+
+161
+00:11:51,581 --> 00:11:54,460
+of that many different pots converge on the mixing table
+
+162
+00:11:54,461 --> 00:11:55,780
+where the table man will stir it.
+
+163
+00:12:03,860 --> 00:12:05,180
+Until he gets it just right.
+
+164
+00:12:05,181 --> 00:12:08,300
+And then the table man will drop it into the rollers.
+
+165
+00:12:08,301 --> 00:12:10,520
+And the table catches the glass, which at that point
+
+166
+00:12:10,521 --> 00:12:13,420
+is about the viscosity of taffy.
+
+167
+00:12:23,960 --> 00:12:27,540
+And it just takes a matter of moments for the glow
+
+168
+00:12:27,541 --> 00:12:28,440
+to come off of it.
+
+169
+00:12:28,441 --> 00:12:30,840
+And at that point, it's stiff enough that the table man
+
+170
+00:12:30,841 --> 00:12:35,840
+can now push it onto the belt of the annealing oven.
+
+171
+00:12:35,841 --> 00:12:38,520
+The annealing oven allows the glass to cool evenly.
+
+172
+00:12:40,520 --> 00:12:45,520
+At the other end of the oven, the irregular oval of glass is cut
+
+173
+00:12:45,620 --> 00:12:47,520
+and trimmed into a rectangular sheet.
+
+174
+00:13:08,963 --> 00:13:12,280
+sheet, then packed up and shipped to the customer.
+
+175
+00:13:12,380 --> 00:13:15,680
+The wide range of colors that the company can produce made it
+
+176
+00:13:15,681 --> 00:13:19,680
+artist Louis Comfort Tiffany's suppliers at the turn of the last
+
+177
+00:13:19,681 --> 00:13:27,680
+century. Most people are familiar with
+
+178
+00:13:27,681 --> 00:13:33,680
+cobalt blue. Copper oxide makes a turquoise.
+
+179
+00:13:33,681 --> 00:13:36,680
+Potassium bichromate makes a green.
+
+180
+00:13:36,681 --> 00:13:41,680
+And a combination of those three chemicals can make all shades of
+
+181
+00:13:41,681 --> 00:13:45,320
+all shades of blues and greens.
+
+182
+00:13:45,321 --> 00:13:49,380
+Graphite and sulfur make ambers.
+
+183
+00:13:49,381 --> 00:13:52,260
+Manganese makes purple.
+
+184
+00:13:52,261 --> 00:13:54,400
+You add a little bit of cobalt to a manganese
+
+185
+00:13:54,401 --> 00:13:57,220
+and you get a violet.
+
+186
+00:13:57,221 --> 00:14:01,840
+Reds are made with selenium and cadmium,
+
+187
+00:14:01,841 --> 00:14:04,000
+and also gold.
+
+188
+00:14:04,001 --> 00:14:08,000
+There's a gold ruby that has been made.
+
+189
+00:14:08,001 --> 00:14:10,700
+It's the most expensive one to make,
+
+190
+00:14:10,701 --> 00:14:14,000
+And it's quite a process.
+
+191
+00:14:14,001 --> 00:14:16,940
+Clear and colored glass found utilitarian purpose
+
+192
+00:14:16,941 --> 00:14:20,080
+as windows in public buildings and some homes
+
+193
+00:14:20,081 --> 00:14:23,080
+around the first millennium AD.
+
+194
+00:14:23,081 --> 00:14:24,540
+It would seem that a window would
+
+195
+00:14:24,541 --> 00:14:26,880
+be a very simple piece of glass to make.
+
+196
+00:14:26,881 --> 00:14:29,080
+In fact, it's one of the most difficult things you can make
+
+197
+00:14:29,081 --> 00:14:33,780
+as a perfectly flat piece of glass.
+
+198
+00:14:33,781 --> 00:14:36,900
+Window glass was blown one pane at a time
+
+199
+00:14:36,901 --> 00:14:40,500
+in a process that changed little over the centuries.
+
+200
+00:14:40,501 --> 00:14:45,840
+Flat glass was originally produced by spinning glass
+
+201
+00:14:45,841 --> 00:14:49,620
+into a plate or a disc or a rondelle, as it's called.
+
+202
+00:14:50,060 --> 00:14:53,180
+And in the center of that rondelle would be a punty mark,
+
+203
+00:14:53,360 --> 00:14:59,220
+which is where the iron rod that held the glob of glass was affixed.
+
+204
+00:15:02,560 --> 00:15:05,440
+Another method also employed glassblowers.
+
+205
+00:15:06,060 --> 00:15:09,200
+They blew long cylinders of glass,
+
+206
+00:15:09,201 --> 00:15:14,280
+which they then slit lengthways, heated until they became soft,
+
+207
+00:15:14,281 --> 00:15:17,600
+and flattened out so that you had sheets of glass.
+
+208
+00:15:19,940 --> 00:15:22,920
+Colored cathedral glass reached its greatest heights,
+
+209
+00:15:23,240 --> 00:15:26,800
+literally, in the giant windows of Gothic cathedrals built in
+
+210
+00:15:26,801 --> 00:15:29,340
+Europe, especially after the 12th century.
+
+211
+00:15:30,860 --> 00:15:34,060
+Pieces of colored glass were etched, then soldered together
+
+212
+00:15:34,061 --> 00:15:35,120
+to form the window.
+
+213
+00:15:35,121 --> 00:15:45,520
+As windows got larger when the Gothic style of architecture developed, so the areas available
+
+214
+00:15:45,521 --> 00:15:48,280
+for stained glass got larger.
+
+215
+00:15:48,281 --> 00:15:55,660
+And decorators used these areas to fill the windows with brightly colored pictures, scenes
+
+216
+00:15:55,661 --> 00:16:00,220
+from the Bible, scenes from daily life sometimes.
+
+217
+00:16:00,221 --> 00:16:05,220
+And what the scenes were used for was to educate the
+
+218
+00:16:05,221 --> 00:16:08,220
+congregation. We're dealing with a period of
+
+219
+00:16:08,221 --> 00:16:12,220
+time when most people could neither read nor write, and the
+
+220
+00:16:12,221 --> 00:16:17,220
+stories illustrated in the stained glass windows of Europe
+
+221
+00:16:17,221 --> 00:16:21,220
+were their most accessible way of learning the stories of the
+
+222
+00:16:21,221 --> 00:16:25,220
+Bible. Glass was a tool for mass
+
+223
+00:16:25,221 --> 00:16:28,220
+communication even in the Dark Ages.
+
+224
+00:16:28,221 --> 00:16:31,360
+But literate individuals were also using glass to bring the
+
+225
+00:16:31,361 --> 00:16:35,060
+world more into focus. The ability of polished clear
+
+226
+00:16:35,061 --> 00:16:38,540
+glass to be transparent also allowed it to display some of
+
+227
+00:16:38,541 --> 00:16:42,360
+its beneficial light bending properties as a lens.
+
+228
+00:16:42,361 --> 00:16:47,280
+Any lens is really working because of the difference in
+
+229
+00:16:47,281 --> 00:16:52,120
+index of refraction from the material, the glass and air.
+
+230
+00:16:52,121 --> 00:16:56,280
+And you get a bending of the light ray when it passes
+
+231
+00:16:56,281 --> 00:16:59,480
+side and goes out the other. By altering the lens surface,
+
+232
+00:16:59,481 --> 00:17:02,920
+you can redirect the focus point of the light.
+
+233
+00:17:02,921 --> 00:17:07,360
+A convex lens brings the focus closer, enlarging an image.
+
+234
+00:17:07,361 --> 00:17:11,120
+A concave lens does just the opposite, making the image seem
+
+235
+00:17:11,121 --> 00:17:14,840
+further away. Alone and in combination,
+
+236
+00:17:14,841 --> 00:17:18,640
+lenses literally opened whole new worlds.
+
+237
+00:17:18,641 --> 00:17:22,800
+Around 1000 AD, the first reading stones, a rough
+
+238
+00:17:22,801 --> 00:17:26,040
+approximation of a magnifying glass were employed to assist
+
+239
+00:17:26,140 --> 00:17:30,800
+literate monks with weak eyes. Within 250 years, eyeglasses
+
+240
+00:17:30,900 --> 00:17:35,040
+were worn in Europe, allowing otherwise impaired people to see.
+
+241
+00:17:35,140 --> 00:17:38,640
+Eyeglasses are simply two small pieces of carefully ground
+
+242
+00:17:38,740 --> 00:17:42,460
+convex glass, but the possibilities for lenses were
+
+243
+00:17:42,560 --> 00:17:45,460
+truly limitless. So all a lens is is a curved
+
+244
+00:17:45,560 --> 00:17:49,160
+piece of glass. But what a lens can do is
+
+245
+00:17:49,161 --> 00:17:51,200
+is tremendously profound.
+
+246
+00:17:51,201 --> 00:17:53,660
+With the invention of the lens
+
+247
+00:17:53,661 --> 00:17:57,960
+and then the creation of a microscope and then a telescope
+
+248
+00:17:57,961 --> 00:18:01,400
+in a relatively short distance of time,
+
+249
+00:18:01,401 --> 00:18:04,400
+with a simple piece of glass and those simple instruments,
+
+250
+00:18:04,401 --> 00:18:06,280
+it took man well beyond the boundaries
+
+251
+00:18:06,281 --> 00:18:07,620
+that man had ever explored.
+
+252
+00:18:07,621 --> 00:18:09,540
+It took man into the universe,
+
+253
+00:18:09,541 --> 00:18:13,960
+and it took man inside of his own body.
+
+254
+00:18:13,961 --> 00:18:15,780
+With a simple microscope, which is all it is,
+
+255
+00:18:15,781 --> 00:18:17,620
+is a bead of glass,
+
+256
+00:18:17,621 --> 00:18:22,120
+discovered bacteria, and with, in effect, two eyeglass lenses
+
+257
+00:18:22,121 --> 00:18:26,220
+held at a distance apart, Galileo created a telescope
+
+258
+00:18:26,221 --> 00:18:29,660
+and studied the emotions of the planets and the surface of the
+
+259
+00:18:29,661 --> 00:18:33,660
+moon. Glass helped us realize that
+
+260
+00:18:33,661 --> 00:18:37,140
+not only were we not the center of the universe, we weren't even
+
+261
+00:18:37,141 --> 00:18:40,980
+that significant a part of it. Nevertheless, this did not stop
+
+262
+00:18:40,981 --> 00:18:45,020
+us from gazing at ourselves in a more reflective mirror, perfected
+
+263
+00:18:45,021 --> 00:18:49,260
+perfected in the late 1600s. Glass is interesting in that
+
+264
+00:18:49,261 --> 00:18:52,620
+when you put a coating on it, it's kind of a doppelganger.
+
+265
+00:18:52,621 --> 00:18:57,500
+It takes on an opposite personality, so you put one
+
+266
+00:18:57,501 --> 00:19:00,700
+coating on it and the transparent thing you know so
+
+267
+00:19:00,701 --> 00:19:06,700
+well instantly becomes reflective. As scientists
+
+268
+00:19:06,701 --> 00:19:10,060
+expanded our knowledge with glass lenses, others were making
+
+269
+00:19:10,061 --> 00:19:13,740
+the world a safer place with them. Early lighthouses were
+
+270
+00:19:13,741 --> 00:19:17,240
+simply fires on cliffs or pedestals, subject to wind and
+
+271
+00:19:17,241 --> 00:19:21,240
+rain. Glass allowed keepers to protect
+
+272
+00:19:21,241 --> 00:19:25,080
+the light without concealing it.
+
+273
+00:19:25,081 --> 00:19:28,180
+Keepers soon realized that by putting a mirror bent into a
+
+274
+00:19:28,181 --> 00:19:32,200
+parabola behind the light, the mirror reflected and increased
+
+275
+00:19:32,201 --> 00:19:35,200
+the intensity, or candle power, of the light.
+
+276
+00:19:39,840 --> 00:19:43,200
+Before long, specially designed Fresnel lenses increased
+
+277
+00:19:43,201 --> 00:19:48,000
+candle power by many thousands. As the many faceted glass drum
+
+278
+00:19:48,001 --> 00:19:51,840
+was set down around the illuminant, the circular lens
+
+279
+00:19:51,841 --> 00:19:56,640
+captured light and redirected it into a single, powerful beam.
+
+280
+00:19:56,641 --> 00:20:00,240
+Glass now projected information, communicating through light
+
+281
+00:20:00,241 --> 00:20:02,160
+across miles.
+
+282
+00:20:05,760 --> 00:20:09,760
+But these specialized uses for glass belie its ubiquity.
+
+283
+00:20:09,761 --> 00:20:13,560
+During the 19th century, the versatility of glass collided
+
+284
+00:20:13,561 --> 00:20:17,800
+with the Industrial Revolution. It soon became clear that the
+
+285
+00:20:17,801 --> 00:20:21,120
+modern world could not make its way without glass, and lots of
+
+286
+00:20:21,121 --> 00:20:25,120
+it. The Crystal Palace, built for the
+
+287
+00:20:25,121 --> 00:20:29,180
+first World's Fair in London's Hyde Park in 1851, required over
+
+288
+00:20:29,181 --> 00:20:33,560
+300,000 panes of glass. Glass will return on Modern
+
+289
+00:20:33,561 --> 00:20:34,261
+Marvels.
+
+290
+00:20:39,760 --> 00:20:44,460
+We now return to Glass on Modern Marvels.
+
+291
+00:20:44,461 --> 00:20:48,560
+Utility and artistry are married at Waterford in Ireland, where
+
+292
+00:20:48,561 --> 00:20:52,060
+skilled craftsmen work leaded crystal glass into sparkling
+
+293
+00:20:52,061 --> 00:21:00,260
+goblets and vases by hand. In 1674, English glassmaker
+
+294
+00:21:00,261 --> 00:21:04,060
+George Ravenscroft patented a method of making fine crystal
+
+295
+00:21:04,061 --> 00:21:08,160
+using lead oxide instead of potash.
+
+296
+00:21:08,161 --> 00:21:11,820
+True crystal must contain at least 30% lead by weight,
+
+297
+00:21:12,400 --> 00:21:15,320
+although some fine crystals contain over 50%.
+
+298
+00:21:15,321 --> 00:21:20,060
+The result is a brilliant glass that is strong enough to be deeply cut.
+
+299
+00:21:21,840 --> 00:21:24,680
+Lead also lowers the temperature at which glass softens,
+
+300
+00:21:25,040 --> 00:21:28,380
+increasing its pliancy. But that's not all it does.
+
+301
+00:21:29,100 --> 00:21:31,620
+It increases the refractive index.
+
+302
+00:21:32,240 --> 00:21:37,880
+And what it means is that once you cut the piece of leaded glass,
+
+303
+00:21:37,881 --> 00:21:39,460
+in two specific shapes.
+
+304
+00:21:39,760 --> 00:21:44,660
+It reflects glass in very magic ways in many different directions.
+
+305
+00:21:45,500 --> 00:21:47,720
+For an optician, it's actually a problem.
+
+306
+00:21:47,820 --> 00:21:50,240
+They would call it chromatic aberration, those rainbows that you see.
+
+307
+00:21:50,320 --> 00:21:53,240
+But for a glass designer, it's a dream come true.
+
+308
+00:21:55,340 --> 00:21:59,180
+Crystal itself seems like an aberration in the history of glass production.
+
+309
+00:21:59,740 --> 00:22:02,440
+The labor-intensive process was being refined,
+
+310
+00:22:03,000 --> 00:22:06,220
+just as mass production revolutionized the world of glass.
+
+311
+00:22:06,221 --> 00:22:10,220
+technology replaced old pot furnaces with tank furnaces that
+
+312
+00:22:10,221 --> 00:22:14,220
+greatly increased glass output. One effect of these larger
+
+313
+00:22:14,221 --> 00:22:18,220
+furnaces was a better way to produce sheet glass for windows.
+
+314
+00:22:22,220 --> 00:22:26,220
+The old rondelle and cylinder method for making flat glass had
+
+315
+00:22:26,221 --> 00:22:30,220
+held sway for centuries. But in 1905, Emile Foucault was
+
+316
+00:22:30,221 --> 00:22:34,220
+able to pull up vertically from a tank furnace a continuous and
+
+317
+00:22:34,221 --> 00:22:39,220
+and uniform sheet of glass. It involved dipping a bait into a
+
+318
+00:22:39,221 --> 00:22:43,220
+pot of molten glass and drawing it up as if you would put a knife
+
+319
+00:22:43,221 --> 00:22:47,220
+in a pan of honey and lift the knife up and the honey would stick
+
+320
+00:22:47,221 --> 00:22:51,220
+to the knife. Except this honey is over 2,000 degrees and the
+
+321
+00:22:51,221 --> 00:22:54,220
+knife you just put in there is likely to start degrading
+
+322
+00:22:54,221 --> 00:22:58,220
+rapidly because hot glass is incredibly corrosive.
+
+323
+00:22:58,221 --> 00:23:01,220
+The Furco process lifts up the glass and sends it through a
+
+324
+00:23:01,221 --> 00:23:04,720
+through a series of rollers, producing a flat but relatively
+
+325
+00:23:04,721 --> 00:23:08,120
+rippled and distorted piece of glass.
+
+326
+00:23:08,121 --> 00:23:11,360
+Through grinding and polishing, the glass is smoothed, though
+
+327
+00:23:11,361 --> 00:23:14,940
+for every ton of sheet glass produced, another ton is thrown
+
+328
+00:23:14,941 --> 00:23:18,880
+back into the tank. The Fourco process was greatly
+
+329
+00:23:18,881 --> 00:23:22,000
+improved by Alistair Pilkington of the Pilkington Brothers
+
+330
+00:23:22,001 --> 00:23:25,920
+flat glass manufacturers. He theorized that if you
+
+331
+00:23:25,921 --> 00:23:31,220
+poured molten glass onto a pool of liquid metal, it would be
+
+332
+00:23:31,221 --> 00:23:35,660
+that the glass would float on that surface of liquid metal.
+
+333
+00:23:35,760 --> 00:23:39,160
+The bottom surface that touched the liquid metal would be smooth
+
+334
+00:23:39,260 --> 00:23:42,960
+and the top surface would be smoothed by the forces of gravity.
+
+335
+00:23:43,060 --> 00:23:47,460
+Pilkington chose molten tin and after seven years of trying,
+
+336
+00:23:47,560 --> 00:23:50,480
+finally produced a smooth sheet of glass.
+
+337
+00:23:50,580 --> 00:23:54,480
+The float process was introduced in 1959, surprisingly late in
+
+338
+00:23:54,580 --> 00:23:58,480
+the chronology of flat glass manufacture, but just in time to
+
+339
+00:23:58,481 --> 00:24:01,280
+to help address the increase in demand for windows
+
+340
+00:24:01,380 --> 00:24:05,080
+after the post-World War II economic boom.
+
+341
+00:24:05,180 --> 00:24:07,720
+Polkington claims to have the world record
+
+342
+00:24:07,820 --> 00:24:12,120
+for making bad glass before they ever made a good sheet.
+
+343
+00:24:12,220 --> 00:24:14,860
+It's notable in that the great breakthroughs
+
+344
+00:24:14,960 --> 00:24:17,600
+in glass technology often come at the tail end
+
+345
+00:24:17,700 --> 00:24:21,700
+of an extremely long and costly struggle with a process
+
+346
+00:24:21,800 --> 00:24:25,540
+that no one actually knows will ever produce anything good.
+
+347
+00:24:25,640 --> 00:24:27,580
+And that's the story of optical fiber.
+
+348
+00:24:27,581 --> 00:24:31,420
+fiber, that's the story of float glass, that's the story of the
+
+349
+00:24:31,421 --> 00:24:35,740
+creation of the light bulb. Speaking of light bulbs, when
+
+350
+00:24:35,741 --> 00:24:39,020
+Thomas Edison was experimenting with electric light, he went to
+
+351
+00:24:39,021 --> 00:24:42,140
+the Corning Company to see if they could blow glass bulbs,
+
+352
+00:24:42,141 --> 00:24:47,020
+inside which his filaments would glow. Without glass, it is not
+
+353
+00:24:47,021 --> 00:24:52,780
+possible to have light without fire. And so if you think of the
+
+354
+00:24:52,781 --> 00:24:55,820
+world in which we live and all the ways we create light,
+
+355
+00:24:55,821 --> 00:25:00,120
+as being open flames without glass being the tool to make
+
+356
+00:25:00,121 --> 00:25:02,620
+it work. Light bulbs need to be
+
+357
+00:25:02,621 --> 00:25:05,820
+relatively thin, yet strong enough to withstand the
+
+358
+00:25:05,821 --> 00:25:10,060
+hermetic vacuum the electric filament needs in order to glow.
+
+359
+00:25:10,061 --> 00:25:13,980
+Edison's prototype light bulbs were blown one at a time and
+
+360
+00:25:13,981 --> 00:25:18,380
+were not particularly strong. At Corning, Edison enlisted
+
+361
+00:25:18,381 --> 00:25:21,520
+experienced glass blowers who were better able to produce the
+
+362
+00:25:21,521 --> 00:25:24,520
+thin-walled bulbs.
+
+363
+00:25:24,521 --> 00:25:38,521
+Here, Corning glassblowers produce a giant light bulb that
+
+364
+00:25:40,580 --> 00:25:43,580
+might be used for a lighthouse or some other specialized
+
+365
+00:25:43,581 --> 00:25:48,580
+purpose. One of those glassblowers is
+
+366
+00:25:48,581 --> 00:25:52,580
+a fellow named Billy Woods, who grows up in a glass factory
+
+367
+00:25:52,581 --> 00:25:56,580
+blowing light bulbs by hand. Woods, like all glassmakers,
+
+368
+00:25:56,680 --> 00:26:00,380
+is fascinated by the molten material.
+
+369
+00:26:00,480 --> 00:26:05,360
+And the story goes that he was working on a different glass
+
+370
+00:26:05,460 --> 00:26:07,360
+making process that produced a continuous stream
+
+371
+00:26:07,460 --> 00:26:11,260
+of molten glass. Woods, then a manager at Corning,
+
+372
+00:26:11,360 --> 00:26:14,300
+picked up a shovel with a hole in it and stuck it
+
+373
+00:26:14,400 --> 00:26:18,480
+into the stream of glass. As the molten glass poured
+
+374
+00:26:18,580 --> 00:26:21,440
+through the shovel, it resembled the ball of glass
+
+375
+00:26:21,441 --> 00:26:25,940
+or gob produced by a glass blower's initial blow.
+
+376
+00:26:25,941 --> 00:26:27,940
+Woods was struck with an idea.
+
+377
+00:26:27,941 --> 00:26:30,940
+He envisioned a machine that would pull a ribbon of glass
+
+378
+00:26:30,941 --> 00:26:34,940
+through an opening, drape it over a mold, puff air into it,
+
+379
+00:26:34,941 --> 00:26:37,940
+and automatically create a perfect uniform bulb.
+
+380
+00:26:40,440 --> 00:26:42,940
+He then proceeded to construct one of the most ingenious
+
+381
+00:26:42,941 --> 00:26:46,940
+inventions in the history of glass production, the ribbon
+
+382
+00:26:46,941 --> 00:26:51,440
+machine, introduced in 1922 and little altered to the history
+
+383
+00:26:51,441 --> 00:26:56,240
+This whole contraption is moving so fast
+
+384
+00:26:56,340 --> 00:26:59,340
+that when you watch it working, you cannot actually see
+
+385
+00:26:59,440 --> 00:27:01,580
+the individual bulbs being made.
+
+386
+00:27:03,780 --> 00:27:06,580
+It is making light bulbs faster than a machine gun
+
+387
+00:27:06,680 --> 00:27:08,500
+can fire bullets.
+
+388
+00:27:08,600 --> 00:27:11,900
+A ribbon machine is so fast and so efficient
+
+389
+00:27:12,000 --> 00:27:15,840
+that 16 of them can make the entire world's production
+
+390
+00:27:15,940 --> 00:27:16,740
+of light bulbs.
+
+391
+00:27:21,440 --> 00:27:31,440
+The fastest ribbon machines make over 2,000 bulbs a minute.
+
+392
+00:27:31,441 --> 00:27:34,440
+Soon copper wire brought electricity into homes and
+
+393
+00:27:34,441 --> 00:27:36,440
+businesses. Again, glass was
+
+394
+00:27:36,441 --> 00:27:39,440
+indispensable. Exposed wire connections were
+
+395
+00:27:39,441 --> 00:27:42,440
+protected from arcing by bell-shaped insulators, often
+
+396
+00:27:42,441 --> 00:27:46,440
+made of glass because of its poor electrical conductivity and
+
+397
+00:27:46,441 --> 00:27:51,440
+its imperviousness to water. As Edison was tinkering
+
+398
+00:27:51,441 --> 00:27:54,740
+his light bulb, an inventor named Michael Owens endeavored
+
+399
+00:27:54,741 --> 00:27:57,840
+to create an automatic bottle-making machine.
+
+400
+00:27:57,841 --> 00:28:02,380
+After seeing Coca-Cola at the Columbian Exposition in 1893,
+
+401
+00:28:02,381 --> 00:28:06,280
+Owens knew that the recently invented crown cap could seal
+
+402
+00:28:06,281 --> 00:28:09,100
+beverages. But those two things needed a
+
+403
+00:28:09,101 --> 00:28:14,500
+bottle with a uniform neck that would make it all work.
+
+404
+00:28:14,501 --> 00:28:17,800
+Owens clearly understood the need to make a bottle by
+
+405
+00:28:17,801 --> 00:28:20,640
+machine. He also understood the social
+
+406
+00:28:20,641 --> 00:28:24,380
+to make a bottle-by machine, because at the time, in the
+
+407
+00:28:24,480 --> 00:28:28,180
+American glass industry, was a place full of child labor.
+
+408
+00:28:32,780 --> 00:28:36,180
+Before Owens, most bottles were made by hand-blowing gobs
+
+409
+00:28:36,280 --> 00:28:39,700
+into molds, with all sorts of individual and idiosyncratic
+
+410
+00:28:39,800 --> 00:28:42,700
+shapes. The Owens bottle machine,
+
+411
+00:28:42,800 --> 00:28:46,740
+weighing in at over 20 tons, sucked molten glass into
+
+412
+00:28:46,840 --> 00:28:49,940
+identical molds shaped like bottles.
+
+413
+00:28:49,941 --> 00:28:52,900
+Other inventors refined the machine so that gravity
+
+414
+00:28:52,980 --> 00:28:56,680
+replaced suction and the gob of glass fell into a mold.
+
+415
+00:28:56,740 --> 00:29:00,480
+And what would have taken a day of labor to make bottles now
+
+416
+00:29:00,580 --> 00:29:03,180
+can be accomplished in about seven minutes.
+
+417
+00:29:03,280 --> 00:29:05,480
+Bottles could now be made automatically
+
+418
+00:29:05,580 --> 00:29:07,300
+at a rate of 16 per minute.
+
+419
+00:29:12,000 --> 00:29:15,000
+The soda pop industry would never be the same.
+
+420
+00:29:15,001 --> 00:29:19,740
+glass didn't just illuminate our lives.
+
+421
+00:29:19,840 --> 00:29:21,640
+It changed the way we lived.
+
+422
+00:29:21,740 --> 00:29:24,240
+Sealed bottles kept our food from spoiling.
+
+423
+00:29:24,340 --> 00:29:27,340
+Light bulbs filled our homes with safe, clean light.
+
+424
+00:29:27,440 --> 00:29:30,340
+Even our streets were lined with glass lamps.
+
+425
+00:29:30,440 --> 00:29:33,880
+Next, we needed to see what was coming, because soon the streets
+
+426
+00:29:33,980 --> 00:29:37,060
+would fill with automobiles, another great invention that
+
+427
+00:29:37,160 --> 00:29:39,060
+would benefit from the marvels of glass.
+
+428
+00:29:39,061 --> 00:29:46,060
+of glass. Beverages should never be stored
+
+429
+00:29:46,061 --> 00:29:49,060
+in leaded crystal, as toxic lead can leach into the liquid within
+
+430
+00:29:49,061 --> 00:29:54,060
+days or even hours, depending on the crystal's lead content.
+
+431
+00:29:54,061 --> 00:30:00,060
+Glass will return on Modern Marvels.
+
+432
+00:30:00,061 --> 00:30:07,060
+We now return to Glass on Modern Marvels.
+
+433
+00:30:07,061 --> 00:30:09,060
+The modern city is a city of glass.
+
+434
+00:30:16,560 --> 00:30:23,060
+Glass exteriors make up the skin of many skyscrapers, a concept
+
+435
+00:30:23,061 --> 00:30:27,060
+that would have been shocking to architects of the 19th century,
+
+436
+00:30:27,061 --> 00:30:30,060
+who built their skyscrapers of mortar and steel.
+
+437
+00:30:30,061 --> 00:30:33,060
+But large, strong sheets of glass can be hung like a curtain on
+
+438
+00:30:33,061 --> 00:30:37,060
+the steel frame of a building, creating a modern look from
+
+439
+00:30:37,061 --> 00:30:41,060
+material. Glass now sheaths our tallest
+
+440
+00:30:41,061 --> 00:30:45,060
+buildings because glass can be exceptionally strong, which is all
+
+441
+00:30:45,061 --> 00:30:48,060
+the more surprising when you realize that during the early
+
+442
+00:30:48,061 --> 00:30:51,060
+part of the last century, glass traffic lights were regularly
+
+443
+00:30:51,061 --> 00:30:58,060
+shattered by snowflakes. There were railroad signal
+
+444
+00:30:58,061 --> 00:31:01,060
+lights which were being made of standard sodium borosilicate
+
+445
+00:31:01,061 --> 00:31:06,060
+types of glass. In the winter, you get snow landing
+
+446
+00:31:06,061 --> 00:31:08,700
+landing on the outside of that glass.
+
+447
+00:31:08,800 --> 00:31:12,360
+But inside, you have a lantern or you have a candle in it,
+
+448
+00:31:12,460 --> 00:31:14,100
+and so the inside is hot.
+
+449
+00:31:14,200 --> 00:31:19,300
+When the snow hits the hot glass, it used to shatter.
+
+450
+00:31:19,400 --> 00:31:21,400
+In their search for a better red light,
+
+451
+00:31:21,500 --> 00:31:24,540
+Corning stumbled upon a glass made with boron that could
+
+452
+00:31:24,640 --> 00:31:27,820
+withstand extreme temperature variations.
+
+453
+00:31:27,920 --> 00:31:30,860
+You can use many elements from the periodic table
+
+454
+00:31:30,960 --> 00:31:33,520
+and put them together and create a structure which
+
+455
+00:31:33,620 --> 00:31:34,760
+is a glass.
+
+456
+00:31:34,761 --> 00:31:38,100
+The glass is the characteristic that it is amorphous,
+
+457
+00:31:38,200 --> 00:31:42,260
+inorganic material, which has generally transparency
+
+458
+00:31:42,360 --> 00:31:46,500
+and typically very hard surface structure.
+
+459
+00:31:46,600 --> 00:31:49,500
+Corning named their new glass Pyrex.
+
+460
+00:31:49,600 --> 00:31:51,200
+You can take it right out of the freezer,
+
+461
+00:31:51,300 --> 00:31:53,920
+and you can stick it in a 400-degree oven,
+
+462
+00:31:54,020 --> 00:31:55,620
+and it doesn't shatter.
+
+463
+00:31:55,621 --> 00:32:06,020
+shatter. Pyrex made scientific and
+
+464
+00:32:06,021 --> 00:32:10,140
+medical research easier too. Pyrex could be used to conduct
+
+465
+00:32:10,141 --> 00:32:14,860
+experiments involving temperature extremes without fear of explosion.
+
+466
+00:32:14,861 --> 00:32:18,220
+And glass is ideal because it is inert.
+
+467
+00:32:18,221 --> 00:32:21,780
+In other words, other substances aren't likely to break it down or
+
+468
+00:32:21,781 --> 00:32:23,140
+bond with it.
+
+469
+00:32:23,240 --> 00:32:26,680
+Glass is very, very stable, and you
+
+470
+00:32:26,780 --> 00:32:30,120
+can put extremely caustic or harsh chemicals into a glass
+
+471
+00:32:30,220 --> 00:32:33,560
+container or a glass channel or a glass tube,
+
+472
+00:32:33,660 --> 00:32:37,820
+and it will have no effect or very little effect on the glass
+
+473
+00:32:37,920 --> 00:32:42,100
+relative to many other materials that you would use.
+
+474
+00:32:42,200 --> 00:32:45,240
+By the mid-20th century, strong, thermally stable,
+
+475
+00:32:45,340 --> 00:32:48,140
+and enormous pieces of glass similar to Pyrex could be
+
+476
+00:32:48,240 --> 00:32:51,780
+manufactured and used as building exteriors.
+
+477
+00:32:51,781 --> 00:32:55,380
+New buildings clad only in glass began to appear in cities like
+
+478
+00:32:55,480 --> 00:32:58,680
+New York and Chicago. One of the first glass-curtain
+
+479
+00:32:58,780 --> 00:33:03,320
+skyscrapers was New York's Lever House in 1952, headquarters
+
+480
+00:33:03,420 --> 00:33:07,320
+of Lever Brothers, the soap manufacturer.
+
+481
+00:33:07,420 --> 00:33:11,440
+As the glass gets larger and the structural system becomes less
+
+482
+00:33:11,540 --> 00:33:15,840
+and less apparent, the buildings seem to get lighter and kind
+
+483
+00:33:15,940 --> 00:33:19,680
+of more gossamer in their construction.
+
+484
+00:33:19,681 --> 00:33:22,580
+These big glass sheets were further strengthened by
+
+485
+00:33:22,680 --> 00:33:26,480
+tempering, a process of cooling related to annealing.
+
+486
+00:33:26,580 --> 00:33:29,120
+They were often laminated to further protect them from
+
+487
+00:33:29,220 --> 00:33:33,620
+abrasions that might cause structural weaknesses.
+
+488
+00:33:33,720 --> 00:33:35,860
+Lamination would prove particularly useful in
+
+489
+00:33:35,960 --> 00:33:39,500
+automobile glass, although cars are dependent on glass for
+
+490
+00:33:39,600 --> 00:33:40,800
+other reasons.
+
+491
+00:33:40,900 --> 00:33:43,940
+Without glass, there would be no cars as we know them.
+
+492
+00:33:44,040 --> 00:33:47,680
+It's interesting to note that the design of a modern car,
+
+493
+00:33:47,681 --> 00:33:50,680
+the structural integrity of a modern car is dependent on the
+
+494
+00:33:50,780 --> 00:33:54,180
+glass that's in the car. The car would not survive the crash
+
+495
+00:33:54,280 --> 00:33:57,520
+test were it not for the fact that the glass is part of the
+
+496
+00:33:57,620 --> 00:34:02,520
+structural system of the car. The stiffness of the window
+
+497
+00:34:02,620 --> 00:34:05,940
+panels helps the car retain its shape in a collision.
+
+498
+00:34:06,040 --> 00:34:09,560
+Better still, the lamina could also prevent broken glass from
+
+499
+00:34:09,660 --> 00:34:12,380
+turning into dangerous missiles.
+
+500
+00:34:12,480 --> 00:34:15,980
+Autoglass is made to remain intact after accidents,
+
+501
+00:34:15,981 --> 00:34:17,980
+Sandwiched between strong laminates,
+
+502
+00:34:17,981 --> 00:34:20,980
+it is heat-treated to break into small pieces on impact,
+
+503
+00:34:20,981 --> 00:34:23,980
+rather than shards, in a condition called dicing.
+
+504
+00:34:27,980 --> 00:34:30,980
+Another revolutionary invention of the 20th century relied on
+
+505
+00:34:30,981 --> 00:34:36,980
+glass to fully blossom. Television needed specially
+
+506
+00:34:36,981 --> 00:34:40,980
+designed glass components called cathode ray picture tubes
+
+507
+00:34:40,981 --> 00:34:44,980
+to project an image onto the glass TV screen.
+
+508
+00:34:44,981 --> 00:34:47,880
+These large vacuum tubes are similar to light bulbs,
+
+509
+00:34:47,980 --> 00:34:50,880
+only harder to make because of their size and shape.
+
+510
+00:34:50,980 --> 00:34:53,880
+Corning scientist Jim Giffen simplified the process
+
+511
+00:34:53,980 --> 00:34:54,880
+in the 1940s.
+
+512
+00:34:54,980 --> 00:34:57,420
+He not only spun the earlier television bulbs,
+
+513
+00:34:57,520 --> 00:35:00,320
+which were actually circular, but figured out a way to spin
+
+514
+00:35:00,420 --> 00:35:02,640
+glass into a rectangle, sort of like saying,
+
+515
+00:35:02,740 --> 00:35:06,440
+I can figure out how to blow a rectangular soap bubble.
+
+516
+00:35:06,540 --> 00:35:08,340
+Mass-produced glass picture tubes
+
+517
+00:35:08,440 --> 00:35:10,640
+helped make televisions more affordable.
+
+518
+00:35:10,740 --> 00:35:13,940
+Living rooms have never been the same, nor have offices,
+
+519
+00:35:13,941 --> 00:35:16,840
+as the same cathode ray tubes help computers to project
+
+520
+00:35:16,940 --> 00:35:19,940
+their streams of information.
+
+521
+00:35:20,040 --> 00:35:22,340
+If a lot of these glass innovations seem to be coming
+
+522
+00:35:22,440 --> 00:35:24,480
+from Corning, it's because they are.
+
+523
+00:35:24,580 --> 00:35:27,980
+Most companies can't claim that they have made any innovations
+
+524
+00:35:28,080 --> 00:35:29,980
+that have changed the lives of mankind.
+
+525
+00:35:30,080 --> 00:35:31,500
+I mean, serious.
+
+526
+00:35:31,600 --> 00:35:33,900
+Corning has been involved with three.
+
+527
+00:35:34,000 --> 00:35:36,000
+The light bulb, the picture tube,
+
+528
+00:35:36,100 --> 00:35:38,940
+and fiber optic cable aren't flukes.
+
+529
+00:35:39,040 --> 00:35:41,840
+Corning had a long-standing commitment to research.
+
+530
+00:35:41,841 --> 00:35:45,840
+I think we were probably the third corporate research lab in the country.
+
+531
+00:35:45,841 --> 00:35:47,840
+I think GE and Westinghouse were a little ahead of us,
+
+532
+00:35:47,841 --> 00:35:51,840
+and I may be missing one or two others, but not many.
+
+533
+00:35:51,841 --> 00:35:54,840
+And we started our laboratory in 1908.
+
+534
+00:35:54,841 --> 00:35:58,840
+Corning invests what they call patient money,
+
+535
+00:35:58,841 --> 00:36:02,840
+money they're willing to spend on research that may have no immediate application.
+
+536
+00:36:06,840 --> 00:36:10,840
+It's a safe bet that many things glass scientists are working on now,
+
+537
+00:36:10,841 --> 00:36:14,080
+you'll be using in 20 or 30 years.
+
+538
+00:36:14,081 --> 00:36:19,580
+Next, what are glass scientists working on now?
+
+539
+00:36:19,581 --> 00:36:22,700
+A float glass factory can produce sheet glass continuously
+
+540
+00:36:22,701 --> 00:36:27,780
+for up to 12 years, over 50,000 miles of it.
+
+541
+00:36:27,781 --> 00:36:33,880
+Glass will return on Modern Marvels.
+
+542
+00:36:33,881 --> 00:36:38,780
+We now return to Glass on Modern Marvels.
+
+543
+00:36:38,781 --> 00:36:42,220
+Within the last few years, a revival in hand-blown glass
+
+544
+00:36:42,320 --> 00:36:44,920
+objects has produced an artistic renaissance in the
+
+545
+00:36:45,020 --> 00:36:46,520
+glass art world.
+
+546
+00:36:46,620 --> 00:36:50,120
+Just like our glass workshop in Indiana, hot shops are now
+
+547
+00:36:50,220 --> 00:36:53,320
+producing all sorts of objects, from paperweights to
+
+548
+00:36:53,420 --> 00:36:55,220
+margarita glasses.
+
+549
+00:36:55,320 --> 00:36:58,440
+It's really a great material to just go in there and play
+
+550
+00:36:58,540 --> 00:37:01,340
+with, and it's always fighting back.
+
+551
+00:37:01,440 --> 00:37:02,640
+It really has a personality.
+
+552
+00:37:02,740 --> 00:37:07,180
+I think anyone that deals with glass, especially in its
+
+553
+00:37:07,181 --> 00:37:10,520
+will tell you that it's a collaboration between you
+
+554
+00:37:10,620 --> 00:37:12,420
+and the glass.
+
+555
+00:37:12,520 --> 00:37:15,480
+Michael Amos and his colleagues are artists who express
+
+556
+00:37:15,580 --> 00:37:17,820
+themselves through molten glass.
+
+557
+00:37:17,920 --> 00:37:20,920
+They continue a tradition that includes some of the most
+
+558
+00:37:21,020 --> 00:37:24,840
+breathtaking examples of painstaking creativity
+
+559
+00:37:28,340 --> 00:37:31,140
+and exacting detail ever known.
+
+560
+00:37:31,141 --> 00:37:43,140
+known, from highly detailed mosaics to scientifically
+
+561
+00:37:43,141 --> 00:37:46,140
+exact reproductions, all in glass.
+
+562
+00:37:50,140 --> 00:37:52,140
+Glass continues to have a significant role
+
+563
+00:37:52,141 --> 00:37:55,140
+to play in man's artistic endeavors.
+
+564
+00:37:55,141 --> 00:37:58,140
+But clearly, the future of glass isn't limited to aesthetic
+
+565
+00:37:58,141 --> 00:37:59,140
+applications.
+
+566
+00:38:01,140 --> 00:38:14,120
+Scientists are already forging our future in liquid crystal displays and endoscopic laser
+
+567
+00:38:14,121 --> 00:38:15,580
+surgery.
+
+568
+00:38:15,581 --> 00:38:22,260
+If we all had the crystal ball, we could see what role glass is going to play in the
+
+569
+00:38:22,261 --> 00:38:23,260
+future.
+
+570
+00:38:23,261 --> 00:38:28,820
+I have a hard time thinking specifically of where it's going to be.
+
+571
+00:38:28,821 --> 00:38:31,320
+I don't think anybody in the 1850s
+
+572
+00:38:31,321 --> 00:38:33,160
+would have predicted where glass was going to be.
+
+573
+00:38:33,161 --> 00:38:36,160
+And sometimes our own attempts at doing that
+
+574
+00:38:36,161 --> 00:38:39,260
+are our greatest limitations.
+
+575
+00:38:39,261 --> 00:38:40,160
+Take the space shuttle.
+
+576
+00:38:45,360 --> 00:38:47,100
+Corning designed the windows.
+
+577
+00:38:47,101 --> 00:38:48,940
+The windows on the space shuttle,
+
+578
+00:38:48,941 --> 00:38:51,380
+in fact, in all manned spacecraft
+
+579
+00:38:51,381 --> 00:38:54,240
+since the Mercury program, have been made
+
+580
+00:38:54,241 --> 00:38:56,580
+of ultra-low expansion glass.
+
+581
+00:38:56,581 --> 00:39:00,020
+that survives not only the temperatures in deep space where
+
+582
+00:39:00,021 --> 00:39:02,120
+you're down into absolute zero.
+
+583
+00:39:02,121 --> 00:39:05,480
+So you have to have glass that survives a wide range of
+
+584
+00:39:05,481 --> 00:39:10,280
+temperatures and is also durable from a mechanical
+
+585
+00:39:10,281 --> 00:39:12,340
+point of view.
+
+586
+00:39:12,341 --> 00:39:15,320
+Telescopes first allowed us to see the universe.
+
+587
+00:39:15,321 --> 00:39:17,740
+Now glass is helping us to get there.
+
+588
+00:39:17,741 --> 00:39:21,220
+Glass is also improving the world of medicine, far beyond
+
+589
+00:39:21,221 --> 00:39:24,080
+what any simple microscope could achieve.
+
+590
+00:39:24,081 --> 00:39:29,460
+People are familiar with things like fiber optic probes that are used during operations,
+
+591
+00:39:29,461 --> 00:39:31,140
+all types of endoscopes.
+
+592
+00:39:31,141 --> 00:39:33,480
+That's sort of on the macro scale.
+
+593
+00:39:33,481 --> 00:39:38,240
+But much of what's happening is that it's heading to miniaturization.
+
+594
+00:39:38,241 --> 00:39:43,460
+You are starting to see small pieces of glass that are like barcodes and they can identify
+
+595
+00:39:43,461 --> 00:39:46,920
+an individual biological target.
+
+596
+00:39:46,921 --> 00:39:51,580
+You're beginning to see pieces of glass that are radioactive which can be inserted into
+
+597
+00:39:51,581 --> 00:39:52,580
+the body.
+
+598
+00:39:52,581 --> 00:39:56,080
+biological on them that attacks a certain cancer, and they will
+
+599
+00:39:56,081 --> 00:39:59,080
+attach that cancer. Glass has made possible
+
+600
+00:39:59,081 --> 00:40:02,280
+the mapping of the human genome. You actually have to put
+
+601
+00:40:02,281 --> 00:40:05,120
+the DNA on something to conduct experiments.
+
+602
+00:40:05,121 --> 00:40:10,640
+And we've been working for several years to develop a
+
+603
+00:40:10,641 --> 00:40:17,380
+process to print consistently DNA on slides, up to 10,000
+
+604
+00:40:17,381 --> 00:40:21,080
+dots of different DNA on each slide.
+
+605
+00:40:21,081 --> 00:40:23,820
+So we could essentially print the entire human genome
+
+606
+00:40:23,821 --> 00:40:27,560
+on two or three slides and make it available to scientists
+
+607
+00:40:27,561 --> 00:40:30,320
+for their discovery process.
+
+608
+00:40:30,321 --> 00:40:34,040
+Glass is going to allow you to wake up in the morning
+
+609
+00:40:34,041 --> 00:40:36,880
+and just put a little drop of blood
+
+610
+00:40:36,881 --> 00:40:39,980
+or a little drop of some other body fluid
+
+611
+00:40:39,981 --> 00:40:42,320
+and send the information through a computer
+
+612
+00:40:42,321 --> 00:40:44,720
+to be analyzed and get the results back
+
+613
+00:40:44,721 --> 00:40:47,620
+and know exactly where you stand.
+
+614
+00:40:47,621 --> 00:40:49,880
+Televisions and computers will benefit again
+
+615
+00:40:49,881 --> 00:40:54,280
+technology, as liquid crystal displays or LCDs make possible
+
+616
+00:40:54,281 --> 00:40:58,280
+even smaller, sleeker machines. Essentially, these are
+
+617
+00:40:58,281 --> 00:41:01,720
+large chips. So you're looking through the
+
+618
+00:41:01,721 --> 00:41:06,920
+glass, but the glass is also the medium on which transistors are
+
+619
+00:41:06,921 --> 00:41:09,640
+deposited. And the way the transistors work
+
+620
+00:41:09,641 --> 00:41:13,240
+is they stimulate a liquid material that's deposited
+
+621
+00:41:13,241 --> 00:41:16,780
+between the two sheets of glass. Transistors will use
+
+622
+00:41:16,781 --> 00:41:20,180
+electricity to control the liquid, affecting whether light is
+
+623
+00:41:20,181 --> 00:41:22,420
+blocked or passes through colored pixels that are
+
+624
+00:41:22,421 --> 00:41:26,180
+embedded on the front screen, creating the images you will see
+
+625
+00:41:26,181 --> 00:41:30,020
+on your desktop or your flat screen TV.
+
+626
+00:41:30,021 --> 00:41:33,220
+From computer screens to weaponry, a glass ceramic
+
+627
+00:41:33,221 --> 00:41:37,340
+hybrid is used in the nose cones of radar-guided missiles.
+
+628
+00:41:37,341 --> 00:41:41,180
+Not only can these glass ceramic cones withstand heat, they are
+
+629
+00:41:41,181 --> 00:41:44,940
+invisible to radar and therefore do not interfere with a radar
+
+630
+00:41:44,941 --> 00:41:50,940
+guidance mechanism inside. Other glass applications endeavor
+
+631
+00:41:51,040 --> 00:41:54,580
+to control its transparency, increasing or decreasing it
+
+632
+00:41:54,680 --> 00:41:57,580
+depending on the situation. One of the limitations of
+
+633
+00:41:57,680 --> 00:42:04,900
+ordinary glass, however, is that you can't make it change its
+
+634
+00:42:05,000 --> 00:42:08,400
+light transmission characteristics when you want it to.
+
+635
+00:42:08,500 --> 00:42:13,740
+Smart glass is a technology that we've invented and developed
+
+636
+00:42:13,741 --> 00:42:17,340
+which makes this possible. Smart glass allows you to
+
+637
+00:42:17,341 --> 00:42:20,340
+control the transmission of light through your window by
+
+638
+00:42:20,341 --> 00:42:22,840
+turning a knob. In other words, a voltage
+
+639
+00:42:22,841 --> 00:42:25,880
+control to regulate the transmission of your window
+
+640
+00:42:25,881 --> 00:42:29,280
+between a dark state and a clear state, or you can tune it
+
+641
+00:42:29,281 --> 00:42:32,800
+in to any degree you want in between those states.
+
+642
+00:42:32,801 --> 00:42:38,800
+In addition, our windows will probably cut out more than 99%
+
+643
+00:42:38,801 --> 00:42:42,800
+of the ultraviolet radiation that would normally impinge on
+
+644
+00:42:42,801 --> 00:42:46,600
+on the window. Smart glass has a special film
+
+645
+00:42:46,601 --> 00:42:49,800
+with a liquid suspension that, when electricity is applied,
+
+646
+00:42:49,801 --> 00:42:53,340
+changes its opacity. Combined with other technology
+
+647
+00:42:53,341 --> 00:42:57,040
+that reflects solar heat, smart glass could be a real energy
+
+648
+00:42:57,041 --> 00:43:02,960
+saver, particularly in glass curtain skyscrapers.
+
+649
+00:43:02,961 --> 00:43:06,560
+Best of all, glass is one of the most recyclable products on
+
+650
+00:43:06,561 --> 00:43:09,560
+Earth. Recycled glass products reduce
+
+651
+00:43:09,561 --> 00:43:16,040
+related air pollution by 20% and related water pollution by 50%.
+
+652
+00:43:16,041 --> 00:43:20,200
+40% of previously used glass goes back into circulation every
+
+653
+00:43:20,201 --> 00:43:23,800
+year. Glass is so amazing that scientists
+
+654
+00:43:23,801 --> 00:43:26,840
+who have worked with glass for years still find themselves in
+
+655
+00:43:26,841 --> 00:43:31,240
+all of it. I lead a group of scientists,
+
+656
+00:43:31,241 --> 00:43:34,520
+the most creative glass research group in the world.
+
+657
+00:43:34,521 --> 00:43:39,160
+It's an absolute delight to lead these challenging people who
+
+658
+00:43:39,161 --> 00:43:47,000
+still maintain that inquisitiveness, that curiosity about what makes glass what it is.
+
+659
+00:43:47,001 --> 00:43:51,480
+How can we deliver the next property, the next functionality, but that still maintain
+
+660
+00:43:51,481 --> 00:43:55,320
+that fascination for glass as an art form as well.
+
+661
+00:43:55,321 --> 00:44:07,160
+It is a surprising, mysterious, strange material that seems to have a mind of its own.
+
+662
+00:44:07,161 --> 00:44:09,960
+And as a glass maker or a glass designer,
+
+663
+00:44:09,961 --> 00:44:13,660
+as a glass technologist, you come to respect this material
+
+664
+00:44:13,661 --> 00:44:17,160
+and mysteries that are locked inside of it.
+
+665
+00:44:17,161 --> 00:44:20,600
+And you go to work every day sort of saying,
+
+666
+00:44:20,601 --> 00:44:21,600
+can I figure it out?
+
+667
+00:44:21,601 --> 00:44:23,820
+What's there waiting for me?
+
+668
+00:44:23,821 --> 00:44:26,020
+Scientists continue to be challenged
+
+669
+00:44:26,021 --> 00:44:28,500
+by the potential of glass.
+
+670
+00:44:28,501 --> 00:44:31,220
+Meanwhile, we marvel at its usefulness,
+
+671
+00:44:31,221 --> 00:44:36,020
+the ingenuity of its manufacture,
+
+672
+00:44:36,021 --> 00:44:39,020
+the beauty of its creation.
+

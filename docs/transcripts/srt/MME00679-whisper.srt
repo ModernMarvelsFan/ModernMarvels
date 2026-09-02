@@ -1,0 +1,2560 @@
+1
+00:00:00,001 --> 00:00:08,820
+They'll dispense almost anything in return for a few coins.
+
+2
+00:00:09,960 --> 00:00:13,700
+They're a dime a dozen and one of a kind.
+
+3
+00:00:14,980 --> 00:00:18,180
+They're everywhere and they want money.
+
+4
+00:00:18,740 --> 00:00:20,300
+So grab some coins.
+
+5
+00:00:20,320 --> 00:00:21,040
+Treasure, treasure.
+
+6
+00:00:21,860 --> 00:00:22,980
+There we go.
+
+7
+00:00:23,460 --> 00:00:27,560
+And get ready to go deep beneath the surface of the coin-operated world.
+
+8
+00:00:27,561 --> 00:00:32,700
+Now, more coin operating on Modern Marvels.
+
+9
+00:00:44,220 --> 00:00:47,380
+Americans love change, at least the loose kind.
+
+10
+00:00:48,480 --> 00:00:50,440
+According to the United States Treasury,
+
+11
+00:00:50,940 --> 00:00:54,080
+there's about $15 billion of it spread across the country.
+
+12
+00:00:54,860 --> 00:00:56,900
+When it comes to spending those coins,
+
+13
+00:00:57,560 --> 00:00:59,660
+The options are endless.
+
+14
+00:00:59,661 --> 00:01:02,380
+But each year, about 39 million of us
+
+15
+00:01:02,381 --> 00:01:05,120
+choose to empty our pockets here.
+
+16
+00:01:06,380 --> 00:01:10,980
+Las Vegas, Nevada, where day and night,
+
+17
+00:01:11,960 --> 00:01:13,740
+gamblers flock to casinos.
+
+18
+00:01:14,660 --> 00:01:17,740
+And at least 59% of them will drop their money
+
+19
+00:01:17,741 --> 00:01:21,900
+into America's favorite gambling device, the slot machine.
+
+20
+00:01:23,640 --> 00:01:25,280
+While most modern slot machines
+
+21
+00:01:25,281 --> 00:01:27,564
+been given a high-tech makeover.
+
+22
+00:01:27,565 --> 00:01:31,560
+Among serious enthusiasts, nothing beats a coin-operated
+
+23
+00:01:31,561 --> 00:01:37,740
+one-armed bandit, especially here at the East Side Cannery, where staff and patrons alike
+
+24
+00:01:37,741 --> 00:01:40,600
+are keeping an old Las Vegas tradition alive.
+
+25
+00:01:42,180 --> 00:01:46,018
+Seven days a week, we are always crowded in here.
+
+26
+00:01:46,019 --> 00:01:48,760
+The clientele in here are regulars.
+
+27
+00:01:49,280 --> 00:01:54,000
+A lot of people have come through all over Vegas because we're the only Las Vegas casino
+
+28
+00:01:54,001 --> 00:01:57,300
+to offer a coin-operated slot room for our guests.
+
+29
+00:01:57,301 --> 00:01:59,800
+We come here specifically to play these machines.
+
+30
+00:01:59,801 --> 00:02:01,800
+It's the old time Las Vegas.
+
+31
+00:02:03,300 --> 00:02:07,000
+Playing coin-operated slots is a hands-on experience.
+
+32
+00:02:07,001 --> 00:02:09,900
+This is definitely hardcore.
+
+33
+00:02:09,901 --> 00:02:12,500
+Get your hands dirty and go at it.
+
+34
+00:02:12,501 --> 00:02:14,800
+Customers spend an average of three hours
+
+35
+00:02:14,801 --> 00:02:18,800
+dropping quarter after quarter into these games.
+
+36
+00:02:18,801 --> 00:02:20,700
+To accept and track this money,
+
+37
+00:02:20,701 --> 00:02:23,300
+most coin-operated slot machines use what's called
+
+38
+00:02:23,301 --> 00:02:24,539
+a coin comparator.
+
+39
+00:02:24,540 --> 00:02:29,220
+This device reads money by comparing incoming coins to a fixed coin.
+
+40
+00:02:29,940 --> 00:02:34,500
+The machine actually has another coin in there that it compares it to as far as the size.
+
+41
+00:02:34,501 --> 00:02:37,349
+It knows the weight based on a counterbalance.
+
+42
+00:02:37,350 --> 00:02:40,260
+So when the coin goes in, it measures that coin
+
+43
+00:02:40,261 --> 00:02:46,260
+itself, decides if it's a true coin or not, and then decides where it's going to go from that point.
+
+44
+00:02:47,940 --> 00:02:51,220
+The comparator uses principles similar to that of a metal detector.
+
+45
+00:02:51,221 --> 00:02:56,860
+The magnetic properties of incoming coins are compared to the properties of a reference coin.
+
+46
+00:02:57,860 --> 00:03:02,900
+If the coin is deemed valid, it's routed through the machine and dropped into the hopper.
+
+47
+00:03:04,520 --> 00:03:08,420
+The hopper is one of the most critical parts of a coin-operated slop machine.
+
+48
+00:03:09,380 --> 00:03:11,840
+It's from the hopper that jackpots are paid out.
+
+49
+00:03:12,260 --> 00:03:15,460
+Typically, if somebody wins, the coins are going to pay out automatically.
+
+50
+00:03:16,600 --> 00:03:20,460
+It knows how much it's supposed to give them based on its own processor design.
+
+51
+00:03:20,461 --> 00:03:21,760
+counts them out.
+
+52
+00:03:22,520 --> 00:03:23,680
+Once it counts its number,
+
+53
+00:03:24,220 --> 00:03:25,320
+that wheel stops spinning.
+
+54
+00:03:26,660 --> 00:03:28,320
+As the hopper's wheel spins,
+
+55
+00:03:28,860 --> 00:03:30,720
+it picks up one coin at a time.
+
+56
+00:03:31,520 --> 00:03:33,560
+A sensor tracks and counts each coin,
+
+57
+00:03:34,080 --> 00:03:35,820
+which is then dropped into the coin tray.
+
+58
+00:03:36,860 --> 00:03:38,340
+Once the winnings are paid out,
+
+59
+00:03:38,820 --> 00:03:40,080
+the wheel stops spinning.
+
+60
+00:03:42,220 --> 00:03:43,740
+My last five coins.
+
+61
+00:03:46,140 --> 00:03:48,100
+The winners are the ones that walk away.
+
+62
+00:03:48,101 --> 00:03:53,220
+I should be walking away because I only put in $20 and look what I got.
+
+63
+00:03:54,580 --> 00:03:58,020
+I think I'm going to trust maybe three or four more hands and then I'm going to walk away.
+
+64
+00:03:59,320 --> 00:04:04,000
+Winning may be the ultimate objective, but the coins themselves are the biggest draw.
+
+65
+00:04:04,440 --> 00:04:08,300
+One of the big things is they always say getting your hands dirty.
+
+66
+00:04:08,460 --> 00:04:12,060
+It's kind of funny, but getting your hands dirty is a big part of it.
+
+67
+00:04:12,061 --> 00:04:17,160
+And I think the interaction of the coin with the cup, hearing the clang, clang, clang,
+
+68
+00:04:17,161 --> 00:04:19,720
+A lot of people feel that's what they miss.
+
+69
+00:04:21,140 --> 00:04:24,900
+Nostalgia plays a big role in the push to keep these old machines alive.
+
+70
+00:04:25,960 --> 00:04:29,780
+After all, they have a past as colorful as their spinning reels.
+
+71
+00:04:31,260 --> 00:04:36,440
+The slot machine, or one-armed bandit, was invented more than a century ago
+
+72
+00:04:36,441 --> 00:04:39,680
+and quickly became a fixture in Western saloons.
+
+73
+00:04:40,640 --> 00:04:44,440
+But anti-gambling fervor led manufacturers to build machines
+
+74
+00:04:44,441 --> 00:04:47,220
+that would dispense gum rather than cash.
+
+75
+00:04:48,060 --> 00:04:49,640
+Fruit and bar symbols on the reels
+
+76
+00:04:49,641 --> 00:04:51,580
+determined what kind of gum was awarded.
+
+77
+00:04:52,380 --> 00:04:56,140
+And before long, those symbols became a slot machine standard.
+
+78
+00:04:59,080 --> 00:05:01,380
+Slots managed to survive prohibition,
+
+79
+00:05:02,180 --> 00:05:04,840
+as well as crusading politicians,
+
+80
+00:05:05,500 --> 00:05:08,980
+by moving into speakeasies across the country.
+
+81
+00:05:08,981 --> 00:05:17,200
+But in 1931, when Nevada legalized gambling, slot machines were back in the spotlight.
+
+82
+00:05:18,280 --> 00:05:24,540
+Mobster Bugsy Siegel installed them in his famous Flamingo Hotel to entertain the wives of high rollers.
+
+83
+00:05:25,500 --> 00:05:29,020
+The machines soon became more profitable than the table games.
+
+84
+00:05:30,500 --> 00:05:36,040
+Today, nearly 70% of casino floor space is given over to slots.
+
+85
+00:05:36,041 --> 00:05:44,260
+But the old one-armed bandits have been transformed into cutting-edge digital machines that no longer take coins.
+
+86
+00:05:45,100 --> 00:05:49,940
+And one innovative company has led the charge to take the slot machine into the future.
+
+87
+00:05:51,980 --> 00:05:58,860
+Tucked away in the biggest little city of Reno, Nevada, is IGT, or International Game Technology.
+
+88
+00:06:00,080 --> 00:06:04,780
+The largest developer and manufacturer of slot machines in the world.
+
+89
+00:06:04,781 --> 00:06:09,500
+We operate over 900,000 machines in the United States.
+
+90
+00:06:09,960 --> 00:06:15,100
+We have paid over $2.5 billion in jackpots.
+
+91
+00:06:15,740 --> 00:06:20,980
+We also have created over 1,000 millionaires around the world, so we're doing our part.
+
+92
+00:06:21,800 --> 00:06:29,200
+During its 30 years of manufacturing, IGT has created hundreds of thousands of coin-operated slot machines.
+
+93
+00:06:29,840 --> 00:06:33,380
+But the company's current focus is pumping out cutting-edge slots
+
+94
+00:06:33,381 --> 00:06:35,920
+that take bills or casino tickets.
+
+95
+00:06:36,440 --> 00:06:38,780
+Welcome to the guts of IGT.
+
+96
+00:06:39,360 --> 00:06:42,300
+This is where everything really comes together,
+
+97
+00:06:42,301 --> 00:06:45,780
+and we produce hundreds of slot machines every day.
+
+98
+00:06:46,520 --> 00:06:50,100
+The art and the sound and the theme and the cabinet design
+
+99
+00:06:50,101 --> 00:06:52,980
+all come together in one place here on our production floor.
+
+100
+00:06:53,800 --> 00:06:55,780
+Slots are basically big computers,
+
+101
+00:06:56,340 --> 00:06:59,040
+and each one begins life as an empty shell.
+
+102
+00:06:59,200 --> 00:07:05,700
+We have a progressive build, meaning that these will go through a series of stations
+
+103
+00:07:05,701 --> 00:07:09,900
+where material will be added in succession.
+
+104
+00:07:09,901 --> 00:07:18,660
+That material consists of plenty of wire or harnessing, processor boards, LCD screens,
+
+105
+00:07:18,661 --> 00:07:22,200
+and one of the key elements, the cash box.
+
+106
+00:07:22,201 --> 00:07:24,200
+This is where the money goes.
+
+107
+00:07:24,201 --> 00:07:25,200
+This is important.
+
+108
+00:07:25,201 --> 00:07:26,200
+This is for the casinos.
+
+109
+00:07:26,201 --> 00:07:28,200
+This is where they get their money.
+
+110
+00:07:28,201 --> 00:07:32,240
+The cash box takes dollars or tickets rather than coins.
+
+111
+00:07:33,140 --> 00:07:36,300
+Still, coins haven't entirely disappeared from the modern slot machine.
+
+112
+00:07:37,140 --> 00:07:41,420
+Though we don't work with coins as much as we used to work with coins,
+
+113
+00:07:41,880 --> 00:07:46,540
+to display coins when you cash out and the sound of coins is still very important.
+
+114
+00:07:51,100 --> 00:07:53,280
+Another important slot machine tradition?
+
+115
+00:07:53,840 --> 00:07:54,860
+The real system.
+
+116
+00:07:54,861 --> 00:08:01,860
+IGT is a trailblazer when it comes to using 3D technology to simulate spinning reels.
+
+117
+00:08:01,861 --> 00:08:04,860
+But the company also makes them the old-fashioned way.
+
+118
+00:08:04,861 --> 00:08:11,860
+This is the reel assembly for games that take actual reels with reel strips.
+
+119
+00:08:11,861 --> 00:08:13,425
+These are made in-house.
+
+120
+00:08:13,426 --> 00:08:20,860
+We have our own silkscreen shop that makes these using a dual process of digital processing and silkscreening ink.
+
+121
+00:08:20,861 --> 00:08:25,360
+Basically, the strip sits on this carriage like so,
+
+122
+00:08:25,361 --> 00:08:29,660
+and then wraps around, and this is what spins the cymbals.
+
+123
+00:08:30,960 --> 00:08:32,620
+The graphics are amazing.
+
+124
+00:08:32,780 --> 00:08:34,920
+It's a great use of our new 3D technology,
+
+125
+00:08:35,240 --> 00:08:37,740
+and still has the handle for those people
+
+126
+00:08:37,741 --> 00:08:39,860
+who are really in love with the pull.
+
+127
+00:08:40,920 --> 00:08:42,020
+It's amazing.
+
+128
+00:08:42,380 --> 00:08:43,080
+Yeah.
+
+129
+00:08:44,460 --> 00:08:46,680
+After installation of the game software,
+
+130
+00:08:47,500 --> 00:08:50,400
+each new machine is put through a series of tests.
+
+131
+00:08:50,860 --> 00:08:52,860
+This is our final test area.
+
+132
+00:08:53,220 --> 00:08:55,100
+This is after the game's been fully assembled.
+
+133
+00:08:55,860 --> 00:08:58,340
+The firmware has been loaded on the game.
+
+134
+00:08:58,920 --> 00:09:02,940
+And so this is where we go through our final test and quality inspection.
+
+135
+00:09:03,480 --> 00:09:07,140
+As an example, we'll run through, make sure all the buttons work,
+
+136
+00:09:07,900 --> 00:09:11,460
+make sure the MLD and the LCD light up.
+
+137
+00:09:12,060 --> 00:09:13,540
+We run our test monies through.
+
+138
+00:09:14,360 --> 00:09:17,100
+Each product tester has a wallet full of money.
+
+139
+00:09:17,101 --> 00:09:21,040
+American for U.S. machines, and foreign currency
+
+140
+00:09:21,041 --> 00:09:23,020
+if the game will be shipped overseas.
+
+141
+00:09:23,980 --> 00:09:26,500
+He's going to validate that the bill validator accepts the money,
+
+142
+00:09:27,380 --> 00:09:29,920
+that the proper credits are brought up.
+
+143
+00:09:31,000 --> 00:09:35,560
+Now he's going to play the game, validate that the buttons work,
+
+144
+00:09:36,260 --> 00:09:38,520
+also validate that the symbols line up.
+
+145
+00:09:38,521 --> 00:09:42,900
+Then he's going to cash out, so we validate that the ticket came out
+
+146
+00:09:42,901 --> 00:09:46,620
+with the appropriate amount, 53.40.
+
+147
+00:09:47,100 --> 00:09:51,420
+Then he's going to put it back in to validate that the bill validator takes the ticket.
+
+148
+00:09:51,840 --> 00:09:53,980
+Not a bad way to spend the workday.
+
+149
+00:09:54,400 --> 00:09:58,520
+They don't have to spend their money, but unfortunately they don't get to keep the money that they win either.
+
+150
+00:09:59,280 --> 00:10:03,500
+If everything works, the games are sent out to casinos across the globe,
+
+151
+00:10:04,960 --> 00:10:08,360
+including this one, Las Vegas' Aria Casino.
+
+152
+00:10:09,520 --> 00:10:12,780
+But here, the slot machine has upped the ante.
+
+153
+00:10:13,300 --> 00:10:15,260
+This is our red, white, and blue game here at Aria,
+
+154
+00:10:15,261 --> 00:10:17,340
+and it's our largest bet we have in the casino.
+
+155
+00:10:17,520 --> 00:10:18,640
+It's a $5,000 wager.
+
+156
+00:10:19,220 --> 00:10:21,080
+If this machine took coins,
+
+157
+00:10:21,300 --> 00:10:23,400
+it would take a player more than two hours
+
+158
+00:10:23,401 --> 00:10:26,100
+to insert the 20,000 required quarters.
+
+159
+00:10:26,780 --> 00:10:28,300
+Paying out the maximum jackpot
+
+160
+00:10:28,301 --> 00:10:30,460
+could take more than three days.
+
+161
+00:10:31,360 --> 00:10:33,200
+Thankfully, this game takes tickets.
+
+162
+00:10:34,020 --> 00:10:35,260
+In the old days, we'd have coins,
+
+163
+00:10:35,520 --> 00:10:37,780
+but the games would either run out of coins,
+
+164
+00:10:38,020 --> 00:10:41,060
+so we'd have to stop the player and refill the game,
+
+165
+00:10:41,140 --> 00:10:43,840
+and that takes time and inconveniences the guest.
+
+166
+00:10:43,841 --> 00:10:47,440
+or if it's a big win, the game may not have enough coins in it
+
+167
+00:10:47,441 --> 00:10:49,040
+and we couldn't actually pay the customer.
+
+168
+00:10:49,760 --> 00:10:52,500
+Phasing out coins has changed the casino experience,
+
+169
+00:10:53,000 --> 00:10:56,380
+but it hasn't changed a few persistent superstitions
+
+170
+00:10:56,381 --> 00:11:00,500
+held by fans of coin-operated and modern slots alike.
+
+171
+00:11:01,160 --> 00:11:03,980
+In casinos, often customers have a perception that
+
+172
+00:11:03,981 --> 00:11:07,560
+if they're playing a game and maybe they step up and leave that game
+
+173
+00:11:07,561 --> 00:11:09,460
+and someone immediately sits down behind them
+
+174
+00:11:09,461 --> 00:11:11,740
+and may play and hit a jackpot that,
+
+175
+00:11:11,741 --> 00:11:14,280
+oh, if I just stayed there, that would have been my jackpot.
+
+176
+00:11:14,580 --> 00:11:15,720
+Well, that's not always the case.
+
+177
+00:11:16,420 --> 00:11:18,480
+In fact, that's almost never the case,
+
+178
+00:11:18,960 --> 00:11:20,920
+thanks to a cutting-edge computer program
+
+179
+00:11:20,921 --> 00:11:24,240
+embedded in both coin-operated and high-tech machines.
+
+180
+00:11:25,400 --> 00:11:28,140
+It's called the Random Number Generator,
+
+181
+00:11:28,400 --> 00:11:31,440
+and it's a program that cycles through random groups of numbers.
+
+182
+00:11:32,520 --> 00:11:34,720
+The RNG is always cycling,
+
+183
+00:11:35,160 --> 00:11:37,100
+even when the machine isn't in play.
+
+184
+00:11:38,260 --> 00:11:41,140
+But once a player inserts money in places of bet,
+
+185
+00:11:41,740 --> 00:11:49,580
+The instant a button is pushed or a lever is pulled, the random number generator picks the number combination highlighted in its system at that moment.
+
+186
+00:11:50,240 --> 00:11:53,260
+Each reel stops in a position that corresponds to the number sequence.
+
+187
+00:11:54,540 --> 00:12:02,980
+If the numbers and symbols on the pay line match a winning combination, the game processor calculates the amount won, and the machine pays out.
+
+188
+00:12:03,720 --> 00:12:06,620
+With each new play, this random process repeats,
+
+189
+00:12:07,680 --> 00:12:11,860
+ensuring that every play is entirely unrelated to a previous win or loss.
+
+190
+00:12:12,860 --> 00:12:16,200
+In other words, there's no such thing as a hot machine.
+
+191
+00:12:17,080 --> 00:12:19,200
+And there's no way to game the system.
+
+192
+00:12:22,460 --> 00:12:25,120
+For slots fans, this may be a bit of a downer.
+
+193
+00:12:25,760 --> 00:12:28,860
+But with some patience, most players will win something.
+
+194
+00:12:28,861 --> 00:12:35,860
+That's because by law, slot machines have to pay out at least 80 cents for every dollar inserted,
+
+195
+00:12:35,861 --> 00:12:40,860
+whether that dollar is a bill or four quarters.
+
+196
+00:12:40,861 --> 00:12:47,860
+Despite the modernization of the slot machine, the old coin-operated versions have definite staying power.
+
+197
+00:12:49,860 --> 00:12:56,860
+The coin-operated industry wouldn't operate very well without a fundamental necessity.
+
+198
+00:12:56,861 --> 00:13:03,400
+coins. Billions of them are created and circulated every year and all of them
+
+199
+00:13:03,401 --> 00:13:10,300
+begin life in a factory like this. The U.S. Mint in Philadelphia is a 20,000
+
+200
+00:13:10,301 --> 00:13:15,360
+square foot money-making machine. Its mission? To provide the nation with
+
+201
+00:13:15,361 --> 00:13:21,540
+enough coinage to conduct its trade and commerce. The Mint operates six facilities
+
+202
+00:13:21,541 --> 00:13:25,800
+across the U.S., but this is its oldest and biggest operation.
+
+203
+00:13:26,880 --> 00:13:30,100
+This is the largest coin factory in the world.
+
+204
+00:13:30,300 --> 00:13:34,940
+In fact, every day here in Philadelphia, we produce about 20 million coins.
+
+205
+00:13:35,580 --> 00:13:38,420
+The life of a coin begins with a congressional act
+
+206
+00:13:38,421 --> 00:13:41,620
+that outlines specific requirements, like denomination,
+
+207
+00:13:42,200 --> 00:13:43,800
+and who or what will be featured.
+
+208
+00:13:44,300 --> 00:13:50,500
+Congress passes statute or law that directs the United States
+
+209
+00:13:50,501 --> 00:13:55,300
+meant to make coinage, its appearance, its thickness, very specifically.
+
+210
+00:13:55,301 --> 00:13:59,068
+The bill is then passed to an exclusive group of artists at the Mint.
+
+211
+00:13:59,069 --> 00:14:00,160
+There are only seven
+
+212
+00:14:00,161 --> 00:14:01,633
+of them in the U.S.
+
+213
+00:14:01,634 --> 00:14:07,060
+and it's their job to turn Congress' requirements into actual coinage.
+
+214
+00:14:07,061 --> 00:14:10,160
+It's one of the most unique jobs in the country.
+
+215
+00:14:10,161 --> 00:14:15,380
+This is probably one of the only places in the world where the artwork that you generate
+
+216
+00:14:15,381 --> 00:14:17,800
+It goes out to virtually everyone.
+
+217
+00:14:18,060 --> 00:14:18,960
+Everyone touches it.
+
+218
+00:14:19,620 --> 00:14:22,820
+So it's not only in the United States, it's all over the world.
+
+219
+00:14:23,400 --> 00:14:25,320
+We find that humbling, you know,
+
+220
+00:14:25,380 --> 00:14:28,380
+because very rarely an artist gets to that level.
+
+221
+00:14:29,100 --> 00:14:30,740
+Currently, the Mint's big project
+
+222
+00:14:30,741 --> 00:14:34,740
+is a series of presidential $1 coins for circulation.
+
+223
+00:14:35,880 --> 00:14:37,900
+They feature deceased U.S. presidents
+
+224
+00:14:37,901 --> 00:14:39,280
+in the order that they served.
+
+225
+00:14:41,200 --> 00:14:44,280
+The 16th coin to be minted is our 16th president,
+
+226
+00:14:44,281 --> 00:14:45,880
+Abraham Lincoln.
+
+227
+00:14:46,720 --> 00:14:50,680
+The coin was designed and sculpted by veteran artist Don Everhart.
+
+228
+00:14:51,540 --> 00:14:53,480
+The way it came about, which is kind of interesting,
+
+229
+00:14:53,720 --> 00:14:56,780
+was the first design that I had actually done completely on the computer.
+
+230
+00:14:57,140 --> 00:14:58,860
+I didn't use a pencil at all for this.
+
+231
+00:14:59,240 --> 00:15:01,840
+I started to use a pencil, and I didn't like the way it was turning out,
+
+232
+00:15:01,900 --> 00:15:05,600
+so I went to the computer and started working on the screen and drawing,
+
+233
+00:15:05,960 --> 00:15:08,940
+and I really liked the way it looked, so it just kind of flowed.
+
+234
+00:15:09,080 --> 00:15:12,200
+The portrait of Lincoln is based on a Civil War-era photograph
+
+235
+00:15:12,201 --> 00:15:13,860
+by Alexander Gardner.
+
+236
+00:15:14,280 --> 00:15:19,680
+There's an intensity about his eyes where he's looking right at you that I think I captured.
+
+237
+00:15:19,681 --> 00:15:23,180
+But sketching the coin is just the first step.
+
+238
+00:15:23,181 --> 00:15:27,180
+Next, he's sculpting it. And that's tricky business.
+
+239
+00:15:27,181 --> 00:15:33,180
+The design has to be almost entirely flat, so the finished coin is as streamlined as possible.
+
+240
+00:15:33,181 --> 00:15:34,649
+This is such low relief.
+
+241
+00:15:34,650 --> 00:15:39,180
+Our maximum is 80 thousandths of an inch, and that's as high as we can go.
+
+242
+00:15:39,181 --> 00:15:41,180
+We have to work within those parameters.
+
+243
+00:15:41,181 --> 00:15:45,060
+80 thousandths of an inch is about as thin as a sheet of paper.
+
+244
+00:15:45,880 --> 00:15:49,720
+Creating depth while working within that range is just a bit challenging.
+
+245
+00:15:50,360 --> 00:15:53,420
+When you do a sculpture like this, it's really a lot of illusion.
+
+246
+00:15:53,920 --> 00:15:56,700
+You have to do what I call painting with light,
+
+247
+00:15:56,860 --> 00:16:01,120
+where you're sculpting planes and angles to catch light and to catch shadow
+
+248
+00:16:01,121 --> 00:16:04,620
+so that you create a dynamic-looking portrait in this case.
+
+249
+00:16:05,440 --> 00:16:09,320
+One of the final touches on any coin is a minuscule mark
+
+250
+00:16:09,321 --> 00:16:13,560
+that goes unnoticed by most people, the artist's initials.
+
+251
+00:16:13,860 --> 00:16:16,340
+They're hard to see in the actual coin, but you know they're there.
+
+252
+00:16:17,020 --> 00:16:19,660
+If another artist designs it and I sculpt it,
+
+253
+00:16:19,740 --> 00:16:22,700
+the other artist's initials would go on the left and mine would go on the right.
+
+254
+00:16:22,780 --> 00:16:26,480
+In this case, I designed and sculpted it so my initials would go on the right side.
+
+255
+00:16:27,840 --> 00:16:31,160
+Once it's finished, the model is handed over to the tooling team.
+
+256
+00:16:31,940 --> 00:16:33,980
+They're in charge of making the hub and die,
+
+257
+00:16:34,740 --> 00:16:37,200
+two crucial pieces necessary for coining.
+
+258
+00:16:37,201 --> 00:16:41,800
+This steel cylinder will become what's called a reduction hub.
+
+259
+00:16:42,400 --> 00:16:46,160
+It's essentially a coin-sized metal replica of the artist's model.
+
+260
+00:16:48,760 --> 00:16:52,360
+The reduction hub will be mechanically etched over 12 hours.
+
+261
+00:16:54,020 --> 00:16:57,900
+Once complete, the reduction hub must be painstakingly cleaned.
+
+262
+00:16:59,040 --> 00:17:00,640
+You have to be careful.
+
+263
+00:17:01,280 --> 00:17:04,480
+If you are a little bit too overzealous, you'll ruin it.
+
+264
+00:17:04,481 --> 00:17:08,720
+So it's a very meticulously controlled bit of work
+
+265
+00:17:08,721 --> 00:17:11,400
+where you are using little pieces of stone,
+
+266
+00:17:11,900 --> 00:17:14,520
+sanding pads, things like that, to get rid of the lines.
+
+267
+00:17:15,180 --> 00:17:16,680
+The tiniest stray lines,
+
+268
+00:17:16,880 --> 00:17:20,420
+or even the slightest speck of dust, will ruin the dyes.
+
+269
+00:17:21,000 --> 00:17:22,840
+From this, which is a positive,
+
+270
+00:17:23,300 --> 00:17:25,940
+they will be able to make a series of dyes, which are negatives,
+
+271
+00:17:26,100 --> 00:17:30,420
+and the negatives will be used to actually stamp the coins
+
+272
+00:17:30,421 --> 00:17:32,220
+that will wind up in your pocket.
+
+273
+00:17:32,221 --> 00:17:36,220
+Once clean, the hub is placed in the die press.
+
+274
+00:17:36,221 --> 00:17:42,220
+This machine centers the reduction hub over a cone-shaped cylinder.
+
+275
+00:17:42,221 --> 00:17:46,220
+A press descends, flattening the hub and cylinder together.
+
+276
+00:17:46,221 --> 00:17:51,220
+The etched image of Abraham Lincoln is forced onto the steel cylinder.
+
+277
+00:17:51,221 --> 00:17:55,220
+What emerges from the die press is the master die,
+
+278
+00:17:55,221 --> 00:17:59,220
+which has a recessed rather than raised image.
+
+279
+00:17:59,221 --> 00:18:05,220
+After even more cleaning, the dye is ready for work on the production line, where it
+
+280
+00:18:05,221 --> 00:18:11,760
+will stamp out millions of shiny new United States coins.
+
+281
+00:18:11,761 --> 00:18:16,840
+Each one of those coins begins as a 1,500-foot-long metal coil.
+
+282
+00:18:16,841 --> 00:18:22,700
+This coil is pure copper, sandwiched between layers of manganese brass.
+
+283
+00:18:22,701 --> 00:18:28,380
+The coils are unrolled and fed through a blanking press, which punches out round disks, called
+
+284
+00:18:28,381 --> 00:18:29,183
+blanks.
+
+285
+00:18:29,184 --> 00:18:38,700
+The leftover metal, or webbing, gets melted down and recycled, while the new blanks
+
+286
+00:18:38,701 --> 00:18:44,005
+head to an annealing furnace for a heat treatment.
+
+287
+00:18:44,006 --> 00:18:48,780
+This alters the physical makeup of the metal,
+
+288
+00:18:48,781 --> 00:18:52,437
+softening its surface in preparation for coining.
+
+289
+00:18:52,438 --> 00:18:55,720
+After washing and drying, the blanks are run
+
+290
+00:18:55,721 --> 00:19:02,020
+through an upsetting mill. This machine raises a rim around the edges. The mill
+
+291
+00:19:02,021 --> 00:19:06,820
+consists of a rotating wheel with a groove on its edge. The grooved edge of
+
+292
+00:19:06,821 --> 00:19:12,180
+the wheel is fitted to a curved section called a shoe which has a corresponding
+
+293
+00:19:12,181 --> 00:19:17,720
+groove. The distance between the wheel and the shoe gets progressively narrower.
+
+294
+00:19:17,721 --> 00:19:24,400
+As the blank is rolled along the groove, a raised rim is formed on both sides.
+
+295
+00:19:24,401 --> 00:19:27,400
+Finally, the blanks are ready for striking.
+
+296
+00:19:27,401 --> 00:19:30,400
+This happens in the coining press,
+
+297
+00:19:30,401 --> 00:19:35,400
+where master dies stamp out 12 new coins every second.
+
+298
+00:19:35,401 --> 00:19:41,400
+This intense striking process means the dies require constant replacing.
+
+299
+00:19:41,401 --> 00:19:45,400
+They're under such pressure when they strike a coin.
+
+300
+00:19:45,401 --> 00:19:49,400
+For example, to make a dollar coin, it takes about 80 tons of pressure.
+
+301
+00:19:49,401 --> 00:19:53,400
+We make 12 coins per second.
+
+302
+00:19:53,401 --> 00:19:58,340
+So those guys are hitting together using 80 tons of pressure 12 times a second.
+
+303
+00:20:06,180 --> 00:20:12,400
+Every batch of new coins is carefully inspected for the slightest defect that could indicate a worn-out die.
+
+304
+00:20:12,660 --> 00:20:18,400
+On the side of every coining press, there's a trap, and it takes about 10 minutes to fill that trap.
+
+305
+00:20:18,401 --> 00:20:23,960
+And once it's filled, the operator's going to take the last two coins that were struck
+
+306
+00:20:23,961 --> 00:20:27,760
+and are going to look at them to make sure that they're the best quality that can be made.
+
+307
+00:20:28,300 --> 00:20:32,900
+Any imperfections means the entire batch of coins is sent to the recycling bin.
+
+308
+00:20:33,980 --> 00:20:36,820
+Every coin has to be exactly alike.
+
+309
+00:20:36,960 --> 00:20:38,260
+Every coin has to be perfect.
+
+310
+00:20:39,100 --> 00:20:42,940
+If they're not, you're going to try and put them into a vending machine and they're not going to work.
+
+311
+00:20:43,520 --> 00:20:45,840
+Plus, they're the coins of the United States.
+
+312
+00:20:46,040 --> 00:20:47,600
+So we want them to be perfect.
+
+313
+00:20:47,601 --> 00:20:50,160
+We're proud to be making a perfect product here.
+
+314
+00:20:56,820 --> 00:20:59,320
+Perfect batches are sent to the counting machines,
+
+315
+00:20:59,940 --> 00:21:01,300
+where they're bagged,
+
+316
+00:21:03,520 --> 00:21:04,220
+weighed,
+
+317
+00:21:07,500 --> 00:21:09,140
+and sent out into the world.
+
+318
+00:21:10,060 --> 00:21:12,640
+These new coins will end up any number of places,
+
+319
+00:21:13,180 --> 00:21:14,820
+but one of the most captivating
+
+320
+00:21:14,821 --> 00:21:19,420
+just happens to be 164 feet below the Earth's surface
+
+321
+00:21:19,421 --> 00:21:22,560
+in one of the most lucrative wishing wells on the planet.
+
+322
+00:21:27,160 --> 00:21:30,520
+Throughout a coin's estimated 25-year lifespan,
+
+323
+00:21:31,060 --> 00:21:34,560
+it's almost guaranteed to travel to some unexpected places.
+
+324
+00:21:35,940 --> 00:21:39,780
+Like wishing wells, it's estimated that worldwide,
+
+325
+00:21:40,500 --> 00:21:42,920
+people toss more than a million pounds of coins
+
+326
+00:21:42,921 --> 00:21:44,560
+into wishing wells each year.
+
+327
+00:21:44,820 --> 00:21:47,820
+Most of this gets donated to charity,
+
+328
+00:21:47,821 --> 00:21:50,820
+which means the coins have to come out of the well.
+
+329
+00:21:50,821 --> 00:21:53,820
+Not a terribly difficult task,
+
+330
+00:21:53,821 --> 00:21:59,820
+unless the wishing well is 164 feet below the Earth's surface.
+
+331
+00:21:59,821 --> 00:22:03,820
+Luray Caverns in Virginia's Shenandoah Valley
+
+332
+00:22:03,821 --> 00:22:07,820
+is more than 400 million years old.
+
+333
+00:22:07,821 --> 00:22:11,820
+It's the most popular cave system in the eastern U.S.
+
+334
+00:22:11,821 --> 00:22:18,820
+And since 1954, one of the main attractions here has been this natural pool.
+
+335
+00:22:18,821 --> 00:22:24,820
+It's one of the most lucrative wishing wells on the planet.
+
+336
+00:22:24,821 --> 00:22:27,820
+One, two, three.
+
+337
+00:22:27,821 --> 00:22:29,820
+Yes.
+
+338
+00:22:29,821 --> 00:22:34,820
+We're talking about a lot of coins.
+
+339
+00:22:34,821 --> 00:22:43,820
+Precisely since 1954, 36,072,131 coins,
+
+340
+00:22:43,821 --> 00:22:49,820
+amounting to over 134 tons of money donated to charity.
+
+341
+00:22:49,821 --> 00:22:53,820
+A grand total of almost a million dollars.
+
+342
+00:22:55,820 --> 00:22:58,820
+Collecting all these coins is not an easy job.
+
+343
+00:22:58,821 --> 00:23:02,820
+The well is six feet deep, the deepest pool in the caverns.
+
+344
+00:23:02,821 --> 00:23:04,820
+in a water conference.
+
+345
+00:23:04,920 --> 00:23:07,920
+Waiting in is not an option.
+
+346
+00:23:08,020 --> 00:23:11,820
+Instead, the entire well has to be drained once a year
+
+347
+00:23:11,920 --> 00:23:14,860
+by Luray's maintenance staff.
+
+348
+00:23:14,960 --> 00:23:19,060
+We're getting ready to pump the water out of the wishing well.
+
+349
+00:23:19,160 --> 00:23:23,580
+And we do this annually to collect all of the coins.
+
+350
+00:23:23,680 --> 00:23:27,380
+OK, you get the hose.
+
+351
+00:23:27,480 --> 00:23:29,480
+It's a two-day process, and it all
+
+352
+00:23:29,481 --> 00:23:33,480
+by lowering a sump pump down into the pool.
+
+353
+00:23:33,481 --> 00:23:36,080
+This is the same type of pump homeowners often use
+
+354
+00:23:36,081 --> 00:23:38,880
+to remove water from flooded basements.
+
+355
+00:23:38,881 --> 00:23:42,480
+OK, I'm going to plug the pump up.
+
+356
+00:23:42,481 --> 00:23:43,480
+OK.
+
+357
+00:23:43,481 --> 00:23:44,480
+There we go.
+
+358
+00:23:44,481 --> 00:23:46,780
+The sump pump will take water out of the wishing well
+
+359
+00:23:46,781 --> 00:23:49,880
+and store it in an adjacent pool.
+
+360
+00:23:49,881 --> 00:23:52,280
+Later, once the coins are collected,
+
+361
+00:23:52,281 --> 00:23:54,880
+workers will refill the well.
+
+362
+00:23:54,881 --> 00:23:58,280
+The water in this pool, as in any of the pools
+
+363
+00:23:58,281 --> 00:24:02,680
+in the caverns is seepage, and that is from water
+
+364
+00:24:02,681 --> 00:24:04,720
+that just drips down from the surface
+
+365
+00:24:04,721 --> 00:24:07,000
+over a long period of time.
+
+366
+00:24:07,001 --> 00:24:09,220
+Now, if we were to leave this water out
+
+367
+00:24:09,221 --> 00:24:12,100
+and let it seep back in, naturally,
+
+368
+00:24:12,101 --> 00:24:14,520
+it would take a very long time.
+
+369
+00:24:14,521 --> 00:24:18,080
+But by pumping this back, we may lose a little bit,
+
+370
+00:24:18,081 --> 00:24:21,160
+but the seepage from the ground above
+
+371
+00:24:21,161 --> 00:24:25,100
+will fill it back up to its normal height.
+
+372
+00:24:25,101 --> 00:24:27,620
+Once the sump pump starts working,
+
+373
+00:24:27,621 --> 00:24:29,820
+It will take eight hours to drain the pool.
+
+374
+00:24:37,120 --> 00:24:42,240
+The next morning, a gold mine of treasure awaits Luray's maintenance staff.
+
+375
+00:24:45,080 --> 00:24:51,340
+Workers armed with burlap sacks, shovels, and wheelbarrows survey the massive piles of coins.
+
+376
+00:24:51,341 --> 00:24:58,340
+In some areas, the coins have accumulated in mounds more than two feet deep.
+
+377
+00:24:58,341 --> 00:25:07,340
+Right now we're cleaning the coins down off the walls, putting them into the lowest point,
+
+378
+00:25:07,341 --> 00:25:12,340
+and from there we'll shovel them into buckets, put the buckets of coins into bags,
+
+379
+00:25:12,341 --> 00:25:16,340
+about 200 bags on average per year.
+
+380
+00:25:16,341 --> 00:25:25,500
+There's an estimated $30,000 to $40,000 in this batch, which will all go to several different
+
+381
+00:25:25,501 --> 00:25:27,860
+charities designated by the town of Leray.
+
+382
+00:25:29,700 --> 00:25:35,080
+Within our small community in Leray, there is a secret committee that is assembled that
+
+383
+00:25:35,081 --> 00:25:38,580
+determines the amounts and the recipients of these contributions.
+
+384
+00:25:46,340 --> 00:25:52,880
+It takes the team about four hours to clear the pool,
+
+385
+00:25:54,180 --> 00:25:56,240
+but the job is far from done.
+
+386
+00:25:56,920 --> 00:26:01,220
+Now the crew has to get thousands of pounds of coins out of the cavern.
+
+387
+00:26:03,800 --> 00:26:06,280
+The wishing well is about a half a mile from the exit,
+
+388
+00:26:06,740 --> 00:26:09,500
+and with barrels that weigh about 200 pounds apiece,
+
+389
+00:26:10,200 --> 00:26:12,460
+teamwork is definitely a big factor.
+
+390
+00:26:12,461 --> 00:26:17,460
+It's a long, winding journey out of the cavern,
+
+391
+00:26:17,560 --> 00:26:20,460
+and the crew begins a wheelbarrow relay.
+
+392
+00:26:32,520 --> 00:26:37,460
+At the end of the path, there's one final obstacle.
+
+393
+00:26:37,560 --> 00:26:42,460
+It's a workout worthy of the local high school football team.
+
+394
+00:26:42,461 --> 00:26:51,200
+Every year, the boys volunteer their time to help haul sacks of coins up several flights of stairs.
+
+395
+00:26:52,740 --> 00:26:55,580
+It's a good workout for a good cause.
+
+396
+00:26:56,380 --> 00:27:02,240
+Over the years, some of the national health organizations that have received donations from the Luray Caverns Wishing Well
+
+397
+00:27:02,241 --> 00:27:09,420
+are the American Cancer Society, the March of Dimes, the Juvenile Diabetes Research Foundation, among many others.
+
+398
+00:27:09,421 --> 00:27:15,040
+between $30,000 and $40,000 is taken from this pool of water each year.
+
+399
+00:27:16,860 --> 00:27:19,980
+But the coins have been sitting in water for a year.
+
+400
+00:27:22,180 --> 00:27:25,440
+Many of them are corroded and covered with slime.
+
+401
+00:27:26,260 --> 00:27:30,240
+In other words, this is dirty money that no bank will touch.
+
+402
+00:27:32,300 --> 00:27:37,220
+But one enterprising company has figured out a way to turn that toxic treasure...
+
+403
+00:27:37,221 --> 00:27:38,540
+Sweet penny! Treasure! Treasure!
+
+404
+00:27:38,541 --> 00:27:40,780
+into cold, hard cash.
+
+405
+00:27:43,860 --> 00:27:48,300
+What do you do with $30,000 worth of slimy coins
+
+406
+00:27:48,301 --> 00:27:50,560
+that came from the bottom of a wishing well?
+
+407
+00:27:51,420 --> 00:27:52,540
+Just ask this guy.
+
+408
+00:27:53,980 --> 00:27:55,920
+Walt McKay of Dallas, Texas,
+
+409
+00:27:56,360 --> 00:27:59,240
+has created a thriving business out of dirty money.
+
+410
+00:28:00,040 --> 00:28:02,100
+Walt owns FountainCoins.com,
+
+411
+00:28:02,620 --> 00:28:04,620
+a small company with a valuable mission.
+
+412
+00:28:05,320 --> 00:28:07,240
+Turn those grimy fountain coins
+
+413
+00:28:07,241 --> 00:28:09,860
+into something bankable.
+
+414
+00:28:12,140 --> 00:28:13,920
+Well, when we get the coins,
+
+415
+00:28:14,700 --> 00:28:16,800
+usually they've been sitting around for a while,
+
+416
+00:28:17,100 --> 00:28:18,360
+and at the bottom of the bucket,
+
+417
+00:28:19,240 --> 00:28:21,220
+the stuff that came out of the bottom of the fountain
+
+418
+00:28:21,221 --> 00:28:24,040
+or the water feature can be pretty grimy.
+
+419
+00:28:24,480 --> 00:28:27,180
+By the time we dump it out and get a nice whiff of it,
+
+420
+00:28:27,260 --> 00:28:28,140
+it's pretty ripe.
+
+421
+00:28:29,800 --> 00:28:32,960
+Walt has been cleaning fountain coins since 2003.
+
+422
+00:28:34,080 --> 00:28:35,900
+It may sound like an easy task,
+
+423
+00:28:35,901 --> 00:28:39,700
+But coming up with a workable method was a lesson in trial and error.
+
+424
+00:28:40,500 --> 00:28:46,020
+I broke our clothes washer by putting coins in a bag and tumbling around in there.
+
+425
+00:28:46,100 --> 00:28:47,200
+I had to repair that myself.
+
+426
+00:28:48,180 --> 00:28:51,680
+I broke our dishwasher pretty much the exact same way.
+
+427
+00:28:52,380 --> 00:28:56,440
+Today, Walt uses a small cement mixer and an assortment of chemicals.
+
+428
+00:28:57,140 --> 00:29:00,620
+Not a very high-tech process, but it gets the job done.
+
+429
+00:29:00,621 --> 00:29:10,220
+First thing we do is dump all these dirty coins in a cement mixer, and we rinse them
+
+430
+00:29:10,221 --> 00:29:16,380
+several times so we get the floating debris and the majority of the dirt off of it.
+
+431
+00:29:16,381 --> 00:29:19,260
+But dirt isn't the only thing Walt finds.
+
+432
+00:29:19,261 --> 00:29:23,740
+It's just a world of treasure in here.
+
+433
+00:29:23,741 --> 00:29:30,500
+There's my lunchtime toothpick, marbles, broken jewelry pieces, a little bit of caulking
+
+434
+00:29:30,501 --> 00:29:31,600
+from the fountain there.
+
+435
+00:29:33,540 --> 00:29:34,240
+Ooh.
+
+436
+00:29:36,040 --> 00:29:37,560
+That would be juicy fruit.
+
+437
+00:29:46,740 --> 00:29:48,840
+You can see how all the stuff that floats
+
+438
+00:29:48,841 --> 00:29:50,360
+is already starting to come off.
+
+439
+00:29:50,860 --> 00:29:53,540
+It's a nice, sweet, soupy mix
+
+440
+00:29:53,541 --> 00:29:55,720
+of the stuff we're trying to get out.
+
+441
+00:29:56,140 --> 00:29:57,420
+After the initial rinse,
+
+442
+00:29:57,760 --> 00:30:00,040
+Walt has to get rid of some of the organic material.
+
+443
+00:30:00,500 --> 00:30:03,200
+slime, algae, or moss that collects on the coins.
+
+444
+00:30:03,360 --> 00:30:08,600
+And just a splash of this chlorine is all it takes.
+
+445
+00:30:12,480 --> 00:30:15,080
+We'll let it work its magic for a little while.
+
+446
+00:30:16,960 --> 00:30:18,680
+Oh, the water's already turning lighter.
+
+447
+00:30:19,280 --> 00:30:20,200
+Take a look at it.
+
+448
+00:30:22,200 --> 00:30:22,900
+Good.
+
+449
+00:30:23,660 --> 00:30:27,400
+This water's just like water that would be in a swimming pool at this point.
+
+450
+00:30:27,401 --> 00:30:30,600
+Next, a dash of laundry detergent.
+
+451
+00:30:31,160 --> 00:30:33,660
+This will cut through any remaining grease and grime.
+
+452
+00:30:35,580 --> 00:30:38,380
+Looks like my hot tub at home after a big party.
+
+453
+00:30:41,320 --> 00:30:46,140
+After a few minutes, the coins are ready for the next addition, an abrasive.
+
+454
+00:30:46,840 --> 00:30:55,660
+The reason we need the abrasive is some of these have so much scale or calcification
+
+455
+00:30:55,661 --> 00:30:59,140
+that they won't even fit through a commercial coin counter.
+
+456
+00:31:00,020 --> 00:31:03,260
+Our mission here is to make this penny worth a penny.
+
+457
+00:31:07,580 --> 00:31:12,540
+This is our own secret sauce from Texas Hook'em.
+
+458
+00:31:15,760 --> 00:31:19,280
+It'll take about two hours for the abrasive to do its job.
+
+459
+00:31:22,020 --> 00:31:25,540
+But when it's finished, these coins look a lot different.
+
+460
+00:31:25,660 --> 00:31:28,960
+You can see how much cleaner the coins are at this point.
+
+461
+00:31:29,300 --> 00:31:32,900
+There's no scale, and there's nothing to stop it
+
+462
+00:31:32,901 --> 00:31:35,100
+from going through the chute at the bank.
+
+463
+00:31:36,400 --> 00:31:38,380
+An acid wash shines them up
+
+464
+00:31:38,381 --> 00:31:40,200
+and gets rid of any lingering debris.
+
+465
+00:31:41,840 --> 00:31:45,120
+Then the batch is dried and spread out to be sorted.
+
+466
+00:31:47,760 --> 00:31:49,160
+Dangerous items are tossed.
+
+467
+00:31:50,020 --> 00:31:51,200
+This is the torture.
+
+468
+00:31:51,920 --> 00:31:53,280
+Luckily, it didn't stick me,
+
+469
+00:31:53,281 --> 00:31:55,940
+but it goes into the torture box here.
+
+470
+00:31:56,920 --> 00:31:58,360
+Foreign coins are saved.
+
+471
+00:31:58,480 --> 00:32:01,180
+Oh, good. Okay, we got a euro, five euro cent.
+
+472
+00:32:01,740 --> 00:32:02,800
+What else do we have?
+
+473
+00:32:03,280 --> 00:32:04,220
+And good old Mexico.
+
+474
+00:32:04,860 --> 00:32:07,100
+Texas is close to Mexico, so I have a lot of pesos.
+
+475
+00:32:08,100 --> 00:32:11,700
+And every so often, Walt finds something really exciting.
+
+476
+00:32:12,060 --> 00:32:13,460
+Wheat penny, treasure, treasure.
+
+477
+00:32:13,920 --> 00:32:14,660
+Punch the button.
+
+478
+00:32:15,540 --> 00:32:16,480
+There we go.
+
+479
+00:32:16,940 --> 00:32:17,640
+All right.
+
+480
+00:32:17,960 --> 00:32:20,660
+It's fun when we find old coins, the wheat pennies.
+
+481
+00:32:20,661 --> 00:32:26,680
+Wheaties were the regular U.S. penny between 1909 and 1958.
+
+482
+00:32:27,440 --> 00:32:30,680
+They're popular among modern collectors because they're old,
+
+483
+00:32:30,960 --> 00:32:35,820
+but also because they're almost entirely copper, unlike new pennies.
+
+484
+00:32:36,240 --> 00:32:42,320
+The new pennies, for many years, have been zinc with a copper plating,
+
+485
+00:32:42,760 --> 00:32:48,240
+and the copper plating is relatively thin, and it gets eaten through,
+
+486
+00:32:48,241 --> 00:32:52,920
+So we have to pick out all these pennies, and the ones we try to make, you know,
+
+487
+00:32:53,000 --> 00:32:55,120
+it's still, you're only talking about one cent at a time.
+
+488
+00:32:55,240 --> 00:32:57,120
+It's the hardest part of the job.
+
+489
+00:32:58,020 --> 00:33:02,900
+A penny won't buy much, but the biggest problem with it is this surprising fact.
+
+490
+00:33:03,300 --> 00:33:05,700
+It costs more than a cent to make a cent.
+
+491
+00:33:07,200 --> 00:33:09,880
+Zinc and copper have skyrocketed in price.
+
+492
+00:33:10,260 --> 00:33:13,220
+It does cost more than a penny to make a penny these days.
+
+493
+00:33:13,221 --> 00:33:16,460
+It depends upon the metal market of the month
+
+494
+00:33:16,461 --> 00:33:19,040
+and how much we can purchase the metal for each month.
+
+495
+00:33:19,420 --> 00:33:24,100
+But by and large, it's a cent and a half to 1.7 cents right now,
+
+496
+00:33:24,160 --> 00:33:27,160
+that's public information, of how much it costs us to make a penny.
+
+497
+00:33:28,220 --> 00:33:31,000
+The economy of that may not make much sense,
+
+498
+00:33:31,560 --> 00:33:34,640
+but the penny is the most widely used coin in the U.S.
+
+499
+00:33:35,140 --> 00:33:39,100
+Us Americans are very emotionally attached to our penny,
+
+500
+00:33:39,520 --> 00:33:40,960
+and there's two sides of the argument.
+
+501
+00:33:40,961 --> 00:33:44,140
+that if we should continue the penny, we shouldn't continue the penny.
+
+502
+00:33:44,980 --> 00:33:50,520
+At least for now, most people, as well as Congress, want the penny to stay around.
+
+503
+00:33:51,080 --> 00:33:55,120
+And that's probably a good thing, because even cents add up.
+
+504
+00:33:55,660 --> 00:33:58,200
+We want to count every single penny that we can,
+
+505
+00:33:58,320 --> 00:34:01,480
+because all the proceeds of these coins go to charities.
+
+506
+00:34:02,640 --> 00:34:05,120
+After sorting through the entire batch of coins,
+
+507
+00:34:05,460 --> 00:34:08,060
+Walt bundles them up and puts them through a counting machine.
+
+508
+00:34:08,360 --> 00:34:10,160
+Makes a neat sound. I love the sound.
+
+509
+00:34:10,960 --> 00:34:13,260
+Every little click is another wish.
+
+510
+00:34:14,760 --> 00:34:18,580
+We put about $50 worth into a bag like this.
+
+511
+00:34:18,640 --> 00:34:19,880
+It weighs 31 pounds.
+
+512
+00:34:20,700 --> 00:34:23,740
+I'd like to keep track of the weight of the coins,
+
+513
+00:34:24,120 --> 00:34:27,940
+and I can tell how much debris and trash we've removed
+
+514
+00:34:27,941 --> 00:34:30,120
+from the original gross weight.
+
+515
+00:34:30,860 --> 00:34:32,040
+I have a net weight.
+
+516
+00:34:33,160 --> 00:34:35,660
+The coins will be sent to the bank for a recount,
+
+517
+00:34:36,300 --> 00:34:38,280
+and Walt will take a small cut for his troubles.
+
+518
+00:34:38,281 --> 00:34:41,680
+A check for the rest is sent to the customer.
+
+519
+00:34:41,681 --> 00:34:46,460
+I have a form that I send every customer.
+
+520
+00:34:46,461 --> 00:34:53,500
+It gives a precise count of every penny, every nickel, dime, quarter, whatever.
+
+521
+00:34:53,501 --> 00:34:59,000
+I take the time to look through because that's what I like to do.
+
+522
+00:34:59,001 --> 00:35:03,860
+These coins will go back out into the world, where many of them will undoubtedly find their
+
+523
+00:35:03,861 --> 00:35:07,520
+way into a coin-operative machine.
+
+524
+00:35:07,521 --> 00:35:09,840
+comes out is anybody's guess.
+
+525
+00:35:11,620 --> 00:35:15,560
+The coin-operated industry provides some useful services.
+
+526
+00:35:17,160 --> 00:35:18,600
+Take the car wash.
+
+527
+00:35:19,120 --> 00:35:22,540
+It's the most popular and convenient way to wash our cars.
+
+528
+00:35:22,980 --> 00:35:28,400
+So it was just a matter of time before someone decided to shrink it down to doggy size.
+
+529
+00:35:28,860 --> 00:35:33,220
+Here in Hoboken, New Jersey, coin-operated has a new leash on life.
+
+530
+00:35:33,221 --> 00:35:35,180
+This is the K9000,
+
+531
+00:35:35,181 --> 00:35:38,720
+a coin-operated shower for our four-legged friends.
+
+532
+00:35:38,721 --> 00:35:42,920
+On the weekends, we could do up to $60 to $70.
+
+533
+00:35:43,520 --> 00:35:44,300
+Rufus, come.
+
+534
+00:35:47,340 --> 00:35:50,820
+Just insert money, and with a simple flip of a switch,
+
+535
+00:35:51,260 --> 00:35:54,780
+you can shampoo, rinse, even condition.
+
+536
+00:35:55,820 --> 00:35:59,460
+Hidden inside the machine are all natural organic products
+
+537
+00:35:59,461 --> 00:36:01,720
+and a water heater that allows customers
+
+538
+00:36:01,721 --> 00:36:03,200
+to choose their own temperature.
+
+539
+00:36:03,380 --> 00:36:04,260
+Say hello to America.
+
+540
+00:36:05,180 --> 00:36:12,180
+A flea and tick rinse is the final coat, and a blow dry tops it all off.
+
+541
+00:36:12,181 --> 00:36:16,180
+$15 for small dogs, $20 for large ones.
+
+542
+00:36:16,181 --> 00:36:23,180
+And whether you have four legs or two, the K9000 takes convenience to a whole new level.
+
+543
+00:36:23,181 --> 00:36:30,180
+The phrase I get the most is, I'll never ever wash my dog at home ever again.
+
+544
+00:36:30,181 --> 00:36:34,180
+Efficient self-service is the cornerstone of the coin-operative business.
+
+545
+00:36:34,181 --> 00:36:40,520
+And when it comes to vending, self-service is a $300 billion industry.
+
+546
+00:36:41,260 --> 00:36:48,260
+Every day, 100 million Americans insert money into one of 7 million vending machines scattered across the country.
+
+547
+00:36:49,020 --> 00:36:54,140
+We buy everything, from sodas and snacks to aspirin and ice cream.
+
+548
+00:36:55,300 --> 00:36:58,860
+But this machine pushes the limits of traditional vending.
+
+549
+00:36:58,861 --> 00:37:05,860
+It's called the 24-hour bait shop, and it caters to fishermen, who tend to keep odd hours.
+
+550
+00:37:05,861 --> 00:37:10,860
+People love them because they can get their products 24-7.
+
+551
+00:37:10,861 --> 00:37:13,860
+The bait shops don't have to be open.
+
+552
+00:37:13,861 --> 00:37:18,860
+You can go there at 4 o'clock in the morning, 10 o'clock at night, any time of day or night,
+
+553
+00:37:18,861 --> 00:37:21,860
+get a full wide array of bait and tackle.
+
+554
+00:37:21,861 --> 00:37:27,860
+The temperature-controlled machine is stocked with creatures only an outdoorsman could love.
+
+555
+00:37:27,861 --> 00:37:35,320
+Minnows, worms, even crayfish, all perfectly alive in their own biodegradable containers.
+
+556
+00:37:36,180 --> 00:37:42,700
+It's just not your typical bag of potato chips or your bottle of soda or can of soda.
+
+557
+00:37:42,880 --> 00:37:47,560
+We have all different size packaging, a wide array of things that have to go in there.
+
+558
+00:37:48,240 --> 00:37:51,940
+The only thing we can't vend, we haven't figured out how to vend, is a rod.
+
+559
+00:37:52,600 --> 00:37:56,680
+The 24-hour bait shop takes vending to a new level of sophistication.
+
+560
+00:37:56,681 --> 00:38:05,880
+Just like this machine, the Wine Kiosk, is a massive high-tech vending machine that recently hit the scene in Pennsylvania,
+
+561
+00:38:07,000 --> 00:38:10,500
+where by law, wine is only sold in state-owned stores.
+
+562
+00:38:11,920 --> 00:38:18,720
+What this kiosk is going to do is bring the convenience of purchasing wine and spirits to customers who are shopping within this grocery store.
+
+563
+00:38:19,020 --> 00:38:23,500
+So essentially, we've just brought that to them, as opposed to having them go out to purchase the wine and spirits.
+
+564
+00:38:23,501 --> 00:38:25,700
+The process is simple.
+
+565
+00:38:26,380 --> 00:38:28,460
+Just choose a bottle on the machine's touchscreen,
+
+566
+00:38:29,100 --> 00:38:30,840
+insert a driver's license,
+
+567
+00:38:31,180 --> 00:38:33,360
+and smile for the camera.
+
+568
+00:38:33,740 --> 00:38:35,060
+On the other side of this camera,
+
+569
+00:38:35,380 --> 00:38:37,800
+there's actually a live individual who watches
+
+570
+00:38:37,801 --> 00:38:40,860
+and documents every single transaction that has occurred.
+
+571
+00:38:41,600 --> 00:38:43,860
+A state employee remotely approves the sale
+
+572
+00:38:43,861 --> 00:38:45,640
+after verifying all information
+
+573
+00:38:45,641 --> 00:38:48,220
+and ensuring the buyer isn't drunk.
+
+574
+00:38:48,600 --> 00:38:49,980
+Please take a deep breath
+
+575
+00:38:49,981 --> 00:38:52,920
+and blow firmly into the breath alcohol sensor
+
+576
+00:38:52,921 --> 00:38:54,460
+as shown in the video.
+
+577
+00:38:56,220 --> 00:38:57,460
+Once a payment is made,
+
+578
+00:38:57,860 --> 00:38:59,340
+the kiosk locates the wine
+
+579
+00:38:59,341 --> 00:39:01,280
+and allows the buyer to take their bottle.
+
+580
+00:39:01,360 --> 00:39:02,660
+The bottles are in the cabinets
+
+581
+00:39:02,661 --> 00:39:04,540
+indicated by the fashion image.
+
+582
+00:39:04,940 --> 00:39:06,060
+Essentially what we've tried to do
+
+583
+00:39:06,061 --> 00:39:07,800
+is keep the experience of buying wine
+
+584
+00:39:07,801 --> 00:39:09,100
+that customers are used to.
+
+585
+00:39:09,440 --> 00:39:11,920
+So they're not looking at a vending purchase
+
+586
+00:39:11,921 --> 00:39:13,540
+so that when they walk up to the wine
+
+587
+00:39:13,541 --> 00:39:14,680
+they can browse the wine,
+
+588
+00:39:14,820 --> 00:39:16,660
+they can look and see which wine they want.
+
+589
+00:39:16,980 --> 00:39:18,840
+They can also, when they purchase the wine,
+
+590
+00:39:18,920 --> 00:39:20,300
+they're actually opening the door
+
+591
+00:39:20,301 --> 00:39:21,920
+and taking the bottle out,
+
+592
+00:39:21,921 --> 00:39:23,020
+just like they would in a store.
+
+593
+00:39:23,400 --> 00:39:25,140
+So essentially we've kept the experience,
+
+594
+00:39:25,320 --> 00:39:27,260
+but have allowed them to do it in a self-service manner.
+
+595
+00:39:27,980 --> 00:39:29,360
+Thank you for your purchase.
+
+596
+00:39:29,860 --> 00:39:32,980
+The wine kiosk uses the latest in vending technology.
+
+597
+00:39:34,820 --> 00:39:37,320
+A sure sign that the coin-operated industry
+
+598
+00:39:37,321 --> 00:39:40,640
+is quickly evolving into a highly mechanized business
+
+599
+00:39:40,641 --> 00:39:44,620
+that sells products too pricey for just a few coins.
+
+600
+00:39:46,400 --> 00:39:47,720
+But for one company,
+
+601
+00:39:48,300 --> 00:39:50,780
+a few coins has been a successful business model
+
+602
+00:39:50,781 --> 00:39:51,760
+for half a century.
+
+603
+00:39:51,920 --> 00:39:55,920
+Seacoast Manufacturing in Fairhope, Alabama,
+
+604
+00:39:55,921 --> 00:39:59,920
+designs and manufactures classic coin-operated viewers
+
+605
+00:39:59,921 --> 00:40:04,920
+that have given us up-close looks at iconic places since 1960.
+
+606
+00:40:04,921 --> 00:40:08,920
+You put your money in, you wind it up, and you have a view.
+
+607
+00:40:08,921 --> 00:40:11,920
+You don't vend anything.
+
+608
+00:40:11,921 --> 00:40:16,920
+You're vending a view of something that's already there.
+
+609
+00:40:16,921 --> 00:40:18,920
+It's a simple concept,
+
+610
+00:40:18,921 --> 00:40:21,920
+But these telescopes and binoculars are tough,
+
+611
+00:40:22,020 --> 00:40:25,920
+built to withstand almost anything, even hurricanes.
+
+612
+00:40:26,020 --> 00:40:28,920
+I remember a time that one had been underwater
+
+613
+00:40:29,020 --> 00:40:31,920
+after a hurricane for two weeks.
+
+614
+00:40:32,020 --> 00:40:35,920
+And in a matter of two hours, Dad and I cleaned it up,
+
+615
+00:40:36,020 --> 00:40:37,920
+and it was back working.
+
+616
+00:40:38,020 --> 00:40:40,920
+The secret to this incredible durability?
+
+617
+00:40:41,020 --> 00:40:44,920
+Stainless steel, aluminum, and brass bodies.
+
+618
+00:40:45,020 --> 00:40:47,920
+And a complete lack of electronics.
+
+619
+00:40:47,921 --> 00:40:51,920
+No batteries, no wires, no power adapters.
+
+620
+00:40:51,921 --> 00:40:55,920
+Just a simple mechanism that works like a wind-up clock.
+
+621
+00:40:55,921 --> 00:40:59,920
+When coins are inserted, they trigger a timing mechanism
+
+622
+00:40:59,921 --> 00:41:03,920
+that flips open a shutter. The timing mechanism
+
+623
+00:41:03,921 --> 00:41:07,920
+holds the shutter open for a minute and a half, and then flips it back
+
+624
+00:41:07,921 --> 00:41:11,920
+over the eyepiece.
+
+625
+00:41:11,921 --> 00:41:15,920
+What's great about these machines is that they are made to
+
+626
+00:41:15,921 --> 00:41:21,920
+to extend the elements, you know, extreme heat, extreme cold, very little maintenance.
+
+627
+00:41:21,921 --> 00:41:29,920
+These machines are built to last, using time-tested techniques that have changed very little in half a century.
+
+628
+00:41:33,920 --> 00:41:41,920
+The only change since 1960 is that you had to put a dime in it and now you have to put 50 cents in it.
+
+629
+00:41:41,921 --> 00:41:44,800
+The only change is change.
+
+630
+00:41:48,260 --> 00:41:50,060
+Today, for just two quarters,
+
+631
+00:41:50,680 --> 00:41:54,180
+anyone can enjoy an up-close view of the natural world
+
+632
+00:41:54,181 --> 00:41:56,260
+or the man-made one.
+
+633
+00:41:57,280 --> 00:41:59,820
+It's a coin-operated beast for the eyes
+
+634
+00:41:59,821 --> 00:42:02,160
+until your minute and a half is up.
+
+635
+00:42:02,900 --> 00:42:04,300
+And when that happens,
+
+636
+00:42:04,680 --> 00:42:08,000
+there will always be somewhere else to drop those extra coins.
+
+637
+00:42:08,001 --> 00:42:14,620
+because even in a world that's becoming less dependent on small change,
+
+638
+00:42:15,400 --> 00:42:20,060
+those pennies, dimes, nickels, quarters, and Lincoln dollars
+
+639
+00:42:20,061 --> 00:42:22,620
+can always go into a piggy bank.
+
+640
+00:42:23,220 --> 00:42:24,440
+That's just good sense.
+

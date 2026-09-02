@@ -1,0 +1,2304 @@
+1
+00:00:00,001 --> 00:00:05,000
+Extruders, molds, injectors.
+
+2
+00:00:05,001 --> 00:00:10,000
+Are these machines manufacturing adhesive, plastics, or parts that go in your car?
+
+3
+00:00:10,001 --> 00:00:11,000
+No.
+
+4
+00:00:11,001 --> 00:00:14,000
+They're making treats that melt in your mouth, not in your hand.
+
+5
+00:00:14,001 --> 00:00:22,000
+Sit back, relax, and grab a candy bar, potato chip, pretzel lollipop, ice cream cone, or a cupcake
+
+6
+00:00:22,001 --> 00:00:25,000
+while we say a mouthful about some of the world's favorite snacks.
+
+7
+00:00:25,001 --> 00:00:29,000
+Now, Snack Food Tech on Modern Marvels.
+
+8
+00:00:30,000 --> 00:00:44,000
+Friars that cook thousands of pounds of sizzling potato chips an hour.
+
+9
+00:00:49,000 --> 00:00:51,840
+Machines that wrap candy faster than the eye can see.
+
+10
+00:00:52,380 --> 00:00:55,180
+Plants that chill millions of gallons of ice cream a year.
+
+11
+00:00:55,181 --> 00:01:00,860
+The snack food industry believes in outsized productivity and speed
+
+12
+00:01:00,861 --> 00:01:05,680
+And it shows no signs of slowing down
+
+13
+00:01:05,681 --> 00:01:11,980
+I always think machines are so fast, I don't know how we'll ever go faster
+
+14
+00:01:11,981 --> 00:01:20,260
+And three or four or five years later, we're able to design new machinery that can go faster
+
+15
+00:01:20,261 --> 00:01:25,660
+It's taken faster machines to keep pace with consumers' demands.
+
+16
+00:01:26,660 --> 00:01:32,400
+Fifty years ago, snacks were not the grab-and-go product that they are today.
+
+17
+00:01:32,780 --> 00:01:35,980
+Now they are everywhere in every form that you can imagine.
+
+18
+00:01:36,300 --> 00:01:37,480
+They fit in your cup holders.
+
+19
+00:01:37,940 --> 00:01:39,300
+They fit in your lunchbox.
+
+20
+00:01:39,500 --> 00:01:40,920
+They fit in your sport coat.
+
+21
+00:01:41,180 --> 00:01:43,700
+They fit wherever you are, whatever you are.
+
+22
+00:01:43,701 --> 00:01:50,700
+And profits have followed productivity.
+
+23
+00:01:51,280 --> 00:02:00,220
+In the United States, about $20 to $25 billion worth of confectionery products are sold every year.
+
+24
+00:02:00,940 --> 00:02:01,820
+That's a lot of candy.
+
+25
+00:02:02,440 --> 00:02:07,180
+But it takes 24 pounds of candy a year to satisfy the average American sweet tooth.
+
+26
+00:02:08,220 --> 00:02:12,800
+Mars Incorporated, the private company that makes Snickers, Milky Way and M&M's,
+
+27
+00:02:12,801 --> 00:02:16,040
+has sales of $16 billion worldwide.
+
+28
+00:02:19,260 --> 00:02:21,840
+An army of warm nougat and caramel
+
+29
+00:02:21,841 --> 00:02:23,700
+marches down a conveyor belt.
+
+30
+00:02:24,360 --> 00:02:25,720
+While hundreds of feet ahead,
+
+31
+00:02:26,240 --> 00:02:27,660
+a flood of chocolate awaits.
+
+32
+00:02:28,580 --> 00:02:30,640
+Those bars are actually going to flow
+
+33
+00:02:30,641 --> 00:02:33,840
+under a waterfall or a curtain of chocolate.
+
+34
+00:02:34,280 --> 00:02:36,160
+Someplace that we probably would all like to do
+
+35
+00:02:36,161 --> 00:02:37,080
+sometime in our lives.
+
+36
+00:02:38,500 --> 00:02:41,540
+Although there's a fantastic aspect to a candy plant
+
+37
+00:02:41,541 --> 00:02:44,140
+that immediately conjures Charlie and the Chocolate Factory.
+
+38
+00:02:44,720 --> 00:02:47,500
+What goes on inside is hardly child's play.
+
+39
+00:02:48,540 --> 00:02:54,960
+Overall in this plant, we make over 30 million pieces of candy a day.
+
+40
+00:02:55,560 --> 00:02:56,980
+It's a tremendous amount of volume.
+
+41
+00:02:57,300 --> 00:03:01,360
+That would equate to maybe close to 100,000 metric tons a year of product.
+
+42
+00:03:02,520 --> 00:03:04,940
+It's impossible to know where it all began,
+
+43
+00:03:05,460 --> 00:03:08,860
+but certainly humankind's sweet tooth predates recorded history.
+
+44
+00:03:08,861 --> 00:03:14,580
+The first caveman, when he went out there looking for something tasty and realized that honey was sweet,
+
+45
+00:03:14,581 --> 00:03:17,020
+then maybe took a stick and poked it in there.
+
+46
+00:03:17,340 --> 00:03:20,261
+You could say that could be the theoretical origin of lollipops, right?
+
+47
+00:03:20,262 --> 00:03:20,962
+Honey on a stick.
+
+48
+00:03:23,780 --> 00:03:29,580
+Ancient Egyptians, Arabs, and Chinese all made confections from nuts and fruits candied in honey.
+
+49
+00:03:30,720 --> 00:03:34,780
+And by the 17th century, the English were making treats out of boiled sugar.
+
+50
+00:03:35,720 --> 00:03:40,200
+The other motherlode for the world's sweet tooth was the discovery of chocolate.
+
+51
+00:03:43,120 --> 00:03:49,580
+Cocoa trees, the source of chocolate, were being cultivated in Mesoamerica several thousand years ago by the Maya.
+
+52
+00:03:51,540 --> 00:03:59,060
+In 1519, the Aztec ruler Montezuma served Cortes a golden goblet full of a drink called xocolatl,
+
+53
+00:03:59,440 --> 00:04:01,580
+a spiced concoction of ground cocoa beans.
+
+54
+00:04:01,581 --> 00:04:07,040
+Cortes returned to Spain with both the drink's recipe and a supply of beans.
+
+55
+00:04:08,480 --> 00:04:12,900
+Sweetened with cane sugar, the chocolate drink was a hit among European aristocracy.
+
+56
+00:04:13,980 --> 00:04:19,520
+People started to drink it, and during that time frame, all sorts of weird things were mixed with it.
+
+57
+00:04:19,620 --> 00:04:26,620
+There's some historical information that people mixed blood with it, they mixed licorice with it, they mixed all sorts of things.
+
+58
+00:04:26,621 --> 00:04:32,520
+But it would take another 300 years for Europeans to manufacture a creamy, solid chocolate.
+
+59
+00:04:33,640 --> 00:04:34,535
+In 1828, C.J.
+
+60
+00:04:34,536 --> 00:04:40,800
+Van Houten, a Dutch chocolate maker, invented a manual cocoa press that made this possible.
+
+61
+00:04:42,020 --> 00:04:48,080
+At the 1893 World's Fair in Chicago, Milton Hershey purchased German chocolate-making machinery
+
+62
+00:04:48,081 --> 00:04:53,020
+and began producing chocolate bars in his Lancaster, Pennsylvania factory in 1894.
+
+63
+00:04:53,021 --> 00:04:58,020
+The mass-produced American chocolate bar was born.
+
+64
+00:04:58,021 --> 00:05:03,020
+Milton Hershey is credited with kind of creating the candy bar in the United States.
+
+65
+00:05:03,021 --> 00:05:07,020
+He took milk chocolate and started selling for a nickel apiece.
+
+66
+00:05:07,021 --> 00:05:11,020
+Since those early days, demand for cocoa has never waned.
+
+67
+00:05:11,021 --> 00:05:16,020
+Today, it's grown and harvested as it has been for hundreds of years.
+
+68
+00:05:16,021 --> 00:05:21,020
+This pod will sit right onto a branch, and it'll sit something like that.
+
+69
+00:05:21,021 --> 00:05:24,020
+And how it's harvested is pretty simplistic.
+
+70
+00:05:24,021 --> 00:05:29,020
+A machete comes by, chops it right off, pod falls to the ground.
+
+71
+00:05:29,021 --> 00:05:33,020
+They take that same machete, chop it, split it open.
+
+72
+00:05:33,021 --> 00:05:36,020
+And inside the pod is something called the placenta.
+
+73
+00:05:36,021 --> 00:05:38,020
+It's a very wet, moist bean.
+
+74
+00:05:38,021 --> 00:05:40,020
+It doesn't even look like a bean.
+
+75
+00:05:42,020 --> 00:05:44,020
+The beans are fermented to bring out their flavor
+
+76
+00:05:44,021 --> 00:05:46,020
+and then shipped to, among other places,
+
+77
+00:05:46,021 --> 00:05:50,020
+the U.S. Division of Mars Incorporated, Master Foods USA.
+
+78
+00:05:51,020 --> 00:05:58,140
+At the factory, the beans are cleaned, roasted, shelled, and ground into a liquid called chocolate liqueur.
+
+79
+00:05:59,940 --> 00:06:03,220
+Presses separate this liquid into cocoa powder and cocoa butter.
+
+80
+00:06:05,160 --> 00:06:09,000
+Chocolate liqueur and additional cocoa butter are the main ingredients of chocolate.
+
+81
+00:06:10,980 --> 00:06:17,160
+Milk solids, sweeteners, and flavors are added to the mix, which is then blended to distribute the cocoa fat in the chocolate.
+
+82
+00:06:17,161 --> 00:06:23,040
+This process is much the same today as it was in 1923
+
+83
+00:06:23,041 --> 00:06:26,540
+When Frank C. Mars introduced the Milky Way
+
+84
+00:06:26,541 --> 00:06:28,640
+The nation's first filled candy bar
+
+85
+00:06:28,641 --> 00:06:32,300
+Mars was a successful candy salesman
+
+86
+00:06:32,301 --> 00:06:34,760
+Who had started his business with his wife, Ethel
+
+87
+00:06:34,761 --> 00:06:36,680
+In their Tacoma, Washington kitchen
+
+88
+00:06:36,681 --> 00:06:41,100
+But it was the popularity of the chocolate malted milkshake
+
+89
+00:06:41,101 --> 00:06:44,640
+That gave Mars the idea of creating a portable bite-sized version
+
+90
+00:06:44,641 --> 00:06:49,640
+The Milky Way bar was an overnight sensation.
+
+91
+00:06:49,641 --> 00:06:51,640
+Mars Incorporated was born.
+
+92
+00:06:51,641 --> 00:06:56,640
+But Frank Mars needed a large plant to keep pace with the demand for his new product.
+
+93
+00:06:56,641 --> 00:07:02,640
+The reason he chose Chicago was because of its national distribution potential, rail access in and out,
+
+94
+00:07:02,641 --> 00:07:07,640
+bringing raw materials in to make the product, as well as being able to ship the product out by rail.
+
+95
+00:07:07,641 --> 00:07:13,460
+The history of this particular plant is that we really began production in 1929
+
+96
+00:07:13,461 --> 00:07:17,260
+with the Milky Way bar shortly followed in 1930 by the Snickers
+
+97
+00:07:17,261 --> 00:07:20,240
+and then the Three Musketeers bars in 1932.
+
+98
+00:07:21,180 --> 00:07:24,720
+At the plant, candy manufacture, though scaled up,
+
+99
+00:07:24,860 --> 00:07:27,280
+was still a handmade single-batch process.
+
+100
+00:07:27,780 --> 00:07:29,560
+If you look at the Chicago factory,
+
+101
+00:07:29,840 --> 00:07:32,520
+and if you look at what it would have been like in the 1930s,
+
+102
+00:07:32,820 --> 00:07:34,880
+it's much like what your kitchen is today,
+
+103
+00:07:35,400 --> 00:07:37,040
+except on a larger scale.
+
+104
+00:07:37,041 --> 00:07:44,340
+Those were mechanical items physically done by hand, which would require someone to mix it first.
+
+105
+00:07:44,820 --> 00:07:48,200
+Then they would have to put the product on a slab, lay that out by hand.
+
+106
+00:07:48,560 --> 00:07:53,000
+They literally would then take a cutter and cut the product by hand.
+
+107
+00:07:53,300 --> 00:08:01,340
+So the continuous processing was the big change that really was the leap forward in being able to mass produce the candy products.
+
+108
+00:08:01,341 --> 00:08:12,280
+Continuous processing, a series of machines in sequence that move product from mixing through wrapping without stopping, came to the plant in 1947.
+
+109
+00:08:13,360 --> 00:08:22,320
+Today, this process is still used to make all Master Foods products, from M&M's to Milky Way to these Snickers bars, named after the Mars family's favorite horse.
+
+110
+00:08:22,321 --> 00:08:30,880
+The first process is really the whipping of egg white along with some cooked corn syrup,
+
+111
+00:08:30,881 --> 00:08:38,280
+which includes some salt and some water and sugar because we want a high impact of peanut
+
+112
+00:08:38,281 --> 00:08:39,280
+flavor in Snickers.
+
+113
+00:08:39,281 --> 00:08:43,200
+We're adding fresh ground peanut butter to that mixture.
+
+114
+00:08:43,201 --> 00:08:46,520
+We can't have a great Snickers bar without having great caramel.
+
+115
+00:08:46,521 --> 00:08:52,120
+And it comes into this area, into the blender, where it's now being blended with our own
+
+116
+00:08:52,121 --> 00:08:53,220
+fresh roasted peanuts.
+
+117
+00:08:54,740 --> 00:08:57,620
+Although the process may look simple, it's not.
+
+118
+00:08:58,280 --> 00:09:01,680
+Time and temperature are very, very critical components.
+
+119
+00:09:02,280 --> 00:09:07,620
+And for us, monitoring those closely, as well as even basic things like humidity, which
+
+120
+00:09:07,621 --> 00:09:12,020
+could cause the candy to become very sticky and difficult to handle, are all very critical.
+
+121
+00:09:12,021 --> 00:09:18,600
+For a line like this that has a capacity of making 50 or 60 tons of product to shift,
+
+122
+00:09:18,980 --> 00:09:24,680
+you can imagine if one of those parameters would get out of control, you'd have quite a sticky mess in your hands.
+
+123
+00:09:26,760 --> 00:09:31,560
+The 195-degree nougat flows downstairs and into a hopper.
+
+124
+00:09:31,860 --> 00:09:35,220
+It's then squeezed between two ice-cold stainless steel rollers.
+
+125
+00:09:35,221 --> 00:09:44,180
+And the material spreads out into a slab that then is peeled off of those rollers and laid down onto a stainless steel belt to be further cooled.
+
+126
+00:09:44,540 --> 00:09:47,680
+And then head towards the area where we can actually put caramel on top.
+
+127
+00:09:48,960 --> 00:09:59,080
+The combined slab will be cooled further to 65 degrees Fahrenheit so that it can be cut cleanly into strips the exact width of a Snickers bar without chocolate on it.
+
+128
+00:10:00,280 --> 00:10:03,920
+The caramel and nougat slab is now warm for enrobing.
+
+129
+00:10:03,921 --> 00:10:07,920
+That's industry speak for getting its chocolate covering.
+
+130
+00:10:07,921 --> 00:10:12,920
+The chocolate has been tempered, heated and cooled in a way that ensures a more uniform
+
+131
+00:10:12,921 --> 00:10:17,920
+crystallization of cocoa butter within the chocolate, resulting in a higher melting point.
+
+132
+00:10:17,921 --> 00:10:22,920
+Which makes that chocolate easier to handle in your hands at room temperature and at body temperature.
+
+133
+00:10:22,921 --> 00:10:28,920
+Really what we want is we want that chocolate to melt in your mouth, but not in your hands.
+
+134
+00:10:28,921 --> 00:10:33,960
+Then the bars are vibrated to rid them of air bubbles and to evenly distribute the chocolate.
+
+135
+00:10:34,980 --> 00:10:38,160
+The tempering process continues as the bars head toward wrapping.
+
+136
+00:10:39,960 --> 00:10:46,860
+The Snickers bars receive a final inspection before being wrapped at rates of between 800 and 900 bars per minute.
+
+137
+00:10:47,720 --> 00:10:52,100
+The results of all this work for Master Foods is a spectacular payoff.
+
+138
+00:10:52,101 --> 00:10:59,100
+The Snicker bar, while invented in 1930 today, is one of the top selling confectionery brands in the world.
+
+139
+00:10:59,101 --> 00:11:00,700
+Two billion in global sales.
+
+140
+00:11:03,400 --> 00:11:13,580
+But Snickers is only one of the company's many brands, which include M&Ms, Twix, Starburst, Skittles, Milky Way, Kudos, and Three Musketeers.
+
+141
+00:11:14,980 --> 00:11:19,500
+At the Chicago plant, they also make the newest product, the Amazing Bar.
+
+142
+00:11:19,501 --> 00:11:23,080
+a molded milk chocolate bar with embedded M&M's minis.
+
+143
+00:11:26,060 --> 00:11:29,680
+And Poppables, candy bars in a bite-sized format.
+
+144
+00:11:30,740 --> 00:11:34,460
+The company is privately held and run by the fourth generation of the Mars family.
+
+145
+00:11:34,860 --> 00:11:36,980
+With products sold in over 100 countries,
+
+146
+00:11:37,540 --> 00:11:39,980
+they've come a long way from Frank and Ethel Mars' kitchen.
+
+147
+00:11:45,920 --> 00:11:49,480
+Creativity in the kitchen was also the genesis of this popular snack.
+
+148
+00:11:49,500 --> 00:11:52,920
+Potato chips are made from special potatoes
+
+149
+00:11:52,921 --> 00:11:56,880
+And more of them are grown here in this potato chip powerhouse state
+
+150
+00:11:56,881 --> 00:11:59,040
+Than anywhere else
+
+151
+00:11:59,041 --> 00:12:01,400
+And no, it's not Idaho
+
+152
+00:12:01,401 --> 00:12:07,980
+The melting point of cocoa butter between 97 and 99 degrees Fahrenheit
+
+153
+00:12:07,981 --> 00:12:10,320
+Is right at human body temperature
+
+154
+00:12:10,321 --> 00:12:12,900
+Which is why chocolate melts in your mouth
+
+155
+00:12:12,901 --> 00:12:15,980
+Snack food tech will return on Modern Marvels
+
+156
+00:12:15,981 --> 00:12:21,360
+We now return to Snack Food Tech on Modern Marvels.
+
+157
+00:12:24,220 --> 00:12:28,720
+Americans eat $24 billion worth of savory snacks a year.
+
+158
+00:12:29,120 --> 00:12:33,760
+That's loads of potato chips, corn chips, pretzels, and just about anything you can put salt on.
+
+159
+00:12:35,200 --> 00:12:41,380
+Nine of the ten top-selling brands are made by one company, Frito-Lay, the biggest player in the industry.
+
+160
+00:12:42,260 --> 00:12:45,060
+Even though you have one large national player,
+
+161
+00:12:45,400 --> 00:12:50,660
+you do have dozens of strong, mostly family-owned regional companies.
+
+162
+00:12:53,440 --> 00:12:56,200
+Pennsylvania, the chipping potato state.
+
+163
+00:12:56,980 --> 00:12:59,200
+That moniker probably won't replace the state motto,
+
+164
+00:12:59,420 --> 00:13:02,760
+but the area around Hanover and York in southeastern Pennsylvania
+
+165
+00:13:02,761 --> 00:13:05,080
+is nicknamed the potato chip belt.
+
+166
+00:13:05,500 --> 00:13:06,520
+For a reason.
+
+167
+00:13:06,521 --> 00:13:13,620
+Not just any old potato is fit to become a potato chip.
+
+168
+00:13:15,100 --> 00:13:20,420
+They're bred specifically for that purpose, to be round and to have low moisture content.
+
+169
+00:13:21,120 --> 00:13:24,940
+Water has to be cooked out, and too much of it leads to a bland-tasting chip.
+
+170
+00:13:26,900 --> 00:13:31,720
+Although the potato was discovered and cultivated by pre-Columbian farmers in the Andes Mountains,
+
+171
+00:13:32,640 --> 00:13:36,720
+It took several thousand years for someone to stumble on the idea for the potato chip.
+
+172
+00:13:38,380 --> 00:13:45,440
+In 1853, George Crumb was working as a chef at the upscale Moon Lake Lodge in Saratoga Springs, New York.
+
+173
+00:13:46,760 --> 00:13:52,180
+The quick-tempered chef was insulted when a patron returned some French fries because they were too thick.
+
+174
+00:13:52,520 --> 00:13:58,720
+In response, Crumb cut the potatoes thin as paper, fried them to a crisp, and sent them back to the table.
+
+175
+00:13:59,540 --> 00:14:01,340
+Of course, the chips were a hit.
+
+176
+00:14:01,720 --> 00:14:05,375
+He created a brand new product. There was no R&D involved with it.
+
+177
+00:14:05,376 --> 00:14:06,760
+It was totally impulsive.
+
+178
+00:14:07,260 --> 00:14:13,860
+The ingredients involved with this was anger and maybe a little bit of exacting of revenge.
+
+179
+00:14:14,540 --> 00:14:19,320
+By the 20th century, people began frying chips in their kitchens and selling them locally.
+
+180
+00:14:20,020 --> 00:14:22,640
+This was especially prevalent in southeastern Pennsylvania.
+
+181
+00:14:23,620 --> 00:14:30,160
+They tended to have the entrepreneurial spirit, independent, some people would say hard-headed,
+
+182
+00:14:30,161 --> 00:14:34,100
+but they'd like to be on their own and be self-sufficient.
+
+183
+00:14:34,560 --> 00:14:39,320
+They were growing potatoes, plus the capital expenditure to get into the business
+
+184
+00:14:39,321 --> 00:14:45,580
+with those early, very simple equipment and production methods was low cost and easy.
+
+185
+00:14:46,380 --> 00:14:51,360
+In 1921, Butts Quality Foods in Hanover, Pennsylvania was launched
+
+186
+00:14:51,361 --> 00:14:54,420
+with this combination of modest expense and hard work.
+
+187
+00:14:54,421 --> 00:15:01,840
+My grandfather, William Butts, was a factory worker at Hanover Shoe in Hanover,
+
+188
+00:15:02,420 --> 00:15:05,480
+and Sally, his wife, was a homemaker.
+
+189
+00:15:06,560 --> 00:15:10,560
+Bill heard about an older gentleman in York, Pennsylvania,
+
+190
+00:15:10,740 --> 00:15:14,240
+who had a small chip kettle that wanted to get out of the business,
+
+191
+00:15:14,241 --> 00:15:18,560
+so he quit his job in Hanover Shoe, scraped the other $300,
+
+192
+00:15:18,561 --> 00:15:24,400
+bought the equipment and brought it to their home in downtown Hanover.
+
+193
+00:15:24,820 --> 00:15:29,160
+So from that point, Grandma Salie began cooking the chips,
+
+194
+00:15:29,380 --> 00:15:32,620
+and Bill would go door to door selling them.
+
+195
+00:15:33,480 --> 00:15:38,080
+By 1930, Hanover home brand potato chip, as the company was called at the time,
+
+196
+00:15:38,500 --> 00:15:40,420
+expanded to a building behind the house.
+
+197
+00:15:41,280 --> 00:15:46,320
+By 1936, their automatic potato chip cooker was frying 300 pounds of chips an hour.
+
+198
+00:15:47,160 --> 00:15:49,640
+His early cooker was a quantum leap forward.
+
+199
+00:15:51,020 --> 00:15:55,720
+But nothing compared to this contemporary $5.2 million fryer.
+
+200
+00:15:57,540 --> 00:16:01,000
+We're now at the beginning of one of our continuous fryers.
+
+201
+00:16:01,080 --> 00:16:02,240
+This is our biggest fryer.
+
+202
+00:16:02,800 --> 00:16:06,980
+It's capable of doing 4,200 pounds of chips in an hour.
+
+203
+00:16:07,940 --> 00:16:11,100
+Before the chips hit the oil, the potatoes must be sorted.
+
+204
+00:16:11,101 --> 00:16:20,580
+One of the things a lot of people don't realize is we have to sort the potatoes into various sizes in order to get those potatoes in the bags.
+
+205
+00:16:20,960 --> 00:16:24,960
+You use big potatoes for big bags and small potatoes for small bags.
+
+206
+00:16:25,840 --> 00:16:33,480
+These potatoes, a variety called Snowdens, are pumped into the plant in a flume of water that efficiently washes them as it moves them.
+
+207
+00:16:34,480 --> 00:16:37,180
+It takes four pounds of potatoes to make a pound of chips.
+
+208
+00:16:37,181 --> 00:16:39,248
+This is a modern peeler.
+
+209
+00:16:39,249 --> 00:16:46,140
+There are a series of drums where we can adjust the abrasive inside those drums.
+
+210
+00:16:46,780 --> 00:16:53,860
+Depending on the kind of potato and the toughness of the skin, we will literally rub the outside off.
+
+211
+00:16:54,780 --> 00:16:57,820
+The peels aren't wasted. They'll be sold for animal feed.
+
+212
+00:16:59,200 --> 00:17:01,680
+Once peeled, the potatoes are off to the slicer.
+
+213
+00:17:01,681 --> 00:17:05,680
+a spinning ring of surgical steel blades set with a micrometer,
+
+214
+00:17:06,300 --> 00:17:12,960
+to a slice thickness of between .045 and .065 inches for their various chips.
+
+215
+00:17:14,840 --> 00:17:17,180
+After excess moisture is blown off,
+
+216
+00:17:17,560 --> 00:17:22,440
+they're carried into a bath in 2,800 gallons of 350-degree cottonseed oil.
+
+217
+00:17:23,460 --> 00:17:27,880
+There are actually hole-down belts that are inside this continuous fryer
+
+218
+00:17:27,881 --> 00:17:31,120
+that push the slices down into the oil,
+
+219
+00:17:31,121 --> 00:17:38,780
+and then there are paddles on those belts so that they bring those slices along and turn them into chips as they come through the hot oil.
+
+220
+00:17:40,180 --> 00:17:44,200
+Salt is added to the chips as they come out of the fryer, and they're immediately inspected.
+
+221
+00:17:46,000 --> 00:17:54,580
+Right after the chips are salted, they go through a machine that actually sorts out the dark chips or the chips that have blemishes.
+
+222
+00:17:54,581 --> 00:18:02,580
+This machine has cameras in it and is set so that when it detects any kind of blemish
+
+223
+00:18:02,581 --> 00:18:08,580
+or dark spot, it hits that chip with a puff of air and puts it down into a channel to
+
+224
+00:18:08,581 --> 00:18:13,580
+have it removed from the stream of chips.
+
+225
+00:18:13,581 --> 00:18:18,580
+Pickers will then inspect the chips again before they fall into buckets on the weigh scales.
+
+226
+00:18:18,581 --> 00:18:21,700
+The weight in each bucket is registered on a computer,
+
+227
+00:18:22,420 --> 00:18:25,840
+and then the exact combination of buckets are opened up
+
+228
+00:18:25,841 --> 00:18:30,740
+to get the weight in the bag within one gram of what is called for.
+
+229
+00:18:32,120 --> 00:18:35,380
+The bags are flushed with nitrogen before the chips go in.
+
+230
+00:18:36,460 --> 00:18:40,160
+They'll last five weeks longer in a nitrogen environment than they would in oxygen,
+
+231
+00:18:40,680 --> 00:18:42,200
+up to eight weeks on the shelf.
+
+232
+00:18:42,201 --> 00:18:54,240
+Utz makes one million pounds of potato chips a week in over 100 varieties, including old-fashioned hand-cooked chips.
+
+233
+00:18:54,600 --> 00:19:02,620
+As far as hand-cooked potato chips, we have a broader range of varieties than anybody in the industry
+
+234
+00:19:02,621 --> 00:19:10,920
+with offerings cooked in cottonseed oil, peanut oil, hydrogenated shortening, primarily soybean shortening,
+
+235
+00:19:10,921 --> 00:19:17,360
+and lard, which a lot of people would think would not be appealing,
+
+236
+00:19:17,520 --> 00:19:23,580
+but there's a very strong demand in central Pennsylvania for a lard-based product.
+
+237
+00:19:24,720 --> 00:19:27,520
+Down the road from Utz is Snyder's of Hanover,
+
+238
+00:19:27,860 --> 00:19:30,500
+which began in 1909 as a regional company
+
+239
+00:19:30,501 --> 00:19:33,660
+and has become the largest pretzel bakery in the country.
+
+240
+00:19:33,661 --> 00:19:36,042
+Founded by Harry V.
+
+241
+00:19:36,043 --> 00:19:45,820
+Wareheim, Hanover Pretzel Company had at the time one product, a soft pretzel.
+
+242
+00:19:46,420 --> 00:19:52,140
+Growth was slow and steady, but things really took off in the 60s with the purchase of a hard pretzel recipe.
+
+243
+00:19:53,060 --> 00:19:58,160
+In the early 70s, Michael Wareheim, Harry's grandson and the company's current chairman,
+
+244
+00:19:58,840 --> 00:20:02,380
+began testing the idea of calling the company's hard pretzel sourdough.
+
+245
+00:20:02,381 --> 00:20:11,080
+It was really once they named the product Sourdough Hard Pretzels and Mike adopted a box format for packaging the product
+
+246
+00:20:11,081 --> 00:20:16,280
+that they started to be able to gain distribution really across the United States throughout the 80s.
+
+247
+00:20:16,540 --> 00:20:20,720
+And it became the country's number one selling pretzels through the mid-90s.
+
+248
+00:20:21,880 --> 00:20:28,280
+Although Snyder's roots can be traced to the early 20th century, pretzels origins go back much further.
+
+249
+00:20:28,980 --> 00:20:32,480
+We can trace the roots of pretzels back to 610 A.D.
+
+250
+00:20:33,000 --> 00:20:35,940
+when monks in a monastery in southern France
+
+251
+00:20:35,941 --> 00:20:41,580
+came up with the idea of utilizing the scraps left over from baking fresh bread.
+
+252
+00:20:42,300 --> 00:20:47,660
+What he was basically trying to do was create the shape of children's arms folded in prayer.
+
+253
+00:20:48,380 --> 00:20:52,120
+It was known as a praetiole, Latin for little reward,
+
+254
+00:20:52,420 --> 00:20:54,600
+and was given to children once they had said their prayers.
+
+255
+00:20:55,840 --> 00:20:57,700
+It doesn't take much to make a pretzel.
+
+256
+00:20:58,280 --> 00:21:03,480
+You take some dough, twist it, bake it, and presto, you've got a pretzel.
+
+257
+00:21:03,481 --> 00:21:08,400
+But what if you wanted to make tons of pretzels an hour?
+
+258
+00:21:08,401 --> 00:21:10,640
+Over here, we're in our twister section.
+
+259
+00:21:10,641 --> 00:21:13,720
+This is where we make our sourdough hard pretzels.
+
+260
+00:21:13,721 --> 00:21:17,520
+We're taking a chunk of dough, putting it in the hopper of this unit.
+
+261
+00:21:17,521 --> 00:21:21,320
+In this hopper, there's also an auger that extrudes out a dough ball.
+
+262
+00:21:21,321 --> 00:21:23,840
+It's rolled out between a series of rollers.
+
+263
+00:21:23,841 --> 00:21:28,820
+Once we get a noodle roll, there's two mechanical fingers that actually hand-tie the pretzel.
+
+264
+00:21:29,400 --> 00:21:34,160
+That takes us from maybe 100 pounds an hour that might have been expected in the 30s
+
+265
+00:21:34,161 --> 00:21:36,400
+when this first automation hit the category,
+
+266
+00:21:36,760 --> 00:21:40,900
+to today where we'll produce in many of these ovens over 2,000 pounds an hour.
+
+267
+00:21:42,220 --> 00:21:46,220
+It'll take between 7 and 15 minutes for these pretzels to reach the oven.
+
+268
+00:21:46,660 --> 00:21:50,000
+During that time, yeast converts fermentable sugars in the dough
+
+269
+00:21:50,001 --> 00:21:54,600
+into the leavening gas, carbon dioxide, causing the dough to rise.
+
+270
+00:21:56,140 --> 00:21:57,740
+You're doing two things in an oven.
+
+271
+00:21:58,140 --> 00:22:03,300
+You're baking in the top zone, and in the bottom zone of the oven is a kiln or dry zone.
+
+272
+00:22:03,880 --> 00:22:09,300
+During the baking process, you're also developing flavor and aroma at that point in time.
+
+273
+00:22:10,240 --> 00:22:15,180
+Once you get to the end of the oven, you drop your product into a kiln zone, which is a drying zone.
+
+274
+00:22:15,181 --> 00:22:23,020
+The pretzels, which started with between 46 and 48 percent moisture, have had that baked
+
+275
+00:22:23,021 --> 00:22:28,560
+down to between 16 and 19 percent in the top of the oven.
+
+276
+00:22:28,561 --> 00:22:33,940
+In the bottom kiln zone, that will drop to between 4 and 5 percent.
+
+277
+00:22:33,941 --> 00:22:41,880
+Then the pretzels will be cooled, packaged, and palletized, stacked on pallets, to be
+
+278
+00:22:41,881 --> 00:22:47,380
+shipped to markets in Europe, the Middle East, Asia, Pacific Rim countries, and North and
+
+279
+00:22:47,381 --> 00:22:51,640
+South America. Efficiently marketing to the world begins here.
+
+280
+00:22:51,641 --> 00:22:54,892
+This palletizing unit was installed in August of 2002.
+
+281
+00:22:54,893 --> 00:22:57,060
+It was a capital investment of close
+
+282
+00:22:57,061 --> 00:23:01,020
+to two and a half million dollars, and we clearly had the good justification to pay
+
+283
+00:23:01,021 --> 00:23:04,493
+that back from a labor efficiency within a couple years.
+
+284
+00:23:04,494 --> 00:23:06,540
+The system is capable of handling
+
+285
+00:23:06,541 --> 00:23:11,860
+about 45 to 60 cases per minute. In a lot of cases, that may translate into about 25
+
+286
+00:23:11,861 --> 00:23:13,860
+to 28,000 cases per shift.
+
+287
+00:23:14,820 --> 00:23:15,920
+Snyder's has expanded
+
+288
+00:23:15,921 --> 00:23:17,800
+into organic
+
+289
+00:23:17,801 --> 00:23:19,780
+pretzels and over 30 different
+
+290
+00:23:19,781 --> 00:23:21,820
+varieties of pretzels, flavors, shapes
+
+291
+00:23:21,821 --> 00:23:23,780
+and forms. With such
+
+292
+00:23:23,781 --> 00:23:25,460
+pretzel flavors as honey barbecue,
+
+293
+00:23:25,800 --> 00:23:27,680
+cheddar cheese, buttermilk ranch,
+
+294
+00:23:27,820 --> 00:23:29,780
+jalapeno pieces and hot
+
+295
+00:23:29,781 --> 00:23:30,640
+buffalo wings.
+
+296
+00:23:32,940 --> 00:23:33,800
+Hey, that's
+
+297
+00:23:33,801 --> 00:23:36,020
+a lot of spice for a 1,400 year old snack.
+
+298
+00:23:38,540 --> 00:23:39,780
+Compared to pretzels,
+
+299
+00:23:39,781 --> 00:23:41,640
+this treats a youngster and it's
+
+300
+00:23:41,641 --> 00:23:44,100
+having an identity crisis.
+
+301
+00:23:44,101 --> 00:23:47,780
+It's not really just a chocolate, and not totally a caramel,
+
+302
+00:23:47,781 --> 00:23:55,400
+and it's not quite a fudge, but it just keeps going and going and going.
+
+303
+00:23:55,401 --> 00:23:58,580
+While the rest of the country eats hard pretzels at a rate of one and a half to
+
+304
+00:23:58,581 --> 00:24:00,480
+two pounds per year,
+
+305
+00:24:00,481 --> 00:24:04,320
+Philadelphians consume twelve times that amount.
+
+306
+00:24:04,321 --> 00:24:06,540
+Snack Food Tech will return
+
+307
+00:24:06,541 --> 00:24:10,440
+on Modern Marvels.
+
+308
+00:24:10,441 --> 00:24:13,440
+We now return to Snack Food Tech on Modern Marbles.
+
+309
+00:24:16,820 --> 00:24:19,320
+Candies have always been made with the same basics.
+
+310
+00:24:19,780 --> 00:24:21,580
+Sweeteners, flavors, and colors.
+
+311
+00:24:23,360 --> 00:24:26,940
+Yes, artificial flavors and colors have made them tastier and brighter.
+
+312
+00:24:27,380 --> 00:24:29,300
+But candy recipes have tended to last.
+
+313
+00:24:30,880 --> 00:24:32,840
+And so have the names on the boxes.
+
+314
+00:24:34,460 --> 00:24:38,560
+65% of American candy brands have been around for more than 50 years.
+
+315
+00:24:39,300 --> 00:24:41,840
+Few have been popular as long as Tootsie Roll.
+
+316
+00:24:48,180 --> 00:24:52,520
+Introduced in 1896, it's more than 100 years old.
+
+317
+00:24:53,980 --> 00:24:56,780
+Tootsie Roll started as a wrapped penny piece,
+
+318
+00:24:57,360 --> 00:25:02,920
+and to this day we do have a very small Tootsie Roll that is a wrapped penny piece.
+
+319
+00:25:03,980 --> 00:25:07,620
+But don't be fooled by its unassuming appearance and modest price.
+
+320
+00:25:07,621 --> 00:25:10,240
+this candy has spawned a confectionery empire.
+
+321
+00:25:11,540 --> 00:25:14,440
+The output at the Chicago Tootsie Roll plant is staggering.
+
+322
+00:25:15,720 --> 00:25:18,240
+They make 83 million Tootsie Rolls a day,
+
+323
+00:25:18,660 --> 00:25:20,160
+16 million mason dots,
+
+324
+00:25:20,440 --> 00:25:22,220
+and about 20 million lollipops.
+
+325
+00:25:23,540 --> 00:25:27,740
+Tootsie Roll Industries grosses approximately $400 million a year.
+
+326
+00:25:28,620 --> 00:25:31,400
+But like most candy companies, it had modest origins.
+
+327
+00:25:33,120 --> 00:25:35,100
+Austrian immigrant Leo Hirschfeld
+
+328
+00:25:35,101 --> 00:25:39,160
+brought his recipe for a chocolate chewy candy to New York City
+
+329
+00:25:39,161 --> 00:25:41,500
+and began manufacture in 1896.
+
+330
+00:25:43,320 --> 00:25:47,260
+He dubbed his sweet Tootsie, his five-year-old daughter's nickname.
+
+331
+00:25:48,280 --> 00:25:52,220
+It wasn't quite a bar of chocolate, and it wasn't quite a caramel,
+
+332
+00:25:52,740 --> 00:25:55,300
+and yet it also wasn't quite a piece of fudge.
+
+333
+00:25:55,640 --> 00:25:57,240
+It was a blend of all of those.
+
+334
+00:25:57,860 --> 00:26:02,860
+You had hundreds of candy shops where they would be making hard candy and soft candy
+
+335
+00:26:02,861 --> 00:26:05,600
+basically by boiling sugar in the back of their shops,
+
+336
+00:26:05,920 --> 00:26:08,240
+and in the front of them they would start to sell their products.
+
+337
+00:26:09,340 --> 00:26:14,660
+By 1905, the Tootsie Roll was established in an already crowded candy marketplace.
+
+338
+00:26:16,360 --> 00:26:19,120
+Tootsie Rolls were cooked on the top of a building,
+
+339
+00:26:19,940 --> 00:26:24,040
+and the candy was cooked in open kettles on sunny days,
+
+340
+00:26:24,180 --> 00:26:25,980
+and on rainy days they couldn't cook.
+
+341
+00:26:26,940 --> 00:26:30,660
+As time went on, the people who actually worked in Tootsie Roll
+
+342
+00:26:30,661 --> 00:26:37,500
+began to invent machinery that could begin to cut the candy instead of by hand by some
+
+343
+00:26:37,501 --> 00:26:42,460
+automated machines. And later on, machines became faster and faster.
+
+344
+00:26:44,740 --> 00:26:48,220
+Today, Tootsie Roll manufacturing is completely automated.
+
+345
+00:26:49,800 --> 00:26:52,296
+We are in the Tootsie Roll process kitchen.
+
+346
+00:26:52,297 --> 00:26:55,140
+We have a total of six Tootsie Roll cookers here,
+
+347
+00:26:55,141 --> 00:27:00,180
+And pre-mix is cocoa, oil, corn syrup, sweetened condensed milk.
+
+348
+00:27:00,720 --> 00:27:05,800
+And we are cooking about 10,000 pounds an hour right now on these two cookers.
+
+349
+00:27:07,120 --> 00:27:12,840
+The mixture is then slowly cooled on this wheel to temper the Tootsie Roll and give it its familiar texture.
+
+350
+00:27:14,220 --> 00:27:17,240
+If you cool it too quickly, it becomes rock hard.
+
+351
+00:27:17,340 --> 00:27:19,600
+If you don't cool it quickly enough, it will never set up.
+
+352
+00:27:20,460 --> 00:27:23,840
+Chocolate may be the most familiar flavor, but it's not the only one.
+
+353
+00:27:23,841 --> 00:27:30,840
+The plant also makes 17 different Tootsie Roll flavors, including grape, orange and cherry.
+
+354
+00:27:30,841 --> 00:27:35,600
+The mixing process for fruit flavors is the same, but the cocoa is replaced with artificial
+
+355
+00:27:35,601 --> 00:27:40,140
+flavors and colors.
+
+356
+00:27:40,141 --> 00:27:45,240
+After mixing in a 30-minute cool-off, the roll passes through an extruder and becomes
+
+357
+00:27:45,241 --> 00:27:46,240
+this slab.
+
+358
+00:27:46,241 --> 00:27:50,540
+No, it's not the latest in supersizing.
+
+359
+00:27:50,541 --> 00:27:53,380
+simply the building block from which all Tootsie Rolls are made.
+
+360
+00:27:54,820 --> 00:28:00,220
+This extruder basically puts it into a 13-pound Tootsie Roll.
+
+361
+00:28:00,780 --> 00:28:05,500
+And we use that 13-pound Tootsie Roll for the basis of all of our wrapping machines.
+
+362
+00:28:06,680 --> 00:28:09,600
+The slab is conveyed into the high-speed wrapping area,
+
+363
+00:28:09,820 --> 00:28:12,560
+where it's pulled and squeezed to the width of a Tootsie Roll.
+
+364
+00:28:12,561 --> 00:28:22,180
+It comes through and gets cut, and then these grippers hold onto it and pass it onto this
+
+365
+00:28:22,181 --> 00:28:27,700
+next set of grippers, which have already had a wrapped Tootsie Roll paper around it, and
+
+366
+00:28:27,701 --> 00:28:31,680
+there's two twister barrels that come and twist the ends of the Tootsie Roll.
+
+367
+00:28:32,760 --> 00:28:37,940
+This all happens at a rate of 1,500 pieces per minute, three times as fast as 10 years
+
+368
+00:28:37,941 --> 00:28:38,641
+ago.
+
+369
+00:28:38,642 --> 00:28:46,040
+The machines better get faster because over the years, the Tootsie Roll line of brands
+
+370
+00:28:46,041 --> 00:28:48,620
+has continued to expand through invention and acquisition.
+
+371
+00:28:49,220 --> 00:28:54,240
+To include Dots, Crows, Sella's, Chocolate-Covered Cherries, Charleston Chew, Fluffy Stuffed
+
+372
+00:28:54,241 --> 00:28:57,600
+Cotton Candies, Andy's Candies, and the Charms line of lollipops.
+
+373
+00:28:58,280 --> 00:29:03,000
+The combination of the Charms line and Tootsie Pops makes Tootsie the largest lollipop producer
+
+374
+00:29:03,001 --> 00:29:03,760
+in the world.
+
+375
+00:29:03,761 --> 00:29:10,940
+Tootsie Pops are cooked, cooled and stretched like Tootsie Rolls, but the actual mechanics
+
+376
+00:29:10,941 --> 00:29:15,248
+of the lollipop making machine are a secret.
+
+377
+00:29:15,249 --> 00:29:19,360
+Once stick, Tootsie Center and Candy Shell
+
+378
+00:29:19,361 --> 00:29:21,360
+are combined, the lollipop must be cooled.
+
+379
+00:29:21,361 --> 00:29:27,860
+This is a fresh Tootsie Roll Pop and as you can tell it's well formed but it's very,
+
+380
+00:29:27,861 --> 00:29:28,561
+very soft.
+
+381
+00:29:28,562 --> 00:29:33,340
+And we have to cool it very carefully because if we let it rest on one side or another,
+
+382
+00:29:33,920 --> 00:29:35,725
+it will become flat.
+
+383
+00:29:35,726 --> 00:29:41,860
+We realize that there's a battle between your tongue and your teeth.
+
+384
+00:29:42,140 --> 00:29:45,489
+You want to lick it, but you want to bite it. Mr.
+
+385
+00:29:45,490 --> 00:29:48,360
+Turtle, how many licks does it take to get
+
+386
+00:29:48,361 --> 00:29:53,839
+to the Tootsie Roll center of a Tootsie Pop? I never made it without biting. Ask Mr.
+
+387
+00:29:53,840 --> 00:29:54,540
+Owl.
+
+388
+00:29:54,541 --> 00:29:55,760
+Let's find out.
+
+389
+00:29:55,980 --> 00:30:00,220
+One, two, three, three.
+
+390
+00:30:01,320 --> 00:30:08,520
+We get many letters from consumers who tick off and count how many licks they took.
+
+391
+00:30:09,120 --> 00:30:11,600
+And there have been some very sophisticated experiments.
+
+392
+00:30:12,120 --> 00:30:18,580
+Graduate students at Purdue University, chemical engineers, decided to build a mechanical tongue.
+
+393
+00:30:18,840 --> 00:30:19,780
+And they did so.
+
+394
+00:30:19,781 --> 00:30:23,020
+And they came up with 317 licks.
+
+395
+00:30:24,100 --> 00:30:27,500
+That's a lot of licks.
+
+396
+00:30:27,501 --> 00:30:31,540
+But there's little doubt that Tootsie Roll is still going strong and can definitely take
+
+397
+00:30:31,541 --> 00:30:32,540
+a licking.
+
+398
+00:30:32,541 --> 00:30:37,860
+But these snacks have to take a beating.
+
+399
+00:30:37,861 --> 00:30:40,860
+They will be inverted, injected and drowned.
+
+400
+00:30:40,861 --> 00:30:47,500
+The violent process behind making a cupcake.
+
+401
+00:30:47,501 --> 00:30:54,240
+Denmark has the highest per capita consumption of candy in the world at 29.5 pounds annually.
+
+402
+00:30:56,500 --> 00:30:59,560
+Snack Food Tech will return on Modern Marvels.
+
+403
+00:31:00,880 --> 00:31:04,140
+We now return to Snack Food Tech on Modern Marvels.
+
+404
+00:31:07,460 --> 00:31:14,060
+Each year, Americans spend $4.2 billion on something the industry calls snack cakes.
+
+405
+00:31:14,061 --> 00:31:19,140
+That comes to 13.5 billion cupcakes, fruit pies, Twinkies, donuts.
+
+406
+00:31:19,900 --> 00:31:21,620
+You name it, we're eating it.
+
+407
+00:31:22,640 --> 00:31:28,340
+Snack cakes in general have moved out of an area of just for a pastry in the morning
+
+408
+00:31:28,341 --> 00:31:31,840
+to an all-day opportunity to snack.
+
+409
+00:31:35,320 --> 00:31:39,480
+To keep up with consumption, baking companies have scaled up production
+
+410
+00:31:39,481 --> 00:31:42,880
+and consolidated, growing beyond their small-town roots.
+
+411
+00:31:42,881 --> 00:31:49,000
+Most baking companies started out as a small regional bakery, but the customers changed.
+
+412
+00:31:49,340 --> 00:31:58,360
+Retailers consolidated as well and became much larger retail chains, and it kind of drove suppliers to consolidate.
+
+413
+00:32:00,000 --> 00:32:05,840
+Ever larger retailers opted for the one-stop shopping efficiencies of buying from ever larger bakeries.
+
+414
+00:32:06,840 --> 00:32:12,920
+We're running 42,000 cupcakes an hour, and we have a capacity to run 5 million cupcakes a week.
+
+415
+00:32:14,240 --> 00:32:19,100
+Five million cupcakes. That takes a lot of the basics, flour and sugar.
+
+416
+00:32:19,820 --> 00:32:27,060
+There's 50,000 pounds of sugar that comes in on the truck and unloaded into the bulk silo, which can hold 120,000 pounds each.
+
+417
+00:32:27,280 --> 00:32:31,800
+We're using approximately 450,000 pounds of grain-legged sugar a week.
+
+418
+00:32:31,801 --> 00:32:41,280
+At Flowers Foods Crossville, Tennessee, Plant, they make 64 varieties of cupcakes, cream cakes, pecan twirls, brownies, cinnamon rolls, honey buns, and snowballs.
+
+419
+00:32:43,180 --> 00:32:48,100
+If Flowers Cupcakes look familiar, it's because many players in the industry make similar products.
+
+420
+00:32:49,900 --> 00:32:58,980
+Flowers, which started in 1919 when William and Joseph Flowers opened their first bakery in Thomasville, Georgia, now boasts 34 bakeries.
+
+421
+00:32:59,980 --> 00:33:04,740
+The original site made headlines by producing 30,000 loaves of bread a day.
+
+422
+00:33:05,220 --> 00:33:12,100
+To put that into perspective, one of our new generation bakeries can produce 170,000 loaves of bread.
+
+423
+00:33:12,980 --> 00:33:17,740
+If you look at snack foods, it's gone largely from what was a single batch process,
+
+424
+00:33:17,880 --> 00:33:23,520
+producing a few dozen or a few hundred maybe, to continuous process that's thousands of pounds an hour.
+
+425
+00:33:24,520 --> 00:33:29,240
+Continuous process technology is in full swing at Flowers Crossville, Tennessee Bakery,
+
+426
+00:33:29,560 --> 00:33:32,700
+which makes more than 80 million pounds of product annually.
+
+427
+00:33:33,820 --> 00:33:39,560
+The company's auto-bake inline system runs 724 feet from mixing to packaging.
+
+428
+00:33:40,700 --> 00:33:43,240
+There's two processes to our mixing process.
+
+429
+00:33:43,760 --> 00:33:47,540
+There's the primary mixing process where the ingredients are blended together.
+
+430
+00:33:47,541 --> 00:33:51,060
+Then there's the continuous mixture where air is injected in,
+
+431
+00:33:51,061 --> 00:33:58,420
+and we're trying to maintain the same specific gravity so that we can keep a consistent volume of the finished product.
+
+432
+00:33:59,540 --> 00:34:04,120
+The amount of injected air depends on the desired specific gravity or density.
+
+433
+00:34:05,040 --> 00:34:09,060
+More for a cream cake and less for a denser cupcake.
+
+434
+00:34:10,780 --> 00:34:15,420
+The cupcake mix will stay in a holding tank for 27 minutes at 68 degrees.
+
+435
+00:34:16,580 --> 00:34:20,360
+This will allow the baking powder to leaven the dough to the proper consistency.
+
+436
+00:34:21,060 --> 00:34:29,080
+One thing that makes baking, I think, more complex than some other food ingredients is bakery materials,
+
+437
+00:34:29,081 --> 00:34:33,320
+before they go through the oven, are active, living, moving things.
+
+438
+00:34:33,321 --> 00:34:36,020
+If you're dealing with a dough that has yeast in it and fermentation,
+
+439
+00:34:36,580 --> 00:34:40,520
+that dough is continually changing from the time it's mixed until you get it through the process.
+
+440
+00:34:40,620 --> 00:34:42,980
+So you can't just make a huge batch and work on it all day.
+
+441
+00:34:43,620 --> 00:34:45,460
+You've got to be timing everything through.
+
+442
+00:34:45,461 --> 00:34:51,460
+The depositor pumps 1.4 ounces of batter for each cupcake.
+
+443
+00:34:51,461 --> 00:34:57,460
+700 cupcakes a minute, more than 3600 pounds of batter an hour.
+
+444
+00:34:57,461 --> 00:35:01,460
+Then the pans are conveyed into a very unconventional oven.
+
+445
+00:35:01,461 --> 00:35:07,460
+The difference between this oven and a conventional oven is the size or the footprint of the oven.
+
+446
+00:35:07,461 --> 00:35:12,460
+This oven is a much more compact oven. It's a 40-foot long oven by 3 feet wide.
+
+447
+00:35:12,461 --> 00:35:17,460
+The kitchen produces as much as a 120-foot tunnel oven 12-foot wide.
+
+448
+00:35:17,461 --> 00:35:24,460
+That's because the pans move vertically, shaking back and forth for 18 minutes through the oven's four cooking zones,
+
+449
+00:35:24,461 --> 00:35:29,460
+with heats ranging from 350 to 535 degrees.
+
+450
+00:35:29,461 --> 00:35:32,460
+And there's no fire in this oven.
+
+451
+00:35:32,461 --> 00:35:39,460
+575-degree thermal oil circulates through a closed system, conserving energy.
+
+452
+00:35:39,461 --> 00:35:45,460
+After leaving the oven at 193 degrees, the cupcakes cool for 25 minutes.
+
+453
+00:35:45,461 --> 00:35:49,460
+At 98 degrees, they're ready to be injected with creamy filling.
+
+454
+00:35:49,461 --> 00:35:52,460
+Temperature control is critical.
+
+455
+00:35:52,461 --> 00:35:59,460
+If the product is too cold, the cake will break, and if the product is too hot, then the cream will liquefy.
+
+456
+00:35:59,461 --> 00:36:03,460
+Then the pans are inverted, dumping their cargo.
+
+457
+00:36:03,461 --> 00:36:07,460
+At this point, pans and cupcakes part ways.
+
+458
+00:36:07,461 --> 00:36:13,540
+cupcakes part ways, cupcakes onward for icing, and pans backward to be cleaned and returned
+
+459
+00:36:13,541 --> 00:36:15,000
+to the beginning of the line.
+
+460
+00:36:15,001 --> 00:36:18,020
+There they will be greased and refilled with batter to begin
+
+461
+00:36:18,021 --> 00:36:19,560
+the process anew.
+
+462
+00:36:19,561 --> 00:36:26,080
+The cupcakes then pass under 130 degree chocolate icing and a drizzle of
+
+463
+00:36:26,081 --> 00:36:32,828
+white string icing. Now only a 200 foot tempering tunnel awaits them.
+
+464
+00:36:32,829 --> 00:36:34,980
+The cupcakes will cool
+
+465
+00:36:34,981 --> 00:36:42,540
+to 70 degrees by the time they reach packing.
+
+466
+00:36:42,541 --> 00:36:48,020
+Eight automated packing machines package between 70 and 110 units per minute, but there's still
+
+467
+00:36:48,021 --> 00:36:50,100
+a place for human intervention.
+
+468
+00:36:50,101 --> 00:36:53,800
+That's one of our quality control points.
+
+469
+00:36:53,801 --> 00:36:57,380
+It allows us to visually inspect the product to make sure it's up to our standards.
+
+470
+00:36:57,381 --> 00:37:03,860
+It allows us to place the product in the package and keep the string icing design in line in
+
+471
+00:37:03,861 --> 00:37:04,860
+the package.
+
+472
+00:37:04,861 --> 00:37:14,727
+Flowers bakeries strive to stay competitive because they must go head-to-head with the largest wholesale baker in the country, Interstate Bakeries, which owns the
+
+473
+00:37:14,728 --> 00:37:15,580
+Hostess brand.
+
+474
+00:37:16,200 --> 00:37:20,260
+Approximately a half a billion Twinkies are consumed each year in the United States.
+
+475
+00:37:21,340 --> 00:37:26,320
+So divide that by 365, and I think it's about 1.369 million a day.
+
+476
+00:37:27,040 --> 00:37:32,960
+And like anything this famous, Twinkies have had to suffer the slings and arrows of quite a few urban legends,
+
+477
+00:37:33,500 --> 00:37:35,360
+including one about not being baked.
+
+478
+00:37:36,720 --> 00:37:40,360
+Twinkies are a baked product. They are not a chemically engineered product.
+
+479
+00:37:40,800 --> 00:37:42,060
+They're baked. They've always been baked.
+
+480
+00:37:42,540 --> 00:37:46,020
+Another urban legend is that a Twinkie will survive a nuclear holocaust.
+
+481
+00:37:46,021 --> 00:37:50,980
+I don't know that to be true or false and certainly would not hope to ever find out that.
+
+482
+00:37:50,981 --> 00:37:58,100
+If Twinkies couldn't survive, this product certainly wouldn't.
+
+483
+00:37:58,660 --> 00:38:02,760
+Ice cream has to be pampered just to make it to the grocery store unharmed.
+
+484
+00:38:05,140 --> 00:38:11,360
+A retired milkman in Indiana has eaten at least one Twinkie a day for over 60 years,
+
+485
+00:38:11,361 --> 00:38:14,760
+for a total of more than 22,000.
+
+486
+00:38:15,420 --> 00:38:17,900
+Snack Food Tech will return on Modern Marvels.
+
+487
+00:38:17,901 --> 00:38:23,040
+We now return to Snack Food Tech on Modern Marvels.
+
+488
+00:38:25,280 --> 00:38:27,155
+The $20 billion a year U.S.
+
+489
+00:38:27,156 --> 00:38:32,780
+ice cream industry produces 1.4 billion gallons of ice cream and frozen desserts,
+
+490
+00:38:33,260 --> 00:38:38,700
+which Americans are gobbling up at a rate of 20 quarts per person per annum.
+
+491
+00:38:40,280 --> 00:38:46,700
+The largest ice cream manufacturer in the United States, Dreiger's Grand Ice Cream, operates seven plants.
+
+492
+00:38:47,900 --> 00:38:54,000
+Its Bakersfield, California facility makes 55 million dozens of frozen snacks
+
+493
+00:38:54,001 --> 00:38:59,040
+and 6.5 million gallons of packaged ice cream on a yearly basis.
+
+494
+00:39:00,040 --> 00:39:03,540
+We'll do an excess of 2,000 liters in an hour
+
+495
+00:39:03,541 --> 00:39:07,300
+just because of the sheer scale of what our freezers are capable of.
+
+496
+00:39:07,340 --> 00:39:09,260
+And now if we bundle multiple freezers together,
+
+497
+00:39:10,180 --> 00:39:13,420
+it all becomes a scale-up process on how much you can make in a day.
+
+498
+00:39:13,421 --> 00:39:22,860
+The ice cream flavors in today's grocery stores have changed quite a bit since William Dreyer and Joseph Eadie formed the company in 1928.
+
+499
+00:39:24,120 --> 00:39:31,460
+The ice cream maker and candy maker partnered at a time when there were really only three flavors, vanilla, chocolate, and strawberry.
+
+500
+00:39:33,300 --> 00:39:38,120
+In 1929, their first successful creation was a product of their combined talents.
+
+501
+00:39:38,860 --> 00:39:41,000
+Dreyer mixed nuts and marshmallows with ice cream
+
+502
+00:39:41,001 --> 00:39:43,680
+to make what the partners dubbed Rocky Road,
+
+503
+00:39:45,000 --> 00:39:48,100
+a reference to the tough times facing the country during the Depression.
+
+504
+00:39:49,960 --> 00:39:52,540
+It was a hit and remains a bestseller.
+
+505
+00:39:54,740 --> 00:39:58,600
+And it launched a company that has steadily expanded distribution and production.
+
+506
+00:40:00,000 --> 00:40:01,320
+We're now in the mixture.
+
+507
+00:40:01,500 --> 00:40:03,720
+This is where the ice cream mixes are put together.
+
+508
+00:40:04,460 --> 00:40:06,200
+And we have two systems here,
+
+509
+00:40:06,201 --> 00:40:11,000
+a 2,500 gallon an hour system and a 4,000 gallon an hour system.
+
+510
+00:40:12,120 --> 00:40:16,940
+An ice cream mix, you usually use some cream, some condensed milk, some liquid sugar, some corn syrup,
+
+511
+00:40:17,460 --> 00:40:19,400
+some stabilizers and emulsifiers.
+
+512
+00:40:20,740 --> 00:40:24,880
+That basic mix is homogenized and pumped out to the production floor to be flavored.
+
+513
+00:40:26,600 --> 00:40:29,880
+These are flavor vats behind me. They're attached to an ice cream freezer.
+
+514
+00:40:30,360 --> 00:40:34,540
+At this location, we take the unflavored mix, we add a flavor base to it.
+
+515
+00:40:34,541 --> 00:40:37,300
+In this instance, we're adding a strawberry base.
+
+516
+00:40:38,420 --> 00:40:41,340
+Then it's off to the freezer, where it will become ice cream.
+
+517
+00:40:42,240 --> 00:40:45,160
+It starts over here with a continuous ice cream freezer.
+
+518
+00:40:45,560 --> 00:40:49,820
+It takes the mix from approximately 40 degrees down to 28 degrees.
+
+519
+00:40:50,320 --> 00:40:55,240
+Also during that process, we add some air to make the ice cream smooth and creamy.
+
+520
+00:40:56,520 --> 00:41:01,800
+Blades inside the freezer scrape three to four hundred gallons of ice cream an hour off the grill
+
+521
+00:41:01,801 --> 00:41:04,500
+and pump it through in a continuous process.
+
+522
+00:41:04,540 --> 00:41:09,540
+The ice cream, in this case vanilla, isn't destined for a half-gallon container.
+
+523
+00:41:09,541 --> 00:41:14,540
+It will become the creamy center of a dryer's fruit bar.
+
+524
+00:41:14,541 --> 00:41:23,540
+After the orange fruit mix is dispensed, frozen on the outside, and the excess extracted from the middle of the mold, it's vanilla time.
+
+525
+00:41:23,541 --> 00:41:29,540
+So once the ice cream goes into the filler, then it's dispensed into each of these lanes.
+
+526
+00:41:29,541 --> 00:41:31,540
+There are 16 lanes in each row here.
+
+527
+00:41:31,541 --> 00:41:36,526
+here. This particular machine makes over 20,000 ice cream bars an hour.
+
+528
+00:41:36,527 --> 00:41:37,860
+And it continues to
+
+529
+00:41:37,861 --> 00:41:41,332
+freeze as it moves around the table. It gets harder and harder.
+
+530
+00:41:41,333 --> 00:41:42,600
+The timing of the whole
+
+531
+00:41:42,601 --> 00:41:46,424
+process is very critical. It comes around at just the right time.
+
+532
+00:41:46,425 --> 00:41:47,660
+The ice cream is hard
+
+533
+00:41:47,661 --> 00:41:51,720
+enough to hold the stick, but not so hard that we couldn't get the stick to insert.
+
+534
+00:41:52,840 --> 00:41:57,838
+In the extraction zone, the table heats up from 40 below to zero degrees.
+
+535
+00:41:57,839 --> 00:41:58,660
+This warming
+
+536
+00:41:58,661 --> 00:42:01,940
+melts the surface of the bar and allows it to be extracted.
+
+537
+00:42:01,941 --> 00:42:04,340
+Here we have a water dipping station.
+
+538
+00:42:04,341 --> 00:42:06,340
+It helps stabilize the outer surface
+
+539
+00:42:06,341 --> 00:42:08,900
+with water freezing colders in the mix.
+
+540
+00:42:08,901 --> 00:42:10,900
+And secondly, it adds a little snap
+
+541
+00:42:10,901 --> 00:42:13,700
+and you bite into the first bite of the bar.
+
+542
+00:42:13,701 --> 00:42:16,620
+Dryer's drumstick process is more complex.
+
+543
+00:42:16,621 --> 00:42:20,620
+And as a result, a mere 9,600 drumsticks
+
+544
+00:42:20,621 --> 00:42:23,620
+can be made in an hour.
+
+545
+00:42:23,621 --> 00:42:27,300
+We start with our cone, and we convey it forward first
+
+546
+00:42:27,301 --> 00:42:29,115
+to the chocolate spray station.
+
+547
+00:42:29,116 --> 00:42:32,980
+We spray a layer of chocolate around the top rim and down the side
+
+548
+00:42:32,981 --> 00:42:33,759
+of the cone.
+
+549
+00:42:33,760 --> 00:42:38,820
+Several of our drumsticks have a center core that's either caramel or fudge or
+
+550
+00:42:38,821 --> 00:42:39,521
+chocolate.
+
+551
+00:42:39,522 --> 00:42:44,340
+And what you can't see inside the nozzle is it's actually a nozzle within a nozzle.
+
+552
+00:42:44,341 --> 00:42:51,220
+So as the ice cream is being dispensed into the cone, a valve opens and it injects one of those
+
+553
+00:42:51,221 --> 00:42:54,197
+three flavors into the inside of the top of the cone.
+
+554
+00:42:54,198 --> 00:42:56,500
+So by your third bite into the drumstick,
+
+555
+00:42:56,501 --> 00:42:59,860
+and you should either get your caramel or your chocolate fudge thinner.
+
+556
+00:43:00,980 --> 00:43:04,020
+From here, the cones go into a freezer for 20 minutes.
+
+557
+00:43:04,740 --> 00:43:07,160
+Their temperature drops from the mid-20s to zero.
+
+558
+00:43:08,420 --> 00:43:13,920
+So once it comes out of that environment, we dip it in chocolate, and we dip it in the nuts.
+
+559
+00:43:14,420 --> 00:43:18,800
+And then when it travels on down, it's individually packaged and then sent off to our porch.
+
+560
+00:43:18,801 --> 00:43:30,800
+The Bakersfield plant currently makes over 90 different flavors, shapes, and configurations
+
+561
+00:43:30,801 --> 00:43:33,800
+of ice cream snacks.
+
+562
+00:43:33,801 --> 00:43:40,800
+And though the snack food industry has certainly been imaginative in providing variety, there
+
+563
+00:43:40,801 --> 00:43:43,800
+have been costs for consumers.
+
+564
+00:43:43,801 --> 00:43:49,940
+Snacks have become less of a snack and more of a grab-and-go, eat-any-time product.
+
+565
+00:43:50,460 --> 00:43:54,480
+And that's kind of been the downfall of Americans with the obesity crisis.
+
+566
+00:43:54,840 --> 00:43:56,860
+They can eat whatever they want, wherever they want.
+
+567
+00:43:57,140 --> 00:44:01,020
+Manufacturers have answered their call for convenience to excess.
+
+568
+00:44:02,140 --> 00:44:05,000
+Ultimately, consumers determine what they put into their mouths.
+
+569
+00:44:05,660 --> 00:44:07,960
+And some say the more natural, the better.
+
+570
+00:44:07,961 --> 00:44:20,979
+A processed food typically is devoid of moisture, devoid of natural fibers, devoid of gums, devoid of vitamins and minerals unless they're processed chemicals that are
+
+571
+00:44:20,980 --> 00:44:22,460
+then added back in.
+
+572
+00:44:22,760 --> 00:44:30,800
+An apple or any other piece of fruit is loaded with fiber, natural gums, natural pectin, natural moisture.
+
+573
+00:44:31,100 --> 00:44:35,280
+What we know about apples is that they are perfect in their natural state.
+
+574
+00:44:35,281 --> 00:44:39,200
+But much of the time when we're reaching for a snack,
+
+575
+00:44:39,500 --> 00:44:41,420
+we're reaching for a guilty pleasure.
+
+576
+00:44:42,160 --> 00:44:48,440
+And what hits the spot is a chocolatey, chewy, crunchy, creamy bit of heaven.
+

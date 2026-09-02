@@ -1,0 +1,2456 @@
+1
+00:00:00,001 --> 00:00:04,000
+1890, a magical time.
+
+2
+00:00:04,001 --> 00:00:09,000
+The reason, from this date on, motion can be captured on celluloid.
+
+3
+00:00:09,001 --> 00:00:15,000
+Sports, disappearing cultures, provocative entertainment, and there's money to be made.
+
+4
+00:00:15,001 --> 00:00:17,000
+Lots of it.
+
+5
+00:00:17,001 --> 00:00:22,000
+Thomas Edison holds many of the patents, but did he really invent motion pictures?
+
+6
+00:00:22,001 --> 00:00:27,000
+Now the real story behind the birth of the movies on modern marvels.
+
+7
+00:00:27,001 --> 00:00:29,000
+ROBERT STACKLIN,
+
+8
+00:00:52,526 --> 00:00:54,000
+1928, Thomas Elva Edison,
+
+9
+00:00:54,001 --> 00:00:57,000
+receives the Congressional Gold Medal, the nation's high,
+
+10
+00:00:57,001 --> 00:00:58,960
+highest civilian honor.
+
+11
+00:00:58,961 --> 00:01:02,500
+At 81, he's a living legend.
+
+12
+00:01:02,501 --> 00:01:05,500
+The man who'd laid the technological foundations
+
+13
+00:01:05,501 --> 00:01:08,520
+for the 20th century and created motion pictures
+
+14
+00:01:08,521 --> 00:01:11,520
+to record this new world for posterity,
+
+15
+00:01:11,521 --> 00:01:15,980
+along with his own accomplishments.
+
+16
+00:01:15,981 --> 00:01:19,660
+The first motion picture studio ever set up in the world
+
+17
+00:01:19,661 --> 00:01:22,960
+was in the yard of my laboratory at West Orange.
+
+18
+00:01:22,961 --> 00:01:25,720
+The building revolved to follow the sun.
+
+19
+00:01:25,721 --> 00:01:26,900
+We dubbed it the black blue.
+
+20
+00:01:27,000 --> 00:01:32,000
+As recreated with his own invention, the motion picture,
+
+21
+00:01:32,001 --> 00:01:36,000
+Edison was portrayed as a mix of Horatio Alger Pluck,
+
+22
+00:01:36,001 --> 00:01:40,000
+homespun Yankee ingenuity, and visionary genius.
+
+23
+00:01:40,001 --> 00:01:46,000
+These are scenes from a 1915 epic entitled The Benefactor.
+
+24
+00:01:46,001 --> 00:01:51,000
+From the beginning, his life had the makings of a great movie.
+
+25
+00:01:51,001 --> 00:01:57,000
+In a sense, Edison devised his own legend of this sort of
+
+26
+00:01:57,001 --> 00:02:01,040
+rough-hewn inventor who didn't pay much attention to science.
+
+27
+00:02:01,280 --> 00:02:03,140
+In fact, Edison paid a lot of attention to science.
+
+28
+00:02:03,240 --> 00:02:08,600
+What he didn't pay attention to was the kind of higher-level pure science that didn't
+
+29
+00:02:08,601 --> 00:02:10,420
+have a media practical application.
+
+30
+00:02:11,260 --> 00:02:16,740
+Thirty years old, Edison applied his practical genius and produced the talking machine.
+
+31
+00:02:17,800 --> 00:02:22,600
+Topping himself two years later, he lit up the world with the electric light.
+
+32
+00:02:25,600 --> 00:02:26,980
+By then, their...
+
+33
+00:02:27,000 --> 00:02:30,480
+There were people who believed he could do anything.
+
+34
+00:02:30,481 --> 00:02:34,420
+Most of all, Edison himself.
+
+35
+00:02:34,421 --> 00:02:37,320
+Most inventors have rather large egos.
+
+36
+00:02:37,321 --> 00:02:42,120
+They feel they can affect the way other people live their lives, and the way they can do
+
+37
+00:02:42,121 --> 00:02:48,160
+that is not through management or necessarily through ideas, intellectual ideas, but rather
+
+38
+00:02:48,161 --> 00:02:54,580
+through creating technologies and systems that people will live with and work with.
+
+39
+00:02:54,581 --> 00:02:56,980
+Edison's self-absorbed involvement with his work.
+
+40
+00:02:57,000 --> 00:03:00,800
+had disastrous effects on a first marriage.
+
+41
+00:03:00,801 --> 00:03:04,040
+Weakened by declining health, his wife Mary Stillwell
+
+42
+00:03:04,041 --> 00:03:11,440
+died in 1884, neglected, and mentally unstable.
+
+43
+00:03:11,441 --> 00:03:17,360
+Left with three children, Edison remarried in 1887.
+
+44
+00:03:17,361 --> 00:03:23,160
+His second wife, Mina Miller, was the daughter of a millionaire.
+
+45
+00:03:23,161 --> 00:03:27,000
+Edison remained Edison, but with the support of family and friends,
+
+46
+00:03:27,001 --> 00:03:30,500
+Mena was better prepared to be the wife of a man called
+
+47
+00:03:30,501 --> 00:03:33,000
+the Wizard of Menlo Park.
+
+48
+00:03:35,000 --> 00:03:37,000
+Bursting with ideas for new inventions,
+
+49
+00:03:37,001 --> 00:03:42,000
+in 1887, Edison moved into a huge new laboratory complex
+
+50
+00:03:42,001 --> 00:03:44,000
+in West Orange, New Jersey.
+
+51
+00:03:45,000 --> 00:03:47,000
+Ten times larger than his old quarters
+
+52
+00:03:47,001 --> 00:03:50,000
+a few miles away in the village of Menlo Park.
+
+53
+00:03:51,000 --> 00:03:54,000
+For Maina and his children, he bought Glenmont,
+
+54
+00:03:54,001 --> 00:03:56,000
+a lavish nearby estate.
+
+55
+00:03:56,001 --> 00:03:56,701
+estate.
+
+56
+00:03:56,702 --> 00:04:04,020
+Settled in West Orange, it wasn't long before Edison found himself at his desk in his
+
+57
+00:04:04,021 --> 00:04:12,701
+library thinking about the realization of a very old dream, moving pictures.
+
+58
+00:04:12,702 --> 00:04:15,100
+This book, written in
+
+59
+00:04:15,101 --> 00:04:23,100
+1646 by Affamacious Kircher, a Jesuit priest, records the early history of projected images.
+
+60
+00:04:23,101 --> 00:04:28,260
+It began with the magic lantern, forerunner of today's slide projector.
+
+61
+00:04:30,260 --> 00:04:37,340
+The magic lantern was a device that used light from a lamp to project images painted on glass plates.
+
+62
+00:04:38,640 --> 00:04:44,300
+The effect on viewers was truly magical, and these were only static drawings.
+
+63
+00:04:45,880 --> 00:04:52,140
+Eager for the energy of motion, early inventors created ingenious devices to add life to their shows.
+
+64
+00:04:53,100 --> 00:04:57,100
+Slides with movable parts were popular.
+
+65
+00:04:57,101 --> 00:05:02,100
+A more sophisticated illusion of movement came in 1834
+
+66
+00:05:02,101 --> 00:05:08,100
+with the creation of the zoetrope by English inventor George Homer.
+
+67
+00:05:08,101 --> 00:05:13,100
+Here, spinning, sequential images appear to move.
+
+68
+00:05:13,101 --> 00:05:18,100
+It was an example of a physiological phenomenon described in 1884
+
+69
+00:05:18,101 --> 00:05:22,100
+by Peter Mark Roge of thesaurus fame.
+
+70
+00:05:22,101 --> 00:05:27,100
+It's called persistence of vision.
+
+71
+00:05:27,101 --> 00:05:30,100
+With cinema, when you project an image on the screen,
+
+72
+00:05:30,101 --> 00:05:32,100
+which creates the illusion of motion,
+
+73
+00:05:32,101 --> 00:05:36,100
+what you're projecting on the screen is really a series of still photographs.
+
+74
+00:05:36,101 --> 00:05:39,100
+And what happens is that the eye synthesized
+
+75
+00:05:39,101 --> 00:05:42,100
+these slightly different photographs in such a way
+
+76
+00:05:42,101 --> 00:05:45,100
+that it creates the illusion of motion.
+
+77
+00:05:45,101 --> 00:05:50,100
+A popular early toy illustrates this synthesis or blending by the brain.
+
+78
+00:05:50,101 --> 00:05:54,100
+When a card with a picture of a bird on one side,
+
+79
+00:05:54,101 --> 00:05:57,100
+in a picture of a bird cage on the other is twirled rapidly,
+
+80
+00:05:57,101 --> 00:05:59,100
+the brain combines the two pictures,
+
+81
+00:05:59,101 --> 00:06:03,100
+creating the illusion that the bird is in the cage.
+
+82
+00:06:03,101 --> 00:06:09,100
+The zoetrope and many devices like it
+
+83
+00:06:09,101 --> 00:06:13,100
+became popular in 19th century parlor amusements.
+
+84
+00:06:13,101 --> 00:06:17,100
+But in 1829, a vital step in the evolution
+
+85
+00:06:17,101 --> 00:06:19,100
+of the motion picture took place.
+
+86
+00:06:19,101 --> 00:06:27,100
+Louis Degere perfected a truly magical technology, photography.
+
+87
+00:06:27,101 --> 00:06:35,100
+Now, for the first time, a glimpse of the real world had been captured forever, frozen on a light-sensitive glass plate.
+
+88
+00:06:35,101 --> 00:06:44,100
+But creating early photographs took as long as five minutes per image, too slow for movies.
+
+89
+00:06:44,101 --> 00:06:48,100
+By the 1870s, faster picture-taking was possible.
+
+90
+00:06:48,101 --> 00:06:48,824
+possible.
+
+91
+00:06:48,825 --> 00:06:55,100
+This allowed Edward Moybridge studying the movement of animals to make another
+
+92
+00:06:55,101 --> 00:07:03,100
+major step toward motion pictures. California railroad magnate Leland Stanford hired
+
+93
+00:07:03,101 --> 00:07:05,159
+Moibridge to prove a bet.
+
+94
+00:07:05,160 --> 00:07:10,100
+Did all four hooves of a running horse ever leave the ground
+
+95
+00:07:10,101 --> 00:07:18,080
+at the same time? Working at Stanford's Palo Alto farm, Moybridge lined up a
+
+96
+00:07:18,100 --> 00:07:23,040
+a series of cameras along a short track.
+
+97
+00:07:23,041 --> 00:07:25,340
+Threads stretched across the track were attached
+
+98
+00:07:25,341 --> 00:07:29,460
+to each of the camera shutters.
+
+99
+00:07:29,461 --> 00:07:31,820
+When a horse raced by it broke the threads,
+
+100
+00:07:31,821 --> 00:07:37,520
+which in turn released the camera shutters one after another.
+
+101
+00:07:37,521 --> 00:07:43,300
+The result was a series of sequential photographs.
+
+102
+00:07:43,301 --> 00:07:47,160
+Sure enough, there was a time when all four of the horse's
+
+103
+00:07:47,161 --> 00:07:50,540
+His legs were off the ground, but more important,
+
+104
+00:07:50,541 --> 00:07:54,000
+Moibridge painted copies of his photographs on a glass wheel
+
+105
+00:07:54,001 --> 00:07:58,200
+and created a viewing device called the Zupraxoscope.
+
+106
+00:07:58,201 --> 00:08:00,500
+For the first time, there was a photographically
+
+107
+00:08:00,501 --> 00:08:03,400
+accurate illusion of movement.
+
+108
+00:08:03,401 --> 00:08:06,120
+When Thomas Edison heard of Moibridge's work,
+
+109
+00:08:06,121 --> 00:08:09,240
+he was intrigued.
+
+110
+00:08:09,241 --> 00:08:13,280
+In 1888, he and Moibridge meant.
+
+111
+00:08:13,281 --> 00:08:15,280
+Who knows what they talked about entirely,
+
+112
+00:08:15,281 --> 00:08:17,120
+but certainly one thing they did talk about
+
+113
+00:08:17,160 --> 00:08:21,660
+how to possibly link the zoopraxoscope with Edison's phonograph.
+
+114
+00:08:22,300 --> 00:08:25,480
+Edison had sort of found, to his surprise,
+
+115
+00:08:25,640 --> 00:08:28,140
+that some of his competitors had made major innovations
+
+116
+00:08:28,141 --> 00:08:30,120
+on his tinfoil phonograph,
+
+117
+00:08:30,460 --> 00:08:32,380
+and he was trying to one-up them.
+
+118
+00:08:33,520 --> 00:08:35,800
+Photographs that moved and talked,
+
+119
+00:08:36,040 --> 00:08:37,860
+now that would shake up the competition.
+
+120
+00:08:38,700 --> 00:08:41,240
+But work on movies didn't begin immediately.
+
+121
+00:08:42,340 --> 00:08:44,460
+Edison's restless mind was elsewhere.
+
+122
+00:08:45,700 --> 00:08:47,140
+At a mine, he owned in no.
+
+123
+00:08:47,160 --> 00:08:52,720
+Nearby Ogdensburg, he was focused on a little known obsession of his life, a machine to
+
+124
+00:08:52,721 --> 00:08:55,640
+separate iron ore with large magnets.
+
+125
+00:08:57,400 --> 00:09:02,060
+It was typical of Edison to work on many ideas at the same time.
+
+126
+00:09:03,560 --> 00:09:07,340
+In 1888, moving pictures was added to his list.
+
+127
+00:09:08,440 --> 00:09:14,880
+To help, he chose a trusted assistant from the ore mining project, William Kennedy, Lori Dixon,
+
+128
+00:09:14,881 --> 00:09:19,440
+an avid photographer who took most of the pictures around the lab,
+
+129
+00:09:20,020 --> 00:09:24,900
+including this famous portrait of Edison as the Napoleon of Invention.
+
+130
+00:09:27,480 --> 00:09:30,560
+The motion picture project was perfect for Dixon.
+
+131
+00:09:31,220 --> 00:09:36,720
+From the beginning, Edison conceived of a motion picture machine linked to the phonograph,
+
+132
+00:09:37,420 --> 00:09:39,000
+sound and pictures together.
+
+133
+00:09:40,360 --> 00:09:44,440
+On October 8, 1888, he wrote a caveat, or purlidate,
+
+134
+00:09:44,441 --> 00:09:48,440
+preliminary announcement of his work in progress.
+
+135
+00:09:48,441 --> 00:09:55,440
+I am experimenting upon an instrument which does for the eye what the phonograph does for the ear,
+
+136
+00:09:55,441 --> 00:10:02,440
+which is the recording and reproduction of things in motion.
+
+137
+00:10:02,441 --> 00:10:09,440
+The new invention was called the kinetoscope from the Greek words for motion and view.
+
+138
+00:10:09,441 --> 00:10:14,420
+Dixon's job was to turn this exotic name into a working
+
+139
+00:10:14,440 --> 00:10:15,140
+machine.
+
+140
+00:10:17,340 --> 00:10:24,420
+With time, his role changed from assistant to collaborator, to some say, unaccredited co-inventor.
+
+141
+00:10:26,420 --> 00:10:33,280
+Edison literally was not present in West Orange, five or six days of the week.
+
+142
+00:10:33,380 --> 00:10:38,820
+He was up in northwestern Jersey on his iron ore mine.
+
+143
+00:10:39,720 --> 00:10:44,420
+Dixon was the proprietor of the lab, and he was the man who was working.
+
+144
+00:10:44,440 --> 00:10:47,180
+most closely on developing the technology
+
+145
+00:10:47,181 --> 00:10:48,980
+for the motion picture.
+
+146
+00:10:48,981 --> 00:10:53,180
+Edison's first idea was to wrap a piece of film
+
+147
+00:10:53,181 --> 00:10:58,280
+on a cylinder and expose a spiral of tiny photographs.
+
+148
+00:10:58,281 --> 00:11:00,280
+But to fit on a phonograph cylinder,
+
+149
+00:11:00,281 --> 00:11:05,200
+Dixon needed to make the pictures extremely small.
+
+150
+00:11:05,201 --> 00:11:08,200
+Produced sometime in 1889, these are frames
+
+151
+00:11:08,201 --> 00:11:11,100
+from the earliest surviving motion picture,
+
+152
+00:11:11,101 --> 00:11:13,300
+nicknamed Monkey Shines.
+
+153
+00:11:13,301 --> 00:11:18,300
+To see them, a viewer had to look through a microscope.
+
+154
+00:11:18,301 --> 00:11:23,300
+Here, the individual frames have been reconstructed into movement.
+
+155
+00:11:23,301 --> 00:11:29,300
+An agile pipe fitter from the island of Malta was drafted to star.
+
+156
+00:11:29,301 --> 00:11:36,300
+Lasting only a few seconds, the image was crude and the sound now lost,
+
+157
+00:11:36,301 --> 00:11:38,300
+unintelligible.
+
+158
+00:11:38,301 --> 00:11:42,300
+Still by the end of eight years,
+
+159
+00:11:42,301 --> 00:11:49,180
+By the end of 1890 after centuries of searching false starts and dead ends, the dream
+
+160
+00:11:49,181 --> 00:11:53,180
+of moving pictures was about to be realized.
+
+161
+00:11:53,181 --> 00:12:01,060
+But Edison and Dixon weren't the only men nearing the solution.
+
+162
+00:12:01,061 --> 00:12:05,180
+Edison is said to have first become inspired to experiment with motion pictures when he saw
+
+163
+00:12:05,181 --> 00:12:09,340
+Edward Moybridge's motion study of a woman adjusting her dress.
+
+164
+00:12:12,300 --> 00:12:22,780
+When Thomas Edison began experimenting with motion pictures in 1888, he wasn't alone.
+
+165
+00:12:23,500 --> 00:12:28,220
+In the later part of the 19th century, there were a whole series of technological innovations
+
+166
+00:12:28,221 --> 00:12:32,660
+that really made the cinema, made modern motion pictures possible.
+
+167
+00:12:33,260 --> 00:12:38,760
+And there were an array of people in Europe, in France, in England, in Germany, in the United States,
+
+168
+00:12:38,761 --> 00:12:42,280
+who were experimenting with these elements and trying to pull them together.
+
+169
+00:12:42,300 --> 00:12:45,300
+in things that resembled motion pictures.
+
+170
+00:12:45,301 --> 00:12:49,300
+In France, there was Etienne Jean-Marais.
+
+171
+00:12:49,301 --> 00:12:53,300
+Like Edison, Moray was influenced by Edward Moybridge's work.
+
+172
+00:12:53,301 --> 00:12:59,300
+He too was interested in studying the movements of animals with photography.
+
+173
+00:12:59,301 --> 00:13:05,300
+But unlike Moybridge's multi-camera setup, he developed a single-camera system.
+
+174
+00:13:05,301 --> 00:13:12,280
+Morey's camera looked like a rifle, but the cylinders of his
+
+175
+00:13:12,300 --> 00:13:18,300
+photographic gun contained lenses, not bullets.
+
+176
+00:13:18,301 --> 00:13:21,300
+When he pulled the trigger, the cylinder revolved,
+
+177
+00:13:21,301 --> 00:13:26,300
+taking sequential photographs on a strip of film.
+
+178
+00:13:26,301 --> 00:13:32,300
+In 1889, with his cylinder motion picture work approaching a dead end,
+
+179
+00:13:32,301 --> 00:13:35,300
+Edison decided to go to Paris for an exhibition
+
+180
+00:13:35,301 --> 00:13:40,300
+marking the 50th anniversary of the invention of photography.
+
+181
+00:13:40,301 --> 00:13:44,300
+At the exhibition Edison's display of electrical marvels
+
+182
+00:13:44,301 --> 00:13:46,300
+was a Parisian triumph,
+
+183
+00:13:46,301 --> 00:13:49,300
+as memorable as the new Eiffel Tower.
+
+184
+00:13:51,300 --> 00:13:55,300
+Motion pictures were probably far from his mind.
+
+185
+00:13:57,300 --> 00:13:59,300
+Despite this, unknowingly,
+
+186
+00:13:59,301 --> 00:14:02,300
+Edison was also approaching a turning point in his work
+
+187
+00:14:02,301 --> 00:14:05,300
+toward true moving pictures.
+
+188
+00:14:05,301 --> 00:14:09,300
+In Paris, he met many scientists and researchers,
+
+189
+00:14:09,301 --> 00:14:14,920
+Etienne Jean-Marais, the inventor of the photographic gun, was one of them.
+
+190
+00:14:15,840 --> 00:14:23,100
+It's very important to remember this in terms of understanding Edison's successful inventive process.
+
+191
+00:14:23,400 --> 00:14:30,480
+He did not get these ideas simply out of some corner recess in his brain.
+
+192
+00:14:30,860 --> 00:14:32,160
+He read widely.
+
+193
+00:14:32,800 --> 00:14:37,940
+He attempted to find out what everybody else was doing in order to incorporate these ideas
+
+194
+00:14:37,941 --> 00:14:40,680
+and give them a new twist.
+
+195
+00:14:41,780 --> 00:14:44,900
+Back in America, in October 1889,
+
+196
+00:14:45,400 --> 00:14:48,700
+Edison changed the direction of his motion picture research.
+
+197
+00:14:49,640 --> 00:14:51,620
+He abandoned the cylinder concept.
+
+198
+00:14:52,800 --> 00:14:55,420
+Instead, he wanted perforated strips of film,
+
+199
+00:14:55,920 --> 00:14:57,860
+a variation of Moray's idea.
+
+200
+00:15:00,260 --> 00:15:03,740
+Edison's assistant, W.K.L. Dixon was soon at work
+
+201
+00:15:03,741 --> 00:15:05,820
+on a new motion picture machine.
+
+202
+00:15:05,821 --> 00:15:13,220
+Unlike today's cameras and projectors, the film moved laterally through the mechanism, not top to bottom.
+
+203
+00:15:14,180 --> 00:15:18,640
+In March of 1890, Dixon was ready to show his preliminary handiwork.
+
+204
+00:15:19,420 --> 00:15:20,980
+Edison was impressed.
+
+205
+00:15:22,260 --> 00:15:23,220
+That's it, he said.
+
+206
+00:15:23,460 --> 00:15:24,340
+Work like hell.
+
+207
+00:15:25,020 --> 00:15:25,800
+Dixon did.
+
+208
+00:15:26,720 --> 00:15:29,300
+Working with his partner machinist Thomas Heiss.
+
+209
+00:15:29,301 --> 00:15:34,740
+The two are seen on a frame from an 1892 experimental film.
+
+210
+00:15:35,820 --> 00:15:39,820
+Together, they were inventing motion pictures.
+
+211
+00:15:39,821 --> 00:15:45,820
+They started with film strips three-quarter inches wide,
+
+212
+00:15:45,821 --> 00:15:47,820
+moving later to one and a half-inch strips,
+
+213
+00:15:47,821 --> 00:15:51,820
+close to today's standard of 35 millimeter.
+
+214
+00:15:51,821 --> 00:15:55,820
+Sprocket holes were punched with a manual perforator.
+
+215
+00:15:55,821 --> 00:16:02,820
+On May 20th, 1891, Dixon had made enough progress
+
+216
+00:16:02,821 --> 00:16:04,820
+for a surprise premiere.
+
+217
+00:16:04,821 --> 00:16:12,360
+On that day, a group of women were visiting Edison's wife, Mina, at Glenmont.
+
+218
+00:16:13,200 --> 00:16:18,340
+They were ushered into the lab where one by one they were asked to look into a wooden box.
+
+219
+00:16:20,800 --> 00:16:26,200
+Inside, they saw something startling, a photograph of Dixon that moved.
+
+220
+00:16:28,040 --> 00:16:32,820
+The little black and white image gallantly removed his straw hat.
+
+221
+00:16:32,821 --> 00:16:37,780
+These are the few remaining frames of that landmark movie.
+
+222
+00:16:39,260 --> 00:16:45,520
+Minus Luncheon guests were the first outsiders to see the still experimental kinetoscope in action,
+
+223
+00:16:46,180 --> 00:16:50,240
+and Edison's little surprise wasn't a casual decision.
+
+224
+00:16:50,880 --> 00:16:55,680
+Edison was aware that he was working against a whole group of would-be competitors,
+
+225
+00:16:55,920 --> 00:17:01,700
+and so I think as soon as an experiment was perfected or even able to be shown,
+
+226
+00:17:01,701 --> 00:17:05,880
+he would find an opportunity or an excuse to show it to a public
+
+227
+00:17:05,881 --> 00:17:08,720
+because that became key evidence in patent battles.
+
+228
+00:17:09,640 --> 00:17:12,320
+But he would always maintain that it had been around for a long time
+
+229
+00:17:12,321 --> 00:17:15,000
+so that if someone came up with an earlier date,
+
+230
+00:17:15,300 --> 00:17:16,480
+he could fudge it a little bit.
+
+231
+00:17:16,520 --> 00:17:19,040
+And he, in fact, was the master of fudging dates.
+
+232
+00:17:20,060 --> 00:17:22,720
+Despite its private debut for Minus Friends,
+
+233
+00:17:22,900 --> 00:17:24,620
+the kinetoscope still needed work.
+
+234
+00:17:26,080 --> 00:17:29,920
+The images were blurry and the action jerky.
+
+235
+00:17:29,921 --> 00:17:33,580
+But instead of rushing to improve his invention,
+
+236
+00:17:34,080 --> 00:17:36,100
+Edison turned again to other work.
+
+237
+00:17:37,100 --> 00:17:41,260
+It seemed like he was always juggling too many projects.
+
+238
+00:17:43,460 --> 00:17:46,820
+This notebook contains strips of experimental film,
+
+239
+00:17:47,420 --> 00:17:50,820
+side by side with notes for Edison's ore mining project.
+
+240
+00:17:51,900 --> 00:17:55,160
+It wasn't until a year later, July 1891,
+
+241
+00:17:55,900 --> 00:17:59,040
+that he applied for the kinetoscope's first basic patent.
+
+242
+00:17:59,920 --> 00:18:03,920
+Only two years later in 1893,
+
+243
+00:18:03,921 --> 00:18:05,920
+Edison's fortunes were down.
+
+244
+00:18:05,921 --> 00:18:09,920
+He was in need of another money-making Marvel.
+
+245
+00:18:09,921 --> 00:18:13,920
+He decided to announce the kinetoscope
+
+246
+00:18:13,921 --> 00:18:15,920
+at the Columbia Exposition in Chicago,
+
+247
+00:18:15,921 --> 00:18:18,920
+but the machine was far from finished.
+
+248
+00:18:18,921 --> 00:18:21,920
+Forced to divide his time,
+
+249
+00:18:21,921 --> 00:18:23,920
+W.K.L. Dixon worked feverishly
+
+250
+00:18:23,921 --> 00:18:26,920
+to perfect the bulky mechanism.
+
+251
+00:18:26,921 --> 00:18:28,920
+In the process, he worked
+
+252
+00:18:28,921 --> 00:18:35,420
+In the process, he worked as designer, engineer, projectionist, and often actor in the early
+
+253
+00:18:35,421 --> 00:18:38,420
+films.
+
+254
+00:18:38,421 --> 00:18:42,840
+Here, he plays the violin into a phonograph recording horn.
+
+255
+00:18:42,841 --> 00:18:45,360
+The sound has been lost.
+
+256
+00:18:45,361 --> 00:18:49,560
+A means to synchronize sound in pictures remained elusive.
+
+257
+00:18:49,561 --> 00:18:54,980
+The pressure on Dixon kept building until he snapped.
+
+258
+00:18:54,981 --> 00:18:57,460
+Dixon ended up with a nervous breakdown.
+
+259
+00:18:57,461 --> 00:19:00,460
+He was pursuing too many of Edison's ideas simultaneously.
+
+260
+00:19:00,461 --> 00:19:02,900
+The work schedule was insane.
+
+261
+00:19:02,901 --> 00:19:06,220
+He collapsed and had to go down to Florida for a number of months.
+
+262
+00:19:06,221 --> 00:19:10,580
+The deadline for the Columbia Exposition came and went.
+
+263
+00:19:10,581 --> 00:19:14,100
+It was a major opportunity lost.
+
+264
+00:19:14,101 --> 00:19:17,380
+But Edison still seemed unsure about the value
+
+265
+00:19:17,381 --> 00:19:19,880
+of his moving image machine.
+
+266
+00:19:19,881 --> 00:19:23,920
+In 1893, he wrote to Edward Moybridge,
+
+267
+00:19:23,921 --> 00:19:27,020
+I have constructed a little instrument I call the kinetograph.
+
+268
+00:19:27,021 --> 00:19:32,020
+But I'm very doubtful if there's any commercial feature in it.
+
+269
+00:19:34,020 --> 00:19:39,020
+Edison had missed his opportunity to show he was first with the motion picture machine,
+
+270
+00:19:39,021 --> 00:19:42,020
+but there were others close behind.
+
+271
+00:19:45,020 --> 00:19:50,020
+Dixon's breakthrough in creating motion pictures came in the use of a flexible film called celluloid,
+
+272
+00:19:50,021 --> 00:19:55,020
+perfected by bank teller and amateur photographer George Eastman.
+
+273
+00:19:55,021 --> 00:20:09,020
+The main theme of the 1893 Columbia Exposition in Chicago was electricity.
+
+274
+00:20:09,021 --> 00:20:20,020
+Exposition halls were filled with the giant dynamos spawned by Edison's creation of the first electric lighting system in 1882.
+
+275
+00:20:20,021 --> 00:20:24,020
+Edison was chosen as the living American who would most be remembered.
+
+276
+00:20:24,021 --> 00:20:28,220
+who would most be remembered 100 years later, 1993.
+
+277
+00:20:30,260 --> 00:20:32,020
+Not far from the truth,
+
+278
+00:20:32,021 --> 00:20:34,200
+but Edison's most recent invention,
+
+279
+00:20:34,201 --> 00:20:37,740
+a moving pictures machine, was nowhere to be seen.
+
+280
+00:20:39,580 --> 00:20:44,140
+Later, in 1893, anxious to demonstrate his lead,
+
+281
+00:20:44,141 --> 00:20:46,740
+Edison held a public showing of the kinetoscope
+
+282
+00:20:46,741 --> 00:20:49,380
+for a group of scientists at the Brooklyn Institute
+
+283
+00:20:49,381 --> 00:20:50,820
+of Arts and Sciences.
+
+284
+00:20:52,820 --> 00:20:54,000
+The film he showed was,
+
+285
+00:20:54,020 --> 00:20:57,460
+one of Dixon's mini-movies, the blacksmith's shop.
+
+286
+00:20:59,780 --> 00:21:02,420
+These are two frames from that film.
+
+287
+00:21:04,580 --> 00:21:08,160
+In 1894, Dixon's health had improved,
+
+288
+00:21:08,760 --> 00:21:10,320
+and he was back in the lab.
+
+289
+00:21:12,620 --> 00:21:15,800
+His first assignment, design and build,
+
+290
+00:21:16,300 --> 00:21:17,860
+the first movie studio.
+
+291
+00:21:19,700 --> 00:21:22,160
+Constructed at a cost of $638
+
+292
+00:21:22,161 --> 00:21:29,340
+covered with black tar paper, it resembled a 19th century police patrol wagon and was called
+
+293
+00:21:29,341 --> 00:21:30,620
+the Black Mariah.
+
+294
+00:21:30,621 --> 00:21:36,420
+A model shows how a section of the building's roof opened to let in the light
+
+295
+00:21:36,421 --> 00:21:41,100
+and the whole structure turned on a rail track so that it could follow the sun.
+
+296
+00:21:42,720 --> 00:21:46,888
+Early film needed bright sunlight to produce clear images.
+
+297
+00:21:46,889 --> 00:21:49,260
+Making movies in the Black Mariah
+
+298
+00:21:49,261 --> 00:21:51,120
+was slow and hot.
+
+299
+00:21:52,160 --> 00:22:01,160
+Working with the bulky equipment, it often took Dixon a week to get 15 seconds of usable film.
+
+300
+00:22:01,161 --> 00:22:08,160
+This is the kind of camera he used called a kinetograph.
+
+301
+00:22:08,161 --> 00:22:16,160
+One of the first movies produced in Dixon's Black Mariah Studio starred a co-worker, Fred Ott.
+
+302
+00:22:16,161 --> 00:22:21,160
+The Sneeze. It was short and to the point.
+
+303
+00:22:21,161 --> 00:22:30,160
+In 1894, with an application signed by Dixon and submitted with a 50-cent fee,
+
+304
+00:22:30,161 --> 00:22:38,160
+the Edison kinetoscopic study of the sneeze was the first film to be copyrighted with the Library of Congress.
+
+305
+00:22:38,161 --> 00:22:45,160
+Hardly born, the movies began taking their first full strides.
+
+306
+00:22:45,161 --> 00:22:50,160
+The day would come when a single film would cost over a hundred million dollars.
+
+307
+00:22:50,161 --> 00:22:51,353
+million dollars.
+
+308
+00:22:51,354 --> 00:22:56,720
+Edison's account book show that the entire process of creating the first
+
+309
+00:22:56,721 --> 00:23:04,413
+kinetoscope was $24,118 and $4.00,000. About $200,000 today.
+
+310
+00:23:04,414 --> 00:23:08,260
+Edison never avoided a profit,
+
+311
+00:23:09,060 --> 00:23:14,480
+but despite Dixon's progress, he continued to delay commercial release of the kinetoscope.
+
+312
+00:23:16,300 --> 00:23:19,520
+Without sound, he wasn't satisfied.
+
+313
+00:23:20,160 --> 00:23:25,840
+It took others in his company to push the silent kinetoscope into the marketplace.
+
+314
+00:23:27,600 --> 00:23:39,560
+In 1894, a group of outside investors bought 25 kinetoscopes and set up shop with 10 machines at 1155 Broadway, New York City.
+
+315
+00:23:41,960 --> 00:23:45,920
+Edison made sure he got hefty royalties from their efforts.
+
+316
+00:23:47,440 --> 00:23:50,140
+The first movie premiere was a movie premiere was a lot of the movie.
+
+317
+00:23:50,160 --> 00:23:55,980
+April 14th, 1894. The kinetoscope was an instant sensation.
+
+318
+00:23:55,981 --> 00:24:00,320
+Soon, kinetoscope parlors were all the rage.
+
+319
+00:24:01,440 --> 00:24:07,600
+An early special event was a boxing match between former champ gentleman Jim Corbett and a punching
+
+320
+00:24:07,601 --> 00:24:11,038
+bag challenger named Pete Courtney.
+
+321
+00:24:11,039 --> 00:24:17,520
+Sweating in the impressive heat of the Black Mariah, Dixon shouted
+
+322
+00:24:17,521 --> 00:24:22,520
+instructions to make sure Corbett knocked out his opponent during the appointed sixth round
+
+323
+00:24:22,521 --> 00:24:26,800
+and in a spot where the action could be in focus.
+
+324
+00:24:28,360 --> 00:24:33,600
+In kinetoscope parlors, one round of the fight was assigned to each of six machines,
+
+325
+00:24:34,440 --> 00:24:37,620
+and viewers paid 50 cents to move from machine to machine,
+
+326
+00:24:38,540 --> 00:24:42,960
+until they reached kinetoscope number six and the climactic knockout.
+
+327
+00:24:42,961 --> 00:24:49,680
+Other less violent fare also attracted predominantly male audiences,
+
+328
+00:24:50,300 --> 00:24:52,680
+like the risque Carmen Cetus dance.
+
+329
+00:24:53,480 --> 00:24:56,900
+The movie certainly didn't begin as high-class entertainment,
+
+330
+00:24:57,300 --> 00:25:00,060
+but they reflected Edison's down-to-earth taste.
+
+331
+00:25:00,580 --> 00:25:03,440
+After the Black Mariah was built,
+
+332
+00:25:03,600 --> 00:25:08,220
+you began to see a stream of entertainers Vodville Act,
+
+333
+00:25:08,720 --> 00:25:11,660
+the world's strong man of the time Eugene Sandow,
+
+334
+00:25:11,661 --> 00:25:15,600
+come to the laboratory at West Orange to perform in front of the camera.
+
+335
+00:25:16,200 --> 00:25:19,100
+Edison would go out, he would horse around with Sandow,
+
+336
+00:25:19,420 --> 00:25:22,780
+the reporters were there every time one of these films were taken,
+
+337
+00:25:22,900 --> 00:25:27,080
+and they'd write headlines like World's Smartest Man meets World's Strongest Man.
+
+338
+00:25:27,660 --> 00:25:32,460
+Everybody had a good time, and the lab staff got free passes to Broadway shows.
+
+339
+00:25:34,020 --> 00:25:36,720
+As simple as the early movies were,
+
+340
+00:25:36,820 --> 00:25:40,020
+the power of the new medium quickly made itself known,
+
+341
+00:25:40,021 --> 00:25:43,380
+pushing 19th century proprieties.
+
+342
+00:25:44,420 --> 00:25:47,040
+This film was called her first cigarette.
+
+343
+00:25:48,620 --> 00:25:51,440
+These early kinetoscope films, in important ways,
+
+344
+00:25:51,480 --> 00:25:54,180
+had a major impact on American culture right from the start.
+
+345
+00:25:54,640 --> 00:25:57,940
+A lot of these films were of things that were really forbidden
+
+346
+00:25:57,941 --> 00:25:59,400
+to be seen in the flesh.
+
+347
+00:26:00,520 --> 00:26:02,080
+His motion pictures really from the outset
+
+348
+00:26:02,081 --> 00:26:05,360
+sort of turned commercial popter culture on its ear.
+
+349
+00:26:05,520 --> 00:26:07,480
+I mean, it was a very disruptive force,
+
+350
+00:26:07,481 --> 00:26:15,040
+something that it would take over a decade for the sort of the guardians of culture to recover from.
+
+351
+00:26:16,280 --> 00:26:20,660
+By 1895, kinetoscope audiences were increasing.
+
+352
+00:26:21,500 --> 00:26:25,900
+But Edison's partner, Dixon, wanted to take the invention one step further
+
+353
+00:26:25,901 --> 00:26:28,600
+and project the images on a screen.
+
+354
+00:26:30,600 --> 00:26:33,000
+Edison vehemently disagreed.
+
+355
+00:26:33,700 --> 00:26:36,160
+Why kill the goose that lays the golden egg?
+
+356
+00:26:36,161 --> 00:26:37,240
+He insisted.
+
+357
+00:26:38,460 --> 00:26:42,780
+If he felt that you were infringing upon him in any way,
+
+358
+00:26:42,980 --> 00:26:44,160
+questioning his authority,
+
+359
+00:26:45,100 --> 00:26:48,780
+questioning his integrity or his imagination,
+
+360
+00:26:49,800 --> 00:26:53,640
+differing with the direction that he thought should be taken in a given project,
+
+361
+00:26:54,260 --> 00:27:00,640
+then he could become very contrary and arbitrary, angry.
+
+362
+00:27:01,880 --> 00:27:05,120
+He could stop speaking to you for 25 years.
+
+363
+00:27:06,160 --> 00:27:13,940
+Whatever Edison thought, ambitious entrepreneurs weren't waiting for the wizard to come up with a projecting kinetoscope.
+
+364
+00:27:15,260 --> 00:27:26,740
+Frustrated with lab managers and eager to innovate, WKL Dixon started working on a projection system of his own, in secret, with someone else.
+
+365
+00:27:30,600 --> 00:27:35,960
+Edison's reluctance to project his movies may have had much to do with their subject matter.
+
+366
+00:27:36,160 --> 00:27:41,420
+Most of his early motion pictures would have been considered illicit and immoral if projected.
+
+367
+00:27:47,780 --> 00:27:53,960
+In 1895, frustrated with his boss's refusal to develop a projection system,
+
+368
+00:27:54,600 --> 00:28:00,520
+Edison project manager WKL Dixon had begun working with Edison competitors.
+
+369
+00:28:02,640 --> 00:28:06,140
+When his activities were discovered, he was forced.
+
+370
+00:28:06,160 --> 00:28:07,520
+to leave the lab.
+
+371
+00:28:08,960 --> 00:28:11,260
+Edison felt he'd been double-crossed.
+
+372
+00:28:12,660 --> 00:28:17,140
+Dixon went on to help found the new movie company American Mutoscope.
+
+373
+00:28:19,540 --> 00:28:23,180
+As competition to the Kinetoscope, American Mutoscope,
+
+374
+00:28:23,181 --> 00:28:29,920
+created a peep show machine that used images on file cards that flicked past the viewer.
+
+375
+00:28:31,220 --> 00:28:35,700
+This simpler system was cheaper and more reliable than the film-based kinetoscope.
+
+376
+00:28:36,160 --> 00:28:45,160
+At the same time, Dixon and his partners pushed ahead on a projection system.
+
+377
+00:28:45,161 --> 00:28:48,040
+It was a worldwide race.
+
+378
+00:28:48,041 --> 00:28:54,540
+In France, there were two brothers, August and Louis Lumier, owners of a successful photographic
+
+379
+00:28:54,541 --> 00:28:59,320
+equipment business.
+
+380
+00:28:59,321 --> 00:29:06,140
+Their Lumier motion picture machine was called the Cinematograph, light and portable, unlike Edison
+
+381
+00:29:06,160 --> 00:29:13,440
+Dixon's bulky apparatus, the cinematograph's elegantly designed camera projector also reduced
+
+382
+00:29:13,441 --> 00:29:22,240
+Edison's 46 frames per second speed to 16 frames for quieter, less jittery projection.
+
+383
+00:29:22,241 --> 00:29:30,860
+Also, rather than using bulky electric power, the Lumiere camera was hand-cranked, ready to go anywhere.
+
+384
+00:29:30,861 --> 00:29:34,680
+This is one of the early Lumier films.
+
+385
+00:29:34,681 --> 00:29:37,380
+They were first projected on a large screen
+
+386
+00:29:37,381 --> 00:29:41,520
+on December 28, 1895.
+
+387
+00:29:41,521 --> 00:29:45,020
+Taking advantage of the cinematograph's portability,
+
+388
+00:29:45,021 --> 00:29:47,960
+Lumiere films delighted audiences with scenes
+
+389
+00:29:47,961 --> 00:29:49,660
+from everyday life.
+
+390
+00:29:51,800 --> 00:29:54,300
+In contrast to Edison's vaudeville acts
+
+391
+00:29:54,301 --> 00:29:56,200
+and stage presentations.
+
+392
+00:29:58,280 --> 00:30:01,580
+Back in America, a few weeks ahead of the Lumiere's,
+
+393
+00:30:01,581 --> 00:30:04,660
+Charles Jenkins and Thomas Armat demonstrated
+
+394
+00:30:04,680 --> 00:30:08,440
+another projection system in September of 1895.
+
+395
+00:30:12,360 --> 00:30:15,520
+They called their projector the phantoscope.
+
+396
+00:30:15,521 --> 00:30:17,800
+By rapidly starting and stopping the film
+
+397
+00:30:17,801 --> 00:30:19,760
+as it passed through the projector,
+
+398
+00:30:19,761 --> 00:30:22,800
+the phantoscope eliminated the annoying flicker
+
+399
+00:30:22,801 --> 00:30:25,640
+in Edison's continuous motion kinetoscope.
+
+400
+00:30:27,440 --> 00:30:30,140
+Edison was stubborn.
+
+401
+00:30:30,141 --> 00:30:32,400
+It was usually his way or not at all.
+
+402
+00:30:32,401 --> 00:30:34,680
+But with audiences' demands,
+
+403
+00:30:34,681 --> 00:30:36,680
+and the landing movies on a screen,
+
+404
+00:30:36,681 --> 00:30:40,680
+he was finally convinced to put his name on a projector.
+
+405
+00:30:40,681 --> 00:30:42,680
+Not his.
+
+406
+00:30:42,681 --> 00:30:46,680
+He licensed the machine invented by Jenkins and Armat.
+
+407
+00:30:46,681 --> 00:30:50,680
+They renamed it the Vitoscope.
+
+408
+00:30:50,681 --> 00:30:53,680
+The Vitoscope Motion Picture Projector
+
+409
+00:30:53,681 --> 00:30:56,680
+debuted on April 23, 1896
+
+410
+00:30:56,681 --> 00:31:00,680
+at Costa and Beale's Music Hall in New York City.
+
+411
+00:31:02,680 --> 00:31:03,680
+Modern movies were born.
+
+412
+00:31:03,681 --> 00:31:08,680
+For audiences, it was love at first sight.
+
+413
+00:31:08,681 --> 00:31:18,680
+The most impressive short film was of surf crashing onto the shore at Dover.
+
+414
+00:31:18,681 --> 00:31:25,680
+And this was a film loop that was repeated over and over again, and a number of people in the audience so struck by the realism of this
+
+415
+00:31:25,681 --> 00:31:29,680
+dived under their seats, thinking that they were going to get hit by a wave.
+
+416
+00:31:29,681 --> 00:31:33,660
+Unacknowledged in the back of the house, Thomas Sussonelighted in the back of the house, Thomas
+
+417
+00:31:33,680 --> 00:31:36,680
+Armat, one of the Vitoscope's true inventors,
+
+418
+00:31:36,681 --> 00:31:40,680
+watched his machine making sure everything went well,
+
+419
+00:31:40,681 --> 00:31:44,680
+while audiences cheered Edison's latest Marvel.
+
+420
+00:31:44,681 --> 00:31:48,680
+The Edison name meant box office.
+
+421
+00:31:48,681 --> 00:31:53,680
+The Kiss was one of Edison's earliest hits.
+
+422
+00:31:53,681 --> 00:31:57,680
+It recreated a scene from a popular Broadway show
+
+423
+00:31:57,681 --> 00:31:59,680
+and had the further distinction of inspiring
+
+424
+00:31:59,681 --> 00:32:02,680
+probably the first competitive movie remake,
+
+425
+00:32:02,681 --> 00:32:03,680
+remake.
+
+426
+00:32:07,680 --> 00:32:11,680
+In April 1896, after six years,
+
+427
+00:32:11,681 --> 00:32:16,680
+Edison's patent on the fundamental motion picture system was approved.
+
+428
+00:32:16,681 --> 00:32:20,680
+But even that didn't stop the competitive warfare.
+
+429
+00:32:20,681 --> 00:32:23,680
+In Europe and the United States,
+
+430
+00:32:23,681 --> 00:32:28,680
+alternative projecting machines were popping up everywhere.
+
+431
+00:32:28,681 --> 00:32:31,680
+Everybody was suing the daylight out of everybody else
+
+432
+00:32:31,681 --> 00:32:34,680
+trying to promote their own competitive position.
+
+433
+00:32:34,681 --> 00:32:38,680
+And everybody was probably guilty of shading the truth
+
+434
+00:32:38,681 --> 00:32:42,680
+in terms of arguing what they had really done
+
+435
+00:32:42,681 --> 00:32:46,680
+and making claims against their competitor.
+
+436
+00:32:46,681 --> 00:32:51,680
+It was not, the early litigation was not an uplifting experience
+
+437
+00:32:51,681 --> 00:32:52,680
+by any means.
+
+438
+00:32:52,681 --> 00:32:56,680
+Not even legal turmoil could stop the growing influence
+
+439
+00:32:56,681 --> 00:32:58,680
+of motion pictures.
+
+440
+00:32:58,681 --> 00:33:04,680
+From storefronts, special places for movies evolved.
+
+441
+00:33:04,681 --> 00:33:07,680
+They were called Nickelodeons.
+
+442
+00:33:07,681 --> 00:33:11,680
+Combining peep show arcades with projection theaters,
+
+443
+00:33:11,681 --> 00:33:15,680
+Nickelodeons began providing popular entertainment
+
+444
+00:33:15,681 --> 00:33:17,680
+for middle-class audiences.
+
+445
+00:33:17,681 --> 00:33:22,680
+Next, came theaters dedicated to projected films.
+
+446
+00:33:22,681 --> 00:33:26,680
+One of the first was tallies in Los Angeles.
+
+447
+00:33:26,681 --> 00:33:34,020
+Early motion picture audiences were whisked around the world and across the country.
+
+448
+00:33:37,760 --> 00:33:41,220
+Vanishing people and places were captured forever.
+
+449
+00:33:42,820 --> 00:33:46,340
+Perceptions of time and distance had begun to shrink.
+
+450
+00:33:47,640 --> 00:33:52,560
+It didn't take long for the power and influence of the movies to be appreciated.
+
+451
+00:33:54,520 --> 00:33:56,660
+In 1898, WKLW.
+
+452
+00:33:56,680 --> 00:34:02,520
+Dixon now living and working in England, scored another motion picture first when he was granted
+
+453
+00:34:02,521 --> 00:34:06,640
+permission to film Pope Leo the 13th in the Vatican.
+
+454
+00:34:10,880 --> 00:34:16,800
+Dixon's career in Europe would eventually go into gradual decline, but in Paris, he proudly
+
+455
+00:34:16,801 --> 00:34:20,740
+posed with fellow movie pioneer Etienne Jean-Marais.
+
+456
+00:34:22,120 --> 00:34:26,660
+Back in America in 1900, the Edison motion picture conference.
+
+457
+00:34:26,680 --> 00:34:29,680
+gained another influential employee.
+
+458
+00:34:29,681 --> 00:34:33,680
+His name, Edwin S. Porter.
+
+459
+00:34:33,681 --> 00:34:36,680
+This 1902 Edison film made by Porter,
+
+460
+00:34:36,681 --> 00:34:40,680
+Jack and the Beanstalk, is typical of its time.
+
+461
+00:34:42,680 --> 00:34:46,680
+All the action is taken from one on-moving position.
+
+462
+00:34:46,681 --> 00:34:49,680
+Audiences were getting bored.
+
+463
+00:34:49,681 --> 00:34:54,680
+Porter recognized that the movies need new forms.
+
+464
+00:34:54,681 --> 00:34:56,680
+The question was, how to find
+
+465
+00:34:56,681 --> 00:35:00,440
+a new kind of subject matter that would get people back in the theaters.
+
+466
+00:35:01,020 --> 00:35:03,440
+And the solution really was a simple one. It was the story film.
+
+467
+00:35:04,820 --> 00:35:10,320
+A landmark in his development is this 1903 film Porter made for Edison,
+
+468
+00:35:10,900 --> 00:35:12,340
+the Great Train Robbery.
+
+469
+00:35:13,600 --> 00:35:16,200
+Here is certainly the first movie Western,
+
+470
+00:35:17,120 --> 00:35:20,280
+although it's claimed to be the first film to tell a story
+
+471
+00:35:20,281 --> 00:35:23,140
+could be challenged by European movies of the day.
+
+472
+00:35:23,141 --> 00:35:30,640
+Still, Porter's film shows how far motion picture technique had come in little more than a decade,
+
+473
+00:35:31,940 --> 00:35:37,080
+including special effects like the image of a train inserted in the station house window.
+
+474
+00:35:38,860 --> 00:35:45,860
+With longer storytelling films, movies were even farther than ever from the first kinetoscope entertainments.
+
+475
+00:35:46,620 --> 00:35:51,400
+But despite Porter's example, Edison was slow to go into feature-length film production.
+
+476
+00:35:51,401 --> 00:35:57,720
+When Porter resisted making movies like factory products in 1909, Edison fired him.
+
+477
+00:35:59,880 --> 00:36:04,120
+It was the beginning of the end for the Edison Motion Picture Company.
+
+478
+00:36:06,040 --> 00:36:09,400
+Edison was never interested in being a film producer.
+
+479
+00:36:10,300 --> 00:36:19,020
+In the end, he left it to others to turn an ingenious technology into the 20th century's most powerful communications medium.
+
+480
+00:36:21,400 --> 00:36:31,000
+After the Great Train Robbery, Edwin Porter went on to direct the less well-known dream of a rare bit fiend,
+
+481
+00:36:31,001 --> 00:36:36,480
+the hallucinatory journey of a man infatuated with melted cheese.
+
+482
+00:36:41,480 --> 00:36:48,800
+From short vignettes by 1902, movies were exploring new forms.
+
+483
+00:36:48,801 --> 00:36:53,060
+The film A Trip to the Moon
+
+484
+00:36:53,061 --> 00:36:55,760
+represents an explosion of innovation.
+
+485
+00:36:57,680 --> 00:37:01,860
+It's the work of French magician filmmaker George Milliers.
+
+486
+00:37:03,140 --> 00:37:06,640
+Even before Edison employee, Edwin S. Porter Milliers
+
+487
+00:37:06,641 --> 00:37:09,960
+and other French filmmakers were beginning to tell stories
+
+488
+00:37:09,961 --> 00:37:11,400
+in motion pictures.
+
+489
+00:37:14,860 --> 00:37:18,780
+Inspired by the Lumier brothers, Milliers was creating drawing.
+
+490
+00:37:18,800 --> 00:37:21,800
+that could only be presented on film.
+
+491
+00:37:21,801 --> 00:37:23,800
+It was a new means of storytelling
+
+492
+00:37:23,801 --> 00:37:26,800
+in the beginning of a new art form.
+
+493
+00:37:26,801 --> 00:37:29,800
+For Edison, there were opponents overseas
+
+494
+00:37:29,801 --> 00:37:31,800
+as well as at home.
+
+495
+00:37:31,801 --> 00:37:34,800
+Edison was always trying to defend his position.
+
+496
+00:37:34,801 --> 00:37:36,800
+After all, he started off as the only motion picture producer
+
+497
+00:37:36,801 --> 00:37:37,800
+in the world.
+
+498
+00:37:37,801 --> 00:37:39,800
+Pretty soon the French were coming in,
+
+499
+00:37:39,801 --> 00:37:41,800
+then he had a whole series of American competitors.
+
+500
+00:37:41,801 --> 00:37:43,800
+He always felt he was on the verge of sort of being
+
+501
+00:37:43,801 --> 00:37:45,800
+marginalized, being put out of business.
+
+502
+00:37:45,801 --> 00:37:46,800
+And he was trying to defend himself
+
+503
+00:37:46,801 --> 00:37:47,800
+in his commercial interests.
+
+504
+00:37:47,801 --> 00:37:51,840
+commercial interests. And of course, one of his greatest strengths was his patents.
+
+505
+00:37:52,980 --> 00:37:59,860
+In 1909, in the midst of continuing industry warfare for mutual survival, Edison and his biggest
+
+506
+00:37:59,861 --> 00:38:02,472
+competitors decided to call a truce.
+
+507
+00:38:02,473 --> 00:38:06,100
+They joined together in the motion pictures patent
+
+508
+00:38:06,101 --> 00:38:11,680
+company, an attempt to rest control of a movie business running wild with foreign companies
+
+509
+00:38:11,681 --> 00:38:17,780
+and independent entrepreneurs. Hired enforcers, raided.
+
+510
+00:38:17,800 --> 00:38:19,800
+non-patent company productions,
+
+511
+00:38:19,801 --> 00:38:23,800
+sometimes shooting holes through bootleg cameras.
+
+512
+00:38:23,801 --> 00:38:26,800
+Kodak's George Eastman joined Edison
+
+513
+00:38:26,801 --> 00:38:29,800
+and refused to sell film stock to independence.
+
+514
+00:38:29,801 --> 00:38:34,800
+Such actions led producers to move farther away
+
+515
+00:38:34,801 --> 00:38:37,800
+from New York and New Jersey where most movies were made.
+
+516
+00:38:37,801 --> 00:38:44,800
+Eventually, many settled in a rural town near Los Angeles.
+
+517
+00:38:44,801 --> 00:38:46,800
+The area had good climate,
+
+518
+00:38:46,801 --> 00:38:49,800
+varied location possibilities,
+
+519
+00:38:49,801 --> 00:38:52,800
+and also it was convenient to the Mexican border,
+
+520
+00:38:52,801 --> 00:38:55,800
+in case of trouble from Edison's patent men.
+
+521
+00:38:55,801 --> 00:38:59,800
+The new film center was called Hollywood.
+
+522
+00:38:59,801 --> 00:39:02,800
+Finally, after years of court fights,
+
+523
+00:39:02,801 --> 00:39:06,800
+independent producers William Fox and Carl Lemley,
+
+524
+00:39:06,801 --> 00:39:09,800
+founder of Universal Studios, won.
+
+525
+00:39:09,801 --> 00:39:15,800
+But by that time, Thomas Edison was no longer a movie producer.
+
+526
+00:39:15,801 --> 00:39:17,800
+a movie producer.
+
+527
+00:39:17,801 --> 00:39:21,800
+In 1911 before he left movies to others,
+
+528
+00:39:21,801 --> 00:39:24,800
+Edison made one last attempt at an old dream,
+
+529
+00:39:24,801 --> 00:39:28,800
+motion pictures with synchronized sound.
+
+530
+00:39:28,801 --> 00:39:32,800
+Silent films were never really silent.
+
+531
+00:39:32,801 --> 00:39:35,800
+Live offstage sound effects were often used
+
+532
+00:39:35,801 --> 00:39:39,800
+in music from a single piano to a full symphony orchestra
+
+533
+00:39:39,801 --> 00:39:41,800
+was common.
+
+534
+00:39:41,801 --> 00:39:45,800
+True synchronized sound, however, remained
+
+535
+00:39:45,801 --> 00:39:49,800
+elusive.
+
+536
+00:39:49,801 --> 00:39:52,340
+Spurred by recent improvements in his phonograph,
+
+537
+00:39:52,341 --> 00:39:57,040
+Edison linked his sound machine with his movie equipment.
+
+538
+00:39:57,041 --> 00:40:00,440
+The result was the kinetophone.
+
+539
+00:40:00,441 --> 00:40:04,360
+The kinetophone was nothing more than a variable speed control
+
+540
+00:40:04,361 --> 00:40:07,920
+on the phonograph that allowed the projectionist to adjust the
+
+541
+00:40:07,921 --> 00:40:14,520
+sound to keep it in sync with the picture, hopefully.
+
+542
+00:40:14,521 --> 00:40:19,060
+In February 1912, 50 connectophones were introduced into the theaters.
+
+543
+00:40:19,940 --> 00:40:27,800
+The New York Times reported gasps of astonishment, but soon sound and picture began to drift apart.
+
+544
+00:40:28,420 --> 00:40:40,537
+After the audience's expectations have been built up, to have the sound seriously out of sync with the performance on the screen led to uproar, people hooting,
+
+545
+00:40:40,538 --> 00:40:44,500
+ridicule, critical newspaper articles, making fun of
+
+546
+00:40:44,520 --> 00:40:49,760
+this and certainly Edison wasn't pleased about ending up being an object of
+
+547
+00:40:49,761 --> 00:40:53,520
+ridicule after all of the effort that he put into this technology.
+
+548
+00:40:53,521 --> 00:40:59,520
+So ended the longest single experiment in the history of Edison's laboratory.
+
+549
+00:40:59,521 --> 00:41:07,020
+On March 30th, 1918 the inventor sold his Bronx studio and all his motion picture
+
+550
+00:41:07,021 --> 00:41:13,020
+interests. The end of his interest in the motion picture was more than the result of
+
+551
+00:41:13,021 --> 00:41:20,020
+financial failure, it was also part of a pattern in his life.
+
+552
+00:41:20,021 --> 00:41:26,520
+He lacked the capacity for sustained research in a single field.
+
+553
+00:41:26,521 --> 00:41:32,320
+He starts in telegraphy, he gives up telegraphy, he moves to telephony, he gives up telephony,
+
+554
+00:41:32,321 --> 00:41:36,960
+he moves to the phonograph, he goes to the electric lighting system, he comes back to motion
+
+555
+00:41:36,961 --> 00:41:43,000
+pictures, which all of which have combinations and bits and pieces of each other, but
+
+556
+00:41:43,020 --> 00:41:45,920
+which are not, in fact, the same system.
+
+557
+00:41:47,160 --> 00:41:49,740
+While Edison drifted away from the movie business,
+
+558
+00:41:49,860 --> 00:41:53,300
+the silent film was maturing into the central art form
+
+559
+00:41:53,301 --> 00:41:54,700
+of the 20th century.
+
+560
+00:41:56,040 --> 00:41:58,560
+D.W. Griffith would soon create
+
+561
+00:41:58,561 --> 00:42:00,980
+the controversial classic Birth of a Nation.
+
+562
+00:42:02,680 --> 00:42:05,880
+An English music hall comedian Charlie Chaplin
+
+563
+00:42:05,881 --> 00:42:08,240
+would become first and perhaps the greatest
+
+564
+00:42:08,241 --> 00:42:09,840
+international movie star.
+
+565
+00:42:11,920 --> 00:42:13,000
+All this hardly third.
+
+566
+00:42:13,020 --> 00:42:17,020
+30 years after WKL Dixon's pioneering experiments
+
+567
+00:42:17,021 --> 00:42:19,020
+in the Black Mariah.
+
+568
+00:42:19,021 --> 00:42:24,020
+But in the 1920s, no one knew Dixon's name.
+
+569
+00:42:24,021 --> 00:42:28,020
+Thomas Edison was the inventor of the motion pictures,
+
+570
+00:42:28,021 --> 00:42:31,020
+a living legend.
+
+571
+00:42:31,021 --> 00:42:36,020
+He became the most widely known inventor of the age.
+
+572
+00:42:36,021 --> 00:42:40,020
+In surveys of the top 10 figures in history,
+
+573
+00:42:40,021 --> 00:42:43,020
+Edison often figured near the top so
+
+574
+00:42:43,021 --> 00:42:46,520
+sometimes at the very top, very unusual for an inventor
+
+575
+00:42:46,521 --> 00:42:50,020
+who were often seen as kind of odd folks.
+
+576
+00:42:50,021 --> 00:42:53,360
+Yet here was Edison seeming to be both every man
+
+577
+00:42:53,361 --> 00:42:56,560
+and this great genius at the same time.
+
+578
+00:42:56,561 --> 00:43:00,240
+1927 was a landmark year.
+
+579
+00:43:00,241 --> 00:43:03,180
+It was Edison's 80th birthday,
+
+580
+00:43:03,181 --> 00:43:07,040
+but it was also the year that produced the jazz singer,
+
+581
+00:43:07,041 --> 00:43:11,120
+the first successful talking picture.
+
+582
+00:43:11,121 --> 00:43:12,920
+Movie technology had passed him by.
+
+583
+00:43:13,020 --> 00:43:18,420
+But the old wizard could still charm newsreel reporters,
+
+584
+00:43:18,920 --> 00:43:21,420
+poking fun at his lifelong hearing problem.
+
+585
+00:43:21,421 --> 00:43:23,120
+What do you think of the sound pictures of today?
+
+586
+00:43:23,121 --> 00:43:25,960
+That's what I think of the talking picture.
+
+587
+00:43:26,900 --> 00:43:27,600
+Yeah.
+
+588
+00:43:30,060 --> 00:43:31,480
+Well, I don't know.
+
+589
+00:43:31,680 --> 00:43:32,920
+I never heard one.
+
+590
+00:43:36,520 --> 00:43:38,820
+Well, I have a little trouble down then,
+
+591
+00:43:39,120 --> 00:43:40,820
+but that's because I'm getting old.
+
+592
+00:43:40,821 --> 00:43:43,820
+But I got a lot of ginger yet.
+
+593
+00:43:45,820 --> 00:43:49,820
+Four months later, the wizard of Menlo Park was dead.
+
+594
+00:43:51,820 --> 00:43:55,820
+The world mourned the man whose legend claimed the phonograph,
+
+595
+00:43:55,821 --> 00:43:59,820
+the electric light, and the movies.
+
+596
+00:44:01,820 --> 00:44:03,820
+Something so incredible.
+
+597
+00:44:05,820 --> 00:44:09,820
+In 1935, four years later, suffering from hard times,
+
+598
+00:44:09,821 --> 00:44:13,760
+hard times, another man died quietly in England.
+
+599
+00:44:13,761 --> 00:44:16,000
+William Kennedy, Laurie Dixon.
+
+600
+00:44:16,001 --> 00:44:20,600
+To the end, Edison considered Dixon a double crosser.
+
+601
+00:44:20,601 --> 00:44:25,840
+Edison and certainly the Edison legend left no room for co-inventors.
+
+602
+00:44:25,841 --> 00:44:29,200
+In fact, it was a true collaborative effort.
+
+603
+00:44:29,201 --> 00:44:34,740
+Both of their roles were essential to achieve success.
+
+604
+00:44:34,741 --> 00:44:39,220
+It wouldn't have seen the light of day if they both hadn't been working on it.
+
+605
+00:44:39,221 --> 00:44:44,220
+Despite Dixon's key role, other Edison scholars argue
+
+606
+00:44:44,221 --> 00:44:48,220
+that Edison might have found another Dixon,
+
+607
+00:44:48,221 --> 00:44:52,220
+but Dixon could never have found another Thomas Edison.
+
+608
+00:44:52,221 --> 00:44:59,220
+This is Edison's death mask, never before seen on television.
+
+609
+00:44:59,221 --> 00:45:03,220
+His expression serenely confident to the end,
+
+610
+00:45:03,221 --> 00:45:08,220
+dogged and determined, ruthless when he needed to be,
+
+611
+00:45:08,221 --> 00:45:13,220
+Thomas Edison may not have thought of all the ideas of his invention,
+
+612
+00:45:13,221 --> 00:45:17,220
+but he was the man who got them made.
+
+613
+00:46:16,020 --> 00:46:17,220
+AXAXAXAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+
+614
+00:46:17,221 --> 00:46:19,220
+Thank you.
+

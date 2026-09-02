@@ -1,0 +1,2156 @@
+1
+00:00:00,001 --> 00:00:04,500
+Extreme power. Extreme speed.
+
+2
+00:00:04,501 --> 00:00:09,600
+From the X-1 that broke the sound barrier to the scramjet aiming for Mach 10.
+
+3
+00:00:09,601 --> 00:00:14,800
+Planes on the cutting edge. From the past, the present and the future.
+
+4
+00:00:14,801 --> 00:00:18,600
+Now, Xtreme Aircraft on Modern Marvels.
+
+5
+00:00:30,000 --> 00:00:39,920
+In March of 2004, a test plane mounted on a rocket carried aloft by a bomber made history at Edwards Air Force Base, east of Los Angeles.
+
+6
+00:00:47,200 --> 00:00:49,040
+Launch, launch, launch.
+
+7
+00:00:49,560 --> 00:00:56,940
+After release from its B-52 mothership, the small unmanned X-43 flew at the amazing speed of Mach 7.
+
+8
+00:00:56,941 --> 00:01:00,580
+faster than any known jet aircraft has ever flown.
+
+9
+00:01:01,180 --> 00:01:03,040
+It was a very significant event.
+
+10
+00:01:03,280 --> 00:01:07,380
+Some people have even gone so far as to equate it actually with the Wright Brothers flight.
+
+11
+00:01:07,840 --> 00:01:13,160
+When it separated from the rocket, the X-43 accelerated on its own power to Mach 7.
+
+12
+00:01:14,400 --> 00:01:17,060
+Mach 7 is approximately 5,000 miles per hour,
+
+13
+00:01:17,200 --> 00:01:21,180
+so you can imagine flying New York to Los Angeles in just over a half an hour.
+
+14
+00:01:21,181 --> 00:01:29,360
+The NASA Dryden Flight Research Center says the scramjet-powered X-43 is capable of reaching at least Mach 10.
+
+15
+00:01:31,200 --> 00:01:34,040
+A scramjet is a supersonic combustion ramjet.
+
+16
+00:01:34,900 --> 00:01:43,080
+The ramjet, sometimes called the flying stovepipe, is one of the simplest engine designs ever conceived, with virtually no moving parts.
+
+17
+00:01:44,000 --> 00:01:47,800
+It's basically a hollow tube into which fuel is injected and ignited.
+
+18
+00:01:47,801 --> 00:01:52,740
+Unlike regular jets, there are no compressor blades inside to compress the air.
+
+19
+00:01:53,920 --> 00:01:59,360
+In a ramjet, supersonic air is slowed down to subsonic speed inside the jet engine.
+
+20
+00:02:00,060 --> 00:02:04,000
+But in a scramjet, the air moves through the engine at supersonic speed.
+
+21
+00:02:06,580 --> 00:02:12,240
+The X-43 vehicle has to endure some very extreme temperatures.
+
+22
+00:02:12,241 --> 00:02:18,400
+The temperature along the leading edges of the vehicle, for example, are in excess of 3,000 degrees Fahrenheit.
+
+23
+00:02:19,780 --> 00:02:24,980
+The front of the X-43 and the leading edges of the tail are made of carbon carbon,
+
+24
+00:02:25,520 --> 00:02:30,360
+a lightweight and strong composite material that can withstand extremely high temperatures.
+
+25
+00:02:30,920 --> 00:02:34,780
+Carbon carbon that we use is sort of a high-tech cousin to carbon fiber.
+
+26
+00:02:35,260 --> 00:02:38,520
+The carbon itself is different. It's a much higher temperature.
+
+27
+00:02:38,521 --> 00:02:40,660
+The bonding agent is much higher temperature.
+
+28
+00:02:40,661 --> 00:02:44,140
+It's good to 3,000 degrees without degrading. It doesn't wear away.
+
+29
+00:02:45,280 --> 00:02:48,240
+What you see is the front end of the vehicle, the tungsten nose.
+
+30
+00:02:48,800 --> 00:02:53,380
+The very front edge is the carbon-carbon leading edge that provides thermal protection.
+
+31
+00:02:54,000 --> 00:02:57,000
+As you can see, there's a lot of complicated machinery
+
+32
+00:02:57,001 --> 00:03:02,160
+and very densely packed systems inside this vehicle in order to make it work.
+
+33
+00:03:03,520 --> 00:03:08,340
+A number of small electric motors on the aircraft are controlled by computer signals from the ground.
+
+34
+00:03:08,341 --> 00:03:13,300
+Motors on these electric actuators move the surfaces.
+
+35
+00:03:13,780 --> 00:03:16,440
+That's how we maintain control of the vehicle in flight.
+
+36
+00:03:18,720 --> 00:03:20,000
+Ignition. Ignition.
+
+37
+00:03:20,320 --> 00:03:23,800
+Keeping the fuel burning inside the engine at supersonic speeds
+
+38
+00:03:23,801 --> 00:03:27,580
+has been described as trying to keep a match lit in a hurricane.
+
+39
+00:03:28,600 --> 00:03:33,300
+The flame doesn't really blow out because there are areas in the engine,
+
+40
+00:03:33,660 --> 00:03:35,260
+small areas that aren't supersonic,
+
+41
+00:03:35,261 --> 00:03:38,940
+that allow a flame to grab hold and to sustain itself.
+
+42
+00:03:39,720 --> 00:03:44,120
+There's something about flying that fast that I think just captures the imagination of folks.
+
+43
+00:03:44,460 --> 00:03:47,500
+It's just phenomenal to imagine flying that fast.
+
+44
+00:03:48,240 --> 00:03:52,360
+I'd say the main interest you find for the scramjet in the near term would be the military.
+
+45
+00:03:52,361 --> 00:03:59,000
+They would like to have a missile that goes, say, Mach 5, Mach 6, five or six times the speed of sound,
+
+46
+00:03:59,140 --> 00:04:03,000
+so it can get to a target very quickly and has a lot of range in doing that.
+
+47
+00:04:03,001 --> 00:04:07,140
+You can do that now with a solid rocket motor, but it runs out of gas pretty quickly.
+
+48
+00:04:08,300 --> 00:04:13,320
+The Air Force is also interested in using scramjet propulsion for super-fast bombers
+
+49
+00:04:13,321 --> 00:04:16,640
+that could strike anywhere in the world with amazing speed,
+
+50
+00:04:16,960 --> 00:04:19,500
+flying more than ten times as fast as current bombers.
+
+51
+00:04:20,020 --> 00:04:24,600
+There's no reason that a human couldn't pilot or be a passenger on a hypersonic airplane.
+
+52
+00:04:25,100 --> 00:04:28,920
+Vision vehicles, as we call them, include space access vehicles
+
+53
+00:04:28,921 --> 00:04:33,360
+to take astronauts to the space station or to orbit,
+
+54
+00:04:33,800 --> 00:04:36,400
+and also potentially passenger vehicles, again,
+
+55
+00:04:36,460 --> 00:04:38,560
+to take people to the other side of the world.
+
+56
+00:04:39,820 --> 00:04:44,000
+Some experts believe the scramjet could usher in a whole new era in aviation.
+
+57
+00:04:45,240 --> 00:04:48,740
+We entered the 19th century moving at 6 miles an hour,
+
+58
+00:04:48,860 --> 00:04:50,320
+the speed of an animal-drawn vehicle.
+
+59
+00:04:50,760 --> 00:04:53,600
+We entered the 20th century moving at 60 miles an hour,
+
+60
+00:04:54,040 --> 00:04:55,800
+the speed of a steam locomotive.
+
+61
+00:04:55,801 --> 00:04:58,320
+We entered the 21st century at 600 miles an hour,
+
+62
+00:04:58,321 --> 00:04:59,980
+the speed of an intercontinental jet airliner.
+
+63
+00:05:00,360 --> 00:05:02,980
+And if you plot this in semi-logarithmic fashion,
+
+64
+00:05:03,360 --> 00:05:06,860
+you get a nice straight line that indicates we may well enter the next century
+
+65
+00:05:06,861 --> 00:05:10,620
+at 6,000 miles an hour, which is precisely where you see
+
+66
+00:05:10,621 --> 00:05:14,800
+the X-43 really pointing us and heading in that direction.
+
+67
+00:05:16,120 --> 00:05:20,800
+The X-43 scramjet is carrying on a tradition of cutting-edge aircraft development
+
+68
+00:05:20,801 --> 00:05:22,180
+that goes back decades.
+
+69
+00:05:22,920 --> 00:05:26,680
+And although Mach 7 is a major accomplishment for an air-breathing jet engine,
+
+70
+00:05:26,681 --> 00:05:30,780
+Rocket-powered planes were flying almost that fast decades ago.
+
+71
+00:05:32,480 --> 00:05:37,680
+It all began with the most amazing series of extreme aircraft in aviation history.
+
+72
+00:05:38,440 --> 00:05:42,300
+They were called the X-planes, the X standing for experimental.
+
+73
+00:05:43,640 --> 00:05:46,940
+The very first X-plane was appropriately named the X-1.
+
+74
+00:05:46,941 --> 00:06:00,740
+In 1944, the United States decided to bite the bullet really and develop a specialized
+
+75
+00:06:00,741 --> 00:06:05,120
+family of research airplanes of which the X-1 was first that would essentially use the
+
+76
+00:06:05,121 --> 00:06:10,320
+sky as a laboratory and which would carry 500 pounds of recording instrumentation and
+
+77
+00:06:10,321 --> 00:06:15,440
+at the same time would also radio very important values that were measured in flight down to
+
+78
+00:06:15,441 --> 00:06:16,940
+ground stations.
+
+79
+00:06:16,941 --> 00:06:23,080
+This marked the birth, really, of a remarkable family of airplanes that continues to the present day, the so-called X-Series.
+
+80
+00:06:24,220 --> 00:06:28,400
+The Bell X-1 is arguably the most famous pure research aircraft ever built.
+
+81
+00:06:29,640 --> 00:06:34,720
+Bell aircraft built three X-1 rocket planes for the primary purpose of breaking the sound barrier.
+
+82
+00:06:36,640 --> 00:06:45,100
+For decades, traveling faster than the speed of sound, about 660 miles an hour at high altitude, it seemed an impossible task.
+
+83
+00:06:45,101 --> 00:06:46,600
+hence the term barrier.
+
+84
+00:06:47,320 --> 00:06:50,820
+It literally was seen by many as an impenetrable wall.
+
+85
+00:06:52,040 --> 00:06:55,660
+This was really brought home in September 1946
+
+86
+00:06:55,661 --> 00:06:58,520
+when Britain's leading test pilot, Geoffrey de Havilland,
+
+87
+00:06:58,900 --> 00:07:00,920
+the son of the founder of the de Havilland Company,
+
+88
+00:07:01,420 --> 00:07:04,160
+was killed at about eight-tenths the speed of sound
+
+89
+00:07:04,161 --> 00:07:07,740
+flying a new swept-wing, tailless research airplane
+
+90
+00:07:07,741 --> 00:07:09,540
+called the de Havilland Swallow.
+
+91
+00:07:09,920 --> 00:07:12,740
+The airplane began to pitch violently out of control
+
+92
+00:07:12,741 --> 00:07:14,780
+so rapidly that he could not control it,
+
+93
+00:07:14,781 --> 00:07:18,480
+and within less than a second it had disintegrated and he was killed.
+
+94
+00:07:18,900 --> 00:07:21,860
+This showed that the sound barrier had very real bite.
+
+95
+00:07:22,720 --> 00:07:27,840
+In 1947, a young Air Force pilot named Chuck Yeager was about to bite back.
+
+96
+00:07:28,340 --> 00:07:31,000
+It would happen at the Air Force Base at Muroc, California,
+
+97
+00:07:31,620 --> 00:07:33,540
+about 80 miles east of Los Angeles.
+
+98
+00:07:34,320 --> 00:07:36,480
+We know it now as Edwards Air Force Base.
+
+99
+00:07:38,420 --> 00:07:40,860
+Robert Cardenas, another young fighter pilot,
+
+100
+00:07:40,960 --> 00:07:43,060
+was officer in charge on the X-1 program,
+
+101
+00:07:43,061 --> 00:07:46,180
+and he piloted the bomber that carried the X-1 aloft.
+
+102
+00:07:46,840 --> 00:07:50,820
+I had professors from Caltech and MIT that were out there at Miroc.
+
+103
+00:07:50,920 --> 00:07:56,100
+We had all sorts of people making recommendations.
+
+104
+00:07:56,640 --> 00:08:02,000
+And one of them said, you know, really, we've seen stuff coming in from space explode.
+
+105
+00:08:02,360 --> 00:08:10,300
+Whether it was from heat or what, there could be an ultrasonic barrier out there
+
+106
+00:08:10,301 --> 00:08:14,960
+that might just disintegrate or melt the aircraft.
+
+107
+00:08:15,360 --> 00:08:18,460
+The test pilots and engineers listened politely to the experts
+
+108
+00:08:18,461 --> 00:08:20,260
+and then got down to business.
+
+109
+00:08:22,080 --> 00:08:24,080
+Bell Aircraft test pilot Chalmers Goodland
+
+110
+00:08:24,081 --> 00:08:28,160
+made the first powered flight in an X-1 aircraft in late 1946.
+
+111
+00:08:29,160 --> 00:08:31,720
+But it would be Chuck Yeager who 10 months later
+
+112
+00:08:31,721 --> 00:08:35,420
+would take the X-1 rocket plane to the speed at which it was meant to fly.
+
+113
+00:08:36,300 --> 00:08:37,520
+Chuck is a human being,
+
+114
+00:08:37,521 --> 00:08:45,240
+But when he gets in that seat and he locks that door, he becomes part of the machine.
+
+115
+00:08:45,600 --> 00:08:47,020
+In my book, he's no longer a human.
+
+116
+00:08:47,520 --> 00:08:48,420
+He's part of that.
+
+117
+00:08:48,480 --> 00:08:50,340
+He melds in as part of that machine.
+
+118
+00:08:51,200 --> 00:08:55,560
+Man and machine finally broke through the sound barrier in October of 1947.
+
+119
+00:08:56,300 --> 00:08:59,460
+On the ground, observers heard the crack of a sonic boom.
+
+120
+00:08:59,461 --> 00:09:07,280
+Air Force Captain Chuck Yeager and the X-1
+
+121
+00:09:07,281 --> 00:09:10,320
+had just launched a new era of supersonic flight.
+
+122
+00:09:11,460 --> 00:09:13,880
+Chuck was the X-1, period. That was it.
+
+123
+00:09:14,140 --> 00:09:17,380
+And I really don't know if anyone else could have done it.
+
+124
+00:09:18,040 --> 00:09:20,360
+High air speeds are described in Mach numbers
+
+125
+00:09:20,361 --> 00:09:24,400
+using a formula named after an Austrian physicist, Ernst Mach.
+
+126
+00:09:25,360 --> 00:09:27,340
+The speed of sound is Mach 1,
+
+127
+00:09:27,341 --> 00:09:31,640
+And Jaeger had reached Mach 1.06 on that historic flight.
+
+128
+00:09:32,640 --> 00:09:36,200
+Later generations of X-1 aircraft would fly twice that speed.
+
+129
+00:09:39,980 --> 00:09:45,040
+In 1953, Chuck Jaeger took one of them to Mach 2.44.
+
+130
+00:09:48,240 --> 00:09:54,700
+Many more X-planes would follow the X-1, but none would provide more crucial research data than the X-15.
+
+131
+00:09:57,340 --> 00:10:10,340
+The three rocket-powered X-15 aircraft flew 199 flights from 1963 to 1967.
+
+132
+00:10:10,341 --> 00:10:16,840
+Far beyond supersonic, these research planes ushered in the era of hypersonic flight, the
+
+133
+00:10:16,841 --> 00:10:20,840
+term for speeds greater than Mach 5.
+
+134
+00:10:20,841 --> 00:10:28,860
+We had a 57,000-pound thrust rocket engine that was completely throttlable, the first of its kind,
+
+135
+00:10:28,960 --> 00:10:33,200
+and you had tremendous problems in simply making this a reliable propulsion system.
+
+136
+00:10:33,740 --> 00:10:39,920
+Now, once we did, all speed and altitude records very quickly were eclipsed by this airplane.
+
+137
+00:10:39,921 --> 00:10:45,640
+It went out and immediately took us, in a piloted sense, to Mach 4, Mach 5, Mach 6.
+
+138
+00:10:45,641 --> 00:10:58,863
+As rocket planes like the X-1 and X-15 made amazing progress pushing the limits of speed, they paved the way for a new, top-secret aircraft that, to this day, inspires
+
+139
+00:10:58,864 --> 00:10:59,564
+awe.
+
+140
+00:10:59,940 --> 00:11:01,920
+The SR-71 Blackbird.
+
+141
+00:11:04,460 --> 00:11:12,820
+In 1967, one of the X-15s set a speed record for manned flight in a winged aircraft, exceeded only by the space shuttle.
+
+142
+00:11:12,821 --> 00:11:15,820
+Extreme Aircraft will return on Modern Marvels.
+
+143
+00:11:15,821 --> 00:11:19,820
+We now return to Extreme Aircraft on Modern Marvels.
+
+144
+00:11:21,820 --> 00:11:28,820
+Cloaked in secrecy, two American spy planes, the U-2 and the SR-71 Blackbird,
+
+145
+00:11:28,821 --> 00:11:31,820
+made their mark on history during the Cold War.
+
+146
+00:11:31,821 --> 00:11:35,820
+The U-2 was the first to become operational in 1956.
+
+147
+00:11:42,820 --> 00:11:49,320
+Built originally for the CIA by the Lockheed Advanced Development Projects Group, better
+
+148
+00:11:49,321 --> 00:11:54,500
+known as the Skunk Works, the U-2 could fly higher than any aircraft in existence at the
+
+149
+00:11:54,501 --> 00:12:01,000
+time and provide a crucial intelligence on Soviet military activities.
+
+150
+00:12:01,001 --> 00:12:05,880
+When there was worry that the Soviet Union might be gathering a bomber fleet or might
+
+151
+00:12:05,881 --> 00:12:11,520
+be gathering its forces for an attack on Western Europe or whatever else it might be up to,
+
+152
+00:12:11,521 --> 00:12:16,340
+There was no way, literally, to penetrate this iron curtain, say fly over it.
+
+153
+00:12:17,360 --> 00:12:23,020
+To operate at 70,000 feet and higher, the U-2's jet engine had to be virtually hand-built,
+
+154
+00:12:23,360 --> 00:12:27,320
+with much closer tolerances to reduce air pressure losses at high altitudes.
+
+155
+00:12:29,420 --> 00:12:34,760
+Playing long transatlantic missions alone at night, navigating only by the stars with a sextant,
+
+156
+00:12:34,761 --> 00:12:41,260
+the U-2 pilots collected intelligence that dramatically improved America's ability to assess the Soviet threat.
+
+157
+00:12:41,520 --> 00:12:46,520
+The U-2 operations really gave rise to some remarkable images.
+
+158
+00:12:46,521 --> 00:12:51,520
+There was imagery brought back that showed Soviet fighters trying to climb and catch it,
+
+159
+00:12:51,521 --> 00:12:54,520
+stalling, spinning out of control, falling to earth,
+
+160
+00:12:54,521 --> 00:12:58,520
+other airplanes trying to do so-called pop-ups to get to altitude.
+
+161
+00:12:58,521 --> 00:13:02,520
+Clearly, they knew we were there, but they were very frustrated
+
+162
+00:13:02,521 --> 00:13:04,520
+at not being able to reach us with airplanes.
+
+163
+00:13:04,521 --> 00:13:10,520
+The long, wide, straight wings of the U-2 gave the plane glider-like characteristics.
+
+164
+00:13:10,521 --> 00:13:18,360
+And it would soar so far above the ground that even if the Soviet military detected it, they couldn't reach it with fighters or missiles.
+
+165
+00:13:19,500 --> 00:13:23,200
+Or so it was believed until May 1st, 1960.
+
+166
+00:13:24,080 --> 00:13:30,900
+On that day, Francis Gary Powers was shot down by Soviet missiles as he took photos from 67,000 feet.
+
+167
+00:13:32,420 --> 00:13:36,860
+After Powers successfully ejected, the Soviets put him on trial for espionage.
+
+168
+00:13:37,560 --> 00:13:40,580
+The incident severely strained U.S.-Soviet relations.
+
+169
+00:13:41,580 --> 00:13:43,460
+Powers was released two years later.
+
+170
+00:13:44,920 --> 00:13:48,680
+Today, high-altitude reconnaissance is done mainly by satellites,
+
+171
+00:13:49,240 --> 00:13:56,800
+but an updated version of the U-2 has provided battlefield intelligence in Bosnia, Kosovo, Afghanistan, and Iraq.
+
+172
+00:13:56,801 --> 00:14:02,320
+It is also being used for high-altitude research projects by NASA and other civilian agencies.
+
+173
+00:14:03,020 --> 00:14:04,840
+We do earth sciences.
+
+174
+00:14:04,841 --> 00:14:07,780
+NASA has done it for 30 years or more.
+
+175
+00:14:08,240 --> 00:14:19,400
+And that requires overflight, over forest fires, over forests, desert, into the Arctic to check on the ozone layer, which NASA first discovered.
+
+176
+00:14:19,680 --> 00:14:25,900
+We fly a bigger variant of the U-2, but we have two of them, and we fly them worldwide on various missions of those kinds.
+
+177
+00:14:26,980 --> 00:14:34,060
+As effective and enduring as the U-2 has been, it wasn't enough to meet America's reconnaissance needs at the height of the Cold War.
+
+178
+00:14:34,840 --> 00:14:42,720
+Once again, the Lockheed Skunk Works, headed by the legendary Kelly Johnson, was tapped to come up with something better.
+
+179
+00:14:43,920 --> 00:14:47,000
+And in 1962, they outdid themselves.
+
+180
+00:14:47,001 --> 00:15:01,001
+the sr-71 blackbird a high-speed high-altitude spy plane is revered by many as one of the greatest
+
+181
+00:15:04,500 --> 00:15:11,500
+jet planes ever built the ethereal blackbird could fly higher and faster than any jet aircraft in
+
+182
+00:15:11,501 --> 00:15:15,300
+production and that still holds today.
+
+183
+00:15:15,301 --> 00:15:18,563
+I knew that this airplane was going to be the fastest in the world.
+
+184
+00:15:18,564 --> 00:15:19,440
+What I didn't know
+
+185
+00:15:19,441 --> 00:15:22,980
+was it would remain the fastest for forty years.
+
+186
+00:15:22,981 --> 00:15:26,480
+That's astonishing, but I remember back in the sixties
+
+187
+00:15:26,481 --> 00:15:30,520
+Kelly used to say, and he'd say it kind of aggressively, like I challenge anyone to
+
+188
+00:15:30,521 --> 00:15:34,540
+adversely comment on this, he says, nobody's going to produce an airplane with
+
+189
+00:15:34,541 --> 00:15:38,940
+greater performance than this one by the year 2000 and back then I used to think
+
+190
+00:15:38,941 --> 00:15:42,940
+Well, I hope I hang around long enough for the year 2000 to see if that turns out to be accurate,
+
+191
+00:15:43,040 --> 00:15:47,480
+because before this came along, every two or three years, somebody somewhere would produce one faster.
+
+192
+00:15:49,080 --> 00:15:53,580
+As with the U-2, the initial client was the CIA, not the Air Force.
+
+193
+00:15:54,240 --> 00:15:59,320
+The first version was called the A-12 and made its first flight in spring of 1962.
+
+194
+00:15:59,321 --> 00:16:04,560
+To be able to withstand the heat generated by sustained speeds above Mach 3,
+
+195
+00:16:05,160 --> 00:16:08,660
+the A-12 had to be designed from scratch with new technology.
+
+196
+00:16:08,940 --> 00:16:10,020
+and new materials.
+
+197
+00:16:11,920 --> 00:16:16,080
+We would say this is roughly an 800 degree Fahrenheit airplane.
+
+198
+00:16:16,700 --> 00:16:19,080
+Some things are hotter, but we have some cooler.
+
+199
+00:16:19,740 --> 00:16:24,540
+I understand a self-cleaning oven is around 425 and a soldering iron around 550.
+
+200
+00:16:24,920 --> 00:16:27,700
+So that gives you an idea of what kind of heat we're talking here.
+
+201
+00:16:28,520 --> 00:16:32,020
+The airframe was made from titanium and titanium alloys,
+
+202
+00:16:32,360 --> 00:16:35,760
+and the structure was coated with a special radar-absorbing black paint
+
+203
+00:16:35,761 --> 00:16:37,360
+that helped dissipate the heat.
+
+204
+00:16:38,940 --> 00:16:47,080
+Because the aircraft surface was designed to expand from the heat during flight, the plane would leak fuel while sitting on the ground.
+
+205
+00:16:48,220 --> 00:16:52,520
+The expansion would cause the entire aircraft to grow a couple of inches in length.
+
+206
+00:16:54,560 --> 00:16:57,720
+This is the ejection sequence initiator.
+
+207
+00:16:58,320 --> 00:17:02,940
+And you're flying along and the canopy is closed and you want to get out.
+
+208
+00:17:03,180 --> 00:17:04,520
+So you pull this thing up.
+
+209
+00:17:04,820 --> 00:17:06,900
+The first thing that happens is this canopy goes.
+
+210
+00:17:06,901 --> 00:17:11,700
+and then up you go and as you come out you turn like this and then you're dynamic this way and
+
+211
+00:17:11,701 --> 00:17:17,960
+you deploy a stability chute, a small chute just for stability and the G's may knock you out but
+
+212
+00:17:17,961 --> 00:17:23,480
+it won't be a death concern on that and as you're coming down you may still be unconscious and
+
+213
+00:17:23,481 --> 00:17:28,860
+and then when you hit 15,000 feet it cuts away that baby drogue chute for stability and deploys
+
+214
+00:17:28,861 --> 00:17:30,936
+a large 35 foot chute.
+
+215
+00:17:30,937 --> 00:17:36,880
+The aircraft was about 100 feet long and could carry 20 tons of
+
+216
+00:17:36,881 --> 00:17:42,400
+special JP-7 jet fuel in the fuselage and wing tanks, enough to fly for about two hours.
+
+217
+00:17:43,860 --> 00:17:49,780
+During this time, the high-flying spy plane could survey about 200,000 square miles of the Earth's
+
+218
+00:17:49,781 --> 00:17:50,533
+surface.
+
+219
+00:17:50,534 --> 00:17:58,440
+The CIA's highly classified single-seat A-12 version first flew in 1962, and the Air
+
+220
+00:17:58,441 --> 00:18:02,485
+Force's twin-seat SR-71 version first flew in 1964.
+
+221
+00:18:02,486 --> 00:18:05,420
+The two planes were nearly identical,
+
+222
+00:18:05,421 --> 00:18:10,820
+and both could fly faster than Mach 3 at heights above 85,000 feet.
+
+223
+00:18:11,900 --> 00:18:15,380
+The CIA continued to fly the A-12 until 1968,
+
+224
+00:18:15,760 --> 00:18:18,700
+when the Air Force Blackbirds, based at Edwards Air Force Base,
+
+225
+00:18:19,040 --> 00:18:20,460
+took over their reconnaissance duties.
+
+226
+00:18:21,960 --> 00:18:25,540
+It wasn't only the fastest and highest-flying airplane of its day.
+
+227
+00:18:25,680 --> 00:18:28,760
+It also pioneered what today is called stealth,
+
+228
+00:18:29,180 --> 00:18:31,200
+the ability to evade detection by radar.
+
+229
+00:18:31,201 --> 00:18:37,100
+That airplane has these very blended shapes and sharp chimes,
+
+230
+00:18:37,340 --> 00:18:40,220
+and it's got the tails folded in and so on.
+
+231
+00:18:40,660 --> 00:18:46,280
+And they did not much by calculation, but a large amount by intuition
+
+232
+00:18:46,281 --> 00:18:48,960
+and by taking it out to a radar range,
+
+233
+00:18:49,100 --> 00:18:50,860
+sort of the equivalent of a wind tunnel for radar,
+
+234
+00:18:51,020 --> 00:18:53,440
+with models and trying different shapes and so on.
+
+235
+00:18:53,700 --> 00:18:58,220
+And basically, by the time you saw the thing on radar going at Mach 3, it was gone.
+
+236
+00:18:58,221 --> 00:19:02,220
+But now the Blackbird really is gone.
+
+237
+00:19:02,221 --> 00:19:07,620
+The military mothballed the SR-71 fleet in 1990, claiming satellites could do the job
+
+238
+00:19:07,621 --> 00:19:08,620
+better.
+
+239
+00:19:08,621 --> 00:19:14,840
+Two of the Blackbirds were temporarily reactivated in 1995.
+
+240
+00:19:14,841 --> 00:19:20,300
+Before there ever was an SR-71 Blackbird, another, even more futuristic-looking aircraft
+
+241
+00:19:20,301 --> 00:19:21,980
+was being tested at Muroc.
+
+242
+00:19:21,981 --> 00:19:30,040
+And this one was so far ahead of its time, it would have to wait decades before aviation technology caught up with it.
+
+243
+00:19:32,440 --> 00:19:41,240
+In 1974, an SR-71 Blackbird flew from New York to London in a record one hour, 54 minutes, and 56 seconds.
+
+244
+00:19:42,720 --> 00:19:45,320
+Extreme Aircraft will return on Modern Marvels.
+
+245
+00:19:46,480 --> 00:19:49,920
+We now return to Extreme Aircraft on Modern Marvels.
+
+246
+00:19:51,980 --> 00:19:57,500
+Flying Wing says it all about the appearance of two of America's most futuristic looking bombers.
+
+247
+00:19:58,500 --> 00:19:59,880
+One from the past.
+
+248
+00:20:07,180 --> 00:20:08,660
+And one from the present.
+
+249
+00:20:08,661 --> 00:20:21,780
+Although separated by nearly half a century, they have exactly the same wingspan and were
+
+250
+00:20:21,781 --> 00:20:25,640
+developed by the same company.
+
+251
+00:20:25,641 --> 00:20:30,660
+The original Northrop flying wing bomber first flew in 1946.
+
+252
+00:20:30,661 --> 00:20:36,540
+Its contemporary counterpart, the B-2, had its first flight in 1989 and will probably
+
+253
+00:20:36,541 --> 00:20:40,360
+still be flying decades from now.
+
+254
+00:20:40,361 --> 00:20:45,320
+Aircraft pioneer Jack Northrup was a champion of the flying wing design, which eliminates
+
+255
+00:20:45,321 --> 00:20:48,860
+the standard fuselage and tail found on most aircraft.
+
+256
+00:20:48,861 --> 00:20:56,780
+Northrup, who was a consummate master of aircraft design, the most important designer of the
+
+257
+00:20:56,781 --> 00:21:01,480
+interwar period in the United States, not just because of his flying wings, but because
+
+258
+00:21:01,481 --> 00:21:07,660
+he's taking all the cutting-edge developments in high-speed aerodynamics and streamlining,
+
+259
+00:21:07,900 --> 00:21:14,020
+and he's putting this together, Northrop felt the next logical step was the pure flying wing.
+
+260
+00:21:14,021 --> 00:21:16,760
+This became almost an obsession with him.
+
+261
+00:21:17,880 --> 00:21:24,900
+In 1941, Northrop was awarded a contract to develop and build the XB-35 Flying Wing bomber,
+
+262
+00:21:25,580 --> 00:21:31,340
+capable of carrying a bomb load of over 52,000 pounds with a range of 7,500 miles.
+
+263
+00:21:31,480 --> 00:21:39,720
+World War II was over by the time the XB-35 first took to the air in 1946, powered by four piston engines
+
+264
+00:21:39,721 --> 00:21:47,660
+The following year, the YB-49 Flying Wing with eight jet engines made its first flight
+
+265
+00:21:49,320 --> 00:21:57,100
+Air Force Major Robert Cardenas, the officer in charge of the X-1 project, was also chief test pilot for the YB-49 Flying Wing
+
+266
+00:21:57,101 --> 00:22:02,180
+Because of the plane's unconventional flight characteristics,
+
+267
+00:22:02,800 --> 00:22:06,840
+Cardenas was nearly killed when he tried to put the flying wing into a stall during testing.
+
+268
+00:22:08,160 --> 00:22:16,180
+When you start slowing down, there's one point at which the airflow over the wing ceases to create lift,
+
+269
+00:22:16,440 --> 00:22:19,680
+and you quit flying, and it shudders and it shakes.
+
+270
+00:22:20,240 --> 00:22:20,940
+That's a stall.
+
+271
+00:22:21,400 --> 00:22:25,680
+But I was waiting for the shutter, and instead of that, it just gave kind of a lurch,
+
+272
+00:22:25,681 --> 00:22:26,720
+and it went over backwards.
+
+273
+00:22:27,100 --> 00:22:29,100
+and started tumbling backwards.
+
+274
+00:22:29,600 --> 00:22:33,340
+So I reached up and I hit the left throttle full power on the left side.
+
+275
+00:22:34,280 --> 00:22:37,660
+Even though I was tumbling, this side went up, tumbled it over
+
+276
+00:22:37,661 --> 00:22:40,740
+into more of an inverted spin, and I could get out of that.
+
+277
+00:22:43,520 --> 00:22:46,980
+Although Northrup insisted the flying wing couldn't possibly tumble,
+
+278
+00:22:47,460 --> 00:22:48,800
+Bob Cardenas knew it could.
+
+279
+00:22:49,480 --> 00:22:53,620
+And he warned his good friend, Glenn Edwards, another test pilot, about the problem.
+
+280
+00:22:54,560 --> 00:23:00,160
+Cardenas was apparently proven right by a tragic accident in 1948 that killed Captain Edwards.
+
+281
+00:23:01,480 --> 00:23:07,160
+Edwards was testing the flying wing when it crashed for unknown reasons, killing all five members of the crew.
+
+282
+00:23:07,840 --> 00:23:16,080
+I think they were stall entry maneuvers, and maybe they entered it at a little higher speed than I did.
+
+283
+00:23:16,081 --> 00:23:20,260
+because on that first lurch where it goes over backwards,
+
+284
+00:23:20,580 --> 00:23:24,600
+the load is on the wing like this, this kind of a load.
+
+285
+00:23:25,000 --> 00:23:26,200
+And that's what broke off.
+
+286
+00:23:26,380 --> 00:23:28,840
+The wings broke off outboard of the jet engines.
+
+287
+00:23:29,620 --> 00:23:32,120
+The last thing Edwards wrote on his notepad
+
+288
+00:23:32,121 --> 00:23:34,840
+indicates he may have put the airplane into a stall
+
+289
+00:23:34,841 --> 00:23:37,440
+in spite of the advice he got from Bob Cardenas.
+
+290
+00:23:37,940 --> 00:23:42,460
+One of the things that they had found was one knee pad card
+
+291
+00:23:42,461 --> 00:23:45,060
+which said stall entry maneuvers.
+
+292
+00:23:46,080 --> 00:23:49,940
+The accident would change Muroc Air Force Base forever.
+
+293
+00:23:50,940 --> 00:23:56,840
+It was renamed Edwards Air Force Base in honor of Cardenas' friend and fellow test pilot.
+
+294
+00:23:58,920 --> 00:24:07,260
+In spite of severe problems with the aircraft, the YB-49 flying wing program continued, and Cardenas was developing strong misgivings.
+
+295
+00:24:07,680 --> 00:24:09,640
+I did not want them to buy the airplane.
+
+296
+00:24:09,641 --> 00:24:21,792
+Nevertheless, in 1949, one of the planes set a new transcontinental speed record when Major Cardenas piloted a flying wing from Murok to Andrews Air Force Base near
+
+297
+00:24:21,793 --> 00:24:25,200
+Washington, D.C. in four hours and 20 minutes.
+
+298
+00:24:25,960 --> 00:24:28,580
+President Truman was there and was favorably impressed.
+
+299
+00:24:28,900 --> 00:24:31,040
+Truman came up the cockpit and he looked around.
+
+300
+00:24:32,040 --> 00:24:33,620
+He was a pretty crusty old guy.
+
+301
+00:24:33,900 --> 00:24:36,540
+He used a little more foul language than I'm going to say.
+
+302
+00:24:37,120 --> 00:24:38,920
+He said it looked pretty damn good to him.
+
+303
+00:24:38,921 --> 00:24:40,260
+He said, he's going to buy some.
+
+304
+00:24:41,140 --> 00:24:42,380
+I bit my tongue.
+
+305
+00:24:42,860 --> 00:24:46,460
+Then down on the ground, he turned to the chief of the Air Force and he said,
+
+306
+00:24:46,960 --> 00:24:50,500
+why don't you have this young whippersnapper fly this down Pennsylvania Avenue?
+
+307
+00:24:50,860 --> 00:24:53,340
+Roof top level, I want people to see what I'm going to buy.
+
+308
+00:24:53,960 --> 00:24:55,180
+So I did. I slowed down.
+
+309
+00:24:55,300 --> 00:24:58,080
+I slowed down to about 300, 350 knots.
+
+310
+00:24:59,240 --> 00:25:04,680
+But I had never really realized how heavily forested the city of Washington really is.
+
+311
+00:25:04,720 --> 00:25:05,420
+It's a jungle.
+
+312
+00:25:05,421 --> 00:25:09,980
+Well, while going down the avenue and losing the avenue amongst the trees,
+
+313
+00:25:10,680 --> 00:25:14,160
+all of a sudden I looked up and the Capitol Dome was straight ahead.
+
+314
+00:25:14,700 --> 00:25:16,460
+So I had to pull up to go over it.
+
+315
+00:25:16,580 --> 00:25:21,040
+Somebody on the steps took this picture as we were going over the top.
+
+316
+00:25:23,660 --> 00:25:28,300
+The ill-fated trip back to Muroc would help bring the troubled flying wing project to an end.
+
+317
+00:25:29,140 --> 00:25:32,540
+During the flight, six of the bomber's eight jet engines caught fire,
+
+318
+00:25:32,541 --> 00:25:35,300
+forcing an emergency landing in Winslow, Arizona.
+
+319
+00:25:36,580 --> 00:25:41,080
+Later that year, the Air Force's order for 30 flying wing bombers was canceled.
+
+320
+00:25:42,920 --> 00:25:46,280
+But the Northrop Company wasn't finished with the flying wing idea.
+
+321
+00:25:47,500 --> 00:25:51,520
+By 1981, aviation technology had changed dramatically,
+
+322
+00:25:51,900 --> 00:25:56,820
+with electronic fly-by-wire controls making a flying wing design much more feasible.
+
+323
+00:25:57,480 --> 00:25:59,620
+Fly-by-wire is basically computer-controlled.
+
+324
+00:25:59,621 --> 00:26:04,000
+There's no hydraulic or cable linkage to the controls.
+
+325
+00:26:04,400 --> 00:26:07,420
+The computer is monitoring what you want it to do
+
+326
+00:26:07,421 --> 00:26:11,780
+and adjusts the flight controls in accordance with what you're asking the airplane to do.
+
+327
+00:26:12,540 --> 00:26:15,840
+Northrop Grumman won a contract to build the Air Force a new bomber
+
+328
+00:26:15,841 --> 00:26:18,680
+that would use Jack Northrop's flying wing concept.
+
+329
+00:26:19,940 --> 00:26:22,840
+Apparently, Jack Northrop got the dimensions right the first time.
+
+330
+00:26:24,080 --> 00:26:26,420
+The new flying wing, called the B-2,
+
+331
+00:26:26,421 --> 00:26:31,360
+would have exactly the same 172-foot wingspan as the old flying wing.
+
+332
+00:26:32,020 --> 00:26:36,320
+The build of that wing was a very, very challenging activity for us.
+
+333
+00:26:36,680 --> 00:26:39,560
+The team overcame day in and day out.
+
+334
+00:26:39,640 --> 00:26:43,280
+We used to call it an invention a day to get us through the day.
+
+335
+00:26:43,820 --> 00:26:47,420
+And it's probably as an exciting a time as you'd ever come across.
+
+336
+00:26:48,700 --> 00:26:52,940
+It's a very highly integrated aircraft, very complicated, very complex.
+
+337
+00:26:53,380 --> 00:26:54,560
+She's a very smart aircraft.
+
+338
+00:26:54,561 --> 00:26:57,340
+Once it's all put together, you can't do anything to her you're not supposed to.
+
+339
+00:26:57,680 --> 00:26:58,380
+She'll let you know.
+
+340
+00:26:59,420 --> 00:27:04,680
+Jack Northrup, who was still very alert and very much interested in flight,
+
+341
+00:27:05,120 --> 00:27:11,820
+had the chance shortly before he died to learn about the existence of the B-2 program.
+
+342
+00:27:12,100 --> 00:27:14,080
+And he was very touched.
+
+343
+00:27:14,180 --> 00:27:16,900
+And he said now he knew why God had let him live as long as he had.
+
+344
+00:27:18,080 --> 00:27:22,120
+The B-2 stealth bomber was first revealed to the public in 1988
+
+345
+00:27:22,121 --> 00:27:25,900
+when it was rolled out of its hangar at the Air Force's Plant 42.
+
+346
+00:27:27,280 --> 00:27:32,400
+To many, it signified that the flying wing design had finally become a successful bomber.
+
+347
+00:27:33,340 --> 00:27:37,780
+To me, it was vindication for Glenn's death.
+
+348
+00:27:38,380 --> 00:27:41,000
+My work and his death were not in vain.
+
+349
+00:27:41,240 --> 00:27:43,340
+We did accomplish something.
+
+350
+00:27:43,341 --> 00:27:48,840
+We didn't do it, but somebody accomplished the final act of making a system like that.
+
+351
+00:27:48,841 --> 00:27:55,460
+The B-2's first flight came the following year, with test pilot Bruce Hines at the controls.
+
+352
+00:27:56,000 --> 00:27:59,260
+When Bruce Hines was going to fly it, they asked me to talk to them.
+
+353
+00:27:59,320 --> 00:28:02,180
+I told them, I can't tell you anything. It's a different airplane.
+
+354
+00:28:02,520 --> 00:28:04,560
+Just one thing, Bruce, don't stall the airplane.
+
+355
+00:28:06,080 --> 00:28:09,440
+And so after he flew it, I said, Bruce, did you try stalling them?
+
+356
+00:28:10,000 --> 00:28:11,740
+I said, Bob, the damn thing won't let you.
+
+357
+00:28:12,600 --> 00:28:14,060
+It won't let you stall them.
+
+358
+00:28:14,061 --> 00:28:21,060
+The first production B-2 was delivered to the Air Force in 1993.
+
+359
+00:28:21,061 --> 00:28:26,060
+The 69-foot long bombers are powered by four jet engines and carry two pilots.
+
+360
+00:28:26,061 --> 00:28:34,060
+They're designed to carry 40,000 pounds of conventional or nuclear bombs and can fly at altitudes up to 50,000 feet.
+
+361
+00:28:34,061 --> 00:28:40,060
+B-2s are subsonic, which means their top speed is just under the speed of sound.
+
+362
+00:28:40,061 --> 00:28:47,460
+The fleet of 21 B-2s based at Whiteman Air Force Base in Missouri first proved itself in combat in Kosovo,
+
+363
+00:28:47,740 --> 00:28:55,940
+where B-2s destroyed more than 30% of Serbian targets in eight weeks by flying non-stop missions from Missouri to Kosovo and back.
+
+364
+00:28:57,720 --> 00:29:04,460
+The B-2 is much more technically sophisticated than America's other long-range bombers, the B-52 and the B-1.
+
+365
+00:29:04,461 --> 00:29:10,460
+The B-1 as well as the B-52 are not stealthy platforms.
+
+366
+00:29:10,461 --> 00:29:17,460
+Only the B-2 bomber can penetrate heavily defended airspace, fly for thousands of miles undetected,
+
+367
+00:29:17,461 --> 00:29:23,460
+carrying a huge load of weapons, deliver those weapons precisely, and get out of that area without being detected.
+
+368
+00:29:25,460 --> 00:29:33,460
+Jack Northrup would be more than proud, and proud of the people every bit as much as he's proud of what the people have done with the technology
+
+369
+00:29:33,461 --> 00:29:41,400
+and certainly some of the very basic vision that he had years and years ago.
+
+370
+00:29:42,040 --> 00:29:43,547
+With the B-2, the U.S.
+
+371
+00:29:43,548 --> 00:29:48,000
+Air Force unquestionably has the most modern bomber in the skies.
+
+372
+00:29:48,600 --> 00:29:50,660
+Now, they need a fighter to match.
+
+373
+00:29:51,040 --> 00:29:53,120
+Enter the F-A-22 Raptor.
+
+374
+00:29:55,020 --> 00:30:00,180
+In Operation Enduring Freedom, the B-2 flew a 44-hour mission with midair refueling.
+
+375
+00:30:00,181 --> 00:30:04,640
+from Missouri to Afghanistan to an airbase at Diego Garcia in the Indian Ocean.
+
+376
+00:30:05,720 --> 00:30:08,220
+Extreme Aircraft will return on Modern Marvels.
+
+377
+00:30:09,080 --> 00:30:12,680
+We now return to Extreme Aircraft on Modern Marvels.
+
+378
+00:30:15,360 --> 00:30:20,240
+The McDonnell Douglas F-15 Eagle first flew in 1972.
+
+379
+00:30:20,241 --> 00:30:32,640
+and reigned unchallenged for decades as the world's premier air superiority fighter.
+
+380
+00:30:33,440 --> 00:30:38,020
+But the new F-A-22 Raptor will finally bring that reign to an end.
+
+381
+00:30:38,021 --> 00:30:50,780
+Both the F-15 and the Raptor fly and climb faster than conventional jet fighters.
+
+382
+00:30:51,180 --> 00:31:01,100
+This enables them to dominate air-to-air battles with enemy planes, which means they can deny the skies to the enemy, hence the term air superiority fighter.
+
+383
+00:31:01,101 --> 00:31:08,480
+The goal in developing a fighter airplane is really to make certain that you can totally overwhelmingly dominate the opponent.
+
+384
+00:31:09,060 --> 00:31:13,620
+If you look at the F-15, it became America's most successful air combat fighter.
+
+385
+00:31:14,080 --> 00:31:18,700
+Indeed, you can argue historically it's the most successful air combat fighter of all time,
+
+386
+00:31:18,940 --> 00:31:26,680
+because it has never been shot down in air-to-air combat while shooting down close to 200 opponents in air-to-air combat.
+
+387
+00:31:26,681 --> 00:31:33,680
+In 1975, 20 F-15 Eagles were modified to make them even faster.
+
+388
+00:31:34,680 --> 00:31:39,400
+Called streak eagles, they set several time-to-climb records that still stand.
+
+389
+00:31:40,620 --> 00:31:44,640
+But the new F-A-22 Raptor is expected to break those records
+
+390
+00:31:44,641 --> 00:31:47,560
+and bring new meaning to the term air superiority.
+
+391
+00:31:48,900 --> 00:31:51,840
+The F-15 is very old in the tooth.
+
+392
+00:31:52,000 --> 00:31:54,240
+You know, if we take a look at our fighter forces today,
+
+393
+00:31:54,241 --> 00:31:59,180
+you realize that if these airplanes were automobiles, they'd be wearing classic car plates.
+
+394
+00:31:59,920 --> 00:32:03,940
+After a testing and validation program lasting four and a half years,
+
+395
+00:32:04,380 --> 00:32:12,900
+the industry team of Lockheed Martin and Boeing in 1991 won the competition to build the next generation air superiority fighter
+
+396
+00:32:12,901 --> 00:32:16,060
+that would replace the aging fleet of F-15s.
+
+397
+00:32:16,500 --> 00:32:20,140
+It capitalizes on a number of technological revolutions,
+
+398
+00:32:20,141 --> 00:32:26,360
+And this enables us to get first look at an opponent, first shot at that opponent, and first kill,
+
+399
+00:32:26,560 --> 00:32:31,500
+where we are literally moving out of the fight before the enemy realizes they're being attacked.
+
+400
+00:32:31,840 --> 00:32:37,480
+You can detect him, you can fire a missile on him, and he'll almost blow up before he even knows you're there.
+
+401
+00:32:37,660 --> 00:32:41,120
+So it's not that you're undetectable, but by the time he does detect you,
+
+402
+00:32:41,180 --> 00:32:46,400
+you already have such an offensive advantage on him that it's really not even a competition.
+
+403
+00:32:47,280 --> 00:32:52,960
+The production version of the F-22 design, now called the Raptor, first flew in 1997.
+
+404
+00:32:53,720 --> 00:32:56,940
+Like the F-15 Eagle, it can reach supersonic speeds.
+
+405
+00:32:57,840 --> 00:33:00,960
+But the Raptor can cruise without using fuel-hungry afterburners,
+
+406
+00:33:01,320 --> 00:33:03,120
+giving an enemy less time to engage it.
+
+407
+00:33:03,720 --> 00:33:05,860
+The F-822 is also easier to fly.
+
+408
+00:33:06,440 --> 00:33:09,740
+An Air Force pilot who was training to fly the F-822
+
+409
+00:33:09,741 --> 00:33:13,000
+told a bunch of reporters recently on the trip that I took
+
+410
+00:33:13,001 --> 00:33:18,400
+that traditionally a pilot had to spend about 85-90% of his or her brain power
+
+411
+00:33:18,401 --> 00:33:20,820
+just to attain a situational awareness,
+
+412
+00:33:21,040 --> 00:33:24,080
+just to take the information from each of his sensors
+
+413
+00:33:24,081 --> 00:33:26,000
+and understand what they were telling him.
+
+414
+00:33:26,240 --> 00:33:30,540
+He says with the F-822 Raptor, that situational awareness is almost instantaneous,
+
+415
+00:33:31,040 --> 00:33:35,540
+so he has most of his brain power left to devise how he's going to attack a certain target
+
+416
+00:33:35,541 --> 00:33:37,860
+or how he's going to evade something, that type of thing.
+
+417
+00:33:38,060 --> 00:33:39,660
+So that's a real significant difference.
+
+418
+00:33:40,420 --> 00:33:42,840
+Another capability that gives the Raptor an edge
+
+419
+00:33:42,841 --> 00:33:47,980
+is thrust vectoring, a system that allows the blast of hot gases coming out of the engine
+
+420
+00:33:47,981 --> 00:33:50,020
+to be pointed in different directions.
+
+421
+00:33:53,200 --> 00:33:58,320
+This allows the aircraft to change direction much more rapidly than conventionally powered fighters.
+
+422
+00:34:00,780 --> 00:34:06,280
+Thrust vectoring was pioneered on the X-31, a NASA research plane built by Rockwell.
+
+423
+00:34:06,281 --> 00:34:14,200
+The X-31 put on a dazzling display of thrust vectoring capabilities at the Paris Air Show in 1995.
+
+424
+00:34:16,260 --> 00:34:20,500
+Most people at the air show in Paris when they first saw that thought the airplane was going to crash.
+
+425
+00:34:21,240 --> 00:34:25,300
+And then it just flies right on out and goes and does another maneuver.
+
+426
+00:34:28,160 --> 00:34:30,740
+These people had never seen it. We're just in awe.
+
+427
+00:34:30,741 --> 00:34:37,740
+The X-31 helped pave the way for the FA-22 Raptor's use of the thrust vectoring concept.
+
+428
+00:34:37,741 --> 00:34:45,740
+The maneuverability of the FA-22 in a dogfight is such that if you're in the merge and you're
+
+429
+00:34:45,741 --> 00:34:50,740
+doing that spiraling telephone pole of death, you know, where you're going down, descending,
+
+430
+00:34:50,741 --> 00:34:56,740
+losing altitude, and trying to outturn the other guy, with the FA-22, with that thrust vectoring,
+
+431
+00:34:56,741 --> 00:35:02,980
+It allows you to flap, put the nose right at the guy, and fire a missile and end the engagement.
+
+432
+00:35:02,981 --> 00:35:05,900
+You initially try to start fighting just like you did in an F-15,
+
+433
+00:35:06,140 --> 00:35:11,520
+and then you start to realize what capabilities you have and what limitations no longer apply to you.
+
+434
+00:35:11,600 --> 00:35:14,580
+So you adapt real quickly, but it doesn't take someone very long.
+
+435
+00:35:14,660 --> 00:35:19,660
+After a sortie or two coming from the F-15 into the F-22, it's an awesome capability.
+
+436
+00:35:21,600 --> 00:35:25,080
+The F-822 is also stealthier than any other jet fighter,
+
+437
+00:35:25,600 --> 00:35:27,740
+including the F-117 Stealth Fighter,
+
+438
+00:35:28,200 --> 00:35:31,860
+which represents an older generation of stealth technology.
+
+439
+00:35:33,620 --> 00:35:35,140
+That's not very stealthy, right?
+
+440
+00:35:35,320 --> 00:35:37,540
+But head-on, you don't see much of the jet,
+
+441
+00:35:37,720 --> 00:35:42,580
+and you don't have anything hanging on the wings to give your signature away.
+
+442
+00:35:43,160 --> 00:35:45,740
+And so we like to say, beware of raptors with open doors.
+
+443
+00:35:45,741 --> 00:35:48,900
+When the doors are open, that means that you're shooting something,
+
+444
+00:35:49,000 --> 00:35:51,060
+and the door's open quick, shoot something and close
+
+445
+00:35:51,061 --> 00:35:55,020
+before a radar signature gets transmitted back to the enemy.
+
+446
+00:35:55,080 --> 00:36:00,500
+Even when the doors open, now suddenly you have sharp corners and weird angles,
+
+447
+00:36:00,780 --> 00:36:03,980
+and that can reflect radar back in a direction you don't want to.
+
+448
+00:36:05,920 --> 00:36:10,100
+The Air Force plans to eventually purchase 339 Raptors,
+
+449
+00:36:10,560 --> 00:36:13,980
+and production of the aircraft is scheduled to continue to 2013.
+
+450
+00:36:16,840 --> 00:36:20,160
+The F-822 is an Air Force pilot's dream.
+
+451
+00:36:20,161 --> 00:36:27,800
+But there are planes on the horizon that may be more like a pilot's nightmare.
+
+452
+00:36:28,480 --> 00:36:31,200
+Because these aircraft have no pilots.
+
+453
+00:36:34,040 --> 00:36:37,920
+The F-15 Eagle can climb at more than 40,000 feet per minute.
+
+454
+00:36:38,440 --> 00:36:41,960
+At sea level to the top of Mount Everest in 45 seconds.
+
+455
+00:36:43,180 --> 00:36:45,720
+Extreme Aircraft will return on Modern Marvels.
+
+456
+00:36:45,721 --> 00:36:52,720
+We now return to Extreme Aircraft on Modern Marvels.
+
+457
+00:36:52,721 --> 00:36:59,720
+The Global Hawk spy plane points the way to what some believe will be a pilotless future.
+
+458
+00:36:59,721 --> 00:37:13,721
+This UAV, or unmanned air vehicle, was seen in action by millions thanks to TV news coverage of its surveillance missions in Afghanistan.
+
+459
+00:37:14,720 --> 00:37:18,660
+missions in Afghanistan and Iraq.
+
+460
+00:37:18,661 --> 00:37:23,540
+The Global Hawk can conduct effective surveillance over an area the size of Illinois in just
+
+461
+00:37:23,541 --> 00:37:26,940
+24 hours.
+
+462
+00:37:26,941 --> 00:37:32,260
+It can also loiter above a specific area, transmitting almost real-time high-resolution
+
+463
+00:37:32,261 --> 00:37:35,200
+images to field commanders.
+
+464
+00:37:35,201 --> 00:37:43,200
+44 feet long and 15 feet high, the high-altitude reconnaissance aircraft was built for the
+
+465
+00:37:43,201 --> 00:37:45,000
+Air Force by Northrop Grumman.
+
+466
+00:37:45,760 --> 00:37:48,480
+Global Hawk is an autonomous air vehicle.
+
+467
+00:37:49,260 --> 00:37:53,780
+For instance, when Global Hawk did a deployment to Australia,
+
+468
+00:37:54,360 --> 00:37:57,760
+the Global Hawk left California with a click of the mouse.
+
+469
+00:37:58,500 --> 00:38:03,420
+It is fully autonomous, and then it flew across the Pacific Ocean
+
+470
+00:38:03,421 --> 00:38:06,860
+and landed in Australia some 20-odd hours later,
+
+471
+00:38:07,360 --> 00:38:10,400
+at which time somebody clicked the mouse again
+
+472
+00:38:10,401 --> 00:38:13,100
+and shut the engine down on the system.
+
+473
+00:38:13,200 --> 00:38:20,200
+With its range of more than 14,000 miles and an ability to fly for 36 hours straight, it
+
+474
+00:38:20,800 --> 00:38:26,000
+can travel to any point on the globe, conduct surveillance, and return to its base in the
+
+475
+00:38:26,001 --> 00:38:31,580
+United States, all without a pilot.
+
+476
+00:38:31,581 --> 00:38:35,840
+The Air Force rushed the Global Hawk into combat ahead of schedule in Afghanistan in
+
+477
+00:38:35,841 --> 00:38:42,840
+in November of 2001, and it was also used in Operation Iraqi Freedom.
+
+478
+00:38:44,800 --> 00:38:49,460
+Although it flew only 5% of the surveillance missions over Iraq, it accounted for more
+
+479
+00:38:49,461 --> 00:38:56,460
+than 55% of the information on time-sensitive targets, many of which were destroyed.
+
+480
+00:38:57,960 --> 00:39:04,960
+After collecting more than 3,700 images over Iraq, the Hawk returned home in May of 2003.
+
+481
+00:39:05,840 --> 00:39:15,120
+Air Force officials said the Global Hawk was over Iraq from the very beginning of the operation and had a direct impact on the Republican Guard's destruction.
+
+482
+00:39:17,140 --> 00:39:23,400
+Although most use of UAVs so far has been for reconnaissance, there is growing interest in putting weapons on them.
+
+483
+00:39:24,760 --> 00:39:30,640
+The Unmanned Combat Air Vehicle, or UCAV, is seen by some as the top gun of the future.
+
+484
+00:39:35,840 --> 00:39:42,560
+One of the most dramatic first uses of an armed unmanned aircraft in combat came during
+
+485
+00:39:42,561 --> 00:39:47,720
+Operation Iraqi Freedom, when predator reconnaissance drones were outfitted with Hellfire missiles.
+
+486
+00:39:49,880 --> 00:39:54,540
+There's one famous mission that the Air Force likes to talk about during Iraqi Freedom.
+
+487
+00:39:54,880 --> 00:40:00,940
+There was a broadcast tower from the Iraqi Information Agency in downtown Baghdad,
+
+488
+00:40:00,941 --> 00:40:06,460
+And that tower was very close, I believe, to the Fox News tower and also to a mosque.
+
+489
+00:40:07,100 --> 00:40:11,780
+And so it was a very, very dangerous target for the Air Force to go after.
+
+490
+00:40:11,920 --> 00:40:17,860
+So what it did was it sent a Predator unmanned aircraft armed with Hellfire missiles into downtown Baghdad.
+
+491
+00:40:18,240 --> 00:40:23,220
+And the remote pilot who was operating the aircraft from thousands of miles away in the ground control station
+
+492
+00:40:23,221 --> 00:40:30,440
+was able to pinpoint that tower and actually take it out without any collateral damage to the Fox tower or to the mosque.
+
+493
+00:40:30,940 --> 00:40:38,320
+The Air Force is now testing the Boeing X-45 U-Cav demonstrator, which first flew in 2002.
+
+494
+00:40:47,160 --> 00:40:54,600
+The X-45 is the first unmanned aircraft that has been designed from its inception to be a combat vehicle.
+
+495
+00:40:56,140 --> 00:40:57,060
+Mark impact.
+
+496
+00:40:57,061 --> 00:41:05,700
+A larger version, the X-45C, is the precursor of Air Force UCAVs that will become operational in 2010.
+
+497
+00:41:07,780 --> 00:41:13,340
+The X-45C will be nearly 40 feet long, with a wingspan of nearly 50 feet.
+
+498
+00:41:14,160 --> 00:41:20,900
+It will be able to carry eight GPS-guided bombs, weighing 250 pounds each in its internal weapons bays.
+
+499
+00:41:22,560 --> 00:41:25,660
+Northrop Grumman is also testing an unmanned combat air vehicle.
+
+500
+00:41:27,060 --> 00:41:29,480
+The X-47A Pegasus.
+
+501
+00:41:35,180 --> 00:41:40,700
+It was designed as a flight demonstrator for the X-47B that could be used by the Navy.
+
+502
+00:41:41,620 --> 00:41:45,800
+Pegasus was our UCAB demonstrator. It was a company-funded investment.
+
+503
+00:41:46,360 --> 00:41:51,600
+The way we approached the Pegasus was basically to demonstrate that, in fact,
+
+504
+00:41:51,601 --> 00:41:57,280
+you could take an unmanned combat air vehicle and land it on the deck of an aircraft carrier.
+
+505
+00:42:02,320 --> 00:42:07,760
+There is still some debate, even within the military, about how and when UCAV should be deployed.
+
+506
+00:42:09,600 --> 00:42:15,760
+I think there's just this sort of rules-the-game, ethical bridge to be crossed of is it okay for a
+
+507
+00:42:15,761 --> 00:42:21,880
+drone to be, you know, and firing and are we really sure that that's Osama, you know,
+
+508
+00:42:21,881 --> 00:42:25,900
+not the head of the orphanage who's walking along the street.
+
+509
+00:42:25,901 --> 00:42:28,880
+There's a lot of, you know, queasiness about doing this.
+
+510
+00:42:28,881 --> 00:42:32,200
+Because, you know, you're looking through a soda straw on these things and, you know,
+
+511
+00:42:32,201 --> 00:42:33,680
+are you really sure that's the guy?
+
+512
+00:42:33,681 --> 00:42:37,560
+The chances of making a mistake are pretty high and you really don't, obviously, you
+
+513
+00:42:37,561 --> 00:42:39,600
+don't want to kill innocent people.
+
+514
+00:42:39,601 --> 00:42:44,500
+We must be very, very careful that we don't develop systems that are so complex that they
+
+515
+00:42:44,501 --> 00:42:47,900
+they really transgress whether or not they should be inhabited systems.
+
+516
+00:42:47,901 --> 00:42:53,200
+There's a tremendous value in having the inhabited system because, to be frank about it, an inhabited
+
+517
+00:42:53,201 --> 00:42:58,400
+aircraft carries with it a great deal of innate common sense that sometimes you don't have
+
+518
+00:42:58,401 --> 00:43:01,940
+in a system that's relying on the lineup of ones and zeros.
+
+519
+00:43:01,941 --> 00:43:07,060
+It remains to be seen how commercial airline pilots and private pilots will feel about
+
+520
+00:43:07,061 --> 00:43:11,820
+sharing airspace with planes that have no pilots.
+
+521
+00:43:11,821 --> 00:43:17,980
+Years ago, if any one of us got into an elevator, there was an operator, an attendant inside
+
+522
+00:43:17,981 --> 00:43:18,980
+the elevator.
+
+523
+00:43:18,981 --> 00:43:24,000
+Today, I certainly don't see that person in the elevator anymore.
+
+524
+00:43:24,001 --> 00:43:27,780
+You get at many airports today, and you want to get to another terminal.
+
+525
+00:43:27,781 --> 00:43:30,940
+You get on an unmanned train, and we accept that.
+
+526
+00:43:30,941 --> 00:43:31,940
+It's normal.
+
+527
+00:43:31,941 --> 00:43:35,200
+That's going to take place with UAVs, for sure.
+
+528
+00:43:35,201 --> 00:43:37,520
+The technology is there.
+
+529
+00:43:37,521 --> 00:43:41,560
+The will is there, and it's now just a matter of time.
+
+530
+00:43:41,561 --> 00:43:46,440
+As aircraft technology continues its flight into the future, exciting possibilities are
+
+531
+00:43:46,441 --> 00:43:52,300
+opening up that could change our lives and bring the world closer together, just as the
+
+532
+00:43:52,301 --> 00:43:53,300
+jet age did.
+
+533
+00:43:53,301 --> 00:43:59,380
+The challenge for us today is to capitalize on some of these new technologies and if we
+
+534
+00:43:59,381 --> 00:44:04,380
+seize on that, we will indeed have, I think, a high-speed future.
+
+535
+00:44:04,381 --> 00:44:10,120
+But if we do not, that future will be in the hands of other people.
+
+536
+00:44:10,121 --> 00:44:17,120
+The P-59 era comet took off and flew into the future more than 60 years ago.
+
+537
+00:44:17,121 --> 00:44:24,120
+It was a dramatic new concept at the time, but it soon became commonplace and unremarkable.
+
+538
+00:44:27,120 --> 00:44:39,120
+Perhaps 60 years from now, combat jets without pilots and scramjets that fly up Mach 10 will be considered commonplace and unremarkable too.
+
+539
+00:44:40,120 --> 00:44:47,120
+Nevertheless, there will always be some aircraft defined by the term extreme.
+

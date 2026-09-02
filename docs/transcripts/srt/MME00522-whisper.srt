@@ -1,0 +1,2532 @@
+1
+00:00:00,001 --> 00:00:10,000
+He tamed lightning and built the world's first battery.
+
+2
+00:00:10,001 --> 00:00:14,360
+He created an instrument that inspired Mozart, currency that
+
+3
+00:00:14,361 --> 00:00:18,160
+foiled counterfeiters, and a stove that fought off the coldest
+
+4
+00:00:18,161 --> 00:00:19,760
+winter.
+
+5
+00:00:19,761 --> 00:00:24,280
+This founding father was one of his era's greatest scientists
+
+6
+00:00:24,281 --> 00:00:27,560
+and an inventor whose vision still shines today.
+
+7
+00:00:27,561 --> 00:00:31,060
+Now, Ben Franklin Tech on Modern Marvels.
+
+8
+00:00:48,520 --> 00:00:53,320
+Find the highest point on any tall structure,
+
+9
+00:00:53,321 --> 00:00:55,620
+and you'll see an ordinary-looking device
+
+10
+00:00:55,621 --> 00:01:00,420
+hidden among the antennas and decorative spires.
+
+11
+00:01:00,421 --> 00:01:04,280
+The unremarkable metal point, known as the lightning rod,
+
+12
+00:01:04,281 --> 00:01:07,780
+was once the ultimate symbol of science's triumph
+
+13
+00:01:07,781 --> 00:01:10,160
+and a reminder of the terrifying power of nature.
+
+14
+00:01:14,460 --> 00:01:19,080
+Invented in 1749, it was the first practical application
+
+15
+00:01:19,081 --> 00:01:22,520
+of the once mysterious force known as electricity.
+
+16
+00:01:25,620 --> 00:01:31,320
+Today, lightning rods protect millions of structures, large and small, in the United States alone.
+
+17
+00:01:35,420 --> 00:01:42,460
+You'll find one at the top of one Liberty Place, the 950-foot skyscraper that looks down over Philadelphia,
+
+18
+00:01:43,060 --> 00:01:48,040
+where the lightning rod was invented by the city's most famous resident, Benjamin Franklin.
+
+19
+00:01:51,820 --> 00:01:54,800
+His scientific genius made him a mythic figure.
+
+20
+00:01:55,620 --> 00:01:58,240
+while his practical inventions and straight talk
+
+21
+00:01:58,241 --> 00:02:01,900
+made him an intimate friend of the people to this day.
+
+22
+00:02:06,440 --> 00:02:09,520
+Although many people are familiar with this image of Franklin,
+
+23
+00:02:12,800 --> 00:02:16,020
+they may not be aware of what Franklin actually did
+
+24
+00:02:16,021 --> 00:02:18,500
+to bring electricity down from the heavens
+
+25
+00:02:18,501 --> 00:02:21,120
+and eventually into our daily lives.
+
+26
+00:02:25,620 --> 00:02:36,080
+17-year-old Franklin arrived in the bustling city of Philadelphia in 1723.
+
+27
+00:02:39,360 --> 00:02:43,460
+He was a destitute runaway from his older brother's printing shop in Boston.
+
+28
+00:02:44,780 --> 00:02:49,780
+Within a decade, through his potent combination of skill, hard work, and business sense,
+
+29
+00:02:50,600 --> 00:02:52,920
+Franklin emerged as the leading printer in Philadelphia.
+
+30
+00:02:52,921 --> 00:02:59,760
+At the age of 42, he retired, a wealthy man in the city of brotherly love.
+
+31
+00:03:02,240 --> 00:03:05,460
+With his printing empire established throughout the colonies,
+
+32
+00:03:06,200 --> 00:03:10,940
+Franklin was now free, he said, to devote his life to science and the improvement of mankind.
+
+33
+00:03:13,120 --> 00:03:18,160
+It was the peak of the Enlightenment, the age of Voltaire, Hume, and Rousseau,
+
+34
+00:03:18,161 --> 00:03:21,920
+when philosophers championed reason and empirical data
+
+35
+00:03:21,921 --> 00:03:24,040
+over scripture and superstition.
+
+36
+00:03:25,460 --> 00:03:27,000
+But it was sort of rough and tumble.
+
+37
+00:03:27,500 --> 00:03:30,260
+And so you could have people who, anyone who was like a gentleman,
+
+38
+00:03:30,420 --> 00:03:31,860
+which meant you didn't have to work for a living,
+
+39
+00:03:32,320 --> 00:03:35,840
+was sort of expected almost to be dabbling in science.
+
+40
+00:03:35,900 --> 00:03:37,900
+And I think Franklin kind of grew up in that era
+
+41
+00:03:37,901 --> 00:03:40,200
+and wouldn't have hesitated for a moment
+
+42
+00:03:40,201 --> 00:03:42,400
+to feel that he himself could also be involved.
+
+43
+00:03:42,401 --> 00:03:46,400
+Franklin threw himself into the most exciting area
+
+44
+00:03:46,500 --> 00:03:50,340
+of 18th century science, the study of electrical fire.
+
+45
+00:03:53,340 --> 00:03:56,840
+He had first been drawn to electricity in 1743,
+
+46
+00:03:56,940 --> 00:04:00,160
+when he witnessed an electrical oddity show put on by a visiting
+
+47
+00:04:00,260 --> 00:04:02,060
+Scottish performer.
+
+48
+00:04:02,160 --> 00:04:04,820
+Before Franklin came along, electricity was sort of parlor
+
+49
+00:04:04,920 --> 00:04:07,760
+tricks, people doing static electricity and making sparks.
+
+50
+00:04:07,860 --> 00:04:09,760
+But Franklin tried to make it useful.
+
+51
+00:04:12,400 --> 00:04:20,260
+Like a 21st century techie, Franklin bought or built all the latest electrical gadgetry, including this electrostatic generator.
+
+52
+00:04:20,520 --> 00:04:30,800
+The way the various electrostatic generators work is that if you rotate this drum, it will pick up electrons, electrical charge, from the pad.
+
+53
+00:04:31,740 --> 00:04:41,160
+The charge is transferred through the discharge tower, and it comes to the front of the discharge tower at this point right here where you'll see a little bolt.
+
+54
+00:04:42,400 --> 00:04:51,860
+Franklin's device was arranged in a more vertical fashion and used a glass sphere with brass fingers and a leather pad to generate the static electricity.
+
+55
+00:04:52,600 --> 00:04:58,720
+Franklin could then collect the electricity in a glass and metal container called a Leiden jar for use in experiments.
+
+56
+00:05:00,640 --> 00:05:04,840
+Franklin began his electrical experiments in earnest in 1745.
+
+57
+00:05:06,200 --> 00:05:12,040
+In just seven years, he would turn electricity from a parlor trick to a revolutionary science.
+
+58
+00:05:12,400 --> 00:05:20,300
+Franklin's most significant theoretical breakthrough was to determine that everything in the world contained electricity.
+
+59
+00:05:22,540 --> 00:05:25,660
+You don't create electricity out of thin air.
+
+60
+00:05:25,740 --> 00:05:28,600
+It actually is coming from something else, going to something else.
+
+61
+00:05:28,840 --> 00:05:33,580
+And the whole system remains at a constant amount of electricity.
+
+62
+00:05:33,581 --> 00:05:35,660
+It's just moving from one point to another.
+
+63
+00:05:35,661 --> 00:05:41,760
+And this was a great breakthrough at the time because people had no idea where electrical charge came from.
+
+64
+00:05:42,400 --> 00:05:45,800
+Known today as the conservation of electric charge,
+
+65
+00:05:46,260 --> 00:05:48,780
+it became the backbone of modern electrical science.
+
+66
+00:05:50,420 --> 00:05:52,540
+Franklin also challenged the prevailing theory
+
+67
+00:05:52,541 --> 00:05:55,020
+that there were two different types of electricity.
+
+68
+00:05:55,800 --> 00:05:58,420
+The theory was that they would come together
+
+69
+00:05:58,421 --> 00:06:00,840
+and one would cancel out the other.
+
+70
+00:06:01,320 --> 00:06:02,980
+So Franklin comes along and he says,
+
+71
+00:06:03,060 --> 00:06:04,280
+well, I don't think it's like that.
+
+72
+00:06:04,320 --> 00:06:05,560
+I think there's just one fluid,
+
+73
+00:06:05,940 --> 00:06:08,920
+but it can be positively or negatively charged
+
+74
+00:06:08,921 --> 00:06:11,640
+and it can flow off an object onto another object.
+
+75
+00:06:12,400 --> 00:06:14,520
+While tinkering with his Leiden jars,
+
+76
+00:06:15,120 --> 00:06:19,020
+Franklin invented a device that would eventually become one of the most practical ever.
+
+77
+00:06:19,980 --> 00:06:24,040
+Now, as you can see, one jar doesn't really provide very much charge.
+
+78
+00:06:24,041 --> 00:06:29,540
+So one of the things that Franklin figured out to do is to connect a number of these jars together
+
+79
+00:06:29,541 --> 00:06:33,640
+so that you would have a large amount of charge in one spot.
+
+80
+00:06:34,140 --> 00:06:38,680
+In doing so, he could generate a much larger electrical shock discharge.
+
+81
+00:06:38,681 --> 00:06:41,080
+Franklin called his device a battery,
+
+82
+00:06:41,180 --> 00:06:43,560
+since it acted like a battery of cannon.
+
+83
+00:06:43,660 --> 00:06:45,480
+Indeed, on at least one occasion,
+
+84
+00:06:45,580 --> 00:06:49,860
+this battery knocked its inventor unconscious.
+
+85
+00:06:49,960 --> 00:06:52,520
+The world's first electrician was most intrigued
+
+86
+00:06:52,620 --> 00:06:55,900
+with what he called the wonderful power of points.
+
+87
+00:06:56,000 --> 00:06:59,600
+A point like this sharp metal rod
+
+88
+00:06:59,700 --> 00:07:03,640
+has the ability to draw electricity off
+
+89
+00:07:03,740 --> 00:07:07,640
+of a highly charged conductor.
+
+90
+00:07:07,641 --> 00:07:10,640
+Franklin believed that armed with the power of points,
+
+91
+00:07:10,641 --> 00:07:12,640
+he could be the first to prove that the electric sparks
+
+92
+00:07:12,641 --> 00:07:16,640
+in his laboratory and the lightning that came from clouds
+
+93
+00:07:16,641 --> 00:07:19,640
+were one and the same.
+
+94
+00:07:19,641 --> 00:07:22,640
+He has a wonderful line in his notebook.
+
+95
+00:07:22,641 --> 00:07:24,640
+He says, let the experiments be made.
+
+96
+00:07:24,641 --> 00:07:27,640
+So he comes up with an experiment, the Franklin experiment,
+
+97
+00:07:27,641 --> 00:07:30,640
+to have a lightning rod to see if it will draw the charge
+
+98
+00:07:30,641 --> 00:07:33,640
+from the bottom of a cloud.
+
+99
+00:07:33,641 --> 00:07:36,640
+In his book on electricity, Franklin described what became
+
+100
+00:07:36,641 --> 00:07:40,880
+described what became known as the sentry box experiment.
+
+101
+00:07:40,881 --> 00:07:44,940
+A Frenchman, Thomas Francois Dallabard, who had translated
+
+102
+00:07:44,941 --> 00:07:48,580
+Franklin's book, decided to try it.
+
+103
+00:07:48,581 --> 00:07:51,780
+A sharp metallic rod extended from a wooden shed that
+
+104
+00:07:51,781 --> 00:07:54,500
+protected the observer from rain.
+
+105
+00:07:54,501 --> 00:07:58,100
+If the rod, which was insulated from ground, drew off electricity
+
+106
+00:07:58,101 --> 00:08:01,940
+from a storm cloud, the observer could draw off sparks with an
+
+107
+00:08:01,941 --> 00:08:05,000
+insulated ground wire.
+
+108
+00:08:05,001 --> 00:08:06,260
+And the sparks flew.
+
+109
+00:08:07,540 --> 00:08:15,720
+Dalibard did the experiment successfully for the first time on May 10, 1752.
+
+110
+00:08:16,660 --> 00:08:24,300
+Dalibard was careful to acknowledge that this experiment had, in fact, been suggested by Benjamin Franklin.
+
+111
+00:08:24,940 --> 00:08:28,720
+The sentry box made Franklin instantly famous throughout Europe.
+
+112
+00:08:28,721 --> 00:08:36,600
+At about the same time, he performed his own, potentially very dangerous, test back in Philadelphia.
+
+113
+00:08:40,240 --> 00:08:45,300
+In place of a tall lightning rod, he thought that a small metal point on top of a kite
+
+114
+00:08:45,301 --> 00:08:51,180
+would draw electrical fire from the storm clouds and conduct it to a key dangling from the end of the string.
+
+115
+00:08:53,000 --> 00:08:56,260
+When the key at the end of Franklin's kite string drew off sparks,
+
+116
+00:08:56,261 --> 00:08:59,400
+It confirmed the results of the sentrybox experiment.
+
+117
+00:09:00,800 --> 00:09:02,460
+Thunderclouds contain electricity,
+
+118
+00:09:03,180 --> 00:09:05,400
+and lightning is an electric discharge.
+
+119
+00:09:08,840 --> 00:09:13,200
+Thunder clouds become electrified by processes
+
+120
+00:09:13,201 --> 00:09:16,060
+which we're still trying to understand better.
+
+121
+00:09:16,720 --> 00:09:21,680
+But what we do know is any time thunderclouds contain both ice
+
+122
+00:09:21,681 --> 00:09:28,940
+and hail particles and supercooled liquid water drops,
+
+123
+00:09:29,580 --> 00:09:33,040
+those clouds generate a lot of electricity
+
+124
+00:09:33,041 --> 00:09:37,280
+by collisions between the hail particles, the ice crystals,
+
+125
+00:09:37,281 --> 00:09:40,140
+and in the presence of the supercooled water.
+
+126
+00:09:40,540 --> 00:09:45,800
+So you've got a negative charge accumulating at the bottom of the cloud,
+
+127
+00:09:45,860 --> 00:09:48,560
+a positive charge accumulating at the top,
+
+128
+00:09:48,561 --> 00:09:54,180
+and that charge difference creates a gigantic amount of voltage inside the cloud.
+
+129
+00:09:54,280 --> 00:09:56,780
+And that's the beginning of a stroke of lightning.
+
+130
+00:09:57,300 --> 00:10:01,160
+The lightning can discharge between the negative and positive portions of the cloud
+
+131
+00:10:01,161 --> 00:10:05,320
+or between the cloud and the earth, which usually has a positive charge.
+
+132
+00:10:08,420 --> 00:10:11,980
+Proving the electrical properties of clouds was a breathtaking discovery.
+
+133
+00:10:13,700 --> 00:10:17,080
+But practical-minded Benjamin Franklin wasn't satisfied.
+
+134
+00:10:18,040 --> 00:10:22,440
+He said, we've studied the theory, but we don't have any practical use for it yet.
+
+135
+00:10:22,960 --> 00:10:25,760
+The practical use became the lightning rod.
+
+136
+00:10:27,740 --> 00:10:30,460
+Having proven that lightning was an electric discharge,
+
+137
+00:10:31,300 --> 00:10:33,860
+Franklin was confident that, like the sparks in his lab,
+
+138
+00:10:34,380 --> 00:10:38,360
+it could also be safely drawn off by a metal conductor that was connected to ground.
+
+139
+00:10:39,880 --> 00:10:44,660
+In 1752, he was able to convince other prominent Philadelphians
+
+140
+00:10:44,661 --> 00:10:47,420
+to install lightning rods on important civic buildings.
+
+141
+00:10:49,060 --> 00:10:50,860
+The lightning rod stood on the rooftop.
+
+142
+00:10:51,400 --> 00:10:52,480
+It was bolted down.
+
+143
+00:10:53,100 --> 00:10:57,320
+It was stapled to a wire that went down the side of the house into the ground.
+
+144
+00:10:57,880 --> 00:11:00,520
+A very simple thing that any local blacksmith could make.
+
+145
+00:11:00,880 --> 00:11:02,520
+And yet what it did was something magnificent,
+
+146
+00:11:02,700 --> 00:11:07,400
+which was that it intercepted a thunderbolt that would be about to strike a building
+
+147
+00:11:07,401 --> 00:11:10,420
+and channel it harmlessly into the ground.
+
+148
+00:11:10,421 --> 00:11:16,100
+18th century buildings contained very little metal,
+
+149
+00:11:16,620 --> 00:11:19,160
+no wiring, indoor plumbing, or steel supports.
+
+150
+00:11:21,140 --> 00:11:24,440
+Lacking such conductors, the wood and brick structures
+
+151
+00:11:24,441 --> 00:11:26,000
+took the brunt of a lightning strike
+
+152
+00:11:26,001 --> 00:11:28,740
+and sometimes exploded into flames,
+
+153
+00:11:28,741 --> 00:11:30,400
+which could spread to the next building.
+
+154
+00:11:34,380 --> 00:11:36,980
+Churches, usually the tallest structures around,
+
+155
+00:11:37,100 --> 00:11:38,080
+were especially vulnerable.
+
+156
+00:11:38,081 --> 00:11:42,000
+Bell ringers were more vulnerable still.
+
+157
+00:11:44,620 --> 00:11:47,600
+Superstition held that ringing the church bells during a storm
+
+158
+00:11:47,601 --> 00:11:49,060
+would ward off the lightning.
+
+159
+00:11:49,700 --> 00:11:52,980
+Well, of course, what happened is a number of bell ringers were electrocuted.
+
+160
+00:11:53,580 --> 00:11:57,240
+So by the mid-18th century, you have governments in Europe issuing edicts
+
+161
+00:11:57,241 --> 00:12:00,000
+saying, stop sending the bell ringers up into the tower
+
+162
+00:12:00,001 --> 00:12:01,900
+because there were too many fatalities.
+
+163
+00:12:03,000 --> 00:12:05,560
+Yet many clerics objected to the lightning rod,
+
+164
+00:12:06,160 --> 00:12:08,480
+believing it was presumptuous, if not heretical,
+
+165
+00:12:09,000 --> 00:12:11,540
+to tamper with the ultimate expression of God's wrath.
+
+166
+00:12:12,940 --> 00:12:15,320
+But what Franklin basically said to those people is,
+
+167
+00:12:15,460 --> 00:12:18,420
+God doesn't mind if we put ruse over our head to keep out the rain.
+
+168
+00:12:18,780 --> 00:12:23,240
+I don't think God is going to mind if we erect a lightning rod to protect our families.
+
+169
+00:12:23,980 --> 00:12:25,020
+And it worked.
+
+170
+00:12:26,080 --> 00:12:29,040
+Lightning rods steadily proliferated across America and Europe.
+
+171
+00:12:31,220 --> 00:12:34,660
+When a few early brass rods melted from lightning strikes,
+
+172
+00:12:34,661 --> 00:12:38,620
+Franklin made an improved design with a more substantial conductor
+
+173
+00:12:38,621 --> 00:12:42,060
+and a larger rod that was buried deeper in the ground.
+
+174
+00:12:42,360 --> 00:12:49,820
+That forms, in fact, the basis for virtually every lightning protection code in the world today.
+
+175
+00:12:52,300 --> 00:12:55,180
+Franklin also built the world's first lightning detector,
+
+176
+00:12:55,740 --> 00:12:59,520
+which would sound an alarm when it drew a charge from his lightning rod during a storm.
+
+177
+00:12:59,521 --> 00:13:10,060
+As each bell is charged and then discharged, it attracts the clapper in the middle so that it rings one bell on one side, then rings the other bell on the other side.
+
+178
+00:13:10,460 --> 00:13:16,200
+And thus that electrical charge could ring the bells and demonstrate to Franklin when lightning was approaching.
+
+179
+00:13:17,980 --> 00:13:21,665
+Taming lightning had repercussions beyond science and safety.
+
+180
+00:13:21,666 --> 00:13:23,840
+It was a major metaphysical triumph.
+
+181
+00:13:23,841 --> 00:13:30,200
+One of the great things about the Enlightenment is that it said we could have some control over our environment.
+
+182
+00:13:30,540 --> 00:13:36,620
+That lightning wasn't just God's anger and storms weren't the wrath of the devils or the gods or whatever.
+
+183
+00:13:37,640 --> 00:13:39,300
+And a political triumph.
+
+184
+00:13:40,240 --> 00:13:42,780
+Franklin's breakthrough made him a folk hero in France,
+
+185
+00:13:43,080 --> 00:13:47,040
+where it paved the way for his critical work securing support for the American Revolution.
+
+186
+00:13:48,320 --> 00:13:53,280
+But the relationship between Franklin's science and his politics was deeper still.
+
+187
+00:13:53,840 --> 00:13:59,300
+The French said of him, he snatched lightning from the sky and the scepter from tyrants.
+
+188
+00:13:59,640 --> 00:14:04,200
+Science, and particularly someone like Franklin, who was a symbol for this,
+
+189
+00:14:04,660 --> 00:14:08,120
+became a kind of a template for political and social ambitions.
+
+190
+00:14:08,600 --> 00:14:13,380
+In other words, if the empiricism and reason of science can deliver us these kind of things,
+
+191
+00:14:13,420 --> 00:14:17,960
+like the lightning rod, what would happen if we applied it to the way society was organized?
+
+192
+00:14:20,040 --> 00:14:23,800
+Franklin's wildly inventive mind wasn't content with one area of study.
+
+193
+00:14:23,840 --> 00:14:30,240
+and electrical fire wasn't the only type of fire to fascinate him
+
+194
+00:14:30,241 --> 00:14:37,540
+he would spend half his life improving ways to heat people's homes
+
+195
+00:14:37,541 --> 00:14:42,960
+franklin refused to patent his lightning rod or his other inventions
+
+196
+00:14:42,961 --> 00:14:47,200
+saying as we enjoy great advantages from the inventions of others
+
+197
+00:14:47,201 --> 00:14:51,820
+we should be glad of an opportunity to serve others by an invention of ours
+
+198
+00:14:51,821 --> 00:14:55,820
+Ben Franklin Tech will return on Modern Marvels.
+
+199
+00:15:03,060 --> 00:15:06,980
+In his long life, Benjamin Franklin became the most
+
+200
+00:15:06,981 --> 00:15:10,080
+successful printer, author, and publisher in the New World,
+
+201
+00:15:10,560 --> 00:15:15,020
+a key contributor to America's founding documents,
+
+202
+00:15:15,660 --> 00:15:19,080
+one of history's most successful diplomats,
+
+203
+00:15:19,081 --> 00:15:23,240
+and one of the 18th century's greatest scientists.
+
+204
+00:15:25,320 --> 00:15:29,360
+And yet his most enduring interest, spanning six decades,
+
+205
+00:15:29,920 --> 00:15:33,820
+was how to build a technologically superior fireplace.
+
+206
+00:15:35,100 --> 00:15:37,860
+The obsession began in 1739.
+
+207
+00:15:38,920 --> 00:15:43,380
+When not operating his printing empire or serving as postmaster for Philadelphia,
+
+208
+00:15:44,260 --> 00:15:47,420
+Franklin worked on a design to improve the open hearth fireplace,
+
+209
+00:15:47,421 --> 00:15:49,080
+favored by English colonists.
+
+210
+00:15:52,860 --> 00:15:54,580
+Despite its cheery appearance,
+
+211
+00:15:55,020 --> 00:15:57,500
+the open fireplace was a miserable heating solution
+
+212
+00:15:57,501 --> 00:15:59,420
+for the northern colony's long winters.
+
+213
+00:16:00,260 --> 00:16:02,740
+Traditionally, the open hearth in a fireplace,
+
+214
+00:16:03,420 --> 00:16:06,000
+most of the heat passes upward with the smoke
+
+215
+00:16:06,001 --> 00:16:07,260
+and directly out the chimney.
+
+216
+00:16:07,660 --> 00:16:12,260
+The fireplace design doesn't reflect heat out into the room,
+
+217
+00:16:12,261 --> 00:16:14,820
+and it certainly doesn't radiate heat out into the room.
+
+218
+00:16:14,821 --> 00:16:20,180
+The challenge of heating a house more efficiently fit perfectly into Franklin's interests.
+
+219
+00:16:22,300 --> 00:16:27,920
+It combined a hot 18th century scientific topic, the thermodynamic properties of air,
+
+220
+00:16:28,380 --> 00:16:33,860
+with a practical objective, making people's lives healthier and more comfortable.
+
+221
+00:16:36,680 --> 00:16:41,460
+It even tapped into Franklin's passion for what we would now consider environmentalism.
+
+222
+00:16:44,820 --> 00:16:50,020
+He called the fruit of his labor the Pennsylvania fireplace.
+
+223
+00:16:50,021 --> 00:16:53,060
+Well, here at the Mercer Museum,
+
+224
+00:16:53,061 --> 00:16:56,860
+we have what's been called the only original Franklin stove
+
+225
+00:16:56,861 --> 00:16:58,940
+for Pennsylvania fireplace, as he called it,
+
+226
+00:16:58,941 --> 00:17:01,140
+based on his original design.
+
+227
+00:17:01,141 --> 00:17:03,500
+Franklin's design for the Pennsylvania fireplace
+
+228
+00:17:03,501 --> 00:17:07,580
+sought to combine the efficiency of the closed stove
+
+229
+00:17:07,581 --> 00:17:10,820
+that was typical of Europe and the Pennsylvania German settlers
+
+230
+00:17:10,821 --> 00:17:12,980
+in the early part of the 18th century
+
+231
+00:17:12,981 --> 00:17:15,640
+with the open hearth that was favored by the English.
+
+232
+00:17:16,560 --> 00:17:19,860
+Franklin had noted that the German-style closed stoves
+
+233
+00:17:19,861 --> 00:17:21,440
+conducted more heat into the room
+
+234
+00:17:21,441 --> 00:17:23,200
+since they stood out from the wall
+
+235
+00:17:23,201 --> 00:17:25,980
+and were made of iron, a good conductor.
+
+236
+00:17:28,860 --> 00:17:31,660
+But Franklin's hybrid fireplace does much more
+
+237
+00:17:31,661 --> 00:17:34,100
+than combine an iron stove with an open hearth.
+
+238
+00:17:36,000 --> 00:17:39,280
+Its first major innovation is called the airbox,
+
+239
+00:17:39,800 --> 00:17:42,360
+a baffled chamber sitting just behind the fire.
+
+240
+00:17:42,980 --> 00:17:49,260
+An opening at the bottom of the airbox brings in cool, but not cold, air from the basement or room.
+
+241
+00:17:50,140 --> 00:17:57,400
+This smoke-free air is heated by the fire, rises through holes at the top of the stove, and is pushed into the room.
+
+242
+00:17:59,460 --> 00:18:06,400
+Franklin's fireplace is also designed to squeeze as much heating potential as possible from wood before it escapes in the form of smoke.
+
+243
+00:18:06,920 --> 00:18:12,400
+Franklin was very economically minded. A penny saved is a penny earned.
+
+244
+00:18:12,980 --> 00:18:18,160
+He tried to use the wood efficiently and burn it efficiently.
+
+245
+00:18:18,161 --> 00:18:21,960
+In addition, there would be less smoke produced
+
+246
+00:18:21,961 --> 00:18:25,960
+because smoke was just unburned wood.
+
+247
+00:18:27,840 --> 00:18:29,580
+And Franklin recognized that.
+
+248
+00:18:30,180 --> 00:18:33,680
+The Franklin stove entices the smoke to linger a bit longer
+
+249
+00:18:33,681 --> 00:18:36,800
+through its second key innovation, the air siphon.
+
+250
+00:18:37,940 --> 00:18:41,840
+Inside the air siphon, smoke from the fire rises up and over the airbox.
+
+251
+00:18:42,980 --> 00:18:46,080
+It's then pulled down through the bottom of the stove by the
+
+252
+00:18:46,081 --> 00:18:50,120
+greater upward siphoning action of the chimney, all the while
+
+253
+00:18:50,121 --> 00:18:54,020
+conducting heat into the room through the stove's walls.
+
+254
+00:18:54,021 --> 00:18:57,020
+By keeping the hot air in the room longer, the Franklin stove
+
+255
+00:18:57,021 --> 00:19:02,040
+used up to 75% less wood than an open fireplace, a marvel of
+
+256
+00:19:02,041 --> 00:19:03,040
+efficiency.
+
+257
+00:19:03,041 --> 00:19:07,040
+It also emitted much less smoke from the chimney.
+
+258
+00:19:07,041 --> 00:19:10,080
+In fact, Franklin wrote with great foresight about not only
+
+259
+00:19:10,081 --> 00:19:12,720
+foresight about not only the need to make our air less
+
+260
+00:19:12,721 --> 00:19:15,920
+polluted, but also the importance of conserving the
+
+261
+00:19:15,921 --> 00:19:22,800
+nation's fuel and its forests, all critical concerns today.
+
+262
+00:19:22,801 --> 00:19:25,520
+Franklin's own Pennsylvania fireplace worked to his great
+
+263
+00:19:25,521 --> 00:19:29,760
+satisfaction, but when put into the marketplace in 1741, it
+
+264
+00:19:29,761 --> 00:19:32,960
+flopped. What probably happened, those
+
+265
+00:19:32,961 --> 00:19:36,640
+people, those few people who actually acquired an original
+
+266
+00:19:36,641 --> 00:19:39,600
+Franklin, Pennsylvania fireplace design, is that the
+
+267
+00:19:39,601 --> 00:19:44,800
+the smoke backed up into the room and so his initial design failed he didn't sell many of the
+
+268
+00:19:44,801 --> 00:19:50,480
+many of the stoves franklin later found ways to improve the air siphon and keep smoke out of the
+
+269
+00:19:50,481 --> 00:19:56,160
+room but the design was still too tricky for a successful consumer product
+
+270
+00:19:58,720 --> 00:20:03,040
+he continued to design stoves including a portable stove with a rotating grate
+
+271
+00:20:03,041 --> 00:20:06,240
+and a smokeless coal-burning stove.
+
+272
+00:20:08,720 --> 00:20:11,280
+Well, in terms of the legacy of the Franklin stove,
+
+273
+00:20:11,520 --> 00:20:14,960
+most of what we know of today or think of today as Franklin
+
+274
+00:20:14,961 --> 00:20:19,100
+stoves are simply iron hearths that are inserted
+
+275
+00:20:19,101 --> 00:20:20,780
+into a traditional fireplace.
+
+276
+00:20:21,540 --> 00:20:24,600
+While the modern Franklin stove is a misnomer,
+
+277
+00:20:25,260 --> 00:20:28,100
+the bold design of the original did influence the evolution
+
+278
+00:20:28,101 --> 00:20:29,100
+of heating technology.
+
+279
+00:20:33,040 --> 00:20:38,140
+Franklin's interest in fire and his concern over saving fuel carried over
+
+280
+00:20:38,141 --> 00:20:43,860
+into his design for a new and improved street lamp. Previously the lamps had
+
+281
+00:20:43,861 --> 00:20:49,160
+been globes and there were two problems with these globes they were sealed and
+
+282
+00:20:49,161 --> 00:20:54,460
+they became very smoky and didn't put out much light and then furthermore if a
+
+283
+00:20:54,461 --> 00:20:58,400
+vandal were to break one of those globes you'd have to replace the whole piece of
+
+284
+00:20:58,401 --> 00:21:02,000
+Well, he came up with this idea of a four-sided lamp.
+
+285
+00:21:02,100 --> 00:21:04,040
+First of all, one piece gets broken.
+
+286
+00:21:04,140 --> 00:21:06,340
+You only have to fix one out of four.
+
+287
+00:21:06,440 --> 00:21:08,680
+And furthermore, because there was a chimney up
+
+288
+00:21:08,780 --> 00:21:12,620
+in the center of it, it meant that you had better light.
+
+289
+00:21:12,720 --> 00:21:14,520
+And that improved safety.
+
+290
+00:21:14,620 --> 00:21:19,080
+I mean, there are so many layers to his improvements.
+
+291
+00:21:19,180 --> 00:21:21,560
+And also, it leads into his interest
+
+292
+00:21:21,660 --> 00:21:24,420
+in sort of environmentalism overall.
+
+293
+00:21:24,520 --> 00:21:27,120
+Franklin's most enduring legacy as an environmentalist
+
+294
+00:21:27,121 --> 00:21:32,960
+environmentalist may be a concept that occurred to him in Paris in 1783 while negotiating the
+
+295
+00:21:32,961 --> 00:21:35,560
+final peace treaty with England.
+
+296
+00:21:35,561 --> 00:21:40,840
+Industrious even at age 78, the former printer was taken aback by
+
+297
+00:21:40,841 --> 00:21:46,360
+the late-to-bed, late-to-rise habits of the French aristocracy, who burned expensive candles into the
+
+298
+00:21:46,361 --> 00:21:50,325
+wee hours and wasted the free light of the morning sun.
+
+299
+00:21:50,326 --> 00:21:53,280
+So he had the idea, and it was actually a
+
+300
+00:21:53,281 --> 00:21:56,520
+to kind of shift the working hours in the summer where you
+
+301
+00:21:56,620 --> 00:21:59,680
+wouldn't need to burn so many candles at night.
+
+302
+00:21:59,780 --> 00:22:02,080
+But Franklin's idea of changing the clock
+
+303
+00:22:02,180 --> 00:22:06,920
+to save fuel wouldn't take hold until World War I, as Europe
+
+304
+00:22:07,020 --> 00:22:10,740
+grappled with the high cost of fuel.
+
+305
+00:22:10,840 --> 00:22:12,640
+In America, an extra hour of daylight
+
+306
+00:22:12,740 --> 00:22:15,440
+was enacted year round for the duration of the Second World
+
+307
+00:22:15,540 --> 00:22:16,240
+War.
+
+308
+00:22:18,540 --> 00:22:23,280
+Congress called the policy daylight saving time.
+
+309
+00:22:23,281 --> 00:22:28,020
+In the post-war years, daylight saving time gradually shifted
+
+310
+00:22:28,021 --> 00:22:30,020
+into its current spring to autumn slot.
+
+311
+00:22:31,700 --> 00:22:35,640
+It may be impossible to calculate the amount of fuel it saved over the decades,
+
+312
+00:22:35,980 --> 00:22:40,940
+but a study during the 1970s oil crunch found that one extra hour of daylight
+
+313
+00:22:40,941 --> 00:22:44,760
+saved the equivalent of 10,000 barrels of oil per day.
+
+314
+00:22:45,600 --> 00:22:47,400
+Surely Ben Franklin would have approved.
+
+315
+00:22:47,401 --> 00:22:51,040
+As fascinated as Franklin was with fire,
+
+316
+00:22:51,140 --> 00:22:55,340
+he was equally entranced by the properties of water.
+
+317
+00:22:59,440 --> 00:23:02,940
+And we still see and hear the results today.
+
+318
+00:23:10,360 --> 00:23:12,960
+In 1786, the year before he participated
+
+319
+00:23:13,060 --> 00:23:16,200
+in drafting the Constitution, 80-year-old Ben
+
+320
+00:23:16,201 --> 00:23:18,540
+80-year-old Ben Franklin published a paper
+
+321
+00:23:18,640 --> 00:23:21,540
+on the nine causes of smoky fireplaces
+
+322
+00:23:21,640 --> 00:23:23,900
+and a cure for each of them.
+
+323
+00:23:24,000 --> 00:23:26,740
+Ben Franklin Tech will return on Modern Marvels.
+
+324
+00:23:30,140 --> 00:23:32,740
+At the National Hurricane Center in Miami,
+
+325
+00:23:32,840 --> 00:23:35,560
+specialists work at the cutting edge of weather prediction
+
+326
+00:23:35,660 --> 00:23:36,760
+24 hours a day.
+
+327
+00:23:40,600 --> 00:23:45,500
+High-tech tools, from satellite imagery and Doppler radar
+
+328
+00:23:45,501 --> 00:23:47,400
+to a bird's-eye view of the storm,
+
+329
+00:23:48,160 --> 00:23:51,400
+give these meteorologists a wide range of data to work with
+
+330
+00:23:51,401 --> 00:23:54,280
+as they accurately forecast nature's fury.
+
+331
+00:23:56,720 --> 00:23:59,120
+But the first modern weatherman
+
+332
+00:23:59,121 --> 00:24:01,900
+relied solely on acute powers of observation.
+
+333
+00:24:02,580 --> 00:24:04,300
+His name was Benjamin Franklin.
+
+334
+00:24:04,900 --> 00:24:07,320
+First of all, Franklin is really the father of meteorology
+
+335
+00:24:07,321 --> 00:24:09,180
+because he explained where lightning came from.
+
+336
+00:24:09,620 --> 00:24:12,240
+So that alone is enough to guarantee him his place
+
+337
+00:24:12,241 --> 00:24:13,700
+in the firmament of weathermen.
+
+338
+00:24:13,701 --> 00:24:17,660
+However, Franklin did something really ingenious
+
+339
+00:24:17,661 --> 00:24:21,840
+when it comes to understanding how storms travel across North America.
+
+340
+00:24:24,580 --> 00:24:29,680
+One night in 1743, Franklin was preparing to watch a lunar eclipse,
+
+341
+00:24:30,500 --> 00:24:32,340
+but his view was obscured by a storm.
+
+342
+00:24:33,200 --> 00:24:37,680
+Up until Franklin's time, it was assumed that storms blew in from the northeast.
+
+343
+00:24:37,980 --> 00:24:39,540
+Even the name nor'easter is used.
+
+344
+00:24:39,541 --> 00:24:42,620
+because that's the way the wind comes down
+
+345
+00:24:42,621 --> 00:24:44,180
+towards New England and into Pennsylvania
+
+346
+00:24:44,181 --> 00:24:45,360
+when there's a storm.
+
+347
+00:24:45,660 --> 00:24:47,760
+He was surprised to read in the newspapers
+
+348
+00:24:47,761 --> 00:24:51,060
+that the people in Boston saw this eclipse perfectly well.
+
+349
+00:24:51,740 --> 00:24:55,720
+So what he did was he wrote to all of his correspondents
+
+350
+00:24:55,721 --> 00:24:57,780
+up and down the Atlantic seaboard.
+
+351
+00:24:58,300 --> 00:24:59,680
+By charting their responses,
+
+352
+00:25:00,360 --> 00:25:01,580
+Franklin was able to determine
+
+353
+00:25:01,581 --> 00:25:03,160
+that the storm had actually moved
+
+354
+00:25:03,161 --> 00:25:04,820
+from southwest to northeast.
+
+355
+00:25:05,560 --> 00:25:07,260
+He then theorized, correctly,
+
+356
+00:25:07,261 --> 00:25:11,100
+that the movement of weather is controlled by differences in air pressure.
+
+357
+00:25:12,600 --> 00:25:17,140
+Most people today view that particular discovery
+
+358
+00:25:17,141 --> 00:25:20,100
+as the foundation of modern meteorology.
+
+359
+00:25:21,560 --> 00:25:25,020
+Franklin would publish some of the first weather and climate forecasts
+
+360
+00:25:25,021 --> 00:25:26,700
+in his Poor Richard's Almanac.
+
+361
+00:25:28,040 --> 00:25:31,940
+He also wrote with surprising accuracy about global climate change.
+
+362
+00:25:33,100 --> 00:25:36,100
+During the unusually cold and foggy summer of 1783,
+
+363
+00:25:37,260 --> 00:25:41,060
+He may have been the first to connect climate change with atmospheric pollution
+
+364
+00:25:41,061 --> 00:25:45,000
+when he correctly linked the cool weather to a volcanic eruption
+
+365
+00:25:45,001 --> 00:25:47,480
+that had taken place in Iceland several months earlier.
+
+366
+00:25:53,160 --> 00:25:57,340
+Franklin even speculated about the effect of deforestation on the planet's climate.
+
+367
+00:26:01,440 --> 00:26:06,520
+In the 21st century, as global warming threatens to redraw our climate zones,
+
+368
+00:26:07,260 --> 00:26:10,560
+Climatologists are closely watching the Gulf Stream,
+
+369
+00:26:10,561 --> 00:26:13,300
+the warm Atlantic ocean current that brings temperate weather
+
+370
+00:26:13,301 --> 00:26:16,260
+to northern Europe.
+
+371
+00:26:16,261 --> 00:26:18,800
+Not surprisingly, it was the father of meteorology,
+
+372
+00:26:18,801 --> 00:26:23,100
+Ben Franklin, who first mapped the Gulf Stream.
+
+373
+00:26:23,101 --> 00:26:26,220
+Franklin first heard of this warm current in the 1760s
+
+374
+00:26:26,221 --> 00:26:32,300
+from whaling captains, including his cousin, Timothy Folger.
+
+375
+00:26:32,301 --> 00:26:34,220
+On his many transatlantic journeys,
+
+376
+00:26:34,221 --> 00:26:37,620
+Franklin painstakingly measured ocean temperatures.
+
+377
+00:26:37,621 --> 00:26:39,620
+When he'd go across the ocean, he'd take a barrel
+
+378
+00:26:39,621 --> 00:26:41,420
+and he'd lower it into the ocean.
+
+379
+00:26:41,421 --> 00:26:44,220
+It had a valve so he could measure the temperature of the water
+
+380
+00:26:44,221 --> 00:26:47,620
+at each depth, because he wanted to see how deep the Gulf Stream went,
+
+381
+00:26:47,621 --> 00:26:49,220
+not just where it went.
+
+382
+00:26:49,221 --> 00:26:53,620
+In 1768, Franklin and Timothy Folger unveiled their chart,
+
+383
+00:26:53,621 --> 00:26:56,420
+along with the name Gulf Stream.
+
+384
+00:26:56,421 --> 00:26:58,820
+And that chart has held up amazingly well.
+
+385
+00:26:58,821 --> 00:27:01,820
+Orbiting spacecraft in our own day and age,
+
+386
+00:27:01,821 --> 00:27:07,700
+Their observations of the Gulf Stream correspond almost exactly with the chart Franklin left us.
+
+387
+00:27:10,520 --> 00:27:14,020
+To this day, eastbound ships take advantage of the current,
+
+388
+00:27:14,660 --> 00:27:17,240
+while scientists continue to study it.
+
+389
+00:27:18,460 --> 00:27:21,060
+Franklin's interest in water began at age 11.
+
+390
+00:27:22,060 --> 00:27:26,420
+An excellent swimmer, young Ben invented a pair of swim paddles for his hands
+
+391
+00:27:26,421 --> 00:27:28,660
+so he could cut through the water more efficiently.
+
+392
+00:27:28,661 --> 00:27:32,660
+Franklin designed a wide range of maritime innovations,
+
+393
+00:27:32,661 --> 00:27:34,660
+including a primitive manually-pumped version
+
+394
+00:27:34,661 --> 00:27:38,660
+of a jet boat, a canvas sea anchor to keep boats
+
+395
+00:27:38,661 --> 00:27:43,660
+from drifting in stormy waters, and even spill-proof soup bowls
+
+396
+00:27:43,661 --> 00:27:45,660
+for rough ocean crossings.
+
+397
+00:27:47,660 --> 00:27:49,660
+Franklin's love of water indirectly inspired
+
+398
+00:27:49,661 --> 00:27:52,660
+what he considered his favorite invention.
+
+399
+00:27:58,660 --> 00:28:06,120
+While living in England in 1757, Franklin attended a concert in which a musician performed melodies on the rims of wine glasses.
+
+400
+00:28:08,540 --> 00:28:10,940
+Franklin loved the sound of the vibrating glass.
+
+401
+00:28:12,000 --> 00:28:16,200
+But being Franklin, wondered if there might be a better way to produce it.
+
+402
+00:28:16,720 --> 00:28:20,180
+So he thought, first of all, the water tuning's got to go way too much trouble.
+
+403
+00:28:20,540 --> 00:28:24,600
+So if you make the glasses the correct size in the first place, then you can dispense with that,
+
+404
+00:28:24,601 --> 00:28:28,820
+and you'll end up with a set ranging from a relatively large glass for your base end
+
+405
+00:28:28,821 --> 00:28:30,500
+to small glasses for the high end.
+
+406
+00:28:31,100 --> 00:28:35,540
+This would allow a musician to play complex chords in addition to single-note melodies.
+
+407
+00:28:36,440 --> 00:28:38,420
+Instead of the musician rotating his fingers,
+
+408
+00:28:39,160 --> 00:28:42,520
+37 glasses of varying diameter and thickness would rotate,
+
+409
+00:28:43,200 --> 00:28:44,680
+turned by a foot-powered spindle.
+
+410
+00:28:46,060 --> 00:28:50,440
+In 1761, Franklin unveiled his glass harmonica.
+
+411
+00:28:54,600 --> 00:29:05,060
+Its ethereal sound created nothing less than a sensation in Europe.
+
+412
+00:29:09,000 --> 00:29:11,040
+Marie Antoinette played the instrument.
+
+413
+00:29:12,000 --> 00:29:17,980
+The famous German physician, Franz Mesmer, used the harmonica's heavenly tones to mesmerize his patients.
+
+414
+00:29:20,920 --> 00:29:24,320
+The instrument also mesmerized a young composer.
+
+415
+00:29:24,600 --> 00:29:29,140
+Mozart's first exposure was actually at Mesmer's house.
+
+416
+00:29:29,141 --> 00:29:32,140
+The Mesmers and the Mozarts were friends.
+
+417
+00:29:32,580 --> 00:29:36,500
+Mozart wrote two pieces for the glass harmonica, including this one.
+
+418
+00:29:42,980 --> 00:29:46,240
+Beethoven and Haydn also composed for Franklin's instrument.
+
+419
+00:29:51,720 --> 00:29:54,180
+Franklin himself excelled at it.
+
+420
+00:29:54,181 --> 00:29:56,380
+He took one with him often when he traveled.
+
+421
+00:29:56,580 --> 00:29:58,580
+He brought it back to Philadelphia.
+
+422
+00:29:59,220 --> 00:30:02,320
+There's a story that his wife Deborah woke up one night
+
+423
+00:30:02,321 --> 00:30:04,260
+and she heard the music of the harmonica.
+
+424
+00:30:04,360 --> 00:30:07,720
+It was Ben practicing and she assumed she had died and gone to heaven.
+
+425
+00:30:13,440 --> 00:30:17,760
+Despite the wild enthusiasm, the instrument's life was surprisingly brief.
+
+426
+00:30:18,600 --> 00:30:20,420
+They eventually sort of lost out to the piano,
+
+427
+00:30:20,421 --> 00:30:24,120
+which had come on strong by the late 18th, early 19th century.
+
+428
+00:30:24,180 --> 00:30:29,560
+A much louder, much more adaptable instrument to the larger and larger orchestras that were being used.
+
+429
+00:30:29,940 --> 00:30:34,040
+The harmonica was always very much kind of a very quiet chamber-like instrument.
+
+430
+00:30:35,220 --> 00:30:41,460
+There were also rumors that the harmonica's tones, or perhaps the lead used in the glass, caused insanity.
+
+431
+00:30:42,440 --> 00:30:44,340
+Personally, I think they have that backwards.
+
+432
+00:30:44,680 --> 00:30:47,500
+I think you start a little crazy and then you want to play this.
+
+433
+00:30:47,501 --> 00:30:52,500
+Armonica virtuoso William Zeitler has made it his mission to
+
+434
+00:30:52,501 --> 00:30:54,500
+resurrect this unique instrument.
+
+435
+00:30:54,501 --> 00:30:58,500
+He performs around the world and composes original pieces for
+
+436
+00:30:58,501 --> 00:30:59,500
+it.
+
+437
+00:30:59,501 --> 00:31:01,500
+I'd really like to get this instrument off of the
+
+438
+00:31:01,501 --> 00:31:03,500
+endangered musical instrument list.
+
+439
+00:31:07,500 --> 00:31:10,500
+There aren't many places to find precision-tuned glass bowls
+
+440
+00:31:10,501 --> 00:31:14,500
+these days, so Zeitler turned to Cal glass in Costa Mesa,
+
+441
+00:31:14,501 --> 00:31:18,180
+of California, which normally makes glass scientific instruments.
+
+442
+00:31:21,900 --> 00:31:27,540
+After being shaped on a lathe, each glass bowl is sanded until it reaches the perfect pitch.
+
+443
+00:31:32,340 --> 00:31:35,420
+With a new wave of harmonica players and manufacturers,
+
+444
+00:31:36,180 --> 00:31:40,200
+this Enlightenment-era instrument may be ready to mesmerize the world again.
+
+445
+00:31:44,500 --> 00:31:58,500
+Franklin's inventions reached from music salons to the heavens.
+
+446
+00:32:00,300 --> 00:32:03,720
+Yet through it all, he remained B. Franklin, printer.
+
+447
+00:32:05,220 --> 00:32:10,400
+And as a printer, he not only made money, he made money harder to fake.
+
+448
+00:32:10,401 --> 00:32:18,320
+In 1968, Benjamin Franklin was elected to the International Swimming Hall of Fame
+
+449
+00:32:18,321 --> 00:32:22,680
+for devising paddles and flippers and promoting the health benefits of swimming.
+
+450
+00:32:23,400 --> 00:32:25,960
+Ben Franklin Tech will return on Modern Marvels.
+
+451
+00:32:29,620 --> 00:32:34,000
+It's entirely fitting that one of the world's most coveted pieces of paper,
+
+452
+00:32:34,400 --> 00:32:38,560
+and one of the hardest to imitate, bears the image of one of history's greatest printers.
+
+453
+00:32:40,400 --> 00:32:45,200
+Printing allowed Franklin to become Franklin.
+
+454
+00:32:46,260 --> 00:32:53,680
+So Franklin as a printer would eventually become the most successful in North America.
+
+455
+00:32:54,340 --> 00:32:58,780
+Many would argue he was also the best in terms of the quality of the work that he produced.
+
+456
+00:32:59,860 --> 00:33:06,220
+It was a very valuable occupation to have because, of course, it puts you right in the middle of the flow of information.
+
+457
+00:33:06,780 --> 00:33:09,320
+And Franklin himself, he took a printing press with him wherever he went.
+
+458
+00:33:09,321 --> 00:33:13,880
+The press became Franklin's jumping-off point for the world of science and invention.
+
+459
+00:33:16,540 --> 00:33:20,320
+And while the breakthroughs with electricity may be his greatest accomplishments,
+
+460
+00:33:21,180 --> 00:33:24,520
+his work as a printer has also shaped our world.
+
+461
+00:33:26,020 --> 00:33:28,900
+His real bread and butter was the Pennsylvania Gazette.
+
+462
+00:33:29,640 --> 00:33:31,420
+That was his main source of income.
+
+463
+00:33:31,600 --> 00:33:33,500
+It became the leading newspaper in the colonies.
+
+464
+00:33:34,100 --> 00:33:36,800
+People subscribed to it, not only in Philadelphia and Pennsylvania,
+
+465
+00:33:36,801 --> 00:33:38,700
+but all over the 13 colonies.
+
+466
+00:33:39,320 --> 00:33:46,800
+Franklin opened satellite print shops across the colonies, and as the colony's deputy postmaster,
+
+467
+00:33:47,280 --> 00:33:49,800
+he was able to link his print shops with the mail service.
+
+468
+00:33:51,900 --> 00:33:57,560
+The combination of the printing and postmaster network was, for its time, the most advanced
+
+469
+00:33:57,561 --> 00:34:03,420
+communications network anywhere, not just in the colonies, but I might even say even in Europe,
+
+470
+00:34:03,520 --> 00:34:05,900
+there wasn't anything quite so far-flung and sophisticated.
+
+471
+00:34:05,901 --> 00:34:09,900
+Franklin's innovations in the technology of printing came in
+
+472
+00:34:10,000 --> 00:34:12,700
+the area of currency.
+
+473
+00:34:12,800 --> 00:34:16,340
+His first, at age 22, was to convince the Pennsylvania
+
+474
+00:34:16,440 --> 00:34:19,440
+colony that paper money was a good idea.
+
+475
+00:34:19,540 --> 00:34:23,520
+Being a printer, he was eager to get the commission to print
+
+476
+00:34:23,620 --> 00:34:25,020
+the currency.
+
+477
+00:34:25,120 --> 00:34:27,960
+And being the clever fellow he was,
+
+478
+00:34:28,060 --> 00:34:34,200
+he published at his own expense a pamphlet expounding on his
+
+479
+00:34:34,201 --> 00:34:39,140
+founding on his idea that there should be more paper currency than there presently was.
+
+480
+00:34:39,360 --> 00:34:41,820
+And guess who got the commission to print it?
+
+481
+00:34:42,240 --> 00:34:43,000
+He did.
+
+482
+00:34:45,940 --> 00:34:49,520
+Franklin then began a lifelong battle against counterfeiters.
+
+483
+00:34:50,340 --> 00:34:53,320
+In an era when each colony had its own currency,
+
+484
+00:34:54,060 --> 00:34:57,420
+a large counterfeit operation could destabilize a colony's economy.
+
+485
+00:34:57,421 --> 00:35:04,420
+Franklin's early anti-counterfeit strategies included ornamentation and hard-to-find fonts,
+
+486
+00:35:04,560 --> 00:35:07,306
+and a not-so-subtle threat.
+
+487
+00:35:07,307 --> 00:35:14,120
+He also had the idea of taking granulated mica flakes and embedding
+
+488
+00:35:14,121 --> 00:35:19,600
+that and pressing that into the paper. He was always coming up with new ideas.
+
+489
+00:35:21,840 --> 00:35:25,900
+Franklin's greatest contribution to counterfeit-proof currency was his introduction
+
+490
+00:35:25,901 --> 00:35:26,900
+of leaf printing.
+
+491
+00:35:27,440 --> 00:35:29,540
+He got the idea from this book,
+
+492
+00:35:29,620 --> 00:35:31,820
+which he saw in the library of James Logan.
+
+493
+00:35:32,160 --> 00:35:33,840
+Franklin saw this book and was fascinated with it.
+
+494
+00:35:34,180 --> 00:35:36,880
+He and his friends went back to his printing office
+
+495
+00:35:36,881 --> 00:35:39,540
+and began making nature prints of leaves
+
+496
+00:35:39,541 --> 00:35:40,740
+on large sheets of paper,
+
+497
+00:35:40,940 --> 00:35:43,680
+which he used to communicate botanical information
+
+498
+00:35:43,681 --> 00:35:46,940
+to friends in London who were eager for any knowledge
+
+499
+00:35:46,941 --> 00:35:48,620
+they could get about American plants.
+
+500
+00:35:49,440 --> 00:35:51,560
+Franklin realized that like a fingerprint,
+
+501
+00:35:52,100 --> 00:35:53,840
+every plant's leaf pattern is unique
+
+502
+00:35:53,841 --> 00:35:55,980
+and thus impossible to replicate.
+
+503
+00:35:56,980 --> 00:36:01,480
+And so he got the idea of creating copper plates
+
+504
+00:36:01,481 --> 00:36:05,420
+cast from actual leaves.
+
+505
+00:36:05,720 --> 00:36:09,640
+And he used those leaf prints to make the paper
+
+506
+00:36:09,641 --> 00:36:11,460
+that he printed his currency on.
+
+507
+00:36:11,960 --> 00:36:13,740
+No one knows with certainty
+
+508
+00:36:13,741 --> 00:36:15,800
+how Franklin made these engraving plates.
+
+509
+00:36:19,800 --> 00:36:21,920
+He would have had to press the leaves
+
+510
+00:36:21,921 --> 00:36:23,520
+into a soft plaster mold.
+
+511
+00:36:23,840 --> 00:36:27,260
+then pour the molten metal to form the engraving plate.
+
+512
+00:36:27,940 --> 00:36:29,140
+But there's a problem.
+
+513
+00:36:29,980 --> 00:36:31,600
+Molten metal would crack the plaster.
+
+514
+00:36:33,020 --> 00:36:36,200
+The theory is that Franklin added an insulating material,
+
+515
+00:36:36,820 --> 00:36:38,820
+perhaps brick dust or asbestos,
+
+516
+00:36:39,240 --> 00:36:40,440
+to keep the mold from breaking.
+
+517
+00:36:41,300 --> 00:36:46,060
+Although he gave all his other inventions away freely,
+
+518
+00:36:46,720 --> 00:36:48,120
+this one he didn't,
+
+519
+00:36:48,900 --> 00:36:52,780
+because obviously the counterfeiters would have used it.
+
+520
+00:36:53,840 --> 00:36:57,720
+The very complicated engraved designs that we have in our money today,
+
+521
+00:36:57,721 --> 00:37:00,920
+not unlike the patterns of veins on these leaves,
+
+522
+00:37:01,240 --> 00:37:04,500
+are directly inspired by Franklin's leaf prints, I think.
+
+523
+00:37:05,220 --> 00:37:08,640
+A lifetime of staring at currency patterns and fine print
+
+524
+00:37:08,641 --> 00:37:13,220
+may have led the 78-year-old Franklin to one of his most enduring inventions.
+
+525
+00:37:18,240 --> 00:37:21,840
+They came out of his frustration when he was ambassador in France.
+
+526
+00:37:22,040 --> 00:37:23,080
+His eyesight was failing.
+
+527
+00:37:23,920 --> 00:37:26,080
+And almost every night he had a different social event,
+
+528
+00:37:26,140 --> 00:37:27,980
+a dinner party to attend, that kind of thing.
+
+529
+00:37:28,180 --> 00:37:31,220
+And what he found was that he couldn't both see the food on his plate
+
+530
+00:37:31,221 --> 00:37:35,220
+and the faces of the people sitting across the table from him.
+
+531
+00:37:35,520 --> 00:37:37,760
+And it was very important that he did see their faces
+
+532
+00:37:37,761 --> 00:37:39,680
+because his French was not all that good.
+
+533
+00:37:39,980 --> 00:37:43,620
+And he found it necessary to really be able to see people's lips when they spoke.
+
+534
+00:37:44,900 --> 00:37:47,600
+Franklin realized that when using his reading glasses,
+
+535
+00:37:47,601 --> 00:37:49,880
+he looked through the bottom half of his lenses.
+
+536
+00:37:50,700 --> 00:37:53,100
+With his distance glasses, he looked through the top half.
+
+537
+00:37:53,720 --> 00:37:54,960
+And then came the idea.
+
+538
+00:37:55,600 --> 00:37:59,420
+Cut each lens in half and reattach them, one on top of the other.
+
+539
+00:38:00,240 --> 00:38:03,220
+So many of Franklin's inventions are things that, as soon as he invented them,
+
+540
+00:38:03,221 --> 00:38:05,980
+you would think, oh, of course, it makes perfect sense.
+
+541
+00:38:06,200 --> 00:38:08,220
+And bifocals are a really good example of that.
+
+542
+00:38:11,420 --> 00:38:14,540
+Bifocals were the capping achievement for a visionary inventor.
+
+543
+00:38:15,320 --> 00:38:18,400
+But Franklin's vision also encompassed entire systems.
+
+544
+00:38:19,880 --> 00:38:28,720
+From fire departments and libraries to nations.
+
+545
+00:38:30,720 --> 00:38:41,380
+Between 1728 and 1764, Franklin's hand-operated press printed about 2.5 million banknotes for Pennsylvania, Delaware, and New Jersey.
+
+546
+00:38:42,300 --> 00:38:44,960
+Ben Franklin Tech will return on Modern Marvels.
+
+547
+00:38:44,961 --> 00:38:52,840
+In today's America, pulsing with electronic communication and complex transportation systems,
+
+548
+00:38:53,680 --> 00:38:56,060
+Benjamin Franklin would probably feel right at home.
+
+549
+00:38:57,000 --> 00:38:59,920
+If Franklin were alive today, he'd be a true technological geek.
+
+550
+00:39:00,200 --> 00:39:04,020
+He'd be showing off his Blackberry or his Trio because he loved electricity,
+
+551
+00:39:04,200 --> 00:39:06,240
+but he also loved the free flow of information.
+
+552
+00:39:06,580 --> 00:39:07,520
+He loved communicating.
+
+553
+00:39:07,760 --> 00:39:10,240
+He loved the mail system, and he loved the email system.
+
+554
+00:39:10,400 --> 00:39:12,000
+And certainly, he'd have a website.
+
+555
+00:39:14,960 --> 00:39:19,500
+Franklin had a gift for inventing 18th century equivalents of such high-tech networks,
+
+556
+00:39:20,540 --> 00:39:23,180
+complex systems that serve to improve society.
+
+557
+00:39:25,120 --> 00:39:27,880
+He even helped invent a brand new type of nation.
+
+558
+00:39:30,580 --> 00:39:36,300
+Franklin's first such idea was the Library Company of Philadelphia, which he founded at age 25.
+
+559
+00:39:38,060 --> 00:39:43,320
+Anyone who bought a one-time share in the library could borrow a book and agree to return it later.
+
+560
+00:39:44,120 --> 00:39:45,260
+You didn't return the book.
+
+561
+00:39:45,340 --> 00:39:46,440
+You forfeited your deposit.
+
+562
+00:39:46,780 --> 00:39:48,220
+It was in your interest to return the book.
+
+563
+00:39:48,460 --> 00:39:49,900
+When you returned it and you came back later,
+
+564
+00:39:49,940 --> 00:39:52,420
+you could be sure it was going to be there again for you to look at.
+
+565
+00:39:52,980 --> 00:39:56,040
+And this made it into a permanent institution.
+
+566
+00:39:56,800 --> 00:40:00,860
+The library company was the first successful public lending library
+
+567
+00:40:00,861 --> 00:40:02,480
+in the world that I know of.
+
+568
+00:40:02,660 --> 00:40:05,040
+And I think that that was a great invention.
+
+569
+00:40:05,200 --> 00:40:07,720
+I might even go so far as to say it's Franklin's greatest invention.
+
+570
+00:40:09,180 --> 00:40:12,220
+This urge to democratize knowledge for the greater good
+
+571
+00:40:12,221 --> 00:40:14,980
+grew out of Franklin's group of 12 fellow craftsmen,
+
+572
+00:40:16,260 --> 00:40:18,000
+called the Leather Apron Club.
+
+573
+00:40:18,720 --> 00:40:21,000
+The group was proudly named after the apron
+
+574
+00:40:21,001 --> 00:40:22,740
+that identified them as skilled workers.
+
+575
+00:40:24,020 --> 00:40:26,800
+The middling sort is what they would call themselves
+
+576
+00:40:26,801 --> 00:40:28,000
+in the 18th century,
+
+577
+00:40:28,180 --> 00:40:33,700
+but people with skills who weren't born wealthy,
+
+578
+00:40:33,800 --> 00:40:34,900
+who worked with their hands,
+
+579
+00:40:35,460 --> 00:40:37,540
+the purpose of the Leather Apron Club,
+
+580
+00:40:37,600 --> 00:40:39,480
+or the Junto, as it was later called,
+
+581
+00:40:39,481 --> 00:40:43,600
+was to converse on Friday night over drink.
+
+582
+00:40:43,680 --> 00:40:45,180
+They originally met at a nail house.
+
+583
+00:40:45,620 --> 00:40:48,360
+And they would form these groups to apply technology
+
+584
+00:40:48,361 --> 00:40:50,240
+into our daily lives,
+
+585
+00:40:50,280 --> 00:40:51,920
+whether it was for a good fire department
+
+586
+00:40:51,921 --> 00:40:53,300
+or a good lending library.
+
+587
+00:40:54,080 --> 00:40:55,640
+Franklin was also a Freemason.
+
+588
+00:40:56,300 --> 00:40:57,560
+And like Freemasonry,
+
+589
+00:40:57,561 --> 00:41:00,440
+the Junto was originally a secret organization.
+
+590
+00:41:02,500 --> 00:41:06,280
+It eventually became the American Philosophical Society,
+
+591
+00:41:06,760 --> 00:41:08,780
+the nation's first learned society.
+
+592
+00:41:09,480 --> 00:41:16,480
+Franklin and his middling colleagues would also organize America's first volunteer militia,
+
+593
+00:41:16,481 --> 00:41:25,480
+found the nation's first hospital, and create the first non-religious college in America.
+
+594
+00:41:25,481 --> 00:41:32,480
+The inventor of the lightning rod took a comprehensive approach to fire prevention.
+
+595
+00:41:32,481 --> 00:41:41,520
+He built his Philadelphia home using fire-resistant plaster to separate the brick from the wood.
+
+596
+00:41:44,220 --> 00:41:48,740
+He and his fellow Junto members brought in state-of-the-art fire engines from England
+
+597
+00:41:48,741 --> 00:41:54,540
+and organized bucket brigades into the city's first volunteer fire company.
+
+598
+00:41:54,541 --> 00:42:02,700
+A tireless innovator in every stage of his career,
+
+599
+00:42:03,420 --> 00:42:06,120
+Postmaster Franklin modernized the colony's mail system.
+
+600
+00:42:06,800 --> 00:42:15,080
+He established a framework for the entire postal system
+
+601
+00:42:15,081 --> 00:42:19,400
+that included the establishment of post offices,
+
+602
+00:42:19,401 --> 00:42:33,401
+the mapping of routes that included determining distances between post offices and also setting rates for different increments along the postal routes.
+
+603
+00:42:33,820 --> 00:42:46,240
+Do you know that during his time, he improved efficiency to the extent that it took one day to get a letter from Philadelphia to New York?
+
+604
+00:42:46,241 --> 00:42:50,920
+we're lucky to get that kind of service today
+
+605
+00:42:50,921 --> 00:42:54,680
+but the greatest system
+
+606
+00:42:54,681 --> 00:42:56,120
+Benjamin Franklin invented
+
+607
+00:42:56,121 --> 00:42:58,480
+was the United States itself
+
+608
+00:42:58,481 --> 00:43:00,800
+of course he wasn't the only inventor
+
+609
+00:43:00,801 --> 00:43:05,240
+but from his prescient attempts to unite the colonies
+
+610
+00:43:05,241 --> 00:43:06,660
+in the 1750s
+
+611
+00:43:06,661 --> 00:43:11,500
+through his brilliant treaty of amity with France
+
+612
+00:43:11,501 --> 00:43:15,200
+to his critical great compromise
+
+613
+00:43:15,201 --> 00:43:18,140
+that created two houses of Congress.
+
+614
+00:43:18,240 --> 00:43:21,300
+Franklin was the great uniter.
+
+615
+00:43:21,400 --> 00:43:25,340
+One of Franklin's scientific principles was unification.
+
+616
+00:43:25,440 --> 00:43:27,940
+He loved to unify things, bring them together,
+
+617
+00:43:28,040 --> 00:43:30,680
+so he'd had a single theory of electricity.
+
+618
+00:43:30,780 --> 00:43:32,580
+But that also applied to his politics
+
+619
+00:43:32,680 --> 00:43:34,080
+because he liked to bring colonies together.
+
+620
+00:43:34,180 --> 00:43:36,460
+He liked to bring people together.
+
+621
+00:43:36,560 --> 00:43:38,820
+The hand of Franklin the scientist
+
+622
+00:43:38,920 --> 00:43:41,000
+may be most clearly seen in his notes
+
+623
+00:43:41,100 --> 00:43:45,200
+on the first draft of the Declaration of Independence.
+
+624
+00:43:45,201 --> 00:43:48,040
+Thomas Jefferson's original draft had read,
+
+625
+00:43:48,600 --> 00:43:51,340
+We hold these truths to be sacred and undeniable.
+
+626
+00:43:52,340 --> 00:43:54,020
+Franklin replaced the religious language
+
+627
+00:43:54,021 --> 00:43:56,840
+with a phrase taken from scientific observation.
+
+628
+00:43:58,320 --> 00:44:01,040
+Truths that are self-evident, that was Franklin's language.
+
+629
+00:44:01,120 --> 00:44:02,380
+He took that directly from Newton.
+
+630
+00:44:02,920 --> 00:44:04,140
+That's scientific language.
+
+631
+00:44:05,060 --> 00:44:07,420
+It's in this sense that the lightning rod
+
+632
+00:44:07,421 --> 00:44:10,880
+and the great American experiment in democracy are connected.
+
+633
+00:44:10,881 --> 00:44:14,880
+just as Franklin the scientist.
+

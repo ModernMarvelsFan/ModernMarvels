@@ -1,0 +1,2108 @@
+1
+00:00:00,001 --> 00:00:09,620
+It began as a toy over 500 years ago, but has evolved into one of the most versatile aircraft in the world.
+
+2
+00:00:10,620 --> 00:00:16,600
+The machine that Wilbur Wright once thought worthless has become an indispensable part of our world.
+
+3
+00:00:17,240 --> 00:00:20,880
+Now, helicopters on Modern Marvels.
+
+4
+00:00:30,000 --> 00:00:42,540
+In watching a premier military attack helicopter in action,
+
+5
+00:00:43,080 --> 00:00:49,600
+it's no wonder that many of the world's aeronauts claim that helicopters are the only real flying machines.
+
+6
+00:00:50,560 --> 00:00:57,320
+The craft that became known as the Angel of Mercy in war has become the jack of all trades of our airways.
+
+7
+00:01:00,000 --> 00:01:05,280
+From a transporter of some of the world's most famous and powerful individuals.
+
+8
+00:01:07,720 --> 00:01:12,340
+To aerial firefighters putting out some of our worst forest fires.
+
+9
+00:01:14,480 --> 00:01:17,400
+From defender and protector of our neighborhoods.
+
+10
+00:01:18,200 --> 00:01:22,380
+To the flying crane workhorses lifting over 12 tons.
+
+11
+00:01:23,700 --> 00:01:28,780
+To one of the most important functions of this aircraft, the flying ambulance.
+
+12
+00:01:28,781 --> 00:01:32,780
+Medevac helicopters have helped save thousands of lives a year.
+
+13
+00:01:34,780 --> 00:01:41,780
+Yet less than 60 years ago, the only aircraft in the world that flies in three dimensions was still in its infancy.
+
+14
+00:01:47,780 --> 00:01:51,780
+The idea of rotary flight dates back to ancient civilization.
+
+15
+00:01:52,780 --> 00:01:55,780
+It began with a toy that became known as the Chinese top.
+
+16
+00:01:55,781 --> 00:01:56,794
+Chinese top.
+
+17
+00:01:56,795 --> 00:02:03,720
+We know for a fact that 1,500 to 2,000 years ago, the Chinese already had spin top
+
+18
+00:02:03,721 --> 00:02:08,661
+toys where you pulled a string and a propeller device flew into the air.
+
+19
+00:02:08,662 --> 00:02:10,240
+The implications of it,
+
+20
+00:02:10,241 --> 00:02:13,649
+however, were not realized by the Chinese at that time.
+
+21
+00:02:13,650 --> 00:02:16,500
+As the Chinese top made its way across Europe,
+
+22
+00:02:16,680 --> 00:02:19,297
+it quickly became a popular curio.
+
+23
+00:02:19,298 --> 00:02:23,300
+By 1463, the top even began to show up in paintings,
+
+24
+00:02:23,301 --> 00:02:28,620
+such as the famous Christ Child, which depicts Jesus holding one of these toys.
+
+25
+00:02:31,120 --> 00:02:37,300
+Shortly after, in 1483, the first known design concept of a helicopter was put on paper
+
+26
+00:02:37,301 --> 00:02:40,180
+by one of the world's most famous theorists.
+
+27
+00:02:41,000 --> 00:02:46,520
+Leonardo da Vinci was very actively pursuing the challenge of the helicopter
+
+28
+00:02:46,521 --> 00:02:51,400
+with that famous sketch of his and with the description that if the cloth were properly varnished
+
+29
+00:02:51,401 --> 00:02:54,800
+and this screw-like object were turned quickly enough,
+
+30
+00:02:55,160 --> 00:02:56,960
+it would ascend into the air.
+
+31
+00:02:57,320 --> 00:02:59,460
+And if you look back at it, fascinating,
+
+32
+00:03:00,060 --> 00:03:05,360
+how close Leonardo da Vinci was to solving the problem of flight.
+
+33
+00:03:05,680 --> 00:03:09,900
+But the man was such a perfectionist that he went beyond the glider,
+
+34
+00:03:10,540 --> 00:03:13,680
+and if he had just stopped for a moment and said,
+
+35
+00:03:13,681 --> 00:03:16,740
+OK, I don't think I can build this,
+
+36
+00:03:16,880 --> 00:03:19,080
+but if I just make it into a fixed wing,
+
+37
+00:03:19,640 --> 00:03:20,780
+that man would have flown.
+
+38
+00:03:21,400 --> 00:03:23,400
+500 years ago.
+
+39
+00:03:23,401 --> 00:03:30,400
+Da Vinci was among many scientists who were teased by maple seeds and dandelion leaves in flight.
+
+40
+00:03:30,401 --> 00:03:35,400
+Various insects and hummingbirds who hovered effortlessly in mid-air,
+
+41
+00:03:35,401 --> 00:03:40,400
+turned any which way they pleased and could fly in all directions.
+
+42
+00:03:40,401 --> 00:03:44,400
+But without a sufficient source of power to lift a man,
+
+43
+00:03:44,401 --> 00:03:50,400
+the idea of any mechanical flight would remain for centuries a dream.
+
+44
+00:03:51,400 --> 00:04:00,520
+By the turn of the 19th century, many visionaries had put their ideas of a rotary aircraft on paper.
+
+45
+00:04:01,120 --> 00:04:04,080
+However, most were based on fantasy rather than reality.
+
+46
+00:04:04,420 --> 00:04:08,540
+But by the 1840s, an English scientist, Sir George Cayley,
+
+47
+00:04:09,100 --> 00:04:15,240
+began tackling one of the first obstacles associated with rotary flight, counteracting torque.
+
+48
+00:04:15,980 --> 00:04:20,820
+If you take a hold of something, a screwdriver, for instance, and you twist it in one direction,
+
+49
+00:04:21,400 --> 00:04:26,200
+there is an equal and opposite reaction in the opposite direction.
+
+50
+00:04:27,420 --> 00:04:30,100
+And that would be the torque reaction.
+
+51
+00:04:30,980 --> 00:04:34,160
+And when a rotor is spinning in the air,
+
+52
+00:04:34,400 --> 00:04:36,820
+at the same time it is turning in one direction,
+
+53
+00:04:37,000 --> 00:04:40,140
+it's trying to twist the fuselage of the aircraft in the opposite direction.
+
+54
+00:04:41,440 --> 00:04:46,480
+Cayley's answer to this problem was to design a helicopter with two rotors side by side.
+
+55
+00:04:46,481 --> 00:04:52,740
+each rotor would turn in opposite directions to counteract the forces of torque between each other.
+
+56
+00:04:54,000 --> 00:04:56,900
+But Cayley never built his rotary aircraft.
+
+57
+00:04:57,420 --> 00:05:02,580
+He knew that a full-size machine based on his design would never get off the ground.
+
+58
+00:05:02,581 --> 00:05:05,700
+See, the only power at that time really was a steam engine.
+
+59
+00:05:06,520 --> 00:05:09,320
+And steam engine weighs about 100 pounds per horsepower.
+
+60
+00:05:09,500 --> 00:05:11,800
+It's just impractical for vertical lift.
+
+61
+00:05:11,801 --> 00:05:19,100
+But several years later in the 1860s, a French engineer, Viscount Gustave de Ponton d'Amacourt,
+
+62
+00:05:19,440 --> 00:05:24,140
+was determined to prove to the world that rotary flight was indeed possible.
+
+63
+00:05:24,960 --> 00:05:31,100
+D'Amacourt built a miniature rotary aircraft which demonstrated a new method of counteracting torque.
+
+64
+00:05:33,020 --> 00:05:37,360
+He researched and built small flying models,
+
+65
+00:05:37,361 --> 00:05:43,620
+and one of them was a counter-rotating helicopter toy
+
+66
+00:05:43,621 --> 00:05:47,020
+where he took a bow and would wind it up
+
+67
+00:05:47,021 --> 00:05:50,260
+and the tension of the bow would turn one rotor in one direction.
+
+68
+00:05:50,800 --> 00:05:52,760
+The torque of that would turn the opposite rotor.
+
+69
+00:05:53,140 --> 00:05:56,080
+Size may be two feet long, but it did fly.
+
+70
+00:05:56,820 --> 00:06:00,440
+This became known as a coaxial method of handling torque.
+
+71
+00:06:01,160 --> 00:06:03,620
+Two rotors mounted on a common axis.
+
+72
+00:06:03,621 --> 00:06:09,620
+After proving that a properly designed coaxial rotor system would fly,
+
+73
+00:06:09,621 --> 00:06:13,620
+de Amacor designed and built another miniature rotary aircraft.
+
+74
+00:06:13,621 --> 00:06:18,620
+This time he utilized tiny watch spring mechanisms for power.
+
+75
+00:06:18,621 --> 00:06:20,620
+They too flew successfully.
+
+76
+00:06:20,621 --> 00:06:25,620
+De Amacor came up with an enduring name for his contrivances,
+
+77
+00:06:25,621 --> 00:06:30,620
+using the Greek words helico, meaning spiral, and teron, meaning wing.
+
+78
+00:06:30,621 --> 00:06:33,824
+wing. He coined the name Helicopter.
+
+79
+00:06:33,825 --> 00:06:38,720
+But until a sufficient source of power became available
+
+80
+00:06:38,721 --> 00:06:44,787
+enough to lift a man, helicopters would remain small, miniature prototypes.
+
+81
+00:06:44,788 --> 00:06:46,000
+The world would
+
+82
+00:06:46,001 --> 00:06:51,310
+have to wait another 20 years for vertical flight.
+
+83
+00:06:51,311 --> 00:06:55,240
+In the 1880s, Thomas Edison attempted
+
+84
+00:06:55,241 --> 00:06:59,845
+to build a helicopter. He created an engine powered by gun cotton.
+
+85
+00:06:59,846 --> 00:07:01,520
+But after his laboratory
+
+86
+00:07:01,521 --> 00:07:06,800
+blew up during one such experiment, he went back to doing what he knew best, developing
+
+87
+00:07:06,801 --> 00:07:12,540
+electrical items. Helicopters will continue in a moment on Modern Marvels.
+
+88
+00:07:15,560 --> 00:07:21,440
+By the mid-19th century, there were many failed attempts to design and build both fixed-wing
+
+89
+00:07:21,441 --> 00:07:23,660
+and rotary-winged aircraft.
+
+90
+00:07:25,060 --> 00:07:28,080
+But the failure of these attempts did not stem
+
+91
+00:07:28,081 --> 00:07:30,140
+from a lack of aerodynamic knowledge.
+
+92
+00:07:31,260 --> 00:07:33,740
+All of these early developments of aviation
+
+93
+00:07:33,741 --> 00:07:37,080
+had to wait for the development of the internal combustion engine,
+
+94
+00:07:37,320 --> 00:07:38,040
+the gasoline engine.
+
+95
+00:07:38,800 --> 00:07:42,300
+Obviously, those people that were trying to fly with manpower,
+
+96
+00:07:42,301 --> 00:07:47,020
+that is, by flapping their wings or pedaling a bicycle-like machine,
+
+97
+00:07:47,560 --> 00:07:49,320
+were doomed to failure because of the fact
+
+98
+00:07:49,321 --> 00:07:51,460
+that the human being cannot generate that amount of energy.
+
+99
+00:07:52,860 --> 00:07:57,480
+But in 1876, the four-stroke internal combustion engine
+
+100
+00:07:57,481 --> 00:08:00,920
+was perfected by Germany's Nikolaus Otto.
+
+101
+00:08:02,180 --> 00:08:03,900
+By the turn of the 20th century,
+
+102
+00:08:04,060 --> 00:08:06,540
+the piston engine's power-to-weight ratio
+
+103
+00:08:06,541 --> 00:08:09,800
+was at levels that assured mechanical flight possible,
+
+104
+00:08:10,340 --> 00:08:11,600
+at least with airplanes.
+
+105
+00:08:12,860 --> 00:08:16,980
+On December 17, 1903, near Kitty Hawk, North Carolina,
+
+106
+00:08:17,840 --> 00:08:22,220
+The Wright brothers made the first controlled, sustained airplane flights
+
+107
+00:08:22,221 --> 00:08:25,120
+in a powered, heavier-than-air vehicle.
+
+108
+00:08:26,620 --> 00:08:30,600
+Now, the Wright engine was about 15 pounds per horsepower,
+
+109
+00:08:30,900 --> 00:08:35,280
+but that was possible for an airplane, but really not for a helicopter.
+
+110
+00:08:35,740 --> 00:08:40,020
+So when the weight of the engine, reciprocating engine,
+
+111
+00:08:40,021 --> 00:08:42,640
+got down to around 3 pounds per horsepower,
+
+112
+00:08:42,820 --> 00:08:45,900
+that's when vertical lift machines would be possible.
+
+113
+00:08:46,980 --> 00:08:55,980
+On September 29th 1907, French aviation pioneer Louis Breguet became the first to leave the ground vertically.
+
+114
+00:08:55,981 --> 00:09:00,980
+He and his craft hovered for one minute at an altitude of two feet.
+
+115
+00:09:00,981 --> 00:09:07,980
+However, Breguet had no control of his gyroplane number one and his craft was tethered to the ground for safety.
+
+116
+00:09:07,981 --> 00:09:16,980
+But on November 13th 1907 another French engineer Paul Cornu would also make aviation history.
+
+117
+00:09:16,981 --> 00:09:23,980
+Hovering about a foot off the ground for several minutes Cornu became the first person to ever rise vertically
+
+118
+00:09:23,981 --> 00:09:28,980
+in a powered heavier than air machine with no assistance from the ground.
+
+119
+00:09:28,981 --> 00:09:31,980
+It was a true rotary free flight.
+
+120
+00:09:31,981 --> 00:09:35,110
+But he too had little control of his machine.
+
+121
+00:09:35,111 --> 00:09:38,380
+Although there were many engineers who followed
+
+122
+00:09:38,381 --> 00:09:44,380
+in Cornu's footsteps, some even flying for up to seven minutes, they all had the same
+
+123
+00:09:44,381 --> 00:09:48,860
+problem, lack of complete control.
+
+124
+00:09:48,861 --> 00:09:55,340
+In contrast, by the 1920s, United States Army Air Service planes were making the first flights
+
+125
+00:09:55,341 --> 00:09:56,991
+around the entire world.
+
+126
+00:09:56,992 --> 00:10:01,600
+It seemed that helicopter technology had quickly fallen behind that
+
+127
+00:10:01,601 --> 00:10:03,783
+of the airplane.
+
+128
+00:10:03,784 --> 00:10:13,060
+In 1925, a Spaniard, Juan de la Sierra, put the idea of a helicopter
+
+129
+00:10:13,061 --> 00:10:15,627
+back into mainstream development.
+
+130
+00:10:15,628 --> 00:10:20,140
+His invention, a completely new type of aircraft, the auto
+
+131
+00:10:20,141 --> 00:10:20,841
+gyro.
+
+132
+00:10:20,842 --> 00:10:28,720
+Well, an auto gyro has a rotor and when the aircraft is moving forward through the
+
+133
+00:10:28,721 --> 00:10:34,260
+air, the rotor acts a little bit like a windmill where the forward motion of the aircraft moving
+
+134
+00:10:34,261 --> 00:10:36,927
+through the air causes it to rotate.
+
+135
+00:10:36,928 --> 00:10:40,780
+And when it rotates, it again is a rotating wing and
+
+136
+00:10:40,781 --> 00:10:47,840
+is producing lift. But the forward motion of the autogyro is produced by a propeller
+
+137
+00:10:47,841 --> 00:10:50,200
+very similar to what you would have on an airplane.
+
+138
+00:10:50,201 --> 00:10:56,600
+An autogyro, which wasn't really vertical lift on the takeoff, but vertical lift landing,
+
+139
+00:10:56,601 --> 00:11:03,100
+They could auto-rotate down with very low ground run, plop down right in front of everybody,
+
+140
+00:11:03,380 --> 00:11:06,960
+and especially at air shows, they would demonstrate that capability.
+
+141
+00:11:12,000 --> 00:11:18,400
+This method of landing is the same basic approach that a modern helicopter would take should its engine fail.
+
+142
+00:11:19,180 --> 00:11:26,200
+Back in the 1920s, Juan de la Sierra proved to the world that to make a safe landing in a helicopter,
+
+143
+00:11:26,600 --> 00:11:29,340
+required no engine power and no runway,
+
+144
+00:11:29,780 --> 00:11:32,500
+just a spot big enough for the aircraft.
+
+145
+00:11:34,180 --> 00:11:37,440
+The key to De La Sierva's stable aircraft
+
+146
+00:11:37,441 --> 00:11:39,400
+was his discovery of a phenomenon
+
+147
+00:11:39,401 --> 00:11:43,140
+that only became apparent with rotary-winged aircraft,
+
+148
+00:11:43,700 --> 00:11:45,040
+dissimetry of lift.
+
+149
+00:11:46,180 --> 00:11:48,660
+De La Sierva had the same annoying problem
+
+150
+00:11:48,661 --> 00:11:51,040
+that many early helicopter designers had.
+
+151
+00:11:51,041 --> 00:11:54,380
+Their craft would tip over before ever leaving the ground.
+
+152
+00:11:54,381 --> 00:11:58,540
+This happened because most rotor blades at the time were rigid.
+
+153
+00:11:59,440 --> 00:12:04,460
+Rotating blades never generate the same force of lift equally throughout their revolution.
+
+154
+00:12:05,060 --> 00:12:07,440
+This causes an imbalance of lift.
+
+155
+00:12:10,460 --> 00:12:12,400
+De La Sierva's solution?
+
+156
+00:12:13,140 --> 00:12:19,800
+He attached hinges to each blade, which allowed them to move fore and aft, and up and down.
+
+157
+00:12:19,960 --> 00:12:23,820
+This would allow the rotor blades to find their own way through the air.
+
+158
+00:12:24,380 --> 00:12:30,460
+You see, as the forward-going blade goes into the air, it gets a lot more lift and it wants to rise.
+
+159
+00:12:30,880 --> 00:12:34,880
+And as it rotates around and goes with the air, then it wants to sink.
+
+160
+00:12:35,660 --> 00:12:39,060
+And prior to that, then, most of the aircraft would have rolled over.
+
+161
+00:12:39,620 --> 00:12:43,960
+He allowed the blade to flap up and as it goes around, then, to flap down.
+
+162
+00:12:44,420 --> 00:12:46,380
+If it gets too much lift, it flaps up.
+
+163
+00:12:46,660 --> 00:12:52,260
+As it goes around and loses lift because it's going with the wind, it starts to settle.
+
+164
+00:12:52,261 --> 00:12:55,220
+and so this was a self-accommodating sort of thing.
+
+165
+00:12:55,660 --> 00:12:57,900
+So Wanda La Sierva figured that out
+
+166
+00:12:57,901 --> 00:13:03,520
+and was able to build a controllable, flyable autogyro back in the 20s.
+
+167
+00:13:04,140 --> 00:13:08,140
+Early autogyros had small wings to help steer the aircraft,
+
+168
+00:13:08,600 --> 00:13:11,620
+but these wings disappeared in the early 1930s
+
+169
+00:13:11,621 --> 00:13:13,640
+when cyclic pitch control was developed.
+
+170
+00:13:14,120 --> 00:13:18,240
+This device was based on the problem that De La Sierva had just solved,
+
+171
+00:13:18,500 --> 00:13:19,540
+dissymmetry of lift.
+
+172
+00:13:20,160 --> 00:13:25,140
+The thought was take control of this imbalance of lift and use it to steer the aircraft.
+
+173
+00:13:26,720 --> 00:13:32,500
+It wasn't until the cyclic pitch, where we can change the pitch as we go around the blade,
+
+174
+00:13:32,800 --> 00:13:35,420
+so it might go high on this side and low on that side,
+
+175
+00:13:36,180 --> 00:13:40,380
+that people began using cyclic pitch to help control this rotor.
+
+176
+00:13:41,000 --> 00:13:45,220
+And so then, in hovering, where you have no forward flight speed,
+
+177
+00:13:45,221 --> 00:13:49,640
+they were able then to tilt the rotor so as to be able to go laterally
+
+178
+00:13:49,641 --> 00:13:52,600
+or tilt the rotor so as to go longitudinally.
+
+179
+00:13:53,000 --> 00:13:56,960
+This is the same basic device that steers a modern helicopter.
+
+180
+00:13:57,600 --> 00:14:01,340
+When the cyclic stick is moved, a device at the base of the rotor hub
+
+181
+00:14:01,341 --> 00:14:04,280
+alters the pitch of each rotor blade individually
+
+182
+00:14:04,281 --> 00:14:06,700
+as it goes through its cycle of rotation.
+
+183
+00:14:10,940 --> 00:14:13,020
+So where the pitch in a blade is greater,
+
+184
+00:14:13,021 --> 00:14:15,814
+it grabs more air and the blade rises higher.
+
+185
+00:14:15,815 --> 00:14:18,360
+Where the pitch is less, the blade swings
+
+186
+00:14:18,361 --> 00:14:24,060
+lower because it has less air to catch on its surface. The overall effect with this
+
+187
+00:14:24,061 --> 00:14:29,180
+system is the change in the rotor plane, which enables directional control.
+
+188
+00:14:33,240 --> 00:14:37,106
+Modern helicopters also have collective pitch control.
+
+189
+00:14:37,107 --> 00:14:39,540
+Simply put, this lever changes the
+
+190
+00:14:39,541 --> 00:14:43,405
+pitch of all the rotor blades evenly or collectively.
+
+191
+00:14:43,406 --> 00:14:46,540
+This way the pilot can lift off vertically,
+
+192
+00:14:47,140 --> 00:14:53,140
+steer the aircraft and with the cyclic stick compensate for those forces of unequal lift.
+
+193
+00:15:00,300 --> 00:15:06,300
+Thanks to these new technological breakthroughs back in the 1930s, the Autogyro achieved practical
+
+194
+00:15:06,301 --> 00:15:13,136
+success. The Detroit News used one to speed reporters to the scene of major stories.
+
+195
+00:15:13,137 --> 00:15:13,837
+The
+
+196
+00:15:13,838 --> 00:15:17,756
+U.S. Postal Service began test flights for its deliveries.
+
+197
+00:15:17,757 --> 00:15:20,020
+There were even demonstrations
+
+198
+00:15:20,021 --> 00:15:25,340
+held on the White House lawn for President Hoover, who called the auto gyro the greatest
+
+199
+00:15:25,341 --> 00:15:31,840
+achievement in aviation. Harold Pitcairn, who was licensed by De La Sierra to build
+
+200
+00:15:31,841 --> 00:15:38,100
+auto gyros in the United States even foresaw a future where auto gyros would make automobiles
+
+201
+00:15:38,101 --> 00:15:38,801
+obsolete.
+
+202
+00:15:38,802 --> 00:15:44,040
+He designed a Pitcairn roadable and demonstrated it on the streets of Washington,
+
+203
+00:15:44,260 --> 00:15:50,820
+D.C. The roadable vehicle was all part of Pitcairn's dream, which he depicted in his
+
+204
+00:15:50,821 --> 00:15:56,304
+promotional material, to have an auto gyro in every garage.
+
+205
+00:15:56,305 --> 00:15:58,720
+Harold Pitcairn built some
+
+206
+00:15:58,721 --> 00:16:03,880
+autogyros here in the United States back in the mid-1930s, which was right in the middle of the
+
+207
+00:16:03,881 --> 00:16:08,200
+Great Depression, and nobody really had money for anything at that time.
+
+208
+00:16:08,201 --> 00:16:09,280
+Unfortunately, the
+
+209
+00:16:09,281 --> 00:16:16,900
+autogyro, combined with its complexity and high cost, never allowed it to actually be that
+
+210
+00:16:16,901 --> 00:16:17,876
+competitive.
+
+211
+00:16:17,877 --> 00:16:24,300
+The autogyro's fate was sealed when in December 1940, its 41-year-old inventor,
+
+212
+00:16:24,301 --> 00:16:28,820
+Juan de la Sierra was killed in a commuter airplane accident in London.
+
+213
+00:16:33,000 --> 00:16:36,400
+But by solving many of the autogyro's problems,
+
+214
+00:16:36,640 --> 00:16:41,700
+de la Sierra and his colleagues had opened the way at last for the practical helicopter.
+
+215
+00:16:42,560 --> 00:16:44,700
+The world wouldn't have to wait long.
+
+216
+00:16:45,180 --> 00:16:50,680
+Two men working independently of each other were about to push helicopters into the modern era.
+
+217
+00:16:50,681 --> 00:17:01,900
+On April 22, 1931, Amelia Earhart set a world's altitude record for auto gyros at 18,400 feet.
+
+218
+00:17:02,720 --> 00:17:06,500
+Helicopters will continue in a moment on Modern Marvels.
+
+219
+00:17:11,160 --> 00:17:15,540
+By the middle 1930s, there had been many complicated machines
+
+220
+00:17:15,541 --> 00:17:19,000
+built in hopes of achieving controlled vertical flight.
+
+221
+00:17:19,001 --> 00:17:22,200
+Few would ever do more than scoot across the ground.
+
+222
+00:17:23,300 --> 00:17:28,700
+But in 1936, a German airplane engineer, Heinrich Volcker,
+
+223
+00:17:29,100 --> 00:17:31,420
+had gone beyond conventional thinking.
+
+224
+00:17:32,260 --> 00:17:34,340
+Why go to an elaborate new machine?
+
+225
+00:17:35,000 --> 00:17:38,400
+He felt that the trusty autogyro was so close,
+
+226
+00:17:38,740 --> 00:17:41,280
+he would simply build upon its basic design.
+
+227
+00:17:41,281 --> 00:17:53,700
+Professor Heinrich Focke was a very brilliant aerodynamicist, a very, very great pioneer,
+
+228
+00:17:54,700 --> 00:18:01,460
+who started with the autogyro and then built up his know-how of rotary wings and the lifting
+
+229
+00:18:01,461 --> 00:18:03,388
+and the vibrations and the capabilities.
+
+230
+00:18:03,389 --> 00:18:06,040
+And from there, it was almost a natural step for him in
+
+231
+00:18:06,041 --> 00:18:14,040
+1935, 1936, to attack the problem of the helicopter, which he very successfully attacked.
+
+232
+00:18:14,700 --> 00:18:17,040
+It resulted in the building of two small helicopters.
+
+233
+00:18:18,340 --> 00:18:23,240
+The two main rotors of the Flock helicopter were side by side.
+
+234
+00:18:23,360 --> 00:18:25,300
+There was one on the left, one on the right.
+
+235
+00:18:26,360 --> 00:18:31,180
+And by rotating in opposite directions, one counteracted the torque of the other.
+
+236
+00:18:31,181 --> 00:18:35,260
+and it had a small propeller in the front that looked like an airplane propeller,
+
+237
+00:18:35,380 --> 00:18:37,140
+but was actually just used to cool the engine.
+
+238
+00:18:37,800 --> 00:18:39,180
+But it was a true helicopter.
+
+239
+00:18:40,880 --> 00:18:44,560
+Heinrich Falka had built the world's first real helicopter.
+
+240
+00:18:45,140 --> 00:18:47,240
+Although it was difficult to fly and maneuver,
+
+241
+00:18:47,660 --> 00:18:51,720
+it could hover, fly sideways, and fly forward or backward.
+
+242
+00:18:52,400 --> 00:18:57,200
+But for all the amazing feats that Falka's F-A61 helicopter achieved,
+
+243
+00:18:57,201 --> 00:19:02,440
+it had little impact on a public already familiar with airplanes and auto gyros.
+
+244
+00:19:03,120 --> 00:19:07,300
+That is, until the attractive and daring 25-year-old Hannah Reich,
+
+245
+00:19:07,800 --> 00:19:13,160
+known throughout Germany as that nation's first woman test pilot, climbed into the cockpit.
+
+246
+00:19:14,380 --> 00:19:16,380
+Hannah Reich was a very gifted test pilot.
+
+247
+00:19:16,780 --> 00:19:23,760
+A very, very tiny, tiny little lady, probably weighing 98 pounds, sopping wet,
+
+248
+00:19:24,320 --> 00:19:26,460
+which was very good for improving the performance.
+
+249
+00:19:26,461 --> 00:19:30,860
+He didn't want a big tank of a guy climbing into an aircraft which had marginal performance.
+
+250
+00:19:31,340 --> 00:19:36,280
+Her flights and her demonstration flights were highly publicized,
+
+251
+00:19:36,800 --> 00:19:40,660
+and those public demonstrations, I think, were pivotal to the cause of the helicopter.
+
+252
+00:19:42,220 --> 00:19:50,780
+In February 1938, Reich demonstrated the Falka helicopter inside Berlin's cavernous Deutschlandhalle sports arena
+
+253
+00:19:50,781 --> 00:19:52,700
+every night for three weeks.
+
+254
+00:19:52,701 --> 00:20:02,640
+She flew from a court about the size of a basketball court and would take off, fly, hover, turn 360 degrees.
+
+255
+00:20:02,820 --> 00:20:10,380
+And when the films reached the United States, I think they also created a tremendous amount of interest in the helicopter here.
+
+256
+00:20:11,500 --> 00:20:15,980
+And Hannah Reich, interestingly enough, is a member of an organization that I'm a member of,
+
+257
+00:20:16,040 --> 00:20:21,420
+which is the International Women Helicopter Pilots, more commonly or better known as the Whirly Girls.
+
+258
+00:20:21,421 --> 00:20:27,620
+And because Hannah Wright was the first woman to ever pilot a helicopter, she's considered Whirly Girl number one.
+
+259
+00:20:28,380 --> 00:20:35,300
+And presently, we have over a thousand members of the Whirly Girls, and all of them must be rated pilots.
+
+260
+00:20:35,740 --> 00:20:37,840
+And they're from 28 different countries.
+
+261
+00:20:38,560 --> 00:20:43,440
+As Hannah Wright continued to break virtually every helicopter world's record,
+
+262
+00:20:44,020 --> 00:20:50,480
+an American-Russian immigrant, Igor Sikorsky, was about to change the course of helicopter history.
+
+263
+00:20:51,420 --> 00:20:57,700
+Igor Sikorsky was no stranger to aeronautics.
+
+264
+00:20:57,701 --> 00:21:05,100
+By the mid-1920s, he had built one of the most successful airplane companies in the world, Sikorsky Aviation.
+
+265
+00:21:05,880 --> 00:21:10,280
+In 1929, the company became a subsidiary of United Aircraft,
+
+266
+00:21:10,700 --> 00:21:14,860
+giving Sikorsky time to pursue a lifelong dream, helicopters.
+
+267
+00:21:14,861 --> 00:21:22,080
+As a boy in Russia in 1909, Sikorsky had built several unsuccessful helicopters.
+
+268
+00:21:22,580 --> 00:21:26,220
+But by 1931, he was ready to tackle the task again.
+
+269
+00:21:26,980 --> 00:21:32,200
+Dad got back into helicopters in the very early 1930s.
+
+270
+00:21:33,060 --> 00:21:39,100
+At that time, you could say his work, nine to five, were the large clipper ships,
+
+271
+00:21:39,240 --> 00:21:43,080
+the flying boats for Pan American Airways and for a number of other airlines.
+
+272
+00:21:43,081 --> 00:21:52,240
+But already in 1931, 32, 33, you begin to see the sketches increasing in volume, the sketches of a helicopter.
+
+273
+00:21:52,980 --> 00:22:00,500
+And by 1935, 1936 already, I was building small little models that he would then demonstrate to his engineers
+
+274
+00:22:00,501 --> 00:22:05,400
+or take up to the board of directors of United Aircraft, as it was called in those days.
+
+275
+00:22:06,700 --> 00:22:10,720
+Sikorsky's sketches resulted in a unique design for the time period.
+
+276
+00:22:10,721 --> 00:22:12,460
+a single main rotor.
+
+277
+00:22:12,920 --> 00:22:17,440
+Up until the late 1930s, most helicopters that had lifted off the ground
+
+278
+00:22:17,441 --> 00:22:22,040
+were either coaxial in design or had at least two main rotors,
+
+279
+00:22:22,360 --> 00:22:23,900
+such as the Falka helicopter.
+
+280
+00:22:24,980 --> 00:22:31,500
+A number of people had tried to build a single main lifting rotor machine,
+
+281
+00:22:32,160 --> 00:22:36,340
+but actually none of them were successful until that time.
+
+282
+00:22:36,341 --> 00:22:40,600
+And in fact, many authorities considered the single main lifting rotor machine
+
+283
+00:22:40,601 --> 00:22:43,600
+to be technically and theoretically impossible.
+
+284
+00:22:44,140 --> 00:22:45,200
+It just could not be done.
+
+285
+00:22:46,180 --> 00:22:50,340
+However, by 1936-1938, Igor Sikorsky had zeroed in
+
+286
+00:22:50,341 --> 00:22:52,660
+and sat down on this concept
+
+287
+00:22:52,661 --> 00:22:55,500
+and was beginning to develop the necessary hardware,
+
+288
+00:22:55,720 --> 00:22:59,000
+the necessary design philosophy for a single rotor machine.
+
+289
+00:23:00,120 --> 00:23:05,260
+On September 14, 1939, Sikorsky began cautious flight tests
+
+290
+00:23:05,261 --> 00:23:07,720
+in his single main rotor VS-300.
+
+291
+00:23:08,500 --> 00:23:13,760
+He kept his craft tethered to the ground while he slowly worked the kinks out of his design.
+
+292
+00:23:15,400 --> 00:23:21,600
+Concentrating heavily on how to control his craft, Sikorsky focused on a rear tail rotor configuration.
+
+293
+00:23:22,220 --> 00:23:26,520
+He tried everything from no tail rotor to three tail rotors.
+
+294
+00:23:27,220 --> 00:23:33,120
+He was trying to obtain some of the other control movements of the helicopter with these other rotors.
+
+295
+00:23:33,121 --> 00:23:44,895
+He finally got rid of the rest of the other ones and ended up with a single tail rotor back there to counteract torque and also to give the pilot control of rotating
+
+296
+00:23:44,896 --> 00:23:48,820
+the helicopter to the left or rotating it to the right.
+
+297
+00:23:49,400 --> 00:23:54,680
+So the tail rotor really performs both of those functions, counteracting torque and providing directional control.
+
+298
+00:23:54,681 --> 00:24:00,940
+The tail rotor was, and it still is, with modern helicopters, controlled with foot pedals.
+
+299
+00:24:00,941 --> 00:24:06,540
+When the pilot wants to turn the helicopter to the left, he pushes the left pedal in,
+
+300
+00:24:06,780 --> 00:24:09,500
+which decreases the angle of the rear rotor blades,
+
+301
+00:24:09,860 --> 00:24:13,900
+allowing the natural forces of torque to turn the fuselage to the left.
+
+302
+00:24:14,560 --> 00:24:18,400
+Pushing in the right pedal increases the pitch of the rear rotor blades,
+
+303
+00:24:18,720 --> 00:24:23,060
+causing them to bite the air harder and overcompensates the forces of torque,
+
+304
+00:24:23,360 --> 00:24:25,300
+and the aircraft swings to the right.
+
+305
+00:24:25,301 --> 00:24:31,260
+but for Igor Sikorsky in 1940
+
+306
+00:24:31,261 --> 00:24:34,660
+creating this design concept did not happen overnight
+
+307
+00:24:34,661 --> 00:24:40,340
+there were many flight tests that would demand numerous modifications
+
+308
+00:24:40,341 --> 00:24:45,860
+so many that Sikorsky's mechanics affectionately nicknamed the VS-300
+
+309
+00:24:45,861 --> 00:24:48,200
+as Igor's nightmare
+
+310
+00:24:48,201 --> 00:24:53,740
+the memories are very vivid of the very early flights of VS-300
+
+311
+00:24:53,741 --> 00:25:00,280
+those benign, beautiful, warm spring days of 1940
+
+312
+00:25:00,281 --> 00:25:06,920
+as the helicopter would be hovering just in a parking lot behind the Sikorsky factory.
+
+313
+00:25:06,921 --> 00:25:12,260
+And I remember you could touch it the way you could touch a living thing,
+
+314
+00:25:12,420 --> 00:25:14,480
+like a horse or a dog.
+
+315
+00:25:15,040 --> 00:25:17,120
+And you had that affection for it.
+
+316
+00:25:17,620 --> 00:25:22,620
+Igor Sikorsky's VS-300 was America's first successful helicopter.
+
+317
+00:25:23,740 --> 00:25:29,100
+His design and patent became the basis for future modern helicopters.
+
+318
+00:25:30,100 --> 00:25:35,800
+Army Air Force at that time became very interested in the aircraft
+
+319
+00:25:35,801 --> 00:25:41,220
+and gave them $50,000 to finish the development of that aircraft.
+
+320
+00:25:41,560 --> 00:25:44,060
+United Aircraft, of course, added a lot of money to that,
+
+321
+00:25:44,520 --> 00:25:48,580
+and they developed then, under Air Force contract, the XR-4.
+
+322
+00:25:48,581 --> 00:25:54,440
+And that's the aircraft that's sitting behind me is the first-in-production aircraft.
+
+323
+00:25:55,060 --> 00:25:59,920
+This is the only remaining prototype of the XR-4.
+
+324
+00:26:00,420 --> 00:26:06,880
+By the end of World War II, over 400 Sikorsky helicopters had rolled off the assembly lines.
+
+325
+00:26:08,480 --> 00:26:12,100
+Military leaders first thought of the helicopter as a scouting tool.
+
+326
+00:26:12,600 --> 00:26:16,140
+But the helicopter quickly proved to be capable of much more.
+
+327
+00:26:16,800 --> 00:26:18,820
+During the last years of World War II,
+
+328
+00:26:19,380 --> 00:26:24,120
+many stranded victims were rescued in spots that only the helicopter could reach.
+
+329
+00:26:24,740 --> 00:26:29,280
+The military was impressed with the life-saving potential of this new machine.
+
+330
+00:26:30,640 --> 00:26:34,640
+The helicopter had shown that it could be a truly useful aircraft,
+
+331
+00:26:35,040 --> 00:26:37,060
+a rotary-winged Angel of Mercy.
+
+332
+00:26:37,061 --> 00:26:43,020
+In years to come, it would be that and more, in peace as well as war.
+
+333
+00:26:43,880 --> 00:26:50,560
+The first helicopter hoist rescue took place in November 1945 with the Sikorsky R-5.
+
+334
+00:26:51,320 --> 00:26:56,040
+The helicopter pulled two seamen from a sinking barge off the coast of Connecticut.
+
+335
+00:26:57,420 --> 00:27:01,120
+Helicopters will continue in a moment on Modern Marvels.
+
+336
+00:27:03,880 --> 00:27:08,160
+Early helicopter pioneers all had one thing in common.
+
+337
+00:27:08,760 --> 00:27:11,740
+There wasn't much of a technological track record to follow.
+
+338
+00:27:11,741 --> 00:27:16,740
+Much of the early designs were based on intuition.
+
+339
+00:27:16,741 --> 00:27:22,740
+Well, use your best judgment and your imagination
+
+340
+00:27:22,741 --> 00:27:29,740
+and do what you think you have to do to conceive and develop a system that will work.
+
+341
+00:27:29,741 --> 00:27:38,740
+If it worked, you made it like we did 55 years ago on the 11th of April 1943.
+
+342
+00:27:38,741 --> 00:27:46,640
+Frank Piasecki built and flew America's second successful helicopter, the Piasecki PV-2.
+
+343
+00:27:47,720 --> 00:27:55,700
+Just like Igor Sikorsky before him, Piasecki's first flights in a helicopter were tethered to the ground for safety.
+
+344
+00:27:56,560 --> 00:28:07,400
+It was a kind of windy day, but we started the machine up and we had my mother's clotheslines I borrowed to hold the machine to the ground.
+
+345
+00:28:08,740 --> 00:28:14,840
+And all of a sudden, a gust of wind came along lifting me up off the ground, broke the ropes.
+
+346
+00:28:15,940 --> 00:28:17,360
+Everybody ran away.
+
+347
+00:28:18,540 --> 00:28:30,500
+And just by some stroke of the Lord, I moved my hand in the right direction and countered the turn that the wind did.
+
+348
+00:28:30,740 --> 00:28:33,120
+And came back on the ground and stopped.
+
+349
+00:28:34,380 --> 00:28:35,760
+The machine was saved.
+
+350
+00:28:36,980 --> 00:28:38,680
+And that was our first takeoff.
+
+351
+00:28:38,740 --> 00:28:45,740
+Piasecki's PV-2 helicopter evolved into a fully controllable aircraft.
+
+352
+00:28:45,741 --> 00:28:51,740
+Just like the other early helicopter pioneers, Piasecki's machine took months to perfect.
+
+353
+00:28:51,741 --> 00:28:59,740
+Not only were engineers dealing with the unknown, but with helicopter technology being so complex and so new,
+
+354
+00:28:59,741 --> 00:29:03,740
+gathering support for such endeavors wasn't always easy.
+
+355
+00:29:03,741 --> 00:29:09,260
+If you said, I'm designing a helicopter, people would look upon you as a nut.
+
+356
+00:29:09,500 --> 00:29:16,040
+It was known that it had a lot of failures by many different people and many celebrated engineers.
+
+357
+00:29:17,040 --> 00:29:22,860
+And therefore, who the hell are you that you're going to design a helicopter that will fly?
+
+358
+00:29:23,540 --> 00:29:25,200
+So get out of my way.
+
+359
+00:29:25,700 --> 00:29:29,720
+But by the time the clouds of World War II began to part,
+
+360
+00:29:29,721 --> 00:29:36,280
+More than 50 companies were working at helicopter development, all hoping for a governmental contract.
+
+361
+00:29:36,720 --> 00:29:40,540
+It was Frank Piasecki who got the attention of the Navy.
+
+362
+00:29:42,120 --> 00:29:51,320
+Frank Piasecki designed a helicopter that had two rotors, but instead of being a lateral twin, meaning that it had rotors on each side,
+
+363
+00:29:51,321 --> 00:29:59,180
+he put one of the main rotors at the forward end of the helicopter and the other main rotor at the aft end of the helicopter.
+
+364
+00:29:59,720 --> 00:30:05,020
+Again, they rotated in opposite directions so that each one compensated for the torque reaction of the other.
+
+365
+00:30:06,880 --> 00:30:14,320
+The Navy then gave us an order for 10 of them because they wanted to try out a squadron of them.
+
+366
+00:30:14,321 --> 00:30:21,120
+And with those 10, they were able to apply this new thing that they had,
+
+367
+00:30:21,200 --> 00:30:28,360
+which gave them 1,800 pounds of vertical lift, which gave them more speed.
+
+368
+00:30:28,361 --> 00:30:34,420
+which gave them more maneuverability, towing things for instance, mine sweeping.
+
+369
+00:30:36,180 --> 00:30:40,100
+Piasseki built several variations of tandem rotor helicopters.
+
+370
+00:30:40,880 --> 00:30:45,160
+Shortly after World War II, they were in use with the Navy, Marines and Coast Guard.
+
+371
+00:30:45,980 --> 00:30:53,420
+However, by August 1950, the armed forces found themselves in desperate need for hundreds of new helicopters
+
+372
+00:30:53,421 --> 00:30:56,220
+in a war that no one expected.
+
+373
+00:30:58,360 --> 00:31:05,360
+without a doubt the korean war
+
+374
+00:31:06,660 --> 00:31:07,920
+convinced
+
+375
+00:31:07,921 --> 00:31:09,440
+all of the skeptics
+
+376
+00:31:09,441 --> 00:31:12,900
+because within a few months after the start of the war
+
+377
+00:31:12,901 --> 00:31:16,300
+the helicopter had gone to almost priority number one
+
+378
+00:31:16,301 --> 00:31:19,300
+it was used for medical evacuation
+
+379
+00:31:19,301 --> 00:31:26,300
+it began to be used for the rescue of pilots down behind enemy lines
+
+380
+00:31:26,301 --> 00:31:35,240
+At first, the majority of the helicopters in use were Frank Piasecki's PV-3s, more commonly known as flying bananas.
+
+381
+00:31:38,640 --> 00:31:42,880
+Also in use were Igor Sikorsky's S-51 helicopters.
+
+382
+00:31:43,780 --> 00:31:48,100
+But for medical evacuation, a smaller, lightweight helicopter was needed.
+
+383
+00:31:48,101 --> 00:31:58,260
+The design came from a brilliant young inventor, Arthur Young, who worked for the famous Bell Aircraft Corporation.
+
+384
+00:31:59,460 --> 00:32:04,080
+Young had built America's third successful helicopter, the Bell Model 30.
+
+385
+00:32:04,660 --> 00:32:13,220
+This craft first flew on June 26, 1943, only two months after Piasecki had lifted off the ground for the first time.
+
+386
+00:32:13,221 --> 00:32:24,660
+Yet two years later, after an evolution of refinements and improvements, Arthur Young churned out the Bell 47 helicopter.
+
+387
+00:32:25,740 --> 00:32:31,120
+The Bell 47 became the symbol of hope for American soldiers during the Korean War.
+
+388
+00:32:31,980 --> 00:32:37,280
+They soon became an integral part of MASH units, or Mobile Army Surgical Hospitals.
+
+389
+00:32:37,281 --> 00:32:47,620
+With its bulbous plastic cockpit, the Bell 47 quickly became one of the most recognizable helicopters in the world.
+
+390
+00:32:48,480 --> 00:32:54,200
+Its characteristic clop-clop-clop-clop sound resulted in the coined term chopper.
+
+391
+00:32:54,201 --> 00:33:04,800
+and by the end of the Korean War, I believe the helicopter had evacuated well over 100,000 wounded troops
+
+392
+00:33:04,801 --> 00:33:14,180
+and had what is equally significant, had rescued and brought to safety something like 1,200 pilots from behind enemy lines.
+
+393
+00:33:14,840 --> 00:33:21,560
+Men that would have faced capture, starvation, torture and probably death if it had not been for the helicopter.
+
+394
+00:33:21,561 --> 00:33:25,740
+In 1953, the Korean War was over.
+
+395
+00:33:26,320 --> 00:33:30,140
+But helicopters would soon become more than scout and rescue machines.
+
+396
+00:33:30,680 --> 00:33:34,820
+They would become a viable military weapon in a distant conflict.
+
+397
+00:33:35,100 --> 00:33:37,960
+It would become known as the Helicopter War.
+
+398
+00:33:39,460 --> 00:33:44,820
+However, harmony between helicopters and the military in Vietnam would take a little time.
+
+399
+00:33:46,940 --> 00:33:50,280
+Virtually all helicopters utilized piston engines,
+
+400
+00:33:50,281 --> 00:33:54,560
+which relative to their size and weight were bulky and weak.
+
+401
+00:33:55,200 --> 00:34:00,500
+When enlarged, they took up too much space and could barely lift themselves and a large payload.
+
+402
+00:34:01,260 --> 00:34:04,380
+The military quickly turned to the turbine engine,
+
+403
+00:34:04,880 --> 00:34:09,380
+a source of power that throughout the 1950s was still in the experimental stages.
+
+404
+00:34:10,020 --> 00:34:14,180
+But by the 1960s, after a series of refinements and improvements,
+
+405
+00:34:14,680 --> 00:34:16,980
+the turbine engine was in mass production.
+
+406
+00:34:16,981 --> 00:34:23,760
+The turbines were not introduced into helicopters until the mid to late 50s.
+
+407
+00:34:25,100 --> 00:34:28,160
+And by the time the Vietnam War had gotten into full swing,
+
+408
+00:34:28,540 --> 00:34:34,640
+the military had converted most of its helicopters to turbine engines.
+
+409
+00:34:35,340 --> 00:34:38,000
+And again, those helicopters were all fairly large,
+
+410
+00:34:38,380 --> 00:34:43,500
+and the turbine engine functions very well in helicopters of that size.
+
+411
+00:34:43,501 --> 00:34:47,140
+gives them a much better power to weight ratio.
+
+412
+00:34:48,340 --> 00:34:53,600
+A turbine engine has a spinning fan that sucks air into a combustion chamber
+
+413
+00:34:53,601 --> 00:34:56,300
+where it is mixed with fuel and ignited.
+
+414
+00:34:58,180 --> 00:35:04,120
+As the fuel burns, it produces hot gases which shoot into the turbine causing it to spin.
+
+415
+00:35:05,060 --> 00:35:10,320
+Attached is a shaft that turns the rotor and any other devices connected to it,
+
+416
+00:35:10,321 --> 00:35:15,680
+such as gearboxes for the rear tail rotor and power generators, etc.
+
+417
+00:35:16,680 --> 00:35:21,320
+A reciprocating engine, for the horsepower it delivers,
+
+418
+00:35:21,560 --> 00:35:26,420
+its weight to horsepower ratio is generally about equal.
+
+419
+00:35:26,880 --> 00:35:32,840
+So, I mean, if you had a 400 horsepower engine, it's going to weigh about 400 pounds.
+
+420
+00:35:33,400 --> 00:35:35,440
+In a turbine engine, it's about half.
+
+421
+00:35:35,441 --> 00:35:39,140
+If you have a 400 horsepower engine, it's going to weigh about 200 pounds.
+
+422
+00:35:39,141 --> 00:35:42,480
+And a helicopter, just like any aircraft, weight is precious.
+
+423
+00:35:43,520 --> 00:35:48,680
+It was a turbine-driven helicopter that became the symbol of the Vietnam War.
+
+424
+00:35:49,860 --> 00:35:53,660
+The Bell, HU-1, more commonly known as the Huey,
+
+425
+00:35:54,180 --> 00:35:58,880
+a nickname the Army pilots came up with based on the helicopter's initials.
+
+426
+00:36:00,020 --> 00:36:03,520
+My first few months in Vietnam was flying Hueys.
+
+427
+00:36:03,720 --> 00:36:07,400
+I think the Huey was the most versatile helicopter in the Vietnam War.
+
+428
+00:36:07,401 --> 00:36:10,720
+and like I said, I think it became one of the most versatile helicopters ever built
+
+429
+00:36:10,721 --> 00:36:13,160
+just by its pure design and its capabilities.
+
+430
+00:36:13,400 --> 00:36:17,180
+Easy to train pilots for, take enough troops, a squad say.
+
+431
+00:36:17,620 --> 00:36:19,980
+You could put hard mounts on the outside of the aircraft
+
+432
+00:36:19,981 --> 00:36:22,620
+and turn it into a gun platform if it had to be.
+
+433
+00:36:22,680 --> 00:36:25,460
+You could put litters inside and use it as an air ambulance.
+
+434
+00:36:25,880 --> 00:36:29,420
+You could take an aircraft and configure it very quickly
+
+435
+00:36:29,421 --> 00:36:32,040
+for three or four or five different kind of missions.
+
+436
+00:36:32,700 --> 00:36:37,220
+But flying these machines in war exposed both pilot and aircraft
+
+437
+00:36:37,221 --> 00:36:38,214
+to great risk.
+
+438
+00:36:38,215 --> 00:36:43,820
+While rescuing wounded soldiers, often from the front lines, helicopters became
+
+439
+00:36:43,821 --> 00:36:46,727
+large moving air targets for the enemy.
+
+440
+00:36:46,728 --> 00:36:50,900
+There was really nothing really bulletproof about a Huey
+
+441
+00:36:50,901 --> 00:36:57,400
+other than that it was a pretty simple design and there was a few critical components and if they
+
+442
+00:36:57,401 --> 00:36:59,654
+were hit, it would knock it out of the sky.
+
+443
+00:36:59,655 --> 00:37:02,380
+There was a lot of helicopters lost in Vietnam and a
+
+444
+00:37:02,381 --> 00:37:05,520
+A lot of helicopter pilots lost their lives in Vietnam
+
+445
+00:37:05,521 --> 00:37:07,720
+because of just the pure exposure,
+
+446
+00:37:07,721 --> 00:37:09,820
+just the amount of hours that were flown.
+
+447
+00:37:10,880 --> 00:37:12,760
+But there was not a more welcome sight
+
+448
+00:37:12,761 --> 00:37:15,220
+to American troops fighting in flooded paddies
+
+449
+00:37:15,221 --> 00:37:18,800
+and look-alike villages than that of the Bell HU-1.
+
+450
+00:37:20,040 --> 00:37:23,540
+The Huey was looked upon as an angel of mercy,
+
+451
+00:37:23,541 --> 00:37:26,740
+one of the most respected machines of that war.
+
+452
+00:37:26,741 --> 00:37:29,740
+I think of the Huey affectionately
+
+453
+00:37:29,741 --> 00:37:31,680
+because we were raised with it.
+
+454
+00:37:31,681 --> 00:37:34,880
+In fact, you get a little emotional just thinking about it.
+
+455
+00:37:35,080 --> 00:37:37,780
+That so classic of a Huey.
+
+456
+00:37:38,080 --> 00:37:42,520
+I went from being an apprehensive manipulator of the controls
+
+457
+00:37:42,521 --> 00:37:45,460
+to becoming a helicopter pilot in the Huey.
+
+458
+00:37:45,560 --> 00:37:47,600
+And I think I'll just always remember that.
+
+459
+00:37:47,800 --> 00:37:52,760
+I'm very fortunate that our department operates a surplus Huey.
+
+460
+00:37:52,761 --> 00:37:54,660
+And I occasionally get to fly it.
+
+461
+00:37:55,160 --> 00:37:58,060
+And I hope it's the last helicopter I fly.
+
+462
+00:37:58,061 --> 00:38:01,780
+I'll always have a soft spot in my heart for the Huey.
+
+463
+00:38:02,140 --> 00:38:09,580
+By the end of the Vietnam conflict, the helicopter had proven itself as an efficient and ubiquitous servant in war.
+
+464
+00:38:09,960 --> 00:38:19,040
+But soon, the world would see that the most dramatic helicopter duty remained the same in peace as in war, rescue.
+
+465
+00:38:19,041 --> 00:38:31,160
+Less than 20 years after the birth of the modern helicopter, the world became reliant
+
+466
+00:38:31,161 --> 00:38:34,040
+upon its existence.
+
+467
+00:38:34,041 --> 00:38:40,660
+I think certainly to the army of the United States, and I would dare say to the armies
+
+468
+00:38:40,661 --> 00:38:46,720
+of a number of military services around the world, the helicopter certainly is as indispensable
+
+469
+00:38:46,721 --> 00:38:50,200
+as the jet fighter is to the air forces of the world.
+
+470
+00:38:51,000 --> 00:38:56,280
+It does provide you simply with the capability to continue military operations
+
+471
+00:38:56,281 --> 00:39:00,280
+in areas that would be inaccessible with anything but the helicopter.
+
+472
+00:39:01,200 --> 00:39:07,340
+Currently, the latest in helicopter technology can be found in some of the various military machines,
+
+473
+00:39:07,840 --> 00:39:10,220
+such as the Boeing Sikorsky Comanche.
+
+474
+00:39:11,000 --> 00:39:15,600
+This stealth machine can fly at speeds up to 200 miles per hour
+
+475
+00:39:15,601 --> 00:39:19,560
+and execute snap turns in 4.5 seconds.
+
+476
+00:39:20,660 --> 00:39:24,700
+The Comanche can fly sideways or backwards at 70 miles per hour
+
+477
+00:39:24,701 --> 00:39:29,200
+while the pilot utilizes the craft's advanced radar and infrared sensors.
+
+478
+00:39:29,840 --> 00:39:34,220
+In seconds, the Comanche's computers can scan miles of a battlefield,
+
+479
+00:39:34,960 --> 00:39:40,980
+instantly prioritize all hostile targets, including tanks, trucks, and even other helicopters.
+
+480
+00:39:41,680 --> 00:39:44,360
+While displaying the targets for crew identification,
+
+481
+00:39:44,361 --> 00:39:48,340
+the system selects the optimum weapon to neutralize each,
+
+482
+00:39:48,800 --> 00:39:51,180
+either from its own extensive weapon systems
+
+483
+00:39:51,181 --> 00:39:55,860
+or by relaying encrypted information to other air or ground commanders.
+
+484
+00:39:59,460 --> 00:40:04,460
+But the civilian side of helicopter technology is no less important.
+
+485
+00:40:05,200 --> 00:40:09,520
+Helicopters are always on standby for our safety and benefit.
+
+486
+00:40:10,400 --> 00:40:13,900
+A lot of people don't realize one of the special functions of a helicopter
+
+487
+00:40:13,901 --> 00:40:21,000
+in a large metropolitan area is when the corporate helicopters are members of a disaster relief program.
+
+488
+00:40:21,620 --> 00:40:25,560
+And in the New York City area, for example, all the corporate helicopters that fly around,
+
+489
+00:40:25,620 --> 00:40:30,900
+not only just fly the executives around to save time and bring in a lot of business to the area,
+
+490
+00:40:30,980 --> 00:40:35,120
+which is very important for the economy, but should an unexpected disaster occur,
+
+491
+00:40:35,121 --> 00:40:39,480
+for example, some kind of a bombing or just some kind of a national disaster,
+
+492
+00:40:39,640 --> 00:40:42,480
+the helicopters would all rally in support of the community.
+
+493
+00:40:42,481 --> 00:40:46,500
+And this is something that we do in addition, just as a community service.
+
+494
+00:40:47,660 --> 00:40:54,500
+Today I think we can say as a rough ballpark figure that well over one and a half million human lives
+
+495
+00:40:54,501 --> 00:40:59,800
+directly saved by the helicopter, by the intervention of the helicopter.
+
+496
+00:41:01,400 --> 00:41:08,700
+In 1957, President Eisenhower took a ride in a Bell H-13J from the White House lawn
+
+497
+00:41:08,701 --> 00:41:12,960
+to a command post as part of a civil defense exercise,
+
+498
+00:41:13,480 --> 00:41:16,520
+becoming the first president to fly in a helicopter.
+
+499
+00:41:17,800 --> 00:41:19,480
+Modern marvels will return.
+
+500
+00:41:20,840 --> 00:41:23,720
+Helicopters also act as aerial firefighters.
+
+501
+00:41:24,400 --> 00:41:27,920
+They can access much smaller water supplies than tanker planes.
+
+502
+00:41:28,680 --> 00:41:34,080
+These monster Ericsson air cranes can quickly suck up over 2,000 gallons of water
+
+503
+00:41:34,081 --> 00:41:39,320
+and then with precise accuracy dispense the water over the affected area.
+
+504
+00:41:42,400 --> 00:41:48,300
+Without these air cranes, many industrial projects would cost millions of dollars more to build.
+
+505
+00:41:48,880 --> 00:41:51,720
+There is no need to impact the environment with roads
+
+506
+00:41:51,721 --> 00:41:56,180
+as these heavy lift Ericsson helicopters aid in power line construction,
+
+507
+00:41:58,660 --> 00:41:59,960
+remote logging,
+
+508
+00:41:59,961 --> 00:42:05,700
+and major equipment transportation.
+
+509
+00:42:07,260 --> 00:42:13,800
+This unit is one of the first unmanned helicopters being developed for law enforcement and the military.
+
+510
+00:42:14,840 --> 00:42:18,940
+Utilizing a single main rotor protected in the middle of the aircraft,
+
+511
+00:42:18,941 --> 00:42:22,840
+this Sikorsky rotorcraft performs a variety of functions,
+
+512
+00:42:23,220 --> 00:42:28,820
+including capturing live footage and transmitting it back to a safely isolated base station.
+
+513
+00:42:29,960 --> 00:42:34,960
+Unmanned helicopters may one day be a common sight.
+
+514
+00:42:34,961 --> 00:42:38,960
+Oh, the future of helicopters is absolutely exciting.
+
+515
+00:42:38,961 --> 00:42:41,960
+Just a branch off from the helicopter is the tilt rotor,
+
+516
+00:42:41,961 --> 00:42:47,960
+and that's where I think that you're going to mesh the vertical flight and horizontal flight.
+
+517
+00:42:47,961 --> 00:42:50,960
+In fact, what it is is the tilt rotor is the best of both worlds.
+
+518
+00:42:50,961 --> 00:42:55,960
+You can land and take off like a helicopter and have the speed and range of an airplane.
+
+519
+00:42:59,960 --> 00:43:06,020
+Man's thirst for perfecting three-dimensional flight appears to be an unfinished quest.
+
+520
+00:43:06,720 --> 00:43:13,760
+But whatever we achieve in the future, the helicopter will always remain our source of inspiration.
+
+521
+00:43:14,900 --> 00:43:24,100
+But I think the most special thing about the helicopter is the fact that it allowed man to live what had been considered up to now a dream.
+
+522
+00:43:24,101 --> 00:43:30,040
+The ability to take off and land vertically and the ability to hover motionless in the air
+
+523
+00:43:30,041 --> 00:43:33,440
+is something that literally only the helicopter can give mankind.
+
+524
+00:43:33,780 --> 00:43:39,060
+My father, Igor Sikorsky, would often say that it's interesting that all of the great early legends of flight,
+
+525
+00:43:39,840 --> 00:43:46,540
+the Pegasus, the flying carpets, the flying thrones of the Chinese, all of these had one thing in common.
+
+526
+00:43:47,140 --> 00:43:51,660
+They did not need an airport. These were all vertical takeoff and landing machines.
+
+527
+00:43:51,661 --> 00:43:55,660
+So that is what I consider to be the uniqueness of the helicopter.
+

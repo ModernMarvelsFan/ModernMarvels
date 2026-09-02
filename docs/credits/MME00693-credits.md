@@ -1,0 +1,40 @@
+# Credit Roll: Swamp Tech (2011)
+**Canonical Episode:** [`MME00693: Swamp Tech`](../episodes/MME00693.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 2011 A&E Television Networks`
+* **Production Company:** Produced by Half Yard Productions
+* **Narrator:** Max Raphael
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Assistant Editors** | Adam Kirk, Wanakhavi Wakhisi |
+| **Associate Producer** | Sarah Rooney, Arjun V. Rao |
+| **Coordinating Producer** | Carter Figueroa |
+| **Created by** | Bruce Nash |
+| **Digitizer** | Marcia Robusto |
+| **Director of Photography** | John Mans |
+| **Editor** | Mike Harvey |
+| **Executive Producer** | John Verhoff |
+| **Executive Producers** | Sean Gallagher, Abby Greensfelder |
+| **Graphics** | Dave Glanz, Percolate Digital |
+| **Music** | Audio Networks, Extreme Music |
+| **Narrator** | Max Raphael |
+| **Online Editor/Colorist** | Matt Doe |
+| **Post Production Coordinator** | Cameron Young |
+| **Post Production Supervisor** | Liam Monschein |
+| **Producer** | Jennifer Anderson |
+| **Production Accountant** | Rossana O'Hop |
+| **Production Coordinator** | Tainesa Davis |
+| **Production Manager** | Jennifer Partin |
+| **Programming Coordinator** | Kelly Vorrasi |
+| **Series Producer** | Brian Leonard |
+| **Sound** | Edward Thacker, Larry Williams Jr. |
+| **Sound Design** | Takoma Media |
+
+---
+[← Return to Episode Dossier](../episodes/MME00693.md)

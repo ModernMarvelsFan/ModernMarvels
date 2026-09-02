@@ -1,0 +1,2644 @@
+1
+00:00:00,001 --> 00:00:11,240
+The human body is a physical wonder.
+
+2
+00:00:12,320 --> 00:00:14,240
+It's a machine of unfathomable complexity.
+
+3
+00:00:15,700 --> 00:00:17,140
+But it has its limits.
+
+4
+00:00:19,660 --> 00:00:22,400
+Superheroes play to our dreams of shedding those limits.
+
+5
+00:00:23,620 --> 00:00:25,240
+And we relish the fantasy.
+
+6
+00:00:27,680 --> 00:00:29,980
+But the fantasy is becoming reality.
+
+7
+00:00:30,000 --> 00:00:34,800
+as today's science and technology are catching up to yesterday's science fiction.
+
+8
+00:00:36,540 --> 00:00:37,900
+Take super strength.
+
+9
+00:00:40,600 --> 00:00:44,920
+Now anyone can achieve it just by buckling into a super-powered exoskeleton,
+
+10
+00:00:45,880 --> 00:00:49,360
+built by the engineers at Raytheon Sarcos in Salt Lake City, Utah.
+
+11
+00:00:51,140 --> 00:00:53,400
+Their work is funded by the U.S. Army,
+
+12
+00:00:54,000 --> 00:00:56,680
+which envisions not only making its soldiers stronger,
+
+13
+00:00:57,440 --> 00:00:59,860
+but also increasing their endurance and lethality.
+
+14
+00:01:00,000 --> 00:01:01,840
+Oh, it's way cool.
+
+15
+00:01:01,841 --> 00:01:06,000
+This thing is incredibly powerful and it follows your every move,
+
+16
+00:01:06,001 --> 00:01:09,000
+so I don't actually have to do much of anything.
+
+17
+00:01:09,001 --> 00:01:15,000
+Sarko's exoskeleton is composed of over 1,300 separate parts,
+
+18
+00:01:15,001 --> 00:01:19,000
+made of everything from aluminum to steel to bronze.
+
+19
+00:01:19,001 --> 00:01:23,000
+The keys to its strength are electrically driven hydraulics,
+
+20
+00:01:23,001 --> 00:01:26,000
+operating much like muscles,
+
+21
+00:01:26,001 --> 00:01:29,000
+and steel cables subbing for tendons.
+
+22
+00:01:29,001 --> 00:01:36,400
+tendons. It magnifies the user's power, allowing our super soldier Rex
+
+23
+00:01:36,401 --> 00:01:42,740
+Jamison to continuously lift 250 pounds and never break a sweat.
+
+24
+00:01:42,741 --> 00:01:47,300
+I feel a tenth of the weight. It doesn't require a whole lot of effort. We've
+
+25
+00:01:47,301 --> 00:01:51,300
+done that particular exercise basically till everyone got bored and walked away.
+
+26
+00:01:51,301 --> 00:02:01,840
+The general objective is to do a lot of work or go fast
+
+27
+00:02:01,841 --> 00:02:04,400
+with little exertion by the person
+
+28
+00:02:04,401 --> 00:02:08,060
+and little consumption of energy by the machine.
+
+29
+00:02:18,060 --> 00:02:20,640
+So greater strength with lower effort.
+
+30
+00:02:21,300 --> 00:02:26,300
+Though this complex apparatus weighs 150 pounds,
+
+31
+00:02:26,301 --> 00:02:29,300
+it's as nimble as it is powerful.
+
+32
+00:02:29,301 --> 00:02:33,300
+It allows the wearer full and free mobility.
+
+33
+00:02:33,301 --> 00:02:37,300
+It follows you around without any problem.
+
+34
+00:02:37,301 --> 00:02:41,300
+I correct in it the same way I would walking upstairs without it.
+
+35
+00:02:41,301 --> 00:02:49,300
+It's effortless.
+
+36
+00:02:49,301 --> 00:02:52,800
+This effortless movement is a result of sensors
+
+37
+00:02:52,801 --> 00:02:56,300
+that detect every action, no matter how subtle,
+
+38
+00:02:56,301 --> 00:02:57,300
+that Rex is making.
+
+39
+00:03:00,300 --> 00:03:02,300
+Placed throughout the arms and legs,
+
+40
+00:03:02,301 --> 00:03:06,300
+the sensors direct the suit to match every move of the user.
+
+41
+00:03:06,301 --> 00:03:08,300
+The person has to do nothing more than command it
+
+42
+00:03:08,301 --> 00:03:12,300
+with his movements, and the machine does all the work.
+
+43
+00:03:12,301 --> 00:03:15,300
+It has to move like the person does and not fight
+
+44
+00:03:15,301 --> 00:03:17,300
+as every movement.
+
+45
+00:03:17,301 --> 00:03:20,300
+To create the synchronized spryness,
+
+46
+00:03:20,301 --> 00:03:23,300
+Sarkos engineers started with a feat
+
+47
+00:03:23,301 --> 00:03:25,300
+and worked their way up.
+
+48
+00:03:25,301 --> 00:03:29,300
+You can see down below he's got ankle actuators
+
+49
+00:03:29,301 --> 00:03:31,300
+that move his foot up and down.
+
+50
+00:03:31,301 --> 00:03:35,300
+He's got a rotator for his tibia and fibia, a knee joint.
+
+51
+00:03:35,301 --> 00:03:37,300
+And we built the lorxtramity first
+
+52
+00:03:37,301 --> 00:03:39,300
+that allowed the person to walk,
+
+53
+00:03:39,301 --> 00:03:43,300
+get up and get down, walk up ladders, walk up ramps,
+
+54
+00:03:43,301 --> 00:03:45,300
+kick balls, and all that sort of thing.
+
+55
+00:03:45,301 --> 00:03:50,300
+The legs are designed to allow the user to walk normally,
+
+56
+00:03:50,301 --> 00:03:54,300
+but still be able to support the exoskeleton's own weight
+
+57
+00:03:54,301 --> 00:03:57,300
+in addition to a payload of over 200 pounds.
+
+58
+00:03:57,301 --> 00:04:00,300
+He can even hold that weight on one leg.
+
+59
+00:04:00,301 --> 00:04:05,300
+When he moves around, this moves with his leg,
+
+60
+00:04:05,301 --> 00:04:08,300
+but when he steps down, it actually tightens up
+
+61
+00:04:08,301 --> 00:04:10,300
+and it holds the weight of the upper extremity
+
+62
+00:04:10,301 --> 00:04:13,300
+and the back assembly, so that when he's standing
+
+63
+00:04:13,301 --> 00:04:15,300
+in a full position powered up,
+
+64
+00:04:15,301 --> 00:04:17,300
+he doesn't have much load on his shoulder.
+
+65
+00:04:17,301 --> 00:04:19,300
+So the machine's carrying its weight
+
+66
+00:04:19,301 --> 00:04:22,300
+and the load's weight, and he's carrying his own weight.
+
+67
+00:04:22,301 --> 00:04:25,300
+The upper half of the exoskeleton
+
+68
+00:04:25,301 --> 00:04:29,300
+works on the same principles as the lower,
+
+69
+00:04:29,301 --> 00:04:33,300
+providing the arm's magnified power
+
+70
+00:04:33,301 --> 00:04:37,300
+while maintaining a full range of motion.
+
+71
+00:04:37,301 --> 00:04:39,300
+The shoulder has a large range of motion
+
+72
+00:04:39,301 --> 00:04:41,300
+much more than the related joint in your leg,
+
+73
+00:04:41,301 --> 00:04:42,300
+which is your hip.
+
+74
+00:04:42,301 --> 00:04:43,001
+hip.
+
+75
+00:04:43,002 --> 00:04:48,300
+So the shoulder and arm parts of the exoskeleton don't look like the lower ones.
+
+76
+00:04:48,301 --> 00:04:52,300
+So when he moves his elbow, the two muscles pull, the tendons pull,
+
+77
+00:04:52,301 --> 00:04:56,300
+and he gets the range of motion that he'd like.
+
+78
+00:04:56,301 --> 00:05:02,300
+Same thing happens with the wrist and with moving the shoulder in and out
+
+79
+00:05:02,301 --> 00:05:04,300
+and with flexing the shoulder.
+
+80
+00:05:04,301 --> 00:05:09,300
+Although the exoskeletons intricate hardware is now exposed,
+
+81
+00:05:09,301 --> 00:05:12,280
+future plans call for encasing it in protective
+
+82
+00:05:12,300 --> 00:05:17,540
+of plating, made of anything from steel to Kevlar armor.
+
+83
+00:05:17,541 --> 00:05:21,340
+It's too early for the Army to say when it will be ready to deploy.
+
+84
+00:05:21,341 --> 00:05:23,980
+But once fully developed, the exoskeleton promises
+
+85
+00:05:23,981 --> 00:05:28,180
+to revolutionize military operations.
+
+86
+00:05:28,181 --> 00:05:29,880
+For starters, it will help free soldiers
+
+87
+00:05:29,881 --> 00:05:33,060
+of the burdensome task of lugging around rucksacks,
+
+88
+00:05:33,061 --> 00:05:36,220
+weighing as much as 150 pounds.
+
+89
+00:05:36,221 --> 00:05:38,460
+Those rucks are extremely heavy.
+
+90
+00:05:38,461 --> 00:05:40,920
+And it's really taking a toll on the soldiers.
+
+91
+00:05:40,921 --> 00:05:43,960
+whether it's their physical ability to lift something
+
+92
+00:05:43,961 --> 00:05:45,960
+or being able to go long distances
+
+93
+00:05:45,961 --> 00:05:48,560
+in order to search or destroy the enemy.
+
+94
+00:05:48,561 --> 00:05:50,800
+I think a system like this will definitely
+
+95
+00:05:50,801 --> 00:05:53,940
+help our war fighters into the future.
+
+96
+00:05:53,941 --> 00:05:56,860
+But future applications of this super-powered exoskeleton
+
+97
+00:05:56,861 --> 00:05:59,100
+aren't limited to the military.
+
+98
+00:05:59,101 --> 00:06:02,340
+You can think of medical products that help cripple people walk,
+
+99
+00:06:02,341 --> 00:06:05,340
+or you can keeping people safe from overworking themselves,
+
+100
+00:06:05,341 --> 00:06:08,420
+working in warehouses, working in construction.
+
+101
+00:06:08,421 --> 00:06:10,820
+As these engineers empower us with super strength,
+
+102
+00:06:10,920 --> 00:06:12,920
+by putting the machine around the man.
+
+103
+00:06:17,260 --> 00:06:21,060
+Others are trying to make us super by putting the machine in the man.
+
+104
+00:06:24,400 --> 00:06:26,580
+Such is the work of Professor Kevin Warwick
+
+105
+00:06:26,581 --> 00:06:29,160
+and his colleagues at the University of Reading in England.
+
+106
+00:06:31,160 --> 00:06:33,180
+Could their pioneering work be the first step
+
+107
+00:06:33,181 --> 00:06:36,540
+toward transforming us into super cyborgs like Robocop?
+
+108
+00:06:37,620 --> 00:06:39,240
+And Darth Vader?
+
+109
+00:06:39,241 --> 00:06:40,900
+We're at a very exciting time.
+
+110
+00:06:40,920 --> 00:06:44,480
+being able particularly to link humans and technology together.
+
+111
+00:06:44,760 --> 00:06:48,300
+What we're trying to do is develop new ways and new interfaces
+
+112
+00:06:48,301 --> 00:06:52,180
+by which humans can receive information from a machine
+
+113
+00:06:52,181 --> 00:06:54,300
+and give information to a machine.
+
+114
+00:06:55,220 --> 00:07:00,060
+To advance his research over the past decade, Warwick took a radical approach.
+
+115
+00:07:00,980 --> 00:07:03,960
+During a five-year period, he acted as his own guinea pig,
+
+116
+00:07:04,880 --> 00:07:07,820
+carrying several surgically implanted computer chips in his body.
+
+117
+00:07:08,360 --> 00:07:10,320
+That's how he earned his mechanical moniker.
+
+118
+00:07:10,920 --> 00:07:11,820
+Mr. Cyborg.
+
+119
+00:07:13,220 --> 00:07:16,460
+The first tip that I had was in 1998.
+
+120
+00:07:17,180 --> 00:07:18,760
+I've in fact got one of these here.
+
+121
+00:07:19,320 --> 00:07:23,500
+This was a radio frequency identification device,
+
+122
+00:07:23,501 --> 00:07:25,700
+and it was implanted in my left arm.
+
+123
+00:07:26,140 --> 00:07:28,140
+At the time, no one had done it before,
+
+124
+00:07:28,400 --> 00:07:30,340
+so we didn't know if there would be any problems,
+
+125
+00:07:30,440 --> 00:07:31,540
+any dangers with it,
+
+126
+00:07:31,760 --> 00:07:33,600
+and hence I went for it myself.
+
+127
+00:07:34,000 --> 00:07:37,500
+What it did was identify me to the computer in my building,
+
+128
+00:07:37,501 --> 00:07:40,640
+so the computer opened doors for me, said hello.
+
+129
+00:07:40,920 --> 00:07:42,480
+switched on lights, that sort of thing.
+
+130
+00:07:42,940 --> 00:07:44,600
+But Warwick had much grander goals
+
+131
+00:07:44,601 --> 00:07:46,740
+than just enabling machines to recognize him.
+
+132
+00:07:47,740 --> 00:07:49,000
+He wanted the super ability
+
+133
+00:07:49,001 --> 00:07:50,260
+to control them remotely,
+
+134
+00:07:51,180 --> 00:07:53,000
+using the power of his mind.
+
+135
+00:07:54,100 --> 00:07:56,080
+So, it was back under the knife.
+
+136
+00:07:56,700 --> 00:07:59,240
+This was implanted in my left arm.
+
+137
+00:07:59,880 --> 00:08:02,600
+The implant itself consists of 100
+
+138
+00:08:02,601 --> 00:08:04,700
+very, very small electrodes,
+
+139
+00:08:04,701 --> 00:08:07,840
+and these were fired into my nervous system.
+
+140
+00:08:08,480 --> 00:08:10,900
+We can still see that the scars from the operating,
+
+141
+00:08:10,920 --> 00:08:14,920
+There were then wires running from there,
+
+142
+00:08:14,921 --> 00:08:18,920
+all up the inside of my arm, coming out at this point here.
+
+143
+00:08:18,921 --> 00:08:24,920
+And what we did was connect on this little gauntlet arrangement.
+
+144
+00:08:24,921 --> 00:08:28,920
+This is actually a radio transmitter receiver unit,
+
+145
+00:08:28,921 --> 00:08:32,920
+which from this terminal pad here linked to my nervous system
+
+146
+00:08:32,921 --> 00:08:37,920
+and by radio, my brain signals were brought outside my body.
+
+147
+00:08:37,921 --> 00:08:39,920
+So when I moved my hand, my...
+
+148
+00:08:39,921 --> 00:08:44,960
+my nervous system signals were sent out to this robot hand here.
+
+149
+00:08:44,961 --> 00:08:50,680
+So as I moved my hand, my brain signals were controlling this robot hand.
+
+150
+00:08:50,681 --> 00:08:57,240
+But also signals from the computer could be sent down onto my nervous system for my brain to pick up.
+
+151
+00:08:57,241 --> 00:09:01,680
+So I could feel how much force the robot hand was applying.
+
+152
+00:09:01,681 --> 00:09:07,920
+One of Warwick's greatest challenges was to simply recognize those signals.
+
+153
+00:09:07,921 --> 00:09:11,220
+But six weeks of effort got him over the hump.
+
+154
+00:09:11,221 --> 00:09:16,920
+What we had done essentially was open up a new path into my brain via the implant.
+
+155
+00:09:16,921 --> 00:09:22,920
+We could then put electric pulses down onto my nervous system for my brain to understand.
+
+156
+00:09:22,921 --> 00:09:28,920
+What it felt like was every time a pulse came in where there was actually an electric pulse,
+
+157
+00:09:28,921 --> 00:09:31,920
+it was like a charge running up my index finger.
+
+158
+00:09:31,921 --> 00:09:34,920
+The more pulses, the more force.
+
+159
+00:09:34,921 --> 00:09:40,920
+Warwick's implanted ship also allowed him to exercise mind control over other machines,
+
+160
+00:09:40,921 --> 00:09:42,920
+like this wheelchair.
+
+161
+00:09:42,921 --> 00:09:48,920
+But the path to superpowers by fusing man and machine cuts both ways.
+
+162
+00:09:48,921 --> 00:09:51,920
+Instead of computerizing a human,
+
+163
+00:09:51,921 --> 00:09:54,920
+you can also humanize a robot.
+
+164
+00:09:54,921 --> 00:09:59,920
+This robot represents a baby step in this revolutionary concept.
+
+165
+00:09:59,921 --> 00:10:03,920
+Via a Bluetooth wireless connection, it's under the control of cells extracted.
+
+166
+00:10:03,921 --> 00:10:05,920
+from the brain of a rat.
+
+167
+00:10:05,921 --> 00:10:08,920
+The output from the rat brain is then used
+
+168
+00:10:08,921 --> 00:10:10,920
+to drive the wheels of the robot.
+
+169
+00:10:10,921 --> 00:10:14,920
+The only controlling mechanism is the biological brain
+
+170
+00:10:14,921 --> 00:10:18,920
+with about 100,000 brain cells.
+
+171
+00:10:18,921 --> 00:10:21,920
+The extracted cells have been deposited on a petri dish,
+
+172
+00:10:21,921 --> 00:10:24,920
+where they continue to send electrical impulses.
+
+173
+00:10:24,921 --> 00:10:28,920
+They start to develop spontaneously connections,
+
+174
+00:10:28,921 --> 00:10:32,920
+and once they connect together into a
+
+175
+00:10:32,921 --> 00:10:38,920
+a network then start to communicate with each other so to speak.
+
+176
+00:10:38,921 --> 00:10:44,920
+Electrodes embedded in the dish detect this communication and transfer it to the robot.
+
+177
+00:10:44,921 --> 00:10:51,920
+Even though the crude neurological activity is just a faint shadow of the rat's fully functional brain,
+
+178
+00:10:51,921 --> 00:10:54,920
+a learning process is in motion.
+
+179
+00:10:54,921 --> 00:11:01,920
+The ultrasonic sensors on the robot, which give an indication when the robot comes close to a wall,
+
+180
+00:11:01,921 --> 00:11:06,160
+are sent back via the electrodes to our rat brain,
+
+181
+00:11:06,161 --> 00:11:08,920
+and the neuron connections, how they're firing,
+
+182
+00:11:08,921 --> 00:11:11,920
+starts to strengthen because it keeps doing something.
+
+183
+00:11:11,921 --> 00:11:13,920
+Bit like in humans, if you do something
+
+184
+00:11:13,921 --> 00:11:15,920
+habitually, you get better at doing it.
+
+185
+00:11:15,921 --> 00:11:18,920
+Well, our little robot, our rat brain robot,
+
+186
+00:11:18,921 --> 00:11:20,920
+is exactly the same.
+
+187
+00:11:20,921 --> 00:11:24,920
+If this rudimentary gadget fusing biologic brain power
+
+188
+00:11:24,921 --> 00:11:27,920
+and robotics seems a long way from super cyborgs,
+
+189
+00:11:27,921 --> 00:11:28,920
+you're right.
+
+190
+00:11:28,921 --> 00:11:30,920
+But his offspring promised to
+
+191
+00:11:30,921 --> 00:11:33,620
+His offspring promised to be less primitive.
+
+192
+00:11:33,621 --> 00:11:37,720
+The physical robot doesn't have to be small and with little wheels.
+
+193
+00:11:37,721 --> 00:11:40,020
+It could be a vehicle outside.
+
+194
+00:11:40,021 --> 00:11:44,120
+So we could have the culture driving around a vehicle,
+
+195
+00:11:44,121 --> 00:11:48,020
+maybe at an airport or in a hotel or in a hospital,
+
+196
+00:11:48,021 --> 00:11:52,620
+where you're just driving a vehicle from place to place.
+
+197
+00:11:52,621 --> 00:11:56,620
+Using the same concept, could a man someday gain superpower
+
+198
+00:11:56,621 --> 00:12:00,320
+by having his brain exercise control of a powerful robotic body?
+
+199
+00:12:00,321 --> 00:12:02,320
+Time will tell.
+
+200
+00:12:02,321 --> 00:12:07,320
+But Professor Warwick's personal preference is to go the other way.
+
+201
+00:12:07,321 --> 00:12:11,320
+He'd rather develop a super brain by fusing with computers.
+
+202
+00:12:11,321 --> 00:12:14,320
+I find life as a human pretty dull and boring.
+
+203
+00:12:14,321 --> 00:12:17,320
+I think there's so many things we could do,
+
+204
+00:12:17,321 --> 00:12:21,320
+having new senses, having our brains thinking in many more dimensions.
+
+205
+00:12:21,321 --> 00:12:23,320
+Certainly that's what I want to do.
+
+206
+00:12:23,321 --> 00:12:28,320
+Ultimately, I want to have an implant that links my brain into a computer network
+
+207
+00:12:28,321 --> 00:12:35,320
+network so I can have some of those artificial intelligent abilities that presently computers have.
+
+208
+00:12:35,321 --> 00:12:40,320
+As high technology promises to grant us super-powered brains and bodies,
+
+209
+00:12:40,321 --> 00:12:45,320
+it's also giving an elite few the power to soar through the sky.
+
+210
+00:12:49,320 --> 00:12:57,320
+Ask anyone which superpower they'd like to have, and it's a good vet they'll say the ability to fly.
+
+211
+00:12:57,321 --> 00:13:04,320
+fly. We've achieved it only in our dreams. Until now.
+
+212
+00:13:04,321 --> 00:13:18,321
+Skydivers like these, equipped with specialized wingsuits are ranging us closer to one assisted human flight.
+
+213
+00:13:23,320 --> 00:13:26,320
+Eat your heart out, Superman.
+
+214
+00:13:26,321 --> 00:13:28,320
+on Superman.
+
+215
+00:13:28,321 --> 00:13:32,200
+It's unexplainable how you feel.
+
+216
+00:13:32,201 --> 00:13:37,640
+The feeling of true flight and your body is actually the machine flying through the air
+
+217
+00:13:37,641 --> 00:13:41,360
+is a feeling that's almost too hard to explain.
+
+218
+00:13:41,361 --> 00:13:43,360
+It is total freedom.
+
+219
+00:13:43,361 --> 00:13:49,760
+That was a good flight.
+
+220
+00:13:49,761 --> 00:13:55,560
+Ed Poloski of West Coast wingsuits in Lodi, California, has logged more than 10,000 skydives.
+
+221
+00:13:55,561 --> 00:13:59,160
+He's one of the premier wingsuit flyers in the world.
+
+222
+00:14:00,260 --> 00:14:04,800
+A wing suit is a piece of equipment, like a jumpsuit,
+
+223
+00:14:04,960 --> 00:14:06,200
+that you put on your body.
+
+224
+00:14:06,560 --> 00:14:11,700
+It's designed to create a longer flight in free fall.
+
+225
+00:14:12,440 --> 00:14:15,300
+It enables you to cover a lot of ground
+
+226
+00:14:15,301 --> 00:14:18,120
+and stay in the air a lot longer
+
+227
+00:14:18,121 --> 00:14:21,460
+than a normal skydive where you're just descending straight down.
+
+228
+00:14:25,560 --> 00:14:32,560
+A conventional skydiving freefall from 13,000 feet lasts only about a minute.
+
+229
+00:14:36,560 --> 00:14:43,560
+But with a wingsuit, fires like Ed can experience up to four minutes of flight time.
+
+230
+00:14:44,560 --> 00:14:50,560
+In the wingsuit, we're actually slowing ourselves down in the descent as much as possible
+
+231
+00:14:50,561 --> 00:14:54,560
+and creating as much forward speed as we can.
+
+232
+00:14:55,560 --> 00:15:02,560
+That forward speed, as high as 200 miles per hour,
+
+233
+00:15:02,561 --> 00:15:08,560
+translates into longer horizontal distances that these high flyers can travel.
+
+234
+00:15:08,561 --> 00:15:15,560
+The wingsuit helps you cover a lot of ground as you're descending.
+
+235
+00:15:15,561 --> 00:15:20,560
+Some people have been exceeding 2 to 1 glide ratio, some people 3 to 1,
+
+236
+00:15:20,561 --> 00:15:24,560
+and it varies on the person and their ability.
+
+237
+00:15:24,561 --> 00:15:32,360
+A glide ratio, for example, three to one would mean for every foot you descend, you're traveling three feet forward.
+
+238
+00:15:33,160 --> 00:15:43,780
+If a wing-suited hero were to jump from a plane 13,000 feet over the Statue of Liberty, he could land nearly six and a half miles away in the middle of Central Park.
+
+239
+00:15:45,120 --> 00:15:47,900
+Turning falling into flying all depends on the suit.
+
+240
+00:15:48,740 --> 00:15:54,540
+The typical model features three distinct webbed surfaces, transforming a skydiver into a huge.
+
+241
+00:15:54,560 --> 00:15:56,200
+human version of a flying squirrel.
+
+242
+00:15:57,600 --> 00:16:00,660
+During descent, air rushes into openings in the webbing,
+
+243
+00:16:01,060 --> 00:16:02,060
+aiding the aerodynamics.
+
+244
+00:16:03,900 --> 00:16:06,700
+If you look at this suit here, you have air vents
+
+245
+00:16:06,701 --> 00:16:08,860
+that come in over the top of the arms.
+
+246
+00:16:09,060 --> 00:16:10,680
+If you want to look inside the wing,
+
+247
+00:16:11,240 --> 00:16:13,180
+you can see that we have separate chambers
+
+248
+00:16:13,181 --> 00:16:15,540
+for the air to pressurize in.
+
+249
+00:16:16,140 --> 00:16:19,100
+It's designed to actually make you fly
+
+250
+00:16:19,101 --> 00:16:20,460
+when you exit the plane.
+
+251
+00:16:21,220 --> 00:16:23,420
+The material inflates underneath your arms
+
+252
+00:16:23,421 --> 00:16:24,460
+in between your legs.
+
+253
+00:16:24,560 --> 00:16:29,560
+and creates basically an airfoil that you glide on.
+
+254
+00:16:29,561 --> 00:16:32,560
+An airfoil is any surface or structure
+
+255
+00:16:32,561 --> 00:16:34,560
+that provides an aircraft lift
+
+256
+00:16:34,561 --> 00:16:36,560
+by creating reduced air pressure above it
+
+257
+00:16:36,561 --> 00:16:38,560
+and increased pressure below.
+
+258
+00:16:38,561 --> 00:16:43,560
+We designed the wingsuit to be similar to a wing.
+
+259
+00:16:43,561 --> 00:16:46,560
+Our body is the actual structural skeleton
+
+260
+00:16:46,561 --> 00:16:48,560
+of the wing suit.
+
+261
+00:16:48,561 --> 00:16:51,560
+As we descend, we are maneuvering our body
+
+262
+00:16:51,561 --> 00:16:53,560
+in a way to turn the body
+
+263
+00:16:53,561 --> 00:16:56,320
+turn this wingsuit through the air,
+
+264
+00:16:56,321 --> 00:17:00,200
+similar to the way an aircraft flies.
+
+265
+00:17:00,201 --> 00:17:02,800
+If you want to fly at that 200 mile per hour speed
+
+266
+00:17:02,801 --> 00:17:07,320
+we mentioned earlier, try this wing suit on for size.
+
+267
+00:17:07,321 --> 00:17:10,060
+Unlike the standard model, it has larger wings
+
+268
+00:17:10,061 --> 00:17:12,900
+and hand grippers for the pilot to hold
+
+269
+00:17:12,901 --> 00:17:16,460
+to enable him to control the angle of the wings.
+
+270
+00:17:16,461 --> 00:17:20,020
+This model of suit is built for specifically speed.
+
+271
+00:17:20,021 --> 00:17:23,060
+You'll notice that the wings extend past the fingertips,
+
+272
+00:17:23,061 --> 00:17:28,060
+and pass the toes with the swept wing for speed.
+
+273
+00:17:33,060 --> 00:17:36,060
+Some wing suits are tailor made for another performance attribute.
+
+274
+00:17:36,061 --> 00:17:39,060
+No super flyer can do without maneuverability.
+
+275
+00:17:39,061 --> 00:17:42,060
+Now the last suit we had on was made for speed.
+
+276
+00:17:42,061 --> 00:17:46,060
+This one, in this particular design, is made for aerobatics.
+
+277
+00:17:46,061 --> 00:17:50,060
+Notice the cut on the wing with nothing hanging below, no grippers,
+
+278
+00:17:50,061 --> 00:17:52,060
+and the cut of the leg wing.
+
+279
+00:17:52,061 --> 00:17:53,960
+of the leg wing.
+
+280
+00:17:53,961 --> 00:17:58,120
+This suit is a shorter cut to allow for faster turns.
+
+281
+00:17:58,121 --> 00:17:59,500
+Your hands are free.
+
+282
+00:17:59,501 --> 00:18:02,160
+You can move a lot easier with this suit.
+
+283
+00:18:02,161 --> 00:18:04,500
+But no matter how good the aerodynamic design
+
+284
+00:18:04,501 --> 00:18:07,180
+of these suits, they don't do the flying.
+
+285
+00:18:07,181 --> 00:18:09,820
+The pilot wearing them does.
+
+286
+00:18:09,821 --> 00:18:12,740
+Creating different flight paths with the wing suit
+
+287
+00:18:12,741 --> 00:18:15,840
+is as simple as tilting the shoulders
+
+288
+00:18:15,841 --> 00:18:18,700
+or bringing an arm in.
+
+289
+00:18:18,701 --> 00:18:21,960
+Arching will naturally make you fall faster,
+
+290
+00:18:22,060 --> 00:18:25,160
+But in the wingsuit, we tend to cup our body,
+
+291
+00:18:25,161 --> 00:18:29,060
+creating the shape of a wing to generate more forward speed
+
+292
+00:18:29,061 --> 00:18:30,560
+and create lift.
+
+293
+00:18:30,561 --> 00:18:34,160
+And the tail works in the same effect as a bird does.
+
+294
+00:18:34,161 --> 00:18:38,260
+We can twist our legs and create a pitch with the tail of the wing suit
+
+295
+00:18:38,261 --> 00:18:40,420
+to also turn us.
+
+296
+00:18:40,421 --> 00:18:44,720
+You can do everything from forward flips to hard banks
+
+297
+00:18:44,721 --> 00:18:46,420
+to figure eights.
+
+298
+00:18:46,421 --> 00:18:50,180
+You can actually roll over on your back, close your legs,
+
+299
+00:18:50,181 --> 00:18:52,040
+have your legs come over the front, and be
+
+300
+00:18:52,060 --> 00:18:54,060
+heading the other way within a matter of seconds.
+
+301
+00:18:54,920 --> 00:18:58,380
+In the words of Buzz Lightyear, that's falling with style.
+
+302
+00:19:04,220 --> 00:19:08,340
+But no matter how masterful the control of Ed and other wingsuit flyers
+
+303
+00:19:08,341 --> 00:19:11,200
+that can never steer clear of danger.
+
+304
+00:19:17,880 --> 00:19:19,820
+Skydiving in itself is dangerous.
+
+305
+00:19:19,821 --> 00:19:24,820
+wearing the wing suit just adds a little bit more to it.
+
+306
+00:19:24,821 --> 00:19:28,820
+And the danger starts the instant they leap from the plane.
+
+307
+00:19:28,821 --> 00:19:31,820
+When you exit the plane with a wing suit on,
+
+308
+00:19:31,821 --> 00:19:34,820
+you're actually using the speed of the aircraft
+
+309
+00:19:34,821 --> 00:19:37,820
+to lift as you come out the door.
+
+310
+00:19:37,821 --> 00:19:40,820
+So your airfoil as you come off of the plane
+
+311
+00:19:40,821 --> 00:19:43,820
+can actually raise you above the plane
+
+312
+00:19:43,821 --> 00:19:46,820
+if the plane is traveling at a fast enough speed.
+
+313
+00:19:46,821 --> 00:19:48,820
+We want to watch the tail of the aircraft,
+
+314
+00:19:48,821 --> 00:19:51,160
+of the aircraft because we can hit our head on it.
+
+315
+00:19:51,161 --> 00:19:53,360
+So what we do is we keep the wings contained
+
+316
+00:19:53,361 --> 00:19:57,320
+until we see the actual obstruction, the horizontal stabilizer,
+
+317
+00:19:57,321 --> 00:19:59,660
+in this case, pass above our head,
+
+318
+00:19:59,661 --> 00:20:02,860
+and then we can expand the wings out.
+
+319
+00:20:02,861 --> 00:20:05,060
+The dangers multiply when your starting point
+
+320
+00:20:05,061 --> 00:20:08,480
+isn't an aircraft, but a cliff face.
+
+321
+00:20:08,481 --> 00:20:09,980
+All right.
+
+322
+00:20:09,981 --> 00:20:12,980
+Three, two, one, see ya.
+
+323
+00:20:18,820 --> 00:20:30,681
+Base jumping with a wing suit has developed into a different era now, so to speak, whereas years ago, people intended to fly the suit away from the wall as far as
+
+324
+00:20:30,682 --> 00:20:31,382
+possible.
+
+325
+00:20:32,100 --> 00:20:39,100
+Today, they are flying the wingsuit next to the wall, virtually surfing the terrain of the wall.
+
+326
+00:20:40,380 --> 00:20:48,800
+As they descend lower in altitude, they carve away from the wall and try and get as far away from the wall at that lower altitude as possible.
+
+327
+00:20:48,820 --> 00:20:50,820
+and then open a parachute.
+
+328
+00:20:50,821 --> 00:20:55,820
+So what's next for wingsuit flyers?
+
+329
+00:20:55,821 --> 00:21:00,820
+The future a wingsuit flight has barely been touched.
+
+330
+00:21:00,821 --> 00:21:04,820
+There's so many different variations in materials,
+
+331
+00:21:04,821 --> 00:21:08,820
+whether it be a harder material or a lighter material
+
+332
+00:21:08,821 --> 00:21:10,820
+or something with less drag.
+
+333
+00:21:10,821 --> 00:21:15,820
+Or maybe flying with rocket power, like Iron Man.
+
+334
+00:21:15,821 --> 00:21:18,820
+Swiss birdman Eve Rossi did
+
+335
+00:21:18,821 --> 00:21:21,460
+just that on September 26, 2008.
+
+336
+00:21:25,000 --> 00:21:27,720
+Using the same jet suit, he test piloted through the Alps.
+
+337
+00:21:28,860 --> 00:21:31,040
+Rossi made history by leaping from a plane
+
+338
+00:21:31,041 --> 00:21:33,300
+almost 9,000 feet above France
+
+339
+00:21:33,301 --> 00:21:36,580
+and soaring across the English Channel to Great Britain.
+
+340
+00:21:42,820 --> 00:21:46,280
+All he needs now is a secret identity and an evil nemesis.
+
+341
+00:21:48,820 --> 00:21:53,060
+If flying over the earth like Superman isn't what you're looking for,
+
+342
+00:21:53,061 --> 00:21:56,580
+then maybe flying through the water like Aquaman is.
+
+343
+00:21:58,580 --> 00:22:04,500
+In 2008, Speedo's new LZR racer swimsuit helped make Michael Phelps
+
+344
+00:22:04,501 --> 00:22:10,260
+Superman in the water as he won a record-setting eight gold medals at the Beijing Olympics.
+
+345
+00:22:14,260 --> 00:22:18,660
+He and many other swimmers in Beijing got a strategic assist from suit designers.
+
+346
+00:22:18,820 --> 00:22:21,520
+advancing our pursuit of aquatic superpowers.
+
+347
+00:22:25,520 --> 00:22:29,200
+This high-tech suit lowered racing times by nearly 2%.
+
+348
+00:22:29,940 --> 00:22:33,240
+A huge plus in a sport in which champions and the also-ranes
+
+349
+00:22:33,241 --> 00:22:35,900
+can be separated by just hundreds of a second.
+
+350
+00:22:36,640 --> 00:22:38,900
+When I stand up on the block, I know I have the best suit on.
+
+351
+00:22:40,580 --> 00:22:43,820
+To know that you have a few extra hundreds or attempts
+
+352
+00:22:43,821 --> 00:22:46,140
+to win a gold medal or to break a world record,
+
+353
+00:22:47,340 --> 00:22:48,480
+how can you argue with that?
+
+354
+00:22:48,820 --> 00:22:55,820
+Achieving these super speeds starts with a specially designed fabric.
+
+355
+00:22:55,821 --> 00:23:03,820
+Speedo tested more than 60 different types of material
+
+356
+00:23:03,821 --> 00:23:07,820
+before creating a highly compressive ultra-fine nylon thread
+
+357
+00:23:07,821 --> 00:23:10,820
+that reduced drag in the water.
+
+358
+00:23:10,821 --> 00:23:13,820
+With the help of these specialized strands,
+
+359
+00:23:13,821 --> 00:23:16,820
+designers created highly compressive sections
+
+360
+00:23:16,821 --> 00:23:19,560
+that were bonded together in a form-fitting design.
+
+361
+00:23:20,060 --> 00:23:25,820
+It's super, super tight, but it really feels like part of your body when you put it on.
+
+362
+00:23:26,120 --> 00:23:31,880
+The suit squeezes the swimmer's body, holding their core ab and back muscles in a corset-like grip,
+
+363
+00:23:32,840 --> 00:23:38,500
+allowing the swimmer to maintain perfect body position without restricting the full range of motion that a swimmer needs
+
+364
+00:23:38,501 --> 00:23:40,380
+to slice through the water.
+
+365
+00:23:41,900 --> 00:23:43,960
+But even with these high-tech suits,
+
+366
+00:23:46,820 --> 00:23:48,820
+Humans are relatively poor swimmers.
+
+367
+00:23:49,520 --> 00:23:53,700
+We convert roughly only 3% of our kicks and strokes into forward motion,
+
+368
+00:23:54,700 --> 00:23:57,740
+while dolphins and other sea swimmers convert nearly 80%.
+
+369
+00:24:01,700 --> 00:24:08,200
+But Ted Chiamillow and his team of engineers in Nicholson, Georgia,
+
+370
+00:24:08,780 --> 00:24:13,840
+have designed a special swim fin that can make us all Superman in the water.
+
+371
+00:24:13,841 --> 00:24:18,840
+I was drawn to moving quicker underwater.
+
+372
+00:24:18,841 --> 00:24:22,840
+I've just been there, done that with scuba diving
+
+373
+00:24:22,841 --> 00:24:26,840
+and wanted something a bit more exciting.
+
+374
+00:24:26,841 --> 00:24:29,840
+This tool is going to make you feel what it feels like
+
+375
+00:24:29,841 --> 00:24:31,840
+to cruise the ocean like a whale.
+
+376
+00:24:31,841 --> 00:24:34,840
+It makes you a super swimmer.
+
+377
+00:24:34,841 --> 00:24:39,840
+It enables you to reach speed at which you couldn't even think
+
+378
+00:24:39,841 --> 00:24:41,840
+of going without it.
+
+379
+00:24:41,841 --> 00:24:49,840
+They call it the Luna set, and it can propel a swimmer as fast as eight miles per hour,
+
+380
+00:24:49,841 --> 00:24:51,840
+twice the speed of Michael Phelps.
+
+381
+00:24:55,840 --> 00:24:58,840
+The lunaset produces 140 pounds of thrust,
+
+382
+00:24:58,841 --> 00:25:03,840
+the equivalent of a 12-horsepower motor.
+
+383
+00:25:03,841 --> 00:25:08,840
+A conventional swim fin produces only about 40 pounds of thrust.
+
+384
+00:25:08,841 --> 00:25:11,820
+When you're swimming with a conventional, a conventional,
+
+385
+00:25:11,840 --> 00:25:13,840
+swim fin and you're in the power stroke,
+
+386
+00:25:13,841 --> 00:25:16,840
+which is the down stroke, what you're doing is you're
+
+387
+00:25:16,841 --> 00:25:19,840
+using the water pressure to flex the blade
+
+388
+00:25:19,841 --> 00:25:20,840
+to the proper angle of attack.
+
+389
+00:25:20,841 --> 00:25:23,840
+And what you end up with is a very small portion of the fin
+
+390
+00:25:23,841 --> 00:25:25,840
+that's actually contributing to thrust,
+
+391
+00:25:25,841 --> 00:25:29,840
+and a large portion of the fin is waste.
+
+392
+00:25:29,841 --> 00:25:32,840
+Seeking a solution, Ted and his colleagues
+
+393
+00:25:32,841 --> 00:25:35,840
+studied dolphins and whales, much like the Wright brothers
+
+394
+00:25:35,841 --> 00:25:37,840
+studied birds.
+
+395
+00:25:37,841 --> 00:25:39,840
+They were learning from nature's wisdom
+
+396
+00:25:39,841 --> 00:25:43,340
+and trying to replicate what nature was doing with flight.
+
+397
+00:25:43,341 --> 00:25:47,340
+And here I am a little over 100 years later.
+
+398
+00:25:47,341 --> 00:25:49,340
+And I'm studying whales and dolphins,
+
+399
+00:25:49,341 --> 00:25:53,340
+trying to figure out how to make a man swim faster.
+
+400
+00:25:53,341 --> 00:25:57,340
+We're taking the geometry in nature's solutions,
+
+401
+00:25:57,341 --> 00:25:59,340
+the whale swimming morphology.
+
+402
+00:25:59,341 --> 00:26:01,340
+We're replicating that in the lunisodes head.
+
+403
+00:26:01,341 --> 00:26:04,840
+And we're creating a propulsor, a swimming device
+
+404
+00:26:04,841 --> 00:26:07,340
+that allows you to swim more efficiently.
+
+405
+00:26:07,341 --> 00:26:09,340
+That efficiency hinges on the surface
+
+406
+00:26:09,341 --> 00:26:13,340
+on the lunasette's ability to pivot instead of merely flexing,
+
+407
+00:26:13,341 --> 00:26:16,340
+thereby better mimicking the fins of whales and dolphins.
+
+408
+00:26:16,341 --> 00:26:20,340
+The lunasette is a very rigid piece of equipment
+
+409
+00:26:20,341 --> 00:26:23,340
+compared to a traditional fin.
+
+410
+00:26:23,341 --> 00:26:26,340
+It doesn't flex per se.
+
+411
+00:26:26,341 --> 00:26:29,340
+It pivots on two pitch axles.
+
+412
+00:26:29,341 --> 00:26:33,340
+And by doing this, it makes it that much more efficient.
+
+413
+00:26:33,341 --> 00:26:38,340
+But even more crucial to the lunasette's design
+
+414
+00:26:38,341 --> 00:26:42,340
+is its contoured wing-like shape.
+
+415
+00:26:42,341 --> 00:26:46,140
+The lunisette has a foil that pitches about a pitch axle.
+
+416
+00:26:46,141 --> 00:26:49,880
+And what you have, unlike the conventional swim fins,
+
+417
+00:26:49,881 --> 00:26:58,800
+is an ideal angle of attack over the entire foil surface.
+
+418
+00:26:58,801 --> 00:27:01,000
+The lunaset generates through the water,
+
+419
+00:27:01,001 --> 00:27:05,140
+much like an aircraft propeller generates it in the air.
+
+420
+00:27:05,141 --> 00:27:08,340
+The propeller blades wing-shaped design creates low air pressure,
+
+421
+00:27:08,341 --> 00:27:11,340
+on one side of the blade and high pressure on the other
+
+422
+00:27:11,341 --> 00:27:14,340
+to drive the plane forward.
+
+423
+00:27:14,341 --> 00:27:17,340
+The lunaset acts the same way underwater,
+
+424
+00:27:17,341 --> 00:27:19,340
+but instead of spinning like a propeller,
+
+425
+00:27:19,341 --> 00:27:21,340
+it pivots up and down in a flapping motion
+
+426
+00:27:21,341 --> 00:27:24,340
+to push the swimmer forward.
+
+427
+00:27:24,341 --> 00:27:27,340
+As efficient as the lunaset is,
+
+428
+00:27:27,341 --> 00:27:29,340
+the swimmer using it has to adopt an unusual motion
+
+429
+00:27:29,341 --> 00:27:32,340
+to take full advantage of its design.
+
+430
+00:27:34,340 --> 00:27:36,340
+To achieve the proper angle of attack
+
+431
+00:27:36,341 --> 00:27:37,340
+and your super speed,
+
+432
+00:27:37,341 --> 00:27:41,340
+You have to roll in a series of wave-like bends.
+
+433
+00:27:41,341 --> 00:27:44,340
+Your core muscle trigger the movement,
+
+434
+00:27:44,341 --> 00:27:49,340
+and then the rest of your body follows in an undulation.
+
+435
+00:27:49,341 --> 00:27:55,340
+At first, it seems awkward, and then it becomes really quickly
+
+436
+00:27:55,341 --> 00:27:59,340
+a natural movement, because that's what your body wants to do.
+
+437
+00:27:59,341 --> 00:28:03,340
+The automatic response is trying to reproduce
+
+438
+00:28:03,341 --> 00:28:06,340
+a marine mammal movement, which is a dolphin kick.
+
+439
+00:28:06,341 --> 00:28:07,340
+a dolphin kick.
+
+440
+00:28:09,340 --> 00:28:12,340
+And once we start swimming as fast as the dolphins,
+
+441
+00:28:13,340 --> 00:28:16,340
+we just might be able to pull off one of their signature tricks.
+
+442
+00:28:18,340 --> 00:28:20,340
+I think at the end of the day,
+
+443
+00:28:20,341 --> 00:28:23,340
+we're going to have humans jumping out of the water,
+
+444
+00:28:23,341 --> 00:28:24,340
+getting complete air.
+
+445
+00:28:27,340 --> 00:28:30,340
+I think the vast majority of the people
+
+446
+00:28:30,341 --> 00:28:32,340
+that are going to be lucky enough
+
+447
+00:28:32,341 --> 00:28:34,340
+to get a lunatic set on their feet
+
+448
+00:28:34,341 --> 00:28:41,340
+are going to experience something very different.
+
+449
+00:28:41,341 --> 00:28:44,340
+This is as good as going to space.
+
+450
+00:28:44,341 --> 00:28:47,340
+We have an environment here on Earth
+
+451
+00:28:47,341 --> 00:28:50,340
+that is exactly like the outer space.
+
+452
+00:28:50,341 --> 00:28:54,340
+And the beauty of it is that any of us can access it
+
+453
+00:28:54,341 --> 00:28:57,340
+the way marine mammal access it.
+
+454
+00:28:57,341 --> 00:29:01,340
+While some are mimicking nature to become super swimmers,
+
+455
+00:29:01,341 --> 00:29:04,340
+others are using technology to take a giant
+
+456
+00:29:04,341 --> 00:29:06,340
+for mankind.
+
+457
+00:29:27,074 --> 00:29:33,340
+Inventor Jeff Jay is advancing our quest for superpowers by putting a new spring in our steps.
+
+458
+00:29:33,341 --> 00:29:34,340
+our steps.
+
+459
+00:29:39,340 --> 00:29:42,340
+His brainchild, velocity motion stilts,
+
+460
+00:29:42,341 --> 00:29:46,340
+is the next best thing to Steve Austin's bionic legs.
+
+461
+00:29:46,341 --> 00:29:50,340
+A velocity motion stilt is basically built for momentum.
+
+462
+00:29:50,341 --> 00:29:53,340
+It accentuates what the human body already does
+
+463
+00:29:53,341 --> 00:29:54,340
+in a direction.
+
+464
+00:29:54,341 --> 00:29:57,340
+The velocity motion stilt basically is designed
+
+465
+00:29:57,341 --> 00:29:59,340
+so that you can perform in it.
+
+466
+00:29:59,341 --> 00:30:02,340
+Just start by, like, take, just put all your weight
+
+467
+00:30:02,341 --> 00:30:05,340
+all your weight on the one spring, just keep it centered over top of this one spring.
+
+468
+00:30:06,840 --> 00:30:11,880
+Jeff's clientele consists mainly of acrobats and stilt performers, like Lucas Mendonza,
+
+469
+00:30:12,480 --> 00:30:15,940
+who jump at the chance to pay the $2,000 price for one pair.
+
+470
+00:30:17,100 --> 00:30:23,400
+It is really, really fun to jump out because, like, it looks like you on the moon, you know,
+
+471
+00:30:23,440 --> 00:30:25,280
+that feeling like it's really good.
+
+472
+00:30:26,820 --> 00:30:31,440
+Using the stilts, Jay has been able to sustain a speed of 23 miles an hour.
+
+473
+00:30:31,441 --> 00:30:35,320
+the same pace as Olympic class sprinters covering the same distance.
+
+474
+00:30:36,940 --> 00:30:39,360
+And he's leaped as high as 16 feet.
+
+475
+00:30:40,380 --> 00:30:43,900
+This is definitely the Lamborghini of stilts right here.
+
+476
+00:30:44,520 --> 00:30:47,300
+These high-flying stilts have only two moving parts.
+
+477
+00:30:48,800 --> 00:30:52,520
+But they masterfully harness the user's weight to generate the stilts power.
+
+478
+00:30:53,420 --> 00:30:56,480
+The real energy comes from these springs that are located in the back.
+
+479
+00:30:56,481 --> 00:31:01,000
+So if he bounces on two feet, you can see the flexion in the spring right in here.
+
+480
+00:31:01,440 --> 00:31:06,140
+Okay, if he bounces on one foot, you can see how the spring loads a lot more.
+
+481
+00:31:06,141 --> 00:31:09,640
+And the difference being is that all of his body weight now is on one spring,
+
+482
+00:31:09,641 --> 00:31:13,040
+so it's easier to blow through the preload and get to the actual load.
+
+483
+00:31:13,041 --> 00:31:18,040
+So if he goes back to two feet, now he has to bounce twice as hard to get the same spring.
+
+484
+00:31:18,041 --> 00:31:24,240
+Much like a pogo stick, each still channels the weight of the user,
+
+485
+00:31:24,241 --> 00:31:27,240
+pushing down the spring and loading it with potential energy.
+
+486
+00:31:27,241 --> 00:31:31,340
+As the spring recoils, it releases that energy.
+
+487
+00:31:31,440 --> 00:31:33,740
+and pushes the user up.
+
+488
+00:31:33,741 --> 00:31:35,740
+The more pressure that you put into the springs,
+
+489
+00:31:35,741 --> 00:31:39,140
+the more return you're going to get out of the springs.
+
+490
+00:31:39,141 --> 00:31:42,040
+And that returning pressure can be as much as 900 pounds
+
+491
+00:31:42,041 --> 00:31:44,440
+per square inch.
+
+492
+00:31:44,441 --> 00:31:47,140
+That's six times greater than the force of water spewing
+
+493
+00:31:47,141 --> 00:31:51,140
+from a fire hose.
+
+494
+00:31:51,141 --> 00:31:55,440
+Containing energy that high demands super strong working materials.
+
+495
+00:31:55,441 --> 00:31:58,340
+The material that we use is a high-grade aluminum.
+
+496
+00:31:58,341 --> 00:32:01,340
+The spring typically is made out of e-glass, which is kind of glass that they
+
+497
+00:32:01,341 --> 00:32:02,840
+They used to make old helicopter blades out.
+
+498
+00:32:02,841 --> 00:32:05,900
+It has a huge amount of pliability.
+
+499
+00:32:05,901 --> 00:32:09,180
+Jay says learning to run and jump on these super kangaroo legs
+
+500
+00:32:09,181 --> 00:32:11,280
+is easier than you might think.
+
+501
+00:32:11,281 --> 00:32:13,340
+The normal learning curve is about 10 minutes
+
+502
+00:32:13,341 --> 00:32:15,640
+to be able to just kind of walk around,
+
+503
+00:32:15,641 --> 00:32:18,000
+be comfortable with a small jog, some little hops,
+
+504
+00:32:18,001 --> 00:32:19,020
+things like that.
+
+505
+00:32:19,021 --> 00:32:21,500
+What you have to do is get yourself back in the mindset
+
+506
+00:32:21,501 --> 00:32:24,440
+of I'm just a tall person, and I need to take strides
+
+507
+00:32:24,441 --> 00:32:27,700
+and work like a tall person biomechanically.
+
+508
+00:32:27,701 --> 00:32:30,400
+And then I also have to make sure that it might focus
+
+509
+00:32:30,401 --> 00:32:31,320
+is around.
+
+510
+00:32:31,340 --> 00:32:32,340
+not at the ground.
+
+511
+00:32:32,341 --> 00:32:36,340
+Because typically, you don't walk around looking straight down.
+
+512
+00:32:36,341 --> 00:32:37,340
+Why you're looking down?
+
+513
+00:32:37,341 --> 00:32:38,340
+That's one.
+
+514
+00:32:38,341 --> 00:32:42,340
+Look too often at the ground, and that's where you'll end up.
+
+515
+00:32:42,341 --> 00:32:47,340
+And once you're there, how do you get back up?
+
+516
+00:32:47,341 --> 00:32:48,340
+One leg here.
+
+517
+00:32:48,341 --> 00:32:52,340
+What I typically do is just teach people to get on their elbows,
+
+518
+00:32:52,341 --> 00:32:54,340
+strad their legs slightly, and kind of walk themselves up,
+
+519
+00:32:54,341 --> 00:32:56,340
+and then stand up.
+
+520
+00:32:56,341 --> 00:32:57,340
+Push.
+
+521
+00:32:57,341 --> 00:32:58,340
+He's up.
+
+522
+00:32:58,341 --> 00:33:00,340
+In the beginning, it's really, like, awkward walking.
+
+523
+00:33:00,341 --> 00:33:06,180
+we're walking because like your body doesn't respond but after you walk and have some help
+
+524
+00:33:06,181 --> 00:33:11,700
+you start feeling really fine walking around and you just want to like try to jump higher and
+
+525
+00:33:11,701 --> 00:33:21,780
+higher see what you can do how high you can get but Jeff's not stopping with these super stilts
+
+526
+00:33:21,781 --> 00:33:30,320
+he's envisioning an enhanced version that won't make the user work so hard his current model requires a
+
+527
+00:33:30,340 --> 00:33:33,340
+100% effort to run at 23 miles per hour.
+
+528
+00:33:33,341 --> 00:33:37,340
+His new one would get you up to speed without even raising your pulse rate.
+
+529
+00:33:37,341 --> 00:33:43,340
+This will allow you to use 20%, 25% of your energy to run 25 miles an hour.
+
+530
+00:33:43,341 --> 00:33:47,340
+So basically, the still is going to be able to run for you.
+
+531
+00:33:47,341 --> 00:33:51,340
+As Jeff advances our quest for super-powered legs,
+
+532
+00:33:51,341 --> 00:33:57,340
+what about the possibility of bionic arms 500 times stronger than our own?
+
+533
+00:33:57,341 --> 00:34:01,680
+or a shirt that could help you lift a car.
+
+534
+00:34:03,280 --> 00:34:06,780
+At the Nanotech Institute at the University of Texas at Dallas,
+
+535
+00:34:07,660 --> 00:34:09,420
+scientists are taking the first steps
+
+536
+00:34:09,421 --> 00:34:12,020
+to make these superhuman fantasies come true.
+
+537
+00:34:13,860 --> 00:34:17,260
+One of their developments is a super strong artificial muscle,
+
+538
+00:34:18,300 --> 00:34:20,100
+worthy of the $6 million man.
+
+539
+00:34:20,760 --> 00:34:23,260
+Many men can lift 200 pounds.
+
+540
+00:34:23,261 --> 00:34:30,560
+If they had the strength of our artificial muscles that we've invented,
+
+541
+00:34:31,460 --> 00:34:37,700
+they could lift 500 times that amount, or about 50 tons.
+
+542
+00:34:39,320 --> 00:34:42,620
+The artificial muscle Professor Bachman just mentioned
+
+543
+00:34:42,621 --> 00:34:46,360
+is a spring-shaped alloy of metals like nickel and titanium,
+
+544
+00:34:47,120 --> 00:34:47,960
+fueled by methanol.
+
+545
+00:34:49,420 --> 00:34:50,860
+Wondering how it all works?
+
+546
+00:34:50,861 --> 00:34:55,100
+The coiled wire has a coating of tiny platinum particles.
+
+547
+00:34:56,360 --> 00:34:59,440
+The methanol is released into the air surrounding the wire.
+
+548
+00:35:00,600 --> 00:35:05,140
+Acting as a catalyst, the platinum enables the methanol to react with the air's oxygen,
+
+549
+00:35:05,980 --> 00:35:06,700
+heating the wire.
+
+550
+00:35:07,720 --> 00:35:10,920
+The heat makes the wire contract, just like a human muscle.
+
+551
+00:35:11,900 --> 00:35:17,100
+What's happening here in a simple demonstration is that the fuel,
+
+552
+00:35:17,101 --> 00:35:19,100
+methanol is evaporating.
+
+553
+00:35:19,101 --> 00:35:23,100
+If the arm is lower, closer to the methanol,
+
+554
+00:35:23,101 --> 00:35:26,100
+the methanol combines with the oxygen
+
+555
+00:35:26,101 --> 00:35:29,100
+in order to cause a contraction, which lifts the arm.
+
+556
+00:35:29,101 --> 00:35:34,100
+On the other hand, when the arm is lifted far away from the methanol,
+
+557
+00:35:34,101 --> 00:35:38,100
+then it no longer has sufficient methanol to stay warm,
+
+558
+00:35:38,101 --> 00:35:40,100
+and it drops down.
+
+559
+00:35:40,101 --> 00:35:43,100
+Within even a few years,
+
+560
+00:35:43,101 --> 00:35:45,100
+these super-powered muscles could be used
+
+561
+00:35:45,101 --> 00:35:49,100
+could be used to improve anything from robots to prosthetic limbs.
+
+562
+00:35:51,100 --> 00:35:55,100
+Today's robotic devices and prosthetic limbs
+
+563
+00:35:55,101 --> 00:36:00,100
+utilize ordinary motors and hydraulic systems.
+
+564
+00:36:00,101 --> 00:36:03,100
+Artificial muscles that we've invented
+
+565
+00:36:03,101 --> 00:36:06,100
+are more like natural muscle.
+
+566
+00:36:07,100 --> 00:36:11,100
+For those that need superpower strength without the metal makeover,
+
+567
+00:36:11,101 --> 00:36:14,100
+the experts at the Nanotech Institute are developing artificial muscles
+
+568
+00:36:14,101 --> 00:36:17,300
+muscles that can be woven into clothing.
+
+569
+00:36:17,301 --> 00:36:21,520
+Their textile fibers are made from carbon nanotubes.
+
+570
+00:36:21,521 --> 00:36:23,640
+Each can be smaller than one 10,000th
+
+571
+00:36:23,641 --> 00:36:26,180
+the diameter of a typical human hair,
+
+572
+00:36:26,181 --> 00:36:29,840
+but 50 times stronger than a typical human muscle.
+
+573
+00:36:29,841 --> 00:36:35,980
+Carbon nanotubes are like minute cylinders of carbon,
+
+574
+00:36:35,981 --> 00:36:40,000
+seamless cylinders of carbon, but they have a diameter
+
+575
+00:36:40,001 --> 00:36:43,140
+that can be as small as one nanometer.
+
+576
+00:36:43,141 --> 00:36:46,340
+To give you an idea of the size of a nanometer,
+
+577
+00:36:46,341 --> 00:36:50,740
+think of the size of a marble
+
+578
+00:36:50,741 --> 00:36:53,540
+to the diameter of the world.
+
+579
+00:36:53,541 --> 00:36:58,740
+That's the ratio of one nanometer to one meter.
+
+580
+00:36:59,840 --> 00:37:03,200
+Making these mini-fibers blessed with maxi strength
+
+581
+00:37:03,201 --> 00:37:06,120
+begins as the scientists burn hydrocarbon molecules
+
+582
+00:37:06,121 --> 00:37:09,200
+at nearly 1,300 degrees Fahrenheit,
+
+583
+00:37:09,201 --> 00:37:12,100
+over a catalyst material made of iron.
+
+584
+00:37:12,101 --> 00:37:13,120
+As the gas burns,
+
+585
+00:37:13,140 --> 00:37:15,140
+carbon residue collects on the catalyst,
+
+586
+00:37:15,141 --> 00:37:18,140
+growing a dense forest of carbon nanotubes
+
+587
+00:37:18,141 --> 00:37:20,140
+and a flexible metal sheet.
+
+588
+00:37:20,141 --> 00:37:23,140
+If you'll think of a forest,
+
+589
+00:37:23,141 --> 00:37:26,140
+just a lot of trees all standing up, right?
+
+590
+00:37:26,141 --> 00:37:29,140
+So when we pull these sheets, what you do is you take something that sticky,
+
+591
+00:37:29,141 --> 00:37:31,140
+you touch the end of the forest, and as you pull,
+
+592
+00:37:31,141 --> 00:37:33,140
+in other words, you're pulling these trees down.
+
+593
+00:37:33,141 --> 00:37:37,140
+But as they're falling over, they're still made contact with the other ones.
+
+594
+00:37:37,141 --> 00:37:38,140
+So they're sticking to each other.
+
+595
+00:37:38,141 --> 00:37:42,140
+The amount of material that you can pull from these is a large.
+
+596
+00:37:42,141 --> 00:37:44,140
+A large, really large.
+
+597
+00:37:44,141 --> 00:37:46,640
+For every centimeter of nanotube forest,
+
+598
+00:37:46,641 --> 00:37:51,640
+nearly four meters of this ultralight yarn can be spun.
+
+599
+00:37:51,641 --> 00:37:54,640
+When you first pull these carbon nanotubes from the forest,
+
+600
+00:37:54,641 --> 00:37:57,140
+it comes out in a sheet presentation.
+
+601
+00:37:57,141 --> 00:37:59,140
+But then you attach the end of that to a spindle,
+
+602
+00:37:59,141 --> 00:38:01,640
+which is spinning, and it twists it,
+
+603
+00:38:01,641 --> 00:38:04,140
+so now you have a yarn.
+
+604
+00:38:04,141 --> 00:38:08,140
+The challenge the university scientists are working on now
+
+605
+00:38:08,141 --> 00:38:10,640
+is weaving these ultra-light super-strong yarns
+
+606
+00:38:10,641 --> 00:38:14,640
+into a super suit as effective as Sarkos exoskeleton.
+
+607
+00:38:16,640 --> 00:38:19,640
+Such high-tech could reempower those who have lost limbs.
+
+608
+00:38:21,640 --> 00:38:26,640
+But another bold new innovation could one day give them the power to regrow them.
+
+609
+00:38:32,640 --> 00:38:35,640
+Thousands of soldiers have been wounded in Iraq.
+
+610
+00:38:38,640 --> 00:38:39,640
+And nearly 6% required applications.
+
+611
+00:38:39,641 --> 00:38:44,640
+required amputation, a rate double that of any previous U.S. war.
+
+612
+00:38:44,641 --> 00:38:49,640
+The only option these soldiers and other amputees have is prosthetics.
+
+613
+00:38:49,641 --> 00:38:54,640
+But scientists at the University of Pittsburgh's McGowan Institute
+
+614
+00:38:54,641 --> 00:38:57,640
+are taking the first steps toward a superhuman alternative.
+
+615
+00:38:57,641 --> 00:39:02,640
+Using animal organ tissue, they're developing revolutionary biotechnology
+
+616
+00:39:02,641 --> 00:39:05,640
+that might one day enable people to regrow lost limbs.
+
+617
+00:39:05,641 --> 00:39:08,640
+Their expertise is called regenerative medicine.
+
+618
+00:39:08,641 --> 00:39:15,640
+Regenerative medicine is the science of learning how to basically grow body parts.
+
+619
+00:39:15,641 --> 00:39:22,640
+The key tool in regenerative medicine is called extracellular matrix, or ECM.
+
+620
+00:39:22,641 --> 00:39:30,640
+It's an organic material virtually identical in all animal organs that forms the framework that holds the organ cells together.
+
+621
+00:39:30,641 --> 00:39:37,640
+The extracellular matrix is literally hundreds and hundreds of structural and functional proteins.
+
+622
+00:39:37,641 --> 00:39:41,680
+proteins. All these things are arranged in a very unique three-dimensional
+
+623
+00:39:41,681 --> 00:39:45,640
+organization. And both the
+
+624
+00:39:45,641 --> 00:39:50,880
+three-dimensional architecture of the matrix, as well as the individual
+
+625
+00:39:50,881 --> 00:39:55,140
+molecules, the components of it, are important in achieving a wound
+
+626
+00:39:55,141 --> 00:39:58,580
+healing result that is more regenerative than scarring.
+
+627
+00:39:59,580 --> 00:40:04,180
+We collect discarded materials as a byproduct of the agricultural
+
+628
+00:40:04,181 --> 00:40:07,540
+industry, and we take the tissue, bring it back to the
+
+629
+00:40:07,640 --> 00:40:12,640
+and then we remove the cells from the tissue,
+
+630
+00:40:12,641 --> 00:40:16,640
+leaving only the extracellular matrix.
+
+631
+00:40:19,640 --> 00:40:22,640
+Scientists then wash the ECM in parasitic acid
+
+632
+00:40:22,641 --> 00:40:24,640
+for two hours to disinfect it.
+
+633
+00:40:28,640 --> 00:40:31,640
+It's then dried and can be formed into various shapes.
+
+634
+00:40:31,641 --> 00:40:34,640
+If we get it from the dermis and the skin,
+
+635
+00:40:34,641 --> 00:40:35,640
+it looks like a sheet.
+
+636
+00:40:35,641 --> 00:40:36,640
+We can turn the matrix into a sheet.
+
+637
+00:40:36,641 --> 00:40:40,880
+the matrix into a very fine powder that can be suspended in water
+
+638
+00:40:40,881 --> 00:40:43,880
+or some other carrier that can be injected.
+
+639
+00:40:43,881 --> 00:40:45,980
+When the extracellular matrix is applied
+
+640
+00:40:45,981 --> 00:40:48,880
+to the damaged area, it bonds with the body's
+
+641
+00:40:48,881 --> 00:40:52,480
+natural healing agents and promotes normal regrowth
+
+642
+00:40:52,481 --> 00:40:54,600
+rather than scarring.
+
+643
+00:40:54,601 --> 00:40:58,000
+We can literally sprinkle it on an open wound site
+
+644
+00:40:58,001 --> 00:41:02,800
+and get a very rapid response to the components
+
+645
+00:41:02,801 --> 00:41:04,800
+of the matrix that are there.
+
+646
+00:41:04,801 --> 00:41:06,640
+Could this be the first small step
+
+647
+00:41:06,641 --> 00:41:10,640
+toward a new age of superhumans able to regenerate not just surface tissue,
+
+648
+00:41:10,641 --> 00:41:12,640
+but also bone and complex organs.
+
+649
+00:41:12,641 --> 00:41:17,640
+The field of regenerative medicine would have an ultimate goal
+
+650
+00:41:17,641 --> 00:41:21,640
+of being able to grow any body part for replacement
+
+651
+00:41:21,641 --> 00:41:23,640
+in a patient that needs it.
+
+652
+00:41:23,641 --> 00:41:26,640
+You need a heart, let's build you a heart.
+
+653
+00:41:26,641 --> 00:41:29,640
+You lost a limb, we'll teach you how to regrow your limb.
+
+654
+00:41:29,641 --> 00:41:31,640
+If regenerative medicine is successful,
+
+655
+00:41:31,641 --> 00:41:35,640
+it will result in a paradigm shift in the way that medicine is very
+
+656
+00:41:35,641 --> 00:41:37,640
+medicine is practiced.
+
+657
+00:41:37,641 --> 00:41:41,640
+And perhaps the superpower to grow lost limbs for everyone.
+
+658
+00:41:43,640 --> 00:41:46,640
+What's our next leap in our quest to be superhuman?
+
+659
+00:41:50,640 --> 00:41:52,640
+Time and technology will tell.
+
+660
+00:41:54,640 --> 00:41:58,640
+Whatever the future holds, the search itself
+
+661
+00:42:00,640 --> 00:42:02,640
+is a super ride.
+

@@ -1,0 +1,3316 @@
+1
+00:00:00,001 --> 00:00:07,000
+It has revolutionized the way we work, play, travel, and communicate.
+
+2
+00:00:07,001 --> 00:00:10,000
+It touches almost every part of our lives.
+
+3
+00:00:10,001 --> 00:00:16,000
+It has helped win wars, solve insoluble problems, and send us into space.
+
+4
+00:00:16,001 --> 00:00:21,000
+Its invention is the story of squandered chances, fortunate accidents,
+
+5
+00:00:21,001 --> 00:00:25,000
+frequent missteps, and unprecedented genius.
+
+6
+00:00:25,001 --> 00:00:30,000
+Now the creation of the computer on Modern Marvels.
+
+7
+00:00:52,671 --> 00:00:58,200
+Our world is increasingly filled with countless wonders that would not have been possible without
+
+8
+00:00:58,201 --> 00:01:00,540
+one machine, the computer.
+
+9
+00:01:00,640 --> 00:01:02,900
+Although computers are enormously intricate,
+
+10
+00:01:03,000 --> 00:01:05,940
+their most basic components consist of simple devices
+
+11
+00:01:06,040 --> 00:01:09,980
+that can be switched to either one of two states, on or off.
+
+12
+00:01:10,080 --> 00:01:12,740
+The computer creates its magic by calculating
+
+13
+00:01:12,840 --> 00:01:15,480
+with a speed and accuracy that far surpasses
+
+14
+00:01:15,580 --> 00:01:17,760
+its human inventors.
+
+15
+00:01:17,860 --> 00:01:20,660
+Computers stagger the mind with their complexity.
+
+16
+00:01:20,760 --> 00:01:24,360
+But simply put, a computer takes information, processes it,
+
+17
+00:01:24,460 --> 00:01:26,160
+and then outputs a result.
+
+18
+00:01:26,161 --> 00:01:31,560
+It's all done with a unique partnership of hardware and software.
+
+19
+00:01:31,660 --> 00:01:33,200
+Hardware comes in boxes.
+
+20
+00:01:33,300 --> 00:01:35,700
+They're the physical components, such as the monitor
+
+21
+00:01:35,800 --> 00:01:37,200
+and hard drive.
+
+22
+00:01:37,300 --> 00:01:39,480
+Software comes on disks.
+
+23
+00:01:39,580 --> 00:01:41,440
+Software consists of instructions
+
+24
+00:01:41,540 --> 00:01:43,820
+that tell the computer what to do.
+
+25
+00:01:43,920 --> 00:01:46,420
+One way to start this computational partnership
+
+26
+00:01:46,520 --> 00:01:49,520
+is to type on the keyboard, providing input.
+
+27
+00:01:49,620 --> 00:01:52,480
+The input is picked up by the central processing unit,
+
+28
+00:01:52,580 --> 00:01:56,160
+or CPU, the computer's brain.
+
+29
+00:01:56,161 --> 00:01:58,540
+Using instructions provided by software,
+
+30
+00:01:58,541 --> 00:02:01,060
+the CPU processes the input.
+
+31
+00:02:01,061 --> 00:02:04,900
+The magic behind the CPU is its blinding speed.
+
+32
+00:02:04,901 --> 00:02:07,800
+Modern processors are measured in MIPS,
+
+33
+00:02:07,801 --> 00:02:10,440
+millions of instructions per second.
+
+34
+00:02:10,441 --> 00:02:13,160
+While processing, the CPU may receive data stored
+
+35
+00:02:13,161 --> 00:02:15,820
+in random access memory known as RAM,
+
+36
+00:02:15,821 --> 00:02:18,480
+or data stored on hard drive.
+
+37
+00:02:18,481 --> 00:02:20,800
+Modern RAM is so quick that every second
+
+38
+00:02:20,801 --> 00:02:23,820
+it can send the equivalent of 10,000 typewritten pages
+
+39
+00:02:23,821 --> 00:02:26,760
+of information to the CPU.
+
+40
+00:02:26,761 --> 00:02:30,860
+And modern hard drives can store the equivalent of 250,000 pages
+
+41
+00:02:30,861 --> 00:02:33,180
+of typewritten material.
+
+42
+00:02:33,181 --> 00:02:36,300
+After processing the CPU outputs information, often
+
+43
+00:02:36,301 --> 00:02:40,480
+on a monitor, the whole procedure is usually so quick
+
+44
+00:02:40,481 --> 00:02:43,800
+that it appears instantaneous.
+
+45
+00:02:43,801 --> 00:02:45,780
+Today, computers are so commonplace,
+
+46
+00:02:45,781 --> 00:02:47,300
+we take them for granted.
+
+47
+00:02:47,301 --> 00:02:49,780
+But not long ago, computers only existed
+
+48
+00:02:49,781 --> 00:02:53,160
+in the imagination of a few visionaries.
+
+49
+00:02:53,820 --> 00:02:55,860
+that could figure quickly and accurately
+
+50
+00:02:55,960 --> 00:02:59,960
+has seized the human imagination for thousands of years.
+
+51
+00:03:00,060 --> 00:03:02,300
+In fact, the computer's family tree
+
+52
+00:03:02,400 --> 00:03:05,900
+has roots so deep in the past, it is impossible to know
+
+53
+00:03:06,000 --> 00:03:07,300
+exactly where they begin.
+
+54
+00:03:14,840 --> 00:03:18,440
+By the early 19th century, the European Industrial Revolution
+
+55
+00:03:18,540 --> 00:03:20,580
+was well underway.
+
+56
+00:03:20,680 --> 00:03:22,820
+And the development in production and commerce
+
+57
+00:03:22,821 --> 00:03:26,720
+and commerce came from the maturing fields of engineering,
+
+58
+00:03:26,820 --> 00:03:31,920
+navigation, surveying, finance, and science.
+
+59
+00:03:32,020 --> 00:03:34,000
+The practical application of these fields
+
+60
+00:03:34,100 --> 00:03:37,000
+relied on volume after volume of tables,
+
+61
+00:03:37,100 --> 00:03:40,540
+tables for trigonometry, tides, interest rates,
+
+62
+00:03:40,640 --> 00:03:43,040
+multiplication, and gravity.
+
+63
+00:03:43,140 --> 00:03:44,500
+Tables were critical.
+
+64
+00:03:44,600 --> 00:03:47,120
+The actual figuring was done by people who specialized
+
+65
+00:03:47,220 --> 00:03:49,320
+in mathematical computation.
+
+66
+00:03:49,420 --> 00:03:52,820
+Surprisingly, these people had a familiar job title.
+
+67
+00:03:52,821 --> 00:03:55,160
+were called computers.
+
+68
+00:03:55,260 --> 00:03:58,720
+These human computers toiled over their tables incessantly,
+
+69
+00:03:58,820 --> 00:04:01,960
+monotonously, and made mistakes.
+
+70
+00:04:02,060 --> 00:04:05,100
+Typically, tables were full of errors.
+
+71
+00:04:05,200 --> 00:04:07,140
+The requirement for accurate tables
+
+72
+00:04:07,240 --> 00:04:10,240
+introduced one of the most eccentric and brilliant figures
+
+73
+00:04:10,340 --> 00:04:15,440
+into the story of computers, Charles Babbage.
+
+74
+00:04:15,540 --> 00:04:17,320
+Oh, Babbage was an extraordinary scientist.
+
+75
+00:04:17,420 --> 00:04:18,740
+I mean, Babbage was a great scientist.
+
+76
+00:04:18,840 --> 00:04:21,780
+Babbage was 100 years ahead of his time.
+
+77
+00:04:21,781 --> 00:04:23,240
+You can't say that about many people,
+
+78
+00:04:23,340 --> 00:04:25,220
+but you could say that about Babbage.
+
+79
+00:04:25,320 --> 00:04:28,520
+Charles Babbage represented that extraordinary element
+
+80
+00:04:28,620 --> 00:04:32,220
+of British society, the scientist aristocrat.
+
+81
+00:04:32,320 --> 00:04:34,920
+Many were known for their eccentricities,
+
+82
+00:04:35,020 --> 00:04:37,520
+and Babbage was no exception.
+
+83
+00:04:37,620 --> 00:04:40,740
+As a youth, Babbage devised footwear of hinged boards
+
+84
+00:04:40,840 --> 00:04:43,840
+intended to allow him to walk on water.
+
+85
+00:04:43,940 --> 00:04:46,980
+Never one to shirk adventure, he tried them out himself,
+
+86
+00:04:47,080 --> 00:04:49,640
+but flipped over and nearly drowned.
+
+87
+00:04:49,641 --> 00:04:52,400
+demonstrated his brilliance in mathematics while attending
+
+88
+00:04:52,500 --> 00:04:54,340
+Trinity College in Cambridge.
+
+89
+00:04:54,440 --> 00:04:58,140
+In 1820, Babbage was checking the accuracy of calculations
+
+90
+00:04:58,240 --> 00:05:00,720
+made for the Royal Astronomical Society
+
+91
+00:05:00,820 --> 00:05:02,620
+and kept finding errors.
+
+92
+00:05:02,720 --> 00:05:05,120
+He reasoned that a machine could be constructed
+
+93
+00:05:05,220 --> 00:05:07,760
+that would calculate the tables and directly
+
+94
+00:05:07,860 --> 00:05:09,200
+print the results.
+
+95
+00:05:09,300 --> 00:05:12,600
+He called the machine the difference engine.
+
+96
+00:05:12,700 --> 00:05:15,000
+He drew up plans for a section of the device
+
+97
+00:05:15,100 --> 00:05:18,940
+and had it built with his own funds in 1822.
+
+98
+00:05:18,941 --> 00:05:22,240
+Babbage couldn't pay for the construction of the entire device,
+
+99
+00:05:22,340 --> 00:05:23,880
+but since the greatest beneficiaries
+
+100
+00:05:23,980 --> 00:05:26,020
+would be the British government and people,
+
+101
+00:05:26,120 --> 00:05:28,380
+he made the extraordinary step of petitioning
+
+102
+00:05:28,480 --> 00:05:30,120
+the government for a grant.
+
+103
+00:05:30,220 --> 00:05:37,020
+In 1823, the Treasury provided the project with startup funds.
+
+104
+00:05:37,120 --> 00:05:39,560
+Government support for the computer industry is nothing
+
+105
+00:05:39,660 --> 00:05:40,660
+new.
+
+106
+00:05:40,760 --> 00:05:43,360
+It's very much a big topic in the news today,
+
+107
+00:05:43,460 --> 00:05:45,060
+and it will continue to be.
+
+108
+00:05:45,160 --> 00:05:47,800
+Computing is an expensive proposition,
+
+109
+00:05:47,801 --> 00:05:50,560
+And it usually requires some government support
+
+110
+00:05:50,660 --> 00:05:52,100
+if it's going to get anywhere.
+
+111
+00:05:52,200 --> 00:05:54,500
+Babbage hired a mechanical engineer
+
+112
+00:05:54,600 --> 00:05:57,840
+set to work on a complete design for the difference engine,
+
+113
+00:05:57,940 --> 00:06:00,840
+and immediately ran into difficulties.
+
+114
+00:06:00,940 --> 00:06:02,780
+The mechanical machine shops of the time
+
+115
+00:06:02,880 --> 00:06:04,980
+were not advanced enough to produce parts
+
+116
+00:06:05,080 --> 00:06:08,380
+in the precise measurements that Babbage's plans required.
+
+117
+00:06:08,480 --> 00:06:10,760
+So Babbage designed better machine tools,
+
+118
+00:06:10,860 --> 00:06:13,760
+which would eventually improve the entire state of British
+
+119
+00:06:13,860 --> 00:06:16,020
+tool manufacturing.
+
+120
+00:06:16,021 --> 00:06:19,720
+By 1829, Babbage had spent the 1,500-pound grant
+
+121
+00:06:19,820 --> 00:06:22,120
+from the government, and even more than that,
+
+122
+00:06:22,220 --> 00:06:24,160
+from his own funds.
+
+123
+00:06:24,260 --> 00:06:26,560
+But only a few bits and pieces of machine
+
+124
+00:06:26,660 --> 00:06:28,960
+had been completed.
+
+125
+00:06:29,060 --> 00:06:33,580
+Babbage's project began to attract critics.
+
+126
+00:06:33,680 --> 00:06:36,940
+He was plagued by several problems, one of his problems
+
+127
+00:06:37,040 --> 00:06:41,020
+being his perfectionism, another problem being that his work
+
+128
+00:06:41,120 --> 00:06:45,720
+was not understood or appreciated by the people
+
+129
+00:06:45,721 --> 00:06:46,880
+of his time.
+
+130
+00:06:46,980 --> 00:06:49,220
+Babbage had many enemies.
+
+131
+00:06:49,320 --> 00:06:52,160
+Even London's organ grinders despised him
+
+132
+00:06:52,260 --> 00:06:54,960
+because he had tried to have them banned as their music
+
+133
+00:06:55,060 --> 00:06:57,160
+interfered with his thinking.
+
+134
+00:06:57,260 --> 00:06:59,800
+But the inventor continued to toil.
+
+135
+00:06:59,900 --> 00:07:02,640
+And finally, in 1832, there were enough parts
+
+136
+00:07:02,740 --> 00:07:05,080
+to assemble a section of the engine.
+
+137
+00:07:05,180 --> 00:07:08,000
+It functioned perfectly, solving equations
+
+138
+00:07:08,100 --> 00:07:10,540
+and producing six-digit results.
+
+139
+00:07:10,640 --> 00:07:14,380
+But it was only a small part of the proposed machine.
+
+140
+00:07:14,381 --> 00:07:17,280
+The skyrocketing costs and lack of results
+
+141
+00:07:17,380 --> 00:07:19,660
+finally made the government pull its support
+
+142
+00:07:19,760 --> 00:07:20,560
+from the project.
+
+143
+00:07:22,920 --> 00:07:24,920
+Although disappointed by the cancellation,
+
+144
+00:07:25,020 --> 00:07:27,720
+Babbage had contributed to the project's demise
+
+145
+00:07:27,820 --> 00:07:30,500
+by suggesting that a new device he had conceived,
+
+146
+00:07:30,600 --> 00:07:33,840
+the analytical engine, would be vastly superior
+
+147
+00:07:33,940 --> 00:07:37,000
+to his old design.
+
+148
+00:07:37,100 --> 00:07:41,000
+Babbage, in hindsight, probably should have finished
+
+149
+00:07:41,001 --> 00:07:44,700
+the difference engine and seen how far he could have gone
+
+150
+00:07:44,800 --> 00:07:48,240
+with that before starting the analytical engine.
+
+151
+00:07:48,340 --> 00:07:50,240
+There's no question that the analytical engine
+
+152
+00:07:50,340 --> 00:07:53,740
+was more than he could handle.
+
+153
+00:07:53,840 --> 00:07:56,440
+Babbage was obsessed with his new idea.
+
+154
+00:07:56,540 --> 00:07:58,960
+With the analytical engine, Babbage asked himself,
+
+155
+00:07:59,060 --> 00:08:00,560
+why not build a machine that could
+
+156
+00:08:00,660 --> 00:08:03,260
+solve any mathematical problem?
+
+157
+00:08:03,360 --> 00:08:07,200
+At the age of 43, Babbage had the vision of a computer,
+
+158
+00:08:07,300 --> 00:08:10,260
+a vision he pursued for the rest of his life,
+
+159
+00:08:10,261 --> 00:08:13,960
+The extraordinary fact is that Babbage's overall design
+
+160
+00:08:14,060 --> 00:08:17,600
+for the analytical engine had many components analogous
+
+161
+00:08:17,700 --> 00:08:20,300
+to those in a modern computer.
+
+162
+00:08:20,400 --> 00:08:22,200
+The heart of the machine, the mill,
+
+163
+00:08:22,300 --> 00:08:25,700
+made the calculations, like the central processing unit
+
+164
+00:08:25,800 --> 00:08:27,620
+of modern computers.
+
+165
+00:08:27,720 --> 00:08:30,820
+An oblong structure, the store held numbers
+
+166
+00:08:30,920 --> 00:08:36,120
+to be used in the calculations, like modern computer memory.
+
+167
+00:08:36,220 --> 00:08:39,060
+Instructions and numbers could be fed into the machine
+
+168
+00:08:39,061 --> 00:08:41,360
+using punch cards.
+
+169
+00:08:41,460 --> 00:08:43,400
+Much of what we know about the workings
+
+170
+00:08:43,500 --> 00:08:46,300
+of the analytical engine came from the writings
+
+171
+00:08:46,400 --> 00:08:49,340
+of Ada Countess of Lovelace.
+
+172
+00:08:49,440 --> 00:08:53,380
+Among the people who understood what Babbage was doing
+
+173
+00:08:53,480 --> 00:08:58,940
+was a woman named Ada Augusta, who was the daughter of,
+
+174
+00:08:59,040 --> 00:09:01,980
+one of the daughters of Lord Byron, the poet.
+
+175
+00:09:02,080 --> 00:09:05,560
+She had studied mathematics as a child
+
+176
+00:09:05,660 --> 00:09:07,480
+and had quite a bit of talent.
+
+177
+00:09:07,481 --> 00:09:10,480
+Ada met Babbage at one of his famous dinner parties that
+
+178
+00:09:10,580 --> 00:09:13,460
+were often attended by the luminaries of British science
+
+179
+00:09:13,560 --> 00:09:15,020
+and engineering.
+
+180
+00:09:15,120 --> 00:09:18,120
+Babbage demonstrated the working section of the difference
+
+181
+00:09:18,220 --> 00:09:22,100
+engine for her, and she was immediately captivated by it.
+
+182
+00:09:22,200 --> 00:09:25,440
+She published a simple description of Babbage's vision
+
+183
+00:09:25,540 --> 00:09:28,940
+for the analytical engine.
+
+184
+00:09:29,040 --> 00:09:32,000
+Ada wrote some descriptions of it,
+
+185
+00:09:32,100 --> 00:09:34,880
+and she also appended to these descriptions
+
+186
+00:09:34,881 --> 00:09:40,120
+a hypothetical way that this machine could solve an equation.
+
+187
+00:09:40,220 --> 00:09:42,620
+And on the basis of those descriptions,
+
+188
+00:09:42,720 --> 00:09:46,020
+people often call her the world's first programmer.
+
+189
+00:09:46,120 --> 00:09:49,120
+But she was never to program a real machine.
+
+190
+00:09:49,220 --> 00:09:51,360
+As Babbage entered the last years of his life,
+
+191
+00:09:51,460 --> 00:09:53,800
+his great work was unfinished.
+
+192
+00:09:53,900 --> 00:09:56,640
+He had become cranky and suffered constant attack
+
+193
+00:09:56,740 --> 00:09:58,740
+by his many enemies.
+
+194
+00:09:58,840 --> 00:10:01,480
+In 1871, when London's organ grinders
+
+195
+00:10:01,580 --> 00:10:03,640
+discovered that Babbage was ill, they
+
+196
+00:10:03,641 --> 00:10:06,140
+They surrounded his house and serenaded him,
+
+197
+00:10:06,141 --> 00:10:09,340
+increasing his agony until he died.
+
+198
+00:10:09,341 --> 00:10:11,880
+Only a small portion of the analytical engine
+
+199
+00:10:11,881 --> 00:10:15,880
+was built in Babbage's lifetime.
+
+200
+00:10:15,881 --> 00:10:19,660
+Babbage's vision of the computer fell into obscurity,
+
+201
+00:10:19,661 --> 00:10:22,700
+and except for the detailed texts left by Ada
+
+202
+00:10:22,701 --> 00:10:24,100
+could well have been forgotten.
+
+203
+00:10:26,920 --> 00:10:29,840
+Babbage's machines, which were never finished, which existed
+
+204
+00:10:29,841 --> 00:10:33,500
+for the most part only on paper, were proto-computers.
+
+205
+00:10:33,501 --> 00:10:34,660
+They were mechanical.
+
+206
+00:10:34,760 --> 00:10:35,560
+They used gears.
+
+207
+00:10:35,660 --> 00:10:38,240
+They used metal shafts.
+
+208
+00:10:38,340 --> 00:10:40,240
+They weren't computers in our sense of the term.
+
+209
+00:10:40,340 --> 00:10:42,740
+That is, they weren't electronic digital computers.
+
+210
+00:10:42,840 --> 00:10:47,740
+But they were abstractly and on paper mechanical computers.
+
+211
+00:10:47,840 --> 00:10:51,280
+It would be nearly 100 years before a programmable
+
+212
+00:10:51,380 --> 00:10:54,180
+computation device would again be conceived.
+
+213
+00:10:57,320 --> 00:10:59,700
+Babbage predicted it would take just three years
+
+214
+00:10:59,800 --> 00:11:01,700
+to complete the Difference Engine.
+
+215
+00:11:01,701 --> 00:11:03,200
+It actually took him 14.
+
+216
+00:11:06,540 --> 00:11:08,740
+In the second half of the 19th century,
+
+217
+00:11:08,840 --> 00:11:13,940
+America's population increased 35% each decade.
+
+218
+00:11:14,040 --> 00:11:16,240
+America's exploding population began
+
+219
+00:11:16,340 --> 00:11:19,480
+to endanger one of its great institutions,
+
+220
+00:11:19,580 --> 00:11:23,160
+the American census.
+
+221
+00:11:23,260 --> 00:11:27,220
+The census, which is required by the Constitution
+
+222
+00:11:27,221 --> 00:11:33,820
+to be held every 10 years was still being done by old-fashioned
+
+223
+00:11:33,920 --> 00:11:37,760
+people making check marks on pieces of paper.
+
+224
+00:11:37,860 --> 00:11:41,160
+And it simply couldn't keep up with the tremendous surge
+
+225
+00:11:41,260 --> 00:11:44,200
+of population in the US.
+
+226
+00:11:44,300 --> 00:11:47,800
+The crisis reached ahead in 1887.
+
+227
+00:11:47,900 --> 00:11:50,540
+The Census Bureau was still hand-tallying the data
+
+228
+00:11:50,640 --> 00:11:52,920
+from the 1880 census.
+
+229
+00:11:53,020 --> 00:11:54,980
+Desperate for relief, the Bureau
+
+230
+00:11:54,981 --> 00:11:57,520
+The Bureau pleaded for any method that could speed up
+
+231
+00:11:57,620 --> 00:12:00,720
+the counting of the 1890 census.
+
+232
+00:12:00,820 --> 00:12:03,060
+The superintendent of the census had proposals
+
+233
+00:12:03,160 --> 00:12:07,120
+for three systems, so he decided to stage a contest.
+
+234
+00:12:07,220 --> 00:12:09,620
+Two of the systems relied on hand counting.
+
+235
+00:12:09,720 --> 00:12:12,440
+The third, developed by a young, rather humorless,
+
+236
+00:12:12,540 --> 00:12:15,600
+former MIT instructor named Herman Hollerith,
+
+237
+00:12:15,700 --> 00:12:18,500
+used punched cards.
+
+238
+00:12:18,600 --> 00:12:21,380
+Punch cards would one day become the standard method
+
+239
+00:12:21,381 --> 00:12:25,580
+high volumes of data into computers.
+
+240
+00:12:25,680 --> 00:12:29,520
+Now, where he got this idea, we are not sure.
+
+241
+00:12:29,620 --> 00:12:32,660
+He may have been inspired by the fact
+
+242
+00:12:32,760 --> 00:12:36,620
+that a conductor on a railroad punches your ticket
+
+243
+00:12:36,720 --> 00:12:38,640
+when you hand it to him.
+
+244
+00:12:38,740 --> 00:12:41,200
+Hollerith's system beat the others easily.
+
+245
+00:12:41,300 --> 00:12:43,060
+In the tabulation portion of the test,
+
+246
+00:12:43,160 --> 00:12:45,380
+it was nearly 10 times faster.
+
+247
+00:12:45,480 --> 00:12:49,000
+The Census Bureau leased 56 of Hollerith's machines
+
+248
+00:12:49,001 --> 00:12:54,600
+at $1,000 a year each and put them to work in July 1890.
+
+249
+00:12:54,700 --> 00:12:57,100
+Census Bureau clerks used Holleritz machines
+
+250
+00:12:57,200 --> 00:13:00,040
+to punch the cards and then tabulate the results.
+
+251
+00:13:00,140 --> 00:13:03,140
+Scores of operators were trained to use the puncher quickly
+
+252
+00:13:03,240 --> 00:13:05,240
+and accurately.
+
+253
+00:13:05,340 --> 00:13:08,160
+The tabulating was done with electricity.
+
+254
+00:13:08,260 --> 00:13:10,360
+A metal pin that passed through a card hole
+
+255
+00:13:10,460 --> 00:13:13,160
+made electrical contact with a cup of mercury,
+
+256
+00:13:13,260 --> 00:13:16,500
+completing a circuit that was registered on a tallying device
+
+257
+00:13:16,501 --> 00:13:20,700
+that consisted of rows of clock-like dials.
+
+258
+00:13:20,800 --> 00:13:23,800
+Hollerith's machines were a step toward the later development
+
+259
+00:13:23,900 --> 00:13:25,100
+of computers.
+
+260
+00:13:25,200 --> 00:13:29,180
+They significantly sped up the processing of information.
+
+261
+00:13:29,280 --> 00:13:31,540
+The results of the 1890 census count
+
+262
+00:13:31,640 --> 00:13:33,380
+were a triumph for Hollerith.
+
+263
+00:13:33,480 --> 00:13:39,660
+In just six weeks, the population count of 62,622,250
+
+264
+00:13:39,760 --> 00:13:41,260
+was tallied.
+
+265
+00:13:41,360 --> 00:13:45,600
+Hollerith became the talk of the scientific community.
+
+266
+00:13:45,601 --> 00:13:48,600
+He rented an office and set himself up in business.
+
+267
+00:13:48,700 --> 00:13:53,240
+He called his new enterprise the tabulating machine company.
+
+268
+00:13:53,340 --> 00:13:56,340
+Hollerith had the Census Bureau business in his pocket,
+
+269
+00:13:56,440 --> 00:13:58,080
+and the future looked bright.
+
+270
+00:13:58,180 --> 00:14:00,580
+But it turned out to be harder than it seemed.
+
+271
+00:14:08,600 --> 00:14:11,820
+Hollerith's natural aptitude for mechanical devices
+
+272
+00:14:11,920 --> 00:14:13,000
+was obvious.
+
+273
+00:14:13,001 --> 00:14:16,640
+But he also proved himself to be a dogged businessman.
+
+274
+00:14:16,740 --> 00:14:19,300
+He drummed up business among one of the biggest industries
+
+275
+00:14:19,400 --> 00:14:21,640
+of the day, the railroads.
+
+276
+00:14:21,740 --> 00:14:24,380
+With the increase in population and the push west,
+
+277
+00:14:24,480 --> 00:14:28,120
+the railroads had grown into enormous organizations,
+
+278
+00:14:28,220 --> 00:14:31,760
+with personnel, stations, cars, and customers
+
+279
+00:14:31,860 --> 00:14:34,360
+scattered all across the country.
+
+280
+00:14:34,460 --> 00:14:37,560
+Hundreds of clerks produced tons of paper
+
+281
+00:14:37,660 --> 00:14:41,060
+to help track and manage these vast empires.
+
+282
+00:14:41,061 --> 00:14:43,300
+Hollerith convinced the New York Central Railroad
+
+283
+00:14:43,400 --> 00:14:45,800
+to try out some of his machines.
+
+284
+00:14:45,900 --> 00:14:48,700
+The experiment wasn't a success.
+
+285
+00:14:48,800 --> 00:14:51,700
+Hollerith's machines could compute fast enough for census
+
+286
+00:14:51,800 --> 00:14:54,480
+work, but couldn't keep up with the speed and volume
+
+287
+00:14:54,580 --> 00:14:56,100
+of the railroad business.
+
+288
+00:14:56,200 --> 00:14:59,620
+After three months, the machines were removed.
+
+289
+00:14:59,720 --> 00:15:02,380
+Hollerith was short on capital and faced ruin.
+
+290
+00:15:02,480 --> 00:15:05,560
+He moved his family into his mother-in-law's house.
+
+291
+00:15:05,660 --> 00:15:07,560
+He sold his assets, even his horse,
+
+292
+00:15:07,561 --> 00:15:10,400
+to raise money to redesign his machines
+
+293
+00:15:10,500 --> 00:15:13,660
+to improve their speed, reliability, and ability
+
+294
+00:15:13,760 --> 00:15:15,260
+to make additions.
+
+295
+00:15:15,360 --> 00:15:17,740
+Hollerith even customized the punch cards
+
+296
+00:15:17,840 --> 00:15:20,840
+for business computations, such as adding columns
+
+297
+00:15:20,940 --> 00:15:22,880
+to store dollars and cents.
+
+298
+00:15:22,980 --> 00:15:25,240
+After a solid year of tedious work,
+
+299
+00:15:25,340 --> 00:15:27,240
+Hollerith returned to New York Central
+
+300
+00:15:27,340 --> 00:15:30,280
+and offered them free use of his new improved and faster
+
+301
+00:15:30,380 --> 00:15:32,460
+computing machines for a year.
+
+302
+00:15:32,560 --> 00:15:35,320
+Within three months, the railroad was convinced
+
+303
+00:15:35,321 --> 00:15:37,820
+and contracted to lease the machines.
+
+304
+00:15:37,920 --> 00:15:42,820
+The tabulating machine company was back on track.
+
+305
+00:15:42,920 --> 00:15:46,360
+Hollerith had avoided bankruptcy and now had more work
+
+306
+00:15:46,460 --> 00:15:48,400
+than he could handle.
+
+307
+00:15:48,500 --> 00:15:52,140
+And Hollerith, you could say, came along just in time.
+
+308
+00:15:52,240 --> 00:15:57,040
+It was a combination of his invention making this available,
+
+309
+00:15:57,140 --> 00:16:01,820
+but also the need out there required something like that.
+
+310
+00:16:01,920 --> 00:16:04,420
+So it was a convergence of the social needs
+
+311
+00:16:04,421 --> 00:16:06,920
+or the social factors on the one hand,
+
+312
+00:16:07,020 --> 00:16:09,920
+and the inventiveness sort of pushing from the other hand.
+
+313
+00:16:10,020 --> 00:16:12,020
+But Hollerith was weary.
+
+314
+00:16:12,120 --> 00:16:15,860
+He was diagnosed with a bad heart and ordered to slow down.
+
+315
+00:16:15,960 --> 00:16:19,760
+In 1911, Hollerith sold his shares in the tabulating machine
+
+316
+00:16:19,860 --> 00:16:22,680
+company for over $1 million.
+
+317
+00:16:22,780 --> 00:16:26,480
+Hollerith's former company was merged with three others
+
+318
+00:16:26,580 --> 00:16:29,220
+and led by master salesman Thomas Watson
+
+319
+00:16:29,320 --> 00:16:33,680
+grew into a major supplier of business equipment.
+
+320
+00:16:33,681 --> 00:16:36,980
+In 1924, Watson renamed the enterprise
+
+321
+00:16:37,080 --> 00:16:40,780
+International Business Machines, IBM.
+
+322
+00:16:40,880 --> 00:16:43,220
+Because of Hollerith, the name IBM
+
+323
+00:16:43,320 --> 00:16:47,320
+would become synonymous with computers.
+
+324
+00:16:47,420 --> 00:16:51,440
+By the 1930s, as America limped out of the Great Depression,
+
+325
+00:16:51,540 --> 00:16:56,040
+companies like Burroughs and IBM foresaw continued growth
+
+326
+00:16:56,140 --> 00:16:58,440
+and success.
+
+327
+00:16:58,540 --> 00:17:03,280
+Over the next decade, progress would be slow.
+
+328
+00:17:03,281 --> 00:17:06,620
+It would take the destructive forces of World War II
+
+329
+00:17:06,720 --> 00:17:09,520
+to give the computer its next great advance.
+
+330
+00:17:12,420 --> 00:17:15,560
+Herman Hollerith remarked, I will have in future years
+
+331
+00:17:15,660 --> 00:17:19,860
+the satisfaction of being the first statistical engineer.
+
+332
+00:17:19,960 --> 00:17:21,860
+He also had the satisfaction of becoming
+
+333
+00:17:21,960 --> 00:17:24,000
+the first computer millionaire.
+
+334
+00:17:27,500 --> 00:17:31,100
+World War II spurred the development of the true computer.
+
+335
+00:17:31,101 --> 00:17:40,900
+And in the turbulent days before the German blitzkrieg smashed Poland, a young Polish engineer walked into the British embassy in Warsaw and made an astounding
+
+336
+00:17:40,901 --> 00:17:41,640
+proposition.
+
+337
+00:17:42,340 --> 00:17:47,660
+He offered to sell the British the secret to the unbreakable German code machine, the Enigma.
+
+338
+00:17:48,520 --> 00:17:56,740
+The British desperately wanted to crack the Enigma machine used by German commanders to encrypt their most secret military radio messages.
+
+339
+00:17:56,741 --> 00:18:03,400
+British intelligence supplied the engineer with a fake diplomatic passport and smuggled him out of
+
+340
+00:18:03,401 --> 00:18:04,101
+Warsaw.
+
+341
+00:18:04,102 --> 00:18:10,780
+While guarded by French agents in Paris, the engineer provided details on the code machine's
+
+342
+00:18:10,781 --> 00:18:12,247
+ingenious operation.
+
+343
+00:18:12,248 --> 00:18:17,380
+In the Enigma, plugs were rearranged to conform to that day's codebook
+
+344
+00:18:17,381 --> 00:18:18,217
+combination.
+
+345
+00:18:18,218 --> 00:18:23,800
+The power of Enigma was that this plug arrangement constantly varied how letters
+
+346
+00:18:23,801 --> 00:18:26,900
+were coded throughout a transmission.
+
+347
+00:18:27,000 --> 00:18:31,000
+The number of letter variations was astronomical, so high,
+
+348
+00:18:31,100 --> 00:18:33,540
+the Germans considered their code machine to be unbreakable.
+
+349
+00:18:36,740 --> 00:18:39,940
+But the British now knew how the machine worked.
+
+350
+00:18:40,040 --> 00:18:43,080
+They realized that they could very quickly try different key
+
+351
+00:18:43,180 --> 00:18:45,780
+combinations on a small part of the code.
+
+352
+00:18:45,880 --> 00:18:49,300
+Then, when that small part was broken and the key revealed,
+
+353
+00:18:49,400 --> 00:18:51,400
+the rest could be decoded effortlessly.
+
+354
+00:18:53,800 --> 00:18:57,220
+North of London at a secret installation in Bletchley Park,
+
+355
+00:18:57,680 --> 00:19:02,480
+British codebreakers built a computer-like machine to do just that, Colossus.
+
+356
+00:19:03,300 --> 00:19:08,420
+Colossus used over 2,000 vacuum tubes to process 25,000 characters per second.
+
+357
+00:19:09,120 --> 00:19:12,540
+Colossus could only do one job, but it could compute very quickly.
+
+358
+00:19:13,280 --> 00:19:16,380
+Its deciphered German transmissions were called the Ultra Secret,
+
+359
+00:19:16,381 --> 00:19:18,720
+the most closely guarded secret of the war.
+
+360
+00:19:19,320 --> 00:19:21,800
+While the British were now able to read German messages,
+
+361
+00:19:21,801 --> 00:19:24,800
+The question was how to take advantage of the secrets
+
+362
+00:19:24,801 --> 00:19:28,800
+without tipping off the Germans that their code had been compromised.
+
+363
+00:19:28,801 --> 00:19:32,800
+The most senior Allied commanders were privy to ultra material,
+
+364
+00:19:32,801 --> 00:19:37,800
+but had to exercise caution in reacting to it so as not to tip their hand.
+
+365
+00:19:37,801 --> 00:19:42,800
+Ultra information was never revealed to anyone in a position to be captured by the enemy.
+
+366
+00:19:42,801 --> 00:19:47,800
+Field commanders often went into battle lacking information on the enemy
+
+367
+00:19:47,801 --> 00:19:50,800
+that was known to their superiors from ultra dispatches.
+
+368
+00:19:50,801 --> 00:19:52,660
+batches.
+
+369
+00:19:52,760 --> 00:19:56,200
+This secrecy may have also kept Colossus from prominence
+
+370
+00:19:56,300 --> 00:19:57,540
+in the history of computers.
+
+371
+00:20:01,640 --> 00:20:04,440
+While Colossus was breaking German codes,
+
+372
+00:20:04,540 --> 00:20:07,480
+across the Atlantic, another computational device
+
+373
+00:20:07,580 --> 00:20:09,480
+was under construction.
+
+374
+00:20:09,580 --> 00:20:12,260
+The machine, which would directly influence the design
+
+375
+00:20:12,360 --> 00:20:17,300
+of all future computers, was being built in Philadelphia.
+
+376
+00:20:20,800 --> 00:20:32,340
+In response to the attack on Pearl Harbor,
+
+377
+00:20:32,341 --> 00:20:35,740
+American industry quickly became a powerhouse producer
+
+378
+00:20:35,741 --> 00:20:39,120
+of the implements of war.
+
+379
+00:20:39,121 --> 00:20:41,820
+But by 1943, there was a critical shortage
+
+380
+00:20:41,821 --> 00:20:44,560
+of a surprising component of the war machine,
+
+381
+00:20:44,561 --> 00:20:48,620
+firing tables for artillery pieces.
+
+382
+00:20:48,621 --> 00:20:51,920
+Firing tables allowed gunners to correctly aim their guns
+
+383
+00:20:52,020 --> 00:20:54,720
+in different ranges, altitudes, temperatures,
+
+384
+00:20:54,820 --> 00:20:56,420
+and wind conditions.
+
+385
+00:20:56,520 --> 00:21:00,360
+To calculate these tables required enormous numbers
+
+386
+00:21:00,460 --> 00:21:02,360
+of calculations, which at that time
+
+387
+00:21:02,460 --> 00:21:04,760
+were done by human beings.
+
+388
+00:21:04,860 --> 00:21:08,080
+Incidentally, these people who did them were called computers.
+
+389
+00:21:08,180 --> 00:21:09,880
+That was their job title.
+
+390
+00:21:09,980 --> 00:21:13,420
+And they operated adding machines, mechanical adding
+
+391
+00:21:13,520 --> 00:21:14,980
+machines primarily.
+
+392
+00:21:15,080 --> 00:21:17,580
+And they would simply step through these calculations
+
+393
+00:21:17,581 --> 00:21:20,180
+and produce these tables.
+
+394
+00:21:20,280 --> 00:21:22,680
+One of the centers of firing table calculation
+
+395
+00:21:22,780 --> 00:21:24,580
+was at the Moore School of Engineering
+
+396
+00:21:24,680 --> 00:21:27,720
+at the University of Pennsylvania in Philadelphia.
+
+397
+00:21:27,820 --> 00:21:30,520
+Midway through the war, it became clear that the tables
+
+398
+00:21:30,620 --> 00:21:33,100
+could not be produced fast enough.
+
+399
+00:21:33,200 --> 00:21:35,440
+This was a crisis.
+
+400
+00:21:35,540 --> 00:21:37,640
+Without tables, new guns could not
+
+401
+00:21:37,740 --> 00:21:40,240
+be shipped to the troops overseas.
+
+402
+00:21:40,340 --> 00:21:43,540
+To break the bottleneck, a Moore School physicist, John
+
+403
+00:21:43,541 --> 00:21:48,140
+John Mockley made a fantastic proposal.
+
+404
+00:21:48,240 --> 00:21:51,740
+He suggested that he could build a giant electronic computer
+
+405
+00:21:51,840 --> 00:21:54,180
+that would be able to figure a single trajectory
+
+406
+00:21:54,280 --> 00:21:56,880
+in 100 seconds.
+
+407
+00:21:56,980 --> 00:22:00,420
+The army, desperate for a device to help them win the war,
+
+408
+00:22:00,520 --> 00:22:03,000
+reluctantly committed to the proposed cost
+
+409
+00:22:03,100 --> 00:22:06,460
+of half a million dollars.
+
+410
+00:22:06,560 --> 00:22:08,440
+Mockley and a brilliant graduate student
+
+411
+00:22:08,540 --> 00:22:10,800
+in electrical engineering, Presper Eckert
+
+412
+00:22:10,801 --> 00:22:15,040
+were constructing ENIAC, the electronic numeric integrator
+
+413
+00:22:15,140 --> 00:22:17,040
+and computer.
+
+414
+00:22:17,140 --> 00:22:19,780
+Driven by the knowledge that friends and relatives
+
+415
+00:22:19,880 --> 00:22:23,140
+were dying in battle while they worked in Philadelphia,
+
+416
+00:22:23,240 --> 00:22:27,020
+the team of young engineers toiled incessantly.
+
+417
+00:22:27,120 --> 00:22:31,180
+But could they create such a monster?
+
+418
+00:22:31,280 --> 00:22:34,960
+Everything had to be invented from square one.
+
+419
+00:22:35,060 --> 00:22:36,400
+And then they had to build it.
+
+420
+00:22:36,500 --> 00:22:37,920
+And then they had to test it.
+
+421
+00:22:38,020 --> 00:22:39,560
+And they had to put it all together
+
+422
+00:22:39,561 --> 00:22:41,300
+and make it work reliably.
+
+423
+00:22:41,400 --> 00:22:43,560
+And then they had to learn how to program it.
+
+424
+00:22:43,660 --> 00:22:47,400
+Nothing close to ENIAC had ever been conceived.
+
+425
+00:22:47,500 --> 00:22:50,700
+Nearly 100 feet long and weighing 30 tons,
+
+426
+00:22:50,800 --> 00:22:55,340
+it contained almost 70,000 resistors, 10,000 capacitors,
+
+427
+00:22:55,440 --> 00:23:01,420
+6,000 switches, and 18,000 delicate vacuum tubes.
+
+428
+00:23:01,520 --> 00:23:04,460
+Vacuum tubes burn out just like light bulbs.
+
+429
+00:23:04,560 --> 00:23:08,320
+In a machine that contained 18,000 vacuum tubes,
+
+430
+00:23:08,321 --> 00:23:11,660
+It was likely that at least one would always be burned out,
+
+431
+00:23:11,760 --> 00:23:13,260
+crippling the machine.
+
+432
+00:23:13,360 --> 00:23:16,660
+Presper Eckerd found the key to making ENIAC function.
+
+433
+00:23:16,760 --> 00:23:19,760
+He had the vacuum tubes built to high tolerance.
+
+434
+00:23:19,860 --> 00:23:24,000
+He critically tested them, and then he ran them at low power.
+
+435
+00:23:24,100 --> 00:23:26,240
+If you took these measures, you
+
+436
+00:23:26,340 --> 00:23:28,640
+might be able to get the machine to work for 10 minutes,
+
+437
+00:23:28,740 --> 00:23:30,940
+half an hour at a time.
+
+438
+00:23:31,040 --> 00:23:33,240
+Since the machine calculated so quickly,
+
+439
+00:23:33,340 --> 00:23:35,720
+you can get a lot of work done in a half hour.
+
+440
+00:23:35,820 --> 00:23:37,220
+And so that's what happened.
+
+441
+00:23:37,221 --> 00:23:42,220
+After two years of intense work, ENIAC was complete a few months
+
+442
+00:23:42,320 --> 00:23:44,620
+after the Japanese surrender.
+
+443
+00:23:44,720 --> 00:23:47,300
+Although it wasn't finished in time to help win the war,
+
+444
+00:23:47,400 --> 00:23:49,700
+ENIAC was a marvelous machine.
+
+445
+00:23:49,800 --> 00:23:53,400
+Huge and hot, it could perform up to 5,000 additions,
+
+446
+00:23:53,500 --> 00:23:58,440
+357 multiplications, and 38 divisions every second.
+
+447
+00:23:58,540 --> 00:24:02,040
+By far and away the most complex machine of its time,
+
+448
+00:24:02,140 --> 00:24:04,720
+ENIAC still lacked many of the qualities
+
+449
+00:24:04,820 --> 00:24:07,220
+of a modern computer.
+
+450
+00:24:07,221 --> 00:24:09,620
+Its memory was very primitive.
+
+451
+00:24:09,720 --> 00:24:13,760
+It had to be laboriously rewired each time it was programmed
+
+452
+00:24:13,860 --> 00:24:15,660
+and couldn't make logical decisions
+
+453
+00:24:15,760 --> 00:24:17,760
+based on its calculations.
+
+454
+00:24:17,860 --> 00:24:20,660
+But with tremendous expenditures of time and money,
+
+455
+00:24:20,760 --> 00:24:24,200
+ENIAC had proved that computers could be constructed.
+
+456
+00:24:24,300 --> 00:24:27,840
+However, except for arcane scientific calculation,
+
+457
+00:24:27,940 --> 00:24:29,840
+did anyone really want them?
+
+458
+00:24:29,940 --> 00:24:31,480
+The question lingered.
+
+459
+00:24:31,580 --> 00:24:35,140
+Could anyone build a really practical computer?
+
+460
+00:24:37,220 --> 00:24:45,600
+During development of the Mark II computer in 1945, a relay inside the computer failed
+
+461
+00:24:45,601 --> 00:24:48,840
+and researchers found a dead moth inside.
+
+462
+00:24:48,841 --> 00:24:56,400
+This is the origin of the computer terms bug and debugging.
+
+463
+00:24:56,401 --> 00:25:01,600
+Just before the end of the Second World War, an advisor to the ENIAC project, John von
+
+464
+00:25:01,601 --> 00:25:07,200
+Neumann, wrote a paper that was to greatly affect the next stage of computer design.
+
+465
+00:25:07,201 --> 00:25:09,900
+Von Neumann possessed a photographic memory,
+
+466
+00:25:09,901 --> 00:25:12,400
+an incomparably fast mind, and was one
+
+467
+00:25:12,401 --> 00:25:15,080
+of the principal scientists involved in the Manhattan
+
+468
+00:25:15,081 --> 00:25:18,280
+Project, the building of the atomic bomb.
+
+469
+00:25:18,281 --> 00:25:21,580
+He was also an advisor on ENIAC.
+
+470
+00:25:21,581 --> 00:25:23,820
+The paper Von Neumann wrote after the war
+
+471
+00:25:23,821 --> 00:25:26,680
+delineated the structure of a modern computer.
+
+472
+00:25:26,681 --> 00:25:29,520
+The paper drew heavily on the work building the ENIAC,
+
+473
+00:25:29,521 --> 00:25:34,960
+yet was undeniably augmented by Von Neumann's brilliance.
+
+474
+00:25:34,961 --> 00:25:38,000
+von Neumann's computer was to have a processing unit,
+
+475
+00:25:38,001 --> 00:25:41,960
+a controlling unit, memory, input and output.
+
+476
+00:25:41,961 --> 00:25:45,540
+But most importantly, in the evolution of computers,
+
+477
+00:25:45,541 --> 00:25:49,640
+it would hold its programming internally in its memory.
+
+478
+00:25:49,641 --> 00:25:52,340
+Internally held programs give computers
+
+479
+00:25:52,341 --> 00:25:56,140
+their power and versatility, because an internal program
+
+480
+00:25:56,141 --> 00:25:58,420
+can modify what it does based on data
+
+481
+00:25:58,421 --> 00:26:01,580
+or the results of computations.
+
+482
+00:26:01,581 --> 00:26:03,960
+In machines like the ENIAC, programming
+
+483
+00:26:03,961 --> 00:26:07,500
+had been hardwired or fixed, so the machine was much less
+
+484
+00:26:07,501 --> 00:26:10,060
+adaptable.
+
+485
+00:26:10,061 --> 00:26:12,520
+The idea for storing the program internally
+
+486
+00:26:12,521 --> 00:26:15,960
+was the last key to developing the true computer.
+
+487
+00:26:15,961 --> 00:26:17,960
+But whether it was von Neumann's idea
+
+488
+00:26:17,961 --> 00:26:20,440
+has long been hotly debated.
+
+489
+00:26:20,441 --> 00:26:23,740
+Eckerd and Mockley claimed they formulated internal programs
+
+490
+00:26:23,741 --> 00:26:27,060
+as a natural part of their work building ENIAC,
+
+491
+00:26:27,061 --> 00:26:29,460
+although they couldn't stop and incorporate the idea
+
+492
+00:26:29,461 --> 00:26:31,080
+into the machine.
+
+493
+00:26:31,081 --> 00:26:32,960
+But many who read the paper assumed
+
+494
+00:26:32,961 --> 00:26:36,520
+that all the genius behind it was from the great von Neumann.
+
+495
+00:26:36,521 --> 00:26:40,200
+He was one of the most widely regarded mathematicians
+
+496
+00:26:40,201 --> 00:26:41,560
+in the world.
+
+497
+00:26:41,561 --> 00:26:44,360
+Eckerd and Mockley were relatively obscure.
+
+498
+00:26:44,361 --> 00:26:48,220
+Eckerd was a young man just out of school.
+
+499
+00:26:48,221 --> 00:26:52,600
+Mockley had been a professor at a fairly out of the way college.
+
+500
+00:26:52,601 --> 00:26:55,800
+They didn't have international reputations.
+
+501
+00:26:55,801 --> 00:26:59,540
+Eckerd and Mockley weren't included as authors in the paper.
+
+502
+00:26:59,541 --> 00:27:02,160
+They felt they had been betrayed.
+
+503
+00:27:02,161 --> 00:27:04,700
+The most important effect of von Neumann's paper
+
+504
+00:27:04,701 --> 00:27:07,400
+was to spur computer development.
+
+505
+00:27:07,401 --> 00:27:10,740
+Eckerd and Mockley moved into offices in Philadelphia,
+
+506
+00:27:10,741 --> 00:27:12,660
+hired a staff, and set up a company
+
+507
+00:27:12,661 --> 00:27:14,600
+that would build a business computer.
+
+508
+00:27:14,601 --> 00:27:16,740
+They called it the UNIVAC.
+
+509
+00:27:16,741 --> 00:27:18,880
+They signed a fixed cost contract
+
+510
+00:27:18,881 --> 00:27:21,720
+to build a UNIVAC for the Census Bureau,
+
+511
+00:27:21,721 --> 00:27:24,880
+rolled up their sleeves, and went to work.
+
+512
+00:27:24,881 --> 00:27:27,060
+Unfortunately, building UNIVAC turned out
+
+513
+00:27:27,061 --> 00:27:30,060
+to be a monumental undertaking.
+
+514
+00:27:30,061 --> 00:27:32,500
+As they struggled to make UNIVAC real,
+
+515
+00:27:32,501 --> 00:27:35,940
+they also struggled financially and needed to be bailed out
+
+516
+00:27:35,941 --> 00:27:38,740
+by a series of larger companies.
+
+517
+00:27:38,741 --> 00:27:41,840
+They eventually joined forces with Remington Rand,
+
+518
+00:27:41,841 --> 00:27:45,340
+a flourishing typewriter manufacturer.
+
+519
+00:27:45,341 --> 00:27:49,480
+In March of 1951, after six years of toil,
+
+520
+00:27:49,481 --> 00:27:51,780
+they finally delivered the first UNIVAC
+
+521
+00:27:51,781 --> 00:27:53,420
+to the Census Bureau.
+
+522
+00:27:53,421 --> 00:27:57,860
+Unlike ENIAC, the UNIVAC was an entire computer system
+
+523
+00:27:57,861 --> 00:28:00,920
+designed for business.
+
+524
+00:28:01,000 --> 00:28:04,460
+UNIVAC could be programmed for a variety of data processing
+
+525
+00:28:04,560 --> 00:28:05,760
+tasks.
+
+526
+00:28:05,860 --> 00:28:08,380
+Compact tape drives held data, and results were
+
+527
+00:28:08,480 --> 00:28:11,300
+automatically printed.
+
+528
+00:28:11,400 --> 00:28:14,300
+But even with the backing of Remington Rand's sales
+
+529
+00:28:14,400 --> 00:28:15,920
+remained slow.
+
+530
+00:28:16,020 --> 00:28:21,420
+Very few people understood how useful a computer could be.
+
+531
+00:28:21,520 --> 00:28:27,860
+That perception changed dramatically one night in 1952.
+
+532
+00:28:27,861 --> 00:28:33,860
+In a brilliant public relations move,
+
+533
+00:28:33,960 --> 00:28:37,680
+Remington Rand arranged with CBS to use a UNIVAC on election
+
+534
+00:28:37,780 --> 00:28:40,340
+night to predict the outcome of the presidential race
+
+535
+00:28:40,440 --> 00:28:43,840
+between Dwight Eisenhower and Adlai Stevenson.
+
+536
+00:28:43,940 --> 00:28:46,920
+Polls said the race was too close to call.
+
+537
+00:28:47,020 --> 00:28:49,040
+No one had ever programmed a computer
+
+538
+00:28:49,140 --> 00:28:52,020
+to make electoral predictions.
+
+539
+00:28:52,120 --> 00:28:54,080
+Eckerd and Mockley's engineers entered
+
+540
+00:28:54,081 --> 00:28:58,820
+their customized algorithms right until airtime.
+
+541
+00:28:58,821 --> 00:29:03,320
+The operators fed in the results of selected Eastern precincts
+
+542
+00:29:03,321 --> 00:29:05,960
+and at 9 PM ran their program.
+
+543
+00:29:05,961 --> 00:29:09,080
+UNIVAC predicted a landslide for Eisenhower,
+
+544
+00:29:09,081 --> 00:29:11,360
+but the poll said differently.
+
+545
+00:29:11,361 --> 00:29:14,320
+The operators didn't believe what UNIVAC was telling them
+
+546
+00:29:14,321 --> 00:29:17,220
+and assumed their programming was at fault.
+
+547
+00:29:17,221 --> 00:29:19,480
+Quickly, they reprogrammed the machine
+
+548
+00:29:19,481 --> 00:29:22,360
+to better reflect what the experts predicted.
+
+549
+00:29:22,361 --> 00:29:24,120
+As the night went on, it became clear
+
+550
+00:29:24,121 --> 00:29:27,580
+that Eisenhower would indeed win by a landslide.
+
+551
+00:29:27,581 --> 00:29:33,080
+CBS sheepishly announced they hadn't believed the machines.
+
+552
+00:29:33,081 --> 00:29:35,820
+When all the votes were tallied, UNIVAC's initial prediction
+
+553
+00:29:35,821 --> 00:29:40,060
+was off by less than 1% of the final result,
+
+554
+00:29:40,061 --> 00:29:43,860
+an extraordinary prediction even by today's standards.
+
+555
+00:29:43,861 --> 00:29:47,360
+The power and utility of the computer had been proved.
+
+556
+00:29:52,360 --> 00:29:57,360
+After the success of UNIVAC, various companies
+
+557
+00:29:57,460 --> 00:30:01,240
+began to see a future in computer development.
+
+558
+00:30:01,340 --> 00:30:04,440
+New companies like Burroughs, as well as old giants
+
+559
+00:30:04,540 --> 00:30:07,940
+like General Electric, jumped into the computer business.
+
+560
+00:30:08,040 --> 00:30:10,080
+But most large American businesses
+
+561
+00:30:10,180 --> 00:30:12,640
+were dependent on the data processing systems
+
+562
+00:30:12,740 --> 00:30:17,660
+provided by one company, the office machine monolith, IBM.
+
+563
+00:30:17,661 --> 00:30:24,660
+IBM had no computers.
+
+564
+00:30:24,760 --> 00:30:28,180
+IBM's aging leader, the legendary sales guru,
+
+565
+00:30:28,280 --> 00:30:31,180
+Thomas Watson, Sr., was not eager to jump
+
+566
+00:30:31,280 --> 00:30:36,140
+into the enormously costly development of computers.
+
+567
+00:30:36,240 --> 00:30:39,920
+A computer back then contained thousands of vacuum tubes,
+
+568
+00:30:40,020 --> 00:30:43,920
+occupied one or more large rooms,
+
+569
+00:30:43,921 --> 00:30:48,560
+and required a small army of attendants to run.
+
+570
+00:30:48,660 --> 00:30:52,260
+IBM and most other people didn't see how computers
+
+571
+00:30:52,360 --> 00:30:53,860
+could be used in business.
+
+572
+00:30:53,960 --> 00:30:56,760
+It took Watson's son, Tom Watson, Jr.,
+
+573
+00:30:56,860 --> 00:31:00,240
+to lead IBM into the computer age.
+
+574
+00:31:00,340 --> 00:31:02,800
+As Watson himself recalls, the move
+
+575
+00:31:02,900 --> 00:31:05,800
+was spurred by IBM's customers who were fed up
+
+576
+00:31:05,900 --> 00:31:07,580
+with bulky punch cards.
+
+577
+00:31:07,680 --> 00:31:09,680
+I remember particularly Jim Madden,
+
+578
+00:31:09,780 --> 00:31:12,920
+then vice president of the Metropolitan Life,
+
+579
+00:31:12,921 --> 00:31:16,020
+who said, we're going to cancel our IBM just the minute
+
+580
+00:31:16,120 --> 00:31:18,700
+we learned to do this in tapes, because three floors
+
+581
+00:31:18,800 --> 00:31:20,800
+of the Metropolitan Life building
+
+582
+00:31:20,900 --> 00:31:24,160
+are used to store the cards of our customers' accounts.
+
+583
+00:31:24,260 --> 00:31:26,700
+And if we keep going the way we will,
+
+584
+00:31:26,800 --> 00:31:28,540
+they'll occupy the whole building.
+
+585
+00:31:28,640 --> 00:31:32,640
+We were threatened into this progress.
+
+586
+00:31:32,740 --> 00:31:35,140
+Faced with the prospect of losing customers,
+
+587
+00:31:35,240 --> 00:31:39,220
+Tom Watson, Jr. ordered the development of a computer.
+
+588
+00:31:39,320 --> 00:31:42,120
+IBM's famous sales force told their customers
+
+589
+00:31:42,121 --> 00:31:45,000
+customers, a computer would arrive soon.
+
+590
+00:31:45,001 --> 00:31:46,980
+In fact, it was still being planned.
+
+591
+00:31:46,981 --> 00:31:52,300
+Finally, in 1953, IBM unveiled the 701.
+
+592
+00:31:52,301 --> 00:31:55,440
+Although technologically inferior to the UNIVAC,
+
+593
+00:31:55,441 --> 00:31:58,180
+the 701 and other early IBM computers
+
+594
+00:31:58,181 --> 00:32:01,020
+were hits with the customers because they conformed
+
+595
+00:32:01,021 --> 00:32:05,160
+to standard IBM systems and support.
+
+596
+00:32:05,161 --> 00:32:08,980
+IBM saw the future, and it was computers.
+
+597
+00:32:08,981 --> 00:32:12,580
+They redirected corporate efforts to computer development.
+
+598
+00:32:12,581 --> 00:32:16,480
+IBM's efforts paid off, and by the beginning of the 1960s,
+
+599
+00:32:16,481 --> 00:32:19,000
+the company's large mainframe computers
+
+600
+00:32:19,001 --> 00:32:21,280
+dominated the business.
+
+601
+00:32:21,281 --> 00:32:22,660
+But the development of the computer
+
+602
+00:32:22,661 --> 00:32:26,360
+was about to go in an altogether different direction.
+
+603
+00:32:38,980 --> 00:32:43,980
+We choose to go to the moon in this decade
+
+604
+00:32:44,080 --> 00:32:47,720
+and do the other things, not because they are easy,
+
+605
+00:32:47,820 --> 00:32:49,620
+but because they are hard.
+
+606
+00:32:49,720 --> 00:32:53,060
+In 1961, America was trailing Russia
+
+607
+00:32:53,160 --> 00:32:54,660
+in the race for space.
+
+608
+00:33:00,240 --> 00:33:04,580
+1961, a year of achievement for Soviet scientists
+
+609
+00:33:04,680 --> 00:33:05,780
+in the race for space.
+
+610
+00:33:08,980 --> 00:33:13,220
+Yuri Gagarin has become the first human to orbit the Earth,
+
+611
+00:33:13,320 --> 00:33:15,520
+and crowds in Moscow's Red Square
+
+612
+00:33:15,620 --> 00:33:18,020
+salute the 27-year-old cosmonaut.
+
+613
+00:33:18,120 --> 00:33:21,420
+As NASA engineers began planning the lunar mission,
+
+614
+00:33:21,520 --> 00:33:24,920
+they realized a computer as powerful as one currently
+
+615
+00:33:25,020 --> 00:33:28,440
+the size of a room must be on board.
+
+616
+00:33:28,540 --> 00:33:32,640
+The engineers wondered, is such a small computer even possible?
+
+617
+00:33:32,740 --> 00:33:34,680
+The first great breakthrough that would lead
+
+618
+00:33:34,780 --> 00:33:37,100
+to computer miniaturization had already
+
+619
+00:33:37,101 --> 00:33:41,440
+had already been made on December 23, 1947,
+
+620
+00:33:41,540 --> 00:33:45,840
+when three scientists at Bell Labs, William Shockley, Walter
+
+621
+00:33:45,940 --> 00:33:49,940
+Bertain, and John Bardeen invented the transistor.
+
+622
+00:33:50,040 --> 00:33:52,240
+Formed on the semiconductor silicon,
+
+623
+00:33:52,340 --> 00:33:56,960
+the transistor could replace large vacuum tubes in computers.
+
+624
+00:33:57,060 --> 00:34:00,120
+Compared to vacuum tubes, transistors were tiny,
+
+625
+00:34:00,220 --> 00:34:03,800
+required little power, and produced little heat.
+
+626
+00:34:03,900 --> 00:34:05,820
+The breakthrough was sufficiently important
+
+627
+00:34:05,821 --> 00:34:10,527
+that the three inventors of the transistor were awarded the Nobel Prize.
+
+628
+00:34:10,528 --> 00:34:11,900
+A computer that could
+
+629
+00:34:11,901 --> 00:34:17,260
+navigate to the moon and back would require thousands of transistors, and although small,
+
+630
+00:34:17,261 --> 00:34:19,753
+they were not nearly small enough.
+
+631
+00:34:19,754 --> 00:34:23,420
+The next step in miniaturization occurred in 1959,
+
+632
+00:34:23,421 --> 00:34:28,540
+when Robert Noyce and Jack Kilby, engineers for rival transistor manufacturers,
+
+633
+00:34:28,541 --> 00:34:33,100
+independently came up with breakthroughs that led to the same revolutionary idea.
+
+634
+00:34:33,101 --> 00:34:37,100
+an entire network of electronic components, transistors,
+
+635
+00:34:37,200 --> 00:34:39,100
+diodes, capacitors, and resistors
+
+636
+00:34:39,200 --> 00:34:45,040
+could be incorporated onto a single chip of silicon.
+
+637
+00:34:45,140 --> 00:34:47,040
+The great innovation in electronics
+
+638
+00:34:47,140 --> 00:34:49,540
+was called the integrated circuit.
+
+639
+00:34:49,640 --> 00:34:53,060
+Using integrated circuits, a 10-ounce computer
+
+640
+00:34:53,160 --> 00:34:56,860
+was built that was as powerful as a 30-pound one made
+
+641
+00:34:56,960 --> 00:34:58,860
+of transistors.
+
+642
+00:34:58,960 --> 00:35:02,100
+But integrated circuits had an inherent problem.
+
+643
+00:35:02,101 --> 00:35:04,740
+They were difficult to manufacture and therefore
+
+644
+00:35:04,840 --> 00:35:06,040
+were expensive.
+
+645
+00:35:06,140 --> 00:35:11,540
+But the space race had started just in time to pay for them.
+
+646
+00:35:11,640 --> 00:35:15,040
+In 1969, 5,000 integrated circuits
+
+647
+00:35:15,140 --> 00:35:18,620
+made up the heart of each of two identical computers,
+
+648
+00:35:18,720 --> 00:35:23,320
+one on the lunar orbiter and one on the lander.
+
+649
+00:35:23,420 --> 00:35:27,100
+For their size, these were the most powerful computers
+
+650
+00:35:27,200 --> 00:35:32,100
+on Earth, soon to leave the Earth entirely.
+
+651
+00:35:32,101 --> 00:35:33,600
+Beautiful, just beautiful.
+
+652
+00:35:36,940 --> 00:35:39,440
+I'm going to step off the land now.
+
+653
+00:35:39,540 --> 00:35:43,840
+As Neil Armstrong took one small step in the lunar dust,
+
+654
+00:35:43,940 --> 00:35:47,620
+Intel engineer Ted Hoff was making the last great leap
+
+655
+00:35:47,720 --> 00:35:51,080
+in miniaturization, developing an idea that
+
+656
+00:35:51,180 --> 00:35:54,720
+would put an entire computer on a chip of silicon,
+
+657
+00:35:54,820 --> 00:35:56,860
+the microprocessor.
+
+658
+00:35:56,960 --> 00:35:58,820
+The genie would be out of its bottle,
+
+659
+00:35:58,920 --> 00:36:00,920
+beginning the computer revolution
+
+660
+00:36:00,921 --> 00:36:03,060
+and changing the world forever.
+
+661
+00:36:08,620 --> 00:36:13,160
+IBM took the lead in computer sales in 1956 from Remington
+
+662
+00:36:13,260 --> 00:36:16,060
+Rand by selling just 76 computers.
+
+663
+00:36:21,180 --> 00:36:23,480
+OK, here's the way that Apollo here.
+
+664
+00:36:23,580 --> 00:36:26,680
+Apollo 13, intended as the third lunar landing,
+
+665
+00:36:26,780 --> 00:36:30,220
+has just lost two fuel cells and was venting oxygen
+
+666
+00:36:30,221 --> 00:36:34,660
+into space, 200,000 miles from Earth.
+
+667
+00:36:34,760 --> 00:36:38,360
+Soon, the second oxygen tank would begin losing pressure.
+
+668
+00:36:38,460 --> 00:36:41,600
+The astronauts would die unless they could precisely align
+
+669
+00:36:41,700 --> 00:36:45,740
+their spacecraft and fire their rocket to slingshot themselves
+
+670
+00:36:45,840 --> 00:36:48,600
+around the moon and back to Earth.
+
+671
+00:36:48,700 --> 00:36:51,540
+Critical to the alignment was Apollo's state-of-the-art
+
+672
+00:36:51,640 --> 00:36:53,640
+guidance computer.
+
+673
+00:36:53,740 --> 00:36:55,380
+A new trajectory was figured.
+
+674
+00:36:55,480 --> 00:36:58,040
+The all-or-nothing rocket firing was made.
+
+675
+00:36:58,041 --> 00:37:01,140
+The Apollo 13 crew miraculously returned to Earth
+
+676
+00:37:01,240 --> 00:37:04,780
+with the help of their small and powerful computer.
+
+677
+00:37:04,880 --> 00:37:07,620
+By the last Apollo mission, two and a half years later,
+
+678
+00:37:07,720 --> 00:37:10,220
+computers as powerful as those on Apollo
+
+679
+00:37:10,320 --> 00:37:12,760
+would be available to everyone.
+
+680
+00:37:12,860 --> 00:37:15,520
+That was because soon before the Apollo 13 flight,
+
+681
+00:37:15,620 --> 00:37:18,520
+an engineer at Intel, Ted Hoff, had come up
+
+682
+00:37:18,620 --> 00:37:20,800
+with an ingenious idea.
+
+683
+00:37:20,900 --> 00:37:24,040
+Hoff had been told to design 12 separate integrated circuits
+
+684
+00:37:24,140 --> 00:37:26,340
+to make a Japanese pocket calculator.
+
+685
+00:37:26,341 --> 00:37:29,380
+He suggested placing the entire processing unit on a chip
+
+686
+00:37:29,480 --> 00:37:31,880
+and programming it just like a computer.
+
+687
+00:37:31,980 --> 00:37:35,020
+Intel developed the idea, and by 1970,
+
+688
+00:37:35,120 --> 00:37:39,960
+they had a working model of a microprocessor.
+
+689
+00:37:40,060 --> 00:37:44,900
+It was the invention not just of integrated circuits,
+
+690
+00:37:45,000 --> 00:37:46,900
+but of a particular kind of integrated circuit,
+
+691
+00:37:47,000 --> 00:37:50,440
+the microprocessor that makes today's personal computers
+
+692
+00:37:50,540 --> 00:37:51,440
+possible.
+
+693
+00:37:51,540 --> 00:37:54,160
+Smaller than a fingernail, a microprocessor
+
+694
+00:37:54,161 --> 00:37:56,560
+contains many of the components of the computer,
+
+695
+00:37:56,660 --> 00:38:00,760
+including a control unit, a clock, and areas where data
+
+696
+00:38:00,860 --> 00:38:03,300
+can be stored and modified.
+
+697
+00:38:03,400 --> 00:38:06,500
+Processing power was about to become very cheap
+
+698
+00:38:06,600 --> 00:38:10,000
+and very compact.
+
+699
+00:38:10,100 --> 00:38:14,420
+In the mid-1970s, two friends, Stephen Wozniak and Steve Jobs,
+
+700
+00:38:14,520 --> 00:38:20,020
+were manufacturing a small computer in a Palo Alto garage.
+
+701
+00:38:20,120 --> 00:38:23,920
+Steve Jobs was a college dropout.
+
+702
+00:38:23,921 --> 00:38:25,660
+But he was a college dropout with a difference.
+
+703
+00:38:25,760 --> 00:38:27,660
+He was very intelligent.
+
+704
+00:38:27,760 --> 00:38:29,520
+He had a lot of street smarts.
+
+705
+00:38:29,620 --> 00:38:31,960
+He was also extremely ambitious.
+
+706
+00:38:32,060 --> 00:38:34,160
+I think perhaps more important than that,
+
+707
+00:38:34,260 --> 00:38:37,560
+he knew the other Steve, Steve Wozniak,
+
+708
+00:38:37,660 --> 00:38:39,760
+had created something exceptional.
+
+709
+00:38:39,860 --> 00:38:41,980
+Steve Jobs sold his Volkswagen,
+
+710
+00:38:42,080 --> 00:38:44,680
+and Steven Wozniak sold his HP calculator
+
+711
+00:38:44,780 --> 00:38:47,820
+to finance their company that would revolutionize
+
+712
+00:38:47,920 --> 00:38:49,720
+the computer industry.
+
+713
+00:38:49,820 --> 00:38:52,720
+Jobs trekked all over the San Francisco Bay Area
+
+714
+00:38:52,721 --> 00:38:56,160
+to find buyers for the $500 machine, which they called
+
+715
+00:38:56,260 --> 00:38:58,660
+the Apple I.
+
+716
+00:38:58,760 --> 00:39:01,220
+The Apple I was large and unwieldy.
+
+717
+00:39:01,320 --> 00:39:04,100
+Jobs realized they needed a new design for a computer
+
+718
+00:39:04,200 --> 00:39:05,760
+that anyone could use.
+
+719
+00:39:05,860 --> 00:39:09,600
+Wozniak began to build the Apple II.
+
+720
+00:39:09,700 --> 00:39:11,900
+The fate of Apple changed dramatically
+
+721
+00:39:12,000 --> 00:39:16,580
+when in the fall of 1976, a visitor to Wozniak's garage
+
+722
+00:39:16,680 --> 00:39:19,420
+saw the prototype of the Apple II.
+
+723
+00:39:19,520 --> 00:39:22,720
+The visitor was Mike Markula, who at 32 had retired
+
+724
+00:39:22,721 --> 00:39:24,760
+from Intel a millionaire.
+
+725
+00:39:24,860 --> 00:39:28,100
+He was so impressed by the Apple II that he joined Apple
+
+726
+00:39:28,200 --> 00:39:30,900
+and put it on a sound business footing.
+
+727
+00:39:31,000 --> 00:39:33,160
+The Apple II was introduced to the public
+
+728
+00:39:33,260 --> 00:39:34,860
+and sales skyrocketed.
+
+729
+00:39:34,960 --> 00:39:37,900
+But in 1978, even with the success of the Apple II,
+
+730
+00:39:38,000 --> 00:39:41,080
+using a computer wasn't easy.
+
+731
+00:39:41,180 --> 00:39:45,300
+The early Apple computers, as well as all early personal
+
+732
+00:39:45,400 --> 00:39:50,420
+computers, did not have graphical interfaces.
+
+733
+00:39:50,421 --> 00:39:53,760
+They didn't have mice.
+
+734
+00:39:53,860 --> 00:39:58,100
+They had what's known as a command line interface.
+
+735
+00:39:58,200 --> 00:40:01,160
+That is, you typed instructions into the computer,
+
+736
+00:40:01,260 --> 00:40:04,300
+and your instructions appeared as text on the screen.
+
+737
+00:40:07,740 --> 00:40:10,040
+A simple-to-use computer had been conceived
+
+738
+00:40:10,140 --> 00:40:13,640
+by a computer scientist named Doug Engelbart.
+
+739
+00:40:13,740 --> 00:40:17,820
+He demonstrated his vision in 1968 at the Fall Joint Computer
+
+740
+00:40:17,920 --> 00:40:20,420
+Conference in San Francisco.
+
+741
+00:40:20,421 --> 00:40:24,060
+W, it'll say delete word.
+
+742
+00:40:24,160 --> 00:40:27,620
+The arrow moves back and forth to give me feedback.
+
+743
+00:40:27,720 --> 00:40:30,060
+Wielding a keyboard and a pointing device he called a
+
+744
+00:40:30,160 --> 00:40:33,300
+mouse, Engelbart worked with a computer 30 miles away,
+
+745
+00:40:33,400 --> 00:40:37,040
+linked by microwaves, and demonstrated word processing
+
+746
+00:40:37,140 --> 00:40:38,740
+and hypertext.
+
+747
+00:40:38,840 --> 00:40:41,240
+Many in the audience went home inspired,
+
+748
+00:40:41,340 --> 00:40:44,920
+but one group alone was to fulfill Engelbart's vision.
+
+749
+00:40:45,020 --> 00:40:48,420
+That group was just down the road from San Francisco
+
+750
+00:40:48,421 --> 00:40:49,320
+at Xerox PARC.
+
+751
+00:40:52,620 --> 00:40:55,820
+In 1970, Xerox dominated the copier industry,
+
+752
+00:40:55,821 --> 00:40:59,200
+but thought the future might be in computers.
+
+753
+00:40:59,201 --> 00:41:01,800
+A young Xerox executive, Robert Taylor,
+
+754
+00:41:01,801 --> 00:41:04,940
+worked with a team to transform the way the computer industry
+
+755
+00:41:04,941 --> 00:41:09,740
+was perceived, as Robert Taylor himself remembers.
+
+756
+00:41:09,741 --> 00:41:13,240
+The chairman of Xerox at the time, Peter McCullough,
+
+757
+00:41:13,241 --> 00:41:17,640
+made a speech where he said that Xerox was going
+
+758
+00:41:17,641 --> 00:41:20,680
+to become the architecture of information.
+
+759
+00:41:20,681 --> 00:41:24,080
+So I asked his speechwriter not too long after that,
+
+760
+00:41:24,081 --> 00:41:25,240
+what did that mean?
+
+761
+00:41:26,380 --> 00:41:29,420
+Because I had an idea about what it ought to mean,
+
+762
+00:41:29,421 --> 00:41:30,660
+and so did some other people.
+
+763
+00:41:30,661 --> 00:41:33,360
+And the speechwriter said, well, he didn't really know,
+
+764
+00:41:33,361 --> 00:41:35,700
+but it's a ringing phrase.
+
+765
+00:41:35,701 --> 00:41:39,020
+And so I said, well, we're gonna make it happen.
+
+766
+00:41:39,021 --> 00:41:41,100
+Robert Taylor hired many of the country's
+
+767
+00:41:41,101 --> 00:41:44,040
+top computer scientists and challenged them
+
+768
+00:41:44,041 --> 00:41:47,300
+to create an easy to use personal computer.
+
+769
+00:41:47,301 --> 00:41:52,200
+The result was the Alto, which incorporated many of the innovations in personal computers
+
+770
+00:41:52,201 --> 00:41:57,540
+we take for granted today, all developed at Xerox PARC.
+
+771
+00:41:57,541 --> 00:42:03,400
+The Alto used a mouse, a graphical interface, built-in networking and printed on a laser
+
+772
+00:42:03,401 --> 00:42:04,400
+printer.
+
+773
+00:42:04,401 --> 00:42:10,200
+Xerox developed the star, the commercial model of the Alto, but it never sold well.
+
+774
+00:42:10,201 --> 00:42:17,200
+Xerox was a large and very successful photocopier company.
+
+775
+00:42:17,300 --> 00:42:20,280
+And it didn't really understand computers.
+
+776
+00:42:20,380 --> 00:42:26,120
+It didn't appreciate the brilliance, the originality,
+
+777
+00:42:26,220 --> 00:42:32,720
+and the enormous commercial worth of the computer
+
+778
+00:42:32,820 --> 00:42:34,320
+developments at Xerox PARC.
+
+779
+00:42:34,420 --> 00:42:38,720
+But Steve Jobs did when he visited Xerox PARC in 1979
+
+780
+00:42:38,721 --> 00:42:40,720
+and saw the Alto.
+
+781
+00:42:40,721 --> 00:42:42,720
+He returned to Apple and immediately set to work
+
+782
+00:42:42,721 --> 00:42:45,720
+on what would become the Macintosh computer,
+
+783
+00:42:45,721 --> 00:42:47,720
+the first popular personal computer
+
+784
+00:42:47,721 --> 00:42:49,720
+similar to those used today.
+
+785
+00:42:49,721 --> 00:42:51,720
+What made the Macintosh easy to use
+
+786
+00:42:51,721 --> 00:42:54,720
+was its operating system and applications,
+
+787
+00:42:54,721 --> 00:42:56,720
+otherwise known as software.
+
+788
+00:42:56,721 --> 00:42:58,720
+Increasingly, software was dominating
+
+789
+00:42:58,721 --> 00:43:00,720
+the advances made in computers.
+
+790
+00:43:00,721 --> 00:43:02,720
+Bill Gates, the young president
+
+791
+00:43:02,721 --> 00:43:04,720
+of a computing software company, Microsoft,
+
+792
+00:43:04,721 --> 00:43:06,720
+understood the importance of software
+
+793
+00:43:06,721 --> 00:43:09,060
+of software to the future of computers,
+
+794
+00:43:09,160 --> 00:43:12,620
+and parlayed this vision into a vast software empire,
+
+795
+00:43:12,720 --> 00:43:16,100
+making him the richest man in the world.
+
+796
+00:43:16,200 --> 00:43:18,000
+The dream of a machine that could think
+
+797
+00:43:18,100 --> 00:43:21,040
+had come from a mechanical device to an electronic one,
+
+798
+00:43:21,140 --> 00:43:23,540
+where the bits of coded information that ran it
+
+799
+00:43:23,640 --> 00:43:26,040
+were as important, perhaps more important,
+
+800
+00:43:26,140 --> 00:43:28,580
+than the machine that they controlled.
+
+801
+00:43:28,680 --> 00:43:30,280
+This may have been the best evidence
+
+802
+00:43:30,380 --> 00:43:32,840
+that a thinking machine had arrived,
+
+803
+00:43:32,940 --> 00:43:35,920
+and could now be placed on your desk.
+
+804
+00:43:35,921 --> 00:43:40,300
+Soon, nearly half the jobs in America would use the computer.
+
+805
+00:43:40,400 --> 00:43:42,800
+Within the decade, microprocessors
+
+806
+00:43:42,900 --> 00:43:47,540
+would be everywhere, incorporated into automobiles, appliances,
+
+807
+00:43:47,640 --> 00:43:51,540
+and scientific instruments, significantly increasing
+
+808
+00:43:51,640 --> 00:43:55,940
+their capability and reliability.
+
+809
+00:43:56,040 --> 00:43:59,540
+Unprecedented fortunes would be made in businesses that hadn't
+
+810
+00:43:59,640 --> 00:44:01,680
+existed a decade before.
+
+811
+00:44:01,780 --> 00:44:04,340
+Education would be transformed forever,
+
+812
+00:44:04,341 --> 00:44:06,900
+As the access to information would be transferred
+
+813
+00:44:07,000 --> 00:44:10,180
+from libraries and universities to your desktop,
+
+814
+00:44:10,280 --> 00:44:12,780
+the Earth would shrink with unprecedented speed
+
+815
+00:44:12,880 --> 00:44:16,920
+as a worldwide communication grid became accessible to anyone
+
+816
+00:44:17,020 --> 00:44:20,420
+with a computer and modem.
+
+817
+00:44:20,520 --> 00:44:23,620
+And even now, the evolution of a thinking machine
+
+818
+00:44:23,720 --> 00:44:25,120
+isn't finished.
+
+819
+00:44:25,220 --> 00:44:28,240
+Computers have already changed the way we live,
+
+820
+00:44:28,340 --> 00:44:32,100
+and they'll change the way we explore our world and other
+
+821
+00:44:32,101 --> 00:44:34,600
+in the 21st century.
+
+822
+00:44:34,700 --> 00:44:36,980
+They will take us to distant galaxies,
+
+823
+00:44:37,080 --> 00:44:39,980
+and they will connect us right here on Earth.
+
+824
+00:44:40,080 --> 00:44:43,620
+Computers will continue to become more interconnected.
+
+825
+00:44:43,720 --> 00:44:48,180
+They will continue to become smaller, faster, cheaper,
+
+826
+00:44:48,280 --> 00:44:50,620
+and software will become more powerful.
+
+827
+00:44:53,980 --> 00:44:57,060
+Minds that have yet to be formed will mold this power
+
+828
+00:44:57,160 --> 00:45:02,100
+to create new marvels inconceivable to us today.
+
+829
+00:46:02,100 --> 00:46:04,100
+You
+

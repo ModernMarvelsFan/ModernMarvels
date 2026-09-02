@@ -1,0 +1,2148 @@
+1
+00:00:00,001 --> 00:00:00,701
+Radar.
+
+2
+00:00:00,702 --> 00:00:10,000
+Abstract blips on a screen that translate into planes, bombs, and surprise attacks.
+
+3
+00:00:10,001 --> 00:00:10,901
+Summer, 1940.
+
+4
+00:00:10,902 --> 00:00:17,000
+The Nazi blitzkrieg sweeps through Europe and Britain shudders on the verge of collapse.
+
+5
+00:00:17,001 --> 00:00:24,000
+In Liverpool, a lone British physicist has the prototype for England's last hope for survival.
+
+6
+00:00:24,001 --> 00:00:30,400
+Now, Radar, the invention that saved democracy on Modern Marvels.
+
+7
+00:00:54,000 --> 00:00:59,800
+May 1940.
+
+8
+00:00:59,801 --> 00:01:05,820
+Germany crushes French forces, conquering the country in a matter of weeks.
+
+9
+00:01:05,821 --> 00:01:09,180
+Hitler rides triumphantly into Paris.
+
+10
+00:01:09,181 --> 00:01:15,560
+Just miles away, 20-year-old Pat Hancock finds his Royal Air Force Squadron squarely in the
+
+11
+00:01:15,561 --> 00:01:18,200
+teeth of the Nazi advance.
+
+12
+00:01:18,201 --> 00:01:26,600
+Germans were advancing madly, and from then on, we literally retreated, if not every day, every two or three days.
+
+13
+00:01:27,600 --> 00:01:30,820
+They had already, of course, swept through Norway before that.
+
+14
+00:01:31,460 --> 00:01:38,340
+Then they occupied Belgium, Denmark, and they were having a great old time.
+
+15
+00:01:38,341 --> 00:01:49,820
+Hitler is on the verge of completing his lightning conquest of Europe.
+
+16
+00:01:50,500 --> 00:01:55,260
+Only Britain, a tiny island surrounded by the Nazi blitzkrieg, stands in his way.
+
+17
+00:01:56,960 --> 00:02:00,560
+Defying the grim odds, the British refuse to surrender.
+
+18
+00:02:03,740 --> 00:02:06,820
+England was under severe air attack.
+
+19
+00:02:06,821 --> 00:02:11,580
+And of course, the purpose of this attack was to knock out the Royal Air Force
+
+20
+00:02:11,581 --> 00:02:16,260
+as a prelude to a cross-channel assault on England itself.
+
+21
+00:02:16,380 --> 00:02:20,840
+And Hitler knew that he had the military strength to move across the channel,
+
+22
+00:02:21,040 --> 00:02:25,920
+but he dared not venture it against the Royal Navy unless he could establish air superiority.
+
+23
+00:02:27,000 --> 00:02:29,980
+Few doubted that England would soon fall.
+
+24
+00:02:30,420 --> 00:02:36,740
+The German Luftwaffe fleet numbered 2,400 planes, four times that of the RAF.
+
+25
+00:02:36,820 --> 00:02:39,320
+And once Hitler captured England,
+
+26
+00:02:39,321 --> 00:02:42,420
+his hold on the continent would be secured.
+
+27
+00:02:43,460 --> 00:02:47,220
+Even the United States might be unable to challenge his domination.
+
+28
+00:02:48,460 --> 00:02:52,080
+The fate of freedom in Europe and around the world hung in the balance.
+
+29
+00:03:12,451 --> 00:03:17,980
+The one hope for British survival was the new and top secret technology of radar.
+
+30
+00:03:17,981 --> 00:03:21,740
+Radar was more discovered than invented.
+
+31
+00:03:21,741 --> 00:03:25,180
+By the 1930s, radio waves were everywhere,
+
+32
+00:03:25,181 --> 00:03:28,520
+conveying entertainment and information to millions.
+
+33
+00:03:29,520 --> 00:03:30,980
+In the course of transmission,
+
+34
+00:03:30,981 --> 00:03:33,720
+radio technicians noticed that large objects
+
+35
+00:03:33,721 --> 00:03:35,260
+reflected their signals.
+
+36
+00:03:37,100 --> 00:03:39,480
+The phenomenon was dubbed radar
+
+37
+00:03:39,481 --> 00:03:42,600
+for radio detecting and ranging.
+
+38
+00:03:42,601 --> 00:03:47,340
+The word radar is spelled the same forward or backward,
+
+39
+00:03:47,341 --> 00:03:50,300
+a clever play on the process it describes.
+
+40
+00:03:51,740 --> 00:03:57,200
+When the radar antenna sends out its pulses, they bounce back from the unknown target,
+
+41
+00:03:57,201 --> 00:04:00,540
+and the result is seen as a peak on the radar screen.
+
+42
+00:04:01,320 --> 00:04:06,260
+Reading this pattern, the distance and speed of an approaching plane are charted.
+
+43
+00:04:11,540 --> 00:04:16,900
+Germany and the United States saw radar as one of many technologies worth pursuing.
+
+44
+00:04:16,901 --> 00:04:22,040
+but British leaders faced with Hitler's threats gave air defense top priority.
+
+45
+00:04:23,660 --> 00:04:29,060
+Their radar pioneers worked out of this remote Gothic mansion 90 miles from London.
+
+46
+00:04:30,460 --> 00:04:34,560
+They developed a national radar system, the Chain Home Network.
+
+47
+00:04:35,460 --> 00:04:40,320
+By 1940, the eastern coastline of England was ringed with 21 radar towers.
+
+48
+00:04:40,321 --> 00:04:47,320
+These electronic sentries provided early warning of enemy attacks from up to 100 miles away.
+
+49
+00:04:47,321 --> 00:04:53,320
+Hitler and his generals had carefully built the most awesome fighting machine ever,
+
+50
+00:04:53,321 --> 00:04:57,320
+but they were unprepared for this new technology.
+
+51
+00:04:57,321 --> 00:05:05,320
+Radar was entirely unanticipated, and when the strategists of air power developed their ideas in the 1920s and 1930s,
+
+52
+00:05:05,321 --> 00:05:08,920
+what they imagined was free access to attack
+
+53
+00:05:09,020 --> 00:05:14,060
+on the enemy's homeland, and radar denied them that.
+
+54
+00:05:14,160 --> 00:05:16,800
+Hermann Goring, chief of the Luftwaffe,
+
+55
+00:05:16,900 --> 00:05:19,960
+suspected that the huge towers bordering England
+
+56
+00:05:20,060 --> 00:05:22,000
+were a radar network.
+
+57
+00:05:22,100 --> 00:05:24,440
+A German zeppelin was dispatched over England
+
+58
+00:05:24,540 --> 00:05:27,980
+to search for radio waves.
+
+59
+00:05:28,080 --> 00:05:32,140
+It detected none, possibly because of scanning
+
+60
+00:05:32,240 --> 00:05:35,320
+the wrong wavelengths.
+
+61
+00:05:35,321 --> 00:05:38,880
+The chain home radar reached across the English Channel,
+
+62
+00:05:39,020 --> 00:05:45,160
+detecting unsuspecting enemy aircraft as they massed in attack formations over French airfields.
+
+63
+00:05:46,060 --> 00:05:51,740
+Data on the location and speed of the Luftwaffe squadrons went to underground operation centers.
+
+64
+00:05:52,520 --> 00:05:56,820
+Their giant maps of the coastline were marked to reflect the latest intelligence.
+
+65
+00:05:58,700 --> 00:06:04,920
+Generals relayed their orders to four RAF command centers where fighter planes were scrambled to intercept.
+
+66
+00:06:05,320 --> 00:06:11,460
+At this stage, we simply knew that we were able to go.
+
+67
+00:06:12,040 --> 00:06:16,580
+We leapt into our airplanes with the ground crew straggling us in at high speed.
+
+68
+00:06:17,580 --> 00:06:19,940
+And off we went, following the leader.
+
+69
+00:06:20,320 --> 00:06:21,680
+Grass fields, remember, no runway.
+
+70
+00:06:21,800 --> 00:06:24,300
+We simply took up 12 abreast, even 24 abreast sometimes.
+
+71
+00:06:26,140 --> 00:06:29,580
+In World War I, airborne planes were on their own.
+
+72
+00:06:29,581 --> 00:06:36,780
+But now RAF ground centers maintain control over their squadrons using radar to direct them on intercept courses.
+
+73
+00:06:37,620 --> 00:06:45,160
+Only when enemy planes were spotted would command pass to the pilots who uttered their rallying cry of chally ho.
+
+74
+00:06:46,700 --> 00:06:48,520
+The battle was on.
+
+75
+00:06:59,580 --> 00:07:06,460
+Radar's early warning allowed the RAF to conserve its limited resources of planes, fuel, and pilots.
+
+76
+00:07:09,220 --> 00:07:14,220
+And by surprising the enemy at the right place with the right number of aircraft,
+
+77
+00:07:14,840 --> 00:07:18,800
+the RAF downed two Luftwaffe planes for every one lost.
+
+78
+00:07:18,801 --> 00:07:32,620
+as the battle of britain stretched over the summer of 1940 radar denied hitler the air superiority
+
+79
+00:07:32,621 --> 00:07:39,480
+he needed to launch an invasion for the first time the nazi blitzkrieg had been slowed and
+
+80
+00:07:39,481 --> 00:07:45,440
+proof that germany was vulnerable gave english civilians the courage to withstand the constant
+
+81
+00:07:45,441 --> 00:07:47,360
+bombardment of their homes.
+
+82
+00:07:55,220 --> 00:08:01,480
+During the battle, American physicist George Vallee saw firsthand the resolve of ordinary
+
+83
+00:08:01,481 --> 00:08:03,480
+Londoners to outlast Hitler.
+
+84
+00:08:03,481 --> 00:08:09,740
+They built up the fronts of the houses, but behind the fronts of the houses was nothing.
+
+85
+00:08:09,741 --> 00:08:13,780
+and so you could see what looked like a pretty complete city
+
+86
+00:08:13,781 --> 00:08:16,800
+and it was actually blown to hell.
+
+87
+00:08:17,660 --> 00:08:20,680
+You can keep a stiff up a little bit a hell of a lot better
+
+88
+00:08:20,681 --> 00:08:23,300
+if you aren't looking at ruins every day.
+
+89
+00:08:24,080 --> 00:08:27,940
+They fixed it to keep the morale of the Londoners high
+
+90
+00:08:27,941 --> 00:08:30,060
+and the morale was high.
+
+91
+00:08:34,340 --> 00:08:38,200
+Radar had kept Britain alive, but time was running out.
+
+92
+00:08:38,201 --> 00:08:45,200
+Even at a kill ratio of 2 to 1, the RAF would soon succumb to the far greater resources of the Luftwaffe.
+
+93
+00:08:45,201 --> 00:08:53,200
+The British were being slowly drained of important resources in planes and even more importantly in pilots.
+
+94
+00:08:53,201 --> 00:08:55,039
+This was the best and brightest.
+
+95
+00:08:55,040 --> 00:08:58,200
+You could not bring a young man up to training so fast.
+
+96
+00:08:58,201 --> 00:09:03,200
+And these constant day after day attacks on the British airfields were taking their toll.
+
+97
+00:09:03,201 --> 00:09:04,198
+their toll.
+
+98
+00:09:04,199 --> 00:09:11,820
+For Hitler, complete victory was in sight, but his ignorance of radar would sabotage
+
+99
+00:09:11,821 --> 00:09:13,526
+his dreams of conquest.
+
+100
+00:09:13,527 --> 00:09:18,940
+He would commit a tactical blunder that rescued Britain and paved the way
+
+101
+00:09:18,941 --> 00:09:23,396
+for five more years of radar warfare.
+
+102
+00:09:23,397 --> 00:09:30,260
+In 1939, British dispatchers misread the new radar system
+
+103
+00:09:30,261 --> 00:09:34,660
+and sent up squadrons of planes to fight non-existent German planes.
+
+104
+00:09:34,661 --> 00:09:38,680
+In the confusion, several RAF planes were shot down.
+
+105
+00:09:43,120 --> 00:09:49,140
+In August 1940, Churchill ordered the first aerial attacks on German territory.
+
+106
+00:09:50,160 --> 00:09:54,460
+Although the strikes caused little damage in Berlin, they enraged Hitler.
+
+107
+00:09:55,580 --> 00:09:57,840
+Already furious at the British for resisting,
+
+108
+00:09:57,841 --> 00:10:01,220
+he poured his anger into massive attacks on London.
+
+109
+00:10:02,720 --> 00:10:05,580
+Instead of concentrating on knocking out the radar
+
+110
+00:10:05,581 --> 00:10:08,740
+and knocking out the airfields and knocking out the planes,
+
+111
+00:10:09,200 --> 00:10:11,980
+they finally turned towards retaliatory raids
+
+112
+00:10:11,981 --> 00:10:14,720
+against London and the civilian population,
+
+113
+00:10:15,020 --> 00:10:17,800
+and that was a waste of their strategic airpower.
+
+114
+00:10:18,420 --> 00:10:20,600
+If they had not made that mistake,
+
+115
+00:10:20,700 --> 00:10:22,580
+it's not clear that the Royal Air Force
+
+116
+00:10:22,581 --> 00:10:24,000
+could have prevailed in that battle.
+
+117
+00:10:27,840 --> 00:10:34,020
+The summer-long struggle culminated in an epic air battle on September 15, 1940.
+
+118
+00:10:35,120 --> 00:10:40,560
+By late in the day, the Luftwaffe had lost 60 aircraft, the RAF 26.
+
+119
+00:10:42,580 --> 00:10:46,860
+Unknown to Germany, Britain had exhausted its reserves of fighter planes.
+
+120
+00:10:47,560 --> 00:10:48,760
+England was defenseless.
+
+121
+00:10:50,200 --> 00:10:52,700
+Of this day, Churchill later wrote,
+
+122
+00:10:52,701 --> 00:10:54,280
+The odds were great.
+
+123
+00:10:54,920 --> 00:10:56,040
+Our margins small.
+
+124
+00:10:56,520 --> 00:10:57,900
+The stakes infinite.
+
+125
+00:11:01,180 --> 00:11:05,820
+Germany, busy counting its own losses, finally decided to break off the attack.
+
+126
+00:11:07,160 --> 00:11:10,400
+Two days later, Hitler canceled his invasion plans.
+
+127
+00:11:13,260 --> 00:11:21,260
+Guarded by newfound technology and old-fashioned human tenacity, Britain had survived its darkest hour.
+
+128
+00:11:21,261 --> 00:11:25,140
+Without radar, we would have been as we were in World War I,
+
+129
+00:11:25,141 --> 00:11:27,260
+basically depending entirely on our eyeballs.
+
+130
+00:11:27,261 --> 00:11:32,260
+Radar was a fantastic development.
+
+131
+00:11:32,261 --> 00:11:35,260
+It was one of the major reasons for winning the battle,
+
+132
+00:11:35,261 --> 00:11:37,260
+apart from the fact that we did.
+
+133
+00:11:45,260 --> 00:11:47,260
+Even as the Battle of Britain raged,
+
+134
+00:11:47,261 --> 00:11:50,060
+and raged, English scientists turned their thoughts
+
+135
+00:11:50,061 --> 00:11:52,840
+to long-term survival.
+
+136
+00:11:52,841 --> 00:11:54,640
+Faced with few options, they decided
+
+137
+00:11:54,641 --> 00:11:57,540
+to share their most vital military secrets
+
+138
+00:11:57,541 --> 00:11:59,940
+with the United States.
+
+139
+00:11:59,941 --> 00:12:03,040
+Only America possessed the scientific and industrial
+
+140
+00:12:03,041 --> 00:12:07,720
+capacity to support a long war.
+
+141
+00:12:07,721 --> 00:12:10,720
+Radar pioneer Taffy Bowen collected his country's
+
+142
+00:12:10,721 --> 00:12:14,620
+scientific bounty in a single black box.
+
+143
+00:12:14,621 --> 00:12:19,420
+He actually carried it on the underground to the British Ministry of Supply
+
+144
+00:12:19,421 --> 00:12:23,060
+and then picked it up again in a cab and took it to his hotel.
+
+145
+00:12:24,100 --> 00:12:28,160
+The box was too big to fit in a safe deposit at the hotel,
+
+146
+00:12:28,161 --> 00:12:32,600
+so he had to sleep with Britain's most precious secrets wedged under his bed.
+
+147
+00:12:33,200 --> 00:12:37,300
+Of all the blueprints, diagrams, and devices in Bowen's trunk,
+
+148
+00:12:37,301 --> 00:12:43,340
+none mattered more than a small radio transmitter called the cavity magnetron.
+
+149
+00:12:44,620 --> 00:12:50,620
+Existing radars transmitted at low frequencies or long wavelengths,
+
+150
+00:12:50,621 --> 00:12:54,620
+with each radio wave measuring 1 to 10 meters.
+
+151
+00:12:54,621 --> 00:13:00,620
+The cavity magnetron could generate shorter or microwaves only 10 centimeters long.
+
+152
+00:13:00,621 --> 00:13:07,620
+Microwaves produced a narrower beam much more accurate at pinpointing a target's location.
+
+153
+00:13:07,621 --> 00:13:11,620
+And while previous systems required large transmitters,
+
+154
+00:13:11,621 --> 00:13:17,200
+Microwaves offered the promise of sophisticated radars compact enough to fit on a plane.
+
+155
+00:13:19,800 --> 00:13:26,740
+The prospect of airborne radar took on added urgency when Hitler switched to night raids on English cities.
+
+156
+00:13:31,700 --> 00:13:33,980
+Thousands took to sleeping in the underground.
+
+157
+00:13:35,240 --> 00:13:40,460
+On a single October night, London was pounded for nine straight hours, leaving hundreds dead.
+
+158
+00:13:41,620 --> 00:13:54,240
+Aboard the Canadian liner, Duchess of Richmond, Taffy Bowen carried the precious cavity magnetron
+
+159
+00:13:54,241 --> 00:13:55,400
+to the United States.
+
+160
+00:13:58,280 --> 00:14:03,700
+America's first radar research center was hastily established on the MIT campus in Cambridge,
+
+161
+00:14:03,701 --> 00:14:09,080
+Massachusetts, and named the Radiation Laboratory, or Rad Lab.
+
+162
+00:14:11,620 --> 00:14:19,360
+The nation's top physicists were recruited in secret to this radar project more than a year before the United States even entered the war.
+
+163
+00:14:20,080 --> 00:14:27,460
+Among them were ten future Nobel laureates, several university presidents, two science advisors, two presidents.
+
+164
+00:14:27,461 --> 00:14:38,680
+The best of the best were corralled in this secret project, often with nothing more than someone they knew telling them to come to Boston to do secret war work.
+
+165
+00:14:41,620 --> 00:14:48,620
+One of the first recruits was Norman Ramsey, a young physicist and future Nobel Prize winner.
+
+166
+00:14:48,621 --> 00:14:54,620
+He was summoned to MIT for a temporary stay that would last more than half a century.
+
+167
+00:14:54,621 --> 00:15:01,620
+It was a very exciting time. The war was, in one sense, had been very depressing,
+
+168
+00:15:01,621 --> 00:15:04,620
+and at least we were doing something actively about it.
+
+169
+00:15:04,621 --> 00:15:09,620
+It was apparent that radar was a very major component.
+
+170
+00:15:09,621 --> 00:15:16,620
+American scientists were new to war work and untutored in the ways of secrecy.
+
+171
+00:15:16,621 --> 00:15:17,545
+Concerned, Dr.
+
+172
+00:15:17,546 --> 00:15:23,620
+Ramsey tested the lab's security by having his wife phone and request technical information.
+
+173
+00:15:23,621 --> 00:15:29,620
+At that time, there was no distinction between internal calls and external calls at the lab.
+
+174
+00:15:29,621 --> 00:15:34,620
+You could call on external telephone and begin asking questions.
+
+175
+00:15:34,621 --> 00:15:36,620
+You know, you got very good answers.
+
+176
+00:15:36,621 --> 00:15:38,620
+It soon became more and more revealing.
+
+177
+00:15:38,621 --> 00:15:41,620
+And with each bit of information she figured out
+
+178
+00:15:41,621 --> 00:15:43,620
+was radio location we were working on.
+
+179
+00:15:43,621 --> 00:15:47,620
+It was figured out it was 10 centimeter wavelength.
+
+180
+00:15:47,621 --> 00:15:50,620
+She got a tremendous amount of information just by telephone.
+
+181
+00:15:53,620 --> 00:15:55,620
+The Nazis apparently never took advantage
+
+182
+00:15:55,621 --> 00:15:57,620
+of the lack of security.
+
+183
+00:15:57,621 --> 00:16:01,620
+But by late 1940, they had belatedly realized
+
+184
+00:16:01,621 --> 00:16:05,620
+radar's importance and geared up their best scientific minds
+
+185
+00:16:05,621 --> 00:16:08,920
+minds in a race to match allied technology.
+
+186
+00:16:08,921 --> 00:16:12,220
+But an unprecedented series of partnerships
+
+187
+00:16:12,221 --> 00:16:14,692
+would keep the Rad Lab a step ahead.
+
+188
+00:16:14,693 --> 00:16:18,400
+Physicists accustomed to working alone joined in teams
+
+189
+00:16:18,401 --> 00:16:19,575
+to develop ideas.
+
+190
+00:16:19,576 --> 00:16:24,620
+Scientific and military leaders who had clashed in World War I cooperated
+
+191
+00:16:24,621 --> 00:16:25,321
+freely.
+
+192
+00:16:25,322 --> 00:16:32,160
+And perhaps most importantly, American physicists delighted in collaborating with
+
+193
+00:16:32,161 --> 00:16:35,560
+of their English cousins.
+
+194
+00:16:35,561 --> 00:16:38,860
+Taffy Bowen came to America, and he came to be
+
+195
+00:16:38,861 --> 00:16:42,100
+the living embodiment of the spirit of the Rad Lab.
+
+196
+00:16:42,101 --> 00:16:45,480
+Here was this British scientist, the same age
+
+197
+00:16:45,481 --> 00:16:47,880
+as all the Americans, yet he'd already worked
+
+198
+00:16:47,881 --> 00:16:52,620
+for five years to protect his country from invasion.
+
+199
+00:16:52,621 --> 00:16:55,720
+The Rad Lab expanded with astonishing speed.
+
+200
+00:16:55,721 --> 00:16:59,580
+By war's end, it had over 4,000 workers.
+
+201
+00:16:59,581 --> 00:17:02,120
+Building after building was turned over to the lab.
+
+202
+00:17:03,660 --> 00:17:06,720
+And strange domes appeared on MIT rooftops.
+
+203
+00:17:08,480 --> 00:17:16,300
+Inside the mysterious structures, experimental radars showed their stuff by bouncing test signals off the Boston skyline.
+
+204
+00:17:16,301 --> 00:17:25,060
+During that period of time, the MIT Humor magazine came out with a cartoon showing the
+
+205
+00:17:25,061 --> 00:17:32,360
+side of MIT with a most fantastic array of structures up on top, which was sort of ridiculing
+
+206
+00:17:32,361 --> 00:17:34,460
+the amount that we had put up there.
+
+207
+00:17:34,461 --> 00:17:37,420
+And this was a very conspicuous thing.
+
+208
+00:17:37,421 --> 00:17:44,440
+Despite this effort, adopting microwave radar for airborne intercept took time.
+
+209
+00:17:44,441 --> 00:17:46,940
+In Britain, the Luftwaffe's reign of terror
+
+210
+00:17:46,941 --> 00:17:51,980
+continued unabated into the spring of 1941.
+
+211
+00:17:51,981 --> 00:17:55,600
+Frustrated in his latest attempt to crush British resolve,
+
+212
+00:17:55,601 --> 00:18:03,000
+in June 1941, Hitler launched a surprise invasion of Russia.
+
+213
+00:18:03,001 --> 00:18:05,400
+At the Rad Lab, scientists turned their attention
+
+214
+00:18:05,401 --> 00:18:07,960
+to developing air-to-ground radar for hunting
+
+215
+00:18:07,961 --> 00:18:10,660
+ships and submarines.
+
+216
+00:18:10,661 --> 00:18:14,560
+Soon, no vessel would escape radar's long reach,
+
+217
+00:18:14,561 --> 00:18:19,060
+not even Germany's most feared warship, the mighty Bismarck.
+
+218
+00:18:24,200 --> 00:18:26,780
+Radar units were installed in some British planes
+
+219
+00:18:26,781 --> 00:18:30,040
+as early as 1939, but were removed
+
+220
+00:18:30,041 --> 00:18:31,840
+before they flew missions over Europe
+
+221
+00:18:31,841 --> 00:18:35,760
+to prevent radar technology from falling into German hands.
+
+222
+00:18:35,761 --> 00:18:44,560
+Having failed to bomb the British into surrender, Germany was determined to starve them into submission.
+
+223
+00:18:45,440 --> 00:18:50,280
+As an island nation, England was utterly dependent on outside supplies.
+
+224
+00:18:51,180 --> 00:18:55,440
+Great convoys tried to deliver desperately needed food and fuel,
+
+225
+00:18:56,120 --> 00:19:01,320
+but the Nazi warship Bismarck terrorized Allied shipping in the North Atlantic.
+
+226
+00:19:01,321 --> 00:19:06,860
+It sank Britain's most powerful ship, the Hood, in a matter of minutes.
+
+227
+00:19:08,560 --> 00:19:15,480
+When a magazine exploded aboard the Hood, only three survived out of a crew of 1,400 men.
+
+228
+00:19:20,440 --> 00:19:24,820
+Stunned by the loss of their flagship, English morale plummeted.
+
+229
+00:19:25,680 --> 00:19:27,560
+The Bismarck seemed invincible.
+
+230
+00:19:27,561 --> 00:19:34,520
+But the Allies struck back, employing their superior radar to haunt the now legendary ship.
+
+231
+00:19:35,980 --> 00:19:44,360
+After sinking a supply vessel on May 26, 1941, the Bismarck disappeared into a veil of fog and clouds.
+
+232
+00:19:44,880 --> 00:19:51,720
+A cat-and-mouse chase ensued as the British carrier Ark Royal used its radar to lead a large force in pursuit.
+
+233
+00:19:51,721 --> 00:20:00,600
+For 30 hours, Allied radar tracked the Bismarck on a zigzag course across the North Atlantic.
+
+234
+00:20:07,240 --> 00:20:13,480
+When the weather finally cleared, a massive 24-hour assault destroyed the Bismarck.
+
+235
+00:20:21,720 --> 00:20:27,200
+The radar war was in full swing.
+
+236
+00:20:28,000 --> 00:20:30,460
+The sides were literally racing with each other
+
+237
+00:20:30,461 --> 00:20:32,120
+for the newest innovations
+
+238
+00:20:32,121 --> 00:20:34,780
+and also the newest countermeasures
+
+239
+00:20:34,781 --> 00:20:36,280
+against the enemy's innovations
+
+240
+00:20:36,281 --> 00:20:38,760
+and finally counter-countermeasures
+
+241
+00:20:38,761 --> 00:20:42,940
+until whole scientific teams were devoted to anticipating
+
+242
+00:20:42,941 --> 00:20:45,780
+what the enemy was likely to do with new technology
+
+243
+00:20:45,781 --> 00:20:48,640
+and trying to protect themselves against the consequences.
+
+244
+00:20:48,641 --> 00:20:50,840
+It was a real hothouse atmosphere.
+
+245
+00:20:51,720 --> 00:20:54,940
+With the United States still officially at peace,
+
+246
+00:20:54,941 --> 00:20:59,340
+its naval officers were slow to realize radar's importance.
+
+247
+00:21:00,580 --> 00:21:04,040
+All that would change on December 7, 1941.
+
+248
+00:21:05,720 --> 00:21:08,880
+At 7 o'clock a.m., radar sites at Pearl Harbor
+
+249
+00:21:08,881 --> 00:21:11,680
+detected a massive incoming airborne force.
+
+250
+00:21:12,640 --> 00:21:15,360
+The information was passed up the chain of command,
+
+251
+00:21:16,100 --> 00:21:18,140
+where it was promptly ignored.
+
+252
+00:21:18,141 --> 00:21:21,740
+This strange new gadget called radar,
+
+253
+00:21:21,780 --> 00:21:24,540
+it was decided must be malfunctioning.
+
+254
+00:21:24,580 --> 00:21:27,140
+At dawn, the Japanese struck.
+
+255
+00:21:36,700 --> 00:21:41,500
+The surprise assault on Pearl Harbor left over 2,400 dead,
+
+256
+00:21:41,540 --> 00:21:43,860
+300 planes destroyed,
+
+257
+00:21:43,900 --> 00:21:47,060
+and the entire US Pacific fleet in chaos,
+
+258
+00:21:47,061 --> 00:21:51,120
+chaos. Never again would radar's early warning power be ignored.
+
+259
+00:21:52,280 --> 00:21:57,760
+The Pearl Harbor attack, for all the tremendous tragedy it brought, did more to ensure radar's
+
+260
+00:21:57,761 --> 00:21:59,996
+place in World War II than anything else.
+
+261
+00:21:59,997 --> 00:22:02,940
+Once it became known that a radar station had actually
+
+262
+00:22:02,941 --> 00:22:09,700
+spotted the beginnings of the Japanese attack and followed it all the way into Oahu, the Army and
+
+263
+00:22:09,701 --> 00:22:15,200
+Navy immediately launched these massive programs to assess the state of their radar development.
+
+264
+00:22:15,201 --> 00:22:18,460
+The war had become truly global.
+
+265
+00:22:20,540 --> 00:22:25,580
+Allied leaders agreed that their top priority was maintaining supply lines to England.
+
+266
+00:22:27,000 --> 00:22:32,540
+If Hitler starved England into submission, there would be no base from which to liberate Europe.
+
+267
+00:22:33,600 --> 00:22:38,160
+Even the United States might be forced to make a negotiated peace with the Nazis.
+
+268
+00:22:38,161 --> 00:22:41,960
+We'll win through to absolute victory.
+
+269
+00:22:41,961 --> 00:22:48,540
+Right after the U.S. entered the war formally in December 1941,
+
+270
+00:22:49,060 --> 00:22:52,640
+the German Admiral Donitz launched Operation Palkenschlag,
+
+271
+00:22:52,641 --> 00:22:57,340
+the role of the drum, in which he began through his U-boats attacking the shipping
+
+272
+00:22:57,341 --> 00:23:01,140
+along the east coast of North America and the United States.
+
+273
+00:23:01,620 --> 00:23:05,120
+And this, from the start, totally devastated shipping.
+
+274
+00:23:05,260 --> 00:23:07,320
+The United States was completely ineffective.
+
+275
+00:23:07,460 --> 00:23:09,660
+It had no grand plan to protect the ships.
+
+276
+00:23:09,740 --> 00:23:10,800
+There were no convoys.
+
+277
+00:23:10,801 --> 00:23:15,000
+There were something like nine aircraft able to go out and patrol.
+
+278
+00:23:15,520 --> 00:23:19,700
+The Navy sent its first destroyer out, and it was promptly sunk.
+
+279
+00:23:32,360 --> 00:23:36,020
+The submarines were really pretty bad things.
+
+280
+00:23:36,021 --> 00:23:42,340
+You could sit out on the corner of Cape Cod and watch a submarine every day.
+
+281
+00:23:42,820 --> 00:23:47,640
+They'd come up and knock some damn tramp steamer off.
+
+282
+00:23:48,420 --> 00:23:50,140
+It was just a standard show.
+
+283
+00:23:54,000 --> 00:24:00,380
+By early 1943, Allied losses in the North Atlantic had reached catastrophic proportions.
+
+284
+00:24:00,381 --> 00:24:06,380
+In March, 21 supply vessels were sunk at the cost of a lone U-boat.
+
+285
+00:24:06,381 --> 00:24:12,380
+Thanks to Operation Pockenschlag, Germany was dangerously close to winning the war.
+
+286
+00:24:20,380 --> 00:24:26,380
+Building on microwave technology, the Rad Lab developed air-to-ground radar
+
+287
+00:24:26,381 --> 00:24:32,380
+precise enough to detect U-boats and compact enough to squeeze into aircraft.
+
+288
+00:24:32,381 --> 00:24:36,380
+Fitting radars into the airplanes that were already built was a real problem,
+
+289
+00:24:36,381 --> 00:24:40,380
+but we had one great advantage in the case of the Navy planes.
+
+290
+00:24:40,381 --> 00:24:45,380
+The larger airplanes had both an officer's head and an enlisted man's head.
+
+291
+00:24:45,381 --> 00:24:51,380
+That is, separate toilets for the officers and the enlisted men.
+
+292
+00:24:51,381 --> 00:24:55,740
+and we usually appropriated one or another of these heads
+
+293
+00:24:55,741 --> 00:24:57,420
+and forced them to use a common one.
+
+294
+00:24:58,580 --> 00:25:03,220
+The U-boat's primary defense was their presumed invisibility.
+
+295
+00:25:04,500 --> 00:25:07,400
+Once airborne radar stripped away their veil,
+
+296
+00:25:07,960 --> 00:25:09,440
+the subs were easy prey.
+
+297
+00:25:10,300 --> 00:25:14,280
+Radar gave them the option to move against the submarine offensively,
+
+298
+00:25:14,340 --> 00:25:17,760
+that is, to seek out the submarine and to find it
+
+299
+00:25:17,761 --> 00:25:20,480
+even when it wasn't moving in on a convoy vessel.
+
+300
+00:25:21,380 --> 00:25:24,340
+These submarines had to spend a considerable amount of time
+
+301
+00:25:24,341 --> 00:25:26,420
+on the surface recharging their batteries.
+
+302
+00:25:26,421 --> 00:25:28,620
+They needed the oxygen to do that.
+
+303
+00:25:28,621 --> 00:25:31,140
+And when they were on the surface, night or day,
+
+304
+00:25:31,141 --> 00:25:35,540
+they were vulnerable to detection by radar.
+
+305
+00:25:35,541 --> 00:25:39,220
+Within a few short months, in the summer of 1943,
+
+306
+00:25:39,221 --> 00:25:42,820
+the Germans saw victory slip from their grasp.
+
+307
+00:25:42,821 --> 00:25:46,320
+The battle in the North Atlantic turned against them,
+
+308
+00:25:46,321 --> 00:25:49,940
+and with it went their chance for global supremacy.
+
+309
+00:25:49,941 --> 00:25:53,280
+U-boat losses grew steadily, freeing the lifeline to Britain.
+
+310
+00:25:54,000 --> 00:26:00,660
+On May 15, 1943, Admiral Donitz broadcast a plaintive message to his forces at sea.
+
+311
+00:26:02,220 --> 00:26:07,720
+The enemy, in his efforts to deprive the U-boat of its invisibility,
+
+312
+00:26:08,560 --> 00:26:14,900
+has developed a system of radio location which puts him several lengths ahead of us.
+
+313
+00:26:14,901 --> 00:26:22,240
+I am fully aware of all the difficulties you encounter in fighting the convoy defense forces.
+
+314
+00:26:22,900 --> 00:26:31,200
+As your commander-in-chief, I have done and will continue to do everything to change this situation as soon as possible.
+
+315
+00:26:34,800 --> 00:26:38,280
+German scientists did their best to fight back.
+
+316
+00:26:38,281 --> 00:26:44,420
+They equipped their subs with a device called Metox that sounded when radio waves reflected off the hall.
+
+317
+00:26:44,900 --> 00:26:46,900
+signaling the ship to dive to safety.
+
+318
+00:26:46,901 --> 00:26:53,000
+But the rad lab quickly bested this countermeasure with a counter countermeasure,
+
+319
+00:26:54,140 --> 00:26:58,100
+radars that transmitted wavelengths too short to be read by Metox.
+
+320
+00:27:03,580 --> 00:27:06,740
+Having twice survived death blows from the Third Reich,
+
+321
+00:27:07,340 --> 00:27:09,680
+England and its allies were ready to take the offensive.
+
+322
+00:27:09,681 --> 00:27:16,680
+Liberating Europe would require the largest and most complicated military operation in history.
+
+323
+00:27:16,681 --> 00:27:20,680
+The radar war would reach its zenith as scientists on both sides
+
+324
+00:27:20,681 --> 00:27:26,680
+race to develop the next and decisive generation of technology.
+
+325
+00:27:31,680 --> 00:27:36,680
+The radar scope in airplanes can detect storm clouds up to 150 miles away.
+
+326
+00:27:36,681 --> 00:27:37,381
+way.
+
+327
+00:27:37,382 --> 00:27:42,660
+This is why the fastened seatbelt sign is often turned on several minutes before the
+
+328
+00:27:42,661 --> 00:27:44,567
+turbulence hits.
+
+329
+00:27:44,568 --> 00:27:54,100
+The demands of war drove radar research at a fantastic pace, compressing decades
+
+330
+00:27:54,101 --> 00:27:57,132
+of basic advances into just five years.
+
+331
+00:27:57,133 --> 00:28:01,020
+At the Rad Lab, physicists knew that only constant
+
+332
+00:28:01,021 --> 00:28:03,960
+innovation would keep them ahead of their Axis counterparts.
+
+333
+00:28:06,440 --> 00:28:10,980
+I was asked to head a new group, which was called the Advanced Development Group.
+
+334
+00:28:11,280 --> 00:28:17,700
+And that group had the assignment of, we used jokingly to say, fighting World War III.
+
+335
+00:28:18,180 --> 00:28:20,400
+Namely, we were working on future things.
+
+336
+00:28:21,140 --> 00:28:25,980
+Actually, it turned out the things that we worked on were very much applied during World War II.
+
+337
+00:28:25,981 --> 00:28:33,280
+One of the toughest challenges was directing planes to targets thousands of miles distant.
+
+338
+00:28:34,340 --> 00:28:39,180
+In 1943, the Allies began massive airstrikes inside Germany.
+
+339
+00:28:39,820 --> 00:28:44,520
+But the skies there were cloudy three out of five days, blinding the bombers.
+
+340
+00:28:45,820 --> 00:28:46,520
+Dr.
+
+341
+00:28:46,521 --> 00:28:51,700
+George Vallee experimented with converting anti-sub radars into directional beacons.
+
+342
+00:28:51,701 --> 00:28:56,700
+His new system, the H2X, quickly became a hot property.
+
+343
+00:28:57,700 --> 00:29:01,700
+And then all of a sudden, out of nowhere,
+
+344
+00:29:01,701 --> 00:29:06,700
+there arrived Colonel Cowart and another colonel,
+
+345
+00:29:06,701 --> 00:29:12,700
+and they said, how soon can you equip 12 B-17s?
+
+346
+00:29:12,701 --> 00:29:14,700
+And I said, huh?
+
+347
+00:29:14,701 --> 00:29:19,700
+And they said, how soon, doctor, can you equip 12 B-17s?
+
+348
+00:29:19,701 --> 00:29:22,200
+Well, I had one set.
+
+349
+00:29:22,260 --> 00:29:26,400
+The H2X, though only accurate to within a few hundred yards,
+
+350
+00:29:26,480 --> 00:29:28,640
+got the job done.
+
+351
+00:29:28,700 --> 00:29:31,220
+It allowed bombing through clouds and darkness,
+
+352
+00:29:31,280 --> 00:29:34,120
+peeling away Germany's natural defenses.
+
+353
+00:29:43,220 --> 00:29:46,100
+The H2X was installed in a select group
+
+354
+00:29:46,160 --> 00:29:49,300
+of American-made B-17s that acted as a weapon
+
+355
+00:29:49,301 --> 00:29:52,000
+as aerial pathfinders.
+
+356
+00:29:52,001 --> 00:29:56,600
+One radar-equipped craft would lead up to 750 B-17s
+
+357
+00:29:56,601 --> 00:29:58,900
+on bombing raids.
+
+358
+00:29:58,901 --> 00:30:01,940
+When the leader dropped his bombs, the rest followed suit,
+
+359
+00:30:01,941 --> 00:30:05,440
+leaving a swath of destruction larger than a square mile.
+
+360
+00:30:15,700 --> 00:30:18,260
+Now, able to fly under all conditions,
+
+361
+00:30:18,261 --> 00:30:23,260
+Allied planes doubled their sorties, ravaging Germany.
+
+362
+00:30:23,261 --> 00:30:27,100
+Just as the war created and unleashed weapons unthinkable
+
+363
+00:30:27,101 --> 00:30:29,940
+when it began, it revolutionized the concept
+
+364
+00:30:29,941 --> 00:30:33,540
+of acceptable military tactics.
+
+365
+00:30:33,541 --> 00:30:35,840
+The advent of area bombing led directly
+
+366
+00:30:35,841 --> 00:30:39,540
+to the intentional destruction of civilian populations,
+
+367
+00:30:39,541 --> 00:30:41,680
+a policy which the Allies had insisted
+
+368
+00:30:41,681 --> 00:30:43,080
+they would never sink to.
+
+369
+00:30:43,081 --> 00:30:53,140
+And that's when we started to get the targeting of cities in Germany and later in Japan.
+
+370
+00:30:53,141 --> 00:31:00,900
+In the case of the British, they actually pursued a policy that they called de-housing.
+
+371
+00:31:01,280 --> 00:31:07,560
+By this, they meant that they would use strategic bombing to eliminate the housing of the industrial workers,
+
+372
+00:31:07,561 --> 00:31:09,580
+and by dislocating the workers,
+
+373
+00:31:09,800 --> 00:31:12,840
+they would interfere with the industrial productivity
+
+374
+00:31:12,841 --> 00:31:15,540
+and therefore the warfighting capability of the German state.
+
+375
+00:31:15,600 --> 00:31:19,880
+But of course, this was all a euphemism for attacking civilians.
+
+376
+00:31:22,880 --> 00:31:25,400
+Germany attempted to use its radar
+
+377
+00:31:25,401 --> 00:31:28,280
+against the invading planes with little success.
+
+378
+00:31:29,280 --> 00:31:32,660
+Starting in 1943, to counter ground-to-air radar,
+
+379
+00:31:32,661 --> 00:31:36,860
+Allied aircraft dropped bundles of aluminum strips known as chaff.
+
+380
+00:31:37,560 --> 00:31:44,440
+When these were dropped in front of a radar image, they tended to scatter the image and send back a false image.
+
+381
+00:31:44,441 --> 00:31:52,640
+And so attacking aircraft would use these as a countermeasure against enemies' defensive radar, and it was enormously effective.
+
+382
+00:31:52,880 --> 00:31:59,040
+And in fact, a large part of the German countryside ended up being covered with aluminum foil by the time the war ended.
+
+383
+00:32:01,160 --> 00:32:06,220
+In the field of radar, they have the geniuses and we have the ninklepoops.
+
+384
+00:32:06,221 --> 00:32:09,200
+I hate the rogues like the plague
+
+385
+00:32:09,201 --> 00:32:14,180
+But in one respect I am obliged to doff my cup to them
+
+386
+00:32:14,181 --> 00:32:16,420
+After the war's over
+
+387
+00:32:16,421 --> 00:32:19,700
+I'm going to buy myself a British radio set
+
+388
+00:32:19,701 --> 00:32:24,520
+As a token of my regard for their high-frequency work
+
+389
+00:32:24,521 --> 00:32:28,180
+Reich Chancellor Hermann Göring
+
+390
+00:32:36,220 --> 00:32:42,700
+By pounding German cities relentlessly,
+
+391
+00:32:42,701 --> 00:32:47,680
+American bombers drew the Luftwaffe into the skies in self-defense.
+
+392
+00:32:48,460 --> 00:32:51,500
+This led to the total destruction of German airpower,
+
+393
+00:32:52,160 --> 00:32:54,380
+paving the way for the liberation of the continent.
+
+394
+00:32:55,300 --> 00:33:01,200
+D-Day invasion was met by zero Luftwaffe airplanes.
+
+395
+00:33:01,640 --> 00:33:05,880
+Had there been thousands of Luftwaffe airplanes on D-Day,
+
+396
+00:33:06,220 --> 00:33:08,120
+there would have been strafing,
+
+397
+00:33:08,220 --> 00:33:11,760
+and our soldiers would have only been able to land
+
+398
+00:33:11,860 --> 00:33:14,000
+with armor plate over their heads,
+
+399
+00:33:14,100 --> 00:33:17,140
+and that would have really slowed down the proposition
+
+400
+00:33:17,240 --> 00:33:20,200
+and maybe caused it to fail.
+
+401
+00:33:20,300 --> 00:33:23,540
+The D-Day invasion of France became the culmination
+
+402
+00:33:23,640 --> 00:33:27,840
+of an elaborate electronic chess match.
+
+403
+00:33:27,940 --> 00:33:30,140
+During the Battle of Britain, defensive radar
+
+404
+00:33:30,240 --> 00:33:33,640
+had allowed England to husband its limited resources.
+
+405
+00:33:33,641 --> 00:33:37,520
+Now, ironically, Germany was in the same position,
+
+406
+00:33:37,960 --> 00:33:40,240
+hoping that radar would protect its frontiers
+
+407
+00:33:40,241 --> 00:33:42,720
+against a vastly more powerful foe.
+
+408
+00:33:43,940 --> 00:33:47,200
+The Nazis' only chance to repel the assault
+
+409
+00:33:47,201 --> 00:33:49,280
+was to concentrate their defenses.
+
+410
+00:33:52,060 --> 00:33:54,540
+Hitler and his generals would have to guess
+
+411
+00:33:54,541 --> 00:33:56,320
+where the invasion force would land.
+
+412
+00:33:59,620 --> 00:34:01,860
+Tired of losing the radar war,
+
+413
+00:34:01,861 --> 00:34:07,540
+Germany had assembled 600 radars at 200 sites along the coast from Denmark to Spain.
+
+414
+00:34:09,780 --> 00:34:16,100
+Courageous Allied airmen embarked on a series of low-altitude, high-risk missions to bomb the radars.
+
+415
+00:34:17,540 --> 00:34:23,120
+All but a few were destroyed, and those still operational were intentionally left intact
+
+416
+00:34:23,121 --> 00:34:25,640
+to see what the Allies wanted them to see.
+
+417
+00:34:25,641 --> 00:34:35,960
+In the pre-dawn darkness of June 6, 1944, 1,200 combat vessels and 4,000 landing craft
+
+418
+00:34:35,961 --> 00:34:38,460
+converged on the beaches of Normandy.
+
+419
+00:34:45,880 --> 00:34:50,740
+Meanwhile, two phantom invasion forces headed north of the Seine River.
+
+420
+00:34:50,741 --> 00:34:55,180
+Codename Glimmer and Taxable, these small groups of ships
+
+421
+00:34:55,280 --> 00:35:00,520
+carried a series of nine-foot radar-reflecting dishes,
+
+422
+00:35:00,620 --> 00:35:05,420
+each dish mimicking the echo of a 10,000-ton ship.
+
+423
+00:35:05,520 --> 00:35:08,820
+Above the phony fleets, planes dropped barrels of chaff
+
+424
+00:35:08,920 --> 00:35:12,800
+as if supporting an actual invasion.
+
+425
+00:35:12,900 --> 00:35:17,500
+They flew in giant rectangular patterns four by 16 miles
+
+426
+00:35:17,600 --> 00:35:20,740
+and proceeded east at eight knots.
+
+427
+00:35:20,741 --> 00:35:25,740
+the size and speed of a giant seaborne force.
+
+428
+00:35:25,840 --> 00:35:27,740
+The deception worked.
+
+429
+00:35:27,840 --> 00:35:30,640
+Glimmer caused a full-scale alert in Dunkirk,
+
+430
+00:35:30,740 --> 00:35:32,180
+freezing German troops there.
+
+431
+00:35:39,300 --> 00:35:42,400
+By the time the actual invasion force landed at Normandy,
+
+432
+00:35:42,500 --> 00:35:45,700
+the Nazis were so confused, they thought this, too,
+
+433
+00:35:45,800 --> 00:35:47,900
+was another decoy.
+
+434
+00:35:48,000 --> 00:35:49,940
+Not until the afternoon of the 6th
+
+435
+00:35:49,941 --> 00:35:52,880
+that they commit their full defenses to Normandy.
+
+436
+00:35:52,980 --> 00:35:55,140
+By then, it was too late.
+
+437
+00:35:55,240 --> 00:35:58,580
+Before nightfall, 150,000 Allied troops
+
+438
+00:35:58,680 --> 00:36:00,880
+had landed and secured the beachheads.
+
+439
+00:36:09,300 --> 00:36:12,200
+Either on the high seas and land battles
+
+440
+00:36:12,300 --> 00:36:14,960
+and the bombing campaign, time and time again,
+
+441
+00:36:15,060 --> 00:36:17,960
+against a highly effective and resourceful enemy,
+
+442
+00:36:17,961 --> 00:36:21,520
+It was radar that provided the critical margin of victory.
+
+443
+00:36:28,740 --> 00:36:31,580
+Within a year of D-Day, Hitler would be dead
+
+444
+00:36:31,581 --> 00:36:33,940
+and his vaunted Third Reich in ruins.
+
+445
+00:36:36,140 --> 00:36:39,780
+In Boston, the men and women who had done so much to defeat him
+
+446
+00:36:39,781 --> 00:36:42,840
+faced the end of the Rad Lab with mixed emotions.
+
+447
+00:36:42,841 --> 00:36:52,480
+by war's end the rad lab had designed 120 different radar systems american industry had
+
+448
+00:36:52,481 --> 00:36:59,000
+churned out over 1 million sets with the dropping of the first atomic bomb public attention turned
+
+449
+00:36:59,001 --> 00:37:06,360
+to los alamos denying the radar wizards their just due but insiders knew well the truth of a
+
+450
+00:37:06,361 --> 00:37:13,360
+favorite rad lab saying, the atomic bomb ended the war. Radar won it.
+
+451
+00:37:20,360 --> 00:37:23,812
+As radar units get smaller, their usefulness increases.
+
+452
+00:37:23,813 --> 00:37:25,820
+Miniature radar units can now be
+
+453
+00:37:25,821 --> 00:37:29,549
+installed in soldiers' helmets to detect enemy movement.
+
+454
+00:37:29,550 --> 00:37:31,680
+And tiny radar systems are being
+
+455
+00:37:31,681 --> 00:37:33,340
+used in canes for the blind.
+
+456
+00:37:40,020 --> 00:37:42,560
+Even in the darkest days of World War II,
+
+457
+00:37:42,561 --> 00:37:45,020
+Americans never faced the threat of attacks
+
+458
+00:37:45,021 --> 00:37:47,920
+on their homes and families.
+
+459
+00:37:47,921 --> 00:37:51,800
+In 1949, that sense of security would vanish forever.
+
+460
+00:37:51,801 --> 00:38:01,340
+ever.
+
+461
+00:38:01,341 --> 00:38:05,880
+In August 1949, American sensors detected unusual amounts
+
+462
+00:38:05,881 --> 00:38:09,380
+of radioactive dust in the atmosphere.
+
+463
+00:38:09,381 --> 00:38:12,280
+An analysis confirmed the unthinkable.
+
+464
+00:38:12,281 --> 00:38:16,100
+Russia had exploded its first nuclear device.
+
+465
+00:38:16,101 --> 00:38:18,900
+For many in the free world, the thought of Stalin with the bomb
+
+466
+00:38:18,901 --> 00:38:21,940
+posed an even more terrifying threat than Hitler had.
+
+467
+00:38:22,800 --> 00:38:26,980
+And this struck everybody with a blow in the chest.
+
+468
+00:38:27,960 --> 00:38:30,540
+Nobody believed the Russians were smart enough
+
+469
+00:38:30,541 --> 00:38:34,400
+to learn how to make strike anywhere matches,
+
+470
+00:38:34,720 --> 00:38:36,920
+much less atom bombs.
+
+471
+00:38:38,060 --> 00:38:42,680
+The Atlantic and Pacific no longer shielded America from foreign attack.
+
+472
+00:38:43,480 --> 00:38:46,220
+Other international upheavals quickly followed.
+
+473
+00:38:46,221 --> 00:38:53,220
+On October 1, 1949, Mao Zedong proclaimed the People's Republic of China.
+
+474
+00:38:57,220 --> 00:39:03,220
+The following year, the United States and Russia faced off through their client states in South and North Korea.
+
+475
+00:39:05,220 --> 00:39:13,220
+In December 1950, President Truman responded to Chinese involvement in the war by declaring a national emergency.
+
+476
+00:39:13,221 --> 00:39:19,980
+I believe that we must try to limit the war to Korea, to see that the security of our
+
+477
+00:39:19,981 --> 00:39:27,140
+country and the free world is not needlessly jeopardized, and to prevent a third world
+
+478
+00:39:27,141 --> 00:39:27,841
+war.
+
+479
+00:39:29,880 --> 00:39:34,680
+All of a sudden, with the bomb in Stalin's hands, America was a vulnerable island, just
+
+480
+00:39:34,681 --> 00:39:38,540
+as Britain had been back in 1940, facing Hitler's war machine.
+
+481
+00:39:38,541 --> 00:39:48,320
+This propelled the radar veterans from World War II back into the floor in this furious drive to create a new warning network for the United States.
+
+482
+00:39:49,520 --> 00:39:56,720
+In the days before satellites, radar offered the only hope of early detection of enemy bombs.
+
+483
+00:39:57,640 --> 00:40:01,400
+Called SAGE for Semi-Automatic Ground Environment,
+
+484
+00:40:01,401 --> 00:40:08,440
+the new defense network sought to link massive amounts of information from radar arrays spanning the continent.
+
+485
+00:40:08,540 --> 00:40:18,180
+SAGE depended on digital computers doing real-time calculations,
+
+486
+00:40:18,540 --> 00:40:22,100
+allowing information to be collected, collated, analyzed,
+
+487
+00:40:22,220 --> 00:40:25,520
+and presented at command headquarters in a matter of seconds.
+
+488
+00:40:27,560 --> 00:40:32,520
+SAGE was a multi-billion dollar research and development effort
+
+489
+00:40:32,521 --> 00:40:41,000
+effort to create the first truly national-scale, networked, computerized information gathering
+
+490
+00:40:41,001 --> 00:40:48,670
+and manipulation system. In many ways, it is the first model for the Internet.
+
+491
+00:40:48,671 --> 00:40:49,371
+It was
+
+492
+00:40:49,372 --> 00:40:50,400
+a remarkable achievement.
+
+493
+00:40:52,620 --> 00:40:59,300
+Just as in World War II, the ever-changing dynamics of the Cold War propelled radar to
+
+494
+00:40:59,301 --> 00:41:01,540
+ever greater heights of sophistication.
+
+495
+00:41:02,440 --> 00:41:07,000
+When the Russian launch Sputnik ushered in the satellite age in 1957,
+
+496
+00:41:07,640 --> 00:41:11,200
+radars began examining satellites for their military potential,
+
+497
+00:41:12,240 --> 00:41:14,700
+a process that continues to this day.
+
+498
+00:41:16,320 --> 00:41:19,800
+Modern radars have become pretty good at looking at an unknown satellite
+
+499
+00:41:19,801 --> 00:41:22,580
+and determining its shape and its function.
+
+500
+00:41:23,020 --> 00:41:25,700
+The details of how this is done are classified,
+
+501
+00:41:25,701 --> 00:41:29,160
+but it's fair to say that we can produce an image of that satellite
+
+502
+00:41:29,161 --> 00:41:33,500
+And, for example, if you had a Volkswagen or a Toyota in orbit,
+
+503
+00:41:33,820 --> 00:41:36,880
+our modern radar technology could probably tell us which was which.
+
+504
+00:41:39,640 --> 00:41:45,780
+Beginning in the 1960s, intercontinental ballistic missiles offered radar a new challenge.
+
+505
+00:41:46,540 --> 00:41:52,460
+An ICBM may carry many warheads, each one either a decoy or a live nuclear weapon.
+
+506
+00:41:52,461 --> 00:41:59,460
+It costs an enormous amount of money to throw a 1,000 or 1,500 pound warhead intercontinental distances.
+
+507
+00:41:59,461 --> 00:42:04,460
+The enemy tries to put all his money into the warheads and not much into the other stuff.
+
+508
+00:42:04,461 --> 00:42:08,460
+And what we try and do is figure out what are the heavy bodies from the light bodies.
+
+509
+00:42:08,461 --> 00:42:16,460
+So the problem simply boils down to reaching out 500 miles, tickling a body with a electromagnetic beam and trying to tell how much it weighs.
+
+510
+00:42:22,460 --> 00:42:36,460
+radar has come a long way in the last 60 years from accidental echoes off passing ships
+
+511
+00:42:40,980 --> 00:42:44,600
+to reflecting the wake of an earthbound ballistic missile
+
+512
+00:42:44,601 --> 00:42:50,980
+60 years as a pivotal tool in the timeless battle between freedom and tyranny
+
+513
+00:42:52,460 --> 00:43:01,060
+These cement foundations are all that remain today of the English Chain Home Network.
+
+514
+00:43:01,300 --> 00:43:05,860
+They stand in mute tribute to the invention that won the Battle of Britain
+
+515
+00:43:05,861 --> 00:43:09,400
+and rescued mankind from the abyss.
+
+516
+00:43:12,820 --> 00:43:18,560
+The whole fury and might of the enemy must very soon be turned on us.
+
+517
+00:43:18,561 --> 00:43:24,600
+Hitler knows that he will have to break us in this island or lose the war
+
+518
+00:43:24,601 --> 00:43:30,760
+If we fail, then the whole world, including the United States
+
+519
+00:43:30,761 --> 00:43:33,900
+Including all that we have known and cared for
+
+520
+00:43:33,901 --> 00:43:38,000
+Will sink into the abyss of a new dark age
+
+521
+00:43:39,140 --> 00:43:43,580
+Upon this battle depends the survival of Christian civilized nations
+
+522
+00:43:43,581 --> 00:43:53,380
+But for radar's distant echoes,
+
+523
+00:43:53,980 --> 00:43:56,240
+Hitler might well have broken England.
+
+524
+00:43:57,140 --> 00:44:00,500
+And with the loss of freedom's last outpost in Europe,
+
+525
+00:44:01,380 --> 00:44:04,540
+history's tale could have been very different.
+
+526
+00:44:05,860 --> 00:44:08,860
+Without radar, it would have made it very much more difficult
+
+527
+00:44:08,861 --> 00:44:10,940
+to win the battle, but it was difficult enough.
+
+528
+00:44:13,580 --> 00:44:18,980
+If that battle had been lost, my guess is that life would have been extremely unpleasant
+
+529
+00:44:18,981 --> 00:44:22,160
+for those who lived in Great Britain.
+
+530
+00:44:22,161 --> 00:44:26,180
+And we would never, ever have invaded the continent again because it was difficult enough
+
+531
+00:44:26,181 --> 00:44:27,820
+invading it from this country.
+
+532
+00:44:27,821 --> 00:44:31,700
+And had America come into the war to mount an invasion from America?
+
+533
+00:44:31,701 --> 00:44:32,700
+No way.
+
+534
+00:44:32,701 --> 00:44:37,420
+If that air war had been lost and the Germans had come here and had been successful, lots
+
+535
+00:44:37,421 --> 00:44:43,420
+of ifs, but if it had happened, then, well, I wouldn't be here and you'd be speaking German.
+
+536
+00:44:43,421 --> 00:44:45,420
+The FUERA!
+
+537
+00:44:45,421 --> 00:44:47,420
+G!
+

@@ -1,0 +1,46 @@
+# Credit Roll: Big & Small (2010)
+**Canonical Episode:** [`MME00670: Big & Small`](../episodes/MME00670.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History / (c) 2009 A&E Television Networks, All Rights Reserved`
+* **Production Company:** Actuality Productions, Inc., A&E Television Networks (rights holder)
+* **Narrator:** Max Raphael
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Animated Stills** | Adam Goodwin |
+| **Animation** | Victor Bornia |
+| **Assistant Editors** | Alexander Rubinow, Nate Dusek |
+| **Asst Post Coordinator** | Gaylen Kobayashi |
+| **Camera** | Dave Baker, William Bezubic, Brian Cardello, Jim Escobedo, Derek Hanlon, Lon Magdich, Adam Sampson, Eric Thornton, Lou Yellin |
+| **Coordinator** | Gregory Zide |
+| **Created by** | Bruce Nash |
+| **Director of Clearance** | Jerianne Keaney |
+| **Editor** | Lou LaProcido |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Rene Cosson, Rusty Duggan, Dennis Hamlin, Jacques Hanlon, Aaron Holloway, Chris Procopio, Benjamin Rednour, Jason Richmond, James W. Siler, III |
+| **For History / Executive Producer** | John Verhoff |
+| **For History / Programming Coordinator** | Adam Rosante |
+| **Music** | Guy Thomas |
+| **Narrator** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assist** | Cory Parker |
+| **Post Producer** | Tim Knauff |
+| **Produced by** | Actuality Productions, Inc., For History |
+| **Producer** | Bruce Nash |
+| **Production Accountant** | Sheridan Liu |
+| **Production Controller** | Dani Eslin |
+| **Production Executive** | Paul Dzilvelis |
+| **Production Manager** | Shelia Collins |
+| **Researcher** | Kyle Salners |
+| **Sound Mixer** | Sam Kaufmann |
+| **Supervising Producer** | Ron Nelson |
+| **Technical Consultants** | Airbus S.A.S., Bob Bishop, Boss Hoss Cycles, Inc., Caterpillar, MAN Diesel |
+| **Written and Produced by** | Melissa Fuller |
+
+---
+[← Return to Episode Dossier](../episodes/MME00670.md)

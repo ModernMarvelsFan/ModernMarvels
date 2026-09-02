@@ -1,0 +1,2468 @@
+1
+00:00:00,001 --> 00:00:10,720
+Big Brother is not only watching, he's listening, analyzing, recording, and tracking every move we make.
+
+2
+00:00:12,140 --> 00:00:19,660
+Here comes some of the most important and potentially terrifying equipment the world has ever seen, or rather, not seen.
+
+3
+00:00:20,400 --> 00:00:23,780
+Now, Surveillance Tech on Modern Marvels.
+
+4
+00:00:30,000 --> 00:00:43,020
+Surveillance in the 21st century is everywhere, expanding our senses,
+
+5
+00:00:43,700 --> 00:00:47,860
+allowing us to see and hear things far beyond what our eyes and ears could do on their own.
+
+6
+00:00:48,820 --> 00:00:52,900
+With advanced surveillance technology, there's virtually no place to hide.
+
+7
+00:00:53,320 --> 00:00:56,100
+Even when we think we're alone, we usually aren't.
+
+8
+00:00:56,840 --> 00:00:59,200
+And when we want to hear what others don't want us to hear,
+
+9
+00:00:59,720 --> 00:01:02,440
+There's a plethora of devices to capture their every word.
+
+10
+00:01:03,600 --> 00:01:07,880
+Equipments such as parabolic microphones use laser beams to pick up conversations,
+
+11
+00:01:08,640 --> 00:01:11,020
+even through closed windows within a line of sight.
+
+12
+00:01:11,740 --> 00:01:17,980
+The parabolic microphone gives us the ability to listen in on conversations from a long distance.
+
+13
+00:01:17,981 --> 00:01:19,720
+That's probably the best way to do it. I agree.
+
+14
+00:01:20,620 --> 00:01:24,100
+And that works basically similar to how a magnifying glass works.
+
+15
+00:01:24,160 --> 00:01:27,040
+You take a magnifying glass, you hold it in the sun,
+
+16
+00:01:27,041 --> 00:01:30,200
+it focuses the light on a particular place.
+
+17
+00:01:30,400 --> 00:01:33,040
+Well, this is what you do essentially with a parabolic microphone.
+
+18
+00:01:33,780 --> 00:01:41,020
+It gathers sound, focuses it with a large round dish into a certain place,
+
+19
+00:01:41,420 --> 00:01:45,760
+and then that place receives the information with a microphone,
+
+20
+00:01:46,400 --> 00:01:49,700
+amplifies it, and gives you the information you want from a huge distance.
+
+21
+00:01:50,400 --> 00:01:53,740
+With a parabolic microphone, the window acts as a microphone.
+
+22
+00:01:53,741 --> 00:01:56,740
+The laser beam latches onto the windows vibrations.
+
+23
+00:01:56,741 --> 00:02:00,740
+When the beam bounces back to the receiver, it carries the vibrations with it,
+
+24
+00:02:00,741 --> 00:02:02,740
+delivering the audible sound inside the room.
+
+25
+00:02:04,740 --> 00:02:07,740
+Although parabolic microphones are very effective,
+
+26
+00:02:07,741 --> 00:02:10,740
+sound conditions also play a big part in audio surveillance.
+
+27
+00:02:10,741 --> 00:02:15,740
+One technique called inverse phasing cancels out unwanted noise from recordings.
+
+28
+00:02:15,741 --> 00:02:20,740
+Actually you see a lot of that today, which is the noise cancelling headphones.
+
+29
+00:02:20,741 --> 00:02:30,182
+If you actually look at your headphones, there's actually a small little microphone, little perforated holes that are actually picking up the signal from the outside,
+
+30
+00:02:30,183 --> 00:02:36,780
+using that to make an inverse signal on the inside of the headphones to cancel out that signal inside the headphone.
+
+31
+00:02:37,620 --> 00:02:45,140
+An inverse signal is information that is transmitted by means of a modulated current and acts to cancel out another modulated current.
+
+32
+00:02:46,060 --> 00:02:51,680
+In other words, as one piece of audio information is being sent, a second one is created to eliminate it.
+
+33
+00:02:52,620 --> 00:02:55,780
+With headphones, the outside noise creates the inverse signal.
+
+34
+00:02:56,820 --> 00:03:01,540
+They put those on an airplane, and what it does is it tries to listen to the noise on the outside of the airplane.
+
+35
+00:03:02,020 --> 00:03:10,140
+It tries to then create a signal on the inside of the headphone that actually will cancel the noise that it hears on the outside of the headphone.
+
+36
+00:03:10,141 --> 00:03:19,140
+Inverse phasing is used in audio surveillance when someone is trying to secretly record a conversation in a location that might have a lot of competing sound.
+
+37
+00:03:19,141 --> 00:03:23,140
+Let's say you're in a hotel room and you want to actually get rid of all those signals you don't want to hear.
+
+38
+00:03:23,141 --> 00:03:28,140
+If you actually then know that they're going to play TV Channel 4 and you have that signal,
+
+39
+00:03:28,141 --> 00:03:32,140
+then what you can do is cancel out the signal of the TV that they picked up on the microphone,
+
+40
+00:03:32,141 --> 00:03:36,140
+and hopefully what would be left would be just the voices of the bad guys.
+
+41
+00:03:36,141 --> 00:03:39,140
+Over 14, we meet Frank.
+
+42
+00:03:39,141 --> 00:03:41,140
+Frank takes the package.
+
+43
+00:03:43,140 --> 00:03:46,140
+Cell phones are another tool used for audio surveillance.
+
+44
+00:03:46,141 --> 00:03:50,140
+Although digital cell phones are far more secure than older analog phones,
+
+45
+00:03:50,141 --> 00:03:54,140
+most people would be surprised to discover that using some cell phones
+
+46
+00:03:54,141 --> 00:03:58,140
+can almost be like carrying on a conversation in a room full of listeners.
+
+47
+00:03:58,141 --> 00:04:01,140
+Cell phone interceptors are available
+
+48
+00:04:01,141 --> 00:04:06,140
+and can be programmed to illegally monitor and record up to 20 different cellular numbers.
+
+49
+00:04:06,141 --> 00:04:09,000
+Anything that gets transmitted over the air is vulnerable.
+
+50
+00:04:09,480 --> 00:04:11,080
+The cell phone companies try to use encryption.
+
+51
+00:04:11,260 --> 00:04:13,760
+They try to block you from actually listening to some signals.
+
+52
+00:04:14,120 --> 00:04:17,120
+Security is always also a level of degree.
+
+53
+00:04:17,760 --> 00:04:20,580
+There's no such thing as 100% secure.
+
+54
+00:04:20,581 --> 00:04:21,780
+Well, actually there is.
+
+55
+00:04:21,860 --> 00:04:25,920
+You can turn off your cell phone and not use it, and it will be secure.
+
+56
+00:04:26,960 --> 00:04:31,320
+Today's audio surveillance equipment far overshadows anything available in the past.
+
+57
+00:04:32,440 --> 00:04:35,100
+But surveillance itself has been around for millennia.
+
+58
+00:04:36,140 --> 00:04:39,460
+As long as there have been wars,
+
+59
+00:04:40,060 --> 00:04:42,820
+snoops and spies have attempted to gain a strategic advantage
+
+60
+00:04:42,821 --> 00:04:46,420
+by secretly eavesdropping on the conversations of their adversaries.
+
+61
+00:04:47,140 --> 00:04:49,160
+When we think about surveillance,
+
+62
+00:04:49,420 --> 00:04:51,140
+I mean, the word itself conjures up
+
+63
+00:04:51,141 --> 00:04:54,160
+somebody trailing somebody else down the sidewalk,
+
+64
+00:04:54,340 --> 00:04:55,560
+and then it gets more sophisticated.
+
+65
+00:04:56,300 --> 00:05:00,780
+If you take espionage as being really a very elaborate form of surveillance,
+
+66
+00:05:00,781 --> 00:05:04,560
+the principles of espionage have remained the same throughout the years.
+
+67
+00:05:04,561 --> 00:05:09,560
+The one thing that does change is the technology of surveillance.
+
+68
+00:05:09,561 --> 00:05:15,560
+One of the first technological innovations relating to surveillance dates back to ancient Greece.
+
+69
+00:05:15,561 --> 00:05:20,560
+Rulers dominated by obtaining secret information from potential threats to their power.
+
+70
+00:05:20,561 --> 00:05:26,560
+And one of the methods they used to obtain this information was through codes and code breaking.
+
+71
+00:05:26,561 --> 00:05:30,560
+Cryptology has been around since the ancient world,
+
+72
+00:05:30,561 --> 00:05:34,300
+But it became a serious and systematic study with the Renaissance.
+
+73
+00:05:35,540 --> 00:05:42,840
+Modern nations and organizations from the Renaissance recognized that it was important to protect their information,
+
+74
+00:05:43,580 --> 00:05:47,640
+and it was also important to find out what their dangerous neighbor was up to.
+
+75
+00:05:47,980 --> 00:05:52,600
+During the Civil War, telegraphy was employed for military communication,
+
+76
+00:05:53,020 --> 00:05:56,640
+although the signals were subsequently intercepted and deciphered.
+
+77
+00:06:00,560 --> 00:06:07,560
+In World War I, information transmitted through a sound current, also known as signals intelligence,
+
+78
+00:06:07,561 --> 00:06:11,560
+attained a much greater importance than in any prior war.
+
+79
+00:06:11,561 --> 00:06:17,560
+World War I had the first major use in warfare of wireless radio.
+
+80
+00:06:17,561 --> 00:06:21,560
+It was necessary to coordinate operations over widespread areas.
+
+81
+00:06:21,561 --> 00:06:24,560
+But of course, radio is easy to intercept,
+
+82
+00:06:24,561 --> 00:06:30,640
+intercept so all sides got the recognition that it was necessary to use sophisticated code or
+
+83
+00:06:30,641 --> 00:06:33,670
+cipher systems to protect their radio communications.
+
+84
+00:06:33,671 --> 00:06:36,300
+They also realized the importance of trying to
+
+85
+00:06:36,301 --> 00:06:39,807
+solve the encrypted messages of the other side.
+
+86
+00:06:39,808 --> 00:06:43,240
+As each side attempted to decipher the secrets
+
+87
+00:06:43,241 --> 00:06:47,503
+of their enemies, ciphers got more complex and sophisticated.
+
+88
+00:06:47,504 --> 00:06:49,600
+The genius of the German World
+
+89
+00:06:49,601 --> 00:06:54,380
+War II Enigma machine was that it uniquely transposed every letter that was encrypted.
+
+90
+00:06:54,880 --> 00:07:00,720
+The ability to solve German messages and ciphered on the Enigma machine and on some other more
+
+91
+00:07:00,721 --> 00:07:05,876
+sophisticated cipher devices was crucial to the battles of World War II.
+
+92
+00:07:05,877 --> 00:07:07,380
+It enabled the Allies
+
+93
+00:07:07,381 --> 00:07:12,620
+to understand where the enemy was, how the enemy was armed, and the most critical and hardest
+
+94
+00:07:12,621 --> 00:07:16,151
+intelligence to get, what the enemy intended to do.
+
+95
+00:07:16,152 --> 00:07:18,920
+By using secret information, intercepted
+
+96
+00:07:18,921 --> 00:07:23,880
+messages, and a lot of brain power, the Allies finally came up with a formula that exposed
+
+97
+00:07:23,881 --> 00:07:27,580
+the Enigma code, which played a significant role in the Allied victory.
+
+98
+00:07:31,280 --> 00:07:35,900
+Surveillance also played a pivotal role in the Cold War, when mistrust and suspicion
+
+99
+00:07:35,901 --> 00:07:41,100
+between the U.S. and the Soviet Union were at a high point. In the early days of the
+
+100
+00:07:41,101 --> 00:07:42,199
+Cold War, the U.S.
+
+101
+00:07:42,200 --> 00:07:46,780
+created the Central Intelligence Agency, or CIA, to conduct its own foreign
+
+102
+00:07:46,781 --> 00:07:47,482
+intelligence.
+
+103
+00:07:47,483 --> 00:07:51,480
+It was critical for the United States to do everything they could to learn
+
+104
+00:07:51,481 --> 00:07:55,453
+what the military capabilities were of the Soviet Union.
+
+105
+00:07:55,454 --> 00:07:57,440
+Shortly after its formation,
+
+106
+00:07:57,960 --> 00:08:02,820
+the agency constructed the Berlin Tunnel, one of the most ambitious intelligence operations
+
+107
+00:08:02,821 --> 00:08:03,810
+ever attempted.
+
+108
+00:08:03,811 --> 00:08:08,560
+From a nondescript building disguised as an American radar installation,
+
+109
+00:08:09,320 --> 00:08:14,960
+the 1,476-foot tunnel stretched under East Berlin to a chamber where Soviet military
+
+110
+00:08:14,961 --> 00:08:16,520
+communications were wiretapped.
+
+111
+00:08:17,140 --> 00:08:19,260
+There was a telephone junction
+
+112
+00:08:19,261 --> 00:08:21,100
+not too far from where
+
+113
+00:08:21,101 --> 00:08:23,380
+the Allies were, where a lot
+
+114
+00:08:23,381 --> 00:08:25,400
+of military traffic
+
+115
+00:08:25,401 --> 00:08:27,160
+flowed. And so the idea
+
+116
+00:08:27,161 --> 00:08:28,740
+was simply to tap into that
+
+117
+00:08:28,741 --> 00:08:30,340
+and learn as much as possible.
+
+118
+00:08:30,920 --> 00:08:33,100
+And they began recording all of
+
+119
+00:08:33,101 --> 00:08:35,220
+this traffic. There were reams
+
+120
+00:08:35,221 --> 00:08:37,160
+of material from these recordings.
+
+121
+00:08:37,640 --> 00:08:39,040
+That's an elaborate form of
+
+122
+00:08:39,041 --> 00:08:39,741
+surveillance.
+
+123
+00:08:40,680 --> 00:08:43,160
+Listening devices, commonly known as bugs,
+
+124
+00:08:43,161 --> 00:08:45,120
+were widely used during the Cold War.
+
+125
+00:08:45,940 --> 00:08:50,560
+The bugs were employed by both the CIA and Russia's secret police, the KGB.
+
+126
+00:08:53,140 --> 00:08:58,860
+Typically the masters want something that's smaller, faster, better.
+
+127
+00:08:59,700 --> 00:09:01,280
+We have the evolution of the bug,
+
+128
+00:09:01,980 --> 00:09:06,380
+starting perhaps around World War II when it was about the size of the fist
+
+129
+00:09:06,381 --> 00:09:09,300
+that would be concealed in a spaced over-here conversation,
+
+130
+00:09:09,301 --> 00:09:13,900
+going up to something that literally probably could be hidden in the olive in your martini.
+
+131
+00:09:14,380 --> 00:09:18,140
+The Soviets one-upped the CIA in the early 1950s.
+
+132
+00:09:18,680 --> 00:09:23,420
+A Soviet listening device called the Thing was discovered in the American embassy in Moscow.
+
+133
+00:09:24,180 --> 00:09:29,960
+It was a cylindrical metal object that had been hidden inside the wooden carving of the Great Seal of the United States,
+
+134
+00:09:29,961 --> 00:09:37,560
+which hung above the ambassador's desk, recording his highly classified conversations for seven years.
+
+135
+00:09:37,561 --> 00:09:44,560
+Inside was a listening device so sophisticated the Americans didn't even know the technology existed.
+
+136
+00:09:45,380 --> 00:09:49,040
+In the 60s, surveillance bugs got even smaller.
+
+137
+00:09:49,720 --> 00:09:55,200
+Today, although some listening devices are larger than a bug, they don't even need to be in the same room.
+
+138
+00:09:55,780 --> 00:10:04,240
+Although hearing secret information has always been valuable, in the clandestine surveillance industry, a picture is worth a thousand words.
+
+139
+00:10:04,241 --> 00:10:14,160
+In the United States, sales of digital surveillance products and services are expected to exceed $10 billion by the end of the decade.
+
+140
+00:10:15,080 --> 00:10:18,220
+Surveillance Tech will return on Modern Marvels.
+
+141
+00:10:22,560 --> 00:10:27,340
+Today, it seems as if every move we make is being watched and monitored.
+
+142
+00:10:27,840 --> 00:10:33,360
+There's at least some comfort in knowing that when you really want to escape, you can always go behind closed doors.
+
+143
+00:10:33,880 --> 00:10:36,320
+After all, at least they can't see through walls.
+
+144
+00:10:36,940 --> 00:10:37,640
+Think again.
+
+145
+00:10:39,680 --> 00:10:42,160
+In use by military and law enforcement,
+
+146
+00:10:42,680 --> 00:10:45,280
+Radar Vision is a handheld surveillance tool
+
+147
+00:10:45,281 --> 00:10:48,160
+that provides critical real-time intelligence to users.
+
+148
+00:10:48,620 --> 00:10:50,340
+By placing the unit up to a wall,
+
+149
+00:10:50,900 --> 00:10:53,540
+Radar Vision shows you if someone is actually inside.
+
+150
+00:10:54,060 --> 00:10:55,760
+It's an effective surveillance tool
+
+151
+00:10:55,761 --> 00:10:59,020
+in that it gives you real-time information, intelligence,
+
+152
+00:10:59,021 --> 00:11:00,600
+where you're there on the scene
+
+153
+00:11:00,601 --> 00:11:03,260
+that you can respond to and apply to immediately
+
+154
+00:11:03,261 --> 00:11:09,540
+which is critical in a high-risk situation such as a hostage situation or a barricaded type situation.
+
+155
+00:11:10,220 --> 00:11:15,200
+The lightweight device works by sending millions of ultra-wideband pulses per second,
+
+156
+00:11:15,700 --> 00:11:18,720
+creating a signal that can penetrate most common building materials.
+
+157
+00:11:20,040 --> 00:11:25,180
+The moving target shows on the display as an orange glob that moves as the target moves.
+
+158
+00:11:25,720 --> 00:11:30,520
+The glob may change intensity, size, and shape, but it accurately shows the target's position.
+
+159
+00:11:30,521 --> 00:11:37,160
+If a subject's in a room and he's trying to hide from us, which is normal for a suspect
+
+160
+00:11:37,161 --> 00:11:43,060
+to do is crouch down, hide, be very quiet, the radar vision will still pick up the motion
+
+161
+00:11:43,061 --> 00:11:44,680
+of his breathing.
+
+162
+00:11:44,681 --> 00:11:49,700
+Radar vision's number one strength would be the safety that it provides officers.
+
+163
+00:11:49,701 --> 00:11:54,420
+Any time that you have a piece of equipment that can do the work for you, where you don't
+
+164
+00:11:54,421 --> 00:12:00,280
+have to expose officers to high risk situations, it's going to save lives in the long run.
+
+165
+00:12:00,281 --> 00:12:04,040
+The ability to see through walls may be a state-of-the-art surveillance tool.
+
+166
+00:12:04,500 --> 00:12:07,380
+But when it comes to seeing things others don't want you to see,
+
+167
+00:12:08,020 --> 00:12:10,280
+devices haven't always been so high-tech.
+
+168
+00:12:10,940 --> 00:12:14,140
+With the development of the lens and of binoculars and telescopes,
+
+169
+00:12:14,141 --> 00:12:19,020
+then people are able to surveil or observe from a distance.
+
+170
+00:12:19,420 --> 00:12:22,320
+And it made it easier and easier for them to be concealed.
+
+171
+00:12:23,560 --> 00:12:25,900
+Since its invention in the 19th century,
+
+172
+00:12:26,500 --> 00:12:29,960
+photography has played an increasingly important role in intelligence work.
+
+173
+00:12:30,280 --> 00:12:35,300
+In the United States, one of its first uses as a surveillance tool was during the Civil War.
+
+174
+00:12:36,060 --> 00:12:40,700
+Photos taken from hot air balloons were used to provide some of the earliest aerial reconnaissance.
+
+175
+00:12:41,640 --> 00:12:47,560
+Aerial surveillance, in other words, being able to get above the enemy, above the area you want to photograph.
+
+176
+00:12:48,940 --> 00:12:55,600
+Balloons, however, were limited in their effectiveness, since they were easy targets to shoot down, and had a very limited range.
+
+177
+00:12:55,601 --> 00:13:01,840
+In World War I, cameras were used in airplanes for scouting enemy terrain
+
+178
+00:13:01,841 --> 00:13:06,100
+And one of the most innovative examples of aerial surveillance
+
+179
+00:13:06,101 --> 00:13:08,580
+Enlisted the help of some feathered friends
+
+180
+00:13:08,581 --> 00:13:13,020
+The U.S. Signal Corps had a flock of 600 homing pigeons
+
+181
+00:13:13,021 --> 00:13:16,020
+Fitted with specially designed chest cameras
+
+182
+00:13:16,021 --> 00:13:19,900
+The bird cams were released and took off for their destination
+
+183
+00:13:19,901 --> 00:13:21,380
+Clicking all the way
+
+184
+00:13:21,381 --> 00:13:23,900
+If you look at the little pigeon he's standing there
+
+185
+00:13:23,901 --> 00:13:27,724
+has a little camera on his breast. Looks like an American tourist in Paris.
+
+186
+00:13:27,725 --> 00:13:28,540
+What you did was
+
+187
+00:13:28,541 --> 00:13:34,680
+release the pigeon so that when the pigeon went to home, to go to its home, it would fly over the
+
+188
+00:13:34,681 --> 00:13:39,300
+area you wanted to photograph, which might be a battlefield or a route, let's say, for tomorrow's
+
+189
+00:13:39,301 --> 00:13:40,356
+March, whatever.
+
+190
+00:13:40,357 --> 00:13:45,440
+In doing so, as it flew over, the camera would steadily snap off pictures. So
+
+191
+00:13:45,441 --> 00:13:46,997
+it's quite remarkable.
+
+192
+00:13:46,998 --> 00:13:52,020
+By the 1940s, cameras were hidden inside objects such as books, clocks,
+
+193
+00:13:52,021 --> 00:13:54,680
+cigarette cases and cigarette lighters.
+
+194
+00:13:55,280 --> 00:13:58,860
+Of course, surveillance really came to the front during World War II,
+
+195
+00:13:59,420 --> 00:14:05,280
+and the famous Minox spy camera became quite well known at that time,
+
+196
+00:14:05,340 --> 00:14:06,800
+and it's a very effective tool.
+
+197
+00:14:06,940 --> 00:14:10,900
+It's extremely tiny, and it was specifically designed to copy documents.
+
+198
+00:14:11,520 --> 00:14:13,600
+When you want to take a photograph of your document,
+
+199
+00:14:14,240 --> 00:14:16,760
+you go into the viewfinder and fill the page.
+
+200
+00:14:16,840 --> 00:14:20,200
+You then take this string here with different beads on it,
+
+201
+00:14:20,201 --> 00:14:25,120
+and the beads tell you what focal length you need to adjust your lens for.
+
+202
+00:14:27,160 --> 00:14:32,500
+During the Cold War, sub-miniature cameras with lenses small enough to hide behind a button
+
+203
+00:14:32,501 --> 00:14:36,840
+were extremely effective at surreptitiously capturing images.
+
+204
+00:14:37,640 --> 00:14:41,200
+The camera was typically worn on a harness under the overcoat.
+
+205
+00:14:41,740 --> 00:14:45,260
+So if you were in a crowd, you're walking down the street, the overcoat would be buttoned.
+
+206
+00:14:45,261 --> 00:14:47,200
+literally were wearing a camera,
+
+207
+00:14:47,860 --> 00:14:51,440
+and the shutter release was in a cable running through to your pocket.
+
+208
+00:14:52,840 --> 00:14:56,040
+The Cold War also introduced the U-2 spy plane,
+
+209
+00:14:56,360 --> 00:14:59,900
+which was instrumental in conducting high-altitude photographic reconnaissance.
+
+210
+00:15:01,680 --> 00:15:06,260
+The covert aircraft was, at the time, out of range of the Soviet planes and missiles.
+
+211
+00:15:07,020 --> 00:15:10,300
+These were planes that were able to fly at very high speeds,
+
+212
+00:15:10,301 --> 00:15:15,620
+at very high altitudes, beyond the reach initially of Soviet missiles.
+
+213
+00:15:16,280 --> 00:15:20,360
+And these planes were able to gather more in a single flight
+
+214
+00:15:20,361 --> 00:15:22,760
+than we had been able to gather for years.
+
+215
+00:15:24,780 --> 00:15:29,400
+During the space age, satellites opened up new surveillance opportunities.
+
+216
+00:15:30,100 --> 00:15:32,460
+A camera on a satellite could carry out surveillance
+
+217
+00:15:32,461 --> 00:15:35,380
+of any part of enemy territory that lay beneath its orbit.
+
+218
+00:15:36,060 --> 00:15:37,660
+Essentially large telescopes,
+
+219
+00:15:37,661 --> 00:15:42,820
+these cameras magnify the area they're focused on and can set their focal length accordingly.
+
+220
+00:15:43,540 --> 00:15:49,700
+That great technological breakthrough of our times is the development of the synchronous orbiting satellite.
+
+221
+00:15:50,400 --> 00:15:56,720
+And so these are satellites that remain in place and give continuous coverage of selected parts of the globe.
+
+222
+00:15:57,180 --> 00:16:04,640
+And that breakthrough was enormous, and that enabled us to gather intelligence to surveil, if you will,
+
+223
+00:16:04,641 --> 00:16:08,520
+Soviet military capabilities in ways we had never been able to do before.
+
+224
+00:16:09,260 --> 00:16:12,440
+Thanks to satellites, airfields, missile locations,
+
+225
+00:16:12,620 --> 00:16:15,040
+and even the movement of troops were suddenly visible.
+
+226
+00:16:16,200 --> 00:16:19,900
+Back on Earth, although motion picture film cameras were concealed
+
+227
+00:16:19,901 --> 00:16:22,900
+and used as surveillance devices, the film was bulky.
+
+228
+00:16:23,640 --> 00:16:27,020
+But the silicon chip, first developed in 1958,
+
+229
+00:16:27,600 --> 00:16:30,080
+created a whole new world of miniature surveillance.
+
+230
+00:16:30,860 --> 00:16:33,340
+The video camera has gotten smaller and smaller,
+
+231
+00:16:33,341 --> 00:16:37,100
+and now you have what are called chip cams and pinhole cameras,
+
+232
+00:16:37,520 --> 00:16:39,740
+cameras that are actually the size of a pinhole.
+
+233
+00:16:40,220 --> 00:16:43,760
+One example that we use is called the Fanny Cam.
+
+234
+00:16:44,020 --> 00:16:49,000
+This pager actually has a minuscule camera lens inside of it,
+
+235
+00:16:49,320 --> 00:16:50,540
+the size of a pinhole.
+
+236
+00:16:50,940 --> 00:16:54,580
+It's located right here in the middle of the pager,
+
+237
+00:16:54,940 --> 00:16:59,780
+and it's actually recording video through that tiny hole.
+
+238
+00:16:59,781 --> 00:17:04,520
+It's a tremendous boon to our ability to watch people and not have them know it.
+
+239
+00:17:06,400 --> 00:17:10,020
+Night vision is a surveillance innovation that was first used in the military
+
+240
+00:17:10,021 --> 00:17:13,060
+and is now available to both professionals and consumers.
+
+241
+00:17:13,820 --> 00:17:19,200
+Night vision takes the scantest information that you see in the dark.
+
+242
+00:17:19,420 --> 00:17:25,740
+The technology enhances the electrons that are actually an element of the picture.
+
+243
+00:17:25,741 --> 00:17:36,740
+It's a tremendous boon, the ability to take surveillance video in the dead of night and not have someone know that you're conducting surveillance on them.
+
+244
+00:17:36,741 --> 00:17:48,740
+This is often useful in domestic cases where a lot of the cheating that goes on occurs under the cover of darkness, and you can use that technology to enhance it.
+
+245
+00:17:48,741 --> 00:17:49,441
+it.
+
+246
+00:17:49,442 --> 00:17:54,860
+The military is pushing video surveillance technology further with uninhabited aerial
+
+247
+00:17:54,861 --> 00:17:56,149
+vehicles, or UAVs.
+
+248
+00:17:56,150 --> 00:18:01,020
+The UAVs are primarily employed for reconnaissance and surveillance.
+
+249
+00:18:02,000 --> 00:18:07,400
+UAVs such as the Predator have the ability to travel thousands of miles to a target and
+
+250
+00:18:07,401 --> 00:18:12,733
+obtain continuous images in real time using wireless technology or satellites.
+
+251
+00:18:12,734 --> 00:18:13,434
+But when
+
+252
+00:18:13,435 --> 00:18:17,600
+When you're looking for a UAV with real user-friendly surveillance capabilities,
+
+253
+00:18:17,601 --> 00:18:23,440
+smaller UAVs, such as the Shadow and the Raven, are designed to be used right on the battlefield.
+
+254
+00:18:23,441 --> 00:18:27,980
+Equipped with cameras and microphones, they're capable of flying in and out of dangerous
+
+255
+00:18:27,981 --> 00:18:32,640
+environments to obtain critical imagery and information.
+
+256
+00:18:32,641 --> 00:18:38,160
+With a wingspan of only 48 inches and weighing just 4 pounds, the Raven may be the world's
+
+257
+00:18:38,161 --> 00:18:41,840
+smallest operational UAV and also one of the most versatile.
+
+258
+00:18:41,841 --> 00:18:43,940
+So let's check the video, give me some look at.
+
+259
+00:18:46,420 --> 00:18:49,380
+Front view is clear. Side view is clear.
+
+260
+00:18:50,420 --> 00:18:54,420
+Although the aircraft has sophisticated surveillance and computer technology aboard,
+
+261
+00:18:54,880 --> 00:18:57,460
+the way it takes off is deliberately low-tech.
+
+262
+00:18:58,340 --> 00:18:59,560
+You just throw it.
+
+263
+00:19:00,240 --> 00:19:02,480
+Basically, it's a football or baseball-style throw,
+
+264
+00:19:02,640 --> 00:19:05,400
+and we've made it a very simplistic system that the soldier can use,
+
+265
+00:19:05,401 --> 00:19:08,540
+and that's important because you're going to be using day, night ops,
+
+266
+00:19:09,100 --> 00:19:11,180
+any type of weather, and in a combat scenario.
+
+267
+00:19:11,181 --> 00:19:14,980
+So we need to make it as simple as possible and effective as possible.
+
+268
+00:19:15,920 --> 00:19:18,380
+The Raven can fly as far out as 10 miles.
+
+269
+00:19:19,360 --> 00:19:22,480
+By design, it was created with several automated functions
+
+270
+00:19:22,481 --> 00:19:26,900
+to enable the soldier to focus primarily on the surveillance data received during the mission.
+
+271
+00:19:27,540 --> 00:19:29,340
+I'm going to go ahead and just put this into a loiter mode.
+
+272
+00:19:29,500 --> 00:19:33,420
+What makes loiter nice is that it's going to autonomously just keep the aircraft in that position,
+
+273
+00:19:33,860 --> 00:19:37,440
+circling around about 100 meters around that point that we've picked right now.
+
+274
+00:19:37,880 --> 00:19:41,700
+That allows me to spend time looking at the video now versus trying to fly the aircraft.
+
+275
+00:19:42,460 --> 00:19:45,560
+The Raven's cameras are interchangeable for day and night use.
+
+276
+00:19:46,240 --> 00:19:48,360
+Additionally, they provide multiple angles.
+
+277
+00:19:48,820 --> 00:19:51,220
+We have what's called front view and side view.
+
+278
+00:19:51,600 --> 00:19:54,320
+And right now what I've done is I flew out on front view,
+
+279
+00:19:54,321 --> 00:19:56,260
+so I'm looking at essentially how I would drive.
+
+280
+00:19:56,380 --> 00:19:59,420
+Like if I was in a car, I'd look straight ahead, and that's kind of what I was doing.
+
+281
+00:19:59,680 --> 00:20:02,340
+But once we get over to this loiter point, I click it over to side view.
+
+282
+00:20:02,420 --> 00:20:05,000
+Now I'm looking at the side of the airplane, getting all the information I need.
+
+283
+00:20:05,001 --> 00:20:09,740
+When it's time to bring the Raven home, it's as easy as the click of a button.
+
+284
+00:20:09,960 --> 00:20:14,280
+It has the autonomy capabilities on board where I can push a command called home.
+
+285
+00:20:14,920 --> 00:20:19,300
+And it's just going to remember where it was at when it first booted up and acquired the GPS satellites
+
+286
+00:20:19,301 --> 00:20:21,260
+because it flies with four satellites on board.
+
+287
+00:20:21,580 --> 00:20:24,380
+It's acquiring that information and the aircraft just comes back.
+
+288
+00:20:24,980 --> 00:20:27,120
+Small UAVs are revolutionary in nature.
+
+289
+00:20:27,121 --> 00:20:32,500
+Never before has a company commander had the ability to have his own air asset
+
+290
+00:20:32,501 --> 00:20:38,380
+that provides him with streaming video and basically situational understanding of what's going on in the battlefield.
+
+291
+00:20:38,880 --> 00:20:41,160
+Autoland has been selected. Mission complete.
+
+292
+00:20:41,500 --> 00:20:44,980
+Surveillance on the battlefield is one thing, but little did we know,
+
+293
+00:20:45,500 --> 00:20:50,120
+monitoring technology could and would soon infiltrate our everyday lives.
+
+294
+00:20:52,120 --> 00:20:54,940
+In an effort to combat terrorism and crime,
+
+295
+00:20:54,941 --> 00:20:57,872
+Chicago, Illinois was the first municipality in the U.S.
+
+296
+00:20:57,873 --> 00:21:02,060
+to build a network of around-the-clock surveillance cameras throughout the city.
+
+297
+00:21:02,920 --> 00:21:05,580
+Surveillance Tech will return on Modern Marvels.
+
+298
+00:21:10,040 --> 00:21:18,600
+The reality of the 21st century is that we're living in a time when nearly everything we do can be tracked, monitored, and stored in a database.
+
+299
+00:21:19,580 --> 00:21:21,340
+Video cameras are almost everywhere.
+
+300
+00:21:21,341 --> 00:21:29,020
+The hidden cameras inside of cell phones can pick up photographs of you when you're in a locker room,
+
+301
+00:21:29,360 --> 00:21:32,120
+when you're in places that you may not want to be seen,
+
+302
+00:21:32,200 --> 00:21:37,760
+or when you're just doing things that you don't necessarily want to have documented and sent out to the public.
+
+303
+00:21:38,720 --> 00:21:41,320
+Surveillance cameras have invaded the corporate workplace.
+
+304
+00:21:41,860 --> 00:21:47,400
+It's now common to have cameras record when you get to work, what you do at your desk, and even when you take a break.
+
+305
+00:21:47,401 --> 00:21:51,660
+When you get into the office, you may then be captured again on video camera.
+
+306
+00:21:52,280 --> 00:21:55,480
+You may be captured again logging into your computer.
+
+307
+00:21:56,060 --> 00:22:02,040
+Corporations are very concerned about the rise of litigation, the fear that trade secrets would be stolen.
+
+308
+00:22:03,080 --> 00:22:06,740
+Companies now are increasing their surveillance of employees.
+
+309
+00:22:07,380 --> 00:22:12,460
+And that surveillance runs the gamut from monitoring you on video cameras
+
+310
+00:22:12,461 --> 00:22:17,260
+to giving you badges so that they know where you are in different parts of the building.
+
+311
+00:22:17,400 --> 00:22:21,600
+In addition to the workplace, cameras also record our personal lives.
+
+312
+00:22:22,160 --> 00:22:25,520
+We routinely sacrifice privacy for convenience and security.
+
+313
+00:22:26,120 --> 00:22:32,040
+We've grown increasingly comfortable with cameras watching us in airports, shopping malls, banks, schools.
+
+314
+00:22:32,740 --> 00:22:36,260
+And not so comfortable when they capture us driving in our cars.
+
+315
+00:22:36,960 --> 00:22:42,780
+The explosion of video surveillance cameras has led to cameras being used in a number of different locations.
+
+316
+00:22:42,781 --> 00:22:51,840
+One area is traffic light cameras, and those cameras are used to determine whether or not you stopped at the red light, whether you went through the red light.
+
+317
+00:22:52,040 --> 00:22:57,580
+So this explosion of video cameras is leading to a different form of how we're being monitored throughout society.
+
+318
+00:22:58,520 --> 00:23:08,040
+By 2004, traffic light cameras, also called red light cameras, had already been installed in over 60 communities in a dozen states across the country.
+
+319
+00:23:08,041 --> 00:23:14,820
+Red light systems have a trigger made out of electrical wire that is positioned under the road near the stop line.
+
+320
+00:23:15,480 --> 00:23:21,360
+If a car sets off this trigger when the light is red, two pictures are automatically taken to document the violation.
+
+321
+00:23:22,180 --> 00:23:28,260
+The first shows the car on the edge of the intersection, and the second picture shows the car in the middle of the intersection.
+
+322
+00:23:29,160 --> 00:23:34,700
+And to make sure there isn't any question who is at the wheel, some systems also take a picture of the driver's face.
+
+323
+00:23:34,701 --> 00:23:39,740
+Some red light cameras also have another surveillance capability.
+
+324
+00:23:40,620 --> 00:23:42,700
+They contain wireless gunshot detectors.
+
+325
+00:23:43,620 --> 00:23:47,920
+Using satellite photos, global positioning systems, and sophisticated microphones,
+
+326
+00:23:48,560 --> 00:23:52,220
+the systems are able to show the location of a gunshot within 10 feet.
+
+327
+00:23:53,380 --> 00:23:56,060
+This is one of the sort of the heart of the system.
+
+328
+00:23:56,300 --> 00:23:58,300
+The sound is received by the microphone.
+
+329
+00:23:58,820 --> 00:24:02,580
+The electronics decides, is it a gunshot or is it something else?
+
+330
+00:24:02,581 --> 00:24:08,780
+If it's a gunshot, it turns on the little radio transmitter for a very short, coded burst.
+
+331
+00:24:09,780 --> 00:24:16,180
+Our system generally will report the location of the gunshot within a couple of seconds.
+
+332
+00:24:16,760 --> 00:24:24,560
+The dispatcher can figure out where the nearest unit is, deploy the unit, and either make an arrest, an apprehension.
+
+333
+00:24:24,880 --> 00:24:28,460
+And the whole idea is a rapid response to gunshots.
+
+334
+00:24:28,461 --> 00:24:36,320
+blimps aren't usually thought of as high-tech surveillance systems upon closer inspection
+
+335
+00:24:36,321 --> 00:24:41,040
+however modern surveillance airships are sophisticated command centers in the sky
+
+336
+00:24:41,041 --> 00:24:45,900
+housing a suite of various cameras and observation tools that can zoom in close
+
+337
+00:24:45,901 --> 00:24:51,520
+enough to read a newspaper over someone's shoulder i'll tell you what when you're thinking high-tech
+
+338
+00:24:51,521 --> 00:24:55,840
+the first thing that pops into your head is not an airship but the fact of the matter is today's
+
+339
+00:24:55,841 --> 00:25:00,400
+Airships are a marriage of high-tech and low-tech.
+
+340
+00:25:01,100 --> 00:25:05,040
+A lot of the basic principles of airships from day one haven't changed at all.
+
+341
+00:25:05,280 --> 00:25:06,400
+It's a bag full of helium.
+
+342
+00:25:06,960 --> 00:25:09,000
+There's a pressurization system of some type.
+
+343
+00:25:09,580 --> 00:25:11,880
+And, you know, that hasn't changed since day one.
+
+344
+00:25:12,220 --> 00:25:14,700
+On the other hand, if you get into the surveillance end of it,
+
+345
+00:25:14,840 --> 00:25:19,480
+you would actually have a multi-sensor gyro-stabilized platform
+
+346
+00:25:19,481 --> 00:25:22,400
+where you'd have day TV, night vision.
+
+347
+00:25:23,440 --> 00:25:25,060
+The sky is literally the limit.
+
+348
+00:25:25,840 --> 00:25:29,520
+When it comes to surveillance, airships have several unique advantages.
+
+349
+00:25:30,660 --> 00:25:37,120
+The airships have an unrefueled endurance that is unequaled by any other type of aircraft in the world.
+
+350
+00:25:37,121 --> 00:25:43,340
+We can stay low, slow, and quiet, and we can be there for up to 15 hours unrefueled.
+
+351
+00:25:44,160 --> 00:25:51,420
+The number one ingredient to successful security and surveillance is persistent aerial surveillance.
+
+352
+00:25:51,421 --> 00:25:56,180
+and the airship is the best aircraft for that kind of mission.
+
+353
+00:25:57,700 --> 00:26:00,140
+According to the U.S. Office of Homeland Security,
+
+354
+00:26:00,600 --> 00:26:04,960
+having a floating eye in the sky could prove to be a major deterrent in the war on terror.
+
+355
+00:26:05,480 --> 00:26:07,920
+If the bad guys know somebody's watching them,
+
+356
+00:26:08,040 --> 00:26:10,540
+they're not so likely to try to get away with something
+
+357
+00:26:10,541 --> 00:26:12,020
+because they know they're going to get caught.
+
+358
+00:26:12,021 --> 00:26:15,300
+If we can spot them before they activate their plan, that's a wonderful thing.
+
+359
+00:26:15,820 --> 00:26:19,160
+If cameras have allowed us to see more with greater clarity and definition,
+
+360
+00:26:19,700 --> 00:26:23,740
+technology has also opened up entirely new ways for us to be tracked and monitored,
+
+361
+00:26:24,020 --> 00:26:26,520
+giving each of us our own digital shadow.
+
+362
+00:26:28,100 --> 00:26:32,320
+The average New Yorker is caught on camera about 75 times a day.
+
+363
+00:26:32,321 --> 00:26:35,200
+But that pales in comparison to the average Londoner,
+
+364
+00:26:35,380 --> 00:26:38,500
+who gets caught on camera 300 times a day.
+
+365
+00:26:39,100 --> 00:26:41,800
+Surveillance Tech will return on Modern Marvels.
+
+366
+00:26:41,801 --> 00:26:50,900
+With computers home to the data of billions of bank accounts, credit card accounts,
+
+367
+00:26:51,060 --> 00:26:54,900
+and hundreds of millions of medical claims, mortgages, and retirement funds,
+
+368
+00:26:55,280 --> 00:26:58,720
+there exists an enormous amount of available data on each of us.
+
+369
+00:26:59,760 --> 00:27:02,200
+Users are greatly empowered by computer technology,
+
+370
+00:27:02,660 --> 00:27:05,420
+yet they are also more vulnerable to surveillance and manipulation.
+
+371
+00:27:06,360 --> 00:27:10,460
+In the workplace, companies concerned about everything from work productivity
+
+372
+00:27:10,461 --> 00:27:12,100
+to corporate espionage.
+
+373
+00:27:12,480 --> 00:27:14,680
+Increasingly monitor employee workstations.
+
+374
+00:27:15,420 --> 00:27:18,820
+What employees often forget is that once you're using a computer
+
+375
+00:27:18,821 --> 00:27:22,080
+and an Internet service provided by the employer,
+
+376
+00:27:22,800 --> 00:27:25,200
+that company owns not just the system,
+
+377
+00:27:25,740 --> 00:27:27,980
+but they have the right to access all that information.
+
+378
+00:27:28,220 --> 00:27:32,860
+So today, employers use different devices such as spyware and keystroke logging
+
+379
+00:27:32,861 --> 00:27:35,840
+so that employers can really see everything that you write,
+
+380
+00:27:35,960 --> 00:27:37,460
+everywhere you go, on the computer.
+
+381
+00:27:38,360 --> 00:27:39,860
+Beyond the corporate world,
+
+382
+00:27:39,861 --> 00:27:44,380
+spyware in the hands of a hacker can present serious surveillance consequences.
+
+383
+00:27:45,920 --> 00:27:48,120
+Gregory Evans, a former computer hacker,
+
+384
+00:27:48,540 --> 00:27:52,740
+now runs a business to help educate others about the dangers of illegal computer surveillance.
+
+385
+00:27:53,680 --> 00:27:55,820
+Spyware is nothing but surveillance software.
+
+386
+00:27:56,680 --> 00:27:59,900
+You might be thinking, well, no one has access to my computer.
+
+387
+00:28:00,520 --> 00:28:08,060
+You can receive this file or this spyware as a file in email and you'll never know.
+
+388
+00:28:08,061 --> 00:28:15,180
+Everything that you do on your computer, from the time you turn your computer on, you log on to it, it's recording.
+
+389
+00:28:15,440 --> 00:28:20,140
+Every screenshot, every keystroke that you do, all your emails.
+
+390
+00:28:20,860 --> 00:28:27,560
+Once you've infected the target computer with spyware, you can use a setup menu to specify the areas of interest to find and record.
+
+391
+00:28:28,240 --> 00:28:29,400
+What are you looking for?
+
+392
+00:28:29,401 --> 00:28:32,800
+With spy software, you can type in keywords.
+
+393
+00:28:32,801 --> 00:28:37,300
+like if a person uses the word bomb, Al-Qaeda, drugs,
+
+394
+00:28:37,301 --> 00:28:39,800
+it will automatically start recording.
+
+395
+00:28:39,801 --> 00:28:43,800
+You can even tell the program to send you particular chat sessions.
+
+396
+00:28:43,801 --> 00:28:46,800
+So, if a person's in instant messaging,
+
+397
+00:28:46,801 --> 00:28:49,800
+Hi, honey, I'd like to see you later on when your wife's not around,
+
+398
+00:28:49,801 --> 00:28:52,800
+or, listen, my boss is going out of town,
+
+399
+00:28:52,801 --> 00:28:55,800
+I'm going to send you over those reports and make the copies of all the files.
+
+400
+00:28:55,801 --> 00:28:57,800
+Please have my money ready later.
+
+401
+00:28:57,801 --> 00:29:01,800
+And these are actual real scenarios that I'm giving you here.
+
+402
+00:29:01,801 --> 00:29:06,380
+Once the preferences have been activated, the data starts flowing immediately.
+
+403
+00:29:07,260 --> 00:29:11,540
+What we're looking at here is the desktop of my computer.
+
+404
+00:29:12,080 --> 00:29:13,580
+It's recording everything.
+
+405
+00:29:13,940 --> 00:29:18,220
+Wednesday, August 8th, 4.56 p.m. in 28 seconds.
+
+406
+00:29:18,540 --> 00:29:22,840
+I was at this website, so it's showing me everywhere that particular person it went to.
+
+407
+00:29:23,420 --> 00:29:24,860
+We can go to keystrokes.
+
+408
+00:29:25,360 --> 00:29:27,060
+What keystrokes did I type in?
+
+409
+00:29:27,260 --> 00:29:28,320
+I'm going to send an email.
+
+410
+00:29:28,321 --> 00:29:35,720
+Once you've illegally attached spyware to someone's computer, every email they send out will send a copy directly to you.
+
+411
+00:29:36,320 --> 00:29:37,460
+And they'll never know.
+
+412
+00:29:38,060 --> 00:29:48,320
+Subject, this is a demo for the History Channel.
+
+413
+00:29:49,080 --> 00:29:51,220
+Smiley face. Send.
+
+414
+00:29:51,680 --> 00:29:54,160
+Now, my message has been sent.
+
+415
+00:29:54,680 --> 00:29:56,580
+Let's go over here to email.
+
+416
+00:29:56,581 --> 00:30:01,580
+There we go. This is a demo for the History Channel.
+
+417
+00:30:01,581 --> 00:30:05,580
+This is how information is stolen. No more hacking.
+
+418
+00:30:05,581 --> 00:30:08,580
+I didn't have to hack my way into the computer.
+
+419
+00:30:08,581 --> 00:30:12,580
+I can sit back and have all the information brought directly to me.
+
+420
+00:30:12,581 --> 00:30:18,580
+And if an illegal user of spyware has someone's information, he can hide it very effectively.
+
+421
+00:30:18,581 --> 00:30:23,580
+You never know when the FBI is going to kick in my door and come in to check it out.
+
+422
+00:30:23,581 --> 00:30:28,460
+I can save this information to an external drive.
+
+423
+00:30:28,800 --> 00:30:31,060
+Here, I have an ordinary writing pen.
+
+424
+00:30:31,480 --> 00:30:32,480
+Take the top off.
+
+425
+00:30:33,700 --> 00:30:35,340
+I have a thumb drive.
+
+426
+00:30:36,560 --> 00:30:40,220
+I plug this thumb drive into my computer.
+
+427
+00:30:41,740 --> 00:30:42,440
+There.
+
+428
+00:30:43,780 --> 00:30:47,760
+Now, I can save all that information externally.
+
+429
+00:30:48,500 --> 00:30:50,820
+The watch, designer watch that I'm wearing,
+
+430
+00:30:50,821 --> 00:30:54,100
+is really a hard drive, even though it tells time.
+
+431
+00:30:54,920 --> 00:30:59,660
+I can plug a USB cable right into this watch
+
+432
+00:30:59,661 --> 00:31:03,760
+and save 250 megabytes worth of information.
+
+433
+00:31:04,360 --> 00:31:08,280
+I can literally walk around town, around the country,
+
+434
+00:31:08,720 --> 00:31:11,880
+fly, steal information from one corporation,
+
+435
+00:31:11,881 --> 00:31:14,780
+get on the plane with no baggage, no laptop,
+
+436
+00:31:15,180 --> 00:31:17,940
+fly to a different country, to your competitor,
+
+437
+00:31:17,941 --> 00:31:23,380
+walk in there and sell them all your information that I saved right here.
+
+438
+00:31:24,000 --> 00:31:25,800
+This is the new warfare.
+
+439
+00:31:26,220 --> 00:31:29,240
+It's not the Bradley tank. It's not the new M16.
+
+440
+00:31:29,820 --> 00:31:34,380
+What it is is a laptop with a satellite cell phone in the middle of the desert
+
+441
+00:31:34,381 --> 00:31:36,480
+and some spy software.
+
+442
+00:31:37,700 --> 00:31:40,880
+It's not just spyware that can access someone's information.
+
+443
+00:31:41,800 --> 00:31:43,680
+Although used for convenience and safety,
+
+444
+00:31:44,540 --> 00:31:48,720
+Credit, banking and other personal ID cards all function as tracking devices.
+
+445
+00:31:49,780 --> 00:31:54,720
+And electronic toll collection tags instantly show the comings and goings of millions of commuters.
+
+446
+00:31:56,000 --> 00:32:02,220
+Global positioning systems, or GPS, installed in millions of cars, function as navigation systems.
+
+447
+00:32:02,820 --> 00:32:06,520
+But other GPS devices can be used to monitor everywhere we drive.
+
+448
+00:32:07,180 --> 00:32:11,500
+And simply by using a wireless phone, you increase your chances of being located.
+
+449
+00:32:11,501 --> 00:32:22,863
+The newer models of cell phones contain GPS devices that at all times allow the nature of the phone call to be tracked to the location of where that person is making
+
+450
+00:32:22,864 --> 00:32:24,240
+the phone call from.
+
+451
+00:32:24,440 --> 00:32:34,046
+There's been a lot of work going on to understand how do you actually now locate signals coming from your cell phone to know that if you dialed E911, electronic 911,
+
+452
+00:32:34,047 --> 00:32:41,440
+that you would actually know where these people are and be able to send an ambulance, fire trucks or whatever to that location.
+
+453
+00:32:41,500 --> 00:32:46,600
+Although being able to locate someone in an emergency is a definite benefit,
+
+454
+00:32:46,601 --> 00:32:51,380
+the potential downside is that an individual's whereabouts can be continually tracked.
+
+455
+00:32:51,980 --> 00:32:56,000
+They're trying to give you switches on your cell phone to turn off that capability or not.
+
+456
+00:32:56,260 --> 00:33:00,100
+So somebody can find you if you're in trouble, but in the same respects it's lessening your security
+
+457
+00:33:00,101 --> 00:33:02,360
+because it's allowing somebody else to find you.
+
+458
+00:33:02,560 --> 00:33:03,560
+So it's a degree.
+
+459
+00:33:04,620 --> 00:33:10,780
+Another form of digital surveillance technology is radio frequency identification, or RFID.
+
+460
+00:33:11,500 --> 00:33:17,700
+RFID chips are small as grains of rice and are poised to replace barcodes on packaged goods.
+
+461
+00:33:18,000 --> 00:33:22,900
+They're tiny, they're cheap, but every product you buy will have them attached.
+
+462
+00:33:23,720 --> 00:33:27,100
+You're going to be able to simply make your selections at the supermarket,
+
+463
+00:33:27,620 --> 00:33:34,740
+wheel your cart directly out while grabbing the receipt that's been billed automatically to your bank account on your way out.
+
+464
+00:33:34,860 --> 00:33:35,560
+No more checkout.
+
+465
+00:33:36,000 --> 00:33:37,780
+The advantages are going to be huge.
+
+466
+00:33:38,760 --> 00:33:40,240
+So are the surveillance implications.
+
+467
+00:33:40,241 --> 00:33:45,240
+These inexpensive microchips hold over 30 times more information than barcodes.
+
+468
+00:33:45,241 --> 00:33:49,240
+The danger comes from other people being able to tap into your private information.
+
+469
+00:33:49,241 --> 00:33:56,240
+And as the technology improves, it's almost certain that it will become easier to read or scan the information.
+
+470
+00:33:56,241 --> 00:34:02,611
+Which means, if your clothing contains RFID transponders, people could find them.
+
+471
+00:34:02,612 --> 00:34:03,312
+And you.
+
+472
+00:34:03,313 --> 00:34:05,240
+How do you turn off the tag?
+
+473
+00:34:05,241 --> 00:34:09,380
+So the question is, are there ways of actually destructively altering the tag,
+
+474
+00:34:09,460 --> 00:34:12,460
+or some way, shape or form electronically, so therefore it's not operational,
+
+475
+00:34:12,780 --> 00:34:15,000
+once it does the job it needs to do?
+
+476
+00:34:15,860 --> 00:34:21,200
+A controversial innovation using RFID technology for surveillance is implants.
+
+477
+00:34:21,900 --> 00:34:25,420
+Verichip is the world's first implantable microchip for human beings.
+
+478
+00:34:25,640 --> 00:34:29,320
+The history of the chip really goes back about 15 years in the animal world.
+
+479
+00:34:29,740 --> 00:34:34,300
+We've been using this product with companion pets, dogs and cats,
+
+480
+00:34:34,301 --> 00:34:39,008
+and also in livestock. I got chipped on May 9, 2002.
+
+481
+00:34:39,009 --> 00:34:42,720
+Then I can tell you that the procedure is
+
+482
+00:34:42,721 --> 00:34:47,620
+very simple. The chip itself lies dormant underneath the skin. Again, it's about the
+
+483
+00:34:47,621 --> 00:34:51,934
+size of a grain of rice, about 11 millimeters long by less than a millimeter wide.
+
+484
+00:34:51,935 --> 00:34:52,635
+There's no
+
+485
+00:34:52,636 --> 00:34:53,764
+energy source whatsoever.
+
+486
+00:34:53,765 --> 00:34:57,260
+And the only way that energy is provided to the chip or the chip is
+
+487
+00:34:57,261 --> 00:35:03,380
+awakened is when an external scanner is waved within a two-foot radius of where the chip actually
+
+488
+00:35:03,381 --> 00:35:10,320
+is implanted, if I wave it over my arm, you'll see that it pulls up an identification number.
+
+489
+00:35:11,040 --> 00:35:13,487
+That is my identification number.
+
+490
+00:35:13,488 --> 00:35:17,640
+And through this serial port, can tie to the database on
+
+491
+00:35:17,641 --> 00:35:22,260
+your computer, or on a hospital emergency room's computer, or on law enforcement's computer,
+
+492
+00:35:22,360 --> 00:35:27,660
+or whomever, that says, my name is Scott Silverman, here's my address, and whatever
+
+493
+00:35:27,661 --> 00:35:30,840
+information I desire to put on that database can be put onto that.
+
+494
+00:35:30,841 --> 00:35:37,840
+The chips are primarily used for security and monitoring applications.
+
+495
+00:35:37,841 --> 00:35:42,560
+In Mexico City, the Attorney General and much of his staff have been implanted with RFID
+
+496
+00:35:42,561 --> 00:35:47,840
+microchips that allow them access to secure areas of their headquarters.
+
+497
+00:35:47,841 --> 00:35:51,600
+Future applications of the implants could be to track and locate individuals who are
+
+498
+00:35:51,601 --> 00:35:52,840
+lost or kidnapped.
+
+499
+00:35:52,841 --> 00:35:59,600
+And the FDA has approved using implants to provide patients medical histories.
+
+500
+00:35:59,601 --> 00:36:06,000
+Whether you're conscious or not, they'll know who you are, where you came from, your up-to-date medical records, and your insurance information within milliseconds.
+
+501
+00:36:06,880 --> 00:36:15,840
+There are people out there who claim that Verichip or any RFID technology is violative of your privacy or is big brother.
+
+502
+00:36:16,240 --> 00:36:17,560
+And my answer to that is simple.
+
+503
+00:36:17,740 --> 00:36:18,720
+Number one, it's elective.
+
+504
+00:36:18,721 --> 00:36:28,140
+Number two, when it comes to privacy rights, we actually believe that Verichip enhances your privacy because it keeps your information tamper-proof and secure.
+
+505
+00:36:29,100 --> 00:36:32,180
+Current surveillance technologies may be disturbing and frightening,
+
+506
+00:36:32,181 --> 00:36:35,040
+but when it comes to the future of surveillance technology,
+
+507
+00:36:35,580 --> 00:36:38,120
+it looks like we've barely scratched the surface.
+
+508
+00:36:39,380 --> 00:36:45,920
+In 2004, 9 out of 10 PCs connected to the Internet were infected with spyware.
+
+509
+00:36:47,500 --> 00:36:50,560
+Surveillance Tech will return on Modern Marvels.
+
+510
+00:36:52,260 --> 00:36:56,560
+In the past, the problem with surveillance was that there wasn't enough information.
+
+511
+00:36:56,561 --> 00:37:00,560
+Today, users are often inundated with too much.
+
+512
+00:37:00,561 --> 00:37:07,560
+VizRT manages huge amounts of data and presents it in a way that provides greater situational awareness.
+
+513
+00:37:07,561 --> 00:37:09,560
+It's all about organizing the data.
+
+514
+00:37:09,561 --> 00:37:16,560
+With the ability to tie in 3D models, live video from surveillance cameras and other surveillance information,
+
+515
+00:37:16,561 --> 00:37:21,560
+users can immediately and effectively manage any large event or emergency situation.
+
+516
+00:37:21,561 --> 00:37:28,760
+We provide tools that allow users to take in a wide variety of sources, transform them
+
+517
+00:37:28,761 --> 00:37:35,960
+into a single, interactive, three-dimensional image, and make faster, better decisions.
+
+518
+00:37:35,961 --> 00:37:42,400
+If we model a computer-generated image based on the visual context that the users are familiar
+
+519
+00:37:42,401 --> 00:37:49,340
+with, it could be the city, and project information on that, what we found is that they understand
+
+520
+00:37:49,341 --> 00:37:52,740
+incoming information better and faster.
+
+521
+00:37:52,741 --> 00:37:55,140
+The user not only can absorb the information,
+
+522
+00:37:55,141 --> 00:37:58,840
+but the technology allows the system to be interactive.
+
+523
+00:37:58,841 --> 00:38:01,700
+Rather than being aware that they're working with the environment,
+
+524
+00:38:01,701 --> 00:38:03,540
+they become part of the environment,
+
+525
+00:38:03,541 --> 00:38:06,940
+and this is where the virtual reality comes into play.
+
+526
+00:38:06,941 --> 00:38:11,280
+The idea is to provide a system so that they can immediately understand
+
+527
+00:38:11,281 --> 00:38:14,200
+what is the context, how to act upon it,
+
+528
+00:38:14,201 --> 00:38:18,640
+and in a click of a button communicate that information to other users.
+
+529
+00:38:18,641 --> 00:38:26,040
+In another emerging surveillance technology, experts believe that soon a vast array of intelligent cameras, or smart sensors,
+
+530
+00:38:26,780 --> 00:38:34,520
+will be equipped with biometric face recognition software and connected to network databases that will instantly link us to personal information.
+
+531
+00:38:35,020 --> 00:38:38,320
+The future is that these sensors get smarter.
+
+532
+00:38:38,980 --> 00:38:45,560
+And so they help us so that one or two or three individuals can have available to them the type of information that they need
+
+533
+00:38:45,561 --> 00:38:49,920
+to identify when problems are getting ready to happen well before we have a problem.
+
+534
+00:38:50,700 --> 00:38:54,380
+We've all seen pictures from convenience stores and banks that said,
+
+535
+00:38:54,440 --> 00:38:57,560
+you know, if you've seen this individual who robbed this bank, please call in.
+
+536
+00:38:57,700 --> 00:38:58,640
+It could be anybody.
+
+537
+00:38:59,240 --> 00:39:03,120
+So what this sensor does is it detects your head and shoulders
+
+538
+00:39:03,121 --> 00:39:06,820
+as you move through the scene, automatically zooms in
+
+539
+00:39:06,821 --> 00:39:12,600
+and takes a series of high-resolution photographs of your face and shoulders as you go by.
+
+540
+00:39:12,601 --> 00:39:17,980
+They work in picking up key distances and points on the face.
+
+541
+00:39:18,480 --> 00:39:21,540
+So in this case, you can put multiple sensors around a facility,
+
+542
+00:39:21,780 --> 00:39:27,340
+and then you have a very high-resolution, quality picture of the people who have moved through your facility.
+
+543
+00:39:28,220 --> 00:39:34,060
+Other sensors will not only alert us when suspicious activity exists, but can also take action.
+
+544
+00:39:34,460 --> 00:39:37,400
+This sensor is going to detect motion.
+
+545
+00:39:37,940 --> 00:39:40,460
+It's going to do a 500 to 1 zoom.
+
+546
+00:39:40,461 --> 00:39:46,860
+It's then going to track electronically the individual as the individual moves.
+
+547
+00:39:46,861 --> 00:39:52,560
+It's also going to automatically vary the contrast of the picture to maintain a high-quality image,
+
+548
+00:39:52,880 --> 00:39:57,600
+and it's going to place the original image and the enhanced image in the same video frame.
+
+549
+00:39:58,180 --> 00:40:05,440
+It also maintains a continuity of evidence so that it's clear that the zoomed picture is part of the original picture.
+
+550
+00:40:05,441 --> 00:40:11,680
+Computers in the future will be able to take over many of the surveillance tasks now done by humans.
+
+551
+00:40:13,100 --> 00:40:19,060
+Sensors will be taught specific duties, such as detecting when someone is going into an unauthorized area.
+
+552
+00:40:20,140 --> 00:40:29,057
+Object Video is working with the United States government to use sensor technology to protect borders and highly sensitive infrastructures, such as nuclear plants and
+
+553
+00:40:29,058 --> 00:40:29,758
+airports.
+
+554
+00:40:29,759 --> 00:40:33,860
+The way I like to think about the software is that we're a filter, if you like,
+
+555
+00:40:34,140 --> 00:40:38,860
+that turns the huge volumes of video data into actionable information.
+
+556
+00:40:39,560 --> 00:40:43,480
+In this particular scenario, object video view is being used to protect
+
+557
+00:40:43,481 --> 00:40:46,160
+Reagan National Airport here in the Washington, D.C. area.
+
+558
+00:40:46,460 --> 00:40:51,240
+The airport is built next to the Potomac River, and the Potomac is a public waterway.
+
+559
+00:40:51,360 --> 00:40:53,760
+People are allowed to be riding boats up and down there.
+
+560
+00:40:54,080 --> 00:40:57,960
+But the private property that is the airport is absolutely secure.
+
+561
+00:40:57,961 --> 00:41:02,960
+The software uses a setup menu to choose specific rules for the sensors to follow.
+
+562
+00:41:02,961 --> 00:41:06,960
+I want to create a virtual perimeter, so I'm going to use the tripwire tool.
+
+563
+00:41:06,961 --> 00:41:10,960
+So there's my virtual fence line, if you like.
+
+564
+00:41:10,961 --> 00:41:13,960
+I can specify which direction I care about people moving in,
+
+565
+00:41:13,961 --> 00:41:16,960
+so I care about people moving from right to left.
+
+566
+00:41:16,961 --> 00:41:18,960
+So that's the airport perimeter.
+
+567
+00:41:18,961 --> 00:41:22,960
+What I've been able to do is turn effectively my security policy
+
+568
+00:41:22,961 --> 00:41:24,960
+into a rule that the computer can operate against.
+
+569
+00:41:24,961 --> 00:41:28,700
+operate against, a person crossing the perimeter from right to left.
+
+570
+00:41:29,060 --> 00:41:34,080
+Once the rules have been set, the user can specify what action should be taken if a breach
+
+571
+00:41:34,081 --> 00:41:34,781
+occurs.
+
+572
+00:41:35,040 --> 00:41:39,280
+This could include alerting law enforcement, automatically securing parts of a building,
+
+573
+00:41:39,640 --> 00:41:42,100
+or emailing individuals anywhere in the world.
+
+574
+00:41:42,980 --> 00:41:47,760
+What we're seeing here is a clip of Regan National Airport.
+
+575
+00:41:47,960 --> 00:41:49,260
+There's a person wandering along the beach.
+
+576
+00:41:49,600 --> 00:41:53,340
+He's not going to trip the rule as he walks from left to right because that's not what
+
+577
+00:41:53,341 --> 00:41:54,041
+we asked for.
+
+578
+00:41:54,042 --> 00:41:54,760
+We were very specific.
+
+579
+00:41:54,761 --> 00:41:59,800
+We also don't fire off an alarm when a plane goes past or when an operations vehicle goes past.
+
+580
+00:41:59,940 --> 00:42:01,020
+Just the person.
+
+581
+00:42:01,460 --> 00:42:10,160
+So as the person turns around, comes up from the Potomac towards the tarmac, crosses that line, and there's the alarm.
+
+582
+00:42:11,760 --> 00:42:14,520
+Of course, new surveillance technology won't stop there.
+
+583
+00:42:15,380 --> 00:42:20,080
+Most agree that in the future, equipment will get faster, smaller, and less expensive.
+
+584
+00:42:20,960 --> 00:42:24,480
+The end result will be more information and monitoring capability.
+
+585
+00:42:24,760 --> 00:42:26,160
+available to everyone.
+
+586
+00:42:26,520 --> 00:42:27,740
+When you're walking down the street,
+
+587
+00:42:27,860 --> 00:42:29,160
+you're going to be wearing sunglasses,
+
+588
+00:42:29,380 --> 00:42:31,140
+and the inner side of the sunglasses,
+
+589
+00:42:31,840 --> 00:42:33,180
+the little camera on the corner
+
+590
+00:42:33,181 --> 00:42:34,740
+is going to scan people's faces,
+
+591
+00:42:34,940 --> 00:42:35,640
+look them up,
+
+592
+00:42:35,860 --> 00:42:38,800
+and put captions underneath the people walking by.
+
+593
+00:42:40,020 --> 00:42:41,820
+At the very minimum, their name,
+
+594
+00:42:42,700 --> 00:42:45,040
+maybe a couple of lines about,
+
+595
+00:42:45,560 --> 00:42:47,560
+that they've said about themselves on the Internet,
+
+596
+00:42:47,561 --> 00:42:51,120
+or maybe dissenting opinions by their ex-spouses.
+
+597
+00:42:51,121 --> 00:42:57,240
+Cyber tools will potentially turn any object in Street Corner into a node of the wireless web.
+
+598
+00:42:57,940 --> 00:43:01,100
+And cameras will be as prevalent and inexpensive as paper.
+
+599
+00:43:01,480 --> 00:43:07,420
+Imagine when our children are able to buy a roll of stickers like they can at the store today.
+
+600
+00:43:07,740 --> 00:43:11,480
+Only these stickers are peel-off, stick-on penny cameras.
+
+601
+00:43:12,320 --> 00:43:13,620
+They cost a penny each.
+
+602
+00:43:14,120 --> 00:43:15,380
+And they're digital cameras.
+
+603
+00:43:15,381 --> 00:43:19,480
+You can stick them on any lamppost and they have their own internet address.
+
+604
+00:43:19,481 --> 00:43:23,120
+and they're automatically on the Internet from the minute they're peeled off.
+
+605
+00:43:23,540 --> 00:43:27,620
+There is absolutely nothing, scientific, technological, or engineering,
+
+606
+00:43:28,160 --> 00:43:31,900
+to prevent this from coming true within five, seven years.
+
+607
+00:43:32,420 --> 00:43:34,740
+What are we going to do when our children have these?
+
+608
+00:43:35,560 --> 00:43:41,860
+Adapt and hope that we raise them at least somewhat well to have pity on us.
+
+609
+00:43:43,200 --> 00:43:45,660
+As the technology becomes more powerful,
+
+610
+00:43:45,661 --> 00:43:52,460
+We actually have more of a responsibility to use the technology in a meaningful and useful fashion.
+
+611
+00:43:53,440 --> 00:43:57,500
+Now we're getting lenses that will be able to take you anywhere in the world.
+
+612
+00:43:57,880 --> 00:43:59,600
+The upside wonders are spectacular.
+
+613
+00:44:00,820 --> 00:44:03,900
+And yes, it's extremely dangerous.
+
+614
+00:44:04,720 --> 00:44:05,820
+So what else is new?
+
+615
+00:44:06,960 --> 00:44:12,480
+So we're able to gather an astonishing amount of detailed information on virtually anyone in the world.
+
+616
+00:44:12,481 --> 00:44:15,100
+And in the future, we'll gather even more.
+
+617
+00:44:15,101 --> 00:44:25,060
+Who uses this information and more importantly, how they use it, will have a profound effect on our safety, our privacy, and perhaps our very existence.
+

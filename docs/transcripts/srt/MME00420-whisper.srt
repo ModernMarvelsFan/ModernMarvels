@@ -1,0 +1,2284 @@
+1
+00:00:00,001 --> 00:00:05,000
+A giant 747 destroys an apartment building.
+
+2
+00:00:05,001 --> 00:00:10,000
+Hollywood Boulevard ruptures and sinks into a subway tunnel.
+
+3
+00:00:10,001 --> 00:00:13,000
+An oil tanker explodes, killing nine.
+
+4
+00:00:13,001 --> 00:00:18,000
+A tidal wave of molasses drowns 21 people.
+
+5
+00:00:18,001 --> 00:00:23,000
+And a freeway ramp collapses, burying workers in concrete.
+
+6
+00:00:23,001 --> 00:00:28,000
+Now, Engineering Disasters on Modern Marvels.
+
+7
+00:00:30,000 --> 00:00:44,000
+On October 4, 1992, an El Al Boeing 747 freighter took off from Schiphol Airport near Amsterdam.
+
+8
+00:00:50,800 --> 00:00:52,700
+It was 5.20 p.m.
+
+9
+00:00:53,460 --> 00:00:58,720
+The three-man crew and one passenger were headed to Tel Aviv to deliver a routine cargo shipment.
+
+10
+00:01:00,000 --> 00:01:03,040
+But the flight turned out to be anything but routine.
+
+11
+00:01:04,620 --> 00:01:08,880
+Shortly after takeoff, the co-pilot sent a distress call to the control tower.
+
+12
+00:01:09,680 --> 00:01:11,620
+Mayday, mayday, we have an emergency.
+
+13
+00:01:12,540 --> 00:01:15,420
+LL-1862, do you wish to return to Schiphol?
+
+14
+00:01:15,820 --> 00:01:18,100
+Roger, we have fire on engine number 3.
+
+15
+00:01:18,660 --> 00:01:19,780
+Roger, 1862.
+
+16
+00:01:20,600 --> 00:01:23,560
+Schiphol, LL-1862, we have an emergency.
+
+17
+00:01:23,920 --> 00:01:27,960
+Number 3 and number 4 engine in operative. Request to 7 for landing.
+
+18
+00:01:27,961 --> 00:01:34,740
+Only seven miles into the flight, the pilot turned around and attempted to return to the airport.
+
+19
+00:01:35,240 --> 00:01:42,740
+His closest runway was the crosswind runway, which was, I believe he had almost 30 knots of wind directly crosswind.
+
+20
+00:01:43,840 --> 00:01:51,220
+And to try to line up the airplane to the runway with two engines gone on one side, limited controllability, but almost impossible.
+
+21
+00:01:52,120 --> 00:01:54,800
+The jet was making its final approach to the runway
+
+22
+00:01:54,801 --> 00:01:58,260
+when the pilot suddenly lost control of the giant 747.
+
+23
+00:02:00,020 --> 00:02:05,520
+The plane plummeted at full speed toward a residential section of Belmameer near Amsterdam.
+
+24
+00:02:06,660 --> 00:02:09,240
+It was like you just was flying straight into the ground.
+
+25
+00:02:10,360 --> 00:02:13,740
+And he hit right at the apex of the apartment building.
+
+26
+00:02:14,480 --> 00:02:17,420
+The 747 exploded upon impact,
+
+27
+00:02:17,421 --> 00:02:20,760
+and the 11-story apartment building burst into flames.
+
+28
+00:02:21,220 --> 00:02:30,440
+Nobody on board survived the crash, and 47 people on the ground were instantly killed in their homes as they were going about their daily lives.
+
+29
+00:02:31,320 --> 00:02:35,294
+The rest of the building was essentially considered unlivable.
+
+30
+00:02:35,295 --> 00:02:36,960
+It was destroyed so badly.
+
+31
+00:02:37,500 --> 00:02:42,640
+The authorities were concerned they might have a structural collapse, so they evacuated all the tenants.
+
+32
+00:02:44,380 --> 00:02:47,560
+A team from the Netherlands led the accident investigation.
+
+33
+00:02:48,500 --> 00:02:53,800
+They invited a team from Israel and the United States National Transportation Safety Board to join them.
+
+34
+00:02:55,540 --> 00:02:59,660
+This was the second mysterious 747 crash in less than a year.
+
+35
+00:03:01,240 --> 00:03:06,420
+Ten months earlier, a China Airlines jet also lost two engines and went down in Taiwan.
+
+36
+00:03:06,421 --> 00:03:11,820
+When the LL crash occurred, there were so many similarities to both cases
+
+37
+00:03:11,821 --> 00:03:15,000
+that it ended up speeding up the investigations of both of them.
+
+38
+00:03:15,001 --> 00:03:20,000
+The NTSB was determined to get to the root of the problem during the El Al investigation.
+
+39
+00:03:20,001 --> 00:03:28,000
+You take eyewitness reports, you take air traffic control tapes, you take the recorders.
+
+40
+00:03:28,001 --> 00:03:32,000
+We can examine them in detail either in the field or in the lab.
+
+41
+00:03:32,001 --> 00:03:39,000
+And by process of elimination, you can focus down the area in which it's significant.
+
+42
+00:03:39,001 --> 00:03:46,000
+The primary suspects in this case were the engines, which had lost power during the flight.
+
+43
+00:03:46,001 --> 00:03:48,222
+A Boeing 747 has four engines.
+
+44
+00:03:48,223 --> 00:03:54,000
+If you're facing forward, the number one and two engines are on the left wing,
+
+45
+00:03:54,001 --> 00:03:57,150
+and number three and number four engines are on the right side.
+
+46
+00:03:57,151 --> 00:04:00,000
+So going left to right, there's one, two, three and four.
+
+47
+00:04:00,001 --> 00:04:05,420
+747 engines are mounted to the underside of the wing.
+
+48
+00:04:06,160 --> 00:04:09,180
+They are attached to an engine strut with engine mounts,
+
+49
+00:04:09,760 --> 00:04:12,180
+and the strut is attached to the wing with fuse pins.
+
+50
+00:04:14,340 --> 00:04:20,040
+To prevent wing damage, fuse pins are designed to break away cleanly from the wing of the aircraft
+
+51
+00:04:20,041 --> 00:04:22,640
+in the event of a sudden catastrophic engine failure.
+
+52
+00:04:23,260 --> 00:04:27,780
+There were several, I would have saw pieces coming off the airplane as it flew over the water
+
+53
+00:04:27,781 --> 00:04:30,340
+and as it was circling around to try and get to the airport.
+
+54
+00:04:31,400 --> 00:04:33,540
+While scouring the bottom of Lake Isolmare,
+
+55
+00:04:34,380 --> 00:04:36,740
+investigators found all of engine number four
+
+56
+00:04:36,741 --> 00:04:38,720
+and part of engine number three.
+
+57
+00:04:39,820 --> 00:04:43,360
+Finding the engine in the water was a significant piece of evidence
+
+58
+00:04:43,361 --> 00:04:46,360
+because it showed us the strut mounting, how it had broken.
+
+59
+00:04:46,980 --> 00:04:48,500
+And of course, this was kind of the key.
+
+60
+00:04:49,620 --> 00:04:51,640
+As they inspected the engine mountings,
+
+61
+00:04:51,641 --> 00:04:55,600
+they began to suspect that the tragedy had been caused by a single fuse pin
+
+62
+00:04:55,601 --> 00:04:57,580
+that supported engine number three.
+
+63
+00:04:57,780 --> 00:05:01,220
+We found one fuse pin that are fatigue fractured.
+
+64
+00:05:01,820 --> 00:05:06,720
+It can start from a small pit from corrosion or a scratch.
+
+65
+00:05:07,780 --> 00:05:11,400
+And fatigue is kind of like if you want to break a piece of metal,
+
+66
+00:05:11,500 --> 00:05:14,940
+you bend it back and forth and back and forth and finally it breaks.
+
+67
+00:05:15,200 --> 00:05:16,520
+That's a fatigue fracture.
+
+68
+00:05:17,100 --> 00:05:20,000
+And this will happen even in the strongest airplane material.
+
+69
+00:05:22,300 --> 00:05:27,000
+Over the years, moisture in the air had caused a tiny corrosion pit of rust
+
+70
+00:05:27,001 --> 00:05:28,120
+to form in the pin.
+
+71
+00:05:29,080 --> 00:05:32,160
+It was just a matter of time before the fuse pin cracked
+
+72
+00:05:32,161 --> 00:05:34,000
+and then broke apart completely.
+
+73
+00:05:34,720 --> 00:05:37,280
+When one lets go in flight like this,
+
+74
+00:05:37,800 --> 00:05:41,200
+it allowed the engine to rotate,
+
+75
+00:05:41,500 --> 00:05:43,660
+and of course that then overloaded the other fuses,
+
+76
+00:05:43,920 --> 00:05:45,920
+and that caused a separation of number three.
+
+77
+00:05:46,640 --> 00:05:50,020
+As it came loose, it came down the leading edge of the wing
+
+78
+00:05:50,021 --> 00:05:53,260
+and was tearing up pieces of the leading edge as it went along.
+
+79
+00:05:53,261 --> 00:05:55,600
+And as it reached where number four is,
+
+80
+00:05:55,601 --> 00:05:57,420
+it was out in front of number four,
+
+81
+00:05:57,700 --> 00:06:00,980
+and essentially the airplane flew into the number three engine.
+
+82
+00:06:01,540 --> 00:06:05,600
+That contact caused the damage or enough load
+
+83
+00:06:05,601 --> 00:06:07,040
+to tear off the number four engine.
+
+84
+00:06:08,320 --> 00:06:10,020
+Losing power in two engines
+
+85
+00:06:10,021 --> 00:06:12,600
+does not necessarily spell doom for an aircraft.
+
+86
+00:06:13,580 --> 00:06:16,020
+Airplanes are certified by the Federal Aviation Administration
+
+87
+00:06:16,021 --> 00:06:18,020
+to fly 50% of your engines.
+
+88
+00:06:18,140 --> 00:06:19,300
+In this case, you have four engines,
+
+89
+00:06:19,460 --> 00:06:21,420
+so you should be able to fly with two of the engines.
+
+90
+00:06:21,980 --> 00:06:23,080
+But unfortunately, in this case,
+
+91
+00:06:23,160 --> 00:06:25,360
+you have a situation where both of the engines
+
+92
+00:06:25,361 --> 00:06:28,500
+were all, as we mentioned, were the number three, number four engine,
+
+93
+00:06:28,820 --> 00:06:30,260
+and they were on the same side of the airplane.
+
+94
+00:06:30,800 --> 00:06:32,760
+If you put a lot of power on one side of the airplane,
+
+95
+00:06:32,860 --> 00:06:34,180
+it tends to want to roll the airplane.
+
+96
+00:06:34,420 --> 00:06:35,980
+And if you can't stop the roll,
+
+97
+00:06:36,680 --> 00:06:40,380
+we thought maybe this was one of the reasons why you lost control.
+
+98
+00:06:41,560 --> 00:06:44,080
+The added damage to the wing in the El Al incident
+
+99
+00:06:44,081 --> 00:06:46,600
+contributed significantly to the controllability problem
+
+100
+00:06:46,601 --> 00:06:48,600
+as opposed to just two engines and operative.
+
+101
+00:06:50,840 --> 00:06:52,880
+A few weeks before the accident,
+
+102
+00:06:52,881 --> 00:06:53,581
+L.A.L.
+
+103
+00:06:53,582 --> 00:06:58,680
+had inspected the fuse pins on the Boeing 747 for corrosion and minor fractures.
+
+104
+00:07:00,760 --> 00:07:05,240
+The tests used to examine the fuse pins were unable to detect the fatigue fracture.
+
+105
+00:07:11,540 --> 00:07:16,560
+Since the crash of the L.A.L. 747, Boeing has improved its testing procedures.
+
+106
+00:07:17,400 --> 00:07:22,400
+By bouncing ultrasound waves off fuse pins or passing eddy currents over them,
+
+107
+00:07:22,880 --> 00:07:26,360
+engineers can detect even the smallest corrosion and fatigue fractures.
+
+108
+00:07:28,080 --> 00:07:32,340
+Fuse pin materials have also been upgraded to prevent corrosion caused by old age.
+
+109
+00:07:32,920 --> 00:07:36,700
+The other fuse pins were made out of what are called carbon steel, high-strength carbon steel.
+
+110
+00:07:37,300 --> 00:07:41,280
+But we designed one out of stainless steel, which will take care of the corrosion problems.
+
+111
+00:07:41,840 --> 00:07:45,160
+And the design was such that the machining would be a lot simpler
+
+112
+00:07:45,161 --> 00:07:51,100
+and would eliminate possibilities of having machine-type defects during the manufacturing process.
+
+113
+00:07:51,101 --> 00:07:54,800
+and so this is subsequently what came of the accident.
+
+114
+00:07:56,060 --> 00:07:58,720
+It's shocking to think that so much death and destruction
+
+115
+00:07:58,721 --> 00:08:00,860
+could begin with a little bit of rust.
+
+116
+00:08:06,860 --> 00:08:10,080
+Fortunately, since the El Al disaster in 1992,
+
+117
+00:08:10,880 --> 00:08:13,520
+there have been no other fatalities caused by engines
+
+118
+00:08:13,521 --> 00:08:15,920
+unexpectedly dropping out of the sky.
+
+119
+00:08:15,921 --> 00:08:26,560
+Before the LL-747 crashed, the jet airliner had accumulated 45,746 flight hours.
+
+120
+00:08:27,340 --> 00:08:31,420
+This is equivalent to flying non-stop for more than five years.
+
+121
+00:08:32,800 --> 00:08:36,240
+Engineering disasters will return on Modern Marvels.
+
+122
+00:08:36,241 --> 00:08:47,300
+Los Angeles has always been notorious for smog and traffic jams.
+
+123
+00:08:48,880 --> 00:08:53,680
+As air pollution and traffic congestion reached nightmarish proportions in the 1980s,
+
+124
+00:08:54,360 --> 00:08:55,960
+the city was desperate for a solution.
+
+125
+00:08:59,140 --> 00:09:02,020
+And the Los Angeles subway system was born.
+
+126
+00:09:02,021 --> 00:09:11,560
+The underground mass transit system called the Metro Red Line was part of a $4.5 billion
+
+127
+00:09:11,561 --> 00:09:18,220
+public transportation project that included a 17-mile dual-tunnel subway system to connect
+
+128
+00:09:18,221 --> 00:09:20,100
+downtown Los Angeles to North Hollywood.
+
+129
+00:09:22,740 --> 00:09:29,960
+Three major tunneling contractors had formed the SKK venture in 1992 to dig out and construct
+
+130
+00:09:29,961 --> 00:09:34,520
+the twin tunnels of the Hollywood Boulevard and Vermont Avenue legs of the underground system.
+
+131
+00:09:41,240 --> 00:09:45,083
+Excavation continued well into the 1990s.
+
+132
+00:09:45,084 --> 00:09:50,520
+But on June 22, 1995, an infamous and spectacular accident
+
+133
+00:09:50,521 --> 00:09:55,420
+made its way into the Hollywood spotlight and spread doubt about the safety of future
+
+134
+00:09:55,421 --> 00:09:57,324
+tunneling under Los Angeles.
+
+135
+00:09:57,325 --> 00:10:01,200
+At 11 a.m., a depression in the middle of famed Hollywood
+
+136
+00:10:01,201 --> 00:10:06,300
+Boulevard suddenly ruptured and disappeared into one of the subway tunnels below.
+
+137
+00:10:08,540 --> 00:10:13,340
+The shocking incident occurred as construction workers were remining an 80-foot section of
+
+138
+00:10:13,341 --> 00:10:17,015
+the south tunnel in the Hollywood Boulevard leg of the subway system.
+
+139
+00:10:17,016 --> 00:10:18,400
+A gas line, a sewage line,
+
+140
+00:10:18,401 --> 00:10:23,037
+and a high-pressure water main burst and flooded the chasm.
+
+141
+00:10:23,038 --> 00:10:25,080
+Bystanders watched in awe,
+
+142
+00:10:25,420 --> 00:10:28,160
+as a huge crevasse appeared right in the middle of the street.
+
+143
+00:10:30,080 --> 00:10:33,640
+Joe Doyle from the California Occupational Safety and Health Administration
+
+144
+00:10:33,641 --> 00:10:35,980
+was called in to investigate the situation.
+
+145
+00:10:37,920 --> 00:10:40,960
+The hole was growing right when we first pulled up there.
+
+146
+00:10:41,460 --> 00:10:43,560
+Debris was caving off, the dirt was caving off,
+
+147
+00:10:43,700 --> 00:10:47,300
+pavement, asphalt was peeling off of Hollywood Boulevard, dropping into the hole.
+
+148
+00:10:48,000 --> 00:10:50,720
+And at the same time, it was filling full of water, which is heavy.
+
+149
+00:10:51,960 --> 00:10:54,420
+The fallen debris had plugged up the tunnel.
+
+150
+00:10:55,420 --> 00:11:05,044
+But as the water and sewage from the burst lines continued to rise, there was an increased risk that the water would break through the debris and gush through the
+
+151
+00:11:05,045 --> 00:11:05,745
+tunnel.
+
+152
+00:11:08,780 --> 00:11:16,520
+Doyle immediately closed the entrance to the construction site at the Barnsdahl shaft, which was 400 feet down the road from the water-filled sinkhole.
+
+153
+00:11:19,140 --> 00:11:23,400
+He then climbed down the shaft to make sure all the workers got out of the tunnel safely.
+
+154
+00:11:23,401 --> 00:11:26,420
+They said, this thing's going to flush like a toilet.
+
+155
+00:11:27,100 --> 00:11:28,140
+We've got to get out of here.
+
+156
+00:11:29,520 --> 00:11:32,940
+Ten minutes later, the water flooded the tunnel below,
+
+157
+00:11:33,120 --> 00:11:35,880
+rushed down the hole, and then shot out into the shaft.
+
+158
+00:11:36,200 --> 00:11:38,980
+We were immediately up to water to our thighs.
+
+159
+00:11:39,600 --> 00:11:42,480
+We could see these timbers and even steel shooting out of there.
+
+160
+00:11:43,380 --> 00:11:44,860
+It just looked like Armageddon.
+
+161
+00:11:46,080 --> 00:11:48,820
+It was very, very fortunate that no one got killed.
+
+162
+00:11:48,821 --> 00:11:54,260
+To prevent further cave-ins from devouring the rest of Hollywood Boulevard,
+
+163
+00:11:55,040 --> 00:11:57,480
+SKK needed to plug up the hole fast.
+
+164
+00:11:58,080 --> 00:12:01,420
+They filled the hole with lean mix, as I called it.
+
+165
+00:12:01,880 --> 00:12:06,920
+Lean mix is sand and gravel, but mixed with very little cement,
+
+166
+00:12:07,220 --> 00:12:09,320
+just enough to give it some strength.
+
+167
+00:12:10,040 --> 00:12:12,580
+It was filled up all the way to the street surface.
+
+168
+00:12:14,460 --> 00:12:16,380
+When the hole was finally stabilized,
+
+169
+00:12:16,381 --> 00:12:19,720
+the city of Los Angeles repaved Hollywood Boulevard.
+
+170
+00:12:21,160 --> 00:12:25,740
+But it would take a year before engineers figured out how to deal with the disaster below.
+
+171
+00:12:29,560 --> 00:12:33,700
+The initial tunneling of the three-mile Hollywood Boulevard leg had gone smoothly.
+
+172
+00:12:35,140 --> 00:12:37,200
+To build the foundation for each tunnel,
+
+173
+00:12:37,940 --> 00:12:42,120
+workers erected a temporary support structure out of consecutive concrete rings
+
+174
+00:12:42,121 --> 00:12:44,280
+that would hold up the tunnel walls.
+
+175
+00:12:44,281 --> 00:12:49,080
+These critical rings would become the primary lining of the tunnels
+
+176
+00:12:49,081 --> 00:12:53,760
+It would take about 8,000 of the 4 foot wide rings
+
+177
+00:12:53,761 --> 00:12:56,440
+To hold up the 3 mile stretch of the twin tunnels
+
+178
+00:12:56,441 --> 00:12:57,740
+In the Hollywood Red Line
+
+179
+00:12:57,741 --> 00:13:01,980
+The rings were constructed in the tail of the tunneling machine
+
+180
+00:13:01,981 --> 00:13:03,780
+As it plowed through the ground
+
+181
+00:13:03,781 --> 00:13:06,760
+After the ring has been erected
+
+182
+00:13:06,761 --> 00:13:10,860
+They put in hydraulic expansion device inside the ring
+
+183
+00:13:10,861 --> 00:13:13,000
+And expand the ring outwards
+
+184
+00:13:13,001 --> 00:13:18,280
+so that it gets into contact very tightly, pressing against the earth.
+
+185
+00:13:18,740 --> 00:13:21,180
+After that, contact has been achieved.
+
+186
+00:13:21,940 --> 00:13:25,500
+The shape of the ring, which is now expanded, is being locked in place
+
+187
+00:13:25,501 --> 00:13:29,720
+by putting hardwood wedges in the expanded joints.
+
+188
+00:13:30,140 --> 00:13:33,880
+And the ring is just locked in place, pressing against the earth and supporting the earth.
+
+189
+00:13:36,000 --> 00:13:40,620
+The stability of the primary liners was essential to the structural integrity of the tunnels.
+
+190
+00:13:43,000 --> 00:13:50,000
+Each closed ring had the capacity to hold up 200 tons of earth above a tunnel.
+
+191
+00:13:50,001 --> 00:13:55,000
+The circle supports itself because it's being subjected to compression.
+
+192
+00:13:55,001 --> 00:14:01,000
+It's sort of like an eggshell when it's complete and you press from the outside with uniform pressure around.
+
+193
+00:14:01,001 --> 00:14:08,000
+An eggshell, even though it's very thin, it is very strong in compression.
+
+194
+00:14:08,001 --> 00:14:13,720
+After two years of digging under Hollywood Boulevard, the initial support structure was finally complete.
+
+195
+00:14:14,620 --> 00:14:19,280
+And construction workers were ready to build the second inner liner inside the primary lining.
+
+196
+00:14:20,440 --> 00:14:21,920
+Except for one problem.
+
+197
+00:14:23,400 --> 00:14:29,320
+The south tunnel had drifted eight inches out of alignment as the huge tunneling machine dug through the ground.
+
+198
+00:14:29,800 --> 00:14:39,220
+The alignment of the tunnel is all designed for a certain radius of the rail and speed of the rail for the metro rail cars.
+
+199
+00:14:39,680 --> 00:14:46,140
+And if the rail comes too close to the tunnel wall, then the car would come too close to the wall during operation.
+
+200
+00:14:48,080 --> 00:14:54,220
+The contractor decided to fix the problem by moving the tunnel wall out eight inches away from the tracks.
+
+201
+00:14:54,900 --> 00:14:58,740
+Twenty essential four-foot support rings had to be partially dismantled.
+
+202
+00:14:59,320 --> 00:15:02,780
+workers removed the upper right corner of each ring
+
+203
+00:15:02,781 --> 00:15:06,820
+then they dug out the dirt needed to widen the top of the passageway
+
+204
+00:15:06,821 --> 00:15:11,000
+they replaced the upper corners with expanded steel segments
+
+205
+00:15:11,001 --> 00:15:14,760
+creating an arch that extended beyond the bottom half of the rings
+
+206
+00:15:14,761 --> 00:15:18,540
+the process was supposed to be repeated at the bottom of each ring
+
+207
+00:15:18,541 --> 00:15:21,380
+so that they could reconnect the tops to the bottoms
+
+208
+00:15:21,381 --> 00:15:25,260
+overlooking the fact that the soil was weak in this area
+
+209
+00:15:25,261 --> 00:15:29,220
+and could not support itself the plan to replace the tops of all of the rings
+
+210
+00:15:29,221 --> 00:15:35,940
+first turned out to be a colossal blunder. The disconnected rings could not hold up
+
+211
+00:15:35,941 --> 00:15:40,740
+the 4,000 tons of soil that comprised the 80 feet of earth above them.
+
+212
+00:15:40,741 --> 00:15:46,580
+The underlying problem was that by removing all the rings at the top first,
+
+213
+00:15:46,581 --> 00:15:51,940
+they essentially took away the closed ring carrying capacity of the liner.
+
+214
+00:15:51,941 --> 00:15:56,900
+There's nothing supporting the ring itself.
+
+215
+00:15:56,901 --> 00:16:01,900
+After the accident, a new contractor was hired to finish the job.
+
+216
+00:16:01,901 --> 00:16:08,900
+A decision was made to build a rectangular repair shaft around the site of the collapse.
+
+217
+00:16:08,901 --> 00:16:15,900
+The walls of the shaft were formed by pounding steel casings into the ground and then filling them with concrete.
+
+218
+00:16:15,901 --> 00:16:21,900
+The shaft stabilized the site, making it now possible to dig down from street level,
+
+219
+00:16:21,901 --> 00:16:25,040
+excavating the lean mix and debris
+
+220
+00:16:25,041 --> 00:16:30,040
+and clearing out the site without risking another cave in.
+
+221
+00:16:30,041 --> 00:16:32,960
+Once all of the old debris was cleared from the inside of the shaft,
+
+222
+00:16:32,961 --> 00:16:38,420
+the workers could rebuild the damaged tunnel.
+
+223
+00:16:38,421 --> 00:16:41,960
+Instead of spending extra time and money to restore the concrete rings,
+
+224
+00:16:41,961 --> 00:16:47,040
+they converted the shaft
+
+225
+00:16:47,041 --> 00:16:50,300
+into a small reinforced rectangular station box,
+
+226
+00:16:50,301 --> 00:16:52,360
+similar to a subway station.
+
+227
+00:16:53,740 --> 00:16:57,160
+The new box section had tunnel openings on both ends
+
+228
+00:16:57,161 --> 00:16:58,660
+to allow entry for the trains.
+
+229
+00:17:00,580 --> 00:17:03,580
+They just lay the rail across that box
+
+230
+00:17:03,581 --> 00:17:06,000
+and traverse the box.
+
+231
+00:17:06,540 --> 00:17:08,780
+Just like when the subway enters the station,
+
+232
+00:17:09,500 --> 00:17:12,480
+it comes out of a tube and into a box.
+
+233
+00:17:14,780 --> 00:17:16,920
+Hollywood Boulevard's three-mile section
+
+234
+00:17:16,921 --> 00:17:18,960
+of the 17-mile metro red line
+
+235
+00:17:18,961 --> 00:17:21,540
+finally went into service in 1999.
+
+236
+00:17:23,120 --> 00:17:26,160
+Approximately 106,500 people
+
+237
+00:17:26,161 --> 00:17:29,300
+ride the 17 miles of the Red Line every day.
+
+238
+00:17:31,300 --> 00:17:33,900
+But the Great Hollywood Boulevard tunnel collapse
+
+239
+00:17:33,901 --> 00:17:35,920
+so traumatized some local politicians
+
+240
+00:17:35,921 --> 00:17:39,640
+that plans for additional subway lines came to a halt.
+
+241
+00:17:41,000 --> 00:17:44,080
+Meanwhile, car pollution and traffic nightmares
+
+242
+00:17:44,081 --> 00:17:46,440
+continue to plague the City of Angels.
+
+243
+00:17:46,441 --> 00:17:54,600
+The two tunneling machines with backup gear that dug out the Metro Red Line were each approximately 100 yards in length.
+
+244
+00:17:55,580 --> 00:17:58,440
+Engineering Disasters will return on Modern Marvels.
+
+245
+00:18:05,300 --> 00:18:11,120
+Disaster lurks in the most unexpected places and often strikes when all is calm and peaceful.
+
+246
+00:18:11,121 --> 00:18:20,960
+It was a quiet evening on December 17, 1976, at the Port of Los Angeles in San Pedro, California.
+
+247
+00:18:25,280 --> 00:18:31,360
+A Liberian oil tanker, the Sansanina, was moored here at birth number 46,
+
+248
+00:18:32,100 --> 00:18:36,120
+after unloading a cargo of 212,000 barrels of Indonesian crude.
+
+249
+00:18:36,121 --> 00:18:45,060
+During the last remaining hours of daylight, her Italian crew refueled the ship and filled its empty cargo tanks with seawater.
+
+250
+00:18:46,040 --> 00:18:52,340
+This is a routine practice called ballasting that would keep the tanker riding low in the water on her voyage back at sea.
+
+251
+00:18:53,360 --> 00:18:57,500
+What happened next would remain forever in the memory of those who were there.
+
+252
+00:18:57,501 --> 00:19:02,400
+I was located at my station, at Fire Station 112 on Terminal Island.
+
+253
+00:19:02,940 --> 00:19:08,440
+About 7.35, somewhere along there in the evening, as I looked out that window,
+
+254
+00:19:09,040 --> 00:19:12,460
+a tremendous pressure wave hit us.
+
+255
+00:19:13,440 --> 00:19:15,260
+To tell you the truth, I thought somebody dropped a bomb.
+
+256
+00:19:16,140 --> 00:19:19,160
+It sounded just like I looked out the window and a big mushroom went up in the air.
+
+257
+00:19:19,820 --> 00:19:24,500
+And I grabbed the fire phone, but it was dead. Everything had been cut off.
+
+258
+00:19:27,500 --> 00:19:29,640
+We call this a self-announcing alarm.
+
+259
+00:19:30,840 --> 00:19:32,240
+Everybody ran for the boat.
+
+260
+00:19:32,780 --> 00:19:37,880
+We weren't going to wait around to hear any kind of a signal come from the signal office.
+
+261
+00:19:38,540 --> 00:19:41,740
+The force of the blast could be felt 40 miles away.
+
+262
+00:19:42,660 --> 00:19:45,820
+In response, some 200 firefighters raced to the pier.
+
+263
+00:19:46,520 --> 00:19:52,420
+The first thing we saw when we arrived on the scene was a large mass of fire involving the wharf
+
+264
+00:19:52,421 --> 00:19:56,220
+to such an extent that you couldn't identify what actually was out there.
+
+265
+00:19:56,221 --> 00:20:01,080
+It appeared to me that there was a large building there on the wharf that was on fire,
+
+266
+00:20:01,220 --> 00:20:04,620
+and yet I knew that there was no building there of that size.
+
+267
+00:20:05,420 --> 00:20:10,700
+The building Dahlquist saw was a chunk of the 70,000-ton San Sanina.
+
+268
+00:20:12,000 --> 00:20:16,320
+Part of its midsection had blown out of the water and landed in the parking lot.
+
+269
+00:20:17,080 --> 00:20:20,000
+The rest lay submerged at the bottom of the harbor.
+
+270
+00:20:20,660 --> 00:20:22,480
+There was fire on top of the water.
+
+271
+00:20:22,640 --> 00:20:24,020
+There was fire on the wharf.
+
+272
+00:20:24,021 --> 00:20:28,920
+It was fire on the land where we had this coke and other materials stored.
+
+273
+00:20:29,220 --> 00:20:34,280
+We simply worked all of those areas with our monitors until we were able to extinguish the fire.
+
+274
+00:20:35,360 --> 00:20:38,980
+Remarkably, most of the 30 men aboard the Sansonina survived.
+
+275
+00:20:40,780 --> 00:20:43,360
+Thanks to the efforts of firemen like Walter Ball,
+
+276
+00:20:44,000 --> 00:20:48,320
+who maneuvered his fireboat through the flaming debris to get the Sansonina crew off the ship.
+
+277
+00:20:49,560 --> 00:20:52,940
+About the first five, all of them they wanted to do was go, go, let's get out of here.
+
+278
+00:20:52,941 --> 00:20:55,300
+they thought it was going to explode again.
+
+279
+00:20:55,301 --> 00:20:57,440
+It was making all kinds of noises in the ship.
+
+280
+00:21:00,820 --> 00:21:03,940
+At risk to his own life, Ball stayed put
+
+281
+00:21:03,941 --> 00:21:07,180
+as the last of 18 men clambered down from the ship's stern.
+
+282
+00:21:08,520 --> 00:21:10,660
+Well, I had to get them forward or we're going to sink.
+
+283
+00:21:11,240 --> 00:21:13,860
+And so I got up in the flying bridge and away we went.
+
+284
+00:21:14,680 --> 00:21:17,720
+In the end, more than 50 people were injured
+
+285
+00:21:17,721 --> 00:21:19,420
+and nine people were dead,
+
+286
+00:21:20,160 --> 00:21:22,500
+including three men whose bodies were never found.
+
+287
+00:21:22,940 --> 00:21:28,600
+The cause of the blast that claimed their lives and wrought so much destruction was a mystery.
+
+288
+00:21:29,560 --> 00:21:36,460
+Accidents are generally caused by a series of small items which fall into alignment,
+
+289
+00:21:37,040 --> 00:21:40,260
+and it appeared that's what happened on the Sansonina that day.
+
+290
+00:21:41,180 --> 00:21:46,580
+The Coast Guard immediately launched an investigation into what caused the 18-year-old ship to explode.
+
+291
+00:21:47,720 --> 00:21:51,480
+They focused on what the Sansonina crew was doing prior to the blast.
+
+292
+00:21:52,460 --> 00:21:53,160
+Ballasting.
+
+293
+00:21:53,600 --> 00:21:56,060
+Well, in a tank, if you start to fill the water,
+
+294
+00:21:56,140 --> 00:21:57,600
+of course the water goes to the bottom of the tank,
+
+295
+00:21:57,940 --> 00:22:00,720
+and what it does is it forces the fumes out the top of the tank.
+
+296
+00:22:01,220 --> 00:22:05,480
+Most hydrocarbon fumes, like gasoline fumes, are heavier than air.
+
+297
+00:22:05,481 --> 00:22:07,300
+So what that means is when they get up,
+
+298
+00:22:07,660 --> 00:22:10,300
+they don't readily dissipate up into the air.
+
+299
+00:22:10,540 --> 00:22:14,600
+It sits there until it's driven off by the wind or something of that nature.
+
+300
+00:22:15,480 --> 00:22:18,780
+In most circumstances, the fumes would have been carried off by the wind.
+
+301
+00:22:18,781 --> 00:22:22,680
+But on the day of the explosion, there was no wind,
+
+302
+00:22:23,200 --> 00:22:25,580
+and the highly flammable vapor cloud was trapped
+
+303
+00:22:25,581 --> 00:22:28,640
+between the midship deckhouse and the aft castle.
+
+304
+00:22:29,700 --> 00:22:33,060
+Well, if you have a huge volume of hydrocarbon mixed with air,
+
+305
+00:22:33,500 --> 00:22:38,840
+and you ignite this, what you have created in reality
+
+306
+00:22:38,841 --> 00:22:41,280
+is what we call now a fuel-air bomb.
+
+307
+00:22:41,880 --> 00:22:46,260
+And the effect, of course, can be devastating.
+
+308
+00:22:46,261 --> 00:22:51,300
+What caused the vapor cloud to ignite will perhaps never be known.
+
+309
+00:22:52,360 --> 00:22:54,580
+There were too many potential sources.
+
+310
+00:22:55,340 --> 00:23:00,360
+Once you have hydrocarbon gas in the right ratio of fuel and air to be ignited,
+
+311
+00:23:00,860 --> 00:23:04,020
+it will find an ignition source sooner or later.
+
+312
+00:23:04,540 --> 00:23:07,180
+Trust me, on an industrial system, there'll be an electric spark,
+
+313
+00:23:07,720 --> 00:23:09,140
+there'll be something being hot,
+
+314
+00:23:09,620 --> 00:23:12,380
+and it doesn't take much energy to kick this off.
+
+315
+00:23:12,381 --> 00:23:16,520
+It isn't just what collects on deck.
+
+316
+00:23:16,640 --> 00:23:19,040
+That's what causes and finds a source of ignition.
+
+317
+00:23:19,620 --> 00:23:24,220
+There were conduction paths of air-fuel mixtures down into the tanks.
+
+318
+00:23:25,680 --> 00:23:29,380
+The San Sanina had safety and ventilation systems in place
+
+319
+00:23:29,381 --> 00:23:31,880
+to prevent a fire from ever reaching its cargo tanks.
+
+320
+00:23:32,380 --> 00:23:37,880
+The chief mate was supposed to have some flame screens in place
+
+321
+00:23:37,881 --> 00:23:42,520
+over openings which were venting out onto the deck.
+
+322
+00:23:43,080 --> 00:23:46,920
+The flame screens are intended to prevent any flame
+
+323
+00:23:46,921 --> 00:23:49,760
+from going into the cargo tanks on the ship.
+
+324
+00:23:50,500 --> 00:23:52,500
+That was an industry practice at the time
+
+325
+00:23:52,501 --> 00:23:54,540
+and appears they were not in place.
+
+326
+00:23:55,200 --> 00:23:57,560
+It also appears from the Coast Guard reports
+
+327
+00:23:57,561 --> 00:24:00,040
+that some of the gas lines which were intended
+
+328
+00:24:00,041 --> 00:24:04,980
+to carry gas vapors away to safer areas may have been rusted.
+
+329
+00:24:04,981 --> 00:24:08,920
+had the vents not been so rusted.
+
+330
+00:24:09,920 --> 00:24:11,420
+They might have had a flash fire on deck,
+
+331
+00:24:11,500 --> 00:24:13,820
+but they may not have had the big explosion of the ship.
+
+332
+00:24:14,340 --> 00:24:18,300
+But all these things came together that day wrong,
+
+333
+00:24:19,100 --> 00:24:20,200
+so a number of people died.
+
+334
+00:24:21,980 --> 00:24:25,680
+In 1977, almost a year after the accident,
+
+335
+00:24:26,180 --> 00:24:29,860
+the Coast Guard completed their investigation and issued a report.
+
+336
+00:24:30,840 --> 00:24:34,380
+Their analysis of what happened had far-reaching effects in the maritime industry.
+
+337
+00:24:34,980 --> 00:24:41,540
+Today, there are significant safety features on tankers to prevent what happened to the
+
+338
+00:24:41,541 --> 00:24:44,300
+Sansanina.
+
+339
+00:24:44,301 --> 00:24:47,020
+Foremost are inert gas systems.
+
+340
+00:24:47,021 --> 00:24:54,220
+The theory is that by having no oxygen inside the cargo tank, it will not support combustion.
+
+341
+00:24:54,221 --> 00:25:01,060
+If there is insufficient oxygen, there is no possibility of an explosion or fire.
+
+342
+00:25:01,061 --> 00:25:07,060
+A typical inert gas system involves taking gases from the ship's boilers and feeding them into the cargo tanks.
+
+343
+00:25:07,860 --> 00:25:09,480
+This drives out all the oxygen.
+
+344
+00:25:10,940 --> 00:25:16,440
+Without oxygen, vapors left in the tank are inert and therefore not combustible.
+
+345
+00:25:18,340 --> 00:25:24,960
+Even though inert gas systems were in use in the 1970s, there were no requirements that the Sansonina have one.
+
+346
+00:25:26,340 --> 00:25:29,480
+Today, no supertanker operates without one.
+
+347
+00:25:31,060 --> 00:25:33,740
+In addition, venting systems are more sophisticated,
+
+348
+00:25:34,540 --> 00:25:37,780
+so that hydrocarbon vapors are expelled high above the ship
+
+349
+00:25:37,781 --> 00:25:39,800
+and unlikely to pool on deck.
+
+350
+00:25:42,300 --> 00:25:43,600
+Ballasting is still routine,
+
+351
+00:25:44,100 --> 00:25:46,840
+but modern tankers no longer mix oil and water.
+
+352
+00:25:47,980 --> 00:25:50,020
+Ballast tanks are separate from cargo tanks.
+
+353
+00:25:50,620 --> 00:25:52,660
+If you look at the major disasters in history,
+
+354
+00:25:52,661 --> 00:25:56,080
+you see in retrospect a sequence of mistakes,
+
+355
+00:25:56,081 --> 00:26:01,220
+each one of which at the time appeared to be innocent and inconsequential
+
+356
+00:26:01,221 --> 00:26:07,660
+which all combined in a very unfortunate way at the time of the disaster to create a disaster.
+
+357
+00:26:08,240 --> 00:26:13,320
+It took an 18-year-old ship called the Sansonina and a horrific accident
+
+358
+00:26:13,321 --> 00:26:19,760
+to expose dangers that stalked oil tankers at sea and at rest in quiet harbors.
+
+359
+00:26:19,761 --> 00:26:27,420
+The 1989 Exxon Valdez spill of 37,000 metric tons of oil is not the largest on record.
+
+360
+00:26:27,940 --> 00:26:32,880
+The Atlantic Empress spilled 287,000 metric tons of oil in 1979.
+
+361
+00:26:33,880 --> 00:26:36,400
+Engineering disasters will return on Modern Marvels.
+
+362
+00:26:36,401 --> 00:26:44,700
+nearly a hundred years ago
+
+363
+00:26:44,701 --> 00:26:47,700
+this quiet Boston neighborhood called the North End
+
+364
+00:26:47,701 --> 00:26:51,180
+was the scene of one of the most bizarre engineering disasters
+
+365
+00:26:51,181 --> 00:26:52,580
+in U.S. history
+
+366
+00:26:52,581 --> 00:26:55,960
+a colossal storage tank stood here
+
+367
+00:26:55,961 --> 00:26:58,680
+in what was once a busy commercial and residential area
+
+368
+00:26:58,681 --> 00:27:02,320
+it was five stories tall
+
+369
+00:27:02,321 --> 00:27:04,840
+242 feet in circumference
+
+370
+00:27:04,841 --> 00:27:06,440
+and 90 feet wide.
+
+371
+00:27:07,360 --> 00:27:11,240
+The tank contained 2.3 million gallons of molasses.
+
+372
+00:27:13,360 --> 00:27:16,040
+Without warning, on January 15, 1919,
+
+373
+00:27:16,560 --> 00:27:18,420
+the storage tank ruptured,
+
+374
+00:27:19,000 --> 00:27:21,740
+spewing a thick, dark wave of destruction.
+
+375
+00:27:24,780 --> 00:27:29,620
+26 million pounds of molasses spilled out at 35 miles per hour.
+
+376
+00:27:30,680 --> 00:27:33,300
+It wasn't just the molasses that wreaked havoc.
+
+377
+00:27:34,300 --> 00:27:37,440
+Rivets and fragments from the tank shot out like shrapnel.
+
+378
+00:27:38,380 --> 00:27:42,020
+One piece crashed into an overhead train trestle, causing it to buckle.
+
+379
+00:27:43,100 --> 00:27:49,320
+The flood claimed 21 lives, injured 150, and caused more than a million dollars in damage.
+
+380
+00:27:50,060 --> 00:27:52,280
+It took months to clean up the sticky mess.
+
+381
+00:27:53,240 --> 00:27:59,460
+The wave smashed into a nearby firehouse and caused the second floor to pancake down onto the first
+
+382
+00:27:59,461 --> 00:28:02,960
+and trapped the firefighters in an 18-inch crawl space.
+
+383
+00:28:03,300 --> 00:28:06,420
+It ended up killing one of the firefighters, George Leahy,
+
+384
+00:28:06,700 --> 00:28:11,680
+who stays alive for between two and three hours by keeping his head above the molasses
+
+385
+00:28:11,681 --> 00:28:15,220
+until he no longer can do so and he succumbs and he drowns.
+
+386
+00:28:16,540 --> 00:28:19,320
+At the time, no one was sure what caused the eruption.
+
+387
+00:28:21,440 --> 00:28:29,040
+Four years earlier, in 1915, a company called United States Industrial Alcohol, or USIA, had built the tank.
+
+388
+00:28:29,740 --> 00:28:32,640
+Molasses was a key ingredient in the company's namesake product.
+
+389
+00:28:33,300 --> 00:28:38,940
+Molasses is this black, sticky stuff that's left over when you process sugar cane.
+
+390
+00:28:39,460 --> 00:28:43,680
+You make alcohol from molasses, you dilute it with water, you add yeast,
+
+391
+00:28:44,160 --> 00:28:46,120
+you run it through a still, and you've got rum.
+
+392
+00:28:46,720 --> 00:28:51,360
+Industrial alcohol is the same as rum, but it's distilled to a very high proof
+
+393
+00:28:51,361 --> 00:28:54,740
+and as light and flavorless as they can make it.
+
+394
+00:28:55,720 --> 00:29:00,340
+Industrial alcohol is a solvent or a liquid compound that dissolves other materials.
+
+395
+00:29:01,340 --> 00:29:05,100
+It's also a key ingredient in the manufacture of munitions.
+
+396
+00:29:08,640 --> 00:29:13,360
+World War I was heating up in Europe, and demand for the product was on the rise.
+
+397
+00:29:14,060 --> 00:29:18,740
+Industrial alcohol would have been used to make explosives for firing shells
+
+398
+00:29:18,741 --> 00:29:20,780
+and for having them blow up on the other end.
+
+399
+00:29:21,080 --> 00:29:23,320
+There were all kinds of military uses for it.
+
+400
+00:29:24,720 --> 00:29:29,240
+Company treasurer Arthur P. Gell was put in charge of a new Boston terminal
+
+401
+00:29:29,241 --> 00:29:31,900
+where molasses could be offloaded by steamers
+
+402
+00:29:31,901 --> 00:29:35,420
+and transported by rail to a company plant in East Cambridge.
+
+403
+00:29:37,300 --> 00:29:39,220
+It was up to him to build a tank
+
+404
+00:29:39,221 --> 00:29:41,980
+that could store more than 2 million gallons of molasses.
+
+405
+00:29:43,100 --> 00:29:46,200
+He had no engineering experience,
+
+406
+00:29:46,380 --> 00:29:48,600
+couldn't read plans, couldn't read blueprints,
+
+407
+00:29:49,060 --> 00:29:50,900
+had no technical experience whatsoever.
+
+408
+00:29:51,060 --> 00:29:52,640
+He was basically a finance person,
+
+409
+00:29:53,080 --> 00:29:56,160
+yet he was charged with the construction of this tank.
+
+410
+00:29:56,161 --> 00:29:59,280
+He had to get the tank built, and he had to get the tank built fast.
+
+411
+00:30:00,740 --> 00:30:05,360
+Jell hired the Hammond Ironworks Company of Boston to manufacture and assemble the tank.
+
+412
+00:30:07,260 --> 00:30:10,140
+They would build the tank using lap joint construction,
+
+413
+00:30:11,000 --> 00:30:13,800
+a method in which one steel band overlapped another.
+
+414
+00:30:16,300 --> 00:30:20,480
+A horizontal band of 18 plates formed the tank's cylindrical shape.
+
+415
+00:30:21,940 --> 00:30:25,560
+The tank's height would be achieved by overlapping seven of these rows.
+
+416
+00:30:26,160 --> 00:30:35,400
+Their specifications said they were going to furnish certain thickness steel bands for the tank,
+
+417
+00:30:35,640 --> 00:30:40,200
+larger at the bottom and then continually smaller to the top.
+
+418
+00:30:40,980 --> 00:30:44,600
+The specs were not met. It was a rush job.
+
+419
+00:30:45,560 --> 00:30:49,660
+U.S. industrial alcohol had to have the tank ready by the end of 1915.
+
+420
+00:30:50,660 --> 00:30:55,680
+A delivery of 700,000 gallons of molasses was on its way from Cuba to Boston.
+
+421
+00:30:56,160 --> 00:31:02,640
+There's no documentation that they tested the steel or that the rivets were properly installed or any of that stuff.
+
+422
+00:31:02,740 --> 00:31:11,320
+They did check the tank for leakage by running in six or eight inches of water,
+
+423
+00:31:11,700 --> 00:31:14,640
+but that was hardly a test of the tank's strength.
+
+424
+00:31:16,160 --> 00:31:21,420
+On December 29th, two days before the molasses steamer arrived, the tank was finished.
+
+425
+00:31:22,140 --> 00:31:24,220
+But from the start, there were signs of trouble.
+
+426
+00:31:24,221 --> 00:31:31,280
+It was leaking at the seams near the lower portion of the tank, which would have the extreme pressures on it.
+
+427
+00:31:32,600 --> 00:31:38,440
+Over the next three years, USIA did nothing to seriously address the problem other than to caulk the leaks.
+
+428
+00:31:39,200 --> 00:31:43,440
+By the fall of 1918, there were more pressing matters that the company faced.
+
+429
+00:31:44,820 --> 00:31:47,760
+World War I was ending, and so would their profits.
+
+430
+00:31:48,720 --> 00:31:55,520
+To tide it over, USIA decided to retool its manufacturing plants to produce alcohol for the liquor industries.
+
+431
+00:31:57,480 --> 00:31:59,618
+It would have been very easy for U.S.
+
+432
+00:31:59,619 --> 00:32:03,720
+industrial alcohol to switch production from industrial alcohol to rum.
+
+433
+00:32:04,460 --> 00:32:07,680
+They just would have had to design a bottle and put a little extra water in it.
+
+434
+00:32:08,780 --> 00:32:11,660
+But the company only had a small window of opportunity.
+
+435
+00:32:11,661 --> 00:32:16,720
+Prohibition was likely to go into effect in 1920,
+
+436
+00:32:17,100 --> 00:32:20,500
+so USIA had less than a year to get its product out the door.
+
+437
+00:32:20,860 --> 00:32:24,660
+Some states had already had prohibition for a good number of years,
+
+438
+00:32:24,661 --> 00:32:28,200
+but in general it took a while to get the enforcement up and running.
+
+439
+00:32:29,560 --> 00:32:34,980
+In November 1918, USIA ordered one last huge shipment of molasses from Cuba.
+
+440
+00:32:36,140 --> 00:32:39,140
+It arrived January 12, 1919.
+
+441
+00:32:39,141 --> 00:32:46,140
+That day, more than two million gallons of molasses were transferred from ship to tank.
+
+442
+00:32:46,141 --> 00:32:53,140
+Three days later, the pressure inside the tank proved to be too much.
+
+443
+00:32:57,140 --> 00:33:04,140
+The molasses flood sparked one of the first class action lawsuits in the country.
+
+444
+00:33:04,141 --> 00:33:08,620
+But USIA argued that sinister forces were responsible for the disaster.
+
+445
+00:33:10,080 --> 00:33:16,600
+The cornerstone of U.S. industrial alcohol's defense in the case
+
+446
+00:33:16,601 --> 00:33:20,840
+was that an anarchist had planted a bomb on the molasses tank site
+
+447
+00:33:20,841 --> 00:33:23,180
+and caused the tank to explode.
+
+448
+00:33:24,520 --> 00:33:26,880
+But that theory was quickly disproved.
+
+449
+00:33:27,700 --> 00:33:29,940
+Most broken windows were below the floodline.
+
+450
+00:33:29,941 --> 00:33:33,340
+In other words, there was no concussive force.
+
+451
+00:33:34,140 --> 00:33:36,660
+However, there was much evidence of shoddy construction.
+
+452
+00:33:37,620 --> 00:33:39,980
+The tank was built in a substandard way.
+
+453
+00:33:40,360 --> 00:33:43,280
+It was overseen by a person who didn't really know what he was doing.
+
+454
+00:33:43,640 --> 00:33:50,320
+The steel plates that were used to construct the tank were much thinner than originally called for by the plants.
+
+455
+00:33:50,680 --> 00:33:56,460
+Not enough rivets were used in the construction of the tank, and the tank was not tested properly.
+
+456
+00:33:56,600 --> 00:33:58,560
+In fact, it really wasn't tested at all.
+
+457
+00:33:58,561 --> 00:34:00,817
+A judge ruled against U.S.
+
+458
+00:34:00,818 --> 00:34:07,240
+industrial alcohol, and the company agreed to pay $628,000 to the victims.
+
+459
+00:34:10,940 --> 00:34:14,880
+The molasses flood is more than a strange footnote in Boston history.
+
+460
+00:34:16,560 --> 00:34:22,440
+The event had an enormous impact on the construction industry, paving the way for tougher regulations.
+
+461
+00:34:22,441 --> 00:34:29,640
+Just about all of the safety standards that we are used to today, the fact that engineers
+
+462
+00:34:29,641 --> 00:34:34,080
+need to stamp their plans and architects need to sign their work emanated from the great
+
+463
+00:34:34,081 --> 00:34:35,100
+Boston Molasses Foot.
+
+464
+00:34:35,700 --> 00:34:40,240
+If that tank were to be built again, they not only would have stamped and sealed drawings
+
+465
+00:34:40,241 --> 00:34:45,840
+and calculations, they'd also have a follow-up construction observation program that show
+
+466
+00:34:45,841 --> 00:34:50,520
+that they were furnishing what they said they were and that they were installing the rivets
+
+467
+00:34:50,521 --> 00:34:51,221
+properly.
+
+468
+00:34:52,440 --> 00:34:56,900
+Testing today is also a crucial and standard part of the engineering process.
+
+469
+00:34:57,860 --> 00:35:03,640
+And we owe it all to a strange and deadly disaster involving molasses.
+
+470
+00:35:06,700 --> 00:35:09,240
+Molasses was once America's top sweetener.
+
+471
+00:35:09,860 --> 00:35:14,680
+It was only after World War I, when sugar prices dropped, that sugar moved to number one.
+
+472
+00:35:15,880 --> 00:35:19,100
+Engineering Disasters will return on Modern Marvels.
+
+473
+00:35:22,440 --> 00:35:33,800
+In 1977, the Indiana Department of Transportation broke ground on State Road 912, a 15-mile
+
+474
+00:35:33,801 --> 00:35:39,540
+stretch of highway built to attach the Chicago Skyway to Interstate 80, one of America's
+
+475
+00:35:39,541 --> 00:35:40,660
+coast-to-coast highways.
+
+476
+00:35:41,600 --> 00:35:45,220
+Indiana DOT built this road as a six-lane highway.
+
+477
+00:35:46,380 --> 00:35:52,280
+It serves as the front door to a major industrial area for steel mills, oil refineries, heavy
+
+478
+00:35:52,281 --> 00:35:53,787
+industry of all kinds.
+
+479
+00:35:53,788 --> 00:35:58,580
+At the time, this project was the largest construction project Indiana
+
+480
+00:35:58,581 --> 00:35:59,847
+DOT had ever built.
+
+481
+00:35:59,848 --> 00:36:04,380
+The plans for the new highway included the construction of the Kline
+
+482
+00:36:04,381 --> 00:36:12,800
+Avenue Bridge, a 6,260-foot-long, 130-foot-high concrete box girder bridge, to cross over
+
+483
+00:36:12,801 --> 00:36:15,814
+one of Lake Michigan's major shipping canals.
+
+484
+00:36:15,815 --> 00:36:18,560
+The addition of the new bridge would ease
+
+485
+00:36:18,561 --> 00:36:22,000
+traffic congestion on the local lift bridge.
+
+486
+00:36:22,001 --> 00:36:26,240
+A lift bridge was the only way across the canal right in the heart of this industrial
+
+487
+00:36:26,241 --> 00:36:29,240
+area.
+
+488
+00:36:29,241 --> 00:36:37,200
+When a ship came in and the lift bridge lifted, all traffic was stopped until the ship cleared.
+
+489
+00:36:37,201 --> 00:36:42,440
+One of the purposes of this new bridge was to go over the top of this canal to provide
+
+490
+00:36:42,441 --> 00:36:45,880
+access from clearance for the boats underneath and not to stop traffic.
+
+491
+00:36:48,560 --> 00:36:50,800
+Construction of the bridge began in 1980.
+
+492
+00:36:52,060 --> 00:36:58,560
+By 1982, one-third of the bridge's sections were in place, and production was on schedule.
+
+493
+00:36:59,820 --> 00:37:10,940
+But on April 15, 1982, as construction workers poured concrete into the roadbed for a 180-foot span of the bridge's on-ramp, disaster struck.
+
+494
+00:37:12,940 --> 00:37:15,780
+The ramp buckled and suddenly collapsed.
+
+495
+00:37:18,560 --> 00:37:32,560
+A few minutes later, another 180-foot section gave way and crumbled to the ground, flipping over a third section, which dangled precariously in the air by frayed
+
+496
+00:37:32,628 --> 00:37:33,328
+cables.
+
+497
+00:37:33,960 --> 00:37:40,220
+It was just as if a bomb had landed and just everything was exploded and everything was utter chaos.
+
+498
+00:37:40,440 --> 00:37:42,680
+And all you could hear was people screaming.
+
+499
+00:37:42,681 --> 00:37:51,520
+I was in a state of shock when I arrived at the job and saw the damage and the mass confusion
+
+500
+00:37:51,521 --> 00:37:55,920
+and the debris of concrete and steel twisted on the ground.
+
+501
+00:37:56,580 --> 00:38:02,940
+There were people covered with fresh concrete because they were pouring hundreds of cubic yards of concrete
+
+502
+00:38:02,941 --> 00:38:09,600
+70 feet in the air and it fell along with the bridge and trapped people in the concrete during the collapse.
+
+503
+00:38:12,680 --> 00:38:16,340
+Twelve people were killed, and 18 were seriously injured.
+
+504
+00:38:17,340 --> 00:38:20,400
+It was the worst construction disaster in Indiana's history.
+
+505
+00:38:27,660 --> 00:38:31,860
+As structural engineers from the National Institute of Standards and Technology
+
+506
+00:38:31,861 --> 00:38:36,340
+searched for clues, they began to trace the origins of the collapse
+
+507
+00:38:36,341 --> 00:38:39,300
+all the way to the selection of the construction method.
+
+508
+00:38:39,301 --> 00:38:47,540
+This project was somewhat unique in that the contractor was allowed to select what kind of bridge he built.
+
+509
+00:38:48,680 --> 00:38:55,860
+The contractor, Superior Construction, chose to employ the cast-in-place post-tensioned box girder technique.
+
+510
+00:38:56,600 --> 00:39:01,480
+It's cast at the final position rather than pre-cast,
+
+511
+00:39:01,481 --> 00:39:09,160
+which is a system in which you cast the members in a factory and then ship them to the site and put them in place.
+
+512
+00:39:09,300 --> 00:39:16,620
+It's a very strong, very light form of construction that has been pioneered, I would say, over the last 30 years.
+
+513
+00:39:16,960 --> 00:39:21,460
+It started in this country with the Walnut Lane Bridge in Philadelphia in 1951.
+
+514
+00:39:22,220 --> 00:39:26,400
+And since that time, that type of construction has really taken off.
+
+515
+00:39:27,100 --> 00:39:35,680
+Since cast-in-place bridges are hollow in the middle, they require a minimum amount of concrete to get a maximum amount of strength.
+
+516
+00:39:35,681 --> 00:39:39,680
+That makes them extremely cost effective.
+
+517
+00:39:40,880 --> 00:39:43,440
+During construction of the Klein Avenue Bridge,
+
+518
+00:39:44,300 --> 00:39:48,340
+permanent pillars and temporary towers supported elevated roadbed forms,
+
+519
+00:39:48,840 --> 00:39:51,000
+while workers poured the concrete into place.
+
+520
+00:39:51,880 --> 00:39:54,460
+The towers were made of steel.
+
+521
+00:39:54,461 --> 00:39:56,980
+They come in prefabricated units,
+
+522
+00:39:57,240 --> 00:40:00,260
+and the contractor simply puts these units together,
+
+523
+00:40:00,440 --> 00:40:04,140
+sort of a Lego fashion to build different heights.
+
+524
+00:40:05,680 --> 00:40:10,260
+These steel towers sat on concrete pads that were built to stabilize the legs.
+
+525
+00:40:10,800 --> 00:40:14,820
+The temporary support system is a vital part of the structure.
+
+526
+00:40:14,821 --> 00:40:22,160
+Until the superstructure is completed, the temporary support system provides the basic support of the ramp,
+
+527
+00:40:22,340 --> 00:40:28,720
+and it was what was holding the ramp up at the time of the collapse, so it had to be the source of the collapse.
+
+528
+00:40:29,560 --> 00:40:33,420
+There was no requirement for the strength of the concrete in the pads,
+
+529
+00:40:33,580 --> 00:40:36,580
+which is a real surprise to us.
+
+530
+00:40:36,581 --> 00:40:41,080
+The pads were sort of cast as an afterthought.
+
+531
+00:40:41,580 --> 00:40:45,580
+That is, if there was any concrete left over from casting the structure above,
+
+532
+00:40:46,120 --> 00:40:52,060
+that concrete was used in the pads of the succeeding parts of the structure.
+
+533
+00:40:53,280 --> 00:40:56,760
+When the structural engineers finally removed all of the debris
+
+534
+00:40:56,761 --> 00:40:59,300
+that had buried the critical concrete support pads.
+
+535
+00:40:59,820 --> 00:41:02,720
+They discovered the pads had cracks.
+
+536
+00:41:03,260 --> 00:41:05,360
+We did not believe that those cracks
+
+537
+00:41:05,361 --> 00:41:08,300
+were a result of impact during collapse
+
+538
+00:41:08,301 --> 00:41:12,420
+because the debris resting on top of the slabs
+
+539
+00:41:12,421 --> 00:41:15,220
+had no indication of a direct impact.
+
+540
+00:41:15,660 --> 00:41:18,560
+So we concluded from that that the cracks
+
+541
+00:41:18,561 --> 00:41:21,140
+that we observed in those critical pads
+
+542
+00:41:21,141 --> 00:41:25,340
+were a result of their being overloaded during construction.
+
+543
+00:41:26,760 --> 00:41:32,400
+To prove the theory, the engineers took core samples of the concrete pads to a lab to be tested.
+
+544
+00:41:33,160 --> 00:41:40,900
+As a designer, you'd like to have the strength of a structural element be roughly two times the load that will be on it.
+
+545
+00:41:41,900 --> 00:41:49,820
+We put the core in a giant press and we apply a compression load on it until it can't support that load anymore.
+
+546
+00:41:49,821 --> 00:41:55,940
+From that compressive strength, we can estimate what the flexural strength of the concrete is,
+
+547
+00:41:56,040 --> 00:42:00,820
+which is the way the slabs supporting the shoring towers would fail.
+
+548
+00:42:01,020 --> 00:42:08,140
+And we use that estimate to calculate the capacity of the entire slab to resist the vertical load.
+
+549
+00:42:09,580 --> 00:42:14,060
+Tests verified that the concrete pads were only half as strong as they should have been.
+
+550
+00:42:14,960 --> 00:42:17,680
+They could not support the weight of the shoring towers.
+
+551
+00:42:19,820 --> 00:42:25,780
+The weakness of a single pad triggered a chain reaction that caused the whole system to collapse.
+
+552
+00:42:26,440 --> 00:42:33,000
+We believe that one of the concrete pads cracked, and that led to cracking of another pad.
+
+553
+00:42:33,600 --> 00:42:40,020
+Both pads were now cracked, and this caused the tops of the shoring towers to shift in one direction.
+
+554
+00:42:40,021 --> 00:42:46,720
+This puts a tremendous bending stress on the U-heads, which we know were poorly constructed.
+
+555
+00:42:46,721 --> 00:42:54,600
+That caused the U-heads to break, and as a result, the crossbeam that was supported by those U-heads falls to the ground.
+
+556
+00:42:55,080 --> 00:43:00,360
+Now we have all of the weight of the structure on one side of the shoring towers,
+
+557
+00:43:00,680 --> 00:43:05,300
+and what happened is the shoring towers buckled and the ramp collapsed.
+
+558
+00:43:07,420 --> 00:43:11,160
+Construction of the Klein Avenue Bridge resumed later in 1982.
+
+559
+00:43:11,161 --> 00:43:17,440
+The National Institute of Standards and Technology and an independent consulting firm
+
+560
+00:43:17,441 --> 00:43:21,980
+offered recommendations for the construction of the new temporary support system.
+
+561
+00:43:23,440 --> 00:43:29,220
+To ensure they met safety criteria, Superior Construction created a separate design plan
+
+562
+00:43:29,221 --> 00:43:31,020
+for the new temporary support structure.
+
+563
+00:43:32,200 --> 00:43:37,540
+Instead of using concrete pads, larger wooden timber footings were constructed to support
+
+564
+00:43:37,541 --> 00:43:38,360
+the tower legs.
+
+565
+00:43:38,361 --> 00:43:43,660
+These footings were bolted together to form a long, solid foundation.
+
+566
+00:43:44,400 --> 00:43:52,660
+I think the key lesson from this investigation is the design of a temporary support system in construction.
+
+567
+00:43:53,280 --> 00:44:01,180
+It needs to have the same detail of attention and engineering calculation as the final structure that's being built.
+
+568
+00:44:01,940 --> 00:44:06,080
+The Klein Avenue bridge was finally completed in late 1983.
+
+569
+00:44:08,360 --> 00:44:11,660
+Over 20,000 vehicles cross this bridge every day.
+
+570
+00:44:13,700 --> 00:44:18,260
+To commemorate those who died in the state's worst ever construction disaster,
+
+571
+00:44:19,200 --> 00:44:26,780
+the Indiana Department of Transportation renamed the 15-mile stretch of State Road 912 in their honor.
+

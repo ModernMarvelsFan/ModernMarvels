@@ -1,0 +1,49 @@
+# Credit Roll: More Ice (2007)
+**Canonical Episode:** [`MME00573: More Ice`](../episodes/MME00573.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 2007 A&E Television Networks`
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions, The History Channel
+* **Narrator:** Max Raphael
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Accountant** | Sheridan Liu |
+| **Additional Animation** | Victor Bornia |
+| **Animation** | FlyingBlue Studio |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow, Jeremy Segal |
+| **Associate Producer** | Gloria L. Morris |
+| **Asst Post Coordinator** | Gaylen Kobayashi |
+| **Camera** | Bryan Baird, Dave Berliner, Lon Magdich, Jared Manders, David R. Rutherford, Lars Schwetje |
+| **Clearance Coordinator** | Aaron Zober |
+| **Coordinator** | Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director of Clearance** | Katie Del Core |
+| **Director of Research** | Allison Boon |
+| **Editor** | Motoshi Wakabayashi |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Doug Farris, Matt Gettemeier, Dennis Hamlin, Kathryn Korniloff, Jo Richardson, Thomas Shafer |
+| **For** | History Television Network Productions |
+| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
+| **For The History Channel / Programming Coordinators** | Adam Rosante, Michele Wilcox |
+| **Historical Consultants** | David Dinger, Francis Halzen, Bob Morse, Tom Ratvasky |
+| **Music** | Alan Ett Music Group |
+| **Narrator** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assist** | James Orbison |
+| **Post Coordinator** | Terrence Hartwell |
+| **Post Producer** | Tim Knauff |
+| **Produced by** | Actuality Productions, Inc., Ron Nelson |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Executive** | Paul Dzilvelis |
+| **Production Manager** | Shelia Collins |
+| **Research** | Justin Chang |
+| **Sound Mixer** | Mark Jensen |
+
+---
+[← Return to Episode Dossier](../episodes/MME00573.md)

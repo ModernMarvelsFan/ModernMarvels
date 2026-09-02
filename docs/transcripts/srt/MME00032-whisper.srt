@@ -1,0 +1,2964 @@
+1
+00:00:00,001 --> 00:00:05,000
+It can connect you to anybody, anywhere,
+
+2
+00:00:05,001 --> 00:00:08,000
+through a network that spans the globe.
+
+3
+00:00:08,001 --> 00:00:10,000
+Steeped in controversy when invented,
+
+4
+00:00:10,001 --> 00:00:12,000
+it's now a lifeline.
+
+5
+00:00:12,001 --> 00:00:14,000
+And what is your emergency?
+
+6
+00:00:14,001 --> 00:00:16,000
+An entertainment hub,
+
+7
+00:00:16,001 --> 00:00:19,000
+and an unparalleled tool for human interaction.
+
+8
+00:00:19,001 --> 00:00:21,000
+Hi, Brian.
+
+9
+00:00:21,001 --> 00:00:24,000
+But privacy isn't assured.
+
+10
+00:00:24,001 --> 00:00:28,000
+Now, The Telephone on Modern Marvels.
+
+11
+00:00:30,000 --> 00:00:44,000
+Over the past 130 years, we've seen desk phones, pay phones, and mobile phones, rotary
+
+12
+00:00:48,960 --> 00:00:55,032
+phones, push-button phones, and phones with no dials or buttons at all.
+
+13
+00:00:55,033 --> 00:00:56,400
+Fat phones, thin
+
+14
+00:00:56,401 --> 00:01:02,400
+phones, and even kids' phones. But no matter the shape, size,
+
+15
+00:01:02,401 --> 00:01:06,800
+color, or configuration, every phone has to be connected to a
+
+16
+00:01:06,801 --> 00:01:11,040
+network. Today, the world's largest network
+
+17
+00:01:11,041 --> 00:01:15,560
+is operated by AT&T. The company's Global Network
+
+18
+00:01:15,561 --> 00:01:19,320
+Operations Center, or GNOC, is located in Bedminster, New
+
+19
+00:01:19,321 --> 00:01:23,920
+Jersey. The center's 144 screens display
+
+20
+00:01:23,921 --> 00:01:27,520
+data representing the flow of voice and information traffic.
+
+21
+00:01:27,521 --> 00:01:31,360
+This traffic is being routed to and from AT&T subscribers in
+
+22
+00:01:31,361 --> 00:01:35,660
+240 different countries. This is the nerve center of
+
+23
+00:01:35,661 --> 00:01:40,580
+the AT&T network, a 200,000 square foot facility that's
+
+24
+00:01:40,581 --> 00:01:45,580
+designed to monitor and manage the AT&T networks worldwide.
+
+25
+00:01:45,581 --> 00:01:50,680
+When a natural disaster occurs or a major world event is in
+
+26
+00:01:50,681 --> 00:01:55,680
+is in the making, or even your favorite TV reality show is
+
+27
+00:01:55,780 --> 00:02:01,120
+having a big voting night, that affects communication traffic.
+
+28
+00:02:01,220 --> 00:02:03,460
+And that's what we do here in this facility.
+
+29
+00:02:03,560 --> 00:02:07,600
+We watch those events and we take action where necessary
+
+30
+00:02:07,700 --> 00:02:10,900
+to ensure our customers' communications are always
+
+31
+00:02:11,000 --> 00:02:15,840
+satisfactory and are always completed.
+
+32
+00:02:15,940 --> 00:02:18,300
+Network management technicians can anticipate
+
+33
+00:02:18,301 --> 00:02:23,540
+bottlenecks and reroute call traffic around them.
+
+34
+00:02:23,541 --> 00:02:27,100
+The information monitored in the GNOC is piped in from more than
+
+35
+00:02:27,101 --> 00:02:31,340
+5,000 central switching offices that AT&T operates around the
+
+36
+00:02:31,341 --> 00:02:34,940
+world. One such central office is known
+
+37
+00:02:34,941 --> 00:02:39,020
+as SF21, located in the south of Market District in San
+
+38
+00:02:39,021 --> 00:02:44,060
+Francisco. Each day, 10 million calls to and
+
+39
+00:02:44,061 --> 00:02:47,500
+from AT&T subscribers are connected through banks of
+
+40
+00:02:47,501 --> 00:02:51,740
+switches, known as a DMS. All of our calls route
+
+41
+00:02:51,741 --> 00:02:56,240
+through a digital multiplex system, a DMS switch, and the
+
+42
+00:02:56,241 --> 00:03:00,740
+calls go into those switches and out to the world, serving all of
+
+43
+00:03:00,741 --> 00:03:04,260
+our customers. When a typical AT&T
+
+44
+00:03:04,261 --> 00:03:08,660
+customer serviced by SF21 places a call, the transmission flows
+
+45
+00:03:08,661 --> 00:03:11,660
+out of their home or business along a pair of thin copper
+
+46
+00:03:11,661 --> 00:03:16,660
+wires to a trunk line. The trunk line then feeds into
+
+47
+00:03:16,661 --> 00:03:22,160
+into the central office. The trunk lines enter the building
+
+48
+00:03:22,161 --> 00:03:25,500
+in a secure, climate-controlled subterranean room called the
+
+49
+00:03:25,501 --> 00:03:29,900
+cable vault. The orange conduit contains
+
+50
+00:03:29,901 --> 00:03:34,120
+our very high-capacity fiber optic cables coming in and out
+
+51
+00:03:34,121 --> 00:03:37,620
+of the central office, but the vast majority of our calls that
+
+52
+00:03:37,621 --> 00:03:41,060
+come into the central office come in on the large copper
+
+53
+00:03:41,061 --> 00:03:44,060
+distribution cables. In this case, this is a 3,600-pair
+
+54
+00:03:44,061 --> 00:03:48,700
+pair copper cable, much like those used at the time of
+
+55
+00:03:48,701 --> 00:03:51,800
+Alexander Graham Bell. The technology has not changed.
+
+56
+00:03:51,801 --> 00:03:56,900
+The 3,600 pair cable is split into 36 100 pair cables that
+
+57
+00:03:56,901 --> 00:03:59,600
+travel up to the main distributing frame on the next
+
+58
+00:03:59,601 --> 00:04:03,020
+floor. At the main
+
+59
+00:04:03,021 --> 00:04:06,760
+distributing frame, the 100 wire cables are broken back out into
+
+60
+00:04:06,761 --> 00:04:13,020
+individual customer lines, known as a twisted pair.
+
+61
+00:04:13,021 --> 00:04:18,020
+From there, the call is then routed to the DMS switches.
+
+62
+00:04:18,021 --> 00:04:21,220
+What we've got here are the individual line cards.
+
+63
+00:04:21,221 --> 00:04:24,520
+Each one of these represents an AT&T customer line,
+
+64
+00:04:24,521 --> 00:04:27,120
+which is connected from the main distribution frame
+
+65
+00:04:27,121 --> 00:04:28,620
+to the line card.
+
+66
+00:04:28,621 --> 00:04:31,320
+Here, the analog to digital conversion takes place,
+
+67
+00:04:31,321 --> 00:04:33,920
+and the digital signal gets sent out on the fiber optic
+
+68
+00:04:33,921 --> 00:04:37,020
+cables to the world.
+
+69
+00:04:37,021 --> 00:04:41,620
+Fiber optic cable was invented in 1970 by Corning Glass.
+
+70
+00:04:41,621 --> 00:04:44,180
+By converting an analog or digital signal into a
+
+71
+00:04:44,181 --> 00:04:47,460
+corresponding optical signal, it can then be sent through a
+
+72
+00:04:47,461 --> 00:04:50,260
+fiber optic strand at near the speed of light.
+
+73
+00:04:54,260 --> 00:04:56,980
+A call sent out of a central office can take a variety of
+
+74
+00:04:56,981 --> 00:05:01,060
+paths, depending on its final destination.
+
+75
+00:05:01,061 --> 00:05:04,900
+These include long-distance landlines or microwave
+
+76
+00:05:04,901 --> 00:05:09,620
+transmitters in areas that aren't connected by landlines.
+
+77
+00:05:09,621 --> 00:05:13,320
+If the call is going overseas, it can be beamed off a satellite
+
+78
+00:05:13,321 --> 00:05:17,720
+or routed through an undersea cable.
+
+79
+00:05:17,721 --> 00:05:20,120
+The way a call knows how to get where it's going
+
+80
+00:05:20,121 --> 00:05:22,760
+is encoded in the telephone number, which consists
+
+81
+00:05:22,761 --> 00:05:26,080
+of three parts, the area code, the prefix,
+
+82
+00:05:26,081 --> 00:05:31,680
+and the subscriber number. The area code
+
+83
+00:05:31,681 --> 00:05:33,580
+tells the switch which long-distance line
+
+84
+00:05:33,581 --> 00:05:36,820
+to put the call on. The three-digit prefix
+
+85
+00:05:36,821 --> 00:05:40,060
+routes the call to an individual's central office.
+
+86
+00:05:40,160 --> 00:05:42,820
+A central office switch reads the four-digit subscriber
+
+87
+00:05:42,920 --> 00:05:45,760
+number, then routes the call to the corresponding home
+
+88
+00:05:45,860 --> 00:05:49,660
+or business. Today, we take direct dialing
+
+89
+00:05:49,760 --> 00:05:52,760
+for granted. But early phones didn't have
+
+90
+00:05:52,860 --> 00:05:56,180
+dials or keypads. Calls had to be hand routed by
+
+91
+00:05:56,280 --> 00:05:59,680
+human operators in offices known as exchanges.
+
+92
+00:05:59,780 --> 00:06:02,420
+They had to tell the operator who they wanted to talk to.
+
+93
+00:06:02,520 --> 00:06:04,620
+The operator would make the decision whether this would be
+
+94
+00:06:04,621 --> 00:06:07,260
+call, they could handle it locally, or if it was a long
+
+95
+00:06:07,261 --> 00:06:10,060
+distance call, and it would go through a central office switch
+
+96
+00:06:10,061 --> 00:06:12,220
+with a large bank of switchboards and operators
+
+97
+00:06:12,221 --> 00:06:17,260
+connecting the line. In the late teens, the
+
+98
+00:06:17,261 --> 00:06:20,140
+addition of rotary dials to telephones meant that operators
+
+99
+00:06:20,141 --> 00:06:22,940
+started to be replaced by electromechanical switching
+
+100
+00:06:22,941 --> 00:06:26,940
+equipment, which uses motors, rods, and relays.
+
+101
+00:06:30,940 --> 00:06:33,580
+The Museum of Telecommunications in Seattle,
+
+102
+00:06:33,581 --> 00:06:37,720
+in Seattle, Washington, houses 11,000 square feet of vintage
+
+103
+00:06:37,721 --> 00:06:41,320
+electromechanical switching equipment.
+
+104
+00:06:41,321 --> 00:06:44,640
+Thanks to a team of retired telephone company technicians,
+
+105
+00:06:44,641 --> 00:06:49,620
+all of it still works, including this early electromechanical
+
+106
+00:06:49,621 --> 00:06:53,340
+switch called a step-by-step.
+
+107
+00:06:53,341 --> 00:06:57,320
+Each one of these switches will respond to what you dial
+
+108
+00:06:57,321 --> 00:06:59,440
+on your telephone dial.
+
+109
+00:06:59,441 --> 00:07:03,540
+If you dial a 9, you would step up to 9th level,
+
+110
+00:07:03,541 --> 00:07:07,780
+So it's a mechanical switch that responds to your dial and then
+
+111
+00:07:07,781 --> 00:07:11,540
+seeks a path for you to complete the call.
+
+112
+00:07:11,541 --> 00:07:15,280
+By 1999, all US phone companies had replaced their
+
+113
+00:07:15,281 --> 00:07:18,280
+electromechanical switches with digital versions.
+
+114
+00:07:18,281 --> 00:07:23,500
+For the first 100 years of telephony, telephones had to be
+
+115
+00:07:23,501 --> 00:07:27,800
+physically connected to the switches through miles of wire.
+
+116
+00:07:27,801 --> 00:07:32,500
+But in the 1980s, the telephone shed its copper tether, and
+
+117
+00:07:32,501 --> 00:07:37,900
+telecommunications went mobile. Today, there are more than 200
+
+118
+00:07:37,901 --> 00:07:41,900
+million mobile phone users in the United States and 2 billion
+
+119
+00:07:41,901 --> 00:07:46,500
+worldwide. The precursor to today's mobile
+
+120
+00:07:46,501 --> 00:07:50,900
+phone was the car phone. Early car phones relied on large
+
+121
+00:07:50,901 --> 00:07:54,900
+mobile radios with processors called logic units that filled
+
+122
+00:07:54,901 --> 00:07:58,900
+the trunk of a car. In the 1970s, Robert Miller was a
+
+123
+00:07:58,901 --> 00:08:03,380
+Robert Miller was a Bell Labs researcher working on mobile phone technology.
+
+124
+00:08:03,680 --> 00:08:13,800
+I think the future became clear to me one day when one of the individuals at Bell Labs
+
+125
+00:08:13,801 --> 00:08:20,960
+who was charged with the design of the so-called logic unit came running into the laboratory and said,
+
+126
+00:08:20,961 --> 00:08:34,961
+I just heard that a new company called Intel has just put out a microcomputer called an 8008 that could do everything in this entire logic unit.
+
+127
+00:08:36,780 --> 00:08:38,280
+And we were transfixed.
+
+128
+00:08:38,680 --> 00:08:40,280
+That moment was an epiphany.
+
+129
+00:08:40,640 --> 00:08:41,780
+It changed everything.
+
+130
+00:08:43,040 --> 00:08:49,780
+That epiphany gave birth to the first true portable phone, the Motorola Dynatac 8000X.
+
+131
+00:08:49,781 --> 00:08:52,780
+Known as the BRIC because of its heft and size,
+
+132
+00:08:52,781 --> 00:08:57,780
+the Dynatac retailed for a mere $3,995,
+
+133
+00:08:57,781 --> 00:09:01,780
+plus the monthly service fee.
+
+134
+00:09:01,781 --> 00:09:03,780
+A new type of network had to be created
+
+135
+00:09:03,781 --> 00:09:05,780
+to connect mobile phones.
+
+136
+00:09:05,781 --> 00:09:09,780
+It was called cellular technology.
+
+137
+00:09:09,781 --> 00:09:13,780
+A cellular system peppers a town with several small antennas.
+
+138
+00:09:13,781 --> 00:09:15,780
+Each service is an area, or cell,
+
+139
+00:09:15,781 --> 00:09:18,780
+of up to eight miles in radius.
+
+140
+00:09:18,781 --> 00:09:22,780
+When a wireless customer moves from one cell to another,
+
+141
+00:09:22,781 --> 00:09:25,780
+computers automatically switch the call to the next nearest
+
+142
+00:09:25,781 --> 00:09:30,780
+cell antenna. Cell phone towers are now
+
+143
+00:09:30,781 --> 00:09:34,780
+common features of our landscape. Because of some local zoning
+
+144
+00:09:34,781 --> 00:09:38,780
+laws, wireless providers like Singular design what are called
+
+145
+00:09:38,781 --> 00:09:42,780
+stealth sites. Some don't look like cell towers
+
+146
+00:09:42,781 --> 00:09:45,780
+at all. Despite their disguises,
+
+147
+00:09:45,781 --> 00:09:49,180
+disguises, all cell towers work the same way.
+
+148
+00:09:49,181 --> 00:09:51,880
+When a singular customer makes a phone call, they press send on
+
+149
+00:09:51,881 --> 00:09:55,480
+their mobile handset. That call then goes over radio
+
+150
+00:09:55,481 --> 00:09:58,080
+frequencies to the nearest cell site.
+
+151
+00:09:58,081 --> 00:10:02,180
+The cell site takes that signal and sends it back to an MTSO,
+
+152
+00:10:02,181 --> 00:10:05,480
+or Mobile Telephony Switching Center.
+
+153
+00:10:05,481 --> 00:10:08,880
+An MTSO, like this one operated by Singular in the Los
+
+154
+00:10:08,881 --> 00:10:12,180
+Angeles area, is the wireless equivalent of the landline's
+
+155
+00:10:12,181 --> 00:10:16,320
+central office. Here, calls are processed by banks
+
+156
+00:10:16,321 --> 00:10:22,180
+of digital switches, which route them to their final destinations.
+
+157
+00:10:22,181 --> 00:10:25,940
+Today's cell phones are sleek and full of features, but that
+
+158
+00:10:25,941 --> 00:10:28,240
+certainly wasn't the case when they first hit the market in
+
+159
+00:10:28,241 --> 00:10:32,180
+the 1980s. This is a chronological display
+
+160
+00:10:32,181 --> 00:10:35,440
+of the miniaturization of cell phones, starting with the
+
+161
+00:10:35,441 --> 00:10:38,620
+largest here, the bag phone. It's a Tough Talker, which was
+
+162
+00:10:38,621 --> 00:10:43,840
+the name of it, and it provides, to today's standard, very little memory, very little
+
+163
+00:10:43,841 --> 00:10:48,380
+features, but it was a very durable device and was very successful in its time.
+
+164
+00:10:48,381 --> 00:10:52,820
+This one is considered the first flip phone.
+
+165
+00:10:52,821 --> 00:10:54,920
+This is a DPC-500.
+
+166
+00:10:54,921 --> 00:11:02,300
+This phone has more memory, smaller circuit board inside, it offers a different display
+
+167
+00:11:02,301 --> 00:11:07,280
+and certainly a much more user-friendly feel.
+
+168
+00:11:07,281 --> 00:11:10,400
+This unit here is considered what's now a candy bar phone.
+
+169
+00:11:10,401 --> 00:11:14,400
+It has a pop-up antenna, built-in battery in the back.
+
+170
+00:11:14,401 --> 00:11:20,840
+We then moved on to an even smaller, lighter, highly featured phone, considered a 3035.
+
+171
+00:11:20,841 --> 00:11:27,140
+This model had a lithium-ion battery, very, very lightweight, much larger display, color
+
+172
+00:11:27,141 --> 00:11:28,140
+display.
+
+173
+00:11:28,141 --> 00:11:30,800
+Then we have the V3.
+
+174
+00:11:30,801 --> 00:11:34,040
+This featured phone has tremendous talk time and memory.
+
+175
+00:11:34,041 --> 00:11:38,680
+You could have pictures on here, video on here, and is extremely
+
+176
+00:11:38,681 --> 00:11:44,440
+lightweight and extremely thin. As today's mobile devices become
+
+177
+00:11:44,441 --> 00:11:48,440
+more like handheld computers than telephones, the miniaturization
+
+178
+00:11:48,441 --> 00:11:55,360
+trend is reversing. In business since 1986, cellular
+
+179
+00:11:55,361 --> 00:11:58,480
+fantasy in Santa Monica, California, has witnessed the
+
+180
+00:11:58,481 --> 00:12:02,720
+cell phone revolution firsthand. Before it was simply for
+
+181
+00:12:02,721 --> 00:12:06,420
+Now we have text messaging, we have email, MP3 players,
+
+182
+00:12:06,520 --> 00:12:09,460
+watching videos on the phone, live TV, music.
+
+183
+00:12:09,560 --> 00:12:13,560
+Everything's being compacted into this one mobile device.
+
+184
+00:12:13,660 --> 00:12:16,060
+With more advanced devices arriving daily,
+
+185
+00:12:16,160 --> 00:12:19,480
+the average wireless customer replaces his or her cell phone
+
+186
+00:12:19,580 --> 00:12:21,880
+every 18 months.
+
+187
+00:12:21,980 --> 00:12:25,680
+So what happens to all the discarded cell phones?
+
+188
+00:12:25,780 --> 00:12:29,080
+Each day, 15,000 of them arrive here
+
+189
+00:12:29,081 --> 00:12:33,400
+at a company called ReCellular near Ann Arbor, Michigan.
+
+190
+00:12:33,840 --> 00:12:36,880
+ReCellular is the world's center for used cell phones.
+
+191
+00:12:37,300 --> 00:12:41,040
+We handle more used phones every day than any other company in the world.
+
+192
+00:12:41,880 --> 00:12:46,920
+We say every box and envelope is a mystery because we have no idea what model of phone someone might send us.
+
+193
+00:12:46,921 --> 00:12:54,240
+So the first step is we have to open them up and identify which model of phone has been sent of the more than 500 that are in the marketplace right now.
+
+194
+00:12:55,080 --> 00:12:58,600
+After technicians identify each phone by its unique barcode,
+
+195
+00:12:59,080 --> 00:13:02,520
+The device undergoes special diagnostics using software
+
+196
+00:13:02,521 --> 00:13:05,480
+developed by Recellular. The basic functionality of a
+
+197
+00:13:05,481 --> 00:13:07,480
+phone is that it obviously has to power up.
+
+198
+00:13:07,481 --> 00:13:09,880
+It needs to have a good LCD screen, and it needs to be able
+
+199
+00:13:09,881 --> 00:13:13,320
+to make a call. If a phone is beyond repair
+
+200
+00:13:13,321 --> 00:13:16,760
+or obsolete, it's sent to an outside company to be ground up
+
+201
+00:13:16,761 --> 00:13:21,160
+and recycled. If the phone works, a technician
+
+202
+00:13:21,161 --> 00:13:26,920
+wipes clean its memory chip. The phones are then repackaged,
+
+203
+00:13:26,921 --> 00:13:30,255
+ready to be sold to budget-minded cell phone users in the U.S.
+
+204
+00:13:30,256 --> 00:13:31,600
+and in foreign countries.
+
+205
+00:13:36,720 --> 00:13:42,220
+Today's feature-packed cell phones connect us in ways never imagined by the original inventor of the telephone.
+
+206
+00:13:43,080 --> 00:13:46,180
+Think you know who that is? Well, think again.
+
+207
+00:13:48,080 --> 00:13:54,440
+On April 3rd, 1973, Martin Cooper of Motorola was the first person to talk on a cell phone.
+
+208
+00:13:54,441 --> 00:13:57,880
+He made the historic call on the streets of New York City as
+
+209
+00:13:57,881 --> 00:14:01,080
+startled onlookers gawked in disbelief.
+
+210
+00:14:05,080 --> 00:14:08,840
+On June 11, 2002, the United States Congress issued a
+
+211
+00:14:08,841 --> 00:14:11,240
+resolution honoring the inventor of the telephone.
+
+212
+00:14:11,241 --> 00:14:15,640
+His name? Antonio Meucci, an Italian immigrant
+
+213
+00:14:15,641 --> 00:14:20,200
+from New York City. Most people know Alexander Graham
+
+214
+00:14:20,201 --> 00:14:23,480
+Bell as the inventor of the telephone, but reports say
+
+215
+00:14:23,481 --> 00:14:27,080
+demonstrated an electromagnetic speech communication device he
+
+216
+00:14:27,081 --> 00:14:32,480
+called the teletrophone in 1860, 26 years before Bell was
+
+217
+00:14:32,481 --> 00:14:36,720
+credited with inventing the telephone.
+
+218
+00:14:36,721 --> 00:14:41,540
+In 1871, Meucci suffered severe burns in a ferry boat accident,
+
+219
+00:14:41,541 --> 00:14:44,440
+leaving him with neither the money nor the health to further
+
+220
+00:14:44,441 --> 00:14:48,480
+exploit his invention. Despite recognition from
+
+221
+00:14:48,481 --> 00:14:52,040
+Congress, not everyone agrees Meucci deserves the credit.
+
+222
+00:14:52,041 --> 00:14:53,540
+The way that I think about Meucci
+
+223
+00:14:53,541 --> 00:14:56,540
+is that there's a big difference between inventing something
+
+224
+00:14:56,541 --> 00:14:59,040
+you can demonstrate in a workshop or a laboratory
+
+225
+00:14:59,041 --> 00:15:01,540
+and something you can actually roll out commercially.
+
+226
+00:15:01,541 --> 00:15:04,040
+It's certain that Meucci did not have a commercially practical
+
+227
+00:15:04,041 --> 00:15:07,040
+telephone, even if he did have something that could have
+
+228
+00:15:07,041 --> 00:15:10,040
+demonstrated some of the principles.
+
+229
+00:15:10,041 --> 00:15:13,040
+The principles that eventually led to the first commercial
+
+230
+00:15:13,041 --> 00:15:16,040
+telephones were based on a concept called undulating
+
+231
+00:15:16,041 --> 00:15:18,040
+current.
+
+232
+00:15:18,041 --> 00:15:21,040
+Several researchers of the time believed that the sound wave
+
+233
+00:15:21,041 --> 00:15:25,280
+created by the human voice could be converted by a device into a
+
+234
+00:15:25,281 --> 00:15:29,780
+continuous electrical wave, sent down wires, then reconverted
+
+235
+00:15:29,781 --> 00:15:35,380
+into speech at the other end. By the mid-1870s, two
+
+236
+00:15:35,381 --> 00:15:39,500
+inventors were racing neck and neck to patent such a device,
+
+237
+00:15:39,501 --> 00:15:44,400
+Alexander Graham Bell of Boston and his Chicago rival, Elisha
+
+238
+00:15:44,401 --> 00:15:47,900
+Gray. It would be Bell who would win
+
+239
+00:15:47,901 --> 00:15:50,900
+the race. Well, this is a replica of the
+
+240
+00:15:50,901 --> 00:15:55,720
+very first telephone, the so-called liquid transmitter that Alexander Graham Bell invented
+
+241
+00:15:55,721 --> 00:15:57,140
+on March 10, 1876.
+
+242
+00:15:57,141 --> 00:16:02,820
+And as the story goes, he yelled into the microphone or the transmitter,
+
+243
+00:16:03,380 --> 00:16:05,036
+Mr. Watson, come here, I want you.
+
+244
+00:16:05,037 --> 00:16:07,520
+And his assistant, Thomas Watson, on the other end,
+
+245
+00:16:07,580 --> 00:16:12,200
+heard that complete sentence. When Bell spoke into the cone,
+
+246
+00:16:12,201 --> 00:16:15,073
+sound waves moved a parchment diaphragm.
+
+247
+00:16:15,074 --> 00:16:18,520
+The diaphragm moved a thin metal rod up and down
+
+248
+00:16:18,521 --> 00:16:23,320
+water that was made conductive by the addition of acid.
+
+249
+00:16:23,321 --> 00:16:26,520
+The fluctuating electrical signal was sent along copper wires
+
+250
+00:16:26,521 --> 00:16:30,520
+to a receiver, where the current caused an iron reed to vibrate,
+
+251
+00:16:30,521 --> 00:16:37,520
+reproducing Bell's voice. Alexander Graham Bell filed a
+
+252
+00:16:37,521 --> 00:16:42,520
+patent application for his telephone on February 14, 1876,
+
+253
+00:16:42,521 --> 00:16:45,520
+purportedly two hours before Elisha Gray filed a preliminary
+
+254
+00:16:45,521 --> 00:16:49,120
+a preliminary application called a caveat for his own telephone
+
+255
+00:16:49,121 --> 00:16:53,260
+device. Three weeks later, Bell was
+
+256
+00:16:53,261 --> 00:16:56,680
+officially granted the patent, but its issuance is still steeped
+
+257
+00:16:56,681 --> 00:16:59,620
+in controversy. It turns out about 10 years
+
+258
+00:16:59,621 --> 00:17:03,120
+later, the patent examiner in charge of electrical patent
+
+259
+00:17:03,121 --> 00:17:08,920
+applications, a man named Major Zenas Wilber, testified that he
+
+260
+00:17:08,921 --> 00:17:12,580
+had been bribed by Bell's patent attorney and Bell himself to the
+
+261
+00:17:12,581 --> 00:17:17,580
+of $200 to predate Bell's application before Gray's,
+
+262
+00:17:17,581 --> 00:17:20,580
+and also to show Bell Gray's application.
+
+263
+00:17:20,581 --> 00:17:22,580
+So it's still an open question, at least in my mind,
+
+264
+00:17:22,581 --> 00:17:25,580
+whether Bell or Gray should be properly credited
+
+265
+00:17:25,581 --> 00:17:27,580
+as inventing the telephone.
+
+266
+00:17:27,581 --> 00:17:30,580
+Armed with his patent, Bell and two financial backers
+
+267
+00:17:30,581 --> 00:17:32,580
+set out to create the first telephone network
+
+268
+00:17:32,581 --> 00:17:34,580
+in the United States.
+
+269
+00:17:34,581 --> 00:17:37,580
+It came to be known as the Bell System.
+
+270
+00:17:37,581 --> 00:17:41,580
+In 1899, American Telephone and Telegraph,
+
+271
+00:17:41,581 --> 00:17:47,580
+or AT&T became the Bell Systems parent company.
+
+272
+00:17:47,581 --> 00:17:52,820
+When Bell's patents expired in 1893 and 1894, more than 6,000
+
+273
+00:17:52,821 --> 00:17:56,820
+independent phone companies sprang up around the country.
+
+274
+00:17:56,821 --> 00:17:59,820
+Each ran their own set of phone lines, threatening to block out
+
+275
+00:17:59,821 --> 00:18:04,820
+the sky in some cities. In an attempt to shore up its
+
+276
+00:18:04,821 --> 00:18:08,320
+holdings, AT&T began purchasing some of the independent
+
+277
+00:18:08,321 --> 00:18:10,420
+of the independent companies.
+
+278
+00:18:10,421 --> 00:18:13,120
+This led to the federal government filing an antitrust
+
+279
+00:18:13,121 --> 00:18:17,500
+lawsuit against AT&T in 1913.
+
+280
+00:18:17,501 --> 00:18:19,900
+But Bell's company was ready for the fight.
+
+281
+00:18:19,901 --> 00:18:23,440
+They said, if you're going to set up a nationwide telephone
+
+282
+00:18:23,441 --> 00:18:27,840
+system, it doesn't make sense to set up two or three or five
+
+283
+00:18:27,841 --> 00:18:29,580
+nationwide telephone systems.
+
+284
+00:18:29,581 --> 00:18:32,740
+Telephone systems are expensive to build if you want to connect
+
+285
+00:18:32,741 --> 00:18:33,980
+the entire country.
+
+286
+00:18:33,981 --> 00:18:36,720
+So AT&T convinced the federal government that it really made
+
+287
+00:18:36,721 --> 00:18:40,960
+to have one designated telephone company that provided universal
+
+288
+00:18:40,961 --> 00:18:42,660
+service.
+
+289
+00:18:42,661 --> 00:18:45,460
+AT&T agreed to accept federal regulation
+
+290
+00:18:45,461 --> 00:18:47,760
+in exchange for being the dominant phone company
+
+291
+00:18:47,761 --> 00:18:52,760
+in the United States. AT&T and its research arm,
+
+292
+00:18:52,761 --> 00:18:55,880
+Bell Laboratories, then set out to complete a long-distance
+
+293
+00:18:55,881 --> 00:18:58,680
+network that would connect cities across America.
+
+294
+00:19:01,480 --> 00:19:03,480
+Soon after the telephone's invention,
+
+295
+00:19:03,481 --> 00:19:07,680
+small citywide networks called local exchanges quickly sprang up
+
+296
+00:19:07,681 --> 00:19:10,720
+across the country. But there were no lines connecting
+
+297
+00:19:10,721 --> 00:19:16,220
+one local exchange to another. In 1885, AT&T laid their first
+
+298
+00:19:16,221 --> 00:19:20,440
+long-distance cable between New York and Philadelphia.
+
+299
+00:19:20,441 --> 00:19:23,440
+Seven years later, it was possible to call from New York
+
+300
+00:19:23,441 --> 00:19:27,740
+to Chicago. By 1915, you could call from New
+
+301
+00:19:27,741 --> 00:19:32,720
+York to San Francisco. The entire coast-to-coast
+
+302
+00:19:32,721 --> 00:19:35,720
+The coast-to-coast telephone network consisted of simple
+
+303
+00:19:35,721 --> 00:19:39,720
+copper wires strung pole to pole or bound into cables and
+
+304
+00:19:39,721 --> 00:19:42,720
+buried underground. When there was the need to
+
+305
+00:19:42,721 --> 00:19:45,720
+bury the cable, they had to create cables like this, which
+
+306
+00:19:45,721 --> 00:19:48,720
+are thin copper wire cables insulated from each other so
+
+307
+00:19:48,721 --> 00:19:51,720
+there was no crosstalk and interference. A cable like this
+
+308
+00:19:51,721 --> 00:19:55,720
+had the capacity of 600 to 900 simultaneous phone calls.
+
+309
+00:19:55,721 --> 00:19:58,720
+The next big leap in technology was coaxial cable, which was in
+
+310
+00:19:58,721 --> 00:20:01,720
+the 1940s. One single tube like this would have the same
+
+311
+00:20:01,721 --> 00:20:06,720
+capacity as a 600 to 900 pair copper cable.
+
+312
+00:20:06,721 --> 00:20:09,720
+When a telephone signal moves through copper wire,
+
+313
+00:20:09,721 --> 00:20:12,720
+some of its energy dissipates from the wire and weakens the
+
+314
+00:20:12,721 --> 00:20:16,720
+signal. Coaxial cable eliminates this
+
+315
+00:20:16,721 --> 00:20:20,720
+dissipation by wrapping the wire in layers of insulation.
+
+316
+00:20:20,721 --> 00:20:23,720
+A range of higher frequency signals can then be sent down
+
+317
+00:20:23,721 --> 00:20:28,720
+the wire, allowing for far greater call capacity.
+
+318
+00:20:28,721 --> 00:20:31,720
+The invention of coaxial technology led to the first
+
+319
+00:20:31,721 --> 00:20:35,160
+transatlantic telephone cable, TAT-1.
+
+320
+00:20:35,260 --> 00:20:37,560
+In the case of TAT-1, there were two cables,
+
+321
+00:20:37,660 --> 00:20:40,060
+one for each direction of the conversation
+
+322
+00:20:40,160 --> 00:20:41,360
+that crossed the ocean.
+
+323
+00:20:41,460 --> 00:20:46,560
+It had a capacity of about 36 simultaneous conversations.
+
+324
+00:20:46,660 --> 00:20:51,080
+AT&T opened TAT-1 for business in 1956.
+
+325
+00:20:51,180 --> 00:20:54,080
+Today, there are more than a dozen transatlantic cables,
+
+326
+00:20:54,180 --> 00:20:56,640
+including fiber optic lines that can handle millions
+
+327
+00:20:56,740 --> 00:20:57,980
+of simultaneous calls.
+
+328
+00:21:01,720 --> 00:21:05,720
+Once telephony conquered both land and sea, the only way to go
+
+329
+00:21:05,820 --> 00:21:07,220
+was up.
+
+330
+00:21:07,320 --> 00:21:13,060
+On July 11, 1962, AT&T's Telstar, the world's first active
+
+331
+00:21:13,160 --> 00:21:16,160
+telecommunications satellite, blasted into orbit.
+
+332
+00:21:20,380 --> 00:21:24,200
+Telstar received signals beamed up from AT&T's ground station
+
+333
+00:21:24,300 --> 00:21:26,280
+in Andover, Maine.
+
+334
+00:21:26,380 --> 00:21:30,120
+The signals were amplified over 10,000 times by the satellite's
+
+335
+00:21:30,121 --> 00:21:33,460
+processors, then beamed back down to one of two receiving
+
+336
+00:21:33,520 --> 00:21:38,120
+stations in Europe. Today, a fully functional backup of
+
+337
+00:21:38,200 --> 00:21:41,500
+the original Telstar hangs in the lobby of Bell Labs New
+
+338
+00:21:41,560 --> 00:21:44,960
+Jersey headquarters. The solar cell had just been
+
+339
+00:21:45,040 --> 00:21:48,700
+invented in Bell Laboratories. The actual surface of the 34
+
+340
+00:21:48,780 --> 00:21:53,740
+inch diameter Telstar satellite is covered in 3,600 solar cells.
+
+341
+00:21:53,820 --> 00:21:58,620
+So that provided the power. As its network expanded to
+
+342
+00:21:58,621 --> 00:22:02,220
+to encircle the globe, AT&T became the largest corporation
+
+343
+00:22:02,221 --> 00:22:06,620
+on Earth. By 1974, it employed 1 million
+
+344
+00:22:06,621 --> 00:22:12,620
+people and controlled 80% of the US telephone market.
+
+345
+00:22:12,621 --> 00:22:16,620
+That same year, federal antitrust regulators once again sought
+
+346
+00:22:16,621 --> 00:22:20,620
+to break up AT&T. In 1982, the company agreed to
+
+347
+00:22:20,621 --> 00:22:27,620
+divest 75% of its assets. AT&T's 22 wholly owned Bell
+
+348
+00:22:27,621 --> 00:22:30,820
+telephone companies were reorganized into seven fully
+
+349
+00:22:30,821 --> 00:22:34,820
+independent regional companies known as Baby Bells.
+
+350
+00:22:34,821 --> 00:22:37,860
+The idea was the Baby Bells would provide local phone
+
+351
+00:22:37,861 --> 00:22:41,860
+service, whereas AT&T would compete in the long-distance
+
+352
+00:22:41,861 --> 00:22:45,700
+market. As the telephone network
+
+353
+00:22:45,701 --> 00:22:49,380
+matured from copper wire strung from holes to signals beamed
+
+354
+00:22:49,381 --> 00:22:52,420
+through outer space, the phone instrument underwent its own
+
+355
+00:22:52,421 --> 00:22:56,420
+evolution. The first commercially available
+
+356
+00:22:56,421 --> 00:22:58,820
+telephones were housed in wooden cabinets.
+
+357
+00:22:58,821 --> 00:23:02,560
+The phone I'm holding here is an 1896 Western Electric common
+
+358
+00:23:02,561 --> 00:23:05,560
+battery phone. And so as soon as you picked up
+
+359
+00:23:05,561 --> 00:23:08,460
+the receiver, it would signal the operator.
+
+360
+00:23:08,461 --> 00:23:10,860
+The telephone operator would know that someone was trying to
+
+361
+00:23:10,861 --> 00:23:12,980
+connect a call, and she would say, number, please, and she
+
+362
+00:23:12,981 --> 00:23:16,980
+would connect the circuit. At the dawn of the 20th
+
+363
+00:23:16,981 --> 00:23:20,520
+century, sleek candlestick phones made of nickel were all
+
+364
+00:23:20,521 --> 00:23:23,520
+the rage. These are the first desk sets,
+
+365
+00:23:23,521 --> 00:23:27,120
+telephones that were offered to subscribers.
+
+366
+00:23:27,121 --> 00:23:30,120
+After you've placed the call, you've talked to your friend,
+
+367
+00:23:30,121 --> 00:23:33,960
+you would place the receiver onto the switch hook, and that's
+
+368
+00:23:33,961 --> 00:23:37,760
+called hanging up. That's where we got the term from.
+
+369
+00:23:37,761 --> 00:23:41,380
+In the 1920s, Bell Telephone designers married the earpiece
+
+370
+00:23:41,381 --> 00:23:46,380
+and the mouthpiece into one unit, called a combined handset.
+
+371
+00:23:46,381 --> 00:23:49,280
+This model included what would become the workhorse of the
+
+372
+00:23:49,281 --> 00:23:56,080
+system, the 500 series phone. The 500 debuted in 1949 and was
+
+373
+00:23:56,081 --> 00:24:00,480
+still being manufactured up until 1983.
+
+374
+00:24:00,481 --> 00:24:05,680
+At the 1962 Seattle World's Fair, AT&T showcased a new
+
+375
+00:24:05,681 --> 00:24:10,480
+space-age technology that would make the rotary dial obsolete,
+
+376
+00:24:10,481 --> 00:24:16,480
+the touchtone telephone. Touchtone used special tones
+
+377
+00:24:16,481 --> 00:24:19,880
+that could not only dial numbers, but also operate answering
+
+378
+00:24:19,980 --> 00:24:22,480
+machines and computers through the telephone network.
+
+379
+00:24:25,280 --> 00:24:28,720
+Over its 130-year evolution, the telephone has enabled
+
+380
+00:24:28,820 --> 00:24:31,920
+interpersonal communication to an extent barely dreamed of
+
+381
+00:24:32,020 --> 00:24:35,440
+by its creators. But perhaps one of the telephone's
+
+382
+00:24:35,540 --> 00:24:40,140
+greatest contributions has been its ability to help save lives.
+
+383
+00:24:40,240 --> 00:24:43,040
+Los Angeles County Guard Department.
+
+384
+00:24:43,041 --> 00:24:47,040
+In 1878, Rutherford B. Hayes was the first U.S. president
+
+385
+00:24:47,140 --> 00:24:49,680
+to have a telephone installed in the White House.
+
+386
+00:24:49,780 --> 00:24:53,080
+The president placed his first call to Alexander Graham Bell,
+
+387
+00:24:53,180 --> 00:24:56,780
+and his first words asked Bell to speak more slowly.
+
+388
+00:25:02,800 --> 00:25:05,400
+In the United States, three simple numbers dialed
+
+389
+00:25:05,500 --> 00:25:09,300
+on any phone can mean the difference between life or death.
+
+390
+00:25:09,400 --> 00:25:11,500
+911.
+
+391
+00:25:11,501 --> 00:25:13,500
+Los Angeles County Fire Department.
+
+392
+00:25:13,501 --> 00:25:15,500
+And what is your emergency right now?
+
+393
+00:25:15,501 --> 00:25:17,500
+One of the wonderful things about being able to pick up a
+
+394
+00:25:17,501 --> 00:25:21,500
+telephone and call anyone at any time is in emergency situations
+
+395
+00:25:21,501 --> 00:25:24,500
+this wasn't possible, of course, with older forms of
+
+396
+00:25:24,501 --> 00:25:27,500
+communications like the telegraph, or before the telegraph,
+
+397
+00:25:27,501 --> 00:25:30,500
+it wasn't possible at all.
+
+398
+00:25:30,501 --> 00:25:34,500
+Depending on where you live, dialing 911 might connect you
+
+399
+00:25:34,501 --> 00:25:38,500
+to just one person manning a regular telephone, or to a state
+
+400
+00:25:38,501 --> 00:25:41,540
+or to a state-of-the-art emergency dispatch center,
+
+401
+00:25:41,541 --> 00:25:44,180
+like this one operated by the Los Angeles County Fire
+
+402
+00:25:44,181 --> 00:25:46,380
+Department.
+
+403
+00:25:46,381 --> 00:25:50,680
+Operators here handle an average of 1,400 calls every day.
+
+404
+00:25:50,681 --> 00:25:53,720
+Now you said you're having chest pain.
+
+405
+00:25:53,721 --> 00:25:57,680
+Los Angeles County opened its 32,000 square foot 911
+
+406
+00:25:57,681 --> 00:26:01,760
+center in 1991. What is your emergency?
+
+407
+00:26:01,761 --> 00:26:05,400
+Trouble breathing? The calls arrive
+
+408
+00:26:05,401 --> 00:26:08,000
+at the center digitally encrypted with a code
+
+409
+00:26:08,001 --> 00:26:12,300
+indicating in what part of the county it originated.
+
+410
+00:26:12,400 --> 00:26:16,540
+Los Angeles County utilizes a system known as E911,
+
+411
+00:26:16,640 --> 00:26:22,240
+or Enhanced 911. E911 accesses a computer database
+
+412
+00:26:22,340 --> 00:26:24,820
+that automatically gives the operator the physical address
+
+413
+00:26:24,920 --> 00:26:27,120
+of the caller. OK, let me confirm the address
+
+414
+00:26:27,220 --> 00:26:29,120
+is 1320 Northeastern Avenue in Los Angeles.
+
+415
+00:26:29,220 --> 00:26:33,560
+Is that correct? With one press of a key,
+
+416
+00:26:33,660 --> 00:26:36,020
+the call taker sends the nature of the emergency
+
+417
+00:26:36,021 --> 00:26:40,060
+and the caller's address to a nearby radio dispatcher.
+
+418
+00:26:40,160 --> 00:26:42,400
+The radio dispatcher's computer automatically
+
+419
+00:26:42,500 --> 00:26:45,300
+determines the closest fire station to the emergency.
+
+420
+00:26:45,400 --> 00:26:47,400
+Angel one, squad three, chest pain.
+
+421
+00:26:47,500 --> 00:26:49,940
+1320 North Eastern Avenue.
+
+422
+00:26:50,040 --> 00:26:53,200
+The computer will then send out a digital signal
+
+423
+00:26:53,300 --> 00:26:55,840
+through the airwaves, and it will then
+
+424
+00:26:55,940 --> 00:27:00,020
+be received at the fire stations with all the actual dispatch
+
+425
+00:27:00,120 --> 00:27:03,520
+information as far as the location and type of emergency
+
+426
+00:27:03,620 --> 00:27:06,020
+that they are being sent to.
+
+427
+00:27:06,021 --> 00:27:13,020
+The US Congress mandated a universal 911 system in 1968.
+
+428
+00:27:13,021 --> 00:27:17,020
+The number was chosen because it fit with other service numbers
+
+429
+00:27:17,021 --> 00:27:22,020
+like 411 for information and 611 for repairs.
+
+430
+00:27:22,021 --> 00:27:27,020
+Today, approximately 96% of the geographic US is covered by some
+
+431
+00:27:27,021 --> 00:27:32,020
+type of 911 service. In the year 2000, the system logged
+
+432
+00:27:32,021 --> 00:27:36,660
+the system logged approximately 150 million calls and saved
+
+433
+00:27:36,661 --> 00:27:40,660
+countless lives. But as more and more people adopt
+
+434
+00:27:40,661 --> 00:27:44,660
+cell phones as their primary telephone, 911 centers have a
+
+435
+00:27:44,661 --> 00:27:48,980
+more difficult time ascertaining a caller's location.
+
+436
+00:27:50,980 --> 00:27:54,980
+Older cell phones using older networks can only be traced to
+
+437
+00:27:54,981 --> 00:27:58,580
+the nearest cell tower. Since towers can be 8 or as far as
+
+438
+00:27:58,581 --> 00:28:02,340
+far as 20 miles apart, this only offers a rough idea of the
+
+439
+00:28:02,341 --> 00:28:06,580
+cell phone's location. Newer cell phones can be tracked
+
+440
+00:28:06,581 --> 00:28:10,580
+using network-based triangulation. The strength of
+
+441
+00:28:10,581 --> 00:28:13,580
+the cell phone's signal can be measured between three or four
+
+442
+00:28:13,581 --> 00:28:16,580
+cell towers, allowing for an accuracy of within two football
+
+443
+00:28:16,581 --> 00:28:20,580
+fields. The most precise method involves
+
+444
+00:28:20,581 --> 00:28:25,580
+GPS technology. GPS, short for Global Positioning
+
+445
+00:28:25,581 --> 00:28:29,120
+for Global Positioning System utilizes a constellation
+
+446
+00:28:29,121 --> 00:28:31,460
+of satellites to triangulate the location
+
+447
+00:28:31,461 --> 00:28:34,220
+of a GPS-enabled phone.
+
+448
+00:28:34,221 --> 00:28:36,500
+Roughly half of the 200 million cell phones
+
+449
+00:28:36,501 --> 00:28:39,720
+in the United States are currently GPS-enabled.
+
+450
+00:28:39,721 --> 00:28:43,640
+Prepare to turn right in 0.3 miles.
+
+451
+00:28:43,641 --> 00:28:46,260
+If you have the newer technology cell phones
+
+452
+00:28:46,261 --> 00:28:51,140
+with the GPS chips, we can pinpoint you right on the map
+
+453
+00:28:51,141 --> 00:28:53,900
+regardless of where you are located.
+
+454
+00:28:56,980 --> 00:29:00,380
+At Lucent Bell Labs in Murray Hill, New Jersey,
+
+455
+00:29:00,381 --> 00:29:03,300
+researchers have developed a new cell phone tracking service
+
+456
+00:29:03,301 --> 00:29:07,260
+called iLocator. iLocator allows a subscriber
+
+457
+00:29:07,261 --> 00:29:10,460
+to pinpoint the exact location of another GPS-enabled cell
+
+458
+00:29:10,461 --> 00:29:12,420
+phone.
+
+459
+00:29:12,421 --> 00:29:14,580
+As long as the cell phone is kept on,
+
+460
+00:29:14,581 --> 00:29:17,260
+iLocator can help parents keep track of where their children
+
+461
+00:29:17,261 --> 00:29:20,760
+are at any given moment, or help first responders locate
+
+462
+00:29:20,761 --> 00:29:23,760
+in the aftermath of a disaster.
+
+463
+00:29:23,761 --> 00:29:26,760
+In scenarios where people have their cell phones
+
+464
+00:29:26,761 --> 00:29:30,760
+but are unable to talk and they are trapped in buildings,
+
+465
+00:29:30,761 --> 00:29:33,760
+public safety officials can use location-based technologies
+
+466
+00:29:33,761 --> 00:29:37,760
+to locate where these people are.
+
+467
+00:29:37,761 --> 00:29:39,760
+The next generation of location-based technology
+
+468
+00:29:39,761 --> 00:29:45,760
+will enable a user to set up what's called a geographic fence.
+
+469
+00:29:45,761 --> 00:29:48,760
+As demonstrated here on Microsoft's Virtual Earth,
+
+470
+00:29:48,761 --> 00:29:51,660
+virtual earth. When a specified GPS-enabled
+
+471
+00:29:51,661 --> 00:29:55,800
+cell phone either enters or leaves the fence, the network will
+
+472
+00:29:55,801 --> 00:29:58,500
+automatically send a message to the user's cell phone.
+
+473
+00:29:58,501 --> 00:30:02,020
+Let's say I'm the parent. I'm the dad, and I want to create
+
+474
+00:30:02,021 --> 00:30:06,060
+a geographic fence saying, well, whenever my son enters, say, the
+
+475
+00:30:06,061 --> 00:30:08,960
+34th Street and Park Avenue, I would like to receive a message
+
+476
+00:30:08,961 --> 00:30:13,000
+saying that he reached there safely. This icon represents a
+
+477
+00:30:13,001 --> 00:30:15,860
+cell phone moving towards the designated geographic fence.
+
+478
+00:30:15,861 --> 00:30:18,860
+The moment the phone crosses the fence...
+
+479
+00:30:18,861 --> 00:30:22,860
+So my phone just went off, and this basically shows that I got
+
+480
+00:30:22,861 --> 00:30:26,860
+a text message containing exactly the text we typed in,
+
+481
+00:30:26,861 --> 00:30:28,860
+saying Rohan has reached home safe.
+
+482
+00:30:28,861 --> 00:30:31,860
+Although cell phone users must grant permission to allow
+
+483
+00:30:31,861 --> 00:30:34,860
+their phones to be tracked by iLocator, the fact that it's
+
+484
+00:30:34,861 --> 00:30:39,860
+possible at all raises issues about personal privacy.
+
+485
+00:30:39,861 --> 00:30:42,860
+As we enter a new era of increased electronic
+
+486
+00:30:42,861 --> 00:30:45,260
+increased electronic surveillance.
+
+487
+00:30:45,261 --> 00:30:47,560
+Some people are taking extra measures
+
+488
+00:30:47,561 --> 00:30:49,460
+to make sure no one is listening in.
+
+489
+00:30:52,800 --> 00:30:55,240
+When the 911 system was originally introduced,
+
+490
+00:30:55,241 --> 00:30:58,040
+it was promoted as 911 service.
+
+491
+00:30:58,041 --> 00:31:00,820
+After some panicked callers tried to find the 11 key
+
+492
+00:31:00,821 --> 00:31:04,020
+on their telephones, it was changed to 911.
+
+493
+00:31:08,180 --> 00:31:11,320
+As part of the War on Terror, President Bush
+
+494
+00:31:11,321 --> 00:31:14,560
+National Security Agency to monitor telephone calls in the
+
+495
+00:31:14,561 --> 00:31:18,120
+U.S. without obtaining a court order.
+
+496
+00:31:18,121 --> 00:31:21,460
+When the secret program was revealed by the New York Times,
+
+497
+00:31:21,461 --> 00:31:24,260
+it raised concerns about the average American's right to
+
+498
+00:31:24,261 --> 00:31:28,580
+privacy. But the truth is, you don't have
+
+499
+00:31:28,581 --> 00:31:31,180
+to be the long arm of the government to listen in on a
+
+500
+00:31:31,181 --> 00:31:33,980
+phone call. Illegal eavesdropping by
+
+501
+00:31:33,981 --> 00:31:37,620
+corporate spies or private investigators is easier than you
+
+502
+00:31:37,621 --> 00:31:41,320
+might imagine.
+
+503
+00:31:41,321 --> 00:31:43,320
+Rick Hoffman is in the technical surveillance
+
+504
+00:31:43,420 --> 00:31:48,120
+countermeasures business, or TSCM for short.
+
+505
+00:31:48,220 --> 00:31:52,160
+He fights illegal wiretappers.
+
+506
+00:31:52,260 --> 00:31:55,260
+Rick utilizes an arsenal of sophisticated equipment
+
+507
+00:31:55,360 --> 00:31:57,160
+to look for electronic devices that
+
+508
+00:31:57,260 --> 00:32:00,280
+can be tapped into a phone line to transmit or record
+
+509
+00:32:00,380 --> 00:32:01,280
+your conversations.
+
+510
+00:32:04,380 --> 00:32:06,680
+The most vulnerable spot in any residence
+
+511
+00:32:06,780 --> 00:32:09,720
+is the exterior phone box, where the phone lines enter
+
+512
+00:32:09,721 --> 00:32:13,820
+lines enter the house. We have the telephone network
+
+513
+00:32:13,821 --> 00:32:20,150
+interface box in the corner here. No special locks, no special tools to open it.
+
+514
+00:32:20,151 --> 00:32:21,020
+Open it up.
+
+515
+00:32:21,021 --> 00:32:28,220
+This is the subscriber line where the resident's phone lines come in, and these two screws right
+
+516
+00:32:28,221 --> 00:32:31,966
+here are where a wire man would attach a wiretap.
+
+517
+00:32:31,967 --> 00:32:35,560
+If no devices are found here, Rick will conduct
+
+518
+00:32:35,561 --> 00:32:39,060
+a thorough scan of the inside of the residence.
+
+519
+00:32:39,160 --> 00:32:42,100
+A nonlinear junction detector picks up signals given off
+
+520
+00:32:42,200 --> 00:32:47,900
+by components, often found in voice transmitters.
+
+521
+00:32:48,000 --> 00:32:49,600
+Even the telephone instrument itself
+
+522
+00:32:49,700 --> 00:32:52,220
+can be hiding a transmitter.
+
+523
+00:32:52,320 --> 00:32:56,320
+Instead of taking it apart, Rick uses x-rays to peer inside.
+
+524
+00:32:56,420 --> 00:32:58,820
+This is a battery-powered portable x-ray,
+
+525
+00:32:58,920 --> 00:33:01,120
+also known as a fluoroscope.
+
+526
+00:33:01,220 --> 00:33:03,520
+And having been in the countermeasures business
+
+527
+00:33:03,620 --> 00:33:05,560
+for a number of years, I am familiar with what
+
+528
+00:33:05,561 --> 00:33:08,560
+is supposed to look like so I can tell if there's something
+
+529
+00:33:08,561 --> 00:33:12,560
+that doesn't belong there.
+
+530
+00:33:12,561 --> 00:33:15,560
+And this phone is clear.
+
+531
+00:33:15,561 --> 00:33:18,560
+A wiretapper can easily tap a phone by attaching a radio
+
+532
+00:33:18,561 --> 00:33:22,560
+transmitter to the phone line.
+
+533
+00:33:22,561 --> 00:33:25,560
+Transmitters automatically turn on when a phone is taken off
+
+534
+00:33:25,561 --> 00:33:28,560
+the hook. This is a radio frequency
+
+535
+00:33:28,561 --> 00:33:32,560
+spectrum analyzer. And if there was a transmitter attached to
+
+536
+00:33:32,561 --> 00:33:35,560
+to this particular telephone, if I raise the handset,
+
+537
+00:33:35,561 --> 00:33:39,360
+we should see a pretty decent spike in this particular area.
+
+538
+00:33:39,361 --> 00:33:43,600
+And sure enough, there is a spike.
+
+539
+00:33:43,601 --> 00:33:47,080
+The spike was caused by this seemingly ordinary modular
+
+540
+00:33:47,081 --> 00:33:50,480
+adapter, which is actually a black market device that has a
+
+541
+00:33:50,481 --> 00:33:54,520
+transmitter built inside. Rick placed it on the line to
+
+542
+00:33:54,521 --> 00:33:57,520
+demonstrate how the frequency spectrum analyzer works.
+
+543
+00:33:57,521 --> 00:34:00,520
+This one is for training purposes only.
+
+544
+00:34:00,521 --> 00:34:02,020
+It does not transmit audio.
+
+545
+00:34:02,021 --> 00:34:05,420
+It's strictly for me to help train my technicians.
+
+546
+00:34:05,421 --> 00:34:08,120
+Had this been a real transmitter,
+
+547
+00:34:08,121 --> 00:34:10,520
+it would have transmitted both sides of the telephone
+
+548
+00:34:10,521 --> 00:34:14,760
+conversation up to several blocks away,
+
+549
+00:34:14,761 --> 00:34:16,760
+under the exact perfect conditions,
+
+550
+00:34:16,761 --> 00:34:19,880
+maybe even a mile or more away.
+
+551
+00:34:19,881 --> 00:34:21,980
+Whether legal or illegal,
+
+552
+00:34:21,981 --> 00:34:24,280
+electronic eavesdropping has been in practice
+
+553
+00:34:24,281 --> 00:34:27,020
+since the birth of the telephone.
+
+554
+00:34:27,021 --> 00:34:29,520
+In the early days, all the wiretapper could do
+
+555
+00:34:29,521 --> 00:34:33,260
+was physically splice into a phone line, listen in, and take
+
+556
+00:34:33,261 --> 00:34:36,760
+notes. Later, the ability to record
+
+557
+00:34:36,761 --> 00:34:39,360
+phone conversations developed along with sound recording
+
+558
+00:34:39,361 --> 00:34:43,960
+technology of the day, from pre-World War II wire
+
+559
+00:34:43,961 --> 00:34:48,480
+recorders, which captured sound on a thin steel wire, to the
+
+560
+00:34:48,481 --> 00:34:52,580
+first magnetic tape recorders of the late 1940s.
+
+561
+00:34:52,581 --> 00:34:57,480
+The invention of the transistor by Bell Labs in 1947 allowed
+
+562
+00:34:57,481 --> 00:35:00,680
+for the miniaturization of transmitters and amplifiers,
+
+563
+00:35:00,681 --> 00:35:04,380
+which could then be hidden directly inside telephones.
+
+564
+00:35:04,381 --> 00:35:08,020
+The introduction of the microprocessor in the 1970s
+
+565
+00:35:08,021 --> 00:35:11,620
+added even smaller devices to the wireman's arsenal.
+
+566
+00:35:11,621 --> 00:35:15,040
+It's now possible to hide a transmitter in something this
+
+567
+00:35:15,041 --> 00:35:17,540
+small.
+
+568
+00:35:17,541 --> 00:35:19,940
+Currently, the utmost in phone privacy
+
+569
+00:35:19,941 --> 00:35:23,140
+can be achieved by using your cell phone.
+
+570
+00:35:23,141 --> 00:35:26,080
+Today's digitally encoded wireless networks are virtually
+
+571
+00:35:26,081 --> 00:35:29,780
+impossible to listen in on. That is, without specialized
+
+572
+00:35:29,781 --> 00:35:34,320
+equipment costing half a million dollars or more.
+
+573
+00:35:34,321 --> 00:35:37,820
+Such equipment, like any wiretap device, is illegal to possess in
+
+574
+00:35:37,821 --> 00:35:40,820
+the United States. Even devices that we find
+
+575
+00:35:40,821 --> 00:35:44,140
+are immediately turned over to law enforcement.
+
+576
+00:35:44,141 --> 00:35:48,040
+It is a federal felony to possess one.
+
+577
+00:35:48,041 --> 00:35:51,040
+Up until recently, it was also a federal felony to possess
+
+578
+00:35:51,041 --> 00:35:54,480
+one of these phone tampering devices, on display at the
+
+579
+00:35:54,481 --> 00:35:59,580
+at the Computer History Museum in Mountain View, California.
+
+580
+00:35:59,581 --> 00:36:04,120
+Although it's black in color, it's known as a blue box.
+
+581
+00:36:04,121 --> 00:36:07,820
+Now obsolete, blue boxes once allowed users to freely explore
+
+582
+00:36:07,821 --> 00:36:12,440
+the phone network and get free long distance in the bargain.
+
+583
+00:36:12,441 --> 00:36:15,740
+What makes this blue box worthy of display is that it was built
+
+584
+00:36:15,741 --> 00:36:19,740
+by Steve Wozniak, who along with Steve Jobs was the co-founder
+
+585
+00:36:19,741 --> 00:36:24,320
+of Apple Computer. The users of blue boxes were known
+
+586
+00:36:24,321 --> 00:36:25,860
+as phone freakers.
+
+587
+00:36:25,960 --> 00:36:27,860
+It was a bunch of brilliant engineers
+
+588
+00:36:27,960 --> 00:36:30,360
+that had built little devices that explored cracks
+
+589
+00:36:30,460 --> 00:36:32,960
+in the phone system, and they had these devices that could
+
+590
+00:36:33,060 --> 00:36:35,860
+put normal tones into any telephone
+
+591
+00:36:35,960 --> 00:36:38,060
+and cause the whole phone networks of the world
+
+592
+00:36:38,160 --> 00:36:40,800
+to switch around, send calls on satellites and everything,
+
+593
+00:36:40,900 --> 00:36:42,240
+all for free.
+
+594
+00:36:42,340 --> 00:36:44,700
+An anonymous computer engineer, later revealed
+
+595
+00:36:44,800 --> 00:36:48,440
+to be John T. Draper, was phone freaking's most notorious
+
+596
+00:36:48,540 --> 00:36:49,680
+adherent.
+
+597
+00:36:49,780 --> 00:36:53,380
+Draper went by the code name Captain Crunch.
+
+598
+00:36:53,381 --> 00:36:54,720
+Captain Crunch got his name.
+
+599
+00:36:54,820 --> 00:36:57,620
+He got this little toy whistle out of a box of cereal,
+
+600
+00:36:57,720 --> 00:36:59,380
+the same as a lot of us did.
+
+601
+00:36:59,480 --> 00:37:03,820
+And somehow he or other phone freaks discovered
+
+602
+00:37:03,920 --> 00:37:06,900
+that the tone it puts out includes a lot of this one
+
+603
+00:37:07,000 --> 00:37:09,360
+pitch, one particular pitch that if you're
+
+604
+00:37:09,460 --> 00:37:12,200
+on a long-distance phone call, seizes the phone call
+
+605
+00:37:12,300 --> 00:37:13,660
+with a chinking sound.
+
+606
+00:37:13,760 --> 00:37:17,500
+And now the phone company is waiting obediently for tones
+
+607
+00:37:17,600 --> 00:37:18,700
+to tell it where to dial.
+
+608
+00:37:18,800 --> 00:37:21,800
+And this is the start of it all.
+
+609
+00:37:21,801 --> 00:37:24,800
+The 2600 hertz tone produced by the whistle
+
+610
+00:37:24,900 --> 00:37:27,940
+reset the multi-frequency long-distance switch,
+
+611
+00:37:28,040 --> 00:37:29,800
+which was like opening up a secret door
+
+612
+00:37:29,900 --> 00:37:32,240
+into the phone network.
+
+613
+00:37:32,340 --> 00:37:35,240
+Once inside, a phone freaker could use a blue box
+
+614
+00:37:35,340 --> 00:37:37,540
+to route a call anywhere in the world.
+
+615
+00:37:37,640 --> 00:37:41,060
+One of the times, I said, just as a make-up joke,
+
+616
+00:37:41,160 --> 00:37:42,460
+we could call the pope.
+
+617
+00:37:42,560 --> 00:37:43,560
+Sure.
+
+618
+00:37:43,660 --> 00:37:46,400
+So I called Italy inward and asked for Rome inward,
+
+619
+00:37:46,500 --> 00:37:48,060
+and I got to the Vatican inward.
+
+620
+00:37:48,160 --> 00:37:51,000
+And the Vatican operator, I said, this is Henry Kissinger.
+
+621
+00:37:51,001 --> 00:37:52,160
+I didn't even use an accent.
+
+622
+00:37:52,161 --> 00:37:53,460
+I said, this is Henry Kissinger.
+
+623
+00:37:53,461 --> 00:37:55,040
+I'm calling on behalf of President Nixon
+
+624
+00:37:55,041 --> 00:37:56,380
+at the summit meeting in Moscow.
+
+625
+00:37:56,381 --> 00:37:58,000
+We'd like to talk to the Pope.
+
+626
+00:37:58,001 --> 00:37:59,420
+They said, oh, it's 530 here.
+
+627
+00:37:59,421 --> 00:38:00,720
+He's not awake yet.
+
+628
+00:38:00,721 --> 00:38:01,560
+So call back later.
+
+629
+00:38:01,561 --> 00:38:02,880
+So I called back in an hour.
+
+630
+00:38:02,881 --> 00:38:04,560
+And they put me all the way through to the bishop, who
+
+631
+00:38:04,561 --> 00:38:06,060
+was going to be the translator.
+
+632
+00:38:06,061 --> 00:38:07,940
+And I used a Henry Kissinger type voice.
+
+633
+00:38:07,941 --> 00:38:09,600
+I said, this is Henry Kissinger.
+
+634
+00:38:09,601 --> 00:38:11,680
+And he says, I just spoke to Henry Kissinger.
+
+635
+00:38:11,681 --> 00:38:14,300
+So I guess they called Russia, called Moscow,
+
+636
+00:38:14,301 --> 00:38:16,880
+to check up on my story.
+
+637
+00:38:16,881 --> 00:38:19,640
+All multi-frequency trunk lines in the continental United
+
+638
+00:38:19,641 --> 00:38:22,640
+have now been replaced, rendering Captain Crunch whistles
+
+639
+00:38:22,641 --> 00:38:27,140
+and blue boxes obsolete as freaking devices.
+
+640
+00:38:27,141 --> 00:38:29,440
+For me, it was really a world of exploration.
+
+641
+00:38:29,441 --> 00:38:31,140
+It was really trying to extend the state of the art
+
+642
+00:38:31,141 --> 00:38:33,140
+and see how much new you can do that's even weirder.
+
+643
+00:38:33,141 --> 00:38:35,140
+And you know what? You run out of things to do,
+
+644
+00:38:35,141 --> 00:38:39,140
+and then it gets boring. Around the same time
+
+645
+00:38:39,141 --> 00:38:43,140
+Steve Wozniak was building blue boxes, AT&T was introducing
+
+646
+00:38:43,141 --> 00:38:47,140
+America to a new service that was supposed to revolutionize
+
+647
+00:38:47,141 --> 00:38:52,140
+telephony, the picture phone. Today, one innovator is putting
+
+648
+00:38:52,141 --> 00:38:59,140
+a new spin on that old idea. In 2005, law enforcement
+
+649
+00:38:59,141 --> 00:39:03,140
+authorities in the United States performed roughly 1,800 wire
+
+650
+00:39:03,141 --> 00:39:06,140
+taps, not including taps made by intelligence gathering
+
+651
+00:39:06,141 --> 00:39:13,140
+agencies. If one inventor gets his way,
+
+652
+00:39:13,141 --> 00:39:16,140
+this is how we'll be communicating in the future.
+
+653
+00:39:16,141 --> 00:39:18,300
+Hi, Brent. Hey, Jennifer.
+
+654
+00:39:20,300 --> 00:39:23,880
+Meet Sparky, a robotic video phone prototype
+
+655
+00:39:23,881 --> 00:39:25,960
+cobbled together from simple technologies.
+
+656
+00:39:27,240 --> 00:39:31,680
+As seen in this demonstration, Sparky uses two-way video cameras
+
+657
+00:39:31,681 --> 00:39:35,440
+and a radio controller to allow a person to be in one location
+
+658
+00:39:35,441 --> 00:39:39,120
+while moving around and interacting with people in a separate location.
+
+659
+00:39:40,740 --> 00:39:44,760
+Sparky is, I believe, a natural extension of what the promise
+
+660
+00:39:44,761 --> 00:39:47,000
+of the telephone was originally.
+
+661
+00:39:47,001 --> 00:39:49,760
+People are often very surprised by how comfortable they are
+
+662
+00:39:49,761 --> 00:39:51,200
+interacting with Sparky.
+
+663
+00:39:51,201 --> 00:39:52,940
+And before they know it, they're
+
+664
+00:39:52,941 --> 00:39:55,840
+having this intimate one-on-one conversation,
+
+665
+00:39:55,841 --> 00:39:57,800
+and they practically forget the fact
+
+666
+00:39:57,801 --> 00:40:01,340
+that they're really talking to a 300-pound metal device,
+
+667
+00:40:01,341 --> 00:40:05,080
+and they talk to the person like the person is right there.
+
+668
+00:40:05,081 --> 00:40:06,580
+Hi, Frank.
+
+669
+00:40:06,581 --> 00:40:09,020
+Hey, Jennifer.
+
+670
+00:40:09,021 --> 00:40:11,680
+Version 2.0 of Sparky will be encased
+
+671
+00:40:11,681 --> 00:40:14,420
+in a sleek shell and operable over the internet
+
+672
+00:40:14,421 --> 00:40:20,260
+via Wi-Fi. Sparky is an updated mobile version
+
+673
+00:40:20,261 --> 00:40:24,980
+of the original picture phone. AT&T debuted their space age
+
+674
+00:40:24,981 --> 00:40:29,320
+wonder at the 1964 World's Fair and trotted out commercial
+
+675
+00:40:29,321 --> 00:40:33,760
+service in 1970. But the picture phone never
+
+676
+00:40:33,761 --> 00:40:38,520
+caught on. Mark believes his updated version
+
+677
+00:40:38,521 --> 00:40:41,820
+would work well as a museum guide or used in a classroom
+
+678
+00:40:41,821 --> 00:40:44,620
+student or teacher can't be at school.
+
+679
+00:40:44,720 --> 00:40:46,060
+Good morning, class.
+
+680
+00:40:46,160 --> 00:40:48,460
+My name is Mrs. Townsend, and I will be your substitute
+
+681
+00:40:48,560 --> 00:40:50,860
+teacher today.
+
+682
+00:40:50,960 --> 00:40:54,360
+It's a concept known as distance learning.
+
+683
+00:40:54,460 --> 00:40:57,560
+And Robert Miller of AT&T thinks that the next generation
+
+684
+00:40:57,660 --> 00:41:00,380
+wireless network will make it a reality.
+
+685
+00:41:00,480 --> 00:41:04,680
+Distance learning is an extension of the old-fashioned
+
+686
+00:41:04,780 --> 00:41:10,520
+school, where what you're learning may be miles and miles
+
+687
+00:41:10,521 --> 00:41:15,220
+miles away from an expert or a repository of knowledge.
+
+688
+00:41:15,221 --> 00:41:18,820
+And I think robots' virtual presence
+
+689
+00:41:18,821 --> 00:41:21,740
+are ways of allowing the human mind
+
+690
+00:41:21,741 --> 00:41:24,040
+to extend itself over distance.
+
+691
+00:41:24,041 --> 00:41:28,080
+And I think that's the real power of modern communication.
+
+692
+00:41:30,840 --> 00:41:34,780
+At NASA Ames Research in Moffett Field, California,
+
+693
+00:41:34,781 --> 00:41:37,640
+researchers have upped the ante on how people might one day
+
+694
+00:41:37,641 --> 00:41:42,040
+communicate with each other and with machines.
+
+695
+00:41:42,041 --> 00:41:45,280
+These robotic rovers are being controlled with a communications
+
+696
+00:41:45,281 --> 00:41:50,160
+method that seems more like telepathy than telephony.
+
+697
+00:41:50,161 --> 00:41:53,080
+NASA calls it sub-vocal speech.
+
+698
+00:41:53,081 --> 00:41:56,000
+By use of special sensors that interpret muscle signals in the
+
+699
+00:41:56,001 --> 00:41:59,160
+larynx and tongue, these technicians are able to maneuver
+
+700
+00:41:59,161 --> 00:42:03,900
+the rovers by silently voicing certain commands.
+
+701
+00:42:03,901 --> 00:42:06,800
+What's going on here is sometimes confused with people
+
+702
+00:42:06,801 --> 00:42:07,800
+your thoughts.
+
+703
+00:42:07,801 --> 00:42:09,700
+We're not really reading your thoughts.
+
+704
+00:42:09,701 --> 00:42:11,800
+We're reading the result of a conscious decision
+
+705
+00:42:11,801 --> 00:42:13,300
+to say a word.
+
+706
+00:42:13,301 --> 00:42:16,700
+So what's happening here is Pavel is thinking of a word.
+
+707
+00:42:16,701 --> 00:42:19,440
+And as he thinks of that word, it's transformed
+
+708
+00:42:19,441 --> 00:42:23,240
+into a series of signals that are going down his nervous system
+
+709
+00:42:23,241 --> 00:42:27,660
+to his vocal tract, either in his throat or under his tongue.
+
+710
+00:42:27,661 --> 00:42:32,060
+These signals are being picked up and displayed on the screen.
+
+711
+00:42:32,061 --> 00:42:34,160
+A computer programmed to recognize
+
+712
+00:42:34,161 --> 00:42:37,860
+the signals as individual words can then send those words via
+
+713
+00:42:37,861 --> 00:42:41,760
+a wireless network to a machine like a robot or to a handheld
+
+714
+00:42:41,761 --> 00:42:43,060
+device.
+
+715
+00:42:43,061 --> 00:42:45,400
+Fire clear.
+
+716
+00:42:45,401 --> 00:42:48,200
+NASA is developing sub-vocal technology for use
+
+717
+00:42:48,201 --> 00:42:52,720
+by astronauts, firefighters, soldiers in battle, and others
+
+718
+00:42:52,721 --> 00:42:56,120
+who work in noisy environments where speech communication may
+
+719
+00:42:56,121 --> 00:42:57,420
+be difficult.
+
+720
+00:42:57,421 --> 00:43:00,220
+Personally, I'm excited about the possibility that we may
+
+721
+00:43:00,221 --> 00:43:03,020
+enable a whole new way for humans to communicate with
+
+722
+00:43:03,021 --> 00:43:05,780
+communicate with their world.
+
+723
+00:43:05,781 --> 00:43:08,260
+With technology that reads signals sent directly
+
+724
+00:43:08,261 --> 00:43:12,060
+from the brain, how long will it be before we create telephones
+
+725
+00:43:12,061 --> 00:43:15,060
+that can be embedded directly into our heads?
+
+726
+00:43:15,061 --> 00:43:18,260
+Would you want a cell phone implanted inside your tooth?
+
+727
+00:43:18,261 --> 00:43:21,380
+No matter how small they get, there's still a particular
+
+728
+00:43:21,381 --> 00:43:25,380
+comfort level in being able to hold a device as opposed to
+
+729
+00:43:25,381 --> 00:43:28,180
+having one implanted inside you.
+
+730
+00:43:28,181 --> 00:43:31,180
+So I think people will always want to have the sensation of
+
+731
+00:43:31,181 --> 00:43:33,420
+by holding something.
+
+732
+00:43:33,520 --> 00:43:35,920
+And that something is the telephone.
+
+733
+00:43:36,020 --> 00:43:38,820
+I think our world, due to communication,
+
+734
+00:43:38,920 --> 00:43:41,220
+is becoming a smaller place.
+
+735
+00:43:41,320 --> 00:43:46,220
+And the knowledge that we share is becoming so dispersed
+
+736
+00:43:46,320 --> 00:43:50,540
+that we need a good network to pull together
+
+737
+00:43:50,640 --> 00:43:52,040
+the community of humans.
+
+738
+00:43:52,140 --> 00:43:55,340
+I think in the end, it will probably keep us
+
+739
+00:43:55,440 --> 00:43:58,540
+from blowing ourselves up.
+
+740
+00:43:58,640 --> 00:44:00,040
+Saving the world.
+
+741
+00:44:00,041 --> 00:44:04,540
+Not bad for a device whose first use was to call for assistance.
+

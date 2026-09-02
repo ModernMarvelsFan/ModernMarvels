@@ -1,0 +1,3400 @@
+1
+00:00:01,000 --> 00:00:03,200
+Civilians under attack.
+
+2
+00:00:03,201 --> 00:00:06,300
+The images are surreal and unsettling.
+
+3
+00:00:06,301 --> 00:00:09,200
+In the 1950s, the threat of a Soviet nuclear attack
+
+4
+00:00:09,201 --> 00:00:11,440
+spurred an arms race, and Americans
+
+5
+00:00:11,441 --> 00:00:13,340
+learned to duck and cover.
+
+6
+00:00:13,341 --> 00:00:16,440
+Today, there are new enemies wielding new weapons.
+
+7
+00:00:16,441 --> 00:00:18,960
+Duck and cover has been replaced by duct tape
+
+8
+00:00:18,961 --> 00:00:20,160
+and plastic sheeting.
+
+9
+00:00:20,161 --> 00:00:22,760
+And there's a new technological arms race underway,
+
+10
+00:00:22,761 --> 00:00:26,120
+as science tries to stay one step ahead of the terrorist
+
+11
+00:00:26,121 --> 00:00:27,160
+threat.
+
+12
+00:00:27,161 --> 00:00:29,760
+Find out what technology can do to keep you and your family
+
+13
+00:00:29,761 --> 00:00:30,660
+safe.
+
+14
+00:00:47,680 --> 00:00:51,740
+June 22, 2001.
+
+15
+00:00:51,840 --> 00:00:55,020
+A senior level war game codenamed Dark Winter
+
+16
+00:00:55,120 --> 00:00:59,760
+gets underway at Andrews Air Force Base in Washington, DC.
+
+17
+00:00:59,761 --> 00:01:03,060
+Wargaming is a time-honored practice in the US military
+
+18
+00:01:03,160 --> 00:01:06,200
+to test readiness and strategy.
+
+19
+00:01:06,300 --> 00:01:08,000
+But this scenario is different.
+
+20
+00:01:08,100 --> 00:01:12,200
+This time, the fictional enemy is a terrorist group.
+
+21
+00:01:12,300 --> 00:01:15,100
+The target is the American public.
+
+22
+00:01:15,200 --> 00:01:20,620
+And the weapon is a biological agent, smallpox.
+
+23
+00:01:20,720 --> 00:01:23,720
+The fictional scenario begins with terrorists unleashing
+
+24
+00:01:23,820 --> 00:01:26,720
+the deadly virus in shopping malls in three states.
+
+25
+00:01:29,760 --> 00:01:31,760
+The purpose of the dark winter exercise
+
+26
+00:01:31,860 --> 00:01:34,160
+was to see how ready the country was to deal
+
+27
+00:01:34,260 --> 00:01:35,860
+with this new type of threat.
+
+28
+00:01:35,960 --> 00:01:38,160
+How ready were we?
+
+29
+00:01:38,260 --> 00:01:39,160
+We shall see.
+
+30
+00:01:52,860 --> 00:01:55,360
+The threat of large-scale attacks on American civilians
+
+31
+00:01:55,460 --> 00:01:57,560
+is not new.
+
+32
+00:01:57,561 --> 00:02:00,200
+Long before the rise of international terrorist groups,
+
+33
+00:02:00,300 --> 00:02:02,800
+Americans had plenty to fear from foreign armies.
+
+34
+00:02:06,600 --> 00:02:08,540
+And many of the technologies being developed
+
+35
+00:02:08,640 --> 00:02:12,040
+to protect Americans today are based on concepts that date
+
+36
+00:02:12,140 --> 00:02:13,740
+back to the World Wars.
+
+37
+00:02:13,840 --> 00:02:16,920
+A soldier from World War I would easily recognize
+
+38
+00:02:17,020 --> 00:02:18,420
+the gas masks of today.
+
+39
+00:02:21,820 --> 00:02:25,080
+And the recent creation of a Department of Homeland Security
+
+40
+00:02:25,081 --> 00:02:29,080
+wouldn't have surprised President Franklin Roosevelt.
+
+41
+00:02:29,180 --> 00:02:31,380
+FDR called his homeland security outfit
+
+42
+00:02:31,480 --> 00:02:34,720
+the Office of Civilian Defense.
+
+43
+00:02:34,820 --> 00:02:38,620
+It was formed in May of 1941, even before America's entry
+
+44
+00:02:38,720 --> 00:02:41,700
+into World War II, to protect against sneak attacks
+
+45
+00:02:41,800 --> 00:02:44,060
+on American cities by the Axis powers.
+
+46
+00:02:48,400 --> 00:02:50,300
+During the Cold War, American civilians
+
+47
+00:02:50,400 --> 00:02:54,080
+had a new reason to be fearful.
+
+48
+00:02:54,081 --> 00:02:56,820
+They had witnessed the destructive force of the atomic bombs
+
+49
+00:02:56,920 --> 00:02:59,860
+dropped on Japanese cities to end World War II,
+
+50
+00:02:59,960 --> 00:03:01,620
+and they knew the Soviet Union now
+
+51
+00:03:01,720 --> 00:03:07,020
+had the ability to devastate American cities in the same way.
+
+52
+00:03:07,120 --> 00:03:09,600
+Technology couldn't stop a nuclear bomb,
+
+53
+00:03:09,700 --> 00:03:11,560
+but it could give residents early warning
+
+54
+00:03:11,660 --> 00:03:13,360
+of an impending air raid.
+
+55
+00:03:13,460 --> 00:03:17,040
+A national radar system was developed.
+
+56
+00:03:17,140 --> 00:03:19,180
+A radiological service was formed,
+
+57
+00:03:19,280 --> 00:03:24,080
+using early radiation detectors to test for nuclear fallout.
+
+58
+00:03:24,081 --> 00:03:26,540
+An especially trained chemical corps prepared
+
+59
+00:03:26,640 --> 00:03:28,020
+against a possible gas attack.
+
+60
+00:03:31,320 --> 00:03:32,980
+The best the technology had to offer
+
+61
+00:03:33,080 --> 00:03:36,820
+for surviving a nuclear blast was concrete, and lots of it.
+
+62
+00:03:39,820 --> 00:03:42,640
+In Los Angeles, the local Civil Defense Planning Board
+
+63
+00:03:42,740 --> 00:03:45,140
+drafted a survival plan to prepare residents
+
+64
+00:03:45,240 --> 00:03:48,640
+for nuclear attack.
+
+65
+00:03:48,740 --> 00:03:51,280
+They recommended civilians build underground shelters
+
+66
+00:03:51,281 --> 00:03:55,880
+of reinforced concrete covered with three feet of earth
+
+67
+00:03:55,980 --> 00:03:58,980
+and supplied with air intake filters.
+
+68
+00:03:59,080 --> 00:04:04,320
+A two-person unit was estimated to cost $6,000.
+
+69
+00:04:04,420 --> 00:04:06,460
+As recently as 1980, the government
+
+70
+00:04:06,560 --> 00:04:08,360
+was still recommending concrete shelters
+
+71
+00:04:08,460 --> 00:04:11,840
+for protection from nuclear attack.
+
+72
+00:04:11,940 --> 00:04:16,180
+They issued guides to homeowners on how to build them.
+
+73
+00:04:16,280 --> 00:04:18,780
+There's really no technology at all.
+
+74
+00:04:18,880 --> 00:04:19,980
+It's basic.
+
+75
+00:04:19,981 --> 00:04:22,380
+If you want to sit down, there's a wood bench.
+
+76
+00:04:22,480 --> 00:04:24,780
+So you want to lay down, there's a cot.
+
+77
+00:04:24,880 --> 00:04:27,720
+If you want some water, there's a bucket over the corner
+
+78
+00:04:27,820 --> 00:04:28,880
+with water in it.
+
+79
+00:04:28,980 --> 00:04:33,420
+So that's the technology they had at that time.
+
+80
+00:04:33,520 --> 00:04:36,220
+When the Cold War thawed, bomb shelters were abandoned,
+
+81
+00:04:36,320 --> 00:04:39,740
+and many expected a time of extended peace.
+
+82
+00:04:39,840 --> 00:04:42,540
+But civilians here and abroad are facing new threats,
+
+83
+00:04:42,640 --> 00:04:45,240
+not just from governments, but from terrorist groups.
+
+84
+00:04:45,241 --> 00:04:49,840
+Civilians today are warned to be prepared for a chemical,
+
+85
+00:04:49,940 --> 00:04:53,240
+biological, or radiological attack.
+
+86
+00:04:53,340 --> 00:04:55,820
+And they're looking to technology for new ways
+
+87
+00:04:55,920 --> 00:04:58,580
+to protect their homes and families.
+
+88
+00:04:58,680 --> 00:05:00,480
+In the face of these new threats,
+
+89
+00:05:00,580 --> 00:05:02,620
+some wealthy individuals in Los Angeles
+
+90
+00:05:02,720 --> 00:05:08,100
+are taking the old bomb shelter concept to the extreme.
+
+91
+00:05:08,200 --> 00:05:10,400
+We're building a terrorist-proof home here,
+
+92
+00:05:10,500 --> 00:05:12,860
+and I'd like to point out some of the items
+
+93
+00:05:12,861 --> 00:05:15,960
+some of the items that we're providing this home
+
+94
+00:05:15,961 --> 00:05:18,000
+to make it terrorist-proof.
+
+95
+00:05:18,001 --> 00:05:20,340
+For years, Bill Rigdon and his company,
+
+96
+00:05:20,341 --> 00:05:23,040
+Building Consensus, designed panic rooms
+
+97
+00:05:23,041 --> 00:05:25,400
+to shield celebrities and other wealthy clients
+
+98
+00:05:25,401 --> 00:05:27,500
+from home invaders.
+
+99
+00:05:27,501 --> 00:05:31,740
+Lately, his clients have been calling with new fears.
+
+100
+00:05:31,741 --> 00:05:34,340
+Someone had mentioned on the media
+
+101
+00:05:34,341 --> 00:05:37,080
+that we were going to be attacked with a nuclear bomb
+
+102
+00:05:37,081 --> 00:05:38,120
+here in LA.
+
+103
+00:05:38,121 --> 00:05:39,780
+So we got a call.
+
+104
+00:05:39,781 --> 00:05:46,740
+the next day a guy was concerned that he was going to be attacked by a nuclear bomb,
+
+105
+00:05:47,000 --> 00:05:50,871
+that he personally felt that he was going to be attacked.
+
+106
+00:05:50,872 --> 00:05:53,520
+We went to that residence and basically
+
+107
+00:05:53,521 --> 00:06:00,820
+made that room nuclear proof. Former FBI agent Mark Llewellyn works with Rigdon.
+
+108
+00:06:01,640 --> 00:06:07,340
+In today's environment, with all the terrorist alerts, a lot of people have come to us looking
+
+109
+00:06:07,341 --> 00:06:12,020
+for advice and consultation on how they can better be safe in their homes, how they can
+
+110
+00:06:12,021 --> 00:06:13,840
+protect their families.
+
+111
+00:06:13,841 --> 00:06:18,900
+Some of the advice we give them is very common sense type advice, just like you hear it on
+
+112
+00:06:18,901 --> 00:06:23,300
+the news every day, to be vigilant, to look out for strange things around you.
+
+113
+00:06:23,301 --> 00:06:28,440
+And then when we get to the far extreme, there's the safe room, and that's another mechanism
+
+114
+00:06:28,441 --> 00:06:32,540
+that they can add in their repertoire of things to do to protect their families.
+
+115
+00:06:32,541 --> 00:06:35,080
+Now we're going to be over here looking at the side of the home.
+
+116
+00:06:35,081 --> 00:06:37,480
+to give us a rare look inside a safe room
+
+117
+00:06:37,580 --> 00:06:39,560
+that's in the early stages of construction
+
+118
+00:06:39,660 --> 00:06:42,560
+outside of Los Angeles.
+
+119
+00:06:42,660 --> 00:06:45,460
+You can see by walking down this corridor how wide it is.
+
+120
+00:06:45,560 --> 00:06:47,460
+And that's for a reason, because we
+
+121
+00:06:47,560 --> 00:06:52,460
+want to have this access way into this part of the house
+
+122
+00:06:52,560 --> 00:06:55,060
+be very usable during an emergency.
+
+123
+00:06:55,160 --> 00:06:56,700
+If it's late at night, you're groggy,
+
+124
+00:06:56,800 --> 00:06:58,500
+you're walking around, you're trying to figure out
+
+125
+00:06:58,600 --> 00:07:02,580
+and orientate yourself, this is where the panic room door
+
+126
+00:07:02,680 --> 00:07:03,640
+will be.
+
+127
+00:07:03,641 --> 00:07:04,640
+It's in a pocket.
+
+128
+00:07:04,740 --> 00:07:07,080
+It's going to slam out and close.
+
+129
+00:07:07,180 --> 00:07:08,480
+You better not be standing here.
+
+130
+00:07:08,580 --> 00:07:11,040
+And it is blast proof.
+
+131
+00:07:11,140 --> 00:07:12,720
+It's bullet proof.
+
+132
+00:07:12,820 --> 00:07:13,980
+It's slam proof.
+
+133
+00:07:14,080 --> 00:07:17,120
+It's everything.
+
+134
+00:07:17,220 --> 00:07:19,420
+A popular item among Rigdon's clients
+
+135
+00:07:19,520 --> 00:07:21,700
+are anti-ballistic wall panels.
+
+136
+00:07:21,800 --> 00:07:25,100
+They're made of Kevlar, the same material as bulletproof vests
+
+137
+00:07:25,200 --> 00:07:28,600
+and are blast resistant and fireproof.
+
+138
+00:07:28,700 --> 00:07:31,040
+Here we have the material that we're going to bolt
+
+139
+00:07:31,140 --> 00:07:32,100
+onto the walls here.
+
+140
+00:07:32,101 --> 00:07:33,640
+We took this down to the firing range
+
+141
+00:07:33,641 --> 00:07:36,500
+and fired a .22 caliber bullet here.
+
+142
+00:07:36,501 --> 00:07:45,540
+We fired a .357, .44, and also another .44 round and a .45.
+
+143
+00:07:45,541 --> 00:07:48,680
+You can see that also you have different thicknesses
+
+144
+00:07:48,681 --> 00:07:49,980
+of this material.
+
+145
+00:07:49,981 --> 00:07:52,820
+This is a very thin piece, and this is a level one.
+
+146
+00:07:52,821 --> 00:07:55,520
+This will stop like a .22 round.
+
+147
+00:07:55,521 --> 00:07:58,300
+This material is level two.
+
+148
+00:07:58,301 --> 00:08:03,040
+It'll stop up to a larger caliber handgun.
+
+149
+00:08:03,140 --> 00:08:04,500
+And then we go to level three.
+
+150
+00:08:04,600 --> 00:08:06,000
+You can see the thickness here.
+
+151
+00:08:06,100 --> 00:08:08,940
+It's about double of what we have here.
+
+152
+00:08:09,040 --> 00:08:11,880
+The reason we're going thicker on this particular project,
+
+153
+00:08:11,980 --> 00:08:13,040
+they want that.
+
+154
+00:08:13,140 --> 00:08:17,980
+They want that additional protection and the fireproofing.
+
+155
+00:08:18,080 --> 00:08:20,560
+In addition to absorbing a conventional bomb blast,
+
+156
+00:08:20,660 --> 00:08:22,560
+some clients want added protection
+
+157
+00:08:22,660 --> 00:08:27,020
+from chemical, biological, or radiological attack.
+
+158
+00:08:27,021 --> 00:08:31,060
+We're going to come into this room if there is a germ warfare
+
+159
+00:08:31,160 --> 00:08:34,520
+attack down in LA, or if there is a dirty bomb,
+
+160
+00:08:34,620 --> 00:08:38,140
+or an explosion of an atomic bomb, a suitcase bomb down
+
+161
+00:08:38,240 --> 00:08:39,140
+in LA.
+
+162
+00:08:39,240 --> 00:08:42,400
+You can come into this room, which is going to have a thick
+
+163
+00:08:42,500 --> 00:08:43,900
+plastic material.
+
+164
+00:08:44,000 --> 00:08:45,740
+It's going to come up from the floor.
+
+165
+00:08:45,840 --> 00:08:47,340
+It's going to come up to the walls.
+
+166
+00:08:47,440 --> 00:08:50,840
+And what that does, it seals off anything coming inside,
+
+167
+00:08:50,940 --> 00:08:52,340
+any germ warfare.
+
+168
+00:08:52,440 --> 00:08:56,820
+Layer two will be the lead lining that's going to go over
+
+169
+00:08:56,821 --> 00:08:59,320
+that plastic to protect you from radiation.
+
+170
+00:08:59,420 --> 00:09:01,860
+Layer three will be the Kevlar.
+
+171
+00:09:01,960 --> 00:09:04,920
+Those bullet-resistant, blast-resistant panels,
+
+172
+00:09:05,020 --> 00:09:07,160
+and layer four will be the drywall.
+
+173
+00:09:07,260 --> 00:09:10,160
+That will go over the Kevlar panels,
+
+174
+00:09:10,260 --> 00:09:13,740
+and you will have a totally secured room.
+
+175
+00:09:13,840 --> 00:09:16,080
+And thanks to advances in anti-ballistic glass
+
+176
+00:09:16,180 --> 00:09:21,380
+technology, you can now get a safe room with a view.
+
+177
+00:09:21,480 --> 00:09:23,880
+We're going to be installing these windows.
+
+178
+00:09:23,980 --> 00:09:26,380
+And the reason I'm not going to hold up the window
+
+179
+00:09:26,381 --> 00:09:28,620
+The window in this opening is the density.
+
+180
+00:09:28,720 --> 00:09:30,320
+They're so heavy.
+
+181
+00:09:30,420 --> 00:09:33,120
+This window is absorbing a blast generated by a bomb
+
+182
+00:09:33,220 --> 00:09:36,320
+nearly 1 1⁄2 times as powerful as the one that destroyed
+
+183
+00:09:36,420 --> 00:09:38,820
+the Oklahoma City Federal Building.
+
+184
+00:09:38,920 --> 00:09:42,620
+I'm going to set this down before my arm falls off.
+
+185
+00:09:42,720 --> 00:09:44,340
+After an attack, a family might have
+
+186
+00:09:44,440 --> 00:09:47,440
+to spend as long as 72 hours in their safe room.
+
+187
+00:09:47,540 --> 00:09:52,140
+Clean air and water are essential.
+
+188
+00:09:52,240 --> 00:09:54,780
+Rigdon offers high-efficiency particulate air,
+
+189
+00:09:54,781 --> 00:09:58,180
+or HEPA filters to remove chemicals and bacteria
+
+190
+00:09:58,181 --> 00:10:00,120
+from the air.
+
+191
+00:10:00,121 --> 00:10:04,020
+Anthrax, germ warfare, whatever they're throwing out there,
+
+192
+00:10:04,021 --> 00:10:05,700
+we're going to be protected in here.
+
+193
+00:10:05,701 --> 00:10:07,720
+What if someone poisons the water?
+
+194
+00:10:07,721 --> 00:10:09,520
+If you look at the wall here, these pipes
+
+195
+00:10:09,521 --> 00:10:11,400
+are going through a filtration system.
+
+196
+00:10:11,401 --> 00:10:13,700
+It's going to take all the contaminants out
+
+197
+00:10:13,701 --> 00:10:17,560
+and put in a separate tank so you have a long duration
+
+198
+00:10:17,561 --> 00:10:21,280
+of water you'll be able to use in your home in case someone
+
+199
+00:10:21,281 --> 00:10:24,780
+contaminates the water supply that's coming in here.
+
+200
+00:10:24,781 --> 00:10:27,420
+Terrorist-proof safe rooms are expensive.
+
+201
+00:10:27,520 --> 00:10:30,720
+This one costs over $500,000.
+
+202
+00:10:30,820 --> 00:10:32,480
+For high-profile people whose homes
+
+203
+00:10:32,580 --> 00:10:34,920
+might be direct targets of terrorist attack,
+
+204
+00:10:35,020 --> 00:10:37,020
+the expense may be justified.
+
+205
+00:10:37,120 --> 00:10:40,020
+But what about for the average citizen?
+
+206
+00:10:40,120 --> 00:10:41,940
+If you're a movie star or something like that,
+
+207
+00:10:42,040 --> 00:10:44,440
+yeah, you could, in fact, be more likely to be targeted
+
+208
+00:10:44,540 --> 00:10:48,040
+as someone who might use conventional or unconventional
+
+209
+00:10:48,140 --> 00:10:49,740
+means to attack you.
+
+210
+00:10:49,840 --> 00:10:51,440
+I think for the general population, though,
+
+211
+00:10:51,540 --> 00:10:53,880
+to think about having a safe room, again,
+
+212
+00:10:53,881 --> 00:10:56,580
+again is probably overkill.
+
+213
+00:10:56,581 --> 00:10:59,580
+You have to think of where is the most logical place
+
+214
+00:10:59,581 --> 00:11:01,280
+for a terrorist attack.
+
+215
+00:11:01,281 --> 00:11:04,020
+And certainly it's not going to be out in the countryside
+
+216
+00:11:04,021 --> 00:11:06,120
+on somebody's lone farm.
+
+217
+00:11:06,121 --> 00:11:09,420
+It's more likely to happen in a major metropolitan area.
+
+218
+00:11:09,421 --> 00:11:11,340
+It may be an entertainment area.
+
+219
+00:11:11,341 --> 00:11:13,840
+It may be a place that has amusement park close to it.
+
+220
+00:11:13,841 --> 00:11:16,340
+However, terrorists may target an area
+
+221
+00:11:16,341 --> 00:11:18,040
+which is close enough to the home
+
+222
+00:11:18,041 --> 00:11:19,440
+where they may feel threatened
+
+223
+00:11:19,441 --> 00:11:21,140
+and they may feel they need this safe room
+
+224
+00:11:21,141 --> 00:11:22,440
+to protect their family.
+
+225
+00:11:22,441 --> 00:11:24,400
+We're looking out here to Los Angeles right now.
+
+226
+00:11:24,401 --> 00:11:27,140
+If there was a terrorist act somewhere in Los Angeles,
+
+227
+00:11:27,141 --> 00:11:28,500
+you could see it from right here.
+
+228
+00:11:28,501 --> 00:11:31,180
+But you'd be safe in your home that you knew no one
+
+229
+00:11:31,181 --> 00:11:31,881
+could come and get you.
+
+230
+00:11:34,880 --> 00:11:38,080
+The engineers at BMW have taken the safe room concept
+
+231
+00:11:38,081 --> 00:11:38,800
+out on the road.
+
+232
+00:11:41,540 --> 00:11:44,000
+The 760i high security model seems
+
+233
+00:11:44,001 --> 00:11:46,100
+to have rolled out of a science fiction movie.
+
+234
+00:11:52,440 --> 00:11:56,580
+It can repel bullets and grenades.
+
+235
+00:11:56,680 --> 00:12:00,580
+And high-tech sensors constantly sniff the air for a gas attack,
+
+236
+00:12:00,680 --> 00:12:03,980
+hermetically sealing the cabin at the first sign of danger
+
+237
+00:12:04,080 --> 00:12:09,160
+and providing passengers with fresh, breathable oxygen.
+
+238
+00:12:09,260 --> 00:12:11,160
+Not yet available in the United States,
+
+239
+00:12:11,260 --> 00:12:14,620
+this fortress on wheels is favored by heads of state
+
+240
+00:12:14,720 --> 00:12:16,860
+and costs over $200,000.
+
+241
+00:12:16,861 --> 00:12:21,860
+$500,000.
+
+242
+00:12:21,960 --> 00:12:24,260
+Next, a look at affordable technologies
+
+243
+00:12:24,360 --> 00:12:25,960
+to safeguard your home and family.
+
+244
+00:12:32,700 --> 00:12:35,240
+It's day two of the dark winter war game,
+
+245
+00:12:35,340 --> 00:12:39,240
+simulating a smallpox attack on America.
+
+246
+00:12:39,340 --> 00:12:41,560
+Already, communications are breaking down
+
+247
+00:12:41,660 --> 00:12:44,120
+among the exercise participants.
+
+248
+00:12:44,220 --> 00:12:46,060
+Police, medical, and government personnel
+
+249
+00:12:46,061 --> 00:12:48,400
+are having trouble figuring out chain of command.
+
+250
+00:12:48,500 --> 00:12:49,900
+Slassen and Telegraph.
+
+251
+00:12:50,000 --> 00:12:52,560
+Citizens in the affected states are starting to panic.
+
+252
+00:12:55,400 --> 00:12:58,140
+The threat of a large-scale chemical or biological attack,
+
+253
+00:12:58,240 --> 00:13:00,900
+like the one in the dark winter scenario,
+
+254
+00:13:01,000 --> 00:13:04,720
+has led some Americans to purchase gas masks.
+
+255
+00:13:04,820 --> 00:13:08,420
+Most consumer gas masks work by filtering contaminated air
+
+256
+00:13:08,520 --> 00:13:11,260
+through a special canister.
+
+257
+00:13:11,360 --> 00:13:13,160
+Air first passes through a HEPA filter,
+
+258
+00:13:13,260 --> 00:13:15,020
+which removes the tiny particles that
+
+259
+00:13:15,021 --> 00:13:17,620
+that may contain viruses, bacteria,
+
+260
+00:13:17,621 --> 00:13:20,320
+and other biological agents.
+
+261
+00:13:20,321 --> 00:13:22,560
+Next, a specially treated bed of carbon
+
+262
+00:13:22,561 --> 00:13:26,360
+filters out gases like sarin, VX, and mustard gas.
+
+263
+00:13:30,540 --> 00:13:34,740
+Although they were widely used by soldiers in World War I,
+
+264
+00:13:34,741 --> 00:13:37,680
+the first wide-scale use of gas masks by civilians
+
+265
+00:13:37,681 --> 00:13:42,880
+took place in Britain during the German Blitz of World War II.
+
+266
+00:13:42,881 --> 00:13:44,520
+The British government was so certain
+
+267
+00:13:44,521 --> 00:13:47,920
+that the Nazis would use gas warfare against their cities,
+
+268
+00:13:47,921 --> 00:13:52,660
+that masks were issued to all citizens.
+
+269
+00:13:52,661 --> 00:13:56,000
+Most Britons got the general civilian respirator,
+
+270
+00:13:56,001 --> 00:13:58,100
+which was molded from a single piece of rubber
+
+271
+00:13:58,101 --> 00:13:59,560
+and came in four different sizes.
+
+272
+00:14:02,300 --> 00:14:04,300
+The helmet respirator was designed for people
+
+273
+00:14:04,301 --> 00:14:07,340
+with special medical needs, like asthma.
+
+274
+00:14:07,341 --> 00:14:12,440
+It used a hand-powered bellows to assist with breathing.
+
+275
+00:14:12,441 --> 00:14:15,180
+The baby protective helmet worked much the same way.
+
+276
+00:14:17,980 --> 00:14:20,340
+Over 100 million civilian respirators
+
+277
+00:14:20,440 --> 00:14:22,480
+were distributed in Britain during the war.
+
+278
+00:14:25,520 --> 00:14:27,980
+Despite months of conventional bombing,
+
+279
+00:14:28,080 --> 00:14:31,900
+the German gas attack never came.
+
+280
+00:14:32,000 --> 00:14:34,820
+During World War II, there was no wide-scale distribution
+
+281
+00:14:34,920 --> 00:14:38,600
+of gas masks to American civilians.
+
+282
+00:14:38,700 --> 00:14:41,240
+But immediately after the bombing of Pearl Harbor,
+
+283
+00:14:41,241 --> 00:14:46,080
+Noncombatant masks were issued to civilians in Hawaii.
+
+284
+00:14:46,180 --> 00:14:48,180
+Every child got one.
+
+285
+00:14:48,280 --> 00:14:51,280
+Some were even issued the so-called bunny mask,
+
+286
+00:14:51,380 --> 00:14:54,580
+which was meant to make gas mask wearing fun for kids.
+
+287
+00:14:57,520 --> 00:15:00,260
+The first wide-scale civilian distribution of gas masks
+
+288
+00:15:00,360 --> 00:15:04,000
+since World War II took place in Israel in 1990
+
+289
+00:15:04,100 --> 00:15:07,300
+at the start of the first Gulf War.
+
+290
+00:15:07,400 --> 00:15:10,160
+With Iraqi Scud missiles targeting their country,
+
+291
+00:15:10,161 --> 00:15:14,260
+Israeli officials feared a chemical attack.
+
+292
+00:15:14,360 --> 00:15:17,100
+Just as the British had done 50 years earlier,
+
+293
+00:15:17,200 --> 00:15:22,140
+the Israeli government issued gas masks to all citizens.
+
+294
+00:15:22,240 --> 00:15:27,040
+As in Britain, the chemical attack never came.
+
+295
+00:15:27,140 --> 00:15:30,240
+According to the Associated Press, two Israelis
+
+296
+00:15:30,340 --> 00:15:34,120
+died during the war from conventional scud attacks.
+
+297
+00:15:34,220 --> 00:15:37,960
+But 11 died in the panic, either from heart attacks
+
+298
+00:15:37,961 --> 00:15:41,660
+or misuse of gas masks.
+
+299
+00:15:41,760 --> 00:15:43,860
+Still, many Americans are wondering
+
+300
+00:15:43,960 --> 00:15:46,800
+if they should buy masks to protect themselves from attack
+
+301
+00:15:46,900 --> 00:15:50,000
+with unconventional weapons.
+
+302
+00:15:50,100 --> 00:15:52,200
+In the days after September 11, there
+
+303
+00:15:52,300 --> 00:15:57,720
+was a run on gas masks at military surplus stores.
+
+304
+00:15:57,820 --> 00:16:00,920
+Not all masks are created equal, so it's important to know
+
+305
+00:16:01,020 --> 00:16:03,020
+what you're buying.
+
+306
+00:16:03,120 --> 00:16:04,420
+To don this mask...
+
+307
+00:16:04,520 --> 00:16:06,920
+Dan Skrimsher is an expert on protection
+
+308
+00:16:06,921 --> 00:16:09,380
+from chemical and biological terrorism.
+
+309
+00:16:09,480 --> 00:16:11,720
+His company, Tricon Environmental,
+
+310
+00:16:11,820 --> 00:16:14,760
+sells a wide range of gas masks, including
+
+311
+00:16:14,860 --> 00:16:19,360
+the affordable Survive Air Quick 2000 Escape Hood.
+
+312
+00:16:19,460 --> 00:16:23,300
+It comes in a heavy-duty seal foil bag.
+
+313
+00:16:23,400 --> 00:16:26,700
+Nothing more than tearing the top of the bag off.
+
+314
+00:16:26,800 --> 00:16:31,580
+And just pull the mask out, open it up, and insert your head.
+
+315
+00:16:31,680 --> 00:16:34,780
+It has a nose clip inside that you can pull to adjust
+
+316
+00:16:34,880 --> 00:16:36,380
+to fit your nose.
+
+317
+00:16:36,381 --> 00:16:41,280
+This mask can sell for $126 to $176.
+
+318
+00:16:41,380 --> 00:16:44,220
+This mask has upwards to a two-hour rating,
+
+319
+00:16:44,320 --> 00:16:48,360
+no more than that, for chemical, biological, smoke, dust,
+
+320
+00:16:48,460 --> 00:16:51,520
+fumes, mist.
+
+321
+00:16:51,620 --> 00:16:54,160
+The neoteric homeland hood promises
+
+322
+00:16:54,260 --> 00:16:57,960
+the added protection of nuclear, biological, and chemical,
+
+323
+00:16:58,060 --> 00:17:01,480
+or NBC, filters.
+
+324
+00:17:01,580 --> 00:17:04,300
+It will filter out certain chemical agents,
+
+325
+00:17:04,301 --> 00:17:10,840
+as well as two forms of nuclear contamination, alpha and beta.
+
+326
+00:17:10,940 --> 00:17:14,540
+It will not filter out gamma.
+
+327
+00:17:14,640 --> 00:17:16,880
+The OptiFit full facepiece respirator
+
+328
+00:17:16,980 --> 00:17:19,920
+also uses NBC filters.
+
+329
+00:17:20,020 --> 00:17:22,660
+In field tests, it protected the wearer from mustard gas
+
+330
+00:17:22,760 --> 00:17:24,660
+for over two hours.
+
+331
+00:17:24,760 --> 00:17:28,620
+It costs around $200.
+
+332
+00:17:28,720 --> 00:17:32,500
+Even the best mask is worthless without a good seal.
+
+333
+00:17:32,501 --> 00:17:36,000
+A good way to tell if you have a seal
+
+334
+00:17:36,100 --> 00:17:39,200
+is to simply close off for just a moment
+
+335
+00:17:39,300 --> 00:17:42,240
+the inlet to the cartridges, breathe in or exhale
+
+336
+00:17:42,340 --> 00:17:45,440
+to see if there's a negative pressure felt inside the mask.
+
+337
+00:17:45,540 --> 00:17:49,660
+If there is, you should have a good seal on the face.
+
+338
+00:17:49,760 --> 00:17:51,160
+For even more protection,
+
+339
+00:17:51,260 --> 00:17:54,360
+you can get a full chemical biological protective suit.
+
+340
+00:17:57,300 --> 00:18:00,460
+These are primarily sold to the law enforcement, EMS,
+
+341
+00:18:00,461 --> 00:18:02,660
+and medical and fire department personnel.
+
+342
+00:18:02,760 --> 00:18:06,600
+However, we have sold some of these to private citizens
+
+343
+00:18:06,700 --> 00:18:09,060
+for their own personal use.
+
+344
+00:18:09,160 --> 00:18:13,400
+This may be a bit much for home protection.
+
+345
+00:18:13,500 --> 00:18:16,500
+This strange-looking battery-powered contraption
+
+346
+00:18:16,600 --> 00:18:21,220
+promises to protect your baby from contaminated air.
+
+347
+00:18:21,320 --> 00:18:24,160
+It even comes with a pouch that can deliver formula
+
+348
+00:18:24,260 --> 00:18:27,020
+to your infant through a tube.
+
+349
+00:18:27,021 --> 00:18:32,700
+You have the option of carrying your infant out of harm's way,
+
+350
+00:18:32,960 --> 00:18:36,960
+or you can also transport the infant in a backpack mode
+
+351
+00:18:36,961 --> 00:18:39,920
+by simply taking the straps and applying it to your back.
+
+352
+00:18:41,280 --> 00:18:44,740
+There is also a respirator available for slightly older children.
+
+353
+00:18:45,800 --> 00:18:49,000
+It looks a lot like its counterpart from half a century ago,
+
+354
+00:18:49,420 --> 00:18:53,340
+only this model uses a motorized blower to get air into the suit.
+
+355
+00:18:57,020 --> 00:19:00,320
+And thanks to technology, no member of the family
+
+356
+00:19:00,420 --> 00:19:02,420
+needs to go unprotected.
+
+357
+00:19:02,520 --> 00:19:05,320
+Energizing the units.
+
+358
+00:19:05,420 --> 00:19:08,760
+The pet shield promises to give your dog or cat
+
+359
+00:19:08,860 --> 00:19:12,560
+six hours' worth of contaminant-free air.
+
+360
+00:19:12,660 --> 00:19:15,580
+Some experts doubt that masks and respirators
+
+361
+00:19:15,680 --> 00:19:19,080
+are necessary for the average person.
+
+362
+00:19:19,180 --> 00:19:21,480
+What the government recommends is being prepared
+
+363
+00:19:21,580 --> 00:19:26,420
+to seal up doors and vents in a room in your house.
+
+364
+00:19:26,421 --> 00:19:29,560
+Duct tape is commonly recommended,
+
+365
+00:19:29,660 --> 00:19:34,220
+but a new product called Chem Tape promises to provide extra
+
+366
+00:19:34,320 --> 00:19:37,060
+protection against chemical attack.
+
+367
+00:19:37,160 --> 00:19:40,060
+It's important to have a seal all the way around
+
+368
+00:19:40,160 --> 00:19:43,940
+to keep out any inward filtration of any outside contaminants
+
+369
+00:19:44,040 --> 00:19:46,080
+into your home.
+
+370
+00:19:46,180 --> 00:19:49,880
+It's recommended that you pre-cut large sheets of plastic
+
+371
+00:19:49,980 --> 00:19:53,220
+to fit the doors in your safe room.
+
+372
+00:19:53,320 --> 00:19:55,380
+Once we reach the bottom of the door,
+
+373
+00:19:55,381 --> 00:19:58,680
+of the door, we want to make sure we get a seal on the floor
+
+374
+00:19:58,780 --> 00:20:01,980
+to prevent any inward leakage of contaminants
+
+375
+00:20:02,080 --> 00:20:06,720
+under the door seal or door frame.
+
+376
+00:20:06,820 --> 00:20:09,220
+Sealing yourself in a room might protect you
+
+377
+00:20:09,320 --> 00:20:11,120
+from an attack at home.
+
+378
+00:20:11,220 --> 00:20:15,640
+But what can technology do to safeguard you at the stadium?
+
+379
+00:20:15,740 --> 00:20:18,640
+Next, see what's being done to take you safely
+
+380
+00:20:18,740 --> 00:20:20,040
+out to the ball game.
+
+381
+00:20:25,380 --> 00:20:29,380
+It's now several days into the dark winter war game,
+
+382
+00:20:29,480 --> 00:20:32,880
+simulating a bioterror attack on America.
+
+383
+00:20:32,980 --> 00:20:37,320
+And already, interstate commerce has collapsed.
+
+384
+00:20:37,420 --> 00:20:39,920
+The National Security Council is mulling the need
+
+385
+00:20:40,020 --> 00:20:43,040
+to declare martial law.
+
+386
+00:20:43,140 --> 00:20:46,000
+It's becoming clear that America is not prepared
+
+387
+00:20:46,100 --> 00:20:49,440
+for this new type of threat.
+
+388
+00:20:49,540 --> 00:20:53,500
+Recent history provides many examples of terrorist attacks
+
+389
+00:20:53,501 --> 00:20:59,080
+attacks on public places, cafes in Israel, Olympic Park
+
+390
+00:20:59,180 --> 00:21:00,580
+in Atlanta.
+
+391
+00:21:00,680 --> 00:21:06,240
+But these attacks have been with conventional weapons, bombs.
+
+392
+00:21:06,340 --> 00:21:10,320
+In 1995, though, the Aum Shinrikyo cult in Japan
+
+393
+00:21:10,420 --> 00:21:13,280
+unleashed a chemical attack on the Tokyo subway system
+
+394
+00:21:13,380 --> 00:21:16,220
+using sarin nerve gas.
+
+395
+00:21:16,320 --> 00:21:18,660
+Hundreds were hospitalized.
+
+396
+00:21:18,760 --> 00:21:20,920
+12 died.
+
+397
+00:21:21,020 --> 00:21:22,520
+A lot of people also don't realize, though,
+
+398
+00:21:22,521 --> 00:21:24,480
+is in addition to the use of sarin,
+
+399
+00:21:24,580 --> 00:21:28,060
+the Amshinrikyo cult also attempted on a number of occasions
+
+400
+00:21:28,160 --> 00:21:32,360
+to disseminate biological weapons in various cities in Japan.
+
+401
+00:21:32,460 --> 00:21:34,560
+As far as we know, nobody became ill.
+
+402
+00:21:34,660 --> 00:21:37,460
+Nobody died from those events.
+
+403
+00:21:37,560 --> 00:21:39,280
+There are even ominous reports
+
+404
+00:21:39,380 --> 00:21:41,180
+that cult members traveled to Africa
+
+405
+00:21:41,280 --> 00:21:44,780
+during an outbreak of the deadly hemorrhagic fever Ebola.
+
+406
+00:21:44,880 --> 00:21:46,920
+The concern is that they might have been trying to isolate
+
+407
+00:21:47,020 --> 00:21:51,820
+the Ebola virus for potential use as a terrorist weapon.
+
+408
+00:21:51,821 --> 00:21:55,260
+Could a terrorist group attack subway systems in American cities
+
+409
+00:21:55,360 --> 00:21:57,960
+with chemical or biological agents?
+
+410
+00:21:58,060 --> 00:22:00,800
+What about other public places?
+
+411
+00:22:00,900 --> 00:22:03,100
+I think that gatherings of a large number of people
+
+412
+00:22:03,200 --> 00:22:06,160
+in public places is, in fact, one of the areas where we have
+
+413
+00:22:06,260 --> 00:22:08,440
+to be vigilant about our security.
+
+414
+00:22:08,540 --> 00:22:11,440
+Congress was worried enough about chemical, biological,
+
+415
+00:22:11,540 --> 00:22:13,980
+and radiological threats to public places
+
+416
+00:22:14,080 --> 00:22:17,640
+that in 1999, they authorized the creation of special National
+
+417
+00:22:17,641 --> 00:22:23,640
+called Weapons of Mass Destruction Civil Support Teams.
+
+418
+00:22:23,740 --> 00:22:25,340
+Stationed throughout the country,
+
+419
+00:22:25,440 --> 00:22:29,180
+these teams conduct security pre-sweeps of major events
+
+420
+00:22:29,280 --> 00:22:32,260
+and are also trained to assist emergency first responders
+
+421
+00:22:32,360 --> 00:22:35,320
+in the case of an actual attack.
+
+422
+00:22:35,420 --> 00:22:39,160
+If there's ever a possibility that any sort of terror
+
+423
+00:22:39,260 --> 00:22:42,060
+or weapons of mass destruction incident may take place,
+
+424
+00:22:42,160 --> 00:22:44,960
+that's where the civil support teams here in the nation
+
+425
+00:22:45,060 --> 00:22:47,640
+may become involved.
+
+426
+00:22:47,641 --> 00:22:53,880
+In 2003, a drill was held at an arena in Northern California
+
+427
+00:22:53,980 --> 00:22:57,180
+using a scenario in which terrorists released cyanide
+
+428
+00:22:57,280 --> 00:22:58,580
+during a basketball game.
+
+429
+00:23:03,480 --> 00:23:07,300
+While law enforcement searches the arena for perpetrators
+
+430
+00:23:07,400 --> 00:23:12,840
+and medics tend to the sick, the National Guard civil support
+
+431
+00:23:12,940 --> 00:23:16,600
+team rolls into action.
+
+432
+00:23:16,601 --> 00:23:19,700
+They wear full level A protective gear as they sweep
+
+433
+00:23:19,800 --> 00:23:23,240
+the arena with their chemical and biological detection
+
+434
+00:23:23,340 --> 00:23:25,080
+devices.
+
+435
+00:23:25,180 --> 00:23:27,880
+They are able to quickly locate the source of the cyanide
+
+436
+00:23:27,980 --> 00:23:29,740
+as the local authorities successfully
+
+437
+00:23:29,840 --> 00:23:33,820
+apprehend the mock terrorist.
+
+438
+00:23:33,920 --> 00:23:36,280
+The first responders returning from the scene
+
+439
+00:23:36,380 --> 00:23:38,960
+undergo a careful decontamination process
+
+440
+00:23:39,060 --> 00:23:41,020
+under the supervision of the National Guard.
+
+441
+00:23:41,120 --> 00:23:42,620
+I'm going to go ahead and check you
+
+442
+00:23:42,720 --> 00:23:44,960
+and make sure that all the decontamination
+
+443
+00:23:44,961 --> 00:23:47,400
+The contamination is off your body.
+
+444
+00:23:47,401 --> 00:23:48,460
+This was only a drill.
+
+445
+00:23:48,461 --> 00:23:49,800
+Throw your stuff in the bag here.
+
+446
+00:23:49,801 --> 00:23:52,940
+But the reality of the threat has brought California's ninth
+
+447
+00:23:52,941 --> 00:23:55,880
+weapons of mass destruction civil support team
+
+448
+00:23:55,881 --> 00:23:59,300
+to the World Series, the Super Bowl, and on this day,
+
+449
+00:23:59,301 --> 00:24:01,400
+to the Stanley Cup hockey championships
+
+450
+00:24:01,401 --> 00:24:04,320
+at the Arrowhead Pond in Anaheim, California,
+
+451
+00:24:04,321 --> 00:24:08,160
+where they've been asked to conduct a pre-sweep of the venue.
+
+452
+00:24:08,161 --> 00:24:11,920
+10 AM, four hours before the first spectators
+
+453
+00:24:11,921 --> 00:24:16,920
+trickling into the arena for the sold-out game.
+
+454
+00:24:17,020 --> 00:24:19,020
+Six hours until the puck will drop
+
+455
+00:24:19,120 --> 00:24:21,120
+before 20,000 screaming fans.
+
+456
+00:24:25,460 --> 00:24:28,460
+At a fire department training facility near the arena,
+
+457
+00:24:28,560 --> 00:24:32,380
+the National Guard team has established a staging area.
+
+458
+00:24:32,480 --> 00:24:34,580
+As soon as they arrive, the survey team
+
+459
+00:24:34,680 --> 00:24:36,320
+prepares for the pre-sweep.
+
+460
+00:24:36,420 --> 00:24:38,720
+They will be using the latest in high-tech gear
+
+461
+00:24:38,721 --> 00:24:40,920
+to search for any chemical, biological,
+
+462
+00:24:41,020 --> 00:24:43,060
+or radiological materials.
+
+463
+00:24:43,160 --> 00:24:45,160
+In this particular case, what we're able to do
+
+464
+00:24:45,260 --> 00:24:48,360
+is actually check on the stadium and the surrounding areas
+
+465
+00:24:48,460 --> 00:24:51,260
+and actually check in advance and make certain assessments
+
+466
+00:24:51,360 --> 00:24:53,400
+based on what might be potential threats
+
+467
+00:24:53,500 --> 00:24:55,640
+in order to safeguard the people before the event even
+
+468
+00:24:55,740 --> 00:24:57,840
+takes place.
+
+469
+00:24:57,940 --> 00:25:01,080
+11 AM, the survey team members gather up their gear
+
+470
+00:25:01,180 --> 00:25:02,680
+and depart for the Anaheim Park.
+
+471
+00:25:08,720 --> 00:25:13,720
+Staff Sergeant Garudin's first task is to gather air samples
+
+472
+00:25:13,820 --> 00:25:17,720
+from several locations around the arena using a device
+
+473
+00:25:17,820 --> 00:25:20,460
+called the BT-550.
+
+474
+00:25:20,560 --> 00:25:23,660
+We just sit it down in the room, let it run.
+
+475
+00:25:23,760 --> 00:25:26,580
+And when it's running, the working light will be on.
+
+476
+00:25:26,680 --> 00:25:28,980
+And then when it stops, because you can hear it, it'll stop.
+
+477
+00:25:29,080 --> 00:25:30,580
+Then we know that it's complete.
+
+478
+00:25:30,581 --> 00:25:32,380
+And then when it stops, because you can hear it,
+
+479
+00:25:32,381 --> 00:25:33,920
+it'll stop, then we know that it's complete.
+
+480
+00:25:38,480 --> 00:25:42,200
+The team also has equipment for detecting chemical agents.
+
+481
+00:25:42,201 --> 00:25:45,540
+This is our AKADA Army Chemical Agent Detector.
+
+482
+00:25:45,541 --> 00:25:47,480
+Basically, it's an area monitor.
+
+483
+00:25:47,481 --> 00:25:52,940
+It monitors for chemical nerve and blister type agents.
+
+484
+00:25:52,941 --> 00:25:55,540
+If the AKADA's alarm goes off, the survey team
+
+485
+00:25:55,541 --> 00:25:59,200
+uses another device, a handheld detector called the ICAN
+
+486
+00:25:59,201 --> 00:26:02,700
+to find the source of the trouble.
+
+487
+00:26:02,701 --> 00:26:05,140
+Like an arcana takes a whole room perspective.
+
+488
+00:26:05,141 --> 00:26:06,740
+It lets you know that there's something there,
+
+489
+00:26:06,741 --> 00:26:08,600
+and the eye cam pinpoints.
+
+490
+00:26:08,601 --> 00:26:11,280
+You know there's an agent there, a suspected agent.
+
+491
+00:26:11,281 --> 00:26:12,880
+They just take the eye cam and it can pinpoint
+
+492
+00:26:12,881 --> 00:26:16,160
+like it's in this area and it's not, you know, over there.
+
+493
+00:26:16,161 --> 00:26:19,020
+Then we can clear that area.
+
+494
+00:26:19,021 --> 00:26:22,420
+While the survey team is busy at the arena,
+
+495
+00:26:22,421 --> 00:26:24,920
+the science officers prepare the mobile lab
+
+496
+00:26:24,921 --> 00:26:27,460
+to receive their samples.
+
+497
+00:26:27,461 --> 00:26:31,400
+at 1 o'clock p.m. A call comes in from the survey team.
+
+498
+00:26:31,500 --> 00:26:34,000
+Their chemical detectors are getting a positive reading
+
+499
+00:26:34,100 --> 00:26:38,400
+on a fluid in a supply closet at the arena.
+
+500
+00:26:38,500 --> 00:26:40,100
+The team suspects that the substance
+
+501
+00:26:40,200 --> 00:26:42,500
+is a harmless cleaning solution,
+
+502
+00:26:42,600 --> 00:26:45,220
+but they're not taking any chances.
+
+503
+00:26:45,320 --> 00:26:46,920
+A sample of it will be brought back,
+
+504
+00:26:47,020 --> 00:26:51,120
+along with the air samples, for further analysis.
+
+505
+00:26:51,220 --> 00:26:52,920
+We're just bringing it back just to see and make sure
+
+506
+00:26:53,020 --> 00:26:54,620
+before people get into the stadium
+
+507
+00:26:54,621 --> 00:26:58,220
+But it's definitely a clean solution.
+
+508
+00:26:58,320 --> 00:26:59,920
+If any of the samples they bring back
+
+509
+00:27:00,020 --> 00:27:02,920
+are confirmed as positive for chemical, biological,
+
+510
+00:27:03,020 --> 00:27:05,500
+or radiological materials, the authorities
+
+511
+00:27:05,600 --> 00:27:07,760
+will want to know what areas around the stadium
+
+512
+00:27:07,860 --> 00:27:09,060
+need to be evacuated.
+
+513
+00:27:12,500 --> 00:27:14,380
+Sergeant First Class Robert Goldsmith
+
+514
+00:27:14,480 --> 00:27:19,380
+creates computer models of how various agents might spread.
+
+515
+00:27:19,480 --> 00:27:24,380
+He uses current weather information to model the plume.
+
+516
+00:27:24,381 --> 00:27:28,880
+You put in a type of suspected device, suspected agent,
+
+517
+00:27:28,881 --> 00:27:31,780
+based off of what they get hits on downrange.
+
+518
+00:27:31,781 --> 00:27:35,260
+You plug in information, humidity, temperature, wind
+
+519
+00:27:35,261 --> 00:27:36,560
+speed, wind direction.
+
+520
+00:27:36,561 --> 00:27:37,720
+It does the work itself.
+
+521
+00:27:40,500 --> 00:27:43,600
+1.15 PM, the survey team returns from the arena
+
+522
+00:27:43,601 --> 00:27:44,440
+with their samples.
+
+523
+00:27:47,500 --> 00:27:50,340
+The first step is to bring them into the airtight glove box
+
+524
+00:27:50,341 --> 00:27:53,640
+inside the mobile lab to render them non-hazardous
+
+525
+00:27:53,641 --> 00:27:55,280
+and prepare them for analysis.
+
+526
+00:27:58,280 --> 00:28:01,640
+Then the samples are analyzed using the ruggedized advanced
+
+527
+00:28:01,641 --> 00:28:04,480
+pathogen identification device, or RAPID.
+
+528
+00:28:07,720 --> 00:28:09,460
+If the team gets a positive reading
+
+529
+00:28:09,461 --> 00:28:12,000
+for a suspected biological agent,
+
+530
+00:28:12,001 --> 00:28:14,820
+they will examine the sample under a special microscope
+
+531
+00:28:14,821 --> 00:28:16,920
+that has the ability to connect to the internet
+
+532
+00:28:16,921 --> 00:28:20,740
+and send images directly to the Centers for Disease Control
+
+533
+00:28:20,741 --> 00:28:21,441
+analysis.
+
+534
+00:28:24,640 --> 00:28:26,840
+Early detection is key to preventing
+
+535
+00:28:26,940 --> 00:28:31,780
+a successful biological attack on a stadium or arena.
+
+536
+00:28:31,880 --> 00:28:33,780
+Imagine if an infectious agent were
+
+537
+00:28:33,880 --> 00:28:37,820
+to spread undetected at an event such as the Stanley Cup.
+
+538
+00:28:37,920 --> 00:28:41,160
+20,000 fans would head back into their communities
+
+539
+00:28:41,260 --> 00:28:43,700
+as unwitting carriers.
+
+540
+00:28:43,800 --> 00:28:45,000
+There would be a lot of panic.
+
+541
+00:28:45,100 --> 00:28:48,000
+A hospital is overflowed.
+
+542
+00:28:48,100 --> 00:28:50,740
+It sounds like it's going to be mass hysteria.
+
+543
+00:28:50,741 --> 00:28:53,780
+Knowing what we know now, if something happens during this
+
+544
+00:28:53,880 --> 00:28:56,240
+event, within the next couple hours,
+
+545
+00:28:56,340 --> 00:28:59,680
+we can go ahead and start showing the right antibiotics.
+
+546
+00:28:59,780 --> 00:29:01,820
+All of the samples taken from the arena today
+
+547
+00:29:01,920 --> 00:29:04,920
+test negative for biological agents.
+
+548
+00:29:05,020 --> 00:29:07,520
+But the rapid doesn't screen for chemical agents.
+
+549
+00:29:07,620 --> 00:29:09,120
+For that, the civil support team
+
+550
+00:29:09,220 --> 00:29:11,860
+turns to a device called the HapSite.
+
+551
+00:29:11,960 --> 00:29:15,240
+The device compares the sample against a comprehensive library
+
+552
+00:29:15,340 --> 00:29:17,540
+of 150,000 known chemicals.
+
+553
+00:29:20,740 --> 00:29:23,940
+In a matter of minutes, the team is able to confirm that all
+
+554
+00:29:24,040 --> 00:29:25,980
+of the samples taken from the arena,
+
+555
+00:29:26,080 --> 00:29:29,480
+including the suspicious cleaning solution, are harmless.
+
+556
+00:29:31,980 --> 00:29:34,180
+It was a very successful pre-sweep,
+
+557
+00:29:34,280 --> 00:29:37,060
+and identifying those hazardous materials that already exist
+
+558
+00:29:37,160 --> 00:29:38,260
+is fantastic.
+
+559
+00:29:38,360 --> 00:29:40,660
+That's considered success.
+
+560
+00:29:40,760 --> 00:29:44,400
+In 1999, there were only 10 weapons of mass destruction
+
+561
+00:29:44,500 --> 00:29:47,360
+civil support teams working throughout the country.
+
+562
+00:29:47,460 --> 00:29:50,740
+Today, that number has grown to more than 30.
+
+563
+00:29:50,741 --> 00:29:59,580
+Next, find out what's being done to keep your dinner table safe.
+
+564
+00:30:03,980 --> 00:30:07,460
+It's now day six of the Dark Winter War game,
+
+565
+00:30:07,461 --> 00:30:09,160
+testing the government's response
+
+566
+00:30:09,161 --> 00:30:12,720
+to a simulated smallpox attack on America.
+
+567
+00:30:12,721 --> 00:30:15,140
+The simulation began with a release of the virus
+
+568
+00:30:15,141 --> 00:30:18,140
+at shopping malls in three states.
+
+569
+00:30:18,141 --> 00:30:23,440
+Now 2,000 people are sick, 300 have died,
+
+570
+00:30:23,540 --> 00:30:25,940
+and riots are breaking out at vaccination clinics
+
+571
+00:30:26,040 --> 00:30:29,380
+across the country.
+
+572
+00:30:29,480 --> 00:30:31,680
+Thanks to immunizations, smallpox
+
+573
+00:30:31,780 --> 00:30:36,200
+was eradicated from nature in 1977.
+
+574
+00:30:36,300 --> 00:30:38,600
+Why then are we still worried about it being used
+
+575
+00:30:38,700 --> 00:30:40,700
+as a terrorist weapon?
+
+576
+00:30:40,800 --> 00:30:43,040
+The answer lies in samples of the disease
+
+577
+00:30:43,140 --> 00:30:47,740
+that were kept for research purposes after its eradication.
+
+578
+00:30:47,741 --> 00:30:51,380
+One was kept in the Centers for Disease Control and Prevention
+
+579
+00:30:51,381 --> 00:30:54,780
+in Atlanta, and the other one was kept in Moscow.
+
+580
+00:30:54,781 --> 00:30:56,280
+The reason for preserving the samples
+
+581
+00:30:56,281 --> 00:30:58,280
+was to be able to study the disease
+
+582
+00:30:58,281 --> 00:31:01,780
+and also to be able to prepare vaccines should the event,
+
+583
+00:31:01,781 --> 00:31:04,500
+or should the need ever arise again.
+
+584
+00:31:04,501 --> 00:31:06,700
+It's the sample that was kept in Moscow
+
+585
+00:31:06,701 --> 00:31:10,800
+that now has American scientists worried.
+
+586
+00:31:10,801 --> 00:31:13,340
+After the collapse of the Soviet Union,
+
+587
+00:31:13,341 --> 00:31:15,700
+a defector who had been a senior scientist
+
+588
+00:31:15,701 --> 00:31:20,140
+in their bioweapons program made a startling revelation.
+
+589
+00:31:20,240 --> 00:31:24,240
+The Soviets had been experimenting with weaponizing smallpox
+
+590
+00:31:24,340 --> 00:31:28,340
+and creating even more lethal strains.
+
+591
+00:31:28,440 --> 00:31:31,380
+With the former Soviet Union now in disarray,
+
+592
+00:31:31,480 --> 00:31:33,560
+the potential exists for terrorists
+
+593
+00:31:33,660 --> 00:31:36,260
+to get their hands on the Soviet smallpox,
+
+594
+00:31:36,360 --> 00:31:40,400
+or more likely, for them to seek out former Soviet scientists
+
+595
+00:31:40,500 --> 00:31:42,100
+for their expertise.
+
+596
+00:31:42,200 --> 00:31:44,160
+We have been working with the international community
+
+597
+00:31:44,161 --> 00:31:45,920
+to make sure that any of those scientists
+
+598
+00:31:46,020 --> 00:31:48,800
+who might have been working on novel biological agents,
+
+599
+00:31:48,900 --> 00:31:52,540
+like variations on smallpox, have other legitimate research
+
+600
+00:31:52,640 --> 00:31:54,900
+to do that will be a positive contribution
+
+601
+00:31:55,000 --> 00:31:58,000
+to their economies, as opposed to potentially going somewhere
+
+602
+00:31:58,100 --> 00:32:00,640
+else and working for someone such as a rogue nation
+
+603
+00:32:00,740 --> 00:32:02,240
+or a terrorist group.
+
+604
+00:32:02,340 --> 00:32:04,780
+The concern with biological terrorism
+
+605
+00:32:04,880 --> 00:32:07,520
+is how inexpensive it is to carry out.
+
+606
+00:32:07,620 --> 00:32:09,760
+To produce nuclear weapons, for example,
+
+607
+00:32:09,860 --> 00:32:11,920
+requires a tremendous amount of infrastructure.
+
+608
+00:32:12,020 --> 00:32:13,520
+You have to have nuclear facilities.
+
+609
+00:32:13,521 --> 00:32:15,380
+you have to have nuclear material.
+
+610
+00:32:15,480 --> 00:32:18,620
+Chemical weapons are probably next in terms of cost.
+
+611
+00:32:18,720 --> 00:32:21,520
+They also require a certain amount of infrastructure,
+
+612
+00:32:21,620 --> 00:32:23,460
+but you can do them for much cheaper
+
+613
+00:32:23,560 --> 00:32:25,760
+than you can nuclear weapons.
+
+614
+00:32:25,860 --> 00:32:28,160
+Biological weapons don't require a lot of infrastructure
+
+615
+00:32:28,260 --> 00:32:29,160
+to produce.
+
+616
+00:32:29,260 --> 00:32:32,280
+And as we saw in the case of the anthrax and the male,
+
+617
+00:32:32,380 --> 00:32:36,180
+the impact can be very large.
+
+618
+00:32:36,280 --> 00:32:39,920
+In 1984, a religious cult in Oregon,
+
+619
+00:32:40,020 --> 00:32:42,720
+followers of the Bhagwan Sri Rajneesh
+
+620
+00:32:42,721 --> 00:32:44,620
+carried out what's widely considered
+
+621
+00:32:44,621 --> 00:32:47,500
+the first biological terrorist attack in America.
+
+622
+00:32:48,960 --> 00:32:50,380
+Cult members were looking for a way
+
+623
+00:32:50,381 --> 00:32:52,800
+to keep local citizens away from the polls
+
+624
+00:32:52,801 --> 00:32:54,060
+in the upcoming elections
+
+625
+00:32:54,061 --> 00:32:57,540
+so that the cult could win control of the county government.
+
+626
+00:32:58,220 --> 00:33:00,140
+They thought if people were sick and didn't vote,
+
+627
+00:33:00,440 --> 00:33:02,820
+that then they would have an opportunity to win the vote
+
+628
+00:33:02,821 --> 00:33:04,960
+and have a greater play in the local politics.
+
+629
+00:33:05,900 --> 00:33:07,680
+In September of 1984,
+
+630
+00:33:08,640 --> 00:33:10,880
+cult members decided to test out their strategy.
+
+631
+00:33:10,881 --> 00:33:14,480
+They carried out a stealthy attack at 10 area restaurants,
+
+632
+00:33:14,580 --> 00:33:16,820
+allegedly contaminating salad bars
+
+633
+00:33:16,920 --> 00:33:19,920
+with salmonella bacteria.
+
+634
+00:33:20,020 --> 00:33:24,120
+More than 750 people were sickened.
+
+635
+00:33:24,220 --> 00:33:27,120
+In that case, it's interesting because the objective
+
+636
+00:33:27,220 --> 00:33:29,840
+of the terrorism was not to cause anyone to die,
+
+637
+00:33:29,940 --> 00:33:31,740
+and as far as we know, no one did.
+
+638
+00:33:31,840 --> 00:33:34,940
+What happened was that people got sick from eating salad
+
+639
+00:33:35,040 --> 00:33:37,540
+from these contaminated salad bars.
+
+640
+00:33:37,640 --> 00:33:39,680
+County health officials were able to trace
+
+641
+00:33:39,681 --> 00:33:42,320
+to trace the outbreak to the salad bars.
+
+642
+00:33:42,420 --> 00:33:45,620
+But since salmonella is such a common cause of food poisoning,
+
+643
+00:33:45,720 --> 00:33:47,060
+they had trouble proving that it was
+
+644
+00:33:47,160 --> 00:33:49,360
+an intentional terrorist act.
+
+645
+00:33:49,460 --> 00:33:51,560
+It might have even gone unappreciated
+
+646
+00:33:51,660 --> 00:33:54,660
+as an intentional attack, except that someone came out
+
+647
+00:33:54,760 --> 00:33:58,660
+of the terrorist group and informed authorities.
+
+648
+00:33:58,760 --> 00:34:01,860
+So salmonella is a very common organism.
+
+649
+00:34:01,960 --> 00:34:03,940
+Again, it's associated with food poisoning,
+
+650
+00:34:04,040 --> 00:34:07,840
+but it is also one that can be used as an incapacitating agent
+
+651
+00:34:07,841 --> 00:34:12,540
+as an agent of hostility or an agent of terrorism.
+
+652
+00:34:12,640 --> 00:34:16,180
+The incident in Oregon raises an alarming question.
+
+653
+00:34:16,280 --> 00:34:19,280
+How can we be assured of the safety of our food and water
+
+654
+00:34:19,380 --> 00:34:21,380
+supplies?
+
+655
+00:34:21,480 --> 00:34:24,660
+Could a terrorist get away with contaminating all of the meat
+
+656
+00:34:24,760 --> 00:34:28,760
+at a given food processing plant, or sickening an entire town
+
+657
+00:34:28,860 --> 00:34:32,760
+by dumping chemicals into a reservoir?
+
+658
+00:34:32,860 --> 00:34:35,660
+Researchers at Pacific Northwest National Laboratory
+
+659
+00:34:35,661 --> 00:34:39,100
+are working on defeating those threats.
+
+660
+00:34:39,200 --> 00:34:41,400
+They're developing a highly sensitive chemical
+
+661
+00:34:41,500 --> 00:34:44,700
+and biological terrorism detector that could be used
+
+662
+00:34:44,800 --> 00:34:48,800
+to monitor the food and water supplies for terrorist attack.
+
+663
+00:34:48,900 --> 00:34:51,880
+The detector functions much like the FBI's fingerprint
+
+664
+00:34:51,980 --> 00:34:54,920
+matching system, comparing the organisms in a sample
+
+665
+00:34:55,020 --> 00:34:57,820
+to a litany of known pathogens.
+
+666
+00:34:57,920 --> 00:34:59,720
+Today, they're testing a chicken sample
+
+667
+00:34:59,820 --> 00:35:03,720
+to see if it's tainted with a harmful E. coli bacteria.
+
+668
+00:35:03,721 --> 00:35:05,960
+The chicken sample is placed on a slide
+
+669
+00:35:06,060 --> 00:35:09,720
+and loaded into the detector.
+
+670
+00:35:09,820 --> 00:35:12,960
+A key component of the device is a laser.
+
+671
+00:35:13,060 --> 00:35:15,560
+The laser will fire onto the surface of that target,
+
+672
+00:35:15,660 --> 00:35:18,660
+and the ions will travel down this flight tube to the detector
+
+673
+00:35:18,760 --> 00:35:21,780
+at the end of it.
+
+674
+00:35:21,880 --> 00:35:25,280
+What you're seeing is a magnified video image of the laser
+
+675
+00:35:25,380 --> 00:35:28,420
+firing against the surface of the sample.
+
+676
+00:35:28,520 --> 00:35:32,280
+This burst of energy creates the fingerprint, or spectra,
+
+677
+00:35:32,281 --> 00:35:35,120
+that's used to analyze the sample.
+
+678
+00:35:35,220 --> 00:35:38,380
+If the chicken bears the telltale fingerprint of E. coli,
+
+679
+00:35:38,480 --> 00:35:40,220
+the detector will be able to alert us
+
+680
+00:35:40,320 --> 00:35:43,120
+within a matter of minutes.
+
+681
+00:35:43,220 --> 00:35:45,320
+So now that we have a composite spectra,
+
+682
+00:35:45,420 --> 00:35:48,260
+we can determine that it is E. coli.
+
+683
+00:35:48,360 --> 00:35:50,500
+Detection technologies hold great promise
+
+684
+00:35:50,600 --> 00:35:53,960
+in the battle against foodborne terrorist attack.
+
+685
+00:35:54,060 --> 00:35:56,780
+But it is impossible to screen every piece of food
+
+686
+00:35:56,880 --> 00:35:59,240
+destined for your dinner table.
+
+687
+00:35:59,340 --> 00:36:02,280
+If contaminated food does make it into the food supply,
+
+688
+00:36:02,281 --> 00:36:05,980
+the key to saving lives will be rapid detection of the outbreak
+
+689
+00:36:06,080 --> 00:36:08,580
+and a pinpointing of its source.
+
+690
+00:36:08,680 --> 00:36:11,320
+The Centers for Disease Control has expressed interest
+
+691
+00:36:11,420 --> 00:36:13,820
+in a technology being developed at Pacific Northwest
+
+692
+00:36:13,920 --> 00:36:17,020
+National Labs called Starlight.
+
+693
+00:36:17,120 --> 00:36:19,940
+Originally intended as a tool for military intelligence
+
+694
+00:36:20,040 --> 00:36:23,340
+analysts, Starlight presents large amounts of information
+
+695
+00:36:23,440 --> 00:36:25,940
+in a visual format, making it easier
+
+696
+00:36:26,040 --> 00:36:29,680
+to sift through piles of data.
+
+697
+00:36:29,681 --> 00:36:33,920
+The widest bandwidth into the human mind is through your eyes.
+
+698
+00:36:34,020 --> 00:36:38,160
+So if we can create a picture of the data,
+
+699
+00:36:38,260 --> 00:36:42,320
+then we can get that information into an analyst's mind
+
+700
+00:36:42,420 --> 00:36:45,060
+as quickly as possible.
+
+701
+00:36:45,160 --> 00:36:47,160
+Researchers here realized that this system
+
+702
+00:36:47,260 --> 00:36:49,640
+could be used to quickly analyze outbreaks
+
+703
+00:36:49,740 --> 00:36:52,000
+of foodborne illness.
+
+704
+00:36:52,100 --> 00:36:55,500
+These are records of E. coli incidents
+
+705
+00:36:55,600 --> 00:36:56,940
+in the state of Washington.
+
+706
+00:36:56,941 --> 00:37:00,340
+and what was it that caused that particular case.
+
+707
+00:37:00,980 --> 00:37:04,440
+Was it hamburger? Was it dairy? Was it salad bar?
+
+708
+00:37:04,780 --> 00:37:09,120
+Then we've plotted the locations of each incident here on the map.
+
+709
+00:37:09,540 --> 00:37:13,960
+When we started looking at this data, we noticed that as you go along, bang,
+
+710
+00:37:14,080 --> 00:37:18,720
+all of a sudden, all of the dairy incidents light up at the same time.
+
+711
+00:37:18,721 --> 00:37:22,120
+They're all related to this one location.
+
+712
+00:37:22,121 --> 00:37:25,020
+And so an expert looking at this would immediately
+
+713
+00:37:25,120 --> 00:37:28,560
+know that something was going on at this particular time,
+
+714
+00:37:28,660 --> 00:37:30,920
+at that particular location, just
+
+715
+00:37:31,020 --> 00:37:33,260
+by being able to look at it.
+
+716
+00:37:33,360 --> 00:37:36,360
+Starlight is just one of many anti-terrorism technologies
+
+717
+00:37:36,460 --> 00:37:39,280
+being developed at Pacific Northwest National Labs.
+
+718
+00:37:39,380 --> 00:37:44,680
+They devote $70 million a year to Homeland Security research.
+
+719
+00:37:44,780 --> 00:37:46,980
+Next, see how the windows in your house
+
+720
+00:37:47,080 --> 00:37:49,720
+may someday warn you of a terrorist attack.
+
+721
+00:37:52,120 --> 00:37:59,120
+It's now day 13 of the dark winter bioterrorism war game.
+
+722
+00:37:59,121 --> 00:38:02,120
+All vaccine stocks have been depleted,
+
+723
+00:38:02,121 --> 00:38:05,120
+and forcible restrictions on the civil liberties of citizens
+
+724
+00:38:05,121 --> 00:38:08,120
+are deemed unavoidable.
+
+725
+00:38:08,121 --> 00:38:13,120
+The disease has spread to 24 states and 15 other countries.
+
+726
+00:38:17,120 --> 00:38:21,120
+In the event of an actual large-scale terrorist attack,
+
+727
+00:38:21,121 --> 00:38:22,620
+first attack.
+
+728
+00:38:22,720 --> 00:38:25,260
+The emergency first responders will need to have the latest
+
+729
+00:38:25,360 --> 00:38:27,020
+high-tech gear.
+
+730
+00:38:27,120 --> 00:38:29,260
+That's exactly what's being developed at Georgia Tech
+
+731
+00:38:29,360 --> 00:38:32,460
+Center for Emergency Response Technology Instruction
+
+732
+00:38:32,560 --> 00:38:36,360
+and Policy, or CERTIP.
+
+733
+00:38:36,460 --> 00:38:38,680
+DecisionAid is a software package that
+
+734
+00:38:38,780 --> 00:38:41,280
+runs on a handheld computer.
+
+735
+00:38:41,380 --> 00:38:44,580
+It's intended to help first responders assess a situation
+
+736
+00:38:44,680 --> 00:38:48,180
+even before medical experts arrive.
+
+737
+00:38:48,280 --> 00:38:50,880
+The first responder on approaching the site
+
+738
+00:38:50,881 --> 00:38:54,680
+would see a patient, it would select the new patient,
+
+739
+00:38:54,681 --> 00:38:57,640
+enter personal information about the patient, height, weight,
+
+740
+00:38:57,641 --> 00:38:58,720
+that sort of thing.
+
+741
+00:38:58,721 --> 00:39:01,320
+Then it proceeds to run you through a series of questions.
+
+742
+00:39:01,321 --> 00:39:03,240
+The software takes this information
+
+743
+00:39:03,241 --> 00:39:05,880
+and makes recommendations for treatment.
+
+744
+00:39:05,881 --> 00:39:09,540
+SIRTIP has also developed a medical reachback suitcase
+
+745
+00:39:09,541 --> 00:39:13,060
+that allows experts to monitor the scene of a biological attack
+
+746
+00:39:13,061 --> 00:39:15,820
+without entering the contaminated hot zone.
+
+747
+00:39:15,821 --> 00:39:18,980
+They can all see what's going on in the triage area,
+
+748
+00:39:18,981 --> 00:39:21,020
+all the information that's being collected on the patients
+
+749
+00:39:21,021 --> 00:39:24,760
+and be able to monitor the different patients.
+
+750
+00:39:24,761 --> 00:39:28,020
+The terrorist attacks of September 11, 2001,
+
+751
+00:39:28,021 --> 00:39:31,820
+were a call to arms for American scientists.
+
+752
+00:39:31,821 --> 00:39:35,180
+And suddenly, grant money was flowing from federal coffers
+
+753
+00:39:35,181 --> 00:39:39,700
+to fund all kinds of anti-terrorism research.
+
+754
+00:39:39,701 --> 00:39:42,140
+At Northwestern University, researchers
+
+755
+00:39:42,141 --> 00:39:44,860
+in the emerging field of nanotechnology
+
+756
+00:39:44,861 --> 00:39:49,060
+are working to create the ultimate bioterrorism detector.
+
+757
+00:39:49,061 --> 00:39:53,200
+Nanotechnology is a field that focuses on miniaturization
+
+758
+00:39:53,201 --> 00:39:55,700
+and studying the consequences of miniaturization.
+
+759
+00:39:55,701 --> 00:39:57,620
+Researchers found that shining light
+
+760
+00:39:57,621 --> 00:40:00,460
+through particles of gold that had been miniaturized
+
+761
+00:40:00,461 --> 00:40:04,860
+into different sizes produced a startling effect,
+
+762
+00:40:04,861 --> 00:40:06,760
+one that they hoped to harness for use
+
+763
+00:40:06,761 --> 00:40:09,800
+in their bioterrorism detector.
+
+764
+00:40:09,801 --> 00:40:12,060
+It's as simple as having individual indicators
+
+765
+00:40:12,061 --> 00:40:12,761
+for each disease.
+
+766
+00:40:12,762 --> 00:40:15,760
+If it turns up yellow, you have Ebola virus.
+
+767
+00:40:15,860 --> 00:40:17,760
+If it turns up red, you have anthrax.
+
+768
+00:40:17,860 --> 00:40:22,600
+If it turns up orange, you have DNA associated with teluremia.
+
+769
+00:40:22,700 --> 00:40:24,900
+The color-changing properties of these particles
+
+770
+00:40:25,000 --> 00:40:29,000
+may someday result in windows that act as biosensors,
+
+771
+00:40:29,100 --> 00:40:33,720
+lighting up in the presence of substances like anthrax.
+
+772
+00:40:33,820 --> 00:40:35,920
+Building upon research begun at Northwestern,
+
+773
+00:40:36,020 --> 00:40:40,420
+a company called Nanosphere has created the Veragene ID.
+
+774
+00:40:40,421 --> 00:40:43,060
+the first commercially available bioweapons detector
+
+775
+00:40:43,160 --> 00:40:45,920
+based on nanotechnology.
+
+776
+00:40:46,020 --> 00:40:48,320
+In a Verigene ID system, we see them being placed
+
+777
+00:40:48,420 --> 00:40:51,560
+for bio-warfare detection in a number of different environments,
+
+778
+00:40:51,660 --> 00:40:56,360
+water testing facilities, in the hands of the first responders.
+
+779
+00:40:56,460 --> 00:40:59,480
+Even before the anthrax mail attacks of 2001,
+
+780
+00:40:59,580 --> 00:41:02,640
+Nanosphere was working with the Army to test the Verigene ID
+
+781
+00:41:02,740 --> 00:41:05,680
+as an anthrax detector.
+
+782
+00:41:05,780 --> 00:41:09,280
+So what we're trying to do here is detect anthrax
+
+783
+00:41:09,281 --> 00:41:16,080
+And we have in these eight vials samples that have anthrax
+
+784
+00:41:16,180 --> 00:41:17,220
+and some that don't.
+
+785
+00:41:17,320 --> 00:41:19,120
+And to each of these tubes, I will
+
+786
+00:41:19,220 --> 00:41:21,660
+add gold nanoparticle probes that
+
+787
+00:41:21,760 --> 00:41:25,760
+are specific for the anthrax genomic DNA.
+
+788
+00:41:25,860 --> 00:41:28,660
+If anthrax DNA is present in any of the samples,
+
+789
+00:41:28,760 --> 00:41:32,300
+the tiny probes will bind to it.
+
+790
+00:41:32,400 --> 00:41:37,040
+The samples are put on a slide and placed into the VeriGene ID.
+
+791
+00:41:37,041 --> 00:41:40,580
+Any samples containing anthrax will be indicated by bright spots
+
+792
+00:41:40,680 --> 00:41:42,480
+on the screen.
+
+793
+00:41:42,580 --> 00:41:44,380
+Sample one is positive for anthrax.
+
+794
+00:41:44,480 --> 00:41:45,940
+Sample two is positive.
+
+795
+00:41:46,040 --> 00:41:47,780
+Three, four positive.
+
+796
+00:41:47,880 --> 00:41:50,280
+Five, six, no anthrax.
+
+797
+00:41:50,380 --> 00:41:52,860
+Seven, eight are our internal controls.
+
+798
+00:41:52,960 --> 00:41:54,400
+They shouldn't light up.
+
+799
+00:41:54,500 --> 00:41:57,460
+And nine, 10 are also positive.
+
+800
+00:41:57,560 --> 00:41:59,900
+The first users of nanotechnology detectors
+
+801
+00:42:00,000 --> 00:42:03,360
+will likely be in the field of medicine.
+
+802
+00:42:03,460 --> 00:42:05,760
+Having a Veritene ID system that has been tailored
+
+803
+00:42:05,761 --> 00:42:07,600
+for detecting those certain types of diseases
+
+804
+00:42:07,700 --> 00:42:10,400
+that might be a bio-warfare agent placed in the hospitals
+
+805
+00:42:10,500 --> 00:42:13,300
+will allow them to detect it as early as possible
+
+806
+00:42:13,400 --> 00:42:15,100
+and to screen out those potential patients
+
+807
+00:42:15,200 --> 00:42:16,200
+that may be infected.
+
+808
+00:42:16,300 --> 00:42:19,400
+The vision is to have a detection system
+
+809
+00:42:19,500 --> 00:42:22,420
+in every doctor's office in the world.
+
+810
+00:42:22,520 --> 00:42:23,820
+And then I like to say, ultimately,
+
+811
+00:42:23,920 --> 00:42:26,120
+every medicine cabinet in the world.
+
+812
+00:42:26,220 --> 00:42:28,820
+And with further advances in nanotechnology,
+
+813
+00:42:28,920 --> 00:42:32,220
+you may someday even have the ultimate bioterrorism
+
+814
+00:42:32,320 --> 00:42:35,420
+detector hanging beside the smoke detector in your home.
+
+815
+00:42:35,421 --> 00:42:39,220
+silently screening your error for harmful agents like anthrax,
+
+816
+00:42:39,320 --> 00:42:40,720
+Ebola, and smallpox.
+
+817
+00:42:43,960 --> 00:42:47,860
+When the Dark Winter War game was held in June of 2001
+
+818
+00:42:47,960 --> 00:42:50,660
+to simulate a smallpox attack on America,
+
+819
+00:42:50,760 --> 00:42:53,680
+the results of the fictional scenario were startling.
+
+820
+00:42:53,780 --> 00:42:59,280
+Two weeks, mass chaos, 3 million people infected,
+
+821
+00:42:59,380 --> 00:43:01,720
+1 million dead.
+
+822
+00:43:01,820 --> 00:43:05,420
+It was made frighteningly clear to the exercise participants
+
+823
+00:43:05,421 --> 00:43:07,660
+that the country was not prepared to respond
+
+824
+00:43:07,760 --> 00:43:10,920
+to a major terrorist attack.
+
+825
+00:43:11,020 --> 00:43:14,660
+Drastic upgrades would be needed in communication, planning,
+
+826
+00:43:14,760 --> 00:43:17,160
+and technology.
+
+827
+00:43:17,260 --> 00:43:19,960
+After the terrorist attacks of September 11,
+
+828
+00:43:20,060 --> 00:43:23,440
+changes have been made, and an urgent push is underway
+
+829
+00:43:23,540 --> 00:43:26,400
+to develop technologies to protect innocent civilians
+
+830
+00:43:26,500 --> 00:43:30,320
+from all forms of terrorism.
+
+831
+00:43:30,420 --> 00:43:33,640
+Smallpox, nerve gas, dirty bombs.
+
+832
+00:43:33,641 --> 00:43:35,180
+Should we be afraid?
+
+833
+00:43:35,280 --> 00:43:37,780
+Are we entering a new arms race with an even more
+
+834
+00:43:37,880 --> 00:43:39,780
+dangerous adversary?
+
+835
+00:43:39,880 --> 00:43:42,220
+I don't think they have the scientific firepower
+
+836
+00:43:42,320 --> 00:43:45,660
+to dedicate large teams of researchers
+
+837
+00:43:45,760 --> 00:43:49,160
+like we're dedicating to combat the problems they're creating.
+
+838
+00:43:49,260 --> 00:43:51,800
+And so I think we're on different playing fields
+
+839
+00:43:51,900 --> 00:43:53,600
+in that regard.
+
+840
+00:43:53,700 --> 00:43:56,200
+Building upon the technologies of the past
+
+841
+00:43:56,300 --> 00:43:58,400
+and with an eye towards the future,
+
+842
+00:43:58,500 --> 00:44:01,900
+American scientists are working every day on new ways
+
+843
+00:44:01,901 --> 00:44:03,640
+to keep civilians safe.
+
+844
+00:44:03,740 --> 00:44:05,700
+I would not say that I could predict every way
+
+845
+00:44:05,800 --> 00:44:08,400
+that an individual could choose to do harm to somebody else.
+
+846
+00:44:08,500 --> 00:44:11,240
+But I am confident that we have many, many tools that we
+
+847
+00:44:11,340 --> 00:44:14,480
+are bringing to bear to reduce the likelihood that Americans
+
+848
+00:44:14,580 --> 00:44:16,520
+will become victims of such an attack.
+
+849
+00:44:31,900 --> 00:44:39,360
+you
+
+850
+00:44:39,361 --> 00:44:41,420
+you
+

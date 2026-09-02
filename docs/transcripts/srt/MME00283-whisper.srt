@@ -1,0 +1,2020 @@
+1
+00:00:00,001 --> 00:00:00,933
+The Titanic.
+
+2
+00:00:00,934 --> 00:00:07,000
+Watertight compartments in a steel-plated hull render it all but impenetrable.
+
+3
+00:00:07,001 --> 00:00:16,000
+Nearly every technological breakthrough of the previous 50 years is on board, providing comfort and safety.
+
+4
+00:00:16,001 --> 00:00:21,000
+If it was built to be unsinkable, then why did it sink?
+
+5
+00:00:21,001 --> 00:00:25,000
+Now, Titanic Tech on Modern Marvels.
+
+6
+00:00:30,000 --> 00:00:43,740
+The immensity of its floating hulk was too great to be contained in a single glance.
+
+7
+00:00:44,700 --> 00:00:47,400
+Surely it weighed hundreds of thousands of tons.
+
+8
+00:00:48,560 --> 00:00:51,540
+Much of its bulk rested beneath the surface of the calm seas.
+
+9
+00:00:52,520 --> 00:00:56,480
+It must have glistened even on a moonless April night on its maiden voyage.
+
+10
+00:00:57,440 --> 00:01:04,640
+Most marvelous of all, it was created entirely out of water, the iceberg that sank the Titanic.
+
+11
+00:01:09,460 --> 00:01:16,220
+Perhaps the story of the Titanic begins here, in the frigid North Atlantic, where icebergs are calved,
+
+12
+00:01:17,160 --> 00:01:20,520
+broken off from glaciers that drop into the ocean off Greenland's coast.
+
+13
+00:01:20,521 --> 00:01:29,340
+It was here that the battle between technology and nature played out on that mid-April evening in 1912.
+
+14
+00:01:29,920 --> 00:01:32,500
+And it was here that technology lost.
+
+15
+00:01:33,640 --> 00:01:36,900
+How do you take the largest ship in the world on its maiden voyage,
+
+16
+00:01:37,000 --> 00:01:41,020
+full of the wealthiest, most influential people of two continents, you know,
+
+17
+00:01:41,080 --> 00:01:46,560
+that's called unsinkable, and crash it in the middle of the Atlantic before it ever completes its maiden voyage?
+
+18
+00:01:46,561 --> 00:01:56,680
+between 10 and 15 thousand icebergs form every year off greenland some nearly three million tons
+
+19
+00:01:56,681 --> 00:02:03,620
+and containing ice as old as 110 thousand years and they continue to present a shipping hazard
+
+20
+00:02:03,621 --> 00:02:10,180
+they're deteriorating by the time they make it to the grand banks and eventually south out into the
+
+21
+00:02:10,181 --> 00:02:14,600
+shipping lanes typically they're very dramatic in shape you know they've taken on irregular shapes
+
+22
+00:02:14,601 --> 00:02:17,020
+and they're beautiful, but they're also very dangerous.
+
+23
+00:02:20,200 --> 00:02:24,360
+The International Ice Patrol, part of the United States Coast Guard,
+
+24
+00:02:24,880 --> 00:02:30,780
+monitors the ice using satellite images, radar, and C-130 reconnaissance planes.
+
+25
+00:02:33,640 --> 00:02:39,320
+Our job is to find the icebergs and then draw an imaginary line in the ocean
+
+26
+00:02:39,321 --> 00:02:41,540
+so that ships transiting across through there say,
+
+27
+00:02:41,541 --> 00:02:46,120
+If you stay south of this line and east of this line, you're not going to encounter an iceberg like the Titanic did.
+
+28
+00:02:46,960 --> 00:02:52,300
+We tried to predict their drift and their deterioration because the mariner doesn't want to know where it was when we found it.
+
+29
+00:02:52,340 --> 00:02:54,140
+He wants to know where it's going to be when he gets there.
+
+30
+00:02:54,141 --> 00:02:59,000
+So they don't violate that basic law of physics of trying to occupy the same space at the same time.
+
+31
+00:03:00,520 --> 00:03:07,280
+The ice patrol was created in the wake of the Titanic disaster and charged with monitoring ice in the North Atlantic shipping lanes.
+
+32
+00:03:07,281 --> 00:03:13,940
+we're batting a thousand to use a baseball analogy since we've been in the business starting
+
+33
+00:03:13,941 --> 00:03:20,340
+in 1913 even before our official ratification no one has hit an iceberg who has adhered to our
+
+34
+00:03:20,341 --> 00:03:25,120
+limits ships still hit icebergs but they have been been inside the ice patrol's limits and
+
+35
+00:03:25,121 --> 00:03:30,540
+obviously there's never been a disaster that that comes anywhere close to the loss of life
+
+36
+00:03:30,541 --> 00:03:36,560
+from the Titanic. Once a year on April 15th, the anniversary of their sinking,
+
+37
+00:03:37,360 --> 00:03:43,980
+the patrol tosses a wreath near the spot where the Titanic sank in honor of the roughly 1,500 lives
+
+38
+00:03:43,981 --> 00:03:44,681
+lost.
+
+39
+00:03:44,682 --> 00:03:52,880
+In stark contrast to the iceberg's simplicity was the White Star Line's Titanic,
+
+40
+00:03:52,881 --> 00:04:02,840
+At the time, the biggest ship ever built at 882 and a half feet long, 92 and a half feet wide, and 53,000 tons.
+
+41
+00:04:06,920 --> 00:04:12,240
+From end to end, it was taller than the tallest skyscrapers in the world at that time.
+
+42
+00:04:16,600 --> 00:04:21,340
+Properly floating keel down, the ship was still as tall as an 11-story building.
+
+43
+00:04:22,880 --> 00:04:28,380
+It cruised the seas at 22 knots, or about 25 miles per hour.
+
+44
+00:04:29,380 --> 00:04:32,120
+Its builders considered it practically unsinkable,
+
+45
+00:04:32,460 --> 00:04:38,220
+because they incorporated into it expertise accumulated from a half century of building great passenger ships.
+
+46
+00:04:39,660 --> 00:04:46,720
+Most of the technology that existed in 1912 also existed 50 years prior,
+
+47
+00:04:46,721 --> 00:04:50,380
+but it was in its infancy. It was in a development stage. It was just experimental.
+
+48
+00:04:51,160 --> 00:04:54,000
+The Titanic was a culmination of the development of all this stuff
+
+49
+00:04:54,001 --> 00:04:56,020
+and pulling it together and putting it into one package.
+
+50
+00:04:57,220 --> 00:05:02,800
+Titanic was actually the second of a class of three superliners
+
+51
+00:05:02,801 --> 00:05:09,840
+that were projected to establish reliable big ship service between Europe and America.
+
+52
+00:05:10,760 --> 00:05:18,280
+The Olympic-class ships were really state-of-the-art, not cutting-edge, but state-of-the-art.
+
+53
+00:05:20,380 --> 00:05:26,240
+The ship was a manifestation of its opulent era, which began roughly a half century earlier,
+
+54
+00:05:26,820 --> 00:05:29,600
+in what became a golden age of invention and discovery.
+
+55
+00:05:32,440 --> 00:05:36,900
+Characterized by technological advances in the wake of the Industrial Revolution, the
+
+56
+00:05:36,901 --> 00:05:38,640
+achievements of this golden age were many.
+
+57
+00:05:40,700 --> 00:05:45,740
+Thomas Newcomen's steam engine was improved and patented by James Watt in 1769.
+
+58
+00:05:45,741 --> 00:05:52,740
+By the mid-19th century, gigantic coal-powered steam engines generated power for factories,
+
+59
+00:05:52,741 --> 00:05:57,740
+propelled locomotives, and powered ships.
+
+60
+00:05:57,741 --> 00:06:01,740
+The very coal that helped fuel the Industrial Revolution was now mined more productively
+
+61
+00:06:01,741 --> 00:06:06,740
+and efficiently because of the application of steam engines.
+
+62
+00:06:06,741 --> 00:06:10,740
+They were used to pump out toxic gases and water from mines,
+
+63
+00:06:10,741 --> 00:06:14,740
+allowing access to coal found in deeper, more hazardous veins.
+
+64
+00:06:15,740 --> 00:06:28,453
+Another technological advance of the mid-19th century was Henry Bessemer's ability to convert large amounts of iron into steel by forcing air through molten iron,
+
+65
+00:06:28,454 --> 00:06:33,240
+which purged impurities, producing a lighter, stronger metal.
+
+66
+00:06:33,241 --> 00:06:43,240
+Electricity generated by steam engines provided power for a host of other mid to late 19th
+
+67
+00:06:43,241 --> 00:06:51,900
+century inventions, including the telephone, the elevator, the wireless telegraph, and
+
+68
+00:06:51,901 --> 00:06:53,138
+the light bulb.
+
+69
+00:06:53,139 --> 00:06:59,660
+This golden age lit a spotlight on how the natural world worked, and seemingly,
+
+70
+00:06:59,661 --> 00:07:04,380
+it could be harnessed to do man's bidding.
+
+71
+00:07:04,381 --> 00:07:08,680
+By the turn of the 20th century, shipbuilders also had what they needed to revolutionize
+
+72
+00:07:08,681 --> 00:07:10,720
+ocean travel.
+
+73
+00:07:10,721 --> 00:07:14,160
+And so began the era of the great passenger ships.
+
+74
+00:07:14,161 --> 00:07:20,060
+England and Germany and France and Holland were your main maritime nations.
+
+75
+00:07:20,061 --> 00:07:25,780
+The United States was a poor second cousin and they had the American line, but basically
+
+76
+00:07:25,781 --> 00:07:30,000
+it was those four countries in Europe that had the large shipping.
+
+77
+00:07:33,160 --> 00:07:36,560
+England's two largest shipping lines, the Cunard and the White Star,
+
+78
+00:07:36,800 --> 00:07:41,120
+competed against each other, as well as against their competitors in other countries.
+
+79
+00:07:41,940 --> 00:07:46,840
+Their customers were primarily European immigrants, seeking a new life in the New World.
+
+80
+00:07:48,220 --> 00:07:52,960
+One thing that people don't understand is these ships were built for the immigrant trade,
+
+81
+00:07:52,961 --> 00:07:56,040
+which was a flourishing type of economy in those days.
+
+82
+00:07:56,340 --> 00:07:58,220
+And there was only one way to cross the ocean.
+
+83
+00:07:58,440 --> 00:08:02,000
+So your ships were built for the immigrant trade,
+
+84
+00:08:02,180 --> 00:08:07,040
+and of course it was the only way that first and second class type of people could cross the ocean,
+
+85
+00:08:07,180 --> 00:08:09,880
+so they made the necessary accommodations for them.
+
+86
+00:08:11,180 --> 00:08:16,040
+The faster, more stylish Cunard Line trumped the White Star Line in 1907
+
+87
+00:08:16,041 --> 00:08:20,060
+by introducing the two largest and fastest ships in the world,
+
+88
+00:08:20,061 --> 00:08:23,520
+the Lusitania and the Mauritania.
+
+89
+00:08:24,460 --> 00:08:28,720
+Each was over 30,000 tons and reached speeds of 26 knots,
+
+90
+00:08:29,380 --> 00:08:32,220
+cutting transatlantic travel to as little as five days.
+
+91
+00:08:33,320 --> 00:08:37,400
+The White Star Line and its shipbuilders, Harland and Wolfe of Belfast, Ireland,
+
+92
+00:08:37,740 --> 00:08:38,700
+had to respond.
+
+93
+00:08:39,560 --> 00:08:40,560
+But how?
+
+94
+00:08:43,280 --> 00:08:48,000
+The conservative White Star Line had no intention of competing with Cunard over speed
+
+95
+00:08:48,001 --> 00:08:53,620
+because the fuel costs of achieving certain speeds increases greatly with each additional knot.
+
+96
+00:08:56,340 --> 00:08:58,680
+Speed is very, very expensive.
+
+97
+00:08:59,880 --> 00:09:04,460
+And for, I think it is, for every knot over 21 knots,
+
+98
+00:09:04,820 --> 00:09:08,360
+you have to have the same amount of power to drive it to the next knot higher.
+
+99
+00:09:09,280 --> 00:09:13,840
+So coal consumption makes speed a very expensive operation.
+
+100
+00:09:13,841 --> 00:09:14,541
+it.
+
+101
+00:09:14,542 --> 00:09:20,440
+Instead, the White Star Line and Harland and Wolfe responded by trying to create the
+
+102
+00:09:20,441 --> 00:09:26,997
+largest, most luxurious ships ever built. Olympic, Titanic, and Britannic.
+
+103
+00:09:26,998 --> 00:09:28,060
+If they were
+
+104
+00:09:28,061 --> 00:09:34,320
+successful, the Olympic-class ships would answer Cunard's speed with sheer, splendiferous
+
+105
+00:09:34,321 --> 00:09:35,021
+bulk.
+
+106
+00:09:35,022 --> 00:09:43,460
+Tradition dictated that the names of White Star ships end in IC,
+
+107
+00:09:44,220 --> 00:09:47,480
+as in Olympic, Titanic, and Britannic,
+
+108
+00:09:47,820 --> 00:09:50,620
+just as the names of Cunard ships end in IA,
+
+109
+00:09:51,020 --> 00:09:53,280
+as in Mauritania and Lusitania.
+
+110
+00:09:54,500 --> 00:09:56,840
+Titanic Tech will return on Modern Marvels.
+
+111
+00:09:56,841 --> 00:10:10,120
+construction of the titanic began on march 31st 1909 three months after her sister ship the olympic
+
+112
+00:10:10,121 --> 00:10:18,140
+here in belfast northern ireland the shipyard for lord paris harland and wolf on the irish sea
+
+113
+00:10:18,141 --> 00:10:26,040
+Harlan and Wolfe gained a reputation for being able to build large ships.
+
+114
+00:10:26,640 --> 00:10:33,020
+They concentrated on two areas, large ship technology and steam engine technology.
+
+115
+00:10:33,400 --> 00:10:39,840
+So when Lord Perry and Ismay got together and designed the Olympic-class ships,
+
+116
+00:10:40,700 --> 00:10:47,120
+the Harlan and Wolfe shipyard was in a good position to accommodate the building of these two hulls.
+
+117
+00:10:48,140 --> 00:10:53,300
+But the blueprints called for ships so large that the yard had to be redesigned to accommodate them.
+
+118
+00:10:54,640 --> 00:10:59,340
+The shipyard had to radically change a lot of stuff in order to build those two ships.
+
+119
+00:11:00,080 --> 00:11:02,860
+They had to take a space which was normally used for building three ships
+
+120
+00:11:02,861 --> 00:11:06,260
+and reduce it to two building slips and put up a tremendous gantry over it
+
+121
+00:11:06,261 --> 00:11:09,080
+to handle the heavy weights that were going to be moved along underneath.
+
+122
+00:11:09,081 --> 00:11:13,400
+About four and a half feet of concrete had to be sunk into the slipways of the base
+
+123
+00:11:13,401 --> 00:11:18,820
+to make two giant slipways to erect these two holes.
+
+124
+00:11:19,300 --> 00:11:21,340
+A large gantry was designed.
+
+125
+00:11:21,880 --> 00:11:27,140
+This gantry would be used to suspend things like the hydraulic riveter, various other tools.
+
+126
+00:11:27,540 --> 00:11:30,800
+It uses it as a crane to lift heavy objects up to the heights they needed.
+
+127
+00:11:32,680 --> 00:11:39,280
+The 220-foot-high, 6,000-ton gantry crane was the largest of its kind in the world at that time.
+
+128
+00:11:39,281 --> 00:11:46,280
+Harland and Wolfe's Thomas Andrews was in charge of implementing the design of the ships,
+
+129
+00:11:46,281 --> 00:11:51,280
+closely scrutinized by managing director Lord Parry, who developed the requirements.
+
+130
+00:11:51,281 --> 00:11:57,550
+The White Star Line also monitored each stage of the planning and construction through its director, J.
+
+131
+00:11:57,551 --> 00:11:58,280
+Bruce Ismay.
+
+132
+00:11:58,281 --> 00:12:02,280
+Harland and Wolfe was the largest single employer in Belfast,
+
+133
+00:12:02,281 --> 00:12:08,280
+and more than 15,000 workers labored six days a week to construct the massive ships.
+
+134
+00:12:08,281 --> 00:12:11,300
+And though it must have been dramatic to see these behemoths take shape,
+
+135
+00:12:11,900 --> 00:12:14,520
+there was little about the design of the ships that was unusual.
+
+136
+00:12:16,760 --> 00:12:21,120
+The single technological flourish in the Titanic was size.
+
+137
+00:12:21,800 --> 00:12:25,120
+I think she was evolutionary, but she was not revolutionary.
+
+138
+00:12:25,121 --> 00:12:28,120
+Her main distinction still remained size.
+
+139
+00:12:29,380 --> 00:12:32,360
+Harlan and Wolfe was the tried and true.
+
+140
+00:12:33,080 --> 00:12:34,400
+They'd done it for decades.
+
+141
+00:12:34,401 --> 00:12:38,500
+They just built basically the same ships over and over again.
+
+142
+00:12:40,280 --> 00:12:45,400
+The process of building the Titanic, or any other ship, begins with laying down the keel,
+
+143
+00:12:45,840 --> 00:12:47,860
+which runs along the bottom of the ship's center.
+
+144
+00:12:49,080 --> 00:12:52,400
+A steel ship is built using a skeletal structure.
+
+145
+00:12:53,140 --> 00:12:58,700
+You can think of the keel as a spine, and then ribs that come up from the spine,
+
+146
+00:12:59,180 --> 00:13:02,340
+and then a skin over that to make a complete structure.
+
+147
+00:13:04,400 --> 00:13:17,420
+The Olympic and the Titanic each had a double bottom, or watertight space between the keel and the lowest deck of the ship.
+
+148
+00:13:18,480 --> 00:13:24,240
+This common feature was primarily for safety, and secondarily a storage area for water ballast.
+
+149
+00:13:25,600 --> 00:13:32,120
+Double hulling the ships, a process that added an extra hull of steel outside the existing hull, would have increased their safety,
+
+150
+00:13:32,121 --> 00:13:35,560
+but would have been both expensive and unusual for the time.
+
+151
+00:13:38,040 --> 00:13:40,680
+Then ribs went vertically up.
+
+152
+00:13:41,640 --> 00:13:46,680
+Three feet spacing was the average between the ribs, the length of the vessel.
+
+153
+00:13:48,220 --> 00:13:52,840
+As the ribs began to take shape, then you started to put in deck beams
+
+154
+00:13:52,841 --> 00:13:58,240
+to give it longitudinal rigidity as you're building it up.
+
+155
+00:13:58,241 --> 00:14:09,340
+Once the framing process is done, and the framing process took about a year, then you began the plating.
+
+156
+00:14:10,800 --> 00:14:21,140
+The nearly 26,000 ton hull would have a skin of overlapping steel plates, each one inch thick and as large as 30 by 6 feet.
+
+157
+00:14:21,960 --> 00:14:27,520
+The steel was forged using the open hearth process, an improvement over the older Bessemer process.
+
+158
+00:14:28,240 --> 00:14:33,800
+The method called for large brick ovens that reach temperatures of nearly 3,000 degrees.
+
+159
+00:14:35,580 --> 00:14:43,160
+This process of making the steel on an open hearth was a bit more efficient
+
+160
+00:14:43,161 --> 00:14:48,440
+because you could melt scrap iron plus ore together
+
+161
+00:14:48,441 --> 00:14:55,460
+and reuse some byproducts from other processes and generate the steel that way.
+
+162
+00:14:55,461 --> 00:14:58,900
+That was the state-of-the-art technology at the time.
+
+163
+00:14:59,360 --> 00:15:03,800
+It was about the best and most efficient way to produce mild steel.
+
+164
+00:15:06,260 --> 00:15:11,260
+Steel on the Olympic, Titanic, and many other ships of the day was prone to micro-cracking,
+
+165
+00:15:12,000 --> 00:15:16,360
+a condition causing minuscule fissures, particularly around rivet holes.
+
+166
+00:15:18,040 --> 00:15:21,680
+Harland and Wolfe was aware of this, but considered it to be a manageable condition.
+
+167
+00:15:21,681 --> 00:15:30,200
+steel plates will be fastened over the entire hull by more than three million rivets each
+
+168
+00:15:30,201 --> 00:15:37,120
+three inches long the rivets that were hydraulically driven into the ship they
+
+169
+00:15:37,121 --> 00:15:46,280
+had these huge hydraulic presses that they hung from the gantry that that was suspended over the
+
+170
+00:15:46,281 --> 00:15:48,980
+holes as they were building in Belfast.
+
+171
+00:15:49,460 --> 00:15:53,960
+Hydraulic riveting was used on a great part of the ship,
+
+172
+00:15:54,080 --> 00:15:57,180
+but when the machine couldn't fit, it was all done by hand.
+
+173
+00:15:59,380 --> 00:16:02,920
+Although state-of-the-art at the time, the method was not flawless.
+
+174
+00:16:04,440 --> 00:16:08,800
+Imperfect metal called slag sometimes found its way into the wrought iron rivets,
+
+175
+00:16:09,120 --> 00:16:10,480
+which were hammered by hand.
+
+176
+00:16:10,481 --> 00:16:24,481
+Slag in the wrought iron rivets is the result of the fact that neither the Bessemer nor the open hearth process of making the steel were perfect in extracting all its
+
+177
+00:16:26,949 --> 00:16:28,040
+impurities.
+
+178
+00:16:28,240 --> 00:16:36,460
+Some of it eventually finds its way into the making of the rivet, and that slag will weaken the rivet.
+
+179
+00:16:36,461 --> 00:16:45,600
+Although these rivets would not pass today's standards, they were the highest quality achievable at the time and were considered more than adequate.
+
+180
+00:16:47,920 --> 00:16:54,700
+Inside the hull were 15 bulkheads separating 16 watertight compartments lined up in the bottom of the ship.
+
+181
+00:16:56,120 --> 00:17:00,140
+Virtually all ships like the Titanic would have had similar watertight bulkheads.
+
+182
+00:17:01,140 --> 00:17:05,900
+Even with the four front compartments breached, or two of the side compartments breached,
+
+183
+00:17:06,220 --> 00:17:10,700
+the ship would not sink, and a collision breaching more than one compartment was rare.
+
+184
+00:17:13,580 --> 00:17:19,520
+However, bulkhead walls were not sealed at the top, because the designers considered it unnecessary.
+
+185
+00:17:20,560 --> 00:17:23,280
+Based on the number of breached compartments the ship could survive,
+
+186
+00:17:24,000 --> 00:17:27,500
+water levels inside the compartments should never have risen over the walls.
+
+187
+00:17:27,501 --> 00:17:34,380
+If water did flood over the walls, it would indicate more than a survivable number of compartments were breached,
+
+188
+00:17:34,720 --> 00:17:39,080
+and the ship was experiencing a fatal loss of buoyancy, causing it to sink,
+
+189
+00:17:39,680 --> 00:17:42,640
+whether water flowed over the compartment walls or not.
+
+190
+00:17:44,760 --> 00:17:51,940
+Harlan and Wolf was very sensible and practical about their application of what they had learned from experience
+
+191
+00:17:51,941 --> 00:17:53,740
+and what we're going to use in our ships.
+
+192
+00:17:54,500 --> 00:18:01,140
+They went for safety, comfort, ironically safety, with all the water type subdivision and so forth.
+
+193
+00:18:03,100 --> 00:18:12,180
+On May 31, 1911, the Titanic's hull was launched from the building gantry nearly seven months after the Olympics hull was launched in 1910.
+
+194
+00:18:13,580 --> 00:18:19,060
+Over 100,000 people watched from the yard as the ship slid down the slip into the River Lagan,
+
+195
+00:18:19,061 --> 00:18:25,560
+with the aid of more than 22 tons of grease, consisting of fat, soap, and train oil.
+
+196
+00:18:26,600 --> 00:18:30,880
+A workman was killed just prior to the launch, the second death attributed to construction.
+
+197
+00:18:32,960 --> 00:18:38,320
+He unfortunately was removing the poles or the lumber underneath and one fell on him.
+
+198
+00:18:39,140 --> 00:18:42,100
+And he later died in a Belfast hospital.
+
+199
+00:18:43,360 --> 00:18:46,200
+Lost lives were simply the cost of doing business,
+
+200
+00:18:46,201 --> 00:18:50,460
+with one loss expected for roughly every 100,000 tons of construction.
+
+201
+00:18:52,760 --> 00:18:55,600
+In addition to the human toll was the financial one.
+
+202
+00:18:57,380 --> 00:19:01,640
+The Titanic would ultimately cost Harland and Wolf $7.5 million,
+
+203
+00:19:02,340 --> 00:19:05,320
+equal to well over $120 million today.
+
+204
+00:19:06,540 --> 00:19:09,720
+But at this stage, the ship was still merely an empty hull.
+
+205
+00:19:12,580 --> 00:19:16,020
+Three large anchors, three massive propellers,
+
+206
+00:19:16,200 --> 00:19:19,340
+and four funnels were designed and built for the ship.
+
+207
+00:19:21,220 --> 00:19:24,440
+The anchors were forged and hammered of rough cast steel.
+
+208
+00:19:25,600 --> 00:19:28,780
+The side anchors were 7 3⁄4 tons each.
+
+209
+00:19:29,340 --> 00:19:31,660
+The center anchor was 15 tons,
+
+210
+00:19:31,900 --> 00:19:34,920
+and there's a famous picture of all the horses carrying it to the yard.
+
+211
+00:19:36,780 --> 00:19:41,060
+Two three-bladed side propellers, each 23 1⁄2 feet across,
+
+212
+00:19:41,240 --> 00:19:43,020
+weighed in at 38 tons apiece.
+
+213
+00:19:44,000 --> 00:19:48,960
+A four-bladed center propeller was 16 1⁄2 feet across and weighed 22 tons.
+
+214
+00:19:50,460 --> 00:19:53,100
+The propellers were made at Harlan and Wolf's Yard themselves.
+
+215
+00:19:53,220 --> 00:19:56,000
+They did have a foundry at that time that produced certain parts.
+
+216
+00:19:56,180 --> 00:19:59,680
+The Castile bosses for the wing screws and the bronze blades were both produced there,
+
+217
+00:19:59,760 --> 00:20:02,980
+as well as the four-bladed center screw, which was also manganese bronze.
+
+218
+00:20:04,860 --> 00:20:07,440
+Four oval funnels lined the center of the ship.
+
+219
+00:20:08,360 --> 00:20:13,980
+Three of the four funnels were necessary for ventilation of combustion and flue gases from the boiler rooms.
+
+220
+00:20:14,840 --> 00:20:19,700
+The fourth one was not necessary for removing boiler gases, but it was added for aesthetics partially,
+
+221
+00:20:19,840 --> 00:20:22,380
+but also was used as a ventilator for the turbine engine rooms,
+
+222
+00:20:22,500 --> 00:20:25,240
+and it also had a pipe that came up from the inside from the galleys,
+
+223
+00:20:25,300 --> 00:20:27,500
+which vented off the coal smoke from those stoves and ovens.
+
+224
+00:20:28,880 --> 00:20:32,080
+More than 2,000 portholes and windows studded the ship.
+
+225
+00:20:33,080 --> 00:20:37,960
+Two 205-foot masts were attached, one with a derrick for lifting motor cars,
+
+226
+00:20:38,540 --> 00:20:44,300
+and a ladder inside for climbing to the crow's nest to watch for, among other things, icebergs.
+
+227
+00:20:45,920 --> 00:20:49,380
+It would take nearly a year to complete the fitting out of the Titanic.
+
+228
+00:20:51,000 --> 00:20:53,960
+Fitting out, basically that's the completing of the ship.
+
+229
+00:20:53,961 --> 00:20:58,780
+You take an empty shell and you turn it into a palatial floating palace.
+
+230
+00:20:58,781 --> 00:21:04,840
+Harland and Wolfe now began to incorporate not just the fixtures and fabrics and woodwork,
+
+231
+00:21:05,360 --> 00:21:09,760
+but the technology that would make the Titanic a catalog of Edwardian achievement.
+
+232
+00:21:12,920 --> 00:21:17,640
+The Titanic and the Olympic were so large that the White Star piers in New York City
+
+233
+00:21:17,641 --> 00:21:22,000
+had to be extended by 100 feet so that the ships could be berthed in the harbor.
+
+234
+00:21:23,040 --> 00:21:25,280
+Titanic Tech will return on Modern Marvelous.
+
+235
+00:21:28,780 --> 00:21:37,640
+Although the Titanic was the largest ship in the world, all three of the Olympic-class ships were designed to be 882 1⁄2 feet long.
+
+236
+00:21:38,720 --> 00:21:42,620
+Olympic and Titanic were built from the same basic drawings exactly.
+
+237
+00:21:42,760 --> 00:21:45,680
+They're exactly the same length, the same width, the same height.
+
+238
+00:21:46,020 --> 00:21:48,940
+They were designed originally to be identical twins.
+
+239
+00:21:49,860 --> 00:21:56,440
+But modifications to the Titanic increased her weight to 53,000 tons, thus making her the largest.
+
+240
+00:21:56,441 --> 00:21:59,600
+and she was just as imposing inside as out.
+
+241
+00:22:00,360 --> 00:22:04,300
+The heart of all power on the Titanic came from steam.
+
+242
+00:22:05,100 --> 00:22:07,000
+The generation of steam propelled the ship.
+
+243
+00:22:07,720 --> 00:22:11,440
+It lit the ship, made electrical power for all the stuff on board.
+
+244
+00:22:11,520 --> 00:22:13,720
+It ran the refrigeration systems. It ran everything.
+
+245
+00:22:14,680 --> 00:22:18,440
+There were six boiler rooms occupying a space of about 320 feet
+
+246
+00:22:18,441 --> 00:22:19,640
+throughout the length of the ship.
+
+247
+00:22:21,320 --> 00:22:24,760
+29 15-foot-high boilers were installed in the hull.
+
+248
+00:22:25,580 --> 00:22:30,600
+Next to the boilers were the ship's engines, two reciprocating engines and a steam turbine.
+
+249
+00:22:32,380 --> 00:22:35,920
+The two engines turned the side propellers, or wing screws.
+
+250
+00:22:37,220 --> 00:22:45,404
+Each of these reciprocating engines had a high-pressure cylinder, an intermediate pressure cylinder, and a low-pressure cylinder, each one driving a crank on that
+
+251
+00:22:45,405 --> 00:22:46,105
+crankshaft.
+
+252
+00:22:46,106 --> 00:22:55,000
+steam was admitted at approximately 210 pounds per square inch to the high pressure cylinder
+
+253
+00:22:55,001 --> 00:22:59,760
+it was exhausted from the high pressure cylinders to the intermediate at 78 pounds per square inch
+
+254
+00:22:59,761 --> 00:23:06,140
+and then from the intermediate to the low pressure at 24 pounds per square inch
+
+255
+00:23:06,141 --> 00:23:12,080
+after the steam exited the low pressure cylinder it was still useful within the vacuum of the
+
+256
+00:23:12,081 --> 00:23:12,854
+closed pipes.
+
+257
+00:23:12,855 --> 00:23:17,680
+In Titanic's case, they took that remaining steam, which exited out of the engine
+
+258
+00:23:17,681 --> 00:23:26,320
+at 9 psi, and they diverted it into a low-pressure turbine, which used the steam to impact against
+
+259
+00:23:26,321 --> 00:23:33,256
+thousands of blades attached to rotors. The turbine turned the center screw.
+
+260
+00:23:33,257 --> 00:23:34,260
+After that,
+
+261
+00:23:34,420 --> 00:23:39,980
+whatever steam was left was diverted to condensers, turned back into water, and fed back into the
+
+262
+00:23:39,981 --> 00:23:43,968
+boilers in a closed system. It was extremely efficient.
+
+263
+00:23:43,969 --> 00:23:46,360
+Ships only 50 years before it did
+
+264
+00:23:46,361 --> 00:23:50,236
+not have this sort of stuff and they burned tremendous amounts of fuel.
+
+265
+00:23:50,237 --> 00:23:51,000
+The ship could
+
+266
+00:23:51,001 --> 00:23:56,029
+carry nearly 6,000 tons of coal in its massive bunkers.
+
+267
+00:23:56,030 --> 00:23:59,320
+Using approximately 625 tons of coal
+
+268
+00:23:59,321 --> 00:24:05,260
+a day at a speed of 22 knots, the Titanic's engines produced in the range of 46,000 to
+
+269
+00:24:05,261 --> 00:24:11,320
+50,000 horsepower. But that's not all they did. They also generated electricity.
+
+270
+00:24:12,220 --> 00:24:16,856
+Titanic's electrical plant consisted of four generating sets.
+
+271
+00:24:16,857 --> 00:24:19,060
+Each generating set consisted
+
+272
+00:24:19,061 --> 00:24:26,540
+of an engine coupled to a 400 kilowatt dynamo, which generated 100 volt direct current that was
+
+273
+00:24:26,541 --> 00:24:28,147
+used in the ship.
+
+274
+00:24:28,148 --> 00:24:35,140
+It was used for a number of things, but primarily electricity was used for
+
+275
+00:24:35,141 --> 00:24:42,040
+ventilation, to run all the fans, for heating, for the electrical heaters throughout the
+
+276
+00:24:42,041 --> 00:24:44,460
+ship, and also for illumination.
+
+277
+00:24:46,300 --> 00:24:51,240
+Electricity was relatively new to passenger ships, and the Titanic indulged in it like
+
+278
+00:24:51,241 --> 00:24:57,080
+no other ship before, with over 200 miles of electric cable and more than 10,000 light
+
+279
+00:24:57,081 --> 00:24:59,720
+bulbs, illuminating the ship almost to excess.
+
+280
+00:24:59,721 --> 00:25:05,640
+Electricity from the engine also ran one of the three closed telephone systems on board.
+
+281
+00:25:06,200 --> 00:25:10,880
+One with a 50-phone switchboard and another that connected the crow's nest to the bridge.
+
+282
+00:25:13,120 --> 00:25:15,680
+Electricity ran equipment in the first-class gymnasium,
+
+283
+00:25:16,580 --> 00:25:18,580
+powered heaters in the first-class rooms,
+
+284
+00:25:19,440 --> 00:25:21,640
+even the Turkish baths on F-deck.
+
+285
+00:25:22,480 --> 00:25:25,160
+There were Turkish baths on other ships,
+
+286
+00:25:25,161 --> 00:25:28,920
+but they just pulled out all the stops here for Olympic and Titanic
+
+287
+00:25:28,921 --> 00:25:33,720
+with a very elaborate Arabian-style cooling room.
+
+288
+00:25:33,840 --> 00:25:36,480
+They had a shampooing room, hot room, steam room.
+
+289
+00:25:38,400 --> 00:25:41,600
+Another relative novelty was the four sets of elevators,
+
+290
+00:25:41,880 --> 00:25:45,700
+three for first class and, in an unusually inclusive gesture,
+
+291
+00:25:46,480 --> 00:25:47,860
+one for second class.
+
+292
+00:25:49,100 --> 00:25:50,820
+Third class took the stairs.
+
+293
+00:25:53,480 --> 00:25:56,560
+Select first-class suites had their own private baths,
+
+294
+00:25:56,640 --> 00:25:58,140
+an extreme luxury at the time.
+
+295
+00:25:58,920 --> 00:26:04,040
+But all 710 passengers and steerage shared just two bathtubs.
+
+296
+00:26:04,120 --> 00:26:09,580
+But on such a short trip, most passengers wouldn't miss their weekly bath if they waited until the end of the voyage.
+
+297
+00:26:11,580 --> 00:26:18,460
+Three water systems supply drinking water, distilled water for hand and dishwashing, and seawater for baths and toilets.
+
+298
+00:26:23,220 --> 00:26:26,580
+Small tanks also provided water to sinks in some rooms.
+
+299
+00:26:28,920 --> 00:26:35,920
+First-class passengers could also avail themselves of a 30-foot-long, 14-foot-wide swimming pool,
+
+300
+00:26:35,921 --> 00:26:40,920
+a luxury previously seen on only one other ship before the Olympic and the Titanic,
+
+301
+00:26:40,921 --> 00:26:43,920
+but on a much smaller scale.
+
+302
+00:26:43,921 --> 00:26:49,920
+On September 20, 1911, Titanic's efficient construction schedule was disrupted.
+
+303
+00:26:49,921 --> 00:26:55,920
+As the Titanic was still being fitted out, the Olympic collided with another ship.
+
+304
+00:26:55,921 --> 00:27:01,720
+Attention was diverted from the Titanic as workmen labored to repair the gaping hole in the Olympics hull.
+
+305
+00:27:02,760 --> 00:27:08,960
+Some argued that the enormous size of the ships in comparison to their rudders contributed to a lack of maneuverability.
+
+306
+00:27:09,720 --> 00:27:14,060
+Five stories tall and weighing 101 tons, the rudder was hardly small.
+
+307
+00:27:14,640 --> 00:27:16,700
+But was it big enough for such a massive ship?
+
+308
+00:27:18,420 --> 00:27:20,880
+Much has been made about the rudder being too small.
+
+309
+00:27:21,740 --> 00:27:23,100
+This is another one of these myths.
+
+310
+00:27:23,101 --> 00:27:27,040
+based on data that still exists from the Olympics trials.
+
+311
+00:27:27,420 --> 00:27:30,500
+The turning circles and the amount of time it took to change that ship's direction
+
+312
+00:27:30,501 --> 00:27:32,600
+are perfectly acceptable within today's standards.
+
+313
+00:27:34,660 --> 00:27:37,920
+Unconcerned that Olympics collision might be the result of a design flaw,
+
+314
+00:27:38,620 --> 00:27:41,140
+Harland and Wolfe conducted the Titanic sea trials,
+
+315
+00:27:41,440 --> 00:27:43,640
+a period during which the ship's systems are tested,
+
+316
+00:27:44,540 --> 00:27:48,840
+on April 2, 1912, putting the ship through turns and maneuvers.
+
+317
+00:27:48,841 --> 00:27:57,840
+Its satisfied owners had no reason to postpone the Titanic's maiden voyage, set for eight days later, April 10, 1912.
+
+318
+00:27:59,840 --> 00:28:06,840
+Cargo on the Titanic included a new Renault automobile, 300 cases of walnuts, two barrels of mercury,
+
+319
+00:28:07,840 --> 00:28:13,840
+and a single rare jewel-encrusted copy of the literary classic, The Rubaiyat of Omar Khayyam.
+
+320
+00:28:13,841 --> 00:28:20,620
+Titanic Tech will return on Modern Marvel.
+
+321
+00:28:26,480 --> 00:28:31,620
+The Titanic set off from Southampton for Cherbourg on April 10, 1912,
+
+322
+00:28:31,621 --> 00:28:34,060
+with roughly 1,300 passengers,
+
+323
+00:28:35,220 --> 00:28:37,720
+including the Titanic's designer, Thomas Andrews,
+
+324
+00:28:37,960 --> 00:28:41,140
+and White Star Line president, J. Bruce Ismay.
+
+325
+00:28:41,141 --> 00:28:49,140
+Edward John Smith, a veteran White Star ship's captain, may have considered making this maiden voyage as his last before retiring.
+
+326
+00:28:51,780 --> 00:28:57,360
+He joined a nearly 900-person crew that ushered passengers onto their respective decks.
+
+327
+00:28:58,620 --> 00:29:03,020
+The luxury was evident immediately, at least to first- and second-class passengers.
+
+328
+00:29:04,480 --> 00:29:08,280
+A first-class lounge was even patterned after the palace at Versailles.
+
+329
+00:29:08,281 --> 00:29:13,560
+But the real architectural flourish of the ship was a five-story wooden staircase.
+
+330
+00:29:14,400 --> 00:29:23,380
+To my mind, the grand staircase of Titanic was by far her most compelling and attractive architectural feature.
+
+331
+00:29:25,280 --> 00:29:28,940
+I've never seen anything quite like it before or since in any other ship.
+
+332
+00:29:29,020 --> 00:29:31,620
+It just looks perfect to me.
+
+333
+00:29:31,720 --> 00:29:33,680
+The dome overhead is just perfect.
+
+334
+00:29:33,760 --> 00:29:35,460
+Not too much, not too little.
+
+335
+00:29:35,461 --> 00:29:42,460
+Still, it wasn't unique. Other ships had multi-deck staircases.
+
+336
+00:29:42,461 --> 00:29:48,460
+Though the Titanic's elegance was undeniable, it was also old-fashioned.
+
+337
+00:29:48,461 --> 00:29:52,460
+Harland and Wolf's carpenters built the same style furniture,
+
+338
+00:29:52,461 --> 00:29:58,460
+laid the same patterned carpeting, and installed the same stained glass windows as they had in previous ships.
+
+339
+00:29:58,461 --> 00:30:02,460
+Stylistically, they tried little that was new.
+
+340
+00:30:02,461 --> 00:30:07,180
+They were somewhat pedestrian, oddly enough.
+
+341
+00:30:07,540 --> 00:30:10,520
+I've never understood why they didn't try.
+
+342
+00:30:10,660 --> 00:30:15,740
+They had the opportunity with Olympic and Titanic to do something very different.
+
+343
+00:30:16,220 --> 00:30:19,380
+And they went for the very same patterns, the very same fabrics,
+
+344
+00:30:19,381 --> 00:30:21,920
+the very same carvings in some of the public rooms
+
+345
+00:30:21,921 --> 00:30:24,940
+that could be seen in some of their earlier ships.
+
+346
+00:30:26,620 --> 00:30:30,060
+If the Titanic wasn't exactly stylistically up to date,
+
+347
+00:30:30,420 --> 00:30:31,980
+it was safety conscious.
+
+348
+00:30:32,460 --> 00:30:36,000
+In addition to the double bottom and the watertight bulkheads,
+
+349
+00:30:36,740 --> 00:30:40,700
+watertight doors in those bulkheads could be locked and sealed electrically from the bridge.
+
+350
+00:30:42,220 --> 00:30:45,540
+Although the original plans called for 64 lifeboats,
+
+351
+00:30:45,920 --> 00:30:50,660
+the final tally of 20 exceeded the legal limit for British-flagged ships of her size.
+
+352
+00:30:52,720 --> 00:30:55,540
+It's amazing how people talk about lifeboats.
+
+353
+00:30:56,280 --> 00:30:59,480
+There weren't enough on the Titanic and this type of thing.
+
+354
+00:30:59,481 --> 00:31:05,760
+But one must remember all steamship companies of the time had similar faults.
+
+355
+00:31:06,560 --> 00:31:12,740
+Lifeboat accommodation was based on tonnage, not the number of people you carried.
+
+356
+00:31:13,500 --> 00:31:20,500
+And in fact, the Titanic had more lifeboats than what the requirement called for.
+
+357
+00:31:20,840 --> 00:31:26,560
+She had 14 wooden boats, she had two emergency cutters, and she had four collapsible boats.
+
+358
+00:31:26,561 --> 00:31:35,800
+With room for 1,200 passengers in the lifeboats, mariners considered this more than sufficient for a ship with a capacity of over 3,000.
+
+359
+00:31:38,360 --> 00:31:46,460
+Lifeboats were meant only to ferry passengers from a damaged or disabled ship, not to sustain every passenger on board indefinitely on the open seas.
+
+360
+00:31:48,740 --> 00:31:54,480
+And why should Harland and Wolf worry now that science had provided the wireless for ships to communicate at sea?
+
+361
+00:31:55,480 --> 00:31:59,560
+This was arguably the single greatest technological achievement on the Titanic,
+
+362
+00:31:59,780 --> 00:32:02,620
+and possibly its most significant safety device.
+
+363
+00:32:03,500 --> 00:32:06,040
+And it was unlike that on any other ship.
+
+364
+00:32:07,600 --> 00:32:12,140
+She was the only one afloat that carried a Marconi rotary disc.
+
+365
+00:32:12,480 --> 00:32:15,200
+Titanic had 16 studs around the periphery of her disc.
+
+366
+00:32:15,680 --> 00:32:17,460
+This thing spun at a high rate of speed,
+
+367
+00:32:18,120 --> 00:32:23,620
+and every time the electrodes lined up, the spark jumped between them.
+
+368
+00:32:23,621 --> 00:32:30,020
+This caused more hits and gave Titanic's spark a very musical tone.
+
+369
+00:32:30,720 --> 00:32:37,360
+The spark discharged across the electrodes 120 times per second, which resulted in a clear high-density tone.
+
+370
+00:32:38,020 --> 00:32:42,960
+When the operator pressed the key, a circuit was completed, allowing current to flow through the transmitter.
+
+371
+00:32:44,200 --> 00:32:48,340
+Opening and closing the circuit created the Morse code characters comprising each message.
+
+372
+00:32:48,341 --> 00:32:55,580
+And it was the tone itself that carried farther, not the brute power of the spark, but the actual tone.
+
+373
+00:32:56,720 --> 00:33:04,220
+The Titanic's Marconi wireless had a range of 250 to 400 miles during the day, and even farther at night.
+
+374
+00:33:05,040 --> 00:33:13,040
+They were testing the wireless in Belfast, and the wireless operators actually picked up Cairo.
+
+375
+00:33:14,180 --> 00:33:16,620
+So that was quite a distance back then.
+
+376
+00:33:18,340 --> 00:33:21,440
+In the unlikely event that the Titanic was damaged,
+
+377
+00:33:21,441 --> 00:33:25,280
+a signal could be sent to nearby ships to aid in rescue operations.
+
+378
+00:33:26,600 --> 00:33:30,440
+Ships could also warn each other about potential trouble, such as icebergs.
+
+379
+00:33:33,240 --> 00:33:35,560
+But despite this emphasis on safety,
+
+380
+00:33:35,840 --> 00:33:38,880
+trouble plagued the Titanic before it ever left Southampton Harbor.
+
+381
+00:33:39,980 --> 00:33:44,980
+Its massive hull displaced so much water that a nearby ship nearly collided with it.
+
+382
+00:33:44,981 --> 00:33:52,220
+Also, a persistent coal fire buried in a bunker smoldered for several days.
+
+383
+00:33:53,880 --> 00:33:58,400
+You would have spontaneous combustion in areas of coal bunkers.
+
+384
+00:33:58,860 --> 00:34:03,420
+It happened quite often. It was not raging flames or anything like that.
+
+385
+00:34:04,040 --> 00:34:08,220
+But they would just continue drawing the coal until the seat of the fire was revealed,
+
+386
+00:34:08,221 --> 00:34:10,280
+and then they would extinguish the embers.
+
+387
+00:34:10,281 --> 00:34:20,120
+The Titanic made two otherwise uneventful stops before heading for America, with just over 2,200 passengers and crew.
+
+388
+00:34:22,000 --> 00:34:26,640
+Wireless messages of congratulations were mixed with warnings of ice in the sea lanes.
+
+389
+00:34:27,700 --> 00:34:32,920
+As these were sent to the bridge, Captain Smith ordered the ship into a more southerly route.
+
+390
+00:34:32,921 --> 00:34:41,940
+A six-hour wireless breakdown on the ship added to a backlog of messages, including iceberg warnings over the weekend.
+
+391
+00:34:44,140 --> 00:34:53,480
+By Sunday, April 14th, with the wireless finally repaired and the coal fire out, the ship was traveling at nearly full power, 22 knots.
+
+392
+00:34:54,880 --> 00:34:58,660
+It was a moonless night, and the seas were remarkably calm.
+
+393
+00:34:59,320 --> 00:35:03,600
+Calm dark seas may be good for passengers, but bad for spotting icebergs,
+
+394
+00:35:03,880 --> 00:35:07,660
+since no waves would lap against the ice and no moon would reflect off it.
+
+395
+00:35:07,960 --> 00:35:13,080
+But at approximately 11.40 p.m., a warning rang out from the crow's nest.
+
+396
+00:35:13,820 --> 00:35:15,180
+An iceberg was dead ahead.
+
+397
+00:35:15,740 --> 00:35:22,560
+As the Titanic bore down upon it, no liner ever built was better prepared to withstand such a collision.
+
+398
+00:35:23,940 --> 00:35:27,560
+Originally, the Titanic's newer sister ship was to be called the Gigantic,
+
+399
+00:35:27,561 --> 00:35:36,300
+But after the Titanic sank, the hull, which was already under construction, was renamed Britannic to avoid the appearance of arrogance.
+
+400
+00:35:37,440 --> 00:35:39,860
+Titanic Tech will return on Modern Marvelous.
+
+401
+00:35:44,660 --> 00:35:48,800
+As the Titanic bore down on an iceberg directly in its path,
+
+402
+00:35:49,460 --> 00:35:57,340
+later estimates determined that 37 seconds elapsed from the moment the crow's nest alerted the bridge until the Titanic collided with it.
+
+403
+00:35:57,560 --> 00:36:03,100
+I corresponded with Frederick Fleet, who was in the crow's nest of the Titanic,
+
+404
+00:36:03,460 --> 00:36:07,900
+and he said when he first saw the iceberg, it looked like just a little bump on the horizon.
+
+405
+00:36:08,620 --> 00:36:13,240
+But he immediately picked up the telephone that was in the crow's nest
+
+406
+00:36:13,241 --> 00:36:17,420
+and called the bridge and said, iceberg right ahead, sir.
+
+407
+00:36:18,540 --> 00:36:23,440
+Berg was approximately one mile away with the ship traveling at roughly 21 knots.
+
+408
+00:36:24,100 --> 00:36:27,140
+First Officer Murdoch ordered the wheel turned and engines reversed.
+
+409
+00:36:27,560 --> 00:36:33,240
+to maneuver out of the way but there simply wasn't time or room for the titanic to clear the berg
+
+410
+00:36:33,241 --> 00:36:35,800
+instead murdoch sealed the ship's fate
+
+411
+00:36:43,000 --> 00:36:49,240
+if the ship hadn't been going you know a fraction of a knot that fast if it had been going any slower
+
+412
+00:36:49,241 --> 00:36:54,040
+the bow would have you know missed it it would have it was starting to turn it almost missed
+
+413
+00:36:54,041 --> 00:36:58,880
+the berg, if it had just had five seconds more warning or five seconds later warning,
+
+414
+00:36:58,960 --> 00:37:00,918
+it might have hit the berg more direct.
+
+415
+00:37:00,919 --> 00:37:03,680
+The ship was designed to withstand a head-on collision.
+
+416
+00:37:03,681 --> 00:37:09,320
+It was that glancing scrape all along the side that was the death knell.
+
+417
+00:37:10,300 --> 00:37:14,960
+The collision likely caused the rivets on the steel plates of the hull below water level
+
+418
+00:37:14,961 --> 00:37:20,140
+to pop under pressure along a 220-foot line, breaching six compartments.
+
+419
+00:37:20,141 --> 00:37:24,400
+all Murdoch knew was that they'd hit.
+
+420
+00:37:24,960 --> 00:37:28,300
+He went to the lever to close the watertight doors.
+
+421
+00:37:30,700 --> 00:37:33,780
+And from that point on, Captain Smith came up on the bridge
+
+422
+00:37:33,781 --> 00:37:36,700
+and this was just after they struck the berg
+
+423
+00:37:36,701 --> 00:37:39,000
+and Captain Smith said, what happened?
+
+424
+00:37:39,080 --> 00:37:41,500
+And Murdoch said, we've struck an iceberg, sir.
+
+425
+00:37:41,660 --> 00:37:44,280
+I tried hard to pour it around her, but she was too close.
+
+426
+00:37:44,720 --> 00:37:48,980
+And from that point on, the Titanic, of course, was mortally wounded.
+
+427
+00:37:50,140 --> 00:37:59,340
+There is also evidence to suggest that the ship may have temporarily ridden up onto the iceberg instead of, or in addition to, grading it along the side.
+
+428
+00:38:01,620 --> 00:38:06,700
+A survivor claimed he saw water rushing into a portion of the hull that could not have been breached.
+
+429
+00:38:08,640 --> 00:38:12,320
+Fireman Hendrickson saw water pouring into the fireman's passage.
+
+430
+00:38:13,060 --> 00:38:15,660
+That passage was compromised somehow.
+
+431
+00:38:16,440 --> 00:38:17,640
+It was open to the sea.
+
+432
+00:38:18,500 --> 00:38:19,800
+It was a large amount of water.
+
+433
+00:38:20,140 --> 00:38:23,500
+yet the fireman's passage was in the center of the ship.
+
+434
+00:38:23,600 --> 00:38:26,180
+It was three feet away from the skin of the ship.
+
+435
+00:38:26,760 --> 00:38:32,360
+Now, under no account do we speculate that the iceberg penetrated three feet into the side of the ship.
+
+436
+00:38:32,960 --> 00:38:38,520
+However, the fireman's passage was supported on stanchions coming from the bottom of the ship.
+
+437
+00:38:39,440 --> 00:38:41,640
+If this eyewitness account is accurate,
+
+438
+00:38:41,641 --> 00:38:45,160
+water must have been pouring into a watertight compartment from below.
+
+439
+00:38:45,161 --> 00:38:51,700
+designer Thomas Andrews joined a carpenter sent by Captain Smith to sound or inspect the ship
+
+440
+00:38:51,701 --> 00:38:59,320
+what they saw confirmed their worst fears Andrews calculated that the ship was doomed
+
+441
+00:38:59,321 --> 00:39:04,360
+as soon as he saw the extent of the damage and I have to wonder what Andrew saw during
+
+442
+00:39:04,361 --> 00:39:10,480
+his inspection I would like to know if he knew that there were other points of ingress for the
+
+443
+00:39:10,481 --> 00:39:19,160
+water and based on that he was able to calculate that at a certain point in this sinking process,
+
+444
+00:39:19,660 --> 00:39:25,280
+the water was going to find these non-water type decks and once it did that, the ship was doomed.
+
+445
+00:39:27,100 --> 00:39:31,420
+Despite theories about the micro cracking of the ship's steel and weakened rivets,
+
+446
+00:39:31,421 --> 00:39:35,940
+there was no conclusive evidence that either played a significant part in causing the disaster.
+
+447
+00:39:36,940 --> 00:39:40,680
+The same is true for the theory that the coal fire may have weakened the hull.
+
+448
+00:39:42,560 --> 00:39:46,200
+Simply put, the collision alone was catastrophic enough.
+
+449
+00:39:48,220 --> 00:39:52,960
+A stunned Captain Smith eventually gave the order to lower the lifeboats just after midnight.
+
+450
+00:39:54,320 --> 00:39:58,040
+But at this early stage, people didn't really believe the ship would sink.
+
+451
+00:39:59,160 --> 00:40:04,640
+Some lifeboats had a 65-person capacity, but boats were launched with as few as 12 people.
+
+452
+00:40:05,940 --> 00:40:08,900
+Meanwhile, the Marconi operators began sending distress messages.
+
+453
+00:40:10,100 --> 00:40:14,260
+However, no ship was close enough to respond before the Titanic would have sunk.
+
+454
+00:40:16,060 --> 00:40:20,160
+As Titanic was sinking and sending out her distress calls,
+
+455
+00:40:20,161 --> 00:40:25,160
+you had this 60 hertz of musical tone
+
+456
+00:40:25,161 --> 00:40:31,860
+carrying above all these whispers from all these other plane spark discharges.
+
+457
+00:40:35,940 --> 00:40:39,640
+You've got this musical tone that's very clear and concise.
+
+458
+00:40:40,260 --> 00:40:41,620
+There's no doubt it was Titanic.
+
+459
+00:40:44,500 --> 00:40:47,820
+And this message carried Titanic's death row.
+
+460
+00:40:50,280 --> 00:40:54,120
+Within three hours, the ship's loss of buoyancy pulled it down,
+
+461
+00:40:54,820 --> 00:40:57,540
+splitting it in two between the third and fourth funnels.
+
+462
+00:41:00,740 --> 00:41:04,700
+The ship deformed from the bottom up,
+
+463
+00:41:04,701 --> 00:41:08,860
+and eventually as it separated, then it tore the steel plating,
+
+464
+00:41:09,220 --> 00:41:12,220
+it tore the superstructure apart, and the two sections separated.
+
+465
+00:41:13,000 --> 00:41:20,800
+The keel was very strong and evidently kept the bow and stern sections connected
+
+466
+00:41:20,801 --> 00:41:23,200
+for a short while after the breakup.
+
+467
+00:41:23,940 --> 00:41:27,040
+The bow section by this time was almost completely flooded
+
+468
+00:41:27,041 --> 00:41:28,740
+and began its descent to the bottom.
+
+469
+00:41:28,741 --> 00:41:34,760
+The rest of the story is one of human tragedy and not technology.
+
+470
+00:41:36,600 --> 00:41:39,560
+Just over 700 people made it to the lifeboats.
+
+471
+00:41:41,080 --> 00:41:43,780
+More than 1,500 did not.
+
+472
+00:41:44,600 --> 00:41:49,260
+Within half an hour of the ship sinking, hypothermia had silenced their shrieks.
+
+473
+00:41:50,960 --> 00:41:55,180
+The Cunard ship Carpathia was the first ship to respond to the distress call,
+
+474
+00:41:55,181 --> 00:41:59,200
+arriving the following morning and plucking survivors from the boats,
+
+475
+00:42:00,740 --> 00:42:02,860
+including the White Star's J. Bruce Ismay.
+
+476
+00:42:03,920 --> 00:42:09,860
+Back in New York, a congressional investigation began almost before the survivors disembarked.
+
+477
+00:42:12,380 --> 00:42:15,020
+Stories traveled across the nation and the world,
+
+478
+00:42:15,960 --> 00:42:18,820
+using the modern wire services syndicated in newspapers.
+
+479
+00:42:19,520 --> 00:42:21,260
+Through the application of this technology,
+
+480
+00:42:21,261 --> 00:42:25,360
+the Titanic tragedy became arguably the world's first media spectacle.
+
+481
+00:42:26,420 --> 00:42:30,600
+Perhaps because of this, the Titanic has never really left the public consciousness.
+
+482
+00:42:31,780 --> 00:42:35,480
+There were a lot of changes made due to the sinking of the Titanic.
+
+483
+00:42:35,640 --> 00:42:43,420
+Of course, the first and most important one was that all ships must carry enough lifeboats for the number of people aboard.
+
+484
+00:42:46,060 --> 00:42:50,780
+Legislation tightened the regulations that defined the use of wireless telegraphy aboard ship.
+
+485
+00:42:51,260 --> 00:42:55,040
+giving increased priority to safety reports at the expense of personal messages.
+
+486
+00:42:55,660 --> 00:42:57,480
+Shipping lanes were moved farther south.
+
+487
+00:42:58,400 --> 00:43:01,320
+Emergency drills became mandatory on passenger ships.
+
+488
+00:43:01,920 --> 00:43:05,900
+The White Star Line also made specific changes to the Titanic's sister ships.
+
+489
+00:43:07,200 --> 00:43:10,820
+They pulled Olympic from service, sent her back to the yards.
+
+490
+00:43:10,821 --> 00:43:15,920
+They stopped work on hole number 433, which became Britannic.
+
+491
+00:43:15,921 --> 00:43:21,700
+and they incorporated these features, a couple of which, most famous,
+
+492
+00:43:22,320 --> 00:43:26,000
+are the double hull, the extension of the double bottom all the way up around the hull,
+
+493
+00:43:26,740 --> 00:43:31,520
+and vertical extension of key watertight bulkheads.
+
+494
+00:43:32,640 --> 00:43:37,020
+There is no compelling evidence to suggest that any of these engineering solutions
+
+495
+00:43:37,021 --> 00:43:39,840
+would have had a significant effect on the sinking of the Titanic.
+
+496
+00:43:42,060 --> 00:43:44,740
+Sealed bulkheads may have slowed the rate of her sinking,
+
+497
+00:43:44,741 --> 00:43:46,620
+but would not have prevented it
+
+498
+00:43:46,621 --> 00:43:48,800
+because too many bulkheads were breached
+
+499
+00:43:48,801 --> 00:43:50,200
+for the ship to retain buoyancy.
+
+500
+00:43:53,940 --> 00:43:56,760
+The enduring lesson of the Titanic might be
+
+501
+00:43:56,761 --> 00:43:58,480
+that the achievements of technology
+
+502
+00:43:58,481 --> 00:44:00,280
+sometimes mask vulnerabilities.
+
+503
+00:44:01,860 --> 00:44:04,540
+But risk can never be engineered away,
+
+504
+00:44:05,140 --> 00:44:06,420
+no matter how impressive
+
+505
+00:44:06,421 --> 00:44:08,800
+our technological marvels appear.
+

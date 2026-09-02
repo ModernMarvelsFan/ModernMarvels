@@ -1,0 +1,49 @@
+# Credit Roll: Salt Mines (2002)
+**Canonical Episode:** [`MME00263: Salt Mines`](../episodes/MME00263.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `ⓒ 2006, 1999 A&E Television Networks All Rights Reserved`
+* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, FLYINGBLUE STUDIOS, ALAN ETT MUSIC GROUP
+* **Narrator:** JOHN KNAPP, MAX RAPHAEL
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Accountants** | LINDA SCRIBNER, JUDI MINITELLO, APRIL BROWN, SHERIDAN LIU, DIANA STOLPE |
+| **Animation by** | FLYINGBLUE STUDIOS |
+| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
+| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
+| **Camera** | NICK BLANCHET, MARCIN BUCZKOWSKI, JEREMI CZYZEWSKI, GLEN A. DUNCAN, JOHN KABASAKALIS, ROBERT MATZEN |
+| **Clearance Coordinators** | LAWRENCE GIVENS III, AARON ZOBER |
+| **Coordinators** | BONI OSMANI, BRAD SKILES |
+| **Director of Research** | ALLISON BOON |
+| **Directors of Rights &amp; Clearances** | AMY TRAHANT, KATIE DEL CORE |
+| **Field Audio** | BARRY HAYWOOD, TOMASZ RADOMSKI, MORGAN SCHMIDT-FENG, DEBORAH SHAPIRO, BENJAMIN R. WILLIAMS |
+| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
+| **For The History Channel / Programming Coordinator** | MICHELE WILCOX |
+| **Historical Consultants** | JIM FOLEY, RUSS GIVENS |
+| **Modern Marvels / SALT MINES (squeeze panel) / Associate Producers** | LA MONTE WESTMORELAND, SEAN HECKMAN, MICHELLE RAVEN |
+| **Modern Marvels / SALT MINES (squeeze panel) / Consulting Producer** | RON NELSON |
+| **Modern Marvels / SALT MINES (squeeze panel) / Created by** | BRUCE NASH |
+| **Modern Marvels / SALT MINES (squeeze panel) / Edited by** | SEAN DASH, MOTOSHI WAKABAYASHI |
+| **Modern Marvels / SALT MINES (squeeze panel) / Executive Producer** | DON CAMBOU |
+| **Modern Marvels / SALT MINES (squeeze panel) / Line Producer** | PAUL DZILVELIS |
+| **Modern Marvels / SALT MINES (squeeze panel) / Music by** | ALAN ETT MUSIC GROUP |
+| **Modern Marvels / SALT MINES (squeeze panel) / Narrated by** | MAX RAPHAEL |
+| **Modern Marvels / SALT MINES (squeeze panel) / Producer** | BRUCE NASH |
+| **Modern Marvels / SALT MINES (squeeze panel) / Written and Produced by** | HENRY SCHIPPER, LAUREN LEVINE |
+| **Online Editor** | JOHN PRICE |
+| **Post Assistants** | JEREMIAH DOCKRAY, ROB HARRINGTON, GAYLEN KOBAYASHI |
+| **Post Coordinator** | TERRENCE HARTWELL |
+| **Post Producers** | SCOTT BERKSON, TIM KNAUFF |
+| **Production Controller** | DANI ESLIN |
+| **Production Managers** | LISA BLACKWOOD HOPE, SHELIA COLLINS |
+| **Researchers** | BARRY HILL, TRACY HOOD, ULDIS BALODIS, BRADLEY COMBEST, JOHN KNAPP |
+| **Sound Mixer** | ED THACKER |
+| **Voice Over Coordinator** | JOHN KNAPP |
+
+---
+[← Return to Episode Dossier](../episodes/MME00263.md)

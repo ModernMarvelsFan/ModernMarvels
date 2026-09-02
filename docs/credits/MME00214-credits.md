@@ -1,0 +1,44 @@
+# Credit Roll: Million Dollar Tech (2002)
+**Canonical Episode:** [`MME00214: Million Dollar Tech`](../episodes/MME00214.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `—`
+* **Production Company:** Actuality Productions, Hearst Entertainment
+* **Narrator:** Dawn Irwin
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Animation** | Glenn Takakjian |
+| **Archivist** | Nilda Pergola-Jensen |
+| **Assistant Production Accountant** | Linda Scribner |
+| **Camera** | James P. Gribbins, Peter Krajewski, Mark Morris, Jesse Phinney, Jed Udall |
+| **Clearance Assistant** | Gabe Martinez |
+| **Clearance Supervisor** | Katie Del Core |
+| **Created by** | Bruce Nash |
+| **Director of Research** | Hildie Katibah |
+| **Edited by** | Avi Fisher |
+| **Field Audio** | John V. Davis, Jr. |
+| **Footage Consultant** | Ted Troll |
+| **For The History Channel / Executive Producer** | Beth Dietrich-Segarra |
+| **Graphics** | Barry Hill |
+| **Music by** | Alan Ett |
+| **Online Editor** | David Rex |
+| **Post Producer** | Scott Berkson |
+| **Post Production Assistant** | Montgomery Jesselton Kingsley |
+| **Post Production Coordinator** | Gary Reid |
+| **Post Production Supervisor** | Jason Steinberg |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Maryalice R. Aragon, Rasi Delgado |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Michael Z Davis |
+| **Production Manager** | Kathlene Exner |
+| **Researchers** | Mark Savage, Diane Wai |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Dawn Irwin |
+
+---
+[← Return to Episode Dossier](../episodes/MME00214.md)

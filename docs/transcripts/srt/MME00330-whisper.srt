@@ -1,0 +1,2428 @@
+1
+00:00:00,880 --> 00:00:04,960
+They make our lives more comfortable, more rewarding, and more secure.
+
+2
+00:00:05,600 --> 00:00:11,280
+They are the magical machines that have brought us to the edge of a new frontier of limitless possibilities.
+
+3
+00:00:12,000 --> 00:00:16,240
+But it is a frontier filled with dangers and demons of our own creation.
+
+4
+00:00:16,960 --> 00:00:24,640
+In 1979, a power plant in southeast Pennsylvania revealed how close society can come to a nuclear nightmare.
+
+5
+00:00:25,360 --> 00:00:29,840
+Now, inviting disaster. Three Mile Island, next on Modern Marvels.
+
+6
+00:00:30,000 --> 00:00:44,000
+So often with these disasters, when I looked into them, the operator was left high and dry.
+
+7
+00:00:49,680 --> 00:00:54,100
+With that terrible feeling of being trapped in a machine running wild.
+
+8
+00:00:55,220 --> 00:00:57,440
+And nothing in the manual could help them.
+
+9
+00:00:57,441 --> 00:00:59,620
+There was no one available on the phone.
+
+10
+00:00:59,880 --> 00:01:01,420
+The designers were not accessible.
+
+11
+00:01:02,320 --> 00:01:03,620
+And time was ticking.
+
+12
+00:01:04,020 --> 00:01:09,600
+This terrible feeling that this event is going to catch you.
+
+13
+00:01:13,800 --> 00:01:18,140
+March 28, 1979, 3.58 a.m.
+
+14
+00:01:18,880 --> 00:01:22,820
+As it has for eons, the Susquehanna River continues this night
+
+15
+00:01:22,821 --> 00:01:25,220
+on its ancient way through southeastern Pennsylvania.
+
+16
+00:01:25,221 --> 00:01:30,220
+It glides through the state capitol at Harrisburg.
+
+17
+00:01:30,221 --> 00:01:36,220
+In the capitol building, the graveyard shift is cleaning the governor's office for the coming workday.
+
+18
+00:01:36,221 --> 00:01:43,220
+Only a few miles further south, the Susquehanna moves past the empty shops and silent streets of Middletown,
+
+19
+00:01:43,221 --> 00:01:52,220
+then on to the village of Goldsboro, sleeping now across the river from the blinking lights of four 30-story towers.
+
+20
+00:01:52,221 --> 00:01:57,720
+These enormous monoliths mark the site of the Three Mile Island nuclear power plant.
+
+21
+00:02:00,600 --> 00:02:06,720
+Perched on a sandbar in the river, the plant swills tons of the Susquehanna's cool water every hour.
+
+22
+00:02:07,380 --> 00:02:11,900
+The water absorbs the enormous heat produced by 150 tons of uranium
+
+23
+00:02:11,901 --> 00:02:15,600
+that lie buried in the heart of the plant's two nuclear reactors.
+
+24
+00:02:16,780 --> 00:02:21,940
+In boilers seven stories high, still other pipes carrying more water absorb this heat
+
+25
+00:02:21,941 --> 00:02:25,500
+and turn it into a quarter million pounds of pressurized steam a minute.
+
+26
+00:02:26,220 --> 00:02:29,340
+The tremendous energy now trapped in this superheated steam
+
+27
+00:02:29,341 --> 00:02:33,500
+moves on to a 500-ton turbine as long as a city block.
+
+28
+00:02:34,180 --> 00:02:36,880
+The turbine uses the steam's energy to spin a generator
+
+29
+00:02:36,881 --> 00:02:41,500
+that at last produces the final product of this very complicated process.
+
+30
+00:02:42,440 --> 00:02:44,600
+Almost a billion watts of electricity.
+
+31
+00:02:45,640 --> 00:02:46,920
+Once it has done its job,
+
+32
+00:02:47,460 --> 00:02:50,900
+the steam transfers its scalding temperature off to more water,
+
+33
+00:02:50,901 --> 00:02:57,000
+which in turn finally loses its heat, trickling down the giant cooling towers.
+
+34
+00:03:01,560 --> 00:03:05,300
+Three men are on duty this night inside the control room of Unit 2,
+
+35
+00:03:05,800 --> 00:03:07,600
+one of the plant's two generating units.
+
+36
+00:03:08,980 --> 00:03:13,400
+They are responsible for over a thousand gauges, lights, meters, and switches
+
+37
+00:03:13,401 --> 00:03:15,320
+that monitor the health of Unit 2.
+
+38
+00:03:17,720 --> 00:03:20,080
+Tonight, repairs are being carried out.
+
+39
+00:03:20,081 --> 00:03:24,500
+Workers are shooting compressed air into a pipe trying to unclog a filter.
+
+40
+00:03:25,840 --> 00:03:30,200
+They have done this before, but this time things will be different.
+
+41
+00:03:31,660 --> 00:03:35,560
+4 a.m., what Ray Bradbury called the low ebb of the soul,
+
+42
+00:03:35,700 --> 00:03:38,660
+late at night, often the time when accidents happen.
+
+43
+00:03:39,660 --> 00:03:43,640
+Using compressed air to clean a filter is a routine maintenance technique.
+
+44
+00:03:43,840 --> 00:03:48,560
+But tonight, a trace of water has worked its way back into the air system,
+
+45
+00:03:48,561 --> 00:03:52,120
+and in an instant, the great machine senses its presence.
+
+46
+00:03:53,500 --> 00:03:56,520
+Nothing at Three Mile Island will ever again be routine.
+
+47
+00:04:02,840 --> 00:04:04,680
+Suddenly alarms started going off.
+
+48
+00:04:05,620 --> 00:04:06,320
+Lights flash.
+
+49
+00:04:06,700 --> 00:04:10,740
+One person described the control board as lighting up like a Christmas tree.
+
+50
+00:04:11,520 --> 00:04:13,780
+They didn't know what happened. They couldn't figure it out.
+
+51
+00:04:13,781 --> 00:04:19,820
+The plant's computers react as though the water in the air system is a dangerous invader.
+
+52
+00:04:19,821 --> 00:04:24,820
+Water in the line can lower critical air pressure to valves and pumps.
+
+53
+00:04:24,821 --> 00:04:28,820
+The computers fight back by instantly shutting down those pumps.
+
+54
+00:04:28,821 --> 00:04:34,820
+But this means that the all-important coolant is no longer relieving the reactor of its tremendous heat.
+
+55
+00:04:34,821 --> 00:04:40,820
+And that caused the control operators to face situations that they had never encountered before
+
+56
+00:04:40,821 --> 00:04:46,380
+before and had never been covered in their training or in their procedures.
+
+57
+00:04:46,381 --> 00:04:50,840
+With nowhere to discharge its tremendous heat, the pressure in the primary coolant system
+
+58
+00:04:50,841 --> 00:04:53,560
+within the reactor begins to build.
+
+59
+00:04:53,561 --> 00:04:58,940
+Sensing danger, the computer now orders cadmium rods to plunge into the reactor, shutting
+
+60
+00:04:58,941 --> 00:05:04,260
+down the chain reaction that is splitting millions of atoms.
+
+61
+00:05:04,261 --> 00:05:09,140
+But even with the nuclear reaction turned off, intense heat and enormous pressure continue
+
+62
+00:05:09,141 --> 00:05:10,420
+to increase.
+
+63
+00:05:10,421 --> 00:05:13,380
+The heat and pressure can tear the system apart.
+
+64
+00:05:13,381 --> 00:05:16,600
+A pressure-operated relief valve known as a PORV
+
+65
+00:05:16,601 --> 00:05:18,700
+now opens to vent the pressure.
+
+66
+00:05:18,701 --> 00:05:22,040
+All of this is normal precaution built into the system.
+
+67
+00:05:22,041 --> 00:05:25,900
+What isn't normal is that the valve fails to re-close.
+
+68
+00:05:25,901 --> 00:05:30,300
+It will now threaten this great machine with destruction.
+
+69
+00:05:30,301 --> 00:05:33,600
+Even worse, the PORV valve indicator light on the control
+
+70
+00:05:33,601 --> 00:05:36,080
+console goes out, giving the operators
+
+71
+00:05:36,081 --> 00:05:38,720
+the impression that the valve, having done its job,
+
+72
+00:05:38,721 --> 00:05:40,420
+has now closed.
+
+73
+00:05:40,421 --> 00:05:45,360
+But what the light was designed to do was simply say the control order had been sent.
+
+74
+00:05:45,361 --> 00:05:48,500
+It had been sent, but not obeyed.
+
+75
+00:05:48,501 --> 00:05:53,140
+Reactor coolant is what separates a safe reactor from a nuclear nightmare.
+
+76
+00:05:53,141 --> 00:05:59,600
+Now that precious coolant is gushing out of the stuck valve without anyone's knowledge.
+
+77
+00:05:59,601 --> 00:06:05,140
+What is happening on Three Mile Island on this March night was never adequately planned for.
+
+78
+00:06:05,141 --> 00:06:10,260
+The idea for building this remarkable machine had been born 20 years before and had grown
+
+79
+00:06:10,261 --> 00:06:14,940
+in a swell of enthusiasm for what was then viewed as the perfect energy source.
+
+80
+00:06:17,960 --> 00:06:21,340
+As far back as the 1950s and early 60s,
+
+81
+00:06:21,740 --> 00:06:25,060
+Americans were told that nuclear power could produce electricity
+
+82
+00:06:25,061 --> 00:06:28,700
+that was cheaper and cleaner than that made from oil or coal.
+
+83
+00:06:29,520 --> 00:06:32,820
+Proponents boasted that atomic power plants could produce electricity
+
+84
+00:06:32,821 --> 00:06:36,160
+so inexpensively that it would be too cheap to meter.
+
+85
+00:06:36,161 --> 00:06:40,400
+nuclear power's popularity increased even more
+
+86
+00:06:40,401 --> 00:06:45,540
+when world events in 1973 signaled the end of inexpensive oil.
+
+87
+00:06:48,660 --> 00:06:52,420
+In October of that year, the petroleum exporting countries
+
+88
+00:06:52,421 --> 00:06:56,520
+shocked the world by drastically cutting back on petroleum sales.
+
+89
+00:06:58,520 --> 00:07:01,340
+As they struggled to fill their gas tanks
+
+90
+00:07:01,341 --> 00:07:04,000
+and worried about fuel for heat and electricity,
+
+91
+00:07:04,220 --> 00:07:06,040
+most Americans agreed.
+
+92
+00:07:06,160 --> 00:07:10,200
+The infant nuclear power industry needed to grow quickly.
+
+93
+00:07:12,900 --> 00:07:18,700
+It created a dynamic within the federal government and the nuclear industry of,
+
+94
+00:07:19,280 --> 00:07:20,860
+hey, we've got to build more nuclear plants.
+
+95
+00:07:21,380 --> 00:07:25,120
+These plants grew in size by leaps and bounds.
+
+96
+00:07:25,280 --> 00:07:27,080
+They were subsidized by the federal government.
+
+97
+00:07:27,320 --> 00:07:30,460
+It really looked like the sky was the limit.
+
+98
+00:07:31,260 --> 00:07:35,780
+By 1974, there were 43 nuclear plants around the nation,
+
+99
+00:07:35,781 --> 00:07:38,240
+with another 104 on the way.
+
+100
+00:07:39,180 --> 00:07:42,320
+Work on the Three Mile Island plant was begun that same year.
+
+101
+00:07:43,260 --> 00:07:46,580
+The managers of the new plant would be the Metropolitan Edison Company,
+
+102
+00:07:47,020 --> 00:07:47,940
+known as MedEd.
+
+103
+00:07:48,460 --> 00:07:52,780
+The company went to great lengths to reassure citizens living near Three Mile Island
+
+104
+00:07:52,781 --> 00:07:55,840
+that the new technology was perfectly safe.
+
+105
+00:07:56,700 --> 00:08:01,200
+The experts said you never have to worry about an accident
+
+106
+00:08:01,201 --> 00:08:06,020
+because we have backups to backups,
+
+107
+00:08:06,500 --> 00:08:08,480
+and there will never be an accident.
+
+108
+00:08:08,481 --> 00:08:14,200
+We were assured that an accident like TMI was, quote-unquote, non-credible.
+
+109
+00:08:14,560 --> 00:08:15,560
+It couldn't happen.
+
+110
+00:08:16,800 --> 00:08:21,020
+But for all the promises of the past, the accident was happening,
+
+111
+00:08:21,420 --> 00:08:22,580
+and happening quickly.
+
+112
+00:08:23,140 --> 00:08:26,020
+Unnoticed high up on the pressurizing tank of Unit 2,
+
+113
+00:08:26,660 --> 00:08:29,700
+1,000 pounds of radioactive steam and water a minute
+
+114
+00:08:29,701 --> 00:08:32,520
+continued to pour out of the stuck relief valve.
+
+115
+00:08:33,520 --> 00:08:36,620
+So now there was less and less coolant every minute,
+
+116
+00:08:37,520 --> 00:08:43,720
+and it caused the instruments to go crazy, to lie to the operators.
+
+117
+00:08:44,720 --> 00:08:47,720
+There were 2,000 instruments in the control room.
+
+118
+00:08:48,480 --> 00:08:52,000
+Amazingly, none show how much coolant is in the reactor.
+
+119
+00:08:52,900 --> 00:08:59,240
+The status of the reactor's all-important coolant is monitored indirectly by measuring the pressure inside the reactor.
+
+120
+00:09:00,100 --> 00:09:05,500
+It's similar to showing how much water is in a tea kettle by measuring the pressure of the steam coming out.
+
+121
+00:09:07,840 --> 00:09:16,000
+And what all these lights and gauges now show is a level of pressure in the system that says water is gradually filling the reactor's pressure tank.
+
+122
+00:09:16,001 --> 00:09:24,460
+If allowed to fill to the top, the water will finally have nowhere to expand and will burst the critical coolant system like an overinflated balloon.
+
+123
+00:09:25,420 --> 00:09:31,100
+Reactor operators call the condition going solid and have been taught never to allow it to happen.
+
+124
+00:09:32,520 --> 00:09:38,960
+The pressure gauges suggest the water is continuing to rise 200, 300, 350 inches.
+
+125
+00:09:39,240 --> 00:09:42,240
+The manual says 400 inches is the maximum.
+
+126
+00:09:42,241 --> 00:09:46,240
+That pressurizer was shown to be full of water,
+
+127
+00:09:46,241 --> 00:09:48,240
+when in fact it was actually losing water.
+
+128
+00:09:48,241 --> 00:09:51,240
+It was a false indication of where the level was.
+
+129
+00:09:51,241 --> 00:09:55,240
+But they responded the way the procedures and training had taught them,
+
+130
+00:09:55,241 --> 00:09:57,240
+was to deal with that problem.
+
+131
+00:10:01,240 --> 00:10:03,240
+5 a.m.
+
+132
+00:10:03,241 --> 00:10:06,240
+The control room begins to fill with people all trying
+
+133
+00:10:06,241 --> 00:10:09,240
+to bring the worsening situation under control.
+
+134
+00:10:09,241 --> 00:10:13,672
+control. But the system is not behaving according to the book.
+
+135
+00:10:13,673 --> 00:10:15,960
+With the pressure so high, there
+
+136
+00:10:15,961 --> 00:10:19,670
+should be too much, not too little water covering the core.
+
+137
+00:10:19,671 --> 00:10:21,620
+Instead, the reactor is getting
+
+138
+00:10:21,621 --> 00:10:26,900
+hotter and hotter. The problem is that no one knows about the coolant gushing out of
+
+139
+00:10:26,901 --> 00:10:27,601
+the valve.
+
+140
+00:10:27,602 --> 00:10:32,760
+They have their instrument panel, but because of the damage, they begin to feel
+
+141
+00:10:32,761 --> 00:10:36,923
+they couldn't trust the readings that they were getting on the instruments.
+
+142
+00:10:36,924 --> 00:10:37,700
+As the reactor
+
+143
+00:10:37,701 --> 00:10:42,280
+After coolant heats up, more of the liquid is turning to steam.
+
+144
+00:10:42,281 --> 00:10:47,580
+The giant pumps that move 2,000 gallons of water a minute are not designed to handle
+
+145
+00:10:47,581 --> 00:10:49,840
+the steam.
+
+146
+00:10:49,841 --> 00:10:53,160
+They start to violently shake and vibrate.
+
+147
+00:10:53,161 --> 00:10:57,220
+If they tear themselves apart, the plant is doomed.
+
+148
+00:10:57,221 --> 00:10:59,860
+An unheard of decision is made.
+
+149
+00:10:59,861 --> 00:11:02,720
+The control room supervisor will gamble.
+
+150
+00:11:02,721 --> 00:11:05,140
+He orders reactor pumps turned off.
+
+151
+00:11:05,141 --> 00:11:11,080
+They did exactly the wrong thing, but they thought they had never been trained for this situation.
+
+152
+00:11:11,920 --> 00:11:16,400
+They thought it was a way to keep the reactor from, quote, going solid.
+
+153
+00:11:16,740 --> 00:11:19,940
+So they were fooled. They began letting coolant out.
+
+154
+00:11:21,080 --> 00:11:25,480
+The men in the control room now mistakenly think that the situation is improving.
+
+155
+00:11:26,200 --> 00:11:26,920
+It is not.
+
+156
+00:11:27,620 --> 00:11:34,460
+With the pumps off, the core is being uncovered, and its temperature is over 2,000 degrees and rising.
+
+157
+00:11:35,140 --> 00:11:40,440
+When the core reaches 5,000 degrees, it will melt, becoming a molten mass,
+
+158
+00:11:40,800 --> 00:11:45,620
+a metallic lava that will burn through the 8-inch thick steel containment vessel.
+
+159
+00:11:46,500 --> 00:11:49,760
+Once out of the plant, it will scorch into the earth itself.
+
+160
+00:11:50,780 --> 00:11:55,460
+What happens next could become an unrivaled technological disaster.
+
+161
+00:11:56,880 --> 00:12:00,900
+When it reaches the water table, it will immediately turn to steam, boiling steam.
+
+162
+00:12:00,901 --> 00:12:07,280
+there will be geysers of radioactivity steam shooting up in parking lots and driveways and
+
+163
+00:12:07,281 --> 00:12:10,368
+streets and houses for miles around.
+
+164
+00:12:10,369 --> 00:12:15,000
+The nightmare scenario is known as the China syndrome.
+
+165
+00:12:16,260 --> 00:12:20,900
+Land surrounding the plant will become uninhabitable. A study some years earlier
+
+166
+00:12:20,901 --> 00:12:26,980
+has suggested upwards of 40,000 people could die if the China syndrome becomes reality.
+
+167
+00:12:26,981 --> 00:12:32,520
+that event was underway and the clock was now ticking.
+
+168
+00:12:34,380 --> 00:12:38,880
+In December 1951, an experimental reactor in Idaho
+
+169
+00:12:38,881 --> 00:12:42,020
+generated the first electric power from atoms,
+
+170
+00:12:42,400 --> 00:12:44,040
+enough to light four bulbs.
+
+171
+00:12:45,180 --> 00:12:48,140
+Inviting Disaster will continue in a moment on the History Channel.
+
+172
+00:12:49,600 --> 00:12:53,820
+We now return to Inviting Disaster on Modern Marvels.
+
+173
+00:12:53,821 --> 00:12:59,220
+The worst thing that can happen with a high-power complex machine is to have
+
+174
+00:12:59,221 --> 00:13:05,020
+things start to go wrong and to not know as an operator what's happening or what
+
+175
+00:13:05,021 --> 00:13:07,820
+you're supposed to do.
+
+176
+00:13:08,920 --> 00:13:17,380
+March 28th, 1979 715 a.m. In a dozen communities surrounding the Three Mile
+
+177
+00:13:17,381 --> 00:13:21,700
+Island plant people are beginning their day
+
+178
+00:13:23,320 --> 00:13:29,880
+commuters start the drive to Harrisburg shop owners prepare to open children
+
+179
+00:13:29,881 --> 00:13:35,340
+begin heading for school all are still unaware of the potential disaster that
+
+180
+00:13:35,341 --> 00:13:42,340
+is building only a few miles away at the Three Mile Island plant a relief worker
+
+181
+00:13:42,341 --> 00:13:47,240
+has finally discovered the stuck valve too late the valve has been open for
+
+182
+00:13:47,241 --> 00:13:52,160
+over two hours and a quarter of a million pounds of coolant have evaporated or leaked to the basement
+
+183
+00:13:52,161 --> 00:13:56,500
+but the leak had at least allowed some of the heat in the reactor to escape
+
+184
+00:13:56,501 --> 00:14:03,400
+now some parts of the giant furnace are reaching 4,000 degrees but the operators are unaware
+
+185
+00:14:03,401 --> 00:14:08,060
+temperature monitoring instruments in the core can only read up to 700 degrees
+
+186
+00:14:08,061 --> 00:14:12,780
+the men sitting in the control room are now flying blind
+
+187
+00:14:12,781 --> 00:14:21,060
+flying blind is really a scary deeply unnerving experience and it gets worse
+
+188
+00:14:21,061 --> 00:14:28,560
+bended by minute it's the feeling a person has that no one has ever been in this place before
+
+189
+00:14:28,561 --> 00:14:35,280
+you're on your own that was the feeling that morning at three mile island experts at the
+
+190
+00:14:35,281 --> 00:14:40,860
+nuclear regulatory commission in washington and babcock and wilcox the designers of the reactor
+
+191
+00:14:40,861 --> 00:14:43,640
+desperately try to get through to the control room.
+
+192
+00:14:44,360 --> 00:14:47,500
+But the single phone line in the room is constantly tied up.
+
+193
+00:14:47,860 --> 00:14:49,720
+The experts get only busy signals.
+
+194
+00:14:51,000 --> 00:14:53,560
+As if the operators weren't already under enough pressure,
+
+195
+00:14:53,900 --> 00:14:55,060
+a new alarm sounds.
+
+196
+00:14:56,660 --> 00:14:59,600
+Radiation is now detected not only in the buildings,
+
+197
+00:14:59,920 --> 00:15:01,500
+but in the control room as well.
+
+198
+00:15:03,840 --> 00:15:07,220
+Step into what that control room must have been like.
+
+199
+00:15:07,700 --> 00:15:09,060
+That one phone is ringing.
+
+200
+00:15:09,880 --> 00:15:11,820
+It's a constant glare.
+
+201
+00:15:11,980 --> 00:15:14,240
+The master klaxon is going.
+
+202
+00:15:14,800 --> 00:15:16,480
+The sounds of trouble.
+
+203
+00:15:16,920 --> 00:15:21,740
+They are supposed to sit down and quietly work out these clues.
+
+204
+00:15:22,140 --> 00:15:23,860
+It was just almost impossible.
+
+205
+00:15:26,700 --> 00:15:28,740
+Radiation is measured in REMS.
+
+206
+00:15:28,741 --> 00:15:33,220
+The maximum radiation a person should receive in a year is five REMS.
+
+207
+00:15:33,600 --> 00:15:37,660
+Readings in the reactor containment building are now reaching 10,000 REMS.
+
+208
+00:15:37,661 --> 00:15:44,420
+It is only a matter of time until this radiation leaks into the outside atmosphere.
+
+209
+00:15:44,421 --> 00:15:48,620
+Gary Miller, the station manager for Three Mile Island, now declares a general state
+
+210
+00:15:48,621 --> 00:15:55,980
+of emergency, the first ever in a nuclear power plant in the United States.
+
+211
+00:15:55,981 --> 00:16:01,060
+Metropolitan Edison has been slow to release information about what is happening, but at
+
+212
+00:16:01,061 --> 00:16:04,800
+8.33, the story breaks.
+
+213
+00:16:04,801 --> 00:16:09,297
+station WKBO in Harrisburg is the first to tell the world.
+
+214
+00:16:09,298 --> 00:16:11,700
+There is a general emergency at
+
+215
+00:16:11,701 --> 00:16:15,766
+Metropolitan Edison Company's Three Mile Island nuclear power plant.
+
+216
+00:16:15,767 --> 00:16:17,380
+A utility sportsman says...
+
+217
+00:16:17,381 --> 00:16:21,260
+Word of the crisis is also finally reaching Pennsylvania Governor Dick Thornburg.
+
+218
+00:16:22,600 --> 00:16:26,160
+His Lieutenant Governor, William Scranton, soon appears before the press.
+
+219
+00:16:27,140 --> 00:16:31,860
+The Metropolitan Edison Company has informed us that there has been an incident at Three Mile
+
+220
+00:16:31,861 --> 00:16:36,552
+Island unit number two. Everything is under control.
+
+221
+00:16:36,553 --> 00:16:39,800
+There is and was no danger to public
+
+222
+00:16:39,801 --> 00:16:42,630
+health and safety. 1017 a.m.
+
+223
+00:16:42,631 --> 00:16:49,200
+Radiation levels at the top of the containment building could now
+
+224
+00:16:49,201 --> 00:16:50,788
+kill a man in 20 seconds.
+
+225
+00:16:50,789 --> 00:16:55,360
+Plant manager Miller now orders his men to break out emergency breathing
+
+226
+00:16:55,361 --> 00:16:56,118
+apparatus.
+
+227
+00:16:56,119 --> 00:17:02,180
+By 11 a.m., radiation is detected leaking into the atmosphere outside the plant.
+
+228
+00:17:02,940 --> 00:17:05,000
+The evil genie is out of the bottle.
+
+229
+00:17:08,340 --> 00:17:13,300
+By early afternoon, the press is all over the unfolding story of what is happening at
+
+230
+00:17:13,301 --> 00:17:18,669
+Three Mile Island. Met Ed officials at last call a press conference of their own.
+
+231
+00:17:18,670 --> 00:17:19,370
+Their
+
+232
+00:17:19,371 --> 00:17:24,180
+spokesman is Jack Herbine, an engineer with no prior experience in dealing with the press.
+
+233
+00:17:25,360 --> 00:17:28,540
+The incident occurred this morning around 4 o'clock.
+
+234
+00:17:28,680 --> 00:17:30,120
+Things are falling off right now.
+
+235
+00:17:30,280 --> 00:17:33,160
+We expect soon to be in the cold shutdown condition.
+
+236
+00:17:34,340 --> 00:17:37,400
+Purbine says nothing about the escape of radioactivity
+
+237
+00:17:37,401 --> 00:17:40,660
+into the air being breathed at that moment by the reporters.
+
+238
+00:17:41,120 --> 00:17:44,160
+They are left with the impression that the incident is over.
+
+239
+00:17:45,180 --> 00:17:46,240
+Basically, they just lied.
+
+240
+00:17:46,580 --> 00:17:48,700
+They didn't call anyone, actually, for hours.
+
+241
+00:17:48,701 --> 00:17:51,220
+And then they kept insisting that it was just a stuck valve
+
+242
+00:17:51,221 --> 00:17:52,980
+and they would fix it and there was no real danger.
+
+243
+00:17:52,981 --> 00:17:57,980
+MedEd's first pronouncements were extremely deceptive and disingenuous.
+
+244
+00:17:57,981 --> 00:18:02,980
+In fact, it got to the point where the lieutenant governor actually had to give a press conference saying,
+
+245
+00:18:02,981 --> 00:18:07,980
+look, the information the company is giving us is misleading and non-credible.
+
+246
+00:18:07,981 --> 00:18:12,980
+MedEd was clearly failing in their efforts to contain the story.
+
+247
+00:18:12,981 --> 00:18:17,980
+I don't know why we need to tell you each and everything that we do.
+
+248
+00:18:17,981 --> 00:18:18,681
+We do.
+
+249
+00:18:18,682 --> 00:18:21,320
+They felt that they knew how to operate this.
+
+250
+00:18:21,440 --> 00:18:24,100
+They knew how to keep it under control.
+
+251
+00:18:24,101 --> 00:18:28,440
+And there was a reluctance to admit that things were spiraling out of control.
+
+252
+00:18:30,760 --> 00:18:32,440
+7.33 p.m.
+
+253
+00:18:33,660 --> 00:18:39,100
+The reactor designers at Babcock and Wilcox at last get a phone call through to the control room.
+
+254
+00:18:40,760 --> 00:18:42,460
+The message is urgent and simple.
+
+255
+00:18:43,060 --> 00:18:44,820
+Without water, the reactor will melt.
+
+256
+00:18:45,420 --> 00:18:46,760
+Forget about going solid.
+
+257
+00:18:46,761 --> 00:18:49,260
+get water moving through the core.
+
+258
+00:18:50,240 --> 00:18:52,300
+The pumps are finally restarted,
+
+259
+00:18:52,600 --> 00:18:54,440
+and for the first time in 15 hours,
+
+260
+00:18:54,441 --> 00:18:58,240
+the temperature and pressure in the reactor are at last stabilized.
+
+261
+00:18:58,960 --> 00:19:00,600
+There will be no China syndrome.
+
+262
+00:19:01,900 --> 00:19:06,040
+But the terrifying drama of this mighty machine is not yet over.
+
+263
+00:19:06,400 --> 00:19:08,000
+The clock is still ticking.
+
+264
+00:19:10,780 --> 00:19:14,400
+In 2000, the U.S. Nuclear Regulatory Commission
+
+265
+00:19:14,401 --> 00:19:17,360
+began renewing permits for American nuclear reactors.
+
+266
+00:19:18,020 --> 00:19:21,160
+The original permits were good for only 40 years of operation.
+
+267
+00:19:22,700 --> 00:19:25,660
+Inviting Disaster will continue in a moment on the History Channel.
+
+268
+00:19:27,140 --> 00:19:31,340
+We now return to Inviting Disaster on Modern Marvels.
+
+269
+00:19:32,200 --> 00:19:36,180
+In most cases, the mistakes made are ordinary ones.
+
+270
+00:19:37,020 --> 00:19:41,280
+They are garden variety, the kind of mistakes that you have made, I have made.
+
+271
+00:19:41,281 --> 00:19:48,280
+What is different about the machine frontier is that the consequences are extraordinary.
+
+272
+00:19:50,280 --> 00:19:53,280
+Thursday, March 29th, 8.30 a.m.
+
+273
+00:19:55,280 --> 00:19:59,280
+It is now 28 hours since the accident at Three Mile Island began.
+
+274
+00:19:59,281 --> 00:20:03,280
+The men in the control room have no way of looking into the reactor,
+
+275
+00:20:03,281 --> 00:20:10,280
+but it now seems clear that some of the 36,000 slender tubes holding the uranium fuel have cracked.
+
+276
+00:20:11,280 --> 00:20:14,940
+This is allowing radioactivity to escape into the reactor coolant water.
+
+277
+00:20:16,320 --> 00:20:20,520
+It is imperative operators know how much radioactivity is now in the coolant.
+
+278
+00:20:21,060 --> 00:20:23,780
+Too much, and the nuclear chain reaction could restart.
+
+279
+00:20:24,600 --> 00:20:28,020
+Someone must enter the containment building to collect a sample.
+
+280
+00:20:28,500 --> 00:20:30,220
+It is a task no one wants.
+
+281
+00:20:30,740 --> 00:20:34,440
+But foreman Ed Hauser agrees to risk his life to take the readings.
+
+282
+00:20:35,800 --> 00:20:38,740
+He goes in and takes his readings with his Geiger counter.
+
+283
+00:20:39,460 --> 00:20:44,220
+Now, they say that an X-ray is about one seventy-second thousandth of a rim.
+
+284
+00:20:44,940 --> 00:20:49,960
+The med-ed people had originally said that the amount of radiation that was being leaked
+
+285
+00:20:49,961 --> 00:20:51,560
+was no more than you would get in an X-ray.
+
+286
+00:20:52,800 --> 00:20:54,900
+When Hauser went in, he took his readings,
+
+287
+00:20:55,220 --> 00:20:59,460
+he found that there were a thousand rims per hour
+
+288
+00:20:59,461 --> 00:21:03,340
+bouncing off the walls inside the reactor at three mile hour.
+
+289
+00:21:04,820 --> 00:21:08,380
+He is in for an even greater scare when he draws the coolant sample.
+
+290
+00:21:08,740 --> 00:21:11,200
+The water from the reactor should be clear.
+
+291
+00:21:11,980 --> 00:21:18,520
+Instead, he stares at a yellowish, fizzing liquid that's giving off 1,250 rems of radiation.
+
+292
+00:21:19,180 --> 00:21:21,260
+It actually vibrates in his hand.
+
+293
+00:21:22,160 --> 00:21:27,540
+If he were foolish enough to continue holding it, the toxic beaker would kill him in less than half an hour.
+
+294
+00:21:28,640 --> 00:21:30,560
+They knew they had a major problem.
+
+295
+00:21:32,740 --> 00:21:38,500
+One thing is now clear to the operators at Three Mile Island and the advisors at the Nuclear Regulatory Commission.
+
+296
+00:21:38,740 --> 00:21:43,600
+The reactor has sustained massive damage and still threatens the plant and the community.
+
+297
+00:21:45,060 --> 00:21:47,560
+The public is not given these details.
+
+298
+00:21:48,180 --> 00:21:50,380
+In fact, they have been given little information.
+
+299
+00:21:50,620 --> 00:21:53,540
+But it is becoming clear to anyone living near Three Mile Island
+
+300
+00:21:53,541 --> 00:21:58,340
+that something is very wrong with the nuclear plant they have been told was so safe.
+
+301
+00:22:00,320 --> 00:22:05,880
+The worst thing about Three Mile Island is that people were running from something they couldn't see
+
+302
+00:22:05,881 --> 00:22:08,740
+or feel or touch or hear.
+
+303
+00:22:09,840 --> 00:22:13,460
+It's just this haunting, scary feeling
+
+304
+00:22:13,461 --> 00:22:15,720
+of not knowing what you were exposed to.
+
+305
+00:22:17,360 --> 00:22:19,420
+Pennsylvania Governor Richard Thornburg
+
+306
+00:22:19,421 --> 00:22:22,360
+is given an optimistic assessment by MetEd officials,
+
+307
+00:22:22,860 --> 00:22:26,100
+and based on their assurances, he calls a press conference.
+
+308
+00:22:27,940 --> 00:22:32,020
+I believe at this point that there is no cause for alarm
+
+309
+00:22:32,021 --> 00:22:35,300
+or any reason to disrupt your daily routine.
+
+310
+00:22:35,301 --> 00:22:41,720
+nor any reason to feel that public health has been affected by the events on Three Mile Island.
+
+311
+00:22:43,200 --> 00:22:47,040
+But by evening, the amount of damage to the plant is becoming clearer.
+
+312
+00:22:48,100 --> 00:22:52,260
+The basement is now filled with several hundred thousand gallons of radioactive water.
+
+313
+00:22:52,760 --> 00:22:56,800
+This water continues to give off radioactive gas that is building up in the building.
+
+314
+00:22:57,520 --> 00:23:00,900
+Operators realize that the gas cannot remain inside the plant.
+
+315
+00:23:00,901 --> 00:23:04,800
+The order is given to vent the dangerous gas into the atmosphere.
+
+316
+00:23:05,300 --> 00:23:10,300
+Governor Thornburg looks to officials at MedEd and the NRC for advice.
+
+317
+00:23:10,301 --> 00:23:15,300
+But even the commissioner of the NRC in Washington, Joseph Hendry,
+
+318
+00:23:15,301 --> 00:23:20,300
+struggles to feel in command of the conflicting information coming at him.
+
+319
+00:23:20,301 --> 00:23:26,300
+There's a wonderful quote from Joseph Hendry to the then-Governor Thornburg
+
+320
+00:23:26,301 --> 00:23:29,300
+that he felt, based on the information he was getting,
+
+321
+00:23:29,301 --> 00:23:33,300
+that they were like two blind men making decisions in the dark.
+
+322
+00:23:33,301 --> 00:23:37,600
+I mean, this is an incredibly disturbing phenomenon.
+
+323
+00:23:37,840 --> 00:23:42,840
+People are making decisions about an extremely dangerous technological disaster
+
+324
+00:23:42,841 --> 00:23:47,300
+based on misinformation, no information, or a lack of information.
+
+325
+00:23:48,480 --> 00:23:54,540
+Long into the night, Thornburg and his staff continue to wrestle with the decision of whether to evacuate.
+
+326
+00:23:55,120 --> 00:24:00,580
+A half million Pennsylvanians live within a strong breeze of the now dangerous nuclear plant.
+
+327
+00:24:00,581 --> 00:24:02,820
+Their lives could hang in the balance.
+
+328
+00:24:03,300 --> 00:24:10,360
+He wrestled with this because, as the record shows, his concern was that bad things happen
+
+329
+00:24:10,361 --> 00:24:12,160
+during a chaotic evacuation.
+
+330
+00:24:12,161 --> 00:24:18,320
+You know, people get killed in accidents, you know, looting may go on, you know, that
+
+331
+00:24:18,321 --> 00:24:19,021
+sort of thing.
+
+332
+00:24:21,200 --> 00:24:25,900
+Thornburg knows a full evacuation will not be as easy as just reading an announcement.
+
+333
+00:24:26,820 --> 00:24:27,920
+Roads will be jammed.
+
+334
+00:24:28,540 --> 00:24:29,600
+And what about the disabled?
+
+335
+00:24:29,601 --> 00:24:35,160
+hospital patients, the elderly, and people without a car. Nothing in his political
+
+336
+00:24:35,161 --> 00:24:40,000
+career has prepared Thornburg for this situation.
+
+337
+00:24:42,480 --> 00:24:49,760
+Friday 8 a.m. In a suburb of Washington DC, members of the Nuclear Regulatory
+
+338
+00:24:49,761 --> 00:24:54,840
+Commission's incident response team meet with the director of regulation Harold
+
+339
+00:24:54,841 --> 00:25:01,240
+Denton. Denton is told that radiation levels inside Three Mile Island now
+
+340
+00:25:01,241 --> 00:25:07,080
+require that they recommend preliminary evacuation to the governor.
+
+341
+00:25:07,081 --> 00:25:09,267
+Could I hear attention please?
+
+342
+00:25:09,268 --> 00:25:14,080
+There has been a state of emergency declared on Three Mile Island.
+
+343
+00:25:14,081 --> 00:25:19,920
+Already local authorities are warning the public, but finally by late morning
+
+344
+00:25:19,921 --> 00:25:23,020
+Governor Thornburg becomes even more cautious.
+
+345
+00:25:23,500 --> 00:25:26,640
+Based on advice of the chairman of the NRC,
+
+346
+00:25:27,580 --> 00:25:31,980
+I am advising pregnant women and preschool-aged children
+
+347
+00:25:31,981 --> 00:25:36,280
+to leave the area within a five-mile radius
+
+348
+00:25:36,281 --> 00:25:40,380
+of the Three Mile Island facility until further notice.
+
+349
+00:25:40,700 --> 00:25:44,540
+My sister was in school, and parents just came
+
+350
+00:25:44,541 --> 00:25:46,820
+and took their children out of school.
+
+351
+00:25:46,821 --> 00:25:49,680
+There was that sense of panic, that sense of fear.
+
+352
+00:25:49,920 --> 00:25:50,780
+I'm through that!
+
+353
+00:25:53,260 --> 00:25:58,040
+Although Thornburg's evacuation order applies to only some 40,000 residents,
+
+354
+00:25:58,680 --> 00:26:01,780
+over 100,000 people now take to the road.
+
+355
+00:26:05,120 --> 00:26:10,400
+New York Times reporter Wilborn Hampton remembers driving through the small town of Goldsboro
+
+356
+00:26:10,401 --> 00:26:12,820
+just across the river from the stricken plant.
+
+357
+00:26:13,320 --> 00:26:15,180
+It was like driving into a ghost town.
+
+358
+00:26:16,000 --> 00:26:17,860
+The only thing that was missing were the tumbleweeds.
+
+359
+00:26:17,861 --> 00:26:20,360
+wasn't a car on the street
+
+360
+00:26:20,361 --> 00:26:22,460
+drive by the post office, it's locked
+
+361
+00:26:22,461 --> 00:26:26,200
+front doors standing open
+
+362
+00:26:26,201 --> 00:26:30,260
+one house TV was still on
+
+363
+00:26:30,261 --> 00:26:32,640
+people had just gotten up and left
+
+364
+00:26:32,641 --> 00:26:34,460
+as fast as they could
+
+365
+00:26:34,461 --> 00:26:36,080
+the fear that existed
+
+366
+00:26:36,081 --> 00:26:38,300
+in the towns around
+
+367
+00:26:38,301 --> 00:26:39,260
+Three Mile Island
+
+368
+00:26:39,261 --> 00:26:42,180
+was very hard to describe, I'd never seen anything
+
+369
+00:26:42,181 --> 00:26:43,960
+quite like it and I had covered
+
+370
+00:26:43,961 --> 00:26:44,940
+two or three wars
+
+371
+00:26:44,941 --> 00:26:46,800
+but it was
+
+372
+00:26:46,801 --> 00:26:49,360
+It was the fear of the unknown.
+
+373
+00:26:51,540 --> 00:26:53,120
+Towns are being evacuated.
+
+374
+00:26:53,640 --> 00:26:56,220
+Radioactive gases drift from the damaged reactor,
+
+375
+00:26:56,740 --> 00:26:58,840
+and core temperatures are still off the chart.
+
+376
+00:26:59,380 --> 00:27:02,500
+Radioactivity in the reactor containment building is so intense,
+
+377
+00:27:02,780 --> 00:27:06,380
+insulation is burning off wiring, causing instruments to fail.
+
+378
+00:27:06,900 --> 00:27:09,980
+Little by little, less and less will be known about the wounded,
+
+379
+00:27:10,200 --> 00:27:12,060
+but still very dangerous reactor.
+
+380
+00:27:12,061 --> 00:27:19,060
+Now, an NRC engineer announces an even greater terror may be waiting to strike.
+
+381
+00:27:19,061 --> 00:27:27,060
+By analyzing new computer data, Roger Mattson is convinced that melting fuel rods have released a large amount of hydrogen
+
+382
+00:27:27,061 --> 00:27:30,060
+that has now gathered at the top of the containment dome.
+
+383
+00:27:30,061 --> 00:27:34,060
+With the right amount of oxygen, this hydrogen bubble can explode,
+
+384
+00:27:34,061 --> 00:27:41,060
+instantly blowing the top off the building and filling the air for hundreds of miles with deadly radioactive gas.
+
+385
+00:27:41,061 --> 00:27:45,090
+gas. The world has never known a day quite like today.
+
+386
+00:27:45,091 --> 00:27:48,000
+It faced the considerable uncertainties
+
+387
+00:27:48,001 --> 00:27:52,420
+and dangers of the worst nuclear power plant accident of the atomic age.
+
+388
+00:27:52,421 --> 00:27:53,280
+And the horror
+
+389
+00:27:53,281 --> 00:28:00,040
+tonight is that it could get much worse. Reporters will come to call this day Black
+
+390
+00:28:00,041 --> 00:28:00,741
+Friday.
+
+391
+00:28:00,742 --> 00:28:05,760
+All who are near the stricken plant hold their breath to see what the next day
+
+392
+00:28:05,761 --> 00:28:12,043
+will bring. We now return to inviting disaster on modern marvels.
+
+393
+00:28:12,044 --> 00:28:15,040
+One thing we can be sure of now
+
+394
+00:28:15,041 --> 00:28:19,011
+is that the public's trust can be lost rather quickly.
+
+395
+00:28:19,012 --> 00:28:22,100
+One mistake, one irreversible consequence,
+
+396
+00:28:22,920 --> 00:28:28,620
+the trust goes away and those people on the machine frontier might lose that spot forever.
+
+397
+00:28:28,621 --> 00:28:33,080
+Saturday, 10 a.m.
+
+398
+00:28:33,620 --> 00:28:36,520
+Reporters at Three Mile Island are now asking questions
+
+399
+00:28:36,521 --> 00:28:37,980
+not to get a news story,
+
+400
+00:28:38,480 --> 00:28:41,140
+but to have a sense of whether they should be running for their lives.
+
+401
+00:28:41,800 --> 00:28:44,180
+From almost the moment the story reached them,
+
+402
+00:28:44,440 --> 00:28:47,480
+the press has felt there was no one in authority they could trust.
+
+403
+00:28:48,040 --> 00:28:50,520
+Met Ed officials obviously are spinning the facts,
+
+404
+00:28:50,880 --> 00:28:53,760
+and the NRC reactions are confused and contradictory.
+
+405
+00:28:55,380 --> 00:28:57,860
+Among the people most concerned by the confusion
+
+406
+00:28:57,861 --> 00:29:00,140
+is the President of the United States.
+
+407
+00:29:00,720 --> 00:29:02,420
+Jimmy Carter is a trained engineer
+
+408
+00:29:02,421 --> 00:29:05,940
+and a veteran of the Navy's illustrious nuclear submarine program.
+
+409
+00:29:06,400 --> 00:29:08,800
+He now tells NRC Commissioner Joseph Hendry
+
+410
+00:29:08,801 --> 00:29:11,920
+that he wants a personal representative at Three Mile Island
+
+411
+00:29:11,921 --> 00:29:15,160
+to take charge of activities and report directly to him.
+
+412
+00:29:16,040 --> 00:29:17,760
+Hendry turns to Harold Denton.
+
+413
+00:29:18,720 --> 00:29:21,920
+Denton is an engineer who has been leading the emergency team
+
+414
+00:29:21,921 --> 00:29:24,180
+at NRC headquarters in Bethesda, Maryland.
+
+415
+00:29:24,181 --> 00:29:27,340
+Now he arrives in Pennsylvania with presidential authority.
+
+416
+00:29:27,860 --> 00:29:30,640
+Almost immediately, the mood begins to change.
+
+417
+00:29:31,660 --> 00:29:39,160
+Harold Denton of the NRC was sent in to be kind of like the reassuring public figure
+
+418
+00:29:39,161 --> 00:29:44,660
+who could give out the information and have people actually believe him.
+
+419
+00:29:44,661 --> 00:29:49,220
+When Harold Denton arrived, there suddenly was a sense that here was someone you could trust.
+
+420
+00:29:49,740 --> 00:29:55,700
+And it was a great relief after days of talking to publicists and press people from Metropolitan Medicine.
+
+421
+00:29:55,701 --> 00:29:59,800
+I am advising those who may be particularly susceptible.
+
+422
+00:29:59,801 --> 00:30:03,300
+Thornburg had ordered the evacuation of pregnant women and children.
+
+423
+00:30:03,301 --> 00:30:08,020
+Now, if Roger Mattson's warning about the danger of the hydrogen bubble is correct,
+
+424
+00:30:08,021 --> 00:30:11,940
+every resident in a 10-mile radius should be evacuated.
+
+425
+00:30:11,941 --> 00:30:15,220
+The problems of such a task would be extraordinary,
+
+426
+00:30:15,221 --> 00:30:19,520
+but so would the loss of life if the governor makes a mistake.
+
+427
+00:30:19,521 --> 00:30:23,400
+Governor Thornburg was faced with a difficult situation.
+
+428
+00:30:23,401 --> 00:30:25,960
+I wouldn't have wanted to be in his shoes for the world.
+
+429
+00:30:27,800 --> 00:30:30,240
+Harold Denton has looked carefully at the data
+
+430
+00:30:30,241 --> 00:30:33,080
+and talked to other engineers about the hydrogen bubble
+
+431
+00:30:33,081 --> 00:30:34,960
+and the immediate danger of meltdown.
+
+432
+00:30:35,440 --> 00:30:38,200
+He is more confident about the situation than Roger Mattson.
+
+433
+00:30:38,700 --> 00:30:41,740
+Governor Thornburg decides to gamble on Denton's opinion.
+
+434
+00:30:42,340 --> 00:30:47,340
+But it's certainly days before flammability limits would be reached
+
+435
+00:30:47,341 --> 00:30:51,200
+and many more days after that before detonation limits would be reached,
+
+436
+00:30:51,201 --> 00:30:57,000
+all of which assume that we did nothing but sit on our hands here instead of getting the hydrogen out of the vessel.
+
+437
+00:30:58,400 --> 00:31:01,980
+At the same press conference, the governor makes a shocking announcement,
+
+438
+00:31:02,460 --> 00:31:05,700
+one that will do much to at last end many people's fears.
+
+439
+00:31:06,340 --> 00:31:16,240
+President Carter will be paying a visit to the area to make a personal on-site visit.
+
+440
+00:31:16,241 --> 00:31:26,861
+But what most of America does not understand is that there is still strong disagreement within the NRC as to whether the hydrogen bubble is close to blowing the roof
+
+441
+00:31:26,862 --> 00:31:30,980
+off the containment building, perhaps with the president inside.
+
+442
+00:31:31,760 --> 00:31:34,185
+The president did take a chance by coming.
+
+443
+00:31:34,186 --> 00:31:42,960
+He had advice from some of his people that he really shouldn't go, that it was still not safe enough for the president of the United States to go there.
+
+444
+00:31:42,961 --> 00:31:45,132
+But he was a nuclear engineer.
+
+445
+00:31:45,133 --> 00:31:53,460
+He knew probably better than any other public elected official, you know, what was going on, what the dangers were.
+
+446
+00:31:57,280 --> 00:31:59,380
+Sunday, April 1st, 10 a.m.
+
+447
+00:32:01,760 --> 00:32:05,460
+Even as the president's helicopter comes in for a landing in Harrisburg,
+
+448
+00:32:05,760 --> 00:32:12,720
+Matson and Victor Stello, another NRC engineer, are locked in a heated dispute over the threat of the hydrogen bubble.
+
+449
+00:32:12,960 --> 00:32:18,960
+Harold Denton briefs the president and Mrs. Carter on the situation.
+
+450
+00:32:18,961 --> 00:32:24,960
+He is very direct and tells the president of the dispute between his staff as to the present danger at the plant.
+
+451
+00:32:24,961 --> 00:32:29,960
+Carter doesn't hesitate. He starts downriver toward Three Mile Island.
+
+452
+00:32:29,961 --> 00:32:31,778
+The president tours the plant.
+
+453
+00:32:31,779 --> 00:32:37,960
+The tour does not uncover any new facts for the president's consideration or the public's consumption.
+
+454
+00:32:37,961 --> 00:32:41,960
+Its purpose is simple, restore public confidence.
+
+455
+00:32:41,961 --> 00:32:46,420
+When the president came along with his wife,
+
+456
+00:32:46,580 --> 00:32:49,080
+we felt that the president of the United States
+
+457
+00:32:49,081 --> 00:32:51,240
+is not going to come if it's not safe.
+
+458
+00:32:51,700 --> 00:32:55,200
+And when he came, it really was a relief
+
+459
+00:32:55,201 --> 00:32:56,640
+as far as the people were concerned.
+
+460
+00:32:58,240 --> 00:33:00,760
+But the important moment of Carter's visit
+
+461
+00:33:00,761 --> 00:33:03,780
+is not taking place with the president inside the plant,
+
+462
+00:33:03,781 --> 00:33:07,480
+but in an office trailer where Roger Mattson and Victor Stella
+
+463
+00:33:07,481 --> 00:33:10,520
+frantically analyze chemical calculations together.
+
+464
+00:33:11,960 --> 00:33:18,760
+As the president's visit is concluding, Stella at last finds the error in the calculations that proves his point.
+
+465
+00:33:19,060 --> 00:33:21,980
+They do have time, days, perhaps weeks.
+
+466
+00:33:22,520 --> 00:33:26,960
+The hydrogen can be released gradually, ending the danger of a massive explosion.
+
+467
+00:33:27,480 --> 00:33:31,520
+And finally, engineers will be able to slowly shut down the reactor.
+
+468
+00:33:32,100 --> 00:33:33,900
+The end of the crisis is in sight.
+
+469
+00:33:36,140 --> 00:33:38,360
+Disaster was averted at Three Mile Island.
+
+470
+00:33:38,361 --> 00:33:43,100
+but the scale of what might have been is difficult for most people to imagine.
+
+471
+00:33:44,620 --> 00:33:48,460
+Yes, there was talk of radioactivity and some sort of meltdown,
+
+472
+00:33:48,780 --> 00:33:53,440
+and a few thousand people were temporarily forced from their homes, but no one died.
+
+473
+00:33:54,300 --> 00:33:58,440
+To anyone living in another part of America, not much seems to have happened.
+
+474
+00:34:00,340 --> 00:34:05,360
+To begin to comprehend what almost happened on a small island in the Susquehanna River,
+
+475
+00:34:05,361 --> 00:34:10,400
+it is necessary to look at another nuclear power plant half a world away.
+
+476
+00:34:12,740 --> 00:34:16,100
+Before nuclear power, uranium had little value,
+
+477
+00:34:16,580 --> 00:34:19,540
+and then only as a coloring agent for porcelain and glass.
+
+478
+00:34:20,860 --> 00:34:23,820
+Inviting Disaster will continue in a moment on the History Channel.
+
+479
+00:34:26,420 --> 00:34:30,620
+We now return to Inviting Disaster on Modern Marvels.
+
+480
+00:34:30,621 --> 00:34:43,065
+The history of machines tells us that the most likely time for a problem, for error, for a malfunction, is when a big, complex machine is moving from one state to
+
+481
+00:34:43,066 --> 00:34:43,766
+another.
+
+482
+00:34:43,767 --> 00:34:49,857
+It is changing its speed. It is being started up. It is being shut down.
+
+483
+00:34:49,858 --> 00:34:52,774
+It is an airplane that is landing.
+
+484
+00:34:52,775 --> 00:34:59,380
+Those are changes of state that need a higher than normal level of alertness.
+
+485
+00:35:00,620 --> 00:35:09,620
+Like Three Mile Island, the Chernobyl nuclear plant sits on a river back.
+
+486
+00:35:09,621 --> 00:35:15,620
+This one is the Pripyat River, 80 miles north of the Ukrainian capital of Kyiv.
+
+487
+00:35:15,621 --> 00:35:20,620
+Seven years earlier, catastrophe had been narrowly averted at Three Mile Island.
+
+488
+00:35:20,621 --> 00:35:28,620
+But on a spring day in 1986, the farm-filled countryside around this huge plant will not be so lucky.
+
+489
+00:35:30,620 --> 00:35:34,500
+Unit 4 at Chernobyl had been scheduled for a maintenance shutdown.
+
+490
+00:35:36,220 --> 00:35:40,560
+Even routine maintenance moves a complex machine from one state to another.
+
+491
+00:35:41,560 --> 00:35:43,100
+It is a time of great danger.
+
+492
+00:35:43,880 --> 00:35:46,380
+Normal procedure is interrupted or set aside.
+
+493
+00:35:46,980 --> 00:35:48,580
+Safety checklists are changed.
+
+494
+00:35:49,220 --> 00:35:52,820
+But on this day, authorities have changed the status quo even more.
+
+495
+00:35:53,480 --> 00:35:58,720
+They have ordered that a test be conducted to see how much electricity can be pulled from the generators
+
+496
+00:35:58,721 --> 00:36:02,500
+while the reactor is losing power and slowing to a halt.
+
+497
+00:36:03,580 --> 00:36:07,600
+The thing was hard to keep going at low power.
+
+498
+00:36:08,600 --> 00:36:15,200
+And one by one, they had to disable the various automatic systems
+
+499
+00:36:15,201 --> 00:36:17,220
+that would have shut down the reactor.
+
+500
+00:36:18,620 --> 00:36:25,720
+This big, grumpy beast did not like to keep walking at this awkward speed.
+
+501
+00:36:25,721 --> 00:36:28,380
+In fact, the reactor fought back.
+
+502
+00:36:28,720 --> 00:36:34,480
+tried to shut itself down completely as it approached that dangerous low power state.
+
+503
+00:36:35,360 --> 00:36:42,240
+The operators took steps to keep it running at a lower power, pushing that edge because they had
+
+504
+00:36:42,241 --> 00:36:46,880
+been told, work out this experiment, see how much power you can squeeze.
+
+505
+00:36:48,800 --> 00:36:52,300
+Now the reactor is surging into unknown territory.
+
+506
+00:36:52,301 --> 00:36:55,520
+Within minutes, it is clear to plant operators
+
+507
+00:36:55,521 --> 00:36:57,580
+that the machine is running away with itself.
+
+508
+00:36:58,100 --> 00:36:59,460
+They decide to shut it down.
+
+509
+00:37:01,060 --> 00:37:05,480
+And they threw the switch to drive in the control rods,
+
+510
+00:37:05,580 --> 00:37:07,300
+which were also the shutdown rods.
+
+511
+00:37:07,680 --> 00:37:11,220
+And unfortunately, the design of those rods
+
+512
+00:37:11,221 --> 00:37:14,860
+had the effect of making the situation worse
+
+513
+00:37:14,861 --> 00:37:15,680
+and set it better.
+
+514
+00:37:19,340 --> 00:37:22,280
+With a force of 45 tons of dynamite,
+
+515
+00:37:22,281 --> 00:37:26,640
+The reactor explodes and rips off the top of the containment building.
+
+516
+00:37:27,240 --> 00:37:29,580
+Tons of steel are thrown in all directions.
+
+517
+00:37:30,500 --> 00:37:36,320
+But what was also blown apart was one of the largest collections of cancer-causing,
+
+518
+00:37:36,560 --> 00:37:40,680
+death-causing poison that humans had ever assembled in one place.
+
+519
+00:37:41,440 --> 00:37:45,740
+As helicopters and plant workers pour tons of water onto the raging inferno,
+
+520
+00:37:46,180 --> 00:37:49,420
+huge clouds of radioactive steam pour into the air.
+
+521
+00:37:50,280 --> 00:37:53,960
+They begin a terrifying migration across all of northern Europe.
+
+522
+00:37:54,640 --> 00:37:59,460
+In what amounts to a suicide mission, workers frantically try to bring the fire under control.
+
+523
+00:38:02,080 --> 00:38:08,380
+While Soviet media try to put the best face on the disaster, the awful results soon become apparent.
+
+524
+00:38:10,220 --> 00:38:16,040
+Over 2,000 workers die in the initial explosion and the intense radiation that follows.
+
+525
+00:38:16,800 --> 00:38:20,640
+Another 6,000 will die when they are ordered to build a containment shell
+
+526
+00:38:20,641 --> 00:38:23,620
+over the ruined but still very deadly reactor.
+
+527
+00:38:25,380 --> 00:38:31,340
+I have a great deal of respect to those people who were going inside the shelter.
+
+528
+00:38:31,341 --> 00:38:38,280
+They knew that there was a 90% probability that they would die of radiation eventually.
+
+529
+00:38:39,040 --> 00:38:40,340
+And yet...
+
+530
+00:38:40,341 --> 00:38:44,340
+I'm sorry, I can't...
+
+531
+00:38:44,341 --> 00:38:47,240
+I am sure that most of them died.
+
+532
+00:38:50,540 --> 00:38:54,980
+The nearby city of Pripyat, once home to 50,000 people,
+
+533
+00:38:55,560 --> 00:38:58,840
+became a ghost town as its residents were evacuated from the region.
+
+534
+00:39:00,340 --> 00:39:03,840
+In the years since, cancer rates and birth defects
+
+535
+00:39:03,841 --> 00:39:07,300
+throughout the Ukraine and neighboring Belarus have skyrocketed.
+
+536
+00:39:08,200 --> 00:39:11,460
+Today, the containment shell that was poorly built in haste
+
+537
+00:39:11,461 --> 00:39:13,420
+around the still radioactive plant
+
+538
+00:39:13,421 --> 00:39:14,980
+threatens to collapse.
+
+539
+00:39:15,580 --> 00:39:19,680
+If it does, it will again spill its poison into the environment.
+
+540
+00:39:21,200 --> 00:39:23,640
+Some of the statistics are really frightening.
+
+541
+00:39:24,620 --> 00:39:28,960
+No one will ever farm within probably a hundred mile radius of that place
+
+542
+00:39:28,961 --> 00:39:31,140
+for decades, perhaps a hundred years.
+
+543
+00:39:31,620 --> 00:39:35,200
+If you have to doubt that attention must be paid to these things,
+
+544
+00:39:35,280 --> 00:39:38,920
+just look at some of the incidents and statistics from Chernobyl.
+
+545
+00:39:39,720 --> 00:39:43,000
+So it gives a glimpse, just a glimpse, a horrific glimpse,
+
+546
+00:39:43,420 --> 00:39:46,660
+of what could have happened in Pennsylvania.
+
+547
+00:39:49,620 --> 00:39:53,000
+Three Mile Island was spared the horror of Chernobyl.
+
+548
+00:39:53,800 --> 00:39:57,140
+The great cooling towers of Unit 2 still rise to the sky.
+
+549
+00:39:58,020 --> 00:40:00,520
+But the unit has never again produced electricity.
+
+550
+00:40:02,920 --> 00:40:06,260
+Radiation levels in some parts of its buildings remain so high
+
+551
+00:40:06,261 --> 00:40:08,800
+that no one has dared go there since the accident.
+
+552
+00:40:08,801 --> 00:40:17,980
+In July of 1983, technicians at last were able to lower video cameras into the core of the reactor.
+
+553
+00:40:18,640 --> 00:40:21,540
+What they found confirmed what had only been feared.
+
+554
+00:40:22,220 --> 00:40:26,720
+Over 50% of the reactor's core had vanished on that day in 1979,
+
+555
+00:40:27,380 --> 00:40:30,580
+turning over 20 tons of uranium into molten sludge.
+
+556
+00:40:30,581 --> 00:40:39,000
+30 to 60 minutes is all that separated Three Mile Island from the unspeakable
+
+557
+00:40:39,001 --> 00:40:41,600
+Had complete reactor meltdown occurred
+
+558
+00:40:41,601 --> 00:40:45,020
+As many as 3,000 people might have died immediately
+
+559
+00:40:45,021 --> 00:40:49,340
+Another 45,000 could have died from radiation cancer
+
+560
+00:40:49,341 --> 00:40:54,220
+Harrisburg, Lancaster, even the Gettysburg National Battlefield Park
+
+561
+00:40:54,221 --> 00:40:57,500
+All could have become uninhabitable for decades
+
+562
+00:40:57,501 --> 00:41:02,620
+But fortunately, no one died at Three Mile Island
+
+563
+00:41:02,621 --> 00:41:05,640
+Ultimately, the physical plant did its job
+
+564
+00:41:05,641 --> 00:41:07,880
+Most radiation was contained
+
+565
+00:41:07,881 --> 00:41:10,100
+The meltdown was only partial
+
+566
+00:41:10,101 --> 00:41:15,120
+Although Unit 2 remains locked and impossible to enter for more than a few minutes
+
+567
+00:41:15,121 --> 00:41:19,320
+Its companion, Unit 1, continues to produce electricity
+
+568
+00:41:19,321 --> 00:41:24,060
+But five frightening days in the spring of 1979
+
+569
+00:41:24,061 --> 00:41:27,820
+changed forever the face of nuclear power in America.
+
+570
+00:41:29,000 --> 00:41:33,380
+They ended the nation's blind infatuation with the atomic miracle.
+
+571
+00:41:34,580 --> 00:41:38,740
+Since the accident, no new reactor licenses have been applied for.
+
+572
+00:41:40,280 --> 00:41:42,060
+Because of Three Mile Island,
+
+573
+00:41:42,061 --> 00:41:45,680
+nuclear plants today are safer, better equipped,
+
+574
+00:41:46,080 --> 00:41:49,740
+and are operated by personnel better trained to handle emergencies.
+
+575
+00:41:51,140 --> 00:41:54,000
+Carefully designed evacuation and contingency plans
+
+576
+00:41:54,001 --> 00:41:54,906
+are in place.
+
+577
+00:41:54,907 --> 00:42:00,480
+Most important, no one involved in nuclear power will ever again tell the public
+
+578
+00:42:00,481 --> 00:42:01,905
+it can't happen here.
+
+579
+00:42:01,906 --> 00:42:06,860
+Some of the most dramatic changes have been in how the Nuclear Regulatory
+
+580
+00:42:06,861 --> 00:42:10,597
+Commission is prepared to deal with any future accidents.
+
+581
+00:42:10,598 --> 00:42:12,760
+I'd like to show you the facility
+
+582
+00:42:12,761 --> 00:42:19,160
+that we developed that reflects many of the lessons learned as a result of the Three Mile
+
+583
+00:42:19,161 --> 00:42:20,494
+Island accident.
+
+584
+00:42:20,495 --> 00:42:26,580
+Of most importance is a direct line that we have from here to every plant
+
+585
+00:42:26,581 --> 00:42:28,229
+site in the United States.
+
+586
+00:42:28,230 --> 00:42:32,160
+It not only ties in voice communication links and allows these
+
+587
+00:42:32,161 --> 00:42:37,900
+individuals to talk to their counterparts on site, but it also has a line that goes
+
+588
+00:42:37,901 --> 00:42:39,658
+into the plant computer.
+
+589
+00:42:39,659 --> 00:42:44,420
+What we do with that information is analyze it, turn it over, and
+
+590
+00:42:44,421 --> 00:42:51,140
+attempt to characterize what are the most important parts of the safety
+
+591
+00:42:51,141 --> 00:42:57,380
+systems that we should be concerned with. But we have also learned other less
+
+592
+00:42:57,381 --> 00:43:01,400
+tangible lessons. They are lessons that have less to do with hardware and
+
+593
+00:43:01,401 --> 00:43:06,980
+engineering and more to do with human attitudes toward technology.
+
+594
+00:43:06,981 --> 00:43:20,380
+Complex technologies work best when they're backed up by skepticism and checking, not bravado, not confidence that nothing can go wrong.
+
+595
+00:43:20,920 --> 00:43:27,220
+Complacency and bravado are recipes for surprises and very nasty surprises.
+
+596
+00:43:27,221 --> 00:43:39,600
+as our technologies advance and as our power to wipe ourselves out increases it is vital that our
+
+597
+00:43:39,601 --> 00:43:48,200
+wisdom increase at at least as fast a rate as our knowledge and wisdom and knowledge are not the same
+
+598
+00:43:48,201 --> 00:43:56,960
+things you know i think it's important that these cooling towers remain here forever
+
+599
+00:43:56,961 --> 00:43:59,860
+as a monument to a failed technology.
+
+600
+00:44:00,220 --> 00:44:02,940
+And, you know, like any battlefield that you go to study,
+
+601
+00:44:03,020 --> 00:44:05,360
+this is a battlefield where technology failed.
+
+602
+00:44:05,740 --> 00:44:09,260
+And you can't study nuclear power without coming to Three Mile Island.
+
+603
+00:44:09,261 --> 00:44:12,580
+It would be like studying the Civil War without going to Gettysburg.
+
+604
+00:44:15,240 --> 00:44:20,100
+Of the 37,000 people who lived within five miles of these giant towers
+
+605
+00:44:20,101 --> 00:44:23,820
+when the accident happened, only half remain living there.
+
+606
+00:44:23,821 --> 00:44:30,820
+Those who stayed here express a confidence that society has learned well the lessons of Three Mile Island.
+
+607
+00:44:30,821 --> 00:44:40,820
+Those who have moved away from this place remind us that we must forever be on guard for the mistakes and arrogance that can bring about disaster.
+

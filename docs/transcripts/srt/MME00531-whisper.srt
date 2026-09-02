@@ -1,0 +1,2848 @@
+1
+00:00:01,000 --> 00:00:05,000
+A wind tunnel with 40-foot diameter fans.
+
+2
+00:00:05,100 --> 00:00:08,800
+A flight simulator that's eight stories high.
+
+3
+00:00:08,900 --> 00:00:12,440
+A joyride that makes Big Ben look small.
+
+4
+00:00:12,540 --> 00:00:17,120
+A machine that pulls super film 10 miles long on a 200-pound
+
+5
+00:00:17,220 --> 00:00:18,820
+reel.
+
+6
+00:00:18,920 --> 00:00:21,860
+A mower that can cut your lawn in seconds.
+
+7
+00:00:21,960 --> 00:00:25,520
+And a 300,000-pound rock eater.
+
+8
+00:00:25,620 --> 00:00:30,000
+Now, world's biggest machines on Modern Marvels.
+
+9
+00:00:30,001 --> 00:00:44,001
+For the last 100 years, machines have flown us around the globe and propelled us into
+
+10
+00:00:49,880 --> 00:00:50,880
+space.
+
+11
+00:00:50,881 --> 00:01:04,240
+Today, engineers and scientists are creating new machines to take us farther, faster than
+
+12
+00:01:04,241 --> 00:01:11,200
+ever before. And those machines need to be tested.
+
+13
+00:01:11,201 --> 00:01:16,330
+The 80 by 120 subsonic wind tunnel, biggest in the world.
+
+14
+00:01:16,331 --> 00:01:18,760
+Test section, 80 feet wide,
+
+15
+00:01:18,761 --> 00:01:25,760
+120 feet high. Airflow drive system, six 40-foot diameter fans.
+
+16
+00:01:25,761 --> 00:01:31,760
+NASA Ames Research Center, Mountain View, California.
+
+17
+00:01:31,761 --> 00:01:35,760
+Current manager, United States Air Force.
+
+18
+00:01:35,761 --> 00:01:43,760
+There's a lot we don't understand about how aircraft operate.
+
+19
+00:01:43,761 --> 00:01:46,560
+We try to push the edge of the envelope with every new
+
+20
+00:01:46,660 --> 00:01:50,960
+development to get a little bit more performance or a little bit
+
+21
+00:01:51,060 --> 00:01:54,000
+safer performance out of aircraft.
+
+22
+00:01:54,100 --> 00:01:58,000
+Wind tunnels are a very big part of making that job happen,
+
+23
+00:01:58,100 --> 00:02:02,340
+of making both air travel safe for us and for making aircraft
+
+24
+00:02:02,440 --> 00:02:05,620
+of the future having even better performance than what
+
+25
+00:02:05,720 --> 00:02:06,420
+we have today.
+
+26
+00:02:09,520 --> 00:02:12,380
+Usually, wind tunnels employ scale models of aircraft
+
+27
+00:02:12,381 --> 00:02:15,980
+models of aircraft for testing.
+
+28
+00:02:16,080 --> 00:02:18,620
+But this giant structure is bigger than an airplane
+
+29
+00:02:18,720 --> 00:02:22,320
+hangar and tests full-scale models of almost every kind
+
+30
+00:02:22,420 --> 00:02:23,620
+of aircraft.
+
+31
+00:02:23,720 --> 00:02:26,220
+In the 80 by 120 foot test section,
+
+32
+00:02:26,320 --> 00:02:30,840
+we can fit a 737 sized aircraft, which is unique in
+
+33
+00:02:30,940 --> 00:02:31,840
+the world.
+
+34
+00:02:31,940 --> 00:02:35,540
+No other facility has that capability to test that size
+
+35
+00:02:35,640 --> 00:02:38,380
+of aircraft in a wind tunnel.
+
+36
+00:02:38,480 --> 00:02:41,440
+The soul of this wind tunnel is the set of colossal fans
+
+37
+00:02:41,441 --> 00:02:42,980
+the wind.
+
+38
+00:02:43,080 --> 00:02:45,580
+What is behind me is what's called the fan drive.
+
+39
+00:02:45,680 --> 00:02:48,780
+Every wind tunnel has a drive section.
+
+40
+00:02:48,880 --> 00:02:52,380
+Some have multiple layers of blades.
+
+41
+00:02:52,480 --> 00:02:55,280
+This one has one layer of blades because it's a low speed
+
+42
+00:02:55,380 --> 00:02:56,780
+subsonic wind tunnel.
+
+43
+00:02:56,880 --> 00:03:00,000
+Each one of these nacelles that you see, there's six of them,
+
+44
+00:03:00,100 --> 00:03:04,460
+has a 22,500 horsepower electric motor.
+
+45
+00:03:04,560 --> 00:03:06,840
+It's driving 15 blades that you can see.
+
+46
+00:03:06,940 --> 00:03:09,140
+They're 40 foot diameter on the outside.
+
+47
+00:03:09,141 --> 00:03:12,440
+And that's basically what provides the energy to move the
+
+48
+00:03:12,540 --> 00:03:16,380
+air around the test section.
+
+49
+00:03:16,480 --> 00:03:20,520
+These drive systems were built in the 1940s for the 40 by 80
+
+50
+00:03:20,620 --> 00:03:24,560
+foot closed return wind tunnel, the biggest wind tunnel at that
+
+51
+00:03:24,660 --> 00:03:26,620
+time.
+
+52
+00:03:26,720 --> 00:03:31,320
+In the 1980s, the addition of an 80 by 120 foot wind tunnel,
+
+53
+00:03:31,420 --> 00:03:34,800
+which utilizes the same fan system, ushered in a new era
+
+54
+00:03:34,900 --> 00:03:37,060
+of scientific study.
+
+55
+00:03:37,061 --> 00:03:44,520
+We're now walking forward within fan motor four of the six fan motors that drive the air within the wind tunnel.
+
+56
+00:03:45,020 --> 00:03:49,920
+We have a large nacelle that houses the electric motor that drives the fan.
+
+57
+00:03:49,921 --> 00:04:00,273
+The aft portion of this nacelle, which is over 60 feet long, is nothing more than an aerodynamic fairing to be sure that the airflow that comes through this channel
+
+58
+00:04:00,274 --> 00:04:04,440
+actually has superior flow quality as it exits the fan motor area.
+
+59
+00:04:07,060 --> 00:04:10,440
+Each fan has 15 blades.
+
+60
+00:04:10,441 --> 00:04:14,240
+Here we're looking at one of the blades installed within the hub
+
+61
+00:04:14,241 --> 00:04:19,440
+system itself. At the root of the blade we see the graphite windings
+
+62
+00:04:19,441 --> 00:04:22,940
+that have been installed to be able to withstand the high loads
+
+63
+00:04:22,941 --> 00:04:26,580
+experienced during operation. Underneath the graphite
+
+64
+00:04:26,581 --> 00:04:30,320
+in the area of the blade root we have the hydelignum wood
+
+65
+00:04:30,321 --> 00:04:33,660
+which is three times denser than normal birch wood
+
+66
+00:04:33,661 --> 00:04:35,700
+and as such three times stronger.
+
+67
+00:04:35,800 --> 00:04:39,300
+The lighter color wood is spruce.
+
+68
+00:04:39,400 --> 00:04:40,960
+It was the Wright brothers who pioneered
+
+69
+00:04:41,060 --> 00:04:44,900
+the use of wind tunnels to study the essentials of flight.
+
+70
+00:04:45,000 --> 00:04:47,100
+They actually are credited with building
+
+71
+00:04:47,200 --> 00:04:48,400
+the first wind tunnel.
+
+72
+00:04:48,500 --> 00:04:50,740
+Very, very small in size, and yet it
+
+73
+00:04:50,840 --> 00:04:55,720
+was able to analyze and be able to demonstrate the lift and drag
+
+74
+00:04:55,820 --> 00:04:59,220
+that an airfoil surface would experience when exposed
+
+75
+00:04:59,320 --> 00:05:01,920
+to free stream air.
+
+76
+00:05:01,921 --> 00:05:05,420
+European engineers grasped this new science and built nine wind
+
+77
+00:05:05,520 --> 00:05:09,160
+tunnels in nine years during the run-up to World War I.
+
+78
+00:05:12,060 --> 00:05:16,960
+But the war changed the face of aviation forever.
+
+79
+00:05:17,060 --> 00:05:20,380
+The air superiority of Germany's flying aces made evident the
+
+80
+00:05:20,480 --> 00:05:22,980
+need for a better understanding of wind dynamics.
+
+81
+00:05:25,980 --> 00:05:29,280
+In 1915, the United States established the National
+
+82
+00:05:29,380 --> 00:05:31,480
+Advisory Committee for Aeronautics,
+
+83
+00:05:31,481 --> 00:05:37,820
+or NACA. By the time World War II began,
+
+84
+00:05:37,821 --> 00:05:41,720
+the NACA had built a wide range of wind tunnels, including the
+
+85
+00:05:41,721 --> 00:05:46,220
+first high-pressure wind tunnel in the world.
+
+86
+00:05:46,221 --> 00:05:50,340
+During the war, the NACA began work on the National Full Scale
+
+87
+00:05:50,341 --> 00:05:54,280
+Aeronautics Complex in California.
+
+88
+00:05:54,281 --> 00:05:58,080
+In 1958, when the NACA transformed into what we know
+
+89
+00:05:58,081 --> 00:06:02,420
+today as NASA, the complex became part of the NASA Ames Research
+
+90
+00:06:02,421 --> 00:06:05,580
+Center. The intake section behind me is
+
+91
+00:06:05,581 --> 00:06:09,920
+about a football field in length, and its purpose is to bring air
+
+92
+00:06:09,921 --> 00:06:12,320
+into the test section of the wind tunnel.
+
+93
+00:06:12,321 --> 00:06:15,940
+This particular wind tunnel pulls air through this aperture
+
+94
+00:06:15,941 --> 00:06:19,440
+and exhausts it out the other side of the wind tunnel.
+
+95
+00:06:19,441 --> 00:06:22,840
+At the mouth of the intake section, the structure is 13
+
+96
+00:06:22,841 --> 00:06:26,580
+stories high, but in the test section, its height is reduced
+
+97
+00:06:26,581 --> 00:06:31,180
+to eight stories in order to generate high wind speeds.
+
+98
+00:06:31,181 --> 00:06:34,420
+So the wind just outside the aperture
+
+99
+00:06:34,421 --> 00:06:36,720
+would be moving about 20 miles an hour.
+
+100
+00:06:36,721 --> 00:06:39,960
+But by necking down, much like a garden hose
+
+101
+00:06:39,961 --> 00:06:43,340
+when you're turning the spray nozzle, by a six to one ratio,
+
+102
+00:06:43,341 --> 00:06:45,560
+we get the air up over 100 miles an hour
+
+103
+00:06:45,561 --> 00:06:47,940
+by the time it reaches the test section area.
+
+104
+00:06:50,580 --> 00:06:53,100
+The model support system secures the aircraft
+
+105
+00:06:53,101 --> 00:06:55,800
+while measuring the test data.
+
+106
+00:06:55,801 --> 00:06:59,400
+It can measure lift, it can measure drag, it can measure
+
+107
+00:06:59,500 --> 00:07:03,400
+forces at different angles of attack, it can measure forces at
+
+108
+00:07:03,500 --> 00:07:07,240
+different yaw angles, so that you know what the aerodynamic
+
+109
+00:07:07,340 --> 00:07:11,740
+forces are on the aircraft as it's flying.
+
+110
+00:07:11,840 --> 00:07:15,220
+The model support system alters the angle of yaw and the angle
+
+111
+00:07:15,320 --> 00:07:18,620
+of attack, the two critical aircraft attitudes for testing.
+
+112
+00:07:22,220 --> 00:07:25,500
+Rotating the aircraft in a nose up or nose down direction
+
+113
+00:07:25,501 --> 00:07:30,600
+changes the angle of attack, while rotating the aircraft's
+
+114
+00:07:30,601 --> 00:07:35,940
+nose left or nose right changes the yaw angle.
+
+115
+00:07:35,941 --> 00:07:39,640
+I'm standing on a turntable, which is 60 feet in diameter,
+
+116
+00:07:39,641 --> 00:07:42,720
+and allows us to rotate the models within the wind tunnel
+
+117
+00:07:42,721 --> 00:07:46,580
+so that we can get them at different yaw angles.
+
+118
+00:07:46,581 --> 00:07:49,260
+Underneath the 60-foot diameter turntable
+
+119
+00:07:49,261 --> 00:07:52,120
+is the balance room, where all the measurements are logged
+
+120
+00:07:52,121 --> 00:07:55,500
+and analyzed. The model supports
+
+121
+00:07:55,501 --> 00:07:58,900
+that measure the forces on the models are very large
+
+122
+00:07:59,000 --> 00:08:02,700
+and intricate machines that can make very exact measurements.
+
+123
+00:08:02,800 --> 00:08:06,780
+So it really is a compilation of a whole host of some of the
+
+124
+00:08:06,880 --> 00:08:09,740
+largest and most exotic machines in the world.
+
+125
+00:08:12,280 --> 00:08:15,180
+A wind tunnel isn't the only huge machine used to refine
+
+126
+00:08:15,280 --> 00:08:17,060
+and maximize aeronautic capability.
+
+127
+00:08:19,800 --> 00:08:22,120
+Once an aircraft has gone through years of rigorous
+
+128
+00:08:22,220 --> 00:08:24,800
+testing and thousands of visits to the wind tunnel,
+
+129
+00:08:24,801 --> 00:08:27,800
+tunnel, actually flying it becomes the challenge.
+
+130
+00:08:34,140 --> 00:08:37,040
+To help a pilot realize the potential of the aircraft and
+
+131
+00:08:37,041 --> 00:08:40,980
+perfect his or her own skills, a flight simulator aids in the
+
+132
+00:08:40,981 --> 00:08:41,980
+task.
+
+133
+00:08:46,780 --> 00:08:50,200
+NASA Ames Vertical Motion Simulator,
+
+134
+00:08:50,201 --> 00:08:53,760
+biggest range of motion simulator in the world.
+
+135
+00:08:53,761 --> 00:08:55,920
+Weight, 70 tons.
+
+136
+00:08:55,921 --> 00:09:00,740
+Maximum acceleration in vertical axis, 22 feet per second per
+
+137
+00:09:00,741 --> 00:09:01,740
+second.
+
+138
+00:09:01,741 --> 00:09:05,240
+Cab size, one and two man simulation cockpits.
+
+139
+00:09:08,080 --> 00:09:11,420
+This incredible machine is housed in a 10-story building
+
+140
+00:09:11,421 --> 00:09:16,220
+located half a mile from the 80 by 120 wind tunnel.
+
+141
+00:09:16,221 --> 00:09:18,460
+It's called the vertical motion simulator,
+
+142
+00:09:18,461 --> 00:09:20,780
+but it actually moves in all directions.
+
+143
+00:09:20,781 --> 00:09:23,180
+It's called vertical because that's where it's most
+
+144
+00:09:23,181 --> 00:09:26,860
+movement is. What makes this simulator
+
+145
+00:09:26,861 --> 00:09:30,620
+different is that all of the motions are all independent.
+
+146
+00:09:30,621 --> 00:09:33,520
+No matter how much you pitch, that doesn't take away then
+
+147
+00:09:33,521 --> 00:09:36,500
+from how much you can roll or how much you can yaw or how much
+
+148
+00:09:36,501 --> 00:09:41,300
+you can then move vertically or laterally or fore and aft.
+
+149
+00:09:41,301 --> 00:09:44,400
+This means that the cab, with a pilot inside,
+
+150
+00:09:44,401 --> 00:09:48,140
+can move in every direction a real aircraft moves.
+
+151
+00:09:48,141 --> 00:09:50,580
+So now we're going to roll out of this slight turn, and here
+
+152
+00:09:50,581 --> 00:09:54,280
+the accelerations from the weight vortex.
+
+153
+00:09:54,281 --> 00:09:58,180
+A gigantic machine and an essential tool for pilots,
+
+154
+00:09:58,181 --> 00:10:01,220
+the VMS is a far cry from the first attempts at flight
+
+155
+00:10:01,221 --> 00:10:05,720
+simulation. In the early 1900s, various
+
+156
+00:10:05,721 --> 00:10:08,540
+contraptions were designed to mimic the forces a pilot would
+
+157
+00:10:08,541 --> 00:10:10,440
+encounter while in a flying machine.
+
+158
+00:10:14,440 --> 00:10:18,180
+By the 1930s, the Link Trainer prepared many a pilot on the
+
+159
+00:10:18,181 --> 00:10:22,980
+ground for the air battles of World War II.
+
+160
+00:10:22,981 --> 00:10:27,620
+Pilots sat in cockpit replicas with functional controls.
+
+161
+00:10:27,621 --> 00:10:30,820
+Although they didn't replicate all airplane motions, the
+
+162
+00:10:30,821 --> 00:10:34,340
+cockpit controls did trigger springs, pumps, and valves to
+
+163
+00:10:34,341 --> 00:10:38,980
+create rudimentary motion. And as the war progressed, the
+
+164
+00:10:38,981 --> 00:10:41,780
+flight simulators soared in importance.
+
+165
+00:10:41,781 --> 00:10:44,740
+The result? Improved pilot skills and
+
+166
+00:10:44,741 --> 00:10:48,080
+and decreased aircraft accidents.
+
+167
+00:10:48,140 --> 00:10:52,180
+NASA Ames has had a long history of big simulators.
+
+168
+00:10:52,240 --> 00:10:55,080
+It goes back basically to the late 40s.
+
+169
+00:10:55,160 --> 00:10:59,060
+You learn from each one that you build.
+
+170
+00:10:59,120 --> 00:11:02,260
+Built in 1980, the vertical motion simulator
+
+171
+00:11:02,320 --> 00:11:05,320
+incorporated all the movement the previous simulators lacked.
+
+172
+00:11:09,260 --> 00:11:11,460
+And the mechanics of this giant machine
+
+173
+00:11:11,540 --> 00:11:13,900
+are as complex as any aircraft.
+
+174
+00:11:13,901 --> 00:11:23,560
+We're on the carriage of the vertical motion simulator, and where we're standing right now is directly underneath the simulator cab itself.
+
+175
+00:11:24,520 --> 00:11:29,920
+This carriage provides five of the six degrees of freedom that the simulator has.
+
+176
+00:11:30,380 --> 00:11:35,360
+If this is an airplane, this is your roll, this is your pitch, this is your yaw.
+
+177
+00:11:36,420 --> 00:11:40,840
+This is what we would refer to as lateral and then longitudinal directions.
+
+178
+00:11:40,841 --> 00:11:47,840
+This actuator as well as this actuator back here provide the roll and the pitch axes.
+
+179
+00:11:47,841 --> 00:11:56,840
+And as you come around here, this actuator that is laying horizontally actually extends and retracts
+
+180
+00:11:56,841 --> 00:12:01,840
+and causes this blue cone here to rotate about its vertical center line.
+
+181
+00:12:01,841 --> 00:12:06,840
+And that gives you the yaw axis that you would have in your airplane.
+
+182
+00:12:06,841 --> 00:12:14,940
+And then right here on the deck, these two surfaces actually slide with respect to one another back and forth,
+
+183
+00:12:15,080 --> 00:12:17,520
+and that gives you the longitudinal direction.
+
+184
+00:12:17,980 --> 00:12:23,140
+And then this whole carriage traverses back and forth across the beam, giving you the lateral direction.
+
+185
+00:12:25,900 --> 00:12:28,540
+We're at the base of the vertical motion simulator.
+
+186
+00:12:30,220 --> 00:12:35,580
+What you see here are the drive motors that power the vertical axis.
+
+187
+00:12:35,581 --> 00:12:48,497
+They go through gearboxes, which then are attached to pinions that drive racks that are located on either side of pneumatic counterbalances, which we refer to as
+
+188
+00:12:48,498 --> 00:12:49,620
+equilibrators.
+
+189
+00:12:49,621 --> 00:12:54,800
+What these are are essentially a cylinder within a cylinder.
+
+190
+00:12:55,400 --> 00:12:59,800
+The outer cylinder travels up and down on the inner cylinder.
+
+191
+00:13:00,660 --> 00:13:05,340
+And then these cylinders are pressurized with nitrogen
+
+192
+00:13:05,341 --> 00:13:08,960
+to essentially counterbalance this system.
+
+193
+00:13:10,440 --> 00:13:13,260
+The NASA Ames Vertical Motion Simulator
+
+194
+00:13:13,261 --> 00:13:16,260
+consists of five interchangeable simulation cabs.
+
+195
+00:13:16,261 --> 00:13:21,960
+Each cab contains a cockpit and controls that duplicate aircraft
+
+196
+00:13:21,961 --> 00:13:26,760
+in early design phases, and aircraft already flying.
+
+197
+00:13:26,761 --> 00:13:30,860
+We're in a simulated front cockpit of the shuttle.
+
+198
+00:13:30,861 --> 00:13:36,860
+It feels like the real vehicle, and it has a large range of
+
+199
+00:13:36,861 --> 00:13:40,060
+motion, so you're not limited where you just get a kind of a
+
+200
+00:13:40,061 --> 00:13:43,960
+hint. You get a much better sensation here than you would
+
+201
+00:13:43,961 --> 00:13:46,200
+in other simulators.
+
+202
+00:13:46,201 --> 00:13:47,260
+Here comes the gear.
+
+203
+00:13:50,660 --> 00:13:51,700
+More on the ground.
+
+204
+00:13:53,200 --> 00:13:55,380
+Pitching over to get the nose wheel down.
+
+205
+00:13:57,640 --> 00:13:58,800
+The chute is out.
+
+206
+00:14:02,620 --> 00:14:03,840
+And I'll get on the brakes.
+
+207
+00:14:06,680 --> 00:14:09,560
+Flight simulators are extremely important to aeronautics.
+
+208
+00:14:09,561 --> 00:14:12,880
+Before a new vehicle gets built, you simulate it.
+
+209
+00:14:12,881 --> 00:14:15,120
+we test new systems, we simulate them.
+
+210
+00:14:15,220 --> 00:14:18,360
+They usually want to try them out first for both safety and
+
+211
+00:14:18,460 --> 00:14:21,460
+performance reasons in the simulation before you actually
+
+212
+00:14:21,560 --> 00:14:23,360
+put them into flight test.
+
+213
+00:14:28,060 --> 00:14:31,000
+Massive machines like the VMS and the full-scale wind
+
+214
+00:14:31,100 --> 00:14:35,000
+tunnel help us reach great heights.
+
+215
+00:14:35,100 --> 00:14:38,880
+But what if we're going in the other direction, into the depths
+
+216
+00:14:38,980 --> 00:14:39,980
+of the Earth?
+
+217
+00:14:42,880 --> 00:14:47,880
+When the fan engines in the 80 by 120 wind tunnel run at full
+
+218
+00:14:47,881 --> 00:14:52,880
+speed, they consume about 100 megawatts of electricity.
+
+219
+00:14:52,881 --> 00:14:56,880
+That's enough to power more than 60,000 homes.
+
+220
+00:14:56,881 --> 00:15:01,880
+World's Biggest Machines will return on Modern Marvels.
+
+221
+00:15:05,880 --> 00:15:09,880
+We now return to World's Biggest Machines on Modern
+
+222
+00:15:09,881 --> 00:15:14,880
+on Modern Marvels.
+
+223
+00:15:14,980 --> 00:15:16,880
+Some of the world's biggest machines
+
+224
+00:15:16,980 --> 00:15:20,420
+are hidden far below the Earth's surface,
+
+225
+00:15:20,520 --> 00:15:23,220
+digging, tunneling, and boring their way through rock.
+
+226
+00:15:26,120 --> 00:15:28,840
+These gigantic machines do the work that men have done
+
+227
+00:15:28,940 --> 00:15:30,940
+for millennia.
+
+228
+00:15:31,040 --> 00:15:33,880
+A mining machine known as the continuous miner
+
+229
+00:15:33,980 --> 00:15:35,480
+is one of the biggest.
+
+230
+00:15:35,580 --> 00:15:39,860
+And Joy Mining Machinery's 12HM36 is the best
+
+231
+00:15:39,880 --> 00:15:43,780
+biggest of its kind.
+
+232
+00:15:43,880 --> 00:15:48,080
+12 HM36, continuous miner.
+
+233
+00:15:48,180 --> 00:15:50,920
+Mining rate, 40 tons per minute.
+
+234
+00:15:51,020 --> 00:15:54,420
+300,000 pounds.
+
+235
+00:15:54,520 --> 00:15:57,900
+Lifespan, 3 to 4 million tons.
+
+236
+00:15:58,000 --> 00:16:00,900
+Onboard motors, 13.
+
+237
+00:16:01,000 --> 00:16:03,400
+1 inch per second.
+
+238
+00:16:03,500 --> 00:16:06,200
+Individual parts, over 100,000.
+
+239
+00:16:06,201 --> 00:16:11,200
+Continuous miners are found in underground mines all over the
+
+240
+00:16:11,300 --> 00:16:12,200
+globe.
+
+241
+00:16:14,300 --> 00:16:19,180
+They turn through coal, salt, gypsum, or potash, to name but
+
+242
+00:16:19,280 --> 00:16:22,180
+a few materials that lie in their path.
+
+243
+00:16:22,280 --> 00:16:25,080
+And the way these beastly machines are engineered and
+
+244
+00:16:25,180 --> 00:16:29,120
+manufactured is just as impressive as their operation.
+
+245
+00:16:29,220 --> 00:16:33,620
+This machine took about 5,000 engineering hours before it's
+
+246
+00:16:33,621 --> 00:16:35,780
+before it's released to production,
+
+247
+00:16:35,880 --> 00:16:41,360
+and then production takes over, and it goes to build from there.
+
+248
+00:16:41,460 --> 00:16:44,360
+The 12-HM36 is a custom-made machine
+
+249
+00:16:44,460 --> 00:16:47,160
+with specific design criteria.
+
+250
+00:16:47,260 --> 00:16:48,760
+This miner that you're looking at
+
+251
+00:16:48,860 --> 00:16:52,980
+is kind of deceiving in its size on my computer screen.
+
+252
+00:16:53,080 --> 00:16:56,080
+This machine is over 45 feet long.
+
+253
+00:16:56,180 --> 00:17:00,780
+It's 15 feet wide and 10 feet high.
+
+254
+00:17:00,781 --> 00:17:04,620
+One of the design criteria when we were building this machine
+
+255
+00:17:04,720 --> 00:17:08,880
+was brought on to us by our customer.
+
+256
+00:17:08,980 --> 00:17:10,860
+This giant machine had to be designed
+
+257
+00:17:10,960 --> 00:17:13,700
+in pieces that fit through a five-foot square shaft
+
+258
+00:17:13,800 --> 00:17:16,900
+for assembly underground.
+
+259
+00:17:17,000 --> 00:17:20,260
+I need to ensure that when I start piecing this together
+
+260
+00:17:20,360 --> 00:17:24,000
+that things do fit, things do work properly,
+
+261
+00:17:24,100 --> 00:17:27,800
+so that I don't get calls from the machine shop or the assembly
+
+262
+00:17:27,801 --> 00:17:31,200
+floor saying, this doesn't work or this doesn't fit.
+
+263
+00:17:31,300 --> 00:17:35,000
+No engineer likes that. At the Joy Mining
+
+264
+00:17:35,100 --> 00:17:38,640
+Machinery Manufacturing Plant in Franklin, Pennsylvania,
+
+265
+00:17:38,740 --> 00:17:41,940
+giant machine tools form, cut, and measure the enormous
+
+266
+00:17:42,040 --> 00:17:48,960
+individual parts that make up the 12HM-36 continuous miner.
+
+267
+00:17:49,060 --> 00:17:51,900
+And it all begins with a plate of steel.
+
+268
+00:17:52,000 --> 00:17:55,000
+This is really the beginning for all our parts that are cut
+
+269
+00:17:55,001 --> 00:17:57,660
+cut out of steel plate or bar stock.
+
+270
+00:17:57,661 --> 00:18:00,580
+It's all started right here.
+
+271
+00:18:00,581 --> 00:18:03,440
+There are seven behemoth burning machines that torch
+
+272
+00:18:03,441 --> 00:18:06,820
+cut each individual piece of steel.
+
+273
+00:18:06,821 --> 00:18:10,720
+With a touch of a few buttons, the burning begins.
+
+274
+00:18:10,721 --> 00:18:12,820
+It's a lot like a bolt of lightning,
+
+275
+00:18:12,821 --> 00:18:17,080
+except we're pushing it through an eighth inch hole.
+
+276
+00:18:17,081 --> 00:18:20,820
+I'm told that the temperature of the sun is 11,000 degrees,
+
+277
+00:18:20,821 --> 00:18:23,620
+but we're four times that down at the cut.
+
+278
+00:18:23,621 --> 00:18:26,660
+So it's a hot cut.
+
+279
+00:18:26,760 --> 00:18:30,320
+And that's the finished part.
+
+280
+00:18:30,420 --> 00:18:33,660
+Among the most critical units of the 12HM36
+
+281
+00:18:33,760 --> 00:18:37,960
+are the electrical box encasements.
+
+282
+00:18:38,060 --> 00:18:41,080
+Our machines will work underground all their life.
+
+283
+00:18:41,180 --> 00:18:42,780
+And any time you're digging underground,
+
+284
+00:18:42,880 --> 00:18:46,380
+you have a chance of running into a methane gas pocket.
+
+285
+00:18:46,480 --> 00:18:49,280
+Nothing will keep methane gas from penetrating
+
+286
+00:18:49,380 --> 00:18:51,820
+an electrical box.
+
+287
+00:18:51,821 --> 00:18:54,560
+So to keep miners safe, these electrical boxes
+
+288
+00:18:54,660 --> 00:18:57,100
+are machine-tooled so perfectly,
+
+289
+00:18:57,200 --> 00:18:59,960
+any ignition that might occur inside the box
+
+290
+00:19:00,060 --> 00:19:01,460
+won't pass into the open air.
+
+291
+00:19:05,160 --> 00:19:07,500
+This is a box that just came off.
+
+292
+00:19:07,600 --> 00:19:09,900
+There can be no scratches or imperfections.
+
+293
+00:19:10,000 --> 00:19:13,140
+Anything that could be a flame path for burning methane gas
+
+294
+00:19:13,240 --> 00:19:16,640
+can't pass between here and the cover.
+
+295
+00:19:16,740 --> 00:19:18,620
+In addition to visual inspections,
+
+296
+00:19:18,720 --> 00:19:21,340
+another giant machine aids in the precision measuring
+
+297
+00:19:21,341 --> 00:19:24,840
+piece of the puzzle. The fact that this machine
+
+298
+00:19:24,841 --> 00:19:28,740
+will measure with two tenths of a thousandth of an inch is so
+
+299
+00:19:28,741 --> 00:19:33,460
+important to us because a lot of our tolerances that we have to
+
+300
+00:19:33,461 --> 00:19:37,260
+hold are only one thousandth of an inch.
+
+301
+00:19:37,261 --> 00:19:40,020
+Before the final pieces of the machine are sent to the
+
+302
+00:19:40,021 --> 00:19:46,940
+customer, each 12 HM36 is assembled, tested, and then
+
+303
+00:19:46,941 --> 00:19:51,340
+disassembled for transport.
+
+304
+00:19:51,341 --> 00:19:54,180
+The machine has to be broken down into a very small size.
+
+305
+00:19:54,181 --> 00:19:57,040
+It has to fit into a 5-foot square hole.
+
+306
+00:19:57,041 --> 00:20:00,080
+So we're taking a 300,000-pound machine
+
+307
+00:20:00,081 --> 00:20:03,320
+and breaking it into about 30 large pieces
+
+308
+00:20:03,321 --> 00:20:05,780
+to put into the mine.
+
+309
+00:20:05,781 --> 00:20:08,960
+The continuous miner is a machine on a grand scale,
+
+310
+00:20:08,961 --> 00:20:10,520
+compared to the backbreaking tools
+
+311
+00:20:10,521 --> 00:20:13,960
+of the early mining industry.
+
+312
+00:20:13,961 --> 00:20:16,060
+Throughout the long history of mining,
+
+313
+00:20:16,061 --> 00:20:18,360
+machines and contraptions of various sizes
+
+314
+00:20:18,361 --> 00:20:23,360
+devised to move Earth. But it wasn't until the late 19th
+
+315
+00:20:23,361 --> 00:20:28,000
+century that real changes began to occur, and mining could delve
+
+316
+00:20:28,001 --> 00:20:33,380
+deeper under the surface. With steam power and metal
+
+317
+00:20:33,381 --> 00:20:39,380
+digging tools, mining got faster and just a little easier.
+
+318
+00:20:39,381 --> 00:20:42,380
+But the inherent dangers to hundreds of miners working
+
+319
+00:20:42,381 --> 00:20:46,880
+hundreds of feet underground were still very real and often
+
+320
+00:20:46,881 --> 00:20:53,220
+deadly. Mining now depends on machines
+
+321
+00:20:53,320 --> 00:20:56,660
+like the continuous miner to do the work previously done by so
+
+322
+00:20:56,760 --> 00:21:02,220
+many men. The rotating drum head,
+
+323
+00:21:02,320 --> 00:21:05,860
+peppered with carbide steel teeth, is the lethal force that
+
+324
+00:21:05,960 --> 00:21:09,040
+disintegrates the earth. The cutting drums on the
+
+325
+00:21:09,140 --> 00:21:13,800
+machine are 15 feet wide, and they are 5 feet in diameter.
+
+326
+00:21:13,801 --> 00:21:18,800
+Each drum weighs about five tons.
+
+327
+00:21:18,900 --> 00:21:20,800
+The stuff of nightmares.
+
+328
+00:21:20,900 --> 00:21:24,340
+This machine churns 900 feet below the surface
+
+329
+00:21:24,440 --> 00:21:27,440
+and uses a conveyor system to move the displaced minerals
+
+330
+00:21:27,540 --> 00:21:30,040
+to a hauler.
+
+331
+00:21:30,140 --> 00:21:31,860
+All aspects of the continuous miner
+
+332
+00:21:31,960 --> 00:21:36,360
+are monitored with real-time accuracy inside the mine,
+
+333
+00:21:36,460 --> 00:21:41,160
+up at the surface, and anywhere on the globe.
+
+334
+00:21:41,900 --> 00:21:52,157
+Being able to remotely operate or remotely diagnose from any location gives the operator in the mine the expertise of not only other people within his organization
+
+335
+00:21:52,158 --> 00:22:02,540
+that are experts, but it opens them up to the Joy organization where we have a complete series of global experts that understand this equipment in its finest detail.
+
+336
+00:22:02,541 --> 00:22:06,340
+This particular screen shows three separate machines
+
+337
+00:22:06,440 --> 00:22:09,940
+that we've logged into in a given mine operating.
+
+338
+00:22:10,040 --> 00:22:13,280
+And you can see the top view and the side view.
+
+339
+00:22:13,380 --> 00:22:15,780
+And when you're actually cutting and operating,
+
+340
+00:22:15,880 --> 00:22:17,980
+you'll have the slider bar on the side that
+
+341
+00:22:18,080 --> 00:22:20,200
+gives us the actual mining height
+
+342
+00:22:20,300 --> 00:22:23,200
+of the particular equipment.
+
+343
+00:22:23,300 --> 00:22:25,300
+The massive continuous mining machine
+
+344
+00:22:25,400 --> 00:22:29,740
+that revolutionized the industry will continue to get bigger.
+
+345
+00:22:29,741 --> 00:22:33,040
+It is evolving all the time with new components,
+
+346
+00:22:33,140 --> 00:22:34,240
+new technology.
+
+347
+00:22:34,340 --> 00:22:36,240
+It's like the rest of the world.
+
+348
+00:22:36,340 --> 00:22:38,740
+Technology is expanding every day.
+
+349
+00:22:38,840 --> 00:22:42,180
+And to meet market demands, you have to expand right along
+
+350
+00:22:42,280 --> 00:22:43,380
+with it.
+
+351
+00:22:43,480 --> 00:22:45,980
+These giant machines have proven their importance
+
+352
+00:22:46,080 --> 00:22:50,100
+to industry in their subterranean world.
+
+353
+00:22:50,200 --> 00:22:53,100
+But can a machine become the latest and greatest city
+
+354
+00:22:53,200 --> 00:22:54,100
+landmark?
+
+355
+00:22:54,101 --> 00:23:04,340
+The 12-HM36 continuous miner weighs more than 100 compact
+
+356
+00:23:04,341 --> 00:23:06,440
+passenger cars.
+
+357
+00:23:06,441 --> 00:23:10,500
+World's Biggest Machines will return on Modern Marvels here
+
+358
+00:23:10,501 --> 00:23:11,400
+on the History Channel.
+
+359
+00:23:17,100 --> 00:23:19,840
+We now return to World's Biggest Machines
+
+360
+00:23:19,841 --> 00:23:20,900
+on Modern Marvels.
+
+361
+00:23:24,100 --> 00:23:31,840
+The Eiffel Tower, the Empire State Building, Taipei 101.
+
+362
+00:23:31,940 --> 00:23:34,940
+These structures are prominent landmarks that promote tourism
+
+363
+00:23:35,040 --> 00:23:38,140
+and business, and display a distinctive architectural
+
+364
+00:23:38,240 --> 00:23:39,140
+panache.
+
+365
+00:23:49,760 --> 00:23:52,300
+But cities that want new and distinct monuments
+
+366
+00:23:52,301 --> 00:23:55,540
+outside the box for alternatives.
+
+367
+00:23:55,640 --> 00:23:57,840
+Why not a machine?
+
+368
+00:23:57,940 --> 00:24:00,940
+Like the giant machine in the heart of London.
+
+369
+00:24:01,040 --> 00:24:02,940
+I'm going to London unless you go into London Eye.
+
+370
+00:24:03,040 --> 00:24:06,940
+And where else can you get the view of a London?
+
+371
+00:24:07,040 --> 00:24:09,020
+It stands almost three times the height
+
+372
+00:24:09,120 --> 00:24:11,060
+of the Statue of Liberty.
+
+373
+00:24:11,160 --> 00:24:14,960
+It's as familiar as it is extraordinary.
+
+374
+00:24:15,060 --> 00:24:17,400
+We weren't necessarily wanting the biggest,
+
+375
+00:24:17,500 --> 00:24:21,400
+but it, you know, you can't resist, can you?
+
+376
+00:24:21,401 --> 00:24:23,400
+I'm going to do this, can you?
+
+377
+00:24:51,400 --> 00:25:00,700
+passengers more than 1,500 per day. The eye obviously resembles a
+
+378
+00:25:00,701 --> 00:25:04,300
+traditional Ferris wheel, but technically the eye is different
+
+379
+00:25:04,301 --> 00:25:12,800
+in three ways. First, the capsules are enclosed.
+
+380
+00:25:12,801 --> 00:25:18,600
+Second, they're positioned on the outside of the wheel.
+
+381
+00:25:18,601 --> 00:25:22,100
+And third, the whole structure is supported by an A-frame,
+
+382
+00:25:22,200 --> 00:25:23,600
+from one side only.
+
+383
+00:25:29,340 --> 00:25:32,040
+This giant wheel was originally designed and built
+
+384
+00:25:32,140 --> 00:25:35,260
+for celebrations of the millennium.
+
+385
+00:25:35,360 --> 00:25:40,060
+Since then, it's become London's most popular attraction.
+
+386
+00:25:40,160 --> 00:25:42,960
+We decided that it shouldn't be just a landmark that you look
+
+387
+00:25:43,060 --> 00:25:44,060
+at.
+
+388
+00:25:44,160 --> 00:25:48,260
+It should be something that people could participate in.
+
+389
+00:25:48,261 --> 00:25:51,760
+The 32 totally enclosed air-conditioned capsules are
+
+390
+00:25:51,761 --> 00:25:56,500
+the most important elements to the success of the machine.
+
+391
+00:25:56,501 --> 00:25:59,300
+Putting the capsules on the outside was also because we
+
+392
+00:25:59,301 --> 00:26:02,380
+wanted people to have an unimpeded view through 360
+
+393
+00:26:02,381 --> 00:26:05,920
+degrees, you know, the idea that you're feeling like you're on
+
+394
+00:26:05,921 --> 00:26:08,680
+top of a mountain but in the middle of the city.
+
+395
+00:26:08,681 --> 00:26:11,720
+Traditional ferris wheels, the ferris capsules, would have
+
+396
+00:26:11,721 --> 00:26:14,920
+been hanging, and so at the top they would basically be hanging
+
+397
+00:26:14,921 --> 00:26:18,460
+between the structure, and your view is obviously impeded
+
+398
+00:26:18,560 --> 00:26:22,860
+by the structure here, nothing gets in the way of the view.
+
+399
+00:26:22,960 --> 00:26:25,300
+The capsules are attached to the external circumference
+
+400
+00:26:25,400 --> 00:26:29,000
+of the wheel instead of being suspended.
+
+401
+00:26:29,100 --> 00:26:31,640
+This requires more mechanical stabilization
+
+402
+00:26:31,740 --> 00:26:33,000
+and technical complexity.
+
+403
+00:26:35,700 --> 00:26:38,840
+Each capsule has a track on which a mounting ring rotates
+
+404
+00:26:38,940 --> 00:26:42,280
+at the exact same speed the wheel rotates.
+
+405
+00:26:42,380 --> 00:26:44,380
+This ensures the capsule floor is always
+
+406
+00:26:44,381 --> 00:26:49,120
+is always level and is so smooth that movement can't be felt.
+
+407
+00:26:49,121 --> 00:26:51,520
+That ability to keep the floor level,
+
+408
+00:26:51,521 --> 00:26:54,220
+allow people to walk around, means you have to motorize
+
+409
+00:26:54,221 --> 00:26:57,720
+the capsule. The earliest reference
+
+410
+00:26:57,721 --> 00:27:01,740
+to a rotating wheel used for the sole purpose of pleasure dates
+
+411
+00:27:01,741 --> 00:27:05,840
+to the 17th century. It was a hand crank device known
+
+412
+00:27:05,841 --> 00:27:10,680
+as the ups and downs. But in 1893, George Washington
+
+413
+00:27:10,681 --> 00:27:14,320
+designed the first mechanical wheel for the Chicago World's
+
+414
+00:27:14,420 --> 00:27:17,520
+Fair, and it was a big one.
+
+415
+00:27:17,620 --> 00:27:23,920
+His massive machine stood 250 feet tall, weighed 2,200 tons,
+
+416
+00:27:24,020 --> 00:27:29,440
+and was powered by two 1,000 horsepower steam engines.
+
+417
+00:27:29,540 --> 00:27:34,840
+There were 36 gondolas, each the size of a school bus.
+
+418
+00:27:34,940 --> 00:27:39,040
+This giant wheel was an instant hit and was soon nicknamed the
+
+419
+00:27:39,041 --> 00:27:43,520
+the Ferris wheel. The name stuck, and the big wheel
+
+420
+00:27:43,521 --> 00:27:45,920
+has become a worldwide symbol of good times.
+
+421
+00:27:48,880 --> 00:27:52,160
+But engineering the London Eye was much more demanding than any
+
+422
+00:27:52,161 --> 00:27:55,760
+Ferris wheel. To build this machine,
+
+423
+00:27:55,761 --> 00:28:01,120
+engineers had to literally reinvent the wheel itself.
+
+424
+00:28:01,121 --> 00:28:04,160
+It's a cliche to say nobody can reinvent anything, and the
+
+425
+00:28:04,161 --> 00:28:06,160
+cliche is can you reinvent a wheel?
+
+426
+00:28:06,161 --> 00:28:08,800
+But this wheel is different to any other wheel.
+
+427
+00:28:08,900 --> 00:28:11,700
+And everybody who worked on it knows that they did reinvent
+
+428
+00:28:11,800 --> 00:28:14,660
+something.
+
+429
+00:28:14,760 --> 00:28:18,500
+It rotates continuously at a rate of 0.6 miles per
+
+430
+00:28:18,600 --> 00:28:19,600
+hour.
+
+431
+00:28:19,700 --> 00:28:22,980
+A complete revolution takes 30 minutes.
+
+432
+00:28:23,080 --> 00:28:26,080
+If you stopped and started the wheel all the time,
+
+433
+00:28:26,180 --> 00:28:28,420
+the journey time would be quite prolonged.
+
+434
+00:28:28,520 --> 00:28:31,920
+So it's a fundamental requirement of the concept
+
+435
+00:28:32,020 --> 00:28:35,120
+that we have a continuous wheel rotating all the time,
+
+436
+00:28:35,121 --> 00:28:37,220
+and that we can get people onto a capsule
+
+437
+00:28:37,221 --> 00:28:38,560
+that's moving in front of them.
+
+438
+00:28:38,700 --> 00:28:41,640
+That means that you've got to run at a speed, which is safe.
+
+439
+00:28:42,300 --> 00:28:45,260
+And that safety has to cope with a whole range of visitors,
+
+440
+00:28:45,860 --> 00:28:49,120
+from young, agile people to people who are quite infirm.
+
+441
+00:28:49,180 --> 00:28:50,600
+This isn't a white-knuckle ride.
+
+442
+00:28:51,800 --> 00:28:52,980
+Welcome back, ladies and gentlemen.
+
+443
+00:28:53,080 --> 00:28:54,580
+I just want you to step up as you come off the capsule.
+
+444
+00:28:54,940 --> 00:28:55,640
+Go.
+
+445
+00:28:56,180 --> 00:28:56,880
+It's nice.
+
+446
+00:28:57,060 --> 00:28:57,760
+It's very good.
+
+447
+00:28:59,680 --> 00:29:02,220
+Designed by Marks Barfield Architects,
+
+448
+00:29:02,221 --> 00:29:05,860
+the London Eye was built in only 16 months with the help of
+
+449
+00:29:05,861 --> 00:29:10,460
+hundreds of people from five European countries.
+
+450
+00:29:10,461 --> 00:29:13,160
+It's the only cantilevered structure of its kind in the
+
+451
+00:29:13,161 --> 00:29:14,960
+world.
+
+452
+00:29:14,961 --> 00:29:16,860
+We wanted it to be light in feeling,
+
+453
+00:29:16,861 --> 00:29:18,980
+even though it's massive in size.
+
+454
+00:29:18,981 --> 00:29:21,380
+We very quickly came to the idea of having a triangular
+
+455
+00:29:21,381 --> 00:29:24,980
+truss because visually that makes it much lighter.
+
+456
+00:29:24,981 --> 00:29:29,380
+Traditionally, Ferris wheels have had a square truss.
+
+457
+00:29:29,381 --> 00:29:32,220
+More like a bicycle wheel than a Ferris wheel.
+
+458
+00:29:32,221 --> 00:29:35,860
+The eye is comprised of 80 spokes, over three miles of
+
+459
+00:29:35,960 --> 00:29:40,860
+steel cable, all connected to a central spindle.
+
+460
+00:29:40,960 --> 00:29:44,660
+That spindle is integral to the wheel's operation.
+
+461
+00:29:44,760 --> 00:29:46,760
+It doesn't look that big from down here,
+
+462
+00:29:46,860 --> 00:29:49,080
+but if you put it on its side, it's 25 meters.
+
+463
+00:29:49,180 --> 00:29:51,980
+Well, in lay terms, that's seven stories high.
+
+464
+00:29:52,080 --> 00:29:53,380
+So it's a big piece of steel.
+
+465
+00:29:56,420 --> 00:30:00,780
+The wheel had to be constructed horizontally on site.
+
+466
+00:30:00,781 --> 00:30:03,780
+Then it was hoisted into its vertical position,
+
+467
+00:30:03,880 --> 00:30:07,320
+a groundbreaking feat for a machine this large.
+
+468
+00:30:07,420 --> 00:30:09,680
+In just three days, the wheel went up
+
+469
+00:30:09,780 --> 00:30:12,020
+and became the fourth tallest structure in London.
+
+470
+00:30:14,820 --> 00:30:18,400
+The daily operation of the Eye involves many complex systems
+
+471
+00:30:18,500 --> 00:30:21,460
+and a dedicated work staff.
+
+472
+00:30:21,560 --> 00:30:23,240
+This is the London Eye Control Room.
+
+473
+00:30:23,340 --> 00:30:26,080
+We have a ride operator who looks after the boarding
+
+474
+00:30:26,180 --> 00:30:30,780
+process and also the guest safety while they're on the wheel.
+
+475
+00:30:30,781 --> 00:30:37,500
+It's his sole responsibility and he uses the systems here to monitor capsule performance and the safety of the guests.
+
+476
+00:30:37,900 --> 00:30:42,640
+What we've got here is the capsule control system which is monitoring the capsule performance.
+
+477
+00:30:43,180 --> 00:30:47,840
+The standard heads-up screen is this one here which gives you the location of each capsule.
+
+478
+00:30:48,320 --> 00:30:55,580
+We can interrogate any capsule by clicking on it and then we go into a more detailed look at what is happening within the capsule.
+
+479
+00:30:56,220 --> 00:30:59,520
+So we can monitor the floor level which are these indicators here.
+
+480
+00:30:59,521 --> 00:31:02,420
+We monitor the power supply, which is this area here.
+
+481
+00:31:02,520 --> 00:31:05,700
+We monitor the doors, which is this area here.
+
+482
+00:31:05,800 --> 00:31:08,200
+The drive system, which is this area here.
+
+483
+00:31:08,300 --> 00:31:12,460
+And the transmission and PLC status here in the middle.
+
+484
+00:31:15,600 --> 00:31:18,580
+Four sets of tires powered by a hydraulic system
+
+485
+00:31:18,680 --> 00:31:23,580
+rotate the giant wheel, an amazingly simple mechanism
+
+486
+00:31:23,680 --> 00:31:27,140
+for a structure so large.
+
+487
+00:31:27,141 --> 00:31:30,740
+Well, we're here beside one of the four wheel sets.
+
+488
+00:31:30,840 --> 00:31:32,740
+We've got four tires on each wheel set,
+
+489
+00:31:32,840 --> 00:31:34,540
+giving 16 in total.
+
+490
+00:31:34,640 --> 00:31:36,580
+The pressure we clamp onto the rim
+
+491
+00:31:36,680 --> 00:31:39,220
+is only five tons between the wheel sets,
+
+492
+00:31:39,320 --> 00:31:40,880
+and this is through normal operating
+
+493
+00:31:40,980 --> 00:31:43,620
+when we have 16 wheels on.
+
+494
+00:31:43,720 --> 00:31:46,260
+On close inspection, a visitor might notice
+
+495
+00:31:46,360 --> 00:31:50,400
+that this giant wheel isn't really round.
+
+496
+00:31:50,500 --> 00:31:54,840
+The rim itself, although looks circular from a long way away,
+
+497
+00:31:54,841 --> 00:31:57,480
+away is just a series of straight edges.
+
+498
+00:31:57,580 --> 00:32:00,080
+And those straights are five meters long with a weld
+
+499
+00:32:00,180 --> 00:32:03,080
+at either end, and then another straight.
+
+500
+00:32:03,180 --> 00:32:06,180
+Easier to construct a series of straight edges,
+
+501
+00:32:06,280 --> 00:32:08,980
+their perfect alignment creates the illusion of a circle.
+
+502
+00:32:11,520 --> 00:32:14,600
+Initially, the London Eye was to stand for only five years
+
+503
+00:32:14,700 --> 00:32:18,400
+before being moved to another location.
+
+504
+00:32:18,500 --> 00:32:21,740
+It's a startling thing to say, in the middle of an historical
+
+505
+00:32:21,840 --> 00:32:24,300
+city like London, you're going to build the biggest wheel
+
+506
+00:32:24,301 --> 00:32:26,200
+overlooking the House of Parliament.
+
+507
+00:32:26,300 --> 00:32:30,940
+And that concept took a bit of swallowing by certain people,
+
+508
+00:32:31,040 --> 00:32:34,680
+because it's not something that had been done before.
+
+509
+00:32:34,780 --> 00:32:37,920
+And that led to the sort of hedging of the bets that, well,
+
+510
+00:32:38,020 --> 00:32:40,480
+we'll make it temporary, because if it's not a success,
+
+511
+00:32:40,580 --> 00:32:42,220
+we can take it down.
+
+512
+00:32:42,320 --> 00:32:44,520
+But it is a success and will continue
+
+513
+00:32:44,620 --> 00:32:47,020
+to rotate for years to come, thanks
+
+514
+00:32:47,120 --> 00:32:50,200
+to its brilliant design, reliable mechanics,
+
+515
+00:32:50,300 --> 00:32:52,700
+and eye-popping views.
+
+516
+00:32:52,701 --> 00:32:55,000
+It's become a much loved object.
+
+517
+00:32:55,100 --> 00:32:58,100
+It's become the biggest tourist attraction in London.
+
+518
+00:32:58,200 --> 00:33:00,200
+And nobody would dream of taking it down there.
+
+519
+00:33:03,140 --> 00:33:05,240
+To make the impossible possible
+
+520
+00:33:05,340 --> 00:33:08,940
+is what big machines do, even when it comes to mowing the
+
+521
+00:33:09,040 --> 00:33:09,740
+grass.
+
+522
+00:33:14,360 --> 00:33:17,260
+The largest number of passengers to ride the British Airways
+
+523
+00:33:17,261 --> 00:33:22,260
+London Eye in one day was 22,000.
+
+524
+00:33:22,360 --> 00:33:26,260
+World's Biggest Machines will return on Modern Marvels.
+
+525
+00:33:31,700 --> 00:33:34,020
+We now return to World's Biggest Machines
+
+526
+00:33:34,120 --> 00:33:35,320
+on Modern Marvels.
+
+527
+00:33:38,420 --> 00:33:41,120
+Maybe you're in the elite class of big machine owners
+
+528
+00:33:41,220 --> 00:33:45,620
+who have a ride-on mower.
+
+529
+00:33:45,621 --> 00:33:48,920
+Or maybe you're just wondering, is this the world's biggest
+
+530
+00:33:49,020 --> 00:33:50,120
+lawnmower?
+
+531
+00:33:50,220 --> 00:33:51,860
+Or this?
+
+532
+00:33:51,960 --> 00:33:53,860
+Or this?
+
+533
+00:33:53,960 --> 00:33:54,860
+Not even close.
+
+534
+00:33:57,960 --> 00:34:01,160
+When you have 1,000 acres of grass to mow and only four
+
+535
+00:34:01,260 --> 00:34:04,480
+days to do it, you'll want something like this.
+
+536
+00:34:09,380 --> 00:34:14,680
+Klaas Cougar 1400, world's largest mower.
+
+537
+00:34:14,681 --> 00:34:17,240
+Mowing width, 45 feet.
+
+538
+00:34:18,320 --> 00:34:19,920
+Mowing units, 5.
+
+539
+00:34:21,080 --> 00:34:24,220
+Fuel capacity, 250 gallons diesel.
+
+540
+00:34:25,660 --> 00:34:29,360
+Engine, Mercedes-Benz, 438 horsepower.
+
+541
+00:34:30,660 --> 00:34:34,000
+Mowing speed, 10 to 13 miles per hour.
+
+542
+00:34:37,140 --> 00:34:41,180
+There are nearly 100 million head of cattle in the United States.
+
+543
+00:34:42,100 --> 00:34:44,140
+And they all need to be fed.
+
+544
+00:34:44,680 --> 00:34:47,880
+Nutrient-rich grass is the best way to maintain healthy
+
+545
+00:34:47,980 --> 00:34:51,920
+livestock, but the grass must be harvested during a very narrow
+
+546
+00:34:52,020 --> 00:34:52,880
+window.
+
+547
+00:34:52,980 --> 00:34:56,220
+Behind me is a Kloss 1400C Cougar.
+
+548
+00:34:56,320 --> 00:34:58,720
+It's the largest self-propelled mower in the world.
+
+549
+00:34:58,820 --> 00:35:03,340
+It has the ability to mow over 40 acres per hour.
+
+550
+00:35:03,440 --> 00:35:06,340
+Besides that, it's got a great cab.
+
+551
+00:35:06,440 --> 00:35:09,840
+It's very roomy, and it's a very smooth ride.
+
+552
+00:35:09,940 --> 00:35:13,920
+The cab also pivots, so it's got an airflow
+
+553
+00:35:13,921 --> 00:35:19,220
+It's got an air flotation system and it has an air ride seat so you can operate this machine
+
+554
+00:35:19,221 --> 00:35:22,920
+at full capacity, full speed, all day long and be very comfortable.
+
+555
+00:35:22,921 --> 00:35:26,040
+We have a three dimensional steering wheel.
+
+556
+00:35:26,041 --> 00:35:33,220
+We can pivot it from the bottom, from the middle and telescopic.
+
+557
+00:35:33,221 --> 00:35:35,880
+All of our operation is the tip of our fingers right here.
+
+558
+00:35:35,881 --> 00:35:39,480
+We can move the machine forward.
+
+559
+00:35:39,481 --> 00:35:44,040
+We can move the machine backward by moving the handle.
+
+560
+00:35:44,041 --> 00:35:46,800
+It is very easy to operate this machine.
+
+561
+00:35:46,801 --> 00:35:49,660
+We can raise our mowers just by tapping the mower
+
+562
+00:35:49,661 --> 00:35:51,320
+for the function going up.
+
+563
+00:35:51,321 --> 00:35:53,580
+We can lower all the mowers down sequentially
+
+564
+00:35:53,581 --> 00:35:55,900
+with just a tap of a button.
+
+565
+00:35:55,901 --> 00:35:59,820
+You'll see all 360 degrees around the machine,
+
+566
+00:35:59,821 --> 00:36:01,040
+there is glass.
+
+567
+00:36:01,041 --> 00:36:04,600
+So we can see our mowers and see our area.
+
+568
+00:36:04,601 --> 00:36:08,480
+On each individual window, we also have a windshield wiper.
+
+569
+00:36:08,481 --> 00:36:10,940
+So on the front window, we have a windshield wiper
+
+570
+00:36:10,941 --> 00:36:15,120
+that rotates 360 degrees.
+
+571
+00:36:15,121 --> 00:36:17,820
+But what makes this machine so efficient
+
+572
+00:36:17,821 --> 00:36:21,120
+is its mowing width of 45 feet.
+
+573
+00:36:21,121 --> 00:36:23,620
+The Cougar utilizes five mowing segments.
+
+574
+00:36:23,621 --> 00:36:26,340
+These are mowers that are attached to different arms
+
+575
+00:36:26,341 --> 00:36:28,240
+that attach it to the main machine.
+
+576
+00:36:28,241 --> 00:36:31,260
+And these mowing segments are 9-foot, 10-inch cutter bars
+
+577
+00:36:31,261 --> 00:36:33,800
+with a conditioner on each one.
+
+578
+00:36:33,801 --> 00:36:36,700
+The conditioner is located on the mower bar
+
+579
+00:36:36,701 --> 00:36:40,700
+to a giant vegetable peeler.
+
+580
+00:36:40,800 --> 00:36:43,840
+It's a set of metal prongs that spin behind the mowing knives
+
+581
+00:36:43,940 --> 00:36:47,180
+and scuff the grass's waxy layer for faster
+
+582
+00:36:47,280 --> 00:36:49,980
+and more uniform drying.
+
+583
+00:36:50,080 --> 00:36:52,620
+The cloth cutter bar comes with seven discs
+
+584
+00:36:52,720 --> 00:36:55,980
+on each one of our five cutter beds, two knives per disc.
+
+585
+00:36:56,080 --> 00:37:00,220
+That knife spins at 194 miles per hour.
+
+586
+00:37:00,320 --> 00:37:03,360
+So when the crop is cut, it goes through,
+
+587
+00:37:03,460 --> 00:37:06,700
+follows the disc around to the conditioner.
+
+588
+00:37:06,701 --> 00:37:11,700
+The tire's great width actually lessens compaction in the field,
+
+589
+00:37:11,800 --> 00:37:13,700
+which is good for the grass.
+
+590
+00:37:17,840 --> 00:37:22,240
+It's 70 inches tall by 34 inches wide.
+
+591
+00:37:22,340 --> 00:37:25,660
+That's a huge tire for the mowing industry.
+
+592
+00:37:25,760 --> 00:37:29,060
+And what this gains us is smoother ride in the field
+
+593
+00:37:29,160 --> 00:37:33,100
+and gains us more capacity than a standard tractor tire would.
+
+594
+00:37:36,700 --> 00:37:41,700
+And for a machine so big, it maneuvers with surprising
+
+595
+00:37:41,800 --> 00:37:42,700
+agility.
+
+596
+00:37:42,800 --> 00:37:47,340
+Each individual mower can float up and down and side to side,
+
+597
+00:37:47,440 --> 00:37:50,240
+so it can contour even the steepest of terrain.
+
+598
+00:37:50,340 --> 00:37:54,720
+The driver can also dodge anything in the field that
+
+599
+00:37:54,820 --> 00:37:56,660
+might obstruct one of the mowers.
+
+600
+00:37:56,760 --> 00:38:00,320
+We can individually, with a tap of a button,
+
+601
+00:38:00,420 --> 00:38:02,620
+raise or lower each mower.
+
+602
+00:38:02,720 --> 00:38:05,760
+The cougar cuts grass fast.
+
+603
+00:38:05,761 --> 00:38:10,000
+fast, but it can also move fast from one job to the next.
+
+604
+00:38:10,100 --> 00:38:13,660
+Another challenge, obviously, is such a big machine, 45 feet
+
+605
+00:38:13,760 --> 00:38:16,600
+in the field harvesting, when you go to transport it,
+
+606
+00:38:16,700 --> 00:38:19,900
+we need to get it as a narrow configuration as possible.
+
+607
+00:38:20,000 --> 00:38:23,080
+And that's why you see a unique design of folding,
+
+608
+00:38:23,180 --> 00:38:26,780
+utilizing the arms to get it into a width when we're down
+
+609
+00:38:26,880 --> 00:38:29,580
+the road of just over 11 feet.
+
+610
+00:38:29,680 --> 00:38:33,060
+Like a gigantic transformer, the Cougar's cab
+
+611
+00:38:33,061 --> 00:38:36,760
+rotates completely around, retracts its 15-foot cutter
+
+612
+00:38:36,860 --> 00:38:39,900
+bars from both sides of the central cab area,
+
+613
+00:38:40,000 --> 00:38:44,540
+and then powers down the road at 25 miles per hour
+
+614
+00:38:44,640 --> 00:38:46,880
+with its Mercedes-Benz engine.
+
+615
+00:38:46,980 --> 00:38:48,840
+Good news is a wife asked for a Mercedes.
+
+616
+00:38:48,940 --> 00:38:50,980
+Bad news is it's in my mower, you know?
+
+617
+00:39:00,580 --> 00:39:03,060
+Reality for the driver of the Kloss
+
+618
+00:39:03,061 --> 00:39:06,360
+maybe 1,000 acres of cut grass.
+
+619
+00:39:06,361 --> 00:39:09,660
+But other big machines immerse us deep under the sea
+
+620
+00:39:09,661 --> 00:39:13,160
+in a simulated three-dimensional reality.
+
+621
+00:39:17,160 --> 00:39:20,160
+If the cougar were to mow the grass at the legendary Pebble Beach
+
+622
+00:39:20,161 --> 00:39:24,160
+golf course, it would take less than three hours.
+
+623
+00:39:24,161 --> 00:39:28,160
+World's biggest machines will return on Modern Marvels,
+
+624
+00:39:28,161 --> 00:39:30,160
+here on the History Channel.
+
+625
+00:39:33,060 --> 00:39:38,800
+We now return to World's Biggest Machines on Modern
+
+626
+00:39:38,801 --> 00:39:45,300
+Marvels. Think big.
+
+627
+00:39:45,301 --> 00:39:48,100
+That's the motto of the biggest theatrical film machines on the
+
+628
+00:39:48,101 --> 00:39:55,220
+market today. They've taken us into space,
+
+629
+00:39:55,221 --> 00:40:01,060
+shown us adrenaline packed adventure, and allowed us to
+
+630
+00:40:01,061 --> 00:40:04,200
+to explore the ocean floor, all from the comfort
+
+631
+00:40:04,201 --> 00:40:08,460
+of a movie theater that literally envelops the viewer.
+
+632
+00:40:08,461 --> 00:40:12,280
+IMAX, established 1967.
+
+633
+00:40:12,281 --> 00:40:17,380
+Film frame 10 times bigger than standard 35 millimeter.
+
+634
+00:40:17,381 --> 00:40:21,380
+IMAX projector speed 5.2 feet per second,
+
+635
+00:40:21,381 --> 00:40:24,880
+over three miles of film per hour.
+
+636
+00:40:24,881 --> 00:40:30,580
+Projector film platter 450 pounds of film.
+
+637
+00:40:30,581 --> 00:40:33,180
+Over the 40 years of development of our IMAX technology,
+
+638
+00:40:33,540 --> 00:40:34,680
+it boils down to one thing.
+
+639
+00:40:34,960 --> 00:40:37,240
+The IMAX experience is massive.
+
+640
+00:40:38,420 --> 00:40:41,400
+The size of the most common theatrical film stock
+
+641
+00:40:41,401 --> 00:40:42,680
+is 35 millimeters.
+
+642
+00:40:43,460 --> 00:40:46,020
+It's a much bigger image on the film.
+
+643
+00:40:46,140 --> 00:40:49,680
+In fact, IMAX is 10 times the image size
+
+644
+00:40:49,681 --> 00:40:52,220
+of a typical 35 millimeter motion picture film.
+
+645
+00:40:52,440 --> 00:40:53,140
+It's huge.
+
+646
+00:40:53,960 --> 00:40:56,180
+IMAX is made on 70 millimeter film,
+
+647
+00:40:56,300 --> 00:40:57,520
+which is twice as wide.
+
+648
+00:40:57,521 --> 00:41:00,420
+but it goes through the camera horizontally.
+
+649
+00:41:02,820 --> 00:41:05,620
+Traditionally, 70 millimeter film would run through the
+
+650
+00:41:05,720 --> 00:41:08,760
+camera and projector vertically.
+
+651
+00:41:08,860 --> 00:41:12,560
+But by turning the film to run horizontally, the 70 millimeter
+
+652
+00:41:12,660 --> 00:41:15,980
+width becomes the height dimension.
+
+653
+00:41:16,080 --> 00:41:19,980
+Now each frame is the size of a baseball card and allows for
+
+654
+00:41:20,080 --> 00:41:21,980
+much greater resolution and clarity.
+
+655
+00:41:21,981 --> 00:41:28,060
+clarity. In order to project this monster-sized
+
+656
+00:41:28,061 --> 00:41:32,120
+film, IMAX created an entirely new kind of projection machine.
+
+657
+00:41:36,760 --> 00:41:39,960
+We're standing here in the IMAX projection booth, and this is
+
+658
+00:41:39,961 --> 00:41:43,100
+the world's largest reel unit. We call it the QTRU.
+
+659
+00:41:43,400 --> 00:41:46,580
+It both feeds the film to the projector and takes the film
+
+660
+00:41:46,581 --> 00:41:51,120
+back up. The QTRU clatter system can hold upwards
+
+661
+00:41:51,121 --> 00:41:57,920
+of 450 pounds of film per platter, which is the equivalent of about 10 miles of film.
+
+662
+00:41:59,920 --> 00:42:04,740
+IMAX projectors are the most powerful in the world and have a unique way of producing
+
+663
+00:42:04,741 --> 00:42:10,840
+crystal clear images. The film is held very close to the lens
+
+664
+00:42:10,841 --> 00:42:16,860
+against an aperture block of glass to ensure that there's no flutter in the film surface area.
+
+665
+00:42:16,861 --> 00:42:19,660
+And this results in a rock-steady image on the screen
+
+666
+00:42:19,760 --> 00:42:21,060
+that is perfectly in focus.
+
+667
+00:42:24,960 --> 00:42:27,700
+Adhering to the old adage, bigger is better,
+
+668
+00:42:27,800 --> 00:42:30,000
+IMAX devised yet another set of machines
+
+669
+00:42:30,100 --> 00:42:34,520
+to challenge its own, IMAX 3D.
+
+670
+00:42:34,620 --> 00:42:38,220
+As complicated as IMAX is, there's one other format
+
+671
+00:42:38,320 --> 00:42:41,360
+that's even more so, and that's the IMAX 3D format.
+
+672
+00:42:41,460 --> 00:42:45,420
+With IMAX 3D, you're running two rolls of 70 millimeter film
+
+673
+00:42:45,421 --> 00:42:47,720
+through the camera simultaneously.
+
+674
+00:42:47,820 --> 00:42:50,860
+Each roll of film is exposed behind its own lens,
+
+675
+00:42:50,960 --> 00:42:53,220
+and the lenses are on the camera about 2 and 1
+
+676
+00:42:53,320 --> 00:42:55,960
+half inches apart, the same distance as your eyes are apart.
+
+677
+00:42:58,460 --> 00:43:01,160
+Director Howard Hall does the majority of his work
+
+678
+00:43:01,260 --> 00:43:05,180
+underwater, where things really get interesting.
+
+679
+00:43:05,280 --> 00:43:08,580
+The IMAX 3D camera weighs 350 pounds.
+
+680
+00:43:08,680 --> 00:43:09,980
+That's out of the water.
+
+681
+00:43:10,080 --> 00:43:12,180
+Most of the work I do is with the camera
+
+682
+00:43:12,280 --> 00:43:13,720
+in an underwater housing.
+
+683
+00:43:13,721 --> 00:43:16,360
+And in the underwater housing, ready to go in the water,
+
+684
+00:43:16,460 --> 00:43:19,060
+it weighs just about 1,300 pounds.
+
+685
+00:43:19,160 --> 00:43:22,060
+It's a massive system.
+
+686
+00:43:22,160 --> 00:43:24,560
+It takes two cameramen and a team of divers
+
+687
+00:43:24,660 --> 00:43:29,260
+to safely operate the machine in the deep sea.
+
+688
+00:43:29,360 --> 00:43:31,200
+Of course, a more sophisticated camera
+
+689
+00:43:31,300 --> 00:43:33,480
+requires a more sophisticated projector
+
+690
+00:43:33,580 --> 00:43:36,340
+to create the 3D effect.
+
+691
+00:43:36,440 --> 00:43:38,580
+We use polarized glasses.
+
+692
+00:43:38,680 --> 00:43:42,180
+Polarized glasses combined with polarizers in front
+
+693
+00:43:42,181 --> 00:43:45,880
+projection lenses allow the left eye to see the left image and
+
+694
+00:43:45,980 --> 00:43:48,580
+the right eye to see the right image.
+
+695
+00:43:48,680 --> 00:43:51,920
+Polarized glasses are precisely matched with the polarizing
+
+696
+00:43:52,020 --> 00:43:56,020
+filters of the projector's twin lenses.
+
+697
+00:43:56,120 --> 00:43:59,240
+While the lenses superimpose separate left and right eye
+
+698
+00:43:59,340 --> 00:44:02,940
+views onto the screen, the glasses make sure that each eye
+
+699
+00:44:03,040 --> 00:44:06,740
+sees the appropriate image, allowing the brain to create
+
+700
+00:44:06,840 --> 00:44:08,640
+a single 3D image.
+
+701
+00:44:12,180 --> 00:44:15,520
+All these machines require a new method to view an IMAX
+
+702
+00:44:15,620 --> 00:44:20,420
+production, some of the biggest theater screens in the world.
+
+703
+00:44:20,520 --> 00:44:23,220
+In IMAX, everything has to be massive.
+
+704
+00:44:23,320 --> 00:44:26,660
+The screen, wall to wall, floor to ceiling, the projector,
+
+705
+00:44:26,760 --> 00:44:30,660
+the film frame, the brightness, the resolution, everything's
+
+706
+00:44:30,760 --> 00:44:31,660
+big.
+
+707
+00:44:31,760 --> 00:44:35,600
+From laptop computers to mini TVs and DVD players,
+
+708
+00:44:35,700 --> 00:44:38,740
+media all around us are getting smaller and smaller.
+
+709
+00:44:38,741 --> 00:44:42,640
+smaller, but IMAX defies that strategy by providing an
+
+710
+00:44:42,641 --> 00:44:46,080
+experience made possible only through the use of some of the
+
+711
+00:44:46,081 --> 00:44:47,540
+world's biggest machines.
+
+712
+00:45:08,740 --> 00:45:10,800
+you
+

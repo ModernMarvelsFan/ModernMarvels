@@ -1,0 +1,45 @@
+# Credit Roll: The Horse (2008)
+**Canonical Episode:** [`MME00645: The Horse`](../episodes/MME00645.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 2008 A&E Television Networks`
+* **Production Company:** Produced by Actuality Productions, Inc.
+* **Narrator:** Max Raphael
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Animated Stills** | Adam Goodwin |
+| **Animation** | FlyingBlue Studio |
+| **Assistant Editors** | Alexander Rubinow, Nate Dusek |
+| **Associate Producer** | Andrew Fuller |
+| **Asst Post Coordinator** | Gaylen Kobayashi |
+| **Camera** | Christopher Bell, Jim Bowen, Sean Healey, Paul Kremer, Dave Sanders, Steve Van Osdale |
+| **Clearance Coordinator** | Kiana Moore |
+| **Coordinator** | Maya Sykes |
+| **Created by** | Bruce Nash |
+| **Director of Clearance** | Jerianne Keaney |
+| **Director of Research** | Terrence Hartwell |
+| **Editors** | Scot Kelly, Gary Reid |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Chad Bryant, Brian Dupuis, Robert Porter, Tom Staton, Scott Thompson, John Vardas |
+| **Music** | Alan Ett Music Group |
+| **Narrator** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assist** | Cory Parker |
+| **Post Producer** | Tim Knauff |
+| **Produced by** | Jim Lindsay |
+| **Producer** | Bruce Nash |
+| **Production Accountant** | Sheridan Liu |
+| **Production Controller** | Dani Eslin |
+| **Production Executive** | Paul Dzilvelis |
+| **Production Manager** | Shelia Collins |
+| **Researcher** | Joshua Janiak |
+| **Sound Mixer** | Nozomu Furuya-Hirota |
+| **Supervising Producer** | Ron Nelson |
+
+---
+[← Return to Episode Dossier](../episodes/MME00645.md)

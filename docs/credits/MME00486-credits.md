@@ -1,0 +1,47 @@
+# Credit Roll: Coffee (2005)
+**Canonical Episode:** [`MME00486: Coffee`](../episodes/MME00486.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `(c) 2005 A&E Television Network All Rights Reserved`
+* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
+* **Narrator:** MAX RAPHAEL, JOHN KNAPP
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Accountants** | SHERIDAN LIU, LISA CASELLA, PAULETTE PANTOJA |
+| **Animation by** | RED GYPSY ANIMATION |
+| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
+| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
+| **Associate Producer** | GLORIA L. MORRIS |
+| **Camera** | JORGE CASTILLO-TRENTIN, GARY HOFFMAN, NORM JOHNSTON, LON MAGDICH, BRIAN QUANDER, TJ WILLIAMS |
+| **Clearance Supervisor** | KATIE DEL CORE |
+| **Coordinator** | BRAD SKILES |
+| **Created by** | BRUCE NASH |
+| **Director of Research** | ALLISON BOON |
+| **Edited by** | LOU LAPROCIDO |
+| **Executive Producer** | DON CAMBOU |
+| **Field Audio** | BARRY ECKHAUS, JASON QUINN, JORGE SAUREZ |
+| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
+| **For The History Channel / Supervising Producer** | DOUG GORDON |
+| **Historical Consultants** | "KONA" JOE ALBAN, STEWART LEE ALLEN, WADE DAVIS, CHRIS GIMBLE, TED LINGLE |
+| **Line Producer** | PAUL DZILVELIS |
+| **Music by** | GUY THOMAS |
+| **Narrated by** | MAX RAPHAEL |
+| **Online Editor** | JOHN PRICE |
+| **Post Assistants** | GAYLEN KOBAYASHI, KEVIN McCARTNEY |
+| **Post Coordinator** | TERRENCE HARTWELL |
+| **Post Producer** | TIM KNAUFF |
+| **Producer** | BRUCE NASH |
+| **Production Controller** | DANI ESLIN |
+| **Production Manager** | SHELIA COLLINS |
+| **Researchers** | ULDIS BALODIS, JOHN KNAPP |
+| **Sound Mixer** | ED THACKER |
+| **Voice Over Coordinator** | JOHN KNAPP |
+| **Written and Produced by** | FRED PEABODY |
+
+---
+[← Return to Episode Dossier](../episodes/MME00486.md)

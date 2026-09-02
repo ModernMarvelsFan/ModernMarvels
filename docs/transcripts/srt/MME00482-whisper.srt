@@ -1,0 +1,2128 @@
+1
+00:00:01,000 --> 00:00:02,360
+Power lines.
+
+2
+00:00:03,380 --> 00:00:04,740
+Communications lines.
+
+3
+00:00:05,420 --> 00:00:08,240
+Crossing over our heads and under our feet.
+
+4
+00:00:09,040 --> 00:00:11,280
+Bringing us energy and vital information.
+
+5
+00:00:12,580 --> 00:00:14,100
+Many have risked their lives.
+
+6
+00:00:14,660 --> 00:00:18,560
+Many have lost their lives in the ongoing task of keeping the country connected.
+
+7
+00:00:19,800 --> 00:00:23,480
+Now, Wiring America on Modern Marvels.
+
+8
+00:00:40,049 --> 00:00:50,000
+With powers that include the ability to defy gravity, Verizon lineman Doug Wick completes his short commute to work, 30 feet above the city of Murrieta, California.
+
+9
+00:00:51,800 --> 00:00:55,080
+It's actually nicer being up here than down there because you do get a breeze.
+
+10
+00:00:55,960 --> 00:00:57,520
+You know, you got the trees, you got a view.
+
+11
+00:00:57,521 --> 00:01:01,280
+It's actually more comfortable, a lot less work up here than it is for the gentleman on the ground.
+
+12
+00:01:07,320 --> 00:01:11,420
+The tools Doug uses have changed little in the 160-plus years
+
+13
+00:01:11,421 --> 00:01:14,560
+since the first utility pole was erected in Baltimore, Maryland.
+
+14
+00:01:16,200 --> 00:01:21,920
+There's a set of pole climbers, which are a pair of gaffs that strap around your calves and your ankles.
+
+15
+00:01:22,360 --> 00:01:25,640
+You actually stick into the pole, which gives you your feet contact.
+
+16
+00:01:25,641 --> 00:01:32,640
+and then leather gloves for your hand contact and just scurry on up
+
+17
+00:01:33,920 --> 00:01:39,020
+Doug's challenge is to string fiber optic cable alongside existing copper line
+
+18
+00:01:39,021 --> 00:01:42,880
+through a section of dense brush
+
+19
+00:01:43,000 --> 00:01:47,600
+these communication lines are low voltage and well insulated Doug is in no
+
+20
+00:01:47,601 --> 00:01:55,480
+danger of being shocked this is what we call a C lasher when the cable comes up
+
+21
+00:01:55,481 --> 00:02:02,060
+it comes through this lasher and this lasher has a small gauge wire and as the
+
+22
+00:02:02,061 --> 00:02:07,740
+lineman on the ground pulls it this barrel here spins and it'll slowly
+
+23
+00:02:07,741 --> 00:02:13,120
+candy cane the smaller wire around both the cable and our galvanized strand to
+
+24
+00:02:13,121 --> 00:02:16,880
+bring the cable up and support it in the air.
+
+25
+00:02:16,881 --> 00:02:23,760
+But the wiring of America doesn't just include low voltage communications lines.
+
+26
+00:02:23,761 --> 00:02:28,560
+several thousand miles away in central Wisconsin
+
+27
+00:02:28,561 --> 00:02:37,440
+electric linemen from USA air mobile take on a very different high wire act
+
+28
+00:02:37,441 --> 00:02:41,460
+they're conducting by helicopter the very dangerous task of high voltage wire
+
+29
+00:02:41,461 --> 00:02:48,960
+maintenance these heavy aluminum wrapped steel cables run 345 thousand volts
+
+30
+00:02:48,961 --> 00:02:50,960
+enough to power a small city,
+
+31
+00:02:51,740 --> 00:02:54,960
+enough to virtually disintegrate anyone who makes the slightest mistake.
+
+32
+00:02:56,920 --> 00:02:58,380
+They're called key lines,
+
+33
+00:02:58,780 --> 00:03:02,720
+so vital to surrounding communities that they can never be turned off.
+
+34
+00:03:04,560 --> 00:03:06,680
+This technique is called bear-handing.
+
+35
+00:03:07,260 --> 00:03:10,140
+The lineman, the pilot, and the helicopter
+
+36
+00:03:10,141 --> 00:03:12,740
+all become a temporary part of the electric circuit.
+
+37
+00:03:14,240 --> 00:03:17,780
+This is a job you've got to put yourself in almost a numb state of mind.
+
+38
+00:03:17,781 --> 00:03:21,280
+this is what I'm doing, this is what I have to do, this is when I have to do it.
+
+39
+00:03:21,980 --> 00:03:23,860
+But of course, when you hit the ground again,
+
+40
+00:03:24,540 --> 00:03:27,380
+you thank the good man above that you made it one more time.
+
+41
+00:03:28,580 --> 00:03:31,900
+The wand is aluminum and creates a connection with the line
+
+42
+00:03:31,901 --> 00:03:34,940
+at a distance that causes minimum discomfort to linemen aboard.
+
+43
+00:03:37,160 --> 00:03:38,260
+Risk here is great.
+
+44
+00:03:39,180 --> 00:03:40,480
+Rotor blades can get tangled.
+
+45
+00:03:42,660 --> 00:03:44,840
+Wind can flip the helicopter over the wire.
+
+46
+00:03:45,420 --> 00:03:48,060
+Engines can fail, and men can fall.
+
+47
+00:03:49,580 --> 00:03:52,180
+Well, electrical theory, that's just what it is, is theory.
+
+48
+00:03:52,320 --> 00:03:55,860
+You know, they pretty much have got it down, but they don't say electrical science.
+
+49
+00:03:56,120 --> 00:03:59,360
+There's a lot of times that things happen that they can't explain.
+
+50
+00:04:03,100 --> 00:04:08,900
+How is it possible to grab onto a 345,000-volt wire without being instantly killed?
+
+51
+00:04:10,800 --> 00:04:14,220
+The secret is not to offer the electricity a path to the ground.
+
+52
+00:04:14,840 --> 00:04:19,680
+As long as the linemen are in the air, the current flows harmlessly through them.
+
+53
+00:04:21,120 --> 00:04:25,360
+Even ungrounded, though, the energy field around the wires, called induction,
+
+54
+00:04:25,920 --> 00:04:29,080
+would shock the linemen if they weren't protected by conduction suits.
+
+55
+00:04:31,480 --> 00:04:36,880
+These hooded jumpsuits are made of metal mesh that directs the flow of electricity around the linemen.
+
+56
+00:04:38,940 --> 00:04:42,420
+They remove wind dampers to check the lines for tornado damage.
+
+57
+00:04:42,421 --> 00:04:50,120
+these dampers prevent the wires from bouncing in high wind a phenomenon known as galloping
+
+58
+00:04:50,121 --> 00:04:56,180
+galloping lines can snap releasing high voltage electric current
+
+59
+00:04:56,181 --> 00:05:05,460
+there's a brown spot on the wire right there see it yeah it's not damaged it's just discolored
+
+60
+00:05:05,461 --> 00:05:07,200
+Okay. Okay, coming off.
+
+61
+00:05:07,860 --> 00:05:08,620
+There, I hear.
+
+62
+00:05:09,060 --> 00:05:15,020
+There's no shortage of work for these linemen as aluminum and steel power lines stretch coast to coast,
+
+63
+00:05:15,380 --> 00:05:18,120
+from high-voltage tower to high-voltage tower.
+
+64
+00:05:20,860 --> 00:05:26,420
+Insulated copper telephone wires wind down our neighborhood streets, alleys, through our backyards,
+
+65
+00:05:27,080 --> 00:05:28,640
+and into our houses.
+
+66
+00:05:28,641 --> 00:05:37,180
+And as fiber optic cable becomes a bigger part of the wiring of America,
+
+67
+00:05:38,000 --> 00:05:43,040
+linemen are bringing increasing skill to the job, both above and below.
+
+68
+00:05:43,960 --> 00:05:46,260
+Wires have evolved in amazing ways.
+
+69
+00:05:46,880 --> 00:05:51,420
+First of all, the wire sometimes is still copper, as it was 100 years ago,
+
+70
+00:05:51,460 --> 00:05:53,020
+but often now it'll be fiber.
+
+71
+00:05:53,021 --> 00:06:01,500
+And of course fiber allows the signal to go across it at hundreds if not thousands of times faster than what you can get on copper.
+
+72
+00:06:02,840 --> 00:06:12,190
+The other thing that's changed though is even on copper we can get signals that are many hundreds if not thousands of times faster than what they were even about 40
+
+73
+00:06:12,191 --> 00:06:12,891
+years ago.
+
+74
+00:06:13,640 --> 00:06:20,140
+And we do this by sending the signal across the wire in very complex patterns that allow us to get much higher speed.
+
+75
+00:06:20,141 --> 00:06:27,780
+The United States wiring systems of telecommunications and power form one of the largest infrastructures in the world.
+
+76
+00:06:29,860 --> 00:06:34,320
+It's been an evolving project on a mammoth scale since 1836,
+
+77
+00:06:34,720 --> 00:06:41,400
+when Princeton professor Joseph Henry demonstrated that copper wire could be used to communicate over long distances.
+
+78
+00:06:44,080 --> 00:06:47,520
+Henry's wire sent simple signals from his house to his laboratory.
+
+79
+00:06:50,140 --> 00:06:53,840
+The operator on the other end was usually his wife.
+
+80
+00:06:57,040 --> 00:07:04,100
+Portrait artist and inventor Samuel Morse began experimenting with long-distance telegraph communication about the same time,
+
+81
+00:07:04,580 --> 00:07:06,620
+using copper wire insulated with cloth.
+
+82
+00:07:07,540 --> 00:07:11,100
+One characteristic of copper is you can draw it out easily.
+
+83
+00:07:11,660 --> 00:07:14,320
+And it was used for a variety of purposes.
+
+84
+00:07:14,580 --> 00:07:19,360
+Copper screening had been used for paper manufacture, stuff like that.
+
+85
+00:07:19,361 --> 00:07:26,900
+So when Morse and others in the early part of the 19th century, 1820s, 30s,
+
+86
+00:07:27,300 --> 00:07:32,060
+if they wanted copper wire, they could go down to the corner hardware store, if you like,
+
+87
+00:07:32,180 --> 00:07:35,560
+and get it without too much trouble, and in substantial quantities.
+
+88
+00:07:38,940 --> 00:07:44,700
+The copper wire available in Morse's day was manufactured in a manner similar to the processes used today.
+
+89
+00:07:46,500 --> 00:07:48,660
+Copper is smelted into copper rod.
+
+90
+00:07:49,360 --> 00:07:52,560
+which is then drawn through a series of dies to a desired gauge.
+
+91
+00:07:54,000 --> 00:07:58,220
+Here we see the 5 16 inch copper rod entering the back of the rod mill.
+
+92
+00:07:59,020 --> 00:08:04,540
+It enters the first die, goes around a ceramic drawing captain to pull it through the die,
+
+93
+00:08:04,820 --> 00:08:07,220
+and then we go through a succession of other dies.
+
+94
+00:08:08,160 --> 00:08:13,560
+When this machine is running, there's drawing lubricant to lubricate the die and to keep the wire cool.
+
+95
+00:08:13,561 --> 00:08:20,000
+We go through a succession of nine dies to get to the finished die, which is located here.
+
+96
+00:08:20,660 --> 00:08:25,600
+That sizes it, and when it leaves the finished die, it's coming out at 5,000 feet per minute.
+
+97
+00:08:30,780 --> 00:08:38,360
+It was in this barn in Morristown, New Jersey, that Samuel Morse first sent messages through wire using this unlikely device.
+
+98
+00:08:38,900 --> 00:08:41,740
+It couldn't look further from most people's idea of a telegraph.
+
+99
+00:08:43,560 --> 00:08:46,940
+But it was this device that kick-started the wiring of America.
+
+100
+00:08:47,620 --> 00:08:52,420
+Here, this is the receiving instrument, and it looks very much like a picture frame
+
+101
+00:08:52,421 --> 00:08:55,760
+because Morse used materials at hand.
+
+102
+00:08:56,260 --> 00:09:00,440
+He used a canvas stretcher, which a painter like Morse would have had on hand
+
+103
+00:09:00,441 --> 00:09:03,980
+to stretch out canvases before using them for paintings.
+
+104
+00:09:04,720 --> 00:09:08,180
+The receiving device uses an electromagnet to actuate a lever,
+
+105
+00:09:08,880 --> 00:09:11,720
+which inscribes a wavy line on a moving paper tape.
+
+106
+00:09:12,660 --> 00:09:15,740
+The sending instrument uses pieces of lead type.
+
+107
+00:09:16,620 --> 00:09:20,340
+Each piece of type represents a number, which in turn represents a word.
+
+108
+00:09:23,440 --> 00:09:28,640
+Morse's conception of a government-sponsored experimental telegraph line took years to sell to Congress,
+
+109
+00:09:29,180 --> 00:09:32,780
+which initially saw little value in this new form of instant communication.
+
+110
+00:09:33,780 --> 00:09:41,600
+Finally, in 1843, Congress agrees to appropriate $30,000 for Morse to demonstrate a line
+
+111
+00:09:41,601 --> 00:09:42,960
+between Washington and Baltimore,
+
+112
+00:09:43,560 --> 00:09:47,040
+and Morse set out to bury underground conductors.
+
+113
+00:09:47,720 --> 00:09:50,420
+They had installed about 7 or 8 miles of the wire
+
+114
+00:09:50,421 --> 00:09:53,160
+when Morse discovered faulty insulation,
+
+115
+00:09:53,740 --> 00:09:57,020
+so the wires were crossing each other and shorting out.
+
+116
+00:09:57,021 --> 00:10:01,120
+So Morse decided to run the wires overhead on poles,
+
+117
+00:10:01,320 --> 00:10:02,740
+pretty much what we have today.
+
+118
+00:10:03,700 --> 00:10:06,260
+To keep the signals from being lost to the ground,
+
+119
+00:10:06,840 --> 00:10:08,920
+glass insulators were attached on each pole.
+
+120
+00:10:08,921 --> 00:10:16,540
+glass does not conduct electricity this is an example of how an insulator would
+
+121
+00:10:16,541 --> 00:10:23,440
+be attached to a tree you've got a pin attached to the tree trunk the idea of
+
+122
+00:10:23,441 --> 00:10:29,160
+the insulator is to keep the current from leaking to ground that first 30-mile
+
+123
+00:10:29,161 --> 00:10:33,940
+telegraph wire stretched from Baltimore to the Supreme Court chamber in the US
+
+124
+00:10:33,941 --> 00:10:41,440
+Capitol building. The first public message sent on this refined version of the Morse
+
+125
+00:10:41,441 --> 00:10:47,940
+Telegraph read, what hath God wrought? The wiring of America was underway.
+
+126
+00:10:47,941 --> 00:10:53,620
+There wasn't much of a demand for communicating between Washington and Baltimore rapidly,
+
+127
+00:10:53,621 --> 00:10:58,580
+but there was more of a demand to communicate between New York and Washington.
+
+128
+00:10:58,581 --> 00:11:04,080
+So in 1845, the next line went from Washington to New York.
+
+129
+00:11:04,081 --> 00:11:08,500
+In 1846, Philadelphia was connected to Baltimore.
+
+130
+00:11:08,501 --> 00:11:13,140
+By the end of that year, there were lines connecting Boston, Pittsburgh, Rochester, and
+
+131
+00:11:13,141 --> 00:11:15,260
+Jersey City.
+
+132
+00:11:15,261 --> 00:11:20,740
+Now using cheaper, stronger iron wire instead of copper, the telegraph reached Chicago,
+
+133
+00:11:20,741 --> 00:11:25,520
+Detroit, Milwaukee, and Cleveland by 1848.
+
+134
+00:11:25,521 --> 00:11:30,580
+by the end of the 1840s, you have a network that is pretty comprehensive, at least east
+
+135
+00:11:30,581 --> 00:11:31,964
+of the Mississippi.
+
+136
+00:11:31,965 --> 00:11:37,280
+Crossing the Mississippi, as well as harbors and large lakes, was crucial
+
+137
+00:11:37,281 --> 00:11:43,049
+to the expansion of the wiring of America. You can cross short bodies of water.
+
+138
+00:11:43,050 --> 00:11:43,750
+All you
+
+139
+00:11:43,751 --> 00:11:46,090
+need is a wire and get some insulation around it.
+
+140
+00:11:46,091 --> 00:11:48,000
+The ideal substance for that time was
+
+141
+00:11:48,001 --> 00:11:52,980
+made available in the late 1840s. It was gutter percha. It was sort of like rubber.
+
+142
+00:11:52,981 --> 00:11:53,681
+It comes
+
+143
+00:11:53,682 --> 00:11:57,176
+out of a tree from Malaysia and it can extrude it around a wire.
+
+144
+00:11:57,177 --> 00:11:58,860
+It's just an ideal insulating
+
+145
+00:11:58,861 --> 00:12:05,400
+material. Guttapurcha insulated cable crossed the Hudson River in 1847.
+
+146
+00:12:09,160 --> 00:12:15,420
+By 1851, entrepreneur Henry O'Reilly spanned the Mississippi River with telegraph wire.
+
+147
+00:12:15,421 --> 00:12:25,320
+Once it was proven that submarine cable was practical, American businessmen set a new and ambitious goal.
+
+148
+00:12:26,600 --> 00:12:29,560
+The race was on to connect by wire with Europe.
+
+149
+00:12:33,320 --> 00:12:37,280
+No one foresaw the amazing additional benefit that expansion would bring.
+
+150
+00:12:38,280 --> 00:12:42,500
+A piece of land larger than the Louisiana Purchase.
+
+151
+00:12:45,420 --> 00:12:54,740
+One 7,500-pound coil of copper rod less than a half inch in diameter can be stretched into
+
+152
+00:12:54,741 --> 00:13:00,300
+a single wire just thicker than a human hair and long enough to wrap around the Earth nearly
+
+153
+00:13:00,301 --> 00:13:01,380
+five times.
+
+154
+00:13:02,280 --> 00:13:04,940
+Wiring America will return on Modern Marvels.
+
+155
+00:13:07,080 --> 00:13:10,780
+We now return to Wiring America on Modern Marvels.
+
+156
+00:13:15,420 --> 00:13:29,420
+At Cobb Lumber in Jasper, Texas, 120,000 trees each year become utility poles.
+
+157
+00:13:30,340 --> 00:13:37,300
+After inspection, trees are processed through a peeling machine where bark is removed.
+
+158
+00:13:37,301 --> 00:13:44,300
+The poles are then framed, creating flat areas for the placement of cross arms.
+
+159
+00:13:44,301 --> 00:13:54,300
+They are then steamed in creosote, a high temperature distillation of coal that protects against insects and decay.
+
+160
+00:14:00,300 --> 00:14:05,300
+Its greatest deterrent, it tastes and smells bad to pests.
+
+161
+00:14:07,300 --> 00:14:15,980
+Creosote doesn't harden the pole.
+
+162
+00:14:15,981 --> 00:14:20,260
+Linemen need the pole to be sturdy, but soft enough for pole climbers to push their boots
+
+163
+00:14:20,261 --> 00:14:25,480
+into for support.
+
+164
+00:14:25,481 --> 00:14:30,300
+Poles like these were a common sight in the 1850s when telegraph companies set out to
+
+165
+00:14:30,301 --> 00:14:34,900
+wire America to Europe.
+
+166
+00:14:34,901 --> 00:14:40,780
+At the time, this goal was as ambitious as America's commitment in the last century to land a man on the moon.
+
+167
+00:14:44,320 --> 00:14:46,220
+There were three competing plans.
+
+168
+00:14:46,760 --> 00:14:52,200
+The first, developed by the Atlantic Telegraph Company, featured a wire running from Newfoundland to Ireland.
+
+169
+00:14:52,880 --> 00:15:02,660
+The second, proposed by the British and Danish governments, called for a series of shorter submarine cables connecting through Denmark, the Faroe Islands, Iceland,
+
+170
+00:15:02,661 --> 00:15:04,520
+Greenland, then down to Canada.
+
+171
+00:15:04,900 --> 00:15:13,360
+The third plan was a landline to be built by Western Union, running from California, up the coast of North America, and across the Bering Strait.
+
+172
+00:15:14,360 --> 00:15:19,240
+The line would then continue to Moscow and into the European telegraph network.
+
+173
+00:15:22,500 --> 00:15:27,220
+Throughout the 1850s, attempts at underwater cabling to Europe failed repeatedly.
+
+174
+00:15:27,221 --> 00:15:38,440
+Efforts were further stalled in 1861, when the northern and southern United States plunged
+
+175
+00:15:38,441 --> 00:15:43,440
+into war.
+
+176
+00:15:43,441 --> 00:15:48,620
+Nevertheless, telegraph wires played an important part in the strategies of both the Union and
+
+177
+00:15:48,621 --> 00:15:50,100
+the Confederacy.
+
+178
+00:15:50,101 --> 00:15:54,560
+President Abraham Lincoln spent much of his time in the War Department Telegraph Office,
+
+179
+00:15:54,561 --> 00:15:58,300
+anxiously receiving reports from the front and sending orders to generals.
+
+180
+00:16:03,100 --> 00:16:07,760
+Telegraph wires, which could carry intelligence and battle plans across the country in an instant,
+
+181
+00:16:08,280 --> 00:16:10,300
+were obvious targets for sabotage.
+
+182
+00:16:11,200 --> 00:16:16,320
+But severed wires were often still able to deliver signals to brave and selfless telegraphers.
+
+183
+00:16:16,760 --> 00:16:21,260
+During the Civil War, there were reports of telegraph operators,
+
+184
+00:16:21,480 --> 00:16:23,900
+you know, in the heat of battle, were under adverse conditions.
+
+185
+00:16:24,560 --> 00:16:28,460
+using their fingers to sense the dots and dashes,
+
+186
+00:16:28,580 --> 00:16:31,500
+or in one case, using your tongue,
+
+187
+00:16:31,900 --> 00:16:33,100
+sticking the conductors on,
+
+188
+00:16:34,380 --> 00:16:36,500
+the operator would stick the conductors on his tongue
+
+189
+00:16:36,501 --> 00:16:40,280
+and actually read the dots and dashes by the shocks to his tongue.
+
+190
+00:16:42,860 --> 00:16:46,940
+After the war, attempts to connect America with Europe resumed.
+
+191
+00:16:48,040 --> 00:16:52,220
+In 1866, with generous subsidies from the American and British governments,
+
+192
+00:16:52,221 --> 00:16:59,220
+Cyrus Field, an American entrepreneur, finally found the capital and the formula for wiring America with Europe.
+
+193
+00:16:59,221 --> 00:17:05,220
+Preparation of the 16,000 miles of cable required eight months.
+
+194
+00:17:05,221 --> 00:17:11,220
+The cable was coiled in three holds of the Great Eastern, the largest ship in the world at that time.
+
+195
+00:17:11,221 --> 00:17:16,220
+Here's a piece of Atlantic cable from late 19th century,
+
+196
+00:17:16,221 --> 00:17:23,220
+but the technology remained virtually unchanged from 1866 on up for virtually 100 years.
+
+197
+00:17:23,221 --> 00:17:28,220
+Upon completion of the cable, the first official message from England was from Queen Victoria,
+
+198
+00:17:28,221 --> 00:17:31,220
+congratulating President Andrew Johnson.
+
+199
+00:17:34,220 --> 00:17:37,220
+The successful connection with Europe by transatlantic cable
+
+200
+00:17:37,221 --> 00:17:40,220
+produced a huge and unforeseen benefit for America.
+
+201
+00:17:41,220 --> 00:17:44,220
+The 1866 cable worked.
+
+202
+00:17:44,221 --> 00:17:44,921
+worked.
+
+203
+00:17:44,922 --> 00:17:50,980
+So Western Union stopped construction of the Russian line and lost several millions of
+
+204
+00:17:50,981 --> 00:17:52,638
+dollars in the process.
+
+205
+00:17:52,639 --> 00:17:57,900
+The outcome, however, was that in negotiations, Western Union was willing
+
+206
+00:17:57,901 --> 00:18:02,695
+to continue building the line if the Russian government would pay for it.
+
+207
+00:18:02,696 --> 00:18:03,680
+And the Russian
+
+208
+00:18:03,681 --> 00:18:05,057
+ambassador to the U.S.
+
+209
+00:18:05,058 --> 00:18:09,440
+told Secretary of State Seward, well, we're not really willing to fund
+
+210
+00:18:09,441 --> 00:18:13,300
+the construction of the telegraph line, but for about the same amount of money that you're talking
+
+211
+00:18:13,301 --> 00:18:17,200
+about, we'll be happy to sell you Alaska. So that's how we got Alaska.
+
+212
+00:18:19,700 --> 00:18:24,100
+Advancements in telegraph technology led directly to the next big breakthrough in the wiring
+
+213
+00:18:24,101 --> 00:18:26,406
+of America. The telephone.
+
+214
+00:18:26,407 --> 00:18:32,880
+It would be inventor Alexander Graham Bell who would beat the competition
+
+215
+00:18:32,881 --> 00:18:37,060
+to the marketplace with the first patent for long-distance voice communication.
+
+216
+00:18:37,061 --> 00:18:45,380
+in early summers 1875 and he was experimenting with a device where you've got a cup of water
+
+217
+00:18:45,381 --> 00:18:52,240
+and then dipping in the water is a piece of iron a conductor of electricity now at the other end
+
+218
+00:18:52,241 --> 00:18:57,620
+mr watson and he's not very far away he's you know three or four rooms away in the building
+
+219
+00:18:57,621 --> 00:19:06,140
+and mr watson's has this kind of device and here we've got a coil of wire so now this fluctuating
+
+220
+00:19:06,141 --> 00:19:13,779
+current comes in and it is causing this electromagnet to vary in its power.
+
+221
+00:19:13,780 --> 00:19:16,020
+So it will then change
+
+222
+00:19:16,021 --> 00:19:19,268
+its force against this reed here.
+
+223
+00:19:19,269 --> 00:19:24,780
+And therefore, when Bell says, Watson, come here, I want
+
+224
+00:19:24,781 --> 00:19:28,740
+to see you, Watson hears, Watson, come here, I want to see you.
+
+225
+00:19:31,440 --> 00:19:35,140
+The first telephones were used in banks as burglar alarms.
+
+226
+00:19:36,140 --> 00:19:40,020
+and then by delivery companies to dispatch wagons and messengers.
+
+227
+00:19:42,200 --> 00:19:44,960
+This new system had an advantage over the telegraph.
+
+228
+00:19:46,400 --> 00:19:48,480
+The wires were already in place.
+
+229
+00:19:49,400 --> 00:19:52,780
+The wires are out there, the telegraph, and he can just hook on.
+
+230
+00:19:53,040 --> 00:19:55,460
+The batteries are there. The whole system is available.
+
+231
+00:19:56,080 --> 00:20:01,440
+And when, indeed, the telephone becomes a commercial device starting in 1877,
+
+232
+00:20:01,441 --> 00:20:06,120
+the wires being used are the iron wires of the telegraph system.
+
+233
+00:20:06,140 --> 00:20:14,880
+As the system grew, the more sophisticated signals of the telephone required a return to more highly conductive copper.
+
+234
+00:20:16,160 --> 00:20:21,560
+Telephone developers also discovered that a dual-wire system worked best in transmitting the human voice.
+
+235
+00:20:23,140 --> 00:20:27,980
+What the Bell Company realized is that you would have a much more efficient telephone
+
+236
+00:20:27,981 --> 00:20:33,020
+if instead of using the earth as a ground, you used a wire conductor as a ground.
+
+237
+00:20:33,021 --> 00:20:41,520
+So a telephone circuit had two wires, and they also realized that if you twisted the pair of wires into what is now called a twisted pair,
+
+238
+00:20:41,760 --> 00:20:50,120
+it would eliminate or reduce crosstalk that is picking up conversations on an adjacent pair of wires.
+
+239
+00:20:50,780 --> 00:20:56,300
+By the turn of the century, telephone service was in full swing in cities all across the country.
+
+240
+00:20:57,380 --> 00:21:00,080
+Phone wires now traveled overhead and cables.
+
+241
+00:21:00,081 --> 00:21:06,300
+We have here a piece of communications cable. This is from 1897.
+
+242
+00:21:06,301 --> 00:21:14,076
+It's a bundle of telephone wires, and each one is wrapped in paper individually.
+
+243
+00:21:14,077 --> 00:21:16,020
+Quite sophisticated.
+
+244
+00:21:17,640 --> 00:21:27,096
+Different from the telegraph system, the telephone system required exchanges, switching centers, where operators connected calls by means of short pieces of wire on a
+
+245
+00:21:27,097 --> 00:21:27,797
+switchboard.
+
+246
+00:21:27,798 --> 00:21:35,160
+For the first time, messages were going not just city to city, but business to business
+
+247
+00:21:35,161 --> 00:21:37,280
+and home to home.
+
+248
+00:21:37,281 --> 00:21:44,220
+The first telephone operators in the 1870s were teenage boys, often described as rude
+
+249
+00:21:44,221 --> 00:21:47,180
+and unruly.
+
+250
+00:21:47,181 --> 00:21:53,920
+Young women, who proved to be more polite and reliable, soon replaced them.
+
+251
+00:21:53,921 --> 00:21:59,200
+In the early 1900s, when the number of subscribers was still low, the job of the telephone operator
+
+252
+00:21:59,201 --> 00:22:00,600
+was fairly easy.
+
+253
+00:22:00,601 --> 00:22:06,680
+But soon calls were coming in so rapidly that operators could hardly take their eyes off
+
+254
+00:22:06,681 --> 00:22:11,960
+the switchboards for a second.
+
+255
+00:22:11,961 --> 00:22:19,600
+Automatic switching equipment was developed at this time to alleviate the crush of work.
+
+256
+00:22:19,601 --> 00:22:24,720
+with newly introduced rotary dial phones could connect themselves without operator assistance.
+
+257
+00:22:28,240 --> 00:22:33,040
+Gradually, this eliminated the need for operators, except for long distance and collect calls.
+
+258
+00:22:36,000 --> 00:22:40,080
+Today, there are still more than 80,000 telephone operators in the United States.
+
+259
+00:22:40,800 --> 00:22:44,720
+They step in mostly when their computer counterparts are stumped by a customer request.
+
+260
+00:22:44,721 --> 00:22:53,920
+While telephone lines were blackening the sky with clusters of wires overhead, yet another
+
+261
+00:22:53,921 --> 00:22:59,880
+new system of wiring was being installed under the streets of a section of New York.
+
+262
+00:22:59,881 --> 00:23:04,840
+An area known as Pearl Street in Manhattan's financial district would become the testing
+
+263
+00:23:04,841 --> 00:23:12,260
+ground for Thomas Edison's grand plan to wire America with electricity.
+
+264
+00:23:12,261 --> 00:23:17,740
+What followed was a period of great danger and great loss of life for the first electric
+
+265
+00:23:17,741 --> 00:23:26,680
+lineman determined to power America.
+
+266
+00:23:26,681 --> 00:23:33,880
+On February 14, 1876, both Alexander Graham Bell and his competitor, Elijah Gray, filed
+
+267
+00:23:33,881 --> 00:23:37,240
+paperwork at the U.S. Patent Office for the telephone.
+
+268
+00:23:37,241 --> 00:23:40,820
+Bell beat Gray in filing by just a few hours.
+
+269
+00:23:40,821 --> 00:23:43,320
+Wiring America will return on Modern Marvels.
+
+270
+00:23:44,540 --> 00:23:48,460
+We now return to Wiring America on Modern Marvels.
+
+271
+00:23:52,080 --> 00:23:57,180
+In central Wisconsin, Brandon Cundiff, lineman for USA Air Mobile,
+
+272
+00:23:57,700 --> 00:24:02,680
+is being sling-loaded onto a difficult-to-reach 345,000-volt power line.
+
+273
+00:24:03,700 --> 00:24:05,180
+45 feet to the line.
+
+274
+00:24:05,181 --> 00:24:08,300
+Brandon is lowered by helicopter.
+
+275
+00:24:08,920 --> 00:24:12,200
+Then he attaches directly onto the live wire to be inspected.
+
+276
+00:24:12,201 --> 00:24:15,220
+Top one. Picture clear. Top one.
+
+277
+00:24:15,840 --> 00:24:21,700
+He releases his lifeline, voluntarily stranding himself more than 100 feet in the air.
+
+278
+00:24:25,160 --> 00:24:31,220
+Power that would kill him in an instant passes right around him because Brandon is not in contact with the ground.
+
+279
+00:24:31,221 --> 00:24:39,360
+When you get close, you just got to be like Gumby, you know, flexible, stretchy, get your foot on it, get your hand on it, just get on it any way you can.
+
+280
+00:24:39,900 --> 00:24:42,280
+Up one, yes sir.
+
+281
+00:24:44,340 --> 00:24:51,600
+Brandon uses a digital x-ray camera to examine the line behind the shoe, the support from the tower that holds the wire in the air.
+
+282
+00:24:51,740 --> 00:24:54,560
+Up one, yes sir. Back away from the line.
+
+283
+00:24:55,400 --> 00:24:58,380
+This is the greatest stress point on a high voltage wire.
+
+284
+00:24:58,381 --> 00:25:03,800
+You hook it on the wire, but you had to keep it where it stayed level.
+
+285
+00:25:05,000 --> 00:25:06,200
+Then I slide it back.
+
+286
+00:25:07,480 --> 00:25:11,260
+Then I had to push a button that I had to slide away from to keep the radiation from getting me.
+
+287
+00:25:12,080 --> 00:25:14,020
+So I had to slide out about 10 foot.
+
+288
+00:25:14,820 --> 00:25:17,860
+Let it take it, shoot it, you hear it go, click.
+
+289
+00:25:20,100 --> 00:25:24,380
+Linemen at USA Air Mobile are just the latest in a long line of brave men
+
+290
+00:25:24,381 --> 00:25:29,200
+who've risked life and limb to keep power flowing to homes and businesses across America.
+
+291
+00:25:32,500 --> 00:25:35,680
+Some of the first electric linemen worked for Thomas Edison,
+
+292
+00:25:36,400 --> 00:25:44,560
+who in 1882 took on the task of lighting his first neighborhood in lower Manhattan.
+
+293
+00:25:47,000 --> 00:25:53,420
+Edison's direct current system required that he construct his first commercial power station right in that neighborhood.
+
+294
+00:25:54,380 --> 00:26:00,140
+Instead of delivering power overhead on poles, Edison chose to bury electric wires under the street.
+
+295
+00:26:00,540 --> 00:26:04,140
+We have a piece of Edison's Pearl Street cable.
+
+296
+00:26:05,220 --> 00:26:13,020
+It's copper conductors, as you can see, with a chemically impregnated rope insulation.
+
+297
+00:26:13,660 --> 00:26:17,680
+Edison's original cables were sealed in wooden conduits before they were buried.
+
+298
+00:26:17,681 --> 00:26:22,740
+His low-voltage direct current system was a success,
+
+299
+00:26:22,960 --> 00:26:26,160
+but it was soon challenged and eventually replaced
+
+300
+00:26:26,161 --> 00:26:28,060
+by alternating current,
+
+301
+00:26:29,180 --> 00:26:32,180
+a system that could send electricity much further
+
+302
+00:26:32,181 --> 00:26:33,940
+and at a much greater voltage.
+
+303
+00:26:36,680 --> 00:26:40,600
+By 1896, industrialist George Westinghouse
+
+304
+00:26:40,601 --> 00:26:43,660
+had harnessed the hydroelectric potential of Niagara Falls.
+
+305
+00:26:47,680 --> 00:26:53,400
+and was beginning to send his powerful new alternating current overhead across America.
+
+306
+00:26:55,440 --> 00:26:58,280
+This is uninsulated power line.
+
+307
+00:26:58,860 --> 00:27:02,680
+Uninsulated because it's in the air, so it doesn't really need to be insulated.
+
+308
+00:27:03,240 --> 00:27:08,780
+Aluminum because it's lightweight, and it also doesn't have much resistance to electric current.
+
+309
+00:27:09,540 --> 00:27:14,120
+Linemen, used to handling communications wires that carried very low voltage signals,
+
+310
+00:27:14,121 --> 00:27:19,060
+now found themselves stringing cable that could deliver deadly force if mishandled.
+
+311
+00:27:20,840 --> 00:27:22,460
+The statistics are chilling.
+
+312
+00:27:23,180 --> 00:27:27,980
+In the 1890s, one lineman in every two was killed on the job.
+
+313
+00:27:32,960 --> 00:27:35,380
+Initially, when you were dealing with power lines,
+
+314
+00:27:35,500 --> 00:27:38,600
+most of the people at that time thought electricity was magic
+
+315
+00:27:38,601 --> 00:27:42,900
+and really, really did not have an understanding of what it was that they were dealing with.
+
+316
+00:27:42,901 --> 00:27:53,520
+And just minor things like grabbing hold of a cable, they wouldn't stop to think first that if it's live, you grab a hold of it, you can't let go of it.
+
+317
+00:27:53,940 --> 00:28:00,820
+Once the power starts going through your, goes into your hand, goes out through your feet, all the muscles contract, you can't let go of it, they're dead.
+
+318
+00:28:01,200 --> 00:28:02,460
+It's as simple as that, they're dead.
+
+319
+00:28:02,461 --> 00:28:12,980
+Samuel Insull, a former Edison employee, took the next step in wiring America.
+
+320
+00:28:13,460 --> 00:28:18,600
+He wired power systems together, beginning what is now referred to as the power grid.
+
+321
+00:28:21,600 --> 00:28:28,500
+Insull began in downtown Chicago, and by buying up his competitors, he stretched power transmission to the city's boundaries.
+
+322
+00:28:28,501 --> 00:28:37,460
+In 1910, he boldly reached out to the suburbs and then to the rural areas outside Chicago.
+
+323
+00:28:39,080 --> 00:28:45,040
+In doing so, Insel demonstrated his keen understanding of the new concept of load balancing.
+
+324
+00:28:47,220 --> 00:28:50,900
+Once electricity is produced, it can't be saved.
+
+325
+00:28:51,220 --> 00:28:56,140
+A utility requires different customers with different needs 24 hours a day to operate efficiently.
+
+326
+00:28:56,141 --> 00:29:06,140
+My opinion, the reason we have a grid is because of the realities of load factor and capital costs.
+
+327
+00:29:06,880 --> 00:29:11,940
+By spreading outward from the heart of the city, Insel tapped a huge variety of customers.
+
+328
+00:29:12,840 --> 00:29:16,700
+This ensured his load factor was even over the 24-hour cycle.
+
+329
+00:29:17,960 --> 00:29:20,460
+The farms used their power starting early in the morning.
+
+330
+00:29:23,460 --> 00:29:25,640
+The city's factories at midday.
+
+331
+00:29:26,140 --> 00:29:30,300
+and homes and suburbs in the evening hours.
+
+332
+00:29:33,180 --> 00:29:37,820
+The wiring of power company to power company accelerated during World War I,
+
+333
+00:29:37,821 --> 00:29:41,120
+when military demand for electricity created shortages.
+
+334
+00:29:43,000 --> 00:29:47,460
+Connecting different types of plants together created the most efficient flow of power
+
+335
+00:29:47,461 --> 00:29:51,160
+and formed the backbone of today's power grid system.
+
+336
+00:29:51,161 --> 00:29:58,420
+wiring power plant to power plant also introduced the high voltage tower to the American landscape
+
+337
+00:29:58,421 --> 00:30:04,600
+the cheapest way to move massive quantities of power across long distances was overhead
+
+338
+00:30:04,601 --> 00:30:12,640
+aluminum cable while these towers became common sites in the north the southern United States
+
+339
+00:30:12,641 --> 00:30:20,200
+lagged behind in being wired for power the job of wiring America for electricity wouldn't be
+
+340
+00:30:20,201 --> 00:30:23,200
+finished until the 1930s and the Great Depression.
+
+341
+00:30:24,240 --> 00:30:29,240
+Well, the cities, which were disproportionately concentrated in the north and across the upper
+
+342
+00:30:29,241 --> 00:30:34,580
+band of the country, were reasonably well-wired, but the rural areas, which was true of the
+
+343
+00:30:34,581 --> 00:30:35,540
+south, were not.
+
+344
+00:30:35,820 --> 00:30:41,740
+And this had to do with capital, investment, and the number of warm bodies per mile.
+
+345
+00:30:41,741 --> 00:30:47,060
+And it was discovered that there needs to be three to five households per linear mile
+
+346
+00:30:47,061 --> 00:30:48,340
+in order to turn a profit.
+
+347
+00:30:48,341 --> 00:30:53,640
+So in the South, which was certainly capital poor and investment poor,
+
+348
+00:30:53,820 --> 00:31:00,400
+to extend the wires from the urban small towns that did indeed exist would be tremendously expensive.
+
+349
+00:31:01,320 --> 00:31:06,120
+The U.S. government exercised its jurisdiction over America's rivers and lakes
+
+350
+00:31:06,121 --> 00:31:11,640
+to produce hydropower plants under the banner of the Tennessee Valley Authority, or TVA.
+
+351
+00:31:11,641 --> 00:31:18,320
+We are here because the Muscle Shoals development and the Tennessee River development as a whole.
+
+352
+00:31:18,340 --> 00:31:20,880
+are national in their aspect
+
+353
+00:31:20,881 --> 00:31:24,500
+and are going to be treated from a national point of view.
+
+354
+00:31:24,900 --> 00:31:27,240
+But it was far more than just building a power plant.
+
+355
+00:31:27,420 --> 00:31:30,300
+It was a whole notion of how the introduction
+
+356
+00:31:30,301 --> 00:31:32,240
+of this new form of energy
+
+357
+00:31:32,241 --> 00:31:36,460
+could be used to stimulate business,
+
+358
+00:31:36,461 --> 00:31:37,800
+to provide loans.
+
+359
+00:31:38,200 --> 00:31:40,580
+It was seen as stoking the local economy
+
+360
+00:31:40,581 --> 00:31:44,560
+and provoking, if you will, a renaissance in these rural areas.
+
+361
+00:31:48,340 --> 00:31:53,980
+Just months after TVA was created, 5,000 local men were hired to clear the land.
+
+362
+00:31:55,540 --> 00:31:57,840
+Dams were built to generate hydroelectric power.
+
+363
+00:31:59,200 --> 00:32:05,800
+They soon produced 12 million kilowatts of electricity each year, enough to light 6 million homes.
+
+364
+00:32:07,460 --> 00:32:10,200
+TVA sold its power at bargain basement rates.
+
+365
+00:32:11,940 --> 00:32:17,280
+Power lines and telephone wire now ran along rail lines and highways, coast to coast.
+
+366
+00:32:17,281 --> 00:32:20,320
+But soon, a new highway would appear.
+
+367
+00:32:21,380 --> 00:32:23,700
+The information superhighway.
+
+368
+00:32:24,420 --> 00:32:27,020
+And its wires would connect computer to computer
+
+369
+00:32:27,021 --> 00:32:29,540
+and consumer to the world.
+
+370
+00:32:32,040 --> 00:32:36,020
+In 1930, about 10% of farms in the United States
+
+371
+00:32:36,021 --> 00:32:37,180
+were wired for electricity.
+
+372
+00:32:37,960 --> 00:32:41,740
+By 1946, that number had grown to 50%.
+
+373
+00:32:41,741 --> 00:32:45,180
+Wiring America will return on Modern Marvels.
+
+374
+00:32:47,280 --> 00:32:50,820
+We now return to Wiring America on Modern Marvels.
+
+375
+00:32:54,780 --> 00:33:00,060
+The campus at Cisco Systems in Palo Alto, California,
+
+376
+00:33:00,061 --> 00:33:02,400
+home to one of the largest companies in the world.
+
+377
+00:33:05,140 --> 00:33:10,040
+Behind these walls is enough wire to hook up an entire city.
+
+378
+00:33:10,041 --> 00:33:14,180
+The company today consists of almost 40,000 people.
+
+379
+00:33:14,181 --> 00:33:18,680
+We sell $25 billion of products a year,
+
+380
+00:33:18,681 --> 00:33:20,720
+and most of the world's internet traffic
+
+381
+00:33:20,721 --> 00:33:23,540
+passes through our routers and switches
+
+382
+00:33:23,541 --> 00:33:28,220
+on its way from its source to its destination.
+
+383
+00:33:28,221 --> 00:33:31,700
+These routers are Cisco Systems' bread and butter.
+
+384
+00:33:31,701 --> 00:33:34,280
+They take files disassembled at the computer
+
+385
+00:33:34,281 --> 00:33:36,200
+and route them through the network.
+
+386
+00:33:36,201 --> 00:33:39,360
+Sometimes these chunks of information, called packets,
+
+387
+00:33:39,361 --> 00:33:41,960
+take different paths to the same destination,
+
+388
+00:33:41,961 --> 00:33:43,520
+depending on their need for bandwidth.
+
+389
+00:33:45,340 --> 00:33:49,960
+At the destination, another computer reassembles the chunks back into the original file.
+
+390
+00:33:50,500 --> 00:33:52,240
+A router is sort of like a post office.
+
+391
+00:33:52,500 --> 00:33:55,300
+When the different computers send out information,
+
+392
+00:33:55,301 --> 00:33:57,380
+that information is addressed to another computer.
+
+393
+00:33:57,720 --> 00:33:59,960
+But where is that computer? It could be anywhere in the world.
+
+394
+00:34:00,440 --> 00:34:02,400
+And the router looks at the address and says,
+
+395
+00:34:02,401 --> 00:34:05,720
+oh, this one is going to China and starts shipping it off to China.
+
+396
+00:34:06,820 --> 00:34:10,680
+In one building, Cisco engineers have wired banks of routers together
+
+397
+00:34:10,681 --> 00:34:14,280
+to create an experimental virtual post office of the future.
+
+398
+00:34:15,120 --> 00:34:17,260
+We have the world's largest router.
+
+399
+00:34:17,680 --> 00:34:21,360
+That router can pass 93 terabytes of information.
+
+400
+00:34:21,500 --> 00:34:24,100
+So that's almost a mind-boggling amount of information
+
+401
+00:34:24,101 --> 00:34:26,040
+to give you some sense of what that means.
+
+402
+00:34:26,420 --> 00:34:29,020
+It's like transmitting the entire contents
+
+403
+00:34:29,021 --> 00:34:31,900
+of the Library of Congress in five seconds.
+
+404
+00:34:33,060 --> 00:34:36,540
+While Cisco wasn't the first company to develop and sell a router,
+
+405
+00:34:36,541 --> 00:34:40,700
+It did create the first commercially successful multi-protocol router
+
+406
+00:34:40,701 --> 00:34:45,960
+to allow previously incompatible computers to communicate using different network protocols.
+
+407
+00:34:48,440 --> 00:34:54,020
+This rapid movement of information by wire got its start a little earlier than most people realize.
+
+408
+00:34:55,420 --> 00:34:58,820
+With power such as the greatest hydroelectric station
+
+409
+00:34:58,821 --> 00:35:03,180
+contributes to the scientific and propaganda sensation of the year.
+
+410
+00:35:03,181 --> 00:35:07,180
+The seeds of today's Internet were sown in 1957,
+
+411
+00:35:07,181 --> 00:35:11,180
+when Russia beat the Americans to space with the first satellite.
+
+412
+00:35:11,181 --> 00:35:16,180
+The Russians caught the United States by surprise by launching Sputnik.
+
+413
+00:35:16,181 --> 00:35:18,180
+President Eisenhower said,
+
+414
+00:35:18,181 --> 00:35:21,180
+we will never again be caught with our pants down that way.
+
+415
+00:35:21,181 --> 00:35:24,180
+An agency was created in the Department of Defense
+
+416
+00:35:24,181 --> 00:35:28,180
+called the Advanced Research Projects Agency, or ARPA.
+
+417
+00:35:28,181 --> 00:35:32,180
+One of the areas it supported was computer science.
+
+418
+00:35:32,181 --> 00:35:40,520
+But what ARPA was promoting was this radical idea that a computer could interact with you in real time,
+
+419
+00:35:40,521 --> 00:35:50,260
+that a computer could enhance human creativity, that a computer could be a portal to a world of information.
+
+420
+00:35:50,880 --> 00:35:54,160
+ARPA funded computer research at the country's top universities.
+
+421
+00:35:55,840 --> 00:36:01,740
+UCLA professor Len Kleinrock was at the right place at the right time with a very smart plan.
+
+422
+00:36:02,180 --> 00:36:06,180
+He created a program to divide computer messages into packets.
+
+423
+00:36:06,181 --> 00:36:11,180
+As a graduate student at MIT, I looked around me and I saw these computers.
+
+424
+00:36:11,181 --> 00:36:14,180
+There were lots of them, but they were not able to talk to each other.
+
+425
+00:36:14,181 --> 00:36:19,180
+There was no mechanism, no technology by which they could exchange data and communicate.
+
+426
+00:36:19,181 --> 00:36:22,180
+I said, there needs to be a technology which supports that.
+
+427
+00:36:22,181 --> 00:36:28,180
+Kleinrock developed the fundamental principles that allow computers to speak directly over long distances.
+
+428
+00:36:28,181 --> 00:36:33,180
+The wire system used to jumpstart the Internet was already in place.
+
+429
+00:36:33,181 --> 00:36:40,180
+We could use any kind of wire, but the wires in the ground, you know, the United States is a copper mine.
+
+430
+00:36:40,181 --> 00:36:41,976
+It's full of telephone wires.
+
+431
+00:36:41,977 --> 00:36:47,180
+So why not use those wires for computers that are not physically next to each other?
+
+432
+00:36:47,181 --> 00:36:53,180
+Use the telephone network, but change the switches at the end of those copper wires.
+
+433
+00:36:53,181 --> 00:36:58,180
+So instead of using a circuit switch, which is the way we use telephones,
+
+434
+00:36:58,181 --> 00:37:00,180
+introduce a new kind of switch.
+
+435
+00:37:00,181 --> 00:37:02,180
+We eventually call that a packet switch,
+
+436
+00:37:02,181 --> 00:37:06,180
+which allowed this rapid exchange of data dynamically.
+
+437
+00:37:07,180 --> 00:37:10,180
+Circuit switching delivers information in real time
+
+438
+00:37:10,181 --> 00:37:13,180
+and in the order it's sent on a dedicated line.
+
+439
+00:37:13,181 --> 00:37:17,180
+Packet switching can use many lines to deliver information
+
+440
+00:37:17,181 --> 00:37:19,180
+when real time isn't an issue.
+
+441
+00:37:19,181 --> 00:37:25,900
+So here we have my old friend, the first piece of networking equipment ever on the Internet.
+
+442
+00:37:27,020 --> 00:37:28,940
+I think it's beautiful. You may not.
+
+443
+00:37:29,460 --> 00:37:31,160
+It looks like a large telephone booth.
+
+444
+00:37:31,760 --> 00:37:33,640
+It's called an interface message processor.
+
+445
+00:37:34,160 --> 00:37:39,280
+Imp number one inside the most beautiful piece of machinery you've ever seen.
+
+446
+00:37:40,920 --> 00:37:43,960
+Its ugliness is beautiful to me.
+
+447
+00:37:44,780 --> 00:37:47,780
+This was the original switch of the Internet.
+
+448
+00:37:47,781 --> 00:37:50,780
+And here, that is the CPU.
+
+449
+00:37:50,781 --> 00:37:53,780
+There's less power here than in my watch right now.
+
+450
+00:37:55,780 --> 00:37:59,780
+The very first Internet message traveled from UCLA in Los Angeles
+
+451
+00:37:59,781 --> 00:38:02,780
+to the Stanford Research Institute in Northern California.
+
+452
+00:38:03,780 --> 00:38:07,780
+The first line, the first wire in the Internet ever,
+
+453
+00:38:07,781 --> 00:38:09,780
+was attached between these two switches.
+
+454
+00:38:09,781 --> 00:38:13,780
+The only message we wanted to send was to log in between these two machines.
+
+455
+00:38:13,781 --> 00:38:16,780
+So Charlie typed the L, got the L.
+
+456
+00:38:17,780 --> 00:38:22,780
+Type the O, got the O. Type the G, you get the G, crash.
+
+457
+00:38:22,781 --> 00:38:24,780
+This system failed.
+
+458
+00:38:24,781 --> 00:38:29,780
+So the very first message on the Internet ever was low.
+
+459
+00:38:29,781 --> 00:38:31,780
+Lo and behold.
+
+460
+00:38:31,781 --> 00:38:36,780
+Just as the telephone started on telegraph wires but quickly outgrew them,
+
+461
+00:38:36,781 --> 00:38:39,780
+the computer is now maturing past the simple twisted pairs
+
+462
+00:38:39,781 --> 00:38:43,780
+that served the telephone so well for more than a century.
+
+463
+00:38:43,781 --> 00:38:46,780
+Receiving information at the speed of light
+
+464
+00:38:46,781 --> 00:38:50,400
+would require wires that transport information as light.
+
+465
+00:38:52,440 --> 00:38:57,520
+Len Kleinrock claims he committed the first illegal act on the Internet in 1973
+
+466
+00:38:57,521 --> 00:39:02,140
+when he made an online request for the return of his electric razor
+
+467
+00:39:02,141 --> 00:39:03,640
+from a conference in England.
+
+468
+00:39:04,700 --> 00:39:08,200
+At that time, personal use of the Internet was forbidden.
+
+469
+00:39:08,860 --> 00:39:12,000
+Wiring America will return on Modern Marvels.
+
+470
+00:39:12,001 --> 00:39:19,000
+We now return to Wiring America on Modern Marvels.
+
+471
+00:39:19,001 --> 00:39:32,000
+The wiring of America terminates in houses and buildings everywhere.
+
+472
+00:39:32,001 --> 00:39:37,000
+Lines are pulled off poles or run up from the streets to deliver their services.
+
+473
+00:39:37,001 --> 00:39:38,000
+their services.
+
+474
+00:39:38,001 --> 00:39:45,160
+There's pipes that are running underground and they're all over the city.
+
+475
+00:39:45,161 --> 00:39:51,180
+And they're bringing in a very high voltage cable, it's 34,500 volts.
+
+476
+00:39:51,181 --> 00:39:55,240
+That voltage is brought in and it's brought in with these large transformers.
+
+477
+00:39:55,241 --> 00:40:02,800
+Imagine the word transformer, it transforms that high voltage of 34,000 volts into something
+
+478
+00:40:02,801 --> 00:40:06,000
+that people can actually use, 480 volts.
+
+479
+00:40:06,001 --> 00:40:12,260
+Power travels from the transformer to a breaker station.
+
+480
+00:40:12,261 --> 00:40:18,340
+In a home, it can be a small breaker box.
+
+481
+00:40:18,341 --> 00:40:25,360
+Wires run through metal conduits to outlets where the consumer can plug in.
+
+482
+00:40:25,361 --> 00:40:31,520
+Communications wire can arrive from below or above, often as elaborately braided coaxial
+
+483
+00:40:31,521 --> 00:40:32,520
+cable.
+
+484
+00:40:32,521 --> 00:40:43,954
+Coaxial cable is really just a single conductor with an insulation, a braid, and a final insulation to it for a certain type of signal like the HDTV signal or a signal
+
+485
+00:40:43,955 --> 00:40:45,940
+used in cable for television.
+
+486
+00:40:46,620 --> 00:40:52,200
+Coaxial cable transmits information at higher frequencies by guiding the signal between two conductors.
+
+487
+00:40:52,800 --> 00:40:59,620
+The signal is protected from interference by an outer conductor or shield, usually made with small wires braided together.
+
+488
+00:40:59,621 --> 00:41:04,480
+single coaxial cables are then bundled into complex delivery systems.
+
+489
+00:41:04,481 --> 00:41:07,900
+We're standing in front of here is a 12-bay planetary cabler.
+
+490
+00:41:07,901 --> 00:41:13,780
+I want to say 12 bays. Each bay is capable of holding one real supply material.
+
+491
+00:41:13,781 --> 00:41:18,460
+So what happens is we bring it to the 12-bay, load up our 12 conductors,
+
+492
+00:41:18,461 --> 00:41:25,120
+and bring it together into a cable. What we've got here is an audio-video cable.
+
+493
+00:41:25,121 --> 00:41:33,120
+Each one of these colored conductors here contains an insulated twisted pair that is mostly used in audio-video applications,
+
+494
+00:41:33,940 --> 00:41:40,700
+such as stadiums, a lot of outside forms of that, anywhere where you're running a lot of video and or audio.
+
+495
+00:41:43,220 --> 00:41:49,380
+Increasingly, even these sophisticated specialized bundles of copper are being challenged by a new kind of wire.
+
+496
+00:41:50,740 --> 00:41:51,860
+Fiber optics.
+
+497
+00:41:55,120 --> 00:42:00,120
+Fiber optic wire was developed at Corning Glass in the 1970s.
+
+498
+00:42:00,121 --> 00:42:06,120
+This kind of wire is made of ultra-pure glass, thinner than a human hair.
+
+499
+00:42:06,121 --> 00:42:10,120
+It can transmit information at near the speed of light.
+
+500
+00:42:10,121 --> 00:42:18,120
+When you launch light into these, there is a laser pointed at the end of the fiber.
+
+501
+00:42:18,121 --> 00:42:22,120
+They vary the amplitude of the light, or the brightness of it.
+
+502
+00:42:22,121 --> 00:42:26,920
+And what they do is they, much the same way you do with Morse code,
+
+503
+00:42:27,380 --> 00:42:32,500
+if it was a dash when it's bright, it's a dot when it's dim.
+
+504
+00:42:32,720 --> 00:42:38,740
+The combinations of dashes and dots, or high and low in brightness, are used to encode the data.
+
+505
+00:42:39,300 --> 00:42:44,840
+Bright and dim are represented as 1 and 0, or binary code, the language of computers,
+
+506
+00:42:45,380 --> 00:42:47,660
+as fast as 40 billion times a second.
+
+507
+00:42:48,620 --> 00:42:53,500
+In this way, complex information can be flashed across the country, even around the world.
+
+508
+00:42:54,100 --> 00:42:59,660
+But with today's emphasis on wireless technology, will we even need wires in the near future?
+
+509
+00:43:00,640 --> 00:43:02,140
+Experts say yes.
+
+510
+00:43:03,420 --> 00:43:06,900
+Wireless is typically just the first step to the wired infrastructure,
+
+511
+00:43:07,080 --> 00:43:10,480
+which then takes it across the country through the Internet, through a remote device.
+
+512
+00:43:11,380 --> 00:43:13,821
+So, you know, wires still run the backbone network.
+
+513
+00:43:13,822 --> 00:43:15,400
+They run the Internet, basically.
+
+514
+00:43:15,401 --> 00:43:20,400
+Increasingly what we'll see is that things that formerly were wired will go wireless,
+
+515
+00:43:20,401 --> 00:43:22,400
+and things that were formerly wireless will go wired.
+
+516
+00:43:22,401 --> 00:43:26,400
+For instance, telephones used to be completely wired in the house,
+
+517
+00:43:26,401 --> 00:43:29,400
+and then you would of course have to be near a phone in order to be able to use it.
+
+518
+00:43:29,401 --> 00:43:33,400
+And as we all know, we've all gone wireless with our telephones, making it much more convenient.
+
+519
+00:43:33,401 --> 00:43:39,400
+Televisions, however, that were formerly wireless, where you would get your programming on the air,
+
+520
+00:43:39,401 --> 00:43:43,400
+are increasingly going wired so that we can get more programming,
+
+521
+00:43:43,401 --> 00:43:52,586
+And in fact, so that we can go to a day where we can get any television show, any movie on demand when we want it, and eventually getting to the point where we can
+
+522
+00:43:52,587 --> 00:43:54,220
+receive video and send video.
+
+523
+00:43:55,600 --> 00:43:59,940
+And how long will it be before wiring America becomes wiring Americans?
+
+524
+00:44:00,760 --> 00:44:10,220
+The idea of implanting a cell phone in your ear, for example, or in your skull is, again, people are looking at this.
+
+525
+00:44:10,221 --> 00:44:12,100
+It is probably going to be possible.
+
+526
+00:44:13,400 --> 00:44:16,440
+Whether you would want to do that is an interesting question.
+
+527
+00:44:16,580 --> 00:44:18,420
+I find it kind of creepy myself.
+
+528
+00:44:20,120 --> 00:44:24,920
+Inside us, maybe, but above our heads and below our feet, for certain,
+
+529
+00:44:27,420 --> 00:44:33,940
+wires, poles, and towers continue to keep America plugged in and turned on.
+
+530
+00:44:33,941 --> 00:44:44,180
+14 survivors try to make their way out of a doomed building.
+
+531
+00:44:44,181 --> 00:44:49,740
+Suddenly, total collapse and a plunge into darkness.
+
+532
+00:44:49,741 --> 00:44:51,120
+Experience the amazing story of what...
+

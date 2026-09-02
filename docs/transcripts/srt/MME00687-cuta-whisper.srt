@@ -1,0 +1,2460 @@
+1
+00:00:00,001 --> 00:00:04,000
+It's all around us.
+
+2
+00:00:04,001 --> 00:00:08,000
+So much a part of our lives, we forget it's there.
+
+3
+00:00:08,001 --> 00:00:12,000
+But just try to survive a single day without packaging.
+
+4
+00:00:12,001 --> 00:00:16,000
+Virtually everything produced on Earth needs to be packaged.
+
+5
+00:00:16,001 --> 00:00:20,000
+We've taken great pains to make sure that it gets up there in one piece.
+
+6
+00:00:20,001 --> 00:00:24,000
+To sell it, ship it, protect it, or keep it fresh.
+
+7
+00:00:24,001 --> 00:00:28,000
+High-tech companies you never knew existed invest billions
+
+8
+00:00:28,001 --> 00:00:33,000
+to design every box, bottle, and bag you encountered,
+
+9
+00:00:33,001 --> 00:00:35,000
+and to crank them out by the ton
+
+10
+00:00:35,001 --> 00:00:37,000
+to meet our insatiable demand.
+
+11
+00:00:37,001 --> 00:00:40,000
+This isn't rocket science. It's harder.
+
+12
+00:00:40,001 --> 00:00:43,000
+And you'll never believe how much of every dollar you spend
+
+13
+00:00:43,001 --> 00:00:45,000
+pays for the cost of it all.
+
+14
+00:00:45,001 --> 00:00:50,000
+Now, the untold story of packaging on Modern Marvels.
+
+15
+00:00:58,000 --> 00:01:12,000
+Packaging is the multi-billion dollar industry we all take for granted, despite the fact
+
+16
+00:01:13,200 --> 00:01:16,260
+that we rely on it every day.
+
+17
+00:01:16,261 --> 00:01:21,100
+One glance down the aisle at your local grocery store says it all.
+
+18
+00:01:21,101 --> 00:01:27,000
+Every item on every shelf is in a package, and the variety is endless.
+
+19
+00:01:27,001 --> 00:01:32,300
+There's an amazingly rich story behind the package of every product you buy.
+
+20
+00:01:32,301 --> 00:01:37,240
+And you probably didn't even know you're a huge part of it.
+
+21
+00:01:37,241 --> 00:01:42,420
+One dollar of every eleven you spend pays for the cost of packaging.
+
+22
+00:01:42,421 --> 00:01:52,760
+And one third of everything you throw away consists of packaging materials.
+
+23
+00:01:52,761 --> 00:01:57,840
+Researchers at Michigan State University have long acknowledged a truth that most of us ignore.
+
+24
+00:01:58,480 --> 00:01:59,480
+Look at the blue one.
+
+25
+00:02:00,460 --> 00:02:04,480
+Packaging is a science, a combination of design and engineering.
+
+26
+00:02:05,760 --> 00:02:12,320
+Since 1952, the School of Packaging at Michigan State has set the tone and purpose for the industry.
+
+27
+00:02:13,920 --> 00:02:15,820
+Packaging serves a whole bunch of functions.
+
+28
+00:02:15,821 --> 00:02:17,400
+One is to contain a product.
+
+29
+00:02:17,860 --> 00:02:22,220
+Another is to protect and preserve that product from all kinds of assaults.
+
+30
+00:02:22,760 --> 00:02:25,400
+It's got to help the consumer use the product.
+
+31
+00:02:26,040 --> 00:02:30,500
+It's got to be produced efficiently, and it's got to be environmentally friendly.
+
+32
+00:02:30,840 --> 00:02:35,140
+That's a pretty tall order for a single substance, a single entity to do.
+
+33
+00:02:36,040 --> 00:02:40,880
+The experts here know that no matter what the material, the same goal applies.
+
+34
+00:02:42,320 --> 00:02:46,740
+Produce the best container at the lowest cost using the least amount of material.
+
+35
+00:02:48,520 --> 00:02:51,300
+Consider that deceptively simple form of packaging.
+
+36
+00:02:51,301 --> 00:02:53,139
+the plastic water bottle.
+
+37
+00:02:53,140 --> 00:02:57,480
+The water inside can only vary so much from brand to brand,
+
+38
+00:02:57,481 --> 00:03:02,280
+so a staggering amount of money and manpower goes into the container.
+
+39
+00:03:03,920 --> 00:03:09,000
+According to the National Resources Defense Council, at least 90% of the cost of bottled
+
+40
+00:03:09,001 --> 00:03:15,900
+water covers things other than the water itself, including packaging, marketing, and shipping.
+
+41
+00:03:15,901 --> 00:03:20,900
+Americans go through 50 billion bottles of water annually.
+
+42
+00:03:20,901 --> 00:03:30,900
+And to design them, many of the beverage industry's major players turn to Amcor Rigid Plastics of Manchester, Michigan.
+
+43
+00:03:30,901 --> 00:03:35,900
+On the surface, packaging a drink seems like a no-brainer.
+
+44
+00:03:35,901 --> 00:03:41,900
+But designing the bottle is more complicated than you'd ever imagine.
+
+45
+00:03:41,901 --> 00:03:46,900
+One reason why is they have to solve a vexing problem.
+
+46
+00:03:46,901 --> 00:03:51,900
+And the answer, oddly enough, comes straight out of your vegetable garden.
+
+47
+00:03:51,901 --> 00:03:56,900
+The problem is that plastic bottles can easily deform shortly after they're filled.
+
+48
+00:03:56,901 --> 00:04:04,900
+A liquid entering a bottle during the bottling process has been heated to 185 degrees Fahrenheit for pasteurization.
+
+49
+00:04:04,901 --> 00:04:10,900
+As it cools, it creates a low-pressure vacuum that causes the bottle to contract.
+
+50
+00:04:10,901 --> 00:04:15,900
+Amcor's solution is hiding diaphragms in the walls and base
+
+51
+00:04:15,901 --> 00:04:17,900
+that absorb the vacuum.
+
+52
+00:04:17,901 --> 00:04:19,900
+The inspiration for the design?
+
+53
+00:04:19,901 --> 00:04:22,900
+The inside of a bell pepper.
+
+54
+00:04:24,900 --> 00:04:26,900
+We're actually working with the vacuum.
+
+55
+00:04:26,901 --> 00:04:30,900
+That vacuum itself is helping to form this new geometry.
+
+56
+00:04:30,901 --> 00:04:32,900
+And because these are new technologies and a new way of
+
+57
+00:04:32,901 --> 00:04:35,900
+looking at absorbing the vacuum, it naturally is giving us forms
+
+58
+00:04:35,901 --> 00:04:37,900
+that we've not had before.
+
+59
+00:04:37,901 --> 00:04:42,900
+When the design is complete, engineers test it in a virtual world.
+
+60
+00:04:42,901 --> 00:04:45,900
+It's like crash testing a bottle in a computer.
+
+61
+00:04:45,901 --> 00:04:49,900
+Everything that that bottle is going to experience in the real world, like top load when it's
+
+62
+00:04:49,901 --> 00:04:55,900
+being filled or stacked, and also the vacuum or perhaps even internal pressure like in a soda bottle,
+
+63
+00:04:55,901 --> 00:04:58,900
+we're going to go ahead and test all of that in the computer.
+
+64
+00:04:58,901 --> 00:05:06,900
+Competition in the bottled beverage industry is fierce, and the look of the packaging can have a huge impact on consumer preferences.
+
+65
+00:05:06,901 --> 00:05:11,900
+So graphic designers create virtual store shelves to show
+
+66
+00:05:11,901 --> 00:05:13,900
+how the bottles will appear on display.
+
+67
+00:05:13,901 --> 00:05:18,900
+Designers can also get a feel for how the bottle fits in your
+
+68
+00:05:18,901 --> 00:05:21,900
+hand before it's ever made.
+
+69
+00:05:21,901 --> 00:05:26,900
+We can simulate how a real hand of a person is going to grab
+
+70
+00:05:26,901 --> 00:05:27,900
+this bottle.
+
+71
+00:05:27,901 --> 00:05:31,900
+We have hands who can move, fingers we can move.
+
+72
+00:05:31,901 --> 00:05:35,900
+We can see where the contact points on the bottle versus the
+
+73
+00:05:35,901 --> 00:05:39,124
+the hand. All of our products do have to function.
+
+74
+00:05:39,125 --> 00:05:42,220
+That's the most important piece of it is that it
+
+75
+00:05:42,221 --> 00:05:46,460
+functions and serves that purpose to protect the product and stand up to all the conditions it'll
+
+76
+00:05:46,461 --> 00:05:51,715
+go through from manufacturing to the store shelf and onto the consumer's home.
+
+77
+00:05:51,716 --> 00:05:52,860
+After the virtual
+
+78
+00:05:52,861 --> 00:05:58,700
+bottle satisfies Amcor's packaging brain trust, a 3D printer churns out a prototype.
+
+79
+00:05:58,701 --> 00:06:06,760
+The print head makes several hundred passes over a volume of plastic powder, and in each
+
+80
+00:06:06,761 --> 00:06:13,400
+pass, sprays a binding solution in the shape of one thin cross section of the bottle.
+
+81
+00:06:13,401 --> 00:06:18,220
+Layer by layer, a solid form takes shape.
+
+82
+00:06:18,221 --> 00:06:25,700
+And after three hours, the prototype is complete.
+
+83
+00:06:25,701 --> 00:06:29,500
+Next, digital scanners analyze the bottle's dimensions
+
+84
+00:06:29,501 --> 00:06:31,640
+to confirm that it measures up to the design.
+
+85
+00:06:33,200 --> 00:06:34,840
+We'll do dimensional verifications
+
+86
+00:06:34,841 --> 00:06:36,500
+and make sure that on the manufacturing side,
+
+87
+00:06:36,501 --> 00:06:38,100
+we've got what we need.
+
+88
+00:06:38,101 --> 00:06:40,220
+And we'll finish polishing this model up
+
+89
+00:06:40,221 --> 00:06:43,020
+and send it off to the customer for final aesthetic approval.
+
+90
+00:06:43,021 --> 00:06:45,820
+Once we've got final approval on the aesthetics,
+
+91
+00:06:45,821 --> 00:06:47,120
+we're off to making bottles.
+
+92
+00:06:49,540 --> 00:06:51,580
+And those bottles are made from a plastic
+
+93
+00:06:51,581 --> 00:06:54,400
+called polyethylene terephthalate,
+
+94
+00:06:54,401 --> 00:06:57,300
+also known as PET.
+
+95
+00:06:57,301 --> 00:07:02,320
+Light, flexible, and durable, it was patented in 1973
+
+96
+00:07:02,321 --> 00:07:06,820
+and did for water what the pop-top can had done for soda.
+
+97
+00:07:06,821 --> 00:07:09,640
+It turned water into a drink we could enjoy anywhere,
+
+98
+00:07:09,641 --> 00:07:10,341
+anytime.
+
+99
+00:07:13,020 --> 00:07:14,520
+But our devotion to bottled water
+
+100
+00:07:14,521 --> 00:07:17,960
+comes at a high environmental price.
+
+101
+00:07:17,961 --> 00:07:22,300
+PET is made from petroleum, and more than 17 million barrels
+
+102
+00:07:22,301 --> 00:07:25,300
+of oil are required to produce the 30 billion bottles
+
+103
+00:07:25,301 --> 00:07:29,380
+purchased by Americans every year.
+
+104
+00:07:29,381 --> 00:07:32,900
+Since PET is non-biodegradable, environmentalists
+
+105
+00:07:32,901 --> 00:07:36,180
+advocate aggressive recycling efforts.
+
+106
+00:07:36,181 --> 00:07:39,020
+But nearly 8 out of 10 plastic water bottles
+
+107
+00:07:39,021 --> 00:07:40,120
+end up in a landfill.
+
+108
+00:07:43,160 --> 00:07:45,480
+Also, as consumers, we need to consider
+
+109
+00:07:45,481 --> 00:07:49,540
+how packaging water contributes to its cost.
+
+110
+00:07:49,541 --> 00:07:57,580
+A bottle of water costing $1.35 could be refilled with tap water every day for 10 years for less than the same price.
+
+111
+00:08:00,560 --> 00:08:03,620
+There's more eye-opening facts about the packaging of our food.
+
+112
+00:08:04,580 --> 00:08:08,260
+The demands of 21st century consumers have gone beyond preservation.
+
+113
+00:08:09,040 --> 00:08:10,720
+Now we require convenience.
+
+114
+00:08:11,740 --> 00:08:14,060
+It's not enough that containers keep food fresh.
+
+115
+00:08:14,600 --> 00:08:16,200
+They must now help us cook it.
+
+116
+00:08:19,540 --> 00:08:23,280
+One company answering the challenge is the Sealed Air Corporation,
+
+117
+00:08:23,281 --> 00:08:26,440
+a global packaging innovator for 50 years.
+
+118
+00:08:27,680 --> 00:08:34,220
+Its product line, called Cryovac, seals, protects, and actually helps cook fresh and frozen food.
+
+119
+00:08:34,880 --> 00:08:38,060
+It works for both fresh and frozen applications.
+
+120
+00:08:38,700 --> 00:08:40,020
+It's steam-assisted cooking.
+
+121
+00:08:40,540 --> 00:08:45,040
+When the product is ready, you peel it open, and you can actually eat directly from the package.
+
+122
+00:08:45,560 --> 00:08:48,220
+Other innovations take the guesswork out of measuring.
+
+123
+00:08:48,221 --> 00:08:53,100
+marinate on demand, and make novice chefs look like experts.
+
+124
+00:08:55,180 --> 00:08:58,600
+The Cryovac material may look like a simple plastic wrap,
+
+125
+00:08:59,100 --> 00:09:00,820
+but it's made from a patented formula.
+
+126
+00:09:01,680 --> 00:09:03,120
+It's comprised of different layers.
+
+127
+00:09:04,040 --> 00:09:05,980
+Some keep oxygen and bacteria out.
+
+128
+00:09:07,240 --> 00:09:09,080
+Others keep moisture and flavor in.
+
+129
+00:09:10,100 --> 00:09:12,320
+Others distribute microwave heat evenly.
+
+130
+00:09:12,321 --> 00:09:20,040
+Cryovac is a high-tech descendant of one of packaging's milestone innovations.
+
+131
+00:09:20,041 --> 00:09:28,440
+Cellophane, the ubiquitous transparent film made from plant fibers called cellulose, has
+
+132
+00:09:28,441 --> 00:09:31,630
+been a staple of food preservation since 1913.
+
+133
+00:09:31,631 --> 00:09:34,820
+And like many great inventions, it was created
+
+134
+00:09:34,821 --> 00:09:36,582
+completely by accident.
+
+135
+00:09:36,583 --> 00:09:41,640
+Credit a Swiss textile engineer whose real intention was to invent
+
+136
+00:09:41,641 --> 00:09:43,248
+a stain-proof tablecloth.
+
+137
+00:09:43,249 --> 00:09:47,300
+He discovered that the cellulose he tried to apply to the cloth
+
+138
+00:09:47,301 --> 00:09:56,280
+kept peeling off, as the clear, water-resistant, biodegradable film we know today.
+
+139
+00:09:56,281 --> 00:10:01,200
+It paved the way for innovations like Cryovac, which is formed into bags that not only help
+
+140
+00:10:01,201 --> 00:10:05,880
+packagers preserve our food, but also lend a helping hand to prepare it.
+
+141
+00:10:05,881 --> 00:10:11,720
+The machine behind me is one of the main components of our packaging process.
+
+142
+00:10:11,721 --> 00:10:15,540
+The product will go into a chamber system and in that chamber will evacuate the air
+
+143
+00:10:15,541 --> 00:10:19,580
+out of the package and then we'll make a closing seal.
+
+144
+00:10:19,581 --> 00:10:25,260
+With today's equipment we're able to completely automate that operation from ready to pack
+
+145
+00:10:25,261 --> 00:10:34,020
+till it's ready to ship to a food processor or a consumer.
+
+146
+00:10:34,021 --> 00:10:37,440
+Some packaging strives to improve our lives.
+
+147
+00:10:37,441 --> 00:10:40,460
+Others have overstayed their welcome.
+
+148
+00:10:40,461 --> 00:10:44,520
+This plastic nightmare is the packaging we love to hate.
+
+149
+00:10:44,521 --> 00:10:47,020
+But a new kind of package is taking its place.
+
+150
+00:10:51,260 --> 00:10:55,560
+No country consumes more bottled water per person than Italy.
+
+151
+00:10:55,561 --> 00:10:59,740
+Each Italian drinks an average of 55 gallons per year,
+
+152
+00:10:59,741 --> 00:11:03,100
+nearly twice that of each American.
+
+153
+00:11:03,101 --> 00:11:05,820
+Packaging will return on Modern Marvels.
+
+154
+00:11:08,020 --> 00:11:11,440
+We now return to packaging on Modern Marvels.
+
+155
+00:11:15,580 --> 00:11:22,000
+In recent years, a new packaging term has entered the American lexicon, rap rage.
+
+156
+00:11:22,660 --> 00:11:29,260
+Each year, 6,000 Americans wind up in emergency rooms with injuries suffered while trying to open packaging.
+
+157
+00:11:29,261 --> 00:11:40,360
+The most common source of rap rage is the clamshell, that plastic monstrosity made of two rigid halves sealed together with ultrasonic welding.
+
+158
+00:11:41,680 --> 00:11:48,857
+There's sort of a love-hate relationship with this package because people love it because they know that they can see the product that they're buying and know that all
+
+159
+00:11:48,858 --> 00:11:49,760
+the parts are inside.
+
+160
+00:11:50,120 --> 00:11:52,080
+And the retailers like it because it's hard to steal.
+
+161
+00:11:52,680 --> 00:11:57,380
+People hate it because it's very difficult to open with scissors and anyone who has tried understands what I'm talking about.
+
+162
+00:11:59,260 --> 00:12:03,680
+The cry of consumer protest has reached many packaging companies that are riding to our rescue.
+
+163
+00:12:05,540 --> 00:12:13,540
+LA's Impact Manufacturing and Winterborne Corporation offer a frustration-free alternative they call the EnviroShell.
+
+164
+00:12:14,760 --> 00:12:20,240
+A large portion of it isn't plastic, but paper, which makes it a breeze to open.
+
+165
+00:12:21,460 --> 00:12:24,860
+What we're looking at here is the machine that seals what we call a trap blister.
+
+166
+00:12:24,861 --> 00:12:29,700
+Unlike the clamshell that was mostly plastic, a trapped blister is mostly paper, making
+
+167
+00:12:29,701 --> 00:12:30,700
+it more sustainable.
+
+168
+00:12:30,701 --> 00:12:35,420
+How it works is that the paper has a special coating that is heat activated.
+
+169
+00:12:35,421 --> 00:12:41,220
+The product is put into a PET blister, placed inside the paper foldover, trapping it on
+
+170
+00:12:41,221 --> 00:12:47,960
+the flanges, and then it is sent to this machine over here, where heat is passed through, activating
+
+171
+00:12:47,961 --> 00:12:53,760
+the coating on the paper, sealing it together, giving us a nice, solid, sealed package.
+
+172
+00:12:54,860 --> 00:12:58,860
+Many Envirochelle packages are oversized,
+
+173
+00:12:58,861 --> 00:13:01,860
+designed to not only protect contents,
+
+174
+00:13:01,861 --> 00:13:04,860
+but also act as billboards to lure buyers.
+
+175
+00:13:04,861 --> 00:13:08,860
+Making them requires not one, but three production facilities
+
+176
+00:13:08,861 --> 00:13:12,860
+to produce the plastic, the paper, and the printing.
+
+177
+00:13:14,860 --> 00:13:17,860
+First up, the plastic.
+
+178
+00:13:17,861 --> 00:13:21,860
+The process starts with a roll of film that's 20 mil thick.
+
+179
+00:13:21,861 --> 00:13:25,860
+It comes through this section here and gets fed into the heater bank.
+
+180
+00:13:25,861 --> 00:13:29,660
+The heater bank will heat it to approximately 185 degrees,
+
+181
+00:13:29,661 --> 00:13:32,160
+making the plastic very pliable.
+
+182
+00:13:32,161 --> 00:13:34,560
+It then goes into the forming section.
+
+183
+00:13:34,561 --> 00:13:38,760
+There's an aluminum mold that is the shape of the package that we desire.
+
+184
+00:13:38,761 --> 00:13:40,360
+The plastic is heated.
+
+185
+00:13:40,361 --> 00:13:46,160
+It goes into the vacuum chamber and gets sucked down by a vacuum mounted underneath the tool
+
+186
+00:13:46,161 --> 00:13:50,160
+and then cooled quickly to form it in the shape of the package.
+
+187
+00:13:51,860 --> 00:13:58,860
+Making the paper comes next at LA Corps, also in Los Angeles.
+
+188
+00:13:58,861 --> 00:14:02,860
+Although the paper is the key to making the EnviroShell easier to open,
+
+189
+00:14:02,861 --> 00:14:05,860
+it still needs to be strong enough to endure shipping.
+
+190
+00:14:05,861 --> 00:14:12,860
+So the paper created here is corrugated, meaning it's folded into ridges that reinforce the material.
+
+191
+00:14:12,861 --> 00:14:19,860
+LA Corps corrugates 700 miles of paper each day.
+
+192
+00:14:19,861 --> 00:14:26,060
+What we see here is the medium going through the corrugating roll and coming out.
+
+193
+00:14:26,061 --> 00:14:31,460
+If you'll notice, the medium is being heated with steam so that whenever it goes through
+
+194
+00:14:31,461 --> 00:14:35,760
+the corrugating roll, it's more flexible and it won't tear out whenever it gets inside
+
+195
+00:14:35,761 --> 00:14:38,560
+the corrugating roll.
+
+196
+00:14:38,561 --> 00:14:43,640
+As the production line turns out layer after layer of corrugated paper, machines bond them
+
+197
+00:14:43,641 --> 00:14:48,180
+together to make panels rigid enough to protect the products they'll contain.
+
+198
+00:14:48,181 --> 00:14:54,420
+We've got the liner, medium, liner, medium, and then the final liner being applied.
+
+199
+00:14:54,421 --> 00:15:00,900
+All of that is being applied with a thin layer of glue. It's going to be all
+
+200
+00:15:00,901 --> 00:15:06,360
+combined right here at this point, go through the hot plate section for curing.
+
+201
+00:15:08,620 --> 00:15:15,620
+From start to finish, computers monitor every aspect of the production process.
+
+202
+00:15:18,180 --> 00:15:26,600
+and workers perform quality control checks to make sure the final product is ready for the last step in making the EnviroShel.
+
+203
+00:15:28,380 --> 00:15:36,400
+That happens here at L.A.'s Fleetwood Fiber, where one of the world's most sophisticated printers applies colored inks to the corrugated paper.
+
+204
+00:15:36,860 --> 00:15:43,860
+It's a seven-color corrugated high-graphics printer and die cutter, all in line in one pass.
+
+205
+00:15:43,861 --> 00:15:45,860
+The sheets are automatically unloaded.
+
+206
+00:15:45,861 --> 00:15:47,860
+They're automatically fed into the up stacker.
+
+207
+00:15:47,861 --> 00:15:49,860
+They go into the printing unit.
+
+208
+00:15:49,861 --> 00:15:54,860
+The machine's capable of doing seven colors or six color and varnish.
+
+209
+00:15:54,861 --> 00:16:00,860
+If I'm doing less than seven colors, I can actually go into the machine while it's printing
+
+210
+00:16:00,861 --> 00:16:03,860
+and set up the next job.
+
+211
+00:16:03,861 --> 00:16:05,860
+Everything prints above us.
+
+212
+00:16:08,860 --> 00:16:10,860
+Prints upside down.
+
+213
+00:16:10,861 --> 00:16:16,860
+Each month, the enormous printer consumes up to 20,000 pounds of ink and coatings,
+
+214
+00:16:16,861 --> 00:16:19,860
+formulated in Fleetwood's own ink lab.
+
+215
+00:16:19,861 --> 00:16:26,860
+Any given number of combinations of inks are all created here, tested here,
+
+216
+00:16:26,861 --> 00:16:31,860
+and ultimately are saved in the computer so that when we run a job out in the plant,
+
+217
+00:16:31,861 --> 00:16:35,860
+we can repeat that with the consistency that our customers expect.
+
+218
+00:16:35,861 --> 00:16:42,580
+The rainbow of inks created here enables the mega printer to crank out up to 10,000 sheets
+
+219
+00:16:42,581 --> 00:16:45,380
+per hour.
+
+220
+00:16:45,381 --> 00:16:48,040
+Then it automatically die cuts the final pieces.
+
+221
+00:16:48,041 --> 00:16:53,100
+What you're looking at here is our rotary die cut die board.
+
+222
+00:16:53,101 --> 00:16:59,820
+In order for the die cut to go cut the corrugated and not get stuck, we need to be rubbered up.
+
+223
+00:16:59,821 --> 00:17:02,740
+So all these rubber pieces are like springs.
+
+224
+00:17:02,741 --> 00:17:07,460
+comes through and it die cuts the corrugated it springs back die cuts the
+
+225
+00:17:07,461 --> 00:17:12,940
+corrugated and it just does that in a rotary fashion colorful corrugated
+
+226
+00:17:12,941 --> 00:17:17,120
+panels emerge from the printer ready for their transformation into retail
+
+227
+00:17:17,121 --> 00:17:24,060
+packaging all that's left to do now is bring the paper and plastic components
+
+228
+00:17:24,061 --> 00:17:30,680
+together and you've got a completed enviro shell move over clamshell this
+
+229
+00:17:30,681 --> 00:17:34,840
+innovative package provides just as much protection without giving consumers
+
+230
+00:17:34,841 --> 00:17:41,840
+trying to open it a nasty case of wrap rage. These professionals also excel at
+
+231
+00:17:41,841 --> 00:17:48,560
+packaging solutions. They have to because their job is to pack and ship one of the
+
+232
+00:17:48,561 --> 00:17:51,960
+world's largest cranes.
+
+233
+00:17:54,700 --> 00:17:59,120
+Half of all the paper produced in the United States is used to wrap and
+
+234
+00:17:59,121 --> 00:18:06,740
+decorate consumer products. Paper comprises about 41% of our trash.
+
+235
+00:18:06,741 --> 00:18:14,240
+Packaging will return on Modern Marvels. We now return to packaging on Modern
+
+236
+00:18:14,241 --> 00:18:23,240
+Marvels. The challenge of packaging generally grows as the thing you're
+
+237
+00:18:23,241 --> 00:18:28,840
+trying to package gets bigger and bigger. No one knows this better than the
+
+238
+00:18:28,841 --> 00:18:32,337
+experts of the Mammut Corporation of the Netherlands.
+
+239
+00:18:32,338 --> 00:18:35,240
+They pack and ship everything from buildings
+
+240
+00:18:35,241 --> 00:18:41,300
+to bridges. The company's name says it all. Mammut is Dutch for mammoth.
+
+241
+00:18:41,301 --> 00:18:49,740
+We have the ability to pick up anything that the good Lord didn't tie down to the earth.
+
+242
+00:18:49,741 --> 00:18:55,080
+We can pick it up and we can move it, sometimes set it into millimeters of where you need
+
+243
+00:18:55,081 --> 00:18:56,216
+At Mammut's U.S.
+
+244
+00:18:56,217 --> 00:19:01,540
+headquarters in Rocheron, Texas, workers are tackling a colossal challenge,
+
+245
+00:19:02,840 --> 00:19:06,480
+packaging one of the world's largest cranes for shipment overseas.
+
+246
+00:19:07,620 --> 00:19:16,120
+The Platform Twin Rig Containerized Crane, PTC for short, stands as high as a 65-story skyscraper
+
+247
+00:19:16,121 --> 00:19:22,880
+and weighs 2,100 metric tons. That's 4,200,000 pounds.
+
+248
+00:19:22,881 --> 00:19:29,880
+Packing a Titan this size demands a lot more than a boatload of bubble wrap.
+
+249
+00:19:29,881 --> 00:19:33,880
+The job will take an entire week to complete.
+
+250
+00:19:33,881 --> 00:19:40,880
+As they package the giant crane, their work has been made more manageable by its ingenious design.
+
+251
+00:19:40,881 --> 00:19:47,880
+Many of its individual parts do double duty, acting as containers for other pieces.
+
+252
+00:19:47,881 --> 00:19:53,260
+When the crane is in action, steel panels like this one function as counterweights for
+
+253
+00:19:53,261 --> 00:20:01,040
+the enormous boom, enabling the crane to lift three-quarters of its own weight.
+
+254
+00:20:01,041 --> 00:20:05,560
+But during packaging, the counterweights are bolted onto other sections of the crane to
+
+255
+00:20:05,561 --> 00:20:10,720
+form boxes enclosing them.
+
+256
+00:20:10,721 --> 00:20:16,160
+Many of the reconfigured packaged sections are either 20 or 40 feet long.
+
+257
+00:20:16,161 --> 00:20:20,960
+exact dimensions of shipping containers that fit on commercial cargo vessels and tractor-trailer
+
+258
+00:20:20,961 --> 00:20:25,395
+rigs. This makes transporting the sections easier.
+
+259
+00:20:25,396 --> 00:20:29,120
+Other sections, including those containing
+
+260
+00:20:29,121 --> 00:20:34,800
+winches and other machinery, will be lifted directly onto trucks and shipped as is.
+
+261
+00:20:36,000 --> 00:20:39,271
+This piece behind us will actually be bolted up like it sits.
+
+262
+00:20:39,272 --> 00:20:40,880
+That way when we get it there,
+
+263
+00:20:40,881 --> 00:20:42,540
+and we get it bolted up, it's ready.
+
+264
+00:20:42,541 --> 00:20:44,800
+Then all you have to do is spool things together,
+
+265
+00:20:44,801 --> 00:20:49,840
+and it's operational depending on the configuration required for a job
+
+266
+00:20:49,841 --> 00:20:55,120
+the crane fits in 80 to 120 containers each weighing 20 to 30 tons
+
+267
+00:20:57,200 --> 00:21:02,800
+moving these megaloads requires some heavy duty vehicles like this steerable trailer
+
+268
+00:21:04,160 --> 00:21:09,440
+these axles can steer 45 degree angles so each one of these when the truck doesn't
+
+269
+00:21:09,441 --> 00:21:12,480
+makes a turn and he wants to back up, we can steer it in
+
+270
+00:21:12,481 --> 00:21:16,080
+whatever direction we want to go in.
+
+271
+00:21:16,081 --> 00:21:19,520
+The heaviest containers of all hitch a ride on this 48-wheeled
+
+272
+00:21:19,521 --> 00:21:22,720
+powerhouse called a self-propelled modular
+
+273
+00:21:22,721 --> 00:21:26,720
+transporter. Each wheel can be individually
+
+274
+00:21:26,721 --> 00:21:31,520
+controlled to evenly distribute the crushing weight.
+
+275
+00:21:35,600 --> 00:21:38,880
+You've probably noticed there's no driver aboard.
+
+276
+00:21:38,881 --> 00:21:42,120
+There he is, maneuvering the huge lowrider through even
+
+277
+00:21:42,220 --> 00:21:45,980
+the tightest quarters by remote control.
+
+278
+00:21:46,080 --> 00:21:48,220
+You can pick up a lot more weight with it versus one of
+
+279
+00:21:48,320 --> 00:21:50,720
+the other trucks. The way this one's set up is about 360
+
+280
+00:21:50,820 --> 00:21:56,340
+metric tons. This is around about 32 tons per axle.
+
+281
+00:21:56,440 --> 00:21:59,040
+Like all large-scale packaging jobs,
+
+282
+00:21:59,140 --> 00:22:01,840
+tech plays a crucial role.
+
+283
+00:22:01,940 --> 00:22:04,640
+But manpower is no less critical.
+
+284
+00:22:04,740 --> 00:22:07,580
+All the technological advances we've made over the years in
+
+285
+00:22:07,581 --> 00:22:12,060
+in building stronger machines and more advanced equipment,
+
+286
+00:22:12,061 --> 00:22:13,980
+it still boils down to the men and women
+
+287
+00:22:13,981 --> 00:22:15,360
+that we have employed for us.
+
+288
+00:22:21,820 --> 00:22:23,920
+One massive global packaging effort
+
+289
+00:22:23,921 --> 00:22:27,640
+literally takes an army to get the job done.
+
+290
+00:22:27,641 --> 00:22:32,200
+In fact, it takes an army, Navy, Marine Corps, and Air Force.
+
+291
+00:22:32,201 --> 00:22:35,680
+Meet the men and women of the U.S. Transportation Command,
+
+292
+00:22:35,681 --> 00:22:38,220
+US Transcom for short.
+
+293
+00:22:38,221 --> 00:22:42,020
+Their gargantuan task is to pack and ship every single item
+
+294
+00:22:42,021 --> 00:22:46,560
+required for all branches of the American military.
+
+295
+00:22:46,561 --> 00:22:49,720
+US Transcom is really responsible overall
+
+296
+00:22:49,721 --> 00:22:53,000
+for the strategic movement of our military forces
+
+297
+00:22:53,001 --> 00:22:53,840
+around the world.
+
+298
+00:22:53,841 --> 00:22:56,500
+We basically do about 900 sorties a day,
+
+299
+00:22:56,501 --> 00:22:58,780
+2,600 truck movements.
+
+300
+00:22:58,781 --> 00:23:02,440
+We have 44 ships that are onloading, offloading,
+
+301
+00:23:02,441 --> 00:23:05,180
+or underway, and about 100 real car
+
+302
+00:23:05,181 --> 00:23:06,368
+shipments every day.
+
+303
+00:23:06,369 --> 00:23:11,300
+If we actually went to full-out war, we'd do about three to four times that amount.
+
+304
+00:23:12,300 --> 00:23:16,400
+U.S. Transcom headquarters is located at Scott Air Force Base in Illinois.
+
+305
+00:23:17,680 --> 00:23:25,440
+Here, 1,400 military and civilian personnel supervise the efforts of 145,000 workers worldwide.
+
+306
+00:23:26,800 --> 00:23:31,620
+We have some folks who are planning missions for the air crews, filing flight plans,
+
+307
+00:23:31,621 --> 00:23:33,960
+checking weather, notices to airmen.
+
+308
+00:23:33,961 --> 00:23:35,700
+We have other personnel in here who are actually
+
+309
+00:23:35,701 --> 00:23:38,260
+monitoring the missions, looking for problems,
+
+310
+00:23:38,261 --> 00:23:41,800
+looking for choke points, solving crises before they happen.
+
+311
+00:23:41,801 --> 00:23:43,140
+This isn't rocket science.
+
+312
+00:23:43,141 --> 00:23:44,500
+It's harder.
+
+313
+00:23:44,501 --> 00:23:49,800
+US Transcom manages more than 100,000 flights each year.
+
+314
+00:23:49,801 --> 00:23:54,980
+Many originate here at Dover Air Force Base in Delaware.
+
+315
+00:23:54,981 --> 00:24:00,140
+Huge C-5 and C-17 cargo planes function as aerial moving vans
+
+316
+00:24:00,141 --> 00:24:05,020
+for all manner of weapons, vehicles, equipment, and supplies.
+
+317
+00:24:05,021 --> 00:24:07,420
+Our mission here at Dover Air Force Base is to deliver.
+
+318
+00:24:07,421 --> 00:24:12,060
+Dover Air Force Base supplies approximately 75% of all cargo
+
+319
+00:24:12,061 --> 00:24:14,780
+through the air transit, the strategic airlift system.
+
+320
+00:24:14,781 --> 00:24:16,980
+We're the guys loading the aircraft,
+
+321
+00:24:16,981 --> 00:24:18,860
+aggregating the cargo onto the pallets
+
+322
+00:24:18,861 --> 00:24:21,020
+to get them over to the warfighter.
+
+323
+00:24:21,021 --> 00:24:23,000
+Every day, hundreds of cargo pallets
+
+324
+00:24:23,001 --> 00:24:26,000
+arrive at Dover from shippers.
+
+325
+00:24:26,001 --> 00:24:28,300
+Each needs to be inspected, weighed, and packaged
+
+326
+00:24:28,301 --> 00:24:31,800
+to protect the contents during flight.
+
+327
+00:24:31,801 --> 00:24:33,840
+Certain aircraft have height limitations.
+
+328
+00:24:33,841 --> 00:24:37,860
+Some aircraft have contour limitations, weight limitations.
+
+329
+00:24:37,861 --> 00:24:41,020
+So we as cargo processors look at that daily.
+
+330
+00:24:41,021 --> 00:24:44,680
+Before we build any pallet, we know what we're building it for.
+
+331
+00:24:44,681 --> 00:24:47,300
+To maximize the use of cargo space,
+
+332
+00:24:47,301 --> 00:24:49,560
+crews use computer-assisted lasers
+
+333
+00:24:49,561 --> 00:24:53,580
+to analyze the size and shape of every pallet.
+
+334
+00:24:53,581 --> 00:24:56,420
+Each pallet is labeled with a radio frequency identification
+
+335
+00:24:56,421 --> 00:25:00,560
+tag so it can be tracked in transit.
+
+336
+00:25:00,561 --> 00:25:03,600
+On any given day we'll have approximately 600 tons of cargo.
+
+337
+00:25:03,601 --> 00:25:05,960
+That's a lot of stuff out there in the system,
+
+338
+00:25:05,961 --> 00:25:07,760
+and that's a lot of customers wanting
+
+339
+00:25:07,761 --> 00:25:08,860
+to know where their stuff is.
+
+340
+00:25:08,861 --> 00:25:12,180
+So every single pallet will have an RFID tag.
+
+341
+00:25:12,181 --> 00:25:14,760
+After a pallet completes its packaging prep,
+
+342
+00:25:14,761 --> 00:25:16,980
+it awaits its airborne journey in a state-of-the-art
+
+343
+00:25:16,981 --> 00:25:18,060
+computerized warehouse.
+
+344
+00:25:21,000 --> 00:25:23,780
+Cargo is organized by destination.
+
+345
+00:25:23,781 --> 00:25:27,640
+A full plane load can be retrieved and ready to ship within two hours.
+
+346
+00:25:29,400 --> 00:25:32,920
+Just prior to departure, pallets are moved to staging docks,
+
+347
+00:25:33,300 --> 00:25:36,820
+where they're grouped to provide the most efficient use of space aboard the aircraft.
+
+348
+00:25:40,140 --> 00:25:44,880
+Then servicemen operating vehicles called K-loaders roll into action.
+
+349
+00:25:45,340 --> 00:25:50,940
+A K-loader can carry up to 60,000 pounds and load six pallets at a time.
+
+350
+00:25:53,780 --> 00:26:06,260
+Inside the C-5 planes, the cargo is carefully positioned, ensuring that no space is wasted
+
+351
+00:26:06,261 --> 00:26:08,600
+in the 121-foot-long hold.
+
+352
+00:26:10,720 --> 00:26:16,560
+The hold is wide enough to house an eight-lane bowling alley and roomy enough for six Greyhound
+
+353
+00:26:16,561 --> 00:26:17,261
+buses.
+
+354
+00:26:17,262 --> 00:26:23,660
+If I upload this piece of cargo that has a full-up armor kit for Humvee on Friday,
+
+355
+00:26:23,780 --> 00:26:26,980
+on that next Monday, that person over in Afghanistan
+
+356
+00:26:27,080 --> 00:26:28,680
+is going to be putting onto his Humvee
+
+357
+00:26:28,780 --> 00:26:31,080
+and drive away safely because of the pallet
+
+358
+00:26:31,180 --> 00:26:32,580
+that I uploaded for him.
+
+359
+00:26:32,680 --> 00:26:35,320
+We're very grateful for everything that we can do
+
+360
+00:26:35,420 --> 00:26:37,420
+to help the people that are over there fighting
+
+361
+00:26:37,520 --> 00:26:39,320
+for us every day.
+
+362
+00:26:39,420 --> 00:26:42,140
+Although shipping by air is fast and efficient,
+
+363
+00:26:42,240 --> 00:26:44,240
+it's also costly.
+
+364
+00:26:44,340 --> 00:26:46,840
+So when the time factor is less critical,
+
+365
+00:26:46,940 --> 00:26:51,480
+U.S. Transcom ships its cargo by land and sea.
+
+366
+00:26:51,481 --> 00:26:56,040
+The Port of Baltimore is one of US Transcom's key packaging points for shipping cargo,
+
+367
+00:26:57,120 --> 00:26:59,760
+including $30 million Chinook helicopters.
+
+368
+00:27:03,480 --> 00:27:07,260
+A packaging procedure once used extensively but now abandoned
+
+369
+00:27:07,261 --> 00:27:12,140
+was to essentially shrink-wrap choppers to protect them during shipment.
+
+370
+00:27:15,260 --> 00:27:20,280
+The shrink-wrap strategy has now been replaced by enclosing the choppers in a different type of container.
+
+371
+00:27:21,480 --> 00:27:26,480
+The environmentally controlled cargo hold of a Navy sea lift ship,
+
+372
+00:27:26,481 --> 00:27:30,480
+like the USNS Mendoza.
+
+373
+00:27:30,481 --> 00:27:35,480
+But before the choppers can be loaded, they need to be packaged for the trip.
+
+374
+00:27:35,481 --> 00:27:40,480
+The most important part of that effort is removing and securing the rotor blades,
+
+375
+00:27:40,481 --> 00:27:45,480
+which weigh between 350 and 600 pounds.
+
+376
+00:27:45,481 --> 00:27:48,480
+It takes a lot of teamwork, a lot of communication,
+
+377
+00:27:48,481 --> 00:27:52,320
+because you've got guys up top that are disconnecting things and guys down at the bottom
+
+378
+00:27:52,321 --> 00:27:56,640
+they're actually holding the rotor blade in place we have a man that operates our spider crane that
+
+379
+00:27:56,641 --> 00:28:01,440
+lifts the blade cradle up to the blade captures the blade holds it while we disconnect all the
+
+380
+00:28:01,441 --> 00:28:07,600
+main attaching components and that's what we use to lower the blade down the container that
+
+381
+00:28:07,601 --> 00:28:14,160
+protects the blades in transit is the helicopter itself the blades are very expensive they're made
+
+382
+00:28:14,161 --> 00:28:18,560
+out of a fiberglass composite material and you have to be very careful when we're storing the
+
+383
+00:28:18,561 --> 00:28:24,080
+blades and also with the removal at the port ops it's uh it is a high visibility high dollar operation
+
+384
+00:28:25,520 --> 00:28:29,680
+after the rotor blades are secure and the rotor head is wrapped the helicopters are
+
+385
+00:28:29,681 --> 00:28:33,360
+lifted by crane onto the mendonza and down into the cargo hold
+
+386
+00:28:36,240 --> 00:28:39,760
+only one step remains for packaging and shipping the chinook helicopters
+
+387
+00:28:39,761 --> 00:28:44,880
+tying them down to make certain rough seas don't move them during transit.
+
+388
+00:28:44,881 --> 00:28:49,760
+On helicopters, we don't like to use chains because there's no flex involved when the
+
+389
+00:28:49,761 --> 00:28:54,400
+aircraft and or boat is moving while it's underway. It can actually cause a chain to
+
+390
+00:28:54,401 --> 00:28:58,689
+actually pull out one of our tie down points. So that's why we prefer to use straps.
+
+391
+00:28:58,690 --> 00:28:59,390
+It gives a
+
+392
+00:28:59,391 --> 00:29:00,678
+little flex. U.S.
+
+393
+00:29:00,679 --> 00:29:07,200
+Transcom cargo ships like the Mendoza not only help keep America's military
+
+394
+00:29:07,201 --> 00:29:12,700
+fully equipped, but also redefine our notions of packaging.
+
+395
+00:29:12,701 --> 00:29:16,540
+As I tell General Petraeus or General Mattis and the other
+
+396
+00:29:16,541 --> 00:29:19,380
+combatant commanders, my job is to make sure they never worry
+
+397
+00:29:19,381 --> 00:29:22,280
+about this. I will get it to them when they need it, and if I
+
+398
+00:29:22,281 --> 00:29:26,420
+got to speed things up, I'll take care of that.
+
+399
+00:29:26,421 --> 00:29:29,580
+Like U.S. Transcom, the average Joes face their own
+
+400
+00:29:29,581 --> 00:29:33,900
+packaging challenges. And we come armed with a material that's
+
+401
+00:29:33,901 --> 00:29:40,660
+It's a pop culture icon of such magnitude that it has 2 million fans on Facebook.
+
+402
+00:29:40,661 --> 00:29:50,560
+But you won't believe what purpose its inventors originally intended it to serve.
+
+403
+00:29:50,561 --> 00:30:01,080
+Packaging and transporting one Chinook helicopter aboard a C-5 cargo jet costs more than $500,000.
+
+404
+00:30:01,081 --> 00:30:03,540
+will return on Modern Marvels.
+
+405
+00:30:09,180 --> 00:30:11,820
+Nearly 10% of the price of any product
+
+406
+00:30:11,821 --> 00:30:14,040
+is the cost of the packaging.
+
+407
+00:30:14,041 --> 00:30:16,120
+But the big bucks you fork over for packaging
+
+408
+00:30:16,121 --> 00:30:17,960
+don't stop there.
+
+409
+00:30:17,961 --> 00:30:23,400
+We shell out almost $3 billion every year to package gifts.
+
+410
+00:30:23,401 --> 00:30:26,700
+And when it's time to relocate, we spend $10 billion
+
+411
+00:30:26,701 --> 00:30:28,320
+on packing services and products.
+
+412
+00:30:31,080 --> 00:30:35,400
+The average American uses 60 pounds of plastic packaging material every year.
+
+413
+00:30:38,920 --> 00:30:41,320
+And much of it is this iconic brand.
+
+414
+00:30:45,640 --> 00:30:50,920
+Behold the marvel of bubble wrap, one of civilization's most popular packaging brands
+
+415
+00:30:51,480 --> 00:30:55,128
+that spawned a company now worth four billion dollars.
+
+416
+00:30:55,129 --> 00:30:57,560
+Our obsession to pop it makes it one
+
+417
+00:30:57,561 --> 00:31:00,320
+one of life's leading time wasters,
+
+418
+00:31:00,321 --> 00:31:02,260
+and an oddly effective stress reliever.
+
+419
+00:31:03,340 --> 00:31:05,900
+It was invented in 1957,
+
+420
+00:31:05,901 --> 00:31:08,460
+made of two shower curtains sealed together
+
+421
+00:31:08,461 --> 00:31:11,540
+by entrepreneurs Alfred Fielding and Marc Chavons.
+
+422
+00:31:13,540 --> 00:31:16,180
+They later started mass producing it on this machine.
+
+423
+00:31:17,780 --> 00:31:20,640
+But believe it or not, it was all a mistake,
+
+424
+00:31:20,641 --> 00:31:22,060
+since their real goal was to make
+
+425
+00:31:22,061 --> 00:31:24,080
+a funky new kind of wallpaper.
+
+426
+00:31:24,081 --> 00:31:30,680
+They needed to create a textured padded wallpaper that would be laminated to wallpaper and to
+
+427
+00:31:30,681 --> 00:31:33,680
+be applied to the wall that would give it a third dimension.
+
+428
+00:31:33,681 --> 00:31:39,960
+The inventors quickly realized that they had an outstanding cushion material.
+
+429
+00:31:39,961 --> 00:31:45,580
+Bubble wrap is now produced at sealed air production facilities around the world, including
+
+430
+00:31:45,581 --> 00:31:48,320
+its birthplace in Saddlebrook, New Jersey.
+
+431
+00:31:48,321 --> 00:31:54,260
+Bubble wrap actually starts from a process of various types of polyethylene resins.
+
+432
+00:31:54,261 --> 00:31:59,540
+We mix these different ingredients up, up into our blender at the top up here.
+
+433
+00:31:59,541 --> 00:32:03,200
+There's various types of ingredients that are then forced down into our extruder at
+
+434
+00:32:03,201 --> 00:32:04,440
+the lower level.
+
+435
+00:32:04,441 --> 00:32:09,360
+We actually then extrude two layers of film that one of those layers will be used to form
+
+436
+00:32:09,361 --> 00:32:10,360
+the bubble.
+
+437
+00:32:10,361 --> 00:32:16,120
+The machine that transforms the plastic film into bubble wrap has changed considerably
+
+438
+00:32:16,121 --> 00:32:17,640
+in the past 50 years.
+
+439
+00:32:17,641 --> 00:32:22,640
+As you watch it work its magic, let's debunk them now.
+
+440
+00:32:22,641 --> 00:32:25,640
+Most people think we're actually blowing air into the bubble
+
+441
+00:32:25,641 --> 00:32:29,640
+to form the bubble, but it's actually a heated drum with a vacuum.
+
+442
+00:32:29,641 --> 00:32:33,640
+So we're sucking the molten flat film down into the embossing cylinder,
+
+443
+00:32:33,641 --> 00:32:37,640
+and then the other hot molten film is actually laminated to the bubble
+
+444
+00:32:37,641 --> 00:32:41,640
+to trap the air that forms the actual bubble impression.
+
+445
+00:32:41,641 --> 00:32:44,640
+And then it immediately travels over to the chill roller,
+
+446
+00:32:44,641 --> 00:32:51,240
+roller where it's quickly cooled and it forms the final impression as far as the bubble.
+
+447
+00:32:51,241 --> 00:32:57,240
+Each bubble in bubble wrap is uniform in size, but the width and length of the rolls is determined
+
+448
+00:32:57,241 --> 00:32:59,240
+by Sealed Air's clients.
+
+449
+00:32:59,241 --> 00:33:03,740
+All of our bubble wrap brand products are produced to order, so it gives us the ability
+
+450
+00:33:03,741 --> 00:33:05,440
+to slit and perf in line.
+
+451
+00:33:05,441 --> 00:33:09,240
+And as you can see, there's no waste during our extrusion process.
+
+452
+00:33:09,241 --> 00:33:14,620
+We trim off the sides, it goes into a vacuum tube underneath the floor, ends up back in
+
+453
+00:33:14,621 --> 00:33:16,720
+and the extruder turns back into a resin
+
+454
+00:33:16,721 --> 00:33:18,060
+so we can extrude it more product.
+
+455
+00:33:20,260 --> 00:33:23,080
+The discards are melted and formed into pellets
+
+456
+00:33:23,081 --> 00:33:24,700
+that become more bubble wrap.
+
+457
+00:33:25,440 --> 00:33:28,060
+The same goes for truckloads of used bubble wrap
+
+458
+00:33:28,061 --> 00:33:29,860
+returned to the factory each week,
+
+459
+00:33:30,660 --> 00:33:34,500
+part of the 32% of garbage that Americans recycle every year.
+
+460
+00:33:36,660 --> 00:33:38,440
+A lot of the stuff that you see here now
+
+461
+00:33:38,441 --> 00:33:40,260
+is returns that customers use it,
+
+462
+00:33:40,440 --> 00:33:42,540
+and when they're done with it, they bring it back to us.
+
+463
+00:33:42,820 --> 00:33:44,200
+We reprocess it.
+
+464
+00:33:44,201 --> 00:33:45,960
+We don't want any of this to go into the landfill.
+
+465
+00:33:47,040 --> 00:33:50,040
+Each year, sealed air makes enough of this packaging wonder
+
+466
+00:33:50,041 --> 00:33:52,460
+to wrap around the equator 10 times.
+
+467
+00:33:54,380 --> 00:33:57,640
+Being mostly air, the huge rolls are light in weight.
+
+468
+00:33:58,980 --> 00:34:02,620
+But the volume of space required to ship and store them is huge.
+
+469
+00:34:03,820 --> 00:34:06,440
+The answer to this problem is a new type of bubble wrap
+
+470
+00:34:06,441 --> 00:34:08,440
+called New Air IB.
+
+471
+00:34:09,180 --> 00:34:11,680
+The IB stands for inflatable bubble.
+
+472
+00:34:11,681 --> 00:34:13,680
+It's our fastest-grown product line.
+
+473
+00:34:13,681 --> 00:34:17,680
+It's a roll of film that the customer blows up at their own factory.
+
+474
+00:34:17,681 --> 00:34:20,680
+This 24 rolls equates to a full truckload of bubbles,
+
+475
+00:34:20,681 --> 00:34:22,680
+which is 70 to 80 bundles of bubbles.
+
+476
+00:34:22,681 --> 00:34:24,680
+So it's a real space saver for the customer.
+
+477
+00:34:27,680 --> 00:34:32,680
+This machine takes on the challenge of inflating the hundreds of thousands of bubbles on a single roll.
+
+478
+00:34:34,680 --> 00:34:37,680
+That doesn't happen until the company doing the packaging is ready to ship.
+
+479
+00:34:37,681 --> 00:34:38,621
+ready to ship.
+
+480
+00:34:38,622 --> 00:34:44,000
+There's one key difference between this inflatable bubble wrap and the original.
+
+481
+00:34:46,160 --> 00:34:51,318
+All the air pockets on a roll are interconnected, making it impossible to pop.
+
+482
+00:34:51,319 --> 00:34:52,640
+So if you're looking
+
+483
+00:34:52,641 --> 00:34:55,520
+for stress relief, stick with the original.
+
+484
+00:34:55,521 --> 00:34:58,400
+But what about packaging fragile items that
+
+485
+00:34:58,401 --> 00:35:00,720
+need more than a cushion of air to survive shipping?
+
+486
+00:35:00,721 --> 00:35:08,300
+Sealed air offers foam, but not just any foam.
+
+487
+00:35:08,301 --> 00:35:13,700
+It's called Instapack, and it's the result of two separate liquid chemicals that expand
+
+488
+00:35:13,701 --> 00:35:18,680
+enormously when they're combined.
+
+489
+00:35:18,681 --> 00:35:23,220
+The process can be performed at shipping sites, or even in your home.
+
+490
+00:35:23,221 --> 00:35:32,500
+Easily activated by simply breaking a seal and mixing the two components back and forth
+
+491
+00:35:32,501 --> 00:35:35,220
+until the liquid foam starts to rise.
+
+492
+00:35:35,221 --> 00:35:47,780
+The bag is then placed into the box and the product is packaged for shipment.
+
+493
+00:35:47,781 --> 00:35:52,500
+No matter how effective your package's cushioning material is, you still need a sturdy container
+
+494
+00:35:52,501 --> 00:35:53,730
+to hold it all.
+
+495
+00:35:53,731 --> 00:35:59,880
+Enter that indispensable icon of the packaging industry, the cardboard box.
+
+496
+00:36:00,920 --> 00:36:07,680
+Cardboard was invented by the Chinese in the 16th century, but it wasn't until 1879 that a
+
+497
+00:36:07,681 --> 00:36:12,680
+Brooklyn bag maker named Robert Gare had the ingenious idea that turned it into today's
+
+498
+00:36:12,681 --> 00:36:15,732
+mass-produced packaging marvel.
+
+499
+00:36:15,733 --> 00:36:21,540
+A die-cut and scored box that could be stored flat and then
+
+500
+00:36:21,541 --> 00:36:23,550
+easily folded for use.
+
+501
+00:36:23,551 --> 00:36:29,580
+Without it, we'd still be shipping most products in wooden crates,
+
+502
+00:36:29,581 --> 00:36:38,100
+and there'd be no cardboard box industry worth $50 billion.
+
+503
+00:36:38,101 --> 00:36:43,961
+Packaging this high-tech wonder had the experts at NASA scratching their heads.
+
+504
+00:36:43,962 --> 00:36:45,000
+Their solution
+
+505
+00:36:45,001 --> 00:36:46,760
+was truly out of this world.
+
+506
+00:36:52,360 --> 00:36:56,640
+The Sealed Air Corporation's first major client was IBM,
+
+507
+00:36:56,641 --> 00:37:00,720
+which used bubble wrap to ship its IBM 1401, one
+
+508
+00:37:00,721 --> 00:37:02,940
+of the world's first mass-produced business
+
+509
+00:37:02,941 --> 00:37:04,640
+computers.
+
+510
+00:37:04,641 --> 00:37:07,300
+Packaging will return on Modern Marvels.
+
+511
+00:37:10,120 --> 00:37:12,960
+We now return to packaging on Modern Marvels.
+
+512
+00:37:15,000 --> 00:37:23,880
+Packaging can play a crucial role in settings you've probably never conceived of, like disaster
+
+513
+00:37:23,881 --> 00:37:25,880
+sites.
+
+514
+00:37:25,881 --> 00:37:30,600
+Imagine how handy it would be to have a giant impermeable bag that could store oil-slicked
+
+515
+00:37:30,601 --> 00:37:40,500
+debris in the wake of a major spill, or sand to create sandbags against rising floodwaters.
+
+516
+00:37:40,501 --> 00:37:45,620
+The PacTech Corporation of Clinton, Louisiana, has answered the challenge.
+
+517
+00:37:45,621 --> 00:37:51,260
+Their mega bags can even safely package radioactive waste and have one key advantage over the
+
+518
+00:37:51,261 --> 00:37:55,540
+steel containers used extensively for decades.
+
+519
+00:37:55,541 --> 00:38:01,140
+The benefits of flexible packaging over the standard metal containers is the space required
+
+520
+00:38:01,141 --> 00:38:02,140
+to store it.
+
+521
+00:38:02,141 --> 00:38:08,000
+Typically, these projects are very large and the number of containers needed are large.
+
+522
+00:38:08,001 --> 00:38:11,060
+With a flexible container, we can package tons of units
+
+523
+00:38:11,061 --> 00:38:12,060
+on pallets.
+
+524
+00:38:15,000 --> 00:38:17,940
+But how do you make a bag for a radioactive waste
+
+525
+00:38:17,941 --> 00:38:22,220
+that's just as effective as a rigid steel drum?
+
+526
+00:38:22,221 --> 00:38:25,680
+The secret lies in multiple layers of heavy plastic
+
+527
+00:38:25,681 --> 00:38:27,320
+and woven fiber materials.
+
+528
+00:38:30,060 --> 00:38:31,320
+We have two main materials.
+
+529
+00:38:31,321 --> 00:38:33,780
+This is a six-ounce woven polypropylene.
+
+530
+00:38:33,781 --> 00:38:35,660
+And we also have the felt material.
+
+531
+00:38:35,661 --> 00:38:36,980
+It's a non-woven.
+
+532
+00:38:36,981 --> 00:38:37,860
+It's a 12-ounce.
+
+533
+00:38:37,861 --> 00:38:38,776
+It's pretty thick.
+
+534
+00:38:38,777 --> 00:38:42,540
+Whatever going into the bag won't puncture through that 12-ounce material.
+
+535
+00:38:44,760 --> 00:38:48,880
+But it's not just the heavy-duty material that makes the bag such effective packages.
+
+536
+00:38:52,060 --> 00:38:55,540
+It's also the heavy thread, used to stitch the layers together.
+
+537
+00:38:57,440 --> 00:39:01,320
+Consumer thread is graded at a thickness between 100 to 200 denier,
+
+538
+00:39:02,080 --> 00:39:04,400
+the unit of measurement for the density of fibers.
+
+539
+00:39:05,880 --> 00:39:07,660
+PacTech thread is 30 times heavier.
+
+540
+00:39:07,860 --> 00:39:12,860
+And the sewing machine stitching it is truly industrial strength.
+
+541
+00:39:12,861 --> 00:39:18,860
+Don't get your hands near it because it'll sew anything that goes through it.
+
+542
+00:39:18,861 --> 00:39:25,860
+Each bag comes equipped with straps and zippers that make moving and using it easier.
+
+543
+00:39:25,861 --> 00:39:29,860
+Construction methods ensure that these features won't leak or rupture.
+
+544
+00:39:29,861 --> 00:39:36,860
+These straps are actually what is used to lift this bag up, full of debris, dirt, whatever they're putting into it.
+
+545
+00:39:36,861 --> 00:39:40,019
+into it. Once they get it, they will fill it up and they'll zip it.
+
+546
+00:39:40,020 --> 00:39:40,820
+Sometimes they'll
+
+547
+00:39:40,821 --> 00:39:44,958
+put dirt, sometimes they'll put crushed concrete.
+
+548
+00:39:44,959 --> 00:39:48,420
+There's no telling what they put in them.
+
+549
+00:39:48,421 --> 00:39:53,900
+To make sure the bags are hefty enough to handle radioactive waste, Pac-Tec runs tests
+
+550
+00:39:53,901 --> 00:39:55,784
+at its facility.
+
+551
+00:39:55,785 --> 00:40:04,260
+What they do is typically load those with heavy equipment into the bags,
+
+552
+00:40:04,261 --> 00:40:09,440
+the bag out of the loading frame that it's sitting in and load them onto flight bed trucks
+
+553
+00:40:09,441 --> 00:40:14,780
+or rail cars to be transported to disposal sites that are approved for low-level radioactive
+
+554
+00:40:14,781 --> 00:40:17,780
+soils and construction debris.
+
+555
+00:40:17,781 --> 00:40:22,900
+As packaging experts are solving environmental problems on Earth, they're also pitching
+
+556
+00:40:22,901 --> 00:40:25,740
+in as we reach further into space.
+
+557
+00:40:25,741 --> 00:40:33,440
+In 2010, engineers at NASA's Johnson Space Center in Houston faced a unique challenge.
+
+558
+00:40:33,441 --> 00:40:38,840
+They had to package a complex $10 million human-like robot for a rough ride into orbit
+
+559
+00:40:38,841 --> 00:40:44,420
+on the space shuttle.
+
+560
+00:40:44,421 --> 00:40:50,440
+Robonaut 2, R2 for short, was designed to help astronauts by performing routine menial
+
+561
+00:40:50,441 --> 00:40:54,620
+tasks on the International Space Station.
+
+562
+00:40:54,621 --> 00:40:57,820
+But first he had to get there, and safely.
+
+563
+00:40:57,821 --> 00:41:02,680
+What we're most concerned about during launch is the vibration environment.
+
+564
+00:41:02,681 --> 00:41:06,600
+We've all seen images of the crew in the cockpit of the shuttle during launch.
+
+565
+00:41:06,601 --> 00:41:08,320
+They get buffeted about quite a bit.
+
+566
+00:41:08,321 --> 00:41:10,240
+It's a very dynamic environment.
+
+567
+00:41:10,241 --> 00:41:15,040
+So it's something that we have to design for and take care of during that ascent period
+
+568
+00:41:15,041 --> 00:41:23,160
+of launch.
+
+569
+00:41:23,161 --> 00:41:28,680
+Since Robonaut 2 weighs a hefty 330 pounds, you might think he's sturdy enough to survive
+
+570
+00:41:28,681 --> 00:41:31,520
+launch without much help.
+
+571
+00:41:31,521 --> 00:41:36,360
+But he's also very fragile, particularly in his extremities.
+
+572
+00:41:36,361 --> 00:41:39,700
+R2's hands have been produced with unprecedented dexterity.
+
+573
+00:41:39,701 --> 00:41:45,360
+The sensing capabilities it has at the fingertips can detect on the order of grams, so you can
+
+574
+00:41:45,361 --> 00:41:50,980
+literally put a quarter on its finger and it would know that the quarter's there.
+
+575
+00:41:50,981 --> 00:41:56,100
+Could NASA's packaging experts preserve R2's fragile anatomy during the critical launch
+
+576
+00:41:56,101 --> 00:41:58,560
+phase?
+
+577
+00:41:58,561 --> 00:42:03,800
+Initial efforts were disappointing, including one that bundled R2 in a foam cushion container
+
+578
+00:42:03,801 --> 00:42:06,140
+that failed to provide enough protection.
+
+579
+00:42:09,240 --> 00:42:13,400
+The eventual solution came in the form of a box dubbed Sleeper,
+
+580
+00:42:13,960 --> 00:42:18,620
+short for Structural Launch Enclosure to Effectively Protect Robonaut.
+
+581
+00:42:20,200 --> 00:42:23,100
+NASA chronicled its construction with a time-lapse camera.
+
+582
+00:42:23,700 --> 00:42:26,820
+What they have on the table at the moment is the base plate of our Sleeper box.
+
+583
+00:42:26,821 --> 00:42:29,820
+We start out with just that one plate.
+
+584
+00:42:29,821 --> 00:42:33,820
+Struts were then positioned to support R2's back and shoulders.
+
+585
+00:42:33,821 --> 00:42:35,820
+At this point, he's fully attached and self-supported.
+
+586
+00:42:35,821 --> 00:42:37,820
+They attach the brackets to Robonaut.
+
+587
+00:42:37,821 --> 00:42:39,820
+That's the first step after he attaches to the base plate.
+
+588
+00:42:39,821 --> 00:42:41,820
+The next thing they do is they put on the rear panel.
+
+589
+00:42:45,820 --> 00:42:49,820
+Dense foam provided more support, followed by an aluminum frame.
+
+590
+00:42:49,821 --> 00:42:52,820
+Now you have a completely enclosed sleeper.
+
+591
+00:42:52,821 --> 00:42:54,820
+It's got foam inside. It's got foam outside.
+
+592
+00:42:54,821 --> 00:42:57,160
+It's got Velcro straps to hold the foam together.
+
+593
+00:42:57,161 --> 00:43:01,280
+So he is completely now enclosed and protected.
+
+594
+00:43:01,281 --> 00:43:04,460
+Since R2 is almost human, it's only fitting
+
+595
+00:43:04,461 --> 00:43:08,260
+that his position during launch will be flat on his back,
+
+596
+00:43:08,261 --> 00:43:11,080
+just like the astronauts on the flight deck.
+
+597
+00:43:11,081 --> 00:43:13,600
+And if you're wondering what this prized package can do
+
+598
+00:43:13,601 --> 00:43:18,140
+aboard the International Space Station, here's a sample.
+
+599
+00:43:18,141 --> 00:43:20,620
+I'm going to show you a case where the robot is working
+
+600
+00:43:20,621 --> 00:43:21,880
+with thermal blankets.
+
+601
+00:43:21,881 --> 00:43:23,560
+To be able to work with something like this,
+
+602
+00:43:23,561 --> 00:43:24,680
+you have to have the flexibility.
+
+603
+00:43:24,681 --> 00:43:27,640
+with, in this case, human-like hands.
+
+604
+00:43:27,740 --> 00:43:29,020
+After pulling back the space blanket,
+
+605
+00:43:29,120 --> 00:43:30,920
+which is something it would do to help the crew
+
+606
+00:43:31,020 --> 00:43:32,420
+in terms of setting up a work site,
+
+607
+00:43:32,520 --> 00:43:34,120
+we're also going to work with another flexible item,
+
+608
+00:43:34,220 --> 00:43:35,920
+something you don't normally see robots working with.
+
+609
+00:43:36,020 --> 00:43:37,320
+In this case, it's an envelope, and it's
+
+610
+00:43:37,420 --> 00:43:38,320
+going to hand it to me.
+
+611
+00:43:41,600 --> 00:43:44,140
+Thank you, Robonaut.
+
+612
+00:43:44,240 --> 00:43:46,100
+Chalk up the packing of Robonaut
+
+613
+00:43:46,200 --> 00:43:49,080
+among packaging's countless successes.
+
+614
+00:43:49,180 --> 00:43:53,640
+And to borrow a phrase from that world, as well as Hollywood's,
+
+615
+00:43:53,641 --> 00:43:55,640
+That's a wrap.
+

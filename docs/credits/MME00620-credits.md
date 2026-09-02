@@ -1,0 +1,46 @@
+# Credit Roll: Bread (2008)
+**Canonical Episode:** [`MME00620: Bread`](../episodes/MME00620.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 2008 A&E Television Networks`
+* **Production Company:** Actuality Productions, Inc., History
+* **Narrator:** Max Raphael
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Accountants** | Sheridan Liu, Diana Stolpe |
+| **Animated Stills** | Adam Goodwin |
+| **Animation** | i.e. effects |
+| **Assistant Editors** | Alexander Rubinow, Patrick Cashman |
+| **Associate Producer** | Andrew Fuller |
+| **Asst Post Coordinator** | Gaylen Kobayashi |
+| **Camera** | Keith Barefoot, Tomas Hejda, Lon Magdich, Michael McEachern, Terry Pratt, Andy Romaro, Morgan Schmidt-Feng |
+| **Clearance Coordinator** | Aaron Zober |
+| **Coordinator** | Maya Sykes |
+| **Created by** | Bruce Nash |
+| **Director of Clearance** | Jerianne Keaney |
+| **Director of Research** | Terrence Hartwell |
+| **Editor** | Paul Freedman |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Douglas Burton, Ray Day, Thomas Orozco, Charles Rohr, Rob Sumner, Paul Wustack |
+| **For** | History |
+| **For History / Executive Producers** | Michael Stiller, John Verhoff |
+| **For History / Programming Coordinators** | Kristen Burns, Adam Rosante |
+| **Music** | Alan Ett Music Group |
+| **Narrator** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Producer** | Tim Knauff |
+| **Produced by** | Actuality Productions, Inc. |
+| **Producer** | Bruce Nash, Bob Niemack |
+| **Production Controller** | Dani Eslin |
+| **Production Executive** | Paul Dzilvelis |
+| **Production Manager** | Shelia Collins |
+| **Sound Mixer** | Mark Jensen |
+| **Supervising Producer** | Ron Nelson |
+
+---
+[← Return to Episode Dossier](../episodes/MME00620.md)

@@ -1,0 +1,49 @@
+# Credit Roll: More Earthmovers. (1999)
+**Canonical Episode:** [`MME00107: More Earthmovers.`](../episodes/MME00107.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 2005, 1999 A&E Television Networks All Rights Reserved`
+* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Networks
+* **Narrator:** MAX RAPHAEL, JOHN KNAPP
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Accountants** | APRIL BROWN, SHERIDAN LIU, PAULETTE PANTOJA, DIANA STOLPE |
+| **Additional Animations by** | DOUG WHITNEY |
+| **Animated Stills by** | ADAM GOODWIN |
+| **Animation by** | RED GYPSY ANIMATION |
+| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
+| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
+| **Camera** | SCOTT BAYER, DEBORAH BROWN, RANDY BROWN, PAUL CIRIGLIANO, DAVE MARLIN, RICH RANEY, DWAINE SCOTT, TIMOTHY SOREL, LIZ WATKINS |
+| **Clearance Coordinators** | LAWRENCE GIVENS III, AARON ZOBER |
+| **Clearance Supervisors** | AMY TRAHANT, KATIE DEL CORE |
+| **Consulting Producer** | RON NELSON |
+| **Coordinators** | BONI OSMANI, BRAD SKILES |
+| **Created by** | BRUCE NASH |
+| **Director of Research** | ALLISON BOON |
+| **Edited by** | SEAN DASH, IAN HUTCHINSON |
+| **Executive Producer** | DON CAMBOU |
+| **Field Audio** | LARRY AYOTTE, KATHIE BROWN, JAMES CIRIGLIANO, KEVIN DONALDSON, DOUG FARRIS, MARK HOLLENSTEINER, GRADY JONES, ANGELA MORTIMORE, JIM SIBLEY |
+| **Footage Consultant** | TED TROLL |
+| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
+| **Line Producer** | PAUL DZILVELIS |
+| **Music by** | ALAN ETT MUSIC GROUP |
+| **Narrated by** | MAX RAPHAEL |
+| **Online Editor** | DOUG NOLAN |
+| **Post Assistants** | GAYLEN KOBAYASHI, KEVIN McCARTNEY, ROB HARRINGTON |
+| **Post Coordinator** | TERRENCE HARTWELL |
+| **Post Producers** | SCOTT BERKSON, TIM KNAUFF |
+| **Producer** | BRUCE NASH |
+| **Production Controller** | DANI ESLIN |
+| **Production Manager** | SHELIA COLLINS |
+| **Researchers** | EMILY LAU, ULDIS BALODIS, BRADLEY COMBEST, JOHN KNAPP |
+| **Sound Mixer** | ED THACKER |
+| **Voice Over Coordinator** | JOHN KNAPP |
+| **Written and Produced by** | MATTHEW P. HICKEY, W. SCOTT GOLDIE |
+
+---
+[← Return to Episode Dossier](../episodes/MME00107.md)

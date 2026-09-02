@@ -1,0 +1,2632 @@
+1
+00:00:00,001 --> 00:00:08,320
+It was a totally radical decade that realized the transition from the industrial age to the
+
+2
+00:00:08,321 --> 00:00:15,859
+information age. An era of awesome acronyms. CD, MTV, VCR, IBM, PC.
+
+3
+00:00:15,860 --> 00:00:18,560
+A technological paradise
+
+4
+00:00:18,561 --> 00:00:23,527
+dedicated to entertainment and ergonomics, courtesy of Silicon Valley.
+
+5
+00:00:23,528 --> 00:00:24,520
+Hold on tight,
+
+6
+00:00:24,521 --> 00:00:26,680
+because we're going back to that future.
+
+7
+00:00:28,420 --> 00:00:31,900
+Now, 80s Tech on Modern Marvels.
+
+8
+00:00:47,740 --> 00:00:51,160
+It was a decade that rocked our world in many ways.
+
+9
+00:00:54,520 --> 00:01:01,060
+A shuttle exploded, shocking America and grounding its space program.
+
+10
+00:01:02,020 --> 00:01:05,920
+A pandemic was identified, stirring social controversy.
+
+11
+00:01:07,100 --> 00:01:11,460
+Mr. Gorbachev, tear down this wall.
+
+12
+00:01:12,900 --> 00:01:16,920
+A wall came down, ending the 40-year Cold War.
+
+13
+00:01:17,440 --> 00:01:20,980
+And for the first time, the man of the year was a machine.
+
+14
+00:01:20,981 --> 00:01:26,480
+It was the 1980s, and despite some tumultuous events,
+
+15
+00:01:27,020 --> 00:01:29,940
+it's remembered as a time of optimism and prosperity.
+
+16
+00:01:30,840 --> 00:01:34,120
+Money seemed to be pouring out of the sky for a lot of people,
+
+17
+00:01:34,300 --> 00:01:38,300
+and for those who chose not to concentrate on the, quote-unquote,
+
+18
+00:01:38,420 --> 00:01:41,160
+badness that was going on both in the United States and abroad,
+
+19
+00:01:41,560 --> 00:01:42,500
+it was a fun time.
+
+20
+00:01:43,660 --> 00:01:48,060
+Yuppies, hackers, and valley girls created a new language and fashion,
+
+21
+00:01:48,061 --> 00:01:51,180
+as well as the consumer culture that naturally followed.
+
+22
+00:01:51,580 --> 00:01:56,780
+The 80s really kind of came out of that whole concept from the 70s of let's go, let's go, let's go, let's go.
+
+23
+00:01:56,900 --> 00:01:59,140
+It was a decade of attention deficit disorder.
+
+24
+00:01:59,700 --> 00:02:05,200
+It was the amount of product that was out there, and people just kept buying and buying and buying.
+
+25
+00:02:05,760 --> 00:02:08,820
+At their core, all these items had one thing in common,
+
+26
+00:02:09,120 --> 00:02:13,380
+one very small thing that was getting smaller all the time,
+
+27
+00:02:13,660 --> 00:02:17,460
+the integrated circuit or microchip or simply the chip.
+
+28
+00:02:17,461 --> 00:02:28,160
+Anything that human beings interacted with could contain a microprocessor and could become, at least in a tiny way, intelligent.
+
+29
+00:02:29,800 --> 00:02:37,900
+And so in the 80s, that process first became possible and ubiquitous because the chips got so cheap.
+
+30
+00:02:38,460 --> 00:02:41,220
+Let's rewind, because we learned how in the 80s.
+
+31
+00:02:42,560 --> 00:02:44,560
+What exactly is a chip?
+
+32
+00:02:44,561 --> 00:02:49,560
+A chip is a sliver of silicon, less than an inch square,
+
+33
+00:02:49,561 --> 00:02:54,560
+onto which engineers etch microscopic transistors and connecting wires.
+
+34
+00:02:54,561 --> 00:02:59,560
+The transistors act as switches that control the flow of currents in the wires.
+
+35
+00:02:59,561 --> 00:03:06,560
+The silicon acts as a semiconductor, which allows the transistors to process the binary code of computers,
+
+36
+00:03:06,561 --> 00:03:09,560
+on for one, off for zero.
+
+37
+00:03:09,561 --> 00:03:14,560
+The number of transistors on the chip determines power and cost.
+
+38
+00:03:14,561 --> 00:03:16,560
+This is a microchip.
+
+39
+00:03:16,561 --> 00:03:20,560
+It is a Z80 processor, very common in the 1980s.
+
+40
+00:03:20,561 --> 00:03:24,560
+It had maybe 10,000 transistors on it.
+
+41
+00:03:24,561 --> 00:03:29,560
+And to understand how revolutionary that is, you can look at this board.
+
+42
+00:03:29,561 --> 00:03:32,560
+This is what we used before there were microchips.
+
+43
+00:03:32,561 --> 00:03:35,560
+Each one of these little cans is a transistor.
+
+44
+00:03:35,561 --> 00:03:43,560
+What you've done is you've taken these big transistors and you've etched them on a tiny piece of silicon.
+
+45
+00:03:43,561 --> 00:03:51,560
+And essentially you've had machines mass produce thousands and thousands of them for pennies each.
+
+46
+00:03:53,560 --> 00:03:57,560
+This is a wafer. It's a 300 millimeter 12 inch wafer.
+
+47
+00:03:57,561 --> 00:04:01,560
+And if you look carefully you can see there are many squares on this wafer.
+
+48
+00:04:01,561 --> 00:04:04,560
+Each one of these is a fully integrated circuit,
+
+49
+00:04:04,561 --> 00:04:08,560
+and the cost of producing this wafer is constant.
+
+50
+00:04:08,561 --> 00:04:13,560
+In 1965, you could only place 10 or 15, 20 components
+
+51
+00:04:13,561 --> 00:04:16,560
+on a single piece of silicon.
+
+52
+00:04:16,561 --> 00:04:19,560
+Today, the number of transistors that can fit on a single chip
+
+53
+00:04:19,561 --> 00:04:22,560
+is in the billions.
+
+54
+00:04:22,561 --> 00:04:26,560
+The rate of innovation was predicted by Moore's Law.
+
+55
+00:04:26,561 --> 00:04:28,560
+Coined by one of the founders of Intel,
+
+56
+00:04:28,561 --> 00:04:37,780
+Moore's Law basically states that integrated circuit complexity will double with respect to minimum component cost about every 18 months.
+
+57
+00:04:38,000 --> 00:04:41,440
+So as performance doubles, price remains the same.
+
+58
+00:04:42,340 --> 00:04:47,200
+The magic of Moore's Law was the fact that it happened on a regularly scheduled basis.
+
+59
+00:04:47,201 --> 00:04:53,540
+So anybody who was trying to innovate, they would look and say, when will my product be able to come to the market?
+
+60
+00:04:54,020 --> 00:04:56,180
+Oh, it'll come in two and a half years.
+
+61
+00:04:56,181 --> 00:05:00,060
+What will the capabilities of the silicon chip be in two and a half years?
+
+62
+00:05:00,340 --> 00:05:04,060
+And they would design their innovation to intersect that line
+
+63
+00:05:04,061 --> 00:05:07,800
+rather than only innovating on what was available at the moment.
+
+64
+00:05:08,280 --> 00:05:10,635
+We're standing outside the Robert B.
+
+65
+00:05:10,636 --> 00:05:13,840
+Noyce headquarters building of Intel Corporation.
+
+66
+00:05:14,240 --> 00:05:18,900
+Intel was founded in 1968 by Robert Noyce, Gordon Moore, and Andrew Grove.
+
+67
+00:05:20,180 --> 00:05:22,540
+They started out building memory products
+
+68
+00:05:22,541 --> 00:05:26,140
+and along the way developed a product called the microprocessor.
+
+69
+00:05:26,540 --> 00:05:31,720
+The microprocessor eventually turned out to be the most important product for Intel.
+
+70
+00:05:32,640 --> 00:05:36,580
+Early computer products began hitting stores in the late 1970s.
+
+71
+00:05:36,980 --> 00:05:43,420
+In 1981, Intel's 8088 chip, containing 29,000 transistors,
+
+72
+00:05:43,860 --> 00:05:49,100
+was at the heart of an invention that would forever change the way humans interact with technology and business.
+
+73
+00:05:50,200 --> 00:05:51,380
+The IBM PC.
+
+74
+00:05:52,540 --> 00:05:59,860
+You had the TRS-80, the Commodore PET, and the Apple II.
+
+75
+00:05:59,861 --> 00:06:03,140
+And they were very popular in middle schools, high schools.
+
+76
+00:06:03,141 --> 00:06:05,540
+They didn't really get into business very much.
+
+77
+00:06:05,541 --> 00:06:09,460
+People had a hard time taking these early computers seriously.
+
+78
+00:06:09,461 --> 00:06:14,980
+It took the IBM PC for people to really look at the computer as something more than a toy.
+
+79
+00:06:14,981 --> 00:06:17,720
+Now it's got those magical three letters, IBM.
+
+80
+00:06:17,721 --> 00:06:19,300
+It must have something to do with business.
+
+81
+00:06:19,301 --> 00:06:21,380
+IBM doesn't do frivolous things.
+
+82
+00:06:22,540 --> 00:06:26,960
+personal computers and the microprocessors needed to power them spawned a giant industry.
+
+83
+00:06:28,120 --> 00:06:30,280
+And this industry already had a home.
+
+84
+00:06:30,900 --> 00:06:33,560
+The area was dubbed Silicon Valley.
+
+85
+00:06:34,880 --> 00:06:38,040
+Silicon for the semiconductor element that made the chip work,
+
+86
+00:06:38,640 --> 00:06:42,160
+and Valley for its location in Northern California's Santa Clara Valley.
+
+87
+00:06:43,340 --> 00:06:47,080
+New tech corporations sprouted up next to established tech organizations,
+
+88
+00:06:47,081 --> 00:06:52,660
+all growing exponentially in the 80s within an area of about 50 square miles.
+
+89
+00:07:17,080 --> 00:07:23,120
+Silicon Valley now boasts more millionaires per capita than any other region in the United States,
+
+90
+00:07:23,121 --> 00:07:27,220
+and almost half of its adult residents hold college degrees.
+
+91
+00:07:28,280 --> 00:07:32,140
+Silicon Valley today is thought of as more than just a geographic area.
+
+92
+00:07:32,460 --> 00:07:38,820
+It's also a state of mind, typified by the lifestyle, the work ethic, the interchange of ideas.
+
+93
+00:07:38,821 --> 00:07:44,300
+In the 80s, Silicon Valley was just starting into its real boom.
+
+94
+00:07:44,301 --> 00:07:54,840
+Back then, it was this whole robust environment where everybody worked tech, talked tech, and everybody was out to change the world.
+
+95
+00:07:54,980 --> 00:07:59,300
+It was like the gold rush times, but in the 80s instead of in 1849.
+
+96
+00:08:00,200 --> 00:08:07,820
+And everybody from around the world, whether they be from Pakistan or Peoria, they were all coming into Silicon Valley to try to make their mark.
+
+97
+00:08:08,160 --> 00:08:13,780
+And many of them did exactly that, especially a local kid named Steve Wozniak.
+
+98
+00:08:14,300 --> 00:08:22,640
+Steve Wozniak is one of my heroes because he really worked in a garage and made an object and then turned that object into a company.
+
+99
+00:08:23,080 --> 00:08:26,840
+And at the time, there was nothing like it.
+
+100
+00:08:27,140 --> 00:08:29,520
+It was a complete computer system.
+
+101
+00:08:30,100 --> 00:08:32,600
+Primitive, yes, but a complete system.
+
+102
+00:08:32,700 --> 00:08:35,980
+And then Steve Wozniak also wrote most of the software for us.
+
+103
+00:08:35,981 --> 00:08:38,000
+So he was a hardware designer.
+
+104
+00:08:38,500 --> 00:08:40,060
+He was a problem solver.
+
+105
+00:08:40,061 --> 00:08:43,820
+was a software developer, just kind of this incredible genius
+
+106
+00:08:43,821 --> 00:08:47,080
+sort of guy who got the whole Apple Corporation started.
+
+107
+00:08:48,160 --> 00:08:51,520
+Waz, as he's known, and his partner Steve Jobs,
+
+108
+00:08:51,940 --> 00:08:54,820
+worked day and night to make their computing dreams a reality.
+
+109
+00:08:55,640 --> 00:08:59,380
+The suburban ranch house behind us is the site of the quintessential
+
+110
+00:08:59,381 --> 00:09:03,640
+Valley Success Story. This is where Apple Computer was founded in 1976
+
+111
+00:09:03,641 --> 00:09:07,600
+by Steve Jobs and Steve Wozniak. They started off building
+
+112
+00:09:07,601 --> 00:09:09,960
+Apple One computer boards in Jobs' bedroom,
+
+113
+00:09:10,140 --> 00:09:11,480
+and they moved out to the garage
+
+114
+00:09:11,481 --> 00:09:13,200
+when they received their first production order.
+
+115
+00:09:15,040 --> 00:09:18,880
+That first order from a local retailer for 50 computers
+
+116
+00:09:18,881 --> 00:09:22,700
+launched Apple and the Steves into tech geek glory.
+
+117
+00:09:23,440 --> 00:09:27,160
+I was thinking, how do I build the absolute finest,
+
+118
+00:09:27,620 --> 00:09:28,940
+best computer of the day?
+
+119
+00:09:29,120 --> 00:09:32,640
+And Steve was thinking, how can we somehow build a product
+
+120
+00:09:32,641 --> 00:09:35,060
+that will reach the masses and reach people
+
+121
+00:09:35,061 --> 00:09:37,420
+that want to pay money to get access to a computer
+
+122
+00:09:37,421 --> 00:09:38,121
+and to use it.
+
+123
+00:09:38,122 --> 00:09:41,600
+And it was his idea to start a company and I was kind of like, well, I
+
+124
+00:09:41,601 --> 00:09:42,936
+don't know how to start a company.
+
+125
+00:09:42,937 --> 00:09:44,940
+I just want to, you know, design neat computers and
+
+126
+00:09:44,941 --> 00:09:45,775
+things like that.
+
+127
+00:09:45,776 --> 00:09:49,260
+So we kind of blended our insights, but we did have a goal that we were
+
+128
+00:09:49,261 --> 00:09:52,980
+going to build a product that was so low cost it would improve a lot of people's lives,
+
+129
+00:09:52,981 --> 00:09:54,980
+both at home and at work.
+
+130
+00:09:54,981 --> 00:10:00,167
+The Apple I evolved into the Apple II, which most people remember.
+
+131
+00:10:00,168 --> 00:10:01,660
+Then came the Lisa,
+
+132
+00:10:01,661 --> 00:10:03,453
+which most people don't remember.
+
+133
+00:10:03,454 --> 00:10:06,660
+It was Apple's first attempt at a graphical user interface.
+
+134
+00:10:06,661 --> 00:10:10,380
+interface, or GUI.
+
+135
+00:10:10,381 --> 00:10:14,080
+All the computers before had been command line driven.
+
+136
+00:10:14,081 --> 00:10:18,240
+Let's say you wanted to copy a file from one floppy disk to another floppy disk.
+
+137
+00:10:18,241 --> 00:10:22,560
+You would have to type in commands that specify the name of the floppy disk, which might be
+
+138
+00:10:22,561 --> 00:10:28,600
+something so cryptic as C colon, D colon, or E colon, or F colon, and you'd have to type
+
+139
+00:10:28,601 --> 00:10:33,900
+the name of a file, and you couldn't make one typing mistake.
+
+140
+00:10:33,901 --> 00:10:40,040
+The GUI allowed the user to work with representative icons rather than memorized lines of code.
+
+141
+00:10:40,041 --> 00:10:43,280
+When you're sitting at your desk thinking, how can I design a better computer, you're
+
+142
+00:10:43,281 --> 00:10:47,560
+staring at your desk and there's folders and you've got your desktop and there's garbage
+
+143
+00:10:47,561 --> 00:10:48,560
+can there.
+
+144
+00:10:48,561 --> 00:10:51,920
+I can open and close windows and things talk to each other.
+
+145
+00:10:51,921 --> 00:10:56,060
+I can move folders around and throw them in the garbage and rename them.
+
+146
+00:10:56,061 --> 00:11:01,260
+Despite this user-friendly application, the Lisa never took off because most people couldn't
+
+147
+00:11:01,261 --> 00:11:03,860
+afford to own one.
+
+148
+00:11:03,861 --> 00:11:07,000
+It took a megabyte of memory to do that kind of computer,
+
+149
+00:11:07,001 --> 00:11:10,240
+and a megabyte of memory back then just cost $5,000
+
+150
+00:11:10,241 --> 00:11:11,000
+retail.
+
+151
+00:11:11,001 --> 00:11:13,280
+So our computer sold for something like $10,000,
+
+152
+00:11:13,281 --> 00:11:15,300
+and it wouldn't sell very well.
+
+153
+00:11:15,301 --> 00:11:18,280
+But the price that's affordable has been almost the same
+
+154
+00:11:18,281 --> 00:11:22,880
+since our first Apple II was kind of in this $2,000-ish price
+
+155
+00:11:22,881 --> 00:11:24,080
+range.
+
+156
+00:11:24,081 --> 00:11:26,720
+Steve Jobs pushed his engineers to come up with a GUI
+
+157
+00:11:26,721 --> 00:11:29,780
+computer within this desired price range.
+
+158
+00:11:29,781 --> 00:11:30,840
+And they succeeded.
+
+159
+00:11:31,640 --> 00:11:34,860
+Here you have, in 1984, the Apple Macintosh.
+
+160
+00:11:34,980 --> 00:11:40,400
+This came out to a lot of fanfare as a different kind of computer, quote, for the rest of us.
+
+161
+00:11:40,401 --> 00:11:46,180
+So while the IBM PC was pitched at the sort of staid kind of boring businessman,
+
+162
+00:11:46,680 --> 00:11:49,280
+the Mac was for people who wanted to have fun, who were creative,
+
+163
+00:11:49,740 --> 00:11:53,960
+and who weren't computer experts but needed to do work with a computer quickly.
+
+164
+00:11:54,980 --> 00:11:59,660
+The Mac had a mouse and pulled down menus and picture icons.
+
+165
+00:11:59,780 --> 00:12:01,640
+that users could click and drag.
+
+166
+00:12:03,000 --> 00:12:05,300
+Soon, IBM models also had these features.
+
+167
+00:12:06,980 --> 00:12:10,000
+Learning to use computers went from daunting to doable.
+
+168
+00:12:11,900 --> 00:12:14,840
+In the 1980s, if you were using a personal computer,
+
+169
+00:12:15,040 --> 00:12:16,700
+you were a beginner by definition,
+
+170
+00:12:17,360 --> 00:12:18,820
+and people really needed guidance.
+
+171
+00:12:19,200 --> 00:12:21,520
+And the fact that there were magazines like this
+
+172
+00:12:21,521 --> 00:12:23,740
+and books and other sources of information
+
+173
+00:12:23,741 --> 00:12:26,120
+was really a sign that the revolution was here to stay.
+
+174
+00:12:26,121 --> 00:12:30,120
+Apple computers made Woz a multimillionaire.
+
+175
+00:12:30,121 --> 00:12:35,120
+He took his money and created one of the biggest musical events of the 1980s,
+
+176
+00:12:35,121 --> 00:12:37,120
+the US Festival.
+
+177
+00:12:37,121 --> 00:12:45,120
+We put $10 million into building an amphitheater and putting in various needed facilities and plumbing and whatever.
+
+178
+00:12:45,121 --> 00:12:47,120
+I even tested the porta potties myself.
+
+179
+00:12:47,121 --> 00:12:53,120
+I think the reason it's gone over so well is that we got more porta potties per person than any other event of its type ever.
+
+180
+00:12:53,121 --> 00:12:56,120
+And we put on the concert and it would run for three days.
+
+181
+00:12:56,121 --> 00:12:58,120
+We had technology tents.
+
+182
+00:12:58,121 --> 00:12:59,120
+This was in the early 80s.
+
+183
+00:12:59,121 --> 00:13:01,120
+And Apple had kicked off this big thing,
+
+184
+00:13:01,121 --> 00:13:04,120
+and now there were other companies building personal computers,
+
+185
+00:13:04,121 --> 00:13:06,120
+and it was becoming a part of our life.
+
+186
+00:13:09,120 --> 00:13:11,120
+And personal computers were just starting to connect
+
+187
+00:13:11,121 --> 00:13:15,120
+to musical instruments, and technology and music kind of go together,
+
+188
+00:13:15,121 --> 00:13:16,120
+and they always do.
+
+189
+00:13:18,120 --> 00:13:22,120
+So I had a technology fair, and companies basically showed off their products
+
+190
+00:13:22,121 --> 00:13:25,320
+products and what they could do, and you walked through and got
+
+191
+00:13:25,321 --> 00:13:27,800
+educated. The Aus Festival
+
+192
+00:13:27,801 --> 00:13:31,160
+foreshadowed the marriage of culture and technology, made
+
+193
+00:13:31,161 --> 00:13:36,760
+possible by the microprocessor. The chip transformed the way
+
+194
+00:13:36,761 --> 00:13:41,560
+people did business, and it also transformed the way people did
+
+195
+00:13:41,561 --> 00:13:45,240
+pleasure. After punching out for the day,
+
+196
+00:13:45,241 --> 00:13:49,320
+we found all kinds of techy new ways to spend our downtime in the
+
+197
+00:13:49,321 --> 00:13:54,020
+in the 80s.
+
+198
+00:13:54,021 --> 00:14:00,820
+When Apple went public in 1980, it generated more money than any other IPO since 1956,
+
+199
+00:14:00,821 --> 00:14:07,920
+nearly $1.8 billion, and created more instant millionaires than any company in history.
+
+200
+00:14:07,921 --> 00:14:14,160
+80s tech will return on Modern Marvels.
+
+201
+00:14:14,161 --> 00:14:18,980
+If you were lucky enough to be a kid in the 80s, you might remember spending your allowance
+
+202
+00:14:18,981 --> 00:14:22,880
+at the virtual nirvana called the arcade,
+
+203
+00:14:22,881 --> 00:14:26,620
+bound only by the limits of your imagination
+
+204
+00:14:26,621 --> 00:14:27,860
+and how many quarters you had.
+
+205
+00:14:32,620 --> 00:14:36,380
+Once just a place to play games like skee-ball and pinball,
+
+206
+00:14:36,381 --> 00:14:40,500
+arcades now boasted the newly popular video combat games,
+
+207
+00:14:40,501 --> 00:14:43,680
+where you could single-handedly save the world from aliens
+
+208
+00:14:43,681 --> 00:14:46,020
+by repeatedly pressing a button.
+
+209
+00:14:46,021 --> 00:14:48,940
+But even more popular were character-driven games,
+
+210
+00:14:48,941 --> 00:14:50,700
+like Donkey Kong and Pac-Man.
+
+211
+00:14:54,600 --> 00:14:57,700
+According to Pac-Man's creator, Toru Iwatani,
+
+212
+00:14:57,701 --> 00:15:00,180
+the inspiration for the character came from a pizza
+
+213
+00:15:00,181 --> 00:15:01,280
+with a slice missing.
+
+214
+00:15:06,940 --> 00:15:09,220
+If you long for the games of days gone by,
+
+215
+00:15:09,221 --> 00:15:12,760
+the vintage arcade superstore in Glendale, California
+
+216
+00:15:12,761 --> 00:15:14,480
+can resurrect your childhood
+
+217
+00:15:14,481 --> 00:15:17,100
+with one of their restored arcade games.
+
+218
+00:15:17,101 --> 00:15:18,660
+Came up 500 short.
+
+219
+00:15:18,661 --> 00:15:21,460
+Most of our customers are people that played these games when they were kids.
+
+220
+00:15:21,760 --> 00:15:22,940
+Some of our customers are collectors.
+
+221
+00:15:23,520 --> 00:15:25,580
+We have some customers that are celebrities.
+
+222
+00:15:26,300 --> 00:15:28,820
+Our most sought after products are the early 80s video games,
+
+223
+00:15:28,900 --> 00:15:32,320
+like Ms. Pac-Man, Galaga, Defender, Asteroids, Donkey Kong.
+
+224
+00:15:33,180 --> 00:15:35,300
+If we don't have something, we can find it for you.
+
+225
+00:15:35,960 --> 00:15:37,380
+We completely go through them.
+
+226
+00:15:37,500 --> 00:15:38,680
+We redo the control panels.
+
+227
+00:15:38,820 --> 00:15:43,000
+We put new monitor class on them, new marquees, new T-molding, repaint the sides.
+
+228
+00:15:43,600 --> 00:15:45,300
+A lot of times we put new side art on them.
+
+229
+00:15:45,420 --> 00:15:46,660
+We can put new monitors in them.
+
+230
+00:15:46,661 --> 00:15:51,100
+Of course, Gene personally tests each game before it's shipped out to the customer.
+
+231
+00:15:54,680 --> 00:16:00,680
+Inside, arcade games are fairly simple machines, made possible by our old friend, the microprocessor.
+
+232
+00:16:02,000 --> 00:16:05,480
+Power comes through the cord, goes in this transformer, there's some fuses.
+
+233
+00:16:05,800 --> 00:16:06,720
+This is the power supply.
+
+234
+00:16:07,380 --> 00:16:08,460
+Here's the computer board.
+
+235
+00:16:09,200 --> 00:16:10,580
+Here's the memory chips right here.
+
+236
+00:16:11,380 --> 00:16:12,400
+This is the microprocessor.
+
+237
+00:16:13,460 --> 00:16:15,460
+Here's the monitor that displays the image.
+
+238
+00:16:15,461 --> 00:16:21,080
+And the speakers up here, the control panel's in the front, and that's basically what there is in a video game.
+
+239
+00:16:21,960 --> 00:16:26,080
+Arcade game technology helped mesmerize an impressionable new generation.
+
+240
+00:16:28,580 --> 00:16:33,660
+And like many electronics in the 80s, the games became small and cheap enough to come home.
+
+241
+00:16:36,280 --> 00:16:40,980
+Sales of home video consoles like the Atari 2600 boomed.
+
+242
+00:16:40,981 --> 00:16:47,060
+There was some interest on the part of many parents in acquiring home games so that their
+
+243
+00:16:47,061 --> 00:16:51,060
+children would be playing at home as opposed to going out into this unknown space of the
+
+244
+00:16:51,061 --> 00:16:54,600
+arcade where the parents would lose control over their children.
+
+245
+00:16:54,601 --> 00:16:59,820
+From the kids' point of view, the games that were conversions of popular arcade games for
+
+246
+00:16:59,821 --> 00:17:06,500
+home consoles tended to be inferior, technically speaking.
+
+247
+00:17:06,501 --> 00:17:10,380
+Whether or not, home video games were a hit.
+
+248
+00:17:10,480 --> 00:17:13,580
+Atari founder Nolan Bushnell seemed to have discovered
+
+249
+00:17:13,680 --> 00:17:18,040
+a formula that worked, at least for a while.
+
+250
+00:17:18,140 --> 00:17:22,080
+A 2600 contains a very, very simple microprocessor
+
+251
+00:17:22,180 --> 00:17:24,460
+running at maybe 1 megahertz.
+
+252
+00:17:24,560 --> 00:17:26,860
+And that primitive nature allowed it
+
+253
+00:17:26,960 --> 00:17:29,760
+to handle only games that were two-dimensional
+
+254
+00:17:29,860 --> 00:17:32,300
+with just a few colors and a few little objects
+
+255
+00:17:32,400 --> 00:17:34,260
+that were moving on the screen.
+
+256
+00:17:34,360 --> 00:17:36,500
+Bushnell allowed an open culture of game development.
+
+257
+00:17:36,501 --> 00:17:40,860
+meaning that other companies could produce cartridges that were compatible with the 2600.
+
+258
+00:17:42,180 --> 00:17:44,920
+Some of the games weren't exactly top-notch.
+
+259
+00:17:45,480 --> 00:17:50,900
+As a result of that, Atari, in a way, kind of lost control of that platform.
+
+260
+00:17:51,220 --> 00:17:54,700
+That led in the early 1980s to kind of a collapse of the industry.
+
+261
+00:17:56,420 --> 00:18:01,080
+The game makers that followed, like Nintendo, learned from Atari's mistakes.
+
+262
+00:18:01,081 --> 00:18:07,080
+They patented and coded their consoles and insisted on strict quality control guidelines.
+
+263
+00:18:07,081 --> 00:18:11,080
+Despite some awesome innovations in video games and graphics over the years,
+
+264
+00:18:11,081 --> 00:18:16,080
+we still look back nostalgically on those games from the 80s.
+
+265
+00:18:18,080 --> 00:18:21,080
+If you poll, say, university students today,
+
+266
+00:18:21,081 --> 00:18:26,080
+more than 50% of them have played with an Atari 2600 still to this day.
+
+267
+00:18:26,081 --> 00:18:30,080
+For some reason, it's maintained its popularity.
+
+268
+00:18:30,081 --> 00:18:34,320
+The Atari 2600 nailed a certain kind of interactive play
+
+269
+00:18:34,420 --> 00:18:38,320
+experience that's possible on a very simple platform.
+
+270
+00:18:38,420 --> 00:18:40,820
+They're really timeless games.
+
+271
+00:18:40,920 --> 00:18:42,460
+If games weren't your thing, then you
+
+272
+00:18:42,560 --> 00:18:45,820
+may remember other television-related breakthroughs.
+
+273
+00:18:45,920 --> 00:18:51,240
+MTV, CNN, and HBO were a few of the specialty cable channels
+
+274
+00:18:51,340 --> 00:18:53,540
+making a big splash on the tube.
+
+275
+00:18:53,640 --> 00:18:56,580
+But you couldn't possibly watch everything.
+
+276
+00:18:56,680 --> 00:18:58,240
+Or could you?
+
+277
+00:18:58,340 --> 00:19:00,080
+Enter the VCR.
+
+278
+00:19:00,081 --> 00:19:06,920
+It allowed people to capture television and not have to schedule their lives around their favorite program anymore,
+
+279
+00:19:06,921 --> 00:19:12,020
+because now they could go and throw a tape in the machine, set the timer, record, and go out and do whatever they needed to do.
+
+280
+00:19:12,460 --> 00:19:15,460
+Despite the fact that the clock always seemed to think it was midnight,
+
+281
+00:19:16,300 --> 00:19:21,240
+VCRs enabled us to record a show at its regularly scheduled time and then watch it later.
+
+282
+00:19:22,160 --> 00:19:26,200
+And it sounds so simple today, but that was a big deal at that time.
+
+283
+00:19:26,380 --> 00:19:28,980
+The phenomena that resulted was this notion of time shifting.
+
+284
+00:19:28,981 --> 00:19:32,540
+Of course, the other thing that happened, people found the fast-forward button,
+
+285
+00:19:32,880 --> 00:19:36,620
+and then they could skip through commercials or parts of a program they weren't interested in.
+
+286
+00:19:37,320 --> 00:19:40,760
+Consumer VCRs were introduced in the mid-1970s,
+
+287
+00:19:40,860 --> 00:19:44,200
+but few households actually had one until the 1980s.
+
+288
+00:19:45,840 --> 00:19:50,840
+In 1990, over 200 million VCRs were sold worldwide.
+
+289
+00:19:51,700 --> 00:19:54,420
+When you were buying one in the early days, you had a big decision,
+
+290
+00:19:54,421 --> 00:19:59,560
+which was, did you want beta, which was Sony's tape format,
+
+291
+00:20:00,200 --> 00:20:02,920
+or VHS, which was from JVC,
+
+292
+00:20:03,280 --> 00:20:06,040
+and the two formats were completely incompatible.
+
+293
+00:20:07,160 --> 00:20:11,040
+The differences between the two technologies led to a format war,
+
+294
+00:20:11,260 --> 00:20:13,460
+and only one would be left standing.
+
+295
+00:20:14,680 --> 00:20:17,300
+Both machines essentially did the same things,
+
+296
+00:20:18,000 --> 00:20:20,740
+record and playback video after a cassette was inserted.
+
+297
+00:20:20,741 --> 00:20:28,340
+In record mode, a VCR uses a rotating recording head that makes contact with the tape inside a cassette.
+
+298
+00:20:29,860 --> 00:20:36,960
+As the tape moves past the spinning head, it records an analog signal of each frame as a diagonal stripe on the tape.
+
+299
+00:20:38,100 --> 00:20:41,680
+Another head records sound and tracking information on the edge of the tape.
+
+300
+00:20:43,200 --> 00:20:49,520
+In playback mode, the rotating head lines itself up with the diagonal stripes by using the tape's tracking codes.
+
+301
+00:20:50,740 --> 00:20:56,500
+As the head rotates over the stripe, it reads the information for the image and sends it to the TV.
+
+302
+00:20:57,660 --> 00:20:59,580
+A separate head reads the sound.
+
+303
+00:21:00,820 --> 00:21:04,380
+The similarity between Betamax and VHS ends there.
+
+304
+00:21:05,180 --> 00:21:11,540
+Betamax had slightly better quality because it used a larger head to read the tape.
+
+305
+00:21:11,541 --> 00:21:17,100
+And that larger head meant that they could put a little more detail on the tape and get a little better clarity.
+
+306
+00:21:17,101 --> 00:21:21,260
+and that limited the tape's maximum length to 60 minutes
+
+307
+00:21:21,261 --> 00:21:23,660
+when the Betamax decks first came out.
+
+308
+00:21:24,320 --> 00:21:27,780
+VHS was able to fit up to two hours on a tape,
+
+309
+00:21:28,300 --> 00:21:32,080
+and because most movies fit in a two-hour tape,
+
+310
+00:21:32,240 --> 00:21:36,220
+that gave JVC a big advantage in the home rental market.
+
+311
+00:21:36,740 --> 00:21:39,620
+Video rental stores popped up on every street corner,
+
+312
+00:21:39,820 --> 00:21:42,820
+and it soon became common to rent a movie on tape
+
+313
+00:21:42,821 --> 00:21:44,260
+and watch it from your couch.
+
+314
+00:21:44,261 --> 00:21:47,240
+unlike Sony
+
+315
+00:21:47,241 --> 00:21:50,820
+JVC saw an advantage to licensing their technology
+
+316
+00:21:50,821 --> 00:21:52,820
+to many other electronics manufacturers
+
+317
+00:21:52,821 --> 00:21:56,820
+the competition lowered VHS prices
+
+318
+00:21:56,821 --> 00:21:58,620
+attracting more and more buyers
+
+319
+00:21:58,621 --> 00:22:02,520
+and there were two other reasons
+
+320
+00:22:02,521 --> 00:22:04,380
+that VHS emerged victorious
+
+321
+00:22:04,381 --> 00:22:06,920
+VHS tapes were cheaper
+
+322
+00:22:06,921 --> 00:22:10,060
+and they were more widely accepted in the marketplace
+
+323
+00:22:10,061 --> 00:22:13,720
+and then there was a force that isn't talked about so much
+
+324
+00:22:13,721 --> 00:22:19,240
+And that's the fact that most video stores had the front part of the store where you rented Hollywood movies
+
+325
+00:22:19,241 --> 00:22:24,740
+and then a back room where you could rent other material of a pornographic nature.
+
+326
+00:22:25,240 --> 00:22:29,440
+This was the first time that people could actually watch these works of art in their own homes.
+
+327
+00:22:29,441 --> 00:22:33,160
+And that caused an explosion in that particular industry.
+
+328
+00:22:33,740 --> 00:22:36,740
+Since that industry pretty much standardized on VHS,
+
+329
+00:22:37,020 --> 00:22:41,060
+it drove a lot of what was happening in the front part of the video store as well.
+
+330
+00:22:41,061 --> 00:22:45,860
+It was the final nail in the coffin for the Betamax home VCR market.
+
+331
+00:22:48,300 --> 00:22:50,620
+80s technology helped us kick back at home.
+
+332
+00:22:51,400 --> 00:22:56,200
+But products like the Walkman and Cell Phone showed us that we could get tech to go.
+
+333
+00:22:58,620 --> 00:23:04,360
+By the end of 1981, about 100,000 Pac-Man arcade machines had been sold.
+
+334
+00:23:05,660 --> 00:23:08,140
+80s tech will return on Modern Marvels.
+
+335
+00:23:11,060 --> 00:23:17,580
+All the multifunctional items we hold so dear today have their roots in simpler products
+
+336
+00:23:17,581 --> 00:23:23,000
+that became ubiquitous in the 80s, many of which were created by Japanese electronics
+
+337
+00:23:23,001 --> 00:23:23,701
+firms.
+
+338
+00:23:24,260 --> 00:23:30,060
+In the 80s, you saw the advancement of a whole bunch of devices from Sony, from the Walkman
+
+339
+00:23:30,061 --> 00:23:34,060
+to the CD player, the VCR, the Handycam camcorder.
+
+340
+00:23:34,061 --> 00:23:41,740
+and these devices were paving new ground in terms of innovation, but also design.
+
+341
+00:23:42,080 --> 00:23:46,420
+And then we saw other Japanese-based electronics companies follow Sony.
+
+342
+00:23:46,540 --> 00:23:51,540
+In fact, there are one or two that have sort of referred to Sony as their R&D department.
+
+343
+00:23:52,220 --> 00:23:57,380
+Nowhere was Sony's leadership more pronounced than in the realm of music reproduction technology.
+
+344
+00:23:57,381 --> 00:23:59,660
+You started with home stereo systems.
+
+345
+00:23:59,661 --> 00:24:05,440
+Those were shrunk down to a boom box, which you would carry on your shoulder and blast everyone around you.
+
+346
+00:24:05,860 --> 00:24:10,740
+And then came this, the Sony Walkman, which was just a total revolution.
+
+347
+00:24:11,240 --> 00:24:17,620
+You could take your own songs, mix them onto a cassette, load them into a Walkman, stick it in your pocket.
+
+348
+00:24:18,080 --> 00:24:20,800
+The headphones made it sound incredibly good.
+
+349
+00:24:21,160 --> 00:24:27,720
+It was made possible by magnet technology that allowed them to shrink the headphones down to a very small, lightweight package.
+
+350
+00:24:27,721 --> 00:24:34,100
+Standard headphones of the time weighed about 14 ounces and covered the entire ear.
+
+351
+00:24:35,100 --> 00:24:45,240
+Sony was able to miniaturize headphones to about 1.5 ounces by replacing ferrite magnets with much stronger and smaller samarium cobalt magnets.
+
+352
+00:24:46,080 --> 00:24:51,500
+The Walkman sends an electrical signal carrying the sound wave that the headset must reproduce.
+
+353
+00:24:51,501 --> 00:24:55,100
+The signal creates a magnetic field in the coil that attracts
+
+354
+00:24:55,101 --> 00:24:57,500
+or repels the samarium cobalt magnet.
+
+355
+00:24:57,501 --> 00:25:01,500
+The coil's movement causes the headset's diaphragm to vibrate,
+
+356
+00:25:01,501 --> 00:25:04,500
+creating the sound waves that you hear.
+
+357
+00:25:04,501 --> 00:25:08,500
+It was the first time people could listen to music,
+
+358
+00:25:08,501 --> 00:25:12,500
+any music they wanted to, anywhere, anytime, anyplace,
+
+359
+00:25:12,501 --> 00:25:15,500
+frankly, without disturbing anybody else.
+
+360
+00:25:15,501 --> 00:25:19,500
+It seems very simple today, but at the time it was pretty revolutionary,
+
+361
+00:25:19,501 --> 00:25:22,500
+revolutionary, and it really did create a whole movement in
+
+362
+00:25:22,540 --> 00:25:27,500
+terms of lifestyles and behaviors and the way people
+
+363
+00:25:27,540 --> 00:25:29,500
+entertain themselves.
+
+364
+00:25:29,540 --> 00:25:32,420
+But you still had to carry around those clunky tapes
+
+365
+00:25:32,440 --> 00:25:35,420
+that degraded over time.
+
+366
+00:25:35,440 --> 00:25:39,460
+Even the Walkman couldn't save the ill-fated cassette,
+
+367
+00:25:39,480 --> 00:25:42,500
+because in 1982, Sony, with some help from Philips
+
+368
+00:25:42,520 --> 00:25:47,500
+Electronics, upped the ante yet again with the compact disc.
+
+369
+00:25:47,501 --> 00:25:53,000
+For decades we had wax and then vinyl discs and then we saw the 8-track tape
+
+370
+00:25:53,001 --> 00:25:57,000
+which was eventually obliterated by the cassette tape and as we come into the
+
+371
+00:25:57,001 --> 00:26:02,140
+beginning of the 1980s we're left with two common formats the cassette tape and
+
+372
+00:26:02,141 --> 00:26:09,660
+the vinyl LP. These were both replaced in the early 1980s by this the compact
+
+373
+00:26:09,661 --> 00:26:15,940
+disc. The CD is a total revolution and it's a revolution for two reasons. First
+
+374
+00:26:15,941 --> 00:26:20,700
+First of all, the information stored on the CD is stored digitally,
+
+375
+00:26:20,701 --> 00:26:25,280
+so that each time you play the CD, you're going to hear exactly the same sound.
+
+376
+00:26:25,281 --> 00:26:31,940
+And the second reason it's revolutionary is because so much information is stored on the CD compared to a vinyl record.
+
+377
+00:26:31,941 --> 00:26:38,580
+It was Sony who specified that the CD would be able to hold at least 74 minutes of music
+
+378
+00:26:38,581 --> 00:26:43,900
+because one of our top executives at the time, Noria Oga, was also a conductor
+
+379
+00:26:43,901 --> 00:26:46,140
+and also very interested in classical music
+
+380
+00:26:46,141 --> 00:26:48,460
+and wanted Beethoven's Ninth Symphony
+
+381
+00:26:48,461 --> 00:26:50,520
+to be able to fit on a CD.
+
+382
+00:26:52,780 --> 00:26:56,800
+A CD starts as a disc 1.2 millimeters thick,
+
+383
+00:26:56,801 --> 00:26:58,920
+made of clear polycarbonate plastic.
+
+384
+00:27:00,400 --> 00:27:04,380
+During manufacturing, billions of pits or scratches
+
+385
+00:27:04,381 --> 00:27:07,320
+are pressed into the plastic in a spiral string.
+
+386
+00:27:07,321 --> 00:27:09,240
+The disc is then coated on one side
+
+387
+00:27:09,241 --> 00:27:11,700
+with so-called super purity aluminum
+
+388
+00:27:11,701 --> 00:27:13,780
+to create a mirrored surface.
+
+389
+00:27:13,781 --> 00:27:17,880
+A film of lacquer protects the aluminum and is painted with a label for the CD.
+
+390
+00:27:19,280 --> 00:27:25,660
+A CD is read by focusing a semiconductor laser through the transparent bottom of the polycarbonate layer.
+
+391
+00:27:26,360 --> 00:27:32,340
+If you were able to grab a hold of that little string somehow and peel it off,
+
+392
+00:27:32,480 --> 00:27:38,080
+you'd find that it's a string half a micron thick, but three miles long.
+
+393
+00:27:38,081 --> 00:27:44,560
+The laser beam hits the CD, and it's going to find one of two things when it hits that surface.
+
+394
+00:27:44,720 --> 00:27:48,680
+It's either going to find actual mirror, and it's going to reflect back clearly,
+
+395
+00:27:48,920 --> 00:27:54,720
+or it's going to find one of those tiny scratches, and it's going to get diffused when it reflects off.
+
+396
+00:27:55,240 --> 00:28:01,340
+Now, the CD reader is able to tell the difference between actual mirror and scratch,
+
+397
+00:28:01,341 --> 00:28:08,640
+and from that decide what bits of information have been written onto that CD surface.
+
+398
+00:28:09,280 --> 00:28:11,360
+Of course, you needed a CD player.
+
+399
+00:28:12,660 --> 00:28:16,060
+Sony's CDP-101 was also introduced in 1982.
+
+400
+00:28:17,300 --> 00:28:22,160
+Now the trick was to convince consumers to repurchase all their music on the new format.
+
+401
+00:28:23,080 --> 00:28:28,380
+But as people heard it or visited with friends or somehow came in touch with CDs
+
+402
+00:28:28,381 --> 00:28:33,940
+and the quality of the music and the amazing fact that it would always have this great quality.
+
+403
+00:28:34,660 --> 00:28:36,680
+It got adopted very quickly.
+
+404
+00:28:37,400 --> 00:28:42,720
+Also, we came out later with the Discman, which was a CD-based version of the Walkman,
+
+405
+00:28:43,080 --> 00:28:47,140
+making CD a medium for portable music enjoyment.
+
+406
+00:28:47,680 --> 00:28:51,160
+While many used technology to retreat into their own worlds,
+
+407
+00:28:51,780 --> 00:28:53,840
+some embraced it for more social reasons.
+
+408
+00:28:53,841 --> 00:28:57,840
+The first commercial portable cellular telephone,
+
+409
+00:28:57,841 --> 00:29:03,840
+Motorola's Dynatac 8000X, showed us that we could stay in touch on the go.
+
+410
+00:29:03,841 --> 00:29:08,840
+You had the normal telephone, then you had the car phone,
+
+411
+00:29:08,841 --> 00:29:11,840
+and then you had the beginning of the portable cell phone.
+
+412
+00:29:11,841 --> 00:29:16,840
+And we look at this now as totally comical because it's so gigantic.
+
+413
+00:29:16,841 --> 00:29:19,840
+It weighs about two pounds, but this, at the time,
+
+414
+00:29:19,841 --> 00:29:22,840
+was possibly the coolest object that a person could own.
+
+415
+00:29:22,841 --> 00:29:27,740
+It cost about $4,000, maybe a dollar or two per minute to use it.
+
+416
+00:29:28,140 --> 00:29:31,560
+But it had no cord, and that's what mattered most.
+
+417
+00:29:32,100 --> 00:29:36,460
+Like modern cell phones, the brick was basically a sophisticated radio system.
+
+418
+00:29:37,580 --> 00:29:42,480
+When you dial a call, your phone sends a radio message to a cell phone tower nearby.
+
+419
+00:29:43,520 --> 00:29:46,080
+The tower sets up the call with two frequencies,
+
+420
+00:29:46,700 --> 00:29:50,960
+one frequency for your voice and the other for the voice of the person you're talking to.
+
+421
+00:29:51,760 --> 00:29:55,360
+This radio system can transmit on hundreds of different radio frequencies,
+
+422
+00:29:55,880 --> 00:30:00,800
+so each tower can handle dozens of calls at once without one call interfering with another.
+
+423
+00:30:01,480 --> 00:30:07,240
+If a phone is moving, its signal transfers from one tower to the next, spaced about two miles apart.
+
+424
+00:30:08,160 --> 00:30:11,300
+Cell phones eventually went from analog signals to digital,
+
+425
+00:30:11,840 --> 00:30:15,960
+and like everything else, they got smaller, faster, and thankfully cheaper.
+
+426
+00:30:17,260 --> 00:30:20,680
+Prompting that all-important 80s question, who are you going to call?
+
+427
+00:30:20,960 --> 00:30:24,960
+Pocket Tech was here to stay, and it proliferated into all
+
+428
+00:30:24,961 --> 00:30:27,960
+forms of entertainment and communication.
+
+429
+00:30:27,961 --> 00:30:29,960
+But was there a downside?
+
+430
+00:30:29,961 --> 00:30:32,960
+The more technology we get, the more it becomes embedded in
+
+431
+00:30:32,961 --> 00:30:35,960
+us, the more we're plugged into our iPods, the more we're on
+
+432
+00:30:35,961 --> 00:30:37,960
+the cell phone.
+
+433
+00:30:37,961 --> 00:30:40,960
+Maybe there's less and less reality in our lives and more
+
+434
+00:30:40,961 --> 00:30:44,960
+and more mediation of reality through these electronic devices.
+
+435
+00:30:44,961 --> 00:30:48,960
+The 80s got us digitized, downsized, and on the go.
+
+436
+00:30:48,961 --> 00:30:52,460
+When we had so many toys, we needed a cool car to transport
+
+437
+00:30:52,461 --> 00:30:53,460
+them all.
+
+438
+00:30:53,461 --> 00:30:57,460
+And in 1981, a visionary vehicle showed us a portal
+
+439
+00:30:57,461 --> 00:30:58,460
+to the future.
+
+440
+00:31:00,960 --> 00:31:03,460
+Sony's first personal cassette player was known initially
+
+441
+00:31:03,461 --> 00:31:05,960
+as the Walkman in Japan only.
+
+442
+00:31:05,961 --> 00:31:08,960
+It was originally called the Stowaway in England,
+
+443
+00:31:08,961 --> 00:31:13,960
+the Freestyle in Australia, and the Soundabout in the US.
+
+444
+00:31:13,961 --> 00:31:18,460
+80s Tech will return on Modern Marvels.
+
+445
+00:31:18,960 --> 00:31:32,960
+The DeLorean DMC-12 is still one of the coolest high-tech looking cars on the road,
+
+446
+00:31:34,620 --> 00:31:37,060
+and it hasn't been manufactured since 1983.
+
+447
+00:31:37,660 --> 00:31:43,440
+This is an exceptional car. It's a very sleek, sexy looking automobile.
+
+448
+00:31:43,441 --> 00:31:48,440
+It performs well.
+
+449
+00:31:48,441 --> 00:31:55,720
+When you drive it, you get looks from people that you don't get from any other car.
+
+450
+00:31:55,721 --> 00:31:59,940
+I don't know how many times I've had people with cell phones take pictures of this car.
+
+451
+00:31:59,941 --> 00:32:04,660
+The DeLorean was unlike any other car on the market in the 80s.
+
+452
+00:32:04,661 --> 00:32:10,000
+The oil crisis of the 70s prompted many automakers to start building smaller, fuel efficient econo
+
+453
+00:32:10,001 --> 00:32:13,832
+boxes that some believe left style at the curb.
+
+454
+00:32:13,833 --> 00:32:17,500
+But the DeLorean was first class all the way.
+
+455
+00:32:18,700 --> 00:32:24,520
+The brainchild of noted auto designer John DeLorean, the DMC-12 was developed for the U.S.
+
+456
+00:32:24,521 --> 00:32:28,660
+market, but for financial reasons it was produced in Northern Ireland.
+
+457
+00:32:29,680 --> 00:32:34,800
+The project was funded by a series of small investors, people like Johnny Carson, Sammy
+
+458
+00:32:34,801 --> 00:32:36,160
+Davis Jr., some of John's friends.
+
+459
+00:32:36,161 --> 00:32:38,280
+The big money came from the actual British government
+
+460
+00:32:38,281 --> 00:32:40,260
+to the tune of about $150 million.
+
+461
+00:32:42,360 --> 00:32:45,200
+By building the car in Belfast, Northern Ireland,
+
+462
+00:32:45,600 --> 00:32:49,860
+they had hoped to give people jobs where unemployment was at the rate of about 30%, 40%.
+
+463
+00:32:49,861 --> 00:32:53,880
+And with all the sectarian problems in Northern Ireland about that time,
+
+464
+00:32:54,100 --> 00:32:57,120
+people had jobs and they're less likely to be causing trouble in the streets.
+
+465
+00:32:57,720 --> 00:33:01,580
+When the car hit showrooms in 1981, shoppers were amazed.
+
+466
+00:33:02,760 --> 00:33:04,400
+Initial sales were fantastic.
+
+467
+00:33:04,401 --> 00:33:08,340
+Cars were flying off the dealership lot because everybody wanted to be the first on their block.
+
+468
+00:33:08,660 --> 00:33:11,900
+And then it wasn't unusual to see them selling for as much as $10,000 over stickers.
+
+469
+00:33:12,540 --> 00:33:17,880
+The car's space-age design and virtual celebrity status ensured that it lived up to its slogan.
+
+470
+00:33:18,940 --> 00:33:22,580
+One of the taglines in all the advertising for the DeLorean was,
+
+471
+00:33:22,740 --> 00:33:23,440
+Live the Dream.
+
+472
+00:33:24,720 --> 00:33:27,400
+And to a lot of people, that's what John DeLorean himself was doing.
+
+473
+00:33:27,560 --> 00:33:32,000
+He was a self-made man, married a supermodel, now had his own car company.
+
+474
+00:33:32,001 --> 00:33:34,300
+The whole idea was to live this dream.
+
+475
+00:33:34,400 --> 00:33:36,900
+But the dream was short-lived.
+
+476
+00:33:37,340 --> 00:33:39,640
+The company hit hard times in 1982.
+
+477
+00:33:40,660 --> 00:33:42,660
+You can't have any conversation about the DeLorean
+
+478
+00:33:42,661 --> 00:33:44,240
+without talking about some of the controversy.
+
+479
+00:33:44,600 --> 00:33:45,640
+The car was underpowered.
+
+480
+00:33:46,280 --> 00:33:47,540
+The car was overpriced.
+
+481
+00:33:48,020 --> 00:33:49,540
+Some people didn't like the styling.
+
+482
+00:33:50,220 --> 00:33:53,220
+Mirroring its maker, the DeLorean had a flashy exterior,
+
+483
+00:33:53,800 --> 00:33:55,280
+but people questioned what was underneath.
+
+484
+00:33:56,540 --> 00:33:57,760
+Cars weren't selling.
+
+485
+00:33:58,280 --> 00:34:00,800
+Interest rates were very high for cars, things like that.
+
+486
+00:34:01,220 --> 00:34:02,820
+And John DeLorean needed money.
+
+487
+00:34:02,821 --> 00:34:13,060
+He was persuaded by one of his neighbors to get involved in a financial deal that he later found out involved the importation and trafficking of cocaine.
+
+488
+00:34:14,080 --> 00:34:16,480
+As most people now know, this was a sting operation.
+
+489
+00:34:17,260 --> 00:34:23,400
+John DeLorean was arrested in October of 1982, finally went to trial in 1984 where he was acquitted on all charges.
+
+490
+00:34:24,300 --> 00:34:28,280
+I never, ever believed I could be brought into a situation like this.
+
+491
+00:34:28,281 --> 00:34:30,760
+Of course, when you're arrested, it's on page one.
+
+492
+00:34:30,761 --> 00:34:33,820
+and when you're found not guilty later on, it's on page six.
+
+493
+00:34:34,260 --> 00:34:35,760
+I still have people to this day say,
+
+494
+00:34:35,960 --> 00:34:37,440
+is John DeLorean still in jail?
+
+495
+00:34:38,060 --> 00:34:39,860
+Not realizing that he never did any time.
+
+496
+00:34:40,400 --> 00:34:41,200
+2,000 pounds.
+
+497
+00:34:41,500 --> 00:34:43,660
+A 2,000, 250, 250, 250.
+
+498
+00:34:43,661 --> 00:34:45,960
+His company went under in 1983.
+
+499
+00:34:46,480 --> 00:34:47,580
+Sold at 6,250.
+
+500
+00:34:50,260 --> 00:34:52,960
+But just because they no longer mass-produced DeLoreans
+
+501
+00:34:52,961 --> 00:34:56,140
+doesn't mean you can't get one that's brand new-ish.
+
+502
+00:34:56,141 --> 00:35:05,460
+The DeLorean Motor Company in Houston, Texas, can build you one of these heavy metal babies out of never-been-used components.
+
+503
+00:35:06,540 --> 00:35:13,980
+A completely remanufactured car is one that we'll strip completely to a bare frame and then we'll rebuild using all brand-new parts.
+
+504
+00:35:14,300 --> 00:35:16,760
+So essentially you're getting a brand-new 25-year-old car.
+
+505
+00:35:17,760 --> 00:35:26,100
+These unused parts, engines, transmissions, exterior panels and all, were sent here from the factory when production halted in 1983.
+
+506
+00:35:26,140 --> 00:35:32,140
+They also refurbish used DeLoreans to their original luster.
+
+507
+00:35:32,141 --> 00:35:36,140
+It's not unusual for a car to come to us in just completely run
+
+508
+00:35:36,141 --> 00:35:39,140
+down, worn out condition and for us to turn it into a car like
+
+509
+00:35:39,141 --> 00:35:42,140
+this one here. We'll refresh the interiors, we'll rebuild
+
+510
+00:35:42,141 --> 00:35:45,140
+drivetrains, we'll do body work, whatever it takes to make the
+
+511
+00:35:45,141 --> 00:35:49,140
+car look as good as it did back in 1981.
+
+512
+00:35:49,141 --> 00:35:51,140
+And the price tag?
+
+513
+00:35:51,141 --> 00:35:54,140
+A good rule of thumb is it takes $25,000 to have a good
+
+514
+00:35:54,141 --> 00:35:56,440
+to have a good running, reliable, daily driver,
+
+515
+00:35:56,540 --> 00:35:57,480
+nice-looking DeLorean.
+
+516
+00:35:57,700 --> 00:36:00,260
+It doesn't matter if you buy one for $15,000 and you put $10,000 in it
+
+517
+00:36:00,261 --> 00:36:02,260
+or you buy one for $25,000 that's already finished.
+
+518
+00:36:02,480 --> 00:36:07,020
+A good pre-owned car is therefore going to run somewhere in the mid-20s.
+
+519
+00:36:08,460 --> 00:36:10,560
+But if you want one made with new parts,
+
+520
+00:36:10,920 --> 00:36:13,080
+prepared to pay somewhere in the low 40s.
+
+521
+00:36:15,040 --> 00:36:18,220
+Even stripped down, the DeLorean doesn't look like most other cars.
+
+522
+00:36:18,780 --> 00:36:21,360
+Here we have one of the DeLorean chassis in its bare form.
+
+523
+00:36:21,361 --> 00:36:26,700
+In the front, very well protected from a front or from a side impact, we have the fuel cell,
+
+524
+00:36:26,940 --> 00:36:31,340
+which because it's so well protected, it really plays into the safety theme that John DeLorean was known for.
+
+525
+00:36:32,100 --> 00:36:37,820
+The chassis is kind of unique in that it's a mild steel coated with epoxy, and that's to keep it from rustic.
+
+526
+00:36:39,620 --> 00:36:45,520
+Under the hood is a rear-mounted 2.8-liter Peugeot Renault all-aluminum engine.
+
+527
+00:36:45,521 --> 00:36:49,480
+Today, there's also an optional performance package upgrade,
+
+528
+00:36:49,900 --> 00:36:51,680
+which includes a new exhaust system,
+
+529
+00:36:54,480 --> 00:36:58,000
+patterns, dual catalytic converters, and a new muffler.
+
+530
+00:36:58,920 --> 00:37:00,420
+And when you put pedal to the metal?
+
+531
+00:37:01,580 --> 00:37:03,980
+The Bosch KJetronic mechanical fuel injection
+
+532
+00:37:03,981 --> 00:37:07,240
+is what actually meters the flow of fuel from the fuel tank
+
+533
+00:37:07,241 --> 00:37:09,720
+into the combustion chamber through the fuel injectors.
+
+534
+00:37:10,200 --> 00:37:13,500
+A lot of the cars from the late 70s, early 80s all had carburetors.
+
+535
+00:37:13,501 --> 00:37:16,840
+This is one of the earliest cars to use a form of fuel injection.
+
+536
+00:37:17,540 --> 00:37:20,440
+On top of the chassis sits the fiberglass underbody,
+
+537
+00:37:20,860 --> 00:37:23,200
+onto which the stainless steel panels are attached.
+
+538
+00:37:24,540 --> 00:37:27,360
+Unlike most cars where you have body panels welded to the car,
+
+539
+00:37:27,720 --> 00:37:29,760
+on a DeLorean, all the panels bolt on.
+
+540
+00:37:29,920 --> 00:37:32,040
+So it's real simple to do any kind of panel replacement.
+
+541
+00:37:32,220 --> 00:37:35,540
+You can bolt the panels on and you can bolt the panels off and you're ready to go.
+
+542
+00:37:36,320 --> 00:37:40,140
+It's safe to say you won't see too many other stainless steel cars on the road.
+
+543
+00:37:40,141 --> 00:37:43,420
+because this metal is about five times more expensive
+
+544
+00:37:43,421 --> 00:37:46,520
+than the more common mild steel used for most cars.
+
+545
+00:37:47,280 --> 00:37:49,680
+Once you're done admiring the unusual exterior,
+
+546
+00:37:50,480 --> 00:37:52,140
+grab a door handle and flip her open.
+
+547
+00:37:54,660 --> 00:37:56,580
+One of the unique things about the DeLorean
+
+548
+00:37:56,581 --> 00:38:00,620
+is obviously the gold-wing doors, which open upward.
+
+549
+00:38:00,740 --> 00:38:02,140
+They need 14 inches of clearance,
+
+550
+00:38:02,240 --> 00:38:03,660
+which is less than a regular automobile.
+
+551
+00:38:04,720 --> 00:38:07,840
+They're operated by a torsion bar, which sits inside here.
+
+552
+00:38:07,920 --> 00:38:09,200
+It's made out of stainless steel.
+
+553
+00:38:09,800 --> 00:38:12,920
+It's dipped in 350 degrees below zero liquid nitrogen
+
+554
+00:38:12,921 --> 00:38:15,980
+and counter-turned 10 times each way.
+
+555
+00:38:16,760 --> 00:38:19,320
+And then it is taken out, which makes it actually become a spring.
+
+556
+00:38:20,000 --> 00:38:21,600
+Then it is put back in the car.
+
+557
+00:38:21,780 --> 00:38:25,080
+This device here is a rod that allows the door from opening either too fast
+
+558
+00:38:25,081 --> 00:38:27,080
+and gives it support when you close it.
+
+559
+00:38:27,840 --> 00:38:30,120
+The DeLorean was truly unique for its time,
+
+560
+00:38:30,121 --> 00:38:35,220
+from concept and design to the controversial circumstances surrounding its creator.
+
+561
+00:38:35,221 --> 00:38:40,020
+John DeLorean died after suffering a stroke in March 2005,
+
+562
+00:38:40,800 --> 00:38:43,340
+reportedly while sketching designs for a new car.
+
+563
+00:38:44,700 --> 00:38:46,520
+But his legacy lives on.
+
+564
+00:38:47,120 --> 00:38:50,220
+This 80s fun mobile is still a timeless hot seller.
+
+565
+00:38:52,440 --> 00:38:55,200
+In the 80s, looking rad was all the rage.
+
+566
+00:38:55,700 --> 00:38:59,020
+But we were also stoked about testing our brains with some way
+
+567
+00:38:59,021 --> 00:39:00,320
+cool puzzles and games.
+
+568
+00:39:00,321 --> 00:39:08,160
+The DeLorean was originally called the DMC-12 because it was supposed to retail for $12,000.
+
+569
+00:39:08,940 --> 00:39:13,920
+However, inflation and higher-than-expected production costs led to an eventual price
+
+570
+00:39:13,921 --> 00:39:17,360
+of $25,000 and the new name.
+
+571
+00:39:18,600 --> 00:39:21,100
+80s Tech will return on Modern Marvels.
+
+572
+00:39:21,101 --> 00:39:30,640
+80s technologies affected almost every part of the way we lived, worked, and played.
+
+573
+00:39:31,680 --> 00:39:36,040
+But products didn't have to be super high-tech to grab consumers' attention.
+
+574
+00:39:38,140 --> 00:39:43,360
+Rubik's Cube, the famous six-sided mechanical puzzle, was released in May 1980.
+
+575
+00:39:44,480 --> 00:39:48,660
+By 1982, more than 100 million had been sold worldwide.
+
+576
+00:39:48,661 --> 00:39:52,660
+The object is to rotate the various segment rows until all
+
+577
+00:39:52,661 --> 00:39:54,660
+sides of the cube are a solid color.
+
+578
+00:39:56,660 --> 00:39:58,660
+And no cheating by peeling off the stickers.
+
+579
+00:40:00,660 --> 00:40:04,660
+Invented by Erno Rubic, a Hungarian sculptor and professor
+
+580
+00:40:04,661 --> 00:40:08,660
+of architecture, the cube has about 43 quintillion different
+
+581
+00:40:08,661 --> 00:40:09,660
+configurations.
+
+582
+00:40:12,660 --> 00:40:15,660
+But it's advertised as having only billions because the
+
+583
+00:40:15,661 --> 00:40:17,660
+concept of quintillion is too difficult to comprehend.
+
+584
+00:40:17,661 --> 00:40:19,420
+difficult to comprehend.
+
+585
+00:40:19,421 --> 00:40:22,260
+What's so interesting about this puzzle is that it's so
+
+586
+00:40:22,261 --> 00:40:26,060
+low-tech, and if we can just take a moment to get inside of
+
+587
+00:40:26,061 --> 00:40:29,480
+this, we can see exactly how it was put together.
+
+588
+00:40:29,481 --> 00:40:32,840
+The cube uses a central armature with six arms and six
+
+589
+00:40:32,841 --> 00:40:34,980
+affixed squares.
+
+590
+00:40:34,981 --> 00:40:37,840
+20 carefully shaped cubes interlock with one another in
+
+591
+00:40:37,841 --> 00:40:42,320
+the armature to form the six faces of the cube.
+
+592
+00:40:42,321 --> 00:40:46,480
+This allows the sections to rotate independently.
+
+593
+00:40:46,481 --> 00:40:49,180
+Despite the vast number of possible positions,
+
+594
+00:40:49,181 --> 00:40:52,000
+some algorithms have revealed 22 moves
+
+595
+00:40:52,001 --> 00:40:54,400
+as the fewest necessary to solve a jumbled cube.
+
+596
+00:40:57,000 --> 00:40:59,800
+And if you're a Rubik's Cube competition champion,
+
+597
+00:40:59,801 --> 00:41:01,860
+you can do it in about 15 seconds.
+
+598
+00:41:06,760 --> 00:41:08,160
+Or even blindfolded.
+
+599
+00:41:08,161 --> 00:41:10,160
+Go away!
+
+600
+00:41:10,161 --> 00:41:11,160
+Go away!
+
+601
+00:41:11,161 --> 00:41:13,160
+Go away!
+
+602
+00:41:13,161 --> 00:41:17,160
+To date, retailers have sold 300 million Rubik's Cubes
+
+603
+00:41:17,161 --> 00:41:21,160
+and imitations, reportedly making it the world's top-selling
+
+604
+00:41:21,161 --> 00:41:22,160
+toy.
+
+605
+00:41:22,161 --> 00:41:24,160
+My grandmother had a Rubik's Cube in her house,
+
+606
+00:41:24,161 --> 00:41:26,160
+and I didn't ask her to get it for me.
+
+607
+00:41:26,161 --> 00:41:30,160
+Everyone became fascinated by putting these colored patterns
+
+608
+00:41:30,161 --> 00:41:32,160
+back together.
+
+609
+00:41:32,161 --> 00:41:34,160
+Why, I don't know.
+
+610
+00:41:34,161 --> 00:41:37,160
+But there is an attraction that people are looking for.
+
+611
+00:41:37,161 --> 00:41:40,160
+that people have with consistently testing themselves.
+
+612
+00:41:43,160 --> 00:41:47,160
+Another 80s toy that tested our skills was the Simon.
+
+613
+00:41:48,160 --> 00:41:51,160
+The Simon was like a lot of the games in the 1980s,
+
+614
+00:41:51,161 --> 00:41:54,160
+in that it was really primitive, but it was also really addictive.
+
+615
+00:41:55,160 --> 00:41:57,160
+It was an electronic memory game,
+
+616
+00:41:57,161 --> 00:42:00,160
+and it would give you a series of flashing lights and tones,
+
+617
+00:42:00,161 --> 00:42:03,160
+and you needed to be able to repeat the pattern.
+
+618
+00:42:03,161 --> 00:42:07,160
+Invented by electronic games guru Ralph Baer,
+
+619
+00:42:07,161 --> 00:42:10,160
+it was based on the children's game Simon Says.
+
+620
+00:42:10,161 --> 00:42:13,160
+Simon's a computer. Simon has a brain.
+
+621
+00:42:13,161 --> 00:42:18,160
+You either do what Simon says or else go down the drain.
+
+622
+00:42:18,161 --> 00:42:20,160
+Not only did you have to test your memory,
+
+623
+00:42:20,161 --> 00:42:22,160
+you had to test your speed and agility.
+
+624
+00:42:22,161 --> 00:42:25,160
+Because the farther along in Simon that you went
+
+625
+00:42:25,161 --> 00:42:28,160
+and the higher levels you got, the faster it went.
+
+626
+00:42:28,161 --> 00:42:32,160
+What was revolutionary about it was that it was one of the very first
+
+627
+00:42:32,161 --> 00:42:36,980
+It was one of the very first electronic games that had a microprocessor built into it and
+
+628
+00:42:36,981 --> 00:42:39,280
+that normal people could afford.
+
+629
+00:42:39,281 --> 00:42:44,660
+So that microprocessor had to remember the sequence that had already been displayed and
+
+630
+00:42:44,661 --> 00:42:50,880
+then generate a new random number that would tell it what to display for the next element
+
+631
+00:42:50,881 --> 00:42:51,880
+of the sequence.
+
+632
+00:42:51,881 --> 00:42:55,580
+You can still buy a Simon today.
+
+633
+00:42:55,581 --> 00:43:00,480
+Just like so many other devices that originated in the 80s, it's just new and improved and
+
+634
+00:43:00,481 --> 00:43:02,680
+Smaller.
+
+635
+00:43:02,681 --> 00:43:06,360
+Everything we have in our home, the advances that we've had
+
+636
+00:43:06,361 --> 00:43:10,360
+in a home electronics, all began with devices that became
+
+637
+00:43:10,361 --> 00:43:14,360
+standard in the homes of the 1980s.
+
+638
+00:43:14,361 --> 00:43:17,640
+People don't really realize that the 80s really were as long
+
+639
+00:43:17,641 --> 00:43:21,740
+ago as they were, simply because the devices that we had then,
+
+640
+00:43:21,741 --> 00:43:22,700
+we're still using now.
+
+641
+00:43:22,701 --> 00:43:24,340
+We're just making them better.
+
+642
+00:43:24,341 --> 00:43:27,780
+In December of 2005, PC World published an article called
+
+643
+00:43:27,781 --> 00:43:30,400
+the 50 greatest gadgets of the past 50 years.
+
+644
+00:43:31,060 --> 00:43:33,540
+And it's one of the most popular things we ever did
+
+645
+00:43:33,541 --> 00:43:36,220
+because people are so passionate and nostalgic
+
+646
+00:43:36,221 --> 00:43:37,780
+about the gadgets in their life.
+
+647
+00:43:38,340 --> 00:43:40,040
+And a lot of the ones that they like best
+
+648
+00:43:40,041 --> 00:43:42,540
+are the ones that were really popular in the 1980s,
+
+649
+00:43:42,940 --> 00:43:46,240
+such as the Simon, which was 38 on our list,
+
+650
+00:43:46,360 --> 00:43:48,640
+one of the first popular electronic games,
+
+651
+00:43:49,160 --> 00:43:52,860
+as well as Motorola's original Dynatac cell phone,
+
+652
+00:43:52,861 --> 00:43:55,200
+which was number 35 on the list,
+
+653
+00:43:55,201 --> 00:43:59,200
+And the number one item on the entire list was Sony's original Walkman,
+
+654
+00:43:59,940 --> 00:44:03,580
+just because it's the device that started the personal music revolution.
+
+655
+00:44:04,860 --> 00:44:10,180
+Devices popularized in the 80s spawned a lot of revolutions.
+
+656
+00:44:11,140 --> 00:44:16,520
+And as engineering innovation continues its symbiosis with ever-increasing computing capacity,
+
+657
+00:44:17,020 --> 00:44:20,380
+who knows what those devices will morph into next.
+
+658
+00:44:20,640 --> 00:44:22,880
+But it's sure to be totally awesome.
+

@@ -1,0 +1,2728 @@
+1
+00:00:00,001 --> 00:00:07,300
+We take our walls for granted, but just under their surface,
+
+2
+00:00:07,301 --> 00:00:13,240
+inside lies a secret world you have to see to believe.
+
+3
+00:00:13,241 --> 00:00:17,240
+It's a highway for technology that might be one spark away
+
+4
+00:00:17,241 --> 00:00:22,160
+from disaster, a haven for the hideous.
+
+5
+00:00:22,161 --> 00:00:25,800
+The wall is the highway for bed bugs to move from one room
+
+6
+00:00:25,801 --> 00:00:28,160
+to another. Discover the secret
+
+7
+00:00:28,161 --> 00:00:32,960
+of this wall-hugging robot, and the drama that played out
+
+8
+00:00:32,961 --> 00:00:35,660
+in this hidden chamber on Alcatraz.
+
+9
+00:00:35,661 --> 00:00:40,400
+From here, they went up pretty much just like a jungle gym.
+
+10
+00:00:40,401 --> 00:00:41,400
+Fire!
+
+11
+00:00:43,400 --> 00:00:47,920
+Now, Inside Your Walls on Modern Marvels.
+
+12
+00:00:58,160 --> 00:01:03,160
+A few walls around the globe have earned an enduring place
+
+13
+00:01:03,260 --> 00:01:08,160
+in history, like the Great Wall of China, the Wailing Wall
+
+14
+00:01:08,260 --> 00:01:15,320
+in Jerusalem, the Berlin Wall, even Fenway Park's Green
+
+15
+00:01:15,420 --> 00:01:17,020
+Monster.
+
+16
+00:01:17,120 --> 00:01:22,020
+But we rarely consider the ordinary walls that surround
+
+17
+00:01:22,120 --> 00:01:24,020
+us.
+
+18
+00:01:28,160 --> 00:01:33,160
+For centuries, they fulfilled our basic human need for shelter
+
+19
+00:01:33,260 --> 00:01:37,800
+against the elements and to divide the spaces where we live
+
+20
+00:01:37,900 --> 00:01:38,700
+and work.
+
+21
+00:01:41,200 --> 00:01:43,300
+But there's more going on inside your walls
+
+22
+00:01:43,400 --> 00:01:45,620
+than you'd ever imagine.
+
+23
+00:01:45,720 --> 00:01:47,620
+Let's start here.
+
+24
+00:01:47,720 --> 00:01:49,720
+Every time you flick on a light, you're
+
+25
+00:01:49,820 --> 00:01:54,520
+tapping into a complex network of wiring you seldom consider,
+
+26
+00:01:54,521 --> 00:01:57,820
+but upon which you're completely dependent.
+
+27
+00:01:57,821 --> 00:02:00,420
+And for the most part, it's entirely safe.
+
+28
+00:02:02,420 --> 00:02:05,260
+But sometimes faulty engineering inside your walls
+
+29
+00:02:05,261 --> 00:02:08,160
+can trigger catastrophe.
+
+30
+00:02:08,161 --> 00:02:11,180
+70,000 electrical fires are reported annually
+
+31
+00:02:11,181 --> 00:02:14,780
+in the United States, killing 500 people
+
+32
+00:02:14,781 --> 00:02:18,180
+and causing $800 million in property damage.
+
+33
+00:02:18,181 --> 00:02:25,180
+damage. The experts at Underwriters
+
+34
+00:02:25,181 --> 00:02:28,420
+Laboratories in Northbrook, Illinois, are helping to reduce
+
+35
+00:02:28,421 --> 00:02:33,820
+that danger. In the name of consumer safety,
+
+36
+00:02:33,821 --> 00:02:36,640
+the renowned product testing organization has been creating
+
+37
+00:02:36,641 --> 00:02:39,540
+havoc under controlled laboratory conditions since
+
+38
+00:02:39,541 --> 00:02:45,940
+1894. Chances are you'll see its seal of approval on many of
+
+39
+00:02:45,941 --> 00:02:47,640
+of the electrical devices you own.
+
+40
+00:02:51,680 --> 00:02:54,840
+The UL label on a product means that the manufacturer
+
+41
+00:02:54,841 --> 00:02:58,060
+has submitted their product to an independent third party
+
+42
+00:02:58,061 --> 00:02:59,420
+for safety testing.
+
+43
+00:02:59,421 --> 00:03:03,560
+That UL mark will tell consumers that the fire hazards,
+
+44
+00:03:03,561 --> 00:03:05,900
+electrical hazards, mechanical hazards
+
+45
+00:03:05,901 --> 00:03:08,060
+have been addressed by very rigorous standards
+
+46
+00:03:08,061 --> 00:03:09,360
+and very rigorous testing.
+
+47
+00:03:09,361 --> 00:03:16,360
+Every year, UL tests nearly 75,000 products.
+
+48
+00:03:23,800 --> 00:03:27,220
+Among them are hundreds designed to function inside your walls.
+
+49
+00:03:30,380 --> 00:03:33,520
+The job of UL engineers is to determine at what point they may
+
+50
+00:03:33,521 --> 00:03:35,620
+fail and create a safety hazard.
+
+51
+00:03:39,360 --> 00:03:42,960
+These robotic fingers are part of that effort,
+
+52
+00:03:42,961 --> 00:03:45,400
+putting wall switches through their paces
+
+53
+00:03:45,401 --> 00:03:47,760
+to see if they'll hold up over time.
+
+54
+00:03:47,761 --> 00:03:50,600
+Testing a switch that's used inside a wall
+
+55
+00:03:50,601 --> 00:03:53,200
+where you can't see it or get to it very easily
+
+56
+00:03:53,201 --> 00:03:54,800
+is very important.
+
+57
+00:03:54,801 --> 00:03:57,120
+We have to make sure the switch does what it's supposed to
+
+58
+00:03:57,121 --> 00:04:00,920
+without causing a fire or any hazard inside your walls.
+
+59
+00:04:03,560 --> 00:04:07,560
+UL's tests extend to the wires and cables themselves.
+
+60
+00:04:07,561 --> 00:04:10,960
+Inside your walls, they can spread a fire by acting much
+
+61
+00:04:11,060 --> 00:04:13,700
+like a wick in a candle.
+
+62
+00:04:13,800 --> 00:04:17,300
+To earn UL's seal of approval, samples like this phone
+
+63
+00:04:17,400 --> 00:04:21,200
+and Internet cable must convey a flame no farther than 5 feet,
+
+64
+00:04:21,300 --> 00:04:26,120
+or 150 centimeters, before it burns out.
+
+65
+00:04:26,220 --> 00:04:28,820
+We're already at 125 centimeters,
+
+66
+00:04:28,920 --> 00:04:31,420
+and the way it's burning, it doesn't look like it's
+
+67
+00:04:31,520 --> 00:04:33,020
+going to self-extinguish.
+
+68
+00:04:33,120 --> 00:04:35,960
+We can see the flames are starting to get to the 150
+
+69
+00:04:35,961 --> 00:04:38,460
+to the 150-centimeter point right now,
+
+70
+00:04:38,461 --> 00:04:40,960
+as soon as we get char at that point,
+
+71
+00:04:40,961 --> 00:04:42,260
+that constitutes a failure.
+
+72
+00:04:48,800 --> 00:04:50,580
+In another part of the facility,
+
+73
+00:04:50,581 --> 00:04:54,320
+this 25-foot-long furnace measures any product's capacity
+
+74
+00:04:54,321 --> 00:04:58,180
+to carry flames within our walls.
+
+75
+00:04:58,181 --> 00:05:03,120
+It was invented in 1922 by UL engineer Albert Steiner.
+
+76
+00:05:05,960 --> 00:05:09,500
+This is the Steiner Tunnel, and we use this tool to evaluate
+
+77
+00:05:09,501 --> 00:05:12,160
+this flame spread and the smoke developed from a building
+
+78
+00:05:12,161 --> 00:05:15,700
+material. Today's test is going to be using these wires and
+
+79
+00:05:15,701 --> 00:05:19,300
+cables, and we'll monitor and watch how far this flame
+
+80
+00:05:19,301 --> 00:05:27,520
+travels as it moves down. The Steiner Tunnel's foot-by-foot
+
+81
+00:05:27,521 --> 00:05:31,160
+measuring scale and observation windows allow technicians to
+
+82
+00:05:31,161 --> 00:05:42,080
+to monitor each test. The flames on these cables spread
+
+83
+00:05:42,081 --> 00:05:46,800
+four feet before burning out. The flame can go to five feet,
+
+84
+00:05:46,801 --> 00:05:51,240
+and if it stops there, if it stops propagating, then your
+
+85
+00:05:51,241 --> 00:05:53,840
+sample's okay. But as soon as it hits five and a half,
+
+86
+00:05:53,841 --> 00:06:01,120
+it's a failure. The insulation inside
+
+87
+00:06:01,121 --> 00:06:04,620
+is another potential conveyor for fire.
+
+88
+00:06:04,720 --> 00:06:07,320
+Insulation has to meet the same five-foot safety standard
+
+89
+00:06:07,420 --> 00:06:08,320
+that wire must.
+
+90
+00:06:15,360 --> 00:06:16,160
+There it goes.
+
+91
+00:06:16,260 --> 00:06:21,280
+We're down to about one foot now, two feet, two and a half,
+
+92
+00:06:21,380 --> 00:06:24,480
+three, three and a half.
+
+93
+00:06:24,580 --> 00:06:27,480
+That looks like that might be about it.
+
+94
+00:06:27,580 --> 00:06:29,520
+UL not only fire tests components
+
+95
+00:06:29,521 --> 00:06:36,520
+inside our walls like this, but also the walls themselves.
+
+96
+00:06:36,521 --> 00:06:43,520
+Wall material manufacturers from all over the world send
+
+97
+00:06:43,521 --> 00:06:47,520
+contractors and technicians to build full-scale assemblies and
+
+98
+00:06:47,521 --> 00:06:52,520
+evaluate them in custom-designed furnaces.
+
+99
+00:06:52,521 --> 00:06:57,520
+Temperatures inside can reach 1,000 degrees Fahrenheit.
+
+100
+00:06:57,521 --> 00:07:01,020
+We're actually inside a furnace used to test walls.
+
+101
+00:07:01,760 --> 00:07:06,460
+We install doors, windows, even glass-blocked walls in this furnace
+
+102
+00:07:06,461 --> 00:07:11,940
+and then burn it from one side to make sure the wall can withstand the intense heat of a fire.
+
+103
+00:07:14,140 --> 00:07:16,520
+UL Torch has more than 100 walls every year,
+
+104
+00:07:17,340 --> 00:07:22,960
+and its tests extend to walls made of materials you wouldn't think could catch fire, like concrete.
+
+105
+00:07:22,961 --> 00:07:27,860
+What we're seeing is a wall coming out of our furnace
+
+106
+00:07:27,861 --> 00:07:30,620
+after being subjected to 1,000 degrees of heat.
+
+107
+00:07:30,980 --> 00:07:32,680
+As you can see, the wall is still burning.
+
+108
+00:07:32,980 --> 00:07:34,200
+It's very, very hot.
+
+109
+00:07:34,760 --> 00:07:39,060
+We next take a stream of water and focus it right on that wall,
+
+110
+00:07:39,200 --> 00:07:41,620
+as a fire department would when they come to a fire,
+
+111
+00:07:41,920 --> 00:07:44,120
+to make sure the wall still stays intact
+
+112
+00:07:44,121 --> 00:07:46,740
+and doesn't allow the fire to spread to other parts of the structure.
+
+113
+00:07:48,600 --> 00:07:51,780
+Even glass walls are subjected to the same scorching flames.
+
+114
+00:07:52,960 --> 00:07:56,560
+You can hear the stress as the heat builds inside the wall.
+
+115
+00:08:04,000 --> 00:08:06,000
+In this case, it isn't doing so well.
+
+116
+00:08:12,520 --> 00:08:15,520
+Just as UL tests how walls fare against fire,
+
+117
+00:08:15,620 --> 00:08:19,120
+it also tests fire prevention systems inside our walls and
+
+118
+00:08:19,220 --> 00:08:20,120
+ceilings.
+
+119
+00:08:20,121 --> 00:08:24,860
+now increasingly required in residential building codes.
+
+120
+00:08:24,861 --> 00:08:27,420
+A laser lab measures how well sprinkler heads distribute
+
+121
+00:08:27,421 --> 00:08:32,360
+water in a room at a variety of heights and water pressures.
+
+122
+00:08:32,361 --> 00:08:35,860
+We'll transmit four laser beams this way,
+
+123
+00:08:35,861 --> 00:08:39,380
+and we can actually determine the size of the droplets,
+
+124
+00:08:39,381 --> 00:08:43,880
+and we can determine the direction and the velocity of them.
+
+125
+00:08:43,881 --> 00:08:49,920
+This particular setup will look at a single droplet in space.
+
+126
+00:08:50,120 --> 00:08:53,120
+about the diameter of a laser beam, which is very tiny.
+
+127
+00:08:53,460 --> 00:08:55,500
+And depending on the height of the ceiling,
+
+128
+00:08:56,000 --> 00:08:57,380
+the type of things that might burn,
+
+129
+00:08:57,620 --> 00:08:59,280
+you need different types of sprinklers.
+
+130
+00:08:59,400 --> 00:09:00,440
+You need different types of droplets.
+
+131
+00:09:01,640 --> 00:09:04,100
+Tests like this ultimately help save lives.
+
+132
+00:09:06,700 --> 00:09:09,800
+As do UL's tests of how well our walls stand up
+
+133
+00:09:09,801 --> 00:09:11,200
+against bullets and explosives.
+
+134
+00:09:14,380 --> 00:09:16,500
+Perhaps the best bullet-resistant material
+
+135
+00:09:16,501 --> 00:09:19,180
+we can have inside our walls is Kevlar.
+
+136
+00:09:20,120 --> 00:09:22,460
+the same material used to make bulletproof vests.
+
+137
+00:09:22,660 --> 00:09:23,360
+Get on the ground!
+
+138
+00:09:24,160 --> 00:09:27,060
+It's hidden discreetly inside the walls of many buildings
+
+139
+00:09:27,061 --> 00:09:28,560
+in which security is paramount,
+
+140
+00:09:29,520 --> 00:09:32,160
+like banks, courthouses, schools,
+
+141
+00:09:32,540 --> 00:09:36,200
+and government complexes, including the Pentagon.
+
+142
+00:09:37,160 --> 00:09:40,640
+What we have here is a 12-by-12 piece of Kevlar,
+
+143
+00:09:41,280 --> 00:09:42,180
+and we're going to test...
+
+144
+00:09:42,181 --> 00:09:43,460
+We're going to ballistically test this.
+
+145
+00:09:44,400 --> 00:09:46,600
+It's a real good bullet-resisting material
+
+146
+00:09:46,601 --> 00:09:48,080
+because when a bullet is fired,
+
+147
+00:09:48,340 --> 00:09:49,960
+it'll hit that interwoven fiber,
+
+148
+00:09:50,120 --> 00:09:53,420
+and it'll distribute the shock.
+
+149
+00:09:53,520 --> 00:09:55,420
+Let's see how this piece of Kevlar fares
+
+150
+00:09:55,520 --> 00:09:57,020
+against a .44 caliber bullet.
+
+151
+00:10:01,760 --> 00:10:02,460
+Fire!
+
+152
+00:10:06,980 --> 00:10:10,480
+The materials stopped the bullet in its tracks.
+
+153
+00:10:10,580 --> 00:10:14,520
+The front and the rear.
+
+154
+00:10:14,620 --> 00:10:19,220
+Vivid proof that the walls that surround us protect us.
+
+155
+00:10:19,221 --> 00:10:22,260
+But what happens when criminals and battlefield enemies use our
+
+156
+00:10:22,360 --> 00:10:25,820
+walls to their advantage?
+
+157
+00:10:25,920 --> 00:10:28,960
+Riding to the rescue is a high-tech wonder that can
+
+158
+00:10:29,060 --> 00:10:30,660
+virtually see through walls.
+
+159
+00:10:35,560 --> 00:10:38,980
+More than 2,000 slaves escaping to freedom on the Underground
+
+160
+00:10:39,080 --> 00:10:43,080
+Railroad found refuge in the home of Indiana merchant Levi
+
+161
+00:10:43,180 --> 00:10:47,980
+Coffin, using a secret crawl space behind a wall as a way
+
+162
+00:10:47,981 --> 00:10:48,980
+station.
+
+163
+00:11:02,920 --> 00:11:06,940
+At crime scenes and in war zones, walls can offer the bad guys a
+
+164
+00:11:07,040 --> 00:11:10,740
+strategic edge, concealing and shielding them from the police
+
+165
+00:11:10,840 --> 00:11:11,740
+or soldiers.
+
+166
+00:11:11,741 --> 00:11:16,740
+Walls can make them as good as invisible.
+
+167
+00:11:20,740 --> 00:11:23,740
+One high-tech company has a new antidote.
+
+168
+00:11:23,741 --> 00:11:25,740
+The Tealinks Corporation, under contract
+
+169
+00:11:25,741 --> 00:11:28,740
+to the US Department of Defense, has devised a highly refined
+
+170
+00:11:28,741 --> 00:11:33,740
+form of radar that can virtually see through walls.
+
+171
+00:11:33,741 --> 00:11:35,740
+This device is specifically designed
+
+172
+00:11:35,741 --> 00:11:39,740
+for detection of the objects behind a wall.
+
+173
+00:11:39,741 --> 00:11:43,440
+This is a very sensitive device for any slightest movement.
+
+174
+00:11:43,540 --> 00:11:45,940
+We not only use that for the detection of the people
+
+175
+00:11:46,040 --> 00:11:49,240
+behind a wall, you can detect even the breathing of a person
+
+176
+00:11:49,340 --> 00:11:52,780
+who has been hidden behind a wall.
+
+177
+00:11:52,880 --> 00:11:55,080
+Teal Inks is testing its sophisticated sensors
+
+178
+00:11:55,180 --> 00:11:58,000
+at the DelVal Training Center of the Los Angeles County Fire
+
+179
+00:11:58,100 --> 00:12:00,500
+Department.
+
+180
+00:12:00,600 --> 00:12:03,400
+The sensors can work their magic through walls made of wood,
+
+181
+00:12:03,500 --> 00:12:07,200
+concrete, even steel.
+
+182
+00:12:07,201 --> 00:12:10,360
+They can be applied directly to a wall,
+
+183
+00:12:10,361 --> 00:12:15,640
+worn by police or military personnel,
+
+184
+00:12:15,641 --> 00:12:19,440
+or moved into position by this intrepid robot,
+
+185
+00:12:19,441 --> 00:12:22,440
+when the danger behind a wall is so great that no human dare
+
+186
+00:12:22,441 --> 00:12:24,440
+approach.
+
+187
+00:12:37,200 --> 00:12:38,051
+wall or air.
+
+188
+00:12:38,052 --> 00:12:43,580
+When it hits the next object, which is a person or an object, then it reflects
+
+189
+00:12:43,581 --> 00:12:47,680
+some of that back. The data the sensors gather are
+
+190
+00:12:47,681 --> 00:12:55,048
+conveyed to standard computer monitors or miniature head-mounted devices.
+
+191
+00:12:55,049 --> 00:12:56,360
+Although each
+
+192
+00:12:56,361 --> 00:13:02,280
+sensor produces one-tenth the power generated by a cell phone, the tech it harnesses is so
+
+193
+00:13:02,281 --> 00:13:07,480
+effective that virtually anyone lurking on the other side of a wall can be located.
+
+194
+00:13:09,240 --> 00:13:09,940
+Go!
+
+195
+00:13:14,840 --> 00:13:16,360
+All right, I'm in the house now.
+
+196
+00:13:16,361 --> 00:13:19,800
+In this experiment, a test subject enters the building
+
+197
+00:13:21,320 --> 00:13:24,520
+as Tealink sensors emit their signals on the exterior wall.
+
+198
+00:13:26,520 --> 00:13:29,480
+I'm about 30 feet from the radar.
+
+199
+00:13:29,481 --> 00:13:32,380
+A technician stands ready to analyze the data.
+
+200
+00:13:32,480 --> 00:13:35,220
+And I'm going to the first room.
+
+201
+00:13:35,320 --> 00:13:37,960
+The sensors detect any motion and can calculate
+
+202
+00:13:38,060 --> 00:13:41,460
+the distance between the wall and the subject that's moving.
+
+203
+00:13:41,560 --> 00:13:43,900
+Still moving backwards.
+
+204
+00:13:44,000 --> 00:13:47,900
+I'm coming towards the end of the house.
+
+205
+00:13:48,000 --> 00:13:51,900
+I'm now about 60 feet.
+
+206
+00:13:52,000 --> 00:13:56,280
+Going through three interior walls and one exterior wall.
+
+207
+00:13:56,380 --> 00:13:58,180
+And I'll go back.
+
+208
+00:13:58,181 --> 00:14:05,180
+A graphic display of a person's movements can also be computed.
+
+209
+00:14:05,181 --> 00:14:09,180
+Another test demonstrates the extreme sensitivity of the T-Link
+
+210
+00:14:09,181 --> 00:14:15,180
+sensors. The faintest of movements can be detected.
+
+211
+00:14:15,181 --> 00:14:18,180
+Right now, before the test subject is in there, I basically
+
+212
+00:14:18,181 --> 00:14:22,180
+see nothing, just a flat curve. Now the test subject is walking
+
+213
+00:14:22,181 --> 00:14:27,180
+in, I see a huge bump in the curve. That means that there's
+
+214
+00:14:27,181 --> 00:14:31,280
+means that there's a lot of big movement.
+
+215
+00:14:31,281 --> 00:14:33,680
+Now the curb is settling down.
+
+216
+00:14:33,681 --> 00:14:37,200
+There's still a clear indication that there's something there.
+
+217
+00:14:37,201 --> 00:14:40,660
+The test subject is sitting down and essentially only breathing,
+
+218
+00:14:40,661 --> 00:14:42,620
+not making any other type of movement.
+
+219
+00:14:47,000 --> 00:14:48,920
+This intriguing technology promises
+
+220
+00:14:48,921 --> 00:14:54,640
+to revolutionize urban warfare tactics, as well as police
+
+221
+00:14:54,641 --> 00:14:57,280
+and standoff situations.
+
+222
+00:14:57,380 --> 00:15:00,140
+Its makers believe the ability to monitor unseen threats
+
+223
+00:15:00,240 --> 00:15:02,880
+through walls will save innumerable lives.
+
+224
+00:15:05,880 --> 00:15:08,780
+It will save lives on the Army.
+
+225
+00:15:08,880 --> 00:15:12,800
+It definitely needs these kind of technologies.
+
+226
+00:15:12,900 --> 00:15:19,500
+While T-Link sensors expose hiding places behind walls,
+
+227
+00:15:19,600 --> 00:15:24,200
+Dan Perkins makes his living creating them.
+
+228
+00:15:24,201 --> 00:15:31,200
+His company, Hidden Safes in Bartlett, Tennessee,
+
+229
+00:15:31,201 --> 00:15:34,200
+oils the bad guys in a different way,
+
+230
+00:15:34,201 --> 00:15:37,200
+designing secret compartments for homeowners
+
+231
+00:15:37,201 --> 00:15:39,200
+to protect their valuables.
+
+232
+00:15:47,200 --> 00:15:50,200
+If you can't find it, you can't steal it.
+
+233
+00:15:50,201 --> 00:15:52,200
+That's been our motto for 30 years.
+
+234
+00:15:52,201 --> 00:15:56,740
+motto for 30 years. Your home might be among the 2
+
+235
+00:15:56,741 --> 00:16:00,740
+million burglarized every year in the United States, and your
+
+236
+00:16:00,741 --> 00:16:04,740
+goods among the $4 billion worth of property stolen.
+
+237
+00:16:08,740 --> 00:16:12,160
+To avoid being victimized, homeowners show Dan their house,
+
+238
+00:16:12,161 --> 00:16:18,060
+tell him what they want to hide, and he makes it work inside
+
+239
+00:16:18,061 --> 00:16:22,200
+their walls. We'll enter a code
+
+240
+00:16:22,201 --> 00:16:24,960
+And then we'll turn our back, and they push their own number
+
+241
+00:16:24,961 --> 00:16:27,340
+in twice, and we don't know the number.
+
+242
+00:16:27,341 --> 00:16:29,840
+So you forget your number, we have to crack your safe.
+
+243
+00:16:34,140 --> 00:16:37,040
+The trick isn't just creating a clever hiding place.
+
+244
+00:16:37,041 --> 00:16:40,160
+It's also devising a subtle entry system.
+
+245
+00:16:40,161 --> 00:16:46,860
+Pins can trigger release mechanisms,
+
+246
+00:16:46,861 --> 00:16:50,100
+As can magnets disguised as household trinkets.
+
+247
+00:16:54,160 --> 00:16:58,000
+We've joked around you could even use the clapper.
+
+248
+00:16:58,001 --> 00:17:00,300
+Dan believes the best place to hide a safe
+
+249
+00:17:00,301 --> 00:17:04,120
+is somewhere least likely to contain anything valuable.
+
+250
+00:17:04,121 --> 00:17:06,920
+When a burglar breaks into your home, where does he go?
+
+251
+00:17:06,921 --> 00:17:09,020
+He goes straight to the master bedroom area.
+
+252
+00:17:09,021 --> 00:17:10,560
+What do they look for in here?
+
+253
+00:17:10,561 --> 00:17:14,660
+It's what I call a low priority part of the house.
+
+254
+00:17:14,661 --> 00:17:16,560
+And I love hiding safes.
+
+255
+00:17:16,561 --> 00:17:19,360
+in this part of the house.
+
+256
+00:17:19,400 --> 00:17:23,360
+This pegboard pops open, revealing a hidden safe
+
+257
+00:17:23,400 --> 00:17:27,340
+as wide as this room, five feet deep,
+
+258
+00:17:27,380 --> 00:17:29,280
+to hold his 200 guns.
+
+259
+00:17:34,680 --> 00:17:37,840
+And as you can see, he's serious about his hobby.
+
+260
+00:17:39,980 --> 00:17:42,080
+One of Dan's best concealed wall safes
+
+261
+00:17:42,120 --> 00:17:46,120
+is in this office that acts as his showroom.
+
+262
+00:17:46,121 --> 00:17:51,220
+It challenges visitors, and we challenge you to find it.
+
+263
+00:17:51,221 --> 00:17:52,220
+Take a good look.
+
+264
+00:17:59,360 --> 00:18:00,660
+You might think it's in the map.
+
+265
+00:18:00,661 --> 00:18:03,060
+You might think it's behind a picture.
+
+266
+00:18:03,061 --> 00:18:05,180
+But it's actually right here.
+
+267
+00:18:05,181 --> 00:18:06,680
+And I don't even have to look for the switch.
+
+268
+00:18:10,020 --> 00:18:14,680
+Congratulate yourself if you guessed the ventilator.
+
+269
+00:18:14,681 --> 00:18:17,320
+Valuables aren't the only things that may be hidden inside the
+
+270
+00:18:17,420 --> 00:18:18,620
+walls of many homeowners.
+
+271
+00:18:24,520 --> 00:18:27,720
+You might have trespassers like these just inches from where
+
+272
+00:18:27,820 --> 00:18:31,660
+you are right now that might be literally eating you out of house
+
+273
+00:18:31,760 --> 00:18:32,460
+and home.
+
+274
+00:18:35,740 --> 00:18:39,840
+In 2006, a Norman Rockwell original called Breaking Home
+
+275
+00:18:39,940 --> 00:18:44,440
+Ties was discovered behind a false wall in a Vermont home.
+
+276
+00:18:44,441 --> 00:18:48,280
+It sold later that year at auction for $15.4 million.
+
+277
+00:18:58,920 --> 00:19:02,660
+They say that what you can't see can't hurt you.
+
+278
+00:19:02,661 --> 00:19:05,460
+But perhaps the nastiest exception to that rule
+
+279
+00:19:05,461 --> 00:19:07,300
+may be scurrying inside your walls.
+
+280
+00:19:09,960 --> 00:19:12,760
+Rats and mice have a knack of invading and occupying
+
+281
+00:19:12,761 --> 00:19:17,960
+the forgotten recesses of our home's floor plans.
+
+282
+00:19:17,961 --> 00:19:21,060
+But pest control companies are helping us fight back,
+
+283
+00:19:21,061 --> 00:19:26,500
+including Orkin, a leader in the industry since 1901.
+
+284
+00:19:26,501 --> 00:19:28,200
+Entry points like this are how rodents actually get
+
+285
+00:19:28,201 --> 00:19:29,220
+into your home.
+
+286
+00:19:29,221 --> 00:19:32,120
+It only takes about a half inch for a rat to get inside,
+
+287
+00:19:32,121 --> 00:19:34,120
+a quarter inch for a mouse.
+
+288
+00:19:34,121 --> 00:19:36,320
+When rodents aren't inside your walls,
+
+289
+00:19:36,321 --> 00:19:40,060
+you'll often find them just outside them.
+
+290
+00:19:40,061 --> 00:19:42,160
+One attractor for rodents is someplace warm,
+
+291
+00:19:42,161 --> 00:19:44,160
+And this water heater area is definitely a place
+
+292
+00:19:44,260 --> 00:19:46,060
+that would attract them.
+
+293
+00:19:46,160 --> 00:19:47,460
+So you can see that they've been here,
+
+294
+00:19:47,560 --> 00:19:50,860
+because you see all these nuts, droppings, things of that sort.
+
+295
+00:19:50,960 --> 00:19:52,900
+They're all in here.
+
+296
+00:19:53,000 --> 00:19:55,900
+Setting rat traps can be a snap.
+
+297
+00:19:56,000 --> 00:19:57,100
+Woo.
+
+298
+00:19:59,320 --> 00:20:01,120
+But the rodents who manage to avoid them
+
+299
+00:20:01,220 --> 00:20:04,220
+can cause major damage inside your walls
+
+300
+00:20:04,320 --> 00:20:08,160
+by chowing down on your electrical wiring.
+
+301
+00:20:08,260 --> 00:20:12,160
+Rants need to wear down their ever-growing incisors.
+
+302
+00:20:12,161 --> 00:20:15,860
+So they have to chew constantly, creating millions of dollars
+
+303
+00:20:15,960 --> 00:20:18,300
+in damage annually.
+
+304
+00:20:18,400 --> 00:20:21,000
+One effective way to avoid such a nightmare
+
+305
+00:20:21,100 --> 00:20:24,600
+is to understand the telltale signs rodents leave behind
+
+306
+00:20:24,700 --> 00:20:27,800
+in crawl spaces and attics.
+
+307
+00:20:27,900 --> 00:20:32,720
+One sign of rodent presence, activity, or entry points
+
+308
+00:20:32,820 --> 00:20:34,420
+are when we see rub marks.
+
+309
+00:20:34,520 --> 00:20:36,460
+Rub marks are basically grease and oil that's
+
+310
+00:20:36,560 --> 00:20:38,960
+on the rodent skin because they're greasy and oily.
+
+311
+00:20:39,060 --> 00:20:41,920
+And when they run across these wires and conduits or holes,
+
+312
+00:20:41,921 --> 00:20:45,520
+they'll leave a nice brown mark for us to find.
+
+313
+00:20:45,620 --> 00:20:48,320
+If you don't find such warning signs fast enough,
+
+314
+00:20:48,420 --> 00:20:53,160
+the rat's urge to reproduce will quickly multiply your problem.
+
+315
+00:20:53,260 --> 00:20:56,460
+In a home like this, two breeding rats can actually turn into
+
+316
+00:20:56,560 --> 00:20:59,980
+35 to 40 rats in a year's time.
+
+317
+00:21:00,080 --> 00:21:02,880
+But rodents aren't the only pests that might be cavorting
+
+318
+00:21:02,980 --> 00:21:04,380
+inside your wolves.
+
+319
+00:21:04,381 --> 00:21:17,620
+This house in Atlanta, Georgia, has gone positively buggy.
+
+320
+00:21:17,720 --> 00:21:20,400
+The vermin infestation is so extreme here,
+
+321
+00:21:20,500 --> 00:21:25,260
+it's spilled out from the walls into virtually every room.
+
+322
+00:21:25,360 --> 00:21:26,760
+But this parasitic nightmare isn't
+
+323
+00:21:26,860 --> 00:21:29,680
+the result of a Slovenly homeowner.
+
+324
+00:21:29,780 --> 00:21:32,200
+The house is actually a laboratory inside an Orkin
+
+325
+00:21:32,300 --> 00:21:34,380
+training facility.
+
+326
+00:21:34,381 --> 00:21:36,380
+No one really lives here.
+
+327
+00:21:36,381 --> 00:21:38,380
+I don't know anyone who would want to live here,
+
+328
+00:21:38,381 --> 00:21:41,380
+given that pests are allowed free reign of the home.
+
+329
+00:21:41,381 --> 00:21:44,380
+But if we were to shut down the heat, no food, no water,
+
+330
+00:21:44,381 --> 00:21:45,380
+the pests don't survive.
+
+331
+00:21:45,381 --> 00:21:48,380
+The pests really do need us to provide the resources to
+
+332
+00:21:48,381 --> 00:21:51,380
+explode their populations and do well.
+
+333
+00:21:51,381 --> 00:21:55,380
+Think of this unusual lab as Vermin University.
+
+334
+00:21:55,381 --> 00:21:58,380
+It teaches exterminators how to kill bugs inside your walls
+
+335
+00:21:58,381 --> 00:22:01,380
+without turning off all your utilities and emptying your
+
+336
+00:22:01,381 --> 00:22:06,020
+your pantry. The lab not only educates field
+
+337
+00:22:06,120 --> 00:22:10,620
+specialists on site... I'm gonna put some foam in here,
+
+338
+00:22:10,720 --> 00:22:13,420
+and you can see how it's flowing. But also via training
+
+339
+00:22:13,520 --> 00:22:18,400
+sessions, telecast live from the facility. Get your foam to where
+
+340
+00:22:18,500 --> 00:22:22,940
+Mr. Termite is hiding, which is inside the walls.
+
+341
+00:22:23,040 --> 00:22:26,340
+Of all the nasty critters inside your walls, termites
+
+342
+00:22:26,440 --> 00:22:31,380
+reign as the undisputed masters of destructiveness.
+
+343
+00:22:31,381 --> 00:22:35,620
+The world's termites outweigh humans by almost 10 to 1.
+
+344
+00:22:35,720 --> 00:22:38,180
+And the war on termites in the US
+
+345
+00:22:38,280 --> 00:22:41,720
+costs $5 billion annually.
+
+346
+00:22:41,820 --> 00:22:44,720
+For some species, the dark, sometimes damp environment
+
+347
+00:22:44,820 --> 00:22:48,240
+inside our walls is a tailor-made ecosystem.
+
+348
+00:22:48,340 --> 00:22:51,640
+If these wood chopping intruders go unchecked for too long,
+
+349
+00:22:51,740 --> 00:22:54,240
+you'll discover the extent of their ravenous talents
+
+350
+00:22:54,340 --> 00:22:55,940
+the hard way.
+
+351
+00:22:56,040 --> 00:22:58,740
+We see that at times when people haven't paid attention
+
+352
+00:22:58,741 --> 00:23:01,740
+to the signs, that actually they'll fall through a floor,
+
+353
+00:23:01,840 --> 00:23:03,980
+that you have the studs have just fallen apart,
+
+354
+00:23:04,080 --> 00:23:06,740
+or a wall will fall down.
+
+355
+00:23:06,840 --> 00:23:09,280
+By the time a termite colony is first found,
+
+356
+00:23:09,380 --> 00:23:13,280
+it's usually been established four to five years.
+
+357
+00:23:13,380 --> 00:23:15,500
+It takes that long for the termites to eat through the
+
+358
+00:23:15,600 --> 00:23:20,200
+wood to create pathways termed tubes.
+
+359
+00:23:20,300 --> 00:23:23,140
+Right here in this space below the basement,
+
+360
+00:23:23,240 --> 00:23:25,240
+we have a termite tube.
+
+361
+00:23:25,340 --> 00:23:27,300
+Here's the tube starting down in the dirt,
+
+362
+00:23:27,301 --> 00:23:30,100
+working its way along this cement wall,
+
+363
+00:23:30,101 --> 00:23:33,100
+and then along the slab underneath the garage
+
+364
+00:23:33,101 --> 00:23:34,500
+and into the wood.
+
+365
+00:23:34,501 --> 00:23:37,740
+Things are going on behind the walls down here first
+
+366
+00:23:37,741 --> 00:23:39,940
+and then moving up to the rest of the house.
+
+367
+00:23:47,060 --> 00:23:51,700
+One effective way to wage war on termites inside your walls
+
+368
+00:23:51,701 --> 00:23:54,900
+is spraying insecticide on exposed wood surfaces.
+
+369
+00:23:57,300 --> 00:24:03,180
+Another starts with drilling holes into the afflicted wood
+
+370
+00:24:03,280 --> 00:24:07,180
+directly into the arteries that they have hollowed out.
+
+371
+00:24:12,440 --> 00:24:16,260
+Then a foam containing a poison is injected.
+
+372
+00:24:16,360 --> 00:24:20,460
+Note how the foam enters one hole, then spurts out another,
+
+373
+00:24:20,560 --> 00:24:24,800
+revealing the extent of the termite's handiwork.
+
+374
+00:24:24,801 --> 00:24:28,800
+But treatments like this can help eradicate the threat.
+
+375
+00:24:28,801 --> 00:24:33,800
+Even if it works, however, you still might face another six
+
+376
+00:24:33,801 --> 00:24:36,800
+legged nightmare inside your walls.
+
+377
+00:24:40,800 --> 00:24:44,800
+Cockroaches. Like termites, they need food
+
+378
+00:24:44,801 --> 00:24:47,800
+and water to survive. And they'll come out to dine
+
+379
+00:24:47,801 --> 00:24:49,800
+wherever we've left a mess.
+
+380
+00:24:49,801 --> 00:24:54,800
+We have a pretty extreme situation here.
+
+381
+00:24:54,900 --> 00:24:57,040
+We've got lots of food debris on the counter.
+
+382
+00:24:57,140 --> 00:24:59,240
+Certainly this would be perfect for roaches.
+
+383
+00:24:59,340 --> 00:25:03,840
+In most average home situations, it wouldn't be to this level.
+
+384
+00:25:03,940 --> 00:25:05,840
+Any roach in plain sight, however,
+
+385
+00:25:05,940 --> 00:25:09,860
+usually means a lot more are crawling inside your walls.
+
+386
+00:25:09,960 --> 00:25:12,460
+They'll enter and exit through any small crack,
+
+387
+00:25:12,560 --> 00:25:16,560
+a gap beneath a baseboard, even a wall outlet.
+
+388
+00:25:16,561 --> 00:25:19,560
+Specialists know that roaches are in here.
+
+389
+00:25:19,561 --> 00:25:21,560
+They would see either the roaches themselves,
+
+390
+00:25:21,561 --> 00:25:25,560
+or they may even see the feces, the poop they leave behind,
+
+391
+00:25:25,561 --> 00:25:27,560
+and even something called sputum,
+
+392
+00:25:27,561 --> 00:25:30,560
+which is this, like, tobacco brown substance
+
+393
+00:25:30,561 --> 00:25:32,560
+they vomit up on surfaces.
+
+394
+00:25:32,561 --> 00:25:35,560
+Those would all be indicators that there are roaches here.
+
+395
+00:25:35,561 --> 00:25:37,560
+If you're not inclined to inspect your wall cavities
+
+396
+00:25:37,561 --> 00:25:41,560
+for roach vomit, there are other measures you can take.
+
+397
+00:25:41,561 --> 00:25:43,560
+You can examine areas near your walls
+
+398
+00:25:43,561 --> 00:25:48,000
+near your walls that bear further scrutiny, like your stove.
+
+399
+00:25:48,100 --> 00:25:50,700
+What homeowners don't realize is inside the stove
+
+400
+00:25:50,800 --> 00:25:52,300
+there can be all kinds of food things.
+
+401
+00:25:52,400 --> 00:25:55,200
+They don't realize they need to clean, providing a food source
+
+402
+00:25:55,300 --> 00:25:56,300
+for these roaches.
+
+403
+00:25:56,400 --> 00:25:58,900
+And with it next to a wall, they can be potentially even
+
+404
+00:25:59,000 --> 00:26:03,920
+traveling through the wall void again into adjacent rooms.
+
+405
+00:26:04,020 --> 00:26:07,420
+An effective countermeasure is poisonous bait.
+
+406
+00:26:07,520 --> 00:26:09,720
+Leave it just outside your walls,
+
+407
+00:26:09,820 --> 00:26:11,860
+and the roaches will be your unwitting allies
+
+408
+00:26:11,861 --> 00:26:17,260
+by carrying it inside them. Roaches live closely together,
+
+409
+00:26:17,360 --> 00:26:20,760
+so they'll share that material. Also, they cannibalize each other.
+
+410
+00:26:20,860 --> 00:26:23,800
+They'll eat their own dead. And if a roach eats one that's
+
+411
+00:26:23,900 --> 00:26:26,600
+being killed by the bait, then it'll even kill that roach.
+
+412
+00:26:26,700 --> 00:26:28,540
+You'll have this sort of domino effect.
+
+413
+00:26:31,080 --> 00:26:33,640
+Although cockroaches and termites carry top honors
+
+414
+00:26:33,740 --> 00:26:37,020
+as the most hated vermin inside our walls,
+
+415
+00:26:37,120 --> 00:26:39,860
+there's an emerging contender you probably thought only lived
+
+416
+00:26:39,861 --> 00:26:41,820
+lived in your mattress.
+
+417
+00:26:41,821 --> 00:26:46,820
+Cymex Lectularius, better known as bed bugs.
+
+418
+00:26:46,821 --> 00:26:49,260
+In the last 10 years, bed bugs have
+
+419
+00:26:49,261 --> 00:26:52,700
+become the number one pest in people's bedrooms,
+
+420
+00:26:52,701 --> 00:26:56,100
+whether that's in a hotel room or an apartment complex,
+
+421
+00:26:56,101 --> 00:27:00,020
+or even in some type of a condominium or a vacation home.
+
+422
+00:27:00,021 --> 00:27:06,420
+Bed bugs have just gone crazy in the number that we have found.
+
+423
+00:27:06,421 --> 00:27:08,440
+Bed bug calls to pest control companies
+
+424
+00:27:08,441 --> 00:27:13,440
+over the last five years. From their haven inside your walls,
+
+425
+00:27:13,441 --> 00:27:17,440
+they can invade your bedroom via the tiniest passages,
+
+426
+00:27:17,441 --> 00:27:20,440
+like screw holes in a wall-mounted bed board.
+
+427
+00:27:20,441 --> 00:27:23,440
+The good news? They don't transmit diseases.
+
+428
+00:27:23,441 --> 00:27:27,440
+The bad news? They're very efficient little bloodsuckers.
+
+429
+00:27:27,441 --> 00:27:31,440
+One can engorge itself on your blood in 15 minutes,
+
+430
+00:27:31,441 --> 00:27:34,440
+tripling its usual size.
+
+431
+00:27:34,441 --> 00:27:37,440
+If you suspect they're migrating through your home,
+
+432
+00:27:37,441 --> 00:27:41,440
+Orkin has a new technology for learning their travel patterns.
+
+433
+00:27:41,441 --> 00:27:47,440
+You actually can use a swab and swab areas where bed bugs would be moving,
+
+434
+00:27:47,441 --> 00:27:52,440
+like around the edge of the mattress and around these little cotton holes.
+
+435
+00:27:52,441 --> 00:27:54,440
+And so I'm going to swab them relatively quickly.
+
+436
+00:27:54,441 --> 00:27:58,440
+I can swab behind the headboard here where the screw holes are,
+
+437
+00:27:58,441 --> 00:28:01,440
+anywhere that bed bugs are likely to be.
+
+438
+00:28:01,441 --> 00:28:04,440
+Then all I have to do is put it back in its case,
+
+439
+00:28:04,441 --> 00:28:10,420
+case, send it to the lab in Dallas, and within 24 hours, they will tell me whether bedbugs
+
+440
+00:28:10,421 --> 00:28:15,760
+have crossed that surface or not. Bedbug remedies range from vacuuming
+
+441
+00:28:15,761 --> 00:28:22,789
+to pesticides, all in the name of keeping you from sleeping with the enemy.
+
+442
+00:28:22,790 --> 00:28:23,820
+Bedbugs and
+
+443
+00:28:23,821 --> 00:28:27,980
+other pests aren't the only ones that have a gift for finding secret spaces inside our
+
+444
+00:28:27,981 --> 00:28:32,080
+walls.
+
+445
+00:28:32,081 --> 00:28:36,180
+Within America's most notorious prison
+
+446
+00:28:36,181 --> 00:28:39,480
+lies an obscure passage that offered three convicts
+
+447
+00:28:39,481 --> 00:28:41,980
+the prospect of an ingenious escape.
+
+448
+00:28:46,080 --> 00:28:49,780
+In the early 19th century, rats infested the walls
+
+449
+00:28:49,781 --> 00:28:53,480
+and other areas of the newly built US Capitol.
+
+450
+00:28:53,481 --> 00:28:56,940
+The solution was a full-time squad of cats
+
+451
+00:28:56,941 --> 00:28:57,940
+the building.
+
+452
+00:29:13,260 --> 00:29:18,020
+Whoever coined the saying, stone walls do not a prison make,
+
+453
+00:29:18,021 --> 00:29:20,060
+never spent a night locked up on Alcatraz.
+
+454
+00:29:23,560 --> 00:29:26,140
+The federal penitentiary on the 22-acre island
+
+455
+00:29:26,141 --> 00:29:35,780
+in San Francisco Bay held 1,576 inmates from 1934 to 1963.
+
+456
+00:29:35,781 --> 00:29:40,480
+The imposing walls and a rigidly enforced monotonous routine were
+
+457
+00:29:40,481 --> 00:29:45,500
+designed to crush a convict spirit.
+
+458
+00:29:45,501 --> 00:29:49,700
+One prisoner called Alcatraz the Tomb of the Living Dead.
+
+459
+00:29:49,701 --> 00:29:57,700
+Their world was defined by concrete, concrete walls,
+
+460
+00:29:57,701 --> 00:29:59,200
+a concrete floor.
+
+461
+00:29:59,201 --> 00:30:01,200
+My name said they never stood on earth
+
+462
+00:30:01,201 --> 00:30:03,000
+the whole time they were here.
+
+463
+00:30:03,001 --> 00:30:06,700
+The inside of this cell house was their world.
+
+464
+00:30:06,701 --> 00:30:10,200
+But there's more to the walls of Alcatraz than meets the eye.
+
+465
+00:30:10,201 --> 00:30:13,700
+Secrets lie inside.
+
+466
+00:30:13,701 --> 00:30:16,200
+Secrets that conspired to write the most chilling chapters
+
+467
+00:30:16,201 --> 00:30:19,200
+in the prison's history.
+
+468
+00:30:19,201 --> 00:30:22,620
+One was virtually within plain sight of every inmate
+
+469
+00:30:22,621 --> 00:30:25,040
+in his tiny 5 foot by 9 foot cell,
+
+470
+00:30:26,160 --> 00:30:28,780
+visible through the small ventilator on the rear wall.
+
+471
+00:30:30,720 --> 00:30:34,540
+You can look through and see there's an area behind the cell.
+
+472
+00:30:34,840 --> 00:30:36,380
+And looking through there, you can also see
+
+473
+00:30:36,381 --> 00:30:38,860
+that there's a cell on the opposite side in a matching grate
+
+474
+00:30:38,861 --> 00:30:41,380
+and see the feet of the other fellow walking around.
+
+475
+00:30:41,680 --> 00:30:44,820
+It's the type of thing that convicts would normally have looked at,
+
+476
+00:30:44,920 --> 00:30:46,640
+filed it away as another bit of information.
+
+477
+00:30:46,641 --> 00:30:49,440
+were constantly storing information about how the place
+
+478
+00:30:49,441 --> 00:30:51,740
+was built, looking for any chinks in the armor.
+
+479
+00:30:55,040 --> 00:30:57,880
+The hidden area inside every cell block wall
+
+480
+00:30:57,881 --> 00:31:00,780
+was a narrow utility corridor.
+
+481
+00:31:00,781 --> 00:31:03,560
+Its purpose was to provide maintenance workers access
+
+482
+00:31:03,561 --> 00:31:05,700
+to plumbing pipes and electrical wiring.
+
+483
+00:31:09,400 --> 00:31:12,500
+Our modern Marvel's cameras ventured inside,
+
+484
+00:31:12,501 --> 00:31:16,000
+where no tourist today is allowed to enter.
+
+485
+00:31:16,001 --> 00:31:19,500
+In some cases, you can see on the walls numbers written,
+
+486
+00:31:19,940 --> 00:31:23,880
+and those would be the numbers that correspond to the cells facing on the other side.
+
+487
+00:31:24,100 --> 00:31:26,140
+Because when you're in here, you have no idea where you're located,
+
+488
+00:31:26,220 --> 00:31:30,220
+but if they said repair a leaking pipe behind cell 146,
+
+489
+00:31:30,320 --> 00:31:33,640
+you just walk down here until you come to 146.
+
+490
+00:31:34,920 --> 00:31:35,840
+Take care of business.
+
+491
+00:31:36,800 --> 00:31:43,200
+In 1946, a utility corridor was the setting for the climax of the prison's bloodiest uprising.
+
+492
+00:31:46,000 --> 00:31:51,000
+A battle ensued after inmates killed two guards, secured guns,
+
+493
+00:31:51,001 --> 00:31:54,000
+and seized control of the cell house.
+
+494
+00:31:54,001 --> 00:31:57,000
+The Marines were called in to restore order.
+
+495
+00:32:00,000 --> 00:32:04,000
+The revolt's ringleaders, Bernard Coy, Marvin Hubbard,
+
+496
+00:32:04,001 --> 00:32:07,000
+and Joseph Kretzer, fled to the utility corridor
+
+497
+00:32:07,001 --> 00:32:10,000
+to make their last stand.
+
+498
+00:32:10,001 --> 00:32:13,000
+Eventually, the Marines cut holes in the rooftop
+
+499
+00:32:13,001 --> 00:32:15,000
+of the penitentiary building, and they
+
+500
+00:32:15,001 --> 00:32:20,600
+building and lowered grenades into this utility corridor.
+
+501
+00:32:20,601 --> 00:32:23,500
+Three men were found at the rear end of this corridor,
+
+502
+00:32:23,501 --> 00:32:24,201
+hair dead.
+
+503
+00:32:30,360 --> 00:32:34,900
+16 years later, in 1962, the utility corridor
+
+504
+00:32:34,901 --> 00:32:37,560
+would play a crucial role in one of history's most daring
+
+505
+00:32:37,561 --> 00:32:38,261
+prison escapes.
+
+506
+00:32:41,060 --> 00:32:43,800
+The ingenious plot, chronicled later in a film starring
+
+507
+00:32:43,801 --> 00:32:49,500
+Eastwood, hinged on one inspired premise, that the key to getting
+
+508
+00:32:49,501 --> 00:32:55,180
+outside of Alcatraz was to get inside its walls.
+
+509
+00:32:55,181 --> 00:32:58,440
+The conspirators were Frank Morris, Clarence Anglin,
+
+510
+00:32:58,441 --> 00:33:01,420
+and his brother John.
+
+511
+00:33:01,421 --> 00:33:04,680
+Their starting point was to gain access to the utility corridor
+
+512
+00:33:04,681 --> 00:33:07,180
+by secretly digging through the cell walls surrounding
+
+513
+00:33:07,181 --> 00:33:09,600
+the ventilators.
+
+514
+00:33:09,601 --> 00:33:13,600
+The walls were nine inches thick, but the steel reinforced
+
+515
+00:33:13,601 --> 00:33:18,900
+concrete had been weakened by San Francisco's salty, damp air.
+
+516
+00:33:19,000 --> 00:33:23,540
+The deterioration continues to this day.
+
+517
+00:33:23,640 --> 00:33:26,340
+The salt environment on Alcatraz is very harsh
+
+518
+00:33:26,440 --> 00:33:27,940
+on anything that's metal.
+
+519
+00:33:28,040 --> 00:33:30,660
+And of course, in the foundation of a lot of these structures,
+
+520
+00:33:30,760 --> 00:33:34,260
+they have metal I-beams that are rusting and expanding.
+
+521
+00:33:34,360 --> 00:33:37,060
+And when they rust and expand, it's like a cancer.
+
+522
+00:33:37,160 --> 00:33:38,500
+It pops the concrete off.
+
+523
+00:33:38,600 --> 00:33:40,400
+And it's happening all around Alcatraz.
+
+524
+00:33:43,600 --> 00:33:48,900
+Another factor inside the walls weakened the concrete further,
+
+525
+00:33:50,120 --> 00:33:51,740
+substandard construction methods.
+
+526
+00:33:53,340 --> 00:33:56,800
+The cell house had been built in 1909 as a military prison,
+
+527
+00:33:58,100 --> 00:34:01,540
+using materials left over from the army outpost that predated it.
+
+528
+00:34:02,220 --> 00:34:05,060
+Instead of using a lot of rock in this concrete,
+
+529
+00:34:05,520 --> 00:34:07,360
+you're supposed to use good washed river rock.
+
+530
+00:34:07,760 --> 00:34:10,120
+They used ground up brick, broken brick,
+
+531
+00:34:10,180 --> 00:34:12,200
+from the old fortifications on Alcatraz.
+
+532
+00:34:12,201 --> 00:34:16,100
+What the brick did is it was porous, and it wicked in water,
+
+533
+00:34:16,280 --> 00:34:20,060
+especially seawater and San Francisco fog,
+
+534
+00:34:20,640 --> 00:34:25,980
+and that would lead to the metal inside starting to corrode, to rust.
+
+535
+00:34:27,460 --> 00:34:30,480
+Morris and the Anglin brothers took advantage of the deficiencies
+
+536
+00:34:30,481 --> 00:34:33,920
+inside Alcatraz's walls as they launched their daring plan.
+
+537
+00:34:35,040 --> 00:34:40,660
+With stolen drill bits, they were able to drill holes into the wall,
+
+538
+00:34:40,661 --> 00:34:43,540
+a hole here, a hole here, a hole here.
+
+539
+00:34:43,760 --> 00:34:45,300
+And every time they drilled one of the holes,
+
+540
+00:34:45,460 --> 00:34:47,540
+they would fill it in with soap and tissue paper
+
+541
+00:34:47,541 --> 00:34:50,860
+and paint, you know, from just paint stocks.
+
+542
+00:34:50,960 --> 00:34:52,300
+The guys were allowed to paint their own cells.
+
+543
+00:34:52,760 --> 00:34:54,520
+Pretty much blend in with the rest of the wall.
+
+544
+00:34:55,040 --> 00:34:58,120
+When they were ready to finally remove the wall pre-weakened,
+
+545
+00:34:58,680 --> 00:35:00,640
+then it could be kicked out.
+
+546
+00:35:03,000 --> 00:35:05,260
+On June 11th, the night of the escape,
+
+547
+00:35:05,261 --> 00:35:12,820
+The inmates placed dummy heads in their beds to convince the guards they were asleep.
+
+548
+00:35:13,920 --> 00:35:16,640
+Then they wriggled through the openings into the utility corridor
+
+549
+00:35:16,641 --> 00:35:21,440
+and positioned cardboard replicas of the ventilators over the holes.
+
+550
+00:35:23,200 --> 00:35:29,860
+From here, they went up the spider web of plumbing, pretty much just like a jungle gym.
+
+551
+00:35:30,180 --> 00:35:32,160
+They made their way to the top of the cell house.
+
+552
+00:35:32,161 --> 00:35:36,500
+They climbed into a hollow ventilator
+
+553
+00:35:36,600 --> 00:35:40,100
+and out onto the last ventilator opening that got them
+
+554
+00:35:40,200 --> 00:35:43,000
+onto the roof of the cell house itself.
+
+555
+00:35:43,100 --> 00:35:45,400
+X marks the spot where the three convicts
+
+556
+00:35:45,500 --> 00:35:48,400
+climbed through the utility corridor to access the roof.
+
+557
+00:35:48,500 --> 00:35:51,920
+They popped an air van off, ran across this roof,
+
+558
+00:35:52,020 --> 00:35:55,520
+slid down a set of water pipes, and entered the water
+
+559
+00:35:55,620 --> 00:35:56,920
+at the north end of the island.
+
+560
+00:35:56,921 --> 00:36:00,420
+Island.
+
+561
+00:36:00,421 --> 00:36:03,060
+The next morning, prison officials were shocked
+
+562
+00:36:03,061 --> 00:36:05,880
+to discover the three men missing,
+
+563
+00:36:05,881 --> 00:36:10,220
+finding only the ingenious artifacts of their escape.
+
+564
+00:36:10,221 --> 00:36:12,320
+The convicts were never seen again.
+
+565
+00:36:12,321 --> 00:36:15,280
+The suspicion is that they drowned
+
+566
+00:36:15,281 --> 00:36:18,680
+and their bodies were swept out to sea and just not recovered.
+
+567
+00:36:18,681 --> 00:36:21,280
+But you've got to add that the FBI considers the case
+
+568
+00:36:21,281 --> 00:36:22,620
+to be still open, and they're still
+
+569
+00:36:22,621 --> 00:36:26,620
+wanted for an escape from the federal penitentiary.
+
+570
+00:36:26,621 --> 00:36:30,300
+Whatever their fate, three men outside the law
+
+571
+00:36:30,301 --> 00:36:33,580
+earned a place in history by going inside the walls.
+
+572
+00:36:37,220 --> 00:36:40,100
+Today, innovative tech inside your walls
+
+573
+00:36:40,101 --> 00:36:46,380
+can help you escape as well from ever increasing energy bills.
+
+574
+00:36:46,381 --> 00:36:50,060
+Inside the smart walls of this house in Colorado
+
+575
+00:36:50,061 --> 00:36:52,020
+are the keys to a mother load of savings.
+
+576
+00:36:52,021 --> 00:36:57,820
+In 2009, a message in a bottle written in 1944
+
+577
+00:36:57,920 --> 00:37:00,760
+by seven prisoners of Auschwitz was found hidden
+
+578
+00:37:00,860 --> 00:37:02,660
+in a warehouse wall.
+
+579
+00:37:02,760 --> 00:37:05,260
+It lists their names and hometowns,
+
+580
+00:37:05,360 --> 00:37:08,260
+an effort to preserve some trace of their existence.
+
+581
+00:37:08,261 --> 00:37:09,260
+existence.
+
+582
+00:37:20,900 --> 00:37:24,100
+Before the walls of your house go up, the essentials you rely
+
+583
+00:37:24,101 --> 00:37:27,020
+on every day take their place in the spaces between them.
+
+584
+00:37:29,820 --> 00:37:33,020
+Inside your walls is the plumbing conveying water in
+
+585
+00:37:33,021 --> 00:37:37,420
+and waste out, the wiring that keeps you plugged in and logged
+
+586
+00:37:37,421 --> 00:37:41,420
+and the insulation that keeps you toasty in the winter and cool
+
+587
+00:37:41,520 --> 00:37:43,020
+in the summer.
+
+588
+00:37:43,120 --> 00:37:45,820
+But imagine a home in which the walls contain a far more
+
+589
+00:37:45,920 --> 00:37:47,320
+sophisticated system.
+
+590
+00:37:50,760 --> 00:37:54,780
+The walls of the future will act like eyes, ears, and hands
+
+591
+00:37:54,880 --> 00:37:57,680
+that see, hear, and feel.
+
+592
+00:37:57,780 --> 00:38:00,880
+Then send that information to a brain, which communicates
+
+593
+00:38:00,980 --> 00:38:04,780
+instructions to a heart that pumps energy where it's needed.
+
+594
+00:38:07,420 --> 00:38:12,920
+That future has already arrived in Boulder, Colorado, inside the
+
+595
+00:38:12,921 --> 00:38:17,420
+walls of the Edge House, designed by Rodwin Architecture.
+
+596
+00:38:17,421 --> 00:38:21,420
+It takes the concept of walls to a whole new level, using them to
+
+597
+00:38:21,421 --> 00:38:26,420
+provide the holy grail for energy consumers, a home with near net
+
+598
+00:38:26,421 --> 00:38:31,420
+zero energy efficiency. The way that we actually determine
+
+599
+00:38:31,421 --> 00:38:35,420
+whether something is truly net zero is by your utility bill.
+
+600
+00:38:35,421 --> 00:38:39,420
+If at the end of your first year you have a zero, zero dollar
+
+601
+00:38:39,421 --> 00:38:42,420
+utility bill, you have a net zero house.
+
+602
+00:38:42,421 --> 00:38:45,420
+The walls of the Edge House work this miracle with
+
+603
+00:38:45,421 --> 00:38:49,420
+sensors hidden within them. They continually monitor light,
+
+604
+00:38:49,421 --> 00:38:53,420
+temperature, and motion. That information travels by wire,
+
+605
+00:38:53,421 --> 00:38:57,420
+also hidden in the walls, to a central computer.
+
+606
+00:38:57,421 --> 00:39:01,420
+This is literally the brains of the house. All of the switches
+
+607
+00:39:01,421 --> 00:39:03,420
+in the house, all of the lights in the house, almost everything
+
+608
+00:39:03,421 --> 00:39:05,980
+Almost everything that's controlled by the home automation
+
+609
+00:39:05,981 --> 00:39:09,960
+system in this home has the brains of it located down here.
+
+610
+00:39:09,961 --> 00:39:12,260
+After the computer analyzes the data,
+
+611
+00:39:12,261 --> 00:39:15,660
+it sends electronic instructions to the so-called mechanical
+
+612
+00:39:15,661 --> 00:39:17,760
+room.
+
+613
+00:39:17,761 --> 00:39:19,660
+This is the power core of the house,
+
+614
+00:39:19,661 --> 00:39:22,580
+from which an elaborate network of wires and pipes extend
+
+615
+00:39:22,581 --> 00:39:25,980
+inside the walls.
+
+616
+00:39:25,981 --> 00:39:29,980
+Water warmed by a geothermal pump is sent via radiant piping
+
+617
+00:39:29,981 --> 00:39:33,320
+to heat only rooms where sensors detect occupants.
+
+618
+00:39:34,420 --> 00:39:37,420
+Water drained from sinks and showers is recycled
+
+619
+00:39:37,520 --> 00:39:38,820
+and flows to fill toilets.
+
+620
+00:39:41,720 --> 00:39:44,020
+Electricity from rooftop solar panels
+
+621
+00:39:44,120 --> 00:39:48,020
+powers LED lamps along stairways.
+
+622
+00:39:48,120 --> 00:39:51,020
+If exterior sensors detect high winds,
+
+623
+00:39:51,120 --> 00:39:53,720
+this patio partition retracts to prevent any damage.
+
+624
+00:39:56,720 --> 00:39:59,320
+Even walls you can't classify as smart
+
+625
+00:39:59,420 --> 00:40:02,820
+serve a distinct energy-efficient purpose.
+
+626
+00:40:02,821 --> 00:40:04,960
+Our design philosophy is that nothing is arbitrary.
+
+627
+00:40:04,961 --> 00:40:06,360
+Everything has a purpose.
+
+628
+00:40:06,361 --> 00:40:08,660
+This wall also serves as a thermal mass
+
+629
+00:40:08,661 --> 00:40:10,160
+in the center of the house, which
+
+630
+00:40:10,161 --> 00:40:12,220
+helps to regulate the temperature of the house,
+
+631
+00:40:12,221 --> 00:40:15,260
+keeping it very steady and even.
+
+632
+00:40:15,261 --> 00:40:17,560
+The Edge house owes much of its energy efficiency
+
+633
+00:40:17,561 --> 00:40:20,780
+to the insulation inside its walls,
+
+634
+00:40:20,781 --> 00:40:22,880
+just like another Rodwin home under construction.
+
+635
+00:40:26,720 --> 00:40:30,020
+It's not the fiberglass material found in many homes.
+
+636
+00:40:30,021 --> 00:40:32,320
+It's foam.
+
+637
+00:40:32,321 --> 00:40:39,600
+Foam's key advantage over fiberglass is its ability to expand as it dries into areas that may be harder to fill with fiberglass.
+
+638
+00:40:40,380 --> 00:40:45,420
+This helps to ensure an airtight seal and significant savings.
+
+639
+00:40:47,340 --> 00:40:54,700
+A typical house this size with regular insulation and, you know, an inefficient system, you'd be paying $400 to $500 a month in your utility bills.
+
+640
+00:40:54,701 --> 00:40:59,700
+But with all the super insulation we have, the renewable energy, you're only going to be paying about $100 a month.
+
+641
+00:41:02,320 --> 00:41:07,320
+If you're aching for a dream house with that kind of savings
+
+642
+00:41:07,321 --> 00:41:12,320
+built inside its walls, but you can't afford to move,
+
+643
+00:41:12,321 --> 00:41:15,320
+Broadwin can offer you a retrofit.
+
+644
+00:41:15,321 --> 00:41:19,320
+This house, built in Boulder in 1956,
+
+645
+00:41:19,321 --> 00:41:22,320
+recently underwent an energy makeover.
+
+646
+00:41:22,321 --> 00:41:26,320
+This house used to have typical wintertime energy bills
+
+647
+00:41:26,321 --> 00:41:29,320
+approaching $300 in a month.
+
+648
+00:41:29,321 --> 00:41:32,920
+Right now, it's about $25.
+
+649
+00:41:33,020 --> 00:41:35,460
+Giving a new energy efficiency to your old walls
+
+650
+00:41:35,560 --> 00:41:40,060
+starts by inspecting them for leaks with infrared cameras.
+
+651
+00:41:40,160 --> 00:41:41,760
+With this camera, we can actually
+
+652
+00:41:41,860 --> 00:41:44,160
+look at a wall assembly and see in places
+
+653
+00:41:44,260 --> 00:41:46,340
+where we have air infiltration or places
+
+654
+00:41:46,440 --> 00:41:48,080
+where cold is moving through the wall.
+
+655
+00:41:48,180 --> 00:41:50,280
+And we can identify them, and then that helps us seal them.
+
+656
+00:41:54,180 --> 00:41:58,280
+To further pinpoint spots where heat is escaping,
+
+657
+00:41:59,320 --> 00:42:03,320
+Calibrator fans pressurize air ducts inside the walls.
+
+658
+00:42:03,321 --> 00:42:07,320
+Often we've been finding that 30% or 40% of the total energy
+
+659
+00:42:07,321 --> 00:42:10,320
+that the furnace is putting out is actually leaking to the
+
+660
+00:42:10,321 --> 00:42:12,320
+outside or going places that we don't want it.
+
+661
+00:42:12,321 --> 00:42:15,320
+We measure it before to see how bad the system was, and then
+
+662
+00:42:15,321 --> 00:42:17,320
+we measure it again afterwards to see how successful we were
+
+663
+00:42:17,321 --> 00:42:21,320
+in tightening the system up. Adding foam insulation
+
+664
+00:42:21,321 --> 00:42:24,320
+inside every wall is a quantum leap for the house's energy
+
+665
+00:42:24,321 --> 00:42:29,320
+efficiency. So is adding these roof
+
+666
+00:42:29,321 --> 00:42:33,320
+solar panels. They're not so efficient when covered with snow,
+
+667
+00:42:33,321 --> 00:42:37,320
+but extremely valuable in the long term.
+
+668
+00:42:37,321 --> 00:42:40,320
+Here, the utility company is obligated to allow people to
+
+669
+00:42:40,321 --> 00:42:44,320
+hook their photovoltaic systems up to the grid. And when the
+
+670
+00:42:44,321 --> 00:42:47,320
+photovoltaic system is generating more electricity than the home
+
+671
+00:42:47,321 --> 00:42:51,320
+is using, the electrical energy is actually going back through
+
+672
+00:42:51,321 --> 00:42:54,320
+the electrical meter and back to the grid.
+
+673
+00:42:54,321 --> 00:42:57,320
+Yes, that means the meter runs backwards, and the power
+
+674
+00:42:57,321 --> 00:43:00,660
+and the power company buys the excess energy from the homeowner.
+
+675
+00:43:03,860 --> 00:43:11,740
+That means more savings, which left plenty of cash to add one low-tech but popular energy source inside the house's walls.
+
+676
+00:43:13,360 --> 00:43:16,880
+No matter how fancy of a mechanical system you put into a home,
+
+677
+00:43:17,320 --> 00:43:22,020
+it never draws the family together to go look at the fancy heat pump that just doesn't happen.
+
+678
+00:43:22,420 --> 00:43:24,420
+However, wood-burning fireplaces do.
+
+679
+00:43:24,421 --> 00:43:31,420
+And with that, our look inside our walls has, well, hit the wall.
+
+680
+00:43:31,421 --> 00:43:37,420
+Remember not to judge the walls surrounding you just by the texture of their plaster or the color they're painted.
+
+681
+00:43:37,421 --> 00:43:42,420
+There's fascinating stuff inside that'll floor you.
+
+682
+00:43:42,421 --> 00:43:45,420
+But that's another show.
+

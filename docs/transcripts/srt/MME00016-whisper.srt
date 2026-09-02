@@ -1,0 +1,3000 @@
+1
+00:00:00,001 --> 00:00:06,000
+The space shuttle. It is the most complex machine ever built by man.
+
+2
+00:00:06,001 --> 00:00:12,000
+A triumph of human ingenuity and a testament to the commitment to continued space exploration.
+
+3
+00:00:12,001 --> 00:00:17,000
+Hi, I'm Story Musgrave. I'm standing at the Kennedy Space Center in Florida,
+
+4
+00:00:17,001 --> 00:00:21,000
+launching pad for every major U.S. space mission in the last five decades
+
+5
+00:00:21,001 --> 00:00:24,000
+and an epicenter of the NASA space program.
+
+6
+00:00:24,001 --> 00:00:27,000
+Being the only astronaut to have flown on all five shuttles,
+
+7
+00:00:27,001 --> 00:00:30,600
+I can personally attest to their unique power and beauty.
+
+8
+00:00:30,700 --> 00:00:33,800
+Join me now as we explore mankind's first attempt
+
+9
+00:00:33,900 --> 00:00:36,740
+at a reusable spaceship on modern marvels.
+
+10
+00:00:36,840 --> 00:00:41,040
+Space Shuttle, next on Space Week.
+
+11
+00:00:41,140 --> 00:00:43,920
+Throughout history, the wondrous appeal of flight
+
+12
+00:00:44,020 --> 00:00:47,880
+has held a firm grip on man's imagination.
+
+13
+00:00:47,980 --> 00:00:51,060
+There are those who have attempted to approximate wings
+
+14
+00:00:51,160 --> 00:00:54,020
+and let their spirits soar.
+
+15
+00:00:54,021 --> 00:00:56,920
+These early efforts were resounding failures.
+
+16
+00:01:09,860 --> 00:01:12,200
+Yet in the first half of the 20th century,
+
+17
+00:01:12,300 --> 00:01:15,140
+a fearless generation of amateur inventors
+
+18
+00:01:15,240 --> 00:01:17,140
+tried to master the challenge of flight.
+
+19
+00:01:17,141 --> 00:01:17,841
+of flight.
+
+20
+00:01:23,380 --> 00:01:26,880
+In 1903, two brothers tinkering in the back of their bicycle
+
+21
+00:01:26,980 --> 00:01:30,120
+repair shop strapped a 12 horsepower engine
+
+22
+00:01:30,220 --> 00:01:33,760
+on a simple glider and achieved sustained powered flight.
+
+23
+00:01:33,860 --> 00:01:37,220
+Orville Wright's first voyage lasted only 12 seconds,
+
+24
+00:01:37,320 --> 00:01:40,760
+spanning a mere 120 feet, shorter than the wingspan
+
+25
+00:01:40,860 --> 00:01:43,140
+of most modern commercial planes.
+
+26
+00:01:43,240 --> 00:01:44,640
+But together, the Wright brothers
+
+27
+00:01:44,641 --> 00:01:47,340
+lifted the world's perception of the possible
+
+28
+00:01:47,440 --> 00:01:48,940
+and cracked open the skies.
+
+29
+00:01:55,380 --> 00:01:57,680
+But while the public applauded the accomplishments
+
+30
+00:01:57,780 --> 00:02:00,660
+of aviation's first heroes, scientists
+
+31
+00:02:00,760 --> 00:02:03,400
+were already making important discoveries, which
+
+32
+00:02:03,500 --> 00:02:05,820
+would change the nature of powered flight
+
+33
+00:02:05,920 --> 00:02:09,600
+and propel the world into an uncertain future.
+
+34
+00:02:09,700 --> 00:02:12,460
+March 16, 1926, more than a year
+
+35
+00:02:12,461 --> 00:02:15,360
+before Lindbergh's solo flight across the Atlantic,
+
+36
+00:02:15,460 --> 00:02:18,460
+Dr. Robert Goddard designs, builds, and fires
+
+37
+00:02:18,560 --> 00:02:21,900
+the world's first liquid-fueled rocket in the desert
+
+38
+00:02:22,000 --> 00:02:23,500
+of Roswell, New Mexico.
+
+39
+00:02:27,700 --> 00:02:30,820
+These rare home movies illustrate the early potential
+
+40
+00:02:30,920 --> 00:02:33,220
+of his revolutionary new concept,
+
+41
+00:02:33,320 --> 00:02:34,920
+a fundamentally different approach
+
+42
+00:02:35,020 --> 00:02:37,960
+to propulsion with an internal combustion engine
+
+43
+00:02:38,060 --> 00:02:41,860
+that isn't based on a mechanical model.
+
+44
+00:02:41,861 --> 00:02:44,760
+Dr. Goddard based his work on careful calculations,
+
+45
+00:02:44,860 --> 00:02:48,440
+but often alienated his peers by suggesting that rockets would
+
+46
+00:02:48,540 --> 00:02:53,200
+make a trip to the moon a reality.
+
+47
+00:02:53,300 --> 00:02:55,500
+At his Roswell test site in the 1930s,
+
+48
+00:02:55,600 --> 00:02:59,620
+Goddard and his staff built and tested a rocket a month.
+
+49
+00:02:59,720 --> 00:03:01,620
+They came in all shapes and sizes,
+
+50
+00:03:01,720 --> 00:03:05,120
+carrying scientific equipment and rising from the desert floor
+
+51
+00:03:05,220 --> 00:03:08,380
+at speeds up to 600 miles per hour.
+
+52
+00:03:08,480 --> 00:03:11,160
+Goddard's home movies also reveal another space age
+
+53
+00:03:11,161 --> 00:03:13,860
+innovation, recovery by parachute.
+
+54
+00:03:16,660 --> 00:03:19,900
+Few Americans realize the implications of Goddard's work
+
+55
+00:03:20,000 --> 00:03:22,400
+in his rocket research was greatly ignored.
+
+56
+00:03:22,500 --> 00:03:25,100
+But in Nazi Germany during the 1930s,
+
+57
+00:03:25,200 --> 00:03:29,140
+scientists like Werner von Braun devoured Goddard's theories
+
+58
+00:03:29,240 --> 00:03:32,520
+and gave the rocket its first practical application,
+
+59
+00:03:32,620 --> 00:03:35,380
+the V-2 bomb.
+
+60
+00:03:35,480 --> 00:03:37,460
+Constructed in exactly the same manner
+
+61
+00:03:37,560 --> 00:03:39,520
+as Dr. Goddard's New Mexico rockets,
+
+62
+00:03:39,521 --> 00:03:42,620
+the V2s delivered explosive death to the British,
+
+63
+00:03:42,720 --> 00:03:46,360
+destroying homes, businesses, great cathedrals,
+
+64
+00:03:46,460 --> 00:03:49,700
+and the civilians inside.
+
+65
+00:03:49,800 --> 00:03:53,100
+After the war, German scientists were interrogated
+
+66
+00:03:53,200 --> 00:03:55,040
+about the design of their missiles.
+
+67
+00:03:55,140 --> 00:03:57,000
+Why are you asking us, they replied?
+
+68
+00:03:57,100 --> 00:04:01,100
+Why don't you ask your own rocket pioneer, Dr. Goddard?
+
+69
+00:04:01,200 --> 00:04:04,280
+We learned these things from him.
+
+70
+00:04:04,380 --> 00:04:08,040
+Unfortunately, Dr. Goddard had died in August of 1945,
+
+71
+00:04:08,041 --> 00:04:11,380
+just as the world was reeling from an explosive new future
+
+72
+00:04:11,480 --> 00:04:13,680
+shock.
+
+73
+00:04:13,780 --> 00:04:16,180
+Rockets facilitated the nuclear age.
+
+74
+00:04:16,280 --> 00:04:19,880
+After all, if a nation were to use such a destructive weapon,
+
+75
+00:04:19,980 --> 00:04:23,920
+it would be important to pull the trigger from very far away.
+
+76
+00:04:24,020 --> 00:04:26,800
+Rockets give warriors a comfortable distance
+
+77
+00:04:26,900 --> 00:04:30,100
+from the destruction they unleash.
+
+78
+00:04:30,200 --> 00:04:32,440
+But in the Cold War years that followed,
+
+79
+00:04:32,540 --> 00:04:34,540
+the United States and the Soviet Union
+
+80
+00:04:34,541 --> 00:04:37,880
+competed to be able to put a far more innovative payload
+
+81
+00:04:37,980 --> 00:04:39,980
+into a missile.
+
+82
+00:04:40,080 --> 00:04:42,980
+And the race to lay claim to outer space began.
+
+83
+00:04:49,880 --> 00:04:53,900
+In 1954, white mice were sealed in a rocket nose cone
+
+84
+00:04:54,000 --> 00:04:55,400
+for an experimental flight.
+
+85
+00:05:00,200 --> 00:05:02,000
+This was the first physical evidence
+
+86
+00:05:02,001 --> 00:05:05,600
+that living organisms could survive in a zero gravity
+
+87
+00:05:05,700 --> 00:05:07,800
+environment.
+
+88
+00:05:07,900 --> 00:05:11,440
+Meanwhile, on Earth, John Paul Stapp rides a rocket sled
+
+89
+00:05:11,540 --> 00:05:14,820
+at supersonic speeds to see if the human body can withstand
+
+90
+00:05:14,920 --> 00:05:17,920
+the grueling effects of space flight.
+
+91
+00:05:18,020 --> 00:05:20,020
+His face reflecting the strain, Stapp
+
+92
+00:05:20,120 --> 00:05:24,620
+is subjected to pressure 35 times his own weight as his sled
+
+93
+00:05:24,720 --> 00:05:25,720
+is braked to a stop.
+
+94
+00:05:32,000 --> 00:05:35,700
+But while the United States set an agenda of controlled
+
+95
+00:05:35,800 --> 00:05:38,600
+scientific advancement, Russia leaps ahead
+
+96
+00:05:38,700 --> 00:05:42,280
+with an astounding demonstration of bravado.
+
+97
+00:05:42,380 --> 00:05:46,320
+October 4, 1957, the world listens to the faint chirp
+
+98
+00:05:46,420 --> 00:05:50,580
+of Sputnik 1, the first man-made satellite circling the globe
+
+99
+00:05:50,680 --> 00:05:54,120
+every 90 minutes, and the race escalates.
+
+100
+00:05:54,121 --> 00:05:54,821
+escalates.
+
+101
+00:06:01,420 --> 00:06:04,360
+In America, a chimpanzee named Ham is wired
+
+102
+00:06:04,460 --> 00:06:07,960
+with delicate electronic sensors, then packed in a rocket
+
+103
+00:06:08,060 --> 00:06:12,340
+and blasted 150 miles into the stratosphere.
+
+104
+00:06:12,440 --> 00:06:15,100
+Minutes later, he's recovered by Navy helicopters
+
+105
+00:06:15,200 --> 00:06:20,220
+in the Atlantic, 450 miles from the launch site.
+
+106
+00:06:20,221 --> 00:06:24,420
+Russia responds with Laika, a puppy sent into complete Earth
+
+107
+00:06:24,520 --> 00:06:26,960
+orbit aboard Sputnik 2.
+
+108
+00:06:27,060 --> 00:06:29,560
+Unlike the American chimp, Laika
+
+109
+00:06:29,660 --> 00:06:31,660
+was allowed to burn up upon reentry.
+
+110
+00:06:34,400 --> 00:06:37,980
+In 1959, America recruits military test pilots
+
+111
+00:06:38,080 --> 00:06:39,680
+as future astronauts.
+
+112
+00:06:39,780 --> 00:06:42,680
+But before their training is complete, Russia scores again.
+
+113
+00:06:45,280 --> 00:06:48,320
+April 1961, Moscow and the world
+
+114
+00:06:48,321 --> 00:06:51,060
+hail Yuri Gagarin after the Russian cosmonaut
+
+115
+00:06:51,160 --> 00:06:56,000
+becomes the first human being to orbit the Earth.
+
+116
+00:06:56,100 --> 00:06:59,100
+America must respond, and President Kennedy
+
+117
+00:06:59,200 --> 00:07:01,700
+charts the course.
+
+118
+00:07:01,800 --> 00:07:04,540
+We choose to go to the moon.
+
+119
+00:07:04,640 --> 00:07:06,040
+We choose to go to the moon.
+
+120
+00:07:12,640 --> 00:07:15,380
+We choose to go to the moon in this decade
+
+121
+00:07:15,480 --> 00:07:18,080
+and do the other thing, not because they
+
+122
+00:07:18,081 --> 00:07:20,920
+they are easy, but because they are hard.
+
+123
+00:07:20,921 --> 00:07:24,120
+I believe that this nation should commit itself
+
+124
+00:07:24,121 --> 00:07:28,360
+to achieving the goal before this decade is out
+
+125
+00:07:28,361 --> 00:07:31,520
+of landing a man on the moon and returning him safely
+
+126
+00:07:31,521 --> 00:07:33,360
+to the earth.
+
+127
+00:07:33,361 --> 00:07:36,440
+No single space project in this period
+
+128
+00:07:36,441 --> 00:07:40,000
+will be more impressive to mankind or more important
+
+129
+00:07:40,001 --> 00:07:42,400
+for the long-range exploration of space.
+
+130
+00:07:42,401 --> 00:07:45,400
+One, zero, ignition.
+
+131
+00:07:48,080 --> 00:07:52,680
+February 1962, John Glenn orbits the Earth,
+
+132
+00:07:52,780 --> 00:07:56,320
+and America holds its breath as a new frontier beacons
+
+133
+00:07:56,420 --> 00:07:58,920
+the nation towards unknown worlds.
+
+134
+00:07:59,020 --> 00:08:00,220
+This is Friendship 7.
+
+135
+00:08:00,320 --> 00:08:03,300
+I can see clear back a big cloud pattern way back
+
+136
+00:08:03,400 --> 00:08:05,300
+across toward the Cape.
+
+137
+00:08:05,400 --> 00:08:07,740
+Beautiful sight.
+
+138
+00:08:07,840 --> 00:08:10,140
+Not all rockets work to perfection,
+
+139
+00:08:10,240 --> 00:08:13,840
+but while NASA understood that progress is built on failure
+
+140
+00:08:13,940 --> 00:08:16,680
+as much as success, the Soviet Union seemed
+
+141
+00:08:16,681 --> 00:08:19,440
+The Soviet Union seemed to flaunt its impressive string
+
+142
+00:08:19,540 --> 00:08:23,880
+of accomplishments, including the first woman in space,
+
+143
+00:08:23,980 --> 00:08:31,300
+Valentina Tereshkova, who orbited the globe in June of 1963.
+
+144
+00:08:31,400 --> 00:08:34,960
+NASA called her a Soviet Barbie doll who was only long for the
+
+145
+00:08:35,060 --> 00:08:36,260
+ride.
+
+146
+00:08:36,360 --> 00:08:39,260
+But a Russian space agency official boasted that she was
+
+147
+00:08:39,360 --> 00:08:42,440
+a brilliant star in the cosmic firmament.
+
+148
+00:08:42,540 --> 00:08:46,680
+Never before and in no country did women ever obtain such height.
+
+149
+00:08:46,681 --> 00:08:49,380
+be another 20 years before the first American woman would
+
+150
+00:08:49,480 --> 00:08:51,080
+experience outer space.
+
+151
+00:08:55,980 --> 00:08:59,920
+The dark mysteries of the cosmos and the extraordinary perspective
+
+152
+00:09:00,020 --> 00:09:03,160
+of Earth from orbit seemed to offer another motivation
+
+153
+00:09:03,260 --> 00:09:05,400
+for the American space program that
+
+154
+00:09:05,500 --> 00:09:08,140
+transcended the technical rivalries of two
+
+155
+00:09:08,240 --> 00:09:10,780
+Earth-bound superpowers.
+
+156
+00:09:10,880 --> 00:09:12,800
+Suddenly, the world began to realize
+
+157
+00:09:12,900 --> 00:09:15,400
+that the immediate goal of landing on the moon
+
+158
+00:09:15,401 --> 00:09:20,140
+was part of a more profound journey for humankind.
+
+159
+00:09:20,240 --> 00:09:24,440
+When two men walked on the lunar surface, so did we all.
+
+160
+00:09:29,080 --> 00:09:32,080
+When humankind claimed the moon in 1969,
+
+161
+00:09:32,180 --> 00:09:37,120
+the Earth was a landscape of war and epic social revolution.
+
+162
+00:09:37,220 --> 00:09:40,220
+But in space, humankind's most noble dreams
+
+163
+00:09:40,320 --> 00:09:43,720
+came into crystal focus.
+
+164
+00:09:43,721 --> 00:09:47,160
+Those few fortunate souls who experienced outer space
+
+165
+00:09:47,260 --> 00:09:50,360
+understood that there was hope in the heavens,
+
+166
+00:09:50,460 --> 00:09:53,460
+that human beings need a relationship with the stars
+
+167
+00:09:53,560 --> 00:09:57,140
+that feeds curiosity instead of competition,
+
+168
+00:09:57,240 --> 00:09:59,840
+a way must be found to shuttle more people
+
+169
+00:09:59,940 --> 00:10:01,300
+into the province of space.
+
+170
+00:10:09,940 --> 00:10:11,740
+Well, then why we got a problem.
+
+171
+00:10:11,741 --> 00:10:14,280
+Put up chart number four, please.
+
+172
+00:10:14,380 --> 00:10:17,040
+Do you need this small segment called the tunnel segment
+
+173
+00:10:17,140 --> 00:10:20,380
+if you are not going into space last?
+
+174
+00:10:20,480 --> 00:10:23,880
+Go to chart 2489A.
+
+175
+00:10:23,980 --> 00:10:26,980
+These men and women are doing the impossible.
+
+176
+00:10:27,080 --> 00:10:30,200
+They are creating humankind's very first reusable
+
+177
+00:10:30,300 --> 00:10:32,100
+extraterrestrial spaceship.
+
+178
+00:10:32,200 --> 00:10:33,900
+And what if you cut the interface here,
+
+179
+00:10:34,000 --> 00:10:36,000
+and you don't need something on the street?
+
+180
+00:10:36,100 --> 00:10:38,500
+Well, then why can't I go EVA, too, with 5,000?
+
+181
+00:10:38,600 --> 00:10:39,900
+You can go out here.
+
+182
+00:10:39,901 --> 00:10:43,700
+Let's go to chart number seven, please.
+
+183
+00:10:43,800 --> 00:10:47,900
+There will be no prefabricated parts, no instruction book.
+
+184
+00:10:48,000 --> 00:10:50,920
+Every element of the project is brand new,
+
+185
+00:10:51,020 --> 00:10:54,840
+poised on the cutting edge of science and imagination.
+
+186
+00:11:02,260 --> 00:11:03,320
+17 Houston, you are in.
+
+187
+00:11:03,420 --> 00:11:04,220
+Go for orbit.
+
+188
+00:11:04,320 --> 00:11:06,620
+Go for orbit.
+
+189
+00:11:06,720 --> 00:11:08,760
+It had always been NASA's intent
+
+190
+00:11:08,761 --> 00:11:12,000
+to create a method of transporting men and materials
+
+191
+00:11:12,100 --> 00:11:14,400
+between Earth and the heavens.
+
+192
+00:11:14,500 --> 00:11:17,000
+But the project accelerated after the conclusion
+
+193
+00:11:17,100 --> 00:11:22,600
+of the Apollo moon missions in the early 1970s.
+
+194
+00:11:22,700 --> 00:11:25,580
+In many ways, the technology behind a space shuttle
+
+195
+00:11:25,680 --> 00:11:29,520
+is more sophisticated than a lunar expedition.
+
+196
+00:11:29,620 --> 00:11:31,880
+In both concept and completion, it
+
+197
+00:11:31,980 --> 00:11:34,520
+is an unprecedented human achievement,
+
+198
+00:11:34,620 --> 00:11:36,680
+designed to rocket into Earth orbit
+
+199
+00:11:36,681 --> 00:11:41,180
+at a height of 350 miles, carry up to seven people,
+
+200
+00:11:41,280 --> 00:11:45,560
+and 65,000 pounds of freight, perform delicate missions
+
+201
+00:11:45,660 --> 00:11:49,520
+in zero gravity, then land back on the planet's surface
+
+202
+00:11:49,620 --> 00:11:53,800
+like a glider and be prepared to repeat the trip 100 times
+
+203
+00:11:53,900 --> 00:11:54,600
+over.
+
+204
+00:11:57,260 --> 00:11:59,400
+The first practical challenge of the endeavor
+
+205
+00:11:59,500 --> 00:12:03,380
+concerns the vehicle's ability to withstand the 2,500 degree
+
+206
+00:12:03,480 --> 00:12:06,340
+heat of reentry.
+
+207
+00:12:06,341 --> 00:12:08,540
+When the Apollo astronauts returned from the moon,
+
+208
+00:12:08,640 --> 00:12:11,580
+their command module was protected from incineration
+
+209
+00:12:11,680 --> 00:12:14,420
+by a heat shield of asbestos resin,
+
+210
+00:12:14,520 --> 00:12:17,080
+which burned up upon reentry.
+
+211
+00:12:17,180 --> 00:12:20,880
+But the shuttle shield must not burn away.
+
+212
+00:12:20,980 --> 00:12:23,660
+Instead, a remarkable new insulating material
+
+213
+00:12:23,760 --> 00:12:27,600
+was developed, which can be used on up to 100 excursions
+
+214
+00:12:27,700 --> 00:12:30,660
+to space and back.
+
+215
+00:12:30,760 --> 00:12:33,060
+With the weight and consistency of styrofoam,
+
+216
+00:12:33,061 --> 00:12:37,300
+it is manufactured from an easily obtainable source, sand.
+
+217
+00:12:41,800 --> 00:12:44,580
+The heat dissipating properties of the shuttle's insulation
+
+218
+00:12:44,680 --> 00:12:48,840
+is so efficient, it can be handled while still red hot.
+
+219
+00:12:52,820 --> 00:12:55,480
+The shuttle's 34,000 insulation tiles
+
+220
+00:12:55,580 --> 00:12:58,660
+must be individually milled and fitted to their unique place
+
+221
+00:12:58,760 --> 00:13:02,080
+on the vehicle, covering the ship's aluminum skin, which
+
+222
+00:13:02,081 --> 00:13:07,160
+which would otherwise melt at a mere 320 degrees.
+
+223
+00:13:07,260 --> 00:13:10,160
+This requires that each tile have its own code number, which
+
+224
+00:13:10,260 --> 00:13:13,360
+relates to the specific place and curvature of the area
+
+225
+00:13:13,460 --> 00:13:17,020
+for which it was cut, then sprayed with a polymer
+
+226
+00:13:17,120 --> 00:13:20,460
+to avoid absorbing moisture and weight between flights.
+
+227
+00:13:25,600 --> 00:13:28,580
+Like parts of a jigsaw puzzle, shuttle components
+
+228
+00:13:28,680 --> 00:13:30,500
+from contractors across the country
+
+229
+00:13:30,501 --> 00:13:33,540
+flow into the California Assembly Facility of Rockwell
+
+230
+00:13:33,640 --> 00:13:35,800
+International.
+
+231
+00:13:35,900 --> 00:13:40,780
+This wing section has come from Long Island,
+
+232
+00:13:40,880 --> 00:13:45,620
+wheel and brake assemblies from Ohio, flight control system
+
+233
+00:13:45,720 --> 00:13:50,820
+from Florida, payload bay doors from Oklahoma, and crew living
+
+234
+00:13:50,920 --> 00:13:53,960
+quarters from Colorado.
+
+235
+00:13:54,060 --> 00:13:55,760
+From all across the United States,
+
+236
+00:13:55,860 --> 00:13:58,420
+people have worked at solving the shuttle's construction
+
+237
+00:13:58,421 --> 00:14:03,260
+challenges, from special robotic welding
+
+238
+00:14:03,360 --> 00:14:06,220
+to using lasers to precisely cut insulation
+
+239
+00:14:06,320 --> 00:14:07,960
+from around electrical wiring.
+
+240
+00:14:13,260 --> 00:14:18,180
+There are four separate propulsion systems on the shuttle.
+
+241
+00:14:18,280 --> 00:14:21,640
+Twin rocket boosters support the orbiter and the external tank
+
+242
+00:14:21,740 --> 00:14:25,020
+on the launch pad and supply most of the thrust for blast
+
+243
+00:14:25,021 --> 00:14:27,920
+and the first two minutes of flight.
+
+244
+00:14:28,020 --> 00:14:30,720
+The main propulsion system, a cluster of three liquid
+
+245
+00:14:30,820 --> 00:14:33,660
+propellant rocket engines supplied with liquid oxygen
+
+246
+00:14:33,760 --> 00:14:35,760
+and liquid hydrogen from the external tank.
+
+247
+00:14:39,360 --> 00:14:43,100
+The orbital maneuvering system, two pods mounted on the aft,
+
+248
+00:14:43,200 --> 00:14:46,100
+producing propulsion for the final stage of ascent,
+
+249
+00:14:46,200 --> 00:14:49,440
+maneuvering in space, and retrofiring for descent.
+
+250
+00:14:49,441 --> 00:14:56,080
+The reaction control system comprised of 44 small rockets
+
+251
+00:14:56,180 --> 00:14:58,420
+mounted in clusters in the nose section
+
+252
+00:14:58,520 --> 00:15:01,820
+and in the two rear pods, which align the shuttle
+
+253
+00:15:01,920 --> 00:15:02,920
+while in orbit.
+
+254
+00:15:09,420 --> 00:15:12,160
+The solid rocket boosters are the largest of their kind
+
+255
+00:15:12,260 --> 00:15:17,100
+ever built, 150 feet long, 12 feet in diameter,
+
+256
+00:15:17,101 --> 00:15:21,840
+assembled from four segments of 1 1⁄2 inch steel.
+
+257
+00:15:21,940 --> 00:15:25,580
+The solid propellant inside the casing looks and feels
+
+258
+00:15:25,680 --> 00:15:30,580
+like the hard rubber of a typewriter eraser.
+
+259
+00:15:30,680 --> 00:15:33,780
+After ignition, the boosters will be up to full operating
+
+260
+00:15:33,880 --> 00:15:37,220
+pressure in less than one second, with a combined thrust
+
+261
+00:15:37,320 --> 00:15:39,020
+of nearly 3 million pounds.
+
+262
+00:15:42,000 --> 00:15:45,620
+The three main engines can swivel 21 degrees up and down
+
+263
+00:15:45,621 --> 00:15:47,860
+up and down in the vertical position,
+
+264
+00:15:47,960 --> 00:15:51,560
+and 17 degrees from side to side to steer the vehicle
+
+265
+00:15:51,660 --> 00:15:53,560
+during flight.
+
+266
+00:15:53,660 --> 00:15:56,660
+The liquid hydrogen and oxygen use a propellant stored
+
+267
+00:15:56,760 --> 00:16:00,940
+in the external tank, a structure just over 150 feet
+
+268
+00:16:01,040 --> 00:16:05,880
+long with a diameter of 28 feet, constructed of aluminum alloy
+
+269
+00:16:05,980 --> 00:16:07,380
+up to two inches thick.
+
+270
+00:16:10,440 --> 00:16:12,520
+It is actually two propellant tanks
+
+271
+00:16:12,521 --> 00:16:17,100
+connected by a cylindrical collar called an inner tank.
+
+272
+00:16:17,200 --> 00:16:21,500
+The forward tank holds 140,000 gallons of liquid oxygen
+
+273
+00:16:21,600 --> 00:16:25,960
+at minus 297 degrees Fahrenheit.
+
+274
+00:16:26,060 --> 00:16:30,280
+The aft tank holds 380,000 gallons of liquid hydrogen
+
+275
+00:16:30,380 --> 00:16:34,580
+at minus 420 degrees.
+
+276
+00:16:34,680 --> 00:16:36,680
+Before assembling the final craft,
+
+277
+00:16:36,780 --> 00:16:39,680
+45 tests at six different facilities
+
+278
+00:16:39,780 --> 00:16:42,380
+were performed to make certain the propulsion
+
+279
+00:16:42,381 --> 00:16:43,620
+operated perfectly.
+
+280
+00:16:53,320 --> 00:16:55,520
+But while the mechanical elements of the craft
+
+281
+00:16:55,620 --> 00:16:57,820
+were being constructed and analyzed,
+
+282
+00:16:57,920 --> 00:16:59,740
+the human element was being prepared
+
+283
+00:16:59,840 --> 00:17:03,740
+inside the most elaborate testing facility ever conceived.
+
+284
+00:17:03,741 --> 00:17:13,080
+The space shuttle represents the combined investments of three
+
+285
+00:17:13,180 --> 00:17:18,260
+decades in space, a generation of scientists and technicians,
+
+286
+00:17:18,360 --> 00:17:21,160
+and billions of dollars in hardware.
+
+287
+00:17:21,260 --> 00:17:23,620
+It is important that whoever is finally
+
+288
+00:17:23,720 --> 00:17:26,700
+chosen to represent humankind on a shuttle mission
+
+289
+00:17:26,800 --> 00:17:28,940
+be equipped with intensive training
+
+290
+00:17:29,040 --> 00:17:33,740
+in order to address any known or unknown problem in space.
+
+291
+00:17:33,741 --> 00:17:36,240
+To accomplish this goal, scientists
+
+292
+00:17:36,340 --> 00:17:39,940
+developed the most highly advanced computerized virtual
+
+293
+00:17:40,040 --> 00:17:45,280
+reality device ever created, the SMS.
+
+294
+00:17:45,380 --> 00:17:48,180
+Well, the SMS stands for Shuttle Mission Simulator.
+
+295
+00:17:48,280 --> 00:17:49,680
+That's exactly what it is.
+
+296
+00:17:49,780 --> 00:17:51,900
+It simulates the shuttle mission.
+
+297
+00:17:52,000 --> 00:17:55,700
+We can simulate ascent, on orbit, and entry.
+
+298
+00:17:55,800 --> 00:17:59,400
+We've got all the switches that allow us to do that.
+
+299
+00:17:59,500 --> 00:18:01,840
+This exact high-fidelity replica
+
+300
+00:18:01,841 --> 00:18:04,000
+replica of the shuttle's crew station
+
+301
+00:18:04,100 --> 00:18:06,640
+has seating for the commander, pilot, and two mission
+
+302
+00:18:06,740 --> 00:18:09,280
+specialists to enact team training
+
+303
+00:18:09,380 --> 00:18:12,680
+in an ultra-realistic environment.
+
+304
+00:18:12,780 --> 00:18:15,980
+100 gears down and locked.
+
+305
+00:18:16,080 --> 00:18:19,060
+All controls and displays in the motion bay simulator
+
+306
+00:18:19,160 --> 00:18:22,820
+are active with visual and audio cues provided
+
+307
+00:18:22,920 --> 00:18:25,400
+for enhancement of the simulation.
+
+308
+00:18:25,500 --> 00:18:27,700
+The simulator takes a little getting used to, especially
+
+309
+00:18:27,800 --> 00:18:29,040
+the motion bay.
+
+310
+00:18:29,140 --> 00:18:31,040
+After a few hundred hours in the simulator, though,
+
+311
+00:18:31,041 --> 00:18:32,840
+you're fairly comfortable in there,
+
+312
+00:18:32,940 --> 00:18:35,580
+and it feels just like you're at home.
+
+313
+00:18:35,680 --> 00:18:36,780
+That's exactly what you want.
+
+314
+00:18:36,880 --> 00:18:38,040
+You want to be very comfortable when you
+
+315
+00:18:38,140 --> 00:18:39,040
+strap into the spacecraft.
+
+316
+00:18:42,660 --> 00:18:45,580
+The crew station is mounted on a platform and tilt frame
+
+317
+00:18:45,680 --> 00:18:49,660
+assembly with six independent servo actuators, which
+
+318
+00:18:49,760 --> 00:18:52,660
+create cabin movements similar to what would be experienced
+
+319
+00:18:52,760 --> 00:18:54,360
+on a mission.
+
+320
+00:18:54,460 --> 00:18:56,340
+Outside the motion-based simulator
+
+321
+00:18:56,440 --> 00:18:58,600
+is an operator station where technicians
+
+322
+00:18:58,700 --> 00:19:00,740
+prepare the training sessions and monitor
+
+323
+00:19:00,741 --> 00:19:03,640
+the crew's behavior.
+
+324
+00:19:03,740 --> 00:19:05,140
+It's kind of funny.
+
+325
+00:19:05,240 --> 00:19:06,840
+When you get involved in a simulation,
+
+326
+00:19:06,940 --> 00:19:08,540
+you kind of forget that it's a simulation.
+
+327
+00:19:08,640 --> 00:19:10,580
+You tend to mentally think it's a real thing.
+
+328
+00:19:10,680 --> 00:19:11,580
+And you're thinking about it.
+
+329
+00:19:11,680 --> 00:19:13,980
+Your palms start to sweat, and you get nervous, just like it
+
+330
+00:19:14,080 --> 00:19:16,280
+was a real thing.
+
+331
+00:19:16,380 --> 00:19:19,100
+An advanced digital image generation program
+
+332
+00:19:19,200 --> 00:19:22,600
+creates the high-fidelity window scenes,
+
+333
+00:19:22,700 --> 00:19:25,260
+processing and displaying three-dimensional scenes
+
+334
+00:19:25,360 --> 00:19:28,740
+for all windows of the crew station.
+
+335
+00:19:28,741 --> 00:19:33,740
+A team of instructors is assigned to each flight crew.
+
+336
+00:19:33,840 --> 00:19:37,480
+Ironically, instructors help improve performance
+
+337
+00:19:37,580 --> 00:19:42,280
+by causing in-flight emergencies.
+
+338
+00:19:42,380 --> 00:19:45,520
+Interactive controls are used to insert malfunctions
+
+339
+00:19:45,620 --> 00:19:48,020
+and monitor system status.
+
+340
+00:19:48,120 --> 00:19:51,800
+There are approximately 6,800 simulated malfunctions,
+
+341
+00:19:51,900 --> 00:19:56,400
+which can be activated either manually or automatically.
+
+342
+00:19:56,401 --> 00:19:58,160
+A script is written to give direction
+
+343
+00:19:58,260 --> 00:19:59,500
+to a simulated mission.
+
+344
+00:20:03,600 --> 00:20:07,040
+If it requires some coordination of malfunctions,
+
+345
+00:20:07,140 --> 00:20:12,080
+we'll have a meeting, say, two or three days before the session.
+
+346
+00:20:12,180 --> 00:20:14,480
+I'll outline what the lesson is.
+
+347
+00:20:14,580 --> 00:20:18,060
+And then from there, I'll let the individual instructors
+
+348
+00:20:18,160 --> 00:20:21,020
+then start adding their inputs into the malfunctions that they
+
+349
+00:20:21,120 --> 00:20:22,320
+like on each of those cases.
+
+350
+00:20:22,420 --> 00:20:25,100
+And we'll outline each run in terms of each malfunction
+
+351
+00:20:25,101 --> 00:20:26,340
+that's going to go in on that run.
+
+352
+00:20:26,440 --> 00:20:29,000
+And we'll give it a time when that malfunction is going in
+
+353
+00:20:29,100 --> 00:20:31,540
+and then the impact that malfunction will have.
+
+354
+00:20:31,640 --> 00:20:33,580
+And we'll end up with a script package
+
+355
+00:20:33,680 --> 00:20:36,540
+for a particular lesson, which will
+
+356
+00:20:36,640 --> 00:20:38,640
+have all the different runs in it.
+
+357
+00:20:38,740 --> 00:20:42,220
+I try to make sure that they get a well-rounded training
+
+358
+00:20:42,320 --> 00:20:45,220
+and from each lesson to lesson to make sure that we've
+
+359
+00:20:45,320 --> 00:20:48,160
+covered all the objectives that we can.
+
+360
+00:20:48,260 --> 00:20:50,920
+Can't go to SM because we got that one on SM.
+
+361
+00:20:51,020 --> 00:20:53,320
+Approximately 10 weeks prior to launch,
+
+362
+00:20:53,321 --> 00:20:57,020
+the crew begins the final flight-specific training.
+
+363
+00:20:57,120 --> 00:21:01,960
+Bypass, ISO circuit breaker on L4.
+
+364
+00:21:02,060 --> 00:21:05,860
+Columbia, Houston, Energy, ground track and nav, go.
+
+365
+00:21:05,960 --> 00:21:08,160
+Roger, Houston.
+
+366
+00:21:08,260 --> 00:21:10,540
+Instructors apply a carrot and stick approach
+
+367
+00:21:10,640 --> 00:21:12,380
+to the training dynamic.
+
+368
+00:21:12,480 --> 00:21:15,200
+But the team's spirit keeps the necessary instructional
+
+369
+00:21:15,300 --> 00:21:19,140
+sabotage in good-natured perspective.
+
+370
+00:21:19,240 --> 00:21:22,020
+We started off a long time ago joking about the stick
+
+371
+00:21:22,021 --> 00:21:26,740
+stick and the carrot approach where if somebody goose up and doesn't run the malfunction right
+
+372
+00:21:26,741 --> 00:21:30,380
+you either beat them with a stick or hold a carrot out in front of them if they did it right.
+
+373
+00:21:30,740 --> 00:21:35,740
+So it became a means of rewarding them for something done.
+
+374
+00:21:36,080 --> 00:21:40,200
+I know one of the guys brought me a carrot that's this big around that he grew in his garden
+
+375
+00:21:40,201 --> 00:21:45,040
+out there and nobody's done anything that good yet to earn that carrot.
+
+376
+00:21:45,320 --> 00:21:48,374
+This is in accordance with the traditions of SMSP making.
+
+377
+00:21:48,375 --> 00:21:51,000
+I'd like to show our respect and our appreciation
+
+378
+00:21:51,001 --> 00:21:53,140
+and I did a heck of a job.
+
+379
+00:21:53,240 --> 00:21:54,540
+I can present these to you.
+
+380
+00:21:54,640 --> 00:21:55,740
+You should.
+
+381
+00:22:00,140 --> 00:22:02,640
+Meanwhile, at Cape Canaveral on the eastern shore
+
+382
+00:22:02,740 --> 00:22:05,240
+of Florida, the final assembly of the shuttle
+
+383
+00:22:05,340 --> 00:22:07,760
+is quickly coming to a dramatic conclusion.
+
+384
+00:22:11,660 --> 00:22:13,960
+First, the solid rocket booster segments
+
+385
+00:22:14,060 --> 00:22:17,100
+are stacked on the mobile launching platform.
+
+386
+00:22:17,200 --> 00:22:20,360
+Next, the external tank is lifted 350 feet
+
+387
+00:22:20,361 --> 00:22:23,660
+above the ground and lowered between the boosters
+
+388
+00:22:23,760 --> 00:22:26,460
+in a delicate and demanding six-hour ordeal.
+
+389
+00:22:29,160 --> 00:22:32,500
+Finally, the shuttle orbiter is rolled to the vehicle assembly
+
+390
+00:22:32,600 --> 00:22:37,080
+building to be mated to tank and boosters.
+
+391
+00:22:37,180 --> 00:22:40,320
+A massive handling sling holds the 200-ton orbiter
+
+392
+00:22:40,420 --> 00:22:43,980
+for a final inspection of the landing gear.
+
+393
+00:22:44,080 --> 00:22:46,220
+Then the shuttle is lifted from a horizontal
+
+394
+00:22:46,320 --> 00:22:49,780
+to a vertical position, suspended over the fuel tank
+
+395
+00:22:49,781 --> 00:22:53,480
+assembly and lowered into place.
+
+396
+00:22:53,580 --> 00:22:56,780
+This 12-hour operation is the most critical part
+
+397
+00:22:56,880 --> 00:23:00,420
+of the final assembly process.
+
+398
+00:23:00,520 --> 00:23:03,520
+As the completed shuttle rolls from the assembly building
+
+399
+00:23:03,620 --> 00:23:06,440
+to the launch pad, the 3 1⁄2-mile crawl
+
+400
+00:23:06,540 --> 00:23:10,440
+offers the team a moment of reflection before the countdown.
+
+401
+00:23:10,441 --> 00:23:11,940
+in the hometown.
+
+402
+00:23:16,480 --> 00:23:19,520
+Sunday, April 12, 1981.
+
+403
+00:23:19,620 --> 00:23:23,260
+The space shuttle, 14 stories high.
+
+404
+00:23:23,360 --> 00:23:26,120
+A liftoff weight of 4 and 1⁄2 million pounds.
+
+405
+00:23:30,300 --> 00:23:35,160
+Columbia, poised on the pad for its maiden flight.
+
+406
+00:23:35,260 --> 00:23:38,560
+Its 54 and 1⁄2 hour mission to prove the practicality
+
+407
+00:23:38,561 --> 00:23:40,700
+the space frontier.
+
+408
+00:23:40,800 --> 00:23:43,660
+An American spaceship has never carried a human crew
+
+409
+00:23:43,760 --> 00:23:45,360
+on its first voyage.
+
+410
+00:23:45,460 --> 00:23:47,740
+Columbia will leave planet Earth with a pair
+
+411
+00:23:47,840 --> 00:23:50,340
+of highly trained explorers.
+
+412
+00:23:50,440 --> 00:23:53,980
+Commander John Young with 533 hours in space.
+
+413
+00:23:54,080 --> 00:23:56,120
+He is the most experienced astronaut
+
+414
+00:23:56,220 --> 00:23:58,520
+in the American space program.
+
+415
+00:23:58,620 --> 00:24:00,280
+Pilot Robert Crippen.
+
+416
+00:24:00,380 --> 00:24:02,620
+This will be his first experience in space.
+
+417
+00:24:08,560 --> 00:24:12,860
+2,700 reporters and photographers from around the world
+
+418
+00:24:12,960 --> 00:24:15,360
+are on hand to record the event.
+
+419
+00:24:18,300 --> 00:24:24,400
+Over 600,000 spectators surround the Kennedy Space Center.
+
+420
+00:24:24,500 --> 00:24:31,420
+T minus 10, 9, 8, 7, 6, 5, 4.
+
+421
+00:24:31,520 --> 00:24:33,360
+We've gone for main engine start.
+
+422
+00:25:15,660 --> 00:25:17,560
+Roger roll.
+
+423
+00:25:17,660 --> 00:25:21,200
+Rolling the shuttle in the first few moments of flight
+
+424
+00:25:21,300 --> 00:25:23,900
+puts the craft into a precise heading.
+
+425
+00:25:32,420 --> 00:25:34,920
+40 seconds into flight, the Columbia is too high
+
+426
+00:25:34,921 --> 00:25:38,520
+is too high for the astronauts to safely use their ejector
+
+427
+00:25:38,620 --> 00:25:39,520
+seats.
+
+428
+00:25:39,620 --> 00:25:43,160
+This is the point of no return.
+
+429
+00:25:43,260 --> 00:25:44,560
+Roger, Columbia, on a nice drive.
+
+430
+00:25:44,660 --> 00:25:46,560
+You're launching a little bit, but you'll probably be slightly
+
+431
+00:25:46,660 --> 00:25:48,160
+high at sea.
+
+432
+00:25:48,260 --> 00:25:49,060
+Negative seats.
+
+433
+00:25:49,160 --> 00:25:52,480
+Columbia, you're negative seats.
+
+434
+00:25:52,580 --> 00:25:55,080
+We see SRVS flight.
+
+435
+00:25:55,180 --> 00:25:56,480
+Roger, on a jet.
+
+436
+00:25:56,580 --> 00:25:58,080
+Columbia, come on, right, bud.
+
+437
+00:25:58,180 --> 00:26:00,680
+The fuel expended, the solid rocket boosters
+
+438
+00:26:00,780 --> 00:26:02,680
+are released and fall back to Earth.
+
+439
+00:26:02,780 --> 00:26:04,680
+Columbia, you're looking a little hot dog.
+
+440
+00:26:04,681 --> 00:26:06,180
+I'm calling you a little early.
+
+441
+00:26:06,280 --> 00:26:09,180
+I'm calling you.
+
+442
+00:26:09,280 --> 00:26:11,380
+And Columbia, Houston, just for your information,
+
+443
+00:26:11,480 --> 00:26:13,580
+you dropped those SRVs right on target.
+
+444
+00:26:13,680 --> 00:26:15,720
+And they were floating just the way they ought to be.
+
+445
+00:26:15,820 --> 00:26:17,220
+And the boats were getting ready to fish them
+
+446
+00:26:17,320 --> 00:26:20,120
+and bring them back.
+
+447
+00:26:20,220 --> 00:26:24,340
+The boosters are recovered 150 miles from the launch site.
+
+448
+00:26:24,440 --> 00:26:29,540
+Towed back to land, they will be refurbished and used again.
+
+449
+00:26:29,640 --> 00:26:31,640
+On the shuttle, another main engine blast
+
+450
+00:26:31,641 --> 00:26:35,540
+takes the craft to an altitude of 172 miles,
+
+451
+00:26:35,640 --> 00:26:39,240
+with 42 million horsepower.
+
+452
+00:26:39,340 --> 00:26:41,180
+Before the main engine cut off and release,
+
+453
+00:26:41,280 --> 00:26:47,080
+the ship will be cruising at 18,000 miles per hour.
+
+454
+00:26:47,180 --> 00:26:48,600
+Columbia, Houston.
+
+455
+00:26:48,700 --> 00:26:50,500
+You guys did so good, we're going to let you stay up there
+
+456
+00:26:50,600 --> 00:26:51,300
+for a couple of days.
+
+457
+00:26:51,400 --> 00:26:52,200
+You're go for on orbit.
+
+458
+00:26:56,940 --> 00:26:58,640
+This maiden flight of Columbia
+
+459
+00:26:58,740 --> 00:27:00,740
+demonstrated the space shuttle's ability
+
+460
+00:27:00,741 --> 00:27:03,780
+to facilitate scientific experiments and satellite
+
+461
+00:27:03,880 --> 00:27:05,080
+maintenance.
+
+462
+00:27:05,180 --> 00:27:07,740
+Future missions will be able to release high-tech equipment
+
+463
+00:27:07,840 --> 00:27:10,120
+cheaper and with more accuracy of position
+
+464
+00:27:10,220 --> 00:27:13,620
+than ever before achieved.
+
+465
+00:27:13,720 --> 00:27:16,460
+Earth studies will also be enhanced with information
+
+466
+00:27:16,560 --> 00:27:20,100
+gathered from the unique perspective of space.
+
+467
+00:27:20,200 --> 00:27:22,620
+500 enhanced images of Earth were captured
+
+468
+00:27:22,720 --> 00:27:24,360
+on the first flight alone.
+
+469
+00:27:24,460 --> 00:27:27,540
+Sand dunes 1,500 feet high.
+
+470
+00:27:27,541 --> 00:27:32,020
+Islands, the soaring height of the Himalayas,
+
+471
+00:27:32,120 --> 00:27:36,420
+wide expanses in Iran exposed to devastating wind erosion.
+
+472
+00:27:41,860 --> 00:27:45,060
+Down on the planet's surface, a special team of 24 vehicles
+
+473
+00:27:45,160 --> 00:27:47,720
+and 100 people prepare to power down Colombia
+
+474
+00:27:47,820 --> 00:27:51,140
+after its landing in the California desert.
+
+475
+00:27:51,240 --> 00:27:53,360
+The public is on hand as well.
+
+476
+00:27:53,460 --> 00:27:55,500
+A string of traffic six miles long
+
+477
+00:27:55,501 --> 00:27:58,260
+surrounds the base as a half million people come
+
+478
+00:27:58,360 --> 00:28:02,340
+to witness Columbia's return.
+
+479
+00:28:02,440 --> 00:28:05,340
+Reentry begins at 17,000 miles per hour,
+
+480
+00:28:05,440 --> 00:28:07,840
+26 times the speed of sound.
+
+481
+00:28:07,940 --> 00:28:12,080
+When it touches down, it will be traveling at 216 miles per hour.
+
+482
+00:28:12,180 --> 00:28:14,880
+But the space shuttle has no propulsion power.
+
+483
+00:28:14,980 --> 00:28:17,360
+As it glides back into the atmosphere,
+
+484
+00:28:17,460 --> 00:28:20,060
+it must land on the first attempt.
+
+485
+00:28:20,160 --> 00:28:22,160
+And John, we're showing you rolling right.
+
+486
+00:28:22,260 --> 00:28:23,060
+Looking good.
+
+487
+00:28:23,061 --> 00:28:23,900
+All right, stop.
+
+488
+00:28:23,901 --> 00:28:24,720
+All right, stop.
+
+489
+00:28:24,721 --> 00:28:25,560
+All right.
+
+490
+00:28:28,560 --> 00:28:32,400
+The gear is coming down at 270.
+
+491
+00:28:32,401 --> 00:28:34,700
+50 feet.
+
+492
+00:28:34,701 --> 00:28:36,700
+40 feet.
+
+493
+00:28:36,701 --> 00:28:38,700
+30.
+
+494
+00:28:38,701 --> 00:28:41,040
+40.
+
+495
+00:28:41,041 --> 00:28:42,280
+10 knots, 200 knots.
+
+496
+00:28:42,281 --> 00:28:43,540
+40.
+
+497
+00:28:43,541 --> 00:28:44,880
+190 knots.
+
+498
+00:28:44,881 --> 00:28:46,380
+Speed brakes are tracking.
+
+499
+00:28:46,381 --> 00:28:47,780
+Down.
+
+500
+00:28:47,781 --> 00:28:51,580
+Fresh from space, mission commander John Young
+
+501
+00:28:51,680 --> 00:28:53,880
+shared his jubilation.
+
+502
+00:28:53,980 --> 00:28:56,520
+JOHN YOUNG, I can't tell you what a tribute
+
+503
+00:28:56,620 --> 00:28:58,260
+that is to the American working man
+
+504
+00:28:58,360 --> 00:29:00,320
+and the American working woman, too.
+
+505
+00:29:00,420 --> 00:29:02,360
+You can't imagine the variety of people
+
+506
+00:29:02,460 --> 00:29:05,160
+who worked on this vehicle from all walks of life,
+
+507
+00:29:05,260 --> 00:29:07,640
+all capabilities and limitations.
+
+508
+00:29:07,740 --> 00:29:10,060
+It's all due to their individual efforts.
+
+509
+00:29:10,160 --> 00:29:12,000
+They proved that they can do the job.
+
+510
+00:29:12,100 --> 00:29:14,280
+They proved it for the world to see.
+
+511
+00:29:14,380 --> 00:29:16,000
+And I'm not sure what they did.
+
+512
+00:29:16,001 --> 00:29:19,340
+to see, and I'm mighty proud to be associated with folks
+
+513
+00:29:19,440 --> 00:29:20,240
+like them.
+
+514
+00:29:36,460 --> 00:29:41,600
+It takes over 3.8 million pounds of highly explosive rocket fuel
+
+515
+00:29:41,700 --> 00:29:45,060
+to lift the space shuttle and her crew into orbit.
+
+516
+00:29:45,061 --> 00:29:46,700
+But once they've reached the heavens,
+
+517
+00:29:46,800 --> 00:29:51,300
+the astronauts themselves are fueled by sterilized, vacuum
+
+518
+00:29:51,400 --> 00:29:57,000
+sealed, vitamin enriched, reconstituted space food.
+
+519
+00:29:57,100 --> 00:29:59,300
+The cuisine aboard the shuttle has evolved
+
+520
+00:29:59,400 --> 00:30:03,220
+from over three decades of research and careful planning.
+
+521
+00:30:03,320 --> 00:30:05,420
+When America's space program began,
+
+522
+00:30:05,520 --> 00:30:08,620
+scientists weren't positive that human beings could actually
+
+523
+00:30:08,720 --> 00:30:10,620
+eat in space.
+
+524
+00:30:10,720 --> 00:30:12,560
+They questioned an astronaut's ability
+
+525
+00:30:12,561 --> 00:30:14,960
+to swallow in zero gravity.
+
+526
+00:30:15,060 --> 00:30:17,960
+Perhaps food would become suspended in the windpipe
+
+527
+00:30:18,060 --> 00:30:20,800
+and cause suffocation.
+
+528
+00:30:20,900 --> 00:30:24,100
+In 1962, John Glenn became the first American
+
+529
+00:30:24,200 --> 00:30:26,000
+to address the problem.
+
+530
+00:30:26,100 --> 00:30:27,680
+On board his Mercury spacecraft, he
+
+531
+00:30:27,780 --> 00:30:31,420
+took the first tentative bites of freeze-dried snacks,
+
+532
+00:30:31,520 --> 00:30:34,020
+served up in squeezable tubes.
+
+533
+00:30:34,120 --> 00:30:38,120
+The experiment was a success, even if it was only nominally
+
+534
+00:30:38,220 --> 00:30:39,020
+appetizing.
+
+535
+00:30:42,560 --> 00:30:44,900
+The Gemini flights in the mid-1960s
+
+536
+00:30:45,000 --> 00:30:48,060
+engaged pairs of astronauts on longer and more complex
+
+537
+00:30:48,160 --> 00:30:51,740
+missions, requiring larger food packs versus squeeze tube
+
+538
+00:30:51,840 --> 00:30:53,100
+snacks.
+
+539
+00:30:53,200 --> 00:30:56,000
+The major Gemini innovation was reconstituting
+
+540
+00:30:56,100 --> 00:30:57,300
+dehydrated meals.
+
+541
+00:31:01,320 --> 00:31:04,320
+Apollo missions to the moon introduced the availability
+
+542
+00:31:04,420 --> 00:31:09,180
+of hot water for warm meals, with meats and sauces prepared
+
+543
+00:31:09,280 --> 00:31:11,120
+in aluminum foil containers.
+
+544
+00:31:12,560 --> 00:31:17,000
+Skylab became the pinnacle of space gastronomics.
+
+545
+00:31:17,100 --> 00:31:19,200
+Because of mission length, more attention
+
+546
+00:31:19,300 --> 00:31:21,300
+was given to variety.
+
+547
+00:31:21,400 --> 00:31:25,500
+A special dining area services three astronauts at once,
+
+548
+00:31:25,600 --> 00:31:29,880
+with a hot plate to keep food warm and storage for frozen
+
+549
+00:31:29,980 --> 00:31:32,080
+foods like ice cream and steak.
+
+550
+00:31:34,940 --> 00:31:38,120
+During the Skylab Soyuz mission of 1975,
+
+551
+00:31:38,121 --> 00:31:42,920
+In 1975, Russia and America had an exchange of cuisine
+
+552
+00:31:43,020 --> 00:31:44,820
+as well as science.
+
+553
+00:31:44,920 --> 00:31:50,360
+Cosmonauts serve tubes of borscht to the American astronauts.
+
+554
+00:31:50,460 --> 00:31:52,360
+We carry all the food we need into orbit with us.
+
+555
+00:31:52,460 --> 00:31:54,880
+A lot of our food is just like the food you'd eat at home.
+
+556
+00:31:54,980 --> 00:31:57,780
+Bread, tuna fish, peanuts, cookies.
+
+557
+00:31:57,880 --> 00:32:01,180
+Now, first, the orange drink.
+
+558
+00:32:01,280 --> 00:32:08,120
+We go over to the water dispenser, put it in, close it up.
+
+559
+00:32:08,121 --> 00:32:12,160
+And really, all that did is put a needle into the container.
+
+560
+00:32:12,161 --> 00:32:13,260
+We choose the cold water.
+
+561
+00:32:19,100 --> 00:32:21,940
+And that rehydrates the drink.
+
+562
+00:32:21,941 --> 00:32:25,240
+Need to shake it around just a little bit.
+
+563
+00:32:25,241 --> 00:32:26,980
+That's the orange drink.
+
+564
+00:32:26,981 --> 00:32:30,040
+For the frankfurters, really all we need to do to that
+
+565
+00:32:30,041 --> 00:32:31,540
+is just put them in the oven.
+
+566
+00:32:31,541 --> 00:32:34,080
+This is our oven up here.
+
+567
+00:32:34,081 --> 00:32:35,740
+Just slip them right in.
+
+568
+00:32:35,741 --> 00:32:36,480
+Let them heat up.
+
+569
+00:32:38,120 --> 00:32:42,360
+On the space shuttle, mealtime can have a surreal tone.
+
+570
+00:32:42,460 --> 00:32:45,420
+Astronauts often eat hanging from the ceiling
+
+571
+00:32:45,520 --> 00:32:47,760
+or sitting on the floor.
+
+572
+00:32:47,860 --> 00:32:51,360
+And plates aren't always needed as long as floating food
+
+573
+00:32:51,460 --> 00:32:53,560
+is caught before it drifts away.
+
+574
+00:32:55,780 --> 00:32:58,600
+Rounding up a renegade M&M candy soon
+
+575
+00:32:58,700 --> 00:33:01,680
+becomes second nature for shuttle passengers.
+
+576
+00:33:01,780 --> 00:33:06,240
+But very small pieces of unsupervised zero-gravity food
+
+577
+00:33:06,241 --> 00:33:10,740
+could pose a major problem and put an entire mission at risk.
+
+578
+00:33:12,920 --> 00:33:15,480
+That's why astronauts use liquid salt, which
+
+579
+00:33:15,580 --> 00:33:18,980
+is mixed into their food while it's still in a sealed pack.
+
+580
+00:33:19,080 --> 00:33:22,620
+Otherwise, individual grains would float around the cabin,
+
+581
+00:33:22,720 --> 00:33:25,220
+harming the machinery, the electrical circuits,
+
+582
+00:33:25,320 --> 00:33:27,000
+or be accidentally inhaled.
+
+583
+00:33:29,600 --> 00:33:32,800
+An astronaut's main eating utensil is a pair of scissors.
+
+584
+00:33:32,900 --> 00:33:36,240
+But once a package is snipped, a spoon can be used.
+
+585
+00:33:36,241 --> 00:33:40,780
+Food is designed to be sticky so it adheres to Earth utensils.
+
+586
+00:33:40,880 --> 00:33:44,480
+This also allows it to be flung with great accuracy
+
+587
+00:33:44,580 --> 00:33:49,480
+through the spacecraft or sucked from spinning silverware.
+
+588
+00:33:49,580 --> 00:33:52,060
+Sometimes even liquids can be consumed
+
+589
+00:33:52,160 --> 00:33:54,960
+without utensils or containers.
+
+590
+00:34:06,240 --> 00:34:10,140
+Just as eating takes on new dimensions in space,
+
+591
+00:34:10,240 --> 00:34:13,020
+so does sleep.
+
+592
+00:34:13,120 --> 00:34:16,880
+Initially, scientists wondered how weightlessness would affect
+
+593
+00:34:16,980 --> 00:34:19,420
+an astronaut's ability to sleep.
+
+594
+00:34:19,520 --> 00:34:22,560
+Perhaps this strange environment would inspire bizarre
+
+595
+00:34:22,660 --> 00:34:25,220
+nightmares, cause sleep disorders,
+
+596
+00:34:25,320 --> 00:34:29,100
+and put the entire space program in jeopardy.
+
+597
+00:34:29,200 --> 00:34:31,040
+The reverse is true.
+
+598
+00:34:31,140 --> 00:34:36,240
+Crew members experience a unique zero-gravity relaxation.
+
+599
+00:34:36,241 --> 00:34:39,040
+In the weightlessness of space, sleeping bodies
+
+600
+00:34:39,140 --> 00:34:41,480
+tend to adopt a fetal position.
+
+601
+00:34:41,580 --> 00:34:44,180
+Arms float out at shoulder level.
+
+602
+00:34:44,280 --> 00:34:47,180
+Knees bend.
+
+603
+00:34:47,280 --> 00:34:50,880
+On the space shuttle, sunrise happens every 90 minutes.
+
+604
+00:34:50,980 --> 00:34:54,300
+Astronauts often sleep wearing eye masks.
+
+605
+00:34:54,400 --> 00:34:58,760
+When it came time to go to bed, I'd gather up the liner,
+
+606
+00:34:58,860 --> 00:35:03,560
+my sleep mask, and my music recorder,
+
+607
+00:35:03,561 --> 00:35:06,320
+and carry them up with me to the flight deck.
+
+608
+00:35:08,260 --> 00:35:10,860
+When I got to the flight deck, I'd crawl into the blue bag,
+
+609
+00:35:11,440 --> 00:35:14,440
+float just above the seat, between the seat and the ceiling,
+
+610
+00:35:14,720 --> 00:35:16,060
+and right next to the windows.
+
+611
+00:35:16,760 --> 00:35:19,600
+And when it was time to go to bed, I'd put on the sleep mask,
+
+612
+00:35:20,700 --> 00:35:23,840
+put on the headphones to hear some music,
+
+613
+00:35:24,880 --> 00:35:26,380
+try to get comfortable and go to sleep.
+
+614
+00:35:26,381 --> 00:35:31,380
+Mission 51L, the 25th flight of the space shuttle program,
+
+615
+00:35:31,480 --> 00:35:37,420
+began at 1138 AM Eastern Standard Time on January 20th, 1986.
+
+616
+00:35:37,520 --> 00:35:42,060
+It ended 73 seconds later in a structural break
+
+617
+00:35:42,160 --> 00:35:46,640
+between the main fuel tanks and the Challenger orbiter.
+
+618
+00:35:46,740 --> 00:35:48,760
+Relatively few people saw the accident
+
+619
+00:35:48,860 --> 00:35:51,080
+in which seven crew members perished
+
+620
+00:35:51,180 --> 00:35:54,280
+when it was broadcast live on national television.
+
+621
+00:35:54,281 --> 00:35:57,380
+when it was broadcast live on national television.
+
+622
+00:35:57,480 --> 00:36:01,880
+By 1986, the public had been lulled into benign disinterest
+
+623
+00:36:01,980 --> 00:36:04,660
+due to the cool efficiency of NASA
+
+624
+00:36:04,760 --> 00:36:06,500
+and the routine of shuttle missions that
+
+625
+00:36:06,600 --> 00:36:11,000
+disguised the disturbing reality that space flight is dangerous.
+
+626
+00:36:16,400 --> 00:36:19,380
+Impatience had grown at the launch site.
+
+627
+00:36:19,480 --> 00:36:21,680
+The Challenger had been fueled and was waiting
+
+628
+00:36:21,780 --> 00:36:24,080
+for favorable weather conditions.
+
+629
+00:36:24,081 --> 00:36:28,120
+A long, delayed blast-off was finally set for a chilly Tuesday
+
+630
+00:36:28,220 --> 00:36:31,420
+morning, even though overnight, ice had accumulated
+
+631
+00:36:31,520 --> 00:36:32,320
+on the launch pad.
+
+632
+00:36:35,220 --> 00:36:38,820
+The previous evening, several operational water systems
+
+633
+00:36:38,920 --> 00:36:42,100
+had been opened up and allowed to flow into drains.
+
+634
+00:36:42,200 --> 00:36:46,240
+But those drains froze up and caused overflows.
+
+635
+00:36:46,340 --> 00:36:51,480
+Air temperature at launch was 36 degrees, 15 degrees colder
+
+636
+00:36:51,580 --> 00:36:54,080
+than any previous attempt.
+
+637
+00:36:54,081 --> 00:36:57,580
+T-minus 7 minutes 30 seconds.
+
+638
+00:36:57,680 --> 00:36:59,660
+The ground launch sequencer begins
+
+639
+00:36:59,760 --> 00:37:02,080
+retracting the crew access arm.
+
+640
+00:37:02,180 --> 00:37:04,720
+And the last emergency evacuation exit
+
+641
+00:37:04,820 --> 00:37:08,700
+for the seven astronauts pulls away.
+
+642
+00:37:08,800 --> 00:37:11,460
+T-minus 3 minutes 15 seconds.
+
+643
+00:37:11,560 --> 00:37:14,340
+The rotating gimbals of the orbiter's three main engines
+
+644
+00:37:14,440 --> 00:37:18,500
+are checked, then returned to start positions.
+
+645
+00:37:18,600 --> 00:37:20,880
+T-minus 3 minutes 15 seconds.
+
+646
+00:37:20,881 --> 00:37:24,220
+T-minus 2 minutes 50 seconds.
+
+647
+00:37:24,320 --> 00:37:28,080
+Retraction of the gaseous oxygen vent hood.
+
+648
+00:37:30,180 --> 00:37:32,120
+T-minus 16 seconds.
+
+649
+00:37:32,220 --> 00:37:37,640
+Sound suppression water sprayed to absorb engine vibrations.
+
+650
+00:37:37,740 --> 00:37:42,240
+Hydrogen igniters fire to burn off residual chemical vapors.
+
+651
+00:37:42,340 --> 00:37:44,540
+T-minus 6.6 seconds.
+
+652
+00:37:44,640 --> 00:37:47,380
+Main engines ignited in sequence.
+
+653
+00:37:47,480 --> 00:37:49,380
+Thrusters are burning.
+
+654
+00:37:49,381 --> 00:37:52,320
+Thrust from the rockets bend the shuttle stack.
+
+655
+00:37:52,420 --> 00:37:54,760
+When it returns to full vertical position,
+
+656
+00:37:54,860 --> 00:37:56,860
+solid rocket boosters are ignited.
+
+657
+00:38:00,860 --> 00:38:03,500
+NASA cameras record smoke emerging
+
+658
+00:38:03,600 --> 00:38:07,800
+near the connecting ring of the right solid rocket booster.
+
+659
+00:38:07,900 --> 00:38:10,000
+No one is aware that the cold temperature
+
+660
+00:38:10,100 --> 00:38:14,240
+has compromised the seal between two booster segments,
+
+661
+00:38:14,340 --> 00:38:16,480
+and that a searing hot flare is eating
+
+662
+00:38:16,580 --> 00:38:18,100
+through the thin metal casing which
+
+663
+00:38:18,101 --> 00:38:21,700
+which holds millions of pounds of the most powerful rocket fuel
+
+664
+00:38:21,800 --> 00:38:22,600
+ever blended.
+
+665
+00:38:25,900 --> 00:38:29,140
+Subtle mission, and it has cleared the tower.
+
+666
+00:38:29,240 --> 00:38:31,240
+7.74 seconds.
+
+667
+00:38:31,340 --> 00:38:33,240
+The roll maneuver is initiated.
+
+668
+00:38:35,460 --> 00:38:38,460
+Special long-range cameras capture the side flare
+
+669
+00:38:38,560 --> 00:38:39,860
+growing ominously.
+
+670
+00:38:41,760 --> 00:38:44,260
+Velocity 2,257 feet per second.
+
+671
+00:38:44,360 --> 00:38:46,200
+Altitude 4.3 nautical miles.
+
+672
+00:38:48,100 --> 00:38:50,640
+Inside the main fuel tank, the liquid propellants
+
+673
+00:38:50,641 --> 00:38:55,340
+spark an uncontrollable chemical reaction.
+
+674
+00:38:55,341 --> 00:38:57,000
+Challenger, go with throttle up.
+
+675
+00:39:02,740 --> 00:39:05,720
+1 minute 15 seconds, velocity 2,900 feet per second,
+
+676
+00:39:05,721 --> 00:39:08,380
+altitude 9 nautical miles, downrange distance 7 nautical
+
+677
+00:39:08,381 --> 00:39:09,081
+miles.
+
+678
+00:39:09,082 --> 00:39:15,680
+The solid rocket boosters revolve in a chaotic spiral
+
+679
+00:39:15,780 --> 00:39:20,720
+until a rain safety officer initiates their remote control
+
+680
+00:39:20,820 --> 00:39:25,400
+destruction 110 seconds after launch.
+
+681
+00:39:25,500 --> 00:39:29,260
+The Challenger orbiter itself is not destroyed by the explosion,
+
+682
+00:39:29,360 --> 00:39:33,000
+but rather by the erratic aerodynamic effects on the ship
+
+683
+00:39:33,100 --> 00:39:35,180
+as it careens out of control.
+
+684
+00:39:35,181 --> 00:39:38,420
+out of control.
+
+685
+00:39:38,520 --> 00:39:41,760
+The crew cabin remains intact and briefly emerges
+
+686
+00:39:41,860 --> 00:39:44,260
+from the fireball before its plummet to the sea.
+
+687
+00:39:47,360 --> 00:39:50,720
+A large-scale search was initiated to recover the debris.
+
+688
+00:39:50,820 --> 00:39:56,760
+22 ships, six underwater vessels, 33 aircraft.
+
+689
+00:39:56,860 --> 00:40:00,780
+Those pieces found first were those floating on the surface.
+
+690
+00:40:00,880 --> 00:40:04,300
+Specially equipped submarines searched for the rest.
+
+691
+00:40:04,301 --> 00:40:06,700
+Half of the Challenger was recovered in the effort.
+
+692
+00:40:09,740 --> 00:40:14,840
+93,000 square miles of ocean were searched at depths of 1,200 feet.
+
+693
+00:40:14,841 --> 00:40:17,080
+Pieces were sent to the logistics facility,
+
+694
+00:40:17,081 --> 00:40:20,540
+where they were arranged on the floor in their original positions
+
+695
+00:40:20,541 --> 00:40:21,241
+on the shuttle.
+
+696
+00:40:25,020 --> 00:40:27,900
+An investigation revealed that the flexing of a joint
+
+697
+00:40:27,901 --> 00:40:31,260
+on the solid rocket booster created a gap where two rubber
+
+698
+00:40:31,261 --> 00:40:33,760
+seals held the explosive contents inside.
+
+699
+00:40:37,760 --> 00:40:40,600
+Film records taken during the assembly of the boosters
+
+700
+00:40:40,700 --> 00:40:43,500
+were reviewed for more in-depth analysis.
+
+701
+00:40:43,600 --> 00:40:46,100
+But the photographs showed that the O-rings themselves
+
+702
+00:40:46,200 --> 00:40:47,700
+were not defective.
+
+703
+00:40:47,800 --> 00:40:51,120
+The design itself was at fault.
+
+704
+00:40:51,220 --> 00:40:54,020
+The use of these rubber O-rings and their sensitivity
+
+705
+00:40:54,120 --> 00:40:56,260
+to low temperature and high stress
+
+706
+00:40:56,360 --> 00:41:00,260
+was responsible for the accident.
+
+707
+00:41:00,261 --> 00:41:02,400
+In the haunting silence which followed,
+
+708
+00:41:02,500 --> 00:41:08,000
+America came to reconsider the space program.
+
+709
+00:41:08,100 --> 00:41:12,440
+The path to new worlds was no longer an idealistic dream.
+
+710
+00:41:12,540 --> 00:41:15,580
+In the aftermath of tragedy, the journey into space
+
+711
+00:41:15,680 --> 00:41:18,020
+could clearly be seen as a profound evolution
+
+712
+00:41:18,120 --> 00:41:19,620
+of the human animal.
+
+713
+00:41:19,720 --> 00:41:23,120
+And like all births, there would be pain and sacrifice
+
+714
+00:41:23,220 --> 00:41:24,820
+to be endured in the process.
+
+715
+00:41:24,821 --> 00:41:29,820
+America understood that it possessed the technical capability
+
+716
+00:41:29,920 --> 00:41:32,320
+to put the pieces of its shattered spirit together
+
+717
+00:41:32,420 --> 00:41:36,060
+and soar back into the heavens.
+
+718
+00:41:36,160 --> 00:41:41,060
+But would the nation have the heart to continue the quest?
+
+719
+00:41:49,080 --> 00:41:50,920
+We all live in space.
+
+720
+00:41:50,921 --> 00:41:54,720
+Like the shuttle, Earth itself is a large craft hurtling
+
+721
+00:41:54,820 --> 00:41:59,660
+through the cosmos carrying a fragile cargo of life.
+
+722
+00:41:59,760 --> 00:42:01,700
+Half a century ago, Chuck Yeager
+
+723
+00:42:01,800 --> 00:42:03,400
+was strapped in a primitive rocket
+
+724
+00:42:03,500 --> 00:42:05,700
+and became the first man to travel faster
+
+725
+00:42:05,800 --> 00:42:08,040
+than the speed of sound.
+
+726
+00:42:08,140 --> 00:42:11,300
+Tomorrow, NASA will introduce a new horizontal approach
+
+727
+00:42:11,400 --> 00:42:14,440
+to space travel, which no longer risks lives
+
+728
+00:42:14,540 --> 00:42:17,640
+with the volatility of blastoff.
+
+729
+00:42:17,740 --> 00:42:20,820
+But today, the space shuttle has rebounded from the train
+
+730
+00:42:20,821 --> 00:42:23,820
+of the Challenger to become a constant and reliable
+
+731
+00:42:23,920 --> 00:42:25,560
+technological workhorse.
+
+732
+00:42:28,060 --> 00:42:29,820
+Discoveries made on shuttle missions
+
+733
+00:42:29,920 --> 00:42:33,260
+have improved such earthly notions as food processing,
+
+734
+00:42:33,360 --> 00:42:38,400
+energy systems, emergency medical care, and more.
+
+735
+00:42:38,500 --> 00:42:40,480
+Perhaps the true value of the shuttle
+
+736
+00:42:40,580 --> 00:42:45,780
+is that it allows us to look inside ourselves.
+
+737
+00:42:45,880 --> 00:42:48,420
+From the great height of space, we're
+
+738
+00:42:48,421 --> 00:42:51,320
+We're given a perspective that transcends the routine
+
+739
+00:42:51,420 --> 00:42:56,760
+of our daily lives and focuses instead upon our spirit.
+
+740
+00:42:56,860 --> 00:42:59,160
+We thrive on possibility.
+
+741
+00:42:59,260 --> 00:43:02,160
+Curiosity is the food of our soul.
+
+742
+00:43:02,260 --> 00:43:04,260
+There is promise in the heavens.
+
+743
+00:43:08,280 --> 00:43:10,180
+Today, the space shuttle has become
+
+744
+00:43:10,280 --> 00:43:12,280
+both a symbol of triumph and tragedy.
+
+745
+00:43:12,380 --> 00:43:15,720
+Flying in 115 missions, the shuttle's success
+
+746
+00:43:15,820 --> 00:43:18,420
+has made space travel seem somewhat routine.
+
+747
+00:43:18,421 --> 00:43:26,420
+But the losses of the Challenger and Columbia have served as a harsh reminder that in fact nothing about space travel is routine.
+
+748
+00:43:26,421 --> 00:43:33,420
+Even still, the space program continues, paving the way back to the moon, onto Mars, and further into the universe.
+
+749
+00:43:33,421 --> 00:43:36,420
+For the History Channel, I'm Story Musgrave.
+
+750
+00:43:36,421 --> 00:43:38,120
+Grave, thanks for watching.
+

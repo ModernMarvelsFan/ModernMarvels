@@ -1,0 +1,3256 @@
+1
+00:00:00,001 --> 00:00:08,240
+It is known as technology's angel of death, but it might be humanity's savior, able to
+
+2
+00:00:08,241 --> 00:00:12,200
+generate a nearly limitless supply of power.
+
+3
+00:00:12,201 --> 00:00:16,760
+Technology sired by splitting the atom has led to an incredible array of innovations.
+
+4
+00:00:16,761 --> 00:00:20,640
+Now, Nuclear Tech on Modern Marvels.
+
+5
+00:00:30,000 --> 00:00:36,400
+3, 2, 1, and liftoff of the Cassini spacecraft
+
+6
+00:00:36,500 --> 00:00:39,540
+on a trillion-mile trek to Saturn.
+
+7
+00:00:39,640 --> 00:00:43,080
+When the Cassini spacecraft launched in 1997,
+
+8
+00:00:43,180 --> 00:00:47,220
+its goal was to journey to Saturn, about 890 million miles
+
+9
+00:00:47,320 --> 00:00:48,660
+from Earth.
+
+10
+00:00:48,760 --> 00:00:51,760
+But providing power for such a long journey called
+
+11
+00:00:51,860 --> 00:00:53,720
+for inventive measures.
+
+12
+00:00:53,820 --> 00:00:56,200
+Conventional chemical propulsion would make the craft
+
+13
+00:00:56,300 --> 00:00:57,400
+too heavy.
+
+14
+00:00:57,401 --> 00:01:00,060
+and because Saturn is so far from the sun,
+
+15
+00:01:00,160 --> 00:01:03,840
+solar power would be ineffective.
+
+16
+00:01:03,940 --> 00:01:07,480
+But there was another choice, nuclear technology,
+
+17
+00:01:07,580 --> 00:01:12,440
+in the form of a radioisotope thermoelectric generator.
+
+18
+00:01:12,540 --> 00:01:15,060
+The radioisotope thermoelectric generator
+
+19
+00:01:15,160 --> 00:01:19,460
+produces electricity continuously over a long period
+
+20
+00:01:19,560 --> 00:01:21,420
+of time, many decades.
+
+21
+00:01:21,520 --> 00:01:24,420
+And it produces it in the absence of sunlight
+
+22
+00:01:24,421 --> 00:01:28,260
+sunlight and is a wonderful, stable source of electricity
+
+23
+00:01:28,360 --> 00:01:31,520
+to keep our spacecraft running in the cool, dark heaps of space,
+
+24
+00:01:31,620 --> 00:01:34,060
+basically.
+
+25
+00:01:34,160 --> 00:01:37,160
+The Cassini spacecraft carries three radioisotope
+
+26
+00:01:37,260 --> 00:01:39,760
+thermoelectric generator units.
+
+27
+00:01:39,860 --> 00:01:44,080
+These RTGs take advantage of an isotopic decay process.
+
+28
+00:01:44,180 --> 00:01:48,880
+Isotopes over time decay by releasing alpha particles.
+
+29
+00:01:48,980 --> 00:01:52,120
+The process also gives off energy in the form of heat.
+
+30
+00:01:52,121 --> 00:01:55,860
+When this happens, matter is converted to energy.
+
+31
+00:01:55,960 --> 00:01:59,600
+It's Einstein's famous equation, E equals mc squared,
+
+32
+00:01:59,700 --> 00:02:01,100
+come to life.
+
+33
+00:02:01,200 --> 00:02:04,600
+Energy released equals the mass that is converted to energy
+
+34
+00:02:04,700 --> 00:02:08,100
+times the speed of light squared.
+
+35
+00:02:08,200 --> 00:02:10,100
+Cassini's thermoelectric modules
+
+36
+00:02:10,200 --> 00:02:12,580
+convert the heat released to electricity.
+
+37
+00:02:15,540 --> 00:02:17,120
+In the event of a mechanical failure
+
+38
+00:02:17,220 --> 00:02:20,880
+during launch preparation, at launch, or in space,
+
+39
+00:02:20,881 --> 00:02:23,780
+RTG designers have embedded the plutonium fuel
+
+40
+00:02:23,880 --> 00:02:27,280
+in a heat-resistant ceramic so the radioactive material
+
+41
+00:02:27,380 --> 00:02:29,920
+won't disperse, even if the reentry capsule
+
+42
+00:02:30,020 --> 00:02:32,420
+were to break apart.
+
+43
+00:02:32,520 --> 00:02:35,120
+So that if it should get free, it
+
+44
+00:02:35,220 --> 00:02:38,500
+would go through the atmosphere and come back down
+
+45
+00:02:38,600 --> 00:02:42,960
+to the Earth without burning up or breaking up.
+
+46
+00:02:43,060 --> 00:02:46,980
+The level of scrutiny and safety and design that's
+
+47
+00:02:47,080 --> 00:02:50,880
+employed in these things is truly extraordinary.
+
+48
+00:02:50,881 --> 00:02:55,080
+The Cassini spacecraft is the latest to use radioisotope
+
+49
+00:02:55,180 --> 00:02:56,620
+thermoelectric generators.
+
+50
+00:02:58,760 --> 00:03:01,120
+And that's providing all the power we need
+
+51
+00:03:01,220 --> 00:03:02,120
+for the whole spacecraft.
+
+52
+00:03:02,220 --> 00:03:06,420
+Encouraged by the success of RTGs,
+
+53
+00:03:06,520 --> 00:03:09,200
+NASA is planning a long-range nuclear-powered mission
+
+54
+00:03:09,300 --> 00:03:11,700
+to orbit Jupiter's three moons.
+
+55
+00:03:11,800 --> 00:03:14,740
+It will use a propulsion system called Prometheus,
+
+56
+00:03:14,840 --> 00:03:18,140
+augmented by a solar power array.
+
+57
+00:03:18,141 --> 00:03:24,820
+Instead of producing 500 watts of electricity, which we get out of the isotope power sources,
+
+58
+00:03:24,821 --> 00:03:30,580
+the Prometheus power systems are designed to deliver something in the order of 100 kilowatts,
+
+59
+00:03:30,581 --> 00:03:33,740
+enough to light up a small football field.
+
+60
+00:03:33,741 --> 00:03:39,720
+These reactor systems and the ion drives provide a steady source of thrust, which is a rocket
+
+61
+00:03:39,721 --> 00:03:40,900
+scientist's dream.
+
+62
+00:03:40,901 --> 00:03:45,900
+Scientists have also found that nuclear technology can fulfill
+
+63
+00:03:46,000 --> 00:03:49,380
+their dreams in the area of medical treatment.
+
+64
+00:03:49,480 --> 00:03:53,940
+Doctors use nuclear imaging to read the emotions of the brain.
+
+65
+00:03:54,040 --> 00:03:57,220
+Cancer treatment has improved with the use of radioactive
+
+66
+00:03:57,320 --> 00:04:00,860
+isotopes to attack tumor cells.
+
+67
+00:04:00,960 --> 00:04:04,760
+Food and medical instruments can be sanitized using nuclear
+
+68
+00:04:04,860 --> 00:04:08,300
+irradiation without removing the radiation.
+
+69
+00:04:08,301 --> 00:04:11,200
+without removing them from their packaging.
+
+70
+00:04:11,300 --> 00:04:13,540
+Scientists are also using nuclear technology
+
+71
+00:04:13,640 --> 00:04:15,780
+to battle terrorism and search for ways
+
+72
+00:04:15,880 --> 00:04:17,880
+to provide abundant electrical power
+
+73
+00:04:17,980 --> 00:04:20,280
+without harm to the environment.
+
+74
+00:04:23,420 --> 00:04:25,820
+But while things nuclear may be lighting the way in medicine
+
+75
+00:04:25,920 --> 00:04:28,620
+and in academia, it's still a technology
+
+76
+00:04:28,720 --> 00:04:30,120
+with a dark history.
+
+77
+00:04:33,120 --> 00:04:38,300
+It began at a New Mexico lab called Los Alamos.
+
+78
+00:04:38,301 --> 00:04:42,300
+and it was a race to make the first nuclear bomb.
+
+79
+00:04:42,301 --> 00:04:44,300
+Scientists answered an urgent summons
+
+80
+00:04:44,301 --> 00:04:47,300
+to be part of the Manhattan Project.
+
+81
+00:04:47,301 --> 00:04:50,300
+The main inspiration for getting it going
+
+82
+00:04:50,301 --> 00:04:52,300
+was a fear of a German bomb.
+
+83
+00:04:52,301 --> 00:04:57,300
+This was in the late 1930s when fission was just discovered
+
+84
+00:04:57,301 --> 00:05:00,300
+and war had just broken out in Europe.
+
+85
+00:05:00,301 --> 00:05:05,300
+And I heard a talk by President Roosevelt,
+
+86
+00:05:05,301 --> 00:05:08,240
+a talk to scientists,
+
+87
+00:05:09,840 --> 00:05:13,540
+telling us Hitler was a very real danger to the whole world,
+
+88
+00:05:14,660 --> 00:05:18,860
+and the oceans were no longer necessarily a sufficient protection.
+
+89
+00:05:20,200 --> 00:05:21,240
+And then he said,
+
+90
+00:05:22,860 --> 00:05:27,540
+you scientists are accused of making the means
+
+91
+00:05:27,541 --> 00:05:31,980
+by which destruction can be accomplished.
+
+92
+00:05:33,020 --> 00:05:34,620
+But I have to tell you,
+
+93
+00:05:35,300 --> 00:05:42,300
+Unless you will work on weapons, Hitler will win.
+
+94
+00:05:42,400 --> 00:05:47,780
+From 1939 until 1945, more than $2 billion,
+
+95
+00:05:47,880 --> 00:05:51,880
+$1945, were spent on the Manhattan Project.
+
+96
+00:05:51,980 --> 00:05:54,080
+It attracted the best and the brightest.
+
+97
+00:05:54,180 --> 00:05:56,120
+There were eight Nobel Prize winners already
+
+98
+00:05:56,220 --> 00:05:59,200
+on the Manhattan Project, and more than a dozen others
+
+99
+00:05:59,300 --> 00:06:01,320
+would win prizes after the war.
+
+100
+00:06:01,321 --> 00:06:04,660
+So this is a concentration of scientific talent
+
+101
+00:06:04,760 --> 00:06:07,100
+that's perhaps unequal.
+
+102
+00:06:07,200 --> 00:06:09,260
+All that brain power and willpower
+
+103
+00:06:09,360 --> 00:06:12,300
+was needed to overcome the daunting technical challenges
+
+104
+00:06:12,400 --> 00:06:16,340
+of creating America's first nuclear weapon.
+
+105
+00:06:16,440 --> 00:06:19,380
+Manhattan Project scientists wanted to generate what would
+
+106
+00:06:19,480 --> 00:06:22,440
+be known as a fission reaction.
+
+107
+00:06:22,540 --> 00:06:27,340
+To accomplish that, they needed an isotope of uranium.
+
+108
+00:06:27,440 --> 00:06:30,520
+Like all elements, uranium is made up of atoms
+
+109
+00:06:30,521 --> 00:06:33,520
+and the atoms themselves are made up of smaller parts,
+
+110
+00:06:33,620 --> 00:06:37,520
+a central nucleus that's comprised of protons,
+
+111
+00:06:37,620 --> 00:06:43,520
+neutrons, and electrons.
+
+112
+00:06:43,620 --> 00:06:47,520
+Naturally occurring uranium is called U-238 because its
+
+113
+00:06:47,620 --> 00:06:51,520
+protons and neutrons total 238.
+
+114
+00:06:51,620 --> 00:06:55,520
+It also contains a small accumulation of U-235,
+
+115
+00:06:55,620 --> 00:06:59,520
+a form of uranium that has only 143 neutrons.
+
+116
+00:06:59,521 --> 00:07:04,660
+As the Manhattan Project scientists knew,
+
+117
+00:07:04,760 --> 00:07:07,920
+uranium-235 was needed to make their bomb,
+
+118
+00:07:08,020 --> 00:07:12,400
+because it can undergo what is known as a chain reaction.
+
+119
+00:07:12,500 --> 00:07:16,100
+A chain reaction occurs if each time a neutron is released,
+
+120
+00:07:16,200 --> 00:07:20,100
+it produces another fission reaction, which in turn
+
+121
+00:07:20,200 --> 00:07:22,480
+releases more neutrons.
+
+122
+00:07:22,580 --> 00:07:27,580
+With each fission, more matter is converted into energy.
+
+123
+00:07:27,581 --> 00:07:31,180
+If the U-235 is concentrated properly within a millionth
+
+124
+00:07:31,280 --> 00:07:33,760
+of a second, enough fission reactions occur
+
+125
+00:07:33,860 --> 00:07:37,960
+to release the power of an atomic bomb.
+
+126
+00:07:38,060 --> 00:07:40,720
+To keep the chain reaction from starting prematurely,
+
+127
+00:07:40,820 --> 00:07:45,240
+Los Alamos scientists kept the uranium in two separate masses.
+
+128
+00:07:45,340 --> 00:07:49,640
+At the time of detonation, they would be brought together.
+
+129
+00:07:49,740 --> 00:07:53,900
+They believed one way to do this was to make a gun that fired
+
+130
+00:07:54,000 --> 00:07:55,640
+one mass into another.
+
+131
+00:07:55,641 --> 00:07:58,280
+They were separated by a long tube,
+
+132
+00:07:58,380 --> 00:08:01,280
+and then you fired some conventional explosive,
+
+133
+00:08:01,380 --> 00:08:04,380
+and the two masses joined together,
+
+134
+00:08:04,480 --> 00:08:06,920
+and you had a fission reaction.
+
+135
+00:08:07,020 --> 00:08:11,760
+This method of ignition is called gun-triggered fission.
+
+136
+00:08:11,860 --> 00:08:14,920
+Los Alamos scientists were also working on a more complex
+
+137
+00:08:15,020 --> 00:08:19,360
+and far more powerful device, an implosion-triggered bomb.
+
+138
+00:08:19,460 --> 00:08:22,360
+Nicknamed the gadget, it used high explosives
+
+139
+00:08:22,361 --> 00:08:26,840
+explosives to compress uranium-235 around a spherical core
+
+140
+00:08:26,940 --> 00:08:29,100
+of plutonium-239.
+
+141
+00:08:29,200 --> 00:08:32,240
+When they combined, the fission reaction began.
+
+142
+00:08:32,340 --> 00:08:36,840
+The plutonium bomb had wires in it and detonators,
+
+143
+00:08:36,940 --> 00:08:40,140
+and they all fired at exactly the precise time
+
+144
+00:08:40,240 --> 00:08:43,240
+and drove this high explosive internally
+
+145
+00:08:43,340 --> 00:08:48,660
+to crush that ball of plutonium and spark off the explosion that
+
+146
+00:08:48,760 --> 00:08:50,120
+resulted in the detonation.
+
+147
+00:08:52,360 --> 00:08:55,020
+Scientists determined that such complex technology
+
+148
+00:08:55,120 --> 00:08:57,260
+required a test.
+
+149
+00:08:57,360 --> 00:09:02,000
+On July 16, 1945, the gadget was hoisted into position
+
+150
+00:09:02,100 --> 00:09:05,700
+at what is now the White Sands Missile Range in New Mexico,
+
+151
+00:09:05,800 --> 00:09:08,600
+and a countdown into the nuclear age began.
+
+152
+00:09:08,700 --> 00:09:13,920
+Five, four, three, two, one.
+
+153
+00:09:22,360 --> 00:09:27,360
+We are now prepared to destroy more rapidly and completely
+
+154
+00:09:27,460 --> 00:09:33,440
+every productive enterprise the Japanese have in any city.
+
+155
+00:09:33,540 --> 00:09:37,000
+On August 6, 1945, a gun-triggered fission
+
+156
+00:09:37,100 --> 00:09:41,180
+bomb carried by a B-29 bomber called the Enola Gay fell
+
+157
+00:09:41,280 --> 00:09:43,020
+on the Japanese city of Hiroshima.
+
+158
+00:09:47,960 --> 00:09:51,920
+It detonated with an explosive force equal to 14,500
+
+159
+00:09:51,921 --> 00:09:56,920
+tons of TNT. Then on August 9th,
+
+160
+00:09:56,921 --> 00:09:59,920
+the US dropped an even more powerful implosion-triggered
+
+161
+00:09:59,921 --> 00:10:05,920
+fission bomb on Nagasaki. It exploded with a force of 20,000
+
+162
+00:10:05,921 --> 00:10:10,920
+tons of TNT. Though these superweapons ended
+
+163
+00:10:10,921 --> 00:10:14,920
+World War II, the death and destruction left Los Alamos
+
+164
+00:10:14,921 --> 00:10:17,920
+scientists deeply conflicted about the genie they let out
+
+165
+00:10:17,921 --> 00:10:21,920
+of the bottle. I think the most important
+
+166
+00:10:21,921 --> 00:10:26,760
+our work contributed to the safety of the world.
+
+167
+00:10:26,761 --> 00:10:31,520
+And that was a good experience, but not in a way
+
+168
+00:10:31,521 --> 00:10:34,880
+of big scientific discoveries, just in a way
+
+169
+00:10:34,881 --> 00:10:38,920
+of outdoing diligently what had to be done.
+
+170
+00:10:38,921 --> 00:10:42,160
+But there was no stopping nuclear technology.
+
+171
+00:10:42,161 --> 00:10:45,040
+Physicists worked to miniaturize nuclear bombs,
+
+172
+00:10:45,041 --> 00:10:48,760
+making possible a variety of delivery methods.
+
+173
+00:10:48,761 --> 00:10:51,280
+The first 20 years that they were around,
+
+174
+00:10:51,281 --> 00:10:53,520
+They were about the size of a tractor-trailer truck.
+
+175
+00:10:53,521 --> 00:10:55,580
+They weighed 10 to 20,000 pounds.
+
+176
+00:10:55,581 --> 00:10:59,160
+They took the world's largest airplane to deliver them,
+
+177
+00:10:59,161 --> 00:11:02,560
+and that airplane could deliver one.
+
+178
+00:11:02,561 --> 00:11:05,660
+In the aftermath, if we get into the 1950s,
+
+179
+00:11:05,661 --> 00:11:08,200
+the diameter gets less than five feet.
+
+180
+00:11:08,201 --> 00:11:11,440
+It can go down to eventually a six-inch artillery shell,
+
+181
+00:11:11,441 --> 00:11:13,140
+which is quite remarkable.
+
+182
+00:11:17,880 --> 00:11:19,840
+After the war, many other methods
+
+183
+00:11:19,841 --> 00:11:24,840
+from missiles to all sorts of naval weapons.
+
+184
+00:11:24,940 --> 00:11:27,640
+Weapons were not the only military use
+
+185
+00:11:27,740 --> 00:11:29,980
+for nuclear technology.
+
+186
+00:11:30,080 --> 00:11:32,980
+US Navy Captain Hyman Rickover pushed hard
+
+187
+00:11:33,080 --> 00:11:35,780
+to develop the first nuclear-powered war machine,
+
+188
+00:11:35,880 --> 00:11:37,600
+the Nautilus submarine.
+
+189
+00:11:37,700 --> 00:11:42,700
+It was seaworthy by January 1954.
+
+190
+00:11:42,800 --> 00:11:46,800
+In December 1959, the Navy unveiled the USS George
+
+191
+00:11:46,801 --> 00:11:49,800
+George Washington, the first of a five-boat class
+
+192
+00:11:49,900 --> 00:11:52,740
+of nuclear submarines.
+
+193
+00:11:52,840 --> 00:11:55,800
+They were powered by a golf ball-sized chunk of uranium,
+
+194
+00:11:55,900 --> 00:12:00,240
+and they carried nuclear weaponry as well, 16 Polaris missiles,
+
+195
+00:12:00,340 --> 00:12:02,840
+each topped with a 50-kiloton nuclear warhead.
+
+196
+00:12:06,660 --> 00:12:09,260
+After fission bombs, weapons designers developed the even
+
+197
+00:12:09,360 --> 00:12:12,560
+more destructive hydrogen bomb.
+
+198
+00:12:12,660 --> 00:12:15,460
+Rather than splitting atoms as in a fission bomb,
+
+199
+00:12:15,461 --> 00:12:20,900
+The hydrogen, or thermonuclear bomb, fuses atoms of hydrogen.
+
+200
+00:12:21,000 --> 00:12:23,700
+This creates an even more powerful chain reaction
+
+201
+00:12:23,800 --> 00:12:26,900
+than was possible in a fission bomb.
+
+202
+00:12:27,000 --> 00:12:29,700
+Believe it or not, the Russians even
+
+203
+00:12:29,800 --> 00:12:33,980
+built a 100 megaton bomb at some point when they thought
+
+204
+00:12:34,080 --> 00:12:36,620
+bigger was better.
+
+205
+00:12:36,720 --> 00:12:40,720
+A 100 megaton bomb is about 7,000 times more powerful
+
+206
+00:12:40,820 --> 00:12:44,220
+than the bomb dropped on Hiroshima.
+
+207
+00:12:44,221 --> 00:12:46,760
+As lethality increased, bomb designers
+
+208
+00:12:46,860 --> 00:12:50,960
+wanted to make unauthorized detonations more difficult.
+
+209
+00:12:51,060 --> 00:12:53,760
+This meant protecting the high explosive trigger,
+
+210
+00:12:53,860 --> 00:12:56,960
+known as a sensitive HE pellet.
+
+211
+00:12:57,060 --> 00:13:00,060
+This is a mechanical safe and armed detonator.
+
+212
+00:13:00,160 --> 00:13:02,280
+You can see, if you look closely,
+
+213
+00:13:02,380 --> 00:13:04,600
+that a series of pushes and pulls
+
+214
+00:13:04,700 --> 00:13:09,740
+rotates this little wheel, takes the sensitive HE pellet,
+
+215
+00:13:09,840 --> 00:13:13,820
+and lines it up with this gun barrel on the back here.
+
+216
+00:13:13,821 --> 00:13:17,820
+Well, only a very large number of secret coded pushes
+
+217
+00:13:17,920 --> 00:13:19,720
+and pulls can achieve that.
+
+218
+00:13:19,820 --> 00:13:21,820
+Any other series, if you make one mistake,
+
+219
+00:13:21,920 --> 00:13:24,360
+and I actually have made one mistake now here,
+
+220
+00:13:24,460 --> 00:13:26,460
+and it's locked up.
+
+221
+00:13:26,560 --> 00:13:30,160
+Detonators of this type cost as much as $50,000.
+
+222
+00:13:30,260 --> 00:13:32,780
+But their Swiss watch tolerances are required
+
+223
+00:13:32,880 --> 00:13:35,780
+to be sure a nuclear warhead doesn't detonate until armed
+
+224
+00:13:35,880 --> 00:13:37,420
+during a launch sequence.
+
+225
+00:13:37,520 --> 00:13:38,420
+Hands on keys.
+
+226
+00:13:38,520 --> 00:13:39,520
+Keys on my mark.
+
+227
+00:13:39,620 --> 00:13:43,820
+Three, two, one.
+
+228
+00:13:43,821 --> 00:13:48,820
+Atomic weapons were and still are the last word in war,
+
+229
+00:13:48,920 --> 00:13:52,820
+but nuclear technology has also created peacetime applications
+
+230
+00:13:52,920 --> 00:13:56,760
+defended by friends and villainized by foes.
+
+231
+00:14:00,260 --> 00:14:03,680
+The United States government maintains a stockpile
+
+232
+00:14:03,780 --> 00:14:07,680
+of more than 10,000 nuclear warheads.
+
+233
+00:14:07,780 --> 00:14:11,680
+Nuclear tech will return on Modern Marvels.
+
+234
+00:14:13,820 --> 00:14:20,820
+We now return to nuclear tech on Modern Marvels.
+
+235
+00:14:20,821 --> 00:14:27,820
+In the 1950s, America envisioned a bright nuclear future,
+
+236
+00:14:27,821 --> 00:14:30,820
+and the US military wanted its soldiers to be familiar with the
+
+237
+00:14:30,821 --> 00:14:34,820
+new technology. Put on goggles or face
+
+238
+00:14:34,821 --> 00:14:38,820
+away from the target area. Bomb away.
+
+239
+00:14:38,821 --> 00:14:44,820
+Watching a bomb blast from across the Nevada desert may
+
+240
+00:14:44,821 --> 00:14:49,820
+appear naive today, but in the 50s, such enthusiasm for all
+
+241
+00:14:49,821 --> 00:14:52,820
+things nuclear went right to the top.
+
+242
+00:14:55,820 --> 00:14:58,820
+President Dwight D. Eisenhower announced what was known as the
+
+243
+00:14:58,821 --> 00:15:01,820
+Atoms for Peace Initiative in the United Nations General
+
+244
+00:15:01,821 --> 00:15:05,820
+Assembly on December 18, 1953.
+
+245
+00:15:05,821 --> 00:15:13,820
+The United States pledges before you to devote its entire heart and mind to find the way
+
+246
+00:15:13,821 --> 00:15:20,780
+by which the miraculous inventiveness of man shall not be dedicated to his death, but
+
+247
+00:15:20,781 --> 00:15:22,520
+consecrated to his life.
+
+248
+00:15:24,100 --> 00:15:29,580
+In the early 1950s, President Eisenhower talked about atoms for peace.
+
+249
+00:15:30,360 --> 00:15:35,740
+And this was a program which spread nuclear technologies to countries around the world.
+
+250
+00:15:35,820 --> 00:15:38,460
+I gave them research reactors.
+
+251
+00:15:38,560 --> 00:15:41,460
+Much of this is coming back to haunt us today.
+
+252
+00:15:41,560 --> 00:15:43,060
+Spreading the knowledge, of course,
+
+253
+00:15:43,160 --> 00:15:49,360
+has a dark side if they decide to pursue a military path.
+
+254
+00:15:49,460 --> 00:15:51,460
+Many were worrying about the bomb,
+
+255
+00:15:51,560 --> 00:15:52,940
+but some engineers and scientists
+
+256
+00:15:53,040 --> 00:15:55,700
+were also quite taken with the possibility
+
+257
+00:15:55,800 --> 00:15:59,240
+of using atomic power to heat homes, fuel airplanes,
+
+258
+00:15:59,340 --> 00:16:02,180
+and undertake massive public works projects.
+
+259
+00:16:02,280 --> 00:16:05,420
+Nuclear explosives may be the most efficient
+
+260
+00:16:05,421 --> 00:16:12,420
+efficient way to excavate a sea level canal safely, quickly and for less cost than conventional means.
+
+261
+00:16:12,421 --> 00:16:19,420
+It's called peaceful nuclear explosions and you'd put a string of them under the ground to detonate them all off and you'd have this huge
+
+262
+00:16:19,421 --> 00:16:28,420
+either hole or canal and the Russians did a lot with that to try to redirect river flow in Siberia but it left a lot of
+
+263
+00:16:28,421 --> 00:16:30,277
+radioactive debris around.
+
+264
+00:16:30,278 --> 00:16:35,420
+We had on the books for maybe 30 years the Corps of Engineers of digging
+
+265
+00:16:35,421 --> 00:16:38,520
+a new Panama Canal, either in Panama or Nicaragua,
+
+266
+00:16:38,521 --> 00:16:41,760
+using nuclear weapons, we now realize that it's probably
+
+267
+00:16:41,761 --> 00:16:44,320
+not the way to do it.
+
+268
+00:16:44,321 --> 00:16:49,560
+In 1955, nuclear power was about to meet with success.
+
+269
+00:16:49,561 --> 00:16:52,100
+On July 17th, a little after midnight,
+
+270
+00:16:52,101 --> 00:16:54,880
+the world's first nuclear power reactor went online
+
+271
+00:16:54,881 --> 00:16:56,980
+in a brief demonstration.
+
+272
+00:16:56,981 --> 00:17:01,480
+It provided electricity to the little town of Arco, Idaho.
+
+273
+00:17:01,481 --> 00:17:03,520
+Experts predicted that the mighty atom would make
+
+274
+00:17:03,521 --> 00:17:06,520
+so cheaply that it might someday be free.
+
+275
+00:17:09,520 --> 00:17:12,020
+Today, 20% of America's electrical power
+
+276
+00:17:12,021 --> 00:17:15,360
+is generated by nuclear reactors.
+
+277
+00:17:15,361 --> 00:17:17,860
+A nuclear reactor is really a sophisticated version
+
+278
+00:17:17,861 --> 00:17:20,280
+of a steam engine.
+
+279
+00:17:20,281 --> 00:17:23,280
+Reactors use the heat energy given off by nuclear fission
+
+280
+00:17:23,281 --> 00:17:27,780
+to heat water, creating steam, which is used to turn turbines
+
+281
+00:17:27,781 --> 00:17:30,280
+that generate electricity.
+
+282
+00:17:30,281 --> 00:17:32,720
+The uranium core where that fission takes place
+
+283
+00:17:32,721 --> 00:17:37,160
+takes place is contained inside a reactor vessel.
+
+284
+00:17:37,260 --> 00:17:39,760
+In the vessel are fuel rods of zirconium,
+
+285
+00:17:39,860 --> 00:17:43,540
+filled with pellets of slightly enriched uranium.
+
+286
+00:17:43,640 --> 00:17:47,260
+Control rods made of boron carbide, which absorb neutrons,
+
+287
+00:17:47,360 --> 00:17:52,600
+are moved in to slow the reaction, moved out to speed it up.
+
+288
+00:17:52,700 --> 00:17:56,040
+The bright prospects of nuclear power dimmed considerably.
+
+289
+00:17:56,140 --> 00:18:00,040
+In the early morning hours of March 28, 1979,
+
+290
+00:18:00,041 --> 00:18:03,040
+A nuclear power plant near Harrisburg, Pennsylvania,
+
+291
+00:18:03,041 --> 00:18:07,580
+called Three Mile Island Unit 2, began a dangerous process
+
+292
+00:18:07,581 --> 00:18:09,380
+of meltdown.
+
+293
+00:18:09,381 --> 00:18:13,780
+So I was first apprised of this problem early yesterday.
+
+294
+00:18:13,781 --> 00:18:18,200
+We have activated state health and environmental experts
+
+295
+00:18:18,201 --> 00:18:21,960
+and called immediately upon technicians from the Nuclear
+
+296
+00:18:21,961 --> 00:18:25,240
+Regulatory Commission, the United States Department of
+
+297
+00:18:25,241 --> 00:18:30,040
+Energy, as well as other private sources.
+
+298
+00:18:30,041 --> 00:18:32,680
+What happened at Three Mile Island and what a meltdown
+
+299
+00:18:32,780 --> 00:18:36,280
+is is you lose this coolant water for a while.
+
+300
+00:18:36,380 --> 00:18:38,820
+And even though maybe the fission reaction still
+
+301
+00:18:38,920 --> 00:18:43,220
+isn't going on, it's so hot that it will melt the fuel rods.
+
+302
+00:18:43,320 --> 00:18:45,060
+It will melt the whole casing.
+
+303
+00:18:45,160 --> 00:18:48,860
+And it will melt through the bottom of the reactor.
+
+304
+00:18:48,960 --> 00:18:51,660
+Three Mile Island was a public relations disaster
+
+305
+00:18:51,760 --> 00:18:54,200
+for the nuclear industry.
+
+306
+00:18:54,300 --> 00:18:56,300
+Though limited radiation was released,
+
+307
+00:18:56,400 --> 00:18:58,700
+the event induced widespread panic
+
+308
+00:18:58,701 --> 00:19:04,000
+and a fear of all things nuclear among the general population.
+
+309
+00:19:04,100 --> 00:19:05,540
+After the accident, the government
+
+310
+00:19:05,640 --> 00:19:08,940
+initiated better safety training for reactor personnel
+
+311
+00:19:09,040 --> 00:19:12,180
+and made design changes in control rooms.
+
+312
+00:19:12,280 --> 00:19:14,620
+The way the control room was designed
+
+313
+00:19:14,720 --> 00:19:18,120
+didn't facilitate people responding to an accident.
+
+314
+00:19:18,220 --> 00:19:20,720
+There were some controls that red meant something
+
+315
+00:19:20,820 --> 00:19:22,460
+and green meant something.
+
+316
+00:19:22,560 --> 00:19:25,260
+And then other controls were just meant the opposite.
+
+317
+00:19:25,261 --> 00:19:28,360
+So it really wasn't designed for helping people
+
+318
+00:19:28,460 --> 00:19:30,200
+in a crisis situation.
+
+319
+00:19:30,300 --> 00:19:34,300
+But then, in April 1986, the public's worst fears
+
+320
+00:19:34,400 --> 00:19:38,300
+about nuclear reactors were confirmed.
+
+321
+00:19:38,400 --> 00:19:42,180
+In Ukraine, then a republic of the former Soviet Union,
+
+322
+00:19:42,280 --> 00:19:44,480
+the Chernobyl nuclear reactor exploded
+
+323
+00:19:44,580 --> 00:19:47,780
+during a routine test.
+
+324
+00:19:47,880 --> 00:19:52,260
+The area of radioactive release was 1,700 times larger
+
+325
+00:19:52,261 --> 00:19:55,100
+than that of Three Mile Island, with 200 times
+
+326
+00:19:55,200 --> 00:19:58,840
+the number of people exposed to the radioactive dispersal.
+
+327
+00:19:58,940 --> 00:20:01,840
+30 people died, and 209 were treated
+
+328
+00:20:01,940 --> 00:20:04,680
+for acute radiation exposure.
+
+329
+00:20:04,780 --> 00:20:07,380
+At Chernobyl, we did have a true catastrophe.
+
+330
+00:20:07,480 --> 00:20:11,340
+And that, I think, really caused global doubts
+
+331
+00:20:11,440 --> 00:20:13,380
+about nuclear power.
+
+332
+00:20:13,480 --> 00:20:17,020
+It had a profound effect inside the Soviet Union at the time,
+
+333
+00:20:17,120 --> 00:20:20,720
+certainly on Gorbachev, and probably contributed
+
+334
+00:20:20,721 --> 00:20:25,160
+contributed in its own way to the downfall of the Soviet Union.
+
+335
+00:20:25,260 --> 00:20:27,920
+Chernobyl was a harsh lesson for reactor designers
+
+336
+00:20:28,020 --> 00:20:29,860
+and safety officials.
+
+337
+00:20:29,960 --> 00:20:31,460
+But the problem of a core meltdown
+
+338
+00:20:31,560 --> 00:20:34,560
+wasn't the only challenge they faced.
+
+339
+00:20:34,660 --> 00:20:38,180
+Even the routine transport of nuclear waste produced by reactors
+
+340
+00:20:38,280 --> 00:20:40,740
+and other sources carries its own risks
+
+341
+00:20:40,840 --> 00:20:45,620
+because of the waste's continuing radioactivity.
+
+342
+00:20:45,720 --> 00:20:48,440
+Used reactor fuel rods remain hazardous for hundreds
+
+343
+00:20:48,441 --> 00:20:50,680
+of thousands of years.
+
+344
+00:20:50,681 --> 00:20:52,540
+Billions of gallons of nuclear waste
+
+345
+00:20:52,541 --> 00:20:54,680
+from both military and commercial sources
+
+346
+00:20:54,681 --> 00:20:58,840
+reside in underground facilities, much of it
+
+347
+00:20:58,841 --> 00:21:02,260
+slowly leaking into groundwater supplies.
+
+348
+00:21:02,261 --> 00:21:05,160
+Scientists debate actively the potential health effects
+
+349
+00:21:05,161 --> 00:21:07,660
+of this contamination.
+
+350
+00:21:07,661 --> 00:21:09,820
+Authorities are also concerned about security
+
+351
+00:21:09,821 --> 00:21:11,860
+at nuclear power plants.
+
+352
+00:21:11,861 --> 00:21:13,900
+They've taken steps to prevent the theft
+
+353
+00:21:13,901 --> 00:21:16,700
+of radioactive materials.
+
+354
+00:21:16,701 --> 00:21:21,700
+in the wrong hands could be used to make a dispersal device.
+
+355
+00:21:21,800 --> 00:21:23,640
+In principle, I don't need a bomb
+
+356
+00:21:23,740 --> 00:21:25,440
+to spread this radioactivity around.
+
+357
+00:21:25,540 --> 00:21:27,040
+I can go on top of a tall building
+
+358
+00:21:27,140 --> 00:21:29,940
+and just shake a powder over the side in a high wind.
+
+359
+00:21:30,040 --> 00:21:32,440
+It's a way of just getting radioactivity out.
+
+360
+00:21:32,540 --> 00:21:35,820
+Such a bomb or radiological attack
+
+361
+00:21:35,920 --> 00:21:37,560
+would not necessarily kill anyone.
+
+362
+00:21:37,660 --> 00:21:43,060
+It's largely an economic and psychological attack.
+
+363
+00:21:43,160 --> 00:21:45,360
+Released in a crowded city or anywhere,
+
+364
+00:21:45,361 --> 00:21:48,760
+masses of people gather, a so-called dirty bomb would
+
+365
+00:21:48,860 --> 00:21:53,160
+spread terror and economic devastation.
+
+366
+00:21:53,260 --> 00:21:56,500
+To address this new threat, scientists would need to develop
+
+367
+00:21:56,600 --> 00:21:59,800
+new ways of detecting radioactive sources.
+
+368
+00:22:04,420 --> 00:22:10,160
+In France, nearly 60 nuclear reactors supply almost 80% of
+
+369
+00:22:10,260 --> 00:22:13,360
+the country's electricity.
+
+370
+00:22:13,361 --> 00:22:19,840
+Nuclear Tech will return on Modern Marvels, here on the History Channel.
+
+371
+00:22:25,800 --> 00:22:29,640
+We now return to Nuclear Tech on Modern Marvels.
+
+372
+00:22:33,340 --> 00:22:38,140
+Radiation is constantly with us. Some of it is harmful, some naturally occurring.
+
+373
+00:22:39,060 --> 00:22:42,340
+Scientists have developed ways to detect radiation in all its forms.
+
+374
+00:22:42,341 --> 00:22:47,340
+In 1928, Hans Geiger and a colleague developed the Geiger
+
+375
+00:22:47,341 --> 00:22:49,340
+Mueller counter.
+
+376
+00:22:49,341 --> 00:22:52,340
+A Geiger counter is a device for measuring the rate of
+
+377
+00:22:52,341 --> 00:22:54,340
+radioactive decay.
+
+378
+00:22:54,341 --> 00:22:57,340
+The heart of a Geiger counter is a gas-filled tube that
+
+379
+00:22:57,341 --> 00:22:59,340
+conducts electricity.
+
+380
+00:22:59,341 --> 00:23:02,340
+It becomes conductive when ionized by a particle emitted
+
+381
+00:23:02,341 --> 00:23:05,340
+by a radioactive source.
+
+382
+00:23:05,341 --> 00:23:08,340
+The charged gas completes an electrical circuit, and the
+
+383
+00:23:08,341 --> 00:23:11,340
+Geiger counter amplifies the signal and displays it with a
+
+384
+00:23:11,341 --> 00:23:15,680
+and displays it with a jumping needle and an audible click.
+
+385
+00:23:15,681 --> 00:23:17,840
+The next generation of radiation detection
+
+386
+00:23:17,841 --> 00:23:20,840
+is also a handheld unit, but is light years ahead
+
+387
+00:23:20,841 --> 00:23:22,460
+of the old Geiger counter.
+
+388
+00:23:22,461 --> 00:23:24,880
+It's called the Rad Scout.
+
+389
+00:23:24,881 --> 00:23:28,020
+At the very front of the device is the high-period germanium
+
+390
+00:23:28,021 --> 00:23:28,920
+crystal itself.
+
+391
+00:23:28,921 --> 00:23:32,100
+That's what's measuring the gamma radiation, X radiation.
+
+392
+00:23:32,101 --> 00:23:34,360
+That's inside the silver tube at the end,
+
+393
+00:23:34,361 --> 00:23:36,360
+this gray foam we have on the prototype,
+
+394
+00:23:36,361 --> 00:23:38,240
+simply to keep us from damaging it
+
+395
+00:23:38,241 --> 00:23:41,040
+as we move it around the laboratory.
+
+396
+00:23:41,041 --> 00:23:43,540
+The germanium crystals were first used for gamma ray
+
+397
+00:23:43,541 --> 00:23:46,740
+detection in 1962.
+
+398
+00:23:46,741 --> 00:23:49,780
+They work because each gamma ray has a signature wavelength,
+
+399
+00:23:49,781 --> 00:23:51,080
+like a fingerprint.
+
+400
+00:23:51,081 --> 00:23:53,120
+And the crystal can convert this fingerprint
+
+401
+00:23:53,121 --> 00:23:56,160
+to electrical pulses.
+
+402
+00:23:56,161 --> 00:23:58,120
+For the crystal to function properly,
+
+403
+00:23:58,121 --> 00:24:01,260
+it must be kept at a temperature of minus 300 degrees
+
+404
+00:24:01,261 --> 00:24:03,900
+Fahrenheit, using a portable refrigerator
+
+405
+00:24:03,901 --> 00:24:05,300
+in the back of the unit.
+
+406
+00:24:05,301 --> 00:24:07,340
+In the old days, we would keep those cold by that bottle
+
+407
+00:24:07,341 --> 00:24:08,460
+of liquid nitrogen.
+
+408
+00:24:08,461 --> 00:24:11,040
+Now we've got a refrigerator back here that keeps it cold.
+
+409
+00:24:11,041 --> 00:24:12,280
+We're much more portable.
+
+410
+00:24:12,281 --> 00:24:14,740
+We don't have to be tied to a supply of liquid nitrogen
+
+411
+00:24:14,741 --> 00:24:16,980
+that would run out every day.
+
+412
+00:24:16,981 --> 00:24:19,680
+Inside the Rad Scout, an onboard computer
+
+413
+00:24:19,681 --> 00:24:22,580
+analyzes the data instantly.
+
+414
+00:24:22,581 --> 00:24:25,480
+A non-scientist can use the device
+
+415
+00:24:25,481 --> 00:24:27,800
+and identify what's causing the radiation
+
+416
+00:24:27,801 --> 00:24:29,400
+and start the process of determining
+
+417
+00:24:29,401 --> 00:24:30,900
+whether there's a real threat there
+
+418
+00:24:30,901 --> 00:24:34,500
+or if it's a legitimate radioactive source.
+
+419
+00:24:34,501 --> 00:24:36,300
+But the Rad Scout isn't the only way
+
+420
+00:24:36,301 --> 00:24:38,940
+to detect a radiation threat.
+
+421
+00:24:38,941 --> 00:24:42,180
+Scientists are putting nuclear technologies to practical use
+
+422
+00:24:42,280 --> 00:24:43,880
+in the hope of protecting the public.
+
+423
+00:24:47,380 --> 00:24:49,980
+At the Global Marine Terminal in New Jersey,
+
+424
+00:24:50,080 --> 00:24:52,180
+there is a US Customs Inspection Station
+
+425
+00:24:52,280 --> 00:24:54,780
+charged with examining every shipping container that
+
+426
+00:24:54,880 --> 00:24:58,400
+is offloaded onto a waiting 18-wheeler.
+
+427
+00:24:58,500 --> 00:25:00,800
+The containers hail from all over the world,
+
+428
+00:25:00,900 --> 00:25:04,700
+and a surprising number of them carry radioactive materials.
+
+429
+00:25:04,800 --> 00:25:06,700
+They pass through radiation portals
+
+430
+00:25:06,701 --> 00:25:10,400
+that function like giant Geiger counters.
+
+431
+00:25:10,500 --> 00:25:12,400
+On any given day at this particular terminal,
+
+432
+00:25:12,500 --> 00:25:15,740
+we see about 500 containers on average, on the high side,
+
+433
+00:25:15,840 --> 00:25:18,940
+600 a day that exit this facility.
+
+434
+00:25:19,040 --> 00:25:23,320
+From that, we probably get about four or five radiation hits
+
+435
+00:25:23,420 --> 00:25:26,020
+a day on average.
+
+436
+00:25:26,120 --> 00:25:27,180
+Alert.
+
+437
+00:25:27,280 --> 00:25:28,020
+Alert.
+
+438
+00:25:28,120 --> 00:25:29,020
+Alert.
+
+439
+00:25:29,120 --> 00:25:31,820
+When a hit occurs and the alarm sounds,
+
+440
+00:25:31,920 --> 00:25:35,320
+customs officers direct the truck to a second radiation portal
+
+441
+00:25:35,321 --> 00:25:37,620
+for additional screening.
+
+442
+00:25:37,720 --> 00:25:40,260
+That's necessary because the portals are so sensitive,
+
+443
+00:25:40,360 --> 00:25:42,720
+they pick up even low levels of radiation,
+
+444
+00:25:42,820 --> 00:25:44,460
+some of which occur naturally.
+
+445
+00:25:44,560 --> 00:25:46,560
+It's very common that we see radiation hits
+
+446
+00:25:46,660 --> 00:25:50,400
+from things like ceramic tiles, stoneware, kitty litter.
+
+447
+00:25:50,500 --> 00:25:52,400
+These type of things have naturally occurring
+
+448
+00:25:52,500 --> 00:25:53,800
+radioactive elements.
+
+449
+00:25:53,900 --> 00:25:56,740
+Low level, but it's good that our sensors can pick it up
+
+450
+00:25:56,840 --> 00:25:58,940
+even at that low level.
+
+451
+00:25:59,040 --> 00:26:01,120
+Using an automated targeting system,
+
+452
+00:26:01,220 --> 00:26:03,620
+the custom station is equipped to compare the cargo
+
+453
+00:26:03,621 --> 00:26:07,620
+in the container with a shipping manifest.
+
+454
+00:26:07,720 --> 00:26:10,720
+Officers also inspect a visual chart of the radiation
+
+455
+00:26:10,820 --> 00:26:12,420
+called a spectra.
+
+456
+00:26:12,520 --> 00:26:14,860
+We will get a graph, as we see on the screen here,
+
+457
+00:26:14,960 --> 00:26:18,360
+telling us exactly what the radiation source is.
+
+458
+00:26:18,460 --> 00:26:20,380
+We marry up the information, the two pieces
+
+459
+00:26:20,480 --> 00:26:21,580
+of electronic information.
+
+460
+00:26:21,680 --> 00:26:24,780
+It gives us a clearer picture of the risk and the threat
+
+461
+00:26:24,880 --> 00:26:27,180
+assessment of all the containers.
+
+462
+00:26:27,280 --> 00:26:28,180
+Here's the cab.
+
+463
+00:26:28,280 --> 00:26:32,880
+Looks like it's right in the center, so right about there.
+
+464
+00:26:32,881 --> 00:26:35,620
+Customs officers use a handheld radiation detector
+
+465
+00:26:35,720 --> 00:26:37,120
+to take readings.
+
+466
+00:26:37,220 --> 00:26:39,080
+And if the data are too weak to analyze
+
+467
+00:26:39,180 --> 00:26:41,220
+or otherwise inconclusive, they'll
+
+468
+00:26:41,320 --> 00:26:42,920
+crack the custom seal and get a visual.
+
+469
+00:26:46,060 --> 00:26:48,520
+OK, this is giving me an unknown isotope.
+
+470
+00:26:48,620 --> 00:26:49,640
+We're going to have to open the container.
+
+471
+00:26:52,740 --> 00:26:54,340
+We got to pop it.
+
+472
+00:26:54,440 --> 00:26:57,040
+Simple matter of taking a pair of bowl cutters, snapping it off.
+
+473
+00:26:59,780 --> 00:27:02,180
+We record the seal, and then we put a custom seal on when
+
+474
+00:27:02,181 --> 00:27:03,180
+when we're done.
+
+475
+00:27:09,780 --> 00:27:12,520
+This particular container is manifested as stoneware,
+
+476
+00:27:12,620 --> 00:27:15,920
+and it's some sort of concrete and granite material,
+
+477
+00:27:16,020 --> 00:27:20,940
+and it's something that would naturally set off radiation.
+
+478
+00:27:21,040 --> 00:27:22,740
+The technology of the portal monitor
+
+479
+00:27:22,840 --> 00:27:25,840
+has its detractors.
+
+480
+00:27:25,940 --> 00:27:28,240
+They've questioned whether stolen fission materials
+
+481
+00:27:28,340 --> 00:27:32,180
+might escape detection by the portal system.
+
+482
+00:27:32,181 --> 00:27:36,780
+While the portals can easily detect plutonium and dirty bomb
+
+483
+00:27:36,880 --> 00:27:40,320
+materials, they're less effective in detecting highly enriched
+
+484
+00:27:40,420 --> 00:27:43,660
+uranium, an isotope readily found at nuclear weapons
+
+485
+00:27:43,760 --> 00:27:44,660
+stockpile facilities.
+
+486
+00:27:48,760 --> 00:27:51,840
+If we want to solve the highly enriched uranium terrorist
+
+487
+00:27:51,940 --> 00:27:56,500
+problem, you have to lock this material up at the source or
+
+488
+00:27:56,600 --> 00:27:58,500
+eliminate it at the source.
+
+489
+00:27:58,501 --> 00:28:02,800
+we can at least round up the material in the civil programs
+
+490
+00:28:02,900 --> 00:28:06,100
+and greatly reduce the threat of terrorists
+
+491
+00:28:06,200 --> 00:28:09,240
+using nuclear weapons.
+
+492
+00:28:09,340 --> 00:28:11,740
+Smuggling nuclear materials across borders
+
+493
+00:28:11,840 --> 00:28:14,520
+remains a troubling problem, and scientists
+
+494
+00:28:14,620 --> 00:28:16,580
+are working to address it with new forms
+
+495
+00:28:16,680 --> 00:28:19,060
+of nuclear technology.
+
+496
+00:28:19,160 --> 00:28:21,020
+They're worried about people possibly stealing
+
+497
+00:28:21,120 --> 00:28:23,200
+nuclear material or nuclear weapons
+
+498
+00:28:23,300 --> 00:28:25,120
+and bringing them into the United States,
+
+499
+00:28:25,220 --> 00:28:28,500
+where you could obviously do a huge amount of damage.
+
+500
+00:28:28,501 --> 00:28:31,340
+Scientists are developing a handheld unit that could be
+
+501
+00:28:31,440 --> 00:28:34,240
+distributed to emergency workers.
+
+502
+00:28:34,340 --> 00:28:36,740
+So this is a special cell phone that's
+
+503
+00:28:36,840 --> 00:28:39,040
+also a personal digital assistant.
+
+504
+00:28:39,140 --> 00:28:41,840
+And we strapped on the back here some electronics,
+
+505
+00:28:41,940 --> 00:28:44,540
+including a global positioning satellite receiver,
+
+506
+00:28:44,640 --> 00:28:45,960
+GPS receiver.
+
+507
+00:28:46,060 --> 00:28:49,760
+And these detectors fit in here like this.
+
+508
+00:28:49,860 --> 00:28:51,660
+The chip that fits in this prototype
+
+509
+00:28:51,760 --> 00:28:56,000
+was originally made to detect gamma rays in space.
+
+510
+00:28:56,100 --> 00:28:58,500
+To reach the upper atmosphere, the sensors have
+
+511
+00:28:58,501 --> 00:28:59,500
+lightweight.
+
+512
+00:28:59,600 --> 00:29:02,140
+They were also relatively cheap.
+
+513
+00:29:02,240 --> 00:29:05,280
+Researchers later realized that those qualities made the sensors
+
+514
+00:29:05,380 --> 00:29:08,480
+the perfect candidates for detecting radioactive sources
+
+515
+00:29:08,580 --> 00:29:10,820
+in urban environments.
+
+516
+00:29:10,920 --> 00:29:12,740
+Individually, they may not have a whole lot of power,
+
+517
+00:29:12,840 --> 00:29:15,080
+but if we have a lot of them, I'm talking about hundreds
+
+518
+00:29:15,180 --> 00:29:17,820
+or even thousands of these things in one given city
+
+519
+00:29:17,920 --> 00:29:20,660
+region, for example, they all are constantly measuring
+
+520
+00:29:20,760 --> 00:29:22,760
+the radioactive, they're constantly making measurements,
+
+521
+00:29:22,860 --> 00:29:24,760
+and they send all those signals back
+
+522
+00:29:24,860 --> 00:29:27,700
+to a central processing system that's
+
+523
+00:29:27,701 --> 00:29:29,200
+It's going to look at all those things
+
+524
+00:29:29,300 --> 00:29:32,100
+and look at them all together as if they were one big detector
+
+525
+00:29:32,200 --> 00:29:33,840
+that's spread out.
+
+526
+00:29:33,940 --> 00:29:38,040
+And therefore, we believe, have a very sensitive system.
+
+527
+00:29:38,140 --> 00:29:40,240
+Armed with this passively gathered data,
+
+528
+00:29:40,340 --> 00:29:43,640
+analysts could create a dynamic map of an entire city.
+
+529
+00:29:43,740 --> 00:29:45,060
+There's a bit of randomness to it, too.
+
+530
+00:29:45,160 --> 00:29:46,160
+It's just another thing.
+
+531
+00:29:46,260 --> 00:29:47,760
+If I have one big detector, well,
+
+532
+00:29:47,860 --> 00:29:49,160
+it's going to be pretty obvious where that is.
+
+533
+00:29:49,260 --> 00:29:50,760
+It might be easy to go around it.
+
+534
+00:29:50,860 --> 00:29:52,300
+But if these things are everywhere,
+
+535
+00:29:52,400 --> 00:29:56,200
+it's hard to go around because you don't know where they are.
+
+536
+00:29:56,201 --> 00:29:59,000
+The result is a smart network that is constantly updating
+
+537
+00:29:59,100 --> 00:30:02,700
+authorities on radiation conditions.
+
+538
+00:30:02,800 --> 00:30:06,940
+But radiation can also be used productively at safe levels,
+
+539
+00:30:07,040 --> 00:30:10,140
+at home, at work, and in medicine.
+
+540
+00:30:10,240 --> 00:30:14,060
+The power of the atom is getting up close and personal.
+
+541
+00:30:18,960 --> 00:30:20,860
+Common materials that are radioactive
+
+542
+00:30:20,960 --> 00:30:23,700
+include concrete, which contains uranium
+
+543
+00:30:23,701 --> 00:30:27,300
+in a concentration of 31 parts per million.
+
+544
+00:30:27,400 --> 00:30:30,000
+Nuclear Tech will return on Modern Marvels.
+
+545
+00:30:38,040 --> 00:30:41,060
+We now return to Nuclear Tech on Modern Marvels.
+
+546
+00:30:44,160 --> 00:30:46,560
+This looks like an ordinary warehouse,
+
+547
+00:30:46,660 --> 00:30:50,260
+but actually, it's a hotbed of nuclear tech.
+
+548
+00:30:50,360 --> 00:30:53,460
+In a secure concrete chamber with walls 6 and 1 1
+
+549
+00:30:53,461 --> 00:30:57,260
+thick is a deadly source of radioactive cobalt,
+
+550
+00:30:57,360 --> 00:30:58,460
+glowing eerily blue.
+
+551
+00:31:02,360 --> 00:31:05,300
+These medical supplies, cosmetics, and spices
+
+552
+00:31:05,400 --> 00:31:09,100
+are about to receive a blast of gamma photons.
+
+553
+00:31:09,200 --> 00:31:11,220
+They're being irradiated to reduce
+
+554
+00:31:11,320 --> 00:31:14,020
+pathogenic organisms, E. coli, salmonella,
+
+555
+00:31:14,120 --> 00:31:16,020
+or just general spoilage organisms,
+
+556
+00:31:16,120 --> 00:31:18,920
+yeast and molds that can contaminate subsequent products
+
+557
+00:31:19,020 --> 00:31:21,320
+in the manufacturing process.
+
+558
+00:31:21,321 --> 00:31:22,980
+In some cases, it's sterilization,
+
+559
+00:31:23,080 --> 00:31:26,320
+and in some cases, it's just microbial decontamination
+
+560
+00:31:26,420 --> 00:31:29,260
+or sanitization.
+
+561
+00:31:29,360 --> 00:31:32,200
+The products are sanitized, but they aren't radioactive
+
+562
+00:31:32,300 --> 00:31:34,300
+after the process.
+
+563
+00:31:34,400 --> 00:31:36,540
+Since radiation penetrates packaging,
+
+564
+00:31:36,640 --> 00:31:39,180
+the goods to be treated are loaded right off their shipping
+
+565
+00:31:39,280 --> 00:31:44,080
+pallets into metal carriers, called totes.
+
+566
+00:31:44,180 --> 00:31:46,320
+The amount of radiation the products receive
+
+567
+00:31:46,420 --> 00:31:49,540
+is precisely controlled.
+
+568
+00:31:49,541 --> 00:31:51,500
+Because if you get too high a dose,
+
+569
+00:31:51,600 --> 00:31:52,940
+then you will either damage the product,
+
+570
+00:31:53,040 --> 00:31:55,080
+some plastics degrade with radiation.
+
+571
+00:31:55,180 --> 00:31:58,180
+In food irradiation, you will get some off flavors
+
+572
+00:31:58,280 --> 00:32:01,980
+from lipids, fats in the meat if it goes too high a dose,
+
+573
+00:32:02,080 --> 00:32:03,980
+and that sort of thing.
+
+574
+00:32:04,080 --> 00:32:06,020
+An overhead track system guides the totes
+
+575
+00:32:06,120 --> 00:32:08,220
+into the radiation cell and rotates them
+
+576
+00:32:08,320 --> 00:32:09,660
+for even radiation exposure.
+
+577
+00:32:12,800 --> 00:32:15,640
+Small radiation sensors, called dosimeters,
+
+578
+00:32:15,740 --> 00:32:17,640
+monitor the dose each tote receives
+
+579
+00:32:17,641 --> 00:32:20,940
+when it enters the radiation cell.
+
+580
+00:32:21,040 --> 00:32:23,380
+With lethal levels inside the chamber,
+
+581
+00:32:23,480 --> 00:32:27,880
+there's a warning system to prevent accidental access
+
+582
+00:32:31,980 --> 00:32:34,920
+and a concrete maze designed to absorb the energy
+
+583
+00:32:35,020 --> 00:32:36,320
+of the gamma radiation.
+
+584
+00:32:38,900 --> 00:32:42,840
+It will be going down what we refer to as a maze.
+
+585
+00:32:42,940 --> 00:32:45,900
+The gamma radiation, as it's emitted from the cobalt sources,
+
+586
+00:32:45,901 --> 00:32:49,700
+sources, it bounces off the walls.
+
+587
+00:32:49,800 --> 00:32:52,740
+This is on the order of about a factor of 1,000
+
+588
+00:32:52,840 --> 00:32:57,280
+in its intensity for each bounce that it goes through.
+
+589
+00:32:57,380 --> 00:32:59,720
+Inside the cell, the totes are shuffled
+
+590
+00:32:59,820 --> 00:33:02,660
+by the overhead track system to keep radiation levels
+
+591
+00:33:02,760 --> 00:33:06,820
+consistent during a dose period, ranging from 6 to 12 hours.
+
+592
+00:33:09,620 --> 00:33:11,660
+The powerful dose of nuclear radiation
+
+593
+00:33:11,760 --> 00:33:14,600
+sanitizes the product by interfering with the DNA
+
+594
+00:33:14,601 --> 00:33:19,840
+process of any offending bacterium or other pesky organisms.
+
+595
+00:33:19,940 --> 00:33:23,000
+That is, if it doesn't kill them instantly.
+
+596
+00:33:23,100 --> 00:33:26,540
+The cobalt source is formed into slugs that are fitted into a
+
+597
+00:33:26,640 --> 00:33:29,740
+metal rod, like this model.
+
+598
+00:33:29,840 --> 00:33:33,360
+Cobalt is used because it is a high-yield, high-energy source
+
+599
+00:33:33,460 --> 00:33:35,360
+of gamma radiation.
+
+600
+00:33:35,460 --> 00:33:39,660
+While in use, the source is raised from a pool of water.
+
+601
+00:33:39,760 --> 00:33:42,360
+But when humans must brave the cell for maintenance
+
+602
+00:33:42,361 --> 00:33:43,860
+maintenance inspections.
+
+603
+00:33:43,960 --> 00:33:46,360
+The source is lowered into its liquid radiation barrier.
+
+604
+00:33:49,460 --> 00:33:52,400
+The source racks at this time are stored in the water pool,
+
+605
+00:33:52,500 --> 00:33:53,600
+in the storage pool.
+
+606
+00:33:53,700 --> 00:33:56,300
+You can see the blue glow from the cobalt,
+
+607
+00:33:56,400 --> 00:33:58,200
+the radioactive decay of the cobalt.
+
+608
+00:33:58,300 --> 00:34:01,520
+And we have somewhere around 10 to 12 feet of water
+
+609
+00:34:01,620 --> 00:34:05,120
+above the source rack in this storage position.
+
+610
+00:34:05,220 --> 00:34:07,360
+And you can see from the radiation survey meter
+
+611
+00:34:07,460 --> 00:34:09,560
+is that we're picking up no radiation level
+
+612
+00:34:09,660 --> 00:34:12,360
+or very little radiation levels at the top of the water.
+
+613
+00:34:12,361 --> 00:34:14,560
+the pool with the sources in the stored position.
+
+614
+00:34:18,060 --> 00:34:20,300
+Before shipping, the products are shrink-wrapped
+
+615
+00:34:20,301 --> 00:34:22,800
+and labeled as gamma ray processed,
+
+616
+00:34:22,801 --> 00:34:27,040
+free of microorganisms that could cause spoilage.
+
+617
+00:34:27,041 --> 00:34:29,000
+But the public doesn't only come in contact
+
+618
+00:34:29,001 --> 00:34:31,840
+with nuclear technology at the supermarket.
+
+619
+00:34:31,841 --> 00:34:35,740
+It is used in other everyday applications.
+
+620
+00:34:35,741 --> 00:34:38,460
+Costing about $10, a home test kit
+
+621
+00:34:38,461 --> 00:34:42,460
+detects radon, a naturally occurring radioactive gas.
+
+622
+00:34:42,560 --> 00:34:44,560
+It can accumulate in closed basements
+
+623
+00:34:44,660 --> 00:34:47,160
+and cause lung cancer.
+
+624
+00:34:47,260 --> 00:34:50,100
+For more nuclear tech at home, look no further than a common
+
+625
+00:34:50,200 --> 00:34:51,700
+smoke detector.
+
+626
+00:34:51,800 --> 00:34:55,140
+Smoke detectors contain a small amount
+
+627
+00:34:55,240 --> 00:34:59,780
+of radioactive material just to ionize the air to help detect
+
+628
+00:34:59,880 --> 00:35:02,320
+smoke particles.
+
+629
+00:35:02,420 --> 00:35:04,560
+Many home smoke detectors use an isotope
+
+630
+00:35:04,660 --> 00:35:07,820
+called americium-241.
+
+631
+00:35:07,821 --> 00:35:11,020
+The isotope emits alpha particles that ionize the air,
+
+632
+00:35:11,120 --> 00:35:13,460
+allowing a current to pass between two electrodes
+
+633
+00:35:13,560 --> 00:35:15,060
+in the device.
+
+634
+00:35:15,160 --> 00:35:17,560
+If smoke enters the space between the electrodes,
+
+635
+00:35:17,660 --> 00:35:20,760
+it absorbs the alpha particles, interrupts the current,
+
+636
+00:35:20,860 --> 00:35:23,060
+and sets off the alarm.
+
+637
+00:35:23,160 --> 00:35:25,480
+The isotope is embedded in a laminate thick enough
+
+638
+00:35:25,580 --> 00:35:27,980
+to safely contain the radioactive material,
+
+639
+00:35:28,080 --> 00:35:32,080
+but thin enough to allow the alpha particles to pass through.
+
+640
+00:35:32,180 --> 00:35:35,220
+The isotope is shielded, so it's safe to handle a smoke
+
+641
+00:35:35,221 --> 00:35:38,020
+and safe to dispose of in landfill,
+
+642
+00:35:38,120 --> 00:35:41,360
+but it shouldn't be incinerated.
+
+643
+00:35:41,460 --> 00:35:43,300
+This gamma watch would surely alert you
+
+644
+00:35:43,400 --> 00:35:46,600
+to the radioactivity present in a smoke detector,
+
+645
+00:35:46,700 --> 00:35:50,260
+and also to that found in welding rods.
+
+646
+00:35:50,360 --> 00:35:52,440
+When they are placed close to the gamma watch,
+
+647
+00:35:52,540 --> 00:35:54,800
+it beeps, displays the dose rate,
+
+648
+00:35:54,900 --> 00:35:58,080
+and a cumulative dose rate over time.
+
+649
+00:35:58,180 --> 00:36:00,980
+The cost for radiation peace of mind on your wrist?
+
+650
+00:36:01,080 --> 00:36:03,140
+$500.
+
+651
+00:36:03,141 --> 00:36:05,940
+But timekeeping itself has advanced thanks to nuclear
+
+652
+00:36:06,040 --> 00:36:09,340
+technology, reaching amazing levels of accuracy
+
+653
+00:36:09,440 --> 00:36:12,880
+with the development of atomic clocks.
+
+654
+00:36:12,980 --> 00:36:15,480
+The difference between a standard clock in your home
+
+655
+00:36:15,580 --> 00:36:18,480
+and an atomic clock is the nature of the oscillation
+
+656
+00:36:18,580 --> 00:36:20,600
+that measures time.
+
+657
+00:36:20,700 --> 00:36:23,800
+In a conventional clock, a balance wheel driven by a spring
+
+658
+00:36:23,900 --> 00:36:25,800
+clicks off the seconds.
+
+659
+00:36:25,900 --> 00:36:28,540
+In an atomic clock, the oscillation frequencies
+
+660
+00:36:28,640 --> 00:36:32,040
+among atomic particles are a kind of electrostatic balance
+
+661
+00:36:32,041 --> 00:36:36,040
+balance wheel, keeping the beat in their subatomic way.
+
+662
+00:36:36,140 --> 00:36:38,440
+That's at such a high frequency that they're
+
+663
+00:36:38,540 --> 00:36:43,680
+able to time that signal very accurately so it's accurate to,
+
+664
+00:36:43,780 --> 00:36:46,280
+you know, one second in 8,000 years.
+
+665
+00:36:46,380 --> 00:36:50,400
+Very crucial to our system of satellites called a GPS system.
+
+666
+00:36:50,500 --> 00:36:54,200
+Those signals have to be synchronized in all the
+
+667
+00:36:54,300 --> 00:36:57,300
+satellites.
+
+668
+00:36:57,400 --> 00:36:59,740
+For about $300, you can buy your own version
+
+669
+00:36:59,741 --> 00:37:02,480
+of an atomic clock that syncs up with a central system
+
+670
+00:37:02,580 --> 00:37:05,780
+via radio signals.
+
+671
+00:37:05,880 --> 00:37:08,880
+Nuclear technology is also used to map the human body
+
+672
+00:37:08,980 --> 00:37:09,880
+from the inside.
+
+673
+00:37:09,980 --> 00:37:13,580
+Magnetic resonance imaging involves signals coming
+
+674
+00:37:13,680 --> 00:37:16,800
+from the proton in a water molecule.
+
+675
+00:37:16,900 --> 00:37:20,020
+It used to be called, in the scientific realm,
+
+676
+00:37:20,120 --> 00:37:22,600
+nuclear magnetic resonance.
+
+677
+00:37:22,700 --> 00:37:24,840
+But it had that nuclear term on the front.
+
+678
+00:37:24,940 --> 00:37:27,240
+So when you use it in a medical field,
+
+679
+00:37:27,340 --> 00:37:29,740
+you sort of get rid of it and call it magnetic resonance.
+
+680
+00:37:29,741 --> 00:37:34,740
+and that's had an enormous impact on diagnostic techniques.
+
+681
+00:37:34,840 --> 00:37:37,540
+Magnetic resonance is not radioactive,
+
+682
+00:37:37,640 --> 00:37:40,780
+but nuclear medicine has also developed the PET scan,
+
+683
+00:37:40,880 --> 00:37:44,180
+which uses radioactive materials.
+
+684
+00:37:44,280 --> 00:37:47,400
+PET, short for positron emission topography,
+
+685
+00:37:47,500 --> 00:37:50,400
+generates images of the body by tracing small amounts
+
+686
+00:37:50,500 --> 00:37:53,600
+of radioactive materials that a doctor injects
+
+687
+00:37:53,700 --> 00:37:57,100
+into a patient's bloodstream.
+
+688
+00:37:57,101 --> 00:37:59,740
+Researchers are continually developing new medical
+
+689
+00:37:59,840 --> 00:38:02,200
+applications for nuclear technology.
+
+690
+00:38:02,300 --> 00:38:04,440
+One of the newest nuclear cancer treatments
+
+691
+00:38:04,540 --> 00:38:07,840
+involves a method known as brachytherapy.
+
+692
+00:38:07,940 --> 00:38:10,780
+Oncologists place a dose of radiation directly
+
+693
+00:38:10,880 --> 00:38:15,120
+into a tumor, either using radioactive seeds, like these,
+
+694
+00:38:15,220 --> 00:38:18,760
+or by introducing the dose with a catheter.
+
+695
+00:38:18,860 --> 00:38:20,960
+But while these feats may be impressive,
+
+696
+00:38:21,060 --> 00:38:27,100
+if some nuclear dreams are right, the best is yet to come.
+
+697
+00:38:27,101 --> 00:38:31,100
+Radiation cells are sometimes used to help librarians
+
+698
+00:38:31,200 --> 00:38:34,740
+kill mold on books damaged by water.
+
+699
+00:38:34,840 --> 00:38:38,840
+Nuclear Tech will return on Modern Marvels.
+
+700
+00:38:44,860 --> 00:38:48,760
+We now return to Nuclear Tech on Modern Marvels.
+
+701
+00:38:50,660 --> 00:38:52,660
+Scientists are building a device
+
+702
+00:38:52,760 --> 00:38:56,160
+that might produce energy for our entire civilization.
+
+703
+00:38:56,161 --> 00:38:58,400
+It would generate fusion power.
+
+704
+00:38:58,500 --> 00:39:02,300
+And for some, that's the holy grail of atomic energy.
+
+705
+00:39:02,400 --> 00:39:06,400
+Part of the reason for that is it has proved to be so hard.
+
+706
+00:39:06,500 --> 00:39:11,300
+It's one of the grand scientific challenges of our age,
+
+707
+00:39:11,400 --> 00:39:15,880
+and people have been trying to get this for more than 50
+
+708
+00:39:15,980 --> 00:39:18,520
+years without success.
+
+709
+00:39:18,620 --> 00:39:21,320
+Fusion power is highly sought after because it produces
+
+710
+00:39:21,420 --> 00:39:23,920
+no radioactive waste.
+
+711
+00:39:23,921 --> 00:39:26,820
+The byproduct of a fusion reaction is benign.
+
+712
+00:39:26,920 --> 00:39:30,720
+It uses hydrogen isotopes, and eventually,
+
+713
+00:39:30,820 --> 00:39:33,560
+if we design the type of reactor that we would like,
+
+714
+00:39:33,660 --> 00:39:38,960
+it would just generate helium, which is not radioactive.
+
+715
+00:39:39,060 --> 00:39:41,580
+A fusion reaction fuses atoms
+
+716
+00:39:41,680 --> 00:39:44,680
+and is the same process that gives life to stars
+
+717
+00:39:44,780 --> 00:39:48,380
+and powers hydrogen bombs.
+
+718
+00:39:48,480 --> 00:39:52,320
+In the fusion process, light atoms of two hydrogen isotopes,
+
+719
+00:39:52,321 --> 00:39:56,260
+isotopes, deuterium and tritium, are fused together at high
+
+720
+00:39:56,360 --> 00:39:59,060
+temperature with an accompanying release of energy.
+
+721
+00:39:59,160 --> 00:40:02,400
+The problem is, in order to get the two nuclei together,
+
+722
+00:40:02,500 --> 00:40:06,340
+you have to put them under extreme temperature and pressure
+
+723
+00:40:06,440 --> 00:40:09,800
+to force them together because they're positively charged
+
+724
+00:40:09,900 --> 00:40:13,580
+objects and the electric force tends to repel them.
+
+725
+00:40:13,680 --> 00:40:16,720
+At the Princeton Plasma Physics Laboratory, a US
+
+726
+00:40:16,820 --> 00:40:20,740
+Department of Energy facility, researchers explore fusion in a
+
+727
+00:40:20,741 --> 00:40:25,240
+called a torus. A fusion reaction can only occur
+
+728
+00:40:25,340 --> 00:40:30,580
+inside a plasma of gases. The torus uses strong magnetic fields
+
+729
+00:40:30,680 --> 00:40:34,380
+to squeeze the plasma. This method of achieving fusion
+
+730
+00:40:34,480 --> 00:40:38,900
+is called magnetic confinement. At Lawrence Livermore
+
+731
+00:40:39,000 --> 00:40:41,200
+National Laboratories, the Department of Defense
+
+732
+00:40:41,300 --> 00:40:44,000
+is studying fusion for its weapons applications
+
+733
+00:40:44,100 --> 00:40:48,800
+and to develop quality control tests for nuclear warheads.
+
+734
+00:40:48,801 --> 00:40:50,600
+Though the primary intent of this project
+
+735
+00:40:50,700 --> 00:40:52,900
+is weapons research, a spinoff may
+
+736
+00:40:53,000 --> 00:40:57,300
+be the creation of fusion power for peaceful uses.
+
+737
+00:40:57,400 --> 00:41:00,240
+Researchers at Livermore plan to use powerful lasers
+
+738
+00:41:00,340 --> 00:41:03,740
+to compress the plasma rather than magnetic energy.
+
+739
+00:41:03,840 --> 00:41:07,560
+This is the target chamber for the National Ignition
+
+740
+00:41:07,660 --> 00:41:11,460
+Facility, a very large laser facility that
+
+741
+00:41:11,560 --> 00:41:16,160
+was designed to get fusion in the laboratory.
+
+742
+00:41:16,260 --> 00:41:18,360
+This facility has cost more than $300
+
+743
+00:41:18,361 --> 00:41:22,800
+$3.5 billion so far.
+
+744
+00:41:22,900 --> 00:41:25,000
+It boasts a NASA-style control room,
+
+745
+00:41:25,100 --> 00:41:28,700
+where technicians will guide the energy of 192 lasers
+
+746
+00:41:28,800 --> 00:41:30,900
+through an amplification and filtering process.
+
+747
+00:41:33,900 --> 00:41:36,520
+The lasers focus on a minuscule target of tritium
+
+748
+00:41:36,620 --> 00:41:37,620
+and deuterium.
+
+749
+00:41:37,720 --> 00:41:40,820
+And the way it works is sort of like the kind of things
+
+750
+00:41:40,920 --> 00:41:43,720
+that you did as a kid with a lens.
+
+751
+00:41:43,820 --> 00:41:47,360
+If you take a lens and focus sunlight onto a leaf,
+
+752
+00:41:47,361 --> 00:41:48,700
+you can start a fire.
+
+753
+00:41:48,800 --> 00:41:50,100
+And it's because what you're doing
+
+754
+00:41:50,200 --> 00:41:53,560
+is you're concentrating the energy of the sun
+
+755
+00:41:53,660 --> 00:41:54,900
+into a very small spot.
+
+756
+00:41:55,000 --> 00:41:58,500
+And when you do that, you raise the temperature significantly.
+
+757
+00:42:03,300 --> 00:42:05,120
+But scientists believe there are other ways
+
+758
+00:42:05,220 --> 00:42:06,720
+to create fusion.
+
+759
+00:42:06,820 --> 00:42:08,820
+At another weapons research facility,
+
+760
+00:42:08,920 --> 00:42:11,820
+Sandia National Laboratories, scientists
+
+761
+00:42:11,920 --> 00:42:13,920
+plan to use a powerful electrical pulse
+
+762
+00:42:14,020 --> 00:42:16,860
+to compress plasma and foster fusion.
+
+763
+00:42:16,861 --> 00:42:19,820
+This is called the inertial confinement method.
+
+764
+00:42:19,821 --> 00:42:23,260
+At Sandia, the approach in inertial confinement fusion
+
+765
+00:42:23,261 --> 00:42:26,460
+is to take the raw electrical power, we actually take off
+
+766
+00:42:26,461 --> 00:42:30,300
+the power grid, we store that in a capacitor for about a
+
+767
+00:42:30,301 --> 00:42:33,500
+minute and discharge it in a millionth of a second.
+
+768
+00:42:33,501 --> 00:42:37,740
+That electrical energy then, we create a 50 trillion watt pulse
+
+769
+00:42:37,741 --> 00:42:41,340
+of electrical energy going to the center of this 100 foot
+
+770
+00:42:41,341 --> 00:42:42,860
+diameter machine.
+
+771
+00:42:42,861 --> 00:42:46,360
+The Z machine takes up a room about the size
+
+772
+00:42:46,460 --> 00:42:48,260
+of a high school gym.
+
+773
+00:42:48,360 --> 00:42:50,860
+It's arranged in a wheel with spokes
+
+774
+00:42:50,960 --> 00:42:53,100
+to guide a high-powered electrical pulse
+
+775
+00:42:53,200 --> 00:42:55,000
+toward a tiny target.
+
+776
+00:42:55,100 --> 00:42:57,100
+At the very center, at the very hub,
+
+777
+00:42:57,200 --> 00:43:00,020
+we combine all the electrical current
+
+778
+00:43:00,120 --> 00:43:02,920
+into a very small center section.
+
+779
+00:43:03,020 --> 00:43:06,620
+When it reaches the center, the voltage is approximately 3
+
+780
+00:43:06,720 --> 00:43:11,620
+million volts, and the current is 20 million amperes.
+
+781
+00:43:11,621 --> 00:43:14,380
+When the current associated with that energy
+
+782
+00:43:14,460 --> 00:43:16,200
+gets to the center of the machine,
+
+783
+00:43:16,260 --> 00:43:18,420
+it implodes a very light conductor
+
+784
+00:43:18,500 --> 00:43:23,200
+made of 300 thin wires, each thinner than a human hair.
+
+785
+00:43:23,260 --> 00:43:24,360
+And then all of a sudden, you're
+
+786
+00:43:24,440 --> 00:43:28,100
+going to force those wires to accept 20 million amperes
+
+787
+00:43:28,160 --> 00:43:29,140
+of current.
+
+788
+00:43:29,200 --> 00:43:31,880
+They instantly vaporize.
+
+789
+00:43:31,980 --> 00:43:35,480
+That's enough to cause the hydrogen isotopes to fuse.
+
+790
+00:43:35,540 --> 00:43:39,240
+And when they do, this happens.
+
+791
+00:43:39,320 --> 00:43:41,620
+Energy is released.
+
+792
+00:43:41,621 --> 00:43:48,960
+Fusion experiments have so far produced no net gain of power.
+
+793
+00:43:48,961 --> 00:43:51,740
+It takes more energy to produce them than they put out.
+
+794
+00:43:51,741 --> 00:43:53,700
+For that to change, researchers would
+
+795
+00:43:53,701 --> 00:43:57,640
+need to create a controlled and sustained reaction.
+
+796
+00:43:57,641 --> 00:44:01,160
+But scientists are enthusiastic about fusion's possibilities
+
+797
+00:44:01,161 --> 00:44:05,060
+as a potentially infinite energy source.
+
+798
+00:44:05,061 --> 00:44:07,800
+One of the elements of fusion fuel, deuterium,
+
+799
+00:44:07,801 --> 00:44:09,940
+can be extracted from fresh water.
+
+800
+00:44:09,941 --> 00:44:12,340
+needed can be extracted from seawater.
+
+801
+00:44:12,440 --> 00:44:14,740
+Why have I devoted 28 years of my life
+
+802
+00:44:14,840 --> 00:44:16,280
+to the pursuit of fusion?
+
+803
+00:44:16,380 --> 00:44:18,680
+If we look at the problems associated
+
+804
+00:44:18,780 --> 00:44:22,280
+with the carbon-based fuel systems that we rely so heavily
+
+805
+00:44:22,380 --> 00:44:26,700
+upon today, whether it be global warming or regional politics,
+
+806
+00:44:26,800 --> 00:44:29,900
+one is driven to seek another source of energy,
+
+807
+00:44:30,000 --> 00:44:33,600
+one that has not those restrictions.
+
+808
+00:44:33,700 --> 00:44:37,300
+To me, that's a compelling reason to pursue fusion.
+
+809
+00:44:37,400 --> 00:44:39,940
+With fusion power freeing us from depression,
+
+810
+00:44:39,941 --> 00:44:43,740
+on shrinking energy resources, eliminating regional conflicts
+
+811
+00:44:43,840 --> 00:44:46,940
+to compete for those resources, and providing energy
+
+812
+00:44:47,040 --> 00:44:50,420
+without harm to the Earth, scientists envision a world
+
+813
+00:44:50,520 --> 00:44:54,660
+at peace and at least a chance for nuclear technology
+
+814
+00:44:54,760 --> 00:44:58,560
+to save the world rather than destroy it.
+

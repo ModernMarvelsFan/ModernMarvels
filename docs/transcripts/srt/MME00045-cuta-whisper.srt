@@ -1,0 +1,2072 @@
+1
+00:00:01,000 --> 00:00:04,300
+Strong, enough to survive a fiery launch.
+
+2
+00:00:04,920 --> 00:00:08,760
+Durable, enough to operate in the hostile environment of space.
+
+3
+00:00:09,640 --> 00:00:14,980
+Powerful, enough to photograph a softball from an orbit hundreds of miles away.
+
+4
+00:00:15,900 --> 00:00:22,880
+Their development is a grand saga of competition, politics, and technology taken to the very limit.
+
+5
+00:00:24,440 --> 00:00:28,300
+Now, satellites on Modern Marvels.
+
+6
+00:00:30,000 --> 00:00:44,000
+silently more than 500 of them orbit our earth
+
+7
+00:00:45,880 --> 00:00:51,820
+it's hard to imagine a world where we don't have satellites
+
+8
+00:00:51,821 --> 00:00:58,320
+it has literally changed the way in which we live since the mid-1960s
+
+9
+00:00:58,321 --> 00:01:04,440
+Today's high-tech satellites are some of the most complex machines ever invented.
+
+10
+00:01:04,680 --> 00:01:08,960
+They are the crucial link in an ever-increasing number of tasks,
+
+11
+00:01:09,420 --> 00:01:14,620
+such as weather forecasting, global telephone, fax and television communication,
+
+12
+00:01:15,480 --> 00:01:18,460
+military and commercial reconnaissance, and even navigation.
+
+13
+00:01:19,420 --> 00:01:23,780
+But just over 50 years ago, satellites were simply an idea
+
+14
+00:01:23,781 --> 00:01:28,540
+in the mind of a British scientist famous for his science fiction writing.
+
+15
+00:01:30,920 --> 00:01:31,620
+Arthur C.
+
+16
+00:01:31,621 --> 00:01:35,900
+Clarke was the first man to envision many of the modern applications of satellites.
+
+17
+00:01:36,440 --> 00:01:39,220
+He also penned 2001 A Space Odyssey.
+
+18
+00:01:40,220 --> 00:01:44,500
+And in 1945, 12 years before Sputnik's launch,
+
+19
+00:01:44,501 --> 00:01:47,560
+he wrote an article in Wireless World magazine
+
+20
+00:01:47,561 --> 00:01:51,480
+describing how satellites could be placed in geostationary orbit
+
+21
+00:01:51,481 --> 00:01:53,580
+and used to relay signals.
+
+22
+00:01:53,780 --> 00:01:58,780
+Today, most communication satellites do operate in this orbit,
+
+23
+00:01:58,781 --> 00:02:03,780
+rotating at the same rate as the Earth because of their location,
+
+24
+00:02:03,781 --> 00:02:07,780
+22,300 miles above the equator.
+
+25
+00:02:07,781 --> 00:02:12,780
+In addition, Clark foresaw polar orbiting and weather satellites
+
+26
+00:02:12,781 --> 00:02:15,780
+and advocated an orbiting space telescope,
+
+27
+00:02:15,781 --> 00:02:19,780
+which today exists as NASA's Hubble telescope.
+
+28
+00:02:19,781 --> 00:02:30,920
+So if any person had the most ideas at the earliest time about the modern applications of satellites, Arthur Clarke was the one.
+
+29
+00:02:31,580 --> 00:02:40,020
+Arthur Clarke was one of a handful of people at that time who had confidence that man-made objects would one day circle the planet.
+
+30
+00:02:40,021 --> 00:02:53,620
+Satellites have to be propelled at very high speeds in order to avoid being pulled back to Earth.
+
+31
+00:02:54,340 --> 00:03:02,180
+For example, the faster a bullet is fired from a rifle, the further it travels before being pulled back to Earth by gravity.
+
+32
+00:03:03,080 --> 00:03:08,880
+But theoretically, if a bullet could be fired at 17,500 miles an hour,
+
+33
+00:03:09,240 --> 00:03:11,680
+it would circle the planet as a satellite.
+
+34
+00:03:13,740 --> 00:03:18,780
+Today, only rockets can propel something at this very high speed,
+
+35
+00:03:19,000 --> 00:03:21,360
+equal to about 5 miles per second.
+
+36
+00:03:21,860 --> 00:03:26,280
+You have to have a propulsion unit which will take the thing up
+
+37
+00:03:26,281 --> 00:03:31,180
+and put it into a flight path generally parallel to the Earth.
+
+38
+00:03:31,181 --> 00:03:35,280
+Now, of course, gravity is going to try to pull that down.
+
+39
+00:03:35,281 --> 00:03:45,500
+But if you put this at high enough speed, you generate enough centrifugal force that it counteracts the force of gravity trying to pull it down.
+
+40
+00:03:45,960 --> 00:03:54,780
+In other words, the amount that the satellite is pulled closer to Earth by gravity is canceled by the curvature of the Earth away from the speeding spacecraft.
+
+41
+00:03:54,781 --> 00:04:01,200
+It continually falls around the Earth instead of falling down to the surface.
+
+42
+00:04:01,980 --> 00:04:05,480
+This is the principle that guided Arthur C. Clarke's reasoning.
+
+43
+00:04:07,840 --> 00:04:10,700
+Once a satellite is released from the main rocket,
+
+44
+00:04:10,840 --> 00:04:16,500
+small booster rockets adjust the satellite's orientation to point it towards the correct spot on Earth.
+
+45
+00:04:17,800 --> 00:04:21,340
+And since there is no atmosphere in space to slow the orbiter down,
+
+46
+00:04:21,341 --> 00:04:27,140
+the rockets only need to fire if the satellite slightly deviates from its charted course.
+
+47
+00:04:29,440 --> 00:04:35,460
+However, just because the theory behind turning an object into an Earth satellite seems simple
+
+48
+00:04:35,461 --> 00:04:38,820
+does not mean we can launch anything we want into orbit.
+
+49
+00:04:41,200 --> 00:04:44,460
+Weight and cost have always been concerns.
+
+50
+00:04:45,320 --> 00:04:48,040
+Some of the first satellites weighed only a few pounds
+
+51
+00:04:48,041 --> 00:04:52,000
+but still cost millions of dollars to build and send into space.
+
+52
+00:04:53,060 --> 00:04:57,300
+Today, thanks to more powerful rockets, satellites can weigh more than a ton.
+
+53
+00:04:57,880 --> 00:05:01,820
+But launching is still not cheap, at $30,000 per pound.
+
+54
+00:05:03,160 --> 00:05:07,200
+The ultimate extensions of size and weight in satellite technology
+
+55
+00:05:07,201 --> 00:05:11,380
+are the manned space stations where astronauts can live for months at a time
+
+56
+00:05:11,381 --> 00:05:12,940
+while circling the planet.
+
+57
+00:05:12,941 --> 00:05:24,700
+Currently, several countries, including the United States and Russia, are working together to build a new international space station.
+
+58
+00:05:25,500 --> 00:05:32,760
+Yet for much of the world's history in space, cooperation was the furthest thing from the minds of the leaders of these two superpowers.
+
+59
+00:05:32,761 --> 00:05:46,761
+Prosperity and national confidence were running rampant in 1950s America.
+
+60
+00:05:48,080 --> 00:05:53,700
+Dwight Eisenhower, the leader of the Allied army that won World War II, was in the White House.
+
+61
+00:05:54,640 --> 00:06:00,000
+Tail fins, malt shops, and Elvis Presley symbolized the enthusiasm of a new era.
+
+62
+00:06:00,860 --> 00:06:05,100
+American consumers reveled in unparalleled materialism.
+
+63
+00:06:07,220 --> 00:06:09,840
+The Soviet Union was a concern,
+
+64
+00:06:10,340 --> 00:06:12,940
+but America had been first to develop the atom bomb,
+
+65
+00:06:13,040 --> 00:06:17,560
+and most citizens assumed that the U.S. was still the world's technological leader.
+
+66
+00:06:18,320 --> 00:06:21,500
+Until October 4, 1957,
+
+67
+00:06:22,140 --> 00:06:25,500
+when the Soviet Union launched something they called Sputnik,
+
+68
+00:06:26,060 --> 00:06:27,560
+meaning traveling companion.
+
+69
+00:06:30,000 --> 00:06:33,760
+My own personal reaction was, gee, that's great.
+
+70
+00:06:34,500 --> 00:06:40,120
+But the general public, of course, raised a hue and cry that we somehow let the Russians get ahead.
+
+71
+00:06:40,960 --> 00:06:45,740
+The successful operation of Sputnik is the world's first artificial satellite,
+
+72
+00:06:46,220 --> 00:06:49,700
+dealt a sledgehammer blow to America's national pride.
+
+73
+00:06:50,360 --> 00:06:55,860
+It was simply a 184-pound test payload containing a radio beacon and a thermometer.
+
+74
+00:06:55,861 --> 00:07:02,860
+The beacon was used to prove that artificial objects in outer space could be tracked from Earth.
+
+75
+00:07:02,861 --> 00:07:09,860
+But even though the technology was fairly simple, its impact was enormous.
+
+76
+00:07:09,861 --> 00:07:15,860
+Many people worried that if the Soviet Union had the rocket technology to launch something into space,
+
+77
+00:07:15,861 --> 00:07:22,860
+there was nothing stopping them from launching nuclear warheads capable of reaching America,
+
+78
+00:07:22,861 --> 00:07:25,840
+an attack which the U.S. could not counter.
+
+79
+00:07:27,420 --> 00:07:30,060
+Yet for all the fear that Sputnik raised,
+
+80
+00:07:30,160 --> 00:07:33,780
+there were actually several positive benefits for the United States.
+
+81
+00:07:36,160 --> 00:07:41,220
+The Soviets really did us a very big favor by launching Sputnik first
+
+82
+00:07:41,221 --> 00:07:43,940
+because they eliminated any legal challenge
+
+83
+00:07:43,941 --> 00:07:46,720
+to overflight of territory with a satellite
+
+84
+00:07:46,721 --> 00:07:49,360
+because they essentially did it themselves
+
+85
+00:07:49,361 --> 00:07:51,220
+and so they would have a hard time complaining
+
+86
+00:07:51,221 --> 00:07:53,260
+about anything that we did after that.
+
+87
+00:07:54,160 --> 00:07:57,540
+Millions of dollars began to pour into the coffers
+
+88
+00:07:57,541 --> 00:07:59,660
+of the fledgling U.S. space program.
+
+89
+00:08:00,300 --> 00:08:04,400
+Clearly, America did not enjoy being second best to anyone.
+
+90
+00:08:05,140 --> 00:08:07,360
+The space race was on.
+
+91
+00:08:08,660 --> 00:08:11,600
+At the time of the successful Sputnik launch,
+
+92
+00:08:11,820 --> 00:08:14,520
+the U.S. had already been working for several years
+
+93
+00:08:14,521 --> 00:08:16,940
+on the development of its own satellites.
+
+94
+00:08:18,600 --> 00:08:20,540
+Initially, many people in the government
+
+95
+00:08:20,541 --> 00:08:23,020
+weren't convinced about their usefulness.
+
+96
+00:08:23,660 --> 00:08:25,380
+In fact, before Sputnik was launched,
+
+97
+00:08:25,800 --> 00:08:27,820
+American proponents of space operations
+
+98
+00:08:27,821 --> 00:08:29,960
+were still struggling for respect.
+
+99
+00:08:32,500 --> 00:08:36,680
+We were considered, frankly, a bunch of crackpots and nuts.
+
+100
+00:08:37,480 --> 00:08:39,300
+One time after I'd given a lecture
+
+101
+00:08:39,301 --> 00:08:41,280
+and had been quoted in a newspaper
+
+102
+00:08:41,281 --> 00:08:44,420
+about military use of satellites for reconnaissance
+
+103
+00:08:44,421 --> 00:08:45,600
+and how you could counter them,
+
+104
+00:08:46,200 --> 00:08:49,860
+this very well-meaning senior man came up to me and said,
+
+105
+00:08:49,861 --> 00:08:54,640
+you've got to stop talking like that because you are destroying your reputation.
+
+106
+00:08:55,320 --> 00:08:58,260
+Sputnik changed that all overnight.
+
+107
+00:08:59,860 --> 00:09:04,080
+Surprisingly, we can trace the roots of the American space program
+
+108
+00:09:04,081 --> 00:09:07,100
+back to a cabbage patch in Auburn, Massachusetts.
+
+109
+00:09:07,860 --> 00:09:15,860
+On March 16, 1926, physicist Robert Goddard launched the first liquid-propelled rocket in the world.
+
+110
+00:09:16,620 --> 00:09:22,960
+The liquid oxygen and gasoline-powered cylinder rose a modest 41 feet in the air
+
+111
+00:09:22,961 --> 00:09:26,160
+before returning to his Aunt Effie's field.
+
+112
+00:09:27,640 --> 00:09:31,700
+His flight in 1926 was a pathbreaker worldwide.
+
+113
+00:09:32,220 --> 00:09:35,600
+Lots of people had understood solid rockets for a long time,
+
+114
+00:09:36,060 --> 00:09:39,220
+Roman candles and things of that nature that we've been familiar with for centuries.
+
+115
+00:09:39,800 --> 00:09:45,000
+But in order to really do spaceflight, liquid propellants are the key.
+
+116
+00:09:45,860 --> 00:09:52,960
+Only liquid propellants can be throttled, providing different amounts of thrust at different stages of a rocket's flight.
+
+117
+00:09:53,960 --> 00:09:59,940
+Goddard continued his experiments in Roswell, New Mexico during the 30s and early 40s.
+
+118
+00:10:00,900 --> 00:10:06,740
+Eventually, his rockets achieved altitudes of one mile, but his vision went much further.
+
+119
+00:10:08,320 --> 00:10:14,180
+In his early days, Goddard had told a member of the press that a rocket could be built to reach the moon.
+
+120
+00:10:14,860 --> 00:10:20,460
+He was ridiculed in scientific circles and by the man on the street for such a preposterous idea.
+
+121
+00:10:21,360 --> 00:10:25,500
+The wide open spaces of New Mexico provided a haven
+
+122
+00:10:25,501 --> 00:10:30,440
+where he could continue to work on his dream away from the public spotlight.
+
+123
+00:10:31,620 --> 00:10:38,320
+However, because of his death in 1945, he never witnessed an object being launched into outer space.
+
+124
+00:10:38,321 --> 00:10:45,240
+The next major contribution to the American space program
+
+125
+00:10:45,241 --> 00:10:47,500
+came from a very unlikely place
+
+126
+00:10:47,501 --> 00:10:49,140
+Nazi Germany
+
+127
+00:10:49,141 --> 00:10:52,180
+Lead scientists Werner von Braun
+
+128
+00:10:52,181 --> 00:10:56,120
+and about 120 other German scientists and engineers
+
+129
+00:10:56,121 --> 00:10:59,960
+fled from their rocket testing facility in Piena Munde, Germany
+
+130
+00:10:59,961 --> 00:11:04,100
+and were escorted from Austria back to the United States
+
+131
+00:11:04,101 --> 00:11:06,040
+in the final days of World War II
+
+132
+00:11:06,041 --> 00:11:07,800
+by U.S. Army personnel
+
+133
+00:11:07,801 --> 00:11:14,522
+Von Braun had been fascinated by rockets from an early age.
+
+134
+00:11:14,523 --> 00:11:17,940
+Now he could use his knowledge
+
+135
+00:11:17,941 --> 00:11:21,238
+to explore space rather than delivering bombs.
+
+136
+00:11:21,239 --> 00:11:24,320
+In fact, during World War II, von Braun had
+
+137
+00:11:24,321 --> 00:11:30,380
+been jailed by the Gestapo for making statements about his desire to work on space travel projects.
+
+138
+00:11:30,381 --> 00:11:39,380
+For the Nazis, anything less than 100% devotion to the V-2 superweapon was seen as malicious sabotage.
+
+139
+00:11:40,740 --> 00:11:47,240
+However, since von Braun was so important to the German war effort, he remained in jail for only two weeks.
+
+140
+00:11:49,740 --> 00:11:50,440
+The U.S.
+
+141
+00:11:50,441 --> 00:11:57,600
+brought back several of the 29,000-pound V-2 rockets that Hitler's army had been using to terrorize Europe during the war.
+
+142
+00:12:00,380 --> 00:12:09,980
+Soon, these former enemies were using their one-time secret weapons to conduct groundbreaking experiments for the American military.
+
+143
+00:12:10,480 --> 00:12:15,241
+However, the propulsion unit initially chosen to power the first U.S.
+
+144
+00:12:15,242 --> 00:12:22,900
+satellite, the three-pound Vanguard I, was supplied by the Navy instead of von Braun's team of Army scientists.
+
+145
+00:12:24,500 --> 00:12:29,220
+On December 6, 1957, the Navy got their chance.
+
+146
+00:12:30,380 --> 00:12:38,040
+Dozens of newsreel cameras and hundreds of reporters
+
+147
+00:12:38,041 --> 00:12:41,880
+witnessed the United States' first attempt to catch up in the space race
+
+148
+00:12:41,881 --> 00:12:43,540
+go up in flames.
+
+149
+00:12:45,580 --> 00:12:50,460
+The government gave Werner von Braun a chance to redeem the sagging space program
+
+150
+00:12:50,461 --> 00:12:55,340
+and von Braun gave Gordon Vaith a sneak peek at the rocket that would make it possible.
+
+151
+00:12:56,560 --> 00:13:00,240
+Von Braun took me one day down into a shed down at Huntsville.
+
+152
+00:13:00,241 --> 00:13:05,967
+Alabama at the Army Ballistic Missile Agency and he showed me a rocket assembly.
+
+153
+00:13:05,968 --> 00:13:06,668
+He said,
+
+154
+00:13:06,669 --> 00:13:07,673
+there it is.
+
+155
+00:13:07,673 --> 00:13:15,040
+When the government says we need a rocket assembly to launch a satellite, that's it.
+
+156
+00:13:15,380 --> 00:13:17,038
+We're ready to go.
+
+157
+00:13:17,038 --> 00:13:24,220
+Von Braun watched on January 31st, 1958, as the Army tried to launch the first
+
+158
+00:13:24,221 --> 00:13:29,220
+American satellite Explore-1 nearly four months after Sputnik.
+
+159
+00:13:37,380 --> 00:13:43,820
+The 31-pound Explore-1 successfully entered orbit and remained in space eight years longer
+
+160
+00:13:43,821 --> 00:13:44,799
+than Sputnik.
+
+161
+00:13:44,800 --> 00:13:50,600
+After the launch, von Braun declared, we have firmly established our foothold
+
+162
+00:13:50,601 --> 00:13:54,600
+in space. We will never give it up again.
+
+163
+00:13:57,060 --> 00:13:58,780
+America launched dozens
+
+164
+00:13:58,781 --> 00:14:03,040
+of other scientific explorer satellites over the next 17 years,
+
+165
+00:14:03,440 --> 00:14:08,020
+most of them under the supervision of the government's newly formed space agency, NASA.
+
+166
+00:14:09,100 --> 00:14:12,980
+Just eight months after Explorer 1, the National Aeronautics
+
+167
+00:14:12,981 --> 00:14:17,060
+and Space Administration came into being on October 1, 1958.
+
+168
+00:14:17,061 --> 00:14:22,840
+Its official purpose was the peaceful exploration of space.
+
+169
+00:14:23,460 --> 00:14:27,780
+However, its practical goal during this stage of the Cold War
+
+170
+00:14:27,781 --> 00:14:31,880
+was to catch up to and surpass the Soviet Union in the space race.
+
+171
+00:14:33,640 --> 00:14:37,320
+But in 1961, the Soviets upped the ante.
+
+172
+00:14:37,960 --> 00:14:42,000
+On April 12th, the Soviet Union launched a very different type of satellite.
+
+173
+00:14:42,780 --> 00:14:44,660
+One with a man inside.
+
+174
+00:14:47,060 --> 00:14:53,760
+Yuri Gagarin became the first human being in space and the first person to orbit the Earth.
+
+175
+00:14:54,100 --> 00:15:02,540
+After reaching a maximum height of 203 miles, he landed in a field in the Soviet Union an hour and 48 minutes later,
+
+176
+00:15:03,160 --> 00:15:06,980
+giving the communists another worldwide propaganda victory.
+
+177
+00:15:09,800 --> 00:15:12,540
+After the historic flight, Gagarin said,
+
+178
+00:15:12,541 --> 00:15:15,340
+I certainly did not feel lonely at all,
+
+179
+00:15:15,800 --> 00:15:19,200
+for I knew that my friends, in fact all the Soviet people,
+
+180
+00:15:19,500 --> 00:15:21,420
+were watching my spaceflight.
+
+181
+00:15:24,340 --> 00:15:29,460
+Ten months later, John Glenn became America's first human satellite.
+
+182
+00:15:31,040 --> 00:15:32,560
+Godspeed, John Glenn.
+
+183
+00:15:35,260 --> 00:15:39,740
+On February 20th, 1962, he circled the Earth three times
+
+184
+00:15:39,741 --> 00:15:42,560
+at 17,500 miles an hour.
+
+185
+00:15:42,561 --> 00:15:44,760
+Roger, zero G, and I feel fine.
+
+186
+00:15:44,900 --> 00:15:46,220
+Capsule is turning around.
+
+187
+00:15:46,780 --> 00:15:48,440
+Oh, that view is tremendous.
+
+188
+00:15:49,100 --> 00:15:52,180
+Several days later, Glenn received a hero's welcome
+
+189
+00:15:52,181 --> 00:15:54,940
+during a New York City ticker tape parade.
+
+190
+00:15:56,960 --> 00:16:00,520
+This has been a great experience for all of us on the program
+
+191
+00:16:00,521 --> 00:16:02,700
+and for all Americans, I guess, too.
+
+192
+00:16:04,060 --> 00:16:07,240
+And I'm certainly glad to see that pride in our country
+
+193
+00:16:07,241 --> 00:16:10,040
+and its accomplishments are not a thing of the past.
+
+194
+00:16:11,340 --> 00:16:14,900
+But the United States had finished in second place again
+
+195
+00:16:14,901 --> 00:16:17,780
+and many people wondered if the country could really meet
+
+196
+00:16:17,781 --> 00:16:20,060
+President John F. Kennedy's challenge.
+
+197
+00:16:21,060 --> 00:16:23,940
+I believe that this nation should commit itself
+
+198
+00:16:23,941 --> 00:16:27,980
+to achieving the goal before this decade is out
+
+199
+00:16:27,981 --> 00:16:32,160
+of landing a man on the moon and returning him safely to the earth.
+
+200
+00:16:33,440 --> 00:16:37,220
+Billions of dollars continued to pour into the U.S. space program.
+
+201
+00:16:38,080 --> 00:16:50,860
+Finally, on July 20th, 1969, with the help of a 363-foot-tall, 6.3 million-pound Saturn V rocket, America finished first.
+
+202
+00:16:56,560 --> 00:17:02,520
+That's one small step for man, one giant leap for mankind.
+
+203
+00:17:02,521 --> 00:17:07,440
+The US had won the grandest public prize in the space race.
+
+204
+00:17:08,540 --> 00:17:10,820
+And national confidence had been restored.
+
+205
+00:17:11,580 --> 00:17:14,300
+But an even more crucial race continued.
+
+206
+00:17:15,720 --> 00:17:18,520
+Reconnaissance satellites assumed critical importance
+
+207
+00:17:18,521 --> 00:17:22,040
+as the superpowers continued to build their nuclear arsenals.
+
+208
+00:17:23,000 --> 00:17:28,520
+If one side could pinpoint the locations of the other's missiles using satellite photos,
+
+209
+00:17:28,521 --> 00:17:31,360
+then a lethal first strike would be possible.
+
+210
+00:17:32,360 --> 00:17:34,980
+Effective reconnaissance equaled preparedness,
+
+211
+00:17:35,720 --> 00:17:40,580
+and a lack of preparedness could result in complete annihilation.
+
+212
+00:17:43,880 --> 00:17:49,760
+On November 3, 1957, Sputnik 2 was the first satellite to carry a passenger,
+
+213
+00:17:50,320 --> 00:17:52,260
+a small dog named Laika.
+
+214
+00:17:52,760 --> 00:17:58,180
+He died after about a week, but proved that life is possible in space.
+
+215
+00:17:59,000 --> 00:18:02,440
+Satellites will continue in a moment on Modern Marvels.
+
+216
+00:18:04,040 --> 00:18:07,460
+While NASA conducted its highly publicized missions,
+
+217
+00:18:07,840 --> 00:18:10,840
+the darker covert side of the space race continued.
+
+218
+00:18:11,760 --> 00:18:14,840
+The American military was working in great secrecy
+
+219
+00:18:14,841 --> 00:18:19,080
+to design reconnaissance satellites to spy on their communist rival.
+
+220
+00:18:20,920 --> 00:18:22,960
+Determining the number of Soviet missiles
+
+221
+00:18:22,961 --> 00:18:26,780
+and the strength and location of its troops was vital information
+
+222
+00:18:26,781 --> 00:18:31,520
+that could prevent the Cold War from spiraling out of control.
+
+223
+00:18:32,740 --> 00:18:37,180
+But developing the technology to take detailed photographs from space
+
+224
+00:18:37,181 --> 00:18:40,740
+was proving to be an extremely difficult challenge.
+
+225
+00:18:43,420 --> 00:18:47,640
+The first attempt was the 1,300-pound Discoverer I,
+
+226
+00:18:47,641 --> 00:18:52,860
+finally launched on February 28, 1959, after many delays.
+
+227
+00:18:52,861 --> 00:18:57,640
+The government told the public it was a scientific orbiter
+
+228
+00:18:57,641 --> 00:19:04,560
+But Discoverer was simply a cover name for the CIA spy satellite project codenamed Corona
+
+229
+00:19:04,561 --> 00:19:09,640
+Discoverer 1 did not carry a military payload
+
+230
+00:19:09,641 --> 00:19:13,720
+But it was intended to eventually prove out the technology
+
+231
+00:19:13,721 --> 00:19:17,480
+It ended up flying into the snow in Antarctica
+
+232
+00:19:17,481 --> 00:19:20,720
+And we then went on to Discoverer 2, which failed
+
+233
+00:19:20,721 --> 00:19:22,680
+And 3, which failed, and 4, which failed
+
+234
+00:19:22,681 --> 00:19:28,840
+And we had continuous failures with these early military satellites until Discoverer 13.
+
+235
+00:19:29,520 --> 00:19:38,740
+On August 11, 1960, Discoverer 13 ejected a capsule covered by a heat shield, which plummeted towards Earth.
+
+236
+00:19:39,440 --> 00:19:45,060
+A Navy helicopter recovered it from the Pacific Ocean and quickly flew it to Washington, D.C.,
+
+237
+00:19:45,061 --> 00:19:50,780
+where the capsule's prize was presented to President Eisenhower, an American flag.
+
+238
+00:19:52,680 --> 00:20:00,320
+Although Discoverer 13 had proven that an object could be brought back from outer space,
+
+239
+00:20:00,980 --> 00:20:06,880
+top-secret photographs were not recovered until an Air Force plane literally plucked the parachute
+
+240
+00:20:06,881 --> 00:20:13,240
+attached to Discoverer 14's film capsule out of the sky on August 19, 1960.
+
+241
+00:20:16,600 --> 00:20:22,160
+It returned film of the Soviet Union, and it excited a lot of people within the intelligence community
+
+242
+00:20:22,161 --> 00:20:24,680
+that the day of satellite reconnaissance was here.
+
+243
+00:20:25,660 --> 00:20:29,240
+Although the CIA won't release altitude figures
+
+244
+00:20:29,241 --> 00:20:31,140
+for modern reconnaissance orbiters,
+
+245
+00:20:31,640 --> 00:20:34,540
+we do know that the Discoverer spy satellites
+
+246
+00:20:34,541 --> 00:20:37,300
+operated in a low-Earth elliptical orbit,
+
+247
+00:20:37,800 --> 00:20:41,220
+generally between 100 and 400 miles above the Earth.
+
+248
+00:20:42,320 --> 00:20:45,000
+They flew over the poles in order to take pictures
+
+249
+00:20:45,001 --> 00:20:46,620
+of many different locations
+
+250
+00:20:46,621 --> 00:20:50,460
+as the world rotated underneath their polar path.
+
+251
+00:20:52,160 --> 00:20:57,800
+However, the lag time between when a picture was taken by these early discoverer satellites
+
+252
+00:20:57,801 --> 00:21:03,300
+and when a CIA analyst could look at the finished photo after the film was recovered,
+
+253
+00:21:03,800 --> 00:21:07,800
+sent back to Washington, D.C. and developed, was about two weeks.
+
+254
+00:21:08,420 --> 00:21:10,080
+Hardly instant analysis.
+
+255
+00:21:10,920 --> 00:21:14,780
+But technicians hoped that the new satellite images would at least be an improvement
+
+256
+00:21:14,781 --> 00:21:18,020
+over existing U-2 spy plane photos.
+
+257
+00:21:18,021 --> 00:21:27,040
+photo interpreters who were using the u2 imagery were told to put that imagery aside and when they
+
+258
+00:21:27,041 --> 00:21:32,520
+got the new film from the satellites they looked at it and they were rather disappointed it was not
+
+259
+00:21:32,521 --> 00:21:37,620
+as good a resolution as they expected and so they actually went back and pulled out their u2
+
+260
+00:21:37,621 --> 00:21:45,380
+photography again but two events in the early 1960s convinced experts that the long-term success of
+
+261
+00:21:45,381 --> 00:21:48,540
+the military satellite reconnaissance program was crucial.
+
+262
+00:21:49,900 --> 00:21:57,380
+On May 1st, 1960, Soviet surface-to-air missiles shot down Air Force pilot Francis Gary Powers'
+
+263
+00:21:57,560 --> 00:22:01,740
+U-2 spy plane 80,000 feet above the Soviet Union.
+
+264
+00:22:04,260 --> 00:22:05,780
+Powers survived.
+
+265
+00:22:06,740 --> 00:22:13,640
+But in October 1962, during the Cuban Missile Crisis, the Soviets shot down another U-2 airplane,
+
+266
+00:22:13,641 --> 00:22:16,220
+and this time the pilot was killed.
+
+267
+00:22:17,440 --> 00:22:20,000
+It was obvious that better satellite images
+
+268
+00:22:20,001 --> 00:22:22,380
+would allow vital information to be gathered
+
+269
+00:22:22,381 --> 00:22:25,140
+without risking more American lives.
+
+270
+00:22:26,780 --> 00:22:31,300
+An indication of America's commitment to space-based surveillance
+
+271
+00:22:31,301 --> 00:22:33,800
+was the establishment in August 1960
+
+272
+00:22:33,801 --> 00:22:36,680
+of the National Reconnaissance Office.
+
+273
+00:22:37,600 --> 00:22:40,060
+Its very existence was classified
+
+274
+00:22:40,061 --> 00:22:47,180
+and its job was to spy on the Soviet Union as well as China, Libya and other countries.
+
+275
+00:22:48,800 --> 00:22:57,540
+In 1962, all of the individual reconnaissance satellite projects in the NRO fell under the general codename of Keyhole.
+
+276
+00:23:00,040 --> 00:23:06,680
+During the 1960s and early 1970s, more efficient satellites containing several film capsules
+
+277
+00:23:06,681 --> 00:23:10,300
+and a more streamlined development and analysis process
+
+278
+00:23:10,301 --> 00:23:13,580
+reduced the delay time to three or four days.
+
+279
+00:23:15,220 --> 00:23:20,040
+But film was still physically sent back from space in canisters
+
+280
+00:23:20,041 --> 00:23:25,140
+because several experiments to transmit images using radio signals had failed.
+
+281
+00:23:27,140 --> 00:23:31,580
+Two world events proved that a several-day delay was still too long.
+
+282
+00:23:31,581 --> 00:23:37,080
+on August 21st 1968
+
+283
+00:23:37,081 --> 00:23:40,360
+Soviet troops invaded Czechoslovakia
+
+284
+00:23:40,361 --> 00:23:42,820
+to suppress a pro-democracy movement
+
+285
+00:23:42,821 --> 00:23:44,800
+centered in the capital of Prague
+
+286
+00:23:44,801 --> 00:23:47,760
+and on October 6th 1973
+
+287
+00:23:47,761 --> 00:23:51,220
+Egypt and Syria launched a surprise attack on Israel
+
+288
+00:23:51,221 --> 00:23:56,700
+in both cases
+
+289
+00:23:56,701 --> 00:23:59,940
+keyhole satellites did not return photographs
+
+290
+00:23:59,941 --> 00:24:02,820
+until several days after the invasions had occurred.
+
+291
+00:24:03,540 --> 00:24:05,160
+We had wonderful coverage,
+
+292
+00:24:05,600 --> 00:24:09,200
+but we didn't get the photographs until the war was over.
+
+293
+00:24:13,980 --> 00:24:18,240
+On January 20, 1977, a brisk winter day,
+
+294
+00:24:18,860 --> 00:24:21,240
+Jimmy Carter walked down Pennsylvania Avenue
+
+295
+00:24:21,241 --> 00:24:24,820
+following his inauguration as President of the United States.
+
+296
+00:24:25,520 --> 00:24:29,140
+However, another exciting event was also taking place
+
+297
+00:24:29,141 --> 00:24:30,980
+just a few miles away.
+
+298
+00:24:32,180 --> 00:24:35,940
+That same afternoon, the newest model of Keyhole satellite
+
+299
+00:24:35,941 --> 00:24:39,460
+was able to transmit the first nearly real-time images
+
+300
+00:24:39,461 --> 00:24:42,680
+from outer space to the NRO Processing Center
+
+301
+00:24:42,681 --> 00:24:44,220
+at Fort Belvoir, Virginia.
+
+302
+00:24:45,520 --> 00:24:49,180
+Each dot of the photo or pixel was assigned a number
+
+303
+00:24:49,181 --> 00:24:52,560
+corresponding to white, black, or varying shades of gray.
+
+304
+00:24:53,960 --> 00:24:56,720
+These numbers were converted into a signal
+
+305
+00:24:56,721 --> 00:25:01,580
+and beamed to Earth where the digital transmission was converted back into a photo.
+
+306
+00:25:03,180 --> 00:25:07,020
+President Carter did not see the images until the next day,
+
+307
+00:25:07,440 --> 00:25:13,560
+but he immediately recognized their value in making critical decisions based on photographic facts
+
+308
+00:25:13,561 --> 00:25:15,880
+instead of the theories of analysts.
+
+309
+00:25:16,940 --> 00:25:23,020
+Keyhole Model 11 had just reduced the lag time for spy satellites from several days to a matter of minutes.
+
+310
+00:25:23,021 --> 00:25:33,360
+But very few people in the government were allowed to see the top secret images from this new keyhole satellite, also known as KH-11.
+
+311
+00:25:34,740 --> 00:25:42,380
+Even today, only satellite photos taken before 1972 have been declassified and made available to the public.
+
+312
+00:25:43,020 --> 00:25:47,820
+However, this secret information has been prone to leaks over the years.
+
+313
+00:25:47,821 --> 00:25:59,120
+In 1978, William Campiles, a former CIA employee, sold the entire KH-1 manual to the Soviets for $3,000.
+
+314
+00:25:59,820 --> 00:26:02,540
+He received a 40-year prison sentence.
+
+315
+00:26:03,780 --> 00:26:05,318
+Then in 1984, a U.S.
+
+316
+00:26:05,319 --> 00:26:11,700
+naval intelligence analyst leaked this KH-11 image to an English military magazine.
+
+317
+00:26:11,701 --> 00:26:18,180
+It shows the first nuclear-powered Soviet aircraft carrier during construction.
+
+318
+00:26:19,280 --> 00:26:23,760
+Samuel Long Morrison received a two-year sentence for leaking the photo.
+
+319
+00:26:27,740 --> 00:26:31,700
+Since all modern information and images are still classified,
+
+320
+00:26:32,960 --> 00:26:36,280
+the spot commercial photographic satellite developed in France
+
+321
+00:26:36,281 --> 00:26:41,120
+gives us some idea of military satellite reconnaissance capabilities.
+
+322
+00:26:41,700 --> 00:26:51,700
+It is used for a variety of business purposes including urban planning, crop yield assessments and environmental issues such as gauging deforestation.
+
+323
+00:26:51,701 --> 00:26:57,700
+Still, the SPOT satellite is not nearly as accurate as military systems.
+
+324
+00:26:57,701 --> 00:27:07,700
+SPOT's resolution capacity is 33 feet, whereas experts believe today's military models may have resolutions of only a few inches.
+
+325
+00:27:07,701 --> 00:27:13,180
+But very few people in the government know the exact resolution numbers.
+
+326
+00:27:13,700 --> 00:27:19,540
+When you measure resolution, you are actually not measuring the smallest object you are seeing.
+
+327
+00:27:20,120 --> 00:27:24,780
+You measure the smallest distance that you can determine between two objects.
+
+328
+00:27:25,360 --> 00:27:29,280
+You cannot read license plates from a satellite in orbit.
+
+329
+00:27:30,060 --> 00:27:35,320
+They have a resolution that is probably about the equivalent of a softball, about six inches.
+
+330
+00:27:35,321 --> 00:27:40,540
+if two objects are about a softball apart, you can tell that from orbit.
+
+331
+00:27:42,280 --> 00:27:47,060
+New reconnaissance systems even use infrared and ultraviolet sources
+
+332
+00:27:47,061 --> 00:27:50,340
+instead of relying solely on the visible light spectrum.
+
+333
+00:27:51,260 --> 00:27:56,600
+This means that these satellites can still obtain images on cloudy days or even at night.
+
+334
+00:27:58,600 --> 00:28:03,420
+But the research and development devoted to American military satellites
+
+335
+00:28:03,421 --> 00:28:06,940
+has also spawned a new wave of high-tech civilian uses.
+
+336
+00:28:07,540 --> 00:28:13,900
+In fact, one type of satellite routinely saves thousands of lives every year.
+
+337
+00:28:15,400 --> 00:28:20,260
+Some scientists believe that global warming will result in more frequent
+
+338
+00:28:20,261 --> 00:28:23,660
+and more powerful natural disasters in the coming years.
+
+339
+00:28:24,500 --> 00:28:30,160
+In the past, commercial and residential property losses due to tornadoes, floods, and hurricanes
+
+340
+00:28:30,161 --> 00:28:36,360
+have often escalated into the hundreds of millions and sometimes billions of dollars.
+
+341
+00:28:37,260 --> 00:28:42,860
+Yet there is one figure that has been decreasing worldwide over the last few decades.
+
+342
+00:28:43,520 --> 00:28:44,220
+Fatalities.
+
+343
+00:28:45,360 --> 00:28:48,180
+Like many other practical forms of technology,
+
+344
+00:28:48,860 --> 00:28:52,980
+America's first weather satellite emerged from a military project.
+
+345
+00:28:54,200 --> 00:28:59,020
+TIROS-1, which was launched April 1, 1960,
+
+346
+00:28:59,021 --> 00:29:03,100
+grew out of a study that one of the companies had made
+
+347
+00:29:03,101 --> 00:29:06,580
+about the possible use for reconnaissance satellite.
+
+348
+00:29:07,020 --> 00:29:11,040
+It had a television camera and produced images of clouds.
+
+349
+00:29:12,000 --> 00:29:15,080
+The images Tyrus-1 beamed back to Earth
+
+350
+00:29:15,081 --> 00:29:18,100
+would never have sufficed for military reconnaissance,
+
+351
+00:29:18,740 --> 00:29:22,840
+but the ability to see cloud formations over large regions of the Earth
+
+352
+00:29:22,841 --> 00:29:26,860
+had an immediate impact on weather forecasting and storm warnings.
+
+353
+00:29:26,861 --> 00:29:36,100
+In fact, Tyrus III, launched just four years after Sputnik in 1961, identified Hurricane
+
+354
+00:29:36,101 --> 00:29:42,580
+Esther, forming in the Atlantic Ocean more than two days before any other means of observation.
+
+355
+00:29:43,120 --> 00:29:48,480
+If there's a hurricane bearing down on you, or there's a severe storm situation developing
+
+356
+00:29:48,481 --> 00:29:52,960
+in the Midwest where tornadoes are going to be generated, the ability to give warnings
+
+357
+00:29:52,961 --> 00:29:57,540
+that this is going to happen is the first step in saving lives.
+
+358
+00:29:58,120 --> 00:30:01,420
+That's where the weather satellite comes in, particularly strong.
+
+359
+00:30:02,540 --> 00:30:06,000
+Weather satellites designed to take high-resolution photos
+
+360
+00:30:06,001 --> 00:30:08,400
+and gather precise atmospheric data
+
+361
+00:30:08,401 --> 00:30:11,940
+generally operate in low Earth polar orbits,
+
+362
+00:30:12,480 --> 00:30:14,820
+about 200 to 400 miles high.
+
+363
+00:30:15,380 --> 00:30:18,620
+However, the cloud pictures covering large regions of the Earth
+
+364
+00:30:18,621 --> 00:30:21,480
+that most people are familiar with from weather forecasts
+
+365
+00:30:21,481 --> 00:30:26,680
+are taken from geostationary orbit over 22,000 miles away,
+
+366
+00:30:27,380 --> 00:30:31,840
+the same orbit Arthur C. Clarke advocated in 1945.
+
+367
+00:30:33,600 --> 00:30:38,580
+At this distance, the satellite revolves at the same speed as the Earth rotates,
+
+368
+00:30:39,000 --> 00:30:42,060
+continuously remaining over the same spot on the globe.
+
+369
+00:30:43,000 --> 00:30:47,860
+Before the 1960s, reconnaissance aircraft often couldn't spot hurricanes
+
+370
+00:30:47,861 --> 00:30:53,220
+forming far out in the Atlantic until they were hours away from slamming into Caribbean
+
+371
+00:30:53,221 --> 00:30:58,040
+islands or the southeastern United States.
+
+372
+00:30:58,041 --> 00:31:04,900
+Thanks to the global coverage of weather satellites, people now have days to evacuate.
+
+373
+00:31:04,901 --> 00:31:10,600
+And fewer doubters stay behind to ride it out since they can see the huge swirling images
+
+374
+00:31:10,601 --> 00:31:17,000
+and hear the accurate data about wind speeds and rainfall amounts on their own TV screens.
+
+375
+00:31:19,060 --> 00:31:24,500
+Today's weather satellites are also capable of much more than taking pictures of clouds.
+
+376
+00:31:25,260 --> 00:31:30,480
+They provide high-resolution images for extremely accurate three-dimensional maps
+
+377
+00:31:30,481 --> 00:31:36,140
+and gather incredibly precise data about global weather systems in the upper atmosphere.
+
+378
+00:31:36,141 --> 00:31:42,380
+They are even equipped with a search and rescue feature for people traveling in remote parts of the world.
+
+379
+00:31:43,720 --> 00:31:50,400
+In addition to the most common use, which is for boats, it's used for downed aircraft,
+
+380
+00:31:50,800 --> 00:31:55,600
+where if they are in serious trouble, they can activate the radio transmitter
+
+381
+00:31:55,601 --> 00:32:00,620
+and it sends out a radio transmission that is received by the satellite.
+
+382
+00:32:00,621 --> 00:32:08,000
+And that then is relayed to Coast Guard or whoever to launch a search and try to rescue them.
+
+383
+00:32:08,340 --> 00:32:10,440
+And it has been extremely successful.
+
+384
+00:32:10,680 --> 00:32:13,820
+They measure the number of saves in hundreds.
+
+385
+00:32:15,180 --> 00:32:22,740
+Besides weather satellites, Earth Resources orbiters are also helping researchers learn more about our planet.
+
+386
+00:32:23,560 --> 00:32:27,620
+The Landsat family of satellites take a variety of high-resolution images,
+
+387
+00:32:27,621 --> 00:32:34,280
+images which can be transformed by computers into 3D animations to assess crop yields,
+
+388
+00:32:34,920 --> 00:32:41,900
+identify fault lines, aid in urban planning, and manage other natural resources such as forests.
+
+389
+00:32:43,060 --> 00:32:48,860
+Because satellites can provide accurate positioning information, a growing number of consumer
+
+390
+00:32:48,861 --> 00:32:55,680
+applications are taking advantage of this technology. The Global Positioning System,
+
+391
+00:32:55,681 --> 00:33:01,940
+or GPS uses four or more satellites to fix a transmitter's position on the earth to within
+
+392
+00:33:01,941 --> 00:33:02,987
+a few yards.
+
+393
+00:33:02,988 --> 00:33:09,440
+Such accuracy allows small boats and rental cars to navigate by satellite.
+
+394
+00:33:10,660 --> 00:33:16,860
+We could pull up a screen in a car and see exactly where we're located and plot the course
+
+395
+00:33:16,861 --> 00:33:19,972
+to where we need to go. I don't know about you, but I get lost all the time.
+
+396
+00:33:19,973 --> 00:33:20,673
+And as my
+
+397
+00:33:20,674 --> 00:33:23,084
+wife always says, I don't want to ask for directions.
+
+398
+00:33:23,085 --> 00:33:24,740
+This enables me to do it without
+
+399
+00:33:24,741 --> 00:33:29,740
+without asking anybody else except a satellite.
+
+400
+00:33:29,741 --> 00:33:32,740
+While man-made orbiters fulfill a variety of functions
+
+401
+00:33:32,741 --> 00:33:36,740
+such as weather forecasting, navigation, or military reconnaissance,
+
+402
+00:33:36,741 --> 00:33:39,740
+they are all in a sense communication satellites
+
+403
+00:33:39,741 --> 00:33:43,740
+because if they cannot send images or data back to Earth,
+
+404
+00:33:43,741 --> 00:33:48,740
+then they are simply pieces of space junk.
+
+405
+00:33:48,741 --> 00:33:52,740
+Coming up, from a crude aluminized balloon
+
+406
+00:33:52,741 --> 00:33:57,820
+High-tech machines that can handle 120,000 phone calls simultaneously.
+
+407
+00:33:58,760 --> 00:34:04,340
+The extraordinary evolution of communication satellites has rapidly changed our world.
+
+408
+00:34:06,220 --> 00:34:09,180
+Satellites are seen by reflected sunlight.
+
+409
+00:34:09,660 --> 00:34:12,120
+The best time to look for them is early evening.
+
+410
+00:34:13,580 --> 00:34:15,500
+Modern marvels will return.
+
+411
+00:34:15,501 --> 00:34:24,820
+Like scientific, military, and weather satellites, communication satellites also evolved from humble beginnings.
+
+412
+00:34:25,500 --> 00:34:34,500
+In fact, the first communication satellite Echo-1 launched in 1960 was nothing more than a 100-foot-wide aluminized balloon.
+
+413
+00:34:36,040 --> 00:34:43,980
+It was a passive satellite that one could point a beam at and bounce a radio beacon off of to someplace else.
+
+414
+00:34:43,981 --> 00:34:49,580
+you could actually see this thing in orbit as it flew over because it was so large and it reflected so nicely.
+
+415
+00:34:49,920 --> 00:34:54,940
+President Eisenhower listened to a test of his own voice being beamed across the country.
+
+416
+00:34:55,080 --> 00:35:02,100
+In this first experiment in communications involving the use of a satellite balloon known as ECHO,
+
+417
+00:35:03,260 --> 00:35:09,080
+this is one more significant step in the United States program of space...
+
+418
+00:35:09,081 --> 00:35:13,820
+However, most people realized this was hardly the most effective means of communication.
+
+419
+00:35:13,980 --> 00:35:20,980
+In 1962, AT&T developed Telstar, the world's first commercial satellite.
+
+420
+00:35:20,981 --> 00:35:23,980
+It could actively receive and retransmit signals.
+
+421
+00:35:23,981 --> 00:35:26,980
+But it operated in a low Earth orbit.
+
+422
+00:35:26,981 --> 00:35:31,980
+This meant that it had to be tracked by moving satellite dishes on the ground.
+
+423
+00:35:31,981 --> 00:35:36,980
+If any problem occurred during tracking, the communication link would be lost.
+
+424
+00:35:36,981 --> 00:35:42,980
+In addition, Telstar was only available over the United States for a few minutes at a time
+
+425
+00:35:42,981 --> 00:35:45,920
+at a time before quickly circling the rest of the globe.
+
+426
+00:35:47,680 --> 00:35:55,240
+Then, in 1963, the Hughes Corporation launched the much smaller 150-pound Syncom-1,
+
+427
+00:35:55,840 --> 00:35:59,500
+the world's first geostationary communication satellite.
+
+428
+00:35:59,940 --> 00:36:04,240
+It could carry only 240 telephone calls at a time.
+
+429
+00:36:04,241 --> 00:36:09,000
+But since Syncom was over 22,000 miles above the equator,
+
+430
+00:36:09,001 --> 00:36:11,960
+it revolved at the same rate as the Earth,
+
+431
+00:36:12,080 --> 00:36:14,260
+which eliminated both the need for tracking
+
+432
+00:36:14,261 --> 00:36:17,180
+and the problem of intermittent availability.
+
+433
+00:36:18,980 --> 00:36:23,320
+Even though Syncom was a relatively lightweight satellite by today's times
+
+434
+00:36:23,321 --> 00:36:25,060
+and used relatively simple technology,
+
+435
+00:36:25,580 --> 00:36:30,120
+it did enable John F. Kennedy to make a telephone call
+
+436
+00:36:30,121 --> 00:36:34,780
+from Washington, D.C. to a ship off the coast of Africa.
+
+437
+00:36:34,781 --> 00:36:41,780
+This first test proved that Arthur C. Clarke's visionary concept from 1945 worked,
+
+438
+00:36:41,781 --> 00:36:47,780
+and geostationary orbit became the standard location for most communication satellites.
+
+439
+00:36:47,781 --> 00:36:54,780
+Today, more than 150 of these modern marvels operate in this position serving almost every country on Earth.
+
+440
+00:36:58,780 --> 00:37:02,780
+These pioneering efforts made the formation of Intelsat possible.
+
+441
+00:37:02,781 --> 00:37:04,780
+and Telsat possible.
+
+442
+00:37:04,781 --> 00:37:08,780
+This is an international organization advocated by President Kennedy,
+
+443
+00:37:08,781 --> 00:37:13,780
+designed to link all the nations of the world by satellite communications.
+
+444
+00:37:13,781 --> 00:37:19,780
+Intelsat-1, also built by Hughes, was launched in 1965.
+
+445
+00:37:24,780 --> 00:37:26,780
+The effort was a great success,
+
+446
+00:37:26,781 --> 00:37:31,780
+and today there are over 20 Intelsat orbiters bringing our world together.
+
+447
+00:37:32,780 --> 00:37:39,080
+Modern communication satellites are made with some of the lightest and strongest materials on Earth.
+
+448
+00:37:40,260 --> 00:37:49,620
+The graphite epoxy material that we're using in our satellites to keep the weight down is about half the weight of aluminum and ten times the strength.
+
+449
+00:37:50,280 --> 00:37:58,160
+In order to keep liquid fuel weights down, solar panels are used to power most of the onboard electronic components.
+
+450
+00:37:58,161 --> 00:38:05,760
+Usually smaller satellites requiring less solar power are built in a drum shape about 21 feet tall.
+
+451
+00:38:06,660 --> 00:38:15,280
+Larger satellites use expansive solar wings, which are unfolded in orbit, leading to widths of more than 85 feet.
+
+452
+00:38:22,880 --> 00:38:26,560
+Satellites have also dramatically affected our culture.
+
+453
+00:38:26,561 --> 00:38:30,080
+by relaying television signals around the globe.
+
+454
+00:38:31,180 --> 00:38:33,920
+The 1964 Olympics were in Japan,
+
+455
+00:38:34,560 --> 00:38:37,880
+and for the first time using CINCOM,
+
+456
+00:38:37,881 --> 00:38:42,660
+we were able to see the Olympics in the United States
+
+457
+00:38:42,661 --> 00:38:45,100
+transmitted live from Japan,
+
+458
+00:38:46,040 --> 00:38:49,420
+and that brought home loud and clear
+
+459
+00:38:49,421 --> 00:38:52,840
+how important satellite communications could be
+
+460
+00:38:52,841 --> 00:38:53,940
+for television distribution.
+
+461
+00:38:53,941 --> 00:39:02,580
+Satellite television transmissions in the 1980s allowed the people of the Soviet Union to see how the Western world lived.
+
+462
+00:39:03,520 --> 00:39:09,880
+And today, Chinese citizens also have increasing access to news and information from other parts of the world.
+
+463
+00:39:11,220 --> 00:39:13,178
+The world will never be the same.
+
+464
+00:39:13,179 --> 00:39:18,340
+There is no longer any remote places in this world because of satellite communications.
+
+465
+00:39:18,341 --> 00:39:24,340
+Thanks to stronger amplification of television signals by today's satellites,
+
+466
+00:39:24,341 --> 00:39:29,340
+consumers can now receive broadcasts directly on 18-inch wide dishes.
+
+467
+00:39:30,340 --> 00:39:37,340
+As improvements continue, these satellite receivers may become an integral part of most households,
+
+468
+00:39:37,341 --> 00:39:44,340
+providing 400 channels of incoming television and data, as well as one channel of outgoing video.
+
+469
+00:39:44,341 --> 00:39:51,340
+This outgoing channel will make video conferences as easy as phone calls are today.
+
+470
+00:39:51,341 --> 00:39:58,340
+Communication satellites have transformed our world into a global village in less than four decades.
+
+471
+00:39:58,341 --> 00:40:05,340
+Today we can pick up the phone and instantly talk to someone else almost anywhere on the planet.
+
+472
+00:40:05,341 --> 00:40:12,340
+Or turn on our televisions and watch foreign and domestic events unfold before our eyes.
+
+473
+00:40:12,341 --> 00:40:25,069
+International faxing, high-speed modems, and email using phone lines and satellites also allow businesses, researchers, and ordinary people to transmit data around the
+
+474
+00:40:25,070 --> 00:40:27,280
+globe in a matter of seconds.
+
+475
+00:40:27,281 --> 00:40:34,960
+real-time worldwide communications was something that didn't exist before the 1960s in the
+
+476
+00:40:34,961 --> 00:40:38,320
+communications satellite revolution that has changed our whole way of life
+
+477
+00:40:38,321 --> 00:40:42,800
+our whole society our economy is built upon those capabilities
+
+478
+00:40:42,801 --> 00:40:55,440
+when american explorer and discover satellites were racing against the soviet union 40 years ago
+
+479
+00:40:55,441 --> 00:41:01,440
+No one ever imagined that the space above our planet might become overcrowded.
+
+480
+00:41:01,441 --> 00:41:07,440
+Yet this is a growing concern since objects in geostationary orbit need to be positioned
+
+481
+00:41:07,441 --> 00:41:11,440
+a certain distance from the Earth and over the equator.
+
+482
+00:41:11,441 --> 00:41:18,440
+They also need to be located about 1,000 miles apart from each other so their signals don't get mixed.
+
+483
+00:41:18,441 --> 00:41:22,440
+Therefore there are only a certain number of slots left to be occupied,
+
+484
+00:41:22,441 --> 00:41:25,600
+an issue that the United Nations is looking into.
+
+485
+00:41:26,640 --> 00:41:29,680
+I believe that with good intelligent planning
+
+486
+00:41:29,681 --> 00:41:33,340
+and good coordination by the International Telecommunications Union,
+
+487
+00:41:33,920 --> 00:41:39,380
+there will be enough slots for satellites well into the 21st century.
+
+488
+00:41:41,020 --> 00:41:45,340
+Another concern as space becomes more crowded is orbital debris,
+
+489
+00:41:45,700 --> 00:41:47,660
+also known as space junk.
+
+490
+00:41:48,360 --> 00:41:51,080
+This consists of various sized objects,
+
+491
+00:41:51,081 --> 00:41:53,640
+such as portions of expanded rocket stages,
+
+492
+00:41:54,260 --> 00:41:56,340
+small parts that have come off a spacecraft,
+
+493
+00:41:56,820 --> 00:41:58,040
+and even paint chips.
+
+494
+00:41:59,900 --> 00:42:02,660
+Each dot on this computer animation
+
+495
+00:42:02,661 --> 00:42:05,340
+represents an actual piece of space debris.
+
+496
+00:42:06,060 --> 00:42:08,800
+Many of these items do eventually burn up
+
+497
+00:42:08,801 --> 00:42:10,320
+in Earth's upper atmosphere.
+
+498
+00:42:11,020 --> 00:42:14,100
+But this process can sometimes take decades to happen
+
+499
+00:42:14,101 --> 00:42:16,380
+as their orbits gradually decay.
+
+500
+00:42:16,381 --> 00:42:23,380
+On the surface, something as small as a paint ship may not seem to be much of a concern.
+
+501
+00:42:23,381 --> 00:42:30,380
+But since it is traveling 17,500 miles an hour, it can still have a significant impact.
+
+502
+00:42:30,381 --> 00:42:37,380
+In fact, a speck of paint from a satellite did hit one of the windows of the Challenger space shuttle in 1983,
+
+503
+00:42:37,381 --> 00:42:40,380
+causing a half-centimeter pit.
+
+504
+00:42:40,381 --> 00:42:45,380
+Obviously, a larger object could have disastrous results.
+
+505
+00:42:45,381 --> 00:42:53,040
+It does exist. It's up there. It's not a major problem, at least at the present.
+
+506
+00:42:53,520 --> 00:42:57,660
+I would be more concerned about meteorites and things of that nature.
+
+507
+00:42:58,480 --> 00:43:06,360
+Despite these concerns, satellites are bringing our world together at a faster pace than any other form of technology.
+
+508
+00:43:07,160 --> 00:43:11,020
+The term live via satellite used to denote a special world event.
+
+509
+00:43:11,021 --> 00:43:16,280
+However, today the operation of satellites goes largely unnoticed.
+
+510
+00:43:17,980 --> 00:43:22,080
+The possibility for the future in satellites is almost limitless.
+
+511
+00:43:22,360 --> 00:43:25,220
+Whatever we can conceive, we can probably do.
+
+512
+00:43:26,580 --> 00:43:34,320
+Because of the visionary work of pioneers who stake their careers and their reputations on an unproven concept,
+
+513
+00:43:35,080 --> 00:43:38,480
+satellites have transformed our world in just 40 years.
+
+514
+00:43:38,481 --> 00:43:42,540
+from three-pound gadgets, which look more like grapefruits than spacecraft,
+
+515
+00:43:43,100 --> 00:43:48,120
+to incredibly powerful and complex machines weighing thousands of pounds.
+
+516
+00:43:48,960 --> 00:43:54,480
+Considering the remarkably rapid evolution of satellites that we have witnessed in the past four decades,
+
+517
+00:43:55,120 --> 00:44:01,900
+it seems that the only certainty for the next four decades is that satellites will continue to amaze us
+
+518
+00:44:01,901 --> 00:44:05,980
+in ways that we cannot even imagine today.
+

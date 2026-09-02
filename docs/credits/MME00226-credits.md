@@ -1,0 +1,18 @@
+# Credit Roll: Fire and Ice. (2002)
+**Canonical Episode:** [`MME00226: Fire and Ice.`](../episodes/MME00226.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 2002 A&E Television Networks`
+* **Production Company:** ACTUALITY PRODUCTIONS, Hearst Entertainment, THE HISTORY CHANNEL, A&E TELEVISION NETWORKS, ACTUALITY PRODUCTIONS
+* **Narrator:** —
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Executive Producer** | BETH DIETRICH-SEGARRA |
+
+---
+[← Return to Episode Dossier](../episodes/MME00226.md)

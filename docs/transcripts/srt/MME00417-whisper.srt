@@ -1,0 +1,2408 @@
+1
+00:00:01,000 --> 00:00:05,000
+Killer chemicals ooze from a toxic waste dump into a residential neighborhood.
+
+2
+00:00:06,500 --> 00:00:08,108
+World Trade Center Building No.
+
+3
+00:00:08,109 --> 00:00:12,000
+7 is reduced to a pile of rubble on September 11th, but it wasn't attacked.
+
+4
+00:00:13,000 --> 00:00:16,000
+Patriot missile software problems leave U.S. soldiers defenseless.
+
+5
+00:00:17,000 --> 00:00:21,000
+A nightclub turns into an inferno that kills over 400 people.
+
+6
+00:00:22,000 --> 00:00:26,000
+And the science of building implosion is put to the test and fails.
+
+7
+00:00:26,001 --> 00:00:30,000
+Now, Engineering Disasters on Modern Marbles.
+
+8
+00:00:41,000 --> 00:00:44,000
+World Trade Center Building No. 7.
+
+9
+00:00:44,001 --> 00:00:50,000
+On September 11, 2001, it was one of the casualties of the terrorist attacks on that horrific day.
+
+10
+00:00:50,001 --> 00:00:56,180
+Building 7's sudden and shocking collapse has been overshadowed by the fate of the Twin Towers.
+
+11
+00:00:57,020 --> 00:00:59,920
+But from an engineering standpoint, it is the greater mystery.
+
+12
+00:01:01,280 --> 00:01:04,640
+We were surprised that Tower 7 collapsed,
+
+13
+00:01:05,500 --> 00:01:09,580
+we being the team that investigated what occurred on that day.
+
+14
+00:01:09,581 --> 00:01:16,420
+There was some damage to Tower 7 caused by the debris that hit it from Tower 1,
+
+15
+00:01:16,421 --> 00:01:22,800
+but the damage was certainly not similar in scope or magnitude
+
+16
+00:01:22,801 --> 00:01:26,080
+to that caused by the aircraft hitting towers 1 and 2.
+
+17
+00:01:26,980 --> 00:01:29,540
+The only positive aspect of this building's demise
+
+18
+00:01:29,541 --> 00:01:32,360
+is that it fell seven hours after the two main towers.
+
+19
+00:01:33,820 --> 00:01:35,420
+Everyone had been evacuated
+
+20
+00:01:35,421 --> 00:01:40,080
+and even though the 47-story building collapsed in on itself in under 10 seconds,
+
+21
+00:01:40,960 --> 00:01:41,800
+no one was killed.
+
+22
+00:01:43,180 --> 00:01:45,220
+World Trade Center 7 was completed in 1987.
+
+23
+00:01:45,221 --> 00:01:51,860
+It had approximately 1.8 million square feet, 47 stories, and was roughly 600 feet tall.
+
+24
+00:01:52,340 --> 00:01:57,100
+Each of the floors was approximately 40,000 square feet, which is roughly the size of a football field
+
+25
+00:01:57,101 --> 00:02:00,480
+and equal to the size of the floor plate on each of the towers.
+
+26
+00:02:01,520 --> 00:02:06,020
+The building was a good building. It was soundly designed.
+
+27
+00:02:07,440 --> 00:02:14,500
+It would still be standing if not for 9-11, and it was state-of-the-art at the time, absolutely.
+
+28
+00:02:15,220 --> 00:02:19,220
+One of the challenges the engineers faced in designing World Trade Center 7
+
+29
+00:02:19,221 --> 00:02:23,780
+was finding a way to erect the building over an electric company substation
+
+30
+00:02:23,781 --> 00:02:26,760
+that already existed on the north side of the site.
+
+31
+00:02:27,760 --> 00:02:31,440
+As a result, we had to do very many, I'll use the word tricks,
+
+32
+00:02:32,260 --> 00:02:38,480
+transferring of column loads, carrying loads either on cantilevers or on truss systems.
+
+33
+00:02:40,440 --> 00:02:42,760
+It was a challenging project at the time.
+
+34
+00:02:42,761 --> 00:02:49,760
+Analysis of the collapse of Number 7, which had been burning out of control since the collapse of Tower 1 seven hours earlier,
+
+35
+00:02:49,761 --> 00:02:55,760
+seems to indicate the initial failure occurred somewhere between the fifth and seventh floors.
+
+36
+00:02:55,761 --> 00:03:01,760
+This is where the transfer trusses were built to carry the load over the Con Edison substation.
+
+37
+00:03:01,761 --> 00:03:08,760
+The way the building fell supports the idea that at least one of the trusses was weakened by the fires in the building and gave way.
+
+38
+00:03:08,761 --> 00:03:16,360
+Once one of those trusses went down, then because of the way everything was interconnected
+
+39
+00:03:16,361 --> 00:03:22,160
+in the floor system, it pulled down the rest of the building.
+
+40
+00:03:22,161 --> 00:03:29,720
+Normally when you have a structural failure, you carefully go through the debris field
+
+41
+00:03:29,721 --> 00:03:35,920
+looking at each item, photographing every beam as it collapsed and every column where
+
+42
+00:03:35,921 --> 00:03:40,920
+it is in the ground and you pick them up very carefully and you look at each element.
+
+43
+00:03:41,680 --> 00:03:44,240
+We were unable to do that in the case of Tower 7.
+
+44
+00:03:45,540 --> 00:03:49,900
+The wreckage from Tower 7 was mixed in with the debris from the other destroyed or damaged
+
+45
+00:03:49,901 --> 00:03:55,000
+buildings and removed from the site so rescue and recovery efforts could continue.
+
+46
+00:03:55,700 --> 00:03:58,880
+We then have to ask, why did the building fail on 9-11?
+
+47
+00:03:59,180 --> 00:04:01,380
+Well, there are a couple of things we could look at.
+
+48
+00:04:01,381 --> 00:04:05,880
+One is perhaps the column didn't have the right amount of fireproofing.
+
+49
+00:04:05,881 --> 00:04:09,480
+Well, we have no indication that this was a substandard building at all.
+
+50
+00:04:09,481 --> 00:04:15,480
+It is certainly possible that the debris that started the fire in Tower 7,
+
+51
+00:04:15,481 --> 00:04:18,680
+this is the debris from Tower 1 when it collapsed into Tower 7,
+
+52
+00:04:18,681 --> 00:04:21,780
+that that debris knocked off some of the fireproofing.
+
+53
+00:04:21,781 --> 00:04:26,980
+It doesn't take much fireproofing to be removed for the steel to fail.
+
+54
+00:04:26,981 --> 00:04:32,360
+One theory suggests the steel around the fifth floor was superheated by diesel fuel,
+
+55
+00:04:32,600 --> 00:04:36,180
+discharged from broken pipes, supplying the building's emergency generators.
+
+56
+00:04:36,980 --> 00:04:38,600
+But the explanation may be simpler.
+
+57
+00:04:39,420 --> 00:04:43,780
+The building caught fire at 10.30 a.m. when Tower 1 collapsed.
+
+58
+00:04:44,780 --> 00:04:47,760
+The water pipes supplying the sprinkler systems were also damaged.
+
+59
+00:04:49,040 --> 00:04:55,600
+And the fire department made the decision to allow an evacuated building to burn for the next seven hours
+
+60
+00:04:55,601 --> 00:05:00,260
+in favor of trying to save the lives of those trapped in the rubble of the Twin Towers.
+
+61
+00:05:03,140 --> 00:05:08,760
+If you allow it to burn long enough, it's going to get past the fireproofing material,
+
+62
+00:05:09,240 --> 00:05:12,380
+and it's going to cook the steel, and the steel is going to yield.
+
+63
+00:05:12,900 --> 00:05:15,200
+To ensure against future high-rise disasters,
+
+64
+00:05:15,820 --> 00:05:20,400
+many different agencies are involved in the ongoing effort to determine the exact cause of the failure.
+
+65
+00:05:21,560 --> 00:05:24,300
+However, this has not stopped the construction of a new building.
+
+66
+00:05:24,301 --> 00:05:29,800
+We have to rebuild on that site. We have to rebuild on the World Trade Center site.
+
+67
+00:05:31,380 --> 00:05:38,120
+If we didn't, then we lose. And we ain't going to lose.
+
+68
+00:05:39,120 --> 00:05:45,503
+Just a little more than a year after 9-11, construction began on a new World Trade Center No.
+
+69
+00:05:45,504 --> 00:05:46,204
+7.
+
+70
+00:05:46,420 --> 00:05:49,860
+Since engineers knew it was to be the first building to rise from the ashes,
+
+71
+00:05:49,861 --> 00:05:55,260
+They made safety features a top priority in its design.
+
+72
+00:05:55,920 --> 00:06:01,180
+It's going to be 52 stories when it's completed, 750 feet tall and all.
+
+73
+00:06:01,900 --> 00:06:05,860
+Up above us you see, and all around this floor, you see fireproofing.
+
+74
+00:06:06,400 --> 00:06:13,120
+What we've done that's different, that's beyond the code, and indeed beyond normal practice in buildings,
+
+75
+00:06:13,220 --> 00:06:18,300
+is we've made the fireproofing five times as durable as required by code.
+
+76
+00:06:18,301 --> 00:06:21,800
+and fireproofing can withstand all kinds of circumstances,
+
+77
+00:06:21,801 --> 00:06:24,500
+and that's a very important safety development.
+
+78
+00:06:25,320 --> 00:06:28,120
+The stairs are 20% wider than required,
+
+79
+00:06:28,540 --> 00:06:30,680
+which will allow people to evacuate quicker
+
+80
+00:06:30,681 --> 00:06:34,800
+and emergency teams to move more freely within the building.
+
+81
+00:06:36,040 --> 00:06:37,540
+Beyond standard emergency lighting,
+
+82
+00:06:38,100 --> 00:06:41,220
+the stairways will have track lights on the floor similar to airliners,
+
+83
+00:06:41,560 --> 00:06:44,020
+and if that fails, all the railings and stairs
+
+84
+00:06:44,021 --> 00:06:47,480
+are being marked with photoluminescent paint that glows in the dark.
+
+85
+00:06:48,300 --> 00:06:58,795
+Probably the single most important safety innovation in this building is that all of the life safety systems of this building are encased in a massive, two-foot-thick,
+
+86
+00:06:58,796 --> 00:07:00,680
+in most places, concrete wall.
+
+87
+00:07:00,681 --> 00:07:12,244
+That assures that in the event of an emergency, the life safety systems that support a quick and successful evacuation, the stairs, the water standpipes that support
+
+88
+00:07:12,245 --> 00:07:17,500
+sprinkling, emergency lighting, emergency communication, are all protected.
+
+89
+00:07:17,501 --> 00:07:27,820
+The concrete that's being used in the core and elsewhere in the building is what you call high-strength concrete, similar to what's used in military bunkers.
+
+90
+00:07:28,580 --> 00:07:34,560
+The new World Trade Center 7 building, like the original, is being built over the Con Ed substation.
+
+91
+00:07:35,260 --> 00:07:37,940
+But the structural load is being handled in a different way.
+
+92
+00:07:38,600 --> 00:07:49,980
+The structure of the exterior of the building relates to the Connett substation with a belt wall that takes place just above the level of the substation,
+
+93
+00:07:50,240 --> 00:07:57,160
+where we transfer the loads from the office building so that they're distributed throughout the exterior of the Connett substation at the base.
+
+94
+00:07:57,840 --> 00:08:02,240
+There was pride and determination in the builders of the new World Trade Center 7.
+
+95
+00:08:02,960 --> 00:08:05,180
+Scheduled for completion in early 2006,
+
+96
+00:08:05,181 --> 00:08:12,640
+It represents the finest in current building design and is symbolic of the resilience of a nation.
+
+97
+00:08:16,820 --> 00:08:20,421
+Tenants of World Trade Center 7 included the IRS, the U.S.
+
+98
+00:08:20,422 --> 00:08:24,580
+Secret Service, and New York City's Office of Emergency Management.
+
+99
+00:08:25,800 --> 00:08:28,740
+Engineering Disasters will return on Modern Marvels.
+
+100
+00:08:30,160 --> 00:08:33,660
+We now return to Engineering Disasters on Modern Marvels.
+
+101
+00:08:35,180 --> 00:08:48,841
+Just east of Niagara Falls in northwest New York State, an area with the deceptively serene name of Love Canal turned out to be one of America's most notorious toxic
+
+102
+00:08:48,842 --> 00:08:50,580
+waste horror stories.
+
+103
+00:08:51,920 --> 00:08:58,960
+An inadequate cover on a chemical company's dump site allowed a deadly brew of toxins to leak into a suburban neighborhood.
+
+104
+00:09:00,100 --> 00:09:01,800
+A public health scare erupted.
+
+105
+00:09:02,160 --> 00:09:03,640
+How can you make decisions?
+
+106
+00:09:03,641 --> 00:09:07,620
+Are you going to live there with your wife? Are you going to put your kids there?
+
+107
+00:09:08,480 --> 00:09:10,980
+Over 900 families left their homes.
+
+108
+00:09:12,680 --> 00:09:18,660
+Several years and hundreds of millions of dollars had to be spent to try to stop the further spread of the contaminants.
+
+109
+00:09:20,020 --> 00:09:24,120
+The Love Canal originally got its name from entrepreneur William T. Love.
+
+110
+00:09:24,860 --> 00:09:32,720
+In 1894, he began construction on a man-made canal that he envisioned would link the Niagara River to Lake Ontario.
+
+111
+00:09:33,640 --> 00:09:38,760
+His plan was to use the power of the river as it rushes towards the falls,
+
+112
+00:09:38,920 --> 00:09:41,020
+diverting it before it goes over the falls,
+
+113
+00:09:41,480 --> 00:09:43,440
+and carrying it north through a canal,
+
+114
+00:09:43,720 --> 00:09:46,540
+which would wind up at this escarpment or cliff
+
+115
+00:09:46,541 --> 00:09:50,800
+and pour down and provide the power that's necessary to generate electricity.
+
+116
+00:09:51,760 --> 00:09:55,200
+The canal was essentially a trench dug in the clay soil of the area.
+
+117
+00:09:56,100 --> 00:09:58,260
+After only 3,000 feet were excavated,
+
+118
+00:09:59,200 --> 00:10:02,160
+a pair of unforeseen events brought construction to a halt.
+
+119
+00:10:03,160 --> 00:10:06,660
+One was the depression of the 1890s, severe depression.
+
+120
+00:10:06,900 --> 00:10:14,420
+Secondly was somebody named Tesla devised a way to have alternating current instead of direct current
+
+121
+00:10:14,421 --> 00:10:16,900
+so you didn't have to be right on top of the source of power.
+
+122
+00:10:17,480 --> 00:10:22,960
+Alternating current made it unnecessary to develop industry and Love's planned city adjacent to his canal.
+
+123
+00:10:24,620 --> 00:10:30,360
+For the next several years, Love's unfinished canal served as a summer swimming hole for nearby residents.
+
+124
+00:10:31,220 --> 00:10:35,820
+Then in 1942, Hooker Chemical Company acquired the canal.
+
+125
+00:10:36,780 --> 00:10:43,960
+They ended up using the property as pretty much a 16-acre hole in the ground at that point,
+
+126
+00:10:44,680 --> 00:10:47,140
+3,000 feet long by 80 feet wide to 100 feet wide,
+
+127
+00:10:47,740 --> 00:10:51,860
+probably anywhere from 8 to 15 or 20 feet in depth.
+
+128
+00:10:52,540 --> 00:10:55,900
+And they used it for disposal of industrial waste
+
+129
+00:10:55,901 --> 00:11:00,400
+from a period of time from about 1942 to 1952 or 1953.
+
+130
+00:11:01,240 --> 00:11:06,780
+By 1953, the canal was filled with over 20,000 tons of chemical wastes,
+
+131
+00:11:07,040 --> 00:11:08,960
+including caustic solvents and pesticides.
+
+132
+00:11:10,240 --> 00:11:12,020
+Hooker had no further use for the canal,
+
+133
+00:11:12,640 --> 00:11:15,340
+and with no regulations in place to stop them at the time,
+
+134
+00:11:15,800 --> 00:11:20,060
+they simply covered the dump site with a layer of clay and soil from the area.
+
+135
+00:11:21,220 --> 00:11:25,220
+Soon grass grew and helped hide what festered just a few feet below.
+
+136
+00:11:25,900 --> 00:11:29,294
+Of course, everybody played on that area because it's not a canal.
+
+137
+00:11:29,295 --> 00:11:30,220
+It's covered over.
+
+138
+00:11:30,720 --> 00:11:36,220
+And sometimes kids would get, their feet would get irritated from running around in the canal.
+
+139
+00:11:36,820 --> 00:11:43,320
+As Niagara Falls' growing population spread, the New York Board of Education was looking for inexpensive land
+
+140
+00:11:43,321 --> 00:11:46,460
+and expressed interest in the property Hooker owned.
+
+141
+00:11:47,420 --> 00:11:52,440
+The chemical company offered to sell the no longer useful land for $1.
+
+142
+00:11:52,760 --> 00:11:55,860
+The deed did contain a warning about the contents of the canal.
+
+143
+00:11:55,900 --> 00:11:57,700
+But that did not stop the sale.
+
+144
+00:11:58,600 --> 00:12:00,940
+Well, they didn't build the school directly on top of the canal.
+
+145
+00:12:01,160 --> 00:12:02,660
+They built a playground there.
+
+146
+00:12:03,040 --> 00:12:04,720
+And on the black top of the playground,
+
+147
+00:12:05,080 --> 00:12:08,400
+there was like a percolation of a taffy-like watery substance
+
+148
+00:12:08,401 --> 00:12:12,180
+coming out of the ground into this playground.
+
+149
+00:12:13,240 --> 00:12:14,500
+At around the same time,
+
+150
+00:12:14,700 --> 00:12:16,580
+there continued to be increased development in the area.
+
+151
+00:12:17,040 --> 00:12:19,280
+A series of homes went up around the canal.
+
+152
+00:12:19,780 --> 00:12:22,020
+None of the homes were built right on the canal.
+
+153
+00:12:22,440 --> 00:12:23,800
+They were adjacent to it.
+
+154
+00:12:23,801 --> 00:12:29,200
+And then a lot of residents complained of not only smells in their basement,
+
+155
+00:12:29,700 --> 00:12:34,180
+but of oozing of the similar types of chemicals into those sub-pumps,
+
+156
+00:12:34,580 --> 00:12:36,440
+into the drainage ditches around their basements.
+
+157
+00:12:36,441 --> 00:12:41,780
+The leachate that was found throughout the Love Canal community
+
+158
+00:12:41,781 --> 00:12:47,180
+was generally a black goop, to use a technical, non-technical term.
+
+159
+00:12:47,880 --> 00:12:50,380
+It was a very thick black material.
+
+160
+00:12:50,740 --> 00:12:52,120
+It was very oily-based.
+
+161
+00:12:52,121 --> 00:12:54,720
+It almost looked like a tar-like material.
+
+162
+00:12:55,680 --> 00:12:59,960
+It was more watery in some instances than in others.
+
+163
+00:13:00,560 --> 00:13:03,840
+Those who had bought homes in the area hadn't been warned in their deeds
+
+164
+00:13:03,841 --> 00:13:06,440
+of what was beneath the grassy field.
+
+165
+00:13:07,320 --> 00:13:10,740
+For new residents like Lois Gibbs, something was clearly wrong.
+
+166
+00:13:11,300 --> 00:13:15,440
+In 1977, her son began attending the 99th Street School.
+
+167
+00:13:16,060 --> 00:13:19,780
+I just remember after living at Love Canal for a while,
+
+168
+00:13:19,781 --> 00:13:22,940
+Michael got sick, and he kept getting new diseases.
+
+169
+00:13:23,140 --> 00:13:26,680
+He had asthma, liver problems, immune system problem,
+
+170
+00:13:27,120 --> 00:13:30,640
+urinary tract disorder, which required two operations to correct.
+
+171
+00:13:31,060 --> 00:13:32,800
+I mean, it was just like one thing after the other.
+
+172
+00:13:33,200 --> 00:13:36,140
+And I could not figure out what was wrong with him.
+
+173
+00:13:36,580 --> 00:13:40,040
+Around this time, a newspaper reporter wrote a story about the canal
+
+174
+00:13:40,041 --> 00:13:41,380
+and what was buried in it.
+
+175
+00:13:42,200 --> 00:13:46,280
+Now the residents had an explanation for the mysterious substances and illnesses,
+
+176
+00:13:46,980 --> 00:13:49,640
+and Lois Gibbs decided something had to be done.
+
+177
+00:13:49,780 --> 00:13:54,080
+First, she tried to have her child transferred out of the school.
+
+178
+00:13:54,820 --> 00:13:58,840
+And they told her that they wouldn't do it because there was no problem.
+
+179
+00:13:59,160 --> 00:14:00,760
+There was no chemical problem there.
+
+180
+00:14:01,800 --> 00:14:07,460
+And so she started going up and down the street, talking to people, talking to neighbors,
+
+181
+00:14:07,461 --> 00:14:13,540
+asking if they were interested in joining a little group that would try to get the school cleaned up.
+
+182
+00:14:13,980 --> 00:14:19,420
+Awareness of the problem and complaints from the residents became much more widespread after the winter of 1977.
+
+183
+00:14:19,780 --> 00:14:28,880
+It was the precipitation event, the blizzard of 77, that actually overfilled the canal,
+
+184
+00:14:29,100 --> 00:14:37,120
+the bathtub effect, with all of the winter snow, etc., and the actual wet season that
+
+185
+00:14:37,121 --> 00:14:40,020
+we had in 1977 after this blizzard.
+
+186
+00:14:40,021 --> 00:14:46,540
+We had an early spring, an early thaw, and all the water was forced underneath the canal
+
+187
+00:14:46,541 --> 00:14:49,800
+from this clay pit, basically, to the top,
+
+188
+00:14:49,860 --> 00:14:52,300
+and it started oozing out of the top of the canal.
+
+189
+00:14:53,420 --> 00:14:57,880
+In the late 1970s, there were no conclusive answers about the health risks
+
+190
+00:14:57,881 --> 00:15:01,560
+and long-term effects of exposure to toxic wastes.
+
+191
+00:15:02,980 --> 00:15:05,740
+Nobody was really sure what wastes were in the canal,
+
+192
+00:15:06,100 --> 00:15:08,520
+but deadly dioxin was identified.
+
+193
+00:15:09,600 --> 00:15:12,900
+The Environmental Protection Agency had been formed just a few years earlier
+
+194
+00:15:12,901 --> 00:15:16,120
+and had not dealt with a public crisis like this before.
+
+195
+00:15:16,540 --> 00:15:20,580
+the residents' fear turned to frustration and anger.
+
+196
+00:15:21,180 --> 00:15:24,200
+We want us! We want us!
+
+197
+00:15:24,201 --> 00:15:27,820
+The Love Canal became the focus of the growing environmental movement
+
+198
+00:15:27,821 --> 00:15:31,040
+and was soon national news.
+
+199
+00:15:31,600 --> 00:15:35,380
+On August 7, 1978, then-president Jimmy Carter
+
+200
+00:15:35,381 --> 00:15:37,720
+declared Love Canal a disaster area
+
+201
+00:15:37,721 --> 00:15:42,020
+and those living nearest to the dump site were relocated.
+
+202
+00:15:42,021 --> 00:15:52,940
+Right after the first relocation in August of 1978, they erected a 10-foot fence, a green fence, so it would be environmentally pleasant, around Love Canal.
+
+203
+00:15:53,140 --> 00:15:58,320
+And then they put signs on the fence that said, hazardous area, dangerous, do not enter.
+
+204
+00:15:59,060 --> 00:16:02,700
+Infrared pictures were taken from the air to track the spread of the contaminants.
+
+205
+00:16:03,300 --> 00:16:06,640
+Gray or black in the photos revealed the presence of the chemical waste.
+
+206
+00:16:06,641 --> 00:16:11,560
+after another two years of activism by lois gibbs and other residents
+
+207
+00:16:11,561 --> 00:16:18,720
+a second presidential declaration cleared the way for another 500 families to be relocated
+
+208
+00:16:18,721 --> 00:16:24,460
+except for a few families who refused to move love canal became a ghost town
+
+209
+00:16:24,461 --> 00:16:33,080
+continuing studies revealed the contents of the canal there were over 400 chemicals found in the
+
+210
+00:16:33,081 --> 00:16:34,680
+leachate from the Love Canal Landfill.
+
+211
+00:16:35,020 --> 00:16:39,100
+From lead and arsenic to lindane,
+
+212
+00:16:39,560 --> 00:16:40,840
+a variety of other pesticides,
+
+213
+00:16:41,380 --> 00:16:45,780
+to solvents such as benzene, toluene, xylene,
+
+214
+00:16:46,380 --> 00:16:47,220
+a host of others.
+
+215
+00:16:48,100 --> 00:16:49,800
+Many of these chemicals cause cancer.
+
+216
+00:16:50,340 --> 00:16:52,980
+Some of them, many of them cause liver problems,
+
+217
+00:16:53,080 --> 00:16:53,780
+liver disease.
+
+218
+00:16:54,320 --> 00:16:56,580
+Many of them cause central nervous system problems.
+
+219
+00:16:56,760 --> 00:16:57,860
+Some cause birth defects.
+
+220
+00:16:58,240 --> 00:16:59,540
+Over the next few years,
+
+221
+00:16:59,940 --> 00:17:02,020
+extensive efforts were made to clean up the neighborhood.
+
+222
+00:17:02,021 --> 00:17:09,460
+We cleaned 65,000 lineal feet of storm sewers around that entire area.
+
+223
+00:17:09,461 --> 00:17:17,720
+And of course, the hazardous waste byproducts did find their way underground to a nearby set of creeks,
+
+224
+00:17:17,820 --> 00:17:21,080
+the Black and Burkholds Creeks that flow just north of Love Canal.
+
+225
+00:17:21,500 --> 00:17:27,980
+We ended up testing the creek sediment and discovering that the same hazardous waste byproducts that were buried
+
+226
+00:17:27,981 --> 00:17:33,080
+now have worked their way via water under the ground to the creek areas.
+
+227
+00:17:33,260 --> 00:17:37,240
+One of the remedies were to actually dredge the creek.
+
+228
+00:17:38,260 --> 00:17:41,980
+Crews dealing with the toxic dump itself decided that trying to remove,
+
+229
+00:17:42,240 --> 00:17:46,040
+transport and store the chemicals somewhere else was inviting further disaster.
+
+230
+00:17:48,620 --> 00:17:51,260
+The chemicals were going to have to stay where they were
+
+231
+00:17:51,261 --> 00:17:54,980
+and a better cover and containment system put in place.
+
+232
+00:17:55,980 --> 00:18:01,960
+The 99th Street School and 239 homes were demolished and placed on top of the canal,
+
+233
+00:18:02,700 --> 00:18:04,740
+and then covered with clay.
+
+234
+00:18:05,740 --> 00:18:09,400
+And over the top of it, we placed this synthetic liner,
+
+235
+00:18:09,940 --> 00:18:15,240
+and this synthetic liner went directly over the entire 40-acre area, okay?
+
+236
+00:18:15,540 --> 00:18:20,520
+And then after we placed the synthetic liner, we then installed this plastic liner.
+
+237
+00:18:20,521 --> 00:18:24,300
+This liner goes over the entire 40-acre area.
+
+238
+00:18:24,301 --> 00:18:32,700
+So when it rains, all of the precipitation will go through the ground and will actually hit the top of this liner, much like an umbrella.
+
+239
+00:18:33,020 --> 00:18:34,420
+It will run off of it.
+
+240
+00:18:34,740 --> 00:18:38,020
+The runoff is then collected in an underground barrier drain system.
+
+241
+00:18:39,000 --> 00:18:44,780
+It's then pumped up to the facility at the top of the Love Canal, where it's treated by carbon filters.
+
+242
+00:18:45,640 --> 00:18:50,120
+It is then discharged via storm sewer to the city of Niagara Falls as wastewater treatment plant,
+
+243
+00:18:50,121 --> 00:18:56,100
+where it undergoes more filtration before clean water is discharged into the upper Niagara River.
+
+244
+00:18:57,320 --> 00:19:06,000
+The capping and drainage system handles the material so well that anything that gets through is minimal.
+
+245
+00:19:06,760 --> 00:19:12,660
+And we have a series of over 200 monitoring wells in the entire neighborhood
+
+246
+00:19:12,661 --> 00:19:18,280
+to make sure that the groundwater is not being impacted by any of the contamination.
+
+247
+00:19:19,280 --> 00:19:24,980
+It's been more than a quarter of a century since the Love Canal first became a notorious environmental disaster.
+
+248
+00:19:26,780 --> 00:19:29,000
+New residents have been moving into the area.
+
+249
+00:19:29,940 --> 00:19:34,780
+But many of those who lived there previously will never consider it safe.
+
+250
+00:19:36,220 --> 00:19:38,880
+This is the earth. The earth shifts.
+
+251
+00:19:39,740 --> 00:19:46,240
+And we saw what happened in the blizzard of 77 when we had the snow melt and the river rose.
+
+252
+00:19:46,241 --> 00:19:50,200
+and that, they believe, created a lot of the Love Canal problem.
+
+253
+00:19:51,160 --> 00:19:53,640
+It's foolish to think that they can contain it.
+
+254
+00:19:54,000 --> 00:19:56,540
+The crisis at Love Canal created greater awareness
+
+255
+00:19:56,541 --> 00:19:59,120
+of America's growing problem with industrial wastes.
+
+256
+00:19:59,800 --> 00:20:04,460
+It was also primarily responsible for the creation of a federal program called Superfund.
+
+257
+00:20:05,340 --> 00:20:09,500
+Since its inception in 1980, Superfund has spent more than $16 billion
+
+258
+00:20:09,501 --> 00:20:14,900
+cleaning up over 2,000 hazardous waste sites around the United States,
+
+259
+00:20:14,901 --> 00:20:17,720
+including the infamous Love Canal.
+
+260
+00:20:19,780 --> 00:20:25,940
+Since 1978, more than $250 million has been spent on cleanup and containment
+
+261
+00:20:25,941 --> 00:20:28,400
+of the contents of the Love Canal.
+
+262
+00:20:29,380 --> 00:20:32,500
+Engineering Disasters will return on Modern Marvels.
+
+263
+00:20:33,300 --> 00:20:37,280
+We now return to Engineering Disasters on Modern Marvels.
+
+264
+00:20:39,320 --> 00:20:40,800
+Boston, Massachusetts.
+
+265
+00:20:41,560 --> 00:20:43,740
+In the heart of this great American city
+
+266
+00:20:43,741 --> 00:20:46,500
+lies a memorial embedded in the sidewalk.
+
+267
+00:20:47,980 --> 00:20:50,900
+To a visitor, it may be of little interest,
+
+268
+00:20:51,700 --> 00:20:52,980
+but to the longtime residents,
+
+269
+00:20:53,180 --> 00:20:54,940
+it is a reminder of the deadly inferno
+
+270
+00:20:54,941 --> 00:20:56,800
+at the Coconut Grove nightclub.
+
+271
+00:20:57,460 --> 00:20:59,580
+Well, for disasters in the United States,
+
+272
+00:21:00,100 --> 00:21:05,080
+the Coconut Grove up until the World Trade Center tragedy,
+
+273
+00:21:05,081 --> 00:21:08,720
+the Coconut Grove drank second after the Iroquois Theater fire
+
+274
+00:21:08,721 --> 00:21:11,900
+in Chicago in 1904 in terms of loss of life.
+
+275
+00:21:11,901 --> 00:21:17,380
+Back in 1904 there, they had over 600 people were killed there.
+
+276
+00:21:17,480 --> 00:21:19,780
+The Coconut Grove was 492 people,
+
+277
+00:21:20,260 --> 00:21:22,760
+certainly the largest tragedy in the city of Boston.
+
+278
+00:21:24,300 --> 00:21:28,300
+The night of November 28, 1942 was a cold night.
+
+279
+00:21:28,640 --> 00:21:31,340
+It was during the war, so there was a lot of gloominess in the air.
+
+280
+00:21:31,860 --> 00:21:33,000
+It was a chill in the air.
+
+281
+00:21:33,360 --> 00:21:36,080
+And people were out to have a good time.
+
+282
+00:21:36,680 --> 00:21:40,680
+And that night, there were, as best as we can figure,
+
+283
+00:21:40,681 --> 00:21:43,280
+about a thousand people packed into that club.
+
+284
+00:21:43,720 --> 00:21:46,740
+It was licensed for about 500 people.
+
+285
+00:21:47,480 --> 00:21:49,820
+The nightclub was a multi-room facility
+
+286
+00:21:49,821 --> 00:21:52,220
+that was originally built in a converted garage.
+
+287
+00:21:53,320 --> 00:21:57,260
+It was a brick building with wooden timbers in the floors and in the ceilings,
+
+288
+00:21:57,640 --> 00:22:02,580
+but the building itself was a good building to be used for a storage facility.
+
+289
+00:22:03,280 --> 00:22:06,020
+They should have had sprinklers back then, but the lodge didn't require it.
+
+290
+00:22:06,860 --> 00:22:10,420
+The club's decor was inspired by the Swank Coconut Grove Nightclub
+
+291
+00:22:10,421 --> 00:22:11,160
+in Los Angeles.
+
+292
+00:22:12,120 --> 00:22:15,660
+The Coconut Grove was designed to be a tropical paradise
+
+293
+00:22:15,661 --> 00:22:17,720
+in the middle of chilly Boston.
+
+294
+00:22:17,960 --> 00:22:19,360
+It had fake palm trees.
+
+295
+00:22:19,960 --> 00:22:24,400
+It had distinct patterns in its chairs and on the walls.
+
+296
+00:22:24,820 --> 00:22:28,320
+It had this kind of zebra pattern on a lot of the furniture.
+
+297
+00:22:28,620 --> 00:22:30,200
+There were bongo drums.
+
+298
+00:22:30,460 --> 00:22:32,060
+There was rattan furniture.
+
+299
+00:22:33,520 --> 00:22:35,380
+From the standpoint of fire safety,
+
+300
+00:22:36,040 --> 00:22:37,740
+the club's contents were a tinderbox
+
+301
+00:22:37,741 --> 00:22:39,320
+of highly combustible materials.
+
+302
+00:22:40,420 --> 00:22:42,972
+The fire began at about 10.15 p.m.
+
+303
+00:22:42,973 --> 00:22:48,600
+in the Melody Lounge located in the building's basement and spread quickly.
+
+304
+00:22:49,660 --> 00:22:55,600
+Its cause has most often been attributed to a busboy who lit a match too close to one of the synthetic palm trees.
+
+305
+00:22:57,800 --> 00:23:06,820
+Jimmy Duggan, enjoying an evening with his newlywed wife and four friends, was sitting in the main dining room upstairs and sensed something was wrong.
+
+306
+00:23:07,380 --> 00:23:11,540
+The few people that started coming up the stairs looked like they were going too fast for me.
+
+307
+00:23:12,700 --> 00:23:16,440
+It looked like somebody's down there with a gun or a butcher knife.
+
+308
+00:23:18,100 --> 00:23:20,560
+But you must remember, all this was going like that.
+
+309
+00:23:22,260 --> 00:23:25,000
+Milliseconds later than that is when it started big time.
+
+310
+00:23:27,700 --> 00:23:32,880
+The people rushing up from the downstairs lounge encountered the first of many exits,
+
+311
+00:23:33,300 --> 00:23:34,680
+from which there was no escape.
+
+312
+00:23:34,681 --> 00:23:38,780
+There was a door at the top of the stairs from the Melody Lounge to the outside.
+
+313
+00:23:39,540 --> 00:23:44,940
+And this door was even equipped with a panic bar, the kind of crash bar you're supposed to push on it and you're supposed to push through.
+
+314
+00:23:45,420 --> 00:23:46,320
+It was locked.
+
+315
+00:23:48,060 --> 00:23:53,720
+Panic spread as quickly as the flames, and a flood of patrons raced for the revolving door at the front entrance.
+
+316
+00:23:54,980 --> 00:23:57,820
+Some revolving doors are much larger than others.
+
+317
+00:23:58,660 --> 00:24:00,220
+This happened to be a pretty small one.
+
+318
+00:24:00,221 --> 00:24:05,020
+This revolving door, as I recall it, only lit at one person at a time.
+
+319
+00:24:05,640 --> 00:24:11,720
+That's when I got all of us, all six of us, down on the floor
+
+320
+00:24:11,721 --> 00:24:14,900
+and tell them to put their noses right on the floor
+
+321
+00:24:14,901 --> 00:24:17,600
+because I could see them were not going to get out.
+
+322
+00:24:20,720 --> 00:24:23,060
+First few people got through the doors that night,
+
+323
+00:24:23,061 --> 00:24:25,240
+but immediately the doors jammed.
+
+324
+00:24:25,380 --> 00:24:26,780
+A man was trapped in the doors.
+
+325
+00:24:27,540 --> 00:24:29,520
+People came behind and piled up.
+
+326
+00:24:29,521 --> 00:24:32,920
+Reportedly, the bodies piled up to about eight feet there that night.
+
+327
+00:24:33,380 --> 00:24:37,680
+People climbing over others, trying to escape through that the only way they knew out.
+
+328
+00:24:38,240 --> 00:24:42,700
+As the fire continued to spread, people throughout the club were trying to escape.
+
+329
+00:24:43,880 --> 00:24:45,700
+Some exits were hidden by curtains.
+
+330
+00:24:46,360 --> 00:24:49,500
+Others were locked to keep people from sneaking out without paying their bills.
+
+331
+00:24:51,020 --> 00:24:55,220
+One door had been installed in a way that guaranteed casualties in a panic situation.
+
+332
+00:24:56,180 --> 00:25:03,580
+It's tragic to see an inward opening door like existed in the Coconut Grove Broadway Street Lounge,
+
+333
+00:25:04,020 --> 00:25:09,140
+which becomes blocks soon after the first few people who start pushing against that door.
+
+334
+00:25:09,420 --> 00:25:12,720
+It's going to close shut. It stays shut. There's no way around it.
+
+335
+00:25:14,860 --> 00:25:18,200
+Witnesses there that night report the fire coming in.
+
+336
+00:25:18,280 --> 00:25:20,520
+They report a bluish flame, a yellow flame.
+
+337
+00:25:20,521 --> 00:25:24,300
+it rolled right in, not in like a forest fire effect,
+
+338
+00:25:25,000 --> 00:25:27,560
+eating on the satin draperies in the ceiling,
+
+339
+00:25:27,740 --> 00:25:30,680
+dropping down into the palm trees, the bamboo.
+
+340
+00:25:32,500 --> 00:25:34,900
+And I determined then at the very end
+
+341
+00:25:34,901 --> 00:25:37,500
+that we're not going to get out of here.
+
+342
+00:25:39,240 --> 00:25:42,220
+I took my jacket off and put it on my wife.
+
+343
+00:25:42,540 --> 00:25:43,840
+I spread that over her back.
+
+344
+00:25:44,240 --> 00:25:45,180
+It didn't take long.
+
+345
+00:25:45,660 --> 00:25:48,140
+I was the last one of the group of the six
+
+346
+00:25:48,141 --> 00:25:50,240
+that lost consciousness.
+
+347
+00:25:51,340 --> 00:25:55,840
+It took only a few minutes for the fire to deplete the oxygen supply in the nightclub.
+
+348
+00:25:56,400 --> 00:26:02,000
+Proof of that rapid consumption of the oxygen is the fact that the combustion of the materials,
+
+349
+00:26:02,080 --> 00:26:05,080
+the actual burning of the materials present that night, was limited.
+
+350
+00:26:05,560 --> 00:26:08,260
+There was not a total burnout of that Coconut Grove fire.
+
+351
+00:26:09,320 --> 00:26:13,480
+Another fire earlier that evening had brought the Boston Fire Department into the neighborhood,
+
+352
+00:26:13,960 --> 00:26:15,440
+enabling it to respond quickly.
+
+353
+00:26:16,040 --> 00:26:18,840
+Fire was extinguished within a half hour.
+
+354
+00:26:18,841 --> 00:26:23,180
+The department continued to rescue the victims, remove the victims.
+
+355
+00:26:23,960 --> 00:26:25,720
+The police department was on scene.
+
+356
+00:26:26,260 --> 00:26:29,800
+A lot of bystanders had come in now, a lot of soldiers, sailors.
+
+357
+00:26:30,280 --> 00:26:31,840
+They were coming in, helping out.
+
+358
+00:26:31,940 --> 00:26:33,920
+It was just overwhelming, the number of victims.
+
+359
+00:26:34,700 --> 00:26:38,540
+Taxi cabs, police cars, any truck or vehicle available
+
+360
+00:26:38,541 --> 00:26:42,560
+was pressed into service to transport these victims to the hospitals.
+
+361
+00:26:43,360 --> 00:26:48,080
+A lot of people died from what seemed to be a mysterious gas.
+
+362
+00:26:48,081 --> 00:26:53,760
+There were some people who had white foam on their lips, and the doctors were baffled by it.
+
+363
+00:26:53,780 --> 00:26:55,280
+It looked like they had been gassed to death.
+
+364
+00:26:56,120 --> 00:27:00,960
+It became evident that some of the gases emitted by the burning contents of the club must have been toxic.
+
+365
+00:27:01,960 --> 00:27:06,780
+One of the materials that came into question soon after the fire was the leatherette,
+
+366
+00:27:07,340 --> 00:27:13,320
+which was this false leather-resembling type material that was used in those days.
+
+367
+00:27:13,321 --> 00:27:23,960
+We don't have samples that we can analyze by our methods today and inspect it and test it and fire test to see how well it performs.
+
+368
+00:27:24,360 --> 00:27:26,860
+So this is part of the mystery of the Coconut Grove.
+
+369
+00:27:27,760 --> 00:27:33,660
+Because the fire moved through the club so fast, it is thought one of the gases could have been acting as an accelerant.
+
+370
+00:27:34,860 --> 00:27:37,760
+Fire seemed to have a momentum of its own.
+
+371
+00:27:37,761 --> 00:27:39,780
+I can only equate it to a ramjet engine,
+
+372
+00:27:40,440 --> 00:27:43,400
+where it just followed the oxygen, followed the fuel,
+
+373
+00:27:43,940 --> 00:27:46,920
+and just went through that place with lightning speed.
+
+374
+00:27:47,620 --> 00:27:49,500
+People were found in the new lounge,
+
+375
+00:27:50,240 --> 00:27:52,860
+sitting at the bar with their drinks in front of them.
+
+376
+00:27:52,861 --> 00:27:55,080
+When the firemen got in there, they told them,
+
+377
+00:27:55,280 --> 00:27:56,200
+come on, get out of the room.
+
+378
+00:27:56,500 --> 00:27:58,940
+And these people were dead, sitting in there at the tables,
+
+379
+00:27:59,380 --> 00:28:00,140
+sitting at the bar.
+
+380
+00:28:02,780 --> 00:28:05,500
+Many people who were there to help
+
+381
+00:28:05,501 --> 00:28:07,620
+were forever haunted by what they saw.
+
+382
+00:28:07,760 --> 00:28:09,440
+I mean, bodies were being pulled out of the club.
+
+383
+00:28:09,780 --> 00:28:12,300
+There were so many bodies, they were being stacked like cordwood.
+
+384
+00:28:12,440 --> 00:28:15,300
+I mean, this is the phrase you see over and over again with survivors.
+
+385
+00:28:15,420 --> 00:28:17,020
+They stack the bodies like cordwood.
+
+386
+00:28:20,460 --> 00:28:22,880
+Jimmy Duggan's wife was among the dead.
+
+387
+00:28:23,500 --> 00:28:24,820
+Jimmy woke up in the hospital
+
+388
+00:28:24,821 --> 00:28:28,080
+and began a long recovery from extensive burns.
+
+389
+00:28:29,140 --> 00:28:31,180
+In the trial that followed the disaster,
+
+390
+00:28:31,181 --> 00:28:34,900
+the owner of the Coconut Grove nightclub, Barney Walansky,
+
+391
+00:28:35,360 --> 00:28:37,320
+was found guilty of involuntary manslaughter.
+
+392
+00:28:37,760 --> 00:28:45,320
+The people who died and the people who suffered in the Coconut Grove fire did not do so in vain.
+
+393
+00:28:46,220 --> 00:28:53,860
+We've been able to look back and see the improvements in fire testing and materials, medical advances,
+
+394
+00:28:54,640 --> 00:28:58,600
+better understanding of disaster preparedness and disaster response.
+
+395
+00:28:59,400 --> 00:29:07,100
+The devastating fire on November 28, 1942, was responsible for improvements in stricter enforcement of building codes
+
+396
+00:29:07,101 --> 00:29:08,073
+across America.
+
+397
+00:29:08,074 --> 00:29:13,000
+In Boston, particular attention was paid to the safety code stipulating that
+
+398
+00:29:13,001 --> 00:29:19,620
+all revolving doors should be flanked by hinged doors that swing open outward. There
+
+399
+00:29:19,621 --> 00:29:24,680
+is another law in Boston that reveals the lasting psychological effect of this disaster.
+
+400
+00:29:26,100 --> 00:29:29,820
+It is illegal to name a new nightclub, the Coconut Grove.
+
+401
+00:29:32,580 --> 00:29:36,720
+Burn victims from the Coconut Grove fire were among the first patients to be treated
+
+402
+00:29:36,721 --> 00:29:39,580
+with a new antibiotic, penicillin.
+
+403
+00:29:40,820 --> 00:29:43,540
+Engineering Disasters will return on Modern Marvels.
+
+404
+00:29:44,660 --> 00:29:48,360
+We now return to Engineering Disasters on Modern Marvels.
+
+405
+00:29:49,240 --> 00:29:49,940
+Computers.
+
+406
+00:29:50,440 --> 00:29:54,120
+We've all come to accept the often frustrating problems that go with them.
+
+407
+00:29:55,180 --> 00:29:57,300
+Bugs, viruses, and software glitches
+
+408
+00:29:57,301 --> 00:30:00,060
+are small prices to pay for the convenience.
+
+409
+00:30:00,900 --> 00:30:04,660
+But in high-tech and high-speed military and space program applications,
+
+410
+00:30:04,661 --> 00:30:09,000
+The smallest problem can be magnified into disaster.
+
+411
+00:30:10,700 --> 00:30:16,440
+On June 4, 1996, scientists prepared to launch an unmanned Ariane 5 rocket.
+
+412
+00:30:16,820 --> 00:30:23,420
+It was carrying scientific satellites designed to establish precisely how the Earth's magnetic field interacts with solar winds.
+
+413
+00:30:24,780 --> 00:30:31,380
+The rocket was built for the European Space Agency and lifted off from its facility on the coast of French Guiana.
+
+414
+00:30:32,260 --> 00:30:36,840
+At about 37 seconds into the flight, they first noticed something was going wrong,
+
+415
+00:30:37,020 --> 00:30:39,760
+that the nozzles were swiveling in a way they really shouldn't.
+
+416
+00:30:40,180 --> 00:30:44,160
+Around 40 seconds into the flight, clearly the vehicle was in trouble,
+
+417
+00:30:44,161 --> 00:30:46,440
+and that's when they made the decision to destroy it.
+
+418
+00:30:46,820 --> 00:30:50,260
+The range safety officer, with tremendous guts, pressed the button,
+
+419
+00:30:50,700 --> 00:30:54,900
+blew up the rocket before it could become a hazard to public safety.
+
+420
+00:30:55,780 --> 00:30:58,440
+This was the maiden voyage of the Ariane 5,
+
+421
+00:30:58,441 --> 00:31:03,320
+and its destruction took place because of a flaw embedded in the rocket's software.
+
+422
+00:31:04,040 --> 00:31:08,060
+The problem on the Arian was that there was a number that required 64 bits to express
+
+423
+00:31:08,061 --> 00:31:10,960
+and they wanted to convert it to a 16-bit number.
+
+424
+00:31:11,480 --> 00:31:14,720
+They assumed that the number was never going to be very big,
+
+425
+00:31:14,800 --> 00:31:17,600
+that most of those digits in the 64-bit number were zeros.
+
+426
+00:31:18,680 --> 00:31:19,520
+They were wrong.
+
+427
+00:31:19,900 --> 00:31:24,820
+The inability of one software program to accept the kind of number generated by another
+
+428
+00:31:24,821 --> 00:31:26,680
+was at the root of the failure.
+
+429
+00:31:27,480 --> 00:31:30,760
+Software development had become a very costly part of new technology.
+
+430
+00:31:31,860 --> 00:31:34,460
+The Ariane 4 rocket had been very successful,
+
+431
+00:31:35,000 --> 00:31:38,600
+so much of the software created for it was also used in the Ariane 5.
+
+432
+00:31:39,260 --> 00:31:45,080
+The basic problem was that the Ariane 5 was faster, accelerated faster,
+
+433
+00:31:45,800 --> 00:31:48,800
+and the software hadn't accounted for that.
+
+434
+00:31:48,801 --> 00:31:52,100
+The destruction of the rocket was a huge financial disaster,
+
+435
+00:31:52,840 --> 00:31:55,080
+all due to a minute software error.
+
+436
+00:31:56,080 --> 00:32:00,820
+But this wasn't the first time data conversion problems had plagued modern rocket technology.
+
+437
+00:32:02,220 --> 00:32:05,560
+In 1991, with the start of the first Gulf War,
+
+438
+00:32:06,020 --> 00:32:10,060
+the Patriot missile experienced a similar kind of number conversion problem.
+
+439
+00:32:10,720 --> 00:32:16,440
+And as a result, 28 people, 28 American soldiers were killed and about 100 others wounded
+
+440
+00:32:16,441 --> 00:32:22,540
+when the Patriot, which was supposed to protect against incoming scuds, failed to fire a missile.
+
+441
+00:32:23,320 --> 00:32:28,240
+When Iraq invaded Kuwait and America launched Desert Storm in early 1991,
+
+442
+00:32:29,620 --> 00:32:33,160
+Patriot missile batteries were deployed to protect Saudi Arabia and Israel
+
+443
+00:32:33,161 --> 00:32:35,400
+from Iraqi Scud missile attacks.
+
+444
+00:32:36,620 --> 00:32:40,260
+The Patriot is a U.S. medium-range surface-to-air system
+
+445
+00:32:40,261 --> 00:32:42,760
+manufactured by the Raytheon Company.
+
+446
+00:32:44,180 --> 00:32:49,420
+The size of the Patriot interceptor itself is about roughly 20 feet long,
+
+447
+00:32:49,780 --> 00:32:52,220
+and it weighs about 2,000 pounds.
+
+448
+00:32:52,540 --> 00:32:57,140
+And it carries a warhead of about, I think it's roughly 150 pounds.
+
+449
+00:32:57,280 --> 00:33:04,240
+And the warhead itself is a high explosive, which has fragments around it.
+
+450
+00:33:04,660 --> 00:33:09,120
+The casing of the warhead is designed to act like buckshot.
+
+451
+00:33:09,520 --> 00:33:13,800
+The missiles are carried four per container and are transported by a semi-trailer.
+
+452
+00:33:14,540 --> 00:33:22,140
+The Patriot anti-missile system goes back at least 20 years now.
+
+453
+00:33:22,540 --> 00:33:28,120
+It was originally designed as an air defense missile to shoot down enemy airplanes.
+
+454
+00:33:28,580 --> 00:33:31,640
+In the first Gulf War, when that war came along,
+
+455
+00:33:32,360 --> 00:33:36,860
+the Army wanted to use it to shoot down scuds, not airplanes.
+
+456
+00:33:37,740 --> 00:33:40,780
+The Iraqi Air Force was not so much of a problem,
+
+457
+00:33:41,320 --> 00:33:43,720
+but the Army was worried about scuds.
+
+458
+00:33:44,100 --> 00:33:47,420
+And so they tried to upgrade the Patriot.
+
+459
+00:33:48,100 --> 00:33:52,120
+Intercepting an enemy missile traveling at Mach 5 was going to be challenging enough.
+
+460
+00:33:52,540 --> 00:33:59,540
+But when the Patriot was rushed into service, the Army was not aware of an Iraqi modification
+
+461
+00:33:59,541 --> 00:34:03,540
+that made their Scuds nearly impossible to hit.
+
+462
+00:34:03,541 --> 00:34:09,540
+What happened is the Scuds that were coming in were unstable, they were wobbly.
+
+463
+00:34:09,541 --> 00:34:16,540
+The reason for this was the Iraqis, in order to get 600 kilometers out of a 300 kilometer range missile,
+
+464
+00:34:16,541 --> 00:34:20,540
+took weight out of the front warhead. They made the warhead lighter.
+
+465
+00:34:20,541 --> 00:34:30,160
+So now the Patriot's trying to come at the Scud, and most of the time, the overwhelming majority of the time, it would just fly by the Scud.
+
+466
+00:34:30,740 --> 00:34:40,142
+Once the Patriot system operators realized the Patriot missed its target, they detonated the Patriot's warhead to avoid possible casualties if it was allowed to fall
+
+467
+00:34:40,143 --> 00:34:40,940
+to the ground.
+
+468
+00:34:40,941 --> 00:34:51,920
+That was what most people saw as big fireballs in the sky and misunderstood as intercepts of Scud warheads.
+
+469
+00:34:52,200 --> 00:34:56,380
+Although in the night skies, Patriots appeared to be successfully destroying Scuds,
+
+470
+00:34:57,100 --> 00:35:00,080
+at Daharan, there could be no mistake about its performance.
+
+471
+00:35:01,240 --> 00:35:08,460
+There, the Patriots' radar system lost track of an incoming Scud and never launched due to a software flaw.
+
+472
+00:35:10,940 --> 00:35:15,280
+It was the Israelis who first discovered that the longer the system was on,
+
+473
+00:35:16,360 --> 00:35:21,580
+the greater the time discrepancy became, due to a clock embedded in the system's computer.
+
+474
+00:35:22,680 --> 00:35:25,680
+About two weeks before the tragedy in Dara'in,
+
+475
+00:35:26,080 --> 00:35:30,280
+the Israelis reported to the Defense Department that the system was losing time.
+
+476
+00:35:30,281 --> 00:35:35,060
+After about eight hours of running, they noticed that the system was becoming noticeably less accurate.
+
+477
+00:35:35,660 --> 00:35:39,360
+The Defense Department responded by telling all of the Patriot batteries
+
+478
+00:35:39,361 --> 00:35:42,100
+to not leave the systems on for a long time.
+
+479
+00:35:42,720 --> 00:35:44,200
+They never said what a long time was.
+
+480
+00:35:44,880 --> 00:35:46,620
+Eight hours, ten hours, a thousand hours.
+
+481
+00:35:47,000 --> 00:35:47,700
+Nobody knew.
+
+482
+00:35:48,900 --> 00:35:51,820
+The Patriot battery stationed at the barracks at Daharan
+
+483
+00:35:51,821 --> 00:35:53,900
+and its flawed internal clock
+
+484
+00:35:53,901 --> 00:35:58,020
+had been on over a hundred hours on the night of February 25th.
+
+485
+00:35:59,220 --> 00:36:02,860
+It tracked time to an accuracy of about a tenth of a second.
+
+486
+00:36:03,920 --> 00:36:05,860
+Now, a tenth of a second is an interesting number
+
+487
+00:36:05,861 --> 00:36:08,820
+because it can't be expressed in binary exactly.
+
+488
+00:36:09,360 --> 00:36:13,520
+which means it can't be expressed exactly in any modern digital computer.
+
+489
+00:36:14,160 --> 00:36:17,900
+It's hard to believe, but use this as an example.
+
+490
+00:36:18,980 --> 00:36:20,220
+Let's take the number one-third.
+
+491
+00:36:21,120 --> 00:36:24,620
+One-third cannot be expressed in decimal exactly.
+
+492
+00:36:25,300 --> 00:36:28,520
+One-third is .333 going on for infinity.
+
+493
+00:36:29,660 --> 00:36:33,980
+There's no way to do that with absolute accuracy in decimal.
+
+494
+00:36:34,320 --> 00:36:37,180
+That's exactly the same kind of problem that happened in the Patriot.
+
+495
+00:36:37,181 --> 00:36:41,120
+The longer the system ran, the worse the time error became.
+
+496
+00:36:41,860 --> 00:36:47,320
+After 100 hours of operation, the error in time was only about one-third of a second.
+
+497
+00:36:48,180 --> 00:36:51,120
+But in terms of targeting a missile traveling at Mach 5,
+
+498
+00:36:51,940 --> 00:36:55,620
+it resulted in a tracking error of over 600 meters.
+
+499
+00:36:56,440 --> 00:36:59,260
+It would be a fatal error for the soldiers at Daharan.
+
+500
+00:36:59,800 --> 00:37:06,520
+What happened is a Scud launch was detected by early warning satellites,
+
+501
+00:37:06,521 --> 00:37:10,560
+and they knew that the Scud was coming in their general direction.
+
+502
+00:37:10,700 --> 00:37:12,020
+They didn't know where it was coming.
+
+503
+00:37:12,740 --> 00:37:15,900
+It was now up to the radar component of the Patriot system,
+
+504
+00:37:16,220 --> 00:37:17,080
+defending Daharan,
+
+505
+00:37:17,760 --> 00:37:20,260
+to locate and keep track of the incoming enemy missile.
+
+506
+00:37:21,000 --> 00:37:22,320
+The radar was very smart.
+
+507
+00:37:22,720 --> 00:37:24,420
+It would actually track the position of the Scud
+
+508
+00:37:24,421 --> 00:37:26,920
+and then predict where it probably would be
+
+509
+00:37:26,921 --> 00:37:28,840
+the next time the radar sent a pulse out.
+
+510
+00:37:29,280 --> 00:37:30,560
+That was called the range gate.
+
+511
+00:37:30,960 --> 00:37:34,060
+Then, once the Patriot decides
+
+512
+00:37:34,061 --> 00:37:36,440
+enough time has passed to go back
+
+513
+00:37:36,441 --> 00:37:41,060
+and check the next location for this detected object, it goes back.
+
+514
+00:37:41,460 --> 00:37:45,740
+So when it went back to the wrong place, it then sees no object,
+
+515
+00:37:46,340 --> 00:37:51,120
+and it decides that there was no object that was a false detection, and drops the track.
+
+516
+00:37:51,640 --> 00:37:54,380
+The incoming Scud disappeared from the radar screen,
+
+517
+00:37:54,880 --> 00:37:57,420
+and seconds later, it slammed into the barracks.
+
+518
+00:37:57,600 --> 00:38:03,020
+The Scud killed 28, and was the last one fired during the first Gulf War.
+
+519
+00:38:03,021 --> 00:38:08,720
+Tragically, the updated software arrived at Daharan the following day.
+
+520
+00:38:09,900 --> 00:38:15,720
+The software flaw had been fixed, closing one chapter in the troubled history of the Patriot missile.
+
+521
+00:38:18,800 --> 00:38:24,000
+Patriot is actually an acronym for Phased Array Tracking Intercept of Target.
+
+522
+00:38:25,580 --> 00:38:28,560
+Engineering Disasters will return on Modern Marvels.
+
+523
+00:38:28,561 --> 00:38:33,560
+We now return to Engineering Disasters on Modern Marvels.
+
+524
+00:38:34,560 --> 00:38:38,740
+Architects and building engineers are endlessly refining the technology of construction.
+
+525
+00:38:40,200 --> 00:38:45,980
+But man's penchant for erecting large structures has resulted in the development of another engineering skill.
+
+526
+00:38:47,440 --> 00:38:49,680
+Building demolition by implosion.
+
+527
+00:38:49,681 --> 00:38:58,920
+for nearly a century with some strategically placed charges and the push of a plunger
+
+528
+00:38:58,921 --> 00:39:02,520
+building after building has collapsed on cue
+
+529
+00:39:02,521 --> 00:39:12,500
+an implosion of a building is a more efficient function than a proper way of doing it
+
+530
+00:39:12,501 --> 00:39:18,060
+when you do the hammer and ball it takes a great deal of time and it can be very sloppy
+
+531
+00:39:18,061 --> 00:39:22,060
+A controlled implosion usually uses the laws of physics.
+
+532
+00:39:22,400 --> 00:39:26,740
+So it's a controlled explosion, and the building comes down in one big heap,
+
+533
+00:39:26,840 --> 00:39:29,260
+and you can usually just truck out the material.
+
+534
+00:39:33,320 --> 00:39:38,700
+The term implosion is often used, but scientifically speaking, it's not an implosion,
+
+535
+00:39:39,140 --> 00:39:44,400
+but rather a set of carefully planned explosions that cause the building to fall in on itself.
+
+536
+00:39:44,401 --> 00:39:48,660
+generally to bring down a building
+
+537
+00:39:48,661 --> 00:39:52,940
+blasters will explode the major support columns on the lower floors first
+
+538
+00:39:52,941 --> 00:39:57,920
+and a few of the upper stories in taller buildings different explosives are used
+
+539
+00:39:57,921 --> 00:39:59,120
+for different materials
+
+540
+00:39:59,121 --> 00:40:04,600
+when done properly it's the safest and fastest way to level a multi-story
+
+541
+00:40:04,601 --> 00:40:11,600
+structure
+
+542
+00:40:11,601 --> 00:40:17,480
+But in May of 1989, one building refused to be brought to its knees.
+
+543
+00:40:20,200 --> 00:40:31,600
+In Providence, Rhode Island, a 10-story public housing structure stood its ground, not only once, but for a second time.
+
+544
+00:40:32,660 --> 00:40:35,660
+It was a most curious sort of engineering disaster.
+
+545
+00:40:36,580 --> 00:40:39,820
+A local company, Bill Ray Demolition, was in charge
+
+546
+00:40:39,821 --> 00:40:42,420
+and brought in New York implosion specialists
+
+547
+00:40:42,421 --> 00:40:46,580
+to bring down the building as part of a multi-million dollar modernization of the area.
+
+548
+00:40:47,440 --> 00:40:51,160
+The buildings in the housing project to be destroyed were built in the 50s,
+
+549
+00:40:51,540 --> 00:40:55,460
+and to the original architect's credit, turned out to be sturdier than expected.
+
+550
+00:40:56,580 --> 00:41:00,640
+The buildings were constructed with poured concrete and rebar
+
+551
+00:41:00,641 --> 00:41:05,100
+using a honeycomb design, which sort of reinforced themselves.
+
+552
+00:41:05,660 --> 00:41:10,020
+As the demolition team prepared the building, excitement built in Providence.
+
+553
+00:41:10,740 --> 00:41:15,900
+And in preparing the building, because they drilled thousands of holes in the first and second floor,
+
+554
+00:41:16,260 --> 00:41:19,980
+took out doors and windows that existed and drilled these holes.
+
+555
+00:41:19,981 --> 00:41:25,400
+And connecting with detonation cord, they put in around a quarter pound of dynamite.
+
+556
+00:41:26,940 --> 00:41:32,420
+650 pounds of explosives were embedded in the steel-reinforced concrete on the first and second floors
+
+557
+00:41:32,421 --> 00:41:35,480
+that provided support for the T-shaped structure.
+
+558
+00:41:35,660 --> 00:41:40,120
+Early on the morning of May 21st, a warning horn sounded.
+
+559
+00:41:41,060 --> 00:41:45,260
+And a few minutes later at 8.30 a.m., the plunger was pushed.
+
+560
+00:41:48,380 --> 00:41:52,700
+There was a huge explosion, rocked the general area,
+
+561
+00:41:53,240 --> 00:41:57,000
+and a big cloud of smoke came up that engulfed the entire building.
+
+562
+00:41:57,001 --> 00:42:01,880
+The only thing I remember seeing is two seagulls on the roof of this 10-story high-rise.
+
+563
+00:42:02,280 --> 00:42:05,200
+They remained in sight throughout the implosion.
+
+564
+00:42:05,660 --> 00:42:08,160
+Then we noticed that the building hadn't even moved.
+
+565
+00:42:08,420 --> 00:42:11,660
+It was kind of embarrassing to both the explosive company and my father's company
+
+566
+00:42:11,661 --> 00:42:14,540
+because, you know, we're out there experiencing this field
+
+567
+00:42:14,541 --> 00:42:16,560
+and we do it every day of our lives, and all of a sudden,
+
+568
+00:42:17,560 --> 00:42:19,580
+failure just happens in front of you, in front of your eyes.
+
+569
+00:42:20,700 --> 00:42:22,320
+And it was just embarrassing.
+
+570
+00:42:22,860 --> 00:42:25,760
+Well, after the first demolition implosion failed,
+
+571
+00:42:26,240 --> 00:42:29,960
+we conducted a planning meeting with all the public safety officials
+
+572
+00:42:29,961 --> 00:42:31,900
+and the implosion specialists
+
+573
+00:42:31,901 --> 00:42:34,720
+and determined that what was holding the building up
+
+574
+00:42:34,721 --> 00:42:38,400
+was the heavy end stairwells for the building.
+
+575
+00:42:40,160 --> 00:42:42,480
+After setting new charges in the stairwells,
+
+576
+00:42:42,640 --> 00:42:45,440
+at 1.30 p.m., the plunger came down a second time.
+
+577
+00:42:48,620 --> 00:42:50,360
+And when that second charge went off
+
+578
+00:42:50,361 --> 00:42:52,100
+and that building started to fall,
+
+579
+00:42:52,680 --> 00:42:54,200
+you had the excitement thinking it was going to go.
+
+580
+00:42:54,880 --> 00:42:57,320
+And all of a sudden, it just got bombed up between each other and stood there.
+
+581
+00:43:04,720 --> 00:43:15,348
+Well, there seemed to be a great deal of laughter from the crowd, a great deal of befuddlement on behalf of the staff and the project managers.
+
+582
+00:43:15,349 --> 00:43:17,280
+We were very disappointed.
+
+583
+00:43:18,340 --> 00:43:22,980
+The building had fallen about 30 feet and was leaning at a 20 degree angle.
+
+584
+00:43:23,540 --> 00:43:27,859
+You had a 10 story high rise leaning towards the public streets.
+
+585
+00:43:27,860 --> 00:43:31,300
+So it was a disaster. It was quite scary, actually.
+
+586
+00:43:31,680 --> 00:43:34,340
+They knew at that point that a third set of charges wouldn't work
+
+587
+00:43:34,341 --> 00:43:38,040
+because of the way the structure was now collapsed and leaning into each other.
+
+588
+00:43:38,640 --> 00:43:39,740
+There was no way for it to fall.
+
+589
+00:43:40,600 --> 00:43:43,700
+So they started voicing their other options, and that's when they had meetings
+
+590
+00:43:43,701 --> 00:43:46,600
+and came to the conclusion that it had to come down with a wrecking ball.
+
+591
+00:43:47,520 --> 00:43:51,540
+What was supposed to take seconds now is going to take several weeks.
+
+592
+00:43:52,180 --> 00:43:55,480
+Streets had to stay closed and homes and businesses evacuated
+
+593
+00:43:55,481 --> 00:43:58,860
+until the remains of the leaning building were deemed safe.
+
+594
+00:43:58,861 --> 00:44:03,760
+Slowly, the building was pounded into submission without further incident.
+
+595
+00:44:04,640 --> 00:44:07,060
+But the failed implosion was the talk of the town.
+
+596
+00:44:07,720 --> 00:44:13,220
+Well, in good American spirit, entrepreneurial spirit, we tried to make lemonade with the lemons,
+
+597
+00:44:13,340 --> 00:44:14,600
+even though they were sour lemons.
+
+598
+00:44:14,780 --> 00:44:19,060
+What happened is a number of people were taking photographs.
+
+599
+00:44:20,060 --> 00:44:24,860
+Someone talked about the Tower of Pisa, so we said now we have the Leaning Tower of Providence.
+
+600
+00:44:24,861 --> 00:44:30,820
+So we made some t-shirts up and actually made some money on the event.
+
+601
+00:44:33,780 --> 00:44:37,300
+Today there are a series of low-rise public housing units
+
+602
+00:44:37,301 --> 00:44:42,400
+where the Leaning Tower of Providence defiantly once stood.
+

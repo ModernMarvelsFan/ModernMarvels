@@ -1,0 +1,3368 @@
+1
+00:00:00,001 --> 00:00:03,800
+They're the towering sun temples that could power
+
+2
+00:00:03,900 --> 00:00:06,340
+the largest metropolis, and the kites
+
+3
+00:00:06,440 --> 00:00:08,740
+that could pull gigantic ships.
+
+4
+00:00:08,840 --> 00:00:11,740
+They're factories that clean up our messes,
+
+5
+00:00:11,840 --> 00:00:16,480
+the cars that run on air, the smart switches,
+
+6
+00:00:16,580 --> 00:00:19,120
+air conditioners made out of ice,
+
+7
+00:00:19,220 --> 00:00:22,060
+and the rooftop turbines that capture the wind.
+
+8
+00:00:22,160 --> 00:00:24,400
+What you might call a modern marvel.
+
+9
+00:00:24,500 --> 00:00:28,060
+Hey, that's a good idea for a TV show.
+
+10
+00:00:28,061 --> 00:00:31,060
+Now, just in time to save the planet,
+
+11
+00:00:31,160 --> 00:00:34,060
+Environmental Tech 2 on Modern Marvels.
+
+12
+00:00:45,620 --> 00:00:52,760
+We're burning too much carbon, which puts us in the midst
+
+13
+00:00:52,860 --> 00:00:56,060
+of a global warming meltdown.
+
+14
+00:00:56,061 --> 00:00:57,860
+But help is on the way.
+
+15
+00:00:57,960 --> 00:00:59,660
+Just as we've created the problem,
+
+16
+00:00:59,760 --> 00:01:01,360
+we're creating the solutions.
+
+17
+00:01:01,460 --> 00:01:03,900
+We now realize that technology is actually
+
+18
+00:01:04,000 --> 00:01:07,800
+what's going to solve this problem for us to a large degree.
+
+19
+00:01:07,900 --> 00:01:10,300
+And it can be done on a small scale.
+
+20
+00:01:10,400 --> 00:01:12,380
+Windmills are nothing new.
+
+21
+00:01:12,480 --> 00:01:15,720
+But this one, on top of Jay Leno's 16,000 square foot
+
+22
+00:01:15,820 --> 00:01:17,520
+garage, has a secret.
+
+23
+00:01:17,620 --> 00:01:20,120
+It doesn't care which way the wind blows.
+
+24
+00:01:20,220 --> 00:01:21,720
+I think the really cool thing about it
+
+25
+00:01:21,820 --> 00:01:23,920
+is you're utilizing something that has always been here,
+
+26
+00:01:24,020 --> 00:01:25,120
+the wind.
+
+27
+00:01:25,121 --> 00:01:26,320
+You're not changing it.
+
+28
+00:01:26,321 --> 00:01:27,620
+You're not altering it.
+
+29
+00:01:27,621 --> 00:01:29,720
+There's no byproduct of the wind.
+
+30
+00:01:29,721 --> 00:01:32,020
+The wind is going on 24 hours a day.
+
+31
+00:01:32,021 --> 00:01:33,320
+And since we're right near the airport,
+
+32
+00:01:33,321 --> 00:01:37,160
+every time a jet takes off, 100 watts!
+
+33
+00:01:37,161 --> 00:01:40,800
+Supplying Leno with ample wattage is Phil Watkins,
+
+34
+00:01:40,801 --> 00:01:44,040
+inventor and owner of PacWind, Incorporated.
+
+35
+00:01:44,041 --> 00:01:47,000
+To him, harnessing the wind is not only a passion,
+
+36
+00:01:47,001 --> 00:01:49,940
+it's the future of home energy.
+
+37
+00:01:49,941 --> 00:01:51,780
+You can actually see the energy being made,
+
+38
+00:01:51,781 --> 00:01:53,480
+and just kind of a thrilling experience.
+
+39
+00:01:53,481 --> 00:01:55,640
+You know, you look up, you know the wind's blowing,
+
+40
+00:01:55,740 --> 00:01:57,820
+and you say, OK, am I making any electricity?
+
+41
+00:01:57,920 --> 00:01:59,020
+You can run over to the meter.
+
+42
+00:01:59,120 --> 00:02:00,020
+You can see it happening.
+
+43
+00:02:03,120 --> 00:02:06,220
+What's happening is wind being used to drive a turbine that
+
+44
+00:02:06,320 --> 00:02:10,240
+produces electricity for immediate use.
+
+45
+00:02:10,340 --> 00:02:12,440
+When the electricity isn't being used,
+
+46
+00:02:12,540 --> 00:02:15,240
+it can be stored in a battery for later.
+
+47
+00:02:15,340 --> 00:02:16,440
+Wind storms are welcome.
+
+48
+00:02:19,840 --> 00:02:23,480
+Traditional wind turbines, those propeller-driven giants,
+
+49
+00:02:23,481 --> 00:02:26,520
+perched in windy areas are capable of producing
+
+50
+00:02:26,521 --> 00:02:28,920
+several megawatts.
+
+51
+00:02:28,921 --> 00:02:33,760
+But to drive them, the wind has to hit them just right.
+
+52
+00:02:33,761 --> 00:02:37,200
+Imagine this is a propeller, and the propeller
+
+53
+00:02:37,201 --> 00:02:40,260
+is spinning around an axle, OK?
+
+54
+00:02:40,261 --> 00:02:42,200
+Well, in order for the propeller to spin,
+
+55
+00:02:42,201 --> 00:02:44,800
+the wind has to interact with the face of the blade.
+
+56
+00:02:44,801 --> 00:02:46,440
+If the wind is coming from this direction,
+
+57
+00:02:46,441 --> 00:02:50,400
+that means the blade has to turn in that direction
+
+58
+00:02:50,401 --> 00:02:52,080
+for the wind to interact with the foil
+
+59
+00:02:52,081 --> 00:02:56,020
+and cause it to turn. Making wind turbines for the home
+
+60
+00:02:56,021 --> 00:03:00,420
+is a matter of design. Using lightweight composite material,
+
+61
+00:03:00,421 --> 00:03:05,120
+Packwind is making it possible to put wind power on the roof.
+
+62
+00:03:05,121 --> 00:03:08,740
+The veins in the vertical axis can accept wind from any
+
+63
+00:03:08,741 --> 00:03:10,700
+direction. We can catch wind in this area
+
+64
+00:03:10,701 --> 00:03:14,360
+here, or in this area here, or in this area here.
+
+65
+00:03:14,361 --> 00:03:18,380
+Any one of these surfaces we can catch the wind from.
+
+66
+00:03:18,381 --> 00:03:21,780
+When it comes to performance, Packwind has more
+
+67
+00:03:21,781 --> 00:03:26,280
+ways than one to grab the wind. Essentially, you're looking at two
+
+68
+00:03:26,281 --> 00:03:29,405
+machines that will produce about the same amount of energy.
+
+69
+00:03:29,406 --> 00:03:31,100
+This one is spinning at a slower
+
+70
+00:03:31,101 --> 00:03:34,634
+speed, but it has a lot more cross-sectional area to it.
+
+71
+00:03:34,635 --> 00:03:36,780
+So that means more area means more
+
+72
+00:03:36,781 --> 00:03:41,566
+power. On the other hand, making power is also a function of speed.
+
+73
+00:03:41,567 --> 00:03:42,780
+So the faster you
+
+74
+00:03:42,781 --> 00:03:44,232
+go, the more power you make.
+
+75
+00:03:44,233 --> 00:03:47,500
+So essentially, they'll produce about the same amount of power.
+
+76
+00:03:47,501 --> 00:03:50,400
+In this 10-mile-per-hour wind, these turbines
+
+77
+00:03:50,500 --> 00:03:53,400
+are churning out approximately 250 watts,
+
+78
+00:03:53,500 --> 00:03:58,340
+or about a combined television and refrigerator's worth.
+
+79
+00:03:58,440 --> 00:04:00,740
+Multiply that by a city or a state,
+
+80
+00:04:00,840 --> 00:04:03,180
+and billions of tons of greenhouse gases
+
+81
+00:04:03,280 --> 00:04:06,260
+will never blow into the atmosphere.
+
+82
+00:04:06,360 --> 00:04:09,860
+And then there's the Mondo version for those homes
+
+83
+00:04:09,960 --> 00:04:13,160
+in need of a really big jolt.
+
+84
+00:04:13,260 --> 00:04:16,620
+Like this one, on Jay Leno's 16,000-square-foot
+
+85
+00:04:16,621 --> 00:04:20,220
+40,000-square-foot classic car garage.
+
+86
+00:04:20,320 --> 00:04:22,120
+I don't want to take anybody else's energy.
+
+87
+00:04:22,220 --> 00:04:24,260
+I'd like to make all my own energy myself.
+
+88
+00:04:24,360 --> 00:04:26,560
+I'd like to make as much as I want.
+
+89
+00:04:26,660 --> 00:04:28,560
+So while PacWind founder Phil Watkins
+
+90
+00:04:28,660 --> 00:04:31,660
+installs the turbine, electrician George Thomas
+
+91
+00:04:31,760 --> 00:04:34,280
+connects it to the power grid.
+
+92
+00:04:34,380 --> 00:04:38,880
+Add in some solar panels and let the savings begin.
+
+93
+00:04:38,980 --> 00:04:41,680
+Switch on, switch on.
+
+94
+00:04:41,780 --> 00:04:43,080
+OK, we're reading good, right?
+
+95
+00:04:43,180 --> 00:04:44,280
+We're reading good.
+
+96
+00:04:44,380 --> 00:04:45,320
+OK.
+
+97
+00:04:45,321 --> 00:04:48,320
+that's not being used is being fed back into the grid.
+
+98
+00:04:48,420 --> 00:04:50,820
+If the lights are off here during the nighttime
+
+99
+00:04:50,920 --> 00:04:53,520
+and the turbine takes off, this thing can spin back
+
+100
+00:04:53,620 --> 00:04:55,760
+at 10,000 watts all night long.
+
+101
+00:04:55,860 --> 00:04:58,060
+And so you can literally spin the meter backward.
+
+102
+00:04:58,160 --> 00:05:00,360
+Any time you give power back, well, that's great.
+
+103
+00:05:00,460 --> 00:05:02,380
+I mean, obviously, if we can run the lights,
+
+104
+00:05:02,480 --> 00:05:04,180
+we don't do a lot of heavy work in this building.
+
+105
+00:05:04,280 --> 00:05:05,880
+It's mostly just lights and air conditioning.
+
+106
+00:05:05,980 --> 00:05:09,720
+So if we can get most of that from solar and from turbine,
+
+107
+00:05:09,820 --> 00:05:11,320
+then it's great.
+
+108
+00:05:11,420 --> 00:05:13,480
+Not to mention satisfying.
+
+109
+00:05:13,481 --> 00:05:16,680
+It's like, why does tomatoes grown in your backyard
+
+110
+00:05:16,780 --> 00:05:18,980
+taste better than tomatoes you buy at the store?
+
+111
+00:05:19,080 --> 00:05:20,880
+And why does electricity you make yourself
+
+112
+00:05:20,980 --> 00:05:23,920
+seem better than electricity you buy from the city?
+
+113
+00:05:24,020 --> 00:05:27,720
+It's just because you had a hand in it.
+
+114
+00:05:27,820 --> 00:05:29,900
+What if you put your hands on it?
+
+115
+00:05:30,000 --> 00:05:32,200
+That's what you can do with another green choice that's
+
+116
+00:05:32,300 --> 00:05:33,740
+available for the home.
+
+117
+00:05:33,840 --> 00:05:36,500
+It's a real killer called the green switch.
+
+118
+00:05:36,600 --> 00:05:38,440
+And it's after the vampires in your house that
+
+119
+00:05:38,540 --> 00:05:40,780
+are robbing you blind.
+
+120
+00:05:40,880 --> 00:05:43,140
+There's vampire power that's actually
+
+121
+00:05:43,141 --> 00:05:45,980
+sucking energy from your home when you don't even actually
+
+122
+00:05:46,080 --> 00:05:47,580
+have appliances on.
+
+123
+00:05:47,680 --> 00:05:50,480
+In the off mode, they're still drawing power.
+
+124
+00:05:50,580 --> 00:05:53,620
+Walk around your home at night and look at all the little red
+
+125
+00:05:53,720 --> 00:05:55,020
+lights that are flashing.
+
+126
+00:05:55,120 --> 00:05:56,220
+You'll be amazed.
+
+127
+00:05:56,320 --> 00:05:59,260
+And it's one way to discover how many of the appliances
+
+128
+00:05:59,360 --> 00:06:03,060
+are actually sucking energy and money out of your wallet
+
+129
+00:06:03,160 --> 00:06:04,460
+every single day.
+
+130
+00:06:04,560 --> 00:06:06,700
+According to the Department of Energy,
+
+131
+00:06:06,800 --> 00:06:09,760
+those little red lights represent between 10 and 15%
+
+132
+00:06:09,761 --> 00:06:13,700
+of all the energy used in an average household.
+
+133
+00:06:13,800 --> 00:06:16,500
+And they just sit there taunting us.
+
+134
+00:06:16,600 --> 00:06:18,900
+This is a typical home office environment.
+
+135
+00:06:19,000 --> 00:06:23,000
+Maybe you have a printer, internet modems, stereo or an
+
+136
+00:06:23,100 --> 00:06:24,400
+iPod.
+
+137
+00:06:24,500 --> 00:06:28,520
+If you look here at the monitor, it's using 19.2 watts, all
+
+138
+00:06:28,620 --> 00:06:30,020
+this equipment in standby mode.
+
+139
+00:06:30,120 --> 00:06:31,920
+So you're completely wasting energy.
+
+140
+00:06:32,020 --> 00:06:33,520
+It is not good for the environment,
+
+141
+00:06:33,620 --> 00:06:36,020
+and it's definitely not good for your wallet.
+
+142
+00:06:36,120 --> 00:06:38,160
+And let's not forget the most powerful vampire
+
+143
+00:06:38,161 --> 00:06:42,900
+vampire of all, the home entertainment unit.
+
+144
+00:06:42,901 --> 00:06:45,300
+As you can see, all of this equipment is on.
+
+145
+00:06:45,301 --> 00:06:47,300
+This is the standard stuff that you would have in your home,
+
+146
+00:06:47,301 --> 00:06:50,040
+DVD player, cable box, and television.
+
+147
+00:06:50,041 --> 00:06:52,100
+It's drawing about 100 watts.
+
+148
+00:06:52,101 --> 00:06:59,140
+If I turn them off, that number will drop down to about 26 watts.
+
+149
+00:06:59,141 --> 00:07:02,460
+So even in the off mode, you're still drawing 26 watts,
+
+150
+00:07:02,461 --> 00:07:05,220
+or 25% of the normal power it would take.
+
+151
+00:07:05,221 --> 00:07:07,080
+In the home, it's just a matter of deciding
+
+152
+00:07:07,081 --> 00:07:11,320
+vampires you want to kill. After you've identified the bad
+
+153
+00:07:11,321 --> 00:07:14,280
+guys, the first step is to install a green switch slave
+
+154
+00:07:14,281 --> 00:07:17,160
+receptacle to the outlet. This is our slave
+
+155
+00:07:17,161 --> 00:07:19,320
+receptacle. Once you've established where you want to
+
+156
+00:07:19,321 --> 00:07:22,120
+put this in your house, the installation is very simple.
+
+157
+00:07:22,121 --> 00:07:24,760
+This is the antenna. This receives the signal for the
+
+158
+00:07:24,761 --> 00:07:27,960
+master switch. It tells this unit whether to turn on or shut
+
+159
+00:07:27,961 --> 00:07:30,680
+off. Receptacles can be wired to as
+
+160
+00:07:30,681 --> 00:07:33,480
+many outlets as you choose, as well as your air conditioning
+
+161
+00:07:33,481 --> 00:07:37,480
+thermostat. Then, once the receptacles are
+
+162
+00:07:37,481 --> 00:07:41,480
+installed, they lay in wait for a signal from their master switch.
+
+163
+00:07:41,481 --> 00:07:43,480
+We're at the front door of the residence.
+
+164
+00:07:43,481 --> 00:07:46,480
+We've already gone through and replaced all the other switches
+
+165
+00:07:46,481 --> 00:07:48,480
+and receptacles that are going to communicate with this green
+
+166
+00:07:48,481 --> 00:07:50,480
+switch. I've removed the existing
+
+167
+00:07:50,481 --> 00:07:53,480
+electrical from this box here, replaced it with a new toggle,
+
+168
+00:07:53,481 --> 00:07:56,480
+and our green switch. It all wires into the existing
+
+169
+00:07:56,481 --> 00:08:00,480
+electrical. It's a very easy installation.
+
+170
+00:08:00,481 --> 00:08:02,480
+Now flip the switch and all those energy
+
+171
+00:08:02,481 --> 00:08:06,620
+but all those energy-sucking vampires are put to rest.
+
+172
+00:08:06,720 --> 00:08:08,620
+Money is saved, and the environment
+
+173
+00:08:08,720 --> 00:08:11,820
+receives less pollutants.
+
+174
+00:08:11,920 --> 00:08:14,260
+Of course, if you really want to get obsessive about your energy
+
+175
+00:08:14,360 --> 00:08:18,020
+consumption, try the power cost monitor.
+
+176
+00:08:18,120 --> 00:08:20,600
+Just wrap a sensor around your outside meter,
+
+177
+00:08:20,700 --> 00:08:22,560
+and this in-your-face device lets
+
+178
+00:08:22,660 --> 00:08:28,540
+you watch the watts, cash, and environment burn away.
+
+179
+00:08:28,640 --> 00:08:31,240
+Green switch, anyone?
+
+180
+00:08:31,241 --> 00:08:33,740
+And then there's the trash.
+
+181
+00:08:33,741 --> 00:08:36,320
+One of the biggest single sources of greenhouse gases
+
+182
+00:08:36,321 --> 00:08:39,820
+and other pollution to our atmosphere are landfills.
+
+183
+00:08:39,821 --> 00:08:42,360
+They decompose over time, creating methane
+
+184
+00:08:42,361 --> 00:08:44,480
+and other greenhouse gases.
+
+185
+00:08:44,481 --> 00:08:47,280
+In urban areas, as much as 40% of all trash
+
+186
+00:08:47,281 --> 00:08:49,200
+is food waste.
+
+187
+00:08:49,201 --> 00:08:51,200
+But there's a company that wants to make sure it never
+
+188
+00:08:51,201 --> 00:08:54,700
+gets to the landfill.
+
+189
+00:08:54,701 --> 00:08:57,540
+It's Nature Mill, and its indoor composter
+
+190
+00:08:57,541 --> 00:09:00,840
+that disposes your garbage to your garden.
+
+191
+00:09:00,940 --> 00:09:03,680
+Pretty much any food waste will go in,
+
+192
+00:09:03,780 --> 00:09:08,280
+any of these shavings, organic stuff, coffee grounds, tea,
+
+193
+00:09:08,380 --> 00:09:10,080
+tea bags.
+
+194
+00:09:10,180 --> 00:09:14,300
+So what we're doing is we just put the food waste right in
+
+195
+00:09:14,400 --> 00:09:17,100
+there, and in it goes.
+
+196
+00:09:17,200 --> 00:09:20,100
+To make compost, food waste needs the proper amounts
+
+197
+00:09:20,200 --> 00:09:22,600
+of oxygen, moisture, and heat.
+
+198
+00:09:22,700 --> 00:09:26,200
+If left to nature, this process could take months.
+
+199
+00:09:26,201 --> 00:09:29,100
+The indoor composter supercharges the oxygen levels
+
+200
+00:09:29,200 --> 00:09:31,600
+and temperature, speeding up decomposition
+
+201
+00:09:31,700 --> 00:09:37,240
+to about two weeks, all for 10 watts of power,
+
+202
+00:09:37,340 --> 00:09:41,040
+or about 50 cents worth of energy per month.
+
+203
+00:09:41,140 --> 00:09:44,260
+The composter can gobble up to five pounds per day,
+
+204
+00:09:44,360 --> 00:09:45,960
+the amount of food waste thrown away
+
+205
+00:09:46,060 --> 00:09:48,560
+by a typical family of five.
+
+206
+00:09:48,660 --> 00:09:51,960
+So after about a week, this is what it looks like.
+
+207
+00:09:52,060 --> 00:09:54,960
+You can see it's starting to turn into compost,
+
+208
+00:09:54,961 --> 00:09:56,320
+And you can keep adding more.
+
+209
+00:09:56,420 --> 00:09:59,100
+It all mixes in there.
+
+210
+00:09:59,200 --> 00:10:00,960
+After it begins to break down,
+
+211
+00:10:01,060 --> 00:10:02,960
+the mixture drops through a trap door
+
+212
+00:10:03,060 --> 00:10:05,000
+and into the bottom chamber.
+
+213
+00:10:05,100 --> 00:10:09,500
+There it cures for another week and begins to dry out.
+
+214
+00:10:09,600 --> 00:10:11,440
+Now, if the thought of decomposing food
+
+215
+00:10:11,540 --> 00:10:14,320
+puts a tingle in your nose, fear not.
+
+216
+00:10:14,420 --> 00:10:16,820
+The designers have it covered.
+
+217
+00:10:16,920 --> 00:10:20,920
+So we put a air filter inside the machine, which is always on.
+
+218
+00:10:21,020 --> 00:10:22,960
+And it's located in the back here.
+
+219
+00:10:22,961 --> 00:10:26,060
+You can see that air passes inside these holes,
+
+220
+00:10:26,160 --> 00:10:29,600
+through the activated charcoal, and then out the filter.
+
+221
+00:10:29,700 --> 00:10:32,600
+And this air filter should last about five years.
+
+222
+00:10:32,700 --> 00:10:36,200
+No smell, no mess, no need to build new landfills.
+
+223
+00:10:36,300 --> 00:10:38,500
+Just open up the tray, and the final product
+
+224
+00:10:38,600 --> 00:10:42,120
+is ready for its close-up.
+
+225
+00:10:42,220 --> 00:10:45,220
+So normally, all this great organic waste
+
+226
+00:10:45,320 --> 00:10:46,420
+goes into landfills.
+
+227
+00:10:46,520 --> 00:10:48,960
+But here, it's being turned into compost.
+
+228
+00:10:49,060 --> 00:10:52,960
+And after just two weeks, you've got rich organic compost.
+
+229
+00:10:52,961 --> 00:10:55,860
+You don't have to have a diesel truck come and take it away.
+
+230
+00:10:55,960 --> 00:10:58,060
+And it's really great for your garden.
+
+231
+00:11:01,160 --> 00:11:05,200
+Compost or no compost, the gardens in Azusa, California
+
+232
+00:11:05,300 --> 00:11:07,500
+are wilting under another 100-degree day.
+
+233
+00:11:10,120 --> 00:11:12,620
+And inside the public library, the air conditioning
+
+234
+00:11:12,720 --> 00:11:15,420
+is doing double time.
+
+235
+00:11:15,520 --> 00:11:19,160
+The library receives maybe 500 visitors a day that come in
+
+236
+00:11:19,260 --> 00:11:20,320
+and out of the library.
+
+237
+00:11:20,420 --> 00:11:22,020
+And a lot of them do come in as a refuge
+
+238
+00:11:22,021 --> 00:11:24,720
+to get away from the heat.
+
+239
+00:11:24,820 --> 00:11:27,120
+Chilling out in this heat pushes the city power grid
+
+240
+00:11:27,220 --> 00:11:29,820
+to the max, threatening blackouts
+
+241
+00:11:29,920 --> 00:11:33,560
+and prompting calls to build new power plants.
+
+242
+00:11:33,660 --> 00:11:36,960
+But city officials have found ways to relieve the pressure,
+
+243
+00:11:37,060 --> 00:11:39,680
+like using energy at night to cool their library
+
+244
+00:11:39,780 --> 00:11:41,980
+during the day.
+
+245
+00:11:42,080 --> 00:11:43,580
+Sound tricky?
+
+246
+00:11:43,680 --> 00:11:48,580
+Well, it's all in the ice, the Ice Bear cooling system.
+
+247
+00:11:48,680 --> 00:11:52,020
+This is essentially just a large tank of water.
+
+248
+00:11:52,021 --> 00:11:54,480
+What we've got here is a 500-gallon tank,
+
+249
+00:11:54,580 --> 00:11:58,620
+and inside it, we have these copper coils that really,
+
+250
+00:11:58,720 --> 00:12:01,120
+if you look close, kind of look like a mattress spring
+
+251
+00:12:01,220 --> 00:12:04,460
+that's been stretched five feet tall.
+
+252
+00:12:04,560 --> 00:12:06,560
+Inside those coils is where the ice bear
+
+253
+00:12:06,660 --> 00:12:08,980
+performs its first trick.
+
+254
+00:12:09,080 --> 00:12:11,580
+At night, a pump sends cool refrigerant
+
+255
+00:12:11,680 --> 00:12:13,480
+through the coils in the water.
+
+256
+00:12:13,580 --> 00:12:17,280
+The water freezes into a block around the coils.
+
+257
+00:12:17,380 --> 00:12:18,820
+Right now, it's cold to the touch
+
+258
+00:12:18,920 --> 00:12:21,780
+because we actually have ice that we've frozen in here
+
+259
+00:12:21,781 --> 00:12:24,220
+here during the night. I'm actually tapping the ice
+
+260
+00:12:24,221 --> 00:12:27,580
+right here. During the day, when the air
+
+261
+00:12:27,581 --> 00:12:31,180
+conditioning unit is turned on, the pump sends warm refrigerant
+
+262
+00:12:31,181 --> 00:12:35,320
+back through the coils and through the ice.
+
+263
+00:12:35,321 --> 00:12:38,300
+That refrigerant is chilled and then pumped through pipes into
+
+264
+00:12:38,301 --> 00:12:43,640
+the existing air conditioning system to provide cooling.
+
+265
+00:12:43,641 --> 00:12:46,740
+At the end of the day, the ice bear goes into hibernation,
+
+266
+00:12:46,741 --> 00:12:50,880
+until later that night when the process begins again.
+
+267
+00:12:50,881 --> 00:12:53,120
+we'll be able to provide about eight hours worth of cooling
+
+268
+00:12:53,121 --> 00:12:54,120
+out of this ice.
+
+269
+00:12:54,121 --> 00:12:56,280
+And then, again, it will all be water,
+
+270
+00:12:56,281 --> 00:13:01,060
+and we'll use the condensing unit again to freeze it into ice.
+
+271
+00:13:01,061 --> 00:13:03,220
+By getting its energy at night instead of mauling
+
+272
+00:13:03,221 --> 00:13:06,460
+the power grid during the day, the ice bear can put the deep
+
+273
+00:13:06,461 --> 00:13:10,160
+freeze on greenhouse gases by using cheaper, cleaner
+
+274
+00:13:10,161 --> 00:13:12,300
+nighttime energy.
+
+275
+00:13:12,301 --> 00:13:15,240
+A lot of places are now generating renewable energy
+
+276
+00:13:15,241 --> 00:13:16,880
+at night with wind.
+
+277
+00:13:16,881 --> 00:13:19,480
+So by moving some of that demand to the nighttime,
+
+278
+00:13:19,481 --> 00:13:20,940
+You're also moving some of that demand
+
+279
+00:13:20,941 --> 00:13:23,540
+to cleaner sources of energy that help the environment.
+
+280
+00:13:23,860 --> 00:13:25,620
+This technology is so simple.
+
+281
+00:13:26,060 --> 00:13:30,280
+It's a huge block of ice that is outside our library,
+
+282
+00:13:30,460 --> 00:13:33,940
+and somehow it's working to keep this building cool.
+
+283
+00:13:35,020 --> 00:13:37,740
+One city that could benefit from rooftop wind turbines
+
+284
+00:13:37,741 --> 00:13:39,360
+is Milton, Massachusetts.
+
+285
+00:13:39,980 --> 00:13:43,480
+With average annual winds of 15.4 miles per hour,
+
+286
+00:13:44,440 --> 00:13:47,140
+Milton is the breeziest city in the United States.
+
+287
+00:13:49,480 --> 00:13:56,480
+In the desert outside Seville, Spain,
+
+288
+00:13:56,580 --> 00:14:01,020
+360 feet of green technology is catching some rays.
+
+289
+00:14:01,120 --> 00:14:05,560
+It may be the method that brings a massive infusion
+
+290
+00:14:05,660 --> 00:14:08,040
+of solar energy to our cities.
+
+291
+00:14:08,140 --> 00:14:11,140
+It's called a solar tower, and it
+
+292
+00:14:11,240 --> 00:14:13,900
+stands as a beacon of hope in the fight against global warming.
+
+293
+00:14:16,080 --> 00:14:18,200
+The top of the concrete tower basks
+
+294
+00:14:18,201 --> 00:14:23,200
+basks in the reflection of a sea of mirrors called heliostats.
+
+295
+00:14:23,201 --> 00:14:28,200
+The heliostats are spread over 170 acres, and every day the sun
+
+296
+00:14:28,201 --> 00:14:33,200
+shines, it turns the tower into an oracle of solar energy.
+
+297
+00:14:33,201 --> 00:14:37,200
+Valerio Fernandez is the plant's engineering director.
+
+298
+00:14:37,201 --> 00:14:40,200
+We are at the middle of the heliostat field of the
+
+299
+00:14:40,201 --> 00:14:44,200
+Piastren Solar Plant. It is composed by 624 heliostats
+
+300
+00:14:44,201 --> 00:14:48,200
+that are composed by a mirror. The function of this
+
+301
+00:14:48,201 --> 00:14:50,200
+is to reflect solar radiation.
+
+302
+00:14:50,300 --> 00:14:52,940
+These units are not hot.
+
+303
+00:14:53,040 --> 00:14:55,200
+The heliostats are programmed to keep the heat
+
+304
+00:14:55,300 --> 00:14:58,340
+on the tower from dawn to dusk.
+
+305
+00:14:58,440 --> 00:15:01,840
+As the Earth turns, the heliostats move in accordance,
+
+306
+00:15:01,940 --> 00:15:05,860
+staying perfectly focused between the sun and the tower.
+
+307
+00:15:05,960 --> 00:15:08,960
+There's years that have 29 days in February,
+
+308
+00:15:09,060 --> 00:15:11,260
+so all the years are different.
+
+309
+00:15:11,360 --> 00:15:15,460
+And the equations to reflect very accurately the movement
+
+310
+00:15:15,560 --> 00:15:17,960
+of the sun are complex.
+
+311
+00:15:17,961 --> 00:15:22,600
+and have to be updated every several years.
+
+312
+00:15:22,601 --> 00:15:26,560
+Each heliostat is made of glass and steel,
+
+313
+00:15:26,561 --> 00:15:30,800
+with a surface area of 1,300 square feet.
+
+314
+00:15:30,801 --> 00:15:33,440
+They are made of mirrors, conventional mirrors,
+
+315
+00:15:33,441 --> 00:15:36,720
+that reflect solar radiation, and they are slightly curved
+
+316
+00:15:36,721 --> 00:15:40,120
+in order to concentrate solar radiation towards a point
+
+317
+00:15:40,121 --> 00:15:44,280
+that is the receiver that is placed in the top of the tower.
+
+318
+00:15:44,281 --> 00:15:46,320
+Under the force of all the mirrors,
+
+319
+00:15:46,321 --> 00:15:50,160
+the solar receiver reaches temperatures of 1,000 degrees
+
+320
+00:15:50,260 --> 00:15:51,260
+Fahrenheit.
+
+321
+00:15:51,360 --> 00:15:53,060
+That's hotter than the daytime temperature
+
+322
+00:15:53,160 --> 00:15:55,960
+on the planet Mercury.
+
+323
+00:15:56,060 --> 00:15:58,700
+The receiver is made of four steel panels.
+
+324
+00:15:58,800 --> 00:16:02,300
+Each panel is an array of pipes welded together.
+
+325
+00:16:02,400 --> 00:16:04,780
+Within the pipes is water.
+
+326
+00:16:04,880 --> 00:16:07,480
+When the sun hits the panels, the water is heated
+
+327
+00:16:07,580 --> 00:16:09,840
+and turned into steam.
+
+328
+00:16:09,940 --> 00:16:12,080
+Pressure created from the steam's expansion
+
+329
+00:16:12,180 --> 00:16:16,320
+drives the turbine, which creates electricity.
+
+330
+00:16:16,321 --> 00:16:18,620
+Once that electricity moves into the power grid,
+
+331
+00:16:18,720 --> 00:16:22,120
+the process is complete. The sun's heat
+
+332
+00:16:22,220 --> 00:16:24,360
+has been successfully harnessed and turned
+
+333
+00:16:24,460 --> 00:16:28,560
+into clean energy. This single tower
+
+334
+00:16:28,660 --> 00:16:31,760
+provides energy for 6,000 homes.
+
+335
+00:16:31,860 --> 00:16:33,680
+But the Spanish aren't stopping there.
+
+336
+00:16:33,780 --> 00:16:36,480
+They're building more towers. In fact, they've planned
+
+337
+00:16:36,580 --> 00:16:39,880
+a total of nine. The entire project
+
+338
+00:16:39,980 --> 00:16:43,920
+will produce enough power for the 700,000 residents 12 miles
+
+339
+00:16:43,921 --> 00:16:48,920
+miles away in Seville. This spark for tower technology
+
+340
+00:16:48,921 --> 00:16:53,860
+was ignited in the California desert during the 1980s.
+
+341
+00:16:53,861 --> 00:16:57,360
+Built as a full-scale prototype, Solar One
+
+342
+00:16:57,361 --> 00:17:01,080
+harnessed the power of 1,800 mirrors, all aimed at the top
+
+343
+00:17:01,081 --> 00:17:05,980
+of a 295-foot tower. But instead of using water
+
+344
+00:17:05,981 --> 00:17:10,380
+as a heat conduit, Solar One used oil.
+
+345
+00:17:10,381 --> 00:17:13,920
+For four years, the prototype sporadically produced up to 10
+
+346
+00:17:13,921 --> 00:17:19,820
+megawatts of electricity, enough to power about 5,000 homes.
+
+347
+00:17:19,920 --> 00:17:23,760
+But more importantly, it proved the technology worked.
+
+348
+00:17:23,860 --> 00:17:26,800
+I don't think anyone believed that there would be so many
+
+349
+00:17:26,900 --> 00:17:29,840
+days and so many kilowatts of energy generated.
+
+350
+00:17:29,940 --> 00:17:33,680
+It actually exceeded all of the estimates that were initially
+
+351
+00:17:33,780 --> 00:17:35,440
+done.
+
+352
+00:17:35,540 --> 00:17:38,840
+Back in Seville, Spain, engineers chose
+
+353
+00:17:38,940 --> 00:17:42,240
+water as a heat exchanger.
+
+354
+00:17:42,241 --> 00:17:45,380
+But there's still one major challenge to overcome,
+
+355
+00:17:45,381 --> 00:17:47,480
+how to keep the turbine consistently spinning
+
+356
+00:17:47,481 --> 00:17:49,480
+when it's dark.
+
+357
+00:17:49,481 --> 00:17:51,440
+At this moment, our first plants
+
+358
+00:17:51,441 --> 00:17:55,060
+have only a very limited storage capacity
+
+359
+00:17:55,061 --> 00:17:58,620
+of thermal energy that allows us to produce electricity
+
+360
+00:17:58,621 --> 00:17:59,920
+when there is no sun.
+
+361
+00:17:59,921 --> 00:18:04,060
+But this is limited to about one hour.
+
+362
+00:18:04,061 --> 00:18:06,060
+The trick is in how to keep water hot enough
+
+363
+00:18:06,061 --> 00:18:08,600
+during the night to produce the steam that drives the turbine.
+
+364
+00:18:12,240 --> 00:18:15,840
+So engineers are looking at hybrid solutions, like wind
+
+365
+00:18:15,940 --> 00:18:19,040
+power and biofuels, as ways to keep the clean energy flowing
+
+366
+00:18:19,140 --> 00:18:21,040
+24-7.
+
+367
+00:18:21,140 --> 00:18:24,480
+Still, the Spanish solar tower is glowing with success.
+
+368
+00:18:26,580 --> 00:18:30,500
+When the sun shines, the tower produces a daily dose of 11
+
+369
+00:18:30,600 --> 00:18:32,900
+megawatts of electricity.
+
+370
+00:18:33,000 --> 00:18:36,040
+And it's done without a single puff of greenhouse gas
+
+371
+00:18:36,140 --> 00:18:37,440
+emission.
+
+372
+00:18:37,540 --> 00:18:40,540
+With this successful commercial plant,
+
+373
+00:18:40,541 --> 00:18:45,040
+commercial plant, I think we did the very successful first step.
+
+374
+00:18:45,041 --> 00:18:48,640
+The proven long-term success of the Spanish project has created
+
+375
+00:18:48,641 --> 00:18:52,080
+a solar tower awakening.
+
+376
+00:18:52,081 --> 00:18:54,720
+From China to Morocco, tower power
+
+377
+00:18:54,721 --> 00:18:56,960
+is beginning to capture the attention of investors
+
+378
+00:18:56,961 --> 00:18:59,500
+and government officials.
+
+379
+00:18:59,501 --> 00:19:02,560
+But not all solar towers are created equal.
+
+380
+00:19:02,561 --> 00:19:05,900
+There's yet another very interesting solar thermal
+
+381
+00:19:05,901 --> 00:19:06,900
+technology.
+
+382
+00:19:06,901 --> 00:19:10,300
+That's where you simply take an upside-down funnel
+
+383
+00:19:10,301 --> 00:19:15,600
+and allow the sun to pound on that funnel all day long.
+
+384
+00:19:15,700 --> 00:19:17,340
+Not surprisingly, the funneled model
+
+385
+00:19:17,440 --> 00:19:22,040
+was first tested in eco-friendly Spain, just outside Madrid,
+
+386
+00:19:22,140 --> 00:19:25,540
+in sun-drenched Manzanares.
+
+387
+00:19:25,640 --> 00:19:29,020
+The project was based on a simple principle of physics.
+
+388
+00:19:29,120 --> 00:19:32,780
+Hot air rises.
+
+389
+00:19:32,880 --> 00:19:35,620
+The plant started with a massive greenhouse.
+
+390
+00:19:35,720 --> 00:19:38,520
+A clear polymer canopy, or collection area,
+
+391
+00:19:38,521 --> 00:19:43,520
+surrounded a 630-foot tower with a hollow bottom.
+
+392
+00:19:43,620 --> 00:19:45,620
+As the sun beat down on the canopy,
+
+393
+00:19:45,720 --> 00:19:48,520
+the air underneath was heated to 95 degrees
+
+394
+00:19:48,620 --> 00:19:51,500
+above the ambient temperature.
+
+395
+00:19:51,600 --> 00:19:53,540
+The heated air moved toward the cooler air
+
+396
+00:19:53,640 --> 00:19:57,080
+at the top of the tower.
+
+397
+00:19:57,180 --> 00:20:00,100
+That updraft funneled through a large turbine stationed
+
+398
+00:20:00,200 --> 00:20:00,900
+inside the tower.
+
+399
+00:20:03,780 --> 00:20:07,480
+The plant operated from 1982 through 1989
+
+400
+00:20:07,481 --> 00:20:09,540
+and put out 50 kilowatts.
+
+401
+00:20:09,640 --> 00:20:12,520
+Not much, but it worked.
+
+402
+00:20:12,620 --> 00:20:15,520
+The design seemed ready for its day in the sun.
+
+403
+00:20:15,620 --> 00:20:20,220
+But in the late 1980s, oil was cheap and interest chilled.
+
+404
+00:20:20,320 --> 00:20:22,060
+We've learned that there's a couple of things
+
+405
+00:20:22,160 --> 00:20:24,860
+that drive investments in solar towers.
+
+406
+00:20:24,960 --> 00:20:27,100
+One is the cost of oil.
+
+407
+00:20:27,200 --> 00:20:30,140
+The other thing, of course, is government policy.
+
+408
+00:20:30,240 --> 00:20:32,400
+Now with oil prices at record highs
+
+409
+00:20:32,500 --> 00:20:35,780
+and environmental issues burning in the public's consciousness,
+
+410
+00:20:35,781 --> 00:20:40,180
+Interest in the Manzanares model has reached critical mass.
+
+411
+00:20:40,280 --> 00:20:43,220
+An Australian firm called EnviroMission
+
+412
+00:20:43,320 --> 00:20:46,320
+plans to take a new tower to unprecedented heights.
+
+413
+00:20:46,420 --> 00:20:48,520
+It will be one of the largest structures, if not the largest
+
+414
+00:20:48,620 --> 00:20:50,520
+structure on the face of the Earth.
+
+415
+00:20:50,620 --> 00:20:52,540
+The steel-reinforced concrete tower
+
+416
+00:20:52,640 --> 00:20:56,040
+will rise 2,500 feet above the Earth.
+
+417
+00:20:56,140 --> 00:20:58,980
+That's nearly half a mile and twice the height of the Empire
+
+418
+00:20:59,080 --> 00:20:59,780
+State Building.
+
+419
+00:20:59,781 --> 00:21:09,300
+Its base will be 430 feet in diameter, wide enough to provide a firm anchor during high winds.
+
+420
+00:21:11,260 --> 00:21:14,300
+The glass and polymer canopy will span three miles,
+
+421
+00:21:14,980 --> 00:21:19,220
+gently sloping from a height of 6 feet at the perimeter to 100 feet at the tower.
+
+422
+00:21:20,560 --> 00:21:26,500
+There, 32 jet-sized turbines will be waiting to take the hot air and turn it into electricity.
+
+423
+00:21:26,501 --> 00:21:30,500
+The tower promises year-round energy.
+
+424
+00:21:30,501 --> 00:21:32,500
+Greenhouses still operate in winter,
+
+425
+00:21:32,501 --> 00:21:34,500
+so they still collect warm air.
+
+426
+00:21:34,501 --> 00:21:36,500
+You still create a temperature differential.
+
+427
+00:21:36,501 --> 00:21:40,500
+You may not have the huge output you have in summer,
+
+428
+00:21:40,501 --> 00:21:43,500
+but you will certainly have a very substantial output.
+
+429
+00:21:43,501 --> 00:21:46,500
+EnviroMission believes their tower will light up the power
+
+430
+00:21:46,501 --> 00:21:50,500
+grid with an astounding 200 megawatts.
+
+431
+00:21:50,501 --> 00:21:53,500
+Even if the tower runs at 80% capacity,
+
+432
+00:21:53,501 --> 00:21:58,740
+capacity, that's enough power to fuel half a million households.
+
+433
+00:21:58,840 --> 00:22:01,980
+EnviroMission has already purchased a 20,000 acre site
+
+434
+00:22:02,080 --> 00:22:04,040
+between Melbourne and Sydney.
+
+435
+00:22:04,140 --> 00:22:08,180
+It'll be an engineering marvel and obviously
+
+436
+00:22:08,280 --> 00:22:10,080
+a renewable energy icon.
+
+437
+00:22:10,180 --> 00:22:12,180
+And it will be expensive.
+
+438
+00:22:12,280 --> 00:22:17,220
+Estimated cost to build the tower is $700 million.
+
+439
+00:22:17,320 --> 00:22:19,800
+It's a hefty price, but one that would eventually
+
+440
+00:22:19,900 --> 00:22:21,720
+pay for itself.
+
+441
+00:22:21,721 --> 00:22:25,760
+It will be, we believe, competitive in output with coal,
+
+442
+00:22:26,060 --> 00:22:28,260
+but it is more expensive to build,
+
+443
+00:22:29,420 --> 00:22:31,680
+but it costs nothing to run.
+
+444
+00:22:32,100 --> 00:22:34,920
+With investment capital rushing toward green machines,
+
+445
+00:22:35,360 --> 00:22:37,280
+that $700 million looks attainable,
+
+446
+00:22:38,280 --> 00:22:40,340
+Jetson-style transport module included.
+
+447
+00:22:40,880 --> 00:22:42,820
+I think this is the holy grail of renewable energy.
+
+448
+00:22:43,400 --> 00:22:45,680
+Opportunistic, yes, obviously.
+
+449
+00:22:45,800 --> 00:22:47,080
+I mean, you don't do anything for nothing,
+
+450
+00:22:47,340 --> 00:22:49,560
+but what was a dream became a passion.
+
+451
+00:22:50,220 --> 00:22:51,640
+We are going to get it built.
+
+452
+00:22:51,720 --> 00:22:55,120
+Producing enough power for all the households in the United
+
+453
+00:22:55,220 --> 00:22:59,260
+States would require over 620 solar towers the size of
+
+454
+00:22:59,360 --> 00:23:01,260
+EnviroMission's design.
+
+455
+00:23:01,360 --> 00:23:05,660
+Of those, California would need 65 and Wyoming just two.
+
+456
+00:23:15,720 --> 00:23:19,080
+Listen to the distinct sound of this pollution solution.
+
+457
+00:23:21,720 --> 00:23:29,680
+It's a car that runs on compressed air, called a CAT, for compressed air technology.
+
+458
+00:23:29,681 --> 00:23:35,160
+It's the result of 14 years of research and development by French engine designer Guy
+
+459
+00:23:35,161 --> 00:23:43,080
+Negra. With the CAT, Negra has created a car that produces zero emissions.
+
+460
+00:23:47,080 --> 00:23:51,700
+The premise of this project was that in order to run a car, particularly in town,
+
+461
+00:23:51,701 --> 00:23:53,500
+you need very little energy.
+
+462
+00:23:53,600 --> 00:23:56,300
+And with compressed air, you can accumulate enough energy
+
+463
+00:23:56,400 --> 00:23:57,100
+to do that.
+
+464
+00:24:00,400 --> 00:24:02,940
+Compressed air has long been used as a power source
+
+465
+00:24:03,040 --> 00:24:04,540
+for various tools and equipment.
+
+466
+00:24:07,240 --> 00:24:08,860
+For car designers, compressed air
+
+467
+00:24:08,960 --> 00:24:11,460
+has been difficult to harness.
+
+468
+00:24:11,560 --> 00:24:15,700
+But now, Negra and his team at Motor Development International
+
+469
+00:24:15,800 --> 00:24:18,360
+have built an engine that they believe will blow the car
+
+470
+00:24:18,460 --> 00:24:19,300
+market away.
+
+471
+00:24:21,700 --> 00:24:25,740
+Within an internal combustion engine, gasoline and oxygen
+
+472
+00:24:25,840 --> 00:24:26,940
+ignite.
+
+473
+00:24:27,040 --> 00:24:29,440
+The resulting explosions create pressure, which
+
+474
+00:24:29,540 --> 00:24:31,840
+pushes the pistons that turn the crankshaft.
+
+475
+00:24:31,940 --> 00:24:35,940
+With MDI's engine, precisely timed bursts of compressed air
+
+476
+00:24:36,040 --> 00:24:39,180
+create the pressure needed to drive the pistons, pollutant
+
+477
+00:24:39,280 --> 00:24:39,980
+free.
+
+478
+00:24:42,720 --> 00:24:45,560
+Supplying enough energy to power the car requires pressure
+
+479
+00:24:45,660 --> 00:24:49,560
+at 4,300 pounds per square inch.
+
+480
+00:24:49,561 --> 00:24:51,800
+That's more than 100 times the pressure
+
+481
+00:24:51,900 --> 00:24:54,160
+in a standard car tire.
+
+482
+00:24:54,260 --> 00:24:57,000
+Forced inside a tank small enough to fit under the cat's
+
+483
+00:24:57,100 --> 00:25:01,680
+chassis, it's the formula for a potential ticking time bomb.
+
+484
+00:25:01,780 --> 00:25:04,140
+So the pressure was on the designers
+
+485
+00:25:04,240 --> 00:25:06,780
+to build a tank that won't explode.
+
+486
+00:25:06,880 --> 00:25:09,440
+This is to give you an idea of the technology
+
+487
+00:25:09,540 --> 00:25:10,740
+inside of the car.
+
+488
+00:25:10,840 --> 00:25:13,420
+You can see that under the floor, you have some carbon fiber
+
+489
+00:25:13,520 --> 00:25:14,480
+tanks.
+
+490
+00:25:14,580 --> 00:25:17,960
+It has to be carbon fiber on cars because it is very safe.
+
+491
+00:25:17,961 --> 00:25:19,460
+If there is a crash or something,
+
+492
+00:25:19,560 --> 00:25:21,360
+there's no problem with pieces going everywhere.
+
+493
+00:25:21,460 --> 00:25:25,300
+There is a crack, and then the air goes out.
+
+494
+00:25:25,400 --> 00:25:26,760
+The tanks can even withstand
+
+495
+00:25:26,860 --> 00:25:30,200
+the force of small caliber gunfire.
+
+496
+00:25:30,300 --> 00:25:32,840
+Since it's being powered by air, the cat
+
+497
+00:25:32,940 --> 00:25:37,920
+has a lightweight aluminum frame to keep it lean and nimble.
+
+498
+00:25:38,020 --> 00:25:40,920
+The same care went into the body.
+
+499
+00:25:41,020 --> 00:25:44,720
+The body of the car will be made with fiberglass.
+
+500
+00:25:44,820 --> 00:25:46,960
+Using fiberglass is very important for us
+
+501
+00:25:46,961 --> 00:25:48,460
+because the car will be lighter.
+
+502
+00:25:48,560 --> 00:25:51,140
+And having a light car, you will have more range.
+
+503
+00:25:51,240 --> 00:25:54,300
+In our technology, we won't store a lot of energy.
+
+504
+00:25:54,400 --> 00:25:58,140
+So we have to manage this energy to have a bigger range.
+
+505
+00:25:58,240 --> 00:26:01,700
+MDI has licensed the technology to Tata Motors,
+
+506
+00:26:01,800 --> 00:26:04,440
+India's largest car manufacturer.
+
+507
+00:26:04,540 --> 00:26:07,080
+And Mexico City is looking at the cat as a way
+
+508
+00:26:07,180 --> 00:26:10,080
+to cut into its layer of smog.
+
+509
+00:26:10,180 --> 00:26:14,080
+Once the cat leaves the factory, it will need some air.
+
+510
+00:26:14,081 --> 00:26:17,920
+An MDI will need to convince gas stations to play along
+
+511
+00:26:18,020 --> 00:26:22,120
+by installing industrial compressors and air tanks.
+
+512
+00:26:22,220 --> 00:26:26,120
+This is a compressor, and you can use this to fill some
+
+513
+00:26:26,220 --> 00:26:28,920
+high-pressure tanks, a huge volume.
+
+514
+00:26:29,020 --> 00:26:30,840
+And then when a car arrives at the air station,
+
+515
+00:26:30,940 --> 00:26:33,140
+you just have to transfer the air from these big tanks
+
+516
+00:26:33,240 --> 00:26:37,040
+to the car, and that takes just three minutes.
+
+517
+00:26:37,140 --> 00:26:40,180
+But airing up can also be done at home.
+
+518
+00:26:40,280 --> 00:26:42,640
+Plug in a compressor that comes with a car,
+
+519
+00:26:42,641 --> 00:26:48,680
+the car, and in three to four hours, the tank is full.
+
+520
+00:26:48,681 --> 00:26:54,280
+It's now ready to go 125 miles for just two bucks.
+
+521
+00:26:54,281 --> 00:26:57,060
+If the air is generated with a renewable source,
+
+522
+00:26:57,061 --> 00:26:58,820
+the car becomes a true green machine.
+
+523
+00:27:02,800 --> 00:27:05,640
+This is the motor alternator to fill the car
+
+524
+00:27:05,641 --> 00:27:09,060
+when you plug the car on an electric plug to fill the tanks.
+
+525
+00:27:09,061 --> 00:27:12,640
+Put it all together, and the city version, or mini-cat,
+
+526
+00:27:12,641 --> 00:27:14,640
+hit a top speed of 70 miles per hour.
+
+527
+00:27:17,940 --> 00:27:19,840
+If you want a Tiger in your tank,
+
+528
+00:27:19,841 --> 00:27:23,720
+MDI has developed a gasoline dual energy version.
+
+529
+00:27:23,721 --> 00:27:26,380
+When the air is depleted, gasoline drives the engine
+
+530
+00:27:26,381 --> 00:27:30,620
+while an onboard compressor refills the air tank.
+
+531
+00:27:30,621 --> 00:27:32,800
+Alternating between the two fuels,
+
+532
+00:27:32,801 --> 00:27:36,300
+the hybrid will hiss along for an amazing 600 miles
+
+533
+00:27:36,301 --> 00:27:39,760
+on one small tank of gasoline.
+
+534
+00:27:39,761 --> 00:27:41,840
+The first car targeted for early production
+
+535
+00:27:41,841 --> 00:27:43,540
+as the minicat.
+
+536
+00:27:43,541 --> 00:27:45,980
+If you think it looks strange from the outside,
+
+537
+00:27:45,981 --> 00:27:48,180
+take a closer look at the steering wheel.
+
+538
+00:27:48,181 --> 00:27:50,720
+This is why we've put the driver in the middle.
+
+539
+00:27:50,721 --> 00:27:52,060
+Having the driver in the middle, you
+
+540
+00:27:52,061 --> 00:27:54,220
+can put it a little bit more in the front of the car,
+
+541
+00:27:54,221 --> 00:27:55,880
+so you have more volume for the trunk.
+
+542
+00:27:55,881 --> 00:27:57,580
+This is the basic idea.
+
+543
+00:27:57,581 --> 00:27:59,920
+But then also, for us, it's more simple to use this car
+
+544
+00:27:59,921 --> 00:28:01,900
+in England and France, for example.
+
+545
+00:28:01,901 --> 00:28:06,100
+There's no problem, because the driver is in the middle.
+
+546
+00:28:06,101 --> 00:28:08,540
+Right side steering, left side steering,
+
+547
+00:28:08,541 --> 00:28:10,200
+it doesn't matter.
+
+548
+00:28:10,201 --> 00:28:14,100
+Guy Negra has made a car for everyone.
+
+549
+00:28:14,200 --> 00:28:17,640
+Costs for the cats will range from $7,000 for a four-cylinder
+
+550
+00:28:17,740 --> 00:28:21,740
+minicat to $25,000 for a six-cylinder family car.
+
+551
+00:28:25,240 --> 00:28:28,360
+Negra's determination to be eco-responsible extends to
+
+552
+00:28:28,460 --> 00:28:30,860
+manufacturing as well.
+
+553
+00:28:30,960 --> 00:28:35,560
+We are going to expand the industrial concept we came up
+
+554
+00:28:35,660 --> 00:28:39,260
+with, which is to make cars in small factories located within
+
+555
+00:28:39,261 --> 00:28:40,500
+in the market.
+
+556
+00:28:40,501 --> 00:28:42,260
+It is an original concept.
+
+557
+00:28:42,261 --> 00:28:45,840
+It's very important for the economy, for social issues,
+
+558
+00:28:45,841 --> 00:28:47,700
+pollution issues, and the environment.
+
+559
+00:28:51,560 --> 00:28:54,300
+The compressed air car works.
+
+560
+00:28:54,301 --> 00:28:57,660
+Now all Guy Negrin needs is the support of the public
+
+561
+00:28:57,661 --> 00:29:00,960
+and the automobile industry.
+
+562
+00:29:00,961 --> 00:29:03,580
+Breakthroughs are always difficult, especially
+
+563
+00:29:03,581 --> 00:29:07,400
+technological breakthroughs, because the industry generally
+
+564
+00:29:07,401 --> 00:29:10,840
+follows the direction that has already been established.
+
+565
+00:29:10,841 --> 00:29:12,480
+And they don't like to see someone
+
+566
+00:29:12,481 --> 00:29:14,420
+trying to change the course.
+
+567
+00:29:14,421 --> 00:29:17,640
+But today, there is a worldwide need to change the course.
+
+568
+00:29:20,980 --> 00:29:23,640
+The average American car creates 10,000 pounds
+
+569
+00:29:23,641 --> 00:29:26,000
+of carbon dioxide each year.
+
+570
+00:29:26,001 --> 00:29:29,280
+That's nearly one quarter of the country's entire CO2 output.
+
+571
+00:29:29,281 --> 00:29:40,520
+We now return to Environmental Tech 2 on Modern Marvels.
+
+572
+00:29:42,520 --> 00:29:44,580
+Water and the American West.
+
+573
+00:29:45,620 --> 00:29:47,180
+There's only so much of it.
+
+574
+00:29:48,260 --> 00:29:50,640
+But underneath one of the thirstiest regions
+
+575
+00:29:50,641 --> 00:29:54,140
+in Southern California, there's a trillion gallons of it.
+
+576
+00:29:54,700 --> 00:29:57,760
+And a lot of it is polluted, but not for long.
+
+577
+00:29:57,761 --> 00:30:00,960
+200 feet below the San Gabriel Valley,
+
+578
+00:30:01,060 --> 00:30:04,400
+toxic chemicals have contaminated the aquifer.
+
+579
+00:30:04,500 --> 00:30:06,160
+They've been here for decades.
+
+580
+00:30:06,260 --> 00:30:08,300
+Back in the beginning of the 1900s,
+
+581
+00:30:08,400 --> 00:30:10,100
+the beginning of the Industrial Revolution,
+
+582
+00:30:10,200 --> 00:30:12,200
+we thought that we could throw things away.
+
+583
+00:30:12,300 --> 00:30:14,920
+We thought we could throw waste into rivers
+
+584
+00:30:15,020 --> 00:30:17,420
+and waste materials into landfills
+
+585
+00:30:17,520 --> 00:30:20,420
+or dump things into the ocean, and that it would go away.
+
+586
+00:30:20,520 --> 00:30:24,320
+And before the 1970s, none of the laws
+
+587
+00:30:24,321 --> 00:30:29,160
+that are in effect today were around, and practices for
+
+588
+00:30:29,161 --> 00:30:31,960
+handling and disposing of chemicals were much different
+
+589
+00:30:31,961 --> 00:30:34,960
+than they are today. It took one of the worst
+
+590
+00:30:34,961 --> 00:30:39,360
+ecological disasters in American history to force that change,
+
+591
+00:30:39,361 --> 00:30:44,880
+Love Canal. In 1942, an upstate New York
+
+592
+00:30:44,881 --> 00:30:48,880
+waterway became a toxic waste dump used by a chemical and
+
+593
+00:30:48,881 --> 00:30:53,280
+plastics company. By 1978, nearby residents were
+
+594
+00:30:53,281 --> 00:30:56,120
+were suffering with abnormal rates of birth defects,
+
+595
+00:30:56,220 --> 00:31:00,520
+miscarriages, and cancer. From this tragedy came the
+
+596
+00:31:00,620 --> 00:31:04,660
+Superfund, a federal program intended to identify and clean
+
+597
+00:31:04,760 --> 00:31:08,100
+up toxic waste sites across America.
+
+598
+00:31:08,200 --> 00:31:11,360
+For the first time, technology would be used on a massive scale
+
+599
+00:31:11,460 --> 00:31:14,460
+to systematically clean up the environment.
+
+600
+00:31:14,560 --> 00:31:17,740
+The San Gabriel Aquifer is one of those sites.
+
+601
+00:31:17,840 --> 00:31:20,080
+The EPA has identified about 20 companies
+
+602
+00:31:20,180 --> 00:31:23,260
+that we think have contributed to the pollution in the
+
+603
+00:31:23,280 --> 00:31:26,880
+area. The responsible parties
+
+604
+00:31:26,881 --> 00:31:29,580
+range from industrial cleaning companies to rocket
+
+605
+00:31:29,581 --> 00:31:34,820
+manufacturers. Every day, 11 million gallons,
+
+606
+00:31:34,821 --> 00:31:39,060
+about 500 swimming pools worth of contaminated aquifer water
+
+607
+00:31:39,061 --> 00:31:43,000
+enters the San Gabriel water treatment plant for a cleaning.
+
+608
+00:31:43,001 --> 00:31:46,200
+The water is pulled out of the aquifer through three
+
+609
+00:31:46,201 --> 00:31:49,040
+extraction wells, which feed this treatment plant.
+
+610
+00:31:49,041 --> 00:31:51,540
+The water goes into the first phase of treatment, which is
+
+611
+00:31:51,541 --> 00:31:54,680
+air stripping through that vertical pipe going up the side
+
+612
+00:31:54,780 --> 00:31:56,680
+of the air stripping tower.
+
+613
+00:31:56,780 --> 00:31:59,380
+The water goes into the top of the tower,
+
+614
+00:31:59,480 --> 00:32:01,780
+and it falls through.
+
+615
+00:32:01,880 --> 00:32:03,520
+The tanks are filled with thousands
+
+616
+00:32:03,620 --> 00:32:06,680
+of grapefruit-sized plastic balls.
+
+617
+00:32:06,780 --> 00:32:09,160
+Each ball is a porous matrix.
+
+618
+00:32:09,260 --> 00:32:11,020
+As the water falls through the balls,
+
+619
+00:32:11,120 --> 00:32:13,800
+it's broken up into droplets.
+
+620
+00:32:13,900 --> 00:32:17,300
+Meanwhile, air is introduced from the bottom of the tank.
+
+621
+00:32:17,400 --> 00:32:20,260
+When the air meets the droplets, volatile contaminants
+
+622
+00:32:20,261 --> 00:32:24,100
+vapor and are carried out the top of the tower.
+
+623
+00:32:24,200 --> 00:32:29,000
+The air with the volatilized compounds leaves the top of the
+
+624
+00:32:29,100 --> 00:32:33,880
+tower and goes into the blue bins, which are carbon filter
+
+625
+00:32:33,980 --> 00:32:35,000
+bins.
+
+626
+00:32:35,100 --> 00:32:37,940
+The air enters the top of the bin, moves through the carbon
+
+627
+00:32:38,040 --> 00:32:42,420
+bed, and then exits out the bottom and up the stack as clean
+
+628
+00:32:42,520 --> 00:32:44,420
+air.
+
+629
+00:32:44,520 --> 00:32:46,380
+While air stripping removes most of the
+
+630
+00:32:46,381 --> 00:32:48,140
+of the volatile chemicals.
+
+631
+00:32:48,240 --> 00:32:51,480
+Several other contaminants remain.
+
+632
+00:32:51,580 --> 00:32:54,820
+Next on the list for removal is a potential cancer-causing
+
+633
+00:32:54,920 --> 00:32:58,920
+agent, 1,2,3-trichloropropane.
+
+634
+00:32:59,020 --> 00:33:00,820
+After the water leaves the air strippers,
+
+635
+00:33:00,920 --> 00:33:03,300
+it enters through this top pipe here
+
+636
+00:33:03,400 --> 00:33:06,640
+into these 10 vessels, which are two-thirds filled
+
+637
+00:33:06,740 --> 00:33:09,640
+with granular carbon, which is this material here.
+
+638
+00:33:09,740 --> 00:33:12,080
+The water enters through the top of the tanks,
+
+639
+00:33:12,180 --> 00:33:13,240
+goes through the carbon.
+
+640
+00:33:13,340 --> 00:33:15,180
+Any volatiles that either were not
+
+641
+00:33:15,181 --> 00:33:18,180
+removed by the air strippers, and as well as the 1, 2, 3
+
+642
+00:33:18,280 --> 00:33:20,880
+trichloropropane are removed.
+
+643
+00:33:20,980 --> 00:33:24,480
+The clean water then exits the system
+
+644
+00:33:24,580 --> 00:33:27,360
+through this bottom line here and goes on to the next phase
+
+645
+00:33:27,460 --> 00:33:30,800
+of treatment, which is ion exchange.
+
+646
+00:33:30,900 --> 00:33:33,660
+At the ion exchange station, the water flows
+
+647
+00:33:33,760 --> 00:33:35,860
+through a series of tanks.
+
+648
+00:33:35,960 --> 00:33:38,800
+The target here is a component of solid rocket fuel
+
+649
+00:33:38,900 --> 00:33:40,940
+called perchlorate.
+
+650
+00:33:41,040 --> 00:33:45,180
+If enough is ingested, perchlorate attacks the thyroid.
+
+651
+00:33:45,181 --> 00:33:49,080
+They're filled with the ion exchange resin,
+
+652
+00:33:49,180 --> 00:33:51,320
+this synthetic resin.
+
+653
+00:33:51,420 --> 00:33:55,160
+There are 30 vessels on each carousel.
+
+654
+00:33:55,260 --> 00:33:57,660
+As the water containing perchlorate
+
+655
+00:33:57,760 --> 00:34:00,520
+passes through the vessels filled with resin,
+
+656
+00:34:00,620 --> 00:34:03,040
+the resin grabs onto the perchlorate ions
+
+657
+00:34:03,140 --> 00:34:05,940
+and replaces them with chloride ion.
+
+658
+00:34:06,040 --> 00:34:09,040
+One last stubborn chemical remains,
+
+659
+00:34:09,140 --> 00:34:13,600
+the potentially cancer-causing NDMA.
+
+660
+00:34:13,601 --> 00:34:15,840
+The best way to eliminate it is by zapping it
+
+661
+00:34:15,940 --> 00:34:16,940
+with ultraviolet light.
+
+662
+00:34:20,240 --> 00:34:23,340
+This is the last step in our treatment facility.
+
+663
+00:34:23,440 --> 00:34:27,240
+This is the ultraviolet, or UV, system.
+
+664
+00:34:27,340 --> 00:34:29,440
+The water flows through here.
+
+665
+00:34:29,540 --> 00:34:33,560
+Each one of these panels has 16 lights.
+
+666
+00:34:33,660 --> 00:34:35,760
+The water flows through this light,
+
+667
+00:34:35,860 --> 00:34:39,500
+and the NDMA is inactivated.
+
+668
+00:34:39,600 --> 00:34:42,860
+NDMA is a component of rocket fuel.
+
+669
+00:34:42,861 --> 00:34:46,660
+And this is what it looks like.
+
+670
+00:34:46,760 --> 00:34:49,060
+Inside the trough, the water passes
+
+671
+00:34:49,160 --> 00:34:53,160
+through a series of 2,200 ultraviolet lights.
+
+672
+00:34:53,260 --> 00:34:55,900
+As the NDMA molecules absorb the light,
+
+673
+00:34:56,000 --> 00:35:00,920
+they're broken down into non-toxic components.
+
+674
+00:35:01,020 --> 00:35:02,420
+At the end of the tank, the water
+
+675
+00:35:02,520 --> 00:35:04,620
+gets a little dash of chlorine and then
+
+676
+00:35:04,720 --> 00:35:08,960
+makes a clean break for the city water supply.
+
+677
+00:35:09,060 --> 00:35:11,120
+Here we are at the effluent of the plant.
+
+678
+00:35:11,121 --> 00:35:14,520
+What less than one hour ago entered the plant as contaminated
+
+679
+00:35:14,620 --> 00:35:19,960
+water is now drinking water, safe for public consumption.
+
+680
+00:35:23,000 --> 00:35:25,900
+As the clean water leaves this part of the plant,
+
+681
+00:35:26,000 --> 00:35:27,640
+an equal amount of contaminated water
+
+682
+00:35:27,740 --> 00:35:30,880
+will enter at the intake.
+
+683
+00:35:30,980 --> 00:35:35,480
+It's a cycle that will repeat for decades to come.
+
+684
+00:35:35,580 --> 00:35:37,280
+The area of groundwater contamination
+
+685
+00:35:37,380 --> 00:35:40,380
+is more than eight miles long and a mile wide.
+
+686
+00:35:40,381 --> 00:35:45,820
+We think it took 40 to 50 years to become that large.
+
+687
+00:35:45,920 --> 00:35:47,720
+It's going to take as long or longer
+
+688
+00:35:47,820 --> 00:35:50,520
+to clean the groundwater up.
+
+689
+00:35:50,620 --> 00:35:53,920
+To date, at this plant alone, the cleanup has cost a total
+
+690
+00:35:54,020 --> 00:35:57,140
+of $48 million and counting.
+
+691
+00:35:57,240 --> 00:36:01,040
+Of that, the federal government has paid about 30%.
+
+692
+00:36:01,140 --> 00:36:04,640
+The responsible parties have paid the rest.
+
+693
+00:36:04,740 --> 00:36:09,080
+The EPA has identified nearly 1,600 contaminated sites.
+
+694
+00:36:09,081 --> 00:36:13,080
+Of those, nearly 1,400 have polluted groundwater.
+
+695
+00:36:13,180 --> 00:36:16,080
+Currently, one in four Americans lives within three
+
+696
+00:36:16,180 --> 00:36:18,080
+miles of a Superfund site.
+
+697
+00:36:26,040 --> 00:36:28,640
+We now return to Environmental Tech II
+
+698
+00:36:28,740 --> 00:36:32,040
+on Modern Marvels.
+
+699
+00:36:32,140 --> 00:36:35,480
+Aboard the Weatherbird II in Fort Lauderdale, Florida,
+
+700
+00:36:35,580 --> 00:36:38,840
+a crew of marine biologists is preparing for a journey
+
+701
+00:36:38,841 --> 00:36:43,080
+that they believe will help save a sick ocean, and at the same time,
+
+702
+00:36:43,081 --> 00:36:46,840
+help solve global warming by turning the ocean into a giant
+
+703
+00:36:46,841 --> 00:36:50,360
+sponge. The biologists will target an
+
+704
+00:36:50,361 --> 00:36:54,360
+indispensable element for human life, plankton.
+
+705
+00:36:54,361 --> 00:36:57,160
+Some of these microscopic organisms can act as floating
+
+706
+00:36:57,161 --> 00:37:01,320
+forests, gobbling up carbon dioxide from the air and returning
+
+707
+00:37:01,321 --> 00:37:06,040
+it as pure oxygen. But the plankton beds are shrinking
+
+708
+00:37:06,041 --> 00:37:10,780
+at a rate of 1% a year. The weatherbird crew
+
+709
+00:37:10,880 --> 00:37:13,480
+is determined to reverse that trend with a simple
+
+710
+00:37:13,580 --> 00:37:16,380
+but controversial experiment.
+
+711
+00:37:16,480 --> 00:37:18,680
+Planktose, our company is in the business
+
+712
+00:37:18,780 --> 00:37:21,580
+of eco-restoration. We say that we restore the trees
+
+713
+00:37:21,680 --> 00:37:24,600
+and the seas of the planet. The planktose team
+
+714
+00:37:24,700 --> 00:37:27,200
+is going to feed plankton beds with a nutrient
+
+715
+00:37:27,300 --> 00:37:31,340
+the microscopic creatures need, iron.
+
+716
+00:37:31,440 --> 00:37:34,700
+The more plankton in the ocean, the less CO2
+
+717
+00:37:34,701 --> 00:37:37,900
+in the atmosphere. For every ton of iron
+
+718
+00:37:37,901 --> 00:37:42,200
+that goes into the ocean, about 100,000 tons of carbon dioxide
+
+719
+00:37:42,201 --> 00:37:46,440
+is taken out of the atmosphere by the ocean plants.
+
+720
+00:37:46,441 --> 00:37:48,540
+Using satellite imagery, the team
+
+721
+00:37:48,541 --> 00:37:50,780
+has identified a pristine plankton bloom
+
+722
+00:37:50,781 --> 00:37:56,480
+for their experiment 300 miles west of the Galapagos Islands.
+
+723
+00:37:56,481 --> 00:37:58,620
+Here I have a sampling of some of the iron nutrient
+
+724
+00:37:58,621 --> 00:38:00,360
+that we'll be mixing into the water.
+
+725
+00:38:00,361 --> 00:38:03,360
+And this iron nutrient that we're going to be fertilizing
+
+726
+00:38:03,361 --> 00:38:05,860
+fine to where when we drop it into the water,
+
+727
+00:38:05,960 --> 00:38:07,360
+it's going to dissolve.
+
+728
+00:38:07,460 --> 00:38:10,160
+And we want it to float on the surface for as long as possible.
+
+729
+00:38:10,260 --> 00:38:13,100
+That way, it'll draw the plankton to the surface.
+
+730
+00:38:13,200 --> 00:38:15,440
+Over a two-week period, the Weatherbird crew
+
+731
+00:38:15,540 --> 00:38:19,880
+will use a plastic tube to dump between 50 and 100 tons of iron
+
+732
+00:38:19,980 --> 00:38:22,840
+atop the Galapagos bloom.
+
+733
+00:38:22,940 --> 00:38:26,820
+According to Planktose, that will remove 5 to 10 million tons
+
+734
+00:38:26,920 --> 00:38:29,880
+of CO2 from the atmosphere.
+
+735
+00:38:29,980 --> 00:38:31,580
+We use these mixers here.
+
+736
+00:38:31,581 --> 00:38:33,540
+We suck up seawater into them.
+
+737
+00:38:33,640 --> 00:38:35,180
+They can hold 300 gallons.
+
+738
+00:38:35,280 --> 00:38:36,420
+We open this up.
+
+739
+00:38:36,520 --> 00:38:38,320
+We put the iron in here.
+
+740
+00:38:38,420 --> 00:38:40,220
+Motors turn on.
+
+741
+00:38:40,320 --> 00:38:42,420
+Mix the iron up with the seawater.
+
+742
+00:38:42,520 --> 00:38:45,220
+This in turn, these tubes come to the back,
+
+743
+00:38:45,320 --> 00:38:48,260
+and we release that concentrated iron seawater mix
+
+744
+00:38:48,360 --> 00:38:52,140
+while the boat's moving and spread it over the ocean.
+
+745
+00:38:52,240 --> 00:38:54,540
+After spreading the iron, a research team
+
+746
+00:38:54,640 --> 00:38:56,680
+will stay with the bloom for 20 weeks
+
+747
+00:38:56,780 --> 00:38:59,740
+to monitor plankton growth and to record how much carbon
+
+748
+00:38:59,741 --> 00:39:04,240
+much carbon dioxide it has absorbed.
+
+749
+00:39:04,241 --> 00:39:07,340
+They'll test the samples to determine how deep the CO2-filled
+
+750
+00:39:07,341 --> 00:39:10,580
+plankton has sunk. This enables the team to put a
+
+751
+00:39:10,581 --> 00:39:14,780
+time frame on how long the CO2 will remain out of the atmosphere.
+
+752
+00:39:14,781 --> 00:39:18,420
+Once we dry it, we can identify how much carbon is present in
+
+753
+00:39:18,421 --> 00:39:21,020
+the dried biomass. And we'll do that for different
+
+754
+00:39:21,021 --> 00:39:24,540
+depths so we can see how much is at the surface, how much is sunk
+
+755
+00:39:24,541 --> 00:39:28,160
+to 100 meters, 200 meters. And as it goes further down, we'll
+
+756
+00:39:28,161 --> 00:39:31,560
+has been sequestered for decades, hundreds of years,
+
+757
+00:39:31,660 --> 00:39:33,200
+or millennia.
+
+758
+00:39:33,300 --> 00:39:34,960
+The deeper the plankton goes,
+
+759
+00:39:35,060 --> 00:39:37,200
+the more pressure there is to hold it down
+
+760
+00:39:37,300 --> 00:39:39,700
+and keep its carbon from rising.
+
+761
+00:39:39,800 --> 00:39:42,900
+If it sinks below 500 meters, it will stay there
+
+762
+00:39:43,000 --> 00:39:46,320
+for upwards of 1,000 years.
+
+763
+00:39:46,420 --> 00:39:48,820
+And that means more money for planktose
+
+764
+00:39:48,920 --> 00:39:51,820
+that can be made by selling carbon credits.
+
+765
+00:39:51,920 --> 00:39:53,860
+Yes, it's about money too.
+
+766
+00:39:53,960 --> 00:39:56,860
+Carbon credits are a way for CO2-producing industries
+
+767
+00:39:56,861 --> 00:40:00,700
+and individuals to offset their own emissions.
+
+768
+00:40:00,800 --> 00:40:03,260
+By paying companies like Planktose to plant iron
+
+769
+00:40:03,360 --> 00:40:05,600
+in the ocean, trees in the ground,
+
+770
+00:40:05,700 --> 00:40:10,100
+or wind turbines in the sky, we might give our Earth
+
+771
+00:40:10,200 --> 00:40:13,100
+a fighting chance.
+
+772
+00:40:13,200 --> 00:40:18,920
+The worldwide standard is one credit equals one ton of CO2.
+
+773
+00:40:19,020 --> 00:40:21,520
+Prices vary depending on method.
+
+774
+00:40:21,620 --> 00:40:24,760
+By restoring the plankton blooms that are in great decline
+
+775
+00:40:24,761 --> 00:40:27,960
+decline in the ocean, we can bring that life back.
+
+776
+00:40:28,060 --> 00:40:31,360
+And in the bargain, we earn carbon credits, which
+
+777
+00:40:31,460 --> 00:40:33,060
+pay for the whole operation.
+
+778
+00:40:33,160 --> 00:40:36,600
+So it's a wonderful win-win situation for everybody.
+
+779
+00:40:36,700 --> 00:40:40,000
+Many in the marine science community disagree.
+
+780
+00:40:40,100 --> 00:40:42,940
+To some, the planktose project may have unforeseen
+
+781
+00:40:43,040 --> 00:40:45,020
+consequences.
+
+782
+00:40:45,120 --> 00:40:48,960
+When you suddenly cause a bloom of plankton or algae
+
+783
+00:40:49,060 --> 00:40:51,460
+to occur where it otherwise wasn't going to occur,
+
+784
+00:40:51,560 --> 00:40:54,560
+that growth will absorb oxygen, which might rob
+
+785
+00:40:54,561 --> 00:40:57,200
+that particular section of the ocean of oxygen for fish
+
+786
+00:40:57,300 --> 00:40:59,000
+or other things that need to live there.
+
+787
+00:40:59,100 --> 00:41:01,160
+So as with any genie in the bottle,
+
+788
+00:41:01,260 --> 00:41:04,940
+we have to release it carefully, if at all.
+
+789
+00:41:05,040 --> 00:41:06,640
+And although there's no consensus
+
+790
+00:41:06,740 --> 00:41:09,040
+on how much carbon the ocean can hold,
+
+791
+00:41:09,140 --> 00:41:12,280
+for planktos, the experiment is worth the risks.
+
+792
+00:41:12,380 --> 00:41:15,820
+Our intention is to discover whether it's okay to do this.
+
+793
+00:41:15,920 --> 00:41:17,220
+And of course, if it doesn't work,
+
+794
+00:41:17,320 --> 00:41:19,180
+we won't be able to earn any money for it.
+
+795
+00:41:19,280 --> 00:41:21,620
+And since we're a for-profit company,
+
+796
+00:41:21,720 --> 00:41:23,420
+our investors will stop funding us,
+
+797
+00:41:23,421 --> 00:41:26,160
+and everything will come to a halt.
+
+798
+00:41:26,260 --> 00:41:27,860
+Other green machines on our oceans
+
+799
+00:41:27,960 --> 00:41:31,920
+are less controversial and a little more lofty,
+
+800
+00:41:32,020 --> 00:41:36,960
+like this German product called SkySail.
+
+801
+00:41:37,060 --> 00:41:39,160
+It's being tested as a way to reduce emissions
+
+802
+00:41:39,260 --> 00:41:42,380
+from the thousands of cargo ships that chug across our seas
+
+803
+00:41:42,480 --> 00:41:44,580
+every day.
+
+804
+00:41:44,680 --> 00:41:46,580
+The SkySail is meant to take some of the burden
+
+805
+00:41:46,680 --> 00:41:49,380
+off a ship's engine.
+
+806
+00:41:49,480 --> 00:41:52,520
+Tethered to the deck with a web of carbon fiber ropes,
+
+807
+00:41:52,521 --> 00:41:56,420
+It gives the ship an added boost to pull it through the water.
+
+808
+00:41:56,520 --> 00:41:58,620
+You might not turn off the engines all the time,
+
+809
+00:41:58,720 --> 00:42:00,560
+but you can certainly reduce the amount of fuel
+
+810
+00:42:00,660 --> 00:42:02,760
+that you're burning and the number of hours
+
+811
+00:42:02,860 --> 00:42:05,360
+that you are burning them.
+
+812
+00:42:05,460 --> 00:42:06,860
+Of course, to reduce engine hours,
+
+813
+00:42:06,960 --> 00:42:08,560
+the sky sail must catch the wind.
+
+814
+00:42:12,340 --> 00:42:14,480
+A computer attached to the towing cable
+
+815
+00:42:14,580 --> 00:42:18,520
+reads wind speed and direction, and then guides the sail up
+
+816
+00:42:18,620 --> 00:42:21,120
+or down to the best air.
+
+817
+00:42:21,121 --> 00:42:25,860
+The sail can fly as high as 950 feet, where strong sustained winds
+
+818
+00:42:25,960 --> 00:42:28,320
+prevail.
+
+819
+00:42:28,420 --> 00:42:31,160
+Onboard computers coordinate satellite weather data
+
+820
+00:42:31,260 --> 00:42:35,300
+with shipping lanes for the fastest route.
+
+821
+00:42:35,400 --> 00:42:38,980
+Tests aboard the 180-foot research vessel Beaufort
+
+822
+00:42:39,080 --> 00:42:41,940
+proves the system flies.
+
+823
+00:42:42,040 --> 00:42:45,640
+In 10-mile-per-hour winds, the 80 square meter sky sail
+
+824
+00:42:45,740 --> 00:42:49,820
+produced a towing force of three tons.
+
+825
+00:42:49,821 --> 00:42:55,360
+That equated to a savings of 320 gallons of ship diesel per day.
+
+826
+00:42:55,460 --> 00:42:58,620
+If the skysail was placed on just half the 40,000 cargo
+
+827
+00:42:58,720 --> 00:43:02,560
+ships and tankers on the sea, it would save over 2 billion
+
+828
+00:43:02,660 --> 00:43:05,760
+gallons of diesel per year.
+
+829
+00:43:05,860 --> 00:43:08,080
+With larger sails and higher winds,
+
+830
+00:43:08,180 --> 00:43:10,980
+the savings would increase.
+
+831
+00:43:11,080 --> 00:43:13,580
+When the winds die down or a storm approaches,
+
+832
+00:43:13,680 --> 00:43:16,380
+the skysail is hauled into a safe berth below deck.
+
+833
+00:43:16,381 --> 00:43:21,120
+As we sail into the 21st century,
+
+834
+00:43:21,220 --> 00:43:24,320
+we look to green machines to help save our environment.
+
+835
+00:43:24,420 --> 00:43:28,320
+I think technology will make the planet greener.
+
+836
+00:43:28,420 --> 00:43:29,920
+Technology is already saving us.
+
+837
+00:43:30,020 --> 00:43:31,720
+Obviously, we have a long way to go,
+
+838
+00:43:31,820 --> 00:43:34,440
+but I'm not one of these doom and gloom people.
+
+839
+00:43:34,540 --> 00:43:36,940
+Well, I'm very optimistic.
+
+840
+00:43:37,040 --> 00:43:38,940
+With a healthy dose of optimism
+
+841
+00:43:39,040 --> 00:43:42,280
+and some innovative thinking, we may have the fuel
+
+842
+00:43:42,380 --> 00:43:46,380
+to ensure a clean and prosperous future.
+

@@ -1,0 +1,45 @@
+# Credit Roll: More of the World's Biggest Machines (2004)
+**Canonical Episode:** [`MME00401: More of the World's Biggest Machines`](../episodes/MME00401.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
+* **Narrator:** MIKKI DEL MONICO, MAX RAPHAEL
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Accountants** | JUDY GORDON, SHERIDAN LIU |
+| **Animation by** | TAK PRODUCTIONS, INC. |
+| **Assistant Editor** | LAURA STEINHOFF |
+| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
+| **Associate Producer** | DIANE WAI |
+| **Camera** | CHAS ISENHART, PETER KRAJEWSKI, LON MAGDICH, LEE NASSAU, JULYE NEWLIN, TIM PHILLIPS, B.J. SCAHILL, MARTY ZIMMERMAN |
+| **Clearance Coordinator** | D.W. BLAKESLEE |
+| **Clearance Supervisor** | KATIE DEL CORE |
+| **Coordinators** | ROSALYN McVAY, MELINDA ESQUIBEL |
+| **Created by** | BRUCE NASH |
+| **Director of Research** | ANTHONY LACQUES |
+| **Edited by** | MOTOSHI WAKABAYASHI |
+| **Executive Producer** | BETH DIETRICH-SEGARRA, DON CAMBOU |
+| **Field Audio** | ARON BROWN, JOSEPH HANCOCK, JOHN McDERMOTT, JEREMY SETTLES, TIM SHEETZ |
+| **Historical Consultants** | BILL BOLGER, GUY CANTWELL, LT. CDR. ROSS DAVIS, USN (RET.), ROBB ERICKSON, PAUL FURLONGER, PAUL GUERCIO, MIKE IDEN, ERIC ORLEMANN, FRANCIS PAPP, LISA ROBINSON, JIM STUMP |
+| **Line Producer** | PAUL DZILVELIS |
+| **Music by** | ALAN ETT MUSIC GROUP |
+| **Narrated by** | MAX RAPHAEL |
+| **Online Editor** | JOHN PRICE |
+| **Post Assistants** | GAYLEN KOBAYASHI, PATRICK BE |
+| **Post Producer** | TIM KNAUFF |
+| **Producer** | BRUCE NASH |
+| **Production Assistant** | JEFFERY PERKINS |
+| **Production Controller** | DANI ESLIN |
+| **Production Manager** | SHELIA COLLINS |
+| **Researcher** | MIKKI DEL MONICO |
+| **Sound Mixer** | PAUL RAY |
+| **Voice Over Coordinator** | MIKKI DEL MONICO |
+
+---
+[← Return to Episode Dossier](../episodes/MME00401.md)

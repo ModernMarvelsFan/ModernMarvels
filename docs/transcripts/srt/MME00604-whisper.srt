@@ -1,0 +1,2328 @@
+1
+00:00:00,001 --> 00:00:06,280
+A mysterious explosion beneath Manhattan drives New Yorkers to the brink of panic.
+
+2
+00:00:07,940 --> 00:00:12,160
+A Minneapolis bridge crowded with cars abruptly collapses.
+
+3
+00:00:13,500 --> 00:00:17,800
+Tiny particles trigger a helicopter crash that kills 46 people.
+
+4
+00:00:20,020 --> 00:00:24,380
+And did natural gas drillers unleash a torrent of hot mud that destroyed a city?
+
+5
+00:00:24,381 --> 00:00:30,380
+Now, Engineering Disasters on Modern Marvels.
+
+6
+00:00:41,380 --> 00:00:43,640
+It started with a roar.
+
+7
+00:00:44,800 --> 00:00:48,120
+Then, the Earth opened up and a powerful force emerged,
+
+8
+00:00:49,100 --> 00:00:52,360
+propelling a violent torrent of blistering mud, rock, and steam
+
+9
+00:00:52,361 --> 00:00:53,980
+80 stories into the sky.
+
+10
+00:00:54,380 --> 00:00:57,460
+That is like the pit of hell.
+
+11
+00:00:58,100 --> 00:01:00,880
+This engineering disaster struck the heart of New York City.
+
+12
+00:01:03,220 --> 00:01:07,560
+The explosion occurred at 6 p.m. on July 18, 2007.
+
+13
+00:01:09,480 --> 00:01:14,500
+It erupted through the asphalt at Lexington Avenue and 41st Street in Midtown Manhattan.
+
+14
+00:01:15,840 --> 00:01:21,780
+The blast tore a huge crater in the middle of the block and blew out windows in the surrounding buildings.
+
+15
+00:01:21,781 --> 00:01:28,120
+The black sky and falling debris triggered memories of the 2001 terrorist attacks.
+
+16
+00:01:28,820 --> 00:01:32,400
+When we first heard it, we thought the explosion was in Grand Central Station.
+
+17
+00:01:33,060 --> 00:01:35,820
+And we also heard the word massive explosion,
+
+18
+00:01:36,320 --> 00:01:38,480
+and obviously we were concerned at what that might be.
+
+19
+00:01:39,300 --> 00:01:42,080
+Officials quickly allayed the public's worst fears.
+
+20
+00:01:42,660 --> 00:01:46,820
+There is no reason to believe that there was any terrorism involved whatsoever.
+
+21
+00:01:46,821 --> 00:01:50,980
+It is probably just a failure of part of our infrastructure.
+
+22
+00:01:51,780 --> 00:01:55,700
+One person died from shock, and 44 others were treated for injuries.
+
+23
+00:01:56,580 --> 00:02:00,360
+The disaster was the result of an underground steam pipe explosion.
+
+24
+00:02:01,360 --> 00:02:14,895
+The impact of something like this steam explosion, the consequences could be very similar to the impacts of a break in any infrastructure if there was a terrorist
+
+25
+00:02:14,896 --> 00:02:15,596
+attack.
+
+26
+00:02:15,700 --> 00:02:17,780
+I think we have a lot to learn from this.
+
+27
+00:02:17,781 --> 00:02:26,280
+The streets of Manhattan rest above an intricate underworld that includes electrical lines, plumbing lines, subways and sewers.
+
+28
+00:02:28,620 --> 00:02:31,260
+The steam pipe system is built into this maze.
+
+29
+00:02:32,340 --> 00:02:39,600
+The pipes are generally four feet below street level, but sometimes to accommodate other utility lines, they go deeper to 10 feet.
+
+30
+00:02:40,160 --> 00:02:42,820
+And some steam mains plunge 20 feet underground.
+
+31
+00:02:42,821 --> 00:02:50,160
+steam delivery pipes have been part of the island's infrastructure since 1881.
+
+32
+00:02:51,680 --> 00:02:55,920
+That year, the New York Steam Company began laying pipes in the streets
+
+33
+00:02:55,921 --> 00:03:00,460
+to supply steam for locomotives, heating, cooking, and other power.
+
+34
+00:03:00,940 --> 00:03:06,600
+There was a building in Lower Manhattan that actually constructed 24 small boilers
+
+35
+00:03:06,601 --> 00:03:09,860
+and erected about three miles worth of steam piping
+
+36
+00:03:09,861 --> 00:03:12,920
+to serve an area down around the Wall Street area.
+
+37
+00:03:14,240 --> 00:03:16,660
+New York's steam business continued to grow.
+
+38
+00:03:18,000 --> 00:03:22,240
+And today, it is part of Con Edison, a private utility company.
+
+39
+00:03:23,620 --> 00:03:28,420
+It produces the steam at seven plants, including the East River Generating Station.
+
+40
+00:03:29,300 --> 00:03:35,580
+Though it may seem outdated, steam power is still an efficient and cost-effective choice for high-rises.
+
+41
+00:03:35,581 --> 00:03:42,580
+And Con Ed provides steam for hot water, heating and air conditioning to over 1,800 buildings
+
+42
+00:03:42,980 --> 00:03:48,980
+in New York City, including the United Nations Headquarters and the Empire State Building.
+
+43
+00:03:48,981 --> 00:03:54,893
+The Con Ed steam system is comprised of approximately 105 miles of steam piping.
+
+44
+00:03:54,894 --> 00:03:55,780
+Steam piping
+
+45
+00:03:55,781 --> 00:04:00,551
+ranges in size from 2 inches in diameter all the way up to 36 inches in diameter.
+
+46
+00:04:00,552 --> 00:04:01,252
+The system
+
+47
+00:04:01,253 --> 00:04:05,846
+itself produces roughly 27 billion pounds of steam a year.
+
+48
+00:04:05,847 --> 00:04:08,280
+Our peak load day is somewhere
+
+49
+00:04:08,281 --> 00:04:14,500
+just under 11 million pounds an hour of steam a day during the winter months, and in the
+
+50
+00:04:14,501 --> 00:04:18,340
+summer months we could actually see loads as high as 8 million pounds an hour of steam.
+
+51
+00:04:20,420 --> 00:04:26,200
+Immediately after the steam pipe explosion, Con Edison went to work to assess and repair
+
+52
+00:04:26,201 --> 00:04:31,178
+the damage, the cause of the explosion remained a mystery.
+
+53
+00:04:31,179 --> 00:04:34,440
+The steam pipe that burst was 83 years
+
+54
+00:04:34,441 --> 00:04:38,188
+old, but that by itself didn't explain its failure.
+
+55
+00:04:38,189 --> 00:04:40,760
+Some experts suspected that factors
+
+56
+00:04:40,761 --> 00:04:44,912
+in the pipe's subterranean environment were to blame.
+
+57
+00:04:44,913 --> 00:04:48,280
+The vibration in the streets, the fact that
+
+58
+00:04:48,281 --> 00:04:54,640
+there are electric currents that erode the structure of a pipe, the fact that there's a lot
+
+59
+00:04:54,641 --> 00:05:00,620
+of construction going on that moves the soil that's needed to support pipes like this.
+
+60
+00:05:01,060 --> 00:05:09,040
+All of these factors, water, salt, infiltrating the underground, will undermine the age.
+
+61
+00:05:09,780 --> 00:05:14,060
+Other experts believe that the explosion was caused by something known in the steam business
+
+62
+00:05:14,061 --> 00:05:16,240
+as a water hammer.
+
+63
+00:05:17,460 --> 00:05:24,200
+A classic case of water hammer in steam pipes is where the pipes have been shut down for
+
+64
+00:05:24,201 --> 00:05:29,120
+some reason, the steam starts to cool and so that means the water begins to
+
+65
+00:05:29,121 --> 00:05:33,420
+condense out of that steam. Well those little beads of water gather on the
+
+66
+00:05:33,421 --> 00:05:36,420
+inside of the steam pipe and they roll down to the bottom and pretty soon
+
+67
+00:05:36,421 --> 00:05:41,140
+there's a pool of water. Steam travels through the underground pipes at 75
+
+68
+00:05:41,141 --> 00:05:45,620
+miles per hour. If the water in the pipe has not been drained before the steam is
+
+69
+00:05:45,621 --> 00:05:51,240
+turned on, the steam will pick it up and propel it. When the water hits a turn or
+
+70
+00:05:51,241 --> 00:05:58,760
+the end of a pipe, it has enough force to burst through the metal.
+
+71
+00:05:58,761 --> 00:06:03,320
+As Con Edison continues its investigation, it has not yet disclosed whether or not the
+
+72
+00:06:03,321 --> 00:06:06,700
+ruptured pipe was near a turn.
+
+73
+00:06:06,701 --> 00:06:13,220
+But it has acknowledged that the rupture in the pipe measured 5.5 feet long.
+
+74
+00:06:13,221 --> 00:06:17,080
+The East River Steam Plant uses high-tech methods to regulate the steam distribution
+
+75
+00:06:17,081 --> 00:06:18,080
+in the city.
+
+76
+00:06:18,081 --> 00:06:24,340
+They monitor the temperature and pressure of the steam in an effort to prevent disasters like the explosion from occurring.
+
+77
+00:06:26,100 --> 00:06:31,760
+Within three days of the disaster, part of the street where the explosion happened have been reopened.
+
+78
+00:06:32,900 --> 00:06:36,780
+One month later, some of the windows in the surrounding buildings have been replaced.
+
+79
+00:06:37,720 --> 00:06:43,580
+The exact cause of the steam pipe disaster remains unknown and is still under investigation.
+
+80
+00:06:43,960 --> 00:06:46,340
+The biggest blessing is we had so few injuries.
+
+81
+00:06:46,341 --> 00:06:47,840
+That, I think, is the biggest blessing.
+
+82
+00:06:48,220 --> 00:06:52,720
+The other is that we were able to get so many response personnel here,
+
+83
+00:06:53,420 --> 00:06:55,140
+care for people very quickly,
+
+84
+00:06:55,460 --> 00:07:00,020
+assure people that this was not anything other than a terrible accident.
+
+85
+00:07:01,240 --> 00:07:05,560
+While the steam pipe explosion in New York may be a result of an aging infrastructure,
+
+86
+00:07:06,860 --> 00:07:11,860
+another large city on the eastern seaboard experienced an engineering disaster
+
+87
+00:07:11,861 --> 00:07:13,760
+from a much more recent construction.
+
+88
+00:07:16,340 --> 00:07:24,580
+In 1991, the Massachusetts Turnpike Authority created the Central Artery Project to ease the gridlocked traffic in Boston.
+
+89
+00:07:25,340 --> 00:07:28,460
+It became affectionately known as the Big Dig.
+
+90
+00:07:29,760 --> 00:07:32,780
+Part of the massive construction project was the Ted Williams Tunnel.
+
+91
+00:07:34,680 --> 00:07:40,780
+Completed in 1995, it spanned 1.6 miles, linking downtown Boston to Logan Airport.
+
+92
+00:07:40,781 --> 00:07:48,660
+to link the tunnel to the i-90 freeway contractors began building a second connector tunnel
+
+93
+00:07:48,661 --> 00:07:53,840
+called the d street portal it officially opened in 2005
+
+94
+00:07:53,841 --> 00:08:01,400
+on july 10 2006 a passenger car was traveling eastbound through the d street portal
+
+95
+00:08:01,401 --> 00:08:07,880
+as the vehicle approached the end of the tunnel several large panels of the suspended concrete
+
+96
+00:08:07,881 --> 00:08:10,680
+ceiling, detached abruptly from their anchors.
+
+97
+00:08:12,860 --> 00:08:16,080
+26 tons of concrete and suspension hardware fell,
+
+98
+00:08:16,740 --> 00:08:17,520
+crushing the car.
+
+99
+00:08:19,420 --> 00:08:22,440
+Melena Del Valle, a 38-year-old mother of three,
+
+100
+00:08:22,560 --> 00:08:23,360
+was fatally injured.
+
+101
+00:08:24,960 --> 00:08:26,900
+The tunnel was immediately closed,
+
+102
+00:08:27,200 --> 00:08:29,160
+and tens of thousands of vehicles per day
+
+103
+00:08:29,161 --> 00:08:30,240
+had to be rerouted.
+
+104
+00:08:30,660 --> 00:08:33,080
+What happened last night, of course, is unacceptable.
+
+105
+00:08:33,540 --> 00:08:36,240
+People should not have to drive through the turnpike tunnels
+
+106
+00:08:36,241 --> 00:08:38,160
+with their fingers crossed.
+
+107
+00:08:39,800 --> 00:08:42,400
+Investigators from the National Transportation Safety Board
+
+108
+00:08:42,401 --> 00:08:43,780
+were called to the scene
+
+109
+00:08:43,781 --> 00:08:45,880
+and began sifting through the rubble,
+
+110
+00:08:46,300 --> 00:08:47,800
+looking for the cause of this disaster.
+
+111
+00:08:49,120 --> 00:08:50,920
+If these panels could fall,
+
+112
+00:08:51,340 --> 00:08:53,360
+were all the tunnels potential death traps?
+
+113
+00:08:54,580 --> 00:08:58,320
+Why did this 40-by-30-foot section
+
+114
+00:08:58,321 --> 00:09:02,700
+of suspended ceiling come down and strike this car?
+
+115
+00:09:03,160 --> 00:09:04,780
+Since the ceiling was suspended,
+
+116
+00:09:05,540 --> 00:09:08,680
+investigators started looking at the configuration of the hardware used
+
+117
+00:09:08,681 --> 00:09:11,920
+to hold each of the 4,600-pound concrete blocks in place.
+
+118
+00:09:14,420 --> 00:09:19,100
+During construction, the contractors had first drilled holes in the concrete roof of the tunnel.
+
+119
+00:09:20,460 --> 00:09:25,000
+Then, brackets had been bolted into the holes, secured with epoxy adhesive.
+
+120
+00:09:26,500 --> 00:09:31,660
+Metal hangers attached to the brackets held up the concrete panels, forming a drop ceiling.
+
+121
+00:09:31,661 --> 00:09:38,940
+NTSB investigators found that of the 600 steel anchors used to hold up this section of the
+
+122
+00:09:38,941 --> 00:09:44,980
+suspended ceiling, more than 20 had failed, and others had been dangerously dislodged.
+
+123
+00:09:45,640 --> 00:09:48,240
+Could an error have been made in the installation procedure?
+
+124
+00:09:49,380 --> 00:09:52,910
+Each of those anchors was proof tested after it was installed.
+
+125
+00:09:52,911 --> 00:09:54,960
+In other words, they drill the hole,
+
+126
+00:09:55,060 --> 00:10:00,220
+they put the anchor in, they let the epoxy cure, and then they come back several days later,
+
+127
+00:10:00,221 --> 00:10:05,920
+and they're able to actually gauge how much force that they're using to pull down on this anchor.
+
+128
+00:10:06,420 --> 00:10:12,560
+The mystery deepened as the NTSB discovered that the anchors had all passed the contractor's epoxy proof tests.
+
+129
+00:10:13,600 --> 00:10:17,740
+So investigators turned their attention to the epoxy fastener itself.
+
+130
+00:10:18,560 --> 00:10:20,280
+They discovered a disturbing clue.
+
+131
+00:10:21,060 --> 00:10:24,680
+It had been tested for strength, but not for endurance over time.
+
+132
+00:10:24,681 --> 00:10:30,980
+You know, you don't build a tunnel with the expectation that you're just going to run traffic through there for a day or a week.
+
+133
+00:10:31,160 --> 00:10:37,600
+You're looking at a long-term investment in a facility that you expect to have in service over a period of time.
+
+134
+00:10:39,480 --> 00:10:46,560
+The investigators began to study what engineers call the creep factor in the epoxy material used to hold the anchors in place.
+
+135
+00:10:46,561 --> 00:10:52,820
+Now by creep behavior, what you mean is if you take any plastic and you fix it at one
+
+136
+00:10:52,821 --> 00:10:55,960
+end and apply a load at the other end, of course it will stretch.
+
+137
+00:10:55,961 --> 00:11:00,000
+And if it's very stiff like this, it won't stretch very much, but you can measure how
+
+138
+00:11:00,001 --> 00:11:02,240
+far that stretches.
+
+139
+00:11:02,241 --> 00:11:06,260
+If you leave it like that and come back tomorrow, what you find is it's actually stretched a
+
+140
+00:11:06,261 --> 00:11:07,920
+little further.
+
+141
+00:11:07,921 --> 00:11:12,360
+If you come back a month from now or a year from now, it will stretch even further.
+
+142
+00:11:12,361 --> 00:11:17,420
+And that additional extension as a function of time under load is called creep.
+
+143
+00:11:17,421 --> 00:11:22,600
+By analyzing the actual bolts that were secured in the concrete at the scene of the disaster,
+
+144
+00:11:22,601 --> 00:11:26,480
+scientists did find visual evidence of creep.
+
+145
+00:11:26,481 --> 00:11:30,640
+Telltale signs that the epoxy had pulled away from the concrete surface within the anchor
+
+146
+00:11:30,641 --> 00:11:32,940
+holes.
+
+147
+00:11:32,941 --> 00:11:35,700
+These two anchors were from the failure area.
+
+148
+00:11:35,701 --> 00:11:40,780
+And you can see that this one shows evidence of an adhesive failure, a failure between
+
+149
+00:11:40,781 --> 00:11:46,660
+the surface of the epoxy and the surface of the hole in the concrete.
+
+150
+00:11:46,661 --> 00:11:51,320
+From that evidence, we basically focused on looking at a time-dependent failure mechanism,
+
+151
+00:11:51,321 --> 00:11:52,320
+which is the creep.
+
+152
+00:11:52,321 --> 00:11:58,280
+While the NTSB investigators continued to dig for more clues, scientists at the National
+
+153
+00:11:58,281 --> 00:12:02,580
+Institute for Standards and Technology were looking more deeply into the properties of
+
+154
+00:12:02,581 --> 00:12:04,900
+the epoxies used in the tunnel.
+
+155
+00:12:04,901 --> 00:12:11,700
+There were actually two types of epoxy, the standard set and the fast set, which dried
+
+156
+00:12:11,701 --> 00:12:12,700
+more quickly.
+
+157
+00:12:12,701 --> 00:12:18,760
+Well, NTSB provided us with fresh samples of two different epoxies, one labeled epoxy
+
+158
+00:12:18,761 --> 00:12:20,277
+A and one labeled epoxy B.
+
+159
+00:12:20,278 --> 00:12:23,660
+And they wanted us to do some basic characterizations, and
+
+160
+00:12:23,661 --> 00:12:27,300
+they were particularly interested in creep behavior.
+
+161
+00:12:27,301 --> 00:12:34,200
+NIST scientists prepared hardened samples of both types of epoxy, then loaded them
+
+162
+00:12:34,201 --> 00:12:39,840
+separately into a rheometric systems analyzer, a flow measurement system.
+
+163
+00:12:39,841 --> 00:12:46,340
+Then we start the test machine and it automatically does short-term experiments at a whole series
+
+164
+00:12:46,341 --> 00:12:52,500
+of different temperatures. So the whole process is completely automated.
+
+165
+00:12:52,501 --> 00:12:58,140
+After analyzing all the properties of the epoxies over six months, NIST scientists were able
+
+166
+00:12:58,141 --> 00:13:02,240
+to determine that the fast-set epoxy had a considerably higher rate of creep.
+
+167
+00:13:04,240 --> 00:13:06,860
+Essentially, the higher it is, the softer it is.
+
+168
+00:13:07,000 --> 00:13:11,220
+So you can see epoxy A is getting soft much faster than epoxy B.
+
+169
+00:13:11,700 --> 00:13:14,340
+What that means is it's deforming much more rapidly.
+
+170
+00:13:15,580 --> 00:13:19,040
+The analysis solved the mystery of why the panels had fallen.
+
+171
+00:13:20,840 --> 00:13:24,060
+The fast-set epoxy had been used to fasten the anchor bolts
+
+172
+00:13:24,061 --> 00:13:26,680
+into the concrete roof of the I-90 connector tunnel.
+
+173
+00:13:28,140 --> 00:13:34,540
+Because of its creep threshold, the fast set was unable to hold the bolts in place over a long period of time.
+
+174
+00:13:36,540 --> 00:13:40,080
+The epoxy failed just one year after it had been installed.
+
+175
+00:13:41,020 --> 00:13:46,680
+If this module hadn't have failed, it would have been just a matter of time before another one would have failed.
+
+176
+00:13:46,840 --> 00:13:50,000
+I mean, there was no doubt something was going to come down there.
+
+177
+00:13:50,520 --> 00:13:54,940
+The D Street portal reopened five months after the disaster.
+
+178
+00:13:55,780 --> 00:13:58,180
+The panels that fell were never replaced.
+
+179
+00:14:00,860 --> 00:14:07,820
+The cost of the epoxy used in the D Street portal construction was $1,287.60.
+
+180
+00:14:08,440 --> 00:14:11,980
+The price tag for redesigning, repairing, and inspecting all the tunnels
+
+181
+00:14:11,981 --> 00:14:16,640
+after the ceiling collapse in the D Street connector reached $54 million.
+
+182
+00:14:17,960 --> 00:14:20,840
+Engineering Disasters will return on Modern Marvels.
+
+183
+00:14:20,841 --> 00:14:30,320
+On August 2, 2007, the city of Minneapolis, Minnesota suddenly became a city in crisis.
+
+184
+00:14:33,900 --> 00:14:43,494
+A 500-foot span of the Interstate 35 highway, known as Bridge 9340, collapsed into the Mississippi River during the 6 p.m.
+
+185
+00:14:43,495 --> 00:14:44,280
+rush hour.
+
+186
+00:14:44,281 --> 00:14:48,900
+The bridge had been packed with cars and trucks.
+
+187
+00:14:49,640 --> 00:14:51,320
+Nine people plunged to their deaths.
+
+188
+00:14:56,300 --> 00:15:01,280
+Some people in their vehicles clung precariously on to what was left of the concrete bridge decking.
+
+189
+00:15:03,000 --> 00:15:06,240
+Waiting, stranded and scared, for help to arrive.
+
+190
+00:15:07,320 --> 00:15:09,780
+No one knew what could have caused such a disaster.
+
+191
+00:15:10,740 --> 00:15:14,620
+The first thought was the tragedy, the human aspects of this.
+
+192
+00:15:15,020 --> 00:15:19,800
+The second thing was, in an unfortunate way, it wasn't surprising to me
+
+193
+00:15:19,801 --> 00:15:23,300
+because we have such a large infrastructure in the country today
+
+194
+00:15:23,301 --> 00:15:26,020
+that things are bound to fail.
+
+195
+00:15:26,240 --> 00:15:31,420
+There's just so many bridges, so many dams, so many airports in the country today
+
+196
+00:15:31,421 --> 00:15:34,240
+that it's hard to keep everything running perfectly.
+
+197
+00:15:36,200 --> 00:15:38,580
+Intense rescue efforts continued through the night.
+
+198
+00:15:39,240 --> 00:15:44,420
+The next day, President George W. Bush visited the disaster site.
+
+199
+00:15:45,080 --> 00:15:50,120
+I have met with the chief of police and the sheriff and rescue workers,
+
+200
+00:15:50,560 --> 00:15:54,900
+people who represent men and women who are working as hard as they possibly can
+
+201
+00:15:54,901 --> 00:16:00,860
+to save life and to find life, to go under these murky waters to find the facts.
+
+202
+00:16:02,960 --> 00:16:06,020
+What caused this 40-year-old bridge to suddenly collapse?
+
+203
+00:16:06,021 --> 00:16:09,620
+Could the solution be found in the backstory of its construction?
+
+204
+00:16:11,540 --> 00:16:17,840
+It was built as a result of the Federal Aid Highway Act, championed by President Dwight Eisenhower in 1956.
+
+205
+00:16:19,360 --> 00:16:22,260
+This act created America's interstate highway system.
+
+206
+00:16:23,560 --> 00:16:28,220
+This wasn't just a bridge. It was a link in a mighty chain.
+
+207
+00:16:29,340 --> 00:16:34,300
+Tens of thousands of bridges across 46,000 miles.
+
+208
+00:16:36,020 --> 00:16:46,040
+Even though it looks so tragic now, it was part of the last great civil engineering effort in the United States.
+
+209
+00:16:46,860 --> 00:16:53,140
+The Minnesota I-35 bridge was the last of the steel truss bridges, built as part of the interstate network.
+
+210
+00:16:54,780 --> 00:17:01,940
+Trusses were very common in the eastern part of the country because concrete is not as readily available in the eastern half of the United States as it is out here.
+
+211
+00:17:01,941 --> 00:17:06,300
+steel is more readily available and that's where all the industrialization went on back east with
+
+212
+00:17:06,301 --> 00:17:07,840
+the steel mills and so forth.
+
+213
+00:17:07,841 --> 00:17:11,240
+So a lot of steel trusses were built late in the 19th century in
+
+214
+00:17:11,241 --> 00:17:13,017
+the first half of the 20th.
+
+215
+00:17:13,018 --> 00:17:17,560
+Could an inherent flaw in truss bridge design explain the disaster in
+
+216
+00:17:17,561 --> 00:17:18,715
+Minneapolis?
+
+217
+00:17:18,716 --> 00:17:25,740
+To construct America's truss bridges, engineers used straight steel beams
+
+218
+00:17:25,741 --> 00:17:29,780
+and configured them into a triangular pattern called the truss.
+
+219
+00:17:31,940 --> 00:17:37,460
+The beams were secured with gusset plates that were riveted at the key joints where the individual pieces came together.
+
+220
+00:17:39,380 --> 00:17:41,860
+The trusses rested on concrete piers.
+
+221
+00:17:43,220 --> 00:17:52,680
+In Minneapolis, the concrete roadway deck lay on two parallel trusses that spanned the Mississippi and part of the riverbank on both the north and south sides.
+
+222
+00:17:54,260 --> 00:17:59,280
+The same steel truss design was used on the Riverside Bridge in Los Angeles, California.
+
+223
+00:18:00,020 --> 00:18:01,760
+It's been standing since 1939.
+
+224
+00:18:01,940 --> 00:18:06,620
+These are all individual straight steel members.
+
+225
+00:18:06,980 --> 00:18:09,120
+That's all this bridge is composed of, this truss.
+
+226
+00:18:09,820 --> 00:18:12,880
+So let's start at the support over here, the very end of the bridge.
+
+227
+00:18:13,120 --> 00:18:15,780
+There's a vertical member, there's a diagonal member,
+
+228
+00:18:16,020 --> 00:18:18,180
+and there's a horizontal, the bottom cord member.
+
+229
+00:18:18,300 --> 00:18:23,120
+And they all come together, so you have to fasten those three members together.
+
+230
+00:18:24,020 --> 00:18:27,120
+The steel truss design is called non-redundant.
+
+231
+00:18:27,760 --> 00:18:33,520
+This means that if one of the horizontal, diagonal, or vertical steel members is cracked or damaged in some way,
+
+232
+00:18:34,060 --> 00:18:35,840
+it will affect the entire structure.
+
+233
+00:18:37,860 --> 00:18:40,080
+That doesn't mean it's unsafe.
+
+234
+00:18:40,580 --> 00:18:44,480
+There are thousands of non-redundant bridges around the country,
+
+235
+00:18:44,720 --> 00:18:48,580
+but it does mean you have to take an extra effort in the inspection.
+
+236
+00:18:50,720 --> 00:18:53,860
+Inspectors examine the I-35 bridge every two years.
+
+237
+00:18:53,861 --> 00:18:57,420
+could they have missed a crucial sign that disaster was imminent?
+
+238
+00:19:02,000 --> 00:19:05,500
+After its last inspection, it had been rated structurally deficient.
+
+239
+00:19:06,140 --> 00:19:09,460
+But that wasn't an indication that the bridge could fall at any moment.
+
+240
+00:19:10,580 --> 00:19:13,960
+There are currently over 1,600 bridges across America
+
+241
+00:19:13,961 --> 00:19:16,260
+that are also rated structurally deficient.
+
+242
+00:19:16,800 --> 00:19:18,540
+And none of them have been closed.
+
+243
+00:19:18,541 --> 00:19:25,540
+Since there was construction on the bridge at the time of the collapse, some wonder if
+
+244
+00:19:25,541 --> 00:19:30,820
+the extra weight on the deck might have strained the supports.
+
+245
+00:19:30,821 --> 00:19:35,360
+But many suspect that the most probable cause of the collapse was that the bridge's steel
+
+246
+00:19:35,361 --> 00:19:42,580
+had been weakened by so-called fatigue cracks caused by the ravages of time or the elements.
+
+247
+00:19:42,581 --> 00:19:44,720
+Many of these cracks can be microscopic.
+
+248
+00:19:44,721 --> 00:19:50,600
+It's not just the crack itself, it's the possibility that water will get in there or ice will get
+
+249
+00:19:50,601 --> 00:19:54,080
+in there and work the crack over time.
+
+250
+00:19:54,081 --> 00:20:01,680
+So just a hairline crack in a particularly bad place can cause a catastrophic failure.
+
+251
+00:20:01,681 --> 00:20:02,680
+It's like a paper clip.
+
+252
+00:20:02,681 --> 00:20:06,220
+If you bend the paper clip once, you can't just break it apart.
+
+253
+00:20:06,221 --> 00:20:12,360
+But if you bend it over and over again, eventually the material cracks and then that crack grows
+
+254
+00:20:12,361 --> 00:20:14,440
+and then it comes apart.
+
+255
+00:20:14,441 --> 00:20:19,440
+Some experts blame a more surprising factor, the pigeons, who frequently perched on the
+
+256
+00:20:19,441 --> 00:20:21,400
+bridge's steel beams.
+
+257
+00:20:21,401 --> 00:20:25,620
+The bird's waste could clog the structure's drains and corrode its steel.
+
+258
+00:20:25,621 --> 00:20:31,940
+Pigeons, as small as they are, can be a big problem because of their droppings.
+
+259
+00:20:31,941 --> 00:20:38,200
+The ammonia chemically combines into a corrosive compound.
+
+260
+00:20:38,201 --> 00:20:42,080
+Engineers explored methods to prevent the pigeons from landing on the bridge.
+
+261
+00:20:42,081 --> 00:20:47,640
+The other thing, maybe most interesting, is they put screens over all those little holes
+
+262
+00:20:47,641 --> 00:20:51,080
+in the box beams, those girders, to keep the pigeons out.
+
+263
+00:20:51,380 --> 00:20:55,320
+So they wouldn't have a happy home in bridge 9340.
+
+264
+00:20:57,540 --> 00:21:04,780
+It could be that the load on the bridge imposed by the construction work was one contributor.
+
+265
+00:21:04,781 --> 00:21:10,640
+It's also possible that the pigeon waste could have also contributed to the problem.
+
+266
+00:21:10,641 --> 00:21:15,300
+So it wouldn't surprise me if this fracture-critical bridge
+
+267
+00:21:15,301 --> 00:21:19,600
+was really susceptible and failed because of a combination of factors,
+
+268
+00:21:19,601 --> 00:21:22,420
+not just one silver bullet itself.
+
+269
+00:21:23,680 --> 00:21:26,280
+While on-scene investigators work day and night
+
+270
+00:21:26,281 --> 00:21:28,300
+to uncover clues to the bridge's collapse,
+
+271
+00:21:29,080 --> 00:21:31,840
+engineers are seeking ways to prevent any similar disaster
+
+272
+00:21:31,841 --> 00:21:32,920
+from occurring in the future.
+
+273
+00:21:36,100 --> 00:21:39,740
+One company in California believes it has found the answer.
+
+274
+00:21:40,640 --> 00:21:49,320
+Researchers at Material Technologies in Los Angeles have come up with a new way to detect
+
+275
+00:21:49,321 --> 00:21:55,480
+and monitor fatigue cracks.
+
+276
+00:21:55,481 --> 00:21:57,240
+Their secret weapon?
+
+277
+00:21:57,241 --> 00:22:00,560
+Electrical sensors.
+
+278
+00:22:00,561 --> 00:22:02,620
+Our technology is really fascinating.
+
+279
+00:22:02,621 --> 00:22:04,520
+It's very, very simple.
+
+280
+00:22:04,521 --> 00:22:07,980
+It's identical to an EKG on your heart.
+
+281
+00:22:07,981 --> 00:22:13,220
+And the way it works is that we go to what is called the fatigue critical location of
+
+282
+00:22:13,221 --> 00:22:14,220
+a bridge.
+
+283
+00:22:14,221 --> 00:22:17,980
+If you have a little crack in a fatigue critical location, you've got a problem.
+
+284
+00:22:17,981 --> 00:22:23,980
+First, the team mounts and preps two sensors, one on an area under the bridge that has a
+
+285
+00:22:23,981 --> 00:22:27,900
+crack and one nearby that is crack free.
+
+286
+00:22:27,901 --> 00:22:32,980
+As a crack changes in size under stress, the sensors will detect minute electrical impulses.
+
+287
+00:22:32,981 --> 00:22:36,780
+This is the potentiostat data length.
+
+288
+00:22:36,781 --> 00:22:41,900
+This actually applies the voltage and reads back the current.
+
+289
+00:22:41,901 --> 00:22:46,500
+This is the brains of the operation.
+
+290
+00:22:46,501 --> 00:22:50,640
+The sensors detect the amount of stress being put on the cracks from the traffic that goes
+
+291
+00:22:50,641 --> 00:22:53,160
+over the bridge.
+
+292
+00:22:53,161 --> 00:22:59,720
+That data is transmitted back to a computer at the company's offices, where it's monitored.
+
+293
+00:22:59,721 --> 00:23:04,860
+red elongation of a spike represents a crack that's growing.
+
+294
+00:23:04,861 --> 00:23:10,500
+Out in the real world, how this helps is that we've got lots of bridges out there that have
+
+295
+00:23:10,501 --> 00:23:12,300
+aged and have fatigue cracks.
+
+296
+00:23:12,301 --> 00:23:17,320
+And so this actually gives us a diagnostic tool by putting those sensors on there for
+
+297
+00:23:17,321 --> 00:23:20,780
+us to be able to determine which cracks are growing and which ones are not, which ones
+
+298
+00:23:20,781 --> 00:23:24,400
+need to be repaired and which ones we can leave.
+
+299
+00:23:24,401 --> 00:23:36,640
+The collapse of Bridge 9340 in Minneapolis has created a higher awareness of aging bridge infrastructures in America and made finding solutions a new national priority.
+
+300
+00:23:38,020 --> 00:23:50,020
+In the meantime, the search continues in Minneapolis, a thorough and tedious process, digging through the wreckage for clues to what brought Bridge 9340 down.
+
+301
+00:23:50,021 --> 00:23:59,360
+The 144,000 cars and trucks that traveled across the Minneapolis Bridge each day in 2007
+
+302
+00:23:59,361 --> 00:24:05,160
+represented twice the projected traffic flow planned for when the bridge was built in 1967.
+
+303
+00:24:07,400 --> 00:24:10,380
+Engineering disasters will return on Modern Marvels.
+
+304
+00:24:14,320 --> 00:24:16,160
+September 11, 1982.
+
+305
+00:24:17,060 --> 00:24:19,000
+At an air show in Mannheim, Germany.
+
+306
+00:24:20,020 --> 00:24:24,120
+A US Army helicopter suddenly plummets from the sky.
+
+307
+00:24:24,121 --> 00:24:27,820
+It crashes to the ground and bursts into flames.
+
+308
+00:24:27,821 --> 00:24:32,340
+All 46 people on board perish.
+
+309
+00:24:32,341 --> 00:24:34,740
+The mission of the aircraft on the day of the accident
+
+310
+00:24:34,741 --> 00:24:39,580
+was to support a parachute drop, to support the 375th birthday
+
+311
+00:24:39,581 --> 00:24:42,580
+of the Mannheim community.
+
+312
+00:24:42,581 --> 00:24:45,280
+The aircraft took off and was climbing to an assigned
+
+313
+00:24:45,281 --> 00:24:48,820
+altitude, which would allow for the paratroopers to jump.
+
+314
+00:24:48,821 --> 00:24:53,720
+They climbed to about 10,000 feet, and then they started coming back down.
+
+315
+00:24:54,240 --> 00:24:58,200
+And from what we know is that the second Chinook that was on the ground
+
+316
+00:24:58,201 --> 00:25:01,460
+called them and asked, why are you coming back down?
+
+317
+00:25:01,620 --> 00:25:03,980
+You haven't dropped your parachute teams yet.
+
+318
+00:25:06,360 --> 00:25:11,340
+They landed with basically over 200 Gs of force, and it was completely unsurvileable.
+
+319
+00:25:11,840 --> 00:25:17,300
+What remained of the Chinook 47C helicopter was a pile of burned and twisted metal.
+
+320
+00:25:18,820 --> 00:25:26,660
+Officials from the Army's aviation headquarters in Fort Rucker, Alabama, rushed to the scene to investigate the events that led to this tragedy.
+
+321
+00:25:30,320 --> 00:25:36,160
+Eyewitnesses reported that the Chinook's rear pylon and rotor detached from the aircraft during its descent.
+
+322
+00:25:37,040 --> 00:25:39,700
+It dropped to the ground from 500 feet.
+
+323
+00:25:41,640 --> 00:25:46,675
+How could this have happened to the esteemed aerial workhorse that continues to serve the U.S.
+
+324
+00:25:46,676 --> 00:25:47,800
+military to this day?
+
+325
+00:25:48,820 --> 00:25:55,820
+Since its debut in 1961, the Chinook had had an impeccable safety record.
+
+326
+00:25:55,821 --> 00:25:58,788
+The Chinook is the Army's heavy lift platform.
+
+327
+00:25:58,789 --> 00:26:01,820
+It has a useful payload of about 20,000 pounds.
+
+328
+00:26:01,821 --> 00:26:08,820
+That payload can consist of beams, bullets, soldiers, putting critical supplies at the right place.
+
+329
+00:26:08,821 --> 00:26:16,335
+If you want to move your organization and you want to do it quickly, well then you ask for a Chinook because you can get a lot of guys on it and you can haul some
+
+330
+00:26:16,336 --> 00:26:17,820
+equipment while you're doing it.
+
+331
+00:26:17,821 --> 00:26:20,320
+How are you doing?
+
+332
+00:26:20,321 --> 00:26:23,900
+Could pilot error explain the cause of the crash?
+
+333
+00:26:23,901 --> 00:26:26,100
+Or was the disaster triggered by a mechanical failure?
+
+334
+00:26:29,020 --> 00:26:32,540
+The Chinook helicopter is equipped with two engines.
+
+335
+00:26:32,541 --> 00:26:37,340
+The engines are connected by a combining transmission.
+
+336
+00:26:37,341 --> 00:26:39,580
+The engines, through the combining transmission,
+
+337
+00:26:39,581 --> 00:26:42,400
+run drive shafts that control the synchronized rotation
+
+338
+00:26:42,401 --> 00:26:44,100
+of the rotors.
+
+339
+00:26:44,101 --> 00:26:46,300
+This allows the rotor blades to pass by each other
+
+340
+00:26:46,301 --> 00:26:48,800
+without making contact.
+
+341
+00:26:48,801 --> 00:26:51,740
+The tandem action provides both the lift and thrust
+
+342
+00:26:51,741 --> 00:26:53,560
+of the aircraft.
+
+343
+00:26:53,561 --> 00:26:56,820
+Investigators hope to find clues to the crash in the engine
+
+344
+00:26:56,821 --> 00:26:59,700
+and rotor hardware.
+
+345
+00:26:59,701 --> 00:27:02,240
+But at the crash site, few parts of the Chinook
+
+346
+00:27:02,241 --> 00:27:03,800
+remained intact.
+
+347
+00:27:03,801 --> 00:27:06,880
+Roughly 85% of the aircraft was consumed
+
+348
+00:27:06,881 --> 00:27:09,300
+by the crash and the fire.
+
+349
+00:27:09,301 --> 00:27:13,440
+Still, they were able to recover one key piece of evidence.
+
+350
+00:27:13,441 --> 00:27:15,180
+The team on the preliminary investigation
+
+351
+00:27:15,181 --> 00:27:20,100
+was able to see some heat stress on the pinion bearing that failed.
+
+352
+00:27:20,600 --> 00:27:22,820
+That part hadn't been totally consumed by the fire,
+
+353
+00:27:22,960 --> 00:27:24,420
+so they were able to further pursue that.
+
+354
+00:27:25,620 --> 00:27:28,640
+The pinion bearing was part of the forward transmission.
+
+355
+00:27:30,580 --> 00:27:35,560
+So the first indication of a bearing looking like it's overstressed
+
+356
+00:27:35,561 --> 00:27:38,460
+is kind of like a smoking gun.
+
+357
+00:27:38,461 --> 00:27:42,500
+You're looking for something like that to tell you where the failure occurred.
+
+358
+00:27:42,501 --> 00:27:46,500
+Small jets in the transmission, known as oil ports,
+
+359
+00:27:46,501 --> 00:27:49,500
+are used to lubricate the pinion bearings.
+
+360
+00:27:49,501 --> 00:27:52,500
+Army investigators discovered that something had clogged the
+
+361
+00:27:52,501 --> 00:27:55,500
+jets, preventing the oil from flowing to the bearing.
+
+362
+00:27:55,501 --> 00:27:58,500
+They were able to determine that it was an organic material
+
+363
+00:27:58,501 --> 00:28:01,500
+similar to very fine walnut shells.
+
+364
+00:28:01,501 --> 00:28:05,500
+The pieces of the puzzle began to fall into place.
+
+365
+00:28:05,501 --> 00:28:08,500
+For years, the Army had used ground walnut shells to clean
+
+366
+00:28:08,501 --> 00:28:11,500
+the Chinook parts.
+
+367
+00:28:11,501 --> 00:28:14,320
+These finely ground particles were non-abrasive to metal.
+
+368
+00:28:15,660 --> 00:28:19,460
+The wool nut material was flushed through the engine parts using high-pressure air.
+
+369
+00:28:20,080 --> 00:28:25,420
+It was a matter that they used at that time to clean cases, transmission cases,
+
+370
+00:28:25,660 --> 00:28:28,360
+kind of like sandblasting but using that organic matter.
+
+371
+00:28:28,660 --> 00:28:32,600
+That at the time was a very effective means for cleaning a multitude of aviation parts.
+
+372
+00:28:33,320 --> 00:28:37,840
+The conclusion of the investigation showed that the grid that did not get flushed
+
+373
+00:28:37,841 --> 00:28:44,600
+caused the whole port to clog, which started the chain event for the crash itself.
+
+374
+00:28:45,500 --> 00:28:51,280
+The oil jet, clogged with the ground walnut shells, caused the pinion bearing to seize and then fail.
+
+375
+00:28:52,740 --> 00:28:58,780
+This caused the front rotor to desynchronize with its aft counterpart, and the two became enmeshed.
+
+376
+00:28:59,540 --> 00:29:01,560
+The blades were hitting each other as they rotated.
+
+377
+00:29:01,561 --> 00:29:09,160
+During the Army's two-month investigation, the entire fleet of Chinook 47Cs was grounded.
+
+378
+00:29:11,220 --> 00:29:14,820
+Investigators discovered that one other Chinook had walnut grit in its engine,
+
+379
+00:29:15,260 --> 00:29:20,100
+and military officials decided to end its use and find alternative cleaning engines.
+
+380
+00:29:20,840 --> 00:29:25,780
+We use solvents, chemicals that are in liquid form that would not cause a blockage.
+
+381
+00:29:25,781 --> 00:29:31,860
+Since the accident in 1982, there have been other safety improvements made to the aircraft.
+
+382
+00:29:32,660 --> 00:29:40,640
+We've added pressure and temperature sensors, debris screen latches that would give an indication
+
+383
+00:29:40,641 --> 00:29:45,000
+to the crew in the front or the flight engineer in the back that you could have an impending failure,
+
+384
+00:29:45,660 --> 00:29:50,520
+giving him time to perform an emergency procedure that would prevent a catastrophic incident.
+
+385
+00:29:50,521 --> 00:29:57,640
+During the quarter century since the tragedy in Mannheim, the Chinook has remained a valuable
+
+386
+00:29:57,641 --> 00:30:01,020
+strategic asset for the U.S. Armed Forces.
+
+387
+00:30:01,021 --> 00:30:09,040
+And today, over 400 Chinooks take to the skies in defense of America's interests.
+
+388
+00:30:09,041 --> 00:30:17,800
+In the early 1990s, real estate tycoon Donald Trump owned two Chinook CH-47s.
+
+389
+00:30:17,801 --> 00:30:24,460
+As part of Trump Air, the helicopters were used to shuttle his clients from New York City to his casinos in New Jersey.
+
+390
+00:30:25,600 --> 00:30:30,760
+Engineering disasters will return on Modern Marvels, here on the History Channel.
+
+391
+00:30:32,960 --> 00:30:38,880
+We're getting suspicious calls of some sort of explosion, unknown if it's occurring on the freeway or off the freeway.
+
+392
+00:30:38,881 --> 00:30:41,120
+Looks like we have a large fire at the maze.
+
+393
+00:30:42,000 --> 00:30:43,940
+Time for possibly a tanker.
+
+394
+00:30:43,941 --> 00:30:48,620
+Yeah, the transition to Southbound 880 is fully engulfed.
+
+395
+00:30:50,340 --> 00:30:54,740
+On April 29, 2007, at 3.27 a.m.,
+
+396
+00:30:54,741 --> 00:30:58,720
+a tanker truck heading south on Interstate 880 in Oakland, California,
+
+397
+00:30:59,500 --> 00:31:03,620
+crashed into a guardrail, flipped over, and burst into flames.
+
+398
+00:31:04,520 --> 00:31:09,240
+It was carrying a full load, 8,600 gallons of gasoline.
+
+399
+00:31:10,240 --> 00:31:12,580
+15 minutes after the gasoline exploded,
+
+400
+00:31:13,200 --> 00:31:16,360
+the I-580 overpass above the truck collapsed.
+
+401
+00:31:16,840 --> 00:31:18,640
+All available units, code 3.
+
+402
+00:31:20,440 --> 00:31:23,300
+This alarming disaster was a shocking wake-up call
+
+403
+00:31:23,301 --> 00:31:24,520
+for state government officials
+
+404
+00:31:24,521 --> 00:31:26,880
+and California transportation personnel.
+
+405
+00:31:28,300 --> 00:31:30,620
+I wanted to come here personally
+
+406
+00:31:30,621 --> 00:31:34,560
+to see the damage that was caused here
+
+407
+00:31:34,561 --> 00:31:37,120
+because of this accident that happened early this morning.
+
+408
+00:31:37,121 --> 00:31:41,800
+The 160-foot section of the I-580 overpass was completely destroyed.
+
+409
+00:31:44,640 --> 00:31:47,480
+The disaster brought traffic to a dead stop.
+
+410
+00:31:48,700 --> 00:31:50,840
+I declare the state of emergency today.
+
+411
+00:31:51,280 --> 00:31:56,400
+The state of emergency was used so we can cut through all the red tape and cut through the bureaucracy.
+
+412
+00:31:57,260 --> 00:32:02,520
+The section of the Oakland freeway system where the accident occurred is called the MacArthur Maze.
+
+413
+00:32:03,420 --> 00:32:05,840
+Three major interstate routes converge here,
+
+414
+00:32:06,020 --> 00:32:08,620
+on their way to the Bay Bridge, heading into San Francisco.
+
+415
+00:32:09,620 --> 00:32:14,600
+There are about 280,000 vehicles that go across that bridge every day,
+
+416
+00:32:15,140 --> 00:32:18,060
+so it is really a lifeline for the community.
+
+417
+00:32:18,960 --> 00:32:21,700
+Learning the cause of this freeway failure was important,
+
+418
+00:32:22,420 --> 00:32:24,620
+but the California Department of Transportation
+
+419
+00:32:24,621 --> 00:32:27,220
+had a very immediate problem to deal with first.
+
+420
+00:32:28,300 --> 00:32:30,780
+How to reroute the enormous volume of traffic.
+
+421
+00:32:30,781 --> 00:32:38,880
+We have a large number of variable message signs, highway advisory radios that we were
+
+422
+00:32:38,881 --> 00:32:46,280
+able to activate virtually immediately for an incident like this.
+
+423
+00:32:46,281 --> 00:32:49,900
+Every day the freeway was out of commission caused commuter times to increase more than
+
+424
+00:32:49,901 --> 00:32:55,740
+67 percent, with a financial impact of millions of dollars.
+
+425
+00:32:55,741 --> 00:33:00,020
+Caltrans designers and project managers had to quickly formulate a plan of action.
+
+426
+00:33:00,780 --> 00:33:07,260
+What happened over the next few hours and days really amounted to doing investigative work.
+
+427
+00:33:07,261 --> 00:33:13,460
+First of all, we were trying to make sure that it was safe for our investigative teams to get onto the site.
+
+428
+00:33:14,300 --> 00:33:16,600
+Right now we're underneath the 880 connector,
+
+429
+00:33:17,160 --> 00:33:20,880
+and this is the structure on which the tanker truck was driving
+
+430
+00:33:20,881 --> 00:33:24,480
+and on which the other structure, the upper structure, fell.
+
+431
+00:33:25,740 --> 00:33:29,560
+This structure had the burning fuel on the deck from the tanker.
+
+432
+00:33:30,080 --> 00:33:33,200
+There was a drain in the deck, so there was also burning fuel down here.
+
+433
+00:33:33,720 --> 00:33:38,320
+The Caltrans team had to remove the collapsed section of the 580 overpass safely
+
+434
+00:33:38,321 --> 00:33:42,200
+and make sure the structural integrity of the I-880 freeway,
+
+435
+00:33:42,560 --> 00:33:45,420
+where the truck exploded, wasn't compromised in any way.
+
+436
+00:33:47,000 --> 00:33:50,840
+We came up with a shoring or false work system
+
+437
+00:33:50,841 --> 00:33:52,860
+that we installed underneath the 880 structure.
+
+438
+00:33:53,320 --> 00:33:54,920
+Basically, we built a bridge under the bridge.
+
+439
+00:33:55,740 --> 00:34:01,620
+Caltrans also enlisted the help of an engineering firm to analyze the concrete on the I-880 deck.
+
+440
+00:34:02,280 --> 00:34:06,640
+The big questions were what was the condition of the concrete that was still remaining
+
+441
+00:34:06,641 --> 00:34:13,560
+and whether or not, for example, the concrete deck or supporting columns needed substantial repair.
+
+442
+00:34:14,900 --> 00:34:18,080
+Engineers used several methods to test the concrete for damage.
+
+443
+00:34:18,620 --> 00:34:21,860
+One was decidedly low-tech, yet highly effective,
+
+444
+00:34:23,020 --> 00:34:25,120
+wrapping the surface of the concrete with a hammer.
+
+445
+00:34:25,740 --> 00:34:32,760
+It's got a nice high-pitched solid ring to it. Damaged concrete would it would be
+
+446
+00:34:32,761 --> 00:34:38,640
+more of a thud. I mean not nearly a high-pitched ring. The core samples taken
+
+447
+00:34:38,641 --> 00:34:42,000
+from the disaster site were tested in the laboratory for their compression
+
+448
+00:34:42,001 --> 00:34:50,180
+strength. These are placed in a test apparatus and load is applied until the
+
+449
+00:34:50,181 --> 00:34:55,020
+concrete sample breaks and that's called the concrete compressive strength. From
+
+450
+00:34:55,021 --> 00:35:00,580
+From that we can understand whether or not there's a lot of internal damage to it.
+
+451
+00:35:00,581 --> 00:35:06,460
+Engineers also subjected the concrete to a process called petrographic examination.
+
+452
+00:35:06,461 --> 00:35:14,400
+What happens is in the laboratory they slice or cut the core in half, so you have two pieces.
+
+453
+00:35:14,401 --> 00:35:19,100
+They polish the halves very smoothly.
+
+454
+00:35:19,101 --> 00:35:23,820
+The petrographers examined the polished concrete under microscopes to look for any cracks and
+
+455
+00:35:23,821 --> 00:35:29,920
+color changes that might be imperceptible to the naked eye.
+
+456
+00:35:29,921 --> 00:35:34,140
+When all the tests had been done, lab and field experts determined that the deck of
+
+457
+00:35:34,141 --> 00:35:39,000
+the I-880 freeway had suffered only superficial damage.
+
+458
+00:35:39,001 --> 00:35:44,500
+Only eight days after the collapse, Caltrans allowed traffic back on the I-880.
+
+459
+00:35:44,501 --> 00:35:48,940
+Now 35,000 cars a day were on the road again.
+
+460
+00:35:48,941 --> 00:35:54,000
+45,000 more commuters would still have to wait until the I-580 overpass was rebuilt.
+
+461
+00:35:55,740 --> 00:35:59,320
+Caltrans put the rebuild of the overpass on an accelerated schedule.
+
+462
+00:36:00,560 --> 00:36:05,820
+First, working with round-the-clock construction crews, they erected new concrete support columns.
+
+463
+00:36:06,660 --> 00:36:12,780
+And since the steel beam capping them had collapsed during the tanker fire, they added a new beam made of concrete.
+
+464
+00:36:12,781 --> 00:36:19,780
+At the same time, ironworkers were fabricating the steel girders to support the overpass.
+
+465
+00:36:19,781 --> 00:36:26,780
+If you look at the structural steel girders that are on some of these other existing spans,
+
+466
+00:36:26,781 --> 00:36:32,780
+you'll see a lot of vertical plates that are welded on, and those are individually welded,
+
+467
+00:36:32,781 --> 00:36:35,033
+and that takes a lot of fabrication time.
+
+468
+00:36:35,034 --> 00:36:37,780
+So what we did on the design of the new girders is
+
+469
+00:36:37,781 --> 00:36:43,320
+is we minimized that and tried to minimize the amount of welding that would be required
+
+470
+00:36:43,321 --> 00:36:46,600
+to fabricate these girders so that they could be fabricated much quicker.
+
+471
+00:36:48,240 --> 00:36:53,280
+Once the team got the girders in place, concrete pourers prepared the deck.
+
+472
+00:36:54,160 --> 00:36:56,840
+It was one of the last steps in the rebuild process.
+
+473
+00:36:58,220 --> 00:37:04,120
+By May 24, 2007, Caltrans had completed the new I-580 overpass.
+
+474
+00:37:05,120 --> 00:37:09,280
+Except for some final painting, the MacArthur maze was once again up and running.
+
+475
+00:37:12,180 --> 00:37:14,580
+What had caused its collapse in the first place?
+
+476
+00:37:15,800 --> 00:37:18,700
+Caltrans officials determined that when the tanker truck exploded,
+
+477
+00:37:19,220 --> 00:37:22,500
+the temperature of the fire reached 3,000 degrees Fahrenheit.
+
+478
+00:37:23,260 --> 00:37:27,880
+This extreme heat melted the steel girders and caused the concrete overpass to fall.
+
+479
+00:37:28,740 --> 00:37:31,660
+Could any designer have anticipated such a freakish event?
+
+480
+00:37:32,480 --> 00:37:36,540
+From an engineer's point of view, you can't think of everything, no matter how hard you try.
+
+481
+00:37:36,960 --> 00:37:41,320
+And even if you do try and think of everything, that drives up the costs of the project.
+
+482
+00:37:41,760 --> 00:37:47,360
+So there is a trade-off between degree of safety and the amount of money that you're going to spend on an individual bridge.
+
+483
+00:37:48,540 --> 00:37:52,680
+If an engineering disaster can have a happy ending, here was one.
+
+484
+00:37:53,180 --> 00:37:54,640
+No one had been killed.
+
+485
+00:37:54,641 --> 00:38:03,060
+And through persistent and coordinated efforts, Caltrans had rebuilt a vital overpass in an astounding 26 days.
+
+486
+00:38:05,980 --> 00:38:11,895
+By completing the construction of the I-580 overpass more than 30 days early, the C.C.
+
+487
+00:38:11,896 --> 00:38:14,440
+Myers Company won a $5 million bonus.
+
+488
+00:38:15,360 --> 00:38:20,440
+Its original bid for the repair work was only $867,075.
+
+489
+00:38:20,441 --> 00:38:25,520
+Engineering disasters will return on Modern Marvels.
+
+490
+00:38:28,280 --> 00:38:32,000
+Imagine your house, your neighborhood, your entire town,
+
+491
+00:38:32,680 --> 00:38:36,440
+flooded by a torrent of mud, gushing from a crack in the earth.
+
+492
+00:38:37,460 --> 00:38:41,620
+This frightening scenario happened in 2006 in Sidoaro,
+
+493
+00:38:42,080 --> 00:38:43,960
+a town in East Java, Indonesia.
+
+494
+00:38:44,880 --> 00:38:47,440
+The mud began its assault on May 29th.
+
+495
+00:38:47,441 --> 00:38:52,820
+Over the course of the next few months, the rate at which mud came up to the surface increased
+
+496
+00:38:52,821 --> 00:38:59,000
+dramatically and has persisted for a couple of years without any signs of slowing down.
+
+497
+00:38:59,001 --> 00:39:03,440
+The phenomenon is called a mud volcano.
+
+498
+00:39:03,441 --> 00:39:09,860
+And it has unleashed its slow motion destruction over 1,500 acres, destroying villages, factories
+
+499
+00:39:09,861 --> 00:39:11,860
+and fields.
+
+500
+00:39:11,861 --> 00:39:17,140
+30,000 people have been displaced.
+
+501
+00:39:17,141 --> 00:39:19,400
+There's lots of seepage from over there.
+
+502
+00:39:19,401 --> 00:39:21,360
+This area was all paddy fields.
+
+503
+00:39:21,361 --> 00:39:23,740
+There were paddy fields all the way down there.
+
+504
+00:39:23,741 --> 00:39:29,820
+The mud that's erupting is also hot, so it's not easy to recolonize or resettle the area
+
+505
+00:39:29,821 --> 00:39:31,320
+that's been erupting.
+
+506
+00:39:31,321 --> 00:39:37,000
+And some of the mud is now going into rivers and streams and then into the ocean.
+
+507
+00:39:37,001 --> 00:39:42,020
+A mud volcano is a natural phenomenon that originates deep within the earth, where deposits
+
+508
+00:39:42,021 --> 00:39:45,700
+of mud exist.
+
+509
+00:39:45,701 --> 00:39:51,920
+activity, compaction of sediments, or an accumulation of hydrocarbon gases force changes in the
+
+510
+00:39:51,921 --> 00:39:53,280
+pressure of the mud.
+
+511
+00:39:53,281 --> 00:39:57,700
+These pressure changes propel the mud upward to the surface where
+
+512
+00:39:57,701 --> 00:39:58,935
+it's expelled.
+
+513
+00:39:58,936 --> 00:40:05,200
+The Indonesian mud volcano is one of the world's largest, shooting over
+
+514
+00:40:05,201 --> 00:40:06,623
+46 feet into the air.
+
+515
+00:40:06,624 --> 00:40:10,960
+Real volcanoes erupt in part because they're gases in the magma,
+
+516
+00:40:10,961 --> 00:40:14,640
+the molten rock. Those gases make the magma light and light things go up.
+
+517
+00:40:15,360 --> 00:40:18,741
+And mud volcanoes contain lots of dissolved gases too.
+
+518
+00:40:18,742 --> 00:40:21,120
+And so these gases form bubbles as the
+
+519
+00:40:21,121 --> 00:40:25,200
+mud rises to the surface. It makes it lighter and that helps drive the eruption.
+
+520
+00:40:26,000 --> 00:40:29,083
+What triggered this rare occurrence in East Java?
+
+521
+00:40:29,084 --> 00:40:31,600
+Some experts believe it was caused by an
+
+522
+00:40:31,601 --> 00:40:37,200
+engineering disaster because the site of the eruption was near a natural gas drilling well.
+
+523
+00:40:37,201 --> 00:40:44,820
+Geologists who have studied the mud volcano first-hand concluded that the Lepindo Brontus
+
+524
+00:40:44,821 --> 00:40:48,180
+Company was drilling to a depth of more than 9,000 feet.
+
+525
+00:40:48,181 --> 00:40:51,744
+And the depth at which the muds are erupting is similar to that.
+
+526
+00:40:51,745 --> 00:40:53,080
+And we know how deep the
+
+527
+00:40:53,081 --> 00:40:58,500
+muds are coming from by looking at the types of muds that are erupted compared to what the
+
+528
+00:40:58,501 --> 00:41:01,314
+drillers pull up in the well when they're drilling.
+
+529
+00:41:01,315 --> 00:41:03,300
+According to the geological experts,
+
+530
+00:41:03,301 --> 00:41:09,540
+On May 28th, the day before the mud began erupting, the Natural Gas Company had drilled
+
+531
+00:41:09,541 --> 00:41:10,855
+to 9,297 feet.
+
+532
+00:41:10,856 --> 00:41:17,620
+They pulled the drill bit out of the hole, and this probably triggered a
+
+533
+00:41:17,621 --> 00:41:23,401
+catastrophic kick of hydrogen sulfide gas and water from the surrounding rocks.
+
+534
+00:41:23,402 --> 00:41:24,102
+The water
+
+535
+00:41:24,103 --> 00:41:26,697
+and gas began filtering up through the wellbore.
+
+536
+00:41:26,698 --> 00:41:29,060
+To prevent the toxic mixture from escaping,
+
+537
+00:41:29,061 --> 00:41:30,857
+the company capped the well.
+
+538
+00:41:30,858 --> 00:41:34,900
+This could have created an increase in pressure inside the hole
+
+539
+00:41:34,901 --> 00:41:36,433
+that fractured the rocks.
+
+540
+00:41:36,434 --> 00:41:40,420
+The fractures allowed the mud to travel to the surface and erupt.
+
+541
+00:41:41,080 --> 00:41:45,351
+The actual mud volcano was 590 feet away from the well.
+
+542
+00:41:45,352 --> 00:41:48,380
+But could the eruption have been caused
+
+543
+00:41:48,381 --> 00:41:50,119
+instead by natural forces?
+
+544
+00:41:50,120 --> 00:41:54,800
+Such is the assertion of the Indonesian drilling company, which claims
+
+545
+00:41:54,801 --> 00:41:58,620
+that an earthquake two days before the disaster must have been responsible.
+
+546
+00:42:00,220 --> 00:42:04,940
+Many institutions did some studies, many geologists, engineers.
+
+547
+00:42:05,780 --> 00:42:09,360
+They tend to say that this is natural disaster
+
+548
+00:42:09,361 --> 00:42:14,820
+rather than mechanical or technical problems of the drilling.
+
+549
+00:42:15,720 --> 00:42:19,780
+But engineers both in Indonesia and around the world have disputed this claim,
+
+550
+00:42:20,500 --> 00:42:24,340
+finding that the earthquake was too distant, 300 miles from the eruption.
+
+551
+00:42:24,800 --> 00:42:29,420
+and it's 6.3 on the Richter scale, too weak to cause this kind of mass destruction.
+
+552
+00:42:31,440 --> 00:42:34,700
+Indonesia is probably the most seismically active region on Earth,
+
+553
+00:42:34,920 --> 00:42:36,380
+and so there are lots and lots of earthquakes.
+
+554
+00:42:37,200 --> 00:42:39,480
+And there would have been many times in the last 30 years
+
+555
+00:42:39,481 --> 00:42:42,220
+that an earthquake might have triggered an eruption, and it never did.
+
+556
+00:42:42,560 --> 00:42:45,680
+And some of the shaking caused by those other earthquakes is much, much bigger,
+
+557
+00:42:45,980 --> 00:42:48,580
+as much as 100 to 1,000 times bigger shaking.
+
+558
+00:42:50,160 --> 00:42:53,840
+The government of Indonesia brought in engineers from around the world
+
+559
+00:42:53,841 --> 00:42:55,440
+to work on stopping the mud flow.
+
+560
+00:42:56,800 --> 00:43:00,580
+One unconventional method has been to drop concrete balls
+
+561
+00:43:00,581 --> 00:43:03,800
+held together by chains into the crater to plug it up.
+
+562
+00:43:06,220 --> 00:43:08,660
+It's the first time anything like this has been attempted.
+
+563
+00:43:09,700 --> 00:43:12,260
+When we start this project, basically,
+
+564
+00:43:12,261 --> 00:43:17,240
+there's a lot of concern from society in general
+
+565
+00:43:17,241 --> 00:43:20,400
+and, in fact, from some scientific community
+
+566
+00:43:20,401 --> 00:43:23,440
+that this could lead to things like the balls
+
+567
+00:43:23,441 --> 00:43:24,520
+and become projectile.
+
+568
+00:43:25,200 --> 00:43:27,500
+And so far, thanks God, it's not happened.
+
+569
+00:43:28,620 --> 00:43:31,000
+Despite the effort to cork the source of the mud,
+
+570
+00:43:31,620 --> 00:43:33,760
+the output of the volcano has increased
+
+571
+00:43:33,761 --> 00:43:37,040
+from 5,000 cubic meters a day in 2006
+
+572
+00:43:37,041 --> 00:43:40,260
+to 150,000 cubic meters today.
+
+573
+00:43:41,680 --> 00:43:44,900
+Some enterprising farmers are harvesting salt from the mud
+
+574
+00:43:44,901 --> 00:43:46,560
+and selling it at the markets.
+
+575
+00:43:48,180 --> 00:43:50,700
+And the phenomenon presents an exceptional chance
+
+576
+00:43:50,701 --> 00:43:52,840
+to study mud volcanoes at close range.
+
+577
+00:43:53,440 --> 00:44:00,160
+It would be a shame if we don't learn anything from this disaster.
+
+578
+00:44:00,161 --> 00:44:04,540
+And here we have a well that goes all the way down, and you have a special opportunity,
+
+579
+00:44:04,541 --> 00:44:09,360
+maybe a unique opportunity, to look at the complete history of a mud volcano, from before
+
+580
+00:44:09,361 --> 00:44:13,860
+its initiation, through its evolution, and finally when it ends.
+
+581
+00:44:13,861 --> 00:44:19,000
+The mud volcano shows no signs of abating, so scientists may be able to observe it for
+
+582
+00:44:19,001 --> 00:44:22,200
+years and perhaps even decades to come.
+

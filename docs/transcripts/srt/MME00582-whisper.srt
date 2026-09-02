@@ -1,0 +1,2288 @@
+1
+00:00:00,001 --> 00:00:06,460
+It arcs, explodes, and blisters steel.
+
+2
+00:00:07,160 --> 00:00:09,740
+It's used to make 50% of all products,
+
+3
+00:00:09,940 --> 00:00:13,600
+and it puts the power to build a skyscraper in a man's hands.
+
+4
+00:00:14,380 --> 00:00:17,580
+By friction or robot, even underwater,
+
+5
+00:00:18,420 --> 00:00:21,180
+these are the tools that the world can't live without.
+
+6
+00:00:22,100 --> 00:00:24,960
+Now, welding on Modern Marbles.
+
+7
+00:00:30,000 --> 00:00:40,860
+Las Vegas, Nevada.
+
+8
+00:00:42,320 --> 00:00:46,540
+Perhaps nowhere else in the world does the old come down as spectacularly.
+
+9
+00:00:51,960 --> 00:00:53,880
+And the new rise up as quickly.
+
+10
+00:00:54,820 --> 00:00:58,900
+Right now you're in the east wing, the new Plaza Hotel.
+
+11
+00:00:58,901 --> 00:01:00,140
+We're on the 38th floor.
+
+12
+00:01:01,620 --> 00:01:02,920
+There we go, laying deck.
+
+13
+00:01:04,600 --> 00:01:10,700
+The Palazzo Hotel will be the central hub of the world's largest resort, hotel, and casino complex.
+
+14
+00:01:11,120 --> 00:01:14,000
+And without the power of welding, it couldn't be built.
+
+15
+00:01:15,180 --> 00:01:17,180
+Armed with high-power welding guns,
+
+16
+00:01:18,120 --> 00:01:21,800
+and with nothing more than a safety harness between them and the ground below,
+
+17
+00:01:22,580 --> 00:01:27,720
+these ironworkers will weld a quantity of steel nearly equal to the amount in the Brooklyn Bridge,
+
+18
+00:01:27,721 --> 00:01:30,820
+Statue of Liberty and Empire State Building combined.
+
+19
+00:01:32,020 --> 00:01:34,900
+There's just shy of 70,000 tons.
+
+20
+00:01:38,280 --> 00:01:41,240
+Adrenaline runs high for welders working at such heights.
+
+21
+00:01:43,880 --> 00:01:46,120
+And with so much electricity in use,
+
+22
+00:01:47,260 --> 00:01:48,940
+the dangers are real.
+
+23
+00:01:50,120 --> 00:01:54,060
+This particular machine runs on 483 phase.
+
+24
+00:01:54,180 --> 00:01:56,600
+It's fed with 200 amps at 480.
+
+25
+00:01:56,601 --> 00:01:58,760
+If you make a mistake, you're not here tomorrow.
+
+26
+00:01:59,080 --> 00:02:00,680
+It's almost instantaneous death.
+
+27
+00:02:04,180 --> 00:02:09,320
+By definition, welding joins two separate pieces of material through high energy.
+
+28
+00:02:10,180 --> 00:02:13,760
+No other joining method forms a more direct and powerful bond.
+
+29
+00:02:14,780 --> 00:02:21,880
+All the other methods, whether it's rivets, whether it's bolts, even if it's glues and adhesives,
+
+30
+00:02:22,260 --> 00:02:25,780
+you wind up putting in extra material in order to make the connection.
+
+31
+00:02:25,781 --> 00:02:31,780
+In the case of welding connections, bring the two pieces together, put a weld in between.
+
+32
+00:02:31,781 --> 00:02:35,780
+It's a very efficient way of joining material.
+
+33
+00:02:35,781 --> 00:02:38,780
+But efficiency is only half the story.
+
+34
+00:02:38,781 --> 00:02:45,780
+Because welding creates a bond along a seam or joint that is nearly always stronger than the base metals used to form it.
+
+35
+00:02:45,781 --> 00:02:50,780
+The tensile strength of the welded material itself is actually greater than the material you're welding.
+
+36
+00:02:50,781 --> 00:02:54,780
+A good weld, the material itself will tear before the weld will tear.
+
+37
+00:02:55,780 --> 00:03:01,920
+The source of this strength is more than just surface deep, and goes right down to the steel's very atoms.
+
+38
+00:03:03,220 --> 00:03:08,900
+Every atom within a beam possesses electrons that encircle it in what is called an electron cloud.
+
+39
+00:03:09,860 --> 00:03:18,100
+When a welder applies intense heat, the atoms are slammed together so forcefully that they begin to share a single, united electron cloud.
+
+40
+00:03:19,540 --> 00:03:24,320
+Now locked as one, these new molecules are more powerful together than separate.
+
+41
+00:03:25,780 --> 00:03:32,780
+For many centuries, the only way to make these welded bonds was with furnace and hammer,
+
+42
+00:03:32,781 --> 00:03:34,780
+a process now known as forge welding.
+
+43
+00:03:34,781 --> 00:03:41,780
+With forge welding, two pieces of material are put, lapped over each other, heated, not
+
+44
+00:03:41,781 --> 00:03:45,780
+to the point of melting, but until they're hot, and then hammered together.
+
+45
+00:03:45,781 --> 00:03:50,780
+That hammering together the two metals will achieve the same metallic bonds that today
+
+46
+00:03:50,781 --> 00:03:53,780
+we'd form with an electric car.
+
+47
+00:03:53,781 --> 00:03:59,780
+Today, electricity has replaced the brute force of the forger's hammer to construct our world.
+
+48
+00:03:59,781 --> 00:04:05,780
+From the car you drive, to the plane you fly, and everywhere in between.
+
+49
+00:04:05,781 --> 00:04:08,780
+The most common method is known as electric arc welding,
+
+50
+00:04:08,781 --> 00:04:12,780
+which is based on principles first discovered at the turn of the 19th century.
+
+51
+00:04:14,780 --> 00:04:20,780
+Those principles revealed that electric current will jump the gap between two nearby metal conductors
+
+52
+00:04:20,781 --> 00:04:23,780
+to form a completed electrical circuit.
+
+53
+00:04:25,780 --> 00:04:27,780
+This jump, known as an electric arc,
+
+54
+00:04:27,781 --> 00:04:31,780
+generates a spark-like discharge that is both extremely bright
+
+55
+00:04:31,781 --> 00:04:33,780
+and intensely hot.
+
+56
+00:04:33,781 --> 00:04:40,780
+The arc is estimated to be between 6,000 and 8,000 degrees Fahrenheit.
+
+57
+00:04:40,781 --> 00:04:42,780
+That's the same temperature as the sun.
+
+58
+00:04:42,781 --> 00:04:47,780
+Steel melts in and around 3,000 degrees,
+
+59
+00:04:47,781 --> 00:04:54,240
+So this 6 to 8,000 degree arc is more than ample heat to melt the steel that we join in.
+
+60
+00:04:55,360 --> 00:05:02,660
+By the 1890s, engineers had harnessed this intense newfound energy to create the first electric arc welds.
+
+61
+00:05:04,400 --> 00:05:08,620
+A work lead, or ground, was attached to one corner of the metal to be welded.
+
+62
+00:05:09,280 --> 00:05:14,580
+Electric current then flowed from a generator through a long conductive metal stick, known as an electrode.
+
+63
+00:05:14,581 --> 00:05:21,540
+As the stick neared the grounded metal, an electric arc was formed, causing heat to melt the metal.
+
+64
+00:05:22,560 --> 00:05:25,600
+The apparatus was crude, but the basics were sound,
+
+65
+00:05:26,220 --> 00:05:30,960
+and are now reflected in the simplest arc welding form in use today, stick welding.
+
+66
+00:05:31,880 --> 00:05:36,040
+The basics of the process are, you have an electrode holder,
+
+67
+00:05:36,880 --> 00:05:41,400
+you have a cable that runs back to the machine to pick up the welding current,
+
+68
+00:05:41,401 --> 00:05:44,380
+and you place the bare end of the electrode in the holder,
+
+69
+00:05:44,580 --> 00:05:47,500
+and it picks up electrical contact there,
+
+70
+00:05:48,240 --> 00:05:50,480
+conducts current down to the end of the electrode, which is bare.
+
+71
+00:05:51,160 --> 00:05:54,100
+The technique is touching the electrode against the work
+
+72
+00:05:54,101 --> 00:05:57,220
+and then moving it far enough away to establish an arc,
+
+73
+00:05:57,320 --> 00:05:58,520
+but not so far it goes out.
+
+74
+00:05:59,080 --> 00:06:00,800
+And if you leave it too close, it'll stick.
+
+75
+00:06:01,460 --> 00:06:03,240
+If you pull away too far, it'll go out.
+
+76
+00:06:03,241 --> 00:06:06,900
+So the trick is to get your bounce where it's just about right.
+
+77
+00:06:08,080 --> 00:06:10,980
+When the arc is struck and positioned near the metal pieces,
+
+78
+00:06:10,981 --> 00:06:15,480
+the intense heat causes both the electrode and the metal along the seam
+
+79
+00:06:15,481 --> 00:06:18,920
+to melt together into what is called the puddle.
+
+80
+00:06:20,080 --> 00:06:23,940
+Until it hardens, this molten puddle must be protected,
+
+81
+00:06:24,680 --> 00:06:26,540
+even from the very air that we breathe.
+
+82
+00:06:27,880 --> 00:06:34,060
+The air we breathe is about 80% nitrogen and about 19% oxygen.
+
+83
+00:06:35,060 --> 00:06:37,980
+It's really good for breathing, but it's not good for liquid metal.
+
+84
+00:06:37,981 --> 00:06:45,360
+And just like we dissolve sugar in hot coffee, these gases dissolve in liquid metal.
+
+85
+00:06:45,780 --> 00:06:52,260
+When the metal solidifies, the gas percolates out, and that makes holes in the well.
+
+86
+00:06:53,980 --> 00:06:57,480
+The dangerous result could be a weak, even brittle, well.
+
+87
+00:06:57,940 --> 00:07:01,280
+So to shield the puddle, a chemical coating is applied to the electrode.
+
+88
+00:07:01,281 --> 00:07:08,280
+As it melts under the heat of the arc, this chemical coating dissolves into shielding
+
+89
+00:07:08,281 --> 00:07:13,960
+gases that envelop and protect the weld, keeping it free of air.
+
+90
+00:07:13,961 --> 00:07:17,360
+This is known as shielded metal arc welding.
+
+91
+00:07:17,361 --> 00:07:22,640
+And as the technology evolved, the coating took on even greater significance.
+
+92
+00:07:22,641 --> 00:07:25,180
+The chemical coating has three functions.
+
+93
+00:07:25,181 --> 00:07:28,900
+Some of the coating forms shielding gases at the heat of the arc to protect the weld
+
+94
+00:07:28,901 --> 00:07:31,080
+from the atmosphere.
+
+95
+00:07:31,081 --> 00:07:34,560
+Some of the chemicals at the heat of that arc form a liquid, slag, which protects the
+
+96
+00:07:34,561 --> 00:07:37,500
+welds as the shielding gases move along.
+
+97
+00:07:37,501 --> 00:07:41,180
+And some of the elements are alloyed into the deposit to make it a high strength deposit.
+
+98
+00:07:41,181 --> 00:07:46,680
+So three things happen while you're moving this arc along the work.
+
+99
+00:07:46,681 --> 00:07:51,460
+When the weld is complete and is cooled, the slag is chipped away to reveal the trail of
+
+100
+00:07:51,461 --> 00:07:56,020
+welded metal, known as the bead.
+
+101
+00:07:56,021 --> 00:08:00,080
+the proper length, depth, and form of the puddle along the bead.
+
+102
+00:08:00,081 --> 00:08:03,080
+Takes years of practice.
+
+103
+00:08:03,081 --> 00:08:05,080
+There's so many variables when you weld.
+
+104
+00:08:05,081 --> 00:08:08,160
+There's very few times that two things you weld together
+
+105
+00:08:08,161 --> 00:08:09,160
+are the same.
+
+106
+00:08:09,161 --> 00:08:12,060
+Either the metal changes, the thickness of metal,
+
+107
+00:08:12,061 --> 00:08:14,540
+the environment you're in, the conditions
+
+108
+00:08:14,541 --> 00:08:16,300
+the metal is used for.
+
+109
+00:08:16,301 --> 00:08:18,080
+There are just so many things changed
+
+110
+00:08:18,081 --> 00:08:22,040
+that you have to know a lot of different things about welding.
+
+111
+00:08:22,041 --> 00:08:24,840
+Complicating matters are the safety requirements,
+
+112
+00:08:24,841 --> 00:08:26,860
+beginning with a welder's mask.
+
+113
+00:08:26,861 --> 00:08:29,580
+Just as staring into the sun can damage your eyes,
+
+114
+00:08:29,581 --> 00:08:32,100
+so too can an electric arc.
+
+115
+00:08:32,101 --> 00:08:34,540
+Therefore, protection is crucial.
+
+116
+00:08:34,541 --> 00:08:36,120
+When you first flip it down, it's dark.
+
+117
+00:08:36,121 --> 00:08:37,120
+You can't see anything,
+
+118
+00:08:37,121 --> 00:08:39,080
+but you quickly get comfortable with it.
+
+119
+00:08:39,081 --> 00:08:41,560
+Once you strike the arc, it's like a big flashlight.
+
+120
+00:08:41,561 --> 00:08:43,060
+You can see what you're doing.
+
+121
+00:08:45,440 --> 00:08:46,760
+Although electric arc welding
+
+122
+00:08:46,761 --> 00:08:49,080
+was first discovered in the 1800s,
+
+123
+00:08:49,081 --> 00:08:50,880
+its acceptance was slow in coming.
+
+124
+00:08:52,120 --> 00:08:53,840
+Anything new, they fight.
+
+125
+00:08:53,841 --> 00:08:59,280
+It wasn't thoroughly accepted, so it took time to make the transition into the welding process.
+
+126
+00:09:01,120 --> 00:09:06,440
+No company was more influential in changing the tide than Lincoln Electric Company of Cleveland, Ohio.
+
+127
+00:09:08,800 --> 00:09:14,180
+Today, Lincoln Electric is the largest manufacturer of welding equipment and consumables in the world.
+
+128
+00:09:15,960 --> 00:09:20,120
+That success is rooted in Lincoln's commitment to proving the viability of welding,
+
+129
+00:09:20,680 --> 00:09:22,880
+even in the face of constant doubters.
+
+130
+00:09:23,840 --> 00:09:31,460
+And no industry was initially more skeptical than the biggest one of all, building construction,
+
+131
+00:09:31,461 --> 00:09:34,840
+where rivets were king well into the 1940s.
+
+132
+00:09:34,841 --> 00:09:37,880
+Rivets were intuitive.
+
+133
+00:09:37,881 --> 00:09:43,600
+If you think about it, putting in something with a head on either side, that makes sense.
+
+134
+00:09:43,601 --> 00:09:46,720
+Welding had some mystery about it.
+
+135
+00:09:46,721 --> 00:09:50,220
+But riveting was also extremely difficult work.
+
+136
+00:09:50,221 --> 00:09:54,120
+required fabricators to hole punch the steel beams.
+
+137
+00:09:54,121 --> 00:09:56,200
+Then a team of workers aligned those holes
+
+138
+00:09:56,201 --> 00:09:58,340
+to their exact counterpart.
+
+139
+00:09:58,341 --> 00:10:00,720
+Rivets were heated in a central oven,
+
+140
+00:10:00,721 --> 00:10:02,820
+then hurled to the proper joint.
+
+141
+00:10:02,821 --> 00:10:04,140
+He would heat the rivets.
+
+142
+00:10:04,141 --> 00:10:05,980
+And once they got heated, he would
+
+143
+00:10:05,981 --> 00:10:08,820
+throw them to the person who was actually standing
+
+144
+00:10:08,821 --> 00:10:11,060
+at the point waiting for the first rivet.
+
+145
+00:10:11,061 --> 00:10:14,480
+So you had a pitcher, a catcher, with a set of tongs
+
+146
+00:10:14,481 --> 00:10:16,380
+who would slide it into the hole.
+
+147
+00:10:16,381 --> 00:10:19,280
+And then you had a guy bucket, and then you had a riveter.
+
+148
+00:10:19,281 --> 00:10:22,040
+and the river would round the head on the opposite side.
+
+149
+00:10:23,280 --> 00:10:26,440
+Significantly, rivets limited the design options
+
+150
+00:10:26,441 --> 00:10:28,400
+for architects and building engineers.
+
+151
+00:10:29,600 --> 00:10:32,720
+A lot of very famous and beautiful work
+
+152
+00:10:32,721 --> 00:10:34,140
+is done with rivets.
+
+153
+00:10:34,141 --> 00:10:36,040
+But basically you're building a box
+
+154
+00:10:36,041 --> 00:10:38,440
+with a design to the inside of the box.
+
+155
+00:10:38,441 --> 00:10:40,960
+You can only carry so much shear on that connection.
+
+156
+00:10:42,220 --> 00:10:45,180
+In 1928, Lincoln Electric joined
+
+157
+00:10:45,181 --> 00:10:46,960
+with a local architectural firm
+
+158
+00:10:46,961 --> 00:10:48,660
+to erect the first commercial building
+
+159
+00:10:48,661 --> 00:10:52,560
+wholly constructed from arc welded steel.
+
+160
+00:10:52,561 --> 00:10:57,940
+In the upper Carnegie building, the typical dense network of riveted steel was replaced
+
+161
+00:10:57,941 --> 00:11:04,480
+by a series of continuously welded beams that ran the entire length and height of the building.
+
+162
+00:11:04,481 --> 00:11:09,380
+Not only did welding free up space, but these continuous beams carried even greater loads
+
+163
+00:11:09,381 --> 00:11:12,600
+and stresses than their riveted counterparts.
+
+164
+00:11:12,601 --> 00:11:17,600
+Connections are always the weak point in the structure.
+
+165
+00:11:17,601 --> 00:11:21,600
+Connecting things together is always a challenge.
+
+166
+00:11:21,601 --> 00:11:23,600
+Welding changed all that.
+
+167
+00:11:23,601 --> 00:11:27,600
+Literally, if you could get the material in the configuration you wanted,
+
+168
+00:11:27,601 --> 00:11:29,600
+there was a way to weld it together.
+
+169
+00:11:29,601 --> 00:11:33,600
+Today, skyscrapers come in many shapes and sizes,
+
+170
+00:11:33,601 --> 00:11:37,600
+in large part because continuous beams can be fabricated and welded
+
+171
+00:11:37,601 --> 00:11:40,600
+into curves and unique angles.
+
+172
+00:11:40,601 --> 00:11:50,600
+To construct these beams, welders will make 30 to 40 passes on the crucial joints, using Lincoln Electric's latest flux core welding technology.
+
+173
+00:11:51,600 --> 00:11:59,600
+Here, the traditional stick electrode has been replaced by wire on a roll that feeds directly into the welder's gun.
+
+174
+00:12:00,600 --> 00:12:07,600
+The chemical flux that protects the weld from the air is now contained within the wire itself and melts just as before.
+
+175
+00:12:07,601 --> 00:12:14,600
+There's approximately 90 tons of weld wire will be used and consumed in this project alone.
+
+176
+00:12:14,601 --> 00:12:21,600
+That's somewhere around 180 million inches or 2,800 miles of weld wire.
+
+177
+00:12:21,601 --> 00:12:26,600
+You could stretch a single wire from L.A. to New York and have leftover.
+
+178
+00:12:26,601 --> 00:12:31,600
+On the largest beams, which can weigh as much as 900 pounds per linear foot,
+
+179
+00:12:31,601 --> 00:12:36,600
+a team of welders can work on a single weld for hours.
+
+180
+00:12:36,601 --> 00:12:41,960
+The columns that we're looking at right now are basically supporting the entire east wing of this tower.
+
+181
+00:12:42,480 --> 00:12:47,720
+Originally, these pieces were so long, the capacity of the cranes would not pick them up and set them.
+
+182
+00:12:48,740 --> 00:12:52,520
+So we had to cut them down, make them lighter, so the crane could set them.
+
+183
+00:12:53,600 --> 00:12:56,760
+And the engineers wouldn't allow us to make that a bolted splice.
+
+184
+00:12:56,840 --> 00:12:58,280
+It had to become a welded splice.
+
+185
+00:12:58,720 --> 00:13:00,380
+It's about a 30-hour weld.
+
+186
+00:13:00,480 --> 00:13:04,840
+I believe we had two guys working on that simultaneously for 30 hours of welding.
+
+187
+00:13:06,600 --> 00:13:15,360
+Welding really enabled the architect, the engineer to bring bigger dreams, make bigger
+
+188
+00:13:15,361 --> 00:13:21,500
+bridges, make taller skyscrapers, and to do so in a reliable and dependable way.
+
+189
+00:13:21,501 --> 00:13:28,120
+But at the end of the day, those big dreams are only as solid as the iron workers who
+
+190
+00:13:28,121 --> 00:13:29,120
+weld them together.
+
+191
+00:13:29,121 --> 00:13:30,120
+We're not presidents.
+
+192
+00:13:30,121 --> 00:13:32,580
+We don't get monuments built to us.
+
+193
+00:13:32,581 --> 00:13:37,140
+But when you look across the skyline, iron workers have changed the way that looks.
+
+194
+00:13:37,141 --> 00:13:41,640
+But electric arcs aren't the only way to make a weld.
+
+195
+00:13:41,641 --> 00:13:48,360
+In fact, others are a real blast.
+
+196
+00:13:48,361 --> 00:13:54,880
+In December 2006, 27 megasteel columns were arc welded together to anchor New York's Freedom
+
+197
+00:13:54,881 --> 00:13:58,320
+Tower at the former site of the World Trade Center.
+
+198
+00:13:58,321 --> 00:14:04,240
+Each column stands more than five stories tall and weighs as much as 30 tons.
+
+199
+00:14:04,241 --> 00:14:09,440
+Welding will return on Modern Marvels.
+
+200
+00:14:09,441 --> 00:14:14,560
+We now return to welding on Modern Marvels.
+
+201
+00:14:14,561 --> 00:14:17,840
+Pennsylvania's Allegheny Mountains.
+
+202
+00:14:17,841 --> 00:14:21,320
+Birthplace of American steel.
+
+203
+00:14:21,321 --> 00:14:26,140
+Here in the hillsides that surround historic mill towns, the most powerful welding process
+
+204
+00:14:26,141 --> 00:14:27,840
+of all occurs.
+
+205
+00:14:27,841 --> 00:14:29,360
+than half a mile underground.
+
+206
+00:14:30,260 --> 00:14:31,120
+Fire no!
+
+207
+00:14:36,380 --> 00:14:38,700
+It's called explosion welding.
+
+208
+00:14:42,320 --> 00:14:45,760
+And with a force measured in millions of pounds per square inch,
+
+209
+00:14:46,840 --> 00:14:49,580
+explosion welding does what no other welding method can.
+
+210
+00:14:50,680 --> 00:14:52,900
+Join nearly every kind of metal together,
+
+211
+00:14:53,160 --> 00:14:55,200
+no matter the type or composition.
+
+212
+00:14:55,201 --> 00:15:02,640
+explosion welding allows highly dissimilar metals such as aluminum carbon steel alloy
+
+213
+00:15:02,641 --> 00:15:10,960
+steel stainless steels alloys of copper all can be welded to one another the result a single welded
+
+214
+00:15:10,961 --> 00:15:15,840
+piece known as clad that combines the best characteristics of each metal involved
+
+215
+00:15:18,160 --> 00:15:24,880
+wherever there is high heat intense pressure or corrosive liquids and gases clad is probably there
+
+216
+00:15:25,200 --> 00:15:30,120
+It could be a column, it could be a heat exchanger, it could be a horizontal tank.
+
+217
+00:15:30,121 --> 00:15:35,680
+But when you see a chemical complex or an oil refinery, there will be a lot of clad metal in there.
+
+218
+00:15:37,620 --> 00:15:42,400
+To create an explosion weld, two large pieces of metal are stacked atop one another,
+
+219
+00:15:43,200 --> 00:15:46,700
+then covered with a high-powered explosive.
+
+220
+00:15:46,701 --> 00:15:59,140
+When detonated, the downward force of the explosion welds the two pieces together through
+
+221
+00:15:59,141 --> 00:16:02,300
+a combination of intense force and remarkable physics.
+
+222
+00:16:02,301 --> 00:16:06,640
+What you can see here, and it's very clear, you have two different materials.
+
+223
+00:16:07,020 --> 00:16:11,320
+Stainless steel is a darker gray, a lighter gray for the carbon steel material.
+
+224
+00:16:11,321 --> 00:16:17,700
+The detonation was initiated at this point, and you can see the deformation from our initiator.
+
+225
+00:16:18,060 --> 00:16:24,640
+That starts the explosion, and the explosion rolls across the entire top surface of the plate, zipping the two together.
+
+226
+00:16:30,400 --> 00:16:34,680
+No one would have ever thought such a violent process could be controlled and mastered
+
+227
+00:16:34,681 --> 00:16:40,880
+had it not been for the devastation and havoc of World War I, and later World War II.
+
+228
+00:16:41,320 --> 00:16:47,080
+The origin of explosion welding was first observed during the First World War,
+
+229
+00:16:47,380 --> 00:16:49,500
+when shrapnel may have stuck to armament.
+
+230
+00:16:50,460 --> 00:16:52,780
+It wasn't just stuck, but it was actually welded.
+
+231
+00:16:54,440 --> 00:16:56,960
+There was only one possible explanation,
+
+232
+00:16:57,680 --> 00:17:00,160
+the explosive force these metal pieces had endured.
+
+233
+00:17:00,980 --> 00:17:05,800
+It was an observed phenomenon that was later duplicated in the laboratories
+
+234
+00:17:05,801 --> 00:17:07,900
+and practiced commercially.
+
+235
+00:17:07,901 --> 00:17:14,900
+Today, Dynamics Materials Corporation is a world leader in explosion welding technology.
+
+236
+00:17:14,901 --> 00:17:20,900
+Here, the decades-old discoveries from the battlefield have been refined into an exacting science.
+
+237
+00:17:20,901 --> 00:17:30,900
+The explosion welding process begins as soon as the two metal plates arrive at DMC's main plant, outside of Pittsburgh, Pennsylvania.
+
+238
+00:17:30,901 --> 00:17:38,900
+To maximize the welding force of the explosion, the surfaces of each plate are ground as uniformly
+
+239
+00:17:38,901 --> 00:17:45,900
+flat as possible, a process that also removes any rust, oxides, and other surface flaws.
+
+240
+00:17:45,901 --> 00:17:52,120
+They are then ready to be assembled into the pack, which locks the plates into position
+
+241
+00:17:52,121 --> 00:17:54,780
+for the explosion.
+
+242
+00:17:54,781 --> 00:17:58,960
+To build a pack, the stronger and thicker of the two plates is laid face up.
+
+243
+00:17:58,961 --> 00:18:03,960
+From now on this plate will be identified as the backer.
+
+244
+00:18:03,961 --> 00:18:08,280
+Small metal spacers of equal height are then tacked onto the surface of the backer in a
+
+245
+00:18:08,281 --> 00:18:10,560
+uniform grid.
+
+246
+00:18:10,561 --> 00:18:14,540
+These spacers will maintain a set gap between the backer and the second plate, which is
+
+247
+00:18:14,541 --> 00:18:16,520
+placed on top.
+
+248
+00:18:16,521 --> 00:18:21,960
+This second plate is thinner than the backer and is called the clatter.
+
+249
+00:18:21,961 --> 00:18:27,200
+The standoff gap between the backer and clatter is less than an inch in height.
+
+250
+00:18:27,201 --> 00:18:29,700
+Without it, the explosion weld would be impossible.
+
+251
+00:18:31,480 --> 00:18:33,820
+In the final stage of assembling the pack,
+
+252
+00:18:34,180 --> 00:18:37,420
+a folding wooden frame is constructed along the edges of the clatter.
+
+253
+00:18:38,600 --> 00:18:42,620
+When this frame is later unfolded inside the underground explosion chamber,
+
+254
+00:18:43,240 --> 00:18:47,740
+it serves as the bed for the explosive powder that is poured on top.
+
+255
+00:18:48,960 --> 00:18:53,400
+The three essential variables of an explosion weld are,
+
+256
+00:18:53,401 --> 00:19:02,760
+First, the standoff gap, the spacing between the two metals needs to be very tightly controlled to ensure the highest quality weld.
+
+257
+00:19:03,200 --> 00:19:05,800
+The second two parameters deal with the explosive.
+
+258
+00:19:06,240 --> 00:19:10,420
+One is the velocity of the explosive, the speed at which it burns,
+
+259
+00:19:10,680 --> 00:19:17,660
+and the height of the bed or the quantity of explosive which is evenly spread on the top plate.
+
+260
+00:19:17,661 --> 00:19:25,980
+The explosive powder is a proprietary blend of common and unique explosive chemicals.
+
+261
+00:19:25,981 --> 00:19:34,960
+The amount and exact formulation is always matched to the types of metal involved.
+
+262
+00:19:34,961 --> 00:19:41,140
+Once the pack is set, everyone evacuates the chamber except the blaster in charge, who
+
+263
+00:19:41,141 --> 00:19:44,020
+remains to wire the detonator.
+
+264
+00:19:44,021 --> 00:19:47,600
+He will be the last to leave the chamber.
+
+265
+00:19:47,601 --> 00:19:55,000
+After all personnel are accounted for, the blaster connects his initiator switch to the detonator wires and fires the explosion.
+
+266
+00:19:56,260 --> 00:19:57,080
+Fire no!
+
+267
+00:19:59,000 --> 00:20:05,920
+The explosion is detonated from one edge of the clatter and moves across the upper level of the pack at a uniform speed.
+
+268
+00:20:07,580 --> 00:20:15,820
+This explosive front progressively drives the clatter plate downward toward the backer at the slight collision angle caused by the standoff gap.
+
+269
+00:20:17,600 --> 00:20:21,760
+Forward of the collision point, air is forced out of the gap at high velocity.
+
+270
+00:20:23,080 --> 00:20:29,700
+All oxides and impurities are expelled, rendering the plate surfaces metallurgically pure and ideal for a weld.
+
+271
+00:20:30,820 --> 00:20:37,100
+As the backer and clatter collide, the weld is created nearly instantaneously across the entire surface of the plate.
+
+272
+00:20:37,101 --> 00:20:46,880
+because of the intense dust created by the explosion workers can't retrieve the newly
+
+273
+00:20:46,881 --> 00:20:54,280
+formed clad from the explosion chamber for more than 18 hours not surprisingly the power of the
+
+274
+00:20:54,281 --> 00:21:01,640
+explosion can cause significant deformation to the newly formed clad therefore upon its return
+
+275
+00:21:01,641 --> 00:21:03,800
+to DMC's central processing facility,
+
+276
+00:21:04,620 --> 00:21:07,100
+the clad undergoes a final series of corrections.
+
+277
+00:21:12,980 --> 00:21:15,500
+These include heating the clad in an oven
+
+278
+00:21:15,501 --> 00:21:17,700
+that causes the metals to soften slightly.
+
+279
+00:21:18,180 --> 00:21:20,400
+This relieves stress from the blunt force
+
+280
+00:21:20,401 --> 00:21:21,580
+of the explosion's impact.
+
+281
+00:21:23,300 --> 00:21:26,940
+Any bowing or misshapen curves are flattened out
+
+282
+00:21:26,941 --> 00:21:29,220
+by either a 3 million pound press,
+
+283
+00:21:29,221 --> 00:21:34,600
+or, for thinner clad, by a series of rollers known as levelers.
+
+284
+00:21:36,860 --> 00:21:39,440
+Finally, before the material is shipped,
+
+285
+00:21:40,080 --> 00:21:44,000
+stringent testing is conducted to ensure a solid weld between the two plates.
+
+286
+00:21:45,440 --> 00:21:51,660
+There's a lot of testing because generally these metals will go into a very high-pressure vessel.
+
+287
+00:21:51,661 --> 00:21:54,880
+Their stakes are extremely high if there's a failure.
+
+288
+00:21:54,881 --> 00:22:06,200
+So the owners of big plants and chemical manufacturing and oil refineries are extremely concerned that their materials are what they ordered and specified.
+
+289
+00:22:06,580 --> 00:22:08,500
+There's really no room for error.
+
+290
+00:22:09,280 --> 00:22:14,920
+Once the material has been proven to meet exacting specs, it's ready to be shipped to the customer.
+
+291
+00:22:14,921 --> 00:22:24,520
+But explosion welding isn't the only adventurous business, and may look downright tame compared
+
+292
+00:22:24,521 --> 00:22:30,800
+to welding 325 feet below the ocean surface.
+
+293
+00:22:30,801 --> 00:22:36,460
+In 1962, DuPont patented the explosion welding process, which it used to produce the clad
+
+294
+00:22:36,461 --> 00:22:39,860
+metals needed by the U.S. Mint for new coins.
+
+295
+00:22:39,861 --> 00:22:45,740
+In the next three years, DuPont made over 70 million pounds of dime, quarter, and half-dollar blanks.
+
+296
+00:22:46,060 --> 00:22:48,340
+Welding will return on Modern Marvels.
+
+297
+00:22:51,400 --> 00:22:54,580
+We now return to welding on Modern Marvels.
+
+298
+00:22:56,920 --> 00:22:59,560
+It's a rule that defines common sense.
+
+299
+00:23:00,080 --> 00:23:02,960
+Don't mix water with electricity. It can kill you.
+
+300
+00:23:04,180 --> 00:23:08,000
+But there is a rare breed of experts who dare to swim against convention
+
+301
+00:23:08,001 --> 00:23:11,380
+and perform a job that most consider downright crazy.
+
+302
+00:23:15,320 --> 00:23:18,840
+Underwater diver welders thrive on the dangers of the deep,
+
+303
+00:23:19,360 --> 00:23:22,920
+where visibility can be zero and deadly hazards the norm.
+
+304
+00:23:24,300 --> 00:23:27,000
+Why? To perform the perfect weld.
+
+305
+00:23:28,020 --> 00:23:29,820
+You're underwater and playing with electricity.
+
+306
+00:23:30,260 --> 00:23:33,740
+It doesn't seem like a good combination, but it works quite well.
+
+307
+00:23:33,741 --> 00:23:41,800
+Over the last 30 years, the ocean depths have become vast job sites for the energy and communication industries.
+
+308
+00:23:42,420 --> 00:23:51,660
+This encompasses everything from pipelines to platforms to subsea wells to inspection, repair and maintenance.
+
+309
+00:23:51,980 --> 00:23:55,020
+We're working in water depths up to 10,000 feet.
+
+310
+00:23:56,520 --> 00:24:01,220
+Global Industries is a leader in offshore construction, engineering and support.
+
+311
+00:24:01,221 --> 00:24:04,360
+for the oil and gas industries around the world.
+
+312
+00:24:05,680 --> 00:24:07,560
+And to meet this constant demand,
+
+313
+00:24:08,160 --> 00:24:10,220
+Global Industries requires their welding teams
+
+314
+00:24:10,221 --> 00:24:12,360
+to undergo years of specialized training
+
+315
+00:24:12,361 --> 00:24:14,760
+for all types of offshore environments.
+
+316
+00:24:18,480 --> 00:24:22,380
+We're here at our research and development training center
+
+317
+00:24:22,381 --> 00:24:23,740
+here in New Iberia, Louisiana.
+
+318
+00:24:24,700 --> 00:24:26,640
+We're dressing out our diver now,
+
+319
+00:24:26,700 --> 00:24:29,500
+getting ready to get into the tank and do some training,
+
+320
+00:24:29,620 --> 00:24:30,320
+do some welding.
+
+321
+00:24:31,220 --> 00:24:37,600
+There are two basic forms of underwater welding, wet welding and dry welding.
+
+322
+00:24:39,220 --> 00:24:47,820
+Wet welds are the most common and can be shielded metal arc or stick welds, made by a fully submerged diver welder in a wetsuit.
+
+323
+00:24:49,300 --> 00:24:55,220
+The electrode is waterproof and inserted into an electrically charged rubber encased stinger.
+
+324
+00:24:55,221 --> 00:25:04,360
+Once struck, the electric arc burns just as if it were on dry land, since water is equally conductive
+
+325
+00:25:04,361 --> 00:25:10,540
+Likewise, the electrode's unique waterproof coating shields the weld from water contamination
+
+326
+00:25:10,541 --> 00:25:19,760
+But in case you're wondering, his rubber gloves are the only things that stand between the diver welder and electric shock
+
+327
+00:25:19,761 --> 00:25:29,400
+If you have a hole in that glove, then you grab a hold of that live stinger, and that will give you a real good one, and you'll taste your fillings in your mouth.
+
+328
+00:25:31,380 --> 00:25:40,883
+Fortunately, the odds of a fatal shock are slim, because the welding equipment operates on DC current, which is far less dangerous than the ordinary AC current found
+
+329
+00:25:40,884 --> 00:25:41,920
+in a typical home.
+
+330
+00:25:43,520 --> 00:25:44,860
+Calm, shake. Calm, shake.
+
+331
+00:25:44,861 --> 00:25:52,780
+To get the diver welder fully suited, two other diver welders act as his tenders, checking
+
+332
+00:25:52,781 --> 00:25:56,880
+and testing every piece of equipment, including the helmet.
+
+333
+00:25:56,881 --> 00:26:01,400
+Not only does the helmet provide air for the diver welder to breathe, it also serves as
+
+334
+00:26:01,401 --> 00:26:07,460
+a full welding mask, protecting his eyes from the intense arc light.
+
+335
+00:26:07,461 --> 00:26:12,020
+Right here we have the lens plate, the face lens that a diver will flip down when he's
+
+336
+00:26:12,021 --> 00:26:13,420
+ready to start welding.
+
+337
+00:26:13,421 --> 00:26:17,020
+He'll flip it up when he's finished welding and take a look and see what he's doing.
+
+338
+00:26:18,700 --> 00:26:24,260
+After the diver welder is suited up, he carefully enters the water and makes his way to the bottom of the tank.
+
+339
+00:26:26,660 --> 00:26:34,780
+From the moment he puts on his helmet, the diver welder is in constant communication with the control room via audio links and a video feed.
+
+340
+00:26:35,400 --> 00:26:37,420
+Com check, one, two, three. How do you get me, John?
+
+341
+00:26:38,380 --> 00:26:40,100
+One by six, lad and clear.
+
+342
+00:26:40,360 --> 00:26:41,580
+All right, set up the weld.
+
+343
+00:26:41,581 --> 00:26:50,500
+The trainee must not only learn to strike and maintain an arc, but he must also be able
+
+344
+00:26:50,501 --> 00:26:56,480
+to connect and reset all of his equipment, including the electrode.
+
+345
+00:26:56,481 --> 00:27:01,520
+Once in the water, the electrode is inserted into the stinger, which is termed cold, because
+
+346
+00:27:01,521 --> 00:27:05,820
+the control room has not yet turned on the electricity.
+
+347
+00:27:05,821 --> 00:27:09,580
+When the diver is ready to weld, he requests that the current be turned on.
+
+348
+00:27:09,581 --> 00:27:11,580
+Roger, make it hot.
+
+349
+00:27:11,581 --> 00:27:13,580
+Roger, making it hot.
+
+350
+00:27:15,580 --> 00:27:21,580
+Like every surface welder, the diver welder must be a master of concentration and stability.
+
+351
+00:27:23,580 --> 00:27:28,580
+You're going to have a lot of things that can interfere with what you're doing when you're welding.
+
+352
+00:27:28,581 --> 00:27:31,580
+Just the surge of the ocean can push you around.
+
+353
+00:27:31,581 --> 00:27:38,580
+Some divers like to actually put their hands up, hold the rod itself, because it gives you a lot of feel on it.
+
+354
+00:27:38,581 --> 00:27:43,580
+If you just have the rod in your back way back here from where you're working,
+
+355
+00:27:43,920 --> 00:27:46,120
+you don't have the feel that you need.
+
+356
+00:27:48,000 --> 00:27:52,240
+Even fish can become distracting and potentially dangerous obstacles.
+
+357
+00:27:53,220 --> 00:27:54,360
+Barracuda like to watch.
+
+358
+00:27:54,940 --> 00:27:55,859
+It's a giant fish.
+
+359
+00:27:55,860 --> 00:27:59,280
+It looks like a torpedo with nasty teeth that stick out everywhere.
+
+360
+00:27:59,560 --> 00:28:04,200
+And they like just to kind of hover over your shoulder to see what you're doing all the time.
+
+361
+00:28:04,201 --> 00:28:09,740
+And you're just kind of like, what's, ah, but they're just doing their own thing.
+
+362
+00:28:11,520 --> 00:28:19,420
+But sometimes a job requires a diver welder to go to extreme depths and stay in that environment for days, even weeks.
+
+363
+00:28:20,560 --> 00:28:24,880
+This is called saturation diving and requires serious courage.
+
+364
+00:28:26,320 --> 00:28:31,920
+It may also require the highly sophisticated technologies of dry underwater welding.
+
+365
+00:28:34,200 --> 00:28:41,660
+The difference between wet and dry underwater welding, the dry underwater weld will require a habitat.
+
+366
+00:28:42,940 --> 00:28:49,260
+A habitat is lowered down and put in place on the member or on the pipeline that's going to be repaired.
+
+367
+00:28:49,900 --> 00:28:56,820
+Once it's installed, they seal it and then they actually put the air down to it and pump all the water out of it.
+
+368
+00:28:57,300 --> 00:29:00,980
+This allows that piece to be basically dry now.
+
+369
+00:29:00,981 --> 00:29:13,221
+And so the divers can go down and they'll actually climb up inside the habitat, remove their helmets, and actually be able to go to work and weld that particular item
+
+370
+00:29:13,222 --> 00:29:14,180
+in the drive.
+
+371
+00:29:17,200 --> 00:29:22,100
+Dry underwater diver welders work in pairs and in six to eight hour shifts.
+
+372
+00:29:22,101 --> 00:29:28,640
+when done they return to the surface in a diving bell
+
+373
+00:29:28,641 --> 00:29:32,220
+then enter a second habitat maintained aboard ship
+
+374
+00:29:32,221 --> 00:29:39,180
+within these on-ship habitats they will eat sleep and relax before returning to the ocean floor
+
+375
+00:29:39,181 --> 00:29:45,380
+both the diving bell and on-ship habitat maintain the same pressure
+
+376
+00:29:45,381 --> 00:29:48,800
+as if the divers were still a thousand feet underwater
+
+377
+00:29:48,801 --> 00:29:55,580
+This is the only efficient and practical way for their bodies to remain adjusted to such extreme pressures
+
+378
+00:29:55,581 --> 00:30:03,300
+Otherwise the diver welders may experience the bends and other physical perils even death
+
+379
+00:30:03,301 --> 00:30:11,380
+To prepare diver welders for these conditions global industries has built an unparalleled underwater simulator
+
+380
+00:30:12,280 --> 00:30:14,560
+This facility that you see behind me right here
+
+381
+00:30:14,561 --> 00:30:18,220
+It's really the only one of its kind in the United States.
+
+382
+00:30:18,221 --> 00:30:19,640
+We call this the dry pot.
+
+383
+00:30:20,440 --> 00:30:24,620
+We can carry out dry welding scenarios down to a thousand feet.
+
+384
+00:30:25,700 --> 00:30:29,640
+A hyperbaric chamber simulates the high pressures the human body must endure
+
+385
+00:30:29,641 --> 00:30:31,780
+when working at great ocean depths.
+
+386
+00:30:33,840 --> 00:30:35,380
+Akin to being an astronaut,
+
+387
+00:30:35,980 --> 00:30:39,600
+the trainee will spend more than a week living in this simulated environment.
+
+388
+00:30:40,200 --> 00:30:42,020
+And conditions are tight.
+
+389
+00:30:42,021 --> 00:30:46,220
+It's very, very cramped inside there.
+
+390
+00:30:46,520 --> 00:30:48,580
+There's a place for everything to go,
+
+391
+00:30:48,800 --> 00:30:51,880
+and you have to be sure that you put everything in its place
+
+392
+00:30:51,881 --> 00:30:54,300
+before you go and start doing things,
+
+393
+00:30:54,380 --> 00:30:57,540
+because there are a lot of things that can bite you in there.
+
+394
+00:31:00,220 --> 00:31:01,620
+Unlike the wet welder,
+
+395
+00:31:01,980 --> 00:31:05,880
+the dry welder can perform more than stick welds in his cramped habitat.
+
+396
+00:31:06,720 --> 00:31:10,120
+I'm standing right in front of the entrance to the dry pot hatch.
+
+397
+00:31:10,121 --> 00:31:13,060
+Royce is doing gas tungsten arc welding.
+
+398
+00:31:13,061 --> 00:31:17,420
+It's also known as TIG welding, which is an old word for tungsten inner gas.
+
+399
+00:31:18,880 --> 00:31:24,100
+Once his training is finished, the trainee enters this decompression chamber
+
+400
+00:31:24,101 --> 00:31:27,820
+to slowly acclimate his body back to the normal atmosphere.
+
+401
+00:31:29,800 --> 00:31:33,540
+But while even these adrenaline junkies need to rest once in a while,
+
+402
+00:31:34,280 --> 00:31:35,960
+some welders never take a break.
+
+403
+00:31:36,460 --> 00:31:38,060
+Of course, they're robots.
+
+404
+00:31:40,120 --> 00:31:40,820
+The U.S.
+
+405
+00:31:40,821 --> 00:31:47,400
+Navy recently set a world record by completing a wet weld at 2,000 feet below the surface.
+
+406
+00:31:48,400 --> 00:31:51,920
+The job? To train for deep sea submarine rescue.
+
+407
+00:31:53,540 --> 00:31:56,040
+Welding will return on Modern Marvels.
+
+408
+00:31:59,140 --> 00:32:02,520
+We now return to welding on Modern Marvels.
+
+409
+00:32:05,600 --> 00:32:08,780
+Welding. The heart and soul of making a car.
+
+410
+00:32:10,120 --> 00:32:13,000
+And for major automobile manufacturers like General Motors,
+
+411
+00:32:14,860 --> 00:32:18,120
+no process is more vital or more automated.
+
+412
+00:32:19,940 --> 00:32:22,000
+When I first started with General Motors,
+
+413
+00:32:22,380 --> 00:32:25,780
+there weren't any robots in the body shop I worked in.
+
+414
+00:32:25,940 --> 00:32:27,800
+Two years later, there were 40 of them.
+
+415
+00:32:27,980 --> 00:32:29,780
+In the body shop we're standing in now,
+
+416
+00:32:29,880 --> 00:32:32,100
+there's approximately 1,200 robots.
+
+417
+00:32:32,820 --> 00:32:36,240
+Over a third of them, 480-some, are welding robots.
+
+418
+00:32:36,241 --> 00:32:45,240
+Here at GM's Lake Orion assembly plant, more than 16,000 cars roll off the lines every month.
+
+419
+00:32:45,241 --> 00:32:51,240
+By the time each car is fully assembled, it will contain thousands of welds.
+
+420
+00:32:51,241 --> 00:32:58,240
+On this structure as it sits right here, there's approximately 3,800 welds.
+
+421
+00:32:58,241 --> 00:33:02,240
+Once the outer structure goes on, there'll be approximately 1,200 more welds added to it
+
+422
+00:33:02,241 --> 00:33:05,240
+for approximately 5,000 welds overall on the vehicle.
+
+423
+00:33:06,240 --> 00:33:17,560
+Nearly all those welds are completed by robotic welding systems, which load, position and
+
+424
+00:33:17,561 --> 00:33:21,420
+weld more than 240 component parts.
+
+425
+00:33:21,421 --> 00:33:27,800
+Most of the robots that are used for welding are actually used for spot welding, and probably
+
+426
+00:33:27,801 --> 00:33:33,760
+60% of the welding robots that are out there are actually spot welding robots.
+
+427
+00:33:33,761 --> 00:33:38,580
+Unlike arc welding, spot welding does not create a bead, nor is it designed for heavy
+
+428
+00:33:38,581 --> 00:33:41,000
+steel items like beams.
+
+429
+00:33:41,001 --> 00:33:48,560
+Instead, spot welds bond thin metal sheets, as in car doors, or hoods.
+
+430
+00:33:48,561 --> 00:33:52,920
+Energy is focused to a single spot, where two electrodes make direct contact with the
+
+431
+00:33:52,921 --> 00:33:55,240
+metal sheets to be joined.
+
+432
+00:33:55,241 --> 00:33:59,560
+The electrodes are made of copper because it has low electrical resistance and high
+
+433
+00:33:59,561 --> 00:34:01,440
+thermal conductivity.
+
+434
+00:34:01,441 --> 00:34:06,240
+This means it can deliver some serious juice.
+
+435
+00:34:06,241 --> 00:34:11,400
+This particular unit is a pneumatic operated spot welding system that's got a 75 kVA transformer
+
+436
+00:34:11,401 --> 00:34:13,500
+back here.
+
+437
+00:34:13,501 --> 00:34:16,240
+The electrodes up here are all water cooled.
+
+438
+00:34:16,241 --> 00:34:20,200
+This particular set up here probably runs about 10 to 12,000 amps through these electrodes
+
+439
+00:34:20,201 --> 00:34:21,200
+right here.
+
+440
+00:34:21,201 --> 00:34:26,420
+It's not uncommon to see 40,000, 50,000 amps run through the electrodes.
+
+441
+00:34:26,421 --> 00:34:31,700
+Given that most houses run on less than 200 amps, that's a lot of power.
+
+442
+00:34:31,701 --> 00:34:34,980
+But it's not the only factor in a reliable spot weld.
+
+443
+00:34:34,981 --> 00:34:37,520
+You need pressure.
+
+444
+00:34:37,521 --> 00:34:42,680
+When the two electrodes come together, they pinch the two metal sheets at the spot and
+
+445
+00:34:42,681 --> 00:34:47,940
+cause a small indentation in both.
+
+446
+00:34:47,941 --> 00:34:52,020
+Electric current then begins to pass from one electrode to the other through this spot
+
+447
+00:34:52,021 --> 00:34:54,460
+in the sheet metal.
+
+448
+00:34:54,461 --> 00:34:59,340
+As it does so, the current that flowed so smoothly through the copper now encounters
+
+449
+00:34:59,341 --> 00:35:03,120
+resistance in the less conductive metal pieces.
+
+450
+00:35:03,121 --> 00:35:08,080
+This resistance results in heat, and the metal begins to melt, causing a molten nugget to
+
+451
+00:35:08,081 --> 00:35:09,080
+form.
+
+452
+00:35:09,081 --> 00:35:15,980
+When the molten nugget cools and coalesces, it locks the two metal sheets together.
+
+453
+00:35:15,981 --> 00:35:19,580
+The electrodes then release the pinch point and move on.
+
+454
+00:35:19,581 --> 00:35:24,020
+A robot can make a series of spot welds in a relatively short period of time.
+
+455
+00:35:24,021 --> 00:35:26,020
+For a man, it's a heavier task.
+
+456
+00:35:26,021 --> 00:35:32,020
+A typical spot welding gun might weigh anywhere from 100 pounds to 200 pounds.
+
+457
+00:35:32,021 --> 00:35:35,900
+That's a lot of physical labor to move a spot welding gun.
+
+458
+00:35:35,901 --> 00:35:40,700
+And so a robot that's designed to handle that kind of weight is an ideal setup, because
+
+459
+00:35:40,701 --> 00:35:45,640
+the robot can just handle the spot welding gun and consistently put it in the same place
+
+460
+00:35:45,641 --> 00:35:47,640
+every time.
+
+461
+00:35:47,641 --> 00:35:52,140
+Factor in the sheer number of spot welds required to assemble a car, and robots make
+
+462
+00:35:52,141 --> 00:35:54,980
+an incredibly practical solution for car manufacturers.
+
+463
+00:35:57,540 --> 00:36:00,820
+And advances in recent technology allow robots to reach further,
+
+464
+00:36:01,820 --> 00:36:06,380
+work closer together, and execute a greater variety of welds than ever before.
+
+465
+00:36:08,820 --> 00:36:11,900
+The robot can pretty much weld the same speed as a man.
+
+466
+00:36:13,220 --> 00:36:17,600
+Where the payoff is, is the robot is always welding.
+
+467
+00:36:17,601 --> 00:36:26,240
+A man has to weld and then lift his hood up and adjust the part and put the hood back down and re-weld again.
+
+468
+00:36:27,460 --> 00:36:36,600
+Where the robot's just going to weld, weld, weld, it might have 85% arc time compared to a manual of 20%.
+
+469
+00:36:37,280 --> 00:36:41,060
+It took a man about three hours to make this particular product.
+
+470
+00:36:41,480 --> 00:36:47,020
+Now that the robot's welding it, it takes essentially about a half an hour to weld the entire part.
+
+471
+00:36:47,600 --> 00:36:55,940
+But today, robots aren't just spot welders.
+
+472
+00:36:56,860 --> 00:37:00,160
+Here at Robot Works, a leader in robot system integration,
+
+473
+00:37:00,960 --> 00:37:03,180
+robots execute nearly every form of welding,
+
+474
+00:37:03,700 --> 00:37:06,580
+and often in surprising ways.
+
+475
+00:37:09,580 --> 00:37:13,960
+This system has a capability of running at about 30 to 40 inches per minute of weld.
+
+476
+00:37:13,961 --> 00:37:17,960
+This system is unique in that there's two technologies that are actually integrated into it.
+
+477
+00:37:17,961 --> 00:37:20,960
+One called touch sensing and another called seam tracking.
+
+478
+00:37:20,961 --> 00:37:24,960
+What touch sensing allows the robot to do is actually find the seam.
+
+479
+00:37:24,961 --> 00:37:29,960
+It would come down, sense that it has touched the part in one specific spot,
+
+480
+00:37:29,961 --> 00:37:32,960
+record that data, save that positional data.
+
+481
+00:37:32,961 --> 00:37:36,960
+It would then come up, sense the next spot doing the same process,
+
+482
+00:37:36,961 --> 00:37:41,960
+and at that point in time the robot would know from the trigonometry where that seam starts.
+
+483
+00:37:41,961 --> 00:37:47,060
+starts. There's another technology called seam tracking. What that allows you to do
+
+484
+00:37:47,061 --> 00:37:51,680
+is once the robot has found the seam, it actually allows the robot to stay within the seam throughout
+
+485
+00:37:51,681 --> 00:37:52,680
+the course of the weldment.
+
+486
+00:37:56,640 --> 00:38:02,980
+But even as robots become more sophisticated and commonplace, they will still require HMI,
+
+487
+00:38:02,981 --> 00:38:04,781
+human-machine interface.
+
+488
+00:38:04,782 --> 00:38:09,360
+After all, someone still needs to program them, and he or she
+
+489
+00:38:09,361 --> 00:38:10,614
+better know welding.
+
+490
+00:38:10,615 --> 00:38:15,440
+For the program, we really suggest to take a guy that's a good welder because
+
+491
+00:38:16,400 --> 00:38:21,360
+he's going to know, like if he hears an arc and it's not right, he'll know that it might be because
+
+492
+00:38:21,361 --> 00:38:27,048
+of the shielding gas or the stick out that robots use him because he just he knows welding.
+
+493
+00:38:27,049 --> 00:38:27,749
+But a
+
+494
+00:38:27,750 --> 00:38:31,920
+guy that doesn't know welding might think it's because of the robot controller or something to
+
+495
+00:38:31,921 --> 00:38:33,078
+do with the robot.
+
+496
+00:38:33,079 --> 00:38:37,840
+Somebody that understands the process is the best kind of a robot operator
+
+497
+00:38:37,841 --> 00:38:45,920
+programmer think robots are innovative well you haven't seen or should we say you haven't heard
+
+498
+00:38:46,960 --> 00:38:58,880
+anything yet today gm employs more than 20 000 robot welders but in 1961 there was only one
+
+499
+00:38:59,440 --> 00:39:05,600
+unimate the first industrial robot in history unimate performed spot welds by following step
+
+500
+00:39:05,601 --> 00:39:11,680
+by step commands stored on a magnetic drum welding will return on modern marvels
+
+501
+00:39:14,320 --> 00:39:17,120
+we now return to welding on modern models
+
+502
+00:39:20,000 --> 00:39:26,960
+say welding and you immediately think iron steel metal on metal but today you can weld just about
+
+503
+00:39:26,961 --> 00:39:34,480
+anything including plastic plastic toys plastic packaging and lots of household items are welded
+
+504
+00:39:34,481 --> 00:39:40,420
+together by a process known as friction welding.
+
+505
+00:39:40,421 --> 00:39:45,400
+Friction welding comes in many forms, yet all work essentially the same.
+
+506
+00:39:45,401 --> 00:39:49,580
+They generate heat through mechanical action, like the high-speed rubbing of two sticks
+
+507
+00:39:49,581 --> 00:39:50,580
+together.
+
+508
+00:39:50,581 --> 00:39:57,720
+With plastics, the best friction welds are made through the power of sound.
+
+509
+00:39:57,721 --> 00:40:01,140
+It's called ultrasonics.
+
+510
+00:40:01,141 --> 00:40:06,180
+utilizes the high intensity acoustic energy that occurs in frequencies beyond human hearing.
+
+511
+00:40:07,800 --> 00:40:12,760
+The sound waves cause the plastic pieces to literally vibrate against one another at high
+
+512
+00:40:12,761 --> 00:40:19,884
+intensities. At that interface, heat is generated and the two pieces fuse together.
+
+513
+00:40:19,885 --> 00:40:21,000
+It happens so
+
+514
+00:40:21,001 --> 00:40:24,723
+fast that the naked eye can't see it.
+
+515
+00:40:24,724 --> 00:40:30,860
+People don't realize the amount of power that is available in
+
+516
+00:40:30,861 --> 00:40:34,633
+sound waves if the sound waves are focused properly.
+
+517
+00:40:34,634 --> 00:40:37,100
+And these materials are vibrating,
+
+518
+00:40:37,101 --> 00:40:43,059
+in many cases, 20,000 times per second, 40,000 times per second.
+
+519
+00:40:43,060 --> 00:40:45,480
+That frictional heat is so
+
+520
+00:40:45,481 --> 00:40:53,232
+intense that the plastic welds within a fraction of a second.
+
+521
+00:40:53,233 --> 00:40:57,680
+In 1964, Robert Soloff received the
+
+522
+00:40:57,681 --> 00:41:02,080
+first ever patent for ultrasonic plastic welding.
+
+523
+00:41:02,081 --> 00:41:05,240
+Today, his company, Sonics and Materials,
+
+524
+00:41:05,241 --> 00:41:07,280
+builds the technology that welds everything
+
+525
+00:41:07,281 --> 00:41:13,220
+from toothpaste tubes to coffee makers to simple toys.
+
+526
+00:41:13,221 --> 00:41:15,740
+At their headquarters in Newtown, Connecticut,
+
+527
+00:41:15,741 --> 00:41:18,000
+ultrasonic welding machines are manufactured
+
+528
+00:41:18,001 --> 00:41:24,000
+to precise specifications, or else the welds wouldn't be perfect.
+
+529
+00:41:24,001 --> 00:41:27,080
+There are four main parts in an ultrasonic welder.
+
+530
+00:41:27,081 --> 00:41:31,740
+a power supply, and three components known as the ultrasonic stack.
+
+531
+00:41:32,200 --> 00:41:36,020
+This is the ultrasonic stack for the ultrasonic welding press,
+
+532
+00:41:36,260 --> 00:41:41,800
+which is comprised of the ultrasonic converter, the booster, and the ultrasonic horn.
+
+533
+00:41:43,080 --> 00:41:49,180
+The power supply takes standard 60 Hz power and pumps it up to 20,000 Hz of acoustic energy.
+
+534
+00:41:49,840 --> 00:41:54,740
+This acoustic energy causes coin-sized ceramic discs within the converter
+
+535
+00:41:54,741 --> 00:41:57,180
+to physically expand and contract,
+
+536
+00:41:57,780 --> 00:42:00,640
+creating 20,000 mechanical vibrations per second.
+
+537
+00:42:01,680 --> 00:42:04,380
+These vibrations are then focused to the plastic parts,
+
+538
+00:42:04,760 --> 00:42:07,320
+first through the booster, then through the horn,
+
+539
+00:42:07,760 --> 00:42:11,200
+which delivers the vibrations directly onto the plastic parts to be welded.
+
+540
+00:42:13,300 --> 00:42:16,160
+Although sparks don't fly during ultrasonic welding,
+
+541
+00:42:16,640 --> 00:42:18,060
+it still gets the job done.
+
+542
+00:42:19,000 --> 00:42:22,160
+This happens to be a two-piece whistle.
+
+543
+00:42:22,680 --> 00:42:24,620
+So we take the two pieces of plastic,
+
+544
+00:42:24,740 --> 00:42:26,640
+We put them in a lower fixture.
+
+545
+00:42:27,100 --> 00:42:30,360
+The fixture is made to the application, to the piece of plastic.
+
+546
+00:42:30,940 --> 00:42:35,840
+And then we have a very basic flat-faced ultrasonic horn because the part is flat.
+
+547
+00:42:36,060 --> 00:42:37,400
+There's no contours to the part.
+
+548
+00:42:39,760 --> 00:42:46,020
+So that quickly, we just welded the two pieces of plastic together in 0.24 seconds.
+
+549
+00:42:48,800 --> 00:42:54,500
+What I'm going to do is take a screwdriver and break the plastic apart at the weld area.
+
+550
+00:42:54,740 --> 00:43:04,240
+And in turn, this will show the molten white plastic where it bonded to the red plastic.
+
+551
+00:43:04,241 --> 00:43:08,300
+And thank Ultrasonics for the Hermetic seal on clear plastic packaging.
+
+552
+00:43:08,301 --> 00:43:13,020
+You know, the plastic you can never quite get open.
+
+553
+00:43:13,021 --> 00:43:17,740
+We have these PVC clamshells that are tamper-proof clamshells so that the product can't be easily
+
+554
+00:43:17,741 --> 00:43:21,120
+removed from it or put in a pocket.
+
+555
+00:43:21,121 --> 00:43:23,620
+is commonly used to seal these clamshells.
+
+556
+00:43:28,620 --> 00:43:32,820
+And now we have ultrasonically welded the edge of the clamshell.
+
+557
+00:43:35,520 --> 00:43:38,720
+While ultrasonics occurs in the wink of an eye,
+
+558
+00:43:38,721 --> 00:43:42,220
+another form of friction welding will keep your head spinning.
+
+559
+00:43:42,221 --> 00:43:45,860
+Spin welding is rotary friction under pressure,
+
+560
+00:43:45,861 --> 00:43:49,320
+which generates heat in the joint area to melt the plastic
+
+561
+00:43:49,321 --> 00:43:53,760
+confuse the parts together.
+
+562
+00:43:53,761 --> 00:43:59,760
+A typical insulated coffee mug is spin welded from two parts.
+
+563
+00:43:59,761 --> 00:44:02,700
+A suction device grabs hold of the inner shell
+
+564
+00:44:02,701 --> 00:44:07,280
+and rotates as it descends into the outer shell.
+
+565
+00:44:07,281 --> 00:44:10,160
+The collision of the stationary and rotating pieces
+
+566
+00:44:10,161 --> 00:44:14,880
+generates heat, causing the plastics to soften.
+
+567
+00:44:14,881 --> 00:44:17,080
+When a braking system stops the rotation,
+
+568
+00:44:17,081 --> 00:44:20,660
+The softened plastic seams of the two shells fuse as they cool.
+
+569
+00:44:23,160 --> 00:44:26,300
+The result? A perfect hermetic seal.
+
+570
+00:44:28,180 --> 00:44:33,660
+So from ordinary household items to structures of extraordinary heights and depths,
+
+571
+00:44:34,880 --> 00:44:37,540
+welding plays a crucial role in everyday life.
+
+572
+00:44:38,280 --> 00:44:41,340
+By simply joining the world together.
+

@@ -1,0 +1,2464 @@
+1
+00:00:01,000 --> 00:00:06,400
+Welcome to Skyscraper 101, a truly comprehensive course in mega construction.
+
+2
+00:00:07,200 --> 00:00:11,060
+Class objective? Construct a giant building in downtown Los Angeles.
+
+3
+00:00:12,000 --> 00:00:14,080
+Watch the real men of steel.
+
+4
+00:00:15,020 --> 00:00:22,720
+Connectors, hook-on men, and bolter-uppers fashion 13,000 tons of steel into the skeleton of a building.
+
+5
+00:00:23,280 --> 00:00:26,820
+Here's what two years of blood, sweat, and swearing can do.
+
+6
+00:00:26,821 --> 00:00:31,820
+Now, building a skyscraper, the skeleton, on Modern Marvels.
+
+7
+00:00:42,820 --> 00:00:45,820
+If you live in a city, you drive by them every day.
+
+8
+00:00:46,820 --> 00:00:49,820
+But you never have time to peek through the security fence.
+
+9
+00:00:51,820 --> 00:00:54,820
+There's got to be a thousand people working on them.
+
+10
+00:00:54,821 --> 00:00:57,820
+How else could they go up so fast?
+
+11
+00:00:57,821 --> 00:00:59,820
+How do they make all those parts fit?
+
+12
+00:00:59,821 --> 00:01:01,820
+Who's responsible for what?
+
+13
+00:01:01,821 --> 00:01:07,820
+If you always wanted to know what it feels like to straddle an I-beam hundreds of feet off the ground,
+
+14
+00:01:07,821 --> 00:01:12,820
+or to run that massive tower crane, here's your chance to find out.
+
+15
+00:01:12,821 --> 00:01:18,820
+Because we're going to construct the giant of a building from the ground up.
+
+16
+00:01:18,821 --> 00:01:22,820
+We'll see the step-by-step process.
+
+17
+00:01:22,821 --> 00:01:26,060
+investigate the rich history of technological innovation
+
+18
+00:01:26,061 --> 00:01:29,920
+that got us from there to here.
+
+19
+00:01:31,060 --> 00:01:34,260
+Because every big building today owes a debt of gratitude
+
+20
+00:01:34,261 --> 00:01:36,620
+to the groundbreaking structures of the past.
+
+21
+00:01:37,780 --> 00:01:40,380
+And here, in the heart of Los Angeles,
+
+22
+00:01:40,860 --> 00:01:45,220
+we'll meet the people who build one.
+
+23
+00:01:45,860 --> 00:01:46,860
+Power frame operator.
+
+24
+00:01:47,220 --> 00:01:48,100
+Project that's big.
+
+25
+00:01:48,500 --> 00:01:49,200
+Pipe fitting.
+
+26
+00:01:49,420 --> 00:01:50,120
+Bolts up foreman.
+
+27
+00:01:50,121 --> 00:01:55,080
+For these hardhat warriors, it's time for their closeup.
+
+28
+00:01:55,081 --> 00:01:57,080
+Very dangerous.
+
+29
+00:01:57,081 --> 00:01:58,080
+Very dangerous.
+
+30
+00:01:58,081 --> 00:02:00,080
+Dangerous enough, if you make a mistake, you could die.
+
+31
+00:02:00,081 --> 00:02:01,080
+This is two.
+
+32
+00:02:01,081 --> 00:02:04,080
+As the building's going up, there's bound to be some trouble.
+
+33
+00:02:04,081 --> 00:02:06,080
+Let me spell it out to you.
+
+34
+00:02:06,081 --> 00:02:10,080
+Grab number one right here, put number two right here,
+
+35
+00:02:10,081 --> 00:02:13,080
+so I can get one and two in order here.
+
+36
+00:02:13,081 --> 00:02:15,080
+Here we go.
+
+37
+00:02:15,081 --> 00:02:18,080
+Despite the road bumps, Bobby, the man lift operator,
+
+38
+00:02:18,081 --> 00:02:20,660
+a man lift operator is on hand to lift their spirits.
+
+39
+00:02:21,460 --> 00:02:23,520
+This is a man lift operator's life.
+
+40
+00:02:24,300 --> 00:02:27,300
+You're always getting loaded and you're always having your ups and downs.
+
+41
+00:02:28,060 --> 00:02:32,000
+From the iconic Art Deco towers of the 1920s and early 30s
+
+42
+00:02:32,001 --> 00:02:34,280
+to the shimmering monoliths of today,
+
+43
+00:02:35,920 --> 00:02:39,880
+skyscrapers represent more than a collection of concrete, steel and glass.
+
+44
+00:02:40,440 --> 00:02:44,320
+The skyscraper defines our cities.
+
+45
+00:02:44,321 --> 00:02:53,000
+The skyscraper is a symbol of power, ingenuity, innovation, and will.
+
+46
+00:02:53,760 --> 00:02:55,360
+A skyscraper is like a test bed.
+
+47
+00:02:55,740 --> 00:03:00,720
+It's a place where we work out new technologies, new ideas, new construction methods
+
+48
+00:03:00,721 --> 00:03:03,580
+as we try and build ever taller and faster and cheaper.
+
+49
+00:03:09,960 --> 00:03:12,500
+And the structure we're building is no exception.
+
+50
+00:03:14,320 --> 00:03:26,320
+In May of 2002, the Clark Construction Group, the builder and general contractor, broke ground on a $174 million project in downtown Los Angeles.
+
+51
+00:03:28,460 --> 00:03:29,291
+Their task?
+
+52
+00:03:29,292 --> 00:03:37,220
+Build a 750,000 square foot office building for the California Department of Transportation, or Caltrans.
+
+53
+00:03:37,221 --> 00:03:44,600
+The building will take up an entire city block, and although it will rise a relatively modest
+
+54
+00:03:44,601 --> 00:03:50,980
+13 stories above ground, with four stories of parking below the plaza level, constructing
+
+55
+00:03:50,981 --> 00:04:00,900
+it will present the same architectural, structural, and mechanical challenges as larger buildings.
+
+56
+00:04:00,901 --> 00:04:07,900
+construction has 27 months to complete our office building.
+
+57
+00:04:08,540 --> 00:04:13,540
+Every big building starts with a developer or owner, someone who puts up the money.
+
+58
+00:04:13,541 --> 00:04:15,620
+The building is the top of you.
+
+59
+00:04:15,621 --> 00:04:21,300
+Typically the owner selects an architect, someone to design the building.
+
+60
+00:04:21,301 --> 00:04:26,660
+Sometimes this is done through a design competition, where rivals submit renderings and models of
+
+61
+00:04:26,661 --> 00:04:30,160
+proposed designs in the hope of capturing a contract.
+
+62
+00:04:30,161 --> 00:04:34,160
+We have the address, a huge 100 here.
+
+63
+00:04:34,161 --> 00:04:38,360
+In the fall of 2001, Tom Main and his design team from Morphosis
+
+64
+00:04:38,361 --> 00:04:41,360
+Architects are in the midst of a heated competition for the
+
+65
+00:04:41,361 --> 00:04:42,360
+Caltrans project.
+
+66
+00:04:45,660 --> 00:04:47,960
+You put a huge amount of energy, and I'm talking about
+
+67
+00:04:47,961 --> 00:04:51,160
+kind of emotional energy, not just intellectual and creative
+
+68
+00:04:51,161 --> 00:04:53,960
+energy, but you get really involved in it personally.
+
+69
+00:04:53,961 --> 00:04:56,460
+When you're done, you can't even conceive not winning.
+
+70
+00:04:57,420 --> 00:05:02,780
+For any competition, the developer gives rival architects a set of parameters called a program.
+
+71
+00:05:04,260 --> 00:05:09,720
+It might include the amount of space desired, the intended usage for that space, and the budget.
+
+72
+00:05:11,460 --> 00:05:17,440
+It's the architect's job to take these abstract concepts in numbers and fashion them into a workable building.
+
+73
+00:05:20,220 --> 00:05:22,560
+Designers use every tool in their box.
+
+74
+00:05:22,561 --> 00:05:28,560
+The image is always the architect that is drafting for it, which is kind of an old image.
+
+75
+00:05:28,561 --> 00:05:30,560
+It's all computer now.
+
+76
+00:05:30,561 --> 00:05:38,560
+In the computer we can do a model and rotate the model around, see it from any angle that you want to see it from.
+
+77
+00:05:38,561 --> 00:05:46,560
+Render it or shade it so that you can see kind of the surfaces more like you would see a traditional model.
+
+78
+00:05:46,561 --> 00:05:50,560
+And it doesn't have to stay in the computer.
+
+79
+00:05:50,561 --> 00:05:57,560
+This machine can take this and that and turn it into this.
+
+80
+00:05:57,561 --> 00:06:03,560
+It's called a 3D printer and it works similar to your inkjet at home.
+
+81
+00:06:03,561 --> 00:06:10,560
+A model starts out as a heap of plaster powder, which the printer spreads into a thin layer.
+
+82
+00:06:10,561 --> 00:06:17,560
+The printhead runs back and forth across the powder spraying glue instead of ink.
+
+83
+00:06:17,561 --> 00:06:20,100
+it's creating a cross-section.
+
+84
+00:06:21,780 --> 00:06:23,320
+When it's through with one layer,
+
+85
+00:06:23,700 --> 00:06:25,840
+the printer drops the base a fraction of an inch,
+
+86
+00:06:26,520 --> 00:06:28,840
+spreads another bed of powder, and sprays more glue.
+
+87
+00:06:30,760 --> 00:06:34,660
+Eventually, you end up with a kind of cylinder plaster
+
+88
+00:06:34,661 --> 00:06:36,520
+that you can vacuum out the excess,
+
+89
+00:06:37,040 --> 00:06:40,740
+and you're left in the end with a three-dimensional model
+
+90
+00:06:40,741 --> 00:06:44,040
+that you can discuss with the team.
+
+91
+00:06:44,041 --> 00:06:51,040
+The 3D printer quickly renders concepts, but they're just to stimulate debate.
+
+92
+00:06:51,041 --> 00:06:57,200
+For the actual competition, designers will spend hundreds of hours making detailed models
+
+93
+00:06:57,201 --> 00:07:01,800
+with paper, plastic and glue.
+
+94
+00:07:01,801 --> 00:07:04,980
+Others on the team will work on the guts of the building.
+
+95
+00:07:04,981 --> 00:07:10,960
+If they win the competition, Morphosis will eventually lay out every detail, every column,
+
+96
+00:07:10,961 --> 00:07:16,260
+window in the form of extremely detailed drawings or construction documents.
+
+97
+00:07:19,140 --> 00:07:24,200
+The set of documents can be 300 to 400 pages, and they're constantly changing.
+
+98
+00:07:25,240 --> 00:07:27,880
+Designing is not just making one decision after the other.
+
+99
+00:07:28,260 --> 00:07:31,860
+It is making a whole bunch of decisions together, and they all have to work together.
+
+100
+00:07:32,440 --> 00:07:35,540
+Architects don't work in a self-indulgent creative vacuum.
+
+101
+00:07:36,020 --> 00:07:39,600
+They're governed by planning codes, structural engineering limitations.
+
+102
+00:07:40,960 --> 00:07:43,300
+The needs of the client.
+
+103
+00:07:43,301 --> 00:07:45,560
+You can either have moving exhibits,
+
+104
+00:07:45,561 --> 00:07:47,560
+but you're going to have a very large archive
+
+105
+00:07:47,561 --> 00:07:48,760
+of these fine art photographs.
+
+106
+00:07:48,761 --> 00:07:51,800
+And, to the frustration of many architects, the budget.
+
+107
+00:07:51,801 --> 00:07:54,400
+Even if it has nothing to do mechanical, just so you know.
+
+108
+00:07:54,401 --> 00:07:58,080
+The architect also consults a series of additional specialists,
+
+109
+00:07:58,081 --> 00:07:59,840
+like the structural engineer,
+
+110
+00:07:59,841 --> 00:08:03,020
+who designs the support framework of the building,
+
+111
+00:08:03,021 --> 00:08:04,680
+and the mechanical engineer,
+
+112
+00:08:04,681 --> 00:08:06,960
+who figures out how to air condition the building.
+
+113
+00:08:06,961 --> 00:08:11,460
+Architecture is like watching a child grow.
+
+114
+00:08:11,461 --> 00:08:13,920
+A parent can want them to go this way,
+
+115
+00:08:14,060 --> 00:08:16,440
+maybe a little bit this way,
+
+116
+00:08:16,480 --> 00:08:17,380
+and maybe they go that way,
+
+117
+00:08:17,440 --> 00:08:18,900
+and finally they're just their own person.
+
+118
+00:08:20,260 --> 00:08:22,460
+On November 12, 2001,
+
+119
+00:08:23,100 --> 00:08:24,860
+Morphosis gets word from Caltrans
+
+120
+00:08:24,861 --> 00:08:26,360
+that it has won the competition.
+
+121
+00:08:28,540 --> 00:08:30,520
+I think it's going to be...
+
+122
+00:08:30,521 --> 00:08:34,760
+Now, like any other high-rise designer,
+
+123
+00:08:34,761 --> 00:08:41,320
+Morphosis architects have to produce the mountain of construction documents that a builder can turn into a structure.
+
+124
+00:08:43,580 --> 00:08:50,460
+It all starts with digging a massive hole and shooting some concrete.
+
+125
+00:08:51,460 --> 00:08:53,720
+Yep, it's going to get messy.
+
+126
+00:08:58,620 --> 00:09:03,720
+Before the Caltrans building or any large building can go up, it's got to go down.
+
+127
+00:09:04,760 --> 00:09:08,620
+More than a cliche, creating a solid foundation is essential.
+
+128
+00:09:16,380 --> 00:09:19,660
+This building will be supported on spread footings.
+
+129
+00:09:19,800 --> 00:09:24,760
+Spread footings are basically a rectangular or square concrete block,
+
+130
+00:09:25,180 --> 00:09:28,720
+in this case about 18 feet by 18 feet by 4 foot deep,
+
+131
+00:09:29,320 --> 00:09:31,560
+that support the structural steel column.
+
+132
+00:09:31,561 --> 00:09:38,560
+The Caltrans steel superstructure will weigh 13,000 tons.
+
+133
+00:09:38,561 --> 00:09:42,560
+But fortunately, rock near the surface can carry the load.
+
+134
+00:09:42,561 --> 00:09:45,560
+When a site has mud, soft soil, or weak rock,
+
+135
+00:09:45,561 --> 00:09:48,560
+a builder might have to drive piles,
+
+136
+00:09:48,561 --> 00:09:53,560
+pounding long pieces of concrete or steel down to bedrock.
+
+137
+00:09:53,561 --> 00:09:57,560
+Piles won't be necessary for the Caltrans building.
+
+138
+00:09:57,561 --> 00:10:00,560
+But before concrete pouring for the footings can begin,
+
+139
+00:10:00,561 --> 00:10:03,560
+builders have to dig the hole.
+
+140
+00:10:03,561 --> 00:10:07,560
+It's the pit on top of which the building will sit.
+
+141
+00:10:07,561 --> 00:10:11,560
+To get the digging done, the excavation subcontractor
+
+142
+00:10:11,561 --> 00:10:14,560
+uses specialized tools.
+
+143
+00:10:14,561 --> 00:10:16,560
+Giant excavators.
+
+144
+00:10:16,561 --> 00:10:19,560
+Bulldozers.
+
+145
+00:10:19,561 --> 00:10:21,560
+Semis.
+
+146
+00:10:21,561 --> 00:10:23,560
+A paleontologist.
+
+147
+00:10:23,561 --> 00:10:25,560
+A paleontologist?
+
+148
+00:10:25,561 --> 00:10:27,560
+I'm a field paleontologist,
+
+149
+00:10:27,561 --> 00:10:32,700
+and it's my duty to find fossils and recover them
+
+150
+00:10:32,701 --> 00:10:34,560
+and bring them back to a museum.
+
+151
+00:10:35,700 --> 00:10:37,700
+It's a requirement in most states
+
+152
+00:10:37,701 --> 00:10:40,780
+that a specialist like Conrad be on hand during excavation
+
+153
+00:10:40,781 --> 00:10:44,400
+in case artifacts are inadvertently uncovered.
+
+154
+00:10:46,420 --> 00:10:48,960
+Here, a backhoe becomes a time machine.
+
+155
+00:10:50,180 --> 00:10:52,040
+Some of the interesting fossils that we have found
+
+156
+00:10:52,041 --> 00:10:54,340
+have been great white teeth.
+
+157
+00:10:55,040 --> 00:10:57,080
+This is a fossil great white shark.
+
+158
+00:10:57,560 --> 00:11:02,900
+approximately three million years old. But a big find is often the last thing a
+
+159
+00:11:02,901 --> 00:11:09,320
+construction company wants when they're fighting a deadline. One of the biggest
+
+160
+00:11:09,321 --> 00:11:14,900
+construction related finds happened in 1991 during excavation for a new federal
+
+161
+00:11:14,901 --> 00:11:20,240
+building in lower Manhattan. Builders uncovered hundreds of burials from an
+
+162
+00:11:20,241 --> 00:11:25,400
+African cemetery, halting construction for several months while archaeologists
+
+163
+00:11:25,401 --> 00:11:31,440
+excavated the remains. It's essentially like a big treasure
+
+164
+00:11:31,441 --> 00:11:34,654
+hunt. That's what keeps the drive and the interest going.
+
+165
+00:11:34,655 --> 00:11:36,740
+You're going to find that one awesome
+
+166
+00:11:36,741 --> 00:11:42,720
+site that's going to make you famous. Even at the excavation stage, this project
+
+167
+00:11:42,721 --> 00:11:46,392
+takes an enormous amount of planning and coordination.
+
+168
+00:11:46,393 --> 00:11:49,180
+That's where the general contractor comes
+
+169
+00:11:49,181 --> 00:11:52,180
+On this project, that's Clark Construction.
+
+170
+00:11:52,181 --> 00:11:54,180
+It's miscellaneous items.
+
+171
+00:11:54,181 --> 00:11:56,180
+We, no personal vehicles on site.
+
+172
+00:11:56,181 --> 00:11:59,180
+Everybody can tell the site's pretty congested and we don't want to...
+
+173
+00:11:59,181 --> 00:12:02,180
+Clark's job is to coordinate the subcontractors,
+
+174
+00:12:02,181 --> 00:12:07,180
+to schedule the work, and to make sure it meshes as smoothly as possible.
+
+175
+00:12:07,181 --> 00:12:12,180
+There are more than 55 subcontractors who will actually do the construction.
+
+176
+00:12:14,180 --> 00:12:18,180
+The general contractor oversees this organized chaos.
+
+177
+00:12:19,180 --> 00:12:22,180
+This represents the true schedule for the project.
+
+178
+00:12:22,280 --> 00:12:24,180
+There are over 5,000 activities.
+
+179
+00:12:24,280 --> 00:12:27,180
+Each of these events has to happen in a particular order
+
+180
+00:12:27,280 --> 00:12:30,120
+within the context of the construction of the job.
+
+181
+00:12:30,220 --> 00:12:31,920
+I don't know why this can't be done.
+
+182
+00:12:32,020 --> 00:12:33,520
+Is there any reason this couldn't be done?
+
+183
+00:12:33,620 --> 00:12:34,520
+Absolutely not.
+
+184
+00:12:34,620 --> 00:12:36,940
+Can you kick them in and get them done?
+
+185
+00:12:37,040 --> 00:12:38,040
+How you doing there, Sparky?
+
+186
+00:12:38,140 --> 00:12:38,940
+Pretty good.
+
+187
+00:12:39,040 --> 00:12:40,040
+Good.
+
+188
+00:12:40,140 --> 00:12:44,440
+And that ladder say that you can't go on the last two steps?
+
+189
+00:12:44,540 --> 00:12:46,240
+Almost every ladder I've ever seen,
+
+190
+00:12:46,340 --> 00:12:47,440
+you're close to a shaft.
+
+191
+00:12:47,540 --> 00:12:49,180
+I'd hate to see you go down.
+
+192
+00:12:49,181 --> 00:12:58,180
+The general contractor is like a big traffic cop, and sometimes one of the subs needs some
+
+193
+00:12:58,181 --> 00:12:59,180
+direction.
+
+194
+00:12:59,181 --> 00:13:01,180
+Two weeks ago they said there's no problem.
+
+195
+00:13:01,181 --> 00:13:05,180
+Well, if there's no freaking problem, why isn't this done?
+
+196
+00:13:05,181 --> 00:13:08,180
+The general contractor always has a lot at stake.
+
+197
+00:13:08,181 --> 00:13:13,180
+He's promised the owner his company can construct a building by a certain date and for a certain
+
+198
+00:13:13,181 --> 00:13:20,180
+amount of money, in this case, $174 million.
+
+199
+00:13:20,181 --> 00:13:27,180
+The first scheduled move-in date is August 12, 2004, only 18 months away.
+
+200
+00:13:27,181 --> 00:13:38,180
+Adding to the pressure, Clark Construction faces penalties of $25,000 for every day past their promised completion date.
+
+201
+00:13:38,181 --> 00:13:41,860
+Most large construction projects do have penalties involved with them.
+
+202
+00:13:42,380 --> 00:13:45,980
+Obviously, a building needs to be rented or leased or used,
+
+203
+00:13:46,360 --> 00:13:48,520
+and the user needs to know when he's coming in,
+
+204
+00:13:48,980 --> 00:13:51,400
+and it costs money to rent the building someplace else,
+
+205
+00:13:51,460 --> 00:13:53,720
+so this building has to be done on time.
+
+206
+00:13:54,580 --> 00:13:57,640
+We will be on schedule no matter what it takes.
+
+207
+00:13:57,641 --> 00:13:58,720
+We will make it happen.
+
+208
+00:14:00,600 --> 00:14:05,240
+After the excavation company has removed 200,000 cubic yards of dirt,
+
+209
+00:14:05,241 --> 00:14:10,240
+The concrete subcontractor comes in next.
+
+210
+00:14:10,241 --> 00:14:13,240
+This project will take 36,000 cubic yards of concrete
+
+211
+00:14:13,241 --> 00:14:16,240
+for the foundation and floors.
+
+212
+00:14:16,241 --> 00:14:18,240
+There's a few different ways to place concrete.
+
+213
+00:14:18,241 --> 00:14:21,240
+One is you tailgate it out of the back of the truck.
+
+214
+00:14:21,241 --> 00:14:26,240
+Another way is you pump it into a form or into place
+
+215
+00:14:26,241 --> 00:14:28,240
+with a concrete pump.
+
+216
+00:14:28,241 --> 00:14:30,240
+And then there's what is called a shotcrete pump,
+
+217
+00:14:30,241 --> 00:14:32,240
+which is this application here.
+
+218
+00:14:32,241 --> 00:14:38,337
+here. Shotcrete is where it's actually blown onto the wall with high air pressure.
+
+219
+00:14:38,338 --> 00:14:39,080
+It's a lot
+
+220
+00:14:39,081 --> 00:14:40,555
+faster to install it.
+
+221
+00:14:40,556 --> 00:14:45,400
+Modern construction couldn't do without the magic concoction of sand,
+
+222
+00:14:45,640 --> 00:14:48,088
+aggregate, water, and cement.
+
+223
+00:14:48,089 --> 00:14:52,900
+Although cement mortar dates back to at least the Romans,
+
+224
+00:14:53,760 --> 00:14:58,880
+modern concrete construction wasn't possible before the invention of Portland cement in 1824
+
+225
+00:14:58,881 --> 00:15:01,220
+by Joseph Aspden of England.
+
+226
+00:15:03,460 --> 00:15:07,120
+He burned and ground together a mixture of limestone and clay,
+
+227
+00:15:07,900 --> 00:15:09,540
+creating modern hydraulic cement.
+
+228
+00:15:11,000 --> 00:15:13,980
+It hardens with water and gets stronger with time.
+
+229
+00:15:15,680 --> 00:15:19,380
+By 1900, engineers were using concrete to construct bridges,
+
+230
+00:15:19,840 --> 00:15:20,760
+streets, and buildings.
+
+231
+00:15:23,580 --> 00:15:26,820
+To make concrete stronger, builders started embedding
+
+232
+00:15:26,821 --> 00:15:28,400
+steel reinforcing bar.
+
+233
+00:15:28,880 --> 00:15:30,720
+or rebar into the concrete.
+
+234
+00:15:32,780 --> 00:15:35,060
+Concrete performs well under compression,
+
+235
+00:15:35,061 --> 00:15:36,720
+but not as well under tension.
+
+236
+00:15:40,820 --> 00:15:41,920
+Steel, on the other hand,
+
+237
+00:15:41,921 --> 00:15:43,760
+performs much better under tension.
+
+238
+00:15:48,400 --> 00:15:52,600
+So the two together, the concrete and the reinforcing steel,
+
+239
+00:15:52,601 --> 00:15:57,600
+will then resist both compression loads and tension loads.
+
+240
+00:15:58,880 --> 00:16:05,240
+Builders use reinforced concrete in foundations, walls, floors, and sometimes structural columns.
+
+241
+00:16:07,440 --> 00:16:12,520
+These guys make it look easy, but concrete can be exceptionally tricky once in a while.
+
+242
+00:16:12,760 --> 00:16:13,980
+Concrete is like a woman.
+
+243
+00:16:15,060 --> 00:16:16,520
+You have to be patient with it.
+
+244
+00:16:16,560 --> 00:16:20,400
+It sets up at its own pace, and it's not very agreeable at times.
+
+245
+00:16:24,280 --> 00:16:28,100
+After the foundation work, it's time to bring in the real men of steel.
+
+246
+00:16:28,880 --> 00:16:31,340
+The High Wire Act is about to begin.
+
+247
+00:16:34,600 --> 00:16:37,280
+What can you do with 13,000 tons of steel?
+
+248
+00:16:38,500 --> 00:16:43,900
+You could produce 17,000 SUV bodies or 280 million soup cans.
+
+249
+00:16:44,700 --> 00:16:47,020
+Or our downtown L.A. behemoth.
+
+250
+00:16:49,040 --> 00:16:52,100
+Now that the foundation's set, it's time to erect the skeleton.
+
+251
+00:16:52,101 --> 00:16:59,100
+Large buildings are supported internally by a steel or reinforced concrete framework.
+
+252
+00:16:59,101 --> 00:17:04,100
+And the first steel to go into a building is always a big event.
+
+253
+00:17:04,101 --> 00:17:11,100
+There's a charge in the air as spectators watch the tower crane swing the first steel column into position.
+
+254
+00:17:22,100 --> 00:17:25,100
+Hey, there hole isn't big enough over here.
+
+255
+00:17:25,101 --> 00:17:28,100
+There concrete hole isn't big enough.
+
+256
+00:17:28,101 --> 00:17:29,100
+Oops.
+
+257
+00:17:29,101 --> 00:17:31,100
+Try one.
+
+258
+00:17:31,101 --> 00:17:33,100
+3014.
+
+259
+00:17:33,101 --> 00:17:36,100
+Come down a little, Dean, I'll see if we can get at the wedge in there.
+
+260
+00:17:36,101 --> 00:17:38,100
+This is the very first column and you've got a problem.
+
+261
+00:17:38,101 --> 00:17:41,100
+When you start a job off and have a problem right at the beginning,
+
+262
+00:17:41,101 --> 00:17:43,100
+you wonder what the rest of the building's gonna be like.
+
+263
+00:17:43,101 --> 00:17:46,100
+The template used during concrete pouring
+
+264
+00:17:46,101 --> 00:17:49,100
+was smaller than the actual column.
+
+265
+00:17:49,101 --> 00:17:58,520
+Nothing a jackhammer can't fix.
+
+266
+00:17:59,740 --> 00:18:02,780
+And in a few minutes, the first column drops into place.
+
+267
+00:18:04,380 --> 00:18:08,820
+One down, 7,125 pieces to go.
+
+268
+00:18:10,520 --> 00:18:13,220
+Fortunately, there's just a few holes needing enlargement.
+
+269
+00:18:16,500 --> 00:18:19,080
+In no time, steel's a-flyin'.
+
+270
+00:18:19,100 --> 00:18:24,100
+Well, we basically have four separate gangs.
+
+271
+00:18:24,101 --> 00:18:28,440
+The first one we have is the Raising Gang, and they're responsible for erecting all the
+
+272
+00:18:28,441 --> 00:18:29,440
+structural steel.
+
+273
+00:18:29,441 --> 00:18:33,660
+And we have the Bolt-Up Gang, which is responsible for bolting it all.
+
+274
+00:18:33,661 --> 00:18:38,260
+Then the Plumb-Up Gang comes by, and they're the ones that plumb it.
+
+275
+00:18:38,261 --> 00:18:43,220
+And we have the Welding Gang, which after all the bolting's done, they go ahead and
+
+276
+00:18:43,221 --> 00:18:44,220
+weld it.
+
+277
+00:18:44,221 --> 00:18:48,720
+By most accounts, the two connectors who are part of the Raising Gang have the most
+
+278
+00:18:48,721 --> 00:18:53,720
+difficult and dangerous job on the site.
+
+279
+00:18:53,721 --> 00:18:58,860
+The connectors are the ones responsible for joining all of the steel together.
+
+280
+00:18:58,861 --> 00:19:03,040
+Every stick of iron that you see here is put up by two individuals and a crane.
+
+281
+00:19:03,041 --> 00:19:06,760
+The piece comes in, we're supposed to put two bolts in on each end, one's supposed to
+
+282
+00:19:06,761 --> 00:19:11,640
+be wrenched tight, and then they come afterwards and put all the bolts in.
+
+283
+00:19:11,641 --> 00:19:14,700
+Our job is just to get the iron up as fast as we can.
+
+284
+00:19:14,701 --> 00:19:17,000
+You don't get to make a lot of mistakes in that part of it.
+
+285
+00:19:17,001 --> 00:19:20,420
+So, you know, these guys are always on the edge all day long.
+
+286
+00:19:20,760 --> 00:19:21,640
+You just don't look down.
+
+287
+00:19:22,600 --> 00:19:24,520
+You just do your job and you go home safe.
+
+288
+00:19:24,880 --> 00:19:25,580
+Go home to your family.
+
+289
+00:19:27,980 --> 00:19:30,760
+For more than a century, it's guys like these
+
+290
+00:19:30,761 --> 00:19:34,340
+who've risked life and limb to build metal monuments across the country.
+
+291
+00:19:37,560 --> 00:19:40,740
+The iron workers' trade really begins with the construction of bridges.
+
+292
+00:19:41,760 --> 00:19:45,020
+Bridges are the structures which are most technologically challenging
+
+293
+00:19:45,021 --> 00:19:46,380
+in the late 19th century.
+
+294
+00:19:47,000 --> 00:19:54,000
+The profession attracted independent spirits, daring types, who either conquered their fears
+
+295
+00:19:54,001 --> 00:19:57,000
+or weren't born with any.
+
+296
+00:19:57,001 --> 00:20:04,000
+But one group of people seemed almost predisposed for the high wire work, the Mohawks.
+
+297
+00:20:04,001 --> 00:20:11,000
+Mohawks started building bridges in upper New York State and Canada in the 1860s and
+
+298
+00:20:11,001 --> 00:20:18,000
+60s and 70s. They were really good at it and the jobs were very good.
+
+299
+00:20:18,080 --> 00:20:22,400
+Originally hired as day laborers, the Mohawks and other Native American groups quickly earned
+
+300
+00:20:22,401 --> 00:20:25,400
+a reputation as exceptional iron workers.
+
+301
+00:20:25,401 --> 00:20:32,400
+It became apparent to all concerned that these Indians were very odd and that they did not
+
+302
+00:20:33,760 --> 00:20:35,248
+have any fear of heights.
+
+303
+00:20:35,249 --> 00:20:38,760
+If not watched, they would climb up into the spans and walk
+
+304
+00:20:38,761 --> 00:20:46,020
+around up there as cool and collected as the toughest of our riveters.
+
+305
+00:20:46,021 --> 00:20:50,760
+When engineers redirected the technology of steel bridge construction vertically into
+
+306
+00:20:50,761 --> 00:20:56,640
+skyscraper building, many Native American ironworkers continued in the trade, helping
+
+307
+00:20:56,641 --> 00:21:04,500
+to erect iconic skyscrapers like the Empire State Building and the World Trade Center.
+
+308
+00:21:04,501 --> 00:21:08,640
+Mohawk steelworkers still work on buildings today and they're in at least their
+
+309
+00:21:08,641 --> 00:21:14,160
+fourth generation and this is true of other steel workers too the jobs get passed down from
+
+310
+00:21:14,161 --> 00:21:19,920
+generation to generation but some of the legends about gravity defying native americans and the
+
+311
+00:21:19,921 --> 00:21:23,680
+high steel might have become bigger than the buildings they helped erect
+
+312
+00:21:26,000 --> 00:21:33,840
+i think that there's a myth that suggests that all of the skyscrapers frames were constructed by
+
+313
+00:21:33,841 --> 00:21:34,980
+Mohawk, Indians.
+
+314
+00:21:35,780 --> 00:21:39,740
+It's true that some ironworkers are Native Americans.
+
+315
+00:21:40,140 --> 00:21:45,620
+It's also true that some ironworkers are Irish Americans or Italian Americans.
+
+316
+00:21:46,560 --> 00:21:50,140
+Ironworkers are very diverse, just as America is a very diverse place.
+
+317
+00:21:50,700 --> 00:21:54,760
+And they played an important role in building skyscrapers and bridges in the city,
+
+318
+00:21:55,040 --> 00:21:59,180
+but they were probably no more than 10% of the workforce at any one time.
+
+319
+00:22:00,120 --> 00:22:03,680
+But 10% of the workforce is worthy of Mohawk bragging rights.
+
+320
+00:22:03,840 --> 00:22:07,758
+considering they're less than a fraction of 1% of the combined U.S.
+
+321
+00:22:07,759 --> 00:22:09,220
+and Canadian populations.
+
+322
+00:22:11,560 --> 00:22:14,860
+On the high steel, it doesn't matter what the iron worker's ethnicity.
+
+323
+00:22:16,140 --> 00:22:19,700
+What counts most is teamwork and good communication.
+
+324
+00:22:20,860 --> 00:22:23,640
+You've got to have a partner, and you've got to be able to work together,
+
+325
+00:22:23,720 --> 00:22:27,120
+because if he does something dumb, it's going to get both of you hurt and one of you hurt,
+
+326
+00:22:27,180 --> 00:22:30,680
+so you've got to be right on the same page the whole time and know what each other's doing.
+
+327
+00:22:30,681 --> 00:22:32,680
+I work with them great.
+
+328
+00:22:32,681 --> 00:22:34,680
+They get along perfect, me and my partner.
+
+329
+00:22:38,680 --> 00:22:40,680
+Working in a high-risk situation,
+
+330
+00:22:40,681 --> 00:22:43,680
+a raising gang has to develop a strong sense of trust.
+
+331
+00:22:44,680 --> 00:22:48,680
+It's this sense of camaraderie that holds this building together.
+
+332
+00:22:49,680 --> 00:22:51,680
+That and about 89,000 bolts.
+
+333
+00:22:52,680 --> 00:22:56,680
+We usually got a couple guys stuffing bolts behind the raising gang,
+
+334
+00:22:56,681 --> 00:23:00,480
+gang, and another two guys tinying up the bolts behind
+
+335
+00:23:00,481 --> 00:23:02,120
+the plumb up gang.
+
+336
+00:23:02,121 --> 00:23:05,920
+Before the mid-1950s, builders used rivets to hold
+
+337
+00:23:05,921 --> 00:23:09,060
+connections together.
+
+338
+00:23:09,061 --> 00:23:12,360
+A riveting gang consisted of a heater who made the rivets
+
+339
+00:23:12,361 --> 00:23:15,540
+red hot.
+
+340
+00:23:15,541 --> 00:23:19,760
+With tongs, the heater tossed each rivet to the catcher, who
+
+341
+00:23:19,761 --> 00:23:21,680
+used a tin can to make the grab.
+
+342
+00:23:21,681 --> 00:23:29,360
+The catcher struck the rivet against a beam to shake off the glowing flakes and rammed
+
+343
+00:23:29,361 --> 00:23:32,360
+it into the hole.
+
+344
+00:23:32,361 --> 00:23:42,000
+The buckered up held one end while the gunman pounded the rivet with a pneumatic hammer.
+
+345
+00:23:42,001 --> 00:23:47,860
+While an experienced riveting gang could drive 500 rivets a day, in the mid-1950s builders
+
+346
+00:23:47,861 --> 00:23:51,960
+started using bolts, which were just as strong as rivets, but
+
+347
+00:23:51,961 --> 00:23:54,720
+faster to install.
+
+348
+00:23:54,721 --> 00:23:56,460
+They also required fewer laborers.
+
+349
+00:24:02,660 --> 00:24:05,860
+Iron workers on this job bolt and weld the joints to create a
+
+350
+00:24:05,861 --> 00:24:06,660
+rigid skeleton.
+
+351
+00:24:10,160 --> 00:24:13,060
+And it was the invention of the internal steel skeleton like
+
+352
+00:24:13,061 --> 00:24:16,920
+this that sent skyscrapers soaring more than 150 years
+
+353
+00:24:16,921 --> 00:24:17,621
+ago.
+
+354
+00:24:17,622 --> 00:24:25,120
+Before the 1840s, the weight of the floors in most multi-story buildings was supported
+
+355
+00:24:25,121 --> 00:24:28,546
+by the exterior load-bearing walls.
+
+356
+00:24:28,547 --> 00:24:34,320
+But engineers were restricted on how high they could build,
+
+357
+00:24:34,680 --> 00:24:38,540
+because the walls at the base had to be very thick to support a tall structure.
+
+358
+00:24:38,541 --> 00:24:48,040
+In 1848, James Bogardus introduced a way of supporting a building not by its exterior
+
+359
+00:24:48,041 --> 00:24:49,820
+walls, but from within.
+
+360
+00:24:52,400 --> 00:24:55,880
+So instead of having a masonry pier in the middle of your building, you'd have a cast
+
+361
+00:24:55,881 --> 00:24:56,581
+iron column.
+
+362
+00:24:56,900 --> 00:25:00,980
+Instead of having a masonry exterior wall, you'd build a cast iron wall.
+
+363
+00:25:01,740 --> 00:25:06,940
+In the late 1800s, engineers started using steel, which was stronger than cast or wrought
+
+364
+00:25:06,941 --> 00:25:07,641
+iron.
+
+365
+00:25:08,540 --> 00:25:13,540
+This new cage or skeletal construction offered many benefits.
+
+366
+00:25:13,541 --> 00:25:16,540
+The load of the building was distributed equally over the
+
+367
+00:25:16,541 --> 00:25:21,540
+internal frame, instead of entirely by the exterior walls.
+
+368
+00:25:21,541 --> 00:25:27,540
+This allowed for taller structures with larger windows,
+
+369
+00:25:27,541 --> 00:25:32,540
+thinner walls, and therefore, more rental space.
+
+370
+00:25:32,541 --> 00:25:36,540
+Then all the pieces were in place for the birth of a uniquely
+
+371
+00:25:36,541 --> 00:25:39,040
+uniquely American style of architecture.
+
+372
+00:25:39,041 --> 00:25:45,420
+The first building to employ steel cage construction was the home insurance building in Chicago
+
+373
+00:25:45,421 --> 00:25:50,040
+designed by engineer architect William LeBaron Jenny.
+
+374
+00:25:50,041 --> 00:25:56,820
+Built in 1885, many scholars consider the home insurance building to be the world's
+
+375
+00:25:56,821 --> 00:26:00,780
+first skyscraper.
+
+376
+00:26:00,781 --> 00:26:06,920
+Although Ginny's building was only 10 stories tall, it had all the essential ingredients.
+
+377
+00:26:06,921 --> 00:26:13,540
+It had a fireproof metal frame. It also had elevators, which were essential
+
+378
+00:26:13,541 --> 00:26:20,200
+to the development of tall buildings. With the key elements in place, the skyscraper
+
+379
+00:26:20,201 --> 00:26:26,120
+was set to take off. Fueled by an economic explosion and inflated
+
+380
+00:26:26,121 --> 00:26:30,020
+egos, the world would soon see how high buildings could climb.
+
+381
+00:26:31,980 --> 00:26:34,660
+The Caltrans building is also starting to climb.
+
+382
+00:26:35,680 --> 00:26:38,240
+The iron workers are making fine progress.
+
+383
+00:26:40,420 --> 00:26:43,340
+Then, three months into steel erection,
+
+384
+00:26:43,900 --> 00:26:48,480
+one event rocks the job site, underscoring the hazards of the profession.
+
+385
+00:26:50,720 --> 00:26:53,680
+A very unfortunate accident where a young steel worker fell
+
+386
+00:26:53,681 --> 00:26:54,880
+and was killed.
+
+387
+00:26:55,280 --> 00:27:01,760
+And it's really upsetting to me and the staff
+
+388
+00:27:01,761 --> 00:27:03,340
+and to the other people who worked on a project
+
+389
+00:27:03,341 --> 00:27:06,380
+that a young man had a very tragic accident
+
+390
+00:27:06,381 --> 00:27:07,880
+and lost his life.
+
+391
+00:27:08,540 --> 00:27:11,220
+Despite all the safety mechanisms being in place,
+
+392
+00:27:11,440 --> 00:27:14,300
+such as safety cables and nets around large openings,
+
+393
+00:27:16,240 --> 00:27:19,680
+Michael Jesus Del Rico fell four floors to his death.
+
+394
+00:27:21,340 --> 00:27:23,280
+He leaves behind two daughters,
+
+395
+00:27:23,680 --> 00:27:30,720
+We're going to go ahead and get started with safety as usual.
+
+396
+00:27:31,420 --> 00:27:33,220
+Zach's going to be working with Corey on safety.
+
+397
+00:27:33,620 --> 00:27:36,820
+Even in the era of OSHA regulations and safety inspectors,
+
+398
+00:27:37,660 --> 00:27:41,520
+construction has the highest number of fatalities of any industry classification,
+
+399
+00:27:42,300 --> 00:27:46,140
+accounting for around 20% of total work-related deaths.
+
+400
+00:27:46,141 --> 00:27:54,380
+Sadly, this monument has also now become a memorial.
+
+401
+00:27:59,140 --> 00:28:05,260
+It's 6 o'clock in the morning when Rick Fuller climbs the 289 steps to his office in the sky.
+
+402
+00:28:08,840 --> 00:28:14,580
+Rick operates a giant tower crane, the biggest tool on the job, and one of the most important.
+
+403
+00:28:14,581 --> 00:28:17,580
+There's lots of people on the ground under us.
+
+404
+00:28:17,581 --> 00:28:21,580
+We're pretty much responsible for looking out for anybody
+
+405
+00:28:21,581 --> 00:28:24,580
+that's under the load and keeping the load from hitting
+
+406
+00:28:24,581 --> 00:28:26,580
+anything while it's in the air.
+
+407
+00:28:30,580 --> 00:28:34,580
+Rick controls the crane with two joysticks.
+
+408
+00:28:34,581 --> 00:28:37,580
+The lifting is done with an electric motor, which spools
+
+409
+00:28:37,581 --> 00:28:41,580
+the one-inch steel cable in or out like a fishing reel.
+
+410
+00:28:44,580 --> 00:28:46,580
+Well, the crane operator, he's got to trust us,
+
+411
+00:28:46,581 --> 00:28:49,580
+and we got to trust him, because he messes up.
+
+412
+00:28:49,581 --> 00:28:52,580
+We're dead, pretty much, or someone's going to get hurt.
+
+413
+00:28:52,581 --> 00:28:56,580
+From where I'm sitting, people look like ants on the ground.
+
+414
+00:28:56,581 --> 00:29:00,580
+Luckily, he's getting some help from the phone man down below.
+
+415
+00:29:00,581 --> 00:29:01,580
+Hi.
+
+416
+00:29:01,581 --> 00:29:03,580
+I'm a choker.
+
+417
+00:29:03,581 --> 00:29:05,580
+Hey, got to go to Aaron a little bit.
+
+418
+00:29:08,580 --> 00:29:09,580
+Down.
+
+419
+00:29:09,581 --> 00:29:11,580
+Boom out.
+
+420
+00:29:11,581 --> 00:29:22,440
+The crane doesn't operate in high winds.
+
+421
+00:29:23,500 --> 00:29:26,800
+Still, it bends and flexes, even with normal loads.
+
+422
+00:29:28,220 --> 00:29:30,620
+It can move as much as one foot side to side.
+
+423
+00:29:33,020 --> 00:29:36,120
+A little disconcerting when you're 300 feet in the air.
+
+424
+00:29:38,060 --> 00:29:40,040
+You know, he tries to try not to think about it.
+
+425
+00:29:40,041 --> 00:29:41,840
+All these gray hairs.
+
+426
+00:29:41,920 --> 00:29:43,400
+I wasn't gray before this job started.
+
+427
+00:29:49,200 --> 00:29:52,360
+Rick's job is to put together the internal steel skeleton
+
+428
+00:29:52,361 --> 00:29:54,220
+designed by the structural engineer.
+
+429
+00:29:54,600 --> 00:29:56,100
+The building is on top of it.
+
+430
+00:29:56,240 --> 00:29:58,080
+While the architect gets most of the glory,
+
+431
+00:29:58,560 --> 00:30:01,680
+it's the structural engineer who's behind-the-scenes work
+
+432
+00:30:01,681 --> 00:30:05,360
+ensures a building can stand up, won't blow over in a typhoon,
+
+433
+00:30:05,820 --> 00:30:07,440
+or fall down during an earthquake.
+
+434
+00:30:10,040 --> 00:30:13,540
+The forces that act on a building, of course, is the vertical load,
+
+435
+00:30:14,300 --> 00:30:16,640
+which is from the load of the building,
+
+436
+00:30:17,060 --> 00:30:21,040
+as well as the occupants in the building and the contents of the building.
+
+437
+00:30:21,900 --> 00:30:25,260
+We call those gravity loads because they're acting downward, vertically.
+
+438
+00:30:26,060 --> 00:30:27,800
+Then we have the horizontal loads,
+
+439
+00:30:28,100 --> 00:30:31,680
+which can be either wind loads or earthquake loads.
+
+440
+00:30:31,681 --> 00:30:33,840
+The bigger the surface area of the building,
+
+441
+00:30:34,660 --> 00:30:37,120
+the more wind load that building is going to be taking.
+
+442
+00:30:37,121 --> 00:30:42,120
+If a building is too flexible, wind can cause large swaying motions.
+
+443
+00:30:42,121 --> 00:30:48,120
+If a building is also light, the swaying can be relatively fast.
+
+444
+00:30:48,121 --> 00:30:52,120
+The combination can make occupants seasick.
+
+445
+00:30:52,121 --> 00:30:59,120
+Buildings with larger members, more rigid connections, or more braces, are stiffer and don't sway as much.
+
+446
+00:30:59,121 --> 00:31:07,120
+Also, buildings that are heavier sway more slowly, creating an easier ride for occupants.
+
+447
+00:31:07,121 --> 00:31:15,340
+Stiff sounds great if you're worried about wind and tenant comfort in windy conditions.
+
+448
+00:31:15,341 --> 00:31:19,240
+Stiff is not such a good thing when you're dealing with earthquake.
+
+449
+00:31:19,241 --> 00:31:24,540
+In an earthquake, when the ground moves, the building is left behind and then it catches
+
+450
+00:31:24,541 --> 00:31:25,540
+up.
+
+451
+00:31:25,541 --> 00:31:29,960
+The stiffer the building is, the more force it attracts.
+
+452
+00:31:29,961 --> 00:31:33,740
+The structural engineer must therefore choose the best framing style for the building's
+
+453
+00:31:33,741 --> 00:31:38,040
+specific location.
+
+454
+00:31:38,041 --> 00:31:42,340
+There are a few tell-tale signs the Caltrans building is going up in the heart of earthquake
+
+455
+00:31:42,341 --> 00:31:45,460
+country.
+
+456
+00:31:45,461 --> 00:31:49,740
+Designers actually engineer structural weak points, called dog bones.
+
+457
+00:31:49,741 --> 00:31:57,820
+Now those notches are there so that the engineer knows where the beam will buckle in an earthquake.
+
+458
+00:31:57,821 --> 00:32:01,380
+So with the dog bone in there, the columns should not be damaged.
+
+459
+00:32:01,381 --> 00:32:04,740
+So the building will be able to stand safely after an earthquake.
+
+460
+00:32:04,741 --> 00:32:07,620
+But the beams may be damaged and may have to be repaired.
+
+461
+00:32:07,621 --> 00:32:13,880
+But again, the building will be safe for the occupants to exit.
+
+462
+00:32:13,881 --> 00:32:17,620
+Beyond the seismic features, the framing of the Caltrans building is essentially the
+
+463
+00:32:17,621 --> 00:32:20,620
+same as the first steel cage buildings.
+
+464
+00:32:20,621 --> 00:32:29,280
+The Empire State Building was the high point, metaphorically and physically, of this kind
+
+465
+00:32:29,281 --> 00:32:30,513
+construction.
+
+466
+00:32:30,514 --> 00:32:37,720
+Built in 1931 and the tallest skyscraper in the world until 1972, the Empire
+
+467
+00:32:37,721 --> 00:32:41,390
+State Building was also a very heavy building.
+
+468
+00:32:41,391 --> 00:32:45,060
+Iron workers erected 60,000 tons of structural
+
+469
+00:32:45,061 --> 00:32:52,599
+steel. The limestone and granite cladding also added weight.
+
+470
+00:32:52,600 --> 00:32:55,740
+The combination of weight
+
+471
+00:32:55,741 --> 00:33:01,743
+and rigid connections made the building very stable, even in high winds.
+
+472
+00:33:01,744 --> 00:33:03,160
+But in many ways,
+
+473
+00:33:03,161 --> 00:33:08,844
+the iconic skyscraper signaled the end of an era.
+
+474
+00:33:08,845 --> 00:33:13,020
+The high-rises built after World War
+
+475
+00:33:13,021 --> 00:33:18,500
+II came to embrace the international style, which celebrated the austere beauty of metal
+
+476
+00:33:18,501 --> 00:33:26,960
+and glass. Construction materials, including steel, became lighter and stronger.
+
+477
+00:33:26,961 --> 00:33:28,440
+But structures
+
+478
+00:33:28,441 --> 00:33:34,756
+built with lighter materials risked becoming too light and flexible.
+
+479
+00:33:34,757 --> 00:33:36,800
+To stiffen structures,
+
+480
+00:33:36,801 --> 00:33:41,500
+engineers started adding diagonal bracing around the internal vertical cores of buildings.
+
+481
+00:33:41,501 --> 00:33:47,480
+If you were to take some popsicle sticks and just glue them together, if you put a
+
+482
+00:33:47,481 --> 00:33:50,650
+lot of glue on those joints, obviously it's more rigid.
+
+483
+00:33:50,651 --> 00:33:52,840
+And if you've then added some diagonal
+
+484
+00:33:52,841 --> 00:33:58,833
+members to it, you can almost see the picture that it's even more rigid.
+
+485
+00:33:58,834 --> 00:34:01,080
+So that's the way to resist
+
+486
+00:34:01,081 --> 00:34:02,609
+the horizontal loads.
+
+487
+00:34:02,610 --> 00:34:07,560
+A more radical approach introduced in the late 1960s was to move the
+
+488
+00:34:07,561 --> 00:34:10,940
+bracing to the exterior of the building.
+
+489
+00:34:10,941 --> 00:34:15,080
+The perimeter brace tube system most famously was
+
+490
+00:34:15,081 --> 00:34:18,840
+used on the John Hancock Center in Chicago, Illinois.
+
+491
+00:34:18,841 --> 00:34:21,400
+Everyone in Chicago can see these giant X's
+
+492
+00:34:21,401 --> 00:34:24,640
+marching up the side of the building.
+
+493
+00:34:24,641 --> 00:34:27,320
+Designed by the innovative engineer Fosler Kahn
+
+494
+00:34:27,321 --> 00:34:30,860
+of Skidmore, Owings, and Merrill, the John Hancock Center
+
+495
+00:34:30,861 --> 00:34:33,460
+is a departure of sorts from traditional skyscrapers.
+
+496
+00:34:36,520 --> 00:34:39,000
+Called tube construction, this design
+
+497
+00:34:39,001 --> 00:34:42,800
+uses exterior diagonal braces connected to columns
+
+498
+00:34:42,801 --> 00:34:44,940
+to resist some of the gravity load
+
+499
+00:34:44,941 --> 00:34:51,940
+and absorb all of the wind load.
+
+500
+00:34:51,941 --> 00:34:57,940
+Completed in 1969, the revolutionary design opened up valuable workspace because it required
+
+501
+00:34:57,941 --> 00:35:02,720
+fewer support columns.
+
+502
+00:35:02,721 --> 00:35:09,380
+The most famous tube design buildings were the twin towers of the World Trade Center.
+
+503
+00:35:09,381 --> 00:35:12,380
+Closely spaced columns created an exoskeleton.
+
+504
+00:35:17,760 --> 00:35:21,540
+Another building that uses the tube design is the Sears Tower in Chicago,
+
+505
+00:35:21,800 --> 00:35:24,540
+which works like nine tubes bundled together.
+
+506
+00:35:26,640 --> 00:35:31,760
+Engineers working with architects are always balancing how tall, how wide, how many columns,
+
+507
+00:35:31,761 --> 00:35:35,520
+how big a window, how fat a column, how deep a beam.
+
+508
+00:35:36,080 --> 00:35:38,600
+All have to be balanced. There's no one magic answer.
+
+509
+00:35:39,380 --> 00:35:43,380
+But what if Mother Nature throws you a bunch of curveballs?
+
+510
+00:35:43,381 --> 00:35:50,380
+How would you construct the world's tallest building in both a seismic region and one regularly hit by typhoons?
+
+511
+00:35:54,380 --> 00:35:58,380
+Builders of the new Taipei 101 face such challenges.
+
+512
+00:36:01,380 --> 00:36:07,380
+It's been five months since the beginning of steel erection on the Caltrans building.
+
+513
+00:36:07,381 --> 00:36:11,380
+Because Los Angeles is in an active seismic zone, the steel
+
+514
+00:36:11,381 --> 00:36:14,380
+members are more beefy than those used in similar sized
+
+515
+00:36:14,381 --> 00:36:20,380
+buildings in most cities. However, some regions of the world
+
+516
+00:36:20,381 --> 00:36:26,380
+have even more of nature's fury to contend with. In 1999,
+
+517
+00:36:26,381 --> 00:36:31,380
+construction began on Taipei 101 in Taiwan. It would become the
+
+518
+00:36:31,381 --> 00:36:35,380
+world's tallest building. But their structural engineers faced
+
+519
+00:36:35,381 --> 00:36:39,380
+faced huge obstacles.
+
+520
+00:36:39,381 --> 00:36:44,380
+Extreme earthquake happens about every 50 years in Taipei
+
+521
+00:36:44,381 --> 00:36:46,380
+and in Taiwan area.
+
+522
+00:36:46,381 --> 00:36:54,380
+So the earthquake design is the most important part of all the
+
+523
+00:36:54,381 --> 00:36:56,380
+structures in Taiwan.
+
+524
+00:36:56,381 --> 00:37:02,380
+Taipei is also regularly pounded by very strong typhoon winds.
+
+525
+00:37:02,381 --> 00:37:09,380
+A structural engineer would like to handle these two forces in different ways.
+
+526
+00:37:09,381 --> 00:37:13,380
+A light and flexible building is better at withstanding earthquakes,
+
+527
+00:37:13,381 --> 00:37:18,380
+while a heavy and rigid structure resists excessive wind loads better.
+
+528
+00:37:18,381 --> 00:37:22,380
+In Taipei you have this situation, what do I do?
+
+529
+00:37:22,381 --> 00:37:24,380
+Seismic had to be addressed first.
+
+530
+00:37:24,381 --> 00:37:28,380
+So they went with a building construction system that is light.
+
+531
+00:37:28,381 --> 00:37:31,040
+They use a steel frame system.
+
+532
+00:37:31,720 --> 00:37:35,940
+Then they had to make it stiffer so that it didn't sway so much.
+
+533
+00:37:36,180 --> 00:37:38,680
+They did that by having a braced core,
+
+534
+00:37:39,380 --> 00:37:43,520
+but the building's so tall, the core alone is not enough stiffness.
+
+535
+00:37:44,240 --> 00:37:45,280
+So they have outriggers.
+
+536
+00:37:45,420 --> 00:37:48,420
+They have horizontal trusses that reach out every eight floors
+
+537
+00:37:48,421 --> 00:37:50,340
+and grab outside columns.
+
+538
+00:37:52,020 --> 00:37:55,680
+These eight super columns are large, hollow steel boxes.
+
+539
+00:37:55,681 --> 00:38:00,960
+The biggest size is 8 feet by 10 feet.
+
+540
+00:38:01,880 --> 00:38:07,980
+And then we fill in the column with very high-strength concrete.
+
+541
+00:38:08,820 --> 00:38:14,220
+And inside the concrete, we also provided a lot of large-sized rebars.
+
+542
+00:38:14,800 --> 00:38:23,520
+The steel is good for tension, but the concrete is very good to provide the compressive strength.
+
+543
+00:38:23,521 --> 00:38:31,020
+In 2003, the Taipei 101 Tower captured the title of world's tallest building and a great
+
+544
+00:38:31,021 --> 00:38:32,280
+deal of media attention.
+
+545
+00:38:35,320 --> 00:38:41,620
+At about the same time, the Caltrans building was in the spotlight as well, but for very
+
+546
+00:38:41,621 --> 00:38:42,560
+different reasons.
+
+547
+00:38:43,320 --> 00:38:48,720
+Our tower crane was essentially hijacked, which made several national news venues.
+
+548
+00:38:48,721 --> 00:38:51,120
+There was a distraught gentleman.
+
+549
+00:38:51,220 --> 00:38:53,720
+He was a former crane operator, and evidently
+
+550
+00:38:53,820 --> 00:38:55,520
+he had been drinking.
+
+551
+00:38:55,620 --> 00:38:57,520
+He hopped over our construction fence,
+
+552
+00:38:57,620 --> 00:39:00,100
+climbed up 220 feet of ladder, and began
+
+553
+00:39:00,200 --> 00:39:03,440
+to wildly operate the crane.
+
+554
+00:39:03,540 --> 00:39:05,040
+I turned on the news at 10 o'clock,
+
+555
+00:39:05,140 --> 00:39:07,200
+showed the guy actually walking out on the jib
+
+556
+00:39:07,300 --> 00:39:10,200
+with a bottle of something in his hand,
+
+557
+00:39:10,300 --> 00:39:13,740
+you know, waving at people and drinking.
+
+558
+00:39:13,840 --> 00:39:17,020
+Police feared the man might jump or have a weapon.
+
+559
+00:39:17,021 --> 00:39:18,860
+The SWAT team was called in.
+
+560
+00:39:22,360 --> 00:39:24,540
+After seven hours of negotiations,
+
+561
+00:39:25,220 --> 00:39:27,040
+the man came down and was arrested.
+
+562
+00:39:28,100 --> 00:39:28,800
+I'll shove it up.
+
+563
+00:39:31,280 --> 00:39:33,200
+Fortunately, no one was hurt.
+
+564
+00:39:33,980 --> 00:39:35,120
+And despite the interruption,
+
+565
+00:39:35,540 --> 00:39:37,600
+steel erection continued right on schedule.
+
+566
+00:39:38,780 --> 00:39:41,060
+The internal skeleton neared completion.
+
+567
+00:39:42,620 --> 00:39:45,240
+When the last stick of iron goes into a building,
+
+568
+00:39:45,241 --> 00:39:53,460
+Whether it's the Empire State Building, the Pan Am Building, or our Caltrans Building,
+
+569
+00:39:53,940 --> 00:39:55,980
+it's always a reason to party.
+
+570
+00:39:58,740 --> 00:40:03,860
+On June 13, 2003, ten months after excavation began,
+
+571
+00:40:04,520 --> 00:40:07,620
+the Caltrans Project celebrates the topping out ceremony.
+
+572
+00:40:08,660 --> 00:40:13,020
+We are so overwhelmed that we can't even express how important is this,
+
+573
+00:40:13,021 --> 00:40:17,860
+but that is a big, big day for any construction site.
+
+574
+00:40:17,940 --> 00:40:19,460
+This is why we usually have these parties.
+
+575
+00:40:20,880 --> 00:40:24,960
+It's a big party with a barbecue and a much-deserved day off.
+
+576
+00:40:27,260 --> 00:40:31,660
+The main event is the ceremonial hoisting of the final beam into position.
+
+577
+00:40:34,460 --> 00:40:37,680
+Before it goes up, everyone signs the top-out beam.
+
+578
+00:40:43,020 --> 00:40:46,120
+Historically, some sites have placed a tree on the top out
+
+579
+00:40:46,121 --> 00:40:50,020
+beam, a custom dating back to at least 700 AD.
+
+580
+00:40:55,020 --> 00:40:58,020
+No tree here, but plenty of Sharpies.
+
+581
+00:41:00,020 --> 00:41:02,020
+The beam sports hundreds of John Hancocks,
+
+582
+00:41:02,021 --> 00:41:05,220
+representing the diversity of the people needed to get a
+
+583
+00:41:05,221 --> 00:41:07,020
+building of this size off the ground.
+
+584
+00:41:08,020 --> 00:41:10,020
+Politicians to pipe fitters.
+
+585
+00:41:10,021 --> 00:41:12,020
+Figureheads to foremen.
+
+586
+00:41:13,020 --> 00:41:14,460
+and everyone in between.
+
+587
+00:41:17,460 --> 00:41:18,860
+Now the real work has started.
+
+588
+00:41:20,660 --> 00:41:23,740
+District Director for District 7, thank you, Doug.
+
+589
+00:41:26,700 --> 00:41:27,800
+Gotta get this hooked up,
+
+590
+00:41:27,801 --> 00:41:30,140
+because right after this speech, they want this to go.
+
+591
+00:41:33,300 --> 00:41:35,100
+And with that, the tower crane
+
+592
+00:41:35,101 --> 00:41:37,140
+hoists the final beam into place.
+
+593
+00:41:39,540 --> 00:41:41,080
+It's been a big project.
+
+594
+00:41:41,081 --> 00:41:46,920
+This is one job I'll look back on for the rest of my life and be proud that I was a part of it.
+
+595
+00:41:46,921 --> 00:41:52,500
+Coming back a year down the road or two years down the road and looking at something that you had, you know,
+
+596
+00:41:52,560 --> 00:41:56,360
+at a hand in, you know, in building, you know, there's a great sense of accomplishment there.
+
+597
+00:41:58,160 --> 00:42:03,080
+Although there's plenty more to do before this building is ready for elevators, air conditioning, and plumbing,
+
+598
+00:42:03,600 --> 00:42:05,660
+we've gotten the skeleton up.
+
+599
+00:42:06,700 --> 00:42:09,640
+The iron workers can leave knowing they've done a great job.
+
+600
+00:42:11,080 --> 00:42:12,020
+I love my job.
+
+601
+00:42:12,180 --> 00:42:13,280
+I wouldn't want to do anything else.
+
+602
+00:42:13,960 --> 00:42:15,740
+Unless I didn't have to work for no money.
+
+603
+00:42:16,580 --> 00:42:17,680
+I'm proud to be an iron worker.
+
+604
+00:42:19,500 --> 00:42:22,060
+Brandon and Aaron have built a dozen buildings,
+
+605
+00:42:22,500 --> 00:42:25,580
+but this will be the last one they do together as partners.
+
+606
+00:42:26,580 --> 00:42:27,900
+We worked together for how long?
+
+607
+00:42:28,180 --> 00:42:28,880
+Two and a half years?
+
+608
+00:42:29,220 --> 00:42:30,300
+Two and a half years together.
+
+609
+00:42:31,460 --> 00:42:32,180
+Every day.
+
+610
+00:42:33,000 --> 00:42:34,140
+Like a married couple.
+
+611
+00:42:36,080 --> 00:42:37,620
+I see him more than my wife.
+
+612
+00:42:39,020 --> 00:42:40,940
+Now they're going to separate jobs.
+
+613
+00:42:41,080 --> 00:42:46,480
+But how are these two friends who trusted their lives to one another going to handle the split?
+
+614
+00:42:47,580 --> 00:42:49,420
+Will there be a sentimental goodbye?
+
+615
+00:42:50,560 --> 00:42:51,500
+Thank God we're done.
+
+616
+00:42:53,160 --> 00:42:54,020
+Guess not.
+

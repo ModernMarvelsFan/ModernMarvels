@@ -1,0 +1,2376 @@
+1
+00:00:00,001 --> 00:00:09,780
+From the mammoth to the mini and by the billions, they're the driving force behind much of our modern existence.
+
+2
+00:00:10,780 --> 00:00:18,680
+Just bundle the right metals and caustic chemicals and you've harnessed the power to go zero to 60 in four seconds.
+
+3
+00:00:18,681 --> 00:00:23,520
+This car is powered by 6,831 lithium-ion batteries.
+
+4
+00:00:23,521 --> 00:00:30,380
+Or explore distant worlds and maybe someday send a probe on a fantastic voyage into your bloodstream.
+
+5
+00:00:30,900 --> 00:00:34,780
+It's time to get a charge out of batteries on Modern Marbles.
+
+6
+00:00:51,460 --> 00:00:56,620
+When you need a portable, convenient power source, count on this unassuming yet indispensable
+
+7
+00:00:56,621 --> 00:01:03,620
+wonder to make your tech, tools, and toys surge with energy.
+
+8
+00:01:05,300 --> 00:01:10,120
+Americans alone purchase nearly three billion dry cell batteries every year.
+
+9
+00:01:10,121 --> 00:01:13,500
+And that doesn't take into account all the special batteries built into devices
+
+10
+00:01:13,501 --> 00:01:17,420
+including computers and cell phones.
+
+11
+00:01:17,421 --> 00:01:20,260
+Sure, some batteries lead a rather quiet existence,
+
+12
+00:01:20,261 --> 00:01:22,940
+like those inside watches and clocks,
+
+13
+00:01:22,941 --> 00:01:24,980
+providing tick after tick year after year.
+
+14
+00:01:27,100 --> 00:01:29,540
+But others live fast and die young,
+
+15
+00:01:30,120 --> 00:01:32,440
+like those powering smart bomb guidance systems.
+
+16
+00:01:35,300 --> 00:01:37,180
+We all depend on batteries.
+
+17
+00:01:38,500 --> 00:01:41,880
+But in some cases, people's lives depend on them.
+
+18
+00:01:43,000 --> 00:01:44,680
+Dick Cheney's heart keeps on pumping,
+
+19
+00:01:44,681 --> 00:01:46,840
+thanks to the battery inside his pacemaker.
+
+20
+00:01:48,000 --> 00:01:49,360
+When you come down to it,
+
+21
+00:01:49,660 --> 00:01:51,880
+just about everything requiring electrical power
+
+22
+00:01:51,881 --> 00:01:55,820
+that isn't plugged in or attached to a power source contains a battery.
+
+23
+00:01:57,380 --> 00:02:00,800
+From the remote control you've no doubt got clutched in your hand
+
+24
+00:02:00,801 --> 00:02:05,540
+to the high-definition cameras recording the action for this episode of Modern Marvels.
+
+25
+00:02:06,600 --> 00:02:08,500
+Batteries don't contain electricity,
+
+26
+00:02:08,880 --> 00:02:12,060
+but rather the potential for electricity in the form of chemicals.
+
+27
+00:02:12,960 --> 00:02:15,800
+A textbook definition is a battery is a device
+
+28
+00:02:15,801 --> 00:02:19,140
+that converts chemical energy directly into electrical energy
+
+29
+00:02:19,141 --> 00:02:21,540
+by means of an oxidation-reduction reaction.
+
+30
+00:02:21,880 --> 00:02:26,880
+Batteries now come in a vast array of sizes and chemical compositions,
+
+31
+00:02:26,881 --> 00:02:31,880
+but all have some configuration of these basic parts.
+
+32
+00:02:31,881 --> 00:02:35,880
+They have two electrodes, each made with a different metal.
+
+33
+00:02:35,881 --> 00:02:38,880
+The positively charged electrode is called the cathode,
+
+34
+00:02:38,881 --> 00:02:42,880
+and the negatively charged electrode is the anode.
+
+35
+00:02:42,881 --> 00:02:46,880
+A liquid paste or gel electrolyte must contain an acid or alkaline
+
+36
+00:02:46,881 --> 00:02:50,880
+that's caustic enough to cause a chemical reaction in the metals.
+
+37
+00:02:50,881 --> 00:02:55,880
+This reaction creates an exchange of electrons between the anode and the cathode.
+
+38
+00:02:55,881 --> 00:02:59,880
+But only when one or more batteries are placed in a device like a flashlight,
+
+39
+00:02:59,881 --> 00:03:04,880
+and the circuit is closed by turning it on, does the electricity begin to flow.
+
+40
+00:03:06,880 --> 00:03:12,880
+The anode that's in the middle of cylindrical batteries is oxidized, causing a release of electrons.
+
+41
+00:03:13,880 --> 00:03:17,880
+They're drawn through the circuit by the cathode that's undergoing a reduction reaction.
+
+42
+00:03:17,881 --> 00:03:24,260
+reaction. As the electrons travel through the circuit, they provide the electricity
+
+43
+00:03:24,261 --> 00:03:25,833
+to power the device.
+
+44
+00:03:25,834 --> 00:03:31,180
+Scientifically speaking, a single unit capable of supplying power is
+
+45
+00:03:31,181 --> 00:03:33,060
+referred to as a cell.
+
+46
+00:03:33,061 --> 00:03:36,168
+A standard AA is actually a single cell.
+
+47
+00:03:36,169 --> 00:03:39,820
+It's only when you put cells together that they
+
+48
+00:03:39,821 --> 00:03:42,120
+form what is called a battery.
+
+49
+00:03:42,121 --> 00:03:43,208
+So AA's are cells.
+
+50
+00:03:43,209 --> 00:03:47,560
+But here's why it's correct to call one of those little rectangular ones
+
+51
+00:03:47,561 --> 00:03:48,560
+a 9-volt battery.
+
+52
+00:03:48,960 --> 00:03:50,940
+A 9-volt battery is rectangular in shape
+
+53
+00:03:50,941 --> 00:03:54,040
+because it actually contains six individual unit cells.
+
+54
+00:03:54,540 --> 00:03:57,300
+Each of these unit cells is 1.5 volts,
+
+55
+00:03:58,140 --> 00:04:00,600
+thus providing 9 volts to the battery.
+
+56
+00:04:02,340 --> 00:04:05,160
+The more cells we connect, the greater the voltage.
+
+57
+00:04:05,800 --> 00:04:08,420
+And there's no limit to how many cells can be linked together.
+
+58
+00:04:10,340 --> 00:04:11,760
+In Fairbanks, Alaska,
+
+59
+00:04:12,480 --> 00:04:14,740
+engineers have pushed this principle to the extreme,
+
+60
+00:04:14,741 --> 00:04:18,980
+creating the world's most powerful battery.
+
+61
+00:04:20,260 --> 00:04:22,300
+The signs outside give you fair warning.
+
+62
+00:04:23,940 --> 00:04:27,100
+Inside, if you touch this brawny battery system in the wrong place,
+
+63
+00:04:28,020 --> 00:04:30,140
+it could mean a 5,000-volt jolt.
+
+64
+00:04:31,740 --> 00:04:35,000
+That's two and a half times greater than the average electric chair.
+
+65
+00:04:35,260 --> 00:04:38,180
+The battery energy storage system, or BEZ as we call it,
+
+66
+00:04:38,260 --> 00:04:42,000
+is housed in a building 500 feet by 120 feet wide.
+
+67
+00:04:42,001 --> 00:04:45,586
+We have four strings of batteries.
+
+68
+00:04:45,587 --> 00:04:53,180
+Each string contains 3,440 cells, so a total of 13,760 individual cells.
+
+69
+00:04:54,760 --> 00:05:01,780
+Fairbanks and its surroundings need this monstrous battery to let loose with its stored energy during potentially crippling power outages.
+
+70
+00:05:05,180 --> 00:05:08,620
+No power lines link Alaska and the lower 48 states.
+
+71
+00:05:09,600 --> 00:05:14,160
+And only one line extends from Anchorage, the nearest large city, to Fairbanks.
+
+72
+00:05:15,740 --> 00:05:20,440
+During the long, dark, and bitterly cold winters, Fairbanks is especially vulnerable.
+
+73
+00:05:21,080 --> 00:05:24,740
+During the winter, temperature extremes, say it's 40 below, say it's 50 below.
+
+74
+00:05:24,980 --> 00:05:27,660
+At those temperatures, any kind of an outage becomes very critical,
+
+75
+00:05:28,060 --> 00:05:31,780
+because a house at those temperatures can freeze within four to five hours.
+
+76
+00:05:32,080 --> 00:05:35,920
+The water pipe's inside, the heating system inside, if there's no electricity to it.
+
+77
+00:05:35,921 --> 00:05:42,920
+Bez is designed to discharge a whopping 27 megawatts of power for only 15 minutes.
+
+78
+00:05:42,921 --> 00:05:46,920
+Enough time for the electric company's dispatchers to remedy the problem,
+
+79
+00:05:46,921 --> 00:05:50,920
+or for customers to start their own generators.
+
+80
+00:05:50,921 --> 00:05:57,920
+Each of the 1,376 black boxes on the shelves contain 10 cells apiece.
+
+81
+00:05:57,921 --> 00:06:04,920
+The electrodes in Bez's 13,760 cells are made from nickel and carbon.
+
+82
+00:06:04,921 --> 00:06:06,400
+made from nickel and cadmium.
+
+83
+00:06:09,360 --> 00:06:12,380
+NICAD's cells are both cost-effective and long-lasting.
+
+84
+00:06:12,820 --> 00:06:16,020
+We expect a shelf or actually operating life of these batteries
+
+85
+00:06:16,021 --> 00:06:17,380
+to be in excess of 20 years.
+
+86
+00:06:18,680 --> 00:06:21,700
+Nickel-cadmium cells are rechargeable,
+
+87
+00:06:22,100 --> 00:06:25,740
+and that means that we can charge and discharge them
+
+88
+00:06:25,741 --> 00:06:28,820
+hundreds of times, even thousands of times,
+
+89
+00:06:28,900 --> 00:06:30,700
+depending on how we use them.
+
+90
+00:06:30,701 --> 00:06:34,580
+And with this battery, it's actually sitting on
+
+91
+00:06:34,581 --> 00:06:36,980
+what we call standby.
+
+92
+00:06:36,981 --> 00:06:39,380
+That means most of the time it's just
+
+93
+00:06:39,381 --> 00:06:42,380
+drawing enough energy from the grid
+
+94
+00:06:42,381 --> 00:06:44,760
+to keep it in a fully charged state.
+
+95
+00:06:44,761 --> 00:06:47,620
+And it's just waiting for that one moment
+
+96
+00:06:47,621 --> 00:06:49,860
+when something happens on the grid
+
+97
+00:06:49,861 --> 00:06:54,500
+and the battery needs to discharge in a hurry.
+
+98
+00:06:54,501 --> 00:06:56,940
+Like all batteries, our batteries are DC powered.
+
+99
+00:06:56,941 --> 00:07:00,440
+And we gather all that power and focus it on our DC bus,
+
+100
+00:07:00,441 --> 00:07:03,440
+which comes into this room here in the background.
+
+101
+00:07:03,441 --> 00:07:07,000
+We have a positive bus and a negative bus,
+
+102
+00:07:07,001 --> 00:07:09,280
+5,000 volts sitting here between these two pieces
+
+103
+00:07:09,281 --> 00:07:10,660
+of aluminum bus.
+
+104
+00:07:10,661 --> 00:07:13,340
+It is then fed into this device called a converter.
+
+105
+00:07:13,341 --> 00:07:15,880
+The converter takes the DC power and converts it
+
+106
+00:07:15,881 --> 00:07:21,140
+into AC power, which is then fed out on these pipes above here.
+
+107
+00:07:21,141 --> 00:07:23,320
+The pipes carry the power out of the building
+
+108
+00:07:23,321 --> 00:07:26,840
+and into a transformer that steps up the 5,000 volts
+
+109
+00:07:26,841 --> 00:07:31,280
+to 138,000 volts.
+
+110
+00:07:31,281 --> 00:07:36,960
+The power enters an adjacent substation and flows out to the grid, serving Fairbanks and the surrounding area.
+
+111
+00:07:37,920 --> 00:07:40,500
+We've been extremely happy with how the BEZ has performed.
+
+112
+00:07:40,501 --> 00:07:48,280
+Over the last four years, we've seen 217 events, and we have eliminated or prevented over a million customer outages.
+
+113
+00:07:48,860 --> 00:07:52,480
+That's very interesting because we only have 42,000 customers.
+
+114
+00:07:53,800 --> 00:08:00,280
+While Big BEZ is an elaborate and complicated system, the most basic of batteries can be surprisingly low-tech.
+
+115
+00:08:01,280 --> 00:08:04,400
+Batteries are actually very simple to demonstrate.
+
+116
+00:08:04,560 --> 00:08:08,320
+And we can do it with something as simple as a lemon and a few household items.
+
+117
+00:08:08,700 --> 00:08:12,460
+So, for instance, we can take a galvanized nail, that's a nail coated with zinc,
+
+118
+00:08:12,700 --> 00:08:16,640
+and insert it in the lemon, which will serve as our electrochemical cell.
+
+119
+00:08:17,060 --> 00:08:20,480
+And in a small slit here next to the nail, we'll insert a penny.
+
+120
+00:08:20,880 --> 00:08:24,960
+And the electrons tend to flow from the zinc to the copper,
+
+121
+00:08:24,961 --> 00:08:27,360
+which really has a desire to pick up the electrons.
+
+122
+00:08:27,361 --> 00:08:36,440
+And in order to make the battery work, all we have to do is connect the two leads to something that's a load and serves as an outlet for useful work.
+
+123
+00:08:36,640 --> 00:08:39,260
+And we can demonstrate that with a clock.
+
+124
+00:08:39,420 --> 00:08:44,180
+Here we have a clock composed of four different lemons, so we have a four-lemon clock.
+
+125
+00:08:45,060 --> 00:08:53,567
+If you're looking for a power source that's a little less sour, you can always opt for the smaller, uniformly sized, and durable varieties made by battery
+
+126
+00:08:53,568 --> 00:08:54,340
+manufacturers.
+
+127
+00:08:57,360 --> 00:09:04,740
+Energizer, one of the industry's leaders, is a direct descendant of the very first consumer battery, called the Columbia.
+
+128
+00:09:06,520 --> 00:09:10,680
+The Columbia was introduced in 1896 by the National Carbon Company.
+
+129
+00:09:11,380 --> 00:09:16,560
+In 1898, an inventor, Conrad Huber, came up with a flashlight.
+
+130
+00:09:17,120 --> 00:09:23,080
+National Carbon Company, the manufacturer of batteries, and Conrad Huber's company, the manufacturer of flashlights,
+
+131
+00:09:23,081 --> 00:09:26,220
+decided to merge, forming the Ever Ready Battery Company.
+
+132
+00:09:27,360 --> 00:09:34,480
+In the 1970s, Everettie created the Energizer Company to market its higher-end alkaline batteries.
+
+133
+00:09:35,020 --> 00:09:40,640
+And with the help of an iconic pink percussionist, its business kept growing and growing and growing.
+
+134
+00:09:43,760 --> 00:09:50,640
+Energizer's sprawling North Carolina facility is the largest alkaline battery manufacturing and packaging complex in the world.
+
+135
+00:09:51,320 --> 00:09:54,000
+The manufacturing facility here in Ashborough, North Carolina,
+
+136
+00:09:54,360 --> 00:09:57,960
+is more than a million square feet, employing more than a thousand people.
+
+137
+00:09:57,961 --> 00:10:03,320
+We make AA's, AAA's, 9 volts, but today we're going to focus on D batteries
+
+138
+00:10:03,321 --> 00:10:05,780
+because we make more than anyone else.
+
+139
+00:10:07,260 --> 00:10:11,120
+The North Carolina plant produces about a million D cells every day.
+
+140
+00:10:14,180 --> 00:10:18,500
+Energizer's first step is to send the steel cans it buys from outside vendors
+
+141
+00:10:18,501 --> 00:10:22,080
+through a washer and dryer to remove any residues or contaminants.
+
+142
+00:10:26,500 --> 00:10:31,800
+Elsewhere in the facility, a forklift dumps huge bags of manganese dioxide into a hopper
+
+143
+00:10:31,801 --> 00:10:34,440
+that feeds the material into blenders,
+
+144
+00:10:34,920 --> 00:10:38,720
+where it's mixed with graphite and other ingredients that make up the cathode material.
+
+145
+00:10:41,060 --> 00:10:45,720
+The cathode mix is now fed downstairs to the can-filling machine.
+
+146
+00:10:45,721 --> 00:10:53,160
+The cathode mix fills the steel can and it makes its way on to the next step of the process, which is cathode molding.
+
+147
+00:10:53,400 --> 00:10:58,320
+Where the cathode mix is molded to the inner diameter of the steel can.
+
+148
+00:10:59,620 --> 00:11:04,680
+This is a 100-ton press that does four cans at a time.
+
+149
+00:11:06,380 --> 00:11:08,200
+Next comes the separator material.
+
+150
+00:11:09,100 --> 00:11:15,560
+In these D-cells and in all batteries, the cathode and the anode must be kept from touching each other to prevent short circuits.
+
+151
+00:11:15,720 --> 00:11:22,720
+These machines insert two layers of a special paper that form a protective lining, keeping the two electrodes separate.
+
+152
+00:11:22,721 --> 00:11:28,720
+Now with the separator in place, it's time to add the anode and the electrolyte.
+
+153
+00:11:28,721 --> 00:11:35,720
+The anode is basically a zinc slurry, and the electrolyte's alkaline ingredient is potassium hydroxide.
+
+154
+00:11:35,721 --> 00:11:40,720
+Even though this type of battery is called a dry cell, that's somewhat of a misnomer.
+
+155
+00:11:40,721 --> 00:11:41,421
+misnomer.
+
+156
+00:11:41,422 --> 00:11:46,720
+A wet cell contains free-flowing electrolyte, whereas a dry cell contains a
+
+157
+00:11:46,721 --> 00:11:49,085
+gel or paste-like electrolyte.
+
+158
+00:11:49,086 --> 00:11:53,420
+Once the anode is in place, in the machinery behind me,
+
+159
+00:11:53,960 --> 00:11:57,953
+the collector assembly is inserted into the can.
+
+160
+00:11:57,954 --> 00:12:01,780
+The nail or current collector is inserted into
+
+161
+00:12:01,781 --> 00:12:04,959
+the anode, thus completing the circuit.
+
+162
+00:12:04,960 --> 00:12:09,280
+The next set of machines places and crimps the bottom
+
+163
+00:12:09,281 --> 00:12:15,560
+covers onto the cans, creating the negative end of the cells.
+
+164
+00:12:15,561 --> 00:12:21,040
+Then the cans are inverted and fed into a machine that welds the top covers into place.
+
+165
+00:12:21,041 --> 00:12:24,680
+These are the positive ends of the cells.
+
+166
+00:12:24,681 --> 00:12:29,200
+And if you were wondering, there are reasons why D-cells and other standard consumer batteries
+
+167
+00:12:29,201 --> 00:12:30,200
+are cylindrical.
+
+168
+00:12:30,201 --> 00:12:34,600
+The key reason why batteries are made in a cylindrical shape is due to the strength
+
+169
+00:12:34,601 --> 00:12:37,100
+and durability of the container.
+
+170
+00:12:37,101 --> 00:12:41,560
+The cylinder allows for an even distribution of internal pressures, which allows for a
+
+171
+00:12:41,561 --> 00:12:44,940
+more effective sealing system.
+
+172
+00:12:44,941 --> 00:12:48,280
+Now we're at the final assembly step.
+
+173
+00:12:48,281 --> 00:12:52,560
+This is where we label the product.
+
+174
+00:12:52,561 --> 00:12:58,700
+Once it's been labeled, the label is heat shrunk onto the cell.
+
+175
+00:12:58,701 --> 00:13:04,540
+Every battery is visually inspected to ensure the label is in the proper place.
+
+176
+00:13:04,541 --> 00:13:12,580
+It is voltage tested and current tested before it goes on to packaging.
+
+177
+00:13:14,640 --> 00:13:20,520
+These D-cells output one and a half volts, like all batteries made with the same anode and cathode materials.
+
+178
+00:13:21,240 --> 00:13:24,340
+But the D-cell's larger size does have its advantages.
+
+179
+00:13:25,020 --> 00:13:30,380
+The run time of a battery is determined by the amount of active material contained in a battery.
+
+180
+00:13:30,560 --> 00:13:34,400
+Therefore, a D has a lot more potential energy than a AA.
+
+181
+00:13:34,540 --> 00:13:38,200
+This is analogous to a car that has a gas tank.
+
+182
+00:13:38,340 --> 00:13:41,020
+The larger the gas tank, the further a car can run.
+
+183
+00:13:43,120 --> 00:13:47,680
+And speaking of gas tanks, this sleek roadster doesn't have one.
+
+184
+00:13:49,020 --> 00:13:55,840
+Instead, packed in the back are thousands of batteries that can power it from 0 to 60 in just 4 seconds.
+
+185
+00:13:57,960 --> 00:14:03,080
+The most common consumer battery sizes are D, C, AA, and AAA.
+
+186
+00:14:03,081 --> 00:14:08,080
+B-cells are still used in Europe for a few devices, including bicycle headlights.
+
+187
+00:14:08,081 --> 00:14:11,080
+Batteries will return on Modern Marvels.
+
+188
+00:14:14,080 --> 00:14:18,080
+We now return to Batteries on Modern Marvels.
+
+189
+00:14:20,080 --> 00:14:22,080
+Here it comes.
+
+190
+00:14:22,081 --> 00:14:24,080
+With almost stealth-like quiet.
+
+191
+00:14:25,080 --> 00:14:31,080
+An innovative battery-powered sports car that's good news to speed junkies and environmentalists alike.
+
+192
+00:14:33,080 --> 00:14:37,300
+I'm driving a prototype of the 2008 Tesla Roadster.
+
+193
+00:14:38,320 --> 00:14:39,880
+This car is 100% electric.
+
+194
+00:14:40,600 --> 00:14:46,680
+It goes from 0 to 60 in about 4 seconds with a top speed of over 130 miles an hour.
+
+195
+00:14:47,520 --> 00:14:50,760
+What's really cool is because it's electric, it does this with zero emissions.
+
+196
+00:14:51,180 --> 00:14:55,940
+There's no tailpipe, no emissions whatsoever, and it has a range of more than 200 miles.
+
+197
+00:14:55,941 --> 00:15:07,000
+This battery-driven Speed Demon, priced at nearly $100,000, is the first vehicle created by Tesla Motors in California's Silicon Valley.
+
+198
+00:15:07,800 --> 00:15:16,480
+The company's goal was to build a car that wasn't just an eco-friendly alternative to gas-fueled cars, but one that could compete with them on every performance level.
+
+199
+00:15:16,481 --> 00:15:23,720
+Specifically, we were looking to address the three shortcomings of electric cars in the past,
+
+200
+00:15:24,180 --> 00:15:28,140
+meaning they had limited range, so we had to give consumers more than enough range.
+
+201
+00:15:28,300 --> 00:15:29,500
+That's the efficiency side of it.
+
+202
+00:15:29,940 --> 00:15:35,560
+Performance, we didn't want consumers to be stuck with a car that underperformed relative to gasoline-powered cars.
+
+203
+00:15:36,460 --> 00:15:39,500
+And design, we wanted a car that is absolutely gorgeous.
+
+204
+00:15:39,501 --> 00:15:46,980
+When Tesla's engineers began conceiving the car, one of their top priorities was to design
+
+205
+00:15:46,981 --> 00:15:48,380
+an innovative power source.
+
+206
+00:15:49,520 --> 00:15:54,060
+The philosophy of Tesla Motors was to start with the best battery and to make a battery
+
+207
+00:15:54,061 --> 00:15:57,320
+pack that would allow us to get the range and power that we thought customers would
+
+208
+00:15:57,321 --> 00:16:00,720
+desire, and then to build the car and the rest of the infrastructure around that.
+
+209
+00:16:02,840 --> 00:16:07,560
+What we needed was a very stiff structure that was very lightweight, because we needed
+
+210
+00:16:07,561 --> 00:16:12,800
+to somehow incorporate this enormous 900 plus pound battery pack into the skeleton of the
+
+211
+00:16:12,801 --> 00:16:13,501
+car.
+
+212
+00:16:13,502 --> 00:16:18,340
+So we looked to Lotus Motors over in England and they taught us a method of building
+
+213
+00:16:18,341 --> 00:16:20,547
+a chassis out of bonded extruded aluminum.
+
+214
+00:16:20,548 --> 00:16:22,860
+This allowed us to basically build a chassis
+
+215
+00:16:22,861 --> 00:16:27,380
+that's very lightweight, I can easily pick it up with one hand, and that's also stiff
+
+216
+00:16:27,381 --> 00:16:32,200
+enough and safe enough for occupant protection safety while still having an integrated battery
+
+217
+00:16:32,201 --> 00:16:35,594
+carrier. This is what sits in the back of the Tesla Roadster.
+
+218
+00:16:35,595 --> 00:16:37,040
+It's what we call the ESS,
+
+219
+00:16:37,041 --> 00:16:42,492
+energy storage system. It's comprised of 6,831 of these lithium-ion commodity cells.
+
+220
+00:16:42,493 --> 00:16:43,660
+And unfortunately,
+
+221
+00:16:43,661 --> 00:16:46,102
+we can't show you what's inside it because it's all proprietary.
+
+222
+00:16:46,103 --> 00:16:46,980
+But if you were to open
+
+223
+00:16:46,981 --> 00:16:49,080
+it up, you'd find a bunch of these wired up inside.
+
+224
+00:16:51,880 --> 00:16:57,480
+The nearly 7,000 lithium-ion cells, because of their high energy to volume ratio, are
+
+225
+00:16:57,481 --> 00:17:00,672
+able to deliver up to 400 volts.
+
+226
+00:17:00,673 --> 00:17:05,960
+Their 55 kilowatt hours of storage capacity gives the
+
+227
+00:17:05,961 --> 00:17:08,360
+car its 200-mile range.
+
+228
+00:17:08,361 --> 00:17:12,480
+After you've driven your 200-plus miles, you would park the car in the garage at night
+
+229
+00:17:12,481 --> 00:17:16,298
+and charge it up using one of these home charging stations.
+
+230
+00:17:16,299 --> 00:17:17,980
+Simply take the cord, open
+
+231
+00:17:17,981 --> 00:17:24,700
+up the charge port, and plug it right in. The car takes about three and a half hours
+
+232
+00:17:24,701 --> 00:17:25,401
+to recharge.
+
+233
+00:17:25,402 --> 00:17:28,820
+That's, you know, if it's completely flat, but certainly you can top it off in
+
+234
+00:17:28,821 --> 00:17:33,280
+less time than that. And the cost is quite low, so you're looking at between two and
+
+235
+00:17:33,281 --> 00:17:34,940
+to fully charge the car.
+
+236
+00:17:37,100 --> 00:17:38,080
+Three bucks.
+
+237
+00:17:38,480 --> 00:17:41,040
+That means the Tesla Roadster gets about the equivalent
+
+238
+00:17:41,041 --> 00:17:42,740
+of 200 miles per gallon.
+
+239
+00:17:43,660 --> 00:17:46,100
+The batteries helping to achieve this stellar performance
+
+240
+00:17:46,101 --> 00:17:48,620
+power a motor as simple as it is efficient.
+
+241
+00:17:48,840 --> 00:17:52,900
+In our car, you have one AC induction electric motor,
+
+242
+00:17:53,320 --> 00:17:54,800
+the invention of Nikola Tesla.
+
+243
+00:17:55,380 --> 00:17:59,380
+This is sort of the essence of the experience of driving this car,
+
+244
+00:17:59,381 --> 00:18:04,020
+and it also is the essence of why maintenance on this car is so simple.
+
+245
+00:18:04,540 --> 00:18:08,980
+It has only two moving parts, and the transmission that it's coupled with has about 15,
+
+246
+00:18:09,320 --> 00:18:12,740
+giving the entire drivetrain of our car about 17 moving parts,
+
+247
+00:18:13,340 --> 00:18:17,560
+compared to an internal combustion engine car that has hundreds and hundreds of moving parts.
+
+248
+00:18:19,600 --> 00:18:23,340
+The Tesla's eye-catching design attracts attention wherever it goes.
+
+249
+00:18:24,160 --> 00:18:27,960
+But you really don't need a billion-dollar bankroll to create an electric car.
+
+250
+00:18:29,380 --> 00:18:34,400
+A few of the battery-driven cars on the road today are customized conversions.
+
+251
+00:18:36,080 --> 00:18:40,420
+If you see a classic sports car whiz by, minus the throaty engine noise,
+
+252
+00:18:40,940 --> 00:18:44,380
+it could be the handiwork of the self-proclaimed Reverend Gadget.
+
+253
+00:18:46,160 --> 00:18:48,880
+I've been building electric cars for about two and a half years now.
+
+254
+00:18:49,320 --> 00:18:52,160
+So the car I have behind me is a 78 Triumph Spitfire.
+
+255
+00:18:52,740 --> 00:18:53,940
+I actually bought a bunch of these.
+
+256
+00:18:54,540 --> 00:18:59,120
+All I did was pull the motor out and add batteries so I can show you what I did over here.
+
+257
+00:18:59,380 --> 00:19:06,380
+Did Marvin you help me with the hood?
+
+258
+00:19:07,220 --> 00:19:12,220
+So basically what I've done here is I put in a bunch of simple lead acid batteries
+
+259
+00:19:12,221 --> 00:19:17,160
+and then underneath there's an electric motor in place of the internal combustion engine.
+
+260
+00:19:17,161 --> 00:19:22,220
+And then in the back I have another 9 in the back for a total of 15 batteries for the traction
+
+261
+00:19:22,221 --> 00:19:26,220
+and an extra battery to run the lights and radio. So a total of 16.
+
+262
+00:19:26,221 --> 00:19:29,040
+I can plug into 110 or 220. It doesn't really matter.
+
+263
+00:19:29,360 --> 00:19:33,260
+My chargers are set to work with either voltage, so it gives me a lot of leeway, AC or DC.
+
+264
+00:19:33,620 --> 00:19:36,860
+If I get stuck somewhere, I can go to 7-Eleven and plug in the ice machine.
+
+265
+00:19:39,160 --> 00:19:42,860
+The myth is that electric cars are slow, but there are slow electric cars.
+
+266
+00:19:43,760 --> 00:19:47,040
+But real electric cars are fast.
+
+267
+00:19:47,041 --> 00:19:58,800
+The battery has been competing with the internal combustion engine since the dawn of the automobile industry.
+
+268
+00:20:00,260 --> 00:20:05,860
+Initially, electric cars held their own, as gas-driven cars were hampered by a scarcity of gas stations
+
+269
+00:20:05,861 --> 00:20:09,600
+and by hand-cranked starters that most consumers hated.
+
+270
+00:20:09,601 --> 00:20:19,380
+a decade into the 20th century gas stations began to proliferate and electric starters
+
+271
+00:20:19,381 --> 00:20:26,400
+replaced the cranks electric vehicles were left in the smog but even gasoline-powered
+
+272
+00:20:26,401 --> 00:20:30,420
+cars now needed a reliable battery to deliver enough power to get them started
+
+273
+00:20:30,421 --> 00:20:34,740
+lead-acid batteries have been standard automotive equipment ever since
+
+274
+00:20:34,741 --> 00:20:41,080
+Originally developed in 1859 by French scientist Gaston Planté,
+
+275
+00:20:42,460 --> 00:20:46,660
+lead-acid batteries later became the technology of choice for automotive applications.
+
+276
+00:20:47,340 --> 00:20:49,940
+They're not only a rechargeable battery technology,
+
+277
+00:20:50,520 --> 00:20:54,420
+but they're also robust enough to withstand the heat and vibrations under the hood,
+
+278
+00:20:55,040 --> 00:20:57,220
+and relatively inexpensive to make.
+
+279
+00:21:00,120 --> 00:21:03,840
+The East Penn Manufacturing Company in Lyon Station, Pennsylvania,
+
+280
+00:21:03,841 --> 00:21:06,640
+has been cranking them out since the 1940s.
+
+281
+00:21:07,080 --> 00:21:10,520
+We have about 2.5 million square feet of building
+
+282
+00:21:10,521 --> 00:21:13,400
+on about 520 acres of land.
+
+283
+00:21:13,840 --> 00:21:15,720
+We make a wide variety of products.
+
+284
+00:21:16,460 --> 00:21:18,200
+We have several plants on this site
+
+285
+00:21:18,201 --> 00:21:20,620
+producing everything from motor power batteries
+
+286
+00:21:20,621 --> 00:21:22,280
+to stationary batteries
+
+287
+00:21:22,281 --> 00:21:24,680
+to our largest segment of our business
+
+288
+00:21:24,681 --> 00:21:26,160
+is the automotive battery industry.
+
+289
+00:21:27,580 --> 00:21:29,760
+First step in making an automotive battery
+
+290
+00:21:29,761 --> 00:21:32,720
+is to make a grid, the framework for the plate.
+
+291
+00:21:33,840 --> 00:21:38,840
+What we're doing is we're taking hard lead, putting it into a 16,000-pound pot,
+
+292
+00:21:38,841 --> 00:21:42,820
+we're melting that lead, wearing it into a book mold,
+
+293
+00:21:43,240 --> 00:21:46,000
+and we're casting the grid work for the battery.
+
+294
+00:21:47,460 --> 00:21:51,760
+The grids then undergo a process that coats them with a lead oxide paste,
+
+295
+00:21:52,360 --> 00:21:53,740
+aptly nicknamed mud.
+
+296
+00:21:54,560 --> 00:21:57,440
+These are now the positive plates that will make up the cathode.
+
+297
+00:21:57,441 --> 00:22:07,560
+On another assembly line, grids spool off a reel and are coated with a different mud
+
+298
+00:22:07,561 --> 00:22:10,240
+concoction that creates the negative plates for the anode.
+
+299
+00:22:14,200 --> 00:22:19,020
+After making our positive and negative plates, we need to put a separator material between
+
+300
+00:22:19,021 --> 00:22:20,640
+the positive and negative electrode.
+
+301
+00:22:21,180 --> 00:22:23,940
+So what we're doing is we're actually making an envelope.
+
+302
+00:22:23,941 --> 00:22:28,100
+This separates the positive and negative electrodes so they don't short out.
+
+303
+00:22:28,540 --> 00:22:32,160
+The machinery behind me will take the polyethylene material across the top.
+
+304
+00:22:32,540 --> 00:22:35,040
+That positive plate feeds in between the material.
+
+305
+00:22:35,260 --> 00:22:35,960
+We seal it.
+
+306
+00:22:36,340 --> 00:22:38,420
+Then it gets a negative plate on top of it.
+
+307
+00:22:39,540 --> 00:22:41,580
+It counts how many plates we need.
+
+308
+00:22:43,000 --> 00:22:45,420
+The 15-plate battery that we're making here.
+
+309
+00:22:47,480 --> 00:22:50,380
+The reason why several plates are used in each cell
+
+310
+00:22:50,381 --> 00:22:53,560
+is to increase the surface area of the anode and cathode.
+
+311
+00:22:53,940 --> 00:22:57,100
+maximizing the chemical reaction that produces the electricity.
+
+312
+00:22:58,860 --> 00:23:03,640
+The plate really designates how much ampere capacity or reserve capacity,
+
+313
+00:23:04,000 --> 00:23:09,120
+and the amount of surface area on the plates will tell you how much high-rate discharge capability
+
+314
+00:23:09,121 --> 00:23:11,940
+or cold starting capacity you'll have.
+
+315
+00:23:12,720 --> 00:23:15,740
+A stack of plates comprises each 2-volt cell.
+
+316
+00:23:17,460 --> 00:23:23,340
+Six cells are inserted into each polypropylene case to make your standard 12-volt car battery.
+
+317
+00:23:23,940 --> 00:23:30,440
+The next step in the process is our assembly department where we're going to connect those
+
+318
+00:23:30,441 --> 00:23:33,400
+six cells to get a 12 volt battery.
+
+319
+00:23:33,401 --> 00:23:36,820
+We're going to short check each cell.
+
+320
+00:23:36,821 --> 00:23:38,480
+It will move down the line.
+
+321
+00:23:38,481 --> 00:23:42,320
+We will spot weld each group together.
+
+322
+00:23:42,321 --> 00:23:46,380
+From that point we put a cover on the battery.
+
+323
+00:23:46,381 --> 00:23:50,780
+We heat seal the cover to the case.
+
+324
+00:23:50,781 --> 00:23:56,060
+Then we have to connect the internal post to the external post.
+
+325
+00:23:56,061 --> 00:23:58,500
+Then it moves down to a leak tester.
+
+326
+00:23:58,501 --> 00:24:01,340
+We don't want the battery to leak.
+
+327
+00:24:01,341 --> 00:24:06,820
+And then we unload it to a pallet.
+
+328
+00:24:06,821 --> 00:24:11,020
+The nearly completed batteries remain in storage until it's time for the company to fulfill
+
+329
+00:24:11,021 --> 00:24:16,020
+its orders.
+
+330
+00:24:16,021 --> 00:24:18,580
+Only then are the batteries filled with the electrolyte solution.
+
+331
+00:24:18,581 --> 00:24:21,880
+It is two-thirds water and one-third sulfuric acid.
+
+332
+00:24:24,740 --> 00:24:27,580
+After the batteries are filled with electrolyte,
+
+333
+00:24:27,860 --> 00:24:30,400
+there is no voltage there until we bring them into this foreign room
+
+334
+00:24:30,401 --> 00:24:34,100
+where they are hooked up and electrically charged to form the batteries.
+
+335
+00:24:34,300 --> 00:24:36,500
+Once they are formed, they are a 12-volt battery,
+
+336
+00:24:36,920 --> 00:24:39,120
+which then will be taken to our finishing department
+
+337
+00:24:39,121 --> 00:24:41,200
+where we top the batteries off.
+
+338
+00:24:42,520 --> 00:24:43,900
+We plug the batteries.
+
+339
+00:24:44,860 --> 00:24:45,940
+We wash them.
+
+340
+00:24:45,941 --> 00:24:57,220
+We brush the terminals, we put a high voltage rate test on them, and then they are labeled
+
+341
+00:24:57,221 --> 00:25:01,860
+for our customers.
+
+342
+00:25:01,861 --> 00:25:07,900
+As lead acid battery manufacturers keep cranking out big boxes for our cars, researchers in
+
+343
+00:25:07,901 --> 00:25:14,540
+other fields are creating batteries so small they're invisible to the naked eye.
+
+344
+00:25:14,541 --> 00:25:19,540
+The incredible shrinking battery could one day power a submarine through your bloodstream.
+
+345
+00:25:20,900 --> 00:25:31,560
+In 2006, 160 AA-sized oxynickel hydroxide cells provided the energy for the world's first manned flight powered by dry cell batteries.
+
+346
+00:25:32,260 --> 00:25:37,200
+The one-man aircraft flew for less than a minute and traveled about 428 yards.
+
+347
+00:25:38,180 --> 00:25:40,420
+Batteries will return on Modern Marbles.
+
+348
+00:25:40,421 --> 00:25:47,420
+We now return to Batteries on Modern Marvels.
+
+349
+00:25:49,040 --> 00:25:53,500
+Long gone are the days when our technology only stretched as far as the longest extension
+
+350
+00:25:53,501 --> 00:25:54,201
+cord.
+
+351
+00:25:54,202 --> 00:26:02,500
+We're hooked up to an arsenal of portable electronics that help us gab, compute, and
+
+352
+00:26:03,340 --> 00:26:09,100
+rock on to our favorite tunes.
+
+353
+00:26:09,101 --> 00:26:15,140
+have enabled us to power up while we're on the go, mainly by cramming more and more energy
+
+354
+00:26:15,141 --> 00:26:18,070
+into a smaller and smaller package.
+
+355
+00:26:18,071 --> 00:26:22,340
+Since the 1990s, the mighty little wonders powering
+
+356
+00:26:22,341 --> 00:26:27,720
+much of our tech, including the Tesla and our laptops, are lithium-ion batteries.
+
+357
+00:26:29,340 --> 00:26:34,680
+The use of lithium in batteries has enabled a lot of technologies to come forth and become
+
+358
+00:26:34,681 --> 00:26:35,616
+very, very small.
+
+359
+00:26:35,617 --> 00:26:39,800
+For example, when cell phones first came out, they used nickel metal hydrant
+
+360
+00:26:39,801 --> 00:26:40,501
+technology.
+
+361
+00:26:40,502 --> 00:26:43,920
+People referred to them as bricks, because that's exactly what they were. They
+
+362
+00:26:43,921 --> 00:26:45,391
+were the size of a brick.
+
+363
+00:26:45,392 --> 00:26:48,920
+Now, with a higher energy density material, cell phones have
+
+364
+00:26:48,921 --> 00:26:53,075
+become smaller and enable a lot of other devices to be made.
+
+365
+00:26:53,076 --> 00:26:55,360
+For example, iPod could not exist
+
+366
+00:26:55,361 --> 00:26:58,877
+in its current form without lithium technology.
+
+367
+00:26:58,878 --> 00:27:02,020
+Batteries have been shrinking quickly over
+
+368
+00:27:02,021 --> 00:27:07,425
+the last few years, but only recently became microscopic.
+
+369
+00:27:07,426 --> 00:27:10,080
+In 2003, University of Tulsa
+
+370
+00:27:10,081 --> 00:27:14,429
+chemistry professor Dale Teeters and two graduate students earned a U.S.
+
+371
+00:27:14,430 --> 00:27:16,060
+patent for their innovative
+
+372
+00:27:16,061 --> 00:27:21,180
+method for making nanobatteries for the nanomachines of the future.
+
+373
+00:27:21,181 --> 00:27:27,100
+There was a movie in the 60s, Fantastic Voyage, about a submarine that could be injected into
+
+374
+00:27:27,101 --> 00:27:30,740
+the human body to take care of problems that existed.
+
+375
+00:27:31,580 --> 00:27:36,920
+Now, we thought that was science fiction, but today in Germany there's a company that's
+
+376
+00:27:36,921 --> 00:27:43,000
+developing a nano-submarine small enough to inject into the human body and go through
+
+377
+00:27:43,001 --> 00:27:48,220
+the veins and arteries and eject chemicals or drugs where a problem may be.
+
+378
+00:27:49,900 --> 00:27:54,660
+Such intriguing technology can only be contemplated because of recent advancements
+
+379
+00:27:54,661 --> 00:27:56,840
+pioneered by researchers like Dr. Teters.
+
+380
+00:27:57,840 --> 00:28:01,060
+He discovered that small porous aluminum discs,
+
+381
+00:28:01,600 --> 00:28:03,460
+originally developed as a filtering medium,
+
+382
+00:28:04,140 --> 00:28:07,900
+provided a superstructure to make more than a billion nanobatteries at a time.
+
+383
+00:28:08,520 --> 00:28:11,500
+One of the first steps in the manufacture of these nanobatteries
+
+384
+00:28:11,501 --> 00:28:13,920
+is to check the integrity of the aluminum films
+
+385
+00:28:13,921 --> 00:28:16,920
+that have the 200 nanometer diameter pores.
+
+386
+00:28:17,560 --> 00:28:21,600
+And so what Mira is doing here is taking one of our aluminum membranes
+
+387
+00:28:21,601 --> 00:28:25,140
+and she's going to put it into a scanning electron microscope.
+
+388
+00:28:25,620 --> 00:28:28,760
+We have to use a scanning electron microscope to see the pores
+
+389
+00:28:28,761 --> 00:28:30,900
+because, once again, at 200 nanometers,
+
+390
+00:28:31,020 --> 00:28:33,260
+this is one of the few devices that we can use to see it.
+
+391
+00:28:33,600 --> 00:28:38,260
+And what we have up here is an image then of the pores that you can see.
+
+392
+00:28:38,780 --> 00:28:41,300
+From that, we can see that we have a good membrane.
+
+393
+00:28:43,120 --> 00:28:45,660
+To manufacture these microscopic batteries,
+
+394
+00:28:46,040 --> 00:28:50,960
+step one is to coat one side of the membrane with a tin oxide anode material.
+
+395
+00:28:51,600 --> 00:28:54,600
+This also seals one end of the pores.
+
+396
+00:28:54,601 --> 00:29:00,600
+Now the membrane can be turned over and the pores filled with a liquid polymer electrolyte.
+
+397
+00:29:00,601 --> 00:29:04,600
+Then it's time to coat the top with the cathode material.
+
+398
+00:29:04,601 --> 00:29:12,600
+We place it into the sputter coater and we pull up the argon gas on the inside and we start by giving it an electric current.
+
+399
+00:29:12,601 --> 00:29:15,600
+This electric current is going to create a plasma that you see here.
+
+400
+00:29:15,601 --> 00:29:16,578
+you see here.
+
+401
+00:29:16,579 --> 00:29:22,600
+What the plasma is doing is knocking off microscopic particles of our metal, and
+
+402
+00:29:22,940 --> 00:29:27,200
+it's essentially dusting our substrate that's in the bottom of the sputter coater with these
+
+403
+00:29:27,201 --> 00:29:34,200
+particles, which is giving us a continuous layer of lithium cobalt oxide or our cathode.
+
+404
+00:29:34,201 --> 00:29:37,300
+Once we've manufactured the nanobatteries, we have to test them to see how they're going
+
+405
+00:29:37,301 --> 00:29:40,934
+to function and also to test them to see how we can improve their performance.
+
+406
+00:29:40,935 --> 00:29:41,635
+We do this
+
+407
+00:29:41,636 --> 00:29:44,161
+with an atomic force microscope, which you see here.
+
+408
+00:29:44,162 --> 00:29:45,860
+We put the array of batteries in
+
+409
+00:29:45,861 --> 00:29:47,265
+the microscope here.
+
+410
+00:29:47,266 --> 00:29:51,900
+The microscope has a tiny tip that actually can touch the surface,
+
+411
+00:29:51,901 --> 00:29:54,650
+and we use that tip to make contact with the batteries.
+
+412
+00:29:54,651 --> 00:29:56,300
+The tip, which we can see up here
+
+413
+00:29:56,301 --> 00:30:02,060
+on the screen, touches the top of the nanobattery, the anode, and then it completes the circuit
+
+414
+00:30:02,061 --> 00:30:04,861
+just as you would touch a battery in any other device.
+
+415
+00:30:04,862 --> 00:30:06,780
+And once we've completed the circuit,
+
+416
+00:30:06,781 --> 00:30:11,460
+Then we can do charge and discharge studies by using the sub-femto-amp source meter, which
+
+417
+00:30:11,461 --> 00:30:15,720
+is a very sensitive instrument, but we need that in order to work with these very tiny
+
+418
+00:30:15,721 --> 00:30:16,720
+batteries.
+
+419
+00:30:16,721 --> 00:30:21,540
+Each pore in the membrane is a battery.
+
+420
+00:30:21,541 --> 00:30:26,300
+And like all lithium-ion batteries, each one outputs about 3.5 volts.
+
+421
+00:30:26,301 --> 00:30:32,100
+But, because you're dealing with tiny, tiny batteries, the actual amperage that you can
+
+422
+00:30:32,101 --> 00:30:33,560
+put out is quite small.
+
+423
+00:30:33,561 --> 00:30:37,900
+picoamps compared to milliamps in a real-world sized battery.
+
+424
+00:30:38,280 --> 00:30:41,600
+But one must remember if you're dealing with the nanodevices of the future,
+
+425
+00:30:42,040 --> 00:30:44,820
+picoamps will be sufficient to drive those devices.
+
+426
+00:30:46,900 --> 00:30:49,780
+Teeters and his team have made batteries so small
+
+427
+00:30:49,781 --> 00:30:53,900
+that more than 240 can be lined up across a human hair.
+
+428
+00:30:56,440 --> 00:31:00,040
+Developing batteries for hardware that doesn't yet exist is nothing new.
+
+429
+00:31:00,041 --> 00:31:08,180
+In 1800, Italian physicist Alessandro Volta created the first true battery by stacking
+
+430
+00:31:08,181 --> 00:31:13,800
+alternating layers of zinc, blotting paper soaked in salt water, and silver.
+
+431
+00:31:13,801 --> 00:31:17,680
+The interesting thing was that there was no practical application for this battery when
+
+432
+00:31:17,681 --> 00:31:19,028
+Volta first built it.
+
+433
+00:31:19,029 --> 00:31:23,520
+But by increasing the number of the disks and making them much larger,
+
+434
+00:31:23,521 --> 00:31:28,570
+he was able to generate a huge amount of current which actually was able to melt iron.
+
+435
+00:31:28,571 --> 00:31:29,271
+In 1800,
+
+436
+00:31:29,272 --> 00:31:33,260
+He was able to demonstrate this for Napoleon, and Napoleon was very impressed.
+
+437
+00:31:34,460 --> 00:31:40,960
+In 1859, Gaston Planté's new lead-acid battery became the first rechargeable battery,
+
+438
+00:31:42,280 --> 00:31:45,100
+long before a practical way to recharge it had been invented.
+
+439
+00:31:46,500 --> 00:31:53,940
+He was able to discharge his battery, but then he had to use other batteries to recharge his battery.
+
+440
+00:31:53,941 --> 00:31:59,660
+and it took another 20 years or so for the dynamo to be developed.
+
+441
+00:32:00,600 --> 00:32:05,240
+And then we saw an explosion in rechargeable battery development.
+
+442
+00:32:06,840 --> 00:32:12,900
+In recent years, rechargeable batteries have made our technology as portable as we are.
+
+443
+00:32:13,560 --> 00:32:15,660
+But how do you make a rechargeable battery
+
+444
+00:32:15,661 --> 00:32:19,680
+for a Martian dune buggy
+
+445
+00:32:19,681 --> 00:32:24,440
+that needs to recharge itself 250 million miles from Earth.
+
+446
+00:32:26,160 --> 00:32:30,520
+Scientists in Singapore have developed a biodegradable credit card-sized battery
+
+447
+00:32:30,521 --> 00:32:33,400
+that uses human urine as the electrolyte solution.
+
+448
+00:32:34,160 --> 00:32:36,800
+Its voltage is about the same as a AA battery.
+
+449
+00:32:37,700 --> 00:32:39,940
+Batteries will return on Modern Marvels.
+
+450
+00:32:41,800 --> 00:32:45,000
+We now return to Batteries on Modern Marvels.
+
+451
+00:32:49,680 --> 00:32:53,680
+Just as tinkerers are always trying to build a better mousetrap,
+
+452
+00:32:53,681 --> 00:32:57,680
+researchers are seeking ways to build a better battery.
+
+453
+00:33:01,680 --> 00:33:05,680
+Scientists at facilities like the Argonne National Laboratory, just outside of Chicago,
+
+454
+00:33:05,681 --> 00:33:09,680
+are putting new battery technologies through extensive analysis and testing.
+
+455
+00:33:11,680 --> 00:33:17,680
+One of the things we do, we test batteries under different temperature and humidity levels.
+
+456
+00:33:17,681 --> 00:33:21,775
+levels. We simulate climates in different parts of the country.
+
+457
+00:33:21,776 --> 00:33:23,920
+This is an environmental chamber.
+
+458
+00:33:23,921 --> 00:33:30,460
+With this we can control the temperatures to minus 22 degrees Fahrenheit up to 122 degrees
+
+459
+00:33:30,461 --> 00:33:36,580
+Fahrenheit. Once we hook the batteries up to the cyclers, we come out and we set the
+
+460
+00:33:36,581 --> 00:33:41,612
+environmental chamber for the temperatures and conditions we want.
+
+461
+00:33:41,613 --> 00:33:43,060
+These batteries can
+
+462
+00:33:43,061 --> 00:33:50,060
+be tested anywhere from hours, days, months, to even years.
+
+463
+00:33:51,600 --> 00:33:57,340
+Elsewhere, machines test how many times chemical mixtures can be charged and discharged
+
+464
+00:33:57,341 --> 00:34:01,760
+on small cells assembled in Argonne's battery development lab.
+
+465
+00:34:01,761 --> 00:34:05,201
+The advancement in battery technology is based upon new materials.
+
+466
+00:34:05,202 --> 00:34:06,400
+These new materials are
+
+467
+00:34:06,401 --> 00:34:12,180
+assembled into small cells which are used for screening tests such as shown here which
+
+468
+00:34:12,181 --> 00:34:15,020
+we call a button cell.
+
+469
+00:34:15,021 --> 00:34:17,500
+Because we're working with lithium materials,
+
+470
+00:34:17,501 --> 00:34:19,780
+lithium reacts violently with water,
+
+471
+00:34:19,781 --> 00:34:23,480
+either water in liquid form or water in vapor form.
+
+472
+00:34:23,481 --> 00:34:27,580
+We need an environment where there is very low water vapor,
+
+473
+00:34:27,581 --> 00:34:30,340
+and therefore we use the glove boxes for this purpose.
+
+474
+00:34:35,640 --> 00:34:38,560
+Another test area was created to work with potentially
+
+475
+00:34:38,561 --> 00:34:42,100
+volatile battery technologies.
+
+476
+00:34:42,101 --> 00:34:45,840
+Now these chambers here are designed to minimize those risks.
+
+477
+00:34:46,260 --> 00:34:51,540
+We have fire detection systems, smoke detection systems, and especially hydrogen detection systems.
+
+478
+00:34:51,541 --> 00:34:59,300
+If there is release of hydrogen, the ductworks are designed to safely remove the hydrogen from the labs.
+
+479
+00:35:01,620 --> 00:35:08,060
+One type of battery that Argon researchers are testing is one designed to power the latest generation of hybrid cars.
+
+480
+00:35:08,061 --> 00:35:12,160
+One of the next steps in hybrid technology is plug-in hybrid vehicles.
+
+481
+00:35:12,161 --> 00:35:16,160
+And a plug-in hybrid vehicle obviously has a plug that you can plug into the wall.
+
+482
+00:35:16,161 --> 00:35:19,660
+In addition to a conventional hybrid vehicle, it has a much larger battery, as you can see.
+
+483
+00:35:19,661 --> 00:35:23,720
+And a larger battery allows you to displace about a gallon's worth of fuel as electricity
+
+484
+00:35:23,721 --> 00:35:27,940
+each day, so that if you're trying to reduce the amount of petroleum consumption in America,
+
+485
+00:35:27,941 --> 00:35:32,320
+you can do that with energy charged from the wall at night.
+
+486
+00:35:32,321 --> 00:35:36,560
+The researchers have two ways to test the plug-in batteries.
+
+487
+00:35:36,561 --> 00:35:41,380
+They can physically test the car and its battery on a dynamometer, or hook the battery up to
+
+488
+00:35:41,381 --> 00:35:45,940
+a computer that creates virtual vehicles to put the battery through its paces.
+
+489
+00:35:45,941 --> 00:35:51,120
+We can put different coefficients into the computer and emulate bigger vehicles, smaller
+
+490
+00:35:51,121 --> 00:35:53,940
+vehicles, more efficient vehicles, or less efficient vehicles.
+
+491
+00:35:53,941 --> 00:35:59,100
+We can also change the temperature of the environment by adding or subtracting out heat
+
+492
+00:35:59,101 --> 00:36:00,100
+from the atmosphere.
+
+493
+00:36:00,101 --> 00:36:03,900
+The real question we're trying to answer in this facility is, what factors increase the
+
+494
+00:36:03,901 --> 00:36:05,800
+battery life in a plug-in hybrid vehicle?
+
+495
+00:36:06,560 --> 00:36:14,560
+2,000 miles from Argonne's research facility, experts at NASA's Jet Propulsion Laboratory
+
+496
+00:36:14,561 --> 00:36:19,860
+in Pasadena, California are testing batteries for vehicles designed to take us a lot farther
+
+497
+00:36:19,861 --> 00:36:22,660
+away from home.
+
+498
+00:36:22,661 --> 00:36:27,460
+If they design anything less than the most long-lasting, durable batteries possible,
+
+499
+00:36:27,461 --> 00:36:32,460
+a future multi-billion dollar mission could die a lonely death in the farthest reaches
+
+500
+00:36:32,461 --> 00:36:33,460
+of deep space.
+
+501
+00:36:33,461 --> 00:36:40,560
+To demonstrate their reliability, a big portion of our activity here at JPL is testing of batteries and cells.
+
+502
+00:36:40,980 --> 00:36:48,840
+And as you can see in the room behind us, we have a number of environmental chambers in which we have various cells and batteries on tests.
+
+503
+00:36:49,320 --> 00:37:00,500
+And we're performing primarily cycle life tests that are subjected to the temperature environments that are anticipated or are experienced on spacecraft.
+
+504
+00:37:00,501 --> 00:37:05,800
+JPL's battery technologies have evolved quickly since the early 90s.
+
+505
+00:37:06,860 --> 00:37:13,320
+In 1991, nickel-cadmium batteries powered systems on the Topex Earth Orbiter
+
+506
+00:37:13,321 --> 00:37:15,460
+that mapped ocean topographies.
+
+507
+00:37:16,340 --> 00:37:18,520
+They were long-lasting but heavy.
+
+508
+00:37:19,520 --> 00:37:23,900
+In 1997, silver and zinc offered more energy in a lighter package
+
+509
+00:37:23,901 --> 00:37:26,740
+for the Mars Pathfinder rover Sojourner,
+
+510
+00:37:27,200 --> 00:37:29,220
+but only lasted about 90 days.
+
+511
+00:37:30,500 --> 00:37:36,300
+Currently, the rovers exploring the Red Planet draw their power from lithium-ion batteries
+
+512
+00:37:36,301 --> 00:37:41,300
+that are long-lasting, powerful and lightweight.
+
+513
+00:37:41,301 --> 00:37:46,200
+But like all their predecessors, they also have to push the limits of durability.
+
+514
+00:37:46,201 --> 00:37:51,340
+In contrast to terrestrial batteries, aerospace batteries really have to withstand the extremes
+
+515
+00:37:51,341 --> 00:37:52,900
+of space travel.
+
+516
+00:37:52,901 --> 00:37:57,600
+And for the example of the Mars Exploration Rover batteries, it had to withstand the
+
+517
+00:37:57,601 --> 00:38:02,980
+launch phase where it is subjected to high shock and vibration levels.
+
+518
+00:38:02,981 --> 00:38:04,440
+It has to withstand
+
+519
+00:38:04,441 --> 00:38:07,183
+the vacuum of space on the way to Mars.
+
+520
+00:38:07,184 --> 00:38:10,700
+And then once it reaches Mars, it has to withstand
+
+521
+00:38:10,701 --> 00:38:16,200
+the whole entry, descent and landing phase of the mission where it takes another jolt
+
+522
+00:38:16,201 --> 00:38:17,020
+to the battery.
+
+523
+00:38:17,880 --> 00:38:23,700
+Because the density of the Martian atmosphere is less than 1% of Earth's, a parachute couldn't
+
+524
+00:38:23,701 --> 00:38:26,260
+slow down the descent enough to ensure a safe landing.
+
+525
+00:38:27,600 --> 00:38:32,760
+Just before impact, a set of airbags made out of a strong synthetic material called Vectran,
+
+526
+00:38:34,060 --> 00:38:35,760
+inflated around the plummeting craft.
+
+527
+00:38:36,840 --> 00:38:39,980
+Instead of one big damaging jolt to the rover and its batteries,
+
+528
+00:38:40,540 --> 00:38:42,620
+the landing was a series of cushioned bounces.
+
+529
+00:38:47,960 --> 00:38:51,980
+After surviving the rigorous 34 million mile journey to Mars,
+
+530
+00:38:52,840 --> 00:38:57,500
+solar panels and the onboard batteries enabled the rovers to poke around the desolate surface.
+
+531
+00:38:57,600 --> 00:38:59,060
+both day and night.
+
+532
+00:38:59,920 --> 00:39:04,360
+This is a real-size replica of Mars exploration rover on Mars right now.
+
+533
+00:39:04,840 --> 00:39:06,780
+And what you see here are these solar panels
+
+534
+00:39:06,781 --> 00:39:11,000
+that absorb the intense sun radiation.
+
+535
+00:39:11,340 --> 00:39:14,500
+And then that energy is being fed to the various electronics
+
+536
+00:39:14,501 --> 00:39:15,620
+to do the science experiments
+
+537
+00:39:15,621 --> 00:39:18,660
+and also at the same time charging the batteries
+
+538
+00:39:18,661 --> 00:39:21,180
+that are located in this compartment down below.
+
+539
+00:39:22,620 --> 00:39:25,020
+After the batteries are charged during the day,
+
+540
+00:39:25,021 --> 00:39:28,700
+they enable the rovers to continue their scientific chores at night.
+
+541
+00:39:30,700 --> 00:39:34,960
+However, some of the stored energy is used to power onboard heating systems
+
+542
+00:39:34,961 --> 00:39:39,580
+that keep the batteries and the electronics from being damaged by nighttime temperatures
+
+543
+00:39:39,581 --> 00:39:43,480
+that can reach minus 146 degrees Fahrenheit.
+
+544
+00:39:45,260 --> 00:39:47,500
+Whether we're exploring distant worlds
+
+545
+00:39:47,501 --> 00:39:51,920
+or just powering up our technology around the house,
+
+546
+00:39:52,540 --> 00:39:54,100
+one thing is clear.
+
+547
+00:39:55,020 --> 00:39:58,560
+Our dependence on batteries of all types is continuing to grow.
+
+548
+00:39:59,420 --> 00:40:03,080
+The dilemma is, what are we going to do with all of our dead batteries?
+
+549
+00:40:04,080 --> 00:40:08,860
+There are already billions of them in our landfills, and they're poisoning our planet.
+
+550
+00:40:10,560 --> 00:40:13,620
+Current market trends indicate that by the year 2012,
+
+551
+00:40:14,520 --> 00:40:18,800
+South Korea will account for half of the world's lithium-ion battery production.
+
+552
+00:40:19,380 --> 00:40:21,560
+Batteries will return on Modern Marvels.
+
+553
+00:40:21,561 --> 00:40:27,120
+We now return to batteries on Modern Marvels.
+
+554
+00:40:29,720 --> 00:40:36,300
+No matter how high the quality or the type of battery you purchase, eventually they all kick the bucket.
+
+555
+00:40:39,200 --> 00:40:45,880
+The chemical reaction that produces the flow of electrons eventually exhausts the supply of internal reactants.
+
+556
+00:40:46,680 --> 00:40:49,360
+And that's not the only factor determining battery life.
+
+557
+00:40:49,361 --> 00:40:54,860
+There are a number of things that cause batteries to age.
+
+558
+00:40:54,861 --> 00:40:58,360
+One of them is simply time.
+
+559
+00:40:58,361 --> 00:41:01,040
+Temperature has a lot to do with it as well.
+
+560
+00:41:01,041 --> 00:41:04,920
+Batteries age more quickly at high temperatures.
+
+561
+00:41:04,921 --> 00:41:09,100
+Rechargeable batteries have a longer lifetime and you can recharge those, but eventually
+
+562
+00:41:09,101 --> 00:41:14,080
+they die also because the materials inside decompose, there's corrosion, they give off
+
+563
+00:41:14,081 --> 00:41:17,760
+small amounts of gases, and over the lifetime they lose their charge.
+
+564
+00:41:19,360 --> 00:41:27,860
+Every year, billions of batteries die, leaving us the enormous problem of what to do with them.
+
+565
+00:41:29,200 --> 00:41:34,220
+Burying them in our landfills is hardly an answer, as they won't rest in peace.
+
+566
+00:41:35,380 --> 00:41:40,140
+It's estimated that we recycle only about 2% of household consumer batteries.
+
+567
+00:41:41,580 --> 00:41:46,660
+Recycling is encouraged for all types, but some batteries pose more of a threat than others.
+
+568
+00:41:47,620 --> 00:41:52,020
+Those that contain heavy metals, including lead, cadmium, and nickel,
+
+569
+00:41:52,540 --> 00:41:55,200
+are considered an environmental and public health hazard.
+
+570
+00:41:56,600 --> 00:42:02,440
+Countless decaying batteries produced prior to a 1996 law restricting the use of mercury as a component
+
+571
+00:42:02,441 --> 00:42:05,000
+are leaking that toxin into the soil.
+
+572
+00:42:06,700 --> 00:42:10,220
+We've been a lot more responsible, however, with lead-acid batteries,
+
+573
+00:42:10,740 --> 00:42:12,940
+like the ones under the hoods of our cars.
+
+574
+00:42:12,941 --> 00:42:20,660
+Approximately 98% of the lead-acid batteries are returned to recycling facilities to be reused.
+
+575
+00:42:22,100 --> 00:42:26,960
+The East Penn Manufacturing Company dedicates one entire building to recycling.
+
+576
+00:42:28,040 --> 00:42:33,440
+Behind me you see 120,000 junk lead-acid batteries that are received here at East Penn.
+
+577
+00:42:33,980 --> 00:42:37,740
+They begin the process by going up an elevator into a dump station.
+
+578
+00:42:37,741 --> 00:42:42,740
+When we dump the batteries, they go into two crushers.
+
+579
+00:42:42,741 --> 00:42:47,480
+The first crusher breaks the batteries into large pieces, allows us to drain the acid out.
+
+580
+00:42:48,040 --> 00:42:52,220
+From there, the pieces will seed into a hammer mill, where they're sized accordingly.
+
+581
+00:42:53,220 --> 00:42:58,360
+From there, the battery fragments pass through tumblers and enter float sink tanks.
+
+582
+00:43:00,060 --> 00:43:03,040
+The plastic from the battery cases floats to the top,
+
+583
+00:43:03,041 --> 00:43:10,720
+where it's reclaimed and then processed into reusable plastic pellets that will be used to make new cases.
+
+584
+00:43:13,720 --> 00:43:18,000
+Lead recovered from the bottom of the float sink tanks proceeds through a furnace.
+
+585
+00:43:23,200 --> 00:43:27,580
+The result is a 2,600-pound block of lead that's taken to the refinery,
+
+586
+00:43:28,620 --> 00:43:32,260
+further refined and delivered to the automotive plants to go into new battery production.
+
+587
+00:43:33,040 --> 00:43:36,820
+The recycling process produces one bonus byproduct.
+
+588
+00:43:37,860 --> 00:43:39,900
+Behind me, you can see our scrubber.
+
+589
+00:43:40,540 --> 00:43:48,580
+The scrubber conditions the gas stream that comes off the furnace and formulates it into a fertilizer stored in our 1 million gallon tanks up on the hill.
+
+590
+00:43:49,900 --> 00:43:57,960
+The nitrogen sulfur solution made from the fumes given off during the smelting process is sold to agricultural fertilizer manufacturers.
+
+591
+00:43:57,961 --> 00:44:04,960
+So as strange as it may seem, bumper crops may owe a debt of thanks to the lead-acid recycling process.
+
+592
+00:44:08,960 --> 00:44:14,960
+Beyond recycling, another environmentally positive step was the development of lithium-ion batteries.
+
+593
+00:44:15,960 --> 00:44:24,960
+Not only do they last much longer than other batteries, the lithium-ion in the electrolyte is an organic salt, and they don't contain any toxic metal.
+
+594
+00:44:27,960 --> 00:44:38,960
+One thing is sure, those who research and test batteries and those who sell them to us are working hard to keep us all unplugged.
+

@@ -1,0 +1,2764 @@
+1
+00:00:00,001 --> 00:00:03,000
+Prepare for takeoff.
+
+2
+00:00:03,001 --> 00:00:09,000
+Extreme aircraft of all kinds are maneuvering for position in the skies of the 21st century.
+
+3
+00:00:12,000 --> 00:00:15,000
+From a fighter jet straight out of Star Wars,
+
+4
+00:00:15,001 --> 00:00:18,000
+and a supersonic bomber that thinks it's a fighter,
+
+5
+00:00:18,001 --> 00:00:21,000
+to miniature eyes in the skies,
+
+6
+00:00:21,001 --> 00:00:23,000
+personal-sized flying machines,
+
+7
+00:00:23,001 --> 00:00:27,000
+and jumbo jets that would blow away Smokey the Bear.
+
+8
+00:00:27,001 --> 00:00:32,000
+Now, Xtreme Aircraft 2 on Modern Marvels.
+
+9
+00:00:57,000 --> 00:01:02,000
+In Run Station 4 at Lockheed Martin in Fort Worth, Texas,
+
+10
+00:01:02,100 --> 00:01:05,000
+the future of aerial combat is preparing for flight.
+
+11
+00:01:07,980 --> 00:01:13,720
+This is the F-35A, a variant of the F-35 Lightning II,
+
+12
+00:01:13,820 --> 00:01:17,620
+arguably the most extreme fighter jet in the world.
+
+13
+00:01:17,720 --> 00:01:21,660
+With a fully loaded weight capacity of 68,000 pounds
+
+14
+00:01:21,760 --> 00:01:25,300
+and a 35-foot wingspan, the F-35A
+
+15
+00:01:25,301 --> 00:01:32,400
+A-35A is capable of hitting a maximum cruising speed of Mach 1.6.
+
+16
+00:01:32,401 --> 00:01:39,140
+That's fast enough to zip from LA to New York in about two hours.
+
+17
+00:01:39,141 --> 00:01:41,380
+The muscle that powers this supersonic jet
+
+18
+00:01:41,381 --> 00:01:45,540
+is the largest single turbofan ever put in a fighter,
+
+19
+00:01:45,541 --> 00:01:49,000
+the Pratt & Whitney F-135 engine.
+
+20
+00:01:49,001 --> 00:01:50,580
+Back here at the aft end of the airplane,
+
+21
+00:01:50,581 --> 00:01:52,420
+we have the propulsion system.
+
+22
+00:01:52,421 --> 00:01:54,580
+It's a single engine aircraft, one
+
+23
+00:01:54,581 --> 00:01:56,080
+engines in a tactical fighter.
+
+24
+00:01:56,180 --> 00:01:59,720
+This particular engine has 40,000 pounds of thrust.
+
+25
+00:01:59,820 --> 00:02:02,280
+Essentially, in a 50,000-pound class aircraft,
+
+26
+00:02:02,380 --> 00:02:03,680
+it's going to be a pretty snappy performer.
+
+27
+00:02:06,760 --> 00:02:09,420
+To equal the force of the F-135,
+
+28
+00:02:09,520 --> 00:02:12,740
+you'd need the combined power of six top fuel dragsters
+
+29
+00:02:12,840 --> 00:02:18,340
+at 7,000 horsepower each, or the teamwork of 80 big rigs
+
+30
+00:02:18,440 --> 00:02:20,080
+with 500 horsepower engines.
+
+31
+00:02:20,081 --> 00:02:23,420
+engines.
+
+32
+00:02:23,421 --> 00:02:25,880
+The Lightning II also brings Ferrari-like finesse
+
+33
+00:02:25,881 --> 00:02:30,200
+to its afterburner, essentially a system that adds raw fuel
+
+34
+00:02:30,201 --> 00:02:34,500
+to the exhaust for a boost of explosive thrust.
+
+35
+00:02:34,501 --> 00:02:36,500
+The afterburner, unlike previous engines
+
+36
+00:02:36,501 --> 00:02:39,000
+where they stage through various levels of thrust,
+
+37
+00:02:39,001 --> 00:02:42,560
+it's one smooth acceleration.
+
+38
+00:02:42,561 --> 00:02:44,140
+It's just an incredible amount of thrust.
+
+39
+00:02:44,141 --> 00:02:47,000
+It's an incredible rush to put it in the upper left-hand corner
+
+40
+00:02:47,001 --> 00:02:50,080
+and pull back on the stick and let it go.
+
+41
+00:02:50,081 --> 00:02:57,080
+The F-135 engine delivers the bronze, but it's the brains that
+
+42
+00:02:57,081 --> 00:03:01,080
+set this warbird apart. Its onboard computer processor
+
+43
+00:03:01,081 --> 00:03:05,080
+can run more than 1 trillion operations per second.
+
+44
+00:03:05,081 --> 00:03:08,080
+A key feature of the F-35 Lightning II is the integrated
+
+45
+00:03:08,081 --> 00:03:12,080
+sensor suite. It starts up front here, an active,
+
+46
+00:03:12,081 --> 00:03:15,080
+electronically steered-away radar able to simultaneously track
+
+47
+00:03:15,081 --> 00:03:19,080
+air-to-air and air-to-ground threats and engage them.
+
+48
+00:03:19,081 --> 00:03:21,840
+As we move back a little bit, in this bay here,
+
+49
+00:03:21,940 --> 00:03:23,880
+will be an electro-optical sensor
+
+50
+00:03:23,980 --> 00:03:27,320
+able to track and engage targets on the ground
+
+51
+00:03:27,420 --> 00:03:30,720
+as well as in the air using optical means rather than radar.
+
+52
+00:03:30,820 --> 00:03:31,920
+Very, very good for stealth.
+
+53
+00:03:36,640 --> 00:03:39,540
+Prior to flight, every F-35A test pilot
+
+54
+00:03:39,640 --> 00:03:41,840
+puts in long hours on the simulator,
+
+55
+00:03:41,940 --> 00:03:45,740
+learning how to master the computer-integrated cockpit.
+
+56
+00:03:45,840 --> 00:03:47,640
+Some of the things that will really blow you away
+
+57
+00:03:47,641 --> 00:03:51,340
+away. Inside the cockpit, it's almost like having a Windows
+
+58
+00:03:51,341 --> 00:03:57,480
+environment. The cockpit has an 8 by 20 inch panoramic cockpit
+
+59
+00:03:57,481 --> 00:04:04,680
+display, all AM LCD just like your TV at home, touch screen.
+
+60
+00:04:04,681 --> 00:04:08,000
+Despite the user friendly interface, most pilots prefer to
+
+61
+00:04:08,001 --> 00:04:13,340
+keep their eyes on the actual target. For this reason, the F-35A
+
+62
+00:04:13,341 --> 00:04:16,700
+comes with a helmet that would satisfy the pickiest Star Wars
+
+63
+00:04:16,701 --> 00:04:19,700
+fighter pilot.
+
+64
+00:04:19,800 --> 00:04:24,040
+This is the HMD, or helmet-mounted display.
+
+65
+00:04:24,140 --> 00:04:27,580
+When the visor is lowered, the pilot sees the skies,
+
+66
+00:04:27,680 --> 00:04:30,880
+as two electro-optical lenses project graphics directly
+
+67
+00:04:30,980 --> 00:04:33,820
+onto the visor.
+
+68
+00:04:33,920 --> 00:04:35,520
+Flight data and targeting information
+
+69
+00:04:35,620 --> 00:04:38,720
+are literally in your face.
+
+70
+00:04:38,820 --> 00:04:40,760
+No light, bad weather.
+
+71
+00:04:40,860 --> 00:04:43,420
+He can see what others can't, which is very compelling
+
+72
+00:04:43,520 --> 00:04:45,860
+if you're fighting in bad weather or at night.
+
+73
+00:04:45,861 --> 00:04:49,560
+you can fight and see, and the others cannot.
+
+74
+00:04:49,660 --> 00:04:51,800
+The F-35A masterfully integrates
+
+75
+00:04:51,900 --> 00:04:55,440
+the extreme features that define the modern fighter,
+
+76
+00:04:55,540 --> 00:05:00,400
+features pioneered by supersonic jets of the past.
+
+77
+00:05:00,500 --> 00:05:05,880
+Case in point, the Lightning II's modified delta wing.
+
+78
+00:05:05,980 --> 00:05:08,420
+It increases maneuverability because its leading edge
+
+79
+00:05:08,520 --> 00:05:11,680
+remains behind the shockwave generated by the nose
+
+80
+00:05:11,780 --> 00:05:12,780
+at supersonic speeds.
+
+81
+00:05:15,860 --> 00:05:20,000
+In the 1960s, the Soviets were the first to use the tailed
+
+82
+00:05:20,001 --> 00:05:23,600
+delta wing on a supersonic fighter, on their MiG-21.
+
+83
+00:05:26,480 --> 00:05:30,000
+During the Vietnam War, the tailed delta wing enhanced the
+
+84
+00:05:30,001 --> 00:05:33,340
+MiG's maneuverability, helping it level the playing field with
+
+85
+00:05:33,341 --> 00:05:36,080
+the more powerful US F-4 Phantom II.
+
+86
+00:05:38,620 --> 00:05:42,120
+The much larger Phantom carried eight guided missiles, the MiG
+
+87
+00:05:42,121 --> 00:05:43,880
+only two.
+
+88
+00:05:43,881 --> 00:05:46,440
+But like a lethal gnat, the Russian-built jet
+
+89
+00:05:46,441 --> 00:05:49,640
+scored more than 40 air-to-air kills on US Phantoms.
+
+90
+00:05:54,060 --> 00:05:56,540
+It was an American fighter that pioneered another feature
+
+91
+00:05:56,541 --> 00:06:00,720
+that's crucial to the Lightning II's extreme performance,
+
+92
+00:06:00,721 --> 00:06:04,600
+its massive turbofan engine.
+
+93
+00:06:04,601 --> 00:06:07,500
+Until the early 1960s, fighters came equipped
+
+94
+00:06:07,501 --> 00:06:08,720
+with turbojet engines.
+
+95
+00:06:08,721 --> 00:06:14,020
+turbojets inject fuel to ignite compressed air.
+
+96
+00:06:14,021 --> 00:06:18,020
+The resulting combustion drives a turbine that produces thrust.
+
+97
+00:06:18,021 --> 00:06:22,960
+The F-111 Aardvark, unveiled in 1964,
+
+98
+00:06:22,961 --> 00:06:26,180
+was the first fighter with a turbofan engine,
+
+99
+00:06:26,181 --> 00:06:30,680
+a design incorporating an external fan,
+
+100
+00:06:30,681 --> 00:06:34,520
+similar to a propeller, that provides added thrust
+
+101
+00:06:34,521 --> 00:06:36,920
+with airflow that bypasses the jet engine,
+
+102
+00:06:36,921 --> 00:06:42,560
+engine, thus increasing power and fuel efficiency.
+
+103
+00:06:42,561 --> 00:06:47,160
+The thrust of the F-111's two turbofans topped 50,000 pounds,
+
+104
+00:06:47,161 --> 00:06:50,100
+three times the power of the first supersonic fighter,
+
+105
+00:06:50,101 --> 00:06:51,660
+the F-100 Super Sabre.
+
+106
+00:06:55,000 --> 00:06:59,380
+A sheer power like this helps the F-35A dominate the skies.
+
+107
+00:06:59,381 --> 00:07:02,420
+Its low observable profile, or stealth,
+
+108
+00:07:02,421 --> 00:07:05,620
+helps hide it from enemy radar.
+
+109
+00:07:05,621 --> 00:07:09,120
+The first interceptor jet with extreme stealth capabilities
+
+110
+00:07:09,121 --> 00:07:14,380
+was the YF-12, first flown in 1962.
+
+111
+00:07:14,381 --> 00:07:18,180
+It evolved from the same program that spawned the SR-71 Blackbird
+
+112
+00:07:18,181 --> 00:07:20,520
+spy plane.
+
+113
+00:07:20,521 --> 00:07:23,080
+Each plane's wings featured surface angles designed
+
+114
+00:07:23,081 --> 00:07:26,440
+to absorb and reflect radar, which significantly reduced
+
+115
+00:07:26,441 --> 00:07:27,560
+their radar signatures.
+
+116
+00:07:30,660 --> 00:07:33,040
+The Lightning II's classified stealth design
+
+117
+00:07:33,041 --> 00:07:37,780
+to reduce its signature to the size of a golf ball.
+
+118
+00:07:37,880 --> 00:07:40,280
+But stealth design isn't the only asset contained in the
+
+119
+00:07:40,380 --> 00:07:42,480
+Lightning II's airframe.
+
+120
+00:07:42,580 --> 00:07:46,480
+It's also compact, lightweight, and nimble,
+
+121
+00:07:46,580 --> 00:07:51,860
+aerodynamic pluses pioneered in 1976 by the F-16 Fighting
+
+122
+00:07:51,960 --> 00:07:54,500
+Falcon.
+
+123
+00:07:54,600 --> 00:07:58,640
+The Falcon's power, combined with its sleek, small design,
+
+124
+00:07:58,740 --> 00:08:01,140
+changed the physics of aerial combat,
+
+125
+00:08:01,141 --> 00:08:04,640
+enabling pilots to turn more rapidly inside an opponent
+
+126
+00:08:04,740 --> 00:08:06,680
+and lock missiles.
+
+127
+00:08:06,780 --> 00:08:09,640
+The Falcon was the first fighter rated at sustained forces
+
+128
+00:08:09,740 --> 00:08:14,620
+nine times the force of gravity, or 9 Gs, the threshold at which
+
+129
+00:08:14,720 --> 00:08:18,620
+all but the most seasoned pilots would black out.
+
+130
+00:08:18,720 --> 00:08:22,120
+Most jet fighters before the F-16 were rated at only 6 Gs.
+
+131
+00:08:25,160 --> 00:08:28,140
+At 9 Gs, a 200-pound pilot weighs
+
+132
+00:08:28,141 --> 00:08:31,340
+weighs the equivalent of 1,800 pounds.
+
+133
+00:08:31,440 --> 00:08:35,140
+The attributes of the F-16 were simply undeniable.
+
+134
+00:08:35,240 --> 00:08:39,080
+And over a period of time, over 4,000 F-16s were built.
+
+135
+00:08:39,180 --> 00:08:41,080
+And in fact, the type is still in production.
+
+136
+00:08:44,900 --> 00:08:48,500
+A newer jet fighter that began production in 2003,
+
+137
+00:08:48,600 --> 00:08:51,600
+the F-22 Raptor, featured the final element
+
+138
+00:08:51,700 --> 00:08:54,540
+that became an integral part of the Lightning II.
+
+139
+00:08:54,640 --> 00:08:58,140
+The Raptor came equipped with advanced integrated avionics.
+
+140
+00:08:58,141 --> 00:09:01,780
+complex computer software that runs flight controls, weapons,
+
+141
+00:09:02,280 --> 00:09:05,640
+and other onboard systems, freeing the pilot to concentrate
+
+142
+00:09:05,641 --> 00:09:09,180
+on the battle. The combination of the F-22
+
+143
+00:09:09,181 --> 00:09:13,500
+and the F-35 together can tear down the walls of an opponent,
+
+144
+00:09:13,780 --> 00:09:16,300
+open up the sky above them, and then make that opponent more
+
+145
+00:09:16,301 --> 00:09:18,280
+vulnerable to conventional attacks.
+
+146
+00:09:24,040 --> 00:09:27,620
+America's future fighter, the F-35 Lightning II,
+
+147
+00:09:27,621 --> 00:09:31,220
+represents the culmination of 70-plus years of fighter trial
+
+148
+00:09:31,320 --> 00:09:32,020
+and error.
+
+149
+00:09:34,920 --> 00:09:38,060
+In fact, the F-35 is three fighters in one.
+
+150
+00:09:40,660 --> 00:09:43,360
+It was originally called the Joint Strike Fighter
+
+151
+00:09:43,460 --> 00:09:46,080
+because it was designed to jointly serve three branches
+
+152
+00:09:46,180 --> 00:09:46,880
+of the military.
+
+153
+00:09:50,680 --> 00:09:53,580
+Lockheed Martin will deliver the conventional F-35A
+
+154
+00:09:53,680 --> 00:09:54,580
+to the Air Force.
+
+155
+00:09:57,620 --> 00:10:01,520
+The F-35B is a short takeoff and vertical landing fighter
+
+156
+00:10:01,620 --> 00:10:04,960
+designed for the Marine Corps, first demonstrated
+
+157
+00:10:05,060 --> 00:10:09,260
+as the X-35B prototype.
+
+158
+00:10:09,360 --> 00:10:12,860
+The F-35C is an aircraft carrier launch version
+
+159
+00:10:12,960 --> 00:10:15,180
+for the US Navy.
+
+160
+00:10:15,280 --> 00:10:17,880
+We built three variants of this airplane,
+
+161
+00:10:17,980 --> 00:10:19,380
+basically off the same airplane,
+
+162
+00:10:19,480 --> 00:10:21,080
+kind of like the way car industry
+
+163
+00:10:21,180 --> 00:10:24,280
+builds a family of SUVs and pickup trucks
+
+164
+00:10:24,380 --> 00:10:25,380
+off the same chassis.
+
+165
+00:10:27,620 --> 00:10:32,420
+Lockheed Martin's Fort Worth production facility is
+
+166
+00:10:32,520 --> 00:10:37,000
+responsible for crafting all F-35 wings and forward fuselages.
+
+167
+00:10:40,100 --> 00:10:44,000
+The crucial component on the fuselage of the F-35B is the
+
+168
+00:10:44,100 --> 00:10:46,340
+vertical lift fan.
+
+169
+00:10:46,440 --> 00:10:49,500
+And the key to this fifth generation airplane is just
+
+170
+00:10:49,600 --> 00:10:50,740
+above my head.
+
+171
+00:10:50,840 --> 00:10:53,380
+And what this is is the lift fan area.
+
+172
+00:10:53,480 --> 00:10:55,920
+These are the veins that direct the airflow.
+
+173
+00:10:55,921 --> 00:10:58,920
+There's 19,000 pounds of thrust that will come out of this,
+
+174
+00:10:59,020 --> 00:11:00,920
+19,000 pounds in the rear.
+
+175
+00:11:01,020 --> 00:11:02,920
+We have roll posts in the wing.
+
+176
+00:11:03,020 --> 00:11:05,520
+They'll get about 1,900 pounds thrust each.
+
+177
+00:11:05,620 --> 00:11:08,560
+And that allows this to come in for the vertical landing,
+
+178
+00:11:08,660 --> 00:11:11,660
+also the short takeoff.
+
+179
+00:11:11,760 --> 00:11:15,580
+It has doors on top that open up like an old 55 Chevy hood.
+
+180
+00:11:15,680 --> 00:11:17,180
+The lift fan engages.
+
+181
+00:11:17,280 --> 00:11:20,580
+So at 250 knots, the pilot comes in, engages the lift fan,
+
+182
+00:11:20,680 --> 00:11:21,680
+opens the doors.
+
+183
+00:11:21,780 --> 00:11:24,080
+The plane begins to slow down, transitions
+
+184
+00:11:24,081 --> 00:11:27,120
+from airborne, wing-borne flight to jet-borne flight,
+
+185
+00:11:27,220 --> 00:11:29,220
+and can almost, you know, land like a helicopter.
+
+186
+00:11:32,220 --> 00:11:36,160
+The F-35 is a group effort, with the United States
+
+187
+00:11:36,260 --> 00:11:38,020
+joining eight foreign nation partners.
+
+188
+00:11:41,800 --> 00:11:45,960
+The various F-35 versions will have a commonality of parts,
+
+189
+00:11:46,060 --> 00:11:49,080
+making the airframe far less expensive to build and fly
+
+190
+00:11:49,180 --> 00:11:50,580
+than the F-22 Raptor.
+
+191
+00:11:54,080 --> 00:11:58,320
+The F-35 represents the largest aerospace defense program
+
+192
+00:11:58,420 --> 00:12:00,380
+in history.
+
+193
+00:12:00,480 --> 00:12:04,320
+But some say it could be the fighter pilot's last ride.
+
+194
+00:12:04,420 --> 00:12:07,720
+I would propose to this program,
+
+195
+00:12:07,820 --> 00:12:12,400
+as we sit here today, that the F-35 potentially represents
+
+196
+00:12:12,500 --> 00:12:14,800
+the last manned fighter.
+
+197
+00:12:14,900 --> 00:12:18,440
+If it's not the end of the road for the manned fighter,
+
+198
+00:12:18,540 --> 00:12:20,400
+it's getting awfully darn close.
+
+199
+00:12:24,080 --> 00:12:29,060
+Flying state-of-the-art extreme fighters like the F-35 is one way to attack the enemy.
+
+200
+00:12:34,120 --> 00:12:41,820
+Another is to load 25 tons of bombs into an aircraft with the engine power of three F-35s.
+
+201
+00:12:44,880 --> 00:12:51,320
+The F-35 Lightning II is nearly 40% carbon fiber composite by weight,
+
+202
+00:12:51,321 --> 00:12:54,920
+the most of any fighter in history.
+
+203
+00:12:55,020 --> 00:12:58,920
+Extreme Aircraft II will return on Modern Marvels.
+
+204
+00:13:03,460 --> 00:13:07,360
+We now return to Extreme Aircraft II on Modern Marvels.
+
+205
+00:13:07,361 --> 00:13:08,360
+marbles.
+
+206
+00:13:20,100 --> 00:13:23,340
+At Ellsworth Air Force Base in South Dakota,
+
+207
+00:13:23,341 --> 00:13:25,920
+the airmen of the 28th Bomb Wing are gearing up to go
+
+208
+00:13:25,921 --> 00:13:29,620
+supersonic once again.
+
+209
+00:13:29,621 --> 00:13:30,980
+Their mission?
+
+210
+00:13:30,981 --> 00:13:33,020
+Take out a runway and some buildings
+
+211
+00:13:33,021 --> 00:13:34,420
+in southeastern Montana.
+
+212
+00:13:37,360 --> 00:13:39,360
+With orders in hand, they make the commute to the flight
+
+213
+00:13:39,460 --> 00:13:40,160
+line.
+
+214
+00:13:44,060 --> 00:13:46,360
+Their extreme aircraft is a bomber
+
+215
+00:13:46,460 --> 00:13:47,460
+that thinks it's a fighter.
+
+216
+00:13:52,100 --> 00:13:55,120
+It's called the B-1B Lancer.
+
+217
+00:13:55,220 --> 00:13:58,920
+The men call it the bone.
+
+218
+00:13:59,020 --> 00:14:04,960
+The B-1B bomber is 146 feet long, weighs approximately 440,000
+
+219
+00:14:04,961 --> 00:14:09,500
+pounds fully loaded and can reach supersonic speeds of Mach 1.2.
+
+220
+00:14:14,740 --> 00:14:20,160
+The four General Electric turbofan engines produce 30,000 pounds of thrust each,
+
+221
+00:14:21,920 --> 00:14:27,100
+meaning the B-1 is powered by the equivalent of three F-35 fighter engines.
+
+222
+00:14:28,820 --> 00:14:30,960
+The B-1 is a great aircraft to flight.
+
+223
+00:14:34,960 --> 00:14:39,400
+We have the speed and the capability to make hard turns.
+
+224
+00:14:39,500 --> 00:14:42,200
+Transition from high altitude to low altitude very quickly
+
+225
+00:14:42,300 --> 00:14:43,200
+in a dive.
+
+226
+00:14:43,300 --> 00:14:46,200
+We have the speed and the legs to really just kind of turn
+
+227
+00:14:46,300 --> 00:14:47,100
+and burn.
+
+228
+00:14:52,220 --> 00:14:54,720
+One hour into the mission, the crew's target
+
+229
+00:14:54,820 --> 00:14:57,320
+is within striking distance.
+
+230
+00:14:57,420 --> 00:15:00,620
+In the aft compartment, the offensive systems officer
+
+231
+00:15:00,720 --> 00:15:04,960
+prepares to unleash the bomber's fearsome payload.
+
+232
+00:15:04,961 --> 00:15:07,860
+A sensitive radar with ground-moving target tracking
+
+233
+00:15:07,960 --> 00:15:10,860
+helps pinpoint the target for destruction.
+
+234
+00:15:10,960 --> 00:15:13,760
+What we're looking at, you got a road running basically
+
+235
+00:15:13,860 --> 00:15:14,860
+north-south.
+
+236
+00:15:14,960 --> 00:15:16,100
+You got your runway here.
+
+237
+00:15:16,200 --> 00:15:17,300
+And these bright returns right there
+
+238
+00:15:17,400 --> 00:15:19,400
+are the buildings that we'll be striking today.
+
+239
+00:15:22,220 --> 00:15:25,220
+Right here, it's telling me I got 56 seconds to release.
+
+240
+00:15:25,320 --> 00:15:27,620
+And I got three 2,000-pound weapons coming out
+
+241
+00:15:27,720 --> 00:15:28,620
+on those buildings.
+
+242
+00:15:28,621 --> 00:15:35,620
+Doors, board and app coming open.
+
+243
+00:15:35,720 --> 00:15:38,460
+Right here, you can see the picture of the doors open.
+
+244
+00:15:38,560 --> 00:15:42,460
+One away, two away, three, three away.
+
+245
+00:15:42,560 --> 00:15:44,060
+Doors coming closed.
+
+246
+00:15:44,160 --> 00:15:48,480
+System safe, clear to maneuver.
+
+247
+00:15:48,580 --> 00:15:52,280
+In this training mission over the farm fields of Montana,
+
+248
+00:15:52,380 --> 00:15:53,680
+the bombs are simulations.
+
+249
+00:15:58,620 --> 00:16:03,320
+But another day, this same crew may repeat this methodical and
+
+250
+00:16:03,321 --> 00:16:10,360
+deadly process for real. If that happens, the B-1B will
+
+251
+00:16:10,361 --> 00:16:16,300
+bring an overwhelming payload to the battle.
+
+252
+00:16:16,301 --> 00:16:21,040
+Its three massive bomb bays carry a flexible arsenal.
+
+253
+00:16:21,041 --> 00:16:25,320
+This includes smart weapons, bombs and guided missiles that
+
+254
+00:16:25,321 --> 00:16:28,080
+use global positioning data to precisely destroy targets.
+
+255
+00:16:32,960 --> 00:16:34,820
+Over the Middle East, the crews often
+
+256
+00:16:34,821 --> 00:16:37,060
+deploy guided bombs, called JDAMs.
+
+257
+00:16:39,760 --> 00:16:42,940
+Standing behind me here is the 180-inch rotary launcher,
+
+258
+00:16:42,941 --> 00:16:46,200
+which is carrying the 2,000-pound joint direct attack
+
+259
+00:16:46,201 --> 00:16:47,180
+munition.
+
+260
+00:16:47,181 --> 00:16:50,520
+And each bomber holds three per bay,
+
+261
+00:16:50,521 --> 00:16:54,420
+which is a total of 24 GPS-guided munitions.
+
+262
+00:16:54,421 --> 00:16:58,260
+A single B-1B carries a weapons payload eight times heavier
+
+263
+00:16:58,261 --> 00:17:03,120
+than that carried by a B-17 during World War II.
+
+264
+00:17:03,121 --> 00:17:06,860
+And like fast food customers, the Bones weapons officers
+
+265
+00:17:06,861 --> 00:17:08,760
+can have it their way.
+
+266
+00:17:08,761 --> 00:17:10,300
+It can be almost like a Burger King.
+
+267
+00:17:10,301 --> 00:17:12,880
+You know, I'll take a 500 pounder with an instantaneous fuse.
+
+268
+00:17:12,881 --> 00:17:16,200
+Please give me a 20, a 2,000 pounder with a 25 millisecond
+
+269
+00:17:16,201 --> 00:17:16,940
+fuse.
+
+270
+00:17:16,941 --> 00:17:19,520
+And while you're at it, can you send me a burger and fries?
+
+271
+00:17:19,521 --> 00:17:24,120
+The B-1B continues to share mission duties
+
+272
+00:17:24,220 --> 00:17:30,360
+with a relic of the Cold War, the B-52 bomber.
+
+273
+00:17:30,460 --> 00:17:34,960
+They both carry a weapons payload in excess of 25 tons.
+
+274
+00:17:35,060 --> 00:17:37,280
+But that's where the similarities end.
+
+275
+00:17:37,380 --> 00:17:40,880
+I like to describe them like cars.
+
+276
+00:17:40,980 --> 00:17:45,480
+Your B-52 is like your grandfather's pickup truck.
+
+277
+00:17:45,580 --> 00:17:48,480
+It's old, it's reliable, and it carries just about anything
+
+278
+00:17:48,481 --> 00:17:50,720
+just about anything you can imagine to carry.
+
+279
+00:17:50,820 --> 00:17:57,080
+The B-1 is the muscle car of the bomber force.
+
+280
+00:17:57,180 --> 00:17:58,920
+It has power, it has speed, and it
+
+281
+00:17:59,020 --> 00:18:00,820
+has a huge payload capability.
+
+282
+00:18:04,520 --> 00:18:07,040
+The B-1B can trace its muscle car beginnings
+
+283
+00:18:07,140 --> 00:18:11,440
+to the early 1970s.
+
+284
+00:18:11,540 --> 00:18:14,680
+The Air Force wanted to replace its aging B-52s
+
+285
+00:18:14,780 --> 00:18:17,580
+with supersonic bombers that could quickly penetrate
+
+286
+00:18:17,581 --> 00:18:22,920
+airspace with their nuclear arsenal.
+
+287
+00:18:23,020 --> 00:18:25,220
+But since many politicians believed America's
+
+288
+00:18:25,320 --> 00:18:28,320
+intercontinental ballistic missile program was a sufficient
+
+289
+00:18:28,420 --> 00:18:30,800
+deterrent to the Soviets, they were
+
+290
+00:18:30,900 --> 00:18:33,500
+convinced the proposed B-1A bomber
+
+291
+00:18:33,600 --> 00:18:36,560
+was a colossal waste of money.
+
+292
+00:18:36,660 --> 00:18:38,560
+So the Air Force basically found
+
+293
+00:18:38,660 --> 00:18:40,440
+itself in a very difficult position trying
+
+294
+00:18:40,540 --> 00:18:43,540
+to sell this new heavy bomber, and I might mention very
+
+295
+00:18:43,640 --> 00:18:45,880
+expensive heavy bomber, to Congress.
+
+296
+00:18:45,881 --> 00:18:49,380
+But over a period of time, they did succeed.
+
+297
+00:18:49,480 --> 00:18:55,320
+The B-1A bomber prototypes could fly at Mach 2.2.
+
+298
+00:18:55,420 --> 00:18:57,920
+But even at twice the speed of sound,
+
+299
+00:18:58,020 --> 00:19:00,600
+they couldn't outrun numerous mechanical problems
+
+300
+00:19:00,700 --> 00:19:02,460
+and caused overruns.
+
+301
+00:19:02,560 --> 00:19:04,040
+And so the Cotter administration,
+
+302
+00:19:04,140 --> 00:19:08,340
+looking around to make cuts, decided to cut back on the B-1A.
+
+303
+00:19:08,440 --> 00:19:10,540
+And so the B-1A went away.
+
+304
+00:19:10,640 --> 00:19:14,240
+Now, what people recognize is that the B-1A was really
+
+305
+00:19:14,241 --> 00:19:16,000
+was really too good to go away.
+
+306
+00:19:16,001 --> 00:19:18,440
+I, Ronald Reagan, do solemnly swear.
+
+307
+00:19:18,441 --> 00:19:22,240
+In 1981, when Ronald Reagan assumed the presidency,
+
+308
+00:19:22,241 --> 00:19:24,240
+he immediately vowed to restore the punch
+
+309
+00:19:24,241 --> 00:19:25,280
+to the US military.
+
+310
+00:19:28,320 --> 00:19:32,920
+That included reviving the B-1 program.
+
+311
+00:19:32,921 --> 00:19:36,200
+Renamed the B-1B, a single bomber
+
+312
+00:19:36,201 --> 00:19:40,840
+could deliver a payload of 24 B-61 nuclear bombs
+
+313
+00:19:40,841 --> 00:19:43,960
+with a destructive capacity nearly 500 times
+
+314
+00:19:43,961 --> 00:19:45,360
+that of the Hiroshima blast.
+
+315
+00:19:49,700 --> 00:19:52,800
+But when the new bomber entered service in the late 1980s,
+
+316
+00:19:53,200 --> 00:19:55,000
+it faced a sudden identity crisis.
+
+317
+00:19:55,900 --> 00:19:57,620
+Well, as time has passed, and of course,
+
+318
+00:19:57,680 --> 00:19:59,480
+the Soviet threat has collapsed, you know,
+
+319
+00:19:59,540 --> 00:20:01,960
+effectively the Air Force was faced with a dilemma,
+
+320
+00:20:02,060 --> 00:20:03,520
+what do we do with the B-1 bomber?
+
+321
+00:20:05,500 --> 00:20:08,720
+Since America no longer needed a long-range nuclear bomber,
+
+322
+00:20:09,360 --> 00:20:12,940
+in the late 1990s, the Air Force began upgrading the B-1B
+
+323
+00:20:12,941 --> 00:20:14,340
+to carry conventional weapons.
+
+324
+00:20:19,840 --> 00:20:22,340
+Over the past decade, the retooled B-1B
+
+325
+00:20:22,341 --> 00:20:24,880
+has become a workhorse of the US bomber fleet.
+
+326
+00:20:27,680 --> 00:20:30,900
+In six years of operations over Afghanistan,
+
+327
+00:20:30,901 --> 00:20:36,060
+and later in Iraq, B-1Bs have flown more than 2,200 sorties
+
+328
+00:20:36,061 --> 00:20:41,300
+and dropped more than 7,400 bombs, far surpassing the B-52
+
+329
+00:20:41,301 --> 00:20:42,800
+and the B-2 stealth bombers.
+
+330
+00:20:48,100 --> 00:20:49,940
+But the B-1B's greatest weapon may
+
+331
+00:20:49,941 --> 00:20:53,880
+be its extreme agility, meaning the crews can sometimes
+
+332
+00:20:53,881 --> 00:20:56,540
+avoid using bombs and still make a major impact
+
+333
+00:20:56,541 --> 00:20:57,780
+on hostile forces below.
+
+334
+00:21:01,120 --> 00:21:03,760
+They sometimes buzz the enemy by streaking
+
+335
+00:21:03,761 --> 00:21:08,700
+at supersonic speeds as low as 200 feet off the ground.
+
+336
+00:21:08,701 --> 00:21:11,000
+The sonic effect of the B-1B engines
+
+337
+00:21:11,001 --> 00:21:15,300
+on the human ear is similar to a large conventional bomb blast.
+
+338
+00:21:19,100 --> 00:21:21,560
+The key to this highly dangerous flight path
+
+339
+00:21:21,561 --> 00:21:22,860
+is the bomber's autopilot.
+
+340
+00:21:23,540 --> 00:21:27,220
+It employs a system called TF, or terrain following.
+
+341
+00:21:29,040 --> 00:21:32,000
+When TF is engaged, the aircraft's radar
+
+342
+00:21:32,001 --> 00:21:35,660
+scans forward up to 10 miles to create a map of the terrain.
+
+343
+00:21:36,740 --> 00:21:39,600
+The plane uses the map to skim above the contours
+
+344
+00:21:39,601 --> 00:21:43,600
+of the terrain without input from the pilot.
+
+345
+00:21:43,700 --> 00:21:46,600
+Crews often use this low-level ground-hugging feature
+
+346
+00:21:46,700 --> 00:21:49,140
+to awesome effect.
+
+347
+00:21:49,240 --> 00:21:52,140
+Well, a show of force is really just to say, we're here.
+
+348
+00:21:52,240 --> 00:21:54,740
+And a lot of times, you can disperse the enemy
+
+349
+00:21:54,840 --> 00:21:57,460
+or scare them into hiding and run them off
+
+350
+00:21:57,560 --> 00:22:01,160
+before we have to use any kinetic tools like a weapon.
+
+351
+00:22:06,160 --> 00:22:08,360
+Collateral damage is very, very important to us.
+
+352
+00:22:08,361 --> 00:22:12,560
+and we minimize that to the maximum extent.
+
+353
+00:22:12,660 --> 00:22:14,660
+Whether it's a show force sortie
+
+354
+00:22:14,760 --> 00:22:18,700
+or a tactical bomb strike, the B-1B pushes the limits
+
+355
+00:22:18,800 --> 00:22:22,000
+of what a bomber can accomplish.
+
+356
+00:22:22,100 --> 00:22:23,700
+Its capabilities make it extreme.
+
+357
+00:22:23,800 --> 00:22:25,020
+The power makes it extreme.
+
+358
+00:22:25,120 --> 00:22:27,220
+Its flexibility makes it extreme.
+
+359
+00:22:27,320 --> 00:22:29,220
+And if I were an enemy of the United States,
+
+360
+00:22:29,320 --> 00:22:31,520
+the last thing I'd want to see is a B-1 coming at me.
+
+361
+00:22:38,360 --> 00:22:43,360
+Extreme aircraft of another class can't deliver weapons
+
+362
+00:22:43,460 --> 00:22:47,900
+or fly supersonic, but their tiny camera lenses
+
+363
+00:22:48,000 --> 00:22:51,700
+can create as much havoc as the largest bomb blast.
+
+364
+00:22:55,780 --> 00:22:59,420
+Because of its sleek profile, the radar cross-section
+
+365
+00:22:59,520 --> 00:23:03,060
+of a B-1B bomber is 100 times smaller
+
+366
+00:23:03,160 --> 00:23:05,860
+than that of the B-52.
+
+367
+00:23:05,861 --> 00:23:09,800
+Extreme Aircraft II will return on Modern Marvels.
+
+368
+00:23:14,400 --> 00:23:18,800
+We now return to Extreme Aircraft II on Modern Marvels.
+
+369
+00:23:30,120 --> 00:23:33,820
+In the not-so-distant past, a single foot soldier
+
+370
+00:23:33,821 --> 00:23:37,060
+had severely limited line of sight capabilities
+
+371
+00:23:37,160 --> 00:23:40,820
+when scouting enemy positions.
+
+372
+00:23:40,920 --> 00:23:44,460
+But with the help of a new class of extreme aircraft,
+
+373
+00:23:44,560 --> 00:23:47,460
+one infantryman can have an eye in the sky that
+
+374
+00:23:47,560 --> 00:23:50,060
+could help him take down a well-entrenched foe.
+
+375
+00:23:54,180 --> 00:23:57,880
+Say cheese for the Batcam.
+
+376
+00:23:57,980 --> 00:24:01,480
+It's a battery-powered micro-air vehicle, or MAMP.
+
+377
+00:24:03,820 --> 00:24:06,820
+with built-in video cameras that offer a bird's eye view of
+
+378
+00:24:06,920 --> 00:24:09,120
+anything within a range of 9 miles.
+
+379
+00:24:13,120 --> 00:24:17,060
+Its carbon fiber body is extremely lightweight,
+
+380
+00:24:17,160 --> 00:24:19,560
+and it can be assembled and launched in seconds.
+
+381
+00:24:22,380 --> 00:24:26,780
+The Batcam weighs in at a minuscule 8 tenths of a pound.
+
+382
+00:24:26,880 --> 00:24:29,820
+Its wingspan is 20 inches, and max airspeed
+
+383
+00:24:29,920 --> 00:24:33,820
+is approximately 51 miles per hour.
+
+384
+00:24:33,821 --> 00:24:38,820
+A rugged notebook computer sends commands to the Mav
+
+385
+00:24:38,821 --> 00:24:41,820
+and displays real-time video.
+
+386
+00:24:45,820 --> 00:24:48,820
+The operator flies the drone remotely
+
+387
+00:24:48,821 --> 00:24:50,820
+or commands it to fly autonomously
+
+388
+00:24:50,821 --> 00:24:53,820
+to pre-programmed coordinates.
+
+389
+00:24:53,821 --> 00:24:55,820
+It's a saying in the military,
+
+390
+00:24:55,821 --> 00:24:58,820
+if you can't see it, you can't control it.
+
+391
+00:24:58,821 --> 00:25:02,820
+And military operations is about controlling areas
+
+392
+00:25:02,821 --> 00:25:08,820
+for the most effective type of results.
+
+393
+00:25:08,920 --> 00:25:10,820
+Rapid advances in miniaturization
+
+394
+00:25:10,920 --> 00:25:13,660
+have enabled designers to produce an advanced generation
+
+395
+00:25:13,760 --> 00:25:17,960
+of drones as extreme as they are tiny.
+
+396
+00:25:18,060 --> 00:25:19,840
+One of the primary challenges was
+
+397
+00:25:19,940 --> 00:25:22,100
+to be able to find cameras that were small enough
+
+398
+00:25:22,200 --> 00:25:24,580
+to be placed on the vehicle.
+
+399
+00:25:24,680 --> 00:25:27,080
+So they had to be very small, plus they had to be very light.
+
+400
+00:25:27,180 --> 00:25:30,340
+Our vehicles weigh on the order of grams,
+
+401
+00:25:30,440 --> 00:25:32,820
+not in terms of pounds.
+
+402
+00:25:32,821 --> 00:25:39,060
+One military contractor, Applied Research Associates, evolved the
+
+403
+00:25:39,061 --> 00:25:43,060
+Batcam concept into an even more extreme microaircraft.
+
+404
+00:25:43,061 --> 00:25:49,680
+We call this the Nighthawk. This aircraft is an improvement from
+
+405
+00:25:49,681 --> 00:25:53,080
+our other aircraft. It has longer flight duration capability.
+
+406
+00:25:53,081 --> 00:25:57,380
+It has an improved GPS. The update rate is higher, more
+
+407
+00:25:57,381 --> 00:25:58,380
+sensitive.
+
+408
+00:26:02,820 --> 00:26:07,020
+Along with improved range and higher resolution video cameras,
+
+409
+00:26:07,120 --> 00:26:11,560
+the Nighthawk has a built-in thermal camera.
+
+410
+00:26:11,660 --> 00:26:14,760
+The imager can detect heat signatures from personnel
+
+411
+00:26:14,860 --> 00:26:17,260
+or vehicle engines.
+
+412
+00:26:17,360 --> 00:26:21,380
+But the camera's added weight demands a super light airframe.
+
+413
+00:26:21,480 --> 00:26:23,580
+The structural shell of the Nighthawk
+
+414
+00:26:23,680 --> 00:26:25,780
+is made from carbon fiber epoxy.
+
+415
+00:26:25,880 --> 00:26:29,580
+The fuselage, for instance, is made from a single piece,
+
+416
+00:26:29,680 --> 00:26:31,680
+which makes it very rigid and durable.
+
+417
+00:26:31,681 --> 00:26:35,680
+We have a tail that is assembled on the aircraft,
+
+418
+00:26:35,780 --> 00:26:39,680
+and it has built-in hinges for the control surfaces.
+
+419
+00:26:39,780 --> 00:26:44,420
+And really, the enabling technology is the wing.
+
+420
+00:26:44,520 --> 00:26:46,520
+The wing is also carbon fiber.
+
+421
+00:26:46,620 --> 00:26:50,240
+It has ripstop nylon to enable it to be very flexible
+
+422
+00:26:50,340 --> 00:26:52,340
+so it can roll up and store.
+
+423
+00:26:56,240 --> 00:26:59,040
+In ongoing military operations,
+
+424
+00:26:59,041 --> 00:27:02,140
+U.S. forces are deploying a swarm of extreme lightweight
+
+425
+00:27:02,240 --> 00:27:09,080
+aircraft, like the WASP, used by the Air Force, the Cyber Bug,
+
+426
+00:27:09,180 --> 00:27:14,580
+preferred by the U.S. Navy, and the Raven, an all-around
+
+427
+00:27:14,680 --> 00:27:17,500
+performer deployed by the U.S. Army and the Marines.
+
+428
+00:27:20,200 --> 00:27:23,000
+Scientists at the Air Force Research Lab at Eglin Air Force
+
+429
+00:27:23,100 --> 00:27:27,800
+Base in Florida are birdwatching for new inspiration.
+
+430
+00:27:27,801 --> 00:27:31,800
+We call this biomimetic or bio-inspired systems.
+
+431
+00:27:31,900 --> 00:27:33,440
+And one can look at an eagle.
+
+432
+00:27:33,540 --> 00:27:35,140
+One can look at a conventional bird.
+
+433
+00:27:35,240 --> 00:27:36,800
+One can look at a bat.
+
+434
+00:27:36,900 --> 00:27:39,440
+At Oxford University in the UK,
+
+435
+00:27:39,540 --> 00:27:43,040
+researchers mounted video cameras onto birds of prey
+
+436
+00:27:43,140 --> 00:27:45,660
+in order to study their complex wing motions in flight.
+
+437
+00:27:50,460 --> 00:27:53,100
+One prototype built by University of Arizona
+
+438
+00:27:53,200 --> 00:27:55,800
+researchers takes the flapping wing concept
+
+439
+00:27:55,801 --> 00:28:03,300
+into the nanosphere. The ornithopter weighs a paltry
+
+440
+00:28:03,301 --> 00:28:07,880
+one-third of an ounce. It has a five-inch wingspan and mylar
+
+441
+00:28:07,881 --> 00:28:11,880
+membrane wings and a maximum flight time of three minutes.
+
+442
+00:28:14,920 --> 00:28:18,280
+Scientists hope one day to deploy bird-like mavs in urban
+
+443
+00:28:18,281 --> 00:28:23,320
+areas with gusty, unpredictable wind patterns.
+
+444
+00:28:23,321 --> 00:28:28,060
+But why flap when you can blast off?
+
+445
+00:28:28,160 --> 00:28:31,800
+Though it looks like an Imperial probe droid from Star Wars,
+
+446
+00:28:31,900 --> 00:28:33,960
+this MAV by the Honeywell Corporation
+
+447
+00:28:34,060 --> 00:28:35,960
+is a true hover and stare drone.
+
+448
+00:28:39,100 --> 00:28:42,440
+With a maximum altitude of 10,500 feet,
+
+449
+00:28:42,540 --> 00:28:45,600
+it uses a fan propulsion system to hover and record
+
+450
+00:28:45,700 --> 00:28:48,040
+more stable images than a fixed wing MAV.
+
+451
+00:28:50,240 --> 00:28:53,080
+Its only limitation, with a fixed wing
+
+452
+00:28:53,081 --> 00:28:57,080
+With a 2.2 pound fuel supply, range is restricted to about
+
+453
+00:28:57,180 --> 00:28:57,980
+six miles.
+
+454
+00:29:01,880 --> 00:29:05,420
+A company called Light Machines is refining its vision of an
+
+455
+00:29:05,520 --> 00:29:08,620
+urban reconnaissance nav.
+
+456
+00:29:08,720 --> 00:29:13,240
+It uses counter-rotating blades to hover, and it's aptly
+
+457
+00:29:13,340 --> 00:29:14,540
+called voyeur.
+
+458
+00:29:20,480 --> 00:29:22,780
+This animation shows that the voyeur system can
+
+459
+00:29:22,781 --> 00:29:27,360
+forward of the other troops, provide the reconnaissance
+
+460
+00:29:27,460 --> 00:29:31,180
+in a urban environment in order that they can detect potential
+
+461
+00:29:31,280 --> 00:29:34,520
+threats and potential targets and relay that information
+
+462
+00:29:34,620 --> 00:29:38,000
+back to the convoy before it enters the city.
+
+463
+00:29:45,100 --> 00:29:48,540
+For soldiers in the field, this new army of micro air vehicles
+
+464
+00:29:48,640 --> 00:29:52,780
+is a quick way to gain the upper hand in a fight.
+
+465
+00:29:52,781 --> 00:29:55,580
+But one day, these drones could become even more lethal.
+
+466
+00:29:58,420 --> 00:30:01,220
+Potentially, in the future, we can even use these
+
+467
+00:30:01,320 --> 00:30:03,920
+as a system to attack targets.
+
+468
+00:30:15,140 --> 00:30:18,540
+It doesn't have to be as small as a Batcam or as large
+
+469
+00:30:18,640 --> 00:30:22,780
+as a B-1 bomber to be an extreme aircraft.
+
+470
+00:30:22,781 --> 00:30:26,620
+How about air vehicles that could make runways obsolete?
+
+471
+00:30:33,820 --> 00:30:38,020
+In the 1970s, the CIA built a scale replica of a dragonfly
+
+472
+00:30:38,021 --> 00:30:41,800
+called Insectothopter, a remote-controlled micro-air
+
+473
+00:30:41,801 --> 00:30:45,940
+vehicle intended to deliver a listening device.
+
+474
+00:30:45,941 --> 00:30:50,540
+An inability to maneuver in air currents doomed it to failure.
+
+475
+00:30:50,541 --> 00:30:54,040
+Xtreme Aircraft II will return on Modern Marvels.
+
+476
+00:30:58,780 --> 00:31:02,880
+Now we turn to Xtreme Aircraft II on Modern Marvels.
+
+477
+00:31:15,840 --> 00:31:18,300
+For millions of American motorists,
+
+478
+00:31:18,301 --> 00:31:21,300
+the daily commute looks and sounds like this.
+
+479
+00:31:25,740 --> 00:31:28,740
+And the gridlock is predicted to worsen in the coming decades.
+
+480
+00:31:32,840 --> 00:31:35,360
+If a growing community of aviation professionals
+
+481
+00:31:35,460 --> 00:31:37,860
+gets their way, the daily commute
+
+482
+00:31:37,960 --> 00:31:39,260
+could look more like this.
+
+483
+00:31:41,860 --> 00:31:45,660
+These aerial automobiles are known as personal air vehicles,
+
+484
+00:31:45,661 --> 00:31:51,260
+or PAVs, and many hope that one day they will fill the skies.
+
+485
+00:31:51,360 --> 00:31:53,860
+Personal air vehicle is really just what it says,
+
+486
+00:31:53,960 --> 00:31:55,260
+personal air vehicle.
+
+487
+00:31:55,360 --> 00:31:58,500
+So you are in control of where you go.
+
+488
+00:31:58,600 --> 00:32:02,100
+And it's designed to be super simple, very reliable,
+
+489
+00:32:02,200 --> 00:32:04,620
+so that grandmom and granddaddy will feel comfortable about
+
+490
+00:32:04,720 --> 00:32:08,420
+getting in an airplane and flying 50 miles or 100 miles
+
+491
+00:32:08,520 --> 00:32:10,160
+to go see their grandchildren, you know,
+
+492
+00:32:10,260 --> 00:32:11,960
+about like they would feel like getting in a car
+
+493
+00:32:12,060 --> 00:32:15,120
+and driving across town.
+
+494
+00:32:15,121 --> 00:32:18,960
+Today, the holy grail of personal air travel is vertical takeoff
+
+495
+00:32:19,060 --> 00:32:22,660
+and landing, a flight mode that could make runways obsolete.
+
+496
+00:32:26,560 --> 00:32:29,560
+Carter Aviation in Wichita Falls, Texas,
+
+497
+00:32:29,660 --> 00:32:33,080
+dreams in the here and now.
+
+498
+00:32:33,180 --> 00:32:36,180
+Its vision is the first practical vertical takeoff PAV.
+
+499
+00:32:38,980 --> 00:32:42,780
+The original Carter Copter prototype first flew in 1998.
+
+500
+00:32:45,120 --> 00:32:49,860
+It combines the best of helicopter and airplane,
+
+501
+00:32:49,960 --> 00:32:53,060
+using a rotor for takeoff and landings,
+
+502
+00:32:53,160 --> 00:32:55,760
+and then transitioning to high-speed fixed wing flight.
+
+503
+00:32:59,560 --> 00:33:03,040
+The Carter Copter's wingspan is 32 feet,
+
+504
+00:33:03,140 --> 00:33:05,980
+and its rotor length is 45 feet.
+
+505
+00:33:06,080 --> 00:33:10,080
+Max airspeed is 173 miles per hour.
+
+506
+00:33:10,180 --> 00:33:11,580
+We think this aircraft that we've
+
+507
+00:33:11,680 --> 00:33:14,880
+got with the rotor on top, which is always spinning,
+
+508
+00:33:14,881 --> 00:33:16,280
+really acts like a parachute.
+
+509
+00:33:16,580 --> 00:33:18,120
+So even if you lose an engine,
+
+510
+00:33:18,320 --> 00:33:20,980
+even if you're 10 feet off the ground or 50 feet or whatever,
+
+511
+00:33:21,280 --> 00:33:24,000
+you've got a built-in parachute that's going to bring you down
+
+512
+00:33:24,001 --> 00:33:25,840
+and land safely and softly.
+
+513
+00:33:28,600 --> 00:33:32,740
+The Carter Copter is a so-called slowed rotor compound design.
+
+514
+00:33:33,460 --> 00:33:36,780
+The large composite rotor blade has heavily weighted tips,
+
+515
+00:33:37,200 --> 00:33:39,000
+whose pitch is controlled by the pilot.
+
+516
+00:33:40,060 --> 00:33:43,340
+On takeoff, the rotor is spun at high speed.
+
+517
+00:33:43,341 --> 00:33:46,140
+Then the pilot increases the pitch.
+
+518
+00:33:47,600 --> 00:33:50,420
+The rotor's inertia quickly lifts the aircraft off the ground.
+
+519
+00:33:51,740 --> 00:33:53,940
+To make the transition to fixed wing flight,
+
+520
+00:33:54,600 --> 00:33:57,600
+a pusher propeller engages as the rotor slows
+
+521
+00:33:57,601 --> 00:33:59,540
+and uses the wind stream to keep it turning,
+
+522
+00:34:00,160 --> 00:34:01,640
+decreasing the drag on the aircraft.
+
+523
+00:34:05,040 --> 00:34:08,460
+For decades, aviation buffs dreamt of the flying car.
+
+524
+00:34:08,461 --> 00:34:14,600
+In 1945, Robert Fulton Jr. took flight in his Air Fibian,
+
+525
+00:34:15,380 --> 00:34:18,040
+the first certified roadable aircraft,
+
+526
+00:34:18,580 --> 00:34:21,820
+meaning it could both fly and operate legally as an automobile.
+
+527
+00:34:22,640 --> 00:34:25,460
+The vehicle could hit a top speed of 55 on the ground
+
+528
+00:34:25,461 --> 00:34:27,560
+and 110 in the air.
+
+529
+00:34:28,980 --> 00:34:32,340
+But the most famous winged automobile was the AeroCar,
+
+530
+00:34:32,940 --> 00:34:35,980
+first built by Moulton Taylor in 1949.
+
+531
+00:34:38,460 --> 00:34:41,460
+Taylor built three versions of the aircraft,
+
+532
+00:34:41,560 --> 00:34:45,460
+with the third reaching a flight speed of 135 miles per hour.
+
+533
+00:34:48,700 --> 00:34:50,700
+So what's our status here on this right here?
+
+534
+00:34:50,800 --> 00:34:52,300
+This has been given heavy.
+
+535
+00:34:52,400 --> 00:34:54,700
+Jay Carter has already begun construction
+
+536
+00:34:54,800 --> 00:34:57,220
+on a four-seater version of his aircraft,
+
+537
+00:34:57,320 --> 00:35:00,220
+known as the Foreplace.
+
+538
+00:35:00,320 --> 00:35:04,220
+A super lightweight, rigid body is crucial to its success.
+
+539
+00:35:04,320 --> 00:35:07,920
+This is the fuselage for our Foreplace Personal Airbus.
+
+540
+00:35:07,921 --> 00:35:10,420
+It's actually made in two parts that come apart.
+
+541
+00:35:10,421 --> 00:35:12,920
+And I'll show you here how we pull this apart.
+
+542
+00:35:15,920 --> 00:35:17,920
+The aircraft itself is actually completed.
+
+543
+00:35:17,921 --> 00:35:21,920
+The inside of the fuselage is actually this part right here,
+
+544
+00:35:21,921 --> 00:35:23,920
+inside of the mold.
+
+545
+00:35:23,921 --> 00:35:26,920
+And it's actually made in a composite construction.
+
+546
+00:35:26,921 --> 00:35:30,920
+And it's basically a layer of honeycomb with one layer of carbon
+
+547
+00:35:30,921 --> 00:35:31,920
+on either side of it.
+
+548
+00:35:31,921 --> 00:35:34,920
+And it makes for an extremely strong, lightweight structure.
+
+549
+00:35:34,921 --> 00:35:38,663
+lightweight structure. In fact, this is what the honeycomb looks like.
+
+550
+00:35:38,664 --> 00:35:40,000
+It's just paper honeycomb
+
+551
+00:35:40,001 --> 00:35:44,163
+impregnated with resin. This is what the carbon fiber looks like.
+
+552
+00:35:44,164 --> 00:35:46,020
+It's only 10,000-some-an-inch
+
+553
+00:35:46,021 --> 00:35:48,152
+thick, just a little bit thicker than your hair.
+
+554
+00:35:48,153 --> 00:35:50,240
+Once you impregnate that with resin and bond it
+
+555
+00:35:50,241 --> 00:35:54,720
+on, now you've got a structure where this right here is lighter than aluminum and stronger than
+
+556
+00:35:54,721 --> 00:35:58,694
+steel. Extremely efficient way to build an aircraft.
+
+557
+00:35:58,695 --> 00:36:01,140
+But Carter's slowed rotor design
+
+558
+00:36:01,141 --> 00:36:03,600
+It certainly isn't the only way for a winged aircraft
+
+559
+00:36:03,601 --> 00:36:05,740
+to achieve vertical liftoff.
+
+560
+00:36:05,741 --> 00:36:11,160
+In 2005, the US Marines began flying the V-22 Osprey,
+
+561
+00:36:11,161 --> 00:36:12,980
+an aircraft that can quickly ferry troops
+
+562
+00:36:12,981 --> 00:36:14,320
+to pinpoint locations.
+
+563
+00:36:18,800 --> 00:36:21,820
+The Osprey is a tilt rotor, meaning its propellers
+
+564
+00:36:21,821 --> 00:36:24,180
+engage downward for helicopter-like thrust
+
+565
+00:36:24,181 --> 00:36:27,840
+during takeoff and then rotate forward
+
+566
+00:36:27,841 --> 00:36:30,340
+to become turboprops.
+
+567
+00:36:30,341 --> 00:36:32,000
+like a standard prop-driven aircraft.
+
+568
+00:36:35,980 --> 00:36:38,940
+At Bell Helicopter in Arlington, Texas,
+
+569
+00:36:38,941 --> 00:36:42,880
+the Bell Augusta 609 is the world's first civilian tilt
+
+570
+00:36:42,881 --> 00:36:43,581
+rotor.
+
+571
+00:36:47,400 --> 00:36:53,400
+The 609's wingspan is 34 feet, and the prop rotor spans 60 feet.
+
+572
+00:36:53,401 --> 00:36:56,600
+The maximum airspeed is 316 miles per hour.
+
+573
+00:36:56,601 --> 00:37:01,100
+It's a unique aircraft.
+
+574
+00:37:01,101 --> 00:37:07,560
+It's the only commercially developed aircraft that can take off and land vertically and
+
+575
+00:37:07,561 --> 00:37:14,980
+fly up to 25,000 feet, more than 300 miles an hour, in pressurized comfort, land 700
+
+576
+00:37:14,981 --> 00:37:17,420
+miles away vertically again.
+
+577
+00:37:17,421 --> 00:37:22,060
+So it really is a new way to fly.
+
+578
+00:37:22,061 --> 00:37:26,500
+And you have a power lever here and you have a center stick.
+
+579
+00:37:26,501 --> 00:37:31,980
+And just like in a helicopter with a collective, you pull up on this power lever and the aircraft
+
+580
+00:37:31,981 --> 00:37:35,220
+will just come straight up in the air.
+
+581
+00:37:35,221 --> 00:37:38,300
+The immediate thing you feel is acceleration.
+
+582
+00:37:38,301 --> 00:37:41,240
+It actually kicks you back in your seat a little bit.
+
+583
+00:37:41,241 --> 00:37:48,540
+And you start accelerating, start climbing out at a rather dramatic rate, I might add.
+
+584
+00:37:48,541 --> 00:37:51,840
+The 609's purpose is point-to-point travel.
+
+585
+00:37:51,841 --> 00:37:56,240
+It speeds twice that of the fastest helicopter.
+
+586
+00:37:56,241 --> 00:38:00,140
+With seating for up to nine passengers in a luxury cabin,
+
+587
+00:38:00,141 --> 00:38:02,900
+it's a business commuter's dream.
+
+588
+00:38:02,901 --> 00:38:05,500
+Integrating three onboard flight computers,
+
+589
+00:38:05,501 --> 00:38:08,840
+designers built the 609 with safety and efficiency in mind.
+
+590
+00:38:12,540 --> 00:38:15,540
+Despite its precise avionics and controls,
+
+591
+00:38:15,541 --> 00:38:18,640
+pilots in training require a few sessions in the flight simulator.
+
+592
+00:38:21,840 --> 00:38:25,840
+But who should apply for the captaincy?
+
+593
+00:38:25,940 --> 00:38:29,780
+Helicopter pilots or airplane pilots?
+
+594
+00:38:29,880 --> 00:38:33,880
+If you're a helicopter pilot, it flies just like any other
+
+595
+00:38:33,980 --> 00:38:37,180
+helicopter when you pick it up to a hover.
+
+596
+00:38:37,280 --> 00:38:40,400
+And as an airplane pilot, when you turn it into an airplane,
+
+597
+00:38:40,500 --> 00:38:44,200
+you'd be very comfortable and ride it home as an airplane.
+
+598
+00:38:44,300 --> 00:38:46,640
+In the not-so-distant future,
+
+599
+00:38:46,740 --> 00:38:51,040
+the 609 tilt rotor and a handful of personal air vehicles
+
+600
+00:38:51,041 --> 00:38:53,640
+could become the extreme convenience aircraft
+
+601
+00:38:53,740 --> 00:38:54,940
+for the casual traveler.
+
+602
+00:39:00,940 --> 00:39:04,980
+Another extreme aircraft is hard at work fighting fires.
+
+603
+00:39:05,080 --> 00:39:09,100
+This modified jumbo jet is king of the aerial fire trucks.
+
+604
+00:39:13,300 --> 00:39:17,740
+Between 2000 and 2005, a NASA program sometimes
+
+605
+00:39:17,741 --> 00:39:21,040
+sometimes called the highway in the sky,
+
+606
+00:39:21,041 --> 00:39:22,980
+developed navigation technologies
+
+607
+00:39:22,981 --> 00:39:25,980
+for the projected future when personal air vehicles
+
+608
+00:39:25,981 --> 00:39:28,560
+filled the skies.
+
+609
+00:39:28,561 --> 00:39:32,520
+Extreme Aircraft II will return on Modern Marvels,
+
+610
+00:39:32,521 --> 00:39:34,120
+here on the History Channel.
+
+611
+00:39:39,000 --> 00:39:42,460
+We now return to Extreme Aircraft II on Modern Marvels.
+
+612
+00:39:47,740 --> 00:39:59,780
+In 2006, more than 96,000 fires charred nearly 9.9 million acres
+
+613
+00:39:59,781 --> 00:40:05,300
+in the United States and cost a record $1.5 billion to fight.
+
+614
+00:40:05,301 --> 00:40:07,860
+With human life and property at stake,
+
+615
+00:40:07,861 --> 00:40:09,660
+having the right fire truck is critical.
+
+616
+00:40:09,661 --> 00:40:16,660
+In Victorville, California, a converted DC-10 passenger jet
+
+617
+00:40:16,661 --> 00:40:21,660
+called the 10-Tanker Air Carrier claims the title of world's
+
+618
+00:40:21,661 --> 00:40:24,660
+heaviest firefighting jet.
+
+619
+00:40:29,660 --> 00:40:33,660
+The 10-Tanker weighs in at 400,000 pounds fully loaded.
+
+620
+00:40:33,661 --> 00:40:38,660
+The wingspan is 150 feet, and max airspeed is 440 feet.
+
+621
+00:40:38,661 --> 00:40:42,900
+Air speed is 460 miles per hour.
+
+622
+00:40:42,901 --> 00:40:45,940
+We're looking at the tank system, external free tanks
+
+623
+00:40:45,941 --> 00:40:48,760
+that carry a lot of fluid, 12,000 gallons,
+
+624
+00:40:48,761 --> 00:40:50,940
+aerodynamic tank on each end.
+
+625
+00:40:50,941 --> 00:40:54,000
+The technology was bought from Ericsson Air Crane,
+
+626
+00:40:54,001 --> 00:40:56,540
+comes out through a computer-controlled door
+
+627
+00:40:56,541 --> 00:40:59,440
+down at the bottom, gives you the flow rate you want
+
+628
+00:40:59,441 --> 00:41:02,420
+so that you get the coverage level you need on the ground.
+
+629
+00:41:02,421 --> 00:41:04,960
+As you can see, they're hitched to the airplane
+
+630
+00:41:04,961 --> 00:41:07,780
+with some very heavy structure.
+
+631
+00:41:07,781 --> 00:41:11,620
+The airplane itself had to be modified so that that structure
+
+632
+00:41:11,621 --> 00:41:14,980
+could bolt into a load carrying area of the airplane.
+
+633
+00:41:14,981 --> 00:41:18,260
+The airplane was designed to have most of the weight inside.
+
+634
+00:41:18,261 --> 00:41:22,500
+We've transferred a lot of the weight outside.
+
+635
+00:41:22,501 --> 00:41:25,460
+The tanks are filled with either water or fire retardant.
+
+636
+00:41:28,740 --> 00:41:32,780
+The retardant is simply water mixed with nitrogen,
+
+637
+00:41:32,781 --> 00:41:35,380
+an effective fire suppressant that's slow to evaporate.
+
+638
+00:41:37,780 --> 00:41:42,380
+Because the liquid is a dense 9.3 pounds per gallon,
+
+639
+00:41:42,480 --> 00:41:46,960
+a full 12,000-gallon load weighs in at a staggering 60 tons.
+
+640
+00:41:51,600 --> 00:41:56,100
+Getting that hefty payload air buoy requires immense thrust.
+
+641
+00:41:56,200 --> 00:41:58,760
+We've got three engines, each of which develop
+
+642
+00:41:58,860 --> 00:42:02,140
+40-some thousand pounds of thrust.
+
+643
+00:42:02,240 --> 00:42:06,080
+And at the weights we're flying, in this case,
+
+644
+00:42:06,081 --> 00:42:08,580
+in this case, under 400,000 pounds,
+
+645
+00:42:08,680 --> 00:42:11,280
+you get a very favorable thrust to weight ratio,
+
+646
+00:42:11,380 --> 00:42:13,080
+even with a full load of retardant,
+
+647
+00:42:13,180 --> 00:42:15,080
+which exceeds 100,000 pounds.
+
+648
+00:42:19,100 --> 00:42:21,760
+The 10 tanker is the newest heavy lifter on the scene.
+
+649
+00:42:24,600 --> 00:42:27,500
+But for the past half century, a wide assortment
+
+650
+00:42:27,600 --> 00:42:31,000
+of aerial fire trucks has shouldered the load.
+
+651
+00:42:31,100 --> 00:42:33,580
+That included many surplus World War II bombers
+
+652
+00:42:33,581 --> 00:42:37,220
+and transports converted to firefighters in the late 1940s.
+
+653
+00:42:41,520 --> 00:42:45,720
+By the 1960s, a variety of tanker aircraft built specifically
+
+654
+00:42:45,721 --> 00:42:47,120
+to bite fires took over.
+
+655
+00:42:49,700 --> 00:42:52,300
+Helicopters using buckets that could refill quickly
+
+656
+00:42:52,301 --> 00:42:55,000
+from lakes or reservoirs became a favorite tool
+
+657
+00:42:55,001 --> 00:42:56,300
+in the wildfire wars.
+
+658
+00:42:56,301 --> 00:42:58,300
+ports.
+
+659
+00:43:02,500 --> 00:43:05,640
+California's 10 tanker is the heavy hitter many firefighters
+
+660
+00:43:05,740 --> 00:43:08,240
+look to.
+
+661
+00:43:08,340 --> 00:43:12,040
+When the crew is on call, the DC-10 can be filled and launched
+
+662
+00:43:12,140 --> 00:43:15,060
+in less than an hour.
+
+663
+00:43:15,160 --> 00:43:17,360
+It then approaches the firefighters
+
+664
+00:43:17,460 --> 00:43:19,620
+and helps create a control line from which they battle
+
+665
+00:43:19,720 --> 00:43:22,660
+an advancing wildfire.
+
+666
+00:43:22,760 --> 00:43:26,060
+The air tanker itself doesn't put out fires.
+
+667
+00:43:26,061 --> 00:43:29,200
+not an air tanker around that will, especially on large fires.
+
+668
+00:43:29,201 --> 00:43:30,800
+But what this does is it allows them
+
+669
+00:43:30,801 --> 00:43:32,660
+to work very closely to the line.
+
+670
+00:43:32,661 --> 00:43:33,600
+They can build line.
+
+671
+00:43:33,601 --> 00:43:36,740
+They can reinforce it.
+
+672
+00:43:36,741 --> 00:43:39,480
+The pilot can control the density of the drop
+
+673
+00:43:39,481 --> 00:43:43,020
+by adjusting altitude and varying the width of the opening
+
+674
+00:43:43,021 --> 00:43:46,440
+on the tank doors.
+
+675
+00:43:46,441 --> 00:43:50,220
+A typical 12,000-gallon drop from 250 feet
+
+676
+00:43:50,221 --> 00:43:54,020
+covers an unbroken swath that's approximately 50 feet wide
+
+677
+00:43:54,021 --> 00:43:57,420
+and 3 quarters of a mile long.
+
+678
+00:43:57,520 --> 00:43:59,820
+To build a stronger, denser line,
+
+679
+00:43:59,920 --> 00:44:02,720
+a pilot can increase flow rate for a SWAT that's approximately
+
+680
+00:44:02,820 --> 00:44:04,800
+half a mile long.
+
+681
+00:44:04,900 --> 00:44:07,200
+We can do it in a matter of minutes and seconds
+
+682
+00:44:07,300 --> 00:44:11,440
+that it would take us hours to do with other aircraft.
+
+683
+00:44:11,540 --> 00:44:13,880
+The DC-10 represents yet another attempt
+
+684
+00:44:13,980 --> 00:44:16,440
+to apply extreme aircraft solutions
+
+685
+00:44:16,540 --> 00:44:17,880
+to solve earthly problems.
+
+686
+00:44:21,640 --> 00:44:23,280
+Applying breakthroughs in science
+
+687
+00:44:23,281 --> 00:44:27,620
+aircraft is inevitable. Whether it's a flying fire
+
+688
+00:44:27,720 --> 00:44:35,760
+extinguisher, a fighter, a bomber, a miniature spy plane,
+
+689
+00:44:35,860 --> 00:44:40,940
+or an aerial commuter, our desire to dominate the skies
+
+690
+00:44:41,040 --> 00:44:45,740
+will constantly redefine what extreme really means as we test
+
+691
+00:44:45,840 --> 00:44:47,840
+the boundaries of the heavens.
+

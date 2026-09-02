@@ -1,0 +1,2376 @@
+1
+00:00:01,000 --> 00:00:05,000
+He designed planes, tanks, and even robots.
+
+2
+00:00:05,001 --> 00:00:07,000
+All in the 15th century.
+
+3
+00:00:07,001 --> 00:00:10,000
+By the time he was done, he'd constructed cities,
+
+4
+00:00:10,001 --> 00:00:13,000
+rerouted rivers, and mapped the human body.
+
+5
+00:00:13,001 --> 00:00:16,000
+He even took the time to do a little painting.
+
+6
+00:00:16,001 --> 00:00:19,000
+Not bad for a self-taught country boy.
+
+7
+00:00:19,001 --> 00:00:21,000
+How did he do it?
+
+8
+00:00:21,001 --> 00:00:24,000
+And do his inventions really work?
+
+9
+00:00:24,001 --> 00:00:28,000
+Now, Da Vinci Tech on Modern Marvels.
+
+10
+00:00:30,000 --> 00:00:44,000
+War in the 21st century is devastating and explosive.
+
+11
+00:00:48,760 --> 00:00:52,180
+No target is secure even hundreds of miles away.
+
+12
+00:00:54,660 --> 00:00:57,960
+Today's high-tech weapons are the culmination of a transformation
+
+13
+00:00:57,961 --> 00:01:00,360
+that began nearly 500 years ago,
+
+14
+00:01:00,460 --> 00:01:04,800
+during the age of Leonardo da Vinci,
+
+15
+00:01:04,900 --> 00:01:06,840
+at the height of the Italian Renaissance.
+
+16
+00:01:10,100 --> 00:01:13,240
+Today, Leonardo was most famous for the beauty and mystery
+
+17
+00:01:13,241 --> 00:01:13,941
+of his paintings.
+
+18
+00:01:14,600 --> 00:01:17,920
+But for most of his life, Leonardo was known equally well
+
+19
+00:01:17,921 --> 00:01:19,220
+as a military engineer.
+
+20
+00:01:22,820 --> 00:01:26,780
+Leonardo was fascinated with war as a physical activity.
+
+21
+00:01:27,960 --> 00:01:33,500
+Not the killing of people, but the dynamics of war.
+
+22
+00:01:34,060 --> 00:01:39,960
+The attackers, the defenders, all the physical properties of throwing things at each other,
+
+23
+00:01:40,100 --> 00:01:46,080
+whether they be ancient ideas like the trebuchet or the ballista or the catapult,
+
+24
+00:01:46,520 --> 00:01:49,220
+or new ideas like cannons.
+
+25
+00:01:52,660 --> 00:01:57,500
+How the Renaissance's most famous artist became renowned as a creator of war machines
+
+26
+00:01:57,501 --> 00:02:03,160
+reveals much about Leonardo the man, the inventor, and the world in which he lived.
+
+27
+00:02:08,100 --> 00:02:11,260
+Leonardo was born out of wedlock in 1452
+
+28
+00:02:11,261 --> 00:02:17,300
+in the small rural town of Vinci, 22 miles outside of Florence, Italy.
+
+29
+00:02:19,060 --> 00:02:22,080
+Here he developed a lifelong fascination with nature,
+
+30
+00:02:22,600 --> 00:02:25,600
+which he would draw with legendary skill.
+
+31
+00:02:27,500 --> 00:02:32,340
+But his illegitimate birth denied Leonardo the right to a formal education,
+
+32
+00:02:32,900 --> 00:02:36,180
+and later excluded him from the most lucrative occupations in Florence.
+
+33
+00:02:39,160 --> 00:02:43,260
+Throughout his career, Leonardo's success would depend on his wit and talent,
+
+34
+00:02:43,840 --> 00:02:47,940
+and the patronage of the era's richest, most powerful, and often dangerous men.
+
+35
+00:02:48,820 --> 00:02:55,360
+I think he was a man of ambition, and he wanted to get ahead to move out of his rural background
+
+36
+00:02:55,361 --> 00:02:58,500
+and of his illegitimate background,
+
+37
+00:02:58,501 --> 00:03:00,580
+and to make a name for himself.
+
+38
+00:03:01,440 --> 00:03:04,120
+And it certainly started in Florence.
+
+39
+00:03:05,160 --> 00:03:08,160
+He would try all sorts of means of learning,
+
+40
+00:03:08,360 --> 00:03:09,500
+of promoting himself.
+
+41
+00:03:11,800 --> 00:03:14,580
+Artist, architect, inventor.
+
+42
+00:03:16,440 --> 00:03:19,160
+Leonardo pursued many vocations throughout his life.
+
+43
+00:03:20,920 --> 00:03:23,720
+In 1482, at the age of 30,
+
+44
+00:03:23,721 --> 00:03:26,280
+He took the biggest risk of his career,
+
+45
+00:03:26,940 --> 00:03:30,580
+abandoning his hometown of Florence for a new city and new opportunities.
+
+46
+00:03:31,160 --> 00:03:34,660
+One of the things that Leonardo did that shocked his contemporaries
+
+47
+00:03:34,661 --> 00:03:37,820
+and still shocks some modern people even today
+
+48
+00:03:37,821 --> 00:03:42,660
+is that he moved from Florence, the cultural capital of northern Italy,
+
+49
+00:03:42,661 --> 00:03:47,940
+to Milan, which was clearly the political and military bad boy
+
+50
+00:03:47,941 --> 00:03:50,540
+of all of the Italian city-states.
+
+51
+00:03:50,541 --> 00:03:55,180
+He wanted a broader scope for his work.
+
+52
+00:03:56,980 --> 00:04:00,020
+Milan was a place that lived and died by the sword,
+
+53
+00:04:00,820 --> 00:04:03,380
+a reflection of its leader, Ludovico Sforza,
+
+54
+00:04:03,780 --> 00:04:05,940
+known as Il Moro, the Dark One.
+
+55
+00:04:06,580 --> 00:04:11,580
+He sold his services to Duke Ludovico as a military engineer,
+
+56
+00:04:12,060 --> 00:04:15,520
+despite the fact that he had no training in that particular area.
+
+57
+00:04:15,860 --> 00:04:19,040
+But he was brilliant, he knew what the client would like,
+
+58
+00:04:19,041 --> 00:04:21,000
+and he certainly had a number of ideas
+
+59
+00:04:21,001 --> 00:04:24,880
+that any militarily ambitious ruler would like.
+
+60
+00:04:28,140 --> 00:04:29,500
+Whatever the era,
+
+61
+00:04:30,020 --> 00:04:32,380
+mobility is crucial to victory on the battlefield.
+
+62
+00:04:35,020 --> 00:04:36,740
+To impress his new patron,
+
+63
+00:04:37,440 --> 00:04:39,220
+Leonardo proposed mobile bridges,
+
+64
+00:04:41,620 --> 00:04:42,480
+covered ladders,
+
+65
+00:04:43,840 --> 00:04:47,400
+even assault boats, guaranteed, as he wrote,
+
+66
+00:04:47,401 --> 00:04:49,400
+to cause great confusion in the enemy.
+
+67
+00:04:52,900 --> 00:04:56,120
+He understood better than most of his contemporaries
+
+68
+00:04:56,121 --> 00:04:58,260
+the psychological effect of weapons
+
+69
+00:04:58,261 --> 00:05:01,480
+and realized that war is, at bottom,
+
+70
+00:05:01,840 --> 00:05:04,020
+a kind of psychological exercise.
+
+71
+00:05:05,660 --> 00:05:09,480
+It's much more efficient to terrify your enemy
+
+72
+00:05:09,481 --> 00:05:11,020
+and to cause him to flee
+
+73
+00:05:11,021 --> 00:05:14,440
+than to have to kill and kill and kill again
+
+74
+00:05:14,441 --> 00:05:17,600
+in order to be victorious on the battlefield.
+
+75
+00:05:18,060 --> 00:05:20,100
+And I think many of his weapons were designed,
+
+76
+00:05:20,420 --> 00:05:22,500
+at least in part, with this in mind.
+
+77
+00:05:24,100 --> 00:05:25,900
+Of all Leonardo's designs,
+
+78
+00:05:26,560 --> 00:05:28,980
+none was more intimidating than his giant crossbow,
+
+79
+00:05:29,420 --> 00:05:32,300
+a battlefield colossus sure to get the enemy's attention.
+
+80
+00:05:33,140 --> 00:05:35,460
+And the details he provided are fascinating.
+
+81
+00:05:36,960 --> 00:05:39,760
+The crossbow was to measure 42 braccia,
+
+82
+00:05:40,180 --> 00:05:42,240
+or roughly 27 yards across.
+
+83
+00:05:42,241 --> 00:05:48,480
+The bows were made of layers of thin wood to increase their flexibility and create greater firepower.
+
+84
+00:05:48,481 --> 00:05:53,120
+Many have mistaken the dark lines on the central shaft for a large arrow.
+
+85
+00:05:53,121 --> 00:06:00,960
+But the pouch at the end of the double bow strings suggest the true projectile to be of heavy stone, or perhaps a flaming bomb.
+
+86
+00:06:05,520 --> 00:06:10,240
+Those lines are in fact a worm screw mechanism used to arm the crossbow.
+
+87
+00:06:10,241 --> 00:06:14,480
+A block along the mechanism is moved forward to engage the bow strings.
+
+88
+00:06:15,280 --> 00:06:18,400
+A soldier then cranks the bow backwards using the worm screw.
+
+89
+00:06:19,160 --> 00:06:23,120
+Firing the weapon required the soldier to either slam the block down with a heavy mallet
+
+90
+00:06:23,121 --> 00:06:26,140
+or lever the bow strings upward with a crowbar.
+
+91
+00:06:27,780 --> 00:06:30,360
+It's so persuasive that you think it would work,
+
+92
+00:06:30,680 --> 00:06:33,900
+but if you look at it a little bit, you wonder whether it would work.
+
+93
+00:06:33,901 --> 00:06:42,460
+But he makes his art, makes the impossible or the improbable into something that is possible.
+
+94
+00:06:42,740 --> 00:06:47,300
+It's why his notebooks and so many of his experiments on paper are so interesting.
+
+95
+00:06:47,600 --> 00:06:49,480
+Because what are they? Are they art and imagination?
+
+96
+00:06:49,960 --> 00:06:52,540
+Or are they observation of how things should work?
+
+97
+00:06:52,780 --> 00:06:56,320
+Are these things real? Or are they projections of what might be?
+
+98
+00:06:58,060 --> 00:07:02,260
+In 15th century Europe, the use of gunpowder was in its infancy.
+
+99
+00:07:03,160 --> 00:07:08,020
+Yet Leonardo's drawings anticipate a battlefield dominated by heavy and light artillery,
+
+100
+00:07:09,600 --> 00:07:10,500
+armored vehicles,
+
+101
+00:07:11,100 --> 00:07:14,920
+and multi-firing weapons.
+
+102
+00:07:17,160 --> 00:07:20,860
+Technology that didn't emerge until the 19th and 20th centuries.
+
+103
+00:07:22,240 --> 00:07:27,160
+And the solutions he foresaw were often startling examples of his mechanical ingenuity.
+
+104
+00:07:27,161 --> 00:07:33,320
+The problem with firearms on the battlefield is that their reload times are much too long,
+
+105
+00:07:33,400 --> 00:07:34,920
+and there's no way around this.
+
+106
+00:07:35,260 --> 00:07:40,140
+You can't really speed up the reload cycle for these kinds of guns appreciably.
+
+107
+00:07:40,540 --> 00:07:44,320
+So the only way they're really useful is in mass amounts.
+
+108
+00:07:45,400 --> 00:07:48,740
+To Leonardo, the answer was to build multi-barreled guns,
+
+109
+00:07:49,240 --> 00:07:53,260
+which were mobile and could allow the gunner to create a volley of fire before reloading.
+
+110
+00:07:53,261 --> 00:08:03,040
+In his most spectacular design, Leonardo proposed 33 small-caliber gun barrels, organized in three rows of 11 each.
+
+111
+00:08:04,780 --> 00:08:07,780
+All three rows were mounted on a single revolving framework.
+
+112
+00:08:09,440 --> 00:08:14,900
+Once the first row of ammunition had been fired, the gunner could easily set up the second and third rows to follow.
+
+113
+00:08:16,200 --> 00:08:20,140
+Meanwhile, the expired rows could be either reloaded or allowed time to cool.
+
+114
+00:08:20,141 --> 00:08:24,160
+clearly a precursor of the modern machine gun.
+
+115
+00:08:25,320 --> 00:08:27,800
+But of all the weapons that Leonardo conceived,
+
+116
+00:08:28,460 --> 00:08:32,120
+none would have altered battlefield combat more than his covered chariot,
+
+117
+00:08:32,880 --> 00:08:35,300
+what we now call Leonardo's tank.
+
+118
+00:08:36,820 --> 00:08:41,160
+In assaulting a fortified position that's heavily defended,
+
+119
+00:08:41,700 --> 00:08:44,420
+the attacker is going to take a lot of casualties.
+
+120
+00:08:45,020 --> 00:08:47,120
+This is very encouraging to the defender.
+
+121
+00:08:47,121 --> 00:08:57,320
+A covered wagon, a sort of tank-like vehicle propelled from the inside and impervious to most of the weapons that most defenders would have,
+
+122
+00:08:57,500 --> 00:09:03,920
+is going to get through and get up to the base of the wall, and that's going to be terrifying to the defenders.
+
+123
+00:09:04,780 --> 00:09:11,120
+Like many of Leonardo's conceptions, the tank was inspired by an object in nature, in this case, a tortoiseshell.
+
+124
+00:09:11,121 --> 00:09:18,640
+Its exterior was reinforced with metal plates and slanted to deflect enemy fire.
+
+125
+00:09:19,580 --> 00:09:23,160
+Small portholes in the tank's walls allowed men inside to return fire.
+
+126
+00:09:24,540 --> 00:09:29,640
+A similar set of portholes in the upper turret gave the tank commander a full scope of the battlefield
+
+127
+00:09:29,641 --> 00:09:32,500
+and allowed him to direct the tank's forward progress.
+
+128
+00:09:33,520 --> 00:09:38,800
+Power for the tank was born on the backs of eight men who used a series of cranks to turn the wheels.
+
+129
+00:09:39,760 --> 00:09:43,780
+Interestingly, Leonardo's design featured the cranks running counter to one another,
+
+130
+00:09:44,180 --> 00:09:45,860
+making forward progress impossible.
+
+131
+00:09:46,900 --> 00:09:50,740
+It's a novice's mistake, which someone of Leonardo's talent wouldn't have made.
+
+132
+00:09:51,780 --> 00:09:55,120
+Some have suggested that Leonardo sabotaged his own design
+
+133
+00:09:55,121 --> 00:09:59,400
+because he was a pacifist at heart and realized the tank's deadly potential.
+
+134
+00:10:00,540 --> 00:10:02,200
+But there's another explanation.
+
+135
+00:10:02,201 --> 00:10:09,100
+As an artisan, he didn't want any of his ideas stolen by others.
+
+136
+00:10:09,320 --> 00:10:12,660
+You know, there were no copyright laws in those days,
+
+137
+00:10:12,960 --> 00:10:16,180
+and he didn't want these ideas published.
+
+138
+00:10:16,300 --> 00:10:20,900
+He wanted them for himself and perhaps eventually for his patrons.
+
+139
+00:10:21,760 --> 00:10:26,920
+This possibly intentional design flaw was only one technique that Leonardo may have used
+
+140
+00:10:26,921 --> 00:10:30,160
+to ensure that his creations remained under his control.
+
+141
+00:10:32,200 --> 00:10:34,600
+Although there are many theories about its origin,
+
+142
+00:10:35,320 --> 00:10:38,600
+Leonardo's famous mirror writing was clearly another deterrent,
+
+143
+00:10:39,000 --> 00:10:42,960
+challenging the overly inquisitive to try to read his words and sentences backwards.
+
+144
+00:10:43,420 --> 00:10:48,180
+The fact that they were mirror written in that almost illegible left-handed scrawl of his
+
+145
+00:10:48,181 --> 00:10:52,340
+indicates that they were really designed for his use only.
+
+146
+00:10:53,800 --> 00:10:55,840
+Such strategies must have worked,
+
+147
+00:10:55,841 --> 00:10:59,680
+because Leonardo's skills as a military engineer were always in demand.
+
+148
+00:10:59,681 --> 00:11:05,640
+For 17 years, Il Moro, the Duke of Milan, was his most reliable patron.
+
+149
+00:11:06,180 --> 00:11:10,720
+But later in life, Leonardo worked for clients including generals in Venice,
+
+150
+00:11:11,380 --> 00:11:16,700
+the Pope in Rome, and the bloodthirsty Florentine, Cesare Borgia.
+
+151
+00:11:17,580 --> 00:11:19,580
+Cesare Borgia was in many ways a psychopath.
+
+152
+00:11:20,240 --> 00:11:23,640
+He was ruthless, violent, vicious, faithless,
+
+153
+00:11:23,641 --> 00:11:29,300
+and had very little to actually commend him as anything except a successful military commander.
+
+154
+00:11:29,680 --> 00:11:36,500
+For Borgia, Leonardo created detailed maps of the Italian countryside, crucial tools
+
+155
+00:11:36,501 --> 00:11:41,120
+for the strongman's ambition to control all of central Italy.
+
+156
+00:11:41,121 --> 00:11:45,700
+And Leonardo offered sophisticated ideas for new fortifications to counter the growing
+
+157
+00:11:45,701 --> 00:11:51,260
+threat from mortar and cannon.
+
+158
+00:11:51,261 --> 00:11:56,340
+Walls would be angled to deflect incoming artillery shells, while built-in cannon platforms were
+
+159
+00:11:56,341 --> 00:12:00,340
+added at key junctures to allow return fire.
+
+160
+00:12:00,341 --> 00:12:08,940
+For many of Leonardo's patrons, war became an art unto itself.
+
+161
+00:12:08,941 --> 00:12:16,320
+And Leonardo had used his war machines as a calling card to gain their favor.
+
+162
+00:12:16,321 --> 00:12:23,620
+But when he had a choice, Leonardo pursued many other interests, including what are now
+
+163
+00:12:23,621 --> 00:12:28,620
+now known as Leonardo's Lost Robots.
+
+164
+00:12:31,800 --> 00:12:35,240
+In addition to devising his own recipe for gunpowder,
+
+165
+00:12:35,241 --> 00:12:38,700
+Leonardo designed cannon shells that exploded on impact,
+
+166
+00:12:38,701 --> 00:12:42,240
+or divided into smaller explosives while still in flight.
+
+167
+00:12:42,241 --> 00:12:45,240
+Da Vinci Tech will return on Modern Marvels.
+
+168
+00:12:45,241 --> 00:12:56,960
+In January 2004, twin robots landed on Mars.
+
+169
+00:12:58,860 --> 00:13:03,920
+The latest in NASA's long-term effort to explore the Red Planet using robotic devices.
+
+170
+00:13:05,700 --> 00:13:11,520
+Self-propelled and controlled by computers, the Mars rovers represent the pinnacle of automation
+
+171
+00:13:11,521 --> 00:13:16,880
+and the power of machines to extend the reach of man to wherever he might dream.
+
+172
+00:13:18,340 --> 00:13:21,580
+But few people realize that 500 years ago,
+
+173
+00:13:22,160 --> 00:13:25,260
+Leonardo da Vinci was already a pioneer of robotic devices.
+
+174
+00:13:26,200 --> 00:13:28,560
+Used for entertaining and honoring his patrons,
+
+175
+00:13:29,360 --> 00:13:32,660
+Leonardo's robots reveal the facility of his mechanical mind.
+
+176
+00:13:33,220 --> 00:13:37,920
+They are the ultimate expression of talents that emerged while he was still a young man in Florence.
+
+177
+00:13:37,921 --> 00:13:44,620
+He entered the scene in a period and in a place which was blessed by God in a sense.
+
+178
+00:13:44,900 --> 00:13:50,160
+Florence, end of the 15th century, fantastic site to develop skills and talents.
+
+179
+00:13:52,360 --> 00:13:55,900
+Florence in the 15th century was the heart and soul of the Renaissance,
+
+180
+00:13:56,680 --> 00:14:00,560
+a place where the creative energies of art, science and politics
+
+181
+00:14:00,561 --> 00:14:05,120
+were fused in great public works that dominate the city even today.
+
+182
+00:14:05,121 --> 00:14:10,080
+It was a city that was a work of art in itself,
+
+183
+00:14:10,300 --> 00:14:13,280
+where the idea was to turn the bricks and mortar
+
+184
+00:14:13,281 --> 00:14:16,160
+into a reflection of a certain set of principles and ideals.
+
+185
+00:14:16,940 --> 00:14:20,100
+No project embodied those ideals more magnificently
+
+186
+00:14:20,101 --> 00:14:21,980
+than Brunelleschi's dome,
+
+187
+00:14:22,580 --> 00:14:24,620
+one of the era's great engineering marvels.
+
+188
+00:14:26,140 --> 00:14:28,780
+Its structure stands more than 300 feet
+
+189
+00:14:28,781 --> 00:14:32,040
+and is still the largest masonry-built dome in the world.
+
+190
+00:14:32,041 --> 00:14:40,720
+In 1471, when Leonardo was 19 years old, the City Council of Florence commissioned the dome's final phase.
+
+191
+00:14:41,880 --> 00:14:51,120
+To place a two-ton bronze orb on the dome's peak, the city elders turned to Andrea del Verrocchio, Leonardo's mentor and one of his greatest influences.
+
+192
+00:14:52,700 --> 00:14:56,640
+To complete the task, Verrocchio employed a fleet of complex machines.
+
+193
+00:14:56,641 --> 00:15:04,800
+standing at his side Leonardo marveled as giant hoists and cranes lifted the material skyward
+
+194
+00:15:04,801 --> 00:15:10,440
+during the final stage the size and weight of the bronze orb required elaborate scaffolding
+
+195
+00:15:10,441 --> 00:15:17,460
+and a crane that shifted the load and counterweight simultaneously to keep in perfect balance when the
+
+196
+00:15:17,461 --> 00:15:22,620
+project was completed a year later Leonardo declared that mechanics truly was the paradise
+
+197
+00:15:22,621 --> 00:15:26,420
+of all sciences.
+
+198
+00:15:26,421 --> 00:15:29,420
+And in the years to come, Leonardo used the same pulleys,
+
+199
+00:15:29,421 --> 00:15:33,220
+weights, and gears to create many inventions, including this
+
+200
+00:15:33,221 --> 00:15:39,920
+early ventilation fan and this hydraulic power saw.
+
+201
+00:15:46,860 --> 00:15:49,780
+Of particular interest were clocks.
+
+202
+00:15:49,781 --> 00:15:53,700
+The way one action led to and followed another suggested many possibilities,
+
+203
+00:15:54,280 --> 00:15:57,660
+not just for telling time, but for many other applications as well.
+
+204
+00:15:58,320 --> 00:16:01,840
+And later, when conjoined with springs, foreshadowed Leonardo's robots.
+
+205
+00:16:03,580 --> 00:16:08,700
+Engineer and author Mark Rosheim has spent a lifetime solving the mysteries of Leonardo's robots,
+
+206
+00:16:09,340 --> 00:16:14,180
+beginning with this complex drawing that had baffled scholars until late in the 20th century.
+
+207
+00:16:15,220 --> 00:16:17,780
+This is way before anything else.
+
+208
+00:16:17,781 --> 00:16:26,280
+I mean, this is the earliest we know of a device like this, so it changes history, you know, changes the technological timeline.
+
+209
+00:16:27,120 --> 00:16:35,440
+What the drawing reveals is a small cart that's self-propelled, programmable, and capable of moving in a series of different directions on its own.
+
+210
+00:16:36,860 --> 00:16:40,060
+The clock-like mechanics reveal much about Leonardo's genius.
+
+211
+00:16:40,061 --> 00:16:45,420
+Well, starting in the 1920s when this kind of got on the radar screen of historians,
+
+212
+00:16:45,920 --> 00:16:52,820
+the thought was that these springs, these leaf springs, were what propelled the cart.
+
+213
+00:16:53,080 --> 00:16:58,640
+And they would actually alter the drawing and have these things tied down to these corner cogs
+
+214
+00:16:58,641 --> 00:17:04,340
+and they'd come up with these crazy reconstructions instead of looking at what Leonardo had actually done.
+
+215
+00:17:04,341 --> 00:17:10,800
+Rossheim's mentor, scholar Carlo Pedretti, was the first to suggest that the large-toothed
+
+216
+00:17:10,801 --> 00:17:17,160
+gearheads obscured something more, a pair of coil springs hidden beneath, the true source
+
+217
+00:17:17,161 --> 00:17:20,580
+of the robot cart's power.
+
+218
+00:17:20,581 --> 00:17:25,040
+The visible spring devices once assumed to be the power source were in fact the steering
+
+219
+00:17:25,041 --> 00:17:27,820
+mechanism.
+
+220
+00:17:27,821 --> 00:17:34,820
+My first discovery was that these pedals here were cams.
+
+221
+00:17:34,821 --> 00:17:41,920
+They were faintly drawn and then I could see that these cams tripped this lever.
+
+222
+00:17:41,921 --> 00:17:48,320
+And then I could deduce that this lever must be connected to the steering wheel.
+
+223
+00:17:48,321 --> 00:17:53,540
+The larger the cams, the sharper the turn of the steering wheel, and vice versa.
+
+224
+00:17:53,541 --> 00:17:58,080
+The cams could be placed in any order, allowing the engineer, in essence, to program the route
+
+225
+00:17:58,081 --> 00:18:01,560
+the robot cart would take.
+
+226
+00:18:01,561 --> 00:18:04,040
+Even speed could be regulated.
+
+227
+00:18:04,041 --> 00:18:09,180
+After that, the question was, what did these things do, these cogs?
+
+228
+00:18:09,181 --> 00:18:13,260
+And I could see this other spring here.
+
+229
+00:18:13,261 --> 00:18:16,540
+These were behaving like a clock.
+
+230
+00:18:16,541 --> 00:18:18,700
+This was the tick-tock of a clock.
+
+231
+00:18:18,701 --> 00:18:26,820
+In other words, this was behaving like the pendulum of a clock and it was regulating the release of the energy in the spring.
+
+232
+00:18:27,000 --> 00:18:29,640
+In this case, the springs are underneath these big gears.
+
+233
+00:18:30,140 --> 00:18:37,500
+The clock-like release of energy within the springs guaranteed the robot cart a smooth, steady ride as it moved through a room on its own.
+
+234
+00:18:38,440 --> 00:18:45,880
+A remarkable sight in the 15th century, sure to wow Leonardo's patrons, just as we are astonished by today's robotic devices.
+
+235
+00:18:45,881 --> 00:18:55,320
+The big thing is, it proves that the roots of technology go far deeper than we ever realized.
+
+236
+00:18:55,321 --> 00:19:05,000
+That concepts of programmability, concepts of computerized robots go hundreds of years
+
+237
+00:19:05,001 --> 00:19:06,360
+deeper than we ever thought.
+
+238
+00:19:07,960 --> 00:19:11,000
+But Leonardo's cart was only the first of his robotic creations.
+
+239
+00:19:11,001 --> 00:19:19,140
+While at the court of Milan, Leonardo was called on by the Duke to oversee the elaborate
+
+240
+00:19:19,141 --> 00:19:21,760
+court pageants that played a vital role in his rule.
+
+241
+00:19:22,160 --> 00:19:24,740
+The prince had to be surrounded by magnificence.
+
+242
+00:19:24,880 --> 00:19:30,820
+He had to represent the wealth and culture and military prowess and dignity and even
+
+243
+00:19:30,821 --> 00:19:33,280
+almost the anthropological bloodline of his people.
+
+244
+00:19:33,960 --> 00:19:37,040
+And pageantry did this in an extraordinarily successful way.
+
+245
+00:19:37,380 --> 00:19:38,640
+It wasn't just entertainment.
+
+246
+00:19:38,641 --> 00:19:40,160
+It was propaganda.
+
+247
+00:19:41,000 --> 00:19:46,000
+In 1495, Leonardo unveiled a robot knight
+
+248
+00:19:46,100 --> 00:19:49,240
+at one of the Duke celebrations.
+
+249
+00:19:49,340 --> 00:19:53,080
+The robot knight could sit, stand, and raise its visor,
+
+250
+00:19:53,180 --> 00:19:56,640
+all by means of an elaborate pulley and cabling system.
+
+251
+00:19:56,740 --> 00:20:01,620
+There's evidence that it was capable of independent motion.
+
+252
+00:20:01,720 --> 00:20:02,860
+It could go like this.
+
+253
+00:20:02,960 --> 00:20:07,020
+There's also evidence that it may have had the ability
+
+254
+00:20:07,120 --> 00:20:09,760
+to have a cable stretched across its two arms
+
+255
+00:20:09,761 --> 00:20:13,440
+and that it could, for example, grab somebody.
+
+256
+00:20:14,800 --> 00:20:18,040
+In 2002, Rosheim built the night robot,
+
+257
+00:20:18,660 --> 00:20:21,900
+proving that Leonardo truly was a master of robotics.
+
+258
+00:20:22,540 --> 00:20:26,240
+The machines are so, they're Swiss watch-like.
+
+259
+00:20:26,400 --> 00:20:29,880
+I mean, there's so very few components doing many different roles,
+
+260
+00:20:30,000 --> 00:20:32,200
+and they're just so simple and so elegant.
+
+261
+00:20:32,920 --> 00:20:35,020
+Nowhere would that elegance be more apparent
+
+262
+00:20:35,021 --> 00:20:38,900
+than in Leonardo's attempts to conquer one of the greatest of man's challenges.
+
+263
+00:20:39,760 --> 00:20:42,360
+Flight.
+
+264
+00:20:42,361 --> 00:20:45,120
+To construct the night robot, Mark Rossheim and his team
+
+265
+00:20:45,121 --> 00:20:49,520
+employed more than 20 pulleys, a modern car jack,
+
+266
+00:20:49,521 --> 00:20:52,460
+and 46 feet of steel cable.
+
+267
+00:20:52,461 --> 00:20:54,880
+DaVinci Tech will return on Modern Marvels.
+
+268
+00:21:01,560 --> 00:21:03,800
+Flight.
+
+269
+00:21:03,801 --> 00:21:06,620
+It's now so commonplace that many of us forget just what
+
+270
+00:21:06,621 --> 00:21:09,640
+a threshold it once was.
+
+271
+00:21:09,641 --> 00:21:12,880
+For Leonardo da Vinci, to fly was a dream that haunted him
+
+272
+00:21:12,881 --> 00:21:16,820
+and inspired him to design a host of incredible flying machines.
+
+273
+00:21:18,320 --> 00:21:21,480
+Today, many consider him the grandfather of modern aviation.
+
+274
+00:21:22,120 --> 00:21:25,780
+So it was the first time that any kind of engineering discipline
+
+275
+00:21:25,781 --> 00:21:29,220
+had been put into the design of an aircraft.
+
+276
+00:21:29,420 --> 00:21:33,040
+Up to that point, it had been either mythology like Icarus and Daedalus
+
+277
+00:21:33,041 --> 00:21:37,220
+or these poor guys that strap wings to themselves and jump off a tower or a wall.
+
+278
+00:21:37,720 --> 00:21:39,640
+Leonardo da Vinci had thought about the materials.
+
+279
+00:21:40,340 --> 00:21:42,280
+He thought about the sizing, the proportions.
+
+280
+00:21:43,200 --> 00:21:48,020
+He observed nature and took from nature what had to be taken in his mind to make it work.
+
+281
+00:21:49,600 --> 00:21:55,060
+Like the ancients before him, Leonardo's fascination with flight began with the observation of birds,
+
+282
+00:21:55,300 --> 00:21:56,860
+which he studied for most of his life.
+
+283
+00:21:57,520 --> 00:22:01,380
+In his mid-30s, Leonardo began making detailed drawings of birds,
+
+284
+00:22:01,840 --> 00:22:03,860
+seeking to explain the dynamics of their wings.
+
+285
+00:22:03,861 --> 00:22:16,240
+We know from his drawings and from his writings that he always started with concrete observations, direct observations, very precise.
+
+286
+00:22:16,500 --> 00:22:26,040
+But it was not for the observation itself, but in order to penetrate something deeper, to go behind flight to find out what the essence was.
+
+287
+00:22:26,041 --> 00:22:32,600
+Over time, Leonardo began to see patterns in the dynamics of a bird's wings that resembled
+
+288
+00:22:32,601 --> 00:22:36,280
+aspects of his other interests, especially mechanics.
+
+289
+00:22:36,281 --> 00:22:42,160
+A bird is an instrument working according to mathematical law, he wrote, and those laws
+
+290
+00:22:42,161 --> 00:22:47,620
+were within the capacity of man to reproduce with all its movements.
+
+291
+00:22:47,621 --> 00:22:53,000
+To prove his theory, Leonardo began to experiment, not with air, but with water.
+
+292
+00:22:53,001 --> 00:22:56,000
+Leonardo was very fond of analogies.
+
+293
+00:22:56,001 --> 00:22:59,000
+He saw a similarity between water and air.
+
+294
+00:22:59,001 --> 00:23:02,000
+What he really wanted to know was how birds fly.
+
+295
+00:23:02,001 --> 00:23:05,000
+However, doing experiments on birds is difficult.
+
+296
+00:23:05,001 --> 00:23:08,000
+So Leonardo thought, let me do experiments on water.
+
+297
+00:23:08,001 --> 00:23:11,000
+And one of the things he did was to put a stick in the water
+
+298
+00:23:11,001 --> 00:23:14,000
+and examine how the water flows around it.
+
+299
+00:23:14,001 --> 00:23:18,000
+If I hold it in this direction, it makes hardly any difference.
+
+300
+00:23:18,001 --> 00:23:20,000
+However, if I hold it perpendicularly,
+
+301
+00:23:20,001 --> 00:23:22,000
+you see the water climb up behind.
+
+302
+00:23:22,001 --> 00:23:27,440
+And this was important for Leonardo because he knew if he tilted the stick at an angle,
+
+303
+00:23:27,540 --> 00:23:29,400
+he could perhaps get some lift from it.
+
+304
+00:23:29,880 --> 00:23:33,920
+So it doesn't take much for Leonardo with his powerful imagination to go from a straight stick
+
+305
+00:23:33,921 --> 00:23:39,680
+to an Archimedean screw, to an Archimedean spiral, and hence to imagine a helicopter.
+
+306
+00:23:41,120 --> 00:23:46,660
+The aerial screw, better known as Leonardo's helicopter, is one of the most famous of his drawings.
+
+307
+00:23:47,660 --> 00:23:49,560
+It offers his usual detail.
+
+308
+00:23:49,561 --> 00:23:56,560
+The screw had a diameter of more than 15 feet, and it was made of reed, linen, and wire.
+
+309
+00:23:56,561 --> 00:24:02,460
+Four men would stand on the central platform and turn the cranks in front of them, causing
+
+310
+00:24:02,461 --> 00:24:06,440
+the shaft to rotate and create lift.
+
+311
+00:24:06,441 --> 00:24:13,320
+Its weight alone ensured that his design couldn't have worked, but it did get Leonardo thinking.
+
+312
+00:24:13,321 --> 00:24:18,680
+Soon he began experimenting with a wing concept that more closely resembled those of birds,
+
+313
+00:24:18,681 --> 00:24:21,120
+and later bats.
+
+314
+00:24:21,121 --> 00:24:23,640
+These inquiries culminated in the designs
+
+315
+00:24:23,641 --> 00:24:27,060
+for Leonardo's ornithopter, a flying machine that flapped
+
+316
+00:24:27,061 --> 00:24:29,160
+its wings just like a bird.
+
+317
+00:24:29,161 --> 00:24:32,140
+There are many things about bird flight and bat flight
+
+318
+00:24:32,141 --> 00:24:34,400
+that seem on the face of it to be an inspiration
+
+319
+00:24:34,401 --> 00:24:35,880
+for full-scale flight.
+
+320
+00:24:35,881 --> 00:24:39,180
+They do it so effortlessly.
+
+321
+00:24:39,181 --> 00:24:41,660
+Leonardo's ornithopter is a true original,
+
+322
+00:24:41,661 --> 00:24:44,860
+the first in history.
+
+323
+00:24:44,861 --> 00:24:47,680
+Based on several drawings, the composite design
+
+324
+00:24:47,681 --> 00:24:50,380
+featured a two-winged airship powered by human strength.
+
+325
+00:24:51,240 --> 00:24:53,560
+The wingspan exceeded 33 feet,
+
+326
+00:24:54,120 --> 00:24:56,380
+slightly less than a classic modern Piper Cub.
+
+327
+00:24:58,400 --> 00:25:01,600
+The skeleton frame of each wing was to be made of pine,
+
+328
+00:25:01,960 --> 00:25:04,300
+then covered in raw silk and starched taffeta
+
+329
+00:25:04,301 --> 00:25:07,080
+to create a light but sturdy membrane.
+
+330
+00:25:09,880 --> 00:25:13,000
+For power, the pilot would pump a set of back pedals
+
+331
+00:25:13,001 --> 00:25:14,580
+using an alternate leg motion.
+
+332
+00:25:15,460 --> 00:25:17,540
+A hand crank increased the energy produced,
+
+333
+00:25:17,680 --> 00:25:20,840
+while a head harness operated both the rudder and elevator,
+
+334
+00:25:21,500 --> 00:25:23,720
+allowing the now very busy pilot to steer.
+
+335
+00:25:25,860 --> 00:25:29,660
+Leonardo realized that a bird's feathers weren't necessary for flight.
+
+336
+00:25:30,260 --> 00:25:32,480
+But in order to generate the needed lift and thrust,
+
+337
+00:25:32,880 --> 00:25:35,900
+the ornithopter's wings would need to twist as they flapped.
+
+338
+00:25:37,180 --> 00:25:40,900
+If you just have a flat wing, one that isn't capable of twisting,
+
+339
+00:25:41,400 --> 00:25:42,200
+you'll go nowhere.
+
+340
+00:25:43,020 --> 00:25:44,000
+It'll just stir up the air.
+
+341
+00:25:44,001 --> 00:25:48,380
+For a wing design like da Vinci's, you have to have twist.
+
+342
+00:25:48,540 --> 00:25:49,680
+I think he understood that.
+
+343
+00:25:49,940 --> 00:25:52,060
+So that the wing would twist on the downstroke
+
+344
+00:25:52,061 --> 00:25:53,960
+and twist the other way on the upstroke.
+
+345
+00:25:56,400 --> 00:25:59,240
+Over time, Leonardo became so enthusiastic
+
+346
+00:25:59,241 --> 00:26:02,360
+that he began to design additional elements to aid the pilot,
+
+347
+00:26:02,920 --> 00:26:05,320
+including landing gear that featured shock absorbers.
+
+348
+00:26:06,660 --> 00:26:10,280
+Such extras imply that Leonardo was serious about building the ornithopter.
+
+349
+00:26:10,281 --> 00:26:15,660
+I think a lot of his devices and gadgets he didn't need to build.
+
+350
+00:26:16,100 --> 00:26:20,780
+It was obvious to him from the drawing and from his wonderful imagination that they would work.
+
+351
+00:26:21,380 --> 00:26:26,300
+However, he was very serious about building a flying machine, apparently built parts of it,
+
+352
+00:26:26,500 --> 00:26:31,260
+but it must have struck him eventually that this thing just wouldn't work.
+
+353
+00:26:31,261 --> 00:26:43,940
+Nearly 500 years later in 1991, Professor James Deloria and a team of his students launched
+
+354
+00:26:43,941 --> 00:26:51,280
+the first remote-controlled engine-powered ornithopter in history.
+
+355
+00:26:51,281 --> 00:26:56,440
+Inspired by Leonardo's designs, the scale model proved that a larger manned ornithopter
+
+356
+00:26:56,441 --> 00:26:59,500
+was indeed possible.
+
+357
+00:26:59,501 --> 00:27:07,400
+Today, Deloria is even closer to fulfilling Leonardo's dream.
+
+358
+00:27:07,401 --> 00:27:13,300
+Housed at the Toronto Aerospace Museum, this full-scale manned ornithopter features a 42-foot
+
+359
+00:27:13,301 --> 00:27:20,180
+wingspan, proprietary wing elements, and a powerful engine-driven central yoke that flaps
+
+360
+00:27:20,181 --> 00:27:26,900
+the wings at a rate of 1.2 cycles per second, driving the ornithopter forward at more than
+
+361
+00:27:26,901 --> 00:27:29,180
+50 miles per hour.
+
+362
+00:27:29,181 --> 00:27:35,080
+But even if this design differs from Leonardo's original, the inspiration remains the same.
+
+363
+00:27:35,081 --> 00:27:38,360
+What engineering is, it's a form of art.
+
+364
+00:27:38,361 --> 00:27:43,360
+You're using the principles of science, the mathematics, but what you're getting is something
+
+365
+00:27:43,361 --> 00:27:44,360
+brand new.
+
+366
+00:27:44,361 --> 00:27:46,840
+That to me is the pleasure of engineering.
+
+367
+00:27:46,841 --> 00:27:53,020
+And Leonardo da Vinci to me is the highest manifestation, highest example of that combination
+
+368
+00:27:53,021 --> 00:27:57,060
+of creativity and engineering and art.
+
+369
+00:27:57,061 --> 00:28:00,660
+After years of trying to create the ornithopter,
+
+370
+00:28:00,661 --> 00:28:04,020
+Leonardo put aside the pursuit of flight,
+
+371
+00:28:04,021 --> 00:28:09,660
+only to return to it later with fresh eyes.
+
+372
+00:28:09,661 --> 00:28:11,700
+You look at the birds, they say,
+
+373
+00:28:11,701 --> 00:28:17,780
+birds are not so big, they stay without any movement in the air, they float.
+
+374
+00:28:17,781 --> 00:28:23,100
+Leonardo realized that the key to flight wasn't to build a machine that overcame the forces of nature,
+
+375
+00:28:23,101 --> 00:28:27,160
+but to build one that utilized those forces, to float and to glide.
+
+376
+00:28:28,580 --> 00:28:34,200
+It's exploiting the force not simply of man, but of the air itself, of air currents, of winds,
+
+377
+00:28:34,700 --> 00:28:39,780
+and to obtain the force of man simply to correct that like Berdoux.
+
+378
+00:28:44,800 --> 00:28:52,280
+In June 2000, daredevil Adrian Nicholas transformed a sketch Leonardo had made in the margin of one of his notebooks
+
+379
+00:28:52,281 --> 00:28:55,200
+into a soaring tribute to da Vinci's genius.
+
+380
+00:28:57,480 --> 00:28:59,360
+Nicholas designed Leonardo's parachute
+
+381
+00:28:59,361 --> 00:29:01,620
+to the master's exact specifications.
+
+382
+00:29:02,540 --> 00:29:04,780
+Because it weighed over 200 pounds,
+
+383
+00:29:05,160 --> 00:29:07,040
+40 times more than a modern parachute,
+
+384
+00:29:07,720 --> 00:29:10,360
+experts warned Nicholas that the design wouldn't work
+
+385
+00:29:10,361 --> 00:29:12,060
+and that his life hung in the balance.
+
+386
+00:29:16,660 --> 00:29:19,100
+But Leonardo's parachute did work.
+
+387
+00:29:19,101 --> 00:29:24,360
+and Nicholas soared for more than five minutes,
+
+388
+00:29:25,140 --> 00:29:27,600
+a grand gesture that proved again
+
+389
+00:29:27,601 --> 00:29:30,600
+that Leonardo da Vinci should never be underestimated.
+
+390
+00:29:35,420 --> 00:29:38,260
+Leonardo's time in Milan would soon come to an end,
+
+391
+00:29:38,520 --> 00:29:40,200
+but not before he undertook
+
+392
+00:29:40,201 --> 00:29:43,100
+the greatest engineering challenge of his career.
+
+393
+00:29:45,360 --> 00:29:48,300
+In 1901, a 12-year-old Russian boy
+
+394
+00:29:48,301 --> 00:29:50,240
+saw Leonardo's mechanical drawings,
+
+395
+00:29:50,241 --> 00:29:52,540
+and they changed his life.
+
+396
+00:29:52,541 --> 00:29:55,100
+Igor Sikorsky later built one of the first working
+
+397
+00:29:55,101 --> 00:29:56,300
+helicopters in history.
+
+398
+00:30:02,700 --> 00:30:05,300
+From the time cities first arose,
+
+399
+00:30:05,301 --> 00:30:09,160
+leaders have filled them with monuments and statues,
+
+400
+00:30:09,161 --> 00:30:12,040
+public symbols that can unite not just individuals,
+
+401
+00:30:12,041 --> 00:30:16,360
+but nations, and even generations.
+
+402
+00:30:16,361 --> 00:30:21,560
+In 1966, an American researcher working in Madrid made a startling discovery.
+
+403
+00:30:22,860 --> 00:30:26,300
+Two lost Leonardo notebooks, not seen for generations.
+
+404
+00:30:28,780 --> 00:30:31,920
+Inside were plans for a Renaissance-era colossus,
+
+405
+00:30:32,440 --> 00:30:36,020
+a statue that would stand more than 24 feet tall,
+
+406
+00:30:36,021 --> 00:30:38,440
+four times the height of an average man,
+
+407
+00:30:38,940 --> 00:30:42,040
+and would require more than 80 tons of bronze to cast.
+
+408
+00:30:43,320 --> 00:30:45,840
+It was known as Leonardo's horse,
+
+409
+00:30:46,360 --> 00:30:49,460
+the most difficult artistic and engineering challenge of his career.
+
+410
+00:30:50,220 --> 00:30:53,300
+This is complexity 360 degrees.
+
+411
+00:30:53,540 --> 00:30:56,440
+You have anatomy, you have proportion, you have technical problem,
+
+412
+00:30:56,560 --> 00:30:59,860
+you have infrastructural problem, you have economical problem
+
+413
+00:30:59,861 --> 00:31:01,960
+because the amount of bronze was so much.
+
+414
+00:31:04,840 --> 00:31:07,020
+Beginning in the early 1480s,
+
+415
+00:31:07,620 --> 00:31:10,120
+Leonardo worked on the project for more than a decade,
+
+416
+00:31:10,500 --> 00:31:13,740
+about three times longer than it took to paint The Last Supper.
+
+417
+00:31:13,741 --> 00:31:14,441
+him.
+
+418
+00:31:14,442 --> 00:31:19,522
+But for all his care and planning, Leonardo didn't live to see the horse completed.
+
+419
+00:31:19,523 --> 00:31:20,223
+It became
+
+420
+00:31:20,224 --> 00:31:26,540
+another of his lost dreams, until it, too, was reawakened nearly 500 years later by an American
+
+421
+00:31:26,541 --> 00:31:28,611
+named Charles C. Dent.
+
+422
+00:31:28,612 --> 00:31:35,200
+My uncle read this story about how Leonardo on his deathbed reportedly
+
+423
+00:31:35,201 --> 00:31:38,749
+wept about not being able to finish the horse.
+
+424
+00:31:38,750 --> 00:31:42,220
+He decided, let's give Leonardo his horse and
+
+425
+00:31:42,221 --> 00:31:44,180
+do this as a
+
+426
+00:31:44,181 --> 00:31:46,740
+tribute of thanks to the Italian people,
+
+427
+00:31:47,120 --> 00:31:48,620
+sort of like a statue
+
+428
+00:31:48,621 --> 00:31:50,600
+of liberty going in a
+
+429
+00:31:50,601 --> 00:31:52,300
+reverse direction. Dent,
+
+430
+00:31:52,560 --> 00:31:54,520
+a retired airline pilot and passionate
+
+431
+00:31:54,521 --> 00:31:56,400
+art collector, decided to build
+
+432
+00:31:56,401 --> 00:31:58,500
+Leonardo's horse by staying as true to the
+
+433
+00:31:58,501 --> 00:31:59,780
+master's vision as possible.
+
+434
+00:32:03,480 --> 00:32:04,440
+In time,
+
+435
+00:32:04,540 --> 00:32:05,760
+others would join that quest,
+
+436
+00:32:06,340 --> 00:32:08,260
+including sculptor Nina Okamu.
+
+437
+00:32:08,261 --> 00:32:16,100
+The creation of a statue of this magnitude begins in clay, in order to finalize the design.
+
+438
+00:32:18,500 --> 00:32:21,580
+Leonardo's notebooks are filled with drawings of how horses move.
+
+439
+00:32:22,440 --> 00:32:26,600
+At first, Leonardo wanted his statue to rear up, a revolutionary idea.
+
+440
+00:32:27,180 --> 00:32:30,500
+But the engineering challenges were simply too great to overcome.
+
+441
+00:32:31,700 --> 00:32:34,220
+The stresses on the legs would have been just too much.
+
+442
+00:32:34,221 --> 00:32:37,500
+It would not have been able to be supported on its own,
+
+443
+00:32:37,501 --> 00:32:43,940
+or also it could tip and fall over a plethora of difficulties
+
+444
+00:32:43,941 --> 00:32:47,400
+with 80 tons on just two supporting points.
+
+445
+00:32:48,420 --> 00:32:51,500
+Eventually, Leonardo settled on a more traditional pose.
+
+446
+00:32:53,100 --> 00:32:57,100
+Once finalized, Dent's team needed a full-scale clay model
+
+447
+00:32:57,101 --> 00:32:58,680
+to begin the casting process.
+
+448
+00:32:59,740 --> 00:33:02,840
+Great care was taken to ensure that this contemporary version
+
+449
+00:33:02,841 --> 00:33:06,240
+mirrored Leonardo's own 24-foot-high clay model,
+
+450
+00:33:06,780 --> 00:33:09,480
+which he unveiled to the Duke of Milan in 1493.
+
+451
+00:33:12,380 --> 00:33:15,320
+Next, Leonardo would have had to solve the many challenges
+
+452
+00:33:15,321 --> 00:33:18,520
+posed by controlling the 80 tons of molten bronze
+
+453
+00:33:18,521 --> 00:33:20,200
+needed to cast the horse.
+
+454
+00:33:21,120 --> 00:33:23,300
+One of the things that he was very concerned with
+
+455
+00:33:23,301 --> 00:33:25,240
+was this huge pour of bronze
+
+456
+00:33:25,241 --> 00:33:29,680
+was to be able to control the thickness of the bronze.
+
+457
+00:33:30,160 --> 00:33:31,740
+The thickness that they wanted to have
+
+458
+00:33:31,741 --> 00:33:33,460
+was basically two fingers thick.
+
+459
+00:33:35,680 --> 00:33:37,220
+Without the proper thickness,
+
+460
+00:33:37,400 --> 00:33:39,460
+the statue would suffer from a fatal instability.
+
+461
+00:33:40,160 --> 00:33:43,160
+So Leonardo devised an ingenious mold-making technique,
+
+462
+00:33:43,580 --> 00:33:45,840
+drawing on the lessons of his earlier weapons designs.
+
+463
+00:33:46,960 --> 00:33:52,180
+He adopted a number of techniques for making cannon,
+
+464
+00:33:52,720 --> 00:33:56,760
+utilizing a technology for a variety of molds
+
+465
+00:33:56,761 --> 00:34:00,620
+that were really only used in military to bring it into art.
+
+466
+00:34:00,621 --> 00:34:06,660
+And this was really quite fundamentally different from things that had been done up to that point in time.
+
+467
+00:34:07,240 --> 00:34:13,740
+The process begins with the creation of a master mold by coating the clay model in a hard, fast-drying material.
+
+468
+00:34:14,780 --> 00:34:19,480
+Here technicians used rubber, while in Leonardo's time a unique plaster formula was used.
+
+469
+00:34:24,040 --> 00:34:29,420
+Once the coating dries, the clay model is removed, leaving a hard plaster master mold.
+
+470
+00:34:30,620 --> 00:34:36,320
+The inside of the mold is then covered with a uniform layer of wax, creating what Leonardo called thickness.
+
+471
+00:34:38,480 --> 00:34:42,260
+Finally, a third layer, this time a fire clay, was applied.
+
+472
+00:34:44,120 --> 00:34:48,680
+The master mold is now ready to be heated to more than 2,200 degrees Fahrenheit,
+
+473
+00:34:49,180 --> 00:34:52,440
+which causes the wax to melt and seep out the bottom of the mold.
+
+474
+00:34:53,800 --> 00:34:59,200
+Molten bronze is then poured inside the existing gap, where it will harden and form the walls of the statue.
+
+475
+00:35:00,620 --> 00:35:09,720
+Today, a sculpture the size of the horse is divided into sections, which are cast individually
+
+476
+00:35:09,721 --> 00:35:16,820
+and welded together using modern joining techniques.
+
+477
+00:35:16,821 --> 00:35:26,060
+For Leonardo, however, the challenge was to create the statue all at once in a single
+
+478
+00:35:26,061 --> 00:35:27,541
+pour of bronze.
+
+479
+00:35:27,542 --> 00:35:35,440
+Because of the size of the horse, no single furnace could deliver enough heat to
+
+480
+00:35:35,441 --> 00:35:40,288
+ensure the liquid bronze would properly seep into every crevice.
+
+481
+00:35:40,289 --> 00:35:42,560
+So Leonardo designed a complex
+
+482
+00:35:42,561 --> 00:35:47,100
+series of pipes and ovens that would need to burn for more than a week to reach the requisite
+
+483
+00:35:47,101 --> 00:35:55,920
+temperatures. Eventually, Leonardo resolved nearly every technical challenge for the
+
+484
+00:35:55,921 --> 00:36:01,360
+completion of the horse and was preparing for its casting when history took a dark turn.
+
+485
+00:36:02,720 --> 00:36:06,452
+In 1494, King Charles VIII of France invaded Italy.
+
+486
+00:36:06,453 --> 00:36:09,160
+To forestall the capture of his city,
+
+487
+00:36:09,860 --> 00:36:16,460
+Duke Sforza bribed the French with all 80 tons of Leonardo's bronze, which the French then turned
+
+488
+00:36:16,461 --> 00:36:21,124
+into cannon. In 1499, the French returned.
+
+489
+00:36:21,125 --> 00:36:25,900
+This time, the Duke fled, and Leonardo's 28
+
+490
+00:36:25,901 --> 00:36:29,400
+foot high clay model was mocked by French soldiers.
+
+491
+00:36:30,880 --> 00:36:37,900
+The clay model is reported by Echronica to be destroyed by the bows of the French soldiers
+
+492
+00:36:37,901 --> 00:36:43,240
+arriving in Milan, taking this as a funny target against the Sporza regime after its
+
+493
+00:36:43,241 --> 00:36:43,941
+collapse.
+
+494
+00:36:44,460 --> 00:36:49,820
+In his notebooks, Leonardo records only a single painful sentence, I will speak of the
+
+495
+00:36:49,821 --> 00:36:50,780
+horse no more.
+
+496
+00:36:50,781 --> 00:36:57,140
+almost 500 years later in 1992
+
+497
+00:36:57,141 --> 00:37:01,120
+Charles Dent was receiving international attention for his work
+
+498
+00:37:01,121 --> 00:37:03,620
+and the horse's completion appeared within reach
+
+499
+00:37:03,621 --> 00:37:09,620
+but in 1994 Dent was diagnosed with Lou Gehrig's disease
+
+500
+00:37:09,621 --> 00:37:11,320
+and the end came quickly
+
+501
+00:37:11,321 --> 00:37:17,020
+like Leonardo Charlie never saw the horse completed in his lifetime
+
+502
+00:37:17,021 --> 00:37:26,020
+and a group of us promised him before he died that we would finish the horse for him.
+
+503
+00:37:29,020 --> 00:37:36,020
+Five years later, on September 10, 1999, Leonardo's horse was finally unveiled in Milan,
+
+504
+00:37:36,021 --> 00:37:40,020
+a moment that celebrated not only Leonardo and Charles Dent,
+
+505
+00:37:40,021 --> 00:37:43,020
+but a creative legacy that binds two nations.
+
+506
+00:37:47,020 --> 00:37:55,820
+But beyond the great statue, Leonardo's vision would lead us beneath the sea, and even into
+
+507
+00:37:55,821 --> 00:38:00,820
+space.
+
+508
+00:38:00,821 --> 00:38:05,500
+Had it been completed, Leonardo's 80-ton bronze horse would have weighed as much as 50 Ferrari
+
+509
+00:38:05,501 --> 00:38:10,940
+sports cars, or 13 of Michelangelo's Davids.
+
+510
+00:38:10,941 --> 00:38:13,420
+Da Vinci Tech will return on Modern Marvels.
+
+511
+00:38:17,020 --> 00:38:27,220
+In 1994, the last of Leonardo's notebooks, still held in private hands, was put up for sale.
+
+512
+00:38:27,221 --> 00:38:38,800
+At $10 million, $11 million, $12 million, in the room at $12 million, $13 million on the telephone, $14 million.
+
+513
+00:38:38,801 --> 00:38:43,200
+The bidding at Christie's auction house began at $5.6 million,
+
+514
+00:38:43,820 --> 00:38:47,140
+but in less than four minutes, it rose to $28 million.
+
+515
+00:38:47,720 --> 00:38:50,200
+On the telephone in this room, $28 million.
+
+516
+00:38:50,720 --> 00:38:53,660
+Last call, $28 million. Thank you.
+
+517
+00:38:55,360 --> 00:38:59,620
+The buyer, Bill Gates, one of the world's richest men.
+
+518
+00:39:01,160 --> 00:39:03,300
+Now known as the Codex Leicester,
+
+519
+00:39:03,960 --> 00:39:07,400
+the notebook attests to Leonardo's deep fascination with water,
+
+520
+00:39:07,940 --> 00:39:10,540
+The essence of life, its rivers,
+
+521
+00:39:11,200 --> 00:39:13,440
+indispensable thoroughfares in Renaissance Italy.
+
+522
+00:39:14,620 --> 00:39:17,800
+We have to remember that in the Renaissance,
+
+523
+00:39:18,460 --> 00:39:21,980
+waterways were the main means of communication.
+
+524
+00:39:22,760 --> 00:39:24,660
+Canals, rivers.
+
+525
+00:39:25,580 --> 00:39:27,960
+This was the way in which you communicated.
+
+526
+00:39:31,340 --> 00:39:34,400
+While in Milan, Leonardo spent many days
+
+527
+00:39:34,401 --> 00:39:36,040
+at the Duke's estate in Vigivano,
+
+528
+00:39:36,041 --> 00:39:38,700
+a small town just outside the main city.
+
+529
+00:39:42,120 --> 00:39:44,420
+Here, amid many rivers and streams,
+
+530
+00:39:44,640 --> 00:39:46,380
+Leonardo pursued his study of water,
+
+531
+00:39:47,180 --> 00:39:49,740
+how it flowed, whirled, and eddied.
+
+532
+00:39:51,180 --> 00:39:53,420
+These movements would reappear in his art,
+
+533
+00:39:53,800 --> 00:39:55,600
+and they became the driving forces
+
+534
+00:39:55,601 --> 00:39:57,260
+behind many of his larger inventions.
+
+535
+00:40:01,200 --> 00:40:04,340
+In this design, water powered a large machine
+
+536
+00:40:04,341 --> 00:40:07,600
+to grind and polish the surface of two mirrors simultaneously,
+
+537
+00:40:08,600 --> 00:40:11,160
+speeding up a process traditionally done by hand.
+
+538
+00:40:14,240 --> 00:40:18,540
+In 1499, with his horse in ruin and the Duke of Milan in exile,
+
+539
+00:40:19,340 --> 00:40:21,760
+Leonardo left the city in search of new patronage.
+
+540
+00:40:22,940 --> 00:40:25,100
+In 1500, he arrived in Venice
+
+541
+00:40:25,101 --> 00:40:27,420
+and quickly assumed a familiar role,
+
+542
+00:40:27,940 --> 00:40:29,420
+that of a military engineer.
+
+543
+00:40:30,800 --> 00:40:34,020
+For the water city, Leonardo created a secret weapon.
+
+544
+00:40:34,340 --> 00:40:37,460
+a leather diving suit for sneak attacks on enemy ships.
+
+545
+00:40:38,540 --> 00:40:40,620
+Although not the first of its kind,
+
+546
+00:40:40,920 --> 00:40:43,100
+it included the typical Leonardo details.
+
+547
+00:40:45,280 --> 00:40:47,520
+Air was drawn through cane tubes
+
+548
+00:40:47,521 --> 00:40:50,200
+attached to a small floating cork diving belt.
+
+549
+00:40:51,140 --> 00:40:53,160
+A sealed leather bag with a valve
+
+550
+00:40:53,161 --> 00:40:56,140
+could be inflated or deflated to surface or dive.
+
+551
+00:40:56,141 --> 00:41:08,800
+But of all Leonardo's water projects, none was grander than his plan to redirect the Arno River,
+
+552
+00:41:09,720 --> 00:41:14,500
+which ran through his native Florence to the port of Pisa and then into the Mediterranean.
+
+553
+00:41:15,980 --> 00:41:20,680
+Leonardo had returned to Florence in 1501, where he befriended Niccolo Machiavelli,
+
+554
+00:41:21,120 --> 00:41:24,960
+one of history's great political insiders and a man who dreamed big.
+
+555
+00:41:24,961 --> 00:41:35,360
+Leonardo and Machiavelli had this great plan to build a waterway that would reach the Tyranian Sea
+
+556
+00:41:35,361 --> 00:41:40,700
+and that would bypass the city of Pisa, which was one of their great competitors.
+
+557
+00:41:42,480 --> 00:41:48,400
+Without the Arno River, Pisa's commercial and strategic importance as a port would simply evaporate
+
+558
+00:41:48,401 --> 00:41:52,240
+and the city would become vulnerable to takeover by the Florentines.
+
+559
+00:41:54,960 --> 00:41:57,680
+The initial plan was to channel the river southward,
+
+560
+00:41:58,400 --> 00:42:02,700
+using weirs, dams, and a mile-long, 32-foot-deep ditch.
+
+561
+00:42:03,840 --> 00:42:06,240
+By Leonardo's own estimates, construction of the ditch
+
+562
+00:42:06,241 --> 00:42:09,260
+would require more than a million tons of earth to be moved,
+
+563
+00:42:10,040 --> 00:42:12,840
+taking more than 54,000 man days.
+
+564
+00:42:13,660 --> 00:42:16,460
+Heavy machines of his own design would supplement the workers.
+
+565
+00:42:17,480 --> 00:42:19,520
+Construction actually started on the project,
+
+566
+00:42:19,840 --> 00:42:22,080
+but heavy rain soon washed away the work.
+
+567
+00:42:22,081 --> 00:42:28,200
+A year later, Leonardo tried to revive the project with a new set of plans, more elaborate
+
+568
+00:42:28,201 --> 00:42:33,620
+than the first, including a much grander canal with mills.
+
+569
+00:42:33,621 --> 00:42:38,380
+It was to be, in essence, a new industrial center under Florentine control.
+
+570
+00:42:38,381 --> 00:42:42,520
+And he was making calculations in his, this would cost lots of money, he was saying to
+
+571
+00:42:42,521 --> 00:42:43,520
+his patrons.
+
+572
+00:42:43,521 --> 00:42:50,020
+But look, if you put there mills, if you make transportation by surface, and in five years
+
+573
+00:42:50,021 --> 00:42:51,900
+you will recover.
+
+574
+00:42:51,901 --> 00:42:56,200
+But again, Leonardo's grand project was abandoned.
+
+575
+00:42:56,201 --> 00:42:59,100
+From then on, Leonardo's attention turned inward,
+
+576
+00:42:59,101 --> 00:43:04,120
+toward his art and to the search for the essence
+
+577
+00:43:04,121 --> 00:43:09,780
+of human beings, literally.
+
+578
+00:43:09,781 --> 00:43:11,720
+Here in this recently discovered room
+
+579
+00:43:11,721 --> 00:43:15,860
+hidden in a Florence monastery, Leonardo put down his brush
+
+580
+00:43:15,861 --> 00:43:20,660
+and picked up the scalpel, conducting more than 30 autopsies.
+
+581
+00:43:20,661 --> 00:43:26,460
+Refrigeration was not available, and tools were at times crude, resulting in an often gruesome process.
+
+582
+00:43:28,160 --> 00:43:34,860
+But the detail of Leonardo's work reveals the depth of his curiosity, and that commitment continues to inspire.
+
+583
+00:43:35,980 --> 00:43:45,700
+He's the father of kinesiology, the way human joints move, the father of programmable computers, on and on and on and on.
+
+584
+00:43:45,701 --> 00:43:51,640
+And when I went to design my humanoid robot for NASA,
+
+585
+00:43:51,641 --> 00:43:53,900
+I turned to his anatomical drawings
+
+586
+00:43:53,901 --> 00:43:56,680
+because he drew them from the standpoint of an engineer.
+
+587
+00:43:57,120 --> 00:44:00,720
+Today, we're experiencing a renaissance of interest in the master,
+
+588
+00:44:01,200 --> 00:44:05,060
+and we're better able than ever to understand and assess his dreams and inventions.
+
+589
+00:44:05,780 --> 00:44:09,020
+Yet our focus isn't simply on what was possible in Leonardo's time.
+
+590
+00:44:09,560 --> 00:44:11,940
+It's also concentrated on the future.
+
+591
+00:44:11,941 --> 00:44:17,940
+One day, Mark Rosheim's robotic devices might be a part of a NASA mission to Mars.
+
+592
+00:44:17,941 --> 00:44:22,940
+Imagine that, the secret worlds of Leonardo in space.
+
+593
+00:44:41,940 --> 00:44:43,420
+Deedeed
+
+594
+00:44:43,421 --> 00:44:44,900
+D
+

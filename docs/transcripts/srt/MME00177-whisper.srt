@@ -1,0 +1,2208 @@
+1
+00:00:00,800 --> 00:00:02,800
+Caesar altered his alphabet.
+
+2
+00:00:03,100 --> 00:00:04,800
+The Nazis had enigma.
+
+3
+00:00:05,100 --> 00:00:07,300
+Computers and digital encryption.
+
+4
+00:00:07,800 --> 00:00:11,600
+The attempts to make and break these secret methods of scrambled communication
+
+5
+00:00:11,700 --> 00:00:13,800
+have changed the course of history.
+
+6
+00:00:14,300 --> 00:00:17,600
+Now, Codes on Modern Marvels.
+
+7
+00:00:30,000 --> 00:00:33,580
+Manila, the Philippines, January 6, 1995.
+
+8
+00:00:34,580 --> 00:00:37,360
+When police responded to an apartment fire,
+
+9
+00:00:38,060 --> 00:00:42,480
+they found a Toshiba laptop amid a batch of chemicals and bomb-making materials.
+
+10
+00:00:43,700 --> 00:00:48,620
+An open file on the laptop revealed a plan to simultaneously bomb 12 U.S.
+
+11
+00:00:48,621 --> 00:00:50,440
+airliners over the Pacific.
+
+12
+00:00:51,640 --> 00:00:54,640
+The potential death toll, 4,000 passengers.
+
+13
+00:00:54,641 --> 00:01:01,340
+several other files used encryption software that scrambled the writings in secret code
+
+14
+00:01:01,341 --> 00:01:06,840
+the Philippine police decoded some of the files using a special computer program
+
+15
+00:01:06,841 --> 00:01:10,280
+and uncovered a list of bomb making recipes
+
+16
+00:01:10,281 --> 00:01:15,040
+all the evidence pointed to the most hunted terrorist in the world
+
+17
+00:01:15,041 --> 00:01:17,260
+Ramzi Yousef
+
+18
+00:01:17,261 --> 00:01:20,400
+wanted for his involvement in the World Trade Center bombing
+
+19
+00:01:20,401 --> 00:01:27,400
+Yousef's plots were stopped and he was in US custody within six weeks.
+
+20
+00:01:27,401 --> 00:01:33,400
+It was a major victory for international law enforcement and revealed the importance of cryptology,
+
+21
+00:01:33,401 --> 00:01:37,400
+the science of making and breaking secret codes.
+
+22
+00:01:37,401 --> 00:01:42,400
+To trace the development of codes is to uncover the very fabric of civilization.
+
+23
+00:01:42,401 --> 00:01:48,400
+Once a culture reaches a level of sophistication in literacy, science and language,
+
+24
+00:01:48,401 --> 00:01:51,740
+the demand for secret symbolic communication flourishes.
+
+25
+00:01:53,200 --> 00:01:57,580
+I think codes go back probably as far as there is language.
+
+26
+00:01:58,300 --> 00:01:59,680
+People had something to keep secret.
+
+27
+00:01:59,960 --> 00:02:01,880
+They needed to find some way to scramble it.
+
+28
+00:02:03,040 --> 00:02:06,920
+For centuries, codes have been controlled by governments
+
+29
+00:02:06,921 --> 00:02:12,260
+employed in war, applied in diplomacy, and used in espionage.
+
+30
+00:02:13,420 --> 00:02:15,140
+But with modern technology,
+
+31
+00:02:15,141 --> 00:02:21,620
+the use of codes by individuals has exploded, enriching cryptology and empowering citizens.
+
+32
+00:02:23,400 --> 00:02:28,460
+A communications boom has heightened the need for codes to keep the information private on the Internet,
+
+33
+00:02:29,900 --> 00:02:33,280
+at ATMs, and in medical offices.
+
+34
+00:02:36,260 --> 00:02:40,260
+Today's complex codes are the result of a historic seesaw battle
+
+35
+00:02:40,261 --> 00:02:43,000
+between code makers and code breakers
+
+36
+00:02:43,001 --> 00:02:45,860
+that has pushed the very boundaries of science.
+
+37
+00:02:47,080 --> 00:02:50,980
+The earliest known code was an inscription carved into a rock
+
+38
+00:02:50,981 --> 00:02:53,860
+by an Egyptian scribe in 1900 BC.
+
+39
+00:02:54,980 --> 00:02:59,140
+It was an attempt to demonstrate wider knowledge by dressing up the writing.
+
+40
+00:03:00,920 --> 00:03:03,900
+Ordinary hieroglyphics were replaced with unusual symbols
+
+41
+00:03:03,901 --> 00:03:07,580
+which told the story of the writer's master, K'numhotep II.
+
+42
+00:03:10,260 --> 00:03:13,333
+Another early code was used for secrecy.
+
+43
+00:03:13,334 --> 00:03:23,550
+A tiny enciphered tablet found on the banks of the Tigris River, dating from 1500 BC, contained a hidden formula for glazing pottery.
+
+44
+00:03:23,551 --> 00:03:28,620
+And the ancient Greeks created their own inventive coding methods.
+
+45
+00:03:28,621 --> 00:03:38,060
+One of the subordinates of a Persian monarch thought that it might be time to revolt.
+
+46
+00:03:38,061 --> 00:03:47,740
+And he had an agent in the court of Darius the Great, and this agent sent a message to this man saying it's now time to revolt.
+
+47
+00:03:47,741 --> 00:03:50,040
+he shaved the head of one of his slaves
+
+48
+00:03:50,041 --> 00:03:54,000
+and tattooed on the head the word revolt
+
+49
+00:03:54,001 --> 00:03:56,300
+and waited for the hair to grow
+
+50
+00:03:56,301 --> 00:03:59,700
+and sent the slave down to this man's palace.
+
+51
+00:04:00,260 --> 00:04:02,620
+When the man got the slave, he shaved the head,
+
+52
+00:04:02,960 --> 00:04:05,980
+saw the word revolt and realized that this was the time
+
+53
+00:04:05,981 --> 00:04:08,020
+and he did revolt successfully.
+
+54
+00:04:09,920 --> 00:04:13,160
+In Sparta, a new instrument to encipher messages
+
+55
+00:04:13,161 --> 00:04:14,560
+between legions was used.
+
+56
+00:04:14,561 --> 00:04:16,580
+It was called a skittaly.
+
+57
+00:04:17,740 --> 00:04:21,940
+A cloth was wrapped around a stick and a message written down the side.
+
+58
+00:04:22,580 --> 00:04:24,900
+Wrapped around the stick, the message could be read.
+
+59
+00:04:25,200 --> 00:04:26,720
+Unwrapped, it was scrambled.
+
+60
+00:04:27,260 --> 00:04:29,460
+The message was sent from general to general.
+
+61
+00:04:30,020 --> 00:04:33,060
+Unwrapped, the generals would have a stick of the appropriate length,
+
+62
+00:04:33,160 --> 00:04:35,400
+could wrap the cloth around it and read the message.
+
+63
+00:04:36,460 --> 00:04:37,960
+Every code had a key,
+
+64
+00:04:38,540 --> 00:04:43,000
+a secret method of scrambling and unscrambling messages used by sender and receiver.
+
+65
+00:04:43,001 --> 00:04:50,840
+Julius Caesar enciphered his military communications using a key that employed an alternative alphabet
+
+66
+00:04:50,841 --> 00:04:54,200
+by moving each letter three spaces to the right.
+
+67
+00:04:56,000 --> 00:04:59,200
+But with the collapse of the Roman Empire in 500 A.D.,
+
+68
+00:05:00,000 --> 00:05:04,920
+European cryptology entered a dark age that would last for a thousand years.
+
+69
+00:05:07,100 --> 00:05:10,100
+But another civilization was rising in the east.
+
+70
+00:05:10,101 --> 00:05:15,980
+by 900 AD Arab society was one of the most literate cultures in the world and
+
+71
+00:05:15,981 --> 00:05:22,760
+the study of codes flourished the Arabs were the first to record the methods of
+
+72
+00:05:22,761 --> 00:05:28,400
+transposition the scrambling of letters as well as substitution the replacement
+
+73
+00:05:28,401 --> 00:05:33,500
+of letters with numbers and symbols they were the first to outline specific
+
+74
+00:05:33,501 --> 00:05:39,920
+techniques of code breaking that involved mathematical or frequency analysis
+
+75
+00:05:39,921 --> 00:05:44,900
+The Arabs were very interested in letter studies,
+
+76
+00:05:45,240 --> 00:05:50,420
+and they counted the number of times a character such as Aleph appeared in the Koran,
+
+77
+00:05:50,740 --> 00:05:53,460
+and they discovered which letters began words frequently.
+
+78
+00:05:54,060 --> 00:06:00,960
+They used this information, a statistical source, to learn how to break codes.
+
+79
+00:06:00,961 --> 00:06:05,200
+The most frequent coded letter represents the most frequent plain text letter,
+
+80
+00:06:05,500 --> 00:06:09,180
+and that's how you begin to solve a code, and they were the first to do this.
+
+81
+00:06:09,920 --> 00:06:14,120
+With the Renaissance, cryptology had a rebirth in Europe.
+
+82
+00:06:15,140 --> 00:06:19,100
+In 1466, an Italian architect, Leon Alberti,
+
+83
+00:06:19,640 --> 00:06:22,780
+developed the greatest cryptologic invention in a thousand years
+
+84
+00:06:22,781 --> 00:06:24,200
+at the urging of the Vatican.
+
+85
+00:06:25,960 --> 00:06:28,680
+It was a system of rotating cipher disks
+
+86
+00:06:28,681 --> 00:06:31,880
+with two rings of letters and several numbers.
+
+87
+00:06:32,860 --> 00:06:34,800
+By scrambling so many letters randomly,
+
+88
+00:06:34,801 --> 00:06:39,180
+it was the first to challenge the Arab code-breaking method of frequency analysis.
+
+89
+00:06:39,920 --> 00:06:45,520
+Previous systems just replaced A with D only one at a time.
+
+90
+00:06:46,120 --> 00:06:54,560
+The Alberti cipher disk used a disk in which these letter combinations could be changed from time to time.
+
+91
+00:06:54,561 --> 00:07:00,140
+And as a consequence, A would be represented not by only one letter, but by many letters.
+
+92
+00:07:00,700 --> 00:07:06,060
+This was called polyalphabetic, many alphabet substitution.
+
+93
+00:07:06,061 --> 00:07:10,020
+and it was the basis for many modern cipher systems.
+
+94
+00:07:11,180 --> 00:07:16,800
+A French diplomat, Blaise de Visionnaire, improved the Alberti system in 1586
+
+95
+00:07:16,801 --> 00:07:21,000
+by creating a grid of 26 cipher alphabets.
+
+96
+00:07:21,860 --> 00:07:24,080
+Each shifted one over from the last.
+
+97
+00:07:25,980 --> 00:07:31,340
+By use of a key word, encoding and decoding communications using Visionnaire's square
+
+98
+00:07:31,341 --> 00:07:36,260
+could be calculated on a sheet of paper instead of having to carry a disc.
+
+99
+00:07:37,500 --> 00:07:41,540
+Unfortunately, Mary, Queen of Scots, did not employ this new development.
+
+100
+00:07:42,700 --> 00:07:47,820
+Beginning in 1568, Mary was imprisoned by her cousin, Queen Elizabeth I of England.
+
+101
+00:07:48,880 --> 00:07:53,480
+In 1586, a group of Catholics sought to rescue Mary
+
+102
+00:07:53,481 --> 00:07:56,540
+and put her on England's throne after assassinating Elizabeth.
+
+103
+00:07:57,280 --> 00:08:01,440
+Her rescuers communicated with Mary through secret coded letters.
+
+104
+00:08:02,460 --> 00:08:07,440
+Her great mistake was in thinking that her cipher system was secure.
+
+105
+00:08:07,780 --> 00:08:14,140
+It was actually being read by Queen Elizabeth's code breakers and everything about the plot was known.
+
+106
+00:08:14,400 --> 00:08:21,720
+And when it reached a certain critical point, Queen Elizabeth called a halt to it and sentenced Mary, Queen of Scots, to death.
+
+107
+00:08:22,600 --> 00:08:27,420
+By the 1700s, each European power had its own black chamber,
+
+108
+00:08:28,020 --> 00:08:31,060
+a nerve center for deciphering messages and gathering intelligence.
+
+109
+00:08:31,740 --> 00:08:35,220
+But the real revolution in cryptology was just ahead.
+
+110
+00:08:36,580 --> 00:08:43,380
+Telegraph, for the first time, made it possible to send messages quickly over long distances.
+
+111
+00:08:43,980 --> 00:08:48,520
+In fact, it made the United States a continental power by increasing its communications power.
+
+112
+00:08:48,521 --> 00:08:52,940
+It also raised the necessity for cryptology.
+
+113
+00:08:54,440 --> 00:08:58,600
+In 1844, Samuel Morse invented Morse code,
+
+114
+00:08:59,120 --> 00:09:02,980
+a series of electrical dots and dashes to communicate over the telegraph.
+
+115
+00:09:03,980 --> 00:09:07,720
+Because the code was public and messages could be easily intercepted,
+
+116
+00:09:08,440 --> 00:09:10,840
+the need for new secret codes became acute.
+
+117
+00:09:11,740 --> 00:09:14,420
+But the telegraph paled in comparison
+
+118
+00:09:14,421 --> 00:09:18,220
+to the communication industry's next scientific development,
+
+119
+00:09:18,520 --> 00:09:24,840
+one that revolutionized codes and was used with murderous impact in the 20th century.
+
+120
+00:09:26,340 --> 00:09:31,320
+Secret flag signals were used extensively on the battlefield in the American Civil War.
+
+121
+00:09:33,080 --> 00:09:35,600
+Codes will return on Modern Marvels.
+
+122
+00:09:36,840 --> 00:09:42,560
+At the dawn of the 20th century, an Italian physicist, Guglielmo Marconi,
+
+123
+00:09:43,060 --> 00:09:44,860
+changed the world of codes forever.
+
+124
+00:09:44,861 --> 00:09:50,400
+Marconi's invention harnessed radio waves as a new method of communication.
+
+125
+00:09:51,360 --> 00:09:56,500
+The result was an instantaneous transmission of messages across long distances.
+
+126
+00:09:57,760 --> 00:10:01,740
+The invention of the radio was the most important single event in the history of codes and ciphers.
+
+127
+00:10:02,240 --> 00:10:07,060
+Radio had the great effect of facilitating communications.
+
+128
+00:10:07,640 --> 00:10:09,780
+You don't have to lay wire or anything like that.
+
+129
+00:10:09,840 --> 00:10:11,780
+You can just go out with a radio post and communicate.
+
+130
+00:10:11,781 --> 00:10:19,160
+but it has the great disadvantage of turning over to the enemy every message that you send.
+
+131
+00:10:19,760 --> 00:10:24,840
+So this means you have to put into code every message that you send,
+
+132
+00:10:25,000 --> 00:10:30,360
+so it stimulated enormously the great growth of codes and ciphers.
+
+133
+00:10:30,920 --> 00:10:34,820
+The ramifications of this new invention were not lost upon the generals.
+
+134
+00:10:36,560 --> 00:10:39,640
+Radio allowed quick communication with field divisions
+
+135
+00:10:39,641 --> 00:10:42,400
+and a more rapid mobile form of warfare.
+
+136
+00:10:44,300 --> 00:10:48,400
+Radio messages were enciphered and sent in Morse code across the airwaves.
+
+137
+00:10:49,720 --> 00:10:53,660
+But radio transmission revealed every cryptogram it conveyed.
+
+138
+00:10:54,660 --> 00:10:58,600
+It furnished a constant and massive stream of intercepts to the enemy.
+
+139
+00:10:59,700 --> 00:11:01,720
+With the outbreak of World War I,
+
+140
+00:11:01,721 --> 00:11:05,620
+the need for new codes and code breakers sharply escalated.
+
+141
+00:11:05,621 --> 00:11:09,940
+A global battle of secret communications had begun.
+
+142
+00:11:11,140 --> 00:11:19,300
+On August 5, 1914, British divers from the ship Talconia severed German cable lines in the North Atlantic.
+
+143
+00:11:20,620 --> 00:11:24,760
+It appears their idea was simply to make things more difficult for the Germans,
+
+144
+00:11:24,920 --> 00:11:31,940
+but it had the payoff of forcing a great deal of traffic that would have gone by cable onto radio.
+
+145
+00:11:31,941 --> 00:11:39,640
+And so it resulted in really a flood of intercepts coming in that otherwise wouldn't have been available.
+
+146
+00:11:40,280 --> 00:11:46,300
+Once intercepted, messages were sent to Room 40, the cryptanalysis section of the British Admiralty.
+
+147
+00:11:47,120 --> 00:11:51,580
+Room 40 might be the prototype of modern cryptanalytic organizations.
+
+148
+00:11:52,180 --> 00:11:58,900
+They recruited mathematicians, linguists, chess masters, anybody who was good at puzzle solving.
+
+149
+00:11:59,840 --> 00:12:05,960
+In September 1914, Britain received one of the greatest gifts in the history of cryptology.
+
+150
+00:12:07,320 --> 00:12:12,280
+Her allies, the Russians, captured the German cruiser Magdeburg in the Baltic
+
+151
+00:12:12,281 --> 00:12:15,000
+and a book of Germany's main naval code.
+
+152
+00:12:16,280 --> 00:12:19,140
+They promptly turned the codebook over to Room 40,
+
+153
+00:12:19,760 --> 00:12:22,200
+allowing Britain to break German naval messages
+
+154
+00:12:22,201 --> 00:12:25,560
+and bottle up Germany's battleships for the duration of the war.
+
+155
+00:12:25,561 --> 00:12:29,800
+code breaking had transformed modern combat
+
+156
+00:12:29,801 --> 00:12:34,420
+being able to read the German naval signals
+
+157
+00:12:34,421 --> 00:12:37,940
+often almost instantaneously
+
+158
+00:12:37,941 --> 00:12:43,440
+was something that simply hadn't happened before in warfare
+
+159
+00:12:43,441 --> 00:12:46,300
+on the eastern front
+
+160
+00:12:46,301 --> 00:12:48,500
+cryptography or lack of it
+
+161
+00:12:48,501 --> 00:12:51,460
+led to one of the most critical battles in World War I
+
+162
+00:12:51,461 --> 00:12:54,880
+in late August 1914
+
+163
+00:12:54,881 --> 00:12:58,220
+the Russians sent two armies into East Prussia
+
+164
+00:12:58,221 --> 00:13:02,140
+in a pinchers movement to trap the Germans near the village of Tannenburg.
+
+165
+00:13:03,200 --> 00:13:04,960
+The Germans were outmanned,
+
+166
+00:13:05,540 --> 00:13:09,000
+but had the advantage of listening in on Russian radio communications.
+
+167
+00:13:10,260 --> 00:13:13,740
+Due to the Russians' rudimentary and disorganized coding system,
+
+168
+00:13:14,620 --> 00:13:17,400
+intercepts told the Germans that the Russian southern army
+
+169
+00:13:17,401 --> 00:13:19,820
+was moving faster than its northern force.
+
+170
+00:13:21,100 --> 00:13:24,060
+The Germans wheeled and destroyed the Russian southern army,
+
+171
+00:13:24,061 --> 00:13:29,300
+capturing 100,000 prisoners with an estimated 30,000 dead or missing.
+
+172
+00:13:31,140 --> 00:13:35,320
+This was the first great defeat of the Russians in the war
+
+173
+00:13:35,321 --> 00:13:40,240
+and it started them on their long slide into ruin and revolution.
+
+174
+00:13:41,240 --> 00:13:46,180
+The Russians did not at World War I have a good cipher system
+
+175
+00:13:46,181 --> 00:13:48,500
+and in part they lost the war because of it.
+
+176
+00:13:49,280 --> 00:13:52,680
+But the greatest code-breaking event in the history of cryptology
+
+177
+00:13:52,681 --> 00:13:55,660
+began on January 17, 1917.
+
+178
+00:13:56,880 --> 00:13:59,100
+The British intercepted a telegram
+
+179
+00:13:59,101 --> 00:14:02,020
+that was encrypted with the highest German diplomatic code,
+
+180
+00:14:02,780 --> 00:14:03,960
+0075.
+
+181
+00:14:05,540 --> 00:14:09,520
+It was a mind-numbing system of 10,000 words and phrases
+
+182
+00:14:09,521 --> 00:14:12,380
+attached to a thousand numerical code groups.
+
+183
+00:14:13,640 --> 00:14:16,900
+The secret message was from the German foreign minister,
+
+184
+00:14:17,220 --> 00:14:18,080
+Arthur Zimmerman,
+
+185
+00:14:18,840 --> 00:14:20,380
+to his ambassador in Washington,
+
+186
+00:14:20,940 --> 00:14:22,380
+Johann von Bernstorff,
+
+187
+00:14:22,680 --> 00:14:27,840
+for relay to Germany's ambassador to Mexico, Heinrich von Eckart.
+
+188
+00:14:28,480 --> 00:14:34,560
+The telegram would be deciphered there and sent to Mexico's president, Benustiano Carranza.
+
+189
+00:14:35,380 --> 00:14:44,740
+It was sent from Berlin to Washington, encrypted on the American undersea telegraph cable.
+
+190
+00:14:45,260 --> 00:14:48,900
+The British intercepted it there, recognized its importance.
+
+191
+00:14:48,901 --> 00:14:53,000
+It was in a new diplomatic system which the British had not yet broken.
+
+192
+00:14:54,260 --> 00:14:58,140
+After receiving the message in the new 0075 code,
+
+193
+00:14:58,820 --> 00:15:02,280
+von Bernstorff's office in Washington then made a fatal mistake.
+
+194
+00:15:04,420 --> 00:15:09,220
+In Washington, they took this telegram out of the new diplomatic codebook,
+
+195
+00:15:10,060 --> 00:15:12,800
+re-encrypted it in the old diplomatic codebook,
+
+196
+00:15:12,900 --> 00:15:15,540
+and sent it to Mexico City on the telegraph.
+
+197
+00:15:15,541 --> 00:15:19,540
+But the British had already broken the old code.
+
+198
+00:15:19,541 --> 00:15:25,540
+The British intercepted that version as well, had versions to compare.
+
+199
+00:15:25,541 --> 00:15:29,540
+Perhaps the silliest, most tragic error that a cryptographer can make.
+
+200
+00:15:29,541 --> 00:15:34,540
+British cryptanalysts began to decipher the message in the old code.
+
+201
+00:15:34,541 --> 00:15:36,540
+In painstaking chunks.
+
+202
+00:15:36,541 --> 00:15:40,540
+Constructing patterns using pencil and paper.
+
+203
+00:15:40,541 --> 00:15:42,540
+Within days, they had it.
+
+204
+00:15:42,541 --> 00:15:43,241
+added.
+
+205
+00:15:43,242 --> 00:15:48,860
+As the meaning of Zimmerman's secret message began to emerge, the import was stunning.
+
+206
+00:15:50,040 --> 00:15:54,740
+Despite the sinking of the American ocean liner Lusitania by the Germans in 1915,
+
+207
+00:15:55,760 --> 00:16:00,440
+America maintained its neutrality with the promise of German restrictions on its U-boats.
+
+208
+00:16:01,380 --> 00:16:07,560
+The Zimmerman telegram outlined Germany's intent to resume unrestricted submarine warfare
+
+209
+00:16:07,561 --> 00:16:12,640
+on February 1, 1917, as a means to strangle Britain.
+
+210
+00:16:14,060 --> 00:16:19,900
+To keep America at bay, Zimmerman proposed that Mexico invade the United States
+
+211
+00:16:19,901 --> 00:16:23,200
+and reclaim Texas, New Mexico, and Arizona.
+
+212
+00:16:24,680 --> 00:16:28,940
+Germany also asked Mexico to persuade Japan to attack America.
+
+213
+00:16:29,900 --> 00:16:33,280
+The actions would be backed with German military and financial aid.
+
+214
+00:16:33,281 --> 00:16:38,780
+the British Admiralty was desperate to get the deciphered message to the Americans
+
+215
+00:16:38,781 --> 00:16:41,840
+without alerting the Germans that their code had been broken
+
+216
+00:16:41,841 --> 00:16:47,100
+a British agent was able to infiltrate the Mexican telegraph office
+
+217
+00:16:47,101 --> 00:16:50,960
+and retrieve a deciphered copy of the message to Mexico's president
+
+218
+00:16:50,961 --> 00:16:54,740
+once they had their cover of a supposed leak in Mexico
+
+219
+00:16:54,741 --> 00:16:58,840
+the British approached the Americans and revealed the telegram
+
+220
+00:16:58,841 --> 00:17:01,740
+the whole country blew up
+
+221
+00:17:01,741 --> 00:17:03,700
+Everybody was incensed.
+
+222
+00:17:04,360 --> 00:17:07,380
+Formerly, only the East Coast was concerned.
+
+223
+00:17:07,820 --> 00:17:11,820
+Now, suddenly, the whole Midwest was worried about Mexico.
+
+224
+00:17:12,460 --> 00:17:17,780
+And six weeks after this message was deciphered, the United States declared war on Germany.
+
+225
+00:17:18,120 --> 00:17:23,260
+So it was probably the most significant event in code-breaking history.
+
+226
+00:17:23,261 --> 00:17:31,060
+What he did was convince the entire country that Germany was a national enemy
+
+227
+00:17:31,061 --> 00:17:35,360
+And a few months later, when Woodrow Wilson asked for a declaration of war,
+
+228
+00:17:35,680 --> 00:17:40,200
+he had a united and angry country behind him, ready to go to war against the Germans.
+
+229
+00:17:41,180 --> 00:17:48,920
+A single breakthrough by the cryptanalysts in Room 40 had succeeded where three years of intensive diplomacy had failed.
+
+230
+00:17:50,500 --> 00:17:56,220
+Code breaking would play an even greater role in cryptology's golden age, World War II.
+
+231
+00:17:56,221 --> 00:18:03,660
+At the end of World War I, the power of the code breakers over the code makers seemed obvious.
+
+232
+00:18:04,400 --> 00:18:11,160
+But by 1917, American inventor Edward Hebern conceived the first model of an electrical machine,
+
+233
+00:18:11,880 --> 00:18:15,160
+made with a wired rotor of letters attached to a keyboard.
+
+234
+00:18:16,540 --> 00:18:21,020
+One year later, a German electrical engineer, Arthur Sherbius,
+
+235
+00:18:21,780 --> 00:18:25,840
+independently created an electrical encryption machine similar to Hebern's.
+
+236
+00:18:26,220 --> 00:18:27,736
+with several rotors.
+
+237
+00:18:27,737 --> 00:18:33,420
+The inventions revolutionized cryptography by mechanizing the production of
+
+238
+00:18:33,421 --> 00:18:37,296
+codes with millions of potential variations.
+
+239
+00:18:37,297 --> 00:18:41,260
+Imagine a hockey puck, 26 electrical contacts
+
+240
+00:18:41,261 --> 00:18:46,759
+on one side, 26 electrical contacts on the other side, wired at random.
+
+241
+00:18:46,760 --> 00:18:48,540
+You shoot an electrical
+
+242
+00:18:48,541 --> 00:18:54,472
+current through into A. It comes out at Q, lights up a letter.
+
+243
+00:18:54,473 --> 00:18:56,960
+Now this hockey puck turns
+
+244
+00:18:56,961 --> 00:19:03,744
+one space. You shoot a current in again at A. Now it's going to come out at X.
+
+245
+00:19:03,745 --> 00:19:04,445
+And this
+
+246
+00:19:04,446 --> 00:19:08,819
+continues to turn until you go through all 26 revolutions.
+
+247
+00:19:08,820 --> 00:19:11,160
+And then instead of just having
+
+248
+00:19:11,161 --> 00:19:17,040
+one cipher machine, one cipher wheel next to another, you have several rotors next to
+
+249
+00:19:17,041 --> 00:19:25,651
+another. By the mid-1920s, Sherbius was mass-producing his new model called Enigma.
+
+250
+00:19:25,652 --> 00:19:27,000
+Over the next
+
+251
+00:19:27,001 --> 00:19:32,100
+two decades, he would sell more than 30,000 units to the German military that viewed it
+
+252
+00:19:32,101 --> 00:19:33,218
+as a godsend.
+
+253
+00:19:33,219 --> 00:19:39,840
+Meanwhile, the cryptology offices of the Allies had dwindled in personnel and
+
+254
+00:19:39,841 --> 00:19:40,541
+quality.
+
+255
+00:19:40,542 --> 00:19:45,080
+But Poland, because of its geographical vulnerability between Germany and Russia,
+
+256
+00:19:45,081 --> 00:19:46,920
+was desperate for intelligence.
+
+257
+00:19:48,400 --> 00:19:50,940
+The Poles set up a world-leading cryptanalyst bureau
+
+258
+00:19:50,941 --> 00:19:54,000
+and hired a group of brilliant mathematicians.
+
+259
+00:19:54,580 --> 00:19:57,780
+One of them was 23-year-old Marian Rajevsky.
+
+260
+00:19:58,760 --> 00:20:03,400
+What Rajevsky realized was that if you have a machine that's based on rotors,
+
+261
+00:20:03,600 --> 00:20:05,820
+there's certain mathematical relationships
+
+262
+00:20:05,821 --> 00:20:10,200
+between the way it encyphers a letter in one position
+
+263
+00:20:10,201 --> 00:20:14,120
+and the way it encyphers a letter in the next position in sequence.
+
+264
+00:20:14,121 --> 00:20:18,220
+Even today, it's an astonishing accomplishment of what he did,
+
+265
+00:20:18,760 --> 00:20:25,320
+was able to reconstruct the wiring of the rotors of an Enigma machine without ever having seen one.
+
+266
+00:20:26,400 --> 00:20:29,740
+In building his own model of the German military Enigma,
+
+267
+00:20:30,580 --> 00:20:36,120
+all Raevsky had was a commercial version of Enigma and his extraordinary math skills.
+
+268
+00:20:37,400 --> 00:20:41,920
+At the time, only a few hundred German military Enigma units existed,
+
+269
+00:20:41,921 --> 00:20:45,320
+and all were kept under tight control by the German army.
+
+270
+00:20:46,240 --> 00:20:51,140
+Then in 1931, a German trader, Hans Thilo Schmidt,
+
+271
+00:20:51,640 --> 00:20:54,680
+supplied background information for using the Enigma machine
+
+272
+00:20:54,681 --> 00:20:56,440
+which aided Rayefsky's guesswork.
+
+273
+00:20:58,240 --> 00:21:01,220
+The one piece of the puzzle he did not have
+
+274
+00:21:01,221 --> 00:21:04,820
+was knowing how the keyboard of the Enigma machine
+
+275
+00:21:04,821 --> 00:21:07,200
+was wired up to the first rotor.
+
+276
+00:21:07,540 --> 00:21:11,040
+Maybe he had a good sense of the lack of imagination of the Germans
+
+277
+00:21:11,041 --> 00:21:15,340
+but he thought, well, maybe they wired A to A and B to B and C to C,
+
+278
+00:21:15,420 --> 00:21:16,340
+and sure enough, that was it.
+
+279
+00:21:16,660 --> 00:21:20,020
+He tried that, and he said the solution started coming out
+
+280
+00:21:20,021 --> 00:21:23,580
+as if by magic, almost, on this paper in front of him.
+
+281
+00:21:25,280 --> 00:21:28,320
+But the Germans routinely changed the daily key,
+
+282
+00:21:29,220 --> 00:21:32,760
+the indicator setting that determined the scrambling of their daily messages.
+
+283
+00:21:35,080 --> 00:21:38,220
+The daily key was distributed in a monthly codebook
+
+284
+00:21:38,221 --> 00:21:41,980
+to both sender and receiver to code and decode messages.
+
+285
+00:21:42,740 --> 00:21:44,580
+To find the daily key,
+
+286
+00:21:45,100 --> 00:21:49,000
+Rajevsky built and connected replicas of six Enigma machines together
+
+287
+00:21:49,001 --> 00:21:52,900
+that ran through more than 17,000 indicator settings.
+
+288
+00:21:53,820 --> 00:21:56,820
+He called his new contraption the bomb
+
+289
+00:21:56,821 --> 00:22:00,060
+because of its ticking noise while running the permutations.
+
+290
+00:22:01,080 --> 00:22:05,060
+Code making had been mechanized with the cipher machines, the Enigma,
+
+291
+00:22:05,061 --> 00:22:10,180
+And now what the Poles were doing after mathematizing their code breaking
+
+292
+00:22:10,181 --> 00:22:17,280
+was carrying it the next step further and mechanizing the mathematized code breaking.
+
+293
+00:22:18,160 --> 00:22:22,320
+It was a great insight when they invented it, a machine to solve a machine.
+
+294
+00:22:23,440 --> 00:22:27,140
+The Poles secretly read the Enigma traffic for several years
+
+295
+00:22:27,141 --> 00:22:30,580
+until they hit a huge obstacle in December 1938
+
+296
+00:22:30,581 --> 00:22:34,000
+when the Germans added two new rotors into the rotation.
+
+297
+00:22:35,060 --> 00:22:40,840
+This exponentially increased the need for more bombs and cryptanalysts to run through the daily settings.
+
+298
+00:22:42,040 --> 00:22:47,060
+Fearing a German invasion, the Poles finally called in their allies, Britain and France.
+
+299
+00:22:47,720 --> 00:22:54,060
+In a small brick hut in the Pyrrha Forest south of Warsaw, the Poles revealed their astounding discoveries.
+
+300
+00:22:56,920 --> 00:23:02,200
+And at the proper moment, they stripped away these cloths, they pulled them off,
+
+301
+00:23:02,201 --> 00:23:07,200
+and there in front of the astonished eyes of the British and the French code breakers
+
+302
+00:23:07,201 --> 00:23:10,740
+were replicas of German Enigma machines.
+
+303
+00:23:11,680 --> 00:23:16,460
+The British were able to smuggle out the machines two weeks before Hitler invaded Poland.
+
+304
+00:23:17,520 --> 00:23:20,560
+They went straight to the government's code and cipher school,
+
+305
+00:23:21,340 --> 00:23:26,200
+otherwise known as Bletchley Park, an ornate mansion 50 miles north of London.
+
+306
+00:23:27,400 --> 00:23:31,160
+Alan Turing, a math genius recruited to Bletchley from Cambridge,
+
+307
+00:23:31,161 --> 00:23:35,200
+soon made a fundamental insight into the workings of the bombs.
+
+308
+00:23:36,360 --> 00:23:42,720
+The original Polish bomb would just keep sorting through German military messages
+
+309
+00:23:42,721 --> 00:23:44,360
+until it came upon a key word.
+
+310
+00:23:44,840 --> 00:23:49,960
+Alan Turing realized that there were so many possibilities in the German Enigma machine
+
+311
+00:23:49,961 --> 00:23:52,620
+that they couldn't run through them all.
+
+312
+00:23:52,621 --> 00:23:56,500
+And he had a different approach, and he devised a machine
+
+313
+00:23:56,501 --> 00:24:02,960
+which would eliminate most of the possibilities, leaving relatively few to be tested.
+
+314
+00:24:04,400 --> 00:24:09,640
+Each of Turing's bombs had 180 rotors that clicked round letter by letter,
+
+315
+00:24:10,280 --> 00:24:13,740
+20 every second, until they hit the correct one.
+
+316
+00:24:15,160 --> 00:24:18,500
+By this time, Bletchley was filled with hundreds of codebreakers
+
+317
+00:24:19,040 --> 00:24:24,280
+who were divided into huts and labored in shifts to solve the flood of incoming messages.
+
+318
+00:24:24,281 --> 00:24:32,280
+True meritocracy and rank didn't matter a hoot.
+
+319
+00:24:32,281 --> 00:24:40,400
+And if the guy was good, regardless of what rank, he was given a free hand.
+
+320
+00:24:40,401 --> 00:24:45,820
+It requires a certain almost contradictory combination of talents.
+
+321
+00:24:45,821 --> 00:24:59,360
+On the one hand, this ability to deal with detail, but at the same time, this ability to achieve this almost sort of illogical leaps of insight and intuition.
+
+322
+00:25:01,000 --> 00:25:05,140
+It almost is that you wanted, you know, Beethoven with the soul of an accountant.
+
+323
+00:25:06,920 --> 00:25:11,260
+Soon, Britain was deciphering large numbers of the German enigma communications.
+
+324
+00:25:11,261 --> 00:25:20,200
+In 1943, a British engineer, Tommy Flowers, created Colossus, a mechanism that moved code
+
+325
+00:25:20,201 --> 00:25:26,900
+breaking from electromechanical to purely electronic, which worked much faster.
+
+326
+00:25:26,901 --> 00:25:33,120
+It read Germany's most complex coding system, the 12 rotor Lorenz machine, used by Germany's
+
+327
+00:25:33,121 --> 00:25:36,640
+top commanders, including Hitler.
+
+328
+00:25:36,641 --> 00:25:42,860
+Colossus was a proto-computer, capable of reading paper tape at 5,000 characters a second.
+
+329
+00:25:45,840 --> 00:25:51,440
+The Allied breaking of the German codes played a key role in such victories as the Battle of the Atlantic,
+
+330
+00:25:52,280 --> 00:25:54,620
+the War in North Africa, and D-Day.
+
+331
+00:25:56,860 --> 00:26:01,060
+Allied code breaking shortened the war, saved millions of lives,
+
+332
+00:26:01,520 --> 00:26:04,020
+and highlighted the power of brains over bullets.
+
+333
+00:26:05,020 --> 00:26:07,240
+It also launched the computer age.
+
+334
+00:26:08,700 --> 00:26:13,100
+But there was another coding system used by the Japanese in World War II
+
+335
+00:26:13,101 --> 00:26:16,220
+that the Americans were just as determined to crack.
+
+336
+00:26:17,100 --> 00:26:21,920
+At the close of World War I, American cryptology was rudimentary.
+
+337
+00:26:22,860 --> 00:26:27,280
+But since the early 1920s, a lone genius, William Friedman,
+
+338
+00:26:27,740 --> 00:26:31,900
+had been developing statistical methods to solve the codes of the new rotor machines
+
+339
+00:26:31,901 --> 00:26:33,700
+while heading the U.S. Signal Corps.
+
+340
+00:26:34,020 --> 00:26:45,500
+When Japan switched to a mechanized coding system in the mid-1930s, Friedman's team of codebreakers was soon reading Japan's new red code for diplomatic communications.
+
+341
+00:26:46,960 --> 00:26:50,860
+But solving Japan's codes was a torturous process.
+
+342
+00:26:51,420 --> 00:27:00,080
+When you're trying to solve a code, you come in every day and look at an inscrutable bunch of letters or numbers.
+
+343
+00:27:00,680 --> 00:27:03,440
+It's anguish. Maybe we should try this, maybe we should try that.
+
+344
+00:27:03,441 --> 00:27:07,500
+day after day, month after month, year after year sometimes,
+
+345
+00:27:07,920 --> 00:27:12,040
+until finally new messages come in which allow you to see
+
+346
+00:27:12,041 --> 00:27:14,700
+some kind of pattern which you hadn't seen before.
+
+347
+00:27:15,440 --> 00:27:20,440
+Then in February 1939, Japan introduced the Purple Machine,
+
+348
+00:27:21,160 --> 00:27:25,920
+a mind-twisting coding system that employed several rotors and telephone switches.
+
+349
+00:27:27,360 --> 00:27:30,180
+But Japan then made a critical human error,
+
+350
+00:27:30,181 --> 00:27:33,780
+an important factor in code breaking throughout history.
+
+351
+00:27:35,040 --> 00:27:39,620
+The Japanese helped out by sending the same messages in the red and purple systems.
+
+352
+00:27:40,480 --> 00:27:45,280
+This allowed Americans to compare the two systems and make some breaks.
+
+353
+00:27:46,700 --> 00:27:51,560
+A young MIT electrical engineer in Friedman's group, Leo Rosen,
+
+354
+00:27:52,360 --> 00:27:55,940
+built a machine to simulate Purple's complex scrambling patterns.
+
+355
+00:27:55,941 --> 00:28:03,320
+by 1940 the contraption had automated the decipherment of the Japanese purple
+
+356
+00:28:03,321 --> 00:28:05,820
+code
+
+357
+00:28:05,821 --> 00:28:09,920
+it was a great intellectual accomplishment made the decryption of
+
+358
+00:28:09,921 --> 00:28:13,960
+these Japanese messages almost automatic it sometimes would allow the
+
+359
+00:28:13,961 --> 00:28:19,220
+Americans to read the Japanese ambassadors mail before he did the
+
+360
+00:28:19,221 --> 00:28:22,820
+purple code breakthrough led to one of the greatest intelligence crews of the
+
+361
+00:28:22,821 --> 00:28:23,521
+war.
+
+362
+00:28:23,522 --> 00:28:30,560
+Tokyo's ambassador to Berlin, Hiroshi Oshima, made a frontline tour of Germany's
+
+363
+00:28:30,561 --> 00:28:32,905
+defenses in Normandy in 1943.
+
+364
+00:28:32,906 --> 00:28:37,920
+He then transmitted a lengthy description back to Japan in the
+
+365
+00:28:37,921 --> 00:28:38,880
+Purple Code.
+
+366
+00:28:38,881 --> 00:28:45,040
+He describes in incredible detail, I mean, down to the caliber of the weapons
+
+367
+00:28:45,041 --> 00:28:51,580
+in the German fortifications, the dimensions of the anti-tank ditches, where minefields
+
+368
+00:28:51,581 --> 00:28:53,240
+It was really a gold mine.
+
+369
+00:28:54,020 --> 00:28:57,580
+The solved message was soon on General Eisenhower's desk.
+
+370
+00:28:58,440 --> 00:29:03,080
+He used it to plan the D-Day invasion of France that was launched six months later.
+
+371
+00:29:03,920 --> 00:29:10,280
+Though purple had been cracked, America still worked desperately to solve the JN-25B code,
+
+372
+00:29:10,920 --> 00:29:12,760
+Japan's secret naval communications.
+
+373
+00:29:13,840 --> 00:29:17,400
+Joseph Rochefort, a longtime cryptanalyst fluent in Japanese,
+
+374
+00:29:18,100 --> 00:29:19,900
+led the effort in Station Hypo,
+
+375
+00:29:19,901 --> 00:29:22,820
+the Navy's code-breaking branch in Hawaii.
+
+376
+00:29:24,320 --> 00:29:28,480
+By March 1942, after years of excruciating work,
+
+377
+00:29:29,060 --> 00:29:31,360
+JN-25B was broken.
+
+378
+00:29:32,420 --> 00:29:35,520
+On May 14th, a Japanese message was decoded
+
+379
+00:29:35,521 --> 00:29:39,100
+outlining a huge invasion force heading to AF.
+
+380
+00:29:40,840 --> 00:29:43,900
+Rochefort and Admiral Chester Nimitz immediately believed
+
+381
+00:29:43,901 --> 00:29:48,200
+AF was Midway, one of America's key outposts in the Pacific.
+
+382
+00:29:49,200 --> 00:29:52,340
+But Washington believed it was the Aleutian Islands.
+
+383
+00:29:53,040 --> 00:29:56,820
+Really it was to shut up the doubters in Washington
+
+384
+00:29:56,821 --> 00:30:02,580
+that Rochefort carried out what's now this famous stunt
+
+385
+00:30:02,581 --> 00:30:05,440
+of having a message sent to Midway
+
+386
+00:30:05,441 --> 00:30:08,240
+ordering them to send a message
+
+387
+00:30:08,241 --> 00:30:11,720
+announcing that their desalination plant had broken.
+
+388
+00:30:11,721 --> 00:30:15,960
+And then a few days later, a JN25 message was broken
+
+389
+00:30:15,961 --> 00:30:21,740
+in which the Japanese said that they had intercepted this American message
+
+390
+00:30:21,741 --> 00:30:24,560
+saying that AF was short of water.
+
+391
+00:30:24,820 --> 00:30:27,400
+This really, you know, dotted the I and crossed the T.
+
+392
+00:30:28,620 --> 00:30:32,540
+The invasion of Midway was the grand plan of Isoroku Yamamoto,
+
+393
+00:30:33,240 --> 00:30:35,060
+Japan's legendary naval commander.
+
+394
+00:30:37,460 --> 00:30:39,600
+The intent was to take over the island,
+
+395
+00:30:40,260 --> 00:30:42,780
+draw out the remaining American fleet from Pearl Harbor,
+
+396
+00:30:43,040 --> 00:30:45,280
+and destroy it with a surprise attack.
+
+397
+00:30:45,960 --> 00:30:55,320
+On June 4th, 1942, the Japanese began to attack Midway, but lurking on the horizon with the coiled forces of the U.S.
+
+398
+00:30:55,321 --> 00:30:56,021
+Navy.
+
+399
+00:30:57,060 --> 00:31:05,000
+Knowing in advance what the Japanese plans were, allowed Nimitz to get his carriers there first and essentially to surprise the Japanese.
+
+400
+00:31:05,001 --> 00:31:18,233
+We were able to hover off their flank and, unsuspecting of the Japanese, hurl ourselves on the Japanese, sink four carriers and send the Japanese battleships and
+
+401
+00:31:18,234 --> 00:31:24,480
+We knew where the Japanese fleet was coming. carriers reeling back to Japan.
+
+402
+00:31:24,940 --> 00:31:32,380
+That knowledge not only was the turning point for the Battle of Midway, but the Battle of Midway was the turning point in the entire Pacific War.
+
+403
+00:31:32,381 --> 00:31:36,940
+It was a stunning and flawless operation.
+
+404
+00:31:38,140 --> 00:31:42,320
+And in another part of the Pacific, the Americans were launching one of their own codes,
+
+405
+00:31:42,780 --> 00:31:45,000
+one that would never be broken in World War II.
+
+406
+00:31:45,940 --> 00:31:49,000
+Philip Johnston, a retired engineer living in Los Angeles,
+
+407
+00:31:49,640 --> 00:31:53,140
+proposed using the Navajo language to the Marines in 1942.
+
+408
+00:31:55,040 --> 00:31:56,940
+Johnston grew up on a Navajo reservation
+
+409
+00:31:56,941 --> 00:32:01,200
+and was fluent in its complex forms of conjugation, sounds, and structure.
+
+410
+00:32:02,380 --> 00:32:06,700
+It was remote. Only about 30 white Americans could speak it.
+
+411
+00:32:07,520 --> 00:32:10,300
+No German, Japanese or Italian had ever studied it.
+
+412
+00:32:11,820 --> 00:32:17,760
+The Navajo were also one of America's largest tribes with a potentially huge pool of code talkers.
+
+413
+00:32:17,761 --> 00:32:21,620
+We used what we call a phonetic alphabet.
+
+414
+00:32:22,520 --> 00:32:24,620
+So we use it by sound.
+
+415
+00:32:25,120 --> 00:32:31,760
+It's natural sounds and guttural sounds and interchangeable.
+
+416
+00:32:32,380 --> 00:32:39,540
+Within weeks of hearing Johnston's idea, the Marines were training 29 Navajo code talkers near San Diego.
+
+417
+00:32:40,660 --> 00:32:47,960
+To avoid confusion, many Navajo words from the natural world were used to indicate specific military terms.
+
+418
+00:32:49,660 --> 00:32:53,400
+Cheetelahi in Navajo is a turtle.
+
+419
+00:32:54,200 --> 00:33:02,240
+And when you send a message and say cheetelahi on the radio, the receiver writes down tanks.
+
+420
+00:33:02,380 --> 00:33:04,580
+T-A-N-K-S
+
+421
+00:33:04,581 --> 00:33:13,380
+By August 1942, the first group of Navajo code talkers saw action during the invasion of Guadalcanal.
+
+422
+00:33:15,820 --> 00:33:21,900
+By the end of the year, an additional 83 code talkers were serving in all six Marine Corps divisions.
+
+423
+00:33:22,380 --> 00:33:28,300
+If you wanted to communicate a written message securely, you had to type it out or write it out.
+
+424
+00:33:28,301 --> 00:33:32,160
+You had to give it to a code guy. This could take an hour or several hours.
+
+425
+00:33:32,380 --> 00:33:35,420
+With the Navajo code, guys, it was instantaneous.
+
+426
+00:33:36,300 --> 00:33:38,980
+The Navajo spoke directly over the radio,
+
+427
+00:33:39,740 --> 00:33:43,460
+sending and receiving battlefield communications from both field headquarters
+
+428
+00:33:43,461 --> 00:33:46,360
+and from the front lines in their native language.
+
+429
+00:33:47,200 --> 00:33:53,420
+When you send the Navajo code, the receiver gets it, gives it to commanding officers.
+
+430
+00:33:53,580 --> 00:33:58,700
+That's how fast it was, two minutes against two hours.
+
+431
+00:33:58,701 --> 00:34:03,700
+By war's end, there were 420 Navajo code talkers.
+
+432
+00:34:03,701 --> 00:34:05,208
+After the war, the U.S.
+
+433
+00:34:05,209 --> 00:34:11,700
+government forbade them to talk of their unique contributions because of the secrecy of their code.
+
+434
+00:34:11,701 --> 00:34:16,700
+Only in 1968 was the Navajo code made public.
+
+435
+00:34:16,701 --> 00:34:22,700
+And in 1982, the code talkers were finally honored with a special commemoration day.
+
+436
+00:34:22,701 --> 00:34:29,700
+America owes the Navajo code talkers the lives of many of its sons.
+
+437
+00:34:29,701 --> 00:34:34,700
+The greatest tribute was that their code was never broken.
+
+438
+00:34:34,701 --> 00:34:39,700
+But for code makers, the hunt for a truly unbreakable code is an obsession
+
+439
+00:34:39,701 --> 00:34:43,700
+that continues into the age of computers.
+
+440
+00:34:43,701 --> 00:34:48,700
+American code breaker William Friedman invented several cryptologic machines,
+
+441
+00:34:48,701 --> 00:34:52,020
+Two of which were so secret, patents were never filed.
+
+442
+00:34:53,360 --> 00:34:55,540
+Codes will return on modern marvels.
+
+443
+00:34:57,560 --> 00:35:01,420
+For centuries, governments had controlled cryptology.
+
+444
+00:35:02,440 --> 00:35:04,920
+That would change with the modern age.
+
+445
+00:35:05,940 --> 00:35:10,820
+Soon after World War II, computers began to create codes of almost infinite complexity.
+
+446
+00:35:11,500 --> 00:35:13,600
+There's a rule of thumb in cryptography.
+
+447
+00:35:13,601 --> 00:35:24,500
+If you double the number of combinations that the code makes, you have to square the number of combinations that the code breaker has to try.
+
+448
+00:35:24,940 --> 00:35:30,620
+So one guy is going from 5 to 10, but the code breaker has to go from 5 to 25.
+
+449
+00:35:31,300 --> 00:35:38,860
+It's much easier to make the number of combinations virtually impossible to test.
+
+450
+00:35:38,861 --> 00:35:43,780
+But this new encryption was still only accessible to the government.
+
+451
+00:35:44,880 --> 00:35:49,420
+In 1952, President Harry Truman founded the National Security Agency,
+
+452
+00:35:50,060 --> 00:35:53,480
+the greatest collection of computer and cryptologic talent in the world.
+
+453
+00:35:54,400 --> 00:35:58,720
+Its charge was to intercept and decrypt intelligence from all over the globe.
+
+454
+00:35:59,980 --> 00:36:04,980
+By the 1970s, more businesses began using computers to encrypt communications.
+
+455
+00:36:04,981 --> 00:36:11,720
+But distributing secret keys needed to encode and decode messages remained cryptology's
+
+456
+00:36:11,721 --> 00:36:15,760
+greatest historical problem.
+
+457
+00:36:15,761 --> 00:36:20,020
+Businesses had to physically fly couriers to dozens of distant offices to deliver the
+
+458
+00:36:20,021 --> 00:36:27,380
+secret keys to avoid interception and to ensure absolute security.
+
+459
+00:36:27,381 --> 00:36:31,420
+But key distribution was not cryptology's only problem.
+
+460
+00:36:31,421 --> 00:36:36,960
+By the 1970s, some people were concerned about the growing code-breaking power of the government
+
+461
+00:36:36,961 --> 00:36:40,700
+because of computer technology.
+
+462
+00:36:40,701 --> 00:36:47,640
+I think the biggest threat to privacy that we face is Moore's law.
+
+463
+00:36:47,641 --> 00:36:51,120
+It's the power of computing doubling every 18 months.
+
+464
+00:36:51,121 --> 00:36:55,820
+The human population is not doubling every 18 months, but the ability for computers to
+
+465
+00:36:55,821 --> 00:36:59,220
+keep track of us is.
+
+466
+00:36:59,221 --> 00:37:06,820
+technology with computers behind them to analyze the surveillance data can give rise to an omniscient
+
+467
+00:37:06,821 --> 00:37:15,260
+government and it's not clear that democracy can survive omniscience by the mid-1970s a trio of
+
+468
+00:37:15,261 --> 00:37:22,100
+Stanford cryptographers Whitfield Diffie Martin Hellman and Ralph Merkel created a theoretical
+
+469
+00:37:22,101 --> 00:37:27,420
+model for coded computer communications that eliminated the need for a secret distribution
+
+470
+00:37:27,421 --> 00:37:28,121
+of keys.
+
+471
+00:37:28,122 --> 00:37:33,480
+It also sought to offer powerful digital encryption to a perceived future of
+
+472
+00:37:33,481 --> 00:37:38,453
+mass computer users, as a counterweight to government spying.
+
+473
+00:37:38,454 --> 00:37:40,980
+Called public key cryptography,
+
+474
+00:37:41,560 --> 00:37:48,120
+it gave each computer user a pair of different but related keys, one public and one private.
+
+475
+00:37:50,340 --> 00:37:53,683
+Now say Bob wants to send a secret message to Alice.
+
+476
+00:37:53,684 --> 00:37:55,740
+Bob would use Alice's public key
+
+477
+00:37:55,741 --> 00:38:01,865
+for encoding, but only Alice could use her private key to decode the message.
+
+478
+00:38:01,866 --> 00:38:02,740
+No physical
+
+479
+00:38:02,741 --> 00:38:05,045
+transportation of secret keys.
+
+480
+00:38:05,046 --> 00:38:09,500
+And now even Bob and Alice could theoretically have access
+
+481
+00:38:09,501 --> 00:38:15,880
+to encrypted communications hidden from the most powerful investigative forces in government.
+
+482
+00:38:15,881 --> 00:38:17,156
+Complete privacy.
+
+483
+00:38:17,157 --> 00:38:22,560
+None of the other developments in cryptography that I have seen from the
+
+484
+00:38:22,561 --> 00:38:28,320
+The beginning of codes and ciphers themselves has had the impact or has been as original
+
+485
+00:38:28,321 --> 00:38:36,560
+a concept in cryptography as Whitfield Diffie's invention of public key cryptography.
+
+486
+00:38:36,561 --> 00:38:44,180
+Within a year, three MIT researchers, Ronald Rivest, Adi Shamir, and Leonard Adelman, created
+
+487
+00:38:44,181 --> 00:38:51,240
+a series of mathematical equations using prime numbers that made Diffie's theory practical.
+
+488
+00:38:51,241 --> 00:38:56,160
+As a side note, a group of three scientists, James Ellis, Malcolm Williamson and Clifford
+
+489
+00:38:56,161 --> 00:39:03,060
+Cox, working for Britain's government communications headquarters, apparently independently invented
+
+490
+00:39:03,061 --> 00:39:10,800
+public key cryptography by the mid-1970s, just before Whitfield Diffie.
+
+491
+00:39:10,801 --> 00:39:16,400
+Their work was classified, and it wasn't until 1997 that public acknowledgement of their
+
+492
+00:39:16,401 --> 00:39:19,740
+feat was recognized.
+
+493
+00:39:19,741 --> 00:39:26,600
+As for the three MIT inventors, they formed RSA Data Security in 1982, the first company
+
+494
+00:39:26,601 --> 00:39:32,180
+to commercialize public key cryptography and launch secure e-commerce.
+
+495
+00:39:32,181 --> 00:39:37,860
+The market we were going after in 1982 was the Internet market.
+
+496
+00:39:37,861 --> 00:39:44,580
+But we were so premature because of this to be 15 years later that the World Wide Web
+
+497
+00:39:44,581 --> 00:39:46,580
+took off.
+
+498
+00:39:46,581 --> 00:39:51,500
+But the National Security Agency did notice and desperately tried to stop the spread of
+
+499
+00:39:51,501 --> 00:39:55,060
+public cryptography.
+
+500
+00:39:55,061 --> 00:40:00,980
+In 1986, the government stopped Lotus Development from exporting its software because it included
+
+501
+00:40:00,981 --> 00:40:04,300
+RSA encryption.
+
+502
+00:40:04,301 --> 00:40:09,620
+Then in 1993, the government investigated Phil Zimmerman for creating and distributing
+
+503
+00:40:09,621 --> 00:40:16,380
+Pretty Good Privacy, a software that used RSA encryption over the Internet.
+
+504
+00:40:16,381 --> 00:40:19,260
+PGP could be used on anybody's personal computer,
+
+505
+00:40:19,760 --> 00:40:22,880
+instead of just the giant machines used by the government and businesses.
+
+506
+00:40:24,360 --> 00:40:28,300
+There was a time when NSA held a monopoly on this kind of technology.
+
+507
+00:40:28,860 --> 00:40:32,600
+But over the past 20 years, that monopoly has eroded,
+
+508
+00:40:32,601 --> 00:40:38,020
+and now academic cryptography has reached parity with the NSA.
+
+509
+00:40:39,120 --> 00:40:43,200
+And PGP uses the best of the academic cryptographic algorithms
+
+510
+00:40:43,201 --> 00:40:45,260
+and has made it available to the masses.
+
+511
+00:40:45,261 --> 00:40:52,820
+The National Security Agency was terrified that criminals were now accessing the world's most powerful, unbreakable encryption.
+
+512
+00:40:53,900 --> 00:40:59,560
+The NSA believed PGP was severely compromising its code-breaking and intelligence-gathering abilities.
+
+513
+00:41:00,080 --> 00:41:04,720
+Many times I've been worried about if criminals and terrorists were to use this technology.
+
+514
+00:41:05,680 --> 00:41:07,640
+And I did a lot of soul-searching on it.
+
+515
+00:41:07,880 --> 00:41:11,100
+I sometimes lost sleep thinking about it.
+
+516
+00:41:11,101 --> 00:41:15,780
+but individual governments like Stalin or Hitler
+
+517
+00:41:15,781 --> 00:41:20,240
+have killed more people than all of the criminals of the 20th century combined
+
+518
+00:41:20,241 --> 00:41:21,460
+all over the world.
+
+519
+00:41:22,160 --> 00:41:27,500
+By 1994, RSA encryption was widely used in most U.S. software
+
+520
+00:41:27,501 --> 00:41:29,920
+and companies were pushing to export it.
+
+521
+00:41:30,880 --> 00:41:35,040
+The government urgently sought a compromise by introducing the Clipper chip,
+
+522
+00:41:35,560 --> 00:41:38,760
+a government chip that would be installed in communications devices.
+
+523
+00:41:39,700 --> 00:41:44,480
+The chip, like a wiretap, could only be accessed by the government through a court order.
+
+524
+00:41:45,720 --> 00:41:50,840
+Law enforcement could still eavesdrop on suspected criminals, but grant the public a level of privacy.
+
+525
+00:41:51,340 --> 00:41:58,300
+People were concerned that it was voluntary to start out with, but that it would become mandatory, that it would be pushed upon them.
+
+526
+00:41:59,060 --> 00:42:01,920
+They were concerned about loss of personal privacy.
+
+527
+00:42:02,660 --> 00:42:08,520
+Do you want to control your private communications just by yourself, or do you want to be partners with the government?
+
+528
+00:42:08,760 --> 00:42:11,500
+in controlling your private communication.
+
+529
+00:42:12,340 --> 00:42:17,360
+And ultimately, the society has decided that we want to keep privacy to ourselves.
+
+530
+00:42:18,560 --> 00:42:22,800
+After a five-year fight and a huge public backlash to the proposal,
+
+531
+00:42:23,460 --> 00:42:27,820
+the Clinton administration granted businesses the right to export public cryptography.
+
+532
+00:42:29,480 --> 00:42:36,040
+By 1996, after MIT had published PGP in a book and posted it on its website,
+
+533
+00:42:36,041 --> 00:42:39,360
+The government backed off its investigation of Zimmerman.
+
+534
+00:42:41,600 --> 00:42:46,840
+Even though government has intruded increasingly into private lives
+
+535
+00:42:46,841 --> 00:42:52,100
+and has greater capacities these days to intercept communications,
+
+536
+00:42:52,660 --> 00:42:58,460
+the growth of encryption has made it possible for individuals to protect themselves
+
+537
+00:42:58,461 --> 00:43:03,500
+and protect their privacy in a way that had never been able to be done before.
+
+538
+00:43:03,501 --> 00:43:10,040
+You know, historically there's been a battle between cryptographers who make the codes and cryptanalysts who break the codes.
+
+539
+00:43:10,820 --> 00:43:18,140
+And Edgar Allan Poe once said that any code that a man can invent, another man can break.
+
+540
+00:43:18,600 --> 00:43:21,200
+But it turns out that that's probably incorrect.
+
+541
+00:43:21,660 --> 00:43:25,180
+The best mathematical evidence we have is that that's not the case.
+
+542
+00:43:25,440 --> 00:43:29,160
+That, in fact, code makers do win over code breakers.
+
+543
+00:43:29,400 --> 00:43:32,940
+Code breaking will last as long as people make mistakes.
+
+544
+00:43:33,500 --> 00:43:37,820
+but the code systems themselves are getting better and better.
+
+545
+00:43:38,260 --> 00:43:40,480
+They can't be broken now if properly used.
+
+546
+00:43:41,200 --> 00:43:46,100
+So I think we're in an era of the slow death of the code breaker,
+
+547
+00:43:46,540 --> 00:43:48,040
+much as I regret it in a way,
+
+548
+00:43:48,840 --> 00:43:53,460
+and increasingly in the era of the code maker.
+
+549
+00:43:54,380 --> 00:43:58,700
+But throughout history, new codes have always been declared unbreakable,
+
+550
+00:43:59,200 --> 00:44:01,060
+only to be eventually broken.
+
+551
+00:44:01,061 --> 00:44:08,060
+As codes enter the realm of quantum computers, human ingenuity will be tested once again.
+
+552
+00:44:08,061 --> 00:44:11,060
+Only time will tell the victors.
+

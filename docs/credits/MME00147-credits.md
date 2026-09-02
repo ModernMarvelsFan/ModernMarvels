@@ -1,0 +1,48 @@
+# Credit Roll: Suez Canal (2000)
+**Canonical Episode:** [`MME00147: Suez Canal`](../episodes/MME00147.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `© 2005 A&E Television Networks`
+* **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY TELEVISION NETWORK PRODUCTIONS
+* **Narrator:** —
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Animation** | DOUGLAS A. WHITNEY |
+| **Assistant Editor** | HARRIS COHEN |
+| **Assistant Production Accountant** | LINDA SCRIBNER |
+| **Associate Producers** | ERIC H. LINDSTROM, CHRISTOF RITTER |
+| **Camera** | CHRISTINA AMBLAR, MARK BROADWATER, SHAUN DONAHUE, DYLAN O'BRIEN |
+| **Clearance Coordinator** | KATIE DEL CORE |
+| **Clearance Supervisor** | CHARLOTTE CARPENTER |
+| **Created by** | BRUCE NASH |
+| **Director of Research** | BARRY HILL |
+| **Edited by** | JOHN PARSONS |
+| **Executive Producer** | DON CAMBOU |
+| **Field Audio** | MAHMOUD BATOUT, HOPE HARRISON, MICHAEL KIMBALL, MOHAMED AHMED SAID |
+| **Footage Consultant** | TED TROLL |
+| **For The History Channel / Executive Producer** | CHARLIE MADAY |
+| **For The History Channel / Supervising Producer** | BETH DIETRICH-SEGARRA |
+| **Historical Consultants** | AFAF LUTFI, AL-SAYYID MARSOT, DR. NEZAR ALSAYYAD |
+| **Line Producer** | PAUL DZILVELIS |
+| **Music by** | ALAN ETT |
+| **Online Editor** | DAVID REX |
+| **Post Production** | SCOTT BERKSON |
+| **Post Production Assistant** | BRIAN VOLK |
+| **Post Production Coordinator** | GARY REID |
+| **Post Production Supervisor** | JASON STEINBERG |
+| **Producer** | BRUCE NASH |
+| **Production Assistants** | MARYALICE R. ARAGON, SUNI NIVENS |
+| **Production Auditor** | DANI ESLIN |
+| **Production Coordinator** | KATHY EXNER |
+| **Production Manager** | LINDA K. CLARK |
+| **Researcher** | ANTHONY LACQUES, GLORIA MORRIS |
+| **Sound Mixer** | SAM KAUFMANN |
+| **Written and Produced by** | CHRIS MORTENSEN |
+
+---
+[← Return to Episode Dossier](../episodes/MME00147.md)

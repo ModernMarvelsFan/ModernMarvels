@@ -1,0 +1,2048 @@
+1
+00:00:00,001 --> 00:00:14,001
+The
+
+2
+00:00:16,000 --> 00:00:21,022
+invention of the wheel, if I may put it this way, invented a mind.
+
+3
+00:00:21,023 --> 00:00:23,000
+And in becoming inventors,
+
+4
+00:00:23,001 --> 00:00:25,867
+we begin to think of ourselves differently.
+
+5
+00:00:25,868 --> 00:00:29,000
+Not simply imperiled by the facts of the world,
+
+6
+00:00:29,001 --> 00:00:32,820
+but perhaps competing with the facts of the world, as in a contest.
+
+7
+00:00:33,220 --> 00:00:37,580
+And a contest that we plausibly now might regard ourselves as winning.
+
+8
+00:00:38,540 --> 00:00:45,180
+The simple, elegant, yet revolutionary machine called the wheel has literally transformed mankind.
+
+9
+00:00:47,160 --> 00:00:52,580
+Not just in the way we navigate the challenges of our lives, but in the very way we perceive ourselves.
+
+10
+00:00:52,581 --> 00:00:53,281
+ourselves.
+
+11
+00:00:53,282 --> 00:00:59,080
+Quite a responsibility for a tool so ubiquitous that we encounter hundreds in a day
+
+12
+00:00:59,081 --> 00:01:04,480
+without even realizing it. So simple that we struggle to adequately define it.
+
+13
+00:01:05,940 --> 00:01:13,325
+I think a wheel is any circular object, regardless of its width, that rolls.
+
+14
+00:01:13,326 --> 00:01:15,560
+And that means it might
+
+15
+00:01:15,561 --> 00:01:21,940
+have an axle to transmit its power to someplace else or to direct its power at a certain point.
+
+16
+00:01:22,580 --> 00:01:26,580
+Some say an axle is not a necessary component of a wheel.
+
+17
+00:01:26,581 --> 00:01:33,580
+You can imagine wheels in which the mechanical wheel is not linked to that central axis, for example, in a ball bearing.
+
+18
+00:01:33,581 --> 00:01:36,537
+A ball bearing goes around and makes a circular motion.
+
+19
+00:01:36,538 --> 00:01:38,580
+It fulfills our definition of a wheel.
+
+20
+00:01:38,581 --> 00:01:41,580
+But it doesn't have an axle.
+
+21
+00:01:41,581 --> 00:01:45,580
+The wheel and axle is one of six basic machines.
+
+22
+00:01:45,581 --> 00:01:51,580
+Human-made objects that are the basis of all devices that provide us with mechanical advantage over our environment.
+
+23
+00:01:52,580 --> 00:02:03,260
+The other five include the lever, the inclined plane, the pulley, the wedge, and the screw.
+
+24
+00:02:04,700 --> 00:02:10,480
+You know, it's interesting how some of these machines, it becomes a vague distinction between them.
+
+25
+00:02:10,900 --> 00:02:12,440
+One of my favorites is a pizza cutter.
+
+26
+00:02:12,740 --> 00:02:15,980
+You've got a wheel, the edge is a wedge, and the handle is a lever.
+
+27
+00:02:16,360 --> 00:02:21,260
+So you're using a lever, a wedge, and a wheel to cut your pizza.
+
+28
+00:02:22,580 --> 00:02:30,680
+Mechanical advantage is important because it allows a single person with limited force to accomplish an otherwise impossible task.
+
+29
+00:02:33,180 --> 00:02:35,980
+Consider the wheeled machine known as a pulley.
+
+30
+00:02:36,980 --> 00:02:40,980
+Less force is required to achieve a given effect.
+
+31
+00:02:41,780 --> 00:02:45,380
+Now you have to apply the force over a much longer distance, and that's the key.
+
+32
+00:02:46,180 --> 00:02:51,900
+With a pulley, instead of just lifting up a 500-pound block, 10 feet, say, you might have to pull 100 feet of rope.
+
+33
+00:02:51,901 --> 00:02:56,140
+But you don't have to apply as much force, and so eventually you get the job done.
+
+34
+00:02:56,880 --> 00:02:58,260
+That's mechanical advantage.
+
+35
+00:02:59,720 --> 00:03:04,940
+Some have speculated that the earliest wheels were logs, used to transport heavy loads.
+
+36
+00:03:06,060 --> 00:03:10,920
+I think it might be useful to make clear how little we know about that,
+
+37
+00:03:11,400 --> 00:03:15,260
+and to what extent we've made up stories.
+
+38
+00:03:15,640 --> 00:03:17,100
+They're pretty much made up stories.
+
+39
+00:03:17,101 --> 00:03:21,860
+The archaeological evidence for the very first wheel is pretty slim.
+
+40
+00:03:21,900 --> 00:03:26,900
+Nevertheless, someone somewhere invented a wheel.
+
+41
+00:03:26,901 --> 00:03:32,900
+And in doing so gained mechanical advantage because the wheel reduces friction.
+
+42
+00:03:32,901 --> 00:03:37,900
+Unlike a flat wide surface such as a placket of wood which generates a lot of friction,
+
+43
+00:03:37,901 --> 00:03:44,900
+or a sharp narrow point, the wheel has a smooth, narrow and continuous surface.
+
+44
+00:03:44,901 --> 00:03:50,900
+It reduces friction because it makes contact on a small, narrow but endless plane.
+
+45
+00:03:50,901 --> 00:03:54,080
+Plus, the wheel can store energy.
+
+46
+00:03:56,920 --> 00:03:59,880
+Now, that's a very practical consequence of the invention,
+
+47
+00:04:00,220 --> 00:04:02,340
+but there's a much more profound consequence.
+
+48
+00:04:03,740 --> 00:04:05,580
+There's a cognitive consequence.
+
+49
+00:04:06,420 --> 00:04:10,280
+He is now reconsidering the very idea of limitation
+
+50
+00:04:10,281 --> 00:04:13,800
+because he now has concrete evidence
+
+51
+00:04:13,801 --> 00:04:18,440
+that what he once took to be unquestionably impossible
+
+52
+00:04:18,441 --> 00:04:22,580
+is now not only possible, but practically achieved.
+
+53
+00:04:25,960 --> 00:04:28,940
+In the ancient world thousands of years ago,
+
+54
+00:04:29,380 --> 00:04:31,540
+three very important achievements of the wheel
+
+55
+00:04:31,541 --> 00:04:34,880
+profoundly and dramatically changed the history of civilization.
+
+56
+00:04:36,160 --> 00:04:38,160
+First, the grinding stone,
+
+57
+00:04:38,580 --> 00:04:41,360
+which ground large quantities of grain more efficiently
+
+58
+00:04:41,361 --> 00:04:43,680
+than an individual with a mortar and pestle.
+
+59
+00:04:43,681 --> 00:04:49,080
+And both millstones have a groove pattern cut into their faces.
+
+60
+00:04:49,700 --> 00:04:54,040
+The stone above it, not quite touching it, just a little bit above it, rotates.
+
+61
+00:04:54,320 --> 00:04:57,260
+The grain falls in the hole in the middle of the top stone.
+
+62
+00:04:57,660 --> 00:04:59,680
+The grain works its way out along those grooves,
+
+63
+00:04:59,860 --> 00:05:03,780
+and as the top stone rotates, the grooves cross like scissors and shear apart the grain.
+
+64
+00:05:07,880 --> 00:05:11,660
+Entire communities could form around a single large grinding stone
+
+65
+00:05:11,661 --> 00:05:15,900
+that might be powered by harnessing cattle rather than human power.
+
+66
+00:05:18,600 --> 00:05:20,860
+Grinding stones were carved out of large rocks,
+
+67
+00:05:21,440 --> 00:05:24,160
+then chiseled into round, flat, grooved discs.
+
+68
+00:05:27,040 --> 00:05:29,880
+Now that grain could be processed in such large quantities,
+
+69
+00:05:30,420 --> 00:05:31,640
+storage became a concern.
+
+70
+00:05:32,500 --> 00:05:34,960
+But the wheels solved this problem, too.
+
+71
+00:05:37,120 --> 00:05:39,560
+Potter's wheels, used for making clay pots,
+
+72
+00:05:39,561 --> 00:05:42,020
+were initially created during the Bronze Age,
+
+73
+00:05:42,700 --> 00:05:46,680
+then later refined by the Egyptians roughly 5,000 years ago.
+
+74
+00:05:52,720 --> 00:05:56,140
+Potters could throw thin-walled pots with great storage capacity
+
+75
+00:05:56,141 --> 00:05:58,980
+in a fraction of the time it took to make a pot without a wheel.
+
+76
+00:06:01,640 --> 00:06:03,460
+Pottery wheels are still used today.
+
+77
+00:06:04,460 --> 00:06:06,880
+With a kick wheel, you have the wheel head,
+
+78
+00:06:07,000 --> 00:06:08,340
+which is where the potter puts the clay.
+
+79
+00:06:08,341 --> 00:06:13,680
+Below that, there's a shaft which is connected to a flywheel at the very base.
+
+80
+00:06:14,360 --> 00:06:22,620
+And the flywheel has quite a bit of weight to it so that the momentum will keep the wheel turning as the potter's kicking and working and alternating.
+
+81
+00:06:24,820 --> 00:06:32,260
+A flywheel is a wheel with added weight, usually placed at its circumference to store kinetic energy or the energy of motion.
+
+82
+00:06:32,261 --> 00:06:39,260
+Basically what it means is the faster a mass is moving, the more energy it has.
+
+83
+00:06:39,261 --> 00:06:44,260
+And you know, if you've got a wheel that's spinning right towards the center, things aren't moving very fast.
+
+84
+00:06:44,261 --> 00:06:47,260
+But towards the outside, for the same amount of rotation, you're moving really fast.
+
+85
+00:06:47,261 --> 00:06:54,260
+So if you put your mass on the outside of the flywheel, it's moving faster, it carries more kinetic energy,
+
+86
+00:06:54,261 --> 00:06:58,260
+and therefore it's storing more energy for future use.
+
+87
+00:06:58,261 --> 00:07:04,580
+The invention of the flywheel would have a wide-ranging impact far beyond the humble potter's wheel,
+
+88
+00:07:04,820 --> 00:07:07,980
+which would benefit from improvements that included the treadle.
+
+89
+00:07:10,340 --> 00:07:13,260
+In addition to the potter's wheel and the grinding stone,
+
+90
+00:07:13,700 --> 00:07:18,540
+the third application of the wheel, and possibly most significant, was for transportation.
+
+91
+00:07:19,940 --> 00:07:24,680
+Early log wheels evolved into narrow carved wheels that could be connected by an axle.
+
+92
+00:07:24,681 --> 00:07:29,840
+An axle is a structure that is connected to, yet independent from, a wheel.
+
+93
+00:07:30,660 --> 00:07:34,560
+It is often found at the center of a wheel's rotation, or axis.
+
+94
+00:07:38,180 --> 00:07:43,060
+Wheeled carts helped transport goods, for instance, excess grain stored in clay pots.
+
+95
+00:07:45,340 --> 00:07:49,300
+The Sumerians provide the first archaeological evidence of wheeled vehicles.
+
+96
+00:07:49,720 --> 00:07:54,220
+Their chariots pulled by oxen date from as early as 3000 BC.
+
+97
+00:07:54,680 --> 00:08:00,760
+Well, the craft of building wheels, especially in wagons and carriages, to me is very fascinating
+
+98
+00:08:00,761 --> 00:08:05,520
+because the art of making the wheel, of course, ultimately creates a specialty called the
+
+99
+00:08:05,521 --> 00:08:06,520
+wheelwright.
+
+100
+00:08:06,521 --> 00:08:12,600
+Early wheelwrights made wheels by carving rims that would be clamped together with cross
+
+101
+00:08:12,601 --> 00:08:16,800
+pieces with an axle fitted into the hub or center.
+
+102
+00:08:16,801 --> 00:08:22,080
+A leather bearing might be inserted into the hub to protect the axle.
+
+103
+00:08:22,081 --> 00:08:29,800
+The thing that's most useful to me, I think, in considering the history of the wheel, is that the wheel is only a part of a system.
+
+104
+00:08:30,640 --> 00:08:33,320
+A wheel's no good unless you have a good road for it to go on.
+
+105
+00:08:34,240 --> 00:08:39,540
+With the onset of carts, chariots, and wagons, roads took on greater importance.
+
+106
+00:08:40,280 --> 00:08:43,780
+Trade routes were established and civilizations could more readily expand.
+
+107
+00:08:44,360 --> 00:08:47,980
+But the wheel did much more than encourage the creation of carts and roads.
+
+108
+00:08:47,981 --> 00:08:54,660
+It made migration easier and at relatively slight cost.
+
+109
+00:08:55,000 --> 00:08:57,760
+It meant that you could move without being nomadic.
+
+110
+00:08:58,760 --> 00:09:03,200
+You could bring along with you what in Roman times was called the impedimenta.
+
+111
+00:09:03,340 --> 00:09:08,500
+This was the spouse, the children, the relevant family possessions, etc.
+
+112
+00:09:08,940 --> 00:09:12,760
+It meant, therefore, that you could move your culture to another place.
+
+113
+00:09:12,761 --> 00:09:19,720
+Before long, wheeled devices for transportation were available to farmers tilling the soil
+
+114
+00:09:19,721 --> 00:09:21,760
+Traders transporting goods
+
+115
+00:09:21,761 --> 00:09:23,960
+And armies transporting soldiers
+
+116
+00:09:23,961 --> 00:09:32,400
+The Roman road would ultimately be based upon the 15-foot width of two heavy carts
+
+117
+00:09:32,401 --> 00:09:36,020
+Or two columns of troops side by side
+
+118
+00:09:37,740 --> 00:09:40,080
+Once you've got that basic idea of a wheel
+
+119
+00:09:40,081 --> 00:09:45,200
+then people are very quickly going to figure out all the fascinating applications
+
+120
+00:09:45,201 --> 00:09:48,200
+whether two-wheeled carts pulled by other human beings
+
+121
+00:09:48,201 --> 00:09:52,040
+or animals or wheelbarrows or chariots or whatever.
+
+122
+00:09:53,120 --> 00:09:57,360
+The wheel changed our sense of location
+
+123
+00:09:57,361 --> 00:10:01,640
+our sense of rootedness.
+
+124
+00:10:02,860 --> 00:10:07,200
+It must have had a chilling effect once these implications dawned on us.
+
+125
+00:10:07,260 --> 00:10:09,440
+To some extent it still has a chilling effect.
+
+126
+00:10:10,080 --> 00:10:17,340
+It does give rise to the question, well, if I am not meant to be here, now, and abidingly,
+
+127
+00:10:17,540 --> 00:10:22,660
+is there any sense associated with my being meant to be?
+
+128
+00:10:23,100 --> 00:10:25,220
+Or is everything in flux?
+
+129
+00:10:26,480 --> 00:10:35,940
+The wheel really is the device that says no one is ever occupying precisely the same position twice once this thing starts rolling.
+
+130
+00:10:35,941 --> 00:10:42,140
+Next, wheels rolled across the oceans as vital components of ships
+
+131
+00:10:42,141 --> 00:10:46,680
+And long-distance trade made the importance of accurate timetables
+
+132
+00:10:46,681 --> 00:10:50,180
+A new challenge that the promise of wheels would solve
+
+133
+00:10:50,181 --> 00:10:56,760
+Although humans began settling in villages approximately 10,000 years ago
+
+134
+00:10:56,761 --> 00:11:01,740
+It would be another 5,000 years before archaeological evidence of wheels would appear
+
+135
+00:11:01,741 --> 00:11:06,420
+The Wheel will return on Modern Marvels
+
+136
+00:11:06,421 --> 00:11:14,760
+During the late Middle Ages, as trade increased partly due to the application of wheels
+
+137
+00:11:14,761 --> 00:11:19,440
+Merchants looked across the seas to new markets for buying and selling goods
+
+138
+00:11:19,441 --> 00:11:25,360
+Large ships were built, using steering wheels to maneuver the rudder and direct the ship
+
+139
+00:11:25,361 --> 00:11:33,420
+As the boat gets bigger, a tiller doesn't give you enough advantage, mechanical advantage, on the rudder.
+
+140
+00:11:33,421 --> 00:11:37,980
+So you may hook up some gears and shafts or belts and pulleys and ropes,
+
+141
+00:11:38,180 --> 00:11:43,640
+but then you'll have a wheel because it's just so convenient to be able to stand in one spot and control the boat.
+
+142
+00:11:45,580 --> 00:11:51,100
+Cylindrical wheels called windlasses took up or let out rope to control the sails and anchor.
+
+143
+00:11:55,360 --> 00:12:02,300
+The application of specific wheels often met specific challenges.
+
+144
+00:12:04,300 --> 00:12:10,160
+But the concept of wheels, wheelhood so to speak, seemed endlessly recyclable.
+
+145
+00:12:11,260 --> 00:12:16,840
+Perhaps the evolution, the changes, the inventions associated with the wheel
+
+146
+00:12:16,841 --> 00:12:21,560
+somehow reflect something very fundamental about us as humans,
+
+147
+00:12:21,561 --> 00:12:25,840
+about how our brains work, about how society evolves over time.
+
+148
+00:12:26,160 --> 00:12:28,580
+And the factors, the influences, the technologies
+
+149
+00:12:28,581 --> 00:12:31,980
+that change who we are and what we do.
+
+150
+00:12:34,320 --> 00:12:36,920
+Not all cultures, however, have made use of wheels.
+
+151
+00:12:37,880 --> 00:12:40,000
+Despite its technological proficiency,
+
+152
+00:12:40,440 --> 00:12:43,440
+the Middle East eventually abandoned the wheel for transport
+
+153
+00:12:43,441 --> 00:12:45,920
+because the camel better met its needs.
+
+154
+00:12:46,880 --> 00:12:49,840
+So the wheel is not the only solution to every problem.
+
+155
+00:12:51,560 --> 00:12:53,800
+Today we think the wheel is real important.
+
+156
+00:12:54,660 --> 00:12:57,900
+And it's important to remember that that's not always been true.
+
+157
+00:12:58,060 --> 00:13:03,700
+The whole notion that the wheel and fire are the two most important inventions is a pretty recent idea.
+
+158
+00:13:05,340 --> 00:13:08,020
+Although the wheel is often not the only solution,
+
+159
+00:13:08,540 --> 00:13:12,560
+it is frequently a tangible framework for seemingly intangible challenges,
+
+160
+00:13:13,400 --> 00:13:15,080
+such as the regulation of time.
+
+161
+00:13:15,920 --> 00:13:20,040
+We think of the sun as a form of timekeeping in itself.
+
+162
+00:13:20,041 --> 00:13:25,200
+rising in the morning and setting in the evening
+
+163
+00:13:25,201 --> 00:13:29,880
+instantly gives a human being a sense of rhythm and form to time.
+
+164
+00:13:30,520 --> 00:13:35,860
+And so using the sun was an early means of timekeeping by using a sundial.
+
+165
+00:13:37,360 --> 00:13:40,220
+But sundials aren't precision instruments.
+
+166
+00:13:41,740 --> 00:13:43,920
+As trade and travel increased,
+
+167
+00:13:43,921 --> 00:13:47,760
+the need for accurate and reliable timetables increased with it.
+
+168
+00:13:50,040 --> 00:13:52,500
+Early clocks lacked the necessary accuracy.
+
+169
+00:13:54,020 --> 00:13:59,380
+What was needed and created around the 13th century was the modern wheelworks clock.
+
+170
+00:14:00,660 --> 00:14:08,420
+Most people, when they think about a clock, immediately they look at the face of the clock with the hands and all the rest of it.
+
+171
+00:14:09,080 --> 00:14:13,860
+That's almost, from my point of view, the wrong end of the clock.
+
+172
+00:14:14,100 --> 00:14:18,300
+If it's a pendulum clock that we're talking about, the pendulum, in fact, is the timekeeper.
+
+173
+00:14:20,040 --> 00:14:30,860
+Weights suspended from a fixed distance oscillate or swing at the same rate, no matter how heavy the weight nor how wide the swing.
+
+174
+00:14:32,860 --> 00:14:39,360
+Once the pendulum is swinging at a fixed rate, say 60 times per minute, the clock is keeping time.
+
+175
+00:14:40,480 --> 00:14:48,400
+A device called an escapement lowers a weight in discrete measures using specially designed wheels called gears.
+
+176
+00:14:50,040 --> 00:14:59,580
+The gears help swing the pendulum and count each swing through the application of teeth carved into the gear to correspond with the teeth of another gear.
+
+177
+00:15:04,280 --> 00:15:08,560
+Gears are really nothing more than a set of wheels in some predetermined ratio.
+
+178
+00:15:09,180 --> 00:15:12,640
+And you put the gear teeth on to be sure that it doesn't slip, but they're wheels nonetheless.
+
+179
+00:15:14,480 --> 00:15:18,480
+These teeth turned the wheel into a series of levers extending from the hub.
+
+180
+00:15:19,180 --> 00:15:23,320
+19th century observers even referred to the wheel as the perpetual lever.
+
+181
+00:15:25,160 --> 00:15:32,320
+In fact, Galileo, in analyzing the simple machines in the 1500s,
+
+182
+00:15:33,800 --> 00:15:40,540
+broke down all of the simple machines into a combination or a form of lever.
+
+183
+00:15:42,160 --> 00:15:46,640
+As clockmaking was refined, gears were used to create minute and second hands,
+
+184
+00:15:46,641 --> 00:15:49,380
+greatly increasing the accuracy of the clocks.
+
+185
+00:15:51,100 --> 00:15:53,440
+Gears were made small to fit into wristwatches
+
+186
+00:15:53,441 --> 00:15:58,260
+or large to operate clocks in church steeples.
+
+187
+00:16:02,920 --> 00:16:05,220
+They were even used to trigger chimes
+
+188
+00:16:05,221 --> 00:16:07,520
+using a mallet connected to the gear system
+
+189
+00:16:07,521 --> 00:16:09,680
+or gear train that struck a bell.
+
+190
+00:16:12,020 --> 00:16:14,240
+The principle of accurate timekeeping
+
+191
+00:16:14,241 --> 00:16:16,740
+was applied on a large scale to help navigation.
+
+192
+00:16:18,200 --> 00:16:21,140
+The Earth was mapped out in a series of grids.
+
+193
+00:16:21,640 --> 00:16:24,420
+Each grid measured the distance the sun's light traveled
+
+194
+00:16:24,421 --> 00:16:27,300
+across the surface of the Earth in four-minute increments,
+
+195
+00:16:27,680 --> 00:16:28,480
+or longitude.
+
+196
+00:16:29,520 --> 00:16:31,780
+With an accurate clock and a simple equation,
+
+197
+00:16:32,780 --> 00:16:36,220
+a sailor could now pinpoint his position anywhere on the planet.
+
+198
+00:16:38,540 --> 00:16:42,200
+Longitude only works if the Earth rotates in a wheel-like fashion.
+
+199
+00:16:42,201 --> 00:16:46,200
+Now what would be a more perfect wheel?
+
+200
+00:16:46,201 --> 00:16:51,200
+Well, one more perfect wheel is the wheel-like nature of the heavens themselves,
+
+201
+00:16:51,201 --> 00:16:55,200
+where we see the axle, essentially a gravitational field,
+
+202
+00:16:55,201 --> 00:17:01,200
+and where we see a wheel, now a planet, thus connected to other planets
+
+203
+00:17:01,201 --> 00:17:06,200
+going around in a certain quasi-wheel-like fashion.
+
+204
+00:17:06,201 --> 00:17:12,300
+And in fact, when astronomers wanted to make tiny models of the solar system,
+
+205
+00:17:12,301 --> 00:17:15,300
+they used a series of wheels and a device called an ORI,
+
+206
+00:17:15,760 --> 00:17:21,320
+in which the planets were on wheels that moved around a central sphere, which represented the sun.
+
+207
+00:17:22,740 --> 00:17:27,440
+There's this wonderful progression from the physical reality of a wheel
+
+208
+00:17:27,441 --> 00:17:33,500
+to the metaphor of a wheel in space as planets orbit the sun or as the moon orbits the earth.
+
+209
+00:17:33,501 --> 00:17:40,140
+As wheels provide transport to different worlds, they transport themselves into different applications.
+
+210
+00:17:41,120 --> 00:17:50,520
+Technology incorporated the wheel into the printing press, facilitating mass-produced communication by pressing an inked plate onto paper attached to a roller.
+
+211
+00:17:51,840 --> 00:17:56,740
+Wheels were used to give the press constant pressure and to speed up the printing process.
+
+212
+00:17:57,480 --> 00:18:02,240
+Although the wheel wasn't essential to the production of books, it made the process more efficient.
+
+213
+00:18:03,500 --> 00:18:09,780
+What the book does is it puts thought in a form that allows it to be moved on wheels.
+
+214
+00:18:09,781 --> 00:18:14,280
+It allows one to speak to the world as if the world were a person.
+
+215
+00:18:14,520 --> 00:18:21,200
+And it thus contains within it the possibility of revolutionizing the world without a drop of blood being shed.
+
+216
+00:18:21,260 --> 00:18:27,820
+Not to say that much blood will not be shed, and in fact much blood will be shed because of ideas that are presented in books.
+
+217
+00:18:27,821 --> 00:18:36,140
+But it does mean that you now are capable of persuading without coercing, and in numbers.
+
+218
+00:18:38,340 --> 00:18:45,900
+From the esoteric to the earthy, agrarian uses for wheels eventually included early windmills,
+
+219
+00:18:46,160 --> 00:18:48,200
+which arrived in Europe around the 12th century.
+
+220
+00:18:49,060 --> 00:18:54,660
+Windmills captured wind using large blades, often covered with cloth connected to a hub.
+
+221
+00:18:54,661 --> 00:19:01,660
+The hub was attached to an axle that led to a series of gears.
+
+222
+00:19:01,661 --> 00:19:09,660
+The windmill could pivot on wheeled rollers to adjust to changing wind directions.
+
+223
+00:19:09,661 --> 00:19:18,660
+Windmills vary from traditional Dutch windmills to the familiar prairie windmills of the American plains.
+
+224
+00:19:18,661 --> 00:19:23,060
+to the giant turbines that generate electricity on wind farms.
+
+225
+00:19:27,860 --> 00:19:34,540
+Using gear trains, windmills pumped water out of wells, drained swamplands, and even ground wheat.
+
+226
+00:19:36,260 --> 00:19:42,380
+As this 300-year-old Cape Cod windmill, the oldest in the country, once did for the pilgrims.
+
+227
+00:19:42,381 --> 00:19:53,040
+what's interesting about the windmill however is that it harnesses naturally occurring energy
+
+228
+00:19:53,041 --> 00:19:58,560
+rather than human or animal power one of the amazing things about wheels is the ability to
+
+229
+00:19:58,561 --> 00:20:04,340
+take energy sources from around us just the environment and convert them to useful mechanical
+
+230
+00:20:04,341 --> 00:20:12,140
+energy using a wheel next the concept of harnessing natural power would spark the industrial revolution
+
+231
+00:20:12,141 --> 00:20:14,980
+and create even more ways to utilize wheels.
+
+232
+00:20:18,580 --> 00:20:23,500
+More than 100 million bicycles are manufactured worldwide each year,
+
+233
+00:20:23,760 --> 00:20:27,980
+with a bicycle being a primary mode of transportation in many developing countries.
+
+234
+00:20:29,120 --> 00:20:31,540
+The wheel will return on Modern Marvels.
+
+235
+00:20:34,780 --> 00:20:37,620
+The mills of Europe, and later America,
+
+236
+00:20:37,621 --> 00:20:42,480
+changed the natural environment into a resource to be exploited by the wheel.
+
+237
+00:20:44,560 --> 00:20:47,600
+Nature became another tool for human progress.
+
+238
+00:20:48,360 --> 00:20:53,660
+But the concept of harnessing wind and water actually dates back to the 2nd century B.C.
+
+239
+00:20:56,100 --> 00:21:01,360
+Earliest uses that we know of are water lifting for irrigation
+
+240
+00:21:01,361 --> 00:21:05,060
+and grinding grain, grinding wheat to flour.
+
+241
+00:21:05,061 --> 00:21:10,360
+Water wheels harness water power in different ways.
+
+242
+00:21:11,440 --> 00:21:15,640
+One is an impact water wheel, commonly called an undershot water wheel,
+
+243
+00:21:15,780 --> 00:21:20,540
+where the water strikes a flat paddle and the impact causes the wheel to rotate.
+
+244
+00:21:21,300 --> 00:21:26,100
+A second type of water wheel is called an overshot or a weight-driven water wheel,
+
+245
+00:21:26,240 --> 00:21:29,840
+where the water comes over the top of the wheel, descends into a bucket,
+
+246
+00:21:29,841 --> 00:21:35,080
+and the weight of the water in the buckets on one side of the wheel causes it to turn.
+
+247
+00:21:36,320 --> 00:21:40,780
+At the beginning of the 12th century, England had more than 5,000 mills,
+
+248
+00:21:41,160 --> 00:21:45,440
+each one a community power plant for a host of otherwise burdensome tasks
+
+249
+00:21:45,441 --> 00:21:48,440
+far beyond just lifting water and grinding grain.
+
+250
+00:21:50,020 --> 00:21:56,280
+European technicians and concurrently Chinese technicians diversify the use of water power
+
+251
+00:21:56,281 --> 00:22:02,200
+to whereby 1500 they know how to use water power for pounding metals,
+
+252
+00:22:02,400 --> 00:22:05,200
+to shape metals for pounding ore prior to reduction,
+
+253
+00:22:05,620 --> 00:22:08,940
+for grinding a whole host of things other than wheat.
+
+254
+00:22:10,820 --> 00:22:14,140
+Rivers, abundant in the northeastern United States,
+
+255
+00:22:14,280 --> 00:22:18,060
+would provide an accessible source of power during the early days of the nation.
+
+256
+00:22:19,900 --> 00:22:24,660
+There are a whole lot of rivers and streams that drop a fairly great distance,
+
+257
+00:22:24,661 --> 00:22:32,120
+And the Industrial Revolution in America really takes off based on water power, particularly in the countryside.
+
+258
+00:22:33,660 --> 00:22:42,440
+Villages and towns dug canals and built mills to saw wood, spin wool, and grind grain.
+
+259
+00:22:44,340 --> 00:22:49,520
+On top of the millstones you have a hopper, a big wooden funnel that holds whole dried grain,
+
+260
+00:22:49,521 --> 00:22:52,700
+be it wheat, rye, corn, barley.
+
+261
+00:22:53,640 --> 00:22:57,380
+And below that there's a shoe, a little wooden trough
+
+262
+00:22:57,381 --> 00:23:01,640
+that directs the grain from the hopper into a pair of millstones.
+
+263
+00:23:02,340 --> 00:23:05,760
+There's a vertical wooden shaft called a damsel
+
+264
+00:23:05,761 --> 00:23:09,240
+that rotates with the millstone and shakes the shoe.
+
+265
+00:23:13,260 --> 00:23:16,640
+This process is possible because the water wheel is connected
+
+266
+00:23:16,641 --> 00:23:19,460
+through an elaborate system of gears and flywheels
+
+267
+00:23:19,461 --> 00:23:22,820
+to the millstone, or whatever the mill was assigned to do.
+
+268
+00:23:25,100 --> 00:23:31,480
+It represents a sort of quantum leap in the amount of energy that humans were able to extract.
+
+269
+00:23:31,980 --> 00:23:37,040
+A human being can produce about one-tenth of a horsepower continuously over a six or
+
+270
+00:23:37,041 --> 00:23:37,741
+eight-hour day.
+
+271
+00:23:38,680 --> 00:23:45,300
+That means even a small two-horsepower water wheel is producing 20 times as much energy
+
+272
+00:23:45,301 --> 00:23:48,620
+as a human being, and it doesn't get tired.
+
+273
+00:23:49,460 --> 00:23:56,040
+Water mills are an ingenious use of available resources,
+
+274
+00:23:56,480 --> 00:23:59,220
+and by simply reversing the concept of the water wheel,
+
+275
+00:23:59,580 --> 00:24:02,140
+you end up with something entirely different.
+
+276
+00:24:03,600 --> 00:24:07,920
+One of the neat things about wheels is the way you can turn this energy conversion around.
+
+277
+00:24:08,060 --> 00:24:10,980
+We have water wheels that produce energy of all sorts,
+
+278
+00:24:11,100 --> 00:24:13,720
+whether it's electrical energy or energy for a grist mill,
+
+279
+00:24:14,320 --> 00:24:17,260
+but put it on a paddle boat, connect it to a steam engine,
+
+280
+00:24:17,261 --> 00:24:19,220
+and you've got a paddle steamer.
+
+281
+00:24:19,460 --> 00:24:21,360
+So it works both ways.
+
+282
+00:24:22,180 --> 00:24:27,620
+The paddle wheel of a paddle steamer can be thought of as a series of ores attached to a wheel.
+
+283
+00:24:29,340 --> 00:24:33,820
+Robert Fulton's paddle boats began flying the Mississippi in the early 19th century.
+
+284
+00:24:34,520 --> 00:24:40,520
+But the business end of a paddle steamer is really the steam engine that generates the energy to move the paddles.
+
+285
+00:24:41,360 --> 00:24:48,020
+And here again, the concept of the wheel manifests itself in an aptly named mechanism called the sun and planet gear.
+
+286
+00:24:49,460 --> 00:24:55,100
+The planet is a small gear that orbits the sun, or gear connected by an axle to a driving wheel.
+
+287
+00:24:57,180 --> 00:25:03,160
+As steam is forced into a piston chamber, it expands and moves a lever attached to the planet wheel,
+
+288
+00:25:03,660 --> 00:25:06,460
+which is in turn connected to a spoke coming from the sun.
+
+289
+00:25:08,160 --> 00:25:10,480
+The sun then moves the driving gear.
+
+290
+00:25:13,960 --> 00:25:18,880
+The principle of the sun and planet gear is well illustrated on another transportation device
+
+291
+00:25:18,881 --> 00:25:22,720
+that revolutionized the world, the steam locomotive.
+
+292
+00:25:23,840 --> 00:25:29,260
+At certain times in American mechanical history,
+
+293
+00:25:30,180 --> 00:25:35,760
+rotary devices seemed to be the way to solve all problems.
+
+294
+00:25:35,761 --> 00:25:39,400
+So for a while, in the 1840s in particular,
+
+295
+00:25:39,700 --> 00:25:42,900
+you have all these very, very clever rotary steam engines.
+
+296
+00:25:44,180 --> 00:25:48,340
+Trains obliterated frontiers in America in the mid-19th century.
+
+297
+00:25:48,341 --> 00:25:51,100
+The entire country was crisscrossed with track.
+
+298
+00:25:52,620 --> 00:25:55,620
+There were companies that manufactured car wheels,
+
+299
+00:25:55,800 --> 00:25:58,900
+usually the axle and the two wheels to go into railway cars,
+
+300
+00:25:59,100 --> 00:26:02,260
+but locomotive wheels would be built right along with the rest of the locomotives,
+
+301
+00:26:02,420 --> 00:26:05,500
+heavy castings, and then turned on a heavy lathe.
+
+302
+00:26:06,380 --> 00:26:09,600
+And usually the wheel itself would be cast steel,
+
+303
+00:26:09,840 --> 00:26:12,380
+and then there'd be a forged steel tire,
+
+304
+00:26:12,640 --> 00:26:15,220
+and the tire would be expanded with a little heat,
+
+305
+00:26:15,221 --> 00:26:18,880
+and then put in place and then allowed to cool and shrink down tight.
+
+306
+00:26:19,540 --> 00:26:22,900
+With the advent of trains, wheat could be grown in Kansas,
+
+307
+00:26:23,460 --> 00:26:27,080
+shipped to Chicago, and be ground, then packaged and distributed
+
+308
+00:26:27,081 --> 00:26:31,640
+to New York or California, all mobilized on railroad wheels.
+
+309
+00:26:33,840 --> 00:26:35,900
+As railroads regulated the nation,
+
+310
+00:26:36,380 --> 00:26:38,460
+they helped grease the Industrial Revolution,
+
+311
+00:26:38,900 --> 00:26:42,940
+providing markets for goods more efficiently produced because of the wheel.
+
+312
+00:26:46,849 --> 00:26:57,139
+The part of the wheel in the Industrial Revolution is central, not only as it influenced factory production, but in fact as it made possible the steam locomotive and a
+
+313
+00:26:57,140 --> 00:27:07,120
+veritable empire that will depend on the movement of troops, the movement of people, the crossing of entire continents in periods of time heretofore unimaginable.
+
+314
+00:27:07,121 --> 00:27:14,120
+The Industrial Revolution, in fact, rolls inexorably on wheels.
+
+315
+00:27:14,121 --> 00:27:23,120
+Next, by the turn of the 20th century, this inexorable roll would generate even more wheel-based innovations.
+
+316
+00:27:23,121 --> 00:27:33,120
+The number of locomotives in the United States peaked at nearly 70,000 in the early 1920s.
+
+317
+00:27:33,121 --> 00:27:36,120
+The wheel will return on Modern Marvels.
+
+318
+00:27:39,120 --> 00:27:45,120
+As wheels harness natural power, they liberate us from otherwise exhausting or impossible tasks.
+
+319
+00:27:50,120 --> 00:27:57,120
+But the idea of the wheel as liberator took an ironic turn in places like Lowell, Massachusetts, during the mid-19th century.
+
+320
+00:27:57,121 --> 00:28:04,120
+mid-nineteenth century, with its textile mills full of machines operated by young farm girls.
+
+321
+00:28:08,120 --> 00:28:13,120
+Textiles had for centuries used simple hand-operated spinning wheels to twist cotton, wool and
+
+322
+00:28:13,121 --> 00:28:14,413
+flax into thread.
+
+323
+00:28:14,414 --> 00:28:20,120
+But wheel-based innovations at the turn of the nineteenth century increased
+
+324
+00:28:21,120 --> 00:28:22,120
+production.
+
+325
+00:28:22,121 --> 00:28:25,240
+The vertical spinners or jennies came in.
+
+326
+00:28:25,241 --> 00:28:30,180
+Again, it was an effort to get more production with one worker.
+
+327
+00:28:30,720 --> 00:28:33,880
+And so there are 10 spindles all run by one wheel.
+
+328
+00:28:36,120 --> 00:28:41,040
+Eventually, single machines spun 200 spindles of wool at the same time.
+
+329
+00:28:42,060 --> 00:28:47,440
+Planned communities like Lowell formed to produce textiles along rivers like the Concord and the Merrimack,
+
+330
+00:28:47,900 --> 00:28:51,620
+which generated roughly 10,000 horsepower to Lowell's water wheels.
+
+331
+00:28:52,120 --> 00:28:58,980
+It was an interesting social experiment to bring in the farm girls,
+
+332
+00:28:58,981 --> 00:29:05,660
+and they thought they were being liberated from the hard work of the farms,
+
+333
+00:29:05,740 --> 00:29:09,920
+only to discover that life in the mills could be long hours,
+
+334
+00:29:10,080 --> 00:29:13,520
+and that the hours were ruled not by the sun, but by the mill bell.
+
+335
+00:29:14,520 --> 00:29:20,980
+What the Industrial Revolution did for women was that it rendered them to some extent independent
+
+336
+00:29:20,981 --> 00:29:24,720
+of marriage.
+
+337
+00:29:25,620 --> 00:29:28,140
+It made self-support possible.
+
+338
+00:29:28,141 --> 00:29:33,380
+But by creating an entirely unliberated world
+
+339
+00:29:33,381 --> 00:29:37,720
+of incessant labor, of discomfort,
+
+340
+00:29:38,360 --> 00:29:42,420
+and the conversion of oneself into a kind of instrument or tool.
+
+341
+00:29:44,000 --> 00:29:45,600
+A cog, if you will.
+
+342
+00:29:45,601 --> 00:29:53,580
+The success of our machinery has convinced us, almost to a person,
+
+343
+00:29:54,080 --> 00:29:57,840
+that there is no problem so great that some machine can't solve it.
+
+344
+00:29:57,841 --> 00:30:03,740
+And to that extent, we do tend to look for mechanical solutions to problems that are not mechanical.
+
+345
+00:30:05,320 --> 00:30:11,780
+But the inexorably spinning wheels of the Industrial Revolution produced an inexhaustible supply of products,
+
+346
+00:30:12,240 --> 00:30:13,960
+including more wheels.
+
+347
+00:30:15,600 --> 00:30:22,600
+Despite our constantly reinventing the wheel, the concept of the wheel hasn't really evolved.
+
+348
+00:30:22,601 --> 00:30:25,600
+A testimony to its simple purity.
+
+349
+00:30:25,601 --> 00:30:30,600
+But in practice, wheels do evolve.
+
+350
+00:30:30,601 --> 00:30:33,600
+They improve through technology and materials.
+
+351
+00:30:33,601 --> 00:30:36,600
+The log evolved into the carved wheel,
+
+352
+00:30:36,601 --> 00:30:41,600
+which became the lighter, more efficient hollowed rim with spokes and a hub.
+
+353
+00:30:41,601 --> 00:30:47,780
+The tire evolved from a metal casing into something altogether transformative
+
+354
+00:30:47,781 --> 00:30:49,880
+with the advent of the automobile.
+
+355
+00:30:51,640 --> 00:30:54,900
+Because of speed and heaviness of a car,
+
+356
+00:30:55,160 --> 00:30:58,600
+you've got to look differently at a vehicle that's going, say, 5, 10 miles an hour
+
+357
+00:30:58,601 --> 00:31:02,320
+drawn by a horse on the rugged roads of the 19th century.
+
+358
+00:31:03,280 --> 00:31:05,900
+If you've got a car that's capable of 20 miles an hour,
+
+359
+00:31:06,360 --> 00:31:08,880
+you've increased the stress on the wheels about four times,
+
+360
+00:31:09,500 --> 00:31:11,480
+and your old wagon wheels begin to fall apart.
+
+361
+00:31:11,600 --> 00:31:16,600
+The automobile itself was another collection of gears.
+
+362
+00:31:16,601 --> 00:31:22,600
+Crankshaft and steering wheel, ball bearing and transmission, all rolled out on an assembly line.
+
+363
+00:31:22,601 --> 00:31:25,600
+Again, a variation on the wheel.
+
+364
+00:31:25,601 --> 00:31:31,600
+But of all the wheels connected to the car, the greatest may be the pneumatic tire.
+
+365
+00:31:35,600 --> 00:31:40,600
+Tires were originally just cloth or leather coverings wrapped around a wood or metal wheel.
+
+366
+00:31:40,601 --> 00:31:45,589
+wheel to provide cushioning. Eventually, hard rubber was used.
+
+367
+00:31:45,590 --> 00:31:47,600
+Finally, pneumatic tires,
+
+368
+00:31:47,601 --> 00:31:52,600
+which trapped a cushion of air inside the tire, were employed, initially on bicycles.
+
+369
+00:31:52,601 --> 00:31:59,600
+But by the early 20th century, they found their way onto cars and trucks.
+
+370
+00:32:03,600 --> 00:32:09,600
+Air is the most efficient thing that will carry the load and give you cushioning and
+
+371
+00:32:09,601 --> 00:32:14,600
+you need certain footprint characteristics, force and moment characteristics for the tire,
+
+372
+00:32:15,100 --> 00:32:17,860
+and the deflection of the tire will provide that
+
+373
+00:32:17,861 --> 00:32:23,920
+and gives you very even distribution of load across the footprint with just air in the cavity.
+
+374
+00:32:26,360 --> 00:32:30,260
+Before air could be pumped into a rubber tire, the rubber had to be hardened,
+
+375
+00:32:30,880 --> 00:32:32,660
+made impervious to changes in the weather.
+
+376
+00:32:33,760 --> 00:32:36,560
+In 1839, Charles Goodyear, an inventor,
+
+377
+00:32:36,561 --> 00:32:41,860
+searched for an additive that would keep rubber from turning brittle in the cold and sticky in the heat.
+
+378
+00:32:48,360 --> 00:32:50,740
+He stumbled upon vulcanization,
+
+379
+00:32:51,220 --> 00:32:55,760
+a curing process that basically cooks rubber until it stabilizes and holds its shape.
+
+380
+00:32:56,760 --> 00:33:00,140
+So he had a lot of different chemicals that he was experimenting with,
+
+381
+00:33:00,360 --> 00:33:03,620
+and he accidentally spilled some of the sulfur on the stove,
+
+382
+00:33:03,621 --> 00:33:08,100
+and it, sulfur will melt under those conditions
+
+383
+00:33:08,101 --> 00:33:12,100
+and he had some rubber laying on the stove and it ran together
+
+384
+00:33:12,101 --> 00:33:15,000
+and it vulcanized, lo and behold.
+
+385
+00:33:15,760 --> 00:33:19,900
+By the 1950s, synthetic rubber had replaced natural rubber.
+
+386
+00:33:20,320 --> 00:33:23,880
+Tire companies like Goodyear really were reinventing the wheel.
+
+387
+00:33:24,780 --> 00:33:28,020
+Again, the ideal wheel, the round thing that's frictionless,
+
+388
+00:33:28,220 --> 00:33:29,880
+that's not something that gets better.
+
+389
+00:33:29,881 --> 00:33:36,520
+But the practical wheel, the wheel that gives better mileage or breaks better or is lighter,
+
+390
+00:33:36,720 --> 00:33:43,680
+that's the point where you can spend a lot of money and over the years get a lot of improvement in efficiency.
+
+391
+00:33:46,020 --> 00:33:50,100
+Today, making tires is a complex and highly specialized endeavor.
+
+392
+00:33:50,980 --> 00:33:57,120
+There are up to 15 different components in today's steel-belted radial tire.
+
+393
+00:33:57,121 --> 00:34:09,900
+You have the beads, the plies, there's wedges, apexes, liner, sidewall, tread compound, sidewall compound, overlays.
+
+394
+00:34:10,480 --> 00:34:18,840
+There is some ongoing innovation work with tires with computer chips in them that will read the road, that will help control the vehicle.
+
+395
+00:34:18,841 --> 00:34:24,540
+There will be an integral part of the vehicle control system, and they'll be reading it from inside the tire,
+
+396
+00:34:24,700 --> 00:34:27,480
+which is a great advantage since it's closer to the road.
+
+397
+00:34:29,420 --> 00:34:34,960
+Goodyear manufactures tires for all sorts of vehicles, including off-road, earth-moving equipment,
+
+398
+00:34:36,560 --> 00:34:40,600
+farm vehicles, and airplanes.
+
+399
+00:34:41,680 --> 00:34:45,020
+Airplane tires endure particular stress during takeoffs and landings
+
+400
+00:34:45,021 --> 00:34:48,020
+because of heat caused by the friction from the weight of the cargo.
+
+401
+00:34:48,840 --> 00:34:51,320
+and the high speeds needed to achieve lift.
+
+402
+00:34:53,540 --> 00:34:57,840
+Wheels play an indispensable role in the aeronautics industry beyond tires.
+
+403
+00:34:59,040 --> 00:35:02,360
+The propellers that first lifted the Wright brothers off the ground
+
+404
+00:35:02,361 --> 00:35:05,320
+use the principle of the windmill, only in reverse.
+
+405
+00:35:06,780 --> 00:35:10,860
+An axle from the center of the propeller connects through a complex gear system
+
+406
+00:35:10,861 --> 00:35:13,020
+to an engine that supplies the spin.
+
+407
+00:35:14,020 --> 00:35:17,240
+Instead of harnessing wind, a propeller generates it,
+
+408
+00:35:17,241 --> 00:35:19,040
+lifting the plane off the ground.
+
+409
+00:35:22,980 --> 00:35:25,480
+Switch the propeller from vertical to horizontal,
+
+410
+00:35:25,920 --> 00:35:28,900
+and the wheel elevates the helicopter's rotary blades
+
+411
+00:35:28,901 --> 00:35:33,360
+and elevates us from our earthbound existence,
+
+412
+00:35:34,500 --> 00:35:37,040
+free and unfettered, thanks to wheels.
+
+413
+00:35:38,440 --> 00:35:41,600
+I think there's a continuum here of mobility, if you will.
+
+414
+00:35:42,340 --> 00:35:44,000
+And along with that mobility, I think,
+
+415
+00:35:44,001 --> 00:35:47,160
+comes a lot of the basic freedoms that we, again,
+
+416
+00:35:47,240 --> 00:35:51,920
+sometimes take for granted the right of free assembly depends on free
+
+417
+00:35:51,921 --> 00:35:57,140
+transportation, free mobility, at least certainly transportation free of any
+
+418
+00:35:57,141 --> 00:36:03,480
+political hindrance. Next, the impact of wheels extends far beyond the immediate
+
+419
+00:36:03,481 --> 00:36:07,640
+benefits we reap. But are there other applications for wheels that we haven't
+
+420
+00:36:07,641 --> 00:36:13,840
+even conceived of yet? Other materials in which to forge them? Other ways to
+
+421
+00:36:13,841 --> 00:36:14,840
+experience them.
+
+422
+00:36:20,360 --> 00:36:27,000
+A typical tire manufacturing plant can produce approximately 25,000 tires in a single day.
+
+423
+00:36:27,700 --> 00:36:29,840
+The wheel will return on Modern Marvelous.
+
+424
+00:36:30,900 --> 00:36:37,740
+If the airplane propeller is a variation on the windmill, then the jet engine is a variation
+
+425
+00:36:37,741 --> 00:36:41,040
+on the turbine, which was originally a type of water wheel.
+
+426
+00:36:41,041 --> 00:36:47,220
+Water turbines are essentially water wheels with curved surfaces.
+
+427
+00:36:48,060 --> 00:36:54,040
+They produce power by water flowing smoothly over a curved surface
+
+428
+00:36:54,041 --> 00:36:58,160
+because the water acts over their entire surface simultaneously
+
+429
+00:36:58,161 --> 00:37:01,960
+instead of on only one paddle or one bucket at a time.
+
+430
+00:37:02,100 --> 00:37:05,640
+They produce much more power in a much more compact form.
+
+431
+00:37:05,641 --> 00:37:16,560
+Hoover Dam makes use of over 17 14-foot-wide turbines to generate 2,991,000 horsepower,
+
+432
+00:37:17,320 --> 00:37:19,760
+which is then transformed into electricity.
+
+433
+00:37:21,100 --> 00:37:24,400
+Moving magnets create electricity.
+
+434
+00:37:25,420 --> 00:37:29,440
+So in every turbine, you have coils of wire and you have magnets.
+
+435
+00:37:29,560 --> 00:37:32,480
+And as you turn those coils of wire in the vicinity of a magnetic field,
+
+436
+00:37:33,100 --> 00:37:36,160
+That's what produces the electricity that we use in our homes.
+
+437
+00:37:36,660 --> 00:37:42,020
+Now you can generate that circular motion with a water-driven turbine, a water wheel.
+
+438
+00:37:42,580 --> 00:37:47,060
+You can generate it with steam in a coal-burning power plant or a nuclear power plant.
+
+439
+00:37:47,560 --> 00:37:48,820
+You can generate it with wind.
+
+440
+00:37:52,580 --> 00:37:56,660
+Jet engines replace water with air inside the spinning turbine.
+
+441
+00:37:57,320 --> 00:38:02,400
+And instead of electricity, jet engines generate thrust as the air is pushed out of the engine.
+
+442
+00:38:02,480 --> 00:38:03,580
+lifting the plane.
+
+443
+00:38:05,280 --> 00:38:07,780
+From the circular motion of a spinning turbine
+
+444
+00:38:07,781 --> 00:38:10,800
+to the spinning of a disc drive running a computer,
+
+445
+00:38:11,440 --> 00:38:12,960
+we spin our wheels everywhere.
+
+446
+00:38:13,940 --> 00:38:16,460
+The CD-ROM is similar to the compact disc,
+
+447
+00:38:16,800 --> 00:38:19,720
+which harkens back to the old vinyl record and turntable,
+
+448
+00:38:20,180 --> 00:38:22,720
+which was a variation on the ancient hurdy-gurdy.
+
+449
+00:38:28,080 --> 00:38:31,180
+In the future, we may need a microscope to see our wheels.
+
+450
+00:38:31,181 --> 00:38:37,380
+One of the great frontiers of the wheels has to do with making them small, making them microscopically small.
+
+451
+00:38:37,460 --> 00:38:38,180
+This is nanotechnology.
+
+452
+00:38:39,200 --> 00:38:49,679
+Right now, we can use lasers, we can use various other techniques to fabricate tiny pieces, including wheels and gears that are a hundredth the diameter of a human
+
+453
+00:38:49,680 --> 00:38:50,380
+hair.
+
+454
+00:38:50,381 --> 00:38:56,540
+You can make gear systems, gear trains on a surface that you need the highest power microscope just to see them.
+
+455
+00:38:56,541 --> 00:38:58,597
+Now, these aren't machines yet.
+
+456
+00:38:58,598 --> 00:39:02,380
+These are just demonstrating the feasibility of doing it.
+
+457
+00:39:02,381 --> 00:39:09,280
+But imagine a society, imagine an age when we have micro-machines that can build other machines.
+
+458
+00:39:10,120 --> 00:39:12,940
+Micro-machines that can do surgery on our bodies.
+
+459
+00:39:13,740 --> 00:39:19,960
+Micro-machines that can fabricate micro-electronics, make your computers smaller, make them more powerful.
+
+460
+00:39:19,961 --> 00:39:27,060
+wheels invaded every aspect of our lives with our undeniable utility and practicality
+
+461
+00:39:27,061 --> 00:39:33,060
+and perhaps they've made us practical too but there's another wheel that's important to us
+
+462
+00:39:33,061 --> 00:39:39,340
+a wheel built solely to amuse to talk about ferris wheels and balls and things like that
+
+463
+00:39:39,341 --> 00:39:47,200
+as pointless mere games uh sort of life's trifles i think we grossly underestimate the power and
+
+464
+00:39:47,201 --> 00:39:56,520
+force, the imaginative potential, the discipline of the mind wrought by such trivia as ferris wheels.
+
+465
+00:39:56,920 --> 00:40:01,960
+After conquering so much of life's work with wheels, it's reassuring to acknowledge the
+
+466
+00:40:01,961 --> 00:40:05,629
+importance of play and of the wheels' importance to play.
+
+467
+00:40:05,630 --> 00:40:08,140
+Ferris wheels, despite their frivolity,
+
+468
+00:40:08,141 --> 00:40:13,315
+are actually complex wheeled mechanisms requiring precision engineering.
+
+469
+00:40:13,316 --> 00:40:15,040
+The largest ferris wheel
+
+470
+00:40:15,041 --> 00:40:17,120
+in the world is the Millennium Wheel in London,
+
+471
+00:40:17,760 --> 00:40:19,560
+opened in February of 2000,
+
+472
+00:40:19,561 --> 00:40:22,580
+with a diameter of 443 feet.
+
+473
+00:40:25,400 --> 00:40:28,840
+But the first true Ferris wheel was a giant as well,
+
+474
+00:40:29,340 --> 00:40:32,620
+built for Chicago's Columbian Exposition of 1894
+
+475
+00:40:32,621 --> 00:40:36,140
+by George Washington Gale Ferris,
+
+476
+00:40:36,660 --> 00:40:39,000
+an American engineer who understood steel.
+
+477
+00:40:39,780 --> 00:40:42,060
+It was first rejected out of hand.
+
+478
+00:40:42,180 --> 00:40:44,720
+It's too wild and too improbable.
+
+479
+00:40:45,780 --> 00:40:48,000
+So nothing else was forthcoming.
+
+480
+00:40:48,140 --> 00:40:50,920
+So at the last minute, they got a hold of Mr. Ferris and said,
+
+481
+00:40:51,000 --> 00:40:52,640
+OK, we'll go with your idea.
+
+482
+00:40:54,240 --> 00:40:58,300
+Ferris produced a 250-foot diameter steel wheel
+
+483
+00:40:58,301 --> 00:41:02,060
+that rose 264 feet off the ground at its highest point.
+
+484
+00:41:02,900 --> 00:41:06,040
+The giant axle was a single-forged piece of steel,
+
+485
+00:41:06,041 --> 00:41:09,060
+the largest single-forging accomplished at that time.
+
+486
+00:41:10,080 --> 00:41:11,820
+Two steam engines powered the wheel
+
+487
+00:41:11,821 --> 00:41:17,000
+that carried over 2,000 passengers on a 40-minute journey through two revolutions.
+
+488
+00:41:18,080 --> 00:41:25,660
+The first time you just got over your fear of sitting there hanging on to the seat,
+
+489
+00:41:25,840 --> 00:41:28,700
+and the second time you got to look out and enjoy the ride.
+
+490
+00:41:30,200 --> 00:41:35,100
+One enthusiastic customer was Lee Sullivan's grandfather, William E. Sullivan,
+
+491
+00:41:35,101 --> 00:41:39,560
+who talked the wheel's operator into letting him observe the mechanism that drove the wheel.
+
+492
+00:41:40,440 --> 00:41:44,620
+When he came home, he told Grandma that that's what he wanted to do, build wheels.
+
+493
+00:41:45,680 --> 00:41:48,860
+She said, well, don't tell anybody. They'll think you've lost your mind.
+
+494
+00:41:50,560 --> 00:41:55,740
+Lee's grandfather turned his Jacksonville, Illinois bridge building business into a wheel making one.
+
+495
+00:41:57,020 --> 00:42:02,720
+More than 100 years later, it continues as the oldest Ferris wheel manufacturer in the country.
+
+496
+00:42:02,721 --> 00:42:11,340
+It's a long journey from the grinding stone to the ferris wheel
+
+497
+00:42:11,341 --> 00:42:18,660
+But the story of wheels is an endless variation on a simple theme
+
+498
+00:42:18,661 --> 00:42:26,420
+And so our inventions change us
+
+499
+00:42:26,421 --> 00:42:28,540
+They don't just make us more powerful
+
+500
+00:42:28,541 --> 00:42:30,460
+They make us think differently
+
+501
+00:42:30,461 --> 00:42:32,600
+About the same sorts of things
+
+502
+00:42:32,601 --> 00:42:36,260
+They make us think differently about the role of thought itself.
+
+503
+00:42:36,920 --> 00:42:39,860
+You think about how much the wheel has driven society,
+
+504
+00:42:40,340 --> 00:42:44,540
+how much it's increased a single human's ability to do more work,
+
+505
+00:42:45,020 --> 00:42:47,860
+to get places that humans could never get before,
+
+506
+00:42:47,940 --> 00:42:49,220
+to travel greater distances,
+
+507
+00:42:49,860 --> 00:42:52,320
+to do technologies you never could do before,
+
+508
+00:42:52,420 --> 00:42:54,820
+just the ideas of things you could do with gear systems,
+
+509
+00:42:55,320 --> 00:42:56,600
+things you could do with water wheels,
+
+510
+00:42:56,960 --> 00:42:58,300
+things you could do with transportation.
+
+511
+00:42:59,420 --> 00:43:01,540
+It's transformed society in amazing ways.
+
+512
+00:43:01,541 --> 00:43:04,920
+It may not be the most important invention ever, but it's certainly right up there.
+

@@ -1,0 +1,2236 @@
+1
+00:00:00,001 --> 00:00:05,000
+Trusted tap water kills more than a hundred.
+
+2
+00:00:05,001 --> 00:00:10,000
+A century-old college tradition turns tragic.
+
+3
+00:00:10,001 --> 00:00:14,000
+American tanks turn out to be death traps.
+
+4
+00:00:14,001 --> 00:00:21,000
+Fourteen die when a building under construction self-destructs.
+
+5
+00:00:21,001 --> 00:00:25,000
+And the Great Airport Luggage Massacre.
+
+6
+00:00:25,001 --> 00:00:29,000
+Now, Engineering Disasters on Modern Marvels.
+
+7
+00:00:30,000 --> 00:00:44,000
+Tap water.
+
+8
+00:00:47,960 --> 00:00:50,940
+As it flows from spigots in our kitchens and bathrooms,
+
+9
+00:00:51,480 --> 00:00:53,720
+we expect it to be safe to drink.
+
+10
+00:00:54,380 --> 00:00:57,340
+We trust treatment plants to remove any harmful impurities
+
+11
+00:00:57,341 --> 00:00:59,180
+that might work their way into the system.
+
+12
+00:01:00,000 --> 00:01:12,320
+But in March 1993, hundreds of thousands of Milwaukee residents became ill from drinking
+
+13
+00:01:12,321 --> 00:01:15,680
+their household water.
+
+14
+00:01:15,681 --> 00:01:23,840
+Grocers sold out of bottled H2O, and Milwaukeeans anxiously lined up to receive purified water.
+
+15
+00:01:23,841 --> 00:01:29,760
+One local health official in early April described the situation in Milwaukee as a near panic
+
+16
+00:01:29,761 --> 00:01:31,900
+because so many people were going to their doctors,
+
+17
+00:01:32,060 --> 00:01:35,900
+so many people were showing up at emergency rooms and hospitals
+
+18
+00:01:35,901 --> 00:01:37,980
+with intestinal illnesses.
+
+19
+00:01:38,520 --> 00:01:39,440
+We had all been asked,
+
+20
+00:01:39,860 --> 00:01:42,240
+something going on, my neighbor's sick, my child's sick,
+
+21
+00:01:42,241 --> 00:01:44,300
+and actually as we began to look around,
+
+22
+00:01:44,420 --> 00:01:46,380
+we noticed a number of coworkers weren't around,
+
+23
+00:01:46,620 --> 00:01:50,260
+and that's kind of a flag to us that in fact it's more than just a flu,
+
+24
+00:01:50,780 --> 00:01:52,660
+and maybe something actually happening.
+
+25
+00:01:53,340 --> 00:01:55,820
+Within two months, 100 died,
+
+26
+00:01:55,821 --> 00:02:01,440
+and more than 400,000 suffered illnesses ranging from diarrhea to fever to vomiting.
+
+27
+00:02:02,100 --> 00:02:06,780
+I think it's important for people to take that precaution and boil water,
+
+28
+00:02:07,740 --> 00:02:10,200
+either for drinking or for washing food.
+
+29
+00:02:11,280 --> 00:02:14,100
+Investigators discovered the majority of suffering residents
+
+30
+00:02:14,101 --> 00:02:16,880
+were receiving water from the Howard Avenue Treatment Plant,
+
+31
+00:02:17,640 --> 00:02:22,360
+one of two facilities serving 800,000 Milwaukee citizens.
+
+32
+00:02:23,100 --> 00:02:27,020
+The Howard plant treated more than 100 million gallons of water per day.
+
+33
+00:02:28,820 --> 00:02:33,340
+Its main supply intake was located 3 1⁄2 miles away in Lake Michigan.
+
+34
+00:02:34,200 --> 00:02:37,580
+Was there indeed something in the water causing the problem?
+
+35
+00:02:40,260 --> 00:02:46,160
+The first week of April, a physician tested a specimen from a patient
+
+36
+00:02:46,161 --> 00:02:50,440
+for a specific parasite, the protozoan cryptosporidium,
+
+37
+00:02:50,441 --> 00:02:54,740
+and found it, contacted other physicians and health officials.
+
+38
+00:02:55,380 --> 00:02:59,940
+They tested other samples, confirmed that it was cryptosporidium.
+
+39
+00:03:01,520 --> 00:03:05,020
+Cryptosporidium, shown here, is a microscopic parasite,
+
+40
+00:03:05,320 --> 00:03:08,220
+more commonly found in animals than human beings.
+
+41
+00:03:09,060 --> 00:03:10,740
+It's a one-celled creature.
+
+42
+00:03:11,160 --> 00:03:14,940
+It multiplies in the intestines of infected humans or animals.
+
+43
+00:03:15,640 --> 00:03:17,980
+It comes out of those intestines in the feces,
+
+44
+00:03:17,981 --> 00:03:22,200
+comes out in a little egg-like packet called an oocyst,
+
+45
+00:03:22,380 --> 00:03:25,520
+and that's the infectious stage for the next person who ingests it.
+
+46
+00:03:27,000 --> 00:03:29,620
+Tests of water samples from the Howard Avenue plant
+
+47
+00:03:29,621 --> 00:03:31,580
+showed the presence of cryptosporidium.
+
+48
+00:03:35,160 --> 00:03:38,920
+The parasites may have entered the water as the result of several factors.
+
+49
+00:03:40,300 --> 00:03:42,760
+And those things that I think about as occurring
+
+50
+00:03:42,761 --> 00:03:48,580
+were heavy rains falling on icy ground,
+
+51
+00:03:48,800 --> 00:03:51,280
+so there's a lot of water runoff into rivers,
+
+52
+00:03:51,920 --> 00:03:53,820
+creating a lot of muddy water,
+
+53
+00:03:54,980 --> 00:03:57,980
+also potentially bringing in cryptospiridium motocyst,
+
+54
+00:03:58,040 --> 00:04:01,200
+the infectious stage of cryptospiridium, into those waters.
+
+55
+00:04:01,760 --> 00:04:06,220
+Then that water being taken into a water treatment plant
+
+56
+00:04:06,221 --> 00:04:10,080
+that wasn't filtering their water in an optimal way.
+
+57
+00:04:10,081 --> 00:04:16,080
+Filters at Milwaukee's Howard Avenue treatment plant, like those in most of the U.S.,
+
+58
+00:04:16,081 --> 00:04:21,380
+were made up of layers of fine-grained sand designed to catch any foreign substance.
+
+59
+00:04:22,560 --> 00:04:26,380
+Milwaukee health officials acknowledged that the sand had not been maintained properly.
+
+60
+00:04:27,240 --> 00:04:29,720
+Filter beds needed to be cleaned. They could have been cleaned more often.
+
+61
+00:04:30,180 --> 00:04:36,120
+There are turbidity monitors and sensors that could have been placed in more spots along the process,
+
+62
+00:04:36,121 --> 00:04:39,800
+so you would have had more continuous monitoring of the water quality.
+
+63
+00:04:40,300 --> 00:04:43,540
+We had more of an intermittent monitoring of the water quality.
+
+64
+00:04:44,000 --> 00:04:48,080
+You need to think of a water treatment plant filter more like a bucket
+
+65
+00:04:48,081 --> 00:04:50,940
+with holes punched in the bottom full of sand.
+
+66
+00:04:51,480 --> 00:04:55,560
+This bucket happens to be a 20-foot by 20-foot pool, but it's the same principle.
+
+67
+00:04:56,440 --> 00:04:59,720
+And no matter how tightly you pack those little grains of sand,
+
+68
+00:05:00,320 --> 00:05:04,100
+there's still microscopic holes in those grains of sand.
+
+69
+00:05:04,101 --> 00:05:09,060
+And those holes are much bigger than the O-O cyst.
+
+70
+00:05:10,780 --> 00:05:13,380
+In order for sand filters to work properly,
+
+71
+00:05:14,220 --> 00:05:16,260
+water must first be treated with chemicals
+
+72
+00:05:16,261 --> 00:05:19,280
+to make the tiniest impurities bond with others,
+
+73
+00:05:20,000 --> 00:05:24,180
+to form particles large enough to be caught by the filtration system.
+
+74
+00:05:25,300 --> 00:05:28,720
+This bonding process was not working sufficiently in Milwaukee,
+
+75
+00:05:30,260 --> 00:05:33,000
+allowing cryptosporidium to slip through the cracks.
+
+76
+00:05:34,100 --> 00:05:39,100
+There were upgrades to the plant that could have been made that hadn't.
+
+77
+00:05:39,101 --> 00:05:41,100
+Milwaukee was very proud of its water.
+
+78
+00:05:41,101 --> 00:05:43,100
+We'd been making products from water.
+
+79
+00:05:43,101 --> 00:05:47,100
+We'd been drinking clean water out of Lake Michigan for well over 100 years.
+
+80
+00:05:47,101 --> 00:05:53,100
+And in retrospect, I think we were a little complacent that those improvements hadn't been made.
+
+81
+00:05:53,101 --> 00:05:55,100
+There was no reason to make them.
+
+82
+00:05:55,101 --> 00:05:59,100
+There was nothing to believe that anything was wrong.
+
+83
+00:05:59,101 --> 00:06:03,100
+Once Cryptosporidium was determined to be the cause of the problem,
+
+84
+00:06:03,101 --> 00:06:06,760
+Then came the tougher question, how to get rid of it.
+
+85
+00:06:07,920 --> 00:06:14,860
+Just as the process for cryptosporidium to enter the system was highly complex, so was the fix.
+
+86
+00:06:16,020 --> 00:06:19,060
+They made a lot of changes in their whole operation.
+
+87
+00:06:19,860 --> 00:06:26,620
+Number one, they did correct the coagulation pretreatment process, so they got the turbidity down where it should have been.
+
+88
+00:06:26,621 --> 00:06:35,620
+Number two, they invested a lot of dollars in a new chemical treatment process that would kill oocysts called ozonization.
+
+89
+00:06:36,240 --> 00:06:43,160
+Ozone is a much more powerful disinfectant than chlorine is, but it's very expensive to produce.
+
+90
+00:06:43,540 --> 00:06:48,040
+And a third major change they made is changing the location of their water intake.
+
+91
+00:06:48,480 --> 00:06:56,040
+Prior to the outbreak, the water intake was close to where the rivers and sewage plant discharged their water.
+
+92
+00:06:56,620 --> 00:06:59,920
+and they were drawing some of that water back in that intake.
+
+93
+00:06:59,921 --> 00:07:04,120
+They now move that intake quite a ways away from that.
+
+94
+00:07:04,900 --> 00:07:09,000
+The Center for Great Lakes Studies and the Great Lakes Research Facility,
+
+95
+00:07:09,200 --> 00:07:10,980
+which is behind us here on the Inner Harbor,
+
+96
+00:07:11,420 --> 00:07:17,320
+they participated in a study that indicated that if they extended that water intake pipe
+
+97
+00:07:17,321 --> 00:07:22,580
+less than a mile, just eight-tenths of a mile more, out into the lake,
+
+98
+00:07:22,581 --> 00:07:27,460
+they would avoid 98% or more of the possible pollutants
+
+99
+00:07:27,461 --> 00:07:29,680
+that would be flowing along the near shoreline.
+
+100
+00:07:29,860 --> 00:07:32,920
+So that moved them out of that plume of contaminants
+
+101
+00:07:32,921 --> 00:07:35,200
+that regularly flow along the shoreline.
+
+102
+00:07:35,201 --> 00:07:40,360
+So that also helped avoid another outbreak in some future spring.
+
+103
+00:07:42,760 --> 00:07:43,840
+That was super.
+
+104
+00:07:46,000 --> 00:07:48,240
+When the fix was complete in Milwaukee,
+
+105
+00:07:48,940 --> 00:07:50,600
+the Howard Water Treatment Plant
+
+106
+00:07:50,601 --> 00:07:52,560
+became one of the most advanced in the nation.
+
+107
+00:07:53,700 --> 00:07:58,440
+But the solution came at great cost, both in lives and dollars.
+
+108
+00:07:59,280 --> 00:08:02,000
+There's been a lot of debate whether or not the people of Milwaukee
+
+109
+00:08:02,001 --> 00:08:05,640
+needed to spend $80 million to convert their water treatment plants
+
+110
+00:08:05,641 --> 00:08:07,240
+to the ozone process.
+
+111
+00:08:07,500 --> 00:08:09,920
+But given the intensity of this outbreak,
+
+112
+00:08:10,460 --> 00:08:13,100
+the number of people that were affected the deaths that we mentioned,
+
+113
+00:08:13,560 --> 00:08:15,400
+the people of this town really demanded
+
+114
+00:08:15,401 --> 00:08:18,840
+that the water treatment plants in Milwaukee be upgraded
+
+115
+00:08:18,841 --> 00:08:23,180
+to the best of their ability, and we're willing to spend the $80 million to do so.
+
+116
+00:08:23,800 --> 00:08:28,980
+The delicate balance between risk and expense will always be a source of controversy.
+
+117
+00:08:29,840 --> 00:08:33,620
+But Milwaukee public health officials are confident they've made the right decision.
+
+118
+00:08:34,420 --> 00:08:35,840
+They know the alternative.
+
+119
+00:08:36,840 --> 00:08:38,480
+People ask me this all the time.
+
+120
+00:08:38,840 --> 00:08:41,280
+Will it ever happen again? Could it ever happen again?
+
+121
+00:08:41,860 --> 00:08:45,260
+Well, the ozonation process that we've installed makes it very unlikely.
+
+122
+00:08:45,261 --> 00:08:50,120
+but I still have enough public health and science in me to say you never say never.
+
+123
+00:08:51,000 --> 00:08:57,120
+The Milwaukee water treatment disaster made many American cities examine and upgrade their own methods of filtration.
+
+124
+00:08:58,860 --> 00:09:03,340
+Few have gone to the trouble and expense of a total system overhaul like that of Milwaukee,
+
+125
+00:09:03,900 --> 00:09:09,020
+but there is no doubt that the quality of tap water across the nation has improved
+
+126
+00:09:09,021 --> 00:09:13,200
+as the result of one city's tragic engineering disaster.
+
+127
+00:09:15,260 --> 00:09:22,440
+Boiling tap water for at least one minute kills cryptosporidium parasites.
+
+128
+00:09:24,000 --> 00:09:27,300
+Engineering disasters will return on Modern Marvels.
+
+129
+00:09:29,680 --> 00:09:34,660
+Texas A&M University in College Station, Texas, is a school of honorable tradition.
+
+130
+00:09:36,140 --> 00:09:44,000
+Once an all-male military school, the now co-ed campus still reflects a history based on discipline, motivation, and pride.
+
+131
+00:09:45,260 --> 00:09:59,248
+One of the most popular and long-standing traditions has been the elaborate building and torching of a giant bonfire the night before Texas A&M plays football against
+
+132
+00:09:59,249 --> 00:10:01,860
+arch-rival University of Texas.
+
+133
+00:10:04,360 --> 00:10:14,000
+A tradition which turned tragic in 1999 with a collapse during bonfire construction, resulting in the deaths of 12 students.
+
+134
+00:10:15,260 --> 00:10:19,900
+The disaster brought an end to the annual Aggie Bonfire,
+
+135
+00:10:21,060 --> 00:10:25,300
+the first of which burned in 1909 as a pile of rubble.
+
+136
+00:10:25,820 --> 00:10:30,300
+You can look at the pictures from year to year of the bonfire
+
+137
+00:10:30,301 --> 00:10:35,520
+and see where it grew not only in size and shape,
+
+138
+00:10:35,740 --> 00:10:39,600
+but it was also made of different materials, starting with the trash.
+
+139
+00:10:39,700 --> 00:10:42,900
+Then they switched to lumber, which was originally cut off the university
+
+140
+00:10:42,901 --> 00:10:44,500
+and then cut off of private land.
+
+141
+00:10:44,501 --> 00:10:57,436
+And actually one of the evolutions that occurred in the whole bonfire activity was that the building of the stack became a minor part of the entire Aggie Bonfire
+
+142
+00:10:57,437 --> 00:10:58,320
+experience.
+
+143
+00:10:59,140 --> 00:11:04,660
+The actual cutting of the wood was a more involved activity.
+
+144
+00:11:09,269 --> 00:11:19,848
+By the time Jim McTasney became head Red Pot, or bonfire organizer, in 1992, students hand-cut logs at nearby forests needing to be cleared, trucked them to the campus
+
+145
+00:11:19,849 --> 00:11:29,540
+bonfire site, then spent weeks lashing the logs together with steel wire, slowly filling out a stack built around a center pole supported by guide ropes.
+
+146
+00:11:29,541 --> 00:11:35,040
+as many as 3,000 students worked on building the stack.
+
+147
+00:11:36,040 --> 00:11:39,420
+The purpose of Aggie Bonfire to the students that built it
+
+148
+00:11:39,421 --> 00:11:41,860
+was not to build a stack.
+
+149
+00:11:42,180 --> 00:11:44,860
+Provide answers to why this tragedy occurred.
+
+150
+00:11:45,860 --> 00:11:49,160
+It was to go out there and experience leadership,
+
+151
+00:11:49,600 --> 00:11:54,400
+and in order for Aggie Bonfire to be the valuable leadership experience that it was,
+
+152
+00:11:54,401 --> 00:11:56,680
+and the valuable training ground that it was,
+
+153
+00:11:56,880 --> 00:11:59,140
+you had to keep the physical labor in it.
+
+154
+00:11:59,540 --> 00:12:03,140
+You purposefully shunned the mechanization and the automation
+
+155
+00:12:03,141 --> 00:12:06,920
+in order to allow as many students as possible to participate.
+
+156
+00:12:08,780 --> 00:12:13,140
+According to tradition, if the bonfire burned past midnight,
+
+157
+00:12:14,600 --> 00:12:17,680
+the Aggies would win the game against the University of Texas.
+
+158
+00:12:20,800 --> 00:12:24,500
+So emphasis in building the stack was placed not so much on height
+
+159
+00:12:24,501 --> 00:12:29,420
+as its aesthetic appeal and ability to burn into the wee hours of the morning.
+
+160
+00:12:29,540 --> 00:12:40,460
+Larry Gross, a professor at Texas A&M from 1981 through 1996, used his construction management
+
+161
+00:12:40,461 --> 00:12:44,700
+background to help students design a structure that could look good and burn long.
+
+162
+00:12:46,460 --> 00:12:52,820
+I did go out and observe the bonfire and the lighting of it and also the collapse of it
+
+163
+00:12:52,821 --> 00:12:53,860
+after it was ignited.
+
+164
+00:12:54,440 --> 00:12:58,700
+And we noticed how the rotation, it did rotate as it came down.
+
+165
+00:12:59,540 --> 00:13:12,160
+To eliminate that rotation action, we suggested to interlock by having the logs from the top layer extend into the lower layer, space them throughout.
+
+166
+00:13:12,161 --> 00:13:18,520
+And this would help to lock the two stacks together, and this would eliminate that rotation action.
+
+167
+00:13:20,040 --> 00:13:24,700
+Larry and Red Pot student organizers analyzed other structural issues as well.
+
+168
+00:13:24,701 --> 00:13:30,980
+We suggested that they move out from the center pole at 20 or 25 feet
+
+169
+00:13:30,981 --> 00:13:35,140
+and drill a series of holes all the way around the bonfire
+
+170
+00:13:35,141 --> 00:13:37,760
+and set the poles into the ground,
+
+171
+00:13:38,280 --> 00:13:41,580
+and this would help to stabilize that bottom layer of them.
+
+172
+00:13:42,020 --> 00:13:46,060
+And then we would fill it and take a cable and cinch it up.
+
+173
+00:13:46,061 --> 00:13:51,420
+And by doing that, it really made a good structural and strong bonfire then.
+
+174
+00:13:51,421 --> 00:13:56,620
+Larry Gross viewed building the bonfire as a valuable educational process,
+
+175
+00:13:56,621 --> 00:14:01,460
+so much so that bonfire design became an independent study class.
+
+176
+00:14:01,461 --> 00:14:08,560
+There were a number of young students who had an issue of, obviously, a budget issue.
+
+177
+00:14:08,561 --> 00:14:11,320
+They had to follow. They had a schedule.
+
+178
+00:14:11,321 --> 00:14:14,820
+It had to be ready to burn the night before the football game.
+
+179
+00:14:14,821 --> 00:14:16,160
+They had to be safe.
+
+180
+00:14:16,161 --> 00:14:19,620
+So it had all the makings of a major construction project.
+
+181
+00:14:19,621 --> 00:14:25,640
+And the class project was to develop a procedures manual for constructing a bonfire.
+
+182
+00:14:26,940 --> 00:14:32,560
+Photos of bonfires during this time period suggest the obvious attention to structural detail.
+
+183
+00:14:33,940 --> 00:14:36,920
+But then came November 18, 1999.
+
+184
+00:14:38,380 --> 00:14:42,620
+Students worked throughout the night to build the bonfire, scheduled to burn a week later.
+
+185
+00:14:42,621 --> 00:14:49,680
+At 2 a.m., as cranes lifted logs to those working on the top and the sides of the stack,
+
+186
+00:14:50,640 --> 00:14:52,120
+the unimaginable happened.
+
+187
+00:14:53,280 --> 00:14:55,580
+The entire structure collapsed.
+
+188
+00:15:01,500 --> 00:15:03,120
+The result was tragic.
+
+189
+00:15:04,280 --> 00:15:08,460
+Despite the efforts of rescue workers to remove the heavy logs as quickly as possible,
+
+190
+00:15:09,320 --> 00:15:11,020
+12 students were found dead.
+
+191
+00:15:11,021 --> 00:15:13,380
+27 were injured
+
+192
+00:15:13,381 --> 00:15:22,340
+following 90 years of successful aggie bonfire building
+
+193
+00:15:22,341 --> 00:15:24,500
+what went wrong
+
+194
+00:15:24,501 --> 00:15:28,660
+texas a&m established a commission to determine the answer
+
+195
+00:15:28,661 --> 00:15:32,800
+according to the commission report
+
+196
+00:15:32,801 --> 00:15:35,460
+the collapse occurred for several reasons
+
+197
+00:15:35,461 --> 00:15:39,240
+as comparisons with earlier bonfire stacks reveal
+
+198
+00:15:39,241 --> 00:15:51,181
+A decision had been made in 1999 to try to make the tiers more straight up, vertical, as opposed to earlier teepee-like shapes, in which the logs leaned slightly
+
+199
+00:15:51,182 --> 00:15:51,882
+inward.
+
+200
+00:15:53,400 --> 00:16:04,020
+The logs used in 1999 appeared to be more irregularly shaped than those used in previous years, providing a looser stack, harder to contain.
+
+201
+00:16:04,021 --> 00:16:11,100
+aggressive wedging of logs on the second tier to fill gaps below
+
+202
+00:16:11,101 --> 00:16:16,140
+increased pressure on steel wire encircling the stacks
+
+203
+00:16:16,141 --> 00:16:19,180
+causing it to snap under pressure
+
+204
+00:16:19,181 --> 00:16:27,380
+using the analogy of a wooden barrel the hoop strength was not sufficient
+
+205
+00:16:27,381 --> 00:16:39,780
+some of the issues that we had developed with our students and with other faculty not just myself
+
+206
+00:16:39,781 --> 00:16:43,500
+but other faculty in our department were involved with this
+
+207
+00:16:43,501 --> 00:16:48,160
+apparently they some of these activities were not being followed
+
+208
+00:16:48,161 --> 00:16:55,960
+the commission's report concluded that the tragedy resulted from a lack of engineering supervision
+
+209
+00:16:55,961 --> 00:17:01,920
+surprising to many in view of how the structure increased in size and complexity over the years.
+
+210
+00:17:03,460 --> 00:17:08,300
+The Aggie Bonfire had always been a project run by students for the students.
+
+211
+00:17:09,900 --> 00:17:14,440
+Larry Gross's involvement had been considered a casual, informal student-teacher collaboration.
+
+212
+00:17:16,560 --> 00:17:21,860
+The collapse was about physical failures driven by organizational failures
+
+213
+00:17:21,861 --> 00:17:27,340
+whose origins span decades of administrations, faculty, and students.
+
+214
+00:17:28,720 --> 00:17:31,900
+No single factor can explain the collapse,
+
+215
+00:17:32,500 --> 00:17:38,460
+just as no single change will ensure that a tragedy like this never happens again.
+
+216
+00:17:40,740 --> 00:17:44,280
+1999 was the last year the bonfire was built.
+
+217
+00:17:45,020 --> 00:17:48,820
+Today, a memorial honoring the students killed in the collapse is being built,
+
+218
+00:17:48,821 --> 00:17:50,700
+where the bonfire once burned.
+
+219
+00:17:51,860 --> 00:17:56,920
+It is unlikely there will ever be another Aggie Bonfire.
+
+220
+00:17:57,880 --> 00:18:01,960
+For student red pots like Jim McTasney, that's a major loss.
+
+221
+00:18:02,860 --> 00:18:10,940
+Any success that I have today, I can trace back to my experience with Aggie Bonfire.
+
+222
+00:18:11,580 --> 00:18:20,780
+It was the most rewarding and educational leadership experience that I had at this university and have had since.
+
+223
+00:18:21,860 --> 00:18:31,580
+Aggie bonfires in the 1990s contained between 5,000 to 7,000 logs
+
+224
+00:18:31,581 --> 00:18:34,480
+that were 8 to 24 inches in diameter.
+
+225
+00:18:36,200 --> 00:18:39,200
+Engineering disasters will return on Modern Marvels.
+
+226
+00:18:42,420 --> 00:18:46,880
+How many times have you seen images like this from film shot during World War II?
+
+227
+00:18:46,881 --> 00:18:55,600
+powerful american sherman tanks rolling across the european countryside
+
+228
+00:18:57,680 --> 00:19:01,120
+delivering firepower to allied ground troops where it was needed most
+
+229
+00:19:03,840 --> 00:19:09,040
+the sherman tanks weight class was somewhere between a light tank which was small and a heavy
+
+230
+00:19:09,041 --> 00:19:15,280
+tank was a big monster it was designed to go over military bridges it was designed to fit on railroad
+
+231
+00:19:15,281 --> 00:19:18,081
+cars. It was designed for easy transportation.
+
+232
+00:19:18,082 --> 00:19:20,700
+It was designed for automotive reliability.
+
+233
+00:19:21,300 --> 00:19:25,939
+When the decision was made to invade Europe, General George S.
+
+234
+00:19:25,940 --> 00:19:27,660
+Patton himself selected
+
+235
+00:19:27,661 --> 00:19:32,120
+the Sherman as his tank of choice. He said, we don't need a heavy tank.
+
+236
+00:19:32,121 --> 00:19:33,000
+We can win the
+
+237
+00:19:33,001 --> 00:19:37,014
+war with this medium tank. Make as many of those as you can.
+
+238
+00:19:37,015 --> 00:19:38,620
+Sherman tanks rolled off
+
+239
+00:19:38,621 --> 00:19:43,053
+American assembly lines by the thousands, nearly 50,000 total.
+
+240
+00:19:43,054 --> 00:19:44,840
+When they reached Europe,
+
+241
+00:19:45,640 --> 00:19:48,400
+three to five-man tank crews immediately took them into battle.
+
+242
+00:19:49,860 --> 00:19:54,640
+The image of the approaching Shermans became a myth-like representation of the invincibility
+
+243
+00:19:54,641 --> 00:19:56,823
+of America's war machine.
+
+244
+00:19:56,824 --> 00:20:02,500
+But those who actually fought in and maintained the Sherman tanks
+
+245
+00:20:02,501 --> 00:20:06,100
+and claimed the invincibility was a myth.
+
+246
+00:20:07,140 --> 00:20:09,940
+And as far as their design for World War II was concerned,
+
+247
+00:20:10,960 --> 00:20:12,940
+the tanks were engineering disasters.
+
+248
+00:20:17,140 --> 00:20:19,480
+General Patton was quite a historian.
+
+249
+00:20:19,640 --> 00:20:22,000
+He knew a lot about wars and the history of wars.
+
+250
+00:20:24,920 --> 00:20:30,240
+He honestly believed that white tanks that were fast and mobile
+
+251
+00:20:30,241 --> 00:20:32,240
+and could cut in behind the enemy.
+
+252
+00:20:32,360 --> 00:20:34,240
+The tanks were not supposed to fight tanks.
+
+253
+00:20:34,940 --> 00:20:37,120
+Now that is a very unrealistic view.
+
+254
+00:20:37,260 --> 00:20:38,980
+You cannot put a tank in the field
+
+255
+00:20:38,981 --> 00:20:41,340
+without preparing it to defend itself
+
+256
+00:20:41,341 --> 00:20:42,920
+and to be able to fight other tanks.
+
+257
+00:20:43,560 --> 00:20:45,420
+So he was basically off base there.
+
+258
+00:20:46,780 --> 00:20:48,660
+Belton Cooper served as a captain
+
+259
+00:20:48,661 --> 00:20:50,220
+on a Sherman tank maintenance unit
+
+260
+00:20:50,221 --> 00:20:51,980
+in the American 3rd Armored Division.
+
+261
+00:20:53,260 --> 00:20:55,020
+He recounted his experiences
+
+262
+00:20:55,021 --> 00:20:57,580
+in a book titled Death Traps.
+
+263
+00:20:57,581 --> 00:21:02,820
+Cooper vividly remembers the first time he approached a disabled Sherman tank.
+
+264
+00:21:04,160 --> 00:21:05,420
+I was devastated.
+
+265
+00:21:06,600 --> 00:21:09,100
+The first shot had gone through the transmission,
+
+266
+00:21:09,640 --> 00:21:12,200
+and in addition to the four inches of armor in the transmission,
+
+267
+00:21:12,340 --> 00:21:18,320
+it had gone through a five-inch steel driveshaft, and that stopped the tank.
+
+268
+00:21:18,440 --> 00:21:23,760
+The second shot hit the top of the turret and cut a three-inch groove through about three inches of armor,
+
+269
+00:21:24,000 --> 00:21:25,920
+and the blast killed the tank gunner.
+
+270
+00:21:27,580 --> 00:21:32,760
+When I saw that, I thought this tank had just had a protection hole.
+
+271
+00:21:32,880 --> 00:21:37,820
+And after that, they started bringing tanks in droves where they're dead and wounded inside.
+
+272
+00:21:37,940 --> 00:21:39,140
+And it was just terrible.
+
+273
+00:21:40,040 --> 00:21:43,100
+And I knew then that we had an inferior tank.
+
+274
+00:21:47,100 --> 00:21:54,600
+We had short-barreled guns designed to shoot high-explosive shells at a fairly low speed, 2,000 feet a second.
+
+275
+00:21:54,601 --> 00:22:02,160
+The German guns would shoot a solid shot at 3,500 feet per second.
+
+276
+00:22:03,620 --> 00:22:08,980
+That meant that they had two, three times the penetrating power of our armor-piercing shells.
+
+277
+00:22:09,440 --> 00:22:12,960
+And so they went through our tanks like a hot night through the butter.
+
+278
+00:22:14,520 --> 00:22:18,520
+The Shermans may have had the speed and mobility so highly regarded by Patton,
+
+279
+00:22:19,520 --> 00:22:24,280
+but those were not the qualities needed to fight the larger German Tiger and Panther tanks.
+
+280
+00:22:24,600 --> 00:22:29,720
+The statistics from Belton Cooper's unit speak for themselves.
+
+281
+00:22:30,440 --> 00:22:34,680
+We lost 648 tanks totally destroyed in combat.
+
+282
+00:22:35,560 --> 00:22:39,380
+Another 700 knocked out and repaired and put back in action.
+
+283
+00:22:39,900 --> 00:22:43,880
+That's 1,348 tanks knocked out in combat.
+
+284
+00:22:44,320 --> 00:22:46,080
+So that's 580% loss.
+
+285
+00:22:46,280 --> 00:22:48,560
+I don't think anybody took that kind of loss in the war.
+
+286
+00:22:48,760 --> 00:22:52,060
+Army, Navy, Air Force, submarines, nothing like that.
+
+287
+00:22:52,061 --> 00:22:57,060
+In one unit, they sent 18 of these newly crewed tanks
+
+288
+00:22:57,160 --> 00:22:59,140
+into combat, and in the first 20 minutes,
+
+289
+00:22:59,240 --> 00:23:00,540
+17 of them were lost.
+
+290
+00:23:00,640 --> 00:23:01,440
+It was murder.
+
+291
+00:23:09,740 --> 00:23:13,640
+It really was almost criminal what our forces had to put up
+
+292
+00:23:13,740 --> 00:23:15,780
+with because we didn't have the right tanks.
+
+293
+00:23:19,080 --> 00:23:21,260
+Why were the Shermans so vulnerable?
+
+294
+00:23:21,261 --> 00:23:25,100
+For starters, their offensive power was hindered by inadequate weaponry.
+
+295
+00:23:25,101 --> 00:23:32,040
+I have a letter in my file that came from General Eisenhower, and he wrote directly to General
+
+296
+00:23:32,041 --> 00:23:35,280
+Rose, and he said, General Rose, I know you've been losing a lot of tanks.
+
+297
+00:23:35,281 --> 00:23:35,981
+I'd like to have
+
+298
+00:23:35,982 --> 00:23:41,600
+you ask your crew and your tank commanders and your combat commanders, why are we losing
+
+299
+00:23:41,601 --> 00:23:43,068
+so many Sherman tanks?
+
+300
+00:23:43,069 --> 00:23:47,540
+And the best answer he gave was by a tank gunner who said, General,
+
+301
+00:23:47,541 --> 00:23:50,400
+in order to knock out a German tank,
+
+302
+00:23:51,080 --> 00:23:54,180
+I've got to get within 600 yards and catch it on the flank.
+
+303
+00:23:55,060 --> 00:23:57,560
+They can knock me out at 2,000 yards head on.
+
+304
+00:23:59,080 --> 00:24:00,720
+For all practical purposes,
+
+305
+00:24:01,720 --> 00:24:04,100
+a Sherman could successfully battle a German tank
+
+306
+00:24:04,101 --> 00:24:07,760
+from just one direction.
+
+307
+00:24:08,220 --> 00:24:10,920
+The only way our tanks could defeat their tanks
+
+308
+00:24:10,921 --> 00:24:12,800
+is if we could run around behind them
+
+309
+00:24:12,801 --> 00:24:15,580
+and shoot them in the rear end where there wasn't much armor.
+
+310
+00:24:15,581 --> 00:24:27,020
+We did that, but typically it would take five tanks being blown up before the sixth one got around to shoot a German tank at the back.
+
+311
+00:24:27,860 --> 00:24:29,500
+The mathematics were not good.
+
+312
+00:24:30,700 --> 00:24:36,140
+When it became clear to American tank commanders that their magnificent war machines were so vulnerable,
+
+313
+00:24:37,500 --> 00:24:44,060
+they resorted to makeshift methods that would add defensive capabilities and length to their lives.
+
+314
+00:24:45,580 --> 00:24:50,260
+anything that they could gather that they could put on that faceplate to protect it
+
+315
+00:24:50,261 --> 00:24:56,380
+they even put logs they put steel plates they put chicken wire backed up with four inches of
+
+316
+00:24:56,381 --> 00:25:00,580
+concrete on the faceplate anything they could get on that to give them a threat of survival
+
+317
+00:25:00,581 --> 00:25:09,460
+but for the most part any effort to improve the shermans was futile to make matters worse
+
+318
+00:25:09,461 --> 00:25:17,580
+sherman's required highly flammable high octane gasoline their engines were originally designed
+
+319
+00:25:17,581 --> 00:25:23,740
+for airplanes in every decision that was made in the development and use of the sherman from
+
+320
+00:25:23,741 --> 00:25:30,500
+beginning to end they had to make choices between options okay we need a high-powered engine with
+
+321
+00:25:30,501 --> 00:25:35,440
+lightweight okay we use this engine it's an aviation engine it burns more flammable fuel
+
+322
+00:25:35,441 --> 00:25:38,680
+but power is the most important thing, power and weight.
+
+323
+00:25:38,840 --> 00:25:42,540
+Or we need a tank that can move very fast to exploit a breakthrough
+
+324
+00:25:42,541 --> 00:25:45,420
+so we can't have real heavy armor because that would slow it down.
+
+325
+00:25:45,640 --> 00:25:47,860
+We'll have just enough armor for what we think we need.
+
+326
+00:25:48,720 --> 00:25:52,760
+The job of a Sherman tank maintenance engineer was a grisly one.
+
+327
+00:25:53,520 --> 00:25:55,180
+We had to clean the tanks out.
+
+328
+00:25:55,240 --> 00:25:59,100
+It's a terrible job to clean out a tank with the head shot off
+
+329
+00:25:59,101 --> 00:26:01,320
+and the arms and legs dismembered.
+
+330
+00:26:01,400 --> 00:26:02,180
+It's just awful.
+
+331
+00:26:02,181 --> 00:26:08,860
+And we had to put them in inside the tanks to get the bodies out and wrap them up in a tarp and then we put them all aside.
+
+332
+00:26:09,500 --> 00:26:15,160
+And the tank crews knew that when they got in that tank and went to battle, if they got hit, they were going to be in bad shape.
+
+333
+00:26:15,980 --> 00:26:24,280
+For soldiers like Belton Cooper, whose World War II duties involved tank maintenance, there is no doubt who the unsung heroes of World War II are.
+
+334
+00:26:25,820 --> 00:26:27,880
+The crews of Sherman tanks.
+
+335
+00:26:27,881 --> 00:26:35,420
+their tanks were knocked out and sent back to repair and then they came back and they got into
+
+336
+00:26:35,421 --> 00:26:41,960
+a tank that had just been freshly painted to cover over the bloodstains that had obvious patches in
+
+337
+00:26:41,961 --> 00:26:48,140
+it from where the mechanics had plugged the holes they knew what they were going up against and then
+
+338
+00:26:48,141 --> 00:26:52,860
+they went out and did it again it was the most heroic thing i can imagine because they knew they
+
+339
+00:26:52,861 --> 00:26:56,600
+They knew that if they ran up against a Tiger or a Panther tank,
+
+340
+00:26:56,700 --> 00:26:58,360
+they were in a lot of trouble.
+
+341
+00:26:58,460 --> 00:27:00,400
+And they still got in those tanks every day,
+
+342
+00:27:00,500 --> 00:27:03,140
+and they went out and beat Germany.
+
+343
+00:27:03,240 --> 00:27:06,140
+Sherman tanks, remembered by their designers
+
+344
+00:27:06,240 --> 00:27:09,580
+for speed and agility, and by their crews
+
+345
+00:27:09,680 --> 00:27:14,120
+for being the right tanks for the wrong war.
+
+346
+00:27:16,320 --> 00:27:18,180
+We were just inadequate.
+
+347
+00:27:18,280 --> 00:27:19,780
+That's all I can say.
+
+348
+00:27:19,781 --> 00:27:27,600
+can say. We just did not understand what we were doing. It's a great tragedy.
+
+349
+00:27:32,460 --> 00:27:37,140
+The Sherman tank was named after Civil War Union General William Tecumseh Sherman.
+
+350
+00:27:39,180 --> 00:27:42,580
+Engineering disasters will return on Modern Marvels.
+
+351
+00:27:42,581 --> 00:27:51,160
+40 miles outside the city of Denver, Colorado, stands what appears to be a sculpture of modern art.
+
+352
+00:27:52,120 --> 00:27:58,480
+With its tint-like white peaks glistening in the sun, DIA, Denver International Airport,
+
+353
+00:27:58,481 --> 00:28:04,560
+was designed to represent the perfect combination of aesthetic form and practical function,
+
+354
+00:28:05,620 --> 00:28:08,360
+a state-of-the-art airport for the entire world to emulate.
+
+355
+00:28:08,361 --> 00:28:15,320
+DIA's designers wanted to impress not only with architectural innovation,
+
+356
+00:28:15,820 --> 00:28:19,400
+but with an advancement in technology that had never been attempted.
+
+357
+00:28:20,980 --> 00:28:24,700
+A computerized, totally automated baggage transfer system
+
+358
+00:28:24,701 --> 00:28:27,860
+that would move luggage from curbside to plane,
+
+359
+00:28:29,020 --> 00:28:32,500
+plane to plane, and plane back to baggage claim
+
+360
+00:28:32,501 --> 00:28:35,640
+with unimaginable speed and efficiency.
+
+361
+00:28:35,641 --> 00:28:49,641
+The hope was that they would have a way to almost instantaneously move the bags from one aircraft to another inexpensively, without people, and very reliably.
+
+362
+00:28:53,800 --> 00:28:59,740
+On March 10, 1994, Air Force supervisors were ready to show the system to the world.
+
+363
+00:29:01,060 --> 00:29:05,060
+This is the world's largest, fastest, most sophisticated baggage system.
+
+364
+00:29:05,640 --> 00:29:13,160
+It utilizes over 3,100 cars running on 20 miles of track.
+
+365
+00:29:13,161 --> 00:29:18,460
+It's powered by over 10,000 motors, 100 computers, and the whole thing is interconnected with
+
+366
+00:29:18,461 --> 00:29:19,920
+14 million feet of wire.
+
+367
+00:29:20,700 --> 00:29:21,960
+There was only one problem.
+
+368
+00:29:25,280 --> 00:29:27,340
+The system wasn't ready to be seen.
+
+369
+00:29:28,160 --> 00:29:31,440
+It was a public relations and operational disaster.
+
+370
+00:29:31,560 --> 00:29:33,220
+There's just no other words for it.
+
+371
+00:29:33,221 --> 00:29:38,700
+The images that appeared in the papers at the time were of baggage,
+
+372
+00:29:38,980 --> 00:29:42,920
+bags being chewed up, being opened, thrown on the floor.
+
+373
+00:29:43,240 --> 00:29:44,420
+It was a mess.
+
+374
+00:29:46,760 --> 00:29:48,600
+The pictures weren't staged.
+
+375
+00:29:48,720 --> 00:29:50,560
+That's what really happened when they opened it.
+
+376
+00:29:51,920 --> 00:29:54,860
+They weren't ready for prime time when they invited the press in.
+
+377
+00:29:56,460 --> 00:30:01,180
+The news media had a field day with the first display of the baggage system of the future.
+
+378
+00:30:03,220 --> 00:30:08,900
+D.I.A., as in baggage, dead in arrival, became a popular phrase.
+
+379
+00:30:10,260 --> 00:30:14,180
+Other terms used were the luggage eater, the D.I.A. debacle,
+
+380
+00:30:14,820 --> 00:30:19,480
+and the greatest thing to happen to the carry-on baggage industry since wheels.
+
+381
+00:30:25,120 --> 00:30:32,860
+I share your frustration that this magnificent new facility is not yet open.
+
+382
+00:30:33,220 --> 00:30:37,120
+Because the system had been designed with no backup,
+
+383
+00:30:37,800 --> 00:30:44,000
+the opening of the airport of the future was delayed into the future by nearly a full year.
+
+384
+00:30:44,780 --> 00:30:50,940
+The estimated loss of revenue was a million dollars a day, all because of an engineering disaster.
+
+385
+00:30:52,380 --> 00:30:53,080
+Are we all ready?
+
+386
+00:30:53,160 --> 00:30:53,860
+We're all ready.
+
+387
+00:30:53,861 --> 00:30:54,561
+All right.
+
+388
+00:30:54,562 --> 00:30:56,980
+Three, two, one.
+
+389
+00:30:57,580 --> 00:30:58,300
+There we go.
+
+390
+00:30:58,301 --> 00:31:02,700
+When DIA finally did open,
+
+391
+00:31:08,960 --> 00:31:11,340
+the automated system had been relegated
+
+392
+00:31:11,341 --> 00:31:13,500
+to backing up a more traditional system.
+
+393
+00:31:15,380 --> 00:31:17,160
+Mann takes bag off plane.
+
+394
+00:31:20,940 --> 00:31:23,020
+Mann puts bag on conveyor belt.
+
+395
+00:31:23,860 --> 00:31:26,000
+Mann takes bag off conveyor belt.
+
+396
+00:31:28,300 --> 00:31:34,120
+How could the creators of such a masterpiece of artistic design have produced such an engineering disaster?
+
+397
+00:31:35,400 --> 00:31:39,500
+In order to answer that question, it's important to see this.
+
+398
+00:31:43,900 --> 00:31:47,160
+A masterpiece of engineering and computer technology.
+
+399
+00:31:49,200 --> 00:31:54,060
+Whizzing luggage along an incredible labyrinth of belts and tracks underground at DIA
+
+400
+00:31:54,061 --> 00:31:58,660
+is in effect how the system was supposed to work,
+
+401
+00:31:59,600 --> 00:32:02,420
+which happens to be how it's finally working now,
+
+402
+00:32:03,100 --> 00:32:06,440
+at least for United Airlines flights.
+
+403
+00:32:10,280 --> 00:32:12,840
+It's taken 10 years to solve the problems
+
+404
+00:32:12,841 --> 00:32:15,840
+airport authorities originally hoped could be resolved in two.
+
+405
+00:32:17,340 --> 00:32:18,460
+So what happened?
+
+406
+00:32:19,180 --> 00:32:20,260
+Why wasn't it ready?
+
+407
+00:32:21,120 --> 00:32:23,520
+I guess in some ways the major problem
+
+408
+00:32:23,521 --> 00:32:25,000
+with the system was hubris.
+
+409
+00:32:25,280 --> 00:32:27,020
+That is, people thought they could do it
+
+410
+00:32:27,021 --> 00:32:29,340
+and they didn't have to deal with the reality.
+
+411
+00:32:29,960 --> 00:32:32,360
+But in terms of technical things that happened,
+
+412
+00:32:32,460 --> 00:32:35,040
+it was a whole range of issues.
+
+413
+00:32:36,420 --> 00:32:38,980
+The DIA automated system was designed
+
+414
+00:32:38,981 --> 00:32:41,400
+so that every bag would be carried to its destination
+
+415
+00:32:41,401 --> 00:32:43,480
+by an individual telecar.
+
+416
+00:32:46,620 --> 00:32:48,840
+A bag begins its trip through the system
+
+417
+00:32:48,841 --> 00:32:51,600
+by having a barcode on its ID tag
+
+418
+00:32:51,601 --> 00:32:53,140
+read by a laser device.
+
+419
+00:32:53,520 --> 00:33:03,780
+At the time the airport opened, barcode readers were the single line variety, incapable of obtaining a read with one quick swipe.
+
+420
+00:33:05,460 --> 00:33:09,060
+Bags were sent to the wrong planes or to no man's land.
+
+421
+00:33:10,940 --> 00:33:18,980
+Today, conveyor belts deliver luggage through cobwebs of advanced laser beams that read barcode tags without the bag even slowing down.
+
+422
+00:33:18,981 --> 00:33:31,540
+The technology has grown so much that these now, I don't know if you see them, but it's sort of a spider web where it's on a holographic disc and the diodes that read
+
+423
+00:33:31,541 --> 00:33:38,880
+the barcode, there's six of these and that gives it so much more opportunity to read the barcode.
+
+424
+00:33:38,881 --> 00:33:43,880
+The bag is then automatically placed in a telecar.
+
+425
+00:33:45,880 --> 00:33:50,940
+Destination information read from the barcode is transferred to the car, so it knows what path to follow.
+
+426
+00:33:52,920 --> 00:33:56,000
+Like taxis waiting for passengers on incoming flights.
+
+427
+00:33:57,380 --> 00:34:01,180
+Empty telecars are always ready to jump onto the system to handle heavy traffic.
+
+428
+00:34:01,181 --> 00:34:08,740
+At the system startup, the ability to handle heavy loads of baggage in peak travel periods
+
+429
+00:34:08,741 --> 00:34:11,520
+just wasn't possible with the automated system.
+
+430
+00:34:12,900 --> 00:34:14,380
+Today, it's no problem.
+
+431
+00:34:16,060 --> 00:34:20,860
+Extra-large telecars take care of oversized baggage, like golf clubs and skis.
+
+432
+00:34:24,280 --> 00:34:28,740
+Computers in a central control facility track the location of every telecar
+
+433
+00:34:28,741 --> 00:34:32,780
+as it makes its way through a 17-mile maze of intersecting track.
+
+434
+00:34:35,200 --> 00:34:37,920
+Accurate tracking was a major flaw in the original system,
+
+435
+00:34:38,480 --> 00:34:42,620
+mainly caused by computer software, ill-equipped for the task.
+
+436
+00:34:43,260 --> 00:34:47,120
+I can tell where the bag is in the system.
+
+437
+00:34:47,540 --> 00:34:50,980
+I can tell the passenger that that bag belongs to,
+
+438
+00:34:51,400 --> 00:34:53,320
+where the bag was input into the system,
+
+439
+00:34:53,960 --> 00:34:57,500
+the city that it's destined for, the make-up unit,
+
+440
+00:34:57,501 --> 00:34:58,900
+time the flight leaves.
+
+441
+00:35:00,180 --> 00:35:02,440
+On their routes to and from planes,
+
+442
+00:35:03,300 --> 00:35:07,280
+all baggage cars need to take a dive below runways
+
+443
+00:35:07,281 --> 00:35:10,300
+into what engineers now call the hellhole.
+
+444
+00:35:10,760 --> 00:35:13,040
+When the system was first put into operation,
+
+445
+00:35:13,840 --> 00:35:15,400
+gravity took control at this point,
+
+446
+00:35:15,900 --> 00:35:17,960
+allowing many bags to tumble off the track
+
+447
+00:35:17,961 --> 00:35:20,760
+into the jaws of luggage-chomping machinery.
+
+448
+00:35:20,761 --> 00:35:30,380
+Today, telecar speed is controlled by in-track magnets, which slow the descent.
+
+449
+00:35:31,580 --> 00:35:36,920
+But by the use of these reverse magnets, we were able to slow that car down,
+
+450
+00:35:37,220 --> 00:35:42,320
+so none of these bags fall out of the car while it's traveling down the hellhole.
+
+451
+00:35:43,140 --> 00:35:47,100
+Right now, we're probably cranking anywhere between 10 to 12 miles an hour.
+
+452
+00:35:47,101 --> 00:35:50,880
+By time we finish down there, we're anywhere between 3 to 5.
+
+453
+00:35:52,720 --> 00:35:55,860
+Should any bag for whatever reason fall out of its car,
+
+454
+00:35:56,420 --> 00:36:00,400
+detection devices using RF, radio frequency technology,
+
+455
+00:36:01,060 --> 00:36:05,320
+immediately halt the system and inform operators in the central control center
+
+456
+00:36:05,321 --> 00:36:09,760
+so the escapee can be captured and set on the right path.
+
+457
+00:36:12,340 --> 00:36:16,000
+This form of RF tech was not available when the airport opened
+
+458
+00:36:16,001 --> 00:36:19,960
+and has brought with it a whole new level of dependable speed to the system.
+
+459
+00:36:20,620 --> 00:36:23,820
+It's a workable piece of engineering and marvel.
+
+460
+00:36:24,220 --> 00:36:28,200
+I've been amazed by it since the opening of the airport that I've been here.
+
+461
+00:36:28,740 --> 00:36:34,220
+The system can go anywhere from probably 1,750 to about 2,300 feet per minute,
+
+462
+00:36:34,660 --> 00:36:37,760
+which still beats almost every conveyor system out there right now.
+
+463
+00:36:38,280 --> 00:36:39,280
+It's very quick.
+
+464
+00:36:39,281 --> 00:36:47,760
+Finally, each bag ends its automated thrill ride in a holding, makeup area where low-tech
+
+465
+00:36:47,761 --> 00:36:49,600
+takes over.
+
+466
+00:36:49,601 --> 00:36:55,600
+Human beings place the bags on old-fashioned trams to be loaded onto planes.
+
+467
+00:36:55,601 --> 00:37:03,720
+With all the wide bodies, we probably see about 1,500 bags a day, so that would probably
+
+468
+00:37:03,721 --> 00:37:09,900
+the end of the journey for the bag from its location to the terminal to out here.
+
+469
+00:37:12,680 --> 00:37:17,800
+Although the automated DIA system is now working as it should have been 10 years ago,
+
+470
+00:37:18,520 --> 00:37:25,100
+a backup system is in place. People-driven trams have their own concrete highway
+
+471
+00:37:25,101 --> 00:37:30,500
+underneath the flying automated system to carry bags if the system goes down,
+
+472
+00:37:30,501 --> 00:37:36,920
+or when flight delays require hot transfers, fewer than 15 minutes between connections.
+
+473
+00:37:38,460 --> 00:37:44,840
+Simply put, the DIA baggage system became an engineering disaster for one reason.
+
+474
+00:37:45,720 --> 00:37:48,440
+Too much was expected too fast.
+
+475
+00:37:49,620 --> 00:37:53,040
+Today, even though the automated system is alive and well at DIA,
+
+476
+00:37:53,980 --> 00:37:58,480
+it is only being used by United Airlines, which uses Denver as a major hub.
+
+477
+00:37:59,340 --> 00:38:02,940
+That means computerized baggage handling, though working successfully,
+
+478
+00:38:03,900 --> 00:38:06,880
+is handling only half the load for which it was originally intended.
+
+479
+00:38:08,120 --> 00:38:15,580
+Since DIA installed the system, no new airport in the world has attempted to duplicate such a massive undertaking.
+
+480
+00:38:20,720 --> 00:38:25,940
+The biggest problem for DIA's automated baggage system continues to be wheeled suitcases,
+
+481
+00:38:25,941 --> 00:38:29,320
+which tend to slip and slide on the high-speed conveyors.
+
+482
+00:38:32,520 --> 00:38:36,400
+Engineering disasters will return on Modern Marvels.
+
+483
+00:38:37,500 --> 00:38:42,340
+In Fairfax County, Virginia, the 26-story Skyline Plaza
+
+484
+00:38:42,341 --> 00:38:45,560
+has been a popular apartment complex for more than three decades.
+
+485
+00:38:46,780 --> 00:38:51,640
+During its construction, however, a tragic engineering disaster occurred
+
+486
+00:38:51,641 --> 00:38:55,380
+that provided warning signals to an industry that thrived on building
+
+487
+00:38:55,381 --> 00:38:58,080
+the tallest buildings in the shortest time.
+
+488
+00:38:59,780 --> 00:39:02,920
+It happened on March 2nd, 1973.
+
+489
+00:39:04,400 --> 00:39:08,180
+Construction workers were pouring the concrete floor slab of the 24th story.
+
+490
+00:39:09,840 --> 00:39:13,340
+Suddenly, a contractor's worst nightmare.
+
+491
+00:39:22,480 --> 00:39:25,240
+One of four structures making up the tower.
+
+492
+00:39:25,380 --> 00:39:34,100
+collapsed all the way down to ground level 14 workers died in the disaster
+
+493
+00:39:34,101 --> 00:39:39,960
+which left every member of the construction community asking why and
+
+494
+00:39:39,961 --> 00:39:44,560
+Fairfax County District Attorneys wondering if anyone should be held
+
+495
+00:39:44,561 --> 00:39:50,320
+criminally responsible my initial reaction was what in the world would
+
+496
+00:39:50,321 --> 00:39:57,760
+make a building that's already gotten up to the 24th floor all of a sudden come tumbling all the
+
+497
+00:39:57,761 --> 00:40:07,040
+way to the ground and i had i confess i had absolutely no idea and no theory at all the job
+
+498
+00:40:07,041 --> 00:40:13,840
+of determining the specific cause of the collapse fell to evie leindecker structural engineer with
+
+499
+00:40:13,841 --> 00:40:19,920
+the national bureau of standards and technology leindecker went to work to determine if the
+
+500
+00:40:19,921 --> 00:40:23,300
+the tragedy could have been a result of poor design.
+
+501
+00:40:23,301 --> 00:40:26,020
+He saw no immediate shortcomings.
+
+502
+00:40:26,021 --> 00:40:29,060
+The most important evidence came from workers at the site
+
+503
+00:40:29,061 --> 00:40:30,540
+who survived the collapse.
+
+504
+00:40:31,640 --> 00:40:33,240
+From their eyewitness reports,
+
+505
+00:40:33,241 --> 00:40:35,320
+he was able to piece together a scenario.
+
+506
+00:40:37,700 --> 00:40:40,940
+Leindecker concluded that the collapse began shortly
+
+507
+00:40:40,941 --> 00:40:42,840
+after a portion of the 24th story
+
+508
+00:40:42,841 --> 00:40:44,840
+concrete floor slab had been poured.
+
+509
+00:40:46,920 --> 00:40:49,420
+At the same time, wooden forms used
+
+510
+00:40:49,421 --> 00:40:54,618
+cast vertical concrete pillars were being removed two floors below.
+
+511
+00:40:54,619 --> 00:40:56,480
+According to engineering
+
+512
+00:40:56,481 --> 00:41:08,140
+design recommendations, those forms were removed too early.
+
+513
+00:41:08,141 --> 00:41:14,760
+The engineers' drawings had a statement on them that indicated that under a floor being
+
+514
+00:41:14,761 --> 00:41:17,520
+cast or where the concrete was being poured,
+
+515
+00:41:17,521 --> 00:41:20,000
+that you had to have a complete farming system.
+
+516
+00:41:20,001 --> 00:41:23,200
+That means the wood that's supporting the concrete
+
+517
+00:41:23,201 --> 00:41:26,720
+had to be in place underneath the slab being cast.
+
+518
+00:41:26,721 --> 00:41:29,760
+And it also had to be in place for one story below that.
+
+519
+00:41:33,160 --> 00:41:36,540
+The wet concrete being poured on the 24th story
+
+520
+00:41:36,541 --> 00:41:40,280
+didn't have enough support because wooden forms were removed
+
+521
+00:41:40,281 --> 00:41:43,840
+on floor 22, where vertical concrete pillars
+
+522
+00:41:43,841 --> 00:41:47,200
+were not completely cured.
+
+523
+00:41:47,201 --> 00:41:50,300
+Within days of the collapse, the question became not what
+
+524
+00:41:50,301 --> 00:41:53,440
+happened, but who was responsible for carrying out
+
+525
+00:41:53,441 --> 00:41:56,260
+the instructions stated on the engineer's drawings.
+
+526
+00:42:01,580 --> 00:42:03,420
+Fairfax County building inspectors
+
+527
+00:42:03,421 --> 00:42:05,860
+were not required to inspect the curing of concrete
+
+528
+00:42:05,861 --> 00:42:07,860
+before additional floors could be constructed.
+
+529
+00:42:07,861 --> 00:42:15,580
+It was the job of the contractor to make certain that vertical columns were secure
+
+530
+00:42:15,581 --> 00:42:18,640
+before concrete was poured for the new floors.
+
+531
+00:42:19,700 --> 00:42:23,700
+I could visualize people going in and pulling farms, and I'd say,
+
+532
+00:42:23,780 --> 00:42:26,580
+hey, we're great, we're great, we're making good progress, let's just keep on going.
+
+533
+00:42:28,060 --> 00:42:31,680
+That's always been one of my own conjectures, but that's all that is.
+
+534
+00:42:31,681 --> 00:42:36,040
+But I think it probably was the inappropriate level of communication
+
+535
+00:42:36,041 --> 00:42:38,760
+between the people running the construction site
+
+536
+00:42:38,761 --> 00:42:42,080
+and the actual workers that were executing the work,
+
+537
+00:42:42,260 --> 00:42:45,680
+but maybe not having explicit instructions on what they should be doing.
+
+538
+00:42:46,700 --> 00:42:49,600
+When it became obvious that the skyline collapse
+
+539
+00:42:49,601 --> 00:42:52,000
+had been the result of poor engineering supervision,
+
+540
+00:42:53,400 --> 00:42:55,880
+the Fairfax District Attorney's Office mobilized
+
+541
+00:42:55,881 --> 00:43:00,000
+to determine if any individuals were criminally liable.
+
+542
+00:43:01,400 --> 00:43:04,600
+We ultimately presented a case to the grand jury
+
+543
+00:43:04,601 --> 00:43:08,440
+to charge the superintendent of construction on that day.
+
+544
+00:43:09,160 --> 00:43:11,400
+We charged him with manslaughter
+
+545
+00:43:11,401 --> 00:43:17,940
+for what we perceived to be a willful, wanton disregard of human life
+
+546
+00:43:17,941 --> 00:43:22,480
+when he ordered the shores to be pulled from the 23rd floor.
+
+547
+00:43:24,240 --> 00:43:27,240
+Eventually, he was tried for the manslaughter,
+
+548
+00:43:28,060 --> 00:43:30,080
+and the jury was never able to resolve it.
+
+549
+00:43:30,580 --> 00:43:32,400
+The result of the trial was a hung jury,
+
+550
+00:43:32,401 --> 00:43:35,200
+so there was no conclusion criminally.
+
+551
+00:43:35,600 --> 00:43:39,540
+The Skyline apartment complex was completely torn down and rebuilt.
+
+552
+00:43:40,160 --> 00:43:44,680
+The collapse made an impact on building inspectors locally and across the country.
+
+553
+00:43:45,560 --> 00:43:54,280
+In the months after this happened, it seemed to me every high-rise building in the county under construction
+
+554
+00:43:54,281 --> 00:43:58,520
+had three floors of shoring in place at all times.
+
+555
+00:43:58,521 --> 00:44:00,480
+I think this scared the industry.
+
+556
+00:44:00,481 --> 00:44:06,980
+it resulted in much more concern about safety than maybe had existed before.
+
+557
+00:44:08,140 --> 00:44:11,940
+Today, as a direct result of the Skyline incident,
+
+558
+00:44:12,860 --> 00:44:17,500
+building codes and contractor safety guidelines are more defined and enforced.
+
+559
+00:44:18,800 --> 00:44:24,000
+No city wants to experience anything like the Skyline Plaza engineering disaster.
+

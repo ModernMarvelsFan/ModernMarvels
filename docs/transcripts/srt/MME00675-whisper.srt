@@ -1,0 +1,2132 @@
+1
+00:00:00,001 --> 00:00:03,540
+They've transformed our lives.
+
+2
+00:00:04,160 --> 00:00:06,500
+Yet a couple of decades ago, they didn't exist.
+
+3
+00:00:07,700 --> 00:00:10,220
+Now we don't know how we ever got along without them.
+
+4
+00:00:11,900 --> 00:00:14,680
+How much have they truly improved the human condition?
+
+5
+00:00:15,680 --> 00:00:17,080
+And at what price?
+
+6
+00:00:18,940 --> 00:00:24,300
+Now, our picks for the top 10 technological innovations of the last generation
+
+7
+00:00:24,301 --> 00:00:26,640
+on Modern Marvels.
+
+8
+00:00:30,000 --> 00:00:40,840
+Congratulations.
+
+9
+00:00:42,040 --> 00:00:44,240
+If you've made it this far, you're a survivor.
+
+10
+00:00:45,420 --> 00:00:48,900
+You've lived through a generation of unparalleled technological innovation.
+
+11
+00:00:50,600 --> 00:00:57,900
+The effects of technological change and its impact on how we live, work, and play has been accelerating dramatically,
+
+12
+00:00:57,901 --> 00:01:01,340
+more so than any other generation in the history of mankind.
+
+13
+00:01:02,120 --> 00:01:07,340
+However, some might say you can take this technological overload and, well, shove it.
+
+14
+00:01:07,680 --> 00:01:08,860
+That's it. All right. Hold on.
+
+15
+00:01:09,260 --> 00:01:11,460
+We don't pay complete attention to anything anymore
+
+16
+00:01:11,461 --> 00:01:14,500
+because these technical revolutions that we've witnessed
+
+17
+00:01:14,501 --> 00:01:18,440
+are all about allowing you to multitask in some way or another.
+
+18
+00:01:18,960 --> 00:01:20,360
+For over a decade,
+
+19
+00:01:20,960 --> 00:01:23,980
+modern marvels has showcased the rapid advancement of technology.
+
+20
+00:01:23,981 --> 00:01:31,540
+Now we've decided it's our turn to identify and rank by importance the top 10 innovations
+
+21
+00:01:31,541 --> 00:01:33,540
+of the recent past.
+
+22
+00:01:33,541 --> 00:01:39,960
+We may take these technologies for granted today, but they've all dramatically changed
+
+23
+00:01:39,961 --> 00:01:40,960
+our lives.
+
+24
+00:01:40,961 --> 00:01:46,960
+And most weren't even around a few decades ago.
+
+25
+00:01:46,961 --> 00:01:51,960
+We begin in the middle of our technological list at number 5.
+
+26
+00:01:51,961 --> 00:01:52,960
+Robotics.
+
+27
+00:01:52,961 --> 00:02:01,600
+Forget science fiction.
+
+28
+00:02:01,601 --> 00:02:05,760
+Robots now rule the factory floor.
+
+29
+00:02:05,761 --> 00:02:09,920
+They've helped construct many of the items we use every day.
+
+30
+00:02:09,921 --> 00:02:17,920
+That's because by 2008, there were over one million of them.
+
+31
+00:02:17,921 --> 00:02:30,800
+Say hello to over 2,500 pounds of lean, mean working machine.
+
+32
+00:02:30,801 --> 00:02:37,520
+This model R2000iB robot never clocks out.
+
+33
+00:02:37,521 --> 00:02:41,860
+It operates 24-7 without a lunch break.
+
+34
+00:02:41,861 --> 00:02:43,500
+You get a better product.
+
+35
+00:02:43,501 --> 00:02:46,160
+Things work more reliably than they ever did before.
+
+36
+00:02:46,161 --> 00:02:49,520
+and it's all because the robots have a big hand in making those products today.
+
+37
+00:02:50,240 --> 00:02:56,580
+They handle just about everything, from pet food, to cars, to your mail.
+
+38
+00:02:58,080 --> 00:03:01,540
+Assembling, stacking, or sorting with the utmost precision.
+
+39
+00:03:04,560 --> 00:03:07,960
+Panic Robotics builds robots from this six-armed fighter unit
+
+40
+00:03:07,961 --> 00:03:11,180
+that can assemble the smallest computer parts
+
+41
+00:03:11,181 --> 00:03:19,380
+to this mammoth machine that can bench press over a quarter ton.
+
+42
+00:03:20,980 --> 00:03:22,980
+Based in Rochester Hills, Michigan,
+
+43
+00:03:23,420 --> 00:03:27,260
+it's one of the leading industrial automation contractors in the United States.
+
+44
+00:03:28,380 --> 00:03:33,540
+We have supplied over 200,000 robots in the industry today
+
+45
+00:03:33,541 --> 00:03:35,680
+since our beginning in 1982.
+
+46
+00:03:36,860 --> 00:03:39,440
+And these are not your father's robots.
+
+47
+00:03:41,180 --> 00:03:44,740
+You can think of a robot just like you think of a person.
+
+48
+00:03:45,240 --> 00:03:48,260
+The first joint is just like your waist.
+
+49
+00:03:49,520 --> 00:03:51,900
+The next is just like your hips.
+
+50
+00:03:54,000 --> 00:03:57,740
+The next joint up operates just like our shoulder,
+
+51
+00:03:58,680 --> 00:04:01,040
+where the robot can move up and down just like your shoulder.
+
+52
+00:04:01,880 --> 00:04:06,500
+Then you can spin the upper arm just the way your rotator cuff spins.
+
+53
+00:04:06,501 --> 00:04:13,500
+You can also move the fifth joint of the robot to be just the way your wrist moves.
+
+54
+00:04:17,500 --> 00:04:20,500
+These smooth moves mean robots can do more intricate tasks.
+
+55
+00:04:23,500 --> 00:04:27,500
+In just the past few years, robots have gained the power of sight.
+
+56
+00:04:28,500 --> 00:04:30,500
+And some would argue they might be starting to think.
+
+57
+00:04:30,501 --> 00:04:31,201
+thing.
+
+58
+00:04:31,202 --> 00:04:39,440
+The key to this process is a camera that's built into the tooling of this robot
+
+59
+00:04:39,441 --> 00:04:45,201
+right here. The camera allows the robot to see and find the parts in the bin.
+
+60
+00:04:45,202 --> 00:04:45,902
+Now once
+
+61
+00:04:45,903 --> 00:04:49,199
+we find the parts, we bring it past this second camera.
+
+62
+00:04:49,200 --> 00:04:51,300
+This second camera tells the robot
+
+63
+00:04:51,301 --> 00:04:55,049
+what's good and what's bad and allows the robot to sort those.
+
+64
+00:04:55,050 --> 00:04:56,440
+That's a key innovation
+
+65
+00:04:56,441 --> 00:05:05,855
+robotics. Do they take jobs? Without a doubt. And they'll continue to do so.
+
+66
+00:05:05,856 --> 00:05:08,580
+If your job is static,
+
+67
+00:05:08,581 --> 00:05:14,800
+if it's repetitive, if it's dirty, if it's grimy, the answer is if you haven't already lost your job,
+
+68
+00:05:14,801 --> 00:05:19,740
+you will lose your job to a robot. But robots can also protect us.
+
+69
+00:05:19,741 --> 00:05:25,640
+This real-life RoboCop, called a PacBot, patrols our streets.
+
+70
+00:05:28,140 --> 00:05:31,580
+Police deploy them for particularly dangerous situations,
+
+71
+00:05:32,760 --> 00:05:36,500
+disarming bombs or performing reconnaissance in hostage situations.
+
+72
+00:05:38,160 --> 00:05:42,100
+It puts the power back, in many ways, on the side of law enforcement.
+
+73
+00:05:43,320 --> 00:05:46,580
+More than 2,000 PacBots are in use worldwide.
+
+74
+00:05:46,581 --> 00:05:53,580
+Many see duty on the battlefields of Iraq and Afghanistan.
+
+75
+00:05:53,581 --> 00:06:02,580
+The BackBot uses an onboard power supply employing our number 7 technology, the lithium-ion battery.
+
+76
+00:06:02,581 --> 00:06:11,580
+Without it, forget your portable music and get a wheelbarrow for your laptop and cell phone.
+
+77
+00:06:11,581 --> 00:06:16,260
+You can thank or curse the lithium-ion battery for making us multitaskers on the go
+
+78
+00:06:20,260 --> 00:06:24,980
+Boston power in Massachusetts makes the latest generation of lithium-ion batteries
+
+79
+00:06:26,880 --> 00:06:32,840
+The simple answer to why lithium-ion wins in the long run is of course more energy per weight
+
+80
+00:06:32,841 --> 00:06:37,020
+I have three packs here one is lead let's pick it up
+
+81
+00:06:37,600 --> 00:06:39,600
+first technology invented
+
+82
+00:06:39,601 --> 00:06:40,640
+1850
+
+83
+00:06:40,641 --> 00:06:43,280
+Pretty heavy. This is your starter battery in your car.
+
+84
+00:06:44,540 --> 00:06:46,540
+Same amount of energy. This is nickel.
+
+85
+00:06:47,440 --> 00:06:48,900
+Still pretty heavy.
+
+86
+00:06:49,720 --> 00:06:52,820
+Enabled mobility at some scale, but didn't take us all the way.
+
+87
+00:06:54,040 --> 00:06:56,520
+And here is lithium-ion batteries.
+
+88
+00:06:57,060 --> 00:06:59,500
+Light and mobile. It's a breakthrough.
+
+89
+00:07:01,520 --> 00:07:06,620
+The automotive world is depending on lightweight, energy-packed lithium-ion technology
+
+90
+00:07:06,621 --> 00:07:08,700
+to power the cars of the future.
+
+91
+00:07:10,640 --> 00:07:16,120
+Today's hybrid cars rely on a combination of a gas engine and nickel metal hydride batteries.
+
+92
+00:07:18,740 --> 00:07:24,840
+The newest models, like this Boston Power plug-in hybrid prototype, use lithium-ion batteries.
+
+93
+00:07:27,120 --> 00:07:30,480
+You can double your mileage from what is already class-leading stuff.
+
+94
+00:07:30,620 --> 00:07:34,520
+So a car that gets 40 or 50 miles per gallon already eye-popping, double that to 100.
+
+95
+00:07:34,521 --> 00:07:46,980
+The Tesla Roadster, with 248 horsepower, reaches 0 to 60 in 3.9 seconds and is entirely powered by lithium-ion batteries.
+
+96
+00:07:49,140 --> 00:07:57,260
+It has a top speed of 125 miles per hour and a range of over 244 miles with a single charge.
+
+97
+00:07:58,620 --> 00:08:03,980
+We now return to the top 10 technological innovations on Modern Marvels.
+
+98
+00:08:04,520 --> 00:08:09,280
+The lithium-ion battery also revolutionized the number two technology on our list.
+
+99
+00:08:10,680 --> 00:08:11,920
+The cell phone.
+
+100
+00:08:13,940 --> 00:08:18,120
+This game-changer has had a profound and astounding impact on our culture.
+
+101
+00:08:19,340 --> 00:08:20,660
+Consider this.
+
+102
+00:08:21,420 --> 00:08:25,460
+In 1980, there were 11.2 million cell phones worldwide.
+
+103
+00:08:26,840 --> 00:08:31,140
+In 2008, approximately 4 billion.
+
+104
+00:08:31,141 --> 00:08:35,140
+That's more than a 35,000% increase.
+
+105
+00:08:35,141 --> 00:08:40,140
+Now we are living our lives as 24-7 on-duty people,
+
+106
+00:08:40,141 --> 00:08:43,140
+whether it's social, connection with family, what have you,
+
+107
+00:08:43,141 --> 00:08:46,140
+or connection with work.
+
+108
+00:08:46,141 --> 00:08:50,140
+There is one cell phone for every two humans on Earth.
+
+109
+00:08:50,141 --> 00:08:55,140
+More than 1,000 cell phones are activated each minute.
+
+110
+00:08:55,141 --> 00:09:01,240
+In 2000, United States consumers used 195 billion cellular minutes.
+
+111
+00:09:03,240 --> 00:09:07,480
+In 2008, they used more than one trillion.
+
+112
+00:09:09,240 --> 00:09:14,040
+In Africa, 75% of all phone calls are made with mobile phones.
+
+113
+00:09:16,800 --> 00:09:19,320
+Landlines are expensive or non-existent.
+
+114
+00:09:20,380 --> 00:09:25,120
+I was just in Africa and I saw a Maasai warrior and the first time I saw him he was making a cell phone call.
+
+115
+00:09:25,140 --> 00:09:31,140
+Before 1983, cell phones were hardly user-friendly.
+
+116
+00:09:31,141 --> 00:09:38,140
+In the beginning of cell phone technology, we had the nickel cadmium battery, huge, big,
+
+117
+00:09:38,141 --> 00:09:40,140
+and the cell phones were big as well.
+
+118
+00:09:40,141 --> 00:09:46,140
+And we went from smaller to smaller to smaller to smaller phones thanks to lithium-ion technology.
+
+119
+00:09:46,141 --> 00:09:50,140
+Cell phones basically work on a sophisticated radio system.
+
+120
+00:09:50,141 --> 00:09:52,140
+Oh, I'm sorry to hear that.
+
+121
+00:09:52,141 --> 00:09:56,140
+Your phone sends a radio message to a cell phone tower nearby.
+
+122
+00:09:58,140 --> 00:10:01,140
+The tower sets up the call with one frequency for your voice,
+
+123
+00:10:01,141 --> 00:10:04,140
+and another for the voice of the person you're talking to.
+
+124
+00:10:07,140 --> 00:10:11,140
+This radio system can transmit on hundreds of different radio frequencies,
+
+125
+00:10:11,141 --> 00:10:14,140
+so each tower can handle hundreds of calls at once,
+
+126
+00:10:14,141 --> 00:10:17,140
+without one call interfering with another.
+
+127
+00:10:17,141 --> 00:10:24,380
+The tower connects your call to a regular landline phone system.
+
+128
+00:10:24,381 --> 00:10:28,980
+This system routes your call to a landline phone or to a tower closest to the cell phone
+
+129
+00:10:28,981 --> 00:10:32,500
+you want to reach.
+
+130
+00:10:32,501 --> 00:10:39,020
+Besides smaller batteries, cell phones shrank and became more sophisticated because of microprocessors.
+
+131
+00:10:39,021 --> 00:10:45,340
+At one time we needed all of these devices and we needed to carry them at all times.
+
+132
+00:10:45,341 --> 00:10:47,440
+We needed a personal digital assistant.
+
+133
+00:10:47,441 --> 00:10:49,180
+We had our CDs.
+
+134
+00:10:49,181 --> 00:10:51,240
+We had our GPS.
+
+135
+00:10:51,241 --> 00:10:52,960
+We had our cell phone.
+
+136
+00:10:52,961 --> 00:10:54,340
+We have a digital camera.
+
+137
+00:10:54,341 --> 00:10:58,860
+And now we can get the whole thing in one single smartphone.
+
+138
+00:10:58,861 --> 00:11:04,740
+While cell phones, lithium ion batteries, and robots may be numbers 2, 7, and 5 on our
+
+139
+00:11:04,741 --> 00:11:13,240
+list of game-changing technologies, we still have six more to go before we hit number one.
+
+140
+00:11:13,241 --> 00:11:20,240
+We now return to the top 10 technological innovations on Modern Marvels.
+
+141
+00:11:20,241 --> 00:11:26,240
+How has technology changed your life in the last couple of decades?
+
+142
+00:11:26,241 --> 00:11:29,240
+Has your life improved?
+
+143
+00:11:29,241 --> 00:11:32,240
+Are you more stressed out?
+
+144
+00:11:32,241 --> 00:11:39,240
+We've got six more of our top 10 world-shaking technologies to explore before we get to number one.
+
+145
+00:11:39,241 --> 00:11:43,740
+At number six are the products of the digital revolution.
+
+146
+00:11:46,300 --> 00:11:50,180
+Can you remember a world where your TV only had a handful of channels?
+
+147
+00:11:51,400 --> 00:11:54,700
+And if you missed your favorite program, tough luck?
+
+148
+00:11:56,420 --> 00:11:58,420
+Digital technology changed all that.
+
+149
+00:11:59,820 --> 00:12:05,480
+Step into any electronics store and you'll be surrounded by widescreen digital TVs,
+
+150
+00:12:05,481 --> 00:12:12,480
+DVDs, cameras, and video games.
+
+151
+00:12:12,481 --> 00:12:20,480
+These digital devices have changed the way we entertain, play, and document.
+
+152
+00:12:20,481 --> 00:12:24,480
+A digital system uses intermittent electric pulse values,
+
+153
+00:12:24,481 --> 00:12:32,480
+symbolized by the binary numbers 1 or 0, to represent information.
+
+154
+00:12:32,481 --> 00:12:34,000
+Take a CD, for example.
+
+155
+00:12:34,780 --> 00:12:37,840
+More information can be crammed into smaller and smaller spaces,
+
+156
+00:12:38,360 --> 00:12:40,900
+and the quality remains constant with each reproduction.
+
+157
+00:12:43,900 --> 00:12:47,420
+The CD has got a bunch of pits that are burned into it,
+
+158
+00:12:47,620 --> 00:12:50,920
+and you have a laser that looks at those pits.
+
+159
+00:12:50,921 --> 00:12:52,760
+So if there's a pit, that's a one.
+
+160
+00:12:52,900 --> 00:12:54,240
+If there's no pit, that's a zero.
+
+161
+00:12:54,580 --> 00:12:58,220
+So your average CD holds about 50 million bits of information.
+
+162
+00:12:58,680 --> 00:13:00,340
+So 50 million ones and zeros.
+
+163
+00:13:00,341 --> 00:13:07,340
+Those ones and zeros form a spiral pattern that can become notes of music.
+
+164
+00:13:07,341 --> 00:13:14,340
+The CD premiered in 1982 and soon replaced vinyl records.
+
+165
+00:13:14,341 --> 00:13:21,340
+In 2008 alone, U.S. consumers bought 361 million music CDs.
+
+166
+00:13:21,341 --> 00:13:32,920
+DVDs came out in 1993 and by 2008 Americans spent more than 23 billion dollars a year in sales and
+
+167
+00:13:32,921 --> 00:13:44,780
+rentals a DVD is very similar to a CD but has a larger data capacity that's because the pits are
+
+168
+00:13:44,781 --> 00:13:51,780
+four times smaller on a DVD, making the spiral tighter and longer.
+
+169
+00:13:52,120 --> 00:13:57,020
+DVDs increase their capacity to almost 26 times that of CDs, because they can have up
+
+170
+00:13:57,021 --> 00:14:02,940
+to four layers of data.
+
+171
+00:14:02,941 --> 00:14:06,960
+But it's still not enough digital information for a feature film.
+
+172
+00:14:06,961 --> 00:14:15,560
+For that, a second technology is needed, called Video MPEG-2 Compression.
+
+173
+00:14:15,561 --> 00:14:24,960
+MPEG-2 Compression reduces the size of a video file by reusing any identical video information.
+
+174
+00:14:24,961 --> 00:14:29,560
+Rather than storing data from each frame, Digital Compression lets one frame borrow
+
+175
+00:14:29,561 --> 00:14:35,040
+from the previous frame any information that didn't change.
+
+176
+00:14:35,041 --> 00:14:39,580
+So each new frame contains only the data that relates to how the picture is changed from
+
+177
+00:14:39,581 --> 00:14:44,160
+the previous frame.
+
+178
+00:14:44,161 --> 00:14:49,580
+Digital photography also uses those ones and zeros, which are translated into pixels or
+
+179
+00:14:49,581 --> 00:14:52,540
+dots of light.
+
+180
+00:14:52,541 --> 00:14:56,440
+No waiting to see how the film developed.
+
+181
+00:14:56,441 --> 00:15:00,360
+We can see photographs as soon as we take them.
+
+182
+00:15:00,361 --> 00:15:04,040
+Digital cameras have come so far in just a handful of years.
+
+183
+00:15:04,041 --> 00:15:07,580
+Here's an early one. This is one of the very first digital cameras that was popular.
+
+184
+00:15:07,581 --> 00:15:11,080
+Its image gathering power is about one-third of a megapixel.
+
+185
+00:15:11,081 --> 00:15:18,160
+Now here's a modern pocket camera with 12 megapixels of resolution, 36 times the amount
+
+186
+00:15:18,161 --> 00:15:24,080
+in a package one fraction the size as a physical device.
+
+187
+00:15:24,081 --> 00:15:32,540
+Perhaps the most groundbreaking of the digital entertainment products is the video game.
+
+188
+00:15:32,541 --> 00:15:36,040
+The Wii became the must-have system in 2006.
+
+189
+00:15:36,041 --> 00:15:39,200
+What was that?
+
+190
+00:15:39,201 --> 00:15:42,040
+That was you missing.
+
+191
+00:15:42,041 --> 00:15:46,460
+The key to the Wii's popularity is that it enables your body to interact with a video
+
+192
+00:15:46,461 --> 00:15:47,460
+screen.
+
+193
+00:15:47,461 --> 00:15:53,220
+Oh, not again!
+
+194
+00:15:53,221 --> 00:15:58,560
+A company called Analog Devices designed the tiny digital motion sensor that is inside
+
+195
+00:15:58,561 --> 00:16:03,560
+this handheld controller called a Wiimote.
+
+196
+00:16:03,561 --> 00:16:07,020
+It's basically a mass that's suspended by some springs.
+
+197
+00:16:07,021 --> 00:16:11,920
+So think about a trampoline, for example, that's suspended by springs in its periphery.
+
+198
+00:16:11,921 --> 00:16:16,060
+Now the trampoline is capable of moving up and down in this direction, but it's also
+
+199
+00:16:16,061 --> 00:16:19,500
+capable of moving left, right, or fore-aft.
+
+200
+00:16:19,501 --> 00:16:24,860
+And that gets translated into a bitstream of ones and zeros, radio signals from the Wiimote
+
+201
+00:16:24,861 --> 00:16:28,480
+over to the console.
+
+202
+00:16:28,481 --> 00:16:34,540
+These sensors send data to a processor a hundred times more powerful than the personal computers of the early 1980s.
+
+203
+00:16:35,020 --> 00:16:37,480
+The Wiimote is going to take the output from our sensor,
+
+204
+00:16:38,180 --> 00:16:43,680
+and it's going to process it digitally and send it via radio wave to the game console.
+
+205
+00:16:44,300 --> 00:16:48,760
+And from the game console, it's going to process all of that information and output it to the video display.
+
+206
+00:16:49,280 --> 00:16:53,220
+There's millions and millions of numbers being calculated right now
+
+207
+00:16:53,221 --> 00:16:56,640
+between what my Wiimote is sending for a radio signal
+
+208
+00:16:56,641 --> 00:17:01,740
+and what the video game is actually doing in terms of placement of the ball
+
+209
+00:17:01,741 --> 00:17:05,060
+and whether I've won, lost, hit it out of bounds, or kept it in bounds.
+
+210
+00:17:06,580 --> 00:17:09,660
+Of course, television went digital in the last generation, too.
+
+211
+00:17:11,020 --> 00:17:13,280
+Digital cable gave us hundreds of new channels.
+
+212
+00:17:15,500 --> 00:17:19,220
+Thanks to digital technology, we not only decide what we want to watch,
+
+213
+00:17:19,640 --> 00:17:21,040
+but when we want to watch it.
+
+214
+00:17:22,460 --> 00:17:25,660
+That leads into our number nine technological innovation.
+
+215
+00:17:26,640 --> 00:17:28,640
+Time shifting.
+
+216
+00:17:30,640 --> 00:17:33,640
+In the 80s, we were slaves to our TVs.
+
+217
+00:17:33,641 --> 00:17:37,640
+We had to be in front of the set at a particular time to watch our favorite show.
+
+218
+00:17:39,640 --> 00:17:42,640
+Now, with TiVo or another digital video recorder,
+
+219
+00:17:42,641 --> 00:17:45,640
+we tell our TVs when and what we want to watch.
+
+220
+00:17:47,640 --> 00:17:51,640
+As a result, we are watching things when we want and watching what we want more
+
+221
+00:17:51,641 --> 00:17:53,640
+because we don't miss shows like we used to.
+
+222
+00:17:53,641 --> 00:18:02,780
+used to. We also watch movies when we want with Video On Demand or VOD systems. Just
+
+223
+00:18:02,781 --> 00:18:06,480
+point and click to catch your favorite flicks.
+
+224
+00:18:06,481 --> 00:18:10,020
+Video On Demand starts at your home TV cable
+
+225
+00:18:10,021 --> 00:18:10,721
+box.
+
+226
+00:18:10,722 --> 00:18:18,260
+When you request a movie, a signal travels through high-speed fiber optic cable lines
+
+227
+00:18:18,261 --> 00:18:23,260
+to a video server, which acts as a warehouse of the digitally stored movies and programs.
+
+228
+00:18:26,260 --> 00:18:32,100
+In seconds, the server begins sending a compressed digital stream to your home cable box,
+
+229
+00:18:32,900 --> 00:18:36,300
+which decompresses it and plays the program on your TV.
+
+230
+00:18:39,220 --> 00:18:42,000
+You can also watch your favorite shows online.
+
+231
+00:18:42,001 --> 00:18:48,500
+90% of regular broadcast primetime television network programming
+
+232
+00:18:48,501 --> 00:18:50,820
+is now available on the Internet.
+
+233
+00:18:53,740 --> 00:18:56,680
+Time shifting has affected how we listen to music, too.
+
+234
+00:18:57,620 --> 00:19:00,600
+We no longer have to wait for the radio to play our favorite song.
+
+235
+00:19:02,820 --> 00:19:07,160
+An electronic industry phenomenon is the portable digital music player.
+
+236
+00:19:07,161 --> 00:19:12,340
+It uses a system that compresses a CD song by a factor of 10
+
+237
+00:19:12,341 --> 00:19:15,040
+without noticeably affecting the sound quality.
+
+238
+00:19:17,980 --> 00:19:20,160
+This lets you download a song quickly
+
+239
+00:19:20,161 --> 00:19:23,740
+and store thousands of songs on a portable digital music player.
+
+240
+00:19:25,500 --> 00:19:28,980
+So we have seemingly infinite access to music and TV
+
+241
+00:19:28,981 --> 00:19:32,020
+with our number 9 and number 6 technologies
+
+242
+00:19:32,021 --> 00:19:35,000
+with time-shifting and digital products.
+
+243
+00:19:35,001 --> 00:19:40,660
+The Wii video game console has become a staple in retirement communities,
+
+244
+00:19:40,860 --> 00:19:45,360
+where over 100 senior Wii bowling leagues have been established in the United States.
+
+245
+00:19:46,760 --> 00:19:51,700
+We now return to the top 10 technological innovations on Modern Marvels.
+
+246
+00:19:52,800 --> 00:19:56,260
+A generation ago, you could still get around with just cash.
+
+247
+00:19:57,220 --> 00:19:58,780
+Today, forget it.
+
+248
+00:20:00,280 --> 00:20:01,760
+Try to rent a car.
+
+249
+00:20:03,260 --> 00:20:04,400
+Book a plane.
+
+250
+00:20:05,000 --> 00:20:07,400
+or stay in a hotel.
+
+251
+00:20:09,080 --> 00:20:10,700
+Chances are it's nearly impossible
+
+252
+00:20:10,701 --> 00:20:13,780
+without our number three technological innovation,
+
+253
+00:20:14,700 --> 00:20:15,500
+the credit card.
+
+254
+00:20:15,840 --> 00:20:19,500
+There are hundreds of millions of cards in circulation today
+
+255
+00:20:19,501 --> 00:20:22,020
+that transact well over, you know,
+
+256
+00:20:22,021 --> 00:20:25,540
+$2 trillion in commerce every single year.
+
+257
+00:20:26,820 --> 00:20:29,340
+Credit cards have transformed our financial lives.
+
+258
+00:20:31,180 --> 00:20:34,380
+In 1989, United States consumer credit card debt
+
+259
+00:20:34,381 --> 00:20:36,340
+was over $50 billion.
+
+260
+00:20:37,960 --> 00:20:42,600
+In 2008, the debt rose to more than $900 billion.
+
+261
+00:20:43,600 --> 00:20:46,040
+That's an 1,800% increase.
+
+262
+00:20:46,960 --> 00:20:49,740
+Signature pad and touch box with pen.
+
+263
+00:20:52,500 --> 00:20:54,360
+Now we're using it for everything.
+
+264
+00:20:54,520 --> 00:20:56,020
+We're using it to buy a Coke.
+
+265
+00:20:56,580 --> 00:20:58,540
+We're using it to buy a coffee.
+
+266
+00:20:59,200 --> 00:21:01,260
+We're using it to buy almost every little thing.
+
+267
+00:21:01,261 --> 00:21:03,300
+That wasn't the case a generation ago.
+
+268
+00:21:04,380 --> 00:21:12,760
+NCR, headquartered in Duluth, Georgia, is a leading provider of checkout systems that process the magnetic stripe on the back of every card.
+
+269
+00:21:16,120 --> 00:21:22,060
+This magnetic stripe is essentially where we embed data across three tracks.
+
+270
+00:21:22,061 --> 00:21:32,147
+And within this magnetic strip, there are a series of particles that traditionally have been iron oxide that a magnet has run across to trigger them into either a
+
+271
+00:21:32,148 --> 00:21:34,140
+north or a south pole direction.
+
+272
+00:21:34,380 --> 00:21:40,900
+creating a series of zeros and ones that are then read by a machine to identify the card number,
+
+273
+00:21:41,380 --> 00:21:43,560
+the authorization amount, my name, etc.
+
+274
+00:21:45,160 --> 00:21:48,160
+The little plastic cards have their dark side, too.
+
+275
+00:21:49,100 --> 00:21:54,620
+In 1990, Americans' average credit card debt per household was over $2,500.
+
+276
+00:21:55,880 --> 00:21:57,860
+Today, it's more than $8,000.
+
+277
+00:21:57,861 --> 00:22:05,300
+Furthermore, in the early 2000s, credit card ID theft resulted in an estimated $19 billion
+
+278
+00:22:05,301 --> 00:22:09,140
+loss per year in the United States.
+
+279
+00:22:09,141 --> 00:22:13,020
+Today that loss is skyrocketing to close to $50 billion a year.
+
+280
+00:22:13,021 --> 00:22:16,820
+We're making the credit cards smarter and smarter.
+
+281
+00:22:16,821 --> 00:22:19,180
+We're starting to put chips in those credit cards.
+
+282
+00:22:19,181 --> 00:22:25,380
+And we're starting to even go into biometric ID so I can use my face or my voice or my
+
+283
+00:22:25,381 --> 00:22:27,380
+fingerprint with that credit card.
+
+284
+00:22:27,860 --> 00:22:34,860
+Whether credit card or cash, in years past we rang up our purchases with one of these.
+
+285
+00:22:34,861 --> 00:22:38,860
+Now we use one of these.
+
+286
+00:22:38,861 --> 00:22:45,860
+Because nearly everything we buy bears a series of small black and white lines.
+
+287
+00:22:45,861 --> 00:22:49,860
+And those lines are number 10 on our list.
+
+288
+00:22:49,861 --> 00:22:52,860
+Barcodes.
+
+289
+00:22:52,861 --> 00:22:56,540
+Barcodes are scanned more than 5 billion times every day.
+
+290
+00:22:57,160 --> 00:23:00,580
+And without them, global commerce would be fundamentally different.
+
+291
+00:23:01,860 --> 00:23:05,260
+Barcodes made our list not only because they speed us through the checkout,
+
+292
+00:23:05,880 --> 00:23:09,300
+but they also keep track of trillions of products.
+
+293
+00:23:11,120 --> 00:23:18,100
+In 1974, NCR was the first company to install a barcode scanner in a supermarket in Troy, Ohio.
+
+294
+00:23:18,101 --> 00:23:27,100
+The first item that was scanned was a pack of gum, and the world has changed since that
+
+295
+00:23:27,101 --> 00:23:28,100
+point.
+
+296
+00:23:28,101 --> 00:23:34,160
+All retail environments rely on barcode technology today to move products through their supply
+
+297
+00:23:34,161 --> 00:23:40,360
+chain, to allow them to record inventory, and to change prices so that consumers can
+
+298
+00:23:40,361 --> 00:23:41,360
+make purchases.
+
+299
+00:23:41,361 --> 00:23:49,020
+In the 1840s, Samuel Morse invented a system of dots and dashes that represented letters
+
+300
+00:23:49,021 --> 00:23:54,020
+for the game changer of its time, the telegraph.
+
+301
+00:23:54,021 --> 00:23:57,300
+So a barcode was inspired by the Morse code.
+
+302
+00:23:57,301 --> 00:24:03,420
+And the translation is roughly a dot, looks like a thin line, and a dash looks like a
+
+303
+00:24:03,421 --> 00:24:05,360
+very wide line.
+
+304
+00:24:05,361 --> 00:24:13,680
+A close cousin of the barcode is the RFID chip, an emerging technology that stands for
+
+305
+00:24:13,681 --> 00:24:19,200
+radio frequency identification.
+
+306
+00:24:19,201 --> 00:24:23,540
+An RFID system has two parts.
+
+307
+00:24:23,541 --> 00:24:33,080
+The microprocessor on an item stores the information, and the receiving station or reader that transmits
+
+308
+00:24:33,081 --> 00:24:34,627
+an electronic signal.
+
+309
+00:24:34,628 --> 00:24:40,080
+When a product transponder is activated by the reader, it sends the reader
+
+310
+00:24:40,560 --> 00:24:41,777
+the information.
+
+311
+00:24:41,778 --> 00:24:47,560
+Farmers and ranchers use RFID technology in the form of implanted microchips
+
+312
+00:24:49,080 --> 00:24:51,091
+to track their lifestyle.
+
+313
+00:24:51,092 --> 00:24:56,080
+Many endangered wildlife species are RFID tagged for research.
+
+314
+00:24:56,081 --> 00:25:08,080
+tagged for research. The technology also helps locate Fluffy and Fido. Another RFID
+
+315
+00:25:08,081 --> 00:25:12,660
+application speeds us along at tollbooths.
+
+316
+00:25:12,661 --> 00:25:17,240
+This is an RFID transponder, a toll tag in
+
+317
+00:25:17,241 --> 00:25:20,320
+other words, and all you do is put it on your dash or mount it to your windshield.
+
+318
+00:25:20,321 --> 00:25:25,640
+Now as I go through this toll plaza, the entire lane is ringed with an RFID reader.
+
+319
+00:25:25,641 --> 00:25:29,640
+It sends a little bit of energy to my RFID transponder, my toll tag,
+
+320
+00:25:29,840 --> 00:25:34,680
+and that toll tag wakes up and then broadcasts out my unique account number to the reader,
+
+321
+00:25:35,000 --> 00:25:39,720
+and there it is, and it just got sent to computers that are going to bill my account for that passage.
+
+322
+00:25:41,460 --> 00:25:46,740
+We now return to the top 10 technological innovations on Modern Marvels.
+
+323
+00:25:48,160 --> 00:25:52,220
+In the last generation, our energy consumption has soared,
+
+324
+00:25:52,221 --> 00:25:55,840
+and oil and coal have been our principal sources.
+
+325
+00:25:57,500 --> 00:25:59,440
+We're poised for a change.
+
+326
+00:26:00,880 --> 00:26:04,420
+At number four, renewable energy.
+
+327
+00:26:07,160 --> 00:26:09,600
+Get ready for an energy makeover.
+
+328
+00:26:10,960 --> 00:26:15,520
+Although wind power produces less than 3% of the electricity in the U.S. today,
+
+329
+00:26:16,420 --> 00:26:20,020
+it's on our list because experts believe that by 2030,
+
+330
+00:26:20,021 --> 00:26:23,460
+wind could supply 20% of the electricity.
+
+331
+00:26:26,580 --> 00:26:30,120
+It has become our fastest-growing source of renewable energy.
+
+332
+00:26:31,960 --> 00:26:33,660
+So the industry has surged.
+
+333
+00:26:34,140 --> 00:26:40,080
+The United States has become now the number one wind power generation country as of last year.
+
+334
+00:26:41,140 --> 00:26:44,480
+At the Pine Tree Wind Farm near Mojave, California,
+
+335
+00:26:45,420 --> 00:26:49,680
+80 turbines produce 120 megawatts of electric power a day.
+
+336
+00:26:50,020 --> 00:26:52,520
+for the Los Angeles Department of Water and Power.
+
+337
+00:26:54,880 --> 00:26:58,000
+And it's enough power for over 50,000 homes
+
+338
+00:26:58,001 --> 00:27:00,640
+that'll be fed down to the Los Angeles area.
+
+339
+00:27:01,780 --> 00:27:05,020
+What has allowed wind power to become a breakaway technology
+
+340
+00:27:05,021 --> 00:27:07,620
+is the increase in size of the turbines.
+
+341
+00:27:10,580 --> 00:27:12,260
+During the last 20 years,
+
+342
+00:27:12,760 --> 00:27:14,880
+the generating capacity of a single turbine
+
+343
+00:27:14,881 --> 00:27:17,420
+has increased from 50 kilowatts
+
+344
+00:27:17,421 --> 00:27:21,840
+to up to 1.5 megawatts.
+
+345
+00:27:23,040 --> 00:27:24,720
+That's a 30-fold increase,
+
+346
+00:27:24,960 --> 00:27:27,620
+and it's enough to power more than 500 households.
+
+347
+00:27:28,920 --> 00:27:33,080
+These 125-foot blades are set atop a 200-foot tower
+
+348
+00:27:33,081 --> 00:27:36,460
+and rotate 10 to 18 times a minute.
+
+349
+00:27:38,240 --> 00:27:41,300
+As you can see, we have a leading edge, trading edge.
+
+350
+00:27:41,780 --> 00:27:43,980
+It's basically like an airplane wind creating lift,
+
+351
+00:27:44,500 --> 00:27:46,400
+and that's how we can take the induction of the wind
+
+352
+00:27:46,401 --> 00:27:50,720
+to create the rotation and the mechanical transfer to electricity.
+
+353
+00:27:52,360 --> 00:27:56,660
+The large structure at the top of the turbine tower is called the nacelle.
+
+354
+00:27:57,760 --> 00:28:00,220
+The blades are attached to the front of the nacelle,
+
+355
+00:28:00,480 --> 00:28:03,240
+and they pitch individually to capture the wind,
+
+356
+00:28:03,940 --> 00:28:07,300
+which creates a rotation on the gearbox.
+
+357
+00:28:08,040 --> 00:28:10,080
+The gearbox is connected to the generator.
+
+358
+00:28:10,081 --> 00:28:15,460
+The generator is what we produce the power that goes down through cables.
+
+359
+00:28:16,400 --> 00:28:21,400
+From there, the electricity is delivered to the grid.
+
+360
+00:28:21,401 --> 00:28:28,400
+Even with all of wind's potential, there's another renewable energy technology that may surpass it.
+
+361
+00:28:28,401 --> 00:28:31,400
+And that's solar.
+
+362
+00:28:31,401 --> 00:28:33,400
+The sun puts out a tremendous amount of energy.
+
+363
+00:28:33,401 --> 00:28:38,400
+I mean, if you could capture the sunlight that's going to hit the Earth in the next two to three hours
+
+364
+00:28:38,401 --> 00:28:44,400
+and turn it into liquid fuels or electricity, that would be enough energy for all of humanity for an entire year.
+
+365
+00:28:44,401 --> 00:28:49,180
+Solar energy has changed our lives by giving us a road map to get off coal and oil.
+
+366
+00:28:50,900 --> 00:28:55,420
+In the 1970s, the cost to produce a watt of power from solar was $100.
+
+367
+00:28:57,140 --> 00:29:02,260
+By 2008, that price had dropped to between $4 and $6 a watt.
+
+368
+00:29:03,980 --> 00:29:06,640
+We used two methods to draw energy from the sun.
+
+369
+00:29:08,100 --> 00:29:11,500
+One is called concentrated, or thermal solar power.
+
+370
+00:29:11,501 --> 00:29:16,500
+It uses mirrors to reflect sunlight onto a receiver.
+
+371
+00:29:16,501 --> 00:29:22,500
+The basic concept is the same one behind using a magnifying glass to burn leaves.
+
+372
+00:29:22,501 --> 00:29:26,500
+Heat's coming down and that mirror, that lens, just focuses it on a single spot.
+
+373
+00:29:26,501 --> 00:29:29,500
+It gets really hot and things start on fire.
+
+374
+00:29:29,501 --> 00:29:37,500
+The focused heat boils a body of water, creating steam, which turns a turbine, creating electricity.
+
+375
+00:29:37,501 --> 00:29:42,248
+electricity. Solar thermal is more the technology for commercial use.
+
+376
+00:29:42,249 --> 00:29:43,900
+It's going to contribute
+
+377
+00:29:43,901 --> 00:29:51,020
+a lot to the whole solar power equation. The second method of generating solar power
+
+378
+00:29:51,021 --> 00:29:58,769
+is called photovoltaics. That's the kind used on home and commercial rooftops.
+
+379
+00:29:58,770 --> 00:30:00,060
+When sunlight
+
+380
+00:30:00,061 --> 00:30:05,380
+strikes each of the solar cells, it excites electrons, which are knocked free from their
+
+381
+00:30:05,381 --> 00:30:06,081
+atoms.
+
+382
+00:30:06,082 --> 00:30:12,380
+The electrons travel through wires into the home and provide electrical current.
+
+383
+00:30:14,680 --> 00:30:20,263
+Today's solar panels capture more sunlight than their predecessors.
+
+384
+00:30:20,264 --> 00:30:21,680
+And now there's a
+
+385
+00:30:21,681 --> 00:30:27,040
+new solar panel on the block called thin film.
+
+386
+00:30:27,041 --> 00:30:29,324
+This is a thin film solar panel.
+
+387
+00:30:29,325 --> 00:30:33,320
+As you can see, it's thin, it's got aluminum back there,
+
+388
+00:30:33,321 --> 00:30:35,060
+You can twist it, you can bend it, you can shake it.
+
+389
+00:30:35,540 --> 00:30:38,340
+And the idea is you can put these on a roof,
+
+390
+00:30:38,880 --> 00:30:39,840
+you can wire them up,
+
+391
+00:30:40,100 --> 00:30:42,060
+put a piece of plastic over the top to keep rain out,
+
+392
+00:30:42,140 --> 00:30:43,340
+and you can produce electricity.
+
+393
+00:30:43,960 --> 00:30:45,880
+The key about these, it's a lot cheaper to make.
+
+394
+00:30:45,960 --> 00:30:47,820
+If you looked at a regular solar panel today,
+
+395
+00:30:48,260 --> 00:30:49,340
+it's like a big piece of glass.
+
+396
+00:30:49,440 --> 00:30:51,400
+It weighs a lot, it takes a lot to transport.
+
+397
+00:30:51,880 --> 00:30:53,380
+You don't want to go up there and do it yourself.
+
+398
+00:30:53,840 --> 00:30:54,780
+With something like this,
+
+399
+00:30:55,060 --> 00:30:56,480
+you could buy it at a hardware store,
+
+400
+00:30:56,860 --> 00:30:57,860
+stick it on the roof,
+
+401
+00:30:58,560 --> 00:30:59,780
+and you're done.
+
+402
+00:30:59,781 --> 00:31:06,780
+Many experts believe solar power will provide 10% of our electricity by 2030.
+
+403
+00:31:06,781 --> 00:31:10,780
+After that, the sky's the limit.
+
+404
+00:31:10,781 --> 00:31:17,780
+We not only look to the heavens for energy, but also for directions.
+
+405
+00:31:17,781 --> 00:31:21,780
+Next, at number 8, is GPS.
+
+406
+00:31:21,781 --> 00:31:27,780
+In the beginning of this generation, if you wanted to go somewhere or find your way, you had to have maps.
+
+407
+00:31:27,781 --> 00:31:34,162
+maps. More than one. Now we've got GPS literally changing our world.
+
+408
+00:31:34,163 --> 00:31:36,320
+Turn right, Highway 27.
+
+409
+00:31:39,280 --> 00:31:43,787
+GPS depends on a network of satellites placed into orbit by the U.S.
+
+410
+00:31:43,788 --> 00:31:46,040
+Department of Defense in the 1960s
+
+411
+00:31:46,041 --> 00:31:46,741
+and 70s.
+
+412
+00:31:46,742 --> 00:31:52,920
+Originally, the satellites were used to track the location of military units and provide
+
+413
+00:31:52,921 --> 00:31:56,720
+precision weapons delivery.
+
+414
+00:31:56,721 --> 00:32:05,600
+Each of the 24 satellites in the GPS constellation revolves around the Earth twice a day.
+
+415
+00:32:05,601 --> 00:32:10,540
+They're distributed equally among six orbital planes, so that at least six satellites are
+
+416
+00:32:10,541 --> 00:32:15,260
+within line of sight from almost anywhere on Earth's surface.
+
+417
+00:32:15,261 --> 00:32:22,260
+The U.S. government made GPS available for civilian use in the 1980s.
+
+418
+00:32:22,261 --> 00:32:28,260
+That spawned a multi-billion dollar industry.
+
+419
+00:32:28,261 --> 00:32:40,260
+Built-in GPS systems in cars and mobile devices pinpoint your location within 10 feet anywhere in the world.
+
+420
+00:32:40,261 --> 00:32:46,660
+In 20 years, their price has dropped from $10,000 a unit to less than $100.
+
+421
+00:32:48,920 --> 00:32:51,380
+So how does GPS tell us where we are?
+
+422
+00:32:53,320 --> 00:32:59,320
+By determining the distance to at least three satellites, the GPS receiver fixes your location.
+
+423
+00:33:00,540 --> 00:33:02,180
+It's called trilateration.
+
+424
+00:33:03,340 --> 00:33:05,700
+There are a whole variety of these GPS devices.
+
+425
+00:33:05,701 --> 00:33:09,600
+They all work about the same. You mount them up on your car here with a suction cup.
+
+426
+00:33:10,260 --> 00:33:17,940
+Now this device can see the sky, and it has a GPS antenna at the very top of it here,
+
+427
+00:33:17,980 --> 00:33:20,920
+and it gets a signal from all the GPS satellites that orbit the Earth.
+
+428
+00:33:21,340 --> 00:33:23,780
+After one quarter mile, turn left.
+
+429
+00:33:24,700 --> 00:33:27,740
+So based on all those GPS coordinates that are coming in from satellite,
+
+430
+00:33:27,741 --> 00:33:31,640
+it knows where it is, where I want it to go because I punched it in,
+
+431
+00:33:31,740 --> 00:33:34,340
+and it can figure out the route between here and there.
+
+432
+00:33:34,341 --> 00:33:41,340
+2008 saw the sale of over 8 million GPS dash top units.
+
+433
+00:33:41,341 --> 00:33:48,340
+We now return to the top 10 technological innovations on Modern Marvels.
+
+434
+00:33:48,341 --> 00:33:56,340
+We've given you our picks for the top 10 technological game-changing innovations of the last generation.
+
+435
+00:33:56,341 --> 00:33:59,340
+Now it's time for number one.
+
+436
+00:33:59,341 --> 00:34:01,340
+It's the Internet.
+
+437
+00:34:01,341 --> 00:34:05,340
+The greatest public forum the world has ever seen.
+
+438
+00:34:05,341 --> 00:34:08,340
+And it's still barely out of its infancy.
+
+439
+00:34:08,341 --> 00:34:15,340
+And that change curve was slow in the beginning, and once again, it's going up like this.
+
+440
+00:34:15,341 --> 00:34:17,340
+We haven't seen anything yet.
+
+441
+00:34:17,341 --> 00:34:20,340
+How revolutionary is the Internet?
+
+442
+00:34:20,341 --> 00:34:30,340
+Many consider the four major innovations in history to be the wheel, the plow, the printing press, and now the Internet.
+
+443
+00:34:31,340 --> 00:34:36,340
+It's the fastest growing means of communication in history.
+
+444
+00:34:36,341 --> 00:34:42,340
+It took radio broadcasters 38 years to reach an audience of 50 million.
+
+445
+00:34:42,341 --> 00:34:45,340
+Television, 13 years.
+
+446
+00:34:45,341 --> 00:34:49,340
+And the Internet, just 4 years.
+
+447
+00:34:49,341 --> 00:34:53,340
+Today, over a billion people use the Internet.
+
+448
+00:34:53,341 --> 00:35:00,340
+There are 75 million servers worldwide, with 155 million websites.
+
+449
+00:35:00,341 --> 00:35:06,460
+To help us access all the information in a methodical way are search engines.
+
+450
+00:35:07,640 --> 00:35:12,340
+One of the biggest and the brainchild of two college students is Google.
+
+451
+00:35:13,400 --> 00:35:19,800
+Google represents this massive revolution where the everyday person can actually express their voice,
+
+452
+00:35:20,320 --> 00:35:24,100
+find what they want, and exercise choice over a big part of their life.
+
+453
+00:35:24,101 --> 00:35:30,920
+Google is a so-called crawler-based search engine that can direct you to pertinent websites
+
+454
+00:35:30,921 --> 00:35:36,780
+and sort through increasingly massive amounts of information.
+
+455
+00:35:36,781 --> 00:35:44,440
+So what happens when we use Google to search information on, say, President Barack Obama?
+
+456
+00:35:44,441 --> 00:35:49,340
+The Google search engine uses something called spiders that crawl the web, scanning each
+
+457
+00:35:49,341 --> 00:35:52,860
+web page.
+
+458
+00:35:52,861 --> 00:35:56,920
+This data is entered into an index.
+
+459
+00:35:56,921 --> 00:36:01,700
+Type a search keyword and the index ranks the matches, returning results in order of
+
+460
+00:36:01,701 --> 00:36:05,640
+relevance.
+
+461
+00:36:05,641 --> 00:36:13,700
+And in this case, we got 102 million results in just one-fifth of a second.
+
+462
+00:36:13,701 --> 00:36:18,440
+That's because Google has a massive number of computers clustered around the world, working
+
+463
+00:36:18,441 --> 00:36:20,240
+in tandem to scour their index.
+
+464
+00:36:22,540 --> 00:36:25,360
+It's about finding what I want now,
+
+465
+00:36:25,600 --> 00:36:28,440
+and in the future it's going to be more and more powerful that way,
+
+466
+00:36:28,560 --> 00:36:30,320
+and more tied to where I am,
+
+467
+00:36:30,580 --> 00:36:32,860
+more tied to what I have done in the past.
+
+468
+00:36:33,900 --> 00:36:36,700
+The Internet was originally conceived out of fear.
+
+469
+00:36:37,940 --> 00:36:41,120
+In 1962, during the height of the Cold War,
+
+470
+00:36:41,540 --> 00:36:44,080
+the U.S. was afraid that bombing its command posts
+
+471
+00:36:44,081 --> 00:36:47,400
+would result in a total loss of communication and control.
+
+472
+00:36:48,440 --> 00:36:55,440
+So it created a network that allowed information to be routed many different ways, even if certain links were destroyed.
+
+473
+00:36:55,441 --> 00:37:02,440
+Today the Internet links small computer networks to larger networks.
+
+474
+00:37:02,441 --> 00:37:09,440
+And finally, to a global system of computer networks around the world, known as the World Wide Web.
+
+475
+00:37:09,441 --> 00:37:13,100
+wide web.
+
+476
+00:37:13,101 --> 00:37:20,780
+Thanks to the internet we have email, instant messaging, document transfer, and video sharing.
+
+477
+00:37:20,781 --> 00:37:25,840
+And no one knows how to share video better than the people at YouTube.
+
+478
+00:37:25,841 --> 00:37:29,320
+We have more than 20 hours of video being uploaded every minute.
+
+479
+00:37:29,321 --> 00:37:33,460
+Hundreds of millions of videos on YouTube and hundreds of millions of those videos being
+
+480
+00:37:33,461 --> 00:37:34,880
+watched every day.
+
+481
+00:37:34,881 --> 00:37:39,780
+We think that in the last 60 days, the YouTube community has created more video programming
+
+482
+00:37:39,781 --> 00:37:45,280
+than the major US TV networks have created in the last 60 years.
+
+483
+00:37:45,281 --> 00:37:47,980
+YouTube launched in 2005.
+
+484
+00:37:47,981 --> 00:37:53,560
+Before then, sending a video through the internet was a slow, frustrating process.
+
+485
+00:37:53,561 --> 00:37:58,360
+YouTube was founded by Chad Hurley and Steve Chen.
+
+486
+00:37:58,361 --> 00:38:01,560
+It struck them that it was really easy to film videos.
+
+487
+00:38:01,561 --> 00:38:05,040
+All you needed was an inexpensive digital camera, but it was still pretty hard to share
+
+488
+00:38:05,041 --> 00:38:09,980
+videos and that's why they created YouTube, to make sharing videos easy.
+
+489
+00:38:09,981 --> 00:38:20,320
+With all this content, can you guess what is the most viewed video in YouTube history?
+
+490
+00:38:20,321 --> 00:38:22,500
+It's a video called The Evolution of Dance.
+
+491
+00:38:22,501 --> 00:38:27,840
+It's essentially three minutes that takes you through the last 40 years of dance styles.
+
+492
+00:38:27,841 --> 00:38:34,140
+Why this became the most popular video of all time, we don't know.
+
+493
+00:38:34,141 --> 00:38:39,600
+If you think you have the next viral video, how do you get it on YouTube?
+
+494
+00:38:39,601 --> 00:38:42,980
+Making a video for YouTube is simple and easy.
+
+495
+00:38:42,981 --> 00:38:45,920
+All you need is a standard video camera.
+
+496
+00:38:45,921 --> 00:38:53,040
+Hi, I'm Hunter Walk from YouTube, making a video for Modern Marvels.
+
+497
+00:38:53,041 --> 00:38:57,900
+Once you've taped your video, just hook it up to your computer, download it from your
+
+498
+00:38:57,901 --> 00:39:05,000
+camera to your computer, creates a video file on your laptop, then you go to youtube.com,
+
+499
+00:39:05,001 --> 00:39:06,000
+hit upload.
+
+500
+00:39:06,001 --> 00:39:10,420
+Hi, I'm Hunter Walk from YouTube.
+
+501
+00:39:10,421 --> 00:39:15,880
+Your video is sent to one of dozens of YouTube data centers located across the world.
+
+502
+00:39:15,881 --> 00:39:20,540
+When someone clicks to view your video, that person accesses the server.
+
+503
+00:39:20,541 --> 00:39:27,540
+Hi, I'm Hunter Walk from YouTube, making a video from Modern Marvels.
+
+504
+00:39:27,541 --> 00:39:31,100
+Another internet phenomenon is all about getting to know each other.
+
+505
+00:39:31,101 --> 00:39:35,420
+Thanks again to college students.
+
+506
+00:39:35,421 --> 00:39:39,980
+Facebook's where you go to say, here I am, I'm hanging out my shingle as a person.
+
+507
+00:39:39,981 --> 00:39:43,860
+Here's who I am, who I've been, here's some pictures, here are my friends, and here's
+
+508
+00:39:43,861 --> 00:39:45,220
+what's on my mind.
+
+509
+00:39:45,221 --> 00:39:49,940
+It's sort of this electronic clubhouse.
+
+510
+00:39:49,941 --> 00:39:53,480
+Facebook started in 2004.
+
+511
+00:39:53,481 --> 00:40:01,700
+Five years later, it had more than 200 million users worldwide.
+
+512
+00:40:01,701 --> 00:40:05,980
+The Internet is also an ever-growing marketplace.
+
+513
+00:40:05,981 --> 00:40:13,120
+In 1995, entrepreneur Jeff Bezos created a mail-order online bookstore.
+
+514
+00:40:13,121 --> 00:40:16,060
+We know it today as Amazon.com.
+
+515
+00:40:16,061 --> 00:40:20,360
+Amazon, the name, comes from Earth's Biggest River.
+
+516
+00:40:20,500 --> 00:40:22,820
+So it's Earth's Biggest River, Earth's Biggest Selection.
+
+517
+00:40:25,200 --> 00:40:28,440
+Amazon's first two years' revenues reached $15 million.
+
+518
+00:40:29,300 --> 00:40:37,080
+By 2008, Amazon's revenues had jumped over 125,000% to $19 billion.
+
+519
+00:40:38,140 --> 00:40:40,460
+And we've gotten better at it every year,
+
+520
+00:40:40,461 --> 00:40:44,680
+and I suspect we'll get better at it every year for the next 20 years, too.
+
+521
+00:40:46,060 --> 00:40:52,620
+In spite of all the Internet's gifts, it can be a dangerous place as well, as almost every user has learned.
+
+522
+00:40:54,420 --> 00:40:59,180
+We've got viruses, we've got worms, we've got webbots that can crawl around and do damage,
+
+523
+00:40:59,181 --> 00:41:04,600
+can be planted on our machines or in our devices, and that is not going to go away.
+
+524
+00:41:06,120 --> 00:41:09,180
+So where will this elaborate juggernaut go from here?
+
+525
+00:41:09,181 --> 00:41:17,280
+The Internet is becoming more and more multimedia, faster and faster, in more and more devices.
+
+526
+00:41:17,281 --> 00:41:20,240
+In other words, it's going to be in just about every device that's digital.
+
+527
+00:41:21,420 --> 00:41:24,040
+What that will mean is anyone's guess.
+
+528
+00:41:25,320 --> 00:41:28,380
+So that completes our Modern Marvel's Top Ten list.
+
+529
+00:41:29,140 --> 00:41:35,560
+You might not agree with every selection, but you'll have to admit that change has come breathtakingly fast.
+
+530
+00:41:35,561 --> 00:41:39,400
+Sign signature pad and touch box with pen.
+
+531
+00:41:39,900 --> 00:41:45,160
+The speed of innovation going forward is going to make the speed of innovation behind us look very slow.
+
+532
+00:41:45,400 --> 00:41:51,460
+Because so many technologies came into place during the last 20 years, now they're poised for a full-court presence.
+
+533
+00:41:52,660 --> 00:41:56,160
+Hold on tight. This ride has just begun.
+

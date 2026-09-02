@@ -1,0 +1,2300 @@
+1
+00:00:00,001 --> 00:00:06,000
+It's an industry Paul Bunyan could have never imagined.
+
+2
+00:00:06,001 --> 00:00:09,000
+Teaming He-Man and high-tech.
+
+3
+00:00:09,001 --> 00:00:12,000
+Saws and software.
+
+4
+00:00:12,001 --> 00:00:14,000
+Blades and boards.
+
+5
+00:00:14,001 --> 00:00:19,000
+Each cry of timber evokes memories of a wild and woolly past.
+
+6
+00:00:19,001 --> 00:00:23,000
+And each tree that falls fuels debate about its future.
+
+7
+00:00:23,001 --> 00:00:27,000
+Now, Logging Tech on Modern Marvels.
+
+8
+00:00:30,000 --> 00:00:44,000
+The roar of machinery and crackling of timber scream it louder than any statistic.
+
+9
+00:00:45,820 --> 00:00:48,520
+The world has a ravenous appetite for wood.
+
+10
+00:00:49,260 --> 00:00:54,040
+Each year, loggers topple 4 billion trees to satisfy our insatiable demand.
+
+11
+00:00:54,041 --> 00:01:04,780
+We devour trees for lumber, paper, and byproducts from aspirin to film to toothpaste.
+
+12
+00:01:04,781 --> 00:01:12,540
+In the last 50 years, global demand has doubled, and Americans lead the way, consuming 40% of
+
+13
+00:01:12,541 --> 00:01:16,040
+the forest's resources.
+
+14
+00:01:16,041 --> 00:01:19,040
+Trying to answer the challenge is a new generation of loggers.
+
+15
+00:01:19,041 --> 00:01:21,040
+I've grown up in the woods, really.
+
+16
+00:01:21,041 --> 00:01:26,040
+I've spent many, many days in the woods with my dad and my grandfather.
+
+17
+00:01:26,041 --> 00:01:31,040
+My grandfather had to be physically tough to go out every day and deal with the dangers
+
+18
+00:01:31,041 --> 00:01:36,040
+of falling large timber and getting the production he had to get.
+
+19
+00:01:36,041 --> 00:01:43,040
+Today, equipment makes our job out here relatively easy, but I would hope that my grandfather
+
+20
+00:01:43,041 --> 00:01:48,040
+would be as proud of the job that I do today as I am of what he did in his era.
+
+21
+00:01:49,040 --> 00:01:58,540
+The logging industry is characterized by people I would call geniuses with calloused hands,
+
+22
+00:01:58,700 --> 00:02:05,460
+because they had to use the muscle that they had in their bodies to be able to invent ways to move
+
+23
+00:02:05,461 --> 00:02:10,860
+logs that may weigh thousands and even tens of thousands of pounds around in the forest.
+
+24
+00:02:13,160 --> 00:02:17,860
+A single tree's journey from stump to sawmill seems to be a model of efficiency.
+
+25
+00:02:17,861 --> 00:02:21,860
+It begins not in the forest, but at a computer.
+
+26
+00:02:21,861 --> 00:02:25,860
+Specialized software helps foresters target groves to be harvested.
+
+27
+00:02:25,861 --> 00:02:29,860
+Basically the software has a database in it
+
+28
+00:02:29,861 --> 00:02:33,860
+in which people have actually gone out to the woods and collected information about
+
+29
+00:02:33,861 --> 00:02:37,860
+the stands of trees, like the age of them, their species,
+
+30
+00:02:37,861 --> 00:02:41,860
+or the trees per acre in the stand. And you can say, I'm interested in
+
+31
+00:02:41,861 --> 00:02:45,860
+all stands of trees that are 60 years old. And it'll go through and bring up all
+
+32
+00:02:45,861 --> 00:02:49,040
+of those stands for you so you can make the decisions about which stands you want
+
+33
+00:02:49,041 --> 00:02:52,860
+to harvest based on what the computers pulled up for you.
+
+34
+00:02:52,861 --> 00:02:57,540
+A tree is quick work for the tool that revolutionized the industry in the 20th
+
+35
+00:02:57,541 --> 00:03:01,540
+century, the chainsaw.
+
+36
+00:03:01,541 --> 00:03:12,060
+Trees that once took several minutes to fell now topple in seconds.
+
+37
+00:03:12,061 --> 00:03:21,520
+But its productivity pales in comparison with this mechanical titan, the single grip harvester.
+
+38
+00:03:21,521 --> 00:03:27,060
+Operators maneuver a powerful articulated arm tipped with a rotating head.
+
+39
+00:03:27,061 --> 00:03:29,740
+Vice-like grapples take hold of the tree.
+
+40
+00:03:29,741 --> 00:03:36,680
+Then a chainsaw shears it off at the base.
+
+41
+00:03:36,681 --> 00:03:41,380
+It then propels the tree through scraping blades that delimit.
+
+42
+00:03:41,381 --> 00:03:46,160
+At the same time, it carves it into precisely sawn logs, a process called bucking.
+
+43
+00:03:50,420 --> 00:03:55,900
+The actual grapples that grab the tree are also knives.
+
+44
+00:03:56,320 --> 00:04:01,460
+And on the head, there's two wheels that actually suck the tree through the head.
+
+45
+00:04:01,980 --> 00:04:08,420
+It'd be similar as taking a stick of straw with the seed still on top of it and just pulling it through your fingers.
+
+46
+00:04:08,421 --> 00:04:11,800
+It works on the same concept as that.
+
+47
+00:04:12,680 --> 00:04:16,940
+The saw blade is so powerful that few operators could control it by hand.
+
+48
+00:04:17,760 --> 00:04:21,120
+Conventional chainsaws have teeth on every other link in the chain.
+
+49
+00:04:22,580 --> 00:04:25,320
+A harvester's blade has a tooth on every link.
+
+50
+00:04:27,920 --> 00:04:31,480
+This enables it to saw more rapidly through even the hardest wood.
+
+51
+00:04:32,780 --> 00:04:34,420
+With the mechanized harvesting operations,
+
+52
+00:04:34,421 --> 00:04:39,020
+operations, we can cut down trees 10 times faster than we can with a chainsaw.
+
+53
+00:04:39,021 --> 00:04:40,140
+And we might cut 70
+
+54
+00:04:40,141 --> 00:04:46,020
+trees in a day with a chainsaw, and we might cut 700 with a mechanized harvesting machine.
+
+55
+00:04:47,080 --> 00:04:57,600
+Most I've ever done in one day is 1,250 trees, and my record per hour is 172 trees.
+
+56
+00:04:57,601 --> 00:05:06,240
+felling and bucking timber is one thing moving is another when the terrain permits
+
+57
+00:05:06,241 --> 00:05:10,440
+vehicles called forwarders shuttle logs to waiting transport trucks
+
+58
+00:05:10,441 --> 00:05:19,020
+in more rugged country vehicles simply drag the logs loggers call it skidding
+
+59
+00:05:19,021 --> 00:05:25,440
+a variation high lead skidding elevates the front end of a log from a suspended cable
+
+60
+00:05:25,441 --> 00:05:30,440
+It begins and ends with crewmen called choker setters.
+
+61
+00:05:30,441 --> 00:05:37,440
+Choker setting is the process of hooking the steel cables that yard logs to the landing.
+
+62
+00:05:37,441 --> 00:05:46,440
+That choker is basically a steel noose that you put around the log and as it tightens up it squeezes the log and that's how it is yarded or pulled to the landing.
+
+63
+00:05:46,441 --> 00:05:50,440
+The process is as perilous as it is effective.
+
+64
+00:05:50,441 --> 00:05:58,880
+People working as choker setters today are faced with a variety of hazards.
+
+65
+00:05:58,881 --> 00:06:04,080
+Cables could break, logs could fall, limbs could come out of the trees that were broken
+
+66
+00:06:04,081 --> 00:06:08,100
+by the movement of the log up the cable corridor.
+
+67
+00:06:08,101 --> 00:06:12,380
+Just the movement on that steep terrain is difficult.
+
+68
+00:06:12,381 --> 00:06:14,280
+The communication is crucial.
+
+69
+00:06:14,281 --> 00:06:18,880
+The lines don't move until a person with a whistle gets into a position in the clear
+
+70
+00:06:18,881 --> 00:06:23,980
+and provides the signal to the yarder operator
+
+71
+00:06:23,981 --> 00:06:26,420
+to move the lines.
+
+72
+00:06:30,160 --> 00:06:32,020
+The worst situation you could be in,
+
+73
+00:06:32,520 --> 00:06:35,880
+you're not expecting the lines to move, and they do,
+
+74
+00:06:36,000 --> 00:06:38,220
+and you're in a position where you're going to be in the way.
+
+75
+00:06:38,700 --> 00:06:41,980
+You're talking about logs that weigh tens of thousands of pounds.
+
+76
+00:06:42,420 --> 00:06:44,040
+There are no odds on that.
+
+77
+00:06:45,160 --> 00:06:46,520
+It's you lose.
+
+78
+00:06:46,521 --> 00:06:49,194
+Today's men get no break.
+
+79
+00:06:49,195 --> 00:06:55,720
+Things are moving so fast that they're constantly on the run.
+
+80
+00:06:55,721 --> 00:06:58,981
+The machinery's faster, the rigging's faster.
+
+81
+00:06:58,982 --> 00:07:02,460
+So today's logging inherently is more dangerous,
+
+82
+00:07:02,461 --> 00:07:08,400
+except we're not allowing it to be. We're saying safety has to be first.
+
+83
+00:07:09,520 --> 00:07:13,915
+One of logging's latest innovations is a radio-controlled choker.
+
+84
+00:07:13,916 --> 00:07:15,200
+It relieves crewmen
+
+85
+00:07:15,201 --> 00:07:19,100
+have the perilous task of releasing the nooses.
+
+86
+00:07:19,101 --> 00:07:21,260
+Releasing them manually is dangerous
+
+87
+00:07:21,261 --> 00:07:23,960
+because it is at that moment when logs are most likely
+
+88
+00:07:23,961 --> 00:07:26,960
+to suddenly shift or fall.
+
+89
+00:07:26,961 --> 00:07:30,560
+Inside this choker bale, there's a battery, electric motor,
+
+90
+00:07:30,561 --> 00:07:32,320
+a receiver, and a circuit board.
+
+91
+00:07:32,321 --> 00:07:34,760
+The way the choker setter sets it is you'll
+
+92
+00:07:34,761 --> 00:07:37,040
+notice there's a button here.
+
+93
+00:07:37,041 --> 00:07:42,460
+He pushes this button out like that, takes his choker,
+
+94
+00:07:42,461 --> 00:07:47,140
+puts it around the log into that slot and closes that bell.
+
+95
+00:07:47,660 --> 00:07:49,020
+Now it's locked into position.
+
+96
+00:07:50,440 --> 00:07:52,380
+So the log will come into the landing.
+
+97
+00:07:52,580 --> 00:07:53,360
+They'll let it down.
+
+98
+00:07:54,260 --> 00:07:58,040
+The operator will push a button and it will release this choker.
+
+99
+00:07:59,680 --> 00:08:02,200
+No man has to get into that danger zone.
+
+100
+00:08:05,200 --> 00:08:09,200
+Logging's cutting-edge technology takes its most literal form in the sawmill.
+
+101
+00:08:12,460 --> 00:08:16,460
+Georgia Pacific's mill in Coos Bay, Oregon, built in 1994,
+
+102
+00:08:16,461 --> 00:08:20,460
+is one of the most productive in the United States.
+
+103
+00:08:20,461 --> 00:08:24,460
+It takes about 100 log trucks a day to keep up with the sawmill.
+
+104
+00:08:24,461 --> 00:08:28,460
+Non-annual basis for producing about 200 million feet of lumber.
+
+105
+00:08:28,461 --> 00:08:32,460
+That's enough to build about 17,000 average single-family homes.
+
+106
+00:08:32,461 --> 00:08:36,460
+Or if you want to look at it another way, enough lumber to make a 2x4
+
+107
+00:08:36,461 --> 00:08:40,460
+that would stretch around the world two times.
+
+108
+00:08:42,460 --> 00:08:46,660
+A log's first encounter here is with the debarker.
+
+109
+00:08:47,340 --> 00:08:52,040
+The bark must be scraped off because it is encased with dirt that can dull the saws that lie ahead.
+
+110
+00:08:55,320 --> 00:08:59,360
+Debarked logs then race by conveyor before the vigilant eyes of the sawyer.
+
+111
+00:09:00,320 --> 00:09:06,680
+He mans a computerized scanner that has only a fleeting instant to formulate the most efficient cutting strategy for each piece of timber.
+
+112
+00:09:06,681 --> 00:09:15,260
+on an average day in our sawmill we're going to run 4 000 logs through the head rig or in this
+
+113
+00:09:15,261 --> 00:09:20,160
+case which we call the chippen saw to have a person try and make a decision and get the most
+
+114
+00:09:20,161 --> 00:09:26,760
+value out of that log 4 000 times a day without making a mistake just doesn't work so today's
+
+115
+00:09:26,761 --> 00:09:33,860
+modern sawmill uses a lot of computers a lot of scanners as the log comes through here i'm looking
+
+116
+00:09:33,861 --> 00:09:39,640
+at it and I'm looking at the scan that the computer's given, it can see everything, knots,
+
+117
+00:09:39,820 --> 00:09:44,480
+taper, and then it basically immediately, as soon as it clears the scanner, it's made
+
+118
+00:09:44,481 --> 00:09:50,220
+a decision and it pops up a picture and it gives the length, the diameter, every board
+
+119
+00:09:50,221 --> 00:09:51,000
+that's in there.
+
+120
+00:09:51,600 --> 00:09:55,240
+And usually the scanner does a really good solution.
+
+121
+00:09:55,860 --> 00:09:58,960
+Two kinds of blades transform logs into lumber.
+
+122
+00:09:58,961 --> 00:10:06,620
+A bandsaw, a loop of steel strung tight between two pulleys, squares off logs into more manageable units called cants.
+
+123
+00:10:08,480 --> 00:10:14,200
+Down the line, a gang of circular saws carves the cants in one pass into separate boards.
+
+124
+00:10:21,000 --> 00:10:27,060
+The blades are brazed with carbide, a hard carbon compound that helps the teeth stay sharper longer.
+
+125
+00:10:28,960 --> 00:10:33,240
+But the real key to a saw's efficiency is its thickness, or kerf.
+
+126
+00:10:34,140 --> 00:10:36,180
+Thin blades produce the least sawdust.
+
+127
+00:10:37,220 --> 00:10:41,680
+20 years ago, 30 years ago, saw kerf, which is the thickness of the saw,
+
+128
+00:10:42,040 --> 00:10:45,440
+could have been as much as a quarter of an inch, or 250 thousandths.
+
+129
+00:10:45,520 --> 00:10:46,880
+That's the same as a quarter of an inch.
+
+130
+00:10:47,480 --> 00:10:51,280
+Today, I can't tell you specifics because it's kind of one of our secrets
+
+131
+00:10:51,281 --> 00:10:53,920
+that we're significantly less than half of that.
+
+132
+00:10:53,921 --> 00:10:59,800
+If you were to use the old circle saws, you might get 10 pieces of lumber out of it.
+
+133
+00:10:59,801 --> 00:11:03,680
+Now with the technology and the improvements, you may get 13 or 14 pieces of lumber out
+
+134
+00:11:03,681 --> 00:11:04,680
+of it.
+
+135
+00:11:04,681 --> 00:11:12,740
+You've got that much more of that log going into lumber instead of sawdust.
+
+136
+00:11:12,741 --> 00:11:17,280
+Cut lumber finally makes its way to a crew of graders who inspect each piece to determine
+
+137
+00:11:17,281 --> 00:11:18,280
+its quality.
+
+138
+00:11:18,281 --> 00:11:27,698
+They have just a second, maybe a second and a half to look at each piece and apply the grade to that piece according to the characteristics that they're viewing at the
+
+139
+00:11:27,699 --> 00:11:28,399
+time.
+
+140
+00:11:29,260 --> 00:11:33,640
+We have a special crayon that the graders use that are readable by this system.
+
+141
+00:11:34,000 --> 00:11:41,840
+As it passes underneath the camera lens, it takes a photograph of that, and it will sort the lumber out based on the mark that graders have put on the lumber.
+
+142
+00:11:41,841 --> 00:11:50,140
+lumber bound for market is used to make everything from furniture to crates to toys
+
+143
+00:11:50,141 --> 00:11:57,020
+but most of it ends up here the construction industry consumes every other board produced
+
+144
+00:11:57,021 --> 00:12:03,520
+in the united states a nation with a voracious appetite for wood is using it to grow
+
+145
+00:12:03,521 --> 00:12:09,820
+feeding that appetite is a challenge as old as america itself
+
+146
+00:12:09,821 --> 00:12:15,900
+the hardy men who started it all forged a legend as large as the timber they fell
+
+147
+00:12:15,901 --> 00:12:25,100
+wood abounds in medicine cabinets pills in tablet form are held together with lignin
+
+148
+00:12:25,101 --> 00:12:31,980
+a glue extracted from trees adhesive on bandages is made from sap toothpaste owes its consistency
+
+149
+00:12:31,981 --> 00:12:34,380
+to cellulose, a natural wood polymer.
+
+150
+00:12:35,280 --> 00:12:37,460
+Logging Tech will return on Modern Marvels.
+
+151
+00:12:39,720 --> 00:12:43,120
+We now return to Logging Tech on Modern Marvels.
+
+152
+00:12:44,320 --> 00:12:45,900
+Two, one, go!
+
+153
+00:12:47,580 --> 00:12:51,160
+Just as the rodeo pays homage to the romantic image of the cowboy,
+
+154
+00:12:52,440 --> 00:12:55,900
+timber sports celebrate the larger-than-life persona of the lumberjack.
+
+155
+00:12:55,901 --> 00:13:02,900
+Although 21st century loggers embrace the advantages of mechanization, they revel in their roots.
+
+156
+00:13:02,901 --> 00:13:08,900
+Those roots date back to the beginning of the last ice age.
+
+157
+00:13:08,901 --> 00:13:15,900
+In a moment of inspiration, an ancient innovator sought to improve the hand-held sharpened stone he used as a cutting tool.
+
+158
+00:13:15,901 --> 00:13:24,900
+He attached it to a long wooden handle, creating logging's most time-honored tool, the axe.
+
+159
+00:13:24,901 --> 00:13:25,700
+the axe.
+
+160
+00:13:25,701 --> 00:13:33,900
+In the centuries ahead, bronze replaced stone, eventually empowering the Egyptians
+
+161
+00:13:33,901 --> 00:13:38,400
+to complete history's oldest known logging expedition.
+
+162
+00:13:38,401 --> 00:13:40,900
+In 2700 BC, they harvested the
+
+163
+00:13:40,901 --> 00:13:44,400
+lush cedar forests that covered much of Lebanon.
+
+164
+00:13:44,401 --> 00:13:47,900
+Today, only a few scattered cedars remain there.
+
+165
+00:13:47,901 --> 00:13:53,960
+remain there. Tools and techniques advanced little in the centuries that
+
+166
+00:13:53,961 --> 00:14:00,440
+followed. In every culture the essentials were the same, an axe, a strong back and a
+
+167
+00:14:00,441 --> 00:14:06,560
+river to transport the heavy timber. For the next two millennia loggers feasted on
+
+168
+00:14:06,561 --> 00:14:12,260
+the timberlands, especially in Europe. But until the 14th century woodworkers sawed
+
+169
+00:14:12,261 --> 00:14:13,983
+logs strictly by hand.
+
+170
+00:14:13,984 --> 00:14:19,620
+Then water wheels began powering the first sawmills in Germany, followed
+
+171
+00:14:19,621 --> 00:14:22,906
+by windmill-powered systems in Holland.
+
+172
+00:14:22,907 --> 00:14:27,540
+Forests fell ever faster as the population rose. Today,
+
+173
+00:14:27,541 --> 00:14:31,319
+only 3% of Europe's ancient woodlands remained.
+
+174
+00:14:31,320 --> 00:14:35,500
+In the New World, old techniques enabled lumberjacks
+
+175
+00:14:35,501 --> 00:14:39,505
+to successfully assail the forests of New England and the Great Lakes.
+
+176
+00:14:39,506 --> 00:14:40,420
+But when loggers
+
+177
+00:14:40,421 --> 00:14:45,502
+ventured west in the 1850s, time-honored methods proved woefully inadequate.
+
+178
+00:14:45,503 --> 00:14:47,040
+They were thunderstruck
+
+179
+00:14:47,041 --> 00:14:52,033
+as they stepped in the shadows of the largest trees on the planet.
+
+180
+00:14:52,034 --> 00:14:54,000
+Douglas fir, Sitka spruce,
+
+181
+00:14:54,660 --> 00:14:59,060
+coast redwoods, and giant sequoias dwarfed the white pines abundant in the east.
+
+182
+00:14:59,960 --> 00:15:03,080
+The attitude of the logger who came out here was one of all.
+
+183
+00:15:03,081 --> 00:15:04,640
+The average tree in the forest
+
+184
+00:15:04,641 --> 00:15:09,516
+of Maine was about, a big tree was 100 feet high, maybe two or three feet thick.
+
+185
+00:15:09,517 --> 00:15:10,217
+When
+
+186
+00:15:10,218 --> 00:15:13,220
+When they got out here they found in the case of the giant sequoias they were looking at
+
+187
+00:15:13,221 --> 00:15:17,840
+a tree 230 feet high in some instances, 30 feet thick.
+
+188
+00:15:17,841 --> 00:15:22,480
+So when the loggers came west they had no idea what they were getting into.
+
+189
+00:15:22,481 --> 00:15:27,820
+Imagine somebody coming up to a tree 30 feet across and 230 feet high with a handsaw and
+
+190
+00:15:27,821 --> 00:15:29,820
+an axe.
+
+191
+00:15:29,821 --> 00:15:35,880
+Lumberjacks cast aside their six foot saws and forged models up to 22 feet long.
+
+192
+00:15:35,881 --> 00:15:40,460
+The men trying to harvest the treasure of timber were a motley throng of wayward settlers,
+
+193
+00:15:40,461 --> 00:15:43,820
+ship deserters and frustrated forty-niners.
+
+194
+00:15:43,821 --> 00:15:48,820
+But these misfits became bonded by a common purpose, a lust for adventure and a freewheeling
+
+195
+00:15:48,821 --> 00:15:52,160
+life in one of nature's grandest arenas.
+
+196
+00:15:52,161 --> 00:15:55,200
+They were a pretty hardy bunch, you know, they were willing to fight at the drop of a
+
+197
+00:15:55,201 --> 00:15:59,200
+hat and of course they were in marvelous shape, lean and not too big.
+
+198
+00:15:59,201 --> 00:16:03,000
+The average guy who worked in the woods was about five foot seven or eight, maybe 150
+
+199
+00:16:03,001 --> 00:16:04,000
+pounds.
+
+200
+00:16:04,001 --> 00:16:09,160
+in a while you'd find a big guy, 6'4", 220, but on the whole they were pretty lean, wiry
+
+201
+00:16:09,161 --> 00:16:10,160
+group.
+
+202
+00:16:10,161 --> 00:16:15,440
+One of the first obstacles loggers faced was the nearly impenetrable swollen bases
+
+203
+00:16:15,441 --> 00:16:18,020
+of the mammoth trees.
+
+204
+00:16:18,021 --> 00:16:23,460
+All the resins from years and years start to congregate in the last six, eight feet
+
+205
+00:16:23,461 --> 00:16:25,940
+of the trunk of the tree, right above the stump.
+
+206
+00:16:25,941 --> 00:16:30,780
+And so what they did is they had to get above that butt swell.
+
+207
+00:16:30,781 --> 00:16:36,380
+The solution, called the springboard, became standard practice among lumberjacks well into the 20th century.
+
+208
+00:16:36,920 --> 00:16:41,280
+Springboard is really nothing more than about a six or eight inch wide board.
+
+209
+00:16:41,760 --> 00:16:44,480
+It had a little hook on the end and that would catch.
+
+210
+00:16:44,880 --> 00:16:48,780
+And you could hop up and you could put a 250 pound man on this springboard.
+
+211
+00:16:50,460 --> 00:16:56,500
+Springboards gave lumberjacks just the boost they needed to begin the laborious process of bringing the mighty trees down.
+
+212
+00:16:56,501 --> 00:17:02,000
+They would come in and decide where their horizontal undercut was going to be.
+
+213
+00:17:02,001 --> 00:17:08,000
+And then they would cut across the tree to a depth maybe about a third or so of the tree diameter.
+
+214
+00:17:08,001 --> 00:17:11,500
+They would then come in and chop out the undercut.
+
+215
+00:17:11,501 --> 00:17:17,000
+After the tree is faced up, we call it, they would come around behind the tree
+
+216
+00:17:17,001 --> 00:17:22,500
+and then begin sawing at another horizontal cut a little bit above the undercut.
+
+217
+00:17:22,501 --> 00:17:29,180
+and then they'll have to leave a hinge between the front cut or the undercut and the back cut
+
+218
+00:17:29,181 --> 00:17:31,480
+to guide the tree in the direction that they want it to go.
+
+219
+00:17:35,780 --> 00:17:41,660
+Lumberjacks would even put out stakes or markers out in the area where they were going to drop the tree
+
+220
+00:17:41,661 --> 00:17:45,560
+and they'd take bets on whether or not they could drive a stake in the ground with a tree.
+
+221
+00:17:46,000 --> 00:17:49,800
+As the trees fell, their titanic limbs often snapped off
+
+222
+00:17:49,801 --> 00:17:52,640
+and lodged in the treetops towering above the forest floor.
+
+223
+00:17:53,520 --> 00:17:57,280
+Days, even weeks later, they could plummet toward unsuspecting loggers.
+
+224
+00:17:58,280 --> 00:18:01,900
+Well, if limbs broke out, especially the limb from, say, 100 feet up,
+
+225
+00:18:02,020 --> 00:18:05,220
+and came hustling down, that's what we called a widow maker.
+
+226
+00:18:05,760 --> 00:18:07,640
+Because that fell, and if that hit him on the head,
+
+227
+00:18:07,880 --> 00:18:09,940
+I mean, he would just drive him in the ground.
+
+228
+00:18:10,440 --> 00:18:12,660
+You know, and if you were a married lumberjack, you know,
+
+229
+00:18:12,661 --> 00:18:15,760
+you've just, your widow is going to a funeral now.
+
+230
+00:18:15,761 --> 00:18:22,260
+Every tree that toppled set in motion the lumberjack's colorful supporting cast, assigned
+
+231
+00:18:22,261 --> 00:18:25,860
+the Herculean task of transporting the huge logs.
+
+232
+00:18:25,861 --> 00:18:31,860
+Their destination was a nearby river, the critical link to civilization around which
+
+233
+00:18:31,861 --> 00:18:35,740
+every logging camp was based.
+
+234
+00:18:35,741 --> 00:18:38,000
+First came the bullwhackers.
+
+235
+00:18:38,001 --> 00:18:43,560
+For decades, their teams of oxen dragged timber by steel chains over a path of half-buried
+
+236
+00:18:43,561 --> 00:18:51,000
+logs called the skid road at the end of the skid road were the sure-footed river pigs
+
+237
+00:18:52,120 --> 00:18:57,800
+for the next century they navigated america's waterways driving logs as far as 70 miles to the
+
+238
+00:18:57,801 --> 00:19:04,280
+sawmills each came equipped only with spiked boots and a pole fitted with a hook designed
+
+239
+00:19:04,281 --> 00:19:10,040
+to maneuver the floating timber fighting a constant battle to break up log jams in the
+
+240
+00:19:10,041 --> 00:19:12,440
+the congested rivers, every river pig
+
+241
+00:19:12,441 --> 00:19:16,220
+knew that one misstep could be fatal.
+
+242
+00:19:16,221 --> 00:19:18,720
+Imagine trying to stand on a log
+
+243
+00:19:18,721 --> 00:19:22,460
+or moving from one log to another on a river.
+
+244
+00:19:22,461 --> 00:19:25,140
+And if you fell off of those logs into the water,
+
+245
+00:19:25,141 --> 00:19:27,140
+and the water was filled with logs,
+
+246
+00:19:27,141 --> 00:19:29,060
+you might not come up because you might not
+
+247
+00:19:29,061 --> 00:19:31,240
+have a place to come up.
+
+248
+00:19:31,241 --> 00:19:35,220
+I could just imagine that feeling of trying to find daylight,
+
+249
+00:19:35,221 --> 00:19:36,320
+trying to look up.
+
+250
+00:19:36,321 --> 00:19:38,520
+And all you could see above you was a wall of logs
+
+251
+00:19:38,521 --> 00:19:40,520
+and just going, this is not good.
+
+252
+00:19:41,560 --> 00:19:43,880
+After hours, the river pigs and their colleagues
+
+253
+00:19:43,881 --> 00:19:46,800
+brought their bravado indoors to the crowded bunkhouses.
+
+254
+00:19:47,540 --> 00:19:50,980
+Up to 40 shared one room, reeking of sweat, tobacco,
+
+255
+00:19:51,200 --> 00:19:54,280
+drying socks, and overflowing spittoons.
+
+256
+00:19:56,240 --> 00:19:59,000
+A more popular venue was the camp's dining hall.
+
+257
+00:20:00,040 --> 00:20:03,160
+The main event for loggers was food.
+
+258
+00:20:04,000 --> 00:20:06,840
+The average logger burned 8,000 calories a day
+
+259
+00:20:06,841 --> 00:20:09,560
+because his work was so hard he never got fat.
+
+260
+00:20:10,780 --> 00:20:13,660
+The loggers' appetites, however, weren't restricted to food.
+
+261
+00:20:14,680 --> 00:20:18,480
+Many sought release from their perilous profession in brothels and saloons
+
+262
+00:20:18,481 --> 00:20:21,060
+that sprung up like weeds around their camp.
+
+263
+00:20:22,360 --> 00:20:25,240
+After blowing four months' salary and one night of debauchery,
+
+264
+00:20:25,680 --> 00:20:28,640
+they returned to the forests to forge their place in history.
+
+265
+00:20:31,400 --> 00:20:33,920
+They had little inkling that in years to come,
+
+266
+00:20:33,921 --> 00:20:38,320
+New machines and daring technologies would transform their world.
+
+267
+00:20:40,400 --> 00:20:47,540
+The term skid row takes its name from the rundown saloons and boarding houses near the skid roads of western logging camps.
+
+268
+00:20:49,080 --> 00:20:51,200
+Logging Tech will return on Modern Marvels.
+
+269
+00:20:54,880 --> 00:20:58,220
+We now return to Logging Tech on Modern Marvels.
+
+270
+00:20:58,221 --> 00:21:06,700
+Beginning in the 1870s, timbermen in the remote western forests heard the shrill echo of progress.
+
+271
+00:21:08,760 --> 00:21:16,000
+The first transcontinental trains linked their vast virgin woodlands with eastern markets, whose own forests had been depleted.
+
+272
+00:21:17,360 --> 00:21:23,400
+Demand soared, but the industrial revolution that drove the railroad west also empowered the loggers.
+
+273
+00:21:23,401 --> 00:21:32,180
+mechanization radically changed how timber was moved for decades to come a huffing monstrosity
+
+274
+00:21:32,181 --> 00:21:39,080
+called a donkey engine was the nucleus of every logging operation powered by steam it turned a
+
+275
+00:21:39,081 --> 00:21:46,140
+capstan that could pull cable drawn logs more powerfully than any animal the donkey name came
+
+276
+00:21:46,141 --> 00:21:51,180
+about because it was such a small machine people said it really didn't have enough horsepower so
+
+277
+00:21:51,181 --> 00:21:53,820
+they couldn't call it a horse, so they named it the donkey instead.
+
+278
+00:21:54,840 --> 00:21:56,960
+Donkey engines packed enough power, however,
+
+279
+00:21:56,961 --> 00:22:00,300
+to inspire the high-lead skidding technique still in use today.
+
+280
+00:22:01,720 --> 00:22:06,300
+A donkey's tow line was wound over a pulley atop what was called a spar tree.
+
+281
+00:22:07,200 --> 00:22:11,400
+The increased leverage enabled it to pull logs up to 2,000 feet away,
+
+282
+00:22:11,780 --> 00:22:13,500
+with their head ends high in the air,
+
+283
+00:22:13,880 --> 00:22:16,080
+riding free above the stumps and underbrush.
+
+284
+00:22:17,040 --> 00:22:19,360
+Moving logs when they're totally on the ground
+
+285
+00:22:19,361 --> 00:22:23,220
+takes a lot more energy than if you have one end of the log lifted.
+
+286
+00:22:23,760 --> 00:22:29,520
+Cables were elevated so that you would get at least one end suspension of the log above the ground
+
+287
+00:22:29,521 --> 00:22:32,460
+to reduce the amount of energy required to pull those logs in.
+
+288
+00:22:34,280 --> 00:22:37,400
+Productivity soared, but so did the accident rate.
+
+289
+00:22:38,420 --> 00:22:40,780
+One of the biggest hazards was the bite of the line.
+
+290
+00:22:40,980 --> 00:22:44,120
+That's B-I-G-H-T, not B-I-T-E, the bite of the line.
+
+291
+00:22:44,121 --> 00:22:50,480
+the donkey engine would start to pull that cable up and it would pull tight if you were caught in
+
+292
+00:22:50,481 --> 00:22:57,920
+the bite of the line with a foot or an ankle that was the end of your legs as the new system forced
+
+293
+00:22:57,921 --> 00:23:03,200
+the bullwhackers out of a job it created a spectacular new specialist the high rigger
+
+294
+00:23:03,201 --> 00:23:08,960
+equipped with spiked boots and leg spurs he had the demanding task of ascending and prepping the
+
+295
+00:23:08,961 --> 00:23:14,203
+spar tree. The high climbers would climb probably 160 to 180 feet up in the air.
+
+296
+00:23:14,204 --> 00:23:15,120
+Although there
+
+297
+00:23:15,121 --> 00:23:19,680
+were some spar trees that were taller than that, that's the kind of height that you needed.
+
+298
+00:23:20,800 --> 00:23:26,640
+At a pre-calculated level, the high rigor faced the daunting task of cutting off the top of the
+
+299
+00:23:26,641 --> 00:23:27,341
+tree.
+
+300
+00:23:27,342 --> 00:23:36,560
+And after that tree fell, the weight of that tree would push that spar tree back,
+
+301
+00:23:36,561 --> 00:23:39,140
+and he would just rock back and forth.
+
+302
+00:23:40,680 --> 00:23:42,160
+It started to show off.
+
+303
+00:23:42,500 --> 00:23:45,740
+He'd go up to the top of the tree and sit and have a cigarette.
+
+304
+00:23:46,440 --> 00:23:49,360
+And if he really had nerves of steel, he'd do a headstand.
+
+305
+00:23:50,240 --> 00:23:51,940
+With his bar tree topped off,
+
+306
+00:23:51,941 --> 00:23:55,820
+the high-rigger assisted crewmen in hoisting and securing the high-lead pulley.
+
+307
+00:23:57,220 --> 00:24:02,000
+As this new breed of daredevils elevated log transport to productive new heights,
+
+308
+00:24:02,860 --> 00:24:06,080
+locomotive drivers below were literally spinning their wheels.
+
+309
+00:24:06,560 --> 00:24:12,220
+For a decade, all efforts to haul logs by rail in the mountainous timber country failed miserably.
+
+310
+00:24:13,640 --> 00:24:17,080
+Locomotives had little or no traction on the steep forest grades.
+
+311
+00:24:18,320 --> 00:24:22,600
+In 1880, a Michigan lumberman named Ephraim Shea invented the solution.
+
+312
+00:24:24,460 --> 00:24:28,120
+The Shea locomotive possessed one radical design change.
+
+313
+00:24:28,640 --> 00:24:33,700
+Power from the lone cylinder was transmitted to the eight wheels, not by rods, but by gears.
+
+314
+00:24:33,701 --> 00:24:39,340
+Every wheel was locked in a gear, so there was no way a wheel could slip.
+
+315
+00:24:39,620 --> 00:24:40,920
+It's like a four-wheel drive.
+
+316
+00:24:41,360 --> 00:24:47,020
+Plus, they were lighter, could navigate grades up to 10 or 12, 14 percent, which was unheard of,
+
+317
+00:24:47,280 --> 00:24:49,900
+and they could run equally well backward or forward.
+
+318
+00:24:51,820 --> 00:24:56,360
+Shays enabled loggers to penetrate deeper and deeper into the western forests.
+
+319
+00:24:57,340 --> 00:25:00,520
+Trainloads of timber rolled from regions once thought inaccessible.
+
+320
+00:25:00,521 --> 00:25:08,520
+Logs also began moving along the most elaborate and unconventional transport system loggers ever devised, the flume.
+
+321
+00:25:08,521 --> 00:25:10,963
+It was literally a man-made river.
+
+322
+00:25:10,964 --> 00:25:20,520
+They built them in 16-foot boxes, as they called them, sections 16 feet long, and hoisted them up on top of trestles in that fashion.
+
+323
+00:25:20,521 --> 00:25:26,380
+As they start down the real steep areas, the lumber might be going 50 miles an hour, splashing everywhere.
+
+324
+00:25:26,680 --> 00:25:32,060
+Where there was very little drop in elevation, you could walk along faster than the lumber was floating.
+
+325
+00:25:32,940 --> 00:25:37,740
+A chronic problem was maintaining the flow of timber along routes that stretched for miles.
+
+326
+00:25:39,160 --> 00:25:45,460
+A new crew of specialists, flume herders, manned remote outposts to guard against leaks and log jams.
+
+327
+00:25:45,461 --> 00:25:51,080
+The flume hoarders lived there full time, and they had a bell hanging out over the flume.
+
+328
+00:25:51,081 --> 00:25:53,060
+So as the lumber went by, it ticked the bell.
+
+329
+00:25:53,640 --> 00:25:56,760
+So in the middle of the night, if a guy woke up and he didn't hear the bell ticking, he
+
+330
+00:25:56,761 --> 00:25:57,620
+knew there was a problem.
+
+331
+00:25:58,220 --> 00:26:01,920
+And he'd jump up, trying to find the source of where the jam hub was.
+
+332
+00:26:02,740 --> 00:26:06,920
+And if you can imagine, some of these trestles that the flumes were over as they went over
+
+333
+00:26:06,921 --> 00:26:10,780
+these draws and gullies were 60 to 70 feet up in the air.
+
+334
+00:26:11,200 --> 00:26:13,600
+These guys were walking on a little tiny catwalk.
+
+335
+00:26:13,601 --> 00:26:22,440
+That was an extremely dangerous job, and there are many occasions where a flume herder fell off the catwalk to his death.
+
+336
+00:26:23,720 --> 00:26:26,040
+Beyond the danger, however, was fun.
+
+337
+00:26:27,040 --> 00:26:31,340
+For years to come, loggers seeking new thrills found them in makeshift flume boats.
+
+338
+00:26:33,780 --> 00:26:37,820
+Anyone who's been drenched on an amusement park log ride can blame it on them.
+
+339
+00:26:37,821 --> 00:26:45,140
+By flume, river and rail, logs poured into the sawmills.
+
+340
+00:26:45,141 --> 00:26:50,380
+The industry's survival depended on the Sawyer's ability to keep pace with the lumberjacks.
+
+341
+00:26:50,381 --> 00:26:56,100
+Until the 1880s, their most crucial tool was the circular saw.
+
+342
+00:26:56,101 --> 00:27:03,060
+It was invented in 1777, but now, coupled with steam, its full potential was being harnessed.
+
+343
+00:27:03,061 --> 00:27:08,060
+Still, the enormous redwood and sequoia logs were often more than they could handle.
+
+344
+00:27:08,061 --> 00:27:16,060
+In the 1870s, after years of persistence, engineers finally delivered a solution.
+
+345
+00:27:16,061 --> 00:27:23,060
+They developed the first practical models of an invention patented in 1808, the bandsaw.
+
+346
+00:27:23,061 --> 00:27:29,060
+For decades, craftsmen had been unable to accurately and securely join the ends of the band.
+
+347
+00:27:29,061 --> 00:27:34,080
+advances in welding techniques finally resulted in steel loops that could
+
+348
+00:27:34,081 --> 00:27:37,980
+withstand the enormous pressure exerted by the flywheels above and below the
+
+349
+00:27:37,981 --> 00:27:42,460
+carriage the fast thin blades could slice unerringly through even the most
+
+350
+00:27:42,461 --> 00:27:48,380
+gargantuan logs the advancing industry was supplying a rising nation all the
+
+351
+00:27:48,381 --> 00:27:53,620
+lumber it needed to grow but many look to America's disappearing forests and
+
+352
+00:27:53,621 --> 00:27:55,620
+and worried that the price was too high.
+
+353
+00:27:59,020 --> 00:28:02,920
+California's 54-mile Sanger Flume was the longest ever constructed.
+
+354
+00:28:03,760 --> 00:28:07,280
+It was completed in 1890 at a cost of $300,000,
+
+355
+00:28:07,940 --> 00:28:10,820
+equivalent to nearly $6 million today.
+
+356
+00:28:12,120 --> 00:28:14,240
+Logging Tech will return on Modern Marvels.
+
+357
+00:28:16,420 --> 00:28:18,960
+As the 20th century dawned,
+
+358
+00:28:19,140 --> 00:28:22,540
+skyrocketing demand and eastern capital were transforming logging
+
+359
+00:28:22,541 --> 00:28:25,260
+into a colossus of mechanized industry.
+
+360
+00:28:26,380 --> 00:28:28,960
+A rough and ready trade was absorbed by corporate America
+
+361
+00:28:28,961 --> 00:28:30,740
+and the timber barons.
+
+362
+00:28:32,380 --> 00:28:35,020
+The greatest of them all was Frederick Weyerhaeuser,
+
+363
+00:28:35,500 --> 00:28:37,880
+a German immigrant who began as a night watchman
+
+364
+00:28:37,881 --> 00:28:39,220
+in an Illinois sawmill.
+
+365
+00:28:40,420 --> 00:28:43,140
+In 1858, when the mill hit hard times,
+
+366
+00:28:44,100 --> 00:28:46,480
+Weyerhaeuser scraped together enough money to buy it.
+
+367
+00:28:47,340 --> 00:28:48,540
+In the decades that followed,
+
+368
+00:28:49,040 --> 00:28:51,140
+he built up the most powerful logging company
+
+369
+00:28:51,141 --> 00:28:55,936
+surrounding the Great Lakes. Then he turned west.
+
+370
+00:28:55,937 --> 00:28:59,460
+In 1900, Weyerhaeuser bought 900,000
+
+371
+00:28:59,461 --> 00:29:04,299
+acres of prime Washington timberland from the Northern Pacific Railroad.
+
+372
+00:29:04,300 --> 00:29:05,240
+The price tag,
+
+373
+00:29:05,680 --> 00:29:11,600
+$5.4 million, to that time the largest private land transaction in American history.
+
+374
+00:29:13,300 --> 00:29:17,780
+As the Weyerhaeusers of the West took control of the industry, there was still room for
+
+375
+00:29:17,781 --> 00:29:23,720
+Maverick. Simon Benson was a former bullwhacker who built his own thriving
+
+376
+00:29:23,721 --> 00:29:29,120
+company in Washington. In 1906 the enterprising Benson built a sawmill in
+
+377
+00:29:29,121 --> 00:29:33,920
+San Diego. His master plan was to satisfy all the lumber needs of a growing
+
+378
+00:29:33,921 --> 00:29:38,840
+Southern California. But shipping his logs from Washington by rail would spell
+
+379
+00:29:38,841 --> 00:29:46,300
+bankruptcy. Benson's solution was as daring as it was ingenious. Like a 20th
+
+380
+00:29:46,301 --> 00:29:52,060
+century Noah he would mass his logs to construct enormous ocean-going rafts
+
+381
+00:29:52,061 --> 00:29:57,400
+what he designed was a timber frame and this thing was almost a thousand feet
+
+382
+00:29:57,401 --> 00:30:02,320
+long and the logs came in from the woods he would take this big derrick and it
+
+383
+00:30:02,321 --> 00:30:06,880
+would load these logs into this wooden frame and he was very very careful of
+
+384
+00:30:06,881 --> 00:30:11,680
+overlapping the joints of the logs so he didn't have all the ends at one place
+
+385
+00:30:11,681 --> 00:30:14,120
+He'd overlap them to give them some strength.
+
+386
+00:30:14,720 --> 00:30:19,000
+And when they were finally finished, they would take chains and wrap them around.
+
+387
+00:30:19,360 --> 00:30:20,800
+And these chains are huge.
+
+388
+00:30:20,880 --> 00:30:24,480
+These are those anchor chains that you see, absolutely massive.
+
+389
+00:30:26,000 --> 00:30:28,960
+The chains alone weighed 250 tons.
+
+390
+00:30:30,340 --> 00:30:34,800
+Released from their timber frames, Benson's rafts were as seaworthy as battleships.
+
+391
+00:30:35,700 --> 00:30:38,800
+Many contained enough lumber to build 500 houses.
+
+392
+00:30:38,801 --> 00:30:45,920
+over the next 40 years close to 120 navigated the 1100 mile voyage to San Diego
+
+393
+00:30:45,921 --> 00:30:53,740
+innovators like Benson pushed productivity to levels once thought unimaginable loggers cut a
+
+394
+00:30:53,741 --> 00:31:00,280
+swath through the western timberlands as if forests were an inexhaustible resource at many sites they
+
+395
+00:31:00,281 --> 00:31:06,640
+literally stripped the landscape then at the turn of the 20th century the shriek of the donkey engine
+
+396
+00:31:06,641 --> 00:31:09,575
+was challenged by the voice of protest.
+
+397
+00:31:09,576 --> 00:31:13,640
+Naturalists like John Muir deemed the frontier forests
+
+398
+00:31:14,180 --> 00:31:16,980
+a living treasure that required protection.
+
+399
+00:31:16,981 --> 00:31:20,040
+Muir's greatest champion was President Theodore
+
+400
+00:31:20,041 --> 00:31:20,741
+Roosevelt.
+
+401
+00:31:20,742 --> 00:31:25,820
+As both nature lover and die-hard capitalist, Roosevelt declared that America
+
+402
+00:31:25,821 --> 00:31:31,440
+had to balance its demand for lumber with a keener sensitivity to the environment.
+
+403
+00:31:31,441 --> 00:31:37,260
+In 1905, he created the United States Forest Service and appointed renowned conservationist
+
+404
+00:31:37,261 --> 00:31:40,200
+Gifford Pinchot as its head.
+
+405
+00:31:40,201 --> 00:31:44,340
+Pinchot believed America's national forests could be managed best by combining a reverence
+
+406
+00:31:44,341 --> 00:31:48,660
+for nature with responsible exploitation.
+
+407
+00:31:48,661 --> 00:31:54,280
+The timber barons on the one side felt that he was too excessive and too restrictive in
+
+408
+00:31:54,281 --> 00:31:56,640
+terms of how forestry should be practiced.
+
+409
+00:31:56,641 --> 00:32:01,360
+The John Muir's on the other hand felt that nobody should be using forest period.
+
+410
+00:32:01,361 --> 00:32:03,688
+issues he set aside and left alone.
+
+411
+00:32:03,689 --> 00:32:07,280
+Gifford Pinchot was a person who said look we can have
+
+412
+00:32:07,281 --> 00:32:09,902
+our cake and we can eat it too.
+
+413
+00:32:09,903 --> 00:32:15,400
+Pinchot's policy of multiple use set aside some forest land to be
+
+414
+00:32:15,401 --> 00:32:19,079
+preserved while opening up other regions for lumbermen.
+
+415
+00:32:19,080 --> 00:32:21,220
+A century after its inception it
+
+416
+00:32:21,221 --> 00:32:23,287
+still provokes controversy.
+
+417
+00:32:23,288 --> 00:32:27,880
+Some believe it puts a stranglehold on the logging industry.
+
+418
+00:32:28,860 --> 00:32:31,980
+Others think it leaves America's forests too vulnerable.
+
+419
+00:32:34,700 --> 00:32:40,960
+Beginning in 1926, the debate intensified as the woods echoed with the roar of a new invention.
+
+420
+00:32:47,620 --> 00:32:53,460
+The first practical chainsaws were the brainchild of mechanical engineer Andreas Still.
+
+421
+00:32:54,420 --> 00:32:59,620
+His key design element was a chain of cutting teeth that rotated in a groove around a bar.
+
+422
+00:33:00,520 --> 00:33:03,840
+The blades resembled the simple straight teeth of a crosscut saw.
+
+423
+00:33:04,920 --> 00:33:11,240
+Until the 1940s, however, his prototypes weighed close to 150 pounds and required a two-man crew.
+
+424
+00:33:12,420 --> 00:33:16,120
+The heavy gasoline engines had clutches that had to be engaged manually.
+
+425
+00:33:18,020 --> 00:33:19,640
+Later models increased efficiency.
+
+426
+00:33:20,500 --> 00:33:24,940
+Then in 1946, a logger and inventor named Buford Cox
+
+427
+00:33:24,941 --> 00:33:27,860
+conceived a radical new design for the sawteeth.
+
+428
+00:33:28,720 --> 00:33:30,940
+He was sitting at the wood pile one day,
+
+429
+00:33:31,320 --> 00:33:33,980
+and he was looking at this big wood-boring insect.
+
+430
+00:33:34,560 --> 00:33:36,220
+And they're about as big as your finger.
+
+431
+00:33:36,800 --> 00:33:39,640
+And what they have is they have big mandible jaws in front.
+
+432
+00:33:40,020 --> 00:33:42,580
+And they swipe at the timber and the wood
+
+433
+00:33:42,581 --> 00:33:47,300
+and make this nice oval-shaped hole that they would bore through.
+
+434
+00:33:47,301 --> 00:33:51,020
+And he looked at that and he thought, you know, if they can do that,
+
+435
+00:33:51,340 --> 00:33:53,060
+I wonder if we could do that with the chainsaw.
+
+436
+00:33:53,660 --> 00:33:57,720
+What Beaufort Cox did is he actually took that tooth and curled it over.
+
+437
+00:33:59,040 --> 00:34:02,800
+And that corner of that tooth would grab the wood and pull it out.
+
+438
+00:34:04,180 --> 00:34:08,980
+And then that really was the start of modern-day chain for the chainsaws.
+
+439
+00:34:10,060 --> 00:34:11,660
+The chain became better.
+
+440
+00:34:12,000 --> 00:34:13,280
+The engines became lighter.
+
+441
+00:34:13,920 --> 00:34:16,320
+We had better technology in the weight.
+
+442
+00:34:16,321 --> 00:34:22,660
+We did a better job of the exhaust gases, for example, moving them away from the operator.
+
+443
+00:34:23,240 --> 00:34:27,080
+We had the upper hand, if you will, once the chainsaw came into the woods,
+
+444
+00:34:27,240 --> 00:34:29,940
+because we could really cut the trees fast.
+
+445
+00:34:31,220 --> 00:34:34,120
+Today's chainsaws are driven by a centrifugal clutch
+
+446
+00:34:34,121 --> 00:34:40,220
+and can revolve at up to 13,000 revolutions per minute.
+
+447
+00:34:40,780 --> 00:34:44,060
+As they've revolutionized the industry over the past 60 years,
+
+448
+00:34:44,061 --> 00:34:47,220
+So has another bold idea from the 1940s.
+
+449
+00:34:47,880 --> 00:34:53,780
+Before World War II, foresters began planting seedlings in the barren landscapes, clear-cut by lumberjacks.
+
+450
+00:34:54,500 --> 00:34:59,780
+The new generation of trees was specifically intended to be harvested decades later as timber.
+
+451
+00:35:00,880 --> 00:35:03,200
+It marked the birth of the tree farm.
+
+452
+00:35:05,780 --> 00:35:12,440
+Since then, 37,000 tree farms have sprouted across the United States, most of them in the South.
+
+453
+00:35:14,060 --> 00:35:20,180
+Seedlings are first planted and cultivated in nurseries, then transplanted in harvesting
+
+454
+00:35:20,181 --> 00:35:21,180
+tracts.
+
+455
+00:35:21,181 --> 00:35:26,440
+They can grow trees much like you grow corn.
+
+456
+00:35:26,441 --> 00:35:27,680
+Trees are planted in rows.
+
+457
+00:35:27,681 --> 00:35:31,300
+You can manage them because you can put equipment on the flat terrain.
+
+458
+00:35:31,301 --> 00:35:38,680
+So there are some advantages to being able to farm the tree as a crop.
+
+459
+00:35:38,681 --> 00:35:43,600
+Today, more than a third of the world's harvested timber comes from tree farms.
+
+460
+00:35:44,800 --> 00:35:50,500
+Some experts predict that by the year 2040, they will cover an expanse the size of Utah.
+
+461
+00:35:51,780 --> 00:35:56,280
+Their expansion may seem the most obvious solution to the nation's rising demand for wood,
+
+462
+00:35:56,820 --> 00:36:00,420
+but obvious solutions are often not as simple as they first appear.
+
+463
+00:36:01,980 --> 00:36:06,660
+A tree farm is not a forest. A forest is a web of life with many different species,
+
+464
+00:36:06,661 --> 00:36:14,680
+a great variety of plants, and everything all interacting together to have literally a web of life.
+
+465
+00:36:15,060 --> 00:36:20,380
+When you change the forest to a single crop of trees or even a few species of trees,
+
+466
+00:36:20,740 --> 00:36:23,660
+the result is a tree plantation that is very sterile,
+
+467
+00:36:24,320 --> 00:36:30,300
+rather than there being the diversity that is essential for species to survive in the long term.
+
+468
+00:36:30,301 --> 00:36:37,300
+Despite such concerns, many see few viable alternatives as we look to the future.
+
+469
+00:36:37,301 --> 00:36:45,300
+We're going to grow from 300 million people to a billion people one day in the United States,
+
+470
+00:36:45,301 --> 00:36:47,300
+and wood has to come from someplace.
+
+471
+00:36:47,301 --> 00:36:54,300
+So I suspect that we may have to have areas of the United States where wood fiber has grown on very short rotations
+
+472
+00:36:54,301 --> 00:37:00,640
+so that we can reduce our costs and yet provide a lot of wood for America's needs.
+
+473
+00:37:01,940 --> 00:37:07,260
+The debate is just part of an enduring conflict between the logging industry and environmentalists.
+
+474
+00:37:08,460 --> 00:37:11,820
+Their struggle is the result of a society at cross purposes,
+
+475
+00:37:12,520 --> 00:37:16,340
+one that seeks to protect its resources as much as exploit them.
+
+476
+00:37:18,060 --> 00:37:23,900
+In an effort to solve the dilemma, innovators are literally taking bold new steps.
+
+477
+00:37:24,300 --> 00:37:32,620
+The 13 southern states produce 60% of America's wood, almost four times the current volume
+
+478
+00:37:32,621 --> 00:37:35,920
+of the Pacific Northwest.
+
+479
+00:37:35,921 --> 00:37:39,980
+Logging Tech will return on Modern Marvels.
+
+480
+00:37:39,981 --> 00:37:46,380
+Today's logging industry faces obstacles Paul Bunyan might have found insurmountable.
+
+481
+00:37:46,381 --> 00:37:53,400
+It must feed a wood-hungry world that has a passion to preserve its forests.
+
+482
+00:37:53,401 --> 00:37:59,120
+must meet the spiraling demands of a new century, yet avoid the practices that scarred the last.
+
+483
+00:38:00,220 --> 00:38:04,080
+Three centuries of exploitation have cut deeply into the American landscape
+
+484
+00:38:04,081 --> 00:38:09,520
+and into the federally owned forests that comprise 29% of the nation's timberlands.
+
+485
+00:38:10,040 --> 00:38:15,560
+In the Sierra Nevada's National Forest, all the way through until the early 1990s,
+
+486
+00:38:15,561 --> 00:38:18,000
+clear-cutting was the main method of harvest.
+
+487
+00:38:18,001 --> 00:38:23,760
+And so what we end up with is a site that is a bare, denuded hillside,
+
+488
+00:38:23,980 --> 00:38:29,660
+and the values that are important for wildlife and other species are no longer there.
+
+489
+00:38:29,860 --> 00:38:34,860
+It's just putting human needs first, the human needs of growing a crop of wood.
+
+490
+00:38:36,540 --> 00:38:39,460
+In their zeal to satisfy the nation's demands,
+
+491
+00:38:40,120 --> 00:38:43,280
+loggers destroyed much of nature's most monumental handiwork.
+
+492
+00:38:43,281 --> 00:38:48,280
+less than 4% of America's old growth timber remains.
+
+493
+00:38:50,280 --> 00:38:53,280
+In the matter of the sequoia trees in Converse Basin
+
+494
+00:38:53,281 --> 00:38:56,280
+that was logged by the Sanger Lumber Company,
+
+495
+00:38:56,281 --> 00:38:59,280
+which I call the most destructive logging in the history of the world,
+
+496
+00:38:59,281 --> 00:39:02,280
+they cut down 8,000 giant sequoias,
+
+497
+00:39:02,281 --> 00:39:06,280
+and those trees take 2,000, 3,000, 4,000 years to grow big.
+
+498
+00:39:07,280 --> 00:39:11,280
+Destruction on a scale far greater is now occurring in South America,
+
+499
+00:39:11,281 --> 00:39:15,820
+where 200,000 square miles of the Amazon rainforest have fallen.
+
+500
+00:39:17,460 --> 00:39:20,600
+There, few government controls exist to prevent developers
+
+501
+00:39:20,601 --> 00:39:23,580
+from stripping the landscape of its rich diversity of wildlife.
+
+502
+00:39:26,040 --> 00:39:30,940
+In the U.S., loggers operate according to strict federal and state regulations,
+
+503
+00:39:31,500 --> 00:39:34,420
+but they continue to cross swords with environmentalists,
+
+504
+00:39:35,020 --> 00:39:39,400
+as each asserts their own visions of what constitutes responsible forest management.
+
+505
+00:39:39,401 --> 00:39:46,220
+Forest issues are not black and white, and obviously the vast majority of foresters and
+
+506
+00:39:46,221 --> 00:39:52,780
+those trying to produce timber on forest lands do care about wildlife and water and other
+
+507
+00:39:52,781 --> 00:39:58,580
+values, and the vast majority of environmentalists recognize that you have to produce wood products.
+
+508
+00:39:58,581 --> 00:40:05,880
+So in many ways the challenge is for the environmentalists and loggers to work more and more toward
+
+509
+00:40:05,881 --> 00:40:10,520
+the common middle ground where there are a lot of overlapping opportunities.
+
+510
+00:40:13,400 --> 00:40:20,440
+In my grandfather's era after World War II, it was production, you know, get the pieces to the
+
+511
+00:40:20,441 --> 00:40:27,400
+roadside, get them to the mill, and you know brute force and strength, and today it's more finesse and
+
+512
+00:40:27,401 --> 00:40:32,060
+and minimal disturbance to the environment.
+
+513
+00:40:33,600 --> 00:40:36,320
+Today, we have to get production, but we have to do it smart.
+
+514
+00:40:37,760 --> 00:40:40,860
+These days, there's a lot of new high-tech equipment
+
+515
+00:40:40,861 --> 00:40:42,760
+that's being used in the timber industry,
+
+516
+00:40:43,060 --> 00:40:46,680
+and our center is very supportive of the conversion
+
+517
+00:40:46,681 --> 00:40:49,760
+to this high-tech equipment because it benefits the environment.
+
+518
+00:40:50,820 --> 00:40:56,300
+The cut-to-length processors have a minimal pressure per square inch,
+
+519
+00:40:56,301 --> 00:40:59,900
+and so they don't compact the soil like traditional equipment does.
+
+520
+00:41:00,120 --> 00:41:01,740
+They don't create huge ruts.
+
+521
+00:41:02,220 --> 00:41:05,700
+They're very, very light, even on moderately steep hillsides,
+
+522
+00:41:05,840 --> 00:41:07,600
+very, very light on the land.
+
+523
+00:41:09,060 --> 00:41:10,960
+The less compacted the soil,
+
+524
+00:41:11,100 --> 00:41:13,360
+the better the chances for the trees left standing.
+
+525
+00:41:15,360 --> 00:41:19,160
+Since the 1970s, loggers have demonstrated this most dramatically
+
+526
+00:41:19,161 --> 00:41:20,280
+with the helicopter.
+
+527
+00:41:21,400 --> 00:41:25,320
+Nothing protects the fragile forest floor more than rising above it.
+
+528
+00:41:26,300 --> 00:41:31,460
+But airborne operations are rare, conducted mainly in remote areas inaccessible to ground machinery.
+
+529
+00:41:33,960 --> 00:41:38,420
+Will those types of machines become more important in the present and into the future?
+
+530
+00:41:38,560 --> 00:41:41,260
+Probably so, but we're going to have to reduce their cost.
+
+531
+00:41:42,200 --> 00:41:43,140
+They're very expensive.
+
+532
+00:41:43,620 --> 00:41:46,880
+I think they're about seven times more expensive than conventional systems.
+
+533
+00:41:50,260 --> 00:41:53,700
+Scandinavian engineers are developing what may be a feasible alternative.
+
+534
+00:41:53,701 --> 00:42:00,700
+Their six-legged prototypes, aptly called walking machines, can negotiate even the steepest terrain.
+
+535
+00:42:00,701 --> 00:42:06,700
+Their impact on productivity could be as profound as their lack of impact on the forest floor.
+
+536
+00:42:06,701 --> 00:42:10,700
+That technology is very intriguing.
+
+537
+00:42:10,701 --> 00:42:13,700
+You're just putting that weight on one spot.
+
+538
+00:42:13,701 --> 00:42:21,700
+You don't see the impact of like a road through the trees that you do with using wheeled equipment that creates a path.
+
+539
+00:42:21,701 --> 00:42:27,700
+It was developed in the Nordic countries when they were trying to harvest areas that were peaked bogs,
+
+540
+00:42:27,701 --> 00:42:29,700
+and they couldn't hold up the heavy equipment.
+
+541
+00:42:29,701 --> 00:42:33,700
+And it senses when it won't have enough support for it
+
+542
+00:42:33,701 --> 00:42:39,700
+and will put the actual foot of the machine in a different place once it knows it's not going to support it.
+
+543
+00:42:41,700 --> 00:42:45,700
+Can technology help bridge the gap between the logging industry and environmentalists?
+
+544
+00:42:45,701 --> 00:42:47,700
+Both camps are hopeful.
+
+545
+00:42:47,701 --> 00:42:53,340
+are hopeful, but their enduring struggle seems destined to escalate at the same rate as our
+
+546
+00:42:53,341 --> 00:42:55,398
+global appetite for wood.
+
+547
+00:42:55,399 --> 00:43:00,420
+Policymakers will have to balance our needs as consumers with
+
+548
+00:43:00,421 --> 00:43:03,140
+our concerns for the health of our forests.
+
+549
+00:43:03,141 --> 00:43:05,497
+Right now, it's at a stalemate.
+
+550
+00:43:05,498 --> 00:43:09,680
+And until we have some charismatic leaders come forward
+
+551
+00:43:09,681 --> 00:43:14,940
+from the environmental community and from the timber industry and the agencies that
+
+552
+00:43:14,941 --> 00:43:18,780
+manage our public lands, we're not going to have a resolution of the conflict.
+
+553
+00:43:19,580 --> 00:43:24,460
+Most environmentalists recognize that we all need to use wood and they don't want to say
+
+554
+00:43:24,461 --> 00:43:29,578
+stop logging even though there will be a few that have that extreme view.
+
+555
+00:43:29,579 --> 00:43:31,260
+But the vast majority of
+
+556
+00:43:31,261 --> 00:43:37,500
+environmental groups recognize that responsible forest management can provide wood products that
+
+557
+00:43:37,501 --> 00:43:44,247
+we all need. We need to be able to go to the lumber yard and buy two by four.
+
+558
+00:43:44,248 --> 00:43:44,948
+We need
+
+559
+00:43:44,949 --> 00:43:46,960
+We need to be able to put up houses.
+
+560
+00:43:46,961 --> 00:43:49,660
+But we don't need to clear cut the way we used to.
+
+561
+00:43:49,661 --> 00:43:53,500
+We don't need to destroy the wilderness the way we used to.
+
+562
+00:43:53,501 --> 00:43:55,240
+So we need some moderation.
+
+563
+00:43:55,241 --> 00:43:57,160
+We need government control.
+
+564
+00:43:57,161 --> 00:44:01,260
+John Muir said that Uncle Sam was the only one who could preserve the forest,
+
+565
+00:44:01,261 --> 00:44:03,860
+and he was absolutely right.
+
+566
+00:44:03,861 --> 00:44:06,560
+If the past is prologue,
+
+567
+00:44:06,561 --> 00:44:12,400
+loggers will continue to meet our insatiable demand for wood with imagination and innovation.
+
+568
+00:44:12,401 --> 00:44:16,200
+In a complex world that strives to revere nature as well as exploit it,
+
+569
+00:44:16,740 --> 00:44:19,440
+their challenge will be to defy the popular saying
+
+570
+00:44:20,880 --> 00:44:23,520
+and always see the forest for the trees.
+
+571
+00:44:25,580 --> 00:44:29,360
+The way to here, here, and here goes through here.
+
+572
+00:44:29,660 --> 00:44:32,080
+The Lumberyard, where big things start.
+
+573
+00:44:32,860 --> 00:44:35,320
+Floating, cutting, shaping, and chipping.
+
+574
+00:44:35,560 --> 00:44:40,000
+In this vast, noisy complex, the mighty tools don't take breaks.
+
+575
+00:44:40,001 --> 00:44:44,040
+The Lumberyard on Modern Marbles, next on the History Channel.
+

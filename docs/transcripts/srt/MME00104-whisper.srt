@@ -1,0 +1,2228 @@
+1
+00:00:00,001 --> 00:00:06,000
+From the thick of battle to the edge of disaster,
+
+2
+00:00:06,001 --> 00:00:11,000
+experience the impossible from the safety of your virtual driver's seat.
+
+3
+00:00:30,000 --> 00:00:44,000
+Simulators date back to the 1930s, when they were invented as a cheap way to learn how
+
+4
+00:00:48,400 --> 00:00:49,400
+to fly.
+
+5
+00:00:49,401 --> 00:00:57,320
+Today, they are everywhere, from cutting-edge military hardware to the latest attraction
+
+6
+00:00:57,321 --> 00:01:01,600
+at the local arcade.
+
+7
+00:01:01,601 --> 00:01:07,640
+At the United Airlines Flight Center in Denver, Colorado, 36 mammoth simulators provide a
+
+8
+00:01:07,641 --> 00:01:14,320
+flying experience so realistic it's easy to forget you're still on the ground.
+
+9
+00:01:14,321 --> 00:01:19,320
+Wind shear, wind shear, wind shear.
+
+10
+00:01:19,321 --> 00:01:25,320
+Landing gear is down here.
+
+11
+00:01:25,321 --> 00:01:27,160
+Let's take the flaps to 20.
+
+12
+00:01:28,120 --> 00:01:29,360
+124 knots.
+
+13
+00:01:29,540 --> 00:01:30,420
+2,000 down.
+
+14
+00:01:31,520 --> 00:01:32,380
+1,000 feet.
+
+15
+00:01:33,320 --> 00:01:35,720
+It is very, very much like flying an airplane.
+
+16
+00:01:36,320 --> 00:01:39,940
+I'd say on a scale of 100, about 99.9.
+
+17
+00:01:40,340 --> 00:01:41,820
+It's amazing how good they are.
+
+18
+00:01:42,440 --> 00:01:44,560
+When you experience a ride in the simulator,
+
+19
+00:01:44,980 --> 00:01:46,640
+you feel like you're in an airplane,
+
+20
+00:01:46,780 --> 00:01:48,680
+and you really can't distinguish the difference.
+
+21
+00:01:48,900 --> 00:01:50,520
+We can do things in the simulator
+
+22
+00:01:50,521 --> 00:01:52,300
+that we'd never do in an airplane.
+
+23
+00:01:52,301 --> 00:01:54,319
+We don't like how it occurred.
+
+24
+00:01:54,320 --> 00:01:59,300
+We simply put the simulator back at the end of the runway and do it again.
+
+25
+00:01:59,301 --> 00:02:04,300
+Today, most pilots do all their training on a simulator.
+
+26
+00:02:04,301 --> 00:02:12,300
+We can train crews now from their first day on the airplane through their final licensing and certification,
+
+27
+00:02:12,301 --> 00:02:16,300
+such that their first flight is a revenue flight.
+
+28
+00:02:16,301 --> 00:02:21,700
+flight.
+
+29
+00:02:21,701 --> 00:02:27,300
+The history of this remarkable device dates back to the early days of flight itself.
+
+30
+00:02:27,301 --> 00:02:32,160
+During the First World War, both the French and British came up with several curious devices
+
+31
+00:02:32,161 --> 00:02:38,440
+to train pilots, including the wingless penguin that taxied but never took off, and a half
+
+32
+00:02:38,441 --> 00:02:42,180
+barrel with wings called the Antoinette.
+
+33
+00:02:42,181 --> 00:02:47,180
+The Ruggles Orientator was used by the French for testing pilots for the right stuff.
+
+34
+00:02:50,180 --> 00:02:54,180
+In the US, not even these devices were available.
+
+35
+00:02:54,181 --> 00:03:00,180
+Lessons in a real plane cost $50 an hour for what was often no more than a harrowing joyride.
+
+36
+00:03:02,180 --> 00:03:08,180
+Ed Link, a young pilot from Binghampton, New York, decided there had to be a better way.
+
+37
+00:03:08,181 --> 00:03:16,680
+Ed was a pilot, a barnstormer, back in the days when people wing walked.
+
+38
+00:03:16,681 --> 00:03:21,800
+His father was an inventor and producer of theater organs.
+
+39
+00:03:21,801 --> 00:03:25,720
+And these were the big organs that were used in silent movie theaters.
+
+40
+00:03:25,721 --> 00:03:33,360
+And Ed found himself with a lot of inventory of old bellows and electro-mechanical devices
+
+41
+00:03:33,361 --> 00:03:36,000
+from his father's organ factory.
+
+42
+00:03:36,001 --> 00:03:40,000
+and actually used a lot of that technology to put together his first trainer.
+
+43
+00:03:42,000 --> 00:03:46,000
+In 1929, Link patented his first pilot trainer.
+
+44
+00:03:46,001 --> 00:03:52,000
+It was a cockpit mounted on top of four bellows that expanded and contracted to provide motion.
+
+45
+00:03:52,001 --> 00:03:56,000
+It could bank, tilt and even spin around.
+
+46
+00:04:00,000 --> 00:04:05,000
+It was intended to be a training device, a cheap way to learn how to fly.
+
+47
+00:04:05,001 --> 00:04:13,000
+But to Link's dismay, the only buyers were amusement parks, where his pilot trainer became just another novelty ride.
+
+48
+00:04:15,000 --> 00:04:18,000
+Determined, Link set up his own flight school.
+
+49
+00:04:19,000 --> 00:04:23,000
+For a flat fee of $85, he'd teach you how to fly, guaranteed.
+
+50
+00:04:24,000 --> 00:04:29,000
+Unfortunately, the Great Depression was in full swing, and even $85 was a lot of money.
+
+51
+00:04:29,001 --> 00:04:29,701
+of money.
+
+52
+00:04:29,702 --> 00:04:36,360
+Then in 1934 an antitrust decision forced commercial aeroplane makers out of the air mail
+
+53
+00:04:36,361 --> 00:04:40,840
+business and the job of flying the mail was handed over to the Army Air Corps.
+
+54
+00:04:41,720 --> 00:04:45,560
+In their first few days of operation five planes crashed.
+
+55
+00:04:52,360 --> 00:04:55,800
+They were having a terrible time trying to deliver the mail and people were flying in
+
+56
+00:04:55,801 --> 00:04:58,960
+in the mountains and getting lost in storms.
+
+57
+00:04:58,961 --> 00:05:03,080
+In the 30s, most pilots flew by the seat of their pants,
+
+58
+00:05:03,081 --> 00:05:06,640
+depending on their senses rather than their instruments.
+
+59
+00:05:06,641 --> 00:05:09,920
+This required being able to at least see the horizon.
+
+60
+00:05:09,921 --> 00:05:13,360
+Darkness or storm clouds created an unusual and very
+
+61
+00:05:13,361 --> 00:05:16,700
+dangerous problem.
+
+62
+00:05:16,701 --> 00:05:18,460
+The problem with that is something we call
+
+63
+00:05:18,461 --> 00:05:19,700
+spatial disorientation.
+
+64
+00:05:19,701 --> 00:05:24,880
+You have inter-ear sensations that can get very confused
+
+65
+00:05:24,881 --> 00:05:29,520
+when you lose a natural horizon and you can end up thinking you are climbing, diving,
+
+66
+00:05:29,680 --> 00:05:31,960
+turning, and in fact that is not what you're doing at all.
+
+67
+00:05:33,080 --> 00:05:37,980
+Suddenly, there was an urgent need to teach experienced pilots how to fly by instruments,
+
+68
+00:05:38,400 --> 00:05:40,280
+and Ed Link seized the opportunity.
+
+69
+00:05:41,480 --> 00:05:46,380
+He installed a compass and a turn and bank indicator into his pilot trainers,
+
+70
+00:05:46,381 --> 00:05:50,180
+whose motion caused them to respond just as they would in flight.
+
+71
+00:05:50,181 --> 00:05:57,000
+For extra measure, he added a hood so the pilot would be forced to fly blind.
+
+72
+00:05:57,900 --> 00:06:01,820
+The Army was interested, but they wanted to see the trainer in action.
+
+73
+00:06:02,660 --> 00:06:06,560
+They had set up a demonstration out down in Fort Monmouth, New Jersey.
+
+74
+00:06:07,340 --> 00:06:10,380
+And it was bad weather. They said he wasn't going to be able to arrive.
+
+75
+00:06:10,940 --> 00:06:17,260
+And lo and behold, perfect salesman, he landed his airplane and demonstrated to the Army Air Corps
+
+76
+00:06:17,261 --> 00:06:21,300
+and got the first order for, as I recall, six trainers at that time.
+
+77
+00:06:22,300 --> 00:06:26,760
+By the end of 1934, the first commercially successful flight simulator
+
+78
+00:06:26,761 --> 00:06:30,760
+went into production at Link's small plant at Binghampton, New York.
+
+79
+00:06:31,460 --> 00:06:34,540
+Its acceptance by pilots, however, was another matter.
+
+80
+00:06:36,740 --> 00:06:40,120
+Pilots didn't really care for those. They considered them torture boxes.
+
+81
+00:06:40,540 --> 00:06:43,260
+They weren't air-conditioned. They had a small vent fan.
+
+82
+00:06:43,261 --> 00:06:47,240
+But I guarantee you that at the end of a simulator training period in those days,
+
+83
+00:06:47,260 --> 00:06:49,900
+you came out physically exhausted.
+
+84
+00:06:51,820 --> 00:06:53,780
+With the bombing of Pearl Harbor
+
+85
+00:06:53,781 --> 00:06:56,560
+and the entry of the U.S. into the Second World War,
+
+86
+00:06:56,920 --> 00:07:00,340
+a massive and immediate demand for trained pilots was created.
+
+87
+00:07:06,480 --> 00:07:08,440
+Nearly half a million civilians
+
+88
+00:07:08,441 --> 00:07:11,200
+got their first taste of flying in link simulators,
+
+89
+00:07:11,680 --> 00:07:14,020
+which they affectionately called blue boxes.
+
+90
+00:07:14,021 --> 00:07:19,280
+There were hundreds and hundreds produced of the so-called blue box.
+
+91
+00:07:19,640 --> 00:07:22,920
+Thousands of pilots were trained in link boxes.
+
+92
+00:07:24,040 --> 00:07:27,140
+Other tasks called for more specialized skills.
+
+93
+00:07:28,080 --> 00:07:33,980
+Because bomber crews flew many of their missions at night, they needed to learn how to navigate by the stars.
+
+94
+00:07:34,120 --> 00:07:37,280
+They didn't have all the electronic ground positioning systems.
+
+95
+00:07:37,400 --> 00:07:39,560
+They were still using celestial navigation.
+
+96
+00:07:39,561 --> 00:07:51,820
+So the company was put under contract to design and build a very, very sophisticated, very accurate simulation of the celestial sphere.
+
+97
+00:07:53,500 --> 00:08:02,480
+With its rotating ceiling of stars, the celestial navigation trainer allowed an entire bomber crew to navigate and fly a simulated mission.
+
+98
+00:08:02,481 --> 00:08:10,140
+It was a real phenomenon in its time, optically correct, and it was quite an achievement.
+
+99
+00:08:12,360 --> 00:08:16,260
+During the war, the Navy began developing its own simulators,
+
+100
+00:08:16,760 --> 00:08:20,940
+establishing the special devices section under Commander Louis de Flores.
+
+101
+00:08:21,980 --> 00:08:29,580
+Louis de Flores was looking for means of training crews in a specific aircraft
+
+102
+00:08:29,581 --> 00:08:34,780
+that would go beyond the instrument flight trainer, which had a limited envelope of operation.
+
+103
+00:08:35,940 --> 00:08:43,740
+And De Flores took visits to England, in which he saw a trainer there, developed by the British, called the Siloth trainer.
+
+104
+00:08:45,000 --> 00:08:52,580
+The Siloth inspired De Flores to develop a trainer for another specific plane, the PBM, that was used to hunt for U-boats.
+
+105
+00:08:53,380 --> 00:08:58,400
+Because the Navy's fleet of PBMs were busy searching for subs, few could be spared for training.
+
+106
+00:08:59,580 --> 00:09:09,080
+Working with Bell Labs, De Flores group built a simulator radically different from Link's
+
+107
+00:09:09,081 --> 00:09:09,781
+blue box.
+
+108
+00:09:09,782 --> 00:09:15,060
+Instead of a few simple instruments, it included virtually every system aboard
+
+109
+00:09:15,061 --> 00:09:18,860
+the aircraft, all interconnected by an analog computer.
+
+110
+00:09:18,861 --> 00:09:23,220
+In those days, computer technology was just emerging.
+
+111
+00:09:23,221 --> 00:09:26,100
+In fact, many of the computers were
+
+112
+00:09:26,101 --> 00:09:30,980
+relegated to research laboratories. They hadn't found their way into commercial or
+
+113
+00:09:30,981 --> 00:09:36,220
+industrial applications yet. But the technology was there. It had to be applied.
+
+114
+00:09:36,221 --> 00:09:39,620
+Largely due to its increased size,
+
+115
+00:09:39,621 --> 00:09:44,220
+the PBM trainer was stationary. It didn't tilt or spin like the old link
+
+116
+00:09:44,221 --> 00:09:44,921
+trainers,
+
+117
+00:09:44,922 --> 00:09:47,480
+but it did have one major improvement.
+
+118
+00:09:47,481 --> 00:09:52,040
+It could break down.
+
+119
+00:09:52,041 --> 00:09:57,040
+The instructor had a control board full of emergencies he could trigger with the flick of a switch.
+
+120
+00:09:57,041 --> 00:10:02,040
+You could fail each one of the fuel pumps, you could fail each one of the transfer valves.
+
+121
+00:10:02,041 --> 00:10:07,040
+If there were gauges that told about fuel quantity, you could fail the gauges,
+
+122
+00:10:07,041 --> 00:10:11,040
+so that they thought they had no fuel but they actually had fuel.
+
+123
+00:10:11,041 --> 00:10:16,040
+So what this did is take all of the material they'd learned in classrooms about the airplane
+
+124
+00:10:16,041 --> 00:10:21,040
+and about their crew functions and put them in an actual situation where they could do it.
+
+125
+00:10:21,041 --> 00:10:22,218
+they could do it.
+
+126
+00:10:22,219 --> 00:10:26,860
+They could see it, they could hear it, they could feel it, and they
+
+127
+00:10:26,861 --> 00:10:30,086
+would respond to the situation that was occurring.
+
+128
+00:10:30,087 --> 00:10:32,860
+So it gave them the reality of being there.
+
+129
+00:10:32,861 --> 00:10:38,036
+In fact, there are stories about people who were carried away.
+
+130
+00:10:38,037 --> 00:10:40,040
+They were so involved in
+
+131
+00:10:40,041 --> 00:10:44,800
+the emergencies that existed in a simulator, they said, let's abandon the airplane.
+
+132
+00:10:44,801 --> 00:10:51,560
+It was this ability to confront pilots with controlled malfunctions
+
+133
+00:10:51,561 --> 00:10:55,880
+that was to give simulators a permanent place in aviation history.
+
+134
+00:11:14,800 --> 00:11:20,040
+Here
+
+135
+00:11:20,041 --> 00:11:25,280
+Here
+
+136
+00:11:25,281 --> 00:11:26,840
+VH1.
+
+137
+00:11:27,280 --> 00:11:28,020
+Panoapola.
+
+138
+00:11:28,300 --> 00:11:29,000
+Music.
+
+139
+00:11:29,300 --> 00:11:30,120
+Apoquitika.
+
+140
+00:11:30,240 --> 00:11:30,940
+St. Nova.
+
+141
+00:12:11,057 --> 00:12:18,060
+The end of the Second World War saw the arrival of a new era of larger, faster commercial airlines.
+
+142
+00:12:18,061 --> 00:12:23,060
+To train pilots on new model passenger planes like the jet-propelled DC-8,
+
+143
+00:12:23,061 --> 00:12:28,060
+the airline industry began using simulators designed for those specific planes.
+
+144
+00:12:30,060 --> 00:12:33,060
+They were a great leap forward, no question about that,
+
+145
+00:12:33,061 --> 00:12:36,060
+because they did model the exact cockpits of different aircraft.
+
+146
+00:12:36,061 --> 00:12:39,060
+More of the actual aircraft instrumentation was present.
+
+147
+00:12:39,061 --> 00:12:43,060
+With that instrumentation, you now knew what your engines were doing,
+
+148
+00:12:43,061 --> 00:12:46,060
+what your different systems of the airplane were doing,
+
+149
+00:12:46,061 --> 00:12:50,060
+and you could really expand the area that you were able to train in
+
+150
+00:12:50,061 --> 00:12:52,640
+more than just hand flying the airplane.
+
+151
+00:12:54,400 --> 00:12:57,800
+Their one major drawback was that they flew blind.
+
+152
+00:13:00,100 --> 00:13:02,760
+We didn't have the visual systems that we have now.
+
+153
+00:13:03,140 --> 00:13:04,560
+They had black windows, really.
+
+154
+00:13:04,840 --> 00:13:09,240
+One of the first things that was tried was a point of light on a slit
+
+155
+00:13:09,241 --> 00:13:12,040
+to represent a runway on a screen.
+
+156
+00:13:12,041 --> 00:13:15,040
+When television came about, it was illogical.
+
+157
+00:13:15,041 --> 00:13:19,040
+Let's use television technology to do our visual systems.
+
+158
+00:13:20,040 --> 00:13:23,040
+They attached a TV camera to a moving track
+
+159
+00:13:23,041 --> 00:13:26,040
+that was suspended above a huge model landscape.
+
+160
+00:13:26,041 --> 00:13:29,040
+Guided by the simulator's flight controls,
+
+161
+00:13:29,041 --> 00:13:33,040
+the camera sent pictures to a monitor mounted outside the cockpit.
+
+162
+00:13:33,041 --> 00:13:38,040
+You'd have a model of the real world, little trees, little houses.
+
+163
+00:13:38,041 --> 00:13:40,040
+They were very massive devices.
+
+164
+00:13:40,041 --> 00:13:42,040
+They had to have gantries.
+
+165
+00:13:42,041 --> 00:13:45,040
+They had to move those gantries around precisely.
+
+166
+00:13:45,041 --> 00:13:47,040
+It didn't work too well.
+
+167
+00:13:47,041 --> 00:13:50,040
+First of all, it had a very narrow field of view.
+
+168
+00:13:50,041 --> 00:13:53,040
+Pilots have a wide field of view.
+
+169
+00:13:53,041 --> 00:13:56,040
+So when you restrict their field of view,
+
+170
+00:13:56,041 --> 00:13:59,040
+you're not giving them the same characteristics
+
+171
+00:13:59,041 --> 00:14:02,040
+they'd have when they were flying the airplanes.
+
+172
+00:14:02,041 --> 00:14:04,040
+At McGuire Air Force Base, the newest thing
+
+173
+00:14:04,041 --> 00:14:07,040
+in flight simulators goes operational.
+
+174
+00:14:07,041 --> 00:14:14,040
+It's the first simulator to utilize a digital computer allowing automatic programming of flight situations.
+
+175
+00:14:14,041 --> 00:14:21,040
+In the early 60s, simulators were being built that replaced analog computers with digital ones.
+
+176
+00:14:21,041 --> 00:14:30,040
+The problem with analog computers was that they were all hardware, even small changes entailed changing parts inside the computer itself.
+
+177
+00:14:30,041 --> 00:14:33,078
+It was just like designing an airplane.
+
+178
+00:14:33,079 --> 00:14:44,530
+Now if you found out later on that what you had designed was incorrect, you had to change the design of the computer, which was not a trivial task.
+
+179
+00:14:44,531 --> 00:14:46,400
+It took time and effort.
+
+180
+00:14:46,401 --> 00:14:57,400
+With digital computers, modelling how a specific plane behaved became a software problem, saving time, expense and vastly improving precision and accuracy.
+
+181
+00:14:57,401 --> 00:15:06,400
+Digital computers also have the power to simulate motion using a hydraulic base that was far more realistic than the old link trainers.
+
+182
+00:15:06,401 --> 00:15:13,400
+The computer gave us the ability to induce the senses that you would feel in the airplane,
+
+183
+00:15:13,401 --> 00:15:16,400
+the g-forces, acceleration, deceleration.
+
+184
+00:15:16,401 --> 00:15:19,400
+All of those things now were able to be replicated.
+
+185
+00:15:19,401 --> 00:15:22,400
+We weren't fearful of inducing the wrong sensation.
+
+186
+00:15:22,401 --> 00:15:25,400
+The sensation would match what the airplane was doing.
+
+187
+00:15:28,400 --> 00:15:33,400
+But far and away the most advanced simulator of the 1960s
+
+188
+00:15:33,401 --> 00:15:37,400
+was the one built by the Link Corporation for the Apollo Moon mission.
+
+189
+00:15:38,600 --> 00:15:46,520
+The Apollo mission simulator had to simulate every aspect of life on board an Apollo.
+
+190
+00:15:46,521 --> 00:15:52,360
+It would have been difficult to design the simulator if all of the design data had already been complete and available
+
+191
+00:15:53,080 --> 00:15:56,299
+to be handed over to the simulator designers.
+
+192
+00:15:56,300 --> 00:15:59,160
+But when the design is evolving in time,
+
+193
+00:15:59,161 --> 00:16:03,240
+We were trying to design a really, really complex simulator.
+
+194
+00:16:03,780 --> 00:16:05,760
+The problems become monumental.
+
+195
+00:16:06,960 --> 00:16:10,080
+All of those darn on-board computers had to be simulated.
+
+196
+00:16:10,460 --> 00:16:14,860
+And worst of all, all of the external visual scene had to be simulated.
+
+197
+00:16:17,280 --> 00:16:20,800
+Video images of enormous models of the Earth and the Moon
+
+198
+00:16:20,801 --> 00:16:24,920
+were transmitted to monitors positioned outside the space capsule's windows.
+
+199
+00:16:24,921 --> 00:16:28,080
+It was an exact replica of the spacecraft,
+
+200
+00:16:28,081 --> 00:16:33,220
+including all the stowage, we would have all of the maps, all of the clothing,
+
+201
+00:16:33,560 --> 00:16:37,120
+everything you had in flight was simulated in its location.
+
+202
+00:16:37,880 --> 00:16:42,880
+Every aspect of the mission, including landing and walking on the moon, was simulated.
+
+203
+00:16:43,860 --> 00:16:46,840
+For the major simulations, everybody was on station
+
+204
+00:16:46,841 --> 00:16:50,740
+because everyone was learning their role, how to communicate.
+
+205
+00:16:50,880 --> 00:16:53,500
+One of the most difficult things when you have this many people
+
+206
+00:16:53,501 --> 00:16:56,520
+right around the world all trying to work on one problem,
+
+207
+00:16:56,521 --> 00:17:01,180
+So you have to learn how to exchange information quickly and succinctly.
+
+208
+00:17:02,180 --> 00:17:04,700
+When asked what it was like to go to the moon,
+
+209
+00:17:05,220 --> 00:17:08,980
+Neil Armstrong is said to have replied, it was just like the simulator.
+
+210
+00:17:08,981 --> 00:17:10,620
+I'm going to step off the lam now.
+
+211
+00:17:11,600 --> 00:17:16,280
+That's one small step for man, one giant leap for mankind.
+
+212
+00:17:17,840 --> 00:17:24,340
+But one of the simulator's greatest moments came with the events that began on April the 13th, 1970.
+
+213
+00:17:24,341 --> 00:17:31,340
+Just as Apollo 13 was about to enter lunar orbit, an onboard oxygen tank exploded.
+
+214
+00:17:31,341 --> 00:17:34,340
+Okay, Houston, we've had a problem here.
+
+215
+00:17:34,341 --> 00:17:36,340
+Houston, we've had a problem.
+
+216
+00:17:36,341 --> 00:17:38,340
+The bus waterfall.
+
+217
+00:17:38,341 --> 00:17:40,340
+We may have had an instrumentation problem, Flight.
+
+218
+00:17:40,341 --> 00:17:41,340
+Roger.
+
+219
+00:17:41,341 --> 00:17:47,340
+And we had a pretty large bang associated with the caution and warning there.
+
+220
+00:17:47,341 --> 00:17:52,340
+Astronaut Ken Mattingly had been pulled from the Apollo 13 crew just days before launch
+
+221
+00:17:52,341 --> 00:17:55,340
+because of concern over his exposure to measles.
+
+222
+00:17:55,341 --> 00:17:58,340
+He was in mission control when the disaster occurred.
+
+223
+00:18:00,340 --> 00:18:04,340
+Jim reported that there's stuff pouring out of the side of the spacecraft.
+
+224
+00:18:04,341 --> 00:18:08,340
+We don't know what happened. We do know we're losing oxygen.
+
+225
+00:18:08,341 --> 00:18:13,340
+We know that it's escaping, the pressures in the tanks are all dropping precipitously,
+
+226
+00:18:13,341 --> 00:18:16,340
+The electrical power is starting to fall off the line.
+
+227
+00:18:16,341 --> 00:18:21,340
+And what caused it wasn't as important as what do you do now.
+
+228
+00:18:22,340 --> 00:18:24,340
+They were fresh out of ideas.
+
+229
+00:18:24,341 --> 00:18:29,340
+They needed to get the crew out of the command module and into the lunar module.
+
+230
+00:18:30,340 --> 00:18:34,340
+About that time somebody remembered an earlier simulation.
+
+231
+00:18:36,340 --> 00:18:41,340
+Throughout the entire crisis, the simulator became a testbed for ideas and solutions.
+
+232
+00:18:41,341 --> 00:18:46,140
+and solutions. We've tried to simulate virtually everything that we've had the
+
+233
+00:18:46,141 --> 00:18:52,140
+crew to do that is non-normal. Quickly the astronauts moved into the
+
+234
+00:18:52,141 --> 00:18:58,020
+relative safety of the lunar module. They moved people into there and the idea
+
+235
+00:18:58,021 --> 00:19:01,920
+was to get the electrical loads off the command module so that the batteries
+
+236
+00:19:01,921 --> 00:19:07,240
+could be protected so they could use them for entry. The only vehicle that you
+
+237
+00:19:07,241 --> 00:19:10,865
+can re-enter the atmosphere with is the command module itself.
+
+238
+00:19:10,866 --> 00:19:12,560
+It's got batteries in it that
+
+239
+00:19:12,561 --> 00:19:17,380
+are good for about two hours under normal conditions.
+
+240
+00:19:17,381 --> 00:19:21,380
+Now they had to get back on course to Earth.
+
+241
+00:19:21,381 --> 00:19:25,880
+They're a hundred and some odd thousand miles from Earth, going away from the Earth and
+
+242
+00:19:25,881 --> 00:19:28,630
+not coming back to an entry condition.
+
+243
+00:19:28,631 --> 00:19:31,960
+And so they had to devise a crude way of doing
+
+244
+00:19:31,961 --> 00:19:38,120
+maneuver to get it back on track but now without the aid of the spacecraft's normal computer and
+
+245
+00:19:38,121 --> 00:19:44,760
+its normal inertial reference using the sun as a reference the astronauts were able to adjust their
+
+246
+00:19:44,761 --> 00:19:50,840
+course enough to get them pointed back to earth at mission control the ground team struggled with
+
+247
+00:19:50,841 --> 00:19:57,560
+the next problem devising a procedure for repowering the command module so the astronauts could re-enter
+
+248
+00:19:57,561 --> 00:19:58,880
+the Earth's atmosphere.
+
+249
+00:19:58,881 --> 00:20:02,840
+It was a long, complex procedure which took people all over the country,
+
+250
+00:20:02,841 --> 00:20:08,920
+contributing to just a running series of debates and discussions about how to do it,
+
+251
+00:20:08,921 --> 00:20:13,600
+until they finally came up with a plan which seemed to fit the power budget.
+
+252
+00:20:13,601 --> 00:20:19,200
+To ensure their plan would work, they tested it on a backup crew in the simulator.
+
+253
+00:20:19,201 --> 00:20:22,800
+We just had someone read it to them.
+
+254
+00:20:22,801 --> 00:20:32,120
+And when they found some statement was not clear or they thought it meant something other than what we did, why they breadlined it, we made those corrections and then
+
+255
+00:20:32,121 --> 00:20:33,860
+we read it up the flight group.
+
+256
+00:20:33,861 --> 00:20:36,860
+I've seen they've done a hell of a long time without explaining.
+
+257
+00:20:36,861 --> 00:20:43,860
+Simulators are designed, for the most part, to simulate things when conditions are okay.
+
+258
+00:20:43,861 --> 00:20:48,860
+And when malfunctions start to occur, you start to lose some confidence that you've captured
+
+259
+00:20:48,861 --> 00:20:54,860
+all of the characteristics and all of the things that can happen as a result of malfunctions.
+
+260
+00:20:54,861 --> 00:20:56,860
+That made people very nervous.
+
+261
+00:20:57,860 --> 00:21:02,860
+For the next three days, the Apollo 13 crew made its way back to Earth.
+
+262
+00:21:02,861 --> 00:21:07,860
+The world held its breath as they began their re-entry into the atmosphere.
+
+263
+00:21:10,860 --> 00:21:13,860
+It seemed like an eternity because
+
+264
+00:21:13,861 --> 00:21:17,860
+it was the first time you looked up and said, is it going to work?
+
+265
+00:21:24,860 --> 00:21:29,860
+In the picture in the control setter, you looked up in the sky and saw these parachutes.
+
+266
+00:21:29,861 --> 00:21:34,860
+It was an emotional release like you just can't imagine.
+
+267
+00:21:44,860 --> 00:21:50,860
+My personal opinion, had we not had these enormous integrated simulations that built this teamwork,
+
+268
+00:21:50,861 --> 00:21:52,860
+it wouldn't have come out this way.
+
+269
+00:21:52,861 --> 00:21:55,860
+On the other hand, we couldn't have gotten to the moon without it.
+
+270
+00:21:55,861 --> 00:22:04,642
+To the extent that there were skeptics in the world at the time, and there were, who wanted to go fly the airplane instead or whatever, I think probably a lot of them
+
+271
+00:22:04,643 --> 00:22:05,700
+were made believers.
+
+272
+00:22:06,840 --> 00:22:13,160
+It also inspired a new generation of engineers to come up with ways to bring simulators down to earth.
+
+273
+00:22:43,160 --> 00:22:47,160
+It's just amazing that one person would do to another.
+
+274
+00:22:47,161 --> 00:22:53,160
+The First 48, double the drama of 24, Wednesday at 10 past 11 on The History Channel.
+
+275
+00:23:13,160 --> 00:23:19,400
+Cartoon Network.
+
+276
+00:23:19,800 --> 00:23:22,840
+Come to the magical world of the human plans.
+
+277
+00:23:23,360 --> 00:23:24,080
+Only in the OVA.
+
+278
+00:23:43,160 --> 00:23:49,440
+to Israel and its allies for the next eight years, forcing ships to navigate thousands
+
+279
+00:23:49,441 --> 00:23:52,480
+of extra miles around the Horn of Africa.
+
+280
+00:23:52,481 --> 00:23:58,640
+At that time, those who carried energy around the world in ships realized they had to find
+
+281
+00:23:58,641 --> 00:24:01,860
+another way to get from here to there.
+
+282
+00:24:01,861 --> 00:24:07,880
+The answer was supertankers, immense vessels that dwarfed anything that had come before.
+
+283
+00:24:07,881 --> 00:24:12,780
+They could use the same engineering plant and the same number of people and build a
+
+284
+00:24:12,781 --> 00:24:17,780
+much larger ship and doubled and tripled and quadrupled its size.
+
+285
+00:24:17,781 --> 00:24:23,780
+But with these monstrous ships came monster problems.
+
+286
+00:24:23,781 --> 00:24:29,780
+In March 1967, the supertanker Torrey Canyon went aground near the English Channel,
+
+287
+00:24:29,781 --> 00:24:33,780
+spilling 30 million gallons of crude oil into the sea.
+
+288
+00:24:33,781 --> 00:24:37,780
+Handling a supertanker was not like handling a smaller ship.
+
+289
+00:24:37,781 --> 00:24:40,780
+They were dealing with an unknown. They'd never had ships that big before.
+
+290
+00:24:40,781 --> 00:24:44,780
+The question was, how do you train people to drive them?
+
+291
+00:24:44,781 --> 00:24:48,380
+One answer was found on a lake in southern France
+
+292
+00:24:48,381 --> 00:24:52,980
+at the Port Revelle Marine Training Center, where scale model ships navigated
+
+293
+00:24:52,981 --> 00:24:54,380
+scale model seas.
+
+294
+00:24:54,381 --> 00:24:58,380
+It gives you a sense
+
+295
+00:24:58,381 --> 00:25:04,580
+of what the ship is going to do when you slow down, when you have to turn,
+
+296
+00:25:04,581 --> 00:25:09,480
+you can put down an anchor, and all the components of the model
+
+297
+00:25:09,481 --> 00:25:14,240
+are scaled so that the holding force of the anchor, for example,
+
+298
+00:25:14,740 --> 00:25:18,640
+is scaled 1 25th of what the actual anchor on the ship would be.
+
+299
+00:25:19,660 --> 00:25:21,720
+It was a remarkable achievement.
+
+300
+00:25:22,640 --> 00:25:26,020
+The channels in the lake, the miniature docks, the ships themselves,
+
+301
+00:25:26,420 --> 00:25:29,900
+everything but the people were designed to 1 25th scale.
+
+302
+00:25:29,901 --> 00:25:37,180
+The downside of that, in my opinion, is that if you run it a 1 25th size model,
+
+303
+00:25:37,181 --> 00:25:40,020
+you're running it at 1 25th of the time.
+
+304
+00:25:40,140 --> 00:25:42,960
+You're doing it much faster than you would be doing it
+
+305
+00:25:42,961 --> 00:25:47,200
+and so you tend to want to do it that way, I think, when you get on the real model.
+
+306
+00:25:48,560 --> 00:25:52,800
+Another approach taken by an American company, Marine Safety International,
+
+307
+00:25:53,220 --> 00:25:57,020
+used massive model boards similar to those used in flight trainers.
+
+308
+00:25:57,600 --> 00:26:01,440
+But they were soon to abandon models in favour of an emerging technology
+
+309
+00:26:01,441 --> 00:26:03,780
+called computer-generated graphics.
+
+310
+00:26:07,180 --> 00:26:16,180
+For the first time, digital computers have the speed and capacity to generate crude real-time visuals.
+
+311
+00:26:19,180 --> 00:26:28,180
+By the late 80s, these visual systems, now being used in flight simulators, ushered in the first generation of ships bridge simulators.
+
+312
+00:26:29,180 --> 00:26:34,180
+They featured 180-degree panoramic views, large enough to be seen by an entire crew.
+
+313
+00:26:34,181 --> 00:26:41,180
+The simulators that we have here can recreate any environmental conditions that you need,
+
+314
+00:26:41,181 --> 00:26:47,180
+whether it's high seas, whether it's strong winds, whether it's strong currents.
+
+315
+00:26:47,181 --> 00:26:52,180
+A bridge simulator can model anything from a supertanker to a battleship
+
+316
+00:26:52,181 --> 00:26:57,180
+and can sail into precisely detailed replicas of real-world harbors.
+
+317
+00:26:57,181 --> 00:27:02,180
+Most of the harbors that we use are the actual areas where the person would be going
+
+318
+00:27:02,181 --> 00:27:08,180
+and they must have the same visual cues that you would see.
+
+319
+00:27:08,181 --> 00:27:11,180
+Continue left, steer course 305.
+
+320
+00:27:11,181 --> 00:27:16,180
+A novice crew can practice taking their aircraft carrier into Singapore harbour
+
+321
+00:27:16,181 --> 00:27:19,180
+before they even set sail from San Diego.
+
+322
+00:27:19,181 --> 00:27:25,180
+Combat bridge out, coming right, steer course 310, increasing speed to 18 knots.
+
+323
+00:27:25,181 --> 00:27:30,180
+Ship simulators can even interact with other ship simulators.
+
+324
+00:27:30,181 --> 00:27:32,180
+Push this turn, pull to starboard.
+
+325
+00:27:34,180 --> 00:27:36,180
+On deck, the bridge, as soon as you get an opportunity...
+
+326
+00:27:36,181 --> 00:27:40,180
+They're all operating in the same water, same time, same conditions,
+
+327
+00:27:40,181 --> 00:27:42,180
+talking to one another.
+
+328
+00:27:45,180 --> 00:27:49,180
+When you're passing a point and you see your perspective on vessels passing,
+
+329
+00:27:49,181 --> 00:27:52,180
+you almost feel the room moving, so the visual display
+
+330
+00:27:52,181 --> 00:27:55,180
+really contributes to the realism of the exercise.
+
+331
+00:27:56,180 --> 00:27:59,180
+Other problems called for different solutions.
+
+332
+00:27:59,181 --> 00:28:06,180
+solutions. A single Trident submarine holds nearly 200 nuclear warheads.
+
+333
+00:28:06,181 --> 00:28:12,180
+A Trident submarine is almost two football fields long and it takes a long time to turn it.
+
+334
+00:28:12,181 --> 00:28:21,180
+Junior officers get their training on the submarine ship handling task on the job and that presents a lot of limitations,
+
+335
+00:28:21,181 --> 00:28:25,180
+foremost of which is that submarines don't come in and out of port very often.
+
+336
+00:28:25,181 --> 00:28:32,960
+When they do come into port, it's whatever environmental conditions or traffic pattern happens to be there at the time.
+
+337
+00:28:33,920 --> 00:28:40,100
+In the early 90s, the Navy began developing a headset-based simulator they called V-Sub.
+
+338
+00:28:41,040 --> 00:28:49,840
+We were trying to develop a virtual world that would make the trainee feel that he was really on a real submarine.
+
+339
+00:28:49,841 --> 00:28:58,000
+the look of a cloud, the sound of the wind, the rumbles from the engine of the submarine,
+
+340
+00:28:58,200 --> 00:29:02,440
+all of those combine to enhance that immersive effect.
+
+341
+00:29:02,960 --> 00:29:07,120
+With V-Sub, even the other members of the crew are simulated.
+
+342
+00:29:07,160 --> 00:29:09,660
+Recommend continuing right to course 155.
+
+343
+00:29:12,160 --> 00:29:14,840
+Helmbridge, continue right, steady course 155.
+
+344
+00:29:15,580 --> 00:29:18,580
+We use what's called a speaker-independent voice recognition system
+
+345
+00:29:18,581 --> 00:29:30,822
+When the trainee wished to ask a question of the navigator, a simulated navigator would come on and give him the answer to his position or the distance to a turn or
+
+346
+00:29:30,823 --> 00:29:35,600
+any other normal question that he would ask of a live navigator.
+
+347
+00:29:36,380 --> 00:29:40,340
+The trainee could do everything that he could do in a Trident submarine, but it could do it safely.
+
+348
+00:29:42,420 --> 00:29:45,780
+Another area where safety mattered was driving.
+
+349
+00:29:45,781 --> 00:29:52,780
+Since the 1950s, people have been trying to come up with a workable driving simulator.
+
+350
+00:29:52,781 --> 00:29:55,780
+The earliest driving simulation that I can recall,
+
+351
+00:29:55,781 --> 00:29:58,780
+and it was a chair like this with a steering wheel in front,
+
+352
+00:29:58,781 --> 00:30:02,780
+some instruments, and two pedals, a brake and accelerator.
+
+353
+00:30:02,781 --> 00:30:05,780
+If you tried to steer away from the situation,
+
+354
+00:30:05,781 --> 00:30:10,780
+you wouldn't get any response because the steering wheel was not connected to the film.
+
+355
+00:30:10,781 --> 00:30:13,780
+I lost interest within the first 15 minutes,
+
+356
+00:30:13,781 --> 00:30:17,660
+and it was essentially what do I got to do to get my driver's license I'll do it
+
+357
+00:30:17,661 --> 00:30:18,361
+just tell me
+
+358
+00:30:18,362 --> 00:30:24,240
+in response to the alarming rate of traffic deaths in the late 1970s
+
+359
+00:30:24,241 --> 00:30:28,380
+government regulators and car manufacturers began looking for ways to
+
+360
+00:30:28,381 --> 00:30:29,600
+make cars safer
+
+361
+00:30:29,601 --> 00:30:34,100
+when the problem they want to solve is how do they get the driver
+
+362
+00:30:34,101 --> 00:30:38,720
+in the loop in their design rather than having engineers just design something
+
+363
+00:30:38,721 --> 00:30:43,280
+have the driver contribute to it a simulator was the ideal platform for
+
+364
+00:30:43,281 --> 00:30:51,040
+that to test how drivers responded to new safety devices a german company daimler benz the makers
+
+365
+00:30:51,041 --> 00:30:57,440
+of mercedes decided to build the first true driving simulator the original concept was to
+
+366
+00:30:57,441 --> 00:31:04,640
+create a working environment that would trick the driver into feeling he was in an automobile
+
+367
+00:31:06,560 --> 00:31:12,080
+to their surprise they soon realized that in many ways a car was much more difficult to simulate
+
+368
+00:31:12,081 --> 00:31:13,137
+than an aeroplane.
+
+369
+00:31:13,138 --> 00:31:17,600
+One of the things that came out of the Daimler-Benz driving simulator was an
+
+370
+00:31:17,601 --> 00:31:22,470
+understanding of the complexity of the issues with driving simulation.
+
+371
+00:31:22,471 --> 00:31:24,000
+How difficult it is to
+
+372
+00:31:24,001 --> 00:31:27,524
+replicate real vehicle dynamics in real time.
+
+373
+00:31:27,525 --> 00:31:31,440
+How demanding a driver is, a common off-the-street
+
+374
+00:31:31,441 --> 00:31:34,082
+driver compared to an airline pilot.
+
+375
+00:31:34,083 --> 00:31:38,560
+They needed to get the driver to accept the driving situation
+
+376
+00:31:38,561 --> 00:31:43,440
+as real so that when you turn the steering wheel you get an immediate response as you would in a
+
+377
+00:31:43,441 --> 00:31:52,320
+real car not as if you would on the wheel of the queen mary the daimler bend simulator was successful
+
+378
+00:31:52,321 --> 00:31:59,200
+as a research tool but cost millions to build and maintain the next challenge was to design
+
+379
+00:31:59,201 --> 00:32:05,920
+a cheaper system for teaching people how to drive there were a few early simulators that tried to
+
+380
+00:32:05,921 --> 00:32:10,140
+to become commercially viable but they never really got the momentum going.
+
+381
+00:32:10,141 --> 00:32:11,040
+They were either
+
+382
+00:32:11,041 --> 00:32:15,760
+a little bit too expensive or a little underwhelming in their performance for what they wanted to
+
+383
+00:32:15,761 --> 00:32:16,461
+provide.
+
+384
+00:32:16,462 --> 00:32:22,280
+Only recently have driving simulators begun to hint at their true potential. Driving
+
+385
+00:32:22,281 --> 00:32:28,500
+simulation technology we've now evolved is so realistic it can provide about 90% of the experience
+
+386
+00:32:28,501 --> 00:32:30,095
+that you have in a real car.
+
+387
+00:32:30,096 --> 00:32:33,740
+We can have you driving in a snowstorm, in a click of a mouse we
+
+388
+00:32:33,741 --> 00:32:38,420
+We can have you driving in a rainstorm.
+
+389
+00:32:38,421 --> 00:32:41,060
+We can take you down a freeway.
+
+390
+00:32:41,061 --> 00:32:45,500
+We can interact with other vehicles.
+
+391
+00:32:45,501 --> 00:32:48,880
+What we found is that officers come out of this experience
+
+392
+00:32:48,881 --> 00:32:52,520
+shaking with a great deal of adrenaline pumped.
+
+393
+00:32:52,521 --> 00:32:55,420
+And they look at the replay, and they
+
+394
+00:32:55,421 --> 00:32:56,920
+understand where they went wrong.
+
+395
+00:32:56,921 --> 00:33:07,020
+Driving simulators are also being embraced by the trucking industry.
+
+396
+00:33:07,021 --> 00:33:12,140
+They need to understand the interaction on how to deal with a grey-haired old lady that
+
+397
+00:33:12,141 --> 00:33:15,740
+pulls in front of you and assumes that you can stop within 60 feet.
+
+398
+00:33:18,500 --> 00:33:22,660
+When drivers come out of the simulator, they understand what it's like to drive a truck.
+
+399
+00:33:22,661 --> 00:33:28,520
+They're not intimidated by climbing into this 18-wheeler and worrying about how they navigate on the road.
+
+400
+00:33:29,300 --> 00:33:37,660
+The future of driving simulators is NADS, National Advanced Driving Simulation Project, being built at the University of Iowa.
+
+401
+00:33:38,400 --> 00:33:43,280
+Like the original Dame LeBenz simulator, NADS is intended primarily for research.
+
+402
+00:33:44,080 --> 00:33:46,340
+Its moving dome houses a whole vehicle.
+
+403
+00:33:46,341 --> 00:33:51,340
+Inside the dome is a wrap-around scenario.
+
+404
+00:33:51,341 --> 00:33:57,340
+So anywhere you look you can actually see the visual image of where you're traveling.
+
+405
+00:33:57,341 --> 00:34:03,340
+With its near photorealistic visuals and the most sophisticated motion base ever built,
+
+406
+00:34:03,341 --> 00:34:07,340
+driving in NADS will feel almost exactly like driving.
+
+407
+00:34:11,340 --> 00:34:15,340
+But what about simulators that shoot back?
+
+408
+00:34:16,340 --> 00:34:20,860
+Until recently, learning how to fire a rifle involved firing a rifle.
+
+409
+00:34:21,420 --> 00:34:27,660
+In the 1970s, it occurred to Navy research engineer Al Marshall that there must be a better way.
+
+410
+00:34:27,860 --> 00:34:36,160
+I was really the first person that came up with the idea that you can put a laser emitter on a weapon that will simulate where the bullet is going.
+
+411
+00:34:37,380 --> 00:34:41,640
+Marshall took a combat rifle and attached a laser transmitter to it.
+
+412
+00:34:41,641 --> 00:34:52,552
+The laser energy emitted from the rifle would reflect off of that retroreflective material and the weapon itself would detect that returning laser beam and the
+
+413
+00:34:52,553 --> 00:34:54,542
+It also had a receiver on it.
+
+414
+00:34:54,543 --> 00:34:59,140
+information would be encoded whether or not you had hit the target.
+
+415
+00:35:01,040 --> 00:35:09,660
+Marshall realized that he could attach the receiver to other people, creating what became known as Miles Gear, the world's first laser tag.
+
+416
+00:35:11,640 --> 00:35:16,640
+He also in the late 70s and early 80s began to look at,
+
+417
+00:35:16,641 --> 00:35:19,640
+OK, how much of this technology that we're now using,
+
+418
+00:35:19,641 --> 00:35:22,640
+force on force outdoors, can we bring indoors?
+
+419
+00:35:22,641 --> 00:35:26,640
+We could get a much better feedback on weapon tracking performance.
+
+420
+00:35:26,641 --> 00:35:30,640
+How is the trainee holding his weapon? How is he aiming the weapon?
+
+421
+00:35:30,641 --> 00:35:32,640
+How does he recover from recoil?
+
+422
+00:35:32,641 --> 00:35:37,640
+While Marshall's team was working on ways to bring laser rifles indoors,
+
+423
+00:35:37,641 --> 00:35:42,640
+Commercial companies were also trying to build simulators for training marksmanship.
+
+424
+00:35:42,641 --> 00:35:47,640
+For a training device to be accepted for marksmanship training, for small arms training,
+
+425
+00:35:47,641 --> 00:35:51,640
+the level of fidelity of the weapon itself is absolutely critical.
+
+426
+00:35:51,641 --> 00:35:55,640
+It must look like the original weapon, it must perform like the original weapon,
+
+427
+00:35:55,641 --> 00:35:58,640
+the trigger must have the same trigger pull as the real weapon.
+
+428
+00:35:58,641 --> 00:36:06,640
+Today, inside of an average service rifle, there may be 20 or 25 feet of wire, 15 or 20 sensors.
+
+429
+00:36:06,641 --> 00:36:10,640
+Another challenge was coming up with something to shoot at.
+
+430
+00:36:10,641 --> 00:36:15,640
+Early systems had projected film scenarios, often starring the designers themselves.
+
+431
+00:36:15,641 --> 00:36:17,251
+The targets just came at you.
+
+432
+00:36:17,252 --> 00:36:20,640
+You would engage those targets and you would get scored hits.
+
+433
+00:36:20,641 --> 00:36:25,640
+But the targets didn't drop. They just kept coming. So you just kept shooting.
+
+434
+00:36:25,641 --> 00:36:30,640
+The arrival of digitized video allowed the use of video branching.
+
+435
+00:36:30,641 --> 00:36:35,640
+With a laser disc, you can actually bounce around the laser disc and pick different frames
+
+436
+00:36:35,641 --> 00:36:39,120
+in different segments of videotape to cause different reactions
+
+437
+00:36:39,121 --> 00:36:42,520
+as a result of the performance of the trainee. For instance,
+
+438
+00:36:42,521 --> 00:36:47,600
+if the gunner were to engage a target and put his weapon on that target, the target
+
+439
+00:36:47,601 --> 00:36:48,480
+would surrender.
+
+440
+00:36:48,481 --> 00:36:52,200
+Hands up now! Put your gun away, alright?
+
+441
+00:36:52,201 --> 00:36:55,200
+Police, put your hands up now!
+
+442
+00:36:55,201 --> 00:37:00,240
+With interactivity, weapon simulators could now teach not only how to shoot,
+
+443
+00:37:00,241 --> 00:37:05,240
+but when to shoot.
+
+444
+00:37:05,640 --> 00:37:09,500
+The next step was the weapons team engagement trainer.
+
+445
+00:37:09,501 --> 00:37:16,120
+The weapons team engagement trainer allowed multiple trainees to work together as a team for the first time.
+
+446
+00:37:17,120 --> 00:37:23,740
+It used a transmitter instead of hardwired cables, so trainees were free to move wherever they wanted.
+
+447
+00:37:24,680 --> 00:37:29,160
+Even more remarkably, the bad guys knew where the trainee was and could shoot back.
+
+448
+00:37:29,161 --> 00:37:35,540
+What we did is we instrumented the trainees with detectors, and then we put emitters in the room.
+
+449
+00:37:36,300 --> 00:37:39,220
+A grid of emitters sensed where the trainee was standing.
+
+450
+00:37:41,000 --> 00:37:47,740
+So when he came into a room to engage targets, it wasn't sufficient for him just to stand up and shoot.
+
+451
+00:37:47,860 --> 00:37:55,720
+If he didn't want to be killed, he had to take the appropriate cover, dive behind boxes, look around corners, just like he would do in the real world.
+
+452
+00:37:55,721 --> 00:38:02,720
+Another system, called V-WETS, incorporated a simulated patrol boat that moved.
+
+453
+00:38:13,720 --> 00:38:17,720
+In other areas, simulators were being developed to save lives.
+
+454
+00:38:17,721 --> 00:38:24,720
+In the mid-1980s, doctors at several US research hospitals were exploring the possibility of simulated patients.
+
+455
+00:38:25,720 --> 00:38:31,960
+using modified CPR manikins they added simulated lungs pulse and even the
+
+456
+00:38:31,961 --> 00:38:36,180
+ability to react to injected drugs
+
+457
+00:38:38,460 --> 00:38:43,400
+today patient simulators are being used in medical schools to train and test
+
+458
+00:38:43,401 --> 00:38:49,200
+students on a growing list of procedures we did a practical exam I felt like I
+
+459
+00:38:49,201 --> 00:38:51,940
+was actually in an operating room providing an anesthetic there was a
+
+460
+00:38:51,941 --> 00:38:55,560
+problem I knew that there was a problem and I had to take care of it it was
+
+461
+00:38:55,561 --> 00:39:00,880
+stressful. You can stress them or you can test them, but you can match them with
+
+462
+00:39:00,881 --> 00:39:04,800
+their ability and the patient's level of illness, which is something that we can
+
+463
+00:39:04,801 --> 00:39:10,380
+never do in the OR. The military now uses patient simulators to keep medics
+
+464
+00:39:10,381 --> 00:39:15,300
+proficient in the latest techniques for treating traumatic injuries. We've got to
+
+465
+00:39:15,301 --> 00:39:18,420
+have realism in our training and I think this program is going to also assure
+
+466
+00:39:18,421 --> 00:39:23,800
+that we have prepared men and women ready to go into combat.
+
+467
+00:39:23,801 --> 00:39:30,800
+By the late 80s, the US military was using simulators in almost every area of operation.
+
+468
+00:39:30,801 --> 00:39:32,800
+But one challenge remained.
+
+469
+00:39:32,801 --> 00:39:36,800
+How to bring them all together on a virtual battlefield.
+
+470
+00:39:47,800 --> 00:39:51,800
+In her final resting place, two and a half miles down,
+
+471
+00:39:51,801 --> 00:39:56,240
+Only a select few will witness the awesome grandeur of Titanic.
+
+472
+00:39:57,100 --> 00:40:00,440
+But for History Channel competition winner Rob Goldsmith,
+
+473
+00:40:00,740 --> 00:40:03,060
+a lifetime's dream is about to come true.
+
+474
+00:40:03,200 --> 00:40:05,240
+I really can't wait. It's just going to be fantastic.
+
+475
+00:40:05,900 --> 00:40:08,780
+The moving story of that fated voyage
+
+476
+00:40:08,781 --> 00:40:11,340
+and of one man's chance to live his dream.
+
+477
+00:40:11,960 --> 00:40:16,760
+Titanic, a tale of two journeys, Friday at 8.30 on the History Channel.
+
+478
+00:40:51,800 --> 00:41:04,580
+The Armoured Training Facility at Fort Knox, Kentucky, is where the US Army trains soldiers
+
+479
+00:41:04,581 --> 00:41:08,780
+how to operate tanks.
+
+480
+00:41:08,781 --> 00:41:14,680
+In the 1980s, it housed a room full of simulators used by tank crews to hone their driving and
+
+481
+00:41:14,681 --> 00:41:16,440
+firing skills.
+
+482
+00:41:16,441 --> 00:41:20,220
+High-tech as it was, it still had limitations.
+
+483
+00:41:20,221 --> 00:41:25,760
+The limitations of these class of simulators in the early 80s was that it was focused only
+
+484
+00:41:25,761 --> 00:41:33,000
+on a single person or a single crew, but warfighting skills require more than just individual tasks.
+
+485
+00:41:33,001 --> 00:41:37,340
+It requires the training and proficiencies of the crews, the crews and battoons, and
+
+486
+00:41:37,341 --> 00:41:41,740
+the interaction of those battoons and companies and battalions.
+
+487
+00:41:41,741 --> 00:41:47,180
+That required somehow connecting simulators together onto a common playing field, a challenge
+
+488
+00:41:47,181 --> 00:41:52,180
+taken up by DARPA, the advanced research arm of the Department of Defense.
+
+489
+00:41:52,181 --> 00:41:57,180
+Designers there soon realized that the problem wasn't merely a technical one.
+
+490
+00:41:57,181 --> 00:42:04,180
+Many of the companies that were building the simulators of those day built stand-alone simulation.
+
+491
+00:42:04,181 --> 00:42:08,180
+And they were quite comfortable with selling the government their product.
+
+492
+00:42:08,181 --> 00:42:15,180
+And the idea of coming up with network simulation was seen as a challenge to their marketing strategy.
+
+493
+00:42:15,181 --> 00:42:22,180
+Despite this resistance, DARPA came up with SimNet, a way to connect rival simulators.
+
+494
+00:42:22,181 --> 00:42:29,180
+Its first real test came in November 1992 at a simulator hardware convention in San Antonio, Texas.
+
+495
+00:42:29,181 --> 00:42:35,180
+DARPA invited all the participants, competitors whose hardware was never designed to operate in unison,
+
+496
+00:42:35,181 --> 00:42:38,180
+to connect up using SimNet.
+
+497
+00:42:38,181 --> 00:42:41,180
+There was a great deal of nervous about taking a new technology,
+
+498
+00:42:41,181 --> 00:42:46,560
+technology, taking people that had no real experience but understood the theory and had
+
+499
+00:42:46,561 --> 00:42:51,820
+read the books, but to ask them to come to a location to plug into somebody else's network,
+
+500
+00:42:51,821 --> 00:42:55,340
+to interact with other companies that they had never interacted with, was a great deal
+
+501
+00:42:55,341 --> 00:42:56,041
+of risk.
+
+502
+00:42:56,042 --> 00:43:00,420
+Ensuring that the wires were laid, that nobody cut the wires, that they all ran
+
+503
+00:43:00,421 --> 00:43:04,740
+to the right place, is just a Herculean task to kind of get everybody connected in a very,
+
+504
+00:43:04,741 --> 00:43:07,060
+very short period of time.
+
+505
+00:43:07,061 --> 00:43:13,880
+Sunday night before the demonstration, I think five out of the eight legs were either run over by heavy equipment or cut by a carpet cutter.
+
+506
+00:43:14,240 --> 00:43:19,440
+It was now dark. The stores are closed and time to fix it.
+
+507
+00:43:19,540 --> 00:43:22,760
+We got the best and brightest here. I can't believe the answer is no.
+
+508
+00:43:23,140 --> 00:43:28,080
+I think we got the last piece of the network screwed together at five minutes of one o'clock in the morning.
+
+509
+00:43:28,081 --> 00:43:29,840
+I sure wish we had had a rehearsal.
+
+510
+00:43:31,420 --> 00:43:32,420
+Damn, it worked.
+
+511
+00:43:33,020 --> 00:43:34,320
+It was a miracle, really.
+
+512
+00:43:34,321 --> 00:43:37,220
+We've let the genie out of the bottle.
+
+513
+00:43:37,221 --> 00:43:39,220
+The future will never be the same.
+
+514
+00:43:39,221 --> 00:43:42,520
+It ran and ran extremely well.
+
+515
+00:43:42,521 --> 00:43:48,140
+It ran beyond all of our wildest expectations that it was going to be as successful as it
+
+516
+00:43:48,141 --> 00:43:49,140
+was.
+
+517
+00:43:49,141 --> 00:43:53,160
+You would see a tank and a Bradley next to each other.
+
+518
+00:43:53,161 --> 00:43:58,580
+Then you could walk down the conference hall and stop in at the booth where someone was
+
+519
+00:43:58,581 --> 00:44:02,720
+generating the tank, see exactly what it looked like from their viewpoint.
+
+520
+00:44:02,721 --> 00:44:15,260
+The tank platoons that fought in the Gulf War were trained to coordinate their attacks on network simulators.
+
+521
+00:44:17,140 --> 00:44:22,480
+At the end of the war, one of its battles was precisely recreated on a simulator database,
+
+522
+00:44:22,960 --> 00:44:25,520
+becoming the first example of virtual history.
+
+523
+00:44:25,521 --> 00:44:29,380
+It became a history lesson of what occurred.
+
+524
+00:44:29,381 --> 00:44:34,700
+But more importantly, people wanted to be able to think about what if I went back and
+
+525
+00:44:34,701 --> 00:44:40,120
+changed some of the parameters, what would the battle outcome have been?
+
+526
+00:44:40,121 --> 00:44:46,620
+This networking technology has evolved into CCTT, Close Combat Tactical Trainer.
+
+527
+00:44:46,621 --> 00:44:52,180
+500 individual simulators representing many types of armored vehicles can be linked together
+
+528
+00:44:52,181 --> 00:44:54,380
+on a common virtual battlefield.
+
+529
+00:44:54,381 --> 00:45:03,520
+When you get inside of a CCD simulator, it looks just like the inside of a tank or just like the inside of a Bradley.
+
+530
+00:45:03,521 --> 00:45:09,160
+You could take an armor company from a Fort Knox, tie it together with an infantry company at Fort Benning,
+
+531
+00:45:09,440 --> 00:45:15,360
+put them on the ground in this very large 3D representation of a piece of terrain that was actually in Germany.
+
+532
+00:45:18,120 --> 00:45:19,700
+Fire, fire, heat adjust.
+
+533
+00:45:19,701 --> 00:45:24,700
+But soldiers aren't the only ones visiting virtual worlds.
+
+534
+00:45:24,701 --> 00:45:28,700
+This isn't a roller coaster, it's a simulator.
+
+535
+00:45:28,701 --> 00:45:34,560
+In the mid-80s, simulators began to be used for an entirely new purpose.
+
+536
+00:45:34,561 --> 00:45:35,700
+Entertainment.
+
+537
+00:45:39,700 --> 00:45:45,700
+The world's first virtual ride, Tour of the Universe, opened in Toronto in 1984,
+
+538
+00:45:45,701 --> 00:45:49,300
+built out of a modified 747 aircraft simulator.
+
+539
+00:45:52,100 --> 00:45:56,100
+Within a few years, smaller versions began popping up everywhere,
+
+540
+00:45:56,300 --> 00:45:59,100
+giving audiences a chance to experience the thrill
+
+541
+00:45:59,101 --> 00:46:02,300
+of both the chillingly real and the fantastic.
+
+542
+00:46:10,700 --> 00:46:13,500
+Universal Studios' Back to the Future ride
+
+543
+00:46:13,501 --> 00:46:15,500
+took things one step further,
+
+544
+00:46:15,501 --> 00:46:21,500
+projecting visuals onto an enormous dome that put people literally inside the experience.
+
+545
+00:46:26,500 --> 00:46:30,500
+Simulators also began to make their way onto home computers.
+
+546
+00:46:30,501 --> 00:46:35,500
+In 1983 Microsoft introduced its first flight simulator,
+
+547
+00:46:35,501 --> 00:46:38,500
+a simplified version of what the pros used.
+
+548
+00:46:38,501 --> 00:46:43,500
+Fifteen years later, Microsoft Flight Simulator has become so sophisticated
+
+549
+00:46:43,501 --> 00:46:50,500
+but the military use a customized version for pilots at the beginning of their training.
+
+550
+00:46:55,760 --> 00:47:00,180
+Another computer game, SimCity, took a different approach to simulation,
+
+551
+00:47:00,181 --> 00:47:04,020
+allowing players to lay out and manage their own virtual city,
+
+552
+00:47:04,021 --> 00:47:07,760
+with simulated citizens that move in or move out
+
+553
+00:47:07,761 --> 00:47:12,760
+if they're not happy with how you're running things.
+
+554
+00:47:13,500 --> 00:47:23,860
+Simulators have also returned to arcades, moving beyond early games to incorporate real-life replicas of motorcycles, snowboards, even whitewater rapids.
+
+555
+00:47:42,449 --> 00:47:47,240
+The future undoubtedly holds new and even broader uses for simulators, including those
+
+556
+00:47:47,241 --> 00:47:53,820
+designed for battling disasters, testing assembly lines before the factory is even built, drawing
+
+557
+00:47:53,821 --> 00:47:58,660
+an even finer line between their virtual world and our reality.
+

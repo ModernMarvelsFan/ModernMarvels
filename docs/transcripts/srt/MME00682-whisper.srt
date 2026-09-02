@@ -1,0 +1,2784 @@
+1
+00:00:00,001 --> 00:00:04,000
+From the unthinkable...
+
+2
+00:00:04,001 --> 00:00:07,000
+Our recorders survive in the worst of crashes.
+
+3
+00:00:07,001 --> 00:00:09,000
+...to the unimaginable...
+
+4
+00:00:09,001 --> 00:00:13,000
+There is nothing that this cannot protect you from.
+
+5
+00:00:13,001 --> 00:00:17,000
+They're meant to survive, even if we don't.
+
+6
+00:00:17,001 --> 00:00:23,000
+They could be here for centuries, even though we use them every day,
+
+7
+00:00:23,001 --> 00:00:26,000
+and outlast us long into the afterlife.
+
+8
+00:00:26,001 --> 00:00:29,000
+Metal caskets will last years into the future.
+
+9
+00:00:29,001 --> 00:00:34,000
+From eternity to liberty, some things just have to endure.
+
+10
+00:00:36,000 --> 00:00:37,000
+Stick around.
+
+11
+00:00:38,000 --> 00:00:40,000
+It's built to last on Modern Marvels.
+
+12
+00:00:52,000 --> 00:00:56,000
+Whether it's structures expected to endure through the ages,
+
+13
+00:00:56,001 --> 00:00:59,340
+or devices we count on when we need them most,
+
+14
+00:00:59,440 --> 00:01:03,600
+few things on Earth are truly built to last.
+
+15
+00:01:03,700 --> 00:01:07,140
+But perhaps the very symbol of long-lasting innovation
+
+16
+00:01:07,240 --> 00:01:10,040
+is found inside one of man's greatest inventions.
+
+17
+00:01:17,660 --> 00:01:19,760
+Whether you're a fan of the friendly skies
+
+18
+00:01:19,860 --> 00:01:23,500
+or afraid to fly, most of us try not to dwell
+
+19
+00:01:23,501 --> 00:01:26,500
+try not to dwell on the idea of a plane crashing.
+
+20
+00:01:30,500 --> 00:01:33,500
+But for the experts at L3 Communications,
+
+21
+00:01:33,501 --> 00:01:35,500
+it's a threat they think about every day.
+
+22
+00:01:38,500 --> 00:01:40,500
+At their headquarters in Sarasota, Florida,
+
+23
+00:01:40,501 --> 00:01:43,500
+the mission is to make sure at least part of the plane,
+
+24
+00:01:43,501 --> 00:01:47,500
+the black box, will survive a potentially catastrophic event.
+
+25
+00:01:47,501 --> 00:01:50,500
+The crash survival tests are meant to simulate
+
+26
+00:01:50,501 --> 00:01:52,500
+an actual crash event of an airplane.
+
+27
+00:01:53,500 --> 00:02:00,500
+L3 engineers manufacture and test these icons of survival.
+
+28
+00:02:00,501 --> 00:02:06,500
+Large passenger planes contain not one, but two of the widely recognized devices.
+
+29
+00:02:06,501 --> 00:02:10,500
+In commercial air carriers you'll find both a cockpit voice recorder, like this shorter box,
+
+30
+00:02:10,501 --> 00:02:14,500
+and a flight data recorder, like this longer box.
+
+31
+00:02:14,501 --> 00:02:19,500
+The first thing about black boxes that's clear is they're not black at all.
+
+32
+00:02:19,501 --> 00:02:22,800
+The recorder is bright orange per the specifications,
+
+33
+00:02:23,120 --> 00:02:27,120
+and it's done that way so that the recorder can be easily found in the wreckage.
+
+34
+00:02:28,000 --> 00:02:31,660
+It's believed by some that the misnomer might refer to the charring
+
+35
+00:02:31,661 --> 00:02:37,020
+that occurs in post-accident fires or the color of early recorders.
+
+36
+00:02:44,020 --> 00:02:48,000
+Just as aircraft are pushed to the limit to test their crash survivability,
+
+37
+00:02:48,001 --> 00:02:51,000
+So are their black boxes.
+
+38
+00:02:51,001 --> 00:02:55,000
+In today's test, experts are making sure a cockpit voice
+
+39
+00:02:55,001 --> 00:03:00,000
+recorder can take a beating in the lab before it ever boards a flight.
+
+40
+00:03:00,001 --> 00:03:05,000
+The static crush takes the unit and places it in this machine
+
+41
+00:03:05,001 --> 00:03:13,000
+and applies 5,000-pound crushing force to simulate crush of large
+
+42
+00:03:13,001 --> 00:03:17,000
+components of an airplane that may fall off during an accident and
+
+43
+00:03:17,001 --> 00:03:19,960
+and land on the recorder.
+
+44
+00:03:19,961 --> 00:03:23,500
+All large commercial aircraft and some smaller planes
+
+45
+00:03:23,501 --> 00:03:26,720
+must be equipped with black boxes on board.
+
+46
+00:03:26,721 --> 00:03:28,940
+When disaster strikes, the devices
+
+47
+00:03:28,941 --> 00:03:33,720
+are expected to survive with critical data intact.
+
+48
+00:03:33,721 --> 00:03:36,280
+The flight data recorder tracks key parameters
+
+49
+00:03:36,281 --> 00:03:38,480
+from different parts of the plane,
+
+50
+00:03:38,481 --> 00:03:43,820
+like airspeed, wing flap position, vertical acceleration,
+
+51
+00:03:43,821 --> 00:03:46,860
+and engine speed.
+
+52
+00:03:46,861 --> 00:03:49,180
+The audio is cockpit audio.
+
+53
+00:03:51,520 --> 00:03:55,120
+The cockpit voice recorder captures crew conversations
+
+54
+00:03:55,121 --> 00:03:57,800
+and any unusual noises in flight,
+
+55
+00:03:58,320 --> 00:04:00,660
+thanks to microphones positioned around the cockpit.
+
+56
+00:04:02,640 --> 00:04:05,160
+The cockpit voice recorder itself
+
+57
+00:04:05,161 --> 00:04:08,180
+is installed alongside the flight data recorder
+
+58
+00:04:08,181 --> 00:04:10,940
+in what's considered the toughest part of the plane.
+
+59
+00:04:11,760 --> 00:04:15,120
+The tail has usually spared a lot of the trauma
+
+60
+00:04:15,121 --> 00:04:16,680
+of the rest of the accident.
+
+61
+00:04:16,860 --> 00:04:20,460
+That is the portion that historically has survived the crash
+
+62
+00:04:20,461 --> 00:04:22,460
+better than any other section of the airplane.
+
+63
+00:04:25,740 --> 00:04:28,320
+To make sure these devices are battle-tested,
+
+64
+00:04:28,900 --> 00:04:32,840
+the next stop on the torture tour is the pin penetration test.
+
+65
+00:04:34,180 --> 00:04:36,600
+We'll take this 500-pound weight,
+
+66
+00:04:37,260 --> 00:04:39,840
+insert this quarter-inch hardened steel pin in the bottom,
+
+67
+00:04:41,000 --> 00:04:42,340
+hoist it up 10 feet,
+
+68
+00:04:42,660 --> 00:04:45,860
+and then drop it directly on the bullseye here,
+
+69
+00:04:45,861 --> 00:04:48,720
+in an attempt to penetrate the crash housing.
+
+70
+00:04:50,420 --> 00:04:52,700
+The test is meant to simulate the debris
+
+71
+00:04:52,701 --> 00:04:54,820
+that could fly at the device during a crash.
+
+72
+00:04:56,360 --> 00:04:59,160
+A special electrically charged rope is used
+
+73
+00:04:59,161 --> 00:05:02,980
+so that when it severs, it delivers a perfectly centered hit.
+
+74
+00:05:03,500 --> 00:05:05,840
+We take a nichrome wire and weave it through it,
+
+75
+00:05:06,140 --> 00:05:09,640
+and we use a DC current to heat it up
+
+76
+00:05:09,641 --> 00:05:11,300
+and melt it to a breaking point
+
+77
+00:05:11,301 --> 00:05:14,940
+so that the weight drops center
+
+78
+00:05:14,941 --> 00:05:16,200
+over where we had it set at.
+
+79
+00:05:17,740 --> 00:05:22,580
+The ultimate question is whether the black box's tiny but powerful memory module,
+
+80
+00:05:23,220 --> 00:05:26,000
+positioned right in the bullseye, can survive.
+
+81
+00:05:26,660 --> 00:05:29,100
+It's where all the critical information is stored.
+
+82
+00:05:29,840 --> 00:05:32,680
+But how to capture that data has evolved over the years.
+
+83
+00:05:33,760 --> 00:05:38,120
+Early black boxes recorded data onto foil and later magnetic tape.
+
+84
+00:05:38,500 --> 00:05:42,280
+But moving parts raised the danger for a malfunction in a crash.
+
+85
+00:05:44,940 --> 00:05:52,120
+Today, solid state recorders developed by L3 that rely on memory boards instead help
+
+86
+00:05:52,121 --> 00:05:55,660
+increase their chance of survival.
+
+87
+00:05:55,661 --> 00:06:01,000
+Black boxes, whether the flight data recorder or the shorter cockpit voice recorder, have
+
+88
+00:06:01,001 --> 00:06:03,380
+tough aluminum shells.
+
+89
+00:06:03,381 --> 00:06:08,460
+But even stronger stainless steel or titanium protect the all-important memory module.
+
+90
+00:06:08,461 --> 00:06:12,960
+The primary goal of the recorder is to protect that data.
+
+91
+00:06:18,360 --> 00:06:23,000
+Back at the test lab, the recorder awaits its fate in a sandbox below.
+
+92
+00:06:24,320 --> 00:06:25,420
+And in an instant.
+
+93
+00:06:31,180 --> 00:06:33,920
+500 pounds were no match for the box.
+
+94
+00:06:34,440 --> 00:06:37,480
+We hit our mark right in the center of the crash housing
+
+95
+00:06:37,481 --> 00:06:42,780
+with the quarter-inch steel pin, and we don't have any penetration.
+
+96
+00:06:43,660 --> 00:06:48,380
+At L3, the tougher the testing, the more reliable the crash data will be.
+
+97
+00:06:51,420 --> 00:06:56,120
+In high-profile plane crashes, it's often the recovery of the black boxes
+
+98
+00:06:56,121 --> 00:06:58,200
+that propels the investigation.
+
+99
+00:06:59,440 --> 00:07:01,620
+Plane crash rates remain remarkably low.
+
+100
+00:07:02,420 --> 00:07:06,920
+Only two-and-a-half accidents occur for every one million commercial flights worldwide.
+
+101
+00:07:07,480 --> 00:07:16,220
+But in those that are catastrophic, the black boxes must often survive one of their most destructive foes, fire.
+
+102
+00:07:19,220 --> 00:07:24,560
+This test is to simulate an airplane crash where high-temperature fire resulted.
+
+103
+00:07:25,340 --> 00:07:29,700
+The test consists of three burners that you see around the recorder.
+
+104
+00:07:30,480 --> 00:07:36,020
+Those burners are set to produce a flame temperature of 1,100 degrees C.
+
+105
+00:07:37,480 --> 00:07:45,480
+The black box must withstand the heat for the one-hour test.
+
+106
+00:07:49,200 --> 00:07:54,700
+As the aluminum housing ultimately melts away, the stainless steel case endures.
+
+107
+00:07:54,701 --> 00:08:08,701
+That data is used post-accident to investigate the cause
+
+108
+00:08:09,880 --> 00:08:13,500
+and to determine how that accident may have been prevented in the future.
+
+109
+00:08:14,200 --> 00:08:18,780
+With the fire test complete, the cockpit voice recorder may be charred,
+
+110
+00:08:19,140 --> 00:08:20,720
+but the data is safe.
+
+111
+00:08:20,721 --> 00:08:25,520
+You can see that it's still in good shape.
+
+112
+00:08:25,620 --> 00:08:27,180
+All the paint has been burned off of it.
+
+113
+00:08:27,220 --> 00:08:28,420
+The labels have been burned off.
+
+114
+00:08:28,680 --> 00:08:31,300
+But it looks fairly intact.
+
+115
+00:08:33,400 --> 00:08:38,880
+Beyond fire, black boxes must also endure one of the toughest environments for any crash,
+
+116
+00:08:39,560 --> 00:08:40,640
+a loss at sea.
+
+117
+00:08:41,700 --> 00:08:45,180
+One of the test sequences is the deep sea pressure test.
+
+118
+00:08:45,320 --> 00:08:48,580
+We pressurize it to an equivalent depth of 20,000 feet.
+
+119
+00:08:48,581 --> 00:08:55,580
+In at-sea crashes, the device's underwater locator beacon emits an ultrasonic pinging
+
+120
+00:08:55,581 --> 00:09:00,440
+tone for 30 days after a crash.
+
+121
+00:09:00,441 --> 00:09:02,440
+But there are limitations.
+
+122
+00:09:02,441 --> 00:09:08,420
+Debris and even water salinity levels can obscure the beacon's tone.
+
+123
+00:09:08,421 --> 00:09:15,220
+And in the infamous 1996 crash of TWA Flight 800 off Long Island, New York, the cockpit
+
+124
+00:09:15,221 --> 00:09:20,960
+voice recorder was recovered, but the locator beacon was missing entirely, torn off in the
+
+125
+00:09:20,961 --> 00:09:21,661
+crash.
+
+126
+00:09:21,662 --> 00:09:27,920
+But the recorders themselves are consistently performing in the toughest of environments.
+
+127
+00:09:27,921 --> 00:09:34,940
+Our current recorder so far has an unblemished track record in data recovery and audio recovery.
+
+128
+00:09:35,580 --> 00:09:39,340
+Our recorders are built to survive even the worst of crashes.
+
+129
+00:09:39,341 --> 00:09:46,940
+Next generation ideas include a cockpit video recorder to capture critical pre-crash moments.
+
+130
+00:09:49,140 --> 00:09:55,300
+Like planes, many new American cars have their own version of black box technology,
+
+131
+00:09:55,680 --> 00:09:58,480
+designed to withstand the cruelest disasters.
+
+132
+00:10:04,180 --> 00:10:07,500
+At General Motors testing ground in Milford, Michigan,
+
+133
+00:10:07,501 --> 00:10:11,060
+cars must prove they can survive the toughest safety tests.
+
+134
+00:10:12,100 --> 00:10:16,600
+And one small device inside is built to stand up to the worst of crashes.
+
+135
+00:10:17,860 --> 00:10:20,260
+This is an example of the SDM.
+
+136
+00:10:20,740 --> 00:10:22,280
+This is the brains of the system.
+
+137
+00:10:23,360 --> 00:10:28,720
+The SDM, or Sensing and Diagnostic Module, is the car's version of the black box.
+
+138
+00:10:29,280 --> 00:10:34,000
+It monitors the car's performance data and controls airbag deployment in a crash.
+
+139
+00:10:34,001 --> 00:10:39,314
+Though not required to by law, GM and several other major U.S.
+
+140
+00:10:39,315 --> 00:10:41,800
+carmakers use the crash-ready
+
+141
+00:10:41,801 --> 00:10:42,532
+technology.
+
+142
+00:10:42,533 --> 00:10:48,120
+From its floor-mounted position in the front part of a vehicle, the SDM communicates
+
+143
+00:10:48,121 --> 00:10:51,184
+with sensors on the front and sides of a car.
+
+144
+00:10:51,185 --> 00:10:54,520
+It receives the signals from all of these sensors
+
+145
+00:10:54,521 --> 00:10:59,060
+and makes decisions on which airbags to deploy and when.
+
+146
+00:10:59,061 --> 00:11:02,060
+To ensure its survival, the device is
+
+147
+00:11:02,061 --> 00:11:05,680
+made from tough nylon plastic and is placed near the passenger
+
+148
+00:11:05,681 --> 00:11:09,460
+area, the most protected part of the car.
+
+149
+00:11:09,461 --> 00:11:13,720
+Acceleration forces that are generated in severe crashes
+
+150
+00:11:13,721 --> 00:11:15,920
+can be over 100 Gs.
+
+151
+00:11:15,921 --> 00:11:19,620
+That's 100 times the force of gravity in this area.
+
+152
+00:11:19,621 --> 00:11:22,100
+Certainly, it's an area that we don't want to have damage
+
+153
+00:11:22,101 --> 00:11:24,600
+because this is where our customers are sitting.
+
+154
+00:11:24,601 --> 00:11:27,540
+And when a crash occurs, the SDM functions
+
+155
+00:11:27,541 --> 00:11:31,760
+similarly to a black box as it captures performance data.
+
+156
+00:11:31,761 --> 00:11:33,920
+but with some key differences.
+
+157
+00:11:33,921 --> 00:11:36,960
+Whereas the flight data recorder is always recording data,
+
+158
+00:11:36,961 --> 00:11:39,020
+our recorder is only recording in the event
+
+159
+00:11:39,021 --> 00:11:40,880
+of a certain crash, for instance, something
+
+160
+00:11:40,881 --> 00:11:42,800
+above five miles per hour.
+
+161
+00:11:42,801 --> 00:11:45,320
+And it will record data for roughly five seconds
+
+162
+00:11:45,321 --> 00:11:46,220
+prior to the impact.
+
+163
+00:11:51,420 --> 00:11:55,600
+Plane crashes, thankfully, are incredibly rare events.
+
+164
+00:11:55,601 --> 00:11:59,060
+But car accidents claim the lives of some 40,000
+
+165
+00:11:59,061 --> 00:12:01,340
+Americans each year.
+
+166
+00:12:01,341 --> 00:12:04,100
+Testing vehicles to outlast the devastation
+
+167
+00:12:04,101 --> 00:12:06,780
+is a constant challenge.
+
+168
+00:12:06,781 --> 00:12:09,840
+This car wears the scars from a front barrier test
+
+169
+00:12:09,841 --> 00:12:12,580
+at 25 miles per hour.
+
+170
+00:12:12,581 --> 00:12:15,140
+As you can see, the front airbags deployed.
+
+171
+00:12:15,141 --> 00:12:17,580
+Sensing diagnostic module is in an area that
+
+172
+00:12:17,581 --> 00:12:22,920
+received minimal damage and certainly looks well protected.
+
+173
+00:12:22,921 --> 00:12:26,780
+Post-crash, the SDM is connected to a computer.
+
+174
+00:12:26,781 --> 00:12:29,860
+The surviving data is analyzed for clues,
+
+175
+00:12:29,861 --> 00:12:32,900
+such as speed or brake application before impact.
+
+176
+00:12:33,420 --> 00:12:35,440
+What we have is a record of the crash,
+
+177
+00:12:35,620 --> 00:12:37,580
+indicating how the airbag system functioned,
+
+178
+00:12:37,581 --> 00:12:39,460
+as well as some of the pre-crash data
+
+179
+00:12:39,461 --> 00:12:42,420
+that the vehicle experienced prior to the impact.
+
+180
+00:12:45,820 --> 00:12:47,880
+A safe car ride is important,
+
+181
+00:12:48,200 --> 00:12:50,000
+as long as what's beneath your wheels
+
+182
+00:12:50,001 --> 00:12:51,860
+has also been built to last.
+
+183
+00:12:52,280 --> 00:12:53,620
+But peel back the asphalt,
+
+184
+00:12:54,140 --> 00:12:57,060
+and you'll see how something that could last more than 500 years
+
+185
+00:12:57,061 --> 00:12:59,620
+is carving out a real future on our roads.
+
+186
+00:12:59,860 --> 00:13:02,800
+Built to Last will return on Modern Marvels.
+
+187
+00:13:04,000 --> 00:13:07,660
+We now return to Built to Last on Modern Marvels.
+
+188
+00:13:10,700 --> 00:13:13,020
+When it comes to having a long lifespan,
+
+189
+00:13:13,560 --> 00:13:17,000
+few things can compare to what most of us know as Styrofoam.
+
+190
+00:13:17,340 --> 00:13:21,600
+But this familiar foam product actually has many different names and uses.
+
+191
+00:13:22,920 --> 00:13:26,100
+And whether you're getting takeout or your morning coffee,
+
+192
+00:13:26,101 --> 00:13:29,740
+the squeaky white containers are universally known for their durability.
+
+193
+00:13:29,860 --> 00:13:36,860
+Foam packaging, derived from petroleum-based plastic, does not biodegrade or disintegrate
+
+194
+00:13:36,861 --> 00:13:41,300
+and can remain in landfills for centuries.
+
+195
+00:13:41,301 --> 00:13:46,300
+That longevity has raised some environmental concerns, but it's exactly why foam is being
+
+196
+00:13:46,301 --> 00:13:51,380
+used in surprising ways all around us.
+
+197
+00:13:51,381 --> 00:13:59,040
+Foam has spread beneath our feet, to roads, bridges, even airport runways, and it's built
+
+198
+00:13:59,041 --> 00:14:02,529
+to last. EPS foam is incredibly strong.
+
+199
+00:14:02,530 --> 00:14:07,360
+It has a PSI, pounds per square inch, of 25 pounds for
+
+200
+00:14:07,361 --> 00:14:12,760
+a compressive resistance, which means that a square foot of foam is 144 square inches.
+
+201
+00:14:12,761 --> 00:14:13,461
+It will
+
+202
+00:14:13,462 --> 00:14:15,386
+hold approximately 3,600 pounds.
+
+203
+00:14:15,387 --> 00:14:19,280
+It can hold tremendous amounts of weight before it fails.
+
+204
+00:14:21,920 --> 00:14:28,240
+At Harbor Foam in Granville, Michigan, you can almost imagine a world entirely made of foam.
+
+205
+00:14:29,040 --> 00:14:38,040
+EPS foam, or expanded polystyrene by its more formal name, is a moldable plastic when heated.
+
+206
+00:14:38,041 --> 00:14:45,040
+It's most recognizable in packaging for food or fragile purchases, like electronics.
+
+207
+00:14:45,041 --> 00:14:53,040
+But here, foam is really coming to life to help support, literally, the nation's roads.
+
+208
+00:14:53,041 --> 00:15:00,880
+The 1956 Federal Aid Highway Act, creating the nation's highway system, called it essential to the national interest.
+
+209
+00:15:01,380 --> 00:15:03,660
+And it's expected to be there when we need it.
+
+210
+00:15:05,440 --> 00:15:15,140
+Today, the nation's highways and roads are used by hundreds of millions of vehicles a year, resulting in annual maintenance costs of over $40 trillion.
+
+211
+00:15:15,141 --> 00:15:20,140
+Block by block, in projects across 40 states,
+
+212
+00:15:20,240 --> 00:15:22,740
+foam is paving the way to toughen those roads
+
+213
+00:15:22,840 --> 00:15:24,140
+for the long haul.
+
+214
+00:15:24,240 --> 00:15:29,180
+EPS foam has replaced soil where they have unsuitable soil.
+
+215
+00:15:29,280 --> 00:15:31,180
+If it's muck or if it's swampy land,
+
+216
+00:15:31,280 --> 00:15:35,100
+the road's always kind of giving away after four or five years.
+
+217
+00:15:35,200 --> 00:15:37,500
+They just decided to pull all the old soil out,
+
+218
+00:15:37,600 --> 00:15:40,240
+and they'll put EPS foam down there.
+
+219
+00:15:40,340 --> 00:15:43,740
+In road projects, on top of a gravel base,
+
+220
+00:15:43,741 --> 00:15:48,740
+At the gravel base, layers of the special geofoam are stacked,
+
+221
+00:15:48,741 --> 00:15:51,740
+anywhere from two to 20 layers tall.
+
+222
+00:15:51,741 --> 00:15:57,740
+A rubber membrane is laid over the geofoam to protect it from any road liquid or fuel spills.
+
+223
+00:15:57,741 --> 00:16:03,740
+A final layer of soil is placed on top before the asphalt makes the road complete.
+
+224
+00:16:03,741 --> 00:16:08,740
+Dirt fill is about 100 to 120 pounds per cubic foot,
+
+225
+00:16:08,741 --> 00:16:11,740
+compared to foam, which is 1 to 2 pounds per cubic foot.
+
+226
+00:16:13,740 --> 00:16:20,800
+A simple demonstration outside Harbor Foam's plant shows just how durable this seemingly
+
+227
+00:16:20,801 --> 00:16:24,420
+lightweight material really is.
+
+228
+00:16:24,421 --> 00:16:29,580
+These small foam ramps will prove they're all muscle.
+
+229
+00:16:29,581 --> 00:16:35,800
+So this foam here is 96% air.
+
+230
+00:16:35,801 --> 00:16:40,920
+It weighs less than 10 pounds and it's capable of holding a truck that is in excess of 7,200
+
+231
+00:16:40,921 --> 00:16:42,920
+and is very, very strong, as you can see.
+
+232
+00:16:48,920 --> 00:16:51,560
+The foam has the same properties as the packing peanuts
+
+233
+00:16:51,660 --> 00:16:53,960
+we're used to seeing all over our floors,
+
+234
+00:16:54,060 --> 00:16:57,160
+just a more compacted form with less static
+
+235
+00:16:57,260 --> 00:16:58,880
+and a different name.
+
+236
+00:16:58,980 --> 00:17:01,080
+Most people refer to this as Styrofoam.
+
+237
+00:17:01,180 --> 00:17:03,280
+Styrofoam is a brand name by Dow.
+
+238
+00:17:03,380 --> 00:17:05,880
+This is actually expanded polystyrene,
+
+239
+00:17:05,980 --> 00:17:08,220
+but just like everything else, like Kleenex,
+
+240
+00:17:08,320 --> 00:17:10,920
+it's a brand name, and it just sticks with it.
+
+241
+00:17:10,921 --> 00:17:15,920
+So how does this chameleon-like wonder come to life?
+
+242
+00:17:15,921 --> 00:17:18,920
+It starts small.
+
+243
+00:17:18,921 --> 00:17:20,920
+These bees, before they come to us,
+
+244
+00:17:20,921 --> 00:17:22,920
+they're processed in reactors,
+
+245
+00:17:22,921 --> 00:17:25,920
+and they're 15,000-gallon reactors,
+
+246
+00:17:25,921 --> 00:17:27,920
+and styrene is a liquid.
+
+247
+00:17:27,921 --> 00:17:30,920
+They dump approximately 6,000 pounds of styrene in here,
+
+248
+00:17:30,921 --> 00:17:33,920
+and they dump about 3,000 pounds of water,
+
+249
+00:17:33,921 --> 00:17:35,920
+and it's just like oil and water.
+
+250
+00:17:35,921 --> 00:17:36,920
+They don't mix.
+
+251
+00:17:36,921 --> 00:17:39,920
+The faster you agitate it, the smaller the balls you get,
+
+252
+00:17:39,921 --> 00:17:41,920
+And that's where we get these small beads.
+
+253
+00:17:43,920 --> 00:17:46,920
+The beads then begin a multi-step process,
+
+254
+00:17:46,921 --> 00:17:48,920
+which starts at the pre-expander.
+
+255
+00:17:49,920 --> 00:17:53,920
+It's here that the beads begin their amazing physical transformation,
+
+256
+00:17:53,921 --> 00:17:58,920
+when the pentane inside them changes from a liquid to a gas.
+
+257
+00:17:58,921 --> 00:18:00,920
+The polystyrene sits on the floor,
+
+258
+00:18:00,921 --> 00:18:02,920
+and the steam comes up from the bottom of the floor,
+
+259
+00:18:02,921 --> 00:18:05,920
+and that's what reacts with that pentane.
+
+260
+00:18:05,921 --> 00:18:07,920
+The beads get conditioned, they get worked,
+
+261
+00:18:07,921 --> 00:18:13,060
+they get work, that bead gets soft and it starts to expand with that pentane gas releasing
+
+262
+00:18:13,061 --> 00:18:19,717
+the beads expand. The beads ultimately grow to 40 times their original size.
+
+263
+00:18:19,718 --> 00:18:20,680
+The machine
+
+264
+00:18:20,681 --> 00:18:26,311
+can be set for different recipes based on the amount of beads used.
+
+265
+00:18:26,312 --> 00:18:27,740
+A lighter mixture
+
+266
+00:18:27,741 --> 00:18:32,772
+would be made for packing materials, a denser, tougher one for road use.
+
+267
+00:18:32,773 --> 00:18:34,380
+The higher the density,
+
+268
+00:18:34,381 --> 00:18:36,340
+the stronger it is, the more weight there is,
+
+269
+00:18:36,520 --> 00:18:37,960
+the more wear and tear it can have.
+
+270
+00:18:40,440 --> 00:18:43,220
+The beads then take a break in storage silos
+
+271
+00:18:43,221 --> 00:18:45,920
+where they lose some of their pentane gas,
+
+272
+00:18:46,400 --> 00:18:48,860
+making them easier to mold into solid forms.
+
+273
+00:18:52,820 --> 00:18:55,180
+The block mold with its internal vacuum
+
+274
+00:18:55,181 --> 00:18:57,040
+is where all the action happens
+
+275
+00:18:57,041 --> 00:18:58,880
+for the foam's final metamorphosis.
+
+276
+00:19:00,420 --> 00:19:02,160
+It's where the hyperactive beads
+
+277
+00:19:02,161 --> 00:19:03,840
+start to take on their new role.
+
+278
+00:19:04,380 --> 00:19:06,380
+as usable, durable foam.
+
+279
+00:19:07,720 --> 00:19:09,460
+We're going to stick it in the block mold,
+
+280
+00:19:09,500 --> 00:19:13,920
+and we're going to make a 2 foot by 4 foot by 16 foot long block.
+
+281
+00:19:15,840 --> 00:19:17,140
+The beads are going to get together,
+
+282
+00:19:17,280 --> 00:19:19,840
+and when you hit it with heat, steam, it's going to want to expand.
+
+283
+00:19:20,160 --> 00:19:21,400
+But there's nowhere for it to go.
+
+284
+00:19:21,720 --> 00:19:24,040
+So what it's going to do is it's going to mold itself together.
+
+285
+00:19:24,260 --> 00:19:25,520
+It's going to fuse itself together,
+
+286
+00:19:25,521 --> 00:19:28,200
+and you're going to have a finished block when you're done.
+
+287
+00:19:29,960 --> 00:19:34,240
+The final blocks often tower over the workers who move them.
+
+288
+00:19:34,380 --> 00:19:41,260
+They are now tough enough to support major highway projects.
+
+289
+00:19:42,840 --> 00:19:47,180
+Or they can be sliced down thin enough for delicate packing material.
+
+290
+00:19:50,180 --> 00:19:55,100
+Another reason the finished product is built to last is its recyclable properties.
+
+291
+00:19:56,300 --> 00:20:01,880
+We recycle probably over a half million pounds of EPS a year in our facility.
+
+292
+00:20:01,881 --> 00:20:03,880
+We take it back from consumers.
+
+293
+00:20:03,881 --> 00:20:05,880
+We got a lot of post-consumer product here.
+
+294
+00:20:05,881 --> 00:20:07,880
+Take it back from appliance stores.
+
+295
+00:20:07,881 --> 00:20:10,880
+We recycle 100% of our stuff.
+
+296
+00:20:10,881 --> 00:20:17,880
+Over 69 million pounds of EPS foam was recycled nationwide in 2008.
+
+297
+00:20:19,880 --> 00:20:23,880
+And it can be reused in some rather unexpected ways.
+
+298
+00:20:23,881 --> 00:20:28,880
+Recycled foam is found in CD cases and even plastic hangers.
+
+299
+00:20:28,881 --> 00:20:32,220
+It's melted down and it's got a mold and they inject the
+
+300
+00:20:32,221 --> 00:20:36,880
+melted foam right in there and they cool it down and out pops a hanger.
+
+301
+00:20:36,881 --> 00:20:43,880
+But foam's long lasting use in roads and bridges could be its most valuable legacy.
+
+302
+00:20:43,881 --> 00:20:48,029
+It doesn't disintegrate, it does not break down. It's just like it was.
+
+303
+00:20:48,030 --> 00:20:52,880
+If you dig it up 20 years from now, it's the same as when you put it in the ground.
+
+304
+00:20:52,881 --> 00:20:55,880
+Foam is here to stay. It's built to last.
+
+305
+00:20:56,800 --> 00:20:58,720
+Foam may be built for survival,
+
+306
+00:20:59,080 --> 00:21:01,780
+but it's not the only thing made to go underground
+
+307
+00:21:01,781 --> 00:21:03,180
+that's expected to last.
+
+308
+00:21:04,560 --> 00:21:06,300
+Perhaps for eternity.
+
+309
+00:21:09,340 --> 00:21:11,960
+The Eiffel Tower, built as an exhibit
+
+310
+00:21:11,961 --> 00:21:14,320
+for the 1889 World's Fair in Paris,
+
+311
+00:21:14,700 --> 00:21:16,860
+was expected to last for just 20 years.
+
+312
+00:21:17,580 --> 00:21:19,500
+The Iron Marvel has outlived predictions
+
+313
+00:21:19,501 --> 00:21:21,100
+by more than a century.
+
+314
+00:21:22,000 --> 00:21:24,420
+We now return to Built to Last
+
+315
+00:21:24,421 --> 00:21:25,520
+on Modern Marvel.
+
+316
+00:21:28,120 --> 00:21:30,220
+Building things that are meant to last
+
+317
+00:21:30,221 --> 00:21:32,360
+has been one of man's eternal quests.
+
+318
+00:21:33,920 --> 00:21:37,700
+The pyramids, at nearly 5,000 years old,
+
+319
+00:21:37,960 --> 00:21:40,100
+are perhaps the world's most famous example.
+
+320
+00:21:41,800 --> 00:21:43,940
+Ancient Egyptians hoped the colossal structures
+
+321
+00:21:43,941 --> 00:21:46,200
+would protect the mummified remains inside,
+
+322
+00:21:46,860 --> 00:21:47,680
+into the afterlife.
+
+323
+00:21:49,900 --> 00:21:53,320
+Still today, if anything is expected to last forever,
+
+324
+00:21:53,321 --> 00:21:55,660
+it's your final resting place.
+
+325
+00:21:57,220 --> 00:21:59,200
+Just ask Thacker Caskets,
+
+326
+00:21:59,500 --> 00:22:02,000
+which turns out 50,000 units a year.
+
+327
+00:22:03,180 --> 00:22:04,860
+It's an age-old product,
+
+328
+00:22:05,100 --> 00:22:07,500
+but modern technology is also critical
+
+329
+00:22:07,501 --> 00:22:09,320
+to this undertaking.
+
+330
+00:22:09,760 --> 00:22:11,600
+The days of the old wooden pine box
+
+331
+00:22:11,601 --> 00:22:12,580
+are basically gone.
+
+332
+00:22:12,900 --> 00:22:14,940
+Most families today are looking for something
+
+333
+00:22:14,941 --> 00:22:17,520
+with durability, and the metal caskets provide that.
+
+334
+00:22:18,840 --> 00:22:20,940
+Just as longer-lasting metal
+
+335
+00:22:20,941 --> 00:22:22,040
+has taken over wood,
+
+336
+00:22:22,740 --> 00:22:25,300
+Caskets have long replaced coffins in the U.S.
+
+337
+00:22:26,100 --> 00:22:30,540
+The six-sided coffin style became nearly extinct in the 1930s
+
+338
+00:22:30,541 --> 00:22:34,460
+when the rectangular, more decorative casket grew in popularity
+
+339
+00:22:34,461 --> 00:22:36,940
+and became what we recognize today.
+
+340
+00:22:37,940 --> 00:22:41,520
+More than 60% of caskets sold in the U.S. today
+
+341
+00:22:41,521 --> 00:22:43,620
+are constructed from sheet steel.
+
+342
+00:22:44,240 --> 00:22:46,480
+Even without an inhabitant inside,
+
+343
+00:22:46,960 --> 00:22:49,940
+the metal carries an average weight of 150 pounds,
+
+344
+00:22:50,500 --> 00:22:51,660
+providing added heft.
+
+345
+00:22:52,040 --> 00:22:56,300
+We use 20-gauge, 18-gauge, and 16-gauge cold-rolled steel.
+
+346
+00:22:56,920 --> 00:23:00,820
+The 20-gauge caskets are the lighter-gauge material that we make,
+
+347
+00:23:00,920 --> 00:23:01,980
+but they're the most popular.
+
+348
+00:23:02,640 --> 00:23:08,000
+They generally give good durability and protection for very good value.
+
+349
+00:23:09,300 --> 00:23:14,360
+Today's process for burying the dead is as automated as any American factory.
+
+350
+00:23:14,880 --> 00:23:20,040
+We bring in metal components, tops, sides, ends, bottoms.
+
+351
+00:23:20,041 --> 00:23:22,580
+We assemble these components, we weld them,
+
+352
+00:23:22,680 --> 00:23:24,780
+and place them into production.
+
+353
+00:23:24,880 --> 00:23:28,280
+We make approximately 270 caskets a day that are finished
+
+354
+00:23:28,380 --> 00:23:29,980
+and ready to be shipped out of our plants
+
+355
+00:23:30,080 --> 00:23:33,980
+into distributors and or funeral homes.
+
+356
+00:23:34,080 --> 00:23:37,400
+The simple metal boxes soon take on their iconic shape
+
+357
+00:23:37,500 --> 00:23:40,000
+once their lids are attached.
+
+358
+00:23:40,100 --> 00:23:42,100
+After the casket shell is assembled,
+
+359
+00:23:42,200 --> 00:23:44,700
+the metal surface is cleaned and treated
+
+360
+00:23:44,800 --> 00:23:47,140
+to protect from future degradation.
+
+361
+00:23:47,240 --> 00:23:49,240
+It washes all of the oils off.
+
+362
+00:23:49,241 --> 00:23:51,240
+It washes all of the dirt and debris off.
+
+363
+00:23:51,241 --> 00:23:54,240
+Then it applies a phosphate coating,
+
+364
+00:23:54,241 --> 00:23:57,240
+which keeps the casket from corroding or rusting.
+
+365
+00:23:57,241 --> 00:24:01,240
+The caskets are carefully hand-inspected for any defects.
+
+366
+00:24:01,241 --> 00:24:05,240
+I'm one of the many quality control persons that's here.
+
+367
+00:24:05,241 --> 00:24:10,240
+What I do, I check for dents, stretches, bad whale, good whale.
+
+368
+00:24:10,241 --> 00:24:14,240
+Anything wrong with the casket at all, I check all of it.
+
+369
+00:24:14,241 --> 00:24:18,240
+Any flaws are addressed before a casket continues its life
+
+370
+00:24:18,241 --> 00:24:22,580
+life on the assembly line.
+
+371
+00:24:22,581 --> 00:24:25,580
+Customer preference is key in the funeral business,
+
+372
+00:24:25,581 --> 00:24:28,380
+so a variety of colors are offered.
+
+373
+00:24:28,381 --> 00:24:33,020
+It's the same paint used on cars to ensure a durable finish.
+
+374
+00:24:33,021 --> 00:24:34,680
+This is our paint booth.
+
+375
+00:24:34,681 --> 00:24:39,800
+We spray a automotive grade paint on all of our caskets.
+
+376
+00:24:39,801 --> 00:24:42,000
+We use a 13 different color palette
+
+377
+00:24:42,001 --> 00:24:44,400
+that we paint our caskets with.
+
+378
+00:24:44,401 --> 00:24:47,800
+It's very durable, very high end paint,
+
+379
+00:24:47,801 --> 00:24:48,840
+very high gloss.
+
+380
+00:24:49,380 --> 00:24:52,000
+It gives us a real long-lasting finish.
+
+381
+00:24:55,320 --> 00:24:59,060
+Next, the caskets travel through an infrared 300-degree
+
+382
+00:24:59,061 --> 00:25:01,560
+Fahrenheit oven where the paint is cured,
+
+383
+00:25:02,480 --> 00:25:05,860
+bringing them one step closer to being six feet under.
+
+384
+00:25:08,200 --> 00:25:10,740
+Thacker provides their caskets to some of the more than
+
+385
+00:25:10,741 --> 00:25:13,340
+22,000 funeral homes in the U.S.
+
+386
+00:25:14,160 --> 00:25:17,000
+But today's funeral industry is rooted partly
+
+387
+00:25:17,001 --> 00:25:19,820
+in one of America's most violent periods.
+
+388
+00:25:20,640 --> 00:25:24,540
+It was the Civil War, with its 600,000 killed,
+
+389
+00:25:24,920 --> 00:25:27,480
+that changed the way Americans treated their dead.
+
+390
+00:25:28,500 --> 00:25:31,580
+With the deceased being returned to families far from the battlefield,
+
+391
+00:25:32,380 --> 00:25:34,560
+the need arose to preserve the body longer.
+
+392
+00:25:35,880 --> 00:25:39,300
+The front lines were soon peppered with experts in embalming,
+
+393
+00:25:39,840 --> 00:25:43,060
+the process of replacing the body's blood with chemicals
+
+394
+00:25:43,061 --> 00:25:45,380
+that helped preserve the skin and organs.
+
+395
+00:25:45,381 --> 00:25:49,380
+Embalming was a very underused science
+
+396
+00:25:49,381 --> 00:25:52,380
+until the time of the Civil War.
+
+397
+00:25:52,381 --> 00:25:54,380
+It was actually fairly experimental.
+
+398
+00:25:54,381 --> 00:25:56,380
+Once the Civil War came about
+
+399
+00:25:56,381 --> 00:25:59,380
+and there was a desire for families to get the bodies
+
+400
+00:25:59,381 --> 00:26:01,380
+of their young soldiers back home,
+
+401
+00:26:01,381 --> 00:26:05,380
+that's what really spurred embalming in the United States.
+
+402
+00:26:05,381 --> 00:26:09,380
+President Abraham Lincoln was a key proponent
+
+403
+00:26:09,381 --> 00:26:12,380
+in battlefield embalming and underwent the procedure
+
+404
+00:26:12,381 --> 00:26:15,980
+the procedure after his own death in 1865.
+
+405
+00:26:15,981 --> 00:26:18,980
+His funeral caravan allowed seven million Americans
+
+406
+00:26:18,981 --> 00:26:22,940
+to see his embalmed body and helped spread the practice
+
+407
+00:26:22,941 --> 00:26:25,220
+to civilian burials.
+
+408
+00:26:25,221 --> 00:26:29,440
+People were in awe, and they marveled at the fact
+
+409
+00:26:29,441 --> 00:26:33,500
+that this body could be preserved this long.
+
+410
+00:26:33,501 --> 00:26:36,060
+That spread the idea of embalming.
+
+411
+00:26:36,061 --> 00:26:39,340
+I want that for my family.
+
+412
+00:26:39,341 --> 00:26:42,520
+Embalming meant families could even delay burials
+
+413
+00:26:42,521 --> 00:26:43,840
+for post-mortem portraits.
+
+414
+00:26:46,520 --> 00:26:50,420
+For the modern burial, the 1.6 million caskets produced
+
+415
+00:26:50,421 --> 00:26:54,280
+annually in the US have durability in common.
+
+416
+00:26:54,281 --> 00:26:58,940
+Many models feature a special seal for extra peace of mind.
+
+417
+00:26:58,941 --> 00:27:01,860
+The number of our caskets that we make are gasketed caskets.
+
+418
+00:27:01,861 --> 00:27:04,860
+These caskets have a gasket that
+
+419
+00:27:04,861 --> 00:27:06,380
+goes between the lid of the casket
+
+420
+00:27:06,381 --> 00:27:11,620
+the body of the casket, giving it a good, tight fit.
+
+421
+00:27:11,621 --> 00:27:17,320
+Final touches are added to give the cold metal some personality.
+
+422
+00:27:17,321 --> 00:27:22,820
+For those seeking some added style and longevity, copper and bronze models feature a higher price
+
+423
+00:27:22,821 --> 00:27:25,940
+tag with durability to match.
+
+424
+00:27:25,941 --> 00:27:28,860
+The Sali copper is one of the most durable metals that we have.
+
+425
+00:27:28,861 --> 00:27:33,240
+It will last forever as a casket.
+
+426
+00:27:33,241 --> 00:27:38,480
+For Thacker caskets, they know their product will be one of the last things families see
+
+427
+00:27:38,481 --> 00:27:40,600
+before saying goodbye to a loved one.
+
+428
+00:27:40,601 --> 00:27:45,500
+There are not many places that you build something that you're going to make as beautiful as
+
+429
+00:27:45,501 --> 00:27:46,500
+our caskets.
+
+430
+00:27:46,501 --> 00:27:49,420
+And then in a couple of days, you're going to put them in the ground.
+
+431
+00:27:49,421 --> 00:27:54,300
+But our people take pride in that, knowing that the families have comfort and closure
+
+432
+00:27:54,301 --> 00:27:59,520
+at the end of the life of a loved one.
+
+433
+00:27:59,521 --> 00:28:04,800
+There's another future scenario where we could find ourselves in containers underground,
+
+434
+00:28:04,801 --> 00:28:08,980
+but alive and with all the amenities of home.
+
+435
+00:28:08,981 --> 00:28:12,980
+But when we get there, we might not be alone.
+
+436
+00:28:12,981 --> 00:28:16,700
+Next on Modern Marvels, Built to Last.
+
+437
+00:28:16,701 --> 00:28:22,740
+We'll return to Built to Last on Modern Marvels.
+
+438
+00:28:22,741 --> 00:28:28,300
+Few things on Earth endure generation after generation.
+
+439
+00:28:28,301 --> 00:28:32,000
+are built to withstand the centuries,
+
+440
+00:28:32,001 --> 00:28:35,620
+and the planet's life cycle runs its course.
+
+441
+00:28:35,621 --> 00:28:37,720
+But thanks to a common myth, some
+
+442
+00:28:37,721 --> 00:28:40,780
+think that if the end were near and all life forms were
+
+443
+00:28:40,781 --> 00:28:43,700
+extinguished, only one lucky species
+
+444
+00:28:43,701 --> 00:28:47,740
+might be genetically built to last, the cockroach.
+
+445
+00:28:52,140 --> 00:28:56,240
+At his entomology lab at North Carolina State University,
+
+446
+00:28:56,241 --> 00:28:59,780
+Dr. Coby Schall takes a closer look than most
+
+447
+00:28:59,781 --> 00:29:02,580
+into why these infamous creatures are so tough.
+
+448
+00:29:04,020 --> 00:29:06,120
+Some cockroaches are incredibly durable.
+
+449
+00:29:06,121 --> 00:29:08,120
+Those that, for example, that live in the desert
+
+450
+00:29:08,121 --> 00:29:12,220
+can withstand dehydration for many weeks at a time.
+
+451
+00:29:14,760 --> 00:29:16,720
+Another incredible asset,
+
+452
+00:29:16,721 --> 00:29:20,100
+cockroaches can survive without some body parts.
+
+453
+00:29:21,100 --> 00:29:22,960
+Cockroaches, like many other insects,
+
+454
+00:29:22,961 --> 00:29:26,140
+can function, for example, without their brain.
+
+455
+00:29:26,141 --> 00:29:27,300
+without the head.
+
+456
+00:29:27,301 --> 00:29:30,240
+When we cut their head off, obviously they miss food,
+
+457
+00:29:30,241 --> 00:29:32,420
+they miss water.
+
+458
+00:29:32,421 --> 00:29:36,020
+But otherwise, they can function quite well.
+
+459
+00:29:36,021 --> 00:29:38,460
+Even decapitated, the body parts
+
+460
+00:29:38,461 --> 00:29:41,720
+continue to show signs of life.
+
+461
+00:29:41,721 --> 00:29:44,700
+They can breathe because they breathe through their holes
+
+462
+00:29:44,701 --> 00:29:47,660
+in their abdomen, and it can do so for about 30 days.
+
+463
+00:29:50,840 --> 00:29:54,000
+So what about a nuclear scenario?
+
+464
+00:29:54,001 --> 00:29:56,400
+Would cockroaches be roaming the Earth alone
+
+465
+00:29:56,401 --> 00:29:58,500
+after such an attack?
+
+466
+00:29:58,501 --> 00:30:01,200
+What the cockroach has going for it is its behavior.
+
+467
+00:30:01,201 --> 00:30:05,880
+It likes to hide in places, in cracks, crevices, places
+
+468
+00:30:05,881 --> 00:30:07,920
+where radiation may not reach.
+
+469
+00:30:07,921 --> 00:30:10,400
+They don't have bone marrow, which is highly sensitive
+
+470
+00:30:10,401 --> 00:30:12,060
+to radiation.
+
+471
+00:30:12,061 --> 00:30:15,380
+But even with the cockroach's biological assets,
+
+472
+00:30:15,381 --> 00:30:17,740
+Dr. Schall says they're not invincible
+
+473
+00:30:17,741 --> 00:30:20,500
+in the face of a nuclear foe.
+
+474
+00:30:20,501 --> 00:30:23,700
+I think it's generally a myth that cockroaches
+
+475
+00:30:23,701 --> 00:30:26,640
+will out-survive all other life.
+
+476
+00:30:26,641 --> 00:30:28,040
+They'll survive better than humans,
+
+477
+00:30:28,041 --> 00:30:31,700
+but a nuclear blast nearby will take out most life.
+
+478
+00:30:36,280 --> 00:30:37,940
+It's a daunting thought,
+
+479
+00:30:37,941 --> 00:30:40,620
+and nuclear war never seemed more imminent
+
+480
+00:30:40,621 --> 00:30:44,080
+than in the mid-20th century.
+
+481
+00:30:44,081 --> 00:30:46,580
+Soviet advances in the space race
+
+482
+00:30:46,581 --> 00:30:49,120
+and the Cuban Missile Crisis brought fears
+
+483
+00:30:49,121 --> 00:30:52,000
+about a nuclear showdown into even sharper focus.
+
+484
+00:30:53,700 --> 00:31:03,380
+Civil defense campaigns echoed the fears that gripped the population.
+
+485
+00:31:04,220 --> 00:31:08,680
+And fallout shelters were being touted as a way to ensure our survival,
+
+486
+00:31:09,420 --> 00:31:13,080
+as seen in this educational film released by the Department of Defense.
+
+487
+00:31:14,420 --> 00:31:18,960
+Good. You fellas keep the blocks coming. I'm going to set up this wall's eye line.
+
+488
+00:31:23,700 --> 00:31:26,140
+Hey, you look wonderful, Fred.
+
+489
+00:31:26,141 --> 00:31:28,640
+Yeah, good job, huh?
+
+490
+00:31:28,641 --> 00:31:32,580
+This 1955 shelter is now an artifact
+
+491
+00:31:32,581 --> 00:31:35,720
+at the Smithsonian's National Museum of American History
+
+492
+00:31:35,721 --> 00:31:37,680
+in Washington.
+
+493
+00:31:37,681 --> 00:31:41,980
+It was dug up from a front yard in Fort Wayne, Indiana,
+
+494
+00:31:41,981 --> 00:31:44,680
+and could house a family of four.
+
+495
+00:31:44,681 --> 00:31:48,220
+The immediate fear that sparked this particular family
+
+496
+00:31:48,221 --> 00:31:51,720
+to install this shelter was the announcement
+
+497
+00:31:51,721 --> 00:31:55,160
+that the Russians had exploded a hydrogen bomb.
+
+498
+00:31:56,360 --> 00:31:58,400
+Shelters like this one were designed
+
+499
+00:31:58,401 --> 00:32:01,060
+as immediate protection from nuclear fallout.
+
+500
+00:32:02,020 --> 00:32:05,420
+Early models were effective for a stay of one to two weeks,
+
+501
+00:32:05,800 --> 00:32:07,600
+even though radiation can be present
+
+502
+00:32:07,601 --> 00:32:10,160
+up to 30 days after detonation.
+
+503
+00:32:10,680 --> 00:32:11,580
+There are no utilities.
+
+504
+00:32:11,960 --> 00:32:12,940
+There's no electricity.
+
+505
+00:32:13,700 --> 00:32:15,480
+There are batteries and flashlights.
+
+506
+00:32:16,420 --> 00:32:17,820
+There's no cooking.
+
+507
+00:32:18,180 --> 00:32:19,700
+There's no running water.
+
+508
+00:32:19,701 --> 00:32:22,140
+it's pretty confining.
+
+509
+00:32:23,640 --> 00:32:27,860
+Today, threats of terrorism and unconventional warfare
+
+510
+00:32:27,861 --> 00:32:30,680
+have caused some to revive the bunker mentality
+
+511
+00:32:30,681 --> 00:32:32,180
+from America's past.
+
+512
+00:32:36,940 --> 00:32:39,260
+Radius Engineering in Terrell, Texas
+
+513
+00:32:39,261 --> 00:32:42,780
+is helping concerned Americans plan for the worst.
+
+514
+00:32:43,640 --> 00:32:45,880
+This is designed for a nuclear weapon,
+
+515
+00:32:46,060 --> 00:32:48,040
+a biological weapon, a chemical weapon,
+
+516
+00:32:48,041 --> 00:32:50,020
+a high altitude of electromagnetic pulse.
+
+517
+00:32:50,340 --> 00:32:52,380
+There is nothing that this cannot protect you from.
+
+518
+00:32:53,300 --> 00:32:55,960
+The rare glimpse into shelter life today
+
+519
+00:32:55,961 --> 00:32:57,840
+may seem like science fiction,
+
+520
+00:32:58,400 --> 00:33:00,280
+but Radius claims to have installations
+
+521
+00:33:00,281 --> 00:33:01,960
+in every major U.S. city.
+
+522
+00:33:03,060 --> 00:33:05,680
+Their biggest customers, corporations,
+
+523
+00:33:06,220 --> 00:33:07,740
+and a number of federal agencies.
+
+524
+00:33:08,320 --> 00:33:10,760
+These are loaded with their medicines, if they have them,
+
+525
+00:33:10,880 --> 00:33:12,800
+their legal files, their photos,
+
+526
+00:33:13,280 --> 00:33:14,480
+their clothing, their food.
+
+527
+00:33:14,700 --> 00:33:15,720
+Everything is in here.
+
+528
+00:33:15,721 --> 00:33:17,860
+They just have to get their body to the shelter.
+
+529
+00:33:18,040 --> 00:33:23,040
+The shelters are installed eight and a half feet underground
+
+530
+00:33:23,041 --> 00:33:25,040
+and connect to the surface with a hatch.
+
+531
+00:33:25,041 --> 00:33:31,040
+A stairway often leads down to the subterranean living space.
+
+532
+00:33:31,041 --> 00:33:37,040
+Once inside, Radius says inhabitants would be protected from blasts
+
+533
+00:33:37,041 --> 00:33:41,040
+from a one-megaton weapon up to one mile away.
+
+534
+00:33:41,041 --> 00:33:50,820
+Unlike early shelters, today's models are far more than just a temporary hideout.
+
+535
+00:33:51,080 --> 00:33:53,700
+There's bunks in here for 25 people.
+
+536
+00:33:54,400 --> 00:33:55,780
+There's storage under the floor.
+
+537
+00:33:56,560 --> 00:34:01,020
+Under this floor, we can store not quite 9,000 cans of food.
+
+538
+00:34:02,260 --> 00:34:09,300
+Depending on size and food storage, these units are built to sustain human life for an entire year.
+
+539
+00:34:11,040 --> 00:34:17,440
+You have to have not only an electrical system on AC, you have an electrical system on DC.
+
+540
+00:34:17,441 --> 00:34:21,760
+You have an air filtration system, which is a life support system, and you have to be
+
+541
+00:34:21,761 --> 00:34:24,960
+able to do this all off the grid.
+
+542
+00:34:24,961 --> 00:34:29,020
+The structures rely on curved fiberglass casts.
+
+543
+00:34:29,021 --> 00:34:35,920
+According to Radius, the fiberglass will last for 300 years and has the resiliency to adjust
+
+544
+00:34:35,921 --> 00:34:39,280
+to ground movements from a weapons blast.
+
+545
+00:34:39,281 --> 00:34:41,320
+All of our shelters are always connected by us
+
+546
+00:34:41,321 --> 00:34:43,280
+through a triple-axis seismic joint.
+
+547
+00:34:43,281 --> 00:34:46,660
+This allows this flange to flex back and forth.
+
+548
+00:34:46,661 --> 00:34:48,280
+The entranceway that's connected on here
+
+549
+00:34:48,281 --> 00:34:51,620
+can wave back and forth, up and down.
+
+550
+00:34:51,621 --> 00:34:55,600
+The seismic joints easily link the pods together,
+
+551
+00:34:55,601 --> 00:34:58,400
+and Radius designs even larger shelters
+
+552
+00:34:58,401 --> 00:35:01,400
+that can interconnect to create entire underground
+
+553
+00:35:01,401 --> 00:35:02,400
+neighborhoods.
+
+554
+00:35:02,401 --> 00:35:12,640
+The roomier models are so big, they must be delivered piece by piece.
+
+555
+00:35:17,380 --> 00:35:18,840
+A dome is 12 segments.
+
+556
+00:35:19,420 --> 00:35:20,120
+This is one.
+
+557
+00:35:21,660 --> 00:35:25,000
+This one's going to Washington, D.C., which is where a lot of our business is.
+
+558
+00:35:26,040 --> 00:35:30,720
+During the Cold War, many shelter owners wanted to keep their construction a secret,
+
+559
+00:35:30,721 --> 00:35:33,720
+Fearing neighbors might come knocking in a crisis.
+
+560
+00:35:33,721 --> 00:35:35,720
+Looks like you've been busy.
+
+561
+00:35:35,721 --> 00:35:39,720
+Still today, many clients demand anonymity.
+
+562
+00:35:39,721 --> 00:35:42,720
+It's kind of a stealth operation.
+
+563
+00:35:42,721 --> 00:35:44,720
+Secrecy is important to all of our clients,
+
+564
+00:35:44,721 --> 00:35:46,720
+especially the ones in D.C.
+
+565
+00:35:50,720 --> 00:35:53,720
+For customers receiving the larger shipments,
+
+566
+00:35:53,721 --> 00:35:56,720
+it's the shelter equivalent of the condo.
+
+567
+00:35:56,721 --> 00:35:59,720
+This has got a full eight-foot ceiling.
+
+568
+00:35:59,721 --> 00:36:02,780
+We have a fairly conventional kitchen.
+
+569
+00:36:03,120 --> 00:36:05,280
+We have a utility sink.
+
+570
+00:36:05,840 --> 00:36:08,820
+We've got electric heating elements here for cooking.
+
+571
+00:36:09,200 --> 00:36:10,780
+The kids can play out here,
+
+572
+00:36:11,340 --> 00:36:14,840
+and the rest of the family can go upstairs.
+
+573
+00:36:15,660 --> 00:36:18,780
+The clamshell design allows space for more supplies
+
+574
+00:36:18,781 --> 00:36:22,380
+and stays of up to five years.
+
+575
+00:36:23,640 --> 00:36:26,880
+The secret installation in these exclusive photos
+
+576
+00:36:26,881 --> 00:36:29,380
+is in the Washington, D.C. region.
+
+577
+00:36:29,720 --> 00:36:32,920
+It carried a price tag of $2 million
+
+578
+00:36:32,921 --> 00:36:36,160
+and will include a gym and a radio station.
+
+579
+00:36:36,161 --> 00:36:40,260
+A lot of the customers wanted a different lifestyle.
+
+580
+00:36:40,261 --> 00:36:44,660
+They wanted more volume and they wanted longer term.
+
+581
+00:36:44,661 --> 00:36:47,780
+Underground shelters might last for centuries,
+
+582
+00:36:47,781 --> 00:36:51,080
+but what if we wanted to protect not just ourselves,
+
+583
+00:36:51,081 --> 00:36:54,480
+but one of the nation's most prized possessions?
+
+584
+00:36:54,481 --> 00:36:56,920
+Thanks to some high-tech engineering,
+
+585
+00:36:56,921 --> 00:37:00,380
+Life, liberty, and the pursuit of happiness
+
+586
+00:37:00,381 --> 00:37:01,880
+have a promising future.
+
+587
+00:37:05,880 --> 00:37:10,380
+By the mid-1960s, some 200,000 home fallout shelters
+
+588
+00:37:10,381 --> 00:37:12,880
+had reportedly been built in the United States.
+
+589
+00:37:14,960 --> 00:37:18,260
+We now return to Built to Last on Modern Marvels.
+
+590
+00:37:21,880 --> 00:37:25,120
+Around the world, structures built for the ages
+
+591
+00:37:25,121 --> 00:37:27,680
+pay lasting tribute to ancient competitions,
+
+592
+00:37:29,020 --> 00:37:30,120
+ceremonial burials,
+
+593
+00:37:30,660 --> 00:37:34,020
+and glorious efforts to keep out invaders.
+
+594
+00:37:35,260 --> 00:37:38,040
+But there's one building in Washington, D.C.
+
+595
+00:37:38,340 --> 00:37:40,700
+that honors not just human achievement,
+
+596
+00:37:41,280 --> 00:37:44,080
+but the very ideals that established a nation.
+
+597
+00:37:45,840 --> 00:37:47,880
+Inside the National Archives,
+
+598
+00:37:48,280 --> 00:37:49,460
+lights are kept to a minimum
+
+599
+00:37:49,461 --> 00:37:51,580
+to protect the U.S. Constitution,
+
+600
+00:37:52,480 --> 00:37:53,500
+the Bill of Rights,
+
+601
+00:37:53,501 --> 00:37:57,640
+and the most cherished document, the Declaration of Independence.
+
+602
+00:37:58,280 --> 00:38:02,980
+But this beloved document is widely considered the most fragile.
+
+603
+00:38:03,240 --> 00:38:07,320
+The Declaration is, of all of the Charters of Freedom documents, the most faded.
+
+604
+00:38:07,460 --> 00:38:09,360
+It's kind of the saddest to look at.
+
+605
+00:38:10,060 --> 00:38:12,800
+The case which houses the Declaration today
+
+606
+00:38:12,801 --> 00:38:16,380
+was built to give lasting protection to this national treasure.
+
+607
+00:38:16,960 --> 00:38:20,760
+But it's a recent addition to its more than 200-year lifespan.
+
+608
+00:38:20,761 --> 00:38:25,760
+For the document's initial unveiling at the archives in 1952,
+
+609
+00:38:25,761 --> 00:38:29,760
+a special hermetically sealed case was constructed.
+
+610
+00:38:29,761 --> 00:38:33,760
+Helium, an inert gas that would not react with the paper,
+
+611
+00:38:33,761 --> 00:38:35,760
+filled the case.
+
+612
+00:38:35,761 --> 00:38:38,760
+I think it's only fair to say that in the 1950s,
+
+613
+00:38:38,761 --> 00:38:41,760
+they did the very best they could with existing knowledge
+
+614
+00:38:41,761 --> 00:38:43,760
+and current technology.
+
+615
+00:38:45,760 --> 00:38:49,760
+Each night, the case was lowered into an underground vault,
+
+616
+00:38:49,761 --> 00:38:52,460
+vault built to survive an atomic bomb.
+
+617
+00:38:55,240 --> 00:38:58,800
+But the design of the case would ultimately raise concerns
+
+618
+00:38:58,801 --> 00:39:02,440
+decades later, particularly over the glass.
+
+619
+00:39:02,441 --> 00:39:05,280
+Its positioning directly on the parchment
+
+620
+00:39:05,281 --> 00:39:09,220
+was one of the many aspects that troubled conservators.
+
+621
+00:39:09,221 --> 00:39:12,180
+We were also becoming aware that there were problems
+
+622
+00:39:12,181 --> 00:39:16,260
+with degradation of the inner layers of glass.
+
+623
+00:39:16,261 --> 00:39:19,320
+So that made us think that perhaps the conditions
+
+624
+00:39:19,321 --> 00:39:22,260
+inside of the encasement were changing
+
+625
+00:39:22,261 --> 00:39:26,720
+and perhaps could be harmful over time to the documents.
+
+626
+00:39:26,721 --> 00:39:29,860
+In 1995, the National Archives decided
+
+627
+00:39:29,861 --> 00:39:32,000
+a longer lasting home for the Declaration
+
+628
+00:39:32,001 --> 00:39:33,660
+was urgently needed.
+
+629
+00:39:33,661 --> 00:39:37,180
+In 2001, they opened the case for the first time
+
+630
+00:39:37,181 --> 00:39:38,340
+in half a century.
+
+631
+00:39:38,341 --> 00:39:41,240
+It was a little bit scary because we didn't know
+
+632
+00:39:41,241 --> 00:39:43,040
+exactly what was going to happen.
+
+633
+00:39:43,041 --> 00:39:45,740
+We were always concerned about whether there would be
+
+634
+00:39:45,741 --> 00:39:50,780
+any adhering of the parchment to that cover glass.
+
+635
+00:39:50,781 --> 00:39:53,280
+The document performed well, but the glass
+
+636
+00:39:53,281 --> 00:39:56,620
+showed degradation, and the parchment's faded condition
+
+637
+00:39:56,621 --> 00:39:58,240
+was striking.
+
+638
+00:39:58,241 --> 00:40:00,680
+There's hardly any ink left.
+
+639
+00:40:00,681 --> 00:40:03,140
+It's as though it was washed away.
+
+640
+00:40:03,141 --> 00:40:05,220
+Its weathered condition was a testament
+
+641
+00:40:05,221 --> 00:40:07,220
+to the harrowing journey that brought it here.
+
+642
+00:40:09,640 --> 00:40:11,780
+Despite depictions to the contrary,
+
+643
+00:40:11,781 --> 00:40:14,740
+historians believe the founding fathers signed the documents
+
+644
+00:40:14,741 --> 00:40:19,980
+separately, beginning its repeated handling over time.
+
+645
+00:40:19,981 --> 00:40:22,680
+The declaration then traveled, rolled up,
+
+646
+00:40:22,681 --> 00:40:27,980
+with the Continental Congress during the Revolutionary War.
+
+647
+00:40:27,981 --> 00:40:30,300
+The assault continued in the 1800s,
+
+648
+00:40:30,301 --> 00:40:32,980
+when it hung for 35 years on display
+
+649
+00:40:32,981 --> 00:40:36,640
+in a sun-drenched window in Washington.
+
+650
+00:40:36,641 --> 00:40:38,760
+To help rescue the prized parchment,
+
+651
+00:40:38,761 --> 00:40:42,100
+the archives turned to NIST, the National Institute
+
+652
+00:40:42,101 --> 00:40:45,140
+standards and technology.
+
+653
+00:40:45,141 --> 00:40:49,888
+In their labs outside Washington, NIST engineers worked to support U.S.
+
+654
+00:40:49,889 --> 00:40:51,560
+innovation and industrial
+
+655
+00:40:51,561 --> 00:40:54,560
+competitiveness.
+
+656
+00:40:54,561 --> 00:41:00,000
+NIST had worked on the original case, and it was here that the declaration's new home
+
+657
+00:41:00,001 --> 00:41:01,800
+came to life.
+
+658
+00:41:01,801 --> 00:41:07,080
+The case started out as a 600-pound aluminum block at this milling machine.
+
+659
+00:41:07,081 --> 00:41:12,540
+This was a prototype that was made prior to the ones that you see now down at the National
+
+660
+00:41:12,541 --> 00:41:13,540
+Archives.
+
+661
+00:41:13,541 --> 00:41:18,360
+We took this solid block of material, bolted it down to the milling machine, and then programmed
+
+662
+00:41:18,361 --> 00:41:23,240
+the cutter where it came down and it cut out all the extra material out.
+
+663
+00:41:23,241 --> 00:41:28,520
+Weight had to be reduced while still maintaining the long-term strength of the metal.
+
+664
+00:41:28,521 --> 00:41:35,360
+You can see that we have machined little pockets, and these pockets take away weight but don't
+
+665
+00:41:35,361 --> 00:41:38,800
+reduce the strength or the stiffness of the base very much.
+
+666
+00:41:39,360 --> 00:41:44,140
+Valves on the underside would pump in a more effective gas with greater stamina.
+
+667
+00:41:44,580 --> 00:41:46,013
+We changed the gas.
+
+668
+00:41:46,014 --> 00:41:51,140
+The inert gas is now argon, which is a smaller molecule than helium,
+
+669
+00:41:51,300 --> 00:41:52,860
+so less likely to leak out.
+
+670
+00:41:53,300 --> 00:41:58,560
+The case was polished to a microscopic level, and prototypes were tested for their ability
+
+671
+00:41:58,561 --> 00:42:01,980
+to withstand air pressure changes in case of a tornado.
+
+672
+00:42:01,981 --> 00:42:06,080
+The glass that was decided on was a laminated safety glass,
+
+673
+00:42:06,180 --> 00:42:10,420
+like in a car window, except a little bit thicker.
+
+674
+00:42:10,520 --> 00:42:13,020
+The glass lasted longer than expected
+
+675
+00:42:13,120 --> 00:42:15,820
+and passed the stress test.
+
+676
+00:42:15,920 --> 00:42:19,740
+And the critical final piece, the seal.
+
+677
+00:42:19,840 --> 00:42:22,640
+A thin groove was carefully cut into the encasement,
+
+678
+00:42:22,740 --> 00:42:26,380
+where the glass and aluminum would marry.
+
+679
+00:42:26,480 --> 00:42:30,380
+The seal is a very important part of this encasement
+
+680
+00:42:30,381 --> 00:42:35,580
+because it's what provides the seal that we say is going to last 100 years,
+
+681
+00:42:35,581 --> 00:42:40,220
+is this metal seal that keeps the air out for a long, long time.
+
+682
+00:42:40,221 --> 00:42:45,560
+The Declaration of Independence was introduced to its new home in 2003.
+
+683
+00:42:45,561 --> 00:42:49,100
+And for the archives, the improvements were striking.
+
+684
+00:42:49,101 --> 00:42:54,780
+The glass for the encasement is now at least an inch or so off the surface of the document.
+
+685
+00:42:54,781 --> 00:42:59,100
+We have an airtight encasement, so oxygen cannot enter in,
+
+686
+00:42:59,101 --> 00:43:02,600
+so there cannot be any chemical degradation of the document.
+
+687
+00:43:03,880 --> 00:43:09,320
+For everyone involved, the final product meant a piece of history would safely endure.
+
+688
+00:43:10,240 --> 00:43:17,180
+The Declaration of Independence encasement, we think, is a permanent home for the document,
+
+689
+00:43:17,320 --> 00:43:19,260
+and we think it will last a long, long time.
+
+690
+00:43:19,920 --> 00:43:24,260
+The newly fortified encasement sits proudly in the archives today.
+
+691
+00:43:24,261 --> 00:43:31,020
+preserved, protected, and rescued from fading any further at the hands of time.
+
+692
+00:43:31,980 --> 00:43:34,780
+In its encasement, it's incredibly beautiful.
+
+693
+00:43:35,880 --> 00:43:40,160
+The display serves as a reminder that while time may take its toll,
+
+694
+00:43:40,580 --> 00:43:43,960
+lasting creations and ideals can still prevail.
+
+695
+00:43:45,140 --> 00:43:50,340
+Throughout history, civilization has been trying to build things to last through the ages.
+
+696
+00:43:50,341 --> 00:43:55,220
+And with technology's help, we're getting better at it every day.
+

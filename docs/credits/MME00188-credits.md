@@ -1,0 +1,44 @@
+# Credit Roll: West Point (2001)
+**Canonical Episode:** [`MME00188: West Point`](../episodes/MME00188.md)
+
+---
+
+### Copyright & Studio Identification
+* **Copyright Notice:** `©2001 A&E Television Networks All Rights Reserved`
+* **Production Company:** Actuality Productions, Inc.
+* **Narrator:** Dawn Irwin
+
+### Complete Transcribed On-Screen Crew Roll
+
+| Screen Heading | Credited Name(s) |
+| :--- | :--- |
+| **Animation** | Glenn Takakjian |
+| **Archivist** | Nilda Jensen |
+| **Assistant Editors** | Michael Lim, Stephen Franklin |
+| **Clearance Assistant** | Gabe Martinez |
+| **Clearance Supervisor** | Katie Del Core |
+| **Consulting Producer** | Henry Schipper |
+| **Created by** | Bruce Nash |
+| **Director of Research** | Hildie Katibah |
+| **Edited by** | Andre Vaillancourt |
+| **Field Audio** | Frank Baglino, Andy Kralik |
+| **Footage Consultant** | Ted Troll |
+| **For HISTORY / Executive Producer** | Beth Dietrich-Segarra |
+| **Graphics** | Barry Hill |
+| **Historical Consultants** | Michael D'Aquino, Dave Palmer |
+| **Line Producer** | Paul Dzilvelis |
+| **Music by** | Alan Ett |
+| **Online Editor** | David Rex |
+| **Post Production Coordinator** | Gary Reid |
+| **Post Production Supervisor** | Jason Steinberg |
+| **Produced by** | Actuality Productions, Inc. for HISTORY |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Maryalice R. Aragon, Rasi Delgado, Suni Nivens |
+| **Production Coordinator** | Michael Z. Davis |
+| **Researchers** | Mark Savage, Diane Wai |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Dawn Irwin |
+| **Written and Produced by** | Robert Ziel |
+
+---
+[← Return to Episode Dossier](../episodes/MME00188.md)
