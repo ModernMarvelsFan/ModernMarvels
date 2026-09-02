@@ -36,6 +36,7 @@ markdown_extensions:
 - attr_list
 nav:
 - Home: index.md
+- Database Audit & Discrepancies: orphan-audit.md
 - Episodes Directory:
   - '1993–1996: Foundations (MME00001–MME00075)':
     - 'MME00001: Grand Coulee Dam': episodes/MME00001.md
