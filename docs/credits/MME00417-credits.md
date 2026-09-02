@@ -1,10 +1,12 @@
 # Credit Roll: Engineering Disasters 13 (2004)
 **Canonical Episode:** [`MME00417: Engineering Disasters 13`](../episodes/MME00417.md)
 
+**Downloads:** [Credits JSON](json/MME00417-credits.json) • [Credits Plain Text](txt/MME00417-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

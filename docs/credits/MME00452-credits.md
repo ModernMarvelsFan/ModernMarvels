@@ -1,10 +1,12 @@
 # Credit Roll: The Doomsday Clock (2005)
 **Canonical Episode:** [`MME00452: The Doomsday Clock`](../episodes/MME00452.md)
 
+**Downloads:** [Credits JSON](json/MME00452-credits.json) • [Credits Plain Text](txt/MME00452-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2003 A&E Television Networks`
+* **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by / Weller/Grossman Productions for History
 * **Narrator:** Beau Weaver
 

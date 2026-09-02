@@ -1,10 +1,12 @@
 # Credit Roll: Sticky Stuff (2007)
 **Canonical Episode:** [`MME00593: Sticky Stuff`](../episodes/MME00593.md)
 
+**Downloads:** [Credits JSON](json/MME00593-credits.json) • [Credits Plain Text](txt/MME00593-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2007 A&E Television Networks, All Rights Reserved`
+* **Copyright Notice:** `© 2007 A&E Television Networks, All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., History Television Networks Productions
 * **Narrator:** Max Raphael
 

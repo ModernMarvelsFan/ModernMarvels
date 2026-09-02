@@ -1,10 +1,12 @@
 # Credit Roll: Fast Food (2021)
 **Canonical Episode:** [`MME00725: Fast Food`](../episodes/MME00725.md)
 
+**Downloads:** [Credits JSON](json/MME00725-credits.json) • [Credits Plain Text](txt/MME00725-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2021 A&E Television Networks`
+* **Copyright Notice:** `© 2021 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by the Six West Media™ Group for HISTORY®
 * **Narrator:** —
 

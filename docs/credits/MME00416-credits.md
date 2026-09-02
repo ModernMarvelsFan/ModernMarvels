@@ -1,10 +1,12 @@
 # Credit Roll: Surveillance Tech (2004)
 **Canonical Episode:** [`MME00416: Surveillance Tech`](../episodes/MME00416.md)
 
+**Downloads:** [Credits JSON](json/MME00416-credits.json) • [Credits Plain Text](txt/MME00416-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2004 A&E Television Network All Rights Reserved`
+* **Copyright Notice:** `© 2004 A&E Television Network All Rights Reserved`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

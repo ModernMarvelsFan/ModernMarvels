@@ -1,10 +1,12 @@
 # Credit Roll: Harvesting 2 (2006)
 **Canonical Episode:** [`MME00562: Harvesting 2`](../episodes/MME00562.md)
 
+**Downloads:** [Credits JSON](json/MME00562-credits.json) • [Credits Plain Text](txt/MME00562-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2006 A&E Television Networks`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, A&E Television Networks
 * **Narrator:** Max Raphael
 

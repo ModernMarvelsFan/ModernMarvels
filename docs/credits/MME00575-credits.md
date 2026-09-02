@@ -1,6 +1,8 @@
 # Credit Roll: Star Trek Tech (2007)
 **Canonical Episode:** [`MME00575: Star Trek Tech`](../episodes/MME00575.md)
 
+**Downloads:** [Credits JSON](json/MME00575-credits.json) • [Credits Plain Text](txt/MME00575-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

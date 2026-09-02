@@ -1,6 +1,8 @@
 # Credit Roll: Aluminum (2007)
 **Canonical Episode:** [`MME00592: Aluminum`](../episodes/MME00592.md)
 
+**Downloads:** [Credits JSON](json/MME00592-credits.json) • [Credits Plain Text](txt/MME00592-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

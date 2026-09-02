@@ -1,10 +1,12 @@
 # Credit Roll: Casino Technology (1999)
 **Canonical Episode:** [`MME00114: Casino Technology`](../episodes/MME00114.md)
 
+**Downloads:** [Credits JSON](json/MME00114-credits.json) • [Credits Plain Text](txt/MME00114-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 1999 & 2005 A&E Television Network All Rights Reserved`
+* **Copyright Notice:** `© 1999 & 2005 A&E Television Network All Rights Reserved`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Network
 * **Narrator:** MIKKI DEL MONICO
 

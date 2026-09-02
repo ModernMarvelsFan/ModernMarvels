@@ -1,6 +1,8 @@
 # Credit Roll: Las Vegas (1995)
 **Canonical Episode:** [`MME00009: Las Vegas`](../episodes/MME00009.md)
 
+**Downloads:** [Credits JSON](json/MME00009-credits.json) • [Credits Plain Text](txt/MME00009-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

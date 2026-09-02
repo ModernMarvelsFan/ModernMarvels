@@ -1,10 +1,12 @@
 # Credit Roll: Domed Stadiums (1995)
 **Canonical Episode:** [`MME00011: Domed Stadiums`](../episodes/MME00011.md)
 
+**Downloads:** [Credits JSON](json/MME00011-credits.json) • [Credits Plain Text](txt/MME00011-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2001 A&E Television Networks`
+* **Copyright Notice:** `© 1995 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** JIM KEESHEN PRODUCTIONS
 * **Narrator:** MAX RAPHEAL
 

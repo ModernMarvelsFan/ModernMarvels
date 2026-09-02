@@ -1,11 +1,13 @@
 # Credit Roll: The Pig (2007)
 **Canonical Episode:** [`MME00607: The Pig`](../episodes/MME00607.md)
 
+**Downloads:** [Credits JSON](json/MME00607-credits.json) • [Credits Plain Text](txt/MME00607-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2007 A&E Television Networks, All Rights Reserved`
-* **Production Company:** Actuality Productions, Inc., History Television Networks Productions, i.e. effects, Alan Ett Music Group
+* **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -23,11 +25,9 @@
 | **Created by** | Bruce Nash |
 | **Director of Clearance** | Jerianne Keaney |
 | **Director of Research** | Terrence Hartwell |
-| **Editor** | Harold E. Rouze Jr. |
+| **Editor** | Harold E. Houze Jr. |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Ryan Agostino, Ray Day, Ryan Handley, Ken Paulakovich, Charles Rohr, Greg Stidham, Paul Wustrack |
-| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **For The History Channel / Programming Coordinator** | Adam Rosante |
 | **Historical Consultant** | National Pork Board |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |

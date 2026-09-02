@@ -1,10 +1,12 @@
 # Credit Roll: Shotguns (2006)
 **Canonical Episode:** [`MME00544: Shotguns`](../episodes/MME00544.md)
 
+**Downloads:** [Credits JSON](json/MME00544-credits.json) • [Credits Plain Text](txt/MME00544-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c)MCMXCIX A&E TELEVISION NETWORKS All Rights Reserved`
+* **Copyright Notice:** `©MCMXCIX A&E TELEVISION NETWORKS All Rights Reserved`
 * **Production Company:** GREYSTONE COMMUNICATIONS, INC., THE HISTORY CHANNEL, A&E TELEVISION NETWORKS
 * **Narrator:** —
 

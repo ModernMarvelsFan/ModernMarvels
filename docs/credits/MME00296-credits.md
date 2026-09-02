@@ -1,10 +1,12 @@
 # Credit Roll: Exterminator (2003)
 **Canonical Episode:** [`MME00296: Exterminator`](../episodes/MME00296.md)
 
+**Downloads:** [Credits JSON](json/MME00296-credits.json) • [Credits Plain Text](txt/MME00296-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2002 A&E Television Networks`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL
 * **Narrator:** MAX RAPHAEL, BEATA GENIN
 

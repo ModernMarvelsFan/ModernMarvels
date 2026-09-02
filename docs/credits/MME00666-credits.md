@@ -1,10 +1,12 @@
 # Credit Roll: Hot & Spicy (2010)
 **Canonical Episode:** [`MME00666: Hot & Spicy`](../episodes/MME00666.md)
 
+**Downloads:** [Credits JSON](json/MME00666-credits.json) • [Credits Plain Text](txt/MME00666-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History / © 2009 A&E Television Networks, All Rights Reserved`
+* **Copyright Notice:** `Produced by Actuality Productions, Inc.. For History. © 2009 A&E Television Networks, All Rights Reserved`
 * **Production Company:** Produced by Actuality Productions, Inc.
 * **Narrator:** Max Raphael
 

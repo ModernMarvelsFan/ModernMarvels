@@ -1,10 +1,12 @@
 # Credit Roll: The Manhattan Project. (2002)
 **Canonical Episode:** [`MME00231: The Manhattan Project.`](../episodes/MME00231.md)
 
+**Downloads:** [Credits JSON](json/MME00231-credits.json) • [Credits Plain Text](txt/MME00231-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2002 A&E Television Networks`
+* **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** The History Channel, A&E Television Networks
 * **Narrator:** Max Raphael, Dawn Irwin
 

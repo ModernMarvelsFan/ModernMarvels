@@ -1,10 +1,12 @@
 # Credit Roll: Tower Bridge (2000)
 **Canonical Episode:** [`MME00118: Tower Bridge`](../episodes/MME00118.md)
 
+**Downloads:** [Credits JSON](json/MME00118-credits.json) • [Credits Plain Text](txt/MME00118-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, THE HISTORY CHANNEL
 * **Narrator:** —
 

@@ -1,10 +1,12 @@
 # Credit Roll: Built by Hand (2011)
 **Canonical Episode:** [`MME00692: Built by Hand`](../episodes/MME00692.md)
 
+**Downloads:** [Credits JSON](json/MME00692-credits.json) • [Credits Plain Text](txt/MME00692-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2011 A&E Television Networks`
+* **Copyright Notice:** `© 2011 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by Jupiter Entertainment
 * **Narrator:** Max Raphael
 

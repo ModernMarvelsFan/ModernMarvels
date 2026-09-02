@@ -1,10 +1,12 @@
 # Credit Roll: Rubber (2004)
 **Canonical Episode:** [`MME00378: Rubber`](../episodes/MME00378.md)
 
+**Downloads:** [Credits JSON](json/MME00378-credits.json) • [Credits Plain Text](txt/MME00378-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MIKKI DEL MONICO, MAX RAPHAEL
 

@@ -1,10 +1,12 @@
 # Credit Roll: Towing. (2002)
 **Canonical Episode:** [`MME00242: Towing.`](../episodes/MME00242.md)
 
+**Downloads:** [Credits JSON](json/MME00242-credits.json) • [Credits Plain Text](txt/MME00242-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS (new yellow/black cube logo), Hearst Entertainment
 * **Narrator:** ANTHONY LACQUES
 

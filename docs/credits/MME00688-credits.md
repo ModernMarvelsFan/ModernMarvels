@@ -1,10 +1,12 @@
 # Credit Roll: Grease (2011)
 **Canonical Episode:** [`MME00688: Grease`](../episodes/MME00688.md)
 
+**Downloads:** [Credits JSON](json/MME00688-credits.json) • [Credits Plain Text](txt/MME00688-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2011 A&E TELEVISION NETWORKS / ALL RIGHTS RESERVED.`
+* **Copyright Notice:** `© 2011 A&E TELEVISION NETWORKS. ALL RIGHTS RESERVED.`
 * **Production Company:** —
 * **Narrator:** MAX RAPHAEL
 

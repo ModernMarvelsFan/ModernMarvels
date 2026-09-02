@@ -1,10 +1,12 @@
 # Credit Roll: Ice (2007)
 **Canonical Episode:** [`MME00572: Ice`](../episodes/MME00572.md)
 
+**Downloads:** [Credits JSON](json/MME00572-credits.json) • [Credits Plain Text](txt/MME00572-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History Television Network Productions / (c)2007 A&E Television Networks, All Rights Reserved`
+* **Copyright Notice:** `Produced by Actuality Productions, Inc.. For History Television Network Productions. ©2007 A&E Television Networks, All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, FlyingBlue Studio (animation), A&E Television Networks (rights holder), Alan Ett Music Group
 * **Narrator:** Max Raphael
 

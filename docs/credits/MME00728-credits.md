@@ -1,10 +1,12 @@
 # Credit Roll: Heavy Machinery (2021)
 **Canonical Episode:** [`MME00728: Heavy Machinery`](../episodes/MME00728.md)
 
+**Downloads:** [Credits JSON](json/MME00728-credits.json) • [Credits Plain Text](txt/MME00728-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2021 A&E Television Networks`
+* **Copyright Notice:** `© 2021 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** THE SIX WEST MEDIA(TM) GROUP, HISTORY(R)
 * **Narrator:** —
 

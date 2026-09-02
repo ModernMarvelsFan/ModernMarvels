@@ -1,10 +1,12 @@
 # Credit Roll: Tiny Weapons (2012)
 **Canonical Episode:** [`MME00703: Tiny Weapons`](../episodes/MME00703.md)
 
+**Downloads:** [Credits JSON](json/MME00703-credits.json) • [Credits Plain Text](txt/MME00703-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2012 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Half Yard Productions, LLC, TAKOMA MEDIA
 * **Narrator:** —
 

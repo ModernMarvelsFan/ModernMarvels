@@ -1,10 +1,12 @@
 # Credit Roll: Loading Docks (2003)
 **Canonical Episode:** [`MME00310: Loading Docks`](../episodes/MME00310.md)
 
+**Downloads:** [Credits JSON](json/MME00310-credits.json) • [Credits Plain Text](txt/MME00310-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** THE HISTORY CHANNEL, (illegible) PRODUCTIONS, INC.
 * **Narrator:** BEATA GENIN, MAX RAPHAEL
 

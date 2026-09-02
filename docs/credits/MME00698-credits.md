@@ -1,10 +1,12 @@
 # Credit Roll: Battle Ready (2011)
 **Canonical Episode:** [`MME00698: Battle Ready`](../episodes/MME00698.md)
 
+**Downloads:** [Credits JSON](json/MME00698-credits.json) • [Credits Plain Text](txt/MME00698-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Half Yard Productions / For A&E Television Networks (R)`
+* **Copyright Notice:** `Produced by Half Yard Productions. For A&E Television Networks (R)`
 * **Production Company:** Half Yard Productions (producer), PERCOLATE DIGITAL (3D animation), A&E Television Networks
 * **Narrator:** —
 

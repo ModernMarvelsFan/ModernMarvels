@@ -1,10 +1,12 @@
 # Credit Roll: Bulls-eye (2008)
 **Canonical Episode:** [`MME00643: Bulls-eye`](../episodes/MME00643.md)
 
+**Downloads:** [Credits JSON](json/MME00643-credits.json) • [Credits Plain Text](txt/MME00643-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History / (c) 2008 A&E Television Networks, All Rights Reserved`
+* **Copyright Notice:** `Produced by Actuality Productions, Inc.. For History. © 2008 A&E Television Networks, All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., Alan Ett Music Group, A&E Television Networks (rights holder)
 * **Narrator:** Max Raphael
 

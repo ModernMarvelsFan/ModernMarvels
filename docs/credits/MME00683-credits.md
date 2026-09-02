@@ -1,10 +1,12 @@
 # Credit Roll: Secret Underground (2010)
 **Canonical Episode:** [`MME00683: Secret Underground`](../episodes/MME00683.md)
 
+**Downloads:** [Credits JSON](json/MME00683-credits.json) • [Credits Plain Text](txt/MME00683-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2010 A&E Television Networks, LLC. All Rights Reserved`
+* **Copyright Notice:** `© 2010 A&E Television Networks, LLC. All Rights Reserved`
 * **Production Company:** Jupiter Entertainment
 * **Narrator:** Lloyd Sherr
 

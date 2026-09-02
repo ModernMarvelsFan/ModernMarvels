@@ -1,10 +1,12 @@
 # Credit Roll: Tea (2006)
 **Canonical Episode:** [`MME00565: Tea`](../episodes/MME00565.md)
 
+**Downloads:** [Credits JSON](json/MME00565-credits.json) • [Credits Plain Text](txt/MME00565-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2006 A&E Television Networks`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions
 * **Narrator:** Max Raphael
 

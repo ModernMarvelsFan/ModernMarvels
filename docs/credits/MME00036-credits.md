@@ -1,10 +1,12 @@
 # Credit Roll: Captured Light (1996)
 **Canonical Episode:** [`MME00036: Captured Light`](../episodes/MME00036.md)
 
+**Downloads:** [Credits JSON](json/MME00036-credits.json) • [Credits Plain Text](txt/MME00036-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1996 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** JAFFE PRODUCTIONS, Hearst Entertainment, ACTUALITY Productions, Inc.
 * **Narrator:** HARLAN SAPERSTEIN
 

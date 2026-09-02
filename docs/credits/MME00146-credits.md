@@ -1,10 +1,12 @@
 # Credit Roll: Assembly Lines (2000)
 **Canonical Episode:** [`MME00146: Assembly Lines`](../episodes/MME00146.md)
 
+**Downloads:** [Credits JSON](json/MME00146-credits.json) • [Credits Plain Text](txt/MME00146-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2000 A&E Television Networks`
+* **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., HISTORY TELEVISION NETWORK PRODUCTIONS
 * **Narrator:** JOHN KNAPP, MAX RAPHAEL
 

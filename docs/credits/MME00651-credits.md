@@ -1,6 +1,8 @@
 # Credit Roll: Measure It (2008)
 **Canonical Episode:** [`MME00651: Measure It`](../episodes/MME00651.md)
 
+**Downloads:** [Credits JSON](json/MME00651-credits.json) • [Credits Plain Text](txt/MME00651-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

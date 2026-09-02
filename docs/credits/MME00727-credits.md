@@ -1,10 +1,12 @@
 # Credit Roll: Adventure Machines (2021)
 **Canonical Episode:** [`MME00727: Adventure Machines`](../episodes/MME00727.md)
 
+**Downloads:** [Credits JSON](json/MME00727-credits.json) • [Credits Plain Text](txt/MME00727-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `PRODUCED BY THE SIX WEST MEDIA(TM) GROUP FOR HISTORY(R) / (c)2021 A&E Television Networks, LLC. / All Rights Reserved.`
+* **Copyright Notice:** `PRODUCED BY THE SIX WEST MEDIA(TM) GROUP FOR HISTORY(R). ©2021 A&E Television Networks, LLC.. All Rights Reserved.`
 * **Production Company:** THE SIX WEST MEDIA(TM) GROUP (producer), A&E Television Networks, LLC (rights holder), Motion Picture Enterprises, Inc. (post facility), Monkeyhead (graphics)
 * **Narrator:** —
 

@@ -1,6 +1,8 @@
 # Credit Roll: Amazing Job Countdown (2013)
 **Canonical Episode:** [`MME00714: Amazing Job Countdown`](../episodes/MME00714.md)
 
+**Downloads:** [Credits JSON](json/MME00714-credits.json) • [Credits Plain Text](txt/MME00714-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

@@ -1,10 +1,12 @@
 # Credit Roll: Heavy Metals (2006)
 **Canonical Episode:** [`MME00524: Heavy Metals`](../episodes/MME00524.md)
 
+**Downloads:** [Credits JSON](json/MME00524-credits.json) • [Credits Plain Text](txt/MME00524-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2006 A&E Television Networks`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, The History Channel, A&E Television Networks
 * **Narrator:** John Knapp, Max Raphael
 

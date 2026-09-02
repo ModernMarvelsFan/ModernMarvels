@@ -1,10 +1,12 @@
 # Credit Roll: Plane Crashes (2004)
 **Canonical Episode:** [`MME00374: Plane Crashes`](../episodes/MME00374.md)
 
+**Downloads:** [Credits JSON](json/MME00374-credits.json) • [Credits Plain Text](txt/MME00374-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Network
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

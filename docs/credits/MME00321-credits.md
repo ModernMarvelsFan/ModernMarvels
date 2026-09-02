@@ -1,10 +1,12 @@
 # Credit Roll: Space Shuttle Columbia (2003)
 **Canonical Episode:** [`MME00321: Space Shuttle Columbia`](../episodes/MME00321.md)
 
+**Downloads:** [Credits JSON](json/MME00321-credits.json) • [Credits Plain Text](txt/MME00321-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c)2003 A&E Television Networks All Rights Reserved.`
+* **Copyright Notice:** `©2003 A&E Television Networks All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY CHANNEL
 * **Narrator:** MAX RAPHAEL, MELANIE PIPES
 

@@ -1,6 +1,8 @@
 # Credit Roll: Apollo 11 (2004)
 **Canonical Episode:** [`MME00383: Apollo 11`](../episodes/MME00383.md)
 
+**Downloads:** [Credits JSON](json/MME00383-credits.json) • [Credits Plain Text](txt/MME00383-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

@@ -1,10 +1,12 @@
 # Credit Roll: Diamond Mines (2001)
 **Canonical Episode:** [`MME00190: Diamond Mines`](../episodes/MME00190.md)
 
+**Downloads:** [Credits JSON](json/MME00190-credits.json) • [Credits Plain Text](txt/MME00190-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Hearst Entertainment, The History Channel
 * **Narrator:** Dawn Irwin
 

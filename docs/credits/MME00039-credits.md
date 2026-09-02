@@ -1,10 +1,12 @@
 # Credit Roll: Stealth Technology (1997)
 **Canonical Episode:** [`MME00039: Stealth Technology`](../episodes/MME00039.md)
 
+**Downloads:** [Credits JSON](json/MME00039-credits.json) • [Credits Plain Text](txt/MME00039-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2005, 1997 A&E Television Network All Rights Reserved [programme roll's own final card] // © 2006 A&E Television Networks. All Rights Reserved. [separate`
+* **Copyright Notice:** `© 2005, 1997 A&E Television Network All Rights Reserved [programme roll's own final card]./ © 2006 A&E Television Networks. All Rights Reserved. [separate`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, THE HISTORY CHANNEL, A&E Television Network, ALAN ETT MUSIC GROUP
 * **Narrator:** MAX RAPHAEL, JOHN KNAPP
 

@@ -1,6 +1,8 @@
 # Credit Roll: City Water (2004)
 **Canonical Episode:** [`MME00379: City Water`](../episodes/MME00379.md)
 
+**Downloads:** [Credits JSON](json/MME00379-credits.json) • [Credits Plain Text](txt/MME00379-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

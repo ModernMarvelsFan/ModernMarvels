@@ -1,10 +1,12 @@
 # Credit Roll: Doors (2010)
 **Canonical Episode:** [`MME00673: Doors`](../episodes/MME00673.md)
 
+**Downloads:** [Credits JSON](json/MME00673-credits.json) • [Credits Plain Text](txt/MME00673-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History / (c) 2009 A&E Television Networks, All Rights Reserved`
+* **Copyright Notice:** `Produced by Actuality Productions, Inc.. For History. © 2009 A&E Television Networks, All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., FlyingBlue Studio (animation), A&E Television Networks (rights holder)
 * **Narrator:** Max Raphael
 

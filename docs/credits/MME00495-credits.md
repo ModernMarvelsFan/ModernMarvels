@@ -1,10 +1,12 @@
 # Credit Roll: Brewing (2005)
 **Canonical Episode:** [`MME00495: Brewing`](../episodes/MME00495.md)
 
+**Downloads:** [Credits JSON](json/MME00495-credits.json) • [Credits Plain Text](txt/MME00495-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by ACTUALITY PRODUCTIONS, INC. / History Television Network Productions / © 2005 A&E Television Network All Rights Reserved`
+* **Copyright Notice:** `Produced by ACTUALITY PRODUCTIONS, INC.. History Television Network Productions. © 2005 A&E Television Network All Rights Reserved`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Network
 * **Narrator:** JOHN KNAPP, MAX RAPHAEL
 

@@ -1,6 +1,8 @@
 # Credit Roll: Bible Tech (2004)
 **Canonical Episode:** [`MME00367: Bible Tech`](../episodes/MME00367.md)
 
+**Downloads:** [Credits JSON](json/MME00367-credits.json) • [Credits Plain Text](txt/MME00367-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

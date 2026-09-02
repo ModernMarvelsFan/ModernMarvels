@@ -1,10 +1,12 @@
 # Credit Roll: More Dangerous Cargo! (2004)
 **Canonical Episode:** [`MME00427: More Dangerous Cargo!`](../episodes/MME00427.md)
 
+**Downloads:** [Credits JSON](json/MME00427-credits.json) • [Credits Plain Text](txt/MME00427-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, The History Channel
 * **Narrator:** MIKKI DEL MONICO
 

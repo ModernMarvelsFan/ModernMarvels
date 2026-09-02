@@ -1,10 +1,12 @@
 # Credit Roll: Antibiotics: The Wonder Drugs (1998)
 **Canonical Episode:** [`MME00069: Antibiotics: The Wonder Drugs`](../episodes/MME00069.md)
 
+**Downloads:** [Credits JSON](json/MME00069-credits.json) • [Credits Plain Text](txt/MME00069-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1998 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment
 * **Narrator:** —
 

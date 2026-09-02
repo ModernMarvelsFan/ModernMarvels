@@ -1,10 +1,12 @@
 # Credit Roll: Terror Tech: Military (2003)
 **Canonical Episode:** [`MME00311: Terror Tech: Military`](../episodes/MME00311.md)
 
+**Downloads:** [Credits JSON](json/MME00311-credits.json) • [Credits Plain Text](txt/MME00311-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** GREYSTONE COMMUNICATIONS, INC., 615 MUSIC
 * **Narrator:** WILL LYMAN
 

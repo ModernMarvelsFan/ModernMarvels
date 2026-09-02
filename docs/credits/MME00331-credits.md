@@ -1,10 +1,12 @@
 # Credit Roll: The Luftwaffe (2003)
 **Canonical Episode:** [`MME00331: The Luftwaffe`](../episodes/MME00331.md)
 
+**Downloads:** [Credits JSON](json/MME00331-credits.json) • [Credits Plain Text](txt/MME00331-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 1993 A&E Television Networks`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** PATRIOT FILMS (Production Services by), GREYSTONE COMMUNICATIONS, INC. (Produced By), THE HISTORY CHANNEL (In Association With), A&E TELEVISION NETWORKS (copyright holder), MATCHFRAME VIDEO, SOUND SERVICES, INC., HOLLYWOOD FILM CO., GIRL FRIDAY CO.
 * **Narrator:** —
 

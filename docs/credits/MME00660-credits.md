@@ -1,10 +1,12 @@
 # Credit Roll: Tuna (2010)
 **Canonical Episode:** [`MME00660: Tuna`](../episodes/MME00660.md)
 
+**Downloads:** [Credits JSON](json/MME00660-credits.json) • [Credits Plain Text](txt/MME00660-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2009 A&E Television Networks`
+* **Copyright Notice:** `© 2010 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc.
 * **Narrator:** MAX RAPHAEL
 

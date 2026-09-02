@@ -1,6 +1,8 @@
 # Credit Roll: Super Strong Countdown (2013)
 **Canonical Episode:** [`MME00713: Super Strong Countdown`](../episodes/MME00713.md)
 
+**Downloads:** [Credits JSON](json/MME00713-credits.json) • [Credits Plain Text](txt/MME00713-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

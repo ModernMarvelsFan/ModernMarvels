@@ -1,10 +1,12 @@
 # Credit Roll: Canning (2007)
 **Canonical Episode:** [`MME00570: Canning`](../episodes/MME00570.md)
 
+**Downloads:** [Credits JSON](json/MME00570-credits.json) • [Credits Plain Text](txt/MME00570-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c)2007 A&E Television Networks, All Rights Reserved`
+* **Copyright Notice:** `©2007 A&E Television Networks, All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions
 * **Narrator:** Max Raphael
 

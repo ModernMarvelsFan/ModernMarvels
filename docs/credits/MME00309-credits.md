@@ -1,10 +1,12 @@
 # Credit Roll: Convertibles (2003)
 **Canonical Episode:** [`MME00309: Convertibles`](../episodes/MME00309.md)
 
+**Downloads:** [Credits JSON](json/MME00309-credits.json) • [Credits Plain Text](txt/MME00309-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** GREYSTONE COMMUNICATIONS, INC., THE HISTORY CHANNEL
 * **Narrator:** DAVE WALSH
 

@@ -1,10 +1,12 @@
 # Credit Roll: U.S. Guns of World War II (2003)
 **Canonical Episode:** [`MME00289: U.S. Guns of World War II`](../episodes/MME00289.md)
 
+**Downloads:** [Credits JSON](json/MME00289-credits.json) • [Credits Plain Text](txt/MME00289-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 1999 A&E Television Networks`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Greystone Communications, Inc., The History Channel, Matchframe Video, HMA Digital
 * **Narrator:** THOM PINTO
 

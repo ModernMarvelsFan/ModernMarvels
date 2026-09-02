@@ -1,10 +1,12 @@
 # Credit Roll: Rocks (2007)
 **Canonical Episode:** [`MME00608: Rocks`](../episodes/MME00608.md)
 
+**Downloads:** [Credits JSON](json/MME00608-credits.json) • [Credits Plain Text](txt/MME00608-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History Television Networks Productions / (c) 2007 A&E Television Networks, All Rights Reserved`
+* **Copyright Notice:** `Produced by Actuality Productions, Inc.. For History Television Networks Productions. © 2007 A&E Television Networks, All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., History Television Networks Productions, A&E Television Networks (rights holder)
 * **Narrator:** Max Raphael
 

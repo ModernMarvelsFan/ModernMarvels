@@ -1,10 +1,12 @@
 # Credit Roll: Inside Your Walls (2011)
 **Canonical Episode:** [`MME00691: Inside Your Walls`](../episodes/MME00691.md)
 
+**Downloads:** [Credits JSON](json/MME00691-credits.json) • [Credits Plain Text](txt/MME00691-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2011 A&E Television Networks`
+* **Copyright Notice:** `© 2011 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by Jupiter Entertainment
 * **Narrator:** Max Raphael
 

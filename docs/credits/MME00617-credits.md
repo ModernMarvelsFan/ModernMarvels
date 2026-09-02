@@ -1,18 +1,20 @@
 # Credit Roll: Strange Weapons (2008)
 **Canonical Episode:** [`MME00617: Strange Weapons`](../episodes/MME00617.md)
 
+**Downloads:** [Credits JSON](json/MME00617-credits.json) • [Credits Plain Text](txt/MME00617-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History Television Networks Productions / © 2008 A&E Television Networks, All Rights Reserved`
-* **Production Company:** Actuality Productions, Inc., History Television Networks Productions, A&E Television Networks
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | Sheridan Liu, Diana Stolpe |
+| **Accountants** | Sheridan Liu, Diana Stoipe |
 | **Animated Stills** | Adam Goodwin |
 | **Animation** | FlyingBlue Studio |
 | **Assistant Editors** | Alexander Rubinow, Patrick Cashman |
@@ -27,8 +29,6 @@
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Ryan Agostino, Aaron Holloway, Rory Nix, William R. "Lee" Peach, Robert Porter, Charles Rohr, Rob Sumner |
-| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **For The History Channel / Programming Coordinator** | Kristen Burns |
 | **Historical Consultant** | Ned Barnett |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |

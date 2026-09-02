@@ -1,10 +1,12 @@
 # Credit Roll: Distilleries 2 (2006)
 **Canonical Episode:** [`MME00555: Distilleries 2`](../episodes/MME00555.md)
 
+**Downloads:** [Credits JSON](json/MME00555-credits.json) • [Credits Plain Text](txt/MME00555-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by / ACTUALITY PRODUCTIONS, INC. / History Television Network Productions / (c) 2006 / A&E Television Networks / All Rights Reserved`
+* **Copyright Notice:** `Produced by. ACTUALITY PRODUCTIONS, INC.. History Television Network Productions. © 2006. A&E Television Networks. All Rights Reserved`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, FLYINGBLUE STUDIO (animation), A&E Television Networks (rights holder)
 * **Narrator:** —
 

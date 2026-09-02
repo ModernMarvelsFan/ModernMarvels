@@ -1,6 +1,8 @@
 # Credit Roll: Made in the USA (2010)
 **Canonical Episode:** [`MME00684: Made in the USA`](../episodes/MME00684.md)
 
+**Downloads:** [Credits JSON](json/MME00684-credits.json) • [Credits Plain Text](txt/MME00684-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

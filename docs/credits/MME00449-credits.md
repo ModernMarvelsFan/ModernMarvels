@@ -1,10 +1,12 @@
 # Credit Roll: Taxidermy (2005)
 **Canonical Episode:** [`MME00449: Taxidermy`](../episodes/MME00449.md)
 
+**Downloads:** [Credits JSON](json/MME00449-credits.json) • [Credits Plain Text](txt/MME00449-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2005 A&E Television Networks`
+* **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MIKKI DEL MONICO
 

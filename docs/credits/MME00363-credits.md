@@ -1,10 +1,12 @@
 # Credit Roll: Oil Fire Fighting (2004)
 **Canonical Episode:** [`MME00363: Oil Fire Fighting`](../episodes/MME00363.md)
 
+**Downloads:** [Credits JSON](json/MME00363-credits.json) • [Credits Plain Text](txt/MME00363-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `PRODUCED BY ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL / © 2004 A&E Television Networks All Rights Reserved.`
+* **Copyright Notice:** `PRODUCED BY ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL. © 2004 A&E Television Networks All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., The History Channel, A&E Television Networks
 * **Narrator:** MAX RAPHAEL, MELANIE PIPES
 

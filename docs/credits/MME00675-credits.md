@@ -1,6 +1,8 @@
 # Credit Roll: Top Ten (2010)
 **Canonical Episode:** [`MME00675: Top Ten`](../episodes/MME00675.md)
 
+**Downloads:** [Credits JSON](json/MME00675-credits.json) • [Credits Plain Text](txt/MME00675-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

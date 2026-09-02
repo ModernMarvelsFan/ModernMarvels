@@ -1,10 +1,12 @@
 # Credit Roll: Environmental Tech (2007)
 **Canonical Episode:** [`MME00569: Environmental Tech`](../episodes/MME00569.md)
 
+**Downloads:** [Credits JSON](json/MME00569-credits.json) • [Credits Plain Text](txt/MME00569-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2007 A&E Television Networks`
+* **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, i.e. effects
 * **Narrator:** MAX RAPHAEL
 

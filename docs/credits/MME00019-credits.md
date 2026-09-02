@@ -1,10 +1,12 @@
 # Credit Roll: Brooklyn Bridge (1995)
 **Canonical Episode:** [`MME00019: Brooklyn Bridge`](../episodes/MME00019.md)
 
+**Downloads:** [Credits JSON](json/MME00019-credits.json) • [Credits Plain Text](txt/MME00019-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1995 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** JAFFE PRODUCTIONS, Hearst Entertainment Television, The History Channel
 * **Narrator:** EARL BOEN
 

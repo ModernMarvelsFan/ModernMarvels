@@ -1,10 +1,12 @@
 # Credit Roll: Library of Congress (2009)
 **Canonical Episode:** [`MME00655: Library of Congress`](../episodes/MME00655.md)
 
+**Downloads:** [Credits JSON](json/MME00655-credits.json) • [Credits Plain Text](txt/MME00655-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History / © 2009 A&E Television Networks, All Rights Reserved`
+* **Copyright Notice:** `Produced by Actuality Productions, Inc.. For History. © 2009 A&E Television Networks, All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., A&E Television Networks
 * **Narrator:** Max Raphael
 

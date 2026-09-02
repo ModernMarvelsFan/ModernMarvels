@@ -1,10 +1,12 @@
 # Credit Roll: Parachutes (1999)
 **Canonical Episode:** [`MME00101: Parachutes`](../episodes/MME00101.md)
 
+**Downloads:** [Credits JSON](json/MME00101-credits.json) • [Credits Plain Text](txt/MME00101-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., Hearst Entertainment
 * **Narrator:** —
 

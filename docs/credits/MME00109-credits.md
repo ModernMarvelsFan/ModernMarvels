@@ -1,34 +1,23 @@
 # Credit Roll: Emergency Room (1999)
 **Canonical Episode:** [`MME00109: Emergency Room`](../episodes/MME00109.md)
 
+**Downloads:** [Credits JSON](json/MME00109-credits.json) • [Credits Plain Text](txt/MME00109-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
-* **Production Company:** PRODUCED BY ACTUALITY Productions, Inc., Hearst Entertainment
+* **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Additional Camera** | JIM BRUTON |
-| **Animation and Graphics** | GLENN TAKAKJIAN |
-| **Assistant Editors** | STUART BRODLIEB, HARRIS COHEN |
-| **Assistant Production Accountants** | LINDA SCRIBNER, JUDI MINITELLO |
-| **Camera Operators** | DANIEL CARP, STEVE COLEMAN, MICHAEL DEAN, GEORGE ODELL, GILBERT C. RANDALL, MATT STELL, BOYCE STRINGER |
-| **Consultant** | DR. HARLAN GIBBS |
-| **Field Audio** | STANLEY CHAN, GARY McCAFFERTY, SCOTT PALM, JOHN SIMONSON, DAVID WASON, MARTY R. ZIMMERMAN |
-| **Footage Consultant** | TED TROLL |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Supervising Producer** | BETH DIETRICH |
-| **Online Editor** | DAVID REX |
-| **Post Production Assistant** | GARY REID |
-| **Post Production Coordinator** | JASON STEINBERG |
-| **Production Assistants** | MARYALICE R. ARAGON, KRIS LEV-TWOMBLY, GWENDOLYN MURPHY, BRIAN VOLK |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Sound Mixer** | SAM KAUFMANN |
+| **Created by** | BRUCE NASH |
+| **Edited by** | SEAN DASH |
+| **Line Producer** | PAUL DZILVELIS |
+| **Producer** | BRUCE NASH |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00109.md)

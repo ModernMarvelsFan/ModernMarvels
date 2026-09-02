@@ -1,10 +1,12 @@
 # Credit Roll: Athens Subway (2004)
 **Canonical Episode:** [`MME00387: Athens Subway`](../episodes/MME00387.md)
 
+**Downloads:** [Credits JSON](json/MME00387-credits.json) • [Credits Plain Text](txt/MME00387-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2002 A&E Television Networks`
+* **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Flashback Television, The History Channel, A&E Television Networks, JUMP DESIGN
 * **Narrator:** Max Raphael
 

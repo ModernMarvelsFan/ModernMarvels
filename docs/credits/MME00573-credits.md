@@ -1,10 +1,12 @@
 # Credit Roll: More Ice (2007)
 **Canonical Episode:** [`MME00573: More Ice`](../episodes/MME00573.md)
 
+**Downloads:** [Credits JSON](json/MME00573-credits.json) • [Credits Plain Text](txt/MME00573-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2007 A&E Television Networks`
+* **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, The History Channel
 * **Narrator:** Max Raphael
 

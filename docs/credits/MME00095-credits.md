@@ -1,10 +1,12 @@
 # Credit Roll: Offshore Oil Drilling (1999)
 **Canonical Episode:** [`MME00095: Offshore Oil Drilling`](../episodes/MME00095.md)
 
+**Downloads:** [Credits JSON](json/MME00095-credits.json) • [Credits Plain Text](txt/MME00095-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 1999 A&E Television Networks`
+* **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY CHANNEL, A&E TELEVISION NETWORKS
 * **Narrator:** HARLAN SAPERSTEIN
 

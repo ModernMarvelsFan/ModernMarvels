@@ -1,10 +1,12 @@
 # Credit Roll: Drilling (2006)
 **Canonical Episode:** [`MME00520: Drilling`](../episodes/MME00520.md)
 
+**Downloads:** [Credits JSON](json/MME00520-credits.json) • [Credits Plain Text](txt/MME00520-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2006 A&E Television Networks`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, The History Channel
 * **Narrator:** JOHN KNAPP, MAX RAPHAEL
 

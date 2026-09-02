@@ -1,10 +1,12 @@
 # Credit Roll: Cold Cuts (2007)
 **Canonical Episode:** [`MME00610: Cold Cuts`](../episodes/MME00610.md)
 
+**Downloads:** [Credits JSON](json/MME00610-credits.json) • [Credits Plain Text](txt/MME00610-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2007 A&E Television Networks`
+* **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Networks Productions, i.e. effects
 * **Narrator:** MAX RAPHAEL
 

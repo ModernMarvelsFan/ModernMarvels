@@ -1,10 +1,12 @@
 # Credit Roll: Dynamite. (1999)
 **Canonical Episode:** [`MME00096: Dynamite.`](../episodes/MME00096.md)
 
+**Downloads:** [Credits JSON](json/MME00096-credits.json) • [Credits Plain Text](txt/MME00096-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c)1999 THE HISTORY CHANNEL / ALL RIGHTS RESERVED`
+* **Copyright Notice:** `©1999 THE HISTORY CHANNEL. ALL RIGHTS RESERVED`
 * **Production Company:** —
 * **Narrator:** Harlan Saperstein
 

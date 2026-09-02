@@ -1,11 +1,13 @@
 # Credit Roll: Corrosion & Decompositon (2008)
 **Canonical Episode:** [`MME00642: Corrosion & Decompositon`](../episodes/MME00642.md)
 
+**Downloads:** [Credits JSON](json/MME00642-credits.json) • [Credits Plain Text](txt/MME00642-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
-* **Production Company:** Produced by Actuality Productions, Inc.
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll

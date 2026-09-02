@@ -1,10 +1,12 @@
 # Credit Roll: Overseas Highway (2003)
 **Canonical Episode:** [`MME00322: Overseas Highway`](../episodes/MME00322.md)
 
+**Downloads:** [Credits JSON](json/MME00322-credits.json) • [Credits Plain Text](txt/MME00322-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2003 A&E Television Networks`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY CHANNEL
 * **Narrator:** MAX RAPHAEL, BEATA GENIN
 

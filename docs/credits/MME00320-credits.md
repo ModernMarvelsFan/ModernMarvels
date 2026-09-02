@@ -1,10 +1,12 @@
 # Credit Roll: Landmines (2003)
 **Canonical Episode:** [`MME00320: Landmines`](../episodes/MME00320.md)
 
+**Downloads:** [Credits JSON](json/MME00320-credits.json) • [Credits Plain Text](txt/MME00320-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2003 A&E Television Networks`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY CHANNEL
 * **Narrator:** MAX RAPHAEL
 

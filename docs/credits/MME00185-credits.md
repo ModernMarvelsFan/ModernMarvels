@@ -1,10 +1,12 @@
 # Credit Roll: Cannons. (2001)
 **Canonical Episode:** [`MME00185: Cannons.`](../episodes/MME00185.md)
 
+**Downloads:** [Credits JSON](json/MME00185-credits.json) • [Credits Plain Text](txt/MME00185-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2001 A&E Television Networks`
+* **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., The History Channel
 * **Narrator:** Max Raphael, Dawn Irwin
 

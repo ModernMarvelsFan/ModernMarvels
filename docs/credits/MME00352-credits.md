@@ -1,10 +1,12 @@
 # Credit Roll: Egyptian Pyramids (2003)
 **Canonical Episode:** [`MME00352: Egyptian Pyramids`](../episodes/MME00352.md)
 
+**Downloads:** [Credits JSON](json/MME00352-credits.json) • [Credits Plain Text](txt/MME00352-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2003 A&E Television Networks`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY CHANNEL
 * **Narrator:** MAX RAPHAEL, MELANIE PIPES
 

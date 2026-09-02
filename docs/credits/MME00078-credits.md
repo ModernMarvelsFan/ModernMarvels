@@ -1,10 +1,12 @@
 # Credit Roll: Weather Prediction (1999)
 **Canonical Episode:** [`MME00078: Weather Prediction`](../episodes/MME00078.md)
 
+**Downloads:** [Credits JSON](json/MME00078-credits.json) • [Credits Plain Text](txt/MME00078-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., Hearst Entertainment
 * **Narrator:** —
 

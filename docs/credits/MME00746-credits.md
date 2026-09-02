@@ -1,10 +1,12 @@
 # Credit Roll: Coin Operated Plus (2022)
 **Canonical Episode:** [`MME00746: Coin Operated Plus`](../episodes/MME00746.md)
 
+**Downloads:** [Credits JSON](json/MME00746-credits.json) • [Credits Plain Text](txt/MME00746-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
+* **Copyright Notice:** `© 2022 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., The Six West Media group, HISTORY Network, A&E Television Networks, LLC., Motion Picture Enterprises, Inc., Brilliant TV
 * **Narrator:** —
 

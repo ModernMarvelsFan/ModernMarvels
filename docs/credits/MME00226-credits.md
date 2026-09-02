@@ -1,10 +1,12 @@
 # Credit Roll: Fire and Ice. (2002)
 **Canonical Episode:** [`MME00226: Fire and Ice.`](../episodes/MME00226.md)
 
+**Downloads:** [Credits JSON](json/MME00226-credits.json) • [Credits Plain Text](txt/MME00226-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2002 A&E Television Networks`
+* **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, Hearst Entertainment, THE HISTORY CHANNEL, A&E TELEVISION NETWORKS, ACTUALITY PRODUCTIONS
 * **Narrator:** —
 

@@ -1,11 +1,13 @@
 # Credit Roll: Corpse Tech (2008)
 **Canonical Episode:** [`MME00629: Corpse Tech`](../episodes/MME00629.md)
 
+**Downloads:** [Credits JSON](json/MME00629-credits.json) • [Credits Plain Text](txt/MME00629-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
-* **Production Company:** Produced by Actuality Productions, Inc.
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll

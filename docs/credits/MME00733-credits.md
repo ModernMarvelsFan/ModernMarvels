@@ -1,10 +1,12 @@
 # Credit Roll: Top Toys & Games (2021)
 **Canonical Episode:** [`MME00733: Top Toys & Games`](../episodes/MME00733.md)
 
+**Downloads:** [Credits JSON](json/MME00733-credits.json) • [Credits Plain Text](txt/MME00733-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c)2021 A&E Television Networks, LLC. All Rights Reserved.`
+* **Copyright Notice:** `©2021 A&E Television Networks, LLC. All Rights Reserved.`
 * **Production Company:** The Six West Media(TM) Group, A&E Television Networks, LLC, Motion Picture Enterprises, Inc., Monkeyhead
 * **Narrator:** —
 

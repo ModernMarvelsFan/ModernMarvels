@@ -1,10 +1,12 @@
 # Credit Roll: Computers (2001)
 **Canonical Episode:** [`MME00172: Computers`](../episodes/MME00172.md)
 
+**Downloads:** [Credits JSON](json/MME00172-credits.json) • [Credits Plain Text](txt/MME00172-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Jaffe Productions (animated gold logo on stone), Hearst Entertainment Television (blue eagle logo)
 * **Narrator:** EARL BOEN
 

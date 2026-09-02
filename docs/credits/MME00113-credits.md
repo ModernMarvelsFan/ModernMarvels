@@ -1,6 +1,8 @@
 # Credit Roll: Niagara Power (1999)
 **Canonical Episode:** [`MME00113: Niagara Power`](../episodes/MME00113.md)
 
+**Downloads:** [Credits JSON](json/MME00113-credits.json) • [Credits Plain Text](txt/MME00113-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

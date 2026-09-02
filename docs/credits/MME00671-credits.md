@@ -1,19 +1,21 @@
 # Credit Roll: Keep Out (2010)
 **Canonical Episode:** [`MME00671: Keep Out`](../episodes/MME00671.md)
 
+**Downloads:** [Credits JSON](json/MME00671-credits.json) • [Credits Plain Text](txt/MME00671-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History / (c) 2009 A&E Television Networks, All Rights Reserved`
-* **Production Company:** Actuality Productions, Inc., A&E Television Networks (rights holder), AMI Music Group
+* **Copyright Notice:** `© 2010 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | Diana Stolpe, Malia Marsh, Leslie Pinkstaff |
-| **Animation** | Glenn Takakjian |
+| **Accountants** | Diana Stolpe, Malia Marah, Leslie Pinkstaff |
+| **Animation** | Glenn TakaKjian |
 | **Assistant Editors** | Alexander Rubinow, Nate Dusek |
 | **Asst Post Coordinator** | Cory Parker |
 | **Camera** | Aron Brown, David Cosby, Ed Kukla, Dante Ludovici, Lon Magdich, Carey Moots, Rich Stone, Zvonimir Vidusin |
@@ -23,14 +25,11 @@
 | **Editor** | Dan Wolfmeyer |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Brian Clavey, Andrew Commiskey, Sean Demers, John Goheen, Charles Rohr, Mark Solomon, Don Yost, Marty Zimmerman |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Adam Rosante |
 | **Music** | AMI Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Coordinator** | Gaylen Kobayashi |
 | **Post Producer** | Tim Knauff |
-| **Produced by** | Actuality Productions, Inc., For History |
 | **Producer** | Bruce Nash |
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |

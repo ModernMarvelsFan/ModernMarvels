@@ -1,10 +1,12 @@
 # Credit Roll: Ancient Discoveries (1) (2004)
 **Canonical Episode:** [`MME00429: Ancient Discoveries (1)`](../episodes/MME00429.md)
 
+**Downloads:** [Credits JSON](json/MME00429-credits.json) • [Credits Plain Text](txt/MME00429-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) S4C/S4C International 2003`
+* **Copyright Notice:** `© S4C/S4C International 2003`
 * **Production Company:** Wild Dreams Films Ltd, S4C International, A&E Television Networks, The History Channel
 * **Narrator:** MICHAEL CARROLL
 

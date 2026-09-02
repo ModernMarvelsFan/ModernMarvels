@@ -1,10 +1,12 @@
 # Credit Roll: The Cape Cod Canal (2005)
 **Canonical Episode:** [`MME00464: The Cape Cod Canal`](../episodes/MME00464.md)
 
+**Downloads:** [Credits JSON](json/MME00464-credits.json) • [Credits Plain Text](txt/MME00464-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, THE HISTORY CHANNEL
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

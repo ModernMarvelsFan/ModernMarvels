@@ -1,10 +1,12 @@
 # Credit Roll: The Erie Canal (2000)
 **Canonical Episode:** [`MME00136: The Erie Canal`](../episodes/MME00136.md)
 
+**Downloads:** [Credits JSON](json/MME00136-credits.json) • [Credits Plain Text](txt/MME00136-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** The History Channel
 * **Narrator:** John Knapp, Max Raphael
 

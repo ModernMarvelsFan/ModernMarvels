@@ -1,10 +1,12 @@
 # Credit Roll: High Tech Sex (2002)
 **Canonical Episode:** [`MME00256: High Tech Sex`](../episodes/MME00256.md)
 
+**Downloads:** [Credits JSON](json/MME00256-credits.json) • [Credits Plain Text](txt/MME00256-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, Hearst Entertainment
 * **Narrator:** MAX RAPHAEL
 

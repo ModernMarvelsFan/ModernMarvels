@@ -1,10 +1,12 @@
 # Credit Roll: Glass (2001)
 **Canonical Episode:** [`MME00200: Glass`](../episodes/MME00200.md)
 
+**Downloads:** [Credits JSON](json/MME00200-credits.json) • [Credits Plain Text](txt/MME00200-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2001 A&E Television Networks`
+* **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, Hearst Entertainment, THE HISTORY CHANNEL
 * **Narrator:** MAX RAPHAEL
 

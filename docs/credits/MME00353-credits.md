@@ -1,10 +1,12 @@
 # Credit Roll: The Berlin Wall (2003)
 **Canonical Episode:** [`MME00353: The Berlin Wall`](../episodes/MME00353.md)
 
+**Downloads:** [Credits JSON](json/MME00353-credits.json) • [Credits Plain Text](txt/MME00353-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `PRODUCED BY ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL / © 2003 A&E Television Networks All Rights Reserved.`
+* **Copyright Notice:** `PRODUCED BY ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL. © 2003 A&E Television Networks All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY CHANNEL, A&E Television Networks
 * **Narrator:** MELANIE PIPES, MAX RAPHAEL
 

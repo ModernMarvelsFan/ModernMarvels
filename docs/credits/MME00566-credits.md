@@ -1,10 +1,12 @@
 # Credit Roll: Christmas Tech (2006)
 **Canonical Episode:** [`MME00566: Christmas Tech`](../episodes/MME00566.md)
 
+**Downloads:** [Credits JSON](json/MME00566-credits.json) • [Credits Plain Text](txt/MME00566-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2006 A&E Television Networks`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, The History Channel
 * **Narrator:** —
 

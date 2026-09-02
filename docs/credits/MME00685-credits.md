@@ -1,10 +1,12 @@
 # Credit Roll: Driver's Seat (2010)
 **Canonical Episode:** [`MME00685: Driver's Seat`](../episodes/MME00685.md)
 
+**Downloads:** [Credits JSON](json/MME00685-credits.json) • [Credits Plain Text](txt/MME00685-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2010 A&E Television Networks`
+* **Copyright Notice:** `© 2010 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Jupiter Entertainment, ELEVATION
 * **Narrator:** MAX RAPHAEL
 

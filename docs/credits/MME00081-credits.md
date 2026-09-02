@@ -1,32 +1,26 @@
 # Credit Roll: Mail Delivery (1999)
 **Canonical Episode:** [`MME00081: Mail Delivery`](../episodes/MME00081.md)
 
+**Downloads:** [Credits JSON](json/MME00081-credits.json) • [Credits Plain Text](txt/MME00081-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
-* **Production Company:** PRODUCED BY ACTUALITY Productions, Inc., Hearst Entertainment
-* **Narrator:** —
+* **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
+* **Narrator:** HARLAN SAPERSTEIN
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Additional Graphics** | BARRY HILL |
-| **Archive &amp; Audio Coordinator** | DERRICK McDaniel |
-| **Assistant Editors** | LOU LaPROCIDO, SPENCER KEIMON, HARRIS COHEN, DOUG CUNNINGHAM |
-| **Assistant Production Accountants** | LINDA SCRIBER, THIA KULMA |
-| **Assistant to Don Cambou** | TIM SHELL |
-| **Audio Post Production** | MEDIA CITY SOUND |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Series Manager** | ELYSE MIRANDA |
-| **Graphics by** | DOUG WHITNEY |
-| **Music by** | SCOTT PAGE-PAGTER, JOHN VALENTINO |
-| **Online Editors** | GREG MAHER, DAVID REX |
-| **Post Production Coordinator** | SCOTT BERKSON |
-| **Production Assistants** | KEITH DOLS, JASON LENZI, GARY REID, TROY BARBOUR |
-| **Researchers** | HELGA EIKE, BARRY HILL, TERRI FOX |
-| **Sound Mixer** | MARK JENSEN |
+| **Associate Producer** | RICK BENAVIDES |
+| **Created by** | BRUCE NASH |
+| **Edited by** | JACK FOSTER |
+| **Music by** | ALAN ETT |
+| **Narrated by** | HARLAN SAPERSTEIN |
+| **Producer** | BRUCE NASH |
+| **Written and Produced by** | J.V. MARTIN |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00081.md)

@@ -1,10 +1,12 @@
 # Credit Roll: The Transcontinental Railroad (1995)
 **Canonical Episode:** [`MME00008: The Transcontinental Railroad`](../episodes/MME00008.md)
 
+**Downloads:** [Credits JSON](json/MME00008-credits.json) • [Credits Plain Text](txt/MME00008-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 1996 A&E Television Networks`
+* **Copyright Notice:** `© 1995 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MAX RAPHAEL, JOHN KNAPP
 

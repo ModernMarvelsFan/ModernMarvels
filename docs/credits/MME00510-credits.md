@@ -1,10 +1,12 @@
 # Credit Roll: Weird Weapons: The Axis (2006)
 **Canonical Episode:** [`MME00510: Weird Weapons: The Axis`](../episodes/MME00510.md)
 
+**Downloads:** [Credits JSON](json/MME00510-credits.json) • [Credits Plain Text](txt/MME00510-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2005 A&E Television Networks`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** JELLYFISH PICTURES, DARLOW SMITHSON PRODUCTIONS
 * **Narrator:** —
 

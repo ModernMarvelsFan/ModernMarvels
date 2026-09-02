@@ -1,11 +1,13 @@
 # Credit Roll: Ice Cream (2008)
 **Canonical Episode:** [`MME00630: Ice Cream`](../episodes/MME00630.md)
 
+**Downloads:** [Credits JSON](json/MME00630-credits.json) • [Credits Plain Text](txt/MME00630-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
-* **Production Company:** Actuality Productions, Inc., A&E Television Networks
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -18,14 +20,14 @@
 | **Assistant Editors** | Alexander Rubinow, Patrick Cashman |
 | **Associate Producer** | Jared Cook |
 | **Asst Post Coordinator** | Gaylen Kobayashi |
-| **Camera** | Paul Cromley, Stephen Farrier, Dan Lantz, Lon Magdich, Jared Manders, Brad W. Milsap, Terry Pratt, Dave Rutherford, Robert Shenise, Z Vidusin |
+| **Camera** | Paul Cronley, Stephen Farrier, Dan Lantz, Lon Magdich, Jared Manders, Brad W. Milsap, Terry Pratt, Dave Rutherford, Robert Shenise, Z Vidusin |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
 | **Created by** | Bruce Nash |
 | **Director of Clearance** | Jerianne Keaney |
 | **Director of Research** | Terrence Hartwell |
 | **Editor** | Mike Andrews |
-| **Executive Producer** | John Verhoff, Don Cambou |
+| **Executive Producer** | Don Cambou |
 | **Field Audio** | Matt Bowman, Dan Cook, Bill Dillon, Servio Escobedo, Gordon Hayman, Joe McCartan, Charles Rohr, Adrian Sam, Thomas Shafer, Mark Soloman |
 | **Historical Consultants** | Shannon Jackson Arnold, Dr. Bob Roberts |
 | **Music** | Guy Thomas |
@@ -37,7 +39,6 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
-| **Programming Coordinator** | Adam Rosante |
 | **Researcher** | Sapna Chhabra |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |

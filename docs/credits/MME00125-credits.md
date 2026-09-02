@@ -1,10 +1,12 @@
 # Credit Roll: Police Technology (2000)
 **Canonical Episode:** [`MME00125: Police Technology`](../episodes/MME00125.md)
 
+**Downloads:** [Credits JSON](json/MME00125-credits.json) • [Credits Plain Text](txt/MME00125-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., Hearst Entertainment
 * **Narrator:** —
 

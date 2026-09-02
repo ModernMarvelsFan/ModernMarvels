@@ -1,10 +1,12 @@
 # Credit Roll: The Autobahn (2002)
 **Canonical Episode:** [`MME00249: The Autobahn`](../episodes/MME00249.md)
 
+**Downloads:** [Credits JSON](json/MME00249-credits.json) • [Credits Plain Text](txt/MME00249-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c)2002 A&E TELEVISION NETWORKS ALL RIGHTS RESERVED`
+* **Copyright Notice:** `©2002 A&E TELEVISION NETWORKS ALL RIGHTS RESERVED`
 * **Production Company:** —
 * **Narrator:** ANTHONY LACQUES, MAX RAPHAEL
 

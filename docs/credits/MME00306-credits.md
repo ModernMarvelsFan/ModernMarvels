@@ -1,10 +1,12 @@
 # Credit Roll: Breaking the Sound Barrier (2003)
 **Canonical Episode:** [`MME00306: Breaking the Sound Barrier`](../episodes/MME00306.md)
 
+**Downloads:** [Credits JSON](json/MME00306-credits.json) • [Credits Plain Text](txt/MME00306-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2003 A&E Television Networks`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** PRODUCED BY / ACTUALITY PRODUCTIONS, INC. / for / THE HISTORY CHANNEL
 * **Narrator:** MAX RAPHAEL, MELANIE PIPES
 

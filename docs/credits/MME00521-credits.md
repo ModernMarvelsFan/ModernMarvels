@@ -1,10 +1,12 @@
 # Credit Roll: 80s Tech (2006)
 **Canonical Episode:** [`MME00521: 80s Tech`](../episodes/MME00521.md)
 
+**Downloads:** [Credits JSON](json/MME00521-credits.json) • [Credits Plain Text](txt/MME00521-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2006 A&E Television Networks`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, A&E Television Networks
 * **Narrator:** John Knapp, Max Raphael
 

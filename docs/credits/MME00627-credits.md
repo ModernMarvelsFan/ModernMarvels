@@ -1,11 +1,13 @@
 # Credit Roll: Super Hot (2008)
 **Canonical Episode:** [`MME00627: Super Hot`](../episodes/MME00627.md)
 
+**Downloads:** [Credits JSON](json/MME00627-credits.json) • [Credits Plain Text](txt/MME00627-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
-* **Production Company:** Produced by Actuality Productions, Inc.
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll

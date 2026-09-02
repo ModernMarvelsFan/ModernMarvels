@@ -1,10 +1,12 @@
 # Credit Roll: Crashes (2008)
 **Canonical Episode:** [`MME00632: Crashes`](../episodes/MME00632.md)
 
+**Downloads:** [Credits JSON](json/MME00632-credits.json) • [Credits Plain Text](txt/MME00632-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by Actuality Productions, Inc.
 * **Narrator:** Max Raphael
 

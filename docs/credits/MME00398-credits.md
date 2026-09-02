@@ -1,10 +1,12 @@
 # Credit Roll: Police Pursuit (2004)
 **Canonical Episode:** [`MME00398: Police Pursuit`](../episodes/MME00398.md)
 
+**Downloads:** [Credits JSON](json/MME00398-credits.json) • [Credits Plain Text](txt/MME00398-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by / Actuality / Productions, Inc. / For History (c)2004 / A&E Television Networks / All Rights Reserved`
+* **Copyright Notice:** `Produced by. Actuality. Productions, Inc.. For History ©2004. A&E Television Networks. All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., A&E Television Networks (rights holder), Alan Ett Music Group
 * **Narrator:** Mikki Del Monico, Max Raphael
 

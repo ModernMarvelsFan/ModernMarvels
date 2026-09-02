@@ -1,10 +1,12 @@
 # Credit Roll: Mega Speed Countdown (2013)
 **Canonical Episode:** [`MME00708: Mega Speed Countdown`](../episodes/MME00708.md)
 
+**Downloads:** [Credits JSON](json/MME00708-credits.json) • [Credits Plain Text](txt/MME00708-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Half Yard Productions / For A&E Television Networks ® / © 2012 A&E TELEVISION NETWORKS. ALL RIGHTS RESERVED`
+* **Copyright Notice:** `Produced by Half Yard Productions. For A&E Television Networks ®. © 2012 A&E TELEVISION NETWORKS. ALL RIGHTS RESERVED`
 * **Production Company:** Half Yard Productions, A&E Television Networks
 * **Narrator:** MAX RAPHAEL
 

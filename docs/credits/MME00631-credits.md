@@ -1,11 +1,13 @@
 # Credit Roll: Bathroom Tech II (2008)
 **Canonical Episode:** [`MME00631: Bathroom Tech II`](../episodes/MME00631.md)
 
+**Downloads:** [Credits JSON](json/MME00631-credits.json) • [Credits Plain Text](txt/MME00631-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
-* **Production Company:** Actuality Productions, Inc., History
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -25,17 +27,13 @@
 | **Director of Research** | Terrence Hartwell |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
-| **Field Audio** | Shelley Bohning, Dave Cannon, Danny Clayton, Jr., Maurice Danzy, Michael Harvey, Brandon Kappert, Robert Porter, Charles Rohr |
+| **Field Audio** | Shelley Bohning, Dave Gannon, Danny Clayton, Jr., Maurice Danzy, Michael Harvey, Brandon Kappert, Robert Porter, Charles Rohr |
 | **Field Producers** | John Swasey, Diane Wai |
-| **For** | History |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Adam Rosante |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assist** | Cory Parker |
 | **Post Producer** | Tim Knauff |
-| **Produced by** | Actuality Productions, Inc. |
 | **Producer** | Bruce Nash |
 | **Production Accountant** | Sheridan Liu |
 | **Production Controller** | Dani Eslin |

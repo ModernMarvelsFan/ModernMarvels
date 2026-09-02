@@ -1,10 +1,12 @@
 # Credit Roll: Engineering Disasters 20 (2006)
 **Canonical Episode:** [`MME00563: Engineering Disasters 20`](../episodes/MME00563.md)
 
+**Downloads:** [Credits JSON](json/MME00563-credits.json) • [Credits Plain Text](txt/MME00563-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions
 * **Narrator:** Max Raphael
 

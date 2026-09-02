@@ -1,10 +1,12 @@
 # Credit Roll: World's Biggest Machines 5 (2006)
 **Canonical Episode:** [`MME00531: World's Biggest Machines 5`](../episodes/MME00531.md)
 
+**Downloads:** [Credits JSON](json/MME00531-credits.json) • [Credits Plain Text](txt/MME00531-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2006 A&E Television Networks`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** JOHN KNAPP
 

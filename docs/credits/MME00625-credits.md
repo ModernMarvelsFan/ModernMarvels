@@ -1,10 +1,12 @@
 # Credit Roll: Axes (2008)
 **Canonical Episode:** [`MME00625: Axes`](../episodes/MME00625.md)
 
+**Downloads:** [Credits JSON](json/MME00625-credits.json) • [Credits Plain Text](txt/MME00625-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History / © 2008 A&E Television Networks, All Rights Reserved`
+* **Copyright Notice:** `Produced by Actuality Productions, Inc.. For History. © 2008 A&E Television Networks, All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., A&E Television Networks
 * **Narrator:** Max Raphael
 

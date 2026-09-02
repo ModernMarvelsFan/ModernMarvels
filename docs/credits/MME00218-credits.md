@@ -1,10 +1,12 @@
 # Credit Roll: The Junkyard (2002)
 **Canonical Episode:** [`MME00218: The Junkyard`](../episodes/MME00218.md)
 
+**Downloads:** [Credits JSON](json/MME00218-credits.json) • [Credits Plain Text](txt/MME00218-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, Hearst Entertainment
 * **Narrator:** —
 

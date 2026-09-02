@@ -1,10 +1,12 @@
 # Credit Roll: Battlefield Engineering. (1998)
 **Canonical Episode:** [`MME00059: Battlefield Engineering.`](../episodes/MME00059.md)
 
+**Downloads:** [Credits JSON](json/MME00059-credits.json) • [Credits Plain Text](txt/MME00059-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1998 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY Productions, Inc., THE HISTORY CHANNEL, Hearst Entertainment
 * **Narrator:** PETER BROOKS
 

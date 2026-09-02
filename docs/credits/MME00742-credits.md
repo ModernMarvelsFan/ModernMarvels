@@ -1,10 +1,12 @@
 # Credit Roll: Locomotives Plus (2022)
 **Canonical Episode:** [`MME00742: Locomotives Plus`](../episodes/MME00742.md)
 
+**Downloads:** [Credits JSON](json/MME00742-credits.json) • [Credits Plain Text](txt/MME00742-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
+* **Copyright Notice:** `© 2022 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by Actuality Productions, Inc. and the Six West Media™ group for HISTORY®
 * **Narrator:** —
 

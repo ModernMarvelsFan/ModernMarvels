@@ -1,10 +1,12 @@
 # Credit Roll: More Nature's Engineers (2005)
 **Canonical Episode:** [`MME00437: More Nature's Engineers`](../episodes/MME00437.md)
 
+**Downloads:** [Credits JSON](json/MME00437-credits.json) • [Credits Plain Text](txt/MME00437-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2005 A&E Television Networks`
+* **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC. (Produced by), History Television Network Productions
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

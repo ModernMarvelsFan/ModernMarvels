@@ -1,11 +1,13 @@
 # Credit Roll: Night (2008)
 **Canonical Episode:** [`MME00652: Night`](../episodes/MME00652.md)
 
+**Downloads:** [Credits JSON](json/MME00652-credits.json) • [Credits Plain Text](txt/MME00652-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History / © 2008 A&E Television Networks, All Rights Reserved`
-* **Production Company:** Produced by Actuality Productions, Inc.
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll

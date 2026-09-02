@@ -1,32 +1,45 @@
 # Credit Roll: Saloons (2001)
 **Canonical Episode:** [`MME00182: Saloons`](../episodes/MME00182.md)
 
+**Downloads:** [Credits JSON](json/MME00182-credits.json) • [Credits Plain Text](txt/MME00182-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment
-* **Narrator:** —
+* **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | GLENN TAKAKJIAN |
-| **Assistant Editor** | MICHAEL LIM |
-| **Assistant Production Accountants** | DETRICIA MEZA, LINDA SCRIBNER |
-| **Camera** | JONATHAN CERMIN, GARY HOFFMAN, REX MORRIS, DYLAN S. O'BRIEN, TERRY SHARP, ALEX WILLIAMS |
-| **Field Audio** | BUD KALBAUGH, MICHAEL MCCOY, PHIL NADEAU, WIL MORRIS |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Graphics** | BARRY HILL |
-| **Online Editor** | DAVID REX |
-| **Post Production Assistant** | STEPHEN FRANKLIN |
-| **Post Production Coordinator** | GARY REID |
-| **Post Production Supervisor** | JASON STEINBERG |
-| **Production Assistants** | MARYALICE R. ARAGON, RASI DELGADO, SUNI NIVENS |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Sound Mixer** | PAUL RAY |
+| **Archivist** | Nilda Jensen |
+| **Assistant Editor** | Michael Lim |
+| **Assistant Production Accountants** | Detricia Meza, Linda Scribner |
+| **Associate Producer** | Gloria L. Morris |
+| **Camera** | Jonathan Cermin, Gary Hoffman, Rex Morris, Dylan S. O'Brien, Terry Sharp, Alex Williams |
+| **Clearance Assistant** | Barbara Streng |
+| **Clearance Supervisor** | Katie Del Core |
+| **Created by** | Bruce Nash |
+| **Director of Research** | Hildie Katibah |
+| **Edited by** | Avi Fisher |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Bud Kalbaugh, Michael McCoy, Phil Nadeau, Wil Morris |
+| **Footage Consultant** | Ted Troll |
+| **For The History Channel / Executive Producer** | Beth Dietrich-Segarra |
+| **Line Producer** | Paul Dzilvelis |
+| **Music by** | Alan Ett |
+| **Narrated by** | Max Raphael |
+| **Post Production Assistant** | Stephen Franklin |
+| **Post Production Coordinator** | Gary Reid |
+| **Post Production Supervisor** | Jason Steinberg |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Maryalice R. Aragon, Rasi Delgado, Suni Nivens |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Researchers** | Kristina Djokic, Mark Savage |
+| **Written and Produced by** | Kathryn Connell Christy |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00182.md)

@@ -1,10 +1,12 @@
 # Credit Roll: Gangster Guns (2004)
 **Canonical Episode:** [`MME00360: Gangster Guns`](../episodes/MME00360.md)
 
+**Downloads:** [Credits JSON](json/MME00360-credits.json) • [Credits Plain Text](txt/MME00360-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 1999 / A&E Television Networks / All Rights Reserved`
+* **Copyright Notice:** `© 1999. A&E Television Networks. All Rights Reserved`
 * **Production Company:** Greystone Communications, Inc., Matchframe Video
 * **Narrator:** —
 

@@ -1,10 +1,12 @@
 # Credit Roll: Rats (2008)
 **Canonical Episode:** [`MME00623: Rats`](../episodes/MME00623.md)
 
+**Downloads:** [Credits JSON](json/MME00623-credits.json) • [Credits Plain Text](txt/MME00623-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc.
 * **Narrator:** Max Raphael
 

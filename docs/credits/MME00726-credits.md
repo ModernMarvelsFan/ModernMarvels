@@ -1,10 +1,12 @@
 # Credit Roll: Food: Inventions and Innovations (2021)
 **Canonical Episode:** [`MME00726: Food: Inventions and Innovations`](../episodes/MME00726.md)
 
+**Downloads:** [Credits JSON](json/MME00726-credits.json) • [Credits Plain Text](txt/MME00726-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `PRODUCED BY THE SIX WEST MEDIA™ GROUP FOR HISTORY® / ©2021 A&E Television Networks, LLC. All Rights Reserved.`
+* **Copyright Notice:** `PRODUCED BY THE SIX WEST MEDIA™ GROUP FOR HISTORY®. ©2021 A&E Television Networks, LLC. All Rights Reserved.`
 * **Production Company:** The Six West Media™ Group, HISTORY®, A&E Television Networks, LLC
 * **Narrator:** —
 

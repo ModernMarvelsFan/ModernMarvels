@@ -1,10 +1,12 @@
 # Credit Roll: Engineering Disasters: New Orleans (2006)
 **Canonical Episode:** [`MME00512: Engineering Disasters: New Orleans`](../episodes/MME00512.md)
 
+**Downloads:** [Credits JSON](json/MME00512-credits.json) • [Credits Plain Text](txt/MME00512-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2006 A&E Television Networks All Rights Reserved`
+* **Copyright Notice:** `© 2006 A&E Television Networks All Rights Reserved`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, The History Channel
 * **Narrator:** MAX RAPHAEL, JOHN KNAPP
 

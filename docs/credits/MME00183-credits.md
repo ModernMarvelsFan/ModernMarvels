@@ -1,10 +1,12 @@
 # Credit Roll: More Gadgets (2001)
 **Canonical Episode:** [`MME00183: More Gadgets`](../episodes/MME00183.md)
 
+**Downloads:** [Credits JSON](json/MME00183-credits.json) • [Credits Plain Text](txt/MME00183-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., Hearst Entertainment, The History Channel
 * **Narrator:** MAX RAPHAEL
 

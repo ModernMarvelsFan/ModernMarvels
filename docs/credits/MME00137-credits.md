@@ -1,10 +1,12 @@
 # Credit Roll: Trucks (2000)
 **Canonical Episode:** [`MME00137: Trucks`](../episodes/MME00137.md)
 
+**Downloads:** [Credits JSON](json/MME00137-credits.json) • [Credits Plain Text](txt/MME00137-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Alan Ett Music Group
 * **Narrator:** Max Raphael, John Knapp
 

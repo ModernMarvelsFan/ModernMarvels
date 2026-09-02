@@ -1,10 +1,12 @@
 # Credit Roll: Air Force One: A History (1997)
 **Canonical Episode:** [`MME00038: Air Force One: A History`](../episodes/MME00038.md)
 
+**Downloads:** [Credits JSON](json/MME00038-credits.json) • [Credits Plain Text](txt/MME00038-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 1997 A&E Television Networks`
+* **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Digital Ranch, The History Channel, THE HISTORY CHANNEL
 * **Narrator:** BILL RATNER
 

@@ -1,10 +1,12 @@
 # Credit Roll: Milk (2008)
 **Canonical Episode:** [`MME00612: Milk`](../episodes/MME00612.md)
 
+**Downloads:** [Credits JSON](json/MME00612-credits.json) • [Credits Plain Text](txt/MME00612-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Networks Productions
 * **Narrator:** Max Raphael
 

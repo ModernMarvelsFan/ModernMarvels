@@ -1,10 +1,12 @@
 # Credit Roll: Presidential Movers (2004)
 **Canonical Episode:** [`MME00409: Presidential Movers`](../episodes/MME00409.md)
 
+**Downloads:** [Credits JSON](json/MME00409-credits.json) • [Credits Plain Text](txt/MME00409-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by / Actuality Productions, Inc. / For History
 * **Narrator:** Melanie Pipes, Max Raphael
 

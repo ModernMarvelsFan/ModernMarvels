@@ -1,10 +1,12 @@
 # Credit Roll: The Electric Light (1996)
 **Canonical Episode:** [`MME00031: The Electric Light`](../episodes/MME00031.md)
 
+**Downloads:** [Credits JSON](json/MME00031-credits.json) • [Credits Plain Text](txt/MME00031-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 1996 A&E Television Networks`
+* **Copyright Notice:** `© 1996 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** A&E Television Networks, DEREK LUFF MUSIC, ART F/X
 * **Narrator:** HARLAN SAPERSTEIN
 

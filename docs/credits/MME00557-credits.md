@@ -1,10 +1,12 @@
 # Credit Roll: Tomcat Sunset (2006)
 **Canonical Episode:** [`MME00557: Tomcat Sunset`](../episodes/MME00557.md)
 
+**Downloads:** [Credits JSON](json/MME00557-credits.json) • [Credits Plain Text](txt/MME00557-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(C) 2006, 2002A & E Television Networks All Rights Reserved`
+* **Copyright Notice:** `© 2006, 2002A & E Television Networks All Rights Reserved`
 * **Production Company:** DIGITAL RANCH & ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A & E Television Networks, DIGITAL RANCH PRODUCTIONS
 * **Narrator:** —
 

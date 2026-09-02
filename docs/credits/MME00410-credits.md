@@ -1,10 +1,12 @@
 # Credit Roll: Gas Tech (2004)
 **Canonical Episode:** [`MME00410: Gas Tech`](../episodes/MME00410.md)
 
+**Downloads:** [Credits JSON](json/MME00410-credits.json) • [Credits Plain Text](txt/MME00410-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

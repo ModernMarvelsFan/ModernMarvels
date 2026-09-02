@@ -1,10 +1,12 @@
 # Credit Roll: Earthmovers: The Power to Move Mountains (1997)
 **Canonical Episode:** [`MME00054: Earthmovers: The Power to Move Mountains`](../episodes/MME00054.md)
 
+**Downloads:** [Credits JSON](json/MME00054-credits.json) • [Credits Plain Text](txt/MME00054-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ALAN ETT MUSIC GROUP, RED GYSPY ANIMATION
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

@@ -1,10 +1,12 @@
 # Credit Roll: Edison Tech (2005)
 **Canonical Episode:** [`MME00467: Edison Tech`](../episodes/MME00467.md)
 
+**Downloads:** [Credits JSON](json/MME00467-credits.json) • [Credits Plain Text](txt/MME00467-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2005 A&E Television Networks`
+* **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by / ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

@@ -1,10 +1,12 @@
 # Credit Roll: Siege Machines. (2002)
 **Canonical Episode:** [`MME00217: Siege Machines.`](../episodes/MME00217.md)
 
+**Downloads:** [Credits JSON](json/MME00217-credits.json) • [Credits Plain Text](txt/MME00217-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2001 A&E Television Networks`
+* **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, Hearst Entertainment, THE HISTORY CHANNEL
 * **Narrator:** MAX RAPHAEL
 

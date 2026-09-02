@@ -1,10 +1,12 @@
 # Credit Roll: James Bond Gadgets. (2002)
 **Canonical Episode:** [`MME00212: James Bond Gadgets.`](../episodes/MME00212.md)
 
+**Downloads:** [Credits JSON](json/MME00212-credits.json) • [Credits Plain Text](txt/MME00212-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c)2002 A&E Television Networks All Rights Reserved`
+* **Copyright Notice:** `©2002 A&E Television Networks All Rights Reserved`
 * **Production Company:** Digital Ranch, History Television Network Productions, Documentary Broadcasting Company, Inc., EHB Productions, A&E Television Networks
 * **Narrator:** Harlan Saperstein
 

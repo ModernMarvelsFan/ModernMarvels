@@ -1,10 +1,12 @@
 # Credit Roll: Construction Machines (2001)
 **Canonical Episode:** [`MME00165: Construction Machines`](../episodes/MME00165.md)
 
+**Downloads:** [Credits JSON](json/MME00165-credits.json) • [Credits Plain Text](txt/MME00165-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2001 A&E Television Networks`
+* **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., HEARST ENTERTAINMENT, MEDIA CITY SOUND
 * **Narrator:** HARLAN SAPERSTEIN
 

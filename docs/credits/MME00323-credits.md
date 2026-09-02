@@ -1,10 +1,12 @@
 # Credit Roll: Terror Tech: Civilian (2003)
 **Canonical Episode:** [`MME00323: Terror Tech: Civilian`](../episodes/MME00323.md)
 
+**Downloads:** [Credits JSON](json/MME00323-credits.json) • [Credits Plain Text](txt/MME00323-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(C)2003 A&E TELEVISION NETWORKS All Rights Reserved`
+* **Copyright Notice:** `©2003 A&E TELEVISION NETWORKS All Rights Reserved`
 * **Production Company:** —
 * **Narrator:** WILL LYMAN
 

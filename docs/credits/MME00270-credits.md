@@ -1,6 +1,8 @@
 # Credit Roll: Castles & Dungeons (2003)
 **Canonical Episode:** [`MME00270: Castles & Dungeons`](../episodes/MME00270.md)
 
+**Downloads:** [Credits JSON](json/MME00270-credits.json) • [Credits Plain Text](txt/MME00270-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

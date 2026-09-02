@@ -1,10 +1,12 @@
 # Credit Roll: Deadliest Weapons (2005)
 **Canonical Episode:** [`MME00451: Deadliest Weapons`](../episodes/MME00451.md)
 
+**Downloads:** [Credits JSON](json/MME00451-credits.json) • [Credits Plain Text](txt/MME00451-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2005 A&E Television Network All Rights Reserved`
+* **Copyright Notice:** `© 2005 A&E Television Network All Rights Reserved`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, RED GYPSY ANIMATION, ALAN ETT MUSIC GROUP
 * **Narrator:** MIKKI DEL MONICO, MAX RAPHAEL
 

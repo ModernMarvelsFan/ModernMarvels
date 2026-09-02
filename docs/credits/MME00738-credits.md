@@ -1,10 +1,12 @@
 # Credit Roll: Maximum Horsepower (2022)
 **Canonical Episode:** [`MME00738: Maximum Horsepower`](../episodes/MME00738.md)
 
+**Downloads:** [Credits JSON](json/MME00738-credits.json) • [Credits Plain Text](txt/MME00738-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. and the Six West Media™ group for HISTORY® / ©2006 - 2022 A&E Television Networks, LLC. All Rights Reserved.`
+* **Copyright Notice:** `Produced by Actuality Productions, Inc. and the Six West Media™ group for HISTORY®. ©2006 - 2022 A&E Television Networks, LLC. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., Six West Media™ group, HISTORY®, A&E Television Networks, LLC
 * **Narrator:** John Knapp
 

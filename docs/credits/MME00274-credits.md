@@ -1,10 +1,12 @@
 # Credit Roll: The Alcan Highway (2003)
 **Canonical Episode:** [`MME00274: The Alcan Highway`](../episodes/MME00274.md)
 
+**Downloads:** [Credits JSON](json/MME00274-credits.json) • [Credits Plain Text](txt/MME00274-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC.
 * **Narrator:** BEATA GENIN, MAX RAPHAEL
 

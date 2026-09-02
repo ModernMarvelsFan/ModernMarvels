@@ -1,10 +1,12 @@
 # Credit Roll: Radar (1997)
 **Canonical Episode:** [`MME00050: Radar`](../episodes/MME00050.md)
 
+**Downloads:** [Credits JSON](json/MME00050-credits.json) • [Credits Plain Text](txt/MME00050-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** JAFFE PRODUCTIONS, Hearst Entertainment, ACTUALITY Productions, Inc., ART F/X, ALAN ETT MUSIC GROUP, INC.
 * **Narrator:** —
 

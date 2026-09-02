@@ -1,10 +1,12 @@
 # Credit Roll: Renewable Energy (2006)
 **Canonical Episode:** [`MME00547: Renewable Energy`](../episodes/MME00547.md)
 
+**Downloads:** [Credits JSON](json/MME00547-credits.json) • [Credits Plain Text](txt/MME00547-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2006 A&E Television Networks`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MAX RAPHAEL
 

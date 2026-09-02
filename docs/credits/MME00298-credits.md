@@ -1,10 +1,12 @@
 # Credit Roll: 4x4 (2003)
 **Canonical Episode:** [`MME00298: 4x4`](../episodes/MME00298.md)
 
+**Downloads:** [Credits JSON](json/MME00298-credits.json) • [Credits Plain Text](txt/MME00298-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2001 A&E Television Networks`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Michael Rose Productions, Inc., Hot Shot Video & Productions, Inc., Alan Ett Music Group, Media City Sound, WoodHolly Prod.
 * **Narrator:** Edward Herrmann
 

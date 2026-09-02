@@ -1,10 +1,12 @@
 # Credit Roll: Hydraulics (2004)
 **Canonical Episode:** [`MME00372: Hydraulics`](../episodes/MME00372.md)
 
+**Downloads:** [Credits JSON](json/MME00372-credits.json) • [Credits Plain Text](txt/MME00372-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by / ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MIKKI DEL MONICO, MAX RAPHAEL
 

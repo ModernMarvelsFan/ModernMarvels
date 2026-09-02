@@ -1,10 +1,12 @@
 # Credit Roll: The Maginot Line (2000)
 **Canonical Episode:** [`MME00140: The Maginot Line`](../episodes/MME00140.md)
 
+**Downloads:** [Credits JSON](json/MME00140-credits.json) • [Credits Plain Text](txt/MME00140-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment
 * **Narrator:** —
 

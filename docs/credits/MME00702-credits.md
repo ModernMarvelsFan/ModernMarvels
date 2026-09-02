@@ -1,6 +1,8 @@
 # Credit Roll: Convenience Stores (2012)
 **Canonical Episode:** [`MME00702: Convenience Stores`](../episodes/MME00702.md)
 
+**Downloads:** [Credits JSON](json/MME00702-credits.json) • [Credits Plain Text](txt/MME00702-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

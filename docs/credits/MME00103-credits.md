@@ -1,11 +1,13 @@
 # Credit Roll: Fireworks (1999)
 **Canonical Episode:** [`MME00103: Fireworks`](../episodes/MME00103.md)
 
+**Downloads:** [Credits JSON](json/MME00103-credits.json) • [Credits Plain Text](txt/MME00103-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment
+* **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -14,10 +16,6 @@
 | :--- | :--- |
 | **Associate Producer** | HOLLY A. MURDOCH |
 | **Edited By** | JACK FOSTER |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Supervising Producer** | BETH DIETRICH |
-| **Producer** | BRUCE NASH |
-| **Supervising Producer** | DON CAMBOU |
 | **Written and Produced by** | NOAH MOROWITZ |
 
 ---

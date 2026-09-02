@@ -1,10 +1,12 @@
 # Credit Roll: Cemeteries. (2001)
 **Canonical Episode:** [`MME00195: Cemeteries.`](../episodes/MME00195.md)
 
+**Downloads:** [Credits JSON](json/MME00195-credits.json) • [Credits Plain Text](txt/MME00195-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Hearst Entertainment, The History Channel
 * **Narrator:** MAX RAPHAEL
 

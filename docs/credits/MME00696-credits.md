@@ -1,10 +1,12 @@
 # Credit Roll: Weird Machines (2011)
 **Canonical Episode:** [`MME00696: Weird Machines`](../episodes/MME00696.md)
 
+**Downloads:** [Credits JSON](json/MME00696-credits.json) • [Credits Plain Text](txt/MME00696-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Half Yard Productions / For The History Channel (c) (c) 2011 A&E TELEVISION NETWORKS / ALL RIGHTS RESERVED`
+* **Copyright Notice:** `Produced by Half Yard Productions. For The History Channel © © 2011 A&E TELEVISION NETWORKS. ALL RIGHTS RESERVED`
 * **Production Company:** Half Yard Productions (producer), TAKOMA MEDIA (sound design), WORDPLAY (transcription), A&E TELEVISION NETWORKS (rights holder)
 * **Narrator:** MAX RAPHAEL
 

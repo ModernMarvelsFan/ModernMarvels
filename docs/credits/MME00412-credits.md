@@ -1,10 +1,12 @@
 # Credit Roll: The World's Longest Bridge (2004)
 **Canonical Episode:** [`MME00412: The World's Longest Bridge`](../episodes/MME00412.md)
 
+**Downloads:** [Credits JSON](json/MME00412-credits.json) • [Credits Plain Text](txt/MME00412-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2004 / A&E Television Network / All Rights Reserved`
+* **Copyright Notice:** `© 2004. A&E Television Network. All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions
 * **Narrator:** Max Raphael, Mikki Del Monico
 

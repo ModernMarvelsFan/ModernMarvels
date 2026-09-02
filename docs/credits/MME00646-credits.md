@@ -1,19 +1,19 @@
 # Credit Roll: The Turkey (2008)
 **Canonical Episode:** [`MME00646: The Turkey`](../episodes/MME00646.md)
 
+**Downloads:** [Credits JSON](json/MME00646-credits.json) • [Credits Plain Text](txt/MME00646-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
-* **Production Company:** Produced by Actuality Productions, Inc.
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animated Stills** | Adam Goodwin |
-| **Animation** | Randall Rickert |
 | **Assistant Editor** | Alexander Rubinow |
 | **Associate Producer** | Jeni Rohlin |
 | **Asst Post Coordinator** | Gaylen Kobayashi |
@@ -28,7 +28,6 @@
 | **Field Audio** | Matt Bowman, Joe McCartan, Sam Platt, Charles Rohr, Adrian Sam, Ian Vacek |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |
-| **Online Editor** | John Price |
 | **Post Assist** | Cory Parker |
 | **Post Producer** | Tim Knauff |
 | **Producer** | Bruce Nash |
@@ -37,7 +36,6 @@
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
 | **Researcher** | Joshua Janiak |
-| **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
 | **Written and Produced by** | Greg DeHart |
 

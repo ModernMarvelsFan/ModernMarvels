@@ -1,10 +1,12 @@
 # Credit Roll: Wood (2012)
 **Canonical Episode:** [`MME00701: Wood`](../episodes/MME00701.md)
 
+**Downloads:** [Credits JSON](json/MME00701-credits.json) • [Credits Plain Text](txt/MME00701-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2011 A&E Television Networks`
+* **Copyright Notice:** `© 2012 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Half Yard Productions, A&E Television Networks (R)
 * **Narrator:** —
 

@@ -1,10 +1,12 @@
 # Credit Roll: Retro Tech (2008)
 **Canonical Episode:** [`MME00649: Retro Tech`](../episodes/MME00649.md)
 
+**Downloads:** [Credits JSON](json/MME00649-credits.json) • [Credits Plain Text](txt/MME00649-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** i.e. effects (animation)
 * **Narrator:** Max Raphael
 

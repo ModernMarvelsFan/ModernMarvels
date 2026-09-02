@@ -1,10 +1,12 @@
 # Credit Roll: Suez Canal (2000)
 **Canonical Episode:** [`MME00147: Suez Canal`](../episodes/MME00147.md)
 
+**Downloads:** [Credits JSON](json/MME00147-credits.json) • [Credits Plain Text](txt/MME00147-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2005 A&E Television Networks`
+* **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY TELEVISION NETWORK PRODUCTIONS
 * **Narrator:** —
 

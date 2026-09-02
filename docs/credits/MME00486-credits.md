@@ -1,10 +1,12 @@
 # Credit Roll: Coffee (2005)
 **Canonical Episode:** [`MME00486: Coffee`](../episodes/MME00486.md)
 
+**Downloads:** [Credits JSON](json/MME00486-credits.json) • [Credits Plain Text](txt/MME00486-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2005 A&E Television Network All Rights Reserved`
+* **Copyright Notice:** `© 2005 A&E Television Network All Rights Reserved`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MAX RAPHAEL, JOHN KNAPP
 

@@ -1,6 +1,8 @@
 # Credit Roll: Firing Ranges (2001)
 **Canonical Episode:** [`MME00201: Firing Ranges`](../episodes/MME00201.md)
 
+**Downloads:** [Credits JSON](json/MME00201-credits.json) • [Credits Plain Text](txt/MME00201-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

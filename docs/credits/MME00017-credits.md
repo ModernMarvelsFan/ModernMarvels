@@ -1,10 +1,12 @@
 # Credit Roll: The Golden Gate Bridge (1995)
 **Canonical Episode:** [`MME00017: The Golden Gate Bridge`](../episodes/MME00017.md)
 
+**Downloads:** [Credits JSON](json/MME00017-credits.json) • [Credits Plain Text](txt/MME00017-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 1994 A&E Television Networks`
+* **Copyright Notice:** `© 1995 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

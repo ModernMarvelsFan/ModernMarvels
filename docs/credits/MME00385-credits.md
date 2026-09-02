@@ -1,10 +1,12 @@
 # Credit Roll: Distilleries (2004)
 **Canonical Episode:** [`MME00385: Distilleries`](../episodes/MME00385.md)
 
+**Downloads:** [Credits JSON](json/MME00385-credits.json) • [Credits Plain Text](txt/MME00385-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Network
 * **Narrator:** MIKKI DEL MONICO
 

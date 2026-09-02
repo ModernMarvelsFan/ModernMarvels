@@ -1,10 +1,12 @@
 # Credit Roll: Forensic Science: The Crime Fighter's Weapon. (1997)
 **Canonical Episode:** [`MME00051: Forensic Science: The Crime Fighter's Weapon.`](../episodes/MME00051.md)
 
+**Downloads:** [Credits JSON](json/MME00051-credits.json) • [Credits Plain Text](txt/MME00051-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ALAN ETT MUSIC GROUP, INC.
 * **Narrator:** HARLAN SAPERSTEIN
 

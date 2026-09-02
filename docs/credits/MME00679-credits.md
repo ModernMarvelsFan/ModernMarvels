@@ -1,10 +1,12 @@
 # Credit Roll: Coin Operated II (2010)
 **Canonical Episode:** [`MME00679: Coin Operated II`](../episodes/MME00679.md)
 
+**Downloads:** [Credits JSON](json/MME00679-credits.json) • [Credits Plain Text](txt/MME00679-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2010 A&E Television Networks`
+* **Copyright Notice:** `© 2010 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Half Yard Productions, PIXELDUST STUDIOS, TAKOMA MEDIA
 * **Narrator:** MAX RAPHAEL
 

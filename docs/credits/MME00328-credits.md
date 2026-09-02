@@ -1,10 +1,12 @@
 # Credit Roll: Smart Bombs (2003)
 **Canonical Episode:** [`MME00328: Smart Bombs`](../episodes/MME00328.md)
 
+**Downloads:** [Credits JSON](json/MME00328-credits.json) • [Credits Plain Text](txt/MME00328-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2003 A&E Television Networks / All Rights Reserved.`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc.
 * **Narrator:** Max Raphael, Melanie Pipes
 

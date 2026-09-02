@@ -1,10 +1,12 @@
 # Credit Roll: The Lumberyard (2005)
 **Canonical Episode:** [`MME00496: The Lumberyard`](../episodes/MME00496.md)
 
+**Downloads:** [Credits JSON](json/MME00496-credits.json) • [Credits Plain Text](txt/MME00496-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2005 A&E Television Networks All Rights Reserved`
+* **Copyright Notice:** `© 2005 A&E Television Networks All Rights Reserved`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, RED GYPSY ANIMATION, ALAN ETT MUSIC GROUP
 * **Narrator:** MAX RAPHAEL, JOHN KNAPP
 

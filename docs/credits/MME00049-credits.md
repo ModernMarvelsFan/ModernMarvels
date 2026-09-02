@@ -1,10 +1,12 @@
 # Credit Roll: Household Wonders. (1997)
 **Canonical Episode:** [`MME00049: Household Wonders.`](../episodes/MME00049.md)
 
+**Downloads:** [Credits JSON](json/MME00049-credits.json) • [Credits Plain Text](txt/MME00049-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, MEDIA CITY SOUND (inside the 'Audio Post Production' credit)
 * **Narrator:** —
 

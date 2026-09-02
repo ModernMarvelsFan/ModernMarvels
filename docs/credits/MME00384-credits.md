@@ -1,10 +1,12 @@
 # Credit Roll: World War I Tech (2004)
 **Canonical Episode:** [`MME00384: World War I Tech`](../episodes/MME00384.md)
 
+**Downloads:** [Credits JSON](json/MME00384-credits.json) • [Credits Plain Text](txt/MME00384-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, The History Channel, A&E Television Network
 * **Narrator:** Mikki Del Monico, Max Raphael
 

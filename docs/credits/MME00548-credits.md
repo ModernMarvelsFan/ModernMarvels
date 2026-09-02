@@ -1,10 +1,12 @@
 # Credit Roll: Freight Trains (2006)
 **Canonical Episode:** [`MME00548: Freight Trains`](../episodes/MME00548.md)
 
+**Downloads:** [Credits JSON](json/MME00548-credits.json) • [Credits Plain Text](txt/MME00548-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2006 A&E Television Networks`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, The History Channel
 * **Narrator:** Max Raphael
 

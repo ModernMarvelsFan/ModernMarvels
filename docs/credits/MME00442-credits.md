@@ -1,10 +1,12 @@
 # Credit Roll: George Washington Carver Tech (2005)
 **Canonical Episode:** [`MME00442: George Washington Carver Tech`](../episodes/MME00442.md)
 
+**Downloads:** [Credits JSON](json/MME00442-credits.json) • [Credits Plain Text](txt/MME00442-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. for History / © 2005 A&E Television Networks All Rights Reserved`
+* **Copyright Notice:** `Produced by Actuality Productions, Inc. for History. © 2005 A&E Television Networks All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., A&E Television Networks
 * **Narrator:** Max Raphael
 

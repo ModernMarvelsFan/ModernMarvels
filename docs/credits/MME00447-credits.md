@@ -1,10 +1,12 @@
 # Credit Roll: Howard Hughes Tech (2005)
 **Canonical Episode:** [`MME00447: Howard Hughes Tech`](../episodes/MME00447.md)
 
+**Downloads:** [Credits JSON](json/MME00447-credits.json) • [Credits Plain Text](txt/MME00447-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Tak Productions, Inc., Alan Ett Music Group
 * **Narrator:** Max Raphael
 

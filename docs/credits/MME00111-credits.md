@@ -1,10 +1,12 @@
 # Credit Roll: Security Systems (1999)
 **Canonical Episode:** [`MME00111: Security Systems`](../episodes/MME00111.md)
 
+**Downloads:** [Credits JSON](json/MME00111-credits.json) • [Credits Plain Text](txt/MME00111-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 1999 A&E TELEVISION NETWORKS ALL RIGHTS RESERVED`
+* **Copyright Notice:** `© 1999 A&E TELEVISION NETWORKS ALL RIGHTS RESERVED`
 * **Production Company:** THE HISTORY CHANNEL
 * **Narrator:** HARLAN SAPERSTEIN
 

@@ -1,10 +1,12 @@
 # Credit Roll: Harvesting Plus (2022)
 **Canonical Episode:** [`MME00743: Harvesting Plus`](../episodes/MME00743.md)
 
+**Downloads:** [Credits JSON](json/MME00743-credits.json) • [Credits Plain Text](txt/MME00743-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c)2004 - 2022 A&E Television Networks, LLC. All Rights Reserved.`
+* **Copyright Notice:** `©2004 - 2022 A&E Television Networks, LLC. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., the Six West Media(TM) group, HISTORY(R) NETWORK, A&E Television Networks, LLC, Motion Picture Enterprises, Inc., Ballast TV, Alan Ett Music Group, The 100% Music Library, MIBE Music, West One Music
 * **Narrator:** —
 

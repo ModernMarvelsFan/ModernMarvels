@@ -1,10 +1,12 @@
 # Credit Roll: Da Vinci Tech (2005)
 **Canonical Episode:** [`MME00498: Da Vinci Tech`](../episodes/MME00498.md)
 
+**Downloads:** [Credits JSON](json/MME00498-credits.json) • [Credits Plain Text](txt/MME00498-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2005 A&E Television Networks`
+* **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MAX RAPHAEL, JOHN KNAPP
 

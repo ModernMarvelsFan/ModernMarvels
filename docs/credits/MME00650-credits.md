@@ -1,10 +1,12 @@
 # Credit Roll: Super Human (2008)
 **Canonical Episode:** [`MME00650: Super Human`](../episodes/MME00650.md)
 
+**Downloads:** [Credits JSON](json/MME00650-credits.json) • [Credits Plain Text](txt/MME00650-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** AMI Music Group
 * **Narrator:** Max Raphael
 

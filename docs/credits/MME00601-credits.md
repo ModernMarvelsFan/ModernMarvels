@@ -1,10 +1,12 @@
 # Credit Roll: Deep Freeze (2007)
 **Canonical Episode:** [`MME00601: Deep Freeze`](../episodes/MME00601.md)
 
+**Downloads:** [Credits JSON](json/MME00601-credits.json) • [Credits Plain Text](txt/MME00601-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2007 A&E Television Networks`
+* **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Networks Productions, A&E Television Networks, Whitney Digital, Inc. (animation), Alan Ett Music Group
 * **Narrator:** Max Raphael
 

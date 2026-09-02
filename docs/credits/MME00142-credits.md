@@ -1,10 +1,12 @@
 # Credit Roll: The Body Shop (2000)
 **Canonical Episode:** [`MME00142: The Body Shop`](../episodes/MME00142.md)
 
+**Downloads:** [Credits JSON](json/MME00142-credits.json) • [Credits Plain Text](txt/MME00142-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment
 * **Narrator:** RON HAZELTON
 

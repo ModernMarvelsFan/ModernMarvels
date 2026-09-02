@@ -1,10 +1,12 @@
 # Credit Roll: Airships. (1999)
 **Canonical Episode:** [`MME00083: Airships.`](../episodes/MME00083.md)
 
+**Downloads:** [Credits JSON](json/MME00083-credits.json) • [Credits Plain Text](txt/MME00083-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 1998 A&E Television Networks`
+* **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., HISTORY, A&E Television Networks
 * **Narrator:** Harlan Saperstein
 

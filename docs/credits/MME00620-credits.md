@@ -1,10 +1,12 @@
 # Credit Roll: Bread (2008)
 **Canonical Episode:** [`MME00620: Bread`](../episodes/MME00620.md)
 
+**Downloads:** [Credits JSON](json/MME00620-credits.json) • [Credits Plain Text](txt/MME00620-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History
 * **Narrator:** Max Raphael
 

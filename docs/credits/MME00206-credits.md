@@ -1,10 +1,12 @@
 # Credit Roll: The Winchester (2002)
 **Canonical Episode:** [`MME00206: The Winchester`](../episodes/MME00206.md)
 
+**Downloads:** [Credits JSON](json/MME00206-credits.json) • [Credits Plain Text](txt/MME00206-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c)199? / A&E TELEVISION NETWORKS / All Rights Reserved`
+* **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Greystone Communications, Inc., Matchframe Video, SabuCat Productions
 * **Narrator:** —
 

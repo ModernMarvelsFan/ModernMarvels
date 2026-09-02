@@ -1,10 +1,12 @@
 # Credit Roll: Dogs (2010)
 **Canonical Episode:** [`MME00681: Dogs`](../episodes/MME00681.md)
 
+**Downloads:** [Credits JSON](json/MME00681-credits.json) • [Credits Plain Text](txt/MME00681-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Jupiter Entertainment / For History / (c) 2010 A&E Television Networks, LLC. / All Rights Reserved [right column, same frame:] Executive Producer`
+* **Copyright Notice:** `Produced by Jupiter Entertainment. For History. © 2010 A&E Television Networks, LLC.. All Rights Reserved [right column, same frame:] Executive Producer`
 * **Production Company:** Produced by Jupiter Entertainment
 * **Narrator:** Lloyd Sherr
 

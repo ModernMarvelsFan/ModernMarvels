@@ -1,10 +1,12 @@
 # Credit Roll: More Candy (2011)
 **Canonical Episode:** [`MME00697: More Candy`](../episodes/MME00697.md)
 
+**Downloads:** [Credits JSON](json/MME00697-credits.json) • [Credits Plain Text](txt/MME00697-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2011 A&E Television Networks, LLC. All Rights Reserved`
+* **Copyright Notice:** `© 2011 A&E Television Networks, LLC. All Rights Reserved`
 * **Production Company:** Jupiter Entertainment
 * **Narrator:** Max Raphael
 

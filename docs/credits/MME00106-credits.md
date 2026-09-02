@@ -1,10 +1,12 @@
 # Credit Roll: The Tool Bench: Hand Tools (1999)
 **Canonical Episode:** [`MME00106: The Tool Bench: Hand Tools`](../episodes/MME00106.md)
 
+**Downloads:** [Credits JSON](json/MME00106-credits.json) • [Credits Plain Text](txt/MME00106-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., Hearst Entertainment
 * **Narrator:** —
 

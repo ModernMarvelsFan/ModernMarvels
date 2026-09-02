@@ -1,10 +1,12 @@
 # Credit Roll: Machu Picchu (2003)
 **Canonical Episode:** [`MME00324: Machu Picchu`](../episodes/MME00324.md)
 
+**Downloads:** [Credits JSON](json/MME00324-credits.json) • [Credits Plain Text](txt/MME00324-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2003 A&E Television Networks All Rights Reserved.`
+* **Copyright Notice:** `© 2003 A&E Television Networks All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY CHANNEL
 * **Narrator:** MELANIE PIPES, MAX RAPHAEL
 

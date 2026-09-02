@@ -1,11 +1,13 @@
 # Credit Roll: Cheese (2007)
 **Canonical Episode:** [`MME00590: Cheese`](../episodes/MME00590.md)
 
+**Downloads:** [Credits JSON](json/MME00590-credits.json) • [Credits Plain Text](txt/MME00590-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2007 A&E Television Networks`
-* **Production Company:** Produced by Actuality Productions, Inc., For History Television Networks Productions
+* **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -26,9 +28,8 @@
 | **Director of Research** | Allison Boon |
 | **Editor** | Robert Lattanzio |
 | **Executive Producer** | Don Cambou |
-| **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Field Audio** | Ryan Agostino, Matt Cozza, Jed Henry, Charles Rohr, Mark Solomon |
-| **Historical Consultant** | Steve Jenkins, Norbert Wabnig |
+| **Historical Consultant** | Steve Jenkins, Norbert Waenig |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
@@ -38,7 +39,6 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
-| **Programming Coordinator** | Adam Rosante |
 | **Researcher** | Paul Lacques |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |

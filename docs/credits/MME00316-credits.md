@@ -1,10 +1,12 @@
 # Credit Roll: Bullets (2003)
 **Canonical Episode:** [`MME00316: Bullets`](../episodes/MME00316.md)
 
+**Downloads:** [Credits JSON](json/MME00316-credits.json) • [Credits Plain Text](txt/MME00316-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2003 A&E Television Networks`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., The History Channel, A&E Television Networks
 * **Narrator:** Max Raphael, Melanie Pipes
 

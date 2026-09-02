@@ -1,10 +1,12 @@
 # Credit Roll: Star City (2002)
 **Canonical Episode:** [`MME00223: Star City`](../episodes/MME00223.md)
 
+**Downloads:** [Credits JSON](json/MME00223-credits.json) • [Credits Plain Text](txt/MME00223-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2002 A&E Television Networks`
+* **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Tera Media, DEXTER MEDIA, YAROSLAV STUDIOS
 * **Narrator:** MIKE MCNALLY
 

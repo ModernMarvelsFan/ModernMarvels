@@ -1,10 +1,12 @@
 # Credit Roll: Food: Cookies (2021)
 **Canonical Episode:** [`MME00719: Food: Cookies`](../episodes/MME00719.md)
 
+**Downloads:** [Credits JSON](json/MME00719-credits.json) • [Credits Plain Text](txt/MME00719-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2021 A&E Television Networks`
+* **Copyright Notice:** `© 2021 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by the Six West Media™ group for HISTORY®
 * **Narrator:** —
 

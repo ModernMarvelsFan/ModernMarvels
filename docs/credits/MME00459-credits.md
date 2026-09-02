@@ -1,10 +1,12 @@
 # Credit Roll: Glue (2005)
 **Canonical Episode:** [`MME00459: Glue`](../episodes/MME00459.md)
 
+**Downloads:** [Credits JSON](json/MME00459-credits.json) • [Credits Plain Text](txt/MME00459-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2005 A&E Television Networks`
+* **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

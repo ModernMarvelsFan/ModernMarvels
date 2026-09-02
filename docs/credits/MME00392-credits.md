@@ -1,10 +1,12 @@
 # Credit Roll: Building a Skyscraper: The Skeleton (2004)
 **Canonical Episode:** [`MME00392: Building a Skyscraper: The Skeleton`](../episodes/MME00392.md)
 
+**Downloads:** [Credits JSON](json/MME00392-credits.json) • [Credits Plain Text](txt/MME00392-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, The History Channel
 * **Narrator:** MIKKI DEL MONICO
 

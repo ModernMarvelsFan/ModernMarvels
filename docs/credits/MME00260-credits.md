@@ -1,10 +1,12 @@
 # Credit Roll: Limos (2002)
 **Canonical Episode:** [`MME00260: Limos`](../episodes/MME00260.md)
 
+**Downloads:** [Credits JSON](json/MME00260-credits.json) • [Credits Plain Text](txt/MME00260-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2002 A&E Television Networks`
+* **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY CHANNEL, A&E TELEVISION NETWORKS
 * **Narrator:** BEATA GENIN, MAX RAPHAEL
 

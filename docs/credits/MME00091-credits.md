@@ -1,10 +1,12 @@
 # Credit Roll: Battlefield Medicine (1999)
 **Canonical Episode:** [`MME00091: Battlefield Medicine`](../episodes/MME00091.md)
 
+**Downloads:** [Credits JSON](json/MME00091-credits.json) • [Credits Plain Text](txt/MME00091-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment
 * **Narrator:** —
 

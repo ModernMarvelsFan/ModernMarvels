@@ -1,6 +1,8 @@
 # Credit Roll: U.S. Mints: Money Machines (1999)
 **Canonical Episode:** [`MME00092: U.S. Mints: Money Machines`](../episodes/MME00092.md)
 
+**Downloads:** [Credits JSON](json/MME00092-credits.json) • [Credits Plain Text](txt/MME00092-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

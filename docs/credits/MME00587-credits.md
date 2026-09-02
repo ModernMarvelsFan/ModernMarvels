@@ -1,10 +1,12 @@
 # Credit Roll: 70s Tech (2007)
 **Canonical Episode:** [`MME00587: 70s Tech`](../episodes/MME00587.md)
 
+**Downloads:** [Credits JSON](json/MME00587-credits.json) • [Credits Plain Text](txt/MME00587-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Alan Ett Music Group, Crazybridge Studios
 * **Narrator:** Max Raphael
 

@@ -1,10 +1,12 @@
 # Credit Roll: Bulletproof. (2002)
 **Canonical Episode:** [`MME00216: Bulletproof.`](../episodes/MME00216.md)
 
+**Downloads:** [Credits JSON](json/MME00216-credits.json) • [Credits Plain Text](txt/MME00216-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c)2002 A&E TELEVISION NETORKS ALL RIGHTS RESERVED`
+* **Copyright Notice:** `©2002 A&E TELEVISION NETORKS ALL RIGHTS RESERVED`
 * **Production Company:** —
 * **Narrator:** MAX RAPHAEL, DAWN IRWIN
 

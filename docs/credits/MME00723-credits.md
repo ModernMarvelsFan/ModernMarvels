@@ -1,10 +1,12 @@
 # Credit Roll: Food: Snacks (2021)
 **Canonical Episode:** [`MME00723: Food: Snacks`](../episodes/MME00723.md)
 
+**Downloads:** [Credits JSON](json/MME00723-credits.json) • [Credits Plain Text](txt/MME00723-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2021 A&E Television Networks`
+* **Copyright Notice:** `© 2021 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** THE SIX WEST MEDIA(TM) GROUP, HISTORY(R)
 * **Narrator:** —
 

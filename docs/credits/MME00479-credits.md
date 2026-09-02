@@ -1,10 +1,12 @@
 # Credit Roll: The World's Fastest (2005)
 **Canonical Episode:** [`MME00479: The World's Fastest`](../episodes/MME00479.md)
 
+**Downloads:** [Credits JSON](json/MME00479-credits.json) • [Credits Plain Text](txt/MME00479-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2005 A&E Television Networks`
+* **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, RED GYPSY ANIMATION
 * **Narrator:** MAX RAPHAEL, JOHN KNAPP
 

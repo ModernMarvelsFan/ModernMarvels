@@ -1,6 +1,8 @@
 # Credit Roll: Sports Technology: Equipment (1998)
 **Canonical Episode:** [`MME00071: Sports Technology: Equipment`](../episodes/MME00071.md)
 
+**Downloads:** [Credits JSON](json/MME00071-credits.json) • [Credits Plain Text](txt/MME00071-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

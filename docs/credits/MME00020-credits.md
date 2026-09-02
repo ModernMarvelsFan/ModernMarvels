@@ -1,6 +1,8 @@
 # Credit Roll: Silver Mines (1995)
 **Canonical Episode:** [`MME00020: Silver Mines`](../episodes/MME00020.md)
 
+**Downloads:** [Credits JSON](json/MME00020-credits.json) • [Credits Plain Text](txt/MME00020-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

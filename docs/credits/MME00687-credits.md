@@ -1,10 +1,12 @@
 # Credit Roll: Packaging (2011)
 **Canonical Episode:** [`MME00687: Packaging`](../episodes/MME00687.md)
 
+**Downloads:** [Credits JSON](json/MME00687-credits.json) • [Credits Plain Text](txt/MME00687-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Jupiter Entertainment / For History / (c) 2011 A&E Television Networks, LLC. / All Rights Reserved`
+* **Copyright Notice:** `Produced by Jupiter Entertainment. For History. © 2011 A&E Television Networks, LLC.. All Rights Reserved`
 * **Production Company:** Produced by Jupiter Entertainment
 * **Narrator:** Max Raphael
 

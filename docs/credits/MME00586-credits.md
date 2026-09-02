@@ -1,10 +1,12 @@
 # Credit Roll: Engineering Disasters of the '70s (2007)
 **Canonical Episode:** [`MME00586: Engineering Disasters of the '70s`](../episodes/MME00586.md)
 
+**Downloads:** [Credits JSON](json/MME00586-credits.json) • [Credits Plain Text](txt/MME00586-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2007 A&E Television Networks`
+* **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc. (printed under each of the six segment names), History Television Network Productions, A&E Television Networks
 * **Narrator:** Max Rafael
 

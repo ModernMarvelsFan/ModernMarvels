@@ -1,10 +1,12 @@
 # Credit Roll: Ink (2006)
 **Canonical Episode:** [`MME00554: Ink`](../episodes/MME00554.md)
 
+**Downloads:** [Credits JSON](json/MME00554-credits.json) • [Credits Plain Text](txt/MME00554-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(C) 2006 A&E Television Networks All Rights Reserved`
+* **Copyright Notice:** `© 2006 A&E Television Networks All Rights Reserved`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Networks
 * **Narrator:** MAX RAPHAEL
 

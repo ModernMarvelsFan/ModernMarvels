@@ -1,10 +1,12 @@
 # Credit Roll: City Parks (1999)
 **Canonical Episode:** [`MME00087: City Parks`](../episodes/MME00087.md)
 
+**Downloads:** [Credits JSON](json/MME00087-credits.json) • [Credits Plain Text](txt/MME00087-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c)1998 A&E Television Networks All Rights Reserved`
+* **Copyright Notice:** `©1998 A&E Television Networks All Rights Reserved`
 * **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, The History Channel
 * **Narrator:** —
 

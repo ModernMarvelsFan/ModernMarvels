@@ -1,10 +1,12 @@
 # Credit Roll: It Came From Outer Space (2007)
 **Canonical Episode:** [`MME00584: It Came From Outer Space`](../episodes/MME00584.md)
 
+**Downloads:** [Credits JSON](json/MME00584-credits.json) • [Credits Plain Text](txt/MME00584-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2007 A&E Television Networks`
+* **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by Actuality Productions, Inc., For History Television Networks Productions
 * **Narrator:** Max Raphael
 

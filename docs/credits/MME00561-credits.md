@@ -1,10 +1,12 @@
 # Credit Roll: Wine (2006)
 **Canonical Episode:** [`MME00561: Wine`](../episodes/MME00561.md)
 
+**Downloads:** [Credits JSON](json/MME00561-credits.json) • [Credits Plain Text](txt/MME00561-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2006 A&E Television Networks / All Rights Reserved`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions
 * **Narrator:** Max Raphael
 

@@ -1,10 +1,12 @@
 # Credit Roll: Food Trucks (2011)
 **Canonical Episode:** [`MME00695: Food Trucks`](../episodes/MME00695.md)
 
+**Downloads:** [Credits JSON](json/MME00695-credits.json) • [Credits Plain Text](txt/MME00695-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2011 A&E Television Networks`
+* **Copyright Notice:** `© 2011 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** A&E Television Networks
 * **Narrator:** MAX RAPHAEL
 

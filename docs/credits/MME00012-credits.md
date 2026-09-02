@@ -1,10 +1,12 @@
 # Credit Roll: Statue of Liberty (1995)
 **Canonical Episode:** [`MME00012: Statue of Liberty`](../episodes/MME00012.md)
 
+**Downloads:** [Credits JSON](json/MME00012-credits.json) • [Credits Plain Text](txt/MME00012-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2000 A&E Television Networks`
+* **Copyright Notice:** `© 1995 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** JIM KEESHEN PRODUCTIONS, Hearst Entertainment Television, A&E Television Networks
 * **Narrator:** HARLAN SAPERSTEIN
 

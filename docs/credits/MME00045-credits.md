@@ -1,10 +1,12 @@
 # Credit Roll: Satellites. (1997)
 **Canonical Episode:** [`MME00045: Satellites.`](../episodes/MME00045.md)
 
+**Downloads:** [Credits JSON](json/MME00045-credits.json) • [Credits Plain Text](txt/MME00045-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** JAFFE PRODUCTIONS, ACTUALITY PRODUCTIONS, Inc., Hearst Entertainment, ALAN ETT MUSIC GROUP, INC., ART F/X
 * **Narrator:** EARL BOEN
 

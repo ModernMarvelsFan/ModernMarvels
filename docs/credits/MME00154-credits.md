@@ -1,10 +1,12 @@
 # Credit Roll: Plumbing: The Arteries Of Civilzation (2000)
 **Canonical Episode:** [`MME00154: Plumbing: The Arteries Of Civilzation`](../episodes/MME00154.md)
 
+**Downloads:** [Credits JSON](json/MME00154-credits.json) • [Credits Plain Text](txt/MME00154-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ALAN ETT MUSIC GROUP, RED GYPSY ANIMATION
 * **Narrator:** MAX RAPHAEL, JOHN KNAPP
 

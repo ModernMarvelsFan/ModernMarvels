@@ -1,10 +1,12 @@
 # Credit Roll: Super Guns (2002)
 **Canonical Episode:** [`MME00239: Super Guns`](../episodes/MME00239.md)
 
+**Downloads:** [Credits JSON](json/MME00239-credits.json) • [Credits Plain Text](txt/MME00239-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `©MCMXCIX / A&E TELEVISION NETWORKS / All Rights Reserved`
+* **Copyright Notice:** `©MCMXCIX. A&E TELEVISION NETWORKS. All Rights Reserved`
 * **Production Company:** GREYSTONE COMMUNICATIONS, INC. (producer; animated grey pyramid GREYSTONE logo plays full frame), THE HISTORY CHANNEL (presenter; gold H-box logo, card reads 'A Presentation of' then 'THE HISTORY CHANNEL'), MATCHFRAME VIDEO (post production services)
 * **Narrator:** —
 

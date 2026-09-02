@@ -1,10 +1,12 @@
 # Credit Roll: Chrome (2010)
 **Canonical Episode:** [`MME00663: Chrome`](../episodes/MME00663.md)
 
+**Downloads:** [Credits JSON](json/MME00663-credits.json) • [Credits Plain Text](txt/MME00663-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History / © 2009 A&E Television Networks, All Rights Reserved`
+* **Copyright Notice:** `Produced by Actuality Productions, Inc.. For History. © 2009 A&E Television Networks, All Rights Reserved`
 * **Production Company:** Produced by Actuality Productions, Inc.
 * **Narrator:** Max Raphael
 

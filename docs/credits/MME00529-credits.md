@@ -1,6 +1,8 @@
 # Credit Roll: Pirate Tech (2006)
 **Canonical Episode:** [`MME00529: Pirate Tech`](../episodes/MME00529.md)
 
+**Downloads:** [Credits JSON](json/MME00529-credits.json) • [Credits Plain Text](txt/MME00529-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

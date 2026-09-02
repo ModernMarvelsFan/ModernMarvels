@@ -1,10 +1,12 @@
 # Credit Roll: American Trucking (2011)
 **Canonical Episode:** [`MME00690: American Trucking`](../episodes/MME00690.md)
 
+**Downloads:** [Credits JSON](json/MME00690-credits.json) • [Credits Plain Text](txt/MME00690-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Jupiter Entertainment / For History / (c) 2011 A&E Television Networks, LLC. / All Rights Reserved`
+* **Copyright Notice:** `Produced by Jupiter Entertainment. For History. © 2011 A&E Television Networks, LLC.. All Rights Reserved`
 * **Production Company:** Jupiter Entertainment (producer), Outpost Worldwide (camera), Elevation (graphics), A&E Television Networks, LLC (rights holder)
 * **Narrator:** Max Raphael
 

@@ -1,10 +1,12 @@
 # Credit Roll: The Chrysler Building. (2002)
 **Canonical Episode:** [`MME00248: The Chrysler Building.`](../episodes/MME00248.md)
 
+**Downloads:** [Credits JSON](json/MME00248-credits.json) • [Credits Plain Text](txt/MME00248-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c)2002 A&E TELEVISION NETWORKS / ALL RIGHTS RESERVED`
+* **Copyright Notice:** `©2002 A&E TELEVISION NETWORKS. ALL RIGHTS RESERVED`
 * **Production Company:** —
 * **Narrator:** Anthony Lacques
 

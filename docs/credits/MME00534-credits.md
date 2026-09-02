@@ -1,10 +1,12 @@
 # Credit Roll: Nuts (2006)
 **Canonical Episode:** [`MME00534: Nuts`](../episodes/MME00534.md)
 
+**Downloads:** [Credits JSON](json/MME00534-credits.json) • [Credits Plain Text](txt/MME00534-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2006 A&E Television Networks`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by / ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MAX RAPHAEL, JOHN KNAPP
 

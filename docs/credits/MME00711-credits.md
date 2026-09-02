@@ -1,10 +1,12 @@
 # Credit Roll: Mega Food Countdown (2013)
 **Canonical Episode:** [`MME00711: Mega Food Countdown`](../episodes/MME00711.md)
 
+**Downloads:** [Credits JSON](json/MME00711-credits.json) • [Credits Plain Text](txt/MME00711-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2012 A&E Television Networks`
+* **Copyright Notice:** `© 2013 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Half Yard Productions, A&E Television Networks, MVI Post
 * **Narrator:** MAX RAPHAEL
 

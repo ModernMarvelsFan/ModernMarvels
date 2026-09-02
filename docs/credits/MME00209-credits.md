@@ -1,10 +1,12 @@
 # Credit Roll: Tunnels of Vietnam. (2002)
 **Canonical Episode:** [`MME00209: Tunnels of Vietnam.`](../episodes/MME00209.md)
 
+**Downloads:** [Credits JSON](json/MME00209-credits.json) • [Credits Plain Text](txt/MME00209-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2001 A & E Television Networks All Rights Reserved`
+* **Copyright Notice:** `© 2001 A & E Television Networks All Rights Reserved`
 * **Production Company:** DIGITAL RANCH, The History Channel, A & E Television Networks
 * **Narrator:** —
 

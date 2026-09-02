@@ -1,10 +1,12 @@
 # Credit Roll: The Atlantic Wall (1998)
 **Canonical Episode:** [`MME00062: The Atlantic Wall`](../episodes/MME00062.md)
 
+**Downloads:** [Credits JSON](json/MME00062-credits.json) • [Credits Plain Text](txt/MME00062-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 1999 & 2005 A&E Television Network All Rights Reserved`
+* **Copyright Notice:** `© 1999 & 2005 A&E Television Network All Rights Reserved`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MAX RAPHAEL, JOHN KNAPP
 

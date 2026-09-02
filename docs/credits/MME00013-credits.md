@@ -1,10 +1,12 @@
 # Credit Roll: Tunnels (1995)
 **Canonical Episode:** [`MME00013: Tunnels`](../episodes/MME00013.md)
 
+**Downloads:** [Credits JSON](json/MME00013-credits.json) • [Credits Plain Text](txt/MME00013-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1995 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** JAFFE PRODUCTIONS, Hearst Entertainment, ACTUALITY Productions, Inc., YEAH STUDIOS, INTERLOK
 * **Narrator:** —
 

@@ -1,10 +1,12 @@
 # Credit Roll: Booby Traps (2003)
 **Canonical Episode:** [`MME00273: Booby Traps`](../episodes/MME00273.md)
 
+**Downloads:** [Credits JSON](json/MME00273-credits.json) • [Credits Plain Text](txt/MME00273-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2003 A&E Television Networks`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc.
 * **Narrator:** BEATA GENIN, MAX RAPHAEL
 

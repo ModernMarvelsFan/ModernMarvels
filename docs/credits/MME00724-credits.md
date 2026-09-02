@@ -1,10 +1,12 @@
 # Credit Roll: The Future of Food (2021)
 **Canonical Episode:** [`MME00724: The Future of Food`](../episodes/MME00724.md)
 
+**Downloads:** [Credits JSON](json/MME00724-credits.json) • [Credits Plain Text](txt/MME00724-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2021 A&E Television Networks`
+* **Copyright Notice:** `© 2021 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** The Six West Media™ Group, HISTORY®, A&E Television Networks, LLC, Motion Picture Enterprises, Inc.
 * **Narrator:** —
 

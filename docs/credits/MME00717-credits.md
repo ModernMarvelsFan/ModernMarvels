@@ -1,10 +1,12 @@
 # Credit Roll: Amazing Gadgets Countdown (2014)
 **Canonical Episode:** [`MME00717: Amazing Gadgets Countdown`](../episodes/MME00717.md)
 
+**Downloads:** [Credits JSON](json/MME00717-credits.json) • [Credits Plain Text](txt/MME00717-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2014 A&E Television Networks`
+* **Copyright Notice:** `© 2014 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** A+E Networks
 * **Narrator:** MAX RAPHAEL
 

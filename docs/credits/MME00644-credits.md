@@ -1,10 +1,12 @@
 # Credit Roll: Halloween Tech (2008)
 **Canonical Episode:** [`MME00644: Halloween Tech`](../episodes/MME00644.md)
 
+**Downloads:** [Credits JSON](json/MME00644-credits.json) • [Credits Plain Text](txt/MME00644-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., A&E Television Networks, AMI Music Group
 * **Narrator:** Max Raphael
 

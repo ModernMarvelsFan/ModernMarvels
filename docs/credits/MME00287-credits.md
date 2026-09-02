@@ -1,6 +1,8 @@
 # Credit Roll: Machine Guns (2003)
 **Canonical Episode:** [`MME00287: Machine Guns`](../episodes/MME00287.md)
 
+**Downloads:** [Credits JSON](json/MME00287-credits.json) • [Credits Plain Text](txt/MME00287-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

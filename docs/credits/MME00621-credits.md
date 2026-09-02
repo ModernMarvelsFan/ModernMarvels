@@ -1,6 +1,8 @@
 # Credit Roll: Gadgets 3 (2008)
 **Canonical Episode:** [`MME00621: Gadgets 3`](../episodes/MME00621.md)
 
+**Downloads:** [Credits JSON](json/MME00621-credits.json) • [Credits Plain Text](txt/MME00621-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

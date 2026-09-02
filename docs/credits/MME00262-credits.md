@@ -1,10 +1,12 @@
 # Credit Roll: Digi-Tech (2002)
 **Canonical Episode:** [`MME00262: Digi-Tech`](../episodes/MME00262.md)
 
+**Downloads:** [Credits JSON](json/MME00262-credits.json) • [Credits Plain Text](txt/MME00262-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC.
 * **Narrator:** BEATA GENIN
 

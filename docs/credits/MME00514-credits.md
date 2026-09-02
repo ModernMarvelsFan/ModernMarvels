@@ -1,10 +1,12 @@
 # Credit Roll: Engineering Disasters 19 (2006)
 **Canonical Episode:** [`MME00514: Engineering Disasters 19`](../episodes/MME00514.md)
 
+**Downloads:** [Credits JSON](json/MME00514-credits.json) • [Credits Plain Text](txt/MME00514-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c)2006 / A&E Television Networks / All Rights Reserved`
+* **Copyright Notice:** `©2006. A&E Television Networks. All Rights Reserved`
 * **Production Company:** A&E Television Networks (rights holder)
 * **Narrator:** Max Raphael
 

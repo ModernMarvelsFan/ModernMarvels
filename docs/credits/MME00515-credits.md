@@ -1,6 +1,8 @@
 # Credit Roll: Insulation (2006)
 **Canonical Episode:** [`MME00515: Insulation`](../episodes/MME00515.md)
 
+**Downloads:** [Credits JSON](json/MME00515-credits.json) • [Credits Plain Text](txt/MME00515-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

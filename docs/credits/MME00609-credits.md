@@ -1,11 +1,13 @@
 # Credit Roll: Most Shocking (2007)
 **Canonical Episode:** [`MME00609: Most Shocking`](../episodes/MME00609.md)
 
+**Downloads:** [Credits JSON](json/MME00609-credits.json) • [Credits Plain Text](txt/MME00609-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2007 A&E Television Networks, All Rights Reserved`
-* **Production Company:** Actuality Productions, Inc., History Television Networks Productions, FlyingBlue Studio, Alan Ett Music Group
+* **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -25,9 +27,7 @@
 | **Director of Research** | Terrence Hartwell |
 | **Editors** | Lou LaProcido, Robert Lattanzio |
 | **Executive Producer** | Don Cambou |
-| **Field Audio** | Ryan Agostino, Dave Bratspis, Dennis Hamlin, Jeff Holen, Charles Rohr, Brian Sepowitz, Rob Sumner |
-| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **For The History Channel / Programming Coordinator** | Adam Rosante |
+| **Field Audio** | Ryan Agostino, Dave Bratspis, Dennis Hamlin, Jeff Hoien, Charles Rohr, Brian Sepowitz, Rob Sumner |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |

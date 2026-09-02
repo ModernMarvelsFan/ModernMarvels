@@ -1,10 +1,12 @@
 # Credit Roll: Pocket Tools (2011)
 **Canonical Episode:** [`MME00694: Pocket Tools`](../episodes/MME00694.md)
 
+**Downloads:** [Credits JSON](json/MME00694-credits.json) • [Credits Plain Text](txt/MME00694-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2011 A&E Television Networks`
+* **Copyright Notice:** `© 2011 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by Half Yard Productions
 * **Narrator:** —
 

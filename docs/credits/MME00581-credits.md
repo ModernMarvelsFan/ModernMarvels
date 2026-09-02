@@ -1,10 +1,12 @@
 # Credit Roll: Deep Sea Salvage (2007)
 **Canonical Episode:** [`MME00581: Deep Sea Salvage`](../episodes/MME00581.md)
 
+**Downloads:** [Credits JSON](json/MME00581-credits.json) • [Credits Plain Text](txt/MME00581-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2007 A&E Television Networks`
+* **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Networks Productions, FlyingBlue Studio
 * **Narrator:** MAX RAPHAEL
 

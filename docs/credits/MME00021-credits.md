@@ -1,10 +1,12 @@
 # Credit Roll: Tennessee Valley Authority (1995)
 **Canonical Episode:** [`MME00021: Tennessee Valley Authority`](../episodes/MME00021.md)
 
+**Downloads:** [Credits JSON](json/MME00021-credits.json) • [Credits Plain Text](txt/MME00021-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 1996 A&E Television Networks`
+* **Copyright Notice:** `© 1995 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Hearst Entertainment Television (named only inside the credit 'Executive Producer for Hearst Entertainment Television')
 * **Narrator:** HARLAN SAPERSTEIN
 

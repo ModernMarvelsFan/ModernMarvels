@@ -1,10 +1,12 @@
 # Credit Roll: Nuclear Tech (2004)
 **Canonical Episode:** [`MME00382: Nuclear Tech`](../episodes/MME00382.md)
 
+**Downloads:** [Credits JSON](json/MME00382-credits.json) • [Credits Plain Text](txt/MME00382-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by / ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

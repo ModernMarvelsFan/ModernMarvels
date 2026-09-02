@@ -1,10 +1,12 @@
 # Credit Roll: Soft Drinks (2008)
 **Canonical Episode:** [`MME00641: Soft Drinks`](../episodes/MME00641.md)
 
+**Downloads:** [Credits JSON](json/MME00641-credits.json) • [Credits Plain Text](txt/MME00641-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., A&E Television Networks
 * **Narrator:** Max Raphael
 

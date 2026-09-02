@@ -1,10 +1,12 @@
 # Credit Roll: Breaking Point (2010)
 **Canonical Episode:** [`MME00662: Breaking Point`](../episodes/MME00662.md)
 
+**Downloads:** [Credits JSON](json/MME00662-credits.json) • [Credits Plain Text](txt/MME00662-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2009 A&E Television Networks`
+* **Copyright Notice:** `© 2010 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History
 * **Narrator:** Max Raphael
 

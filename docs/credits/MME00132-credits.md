@@ -1,10 +1,12 @@
 # Credit Roll: Traffic (2000)
 **Canonical Episode:** [`MME00132: Traffic`](../episodes/MME00132.md)
 
+**Downloads:** [Credits JSON](json/MME00132-credits.json) • [Credits Plain Text](txt/MME00132-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2000 A&E Television Networks`
+* **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** The History Channel, A&E Television Networks
 * **Narrator:** —
 

@@ -1,10 +1,12 @@
 # Credit Roll: Waterproof (2012)
 **Canonical Episode:** [`MME00700: Waterproof`](../episodes/MME00700.md)
 
+**Downloads:** [Credits JSON](json/MME00700-credits.json) • [Credits Plain Text](txt/MME00700-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2012 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by Half Yard Productions
 * **Narrator:** Max Raphael
 

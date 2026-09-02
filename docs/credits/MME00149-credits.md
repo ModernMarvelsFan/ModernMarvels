@@ -1,10 +1,12 @@
 # Credit Roll: Combat Training. (2000)
 **Canonical Episode:** [`MME00149: Combat Training.`](../episodes/MME00149.md)
 
+**Downloads:** [Credits JSON](json/MME00149-credits.json) • [Credits Plain Text](txt/MME00149-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2000 A&E Television Networks All Rights Reserved / HISTORYCHANNEL.COM`
+* **Copyright Notice:** `© 2000 A&E Television Networks All Rights Reserved. HISTORYCHANNEL.COM`
 * **Production Company:** Actuality Productions, Inc., Hearst Entertainment, THE HISTORY CHANNEL, A&E Television Networks
 * **Narrator:** —
 

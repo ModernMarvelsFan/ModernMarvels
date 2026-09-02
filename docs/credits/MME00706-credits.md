@@ -1,10 +1,12 @@
 # Credit Roll: Alaska (2012)
 **Canonical Episode:** [`MME00706: Alaska`](../episodes/MME00706.md)
 
+**Downloads:** [Credits JSON](json/MME00706-credits.json) • [Credits Plain Text](txt/MME00706-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Half Yard Productions, LLC for HISTORY / © 2012 A&E TELEVISION NETWORKS, LLC. ALL RIGHTS RESERVED`
+* **Copyright Notice:** `Produced by Half Yard Productions, LLC for HISTORY. © 2012 A&E TELEVISION NETWORKS, LLC. ALL RIGHTS RESERVED`
 * **Production Company:** Half Yard Productions, LLC, A&E Television Networks, LLC, HISTORY
 * **Narrator:** MAX RAPHAEL
 

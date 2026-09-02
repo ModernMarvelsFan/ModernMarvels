@@ -1,10 +1,12 @@
 # Credit Roll: Dirt (2010)
 **Canonical Episode:** [`MME00656: Dirt`](../episodes/MME00656.md)
 
+**Downloads:** [Credits JSON](json/MME00656-credits.json) • [Credits Plain Text](txt/MME00656-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2009 A&E Television Networks`
+* **Copyright Notice:** `© 2010 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., the Six West Media(TM) group, Ballast TV, Motion Picture Enterprises, Inc.
 * **Narrator:** —
 

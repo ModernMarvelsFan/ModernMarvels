@@ -1,6 +1,8 @@
 # Credit Roll: More Military Movers (2007)
 **Canonical Episode:** [`MME00580: More Military Movers`](../episodes/MME00580.md)
 
+**Downloads:** [Credits JSON](json/MME00580-credits.json) • [Credits Plain Text](txt/MME00580-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

@@ -1,10 +1,12 @@
 # Credit Roll: Super Ships (2010)
 **Canonical Episode:** [`MME00669: Super Ships`](../episodes/MME00669.md)
 
+**Downloads:** [Credits JSON](json/MME00669-credits.json) • [Credits Plain Text](txt/MME00669-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History / © 2009 A&E Television Networks, All Rights Reserved`
+* **Copyright Notice:** `Produced by Actuality Productions, Inc.. For History. © 2009 A&E Television Networks, All Rights Reserved`
 * **Production Company:** Produced by Actuality Productions, Inc.
 * **Narrator:** Max Raphael
 

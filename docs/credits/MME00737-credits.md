@@ -1,10 +1,12 @@
 # Credit Roll: Ultimate Helicopters (2022)
 **Canonical Episode:** [`MME00737: Ultimate Helicopters`](../episodes/MME00737.md)
 
+**Downloads:** [Credits JSON](json/MME00737-credits.json) • [Credits Plain Text](txt/MME00737-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2009 A&E Television Networks`
+* **Copyright Notice:** `© 2022 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., the Six West Media(TM) group, Ballast TV, Motion Picture Enterprises, Inc., FlyingBlue Studio
 * **Narrator:** —
 

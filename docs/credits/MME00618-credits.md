@@ -1,11 +1,13 @@
 # Credit Roll: Whiskey (2008)
 **Canonical Episode:** [`MME00618: Whiskey`](../episodes/MME00618.md)
 
+**Downloads:** [Credits JSON](json/MME00618-credits.json) • [Credits Plain Text](txt/MME00618-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
-* **Production Company:** Produced by Actuality Productions, Inc.
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll

@@ -1,10 +1,12 @@
 # Credit Roll: Car Wash (2008)
 **Canonical Episode:** [`MME00648: Car Wash`](../episodes/MME00648.md)
 
+**Downloads:** [Credits JSON](json/MME00648-credits.json) • [Credits Plain Text](txt/MME00648-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2008 A&E Television Networks`
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by Actuality Productions, Inc. and the Six West Media™ group for HISTORY®
 * **Narrator:** —
 

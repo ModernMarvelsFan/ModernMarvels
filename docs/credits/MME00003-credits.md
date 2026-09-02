@@ -1,10 +1,12 @@
 # Credit Roll: The Panama Canal (1994)
 **Canonical Episode:** [`MME00003: The Panama Canal`](../episodes/MME00003.md)
 
+**Downloads:** [Credits JSON](json/MME00003-credits.json) • [Credits Plain Text](txt/MME00003-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1994 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** PREMORE, INC., MIDTOWN POST, VALAGE, JAFFE PRODUCTIONS, Hearst Entertainment Television, PREMORE, INC. (Post Production, name partly cut at bottom edge of last frame)
 * **Narrator:** —
 

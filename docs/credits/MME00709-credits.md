@@ -1,10 +1,12 @@
 # Credit Roll: Mega Machine Countdown (2013)
 **Canonical Episode:** [`MME00709: Mega Machine Countdown`](../episodes/MME00709.md)
 
+**Downloads:** [Credits JSON](json/MME00709-credits.json) • [Credits Plain Text](txt/MME00709-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2012 A&E Television Networks`
+* **Copyright Notice:** `© 2013 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by Half Yard Productions
 * **Narrator:** Max Raphael
 

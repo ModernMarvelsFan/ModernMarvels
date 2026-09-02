@@ -1,48 +1,48 @@
 # Credit Roll: Wheat (2008)
 **Canonical Episode:** [`MME00638: Wheat`](../episodes/MME00638.md)
 
+**Downloads:** [Credits JSON](json/MME00638-credits.json) • [Credits Plain Text](txt/MME00638-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History / © 2008 A&E Television Networks, All Rights Reserved`
-* **Production Company:** Actuality Productions, Inc., A&E Television Networks
-* **Narrator:** Max Raphael
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
+* **Narrator:** MAX RAPHAEL
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animated Stills** | Adam Goodwin |
-| **Animation** | Glenn Takakjian |
-| **Assistant Editor** | Alexander Rubinow |
-| **Asst Post Coordinator** | Gaylen Kobayashi |
-| **Camera** | Robert Brunk, Spencer Cooper, Scott Douglas, Julio Luzquinos, Lon Magdich |
-| **Clearance Coordinator** | Aaron Zober |
-| **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
-| **Editor** | Lou LaProcido |
-| **Executive Producer** | Don Cambou |
-| **Field Audio** | Steve Bemassu, Douglas Burton, Matthew J. Engel, Travis Smith |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Adam Rosante |
-| **Historical Consultant** | Bob Bowden, PhD |
-| **Music** | AMI Music Group |
-| **Narrator** | Max Raphael |
-| **Online Editor** | John Price |
-| **Post Assist** | Cory Parker |
-| **Post Producer** | Tim Knauff |
-| **Produced by** | Actuality Productions, Inc. |
-| **Producer** | Bruce Nash |
-| **Production Accountant** | Sheridan Liu |
-| **Production Controller** | Dani Eslin |
-| **Production Executive** | Paul Dzilvelis |
-| **Production Manager** | Shelia Collins |
-| **Researcher** | Joshua Janiak |
-| **Sound Mixer** | Mark Jensen |
-| **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Kaylan Eggert |
+| **Animated Stills** | ADAM GOODWIN |
+| **Animation** | GLENN TAKAKJIAN |
+| **Assistant Editor** | ALEXANDER RUBINOW |
+| **Asst Post Coordinator** | GAYLEN KOBAYASHI |
+| **Camera** | ROBERT BRUNK, SPENCER COOPER, SCOTT DOUGLAS, JULIO LUZQUINOS, LON MAGDICH |
+| **Clearance Coordinator** | AARON ZOBER |
+| **Coordinator** | MAYA SYKES |
+| **Created by** | BRUCE NASH |
+| **Director of Clearance** | JERIANNE KEANEY |
+| **Director of Research** | TERRENCE HARTWELL |
+| **Editor** | LOU LaPROCIDO |
+| **Executive Producer** | JOHN VERHOFF, DON CAMBOU |
+| **Field Audio** | STEVE BEMASSU, DOUGLAS BURTON, MATTHEW J. ENGEL, TRAVIS SMITH |
+| **Historical Consultant** | BOB BOWDEN, PhD |
+| **Music** | AMI MUSIC GROUP |
+| **Narrator** | MAX RAPHAEL |
+| **Online Editor** | JOHN PRICE |
+| **Post Assist** | CORY PARKER |
+| **Post Producer** | TIM KNAUFF |
+| **Producer** | BRUCE NASH |
+| **Production Accountant** | SHERIDAN LIU |
+| **Production Controller** | DANI ESLIN |
+| **Production Executive** | PAUL DZILVELIS |
+| **Production Manager** | SHELIA COLLINS |
+| **Programming Coordinator** | ADAM ROSANTE |
+| **Researcher** | JOSHUA JANIAK |
+| **Sound Mixer** | MARK JENSEN |
+| **Supervising Producer** | RON NELSON |
+| **Written and Produced by** | KAYLAN EGGERT |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00638.md)

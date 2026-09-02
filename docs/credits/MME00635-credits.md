@@ -1,49 +1,48 @@
 # Credit Roll: Coin Operated (2008)
 **Canonical Episode:** [`MME00635: Coin Operated`](../episodes/MME00635.md)
 
+**Downloads:** [Credits JSON](json/MME00635-credits.json) • [Credits Plain Text](txt/MME00635-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History / © 2008 A&E Television Networks, All Rights Reserved`
-* **Production Company:** Actuality Productions, Inc., A&E Television Networks
-* **Narrator:** Max Raphael
+* **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
+* **Narrator:** MAX RAPHAEL
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animated Stills** | Adam Goodwin |
-| **Animation** | Glenn Takakjian |
-| **Assistant Editor** | Alexander Rubinow |
-| **Associate Producer** | Mary Courtney |
-| **Asst Post Coordinator** | Gaylen Kobayashi |
-| **Camera** | Dave Berliner, Roddy Blelloch, David Cosby, Mike Kelly, Lon Magdich, Duane Oldham, Sam Prigg, Michael Shamus, Diana Wilmar |
-| **Clearance Coordinator** | Aaron Zober |
-| **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
-| **Editor** | Lou LaProcido |
-| **Executive Producer** | Don Cambou |
-| **Field Audio** | Ryan Agostino, Dave Cannon, Dan Cook, Rusty Duggan, Jeff Hoien, Bryan Kweskin, Thomas Moore, Jo Richardson, Charles Rohr, Ian Vacek |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Adam Rosante |
-| **Music** | Alan Ett Music Group |
-| **Narrator** | Max Raphael |
-| **Online Editor** | John Price |
-| **Post Assist** | Cory Parker |
-| **Post Producer** | Tim Knauff |
-| **Produced by** | Actuality Productions, Inc. |
-| **Producer** | Bruce Nash |
-| **Production Accountant** | Sheridan Liu |
-| **Production Controller** | Dani Eslin |
-| **Production Executive** | Paul Dzilvelis |
-| **Production Manager** | Shelia Collins |
-| **Researcher** | Sapna Chhabra |
-| **Sound Mixer** | Mark Jensen |
-| **Supervising Producer** | Ron Nelson |
-| **Technical Consultants** | Jackie Clark, Ray Phillips |
-| **Written and Produced by** | Richard Jones |
+| **Animated Stills** | ADAM GOODWIN |
+| **Animation** | GLENN TAKAKJIAN |
+| **Assistant Editor** | ALEXANDER RUBINOW |
+| **Associate Producer** | MARY COURTNEY |
+| **Asst Post Coordinator** | GAYLEN KOBAYASHI |
+| **Camera** | DAVE BERLINER, RODDY BLELLOCH, DAVID COSBY, MIKE KELLY, LON MAGDICH, DUANE OLDHAM, SAM PRIGG, MICHAEL SHAMUS, DIANA WILMAR |
+| **Clearance Coordinator** | AARON ZOBER |
+| **Coordinator** | MAYA SYKES |
+| **Created by** | BRUCE NASH |
+| **Director of Clearance** | JERIANNE KEANEY |
+| **Director of Research** | TERRENCE HARTWELL |
+| **Editor** | LOU LaPROCIDO |
+| **Executive Producer** | DON CAMBOU |
+| **Field Audio** | RYAN AGOSTINO, DAVE CANNON, DAN COOK, RUSTY DUGGAN, JEFF HOIEN, BRYAN KWESKIN, THOMAS MOORE, JO RICHARDSON, CHARLES ROHR, IAN VACEK |
+| **Music** | ALAN ETT MUSIC GROUP |
+| **Narrator** | MAX RAPHAEL |
+| **Online Editor** | JOHN PRICE |
+| **Post Assist** | CORY PARKER |
+| **Post Producer** | TIM KNAUFF |
+| **Producer** | BRUCE NASH |
+| **Production Accountant** | SHERIDAN LIU |
+| **Production Controller** | DANI ESLIN |
+| **Production Executive** | PAUL DZILVELIS |
+| **Production Manager** | SHELIA COLLINS |
+| **Researcher** | SAPNA CHHABRA |
+| **Sound Mixer** | MARK JENSEN |
+| **Supervising Producer** | RON NELSON |
+| **Technical Consultants** | JACKIE CLARK, RAY PHILLIPS |
+| **Written and Produced by** | RICHARD JONES |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00635.md)

@@ -1,10 +1,12 @@
 # Credit Roll: Great Towers in the Sky (1997)
 **Canonical Episode:** [`MME00048: Great Towers in the Sky`](../episodes/MME00048.md)
 
+**Downloads:** [Credits JSON](json/MME00048-credits.json) • [Credits Plain Text](txt/MME00048-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** JAFFE PRODUCTIONS, Hearst Entertainment, ACTUALITY Productions, Inc., ALAN ETT MUSIC GROUP, INC., ART F/X
 * **Narrator:** —
 

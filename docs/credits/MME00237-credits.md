@@ -1,10 +1,12 @@
 # Credit Roll: Beach Technology (2002)
 **Canonical Episode:** [`MME00237: Beach Technology`](../episodes/MME00237.md)
 
+**Downloads:** [Credits JSON](json/MME00237-credits.json) • [Credits Plain Text](txt/MME00237-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2002 A&E Television Networks`
+* **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** GLOBAL BEAT MUSIC (inside the 'Music Provided by' credit), WELLER/GROSSMAN PRODUCTIONS, INC., THE HISTORY CHANNEL, A&E TELEVISION NETWORKS, Weller Grossman productions
 * **Narrator:** —
 

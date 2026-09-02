@@ -1,10 +1,12 @@
 # Credit Roll: Sub Disasters (2004)
 **Canonical Episode:** [`MME00419: Sub Disasters`](../episodes/MME00419.md)
 
+**Downloads:** [Credits JSON](json/MME00419-credits.json) • [Credits Plain Text](txt/MME00419-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by ACTUALITY PRODUCTIONS, INC. / History Television Network Productions / © 2004 A&E Television Network All Rights Reserved`
+* **Copyright Notice:** `Produced by ACTUALITY PRODUCTIONS, INC.. History Television Network Productions. © 2004 A&E Television Network All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, A&E Television Network
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

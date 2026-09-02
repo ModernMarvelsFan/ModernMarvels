@@ -1,10 +1,12 @@
 # Credit Roll: Commercial Fishing (2004)
 **Canonical Episode:** [`MME00428: Commercial Fishing`](../episodes/MME00428.md)
 
+**Downloads:** [Credits JSON](json/MME00428-credits.json) • [Credits Plain Text](txt/MME00428-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

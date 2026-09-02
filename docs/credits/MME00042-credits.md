@@ -1,10 +1,12 @@
 # Credit Roll: Observatories: Stonehenge to Space Telescopes (1997)
 **Canonical Episode:** [`MME00042: Observatories: Stonehenge to Space Telescopes`](../episodes/MME00042.md)
 
+**Downloads:** [Credits JSON](json/MME00042-credits.json) • [Credits Plain Text](txt/MME00042-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 1997 A&E Television Networks`
+* **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ALAN ETT MUSIC GROUP, INC., ART F/X
 * **Narrator:** HARLAN SAPERSTEIN
 

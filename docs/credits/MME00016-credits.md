@@ -1,6 +1,8 @@
 # Credit Roll: Space Shuttle (1995)
 **Canonical Episode:** [`MME00016: Space Shuttle`](../episodes/MME00016.md)
 
+**Downloads:** [Credits JSON](json/MME00016-credits.json) • [Credits Plain Text](txt/MME00016-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

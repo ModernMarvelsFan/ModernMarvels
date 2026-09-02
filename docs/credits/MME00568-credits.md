@@ -1,10 +1,12 @@
 # Credit Roll: Balls (2007)
 **Canonical Episode:** [`MME00568: Balls`](../episodes/MME00568.md)
 
+**Downloads:** [Credits JSON](json/MME00568-credits.json) • [Credits Plain Text](txt/MME00568-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2007 A&E Television Networks`
+* **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by Actuality Productions, Inc., For History Television Network Productions
 * **Narrator:** Max Raphael
 

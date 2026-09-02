@@ -1,10 +1,12 @@
 # Credit Roll: Food: Ice Cream (2021)
 **Canonical Episode:** [`MME00721: Food: Ice Cream`](../episodes/MME00721.md)
 
+**Downloads:** [Credits JSON](json/MME00721-credits.json) • [Credits Plain Text](txt/MME00721-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `PRODUCED BY THE SIX WEST MEDIA(TM) GROUP FOR HISTORY(R) / (c)2021 A&E Television Networks, LLC. / All Rights Reserved.`
+* **Copyright Notice:** `PRODUCED BY THE SIX WEST MEDIA(TM) GROUP FOR HISTORY(R). ©2021 A&E Television Networks, LLC.. All Rights Reserved.`
 * **Production Company:** THE SIX WEST MEDIA(TM) GROUP (producer), Motion Picture Enterprises, Inc. (post facility), Monkeyhead / Trick & Mortar (graphics), Coastella Sound (VO record), A&E Television Networks, LLC (rights holder)
 * **Narrator:** —
 

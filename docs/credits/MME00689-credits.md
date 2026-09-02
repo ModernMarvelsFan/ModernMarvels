@@ -1,10 +1,12 @@
 # Credit Roll: Ropes & Chains (2011)
 **Canonical Episode:** [`MME00689: Ropes & Chains`](../episodes/MME00689.md)
 
+**Downloads:** [Credits JSON](json/MME00689-credits.json) • [Credits Plain Text](txt/MME00689-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2011 A&E TELEVISION NETWORKS / ALL RIGHTS RESERVED`
+* **Copyright Notice:** `© 2011 A&E TELEVISION NETWORKS. ALL RIGHTS RESERVED`
 * **Production Company:** —
 * **Narrator:** MAX RAPHAEL
 

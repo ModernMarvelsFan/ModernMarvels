@@ -1,6 +1,8 @@
 # Credit Roll: Harley-Davidson (2003)
 **Canonical Episode:** [`MME00293: Harley-Davidson`](../episodes/MME00293.md)
 
+**Downloads:** [Credits JSON](json/MME00293-credits.json) • [Credits Plain Text](txt/MME00293-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

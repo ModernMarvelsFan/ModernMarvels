@@ -1,31 +1,23 @@
 # Credit Roll: Strategic Air Command. (2002)
 **Canonical Episode:** [`MME00240: Strategic Air Command.`](../episodes/MME00240.md)
 
+**Downloads:** [Credits JSON](json/MME00240-credits.json) • [Credits Plain Text](txt/MME00240-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
-* **Production Company:** ACTUALITY PRODUCTIONS, Hearst Entertainment
-* **Narrator:** —
+* **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
+* **Production Company:** —
+* **Narrator:** MAX RAPHAEL
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | GLENN TAKAKJIAN |
-| **Archivist** | NILDA PERGOLA-JENSEN |
-| **Assistant Editors** | JESSE KINGSLEY, SCOTT R. MARTIN |
-| **Assistant Production Accountants** | LINDA SCRIBNER, DENNIS LUCIANI |
-| **Camera** | BARRY ENGLE, DAVE MARLIN, MICHAEL MARTON, MELE MASON |
-| **Clearance Assistant** | GABE MARTINEZ |
-| **Field Audio** | NICK KOLIAS, TERRY MARTON, MARK T. MASON |
-| **Footage Consultant** | TED TROLL |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Graphic Artist** | BARRY HILL |
-| **Historical Consultants** | ASSOCIATION OF AIR FORCE MISSILEERS, ALWYN T. LLOYD |
-| **Online Editor** | DAVID REX |
-| **Production Assistants** | SHANA HILTON, MIKE TAYLOR |
-| **Sound Mixer** | PAUL RAY |
+| **Executive Producer** | DON CAMBOU |
+| **Line Producer** | PAUL DZILVELIS |
+| **Narrated by** | MAX RAPHAEL |
+| **Written and Produced by** | ROBERT E. ZIEL |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00240.md)

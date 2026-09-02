@@ -1,6 +1,8 @@
 # Credit Roll: Environmental Tech II (2007)
 **Canonical Episode:** [`MME00605: Environmental Tech II`](../episodes/MME00605.md)
 
+**Downloads:** [Credits JSON](json/MME00605-credits.json) • [Credits Plain Text](txt/MME00605-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

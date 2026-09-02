@@ -1,10 +1,12 @@
 # Credit Roll: Grand Coulee Dam (1993)
 **Canonical Episode:** [`MME00001: Grand Coulee Dam`](../episodes/MME00001.md)
 
+**Downloads:** [Credits JSON](json/MME00001-credits.json) • [Credits Plain Text](txt/MME00001-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c)19?? A&E TELEVISION NETWORKS / ALL RIGHTS RESERVED`
+* **Copyright Notice:** `© 1993 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Premore, Inc., Midtown Post, Art F/X
 * **Narrator:** Harlan Saperstein
 

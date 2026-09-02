@@ -1,10 +1,12 @@
 # Credit Roll: World's Biggest Machines 3 (2005)
 **Canonical Episode:** [`MME00439: World's Biggest Machines 3`](../episodes/MME00439.md)
 
+**Downloads:** [Credits JSON](json/MME00439-credits.json) • [Credits Plain Text](txt/MME00439-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by ACTUALITY PRODUCTIONS, INC. / History Television Network Productions / © 2005 A&E Television Network All Rights Reserved`
+* **Copyright Notice:** `Produced by ACTUALITY PRODUCTIONS, INC.. History Television Network Productions. © 2005 A&E Television Network All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, A&E Television Network
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

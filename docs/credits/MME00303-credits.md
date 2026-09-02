@@ -1,6 +1,8 @@
 # Credit Roll: Engineering Disasters 4 (2003)
 **Canonical Episode:** [`MME00303: Engineering Disasters 4`](../episodes/MME00303.md)
 
+**Downloads:** [Credits JSON](json/MME00303-credits.json) • [Credits Plain Text](txt/MME00303-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

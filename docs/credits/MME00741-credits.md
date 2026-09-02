@@ -1,10 +1,12 @@
 # Credit Roll: Freight Trains Plus (2022)
 **Canonical Episode:** [`MME00741: Freight Trains Plus`](../episodes/MME00741.md)
 
+**Downloads:** [Credits JSON](json/MME00741-credits.json) • [Credits Plain Text](txt/MME00741-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2006 A&E Television Networks`
+* **Copyright Notice:** `© 2022 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by Actuality Productions, Inc. and the Six West Media™ group for HISTORY®
 * **Narrator:** —
 

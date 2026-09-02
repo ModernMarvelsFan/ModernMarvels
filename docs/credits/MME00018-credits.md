@@ -1,10 +1,12 @@
 # Credit Roll: Ocean Liners (1995)
 **Canonical Episode:** [`MME00018: Ocean Liners`](../episodes/MME00018.md)
 
+**Downloads:** [Credits JSON](json/MME00018-credits.json) • [Credits Plain Text](txt/MME00018-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 1995 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Hearst Entertainment, Actuality Productions, Inc., unidentified production ident (see flags)
 * **Narrator:** —
 

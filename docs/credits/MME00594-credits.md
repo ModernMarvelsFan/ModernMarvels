@@ -1,10 +1,12 @@
 # Credit Roll: Chocolate (2007)
 **Canonical Episode:** [`MME00594: Chocolate`](../episodes/MME00594.md)
 
+**Downloads:** [Credits JSON](json/MME00594-credits.json) • [Credits Plain Text](txt/MME00594-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2007 A&E Television Networks`
+* **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by Actuality Productions, Inc.
 * **Narrator:** Max Raphael
 

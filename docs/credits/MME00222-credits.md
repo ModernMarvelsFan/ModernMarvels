@@ -1,10 +1,12 @@
 # Credit Roll: The Wheel (2002)
 **Canonical Episode:** [`MME00222: The Wheel`](../episodes/MME00222.md)
 
+**Downloads:** [Credits JSON](json/MME00222-credits.json) • [Credits Plain Text](txt/MME00222-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Hearst Entertainment
 * **Narrator:** Dawn Irwin
 

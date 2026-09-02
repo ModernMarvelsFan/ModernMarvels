@@ -1,10 +1,12 @@
 # Credit Roll: Car Crashes (2003)
 **Canonical Episode:** [`MME00307: Car Crashes`](../episodes/MME00307.md)
 
+**Downloads:** [Credits JSON](json/MME00307-credits.json) • [Credits Plain Text](txt/MME00307-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2003 A&E Television Networks`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC.
 * **Narrator:** MAX RAPHAEL, MELANIE PIPES
 

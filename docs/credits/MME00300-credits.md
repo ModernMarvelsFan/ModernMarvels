@@ -1,10 +1,12 @@
 # Credit Roll: Dangerous Cargo (2003)
 **Canonical Episode:** [`MME00300: Dangerous Cargo`](../episodes/MME00300.md)
 
+**Downloads:** [Credits JSON](json/MME00300-credits.json) • [Credits Plain Text](txt/MME00300-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2003 A&E TELEVISION NETWORKS ALL RIGHTS RESERVED / HISTORYCHANNEL.COM (beneath THE HISTORY CHANNEL end card)`
+* **Copyright Notice:** `© 2003 A&E TELEVISION NETWORKS ALL RIGHTS RESERVED. HISTORYCHANNEL.COM (beneath THE HISTORY CHANNEL end card)`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC. (producer), THE HISTORY CHANNEL (presenter; gold H-box end card, preceded by an 'A Presentation of' card), A&E TELEVISION NETWORKS (rights holder)
 * **Narrator:** BEATA GENIN
 

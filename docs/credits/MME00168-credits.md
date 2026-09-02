@@ -1,10 +1,12 @@
 # Credit Roll: Monster Trucks. (2001)
 **Canonical Episode:** [`MME00168: Monster Trucks.`](../episodes/MME00168.md)
 
+**Downloads:** [Credits JSON](json/MME00168-credits.json) • [Credits Plain Text](txt/MME00168-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2000 A&E Television Networks`
+* **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, The History Channel
 * **Narrator:** —
 

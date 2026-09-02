@@ -1,10 +1,12 @@
 # Credit Roll: Sugar (2005)
 **Canonical Episode:** [`MME00487: Sugar`](../episodes/MME00487.md)
 
+**Downloads:** [Credits JSON](json/MME00487-credits.json) • [Credits Plain Text](txt/MME00487-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `(c) 2005 A&E Television Network All Rights Reserved`
+* **Copyright Notice:** `© 2005 A&E Television Network All Rights Reserved`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, RED GYPSY ANIMATION, ALAN ETT MUSIC GROUP
 * **Narrator:** MAX RAPHAEL, JOHN KNAPP
 

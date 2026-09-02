@@ -1,10 +1,12 @@
 # Credit Roll: Truck Stops (2007)
 **Canonical Episode:** [`MME00588: Truck Stops`](../episodes/MME00588.md)
 
+**Downloads:** [Credits JSON](json/MME00588-credits.json) • [Credits Plain Text](txt/MME00588-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. / For History Television Networks Productions / © 2007 A&E Television Networks, All Rights Reserved`
+* **Copyright Notice:** `Produced by Actuality Productions, Inc.. For History Television Networks Productions. © 2007 A&E Television Networks, All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., History Television Networks Productions, A&E Television Networks
 * **Narrator:** Max Raphael
 

@@ -1,6 +1,8 @@
 # Credit Roll: Containers (2006)
 **Canonical Episode:** [`MME00505: Containers`](../episodes/MME00505.md)
 
+**Downloads:** [Credits JSON](json/MME00505-credits.json) • [Credits Plain Text](txt/MME00505-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

@@ -1,10 +1,12 @@
 # Credit Roll: Dredging (2005)
 **Canonical Episode:** [`MME00476: Dredging`](../episodes/MME00476.md)
 
+**Downloads:** [Credits JSON](json/MME00476-credits.json) • [Credits Plain Text](txt/MME00476-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2005 A&E Television Networks`
+* **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions
 * **Narrator:** MAX RAPHAEL, JOHN KNAPP
 

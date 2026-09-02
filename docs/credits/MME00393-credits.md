@@ -1,10 +1,12 @@
 # Credit Roll: Building a Skyscraper: The Human Environment (2004)
 **Canonical Episode:** [`MME00393: Building a Skyscraper: The Human Environment`](../episodes/MME00393.md)
 
+**Downloads:** [Credits JSON](json/MME00393-credits.json) • [Credits Plain Text](txt/MME00393-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2004 A&E Television Networks`
+* **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Network
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

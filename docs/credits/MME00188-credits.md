@@ -1,6 +1,8 @@
 # Credit Roll: West Point (2001)
 **Canonical Episode:** [`MME00188: West Point`](../episodes/MME00188.md)
 
+**Downloads:** [Credits JSON](json/MME00188-credits.json) • [Credits Plain Text](txt/MME00188-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

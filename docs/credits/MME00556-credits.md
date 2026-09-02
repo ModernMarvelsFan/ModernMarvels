@@ -1,10 +1,12 @@
 # Credit Roll: World's Strongest (2006)
 **Canonical Episode:** [`MME00556: World's Strongest`](../episodes/MME00556.md)
 
+**Downloads:** [Credits JSON](json/MME00556-credits.json) • [Credits Plain Text](txt/MME00556-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2006 A&E Television Networks`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Networks
 * **Narrator:** MAX RAPHAEL
 

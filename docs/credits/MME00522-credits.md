@@ -1,10 +1,12 @@
 # Credit Roll: Ben Franklin Tech (2006)
 **Canonical Episode:** [`MME00522: Ben Franklin Tech`](../episodes/MME00522.md)
 
+**Downloads:** [Credits JSON](json/MME00522-credits.json) • [Credits Plain Text](txt/MME00522-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2006 A&E Television Networks`
+* **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by / Actuality Productions, Inc. / For History
 * **Narrator:** John Knapp
 

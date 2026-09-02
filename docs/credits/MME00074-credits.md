@@ -1,10 +1,12 @@
 # Credit Roll: Firefighting! Containing the Demon (1998)
 **Canonical Episode:** [`MME00074: Firefighting! Containing the Demon`](../episodes/MME00074.md)
 
+**Downloads:** [Credits JSON](json/MME00074-credits.json) • [Credits Plain Text](txt/MME00074-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `Produced by Actuality Productions, Inc. and Hearst Entertainment for The History Channel / © 1998 A&E Television Networks All Rights Reserved`
+* **Copyright Notice:** `Produced by Actuality Productions, Inc. and Hearst Entertainment for The History Channel. © 1998 A&E Television Networks All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., Hearst Entertainment, The History Channel, A&E Television Networks
 * **Narrator:** HARLAN SAPERSTEIN
 

@@ -1,10 +1,12 @@
 # Credit Roll: The Arch (2005)
 **Canonical Episode:** [`MME00436: The Arch`](../episodes/MME00436.md)
 
+**Downloads:** [Credits JSON](json/MME00436-credits.json) • [Credits Plain Text](txt/MME00436-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2005 A&E Television Networks`
+* **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, The History Channel
 * **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
 

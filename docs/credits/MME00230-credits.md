@@ -1,10 +1,12 @@
 # Credit Roll: Drag Racing (2002)
 **Canonical Episode:** [`MME00230: Drag Racing`](../episodes/MME00230.md)
 
+**Downloads:** [Credits JSON](json/MME00230-credits.json) • [Credits Plain Text](txt/MME00230-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2002 A&E Television Networks`
+* **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Greystone Communications, Inc., The History Channel
 * **Narrator:** —
 

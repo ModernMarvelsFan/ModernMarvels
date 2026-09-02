@@ -1,6 +1,8 @@
 # Credit Roll: Gothic Cathedrals (1995)
 **Canonical Episode:** [`MME00014: Gothic Cathedrals`](../episodes/MME00014.md)
 
+**Downloads:** [Credits JSON](json/MME00014-credits.json) • [Credits Plain Text](txt/MME00014-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification

@@ -1,10 +1,12 @@
 # Credit Roll: Strangest Countdown (2013)
 **Canonical Episode:** [`MME00715: Strangest Countdown`](../episodes/MME00715.md)
 
+**Downloads:** [Credits JSON](json/MME00715-credits.json) • [Credits Plain Text](txt/MME00715-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2013 A&E Television Networks`
+* **Copyright Notice:** `© 2013 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by A+E Networks ®
 * **Narrator:** —
 

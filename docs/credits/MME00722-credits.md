@@ -1,10 +1,12 @@
 # Credit Roll: Food: Chocolate (2021)
 **Canonical Episode:** [`MME00722: Food: Chocolate`](../episodes/MME00722.md)
 
+**Downloads:** [Credits JSON](json/MME00722-credits.json) • [Credits Plain Text](txt/MME00722-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2021 A&E Television Networks`
+* **Copyright Notice:** `© 2021 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** The Six West Media Group, HISTORY, A&E Television Networks, LLC., Motion Picture Enterprises, Inc., Monkeyhead, Trick & Mortar, DV Depot, Guastella Sound
 * **Narrator:** —
 

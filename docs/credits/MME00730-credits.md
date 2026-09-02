@@ -1,10 +1,12 @@
 # Credit Roll: Power Tools (2021)
 **Canonical Episode:** [`MME00730: Power Tools`](../episodes/MME00730.md)
 
+**Downloads:** [Credits JSON](json/MME00730-credits.json) • [Credits Plain Text](txt/MME00730-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2021 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment
 * **Narrator:** —
 

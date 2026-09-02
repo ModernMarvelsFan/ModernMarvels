@@ -1,10 +1,12 @@
 # Credit Roll: Inviting Disaster 3: Challenger and Columbia (2003)
 **Canonical Episode:** [`MME00336: Inviting Disaster 3: Challenger and Columbia`](../episodes/MME00336.md)
 
+**Downloads:** [Credits JSON](json/MME00336-credits.json) • [Credits Plain Text](txt/MME00336-credits.txt)
+
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `—`
+* **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Greystone Communications, Inc., The History Channel
 * **Narrator:** WILL LYMAN
 
