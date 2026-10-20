@@ -11,7 +11,7 @@ Assistant To Don Cambou: Tim Shell
 Audio Coordinator: Derrick McDaniel
 Executive Producer: Charlie Maday
 Footage Consultant: Ted Troll
-Graphics & Animation: Doug Whitney
+Graphics &amp; Animation: Doug Whitney
 Online Editor: David Rex
 Production Assistant: Eric Schaefer
 Production Auditor: Dani Eslin

@@ -10,13 +10,19 @@
     "John Knapp"
   ],
   "crew": {
-    "Voice Over Coordinator": [
-      "John Knapp"
+    "Animated Photos By": [
+      "Adam Goodwin"
+    ],
+    "Animation By": [
+      "Flyingblue Studio"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
       "Alexander Rubinow"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
     ],
     "Field Audio": [
       "Mike Johnson",
@@ -24,26 +30,20 @@
       "Thom Slaton",
       "Paul J. Wostrack"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Erik Valenzuela"
-    ],
-    "Animation by": [
-      "Flyingblue Studio"
-    ],
-    "Animated Photos by": [
-      "Adam Goodwin"
-    ],
     "Historical Consultant": [
       "E. Philip Krider, PhD"
+    ],
+    "Online Editor": [
+      "John Price"
     ],
     "Programming Coordinator": [
       "Michele Wilcox"
     ],
-    "Executive Producer": [
-      "Beth Dietrich-Segarra"
+    "Sound Mixer": [
+      "Erik Valenzuela"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
     ]
   }
 }

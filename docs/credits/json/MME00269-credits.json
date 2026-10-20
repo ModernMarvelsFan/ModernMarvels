@@ -13,71 +13,71 @@
     "Mike McNally"
   ],
   "crew": {
-    "MUSIC": [
-      "Soren Sorenson",
-      "Kinilau Akaka"
+    "Assistant Editor": [
+      "Katherine Booth"
     ],
-    "ON-LINE EDITORS": [
-      "Michael Cardeiro",
-      "Ralph D. Fasano"
+    "Associate Producer": [
+      "Avital Levy"
     ],
-    "COORDINATING PRODUCER": [
-      "Viktorya Kuperman"
-    ],
-    "PRODUCTION ASSISTANT": [
-      "Kelly K.L. Kan"
-    ],
-    "MAKE-UP": [
-      "Karen Hyde"
-    ],
-    "VIDEOGRAPHERS SIBERIA": [
-      "Andrei Ustinov",
-      "Tom Yaroschuk"
-    ],
-    "VIDEOGRAPHERS U.S.": [
-      "Aaron Sasson",
-      "Skip Clark"
-    ],
-    "AUDIO": [
+    "Audio": [
       "David O'Brien",
       "Sid Williams"
     ],
-    "GRAPHIC ARTIST": [
+    "Coordinating Producer": [
+      "Viktorya Kuperman"
+    ],
+    "Editor": [
+      "Michael Cardeiro"
+    ],
+    "Executive Producer And Writer": [
+      "Tom Yaroschuk"
+    ],
+    "Executive In Charge Of Production": [
+      "Charlie Maday"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich"
+    ],
+    "Graphic Artist": [
       "Ezra Chasin"
     ],
-    "SOUND DESIGN": [
+    "Make-Up": [
+      "Karen Hyde"
+    ],
+    "Music": [
+      "Soren Sorenson",
+      "Kinilau Akaka"
+    ],
+    "Narrator": [
+      "Mike McNally"
+    ],
+    "On-Line Editors": [
+      "Michael Cardeiro",
+      "Ralph D. Fasano"
+    ],
+    "Produced By": [
+      "Tera Media for The History Channel"
+    ],
+    "Production Accountant": [
+      "Tom Lepley"
+    ],
+    "Production Assistant": [
+      "Kelly K.L. Kan"
+    ],
+    "Production Services In Russia Provided By": [
+      "Yaroslav Studios"
+    ],
+    "Sound Design": [
       "Brian DePaul Carey",
       "Dexter Media"
     ],
-    "PRODUCTION ACCOUNTANT": [
-      "Tom Lepley"
-    ],
-    "PRODUCTION SERVICES IN RUSSIA PROVIDED BY": [
-      "Yaroslav Studios"
-    ],
-    "PRODUCED BY": [
-      "Tera Media for The History Channel"
-    ],
-    "FOR THE HISTORY CHANNEL / EXECUTIVE PRODUCER": [
-      "Beth Dietrich"
-    ],
-    "FOR THE HISTORY CHANNEL / EXECUTIVE IN CHARGE OF PRODUCTION": [
-      "Charlie Maday"
-    ],
-    "EXECUTIVE PRODUCER AND WRITER": [
+    "Videographers Siberia": [
+      "Andrei Ustinov",
       "Tom Yaroschuk"
     ],
-    "EDITOR": [
-      "Michael Cardeiro"
-    ],
-    "ASSISTANT EDITOR": [
-      "Katherine Booth"
-    ],
-    "ASSOCIATE PRODUCER": [
-      "Avital Levy"
-    ],
-    "NARRATOR": [
-      "Mike McNally"
+    "Videographers U.S.": [
+      "Aaron Sasson",
+      "Skip Clark"
     ]
   }
 }

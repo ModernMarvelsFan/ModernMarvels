@@ -14,19 +14,19 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | STUART BRODLIEB, HARRIS COHEN |
-| **Assistant Production Accountants** | LINDA SCRIBNER, JUDI MINITELLO |
-| **Field Audio** | PAUL CIRIGLIANO, JUSTIN M. HEID, CHUCK LASZYCA, RON MEILICKE, ALISON NICHOLS |
-| **Footage Consultant** | TED TROLL |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Supervising Producer** | BETH DIETRICH |
-| **Online Editor** | DAVID REX |
-| **Post Production Assistant** | GARY REID |
-| **Post Production Coordinator** | JASON STEINBERG |
-| **Production Assistants** | MARYALICE R. ARAGON, GWENDOLYN MURPHY, BRIAN VOLK |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Sound Mixer** | SAM KAUFMANN |
+| **Assistant Editors** | Stuart Brodlieb, Harris Cohen |
+| **Assistant Production Accountants** | Linda Scribner, Judi Minitello |
+| **Executive Producer** | Charlie Maday |
+| **Field Audio** | Paul Cirigliano, Justin M. Heid, Chuck Laszyca, Ron Meilicke, Alison Nichols |
+| **Footage Consultant** | Ted Troll |
+| **Online Editor** | David Rex |
+| **Post Production Assistant** | Gary Reid |
+| **Post Production Coordinator** | Jason Steinberg |
+| **Production Assistants** | Maryalice R. Aragon, Gwendolyn Murphy, Brian Volk |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Sound Mixer** | Sam Kaufmann |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00100.md)

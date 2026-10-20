@@ -20,21 +20,21 @@
 | **Asst. Accountants** | Sheridan Liu, Dennis Luciani |
 | **Camera** | Danny S. Chen, Gary Corrigan, Desmond Horsfield, Julio Luzquinos |
 | **Clearance Supervisor** | Katie Del Core |
-| **Director of Research** | Anthony Lacques |
-| **Edited by** | Lou Laprocido |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Lou Laprocido |
 | **Executive Producer** | Don Cambou |
 | **Line Producer** | Paul Dzilvelis |
-| **Narrated by** | Max Raphael |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | Chuck Crews |
 | **Post Assistant** | Alexander Rubinow |
 | **Post Coordinator** | Laura Steinhoff |
 | **Post Producer** | Lauren Levine |
-| **Produced by** | Actuality Productions, Inc. for History Television Network Productions |
+| **Produced By** | Actuality Productions, Inc. for History Television Network Productions |
 | **Production Assistant** | Jeffery Perkins |
 | **Production Auditor** | Dani Eslin |
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Paul Ray |
-| **Written &amp; Produced by** | Paul Amirault |
+| **Written &amp; Produced By** | Paul Amirault |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00369.md)

@@ -7,41 +7,41 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
-* **Narrator:** MIKKI DEL MONICO, MAX RAPHAEL
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions
+* **Narrator:** Mikki Del Monico, Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | JUDY GORDON, SHERIDAN LIU |
-| **Animation by** | TAK PRODUCTIONS, INC. |
-| **Assistant Editor** | LAURA STEINHOFF |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Associate Producer** | DIANE WAI |
-| **Camera** | CHAS ISENHART, PETER KRAJEWSKI, LON MAGDICH, LEE NASSAU, JULYE NEWLIN, TIM PHILLIPS, B.J. SCAHILL, MARTY ZIMMERMAN |
-| **Clearance Coordinator** | D.W. BLAKESLEE |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Coordinators** | ROSALYN McVAY, MELINDA ESQUIBEL |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACQUES |
-| **Edited by** | MOTOSHI WAKABAYASHI |
-| **Executive Producer** | BETH DIETRICH-SEGARRA, DON CAMBOU |
-| **Field Audio** | ARON BROWN, JOSEPH HANCOCK, JOHN McDERMOTT, JEREMY SETTLES, TIM SHEETZ |
-| **Historical Consultants** | BILL BOLGER, GUY CANTWELL, LT. CDR. ROSS DAVIS, USN (RET.), ROBB ERICKSON, PAUL FURLONGER, PAUL GUERCIO, MIKE IDEN, ERIC ORLEMANN, FRANCIS PAPP, LISA ROBINSON, JIM STUMP |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistants** | GAYLEN KOBAYASHI, PATRICK BE |
-| **Post Producer** | TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | JEFFERY PERKINS |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researcher** | MIKKI DEL MONICO |
-| **Sound Mixer** | PAUL RAY |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
+| **Accountants** | Judy Gordon, Sheridan Liu |
+| **Animation By** | Tak Productions, Inc. |
+| **Assistant Editor** | Laura Steinhoff |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Associate Producer** | Diane Wai |
+| **Camera** | Chas Isenhart, Peter Krajewski, Lon Magdich, Lee Nassau, Julye Newlin, Tim Phillips, B.J. Scahill, Marty Zimmerman |
+| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Supervisor** | Katie Del Core |
+| **Coordinators** | ROSALYN McVAY, Melinda Esquibel |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Motoshi Wakabayashi |
+| **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
+| **Field Audio** | Aron Brown, Joseph Hancock, JOHN McDERMOTT, Jeremy Settles, Tim Sheetz |
+| **Historical Consultants** | Bill Bolger, Guy Cantwell, Lt. Cdr. Ross Davis, Usn (ret.), Robb Erickson, Paul Furlonger, Paul Guercio, Mike Iden, Eric Orlemann, Francis Papp, Lisa Robinson, Jim Stump |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistants** | Gaylen Kobayashi, Patrick Be |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Jeffery Perkins |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researcher** | Mikki Del Monico |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Mikki Del Monico |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00401.md)

@@ -12,68 +12,11 @@
     "Mikki Del Monico"
   ],
   "crew": {
-    "For The History Channel / Executive Producer": [
-      "Beth Dietrich-Segarra"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Jim Hense"
-    ],
-    "Line Producer": [
-      "Paul Dzilvelis"
-    ],
-    "Associate Producer": [
-      "Beata Genin"
-    ],
-    "Edited by": [
-      "Andrew Corwin"
-    ],
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Music by": [
-      "Alan Ett Music Group"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Clearance Supervisor": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Anthony Lacques"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Researchers": [
-      "Mikki Del Monico",
-      "Sean Heckman",
-      "Tom Barclay"
-    ],
-    "Coordinators": [
-      "Melinda Esquibel",
-      "Brad Skiles"
-    ],
-    "Clearance Coordinator": [
-      "D.W. Blakeslee"
-    ],
-    "Voice Over Coordinator": [
-      "Mikki Del Monico"
+    "Animation By": [
+      "Red Gypsy Animation"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -82,8 +25,8 @@
     "Assistant Post Coordinator": [
       "Alexander Rubinow"
     ],
-    "Post Assistant": [
-      "Gaylen Kobayashi"
+    "Associate Producer": [
+      "Beata Genin"
     ],
     "Camera": [
       "Craig Campbell",
@@ -92,26 +35,80 @@
       "Peter Norton",
       "Mark Weiler"
     ],
+    "Clearance Coordinator": [
+      "D.W. Blakeslee"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Coordinators": [
+      "Melinda Esquibel",
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Anthony Lacques"
+    ],
+    "Edited By": [
+      "Andrew Corwin"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
     "Field Audio": [
       "Jeff Asell",
       "Chris Barbieri",
       "Joe Biesterfeld",
       "Art Jaso"
     ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
+    "Post Assistant": [
+      "Gaylen Kobayashi"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Mikki Del Monico",
+      "Sean Heckman",
+      "Tom Barclay"
+    ],
     "Sound Mixer": [
       "Ed Thacker"
-    ],
-    "Animation by": [
-      "Red Gypsy Animation"
     ],
     "Technical Consultants": [
       "Kim Baker",
       "James R. Baty II",
       "Jack & Linda Greene",
       "Clifford E. Oliver"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
+    ],
+    "Written And Produced By": [
+      "Jim Hense"
     ]
   }
 }

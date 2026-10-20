@@ -14,9 +14,9 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Edited by** | CRAIG SERLING |
-| **Executive Producer** | DON CAMBOU |
-| **Written and Produced by** | LA MONTE WESTMORELAND |
+| **Edited By** | Craig Serling |
+| **Executive Producer** | Don Cambou |
+| **Written And Produced By** | La Monte Westmoreland |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00113.md)

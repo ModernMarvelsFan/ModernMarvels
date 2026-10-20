@@ -8,43 +8,43 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | DOUG WHITNEY |
-| **Archivist** | NILDA JENSEN |
-| **Assistant Editor** | MICHAEL LIM |
-| **Assistant Production Accountants** | DETRICIA MEZA, LINDA SCRIBNER |
-| **Camera** | ANDREW JANSEN, Z VIDUSIN |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Consulting Producer** | HENRY SCHIPPER |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | HILDIE KATIBAH |
-| **Edited by** | ROBBIE PARAMOR |
-| **Field Audio** | SAM SALNERNO |
-| **Footage Consultant** | TED TROLL |
-| **For The History Channel** | CHARLIE MADAY |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Graphics/Additional Animation** | BARRY HILL |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | DAVID REX |
-| **Post Producer** | SCOTT BERKSON |
-| **Post Production Assistant** | STEPHEN FRANKLIN |
-| **Post Production Coordinator** | GARY REID |
-| **Post Production Supervisor** | JASON STEINBERG |
-| **Producer** | BRUCE NASH |
-| **Production Assistants** | MARYALICE R. ARAGON, RASI DELGADO, SUNI NIVENS |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHLENE EXNER |
-| **Production Manager** | LINDA K. CLARK |
-| **Researchers** | KRISTINA DJOKIC, MARK SAVAGE |
-| **Sound Mixer** | PAUL RAY |
-| **Written and Produced by** | NANCY OEY, BOB PETRELLA |
+| **Additional Animation** | Barry Hill |
+| **Animation** | Doug Whitney |
+| **Archivist** | Nilda Jensen |
+| **Assistant Editor** | Michael Lim |
+| **Assistant Production Accountants** | Detricia Meza, Linda Scribner |
+| **Camera** | Andrew Jansen, Z Vidusin |
+| **Clearance Supervisor** | Katie Del Core |
+| **Consulting Producer** | Henry Schipper |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Hildie Katibah |
+| **Edited By** | Robbie Paramor |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Sam Salnerno |
+| **Footage Consultant** | Ted Troll |
+| **For The History Channel** | Charlie Maday |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | David Rex |
+| **Post Producer** | Scott Berkson |
+| **Post Production Assistant** | Stephen Franklin |
+| **Post Production Coordinator** | Gary Reid |
+| **Post Production Supervisor** | Jason Steinberg |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Maryalice R. Aragon, Rasi Delgado, Suni Nivens |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathlene Exner |
+| **Production Manager** | Linda K. Clark |
+| **Researchers** | Kristina Djokic, Mark Savage |
+| **Sound Mixer** | Paul Ray |
+| **Written And Produced By** | Nancy Oey, Bob Petrella |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00180.md)

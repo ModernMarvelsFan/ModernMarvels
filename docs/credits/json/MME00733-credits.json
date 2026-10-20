@@ -11,106 +11,49 @@
   ],
   "narrators": [],
   "crew": {
-    "MUSIC COURTESY OF": [
-      "Strike Audio",
-      "Audio Network",
-      "Signature Tracks",
-      "Gramoscope",
-      "Extreme Music"
-    ],
-    "Original concept created by": [
-      "Bruce Nash"
-    ],
-    "FOR THE SIX WEST MEDIA(TM) GROUP / EXECUTIVE-IN-CHARGE OF PRODUCTION": [
-      "Patrice Andrews"
-    ],
-    "FOR THE SIX WEST MEDIA(TM) GROUP / SUPERVISING PRODUCER": [
-      "Allie Breslin"
-    ],
-    "FOR THE SIX WEST MEDIA(TM) GROUP / LINE PRODUCERS": [
-      "Melissa Ray",
-      "Lori Mason Frye"
-    ],
-    "FOR THE SIX WEST MEDIA(TM) GROUP / PRODUCTION AND DEVELOPMENT ASSISTANT": [
-      "Zoe Resnick"
-    ],
-    "FOR THE SIX WEST MEDIA(TM) GROUP / SENIOR MANAGER RIGHTS & CLEARANCES": [
-      "Elio Concepcion"
-    ],
-    "FOR THE SIX WEST MEDIA(TM) GROUP / JR. PRODUCTION COORDINATOR": [
-      "Sarah Mchugh"
-    ],
-    "FOR HISTORY(R) / EXECUTIVE PRODUCERS": [
-      "Jim Pasquarella",
-      "Mary Donahue"
-    ],
-    "FOR HISTORY(R) / PROGRAMMING COORDINATOR": [
-      "Celeste Amidon"
-    ],
-    "POST PRODUCER": [
-      "Chris Moore"
-    ],
-    "ARCHIVAL PRODUCER": [
+    "Archival Producer": [
       "Leslie Walsh"
     ],
-    "EDITORS": [
-      "Michael Baron",
-      "John Rasmussen",
-      "Jimmy Higgins",
-      "Jeff Peltier",
-      "Eran Hayden",
-      "Justin Ridge",
-      "Nate Novero",
-      "Michael Newton"
+    "Assistant Camera": [
+      "Curt Resser",
+      "Cody Williams",
+      "Rosaleah Gonzalez",
+      "Will Boone"
     ],
-    "ASSISTANT EDITORS": [
+    "Assistant Editors": [
       "Zac Ceccarelli",
       "Jonathan A. Schwartz",
       "Nicholas Sutera"
     ],
-    "POST-PRODUCTION SUPERVISORS": [
-      "Kevin T. Fogarty",
-      "Ruth Horn-Axelrod"
+    "Assistant Production Accountants": [
+      "Samara Choit",
+      "Hayden McComas"
     ],
-    "SVP, PRODUCTION OPERATIONS": [
-      "Ed Russo"
+    "Associate Producers": [
+      "Cosmo DeCaro",
+      "Cate Burzynski",
+      "Mary McGowan"
     ],
-    "VP, PRODUCTION MANAGEMENT": [
-      "Patricia Paredes Saez"
+    "Audio Mixer": [
+      "Andrew Kay"
     ],
-    "LINE PRODUCER": [
-      "Pamela Wagner"
+    "Audio Mixers": [
+      "Mike Haldin",
+      "Rob Zogby",
+      "Mark Goudly",
+      "Alan Chow",
+      "Edmund Kasubinski"
     ],
-    "PRODUCTION MANAGER": [
-      "Andrea Hildensperger"
-    ],
-    "PRODUCTION COORDINATORS": [
-      "Jasmine Jean",
-      "Nicole Vuono"
-    ],
-    "JR PRODUCTION COORDINATOR": [
-      "Breanne Casucci"
-    ],
-    "DIRECTORS OF PHOTOGRAPHY": [
-      "Ted Willis",
-      "Hossam Aboul-Magd",
-      "Keith Worthington",
-      "Ryan McPherson",
-      "Edwin Diaz",
-      "Peter Gordon"
-    ],
-    "CAMERA OPERATORS": [
+    "Camera Operators": [
       "Mike Silva",
       "Andrew Kleinschmidt",
       "Preston Millhouse",
       "Sam Cowan"
     ],
-    "FIELD PRODUCERS": [
-      "Barbie Jenkins",
-      "David Scott McDougall",
-      "Michael Weber"
+    "Co-Executive Producer": [
+      "Steven C. Lawrence"
     ],
-    "COVID COMPLIANCE COORDINATORS": [
+    "Covid Compliance Coordinators": [
       "Ramona Nicoletti",
       "Alana Bergeron",
       "Kaitlyn Irizarry",
@@ -120,111 +63,163 @@
       "Andrea Goodstein",
       "Kin Chow"
     ],
-    "AUDIO MIXERS": [
-      "Mike Haldin",
-      "Rob Zogby",
-      "Mark Goudly",
-      "Alan Chow",
-      "Edmund Kasubinski"
+    "Directors Of Photography": [
+      "Ted Willis",
+      "Hossam Aboul-Magd",
+      "Keith Worthington",
+      "Ryan McPherson",
+      "Edwin Diaz",
+      "Peter Gordon"
     ],
-    "ASSISTANT CAMERA": [
-      "Curt Resser",
-      "Cody Williams",
-      "Rosaleah Gonzalez",
-      "Will Boone"
+    "Editors": [
+      "Michael Baron",
+      "John Rasmussen",
+      "Jimmy Higgins",
+      "Jeff Peltier",
+      "Eran Hayden",
+      "Justin Ridge",
+      "Nate Novero",
+      "Michael Newton"
     ],
-    "MEDIA MANAGER": [
+    "Executive Producer": [
+      "Matthew J. Braley",
+      "Adam Richman"
+    ],
+    "Executive Producers": [
+      "Jim Pasquarella",
+      "Mary Donahue"
+    ],
+    "Field Producers": [
+      "Barbie Jenkins",
+      "David Scott McDougall",
+      "Michael Weber"
+    ],
+    "Programming Coordinator": [
+      "Celeste Amidon"
+    ],
+    "For History(R) Music Services": [
+      "Jennifer Insogna",
+      "Liz Morgan",
+      "Brice Dean"
+    ],
+    "Executive-In-Charge Of Production": [
+      "Patrice Andrews"
+    ],
+    "Jr. Production Coordinator": [
+      "Sarah Mchugh"
+    ],
+    "Line Producers": [
+      "Melissa Ray",
+      "Lori Mason Frye"
+    ],
+    "Production And Development Assistant": [
+      "Zoe Resnick"
+    ],
+    "Senior Manager Rights &amp; Clearances": [
+      "Elio Concepcion"
+    ],
+    "Supervising Producer": [
+      "Allie Breslin"
+    ],
+    "Graphics": [
+      "Monkeyhead",
+      "Ken Dayhoff"
+    ],
+    "Host": [
+      "Adam Richman"
+    ],
+    "Jr Production Coordinator": [
+      "Breanne Casucci"
+    ],
+    "Junior Production Accountant": [
+      "Phurbu Nepali"
+    ],
+    "Lead Production Accountant": [
+      "Sophiya Banu"
+    ],
+    "Line Producer": [
+      "Pamela Wagner"
+    ],
+    "Media Manager": [
       "Stephen Matter"
     ],
-    "SET PRODUCTION ASSISTANTS": [
+    "Media Operations Techs": [
+      "Howard Chisholm",
+      "Adam Perez"
+    ],
+    "Music Courtesy Of": [
+      "Strike Audio",
+      "Audio Network",
+      "Signature Tracks",
+      "Gramoscope",
+      "Extreme Music"
+    ],
+    "Online Editor And Colorist": [
+      "Marc Berliner"
+    ],
+    "Online Producer": [
+      "Brian Street"
+    ],
+    "Original Concept Created By": [
+      "Bruce Nash"
+    ],
+    "Post Producer": [
+      "Chris Moore"
+    ],
+    "Post-Production Assistant": [
+      "Samantha Lochs"
+    ],
+    "Post-Production Coordinator": [
+      "Denise McGillicuddy"
+    ],
+    "Post-Production Facility": [
+      "Motion Picture Enterprises, Inc."
+    ],
+    "Post-Production Manager": [
+      "Helena Greenwald"
+    ],
+    "Post-Production Supervisors": [
+      "Kevin T. Fogarty",
+      "Ruth Horn-Axelrod"
+    ],
+    "Producers": [
+      "Janine Leeds",
+      "Joan Ruppert"
+    ],
+    "Production Coordinators": [
+      "Jasmine Jean",
+      "Nicole Vuono"
+    ],
+    "Production Manager": [
+      "Andrea Hildensperger"
+    ],
+    "Senior Director, Post-Production": [
+      "Tom Matheu"
+    ],
+    "Series Associate Producer": [
+      "Alexandra Eden"
+    ],
+    "Set Production Assistants": [
       "James Calnan",
       "Kembra Allen",
       "Chris Farrell",
       "Becca Evett",
       "Lucas Procopio"
     ],
-    "SUPERVISING PRODUCER, POST-PRODUCTION": [
-      "Mike Giordano"
-    ],
-    "POST-PRODUCTION MANAGER": [
-      "Helena Greenwald"
-    ],
-    "POST-PRODUCTION COORDINATOR": [
-      "Denise McGillicuddy"
-    ],
-    "POST-PRODUCTION ASSISTANT": [
-      "Samantha Lochs"
-    ],
-    "SENIOR DIRECTOR, POST-PRODUCTION": [
-      "Tom Matheu"
-    ],
-    "SUPERVISOR, POST-PROD MEDIA OPS": [
-      "Eric Fortier"
-    ],
-    "MEDIA OPERATIONS TECHS": [
-      "Howard Chisholm",
-      "Adam Perez"
-    ],
-    "GRAPHICS": [
-      "Monkeyhead",
-      "Ken Dayhoff"
-    ],
-    "POST-PRODUCTION FACILITY": [
-      "Motion Picture Enterprises, Inc."
-    ],
-    "ONLINE PRODUCER": [
-      "Brian Street"
-    ],
-    "ONLINE EDITOR AND COLORIST": [
-      "Marc Berliner"
-    ],
-    "AUDIO MIXER": [
-      "Andrew Kay"
-    ],
-    "LEAD PRODUCTION ACCOUNTANT": [
-      "Sophiya Banu"
-    ],
-    "ASSISTANT PRODUCTION ACCOUNTANTS": [
-      "Samara Choit",
-      "Hayden McComas"
-    ],
-    "JUNIOR PRODUCTION ACCOUNTANT": [
-      "Phurbu Nepali"
-    ],
-    "FOR HISTORY(R) MUSIC SERVICES": [
-      "Jennifer Insogna",
-      "Liz Morgan",
-      "Brice Dean"
-    ],
-    "EXECUTIVE PRODUCERS": [
-      "Steve Ascher",
-      "Matt Pearl",
-      "Kristy Sabat"
-    ],
-    "EXECUTIVE PRODUCER": [
-      "Matthew J. Braley",
-      "Adam Richman"
-    ],
-    "CO-EXECUTIVE PRODUCER": [
-      "Steven C. Lawrence"
-    ],
-    "HOST": [
-      "Adam Richman"
-    ],
-    "SUPERVISING FIELD PRODUCER": [
+    "Supervising Field Producer": [
       "Alice Bondulich"
     ],
-    "PRODUCERS": [
-      "Janine Leeds",
-      "Joan Ruppert"
+    "Supervising Producer, Post-Production": [
+      "Mike Giordano"
     ],
-    "SERIES ASSOCIATE PRODUCER": [
-      "Alexandra Eden"
+    "Supervisor, Post-Prod Media Ops": [
+      "Eric Fortier"
     ],
-    "ASSOCIATE PRODUCERS": [
-      "Cosmo DeCaro",
-      "Cate Burzynski",
-      "Mary McGowan"
+    "Svp, Production Operations": [
+      "Ed Russo"
+    ],
+    "Vp, Production Management": [
+      "Patricia Paredes Saez"
     ]
   }
 }

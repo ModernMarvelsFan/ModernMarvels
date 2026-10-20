@@ -16,7 +16,6 @@
 | :--- | :--- |
 | **Assistant Editors** | Sarah Longnecker, Alicia Lundgren |
 | **Associate Producer** | Mary Courtney, Robert Wear |
-| **Audio/Mix** | Dylen Terflinger |
 | **Camera** | Marc Carter, Dominic Giordano, Lon Magdich, Joe Pedalino, Diana Wilmar |
 | **Co-Executive Producer** | Robert Twilley |
 | **Created By** | Bruce Nash |
@@ -25,6 +24,7 @@
 | **Field Producer** | Brian Cavallaro |
 | **Graphics** | Elevation |
 | **Location Sound** | Dan Cook, Jim Galler, Tom Greto, Jeff Hoisen, Frank Intorcia, Jeff Messe, Steve Miller, Chris Morris, Holly Sweet |
+| **Mix** | Dylen Terflinger |
 | **Music** | Legativity |
 | **Narrator** | Max Raphael |
 | **Online Editors** | Scott W. Lee, Philip Tatler IV |

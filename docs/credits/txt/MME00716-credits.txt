@@ -19,7 +19,7 @@ Music: Extreme
 Post-Production Scheduling: Greg Stadnik
 Producer: Kent Kitzman
 Programming Coordinator: Fatime Kaba
-Sound Design & Mix: Nutmeg Post
+Sound Design &amp; Mix: Nutmeg Post
 Supervising Producer: Ron Nelson
-VP, Production Operations: Ed Russo
+Vp, Production Operations: Ed Russo
 Writer: Ron Nelson

@@ -8,61 +8,42 @@
     "GREYSTONE COMMUNICATIONS, INC. (Produced By)",
     "THE HISTORY CHANNEL (In Association With)",
     "A&E TELEVISION NETWORKS (copyright holder)",
-    "MATCHFRAME VIDEO",
-    "SOUND SERVICES, INC.",
-    "HOLLYWOOD FILM CO.",
-    "GIRL FRIDAY CO."
+    "Matchframe Video",
+    "Sound Services, Inc.",
+    "Hollywood Film Co.",
+    "Girl Friday Co."
   ],
   "narrators": [],
   "crew": {
+    "\"The Luftwaffe\" Produced By": [
+      "Robert Lihani"
+    ],
     "Assistant Camera": [
-      "STEVEN J. GREEN"
+      "Steven J. Green"
     ],
-    "Sound Mixer": [
-      "KEN WILLINGHAM"
+    "Associate Director": [
+      "Robert Lihani"
     ],
-    "Key Grip": [
-      "FRED ALBRECHT"
+    "Camera Operator": [
+      "George Stephenson"
     ],
-    "Grip": [
-      "MARK CANE"
+    "Coordinating Producer": [
+      "Robert Beemer"
+    ],
+    "Coordinator A&amp;E Documentary Programs": [
+      "Elyse Miranda"
+    ],
+    "Crane Operator": [
+      "John Loveless"
+    ],
+    "Director": [
+      "Robert Kirk"
+    ],
+    "Director Of Photography": [
+      "DONALD M. McCUAIG"
     ],
     "Driver": [
       "BRADY McELROY"
-    ],
-    "Teleprompter": [
-      "JERRY BRANCATO"
-    ],
-    "Gaffer": [
-      "LARRY ROTH"
-    ],
-    "Electrician": [
-      "DAVID AVERY"
-    ],
-    "Crane Operator": [
-      "JOHN LOVELESS"
-    ],
-    "Producer in Great Britain": [
-      "PAUL BERNARD"
-    ],
-    "Production Assistant": [
-      "CAREY CHRISMAN"
-    ],
-    "Field Camera": [
-      "MARK SKILTON",
-      "GORDON HOOVER",
-      "KEN TUOHEY"
-    ],
-    "Field Engineer": [
-      "T.J. LANGDON"
-    ],
-    "Post Production Services": [
-      "MATCHFRAME VIDEO",
-      "SOUND SERVICES, INC.",
-      "HOLLYWOOD FILM CO.",
-      "GIRL FRIDAY CO.",
-      "PATRICK K. CORRY",
-      "NINA SILVA"
     ],
     "Editorial Consultants": [
       "COL. WALTER J. BOYNE USAF, (Ret.) Former Director, NATIONAL AIR & SPACE MUSEUM",
@@ -73,74 +54,93 @@
       "LIEUT. GEN F.J. BROWN U.S. Army (Ret.)",
       "NORMAN POLMAR Columnist and Author U.S. Naval Institute"
     ],
+    "Electrician": [
+      "David Avery"
+    ],
+    "Executive Producer": [
+      "Craig Haffner"
+    ],
+    "Executive In Charge For A&amp;E Network": [
+      "Charlie Maday"
+    ],
+    "Executive In Charge Of Production": [
+      "Steven Lewis"
+    ],
+    "Field Camera": [
+      "Mark Skilton",
+      "Gordon Hoover",
+      "Ken Tuohey"
+    ],
+    "Field Engineer": [
+      "T.J. Langdon"
+    ],
     "Film Research": [
       "DON HOUGHTALING DoD Motion Media Records Center",
       "BONNIE ROWAN National Archives"
     ],
-    "Production Services by": [
-      "PATRIOT FILMS"
-    ],
-    "Production Executive": [
-      "DONNA E. LUSITANA"
-    ],
-    "Coordinator A&E Documentary Programs": [
-      "ELYSE MIRANDA"
-    ],
-    "Executive in Charge for A&E Network": [
-      "CHARLIE MADAY"
-    ],
-    "Executive in Charge of Production": [
-      "STEVEN LEWIS"
-    ],
-    "Produced By": [
-      "GREYSTONE COMMUNICATIONS, INC."
-    ],
-    "Executive Producer": [
-      "CRAIG HAFFNER"
-    ],
-    "\"The Luftwaffe\" Produced by": [
-      "ROBERT LIHANI"
-    ],
-    "Senior Producer": [
-      "ROBERT KIRK"
-    ],
-    "Director": [
-      "ROBERT KIRK"
-    ],
-    "Supervising Producer": [
-      "ROBERT LIHANI"
-    ],
-    "Series Producer": [
-      "JOHN CORRY"
-    ],
-    "Senior Editors": [
-      "STEVE POMERANTZ",
-      "R.L. SHONTELL"
-    ],
-    "Music by": [
-      "CHRISTOPHER STONE",
-      "RICHARD BAND"
-    ],
-    "Director of Photography": [
-      "DONALD M. McCUAIG"
-    ],
-    "Coordinating Producer": [
-      "ROBERT BEEMER"
+    "Gaffer": [
+      "Larry Roth"
     ],
     "Graphics": [
-      "JOHANNA BERTOLDO DESIGNS"
+      "Johanna Bertoldo Designs"
+    ],
+    "Grip": [
+      "Mark Cane"
+    ],
+    "Key Grip": [
+      "Fred Albrecht"
     ],
     "Main Title Design": [
-      "JONATHAN MOSER"
+      "Jonathan Moser"
     ],
-    "Associate Director": [
-      "ROBERT LIHANI"
+    "Music By": [
+      "Christopher Stone",
+      "Richard Band"
     ],
     "Post Production Audio": [
-      "CRAIG PLACHY"
+      "Craig Plachy"
     ],
-    "Camera Operator": [
-      "GEORGE STEPHENSON"
+    "Post Production Services": [
+      "Matchframe Video",
+      "Sound Services, Inc.",
+      "Hollywood Film Co.",
+      "Girl Friday Co.",
+      "Patrick K. Corry",
+      "Nina Silva"
+    ],
+    "Produced By": [
+      "Greystone Communications, Inc."
+    ],
+    "Producer In Great Britain": [
+      "Paul Bernard"
+    ],
+    "Production Assistant": [
+      "Carey Chrisman"
+    ],
+    "Production Executive": [
+      "Donna E. Lusitana"
+    ],
+    "Production Services By": [
+      "Patriot Films"
+    ],
+    "Senior Editors": [
+      "Steve Pomerantz",
+      "R.L. Shontell"
+    ],
+    "Senior Producer": [
+      "Robert Kirk"
+    ],
+    "Series Producer": [
+      "John Corry"
+    ],
+    "Sound Mixer": [
+      "Ken Willingham"
+    ],
+    "Supervising Producer": [
+      "Robert Lihani"
+    ],
+    "Teleprompter": [
+      "Jerry Brancato"
     ]
   }
 }

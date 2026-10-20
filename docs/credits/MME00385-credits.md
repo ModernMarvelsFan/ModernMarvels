@@ -7,40 +7,40 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Network
-* **Narrator:** MIKKI DEL MONICO
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions, A&E Television Network
+* **Narrator:** Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | JUDY GORDON, SHERIDAN LIU |
-| **Animation by** | VICTOR BORNIA |
-| **Assistant Editor** | LAURA STEINHOFF |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Associate Producer** | DANIELLE PARSONS |
-| **Camera** | JOHN BONNER, MIKE KELLY, MAC KENNY, PETER KRAJEWSKI, LON MAGDICH, JEFF McMICHAEL |
-| **Clearance Coordinator** | D.W. BLAKESLEE |
-| **Clearance Supervisor** | KATIE DEL CORE |
+| **Accountants** | Judy Gordon, Sheridan Liu |
+| **Animation By** | Victor Bornia |
+| **Assistant Editor** | Laura Steinhoff |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Associate Producer** | Danielle Parsons |
+| **Camera** | John Bonner, Mike Kelly, Mac Kenny, Peter Krajewski, Lon Magdich, JEFF McMICHAEL |
+| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | ROSALYN McVAY |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACQUES |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | COLLIN BERWICK, DANNY McCULLOUGH, DINO QUAGLIETTA, PAUL WUSTRACK |
-| **Historical Consultant** | DAVID WONDRICH |
-| **Line Producer** | PAUL DZILVELIS |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistant** | GAYLEN KOBAYASHI |
-| **Post Producer** | TIM KNAUFF |
-| **Produced by** | ACTUALITY PRODUCTIONS, INC., History Television Network Productions |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | JEFFERY PERKINS |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | MIKKI DEL MONICO, PAUL LACQUES |
-| **Sound Mixer** | PAUL RAY |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
-| **Written and Produced by** | JIM HENSE |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Collin Berwick, DANNY McCULLOUGH, Dino Quaglietta, Paul Wustrack |
+| **Historical Consultant** | David Wondrich |
+| **Line Producer** | Paul Dzilvelis |
+| **Online Editor** | John Price |
+| **Post Assistant** | Gaylen Kobayashi |
+| **Post Producer** | Tim Knauff |
+| **Produced By** | Actuality Productions, Inc., History Television Network Productions |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Jeffery Perkins |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researchers** | Mikki Del Monico, Paul Lacques |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Mikki Del Monico |
+| **Written And Produced By** | Jim Hense |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00385.md)

@@ -22,9 +22,9 @@
 | **Camera** | Dan Lantz, Jim LeDoux, Lon Magdich, Dave Rutherford, Adam Sampson, Randy Scoggins |
 | **Clearance Coordinator** | Kiana Moore |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Scot Kelly |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Mike Harvey, Aaron Holloway, Bryan Kweskin, Thomas Moore, Charles Rohr, Don Yost |
@@ -43,7 +43,7 @@
 | **Researcher** | Sapna Chhabra |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Allison Boon |
+| **Written And Produced By** | Allison Boon |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00644.md)

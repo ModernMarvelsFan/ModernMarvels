@@ -10,17 +10,13 @@
     "Harlan Saperstein"
   ],
   "crew": {
-    "Audio Coordinator": [
-      "Derrick McDaniel"
+    "Animation": [
+      "Doug Whitney"
     ],
-    "Online Editor": [
-      "David Rex"
-    ],
-    "Sound Mixer": [
-      "Alex Gruzdev"
-    ],
-    "Production Auditor": [
-      "Dani Eslin"
+    "Assistant Editors": [
+      "Stuart Brodlieb",
+      "Harris Cohen",
+      "Spencer Keimon"
     ],
     "Assistant Production Accountants": [
       "Judi Minitello",
@@ -29,38 +25,8 @@
     "Assistant To Don Cambou": [
       "Tim Shell"
     ],
-    "Production Secretary": [
-      "Kathy Exner"
-    ],
-    "Production Assistant": [
-      "Eric Schaefer"
-    ],
-    "Animation": [
-      "Doug Whitney"
-    ],
-    "Supervising Producer": [
-      "Beth Dietrich"
-    ],
-    "Executive Producer": [
-      "Charlie Maday"
-    ],
-    "Narrated by": [
-      "Harlan Saperstein"
-    ],
-    "Music by": [
-      "Alan Ett"
-    ],
-    "Production Manager": [
-      "Lisa Blackwood Hope"
-    ],
-    "Post Production Supervisor": [
-      "Scott Berkson"
-    ],
-    "Clearance Supervisor": [
-      "Leslie Anne Clark"
-    ],
-    "Researcher": [
-      "Tracy Hood"
+    "Audio Coordinator": [
+      "Derrick McDaniel"
     ],
     "Camera": [
       "Shaun Donahue",
@@ -68,21 +34,55 @@
       "Clay Westervelt",
       "Kennedy Wheatley"
     ],
+    "Clearance Supervisor": [
+      "Leslie Anne Clark"
+    ],
+    "Executive Producer": [
+      "Charlie Maday"
+    ],
     "Field Audio": [
       "Ian Melchinger",
       "David Ornstein",
       "Henry Young"
     ],
-    "Post Production Coordinator": [
-      "Leanne M. Anaya Reece"
+    "Music By": [
+      "Alan Ett"
     ],
-    "Assistant Editors": [
-      "Stuart Brodlieb",
-      "Harris Cohen",
-      "Spencer Keimon"
+    "Narrated By": [
+      "Harlan Saperstein"
+    ],
+    "Online Editor": [
+      "David Rex"
     ],
     "Post Production Assistant": [
       "Gary Reid"
+    ],
+    "Post Production Coordinator": [
+      "Leanne M. Anaya Reece"
+    ],
+    "Post Production Supervisor": [
+      "Scott Berkson"
+    ],
+    "Production Assistant": [
+      "Eric Schaefer"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Lisa Blackwood Hope"
+    ],
+    "Production Secretary": [
+      "Kathy Exner"
+    ],
+    "Researcher": [
+      "Tracy Hood"
+    ],
+    "Sound Mixer": [
+      "Alex Gruzdev"
+    ],
+    "Supervising Producer": [
+      "Beth Dietrich"
     ]
   }
 }

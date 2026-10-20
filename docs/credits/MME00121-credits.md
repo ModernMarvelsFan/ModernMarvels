@@ -22,15 +22,13 @@
 | **Camera** | Ueli Grossenbacher, Yahel Herzog, Jerry Hughes, Will Jacob, Arturo Jimenez Leon, Dylan O'Brien |
 | **Clearance Coordinator** | Katie Del Core |
 | **Clearance Supervisor** | Charlotte Carpenter |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Barry Hill |
-| **Edited by** | Sean Dash |
-| **Executive Producer** | Don Cambou |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Barry Hill |
+| **Edited By** | Sean Dash |
+| **Executive Producer** | Charlie Maday |
 | **Footage Consultant** | Ted Troll |
-| **For The History Channel / Executive Producer** | Charlie Maday |
-| **For The History Channel / Supervising Producer** | Beth Dietrich |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett |
+| **Music By** | Alan Ett |
 | **Online Editor** | David Rex |
 | **Post Production Assistant** | Brian Volk |
 | **Post Production Coordinator** | Jason Steinberg |
@@ -42,7 +40,8 @@
 | **Production Manager** | Linda K. Clark |
 | **Researchers** | Erik Hietter, Emily Lau |
 | **Sound Mixer** | Matt Gruber |
-| **Written and Produced by** | Henry Schipper |
+| **Supervising Producer** | Beth Dietrich |
+| **Written And Produced By** | Henry Schipper |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00121.md)

@@ -76,4 +76,4 @@ Episodes where TheTVDB and TMDB diverge significantly, resolved via optical copy
 When submitting tickets to database moderators:
 1. **TheTVDB:** Post a ticket at [support.thetvdb.com](https://support.thetvdb.com) referencing the specific Episode ID and citing the primary copyright year, dialogue transcript URL, and temporal evidence from this archive.
 2. **TMDB:** Post a content report on the specific episode's discussion forum referencing the standalone 1-hour broadcast recordings.
-3. **Link to Evidence:** Always provide the direct URL to the episode's dossier in this archive (`https://shanto.github.io/Modern-Marvels-Public/episodes/MME#####/`) as the primary proof.
+3. **Link to Evidence:** Always provide the direct URL to the episode's dossier in this archive (`https://modernmarvelsfan.github.io/ModernMarvels/episodes/MME#####/`) as the primary proof.

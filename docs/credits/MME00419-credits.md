@@ -8,39 +8,39 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `Produced by ACTUALITY PRODUCTIONS, INC.. History Television Network Productions. © 2004 A&E Television Network All Rights Reserved`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, A&E Television Network
-* **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
+* **Narrator:** Max Raphael, Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | JUDY GORDON, SHERIDAN LIU |
-| **Animation by** | TAK PRODUCTIONS, INC. |
-| **Assistant Editors** | LAURA STEINHOFF, MICHAEL BROOME |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Camera** | PETER KRAJEWSKI, JULIO LUZQUINOS, LON MAGDICH, PAUL NEAL, PAUL POIRIER, LES ROGERS, PAUL YOUNG |
-| **Clearance Coordinator** | D.W. BLAKESLEE |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Coordinator** | MELINDA ESQUIBEL |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACQUES |
-| **Edited by** | MOTOSHI WAKABAYASHI |
-| **Field Audio** | JOHN BOGLEY, BUD DELANEY, DEREK JOHNSON |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Historical Consultants** | NED BARNETT, DAVID PERKINS, GARY E. WEIR |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistants** | GAYLEN KOBAYASHI, LINDA LIAO |
-| **Post Producer** | TIM KNAUFF |
-| **Produced by** | ACTUALITY PRODUCTIONS, INC. |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | JEFFERY PERKINS |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | MIKKI DEL MONICO, JOHN KNAPP, SEAN HECKMAN, TOM BARCLAY |
-| **Sound Mixer** | PAUL RAY |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
+| **Accountants** | Judy Gordon, Sheridan Liu |
+| **Animation By** | Tak Productions, Inc. |
+| **Assistant Editors** | Laura Steinhoff, Michael Broome |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Camera** | Peter Krajewski, Julio Luzquinos, Lon Magdich, Paul Neal, Paul Poirier, Les Rogers, Paul Young |
+| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Supervisor** | Katie Del Core |
+| **Coordinator** | Melinda Esquibel |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Motoshi Wakabayashi |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | John Bogley, Bud Delaney, Derek Johnson |
+| **Historical Consultants** | Ned Barnett, David Perkins, Gary E. Weir |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistants** | Gaylen Kobayashi, Linda Liao |
+| **Post Producer** | Tim Knauff |
+| **Produced By** | Actuality Productions, Inc. |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Jeffery Perkins |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researchers** | Mikki Del Monico, John Knapp, Sean Heckman, Tom Barclay |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Mikki Del Monico |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00419.md)

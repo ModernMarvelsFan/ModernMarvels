@@ -7,34 +7,34 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2001 A & E Television Networks All Rights Reserved`
-* **Production Company:** DIGITAL RANCH, The History Channel, A & E Television Networks
+* **Production Company:** Digital Ranch, The History Channel, A & E Television Networks
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Supervising Producer** | BETH DIETRICH-SEGARRA |
-| **TUNNELS OF VIETNAM (squeeze panel) / Additional Camera** | JOEY BARASCH, ROB LIHANI, MIKE VINCENTI |
-| **TUNNELS OF VIETNAM (squeeze panel) / Additional Editing** | MATT STEVENSON |
-| **TUNNELS OF VIETNAM (squeeze panel) / Assistant Editor** | JOEY BARASCH |
-| **TUNNELS OF VIETNAM (squeeze panel) / Asst. Post Production Coordinator** | MATTHEW DUCLOS |
-| **TUNNELS OF VIETNAM (squeeze panel) / Camera** | JOHN ARMSTRONG, BRIAN CALLAHAN, WES DORMAN, SIMON MANZIE |
-| **TUNNELS OF VIETNAM (squeeze panel) / Clearance Supervisor** | VALARIE SHELDON |
-| **TUNNELS OF VIETNAM (squeeze panel) / Co-Producer** | MIKE VINCENTI |
-| **TUNNELS OF VIETNAM (squeeze panel) / Editor** | STEVE POMERANTZ |
-| **TUNNELS OF VIETNAM (squeeze panel) / Executive Producers** | ROBERT KIRK, ROB LIHANI |
-| **TUNNELS OF VIETNAM (squeeze panel) / Executive in Charge of Production** | ANN J. HACKETT |
-| **TUNNELS OF VIETNAM (squeeze panel) / Field Audio** | LOUIS BLOCK, DAVID MITLYING, ANDY POSTLE |
-| **TUNNELS OF VIETNAM (squeeze panel) / Music** | ALAN ETT MUSIC GROUP |
-| **TUNNELS OF VIETNAM (squeeze panel) / Online Editor** | KEN PAONESSA |
-| **TUNNELS OF VIETNAM (squeeze panel) / Post Production Audio** | MEDIA CITY SOUND |
-| **TUNNELS OF VIETNAM (squeeze panel) / Production Associates** | YVONNE FANNON, KEITH REINER |
-| **TUNNELS OF VIETNAM (squeeze panel) / Re-enactors** | HARLAN GLENN, NIK HOFFMAN, JO ERIC MERCADO, PAUL W. MIRALDI, DAVID MITLYING, THANH NGUYEN, OWEN J. THORNTON |
-| **TUNNELS OF VIETNAM (squeeze panel) / Re-recording Mixer** | MARK JENSEN |
-| **TUNNELS OF VIETNAM (squeeze panel) / Voices** | JACK HUANG, VI NGUYEN |
-| **TUNNELS OF VIETNAM (squeeze panel) / Written, Produced and Directed by** | ANDY PAPADOPOULOS |
+| **Additional Camera** | Joey Barasch, Rob Lihani, Mike Vincenti |
+| **Additional Editing** | Matt Stevenson |
+| **Assistant Editor** | Joey Barasch |
+| **Asst. Post Production Coordinator** | Matthew Duclos |
+| **Camera** | John Armstrong, Brian Callahan, Wes Dorman, Simon Manzie |
+| **Clearance Supervisor** | Valarie Sheldon |
+| **Co-Producer** | Mike Vincenti |
+| **Editor** | Steve Pomerantz |
+| **Executive In Charge Of Production** | Ann J. Hackett |
+| **Executive Producer** | Charlie Maday |
+| **Executive Producers** | Robert Kirk, Rob Lihani |
+| **Field Audio** | Louis Block, David Mitlying, Andy Postle |
+| **Music** | Alan Ett Music Group |
+| **Online Editor** | Ken Paonessa |
+| **Post Production Audio** | Media City Sound |
+| **Production Associates** | Yvonne Fannon, Keith Reiner |
+| **Re-Enactors** | Harlan Glenn, Nik Hoffman, Jo Eric Mercado, Paul W. Miraldi, David Mitlying, Thanh Nguyen, Owen J. Thornton |
+| **Re-Recording Mixer** | Mark Jensen |
+| **Supervising Producer** | Beth Dietrich-Segarra |
+| **Voices** | Jack Huang, VI Nguyen |
+| **Written, Produced And Directed By** | Andy Papadopoulos |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00209.md)

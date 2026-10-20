@@ -8,56 +8,17 @@
     "Max Raphael"
   ],
   "crew": {
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Editor": [
-      "Dan Wolfmeyer"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Music": [
-      "AMI Music Group"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Researcher": [
-      "Kyle Salners"
-    ],
     "Accountants": [
       "Diana Stolpe",
       "Malia Marah",
       "Leslie Pinkstaff"
     ],
-    "Coordinator": [
-      "Gregory Zide"
+    "Animation": [
+      "Glenn TakaKjian"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Nate Dusek"
-    ],
-    "Post Coordinator": [
-      "Gaylen Kobayashi"
-    ],
-    "VO Coordinator": [
-      "Rick George"
     ],
     "Asst Post Coordinator": [
       "Cory Parker"
@@ -72,6 +33,21 @@
       "Rich Stone",
       "Zvonimir Vidusin"
     ],
+    "Coordinator": [
+      "Gregory Zide"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Editor": [
+      "Dan Wolfmeyer"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Brian Clavey",
       "Andrew Commiskey",
@@ -82,11 +58,35 @@
       "Don Yost",
       "Marty Zimmerman"
     ],
+    "Music": [
+      "AMI Music Group"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "Glenn TakaKjian"
+    "Post Coordinator": [
+      "Gaylen Kobayashi"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Kyle Salners"
     ],
     "Sound Mixer": [
       "Erik Valenzuela"
@@ -100,10 +100,10 @@
       "U.S. Department of Energy",
       "Universal Safety Response"
     ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Vo Coordinator": [
+      "Rick George"
     ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Jared Cook",
       "Lawrence Givens III"
     ]

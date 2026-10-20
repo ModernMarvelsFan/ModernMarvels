@@ -14,7 +14,7 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **MODERN MARVELS / TIMES SQUARE (squeeze panel) / Executive Producer** | DON CAMBOU |
+| **Executive Producer** | Don Cambou |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00198.md)

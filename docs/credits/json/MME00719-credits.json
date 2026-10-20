@@ -8,6 +8,31 @@
   ],
   "narrators": [],
   "crew": {
+    "2Nd Assistant Accountants": [
+      "Samara Choit",
+      "Aaliyah Fowler"
+    ],
+    "Administrative Assistant": [
+      "Zoe Resnick"
+    ],
+    "Media Managers": [
+      "Clarisse Callahan",
+      "Matthew Emmanuel",
+      "Spencer Nelson",
+      "Logan Quarles",
+      "John Pope",
+      "Jordan Sommerlad"
+    ],
+    "Assistant Editors": [
+      "Zac Ceccarelli",
+      "Jonathan A. Schwartz",
+      "Nicholas Sutera"
+    ],
+    "Associate Producers": [
+      "Malia Kobara",
+      "Margaux Moores-Tanvier",
+      "Vanessa Wilson"
+    ],
     "Audio": [
       "Jared Elkin",
       "Edmund Kasubinski",
@@ -15,143 +40,17 @@
       "Dave Pino",
       "Spencer Smith"
     ],
-    "Production Assistants": [
-      "Chris Ahearn",
-      "Kembra Allen",
-      "Molly DeBower",
-      "Nicolas Holsworth",
-      "Codie Lagotte",
-      "George Schramm",
-      "Tiffany Wong"
-    ],
-    "Utility PA": [
-      "Moses N. Xinda"
-    ],
-    "Post Production Supervisor": [
-      "Kevin T. Fogarty"
-    ],
-    "Supervising Producer, Post Production": [
-      "Michael Giordano"
-    ],
-    "Senior Director, Post Production": [
-      "Tom Matheu"
-    ],
-    "Supervisor, Post Prod Media Ops": [
-      "Eric Fortier"
-    ],
-    "Graphics": [
-      "Trick & Mortar"
-    ],
-    "Post Production Facility": [
-      "Motion Picture Enterprises, Inc."
-    ],
-    "Online Editor and Colorist": [
-      "Andrew Esterly"
-    ],
     "Audio Mixer": [
       "Eric Stern"
     ],
-    "Online Producer": [
-      "Brian Street"
-    ],
-    "VO Record": [
-      "Guastella Sound"
-    ],
-    "For HISTORY® Music Services": [
-      "Jennifer Insogna",
-      "Liz Morgan"
-    ],
-    "Lead Production Accountant": [
-      "Sophiya Banu"
-    ],
-    "2nd Assistant Accountants": [
-      "Samara Choit",
-      "Aaliyah Fowler"
-    ],
-    "Original concept created by": [
-      "Bruce Nash"
-    ],
-    "Executive-in-Charge": [
-      "Patrice Andrews"
-    ],
-    "Supervising Producer": [
-      "Allie Breslin"
-    ],
-    "Line Producer": [
-      "Melissa Hay",
-      "Pamela Wagner"
-    ],
-    "Administrative Assistant": [
-      "Zoe Resnick"
-    ],
-    "Executive Producer": [
-      "Jim Pasquarella",
-      "Matthew J. Braley"
-    ],
-    "Programming Coordinator": [
-      "Celeste Amidon"
-    ],
-    "Executive Producers": [
-      "Steve Ascher",
-      "Kristy Sabat",
-      "Matt Pearl"
-    ],
-    "Co-Executive Producer": [
-      "Steven C. Lawrence"
-    ],
-    "Producer": [
-      "Adam Richman"
-    ],
-    "Host": [
-      "Adam Richman"
-    ],
-    "Supervising Field Producer": [
-      "Jon Jordan"
-    ],
-    "Story Producer": [
-      "Gigi Abrantes"
-    ],
-    "Producers": [
-      "Leslie Coffee",
-      "Nora Rappaport"
-    ],
-    "Associate Producers": [
-      "Malia Kobara",
-      "Margaux Moores-Tanvier",
-      "Vanessa Wilson"
-    ],
-    "Editors": [
-      "Mike Baron",
-      "Korey Caldwell",
-      "Jimmy Higgins"
-    ],
-    "Assistant Editors": [
-      "Zac Ceccarelli",
-      "Jonathan A. Schwartz",
-      "Nicholas Sutera"
-    ],
-    "Production Manager": [
-      "Shannon Silver"
-    ],
-    "Production Coordinator": [
-      "Nicole Vuono"
-    ],
-    "SVP, Production Operations": [
-      "Ed Russo"
-    ],
-    "VP, Production Management": [
-      "Patricia Paredes Saez"
-    ],
-    "Production Office Assistant": [
-      "Breanne Casucci",
-      "Allison Fennik"
-    ],
-    "Directors of Photography": [
-      "Mitch Blummer",
-      "James Brantley",
-      "Edwin Diaz",
-      "Michael Martin",
-      "Chris Olsen"
+    "Covid Compliance Officers": [
+      "Brittany Agnew",
+      "Kasey Allison",
+      "Mary Beth Elam",
+      "Sammy Halabi",
+      "Mariya James",
+      "Andrew Marshall",
+      "Michelle Polacinski"
     ],
     "Camera Operators": [
       "Peter Garafalo",
@@ -162,22 +61,123 @@
       "V Tran",
       "Zach Wood"
     ],
-    "Assistant Camera/Media Managers": [
-      "Clarisse Callahan",
-      "Matthew Emmanuel",
-      "Spencer Nelson",
-      "Logan Quarles",
-      "John Pope",
-      "Jordan Sommerlad"
+    "Co-Executive Producer": [
+      "Steven C. Lawrence"
     ],
-    "COVID Compliance Officers": [
-      "Brittany Agnew",
-      "Kasey Allison",
-      "Mary Beth Elam",
-      "Sammy Halabi",
-      "Mariya James",
-      "Andrew Marshall",
-      "Michelle Polacinski"
+    "Directors Of Photography": [
+      "Mitch Blummer",
+      "James Brantley",
+      "Edwin Diaz",
+      "Michael Martin",
+      "Chris Olsen"
+    ],
+    "Editors": [
+      "Mike Baron",
+      "Korey Caldwell",
+      "Jimmy Higgins"
+    ],
+    "Executive Producer": [
+      "Jim Pasquarella",
+      "Matthew J. Braley"
+    ],
+    "Executive Producers": [
+      "Steve Ascher",
+      "Kristy Sabat",
+      "Matt Pearl"
+    ],
+    "Executive-In-Charge": [
+      "Patrice Andrews"
+    ],
+    "For History® Music Services": [
+      "Jennifer Insogna",
+      "Liz Morgan"
+    ],
+    "Graphics": [
+      "Trick & Mortar"
+    ],
+    "Host": [
+      "Adam Richman"
+    ],
+    "Lead Production Accountant": [
+      "Sophiya Banu"
+    ],
+    "Line Producer": [
+      "Melissa Hay",
+      "Pamela Wagner"
+    ],
+    "Online Editor And Colorist": [
+      "Andrew Esterly"
+    ],
+    "Online Producer": [
+      "Brian Street"
+    ],
+    "Original Concept Created By": [
+      "Bruce Nash"
+    ],
+    "Post Production Facility": [
+      "Motion Picture Enterprises, Inc."
+    ],
+    "Post Production Supervisor": [
+      "Kevin T. Fogarty"
+    ],
+    "Producer": [
+      "Adam Richman"
+    ],
+    "Producers": [
+      "Leslie Coffee",
+      "Nora Rappaport"
+    ],
+    "Production Assistants": [
+      "Chris Ahearn",
+      "Kembra Allen",
+      "Molly DeBower",
+      "Nicolas Holsworth",
+      "Codie Lagotte",
+      "George Schramm",
+      "Tiffany Wong"
+    ],
+    "Production Coordinator": [
+      "Nicole Vuono"
+    ],
+    "Production Manager": [
+      "Shannon Silver"
+    ],
+    "Production Office Assistant": [
+      "Breanne Casucci",
+      "Allison Fennik"
+    ],
+    "Programming Coordinator": [
+      "Celeste Amidon"
+    ],
+    "Svp, Production Operations": [
+      "Ed Russo"
+    ],
+    "Senior Director, Post Production": [
+      "Tom Matheu"
+    ],
+    "Story Producer": [
+      "Gigi Abrantes"
+    ],
+    "Supervising Field Producer": [
+      "Jon Jordan"
+    ],
+    "Supervising Producer": [
+      "Allie Breslin"
+    ],
+    "Supervising Producer, Post Production": [
+      "Michael Giordano"
+    ],
+    "Supervisor, Post Prod Media Ops": [
+      "Eric Fortier"
+    ],
+    "Utility Pa": [
+      "Moses N. Xinda"
+    ],
+    "Vo Record": [
+      "Guastella Sound"
+    ],
+    "Vp, Production Management": [
+      "Patricia Paredes Saez"
     ]
   }
 }

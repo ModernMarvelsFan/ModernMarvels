@@ -14,33 +14,32 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | GLENN TAKAKJIAN |
-| **Assistant Production Accountant** | LINDA SCRIBNER |
-| **Camera** | SHAUN DONAHUE, JAMES P. GRIBBINS, BILL HITCHCOCK, DYLAN O'BRIEN |
-| **Clearance Coordinator** | KATIE DEL CORE |
-| **Clearance Supervisor** | CHARLOTTE CARPENTER |
-| **Director of Research** | BARRY HILL |
-| **Edited by** | SEAN DASH |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | TODD HUMPHRIES, MIKE KIMBALL, JOHN WICHMAN |
-| **Footage Consultant** | TED TROLL |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Supervising Producer** | BETH DIETRICH |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT |
-| **Online Editor** | DAVID REX |
-| **Post Producer** | SCOTT BERKSON |
-| **Post Production Assistant** | BRIAN VOLK |
-| **Post Production Coordinator** | GARY REID |
-| **Post Production Supervisor** | JASON STEINBERG |
-| **Producer** | BRUCE NASH |
-| **Production Assistants** | MARYALICE R. ARAGON, SUNI NIVENS |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Production Manager** | LINDA K. CLARK |
-| **Researchers** | ANTHONY LACQUES, GLORIA MORRIS |
-| **Sound Mixer** | MATT GRUBER |
-| **Written and Produced by** | MATTHEW P. HICKEY |
+| **Animation** | Glenn Takakjian |
+| **Assistant Production Accountant** | Linda Scribner |
+| **Camera** | Shaun Donahue, James P. Gribbins, Bill Hitchcock, Dylan O'Brien |
+| **Clearance Coordinator** | Katie Del Core |
+| **Clearance Supervisor** | Charlotte Carpenter |
+| **Director Of Research** | Barry Hill |
+| **Edited By** | Sean Dash |
+| **Executive Producer** | Charlie Maday |
+| **Field Audio** | Todd Humphries, Mike Kimball, John Wichman |
+| **Footage Consultant** | Ted Troll |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett |
+| **Online Editor** | David Rex |
+| **Post Producer** | Scott Berkson |
+| **Post Production Assistant** | Brian Volk |
+| **Post Production Coordinator** | Gary Reid |
+| **Post Production Supervisor** | Jason Steinberg |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Maryalice R. Aragon, Suni Nivens |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Production Manager** | Linda K. Clark |
+| **Researchers** | Anthony Lacques, Gloria Morris |
+| **Sound Mixer** | Matt Gruber |
+| **Supervising Producer** | Beth Dietrich |
+| **Written And Produced By** | Matthew P. Hickey |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00170.md)

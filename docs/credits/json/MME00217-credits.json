@@ -4,35 +4,35 @@
   "year": "2002",
   "copyright": "© 2002 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ACTUALITY PRODUCTIONS",
+    "Actuality Productions",
     "Hearst Entertainment",
-    "THE HISTORY CHANNEL"
+    "The History Channel"
   ],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "MARY WALLACE"
-    ],
     "Associate Producers": [
-      "KRISTINA DJOKIC",
-      "HOLLY A. MURDOCH"
-    ],
-    "Line Producer": [
-      "PAUL DZILVELIS"
+      "Kristina Djokic",
+      "Holly A. Murdoch"
     ],
     "Consulting Producer": [
-      "HENRY SCHIPPER"
+      "Henry Schipper"
     ],
-    "Narrated by": [
-      "MAX RAPHAEL"
+    "Edited By": [
+      "Andre Vaillancourt"
     ],
-    "Edited by": [
-      "ANDRE VAILLANCOURT"
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Written And Produced By": [
+      "Mary Wallace"
     ]
   }
 }

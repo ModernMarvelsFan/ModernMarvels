@@ -20,14 +20,14 @@
 | **Camera** | Jim Buckley, Peter Krajewski, John Marshall, Dylan O'Brien |
 | **Clearance Coordinator** | Katie Del Core |
 | **Clearance Supervisor** | Charlotte Carpenter |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Barry Hill |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Barry Hill |
 | **Edited By** | Sean Dash |
 | **Executive Producer** | Charlie Maday, Don Cambou |
 | **Field Audio** | Joe Vasquez, David Vestpoint |
 | **Footage Consultant** | Ted Troll |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett |
+| **Music By** | Alan Ett |
 | **Online Editor** | David Rex, Rich Barry |
 | **Post Production Supervisor** | Scott Berkson |
 | **Producer** | Bruce Nash |
@@ -38,7 +38,7 @@
 | **Researchers** | Anthony Lacques, Emily Lau |
 | **Sound Mixer** | Matt Gruber |
 | **Supervising Producer** | Beth Dietrich |
-| **Written and Produced by** | Karen Shearer |
+| **Written And Produced By** | Karen Shearer |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00132.md)

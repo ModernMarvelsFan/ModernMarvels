@@ -20,9 +20,9 @@
 | **Camera** | Keith Barefoot, Gary Brooks, Dave Crosby, Bob Cundari, Jim Hall, John Kabasakalis, Ed Kukla, Lon Magdich, Brett Rodney, Alex Rossner, Dave Rutherford |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Brian Johnson |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Dave Berliner, Eric Golden, Bryan Hoday, Ian W. McCullen, Dave Mendez, Tim Stringfellow, Ian Vacek, Darryl L. Webster |
@@ -36,7 +36,7 @@
 | **Production Manager** | Shelia Collins |
 | **Researcher** | Sapna Chhabra |
 | **Supervising Producer** | Ron Nelson |
-| **Technical Consultants** | ArcelorMittal Center for Advanced Friction Studies, CIMR, General Atomics, Hawaiian Volcano Observatory, Meggitt Aircraft Braking Systems, Oak Ridge National Lab., Surface Combustion, Inc., T-PACC |
+| **Technical Consultants** | ArcelorMittal Center for Advanced Friction Studies, Cimr, General Atomics, Hawaiian Volcano Observatory, Meggitt Aircraft Braking Systems, Oak Ridge National Lab., Surface Combustion, Inc., T-Pacc |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00627.md)

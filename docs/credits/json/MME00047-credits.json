@@ -4,23 +4,20 @@
   "year": "1997",
   "copyright": "PRODUCED BY ACTUALITY PRODUCTIONS INC. FOR THE HISTORY CHANNEL. © 1995 A&E TELEVISION NETWORKS ALL RIGHTS RESERVED",
   "studios": [
-    "JAFFE PRODUCTIONS",
+    "Jaffe Productions",
     "Hearst Entertainment",
     "ACTUALITY Productions, Inc.",
-    "THE HISTORY CHANNEL",
-    "ACTUALITY PRODUCTIONS INC.",
-    "A&E TELEVISION NETWORKS"
+    "The History Channel",
+    "Actuality Productions Inc.",
+    "A&e Television Networks"
   ],
   "narrators": [],
   "crew": {
-    "For The History Channel / Series Manager": [
-      "ELYSE MIRANDA"
-    ],
-    "For The History Channel / Executive Producer": [
-      "CHARLIE MADAY"
-    ],
     "Executive Producer": [
-      "GERALD W. ABRAMS"
+      "Charlie Maday"
+    ],
+    "Series Manager": [
+      "Elyse Miranda"
     ]
   }
 }

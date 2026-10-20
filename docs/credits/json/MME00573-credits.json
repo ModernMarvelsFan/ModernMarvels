@@ -12,17 +12,14 @@
     "Max Raphael"
   ],
   "crew": {
-    "Post Coordinator": [
-      "Terrence Hartwell"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
+    "Additional Animation": [
+      "Victor Bornia"
     ],
-    "Research": [
-      "Justin Chang"
+    "Animation": [
+      "FlyingBlue Studio"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -30,11 +27,11 @@
       "Alexander Rubinow",
       "Jeremy Segal"
     ],
+    "Associate Producer": [
+      "Gloria L. Morris"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "James Orbison"
     ],
     "Camera": [
       "Bryan Baird",
@@ -44,6 +41,27 @@
       "David R. Rutherford",
       "Lars Schwetje"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Katie Del Core"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Editor": [
+      "Motoshi Wakabayashi"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Doug Farris",
       "Matt Gettemeier",
@@ -52,17 +70,16 @@
       "Jo Richardson",
       "Thomas Shafer"
     ],
-    "Online Editor": [
-      "John Price"
+    "For": [
+      "History Television Network Productions"
     ],
-    "Animation": [
-      "FlyingBlue Studio"
+    "Executive Producers": [
+      "Beth Dietrich-Segarra",
+      "Michael Stiller"
     ],
-    "Sound Mixer": [
-      "Mark Jensen"
-    ],
-    "Additional Animation": [
-      "Victor Bornia"
+    "Programming Coordinators": [
+      "Adam Rosante",
+      "Michele Wilcox"
     ],
     "Historical Consultants": [
       "David Dinger",
@@ -70,62 +87,45 @@
       "Bob Morse",
       "Tom Ratvasky"
     ],
-    "For The History Channel / Programming Coordinators": [
-      "Adam Rosante",
-      "Michele Wilcox"
-    ],
-    "For The History Channel / Executive Producers": [
-      "Beth Dietrich-Segarra",
-      "Michael Stiller"
-    ],
-    "Produced by": [
-      "Actuality Productions, Inc.",
-      "Ron Nelson"
-    ],
-    "For": [
-      "History Television Network Productions"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Associate Producer": [
-      "Gloria L. Morris"
+    "Music": [
+      "Alan Ett Music Group"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Editor": [
-      "Motoshi Wakabayashi"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music": [
-      "Alan Ett Music Group"
+    "Post Assist": [
+      "James Orbison"
     ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created By": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
+    "Post Coordinator": [
+      "Terrence Hartwell"
     ],
     "Post Producer": [
       "Tim Knauff"
     ],
-    "Director of Clearance": [
-      "Katie Del Core"
+    "Produced By": [
+      "Actuality Productions, Inc.",
+      "Ron Nelson"
+    ],
+    "Producer": [
+      "Bruce Nash"
     ],
     "Production Controller": [
       "Dani Eslin"
     ],
-    "Director of Research": [
-      "Allison Boon"
+    "Production Executive": [
+      "Paul Dzilvelis"
     ],
-    "Coordinator": [
-      "Brad Skiles"
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Research": [
+      "Justin Chang"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
     ]
   }
 }

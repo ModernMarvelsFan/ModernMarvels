@@ -14,24 +14,24 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animated Photos by** | Adam Goodwin |
-| **Animation by** | Victor Bornia |
+| **Animated Photos By** | Adam Goodwin |
+| **Animation By** | Victor Bornia |
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow |
 | **Assistant Post Coordinator** | Gaylen Kobayashi |
 | **Associate Producer** | Corrie Kaufman |
 | **Camera** | Bryan Baird, Scott Bell, Ed Kukla, Jay D. Kuntz, Mark Niedelson, David Rutherford, Charles Tudor |
 | **Clearance Coordinators** | Lawrence Givens III, Aaron Zober |
 | **Coordinator** | Brad Skiles |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Allison Boon |
-| **Director of Rights and Clearances** | Katie Del Core |
-| **Edited by** | Motoshi Wakabayashi |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Director Of Rights And Clearances** | Katie Del Core |
+| **Edited By** | Motoshi Wakabayashi |
 | **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
 | **Field Audio** | Dave Berliner, Bob Boccaccio, Dan Corso, Matt Cozza, Eric Golden, Jo Richardson, Dani Sleiman |
 | **Historical Consultants** | Dennis M. Manos, PhD, Boyd A. Mueller, PhD, Kenneth Schwarz |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Guy Thomas |
-| **Narrated by** | Max Raphael |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Coordinator** | Terrence Hartwell |
 | **Post Producer** | Tim Knauff |
@@ -43,7 +43,7 @@
 | **Researchers** | Uldis Balodis, John Knapp |
 | **Sound Mixer** | Mark Jensen |
 | **Voice Over Coordinator** | John Knapp |
-| **Written and Produced by** | Noah Morowitz |
+| **Written And Produced By** | Noah Morowitz |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00524.md)

@@ -10,21 +10,50 @@
     "Max Raphael"
   ],
   "crew": {
+    "3D Animation By": [
+      "Percolate Digital"
+    ],
+    "Additional Graphics": [
+      "John Kerr"
+    ],
+    "Assistant Editor": [
+      "Mike Bautista"
+    ],
     "Associate Producers": [
       "Philip Cloutier",
       "Amber Seyler"
     ],
-    "Researchers": [
-      "Zoe Couacaud",
-      "Ann Duvall"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Production Assistants": [
-      "Daniel Webster",
-      "Brent West",
-      "Olin Wimberg"
+    "Directed By": [
+      "Jenny Ewig"
     ],
-    "Narrator": [
-      "Max Raphael"
+    "Edited By": [
+      "Judd Fischer"
+    ],
+    "Executive Producer": [
+      "Greg Smith"
+    ],
+    "Executive Producers": [
+      "Sean Gallagher",
+      "Abby Greensfelder"
+    ],
+    "Field Producers": [
+      "Laura Casey",
+      "Sarah Katz",
+      "Anastasia Cronin"
+    ],
+    "Head Of Production": [
+      "Janice Mezzetti"
+    ],
+    "Intern": [
+      "Jeremy Weinreich"
+    ],
+    "Junior Editors": [
+      "Nadia Izakson",
+      "Guillermo Maco",
+      "Wanakhavi Wakhisi"
     ],
     "Music": [
       "Audio Network",
@@ -32,62 +61,33 @@
       "Produkt",
       "Jinglepunks"
     ],
-    "Junior Editors": [
-      "Nadia Izakson",
-      "Guillermo Maco",
-      "Wanakhavi Wakhisi"
-    ],
-    "Assistant Editor": [
-      "Mike Bautista"
-    ],
-    "3D Animation by": [
-      "Percolate Digital"
-    ],
-    "Additional Graphics": [
-      "John Kerr"
-    ],
-    "Created By": [
-      "Bruce Nash"
-    ],
-    "Production Coordinator": [
-      "Kait Gallagher"
-    ],
-    "Intern": [
-      "Jeremy Weinreich"
+    "Narrator": [
+      "Max Raphael"
     ],
     "Production Assistant": [
       "Suzie Eckl"
     ],
-    "Head of Production": [
-      "Janice Mezzetti"
+    "Production Assistants": [
+      "Daniel Webster",
+      "Brent West",
+      "Olin Wimberg"
+    ],
+    "Production Coordinator": [
+      "Kait Gallagher"
     ],
     "Programming Coordinator": [
       "Divya Chungi"
+    ],
+    "Researchers": [
+      "Zoe Couacaud",
+      "Ann Duvall"
     ],
     "Senior Producer": [
       "Carter Figueroa",
       "Chris Sondreal"
     ],
-    "Executive Producers": [
-      "Sean Gallagher",
-      "Abby Greensfelder"
-    ],
-    "Executive Producer": [
-      "Greg Smith"
-    ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Annabelle Hester"
-    ],
-    "Edited by": [
-      "Judd Fischer"
-    ],
-    "Directed By": [
-      "Jenny Ewig"
-    ],
-    "Field Producers": [
-      "Laura Casey",
-      "Sarah Katz",
-      "Anastasia Cronin"
     ]
   }
 }

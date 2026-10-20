@@ -7,20 +7,20 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** GRANADA TELEVISION
+* **Production Company:** Granada Television
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Edited by** | KEITH LUCAS |
-| **Executive for Granada** | JOHN FARREN |
-| **Filmed and Directed by** | JON WOODS |
-| **For The History Channel / Executive Producers** | CHARLIE MADAY, BETH DIETRICH-SEGARRA |
-| **Historical Advisor** | MIKE ASHWORTH |
-| **Produced by** | AMINA RAZAQ |
-| **Production Manager** | JOHN FOLKARD |
+| **Edited By** | Keith Lucas |
+| **Executive For Granada** | John Farren |
+| **Executive Producers** | Charlie Maday, Beth Dietrich-Segarra |
+| **Filmed And Directed By** | Jon Woods |
+| **Historical Advisor** | Mike Ashworth |
+| **Produced By** | Amina Razaq |
+| **Production Manager** | John Folkard |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00148.md)

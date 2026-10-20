@@ -8,162 +8,14 @@
   ],
   "narrators": [],
   "crew": {
-    "Editor": [
-      "Michael Newton",
-      "Scot Kelly"
-    ],
-    "Lead Assistant Editor": [
-      "Scott R. Dixon"
-    ],
-    "Assistant Editor": [
-      "Isaiah Dyer"
-    ],
-    "Post-Production Supervisor": [
-      "Andrew Moser"
-    ],
-    "SVP, Production Operations": [
-      "Ed Russo"
-    ],
-    "VP, Production Management": [
-      "Patricia Paredes Saez"
-    ],
-    "Production Manager": [
-      "Kathy Williams",
-      "Shelia Collins"
-    ],
-    "Supervising Producers, Post-Production": [
-      "Helena Greenwald",
-      "Mike Giordano"
-    ],
-    "Post-Production Coordinator": [
-      "Denise McGillicuddy"
-    ],
-    "Post-Production Assistant": [
-      "Samantha Lochs"
-    ],
-    "Graphics": [
-      "Ballast U"
-    ],
-    "Post-Production Facility": [
-      "Motion Picture Enterprises, Inc."
-    ],
-    "Online Producer": [
-      "Brian Street"
-    ],
-    "Online Editor and Colorist": [
-      "Martin Behm"
-    ],
-    "Audio Mixer": [
-      "Andrew Kay"
-    ],
-    "Audio Post Coordinator": [
-      "Catherine Hargalli"
-    ],
-    "Finishing Associate Producer": [
-      "RT Smith Jr."
-    ],
-    "Lead Production Accountant": [
-      "Sophiya Banu"
-    ],
-    "Assistant Production Accountants": [
-      "Samara Choit",
-      "Hayden McComas"
-    ],
-    "Junior Production Accountant": [
-      "Phurbu Nepali"
-    ],
     "Accounting Clerk": [
       "Julia Caudillo"
     ],
-    "Executive-in-Charge of Production": [
-      "Patrice Andrews"
+    "Animation": [
+      "Victor Bonilla"
     ],
-    "Supervising Producers": [
-      "Allie Breslin"
-    ],
-    "Line Producer": [
-      "Melissa Ray"
-    ],
-    "Senior Manager, Rights & Clearances": [
-      "Elio Concepcion"
-    ],
-    "Production and Development Assistant": [
-      "Zoe Resnick"
-    ],
-    "Executive Producers": [
-      "John Verhoff",
-      "Jim Pasquarella",
-      "Brandy Crawford-Uriu",
-      "Steve Ascher",
-      "Matt Pearl",
-      "Kristy Sabat"
-    ],
-    "Coordinating Producer": [
-      "Liv Fidler"
-    ],
-    "Programming Coordinator": [
-      "Adam Rotunda"
-    ],
-    "Post Producer": [
-      "Lauren Vance",
-      "Tim Knauff"
-    ],
-    "Associate Producers": [
-      "Andre Bellamy-Cesar",
-      "Kem Poston",
-      "Savannah Street"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Written and Produced by": [
-      "Greg DeHart"
-    ],
-    "Produced by": [
-      "Dennis Lofgren"
-    ],
-    "Narration": [
-      "Lloyd Sherr"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Associate Producer": [
-      "Jemi Rohlin"
-    ],
-    "Music": [
-      "Alan Ett Music Group",
-      "MIBE Music"
-    ],
-    "Created By": [
-      "Bruce Nash"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Clearance Coordinator": [
-      "Kiana Moore"
-    ],
-    "Coordinator": [
-      "Maya Sykes"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Researcher": [
-      "Sophia Chastain"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Production Accountant": [
-      "Sandra Ta"
+    "Assistant Editor": [
+      "Isaiah Dyer"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
@@ -172,8 +24,23 @@
     "Assistant Post Coordinator": [
       "David Kobayashi"
     ],
-    "Post Assist": [
-      "Cory Zarker"
+    "Assistant Production Accountants": [
+      "Samara Choit",
+      "Hayden McComas"
+    ],
+    "Associate Producer": [
+      "Jemi Rohlin"
+    ],
+    "Associate Producers": [
+      "Andre Bellamy-Cesar",
+      "Kem Poston",
+      "Savannah Street"
+    ],
+    "Audio Mixer": [
+      "Andrew Kay"
+    ],
+    "Audio Post Coordinator": [
+      "Catherine Hargalli"
     ],
     "Camera": [
       "Travis Babcock",
@@ -184,6 +51,42 @@
       "Lon Magdich",
       "Stan Taylor",
       "Jake Wojtkowski"
+    ],
+    "Clearance Coordinator": [
+      "Kiana Moore"
+    ],
+    "Coordinating Producer": [
+      "Liv Fidler"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Michael Newton",
+      "Scot Kelly"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Executive Producers": [
+      "John Verhoff",
+      "Jim Pasquarella",
+      "Brandy Crawford-Uriu",
+      "Steve Ascher",
+      "Matt Pearl",
+      "Kristy Sabat"
+    ],
+    "Executive-In-Charge Of Production": [
+      "Patrice Andrews"
     ],
     "Field Audio": [
       "Jonathan Burgess",
@@ -196,17 +99,114 @@
       "Ian Lomme",
       "James (W) Ess"
     ],
+    "Finishing Associate Producer": [
+      "RT Smith Jr."
+    ],
+    "Graphics": [
+      "Ballast U"
+    ],
+    "Junior Production Accountant": [
+      "Phurbu Nepali"
+    ],
+    "Lead Assistant Editor": [
+      "Scott R. Dixon"
+    ],
+    "Lead Production Accountant": [
+      "Sophiya Banu"
+    ],
+    "Line Producer": [
+      "Melissa Ray"
+    ],
+    "Music": [
+      "Alan Ett Music Group",
+      "MIBE Music"
+    ],
+    "Narration": [
+      "Lloyd Sherr"
+    ],
     "Online Editor": [
       "John Price"
+    ],
+    "Online Editor And Colorist": [
+      "Martin Behm"
+    ],
+    "Online Producer": [
+      "Brian Street"
+    ],
+    "Post Assist": [
+      "Cory Zarker"
+    ],
+    "Post Producer": [
+      "Lauren Vance",
+      "Tim Knauff"
+    ],
+    "Post-Production Assistant": [
+      "Samantha Lochs"
+    ],
+    "Post-Production Coordinator": [
+      "Denise McGillicuddy"
+    ],
+    "Post-Production Facility": [
+      "Motion Picture Enterprises, Inc."
+    ],
+    "Post-Production Supervisor": [
+      "Andrew Moser"
+    ],
+    "Produced By": [
+      "Dennis Lofgren"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Sandra Ta"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Kathy Williams",
+      "Shelia Collins"
+    ],
+    "Production And Development Assistant": [
+      "Zoe Resnick"
+    ],
+    "Programming Coordinator": [
+      "Adam Rotunda"
+    ],
+    "Researcher": [
+      "Sophia Chastain"
+    ],
+    "Svp, Production Operations": [
+      "Ed Russo"
+    ],
+    "Senior Manager, Rights &amp; Clearances": [
+      "Elio Concepcion"
     ],
     "Sound Mixer": [
       "Nozomu Furuya-Hirota"
     ],
-    "Animation": [
-      "Victor Bonilla"
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Supervising Producers": [
+      "Allie Breslin"
+    ],
+    "Supervising Producers, Post-Production": [
+      "Helena Greenwald",
+      "Mike Giordano"
     ],
     "Technical Consultant": [
       "International Carwash Association"
+    ],
+    "Vp, Production Management": [
+      "Patricia Paredes Saez"
+    ],
+    "Written And Produced By": [
+      "Greg DeHart"
     ]
   }
 }

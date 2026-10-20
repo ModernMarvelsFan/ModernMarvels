@@ -9,54 +9,13 @@
   ],
   "narrators": [],
   "crew": {
-    "For The History Channel / Supervising Producer": [
-      "Beth Dietrich"
-    ],
-    "For The History Channel / Executive Producer": [
-      "Charlie Maday"
-    ],
-    "Clearance Supervisor": [
-      "Leslie Anne Clark"
-    ],
-    "Researchers": [
-      "Erik Hietter",
-      "Tracy Hood",
-      "Julieann Pavesi"
-    ],
-    "Camera": [
-      "Chris Bell",
-      "Ed Springer",
-      "Ted Horton",
-      "John Sorapure"
-    ],
-    "Field Audio": [
-      "Michael Bidese",
-      "Robert Fetzer",
-      "Adam Kaplan",
-      "Joe Walters"
-    ],
-    "Post Production Coordinator": [
-      "Leanne M. Anaya Reece"
+    "Animation": [
+      "Doug Whitney"
     ],
     "Assistant Editors": [
       "Spencer Keimon",
       "Stuart Brodlieb",
       "Harris Cohen"
-    ],
-    "Post Production Assistant": [
-      "Gary Reid"
-    ],
-    "Audio Coordinator": [
-      "Derrick McDaniel"
-    ],
-    "Online Editor": [
-      "David Rex"
-    ],
-    "Sound Mixer": [
-      "Sam Kaufmann"
-    ],
-    "Production Auditor": [
-      "Dani Eslin"
     ],
     "Assistant Production Accountants": [
       "Judi Minitello",
@@ -65,14 +24,55 @@
     "Assistant To Don Cambou": [
       "Tim Shell"
     ],
-    "Production Secretary": [
-      "Kathy Exner"
+    "Audio Coordinator": [
+      "Derrick McDaniel"
+    ],
+    "Camera": [
+      "Chris Bell",
+      "Ed Springer",
+      "Ted Horton",
+      "John Sorapure"
+    ],
+    "Clearance Supervisor": [
+      "Leslie Anne Clark"
+    ],
+    "Field Audio": [
+      "Michael Bidese",
+      "Robert Fetzer",
+      "Adam Kaplan",
+      "Joe Walters"
+    ],
+    "Executive Producer": [
+      "Charlie Maday"
+    ],
+    "Supervising Producer": [
+      "Beth Dietrich"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Production Assistant": [
+      "Gary Reid"
+    ],
+    "Post Production Coordinator": [
+      "Leanne M. Anaya Reece"
     ],
     "Production Assistant": [
       "Eric Schaefer"
     ],
-    "Animation": [
-      "Doug Whitney"
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Secretary": [
+      "Kathy Exner"
+    ],
+    "Researchers": [
+      "Erik Hietter",
+      "Tracy Hood",
+      "Julieann Pavesi"
+    ],
+    "Sound Mixer": [
+      "Sam Kaufmann"
     ]
   }
 }

@@ -10,50 +10,23 @@
     "Max Raphael"
   ],
   "crew": {
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Music": [
-      "AMI Music Group"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Researcher": [
-      "Rick George"
-    ],
     "Accountants": [
       "Diana Stolpe",
       "Malia Marsh",
       "Leslie Pinkstaff"
     ],
-    "Coordinator": [
-      "Gregory Zide"
+    "Animated Graphics": [
+      "Adam Goodwin"
+    ],
+    "Animation": [
+      "FlyingBlue Studio"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Nate Dusek"
     ],
-    "Post Coordinator": [
-      "Gaylen Kobayashi"
-    ],
-    "VO Coordinator": [
-      "Rick George"
+    "Associate Producer": [
+      "Jeff Mercer"
     ],
     "Asst Post Coordinator": [
       "Cory Parker"
@@ -66,6 +39,21 @@
       "Stan Taylor",
       "Douglas Weisman"
     ],
+    "Coordinator": [
+      "Gregory Zide"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Editor": [
+      "Robert Lattanzio"
+    ],
+    "Executive Producer": [
+      "John Verhoff"
+    ],
     "Field Audio": [
       "Dan Cook",
       "Don Hooper",
@@ -74,42 +62,51 @@
       "Tammy Sortor",
       "Greg Stidham"
     ],
+    "Programming Coordinator": [
+      "Adam Rosante"
+    ],
+    "Music": [
+      "AMI Music Group"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "FlyingBlue Studio"
+    "Post Coordinator": [
+      "Gaylen Kobayashi"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Rick George"
     ],
     "Sound Mixer": [
       "Ryan Young"
-    ],
-    "Animated Graphics": [
-      "Adam Goodwin"
     ],
     "Technical Consultants": [
       "Daniel Burrus",
       "Brian Cooley"
     ],
-    "For History / Programming Coordinator": [
-      "Adam Rosante"
+    "Vo Coordinator": [
+      "Rick George"
     ],
-    "For History / Executive Producer": [
-      "John Verhoff"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Jeff Cole"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Associate Producer": [
-      "Jeff Mercer"
-    ],
-    "Editor": [
-      "Robert Lattanzio"
     ]
   }
 }

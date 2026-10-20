@@ -4,83 +4,83 @@
   "year": "1997",
   "copyright": "© 1997 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ALAN ETT MUSIC GROUP, INC."
+    "Alan Ett Music Group, Inc."
   ],
   "narrators": [
-    "HARLAN SAPERSTEIN"
+    "Harlan Saperstein"
   ],
   "crew": {
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Narrated by": [
-      "HARLAN SAPERSTEIN"
-    ],
-    "Music by": [
-      "ALAN ETT"
-    ],
-    "Production Finance Supervisor": [
-      "PAUL DZILVELIS"
-    ],
-    "Production Manager": [
-      "W. GREG BOHNERT"
-    ],
-    "Post Production Supervisor": [
-      "MIKE PARENTE"
-    ],
-    "Camera Operator": [
-      "PAUL DOUGHERTY"
-    ],
-    "Field Audio": [
-      "TOM STATON"
-    ],
-    "Researchers": [
-      "RICK BENAVIDES"
-    ],
-    "Post Production Coordinator": [
-      "BRADY HECK"
-    ],
-    "Audio Post Production": [
-      "ALAN ETT MUSIC GROUP, INC.",
-      "SAM KAUFMAN",
-      "DANIEL COLMAN"
-    ],
-    "Graphics by": [
-      "DOUG WHITNEY"
-    ],
-    "Production Assistants": [
-      "KEITH DOLS",
-      "JASON LENZI"
-    ],
-    "Footage Consultant": [
-      "TED TROLL"
-    ],
     "Assistant Production Accountants": [
-      "LINDA SCRIBER",
-      "THIA KULMA"
+      "Linda Scriber",
+      "Thia Kulma"
     ],
-    "Assistant to Don Cambou": [
-      "TIM SHELL"
-    ],
-    "Series Manager": [
-      "ELYSE MIRANDA"
-    ],
-    "Executive Producer": [
-      "CHARLIE MADAY",
-      "BOB JAFFE"
-    ],
-    "Supervising Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "NOAH MOROWITZ"
+    "Assistant To Don Cambou": [
+      "Tim Shell"
     ],
     "Associate Producers": [
-      "J.V. MARTIN",
-      "LUKE ELLIS"
+      "J.V. Martin",
+      "Luke Ellis"
     ],
-    "Created by": [
-      "BRUCE NASH"
+    "Audio Post Production": [
+      "Alan Ett Music Group, Inc.",
+      "Sam Kaufman",
+      "Daniel Colman"
+    ],
+    "Camera Operator": [
+      "Paul Dougherty"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Executive Producer": [
+      "Charlie Maday",
+      "Bob Jaffe"
+    ],
+    "Field Audio": [
+      "Tom Staton"
+    ],
+    "Footage Consultant": [
+      "Ted Troll"
+    ],
+    "Graphics By": [
+      "Doug Whitney"
+    ],
+    "Music By": [
+      "Alan Ett"
+    ],
+    "Narrated By": [
+      "Harlan Saperstein"
+    ],
+    "Post Production Coordinator": [
+      "Brady Heck"
+    ],
+    "Post Production Supervisor": [
+      "Mike Parente"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistants": [
+      "Keith Dols",
+      "Jason Lenzi"
+    ],
+    "Production Finance Supervisor": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "W. Greg Bohnert"
+    ],
+    "Researchers": [
+      "Rick Benavides"
+    ],
+    "Series Manager": [
+      "Elyse Miranda"
+    ],
+    "Supervising Producer": [
+      "Don Cambou"
+    ],
+    "Written And Produced By": [
+      "Noah Morowitz"
     ]
   }
 }

@@ -11,35 +11,11 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Music": [
-      "Guy Thomas"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Production Accountant": [
-      "Sheridan Liu"
-    ],
-    "Researcher": [
-      "Kyle Salners"
-    ],
-    "Coordinator": [
-      "Gregory Zide"
+    "Animation": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
@@ -47,9 +23,6 @@
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Cory Parker"
     ],
     "Camera": [
       "Dave Baker",
@@ -62,6 +35,21 @@
       "Eric Thornton",
       "Lou Yellin"
     ],
+    "Coordinator": [
+      "Gregory Zide"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "John Verhoff"
+    ],
     "Field Audio": [
       "Rene Cosson",
       "Rusty Duggan",
@@ -73,17 +61,51 @@
       "Jason Richmond",
       "James W. Siler, III"
     ],
+    "Programming Coordinator": [
+      "Adam Rosante"
+    ],
+    "Music": [
+      "Guy Thomas"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "Victor Bornia"
+    "Post Assist": [
+      "Cory Parker"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc.",
+      "For History"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Sheridan Liu"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Kyle Salners"
     ],
     "Sound Mixer": [
       "Sam Kaufmann"
     ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Supervising Producer": [
+      "Ron Nelson"
     ],
     "Technical Consultants": [
       "Airbus S.A.S.",
@@ -92,33 +114,8 @@
       "Caterpillar",
       "MAN Diesel"
     ],
-    "Produced by": [
-      "Actuality Productions, Inc.",
-      "For History"
-    ],
-    "For History / Programming Coordinator": [
-      "Adam Rosante"
-    ],
-    "For History / Executive Producer": [
-      "John Verhoff"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Melissa Fuller"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Editor": [
-      "Lou LaProcido"
-    ],
-    "Narrator": [
-      "Max Raphael"
     ]
   }
 }

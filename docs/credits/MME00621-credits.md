@@ -23,14 +23,13 @@
 | **Camera** | Bob Cundari, Tom Everly, John Kabasakalis, Ed Kukla, Lon Magdich |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
+| **Executive Producers** | Michael Stiller, John Verhoff |
 | **Field Audio** | Brian Garfield, Ryan Handley, Jay Quinn, Charles Rohr, Jay Round, Tom Staton, Steve Theroux |
-| **For History / Executive Producers** | Michael Stiller, John Verhoff |
-| **For History / Programming Coordinators** | Kristen Burns, Adam Rosante |
 | **Music** | AMI Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
@@ -39,9 +38,10 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinators** | Kristen Burns, Adam Rosante |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Penn Schofield |
+| **Written And Produced By** | Penn Schofield |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00621.md)

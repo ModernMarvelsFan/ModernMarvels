@@ -5,107 +5,107 @@
   "copyright": "© 2010 A&E Television Networks. All Rights Reserved.",
   "studios": [
     "Half Yard Productions",
-    "PIXELDUST STUDIOS",
-    "TAKOMA MEDIA"
+    "Pixeldust Studios",
+    "Takoma Media"
   ],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "Field Producers": [
-      "BROOKE BARROWS",
-      "SCOTT MICHNICK",
-      "SYDNE WHITE"
-    ],
-    "Researcher": [
-      "ANN GRAU DUVALL"
-    ],
-    "Associate Producers": [
-      "ARJUN V. RAO",
-      "AMBER SEYLER",
-      "KELLY TUCKER"
-    ],
-    "Directors of Photography": [
-      "ROBERT CASE",
-      "DALLAS CHILDERS",
-      "ROB FEATHERSTONE",
-      "MATT FRANKLIN",
-      "JOHN MANIS",
-      "ANDREW SCHWARTZ"
-    ],
-    "Sound": [
-      "PABLO DURANA",
-      "MATTHEW ENGEL",
-      "MARK MARIACA",
-      "BRAD MORMON",
-      "N.G. POHOLCHUK",
-      "ROBERT PORTER"
+    "Additional Editing": [
+      "Austin Elston",
+      "Lara Underwood"
     ],
     "Additional Footage": [
-      "CHRIS BERGER, THE CHRISTOPHER GROUP INTERNATIONAL"
-    ],
-    "Narrator": [
-      "MAX RAPHAEL"
-    ],
-    "Music": [
-      "AUDIO NETWORKS",
-      "EXTREME MUSIC"
-    ],
-    "Sound Design": [
-      "TAKOMA MEDIA"
-    ],
-    "Online Editor/Colorist": [
-      "MATT DOE"
-    ],
-    "Digitizer": [
-      "MARCIA ROBUSTO"
+      "Chris Berger, The Christopher Group International"
     ],
     "Assistant Editors": [
-      "ADAM KIRK",
-      "WANAKHAVI WAKHISI"
-    ],
-    "Additional Editing": [
-      "AUSTIN ELSTON",
-      "LARA UNDERWOOD"
-    ],
-    "Graphics": [
-      "DAVE GLANZ",
-      "PIXELDUST STUDIOS"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "JENNIFER PARTIN"
-    ],
-    "Post Production Coordinator": [
-      "CAMERON YOUNG"
-    ],
-    "Post Production Supervisor": [
-      "LIAM MONSCHEIN"
+      "Adam Kirk",
+      "Wanakhavi Wakhisi"
     ],
     "Associate Producer": [
-      "SARAH ROONEY"
+      "Sarah Rooney"
     ],
-    "Programming Coordinator": [
-      "KELLY VORASI"
+    "Associate Producers": [
+      "Arjun V. Rao",
+      "Amber Seyler",
+      "Kelly Tucker"
     ],
     "Coordinating Producer": [
-      "CARTER FIGUEROA"
+      "Carter Figueroa"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Digitizer": [
+      "Marcia Robusto"
+    ],
+    "Directors Of Photography": [
+      "Robert Case",
+      "Dallas Childers",
+      "Rob Featherstone",
+      "Matt Franklin",
+      "John Manis",
+      "Andrew Schwartz"
     ],
     "Executive Producer": [
-      "JOHN VERHOFF"
+      "John Verhoff"
     ],
     "Executive Producers": [
-      "SEAN GALLAGHER",
-      "ABBY GREENSFELDER",
-      "LIBBY RICHMAN"
+      "Sean Gallagher",
+      "Abby Greensfelder",
+      "Libby Richman"
     ],
-    "Series Producer": [
-      "BRIAN LEONARD"
+    "Field Producers": [
+      "Brooke Barrows",
+      "Scott Michnick",
+      "Sydne White"
+    ],
+    "Graphics": [
+      "Dave Glanz",
+      "Pixeldust Studios"
+    ],
+    "Music": [
+      "Audio Networks",
+      "Extreme Music"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Colorist": [
+      "Matt Doe"
+    ],
+    "Post Production Coordinator": [
+      "Cameron Young"
+    ],
+    "Post Production Supervisor": [
+      "Liam Monschein"
     ],
     "Producer": [
-      "JENNIFER ANDERSON"
+      "Jennifer Anderson"
+    ],
+    "Production Manager": [
+      "Jennifer Partin"
+    ],
+    "Programming Coordinator": [
+      "Kelly Vorasi"
+    ],
+    "Researcher": [
+      "Ann Grau Duvall"
+    ],
+    "Series Producer": [
+      "Brian Leonard"
+    ],
+    "Sound": [
+      "Pablo Durana",
+      "Matthew Engel",
+      "Mark Mariaca",
+      "Brad Mormon",
+      "N.G. Poholchuk",
+      "Robert Porter"
+    ],
+    "Sound Design": [
+      "Takoma Media"
     ]
   }
 }

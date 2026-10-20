@@ -11,35 +11,11 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Music": [
-      "Alan Ett Music Group"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Production Accountant": [
-      "Sheridan Liu"
-    ],
-    "Researcher": [
-      "Kyle Salners"
-    ],
-    "Coordinator": [
-      "Gregory Zide"
+    "Animation": [
+      "Glenn Takakjian"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
@@ -48,9 +24,6 @@
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
     ],
-    "Post Assist": [
-      "Cory Parker"
-    ],
     "Camera": [
       "Jon Belinski",
       "Alex Gazio",
@@ -58,6 +31,21 @@
       "Rob Lee",
       "Lon Magdich",
       "Stephen Taylor"
+    ],
+    "Coordinator": [
+      "Gregory Zide"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "John Verhoff"
     ],
     "Field Audio": [
       "Dan Cook",
@@ -69,17 +57,50 @@
       "James W. Siler III",
       "Mark Solomon"
     ],
+    "Field Producer": [
+      "John Swasey"
+    ],
+    "Programming Coordinator": [
+      "Adam Rosante"
+    ],
+    "Music": [
+      "Alan Ett Music Group"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "Glenn Takakjian"
+    "Post Assist": [
+      "Cory Parker"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Sheridan Liu"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Kyle Salners"
     ],
     "Sound Mixer": [
       "Nozomu Furuya-Hirota"
     ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Supervising Producer": [
+      "Ron Nelson"
     ],
     "Technical Consultants": [
       "American Transport Systems",
@@ -91,34 +112,10 @@
       "Netflix, Inc.",
       "OneLegacy",
       "Urban Express",
-      "UPS"
+      "Ups"
     ],
-    "Field Producer": [
-      "John Swasey"
-    ],
-    "For History / Programming Coordinator": [
-      "Adam Rosante"
-    ],
-    "For History / Executive Producer": [
-      "John Verhoff"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Lawrence Givens III"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Editor": [
-      "Lou LaProcido"
-    ],
-    "Narrator": [
-      "Max Raphael"
     ]
   }
 }

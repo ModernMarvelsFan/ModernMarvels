@@ -14,29 +14,29 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation by** | Doug Whitney |
+| **Animation By** | Doug Whitney |
 | **Assistant Accountants** | Sheridan Liu, Dennis Luciani |
 | **Assistant Editor** | Taylor Greathead |
 | **Camera** | Brandon Green, Peter Krajewski, Eric Nulsen |
 | **Clearance Coordinator** | Susan Wiehmann |
 | **Coordinator** | Rosalyn McVay |
-| **Created by** | Bruce Nash |
-| **Edited by** | Pamela Malouf |
+| **Created By** | Bruce Nash |
+| **Edited By** | Pamela Malouf |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Dave Berliner |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett Music Group |
-| **Narrated by** | Max Raphael |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | Doug Nolan |
 | **Post Assist** | Alexander Rubinow |
 | **Post Coordinator** | Laura Steinhoff |
 | **Post Producer** | Lauren Levine |
-| **Produced by** | Actuality Productions Inc. |
+| **Produced By** | Actuality Productions Inc. |
 | **Producer** | Bruce Nash |
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Paul Ray |
 | **Voice Over Coordinator** | Melanie Pipes |
-| **Written and Produced by** | Luke Ellis |
+| **Written And Produced By** | Luke Ellis |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00340.md)

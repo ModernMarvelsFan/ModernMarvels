@@ -8,68 +8,17 @@
     "Max Raphael"
   ],
   "crew": {
-    "Executive Producer": [
-      "Don Cambou"
+    "Additional Animation": [
+      "Adam Goodwin"
     ],
-    "Written and Produced by": [
-      "Philip Kruener"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Erika D. Smith"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Editor": [
-      "Scot Kelly"
-    ],
-    "Music": [
-      "Guy Thomas"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Production Accountant": [
-      "Sheridan Liu"
-    ],
-    "Coordinator": [
-      "Maya Sykes"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
-    "Researcher": [
-      "Sapna Chhabra"
+    "Animation": [
+      "Victor Bornia"
     ],
     "Assistant Editor": [
       "Alexander Rubinow"
     ],
-    "Post Assist": [
-      "Cory Parker"
+    "Associate Producer": [
+      "Erika D. Smith"
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
@@ -81,6 +30,27 @@
       "Terry Pratt",
       "Gilbert Prowler"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Scot Kelly"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Thomas Echlin",
       "Bryan Evans",
@@ -90,17 +60,47 @@
       "Greg Stidham",
       "Paul Wustrack"
     ],
+    "Music": [
+      "Guy Thomas"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "Victor Bornia"
+    "Post Assist": [
+      "Cory Parker"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Sheridan Liu"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Sapna Chhabra"
     ],
     "Sound Mixer": [
       "Mark Jensen"
     ],
-    "Additional Animation": [
-      "Adam Goodwin"
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "Philip Kruener"
     ]
   }
 }

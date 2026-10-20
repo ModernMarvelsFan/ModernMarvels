@@ -8,59 +8,14 @@
     "Max Raphael"
   ],
   "crew": {
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Gloria L. Morris"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Editor": [
-      "Robert Lattanzio"
-    ],
-    "Music": [
-      "Guy Thomas"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Coordinator": [
-      "Maya Sykes"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Researcher": [
-      "Sapna Chhabra"
+    "Animation": [
+      "Whitney Digital, Inc."
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
@@ -68,9 +23,6 @@
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Cory Parker"
     ],
     "Camera": [
       "Gary Brooks",
@@ -80,6 +32,27 @@
       "Richard Neill",
       "Charles Tudor"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Robert Lattanzio"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Owen Bissell",
       "Charles Rohr",
@@ -87,17 +60,41 @@
       "Thomas Shafer",
       "Tim Stringfellow"
     ],
+    "Music": [
+      "Guy Thomas"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "Whitney Digital, Inc."
+    "Post Assist": [
+      "Cory Parker"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Sapna Chhabra"
     ],
     "Sound Mixer": [
       "Mark Jensen"
     ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Supervising Producer": [
+      "Ron Nelson"
     ],
     "Technical Consultants": [
       "Carol Bennett-Clarke, PhD",
@@ -108,6 +105,9 @@
       "Scott Mason",
       "Dennis E. Morse, PhD",
       "Tom Snyder"
+    ],
+    "Written And Produced By": [
+      "Gloria L. Morris"
     ]
   }
 }

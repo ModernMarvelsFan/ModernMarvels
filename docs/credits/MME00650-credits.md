@@ -20,9 +20,9 @@
 | **Camera** | Richard Campbell, Derek Hanlon, John Kabasakalis, Jim Ledoux, Mark Matusiak, Chad Miller, John Reed, Diana Wilmar |
 | **Clearance Coordinator** | Kiana Moore |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Scot Kelly |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Al Cambon, Michael Durski, Keith Highley, Jeff Hoien, Ian Loomer, Chuck Luther, Chris Procopio, Greg Stidham |
@@ -41,7 +41,7 @@
 | **Researcher** | Sapna Chhabra |
 | **Sound Mixer** | Nozomu Furuya-Hirota |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Jared Cook |
+| **Written And Produced By** | Jared Cook |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00650.md)

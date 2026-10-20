@@ -7,47 +7,47 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `©1991 A&E Television Networks All Rights Reserved`
-* **Production Company:** Greystone Communications, Inc., The History Channel, A&E Television Networks, WOODHOLLY PRODUCTIONS, MATCHFRAME VIDEO, PREMORE, PANAVIDEO
+* **Production Company:** Greystone Communications, Inc., The History Channel, A&E Television Networks, Woodholly Productions, Matchframe Video, Premore, Panavideo
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **"Aircraft Carriers" Produced By** | STEPHANIE HAFFNER |
-| **Addtional Editing** | CATHERINE GIARDINA, JONATHAN MOSER, DINO CASTRO |
-| **Assistant Camera** | STEVE GREEN |
-| **Associate Director** | ROBERT LIHANI |
-| **Associate Producers** | STEPHANIE HAFFNER, ROBERT BEEMER |
-| **Audio Engineer** | RON LUSTBERG |
-| **Coordinating Producer** | JOHN CORRY |
-| **Director** | ROBERT KIRK |
-| **Director of Photography** | DONALD M. MCCUAIG |
-| **Driver** | RANDY BITTLE |
-| **Editorial Consultant** | PAUL BEAVER, PUBLISHER, JANES DEFENCE WEEKLY |
-| **Editorial Consultants** | COL. WALTER J. BOYNE USAF (RET.), FORMER DIRECTOR, NATIONAL AIR &amp; SPACE MUSEUM, Steven Llanso, Senior Weapons Editor, Periscope U.S. Naval Institute Military Database, LIET. GEN. F.J. BROWN U.S. ARMY (RET.) |
-| **Electrician** | LENNY LEVINE |
-| **Executive Producer** | CRAIG HAFFNER |
-| **Executive in Charge of Production** | STEVEN LEWIS |
-| **Field Camera** | GORDON HOOVER, BOWDON HUNT, BRIAN PRATT, JOHN SORAPURE |
-| **Field Engineers** | SCOTT DUNCAN, T.J. LANGDON, PHILLIP PRATT, ANDREW WILLMENT |
-| **Film Research** | DON HOUGHTALING, KLARA FOELLER, BONNIE ROWAN |
-| **Filmlook Process By** | WOODHOLLY PRODUCTIONS |
-| **Gaffer** | LARRY ROTH |
-| **Graphics** | JOHANNA BERTOLDO, ROBERT VEGA |
-| **Grip** | TONY HICKS |
-| **Key Grip** | JACK PALINKAS |
-| **Main Title Design** | JONATHAN MOSER |
-| **Music By** | CHRISTOPHER STONE |
-| **Post Production Audio** | CRAIG PLACHY |
-| **Post Production Services** | MATCHFRAME VIDEO, PREMORE, PANAVIDEO |
-| **Producer in Great Britain** | PAUL BERNARD |
-| **Production Assistants** | RYAN RELICH, JAMIE ERLICHT, TONYA LARSEN, MICHELE VIGNIERI |
-| **Senior Editors** | JEFF CALDWELL, STEVE POMERANTZ |
-| **Senior Producer** | ROBERT KIRK |
-| **Series Producer** | ROBERT LIHANI |
-| **Sound Mixer** | KEN WILLINGHAM |
-| **Teleprompter** | GLENN HERNITER |
+| **"Aircraft Carriers" Produced By** | Stephanie Haffner |
+| **Addtional Editing** | Catherine Giardina, Jonathan Moser, Dino Castro |
+| **Assistant Camera** | Steve Green |
+| **Associate Director** | Robert Lihani |
+| **Associate Producers** | Stephanie Haffner, Robert Beemer |
+| **Audio Engineer** | Ron Lustberg |
+| **Coordinating Producer** | John Corry |
+| **Director** | Robert Kirk |
+| **Director Of Photography** | Donald M. McCuaig |
+| **Driver** | Randy Bittle |
+| **Editorial Consultant** | Paul Beaver, Publisher, Janes Defence Weekly |
+| **Editorial Consultants** | Col. Walter J. Boyne Usaf (ret.), Former Director, National Air &amp; Space Museum, Steven Llanso, Senior Weapons Editor, Periscope U.S. Naval Institute Military Database, Liet. Gen. F.J. Brown U.S. Army (ret.) |
+| **Electrician** | Lenny Levine |
+| **Executive In Charge Of Production** | Steven Lewis |
+| **Executive Producer** | Craig Haffner |
+| **Field Camera** | Gordon Hoover, Bowdon Hunt, Brian Pratt, John Sorapure |
+| **Field Engineers** | Scott Duncan, T.J. Langdon, Phillip Pratt, Andrew Willment |
+| **Film Research** | Don Houghtaling, Klara Foeller, Bonnie Rowan |
+| **Filmlook Process By** | Woodholly Productions |
+| **Gaffer** | Larry Roth |
+| **Graphics** | Johanna Bertoldo, Robert Vega |
+| **Grip** | Tony Hicks |
+| **Key Grip** | Jack Palinkas |
+| **Main Title Design** | Jonathan Moser |
+| **Music By** | Christopher Stone |
+| **Post Production Audio** | Craig Plachy |
+| **Post Production Services** | Matchframe Video, Premore, Panavideo |
+| **Producer In Great Britain** | Paul Bernard |
+| **Production Assistants** | Ryan Relich, Jamie Erlicht, Tonya Larsen, Michele Vignieri |
+| **Senior Editors** | Jeff Caldwell, Steve Pomerantz |
+| **Senior Producer** | Robert Kirk |
+| **Series Producer** | Robert Lihani |
+| **Sound Mixer** | Ken Willingham |
+| **Teleprompter** | Glenn Herniter |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00317.md)

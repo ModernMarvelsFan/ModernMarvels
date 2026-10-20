@@ -8,36 +8,36 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, The History Channel
-* **Narrator:** MIKKI DEL MONICO
+* **Narrator:** Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | JUDY GORDON, SHERIDAN LIU |
-| **Animation by** | DOUG WHITNEY |
-| **Assistant Editor** | LAURA STEINHOFF |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Camera** | LUKE ELLIS, KENNETH FREUND, BRANDON GREEN, GEORGE HARROLD, PETER KRAJEWSKI, LON MAGDICH, JIM MAHONEY, DYLAN S. O'BRIEN, JESSE PHINNEY, JOHN "JED" A. UDALL |
-| **Clearance Coordinator** | D.W. BLAKESLEE |
-| **Clearance Supervisor** | KATIE DEL CORE |
+| **Accountants** | Judy Gordon, Sheridan Liu |
+| **Animation By** | Doug Whitney |
+| **Assistant Editor** | Laura Steinhoff |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Camera** | Luke Ellis, Kenneth Freund, Brandon Green, George Harrold, Peter Krajewski, Lon Magdich, Jim Mahoney, Dylan S. O'Brien, Jesse Phinney, John "jed" A. Udall |
+| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | ROSALYN McVAY |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACOUES |
-| **Field Audio** | MIKE BORMAN, ERIC FITZ, CHARLES ROHR |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Historical Consultants** | DONALD FRIEDMAN, LEONARD JOSEPH, CAROL WILLIS |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistant** | GAYLEN KOBAYASHI |
-| **Post Producer** | TIM KNAUFF |
-| **Produced by** | ACTUALITY PRODUCTIONS, INC., History Television Network Productions |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | JEFFERY PERKINS, RAMSEY FAUCETT |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researcher** | MIKKI DEL MONICO |
-| **Sound Mixer** | PAUL RAY |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacoues |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Mike Borman, Eric Fitz, Charles Rohr |
+| **Historical Consultants** | Donald Friedman, Leonard Joseph, Carol Willis |
+| **Online Editor** | John Price |
+| **Post Assistant** | Gaylen Kobayashi |
+| **Post Producer** | Tim Knauff |
+| **Produced By** | Actuality Productions, Inc., History Television Network Productions |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Jeffery Perkins, Ramsey Faucett |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researcher** | Mikki Del Monico |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Mikki Del Monico |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00392.md)

@@ -22,9 +22,9 @@
 | **Camera** | Rob Gatti, Jed Henry, Stephen Henry, Mike Kelly, Dan Lantz, Lon Magdich, Chris Phillips, Tim Snider |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Maya Sykes, Emily Miyazawa |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Shelley Bohning, Dave Gannon, Danny Clayton, Jr., Maurice Danzy, Michael Harvey, Brandon Kappert, Robert Porter, Charles Rohr |
@@ -42,7 +42,7 @@
 | **Sound Mixer** | Sam Kaufmann |
 | **Supervising Producer** | Ron Nelson |
 | **Technical Consultants** | Kohler Co., Kazuo Sako, Gray Uhl, Unilever |
-| **Written and Produced by** | Beata Ziel |
+| **Written And Produced By** | Beata Ziel |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00631.md)

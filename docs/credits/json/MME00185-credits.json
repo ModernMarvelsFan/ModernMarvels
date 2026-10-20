@@ -12,53 +12,30 @@
     "Dawn Irwin"
   ],
   "crew": {
-    "CONSULTING PRODUCER": [
-      "Henry Schipper"
-    ],
-    "EDITED BY": [
-      "Andre Vaillancourt"
-    ],
-    "ADDITIONAL SEGMENTS EDITED BY": [
+    "Additional Segments Edited By": [
       "Pamela Malouf"
     ],
-    "NARRATOR": [
-      "Max Raphael"
+    "Additional Segments Produced By": [
+      "Angela Aiello"
     ],
-    "MUSIC BY": [
-      "Alan Ett Music Group"
+    "Animation": [
+      "Jason Phipps"
     ],
-    "PRODUCER": [
-      "Bruce Nash"
-    ],
-    "CREATED BY": [
-      "Bruce Nash"
-    ],
-    "PRODUCTION MANAGER": [
-      "Scott Berkson"
-    ],
-    "CLEARANCE SUPERVISOR": [
-      "Katie Del Core"
-    ],
-    "DIRECTOR OF RESEARCH": [
-      "Hildie Katibah"
-    ],
-    "ARCHIVIST": [
+    "Archivist": [
       "Nilda Jensen"
     ],
-    "CLEARANCE ASSISTANT": [
-      "Gabe Martinez"
+    "Assistant Editors": [
+      "Michael Lim",
+      "Stephen Franklin"
     ],
-    "RESEARCHERS": [
-      "Mark Savage",
-      "Diane Wai"
+    "Assistant Production Accountants": [
+      "Linda Scribner",
+      "Sonia Randazzo"
     ],
-    "HISTORICAL CONSULTANT": [
-      "Herb Muktarian"
+    "Associate Producer": [
+      "Mai-Ly Nguyen"
     ],
-    "FOOTAGE CONSULTANT": [
-      "Ted Troll"
-    ],
-    "CAMERA": [
+    "Camera": [
       "Michael Ford",
       "Dow H. Haynor",
       "Jim Houk",
@@ -69,7 +46,28 @@
       "John D. Westenhiser",
       "Mark Whaley"
     ],
-    "FIELD AUDIO": [
+    "Clearance Assistant": [
+      "Gabe Martinez"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Consulting Producer": [
+      "Henry Schipper"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Hildie Katibah"
+    ],
+    "Edited By": [
+      "Andre Vaillancourt"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Field Audio": [
       "Jeff Haynor",
       "Andy Kralik",
       "Terry Marton",
@@ -79,58 +77,60 @@
       "Aaron Webster",
       "Jeremy C. Zunk"
     ],
-    "POST PRODUCTION SUPERVISOR": [
-      "Jason Steinberg"
+    "Footage Consultant": [
+      "Ted Troll"
     ],
-    "POST PRODUCTION COORDINATOR": [
-      "Gary Reid"
-    ],
-    "VOICE OVER COORDINATOR": [
-      "Dawn Irwin"
-    ],
-    "ASSISTANT EDITORS": [
-      "Michael Lim",
-      "Stephen Franklin"
-    ],
-    "ONLINE EDITOR": [
-      "David Rex"
-    ],
-    "SOUND MIXER": [
-      "David Rex"
-    ],
-    "ANIMATION": [
-      "Jason Phipps"
-    ],
-    "GRAPHICS": [
+    "Graphics": [
       "Barry Hill"
     ],
-    "PRODUCTION AUDITOR": [
-      "Dani Eslin"
+    "Historical Consultant": [
+      "Herb Muktarian"
     ],
-    "ASSISTANT PRODUCTION ACCOUNTANTS": [
-      "Linda Scribner",
-      "Sonia Randazzo"
-    ],
-    "PRODUCTION COORDINATOR": [
-      "Michael Z. Davis"
-    ],
-    "PRODUCED BY": [
-      "Actuality Productions, Inc."
-    ],
-    "EXECUTIVE PRODUCER": [
-      "Don Cambou"
-    ],
-    "WRITTEN AND PRODUCED BY": [
-      "La Monte Westmoreland"
-    ],
-    "ADDITIONAL SEGMENTS PRODUCED BY": [
-      "Angela Aiello"
-    ],
-    "LINE PRODUCER": [
+    "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "ASSOCIATE PRODUCER": [
-      "Mai-Ly Nguyen"
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Production Coordinator": [
+      "Gary Reid"
+    ],
+    "Post Production Supervisor": [
+      "Jason Steinberg"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc."
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Michael Z. Davis"
+    ],
+    "Production Manager": [
+      "Scott Berkson"
+    ],
+    "Researchers": [
+      "Mark Savage",
+      "Diane Wai"
+    ],
+    "Sound Mixer": [
+      "David Rex"
+    ],
+    "Voice Over Coordinator": [
+      "Dawn Irwin"
+    ],
+    "Written And Produced By": [
+      "La Monte Westmoreland"
     ]
   }
 }

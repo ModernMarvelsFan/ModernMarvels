@@ -6,36 +6,27 @@
   "studios": [],
   "narrators": [],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
+    "Animation": [
+      "Doug Whitney"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Assistant Editors": [
+      "Stuart Brodlieb",
+      "Harris Cohen",
+      "Gary Reid"
     ],
-    "Line Producer": [
-      "Paul Dzilvelis"
+    "Assistant Production Accountants": [
+      "Linda Scribner",
+      "Francis Ramey"
     ],
-    "Music by": [
-      "Alan Ett"
+    "Associate Producer": [
+      "Christof Ritter"
     ],
-    "Production Manager": [
-      "Linda K. Clark"
-    ],
-    "Post Production Supervisor": [
-      "Scott Berkson"
-    ],
-    "Clearance Supervisor": [
-      "Charlotte Carpenter"
-    ],
-    "Clearance Coordinator": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Barry Hill"
-    ],
-    "Researchers": [
-      "Erik Hietter",
-      "Emily Lau"
+    "Audio": [
+      "K.C. Brown",
+      "Larry Farkas",
+      "Alejandro Fernandez-Ramos",
+      "Simon Kunz",
+      "Lucy Pickering"
     ],
     "Camera": [
       "Ueli Grossenbacher",
@@ -45,68 +36,74 @@
       "Arturo Jimenez Leon",
       "Dylan O'Brien"
     ],
-    "Audio": [
-      "K.C. Brown",
-      "Larry Farkas",
-      "Alejandro Fernandez-Ramos",
-      "Simon Kunz",
-      "Lucy Pickering"
+    "Clearance Coordinator": [
+      "Katie Del Core"
     ],
-    "Post Production Coordinator": [
-      "Jason Steinberg"
+    "Clearance Supervisor": [
+      "Charlotte Carpenter"
     ],
-    "Assistant Editors": [
-      "Stuart Brodlieb",
-      "Harris Cohen",
-      "Gary Reid"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Post Production Assistant": [
-      "Brian Volk"
+    "Director Of Research": [
+      "Barry Hill"
+    ],
+    "Edited By": [
+      "Sean Dash"
+    ],
+    "Executive Producer": [
+      "Charlie Maday"
+    ],
+    "Footage Consultant": [
+      "Ted Troll"
+    ],
+    "Supervising Producer": [
+      "Beth Dietrich"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett"
     ],
     "Online Editor": [
       "David Rex"
     ],
-    "Sound Mixer": [
-      "Matt Gruber"
+    "Post Production Assistant": [
+      "Brian Volk"
     ],
-    "Animation": [
-      "Doug Whitney"
+    "Post Production Coordinator": [
+      "Jason Steinberg"
     ],
-    "Production Auditor": [
-      "Dani Eslin"
+    "Post Production Supervisor": [
+      "Scott Berkson"
     ],
-    "Assistant Production Accountants": [
-      "Linda Scribner",
-      "Francis Ramey"
-    ],
-    "Production Coordinator": [
-      "Kathy Exner"
+    "Producer": [
+      "Bruce Nash"
     ],
     "Production Assistants": [
       "Maryalice R. Aragon",
       "Gwendolyn Murphy",
       "Jaime Schoenbrun"
     ],
-    "Footage Consultant": [
-      "Ted Troll"
+    "Production Auditor": [
+      "Dani Eslin"
     ],
-    "For The History Channel / Supervising Producer": [
-      "Beth Dietrich"
+    "Production Coordinator": [
+      "Kathy Exner"
     ],
-    "For The History Channel / Executive Producer": [
-      "Charlie Maday"
+    "Production Manager": [
+      "Linda K. Clark"
     ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Researchers": [
+      "Erik Hietter",
+      "Emily Lau"
     ],
-    "Written and Produced by": [
+    "Sound Mixer": [
+      "Matt Gruber"
+    ],
+    "Written And Produced By": [
       "Henry Schipper"
-    ],
-    "Associate Producer": [
-      "Christof Ritter"
-    ],
-    "Edited by": [
-      "Sean Dash"
     ]
   }
 }

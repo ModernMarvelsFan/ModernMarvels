@@ -22,9 +22,9 @@
 | **Camera** | Pat Drury, Tomas Hejda, John Kabasakalis, Dan Lantz, Lon Magdich, George Odell, Tom Pakulski, Scott Shelley, Jorge Trentin |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Allison Boon |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Motoshi Wakabayashi |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Ben Keller, Franz Moore, Saul Quinn, Adrian Sam, Morgan Schmidt-Feng, Mark Solomon, Dave Wason |
@@ -41,7 +41,7 @@
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
 | **Technical Consultants** | Lindt &amp; Sprüngli (USA) Inc., Masterfoods, Inc./MARS, Inc., Mark Schlott, Ed Seguine, World Cocoa Foundation |
-| **Written and Produced by** | Beata Ziel |
+| **Written And Produced By** | Beata Ziel |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00594.md)

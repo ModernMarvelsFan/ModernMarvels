@@ -6,88 +6,88 @@
   "studios": [],
   "narrators": [],
   "crew": {
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Music by": [
-      "ALAN ETT"
-    ],
-    "Production Manager": [
-      "LINDA K. CLARK"
-    ],
-    "Post Producer": [
-      "SCOTT BERKSON"
-    ],
-    "Clearance Supervisor": [
-      "CHARLOTTE CARPENTER"
-    ],
-    "Clearance Coordinator": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "BARRY HILL"
-    ],
-    "Researchers": [
-      "KRISTINA DJOKIC",
-      "ANTHONY LACQUES",
-      "GLORIA MORRIS"
-    ],
-    "Footage Consultant": [
-      "TED TROLL"
-    ],
-    "Post Production Supervisor": [
-      "JASON STEINBERG"
-    ],
-    "Post Production Coordinator": [
-      "GARY REID"
+    "Animation": [
+      "Scott Boyer"
     ],
     "Assistant Editor": [
-      "KAME STOLL"
-    ],
-    "Post Production Assistant": [
-      "STEPHEN FRANKLIN"
-    ],
-    "Online Editor": [
-      "DAVID REX"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Animation": [
-      "SCOTT BOYER"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
+      "Kame Stoll"
     ],
     "Assistant Production Accountants": [
-      "DETRICIA MEZA",
-      "LINDA SCRIBNER"
+      "Detricia Meza",
+      "Linda Scribner"
     ],
-    "Production Coordinator": [
-      "KATHY EXNER"
+    "Clearance Coordinator": [
+      "Katie Del Core"
     ],
-    "Production Assistants": [
-      "MARYALICE R. ARAGON",
-      "SUNI NIVENS"
+    "Clearance Supervisor": [
+      "Charlotte Carpenter"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Barry Hill"
+    ],
+    "Edited By": [
+      "Avi Fisher"
     ],
     "Executive Assistant": [
-      "JUDITH ANN WARREN"
+      "Judith Ann Warren"
     ],
     "Executive Producer": [
-      "DON CAMBOU"
+      "Don Cambou"
     ],
-    "Written and Produced by": [
-      "JEFF CONROY",
-      "ERIC LINDSTROM"
+    "Footage Consultant": [
+      "Ted Troll"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
     ],
-    "Edited by": [
-      "AVI FISHER"
+    "Music By": [
+      "Alan Ett"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Producer": [
+      "Scott Berkson"
+    ],
+    "Post Production Assistant": [
+      "Stephen Franklin"
+    ],
+    "Post Production Coordinator": [
+      "Gary Reid"
+    ],
+    "Post Production Supervisor": [
+      "Jason Steinberg"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistants": [
+      "Maryalice R. Aragon",
+      "Suni Nivens"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Kathy Exner"
+    ],
+    "Production Manager": [
+      "Linda K. Clark"
+    ],
+    "Researchers": [
+      "Kristina Djokic",
+      "Anthony Lacques",
+      "Gloria Morris"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Written And Produced By": [
+      "Jeff Conroy",
+      "Eric Lindstrom"
     ]
   }
 }

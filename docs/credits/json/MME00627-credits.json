@@ -8,56 +8,8 @@
     "Max Raphael"
   ],
   "crew": {
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Editor": [
-      "Brian Johnson"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Music": [
-      "AMI Music Group"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
     "Accountant": [
       "Sheridan Liu"
-    ],
-    "Coordinator": [
-      "Maya Sykes"
-    ],
-    "Researcher": [
-      "Sapna Chhabra"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
@@ -65,9 +17,6 @@
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Cory Parker"
     ],
     "Camera": [
       "Keith Barefoot",
@@ -82,6 +31,27 @@
       "Alex Rossner",
       "Dave Rutherford"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Brian Johnson"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Dave Berliner",
       "Eric Golden",
@@ -92,15 +62,45 @@
       "Ian Vacek",
       "Darryl L. Webster"
     ],
+    "Music": [
+      "AMI Music Group"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Post Assist": [
+      "Cory Parker"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Sapna Chhabra"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
     "Technical Consultants": [
       "ArcelorMittal Center for Advanced Friction Studies",
-      "CIMR",
+      "Cimr",
       "General Atomics",
       "Hawaiian Volcano Observatory",
       "Meggitt Aircraft Braking Systems",
       "Oak Ridge National Lab.",
       "Surface Combustion, Inc.",
-      "T-PACC"
+      "T-Pacc"
     ]
   }
 }

@@ -4,54 +4,54 @@
   "year": "1997",
   "copyright": "© 1997 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "JAFFE PRODUCTIONS",
+    "Jaffe Productions",
     "Hearst Entertainment",
     "ACTUALITY Productions, Inc.",
-    "ART F/X",
-    "ALAN ETT MUSIC GROUP, INC."
+    "Art F/X",
+    "Alan Ett Music Group, Inc."
   ],
   "narrators": [],
   "crew": {
-    "For The History Channel / Series Manager": [
-      "ELYSE MIRANDA"
-    ],
-    "For The History Channel / Executive Producer": [
-      "CHARLIE MADAY"
-    ],
-    "Post Production Coordinator": [
-      "BRADY HECK"
-    ],
     "Assistant Editors": [
       "LOU LaPROCIDO",
       "DERRICK McDANIEL",
-      "DONALD MILNE",
-      "JON FRANCIS"
-    ],
-    "Online Editor": [
-      "DON BURT"
-    ],
-    "Audio Post Production": [
-      "ALAN ETT MUSIC GROUP, INC.",
-      "SAM KAUFMAN",
-      "DANIEL COLMAN"
-    ],
-    "Graphics by": [
-      "ART F/X"
+      "Donald Milne",
+      "Jon Francis"
     ],
     "Assistant Production Accountants": [
-      "TRACY TOWERS",
-      "LINDA SCRIBNER"
+      "Tracy Towers",
+      "Linda Scribner"
     ],
-    "Assistant to Don Cambou": [
-      "TIM SHELL"
+    "Assistant To Don Cambou": [
+      "Tim Shell"
     ],
-    "Production Assistants": [
-      "KEITH DOLS",
-      "JASON LENZI"
+    "Audio Post Production": [
+      "Alan Ett Music Group, Inc.",
+      "Sam Kaufman",
+      "Daniel Colman"
     ],
     "Footage Consultants": [
-      "DOUGLAS FISHER",
-      "JEFFREY BUCHHEIT"
+      "Douglas Fisher",
+      "Jeffrey Buchheit"
+    ],
+    "Executive Producer": [
+      "Charlie Maday"
+    ],
+    "Series Manager": [
+      "Elyse Miranda"
+    ],
+    "Graphics By": [
+      "Art F/X"
+    ],
+    "Online Editor": [
+      "Don Burt"
+    ],
+    "Post Production Coordinator": [
+      "Brady Heck"
+    ],
+    "Production Assistants": [
+      "Keith Dols",
+      "Jason Lenzi"
     ]
   }
 }

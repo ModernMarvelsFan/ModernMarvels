@@ -7,35 +7,35 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ALAN ETT MUSIC GROUP, INC.
-* **Narrator:** HARLAN SAPERSTEIN
+* **Production Company:** Alan Ett Music Group, Inc.
+* **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Production Accountants** | LINDA SCRIBER, THIA KULMA |
-| **Assistant to Don Cambou** | TIM SHELL |
-| **Associate Producers** | J.V. MARTIN, LUKE ELLIS |
-| **Audio Post Production** | ALAN ETT MUSIC GROUP, INC., SAM KAUFMAN, DANIEL COLMAN |
-| **Camera Operator** | PAUL DOUGHERTY |
-| **Created by** | BRUCE NASH |
-| **Executive Producer** | CHARLIE MADAY, BOB JAFFE |
-| **Field Audio** | TOM STATON |
-| **Footage Consultant** | TED TROLL |
-| **Graphics by** | DOUG WHITNEY |
-| **Music by** | ALAN ETT |
-| **Narrated by** | HARLAN SAPERSTEIN |
-| **Post Production Coordinator** | BRADY HECK |
-| **Post Production Supervisor** | MIKE PARENTE |
-| **Producer** | BRUCE NASH |
-| **Production Assistants** | KEITH DOLS, JASON LENZI |
-| **Production Finance Supervisor** | PAUL DZILVELIS |
-| **Production Manager** | W. GREG BOHNERT |
-| **Researchers** | RICK BENAVIDES |
-| **Series Manager** | ELYSE MIRANDA |
-| **Supervising Producer** | DON CAMBOU |
-| **Written and Produced by** | NOAH MOROWITZ |
+| **Assistant Production Accountants** | Linda Scriber, Thia Kulma |
+| **Assistant To Don Cambou** | Tim Shell |
+| **Associate Producers** | J.V. Martin, Luke Ellis |
+| **Audio Post Production** | Alan Ett Music Group, Inc., Sam Kaufman, Daniel Colman |
+| **Camera Operator** | Paul Dougherty |
+| **Created By** | Bruce Nash |
+| **Executive Producer** | Charlie Maday, Bob Jaffe |
+| **Field Audio** | Tom Staton |
+| **Footage Consultant** | Ted Troll |
+| **Graphics By** | Doug Whitney |
+| **Music By** | Alan Ett |
+| **Narrated By** | Harlan Saperstein |
+| **Post Production Coordinator** | Brady Heck |
+| **Post Production Supervisor** | Mike Parente |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Keith Dols, Jason Lenzi |
+| **Production Finance Supervisor** | Paul Dzilvelis |
+| **Production Manager** | W. Greg Bohnert |
+| **Researchers** | Rick Benavides |
+| **Series Manager** | Elyse Miranda |
+| **Supervising Producer** | Don Cambou |
+| **Written And Produced By** | Noah Morowitz |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00051.md)

@@ -7,28 +7,28 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** FLASHBACK TELEVISION, History Television Network Productions
+* **Production Company:** Flashback Television, History Television Network Productions
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | DAVID CALDWELL-EVANS |
-| **Dubbing Mixer** | NIGEL READ |
-| **Executive Producer** | DOLORES GAVIN |
-| **Film Editor** | OWEN PARKER |
-| **Film Research** | DAVID SMITH, EMMA BOLTON |
-| **Graphics** | ED NIBLETT |
-| **Head of Production** | TIM BALL |
-| **On-line Editor** | OWEN TYLER |
-| **Produced by** | FLASHBACK TELEVISION |
-| **Producer** | TAYLOR DOWNING |
-| **Production Accountant** | MARILYN FREEMAN |
-| **Production Coordinator** | CLARE MORIARTY |
-| **Production Manager** | RACHEL NAUGHTON |
-| **Programming Coordinator** | MICHELE WILCOX |
-| **Written and Directed by** | PAUL NELSON |
+| **Associate Producer** | David Caldwell-Evans |
+| **Dubbing Mixer** | Nigel Read |
+| **Executive Producer** | Dolores Gavin |
+| **Film Editor** | Owen Parker |
+| **Film Research** | David Smith, Emma Bolton |
+| **Graphics** | Ed Niblett |
+| **Head Of Production** | Tim Ball |
+| **On-Line Editor** | Owen Tyler |
+| **Produced By** | Flashback Television |
+| **Producer** | Taylor Downing |
+| **Production Accountant** | Marilyn Freeman |
+| **Production Coordinator** | Clare Moriarty |
+| **Production Manager** | Rachel Naughton |
+| **Programming Coordinator** | Michele Wilcox |
+| **Written And Directed By** | Paul Nelson |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00460.md)

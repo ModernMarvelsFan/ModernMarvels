@@ -12,40 +12,22 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
     "Accountants": [
       "Sheridan Liu",
       "Diana Stolpe"
     ],
-    "Coordinator": [
-      "Maya Sykes"
+    "Animated Stills": [
+      "Adam Goodwin"
+    ],
+    "Animation": [
+      "FlyingBlue Studio"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Patrick Cashman"
+    ],
+    "Associate Producer": [
+      "Erika D. Smith"
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
@@ -57,6 +39,27 @@
       "Ed Kukla",
       "Lon Magdich"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Brian Garfield",
       "Ryan Handley",
@@ -66,49 +69,46 @@
       "Tom Staton",
       "Steve Theroux"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation": [
-      "FlyingBlue Studio"
-    ],
-    "Sound Mixer": [
-      "Mark Jensen"
-    ],
-    "Animated Stills": [
-      "Adam Goodwin"
-    ],
-    "For History / Programming Coordinators": [
-      "Kristen Burns",
-      "Adam Rosante"
-    ],
-    "For History / Executive Producers": [
+    "Executive Producers": [
       "Michael Stiller",
       "John Verhoff"
     ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Programming Coordinators": [
+      "Kristen Burns",
+      "Adam Rosante"
     ],
-    "Written and Produced by": [
-      "Penn Schofield"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Erika D. Smith"
+    "Music": [
+      "AMI Music Group"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Editor": [
-      "Lou LaProcido"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music": [
-      "AMI Music Group"
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "Penn Schofield"
     ]
   }
 }

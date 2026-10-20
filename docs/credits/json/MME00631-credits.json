@@ -8,67 +8,21 @@
     "Max Raphael"
   ],
   "crew": {
-    "Written and Produced by": [
-      "Beata Ziel"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Lawrence Givens III"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Editor": [
-      "Lou LaProcido"
-    ],
-    "Music": [
-      "Guy Thomas"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Production Accountant": [
-      "Sheridan Liu"
-    ],
-    "Coordinators": [
-      "Maya Sykes",
-      "Emily Miyazawa"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
+    "Animation": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Patrick Cashman"
     ],
+    "Associate Producer": [
+      "Lawrence Givens III"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Cory Parker"
     ],
     "Camera": [
       "Rob Gatti",
@@ -80,6 +34,28 @@
       "Chris Phillips",
       "Tim Snider"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinators": [
+      "Maya Sykes",
+      "Emily Miyazawa"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Shelley Bohning",
       "Dave Gannon",
@@ -90,17 +66,45 @@
       "Robert Porter",
       "Charles Rohr"
     ],
+    "Field Producers": [
+      "John Swasey",
+      "Diane Wai"
+    ],
+    "Music": [
+      "Guy Thomas"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "Victor Bornia"
+    "Post Assist": [
+      "Cory Parker"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Sheridan Liu"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
     ],
     "Sound Mixer": [
       "Sam Kaufmann"
     ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Supervising Producer": [
+      "Ron Nelson"
     ],
     "Technical Consultants": [
       "Kohler Co.",
@@ -108,12 +112,8 @@
       "Gray Uhl",
       "Unilever"
     ],
-    "Field Producers": [
-      "John Swasey",
-      "Diane Wai"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Written And Produced By": [
+      "Beata Ziel"
     ]
   }
 }

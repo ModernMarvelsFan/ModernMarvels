@@ -14,26 +14,26 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | GLENN TAKAKJIAN |
-| **Art Director** | KEN SHORT |
-| **Assistant Editors** | STUART BRODLIEB, HARRIS COHEN |
-| **Assistant Production Accountants** | LINDA SCRIBNER, JUDI MINITELLO |
-| **Camera Operators** | SCOTT ENLOW, JARED MANDERS, GENE MAYNARD, GEORGE ODELL, BUD OSBORNE, DOUG VIAR, KENNEDY WHEATLEY |
-| **Director of Photography** | JOHN BONNER |
-| **Field Audio** | KEVIN CATES, BRITT McBRYAR, MIKE MURRAY, THOM SHAFER, JASON SMITH, DAVID WASON |
-| **Footage Consultant** | TED TROLL |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Supervising Producer** | BETH DIETRICH |
-| **Graphics** | BARRY HILL |
-| **Make-Up Artist** | CONNIE COLE |
-| **Online Editor** | DAVID REX |
-| **Post Production Assistant** | GARY REID |
-| **Post Production Coordinator** | JASON STEINBERG |
-| **Production Assistants** | MARYALICE R. ARAGON, GWENDOLYN MURPHY, BRIAN VOLK |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Sound Mixer** | MATT GRUBER |
-| **Stage Facility** | UPSTAGE, LLC |
+| **Animation** | Glenn Takakjian |
+| **Art Director** | Ken Short |
+| **Assistant Editors** | Stuart Brodlieb, Harris Cohen |
+| **Assistant Production Accountants** | Linda Scribner, Judi Minitello |
+| **Camera Operators** | Scott Enlow, Jared Manders, Gene Maynard, George Odell, Bud Osborne, Doug Viar, Kennedy Wheatley |
+| **Director Of Photography** | John Bonner |
+| **Executive Producer** | Charlie Maday |
+| **Field Audio** | Kevin Cates, BRITT McBRYAR, Mike Murray, Thom Shafer, Jason Smith, David Wason |
+| **Footage Consultant** | Ted Troll |
+| **Graphics** | Barry Hill |
+| **Make-Up Artist** | Connie Cole |
+| **Online Editor** | David Rex |
+| **Post Production Assistant** | Gary Reid |
+| **Post Production Coordinator** | Jason Steinberg |
+| **Production Assistants** | Maryalice R. Aragon, Gwendolyn Murphy, Brian Volk |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Sound Mixer** | Matt Gruber |
+| **Stage Facility** | Upstage, LLC |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00106.md)

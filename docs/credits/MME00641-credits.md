@@ -21,9 +21,9 @@
 | **Camera** | Russell Blair, David Cosby, John Kabasakalis, Mike Kelly, Lon Magdich, Stan Taylor |
 | **Clearance Coordinator** | Kiana Moore |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Scot Kelly |
 | **Executive Producer** | John Verhoff, Don Cambou |
 | **Field Audio** | Ryan Agostino, Tom Echlin, Dennis Hamlin, Michael Lile, Mickey Loud, Gary Heimann, Charles Rohr, Mark Solomon, Ian Vacek |
@@ -42,7 +42,7 @@
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
 | **Technical Consultant** | Gary Hemphill |
-| **Written and Produced by** | Jeff Mercer |
+| **Written And Produced By** | Jeff Mercer |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00641.md)

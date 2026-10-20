@@ -8,42 +8,42 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by / ACTUALITY PRODUCTIONS, INC., History Television Network Productions
-* **Narrator:** MAX RAPHAEL, JOHN KNAPP
+* **Narrator:** Max Raphael, John Knapp
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | APRIL BROWN, SHERIDAN LIU, DIANA STOLPE |
-| **Animation by** | RANDALL RICKERT |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Associate Producer** | LARA D. TABOR |
-| **Camera** | DOUG GLAZIER, GARY HOFFMAN, LON MAGDICH, RICHARD NEILL, DAVID SETTLEMOIR, ROBERT VAN CAMP |
-| **Clearance Coordinators** | LAWRENCE GIVENS III, AARON ZOBER |
-| **Coordinators** | BONI OSMANI, BRAD SKILES |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ALLISON BOON |
-| **Director of Rights &amp; Clearances** | KATIE DEL CORE |
-| **Edited by** | ANDREW CORWIN |
-| **Executive Producer** | BETH DIETRICH-SEGARRA, DON CAMBOU |
-| **Field Audio** | THOMAS ALFORD, ROBERT SURENBROEK, BRIAN WEAR |
-| **Historical Consultant** | MARTY BAILEY |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | GUY THOMAS |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistants** | JEREMIAH DOCKRAY, ROB HARRINGTON, GAYLEN KOBAYASHI |
-| **Post Coordinator** | TERRENCE HARTWELL |
-| **Post Producer** | TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Programming Coordinator** | MICHELE WILCOX |
-| **Researchers** | ULDIS BALODIS, BRADLEY COMBEST, JOHN KNAPP |
-| **Sound Mixer** | ED THACKER |
-| **Voice Over Coordinator** | JOHN KNAPP |
-| **Written and Produced by** | ANTHONY LACQUES |
+| **Accountants** | April Brown, Sheridan Liu, Diana Stolpe |
+| **Animation By** | Randall Rickert |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Associate Producer** | Lara D. Tabor |
+| **Camera** | Doug Glazier, Gary Hoffman, Lon Magdich, Richard Neill, David Settlemoir, Robert Van Camp |
+| **Clearance Coordinators** | Lawrence Givens III, Aaron Zober |
+| **Coordinators** | Boni Osmani, Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Director Of Rights &amp; Clearances** | Katie Del Core |
+| **Edited By** | Andrew Corwin |
+| **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
+| **Field Audio** | Thomas Alford, Robert Surenbroek, Brian Wear |
+| **Historical Consultant** | Marty Bailey |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistants** | Jeremiah Dockray, Rob Harrington, Gaylen Kobayashi |
+| **Post Coordinator** | Terrence Hartwell |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Michele Wilcox |
+| **Researchers** | Uldis Balodis, Bradley Combest, John Knapp |
+| **Sound Mixer** | Ed Thacker |
+| **Voice Over Coordinator** | John Knapp |
+| **Written And Produced By** | Anthony Lacques |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00507.md)

@@ -10,27 +10,18 @@
     "Max Raphael"
   ],
   "crew": {
-    "Production Accountant": [
-      "Sheridan Liu"
-    ],
-    "Coordinator": [
-      "Maya Sykes"
-    ],
-    "Clearance Coordinator": [
-      "Kiana Moore"
-    ],
-    "Researcher": [
-      "Joshua Janiak"
+    "Animation": [
+      "Glenn Takakijian"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Nate Dusek"
     ],
+    "Associate Producer": [
+      "Mary Courtney"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Cory Parker"
     ],
     "Camera": [
       "Christopher Bell",
@@ -43,6 +34,27 @@
       "Stan Taylor",
       "Zvonimir \"Z\" Vidusin"
     ],
+    "Clearance Coordinator": [
+      "Kiana Moore"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "John Verhoff"
+    ],
     "Field Audio": [
       "Chad Bryant",
       "Brandon Hull",
@@ -53,65 +65,50 @@
       "Spenser Hoyt",
       "Marty Zimmerman"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation": [
-      "Glenn Takakijian"
-    ],
-    "Sound Mixer": [
-      "Nozomu Furuya-Hirota"
-    ],
-    "For History / Programming Coordinator": [
+    "Programming Coordinator": [
       "Adam Rosante"
-    ],
-    "For History / Executive Producer": [
-      "John Verhoff"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Philip Kruener"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Mary Courtney"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Editor": [
-      "Lou LaProcido"
     ],
     "Music": [
       "Guy Thomas"
     ],
-    "Producer": [
-      "Bruce Nash"
+    "Narrator": [
+      "Max Raphael"
     ],
-    "Production Manager": [
-      "Shelia Collins"
+    "Online Editor": [
+      "John Price"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Post Assist": [
+      "Cory Parker"
     ],
     "Post Producer": [
       "Tim Knauff"
     ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Sheridan Liu"
     ],
     "Production Controller": [
       "Dani Eslin"
     ],
-    "Director of Research": [
-      "Terrence Hartwell"
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Joshua Janiak"
+    ],
+    "Sound Mixer": [
+      "Nozomu Furuya-Hirota"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "Philip Kruener"
     ]
   }
 }

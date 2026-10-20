@@ -21,9 +21,9 @@
 | **Camera** | Jeff Broughton, Dennis Burns, Aaron Harris, Ed Kukla, Jared Manders, Z Vidusin |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Terrence Hartwell, Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Allison Boon |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Steve Mellon |
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
@@ -41,7 +41,7 @@
 | **Programming Coordinator** | Adam Rosante |
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Penn Schofield |
+| **Written And Produced By** | Penn Schofield |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00596.md)

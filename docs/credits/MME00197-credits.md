@@ -7,18 +7,18 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, Hearst Entertainment, THE HISTORY CHANNEL
+* **Production Company:** Actuality Productions, Hearst Entertainment, The History Channel
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Production Accountant** | LINDA SCRIBNER |
-| **Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Production Assistants** | MARYALICE R. ARAGON, RASI DELGADO |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | MICHAEL Z DAVIS |
+| **Assistant Production Accountant** | Linda Scribner |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Production Assistants** | Maryalice R. Aragon, Rasi Delgado |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Michael Z Davis |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00197.md)

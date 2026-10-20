@@ -7,35 +7,35 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1995 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ART F/X
-* **Narrator:** HARLAN SAPERSTEIN
+* **Production Company:** Art F/X
+* **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | MARC CEBRIAN, JARED BUSHANSKY, MAURICE CASSAMAJOR |
-| **Assistant Production Accountant** | JORI ESPINOSA |
-| **Assistant to Bob Jaffe** | HAY TANNING |
-| **Assistant to Tim Busa** | ALEXANDRA ROJAS |
-| **Audio** | JEFF AYLEN, TRACY DUNCAN |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | CHUCK HAYES |
-| **Directors of Photography** | JERRY LANE, JOHN MARSHALL |
-| **Edited by** | GREG CLAUSEN, TUDOR APPLEN |
-| **Footage Consultant** | TED TROLL |
-| **Graphics** | RON CLARK, ART F/X |
-| **Music by** | SCOTT PAGE-PAGTER, JOHN VALENTINO |
-| **Narrated by** | HARLAN SAPERSTEIN |
-| **On-Line Editor** | ANDREW CORWIN, DORY LUBLINER |
-| **Post Production Supervisor** | JULIO KOLLERBOHM |
-| **Producer** | BRUCE NASH |
-| **Production Accountant** | WENDY PRICE |
-| **Productions Assistants** | JASON MENZ, TONI GRAY |
-| **Re-Recording Mixer** | TIM BROWN |
-| **Research Associate** | STACEY LUCHS |
-| **Researchers** | MILA MARVIZON |
-| **Show Elements Coordinator** | KAREN S. MEISSNER |
+| **Assistant Editors** | Marc Cebrian, Jared Bushansky, Maurice Cassamajor |
+| **Assistant Production Accountant** | Jori Espinosa |
+| **Assistant To Bob Jaffe** | Hay Tanning |
+| **Assistant To Tim Busa** | Alexandra Rojas |
+| **Audio** | Jeff Aylen, Tracy Duncan |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Chuck Hayes |
+| **Directors Of Photography** | Jerry Lane, John Marshall |
+| **Edited By** | Greg Clausen, Tudor Applen |
+| **Footage Consultant** | Ted Troll |
+| **Graphics** | Ron Clark, Art F/X |
+| **Music By** | Scott Page-Pagter, John Valentino |
+| **Narrated By** | Harlan Saperstein |
+| **On-Line Editor** | Andrew Corwin, Dory Lubliner |
+| **Post Production Supervisor** | Julio Kollerbohm |
+| **Producer** | Bruce Nash |
+| **Production Accountant** | Wendy Price |
+| **Productions Assistants** | Jason Menz, Toni Gray |
+| **Re-Recording Mixer** | Tim Brown |
+| **Research Associate** | Stacey Luchs |
+| **Researchers** | Mila Marvizon |
+| **Show Elements Coordinator** | Karen S. Meissner |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00022.md)

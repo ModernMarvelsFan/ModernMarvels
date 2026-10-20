@@ -23,9 +23,9 @@
 | **Camera** | Bob Cundari, David Fox, Tomas Hejda, Paul Kremer, Lon Magdich, Terry Pratt, Eric Thornton, Marty Zimmerman |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Harold E. Houze Jr. |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Michael M. Curtiss, Jim Daumeyer, Adrian Demus, Dennis Hamlin, Kathryn Korniloff, Paul Mendez, Corey Miller, Charles Rohr |
@@ -41,7 +41,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Beata Ziel |
+| **Written And Produced By** | Beata Ziel |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00611.md)

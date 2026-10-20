@@ -4,76 +4,73 @@
   "year": "2001",
   "copyright": "© 2001 A&E TELEVISION NETWORKS All Rights Reserved.",
   "studios": [
-    "PERPETUAL MOTION FILMS",
-    "CSI RECORDING"
+    "Perpetual Motion Films",
+    "Csi Recording"
   ],
   "narrators": [
-    "MONTE MARKHAM"
+    "Monte Markham"
   ],
   "crew": {
-    "Photography": [
-      "GORDON BROWN"
-    ],
-    "Music Composed by": [
-      "JAMES MORGAN"
-    ],
-    "Production Coordinator": [
-      "KAY ENYART"
-    ],
-    "Research Director": [
-      "OLIVER OERTEL"
-    ],
-    "Sound Design and Mixing": [
-      "CSI RECORDING",
-      "GREG CONWAY"
-    ],
-    "Graphic Artist": [
-      "GUY W. CEARLEY"
-    ],
-    "Sound Recording": [
-      "GORDON BROWN"
-    ],
-    "On Line Editor": [
-      "GUY W. CEARLEY"
-    ],
-    "Assistant Editor": [
-      "CHANDLER ROBBINS"
-    ],
     "Additional Footage": [
       "NTC Vulture Team",
-      "CAPT ERIC L. SIMON",
-      "SPC ERICK HENSON",
-      "PFC JOE HICKEY"
+      "Capt Eric L. Simon",
+      "Spc Erick Henson",
+      "Pfc Joe Hickey"
     ],
-    "Production Assistants": [
-      "CLAY EDENS",
-      "SPC JONATHAN MARCUS",
-      "SPC DON WARD"
+    "Assistant Editor": [
+      "Chandler Robbins"
     ],
-    "For THE HISTORY CHANNEL / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Produced & Directed by": [
-      "MONTE MARKHAM"
+    "Edited By": [
+      "Guy W. Cearley"
     ],
     "Executive Producer": [
-      "JASON MARKHAM"
-    ],
-    "Narrated by": [
-      "MONTE MARKHAM"
-    ],
-    "Written by": [
-      "JON WESSLEN",
-      "LEE FULKERSON"
-    ],
-    "Edited by": [
-      "GUY W. CEARLEY"
-    ],
-    "Senior Writer/Producer": [
-      "LEE FULKERSON"
+      "Beth Dietrich-Segarra"
     ],
     "Field Producer": [
-      "KLAIRE MARKHAM"
+      "Klaire Markham"
+    ],
+    "Graphic Artist": [
+      "Guy W. Cearley"
+    ],
+    "Music Composed By": [
+      "James Morgan"
+    ],
+    "Narrated By": [
+      "Monte Markham"
+    ],
+    "On Line Editor": [
+      "Guy W. Cearley"
+    ],
+    "Photography": [
+      "Gordon Brown"
+    ],
+    "Produced &amp; Directed By": [
+      "Monte Markham"
+    ],
+    "Production Assistants": [
+      "Clay Edens",
+      "Spc Jonathan Marcus",
+      "Spc Don Ward"
+    ],
+    "Production Coordinator": [
+      "Kay Enyart"
+    ],
+    "Research Director": [
+      "Oliver Oertel"
+    ],
+    "Producer": [
+      "Lee Fulkerson"
+    ],
+    "Sound Design And Mixing": [
+      "Csi Recording",
+      "Greg Conway"
+    ],
+    "Sound Recording": [
+      "Gordon Brown"
+    ],
+    "Written By": [
+      "Jon Wesslen",
+      "Lee Fulkerson"
     ]
   }
 }

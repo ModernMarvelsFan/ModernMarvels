@@ -8,9 +8,58 @@
     "JUMP DESIGN (graphics)"
   ],
   "narrators": [
-    "GREG STEBNER"
+    "Greg Stebner"
   ],
   "crew": {
+    "Camera": [
+      "Valentin Chernovol",
+      "Lee Pulbrook",
+      "Dan Beckmann"
+    ],
+    "Dubbing Mixer": [
+      "Nigel Read"
+    ],
+    "Editor": [
+      "Gareth Johnson"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
+    "Film Research": [
+      "Jacqui Edwards",
+      "Victor Belyakov"
+    ],
+    "Graphics": [
+      "Jump Design"
+    ],
+    "Head Of Production": [
+      "Tim Ball"
+    ],
+    "Line Producer": [
+      "Tim O'Connor"
+    ],
+    "Music": [
+      "Ian Lynn",
+      "Alison Taylor"
+    ],
+    "Narrator": [
+      "Greg Stebner"
+    ],
+    "On-Line Editor": [
+      "Sue Giovanni"
+    ],
+    "Producer": [
+      "Taylor Downing"
+    ],
+    "Production Accountant": [
+      "Marilyn Freeman"
+    ],
+    "Production Co-Ordinator": [
+      "Rachel Naughton"
+    ],
+    "Production Runner": [
+      "Carrie Pennifer"
+    ],
     "Reconstructions": [
       "Thomas Knowles",
       "Greg Bender",
@@ -25,73 +74,24 @@
       "Dave Weedon",
       "Graham Naughton"
     ],
-    "Camera": [
-      "VALENTIN CHERNOVOL",
-      "LEE PULBROOK",
-      "DAN BECKMANN"
+    "Research": [
+      "Yelena Yakovleva",
+      "Paul Nelson"
     ],
     "Sound": [
-      "MIKHAIL FEDULOV",
-      "CHRIS STANWAY",
+      "Mikhail Fedulov",
+      "Chris Stanway",
       "CLAY McMILLAN"
     ],
-    "Production Runner": [
-      "CARRIE PENNIFER"
-    ],
-    "Dubbing Mixer": [
-      "NIGEL READ"
-    ],
-    "On-line Editor": [
-      "SUE GIOVANNI"
-    ],
-    "Graphics": [
-      "JUMP DESIGN"
+    "Supervising Producer": [
+      "Dolores Gavin"
     ],
     "Translation": [
-      "LENA SMOLINA",
-      "SVETLANA PALMER"
+      "Lena Smolina",
+      "Svetlana Palmer"
     ],
-    "Head of Production": [
-      "TIM BALL"
-    ],
-    "Production Accountant": [
-      "MARILYN FREEMAN"
-    ],
-    "Research": [
-      "YELENA YAKOVLEVA",
-      "PAUL NELSON"
-    ],
-    "Film Research": [
-      "JACQUI EDWARDS",
-      "VICTOR BELYAKOV"
-    ],
-    "Line Producer": [
-      "TIM O'CONNOR"
-    ],
-    "Production Co-ordinator": [
-      "RACHEL NAUGHTON"
-    ],
-    "Editor": [
-      "GARETH JOHNSON"
-    ],
-    "Producer": [
-      "TAYLOR DOWNING"
-    ],
-    "Written and Directed by": [
-      "CHRIS WARREN"
-    ],
-    "Supervising Producer": [
-      "DOLORES GAVIN"
-    ],
-    "Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Narrator": [
-      "GREG STEBNER"
-    ],
-    "Music": [
-      "IAN LYNN",
-      "ALISON TAYLOR"
+    "Written And Directed By": [
+      "Chris Warren"
     ]
   }
 }

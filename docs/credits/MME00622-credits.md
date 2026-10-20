@@ -22,9 +22,9 @@
 | **Camera** | Gilles Arnaud, Chris Bell, Aron Brown, John Kabasakalis, Dan Lantz, Chuck Morse, Paul Neal, Tom Wells |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Chad Byrant, Philippe Cusset, Brent Haliskie, Brian Haughin, David Mendez, Nick Modisett, Adrian Sam |
@@ -38,7 +38,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Greg DeHart |
+| **Written And Produced By** | Greg DeHart |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00622.md)

@@ -15,20 +15,20 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Accountants** | Linda Scribner, Sheridan Liu, Lisa Casella, Paulette Pantoja |
-| **Animation by** | Adam Diaz |
+| **Animation By** | Adam Diaz |
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Associate Producer** | Sean Heckman |
 | **Consulting Producer** | Ron Nelson |
 | **Coordinators** | Terrence Hartwell, Brad Skiles |
-| **Created by** | Bruce Nash |
-| **Edited by** | John Parsons, Motoshi Wakabayashi |
+| **Created By** | Bruce Nash |
+| **Edited By** | John Parsons, Motoshi Wakabayashi |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Jeff Adams, Jeff Boudrot, Brian Wear, Derek Anderson, Steve Scanzello |
 | **Historical Consultant** | Terry Klenske |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett Music Group |
-| **Narrated by** | Max Raphael |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assistant** | Gaylen Kobayashi |
 | **Post Producer** | Tim Knauff |
@@ -38,7 +38,7 @@
 | **Researchers** | Anthony Lacques, Mikki Del Monico, John Knapp, Gloria Morris, Uldis Balodis |
 | **Sound Mixer** | Ed Thacker |
 | **Voice Over Coordinator** | John Knapp |
-| **Written &amp; Produced by** | Robert Ziel, Lauren Levine |
+| **Written &amp; Produced By** | Robert Ziel, Lauren Levine |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00137.md)

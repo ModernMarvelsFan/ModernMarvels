@@ -4,43 +4,43 @@
   "year": "2002",
   "copyright": "© 2002 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
-    "THE HISTORY CHANNEL"
+    "Actuality Productions, Inc.",
+    "The History Channel"
   ],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "For The History Channel Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
+    "Associate Producer": [
+      "Bob Petrella"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Lou Laprocido",
+      "Andre Vaillancourt"
     ],
     "Executive Producer": [
-      "DON CAMBOU"
+      "Don Cambou"
     ],
-    "Written and Produced by": [
-      "CRAIG CONSTANTINE"
-    ],
-    "Associate Producer": [
-      "BOB PETRELLA"
+    "For The History Channel Executive Producer": [
+      "Beth Dietrich-Segarra"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
     ],
-    "Narrated by": [
-      "MAX RAPHAEL"
+    "Music By": [
+      "Guy Thomas"
     ],
-    "Edited by": [
-      "LOU LAPROCIDO",
-      "ANDRE VAILLANCOURT"
+    "Narrated By": [
+      "Max Raphael"
     ],
     "Producer": [
-      "BRUCE NASH"
+      "Bruce Nash"
     ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Music by": [
-      "GUY THOMAS"
+    "Written And Produced By": [
+      "Craig Constantine"
     ]
   }
 }

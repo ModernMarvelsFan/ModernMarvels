@@ -21,16 +21,15 @@
 | **Camera** | Jonathan Cermin, Gary Hoffman, Rex Morris, Dylan S. O'Brien, Terry Sharp, Alex Williams |
 | **Clearance Assistant** | Barbara Streng |
 | **Clearance Supervisor** | Katie Del Core |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Hildie Katibah |
-| **Edited by** | Avi Fisher |
-| **Executive Producer** | Don Cambou |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Hildie Katibah |
+| **Edited By** | Avi Fisher |
+| **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Bud Kalbaugh, Michael McCoy, Phil Nadeau, Wil Morris |
 | **Footage Consultant** | Ted Troll |
-| **For The History Channel / Executive Producer** | Beth Dietrich-Segarra |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett |
-| **Narrated by** | Max Raphael |
+| **Music By** | Alan Ett |
+| **Narrated By** | Max Raphael |
 | **Post Production Assistant** | Stephen Franklin |
 | **Post Production Coordinator** | Gary Reid |
 | **Post Production Supervisor** | Jason Steinberg |
@@ -39,7 +38,7 @@
 | **Production Auditor** | Dani Eslin |
 | **Production Coordinator** | Kathy Exner |
 | **Researchers** | Kristina Djokic, Mark Savage |
-| **Written and Produced by** | Kathryn Connell Christy |
+| **Written And Produced By** | Kathryn Connell Christy |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00182.md)

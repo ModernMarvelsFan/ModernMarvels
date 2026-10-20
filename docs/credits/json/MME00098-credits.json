@@ -6,86 +6,86 @@
   "studios": [
     "ACTUALITY Productions, Inc.",
     "Hearst Entertainment",
-    "THE HISTORY CHANNEL"
+    "The History Channel"
   ],
   "narrators": [
-    "HARLAN SAPERSTEIN"
+    "Harlan Saperstein"
   ],
   "crew": {
-    "Online Editor": [
-      "DAVID REX"
-    ],
-    "Sound Mixer": [
-      "MATT GRUBER"
-    ],
-    "Graphics and Animation": [
-      "GLENN TAKAKJIAN"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
+    "Assistant Editors": [
+      "Stuart Brodlieb",
+      "Harris Cohen"
     ],
     "Assistant Production Accountants": [
-      "LINDA SCRIBNER",
-      "JUDI MINITELLO"
-    ],
-    "Production Coordinator": [
-      "KATHY EXNER"
-    ],
-    "Production Assistants": [
-      "MARYALICE R. ARAGON",
-      "KEVIN CROWELL"
-    ],
-    "For The History Channel / Supervising Producer": [
-      "BETH DIETRICH"
-    ],
-    "For The History Channel / Executive Producer": [
-      "CHARLIE MADAY"
-    ],
-    "Narrated by": [
-      "HARLAN SAPERSTEIN"
-    ],
-    "Music by": [
-      "ALAN ETT"
-    ],
-    "Production Manager": [
-      "LISA BLACKWOOD HOPE"
-    ],
-    "Post Production Supervisor": [
-      "SCOTT BERKSON"
-    ],
-    "Clearance Supervisor": [
-      "AMY TRAHANT"
-    ],
-    "Clearance Coordinator": [
-      "RANDY PITLER"
-    ],
-    "Researcher": [
-      "BARRY HILL"
+      "Linda Scribner",
+      "Judi Minitello"
     ],
     "Camera": [
-      "MICHAEL DEAN",
-      "KEVIN EGZAN",
-      "GENE MAYNARD",
-      "BRIAN NEFF",
-      "RALPH J. NELSON, II",
-      "DANIEL ROACH"
+      "Michael Dean",
+      "Kevin Egzan",
+      "Gene Maynard",
+      "Brian Neff",
+      "Ralph J. Nelson, II",
+      "Daniel Roach"
+    ],
+    "Clearance Coordinator": [
+      "Randy Pitler"
+    ],
+    "Clearance Supervisor": [
+      "Amy Trahant"
     ],
     "Field Audio": [
-      "JAMES CIRIGLIANO",
-      "JOHN DUFFY",
-      "MICHAEL KIMBALL",
+      "James Cirigliano",
+      "John Duffy",
+      "Michael Kimball",
       "GARY McCAFFERTY",
-      "LAURA WONG"
+      "Laura Wong"
     ],
-    "Post Production Coordinator": [
-      "JASON STEINBERG"
+    "Executive Producer": [
+      "Charlie Maday"
     ],
-    "Assistant Editors": [
-      "STUART BRODLIEB",
-      "HARRIS COHEN"
+    "Supervising Producer": [
+      "Beth Dietrich"
+    ],
+    "Graphics And Animation": [
+      "Glenn Takakjian"
+    ],
+    "Music By": [
+      "Alan Ett"
+    ],
+    "Narrated By": [
+      "Harlan Saperstein"
+    ],
+    "Online Editor": [
+      "David Rex"
     ],
     "Post Production Assistant": [
-      "GARY REID"
+      "Gary Reid"
+    ],
+    "Post Production Coordinator": [
+      "Jason Steinberg"
+    ],
+    "Post Production Supervisor": [
+      "Scott Berkson"
+    ],
+    "Production Assistants": [
+      "Maryalice R. Aragon",
+      "Kevin Crowell"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Kathy Exner"
+    ],
+    "Production Manager": [
+      "Lisa Blackwood Hope"
+    ],
+    "Researcher": [
+      "Barry Hill"
+    ],
+    "Sound Mixer": [
+      "Matt Gruber"
     ]
   }
 }

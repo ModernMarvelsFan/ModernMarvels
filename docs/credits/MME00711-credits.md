@@ -1,4 +1,4 @@
-# Credit Roll: Mega Food Countdown (2013)
+# Credit Roll: Mega Food Countdown (2012)
 **Canonical Episode:** [`MME00711: Mega Food Countdown`](../episodes/MME00711.md)
 
 **Downloads:** [Credits JSON](json/MME00711-credits.json) • [Credits Plain Text](txt/MME00711-credits.txt)
@@ -6,39 +6,38 @@
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2013 A&E Television Networks. All Rights Reserved.`
+* **Copyright Notice:** `© 2012 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Half Yard Productions, A&E Television Networks, MVI Post
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Additional Writing** | RON NELSON |
-| **Associate Producer** | NATALIE PITCHER |
-| **Created by** | BRUCE NASH |
-| **Edited by** | MATTHEW TILLEY |
-| **Executive Producer** | GREG SMITH |
-| **Executive Producers** | SEAN GALLAGHER, ABBY GREENSFELDER |
+| **Additional Writing** | Ron Nelson |
+| **Associate Producer** | Natalie Pitcher |
+| **Colorist** | Matt Ode |
+| **Created By** | Bruce Nash |
+| **Edited By** | Matthew Tilley |
+| **Executive Producer** | John Verhoff |
+| **Executive Producers** | Sean Gallagher, Abby Greensfelder |
 | **For** | A&amp;E Television Networks (R) |
-| **For A&amp;E Television Network / Executive Producer** | JOHN VERHOFF |
-| **For A&amp;E Television Network / Senior Producer** | CARTER FIGUEROA |
-| **Graphics** | JAMES SULLIVAN |
-| **Head of Production** | JANICE MEZZETTI |
-| **Junior Editors** | MARC HINES, NADIA IZAKSON |
-| **Music** | AUDIO NETWORK, EXTREME |
-| **Narrator** | MAX RAPHAEL |
-| **Online Editor/Colorist** | MATT ODE |
-| **Post Producer** | ANNABELLE HESTER |
-| **Post Production Coordinator** | BEN SHUSTER |
-| **Post Production Manager** | CAMERON YOUNG |
-| **Produced by** | Half Yard Productions |
-| **Producer** | ALEXANDER WARD |
-| **Production Coordinators** | JAYE CALLAHAN, KAIT GALLAGHER |
-| **Production Managers** | SILVIA HOMES GAINES, JENNIFER PARTIN, BRIGITTA SHROYER |
-| **Sound Design &amp; Mix** | MVI POST |
-| **Sound Editors** | FRANK SCHEURING, CHARLES SOVEK |
-| **Vice President of Finance** | ROSSANA O'HOP |
+| **Graphics** | James Sullivan |
+| **Head Of Production** | Janice Mezzetti |
+| **Junior Editors** | Marc Hines, Nadia Izakson |
+| **Music** | Audio Network, Extreme |
+| **Narrator** | Max Raphael |
+| **Post Producer** | Annabelle Hester |
+| **Post Production Coordinator** | Ben Shuster |
+| **Post Production Manager** | Cameron Young |
+| **Produced By** | Half Yard Productions |
+| **Producer** | Alexander Ward |
+| **Production Coordinators** | Jaye Callahan, Kait Gallagher |
+| **Production Managers** | Silvia Homes Gaines, Jennifer Partin, Brigitta Shroyer |
+| **Senior Producer** | Carter Figueroa |
+| **Sound Design &amp; Mix** | Mvi Post |
+| **Sound Editors** | Frank Scheuring, Charles Sovek |
+| **Vice President Of Finance** | Rossana O'Hop |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00711.md)

@@ -6,37 +6,37 @@
   "studios": [
     "ACTUALITY Productions, Inc.",
     "Hearst Entertainment",
-    "THE HISTORY CHANNEL",
+    "The History Channel",
     "A&E Television Networks"
   ],
   "narrators": [],
   "crew": {
-    "For The History Channel - Supervising Producer": [
-      "BETH DIETRICH"
+    "Associate Producer": [
+      "Christof Ritter"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Jack Foster"
     ],
     "For The History Channel - Executive Producer": [
-      "CHARLIE MADAY"
+      "Charlie Maday"
     ],
-    "Supervising Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "FRED PEABODY"
-    ],
-    "Associate Producer": [
-      "CHRISTOF RITTER"
-    ],
-    "Edited by": [
-      "JACK FOSTER"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
+    "For The History Channel - Supervising Producer": [
+      "Beth Dietrich"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Supervising Producer": [
+      "Don Cambou"
+    ],
+    "Written And Produced By": [
+      "Fred Peabody"
     ]
   }
 }

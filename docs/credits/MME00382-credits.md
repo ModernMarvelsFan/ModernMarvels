@@ -8,41 +8,41 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by / ACTUALITY PRODUCTIONS, INC., History Television Network Productions
-* **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
+* **Narrator:** Max Raphael, Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | JUDY GORDON, SHERIDAN LIU |
-| **Animation by** | THRESHOLD DIGITAL RESEARCH LABS |
-| **Assistant Editor** | LAURA STEINHOFF |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Associate Producer** | DAVID BRADSTREET |
-| **Camera** | JOHN DAVIS, PAUL DOUGHERTY, PETER KRAJEWSKI, LON MAGDICH, CLAY WRIGHT |
-| **Clearance Coordinator** | D.W. BLAKESLEE |
-| **Clearance Supervisor** | KATIE DEL CORE |
+| **Accountants** | Judy Gordon, Sheridan Liu |
+| **Animation By** | Threshold Digital Research Labs |
+| **Assistant Editor** | Laura Steinhoff |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Associate Producer** | David Bradstreet |
+| **Camera** | John Davis, Paul Dougherty, Peter Krajewski, Lon Magdich, Clay Wright |
+| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | ROSALYN McVAY |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACQUES |
-| **Edited by** | ROBERT LATTANZIO |
-| **Executive Producer** | BETH DIETRICH-SEGARRA, DON CAMBOU |
-| **Field Audio** | DAVID NEWQUIST, MARK SOLOMON, THOMAS STATON |
-| **Historical Consultant** | DR. PETER PELLA |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistant** | GAYLEN KOBAYASHI |
-| **Post Producer** | TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | JEFFERY PERKINS |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | MIKKI DEL MONICO, PAUL LACQUES |
-| **Sound Mixer** | PAUL RAY |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
-| **Written and Produced by** | LEE SCHNEIDER |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Robert Lattanzio |
+| **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
+| **Field Audio** | David Newquist, Mark Solomon, Thomas Staton |
+| **Historical Consultant** | Dr. Peter Pella |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistant** | Gaylen Kobayashi |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Jeffery Perkins |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researchers** | Mikki Del Monico, Paul Lacques |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Mikki Del Monico |
+| **Written And Produced By** | Lee Schneider |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00382.md)

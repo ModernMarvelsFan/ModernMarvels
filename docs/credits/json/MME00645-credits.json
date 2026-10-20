@@ -10,48 +10,21 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Production Accountant": [
-      "Sheridan Liu"
-    ],
-    "Coordinator": [
-      "Maya Sykes"
-    ],
-    "Clearance Coordinator": [
-      "Kiana Moore"
-    ],
-    "Researcher": [
-      "Joshua Janiak"
+    "Animation": [
+      "FlyingBlue Studio"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Nate Dusek"
     ],
+    "Associate Producer": [
+      "Andrew Fuller"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Cory Parker"
     ],
     "Camera": [
       "Christopher Bell",
@@ -61,6 +34,28 @@
       "Dave Sanders",
       "Steve Van Osdale"
     ],
+    "Clearance Coordinator": [
+      "Kiana Moore"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editors": [
+      "Scot Kelly",
+      "Gary Reid"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Chad Bryant",
       "Brian Dupuis",
@@ -69,42 +64,47 @@
       "Scott Thompson",
       "John Vardas"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation": [
-      "FlyingBlue Studio"
-    ],
-    "Sound Mixer": [
-      "Nozomu Furuya-Hirota"
-    ],
-    "Animated Stills": [
-      "Adam Goodwin"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Produced by": [
-      "Jim Lindsay"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Andrew Fuller"
+    "Music": [
+      "Alan Ett Music Group"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Editors": [
-      "Scot Kelly",
-      "Gary Reid"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music": [
-      "Alan Ett Music Group"
+    "Post Assist": [
+      "Cory Parker"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Jim Lindsay"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Sheridan Liu"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Joshua Janiak"
+    ],
+    "Sound Mixer": [
+      "Nozomu Furuya-Hirota"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson"
     ]
   }
 }

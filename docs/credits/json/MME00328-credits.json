@@ -11,60 +11,18 @@
     "Melanie Pipes"
   ],
   "crew": {
-    "Edited by": [
-      "Mark S. Andrew"
-    ],
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Music by": [
-      "Alan Ett Music Group"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Production Manager": [
-      "Gary Reid"
-    ],
-    "Clearance Supervisor": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Anthony Lacques"
-    ],
-    "Production Auditor": [
-      "Dani Eslin"
-    ],
-    "Production Coordinator": [
-      "James Wiser"
+    "Animation By": [
+      "Victor Bornia"
     ],
     "Assistant Accountant": [
       "Dennis Luciani"
-    ],
-    "Clearance Coordinator": [
-      "Susan Wichmann"
     ],
     "Assistant Editors": [
       "Julio C. Perez IV",
       "Eric Sievering"
     ],
-    "Post Coordinator": [
-      "Danny Kim"
-    ],
-    "Post Assistant": [
-      "Laura Steinhoff"
-    ],
-    "Voice Over Coordinator": [
-      "Melanie Pipes"
-    ],
-    "Production Assistant": [
-      "Rosalyn McVay"
+    "Associate Producer": [
+      "Mai-Ly Nguyen"
     ],
     "Camera": [
       "Dale Hancock",
@@ -73,6 +31,24 @@
       "John Twesten",
       "Liz Watkins",
       "John D. Westenhiser"
+    ],
+    "Clearance Coordinator": [
+      "Susan Wichmann"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Anthony Lacques"
+    ],
+    "Edited By": [
+      "Mark S. Andrew"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
     ],
     "Field Audio": [
       "Ray Bennett",
@@ -84,32 +60,53 @@
     "Field Producer": [
       "Angela Aiello"
     ],
+    "Historical Consultant": [
+      "Maj. Paul Gillespie Ph.D."
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "Doug Nolan"
+    ],
+    "Post Assistant": [
+      "Laura Steinhoff"
+    ],
+    "Post Coordinator": [
+      "Danny Kim"
+    ],
+    "Post Production Manager": [
+      "Gary Reid"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Rosalyn McVay"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "James Wiser"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
     ],
     "Sound Mixer": [
       "Paul Ray"
     ],
-    "Animation by": [
-      "Victor Bornia"
+    "Voice Over Coordinator": [
+      "Melanie Pipes"
     ],
-    "Historical Consultant": [
-      "Maj. Paul Gillespie Ph.D."
-    ],
-    "For The History Channel / Executive Producer": [
-      "Beth Dietrich-Segarra"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Craig Constantine"
-    ],
-    "Associate Producer": [
-      "Mai-Ly Nguyen"
-    ],
-    "Line Producer": [
-      "Paul Dzilvelis"
     ]
   }
 }

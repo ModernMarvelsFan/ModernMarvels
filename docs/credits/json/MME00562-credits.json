@@ -12,43 +12,49 @@
     "Max Raphael"
   ],
   "crew": {
-    "Director of Clearance": [
-      "Katie Del Core"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
-    "Coordinator": [
-      "Brad Skiles"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
+    "Animation By": [
+      "i. e. effects"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
       "Alexander Rubinow"
     ],
+    "Associate Producer": [
+      "Savas Georgalis"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "James Orbison"
     ],
     "Camera": [
       "C. Walker Ballance",
       "John Chater",
       "John Kabasakalis",
       "Rich Schutte"
+    ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Katie Del Core"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Edited By": [
+      "Motoshi Wakabayashi"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
     ],
     "Field Audio": [
       "Morgan Schmidt-Feng",
@@ -57,47 +63,41 @@
       "Chris Strollo",
       "Paul Wustrack"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation By": [
-      "i. e. effects"
-    ],
-    "Sound Mixer": [
-      "Ed Thacker"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Jim Hense"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Associate Producer": [
-      "Savas Georgalis"
+    "Music By": [
+      "Alan Ett Music Group"
     ],
     "Narrated By": [
       "Max Raphael"
     ],
-    "Edited By": [
-      "Motoshi Wakabayashi"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music By": [
-      "Alan Ett Music Group"
+    "Post Assist": [
+      "James Orbison"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
     ],
     "Producer": [
       "Bruce Nash"
     ],
-    "Created By": [
-      "Bruce Nash"
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
     ],
     "Production Manager": [
       "Shelia Collins"
     ],
-    "Post Producer": [
-      "Tim Knauff"
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Written And Produced By": [
+      "Jim Hense"
     ]
   }
 }

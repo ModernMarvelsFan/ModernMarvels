@@ -4,99 +4,99 @@
   "year": "2003",
   "copyright": "© 2003 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
-    "THE HISTORY CHANNEL"
+    "Actuality Productions, Inc.",
+    "The History Channel"
   ],
   "narrators": [
-    "MAX RAPHAEL",
-    "MELANIE PIPES"
+    "Max Raphael",
+    "Melanie Pipes"
   ],
   "crew": {
-    "Edited by": [
-      "PAM MALOUF"
-    ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Music by": [
-      "ALAN ETT MUSIC GROUP"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "LAUREN LEVINE"
-    ],
-    "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ANTHONY LACQUES"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
+    "Animation By": [
+      "Victor Bornia"
     ],
     "Assistant Accountants": [
-      "SHERIDAN LIU",
-      "DENNIS LUCIANI"
+      "Sheridan Liu",
+      "Dennis Luciani"
+    ],
+    "Assistant Editor": [
+      "Taylor Greathead",
+      "Alison Tusan"
+    ],
+    "Associate Producer": [
+      "Beata Genin"
+    ],
+    "Camera": [
+      "Sal Aridi",
+      "John Collins",
+      "Peter Krajewski",
+      "Lon Magdich",
+      "Gene Moffat",
+      "Carlos Montaner"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
     ],
     "Coordinator": [
       "ROSALYN McVAY"
     ],
-    "Researcher / Voice Over Coordinator": [
-      "MELANIE PIPES"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Assistant Editor": [
-      "TAYLOR GREATHEAD",
-      "ALISON TUSAN"
+    "Director Of Research": [
+      "Anthony Lacques"
     ],
-    "Post Coordinator": [
-      "LAURA STEINHOFF"
-    ],
-    "Post Assistant": [
-      "ALEXANDER RUBINOW"
-    ],
-    "Camera": [
-      "SAL ARIDI",
-      "JOHN COLLINS",
-      "PETER KRAJEWSKI",
-      "LON MAGDICH",
-      "GENE MOFFAT",
-      "CARLOS MONTANER"
-    ],
-    "Field Audio": [
-      "JEFF HENSCHEL",
-      "NICHOLAS TETI"
-    ],
-    "Online Editor": [
-      "CHUCK CREWS"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Animation by": [
-      "VICTOR BORNIA"
-    ],
-    "Historical Consultant": [
-      "SAM GEORGE"
+    "Edited By": [
+      "Pam Malouf"
     ],
     "Executive Producer": [
-      "DON CAMBOU"
+      "Don Cambou"
     ],
-    "Written and Produced by": [
-      "ROB STONE"
+    "Field Audio": [
+      "Jeff Henschel",
+      "Nicholas Teti"
     ],
-    "Associate Producer": [
-      "BEATA GENIN"
+    "Historical Consultant": [
+      "Sam George"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "Chuck Crews"
+    ],
+    "Post Assistant": [
+      "Alexander Rubinow"
+    ],
+    "Post Coordinator": [
+      "Laura Steinhoff"
+    ],
+    "Post Producer": [
+      "Lauren Levine"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Voice Over Coordinator": [
+      "Melanie Pipes"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Written And Produced By": [
+      "Rob Stone"
     ]
   }
 }

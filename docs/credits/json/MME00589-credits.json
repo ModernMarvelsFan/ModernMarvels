@@ -11,56 +11,19 @@
     "Max Raphael"
   ],
   "crew": {
-    "Associate Producer": [
-      "Jeff Mercer"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Editor": [
-      "Lou LaProcido"
-    ],
-    "Music": [
-      "Guy Thomas"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Coordinators": [
-      "Brad Skiles",
-      "Maya Sykes"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
+    "Animation": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
       "Alexander Rubinow"
     ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
+    "Associate Producer": [
+      "Jeff Mercer"
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
@@ -74,6 +37,28 @@
       "Bob Sandefur",
       "Ron Zimmerman"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinators": [
+      "Brad Skiles",
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "David Amamoto",
       "Allen Green",
@@ -82,36 +67,51 @@
       "Amy W. Sandefur",
       "William Shackelton"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation": [
-      "Victor Bornia"
-    ],
-    "Sound Mixer": [
-      "Mark Jensen"
-    ],
-    "Technical Consultant": [
-      "Robert Mikkelsen, PhD"
-    ],
-    "For The History Channel / Programming Coordinator": [
-      "Adam Rosante"
-    ],
-    "For The History Channel / Executive Producers": [
+    "Executive Producers": [
       "Beth Dietrich-Segarra",
       "Michael Stiller"
     ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Programming Coordinator": [
+      "Adam Rosante"
     ],
-    "Written and Produced by": [
-      "Greg DeHart"
+    "Music": [
+      "Guy Thomas"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
     ],
     "Production Executive": [
       "Paul Dzilvelis"
     ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
+    ],
     "Supervising Producer": [
       "Ron Nelson"
+    ],
+    "Technical Consultant": [
+      "Robert Mikkelsen, PhD"
+    ],
+    "Written And Produced By": [
+      "Greg DeHart"
     ]
   }
 }

@@ -7,40 +7,40 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
-* **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions
+* **Narrator:** Max Raphael, Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | JUDY GORDON, SHERIDAN LIU |
-| **Animation by** | VICTOR BORNIA |
-| **Assistant Editors** | LAURA STEINHOFF, MICHAEL BROOME |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Camera** | MIKE AUDICK, BILL CHARETTE, GARY CORRIGAN, LON MAGDICH, DAVID RABINOVITZ, JOHN WICHMAN |
-| **Clearance Coordinator** | D.W. BLAKESLEE |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Coordinator** | MELINDA ESQUIBEL |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACQUES |
-| **Edited by** | BARNEY ROBINSON |
-| **Field Audio** | STEVE BORES, CHRIS BRESNAHAN, GERARD BYRNE, DAVE CURTAIN, SCOTT KIRBY, ERIC SILVERSTEIN |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistants** | GAYLEN KOBAYASHI, LINDA LIAO |
-| **Post Producer** | TIM KNAUFF |
-| **Produced by** | ACTUALITY PRODUCTIONS, INC. |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | JEFFERY PERKINS |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | MIKKI DEL MONICO, JOHN KNAPP, SEAN HECKMAN, TOM BARCLAY |
-| **Sound Mixer** | PAUL RAY |
-| **Technical Consultants** | MICHAEL BASILE, PHILIP COYLE, JACK GANSSLE, CHRISTOPHER MARRION, STEPHEN O'ROURKE |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
+| **Accountants** | Judy Gordon, Sheridan Liu |
+| **Animation By** | Victor Bornia |
+| **Assistant Editors** | Laura Steinhoff, Michael Broome |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Camera** | Mike Audick, Bill Charette, Gary Corrigan, Lon Magdich, David Rabinovitz, John Wichman |
+| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Supervisor** | Katie Del Core |
+| **Coordinator** | Melinda Esquibel |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Barney Robinson |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Steve Bores, Chris Bresnahan, Gerard Byrne, Dave Curtain, Scott Kirby, Eric Silverstein |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistants** | Gaylen Kobayashi, Linda Liao |
+| **Post Producer** | Tim Knauff |
+| **Produced By** | Actuality Productions, Inc. |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Jeffery Perkins |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researchers** | Mikki Del Monico, John Knapp, Sean Heckman, Tom Barclay |
+| **Sound Mixer** | Paul Ray |
+| **Technical Consultants** | Michael Basile, Philip Coyle, Jack Ganssle, Christopher Marrion, Stephen O'Rourke |
+| **Voice Over Coordinator** | Mikki Del Monico |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00417.md)

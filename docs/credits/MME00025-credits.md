@@ -7,41 +7,40 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2005 A&E Television Network All Rights Reserved`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, RED GYPSY ANIMATION, ALAN ETT MUSIC GROUP
-* **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions, Red Gypsy Animation, Alan Ett Music Group
+* **Narrator:** Max Raphael, Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountant** | SHERIDAN LIU, LISA CASELLA, PAULETTE PANTOJA |
-| **Animated Maps by** | RED GYPSY ANIMATION |
-| **Animation by** | ADAM DIAZ |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Camera** | TIM HOLLAND, CHAS ISENHART, LON MAGDICH, MARK MORRIS, DAVE PRYKE, BILL SCHAUM, CLINT WHITTEMORE |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Coordinators** | MELINDA ESQUIBEL, TERRENCE HARTWELL, BRAD SKILES |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ALLISON BOON |
-| **Edited by** | ROBERT LATTANZIO |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | SCOTT JONES, ROB MAERZ, JOHN SHIVER |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Historical Consultants** | MIKE ACOTT, DAN MCNICHOL, DAVID NEWCOMB, RICHARD F. WEINGROFF |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | DOUG NOLAN |
-| **Post Assistant** | GAYLEN KOBAYASHI |
-| **Post Producer** | TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | MIKKI DEL MONICO, TOM BARCLAY, ULDIS BALODIS |
-| **Sound Mixer** | ED THACKER |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
-| **Written and Produced by** | W. SCOTT GOLDIE |
+| **Accountant** | Sheridan Liu, Lisa Casella, Paulette Pantoja |
+| **Animated Maps By** | Red Gypsy Animation |
+| **Animation By** | Adam Diaz |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Camera** | Tim Holland, Chas Isenhart, Lon Magdich, Mark Morris, Dave Pryke, Bill Schaum, Clint Whittemore |
+| **Clearance Supervisor** | Katie Del Core |
+| **Coordinators** | Melinda Esquibel, Terrence Hartwell, Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Edited By** | Robert Lattanzio |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Scott Jones, Rob Maerz, John Shiver |
+| **Historical Consultants** | Mike Acott, Dan McNichol, David Newcomb, Richard F. Weingroff |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | Doug Nolan |
+| **Post Assistant** | Gaylen Kobayashi |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researchers** | Mikki Del Monico, Tom Barclay, Uldis Balodis |
+| **Sound Mixer** | Ed Thacker |
+| **Voice Over Coordinator** | Mikki Del Monico |
+| **Written And Produced By** | W. Scott Goldie |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00025.md)

@@ -23,13 +23,11 @@
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Brad Skiles |
 | **Created By** | Bruce Nash |
-| **Director of Clearance** | Katie Del Core |
-| **Director of Research** | Allison Boon |
+| **Director Of Clearance** | Katie Del Core |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Robert Lattanzio |
-| **Executive Producer** | Don Cambou |
+| **Executive Producer** | Michael Stiller |
 | **Field Audio** | Matt Bowman, Bill Dillon, Matt Gettemeier, Joe Maniscalco, Chad Miner, Brian Relph, Tom Staton, Jason Stoddard |
-| **For The History Channel / Executive Producer** | Michael Stiller |
-| **For The History Channel / Programming Coordinator** | Adam Rosante |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
@@ -41,9 +39,10 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Research** | Lawrence Givens |
 | **Sound Mixer** | Erik Valenzuela |
-| **Written and Produced by** | Greg Goldman |
+| **Written And Produced By** | Greg Goldman |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00570.md)

@@ -11,35 +11,8 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Music": [
-      "Alan Ett Music Group"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Production Accountant": [
-      "Sheridan Liu"
-    ],
-    "Researcher": [
-      "Kyle Sathers"
-    ],
-    "Coordinator": [
-      "Gregory Zide"
+    "Animation": [
+      "FlyingBlue Studio"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
@@ -47,9 +20,6 @@
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Cory Parker"
     ],
     "Camera": [
       "Gary Brooks",
@@ -59,6 +29,21 @@
       "Dan Lantz",
       "Lon Magdich"
     ],
+    "Coordinator": [
+      "Gregory Zide"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Editor": [
+      "David Beatty"
+    ],
+    "Executive Producer": [
+      "John Verhoff"
+    ],
     "Field Audio": [
       "Charlie Ethridge",
       "Michael Frederick",
@@ -67,38 +52,50 @@
       "Charles Rohr",
       "Adrian Sam"
     ],
+    "Programming Coordinator": [
+      "Adam Rosante"
+    ],
+    "Music": [
+      "Alan Ett Music Group"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "FlyingBlue Studio"
+    "Post Assist": [
+      "Cory Parker"
     ],
-    "Sound Mixer": [
-      "Nozomu Furuya-Hirota"
+    "Post Producer": [
+      "Tim Knauff"
     ],
-    "For History / Programming Coordinator": [
-      "Adam Rosante"
+    "Producer": [
+      "Bruce Nash"
     ],
-    "For History / Executive Producer": [
-      "John Verhoff"
+    "Production Accountant": [
+      "Sheridan Liu"
     ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Jared Cook"
+    "Production Controller": [
+      "Dani Eslin"
     ],
     "Production Executive": [
       "Paul Dzilvelis"
     ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Kyle Sathers"
+    ],
+    "Sound Mixer": [
+      "Nozomu Furuya-Hirota"
+    ],
     "Supervising Producer": [
       "Ron Nelson"
     ],
-    "Editor": [
-      "David Beatty"
-    ],
-    "Narrator": [
-      "Max Raphael"
+    "Written And Produced By": [
+      "Jared Cook"
     ]
   }
 }

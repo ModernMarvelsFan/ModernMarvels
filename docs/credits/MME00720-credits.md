@@ -7,58 +7,56 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `PRODUCED BY THE SIX WEST MEDIA™ GROUP FOR HISTORY® ©2021 A&E Television Networks, LLC. All Rights Reserved.`
-* **Production Company:** The Six West Media™ Group, HISTORY®, A&E Television Networks, LLC, Motion Picture Enterprises, Inc., Monkeyhead, Trick & Mortar, DV Depot, Guastella Sound
+* **Production Company:** The Six West Media™ Group, History®, A&E Television Networks, LLC, Motion Picture Enterprises, Inc., Monkeyhead, Trick & Mortar, DV Depot, Guastella Sound
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **2ND ASSISTANT ACCOUNTANTS** | Samara Choit, Aaliyah Fowler |
-| **ASSISTANT CAMERA/MEDIA MANAGERS** | Eliott Acevedo, Clarisse Callahan, Timothy Moder, Adam Oppenheim, Adam Roberts |
-| **ASSISTANT EDITORS** | Zac Ceccarelli, Jonathan A. Schwartz, Nicholas Sutera |
-| **ASSOCIATE PRODUCERS** | Malia Kobara, Margaux Moores-Tanvier, Vanessa Wilson |
-| **AUDIO** | Alan Chow, Mike Haldin, Dustin Harmon, Eric Janisch, Edmund Kasubinski, Dave Pino |
-| **AUDIO MIXER** | Andrew Kay |
-| **CAMERA OPERATORS** | Peter Garafalo, Bill Holman, Mac Kotas, Randy Lorenz, Matt Spear |
-| **CO-EXECUTIVE PRODUCER** | Steven C. Lawrence |
-| **COVID COMPLIANCE OFFICERS** | Kasey Allison, Eric Cooper, Melissa McCollum, Michelle Polacinski, Claire Queisser |
-| **DIRECTORS OF PHOTOGRAPHY** | Mitch Blummer, Edwin Diaz, Christian Riblett |
-| **EDITORS** | Ralph Avellino, Mike Baron, Korey Caldwell, Sean Glassman, Jimmy Higgins, Peter Iannuccilli, Michael Newton |
-| **EXECUTIVE PRODUCER** | Matthew J. Braley |
-| **EXECUTIVE PRODUCERS** | Steve Ascher, Kristy Sabat, Matt Pearl |
-| **FOR HISTORY® / EXECUTIVE PRODUCER** | Jim Pasquarella |
-| **FOR HISTORY® / MUSIC SERVICES** | Jennifer Insogna, Liz Morgan |
-| **FOR HISTORY® / PROGRAMMING COORDINATOR** | Celeste Amidon |
-| **FOR THE SIX WEST MEDIA™ GROUP / ADMINISTRATIVE ASSISTANT** | Zoe Resnick |
-| **FOR THE SIX WEST MEDIA™ GROUP / EXECUTIVE-IN-CHARGE** | Patrice Andrews |
-| **FOR THE SIX WEST MEDIA™ GROUP / LINE PRODUCER** | Melissa Ray |
-| **FOR THE SIX WEST MEDIA™ GROUP / SUPERVISING PRODUCER** | Allie Breslin |
-| **GEAR RENTAL** | DV Depot |
-| **GRAPHICS** | Monkeyhead, Trick &amp; Mortar |
-| **HOST** | Adam Richman |
-| **LEAD PRODUCTION ACCOUNTANT** | Sophiya Banu |
-| **LINE PRODUCER** | Pamela Wagner |
-| **ONLINE EDITOR AND COLORIST** | Andrew Esterly |
-| **ONLINE PRODUCER** | Brian Street |
-| **Original concept created by** | Bruce Nash |
-| **POST PROD MEDIA OPS TECH** | Howard Chisolm |
-| **POST PRODUCTION FACILITY** | Motion Picture Enterprises, Inc. |
-| **POST PRODUCTION SUPERVISOR** | Kevin T. Fogarty |
-| **PRODUCER** | Adam Richman, Alice Borrelli |
-| **PRODUCTION ASSISTANTS** | Alexandra Carey, Jordan Francklin, Nicolas Holsworth, Evan Leuck, Jen Mostow |
-| **PRODUCTION COORDINATORS** | Nicole Vuono, Jasmine Jean |
-| **PRODUCTION MANAGER** | Shannon Silver |
-| **PRODUCTION OFFICE ASSISTANTS** | Breanne Casucci, Allison Fennik |
-| **SENIOR DIRECTOR, POST PRODUCTION** | Tom Matheu |
-| **STORY PRODUCER** | Chris Moore |
-| **SUPERVISING FIELD PRODUCER** | Jon Jordan |
-| **SUPERVISING PRODUCER, POST PRODUCTION** | Mike Giordano |
-| **SUPERVISOR, POST PROD MEDIA OPS** | Eric Fortier |
-| **SVP, PRODUCTION OPERATIONS** | Ed Russo |
-| **UTILITY PA** | George Schramm |
-| **VO RECORD** | Guastella Sound |
-| **VP, PRODUCTION MANAGEMENT** | Patricia Paredes Saez |
+| **2Nd Assistant Accountants** | Samara Choit, Aaliyah Fowler |
+| **Administrative Assistant** | Zoe Resnick |
+| **Assistant Editors** | Zac Ceccarelli, Jonathan A. Schwartz, Nicholas Sutera |
+| **Associate Producers** | Malia Kobara, Margaux Moores-Tanvier, Vanessa Wilson |
+| **Audio** | Alan Chow, Mike Haldin, Dustin Harmon, Eric Janisch, Edmund Kasubinski, Dave Pino |
+| **Audio Mixer** | Andrew Kay |
+| **Camera Operators** | Peter Garafalo, Bill Holman, Mac Kotas, Randy Lorenz, Matt Spear |
+| **Co-Executive Producer** | Steven C. Lawrence |
+| **Covid Compliance Officers** | Kasey Allison, Eric Cooper, Melissa McCollum, Michelle Polacinski, Claire Queisser |
+| **Directors Of Photography** | Mitch Blummer, Edwin Diaz, Christian Riblett |
+| **Editors** | Ralph Avellino, Mike Baron, Korey Caldwell, Sean Glassman, Jimmy Higgins, Peter Iannuccilli, Michael Newton |
+| **Executive Producer** | Jim Pasquarella |
+| **Executive Producers** | Steve Ascher, Kristy Sabat, Matt Pearl |
+| **Executive-In-Charge** | Patrice Andrews |
+| **Gear Rental** | DV Depot |
+| **Graphics** | Monkeyhead, Trick &amp; Mortar |
+| **Host** | Adam Richman |
+| **Lead Production Accountant** | Sophiya Banu |
+| **Line Producer** | Pamela Wagner |
+| **Media Managers** | Eliott Acevedo, Clarisse Callahan, Timothy Moder, Adam Oppenheim, Adam Roberts |
+| **Music Services** | Jennifer Insogna, Liz Morgan |
+| **Online Editor And Colorist** | Andrew Esterly |
+| **Online Producer** | Brian Street |
+| **Original Concept Created By** | Bruce Nash |
+| **Post Prod Media Ops Tech** | Howard Chisolm |
+| **Post Production Facility** | Motion Picture Enterprises, Inc. |
+| **Post Production Supervisor** | Kevin T. Fogarty |
+| **Producer** | Adam Richman, Alice Borrelli |
+| **Production Assistants** | Alexandra Carey, Jordan Francklin, Nicolas Holsworth, Evan Leuck, Jen Mostow |
+| **Production Coordinators** | Nicole Vuono, Jasmine Jean |
+| **Production Manager** | Shannon Silver |
+| **Production Office Assistants** | Breanne Casucci, Allison Fennik |
+| **Programming Coordinator** | Celeste Amidon |
+| **Senior Director, Post Production** | Tom Matheu |
+| **Story Producer** | Chris Moore |
+| **Supervising Field Producer** | Jon Jordan |
+| **Supervising Producer** | Allie Breslin |
+| **Supervising Producer, Post Production** | Mike Giordano |
+| **Supervisor, Post Prod Media Ops** | Eric Fortier |
+| **Svp, Production Operations** | Ed Russo |
+| **Utility Pa** | George Schramm |
+| **Vo Record** | Guastella Sound |
+| **Vp, Production Management** | Patricia Paredes Saez |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00720.md)

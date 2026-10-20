@@ -22,12 +22,11 @@
 | **Camera** | Paul Dougherty, Tomas Hejda, Lon Magdich, Z Vidusin, Diana Wilmar |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Terrence Hartwell, Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
+| **Created By** | Bruce Nash |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
+| **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Field Audio** | Mike Curtiss, Dennis Hamlin, Jeff Holen, Charles Rohr, Mark Solomon, Tom M. Staton |
-| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **For The History Channel / Programming Coordinator** | Adam Rosante |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
@@ -36,10 +35,11 @@
 | **Producer** | Bruce Nash |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Technical Consultants** | HASTENS, Ernest Lopez, Microsoft Corporation, Premier Diagnostics, Nancy Shark, Simmons Bedding Company, Yelo, Dick Zimmerer |
-| **Written and Produced by** | Beata Ziel |
+| **Technical Consultants** | Hastens, Ernest Lopez, Microsoft Corporation, Premier Diagnostics, Nancy Shark, Simmons Bedding Company, Yelo, Dick Zimmerer |
+| **Written And Produced By** | Beata Ziel |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00595.md)

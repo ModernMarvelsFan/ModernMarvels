@@ -8,40 +8,40 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Greystone Communications, Inc., The History Channel
-* **Narrator:** WILL LYMAN
+* **Narrator:** Will Lyman
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Avid Editors** | CHRIS WORTHINGTON, EMILY MOSS |
-| **Assistant Online Editor** | LUKE SZABO |
-| **Assistant Production Coordinator** | SAVAS GEORGALIS |
-| **Bookkeeper** | ARMINEH BAGHDASARIAN |
-| **Controller** | ANIT CHAN |
-| **Coordinating Producers** | STANLEY BROWN, SETH ISLER |
-| **Editors** | KEITH BAKER, MARGARET MOORE, ALAN BILLS |
-| **Executive Producers** | CRAIG HAFFNER, DONNA E. LUSITANA |
-| **Field Audio** | KEITH BAREFOOT, JOHN CAMERON, JUSTIN DUBOSE, CRAIG GIBSON, STEVE HARRIS, CHIP HOGG |
-| **For** | THE HISTORY CHANNEL |
-| **For The History Channel / Executive Producer** | BETH DIETRICH SEGARRA |
-| **General Counsel** | SHINAAN S. KRAKOWSKY |
-| **Graphic Design** | SCOTT BELL, CHRISTOPHER GAAL, ANTHONY VAZQUEZ |
-| **Motion Control Operators** | JARED KING, DION A. LABRIOLA |
-| **Music by** | DL MUSIC |
-| **Narrated by** | WILL LYMAN |
-| **Online/Composite Editor** | ROD DECKER |
-| **Post Production Assistants** | JENNA BRADFORD, CURT COLLIER, ERIN HOWIE, HANNAH SMITH |
-| **Post Production Coordinator** | GEORGINA LLJUBO |
-| **Post Production Supervisors** | TODD CARNEY, JASON KAIFESH |
-| **Produced by** | GREYSTONE COMMUNICATIONS, INC. |
-| **Produced, Written and Directed by** | DAVID deVRIES |
-| **Production Accountant** | VIVIAN SANTOS |
-| **Production Assistants** | MATT COMPTON, RYAN GRAHAM, MATT LAUDERMILK |
-| **Production Coordinator** | EDGAR SOTOMAYOR |
-| **Researchers** | TROY BARBOUR, CAROLINA PACHECO |
-| **Series Consultant** | JAMES R. CHILES |
-| **Supervising Producer** | GLENN KIRSCHBAUM |
+| **Assistant Avid Editors** | Chris Worthington, Emily Moss |
+| **Assistant Online Editor** | Luke Szabo |
+| **Assistant Production Coordinator** | Savas Georgalis |
+| **Bookkeeper** | Armineh Baghdasarian |
+| **Composite Editor** | Rod Decker |
+| **Controller** | Anit Chan |
+| **Coordinating Producers** | Stanley Brown, Seth Isler |
+| **Editors** | Keith Baker, Margaret Moore, Alan Bills |
+| **Executive Producer** | Beth Dietrich Segarra |
+| **Executive Producers** | Craig Haffner, Donna E. Lusitana |
+| **Field Audio** | Keith Barefoot, John Cameron, Justin Dubose, Craig Gibson, Steve Harris, Chip Hogg |
+| **For** | The History Channel |
+| **General Counsel** | Shinaan S. Krakowsky |
+| **Graphic Design** | Scott Bell, Christopher Gaal, Anthony Vazquez |
+| **Motion Control Operators** | Jared King, Dion A. Labriola |
+| **Music By** | Dl Music |
+| **Narrated By** | Will Lyman |
+| **Post Production Assistants** | Jenna Bradford, Curt Collier, Erin Howie, Hannah Smith |
+| **Post Production Coordinator** | Georgina Lljubo |
+| **Post Production Supervisors** | Todd Carney, Jason Kaifesh |
+| **Produced By** | Greystone Communications, Inc. |
+| **Produced, Written And Directed By** | DAVID deVRIES |
+| **Production Accountant** | Vivian Santos |
+| **Production Assistants** | Matt Compton, Ryan Graham, Matt Laudermilk |
+| **Production Coordinator** | Edgar Sotomayor |
+| **Researchers** | Troy Barbour, Carolina Pacheco |
+| **Series Consultant** | James R. Chiles |
+| **Supervising Producer** | Glenn Kirschbaum |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00336.md)

@@ -7,40 +7,40 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Network
-* **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions, A&E Television Network
+* **Narrator:** Max Raphael, Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation by** | VICTOR BORNIA |
-| **Assistant Accountants** | SHERIDAN LIU, DENNIS LUCIANI |
-| **Camera** | PAUL G. DOUGHERTY, ED FRITZ, JULIO LUZQUINOS, LON MAGDICH, CHARLES TUDOR |
-| **Clearance Supervisor** | KATIE DEL CORE |
+| **Animation By** | Victor Bornia |
+| **Assistant Accountants** | Sheridan Liu, Dennis Luciani |
+| **Camera** | Paul G. Dougherty, Ed Fritz, Julio Luzquinos, Lon Magdich, Charles Tudor |
+| **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | ROSALYN McVAY |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACQUES |
-| **Edited by** | ROBERT LATTANZIO |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | DEREK JOHNSON, ANDY OLSON, NATHAN SMITH, THOMAS STATON |
-| **Historical Consultants** | RICHARD HALLION, NICO MELENDEZ |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | GUY THOMAS |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistant** | ALEXANDER RUBINOW |
-| **Post Coordinator** | LAURA STEINHOFF |
-| **Post Producer** | TIM KNAUFF |
-| **Produced by** | ACTUALITY PRODUCTIONS, INC., History Television Network Productions |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | JEFFERY PERKINS |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | MIKKI DEL MONICO, PAUL LACQUES |
-| **Sound Mixer** | PAUL RAY |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
-| **Written and Produced by** | ROBERT E. ZIEL |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Robert Lattanzio |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Derek Johnson, Andy Olson, Nathan Smith, Thomas Staton |
+| **Historical Consultants** | Richard Hallion, Nico Melendez |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistant** | Alexander Rubinow |
+| **Post Coordinator** | Laura Steinhoff |
+| **Post Producer** | Tim Knauff |
+| **Produced By** | Actuality Productions, Inc., History Television Network Productions |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Jeffery Perkins |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researchers** | Mikki Del Monico, Paul Lacques |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Mikki Del Monico |
+| **Written And Produced By** | Robert E. Ziel |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00374.md)

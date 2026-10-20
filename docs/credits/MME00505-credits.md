@@ -19,19 +19,19 @@
 | **Camera** | Jeff Bugbee, Dan Fried, Derek Hanlon, Chas Isenhart, Mark Kochis, Kurt Kuykendall |
 | **Clearance Coordinators** | Lawrence Givens III, Aaron Zober |
 | **Clearance Supervisor** | Katie Del Core |
-| **Director of Research** | Allison Boon |
+| **Director Of Research** | Allison Boon |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Linden Hudson, Dave Petty, Steve Scanzello, Bart Shedron |
 | **Historical Consultants** | Drew Malcomb, Scott McCarty, Jeff Pobanz, Sara Risch, Donald Rowson |
-| **Music by** | Alan Ett Music Group |
-| **Narrated by** | Max Raphael |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Coordinator** | Terrence Hartwell |
 | **Post Producer** | Tim Knauff |
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Ed Thacker |
 | **Voice Over Coordinator** | John Knapp |
-| **Written &amp; Produced by** | Emily Lau, Gloria Morris |
+| **Written &amp; Produced By** | Emily Lau, Gloria Morris |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00505.md)

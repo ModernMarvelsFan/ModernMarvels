@@ -8,40 +8,40 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by / ACTUALITY PRODUCTIONS, INC., History Television Network Productions
-* **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
+* **Narrator:** Max Raphael, Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | SHERIDAN LIU, LISA CASELLA, PAULETTE PANTOJA |
-| **Additional Animation by** | RED GYPSY ANIMATION and, ADAM GOODWIN |
-| **Animation by** | TAK PRODUCTIONS, INC. |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Associate Producer** | ALIZA POLLACK |
-| **Camera** | GARY HOFFMAN, LON MAGDICH, ROBERT MATZEN, PAUL NEAL, REID RIDELL, Z VIDUSIN |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Coordinators** | MELINDA ESQUIBEL, TERRENCE HARTWELL, BRAD SKILES |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ALLISON BOON |
-| **Edited by** | MOTOSHI WAKABAYASHI |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | JOEL BOYKIN, JUSTIN PIKE, SAMUEL SALERNO, DEBORAH SHAPIRO |
-| **Historical Consultants** | MARC GREUTHER, PAUL ISRAEL, WILLIAM PRETZER |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistant** | GAYLEN KOBAYASHI |
-| **Post Producer** | TIM KNAUFF |
-| **Produced by** | DAVE GARRISON |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | MIKKI DEL MONICO, TOM BARCLAY, ULDIS BALODIS |
-| **Sound Mixer** | ED THACKER |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
+| **Accountants** | Sheridan Liu, Lisa Casella, Paulette Pantoja |
+| **Additional Animation By** | RED GYPSY ANIMATION and, Adam Goodwin |
+| **Animation By** | Tak Productions, Inc. |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Associate Producer** | Aliza Pollack |
+| **Camera** | Gary Hoffman, Lon Magdich, Robert Matzen, Paul Neal, Reid Ridell, Z Vidusin |
+| **Clearance Supervisor** | Katie Del Core |
+| **Coordinators** | Melinda Esquibel, Terrence Hartwell, Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Edited By** | Motoshi Wakabayashi |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Joel Boykin, Justin Pike, Samuel Salerno, Deborah Shapiro |
+| **Historical Consultants** | Marc Greuther, Paul Israel, William Pretzer |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistant** | Gaylen Kobayashi |
+| **Post Producer** | Tim Knauff |
+| **Produced By** | Dave Garrison |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researchers** | Mikki Del Monico, Tom Barclay, Uldis Balodis |
+| **Sound Mixer** | Ed Thacker |
+| **Voice Over Coordinator** | Mikki Del Monico |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00467.md)

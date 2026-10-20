@@ -14,17 +14,17 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **MODERN MARVELS / Animation** | GLENN TAKAKJIAN |
-| **MODERN MARVELS / Assistant Production Accountants** | LINDA SCRIBNER, FRANCIS RAMEY |
-| **MODERN MARVELS / Footage Consultant** | TED TROLL |
-| **MODERN MARVELS / For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **MODERN MARVELS / For The History Channel / Supervising Producer** | BETH DIETRICH |
-| **MODERN MARVELS / Online Editor** | DAVID REX |
-| **MODERN MARVELS / Production Assistants** | MARYALICE R. ARAGON, GWENDOLYN MURPHY, JAMIE SCHOENBRUN |
-| **MODERN MARVELS / Production Auditor** | DANI ESLIN |
-| **MODERN MARVELS / Production Coordinator** | KATHY EXNER |
-| **MODERN MARVELS / Sound Mixer** | MATT GRUBER |
-| **Produced by** | ACTUALITY Productions, Inc. |
+| **Animation** | Glenn Takakjian |
+| **Assistant Production Accountants** | Linda Scribner, Francis Ramey |
+| **Executive Producer** | Charlie Maday |
+| **Footage Consultant** | Ted Troll |
+| **Online Editor** | David Rex |
+| **Produced By** | ACTUALITY Productions, Inc. |
+| **Production Assistants** | Maryalice R. Aragon, Gwendolyn Murphy, Jamie Schoenbrun |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Sound Mixer** | Matt Gruber |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00124.md)

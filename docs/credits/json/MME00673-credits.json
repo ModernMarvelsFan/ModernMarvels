@@ -12,48 +12,22 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
+    "Animated Stills": [
+      "Adam Goodwin",
+      "David Beatty"
     ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Music": [
-      "Guy Thomas"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Production Accountant": [
-      "Sheridan Liu"
-    ],
-    "Researcher": [
-      "Rick George"
-    ],
-    "Coordinator": [
-      "Gregory Zide"
+    "Animation": [
+      "FlyingBlue Studio"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Nate Dusek"
     ],
+    "Associate Producer": [
+      "Andrew Fuller"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Cory Parker"
     ],
     "Camera": [
       "Council Bradshaw",
@@ -67,6 +41,21 @@
       "Stan Taylor",
       "Jake Wilganowski"
     ],
+    "Coordinator": [
+      "Gregory Zide"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Editor": [
+      "David Beatty"
+    ],
+    "Executive Producer": [
+      "John Verhoff"
+    ],
     "Field Audio": [
       "Rusty Duggan",
       "Allen Green",
@@ -78,46 +67,54 @@
       "James W. Siler, III",
       "Tim Snider"
     ],
+    "Programming Coordinator": [
+      "Adam Rosante"
+    ],
+    "Music": [
+      "Guy Thomas"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "FlyingBlue Studio"
+    "Post Assist": [
+      "Cory Parker"
     ],
-    "Sound Mixer": [
-      "Nozomu Furuya-Hirota"
+    "Post Producer": [
+      "Tim Knauff"
     ],
-    "Animated Stills": [
-      "Adam Goodwin",
-      "David Beatty"
-    ],
-    "Produced by": [
+    "Produced By": [
       "Actuality Productions, Inc.",
       "For History"
     ],
-    "For History / Programming Coordinator": [
-      "Adam Rosante"
+    "Producer": [
+      "Bruce Nash"
     ],
-    "For History / Executive Producer": [
-      "John Verhoff"
+    "Production Accountant": [
+      "Sheridan Liu"
     ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "John Griffin"
+    "Production Controller": [
+      "Dani Eslin"
     ],
     "Production Executive": [
       "Paul Dzilvelis"
     ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Rick George"
+    ],
+    "Sound Mixer": [
+      "Nozomu Furuya-Hirota"
+    ],
     "Supervising Producer": [
       "Ron Nelson"
     ],
-    "Associate Producer": [
-      "Andrew Fuller"
-    ],
-    "Editor": [
-      "David Beatty"
+    "Written And Produced By": [
+      "John Griffin"
     ]
   }
 }

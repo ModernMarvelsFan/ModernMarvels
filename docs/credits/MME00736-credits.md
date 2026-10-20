@@ -14,61 +14,59 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **ACCOUNTANTS** | Malia Marsh, Leslie Pinkstaff |
-| **ACCOUNTING CLERK** | Julia Casalino |
-| **ANIMATED STILLS** | Adam Goodwin |
-| **ANIMATION** | FlyingBlue Studio |
-| **ASSISTANT EDITORS** | Case Conner, Isaiah Dyer, Alexander Rubinow, Nate Dusek |
-| **ASSISTANT PRODUCTION ACCOUNTANTS** | Samara Choit, Hayden McComas |
-| **ASSOCIATE PRODUCER** | Sapna Chhabra |
-| **ASSOCIATE PRODUCERS** | Andre Bellamy-Cesar, Kem Poston, Savannah Silvert |
-| **AUDIO MIXER** | Andrew Kay |
-| **AUDIO POST COORDINATOR** | Katherine Margall |
-| **CAMERA** | Kyle Gallagher, Jerry M. Jacob, John Kabasakalis, Lon Magdich, Terry O'Dell, John Reed, Zvonimir Vidusin, Marty Zimmerman |
-| **COORDINATING PRODUCER** | Pat Nugent |
-| **COORDINATOR** | Gregory Zide |
-| **CREATED BY** | Bruce Nash |
-| **DIRECTOR OF CLEARANCE** | Jerianne Keaney |
-| **EDITOR** | Michael Newton, Lou LaProcido |
-| **EXECUTIVE IN CHARGE OF PRODUCTION** | Patrice Andrews |
-| **EXECUTIVE PRODUCER** | Don Cambou |
-| **FIELD AUDIO** | Daniel Agustin, Juan Cammarano, Dan Cook, Mark Page, Matt Hamilton, Andre Logan, Greg Stidham, Phil Velasco |
-| **FINISHING ASSOCIATE PRODUCER** | KT Smith Jr. |
-| **FOR HISTORY(R) / COORDINATING PRODUCER** | Liv Fidler |
-| **FOR HISTORY(R) / EXECUTIVE PRODUCERS** | John Verhoff, Jim Pasquarella, Brandy Crawford-Uriu |
-| **FOR HISTORY(R) / PROGRAMMING COORDINATOR** | Adam Rosante |
-| **FOR THE SIX WEST MEDIA(TM) GROUP / EXECUTIVE PRODUCERS** | Steve Ascher, Matt Pearl, Kristy Sabat |
-| **GRAPHICS** | Ballast TV |
-| **JUNIOR PRODUCTION ACCOUNTANT** | Phurbu Nepali |
-| **LEAD ASSISTANT EDITOR** | Scott R. Dixon |
-| **LEAD PRODUCTION ACCOUNTANT** | Sophiya Banu |
-| **LINE PRODUCER** | Melissa Ray |
-| **MUSIC** | Guy Thomas, Extreme Music |
-| **NARRATION** | Lloyd Sherr |
-| **ONLINE EDITOR** | John Price |
-| **ONLINE EDITOR AND COLORIST** | Martin Benn |
-| **ONLINE PRODUCER** | Brian Street |
-| **POST ASSISTANT** | Cory Parker |
-| **POST COORDINATOR** | Gaylen Kobayashi |
-| **POST PRODUCER** | Ted Poole, Tim Knauff |
-| **POST-PRODUCTION ASSISTANT** | Samantha Lochs |
-| **POST-PRODUCTION COORDINATOR** | Denise McGinnisdoy |
-| **POST-PRODUCTION FACILITY** | Motion Picture Enterprises, Inc. |
-| **POST-PRODUCTION SUPERVISOR** | Allison Moser |
-| **PRODUCER** | Bruce Nash |
-| **PRODUCTION AND DEVELOPMENT ASSISTANT** | Zoe Resnick |
-| **PRODUCTION CONTROLLER** | Dani Eslin |
-| **PRODUCTION EXECUTIVE** | Paul Dzilvelis |
-| **PRODUCTION MANAGER** | Kathy Williams, Shelia Collins |
-| **RESEARCH** | Rick George |
-| **SENIOR MANAGER, RIGHTS &amp; CLEARANCES** | Elio Concepcion |
-| **SOUND MIXER** | Yasuhiro Furuya-Hirota |
-| **SUPERVISING PRODUCER** | Allie Breslin, Ron Nelson |
-| **SUPERVISING PRODUCERS, POST-PRODUCTION** | Helena Greenwald, Mike Giordano |
-| **SVP, PRODUCTION OPERATIONS** | Ed Russo |
-| **TECHNICAL CONSULTANTS** | Mark Bassett, CJ Generation, LLC, Chris Crain, Jack W. Finger, I-Wei Huang, Stanley Museum, Steamboat Natchez |
-| **VP, PRODUCTION MANAGEMENT** | Patricia Paredes Saez |
-| **WRITTEN AND PRODUCED BY** | Richard Jones |
+| **Accountants** | Malia Marsh, Leslie Pinkstaff |
+| **Accounting Clerk** | Julia Casalino |
+| **Animated Stills** | Adam Goodwin |
+| **Animation** | FlyingBlue Studio |
+| **Assistant Editors** | Case Conner, Isaiah Dyer, Alexander Rubinow, Nate Dusek |
+| **Assistant Production Accountants** | Samara Choit, Hayden McComas |
+| **Associate Producer** | Sapna Chhabra |
+| **Associate Producers** | Andre Bellamy-Cesar, Kem Poston, Savannah Silvert |
+| **Audio Mixer** | Andrew Kay |
+| **Audio Post Coordinator** | Katherine Margall |
+| **Camera** | Kyle Gallagher, Jerry M. Jacob, John Kabasakalis, Lon Magdich, Terry O'Dell, John Reed, Zvonimir Vidusin, Marty Zimmerman |
+| **Coordinating Producer** | Liv Fidler |
+| **Coordinator** | Gregory Zide |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Editor** | Michael Newton, Lou LaProcido |
+| **Executive In Charge Of Production** | Patrice Andrews |
+| **Executive Producer** | Don Cambou |
+| **Executive Producers** | Steve Ascher, Matt Pearl, Kristy Sabat |
+| **Field Audio** | Daniel Agustin, Juan Cammarano, Dan Cook, Mark Page, Matt Hamilton, Andre Logan, Greg Stidham, Phil Velasco |
+| **Finishing Associate Producer** | KT Smith Jr. |
+| **Graphics** | Ballast TV |
+| **Junior Production Accountant** | Phurbu Nepali |
+| **Lead Assistant Editor** | Scott R. Dixon |
+| **Lead Production Accountant** | Sophiya Banu |
+| **Line Producer** | Melissa Ray |
+| **Music** | Guy Thomas, Extreme Music |
+| **Narration** | Lloyd Sherr |
+| **Online Editor** | John Price |
+| **Online Editor And Colorist** | Martin Benn |
+| **Online Producer** | Brian Street |
+| **Post Assistant** | Cory Parker |
+| **Post Coordinator** | Gaylen Kobayashi |
+| **Post Producer** | Ted Poole, Tim Knauff |
+| **Post-Production Assistant** | Samantha Lochs |
+| **Post-Production Coordinator** | Denise McGinnisdoy |
+| **Post-Production Facility** | Motion Picture Enterprises, Inc. |
+| **Post-Production Supervisor** | Allison Moser |
+| **Producer** | Bruce Nash |
+| **Production And Development Assistant** | Zoe Resnick |
+| **Production Controller** | Dani Eslin |
+| **Production Executive** | Paul Dzilvelis |
+| **Production Manager** | Kathy Williams, Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
+| **Research** | Rick George |
+| **Senior Manager, Rights &amp; Clearances** | Elio Concepcion |
+| **Sound Mixer** | Yasuhiro Furuya-Hirota |
+| **Supervising Producer** | Allie Breslin, Ron Nelson |
+| **Supervising Producers, Post-Production** | Helena Greenwald, Mike Giordano |
+| **Svp, Production Operations** | Ed Russo |
+| **Technical Consultants** | Mark Bassett, CJ Generation, LLC, Chris Crain, Jack W. Finger, I-Wei Huang, Stanley Museum, Steamboat Natchez |
+| **Vp, Production Management** | Patricia Paredes Saez |
+| **Written And Produced By** | Richard Jones |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00736.md)

@@ -4,37 +4,34 @@
   "year": "2001",
   "copyright": "© 2002 A&E Television Networks All Rights Reserved HistoryChannel.com",
   "studios": [
-    "ACTUALITY PRODUCTIONS",
+    "Actuality Productions",
     "Hearst Entertainment",
-    "THE HISTORY CHANNEL"
+    "The History Channel"
   ],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "AARON KASS"
-    ],
     "Associate Producer": [
-      "BOB PETRELLA"
-    ],
-    "Line Producer": [
-      "PAUL DZILVELIS"
+      "Bob Petrella"
     ],
     "Consulting Producer": [
-      "HENRY SCHIPPER"
+      "Henry Schipper"
     ],
-    "Narrated by": [
-      "MAX RAPHAEL"
+    "Edited By": [
+      "Julian Gomez"
     ],
-    "Edited by": [
-      "JULIAN GOMEZ"
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Written And Produced By": [
+      "Aaron Kass"
     ]
   }
 }

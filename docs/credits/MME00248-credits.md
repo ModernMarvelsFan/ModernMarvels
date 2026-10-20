@@ -22,13 +22,12 @@
 | **Camera** | Dylan S. O'Brien |
 | **Clearance Assistant** | Gabe Martinez |
 | **Clearance Supervisor** | Katie Del Core |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Hildie Katibah |
-| **Edited by** | Andre Vaillancourt |
-| **Executive Producer** | Don Cambou |
-| **For The History Channel / Executive Producer** | Beth Dietrich-Segarra |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Hildie Katibah |
+| **Edited By** | Andre Vaillancourt |
+| **Executive Producer** | Beth Dietrich-Segarra |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett |
+| **Music By** | Alan Ett |
 | **Online Editor** | David Rex |
 | **Post Production Coordinator** | Gary Reid |
 | **Post Production Supervisor** | Jason Steinberg |
@@ -39,7 +38,7 @@
 | **Production Manager** | Kathlene Exner |
 | **Sound Mixer** | Marcus Pardo |
 | **Voice Over Coordinator** | Anthony Lacques |
-| **Written and Produced by** | Nancy Oey |
+| **Written And Produced By** | Nancy Oey |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00248.md)

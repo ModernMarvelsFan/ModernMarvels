@@ -14,24 +14,23 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animated Photos and Stills by** | Adam Goodwin |
-| **Animation by** | Randall Rickert |
+| **Animated Photos And Stills By** | Adam Goodwin |
+| **Animation By** | Randall Rickert |
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow |
 | **Assistant Post Coordinator** | Gaylen Kobayashi |
 | **Associate Producer** | Carolina Pacheco |
 | **Camera** | John Chater, Tomas Hejda, Robin Hirsh, Lon Magdich |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Brad Skiles |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Allison Boon |
-| **Director of Rights and Clearances** | Katie Del Core |
-| **Edited by** | Marcelo Lopes |
-| **Executive Producer** | Don Cambou |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Director Of Rights And Clearances** | Katie Del Core |
+| **Edited By** | Marcelo Lopes |
+| **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Jeffrey Knudsen, James Lindsey |
-| **For The History Channel / Executive Producer** | Beth Dietrich-Segarra |
 | **Historical Consultant** | Jim Lamar |
-| **Music by** | Guy Thomas |
-| **Narrated by** | Max Raphael |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Coordinator** | Terrence Hartwell |
 | **Post Producer** | Tim Knauff |
@@ -40,7 +39,7 @@
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Mark Jensen |
-| **Written and Produced by** | Philip Kruener |
+| **Written And Produced By** | Philip Kruener |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00561.md)

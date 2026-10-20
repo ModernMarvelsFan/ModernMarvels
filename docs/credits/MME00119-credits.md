@@ -8,27 +8,27 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** HARLAN SAPERSTEIN
+* **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | STUART BRODLIEB, HARRIS COHEN, GARY REID |
-| **Assistant Production Accountant** | LINDA SCRIBNER |
-| **Associate Producer** | CHRISTOF RITTER |
-| **Clearance Coordinator** | KATIE DEL CORE |
-| **Clearance Supervisor** | AMY TRAHANT |
-| **Director of Research** | BARRY HILL |
-| **Executive Producer** | DON CAMBOU |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT |
-| **Narrated by** | HARLAN SAPERSTEIN |
-| **Post Production Assistant** | BRIAN VOLK |
-| **Post Production Coordinator** | JASON STEINBERG |
-| **Producer** | BRUCE NASH |
-| **Production Auditor** | DANI ESLIN |
-| **Researchers** | ERIK HIETTER, EMILY LAU |
+| **Assistant Editors** | Stuart Brodlieb, Harris Cohen, Gary Reid |
+| **Assistant Production Accountant** | Linda Scribner |
+| **Associate Producer** | Christof Ritter |
+| **Clearance Coordinator** | Katie Del Core |
+| **Clearance Supervisor** | Amy Trahant |
+| **Director Of Research** | Barry Hill |
+| **Executive Producer** | Don Cambou |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett |
+| **Narrated By** | Harlan Saperstein |
+| **Post Production Assistant** | Brian Volk |
+| **Post Production Coordinator** | Jason Steinberg |
+| **Producer** | Bruce Nash |
+| **Production Auditor** | Dani Eslin |
+| **Researchers** | Erik Hietter, Emily Lau |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00119.md)

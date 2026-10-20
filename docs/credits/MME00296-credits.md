@@ -8,41 +8,41 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL
-* **Narrator:** MAX RAPHAEL, BEATA GENIN
+* **Narrator:** Max Raphael, Beata Genin
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | VICTOR BORNIA |
-| **Archivist** | NILDA PERGOLA-JENSEN |
-| **Assistant Editor** | SCOTT R. MARTIN |
-| **Assistant Production Accountants** | LINDA SCRIBNER, DENNIS LUCIANI |
-| **Assistant Production Coordinator** | JAMES WISER |
-| **Associate Producer** | KRISTINA DJOKIC |
-| **Camera** | BOB DEMBOSKI, MARK A. GAMBOL, GARY HOFFMAN, MARK MORRIS, JED UDALL, Z VIDUSIN |
-| **Clearance Assistant** | GABE MARTINEZ |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Director of Research** | HILDIE KATIBAH |
-| **Edited by** | JULIAN GOMEZ |
-| **Executive Producer** | BETH DIETRICH-SEGARRA, DON CAMBOU |
-| **Field Audio** | DAN FRIED, CHIP LITAKER, DINO QUAGLIETTA, CHARLES ROHR, CHRIS WESTON |
-| **Footage Consultant** | TED TROLL |
-| **Graphic Artist** | BARRY HILL |
-| **Historical Consultants** | GARY BENNETT, MIKE LAWTON, CINDY MANNES, DENNIS MOORE |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | GUY THOMAS |
-| **Narrator** | MAX RAPHAEL |
-| **Online Editors** | RICK GREENWALD, PAUL PIEPER |
-| **Post Production Assistant** | LAURA STEINHOFF |
-| **Post Production Coordinator** | GARY REID |
-| **Post Production Supervisor** | JASON STEINBERG |
-| **Production Assistant** | DAVID FALCIANI |
-| **Production Auditor** | DANI ESLIN |
-| **Production Manager** | KATHLENE EXNER |
-| **Sound Mixer** | PAUL RAY |
-| **Voice Over Coordinator** | BEATA GENIN |
-| **Written and Produced by** | LEE SCHNEIDER |
+| **Animation** | Victor Bornia |
+| **Archivist** | Nilda Pergola-Jensen |
+| **Assistant Editor** | Scott R. Martin |
+| **Assistant Production Accountants** | Linda Scribner, Dennis Luciani |
+| **Assistant Production Coordinator** | James Wiser |
+| **Associate Producer** | Kristina Djokic |
+| **Camera** | Bob Demboski, Mark A. Gambol, Gary Hoffman, Mark Morris, Jed Udall, Z Vidusin |
+| **Clearance Assistant** | Gabe Martinez |
+| **Clearance Supervisor** | Katie Del Core |
+| **Director Of Research** | Hildie Katibah |
+| **Edited By** | Julian Gomez |
+| **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
+| **Field Audio** | Dan Fried, Chip Litaker, Dino Quaglietta, Charles Rohr, Chris Weston |
+| **Footage Consultant** | Ted Troll |
+| **Graphic Artist** | Barry Hill |
+| **Historical Consultants** | Gary Bennett, Mike Lawton, Cindy Mannes, Dennis Moore |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Guy Thomas |
+| **Narrator** | Max Raphael |
+| **Online Editors** | Rick Greenwald, Paul Pieper |
+| **Post Production Assistant** | Laura Steinhoff |
+| **Post Production Coordinator** | Gary Reid |
+| **Post Production Supervisor** | Jason Steinberg |
+| **Production Assistant** | David Falciani |
+| **Production Auditor** | Dani Eslin |
+| **Production Manager** | Kathlene Exner |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Beata Genin |
+| **Written And Produced By** | Lee Schneider |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00296.md)

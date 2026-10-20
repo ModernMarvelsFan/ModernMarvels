@@ -8,41 +8,14 @@
     "Max Raphael"
   ],
   "crew": {
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Music by": [
-      "Guy Thomas"
-    ],
-    "Production Manager": [
-      "Sheila Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Coordinator": [
-      "Melinda Esquibel"
-    ],
-    "Researchers": [
-      "Paul Lacques",
-      "Mikki Del Monico",
-      "John Knapp"
-    ],
-    "Production Assistant": [
-      "Jeffery Perkins"
+    "Animation By": [
+      "Randall Rickert"
     ],
     "Assistant Post Coordinator": [
       "Alexander Rubinow"
-    ],
-    "Post Assistants": [
-      "Gaylen Kobayashi",
-      "Linda Liao"
     ],
     "Camera": [
       "Roddy Blelloch",
@@ -52,6 +25,15 @@
       "Julio Luzquinos",
       "Lon Magdich"
     ],
+    "Coordinator": [
+      "Melinda Esquibel"
+    ],
+    "Edited By": [
+      "Barney Robinson"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Owen Bissel",
       "John Bogley",
@@ -60,30 +42,48 @@
       "James Hanlon",
       "Albert Nematollahi"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Paul Ray"
-    ],
-    "Animation by": [
-      "Randall Rickert"
-    ],
     "Historical Consultant": [
       "Stephen Schwartz"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "W. Scott Goldie",
-      "Anthony Lacques"
     ],
     "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "Edited by": [
-      "Barney Robinson"
+    "Music By": [
+      "Guy Thomas"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistants": [
+      "Gaylen Kobayashi",
+      "Linda Liao"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Production Assistant": [
+      "Jeffery Perkins"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Sheila Collins"
+    ],
+    "Researchers": [
+      "Paul Lacques",
+      "Mikki Del Monico",
+      "John Knapp"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Written And Produced By": [
+      "W. Scott Goldie",
+      "Anthony Lacques"
     ]
   }
 }

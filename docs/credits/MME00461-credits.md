@@ -19,20 +19,20 @@
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Clearance Coordinator** | D.W. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Anthony Lacques |
-| **Edited by** | Motoshi Wakabayashi |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Motoshi Wakabayashi |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Daniel J. Cook, Art Jaso, Marshall Peasy, Dana Sleiman, Keith Thomas |
 | **Historical Consultants** | James I. Robertson, Jr., George Wunderlich |
-| **Music by** | Guy Thomas |
-| **Narrated by** | Max Raphael |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Producer** | Bruce Nash |
 | **Production Controller** | Dani Eslin |
 | **Sound Mixer** | Ed Thatcher |
 | **Voice Over Coordinator** | Mikki Del Monico |
-| **Written and Produced by** | Jeff Cole |
+| **Written And Produced By** | Jeff Cole |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00461.md)

@@ -23,8 +23,8 @@
 | **Clearance Supervisor** | Leslie Anne Clark |
 | **Executive Producer** | Charlie Maday |
 | **Field Audio** | Ian Melchinger, David Ornstein, Henry Young |
-| **Music by** | Alan Ett |
-| **Narrated by** | Harlan Saperstein |
+| **Music By** | Alan Ett |
+| **Narrated By** | Harlan Saperstein |
 | **Online Editor** | David Rex |
 | **Post Production Assistant** | Gary Reid |
 | **Post Production Coordinator** | Leanne M. Anaya Reece |

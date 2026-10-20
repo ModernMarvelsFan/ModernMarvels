@@ -14,11 +14,11 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | ROBERT ZIEL |
-| **Created By** | BRUCE NASH |
+| **Associate Producer** | Robert Ziel |
+| **Created By** | Bruce Nash |
 | **Edited By** | JANE McCORD |
-| **Supervising Producer** | DON CAMBOU |
-| **Written and Produced by** | YANN DEBONNE |
+| **Supervising Producer** | Don Cambou |
+| **Written And Produced By** | Yann Debonne |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00006.md)

@@ -4,117 +4,114 @@
   "year": "1995",
   "copyright": "© 2005 A&E Television Network All Rights Reserved",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions",
-    "RED GYPSY ANIMATION",
-    "ALAN ETT MUSIC GROUP"
+    "Red Gypsy Animation",
+    "Alan Ett Music Group"
   ],
   "narrators": [
-    "MAX RAPHAEL",
-    "MIKKI DEL MONICO"
+    "Max Raphael",
+    "Mikki Del Monico"
   ],
   "crew": {
-    "Edited by": [
-      "ROBERT LATTANZIO"
-    ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Music by": [
-      "ALAN ETT MUSIC GROUP"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "TIM KNAUFF"
-    ],
-    "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ALLISON BOON"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
     "Accountant": [
-      "SHERIDAN LIU",
-      "LISA CASELLA",
-      "PAULETTE PANTOJA"
+      "Sheridan Liu",
+      "Lisa Casella",
+      "Paulette Pantoja"
     ],
-    "Researchers": [
-      "MIKKI DEL MONICO",
-      "TOM BARCLAY",
-      "ULDIS BALODIS"
+    "Animated Maps By": [
+      "Red Gypsy Animation"
     ],
-    "Coordinators": [
-      "MELINDA ESQUIBEL",
-      "TERRENCE HARTWELL",
-      "BRAD SKILES"
-    ],
-    "Voice Over Coordinator": [
-      "MIKKI DEL MONICO"
+    "Animation By": [
+      "Adam Diaz"
     ],
     "Assistant Editors": [
-      "LAURA STEINHOFF",
-      "JOSH BECKHAM"
+      "Laura Steinhoff",
+      "Josh Beckham"
     ],
     "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
-    ],
-    "Post Assistant": [
-      "GAYLEN KOBAYASHI"
+      "Alexander Rubinow"
     ],
     "Camera": [
-      "TIM HOLLAND",
-      "CHAS ISENHART",
-      "LON MAGDICH",
-      "MARK MORRIS",
-      "DAVE PRYKE",
-      "BILL SCHAUM",
-      "CLINT WHITTEMORE"
+      "Tim Holland",
+      "Chas Isenhart",
+      "Lon Magdich",
+      "Mark Morris",
+      "Dave Pryke",
+      "Bill Schaum",
+      "Clint Whittemore"
     ],
-    "Field Audio": [
-      "SCOTT JONES",
-      "ROB MAERZ",
-      "JOHN SHIVER"
+    "Clearance Supervisor": [
+      "Katie Del Core"
     ],
-    "Online Editor": [
-      "DOUG NOLAN"
+    "Coordinators": [
+      "Melinda Esquibel",
+      "Terrence Hartwell",
+      "Brad Skiles"
     ],
-    "Sound Mixer": [
-      "ED THACKER"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Animation by": [
-      "ADAM DIAZ"
+    "Director Of Research": [
+      "Allison Boon"
     ],
-    "Animated Maps by": [
-      "RED GYPSY ANIMATION"
-    ],
-    "Historical Consultants": [
-      "MIKE ACOTT",
-      "DAN MCNICHOL",
-      "DAVID NEWCOMB",
-      "RICHARD F. WEINGROFF"
-    ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
+    "Edited By": [
+      "Robert Lattanzio"
     ],
     "Executive Producer": [
-      "DON CAMBOU"
+      "Beth Dietrich-Segarra"
     ],
-    "Written and Produced by": [
-      "W. SCOTT GOLDIE"
+    "Field Audio": [
+      "Scott Jones",
+      "Rob Maerz",
+      "John Shiver"
+    ],
+    "Historical Consultants": [
+      "Mike Acott",
+      "Dan McNichol",
+      "David Newcomb",
+      "Richard F. Weingroff"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "Doug Nolan"
+    ],
+    "Post Assistant": [
+      "Gaylen Kobayashi"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Mikki Del Monico",
+      "Tom Barclay",
+      "Uldis Balodis"
+    ],
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
+    ],
+    "Written And Produced By": [
+      "W. Scott Goldie"
     ]
   }
 }

@@ -15,22 +15,22 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Accountant** | Sheridan Liu |
-| **Animation by** | Red Gypsy Animation |
+| **Animation By** | Red Gypsy Animation |
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Associate Producer** | Sean Heckman |
 | **Clearance Coordinator** | D.W. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | Melinda Esquibel |
-| **Created by** | Bruce Nash |
-| **Edited by** | Barney Robinson |
+| **Created By** | Bruce Nash |
+| **Edited By** | Barney Robinson |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Jim Petit |
 | **Grip** | Mathew Norbut |
 | **Historical Consultants** | Bob Gladu, Floyd McKeith, PhD |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett Music Group |
-| **Narrated by** | Max Raphael |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assistant** | Gaylen Rubinow |
 | **Post Producer** | Tim Knauff |
@@ -39,7 +39,7 @@
 | **Researchers** | Mikki Del Monico, Sean Heckman, John Knapp, Tom Barclay |
 | **Sound Mixer** | Ed Thacker |
 | **Voice Over Coordinator** | Mikki Del Monico |
-| **Written and Produced By** | Jim Hense, Michael Hacker |
+| **Written And Produced By** | Jim Hense, Michael Hacker |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00441.md)

@@ -4,58 +4,55 @@
   "year": "2006",
   "copyright": "©MCMXCIX A&E TELEVISION NETWORKS All Rights Reserved",
   "studios": [
-    "GREYSTONE COMMUNICATIONS, INC.",
-    "THE HISTORY CHANNEL",
-    "A&E TELEVISION NETWORKS"
+    "Greystone Communications, Inc.",
+    "The History Channel",
+    "A&e Television Networks"
   ],
   "narrators": [],
   "crew": {
-    "FOR THE HISTORY CHANNEL / Supervising Producer": [
-      "ELYSE MIRANDA"
+    "Executive Producer": [
+      "Charlie Maday"
     ],
-    "FOR THE HISTORY CHANNEL / Executive Producer": [
-      "CHARLIE MADAY"
+    "Supervising Producer": [
+      "Raymond Bridgers"
     ],
-    "TALES OF THE GUN / Produced by": [
-      "BRIAN COUGHLIN"
+    "Assistant Researcher": [
+      "Kathy Bugajsky"
     ],
-    "TALES OF THE GUN / Supervising Producer": [
-      "RAYMOND BRIDGERS"
+    "Associate Producer": [
+      "Rob Senkel"
     ],
-    "TALES OF THE GUN / Coordinating Producer": [
-      "LOUIS C. TARANTINO"
+    "Coordinating Producer": [
+      "Louis C. Tarantino"
     ],
-    "TALES OF THE GUN / Associate Producer": [
-      "ROB SENKEL"
+    "Director Of Photography": [
+      "Norm Johnston"
     ],
-    "TALES OF THE GUN / Editor": [
-      "KEVIN BROWNE"
+    "Editor": [
+      "Kevin Browne"
     ],
-    "TALES OF THE GUN / Researcher": [
-      "RANNVEIG KROKDAL"
+    "Executive Producers": [
+      "Craig Haffner",
+      "Donna E. Lusitana"
     ],
-    "TALES OF THE GUN / Assistant Researcher": [
-      "KATHY BUGAJSKY"
+    "General Counsel": [
+      "Shinaan Krakowsky"
     ],
-    "TALES OF THE GUN / General Counsel": [
-      "SHINAAN KRAKOWSKY"
+    "Original Music By": [
+      "Christopher Stone",
+      "Steven Morrell"
     ],
-    "TALES OF THE GUN / Director of Photography": [
-      "NORM JOHNSTON"
+    "Post Production Supervisor": [
+      "Blaine Williams"
     ],
-    "TALES OF THE GUN / Original Music by": [
-      "CHRISTOPHER STONE",
-      "STEVEN MORRELL"
+    "Produced By": [
+      "Brian Coughlin"
     ],
-    "TALES OF THE GUN / Post Production Supervisor": [
-      "BLAINE WILLIAMS"
+    "Production Coordinator": [
+      "Douglas J. Cohen"
     ],
-    "TALES OF THE GUN / Production Coordinator": [
-      "DOUGLAS J. COHEN"
-    ],
-    "TALES OF THE GUN / Executive Producers": [
-      "CRAIG HAFFNER",
-      "DONNA E. LUSITANA"
+    "Researcher": [
+      "Rannveig Krokdal"
     ]
   }
 }

@@ -11,41 +11,11 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created By": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Coordinator": [
-      "Brad Skiles"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
-    "Research": [
-      "Lawrence Givens"
+    "Animation": [
+      "i.e. Effects"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -53,11 +23,11 @@
       "Alexander Rubinow",
       "Jeremy Segal"
     ],
+    "Associate Producer": [
+      "Suzanne Murarik"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "James Orbison"
     ],
     "Camera": [
       "Dave Berliner",
@@ -69,6 +39,27 @@
       "Robert Shenise",
       "Ron Zimmerman"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Katie Del Core"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Editor": [
+      "Robert Lattanzio"
+    ],
+    "Executive Producer": [
+      "Michael Stiller"
+    ],
     "Field Audio": [
       "Matt Bowman",
       "Bill Dillon",
@@ -79,44 +70,50 @@
       "Tom Staton",
       "Jason Stoddard"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation": [
-      "i.e. Effects"
-    ],
-    "Sound Mixer": [
-      "Erik Valenzuela"
-    ],
-    "Production Assistant": [
-      "Eugene F. O'Neill"
-    ],
-    "For The History Channel / Executive Producer": [
-      "Michael Stiller"
-    ],
-    "For The History Channel / Programming Coordinator": [
+    "Programming Coordinator": [
       "Adam Rosante"
     ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Greg Goldman"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Associate Producer": [
-      "Suzanne Murarik"
+    "Music": [
+      "Alan Ett Music Group"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Editor": [
-      "Robert Lattanzio"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music": [
-      "Alan Ett Music Group"
+    "Post Assist": [
+      "James Orbison"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Eugene F. O'Neill"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Research": [
+      "Lawrence Givens"
+    ],
+    "Sound Mixer": [
+      "Erik Valenzuela"
+    ],
+    "Written And Produced By": [
+      "Greg Goldman"
     ]
   }
 }

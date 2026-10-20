@@ -4,77 +4,77 @@
   "year": "1995",
   "copyright": "© 1995 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "JIM KEESHEN PRODUCTIONS"
+    "Jim Keeshen Productions"
   ],
   "narrators": [
-    "MAX RAPHEAL"
+    "Max Rapheal"
   ],
   "crew": {
-    "Production Manager": [
-      "TAMMY WOOD"
-    ],
-    "Post Production Coordinator": [
-      "KAREN S. MEISSNER"
-    ],
-    "Researcher": [
-      "TOM HUCKABEE"
-    ],
-    "Post Production Assistant": [
-      "MARC CEBRIAN"
-    ],
-    "Executive in Charge of Production": [
-      "MEL A. BISHOP"
-    ],
-    "Executive Producer for Hearst": [
-      "GERALD W. ABRAMS"
-    ],
-    "Production Accountant": [
-      "WENDY PRICE"
-    ],
     "Assistant Accountant": [
-      "JORI ESPINOSA"
-    ],
-    "Production Assistants": [
-      "JAMES D. WOOD",
-      "LORI GRAY COSTAS",
-      "HOLLY CADE CULHANE"
-    ],
-    "Executive Assistant to Mr. Jaffe": [
-      "JAMIE M. JENSEN"
-    ],
-    "Motion Control": [
-      "JIM KEESHEN PRODUCTIONS"
-    ],
-    "Executive Producer": [
-      "BOB JAFFE"
-    ],
-    "Written and Produced by": [
-      "ANDY THOMAS"
+      "Jori Espinosa"
     ],
     "Co-Producer": [
-      "JEFF SCHEFTEL"
-    ],
-    "Producers": [
-      "BRUCE NASH",
-      "MICHAEL SKALICKY"
+      "Jeff Scheftel"
     ],
     "Coordinating Producer": [
-      "TIM BUSA"
+      "Tim Busa"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Greg Clausen",
+      "Bill Rosado",
+      "Emily Scheible"
+    ],
+    "Executive Assistant To Mr. Jaffe": [
+      "Jamie M. Jensen"
+    ],
+    "Executive Producer": [
+      "Bob Jaffe"
+    ],
+    "Executive Producer For Hearst": [
+      "Gerald W. Abrams"
+    ],
+    "Executive In Charge Of Production": [
+      "Mel A. Bishop"
+    ],
+    "Motion Control": [
+      "Jim Keeshen Productions"
+    ],
+    "Music By": [
+      "Scott Page-Pagter",
+      "John Valentino"
     ],
     "Narrator": [
-      "MAX RAPHEAL"
+      "Max Rapheal"
     ],
-    "Edited by": [
-      "GREG CLAUSEN",
-      "BILL ROSADO",
-      "EMILY SCHEIBLE"
+    "Post Production Assistant": [
+      "Marc Cebrian"
     ],
-    "Created by": [
-      "BRUCE NASH"
+    "Post Production Coordinator": [
+      "Karen S. Meissner"
     ],
-    "Music by": [
-      "SCOTT PAGE-PAGTER",
-      "JOHN VALENTINO"
+    "Producers": [
+      "Bruce Nash",
+      "Michael Skalicky"
+    ],
+    "Production Accountant": [
+      "Wendy Price"
+    ],
+    "Production Assistants": [
+      "James D. Wood",
+      "Lori Gray Costas",
+      "Holly Cade Culhane"
+    ],
+    "Production Manager": [
+      "Tammy Wood"
+    ],
+    "Researcher": [
+      "Tom Huckabee"
+    ],
+    "Written And Produced By": [
+      "Andy Thomas"
     ]
   }
 }

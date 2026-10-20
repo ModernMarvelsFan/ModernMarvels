@@ -25,8 +25,8 @@
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Brad Skiles |
 | **Created By** | Bruce Nash |
-| **Director of Clearance** | Katie Del Core |
-| **Director of Research** | Allison Boon |
+| **Director Of Clearance** | Katie Del Core |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Sean Dash |
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
@@ -46,7 +46,7 @@
 | **Programming Coordinators** | Adam Rosante, Michele Wilcox |
 | **Research** | Justin Chang |
 | **Sound Mixer** | Mark Jensen |
-| **Written and Produced by** | Sean Dash |
+| **Written And Produced By** | Sean Dash |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00568.md)

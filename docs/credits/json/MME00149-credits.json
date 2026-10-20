@@ -6,35 +6,35 @@
   "studios": [
     "Actuality Productions, Inc.",
     "Hearst Entertainment",
-    "THE HISTORY CHANNEL",
+    "The History Channel",
     "A&E Television Networks"
   ],
   "narrators": [],
   "crew": {
-    "For The History Channel / Supervising Producer": [
-      "BETH DIETRICH"
+    "Assistant Production Accountant": [
+      "Linda Scribner"
     ],
-    "For The History Channel / Executive Producer": [
-      "CHARLIE MADAY"
+    "Executive Producer": [
+      "Charlie Maday"
+    ],
+    "Supervising Producer": [
+      "Beth Dietrich"
     ],
     "Online Editor": [
-      "DAVID REX"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
-    ],
-    "Assistant Production Accountant": [
-      "LINDA SCRIBNER"
-    ],
-    "Production Coordinator": [
-      "KATHY EXNER"
+      "David Rex"
     ],
     "Production Assistants": [
-      "MARYALICE R. ARAGON",
-      "SUNI NIVENS"
+      "Maryalice R. Aragon",
+      "Suni Nivens"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Kathy Exner"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
     ]
   }
 }

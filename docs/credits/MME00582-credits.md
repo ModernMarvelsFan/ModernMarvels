@@ -21,9 +21,9 @@
 | **Camera** | Bob Boccaccio, C. John Davis, Ed Kukla, Jay Kuntz, Jared Manders, R. Kelley Marchal, John Nosler, Adam Sampson |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Allison Boon |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
@@ -41,7 +41,7 @@
 | **Programming Coordinator** | Adam Rosante |
 | **Sound Mixer** | Ed Thacker |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Philip Kruener, Gloria L. Morris |
+| **Written And Produced By** | Philip Kruener, Gloria L. Morris |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00582.md)

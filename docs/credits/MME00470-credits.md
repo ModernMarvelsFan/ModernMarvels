@@ -14,10 +14,10 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | JEFF MERCER |
-| **Executive Producer** | DON CAMBOU |
-| **Line Producer** | PAUL DZILVELIS |
-| **Written and Produced by** | MARTIN KENT |
+| **Associate Producer** | Jeff Mercer |
+| **Executive Producer** | Don Cambou |
+| **Line Producer** | Paul Dzilvelis |
+| **Written And Produced By** | Martin Kent |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00470.md)

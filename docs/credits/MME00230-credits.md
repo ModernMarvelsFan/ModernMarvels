@@ -14,27 +14,27 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Avid Editors** | KEITH BAKER, CHRIS WORTHINGTON |
-| **Asst. Prod. Coordinator** | DAVID M. RAMIREZ |
-| **Clearance** | CAROLINA PACHECO |
-| **Controller** | ANIT CHAN |
-| **Director** | DONNA E. LUSITANA |
-| **Field Audio** | SCOTT JOHNSON, PAT HOLLOWAY, STEVE SMITH |
-| **Field Camera** | PAUL JOHNSON, KEVIN ROSS, JOEY SPURLOCK |
-| **Field Production Asst.** | PAUL WRUSTRACK |
-| **For** | THE HISTORY CHANNEL |
-| **For The History Channel / Executive Producer** | BETH DIETRICH SEGARRA |
-| **Intern** | KATE SLOVICH |
-| **Main Title &amp; Graphic Design** | CHRISTOPHER GAAL, DIGITAL REALITY |
-| **Motion Control Operator** | JARED KING |
-| **Motorsports Consultant** | DAN RANDALL |
-| **Online/Composite Editor** | ROD DECKER |
-| **Post Production Assts.** | PHILIP ANAGNOS, JOSE I. DAVILA, JENNIFER DUKE, GEORGINA LLJUBO, NEBOJSA PRODIC |
-| **Post Production Audio** | SEVEN SECONDS |
-| **Post Production Coordinators** | TROY GURGANIOUS, JASON KAIFESH |
-| **Produced by** | GREYSTONE COMMUNICATIONS, INC. |
-| **Production Accountant** | VIVIAN SANTOS |
-| **Production Assistants** | FAUN FINLEY, GARY HUBB, ANGEL MORENO |
+| **Assistant Avid Editors** | Keith Baker, Chris Worthington |
+| **Asst. Prod. Coordinator** | David M. Ramirez |
+| **Clearance** | Carolina Pacheco |
+| **Composite Editor** | Rod Decker |
+| **Controller** | Anit Chan |
+| **Director** | Donna E. Lusitana |
+| **Executive Producer** | Beth Dietrich Segarra |
+| **Field Audio** | Scott Johnson, Pat Holloway, Steve Smith |
+| **Field Camera** | Paul Johnson, Kevin Ross, Joey Spurlock |
+| **Field Production Asst.** | Paul Wrustrack |
+| **For** | The History Channel |
+| **Intern** | Kate Slovich |
+| **Main Title &amp; Graphic Design** | Christopher Gaal, Digital Reality |
+| **Motion Control Operator** | Jared King |
+| **Motorsports Consultant** | Dan Randall |
+| **Post Production Assts.** | Philip Anagnos, Jose I. Davila, Jennifer Duke, Georgina Lljubo, Nebojsa Prodic |
+| **Post Production Audio** | Seven Seconds |
+| **Post Production Coordinators** | Troy Gurganious, Jason Kaifesh |
+| **Produced By** | Greystone Communications, Inc. |
+| **Production Accountant** | Vivian Santos |
+| **Production Assistants** | Faun Finley, Gary Hubb, Angel Moreno |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00230.md)

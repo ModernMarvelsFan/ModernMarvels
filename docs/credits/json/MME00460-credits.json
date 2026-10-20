@@ -4,56 +4,56 @@
   "year": "2005",
   "copyright": "© 2005 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "FLASHBACK TELEVISION",
+    "Flashback Television",
     "History Television Network Productions"
   ],
   "narrators": [],
   "crew": {
-    "Dubbing Mixer": [
-      "NIGEL READ"
-    ],
-    "On-line Editor": [
-      "OWEN TYLER"
-    ],
-    "Graphics": [
-      "ED NIBLETT"
-    ],
-    "Production Coordinator": [
-      "CLARE MORIARTY"
-    ],
-    "Production Accountant": [
-      "MARILYN FREEMAN"
-    ],
-    "Head of Production": [
-      "TIM BALL"
-    ],
-    "Film Research": [
-      "DAVID SMITH",
-      "EMMA BOLTON"
-    ],
     "Associate Producer": [
-      "DAVID CALDWELL-EVANS"
+      "David Caldwell-Evans"
     ],
-    "Production Manager": [
-      "RACHEL NAUGHTON"
-    ],
-    "Film Editor": [
-      "OWEN PARKER"
-    ],
-    "Producer": [
-      "TAYLOR DOWNING"
-    ],
-    "Written and Directed by": [
-      "PAUL NELSON"
-    ],
-    "Programming Coordinator": [
-      "MICHELE WILCOX"
+    "Dubbing Mixer": [
+      "Nigel Read"
     ],
     "Executive Producer": [
-      "DOLORES GAVIN"
+      "Dolores Gavin"
     ],
-    "Produced by": [
-      "FLASHBACK TELEVISION"
+    "Film Editor": [
+      "Owen Parker"
+    ],
+    "Film Research": [
+      "David Smith",
+      "Emma Bolton"
+    ],
+    "Graphics": [
+      "Ed Niblett"
+    ],
+    "Head Of Production": [
+      "Tim Ball"
+    ],
+    "On-Line Editor": [
+      "Owen Tyler"
+    ],
+    "Produced By": [
+      "Flashback Television"
+    ],
+    "Producer": [
+      "Taylor Downing"
+    ],
+    "Production Accountant": [
+      "Marilyn Freeman"
+    ],
+    "Production Coordinator": [
+      "Clare Moriarty"
+    ],
+    "Production Manager": [
+      "Rachel Naughton"
+    ],
+    "Programming Coordinator": [
+      "Michele Wilcox"
+    ],
+    "Written And Directed By": [
+      "Paul Nelson"
     ]
   }
 }

@@ -4,96 +4,93 @@
   "year": "2004",
   "copyright": "© 2004 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions"
   ],
   "narrators": [
-    "MIKKI DEL MONICO",
-    "MAX RAPHAEL"
+    "Mikki Del Monico",
+    "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "TIM KNAUFF"
-    ],
-    "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ANTHONY LACOUES"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
     "Accountants": [
-      "JUDY GORDON",
-      "SHERIDAN LIU"
+      "Judy Gordon",
+      "Sheridan Liu"
     ],
-    "Voice Over Coordinator": [
-      "MIKKI DEL MONICO"
+    "Animation By": [
+      "Victor Bornia"
     ],
     "Assistant Editor": [
-      "LAURA STEINHOFF"
+      "Laura Steinhoff"
     ],
     "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
-    ],
-    "Post Assistant": [
-      "GAYLEN KOBAYASHI"
-    ],
-    "Camera": [
-      "JOE CLARK",
-      "EVERETT A. HARRIS",
-      "JARED MANDERS",
-      "ERIC THORNTON",
-      "JORGE CASTILLO-TRENTIN"
-    ],
-    "Field Audio": [
-      "DEREK JOHNSTON",
-      "KEITH PEARSON",
-      "JEREMY SETTLES",
-      "THOM SHAFER"
-    ],
-    "Online Editor": [
-      "JOHN PRICE"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Animation by": [
-      "VICTOR BORNIA"
-    ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "JEFFREY WILLERTH"
-    ],
-    "Line Producer": [
-      "PAUL DZILVELIS"
+      "Alexander Rubinow"
     ],
     "Associate Producer": [
-      "DAN GIBBONS"
+      "Dan Gibbons"
     ],
-    "Edited by": [
-      "SCOT KELLY"
+    "Camera": [
+      "Joe Clark",
+      "Everett A. Harris",
+      "Jared Manders",
+      "Eric Thornton",
+      "Jorge Castillo-Trentin"
     ],
-    "Narrated by": [
-      "MAX RAPHAEL"
+    "Clearance Supervisor": [
+      "Katie Del Core"
     ],
-    "Music by": [
-      "GUY THOMAS"
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Anthony Lacoues"
+    ],
+    "Edited By": [
+      "Scot Kelly"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
+    "Field Audio": [
+      "Derek Johnston",
+      "Keith Pearson",
+      "Jeremy Settles",
+      "Thom Shafer"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Guy Thomas"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistant": [
+      "Gaylen Kobayashi"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
+    ],
+    "Written And Produced By": [
+      "Jeffrey Willerth"
     ]
   }
 }

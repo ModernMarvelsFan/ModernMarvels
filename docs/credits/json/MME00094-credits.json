@@ -6,37 +6,34 @@
   "studios": [
     "ACTUALITY Productions, Inc.",
     "Hearst Entertainment",
-    "THE HISTORY CHANNEL"
+    "The History Channel"
   ],
   "narrators": [],
   "crew": {
-    "For The History Channel / Supervising Producer": [
-      "BETH DIETRICH"
+    "Associate Producers": [
+      "Ansley Bell",
+      "Robert Ziel"
     ],
-    "For The History Channel / Executive Producer": [
-      "CHARLIE MADAY"
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Sean Dash"
+    ],
+    "Executive Producer": [
+      "Charlie Maday"
     ],
     "Supervising Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "PAM MOORE"
-    ],
-    "Associate Producers": [
-      "ANSLEY BELL",
-      "ROBERT ZIEL"
-    ],
-    "Edited by": [
-      "SEAN DASH"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
+      "Don Cambou"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Written And Produced By": [
+      "Pam Moore"
     ]
   }
 }

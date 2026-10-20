@@ -11,48 +11,21 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Production Accountant": [
-      "Sheridan Liu"
-    ],
-    "Coordinator": [
-      "Maya Sykes"
-    ],
-    "Clearance Coordinator": [
-      "Kiana Moore"
-    ],
-    "Researcher": [
-      "Kyle Salners"
+    "Animation": [
+      "FlyingBlue Studio"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Nate Dusek"
     ],
+    "Associate Producer": [
+      "Caleb Roehrig"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Cory Parker"
     ],
     "Camera": [
       "James Alario",
@@ -60,54 +33,78 @@
       "John Kabasakalis",
       "Morgan Schmidt-Feng"
     ],
+    "Clearance Coordinator": [
+      "Kiana Moore"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "John Verhoff"
+    ],
     "Field Audio": [
       "Kelly Butler",
       "Greg Stidham",
       "Scott Stoneback",
       "Ian Vacek"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation": [
-      "FlyingBlue Studio"
-    ],
-    "Sound Mixer": [
-      "Mark Jensen"
-    ],
-    "Animated Stills": [
-      "Adam Goodwin"
-    ],
-    "Produced by": [
-      "Actuality Productions, Inc.",
-      "Jim Lindsay"
-    ],
-    "For History / Programming Coordinator": [
+    "Programming Coordinator": [
       "Adam Rosante"
     ],
-    "For History / Executive Producer": [
-      "John Verhoff"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Caleb Roehrig"
+    "Music": [
+      "Alan Ett Music Group"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Editor": [
-      "Lou LaProcido"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music": [
-      "Alan Ett Music Group"
+    "Post Assist": [
+      "Cory Parker"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc.",
+      "Jim Lindsay"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Sheridan Liu"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Kyle Salners"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson"
     ]
   }
 }

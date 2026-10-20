@@ -14,15 +14,15 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producers** | ERIC H. LINDSTROM, CHRISTOF RITTER |
-| **Created by** | BRUCE NASH |
-| **Edited by** | AVI FISHER |
-| **Executive Producer** | DON CAMBOU |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT |
-| **Producer** | BRUCE NASH |
-| **Production Manager** | LINDA K. CLARK |
-| **Written and Produced by** | CHRIS MORTENSEN |
+| **Associate Producers** | Eric H. Lindstrom, Christof Ritter |
+| **Created By** | Bruce Nash |
+| **Edited By** | Avi Fisher |
+| **Executive Producer** | Don Cambou |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett |
+| **Producer** | Bruce Nash |
+| **Production Manager** | Linda K. Clark |
+| **Written And Produced By** | Chris Mortensen |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00138.md)

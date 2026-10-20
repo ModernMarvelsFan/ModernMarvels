@@ -9,88 +9,88 @@
     "Beata Genin"
   ],
   "crew": {
-    "NARRATED BY": [
-      "Max Raphael"
+    "Animation By": [
+      "Scott Boyer"
     ],
-    "MUSIC BY": [
-      "Guy Thomas"
-    ],
-    "PRODUCER": [
-      "Bruce Nash"
-    ],
-    "CREATED BY": [
-      "Bruce Nash"
-    ],
-    "PRODUCTION MANAGER": [
-      "Kathlene Exner Rizzotti"
-    ],
-    "POST PRODUCTION MANAGER": [
-      "Gary Reid"
-    ],
-    "CLEARANCE SUPERVISOR": [
-      "Katie Del Core"
-    ],
-    "DIRECTOR OF RESEARCH": [
-      "Hildie Katibah"
-    ],
-    "PRODUCTION AUDITOR": [
-      "Dani Eslin"
-    ],
-    "ASSISTANT ACCOUNTANTS": [
+    "Assistant Accountants": [
       "Linda Scribner",
       "Dennis Luciani"
     ],
-    "PRODUCTION COORDINATOR": [
-      "James Wiser"
-    ],
-    "ASSISTANT EDITOR": [
+    "Assistant Editor": [
       "Eric Sievering"
     ],
-    "POST COORDINATOR": [
-      "Danny Kim"
-    ],
-    "POST ASSISTANT": [
-      "Laura Steinhoff"
-    ],
-    "VOICE OVER COORDINATOR": [
-      "Beata Genin"
-    ],
-    "PRODUCTION ASSISTANT": [
-      "Rosalyn McVay"
-    ],
-    "CAMERA": [
-      "Peter Krajewski"
-    ],
-    "STILL PHOTOGRAPHER": [
-      "Dave Gatley"
-    ],
-    "HISTORICAL CONSULTANT": [
-      "Daniel Smith-Christopher Ph.D."
-    ],
-    "ONLINE EDITOR": [
-      "Arthur Klein"
-    ],
-    "SOUND MIXER": [
-      "Sam Kaufmann"
-    ],
-    "ANIMATION BY": [
-      "Scott Boyer"
-    ],
-    "EXECUTIVE PRODUCER": [
-      "Don Cambou"
-    ],
-    "WRITTEN AND PRODUCED BY": [
-      "Kathryn Christy",
-      "Michael Christy"
-    ],
-    "ASSOCIATE PRODUCER": [
+    "Associate Producer": [
       "Emily Lau"
     ],
-    "LINE PRODUCER": [
+    "Camera": [
+      "Peter Krajewski"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Hildie Katibah"
+    ],
+    "Edited By": [
+      "Barry Silver"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Historical Consultant": [
+      "Daniel Smith-Christopher Ph.D."
+    ],
+    "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "EDITED BY": [
-      "Barry Silver"
+    "Music By": [
+      "Guy Thomas"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "Arthur Klein"
+    ],
+    "Post Assistant": [
+      "Laura Steinhoff"
+    ],
+    "Post Coordinator": [
+      "Danny Kim"
+    ],
+    "Post Production Manager": [
+      "Gary Reid"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Rosalyn McVay"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "James Wiser"
+    ],
+    "Production Manager": [
+      "Kathlene Exner Rizzotti"
+    ],
+    "Sound Mixer": [
+      "Sam Kaufmann"
+    ],
+    "Still Photographer": [
+      "Dave Gatley"
+    ],
+    "Voice Over Coordinator": [
+      "Beata Genin"
+    ],
+    "Written And Produced By": [
+      "Kathryn Christy",
+      "Michael Christy"
     ]
   }
 }

@@ -23,14 +23,12 @@
 | **Camera** | Rob Cox, Tom Hadzor, Wolfgang Isenhart, Lon Magdich, Dave Rutherford, Tom Taylor |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Maya Sykes, Emily Miyazawa |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Conrad Stanley |
-| **Executive Producer** | Don Cambou |
+| **Executive Producer** | John Verhoff |
 | **Field Audio** | Eric Deacon, Naoko Isenhart, Bryan Kweskin, Andy Lawless, Mike Thomason, Lance Wells |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Adam Rosante |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
@@ -40,9 +38,10 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Jim Hense |
+| **Written And Produced By** | Jim Hense |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00626.md)

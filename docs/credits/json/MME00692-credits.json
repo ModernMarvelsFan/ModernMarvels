@@ -10,26 +10,42 @@
     "Max Raphael"
   ],
   "crew": {
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Music": [
-      "Legativity"
-    ],
-    "Audio/Mix": [
-      "Dylen Terflinger"
-    ],
-    "Post Supervisors": [
-      "John Kennedy",
-      "Dana Merwin"
-    ],
-    "Online Editors": [
-      "Scott W. Lee",
-      "Philip Tatler IV"
-    ],
     "Assistant Editors": [
       "Sarah Longnecker",
       "Alicia Lundgren"
+    ],
+    "Associate Producer": [
+      "Mary Courtney",
+      "Robert Wear"
+    ],
+    "Mix": [
+      "Dylen Terflinger"
+    ],
+    "Camera": [
+      "Marc Carter",
+      "Dominic Giordano",
+      "Lon Magdich",
+      "Joe Pedalino",
+      "Diana Wilmar"
+    ],
+    "Co-Executive Producer": [
+      "Robert Twilley"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Editor": [
+      "David Beatty"
+    ],
+    "Executive Producer": [
+      "John Verhoff",
+      "Stephen Land"
+    ],
+    "Field Producer": [
+      "Brian Cavallaro"
+    ],
+    "Graphics": [
+      "Elevation"
     ],
     "Location Sound": [
       "Dan Cook",
@@ -42,11 +58,15 @@
       "Chris Morris",
       "Holly Sweet"
     ],
-    "Graphics": [
-      "Elevation"
+    "Music": [
+      "Legativity"
     ],
-    "Production Manager": [
-      "Katie Young"
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Online Editors": [
+      "Scott W. Lee",
+      "Philip Tatler IV"
     ],
     "Post Prep": [
       "Zach Land",
@@ -55,48 +75,28 @@
       "Sean Sexton",
       "Jamison Stalsworth"
     ],
+    "Post Supervisors": [
+      "John Kennedy",
+      "Dana Merwin"
+    ],
+    "Producer": [
+      "Richard Jones"
+    ],
     "Production Assistance": [
       "Michelle Weiss",
       "Jeremy Ashcraft",
       "Amanda Feathers",
       "Tamara Perry"
     ],
-    "Created By": [
-      "Bruce Nash"
+    "Production Manager": [
+      "Katie Young"
     ],
     "Programming Coordinator": [
       "Kelly Vorrasi"
     ],
-    "Executive Producer": [
-      "John Verhoff",
-      "Stephen Land"
-    ],
-    "Co-Executive Producer": [
-      "Robert Twilley"
-    ],
     "Supervising Producer": [
       "Sharon Martin",
       "Ron Nelson"
-    ],
-    "Producer": [
-      "Richard Jones"
-    ],
-    "Field Producer": [
-      "Brian Cavallaro"
-    ],
-    "Associate Producer": [
-      "Mary Courtney",
-      "Robert Wear"
-    ],
-    "Editor": [
-      "David Beatty"
-    ],
-    "Camera": [
-      "Marc Carter",
-      "Dominic Giordano",
-      "Lon Magdich",
-      "Joe Pedalino",
-      "Diana Wilmar"
     ]
   }
 }

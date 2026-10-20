@@ -6,37 +6,34 @@
   "studios": [
     "ACTUALITY Productions, Inc.",
     "Hearst Entertainment",
-    "THE HISTORY CHANNEL",
+    "The History Channel",
     "A&E Television Networks"
   ],
   "narrators": [],
   "crew": {
-    "For The History Channel / Supervising Producer": [
-      "BETH DIETRICH"
+    "Associate Producer": [
+      "Luke Ellis"
     ],
-    "For The History Channel / Executive Producer": [
-      "CHARLIE MADAY"
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Bob Potter"
+    ],
+    "Executive Producer": [
+      "Charlie Maday"
     ],
     "Supervising Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "TOM JENNINGS"
-    ],
-    "Associate Producer": [
-      "LUKE ELLIS"
-    ],
-    "Edited by": [
-      "BOB POTTER"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
+      "Don Cambou"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Written And Produced By": [
+      "Tom Jennings"
     ]
   }
 }

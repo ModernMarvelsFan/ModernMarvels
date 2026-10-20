@@ -4,108 +4,105 @@
   "year": "2004",
   "copyright": "© 2004 A&E Television Network All Rights Reserved",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions"
   ],
   "narrators": [
-    "MIKKI DEL MONICO",
-    "MAX RAPHAEL"
+    "Mikki Del Monico",
+    "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "BRUCE NASH"
+    "Accountants": [
+      "Judy Gordon",
+      "Sheridan Liu"
     ],
-    "Created by": [
-      "BRUCE NASH"
+    "Animation By": [
+      "Doug Whitney And Wade Lageose"
     ],
-    "Production Manager": [
-      "SHELIA COLLINS"
+    "Assistant Editor": [
+      "Laura Steinhoff"
     ],
-    "Post Producer": [
-      "TIM KNAUFF"
+    "Assistant Post Coordinator": [
+      "Alexander Rubinow"
+    ],
+    "Associate Producer": [
+      "Diane Wai"
+    ],
+    "Camera": [
+      "Art Kibby",
+      "William H. Kirby",
+      "Lon Magdich",
+      "Greg Steinbrecher",
+      "Z Vidusin"
+    ],
+    "Clearance Coordinator": [
+      "D.W. Blakeslee"
     ],
     "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ANTHONY LACQUES"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
-    "Accountants": [
-      "JUDY GORDON",
-      "SHERIDAN LIU"
+      "Katie Del Core"
     ],
     "Coordinator": [
       "ROSALYN McVAY"
     ],
-    "Researcher": [
-      "MIKKI DEL MONICO"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Clearance Coordinator": [
-      "D.W. BLAKESLEE"
+    "Director Of Research": [
+      "Anthony Lacques"
     ],
-    "Production Assistant": [
-      "JEFFERY PERKINS"
-    ],
-    "Voice Over Coordinator": [
-      "MIKKI DEL MONICO"
-    ],
-    "Assistant Editor": [
-      "LAURA STEINHOFF"
-    ],
-    "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
-    ],
-    "Post Assistant": [
-      "GAYLEN KOBAYASHI"
-    ],
-    "Camera": [
-      "ART KIBBY",
-      "WILLIAM H. KIRBY",
-      "LON MAGDICH",
-      "GREG STEINBRECHER",
-      "Z VIDUSIN"
-    ],
-    "Field Audio": [
-      "CHARLES R. HALL",
-      "MARLA HUDNALL",
-      "SAM SALERNO"
-    ],
-    "Online Editor": [
-      "JOHN PRICE"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Animation by": [
-      "DOUG WHITNEY AND WADE LAGEOSE"
-    ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
+    "Edited By": [
+      "David Beatty",
+      "Robert Lattanzio"
     ],
     "Executive Producer": [
-      "DON CAMBOU"
+      "Beth Dietrich-Segarra"
     ],
-    "Written and Produced by": [
-      "FRED PEABODY"
+    "Field Audio": [
+      "Charles R. Hall",
+      "Marla Hudnall",
+      "Sam Salerno"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
     ],
-    "Associate Producer": [
-      "DIANE WAI"
+    "Music By": [
+      "Alan Ett Music Group"
     ],
-    "Edited by": [
-      "DAVID BEATTY",
-      "ROBERT LATTANZIO"
+    "Narrated By": [
+      "Max Raphael"
     ],
-    "Narrated by": [
-      "MAX RAPHAEL"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music by": [
-      "ALAN ETT MUSIC GROUP"
+    "Post Assistant": [
+      "Gaylen Kobayashi"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Jeffery Perkins"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Mikki Del Monico"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
+    ],
+    "Written And Produced By": [
+      "Fred Peabody"
     ]
   }
 }

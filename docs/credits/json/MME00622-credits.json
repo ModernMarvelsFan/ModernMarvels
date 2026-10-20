@@ -10,28 +10,19 @@
     "Max Raphael"
   ],
   "crew": {
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
     "Accountants": [
       "Sheridan Liu",
       "Diana Stolpe"
     ],
-    "Coordinator": [
-      "Maya Sykes"
+    "Animation": [
+      "i.e. effects"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Patrick Cashman"
+    ],
+    "Associate Producer": [
+      "Erica Sardarian"
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
@@ -46,6 +37,27 @@
       "Paul Neal",
       "Tom Wells"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Chad Byrant",
       "Philippe Cusset",
@@ -55,50 +67,38 @@
       "Nick Modisett",
       "Adrian Sam"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation": [
-      "i.e. effects"
-    ],
-    "Sound Mixer": [
-      "Erik Valenzuela"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Greg DeHart"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Erica Sardarian"
+    "Music": [
+      "AMI Music Group"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Editor": [
-      "Lou LaProcido"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music": [
-      "AMI Music Group"
+    "Post Producer": [
+      "Tim Knauff"
     ],
     "Producer": [
       "Bruce Nash"
     ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
     "Production Manager": [
       "Shelia Collins"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Sound Mixer": [
+      "Erik Valenzuela"
     ],
-    "Post Producer": [
-      "Tim Knauff"
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "Greg DeHart"
     ]
   }
 }

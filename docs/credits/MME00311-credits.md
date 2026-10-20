@@ -7,36 +7,35 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** GREYSTONE COMMUNICATIONS, INC., 615 MUSIC
-* **Narrator:** WILL LYMAN
+* **Production Company:** Greystone Communications, Inc., 615 Music
+* **Narrator:** Will Lyman
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Online Editor** | LUKE SZABO |
-| **Associate Producer** | MARY BENJAMIN |
-| **Bookkeeper** | ARMINEH BAGHDASARIAN |
-| **Controller** | ANIT CHAN |
-| **Director** | DONNA E. LUSITANA |
-| **Editors** | MICHAEL W. ANDREWS, KEVIN BROWNE, JANET SWANSON |
-| **Field Camera** | SAL ARIDI, CHRIS DAVIS, PAUL DOUGHERTY, GARRETT LAKIN, TIM MURRAY |
-| **Field Producer** | CHIP SELBY |
-| **For The History Channel / Executive Producer** | BETH DIETRICH SEGARRA |
-| **For The History Channel / Production Coordinator** | MARC FINNEGAN |
-| **For The History Channel / Programming Associate** | AYANNA COLE |
-| **General Counsel** | SHINAAN S. KRAKOWSKY |
-| **Motion Control Operators** | JARED KING, DION A. LABRIOLA |
-| **Music by** | 615 MUSIC |
-| **Narrated by** | WILL LYMAN |
-| **Online/Composite Editors** | ROD DECKER, PETER SALAS |
-| **Post Production Supervisors** | TODD CARNEY, JASON KAIFESH |
-| **Produced by** | MARGARET HADDAD |
-| **Production Accountant** | VIVIAN SANTOS |
-| **Production Assistants** | RYAN CLUM, MATT COMPTON, BRANDON HICKMAN |
-| **Production Coordinator** | EDGAR SOTOMAYOR |
-| **Researcher** | DANIEL GRANGER |
-| **Supervising Producers** | LOUIS C. TARANTINO, RHYS THOMAS |
+| **Assistant Online Editor** | Luke Szabo |
+| **Associate Producer** | Mary Benjamin |
+| **Bookkeeper** | Armineh Baghdasarian |
+| **Composite Editors** | Rod Decker, Peter Salas |
+| **Controller** | Anit Chan |
+| **Director** | Donna E. Lusitana |
+| **Editors** | Michael W. Andrews, Kevin Browne, Janet Swanson |
+| **Executive Producer** | Beth Dietrich Segarra |
+| **Field Camera** | Sal Aridi, Chris Davis, Paul Dougherty, Garrett Lakin, Tim Murray |
+| **Field Producer** | Chip Selby |
+| **General Counsel** | Shinaan S. Krakowsky |
+| **Motion Control Operators** | Jared King, Dion A. Labriola |
+| **Music By** | 615 Music |
+| **Narrated By** | Will Lyman |
+| **Post Production Supervisors** | Todd Carney, Jason Kaifesh |
+| **Produced By** | Margaret Haddad |
+| **Production Accountant** | Vivian Santos |
+| **Production Assistants** | Ryan Clum, Matt Compton, Brandon Hickman |
+| **Production Coordinator** | Edgar Sotomayor |
+| **Programming Associate** | Ayanna Cole |
+| **Researcher** | Daniel Granger |
+| **Supervising Producers** | Louis C. Tarantino, Rhys Thomas |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00311.md)

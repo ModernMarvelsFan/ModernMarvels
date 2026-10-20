@@ -7,88 +7,82 @@
     "A&E Television Networks"
   ],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "Editor": [
-      "JAMIE PICKELL"
-    ],
-    "Directors of Photography": [
-      "MARCUS BURNETT",
-      "JULIO LUZQUINOS"
-    ],
-    "Field Producers": [
-      "KENDRA CARAGAN",
-      "MARLENE MAY"
-    ],
-    "Associate Producers": [
-      "HANNAH RICHARDSON",
-      "SARAH KATZ"
-    ],
-    "Production Assistants": [
-      "BONNIE HAWTHRONE",
-      "SPENCER RAYMOND",
-      "NICK VERA"
-    ],
-    "Additional Photography": [
-      "MATT AYRES",
-      "JOSEPH BRUNETTE",
-      "CHARLES CASTILLA",
-      "DYLAN O'BRIEN",
-      "BILL WARD"
-    ],
-    "Narrator": [
-      "MAX RAPHAEL"
-    ],
-    "Music": [
-      "AUDIO NETWORK",
-      "JINGLEPUNKS",
-      "MUSIC BOX"
-    ],
-    "Assistant Editor": [
-      "MIKE BAUTISTA"
-    ],
-    "Junior Editors": [
-      "NADIA IZAKSON",
-      "GUILLERMO MACO",
-      "WANAKHAVI WAKHISI"
-    ],
-    "3D Animation by": [
-      "PERCOLATE DIGITAL"
+    "3D Animation By": [
+      "Percolate Digital"
     ],
     "Additional Graphics": [
-      "JOHN KERR"
+      "John Kerr"
     ],
-    "Production Manager": [
-      "JENNIFER PARTIN"
+    "Additional Photography": [
+      "Matt Ayres",
+      "Joseph Brunette",
+      "Charles Castilla",
+      "Dylan O'Brien",
+      "Bill Ward"
     ],
-    "Vice President of Finance": [
-      "ROSSANA O'HOP"
+    "Assistant Editor": [
+      "Mike Bautista"
     ],
-    "Head of Production": [
-      "JANICE MEZZETTI"
+    "Associate Producers": [
+      "Hannah Richardson",
+      "Sarah Katz"
     ],
-    "For A&E Television Network / Programming Coordinator": [
-      "DIVYA CHUNGI"
+    "Directors Of Photography": [
+      "Marcus Burnett",
+      "Julio Luzquinos"
     ],
-    "For A&E Television Network / Senior Producer": [
-      "CARTER FIGUEROA"
-    ],
-    "For A&E Television Network / Executive Producer": [
-      "JOHN VERHOFF"
-    ],
-    "Executive Producers": [
-      "SEAN GALLAGHER",
-      "ABBY GREENSFELDER"
+    "Editor": [
+      "Jamie Pickell"
     ],
     "Executive Producer": [
-      "GREG SMITH"
+      "John Verhoff"
+    ],
+    "Executive Producers": [
+      "Sean Gallagher",
+      "Abby Greensfelder"
+    ],
+    "Field Producers": [
+      "Kendra Caragan",
+      "Marlene May"
+    ],
+    "Programming Coordinator": [
+      "Divya Chungi"
     ],
     "Senior Producer": [
-      "CHRIS SONDREAL"
+      "Chris Sondreal"
     ],
-    "Produced and Directed by": [
-      "JENNY KUBO"
+    "Head Of Production": [
+      "Janice Mezzetti"
+    ],
+    "Junior Editors": [
+      "Nadia Izakson",
+      "Guillermo Maco",
+      "Wanakhavi Wakhisi"
+    ],
+    "Music": [
+      "Audio Network",
+      "Jinglepunks",
+      "Music Box"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Produced And Directed By": [
+      "Jenny Kubo"
+    ],
+    "Production Assistants": [
+      "Bonnie Hawthrone",
+      "Spencer Raymond",
+      "Nick Vera"
+    ],
+    "Production Manager": [
+      "Jennifer Partin"
+    ],
+    "Vice President Of Finance": [
+      "Rossana O'Hop"
     ]
   }
 }

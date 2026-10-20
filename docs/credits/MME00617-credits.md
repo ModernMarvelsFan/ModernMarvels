@@ -23,9 +23,9 @@
 | **Camera** | John Kabasakalis, Lon Magdich, Rick Nyburg, Jim Petit, Eric Thornton, Ron Zimmerman |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Ryan Agostino, Aaron Holloway, Rory Nix, William R. "Lee" Peach, Robert Porter, Charles Rohr, Rob Sumner |
@@ -41,7 +41,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Richard Jones |
+| **Written And Produced By** | Richard Jones |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00617.md)

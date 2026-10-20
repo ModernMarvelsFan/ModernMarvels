@@ -7,37 +7,37 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1996 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** A&E Television Networks, DEREK LUFF MUSIC, ART F/X
-* **Narrator:** HARLAN SAPERSTEIN
+* **Production Company:** A&E Television Networks, Derek Luff Music, Art F/X
+* **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | JARED BUSHANSKY, MAURICE CASSAMAJOR, BRADY HECK |
-| **Assistant Production Accountant** | JORI ESPINOSA |
-| **Assistant Visual Coordinator** | WILLIAM F. SWIFT |
-| **Assistant to Bob Jaffe** | HAY TANNING |
-| **Assistant to Tim Busa** | TODD BLUECHEL |
+| **Assistant Editors** | Jared Bushansky, Maurice Cassamajor, Brady Heck |
+| **Assistant Production Accountant** | Jori Espinosa |
+| **Assistant To Bob Jaffe** | Hay Tanning |
+| **Assistant To Tim Busa** | Todd Bluechel |
+| **Assistant Visual Coordinator** | William F. Swift |
 | **Associate Producer** | DOUG DeLUCA |
-| **Created by** | BRUCE NASH |
-| **Edited by** | BRIAN DERBY |
-| **Executive Producer** | GERALD W. ABRAMS, CHARLIE MADAY, BOB JAFFE |
-| **Footage Consultant** | TED TROLL |
-| **Graphics** | ART F/X |
-| **Music by** | DEREK LUFF MUSIC |
-| **Narrated by** | HARLAN SAPERSTEIN |
-| **On-Line Editors** | RICK FENNER, DANIEL RUSS |
-| **Post Production Supervisors** | JULIO KOLLERBOHM, TIFFANY B. HOSS |
-| **Produced by** | JON WILKMAN |
-| **Production Accountant** | PAUL DZILVELIS |
-| **Production Assistants** | JASON MENZ, TONI GRAY |
-| **Senior Producer** | TIM BUSA |
-| **Senior Researcher** | CHUCK HAYES |
-| **Series Manager** | ELYSE MIRANDA |
-| **Show Element Coordinator** | KAREN S. MEISSNER |
-| **Supervising Producer** | BILL BRUMMEL |
-| **Visual Coordinator** | CAREY ANN STRELECKI |
+| **Created By** | Bruce Nash |
+| **Edited By** | Brian Derby |
+| **Executive Producer** | Gerald W. Abrams, Charlie Maday, Bob Jaffe |
+| **Footage Consultant** | Ted Troll |
+| **Graphics** | Art F/X |
+| **Music By** | Derek Luff Music |
+| **Narrated By** | Harlan Saperstein |
+| **On-Line Editors** | Rick Fenner, Daniel Russ |
+| **Post Production Supervisors** | Julio Kollerbohm, Tiffany B. Hoss |
+| **Produced By** | Jon Wilkman |
+| **Production Accountant** | Paul Dzilvelis |
+| **Production Assistants** | Jason Menz, Toni Gray |
+| **Senior Producer** | Tim Busa |
+| **Senior Researcher** | Chuck Hayes |
+| **Series Manager** | Elyse Miranda |
+| **Show Element Coordinator** | Karen S. Meissner |
+| **Supervising Producer** | Bill Brummel |
+| **Visual Coordinator** | Carey Ann Strelecki |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00031.md)

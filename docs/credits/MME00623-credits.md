@@ -22,14 +22,12 @@
 | **Camera** | Keith Barefoot, Robert Brunk, John Davis, Paul Desatoff, Pat Drury, Jed Henry |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Lou LaProcido |
-| **Executive Producer** | Don Cambou |
+| **Executive Producer** | Michael Stiller |
 | **Field Audio** | Leo Lawrence, Sean Madden, Mathew Reigel, Charles Rohr, Michael Whelan, Paul Wustrak |
-| **For History / Executive Producer** | Michael Stiller |
-| **For History / Programming Coordinator** | Adam Rosante |
 | **Historical Consultants** | Greg Baumann, Dale Kaukeinen |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
@@ -39,9 +37,10 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Kaylan Eggert |
+| **Written And Produced By** | Kaylan Eggert |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00623.md)

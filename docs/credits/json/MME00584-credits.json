@@ -11,32 +11,16 @@
     "Max Raphael"
   ],
   "crew": {
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
-    "Coordinators": [
-      "Brad Skiles",
-      "Maya Sykes"
+    "Animation": [
+      "i.e. effects"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
       "Alexander Rubinow"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
@@ -51,6 +35,32 @@
       "Chris O'Hare",
       "Owen Smith"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinators": [
+      "Brad Skiles",
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Editor": [
+      "Marcelo Lopes"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Executive Producers": [
+      "Beth Dietrich-Segarra",
+      "Michael Stiller"
+    ],
     "Field Audio": [
       "Jim Emswiller",
       "Jeff Gerber",
@@ -60,59 +70,49 @@
       "Tim Stringfellow",
       "Chris Tront"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Ed Thacker"
-    ],
-    "Animation": [
-      "i.e. effects"
-    ],
     "Historical Consultants": [
       "Ratnakumar Bugga",
       "Brian Casola",
       "Doug Comstock"
     ],
-    "Programming Coordinator": [
-      "Adam Rosante"
-    ],
-    "Executive Producers": [
-      "Beth Dietrich-Segarra",
-      "Michael Stiller"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Allison Boon"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Editor": [
-      "Marcelo Lopes"
+    "Music": [
+      "Guy Thomas"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Music": [
-      "Guy Thomas"
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
     ],
     "Producer": [
       "Bruce Nash"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
     ],
     "Production Manager": [
       "Shelia Collins"
     ],
-    "Post Producer": [
-      "Tim Knauff"
+    "Programming Coordinator": [
+      "Adam Rosante"
+    ],
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "Allison Boon"
     ]
   }
 }

@@ -14,8 +14,8 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Line Producer** | PAUL DZILVELIS |
-| **Written and Produced by** | JOANNE FISH |
+| **Line Producer** | Paul Dzilvelis |
+| **Written And Produced By** | Joanne Fish |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00424.md)

@@ -14,8 +14,8 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Executive Producer** | DON CAMBOU |
-| **Written and Produced by** | MARK MOHR |
+| **Executive Producer** | Don Cambou |
+| **Written And Produced By** | Mark Mohr |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00135.md)

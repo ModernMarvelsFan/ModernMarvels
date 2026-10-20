@@ -21,14 +21,13 @@
 | **Camera** | Jeff Broughton, Jason Cantu, Tomas Hejda, John Kabasakalis, Lon Magdich, Bryan Maslin, Mark Morris, Jim Petit, Thomas Wells |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Terrence Hartwell, Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Allison Boon |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
+| **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Field Audio** | Dennis Hamlin, Ben Herlth, Ivan Diaz De Leon, Charles Rohr, William Shackelton, John Stidham, Jason Stoddard, Rob Sumner |
-| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **For The History Channel / Programming Coordinator** | Adam Rosante |
 | **Historical Consultants** | Colleen Anne Belisle, Charles Cole, Peter Crean, Mark Cutkosky, Robert Jouron, Ronald Fearing, PhD, Robert Full, PhD, Hercules Incorporated |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
@@ -40,9 +39,10 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Philip Kruener, Gloria L. Morris |
+| **Written And Produced By** | Philip Kruener, Gloria L. Morris |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00593.md)

@@ -10,64 +10,28 @@
     "Max Raphael"
   ],
   "crew": {
-    "Director of Photography": [
-      "John Mans"
-    ],
-    "Sound": [
-      "Edward Thacker",
-      "Larry Williams Jr."
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Music": [
-      "Audio Networks",
-      "Extreme Music"
-    ],
-    "Sound Design": [
-      "Takoma Media"
-    ],
-    "Online Editor/Colorist": [
-      "Matt Doe"
-    ],
-    "Graphics": [
-      "Dave Glanz",
-      "Percolate Digital"
-    ],
-    "Digitizer": [
-      "Marcia Robusto"
-    ],
     "Assistant Editors": [
       "Adam Kirk",
       "Wanakhavi Wakhisi"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Jennifer Partin"
-    ],
-    "Post Production Coordinator": [
-      "Cameron Young"
-    ],
-    "Post Production Supervisor": [
-      "Liam Monschein"
     ],
     "Associate Producer": [
       "Sarah Rooney",
       "Arjun V. Rao"
     ],
-    "Production Coordinator": [
-      "Tainesa Davis"
-    ],
-    "Production Accountant": [
-      "Rossana O'Hop"
-    ],
-    "Programming Coordinator": [
-      "Kelly Vorrasi"
-    ],
     "Coordinating Producer": [
       "Carter Figueroa"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Digitizer": [
+      "Marcia Robusto"
+    ],
+    "Director Of Photography": [
+      "John Mans"
+    ],
+    "Editor": [
+      "Mike Harvey"
     ],
     "Executive Producer": [
       "John Verhoff"
@@ -76,14 +40,50 @@
       "Sean Gallagher",
       "Abby Greensfelder"
     ],
-    "Series Producer": [
-      "Brian Leonard"
+    "Graphics": [
+      "Dave Glanz",
+      "Percolate Digital"
+    ],
+    "Music": [
+      "Audio Networks",
+      "Extreme Music"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Colorist": [
+      "Matt Doe"
+    ],
+    "Post Production Coordinator": [
+      "Cameron Young"
+    ],
+    "Post Production Supervisor": [
+      "Liam Monschein"
     ],
     "Producer": [
       "Jennifer Anderson"
     ],
-    "Editor": [
-      "Mike Harvey"
+    "Production Accountant": [
+      "Rossana O'Hop"
+    ],
+    "Production Coordinator": [
+      "Tainesa Davis"
+    ],
+    "Production Manager": [
+      "Jennifer Partin"
+    ],
+    "Programming Coordinator": [
+      "Kelly Vorrasi"
+    ],
+    "Series Producer": [
+      "Brian Leonard"
+    ],
+    "Sound": [
+      "Edward Thacker",
+      "Larry Williams Jr."
+    ],
+    "Sound Design": [
+      "Takoma Media"
     ]
   }
 }

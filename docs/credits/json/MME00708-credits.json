@@ -1,74 +1,74 @@
 {
   "episodeId": "MME00708",
   "title": "Mega Speed Countdown",
-  "year": "2013",
+  "year": "2012",
   "copyright": "Produced by Half Yard Productions. For A&E Television Networks ®. © 2012 A&E TELEVISION NETWORKS. ALL RIGHTS RESERVED",
   "studios": [
     "Half Yard Productions",
     "A&E Television Networks"
   ],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "Narrator": [
-      "MAX RAPHAEL"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Music": [
-      "AUDIO NETWORK",
-      "EXTREME"
+    "Executive Producer": [
+      "John Verhoff"
     ],
-    "Online Editor/Colorist": [
-      "MATT DOE"
+    "Programming Coordinator": [
+      "Divya Chungi"
     ],
-    "Sound Editor": [
-      "ROB FRITTS"
-    ],
-    "Sound Design & Mix": [
-      "HENNINGER MEDIA SERVICES"
-    ],
-    "Junior Editors": [
-      "MARC HINES",
-      "NADIA IZAKSON"
+    "Senior Producer": [
+      "Carter Figueroa"
     ],
     "Graphics": [
-      "JAMES SULLIVAN"
+      "James Sullivan"
     ],
-    "Created by": [
-      "BRUCE NASH"
+    "Head Of Production": [
+      "Janice Mezzetti"
     ],
-    "Production Coordinators": [
-      "JAYE CALLAHAN",
-      "KAIT GALLAGHER"
+    "Junior Editors": [
+      "Marc Hines",
+      "Nadia Izakson"
+    ],
+    "Music": [
+      "Audio Network",
+      "Extreme"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Colorist": [
+      "Matt Doe"
     ],
     "Post Production Coordinator": [
-      "BEN SHUSTER"
-    ],
-    "Production Managers": [
-      "SILVIA HOMES GAINES",
-      "JENNIFER PARTIN",
-      "BRIGITTA SHROYER"
+      "Ben Shuster"
     ],
     "Post Production Manager": [
-      "CAMERON YOUNG"
+      "Cameron Young"
     ],
-    "Vice President of Finance": [
-      "ROSSANA O'HOP"
-    ],
-    "Head of Production": [
-      "JANICE MEZZETTI"
-    ],
-    "Produced by": [
+    "Produced By": [
       "Half Yard Productions"
     ],
-    "For A&E Television Network / Programming Coordinator": [
-      "DIVYA CHUNGI"
+    "Production Coordinators": [
+      "Jaye Callahan",
+      "Kait Gallagher"
     ],
-    "For A&E Television Network / Senior Producer": [
-      "CARTER FIGUEROA"
+    "Production Managers": [
+      "Silvia Homes Gaines",
+      "Jennifer Partin",
+      "Brigitta Shroyer"
     ],
-    "For A&E Television Network / Executive Producer": [
-      "JOHN VERHOFF"
+    "Sound Design &amp; Mix": [
+      "Henninger Media Services"
+    ],
+    "Sound Editor": [
+      "Rob Fritts"
+    ],
+    "Vice President Of Finance": [
+      "Rossana O'Hop"
     ]
   }
 }

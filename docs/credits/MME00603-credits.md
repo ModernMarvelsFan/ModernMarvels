@@ -22,28 +22,28 @@
 | **Camera** | Aron Brown, Sean Healey, Jed Henry, Lon Magdich, Bryan Maslin, George Odell, Randolph Sellars |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
+| **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Field Audio** | Stephen Hanning, Karl Lind, Sean Lyons, Paul Mendez, Charles Rohr, Thomas M. Staton |
 | **Field Producer** | Melissa Fuller |
-| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **For The History Channel / Programming Coordinator** | Adam Rosante |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assist** | Joshua Janiak |
 | **Post Producer** | Tim Knauff |
-| **Produced by** | Actuality Productions, Inc., For History Television Networks Productions |
+| **Produced By** | Actuality Productions, Inc., For History Television Networks Productions |
 | **Producer** | Bruce Nash |
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Savas Georgalis |
+| **Written And Produced By** | Savas Georgalis |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00603.md)

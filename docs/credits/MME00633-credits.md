@@ -22,9 +22,9 @@
 | **Camera** | Dave Baker, Dan Lantz, Lon Magdich, Steve Van Osdale, Eric Thornton, Zvonimir "Z" Vidusin |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Scot Kelly |
 | **Executive Producer** | John Verhoff, Don Cambou |
 | **Field Producers** | Diane Wai, Dafna Yachin |
@@ -42,7 +42,7 @@
 | **Researcher** | Sapna Chhabra |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Joanne Fish |
+| **Written And Produced By** | Joanne Fish |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00633.md)

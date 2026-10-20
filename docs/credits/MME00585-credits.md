@@ -22,9 +22,9 @@
 | **Camera** | Ed Garcia, Dan Lantz, John Larsen, Lon Magdich, Mark Niedelson, Dave Rutherford, Owen Smith, Eric Thornton |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Allison Boon |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Lou Laprocido |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Dave Bratspis, Matt Cozza, Aaron Holloway, Chris Jones, Charles Rohr, Wally Skinner, Brian Swanson, Chris Tront, Jerry Wheat |
@@ -39,7 +39,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Robert Hughes |
+| **Written And Produced By** | Robert Hughes |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00585.md)

@@ -10,57 +10,71 @@
     "Dawn Irwin"
   ],
   "crew": {
-    "Clearance Supervisor": [
-      "Katie Del Core"
+    "Animation": [
+      "Glenn Takakjian"
     ],
     "Archivist": [
       "Nilda Jensen"
-    ],
-    "Director of Research": [
-      "Hildie Katibah"
-    ],
-    "Researchers": [
-      "Mark Savage",
-      "Diane Wai"
-    ],
-    "Clearance Assistant": [
-      "Gabe Martinez"
-    ],
-    "Historical Consultants": [
-      "Michael D'Aquino",
-      "Dave Palmer"
-    ],
-    "Footage Consultant": [
-      "Ted Troll"
-    ],
-    "Field Audio": [
-      "Frank Baglino",
-      "Andy Kralik"
-    ],
-    "Post Production Supervisor": [
-      "Jason Steinberg"
-    ],
-    "Voice Over Coordinator": [
-      "Dawn Irwin"
-    ],
-    "Post Production Coordinator": [
-      "Gary Reid"
     ],
     "Assistant Editors": [
       "Michael Lim",
       "Stephen Franklin"
     ],
-    "Online Editor": [
-      "David Rex"
+    "Clearance Assistant": [
+      "Gabe Martinez"
     ],
-    "Sound Mixer": [
-      "Paul Ray"
+    "Clearance Supervisor": [
+      "Katie Del Core"
     ],
-    "Animation": [
-      "Glenn Takakjian"
+    "Consulting Producer": [
+      "Henry Schipper"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Hildie Katibah"
+    ],
+    "Edited By": [
+      "Andre Vaillancourt"
+    ],
+    "Field Audio": [
+      "Frank Baglino",
+      "Andy Kralik"
+    ],
+    "Footage Consultant": [
+      "Ted Troll"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
     ],
     "Graphics": [
       "Barry Hill"
+    ],
+    "Historical Consultants": [
+      "Michael D'Aquino",
+      "Dave Palmer"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Production Coordinator": [
+      "Gary Reid"
+    ],
+    "Post Production Supervisor": [
+      "Jason Steinberg"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc. for HISTORY"
+    ],
+    "Producer": [
+      "Bruce Nash"
     ],
     "Production Assistants": [
       "Maryalice R. Aragon",
@@ -70,32 +84,18 @@
     "Production Coordinator": [
       "Michael Z. Davis"
     ],
-    "Produced by": [
-      "Actuality Productions, Inc. for HISTORY"
+    "Researchers": [
+      "Mark Savage",
+      "Diane Wai"
     ],
-    "For HISTORY / Executive Producer": [
-      "Beth Dietrich-Segarra"
+    "Sound Mixer": [
+      "Paul Ray"
     ],
-    "Written and Produced by": [
+    "Voice Over Coordinator": [
+      "Dawn Irwin"
+    ],
+    "Written And Produced By": [
       "Robert Ziel"
-    ],
-    "Line Producer": [
-      "Paul Dzilvelis"
-    ],
-    "Consulting Producer": [
-      "Henry Schipper"
-    ],
-    "Edited by": [
-      "Andre Vaillancourt"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Music by": [
-      "Alan Ett"
     ]
   }
 }

@@ -19,13 +19,11 @@
 | **Asst Post Coordinator** | Gaylen Kobayashi |
 | **Camera** | Gary Brooks, Spencer Cooper, George Hupka, Travis Johnson, Dan Lantz, Lon Magdich |
 | **Coordinator** | Gregory Zide |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
 | **Editor** | David Beatty |
-| **Executive Producer** | Don Cambou |
+| **Executive Producer** | John Verhoff |
 | **Field Audio** | Charlie Ethridge, Michael Frederick, Christopher K. Gurney, Tom Hale, Charles Rohr, Adrian Sam |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Adam Rosante |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
@@ -36,10 +34,11 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Researcher** | Kyle Sathers |
 | **Sound Mixer** | Nozomu Furuya-Hirota |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Jared Cook |
+| **Written And Produced By** | Jared Cook |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00668.md)

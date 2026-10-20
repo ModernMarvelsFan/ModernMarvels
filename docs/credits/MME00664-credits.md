@@ -8,31 +8,31 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `Produced by Half Yard Productions for HISTORY. © 2010 A&E TELEVISION NETWORKS.. All RIGHTS RESERVED.`
 * **Production Company:** Produced by Half Yard Productions for HISTORY
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Additional Photography** | GORDY WATERMAN, ANDY SCHWARTZ, MORGAN SCHMIDT-FENG, JIMMY O'DONNELL |
-| **Associate Producer** | CONOR MCCARTHY |
-| **Colorist** | PETER SALVIA |
-| **Director of Photography** | JOHN MANS |
-| **Editor** | MATTHEW TILLEY |
-| **Executive Producers** | SEAN GALLAGHER, ABBY GREENSFELDER |
-| **Gaffer** | ARTHUR AREVENA |
-| **Head of Production** | LIBBY RICHMAN |
-| **Music** | EXTREME |
-| **Narrator** | MAX RAPHAEL |
-| **Online Editor** | DANIEL EGAN |
-| **Post Production Coordinator** | CAMERON YOUNG |
-| **Post Production Supervisor** | LIAM MONSCHEIN |
-| **Producer/Director** | JENNIFER ANDERSON |
-| **Production Accountant** | ROSSANA O'HOP |
-| **Production Assistant** | CHRIS WOHLERS |
-| **Production Manager** | BRIGITTA SHROYER |
-| **Sound** | ADAM JONES, DWAYNE DELL, MARK MARIACA, MATT RADLAUER, SEAN O'NEIL |
-| **Sound Design** | RICHARD HUMPHRIES |
+| **Additional Photography** | Gordy Waterman, Andy Schwartz, Morgan Schmidt-Feng, Jimmy O'Donnell |
+| **Associate Producer** | Conor McCarthy |
+| **Colorist** | Peter Salvia |
+| **Director** | Jennifer Anderson |
+| **Director Of Photography** | John Mans |
+| **Editor** | Matthew Tilley |
+| **Executive Producers** | Sean Gallagher, Abby Greensfelder |
+| **Gaffer** | Arthur Arevena |
+| **Head Of Production** | Libby Richman |
+| **Music** | Extreme |
+| **Narrator** | Max Raphael |
+| **Online Editor** | Daniel Egan |
+| **Post Production Coordinator** | Cameron Young |
+| **Post Production Supervisor** | Liam Monschein |
+| **Production Accountant** | Rossana O'Hop |
+| **Production Assistant** | Chris Wohlers |
+| **Production Manager** | Brigitta Shroyer |
+| **Sound** | Adam Jones, Dwayne Dell, Mark Mariaca, Matt Radlauer, Sean O'Neil |
+| **Sound Design** | Richard Humphries |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00664.md)

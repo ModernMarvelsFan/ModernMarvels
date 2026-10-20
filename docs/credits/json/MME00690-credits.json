@@ -13,6 +13,21 @@
     "Max Raphael"
   ],
   "crew": {
+    "Assistant Editors": [
+      "Alicia Lundgren",
+      "Laura \"Q\" Heinrichs",
+      "Vankhoa \"Mike\" Le",
+      "Stephen Vaughn",
+      "Sarah Longnecker"
+    ],
+    "Associate Producers": [
+      "Mary Courtney",
+      "Russell Wear"
+    ],
+    "Audio Mix": [
+      "Jim Rogers",
+      "Dylan Terlinger"
+    ],
     "Camera": [
       "Matthew Ballard",
       "Lance Catania",
@@ -21,30 +36,23 @@
       "Andrew Wood",
       "Outpost Worldwide"
     ],
-    "Narrator": [
-      "Max Raphael"
+    "Co-Executive Producer": [
+      "Robert Twilley"
     ],
-    "Audio Mix": [
-      "Jim Rogers",
-      "Dylan Terlinger"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Music": [
-      "Legativity"
+    "Editor": [
+      "Lou LaProcido"
     ],
-    "Post Supervisor": [
-      "John Kennedy",
-      "Dana Merwin"
+    "Executive Producer": [
+      "John Verhoff"
     ],
-    "Online Editors": [
-      "Scott Lee",
-      "Philip Tatler IV"
+    "Programming Coordinator": [
+      "Kelly Vorrasi"
     ],
-    "Assistant Editors": [
-      "Alicia Lundgren",
-      "Laura \"Q\" Heinrichs",
-      "Vankhoa \"Mike\" Le",
-      "Stephen Vaughn",
-      "Sarah Longnecker"
+    "Graphics": [
+      "Elevation"
     ],
     "Location Sound": [
       "Tom Backus",
@@ -53,8 +61,15 @@
       "Chris Gurney",
       "Michael Solomon"
     ],
-    "Graphics": [
-      "Elevation"
+    "Music": [
+      "Legativity"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Online Editors": [
+      "Scott Lee",
+      "Philip Tatler IV"
     ],
     "Post Prep": [
       "Zach Land",
@@ -63,8 +78,13 @@
       "Sean Sexton",
       "Jamison Stalsworth"
     ],
-    "Production Manager": [
-      "Katie Young"
+    "Post Supervisor": [
+      "John Kennedy",
+      "Dana Merwin"
+    ],
+    "Produced By": [
+      "Jupiter Entertainment",
+      "For History"
     ],
     "Production Assistance": [
       "Jeremy Ashcraft",
@@ -72,38 +92,15 @@
       "Michelle Weiss",
       "Amanda Feathers"
     ],
-    "Created By": [
-      "Bruce Nash"
-    ],
-    "Produced by": [
-      "Jupiter Entertainment",
-      "For History"
-    ],
-    "For History / Programming Coordinator": [
-      "Kelly Vorrasi"
-    ],
-    "For History / Executive Producer": [
-      "John Verhoff"
-    ],
-    "Executive Producer": [
-      "Stephen Land"
-    ],
-    "Co-Executive Producer": [
-      "Robert Twilley"
+    "Production Manager": [
+      "Katie Young"
     ],
     "Supervising Producer": [
       "Ron Nelson",
       "Sharon Martin"
     ],
-    "Writer/Producer": [
+    "Producer": [
       "Greg DeHart"
-    ],
-    "Associate Producers": [
-      "Mary Courtney",
-      "Russell Wear"
-    ],
-    "Editor": [
-      "Lou LaProcido"
     ]
   }
 }

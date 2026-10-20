@@ -14,35 +14,34 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **3D Animation by** | PERCOLATE DIGITAL |
-| **Additional Graphics** | JOHN KERR |
-| **Assistant Editor** | MIKE BAUTISTA |
-| **Associate Producer** | HANNAH RICHARDSON |
-| **Associate Producers** | PHILIP CLOUTIER, ANASTASIA CRONIN, AMBER SEYLER |
-| **Directors of Photography** | DALLAS CHILDERS, STEPHEN HARRISON, JULIO LUZQUINOS, JOHN MANS |
-| **Edited by** | JEFF STEIN |
-| **Executive Producers** | SEAN GALLAGHER, ABBY GREENSFELDER |
-| **Field Producers** | BROOKE BARROWS, SCOTT MICHNICK, MARK YOUNG |
-| **For A&amp;E Television Network / Executive Producer** | JOHN VERHOFF |
-| **For A&amp;E Television Network / Senior Producer** | CARTER FIGUEROA |
-| **Head of Production** | JANICE MEZZETTI |
-| **Intern** | JEREMY WEINREICH |
-| **Junior Editors** | NADIA IZAKSON, GUILLERMO MACO, WANAKHAVI WAKHISI |
-| **Music** | AUDIO NETWORK, EXTREME, PRODUKT, JINGLEPUNKS |
-| **Online Editor/Colorist** | MATT DOE |
-| **Post Production Coordinator** | BEN SHUSTER |
-| **Post Production Manager** | CAMERON YOUNG |
-| **Produced by** | Half Yard Productions, JESSE BECHTEL |
-| **Production Assistant** | SUZIE ECKL |
-| **Production Coordinator** | KAIT GALLAGHER |
-| **Production Manager** | JENNIFER PARTIN |
-| **Researcher** | ZOE COUACAUD |
-| **Senior Producer** | CHRIS SONDREAL |
-| **Series Producer** | ANN CARROLL |
-| **Sound** | MATT ENGEL, MARK MARTACA, AARON MUNDY |
-| **Sound Design &amp; Mix** | RICHARD HUMPHRIES |
-| **Sound Editor** | NICHOLAS KARLIN |
-| **Vice President of Finance** | ROSSANA O'HOP |
+| **3D Animation By** | Percolate Digital |
+| **Additional Graphics** | John Kerr |
+| **Assistant Editor** | Mike Bautista |
+| **Associate Producer** | Hannah Richardson |
+| **Associate Producers** | Philip Cloutier, Anastasia Cronin, Amber Seyler |
+| **Colorist** | Matt Doe |
+| **Directors Of Photography** | Dallas Childers, Stephen Harrison, Julio Luzquinos, John Mans |
+| **Edited By** | Jeff Stein |
+| **Executive Producer** | John Verhoff |
+| **Executive Producers** | Sean Gallagher, Abby Greensfelder |
+| **Field Producers** | Brooke Barrows, Scott Michnick, Mark Young |
+| **Head Of Production** | Janice Mezzetti |
+| **Intern** | Jeremy Weinreich |
+| **Junior Editors** | Nadia Izakson, Guillermo Maco, Wanakhavi Wakhisi |
+| **Music** | Audio Network, Extreme, Produkt, Jinglepunks |
+| **Post Production Coordinator** | Ben Shuster |
+| **Post Production Manager** | Cameron Young |
+| **Produced By** | Half Yard Productions, Jesse Bechtel |
+| **Production Assistant** | Suzie Eckl |
+| **Production Coordinator** | Kait Gallagher |
+| **Production Manager** | Jennifer Partin |
+| **Researcher** | Zoe Couacaud |
+| **Senior Producer** | Chris Sondreal |
+| **Series Producer** | Ann Carroll |
+| **Sound** | Matt Engel, Mark Martaca, Aaron Mundy |
+| **Sound Design &amp; Mix** | Richard Humphries |
+| **Sound Editor** | Nicholas Karlin |
+| **Vice President Of Finance** | Rossana O'Hop |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00698.md)

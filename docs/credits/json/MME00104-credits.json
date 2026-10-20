@@ -6,35 +6,35 @@
   "studios": [
     "ACTUALITY Productions, Inc.",
     "Hearst Entertainment",
-    "FLASHBACK TELEVISION"
+    "Flashback Television"
   ],
   "narrators": [
     "David Holt"
   ],
   "crew": {
-    "PRODUCED BY": [
-      "ACTUALITY Productions, Inc."
-    ],
-    "Narration Produced by": [
-      "FLASHBACK TELEVISION"
-    ],
-    "Narrated by": [
-      "David Holt"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "DAN JACKSON"
-    ],
     "Associate Producer": [
-      "LINDA K. CLARK"
+      "Linda K. Clark"
     ],
     "Edited By": [
-      "JACK FOSTER"
+      "Jack Foster"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Narrated By": [
+      "David Holt"
+    ],
+    "Narration Produced By": [
+      "Flashback Television"
+    ],
+    "Produced By": [
+      "ACTUALITY Productions, Inc."
     ],
     "Producer": [
-      "BRUCE NASH"
+      "Bruce Nash"
+    ],
+    "Written And Produced By": [
+      "Dan Jackson"
     ]
   }
 }

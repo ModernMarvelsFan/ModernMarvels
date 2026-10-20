@@ -8,20 +8,20 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | GLORIA L. MORRIS |
-| **Created by** | BRUCE NASH |
-| **Edited by** | LOU LAPROCIDO |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Producer** | BRUCE NASH |
-| **Written and Produced by** | FRED PEABODY |
+| **Associate Producer** | Gloria L. Morris |
+| **Created By** | Bruce Nash |
+| **Edited By** | Lou Laprocido |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Producer** | Bruce Nash |
+| **Written And Produced By** | Fred Peabody |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00388.md)

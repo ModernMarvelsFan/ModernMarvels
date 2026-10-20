@@ -5,131 +5,131 @@
   "copyright": "© 1998 A&E Television Networks. All Rights Reserved.",
   "studios": [],
   "narrators": [
-    "MAX RAPHAEL",
-    "JOHN KNAPP"
+    "Max Raphael",
+    "John Knapp"
   ],
   "crew": {
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "YANN DEBONNE",
-      "NOAH MOROWITZ"
-    ],
-    "Additional Segments Produced by": [
-      "SCOTT GOLDIE"
-    ],
-    "Line Producer": [
-      "PAUL DZILVELIS"
-    ],
-    "Consulting Producer": [
-      "RON NELSON"
-    ],
-    "Associate Producers": [
-      "BOB PETRELLA",
-      "KRISTINA DJOKIC"
-    ],
-    "Edited by": [
-      "ROBERT POTTER",
-      "MOTOSHI WAKABAYASHI"
-    ],
-    "Additional Segments Edited by": [
-      "JASON STEINBERG"
-    ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Music by": [
-      "ALAN ETT MUSIC GROUP"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Managers": [
-      "LISA BLACKWOOD HOPE",
-      "SHELIA COLLINS"
-    ],
-    "Post Producers": [
-      "SCOTT BERKSON",
-      "TIM KNAUFF"
-    ],
-    "Clearance Supervisors": [
-      "LESLIE ANNE CLARK",
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ALLISON BOON"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
     "Accountants": [
-      "APRIL BROWN",
-      "LISA CASELLA",
-      "SHERIDAN LIU",
-      "PAULETTE PANTOJA"
+      "April Brown",
+      "Lisa Casella",
+      "Sheridan Liu",
+      "Paulette Pantoja"
     ],
-    "Researchers": [
-      "JULIEANN PAVESI",
-      "ULDIS BALODIS",
-      "JOHN KNAPP"
+    "Additional Segments Edited By": [
+      "Jason Steinberg"
     ],
-    "Coordinator": [
-      "BRAD SKILES"
+    "Additional Segments Produced By": [
+      "Scott Goldie"
     ],
-    "Post Coordinators": [
-      "LEANNE M. ANAYA REECE",
-      "TERRENCE HARTWELL"
-    ],
-    "Voice Over Coordinator": [
-      "JOHN KNAPP"
+    "Animation By": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
-      "LAURA STEINHOFF",
-      "JOSH BECKHAM"
+      "Laura Steinhoff",
+      "Josh Beckham"
     ],
     "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
+      "Alexander Rubinow"
     ],
-    "Post Assistants": [
-      "GAYLEN KOBAYASHI",
-      "KEVIN McCARTNEY"
+    "Associate Producers": [
+      "Bob Petrella",
+      "Kristina Djokic"
     ],
     "Camera": [
-      "ARON BROWN",
-      "JAMES BUCKLEY",
-      "DOUG CRAWFORD",
-      "SHAUN DONAHUE",
-      "MARCUS GLASGOW",
-      "EDWARD SPRINGER",
-      "LIZ WATKINS"
+      "Aron Brown",
+      "James Buckley",
+      "Doug Crawford",
+      "Shaun Donahue",
+      "Marcus Glasgow",
+      "Edward Springer",
+      "Liz Watkins"
+    ],
+    "Clearance Supervisors": [
+      "Leslie Anne Clark",
+      "Katie Del Core"
+    ],
+    "Consulting Producer": [
+      "Ron Nelson"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Edited By": [
+      "Robert Potter",
+      "Motoshi Wakabayashi"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
     ],
     "Field Audio": [
-      "WILLIAM BASS",
-      "JAMES BECKER",
-      "RAY BENNETT",
-      "STAN BOHNHOFF",
-      "JONATHAN J. COHEN",
-      "ERIC FOX",
-      "MIKE KIMBALL",
-      "MARTY ZIMMERMAN"
-    ],
-    "Online Editor": [
-      "JOHN PRICE"
-    ],
-    "Sound Mixer": [
-      "ED THACKER"
-    ],
-    "Animation by": [
-      "VICTOR BORNIA"
+      "William Bass",
+      "James Becker",
+      "Ray Bennett",
+      "Stan Bohnhoff",
+      "Jonathan J. Cohen",
+      "Eric Fox",
+      "Mike Kimball",
+      "Marty Zimmerman"
     ],
     "Historical Consultants": [
-      "EGLIN AIR FORCE BASE",
-      "LOS ALAMOS NATIONAL LABORATORY",
-      "USS LINCOLN"
+      "Eglin Air Force Base",
+      "Los Alamos National Laboratory",
+      "Uss Lincoln"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistants": [
+      "Gaylen Kobayashi",
+      "KEVIN McCARTNEY"
+    ],
+    "Post Coordinators": [
+      "Leanne M. Anaya Reece",
+      "Terrence Hartwell"
+    ],
+    "Post Producers": [
+      "Scott Berkson",
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Managers": [
+      "Lisa Blackwood Hope",
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Julieann Pavesi",
+      "Uldis Balodis",
+      "John Knapp"
+    ],
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
+    ],
+    "Written And Produced By": [
+      "Yann Debonne",
+      "Noah Morowitz"
     ]
   }
 }

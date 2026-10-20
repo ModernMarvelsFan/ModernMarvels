@@ -7,42 +7,41 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Network All Rights Reserved`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
-* **Narrator:** MIKKI DEL MONICO, MAX RAPHAEL
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions
+* **Narrator:** Mikki Del Monico, Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | JUDY GORDON, SHERIDAN LIU |
-| **Animation by** | DOUG WHITNEY AND WADE LAGEOSE |
-| **Assistant Editor** | LAURA STEINHOFF |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Associate Producer** | DIANE WAI |
-| **Camera** | ART KIBBY, WILLIAM H. KIRBY, LON MAGDICH, GREG STEINBRECHER, Z VIDUSIN |
-| **Clearance Coordinator** | D.W. BLAKESLEE |
-| **Clearance Supervisor** | KATIE DEL CORE |
+| **Accountants** | Judy Gordon, Sheridan Liu |
+| **Animation By** | Doug Whitney And Wade Lageose |
+| **Assistant Editor** | Laura Steinhoff |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Associate Producer** | Diane Wai |
+| **Camera** | Art Kibby, William H. Kirby, Lon Magdich, Greg Steinbrecher, Z Vidusin |
+| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | ROSALYN McVAY |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACQUES |
-| **Edited by** | DAVID BEATTY, ROBERT LATTANZIO |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | CHARLES R. HALL, MARLA HUDNALL, SAM SALERNO |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistant** | GAYLEN KOBAYASHI |
-| **Post Producer** | TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | JEFFERY PERKINS |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researcher** | MIKKI DEL MONICO |
-| **Sound Mixer** | PAUL RAY |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
-| **Written and Produced by** | FRED PEABODY |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | David Beatty, Robert Lattanzio |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Charles R. Hall, Marla Hudnall, Sam Salerno |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistant** | Gaylen Kobayashi |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Jeffery Perkins |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researcher** | Mikki Del Monico |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Mikki Del Monico |
+| **Written And Produced By** | Fred Peabody |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00379.md)

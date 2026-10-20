@@ -10,33 +10,6 @@
   ],
   "narrators": [],
   "crew": {
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created By": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Katie Del Core"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
-    "Coordinator": [
-      "Brad Skiles"
-    ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
@@ -44,9 +17,6 @@
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "James Orbison"
     ],
     "Audio": [
       "Dave Cannon",
@@ -56,17 +26,44 @@
       "Henry N. Seymour",
       "Peter Verrando"
     ],
-    "For The History Channel / Executive Producer": [
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Katie Del Core"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Executive Producer": [
       "Beth Dietrich-Segarra"
-    ],
-    "For The History Channel / Programming Coordinator": [
-      "Michele Wilcox"
-    ],
-    "Produced by": [
-      "Actuality Productions, Inc."
     ],
     "For": [
       "History Television Network Productions"
+    ],
+    "Programming Coordinator": [
+      "Michele Wilcox"
+    ],
+    "Post Assist": [
+      "James Orbison"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc."
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
     ]
   }
 }

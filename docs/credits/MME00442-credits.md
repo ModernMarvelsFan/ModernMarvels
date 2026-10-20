@@ -15,22 +15,22 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Accountant** | Sheridan Liu |
-| **Animation by** | Victor Bornia |
+| **Animation By** | Victor Bornia |
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Associate Producers** | Dan Gibbons, Emily Lau |
 | **Camera** | Henry Abler, Ken Freund, Dale Gray, Pat Gregory, Craig Kauffman, Bruce Maniscalco, David Palmer |
 | **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | Melinda Esquibel |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Anthony Lacques |
-| **Edited by** | Robert Lattanzio |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Robert Lattanzio |
+| **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Joe Bryan, Allan Green, Jim Hamilton, Michael Held, Ben Moyer |
-| **For History / Executive Producer** | Beth Dietrich-Segarra |
 | **Historical Consultants** | Peter Duncan Burchard, Kay Hively |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Guy Thomas |
-| **Narrated by** | Max Raphael |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
 | **Post Assistant** | Gaylen Kobayashi |
 | **Producer** | Bruce Nash |
 | **Production Controller** | Dani Eslin |

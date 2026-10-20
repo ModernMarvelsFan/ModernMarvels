@@ -7,45 +7,44 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2005 A&E Television Networks All Rights Reserved`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, RED GYPSY ANIMATION, ALAN ETT MUSIC GROUP
-* **Narrator:** MAX RAPHAEL, JOHN KNAPP
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions, Red Gypsy Animation, Alan Ett Music Group
+* **Narrator:** Max Raphael, John Knapp
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | APRIL BROWN, SHERIDAN LIU, PAULETTE PANTOJA |
-| **Animated Maps by** | RED GYPSY ANIMATION |
-| **Animation by** | VICTOR BORNIA |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Associate Producer** | DAVID BRADSTREET |
-| **Camera** | GUY DEFEIS, DOUGLAS GLAZIER, LON MAGDICH, RICHARD NEILL, MIKE R. STEPHEN, T.J. WILLIAMS |
-| **Clearance Coordinators** | LAWRENCE GIVENS III, AARON ZOBER |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Coordinators** | BONI OSMANI, BRAD SKILES |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ALLISON BOON |
-| **Edited by** | ROBERT LATTANZIO |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | FRANK COAKLEY, ANDY REICHSMAN, HUGH SCOTT, JORGE SUAREZ, T.J. WILLIAMS, JR. |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Historical Consultants** | DAVID DAMERY, PhD, MIKE DeSIMONI, SR., NICHOLAS KENT |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistants** | GAYLEN KOBAYASHI, KEVIN McCARTNEY |
-| **Post Coordinator** | TERRENCE HARTWELL |
-| **Post Producer** | TIM KNAUFF |
-| **Produced by** | ACTUALITY PRODUCTIONS, INC., History Television Network Productions |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | ULDIS BALODIS, BRADLEY COMBEST, JOHN KNAPP |
-| **Sound Mixer** | ED THACKER |
-| **Voice Over Coordinator** | JOHN KNAPP |
-| **Written and Produced by** | MARTIN KENT |
+| **Accountants** | April Brown, Sheridan Liu, Paulette Pantoja |
+| **Animated Maps By** | Red Gypsy Animation |
+| **Animation By** | Victor Bornia |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Associate Producer** | David Bradstreet |
+| **Camera** | Guy Defeis, Douglas Glazier, Lon Magdich, Richard Neill, Mike R. Stephen, T.J. Williams |
+| **Clearance Coordinators** | Lawrence Givens III, Aaron Zober |
+| **Clearance Supervisor** | Katie Del Core |
+| **Coordinators** | Boni Osmani, Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Edited By** | Robert Lattanzio |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Frank Coakley, Andy Reichsman, Hugh Scott, Jorge Suarez, T.J. Williams, Jr. |
+| **Historical Consultants** | DAVID DAMERY, PhD, MIKE DeSIMONI, SR., Nicholas Kent |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistants** | Gaylen Kobayashi, KEVIN McCARTNEY |
+| **Post Coordinator** | Terrence Hartwell |
+| **Post Producer** | Tim Knauff |
+| **Produced By** | Actuality Productions, Inc., History Television Network Productions |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researchers** | Uldis Balodis, Bradley Combest, John Knapp |
+| **Sound Mixer** | Ed Thacker |
+| **Voice Over Coordinator** | John Knapp |
+| **Written And Produced By** | Martin Kent |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00496.md)

@@ -12,15 +12,11 @@
   ],
   "narrators": [],
   "crew": {
-    "COVID COMPLIANCE OFFICERS": [
-      "Brittany Agnew",
-      "Kasey Allison",
-      "Sarah Huff",
-      "Allie Leonard",
-      "Melissa McCollum",
-      "Michelle Polacinski"
+    "2Nd Assistant Accountants": [
+      "Samara Choit",
+      "Aaliyah Fowler"
     ],
-    "ASSISTANT CAMERA / MEDIA MANAGERS": [
+    "Media Managers": [
       "Elliott Acevedo",
       "Tracy Facelli",
       "Jared Hardy",
@@ -29,145 +25,143 @@
       "Logan Quarles",
       "Jordan Sommerland"
     ],
-    "CAMERA OPERATORS": [
+    "Assistant Editors": [
+      "Zac Bergerath",
+      "Jonathan A. Schwartz",
+      "Nicholas Sotera"
+    ],
+    "Associate Producers": [
+      "Malia Marsh",
+      "Margaux Moores-Tanvier",
+      "Daria Ramirez"
+    ],
+    "Audio Mixer": [
+      "Andrew Kay"
+    ],
+    "Camera Operators": [
       "Peter Curulaba",
       "Bill Rubuchu",
       "Glus Torino",
       "Duane Gitschlag"
     ],
-    "UTILITY PA": [
-      "George Schramm"
-    ],
-    "PRODUCTION OFFICE ASSISTANTS": [
-      "Breanne Casucci",
-      "Allison Fennik"
-    ],
-    "POST PROD MEDIA OPS TECH": [
-      "Howard Chisolm"
-    ],
-    "GRAPHICS": [
-      "Monkeyhead",
-      "Trick & Mortar"
-    ],
-    "POST PRODUCTION FACILITY": [
-      "Motion Picture Enterprises, Inc."
-    ],
-    "ONLINE PRODUCER": [
-      "Brian Street"
-    ],
-    "ONLINE EDITOR AND COLORIST": [
-      "Andrew Eatherly"
-    ],
-    "AUDIO MIXER": [
-      "Andrew Kay"
-    ],
-    "VO RECORD": [
-      "Coastella Sound"
-    ],
-    "LEAD PRODUCTION ACCOUNTANT": [
-      "Sophiya Banu"
-    ],
-    "2ND ASSISTANT ACCOUNTANTS": [
-      "Samara Choit",
-      "Aaliyah Fowler"
-    ],
-    "Original series created by": [
-      "Bruce Nash"
-    ],
-    "PRODUCED BY": [
-      "THE SIX WEST MEDIA(TM) GROUP FOR HISTORY(R)"
-    ],
-    "FOR HISTORY(R) MUSIC SERVICES": [
-      "Jennifer Insogna",
-      "Liz Morgan"
-    ],
-    "FOR THE SIX WEST MEDIA(TM) GROUP / EXECUTIVE-IN-CHARGE": [
-      "Patrice Andrews"
-    ],
-    "FOR THE SIX WEST MEDIA(TM) GROUP / SUPERVISING PRODUCER": [
-      "Allie Breslin"
-    ],
-    "FOR THE SIX WEST MEDIA(TM) GROUP / LINE PRODUCER": [
-      "Melissa Ray"
-    ],
-    "FOR THE SIX WEST MEDIA(TM) GROUP / ADMINISTRATIVE ASSISTANT": [
-      "Zoe Resnick"
-    ],
-    "FOR HISTORY(R) / EXECUTIVE PRODUCER": [
-      "Jim Pasquarella"
-    ],
-    "FOR HISTORY(R) / PROGRAMMING COORDINATOR": [
-      "Celeste Amidon"
-    ],
-    "EXECUTIVE PRODUCERS": [
-      "Steve Ascher",
-      "Kristy Sabat",
-      "Matt Pearl"
-    ],
-    "EXECUTIVE PRODUCER": [
-      "Matthew J. Braley"
-    ],
-    "CO-EXECUTIVE PRODUCER": [
+    "Co-Executive Producer": [
       "Steven C. Lawrence"
     ],
-    "PRODUCER": [
-      "Adam Richman"
+    "Covid Compliance Officers": [
+      "Brittany Agnew",
+      "Kasey Allison",
+      "Sarah Huff",
+      "Allie Leonard",
+      "Melissa McCollum",
+      "Michelle Polacinski"
     ],
-    "HOST": [
-      "Adam Richman"
+    "Development Producer": [
+      "Keith Malone"
     ],
-    "SUPERVISING FIELD PRODUCER": [
-      "Jon Doolan"
-    ],
-    "STORY PRODUCER": [
-      "Myles Sorenson"
-    ],
-    "PRODUCERS": [
-      "Mark Kobara",
-      "Leslie Coffee",
-      "Libby Segal",
-      "Paul Taggart"
-    ],
-    "ASSOCIATE PRODUCERS": [
-      "Malia Marsh",
-      "Margaux Moores-Tanvier",
-      "Daria Ramirez"
-    ],
-    "EDITORS": [
+    "Editors": [
       "Ralph Avellino",
       "Sean Grossman",
       "Jeremy Higgins",
       "Peter Iannuccilli"
     ],
-    "ASSISTANT EDITORS": [
-      "Zac Bergerath",
-      "Jonathan A. Schwartz",
-      "Nicholas Sotera"
+    "Executive Producer": [
+      "Jim Pasquarella"
     ],
-    "LINE PRODUCER": [
+    "Executive Producers": [
+      "Steve Ascher",
+      "Kristy Sabat",
+      "Matt Pearl"
+    ],
+    "Programming Coordinator": [
+      "Celeste Amidon"
+    ],
+    "For History(R) Music Services": [
+      "Jennifer Insogna",
+      "Liz Morgan"
+    ],
+    "Administrative Assistant": [
+      "Zoe Resnick"
+    ],
+    "Executive-In-Charge": [
+      "Patrice Andrews"
+    ],
+    "Line Producer": [
       "Pamela Wagner"
     ],
-    "PRODUCTION MANAGER": [
-      "Shannon Silver"
+    "Supervising Producer": [
+      "Allie Breslin"
     ],
-    "PRODUCTION COORDINATORS": [
+    "Graphics": [
+      "Monkeyhead",
+      "Trick & Mortar"
+    ],
+    "Host": [
+      "Adam Richman"
+    ],
+    "Lead Production Accountant": [
+      "Sophiya Banu"
+    ],
+    "Online Editor And Colorist": [
+      "Andrew Eatherly"
+    ],
+    "Online Producer": [
+      "Brian Street"
+    ],
+    "Original Series Created By": [
+      "Bruce Nash"
+    ],
+    "Post Prod Media Ops Tech": [
+      "Howard Chisolm"
+    ],
+    "Post Production Facility": [
+      "Motion Picture Enterprises, Inc."
+    ],
+    "Produced By": [
+      "The Six West Media(tm) Group For History(r)"
+    ],
+    "Producer": [
+      "Adam Richman"
+    ],
+    "Producers": [
+      "Mark Kobara",
+      "Leslie Coffee",
+      "Libby Segal",
+      "Paul Taggart"
+    ],
+    "Production Coordinators": [
       "Nicole Yovin",
       "Jasmine Jean"
     ],
-    "DEVELOPMENT PRODUCER": [
-      "Keith Malone"
+    "Production Manager": [
+      "Shannon Silver"
     ],
-    "SVP PRODUCTION OPERATIONS": [
-      "Ed Ruggeri"
+    "Production Office Assistants": [
+      "Breanne Casucci",
+      "Allison Fennik"
     ],
-    "VP, PRODUCTION MANAGEMENT": [
-      "Patricia Paredes Saez"
+    "Senior Director, Post Production": [
+      "Tom Matheu"
     ],
-    "SUPERVISING PRODUCER, POST PRODUCTION": [
+    "Story Producer": [
+      "Myles Sorenson"
+    ],
+    "Supervising Field Producer": [
+      "Jon Doolan"
+    ],
+    "Supervising Producer, Post Production": [
       "Mike Giordano"
     ],
-    "SENIOR DIRECTOR, POST PRODUCTION": [
-      "Tom Matheu"
+    "Svp Production Operations": [
+      "Ed Ruggeri"
+    ],
+    "Utility Pa": [
+      "George Schramm"
+    ],
+    "Vo Record": [
+      "Coastella Sound"
+    ],
+    "Vp, Production Management": [
+      "Patricia Paredes Saez"
     ]
   }
 }

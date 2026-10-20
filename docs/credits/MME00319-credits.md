@@ -14,8 +14,8 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Executive Producer** | DON CAMBOU |
-| **Written and Produced by** | MATTHEW P. HICKEY |
+| **Executive Producer** | Don Cambou |
+| **Written And Produced By** | Matthew P. Hickey |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00319.md)

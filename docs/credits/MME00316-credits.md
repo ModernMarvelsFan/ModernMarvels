@@ -14,21 +14,21 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation by** | Glenn Takakjian |
+| **Animation By** | Glenn Takakjian |
 | **Assistant Accountant** | Dennis Luciani |
 | **Assistant Editor** | Eric Sievering |
 | **Associate Producer** | Tamara Phillips |
 | **Camera** | Peter Krajewski, Mark Morris |
 | **Clearance Coordinator** | Susan Wichmann |
 | **Clearance Supervisor** | Katie Del Core |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Anthony Lacques |
-| **Edited by** | Jason Steinberg, Pam Malouf |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Jason Steinberg, Pam Malouf |
 | **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
 | **Historical Consultant** | Garry James |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett Music Group |
-| **Narrated by** | Max Raphael |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | Julia De Galzain |
 | **Post Assistant** | Laura Steinhoff |
 | **Post Coordinator** | Danny Kim |
@@ -40,7 +40,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Paul Ray |
 | **Voice Over Coordinator** | Melanie Pipes |
-| **Written and Produced by** | Michael Christy |
+| **Written And Produced By** | Michael Christy |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00316.md)

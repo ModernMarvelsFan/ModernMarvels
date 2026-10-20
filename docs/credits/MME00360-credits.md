@@ -16,17 +16,16 @@
 | :--- | :--- |
 | **Assistant Avid Editors** | Katherine Smith, Kyle Yaskin |
 | **Associate Producer** | Andrew Nock |
+| **Composite Editors** | Michael L. Hall, Margaret Moore |
 | **Controller** | Anit Chan |
 | **Coordinating Producer** | Louis C. Tarantino |
 | **Editor** | Michael W. Andrews |
 | **Electronic Graphics** | Janice Bech |
+| **Executive Producer** | Charlie Maday |
 | **Field Audio** | Dale Hancock, Don Hooper, Scott Johnson |
 | **Field Camera** | Glenn Roland, Rob Rainey, Paul Johnson |
-| **For History / Executive Producer** | Charlie Maday |
-| **For History / Supervising Producer** | Elyse Miranda |
 | **Motion Control Services** | Matchframe Video |
-| **Online/Composite Editors** | Michael L. Hall, Margaret Moore |
-| **Original Music by** | Christopher Stone, Steven Morrell |
+| **Original Music By** | Christopher Stone, Steven Morrell |
 | **Post Production Services** | Matchframe Video |
 | **Post Production Supervisor** | Blaine Williams |
 | **Production Accountants** | Vivian Santos |

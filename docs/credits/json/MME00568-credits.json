@@ -11,32 +11,17 @@
     "Max Raphael"
   ],
   "crew": {
-    "Director of Clearance": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Coordinator": [
-      "Brad Skiles"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Research": [
-      "Justin Chang"
-    ],
     "Additional Editor": [
       "Laura Steinhoff"
+    ],
+    "Animated Stills": [
+      "Adam Goodwin"
+    ],
+    "Animation": [
+      "Randall Rickert"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -44,14 +29,11 @@
       "Alexander Rubinow",
       "Jeremy Segal"
     ],
+    "Associate Producer": [
+      "Kaylan Eggert"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "James Orbison"
-    ],
-    "Production Assistant": [
-      "Eugene F. O'Neill"
     ],
     "Camera": [
       "Lon Magdich",
@@ -59,67 +41,85 @@
       "Robert Shenise",
       "Ron Zimmerman"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Katie Del Core"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Editor": [
+      "Sean Dash"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Executive Producers": [
+      "Beth Dietrich-Segarra",
+      "Michael Stiller"
+    ],
     "Field Audio": [
       "Matt Bowman",
       "Dennis Hamlin",
       "Joe Maniscalco",
       "Michael Whelan"
     ],
+    "Historical Consultant": [
+      "Daniel Frankl, PhD"
+    ],
+    "Music": [
+      "Alan Ett Music Group"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Sound Mixer": [
-      "Mark Jensen"
+    "Post Assist": [
+      "James Orbison"
     ],
-    "Animation": [
-      "Randall Rickert"
+    "Post Coordinator": [
+      "Terrence Hartwell"
     ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Post Producer": [
+      "Tim Knauff"
     ],
-    "Historical Consultant": [
-      "Daniel Frankl, PhD"
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Eugene F. O'Neill"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
     ],
     "Programming Coordinators": [
       "Adam Rosante",
       "Michele Wilcox"
     ],
-    "Executive Producers": [
-      "Beth Dietrich-Segarra",
-      "Michael Stiller"
+    "Research": [
+      "Justin Chang"
     ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Sound Mixer": [
+      "Mark Jensen"
     ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Sean Dash"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Associate Producer": [
-      "Kaylan Eggert"
-    ],
-    "Editor": [
-      "Sean Dash"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Music": [
-      "Alan Ett Music Group"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created By": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
     ]
   }
 }

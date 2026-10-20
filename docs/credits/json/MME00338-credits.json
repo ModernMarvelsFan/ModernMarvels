@@ -13,100 +13,97 @@
     "Max Raphael"
   ],
   "crew": {
-    "PRODUCTION AUDITOR": [
-      "Dani Eslin"
+    "Animation By": [
+      "Victor Bornia"
     ],
-    "PRODUCTION COORDINATOR": [
-      "James Wiser"
-    ],
-    "ASSISTANT ACCOUNTANT": [
+    "Assistant Accountant": [
       "Dennis Luciani"
     ],
-    "CLEARANCE COORDINATOR": [
-      "Susan Wichmann"
-    ],
-    "ASSISTANT EDITORS": [
+    "Assistant Editors": [
       "Julio C. Perez IV",
       "Eric Sievering"
     ],
-    "POST COORDINATOR": [
-      "Danny Kim"
-    ],
-    "POST ASSISTANT": [
-      "Laura Steinhoff"
-    ],
-    "VOICE OVER COORDINATOR": [
-      "Melanie Pipes"
-    ],
-    "PRODUCTION ASSISTANT": [
-      "Rosalyn McVay"
-    ],
-    "CAMERA": [
+    "Camera": [
       "John Davis",
       "Chas Isenhart",
       "Peter Krajewski",
       "Tom Pakulski",
       "Nathan Smith"
     ],
-    "FIELD AUDIO": [
+    "Clearance Coordinator": [
+      "Susan Wichmann"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Anthony Lacques"
+    ],
+    "Edited By": [
+      "Pamela Malouf"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
+    "Field Audio": [
       "Gregg Hinnen",
       "Jeff McGall",
       "Dino Quaglietta",
       "Ramsey Tripp"
     ],
-    "ONLINE EDITOR": [
-      "Doug Nolan"
-    ],
-    "SOUND MIXER": [
-      "Paul Ray"
-    ],
-    "ANIMATION BY": [
-      "Victor Bornia"
-    ],
-    "HISTORICAL CONSULTANTS": [
+    "Historical Consultants": [
       "Capt. Rick Hepburn, U.S. Navy (Ret), P.E.",
       "Nathan R. Lipfert",
       "John Tuttle",
       "Thomas R. Wilcox, Jr."
     ],
-    "FOR THE HISTORY CHANNEL / EXECUTIVE PRODUCER": [
-      "Beth Dietrich-Segarra"
-    ],
-    "EXECUTIVE PRODUCER": [
-      "Don Cambou"
-    ],
-    "WRITTEN AND PRODUCED BY": [
-      "Robert E. Ziel"
-    ],
-    "LINE PRODUCER": [
+    "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "EDITED BY": [
-      "Pamela Malouf"
-    ],
-    "NARRATED BY": [
-      "Max Raphael"
-    ],
-    "MUSIC BY": [
+    "Music By": [
       "Alan Ett Music Group"
     ],
-    "PRODUCER": [
-      "Bruce Nash"
+    "Narrated By": [
+      "Max Raphael"
     ],
-    "CREATED BY": [
-      "Bruce Nash"
+    "Online Editor": [
+      "Doug Nolan"
     ],
-    "PRODUCTION MANAGER": [
-      "Shelia Collins"
+    "Post Assistant": [
+      "Laura Steinhoff"
     ],
-    "POST PRODUCTION MANAGER": [
+    "Post Coordinator": [
+      "Danny Kim"
+    ],
+    "Post Production Manager": [
       "Gary Reid"
     ],
-    "CLEARANCE SUPERVISOR": [
-      "Katie Del Core"
+    "Producer": [
+      "Bruce Nash"
     ],
-    "DIRECTOR OF RESEARCH": [
-      "Anthony Lacques"
+    "Production Assistant": [
+      "Rosalyn McVay"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "James Wiser"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Melanie Pipes"
+    ],
+    "Written And Produced By": [
+      "Robert E. Ziel"
     ]
   }
 }

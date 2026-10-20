@@ -7,18 +7,18 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Hearst Entertainment, THE HISTORY CHANNEL, ACTUALITY Productions, Inc.
+* **Production Company:** Hearst Entertainment, The History Channel, ACTUALITY Productions, Inc.
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | DOUG WHITNEY |
-| **Executive Producer** | CHARLIE MADAY |
-| **Production Assistant** | ERIC SCHAEFER |
-| **Production Secretary** | KATHY EXNER |
-| **Supervising Producer** | BETH DIETRICH |
+| **Animation** | Doug Whitney |
+| **Executive Producer** | Charlie Maday |
+| **Production Assistant** | Eric Schaefer |
+| **Production Secretary** | Kathy Exner |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00167.md)

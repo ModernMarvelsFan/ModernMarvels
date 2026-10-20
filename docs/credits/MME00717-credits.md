@@ -8,31 +8,31 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2014 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** A+E Networks
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | GABRIEL BARBARO, MEE JO KIM, MARTIN McGLOIN |
-| **Associate Producers** | DANIEL SCHNUR, ROBIN J. FORMAN |
-| **Broadcast Designer** | KEVIN SANCHEZ |
-| **Created By** | BRUCE NASH |
-| **Director, Production Services** | PAT PERROTA SASSI |
-| **Editor** | DAVID M. FRIEDMAN |
-| **Executive Producer** | JOHN VERHOFF |
-| **Graphics Manager** | JESSICA MILLER |
-| **Line Producer** | MELISSA ROY |
-| **Music** | EXTREME |
-| **Narrator** | MAX RAPHAEL |
-| **Post-Production Scheduling** | GREG STADNIK |
-| **Producer** | KENT KITZMAN |
-| **Programming Coordinator** | FATIME KABA |
-| **Rights and Clearances** | CHRISTOPHER WIRSING, STEPHEN G. BRANDT |
-| **Sound Design &amp; Mix** | RUFUS FORD |
-| **Supervising Producer** | RON NELSON |
-| **VP, Production Operations** | ED RUSSO |
-| **Writer** | RON NELSON |
+| **Assistant Editors** | Gabriel Barbaro, Mee Jo Kim, MARTIN McGLOIN |
+| **Associate Producers** | Daniel Schnur, Robin J. Forman |
+| **Broadcast Designer** | Kevin Sanchez |
+| **Created By** | Bruce Nash |
+| **Director, Production Services** | Pat Perrota Sassi |
+| **Editor** | David M. Friedman |
+| **Executive Producer** | John Verhoff |
+| **Graphics Manager** | Jessica Miller |
+| **Line Producer** | Melissa Roy |
+| **Music** | Extreme |
+| **Narrator** | Max Raphael |
+| **Post-Production Scheduling** | Greg Stadnik |
+| **Producer** | Kent Kitzman |
+| **Programming Coordinator** | Fatime Kaba |
+| **Rights And Clearances** | Christopher Wirsing, Stephen G. Brandt |
+| **Sound Design &amp; Mix** | Rufus Ford |
+| **Supervising Producer** | Ron Nelson |
+| **Vp, Production Operations** | Ed Russo |
+| **Writer** | Ron Nelson |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00717.md)

@@ -11,27 +11,21 @@
     "Max Raphael"
   ],
   "crew": {
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Coordinator": [
-      "Maya Sykes"
+    "Animated Stills": [
+      "Adam Goodwin"
+    ],
+    "Animation": [
+      "i.e. effects"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Patrick Cashman"
+    ],
+    "Associate Producer": [
+      "Liza Douglass"
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
@@ -44,6 +38,27 @@
       "Robert Shenise",
       "Eric Thornton"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Robert Lattanzio"
+    ],
+    "Executive Producer": [
+      "John Verhoff"
+    ],
     "Field Audio": [
       "Dan Cook",
       "Bill Dillon",
@@ -52,66 +67,48 @@
       "Frank Perez",
       "Rob Sumner"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation": [
-      "i.e. effects"
-    ],
-    "Sound Mixer": [
-      "Mark Jensen"
-    ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Programming Coordinator": [
+      "Adam Rosante"
     ],
     "Historical Consultants": [
       "Jeffrey Forgeng, PhD",
       "Steve Watts"
     ],
-    "Produced by": [
-      "Actuality Productions, Inc."
-    ],
-    "For History / Programming Coordinator": [
-      "Adam Rosante"
-    ],
-    "For History / Executive Producer": [
-      "John Verhoff"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Steve Durgin"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Liza Douglass"
+    "Music": [
+      "Alan Ett Music Group"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Editor": [
-      "Robert Lattanzio"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music": [
-      "Alan Ett Music Group"
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc."
     ],
     "Producer": [
       "Bruce Nash"
     ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
     "Production Manager": [
       "Shelia Collins"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Sound Mixer": [
+      "Mark Jensen"
     ],
-    "Post Producer": [
-      "Tim Knauff"
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "Steve Durgin"
     ]
   }
 }

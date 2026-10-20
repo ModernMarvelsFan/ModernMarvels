@@ -22,9 +22,9 @@
 | **Camera** | Aron Brown, Tomas Hejda, John Kabasakalis, Lon Magdich, Mark Matusiak, Terry Pratt, Stan Taylor, Joe Vasquez |
 | **Clearance Coordinator** | Kiana Moore |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Andre Vaillancourt |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Jaime Z. Cervantes, Dan Cook, Doug Donald, Michael Durski, Alan Halcon, David Mendez, Charles Rohr, James W. Siler, III, Greg Stidham, Marty Zimmerman |
@@ -41,7 +41,7 @@
 | **Researcher** | Rick George |
 | **Sound Mixer** | Paul Ray |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Beata Ziel |
+| **Written And Produced By** | Beata Ziel |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00649.md)

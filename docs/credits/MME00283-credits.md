@@ -19,13 +19,13 @@
 | **Assistant Production Accountants** | Linda Scribner, Dennis Luciani |
 | **Camera** | David Baumber, Mark Kochis, George Odell, Jesse Phinney, Doug Snowden |
 | **Clearance Supervisor** | Katie Del Core |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Hildie Katibah |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Hildie Katibah |
+| **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Stephen Gmeiner, Tommy Lee, Tom Sykes, David S. Wason |
 | **Footage Consultant** | Ted Troll |
-| **For The History Channel / Executive Producer** | Beth Dietrich-Segarra |
 | **Historical Consultant** | Parks Stephenson |
-| **Music by** | Guy Thomas |
+| **Music By** | Guy Thomas |
 | **Online Editor** | Arthur Klein |
 | **Post Production Assistant** | Laura Steinhoff |
 | **Post Production Coordinator** | Danny Kim |
@@ -34,8 +34,8 @@
 | **Production Auditor** | Dani Eslin |
 | **Production Coordinator** | James Wiser |
 | **Production Manager** | Kathlene Exner |
-| **Researcher/Voice Over Coordinator** | Beata Genin |
 | **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Beata Genin |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00283.md)

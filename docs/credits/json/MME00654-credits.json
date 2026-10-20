@@ -11,27 +11,21 @@
     "Max Raphael"
   ],
   "crew": {
-    "Production Accountant": [
-      "Sheridan Liu"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Coordinator": [
-      "Maya Sykes"
-    ],
-    "Clearance Coordinator": [
-      "Kiana Moore"
-    ],
-    "Researcher": [
-      "Sapna Chhabra"
+    "Animation": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Nate Dusek"
     ],
+    "Associate Producer": [
+      "Sapna Chhabra"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Cory Parker"
     ],
     "Camera": [
       "Allen Dewey",
@@ -42,6 +36,27 @@
       "Adam Walderman",
       "Diana Wilmer"
     ],
+    "Clearance Coordinator": [
+      "Kiana Moore"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Gary Reid"
+    ],
+    "Executive Producer": [
+      "John Verhoff"
+    ],
     "Field Audio": [
       "Scott Benesi",
       "Aaron Cohen",
@@ -51,68 +66,50 @@
       "Mark Solomon",
       "Eric Soma"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation": [
-      "Victor Bornia"
-    ],
-    "Sound Mixer": [
-      "Michael Keeley"
-    ],
-    "Animated Stills": [
-      "Adam Goodwin"
-    ],
-    "For History / Programming Coordinator": [
+    "Programming Coordinator": [
       "Adam Rosante"
-    ],
-    "For History / Executive Producer": [
-      "John Verhoff"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Kaylan Eggert"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Sapna Chhabra"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Editor": [
-      "Gary Reid"
     ],
     "Music": [
       "Guy Thomas"
     ],
-    "Producer": [
-      "Bruce Nash"
+    "Narrator": [
+      "Max Raphael"
     ],
-    "Production Manager": [
-      "Shelia Collins"
+    "Online Editor": [
+      "John Price"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Post Assist": [
+      "Cory Parker"
     ],
     "Post Producer": [
       "Tim Knauff"
     ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Sheridan Liu"
     ],
     "Production Controller": [
       "Dani Eslin"
     ],
-    "Director of Research": [
-      "Terrence Hartwell"
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Sapna Chhabra"
+    ],
+    "Sound Mixer": [
+      "Michael Keeley"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "Kaylan Eggert"
     ]
   }
 }

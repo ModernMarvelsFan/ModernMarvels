@@ -14,9 +14,9 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | HOLLY A. MURDOCH |
-| **Edited By** | JACK FOSTER |
-| **Written and Produced by** | NOAH MOROWITZ |
+| **Associate Producer** | Holly A. Murdoch |
+| **Edited By** | Jack Foster |
+| **Written And Produced By** | Noah Morowitz |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00103.md)

@@ -14,20 +14,20 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation by** | Glenn Takakjian |
+| **Animation By** | Glenn Takakjian |
 | **Assistant Accountants** | Sheridan Liu, Dennis Luciani |
 | **Associate Producer** | Beata Genin |
 | **Camera** | Jay Kuntz, Lon Magdich, Mark Moore, Mike Ogletree |
 | **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | Rosalyn McVay |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Anthony Lacques |
-| **Edited by** | Arek Hope |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Arek Hope |
 | **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
 | **Field Audio** | Mike Lewis, Stephen A. Montet, Matt Rissmiller |
 | **Historical Consultants** | Harlan Glenn |
 | **Music By** | Alan Ett Music Group |
-| **Narrated by** | Max Raphael |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assistant** | Alexander Rubinow |
 | **Post Coordinator** | Laura Steinhoff |
@@ -39,7 +39,7 @@
 | **Researchers** | Mikki Del Monico, Paul Lacques |
 | **Sound Mixer** | Paul Ray |
 | **Voice Over Coordinator** | Mikki Del Monico |
-| **Written and Produced by** | Richard Jones |
+| **Written And Produced By** | Richard Jones |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00376.md)

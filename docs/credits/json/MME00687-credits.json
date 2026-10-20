@@ -10,8 +10,21 @@
     "Max Raphael"
   ],
   "crew": {
-    "Edited By": [
-      "Lou LaProcido"
+    "Assistant Editors": [
+      "Eric Bardo",
+      "John Kennedy",
+      "Vankhoa \"Mike\" Le",
+      "Sarah Longnecker",
+      "Niles Maddox",
+      "Stephen Vaughn"
+    ],
+    "Associate Producers": [
+      "Mary Courtney",
+      "Robert Wear"
+    ],
+    "Audio Mix": [
+      "Jim Rogers",
+      "Dylen Terflinger"
     ],
     "Camera": [
       "Eric Bugash",
@@ -21,30 +34,24 @@
       "Christopher Mitchell",
       "Rob West"
     ],
-    "Narrator": [
-      "Max Raphael"
+    "Co-Executive Producer": [
+      "Robert Twilley"
     ],
-    "Music": [
-      "Legativity"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Audio Mix": [
-      "Jim Rogers",
-      "Dylen Terflinger"
+    "Edited By": [
+      "Lou LaProcido"
     ],
-    "Post Supervisor": [
-      "Dana Merwin"
+    "Executive Producer": [
+      "Stephen Land"
     ],
-    "Online Editors": [
-      "Scott Lee",
-      "Philip Tatler IV"
+    "Field Producer": [
+      "Randall Shuptrine"
     ],
-    "Assistant Editors": [
-      "Eric Bardo",
-      "John Kennedy",
-      "Vankhoa \"Mike\" Le",
-      "Sarah Longnecker",
-      "Niles Maddox",
-      "Stephen Vaughn"
+    "Graphics": [
+      "Elevation",
+      "Adam Goodwin"
     ],
     "Location Sound": [
       "Todd Burger",
@@ -55,16 +62,25 @@
       "Brian Kaurich",
       "Heather Mitchell"
     ],
-    "Graphics": [
-      "Elevation",
-      "Adam Goodwin"
+    "Music": [
+      "Legativity"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Online Editors": [
+      "Scott Lee",
+      "Philip Tatler IV"
     ],
     "Post Prep": [
       "Jamison Stalsworth",
       "Dylan Harris"
     ],
-    "Production Manager": [
-      "Katie Young"
+    "Post Supervisor": [
+      "Dana Merwin"
+    ],
+    "Producer": [
+      "Jim Lindsay"
     ],
     "Production Assistance": [
       "Michelle Weiss",
@@ -72,28 +88,12 @@
       "Laura \"G\" Ferguson",
       "Tamara Perry"
     ],
-    "Created By": [
-      "Bruce Nash"
-    ],
-    "Executive Producer": [
-      "Stephen Land"
-    ],
-    "Co-Executive Producer": [
-      "Robert Twilley"
+    "Production Manager": [
+      "Katie Young"
     ],
     "Supervising Producer": [
       "Ron Nelson",
       "Sharon Martin"
-    ],
-    "Producer": [
-      "Jim Lindsay"
-    ],
-    "Field Producer": [
-      "Randall Shuptrine"
-    ],
-    "Associate Producers": [
-      "Mary Courtney",
-      "Robert Wear"
     ]
   }
 }

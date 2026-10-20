@@ -17,21 +17,21 @@
 | **Assistant Editor** | Joey Barasch |
 | **Camera** | Greg Bader, Alfred Shapiro, Eric Marquis, Scott Farquharson, Mike Braden, Ned Miller, Jeff Taylor |
 | **Clearance Supervisor** | Valarie Sheldon |
+| **Executive In Charge Of Production** | Ann J. Hackett |
+| **Executive Producer** | Charlie Maday |
 | **Executive Producers** | Robert Kirk, Rob Lihani |
-| **Executive in Charge of Production** | Ann J. Hackett |
 | **Field Audio** | James Baker, Phil Brown, Denny Harris, Christine Black, Sam Diamond, Pat Holloway, Greg Quedens, Paul Wustrack |
-| **For The History Channel / Executive Producer** | Charlie Maday |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Harlan Saperstein |
 | **Online Editor** | Steve Pomerantz |
 | **Original Music** | Concealed with Love |
 | **Post Production Audio** | Media City Sound |
-| **Produced and Directed by** | Tom Jennings |
+| **Produced And Directed By** | Tom Jennings |
 | **Production Accountant** | Donna Amato |
 | **Production Associates** | Keith Guinto, Keith Reiner |
 | **Production Services** | Documentary Broadcasting Company, Inc. |
 | **Re-Recording Mixer** | Marcus Pardo |
-| **Recorded at** | EHB Productions |
+| **Recorded At** | EHB Productions |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00212.md)

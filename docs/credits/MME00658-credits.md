@@ -21,14 +21,12 @@
 | **Camera** | Christopher Bell, Dan Lantz, Aron Brown, Andy Lawless, Wolfgang Isenhart, John Kabasakalis, Tom Pakulski, Stan Taylor, Zvonimir "Z" Vidusin |
 | **Clearance Coordinator** | Kiana Moore |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Lou LaProcido |
-| **Executive Producer** | Don Cambou |
+| **Executive Producer** | John Verhoff |
 | **Field Audio** | Chad Bryant, Brandon Hull, Mike Harvey, Phil Sirois, Gary Heiman, Mark Solomon, Spenser Hoyt, Marty Zimmerman |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Adam Rosante |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
@@ -39,10 +37,11 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Researcher** | Joshua Janiak |
 | **Sound Mixer** | Nozomu Furuya-Hirota |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Philip Kruener |
+| **Written And Produced By** | Philip Kruener |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00658.md)

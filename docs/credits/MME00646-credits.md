@@ -20,9 +20,9 @@
 | **Camera** | David Cosby, James Ewing, Scott Jolley, Dan Lantz, Lon Magdich, R. Kelley Marchal, David Pierro, Tim Snider |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Paul Freedman |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Matt Bowman, Joe McCartan, Sam Platt, Charles Rohr, Adrian Sam, Ian Vacek |
@@ -37,7 +37,7 @@
 | **Production Manager** | Shelia Collins |
 | **Researcher** | Joshua Janiak |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Greg DeHart |
+| **Written And Produced By** | Greg DeHart |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00646.md)

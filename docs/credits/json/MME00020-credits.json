@@ -4,131 +4,128 @@
   "year": "1995",
   "copyright": "© 2006, 1995 A&E Television Networks All Rights Reserved",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions",
-    "FLYINGBLUE STUDIO",
-    "ALAN ETT MUSIC GROUP",
+    "Flyingblue Studio",
+    "Alan Ett Music Group",
     "A&E Television Networks"
   ],
   "narrators": [
-    "MAX RAPHAEL",
-    "JOHN KNAPP"
+    "Max Raphael",
+    "John Knapp"
   ],
   "crew": {
-    "Modern Marvels / Silver Mines / Associate Producer": [
-      "JETHRO NEDEDOG"
-    ],
-    "Modern Marvels / Silver Mines / Edited by": [
-      "IAN HUTCHINSON"
-    ],
-    "Modern Marvels / Silver Mines / Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Modern Marvels / Silver Mines / Music by": [
-      "ALAN ETT MUSIC GROUP"
-    ],
-    "Modern Marvels / Silver Mines / Producer": [
-      "BRUCE NASH"
-    ],
-    "Modern Marvels / Silver Mines / Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "TIM KNAUFF"
-    ],
-    "Director of Rights and Clearances": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ALLISON BOON"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
     "Accountant": [
-      "DIANA STOLPE"
+      "Diana Stolpe"
     ],
-    "Coordinators": [
-      "BONI OSMANI",
-      "BRAD SKILES"
+    "Animated Photos By": [
+      "Adam Goodwin"
     ],
-    "Researchers": [
-      "ULDIS BALODIS",
-      "BRADLEY COMBEST",
-      "JOHN KNAPP"
-    ],
-    "Clearance Coordinators": [
-      "LAWRENCE GIVENS III",
-      "AARON ZOBER"
-    ],
-    "Post Coordinator": [
-      "TERRENCE HARTWELL"
-    ],
-    "Voice Over Coordinator": [
-      "JOHN KNAPP"
+    "Animation By": [
+      "Flyingblue Studio"
     ],
     "Assistant Editors": [
-      "LAURA STEINHOFF",
-      "JOSH BECKHAM",
-      "ALEXANDER RUBINOW"
+      "Laura Steinhoff",
+      "Josh Beckham",
+      "Alexander Rubinow"
     ],
     "Assistant Post Coordinator": [
-      "JEREMIAH DOCKRAY"
-    ],
-    "Post Assistants": [
-      "ROB HARRINGTON",
-      "GAYLEN KOBAYASHI"
+      "Jeremiah Dockray"
     ],
     "Camera": [
-      "JIM BOLSER",
-      "JON GAY"
+      "Jim Bolser",
+      "Jon Gay"
+    ],
+    "Clearance Coordinators": [
+      "Lawrence Givens III",
+      "Aaron Zober"
+    ],
+    "Coordinators": [
+      "Boni Osmani",
+      "Brad Skiles"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Director Of Rights And Clearances": [
+      "Katie Del Core"
     ],
     "Field Audio": [
-      "BRENT BOYNTON",
-      "ROBIN BRILEY",
-      "JOE ZUCCARINI"
-    ],
-    "Online Editor": [
-      "JOHN PRICE"
-    ],
-    "Sound Mixer": [
-      "ED THACKER"
-    ],
-    "Animation by": [
-      "FLYINGBLUE STUDIO"
-    ],
-    "Animated Photos by": [
-      "ADAM GOODWIN"
+      "Brent Boynton",
+      "Robin Briley",
+      "Joe Zuccarini"
     ],
     "Footage Consultant": [
-      "TED TROLL"
+      "Ted Troll"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Programming Coordinator": [
+      "Michele Wilcox"
     ],
     "Historical Consultant": [
-      "RUSS FIELDS"
+      "Russ Fields"
     ],
-    "Produced by": [
-      "ACTUALITY PRODUCTIONS, INC."
+    "Associate Producer": [
+      "Jethro Nededog"
     ],
-    "For The History Channel / Programming Coordinator": [
-      "MICHELE WILCOX"
+    "Consulting Producer": [
+      "Ron Nelson"
     ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Modern Marvels / Silver Mines / Executive Producer": [
-      "DON CAMBOU"
+    "Edited By": [
+      "Ian Hutchinson"
     ],
-    "Modern Marvels / Silver Mines / Written and Produced by": [
-      "DAVID RAJTER"
+    "Line Producer": [
+      "Paul Dzilvelis"
     ],
-    "Modern Marvels / Silver Mines / Line Producer": [
-      "PAUL DZILVELIS"
+    "Music By": [
+      "Alan Ett Music Group"
     ],
-    "Modern Marvels / Silver Mines / Consulting Producer": [
-      "RON NELSON"
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Written And Produced By": [
+      "David Rajter"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistants": [
+      "Rob Harrington",
+      "Gaylen Kobayashi"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc."
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Uldis Balodis",
+      "Bradley Combest",
+      "John Knapp"
+    ],
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
     ]
   }
 }

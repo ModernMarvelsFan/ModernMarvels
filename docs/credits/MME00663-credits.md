@@ -21,8 +21,8 @@
 | **Associate Producer** | Jeni Rohlin |
 | **Camera** | Christopher A. Bell, Troy Blome, Robert Brunk, Jeff M. Hatfield, Lon Magdich, Dave Pierro, Michael Shamus, Robert W. Shenise, Zvonimir "Z" Vidusin |
 | **Coordinator** | Gregory Zide |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
 | **Editor** | Alexander Rubinow |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Chad Bryant, Douglas J. Burton, Dan Cook, Tim Fuller, Andre Logan, Thomas Moore, Ken Petrosky, Ian Vacek, Michael Whelan |
@@ -39,7 +39,7 @@
 | **Research** | Rick George |
 | **Sound Mixer** | Nozomu Furuya-Hirota |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Kaylan Eggert |
+| **Written And Produced By** | Kaylan Eggert |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00663.md)

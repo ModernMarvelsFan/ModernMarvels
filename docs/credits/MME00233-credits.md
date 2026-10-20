@@ -20,15 +20,15 @@
 | **Associate Producer** | Ryan W. Senter |
 | **Camera** | Peter Krajewski, Mark Morris |
 | **Clearance Assistant** | Gabe Martinez |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Hildie Katibah |
-| **Edited by** | Andre Vaillancourt |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Hildie Katibah |
+| **Edited By** | Andre Vaillancourt |
 | **Executive Producer** | Don Cambou |
 | **Footage Consultant** | Ted Troll |
 | **Graphics** | Barry Hill |
 | **Historical Consultant** | Chris Dorsey |
 | **Line Producer** | Paul Dzilvelis |
-| **Narrated by** | Max Raphael |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | David Rex |
 | **Post Production Assistant** | Montgomery Jesselton Kingsley |
 | **Post Production Coordinator** | Gary Reid |
@@ -37,7 +37,7 @@
 | **Production Coordinator** | Michael Z. Davis |
 | **Researcher** | Diane Wan |
 | **Sound Mixer** | Paul Ray |
-| **Written and Produced by** | Adrian Maher |
+| **Written And Produced By** | Adrian Maher |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00233.md)

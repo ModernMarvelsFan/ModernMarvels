@@ -1,4 +1,4 @@
-# Credit Roll: Convenience Stores (2012)
+# Credit Roll: Convenience Stores (2011)
 **Canonical Episode:** [`MME00702: Convenience Stores`](../episodes/MME00702.md)
 
 **Downloads:** [Credits JSON](json/MME00702-credits.json) • [Credits Plain Text](txt/MME00702-credits.txt)
@@ -7,38 +7,37 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2011 A&E TELEVISION NETWORKS. ALL RIGHTS RESERVED`
-* **Production Company:** Half Yard Productions, PERCOLATE DIGITAL
-* **Narrator:** MAX RAPHAEL
+* **Production Company:** Half Yard Productions, Percolate Digital
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **3D Animation by** | PERCOLATE DIGITAL |
-| **Additional Graphics** | JOHN KERR |
-| **Assistant Editor** | MIKE BAUTISTA |
-| **Associate Producers** | JENNIFER ABBOTS, SARAH KATZ, HANNAH RICHARDSON, AMBER SEYLER |
-| **Edited by** | DAVID CANADY, JAMIE PICKELL |
-| **Executive Producers** | SEAN GALLAGHER, ABBY GREENSFELDER |
-| **Field Producers** | LAURA CASEY, ANASTASIA CRONIN, KENDRA GAHAGAN, MARK YOUNG |
-| **For A&amp;E Television Network / Programming Coordinator** | DIVYA CHUNGI |
-| **For A&amp;E Television Network / Senior Producer** | CARTER FIGUEROA |
-| **Head of Production** | JANICE MEZZETTI |
-| **Junior Editors** | NADIA IZAKSON, GUILLERMO MACO, WANAKHAVI WAKHISI |
-| **Narrator** | MAX RAPHAEL |
-| **Online Editor/Colorist** | MATT DOE |
-| **Post Production Coordinator** | BEN SHUSTER |
-| **Post Production Manager** | CAMERON YOUNG |
-| **Production Assistant** | REX HARSIN |
-| **Production Manager** | JENNIFER PARTIN |
-| **Researcher** | ZOE COUACAUD |
-| **Senior Producer** | CHRIS SONDREAL |
-| **Series Producer** | ANN CARROLL |
-| **Sound** | MATT ENGEL, SEAN FAUST, BRIAN GARFIELD, MARK MARIACA, ALEX MARSHALL, PETE NENORTAS, NICK POHOLCHUK |
-| **Sound Design &amp; Mix** | RICHARD HUMPHRIES |
-| **Sound Editors** | MIKE ESTLER, NICHOLAS KARLIN |
-| **Vice President of Finance** | ROSSANA O'HOP |
-| **Written and Produced by** | NATHAN ANTILA |
+| **3D Animation By** | Percolate Digital |
+| **Additional Graphics** | John Kerr |
+| **Assistant Editor** | Mike Bautista |
+| **Associate Producers** | Jennifer Abbots, Sarah Katz, Hannah Richardson, Amber Seyler |
+| **Colorist** | Matt Doe |
+| **Edited By** | David Canady, Jamie Pickell |
+| **Executive Producers** | Sean Gallagher, Abby Greensfelder |
+| **Field Producers** | Laura Casey, Anastasia Cronin, Kendra Gahagan, Mark Young |
+| **Head Of Production** | Janice Mezzetti |
+| **Junior Editors** | Nadia Izakson, Guillermo Maco, Wanakhavi Wakhisi |
+| **Narrator** | Max Raphael |
+| **Post Production Coordinator** | Ben Shuster |
+| **Post Production Manager** | Cameron Young |
+| **Production Assistant** | Rex Harsin |
+| **Production Manager** | Jennifer Partin |
+| **Programming Coordinator** | Divya Chungi |
+| **Researcher** | Zoe Couacaud |
+| **Senior Producer** | Chris Sondreal |
+| **Series Producer** | Ann Carroll |
+| **Sound** | Matt Engel, Sean Faust, Brian Garfield, Mark Mariaca, Alex Marshall, Pete Nenortas, Nick Poholchuk |
+| **Sound Design &amp; Mix** | Richard Humphries |
+| **Sound Editors** | Mike Estler, Nicholas Karlin |
+| **Vice President Of Finance** | Rossana O'Hop |
+| **Written And Produced By** | Nathan Antila |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00702.md)

@@ -10,24 +10,6 @@
   ],
   "narrators": [],
   "crew": {
-    "Supervising Producer": [
-      "Beth Dietrich"
-    ],
-    "Executive Producer": [
-      "Charlie Maday"
-    ],
-    "Audio Coordinator": [
-      "Derrick McDaniel"
-    ],
-    "Online Editor": [
-      "David Rex"
-    ],
-    "Sound Mixer": [
-      "Sam Kaufmann"
-    ],
-    "Production Auditor": [
-      "Dani Eslin"
-    ],
     "Assistant Production Accountants": [
       "Linda Scribner",
       "Judi Minitello"
@@ -35,17 +17,35 @@
     "Assistant To Don Cambou": [
       "Tim Shell"
     ],
-    "Production Secretary": [
-      "Kathy Exner"
+    "Audio Coordinator": [
+      "Derrick McDaniel"
     ],
-    "Production Assistant": [
-      "Eric Schaefer"
+    "Executive Producer": [
+      "Charlie Maday"
     ],
     "Footage Consultant": [
       "Ted Troll"
     ],
-    "Graphics & Animation": [
+    "Graphics &amp; Animation": [
       "Doug Whitney"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Production Assistant": [
+      "Eric Schaefer"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Secretary": [
+      "Kathy Exner"
+    ],
+    "Sound Mixer": [
+      "Sam Kaufmann"
+    ],
+    "Supervising Producer": [
+      "Beth Dietrich"
     ]
   }
 }

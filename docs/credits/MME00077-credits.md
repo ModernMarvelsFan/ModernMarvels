@@ -7,19 +7,19 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1998 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, THE HISTORY CHANNEL
+* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, The History Channel
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | ROBERT ZIEL |
-| **Created by** | BRUCE NASH |
-| **Edited by** | JACK FOSTER |
-| **Producer** | BRUCE NASH |
-| **Supervising Producer** | DON CAMBOU |
-| **Written and Produced by** | KAREN SHEARER |
+| **Associate Producer** | Robert Ziel |
+| **Created By** | Bruce Nash |
+| **Edited By** | Jack Foster |
+| **Producer** | Bruce Nash |
+| **Supervising Producer** | Don Cambou |
+| **Written And Produced By** | Karen Shearer |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00077.md)

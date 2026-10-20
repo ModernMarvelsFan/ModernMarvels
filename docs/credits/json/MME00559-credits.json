@@ -6,17 +6,8 @@
   "studios": [],
   "narrators": [],
   "crew": {
-    "Director of Research": [
-      "Allison Boon"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Coordinator": [
-      "Brad Skiles"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
+    "Animated Photos &amp; Stills By": [
+      "Adam Goodwin"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -26,6 +17,9 @@
     "Assistant Post Coordinator": [
       "Gaylen Kobayashi"
     ],
+    "Associate Producer": [
+      "James Joyce"
+    ],
     "Camera": [
       "Joe Di Gennaro",
       "Paul Dougherty",
@@ -33,6 +27,18 @@
       "Darrah Ribble III",
       "Bob Sandefur",
       "Scott Shelley"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
     ],
     "Field Audio": [
       "Mike Curtiss",
@@ -43,38 +49,29 @@
       "Tom Staton",
       "Jeff West"
     ],
-    "Animated Photos & Stills by": [
-      "Adam Goodwin"
+    "Programming Coordinator": [
+      "Michele Wilcox"
     ],
     "Historical Consultant": [
       "Food Marketing Institute"
     ],
-    "For History / Programming Coordinator": [
-      "Michele Wilcox"
+    "Post Coordinator": [
+      "Terrence Hartwell"
     ],
-    "For History / Executive Producer": [
-      "Beth Dietrich-Segarra"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Associate Producer": [
-      "James Joyce"
+    "Post Producer": [
+      "Tim Knauff"
     ],
     "Producer": [
       "Bruce Nash"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
     ],
     "Production Manager": [
       "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
     ]
   }
 }

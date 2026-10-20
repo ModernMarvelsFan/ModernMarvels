@@ -5,47 +5,47 @@
   "copyright": "© 2002 A&E Television Networks. All Rights Reserved.",
   "studios": [
     "Tera Media",
-    "DEXTER MEDIA",
-    "YAROSLAV STUDIOS"
+    "Dexter Media",
+    "Yaroslav Studios"
   ],
   "narrators": [
-    "MIKE MCNALLY"
+    "Mike McNally"
   ],
   "crew": {
-    "Executive Producer": [
-      "BETH DIETRICH"
-    ],
-    "Executive in Charge of Production": [
-      "CHARLIE MADAY"
-    ],
-    "Produced by": [
-      "Tera Media for The History Channel"
-    ],
-    "Videographers - Russia": [
-      "ANDREI USTINOV",
-      "TOM YAROSCHUK"
-    ],
-    "Videographers - U.S.": [
-      "JOE VASQUEZ",
-      "DOUGLAS JENSEN"
-    ],
     "Audio": [
-      "JOE HANCOCK"
+      "Joe Hancock"
     ],
-    "Sound Design": [
-      "BRIAN DEPAUL CAREY, DEXTER MEDIA"
+    "Executive Producer": [
+      "Beth Dietrich"
     ],
-    "Production Accountant": [
-      "TOM LEPLEY"
+    "Executive In Charge Of Production": [
+      "Charlie Maday"
     ],
     "Narrator": [
-      "MIKE MCNALLY"
+      "Mike McNally"
+    ],
+    "Produced By": [
+      "Tera Media for The History Channel"
+    ],
+    "Production Accountant": [
+      "Tom Lepley"
+    ],
+    "Production Services In Russia Provided By": [
+      "Yaroslav Studios"
+    ],
+    "Sound Design": [
+      "Brian Depaul Carey, Dexter Media"
     ],
     "Translator": [
-      "VIKTORYA KUPERMAN"
+      "Viktorya Kuperman"
     ],
-    "Production Services in Russia Provided by": [
-      "YAROSLAV STUDIOS"
+    "Videographers - Russia": [
+      "Andrei Ustinov",
+      "Tom Yaroschuk"
+    ],
+    "Videographers - U.S.": [
+      "Joe Vasquez",
+      "Douglas Jensen"
     ]
   }
 }

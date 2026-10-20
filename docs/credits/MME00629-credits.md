@@ -22,9 +22,9 @@
 | **Camera** | Gary Brooks, Dan Lantz, Lon Magdich, Jared Manders, Richard Neill, Charles Tudor |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Robert Lattanzio |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Owen Bissell, Charles Rohr, Adrian Sam, Thomas Shafer, Tim Stringfellow |
@@ -41,7 +41,7 @@
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
 | **Technical Consultants** | Carol Bennett-Clarke, PhD, Nickolas Careone, Mark Hankin, PhD, Graham S. Hetrick, FD, BCFE, LifeNet Health, Scott Mason, Dennis E. Morse, PhD, Tom Snyder |
-| **Written and Produced by** | Gloria L. Morris |
+| **Written And Produced By** | Gloria L. Morris |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00629.md)

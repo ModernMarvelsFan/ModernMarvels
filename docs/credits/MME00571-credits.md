@@ -22,13 +22,12 @@
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Brad Skiles |
 | **Created By** | Bruce Nash |
-| **Director of Clearance** | Katie Del Core |
-| **Director of Research** | Allison Boon |
+| **Director Of Clearance** | Katie Del Core |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Motoshi Wakabayashi |
 | **Executive Producer** | Don Cambou |
+| **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Field Audio** | Ryan Bedell, Trey Derbes, Dennis Hamlin, Phillip Harris, Jed Henry, Alex Marshall, Charles Rohr, Troy Wilcox, Paul Wustrack |
-| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **For The History Channel / Programming Coordinators** | Adam Rosante, Michele Wilcox |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | Sarah Steele |
@@ -40,9 +39,10 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinators** | Adam Rosante, Michele Wilcox |
 | **Research** | Lawrence Givens |
 | **Sound Mixer** | Mark Jensen |
-| **Written and Produced by** | W. Scott Goldie |
+| **Written And Produced By** | W. Scott Goldie |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00571.md)

@@ -8,14 +8,14 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** GREG STEBNER
+* **Narrator:** Greg Stebner
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Music** | IAN LYNN |
-| **Narrator** | GREG STEBNER |
+| **Music** | Ian Lynn |
+| **Narrator** | Greg Stebner |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00462.md)

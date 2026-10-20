@@ -10,36 +10,15 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
-    "Coordinator": [
-      "Maya Sykes"
-    ],
     "Accountants": [
       "Sheridan Liu",
       "Diana Stolpe"
+    ],
+    "Animated Stills": [
+      "Adam Goodwin"
+    ],
+    "Animation": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
@@ -56,6 +35,27 @@
       "Pat Drury",
       "Jed Henry"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "Michael Stiller"
+    ],
     "Field Audio": [
       "Leo Lawrence",
       "Sean Madden",
@@ -64,48 +64,45 @@
       "Michael Whelan",
       "Paul Wustrak"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation": [
-      "Victor Bornia"
-    ],
-    "Sound Mixer": [
-      "Erik Valenzuela"
-    ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Programming Coordinator": [
+      "Adam Rosante"
     ],
     "Historical Consultants": [
       "Greg Baumann",
       "Dale Kaukeinen"
-    ],
-    "For History / Programming Coordinator": [
-      "Adam Rosante"
-    ],
-    "For History / Executive Producer": [
-      "Michael Stiller"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Kaylan Eggert"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Editor": [
-      "Lou LaProcido"
     ],
     "Music": [
       "Guy Thomas"
     ],
     "Narrator": [
       "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Sound Mixer": [
+      "Erik Valenzuela"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "Kaylan Eggert"
     ]
   }
 }

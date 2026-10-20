@@ -4,72 +4,72 @@
   "year": "2002",
   "copyright": "© 2002 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC."
+    "Actuality Productions, Inc."
   ],
   "narrators": [
-    "BEATA GENIN"
+    "Beata Genin"
   ],
   "crew": {
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
-    ],
-    "Assistant Production Accountants": [
-      "LINDA SCRIBNER",
-      "DENNIS LUCIANI"
-    ],
-    "Assistant Production Coordinator": [
-      "JAMES WISER"
+    "Animation": [
+      "Victor Bornia"
     ],
     "Archivist": [
-      "NILDA PERGOLA-JENSEN"
-    ],
-    "Clearance Assistant": [
-      "GABE MARTINEZ"
+      "Nilda Pergola-Jensen"
     ],
     "Assistant Editor": [
-      "SCOTT R. MARTIN"
+      "Scott R. Martin"
     ],
-    "Voice Over Coordinator": [
-      "BEATA GENIN"
+    "Assistant Production Accountants": [
+      "Linda Scribner",
+      "Dennis Luciani"
     ],
-    "Post Production Assistants": [
-      "LAURA STEINHOFF",
-      "BENJAMIN THURSTON"
-    ],
-    "Production Assistants": [
-      "SHANA HILTON",
-      "MIKE TAYLOR"
+    "Assistant Production Coordinator": [
+      "James Wiser"
     ],
     "Camera": [
-      "BRANDON GREEN",
-      "GARY HOFFMAN",
-      "MARK MORRIS",
-      "Z VIDUSIN"
+      "Brandon Green",
+      "Gary Hoffman",
+      "Mark Morris",
+      "Z Vidusin"
+    ],
+    "Clearance Assistant": [
+      "Gabe Martinez"
     ],
     "Field Audio": [
-      "DINO QUAGLIETIA"
-    ],
-    "Online Editors": [
-      "ART LUCIANI",
-      "PAUL PIEPER"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Animation": [
-      "VICTOR BORNIA"
-    ],
-    "Graphic Artist": [
-      "BARRY HILL"
-    ],
-    "Historical Consultants": [
-      "DAVID WEIL"
+      "Dino Quaglietia"
     ],
     "Footage Consultant": [
-      "TED TROLL"
+      "Ted Troll"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
+    "Graphic Artist": [
+      "Barry Hill"
+    ],
+    "Historical Consultants": [
+      "David Weil"
+    ],
+    "Online Editors": [
+      "Art Luciani",
+      "Paul Pieper"
+    ],
+    "Post Production Assistants": [
+      "Laura Steinhoff",
+      "Benjamin Thurston"
+    ],
+    "Production Assistants": [
+      "Shana Hilton",
+      "Mike Taylor"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Beata Genin"
     ]
   }
 }

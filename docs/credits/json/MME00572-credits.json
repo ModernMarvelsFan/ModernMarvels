@@ -14,17 +14,17 @@
     "Max Raphael"
   ],
   "crew": {
-    "Post Coordinator": [
-      "Terrence Hartwell"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
+    "Additional Animation": [
+      "Victor Bornia"
     ],
-    "Research": [
-      "Justin Chang"
+    "Animated Stills": [
+      "Adam Goodwin"
+    ],
+    "Animation": [
+      "FlyingBlue Studio"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -32,11 +32,11 @@
       "Alexander Rubinow",
       "Jeremy Segal"
     ],
+    "Associate Producer": [
+      "Gloria L. Morris"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "James Orbison"
     ],
     "Camera": [
       "C. Walker Balance",
@@ -46,6 +46,27 @@
       "Mark Morris",
       "Tom Pakulski",
       "Robert Shenise"
+    ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Katie Del Core"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Editor": [
+      "Motoshi Wakabayashi"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
     ],
     "Field Audio": [
       "Randy Acker",
@@ -57,20 +78,13 @@
       "Kathryn Korniloff",
       "Michael Whelan"
     ],
-    "Animation": [
-      "FlyingBlue Studio"
+    "Executive Producers": [
+      "Beth Dietrich-Segarra",
+      "Michael Stiller"
     ],
-    "Animated Stills": [
-      "Adam Goodwin"
-    ],
-    "Additional Animation": [
-      "Victor Bornia"
-    ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Mark Jensen"
+    "Programming Coordinators": [
+      "Adam Rosante",
+      "Michele Wilcox"
     ],
     "Historical Consultants": [
       "James Delgado",
@@ -78,60 +92,46 @@
       "Freeman Ralph",
       "Frank Zamboni, Jr."
     ],
-    "Produced by": [
-      "Actuality Productions, Inc.",
-      "For History Television Network Productions",
-      "Ron Nelson"
-    ],
-    "For The History Channel / Programming Coordinators": [
-      "Adam Rosante",
-      "Michele Wilcox"
-    ],
-    "For The History Channel / Executive Producers": [
-      "Beth Dietrich-Segarra",
-      "Michael Stiller"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Associate Producer": [
-      "Gloria L. Morris"
+    "Music": [
+      "Alan Ett Music Group"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Editor": [
-      "Motoshi Wakabayashi"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music": [
-      "Alan Ett Music Group"
+    "Post Assist": [
+      "James Orbison"
     ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created By": [
-      "Bruce Nash"
+    "Post Coordinator": [
+      "Terrence Hartwell"
     ],
     "Post Producer": [
       "Tim Knauff"
     ],
-    "Director of Clearance": [
-      "Katie Del Core"
+    "Produced By": [
+      "Actuality Productions, Inc.",
+      "For History Television Network Productions",
+      "Ron Nelson"
+    ],
+    "Producer": [
+      "Bruce Nash"
     ],
     "Production Controller": [
       "Dani Eslin"
     ],
-    "Director of Research": [
-      "Allison Boon"
+    "Production Executive": [
+      "Paul Dzilvelis"
     ],
-    "Coordinator": [
-      "Brad Skiles"
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Research": [
+      "Justin Chang"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
     ]
   }
 }

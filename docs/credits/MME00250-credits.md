@@ -14,22 +14,22 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | EMILY LAU |
-| **Clearance Coordinator** | KATIE DEL CORE |
-| **Clearance Supervisor** | CHARLOTTE CARPENTER |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | BARRY HILL |
-| **Edited by** | JOHN PARSONS |
-| **Executive Producer** | DON CAMBOU |
-| **Footage Consultant** | TED TROLL |
-| **Historical Consultant** | VICTORIA MATRANGA |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT |
-| **Post Producer** | SCOTT BERKSON |
-| **Producer** | BRUCE NASH |
-| **Production Manager** | LINDA K. CLARK |
-| **Researchers** | ANTHONY LACQUES, GLORIA MORRIS |
-| **Written and Produced by** | JOANNE FISH |
+| **Associate Producer** | Emily Lau |
+| **Clearance Coordinator** | Katie Del Core |
+| **Clearance Supervisor** | Charlotte Carpenter |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Barry Hill |
+| **Edited By** | John Parsons |
+| **Executive Producer** | Don Cambou |
+| **Footage Consultant** | Ted Troll |
+| **Historical Consultant** | Victoria Matranga |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett |
+| **Post Producer** | Scott Berkson |
+| **Producer** | Bruce Nash |
+| **Production Manager** | Linda K. Clark |
+| **Researchers** | Anthony Lacques, Gloria Morris |
+| **Written And Produced By** | Joanne Fish |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00250.md)

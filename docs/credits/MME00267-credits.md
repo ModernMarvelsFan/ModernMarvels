@@ -7,24 +7,24 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC.
-* **Narrator:** MAX RAPHAEL
+* **Production Company:** Actuality Productions, Inc.
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | ANSLEY BELL |
-| **Created by** | BRUCE NASH |
-| **Edited by** | SEAN DASH |
-| **Executive Producer** | DON CAMBOU |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music** | ALAN ETT |
-| **Narrator** | MAX RAPHAEL |
-| **Post Production Manager** | GARY REID |
-| **Producer** | BRUCE NASH |
-| **Production Manager** | KATHLENE EXNER |
-| **Written and Produced by** | HENRY SCHIPPER |
+| **Associate Producer** | Ansley Bell |
+| **Created By** | Bruce Nash |
+| **Edited By** | Sean Dash |
+| **Executive Producer** | Don Cambou |
+| **Line Producer** | Paul Dzilvelis |
+| **Music** | Alan Ett |
+| **Narrator** | Max Raphael |
+| **Post Production Manager** | Gary Reid |
+| **Producer** | Bruce Nash |
+| **Production Manager** | Kathlene Exner |
+| **Written And Produced By** | Henry Schipper |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00267.md)

@@ -10,23 +10,39 @@
     "Max Raphael"
   ],
   "crew": {
-    "Clearance Coordinators": [
-      "Lawrence Givens III",
-      "Aaron Zober"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
-    ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
       "Alexander Rubinow"
+    ],
+    "Associate Producer": [
+      "Savas Georgalis"
     ],
     "Camera": [
       "Paul G. Dougherty",
       "Gary Feblowitz",
       "Scot Fure",
       "Michael Houston"
+    ],
+    "Clearance Coordinators": [
+      "Lawrence Givens III",
+      "Aaron Zober"
+    ],
+    "Coordinators": [
+      "Boni Osmani",
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Edited By": [
+      "Robert Lattanzio"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
     ],
     "Field Audio": [
       "Tom Burr",
@@ -36,50 +52,31 @@
       "Tom Staton",
       "Phil Velasco"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Ed Thacker"
-    ],
-    "For History / Executive Producer": [
-      "Beth Dietrich-Segarra"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
     "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "Associate Producer": [
-      "Savas Georgalis"
-    ],
-    "Edited by": [
-      "Robert Lattanzio"
-    ],
-    "Narrated by": [
+    "Narrated By": [
       "Max Raphael"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Online Editor": [
+      "John Price"
     ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Director of Research": [
-      "Allison Boon"
+    "Post Coordinator": [
+      "Terrence Hartwell"
     ],
     "Production Controller": [
       "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
     ],
     "Researchers": [
       "Uldis Balodis",
       "Bradley Combest",
       "John Knapp"
     ],
-    "Coordinators": [
-      "Boni Osmani",
-      "Brad Skiles"
+    "Sound Mixer": [
+      "Ed Thacker"
     ]
   }
 }

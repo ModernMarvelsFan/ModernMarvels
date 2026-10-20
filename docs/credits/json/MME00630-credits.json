@@ -8,63 +8,21 @@
     "Max Raphael"
   ],
   "crew": {
-    "Produced by": [
-      "Glenn Kirschbaum"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Jared Cook"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Editor": [
-      "Mike Andrews"
-    ],
-    "Music": [
-      "Guy Thomas"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Coordinator": [
-      "Maya Sykes"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Researcher": [
-      "Sapna Chhabra"
+    "Animation": [
+      "Glenn Takakjian"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Patrick Cashman"
+    ],
+    "Associate Producer": [
+      "Jared Cook"
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
@@ -81,6 +39,27 @@
       "Robert Shenise",
       "Z Vidusin"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Mike Andrews"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Matt Bowman",
       "Dan Cook",
@@ -93,24 +72,45 @@
       "Thomas Shafer",
       "Mark Soloman"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation": [
-      "Glenn Takakjian"
-    ],
-    "Sound Mixer": [
-      "Mark Jensen"
-    ],
-    "Animated Stills": [
-      "Adam Goodwin"
-    ],
     "Historical Consultants": [
       "Shannon Jackson Arnold",
       "Dr. Bob Roberts"
     ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Music": [
+      "Guy Thomas"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Glenn Kirschbaum"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Sapna Chhabra"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson"
     ]
   }
 }

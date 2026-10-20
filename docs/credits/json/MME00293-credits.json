@@ -6,50 +6,50 @@
   "studios": [
     "Original Productions",
     "Discovery Channel",
-    "ORIGINAL POST",
-    "WOODHOLLY",
-    "GRAPHIC NATURE, LTD."
+    "Original Post",
+    "Woodholly",
+    "Graphic Nature, Ltd."
   ],
   "narrators": [],
   "crew": {
-    "Asst. to Executive Producer": [
-      "ROCHELLE ROBMAN"
+    "Asst. To Executive Producer": [
+      "Rochelle Robman"
     ],
-    "Production Secretary": [
-      "ELLIOT LOEWENSTEIN",
-      "JEFF MOELLER"
+    "Executive Producer": [
+      "Sean Gallagher"
     ],
-    "Production Assistants": [
-      "LIZ RUBIN",
-      "WALTER KLAMMER"
+    "Executive In Charge Of Production": [
+      "Michael Quattrone"
+    ],
+    "Production Assistant": [
+      "W. Kenneth Pryor"
+    ],
+    "Production Coordinator": [
+      "Heather Taylor"
+    ],
+    "Production Manager": [
+      "Mickey McKenzie"
+    ],
+    "Vice President Of Production": [
+      "Bob Reid"
     ],
     "Graphics": [
-      "GRAPHIC NATURE, LTD."
-    ],
-    "Post Production Facilities": [
-      "ORIGINAL POST",
-      "WOODHOLLY"
+      "Graphic Nature, Ltd."
     ],
     "Harley-Davidson Liaison": [
-      "REBECCA BORTNER"
+      "Rebecca Bortner"
     ],
-    "Discovery Personnel / Executive Producer": [
-      "SEAN GALLAGHER"
+    "Post Production Facilities": [
+      "Original Post",
+      "Woodholly"
     ],
-    "Discovery Personnel / Executive in Charge of Production": [
-      "MICHAEL QUATTRONE"
+    "Production Assistants": [
+      "Liz Rubin",
+      "Walter Klammer"
     ],
-    "Discovery Personnel / Vice President of Production": [
-      "BOB REID"
-    ],
-    "Discovery Personnel / Production Manager": [
-      "MICKEY MCKENZIE"
-    ],
-    "Discovery Personnel / Production Coordinator": [
-      "HEATHER TAYLOR"
-    ],
-    "Discovery Personnel / Production Assistant": [
-      "W. KENNETH PRYOR"
+    "Production Secretary": [
+      "Elliot Loewenstein",
+      "Jeff Moeller"
     ]
   }
 }

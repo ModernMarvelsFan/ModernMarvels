@@ -23,9 +23,9 @@
 | **Camera** | Gary Brooks, Bob Cundari, Tomas Hejda, Lon Magdich, Bill Mills, Jim Petit, Nathan Smith |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Motoshi Wakabayashi |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Chris Billington, Dennis Hamlin, Ryan Handley, Phillip Harris, Cary Pope, Rob Sumner, Charles Tudor |
@@ -41,7 +41,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | W. Scott Goldie |
+| **Written And Produced By** | W. Scott Goldie |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00602.md)

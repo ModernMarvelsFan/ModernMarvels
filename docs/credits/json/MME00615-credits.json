@@ -11,46 +11,22 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
     "Accountants": [
       "Sheridan Lid",
       "Diana Stolpe"
     ],
-    "Coordinator": [
-      "Maya Sykes"
+    "Animation": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Patrick Cashman"
     ],
+    "Associate Producer": [
+      "Liza Douglass"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Joshua Janiak"
     ],
     "Camera": [
       "Chris Bell",
@@ -62,6 +38,27 @@
       "Jim Petit",
       "Edward Seaton"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Gary Reid"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Mark Angelo",
       "Chad Bryant",
@@ -71,48 +68,51 @@
       "Tom M. Staton",
       "Rob Sumner"
     ],
-    "Online Editor": [
-      "John Price"
+    "Executive Producers": [
+      "Beth Dietrich-Segarra",
+      "Michael Stiller"
     ],
-    "Animation": [
-      "Victor Bornia"
-    ],
-    "Sound Mixer": [
-      "Mark Jensen"
+    "Programming Coordinator": [
+      "Emily MacDowell"
     ],
     "Historical Consultant": [
       "Dan McNichol"
     ],
-    "For The History Channel / Programming Coordinator": [
-      "Emily MacDowell"
-    ],
-    "For The History Channel / Executive Producers": [
-      "Beth Dietrich-Segarra",
-      "Michael Stiller"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "W. Scott Goldie"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Liza Douglass"
+    "Music": [
+      "Guy Thomas"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Editor": [
-      "Gary Reid"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music": [
-      "Guy Thomas"
+    "Post Assist": [
+      "Joshua Janiak"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "W. Scott Goldie"
     ]
   }
 }

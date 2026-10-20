@@ -15,7 +15,7 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Accountant** | Sheridan Liu |
-| **Animation by** | Red Gypsy Animation |
+| **Animation By** | Red Gypsy Animation |
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Associate Producer** | Beata Genin |
@@ -23,15 +23,14 @@
 | **Clearance Coordinator** | D.W. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
 | **Coordinators** | Melinda Esquibel, Brad Skiles |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Anthony Lacques |
-| **Edited by** | Andrew Corwin |
-| **Executive Producer** | Don Cambou |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Andrew Corwin |
+| **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Jeff Asell, Chris Barbieri, Joe Biesterfeld, Art Jaso |
-| **For The History Channel / Executive Producer** | Beth Dietrich-Segarra |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett Music Group |
-| **Narrated by** | Max Raphael |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assistant** | Gaylen Kobayashi |
 | **Post Producer** | Tim Knauff |
@@ -42,7 +41,7 @@
 | **Sound Mixer** | Ed Thacker |
 | **Technical Consultants** | Kim Baker, James R. Baty II, Jack &amp; Linda Greene, Clifford E. Oliver |
 | **Voice Over Coordinator** | Mikki Del Monico |
-| **Written and Produced by** | Jim Hense |
+| **Written And Produced By** | Jim Hense |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00453.md)

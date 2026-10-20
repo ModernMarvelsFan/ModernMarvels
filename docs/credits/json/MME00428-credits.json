@@ -4,103 +4,100 @@
   "year": "2004",
   "copyright": "© 2004 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions"
   ],
   "narrators": [
-    "MAX RAPHAEL",
-    "MIKKI DEL MONICO"
+    "Max Raphael",
+    "Mikki Del Monico"
   ],
   "crew": {
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Line Producer": [
-      "PAUL DZILVELIS"
-    ],
-    "Associate Producer": [
-      "ALLISON BOON"
-    ],
-    "Edited by": [
-      "ANDREW CORWIN"
-    ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Music by": [
-      "GUY THOMAS"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "TIM KNAUFF"
-    ],
-    "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ANTHONY LACQUES"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
     "Accountant": [
-      "SHERIDAN LIU"
+      "Sheridan Liu"
     ],
-    "Coordinator": [
-      "MELINDA ESQUIBEL"
-    ],
-    "Researchers": [
-      "MIKKI DEL MONICO",
-      "JOHN KNAPP",
-      "SEAN HECKMAN",
-      "TOM BARCLAY"
-    ],
-    "Clearance Coordinator": [
-      "D.W. BLAKESLEE"
-    ],
-    "Voice Over Coordinator": [
-      "MIKKI DEL MONICO"
+    "Animation By": [
+      "Bart Roen"
     ],
     "Assistant Editors": [
-      "LAURA STEINHOFF",
-      "MICHAEL BROOME"
+      "Laura Steinhoff",
+      "Michael Broome"
     ],
     "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
+      "Alexander Rubinow"
     ],
-    "Post Assistants": [
-      "GAYLEN KOBAYASHI",
-      "LINDA LIAO"
+    "Associate Producer": [
+      "Allison Boon"
     ],
     "Camera": [
-      "LON MAGDICH",
-      "PETER KRAJEWSKI"
+      "Lon Magdich",
+      "Peter Krajewski"
     ],
-    "Online Editor": [
-      "JOHN PRICE"
+    "Clearance Coordinator": [
+      "D.W. Blakeslee"
     ],
-    "Sound Mixer": [
-      "PAUL RAY"
+    "Clearance Supervisor": [
+      "Katie Del Core"
     ],
-    "Animation by": [
-      "BART ROEN"
+    "Coordinator": [
+      "Melinda Esquibel"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Anthony Lacques"
+    ],
+    "Edited By": [
+      "Andrew Corwin"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
     ],
     "Historical Consultants": [
-      "MICHAEL CHAMBERS",
-      "CHRIS GLASS",
-      "LINWOOD PENDLETON",
-      "JOHN VAN AMERONGEN"
+      "Michael Chambers",
+      "Chris Glass",
+      "Linwood Pendleton",
+      "John Van Amerongen"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Guy Thomas"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistants": [
+      "Gaylen Kobayashi",
+      "Linda Liao"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Mikki Del Monico",
+      "John Knapp",
+      "Sean Heckman",
+      "Tom Barclay"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
     ]
   }
 }

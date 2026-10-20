@@ -7,37 +7,37 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY CHANNEL, A&E TELEVISION NETWORKS
-* **Narrator:** HARLAN SAPERSTEIN
+* **Production Company:** Actuality Productions, Inc., The History Channel, A&e Television Networks
+* **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | STUART BRODLIEB, HARRIS COHEN |
-| **Assistant Production Accountants** | LINDA SCRIBNER, JUDI MINITELLO |
-| **Associate Producer** | LA MONTE WESTMORELAND |
-| **Camera Operators** | ROGER BROOKS, JIM NEWPORT, WAYNE STRICKLAND |
-| **Created by** | BRUCE NASH |
-| **Edited By** | JOANNE DE TORA |
-| **Executive Producer** | CHARLIE MADAY |
-| **Field Audio** | TEDDY HALLARON, JOHN P. SCOTT, JOHN SIMONSON |
-| **Graphics and Animation** | DAVE THOMPSON |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT |
-| **Narrated by** | HARLAN SAPERSTEIN |
-| **Online Editor** | DAVID REX |
-| **Post Production Assistant** | GARY REID |
-| **Post Production Coordinator** | JASON STEINBERG |
-| **Post Production Supervisor** | SCOTT BERKSON |
-| **Producer** | BRUCE NASH |
-| **Production Assistants** | MARYALICE R. ARAGON, KEVIN CROWELL |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Production Manager** | LISA BLACKWOOD HOPE |
-| **Sound Mixer** | MIKE FORSLUND |
-| **Supervising Producer** | BETH DIETRICH, DON CAMBOU |
-| **Written and Produced by** | MARY WALLACE |
+| **Assistant Editors** | Stuart Brodlieb, Harris Cohen |
+| **Assistant Production Accountants** | Linda Scribner, Judi Minitello |
+| **Associate Producer** | La Monte Westmoreland |
+| **Camera Operators** | Roger Brooks, Jim Newport, Wayne Strickland |
+| **Created By** | Bruce Nash |
+| **Edited By** | Joanne De Tora |
+| **Executive Producer** | Charlie Maday |
+| **Field Audio** | Teddy Hallaron, John P. Scott, John Simonson |
+| **Graphics And Animation** | Dave Thompson |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett |
+| **Narrated By** | Harlan Saperstein |
+| **Online Editor** | David Rex |
+| **Post Production Assistant** | Gary Reid |
+| **Post Production Coordinator** | Jason Steinberg |
+| **Post Production Supervisor** | Scott Berkson |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Maryalice R. Aragon, Kevin Crowell |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Production Manager** | Lisa Blackwood Hope |
+| **Sound Mixer** | Mike Forslund |
+| **Supervising Producer** | Beth Dietrich, Don Cambou |
+| **Written And Produced By** | Mary Wallace |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00095.md)

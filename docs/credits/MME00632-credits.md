@@ -22,9 +22,9 @@
 | **Camera** | Travis Johnson, Lon Magdich, Steve Muscarella, David Pierro, Eric Smith |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Robert Lattanzio |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Douglas Burton, Bryan Clavey, Dan Cook, Rusty Duggan, Jeff Moffet, Charles Rohr |
@@ -41,7 +41,7 @@
 | **Researcher** | Joshua Janiak |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Penn Schofield |
+| **Written And Produced By** | Penn Schofield |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00632.md)

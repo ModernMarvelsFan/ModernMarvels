@@ -15,20 +15,19 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Associate Producer** | Natalie Artin |
-| **Batman Created by** | Bob Kane |
+| **Batman Created By** | Bob Kane |
+| **Business &amp; Legal Affairs** | Steven J. Peña |
+| **Clearance Coordinator** | Bianca Cioffi |
 | **Co-Executive Producers** | Scott Hartford, Kim Sheerin |
+| **Director Of Rights &amp; Clearances** | Mary DeMaria |
 | **Editors** | Derek Chin, Jennifer Lehman, Molly Shock, Kaylyn Thornal |
-| **Executive Producer** | Kevin Burns |
-| **For History / Executive Producer** | Charles Norlander |
-| **For History / Programming Coordinator** | Adam Rosante |
-| **For Prometheus Entertainment / Business &amp; Legal Affairs** | Steven J. Peña |
-| **For Prometheus Entertainment / Clearance Coordinator** | Bianca Cioffi |
-| **For Prometheus Entertainment / Director of Rights &amp; Clearances** | Mary DeMaria |
-| **For Prometheus Entertainment / Production Coordinator** | Joe Lessard |
+| **Executive Producer** | Charles Norlander |
 | **Narrator** | Dave Hoffman |
 | **Post Production Producer** | Gregory S. Cohan |
 | **Producer** | Rick Hull |
 | **Production Assistant** | Charlie Ferraye |
+| **Production Coordinator** | Joe Lessard |
+| **Programming Coordinator** | Adam Rosante |
 | **Researcher** | Matt Cunningham |
 | **Senior Editor** | David Comtois |
 | **Writer** | Steven Smith |

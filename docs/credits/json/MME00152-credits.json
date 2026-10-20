@@ -6,49 +6,49 @@
   "studios": [
     "ACTUALITY Productions, Inc.",
     "Hearst Entertainment",
-    "THE HISTORY CHANNEL"
+    "The History Channel"
   ],
   "narrators": [],
   "crew": {
-    "Supervising Producer": [
-      "BETH DIETRICH"
-    ],
-    "Executive Producer": [
-      "CHARLIE MADAY"
-    ],
-    "Produced by": [
-      "ACTUALITY Productions, Inc."
-    ],
-    "Post Production Supervisor": [
-      "JASON STEINBERG"
-    ],
-    "Post Production Coordinator": [
-      "GARY REID"
-    ],
-    "Post Production Assistant": [
-      "BRIAN VOLK"
-    ],
-    "Online Editor": [
-      "DAVID REX"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
     "Animation": [
-      "SCOTT BOYER"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
+      "Scott Boyer"
     ],
     "Assistant Production Accountant": [
-      "LINDA SCRIBNER"
+      "Linda Scribner"
     ],
-    "Production Coordinator": [
-      "KATHY EXNER"
+    "Executive Producer": [
+      "Charlie Maday"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Production Assistant": [
+      "Brian Volk"
+    ],
+    "Post Production Coordinator": [
+      "Gary Reid"
+    ],
+    "Post Production Supervisor": [
+      "Jason Steinberg"
+    ],
+    "Produced By": [
+      "ACTUALITY Productions, Inc."
     ],
     "Production Assistants": [
-      "MARYALICE R. ARAGON",
-      "SUNI NIVENS"
+      "Maryalice R. Aragon",
+      "Suni Nivens"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Kathy Exner"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Supervising Producer": [
+      "Beth Dietrich"
     ]
   }
 }

@@ -8,35 +8,35 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2011 A&E TELEVISION NETWORKS. ALL RIGHTS RESERVED`
 * **Production Company:** —
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | ADAM KIRK, LARA UNDERWOOD, WANAKHAVI WAKHISI |
-| **Associate Producer** | SARAH ROONEY |
-| **Associate Producers** | ARJUN V. RAO, AMBER SEYLER, SARAH ROONEY |
-| **Digitizer** | MARCIA ROBUSTO |
-| **Directors of Photography** | HOSSAM ABOULMAGD, ROB FEATHERSTONE, STEPHEN HARRISON, RYAN HILL, JULIO LUZQUINOS, MIKE MANIGLIA |
-| **Editor** | JIM MCNAMEE |
-| **Executive Producers** | SEAN GALLAGHER, ABBY GREENSFELDER, LIBBY RICHMAN |
-| **Field Producers** | MATT AYRES, FRENCH HORWITZ, CONOR MCCARTHY, KELLY TUCKER, MARK YOUNG |
-| **Intern** | REBECCA SALZMAN |
-| **Music** | AUDIO NETWORKS, EXTREME MUSIC |
-| **Narrator** | MAX RAPHAEL |
-| **Online Editor/Colorist** | MATT DOE |
-| **Post Production Coordinator** | CAMERON YOUNG |
-| **Post Production Supervisor** | LIAM MONSCHEIN |
-| **Producer** | KENDRA GAHAGAN |
-| **Production Accountant** | ROSSANA O'HOP |
-| **Production Coordinator** | TAINESA DAVIS |
-| **Production Manager** | JENNIFER PARTIN |
-| **Researcher** | ANN GRAU DUVALL |
-| **Series Producer** | BRIAN LEONARD |
-| **Sound** | MATTHEW J. ENGEL, BRIAN GARFIELD, MARK MARIACA, MARK POHULCHUK, KELSEY WOOD |
-| **Sound Design** | TAKOMA MEDIA |
-| **Transcription** | WORDPLAY |
+| **Assistant Editors** | Adam Kirk, Lara Underwood, Wanakhavi Wakhisi |
+| **Associate Producer** | Sarah Rooney |
+| **Associate Producers** | Arjun V. Rao, Amber Seyler, Sarah Rooney |
+| **Colorist** | Matt Doe |
+| **Digitizer** | Marcia Robusto |
+| **Directors Of Photography** | Hossam Aboulmagd, Rob Featherstone, Stephen Harrison, Ryan Hill, Julio Luzquinos, Mike Maniglia |
+| **Editor** | Jim McNamee |
+| **Executive Producers** | Sean Gallagher, Abby Greensfelder, Libby Richman |
+| **Field Producers** | Matt Ayres, French Horwitz, Conor McCarthy, Kelly Tucker, Mark Young |
+| **Intern** | Rebecca Salzman |
+| **Music** | Audio Networks, Extreme Music |
+| **Narrator** | Max Raphael |
+| **Post Production Coordinator** | Cameron Young |
+| **Post Production Supervisor** | Liam Monschein |
+| **Producer** | Kendra Gahagan |
+| **Production Accountant** | Rossana O'Hop |
+| **Production Coordinator** | Tainesa Davis |
+| **Production Manager** | Jennifer Partin |
+| **Researcher** | Ann Grau Duvall |
+| **Series Producer** | Brian Leonard |
+| **Sound** | Matthew J. Engel, Brian Garfield, Mark Mariaca, Mark Pohulchuk, Kelsey Wood |
+| **Sound Design** | Takoma Media |
+| **Transcription** | Wordplay |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00689.md)

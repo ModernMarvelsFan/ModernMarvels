@@ -4,131 +4,128 @@
   "year": "1998",
   "copyright": "© 1999 & 2005 A&E Television Network All Rights Reserved",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions"
   ],
   "narrators": [
-    "MAX RAPHAEL",
-    "JOHN KNAPP"
+    "Max Raphael",
+    "John Knapp"
   ],
   "crew": {
-    "Associate Producer": [
-      "CORRIE KAUFMAN"
-    ],
-    "Edited by": [
-      "SEAN DASH",
-      "ANDREW CORWIN"
-    ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Music by": [
-      "ALAN ETT MUSIC GROUP"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Managers": [
-      "LISA BLACKWOOD HOPE",
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "TIM KNAUFF"
-    ],
-    "Clearance Supervisors": [
-      "AMY TRAHANT",
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ALLISON BOON"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
     "Accountants": [
-      "LINDA SCRIBNER",
-      "JUDI MINITELLO",
-      "SHERIDAN LIU",
-      "LISA CASELLA",
-      "PAULETTE PANTOJA"
+      "Linda Scribner",
+      "Judi Minitello",
+      "Sheridan Liu",
+      "Lisa Casella",
+      "Paulette Pantoja"
     ],
-    "Researchers": [
-      "BARRY HILL",
-      "ULDIS BALODIS",
-      "JOHN KNAPP"
+    "Animated Maps By": [
+      "Red Gypsy Animation"
     ],
-    "Coordinators": [
-      "TERRENCE HARTWELL",
-      "BRAD SKILES"
+    "Animated Stills By": [
+      "Adam Goodwin"
     ],
-    "Voice Over Coordinator": [
-      "JOHN KNAPP"
+    "Animation By": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
-      "LAURA STEINHOFF",
-      "JOSH BECKHAM"
+      "Laura Steinhoff",
+      "Josh Beckham"
     ],
     "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
+      "Alexander Rubinow"
     ],
-    "Post Assistants": [
-      "GAYLEN KOBAYASHI",
-      "KEVIN McCARTNEY"
+    "Associate Producer": [
+      "Corrie Kaufman"
     ],
     "Camera": [
-      "RUDI DEMUNTER",
-      "LUKE ELLIS",
-      "DAVID GERDRUM",
-      "JOHN KABASAKALIS",
-      "MAC KENNY",
-      "RAINES SPEIDEL",
-      "THEODORE THORNTON"
+      "Rudi Demunter",
+      "Luke Ellis",
+      "David Gerdrum",
+      "John Kabasakalis",
+      "Mac Kenny",
+      "Raines Speidel",
+      "Theodore Thornton"
     ],
-    "Field Audio": [
-      "STEVE CONNOR",
-      "ROBERT FETZER",
-      "CHERYL GERDRUM",
-      "THIBAUT JAMAR",
-      "GREG STIDHAM",
-      "JUGEN SCHWARZ"
-    ],
-    "Online Editor": [
-      "JOHN PRICE"
-    ],
-    "Sound Mixer": [
-      "ED THACKER"
-    ],
-    "Animation by": [
-      "VICTOR BORNIA"
-    ],
-    "Animated Maps by": [
-      "RED GYPSY ANIMATION"
-    ],
-    "Animated Stills by": [
-      "ADAM GOODWIN"
-    ],
-    "Historical Consultants": [
-      "EDWARD VON DER PORTEN",
-      "RUDI ROLF"
-    ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "MATTHEW P. HICKEY",
-      "RICHARD JONES"
-    ],
-    "Line Producer": [
-      "PAUL DZILVELIS"
+    "Clearance Supervisors": [
+      "Amy Trahant",
+      "Katie Del Core"
     ],
     "Consulting Producer": [
-      "RON NELSON"
+      "Ron Nelson"
+    ],
+    "Coordinators": [
+      "Terrence Hartwell",
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Edited By": [
+      "Sean Dash",
+      "Andrew Corwin"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
+    "Field Audio": [
+      "Steve Connor",
+      "Robert Fetzer",
+      "Cheryl Gerdrum",
+      "Thibaut Jamar",
+      "Greg Stidham",
+      "Jugen Schwarz"
+    ],
+    "Historical Consultants": [
+      "Edward Von Der Porten",
+      "Rudi Rolf"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistants": [
+      "Gaylen Kobayashi",
+      "KEVIN McCARTNEY"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Managers": [
+      "Lisa Blackwood Hope",
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Barry Hill",
+      "Uldis Balodis",
+      "John Knapp"
+    ],
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
+    ],
+    "Written And Produced By": [
+      "Matthew P. Hickey",
+      "Richard Jones"
     ]
   }
 }

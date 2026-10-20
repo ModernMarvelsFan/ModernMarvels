@@ -5,14 +5,14 @@
   "copyright": "© 2005 A&E Television Networks. All Rights Reserved.",
   "studios": [],
   "narrators": [
-    "GREG STEBNER"
+    "Greg Stebner"
   ],
   "crew": {
-    "Narrator": [
-      "GREG STEBNER"
-    ],
     "Music": [
-      "IAN LYNN"
+      "Ian Lynn"
+    ],
+    "Narrator": [
+      "Greg Stebner"
     ]
   }
 }

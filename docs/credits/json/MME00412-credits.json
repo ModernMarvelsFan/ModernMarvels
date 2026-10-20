@@ -12,58 +12,13 @@
     "Mikki Del Monico"
   ],
   "crew": {
-    "Edited by": [
-      "Minh T. Tran"
-    ],
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Music by": [
-      "Alan Ett Music Group"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Clearance Supervisor": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Anthony Lacques"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
     "Accountants": [
       "Judy Gordon",
       "Sheridan Liu"
     ],
-    "Coordinators": [
-      "Rosalyn McVay",
-      "Melinda Esquibel"
-    ],
-    "Researchers": [
-      "Mikki Del Monico",
-      "John Knapp",
-      "Sean Heckman",
-      "Tom Barclay"
-    ],
-    "Clearance Coordinator": [
-      "D.W. Blakeslee"
-    ],
-    "Production Assistant": [
-      "Jeffery Perkins"
-    ],
-    "Voice Over Coordinator": [
-      "Mikki Del Monico"
+    "Animation By": [
+      "John W. Richardson",
+      "Adam Goodwin"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -72,41 +27,83 @@
     "Assistant Post Coordinator": [
       "Alexander Rubinow"
     ],
-    "Post Assistants": [
-      "Gaylen Kobayashi",
-      "Linda Liao"
+    "Associate Producer": [
+      "Dan Gibbons"
     ],
     "Camera": [
       "Aaron Berman",
       "Lon Magdich"
     ],
+    "Clearance Coordinator": [
+      "D.W. Blakeslee"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Coordinators": [
+      "Rosalyn McVay",
+      "Melinda Esquibel"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Anthony Lacques"
+    ],
+    "Edited By": [
+      "Minh T. Tran"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
     "Field Audio": [
       "Adrian Parker"
-    ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Paul Ray"
-    ],
-    "Animation by": [
-      "John W. Richardson",
-      "Adam Goodwin"
     ],
     "Historical Consultant": [
       "James D. Cooper"
     ],
-    "For The History Channel / Executive Producer": [
-      "Beth Dietrich-Segarra"
+    "Music By": [
+      "Alan Ett Music Group"
     ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Narrated By": [
+      "Max Raphael"
     ],
-    "Written and Produced by": [
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistants": [
+      "Gaylen Kobayashi",
+      "Linda Liao"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Jeffery Perkins"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Mikki Del Monico",
+      "John Knapp",
+      "Sean Heckman",
+      "Tom Barclay"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
+    ],
+    "Written And Produced By": [
       "Rod Pyle"
-    ],
-    "Associate Producer": [
-      "Dan Gibbons"
     ]
   }
 }

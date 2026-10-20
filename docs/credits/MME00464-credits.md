@@ -7,39 +7,39 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, THE HISTORY CHANNEL
-* **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions, The History Channel
+* **Narrator:** Max Raphael, Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountant** | SHERIDAN LIU |
-| **Animation by** | RANDALL RICKERT, RED GYPSY ANIMATION |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Camera** | GILES BAKER, DOUG WEISMAN |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Coordinators** | MELINDA ESQUIBEL, BRAD SKILES |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ALLISON BOON |
-| **Edited by** | LOU LAPROCIDO |
-| **Executive Producer** | BETH DIETRICH-SEGARRA, DON CAMBOU |
-| **Field Audio** | JAMES FITZGERALD, JIM PETIT |
-| **Historical Consultants** | ROBERT H. FARSON, UNITED STATES ARMY CORPS OF ENGINEERS |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistant** | GAYLEN KOBAYASHI |
-| **Post Producer** | TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | MIKKI DEL MONICO, SEAN HECKMAN, TOM BARCLAY |
-| **Sound Mixer** | ED THACKER |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
-| **Written and Produced by** | GLORIA L. MORRIS |
+| **Accountant** | Sheridan Liu |
+| **Animation By** | Randall Rickert, Red Gypsy Animation |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Camera** | Giles Baker, Doug Weisman |
+| **Clearance Supervisor** | Katie Del Core |
+| **Coordinators** | Melinda Esquibel, Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Edited By** | Lou Laprocido |
+| **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
+| **Field Audio** | James Fitzgerald, Jim Petit |
+| **Historical Consultants** | Robert H. Farson, United States Army Corps Of Engineers |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistant** | Gaylen Kobayashi |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researchers** | Mikki Del Monico, Sean Heckman, Tom Barclay |
+| **Sound Mixer** | Ed Thacker |
+| **Voice Over Coordinator** | Mikki Del Monico |
+| **Written And Produced By** | Gloria L. Morris |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00464.md)

@@ -5,24 +5,24 @@
   "copyright": "© 1994 A&E Television Networks. All Rights Reserved.",
   "studios": [
     "Hearst Entertainment Television",
-    "THE HISTORY CHANNEL",
-    "JAFFE PRODUCTIONS",
+    "The History Channel",
+    "Jaffe Productions",
     "Hearst Entertainment Television"
   ],
   "narrators": [],
   "crew": {
+    "Executive Producer": [
+      "Bob Jaffe"
+    ],
+    "Executive In Charge": [
+      "Mel A. Bishop"
+    ],
     "Graphics": [
-      "RON CLARK, ART F/X"
+      "Ron Clark, Art F/X"
     ],
     "Post Production": [
-      "PREMORE, INC.",
-      "MIDTOWN VIDEO"
-    ],
-    "Executive in Charge": [
-      "MEL A. BISHOP"
-    ],
-    "Executive Producer": [
-      "BOB JAFFE"
+      "Premore, Inc.",
+      "Midtown Video"
     ]
   }
 }

@@ -7,38 +7,38 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2012 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Half Yard Productions, LLC, TAKOMA MEDIA
+* **Production Company:** Half Yard Productions, LLC, Takoma Media
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Additional Editing** | MEREDITH HAYS |
-| **Assistant Editor** | MIKE BAUTISTA |
-| **Associate Producer** | HANNAH RICHARDSON |
-| **Associate Producers** | PHILIP CLOUTIER, SARAH KATZ, NATALIE PITCHER, AMBER SEYLER |
-| **Created by** | BRUCE NASH |
-| **Directors of Photography** | HOSSAM ABOUL-MAGD, JOSEPH BRUNETTE, DALLAS CHILDERS, JERRY HENRY, JULIO LUZQUINOS, JOHN MANIS |
-| **Edited by** | KEVIN MEEHAN |
-| **Executive Producers** | SEAN GALLAGHER, ABBY GREENSFELDER |
-| **Field Producers** | ANASTASIA CRONIN, JENNY EWIG, KENDRA GAHAGAN |
-| **Head of Production** | JANICE MEZZETTI |
-| **Intern** | JEREMY WEINREICH |
-| **Junior Editors** | NADIA IZAKSON, GUILLERMO MACO, WANAKHAVI WAKHISI |
-| **Music** | AUDIO NETWORK, EXTREME, PRODUKT, JINGLEPUNKS |
-| **Online Editor/Colorist** | MATT DOE |
-| **Produced by** | Half Yard Productions, LLC |
-| **Production Assistants** | JAYE CALLAHAN, SUZIE ECKL |
-| **Production Coordinator** | KAIT GALLAGHER |
-| **Programming Coordinator** | DIVYA CHUNGI |
-| **Researchers** | ZOE COUACAUD, ANN DUVALL |
-| **Senior Producer** | CARTER FIGUEROA |
-| **Series Producer** | ANN CARROLL |
-| **Sound** | MATT ENGEL, BRIAN GARFIELD, MARK MARIACA, AARON MUNDY, PETER NEMORTAS, TED THACKER |
-| **Sound Design &amp; Mix** | RICHARD HUMPHRIES, TAKOMA MEDIA |
-| **Sound Editors** | MIKE ESTLER, NICHOLAS KARLIN |
-| **Written, Produced and Directed by** | SCOTT MICHNICK |
+| **Additional Editing** | Meredith Hays |
+| **Assistant Editor** | Mike Bautista |
+| **Associate Producer** | Hannah Richardson |
+| **Associate Producers** | Philip Cloutier, Sarah Katz, Natalie Pitcher, Amber Seyler |
+| **Colorist** | Matt Doe |
+| **Created By** | Bruce Nash |
+| **Directors Of Photography** | Hossam Aboul-Magd, Joseph Brunette, Dallas Childers, Jerry Henry, Julio Luzquinos, John Manis |
+| **Edited By** | Kevin Meehan |
+| **Executive Producers** | Sean Gallagher, Abby Greensfelder |
+| **Field Producers** | Anastasia Cronin, Jenny Ewig, Kendra Gahagan |
+| **Head Of Production** | Janice Mezzetti |
+| **Intern** | Jeremy Weinreich |
+| **Junior Editors** | Nadia Izakson, Guillermo Maco, Wanakhavi Wakhisi |
+| **Music** | Audio Network, Extreme, Produkt, Jinglepunks |
+| **Produced By** | Half Yard Productions, LLC |
+| **Production Assistants** | Jaye Callahan, Suzie Eckl |
+| **Production Coordinator** | Kait Gallagher |
+| **Programming Coordinator** | Divya Chungi |
+| **Researchers** | Zoe Couacaud, Ann Duvall |
+| **Senior Producer** | Carter Figueroa |
+| **Series Producer** | Ann Carroll |
+| **Sound** | Matt Engel, Brian Garfield, Mark Mariaca, Aaron Mundy, Peter Nemortas, Ted Thacker |
+| **Sound Design &amp; Mix** | Richard Humphries, Takoma Media |
+| **Sound Editors** | Mike Estler, Nicholas Karlin |
+| **Written, Produced And Directed By** | Scott Michnick |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00703.md)

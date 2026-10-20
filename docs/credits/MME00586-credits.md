@@ -17,24 +17,24 @@
 | **Associate Producers** | David Cherella, Meghan Fallon |
 | **Editor** | Michael Jasionowski |
 | **Executive Producer** | Carolyn Kresky |
-| **Graphics by** | TMBA |
-| **Music Provided by** | Pump Audio, LLC. |
+| **Graphics By** | Tmba |
+| **Music Provided By** | Pump Audio, LLC. |
 | **Narrator** | Max Rafael |
 | **Producer** | Thomas Rizzo |
 | **Production Coordinator** | Marti Glaser |
 | **Production Manager** | Coleen Weinstein |
 | **Segment: Buffalo Creek Dam - Executive Producer** | Don Cambou |
-| **Segment: Buffalo Creek Dam - Written &amp; Produced by** | Anthony Lacques, Gloria L. Morris |
+| **Segment: Buffalo Creek Dam - Written &amp; Produced By** | Anthony Lacques, Gloria L. Morris |
 | **Segment: Edmund Fitzgerald - Executive Producer** | Don Cambou |
-| **Segment: Edmund Fitzgerald - Written &amp; Produced by** | Rob Beemer |
+| **Segment: Edmund Fitzgerald - Written &amp; Produced By** | Rob Beemer |
 | **Segment: Grain Elevator - Executive Producer** | Don Cambou |
-| **Segment: Grain Elevator - Written &amp; Produced by** | W. Scott Goldie |
+| **Segment: Grain Elevator - Written &amp; Produced By** | W. Scott Goldie |
 | **Segment: Rosemont Arena - Executive Producer** | Don Cambou |
-| **Segment: Rosemont Arena - Written &amp; Produced by** | W. Scott Goldie |
+| **Segment: Rosemont Arena - Written &amp; Produced By** | W. Scott Goldie |
 | **Segment: Sansinena - Executive Producer** | Don Cambou |
-| **Segment: Sansinena - Written &amp; Produced by** | Holly A. Murdoch, Nancy Oey |
+| **Segment: Sansinena - Written &amp; Produced By** | Holly A. Murdoch, Nancy Oey |
 | **Segment: Skyline Plaza - Executive Producer** | Don Cambou |
-| **Segment: Skyline Plaza - Written &amp; Produced by** | Jim Lindsay |
+| **Segment: Skyline Plaza - Written &amp; Produced By** | Jim Lindsay |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00586.md)

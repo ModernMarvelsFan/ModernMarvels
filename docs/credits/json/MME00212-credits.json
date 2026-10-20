@@ -17,50 +17,6 @@
     "Assistant Editor": [
       "Joey Barasch"
     ],
-    "Clearance Supervisor": [
-      "Valarie Sheldon"
-    ],
-    "Production Accountant": [
-      "Donna Amato"
-    ],
-    "Production Associates": [
-      "Keith Guinto",
-      "Keith Reiner"
-    ],
-    "Music": [
-      "Alan Ett Music Group"
-    ],
-    "Post Production Audio": [
-      "Media City Sound"
-    ],
-    "Re-Recording Mixer": [
-      "Marcus Pardo"
-    ],
-    "Original Music": [
-      "Concealed with Love"
-    ],
-    "Recorded at": [
-      "EHB Productions"
-    ],
-    "Production Services": [
-      "Documentary Broadcasting Company, Inc."
-    ],
-    "Executive in Charge of Production": [
-      "Ann J. Hackett"
-    ],
-    "For The History Channel / Executive Producer": [
-      "Charlie Maday"
-    ],
-    "Produced and Directed by": [
-      "Tom Jennings"
-    ],
-    "Executive Producers": [
-      "Robert Kirk",
-      "Rob Lihani"
-    ],
-    "Narrator": [
-      "Harlan Saperstein"
-    ],
     "Camera": [
       "Greg Bader",
       "Alfred Shapiro",
@@ -69,6 +25,16 @@
       "Mike Braden",
       "Ned Miller",
       "Jeff Taylor"
+    ],
+    "Clearance Supervisor": [
+      "Valarie Sheldon"
+    ],
+    "Executive Producers": [
+      "Robert Kirk",
+      "Rob Lihani"
+    ],
+    "Executive In Charge Of Production": [
+      "Ann J. Hackett"
     ],
     "Field Audio": [
       "James Baker",
@@ -80,8 +46,42 @@
       "Greg Quedens",
       "Paul Wustrack"
     ],
+    "Executive Producer": [
+      "Charlie Maday"
+    ],
+    "Music": [
+      "Alan Ett Music Group"
+    ],
+    "Narrator": [
+      "Harlan Saperstein"
+    ],
     "Online Editor": [
       "Steve Pomerantz"
+    ],
+    "Original Music": [
+      "Concealed with Love"
+    ],
+    "Post Production Audio": [
+      "Media City Sound"
+    ],
+    "Produced And Directed By": [
+      "Tom Jennings"
+    ],
+    "Production Accountant": [
+      "Donna Amato"
+    ],
+    "Production Associates": [
+      "Keith Guinto",
+      "Keith Reiner"
+    ],
+    "Production Services": [
+      "Documentary Broadcasting Company, Inc."
+    ],
+    "Re-Recording Mixer": [
+      "Marcus Pardo"
+    ],
+    "Recorded At": [
+      "EHB Productions"
     ]
   }
 }

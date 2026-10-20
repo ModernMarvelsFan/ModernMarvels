@@ -10,6 +10,20 @@
     "Max Raphael"
   ],
   "crew": {
+    "Assistant Editors": [
+      "Laura \"Q\" Heinrichs",
+      "Vankhoa \"Mike\" Le",
+      "Sarah Longnecker",
+      "Alicia Lundgren",
+      "Stephen Vaughn"
+    ],
+    "Associate Producers": [
+      "Mary Courtney",
+      "Robert Wear"
+    ],
+    "Audio Mix": [
+      "Tom Backus C.A.S."
+    ],
     "Camera": [
       "Kevin Braband",
       "Pat Clark",
@@ -19,29 +33,28 @@
       "Ken Nilsson",
       "Joe Pedalino"
     ],
-    "Narrator": [
-      "Max Raphael"
+    "Co-Executive Producer": [
+      "Robert Twilley"
     ],
-    "Audio Mix": [
-      "Tom Backus C.A.S."
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Music": [
-      "Legativity"
+    "Editor": [
+      "David Beatty"
     ],
-    "Post Supervisors": [
-      "John Kennedy",
-      "Dana Merwin"
+    "Executive Producer": [
+      "John Verhoff"
     ],
-    "Online Editors": [
-      "Philip Tatler IV",
-      "Christopher P. Harris"
+    "Field Producers": [
+      "Randall Shuptrine",
+      "Diane Dere"
     ],
-    "Assistant Editors": [
-      "Laura \"Q\" Heinrichs",
-      "Vankhoa \"Mike\" Le",
-      "Sarah Longnecker",
-      "Alicia Lundgren",
-      "Stephen Vaughn"
+    "Programming Coordinator": [
+      "Kelly Vorrasi"
+    ],
+    "Graphics": [
+      "Elevation",
+      "Adam Goodwin"
     ],
     "Location Sound": [
       "David J. Baer",
@@ -53,12 +66,15 @@
       "Thomas Orozco",
       "Diana Wilmer"
     ],
-    "Graphics": [
-      "Elevation",
-      "Adam Goodwin"
+    "Music": [
+      "Legativity"
     ],
-    "Production Manager": [
-      "Katie Young"
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Online Editors": [
+      "Philip Tatler IV",
+      "Christopher P. Harris"
     ],
     "Post Prep": [
       "Zach Land",
@@ -67,47 +83,28 @@
       "Sean Sexton",
       "Jamison Stalsworth"
     ],
+    "Post Supervisors": [
+      "John Kennedy",
+      "Dana Merwin"
+    ],
+    "Producer": [
+      "Gloria Kruener"
+    ],
     "Production Assistance": [
       "Michelle Weiss",
       "Jeremy Ashcraft",
       "Amanda Feathers",
       "Tamara Perry"
     ],
-    "Created By": [
-      "Bruce Nash"
-    ],
-    "For History / Programming Coordinator": [
-      "Kelly Vorrasi"
-    ],
-    "For History / Executive Producer": [
-      "John Verhoff"
-    ],
-    "Executive Producer": [
-      "Stephen Land"
-    ],
-    "Co-Executive Producer": [
-      "Robert Twilley"
+    "Production Manager": [
+      "Katie Young"
     ],
     "Supervising Producer": [
       "Ron Nelson",
       "Sharon Martin"
     ],
-    "Producer": [
-      "Gloria Kruener"
-    ],
-    "Field Producers": [
-      "Randall Shuptrine",
-      "Diane Dere"
-    ],
     "Writer": [
       "Kaylan Eggert"
-    ],
-    "Associate Producers": [
-      "Mary Courtney",
-      "Robert Wear"
-    ],
-    "Editor": [
-      "David Beatty"
     ]
   }
 }

@@ -14,45 +14,12 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Clearance Supervisor": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Anthony Lacques"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
     "Accountants": [
       "Judy Gordon",
       "Sheridan Liu"
     ],
-    "Coordinator": [
-      "Rosalyn McVay"
-    ],
-    "Researcher": [
-      "Mikki Del Monico"
-    ],
-    "Clearance Coordinator": [
-      "D.W. Blakeslee"
-    ],
-    "Production Assistant": [
-      "Jeffery Perkins"
-    ],
-    "Voice Over Coordinator": [
-      "Mikki Del Monico"
+    "Animation By": [
+      "Doug Whitney"
     ],
     "Assistant Editor": [
       "Laura Steinhoff"
@@ -60,8 +27,9 @@
     "Assistant Post Coordinator": [
       "Alexander Rubinow"
     ],
-    "Post Assistant": [
-      "Gaylen Kobayashi"
+    "Associate Producers": [
+      "Suzanne Gilreath",
+      "Corrie Kaufman"
     ],
     "Camera": [
       "Arthur S. Kibby",
@@ -69,41 +37,73 @@
       "Jeff McMichael",
       "Warren Watson"
     ],
-    "Field Audio": [
-      "John C. Beaudry",
-      "Dan Cook"
+    "Clearance Coordinator": [
+      "D.W. Blakeslee"
     ],
-    "Online Editor": [
-      "John Price"
+    "Clearance Supervisor": [
+      "Katie Del Core"
     ],
-    "Sound Mixer": [
-      "Paul Ray"
+    "Coordinator": [
+      "Rosalyn McVay"
     ],
-    "Animation by": [
-      "Doug Whitney"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Historical Consultant": [
-      "Ned Barnett"
+    "Director Of Research": [
+      "Anthony Lacques"
+    ],
+    "Edited By": [
+      "Robert Lattanzio"
     ],
     "Executive Producer": [
       "Beth Dietrich-Segarra",
       "Don Cambou"
     ],
+    "Field Audio": [
+      "John C. Beaudry",
+      "Dan Cook"
+    ],
+    "Historical Consultant": [
+      "Ned Barnett"
+    ],
     "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "Associate Producers": [
-      "Suzanne Gilreath",
-      "Corrie Kaufman"
+    "Music By": [
+      "Alan Ett Music Group"
     ],
-    "Edited by": [
-      "Robert Lattanzio"
-    ],
-    "Narrated by": [
+    "Narrated By": [
       "Max Raphael"
     ],
-    "Music by": [
-      "Alan Ett Music Group"
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistant": [
+      "Gaylen Kobayashi"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Jeffery Perkins"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Mikki Del Monico"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
     ]
   }
 }

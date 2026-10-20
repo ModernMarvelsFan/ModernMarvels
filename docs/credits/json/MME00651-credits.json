@@ -11,56 +11,17 @@
     "Max Raphael"
   ],
   "crew": {
-    "Associate Producer": [
-      "Erika D. Smith"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Editor": [
-      "Alexander Rubinow"
-    ],
-    "Music": [
-      "AMI Music Group"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Production Accountant": [
-      "Sheridan Liu"
-    ],
-    "Coordinator": [
-      "Maya Sykes"
-    ],
-    "Clearance Coordinator": [
-      "Kiana Moore"
-    ],
-    "Researcher": [
-      "Joshua Janiak"
+    "Animation": [
+      "i.e. effects"
     ],
     "Assistant Editor": [
       "Nate Dusek"
     ],
-    "Post Assist": [
-      "Cory Parker"
+    "Associate Producer": [
+      "Erika D. Smith"
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
@@ -75,6 +36,27 @@
       "Jim Petit",
       "Stan Taylor"
     ],
+    "Clearance Coordinator": [
+      "Kiana Moore"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Alexander Rubinow"
+    ],
+    "Executive Producer": [
+      "John Verhoff"
+    ],
     "Field Audio": [
       "Daniel Agustin",
       "Chad Bryant",
@@ -85,35 +67,50 @@
       "Tom Staton",
       "Dave Wason"
     ],
+    "Programming Coordinator": [
+      "Adam Rosante"
+    ],
+    "Music": [
+      "AMI Music Group"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "i.e. effects"
+    "Post Assist": [
+      "Cory Parker"
     ],
-    "Sound Mixer": [
-      "Paul Ray"
+    "Post Producer": [
+      "Tim Knauff"
     ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Producer": [
+      "Bruce Nash"
     ],
-    "For History / Programming Coordinator": [
-      "Adam Rosante"
+    "Production Accountant": [
+      "Sheridan Liu"
     ],
-    "For History / Executive Producer": [
-      "John Verhoff"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Allison Boon"
+    "Production Controller": [
+      "Dani Eslin"
     ],
     "Production Executive": [
       "Paul Dzilvelis"
     ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Joshua Janiak"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
     "Supervising Producer": [
       "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "Allison Boon"
     ]
   }
 }

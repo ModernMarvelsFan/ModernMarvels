@@ -8,42 +8,42 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Networks Productions
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | SHERIDAN LIU, DIANA STOLPE |
-| **Additional Animation** | ADAM GOODWIN |
-| **Animation** | VICTOR BORNIA |
-| **Assistant Editors** | ALEXANDER RUBINOW, PATRICK CASHMAN |
-| **Associate Producer** | LAWRENCE GIVENS III |
-| **Asst Post Coordinator** | GAYLEN KOBAYASHI |
-| **Camera** | SCOTT BAYER, RICHARD BECKMAN, CHRIS BELL, ARON BROWN, ROB GATTI, LON MAGDICH, JOHN REED |
-| **Clearance Coordinator** | AARON ZOBER |
-| **Coordinator** | MAYA SYKES |
-| **Created by** | BRUCE NASH |
-| **Director of Clearance** | JERIANNE KEANEY |
-| **Director of Research** | TERRENCE HARTWELL |
-| **Editor** | SCOT KELLY |
-| **Executive Producer** | DON CAMBOU |
-| **Executive Producers** | BETH DIETRICH-SEGARRA, MICHAEL STILLER |
-| **Field Audio** | CHAD BRYANT, JOHN DeMAIO, GERALD HARTLEY, BRANDON KAPPERT, JASON RICHMOND, CHARLES ROHR, MARTY ZIMMERMAN |
-| **Music** | GUY THOMAS |
-| **Narrator** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assist** | JOSHUA JANIAK |
-| **Post Producer** | TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Production Executive** | PAUL DZILVELIS |
-| **Production Manager** | SHELIA COLLINS |
-| **Programming Coordinator** | KRISTEN BURNS |
-| **Sound Mixer** | ERIK VALENZUELA |
-| **Supervising Producer** | RON NELSON |
-| **Technical Consultants** | PERRY BECKER, JASON CHAMBERLAIN, MM2 JAMES KASPER, RUSSELL STOEWE, JT TOMLINSON, LOU TRAVIS, GEORGE WRIGHT |
-| **Written and Produced by** | JIM HENSE |
+| **Accountants** | Sheridan Liu, Diana Stolpe |
+| **Additional Animation** | Adam Goodwin |
+| **Animation** | Victor Bornia |
+| **Assistant Editors** | Alexander Rubinow, Patrick Cashman |
+| **Associate Producer** | Lawrence Givens III |
+| **Asst Post Coordinator** | Gaylen Kobayashi |
+| **Camera** | Scott Bayer, Richard Beckman, Chris Bell, Aron Brown, Rob Gatti, Lon Magdich, John Reed |
+| **Clearance Coordinator** | Aaron Zober |
+| **Coordinator** | Maya Sykes |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
+| **Editor** | Scot Kelly |
+| **Executive Producer** | Don Cambou |
+| **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
+| **Field Audio** | Chad Bryant, JOHN DeMAIO, Gerald Hartley, Brandon Kappert, Jason Richmond, Charles Rohr, Marty Zimmerman |
+| **Music** | Guy Thomas |
+| **Narrator** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assist** | Joshua Janiak |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Executive** | Paul Dzilvelis |
+| **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Kristen Burns |
+| **Sound Mixer** | Erik Valenzuela |
+| **Supervising Producer** | Ron Nelson |
+| **Technical Consultants** | Perry Becker, Jason Chamberlain, Mm2 James Kasper, Russell Stoewe, Jt Tomlinson, Lou Travis, George Wright |
+| **Written And Produced By** | Jim Hense |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00616.md)

@@ -23,8 +23,8 @@
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Brad Skiles |
 | **Created By** | Bruce Nash |
-| **Director of Clearance** | Katie Del Core |
-| **Director of Research** | Allison Boon |
+| **Director Of Clearance** | Katie Del Core |
+| **Director Of Research** | Allison Boon |
 | **Edited By** | Motoshi Wakabayashi |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Morgan Schmidt-Feng, James Lindsay, Scott Lyman, Chris Strollo, Paul Wustrack |
@@ -39,7 +39,7 @@
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Ed Thacker |
-| **Written and Produced by** | Jim Hense |
+| **Written And Produced By** | Jim Hense |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00562.md)

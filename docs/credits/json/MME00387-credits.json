@@ -7,70 +7,70 @@
     "Flashback Television",
     "The History Channel",
     "A&E Television Networks",
-    "JUMP DESIGN"
+    "Jump Design"
   ],
   "narrators": [
     "Max Raphael"
   ],
   "crew": {
+    "Associate Producer": [
+      "Nick Gillam-Smith"
+    ],
     "Camera": [
-      "DIMITRI KATSAITIS"
+      "Dimitri Katsaitis"
     ],
     "Camera Assistant": [
-      "ALEXIS VOUTSINAS"
-    ],
-    "Sound": [
-      "DIMITRIS FANDAKIS"
+      "Alexis Voutsinas"
     ],
     "Dubbing Mixer": [
-      "NIGEL READ"
-    ],
-    "On-line Editor": [
-      "SUE GIOVANNI"
-    ],
-    "Rostrum": [
-      "SIMON BEDFORD"
-    ],
-    "Graphics": [
-      "JUMP DESIGN"
-    ],
-    "Head of Production": [
-      "TIM BALL"
-    ],
-    "Production Accountant": [
-      "MARILYN FREEMAN"
-    ],
-    "Production Assistant": [
-      "NISHA PATEL"
-    ],
-    "Production Managers": [
-      "CLAIRE OTWAY",
-      "POLLY PLENDERLEITH"
+      "Nigel Read"
     ],
     "Editor": [
-      "GARETH JOHNSON"
-    ],
-    "Associate Producer": [
-      "NICK GILLAM-SMITH"
+      "Gareth Johnson"
     ],
     "Executive Producer": [
-      "TAYLOR DOWNING"
+      "Taylor Downing"
+    ],
+    "Graphics": [
+      "Jump Design"
+    ],
+    "Head Of Production": [
+      "Tim Ball"
     ],
     "Location Director": [
-      "COLIN BARRATT"
+      "Colin Barratt"
     ],
-    "Produced & Directed by": [
-      "SIAN WILLIAMS"
-    ],
-    "Produced by": [
-      "Flashback Television for The History Channel"
+    "Music": [
+      "Ian Lynn",
+      "Alison Taylor"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Music": [
-      "IAN LYNN",
-      "ALISON TAYLOR"
+    "On-Line Editor": [
+      "Sue Giovanni"
+    ],
+    "Produced &amp; Directed By": [
+      "Sian Williams"
+    ],
+    "Produced By": [
+      "Flashback Television for The History Channel"
+    ],
+    "Production Accountant": [
+      "Marilyn Freeman"
+    ],
+    "Production Assistant": [
+      "Nisha Patel"
+    ],
+    "Production Managers": [
+      "Claire Otway",
+      "Polly Plenderleith"
+    ],
+    "Rostrum": [
+      "Simon Bedford"
+    ],
+    "Sound": [
+      "Dimitris Fandakis"
     ]
   }
 }

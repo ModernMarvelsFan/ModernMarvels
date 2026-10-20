@@ -4,122 +4,119 @@
   "year": "2005",
   "copyright": "© 2005 A&E Television Network All Rights Reserved",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions",
-    "RED GYPSY ANIMATION",
-    "ALAN ETT MUSIC GROUP"
+    "Red Gypsy Animation",
+    "Alan Ett Music Group"
   ],
   "narrators": [
-    "MIKKI DEL MONICO",
-    "MAX RAPHAEL"
+    "Mikki Del Monico",
+    "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "TIM KNAUFF"
-    ],
-    "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ANTHONY LACQUES"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
     "Accountant": [
-      "SHERIDAN LIU"
+      "Sheridan Liu"
     ],
-    "Coordinators": [
-      "MELINDA ESQUIBEL",
-      "BRAD SKILES"
-    ],
-    "Researchers": [
-      "MIKKI DEL MONICO",
-      "JOHN KNAPP",
-      "SEAN HECKMAN",
-      "TOM BARCLAY"
-    ],
-    "Clearance Coordinator": [
-      "D.W. BLAKESLEE"
-    ],
-    "Voice Over Coordinator": [
-      "MIKKI DEL MONICO"
+    "Animation By": [
+      "Red Gypsy Animation"
     ],
     "Assistant Editors": [
-      "LAURA STEINHOFF",
-      "JOSH BECKHAM"
+      "Laura Steinhoff",
+      "Josh Beckham"
     ],
     "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
-    ],
-    "Post Assistant": [
-      "GAYLEN KOBAYASHI"
+      "Alexander Rubinow"
     ],
     "Camera": [
-      "CRAIG J. CAMPBELL",
-      "MICHAEL FORD",
-      "ROBERT MARK",
+      "Craig J. Campbell",
+      "Michael Ford",
+      "Robert Mark",
       "ROBERT McWILLIAMS",
-      "JOHN PALUZZI",
-      "WARREN WATSON",
-      "PAUL YOUNG"
+      "John Paluzzi",
+      "Warren Watson",
+      "Paul Young"
     ],
-    "Field Audio": [
-      "BRYAN BAETA",
-      "JOE BIESTERFELD",
-      "JOHN BOGLEY",
-      "DANIEL COOK",
-      "ERIC KRUIZE",
-      "BERNIE OZEL",
-      "GLEN PIEGARI"
+    "Clearance Coordinator": [
+      "D.W. Blakeslee"
     ],
-    "Online Editor": [
-      "JOHN PRICE"
+    "Clearance Supervisor": [
+      "Katie Del Core"
     ],
-    "Sound Mixer": [
-      "ED THACKER"
+    "Coordinators": [
+      "Melinda Esquibel",
+      "Brad Skiles"
     ],
-    "Animation by": [
-      "RED GYPSY ANIMATION"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Historical Consultants": [
-      "DORAN CART",
-      "MALCOLM MUIR",
-      "IVAN OELRICH"
+    "Director Of Research": [
+      "Anthony Lacques"
     ],
-    "Produced by": [
-      "ACTUALITY PRODUCTIONS, INC.",
-      "History Television Network Productions"
-    ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
+    "Edited By": [
+      "Robert Lattanzio"
     ],
     "Executive Producer": [
-      "DON CAMBOU"
+      "Beth Dietrich-Segarra"
     ],
-    "Written and Produced by": [
-      "W. SCOTT GOLDIE"
+    "Field Audio": [
+      "Bryan Baeta",
+      "Joe Biesterfeld",
+      "John Bogley",
+      "Daniel Cook",
+      "Eric Kruize",
+      "Bernie Ozel",
+      "Glen Piegari"
+    ],
+    "Historical Consultants": [
+      "Doran Cart",
+      "Malcolm Muir",
+      "Ivan Oelrich"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
     ],
-    "Edited by": [
-      "ROBERT LATTANZIO"
+    "Music By": [
+      "Alan Ett Music Group"
     ],
-    "Narrated by": [
-      "MAX RAPHAEL"
+    "Narrated By": [
+      "Max Raphael"
     ],
-    "Music by": [
-      "ALAN ETT MUSIC GROUP"
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistant": [
+      "Gaylen Kobayashi"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc.",
+      "History Television Network Productions"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Mikki Del Monico",
+      "John Knapp",
+      "Sean Heckman",
+      "Tom Barclay"
+    ],
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
+    ],
+    "Written And Produced By": [
+      "W. Scott Goldie"
     ]
   }
 }

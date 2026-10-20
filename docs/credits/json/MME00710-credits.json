@@ -1,88 +1,85 @@
 {
   "episodeId": "MME00710",
   "title": "Mega Weapon Countdown",
-  "year": "2013",
+  "year": "2012",
   "copyright": "© 2012 A&E TELEVISION NETWORKS. ALL RIGHTS RESERVED",
   "studios": [
     "Half Yard Productions",
-    "MVI POST"
+    "Mvi Post"
   ],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "Narrator": [
-      "MAX RAPHAEL"
+    "Associate Producer": [
+      "Natalie Pitcher"
     ],
-    "Music": [
-      "AUDIO NETWORK",
-      "EXTREME"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Online Editor/Colorist": [
-      "MATT DOE"
-    ],
-    "Sound Design & Mix": [
-      "MVI POST"
-    ],
-    "Sound Editors": [
-      "FRANK SCHEURING",
-      "CHARLES SOVEK"
-    ],
-    "Junior Editors": [
-      "MARC HINES",
-      "NADIA IZAKSON"
-    ],
-    "Graphics": [
-      "JAMES SULLIVAN"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Coordinators": [
-      "JAYE CALLAHAN",
-      "KAIT GALLAGHER"
-    ],
-    "Post Production Coordinator": [
-      "BEN SHUSTER"
-    ],
-    "Post Production Manager": [
-      "CAMERON YOUNG"
-    ],
-    "Production Managers": [
-      "SILVIA HOMES GAINES",
-      "JENNIFER PARTIN",
-      "BRIGITTA SHROYER"
-    ],
-    "Vice President of Finance": [
-      "ROSSANA O'HOP"
-    ],
-    "Head of Production": [
-      "JANICE MEZZETTI"
-    ],
-    "For A&E Television Network / Programming Coordinator": [
-      "DIVYA CHUNGI"
-    ],
-    "For A&E Television Network / Senior Producer": [
-      "CARTER FIGUEROA"
-    ],
-    "For A&E Television Network / Executive Producer": [
-      "JOHN VERHOFF"
-    ],
-    "Executive Producers": [
-      "SEAN GALLAGHER",
-      "ABBY GREENSFELDER"
+    "Edited By": [
+      "Matthew Tilley"
     ],
     "Executive Producer": [
-      "GREG SMITH"
+      "John Verhoff"
+    ],
+    "Executive Producers": [
+      "Sean Gallagher",
+      "Abby Greensfelder"
+    ],
+    "Programming Coordinator": [
+      "Divya Chungi"
+    ],
+    "Senior Producer": [
+      "Carter Figueroa"
+    ],
+    "Graphics": [
+      "James Sullivan"
+    ],
+    "Head Of Production": [
+      "Janice Mezzetti"
+    ],
+    "Junior Editors": [
+      "Marc Hines",
+      "Nadia Izakson"
+    ],
+    "Music": [
+      "Audio Network",
+      "Extreme"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Colorist": [
+      "Matt Doe"
+    ],
+    "Post Production Coordinator": [
+      "Ben Shuster"
+    ],
+    "Post Production Manager": [
+      "Cameron Young"
     ],
     "Producer": [
-      "ANNABELLE HESTER"
+      "Annabelle Hester"
     ],
-    "Edited by": [
-      "MATTHEW TILLEY"
+    "Production Coordinators": [
+      "Jaye Callahan",
+      "Kait Gallagher"
     ],
-    "Associate Producer": [
-      "NATALIE PITCHER"
+    "Production Managers": [
+      "Silvia Homes Gaines",
+      "Jennifer Partin",
+      "Brigitta Shroyer"
+    ],
+    "Sound Design &amp; Mix": [
+      "Mvi Post"
+    ],
+    "Sound Editors": [
+      "Frank Scheuring",
+      "Charles Sovek"
+    ],
+    "Vice President Of Finance": [
+      "Rossana O'Hop"
     ]
   }
 }

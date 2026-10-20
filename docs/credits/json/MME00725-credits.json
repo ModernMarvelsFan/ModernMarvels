@@ -8,21 +8,16 @@
   ],
   "narrators": [],
   "crew": {
-    "Directors of Photography": [
-      "Jeremy Borg",
-      "Peter Gordon",
-      "Michael Martin",
-      "Everette Motta",
-      "Rylan Scherer",
-      "Nate Spicer"
+    "1St Assistant Accountant": [
+      "Hayden McComas"
     ],
-    "Camera Operators": [
-      "Jon Chomiak",
-      "Peter Garafalo",
-      "Bill Holman",
-      "Mac Kotas"
+    "2Nd Assistant Accountant": [
+      "Samara Choit"
     ],
-    "Assistant Camera/Media Managers": [
+    "Administrative Assistant": [
+      "Zoe Resnick"
+    ],
+    "Media Managers": [
       "Elliott Ackerman",
       "Tracy Facelo",
       "Jared Hardy",
@@ -31,12 +26,14 @@
       "John Pope",
       "Steven Vargo"
     ],
-    "COVID Compliance Officers": [
-      "Brittany Agnew",
-      "Kasey Allison",
-      "Kaylin Althouse",
-      "Sarah Hunt",
-      "Leo Ramos"
+    "Assistant Editors": [
+      "Zac Ceccarelli",
+      "Jonathan A. Schwartz",
+      "Nicholas Sutera"
+    ],
+    "Associate Producers": [
+      "Malia Kobara",
+      "Margaux Moores-Tanvier"
     ],
     "Audio": [
       "Omar Barrazza",
@@ -46,116 +43,36 @@
       "Edmund Kasubinski",
       "Zack Thorpe"
     ],
-    "Production Assistants": [
-      "Chris Ahearn",
-      "John Bowling",
-      "Alyssa Evans",
-      "Peter Lewis",
-      "Kah'lil Newton",
-      "Thomas Ring"
-    ],
-    "Production Office Assistants": [
-      "Breanne Casucci",
-      "Allison Fennik"
-    ],
-    "Post Production Supervisor": [
-      "Kevin T. Fogarty"
-    ],
-    "Supervisor, Post Prod Media Ops": [
-      "Eric Fortier"
-    ],
-    "Post Prod Media Ops Tech": [
-      "Howard Chisolm"
-    ],
-    "Post Production Manager": [
-      "Helena Greenwald"
-    ],
-    "Graphics": [
-      "Monkeyhead"
-    ],
-    "Gear Rental": [
-      "DV Depot"
-    ],
-    "Post Production Facility": [
-      "Motion Picture Enterprises, Inc."
-    ],
-    "Online Producer": [
-      "Brian Street"
-    ],
-    "Online Editor and Colorist": [
-      "Andrew Esterly"
-    ],
     "Audio Mixer": [
       "Eric Stern"
     ],
-    "VO Record": [
-      "Guastella Sound"
+    "Covid Compliance Officers": [
+      "Brittany Agnew",
+      "Kasey Allison",
+      "Kaylin Althouse",
+      "Sarah Hunt",
+      "Leo Ramos"
     ],
-    "For HISTORY® Music Services": [
-      "Jennifer Insogna",
-      "Liz Morgan"
-    ],
-    "Lead Production Accountant": [
-      "Sophiya Banu"
-    ],
-    "1st Assistant Accountant": [
-      "Hayden McComas"
-    ],
-    "2nd Assistant Accountant": [
-      "Samara Choit"
-    ],
-    "Special Thanks": [
-      "In-N-Out Burgers",
-      "Ohio History Connection"
-    ],
-    "Original concept created by": [
-      "Bruce Nash"
-    ],
-    "Executive-in-Charge": [
-      "Patrice Andrews"
-    ],
-    "Supervising Producer": [
-      "Allie Breslin"
-    ],
-    "Line Producer": [
-      "Melissa Ray",
-      "Pamela Wagner"
-    ],
-    "Administrative Assistant": [
-      "Zoe Resnick"
-    ],
-    "Executive Producer": [
-      "Jim Pasquarella",
-      "Matthew J. Braley"
-    ],
-    "Programming Coordinator": [
-      "Celeste Amidon"
-    ],
-    "Executive Producers": [
-      "Steve Ascher",
-      "Kristy Sabat",
-      "Matt Pearl"
+    "Camera Operators": [
+      "Jon Chomiak",
+      "Peter Garafalo",
+      "Bill Holman",
+      "Mac Kotas"
     ],
     "Co-Executive Producer": [
       "Steven C. Lawrence"
     ],
-    "Host": [
-      "Adam Richman"
+    "Development Producers": [
+      "Keith Malone",
+      "Libby Segal"
     ],
-    "Supervising Field Producer": [
-      "Jon Jordan"
-    ],
-    "Story Producer": [
-      "Rakesh Nair"
-    ],
-    "Producers": [
-      "Alice Borrelli",
-      "Leslie Coffee",
-      "Paul Taggart"
-    ],
-    "Associate Producers": [
-      "Malia Kobara",
-      "Margaux Moores-Tanvier"
+    "Directors Of Photography": [
+      "Jeremy Borg",
+      "Peter Gordon",
+      "Michael Martin",
+      "Everette Motta",
+      "Rylan Scherer",
+      "Nate Spicer"
     ],
     "Editors": [
       "Mike Baron",
@@ -166,33 +83,116 @@
       "Jamie McCarthy",
       "Michael Newton"
     ],
-    "Assistant Editors": [
-      "Zac Ceccarelli",
-      "Jonathan A. Schwartz",
-      "Nicholas Sutera"
+    "Executive Producer": [
+      "Jim Pasquarella",
+      "Matthew J. Braley"
     ],
-    "Production Manager": [
-      "Shannon Silver"
+    "Executive Producers": [
+      "Steve Ascher",
+      "Kristy Sabat",
+      "Matt Pearl"
+    ],
+    "Executive-In-Charge": [
+      "Patrice Andrews"
+    ],
+    "For History® Music Services": [
+      "Jennifer Insogna",
+      "Liz Morgan"
+    ],
+    "Gear Rental": [
+      "DV Depot"
+    ],
+    "Graphics": [
+      "Monkeyhead"
+    ],
+    "Host": [
+      "Adam Richman"
+    ],
+    "Lead Production Accountant": [
+      "Sophiya Banu"
+    ],
+    "Line Producer": [
+      "Melissa Ray",
+      "Pamela Wagner"
+    ],
+    "Online Editor And Colorist": [
+      "Andrew Esterly"
+    ],
+    "Online Producer": [
+      "Brian Street"
+    ],
+    "Original Concept Created By": [
+      "Bruce Nash"
+    ],
+    "Post Prod Media Ops Tech": [
+      "Howard Chisolm"
+    ],
+    "Post Production Facility": [
+      "Motion Picture Enterprises, Inc."
+    ],
+    "Post Production Manager": [
+      "Helena Greenwald"
+    ],
+    "Post Production Supervisor": [
+      "Kevin T. Fogarty"
+    ],
+    "Producers": [
+      "Alice Borrelli",
+      "Leslie Coffee",
+      "Paul Taggart"
+    ],
+    "Production Assistants": [
+      "Chris Ahearn",
+      "John Bowling",
+      "Alyssa Evans",
+      "Peter Lewis",
+      "Kah'lil Newton",
+      "Thomas Ring"
     ],
     "Production Coordinators": [
       "Nicole Vuono",
       "Jasmine Jean"
     ],
-    "Development Producers": [
-      "Keith Malone",
-      "Libby Segal"
+    "Production Manager": [
+      "Shannon Silver"
     ],
-    "SVP, Production Operations": [
+    "Production Office Assistants": [
+      "Breanne Casucci",
+      "Allison Fennik"
+    ],
+    "Programming Coordinator": [
+      "Celeste Amidon"
+    ],
+    "Svp, Production Operations": [
       "Ed Russo"
     ],
-    "VP, Production Management": [
-      "Patricia Paredes Saez"
+    "Senior Director, Post Production": [
+      "Tom Matheu"
+    ],
+    "Special Thanks": [
+      "In-N-Out Burgers",
+      "Ohio History Connection"
+    ],
+    "Story Producer": [
+      "Rakesh Nair"
+    ],
+    "Supervising Field Producer": [
+      "Jon Jordan"
+    ],
+    "Supervising Producer": [
+      "Allie Breslin"
     ],
     "Supervising Producer, Post Production": [
       "Mike Giordano"
     ],
-    "Senior Director, Post Production": [
-      "Tom Matheu"
+    "Supervisor, Post Prod Media Ops": [
+      "Eric Fortier"
+    ],
+    "Vo Record": [
+      "Guastella Sound"
+    ],
+    "Vp, Production Management": [
+      "Patricia Paredes Saez"
     ]
   }
 }

@@ -8,42 +8,42 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Produced by / ACTUALITY PRODUCTIONS, INC., History Television Network Productions
-* **Narrator:** MAX RAPHAEL, JOHN KNAPP
+* **Narrator:** Max Raphael, John Knapp
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animated Stills by** | ADAM GOODWIN |
-| **Animation by** | GLENN TAKAKJIAN |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM, ALEXANDER RUBINOW |
-| **Assistant Post Coordinator** | GAYLEN KOBAYASHI |
-| **Associate Producers** | MELISSA FREEMAN, EMILY LAU |
-| **Camera** | LON MAGDICH, PIERRE MEUNIER, RICHARD NEILL, ERIC THORNTON, ZVONIMIR VIDUSIN |
-| **Clearance Coordinators** | LAWRENCE GIVENS III, AARON ZOBER |
-| **Coordinator** | BRAD SKILES |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ALLISON BOON |
-| **Director of Rights and Clearances** | KATIE DEL CORE |
-| **Edited by** | LOU LAPROCIDO |
-| **Executive Producer** | BETH DIETRICH-SEGARRA, DON CAMBOU |
-| **Field Audio** | BRUCE BROOKS, DAVE CURTIN, RYAN KLIMAS, JEFFREY KNUDSEN, ROBERT SURENBROEK |
-| **Historical Consultants** | BIO-DIESEL INDUSTRIES, CONAGRA FOODS, INC., DIAMOND FOODS, INC., GEORGE RAY McEACHERN, MAUNA LOA, PARAMOUNT FOODS, INC., GENE SPILLER |
-| **Music by** | GUY THOMAS |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Coordinator** | TERRENCE HARTWELL |
-| **Post Producer** | TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Accountant** | ANTHONY R. REYES |
-| **Production Controller** | DANI ESLIN |
-| **Production Executive** | PAUL DZILVELIS |
-| **Production Manager** | SHELIA COLLINS |
-| **Programming Coordinator** | MICHELE WILCOX |
-| **Researchers** | ULDIS BALODIS, JOHN KNAPP |
-| **Sound Mixer** | ED THACKER |
-| **Voice Over Coordinator** | JOHN KNAPP |
-| **Written and Produced by** | PHILIP KRUENER |
+| **Animated Stills By** | Adam Goodwin |
+| **Animation By** | Glenn Takakjian |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow |
+| **Assistant Post Coordinator** | Gaylen Kobayashi |
+| **Associate Producers** | Melissa Freeman, Emily Lau |
+| **Camera** | Lon Magdich, Pierre Meunier, Richard Neill, Eric Thornton, Zvonimir Vidusin |
+| **Clearance Coordinators** | Lawrence Givens III, Aaron Zober |
+| **Coordinator** | Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Director Of Rights And Clearances** | Katie Del Core |
+| **Edited By** | Lou Laprocido |
+| **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
+| **Field Audio** | Bruce Brooks, Dave Curtin, Ryan Klimas, Jeffrey Knudsen, Robert Surenbroek |
+| **Historical Consultants** | Bio-Diesel Industries, Conagra Foods, Inc., Diamond Foods, Inc., GEORGE RAY McEACHERN, Mauna Loa, Paramount Foods, Inc., Gene Spiller |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Coordinator** | Terrence Hartwell |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Accountant** | Anthony R. Reyes |
+| **Production Controller** | Dani Eslin |
+| **Production Executive** | Paul Dzilvelis |
+| **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Michele Wilcox |
+| **Researchers** | Uldis Balodis, John Knapp |
+| **Sound Mixer** | Ed Thacker |
+| **Voice Over Coordinator** | John Knapp |
+| **Written And Produced By** | Philip Kruener |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00534.md)

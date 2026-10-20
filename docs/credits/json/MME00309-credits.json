@@ -4,80 +4,80 @@
   "year": "2003",
   "copyright": "© 2003 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "GREYSTONE COMMUNICATIONS, INC.",
-    "THE HISTORY CHANNEL"
+    "Greystone Communications, Inc.",
+    "The History Channel"
   ],
   "narrators": [
-    "DAVE WALSH"
+    "Dave Walsh"
   ],
   "crew": {
-    "Researcher": [
-      "TROY BARBOUR"
-    ],
-    "General Counsel": [
-      "SHINAAN S. KRAKOWSKY"
-    ],
-    "Narrated by": [
-      "DAVE WALSH"
-    ],
-    "Post Production Supervisor": [
-      "JANICE BECH"
-    ],
-    "Post Production Coordinators": [
-      "TROY GURGANIOUS",
-      "JASON KAIFESH"
-    ],
-    "Main Title & Graphic Design": [
-      "CHRISTOPHER GAAL",
-      "DIGITAL REALITY"
-    ],
-    "Online/Composite Editor": [
-      "ROD DECKER"
+    "Assistant Avid Editors": [
+      "Keith Baker",
+      "Chris Worthington"
     ],
     "Assistant Director": [
-      "DONNA E. LUSITANA"
-    ],
-    "Assistant Avid Editors": [
-      "KEITH BAKER",
-      "CHRIS WORTHINGTON"
-    ],
-    "Asst. Prod. Coordinator": [
-      "DAVID M. RAMIREZ"
-    ],
-    "Production Assistants": [
-      "GARY HUBB",
-      "ANGEL MORENO"
-    ],
-    "Motion Control Operator": [
-      "JARED KING"
-    ],
-    "Controller": [
-      "ANIT CHAN"
-    ],
-    "Production Accountant": [
-      "VIVIAN SANTOS"
-    ],
-    "Field Camera": [
-      "KEVIN O'BRIEN",
-      "GREG RENTE",
-      "DON CIRILLO",
-      "TOM COLLINS"
-    ],
-    "Executive Producers": [
-      "CRAIG HAFFNER",
-      "DONNA E. LUSITANA"
-    ],
-    "Produced & Directed by": [
-      "ROBERT M. WISE"
-    ],
-    "Coordinating Producer": [
-      "LOUIS C. TARANTINO"
-    ],
-    "Editor": [
-      "KEVIN BROWNE"
+      "Donna E. Lusitana"
     ],
     "Associate Producer": [
-      "BO KOSTER"
+      "Bo Koster"
+    ],
+    "Asst. Prod. Coordinator": [
+      "David M. Ramirez"
+    ],
+    "Controller": [
+      "Anit Chan"
+    ],
+    "Coordinating Producer": [
+      "Louis C. Tarantino"
+    ],
+    "Editor": [
+      "Kevin Browne"
+    ],
+    "Executive Producers": [
+      "Craig Haffner",
+      "Donna E. Lusitana"
+    ],
+    "Field Camera": [
+      "Kevin O'Brien",
+      "Greg Rente",
+      "Don Cirillo",
+      "Tom Collins"
+    ],
+    "General Counsel": [
+      "Shinaan S. Krakowsky"
+    ],
+    "Main Title &amp; Graphic Design": [
+      "Christopher Gaal",
+      "Digital Reality"
+    ],
+    "Motion Control Operator": [
+      "Jared King"
+    ],
+    "Narrated By": [
+      "Dave Walsh"
+    ],
+    "Composite Editor": [
+      "Rod Decker"
+    ],
+    "Post Production Coordinators": [
+      "Troy Gurganious",
+      "Jason Kaifesh"
+    ],
+    "Post Production Supervisor": [
+      "Janice Bech"
+    ],
+    "Produced &amp; Directed By": [
+      "Robert M. Wise"
+    ],
+    "Production Accountant": [
+      "Vivian Santos"
+    ],
+    "Production Assistants": [
+      "Gary Hubb",
+      "Angel Moreno"
+    ],
+    "Researcher": [
+      "Troy Barbour"
     ]
   }
 }

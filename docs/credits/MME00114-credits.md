@@ -7,41 +7,41 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1999 & 2005 A&E Television Network All Rights Reserved`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Network
-* **Narrator:** MIKKI DEL MONICO
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions, A&E Television Network
+* **Narrator:** Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | JUDI MINITELLO, LINDA SCRIBNER, SHERIDAN LIU |
-| **Animation by** | RANDALL RICKERT |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Camera** | PAUL ALVAREZ, CHRISTOPHER BLANTON, LON MAGDICH, MARK MORRIS, DYLAN S. O'BRIEN, GEORGE ODELL, B.J. SCAHILL |
-| **Clearance Coordinator** | D.W. BLAKESLEE |
-| **Clearance Supervisors** | AMY TRAHANT, KATIE DEL CORE |
-| **Coordinators** | MELINDA ESQUIBEL, BRAD SKILES |
-| **Directors of Research** | BARRY HILL, ANTHONY LACQUES |
-| **Field Audio** | DAN PYKE, DAVE WASON, USMAN ZAIDI |
-| **Footage Consultant** | TED TROLL |
-| **Historical Consultant** | DAVID SCHWARTZ |
-| **Modern Marvels / Casino Tech** | GREG GOLDMAN |
-| **Modern Marvels / Casino Tech / Associate Producer** | GLORIA L. MORRIS |
-| **Modern Marvels / Casino Tech / Created by** | BRUCE NASH |
-| **Modern Marvels / Casino Tech / Executive Producer** | DON CAMBOU |
-| **Modern Marvels / Casino Tech / Line Producer** | PAUL DZILVELIS |
-| **Modern Marvels / Casino Tech / Producer** | BRUCE NASH |
-| **Modern Marvels / Casino Tech / Production Managers** | LINDA CLARK, SHELIA COLLINS |
-| **Modern Marvels / Casino Tech / Written and Produced by** | JEFF CONROY, BOB PETRELLA |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistant** | GAYLEN KOBAYASHI |
-| **Post Producers** | SCOTT BERKSON, TIM KNAUFF |
-| **Produced by** | ACTUALITY PRODUCTIONS, INC., History Television Network Productions |
-| **Production Controller** | DANI ESLIN |
-| **Researchers** | EMILY LAU, MIKKI DEL MONICO, SEAN HECKMAN, TOM BARCLAY |
-| **Sound Mixer** | ED THACKER |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
+| **Accountants** | Judi Minitello, Linda Scribner, Sheridan Liu |
+| **Animation By** | Randall Rickert |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Associate Producer** | Gloria L. Morris |
+| **Camera** | Paul Alvarez, Christopher Blanton, Lon Magdich, Mark Morris, Dylan S. O'Brien, George Odell, B.J. Scahill |
+| **Casino Tech** | Greg Goldman |
+| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Supervisors** | Amy Trahant, Katie Del Core |
+| **Coordinators** | Melinda Esquibel, Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Directors Of Research** | Barry Hill, Anthony Lacques |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Dan Pyke, Dave Wason, Usman Zaidi |
+| **Footage Consultant** | Ted Troll |
+| **Historical Consultant** | David Schwartz |
+| **Line Producer** | Paul Dzilvelis |
+| **Online Editor** | John Price |
+| **Post Assistant** | Gaylen Kobayashi |
+| **Post Producers** | Scott Berkson, Tim Knauff |
+| **Produced By** | Actuality Productions, Inc., History Television Network Productions |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Managers** | Linda Clark, Shelia Collins |
+| **Researchers** | Emily Lau, Mikki Del Monico, Sean Heckman, Tom Barclay |
+| **Sound Mixer** | Ed Thacker |
+| **Voice Over Coordinator** | Mikki Del Monico |
+| **Written And Produced By** | Jeff Conroy, Bob Petrella |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00114.md)

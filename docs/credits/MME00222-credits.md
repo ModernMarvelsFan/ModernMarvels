@@ -17,8 +17,8 @@
 | **Animation** | Victor Bornia |
 | **Assistant Production Accountant** | Linda Scribner |
 | **Camera** | Bud Kelly, Dylan S. O'Brien, Jesse Phinney |
+| **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Chuck Cocita |
-| **For The History Channel / Executive Producer** | Beth Dietrich-Segarra |
 | **Graphics** | Barry Hill |
 | **Online Editor** | David Rex |
 | **Post Production Assistant** | Montgomery Jesselton Kingsley |

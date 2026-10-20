@@ -10,42 +10,20 @@
     "Max Raphael"
   ],
   "crew": {
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Researcher": [
-      "Rick George"
-    ],
     "Accountants": [
       "Diana Stolpe",
       "Malia Marsh",
       "Leslie Pinkstaff"
     ],
-    "Coordinator": [
-      "Gregory Zide"
+    "Animated Stills": [
+      "Victor Bornia"
+    ],
+    "Animation": [
+      "Crazybridge Studios"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Nate Dusek"
-    ],
-    "Post Coordinator": [
-      "Gaylen Kobayashi"
-    ],
-    "VO Coordinator": [
-      "Rick George"
-    ],
-    "Field Producers": [
-      "Kaylan Eggert",
-      "Gloria M. Kruener"
     ],
     "Asst Post Coordinator": [
       "Cory Parker"
@@ -59,6 +37,21 @@
       "Stan Taylor",
       "Marty Zimmerman"
     ],
+    "Coordinator": [
+      "Gregory Zide"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Editor": [
+      "Brian Johnson"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Ryan Agostino",
       "Daniel Agustin",
@@ -68,17 +61,42 @@
       "Lori Mayer Smith",
       "Geoff Pennington"
     ],
+    "Field Producers": [
+      "Kaylan Eggert",
+      "Gloria M. Kruener"
+    ],
+    "Music": [
+      "Alan Ett Music Group"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "Crazybridge Studios"
+    "Post Coordinator": [
+      "Gaylen Kobayashi"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Rick George"
     ],
     "Sound Mixer": [
       "Nozomu Furuya-Hirota"
-    ],
-    "Animated Stills": [
-      "Victor Bornia"
     ],
     "Technical Consultants": [
       "Bay Ferries Limited",
@@ -88,29 +106,11 @@
       "Military Sealift Command",
       "Scripps Institution of Oceanography"
     ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Vo Coordinator": [
+      "Rick George"
     ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Melissa Fuller"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Editor": [
-      "Brian Johnson"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Music": [
-      "Alan Ett Music Group"
-    ],
-    "Created by": [
-      "Bruce Nash"
     ]
   }
 }

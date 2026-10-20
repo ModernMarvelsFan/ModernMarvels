@@ -21,10 +21,8 @@
 | **Co-Executive Producer** | Robert Twilley |
 | **Created By** | Bruce Nash |
 | **Edited By** | Brad Kurtz, Claudia Russell, Dave Whittle |
-| **Executive Producer** | Stephen Land |
+| **Executive Producer** | John Verhoff |
 | **Field Producers** | Eric Mazer, Randall Shuptrine |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Kelly Vorrasi |
 | **Graphics** | Elevation |
 | **Location Sound** | Tom Backus, Chris Gurney, Holly Sweet, Tony Kremer, Stuart McWhirter, Joe McCarter |
 | **Music** | Legativity |
@@ -34,6 +32,7 @@
 | **Post Producers** | Lily Li |
 | **Production Assistance** | Michelle Weiss, Jeremy Ashcraft |
 | **Production Manager** | Katie Young |
+| **Programming Coordinator** | Kelly Vorrasi |
 | **Senior Producer** | Lee Robinson |
 | **Supervising Producers** | Sharon Martin, Todd Moss |
 | **Writers** | Eric Mazer, Todd Moss |

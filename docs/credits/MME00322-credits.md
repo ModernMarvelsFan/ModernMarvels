@@ -7,41 +7,41 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY CHANNEL
-* **Narrator:** MAX RAPHAEL, BEATA GENIN
+* **Production Company:** Actuality Productions, Inc., The History Channel
+* **Narrator:** Max Raphael, Beata Genin
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Aerials** | PAUL BERTH, STEVE CASSIDY |
-| **Animation by** | GLENN TAKAKJIAN |
-| **Assistant Accountants** | LINDA SCRIBNER, DENNIS LUCIANI |
-| **Assistant Editor** | ERIC SIEVERING |
-| **Camera** | DAVID GEORES |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACQUES |
-| **Edited by** | JASON STEINBERG |
-| **Executive Producer** | BETH DIETRICH-SEGARRA, DON CAMBOU |
-| **Field Audio** | STEVE BLANCO |
-| **Historical Consultant** | JERRY WILKINSON |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | GUY THOMAS |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN L. PRICE |
-| **Post Assistant** | LAURA STEINHOFF |
-| **Post Coordinator** | DANNY KIM |
-| **Post Production Manager** | GARY REID |
-| **Producer** | BRUCE NASH |
+| **Aerials** | Paul Berth, Steve Cassidy |
+| **Animation By** | Glenn Takakjian |
+| **Assistant Accountants** | Linda Scribner, Dennis Luciani |
+| **Assistant Editor** | Eric Sievering |
+| **Camera** | David Geores |
+| **Clearance Supervisor** | Katie Del Core |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Jason Steinberg |
+| **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
+| **Field Audio** | Steve Blanco |
+| **Historical Consultant** | Jerry Wilkinson |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John L. Price |
+| **Post Assistant** | Laura Steinhoff |
+| **Post Coordinator** | Danny Kim |
+| **Post Production Manager** | Gary Reid |
+| **Producer** | Bruce Nash |
 | **Production Assistant** | ROSALYN McVAY |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | JAMES WISER |
-| **Production Manager** | KATHLENE EXNER RIZZOTTI |
-| **Sound Mixer** | PAUL RAY |
-| **Supervising Producer** | MARC FINNEGAN |
-| **Voice Over Coordinator** | BEATA GENIN |
-| **Written and Produced by** | NANCY OEY |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | James Wiser |
+| **Production Manager** | Kathlene Exner Rizzotti |
+| **Sound Mixer** | Paul Ray |
+| **Supervising Producer** | Marc Finnegan |
+| **Voice Over Coordinator** | Beata Genin |
+| **Written And Produced By** | Nancy Oey |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00322.md)

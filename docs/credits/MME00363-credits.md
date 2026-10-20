@@ -8,36 +8,36 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `PRODUCED BY ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL. © 2004 A&E Television Networks All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., The History Channel, A&E Television Networks
-* **Narrator:** MAX RAPHAEL, MELANIE PIPES
+* **Narrator:** Max Raphael, Melanie Pipes
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation by** | GLENN TAKAKJIAN |
-| **Assistant Accountants** | SHERIDAN LIU, DENNIS LUCIANI |
-| **Assistant Editor** | TAYLOR GREATHEAD |
-| **Camera** | BRANDON GREEN |
-| **Clearance Supervisor** | KATIE DEL CORE |
+| **Animation By** | Glenn Takakjian |
+| **Assistant Accountants** | Sheridan Liu, Dennis Luciani |
+| **Assistant Editor** | Taylor Greathead |
+| **Camera** | Brandon Green |
+| **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | ROSALYN McVAY |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACQUES |
-| **Edited by** | BRANDON GREEN |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Historical Consultant** | MIKE SHELLMAN |
-| **Music by** | GUY THOMAS |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | CHUCK CREWS |
-| **PRODUCED BY** | ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL |
-| **Post Assistant** | ALEXANDER RUBINOW |
-| **Post Coordinator** | LAURA STEINHOFF |
-| **Post Producer** | LAUREN LEVINE |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | JEFFERY PERKINS |
-| **Production Auditor** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researcher / Voice Over Coordinator** | MELANIE PIPES |
-| **Sound Mixer** | PAUL RAY |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Brandon Green |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Historical Consultant** | Mike Shellman |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | Chuck Crews |
+| **Post Assistant** | Alexander Rubinow |
+| **Post Coordinator** | Laura Steinhoff |
+| **Post Producer** | Lauren Levine |
+| **Produced By** | ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Jeffery Perkins |
+| **Production Auditor** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Melanie Pipes |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00363.md)

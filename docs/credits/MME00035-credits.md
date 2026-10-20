@@ -7,18 +7,18 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1996 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** A&E HOME VIDEO, THE HISTORY CHANNEL
+* **Production Company:** A&e Home Video, The History Channel
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | DOUG DE LUCA |
-| **Executive Producer** | BOB JAFFE |
-| **Senior Producer** | TIM BUSA |
-| **Supervising Producer** | BILL BRUMMEL |
-| **Written and Produced By** | DONALD SELLERS |
+| **Associate Producer** | Doug De Luca |
+| **Executive Producer** | Bob Jaffe |
+| **Senior Producer** | Tim Busa |
+| **Supervising Producer** | Bill Brummel |
+| **Written And Produced By** | Donald Sellers |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00035.md)

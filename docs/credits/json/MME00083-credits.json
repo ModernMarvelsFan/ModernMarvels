@@ -5,24 +5,33 @@
   "copyright": "© 1999 A&E Television Networks. All Rights Reserved.",
   "studios": [
     "Actuality Productions, Inc.",
-    "HISTORY",
+    "History",
     "A&E Television Networks"
   ],
   "narrators": [
     "Harlan Saperstein"
   ],
   "crew": {
-    "Production Manager": [
-      "Lisa Blackwood Hope"
+    "Animation": [
+      "Doug Whitney"
     ],
-    "Post Production Supervisor": [
-      "Scott Berkson"
+    "Assistant Editors": [
+      "Spencer Keimon",
+      "Stuart Brodlieb",
+      "Harris Cohen"
     ],
-    "Clearance Supervisor": [
-      "Leslie Anne Clark"
+    "Assistant Production Accountants": [
+      "Judi Minitello",
+      "Linda Scribner"
     ],
-    "Researcher": [
-      "Tracy Hood"
+    "Assistant To Don Cambou": [
+      "Tim Shell"
+    ],
+    "Associate Producer": [
+      "La Monte Westmoreland"
+    ],
+    "Audio Coordinator": [
+      "Derrick McDaniel"
     ],
     "Camera": [
       "Mike Simon",
@@ -31,80 +40,71 @@
       "Ed Springer",
       "David West"
     ],
+    "Clearance Supervisor": [
+      "Leslie Anne Clark"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Robert Potter"
+    ],
+    "Executive Producer": [
+      "Charlie Maday"
+    ],
     "Field Audio": [
       "James H. Davies",
       "Andrew Rovins",
       "Chris Weisbrod"
     ],
-    "Post Production Coordinator": [
-      "Leanne M. Anaya Reece"
+    "Line Producer": [
+      "Paul Dzilvelis"
     ],
-    "Assistant Editors": [
-      "Spencer Keimon",
-      "Stuart Brodlieb",
-      "Harris Cohen"
+    "Music By": [
+      "Alan Ett"
     ],
-    "Post Production Assistant": [
-      "Gary Reid"
-    ],
-    "Audio Coordinator": [
-      "Derrick McDaniel"
-    ],
-    "Sound Mixer": [
-      "Sam Kaufmann"
+    "Narrated By": [
+      "Harlan Saperstein"
     ],
     "Online Editor": [
       "David Rex"
     ],
+    "Post Production Assistant": [
+      "Gary Reid"
+    ],
+    "Post Production Coordinator": [
+      "Leanne M. Anaya Reece"
+    ],
+    "Post Production Supervisor": [
+      "Scott Berkson"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Eric Schaefer"
+    ],
     "Production Auditor": [
       "Dani Eslin"
     ],
-    "Assistant to Don Cambou": [
-      "Tim Shell"
-    ],
-    "Assistant Production Accountants": [
-      "Judi Minitello",
-      "Linda Scribner"
+    "Production Manager": [
+      "Lisa Blackwood Hope"
     ],
     "Production Secretary": [
       "Kathy Exner"
     ],
-    "Animation": [
-      "Doug Whitney"
+    "Researcher": [
+      "Tracy Hood"
     ],
-    "Production Assistant": [
-      "Eric Schaefer"
+    "Sound Mixer": [
+      "Sam Kaufmann"
     ],
     "Supervising Producer": [
       "Beth Dietrich",
       "Don Cambou"
     ],
-    "Executive Producer": [
-      "Charlie Maday"
-    ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Mary Wallace"
-    ],
-    "Associate Producer": [
-      "La Monte Westmoreland"
-    ],
-    "Edited by": [
-      "Robert Potter"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Narrated by": [
-      "Harlan Saperstein"
-    ],
-    "Line Producer": [
-      "Paul Dzilvelis"
-    ],
-    "Music by": [
-      "Alan Ett"
     ]
   }
 }

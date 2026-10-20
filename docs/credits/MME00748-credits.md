@@ -29,12 +29,12 @@
 | **Coordinating Producer** | Liv Fidler |
 | **Coordinators** | Brad Skiles, Maya Sykes |
 | **Created By** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Allison Boon |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Denny Thomas, Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller, John Verhoff, Jim Pasquarella, Brandy Crawford-Uriu, Steve Ascher, Matt Pearl, Kristy Sabat |
-| **Executive-in-Charge of Production** | Patrice Andrews |
+| **Executive-In-Charge Of Production** | Patrice Andrews |
 | **Field Audio** | Curt Britton, Danny Clayton, Chris Hall, Dennis Hamlin, Phillip Harris, Tom Staton, Phil Velasco |
 | **Finishing Associate Producer** | RT Smith Jr. |
 | **Graphics** | Ballast TV |
@@ -46,7 +46,7 @@
 | **Music** | Guy Thomas, The 100% Music Library, Extreme Music |
 | **Narration** | Lloyd Sherr |
 | **Online Editor** | John Price |
-| **Online Editor and Colorist** | Martin Behm |
+| **Online Editor And Colorist** | Martin Behm |
 | **Online Producer** | Brian Street |
 | **Post Coordinator** | Terrence Hartwell |
 | **Post Producer** | Ted Poole, Tim Knauff |
@@ -55,20 +55,20 @@
 | **Post-Production Facility** | Motion Picture Enterprises, Inc. |
 | **Post-Production Supervisor** | Allison Moser |
 | **Producer** | Bruce Nash |
+| **Production And Development Assistant** | Zoe Resnick |
 | **Production Controller** | Dani Eslin |
 | **Production Coordinator** | Ashley Scalf |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Kathy Williams, Shelia Collins |
-| **Production and Development Assistant** | Zoe Resnick |
 | **Programming Coordinator** | Adam Rosante |
-| **SVP, Production Operations** | Ed Russo |
 | **Senior Manager, Rights &amp; Clearances** | Elio Concepcion |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
 | **Supervising Producers** | Allie Breslin, Pat Nugent |
 | **Supervising Producers, Post-Production** | Helena Greenwald, Mike Giordano |
-| **VP, Production Management** | Patricia Paredes Saez |
-| **Written and Produced by** | Jim Hance |
+| **Svp, Production Operations** | Ed Russo |
+| **Vp, Production Management** | Patricia Paredes Saez |
+| **Written And Produced By** | Jim Hance |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00748.md)

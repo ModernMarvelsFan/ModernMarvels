@@ -23,13 +23,13 @@
 | **Camera Operators** | Will Start, Mike Silva, John Bair, Daniel McMullen, Chris Varner, Andrew Kleinschmidt, Preston Millhouse, Sam Cowan, Kenn Gonneville |
 | **Co-Executive Producer** | Steven C. Lawrence |
 | **Coordinators** | Brittany Agnew, Drew Brown, Isa Khan, Kate Korneychuk, Elizabeth Pannell, David Ulery |
-| **Directors of Photography** | Edwin Diaz, Doug Michaels, Keith Worthington, Ethan Pisz, Jeff Dolen, Peter Gordon, Scott Ruderman, Ryan McPherson |
+| **Directors Of Photography** | Edwin Diaz, Doug Michaels, Keith Worthington, Ethan Pisz, Jeff Dolen, Peter Gordon, Scott Ruderman, Ryan McPherson |
 | **Editors** | Michael Baron, John Rasmussen, Jimmy Higgins, Jordyn Bulger, Erin Hayden, Jeff Peltier, Nate Novero, Michael Newton |
 | **Executive Producer** | Matthew J. Braley, Adam Richman |
 | **Executive Producers** | Jim Pasquarella, Mary Donahue, Steve Ascher, Matt Pearl, Kristy Sabat |
-| **Executive-in-Charge of Production** | Patrice Andrews |
+| **Executive-In-Charge Of Production** | Patrice Andrews |
 | **Field Producers** | Michael Weber, Cherisse Parks, Brad Moore, Angela Carroll, David Scott McDougall |
-| **For HISTORY® Music Services** | Jennifer Insogna, Liz Morgan, Brice Dean |
+| **For History® Music Services** | Jennifer Insogna, Liz Morgan, Brice Dean |
 | **Graphics** | Monkeyhead, Ken Dayhoff |
 | **Host** | Adam Richman |
 | **Jr Production Coordinators** | Breanne Casucci |
@@ -42,10 +42,10 @@
 | **Media Manager** | Oral User, Stephen Matter |
 | **Media Operations Techs** | Howard Chisolm, Adam Perez |
 | **Music Courtesy Of** | Strike Audio, Audio Network, Signature Tracks, Gramoscope, Extreme Music |
-| **Online Editor and Colorist** | Marc Berliner |
+| **Online Editor And Colorist** | Marc Berliner |
 | **Online Producer** | Brian Street |
 | **Operations** | Ed Russo |
-| **Original concept created by** | Bruce Nash |
+| **Original Concept Created By** | Bruce Nash |
 | **Post Producer** | Gigi Abrantes |
 | **Post-Production Assistant** | Samantha Lochs |
 | **Post-Production Coordinator** | Denise McGillicuddy |
@@ -53,9 +53,9 @@
 | **Post-Production Manager** | Helena Greenwald |
 | **Post-Production Supervisors** | Kevin T. Fogarty, Ruth Horn-Axelrod |
 | **Producer** | Janine Leeds |
+| **Production And Development Assistant** | Zoe Resnick |
 | **Production Coordinators** | Jasmine Jean, Nicole Vuono |
 | **Production Manager** | Andrea Hildensperger |
-| **Production and Development Assistant** | Zoe Resnick |
 | **Programming Coordinator** | Celeste Amidon |
 | **Senior Director, Post-Production** | Tom Matheu |
 | **Senior Manager, Rights &amp; Clearances** | Elio Concepcion |

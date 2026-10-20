@@ -4,107 +4,107 @@
   "year": "1997",
   "copyright": "© 1997 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ALAN ETT MUSIC GROUP",
-    "RED GYSPY ANIMATION"
+    "Alan Ett Music Group",
+    "Red Gyspy Animation"
   ],
   "narrators": [
-    "MAX RAPHAEL",
-    "MIKKI DEL MONICO"
+    "Max Raphael",
+    "Mikki Del Monico"
   ],
   "crew": {
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "HOWARD DRATCH",
-      "RICHARD JONES"
-    ],
-    "Line Producer": [
-      "PAUL DZILVELIS"
-    ],
-    "Consulting Producer": [
-      "RON NELSON"
-    ],
-    "Associate Producers": [
-      "MATT KLEINMAN",
-      "CORRIE KAUFMAN"
-    ],
-    "Edited by": [
-      "JACK FOSTER",
-      "AREK HOPE"
-    ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Music by": [
-      "ALAN ETT MUSIC GROUP"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Director of Research": [
-      "ALLISON BOON"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
     "Accountants": [
-      "LINDA SCRIBNER",
-      "THIA KULMA",
-      "SHERIDAN LIU",
-      "LISA CASELLA",
-      "PAULETTE PANTOJA"
+      "Linda Scribner",
+      "Thia Kulma",
+      "Sheridan Liu",
+      "Lisa Casella",
+      "Paulette Pantoja"
     ],
-    "Researchers": [
-      "RICK BENAVIDES",
-      "MIKKI DEL MONICO",
-      "TOM BARCLAY",
-      "ULDIS BALODIS"
-    ],
-    "Coordinators": [
-      "MELINDA ESQUIBEL",
-      "TERRENCE HARTWELL",
-      "BRAD SKILES"
-    ],
-    "Voice Over Coordinator": [
-      "MIKKI DEL MONICO"
+    "Animation By": [
+      "Red Gyspy Animation"
     ],
     "Assistant Editors": [
-      "LAURA STEINHOFF",
-      "JOSH BECKHAM"
+      "Laura Steinhoff",
+      "Josh Beckham"
     ],
     "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
+      "Alexander Rubinow"
     ],
-    "Post Assistant": [
-      "GAYLEN KOBAYASHI"
+    "Associate Producers": [
+      "Matt Kleinman",
+      "Corrie Kaufman"
     ],
     "Camera": [
-      "PHIL DIXON",
-      "MIKE HAMILTON",
-      "LON MAGDICH",
-      "B.J. SCAHILL",
-      "ED SPRINGER"
+      "Phil Dixon",
+      "Mike Hamilton",
+      "Lon Magdich",
+      "B.J. Scahill",
+      "Ed Springer"
+    ],
+    "Consulting Producer": [
+      "Ron Nelson"
+    ],
+    "Coordinators": [
+      "Melinda Esquibel",
+      "Terrence Hartwell",
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Edited By": [
+      "Jack Foster",
+      "Arek Hope"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
     ],
     "Field Audio": [
-      "TOM ECHLIN",
-      "JOHN PACKER",
-      "DAN PYKE"
-    ],
-    "Online Editor": [
-      "JOHN PRICE"
-    ],
-    "Sound Mixer": [
-      "ED THACKER"
-    ],
-    "Animation by": [
-      "RED GYSPY ANIMATION"
+      "Tom Echlin",
+      "John Packer",
+      "Dan Pyke"
     ],
     "Historical Consultant": [
-      "ERIC C. ORLEMANN"
+      "Eric C. Orlemann"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistant": [
+      "Gaylen Kobayashi"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Researchers": [
+      "Rick Benavides",
+      "Mikki Del Monico",
+      "Tom Barclay",
+      "Uldis Balodis"
+    ],
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
+    ],
+    "Written And Produced By": [
+      "Howard Dratch",
+      "Richard Jones"
     ]
   }
 }

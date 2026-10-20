@@ -5,103 +5,103 @@
   "copyright": "© 2011 A&E TELEVISION NETWORKS. ALL RIGHTS RESERVED.",
   "studios": [],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "Field Producers": [
-      "FRENCH HORWITZ",
-      "JOANNA MCGUIRE",
-      "KELLY TUCKER",
-      "MARK YOUNG"
-    ],
-    "Associate Producers": [
-      "CHRISTINA ARELLANO",
-      "ARJUN V. RAO",
-      "AMBER SEYLER"
-    ],
-    "Researcher": [
-      "ANN GRAU DUVALL"
-    ],
-    "Directors of Photography": [
-      "HOSSAM ABOULMAGD",
-      "DALLAS CHILDERS",
-      "DALE GREEN",
-      "BRIAN HAMM",
-      "STEPHEN HARRISON",
-      "JERRY HENRY",
-      "DUANE POQUIS"
-    ],
-    "Sound": [
-      "CINDY BARCHUS",
-      "MATTHEW J. ENGEL",
-      "MARK MARIACA",
-      "AARON MUNCY"
-    ],
-    "Fixer": [
-      "TERRI THRUSH"
-    ],
-    "Production Assistant/Driver - Panama": [
-      "RENEE ZUNIGA"
-    ],
-    "Music": [
-      "AUDIO NETWORKS",
-      "EXTREME MUSIC",
-      "PRODUKT SOUND"
-    ],
-    "Sound Design": [
-      "TAKOMA MEDIA"
-    ],
-    "Online Editor/Colorist": [
-      "MATT DOE"
-    ],
-    "Narrator": [
-      "MAX RAPHAEL"
-    ],
-    "Digitizer": [
-      "MARCIA ROBUSTO"
-    ],
     "Assistant Editors": [
-      "ADAM KIRK",
-      "WANAKHAVI WAKHISI"
-    ],
-    "Graphics": [
-      "DAVE GLANZ",
-      "PERCOLATE DIGITAL"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Coordinator": [
-      "TAINESA DAVIS"
-    ],
-    "Production Manager": [
-      "JENNIFER PARTIN"
-    ],
-    "Production Accountant": [
-      "ROSSANA O'HOP"
-    ],
-    "Post Production Supervisor": [
-      "LIAM MONSCHEIN"
-    ],
-    "Post Production Coordinator": [
-      "CAMERON YOUNG"
+      "Adam Kirk",
+      "Wanakhavi Wakhisi"
     ],
     "Associate Producer": [
-      "SARAH ROONEY"
+      "Sarah Rooney"
     ],
-    "Executive Producers": [
-      "SEAN GALLAGHER",
-      "ABBY GREENSFELDER",
-      "LIBBY RICHMAN"
+    "Associate Producers": [
+      "Christina Arellano",
+      "Arjun V. Rao",
+      "Amber Seyler"
     ],
-    "Series Producer": [
-      "BRIAN LEONARD"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Producer": [
-      "ANNABELLE HESTER"
+    "Digitizer": [
+      "Marcia Robusto"
+    ],
+    "Directors Of Photography": [
+      "Hossam Aboulmagd",
+      "Dallas Childers",
+      "Dale Green",
+      "Brian Hamm",
+      "Stephen Harrison",
+      "Jerry Henry",
+      "Duane Poquis"
     ],
     "Editor": [
-      "JUDD FISCHER"
+      "Judd Fischer"
+    ],
+    "Executive Producers": [
+      "Sean Gallagher",
+      "Abby Greensfelder",
+      "Libby Richman"
+    ],
+    "Field Producers": [
+      "French Horwitz",
+      "Joanna McGuire",
+      "Kelly Tucker",
+      "Mark Young"
+    ],
+    "Fixer": [
+      "Terri Thrush"
+    ],
+    "Graphics": [
+      "Dave Glanz",
+      "Percolate Digital"
+    ],
+    "Music": [
+      "Audio Networks",
+      "Extreme Music",
+      "Produkt Sound"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Colorist": [
+      "Matt Doe"
+    ],
+    "Post Production Coordinator": [
+      "Cameron Young"
+    ],
+    "Post Production Supervisor": [
+      "Liam Monschein"
+    ],
+    "Producer": [
+      "Annabelle Hester"
+    ],
+    "Production Accountant": [
+      "Rossana O'Hop"
+    ],
+    "Driver - Panama": [
+      "Renee Zuniga"
+    ],
+    "Production Coordinator": [
+      "Tainesa Davis"
+    ],
+    "Production Manager": [
+      "Jennifer Partin"
+    ],
+    "Researcher": [
+      "Ann Grau Duvall"
+    ],
+    "Series Producer": [
+      "Brian Leonard"
+    ],
+    "Sound": [
+      "Cindy Barchus",
+      "Matthew J. Engel",
+      "Mark Mariaca",
+      "Aaron Muncy"
+    ],
+    "Sound Design": [
+      "Takoma Media"
     ]
   }
 }

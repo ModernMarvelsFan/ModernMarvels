@@ -14,46 +14,11 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
+    "Animated Photos By": [
+      "Adam Goodwin"
     ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Rights and Clearances": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Production Accountant": [
-      "Anthony R. Reyes"
-    ],
-    "Researchers": [
-      "Uldis Balodis",
-      "John Knapp"
-    ],
-    "Coordinator": [
-      "Brad Skiles"
-    ],
-    "Clearance Coordinators": [
-      "Lawrence Givens III",
-      "Aaron Zober"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
-    ],
-    "Voice Over Coordinator": [
-      "John Knapp"
+    "Animation By": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -62,6 +27,9 @@
     ],
     "Assistant Post Coordinator": [
       "Gaylen Kobayashi"
+    ],
+    "Associate Producer": [
+      "Corrie Kaufman"
     ],
     "Camera": [
       "Bryan Baird",
@@ -72,6 +40,29 @@
       "David Rutherford",
       "Charles Tudor"
     ],
+    "Clearance Coordinators": [
+      "Lawrence Givens III",
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Director Of Rights And Clearances": [
+      "Katie Del Core"
+    ],
+    "Edited By": [
+      "Motoshi Wakabayashi"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra",
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Dave Berliner",
       "Bob Boccaccio",
@@ -81,47 +72,56 @@
       "Jo Richardson",
       "Dani Sleiman"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Mark Jensen"
-    ],
-    "Animation by": [
-      "Victor Bornia"
-    ],
-    "Animated Photos by": [
-      "Adam Goodwin"
-    ],
     "Historical Consultants": [
       "Dennis M. Manos, PhD",
       "Boyd A. Mueller, PhD",
       "Kenneth Schwarz"
     ],
-    "Programming Coordinator": [
-      "Michele Wilcox"
-    ],
-    "Executive Producer": [
-      "Beth Dietrich-Segarra",
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Noah Morowitz"
-    ],
     "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "Associate Producer": [
-      "Corrie Kaufman"
+    "Music By": [
+      "Guy Thomas"
     ],
-    "Edited by": [
-      "Motoshi Wakabayashi"
-    ],
-    "Narrated by": [
+    "Narrated By": [
       "Max Raphael"
     ],
-    "Music by": [
-      "Guy Thomas"
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Anthony R. Reyes"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Programming Coordinator": [
+      "Michele Wilcox"
+    ],
+    "Researchers": [
+      "Uldis Balodis",
+      "John Knapp"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
+    ],
+    "Written And Produced By": [
+      "Noah Morowitz"
     ]
   }
 }

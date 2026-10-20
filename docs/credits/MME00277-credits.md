@@ -14,38 +14,38 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **ANIMATION** | John Richardson, KMP &amp; Associates |
-| **ARCHIVIST** | Nilda Pergola-Jensen |
-| **ASSISTANT PRODUCTION ACCOUNTANT** | Linda Scribner |
-| **CAMERA** | Peter Krajewski, Jesse Phinney, Rich Raney |
-| **CLEARANCE ASSISTANT** | Gabe Martinez |
-| **CLEARANCE SUPERVISOR** | Katie Del Core |
-| **CONSULTING PRODUCER** | Henry Schipper |
-| **CREATED BY** | Bruce Nash |
-| **DIRECTOR OF RESEARCH** | Hilde Katibah |
-| **EDITED BY** | Sean Dash, Julian Gomez |
-| **EXECUTIVE PRODUCER** | Don Cambou |
-| **FIELD AUDIO** | Jarred Abalos |
-| **FOOTAGE CONSULTANT** | Ted Troll |
-| **GRAPHICS** | Barry Hill |
-| **HISTORICAL CONSULTANT** | James N. Michel |
-| **LINE PRODUCER** | Paul Dzilvelis |
-| **MUSIC BY** | Alan Ett |
-| **NARRATED BY** | Max Raphael |
-| **ON-LINE EDITOR** | Richard Barry |
-| **POST PRODUCER** | Scott Berkson |
-| **POST PRODUCTION ASSISTANT** | Montgomery Jesselton Kingsley |
-| **POST PRODUCTION COORDINATOR** | Gary Reid |
-| **POST PRODUCTION SUPERVISOR** | Jason Steinberg |
-| **PRODUCER** | Bruce Nash |
-| **PRODUCTION ASSISTANTS** | Maryalice R. Aragon, Rasi Delgado |
-| **PRODUCTION AUDITOR** | Dani Eslin |
-| **PRODUCTION COORDINATOR** | Michael Z. Davis |
-| **PRODUCTION MANAGER** | Kathlene Exner |
-| **RESEARCHERS** | Mark Savage, Diane Wai |
-| **SOUND MIXER** | Paul Ray |
-| **VOICE OVER COORDINATOR** | Dawn Irwin |
-| **WRITTEN &amp; PRODUCED BY** | Nancy Oey |
+| **Animation** | John Richardson, KMP &amp; Associates |
+| **Archivist** | Nilda Pergola-Jensen |
+| **Assistant Production Accountant** | Linda Scribner |
+| **Camera** | Peter Krajewski, Jesse Phinney, Rich Raney |
+| **Clearance Assistant** | Gabe Martinez |
+| **Clearance Supervisor** | Katie Del Core |
+| **Consulting Producer** | Henry Schipper |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Hilde Katibah |
+| **Edited By** | Sean Dash, Julian Gomez |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Jarred Abalos |
+| **Footage Consultant** | Ted Troll |
+| **Graphics** | Barry Hill |
+| **Historical Consultant** | James N. Michel |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett |
+| **Narrated By** | Max Raphael |
+| **On-Line Editor** | Richard Barry |
+| **Post Producer** | Scott Berkson |
+| **Post Production Assistant** | Montgomery Jesselton Kingsley |
+| **Post Production Coordinator** | Gary Reid |
+| **Post Production Supervisor** | Jason Steinberg |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Maryalice R. Aragon, Rasi Delgado |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Michael Z. Davis |
+| **Production Manager** | Kathlene Exner |
+| **Researchers** | Mark Savage, Diane Wai |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Dawn Irwin |
+| **Written &amp; Produced By** | Nancy Oey |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00277.md)

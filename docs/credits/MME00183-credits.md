@@ -8,19 +8,19 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., Hearst Entertainment, The History Channel
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Consulting Producer** | HENRY SCHIPPER |
-| **Edited by** | AVI FISHER |
-| **Executive Producer** | DON CAMBOU |
-| **Line Producer** | PAUL DZILVELIS |
-| **Narrator** | MAX RAPHAEL |
-| **Produced by** | ANTHONY LACQUES |
-| **Written and Produced by** | CYNTHIA CROMPTON |
+| **Consulting Producer** | Henry Schipper |
+| **Edited By** | Avi Fisher |
+| **Executive Producer** | Don Cambou |
+| **Line Producer** | Paul Dzilvelis |
+| **Narrator** | Max Raphael |
+| **Produced By** | Anthony Lacques |
+| **Written And Produced By** | Cynthia Crompton |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00183.md)

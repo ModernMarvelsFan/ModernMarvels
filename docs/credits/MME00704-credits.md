@@ -14,7 +14,7 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **3D Animation by** | Percolate Digital |
+| **3D Animation By** | Percolate Digital |
 | **Additional Editing** | Guillermo Maco, Meredith Menio |
 | **Additional Graphics** | John Kerr |
 | **Assistant Camera** | Bobby Bruderle |
@@ -22,12 +22,12 @@
 | **Associate Producer** | Hannah Richardson |
 | **Associate Producers** | Philip Cloutier, Dan Elliot, Sarah Katz, Amber Seyler, Spencer Smith |
 | **Created By** | Bruce Nash |
-| **Directors of Photography** | Neil Barrett, Bob Cranston, Rob Featherstone, Thomas Jacobi, Gordy Waterman, Brett Wiley, Diana Wilmar |
+| **Directors Of Photography** | Neil Barrett, Bob Cranston, Rob Featherstone, Thomas Jacobi, Gordy Waterman, Brett Wiley, Diana Wilmar |
 | **Divemaster** | Eric Mycroft |
-| **Edited by** | Jamie Pickell |
+| **Edited By** | Jamie Pickell |
 | **Executive Producer** | Greg Smith |
 | **Executive Producers** | Sean Gallagher, Abby Greensfelder |
-| **Head of Production** | Janice Mezzetti |
+| **Head Of Production** | Janice Mezzetti |
 | **Intern** | Jeremy Weinreich |
 | **Junior Editors** | Nadia Izakson, Wanakhavi Wakhisi |
 | **Music** | Audio Network, Extreme, Produkt, Jinglepunks |
@@ -37,7 +37,7 @@
 | **Programming Coordinator** | Divya Chungi |
 | **Researchers** | Ann Duvall |
 | **Senior Producer** | Carter Figueroa |
-| **Written, Produced and Directed by** | Chris Sondreal |
+| **Written, Produced And Directed By** | Chris Sondreal |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00704.md)

@@ -7,21 +7,21 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, FLASHBACK TELEVISION
+* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, Flashback Television
 * **Narrator:** David Holt
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | LINDA K. CLARK |
-| **Edited By** | JACK FOSTER |
-| **Executive Producer** | DON CAMBOU |
-| **Narrated by** | David Holt |
-| **Narration Produced by** | FLASHBACK TELEVISION |
-| **PRODUCED BY** | ACTUALITY Productions, Inc. |
-| **Producer** | BRUCE NASH |
-| **Written and Produced by** | DAN JACKSON |
+| **Associate Producer** | Linda K. Clark |
+| **Edited By** | Jack Foster |
+| **Executive Producer** | Don Cambou |
+| **Narrated By** | David Holt |
+| **Narration Produced By** | Flashback Television |
+| **Produced By** | ACTUALITY Productions, Inc. |
+| **Producer** | Bruce Nash |
+| **Written And Produced By** | Dan Jackson |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00104.md)

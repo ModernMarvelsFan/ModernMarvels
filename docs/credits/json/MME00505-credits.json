@@ -19,16 +19,6 @@
       "Sheridan Liu",
       "Paulette Pantoja"
     ],
-    "Clearance Coordinators": [
-      "Lawrence Givens III",
-      "Aaron Zober"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
-    ],
-    "Voice Over Coordinator": [
-      "John Knapp"
-    ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham"
@@ -41,17 +31,24 @@
       "Mark Kochis",
       "Kurt Kuykendall"
     ],
+    "Clearance Coordinators": [
+      "Lawrence Givens III",
+      "Aaron Zober"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Linden Hudson",
       "Dave Petty",
       "Steve Scanzello",
       "Bart Shedron"
-    ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Ed Thacker"
     ],
     "Historical Consultants": [
       "Drew Malcomb",
@@ -60,30 +57,33 @@
       "Sara Risch",
       "Donald Rowson"
     ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written & Produced by": [
-      "Emily Lau",
-      "Gloria Morris"
-    ],
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Music by": [
+    "Music By": [
       "Alan Ett Music Group"
     ],
-    "Production Manager": [
-      "Shelia Collins"
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
     ],
     "Post Producer": [
       "Tim Knauff"
     ],
-    "Clearance Supervisor": [
-      "Katie Del Core"
+    "Production Manager": [
+      "Shelia Collins"
     ],
-    "Director of Research": [
-      "Allison Boon"
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
+    ],
+    "Written &amp; Produced By": [
+      "Emily Lau",
+      "Gloria Morris"
     ]
   }
 }

@@ -19,13 +19,11 @@
 | **Assistant Editors** | Alexander Rubinow, Nate Dusek |
 | **Asst Post Coordinator** | Gaylen Kobayashi |
 | **Camera** | James Alario, Robert Brunk, Scott Kilian, Bryan Maslin, Tom Pakulski, Jim Petit, Adam Sampson, Steve Van Osdale, Zvonimir “Z” Vidusin |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
 | **Editor** | Lou LaProcido |
-| **Executive Producer** | Don Cambou |
+| **Executive Producer** | John Verhoff |
 | **Field Audio** | Aaron Austin, Douglas Burton, Dan Cook, Andre Logan, Mark Mostad, Geoff Pennington, Phil Sirois, Kem Stralka |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Adam Rosante |
 | **Music** | AMI Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
@@ -36,11 +34,12 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Researcher** | Kyle Salners |
 | **Sound Mixer** | Nozomu Furuya-Hirota |
 | **Supervising Producer** | Ron Nelson |
 | **Technical Consultants** | B&amp;G Foods, Inc., CHS, Inc., Kelley Bean Company |
-| **Written and Produced by** | Jeff Mercer |
+| **Written And Produced By** | Jeff Mercer |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00665.md)

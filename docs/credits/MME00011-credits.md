@@ -7,33 +7,33 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1995 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** JIM KEESHEN PRODUCTIONS
-* **Narrator:** MAX RAPHEAL
+* **Production Company:** Jim Keeshen Productions
+* **Narrator:** Max Rapheal
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Accountant** | JORI ESPINOSA |
-| **Co-Producer** | JEFF SCHEFTEL |
-| **Coordinating Producer** | TIM BUSA |
-| **Created by** | BRUCE NASH |
-| **Edited by** | GREG CLAUSEN, BILL ROSADO, EMILY SCHEIBLE |
-| **Executive Assistant to Mr. Jaffe** | JAMIE M. JENSEN |
-| **Executive Producer** | BOB JAFFE |
-| **Executive Producer for Hearst** | GERALD W. ABRAMS |
-| **Executive in Charge of Production** | MEL A. BISHOP |
-| **Motion Control** | JIM KEESHEN PRODUCTIONS |
-| **Music by** | SCOTT PAGE-PAGTER, JOHN VALENTINO |
-| **Narrator** | MAX RAPHEAL |
-| **Post Production Assistant** | MARC CEBRIAN |
-| **Post Production Coordinator** | KAREN S. MEISSNER |
-| **Producers** | BRUCE NASH, MICHAEL SKALICKY |
-| **Production Accountant** | WENDY PRICE |
-| **Production Assistants** | JAMES D. WOOD, LORI GRAY COSTAS, HOLLY CADE CULHANE |
-| **Production Manager** | TAMMY WOOD |
-| **Researcher** | TOM HUCKABEE |
-| **Written and Produced by** | ANDY THOMAS |
+| **Assistant Accountant** | Jori Espinosa |
+| **Co-Producer** | Jeff Scheftel |
+| **Coordinating Producer** | Tim Busa |
+| **Created By** | Bruce Nash |
+| **Edited By** | Greg Clausen, Bill Rosado, Emily Scheible |
+| **Executive Assistant To Mr. Jaffe** | Jamie M. Jensen |
+| **Executive In Charge Of Production** | Mel A. Bishop |
+| **Executive Producer** | Bob Jaffe |
+| **Executive Producer For Hearst** | Gerald W. Abrams |
+| **Motion Control** | Jim Keeshen Productions |
+| **Music By** | Scott Page-Pagter, John Valentino |
+| **Narrator** | Max Rapheal |
+| **Post Production Assistant** | Marc Cebrian |
+| **Post Production Coordinator** | Karen S. Meissner |
+| **Producers** | Bruce Nash, Michael Skalicky |
+| **Production Accountant** | Wendy Price |
+| **Production Assistants** | James D. Wood, Lori Gray Costas, Holly Cade Culhane |
+| **Production Manager** | Tammy Wood |
+| **Researcher** | Tom Huckabee |
+| **Written And Produced By** | Andy Thomas |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00011.md)

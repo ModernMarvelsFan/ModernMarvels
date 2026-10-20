@@ -4,125 +4,125 @@
   "year": "2005",
   "copyright": "© 2005 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions"
   ],
   "narrators": [
-    "MAX RAPHAEL",
-    "JOHN KNAPP"
+    "Max Raphael",
+    "John Knapp"
   ],
   "crew": {
-    "Edited by": [
-      "MOTOSHI WAKABAYASHI"
-    ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Music by": [
-      "GUY THOMAS"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "TIM KNAUFF"
-    ],
-    "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ALLISON BOON"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
     "Accountants": [
-      "APRIL BROWN",
-      "SHERIDAN LIU",
-      "PAULETTE PANTOJA"
+      "April Brown",
+      "Sheridan Liu",
+      "Paulette Pantoja"
     ],
-    "Researchers": [
-      "ULDIS BALODIS",
-      "BRADLEY COMBEST",
-      "JOHN KNAPP"
+    "Additional Animation By": [
+      "Flyingblue Studio"
     ],
-    "Coordinators": [
-      "BONI OSMANI",
-      "BRAD SKILES"
+    "Animated Photos By": [
+      "Adam Goodwin"
     ],
-    "Clearance Coordinators": [
-      "LAWRENCE GIVENS III",
-      "AARON ZOBER"
-    ],
-    "Post Coordinator": [
-      "TERRENCE HARTWELL"
-    ],
-    "Voice Over Coordinator": [
-      "JOHN KNAPP"
+    "Animation By": [
+      "Tak Productions, Inc."
     ],
     "Assistant Editors": [
-      "LAURA STEINHOFF",
-      "JOSH BECKHAM"
+      "Laura Steinhoff",
+      "Josh Beckham"
     ],
     "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
-    ],
-    "Post Assistants": [
-      "GAYLEN KOBAYASHI",
-      "KEVIN McCARTNEY"
-    ],
-    "Camera": [
-      "PROSPERO BOZZO",
-      "LUIGI DELL'ELBA",
-      "LARRY M. FALK",
-      "JOHN KABASAKALIS",
-      "LON MAGDICH",
-      "PAUL NEAL"
-    ],
-    "Field Audio": [
-      "KYLE GALLAGHER",
-      "MORGAN SCHMIDT-FENG"
-    ],
-    "Online Editor": [
-      "JOHN PRICE"
-    ],
-    "Sound Mixer": [
-      "ED THACKER"
-    ],
-    "Animation by": [
-      "TAK PRODUCTIONS, INC."
-    ],
-    "Additional animation by": [
-      "FLYINGBLUE STUDIO"
-    ],
-    "Animated Photos by": [
-      "ADAM GOODWIN"
-    ],
-    "Historical Consultants": [
-      "JAMES CASEY",
-      "JAMES DE LAURIER",
-      "PETER C. DENT",
-      "MARK ROSHEIM"
-    ],
-    "Executive Producer": [
-      "BETH DIETRICH-SEGARRA",
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "PHILIP KRUENER"
-    ],
-    "Line Producer": [
-      "PAUL DZILVELIS"
+      "Alexander Rubinow"
     ],
     "Associate Producers": [
-      "DAVID BRADSTREET",
-      "JIM REEVES"
+      "David Bradstreet",
+      "Jim Reeves"
+    ],
+    "Camera": [
+      "Prospero Bozzo",
+      "Luigi Dell'Elba",
+      "Larry M. Falk",
+      "John Kabasakalis",
+      "Lon Magdich",
+      "Paul Neal"
+    ],
+    "Clearance Coordinators": [
+      "Lawrence Givens III",
+      "Aaron Zober"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Coordinators": [
+      "Boni Osmani",
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Edited By": [
+      "Motoshi Wakabayashi"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra",
+      "Don Cambou"
+    ],
+    "Field Audio": [
+      "Kyle Gallagher",
+      "Morgan Schmidt-Feng"
+    ],
+    "Historical Consultants": [
+      "James Casey",
+      "James De Laurier",
+      "Peter C. Dent",
+      "Mark Rosheim"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Guy Thomas"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistants": [
+      "Gaylen Kobayashi",
+      "KEVIN McCARTNEY"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Uldis Balodis",
+      "Bradley Combest",
+      "John Knapp"
+    ],
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
+    ],
+    "Written And Produced By": [
+      "Philip Kruener"
     ]
   }
 }

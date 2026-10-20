@@ -22,14 +22,12 @@
 | **Camera** | Rob Amato, Chris Bell, Paul Dougherty, Dan Lantz, Ed Kukla, George Odell, Jim Petit, Stan Taylor |
 | **Clearance Coordinator** | Kiana Moore |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Alexander Rubinow |
-| **Executive Producer** | Don Cambou |
+| **Executive Producer** | John Verhoff |
 | **Field Audio** | Daniel Agustin, Chad Bryant, Eric Golden, Michael Harvey, Gary Heimann, Geoff Pennington, Tom Staton, Dave Wason |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Adam Rosante |
 | **Music** | AMI Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
@@ -40,10 +38,11 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Researcher** | Joshua Janiak |
 | **Sound Mixer** | Paul Ray |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Allison Boon |
+| **Written And Produced By** | Allison Boon |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00651.md)

@@ -7,26 +7,26 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, THE HISTORY CHANNEL
+* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, The History Channel
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | GLENN TAKAJIAN |
-| **Assistant Editors** | HARRIS COHEN, GARY REID |
-| **Assistant Production Accountants** | LINDA SCRIBNER, FRANCIS RAMEY |
-| **Executive Producer** | CHARLIE MADAY |
-| **Footage Consultant** | TED TROLL |
-| **Online Editor** | DAVID REX |
-| **Post Production Assistant** | BRIAN VOLK |
-| **Post Production Coordinator** | JASON STEINBERG |
-| **Production Assistants** | MARYALICE R. ARAGON, GWENDOLYN MURPHY, JAMIE SCHOENBRUN |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Sound Mixer** | PAUL REY |
-| **Supervising Producer** | BETH DIETRICH |
+| **Animation** | Glenn Takajian |
+| **Assistant Editors** | Harris Cohen, Gary Reid |
+| **Assistant Production Accountants** | Linda Scribner, Francis Ramey |
+| **Executive Producer** | Charlie Maday |
+| **Footage Consultant** | Ted Troll |
+| **Online Editor** | David Rex |
+| **Post Production Assistant** | Brian Volk |
+| **Post Production Coordinator** | Jason Steinberg |
+| **Production Assistants** | Maryalice R. Aragon, Gwendolyn Murphy, Jamie Schoenbrun |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Sound Mixer** | Paul Rey |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00118.md)

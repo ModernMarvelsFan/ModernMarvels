@@ -22,14 +22,13 @@
 | **Camera** | Chris Bell, Robert Gaspard, Chad Grochowski, Sean Healey, Lon Magdich, Chad Miller, Jim Petit, Edward Seaton |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Gary Reid |
 | **Executive Producer** | Don Cambou |
+| **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Field Audio** | Mark Angelo, Chad Bryant, Danny Clayton, Jr., Dan Cook, Ryan Handey, Tom M. Staton, Rob Sumner |
-| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **For The History Channel / Programming Coordinator** | Emily MacDowell |
 | **Historical Consultant** | Dan McNichol |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
@@ -40,9 +39,10 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Emily MacDowell |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | W. Scott Goldie |
+| **Written And Produced By** | W. Scott Goldie |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00615.md)

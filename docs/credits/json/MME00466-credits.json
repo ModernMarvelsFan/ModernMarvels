@@ -9,34 +9,64 @@
     "Mikki Del Monico"
   ],
   "crew": {
-    "Line Producer": [
-      "Paul Dzilvelis"
-    ],
-    "Associate Producer": [
-      "Danielle Parsons"
-    ],
-    "Edited by": [
-      "Robert Latanzio"
-    ],
-    "Music by": [
-      "Guy Thomas"
-    ],
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
     "Accountants": [
       "Sheridan Liu",
       "Lisa Caselle",
       "Paulette Pantoja"
+    ],
+    "Animation By": [
+      "Red Gypsy Animation"
+    ],
+    "Assistant Editors": [
+      "Laura Steinhoff",
+      "Josh Beckham"
+    ],
+    "Associate Producer": [
+      "Danielle Parsons"
+    ],
+    "Camera": [
+      "John Belloch",
+      "John C. Davis",
+      "Lon Magdich",
+      "Doug Weisman",
+      "Marty Zimmerman"
+    ],
+    "Coordinators": [
+      "Melinda Esquibel",
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Edited By": [
+      "Robert Latanzio"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Field Audio": [
+      "Doug Farris",
+      "Ron Hyatt",
+      "Robert Neely",
+      "Jim Petit"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Guy Thomas"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Producer": [
+      "Bruce Nash"
     ],
     "Production Controller": [
       "Dani Eslin"
@@ -46,41 +76,11 @@
       "Tom Barclay",
       "Uldis Balodis"
     ],
-    "Coordinators": [
-      "Melinda Esquibel",
-      "Brad Skiles"
-    ],
-    "Voice Over Coordinator": [
-      "Mikki Del Monico"
-    ],
-    "Assistant Editors": [
-      "Laura Steinhoff",
-      "Josh Beckham"
-    ],
-    "Camera": [
-      "John Belloch",
-      "John C. Davis",
-      "Lon Magdich",
-      "Doug Weisman",
-      "Marty Zimmerman"
-    ],
-    "Field Audio": [
-      "Doug Farris",
-      "Ron Hyatt",
-      "Robert Neely",
-      "Jim Petit"
-    ],
-    "Online Editor": [
-      "John Price"
-    ],
     "Sound Mixer": [
       "Ed Thacker"
     ],
-    "Animation by": [
-      "Red Gypsy Animation"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
     ]
   }
 }

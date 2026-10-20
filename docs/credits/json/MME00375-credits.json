@@ -4,108 +4,105 @@
   "year": "2004",
   "copyright": "© 2004 A&E Television Networks All Rights Reserved.",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
-    "THE HISTORY CHANNEL"
+    "Actuality Productions, Inc.",
+    "The History Channel"
   ],
   "narrators": [
-    "MAX RAPHAEL",
-    "MELANIE PIPES"
+    "Max Raphael",
+    "Melanie Pipes"
   ],
   "crew": {
-    "Edited by": [
-      "SCOT KELLY"
-    ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Music by": [
-      "GUY THOMAS"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "LAUREN LEVINE"
-    ],
-    "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ANTHONY LACQUES"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
+    "Animation By": [
+      "Doug Whitney"
     ],
     "Assistant Accountants": [
-      "SHERIDAN LIU",
-      "DENNIS LUCIANI"
+      "Sheridan Liu",
+      "Dennis Luciani"
+    ],
+    "Assistant Editors": [
+      "Taylor Greathead",
+      "Alison Tusan"
+    ],
+    "Camera": [
+      "Bryan Donnell",
+      "Dan Fried",
+      "Tom Lorch",
+      "Dylan S. O'Brien",
+      "Ken Zukin"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
     ],
     "Coordinator": [
       "ROSALYN McVAY"
     ],
-    "Researcher / Voice Over Coordinator": [
-      "MELANIE PIPES"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Production Assistant": [
-      "JEFFERY PERKINS"
+    "Director Of Research": [
+      "Anthony Lacques"
     ],
-    "Assistant Editors": [
-      "TAYLOR GREATHEAD",
-      "ALISON TUSAN"
+    "Edited By": [
+      "Scot Kelly"
     ],
-    "Post Coordinator": [
-      "LAURA STEINHOFF"
-    ],
-    "Post Assistant": [
-      "ALEXANDER RUBINOW"
-    ],
-    "Camera": [
-      "BRYAN DONNELL",
-      "DAN FRIED",
-      "TOM LORCH",
-      "DYLAN S. O'BRIEN",
-      "KEN ZUKIN"
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
     ],
     "Field Audio": [
-      "CHARLES LORCH",
-      "ROBERT NEELY",
-      "CHRIS WESTON"
-    ],
-    "Online Editor": [
-      "CHUCK CREWS"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Animation by": [
-      "DOUG WHITNEY"
+      "Charles Lorch",
+      "Robert Neely",
+      "Chris Weston"
     ],
     "Historical Consultant": [
       "JAMES GOULD, Ph.D.",
       "LINNEA S. HALL, Ph.D.",
       "CHERYL HAYASHI, Ph.D.",
       "JOHN KLOTZ, Ph.D.",
-      "CHRIS LOGGERS",
+      "Chris Loggers",
       "WALTER R. TSCHINKEL, Ph.D",
       "P. KIRK VISSCHER, Ph.D."
     ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "ROBERT E. ZIEL"
-    ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Guy Thomas"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "Chuck Crews"
+    ],
+    "Post Assistant": [
+      "Alexander Rubinow"
+    ],
+    "Post Coordinator": [
+      "Laura Steinhoff"
+    ],
+    "Post Producer": [
+      "Lauren Levine"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Jeffery Perkins"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Voice Over Coordinator": [
+      "Melanie Pipes"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Written And Produced By": [
+      "Robert E. Ziel"
     ]
   }
 }

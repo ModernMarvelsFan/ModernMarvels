@@ -4,128 +4,125 @@
   "year": "2005",
   "copyright": "© 2005 A&E Television Network All Rights Reserved",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions",
-    "RED GYPSY ANIMATION",
-    "ALAN ETT MUSIC GROUP"
+    "Red Gypsy Animation",
+    "Alan Ett Music Group"
   ],
   "narrators": [
-    "MAX RAPHAEL",
-    "JOHN KNAPP"
+    "Max Raphael",
+    "John Knapp"
   ],
   "crew": {
-    "Edited by": [
-      "MOTOSHI WAKABAYASHI"
-    ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Music by": [
-      "ALAN ETT MUSIC GROUP"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "TIM KNAUFF"
-    ],
-    "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ALLISON BOON"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
     "Accountants": [
-      "SHERIDAN LIU",
-      "LISA CASELLA",
-      "PAULETTE PANTOJA"
+      "Sheridan Liu",
+      "Lisa Casella",
+      "Paulette Pantoja"
     ],
-    "Researchers": [
-      "ULDIS BALODIS",
-      "JOHN KNAPP"
+    "Animated Maps By": [
+      "Red Gypsy Animation"
     ],
-    "Coordinator": [
-      "BRAD SKILES"
-    ],
-    "Post Coordinator": [
-      "TERRENCE HARTWELL"
-    ],
-    "Voice Over Coordinator": [
-      "JOHN KNAPP"
+    "Animation By": [
+      "Randall Rickert"
     ],
     "Assistant Editors": [
-      "LAURA STEINHOFF",
-      "JOSH BECKHAM"
+      "Laura Steinhoff",
+      "Josh Beckham"
     ],
     "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
-    ],
-    "Post Assistants": [
-      "GAYLEN KOBAYASHI",
-      "KEVIN McCARTNEY"
-    ],
-    "Camera": [
-      "KENNETH DAY",
-      "KEVIN HARRINGTON",
-      "NORM JOHNSTON",
-      "JOHN KRAUS",
-      "LON MAGDICH",
-      "JULIO LUZQUINOS",
-      "MAURICIO JOSE DA SILVA"
-    ],
-    "Field Audio": [
-      "RODRIGO FREITAS",
-      "MATTHEW PINSON",
-      "THOM STATON",
-      "TIM WOLFE"
-    ],
-    "Online Editor": [
-      "JOHN PRICE"
-    ],
-    "Sound Mixer": [
-      "ED THACKER"
-    ],
-    "Animation by": [
-      "RANDALL RICKERT"
-    ],
-    "Animated Maps by": [
-      "RED GYPSY ANIMATION"
-    ],
-    "Historical Consultants": [
-      "CHARLES BAKER",
-      "ANDY BRISCOE",
-      "MAE NAKAHATA"
-    ],
-    "Produced by": [
-      "ACTUALITY PRODUCTIONS, INC.",
-      "History Television Network Productions"
-    ],
-    "For The History Channel / Supervising Producer": [
-      "DOUG GORDON"
-    ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "MARTIN KENT"
-    ],
-    "Line Producer": [
-      "PAUL DZILVELIS"
+      "Alexander Rubinow"
     ],
     "Associate Producer": [
-      "JEFF MERCER"
+      "Jeff Mercer"
+    ],
+    "Camera": [
+      "Kenneth Day",
+      "Kevin Harrington",
+      "Norm Johnston",
+      "John Kraus",
+      "Lon Magdich",
+      "Julio Luzquinos",
+      "Mauricio Jose Da Silva"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Edited By": [
+      "Motoshi Wakabayashi"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
+    "Field Audio": [
+      "Rodrigo Freitas",
+      "Matthew Pinson",
+      "Thom Staton",
+      "Tim Wolfe"
+    ],
+    "Supervising Producer": [
+      "Doug Gordon"
+    ],
+    "Historical Consultants": [
+      "Charles Baker",
+      "Andy Briscoe",
+      "Mae Nakahata"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistants": [
+      "Gaylen Kobayashi",
+      "KEVIN McCARTNEY"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc.",
+      "History Television Network Productions"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Uldis Balodis",
+      "John Knapp"
+    ],
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
+    ],
+    "Written And Produced By": [
+      "Martin Kent"
     ]
   }
 }

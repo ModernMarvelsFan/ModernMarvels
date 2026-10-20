@@ -14,24 +14,24 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation and Graphics** | DOUG WHITNEY |
-| **Assistant Editors** | STUART BRODLIEB, HARRIS COHEN |
-| **Assistant Production Accountants** | JUDI MINITELLO, LINDA SCRIBNER |
-| **Camera Operators** | DAN CARP, DAVE SPERLING |
-| **Clearance Coordinator** | RANDY PITLER |
-| **Clearance Supervisor** | AMY TRAHANT |
-| **Field Audio** | JUSTIN HEID |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Supervising Producer** | BETH DIETRICH |
-| **Online Editors** | DAVID REX, DAVID ANDERSON |
-| **Post Production Assistant** | GARY REID |
-| **Post Production Coordinator** | JASON STEINBERG |
-| **Production Assistants** | MARYALICE ARAGON, KEVIN CROWELL |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Receptionist** | MICHELE MATCHETT |
-| **Researchers** | BARRY HILL, ERIK HIETTER, EMILY LAU |
-| **Sound Mixer** | MIKE FORSLUND |
+| **Animation And Graphics** | Doug Whitney |
+| **Assistant Editors** | Stuart Brodlieb, Harris Cohen |
+| **Assistant Production Accountants** | Judi Minitello, Linda Scribner |
+| **Camera Operators** | Dan Carp, Dave Sperling |
+| **Clearance Coordinator** | Randy Pitler |
+| **Clearance Supervisor** | Amy Trahant |
+| **Executive Producer** | Charlie Maday |
+| **Field Audio** | Justin Heid |
+| **Online Editors** | David Rex, David Anderson |
+| **Post Production Assistant** | Gary Reid |
+| **Post Production Coordinator** | Jason Steinberg |
+| **Production Assistants** | Maryalice Aragon, Kevin Crowell |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Receptionist** | Michele Matchett |
+| **Researchers** | Barry Hill, Erik Hietter, Emily Lau |
+| **Sound Mixer** | Mike Forslund |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00099.md)

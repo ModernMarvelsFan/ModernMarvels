@@ -14,7 +14,7 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Executive Producer** | DON CAMBOU |
+| **Executive Producer** | Don Cambou |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00228.md)

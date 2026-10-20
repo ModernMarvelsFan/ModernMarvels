@@ -29,7 +29,7 @@
 | **Programming Coordinator** | Fatime Kaba |
 | **Sound Design &amp; Mix** | Nutmeg Post |
 | **Supervising Producer** | Ron Nelson |
-| **VP, Production Operations** | Ed Russo |
+| **Vp, Production Operations** | Ed Russo |
 | **Writer** | Ron Nelson |
 
 ---

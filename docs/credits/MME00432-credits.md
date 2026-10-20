@@ -8,38 +8,38 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions
-* **Narrator:** MIKKI DEL MONICO
+* **Narrator:** Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountant** | SHERIDAN LIU |
-| **Animation by** | RANDALL RICKERT |
-| **Assistant Editors** | LAURA STEINHOFF, MICHAEL BROOME |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Camera** | RODDY BIELLOCH, CHRIS CONNELL, BOB ELFSTROM, PAUL YOUNG |
-| **Clearance Coordinator** | D.W. BLAKESLEE |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACQUES |
-| **Edited by** | BARNEY ROBINSON |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | OWEN BISSELL, JOHN BOGLEY, MIKE BORMAN, DOUG FARRIS, JAMES HANLON, ALBERT NEMATOLLAHI, KEITH PEARSON, THOM STATON, DAVID WILLIAMS |
-| **Line Producer** | PAUL DZILVELIS |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistant** | GAYLEN KOBAYASHI |
-| **Post Producer** | TIM KNAUFF |
-| **Produced by** | Actuality Productions, Inc. |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | JEFFREY PERKINS |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHEILA COLLINS |
-| **Researchers** | SEAN HECKMAN, TOM BARCLAY |
-| **Sound Mixer** | PAUL RAY |
-| **Technical Consultants** | TERRY BENZEL, DONALD YEOMANS |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
-| **Written and Produced by** | W. SCOTT GOLDIE, ANTHONY LACQUES |
+| **Accountant** | Sheridan Liu |
+| **Animation By** | Randall Rickert |
+| **Assistant Editors** | Laura Steinhoff, Michael Broome |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Camera** | Roddy Bielloch, Chris Connell, Bob Elfstrom, Paul Young |
+| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Supervisor** | Katie Del Core |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Barney Robinson |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Owen Bissell, John Bogley, Mike Borman, Doug Farris, James Hanlon, Albert Nematollahi, Keith Pearson, Thom Staton, David Williams |
+| **Line Producer** | Paul Dzilvelis |
+| **Online Editor** | John Price |
+| **Post Assistant** | Gaylen Kobayashi |
+| **Post Producer** | Tim Knauff |
+| **Produced By** | Actuality Productions, Inc. |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Jeffrey Perkins |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Sheila Collins |
+| **Researchers** | Sean Heckman, Tom Barclay |
+| **Sound Mixer** | Paul Ray |
+| **Technical Consultants** | Terry Benzel, Donald Yeomans |
+| **Voice Over Coordinator** | Mikki Del Monico |
+| **Written And Produced By** | W. Scott Goldie, Anthony Lacques |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00432.md)

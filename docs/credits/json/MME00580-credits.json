@@ -13,32 +13,19 @@
     "Max Raphael"
   ],
   "crew": {
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Coordinators": [
-      "Brad Skiles",
-      "Maya Sykes"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
+    "Animation": [
+      "i.e. effects"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
       "Alexander Rubinow"
     ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
+    "Associate Producer": [
+      "Savas Georgalis"
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
@@ -52,6 +39,28 @@
       "Diane Wilmar",
       "John Kabasakalis"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinators": [
+      "Brad Skiles",
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Editor": [
+      "Motoshi Wakabayashi"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Dave Gulberg",
       "Charles Rohr",
@@ -60,60 +69,51 @@
       "Eric Reeves",
       "Thomas M. Staton"
     ],
-    "Online Editor": [
-      "John Price"
+    "Executive Producers": [
+      "Beth Dietrich-Segarra",
+      "Michael Stiller"
     ],
-    "Animation": [
-      "i.e. effects"
-    ],
-    "Sound Mixer": [
-      "Mark Jensen"
+    "Programming Coordinator": [
+      "Adam Rosante"
     ],
     "Historical Consultant": [
       "Thomas Adametz"
     ],
-    "For The History Channel / Programming Coordinator": [
-      "Adam Rosante"
-    ],
-    "For The History Channel / Executive Producers": [
-      "Beth Dietrich-Segarra",
-      "Michael Stiller"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Greg Goldman"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Savas Georgalis"
+    "Music": [
+      "Alan Ett Music Group"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Editor": [
-      "Motoshi Wakabayashi"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music": [
-      "Alan Ett Music Group"
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
     ],
     "Producer": [
       "Bruce Nash"
     ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
     "Production Manager": [
       "Shelia Collins"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Sound Mixer": [
+      "Mark Jensen"
     ],
-    "Post Producer": [
-      "Tim Knauff"
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "Greg Goldman"
     ]
   }
 }

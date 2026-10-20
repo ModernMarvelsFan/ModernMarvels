@@ -22,14 +22,13 @@
 | **Camera** | Dave Baker, Dan Lantz, John Kabasakalis, Lon Magdich, Bryan Maslin, Bob Sandefur, Ron Zimmerman |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Allison Boon |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
+| **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Field Audio** | David Amamoto, Allen Green, Terry Losurdo, Adrian Sam, Amy W. Sandefur, William Shackelton |
-| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **For The History Channel / Programming Coordinator** | Adam Rosante |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
@@ -39,10 +38,11 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
 | **Technical Consultant** | Robert Mikkelsen, PhD |
-| **Written and Produced by** | Greg DeHart |
+| **Written And Produced By** | Greg DeHart |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00589.md)

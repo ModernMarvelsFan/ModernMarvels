@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Actuality Productions, Inc., HISTORY, A&E Television Networks
+* **Production Company:** Actuality Productions, Inc., History, A&E Television Networks
 * **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -17,18 +17,18 @@
 | **Animation** | Doug Whitney |
 | **Assistant Editors** | Spencer Keimon, Stuart Brodlieb, Harris Cohen |
 | **Assistant Production Accountants** | Judi Minitello, Linda Scribner |
-| **Assistant to Don Cambou** | Tim Shell |
+| **Assistant To Don Cambou** | Tim Shell |
 | **Associate Producer** | La Monte Westmoreland |
 | **Audio Coordinator** | Derrick McDaniel |
 | **Camera** | Mike Simon, Thomas Snopek, Dave Sperling, Ed Springer, David West |
 | **Clearance Supervisor** | Leslie Anne Clark |
-| **Created by** | Bruce Nash |
-| **Edited by** | Robert Potter |
+| **Created By** | Bruce Nash |
+| **Edited By** | Robert Potter |
 | **Executive Producer** | Charlie Maday |
 | **Field Audio** | James H. Davies, Andrew Rovins, Chris Weisbrod |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett |
-| **Narrated by** | Harlan Saperstein |
+| **Music By** | Alan Ett |
+| **Narrated By** | Harlan Saperstein |
 | **Online Editor** | David Rex |
 | **Post Production Assistant** | Gary Reid |
 | **Post Production Coordinator** | Leanne M. Anaya Reece |
@@ -41,7 +41,7 @@
 | **Researcher** | Tracy Hood |
 | **Sound Mixer** | Sam Kaufmann |
 | **Supervising Producer** | Beth Dietrich, Don Cambou |
-| **Written and Produced by** | Mary Wallace |
+| **Written And Produced By** | Mary Wallace |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00083.md)

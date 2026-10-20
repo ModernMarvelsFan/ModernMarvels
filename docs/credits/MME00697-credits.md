@@ -21,10 +21,8 @@
 | **Co-Executive Producer** | Robert Twilley |
 | **Created By** | Bruce Nash |
 | **Editor** | David Beatty |
-| **Executive Producer** | Stephen Land |
+| **Executive Producer** | John Verhoff |
 | **Field Producers** | Randall Shuptrine, Diane Dere |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Kelly Vorrasi |
 | **Graphics** | Elevation, Adam Goodwin |
 | **Location Sound** | David J. Baer, Sal Gallagher, David Jack, Matt Langley, Thomas Morrison, Tim O'Beck, Thomas Orozco, Diana Wilmer |
 | **Music** | Legativity |
@@ -35,6 +33,7 @@
 | **Producer** | Gloria Kruener |
 | **Production Assistance** | Michelle Weiss, Jeremy Ashcraft, Amanda Feathers, Tamara Perry |
 | **Production Manager** | Katie Young |
+| **Programming Coordinator** | Kelly Vorrasi |
 | **Supervising Producer** | Ron Nelson, Sharon Martin |
 | **Writer** | Kaylan Eggert |
 

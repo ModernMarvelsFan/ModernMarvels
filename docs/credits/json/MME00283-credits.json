@@ -10,6 +10,16 @@
     "Beata Genin"
   ],
   "crew": {
+    "Animation": [
+      "Glenn Takakjian"
+    ],
+    "Assistant Editor": [
+      "Eric Sievering"
+    ],
+    "Assistant Production Accountants": [
+      "Linda Scribner",
+      "Dennis Luciani"
+    ],
     "Camera": [
       "David Baumber",
       "Mark Kochis",
@@ -17,72 +27,62 @@
       "Jesse Phinney",
       "Doug Snowden"
     ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Hildie Katibah"
+    ],
     "Field Audio": [
       "Stephen Gmeiner",
       "Tommy Lee",
       "Tom Sykes",
       "David S. Wason"
     ],
-    "Online Editor": [
-      "Arthur Klein"
+    "Footage Consultant": [
+      "Ted Troll"
     ],
-    "Sound Mixer": [
-      "Paul Ray"
-    ],
-    "Animation": [
-      "Glenn Takakjian"
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
     ],
     "Historical Consultant": [
       "Parks Stephenson"
     ],
-    "Footage Consultant": [
-      "Ted Troll"
-    ],
-    "For The History Channel / Executive Producer": [
-      "Beth Dietrich-Segarra"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Music by": [
+    "Music By": [
       "Guy Thomas"
     ],
-    "Production Manager": [
-      "Kathlene Exner"
-    ],
-    "Post Production Manager": [
-      "Gary Reid"
-    ],
-    "Clearance Supervisor": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Hildie Katibah"
-    ],
-    "Production Auditor": [
-      "Dani Eslin"
-    ],
-    "Assistant Production Accountants": [
-      "Linda Scribner",
-      "Dennis Luciani"
-    ],
-    "Production Coordinator": [
-      "James Wiser"
-    ],
-    "Assistant Editor": [
-      "Eric Sievering"
-    ],
-    "Post Production Coordinator": [
-      "Danny Kim"
+    "Online Editor": [
+      "Arthur Klein"
     ],
     "Post Production Assistant": [
       "Laura Steinhoff"
     ],
-    "Researcher/Voice Over Coordinator": [
+    "Post Production Coordinator": [
+      "Danny Kim"
+    ],
+    "Post Production Manager": [
+      "Gary Reid"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "James Wiser"
+    ],
+    "Production Manager": [
+      "Kathlene Exner"
+    ],
+    "Voice Over Coordinator": [
       "Beata Genin"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
     ]
   }
 }

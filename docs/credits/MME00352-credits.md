@@ -7,41 +7,41 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY CHANNEL
-* **Narrator:** MAX RAPHAEL, MELANIE PIPES
+* **Production Company:** Actuality Productions, Inc., The History Channel
+* **Narrator:** Max Raphael, Melanie Pipes
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation by** | GLENN TAKAKJIAN |
-| **Assistant Accountants** | SHERIDAN LIU, DENNIS LUCIANI |
-| **Assistant Editors** | TAYLOR GREATHEAD, ALISON TUSAN |
-| **Associate Producer** | TAMARA PHILLIPS |
-| **Camera** | AYMAN ATEF, TONY FLANAGAN, ERIC SANTIAGO |
-| **Clearance Supervisor** | KATIE DEL CORE |
+| **Animation By** | Glenn Takakjian |
+| **Assistant Accountants** | Sheridan Liu, Dennis Luciani |
+| **Assistant Editors** | Taylor Greathead, Alison Tusan |
+| **Associate Producer** | Tamara Phillips |
+| **Camera** | Ayman Atef, Tony Flanagan, Eric Santiago |
+| **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | ROSALYN McVAY |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACQUES |
-| **Edited by** | BRIAN JOHNSON |
-| **Executive Producer** | BETH DIETRICH-SEGARRA, DON CAMBOU |
-| **Field Audio** | JAMES FAIR, ROB MAERZ, ABDEL HAKIM SOLIMAN |
-| **Field Producer** | DOUG MILLER |
-| **Historical Consultant** | DR. LAWRENCE BERMAN |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | GUY THOMAS |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | CHUCK CREWS |
-| **Post Assistant** | ALEXANDER RUBINOW |
-| **Post Coordinator** | LAURA STEINHOFF |
-| **Post Producer** | LAUREN LEVINE |
-| **Producer** | BRUCE NASH |
-| **Production Auditor** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Production Manager-Egypt** | HISHAM GOHAR |
-| **Researcher / Voice Over Coordinator** | MELANIE PIPES |
-| **Sound Mixer** | PAUL RAY |
-| **Written and Produced by** | LEE FULKERSON |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Brian Johnson |
+| **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
+| **Field Audio** | James Fair, Rob Maerz, Abdel Hakim Soliman |
+| **Field Producer** | Doug Miller |
+| **Historical Consultant** | Dr. Lawrence Berman |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | Chuck Crews |
+| **Post Assistant** | Alexander Rubinow |
+| **Post Coordinator** | Laura Steinhoff |
+| **Post Producer** | Lauren Levine |
+| **Producer** | Bruce Nash |
+| **Production Auditor** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Production Manager-Egypt** | Hisham Gohar |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Melanie Pipes |
+| **Written And Produced By** | Lee Fulkerson |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00352.md)

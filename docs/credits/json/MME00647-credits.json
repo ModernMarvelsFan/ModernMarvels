@@ -11,38 +11,11 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Production Accountant": [
-      "Sheridan Liu"
-    ],
-    "Coordinator": [
-      "Maya Sykes"
-    ],
-    "Clearance Coordinator": [
-      "Kiana Moore"
-    ],
-    "Researcher": [
-      "Joshua Janiak"
+    "Animation": [
+      "CrazyBridge Studios"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
@@ -50,9 +23,6 @@
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Cory Parker"
     ],
     "Camera": [
       "Dave Bartlett",
@@ -64,6 +34,27 @@
       "Matt Mayes",
       "John Reed"
     ],
+    "Clearance Coordinator": [
+      "Kiana Moore"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "John Verhoff"
+    ],
     "Field Audio": [
       "Gerald Hartly",
       "Mark Perfetti",
@@ -72,17 +63,50 @@
       "Thomas Shafer",
       "Greg Stidham"
     ],
+    "Programming Coordinator": [
+      "Adam Rosante"
+    ],
+    "Music": [
+      "AMI Music Group"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "CrazyBridge Studios"
+    "Post Assist": [
+      "Cory Parker"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc."
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Sheridan Liu"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Joshua Janiak"
     ],
     "Sound Mixer": [
       "Sam Kaufmann"
     ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Supervising Producer": [
+      "Ron Nelson"
     ],
     "Technical Consultants": [
       "Dharmesh Bhakta",
@@ -93,35 +117,8 @@
       "Morton International, Inc.",
       "Tampa Bay Water"
     ],
-    "Produced by": [
-      "Actuality Productions, Inc."
-    ],
-    "For History / Programming Coordinator": [
-      "Adam Rosante"
-    ],
-    "For History / Executive Producer": [
-      "John Verhoff"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Lawrence Givens III"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Editor": [
-      "Lou LaProcido"
-    ],
-    "Music": [
-      "AMI Music Group"
-    ],
-    "Narrator": [
-      "Max Raphael"
     ]
   }
 }

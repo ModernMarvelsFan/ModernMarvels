@@ -13,67 +13,26 @@
     "Max Raphael"
   ],
   "crew": {
+    "Assistant Camera": [
+      "Barry Kaiser",
+      "Shin Kim"
+    ],
+    "Assistant Editors": [
+      "Adam Kirk",
+      "Tabrina Hughes"
+    ],
     "Camera": [
       "Doug Baird",
       "Gordy Waterman",
       "George Harrold",
       "Daein Kim"
     ],
-    "Assistant Camera": [
-      "Barry Kaiser",
-      "Shin Kim"
+    "Consulting Producer": [
+      "Ann Carroll"
     ],
-    "Sound": [
-      "Norm Thompson",
-      "Sean O'Neil",
-      "Glenn Hodgins",
-      "Bookiam Ahn"
-    ],
-    "Location Managers": [
-      "Jeannette Gallant",
-      "Unju Terry Rah"
-    ],
-    "Production Assistants": [
-      "Christopher Wohlers",
-      "Al Cooper"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Music": [
-      "Extreme",
-      "Audio Networks"
-    ],
-    "Sound Design": [
-      "Richard Humphries"
-    ],
-    "Assistant Editors": [
-      "Adam Kirk",
-      "Tabrina Hughes"
-    ],
-    "Graphics": [
-      "Construct Visual"
-    ],
-    "Online Editor/Colorist": [
-      "James Sullivan"
-    ],
-    "Production Accountant": [
-      "Rossana O'Hop"
-    ],
-    "Production Manager": [
-      "Brigitta Shroyer"
-    ],
-    "Head of Production": [
-      "Libby Richman"
-    ],
-    "Post Production Supervisor": [
-      "Liam Monschein"
-    ],
-    "Post Production Coordinator": [
-      "Cameron Young"
-    ],
-    "Programming Coordinator": [
-      "Kristen Burns"
+    "Editors": [
+      "Leslie Atkins",
+      "Judd Fischer"
     ],
     "Executive Producer": [
       "John Verhoff"
@@ -82,20 +41,61 @@
       "Sean Gallagher",
       "Abby Greensfelder"
     ],
+    "Field Producer": [
+      "Conor McCarthy"
+    ],
+    "Graphics": [
+      "Construct Visual"
+    ],
+    "Head Of Production": [
+      "Libby Richman"
+    ],
+    "Location Managers": [
+      "Jeannette Gallant",
+      "Unju Terry Rah"
+    ],
+    "Music": [
+      "Extreme",
+      "Audio Networks"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Colorist": [
+      "James Sullivan"
+    ],
+    "Post Production Coordinator": [
+      "Cameron Young"
+    ],
+    "Post Production Supervisor": [
+      "Liam Monschein"
+    ],
     "Producers": [
       "Emre Izat",
       "Kendra Gahagan",
       "Brooke Barrows"
     ],
-    "Field Producer": [
-      "Conor McCarthy"
+    "Production Accountant": [
+      "Rossana O'Hop"
     ],
-    "Consulting Producer": [
-      "Ann Carroll"
+    "Production Assistants": [
+      "Christopher Wohlers",
+      "Al Cooper"
     ],
-    "Editors": [
-      "Leslie Atkins",
-      "Judd Fischer"
+    "Production Manager": [
+      "Brigitta Shroyer"
+    ],
+    "Programming Coordinator": [
+      "Kristen Burns"
+    ],
+    "Sound": [
+      "Norm Thompson",
+      "Sean O'Neil",
+      "Glenn Hodgins",
+      "Bookiam Ahn"
+    ],
+    "Sound Design": [
+      "Richard Humphries"
     ]
   }
 }

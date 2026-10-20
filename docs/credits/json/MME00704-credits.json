@@ -10,12 +10,24 @@
     "Max Raphael"
   ],
   "crew": {
+    "3D Animation By": [
+      "Percolate Digital"
+    ],
     "Additional Editing": [
       "Guillermo Maco",
       "Meredith Menio"
     ],
-    "Divemaster": [
-      "Eric Mycroft"
+    "Additional Graphics": [
+      "John Kerr"
+    ],
+    "Assistant Camera": [
+      "Bobby Bruderle"
+    ],
+    "Assistant Editor": [
+      "Mike Bautista"
+    ],
+    "Associate Producer": [
+      "Hannah Richardson"
     ],
     "Associate Producers": [
       "Philip Cloutier",
@@ -24,73 +36,10 @@
       "Amber Seyler",
       "Spencer Smith"
     ],
-    "Researchers": [
-      "Ann Duvall"
-    ],
-    "Assistant Camera": [
-      "Bobby Bruderle"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Music": [
-      "Audio Network",
-      "Extreme",
-      "Produkt",
-      "Jinglepunks"
-    ],
-    "Junior Editors": [
-      "Nadia Izakson",
-      "Wanakhavi Wakhisi"
-    ],
-    "Assistant Editor": [
-      "Mike Bautista"
-    ],
-    "3D Animation by": [
-      "Percolate Digital"
-    ],
-    "Additional Graphics": [
-      "John Kerr"
-    ],
     "Created By": [
       "Bruce Nash"
     ],
-    "Production Coordinator": [
-      "Kait Gallagher"
-    ],
-    "Production Assistants": [
-      "Jaye Callahan",
-      "Suzie Eckl"
-    ],
-    "Associate Producer": [
-      "Hannah Richardson"
-    ],
-    "Intern": [
-      "Jeremy Weinreich"
-    ],
-    "Head of Production": [
-      "Janice Mezzetti"
-    ],
-    "Programming Coordinator": [
-      "Divya Chungi"
-    ],
-    "Senior Producer": [
-      "Carter Figueroa"
-    ],
-    "Executive Producers": [
-      "Sean Gallagher",
-      "Abby Greensfelder"
-    ],
-    "Executive Producer": [
-      "Greg Smith"
-    ],
-    "Written, Produced and Directed by": [
-      "Chris Sondreal"
-    ],
-    "Edited by": [
-      "Jamie Pickell"
-    ],
-    "Directors of Photography": [
+    "Directors Of Photography": [
       "Neil Barrett",
       "Bob Cranston",
       "Rob Featherstone",
@@ -98,6 +47,57 @@
       "Gordy Waterman",
       "Brett Wiley",
       "Diana Wilmar"
+    ],
+    "Divemaster": [
+      "Eric Mycroft"
+    ],
+    "Edited By": [
+      "Jamie Pickell"
+    ],
+    "Executive Producer": [
+      "Greg Smith"
+    ],
+    "Executive Producers": [
+      "Sean Gallagher",
+      "Abby Greensfelder"
+    ],
+    "Head Of Production": [
+      "Janice Mezzetti"
+    ],
+    "Intern": [
+      "Jeremy Weinreich"
+    ],
+    "Junior Editors": [
+      "Nadia Izakson",
+      "Wanakhavi Wakhisi"
+    ],
+    "Music": [
+      "Audio Network",
+      "Extreme",
+      "Produkt",
+      "Jinglepunks"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Production Assistants": [
+      "Jaye Callahan",
+      "Suzie Eckl"
+    ],
+    "Production Coordinator": [
+      "Kait Gallagher"
+    ],
+    "Programming Coordinator": [
+      "Divya Chungi"
+    ],
+    "Researchers": [
+      "Ann Duvall"
+    ],
+    "Senior Producer": [
+      "Carter Figueroa"
+    ],
+    "Written, Produced And Directed By": [
+      "Chris Sondreal"
     ]
   }
 }

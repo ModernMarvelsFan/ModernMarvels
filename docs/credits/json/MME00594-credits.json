@@ -10,44 +10,19 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Coordinators": [
-      "Brad Skiles",
-      "Maya Sykes"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
+    "Animation": [
+      "Crazybridge Studios"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
       "Alexander Rubinow"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
@@ -63,9 +38,27 @@
       "Scott Shelley",
       "Jorge Trentin"
     ],
-    "Field Producers": [
-      "Dino Quaglietta",
-      "Diane Wai"
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinators": [
+      "Brad Skiles",
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Editor": [
+      "Motoshi Wakabayashi"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
     ],
     "Field Audio": [
       "Ben Keller",
@@ -76,17 +69,42 @@
       "Mark Solomon",
       "Dave Wason"
     ],
+    "Field Producers": [
+      "Dino Quaglietta",
+      "Diane Wai"
+    ],
+    "Music": [
+      "Guy Thomas"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "Crazybridge Studios"
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
     ],
     "Sound Mixer": [
       "Mark Jensen"
     ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Supervising Producer": [
+      "Ron Nelson"
     ],
     "Technical Consultants": [
       "Lindt & Sprüngli (USA) Inc.",
@@ -95,26 +113,8 @@
       "Ed Seguine",
       "World Cocoa Foundation"
     ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Beata Ziel"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Editor": [
-      "Motoshi Wakabayashi"
-    ],
-    "Music": [
-      "Guy Thomas"
-    ],
-    "Narrator": [
-      "Max Raphael"
     ]
   }
 }

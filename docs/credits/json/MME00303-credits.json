@@ -4,104 +4,101 @@
   "year": "2003",
   "copyright": "©2003 A&E TELEVISION NETWORKS ALL RIGHTS RESERVED",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
-    "THE HISTORY CHANNEL",
-    "A&E TELEVISION NETWORKS"
+    "Actuality Productions, Inc.",
+    "The History Channel",
+    "A&e Television Networks"
   ],
   "narrators": [
-    "BEATA GENIN",
-    "MAX RAPHAEL"
+    "Beata Genin",
+    "Max Raphael"
   ],
   "crew": {
-    "MODERN MARVELS ENGINEERING DISASTERS IV / Edited by": [
-      "JASON STEINBERG"
+    "Animation": [
+      "Victor Bornia"
     ],
-    "MODERN MARVELS ENGINEERING DISASTERS IV / Producer": [
-      "BRUCE NASH"
-    ],
-    "MODERN MARVELS ENGINEERING DISASTERS IV / Created by": [
-      "BRUCE NASH"
-    ],
-    "MODERN MARVELS ENGINEERING DISASTERS IV / Music by": [
-      "ALAN ETT"
-    ],
-    "Production Manager": [
-      "KATHLENE EXNER RIZZOTTI"
-    ],
-    "Post Production Manager": [
-      "GARY REID"
-    ],
-    "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "HILDIE KATIBAH"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
+    "Assistant Editor": [
+      "Eric Sievering"
     ],
     "Assistant Production Accountants": [
-      "LINDA SCRIBNER",
-      "DENNIS LUCIANI"
+      "Linda Scribner",
+      "Dennis Luciani"
     ],
-    "Production Coordinator": [
-      "JAMES WISER"
+    "Camera": [
+      "Doug Baird",
+      "Rasi Delgado",
+      "Dave Insley",
+      "Peter Krajewski",
+      "Andy Olson",
+      "Andrew Pratt"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Director Of Research": [
+      "Hildie Katibah"
+    ],
+    "Field Audio": [
+      "Ed Fritz",
+      "Sam Insley",
+      "Kevin Jones",
+      "Norm Thompson"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Associate Producer": [
+      "Scott Goldie"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Jason Steinberg"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Written And Produced By": [
+      "Mark Rowland"
+    ],
+    "Online Editor": [
+      "Randy Magalski"
+    ],
+    "Post Production Assistant": [
+      "Laura Steinhoff"
+    ],
+    "Post Production Coordinator": [
+      "Danny Kim"
+    ],
+    "Post Production Manager": [
+      "Gary Reid"
     ],
     "Production Assistant": [
       "ROSALYN McVAY"
     ],
-    "Assistant Editor": [
-      "ERIC SIEVERING"
+    "Production Auditor": [
+      "Dani Eslin"
     ],
-    "Post Production Coordinator": [
-      "DANNY KIM"
+    "Production Coordinator": [
+      "James Wiser"
     ],
-    "Post Production Assistant": [
-      "LAURA STEINHOFF"
+    "Production Manager": [
+      "Kathlene Exner Rizzotti"
     ],
-    "Researcher/Voice Over Coordinator": [
-      "BEATA GENIN"
-    ],
-    "Camera": [
-      "DOUG BAIRD",
-      "RASI DELGADO",
-      "DAVE INSLEY",
-      "PETER KRAJEWSKI",
-      "ANDY OLSON",
-      "ANDREW PRATT"
-    ],
-    "Field Audio": [
-      "ED FRITZ",
-      "SAM INSLEY",
-      "KEVIN JONES",
-      "NORM THOMPSON"
-    ],
-    "Online Editor": [
-      "RANDY MAGALSKI"
+    "Voice Over Coordinator": [
+      "Beata Genin"
     ],
     "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Animation": [
-      "VICTOR BORNIA"
-    ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "MODERN MARVELS ENGINEERING DISASTERS IV / Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "MODERN MARVELS ENGINEERING DISASTERS IV / Written and Produced by": [
-      "MARK ROWLAND"
-    ],
-    "MODERN MARVELS ENGINEERING DISASTERS IV / Associate Producer": [
-      "SCOTT GOLDIE"
-    ],
-    "MODERN MARVELS ENGINEERING DISASTERS IV / Line Producer": [
-      "PAUL DZILVELIS"
-    ],
-    "MODERN MARVELS ENGINEERING DISASTERS IV / Narrator": [
-      "MAX RAPHAEL"
+      "Paul Ray"
     ]
   }
 }

@@ -4,27 +4,27 @@
   "year": "2001",
   "copyright": "© 2001 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ACTUALITY PRODUCTIONS",
+    "Actuality Productions",
     "Hearst Entertainment",
-    "THE HISTORY CHANNEL"
+    "The History Channel"
   ],
   "narrators": [],
   "crew": {
-    "Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
-    ],
     "Assistant Production Accountant": [
-      "LINDA SCRIBNER"
+      "Linda Scribner"
     ],
-    "Production Coordinator": [
-      "MICHAEL Z DAVIS"
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
     ],
     "Production Assistants": [
-      "MARYALICE R. ARAGON",
-      "RASI DELGADO"
+      "Maryalice R. Aragon",
+      "Rasi Delgado"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Michael Z Davis"
     ]
   }
 }

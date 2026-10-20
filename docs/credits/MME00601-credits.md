@@ -21,8 +21,8 @@
 | **Camera** | Chris Bell, Travis Johnson, Kevin Lang, Lon Magdich, Jeremy Osbern, Bob Sandefur, Robert Shenise, Nathan Smith |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
 | **Editor** | Arek Hope |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Ryan Bedell, Chad Bryant, Charles Ethridge, Terry O'Connor, Ken Paulakovich, Charles Rohr, Amy Sandefur, Michael Whelan |
@@ -39,7 +39,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Kaylan Eggert |
+| **Written And Produced By** | Kaylan Eggert |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00601.md)

@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `Copyright 2007 A&E Television Networks`
-* **Production Company:** Blind Vision Films, Magic Molehill Productions, Inc., The History Channel, X1FX, CCI Burbank / DVS Intelestream, 1171 Production Group, The DR Group
+* **Production Company:** Blind Vision Films, Magic Molehill Productions, Inc., The History Channel, X1fx, CCI Burbank / DVS Intelestream, 1171 Production Group, The DR Group
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -24,20 +24,20 @@
 | **Clip Clearance** | Amy Goodfriend |
 | **Color By** | CCI Burbank / DVS Intelestream |
 | **Colorist** | Matt Lear |
+| **Compositor** | Mark Larranaga |
 | **Directed &amp; Produced By** | John Logsdon |
 | **Editor** | Jake Oelman |
-| **For The History Channel: / Executive Producer** | Beth Dietrich Segarra |
-| **For The History Channel: / Programming Coordinator** | Michele Wilcox |
+| **Executive Producer** | Beth Dietrich Segarra |
 | **Hosted By** | Lawrence M. Krauss |
 | **Legal** | Kristopher Pattison |
 | **Narrated By** | Max Raphael |
 | **Production Assistant** | Kevin Lee |
+| **Programming Coordinator** | Michele Wilcox |
 | **Sound Mixing** | Matt Guller |
 | **Sound Recording** | Daniel Alverado, Erik Magnus, Terry Hillman, Joseph Howard, Frank DeAngelis, Jonathan Packer, Randy Pease, Joel Trent |
-| **VFX Executive Producer** | Edy Enriquez |
-| **VFX Producer** | Mary Liz Thomson |
-| **VFX Supervisor / Compositor** | Mark Larranaga |
-| **Visual Effects** | X1FX |
+| **Vfx Executive Producer** | Edy Enriquez |
+| **Vfx Producer** | Mary Liz Thomson |
+| **Visual Effects** | X1fx |
 | **Written By** | John Logsdon, Jake Oelman |
 
 ---

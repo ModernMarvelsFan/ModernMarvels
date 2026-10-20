@@ -6,24 +6,6 @@
   "studios": [],
   "narrators": [],
   "crew": {
-    "Written and Produced by": [
-      "Jeffrey Willerth"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Director of Clearance": [
-      "Katie Del Core"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
-    "Coordinator": [
-      "Brad Skiles"
-    ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
@@ -32,20 +14,32 @@
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
     ],
-    "Post Assist": [
-      "James Greison"
-    ],
     "Camera": [
       "Chris Bell",
       "Bryan Maslin",
       "Tom Pakulski",
       "Adam Sampson"
     ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Director Of Clearance": [
+      "Katie Del Core"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
     "Field Audio": [
       "Nancie Araki",
       "Aaron Austin",
       "Ben Keller",
       "Charles Rohr"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
+    "Programming Coordinator": [
+      "Michele Wilcox"
     ],
     "Historical Consultants": [
       "Dr. Robert Davis",
@@ -57,11 +51,17 @@
       "Charles Morgante",
       "Stephen R. West"
     ],
-    "For The History Channel / Executive Producer": [
-      "Beth Dietrich-Segarra"
+    "Post Assist": [
+      "James Greison"
     ],
-    "For The History Channel / Programming Coordinator": [
-      "Michele Wilcox"
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Written And Produced By": [
+      "Jeffrey Willerth"
     ]
   }
 }

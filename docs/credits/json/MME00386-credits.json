@@ -4,107 +4,104 @@
   "year": "2004",
   "copyright": "© 2004 A&E Television Network All Rights Reserved",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions"
   ],
   "narrators": [
-    "MIKKI DEL MONICO",
-    "MAX RAPHAEL"
+    "Mikki Del Monico",
+    "Max Raphael"
   ],
   "crew": {
-    "Production Manager": [
-      "SHELIA COLLINS"
+    "Accountants": [
+      "Judy Gordon",
+      "Sheridan Liu"
     ],
-    "Post Producer": [
-      "TIM KNAUFF"
+    "Animation By": [
+      "Tak Productions, Inc."
+    ],
+    "Assistant Editor": [
+      "Laura Steinhoff"
+    ],
+    "Assistant Post Coordinator": [
+      "Alexander Rubinow"
+    ],
+    "Camera": [
+      "John Davis",
+      "Lon Magdich",
+      "Kevin Mills",
+      "Mario Ortiz",
+      "Jorge Catillo Trentin"
+    ],
+    "Clearance Coordinator": [
+      "D.W. Blakeslee"
     ],
     "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ANTHONY LACOUES"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
-    "Accountants": [
-      "JUDY GORDON",
-      "SHERIDAN LIU"
+      "Katie Del Core"
     ],
     "Coordinator": [
       "ROSALYN McVAY"
     ],
-    "Researcher": [
-      "MIKKI DEL MONICO"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Clearance Coordinator": [
-      "D.W. BLAKESLEE"
+    "Director Of Research": [
+      "Anthony Lacoues"
     ],
-    "Production Assistant": [
-      "JEFFERY PERKINS"
-    ],
-    "Voice Over Coordinator": [
-      "MIKKI DEL MONICO"
-    ],
-    "Assistant Editor": [
-      "LAURA STEINHOFF"
-    ],
-    "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
-    ],
-    "Post Assistant": [
-      "GAYLEN KOBAYASHI"
-    ],
-    "Camera": [
-      "JOHN DAVIS",
-      "LON MAGDICH",
-      "KEVIN MILLS",
-      "MARIO ORTIZ",
-      "JORGE CATILLO TRENTIN"
-    ],
-    "Field Audio": [
-      "KEITH HENDERSON",
-      "DEREK JOHNSTON",
-      "MARK SOLOMON",
-      "TIM STRONK"
-    ],
-    "Online Editor": [
-      "JOHN PRICE"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Animation by": [
-      "TAK PRODUCTIONS, INC."
-    ],
-    "Historical Consultants": [
-      "DRAGOS RAUTA",
-      "PETER SWIFT",
-      "THOMAS WILDENBERG"
-    ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
+    "Edited By": [
+      "Lou Laprocido"
     ],
     "Executive Producer": [
-      "DON CAMBOU"
+      "Beth Dietrich-Segarra"
     ],
-    "Written and Produced by": [
-      "W. SCOTT GOLDIE"
+    "Field Audio": [
+      "Keith Henderson",
+      "Derek Johnston",
+      "Mark Solomon",
+      "Tim Stronk"
     ],
-    "Edited by": [
-      "LOU LAPROCIDO"
-    ],
-    "Narrated by": [
-      "MAX RAPHAEL"
+    "Historical Consultants": [
+      "Dragos Rauta",
+      "Peter Swift",
+      "Thomas Wildenberg"
     ],
     "Music By": [
-      "ALAN ETT MUSIC GROUP"
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistant": [
+      "Gaylen Kobayashi"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
     ],
     "Producer": [
-      "BRUCE NASH"
+      "Bruce Nash"
     ],
-    "Created by": [
-      "BRUCE NASH"
+    "Production Assistant": [
+      "Jeffery Perkins"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Mikki Del Monico"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
+    ],
+    "Written And Produced By": [
+      "W. Scott Goldie"
     ]
   }
 }

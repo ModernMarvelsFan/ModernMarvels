@@ -2,64 +2,58 @@ Modern Marvels: Harvesting Plus (2022)
 Episode ID: MME00743
 ==================================================
 Copyright: ©2004 - 2022 A&E Television Networks, LLC. All Rights Reserved.
-Production Studio: Actuality Productions, Inc., the Six West Media(TM) group, HISTORY(R) NETWORK, A&E Television Networks, LLC, Motion Picture Enterprises, Inc., Ballast TV, Alan Ett Music Group, The 100% Music Library, MIBE Music, West One Music
+Production Studio: Actuality Productions, Inc., the Six West Media(TM) group, History(r) Network, A&E Television Networks, LLC, Motion Picture Enterprises, Inc., Ballast TV, Alan Ett Music Group, The 100% Music Library, MIBE Music, West One Music
 Narrator: —
 --------------------------------------------------
 CREW ROLL:
-ANIMATION: Doug Whitney
-ASSISTANT ACCOUNTANTS: Sheridan Liu, Dennis Luciani
-ASSISTANT EDITOR: Taylor Greathead
-ASSOCIATE PRODUCERS: Beata Genin, Tamara Phillips
-CAMERA: Lon Magdich, Carlos Montaner
-CLEARANCE SUPERVISOR: Katie Del Core
-COORDINATOR: Rosalyn McVay
-CREATED BY: Bruce Nash
-DIRECTOR OF RESEARCH: Anthony Lacques
-EDITOR: Brian Johnson
-EXECUTIVE PRODUCER: Don Cambou
-FOR HISTORY(R) / COORDINATING PRODUCER: Liv Fidler
-FOR HISTORY(R) / EXECUTIVE PRODUCERS: Beth Dietrich-Segarra, John Verhoff, Jim Pasquarella, Brandy Crawford-Uriu
-FOR THE SIX WEST MEDIA(TM) GROUP / ACCOUNTING CLERK: Julia Casalino
-FOR THE SIX WEST MEDIA(TM) GROUP / ASSISTANT EDITOR: Isaiah Dyer
-FOR THE SIX WEST MEDIA(TM) GROUP / ASSISTANT PRODUCTION ACCOUNTANTS: Samara Choit, Hayden McComas
-FOR THE SIX WEST MEDIA(TM) GROUP / ASSOCIATE PRODUCERS: Andre Bellamy-Cesar, Kem Poston, Savannah Sivert
-FOR THE SIX WEST MEDIA(TM) GROUP / AUDIO MIXER: Andrew Kay
-FOR THE SIX WEST MEDIA(TM) GROUP / AUDIO POST COORDINATOR: Katherine Margall
-FOR THE SIX WEST MEDIA(TM) GROUP / EDITOR: Michael Newton
-FOR THE SIX WEST MEDIA(TM) GROUP / EXECUTIVE IN CHARGE OF PRODUCTION: Patrice Andrews
-FOR THE SIX WEST MEDIA(TM) GROUP / EXECUTIVE PRODUCERS: Steve Ascher, Matt Pearl, Kristy Sabat
-FOR THE SIX WEST MEDIA(TM) GROUP / FINISHING ASSOCIATE PRODUCER: RT Smith Jr.
-FOR THE SIX WEST MEDIA(TM) GROUP / GRAPHICS: Ballast TV
-FOR THE SIX WEST MEDIA(TM) GROUP / JUNIOR PRODUCTION ACCOUNTANT: Phurbu Nepali
-FOR THE SIX WEST MEDIA(TM) GROUP / LEAD ASSISTANT EDITOR: Scott R. Dixon
-FOR THE SIX WEST MEDIA(TM) GROUP / LEAD PRODUCTION ACCOUNTANT: Sophiya Banu
-FOR THE SIX WEST MEDIA(TM) GROUP / LINE PRODUCER: Melissa Ray
-FOR THE SIX WEST MEDIA(TM) GROUP / ONLINE EDITOR AND COLORIST: Martin Benn
-FOR THE SIX WEST MEDIA(TM) GROUP / ONLINE PRODUCER: Brian Street
-FOR THE SIX WEST MEDIA(TM) GROUP / POST PRODUCERS: Rakesh Nair, Carla Ramirez
-FOR THE SIX WEST MEDIA(TM) GROUP / POST-PRODUCTION ASSISTANT: Samantha Lochs
-FOR THE SIX WEST MEDIA(TM) GROUP / POST-PRODUCTION COORDINATOR: Denise McGillicuddy
-FOR THE SIX WEST MEDIA(TM) GROUP / POST-PRODUCTION FACILITY: Motion Picture Enterprises, Inc.
-FOR THE SIX WEST MEDIA(TM) GROUP / POST-PRODUCTION SUPERVISOR: Allison Moser
-FOR THE SIX WEST MEDIA(TM) GROUP / PRODUCTION AND DEVELOPMENT ASSISTANT: Zoe Resnick
-FOR THE SIX WEST MEDIA(TM) GROUP / PRODUCTION MANAGER: Kathy Williams
-FOR THE SIX WEST MEDIA(TM) GROUP / SENIOR MANAGER, RIGHTS & CLEARANCES: Elio Concepcion
-FOR THE SIX WEST MEDIA(TM) GROUP / SUPERVISING PRODUCERS: Allie Breslin, Pat Nugent
-FOR THE SIX WEST MEDIA(TM) GROUP / SUPERVISING PRODUCERS, POST-PRODUCTION: Helena Greenwald, Mike Giordano
-FOR THE SIX WEST MEDIA(TM) GROUP / SVP, PRODUCTION OPERATIONS: Ed Russo
-FOR THE SIX WEST MEDIA(TM) GROUP / VP, PRODUCTION MANAGEMENT: Patricia Paredes Saez
-HISTORICAL CONSULTANT: Victor Duraj
-LINE PRODUCER: Paul Dzilvelis
-MUSIC: Alan Ett Music Group, The 100% Music Library, MIBE Music, West One Music
-NARRATION: Lloyd Sherr
-ONLINE EDITOR: Chuck Crews
-POST ASSIST: Alexander Rubinow
-POST COORDINATOR: Laura Steinhoff
-POST PRODUCER: Lauren Levine
-PRODUCER: Bruce Nash
-PRODUCTION ASSISTANT: Jeffery Perkins
-PRODUCTION AUDITOR: Dani Eslin
-PRODUCTION MANAGER: Shelia Collins
-RESEARCHER/VO COORDINATOR: Melanie Pipes
-SOUND MIXER: Paul Ray
-WRITTEN AND PRODUCED BY: Jim Hense
+Accounting Clerk: Julia Casalino
+Animation: Doug Whitney
+Assistant Accountants: Sheridan Liu, Dennis Luciani
+Assistant Editor: Isaiah Dyer
+Assistant Production Accountants: Samara Choit, Hayden McComas
+Associate Producers: Andre Bellamy-Cesar, Kem Poston, Savannah Sivert
+Audio Mixer: Andrew Kay
+Audio Post Coordinator: Katherine Margall
+Camera: Lon Magdich, Carlos Montaner
+Clearance Supervisor: Katie Del Core
+Coordinating Producer: Liv Fidler
+Coordinator: Rosalyn McVay
+Created By: Bruce Nash
+Director Of Research: Anthony Lacques
+Editor: Michael Newton
+Executive In Charge Of Production: Patrice Andrews
+Executive Producer: Don Cambou
+Executive Producers: Steve Ascher, Matt Pearl, Kristy Sabat
+Finishing Associate Producer: RT Smith Jr.
+Graphics: Ballast TV
+Historical Consultant: Victor Duraj
+Junior Production Accountant: Phurbu Nepali
+Lead Assistant Editor: Scott R. Dixon
+Lead Production Accountant: Sophiya Banu
+Line Producer: Paul Dzilvelis
+Music: Alan Ett Music Group, The 100% Music Library, MIBE Music, West One Music
+Narration: Lloyd Sherr
+Online Editor: Chuck Crews
+Online Editor And Colorist: Martin Benn
+Online Producer: Brian Street
+Post Assist: Alexander Rubinow
+Post Coordinator: Laura Steinhoff
+Post Producer: Lauren Levine
+Post Producers: Rakesh Nair, Carla Ramirez
+Post-Production Assistant: Samantha Lochs
+Post-Production Coordinator: Denise McGillicuddy
+Post-Production Facility: Motion Picture Enterprises, Inc.
+Post-Production Supervisor: Allison Moser
+Producer: Bruce Nash
+Production And Development Assistant: Zoe Resnick
+Production Assistant: Jeffery Perkins
+Production Auditor: Dani Eslin
+Production Manager: Shelia Collins
+Senior Manager, Rights &amp; Clearances: Elio Concepcion
+Sound Mixer: Paul Ray
+Supervising Producers: Allie Breslin, Pat Nugent
+Supervising Producers, Post-Production: Helena Greenwald, Mike Giordano
+Svp, Production Operations: Ed Russo
+Vo Coordinator: Melanie Pipes
+Vp, Production Management: Patricia Paredes Saez
+Written And Produced By: Jim Hense

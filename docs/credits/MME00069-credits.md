@@ -14,17 +14,17 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Additional Graphics** | BARRY HILL |
-| **Assistant Production Accountants** | LINDA SCRIBNER, THIA KULMA |
-| **Assistant to Don Cambou** | TIM SHELL |
-| **Executive Producer** | CHARLIE MADAY |
-| **Graphics &amp; Animation** | DOUG WHITNEY |
-| **Online Editor** | DAVID REX |
-| **Production Assistant** | GARY REID |
-| **Production Coordinator** | KEITH DOLS |
-| **Production Secretary** | KATHY EXNER |
-| **Sound Mixer** | SAM KAUFMANN |
-| **Supervising Producer** | BETH DIETRICH |
+| **Additional Graphics** | Barry Hill |
+| **Assistant Production Accountants** | Linda Scribner, Thia Kulma |
+| **Assistant To Don Cambou** | Tim Shell |
+| **Executive Producer** | Charlie Maday |
+| **Graphics &amp; Animation** | Doug Whitney |
+| **Online Editor** | David Rex |
+| **Production Assistant** | Gary Reid |
+| **Production Coordinator** | Keith Dols |
+| **Production Secretary** | Kathy Exner |
+| **Sound Mixer** | Sam Kaufmann |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00069.md)

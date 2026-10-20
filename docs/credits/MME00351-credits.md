@@ -7,41 +7,40 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., THE HISTORY CHANNEL
-* **Narrator:** MAX RAPHAEL, MELANIE PIPES
+* **Production Company:** Actuality Productions, Inc., The History Channel
+* **Narrator:** Max Raphael, Melanie Pipes
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation by** | VICTOR BORNIA |
-| **Assistant Accountants** | SHERIDAN LIU, DENNIS LUCIANI |
-| **Assistant Editor** | TAYLOR GREATHEAD |
-| **Associate Producer** | EMILY LAU |
-| **Camera** | LON MAGDICH, BOB MARK, JIM PRUES, CHARLES R. TUDOR |
-| **Clearance Supervisor** | KATIE DEL CORE |
+| **Animation By** | Victor Bornia |
+| **Assistant Accountants** | Sheridan Liu, Dennis Luciani |
+| **Assistant Editor** | Taylor Greathead |
+| **Associate Producer** | Emily Lau |
+| **Camera** | Lon Magdich, Bob Mark, Jim Prues, Charles R. Tudor |
+| **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | ROSALYN McVAY |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACOUES |
-| **Edited by** | LOU LAPROCIDO |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | WILLIAM BRITT, JIM MERKL, NATHAN SMITH |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Historical Consultant** | BRYCE VANSTAVERN |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | DOUG NOLAN |
-| **Post Assistant** | ALEXANDER RUBINOW |
-| **Post Coordinator** | LAURA STEINHOFF |
-| **Post Producer** | LAUREN LEVINE |
-| **Post Production Manager** | GARY REID |
-| **Produced by** | RON NELSON |
-| **Producer** | BRUCE NASH |
-| **Production Auditor** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researcher / Voice Over Coordinator** | MELANIE PIPES |
-| **Sound Mixer** | PAUL RAY |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacoues |
+| **Edited By** | Lou Laprocido |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | William Britt, Jim Merkl, Nathan Smith |
+| **Historical Consultant** | Bryce Vanstavern |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | Doug Nolan |
+| **Post Assistant** | Alexander Rubinow |
+| **Post Coordinator** | Laura Steinhoff |
+| **Post Producer** | Lauren Levine |
+| **Post Production Manager** | Gary Reid |
+| **Produced By** | Ron Nelson |
+| **Producer** | Bruce Nash |
+| **Production Auditor** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Melanie Pipes |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00351.md)

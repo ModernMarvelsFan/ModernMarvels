@@ -7,17 +7,17 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1994 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Hearst Entertainment Television, THE HISTORY CHANNEL, JAFFE PRODUCTIONS, Hearst Entertainment Television
+* **Production Company:** Hearst Entertainment Television, The History Channel, Jaffe Productions, Hearst Entertainment Television
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Executive Producer** | BOB JAFFE |
-| **Executive in Charge** | MEL A. BISHOP |
-| **Graphics** | RON CLARK, ART F/X |
-| **Post Production** | PREMORE, INC., MIDTOWN VIDEO |
+| **Executive In Charge** | Mel A. Bishop |
+| **Executive Producer** | Bob Jaffe |
+| **Graphics** | Ron Clark, Art F/X |
+| **Post Production** | Premore, Inc., Midtown Video |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00004.md)

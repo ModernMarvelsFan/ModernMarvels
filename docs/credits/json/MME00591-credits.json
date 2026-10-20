@@ -11,60 +11,19 @@
     "Max Raphael"
   ],
   "crew": {
-    "Associate Producer": [
-      "James Joyce"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Editor": [
-      "Sean Dash"
-    ],
-    "Music": [
-      "Alan Ett Music Group"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
-    "Production Accountant": [
-      "Sheridan Liu"
-    ],
-    "Coordinators": [
-      "Terrence Hartwell",
-      "Brad Skiles",
-      "Maya Sykes"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
+    "Animation": [
+      "Glenn Takakjian"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
       "Alexander Rubinow"
     ],
+    "Associate Producer": [
+      "James Joyce"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Joshua Janiak"
     ],
     "Camera": [
       "David Elkins",
@@ -76,6 +35,29 @@
       "Len Stanga",
       "Diana Wilmar"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinators": [
+      "Terrence Hartwell",
+      "Brad Skiles",
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Editor": [
+      "Sean Dash"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Ryan Bedell",
       "Mike Curtiss",
@@ -85,36 +67,54 @@
       "Adrian Sam",
       "Andy Snyder"
     ],
-    "Online Editor": [
-      "John Price"
+    "Executive Producers": [
+      "Beth Dietrich-Segarra",
+      "Michael Stiller"
     ],
-    "Animation": [
-      "Glenn Takakjian"
-    ],
-    "Sound Mixer": [
-      "Mark Jensen"
+    "Programming Coordinator": [
+      "Adam Rosante"
     ],
     "Historical Consultant": [
       "Sandor Nagyszalanczy"
     ],
-    "For The History Channel / Programming Coordinator": [
-      "Adam Rosante"
+    "Music": [
+      "Alan Ett Music Group"
     ],
-    "For The History Channel / Executive Producers": [
-      "Beth Dietrich-Segarra",
-      "Michael Stiller"
+    "Narrator": [
+      "Max Raphael"
     ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Online Editor": [
+      "John Price"
     ],
-    "Written and Produced by": [
-      "Sean Dash"
+    "Post Assist": [
+      "Joshua Janiak"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Sheridan Liu"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
     ],
     "Production Executive": [
       "Paul Dzilvelis"
     ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
+    ],
     "Supervising Producer": [
       "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "Sean Dash"
     ]
   }
 }

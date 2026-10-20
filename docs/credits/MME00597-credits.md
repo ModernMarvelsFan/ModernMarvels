@@ -20,14 +20,13 @@
 | **Camera** | Bob Boccaccio, Doug Bradley, Geoff Broughton, Lon Magdich, R. Kelley Marchal, Brian Turner |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Terrence Hartwell, Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Allison Boon |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
+| **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Field Audio** | Hans Van Don Bold, Matt Bowman, Andy Hambleton, Dennis Hamlin, Brian Haughin, Ben Herlth |
-| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **For The History Channel / Programming Coordinator** | Adam Rosante |
 | **Historical Consultants** | Randy Covey, Jeff Fryer, Tom Parr, Chris Ryan, Bill Sharp, Kathy Wauson |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
@@ -39,9 +38,10 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Allison Boon |
+| **Written And Produced By** | Allison Boon |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00597.md)

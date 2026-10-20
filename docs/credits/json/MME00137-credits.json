@@ -11,53 +11,14 @@
     "John Knapp"
   ],
   "crew": {
-    "Associate Producer": [
-      "Sean Heckman"
-    ],
-    "Edited by": [
-      "John Parsons",
-      "Motoshi Wakabayashi"
-    ],
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Music by": [
-      "Alan Ett Music Group"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
     "Accountants": [
       "Linda Scribner",
       "Sheridan Liu",
       "Lisa Casella",
       "Paulette Pantoja"
     ],
-    "Researchers": [
-      "Anthony Lacques",
-      "Mikki Del Monico",
-      "John Knapp",
-      "Gloria Morris",
-      "Uldis Balodis"
-    ],
-    "Coordinators": [
-      "Terrence Hartwell",
-      "Brad Skiles"
-    ],
-    "Voice Over Coordinator": [
-      "John Knapp"
+    "Animation By": [
+      "Adam Diaz"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -66,8 +27,25 @@
     "Assistant Post Coordinator": [
       "Alexander Rubinow"
     ],
-    "Post Assistant": [
-      "Gaylen Kobayashi"
+    "Associate Producer": [
+      "Sean Heckman"
+    ],
+    "Consulting Producer": [
+      "Ron Nelson"
+    ],
+    "Coordinators": [
+      "Terrence Hartwell",
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "John Parsons",
+      "Motoshi Wakabayashi"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
     ],
     "Field Audio": [
       "Jeff Adams",
@@ -76,30 +54,52 @@
       "Derek Anderson",
       "Steve Scanzello"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Ed Thacker"
-    ],
-    "Animation by": [
-      "Adam Diaz"
-    ],
     "Historical Consultant": [
       "Terry Klenske"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written & Produced by": [
-      "Robert Ziel",
-      "Lauren Levine"
     ],
     "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "Consulting Producer": [
-      "Ron Nelson"
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistant": [
+      "Gaylen Kobayashi"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Anthony Lacques",
+      "Mikki Del Monico",
+      "John Knapp",
+      "Gloria Morris",
+      "Uldis Balodis"
+    ],
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
+    ],
+    "Written &amp; Produced By": [
+      "Robert Ziel",
+      "Lauren Levine"
     ]
   }
 }

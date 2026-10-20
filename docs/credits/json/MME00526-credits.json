@@ -9,75 +9,38 @@
     "John Knapp"
   ],
   "crew": {
-    "Edited by": [
-      "Scot Kelly"
-    ],
-    "Music by": [
-      "Guy Thomas"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
-    "Director of Rights and Clearances": [
-      "Katie Del Core"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Coordinator": [
-      "Brad Skiles"
-    ],
-    "Researchers": [
-      "Uldis Balodis",
-      "John Knapp"
-    ],
-    "Clearance Coordinators": [
-      "Lawrence Grochs III",
-      "Aaron Zuber"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
+    "Animation By": [
+      "Flyingblue Studio"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
       "Alexander Rubinow"
     ],
-    "Voice Over Coordinator": [
-      "John Knapp"
-    ],
     "Assistant Post Coordinator": [
       "Gaylen Kobayashi"
     ],
-    "Online Editor": [
-      "John Price"
+    "Associate Producer": [
+      "Melissa Freeman"
     ],
-    "Sound Mixer": [
-      "Erik Valenzuela"
+    "Clearance Coordinators": [
+      "Lawrence Grochs III",
+      "Aaron Zuber"
     ],
-    "Animation by": [
-      "Flyingblue Studio"
+    "Coordinator": [
+      "Brad Skiles"
     ],
-    "Technical Consultants": [
-      "Thermon Engineering Corporation",
-      "Traeger Industries",
-      "Weber-Stephen Products Company",
-      "Kingsford Charcoal Company"
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Director Of Rights And Clearances": [
+      "Katie Del Core"
+    ],
+    "Edited By": [
+      "Scot Kelly"
     ],
     "Executive Producer": [
       "Don Cambou"
@@ -85,11 +48,48 @@
     "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "Written and Produced by": [
-      "Richard Jones"
+    "Music By": [
+      "Guy Thomas"
     ],
-    "Associate Producer": [
-      "Melissa Freeman"
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Uldis Balodis",
+      "John Knapp"
+    ],
+    "Sound Mixer": [
+      "Erik Valenzuela"
+    ],
+    "Technical Consultants": [
+      "Thermon Engineering Corporation",
+      "Traeger Industries",
+      "Weber-Stephen Products Company",
+      "Kingsford Charcoal Company"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
+    ],
+    "Written And Produced By": [
+      "Richard Jones"
     ]
   }
 }

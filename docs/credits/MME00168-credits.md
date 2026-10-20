@@ -14,14 +14,14 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | LA MONTE WESTMORELAND |
-| **Consulting Producer** | HENRY SCHIPPER |
-| **Edited by** | JACK FOSTER, LIPO CHING |
-| **Executive Producer** | DON CAMBOU |
-| **Line Producer** | PAUL DZILVELIS |
-| **Produced by** | ACTUALITY Productions, Inc. |
-| **Producer** | BRUCE NASH |
-| **Written and Produced by** | FRED PEABODY |
+| **Associate Producer** | La Monte Westmoreland |
+| **Consulting Producer** | Henry Schipper |
+| **Edited By** | Jack Foster, Lipo Ching |
+| **Executive Producer** | Don Cambou |
+| **Line Producer** | Paul Dzilvelis |
+| **Produced By** | ACTUALITY Productions, Inc. |
+| **Producer** | Bruce Nash |
+| **Written And Produced By** | Fred Peabody |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00168.md)

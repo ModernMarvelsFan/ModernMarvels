@@ -21,9 +21,7 @@
 | **Co-Executive Producer** | Robert Twilley |
 | **Created By** | Bruce Nash |
 | **Editor** | Lou LaProcido |
-| **Executive Producer** | Stephen Land |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Kelly Vorrasi |
+| **Executive Producer** | John Verhoff |
 | **Graphics** | Elevation |
 | **Location Sound** | Tom Backus, Eric Bugash, Randy Foster, Chris Gurney, Michael Solomon |
 | **Music** | Legativity |
@@ -31,11 +29,12 @@
 | **Online Editors** | Scott Lee, Philip Tatler IV |
 | **Post Prep** | Zach Land, Niles Maddox, Dylan Harris, Sean Sexton, Jamison Stalsworth |
 | **Post Supervisor** | John Kennedy, Dana Merwin |
-| **Produced by** | Jupiter Entertainment, For History |
+| **Produced By** | Jupiter Entertainment, For History |
+| **Producer** | Greg DeHart |
 | **Production Assistance** | Jeremy Ashcraft, Tamara Perry, Michelle Weiss, Amanda Feathers |
 | **Production Manager** | Katie Young |
+| **Programming Coordinator** | Kelly Vorrasi |
 | **Supervising Producer** | Ron Nelson, Sharon Martin |
-| **Writer/Producer** | Greg DeHart |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00690.md)

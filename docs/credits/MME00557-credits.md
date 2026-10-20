@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2006, 2002A & E Television Networks All Rights Reserved`
-* **Production Company:** DIGITAL RANCH & ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A & E Television Networks, DIGITAL RANCH PRODUCTIONS
+* **Production Company:** Digital Ranch & Actuality Productions, Inc., History Television Network Productions, A & E Television Networks, Digital Ranch Productions
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -20,17 +20,16 @@
 | **Clearance Coordinators** | Lawrence Givens III, Aaron Zober |
 | **Clearance Supervisor** | Valarie Sheldon |
 | **Co-Producer** | Terry Deitz |
-| **Director of Rights and Clearances** | Katie Del Core |
-| **Edited by** | Andre Vaillancourt, Ian Hutchinson |
+| **Director Of Rights And Clearances** | Katie Del Core |
+| **Edited By** | Andre Vaillancourt, Ian Hutchinson |
 | **Editors** | Joey Barasch, Samantha Jetter |
-| **FOR ACTUALITY PRODUCTIONS / Executive Producer** | Don Cambou |
-| **FOR ACTUALITY PRODUCTIONS / Line Producer** | Paul Dzilvelis |
-| **FOR DIGITAL RANCH PRODUCTIONS / Executive Producers** | Robert Kirk, Rob Lihani |
+| **Executive Producer** | Don Cambou |
+| **Executive Producers** | Robert Kirk, Rob Lihani |
 | **Field Audio** | Duncan Brown, Steve Kondracki, Bruce Moitoza, Mark Solomon |
 | **Footage Consultant** | Ted Troll |
 | **Graphics** | Barry Hill |
-| **Grip/Teleprompter** | Jeremy Evans |
 | **Historical Consultants** | Dennis Romano, John Vosilla |
+| **Line Producer** | Paul Dzilvelis |
 | **Online Editor** | John Price |
 | **Post Assistants** | Rob Harrington, Gaylen Kobayashi |
 | **Post Coordinator** | Terrence Hartwell |
@@ -38,6 +37,7 @@
 | **Post Production Supervisor** | Abe Scheuermann |
 | **Production Associates** | Joe Peicott |
 | **Production Manager** | Shelia Collins |
+| **Teleprompter** | Jeremy Evans |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00557.md)

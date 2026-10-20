@@ -11,20 +11,11 @@
     "Max Raphael"
   ],
   "crew": {
-    "Production Controller": [
-      "Dani Eslin"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Coordinator": [
-      "Melinda Esquibel"
-    ],
-    "Researchers": [
-      "Mikki Del Monico",
-      "John Knapp",
-      "Sean Heckman",
-      "Tom Barclay"
+    "Animation By": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -33,8 +24,9 @@
     "Assistant Post Coordinator": [
       "Alexander Rubinow"
     ],
-    "Post Assistant": [
-      "Gaylen Kobayashi"
+    "Associate Producers": [
+      "Dan Gibbons",
+      "Emily Lau"
     ],
     "Camera": [
       "Henry Abler",
@@ -45,6 +37,21 @@
       "Bruce Maniscalco",
       "David Palmer"
     ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Coordinator": [
+      "Melinda Esquibel"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Anthony Lacques"
+    ],
+    "Edited By": [
+      "Robert Lattanzio"
+    ],
     "Field Audio": [
       "Joe Bryan",
       "Allan Green",
@@ -52,46 +59,39 @@
       "Michael Held",
       "Ben Moyer"
     ],
-    "Animation by": [
-      "Victor Bornia"
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
     ],
     "Historical Consultants": [
       "Peter Duncan Burchard",
       "Kay Hively"
     ],
-    "Technical Consultant": [
-      "Chris Toebben"
-    ],
-    "For History / Executive Producer": [
-      "Beth Dietrich-Segarra"
-    ],
     "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "Associate Producers": [
-      "Dan Gibbons",
-      "Emily Lau"
+    "Music By": [
+      "Guy Thomas"
     ],
-    "Edited by": [
-      "Robert Lattanzio"
-    ],
-    "Narrated by": [
+    "Narrated By": [
       "Max Raphael"
     ],
-    "Music by": [
-      "Guy Thomas"
+    "Post Assistant": [
+      "Gaylen Kobayashi"
     ],
     "Producer": [
       "Bruce Nash"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Production Controller": [
+      "Dani Eslin"
     ],
-    "Clearance Supervisor": [
-      "Katie Del Core"
+    "Researchers": [
+      "Mikki Del Monico",
+      "John Knapp",
+      "Sean Heckman",
+      "Tom Barclay"
     ],
-    "Director of Research": [
-      "Anthony Lacques"
+    "Technical Consultant": [
+      "Chris Toebben"
     ]
   }
 }

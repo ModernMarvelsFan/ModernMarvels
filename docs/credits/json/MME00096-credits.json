@@ -8,11 +8,52 @@
     "Harlan Saperstein"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
+    "Additional Graphics": [
+      "Barry Hill",
+      "Emily Lau"
+    ],
+    "Animation And Graphics": [
+      "Doug Whitney"
+    ],
+    "Assistant Editors": [
+      "Stuart Brodlieb",
+      "Harris Cohen"
+    ],
+    "Assistant Production Accountants": [
+      "Linda Scribner",
+      "Judi Minitello"
+    ],
+    "Associate Producer": [
+      "Tracy Hood"
+    ],
+    "Camera Operators": [
+      "James Becker",
+      "Mark S. Dougherty",
+      "Matthew B. Mayes"
+    ],
+    "Clearance Coordinator": [
+      "Randy Pitler"
+    ],
+    "Clearance Supervisor": [
+      "Amy Trahant"
     ],
     "Created By": [
       "Bruce Nash"
+    ],
+    "Edited By": [
+      "Jack Foster",
+      "Bob Potter"
+    ],
+    "Field Audio": [
+      "Michael Becker",
+      "John Charles Skinner",
+      "James Hughes"
+    ],
+    "Executive Producer": [
+      "Charlie Maday"
+    ],
+    "Supervising Producer": [
+      "Don Cambou"
     ],
     "Line Producer": [
       "Paul Dzilvelis"
@@ -20,88 +61,44 @@
     "Narrated By": [
       "Harlan Saperstein"
     ],
-    "Production Manager": [
-      "Lisa Blackwood Hope"
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Production Assistant": [
+      "Gary Reid"
+    ],
+    "Post Production Coordinator": [
+      "Jason Steinberg"
     ],
     "Post Production Supervisor": [
       "Scott Berkson"
     ],
-    "Clearance Supervisor": [
-      "Amy Trahant"
+    "Producer": [
+      "Bruce Nash"
     ],
-    "Clearance Coordinator": [
-      "Randy Pitler"
+    "Production Assistants": [
+      "Maryalice R. Aragon",
+      "Kevin Crowell"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Kathy Exner"
+    ],
+    "Production Manager": [
+      "Lisa Blackwood Hope"
     ],
     "Researchers": [
       "Barry Hill",
       "Erik Hietter",
       "Emily Lau"
     ],
-    "Camera Operators": [
-      "James Becker",
-      "Mark S. Dougherty",
-      "Matthew B. Mayes"
-    ],
-    "Field Audio": [
-      "Michael Becker",
-      "John Charles Skinner",
-      "James Hughes"
-    ],
-    "Post Production Coordinator": [
-      "Jason Steinberg"
-    ],
-    "Assistant Editors": [
-      "Stuart Brodlieb",
-      "Harris Cohen"
-    ],
-    "Post Production Assistant": [
-      "Gary Reid"
-    ],
-    "Online Editor": [
-      "David Rex"
-    ],
     "Sound Mixer": [
       "Mark Jensen"
     ],
-    "Animation and Graphics": [
-      "Doug Whitney"
-    ],
-    "Additional Graphics": [
-      "Barry Hill",
-      "Emily Lau"
-    ],
-    "Production Auditor": [
-      "Dani Eslin"
-    ],
-    "Assistant Production Accountants": [
-      "Linda Scribner",
-      "Judi Minitello"
-    ],
-    "Production Coordinator": [
-      "Kathy Exner"
-    ],
-    "Production Assistants": [
-      "Maryalice R. Aragon",
-      "Kevin Crowell"
-    ],
-    "For The History Channel / Supervising Producer": [
-      "Beth Dietrich"
-    ],
-    "For The History Channel / Executive Producer": [
-      "Charlie Maday"
-    ],
-    "Supervising Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Martin Kent"
-    ],
-    "Associate Producer": [
-      "Tracy Hood"
-    ],
-    "Edited By": [
-      "Jack Foster",
-      "Bob Potter"
     ]
   }
 }

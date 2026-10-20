@@ -14,8 +14,8 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animated Photos by** | Adam Goodwin |
-| **Animation by** | Flyingblue Studio |
+| **Animated Photos By** | Adam Goodwin |
+| **Animation By** | Flyingblue Studio |
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow |
 | **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Mike Johnson, Adrian Sam, Thom Slaton, Paul J. Wostrack |

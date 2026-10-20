@@ -14,25 +14,23 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animated Photos by** | Adam Goodwin |
-| **Animation by** | Randall Rickert |
+| **Animated Photos By** | Adam Goodwin |
+| **Animation By** | Randall Rickert |
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow |
 | **Assistant Post Coordinator** | Gaylen Kobayashi |
 | **Associate Producer** | David Bradstreet |
 | **Camera** | Rick Allen, Rick Fielding, Al Klimas, Peter Krajewski, Adam Sampson |
 | **Clearance Coordinators** | Lawrence Givens III, Aaron Zober |
 | **Coordinator** | Brad Skiles |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Allison Boon |
-| **Director of Rights and Clearances** | Katie Del Core |
-| **Edited by** | Scot Kelly |
-| **Executive Producer** | Don Cambou |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Director Of Rights And Clearances** | Katie Del Core |
+| **Edited By** | Scot Kelly |
+| **Executive Producer** | Beth Dietrich — Segarra |
 | **Field Audio** | Ric Hase, Ryan Klimas, Jeff Knudsen, Mario Pimental |
-| **For History / Executive Producer** | Beth Dietrich — Segarra |
-| **For History / Programming Coordinator** | Michele Wilcox |
 | **Historical Consultant** | Gail Selinger |
-| **Music by** | Guy Thomas |
-| **Narrated by** | Max Raphael |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Coordinator** | Terrence Hartwell |
 | **Post Producer** | Tim Knauff |
@@ -41,10 +39,11 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Michele Wilcox |
 | **Researchers** | Uldis Balodis, John Knapp |
 | **Sound Mixer** | Mark Jensen |
 | **Voice Over Coordinator** | John Knapp |
-| **Written and Produced by** | Greg Goldman |
+| **Written And Produced By** | Greg Goldman |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00529.md)

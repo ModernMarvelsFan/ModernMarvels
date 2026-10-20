@@ -11,38 +11,26 @@
     "Max Raphael"
   ],
   "crew": {
-    "Director of Clearance": [
-      "Katie Del Core"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Coordinator": [
-      "Brad Skiles"
+    "Animated Stills By": [
+      "Victor Bornia",
+      "Adam Goodwin"
     ],
-    "Clearance Coordinators": [
-      "Aaron Zober",
-      "Allan Schwegmann"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
+    "Animation By": [
+      "FlyingBlue Studio"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
       "Alexander Rubinow"
     ],
+    "Associate Producer": [
+      "Jessica Loveless"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "James Orbison"
     ],
     "Camera": [
       "C. Walker Ballance",
@@ -54,6 +42,29 @@
       "Scott Shelley",
       "Charles Tudor"
     ],
+    "Clearance Coordinators": [
+      "Aaron Zober",
+      "Allan Schwegmann"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Katie Del Core"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Edited By": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra",
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Ryan Agostino",
       "Nancie Araki",
@@ -62,58 +73,47 @@
       "Scott Payne",
       "Jason Stoddard"
     ],
-    "Production Assistant": [
-      "Eugene F. O'Neill"
-    ],
-    "Animated Stills by": [
-      "Victor Bornia",
-      "Adam Goodwin"
-    ],
-    "Animation by": [
-      "FlyingBlue Studio"
-    ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Ed Thacker"
-    ],
-    "Executive Producer": [
-      "Beth Dietrich-Segarra",
-      "Don Cambou"
-    ],
-    "Programming Coordinator": [
-      "Michele Wilcox"
-    ],
-    "Written and Produced by": [
-      "Henry Schipper"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Associate Producer": [
-      "Jessica Loveless"
+    "Music By": [
+      "Alan Ett Music Group"
     ],
     "Narrated By": [
       "Max Raphael"
     ],
-    "Edited by": [
-      "Lou LaProcido"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music By": [
-      "Alan Ett Music Group"
+    "Post Assist": [
+      "James Orbison"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
     ],
     "Producer": [
       "Bruce Nash"
     ],
+    "Production Assistant": [
+      "Eugene F. O'Neill"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
     "Production Manager": [
       "Shelia Collins"
     ],
-    "Created By": [
-      "Bruce Nash"
+    "Programming Coordinator": [
+      "Michele Wilcox"
     ],
-    "Post Producer": [
-      "Tim Knauff"
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Written And Produced By": [
+      "Henry Schipper"
     ]
   }
 }

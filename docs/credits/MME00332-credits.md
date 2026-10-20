@@ -14,13 +14,13 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **"Panzers" Produced by** | ROBERT KIRK |
-| **Director** | ROBERT KIRK |
-| **Executive Producer** | CRAIG HAFFNER |
-| **Music by** | CHRISTOPHER STONE, RICHARD BAND |
-| **Senior Editors** | STEVE POMERANTZ, R.L. SHONTELL |
-| **Series Producer** | JOHN CORRY |
-| **Supervising Producer** | ROBERT LIHANI |
+| **"Panzers" Produced By** | Robert Kirk |
+| **Director** | Robert Kirk |
+| **Executive Producer** | Craig Haffner |
+| **Music By** | Christopher Stone, Richard Band |
+| **Senior Editors** | Steve Pomerantz, R.L. Shontell |
+| **Series Producer** | John Corry |
+| **Supervising Producer** | Robert Lihani |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00332.md)

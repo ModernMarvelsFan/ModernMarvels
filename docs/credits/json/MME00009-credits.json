@@ -4,77 +4,77 @@
   "year": "1995",
   "copyright": "© 2004 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "JAFFE PRODUCTIONS",
+    "Jaffe Productions",
     "Hearst Entertainment Television",
-    "THE HISTORY CHANNEL",
-    "JIM KEESHEN PRODUCTIONS"
+    "The History Channel",
+    "Jim Keeshen Productions"
   ],
   "narrators": [
-    "JACK PERKINS"
+    "Jack Perkins"
   ],
   "crew": {
-    "Production Manager": [
-      "TAMMY WOOD"
-    ],
-    "Researcher": [
-      "TOM HUCKABEE"
-    ],
-    "Post Production Coordinator": [
-      "KAREN S. MEISSNER"
-    ],
-    "Post Production Assistant": [
-      "MARC CEBRIAN"
-    ],
-    "Music by": [
-      "SCOTT PAGE-PAGTER",
-      "JOHN VALENTINO"
-    ],
-    "On-Line Editor": [
-      "NED WEISMAN"
-    ],
-    "Production Accountant": [
-      "WENDY PRICE"
-    ],
-    "Production Assistants": [
-      "JAMES D. WOOD",
-      "LORI GRAY COSTAS",
-      "HOLLY CADE CULHANE"
-    ],
-    "Motion Control": [
-      "JIM KEESHEN PRODUCTIONS"
-    ],
     "Archival Footage Consultant": [
-      "TED TROLL"
-    ],
-    "Executive in Charge of Production": [
-      "MEL A. BISHOP"
-    ],
-    "Executive Producer for Hearst": [
-      "GERALD W. ABRAMS"
-    ],
-    "Executive Producer": [
-      "BOB JAFFE"
-    ],
-    "Written and Produced by": [
-      "ANDY THOMAS"
+      "Ted Troll"
     ],
     "Co-Producer": [
-      "JEFF SCHEFTEL"
+      "Jeff Scheftel"
     ],
     "Coordinating Producer": [
-      "TIM BUSA"
+      "Tim Busa"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Andrew Corwin"
+    ],
+    "Executive Producer": [
+      "Bob Jaffe"
+    ],
+    "Executive Producer For Hearst": [
+      "Gerald W. Abrams"
+    ],
+    "Executive In Charge Of Production": [
+      "Mel A. Bishop"
+    ],
+    "Motion Control": [
+      "Jim Keeshen Productions"
+    ],
+    "Music By": [
+      "Scott Page-Pagter",
+      "John Valentino"
+    ],
+    "Narrated By": [
+      "Jack Perkins"
+    ],
+    "On-Line Editor": [
+      "Ned Weisman"
+    ],
+    "Post Production Assistant": [
+      "Marc Cebrian"
+    ],
+    "Post Production Coordinator": [
+      "Karen S. Meissner"
     ],
     "Producer": [
-      "BRUCE NASH"
+      "Bruce Nash"
     ],
-    "Edited by": [
-      "ANDREW CORWIN"
+    "Production Accountant": [
+      "Wendy Price"
     ],
-    "Created by": [
-      "BRUCE NASH"
+    "Production Assistants": [
+      "James D. Wood",
+      "Lori Gray Costas",
+      "Holly Cade Culhane"
     ],
-    "Narrated by": [
-      "JACK PERKINS"
+    "Production Manager": [
+      "Tammy Wood"
+    ],
+    "Researcher": [
+      "Tom Huckabee"
+    ],
+    "Written And Produced By": [
+      "Andy Thomas"
     ]
   }
 }

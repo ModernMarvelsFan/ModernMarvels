@@ -7,40 +7,39 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1998 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ALAN ETT MUSIC GROUP, INC.
-* **Narrator:** HARLAN SAPERSTEIN
+* **Production Company:** Alan Ett Music Group, Inc.
+* **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Assistant Editors** | LOU LaPROCIDO, DERRICK McDANIEL |
-| **Assistant Production Accountants** | TRACY TOWERS, LINDA SCRIBNER |
-| **Assistant to Don Cambou** | TIM SHELL |
+| **Assistant Production Accountants** | Tracy Towers, Linda Scribner |
+| **Assistant To Don Cambou** | Tim Shell |
 | **Associate Producer** | GREG DeHART |
-| **Audio Post Production** | ALAN ETT MUSIC GROUP, INC., SAM KAUFMAN, DANIEL COLMAN |
-| **Camera Operators** | JERRY HUGHES, MATTHEW WOLFF |
-| **Created by** | BRUCE NASH |
-| **Edited by** | JANE McCORD |
-| **Executive Producer** | BOB JAFFE |
-| **Footage Consultant** | TED TROLL |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Series Manager** | ELYSE MIRANDA |
-| **Graphics by** | DOUG WHITNEY |
-| **Music by** | ALAN ETT |
-| **Narrated by** | HARLAN SAPERSTEIN |
-| **Online Editor** | DAVID PLEASANT |
-| **Post Production Coordinator** | BRADY HECK |
-| **Post Production Supervisor** | MIKE PARENTE |
-| **Producer** | BRUCE NASH |
-| **Production Assistants** | KEITH DOLS, JASON LENZI |
-| **Production Finance Supervisor** | PAUL DZILVELIS |
-| **Production Manager** | W. GREG BOHNERT |
-| **Researcher** | RICK BENAVIDES |
-| **Senior Production Executive** | JACK SEIFERT |
-| **Sound Mixers** | JERRY SCHAD, REX NORDHEIMER |
-| **Supervising Producer** | DON CAMBOU |
-| **Written and Produced by** | CHUCK HAYES |
+| **Audio Post Production** | Alan Ett Music Group, Inc., Sam Kaufman, Daniel Colman |
+| **Camera Operators** | Jerry Hughes, Matthew Wolff |
+| **Created By** | Bruce Nash |
+| **Edited By** | JANE McCORD |
+| **Executive Producer** | Charlie Maday |
+| **Footage Consultant** | Ted Troll |
+| **Graphics By** | Doug Whitney |
+| **Music By** | Alan Ett |
+| **Narrated By** | Harlan Saperstein |
+| **Online Editor** | David Pleasant |
+| **Post Production Coordinator** | Brady Heck |
+| **Post Production Supervisor** | Mike Parente |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Keith Dols, Jason Lenzi |
+| **Production Finance Supervisor** | Paul Dzilvelis |
+| **Production Manager** | W. Greg Bohnert |
+| **Researcher** | Rick Benavides |
+| **Senior Production Executive** | Jack Seifert |
+| **Series Manager** | Elyse Miranda |
+| **Sound Mixers** | Jerry Schad, Rex Nordheimer |
+| **Supervising Producer** | Don Cambou |
+| **Written And Produced By** | Chuck Hayes |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00058.md)

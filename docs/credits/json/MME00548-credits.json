@@ -12,6 +12,17 @@
     "Max Raphael"
   ],
   "crew": {
+    "Animated Photos By": [
+      "Adam Goodwin"
+    ],
+    "Animation By": [
+      "Doug Whitney"
+    ],
+    "Assistant Editors": [
+      "Laura Steinhoff",
+      "Josh Beckham",
+      "Alexander Rubinow"
+    ],
     "Assistant Post Coordinator": [
       "Gaylen Kobayashi"
     ],
@@ -24,6 +35,28 @@
       "Peter Levermann",
       "Greg Steinbrecher"
     ],
+    "Clearance Coordinators": [
+      "Lawrence Givens III",
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Director Of Rights And Clearances": [
+      "Katie Del Core"
+    ],
+    "Edited By": [
+      "Marcelo Lopes"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Bruce Engler",
       "Patrick Lenehan",
@@ -33,88 +66,55 @@
       "Eldon Van Vickle",
       "Paul Wustrack"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Erik Valenzuela"
-    ],
-    "Animation by": [
-      "Doug Whitney"
-    ],
-    "Animated Photos by": [
-      "Adam Goodwin"
+    "Programming Coordinator": [
+      "Michele Wilcox"
     ],
     "Historical Consultants": [
       "Marc S. Balkin",
       "Jim Boyd"
     ],
-    "For The History Channel / Programming Coordinator": [
-      "Michele Wilcox"
-    ],
-    "Produced by": [
-      "Actuality Productions, Inc.",
-      "History Television Network Productions"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Written and Produced by": [
-      "Kristina Djokic"
-    ],
-    "Edited by": [
-      "Marcelo Lopes"
-    ],
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Music by": [
+    "Music By": [
       "Alan Ett Music Group"
     ],
-    "Producer": [
-      "Bruce Nash"
+    "Narrated By": [
+      "Max Raphael"
     ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Rights and Clearances": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Production Accountant": [
-      "Anthony R. Reyes"
-    ],
-    "Researcher": [
-      "Uldis Balodis"
-    ],
-    "Coordinator": [
-      "Brad Skiles"
-    ],
-    "Clearance Coordinators": [
-      "Lawrence Givens III",
-      "Aaron Zober"
+    "Online Editor": [
+      "John Price"
     ],
     "Post Coordinator": [
       "Terrence Hartwell"
     ],
-    "Assistant Editors": [
-      "Laura Steinhoff",
-      "Josh Beckham",
-      "Alexander Rubinow"
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc.",
+      "History Television Network Productions"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Anthony R. Reyes"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Uldis Balodis"
+    ],
+    "Sound Mixer": [
+      "Erik Valenzuela"
+    ],
+    "Written And Produced By": [
+      "Kristina Djokic"
     ]
   }
 }

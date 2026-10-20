@@ -11,8 +11,11 @@
     "Dawn Irwin"
   ],
   "crew": {
-    "For The History Channel / Executive Producer": [
-      "Beth Dietrich-Segarra"
+    "Animation": [
+      "Victor Bornia"
+    ],
+    "Assistant Production Accountant": [
+      "Linda Scribner"
     ],
     "Camera": [
       "Bud Kelly",
@@ -22,42 +25,39 @@
     "Field Audio": [
       "Chuck Cocita"
     ],
-    "Post Production Supervisor": [
-      "Jason Steinberg"
-    ],
-    "Post Production Coordinator": [
-      "Gary Reid"
-    ],
-    "Voice Over Coordinator": [
-      "Dawn Irwin"
-    ],
-    "Post Production Assistant": [
-      "Montgomery Jesselton Kingsley"
-    ],
-    "Online Editor": [
-      "David Rex"
-    ],
-    "Sound Mixer": [
-      "Paul Ray"
-    ],
-    "Animation": [
-      "Victor Bornia"
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
     ],
     "Graphics": [
       "Barry Hill"
     ],
-    "Production Auditor": [
-      "Dani Eslin"
+    "Online Editor": [
+      "David Rex"
     ],
-    "Assistant Production Accountant": [
-      "Linda Scribner"
+    "Post Production Assistant": [
+      "Montgomery Jesselton Kingsley"
     ],
-    "Production Coordinator": [
-      "Michael Z Davis"
+    "Post Production Coordinator": [
+      "Gary Reid"
+    ],
+    "Post Production Supervisor": [
+      "Jason Steinberg"
     ],
     "Production Assistants": [
       "Maryalice R. Aragon",
       "Rasi Delgado"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Michael Z Davis"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Dawn Irwin"
     ]
   }
 }

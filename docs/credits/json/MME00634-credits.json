@@ -11,24 +11,15 @@
     "Dave Hoffman"
   ],
   "crew": {
-    "Executive Producer": [
-      "Kevin Burns"
+    "Associate Producer": [
+      "Natalie Artin"
+    ],
+    "Batman Created By": [
+      "Bob Kane"
     ],
     "Co-Executive Producers": [
       "Scott Hartford",
       "Kim Sheerin"
-    ],
-    "Producer": [
-      "Rick Hull"
-    ],
-    "Writer": [
-      "Steven Smith"
-    ],
-    "Narrator": [
-      "Dave Hoffman"
-    ],
-    "Senior Editor": [
-      "David Comtois"
     ],
     "Editors": [
       "Derek Chin",
@@ -36,38 +27,44 @@
       "Molly Shock",
       "Kaylyn Thornal"
     ],
-    "Associate Producer": [
-      "Natalie Artin"
+    "Executive Producer": [
+      "Charles Norlander"
+    ],
+    "Programming Coordinator": [
+      "Adam Rosante"
+    ],
+    "Business &amp; Legal Affairs": [
+      "Steven J. Peña"
+    ],
+    "Clearance Coordinator": [
+      "Bianca Cioffi"
+    ],
+    "Director Of Rights &amp; Clearances": [
+      "Mary DeMaria"
+    ],
+    "Production Coordinator": [
+      "Joe Lessard"
+    ],
+    "Narrator": [
+      "Dave Hoffman"
     ],
     "Post Production Producer": [
       "Gregory S. Cohan"
     ],
-    "Researcher": [
-      "Matt Cunningham"
+    "Producer": [
+      "Rick Hull"
     ],
     "Production Assistant": [
       "Charlie Ferraye"
     ],
-    "Batman Created by": [
-      "Bob Kane"
+    "Researcher": [
+      "Matt Cunningham"
     ],
-    "For Prometheus Entertainment / Director of Rights & Clearances": [
-      "Mary DeMaria"
+    "Senior Editor": [
+      "David Comtois"
     ],
-    "For Prometheus Entertainment / Business & Legal Affairs": [
-      "Steven J. Peña"
-    ],
-    "For Prometheus Entertainment / Clearance Coordinator": [
-      "Bianca Cioffi"
-    ],
-    "For Prometheus Entertainment / Production Coordinator": [
-      "Joe Lessard"
-    ],
-    "For History / Programming Coordinator": [
-      "Adam Rosante"
-    ],
-    "For History / Executive Producer": [
-      "Charles Norlander"
+    "Writer": [
+      "Steven Smith"
     ]
   }
 }

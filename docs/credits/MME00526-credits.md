@@ -14,20 +14,20 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation by** | Flyingblue Studio |
+| **Animation By** | Flyingblue Studio |
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow |
 | **Assistant Post Coordinator** | Gaylen Kobayashi |
 | **Associate Producer** | Melissa Freeman |
 | **Clearance Coordinators** | Lawrence Grochs III, Aaron Zuber |
 | **Coordinator** | Brad Skiles |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Allison Boon |
-| **Director of Rights and Clearances** | Katie Del Core |
-| **Edited by** | Scot Kelly |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Director Of Rights And Clearances** | Katie Del Core |
+| **Edited By** | Scot Kelly |
 | **Executive Producer** | Don Cambou |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Guy Thomas |
-| **Narrated by** | Max Raphael |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Coordinator** | Terrence Hartwell |
 | **Post Producer** | Tim Knauff |
@@ -38,7 +38,7 @@
 | **Sound Mixer** | Erik Valenzuela |
 | **Technical Consultants** | Thermon Engineering Corporation, Traeger Industries, Weber-Stephen Products Company, Kingsford Charcoal Company |
 | **Voice Over Coordinator** | John Knapp |
-| **Written and Produced by** | Richard Jones |
+| **Written And Produced By** | Richard Jones |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00526.md)

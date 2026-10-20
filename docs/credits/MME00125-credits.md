@@ -14,19 +14,19 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | HARRIS COHEN, GARY REID |
-| **Assistant Production Accountants** | LINDA SCRIBNER, FRANCIS RAMEY |
-| **Footage Consultant** | TED TROLL |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Supervising Producer** | BETH DIETRICH |
-| **Online Editor** | DAVID REX |
-| **Post Production Assistant** | BRIAN VOLK |
-| **Post Production Coordinator** | JASON STEINBERG |
-| **Produced by** | ACTUALITY Productions, Inc. |
-| **Production Assistants** | MARYALICE R. ARAGON, GWENDOLYN MURPHY, JAMIE SCHOENBRUN |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Sound Mixer** | MATT GRUBER |
+| **Assistant Editors** | Harris Cohen, Gary Reid |
+| **Assistant Production Accountants** | Linda Scribner, Francis Ramey |
+| **Executive Producer** | Charlie Maday |
+| **Footage Consultant** | Ted Troll |
+| **Online Editor** | David Rex |
+| **Post Production Assistant** | Brian Volk |
+| **Post Production Coordinator** | Jason Steinberg |
+| **Produced By** | ACTUALITY Productions, Inc. |
+| **Production Assistants** | Maryalice R. Aragon, Gwendolyn Murphy, Jamie Schoenbrun |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Sound Mixer** | Matt Gruber |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00125.md)

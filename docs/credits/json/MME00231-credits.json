@@ -12,48 +12,17 @@
     "Dawn Irwin"
   ],
   "crew": {
-    "Consulting Producer": [
-      "Henry Schipper"
-    ],
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Edited by": [
-      "Sean Dash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Music by": [
-      "Alan Ett"
-    ],
-    "Production Manager": [
-      "Kathlene Exner"
-    ],
-    "Post Producer": [
-      "Scott Berkson"
-    ],
-    "Clearance Supervisor": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Hildie Katibah"
+    "Animation": [
+      "Victor Bornia"
     ],
     "Archivist": [
       "Nilda Pergola-Jensen"
     ],
-    "Researchers": [
-      "Mark Savage",
-      "Diane Wai"
+    "Assistant Production Accountant": [
+      "Linda Scribner"
     ],
-    "Clearance Assistant": [
-      "Gabe Martinez"
-    ],
-    "Historical Consultant": [
-      "McAllister Hull"
-    ],
-    "Footage Consultant": [
-      "Ted Troll"
+    "Associate Producer": [
+      "Ryan W. Senter"
     ],
     "Camera": [
       "Peter Krajewski",
@@ -62,58 +31,89 @@
       "Bud Osborne",
       "Jesse Phinney"
     ],
-    "Field Audio": [
-      "Rich Bair"
+    "Clearance Assistant": [
+      "Gabe Martinez"
     ],
-    "Post Production Supervisor": [
-      "Jason Steinberg"
+    "Clearance Supervisor": [
+      "Katie Del Core"
     ],
-    "Post Production Coordinator": [
-      "Gary Reid"
+    "Consulting Producer": [
+      "Henry Schipper"
     ],
-    "Voice Over Coordinator": [
-      "Dawn Irwin"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Post Production Assistant": [
-      "Montgomery Jesselton Kingsley"
+    "Director Of Research": [
+      "Hildie Katibah"
     ],
-    "Online Editor": [
-      "David Rex"
-    ],
-    "Sound Mixer": [
-      "Paul Ray"
-    ],
-    "Animation": [
-      "Victor Bornia"
-    ],
-    "Graphics": [
-      "Barry Hill"
-    ],
-    "Production Auditor": [
-      "Dani Eslin"
-    ],
-    "Assistant Production Accountant": [
-      "Linda Scribner"
-    ],
-    "Production Coordinator": [
-      "Michael Z Davis"
-    ],
-    "Production Assistants": [
-      "Maryalice R. Aragon",
-      "Rasi Delgado"
+    "Edited By": [
+      "Sean Dash"
     ],
     "Executive Producer": [
       "Beth Dietrich-Segarra",
       "Don Cambou"
     ],
-    "Written and Produced by": [
-      "Sean Dash"
+    "Field Audio": [
+      "Rich Bair"
     ],
-    "Associate Producer": [
-      "Ryan W. Senter"
+    "Footage Consultant": [
+      "Ted Troll"
+    ],
+    "Graphics": [
+      "Barry Hill"
+    ],
+    "Historical Consultant": [
+      "McAllister Hull"
     ],
     "Line Producer": [
       "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Producer": [
+      "Scott Berkson"
+    ],
+    "Post Production Assistant": [
+      "Montgomery Jesselton Kingsley"
+    ],
+    "Post Production Coordinator": [
+      "Gary Reid"
+    ],
+    "Post Production Supervisor": [
+      "Jason Steinberg"
+    ],
+    "Production Assistants": [
+      "Maryalice R. Aragon",
+      "Rasi Delgado"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Michael Z Davis"
+    ],
+    "Production Manager": [
+      "Kathlene Exner"
+    ],
+    "Researchers": [
+      "Mark Savage",
+      "Diane Wai"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Dawn Irwin"
+    ],
+    "Written And Produced By": [
+      "Sean Dash"
     ]
   }
 }

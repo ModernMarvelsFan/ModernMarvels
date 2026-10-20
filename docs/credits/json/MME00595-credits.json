@@ -11,36 +11,22 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Coordinators": [
-      "Terrence Hartwell",
-      "Brad Skiles",
-      "Maya Sykes"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
+    "Animation": [
+      "FlyingBlue Studio"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
       "Alexander Rubinow"
     ],
+    "Associate Producer": [
+      "Lawrence Givens III"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Joshua Janiak"
     ],
     "Camera": [
       "Paul Dougherty",
@@ -48,6 +34,23 @@
       "Lon Magdich",
       "Z Vidusin",
       "Diana Wilmar"
+    ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinators": [
+      "Terrence Hartwell",
+      "Brad Skiles",
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
     ],
     "Field Audio": [
       "Mike Curtiss",
@@ -57,20 +60,45 @@
       "Mark Solomon",
       "Tom M. Staton"
     ],
+    "Executive Producers": [
+      "Beth Dietrich-Segarra",
+      "Michael Stiller"
+    ],
+    "Programming Coordinator": [
+      "Adam Rosante"
+    ],
+    "Music": [
+      "Guy Thomas"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "FlyingBlue Studio"
+    "Post Assist": [
+      "Joshua Janiak"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
     ],
     "Sound Mixer": [
       "Mark Jensen"
     ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Supervising Producer": [
+      "Ron Nelson"
     ],
     "Technical Consultants": [
-      "HASTENS",
+      "Hastens",
       "Ernest Lopez",
       "Microsoft Corporation",
       "Premier Diagnostics",
@@ -79,36 +107,8 @@
       "Yelo",
       "Dick Zimmerer"
     ],
-    "For The History Channel / Programming Coordinator": [
-      "Adam Rosante"
-    ],
-    "For The History Channel / Executive Producers": [
-      "Beth Dietrich-Segarra",
-      "Michael Stiller"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Beata Ziel"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Lawrence Givens III"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Editor": [
-      "Lou LaProcido"
-    ],
-    "Music": [
-      "Guy Thomas"
     ]
   }
 }

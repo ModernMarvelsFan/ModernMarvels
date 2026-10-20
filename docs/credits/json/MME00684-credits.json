@@ -5,102 +5,102 @@
   "copyright": "© 2010 A&E TELEVISION NETWORKS ALL RIGHTS RESERVED",
   "studios": [
     "Half Yard Productions",
-    "PERCOLATE DIGITAL",
-    "TAKOMA MEDIA"
+    "Percolate Digital",
+    "Takoma Media"
   ],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "Digitizer": [
-      "MARCIA ROBUSTO"
+    "Additional Editing": [
+      "Austin Elston",
+      "Lara Underwood"
     ],
     "Assistant Editors": [
-      "ADAM KIRK",
-      "WANAKHAVI WAKHISI"
-    ],
-    "Additional Editing": [
-      "AUSTIN ELSTON",
-      "LARA UNDERWOOD"
-    ],
-    "Graphics": [
-      "PERCOLATE DIGITAL"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "JENNIFER PARTIN"
-    ],
-    "Post Production Coordinator": [
-      "CAMERON YOUNG"
-    ],
-    "Post Production Supervisor": [
-      "LIAM MONSCHEIN"
+      "Adam Kirk",
+      "Wanakhavi Wakhisi"
     ],
     "Associate Producer": [
-      "SARAH ROONEY"
+      "Sarah Rooney"
     ],
-    "Production Coordinator": [
-      "TAINESA DAVIS"
+    "Associate Producers": [
+      "Arjun V. Rao",
+      "Amber Seyler",
+      "Kelly Tucker"
     ],
-    "Intern": [
-      "REBECCA SALZMAN"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Production Accountant": [
-      "ROSSANA O'HOP"
+    "Digitizer": [
+      "Marcia Robusto"
     ],
-    "For History / Executive Producer": [
-      "JOHN VERHOFF"
-    ],
-    "Executive Producers": [
-      "SEAN GALLAGHER",
-      "ABBY GREENSFELDER",
-      "LIBBY RICHMAN"
-    ],
-    "Series Producer": [
-      "BRIAN LEONARD"
-    ],
-    "Producer": [
-      "CONOR McCARTHY"
+    "Directors Of Photography": [
+      "Stephen Harrison",
+      "Stefan Wiesen"
     ],
     "Editor": [
       "JAY DANNER-McDONALD"
     ],
+    "Executive Producers": [
+      "Sean Gallagher",
+      "Abby Greensfelder",
+      "Libby Richman"
+    ],
     "Field Producer": [
-      "FRENCH HORWITZ"
+      "French Horwitz"
     ],
-    "Researcher": [
-      "ANN CRAIG DUVALL"
+    "Executive Producer": [
+      "John Verhoff"
     ],
-    "Associate Producers": [
-      "ARJUN V. RAO",
-      "AMBER SEYLER",
-      "KELLY TUCKER"
+    "Graphics": [
+      "Percolate Digital"
     ],
-    "Directors of Photography": [
-      "STEPHEN HARRISON",
-      "STEFAN WIESEN"
-    ],
-    "Sound": [
-      "ALI BAZUGAMENSHI",
-      "BRIAN BUCKLEY",
-      "MARK MARIACA",
-      "JUAN NUEVO",
-      "LEN SCHMITZ"
-    ],
-    "Narrator": [
-      "MAX RAPHAEL"
+    "Intern": [
+      "Rebecca Salzman"
     ],
     "Music": [
-      "AUDIO NETWORKS",
-      "EXTREME MUSIC"
+      "Audio Networks",
+      "Extreme Music"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Colorist": [
+      "Matt Doe"
+    ],
+    "Post Production Coordinator": [
+      "Cameron Young"
+    ],
+    "Post Production Supervisor": [
+      "Liam Monschein"
+    ],
+    "Producer": [
+      "CONOR McCARTHY"
+    ],
+    "Production Accountant": [
+      "Rossana O'Hop"
+    ],
+    "Production Coordinator": [
+      "Tainesa Davis"
+    ],
+    "Production Manager": [
+      "Jennifer Partin"
+    ],
+    "Researcher": [
+      "Ann Craig Duvall"
+    ],
+    "Series Producer": [
+      "Brian Leonard"
+    ],
+    "Sound": [
+      "Ali Bazugamenshi",
+      "Brian Buckley",
+      "Mark Mariaca",
+      "Juan Nuevo",
+      "Len Schmitz"
     ],
     "Sound Design": [
-      "TAKOMA MEDIA"
-    ],
-    "Online Editor/Colorist": [
-      "MATT DOE"
+      "Takoma Media"
     ]
   }
 }

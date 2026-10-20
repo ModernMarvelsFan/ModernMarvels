@@ -21,25 +21,24 @@
 | **Assistant Editors** | Alexander Rubinow, Nate Dusek |
 | **Associate Producer** | Liza Douglass |
 | **Coordinator** | Gregory Zide |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Photography** | Paul Dougherty |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Photography** | Paul Dougherty |
 | **Editor** | David Beatty |
-| **Executive Producer** | Don Cambou |
+| **Executive Producer** | John Verhoff |
 | **Field Audio** | Thomas Staton |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Adam Rosante |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assist** | Cory Parker |
 | **Post Coordinator** | Gaylen Kobayashi |
 | **Post Producer** | Tim Knauff |
-| **Produced by** | Actuality Productions, Inc., Jim Lindsay |
+| **Produced By** | Actuality Productions, Inc., Jim Lindsay |
 | **Producer** | Bruce Nash |
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Research** | Rick George |
 | **Sound Mixer** | Ryan Young |
 | **Supervising Producer** | Ron Nelson |

@@ -10,108 +10,105 @@
   ],
   "narrators": [],
   "crew": {
-    "Directors of Photography": [
-      "DALLAS CHILDERS",
-      "STEPHEN HARRISON",
-      "JULIO LUZQUINOS",
-      "JOHN MANS"
-    ],
-    "Sound": [
-      "MATT ENGEL",
-      "MARK MARTACA",
-      "AARON MUNDY"
-    ],
-    "Field Producers": [
-      "BROOKE BARROWS",
-      "SCOTT MICHNICK",
-      "MARK YOUNG"
-    ],
-    "Associate Producers": [
-      "PHILIP CLOUTIER",
-      "ANASTASIA CRONIN",
-      "AMBER SEYLER"
-    ],
-    "Researcher": [
-      "ZOE COUACAUD"
-    ],
-    "Music": [
-      "AUDIO NETWORK",
-      "EXTREME",
-      "PRODUKT",
-      "JINGLEPUNKS"
-    ],
-    "Online Editor/Colorist": [
-      "MATT DOE"
-    ],
-    "Sound Editor": [
-      "NICHOLAS KARLIN"
-    ],
-    "Sound Design & Mix": [
-      "RICHARD HUMPHRIES"
-    ],
-    "Junior Editors": [
-      "NADIA IZAKSON",
-      "GUILLERMO MACO",
-      "WANAKHAVI WAKHISI"
-    ],
-    "Assistant Editor": [
-      "MIKE BAUTISTA"
-    ],
-    "3D Animation by": [
-      "PERCOLATE DIGITAL"
+    "3D Animation By": [
+      "Percolate Digital"
     ],
     "Additional Graphics": [
-      "JOHN KERR"
+      "John Kerr"
     ],
-    "Production Coordinator": [
-      "KAIT GALLAGHER"
+    "Assistant Editor": [
+      "Mike Bautista"
     ],
     "Associate Producer": [
-      "HANNAH RICHARDSON"
+      "Hannah Richardson"
     ],
-    "Production Assistant": [
-      "SUZIE ECKL"
+    "Associate Producers": [
+      "Philip Cloutier",
+      "Anastasia Cronin",
+      "Amber Seyler"
     ],
-    "Intern": [
-      "JEREMY WEINREICH"
+    "Directors Of Photography": [
+      "Dallas Childers",
+      "Stephen Harrison",
+      "Julio Luzquinos",
+      "John Mans"
     ],
-    "Post Production Coordinator": [
-      "BEN SHUSTER"
-    ],
-    "Production Manager": [
-      "JENNIFER PARTIN"
-    ],
-    "Post Production Manager": [
-      "CAMERON YOUNG"
-    ],
-    "Vice President of Finance": [
-      "ROSSANA O'HOP"
-    ],
-    "Head of Production": [
-      "JANICE MEZZETTI"
-    ],
-    "Produced by": [
-      "Half Yard Productions",
-      "JESSE BECHTEL"
-    ],
-    "For A&E Television Network / Senior Producer": [
-      "CARTER FIGUEROA"
-    ],
-    "For A&E Television Network / Executive Producer": [
-      "JOHN VERHOFF"
+    "Edited By": [
+      "Jeff Stein"
     ],
     "Executive Producers": [
-      "SEAN GALLAGHER",
-      "ABBY GREENSFELDER"
+      "Sean Gallagher",
+      "Abby Greensfelder"
     ],
-    "Series Producer": [
-      "ANN CARROLL"
+    "Field Producers": [
+      "Brooke Barrows",
+      "Scott Michnick",
+      "Mark Young"
+    ],
+    "Executive Producer": [
+      "John Verhoff"
     ],
     "Senior Producer": [
-      "CHRIS SONDREAL"
+      "Chris Sondreal"
     ],
-    "Edited by": [
-      "JEFF STEIN"
+    "Head Of Production": [
+      "Janice Mezzetti"
+    ],
+    "Intern": [
+      "Jeremy Weinreich"
+    ],
+    "Junior Editors": [
+      "Nadia Izakson",
+      "Guillermo Maco",
+      "Wanakhavi Wakhisi"
+    ],
+    "Music": [
+      "Audio Network",
+      "Extreme",
+      "Produkt",
+      "Jinglepunks"
+    ],
+    "Colorist": [
+      "Matt Doe"
+    ],
+    "Post Production Coordinator": [
+      "Ben Shuster"
+    ],
+    "Post Production Manager": [
+      "Cameron Young"
+    ],
+    "Produced By": [
+      "Half Yard Productions",
+      "Jesse Bechtel"
+    ],
+    "Production Assistant": [
+      "Suzie Eckl"
+    ],
+    "Production Coordinator": [
+      "Kait Gallagher"
+    ],
+    "Production Manager": [
+      "Jennifer Partin"
+    ],
+    "Researcher": [
+      "Zoe Couacaud"
+    ],
+    "Series Producer": [
+      "Ann Carroll"
+    ],
+    "Sound": [
+      "Matt Engel",
+      "Mark Martaca",
+      "Aaron Mundy"
+    ],
+    "Sound Design &amp; Mix": [
+      "Richard Humphries"
+    ],
+    "Sound Editor": [
+      "Nicholas Karlin"
+    ],
+    "Vice President Of Finance": [
+      "Rossana O'Hop"
     ]
   }
 }

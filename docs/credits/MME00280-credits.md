@@ -7,14 +7,14 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Hearst Entertainment, ACTUALITY PRODUCTIONS
+* **Production Company:** Hearst Entertainment, Actuality Productions
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
+| **Executive Producer** | Beth Dietrich-Segarra |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00280.md)

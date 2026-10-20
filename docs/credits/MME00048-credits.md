@@ -7,22 +7,22 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** JAFFE PRODUCTIONS, Hearst Entertainment, ACTUALITY Productions, Inc., ALAN ETT MUSIC GROUP, INC., ART F/X
+* **Production Company:** Jaffe Productions, Hearst Entertainment, ACTUALITY Productions, Inc., Alan Ett Music Group, Inc., Art F/X
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Production Accountants** | TRACY TOWERS, LINDA SCRIBNER |
-| **Assistant to Bill Brummel** | TIM SHELL |
-| **Audio Post Production** | ALAN ETT MUSIC GROUP, INC. |
-| **Executive Producer** | CHARLIE MADAY |
-| **Footage Consultant** | TED TROLL |
-| **Graphics by** | ART F/X |
+| **Assistant Production Accountants** | Tracy Towers, Linda Scribner |
+| **Assistant To Bill Brummel** | Tim Shell |
+| **Audio Post Production** | Alan Ett Music Group, Inc. |
+| **Executive Producer** | Charlie Maday |
+| **Footage Consultant** | Ted Troll |
+| **Graphics By** | Art F/X |
 | **Online Editor** | JANE McCORD |
-| **Production Assistants** | KEITH DOLS, DANYA BERMAN |
-| **Supervising Producer** | ELYSE MIRANDA |
+| **Production Assistants** | Keith Dols, Danya Berman |
+| **Supervising Producer** | Elyse Miranda |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00048.md)

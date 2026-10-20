@@ -15,7 +15,7 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Accountants** | Judy Gordon, Sheridan Liu |
-| **Animation by** | Doug Whitney |
+| **Animation By** | Doug Whitney |
 | **Assistant Editor** | Laura Steinhoff |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Associate Producers** | Suzanne Gilreath, Corrie Kaufman |
@@ -23,15 +23,15 @@
 | **Clearance Coordinator** | D.W. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | Rosalyn McVay |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Anthony Lacques |
-| **Edited by** | Robert Lattanzio |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Robert Lattanzio |
 | **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
 | **Field Audio** | John C. Beaudry, Dan Cook |
 | **Historical Consultant** | Ned Barnett |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett Music Group |
-| **Narrated by** | Max Raphael |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assistant** | Gaylen Kobayashi |
 | **Post Producer** | Tim Knauff |

@@ -11,97 +11,97 @@
     "John Knapp"
   ],
   "crew": {
-    "EXECUTIVE PRODUCER": [
-      "Don Cambou"
+    "Animated Stills By": [
+      "Victor Bornia"
     ],
-    "WRITTEN AND PRODUCED BY": [
-      "Jeff Cole"
-    ],
-    "PRODUCTION EXECUTIVE": [
-      "Paul Dzilvelis"
-    ],
-    "ASSOCIATE PRODUCER": [
-      "Jeff Murcer"
-    ],
-    "EDITED BY": [
-      "Scot Kelly"
-    ],
-    "NARRATED BY": [
-      "Max Raphael"
-    ],
-    "MUSIC BY": [
-      "Alan Ett Music Group"
-    ],
-    "PRODUCER": [
-      "Bruce Nash"
-    ],
-    "CREATED BY": [
-      "Bruce Nash"
-    ],
-    "PRODUCTION MANAGER": [
-      "Tim Knauff"
-    ],
-    "DIRECTOR OF RIGHTS AND CLEARANCES": [
-      "Katie Del Core"
-    ],
-    "DIRECTOR OF RESEARCH": [
-      "Allison Boon"
-    ],
-    "PRODUCTION CONTROLLER": [
-      "Dani Eslin"
-    ],
-    "PRODUCTION ACCOUNTANT": [
-      "Anthony R. Reyes"
-    ],
-    "RESEARCHERS": [
-      "Uldis Balodis",
-      "John Knapp"
-    ],
-    "COORDINATOR": [
-      "Brad Skiles"
-    ],
-    "CLEARANCE COORDINATORS": [
-      "Lawrence Givens III",
-      "Aaron Zober"
-    ],
-    "POST COORDINATOR": [
-      "Terrence Hartwell"
-    ],
-    "ASSISTANT EDITORS": [
+    "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
       "Alexander Rubinow"
     ],
-    "ASSISTANT POST COORDINATOR / VOICE OVER COORDINATOR": [
+    "Voice Over Coordinator": [
       "John Knapp"
     ],
-    "CAMERA": [
+    "Associate Producer": [
+      "Jeff Murcer"
+    ],
+    "Camera": [
       "Mike Kely",
       "Lon Magdich",
       "Mark Niedelson",
       "Michael Sullivan",
       "Eric Thornton"
     ],
-    "FIELD AUDIO": [
+    "Clearance Coordinators": [
+      "Lawrence Givens III",
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Director Of Rights And Clearances": [
+      "Katie Del Core"
+    ],
+    "Edited By": [
+      "Scot Kelly"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Field Audio": [
       "Chris Carroll",
       "Ed Fritz",
       "Ryan Handley",
       "Alex Marshall"
     ],
-    "ONLINE EDITOR": [
-      "John Price"
-    ],
-    "SOUND MIXER": [
-      "Mark Jensen"
-    ],
-    "ANIMATED STILLS BY": [
-      "Victor Bornia"
-    ],
-    "HISTORICAL/TECHNICAL CONSULTANTS": [
+    "Technical Consultants": [
       "Bob Brier",
       "David Foster",
       "Dr Peter Lacovara",
       "Dr James Phillips"
+    ],
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Anthony R. Reyes"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Tim Knauff"
+    ],
+    "Researchers": [
+      "Uldis Balodis",
+      "John Knapp"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
+    ],
+    "Written And Produced By": [
+      "Jeff Cole"
     ]
   }
 }

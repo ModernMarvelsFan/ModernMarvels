@@ -4,112 +4,112 @@
   "year": "2000",
   "copyright": "© 2000 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ALAN ETT MUSIC GROUP",
-    "RED GYPSY ANIMATION"
+    "Alan Ett Music Group",
+    "Red Gypsy Animation"
   ],
   "narrators": [
-    "MAX RAPHAEL",
-    "JOHN KNAPP"
+    "Max Raphael",
+    "John Knapp"
   ],
   "crew": {
-    "Associate Producer": [
-      "CHANDRA PINTO"
+    "Animated Maps By": [
+      "Red Gypsy Animation"
     ],
-    "Edited by": [
-      "JACK FOSTER",
-      "MOTOSHI WAKABAYASHI"
+    "Animated Photos By": [
+      "Randall Rickert"
     ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Music by": [
-      "ALAN ETT MUSIC GROUP"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Managers": [
-      "PHILIP WALLNUTT",
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "TIM KNAUFF"
-    ],
-    "Clearance Supervisors": [
-      "LESLIE ANNE CLARK",
-      "KATIE DEL CORE"
-    ],
-    "Researchers": [
-      "TRACY HOOD",
-      "BARRY HILL",
-      "JULIEANN PAVESI",
-      "RICK BENAVIDES",
-      "ULDIS BALODIS",
-      "JOHN KNAPP"
-    ],
-    "Coordinator": [
-      "BRAD SKILES"
-    ],
-    "Post Coordinator": [
-      "TERRENCE HARTWELL"
-    ],
-    "Voice Over Coordinator": [
-      "JOHN KNAPP"
+    "Animation By": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
-      "LAURA STEINHOFF",
-      "JOSH BECKHAM"
+      "Laura Steinhoff",
+      "Josh Beckham"
     ],
     "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
+      "Alexander Rubinow"
     ],
-    "Post Assistants": [
-      "GAYLEN KOBAYASHI",
-      "KEVIN McCARTNEY"
+    "Associate Producer": [
+      "Chandra Pinto"
     ],
     "Camera": [
-      "GENE HUELSMAN",
-      "LON MAGDICH",
-      "MIKE STEPHEN"
+      "Gene Huelsman",
+      "Lon Magdich",
+      "Mike Stephen"
     ],
-    "Field Audio": [
-      "ELLIOT FISHER",
-      "TED PITON"
-    ],
-    "Online Editor": [
-      "JOHN PRICE"
-    ],
-    "Sound Mixer": [
-      "ED THACKER"
-    ],
-    "Animation by": [
-      "VICTOR BORNIA"
-    ],
-    "Animated Maps by": [
-      "RED GYPSY ANIMATION"
-    ],
-    "Animated Photos by": [
-      "RANDALL RICKERT"
-    ],
-    "Historical Consultants": [
-      "JULIUS BALLANCO",
-      "JIM OLSZTYNSKI"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "DAVID MASSAR",
-      "CORRIE KAUFMAN"
-    ],
-    "Line Producer": [
-      "PAUL DZILVELIS"
+    "Clearance Supervisors": [
+      "Leslie Anne Clark",
+      "Katie Del Core"
     ],
     "Consulting Producer": [
-      "RON NELSON"
+      "Ron Nelson"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Jack Foster",
+      "Motoshi Wakabayashi"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Field Audio": [
+      "Elliot Fisher",
+      "Ted Piton"
+    ],
+    "Historical Consultants": [
+      "Julius Ballanco",
+      "Jim Olsztynski"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistants": [
+      "Gaylen Kobayashi",
+      "KEVIN McCARTNEY"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Managers": [
+      "Philip Wallnutt",
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Tracy Hood",
+      "Barry Hill",
+      "Julieann Pavesi",
+      "Rick Benavides",
+      "Uldis Balodis",
+      "John Knapp"
+    ],
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
+    ],
+    "Written And Produced By": [
+      "David Massar",
+      "Corrie Kaufman"
     ]
   }
 }

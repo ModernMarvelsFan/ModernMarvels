@@ -14,21 +14,21 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | DOUG WHITNEY |
-| **Assistant Production Accountants** | LINDA SCRIBNER, JUDI MINITELLO |
-| **Associate Producer** | JEFF CONROY |
-| **Created by** | BRUCE NASH |
-| **Edited by** | GEORGE DOUGHERTY |
-| **Executive Producer** | DON CAMBOU |
-| **Footage Consultant** | TED TROLL |
-| **Line Producer** | PAUL DZILVELIS |
-| **Online Editor** | DAVID REX |
-| **Producer** | BRUCE NASH |
-| **Production Assistants** | MARYALICE R. ARAGON, GWENDOLYN MURPHY, BRIAN VOLK |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Sound Mixer** | PAUL RAY |
-| **Written and Produced by** | DEAN VALLAS |
+| **Animation** | Doug Whitney |
+| **Assistant Production Accountants** | Linda Scribner, Judi Minitello |
+| **Associate Producer** | Jeff Conroy |
+| **Created By** | Bruce Nash |
+| **Edited By** | George Dougherty |
+| **Executive Producer** | Don Cambou |
+| **Footage Consultant** | Ted Troll |
+| **Line Producer** | Paul Dzilvelis |
+| **Online Editor** | David Rex |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Maryalice R. Aragon, Gwendolyn Murphy, Brian Volk |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Sound Mixer** | Paul Ray |
+| **Written And Produced By** | Dean Vallas |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00112.md)

@@ -21,9 +21,9 @@
 | **Camera** | Gary Brooks, Skip Clark, Paul Dougherty, Mike Kelly, Jay Kuntz, Lon Magdich, Chris O'Hare, Owen Smith |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Allison Boon |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Marcelo Lopes |
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
@@ -41,7 +41,7 @@
 | **Programming Coordinator** | Adam Rosante |
 | **Sound Mixer** | Ed Thacker |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Allison Boon |
+| **Written And Produced By** | Allison Boon |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00584.md)

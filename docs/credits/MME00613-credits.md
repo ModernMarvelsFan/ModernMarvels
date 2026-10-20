@@ -22,9 +22,9 @@
 | **Camera** | Keith Barefoot, John Davis, Scott Killian, Jerry Klein, Ed Kukla, Brian Lemieux, Lon Magdich |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Mike Andrews |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Matt Daniels, Brian Evans, Eric Golden, Charles Rohr, Kem Stralka, Jon Wermuth |
@@ -40,7 +40,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Ryan Young |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Anthony Lacques |
+| **Written And Produced By** | Anthony Lacques |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00613.md)

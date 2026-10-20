@@ -7,39 +7,39 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
-* **Narrator:** JOHN KNAPP
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions
+* **Narrator:** John Knapp
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animated Photos by** | ADAM GOODWIN |
-| **Animation by** | VICTOR BORNIA |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM, ALEXANDER RUBINOW |
-| **Assistant Post Coordinator** | GAYLEN KOBAYASHI |
-| **Camera** | JIMMY GARCIA, DEREK HANLON, JAY KUNTZ, PAUL NEAL, TERRY PRATT, ERIC THORNTON |
-| **Clearance Coordinators** | LAWRENCE GIVENS III, AARON ZOBER |
-| **Coordinator** | BRAD SKILES |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ALLISON BOON |
-| **Director of Rights and Clearances** | KATIE DEL CORE |
-| **Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Field Audio** | BRUCE BROOKS, AL CAMBON, JIM EMSWILLER, BRENT HALISKE, JEFF KNUDSEN, CHRIS TRONT |
-| **Field Producer** | SEAN BRADLEY |
-| **Historical Consultants** | COL. VINCENT ALBERT, BOB ARMSTRONG, JOEL BYRON, DUC TRAN, DR. WILLIAM WARMBRODT, TIM WHITE |
-| **Online Editor** | JOHN PRICE |
-| **Post Coordinator** | TERRENCE HARTWELL |
-| **Post Producer** | TIM KNAUFF |
-| **Produced by** | ACTUALITY PRODUCTIONS, INC. |
-| **Producer** | BRUCE NASH |
-| **Production Accountant** | ANTHONY R. REYES |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Programming Coordinator** | MICHELE WILCOX |
-| **Researchers** | ULDIS BALODIS, JOHN KNAPP |
-| **Sound Mixer** | ERIK VALENZUELA |
-| **Voice Over Coordinator** | JOHN KNAPP |
+| **Animated Photos By** | Adam Goodwin |
+| **Animation By** | Victor Bornia |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow |
+| **Assistant Post Coordinator** | Gaylen Kobayashi |
+| **Camera** | Jimmy Garcia, Derek Hanlon, Jay Kuntz, Paul Neal, Terry Pratt, Eric Thornton |
+| **Clearance Coordinators** | Lawrence Givens III, Aaron Zober |
+| **Coordinator** | Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Director Of Rights And Clearances** | Katie Del Core |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Bruce Brooks, Al Cambon, Jim Emswiller, Brent Haliske, Jeff Knudsen, Chris Tront |
+| **Field Producer** | Sean Bradley |
+| **Historical Consultants** | Col. Vincent Albert, Bob Armstrong, Joel Byron, Duc Tran, Dr. William Warmbrodt, Tim White |
+| **Online Editor** | John Price |
+| **Post Coordinator** | Terrence Hartwell |
+| **Post Producer** | Tim Knauff |
+| **Produced By** | Actuality Productions, Inc. |
+| **Producer** | Bruce Nash |
+| **Production Accountant** | Anthony R. Reyes |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Michele Wilcox |
+| **Researchers** | Uldis Balodis, John Knapp |
+| **Sound Mixer** | Erik Valenzuela |
+| **Voice Over Coordinator** | John Knapp |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00531.md)

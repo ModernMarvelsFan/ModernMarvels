@@ -8,26 +8,26 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** HARLAN SAPERSTEIN
+* **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Production Accountants** | JUDI MINITELLO, LINDA SCRIBNER |
-| **Assistant To Don Cambou** | TIM SHELL |
-| **Associate Producer** | MATTHEW P. HICKEY |
-| **Created by** | BRUCE NASH |
-| **Edited by** | SEAN DASH |
-| **Footage Consultant** | TED TROLL |
-| **Line Producer** | PAUL DZILVELIS |
-| **Narrated by** | HARLAN SAPERSTEIN |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | ERIC SCHAEFER |
-| **Production Auditor** | DANI ESLIN |
-| **Production Secretary** | KATHY EXNER |
-| **Supervising Producer** | DON CAMBOU |
-| **Written and Produced by** | JIM CIRIGLIANO |
+| **Assistant Production Accountants** | Judi Minitello, Linda Scribner |
+| **Assistant To Don Cambou** | Tim Shell |
+| **Associate Producer** | Matthew P. Hickey |
+| **Created By** | Bruce Nash |
+| **Edited By** | Sean Dash |
+| **Footage Consultant** | Ted Troll |
+| **Line Producer** | Paul Dzilvelis |
+| **Narrated By** | Harlan Saperstein |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Eric Schaefer |
+| **Production Auditor** | Dani Eslin |
+| **Production Secretary** | Kathy Exner |
+| **Supervising Producer** | Don Cambou |
+| **Written And Produced By** | Jim Cirigliano |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00080.md)

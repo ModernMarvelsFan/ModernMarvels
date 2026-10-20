@@ -7,21 +7,21 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2000 A&E Television Networks All Rights Reserved. HISTORYCHANNEL.COM`
-* **Production Company:** Actuality Productions, Inc., Hearst Entertainment, THE HISTORY CHANNEL, A&E Television Networks
+* **Production Company:** Actuality Productions, Inc., Hearst Entertainment, The History Channel, A&E Television Networks
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Production Accountant** | LINDA SCRIBNER |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Supervising Producer** | BETH DIETRICH |
-| **Online Editor** | DAVID REX |
-| **Production Assistants** | MARYALICE R. ARAGON, SUNI NIVENS |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Sound Mixer** | PAUL RAY |
+| **Assistant Production Accountant** | Linda Scribner |
+| **Executive Producer** | Charlie Maday |
+| **Online Editor** | David Rex |
+| **Production Assistants** | Maryalice R. Aragon, Suni Nivens |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Sound Mixer** | Paul Ray |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00149.md)

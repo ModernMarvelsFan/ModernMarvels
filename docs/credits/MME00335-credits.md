@@ -8,37 +8,37 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `PRODUCED BY ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL. © 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY PRODUCTIONS, INC. (producer), THE HISTORY CHANNEL (network), A&E Television Networks (rights holder)
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation by** | GLENN TAKAKJIAN |
-| **Assistant Accountant** | DENNIS LUCIANI |
-| **Assistant Editors** | JULIO C. PEREZ IV, ERIC SIEVERING |
-| **Camera** | MICHAEL AUDICK, ZVONIMIR "Z" VIDUSIN |
-| **Clearance Coordinator** | SUSAN WICHMANN |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACQUES |
-| **Edited by** | JASON STEINBERG |
-| **Field Audio** | CHRISTOPHER R. BROWN, SAMUEL SALERNO |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Historical Consultant** | DAVID FISHER |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | GUY THOMAS |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | DOUG NOLAN |
-| **Post Assistant** | LAURA STEINHOFF |
-| **Post Coordinator** | DANNY KIM |
-| **Post Production Manager** | GARY REID |
-| **Producer** | BRUCE NASH |
+| **Animation By** | Glenn Takakjian |
+| **Assistant Accountant** | Dennis Luciani |
+| **Assistant Editors** | Julio C. Perez IV, Eric Sievering |
+| **Camera** | Michael Audick, Zvonimir "z" Vidusin |
+| **Clearance Coordinator** | Susan Wichmann |
+| **Clearance Supervisor** | Katie Del Core |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Jason Steinberg |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Christopher R. Brown, Samuel Salerno |
+| **Historical Consultant** | David Fisher |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | Doug Nolan |
+| **Post Assistant** | Laura Steinhoff |
+| **Post Coordinator** | Danny Kim |
+| **Post Production Manager** | Gary Reid |
+| **Producer** | Bruce Nash |
 | **Production Assistant** | ROSALYN McVAY |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | JAMES WISER |
-| **Production Manager** | SHELIA COLLINS |
-| **Sound Mixer** | PAUL RAY |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | James Wiser |
+| **Production Manager** | Shelia Collins |
+| **Sound Mixer** | Paul Ray |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00335.md)

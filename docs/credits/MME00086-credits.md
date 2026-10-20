@@ -14,14 +14,13 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | LUKE ELLIS |
-| **Created by** | BRUCE NASH |
-| **Edited by** | SEAN DASH |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Supervising Producer** | BETH DIETRICH |
-| **Producer** | BRUCE NASH |
-| **Supervising Producer** | DON CAMBOU |
-| **Written and Produced by** | JIM CIRIGLIANO |
+| **Associate Producer** | Luke Ellis |
+| **Created By** | Bruce Nash |
+| **Edited By** | Sean Dash |
+| **Executive Producer** | Charlie Maday |
+| **Producer** | Bruce Nash |
+| **Supervising Producer** | Don Cambou |
+| **Written And Produced By** | Jim Cirigliano |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00086.md)

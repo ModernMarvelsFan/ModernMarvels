@@ -4,31 +4,31 @@
   "year": "2000",
   "copyright": "© 2000 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "GRANADA TELEVISION"
+    "Granada Television"
   ],
   "narrators": [],
   "crew": {
-    "Filmed and Directed by": [
-      "JON WOODS"
+    "Edited By": [
+      "Keith Lucas"
     ],
-    "For The History Channel / Executive Producers": [
-      "CHARLIE MADAY",
-      "BETH DIETRICH-SEGARRA"
+    "Executive For Granada": [
+      "John Farren"
     ],
-    "Edited by": [
-      "KEITH LUCAS"
+    "Filmed And Directed By": [
+      "Jon Woods"
+    ],
+    "Executive Producers": [
+      "Charlie Maday",
+      "Beth Dietrich-Segarra"
     ],
     "Historical Advisor": [
-      "MIKE ASHWORTH"
+      "Mike Ashworth"
+    ],
+    "Produced By": [
+      "Amina Razaq"
     ],
     "Production Manager": [
-      "JOHN FOLKARD"
-    ],
-    "Executive for Granada": [
-      "JOHN FARREN"
-    ],
-    "Produced by": [
-      "AMINA RAZAQ"
+      "John Folkard"
     ]
   }
 }

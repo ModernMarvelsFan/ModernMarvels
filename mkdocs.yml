@@ -1,8 +1,8 @@
 site_name: Modern Marvels Archive
 site_description: Canonical Episode Cross-Reference and Historical Evidence Archive
-site_url: https://shanto.github.io/Modern-Marvels-Public/
-repo_url: https://github.com/shanto/Modern-Marvels-Public
-repo_name: shanto/Modern-Marvels-Public
+site_url: https://modernmarvelsfan.github.io/ModernMarvels/
+repo_url: https://github.com/ModernMarvelsFan/ModernMarvels
+repo_name: ModernMarvelsFan/ModernMarvels
 theme:
   name: material
   palette:

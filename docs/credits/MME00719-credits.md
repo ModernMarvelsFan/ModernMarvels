@@ -14,29 +14,29 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **2nd Assistant Accountants** | Samara Choit, Aaliyah Fowler |
+| **2Nd Assistant Accountants** | Samara Choit, Aaliyah Fowler |
 | **Administrative Assistant** | Zoe Resnick |
-| **Assistant Camera/Media Managers** | Clarisse Callahan, Matthew Emmanuel, Spencer Nelson, Logan Quarles, John Pope, Jordan Sommerlad |
 | **Assistant Editors** | Zac Ceccarelli, Jonathan A. Schwartz, Nicholas Sutera |
 | **Associate Producers** | Malia Kobara, Margaux Moores-Tanvier, Vanessa Wilson |
 | **Audio** | Jared Elkin, Edmund Kasubinski, Greg Miller, Dave Pino, Spencer Smith |
 | **Audio Mixer** | Eric Stern |
-| **COVID Compliance Officers** | Brittany Agnew, Kasey Allison, Mary Beth Elam, Sammy Halabi, Mariya James, Andrew Marshall, Michelle Polacinski |
 | **Camera Operators** | Peter Garafalo, Dow Haynor, Mac Kotas, Ben Myrick, Jeremy Protz, V Tran, Zach Wood |
 | **Co-Executive Producer** | Steven C. Lawrence |
-| **Directors of Photography** | Mitch Blummer, James Brantley, Edwin Diaz, Michael Martin, Chris Olsen |
+| **Covid Compliance Officers** | Brittany Agnew, Kasey Allison, Mary Beth Elam, Sammy Halabi, Mariya James, Andrew Marshall, Michelle Polacinski |
+| **Directors Of Photography** | Mitch Blummer, James Brantley, Edwin Diaz, Michael Martin, Chris Olsen |
 | **Editors** | Mike Baron, Korey Caldwell, Jimmy Higgins |
 | **Executive Producer** | Jim Pasquarella, Matthew J. Braley |
 | **Executive Producers** | Steve Ascher, Kristy Sabat, Matt Pearl |
-| **Executive-in-Charge** | Patrice Andrews |
-| **For HISTORY® Music Services** | Jennifer Insogna, Liz Morgan |
+| **Executive-In-Charge** | Patrice Andrews |
+| **For History® Music Services** | Jennifer Insogna, Liz Morgan |
 | **Graphics** | Trick &amp; Mortar |
 | **Host** | Adam Richman |
 | **Lead Production Accountant** | Sophiya Banu |
 | **Line Producer** | Melissa Hay, Pamela Wagner |
-| **Online Editor and Colorist** | Andrew Esterly |
+| **Media Managers** | Clarisse Callahan, Matthew Emmanuel, Spencer Nelson, Logan Quarles, John Pope, Jordan Sommerlad |
+| **Online Editor And Colorist** | Andrew Esterly |
 | **Online Producer** | Brian Street |
-| **Original concept created by** | Bruce Nash |
+| **Original Concept Created By** | Bruce Nash |
 | **Post Production Facility** | Motion Picture Enterprises, Inc. |
 | **Post Production Supervisor** | Kevin T. Fogarty |
 | **Producer** | Adam Richman |
@@ -46,16 +46,16 @@
 | **Production Manager** | Shannon Silver |
 | **Production Office Assistant** | Breanne Casucci, Allison Fennik |
 | **Programming Coordinator** | Celeste Amidon |
-| **SVP, Production Operations** | Ed Russo |
 | **Senior Director, Post Production** | Tom Matheu |
 | **Story Producer** | Gigi Abrantes |
 | **Supervising Field Producer** | Jon Jordan |
 | **Supervising Producer** | Allie Breslin |
 | **Supervising Producer, Post Production** | Michael Giordano |
 | **Supervisor, Post Prod Media Ops** | Eric Fortier |
-| **Utility PA** | Moses N. Xinda |
-| **VO Record** | Guastella Sound |
-| **VP, Production Management** | Patricia Paredes Saez |
+| **Svp, Production Operations** | Ed Russo |
+| **Utility Pa** | Moses N. Xinda |
+| **Vo Record** | Guastella Sound |
+| **Vp, Production Management** | Patricia Paredes Saez |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00719.md)

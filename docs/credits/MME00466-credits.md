@@ -15,19 +15,19 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Accountants** | Sheridan Liu, Lisa Caselle, Paulette Pantoja |
-| **Animation by** | Red Gypsy Animation |
+| **Animation By** | Red Gypsy Animation |
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham |
 | **Associate Producer** | Danielle Parsons |
 | **Camera** | John Belloch, John C. Davis, Lon Magdich, Doug Weisman, Marty Zimmerman |
 | **Coordinators** | Melinda Esquibel, Brad Skiles |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Allison Boon |
-| **Edited by** | Robert Latanzio |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Edited By** | Robert Latanzio |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Doug Farris, Ron Hyatt, Robert Neely, Jim Petit |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Guy Thomas |
-| **Narrated by** | Max Raphael |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Producer** | Bruce Nash |
 | **Production Controller** | Dani Eslin |

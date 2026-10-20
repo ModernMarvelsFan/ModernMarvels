@@ -15,12 +15,12 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Associate Producer** | Kaylan Eggert |
-| **Edited by** | Ian Hutchinson |
+| **Edited By** | Ian Hutchinson |
 | **Executive Producer** | Don Cambou |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett Music Group |
-| **Narrated by** | Max Raphael |
-| **Written and Produced by** | Kristina Djokic |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Written And Produced By** | Kristina Djokic |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00506.md)

@@ -4,107 +4,104 @@
   "year": "2004",
   "copyright": "© 2004 A&E Television Network All Rights Reserved",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions",
-    "PTC",
-    "ALAN ETT MUSIC GROUP"
+    "Ptc",
+    "Alan Ett Music Group"
   ],
   "narrators": [
-    "MAX RAPHAEL",
-    "MIKKI DEL MONICO"
+    "Max Raphael",
+    "Mikki Del Monico"
   ],
   "crew": {
-    "Edited by": [
-      "ROBERT LATTANZIO",
-      "PAMELA MALOUF"
-    ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Music by": [
-      "ALAN ETT MUSIC GROUP"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "LAUREN LEVINE"
-    ],
-    "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ANTHONY LACOUES"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
+    "Animation By": [
+      "Glenn Takakjian",
+      "Ptc"
     ],
     "Assistant Accountants": [
-      "SHERIDAN LIU",
-      "DENNIS LUCIANI"
+      "Sheridan Liu",
+      "Dennis Luciani"
+    ],
+    "Associate Producers": [
+      "Suzanne Gilreath",
+      "Mai-Ly Nguyen"
+    ],
+    "Camera": [
+      "David Bradstreet",
+      "Tom Lorch",
+      "Lon Magdich",
+      "Kelley Marchal",
+      "Mark Moore",
+      "John Paluzzi"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
     ],
     "Coordinator": [
       "ROSALYN McVAY"
     ],
-    "Researcher / Voice Over Coordinator": [
-      "MIKKI DEL MONICO"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Production Assistant": [
-      "JEFFERY PERKINS"
+    "Director Of Research": [
+      "Anthony Lacoues"
     ],
-    "Post Coordinator": [
-      "LAURA STEINHOFF"
-    ],
-    "Post Assistant": [
-      "ALEXANDER RUBINOW"
-    ],
-    "Camera": [
-      "DAVID BRADSTREET",
-      "TOM LORCH",
-      "LON MAGDICH",
-      "KELLEY MARCHAL",
-      "MARK MOORE",
-      "JOHN PALUZZI"
-    ],
-    "Field Audio": [
-      "CURTIS BRITTON",
-      "MICHAEL HEID",
-      "STEPHEN A. MONTET"
-    ],
-    "Online Editor": [
-      "TOM HOK"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Animation by": [
-      "GLENN TAKAKJIAN",
-      "PTC"
-    ],
-    "Historical Consultant": [
-      "DR. ROBERT MULLINS"
-    ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
+    "Edited By": [
+      "Robert Lattanzio",
+      "Pamela Malouf"
     ],
     "Executive Producer": [
-      "DON CAMBOU"
+      "Beth Dietrich-Segarra"
     ],
-    "Written and Produced by": [
-      "JIM HENSE"
+    "Field Audio": [
+      "Curtis Britton",
+      "Michael Heid",
+      "Stephen A. Montet"
+    ],
+    "Historical Consultant": [
+      "Dr. Robert Mullins"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
     ],
-    "Associate Producers": [
-      "SUZANNE GILREATH",
-      "MAI-LY NGUYEN"
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "Tom Hok"
+    ],
+    "Post Assistant": [
+      "Alexander Rubinow"
+    ],
+    "Post Coordinator": [
+      "Laura Steinhoff"
+    ],
+    "Post Producer": [
+      "Lauren Levine"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Jeffery Perkins"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Written And Produced By": [
+      "Jim Hense"
     ]
   }
 }

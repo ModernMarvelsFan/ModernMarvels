@@ -13,28 +13,11 @@
     "Max Raphael"
   ],
   "crew": {
-    "Director of Research": [
-      "Allison Boon"
+    "Animated Photos By": [
+      "Adam Goodwin"
     ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Production Accountant": [
-      "Anthony R. Reyes"
-    ],
-    "Researchers": [
-      "Uldis Balodis",
-      "John Knapp"
-    ],
-    "Coordinator": [
-      "Brad Skiles"
-    ],
-    "Clearance Coordinators": [
-      "Lawrence Givens III",
-      "Aaron Zober"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
+    "Animation By": [
+      "Randall Rickert"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -44,8 +27,8 @@
     "Assistant Post Coordinator": [
       "Gaylen Kobayashi"
     ],
-    "Voice Over Coordinator": [
-      "John Knapp"
+    "Associate Producer": [
+      "David Bradstreet"
     ],
     "Camera": [
       "Rick Allen",
@@ -54,68 +37,82 @@
       "Peter Krajewski",
       "Adam Sampson"
     ],
+    "Clearance Coordinators": [
+      "Lawrence Givens III",
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Director Of Rights And Clearances": [
+      "Katie Del Core"
+    ],
+    "Edited By": [
+      "Scot Kelly"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich — Segarra"
+    ],
     "Field Audio": [
       "Ric Hase",
       "Ryan Klimas",
       "Jeff Knudsen",
       "Mario Pimental"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Mark Jensen"
-    ],
-    "Animation by": [
-      "Randall Rickert"
-    ],
-    "Animated Photos by": [
-      "Adam Goodwin"
+    "Programming Coordinator": [
+      "Michele Wilcox"
     ],
     "Historical Consultant": [
       "Gail Selinger"
     ],
-    "For History / Programming Coordinator": [
-      "Michele Wilcox"
-    ],
-    "For History / Executive Producer": [
-      "Beth Dietrich — Segarra"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Greg Goldman"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Associate Producer": [
-      "David Bradstreet"
-    ],
-    "Edited by": [
-      "Scot Kelly"
-    ],
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Music by": [
+    "Music By": [
       "Guy Thomas"
     ],
-    "Producer": [
-      "Bruce Nash"
+    "Narrated By": [
+      "Max Raphael"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Online Editor": [
+      "John Price"
     ],
-    "Production Manager": [
-      "Shelia Collins"
+    "Post Coordinator": [
+      "Terrence Hartwell"
     ],
     "Post Producer": [
       "Tim Knauff"
     ],
-    "Director of Rights and Clearances": [
-      "Katie Del Core"
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Anthony R. Reyes"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Uldis Balodis",
+      "John Knapp"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
+    ],
+    "Written And Produced By": [
+      "Greg Goldman"
     ]
   }
 }

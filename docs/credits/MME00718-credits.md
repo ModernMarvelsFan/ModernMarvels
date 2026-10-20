@@ -7,14 +7,14 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2015 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** RADIANT FEATURES, H2(TM)
+* **Production Company:** Radiant Features, H2(tm)
 * **Narrator:** Lloyd Sherr
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **3D Graphics/Animation** | David Hartwell |
+| **Animation** | David Hartwell |
 | **Assistant Camera** | Anthony Lara |
 | **Assistant Editor** | Jules Nurrish |
 | **Associate Producer** | Geoffrey Boynton |
@@ -24,12 +24,12 @@
 | **Colorist** | Santi Padilla |
 | **Consulting Producer** | Phil Alongi |
 | **Coordinating Producers** | Gabriela Mejia, Ricardo Barria, Gia Marie Amella |
-| **Director of Photography** | Andrew David Watson |
-| **Director/Producer** | Dylan Robertson, Bill Ferehawk |
+| **Director Of Photography** | Andrew David Watson |
 | **Drone** | Nel Boshoff, Vanessa Garnick Boshoff, Riccardo Filippini, Paolo Bertazza |
 | **Editors** | Geoffrey Boynton, Theo Love, Matthew Sultan |
 | **Narrator** | Lloyd Sherr |
-| **Post Producers/Picture Head** | Jake Torum, Pete Jackson, Rich Cole, Will Godar, Mike Madrid |
+| **Picture Head** | Jake Torum, Pete Jackson, Rich Cole, Will Godar, Mike Madrid |
+| **Producer** | Dylan Robertson, Bill Ferehawk |
 | **Production Assistants** | Matt Fuller, Erica Rupp |
 | **Transcription** | Christian Ramirez, Adriana Zyskowski |
 | **Writers** | Bill Ferehawk, Dylan Robertson, Savas Georgalis |

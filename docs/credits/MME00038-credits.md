@@ -7,25 +7,25 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Digital Ranch, The History Channel, THE HISTORY CHANNEL
-* **Narrator:** BILL RATNER
+* **Production Company:** Digital Ranch, The History Channel, The History Channel
+* **Narrator:** Bill Ratner
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Additional Editing** | MICHAEL ANDREWS, KEVIN BROWNE |
-| **Associate Director** | ROBERT LIHANI |
-| **Associate Producer** | LISA SHAFFER-KIRK |
-| **Directed by** | ROBERT KIRK |
-| **Edited by** | JEFF CALDWELL |
-| **Graphics by** | AplusA DESIGN |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | BILL RATNER |
-| **Photographed by** | PAUL DOUGHERTY, MARK DOUGHERTY, BOWDON HUNT, JIM ARNOLD, "MAC" McALEENAN |
-| **Post Production Audio** | CRAIG PLACHY, RON MILLER |
-| **Researcher** | BONNIE ROWAN |
-| **Written and Produced by** | ROBERT KIRK, ROBERT LIHANI |
+| **Additional Editing** | Michael Andrews, Kevin Browne |
+| **Associate Director** | Robert Lihani |
+| **Associate Producer** | Lisa Shaffer-Kirk |
+| **Directed By** | Robert Kirk |
+| **Edited By** | Jeff Caldwell |
+| **Graphics By** | AplusA DESIGN |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Bill Ratner |
+| **Photographed By** | Paul Dougherty, Mark Dougherty, Bowdon Hunt, Jim Arnold, "MAC" McALEENAN |
+| **Post Production Audio** | Craig Plachy, Ron Miller |
+| **Researcher** | Bonnie Rowan |
+| **Written And Produced By** | Robert Kirk, Robert Lihani |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00038.md)

@@ -10,8 +10,21 @@
     "Beau Weaver"
   ],
   "crew": {
-    "Executive in Charge of Production": [
-      "David Shikiar"
+    "Audio": [
+      "Andy Curtis",
+      "Bob Downing",
+      "Rob Shire",
+      "Mike Turan"
+    ],
+    "Camera": [
+      "Steve Bernstein",
+      "Robin Hirsch",
+      "Marco Hoffman",
+      "Mathieu Mazza"
+    ],
+    "Editors": [
+      "Duane Tudahl",
+      "Will Gallie"
     ],
     "Executive Producer": [
       "Margaret G. Kim"
@@ -21,53 +34,40 @@
       "Gary H. Grossman",
       "Steve Lange"
     ],
-    "Supervising Producer/Writer": [
-      "Nancy Gimbrone"
+    "Executive In Charge Of Production": [
+      "David Shikiar"
     ],
-    "Producer": [
-      "Mark Montgomery"
-    ],
-    "Senior Editor": [
-      "Bann Roy"
-    ],
-    "Media Clearance Supervisor": [
-      "Kristine Hansen"
+    "Intern": [
+      "Lara Wilson"
     ],
     "Media Clearance": [
       "Michael Corbett",
       "Tom Hebenstreit",
       "Brad Wyrick"
     ],
-    "WG Archivist": [
-      "Sheila Garrison"
-    ],
-    "Camera": [
-      "Steve Bernstein",
-      "Robin Hirsch",
-      "Marco Hoffman",
-      "Mathieu Mazza"
-    ],
-    "Audio": [
-      "Andy Curtis",
-      "Bob Downing",
-      "Rob Shire",
-      "Mike Turan"
+    "Media Clearance Supervisor": [
+      "Kristine Hansen"
     ],
     "Narrator": [
       "Beau Weaver"
     ],
-    "Voice Talent": [
-      "Lester Lipshitz"
-    ],
-    "Editors": [
-      "Duane Tudahl",
-      "Will Gallie"
+    "Producer": [
+      "Mark Montgomery"
     ],
     "Production Assistant": [
       "Gary Gangi"
     ],
-    "Intern": [
-      "Lara Wilson"
+    "Senior Editor": [
+      "Bann Roy"
+    ],
+    "Writer": [
+      "Nancy Gimbrone"
+    ],
+    "Voice Talent": [
+      "Lester Lipshitz"
+    ],
+    "Wg Archivist": [
+      "Sheila Garrison"
     ]
   }
 }

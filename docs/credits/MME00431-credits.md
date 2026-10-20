@@ -15,17 +15,17 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Accountant** | Sheridan Liu |
-| **Animation by** | Randall Rickert |
+| **Animation By** | Randall Rickert |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Camera** | Roddy Blelloch, Chris Connell, Bob Elfstrom, Tony Flanagan, Julio Luzquinos, Lon Magdich |
 | **Coordinator** | Melinda Esquibel |
-| **Edited by** | Barney Robinson |
+| **Edited By** | Barney Robinson |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Owen Bissel, John Bogley, Mike Borman, Doug Farris, James Hanlon, Albert Nematollahi |
 | **Historical Consultant** | Stephen Schwartz |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Guy Thomas |
-| **Narrated by** | Max Raphael |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assistants** | Gaylen Kobayashi, Linda Liao |
 | **Post Producer** | Tim Knauff |
@@ -34,7 +34,7 @@
 | **Production Manager** | Sheila Collins |
 | **Researchers** | Paul Lacques, Mikki Del Monico, John Knapp |
 | **Sound Mixer** | Paul Ray |
-| **Written and Produced by** | W. Scott Goldie, Anthony Lacques |
+| **Written And Produced By** | W. Scott Goldie, Anthony Lacques |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00431.md)

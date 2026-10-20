@@ -12,27 +12,23 @@
     "Max Raphael"
   ],
   "crew": {
-    "CLEARANCE COORDINATOR": [
-      "D.W. Blakeslee"
+    "Accountant": [
+      "Sheridan Liu"
     ],
-    "VOICE OVER COORDINATOR": [
-      "Mikki Del Monico"
+    "Animation By": [
+      "Victor Bornia"
     ],
-    "ASSISTANT POST COORDINATOR": [
-      "Alexander Rubinow"
-    ],
-    "PRODUCTION ASSISTANT": [
-      "Jeffery Perkins"
-    ],
-    "ASSISTANT EDITORS": [
+    "Assistant Editors": [
       "Laura Steinhoff",
       "Michael Broome"
     ],
-    "POST ASSISTANTS": [
-      "Gaylen Kobayashi",
-      "Linda Lino"
+    "Assistant Post Coordinator": [
+      "Alexander Rubinow"
     ],
-    "CAMERA": [
+    "Associate Producer": [
+      "Dan Gibbons"
+    ],
+    "Camera": [
       "A. Curtis Guyer",
       "Carl Heinemann",
       "Peter Krajewski",
@@ -40,22 +36,34 @@
       "Randy J. Riesen",
       "Gregory Steinbrecher"
     ],
-    "FIELD AUDIO": [
+    "Clearance Coordinator": [
+      "D.W. Blakeslee"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Coordinator": [
+      "Melinda Esquibel"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Anthony Lacques"
+    ],
+    "Edited By": [
+      "Sean Dash"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Field Audio": [
       "Jimmy Corn",
       "Art Jaso",
       "Don Murphy",
       "Cary Pope"
     ],
-    "ONLINE EDITOR": [
-      "John Price"
-    ],
-    "SOUND MIXER": [
-      "John Ray"
-    ],
-    "ANIMATION BY": [
-      "Victor Bornia"
-    ],
-    "HISTORICAL CONSULTANTS": [
+    "Historical Consultants": [
       "Dreyer's Grand Ice Cream",
       "Flower's Foods, Inc.",
       "Masterfoods, USA",
@@ -64,59 +72,51 @@
       "Utz Quality Foods, Inc.",
       "World Cocoa Foundation"
     ],
-    "EXECUTIVE PRODUCER": [
-      "Don Cambou"
-    ],
-    "LINE PRODUCER": [
+    "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "EDITED BY": [
-      "Sean Dash"
-    ],
-    "WRITTEN AND PRODUCED BY": [
-      "Sean Dash"
-    ],
-    "ASSOCIATE PRODUCER": [
-      "Dan Gibbons"
-    ],
-    "NARRATED BY": [
-      "Max Raphael"
-    ],
-    "MUSIC BY": [
+    "Music By": [
       "Guy Thomas"
     ],
-    "CREATED BY": [
-      "Bruce Nash"
+    "Narrated By": [
+      "Max Raphael"
     ],
-    "POST PRODUCER": [
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistants": [
+      "Gaylen Kobayashi",
+      "Linda Lino"
+    ],
+    "Post Producer": [
       "Tim Knauff"
     ],
-    "PRODUCER": [
+    "Producer": [
       "Bruce Nash"
     ],
-    "PRODUCTION MANAGER": [
+    "Production Assistant": [
+      "Jeffery Perkins"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
       "Shella Collins"
     ],
-    "CLEARANCE SUPERVISOR": [
-      "Katie Del Core"
-    ],
-    "DIRECTOR OF RESEARCH": [
-      "Anthony Lacques"
-    ],
-    "ACCOUNTANT": [
-      "Sheridan Liu"
-    ],
-    "RESEARCHERS": [
+    "Researchers": [
       "Mikki Del Monico",
       "John Knapp",
       "Sean Heckman",
       "Tom Barclay"
     ],
-    "PRODUCTION CONTROLLER": [
-      "Dani Eslin"
+    "Sound Mixer": [
+      "John Ray"
     ],
-    "COORDINATOR": [
-      "Melinda Esquibel"
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
+    ],
+    "Written And Produced By": [
+      "Sean Dash"
     ]
   }
 }

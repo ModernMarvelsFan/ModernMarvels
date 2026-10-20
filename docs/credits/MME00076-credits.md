@@ -8,43 +8,43 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1998 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** MAX RAPHAEL, JOHN KNAPP
+* **Narrator:** Max Raphael, John Knapp
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | APRIL BROWN, LISA CASELLA, SHERIDAN LIU, PAULETTE PANTOJA |
-| **Additional Segments Edited by** | JASON STEINBERG |
-| **Additional Segments Produced by** | SCOTT GOLDIE |
-| **Animation by** | VICTOR BORNIA |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Associate Producers** | BOB PETRELLA, KRISTINA DJOKIC |
-| **Camera** | ARON BROWN, JAMES BUCKLEY, DOUG CRAWFORD, SHAUN DONAHUE, MARCUS GLASGOW, EDWARD SPRINGER, LIZ WATKINS |
-| **Clearance Supervisors** | LESLIE ANNE CLARK, KATIE DEL CORE |
-| **Consulting Producer** | RON NELSON |
-| **Coordinator** | BRAD SKILES |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ALLISON BOON |
-| **Edited by** | ROBERT POTTER, MOTOSHI WAKABAYASHI |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | WILLIAM BASS, JAMES BECKER, RAY BENNETT, STAN BOHNHOFF, JONATHAN J. COHEN, ERIC FOX, MIKE KIMBALL, MARTY ZIMMERMAN |
-| **Historical Consultants** | EGLIN AIR FORCE BASE, LOS ALAMOS NATIONAL LABORATORY, USS LINCOLN |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistants** | GAYLEN KOBAYASHI, KEVIN McCARTNEY |
-| **Post Coordinators** | LEANNE M. ANAYA REECE, TERRENCE HARTWELL |
-| **Post Producers** | SCOTT BERKSON, TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Production Managers** | LISA BLACKWOOD HOPE, SHELIA COLLINS |
-| **Researchers** | JULIEANN PAVESI, ULDIS BALODIS, JOHN KNAPP |
-| **Sound Mixer** | ED THACKER |
-| **Voice Over Coordinator** | JOHN KNAPP |
-| **Written and Produced by** | YANN DEBONNE, NOAH MOROWITZ |
+| **Accountants** | April Brown, Lisa Casella, Sheridan Liu, Paulette Pantoja |
+| **Additional Segments Edited By** | Jason Steinberg |
+| **Additional Segments Produced By** | Scott Goldie |
+| **Animation By** | Victor Bornia |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Associate Producers** | Bob Petrella, Kristina Djokic |
+| **Camera** | Aron Brown, James Buckley, Doug Crawford, Shaun Donahue, Marcus Glasgow, Edward Springer, Liz Watkins |
+| **Clearance Supervisors** | Leslie Anne Clark, Katie Del Core |
+| **Consulting Producer** | Ron Nelson |
+| **Coordinator** | Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Edited By** | Robert Potter, Motoshi Wakabayashi |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | William Bass, James Becker, Ray Bennett, Stan Bohnhoff, Jonathan J. Cohen, Eric Fox, Mike Kimball, Marty Zimmerman |
+| **Historical Consultants** | Eglin Air Force Base, Los Alamos National Laboratory, Uss Lincoln |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistants** | Gaylen Kobayashi, KEVIN McCARTNEY |
+| **Post Coordinators** | Leanne M. Anaya Reece, Terrence Hartwell |
+| **Post Producers** | Scott Berkson, Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Managers** | Lisa Blackwood Hope, Shelia Collins |
+| **Researchers** | Julieann Pavesi, Uldis Balodis, John Knapp |
+| **Sound Mixer** | Ed Thacker |
+| **Voice Over Coordinator** | John Knapp |
+| **Written And Produced By** | Yann Debonne, Noah Morowitz |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00076.md)

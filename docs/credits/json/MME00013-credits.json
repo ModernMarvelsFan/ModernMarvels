@@ -4,55 +4,55 @@
   "year": "1995",
   "copyright": "© 1995 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "JAFFE PRODUCTIONS",
+    "Jaffe Productions",
     "Hearst Entertainment",
     "ACTUALITY Productions, Inc.",
-    "YEAH STUDIOS",
-    "INTERLOK"
+    "Yeah Studios",
+    "Interlok"
   ],
   "narrators": [],
   "crew": {
-    "Executive In Charge of Production": [
-      "MEL A. BISHOP"
+    "Assistant To Bob Jaffe": [
+      "Hay K. Tanning"
     ],
-    "Vice President, Historical Programming": [
-      "CHARLIE MADAY"
+    "Assistant To Tim Busa": [
+      "Alexandra Rojas"
     ],
     "Coordinator, Documentary Programming": [
-      "ELYSE MIRANDA"
+      "Elyse Miranda"
+    ],
+    "Executive In Charge Of Production": [
+      "Mel A. Bishop"
     ],
     "Executive Producer For Hearst Entertainment Television": [
-      "GERALD W. ABRAMS"
-    ],
-    "Music By": [
-      "SCOTT PAGE-PAGTER",
-      "JOHN VALENTINO"
-    ],
-    "Graphics": [
-      "RON CLARK, ART F/X"
-    ],
-    "Original Artwork": [
-      "LORI GARY COSTAS",
-      "WENDY NIELD"
-    ],
-    "Assistant to Bob Jaffe": [
-      "HAY K. TANNING"
-    ],
-    "Assistant to Tim Busa": [
-      "ALEXANDRA ROJAS"
-    ],
-    "Re-Recording Mixer": [
-      "TIM CARPENTER"
-    ],
-    "On-Line Editor": [
-      "NED WEISMAN"
-    ],
-    "Post Facilities": [
-      "YEAH STUDIOS",
-      "INTERLOK"
+      "Gerald W. Abrams"
     ],
     "Footage Consultant": [
-      "TED TROLL"
+      "Ted Troll"
+    ],
+    "Graphics": [
+      "Ron Clark, Art F/X"
+    ],
+    "Music By": [
+      "Scott Page-Pagter",
+      "John Valentino"
+    ],
+    "On-Line Editor": [
+      "Ned Weisman"
+    ],
+    "Original Artwork": [
+      "Lori Gary Costas",
+      "Wendy Nield"
+    ],
+    "Post Facilities": [
+      "Yeah Studios",
+      "Interlok"
+    ],
+    "Re-Recording Mixer": [
+      "Tim Carpenter"
+    ],
+    "Vice President, Historical Programming": [
+      "Charlie Maday"
     ]
   }
 }

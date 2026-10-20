@@ -4,114 +4,111 @@
   "year": "2000",
   "copyright": "© 2000 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
-    "THE HISTORY TELEVISION NETWORK PRODUCTIONS"
+    "Actuality Productions, Inc.",
+    "The History Television Network Productions"
   ],
   "narrators": [],
   "crew": {
-    "Clearance Coordinator": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "BARRY HILL"
-    ],
-    "Researcher": [
-      "ANTHONY LACQUES",
-      "GLORIA MORRIS"
-    ],
-    "Historical Consultants": [
-      "AFAF LUTFI",
-      "AL-SAYYID MARSOT",
-      "DR. NEZAR ALSAYYAD"
-    ],
-    "Footage Consultant": [
-      "TED TROLL"
-    ],
-    "Camera": [
-      "CHRISTINA AMBLAR",
-      "MARK BROADWATER",
-      "SHAUN DONAHUE",
-      "DYLAN O'BRIEN"
-    ],
-    "Field Audio": [
-      "MAHMOUD BATOUT",
-      "HOPE HARRISON",
-      "MICHAEL KIMBALL",
-      "MOHAMED AHMED SAID"
-    ],
-    "Post Production Supervisor": [
-      "JASON STEINBERG"
-    ],
-    "Post Production Coordinator": [
-      "GARY REID"
+    "Animation": [
+      "Douglas A. Whitney"
     ],
     "Assistant Editor": [
-      "HARRIS COHEN"
-    ],
-    "Post Production Assistant": [
-      "BRIAN VOLK"
-    ],
-    "Online Editor": [
-      "DAVID REX"
-    ],
-    "Sound Mixer": [
-      "SAM KAUFMANN"
-    ],
-    "Animation": [
-      "DOUGLAS A. WHITNEY"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
+      "Harris Cohen"
     ],
     "Assistant Production Accountant": [
-      "LINDA SCRIBNER"
-    ],
-    "Production Coordinator": [
-      "KATHY EXNER"
-    ],
-    "Production Assistants": [
-      "MARYALICE R. ARAGON",
-      "SUNI NIVENS"
-    ],
-    "For The History Channel / Supervising Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "For The History Channel / Executive Producer": [
-      "CHARLIE MADAY"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "CHRIS MORTENSEN"
+      "Linda Scribner"
     ],
     "Associate Producers": [
-      "ERIC H. LINDSTROM",
-      "CHRISTOF RITTER"
+      "Eric H. Lindstrom",
+      "Christof Ritter"
     ],
-    "Edited by": [
-      "JOHN PARSONS"
+    "Camera": [
+      "Christina Amblar",
+      "Mark Broadwater",
+      "Shaun Donahue",
+      "Dylan O'Brien"
     ],
-    "Line Producer": [
-      "PAUL DZILVELIS"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Music by": [
-      "ALAN ETT"
-    ],
-    "Production Manager": [
-      "LINDA K. CLARK"
-    ],
-    "Post Production": [
-      "SCOTT BERKSON"
+    "Clearance Coordinator": [
+      "Katie Del Core"
     ],
     "Clearance Supervisor": [
-      "CHARLOTTE CARPENTER"
+      "Charlotte Carpenter"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Barry Hill"
+    ],
+    "Edited By": [
+      "John Parsons"
+    ],
+    "Executive Producer": [
+      "Charlie Maday"
+    ],
+    "Field Audio": [
+      "Mahmoud Batout",
+      "Hope Harrison",
+      "Michael Kimball",
+      "Mohamed Ahmed Said"
+    ],
+    "Footage Consultant": [
+      "Ted Troll"
+    ],
+    "Supervising Producer": [
+      "Beth Dietrich-Segarra"
+    ],
+    "Historical Consultants": [
+      "Afaf Lutfi",
+      "Al-Sayyid Marsot",
+      "Dr. Nezar Alsayyad"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Production": [
+      "Scott Berkson"
+    ],
+    "Post Production Assistant": [
+      "Brian Volk"
+    ],
+    "Post Production Coordinator": [
+      "Gary Reid"
+    ],
+    "Post Production Supervisor": [
+      "Jason Steinberg"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistants": [
+      "Maryalice R. Aragon",
+      "Suni Nivens"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Kathy Exner"
+    ],
+    "Production Manager": [
+      "Linda K. Clark"
+    ],
+    "Researcher": [
+      "Anthony Lacques",
+      "Gloria Morris"
+    ],
+    "Sound Mixer": [
+      "Sam Kaufmann"
+    ],
+    "Written And Produced By": [
+      "Chris Mortensen"
     ]
   }
 }

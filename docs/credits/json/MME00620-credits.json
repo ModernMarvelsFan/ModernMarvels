@@ -11,41 +11,22 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash",
-      "Bob Niemack"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
     "Accountants": [
       "Sheridan Liu",
       "Diana Stolpe"
     ],
-    "Coordinator": [
-      "Maya Sykes"
+    "Animated Stills": [
+      "Adam Goodwin"
+    ],
+    "Animation": [
+      "i.e. effects"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Patrick Cashman"
+    ],
+    "Associate Producer": [
+      "Andrew Fuller"
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
@@ -59,6 +40,27 @@
       "Andy Romaro",
       "Morgan Schmidt-Feng"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Paul Freedman"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Douglas Burton",
       "Ray Day",
@@ -67,52 +69,50 @@
       "Rob Sumner",
       "Paul Wustack"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation": [
-      "i.e. effects"
-    ],
-    "Sound Mixer": [
-      "Mark Jensen"
-    ],
-    "Animated Stills": [
-      "Adam Goodwin"
-    ],
-    "For History / Programming Coordinators": [
-      "Kristen Burns",
-      "Adam Rosante"
-    ],
-    "For History / Executive Producers": [
-      "Michael Stiller",
-      "John Verhoff"
-    ],
-    "Produced by": [
-      "Actuality Productions, Inc."
-    ],
     "For": [
       "History"
     ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Executive Producers": [
+      "Michael Stiller",
+      "John Verhoff"
     ],
-    "Production Executive": [
-      "Paul Dzilvelis"
+    "Programming Coordinators": [
+      "Kristen Burns",
+      "Adam Rosante"
     ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Andrew Fuller"
+    "Music": [
+      "Alan Ett Music Group"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Editor": [
-      "Paul Freedman"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music": [
-      "Alan Ett Music Group"
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc."
+    ],
+    "Producer": [
+      "Bruce Nash",
+      "Bob Niemack"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson"
     ]
   }
 }

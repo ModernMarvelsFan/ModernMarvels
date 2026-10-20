@@ -21,14 +21,12 @@
 | **Camera** | Keith Barefoot, Chris Bell, David Fox, John Kabasakalis, Dan Lantz, Lon Magdich, David Pierro, David Rutherford |
 | **Clearance Coordinators** | Aaron Zober, Kiana Moore |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Lou LaProcido |
-| **Executive Producer** | Don Cambou |
+| **Executive Producer** | John Verhoff |
 | **Field Audio** | Steven Bechtold, Chad Bryant, David Cosby, Chad Findlay, Gordon Hayman, Mickey Loud, Charles Rohr, Adrian Sam |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Adam Rosante |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
@@ -39,11 +37,12 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Researcher** | Sapna Chhabra |
 | **Sound Mixer** | Nozomu Furuya |
 | **Supervising Producer** | Ron Nelson |
 | **Technical Consultants** | Enviropro, Inc., LA BioMed, Paul Stamets, Gary Strobel, USDA Agricultural Research Service |
-| **Written and Produced by** | Melissa Fuller |
+| **Written And Produced By** | Melissa Fuller |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00640.md)

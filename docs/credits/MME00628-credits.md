@@ -22,9 +22,9 @@
 | **Camera** | Keith Barefoot, Robert Brunk, John Kabasakalis, Jay Kuntz, Dan Lantz, Lon Magdich, George Odell, Dave Rutherford, Marty Zimmerman |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Dan Cook, Jim Emswiller, Gordon Hayman, Ken Paulakovich, Alex Rossner, Adrian Sam, Steve Theroux, David S. Wason, Paul Wustrack |
@@ -40,7 +40,7 @@
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
 | **Technical Consultants** | The Doe Run Company, Martin Lilley, Philip Shumard |
-| **Written and Produced by** | Jeff Mercer |
+| **Written And Produced By** | Jeff Mercer |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00628.md)

@@ -14,7 +14,7 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Written, Produced and Directed by** | Andy Papadopoulos, Susan Smiley |
+| **Written, Produced And Directed By** | Andy Papadopoulos, Susan Smiley |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00271.md)

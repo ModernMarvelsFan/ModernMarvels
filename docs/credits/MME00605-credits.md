@@ -22,15 +22,13 @@
 | **Camera** | Yoram Astrakhan, Tomas Hejda, Michel Champouret, Lon Magdich, Ed Garcia, Julian Navarro, Andre Fontanelle, Morgan Schmidt-Feng |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
+| **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Field Audio** | Paul Barber, Jose Manuel Jimenez-Maldonado, Franck Bellorti, Noah Mathers, Ray Day, Charles Rohr, Dennis Hamlin |
-| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **For The History Channel / Programming Coordinator** | Adam Rosante |
-| **Historical / Technical Consultants** | Roger Davey, Terry Tamminen, Wayne Praskins |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
@@ -40,9 +38,11 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Sound Mixer** | Ryan Young |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Greg DeHart |
+| **Technical Consultants** | Roger Davey, Terry Tamminen, Wayne Praskins |
+| **Written And Produced By** | Greg DeHart |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00605.md)

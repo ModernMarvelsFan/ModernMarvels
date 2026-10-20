@@ -14,10 +14,10 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Created by** | BRUCE NASH |
-| **Edited by** | SEAN DASH |
-| **Line Producer** | PAUL DZILVELIS |
-| **Producer** | BRUCE NASH |
+| **Created By** | Bruce Nash |
+| **Edited By** | Sean Dash |
+| **Line Producer** | Paul Dzilvelis |
+| **Producer** | Bruce Nash |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00109.md)

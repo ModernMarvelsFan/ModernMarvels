@@ -7,38 +7,37 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
-* **Narrator:** MIKKI DEL MONICO, MAX RAPHAEL
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions
+* **Narrator:** Mikki Del Monico, Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | JUDY GORDON, SHERIDAN LIU |
-| **Animation by** | VICTOR BORNIA |
-| **Assistant Editor** | LAURA STEINHOFF |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Associate Producer** | DAN GIBBONS |
-| **Camera** | JOE CLARK, EVERETT A. HARRIS, JARED MANDERS, ERIC THORNTON, JORGE CASTILLO-TRENTIN |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACOUES |
-| **Edited by** | SCOT KELLY |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | DEREK JOHNSTON, KEITH PEARSON, JEREMY SETTLES, THOM SHAFER |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | GUY THOMAS |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistant** | GAYLEN KOBAYASHI |
-| **Post Producer** | TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Sound Mixer** | PAUL RAY |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
-| **Written and Produced by** | JEFFREY WILLERTH |
+| **Accountants** | Judy Gordon, Sheridan Liu |
+| **Animation By** | Victor Bornia |
+| **Assistant Editor** | Laura Steinhoff |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Associate Producer** | Dan Gibbons |
+| **Camera** | Joe Clark, Everett A. Harris, Jared Manders, Eric Thornton, Jorge Castillo-Trentin |
+| **Clearance Supervisor** | Katie Del Core |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacoues |
+| **Edited By** | Scot Kelly |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Derek Johnston, Keith Pearson, Jeremy Settles, Thom Shafer |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistant** | Gaylen Kobayashi |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Mikki Del Monico |
+| **Written And Produced By** | Jeffrey Willerth |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00378.md)

@@ -4,57 +4,57 @@
   "year": "2001",
   "copyright": "© 2001 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ACTUALITY PRODUCTIONS",
+    "Actuality Productions",
     "Hearst Entertainment",
     "SONG DESIGN, INC. (named inside the 'Animation' credit)"
   ],
   "narrators": [
-    "DAWN IRWIN"
+    "Dawn Irwin"
   ],
   "crew": {
-    "Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Post Production Supervisor": [
-      "JASON STEINBERG"
-    ],
-    "Post Production Coordinator": [
-      "GARY REID"
-    ],
-    "Voice Over Coordinator": [
-      "DAWN IRWIN"
+    "Animation": [
+      "Song Design, Inc.",
+      "Rick Orner"
     ],
     "Assistant Editors": [
-      "MICHAEL LIM",
-      "STEPHEN FRANKLIN"
-    ],
-    "Online Editor": [
-      "DAVID REX"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Animation": [
-      "SONG DESIGN, INC.",
-      "RICK ORNER"
-    ],
-    "Graphics": [
-      "BARRY HILL"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
+      "Michael Lim",
+      "Stephen Franklin"
     ],
     "Assistant Production Accountants": [
-      "LINDA SCRIBNER",
-      "SONIA RANDAZZO"
+      "Linda Scribner",
+      "Sonia Randazzo"
     ],
-    "Production Coordinator": [
-      "MICHAEL Z DAVIS"
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
+    "Graphics": [
+      "Barry Hill"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Production Coordinator": [
+      "Gary Reid"
+    ],
+    "Post Production Supervisor": [
+      "Jason Steinberg"
     ],
     "Production Assistants": [
-      "MARYALICE R. ARAGON",
-      "RASI DELGADO",
-      "SUNI NIVENS"
+      "Maryalice R. Aragon",
+      "Rasi Delgado",
+      "Suni Nivens"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Michael Z Davis"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Dawn Irwin"
     ]
   }
 }

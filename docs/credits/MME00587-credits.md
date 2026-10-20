@@ -22,9 +22,9 @@
 | **Camera** | Keith Barefoot, Russell Blair, Jason Cantu, Joel Eyres, Wolfgang Isenhart, John Kabasakalis, Lon Magdich, Jim Petit |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Allison Boon |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Robert Lattanzio |
 | **Executive Producer** | Don Cambou |
 | **Historical Consultants** | Ralph Baer, Pamela Landis, David Newhardt |
@@ -39,7 +39,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | W. Scott Goldie |
+| **Written And Produced By** | W. Scott Goldie |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00587.md)

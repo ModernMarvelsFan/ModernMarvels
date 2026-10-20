@@ -9,38 +9,8 @@
     "Mikki Del Monico"
   ],
   "crew": {
-    "Edited by": [
-      "Motoshi Wakabayashi"
-    ],
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Music by": [
-      "Guy Thomas"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Clearance Supervisor": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Anthony Lacques"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
     "Accountant": [
       "Sheridan Liu"
-    ],
-    "Clearance Coordinator": [
-      "D.W. Blakeslee"
-    ],
-    "Voice Over Coordinator": [
-      "Mikki Del Monico"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -49,6 +19,24 @@
     "Assistant Post Coordinator": [
       "Alexander Rubinow"
     ],
+    "Clearance Coordinator": [
+      "D.W. Blakeslee"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Anthony Lacques"
+    ],
+    "Edited By": [
+      "Motoshi Wakabayashi"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Daniel J. Cook",
       "Art Jaso",
@@ -56,20 +44,32 @@
       "Dana Sleiman",
       "Keith Thomas"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Ed Thatcher"
-    ],
     "Historical Consultants": [
       "James I. Robertson, Jr.",
       "George Wunderlich"
     ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Music By": [
+      "Guy Thomas"
     ],
-    "Written and Produced by": [
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Sound Mixer": [
+      "Ed Thatcher"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
+    ],
+    "Written And Produced By": [
       "Jeff Cole"
     ]
   }

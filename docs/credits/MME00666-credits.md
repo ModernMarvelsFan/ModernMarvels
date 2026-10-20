@@ -22,9 +22,9 @@
 | **Camera** | Bob Boccaccio, Dennis Finnegan, Dow Haynor, Sean Healy, Lon Magdich, R. Kelley Marchal, Carey Moots, George Odell, Stan Taylor |
 | **Clearance Coordinator** | Kiana Moore |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | David Beatty |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Curt Britton, Stephanie Bunnell, Jeremy Drowne, Gary Heimann, Bryan Kweskin, Callahan P. Moots, Hans van der Bold, Mark Wilson |
@@ -40,7 +40,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Nozomu Furuya-Hirota |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Jeff Cole |
+| **Written And Produced By** | Jeff Cole |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00666.md)

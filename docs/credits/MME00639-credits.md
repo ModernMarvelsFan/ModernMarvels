@@ -20,14 +20,12 @@
 | **Camera** | Chris Bell, Kurt Kuykendall, Paul Dougherty, Florian Pilsl, Rob Gatti, Dave Rutherford, Ed Kukla, Randy Scoggins |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Scot Kelly |
-| **Executive Producer** | Don Cambou |
+| **Executive Producer** | John Verhoff |
 | **Field Audio** | Chad Bryant, Brian Person, Eric Golden, Darcel Walker, Bryan Kweskin, Bill Williams, Ron Lehr, Mark Wilson |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Adam Rosante |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
@@ -38,10 +36,11 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Researcher** | Joshua Janiak |
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Jared Cook, Lawrence Givens III |
+| **Written And Produced By** | Jared Cook, Lawrence Givens III |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00639.md)

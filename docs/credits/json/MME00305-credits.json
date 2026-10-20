@@ -13,57 +13,18 @@
     "Beata Genin"
   ],
   "crew": {
-    "Narrator": [
-      "Max Raphael"
+    "Animation": [
+      "Victor Bornia"
     ],
-    "Edited by": [
-      "Lou Laprocido"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Music by": [
-      "Alan Ett"
-    ],
-    "Production Manager": [
-      "Kathlene Exner"
-    ],
-    "Post Production Manager": [
-      "Gary Reid"
-    ],
-    "Clearance Supervisor": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Hildie Katibah"
-    ],
-    "Production Auditor": [
-      "Dani Eslin"
+    "Assistant Editor": [
+      "Scott R. Martin"
     ],
     "Assistant Production Accountants": [
       "Linda Scribner",
       "Dennis Luciani"
     ],
-    "Production Coordinator": [
-      "James Wiser"
-    ],
-    "Production Assistant": [
-      "David Falciani"
-    ],
-    "Assistant Editor": [
-      "Scott R. Martin"
-    ],
-    "Post Production Coordinator": [
-      "Danny Kim"
-    ],
-    "Post Production Assistant": [
-      "Laura Steinhoff"
-    ],
-    "Researcher/Voice Over Coordinator": [
-      "Beata Genin"
+    "Associate Producer": [
+      "Gloria L. Morris"
     ],
     "Camera": [
       "Scott M. Douglas",
@@ -71,39 +32,78 @@
       "Gibb Randall",
       "Steve Slocomb"
     ],
-    "Field Audio": [
-      "Ken Furrow",
-      "Rick Randall",
-      "Marcel Schaal"
+    "Clearance Supervisor": [
+      "Katie Del Core"
     ],
-    "Online Editor": [
-      "Derek Herr"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Sound Mixer": [
-      "Paul Ray"
+    "Director Of Research": [
+      "Hildie Katibah"
     ],
-    "Animation": [
-      "Victor Bornia"
-    ],
-    "Historical Consultants": [
-      "John Garland",
-      "Scott Kuehn"
-    ],
-    "Footage Consultant": [
-      "Ted Troll"
+    "Edited By": [
+      "Lou Laprocido"
     ],
     "Executive Producer": [
       "Beth Dietrich-Segarra",
       "Don Cambou"
     ],
-    "Produced by": [
-      "Ron Nelson"
+    "Field Audio": [
+      "Ken Furrow",
+      "Rick Randall",
+      "Marcel Schaal"
     ],
-    "Associate Producer": [
-      "Gloria L. Morris"
+    "Footage Consultant": [
+      "Ted Troll"
+    ],
+    "Historical Consultants": [
+      "John Garland",
+      "Scott Kuehn"
     ],
     "Line Producer": [
       "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "Derek Herr"
+    ],
+    "Post Production Assistant": [
+      "Laura Steinhoff"
+    ],
+    "Post Production Coordinator": [
+      "Danny Kim"
+    ],
+    "Post Production Manager": [
+      "Gary Reid"
+    ],
+    "Produced By": [
+      "Ron Nelson"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "David Falciani"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "James Wiser"
+    ],
+    "Production Manager": [
+      "Kathlene Exner"
+    ],
+    "Voice Over Coordinator": [
+      "Beata Genin"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
     ]
   }
 }

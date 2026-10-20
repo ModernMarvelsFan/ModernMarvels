@@ -10,48 +10,21 @@
     "Max Raphael"
   ],
   "crew": {
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Music": [
-      "AMI Music Group"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Research": [
-      "Rick George"
-    ],
     "Accountants": [
       "Malia Marsh",
       "Leslie Pinkstaff"
     ],
-    "Coordinator": [
-      "Gregory Zide"
+    "Animated Stills": [
+      "Adam Goodwin"
+    ],
+    "Animation": [
+      "Victor Bornia"
     ],
     "Assistant Editor": [
       "Nate Dusek"
     ],
-    "Post Coordinator": [
-      "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Cory Parker"
+    "Associate Producer": [
+      "Jeni Rohlin"
     ],
     "Camera": [
       "Christopher A. Bell",
@@ -64,6 +37,21 @@
       "Robert W. Shenise",
       "Zvonimir \"Z\" Vidusin"
     ],
+    "Coordinator": [
+      "Gregory Zide"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Editor": [
+      "Alexander Rubinow"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Chad Bryant",
       "Douglas J. Burton",
@@ -75,35 +63,47 @@
       "Ian Vacek",
       "Michael Whelan"
     ],
+    "Music": [
+      "AMI Music Group"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "Victor Bornia"
+    "Post Assist": [
+      "Cory Parker"
     ],
-    "Sound Mixer": [
-      "Nozomu Furuya-Hirota"
+    "Post Coordinator": [
+      "Gaylen Kobayashi"
     ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Post Producer": [
+      "Tim Knauff"
     ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Producer": [
+      "Bruce Nash"
     ],
-    "Written and Produced by": [
-      "Kaylan Eggert"
+    "Production Controller": [
+      "Dani Eslin"
     ],
     "Production Executive": [
       "Paul Dzilvelis"
     ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Research": [
+      "Rick George"
+    ],
+    "Sound Mixer": [
+      "Nozomu Furuya-Hirota"
+    ],
     "Supervising Producer": [
       "Ron Nelson"
     ],
-    "Associate Producer": [
-      "Jeni Rohlin"
-    ],
-    "Editor": [
-      "Alexander Rubinow"
+    "Written And Produced By": [
+      "Kaylan Eggert"
     ]
   }
 }

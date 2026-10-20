@@ -12,36 +12,18 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Katie Del Core"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Coordinators": [
-      "Brad Skiles",
-      "Maya Sykes"
+    "Additional Animation": [
+      "Randall Rickert",
+      "Adam Goodwin"
     ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
+    "Animation": [
+      "Glenn Takakjian"
+    ],
+    "Associate Producer": [
+      "Jessica Loveless"
     ],
     "Camera": [
       "Chris Ball",
@@ -51,6 +33,29 @@
       "Darrah Ribble III",
       "Diana Wilmar"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinators": [
+      "Brad Skiles",
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Katie Del Core"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Editors": [
+      "Sean Dash",
+      "Marcelo Lopes"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Ryan Agostino",
       "Dennis Hamlin",
@@ -58,59 +63,54 @@
       "Adrian Sam",
       "Kem Stralka"
     ],
-    "Online Editor": [
-      "John Price"
+    "For": [
+      "History Television Networks Productions"
     ],
-    "Animation": [
-      "Glenn Takakjian"
+    "Executive Producers": [
+      "Beth Dietrich-Segarra",
+      "Michael Stiller"
     ],
-    "Sound Mixer": [
-      "Erik Valenzuela"
-    ],
-    "Additional Animation": [
-      "Randall Rickert",
-      "Adam Goodwin"
+    "Programming Coordinator": [
+      "Adam Rosante"
     ],
     "Historical Consultant": [
       "D.C. Jackson"
     ],
-    "For The History Channel / Programming Coordinator": [
-      "Adam Rosante"
-    ],
-    "For The History Channel / Executive Producers": [
-      "Beth Dietrich-Segarra",
-      "Michael Stiller"
-    ],
-    "Produced by": [
-      "Actuality Productions, Inc."
-    ],
-    "For": [
-      "History Television Networks Productions"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Sean Dash"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Jessica Loveless"
+    "Music": [
+      "Guy Thomas"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Editors": [
-      "Sean Dash",
-      "Marcelo Lopes"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music": [
-      "Guy Thomas"
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc."
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Sound Mixer": [
+      "Erik Valenzuela"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "Sean Dash"
     ]
   }
 }

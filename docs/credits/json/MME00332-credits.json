@@ -6,28 +6,28 @@
   "studios": [],
   "narrators": [],
   "crew": {
-    "Executive Producer": [
-      "CRAIG HAFFNER"
-    ],
-    "\"Panzers\" Produced by": [
-      "ROBERT KIRK"
+    "\"Panzers\" Produced By": [
+      "Robert Kirk"
     ],
     "Director": [
-      "ROBERT KIRK"
+      "Robert Kirk"
     ],
-    "Supervising Producer": [
-      "ROBERT LIHANI"
+    "Executive Producer": [
+      "Craig Haffner"
     ],
-    "Series Producer": [
-      "JOHN CORRY"
+    "Music By": [
+      "Christopher Stone",
+      "Richard Band"
     ],
     "Senior Editors": [
-      "STEVE POMERANTZ",
-      "R.L. SHONTELL"
+      "Steve Pomerantz",
+      "R.L. Shontell"
     ],
-    "Music by": [
-      "CHRISTOPHER STONE",
-      "RICHARD BAND"
+    "Series Producer": [
+      "John Corry"
+    ],
+    "Supervising Producer": [
+      "Robert Lihani"
     ]
   }
 }

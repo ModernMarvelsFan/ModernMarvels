@@ -24,9 +24,9 @@
 | **Camera** | Keith Barefoot, John Bonner, Pat Drury, Ed Garcia, Scott Kilian, Lon Magdich, Bryan Maslin |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Aaron Austin, Gary Azzinaro, Dan Cook, Chris Grehan, Noah Mathers, Kem Stralka, Paul Wustrack |
@@ -42,7 +42,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Jeff Cole |
+| **Written And Produced By** | Jeff Cole |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00624.md)

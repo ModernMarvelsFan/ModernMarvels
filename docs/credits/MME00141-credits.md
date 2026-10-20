@@ -14,9 +14,9 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **FOR THE HISTORY CHANNEL / Executive Producer** | Charlie Maday |
-| **FOR THE HISTORY CHANNEL / Supervising Producer** | Beth Dietrich |
+| **Executive Producer** | Charlie Maday |
 | **Gamers** | Adam Ganson, Dave DiMatteo, Matt Burke, Rich Kane, Thaya Saxby, Fox Piaget, Victor Naeve, Gail Davis, Julia H. Cristofano, Rachel Yaroschuk, Richard Margil |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00141.md)

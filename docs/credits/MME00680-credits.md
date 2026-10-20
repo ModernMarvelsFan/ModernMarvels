@@ -8,20 +8,20 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2010 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Consulting Producer** | HENRY SCHIPPER |
-| **Created by** | BRUCE NASH |
-| **Edited by** | ROBERT LATTANZIO |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Producer** | BRUCE NASH |
-| **Written and Produced by** | ANTHONY LACOUES, GLORIA L. MORRIS |
+| **Consulting Producer** | Henry Schipper |
+| **Created By** | Bruce Nash |
+| **Edited By** | Robert Lattanzio |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Producer** | Bruce Nash |
+| **Written And Produced By** | Anthony Lacoues, Gloria L. Morris |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00680.md)

@@ -14,20 +14,20 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | STUART BRODLIEB, HARRIS COHEN, SPENCER KEIMON |
-| **Assistant Production Accountants** | JUDI MINITELLO, LINDA SCRIBNER |
-| **Assistant To Don Cambou** | TIM SHELL |
+| **Assistant Editors** | Stuart Brodlieb, Harris Cohen, Spencer Keimon |
+| **Assistant Production Accountants** | Judi Minitello, Linda Scribner |
+| **Assistant To Don Cambou** | Tim Shell |
 | **Audio Coordinator** | DERRICK McDANIEL |
-| **Footage Consultant** | TED TROLL |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Supervising Producer** | BETH DIETRICH |
-| **Online Editor** | DAVID REX |
-| **Post Production Assistant** | GARY REID |
-| **Post Production Coordinator** | LEANNE M. ANAYA REECE |
-| **Production Assistant** | ERIC SCHAEFER |
-| **Production Auditor** | DANI ESLIN |
-| **Production Secretary** | KATHY EXNER |
-| **Sound Mixer** | SAM KAUFMANN |
+| **Executive Producer** | Charlie Maday |
+| **Footage Consultant** | Ted Troll |
+| **Online Editor** | David Rex |
+| **Post Production Assistant** | Gary Reid |
+| **Post Production Coordinator** | Leanne M. Anaya Reece |
+| **Production Assistant** | Eric Schaefer |
+| **Production Auditor** | Dani Eslin |
+| **Production Secretary** | Kathy Exner |
+| **Sound Mixer** | Sam Kaufmann |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00087.md)

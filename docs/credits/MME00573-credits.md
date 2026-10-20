@@ -24,14 +24,13 @@
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Brad Skiles |
 | **Created By** | Bruce Nash |
-| **Director of Clearance** | Katie Del Core |
-| **Director of Research** | Allison Boon |
+| **Director Of Clearance** | Katie Del Core |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Motoshi Wakabayashi |
 | **Executive Producer** | Don Cambou |
+| **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Field Audio** | Doug Farris, Matt Gettemeier, Dennis Hamlin, Kathryn Korniloff, Jo Richardson, Thomas Shafer |
 | **For** | History Television Network Productions |
-| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **For The History Channel / Programming Coordinators** | Adam Rosante, Michele Wilcox |
 | **Historical Consultants** | David Dinger, Francis Halzen, Bob Morse, Tom Ratvasky |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |
@@ -39,11 +38,12 @@
 | **Post Assist** | James Orbison |
 | **Post Coordinator** | Terrence Hartwell |
 | **Post Producer** | Tim Knauff |
-| **Produced by** | Actuality Productions, Inc., Ron Nelson |
+| **Produced By** | Actuality Productions, Inc., Ron Nelson |
 | **Producer** | Bruce Nash |
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinators** | Adam Rosante, Michele Wilcox |
 | **Research** | Justin Chang |
 | **Sound Mixer** | Mark Jensen |
 

@@ -6,27 +6,27 @@
   "studios": [
     "ACTUALITY Productions, Inc.",
     "Hearst Entertainment",
-    "THE HISTORY CHANNEL"
+    "The History Channel"
   ],
   "narrators": [],
   "crew": {
-    "Supervising Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "KAREN SHEARER"
-    ],
     "Associate Producer": [
-      "ROBERT ZIEL"
+      "Robert Ziel"
     ],
-    "Edited by": [
-      "JACK FOSTER"
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Jack Foster"
     ],
     "Producer": [
-      "BRUCE NASH"
+      "Bruce Nash"
     ],
-    "Created by": [
-      "BRUCE NASH"
+    "Supervising Producer": [
+      "Don Cambou"
+    ],
+    "Written And Produced By": [
+      "Karen Shearer"
     ]
   }
 }

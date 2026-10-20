@@ -4,35 +4,31 @@
   "year": "2021",
   "copyright": "© 2021 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "THE SIX WEST MEDIA(TM) GROUP",
-    "HISTORY(R)"
+    "The Six West Media(tm) Group",
+    "History(r)"
   ],
   "narrators": [],
   "crew": {
-    "SENIOR DIRECTOR, POST-PRODUCTION": [
-      "Tom Matheu"
+    "Archival Producer": [
+      "Leslie Walsh"
     ],
-    "SUPERVISOR, POST-PROD MEDIA OPS": [
-      "Eric Fortier"
+    "Assistant Camera": [
+      "William Start"
     ],
-    "MEDIA OPERATIONS TECHS": [
-      "Howard Chisholm",
-      "Adam Perez"
+    "Assistant Editors": [
+      "Jonathan A. Schwartz",
+      "Zac Ceccarelli",
+      "Nicholas Sutera"
     ],
-    "GRAPHICS": [
-      "Monkeyhead",
-      "Ken Dayhoff"
+    "Assistant Production Accountants": [
+      "Samara Choit",
+      "Hayden McComas"
     ],
-    "POST-PRODUCTION FACILITY": [
-      "Motion Picture Enterprises, Inc."
+    "Associate Producers": [
+      "Cosmo DeCaro",
+      "Cate Burzynski"
     ],
-    "ONLINE PRODUCER": [
-      "Brian Street"
-    ],
-    "ONLINE EDITOR AND COLORIST": [
-      "Trent Ernes"
-    ],
-    "AUDIO MIXER": [
+    "Audio Mixer": [
       "Andrew Kay",
       "Robert Aguilar",
       "Omar Barraza",
@@ -42,107 +38,7 @@
       "Rob Disner",
       "Kyle Graham"
     ],
-    "LEAD PRODUCTION ACCOUNTANT": [
-      "Sophiya Banu"
-    ],
-    "ASSISTANT PRODUCTION ACCOUNTANTS": [
-      "Samara Choit",
-      "Hayden McComas"
-    ],
-    "JUNIOR PRODUCTION ACCOUNTANT": [
-      "Phurbu Nepali"
-    ],
-    "MUSIC COURTESY OF": [
-      "Strike Audio",
-      "Audio Network",
-      "Signature Tracks",
-      "Gramoscope",
-      "Extreme Music"
-    ],
-    "Original concept created by": [
-      "Bruce Nash"
-    ],
-    "EXECUTIVE PRODUCERS": [
-      "Steve Ascher",
-      "Matt Pearl",
-      "Kristy Sabat"
-    ],
-    "EXECUTIVE PRODUCER": [
-      "Matthew J. Braley",
-      "Adam Richman"
-    ],
-    "CO-EXECUTIVE PRODUCER": [
-      "Steven C. Lawrence"
-    ],
-    "HOST": [
-      "Adam Richman"
-    ],
-    "SUPERVISING FIELD PRODUCER": [
-      "Alice Bondulich"
-    ],
-    "PRODUCER": [
-      "Janine Leeds"
-    ],
-    "SERIES ASSOCIATE PRODUCERS": [
-      "Malia Kobara",
-      "Alexandra Eden"
-    ],
-    "ASSOCIATE PRODUCERS": [
-      "Cosmo DeCaro",
-      "Cate Burzynski"
-    ],
-    "POST PRODUCER": [
-      "Gigi Abrantes"
-    ],
-    "ARCHIVAL PRODUCER": [
-      "Leslie Walsh"
-    ],
-    "POST-PRODUCTION SUPERVISORS": [
-      "Kevin T. Fogarty",
-      "Ruth Horn-Axelrod"
-    ],
-    "EDITORS": [
-      "Mike Baron",
-      "Jimmy Higgins",
-      "Duncan Adams",
-      "Mike Newton",
-      "Nate Novero",
-      "John Rasmussen",
-      "Korey Caldwell"
-    ],
-    "ASSISTANT EDITORS": [
-      "Jonathan A. Schwartz",
-      "Zac Ceccarelli",
-      "Nicholas Sutera"
-    ],
-    "OPERATIONS": [
-      "Ed Russo"
-    ],
-    "MANAGEMENT": [
-      "Patricia Paredes Saez"
-    ],
-    "LINE PRODUCER": [
-      "Pamela Wagner"
-    ],
-    "PRODUCTION MANAGER": [
-      "Andrea Hildensperger"
-    ],
-    "PRODUCTION COORDINATORS": [
-      "Jasmine Jean",
-      "Nicole Vuono"
-    ],
-    "JR PRODUCTION COORDINATORS": [
-      "Breanne Casucci",
-      "Sarah McHugh"
-    ],
-    "DIRECTORS OF PHOTOGRAPHY": [
-      "Edwin Diaz",
-      "Addison Miller",
-      "Ethan Pisz",
-      "Paul Ralia",
-      "Ted Willis"
-    ],
-    "CAMERA OPERATORS": [
+    "Camera Operators": [
       "Scott Clark",
       "Alex Ieronimo",
       "Preston Millhouse",
@@ -150,14 +46,10 @@
       "Will Start",
       "Keith Worthington"
     ],
-    "FIELD PRODUCERS": [
-      "David Scott McDougall",
-      "Priscilla Montemor",
-      "Kathleen Quinn",
-      "Stephanie Taylor",
-      "Michael Weber"
+    "Co-Executive Producer": [
+      "Steven C. Lawrence"
     ],
-    "COVID COMPLIANCE COORDINATORS": [
+    "Covid Compliance Coordinators": [
       "Brittany Agnew",
       "John Alfone",
       "Buffalo Bonker",
@@ -166,10 +58,62 @@
       "Shawn Luckey",
       "Adrian Steward"
     ],
-    "ASSISTANT CAMERA": [
-      "William Start"
+    "Directors Of Photography": [
+      "Edwin Diaz",
+      "Addison Miller",
+      "Ethan Pisz",
+      "Paul Ralia",
+      "Ted Willis"
     ],
-    "MEDIA MANAGER": [
+    "Editors": [
+      "Mike Baron",
+      "Jimmy Higgins",
+      "Duncan Adams",
+      "Mike Newton",
+      "Nate Novero",
+      "John Rasmussen",
+      "Korey Caldwell"
+    ],
+    "Executive Producer": [
+      "Matthew J. Braley",
+      "Adam Richman"
+    ],
+    "Executive Producers": [
+      "Steve Ascher",
+      "Matt Pearl",
+      "Kristy Sabat"
+    ],
+    "Field Producers": [
+      "David Scott McDougall",
+      "Priscilla Montemor",
+      "Kathleen Quinn",
+      "Stephanie Taylor",
+      "Michael Weber"
+    ],
+    "Graphics": [
+      "Monkeyhead",
+      "Ken Dayhoff"
+    ],
+    "Host": [
+      "Adam Richman"
+    ],
+    "Jr Production Coordinators": [
+      "Breanne Casucci",
+      "Sarah McHugh"
+    ],
+    "Junior Production Accountant": [
+      "Phurbu Nepali"
+    ],
+    "Lead Production Accountant": [
+      "Sophiya Banu"
+    ],
+    "Line Producer": [
+      "Pamela Wagner"
+    ],
+    "Management": [
+      "Patricia Paredes Saez"
+    ],
+    "Media Manager": [
       "Hunter Dantonio",
       "Jesse DeZamora",
       "Rosaleah Gonzalez",
@@ -177,7 +121,66 @@
       "Levi Mlinar",
       "Cody Williams"
     ],
-    "SET PRODUCTION ASSISTANTS": [
+    "Media Operations Techs": [
+      "Howard Chisholm",
+      "Adam Perez"
+    ],
+    "Music Courtesy Of": [
+      "Strike Audio",
+      "Audio Network",
+      "Signature Tracks",
+      "Gramoscope",
+      "Extreme Music"
+    ],
+    "Online Editor And Colorist": [
+      "Trent Ernes"
+    ],
+    "Online Producer": [
+      "Brian Street"
+    ],
+    "Operations": [
+      "Ed Russo"
+    ],
+    "Original Concept Created By": [
+      "Bruce Nash"
+    ],
+    "Post Producer": [
+      "Gigi Abrantes"
+    ],
+    "Post-Production Assistant": [
+      "Samantha Lochs"
+    ],
+    "Post-Production Coordinator": [
+      "Denise McGillicuddy"
+    ],
+    "Post-Production Facility": [
+      "Motion Picture Enterprises, Inc."
+    ],
+    "Post-Production Manager": [
+      "Helena Greenwald"
+    ],
+    "Post-Production Supervisors": [
+      "Kevin T. Fogarty",
+      "Ruth Horn-Axelrod"
+    ],
+    "Producer": [
+      "Janine Leeds"
+    ],
+    "Production Coordinators": [
+      "Jasmine Jean",
+      "Nicole Vuono"
+    ],
+    "Production Manager": [
+      "Andrea Hildensperger"
+    ],
+    "Senior Director, Post-Production": [
+      "Tom Matheu"
+    ],
+    "Series Associate Producers": [
+      "Malia Kobara",
+      "Alexandra Eden"
+    ],
+    "Set Production Assistants": [
       "Chris Ahearn",
       "Becca Evett",
       "Anthony Fisher",
@@ -185,17 +188,14 @@
       "Gabriel Patino",
       "Rosalyn Waiyaki"
     ],
-    "SUPERVISING PRODUCER, POST-PRODUCTION": [
+    "Supervising Field Producer": [
+      "Alice Bondulich"
+    ],
+    "Supervising Producer, Post-Production": [
       "Mike Giordano"
     ],
-    "POST-PRODUCTION MANAGER": [
-      "Helena Greenwald"
-    ],
-    "POST-PRODUCTION COORDINATOR": [
-      "Denise McGillicuddy"
-    ],
-    "POST-PRODUCTION ASSISTANT": [
-      "Samantha Lochs"
+    "Supervisor, Post-Prod Media Ops": [
+      "Eric Fortier"
     ]
   }
 }

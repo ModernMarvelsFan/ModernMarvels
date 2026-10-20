@@ -8,19 +8,19 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1998 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** HARLAN SAPERSTEIN
+* **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | SIRDHAR DASARI |
-| **Created by** | BRUCE NASH |
-| **Music by** | ALAN ETT |
-| **Narrated by** | HARLAN SAPERSTEIN |
-| **Producer** | BRUCE NASH |
-| **Supervising Producer** | DON CAMBOU |
-| **Written and Produced by** | NOAH MOROWITZ |
+| **Associate Producer** | Sirdhar Dasari |
+| **Created By** | Bruce Nash |
+| **Music By** | Alan Ett |
+| **Narrated By** | Harlan Saperstein |
+| **Producer** | Bruce Nash |
+| **Supervising Producer** | Don Cambou |
+| **Written And Produced By** | Noah Morowitz |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00066.md)

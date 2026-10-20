@@ -16,12 +16,12 @@
 | :--- | :--- |
 | **Assistant Editors** | Jared Bushansky, Maurice Cassamajor, Brady Heck |
 | **Assistant Production Accountant** | Jori Espinosa |
-| **Assistant to Bob Jaffe** | Hay Tanning |
-| **Assistant to Tim Busa** | Todd Bluechel |
+| **Assistant To Bob Jaffe** | Hay Tanning |
+| **Assistant To Tim Busa** | Todd Bluechel |
 | **Executive Producer** | Charlie Maday |
 | **Executive Producer For Hearst Entertainment Television** | Gerald W. Abrams |
 | **Footage Consultant** | Ted Troll |
-| **Music by** | Derek Luff Music |
+| **Music By** | Derek Luff Music |
 | **Production Assistants** | Jason Menz, Toni Gray |
 | **Series Manager** | Elyse Miranda |
 

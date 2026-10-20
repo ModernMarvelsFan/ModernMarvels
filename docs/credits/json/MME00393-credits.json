@@ -4,115 +4,115 @@
   "year": "2004",
   "copyright": "© 2004 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions",
     "A&E Television Network"
   ],
   "narrators": [
-    "MAX RAPHAEL",
-    "MIKKI DEL MONICO"
+    "Max Raphael",
+    "Mikki Del Monico"
   ],
   "crew": {
+    "Accountants": [
+      "Judy Gordon",
+      "Sheridan Liu"
+    ],
+    "Animation By": [
+      "Philippe Bergerioux",
+      "Glenn Takakjian"
+    ],
+    "Assistant Editor": [
+      "Laura Steinhoff"
+    ],
+    "Assistant Post Coordinator": [
+      "Alexander Rubinow"
+    ],
     "Associate Producer": [
-      "DAVID BRADSTREET"
+      "David Bradstreet"
     ],
-    "Edited by": [
-      "SCOT KELLY"
+    "Camera": [
+      "Luke Ellis",
+      "Brandon Green",
+      "Peter Krajewski",
+      "Lon Magdich",
+      "Jim Mahoney"
     ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Music by": [
-      "ALAN ETT MUSIC GROUP"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "TIM KNAUFF"
+    "Clearance Coordinator": [
+      "D.W. Blakeslee"
     ],
     "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ANTHONY LACQUES"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
-    "Accountants": [
-      "JUDY GORDON",
-      "SHERIDAN LIU"
+      "Katie Del Core"
     ],
     "Coordinator": [
       "ROSALYN McVAY"
     ],
-    "Researcher": [
-      "MIKKI DEL MONICO"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Clearance Coordinator": [
-      "D.W. BLAKESLEE"
+    "Director Of Research": [
+      "Anthony Lacques"
     ],
-    "Production Assistants": [
-      "JEFFERY PERKINS"
-    ],
-    "Voice Over Coordinator": [
-      "MIKKI DEL MONICO"
-    ],
-    "Assistant Editor": [
-      "LAURA STEINHOFF"
-    ],
-    "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
-    ],
-    "Post Assistant": [
-      "GAYLEN KOBAYASHI"
-    ],
-    "Camera": [
-      "LUKE ELLIS",
-      "BRANDON GREEN",
-      "PETER KRAJEWSKI",
-      "LON MAGDICH",
-      "JIM MAHONEY"
-    ],
-    "Field Audio": [
-      "MIKE BORMAN",
-      "ERIC FITZ",
-      "CHARLES ROHR"
-    ],
-    "Online Editor": [
-      "JOHN PRICE"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Animation by": [
-      "PHILIPPE BERGERIOUX",
-      "GLENN TAKAKJIAN"
-    ],
-    "Historical Consultant": [
-      "LEE GRAY",
-      "BERN NAGENGAST",
-      "SARA WERMIEL"
-    ],
-    "Produced by": [
-      "ACTUALITY PRODUCTIONS, INC.",
-      "History Television Network Productions"
+    "Edited By": [
+      "Scot Kelly"
     ],
     "Executive Producer": [
-      "DON CAMBOU"
+      "Don Cambou"
     ],
-    "Written and Produced by": [
-      "LUKE ELLIS"
+    "Field Audio": [
+      "Mike Borman",
+      "Eric Fitz",
+      "Charles Rohr"
+    ],
+    "Historical Consultant": [
+      "Lee Gray",
+      "Bern Nagengast",
+      "Sara Wermiel"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistant": [
+      "Gaylen Kobayashi"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc.",
+      "History Television Network Productions"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistants": [
+      "Jeffery Perkins"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Mikki Del Monico"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
+    ],
+    "Written And Produced By": [
+      "Luke Ellis"
     ]
   }
 }

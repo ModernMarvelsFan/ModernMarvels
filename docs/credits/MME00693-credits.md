@@ -16,17 +16,17 @@
 | :--- | :--- |
 | **Assistant Editors** | Adam Kirk, Wanakhavi Wakhisi |
 | **Associate Producer** | Sarah Rooney, Arjun V. Rao |
+| **Colorist** | Matt Doe |
 | **Coordinating Producer** | Carter Figueroa |
-| **Created by** | Bruce Nash |
+| **Created By** | Bruce Nash |
 | **Digitizer** | Marcia Robusto |
-| **Director of Photography** | John Mans |
+| **Director Of Photography** | John Mans |
 | **Editor** | Mike Harvey |
 | **Executive Producer** | John Verhoff |
 | **Executive Producers** | Sean Gallagher, Abby Greensfelder |
 | **Graphics** | Dave Glanz, Percolate Digital |
 | **Music** | Audio Networks, Extreme Music |
 | **Narrator** | Max Raphael |
-| **Online Editor/Colorist** | Matt Doe |
 | **Post Production Coordinator** | Cameron Young |
 | **Post Production Supervisor** | Liam Monschein |
 | **Producer** | Jennifer Anderson |

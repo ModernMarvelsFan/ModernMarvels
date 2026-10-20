@@ -14,14 +14,14 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **FOR THE HISTORY CHANNEL / Executive Producer** | CHARLIE MADAY |
-| **FOR THE HISTORY CHANNEL / Supervising Producer** | ELYSE MIRANDA |
-| **Field Camera** | PAUL JOHNSON, NORM JOHNSTON, DAVID PRYKE, PAUL VANDERVEEN |
-| **Field Engineers** | THOMAS DANIELCZIK, JAMES HUGHES, SCOTT JOHNSON |
-| **Post Production Audio** | CRAIG PLACHY, RON MILLER |
-| **Post Production Services** | MATCHFRAME VIDEO |
-| **Produced by** | GREYSTONE COMMUNICATIONS, INC. |
-| **for** | THE HISTORY CHANNEL |
+| **Executive Producer** | Charlie Maday |
+| **Field Camera** | Paul Johnson, Norm Johnston, David Pryke, Paul Vanderveen |
+| **Field Engineers** | Thomas Danielczik, James Hughes, Scott Johnson |
+| **For** | The History Channel |
+| **Post Production Audio** | Craig Plachy, Ron Miller |
+| **Post Production Services** | Matchframe Video |
+| **Produced By** | Greystone Communications, Inc. |
+| **Supervising Producer** | Elyse Miranda |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00239.md)

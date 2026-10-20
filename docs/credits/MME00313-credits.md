@@ -8,39 +8,39 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., The History Channel
-* **Narrator:** BEATA GENIN
+* **Narrator:** Beata Genin
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | VICTOR BORNIA, GLENN TAKAKJIAN |
-| **Assistant Editor** | SCOTT R. MARTIN |
-| **Assistant Production Accountants** | LINDA SCRIBNER, DENNIS LUCIANI |
-| **Camera** | SCOTT BELL, NEAL KINARD, STEVE KONDRACKI, BRYAN KWESKIN, JESSE PHINNEY |
-| **Clearance Assistant** | GABE MARTINEZ |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | HILDIE KATIBAH |
-| **Edited by** | SEAN DASH |
-| **Field Audio** | JEFF COLON, ALEX FOX, DACID RUTHERFORD, NATHAN SMITH |
-| **Footage Consultant** | TED TROLL |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Historical Consultant** | MARTIN K.A. MORGAN |
-| **Music by** | ALAN ETT |
-| **Online Editor** | TIM DORNAN |
-| **PRODUCED BY** | ACTUALITY PRODUCTIONS, INC. |
-| **Post Production Assistant** | LAURA STEINHOFF |
-| **Post Production Coordinator** | DANNY KIM |
-| **Post Production Manager** | GARY REID |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | DAVID FALCIANI |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | JAMES WISER |
-| **Production Manager** | KATHLENE EXNER |
-| **Sound Mixer** | PAUL RAY |
-| **Voice Over Coordinator** | BEATA GENIN |
-| **for** | THE HISTORY CHANNEL |
+| **Animation** | Victor Bornia, Glenn Takakjian |
+| **Assistant Editor** | Scott R. Martin |
+| **Assistant Production Accountants** | Linda Scribner, Dennis Luciani |
+| **Camera** | Scott Bell, Neal Kinard, Steve Kondracki, Bryan Kweskin, Jesse Phinney |
+| **Clearance Assistant** | Gabe Martinez |
+| **Clearance Supervisor** | Katie Del Core |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Hildie Katibah |
+| **Edited By** | Sean Dash |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Jeff Colon, Alex Fox, Dacid Rutherford, Nathan Smith |
+| **Footage Consultant** | Ted Troll |
+| **For** | The History Channel |
+| **Historical Consultant** | Martin K.A. Morgan |
+| **Music By** | Alan Ett |
+| **Online Editor** | Tim Dornan |
+| **Post Production Assistant** | Laura Steinhoff |
+| **Post Production Coordinator** | Danny Kim |
+| **Post Production Manager** | Gary Reid |
+| **Produced By** | Actuality Productions, Inc. |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | David Falciani |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | James Wiser |
+| **Production Manager** | Kathlene Exner |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Beata Genin |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00313.md)

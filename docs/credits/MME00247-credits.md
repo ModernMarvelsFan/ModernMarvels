@@ -14,7 +14,7 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Modern Marvels / MAGNETS (squeeze panel) / Executive Producer** | DON CAMBOU |
+| **Executive Producer** | Don Cambou |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00247.md)

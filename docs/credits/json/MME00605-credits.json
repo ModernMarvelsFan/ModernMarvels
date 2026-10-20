@@ -12,35 +12,22 @@
     "Max Raphael"
   ],
   "crew": {
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Coordinators": [
-      "Brad Skiles",
-      "Maya Sykes"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
+    "Animation": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
       "Alexander Rubinow"
     ],
+    "Associate Producer": [
+      "Jeff Mercer"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Joshua Janiak"
     ],
     "Camera": [
       "Yoram Astrakhan",
@@ -52,6 +39,28 @@
       "Andre Fontanelle",
       "Morgan Schmidt-Feng"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinators": [
+      "Brad Skiles",
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Paul Barber",
       "Jose Manuel Jimenez-Maldonado",
@@ -61,62 +70,53 @@
       "Charles Rohr",
       "Dennis Hamlin"
     ],
-    "Online Editor": [
-      "John Price"
+    "Executive Producers": [
+      "Beth Dietrich-Segarra",
+      "Michael Stiller"
     ],
-    "Animation": [
-      "Victor Bornia"
+    "Programming Coordinator": [
+      "Adam Rosante"
     ],
-    "Sound Mixer": [
-      "Ryan Young"
-    ],
-    "Historical / Technical Consultants": [
+    "Technical Consultants": [
       "Roger Davey",
       "Terry Tamminen",
       "Wayne Praskins"
     ],
-    "For The History Channel / Programming Coordinator": [
-      "Adam Rosante"
-    ],
-    "For The History Channel / Executive Producers": [
-      "Beth Dietrich-Segarra",
-      "Michael Stiller"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Greg DeHart"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Jeff Mercer"
+    "Music": [
+      "Alan Ett Music Group"
     ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Editor": [
-      "Lou LaProcido"
+    "Online Editor": [
+      "John Price"
     ],
-    "Music": [
-      "Alan Ett Music Group"
+    "Post Assist": [
+      "Joshua Janiak"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
     ],
     "Producer": [
       "Bruce Nash"
     ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
     "Production Manager": [
       "Shelia Collins"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Sound Mixer": [
+      "Ryan Young"
     ],
-    "Post Producer": [
-      "Tim Knauff"
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "Greg DeHart"
     ]
   }
 }

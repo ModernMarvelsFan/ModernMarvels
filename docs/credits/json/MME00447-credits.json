@@ -11,45 +11,17 @@
     "Max Raphael"
   ],
   "crew": {
-    "Music by": [
-      "Alan Ett Music Group"
-    ],
-    "Producer/Created by": [
-      "Bruce Nash"
-    ],
-    "Clearance Supervisor": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Anthony Lacques"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Coordinator": [
-      "Melinda Esquibel"
-    ],
-    "Researchers": [
-      "Mikki Del Monico",
-      "John Knapp",
-      "Sean Heckman",
-      "Tom Barclay"
-    ],
-    "Clearance Coordinator": [
-      "D.W. Blakeslee"
-    ],
-    "Production Assistant": [
-      "Jeffery Perkins"
+    "Animation By": [
+      "Tak Productions, Inc."
     ],
     "Assistant Post Coordinator": [
       "Alexander Rubinow"
     ],
-    "Post Assistants": [
-      "Gaylen Kobayashi",
-      "Linda Liao"
+    "Associate Producer": [
+      "David Bradstreet"
     ],
     "Camera": [
       "Paul Alvarez",
@@ -59,36 +31,64 @@
       "Nathan Shelton",
       "Z Vidusin"
     ],
-    "Field Audio": [
-      "Brian Haisley",
-      "Dino Quaglietta"
+    "Clearance Coordinator": [
+      "D.W. Blakeslee"
     ],
-    "Online Editor": [
-      "John Price"
+    "Clearance Supervisor": [
+      "Katie Del Core"
     ],
-    "Sound Mixer": [
-      "Paul Ray"
+    "Coordinator": [
+      "Melinda Esquibel"
     ],
-    "Animation by": [
-      "Tak Productions, Inc."
+    "Director Of Research": [
+      "Anthony Lacques"
+    ],
+    "Edited By": [
+      "Chaz Shukat"
     ],
     "Executive Producer": [
       "Don Cambou"
     ],
-    "Written & Produced by": [
-      "Lee Schneider"
+    "Field Audio": [
+      "Brian Haisley",
+      "Dino Quaglietta"
     ],
     "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "Associate Producer": [
-      "David Bradstreet"
+    "Music By": [
+      "Alan Ett Music Group"
     ],
-    "Edited by": [
-      "Chaz Shukat"
-    ],
-    "Narrated by": [
+    "Narrated By": [
       "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistants": [
+      "Gaylen Kobayashi",
+      "Linda Liao"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Jeffery Perkins"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Researchers": [
+      "Mikki Del Monico",
+      "John Knapp",
+      "Sean Heckman",
+      "Tom Barclay"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Written &amp; Produced By": [
+      "Lee Schneider"
     ]
   }
 }

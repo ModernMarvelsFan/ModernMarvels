@@ -7,22 +7,22 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, THE HISTORY CHANNEL, A&E Television Networks
+* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, The History Channel, A&E Television Networks
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | CHRISTOF RITTER |
-| **Created by** | BRUCE NASH |
-| **Edited by** | JACK FOSTER |
-| **For The History Channel - Executive Producer** | CHARLIE MADAY |
-| **For The History Channel - Supervising Producer** | BETH DIETRICH |
-| **Line Producer** | PAUL DZILVELIS |
-| **Producer** | BRUCE NASH |
-| **Supervising Producer** | DON CAMBOU |
-| **Written and Produced by** | FRED PEABODY |
+| **Associate Producer** | Christof Ritter |
+| **Created By** | Bruce Nash |
+| **Edited By** | Jack Foster |
+| **For The History Channel - Executive Producer** | Charlie Maday |
+| **For The History Channel - Supervising Producer** | Beth Dietrich |
+| **Line Producer** | Paul Dzilvelis |
+| **Producer** | Bruce Nash |
+| **Supervising Producer** | Don Cambou |
+| **Written And Produced By** | Fred Peabody |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00243.md)

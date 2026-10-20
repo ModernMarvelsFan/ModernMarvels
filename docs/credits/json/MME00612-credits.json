@@ -11,45 +11,13 @@
     "Max Raphael"
   ],
   "crew": {
-    "Editor": [
-      "Lou LaProcido"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Music": [
-      "Guy Thomas"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
-    "Coordinator": [
-      "Maya Sykes"
-    ],
     "Accountants": [
       "Sheridan Liu",
       "Diana Stolpe"
+    ],
+    "Animation": [
+      "Victor Bornia",
+      "FlyingBlue Studio"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
@@ -57,9 +25,6 @@
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Joshua Janiak"
     ],
     "Camera": [
       "Keith Barefoot",
@@ -71,6 +36,27 @@
       "Jim Petit",
       "Terry Pratt"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Dennis Hamlin",
       "Jeff Hill",
@@ -81,15 +67,45 @@
       "Rob Sumner",
       "Jake Wilganowski"
     ],
+    "Executive Producers": [
+      "Beth Dietrich-Segarra",
+      "Michael Stiller"
+    ],
+    "Programming Coordinator": [
+      "Adam Rosante"
+    ],
+    "Music": [
+      "Guy Thomas"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "Victor Bornia",
-      "FlyingBlue Studio"
+    "Post Assist": [
+      "Joshua Janiak"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
     ],
     "Sound Mixer": [
       "Erik Valenzuela"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson"
     ],
     "Technical Consultants": [
       "Billings Farm & Museum",
@@ -99,24 +115,8 @@
       "Tod Galloway",
       "Nestle, USA"
     ],
-    "For The History Channel / Programming Coordinator": [
-      "Adam Rosante"
-    ],
-    "For The History Channel / Executive Producers": [
-      "Beth Dietrich-Segarra",
-      "Michael Stiller"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Melissa Fuller"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
     ]
   }
 }

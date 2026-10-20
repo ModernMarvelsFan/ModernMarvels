@@ -7,46 +7,46 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., HISTORY TELEVISION NETWORK PRODUCTIONS
-* **Narrator:** JOHN KNAPP, MAX RAPHAEL
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions
+* **Narrator:** John Knapp, Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editor** | HARRIS COHEN |
-| **Assistant Production Accountant** | LINDA SCRIBNER |
-| **Assistant Production Manager** | JOHN HARRIS |
-| **Associate Producer** | NANCY OEY |
-| **Camera** | STEVE GMEINER, MARK KOOCHIS, JAY D. KUNTZ, DYLAN S. O'BRIEN |
-| **Clearance Coordinator** | KATIE DEL CORE |
-| **Clearance Supervisor** | CHARLOTTE CARPENTER |
-| **Created By** | BRUCE NASH |
-| **Director Of Research** | BARRY HILL |
-| **Edited By** | CRAIG SERLING |
-| **Executive Producer** | CHARLIE MADAY, DON CAMBOU |
-| **Field Audio** | TOM BURR, BRIAN HAUGHIN |
-| **Footage Consultant** | TED TROLL |
-| **Historical Consultant** | FRED MICHEL |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music By** | ALAN ETT |
-| **Narrated By** | MAX RAPHAEL |
-| **Online Editor** | DAVID REX |
-| **Post Assistants** | MARYALICE R. ARAGON, SUNI NIVENS |
-| **Post Producer** | SCOTT BERKSON |
-| **Post Production Assistant** | BRIAN VOLK |
-| **Post Production Coordinator** | GARY REID |
-| **Post Production Supervisor** | JASON STEINBERG |
-| **Produced By** | ACTUALITY PRODUCTIONS, INC. FOR HISTORY TELEVISION NETWORK PRODUCTIONS |
-| **Producer** | BRUCE NASH |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Production Manager** | LINDA K. CLARK |
-| **Researchers** | ANTHONY LACOUES, GLORIA MORRIS |
-| **Sound Mixer** | MARK JENSEN |
-| **Supervising Producer** | BETH DIETRICH-SEGARRA |
-| **Voice Over Coordinator** | JOHN KNAPP |
-| **Written and Produced By** | MARY WALLACE |
+| **Assistant Editor** | Harris Cohen |
+| **Assistant Production Accountant** | Linda Scribner |
+| **Assistant Production Manager** | John Harris |
+| **Associate Producer** | Nancy Oey |
+| **Camera** | Steve Gmeiner, Mark Koochis, Jay D. Kuntz, Dylan S. O'Brien |
+| **Clearance Coordinator** | Katie Del Core |
+| **Clearance Supervisor** | Charlotte Carpenter |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Barry Hill |
+| **Edited By** | Craig Serling |
+| **Executive Producer** | Charlie Maday, Don Cambou |
+| **Field Audio** | Tom Burr, Brian Haughin |
+| **Footage Consultant** | Ted Troll |
+| **Historical Consultant** | Fred Michel |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | David Rex |
+| **Post Assistants** | Maryalice R. Aragon, Suni Nivens |
+| **Post Producer** | Scott Berkson |
+| **Post Production Assistant** | Brian Volk |
+| **Post Production Coordinator** | Gary Reid |
+| **Post Production Supervisor** | Jason Steinberg |
+| **Produced By** | Actuality Productions, Inc. For History Television Network Productions |
+| **Producer** | Bruce Nash |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Production Manager** | Linda K. Clark |
+| **Researchers** | Anthony Lacoues, Gloria Morris |
+| **Sound Mixer** | Mark Jensen |
+| **Supervising Producer** | Beth Dietrich-Segarra |
+| **Voice Over Coordinator** | John Knapp |
+| **Written And Produced By** | Mary Wallace |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00146.md)

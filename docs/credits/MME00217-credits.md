@@ -7,20 +7,20 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, Hearst Entertainment, THE HISTORY CHANNEL
-* **Narrator:** MAX RAPHAEL
+* **Production Company:** Actuality Productions, Hearst Entertainment, The History Channel
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producers** | KRISTINA DJOKIC, HOLLY A. MURDOCH |
-| **Consulting Producer** | HENRY SCHIPPER |
-| **Edited by** | ANDRE VAILLANCOURT |
-| **Executive Producer** | DON CAMBOU |
-| **Line Producer** | PAUL DZILVELIS |
-| **Narrated by** | MAX RAPHAEL |
-| **Written and Produced by** | MARY WALLACE |
+| **Associate Producers** | Kristina Djokic, Holly A. Murdoch |
+| **Consulting Producer** | Henry Schipper |
+| **Edited By** | Andre Vaillancourt |
+| **Executive Producer** | Don Cambou |
+| **Line Producer** | Paul Dzilvelis |
+| **Narrated By** | Max Raphael |
+| **Written And Produced By** | Mary Wallace |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00217.md)

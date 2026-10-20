@@ -11,27 +11,12 @@
     "Max Raphael"
   ],
   "crew": {
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producer": [
-      "Lauren Levine"
-    ],
-    "Production Auditor": [
-      "Dani Eslin"
+    "Animation By": [
+      "Victor Bornia"
     ],
     "Assistant Accountants": [
       "Sheridan Liu",
       "Dennis Luciani"
-    ],
-    "Coordinator": [
-      "Rosalyn McVay"
-    ],
-    "Researcher/Voice Over Coordinator": [
-      "Melanie Pipes"
-    ],
-    "Production Assistant": [
-      "Jeffrey Perkins"
     ],
     "Assistant Editors": [
       "Taylor Greathead",
@@ -43,17 +28,20 @@
       "Dylan S. O'Brien",
       "Jorge Trentin"
     ],
+    "Coordinator": [
+      "Rosalyn McVay"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Lou Laprocido"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Steve Weiss"
-    ],
-    "Sound Mixer": [
-      "Paul Ray"
-    ],
-    "Online Editor": [
-      "Chuck Crews"
-    ],
-    "Animation by": [
-      "Victor Bornia"
     ],
     "Historical Consultants": [
       "Michael L. Bromley",
@@ -61,29 +49,41 @@
       "Von Hardesty",
       "Mac Reynolds"
     ],
-    "Supervising Producer": [
-      "Berth Dietrich-Segarra"
+    "Music By": [
+      "Alan Ett Music Group"
     ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Matthew P. Hickey"
-    ],
-    "Edited by": [
-      "Lou Laprocido"
-    ],
-    "Narrated by": [
+    "Narrated By": [
       "Max Raphael"
     ],
-    "Music by": [
-      "Alan Ett Music Group"
+    "Online Editor": [
+      "Chuck Crews"
+    ],
+    "Post Producer": [
+      "Lauren Levine"
     ],
     "Producer": [
       "Bruce Nash"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Production Assistant": [
+      "Jeffrey Perkins"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Voice Over Coordinator": [
+      "Melanie Pipes"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Supervising Producer": [
+      "Berth Dietrich-Segarra"
+    ],
+    "Written And Produced By": [
+      "Matthew P. Hickey"
     ]
   }
 }

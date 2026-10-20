@@ -7,40 +7,39 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `Produced by Half Yard Productions, LLC for HISTORY. © 2012 A&E TELEVISION NETWORKS, LLC. ALL RIGHTS RESERVED`
-* **Production Company:** Half Yard Productions, LLC, A&E Television Networks, LLC, HISTORY
-* **Narrator:** MAX RAPHAEL
+* **Production Company:** Half Yard Productions, LLC, A&E Television Networks, LLC, History
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **3D Animation by** | PERCOLATE DIGITAL |
-| **Additional Directing** | LAURA GANIS |
-| **Additional Graphics** | JOHN KERR |
-| **Associate Producer** | HANNAH RICHARDSON |
-| **Directors of Photography** | MICHAEL COLLIER, THOMAS JACOBI |
-| **Executive Producer** | GREG SMITH |
-| **For The History Channel ® / Executive Producer** | JOHN VERHOFF |
-| **For The History Channel ® / Programming Coordinator** | DIVYA CHUNGI |
-| **Head of Production** | JANICE MEZZETTI |
-| **Intern** | JEREMY WEINREICH |
-| **Music** | AUDIO NETWORK, EXTREME, PRODUKT, JINGLEPUNKS |
-| **Narrator** | MAX RAPHAEL |
-| **Online Editor/Colorist** | MATT DOE |
-| **Post Production Coordinator** | BEN SHUSTER |
-| **Post Production Manager** | CAMERON YOUNG |
-| **Produced by** | Half Yard Productions, LLC for HISTORY |
-| **Production Assistant** | JAYE CALLAHAN |
-| **Production Coordinator** | KATI GALLAGHER |
-| **Production Manager** | JENNIFER PARTIN |
-| **Researchers** | ZOE COUACAUD, ANN DUVALL |
-| **Senior Producer** | CHRIS SONDREAL |
-| **Series Producer** | ANN CARROLL |
-| **Sound** | GREGORY BREAZEALE, ZACHARY MELMED |
-| **Sound Design &amp; Mix** | RICHARD HUMPHRIES, TAKOMA MEDIA |
-| **Sound Editors** | MIKE ESTLER, NICHOLAS KARLIN |
-| **Vice President of Finance** | ROSSANA O'HOP |
-| **Written, Produced and Directed by** | LAURA CASEY |
+| **3D Animation By** | Percolate Digital |
+| **Additional Directing** | Laura Ganis |
+| **Additional Graphics** | John Kerr |
+| **Associate Producer** | Hannah Richardson |
+| **Colorist** | Matt Doe |
+| **Directors Of Photography** | Michael Collier, Thomas Jacobi |
+| **Executive Producer** | John Verhoff |
+| **Head Of Production** | Janice Mezzetti |
+| **Intern** | Jeremy Weinreich |
+| **Music** | Audio Network, Extreme, Produkt, Jinglepunks |
+| **Narrator** | Max Raphael |
+| **Post Production Coordinator** | Ben Shuster |
+| **Post Production Manager** | Cameron Young |
+| **Produced By** | Half Yard Productions, LLC for HISTORY |
+| **Production Assistant** | Jaye Callahan |
+| **Production Coordinator** | Kati Gallagher |
+| **Production Manager** | Jennifer Partin |
+| **Programming Coordinator** | Divya Chungi |
+| **Researchers** | Zoe Couacaud, Ann Duvall |
+| **Senior Producer** | Chris Sondreal |
+| **Series Producer** | Ann Carroll |
+| **Sound** | Gregory Breazeale, Zachary Melmed |
+| **Sound Design &amp; Mix** | Richard Humphries, Takoma Media |
+| **Sound Editors** | Mike Estler, Nicholas Karlin |
+| **Vice President Of Finance** | Rossana O'Hop |
+| **Written, Produced And Directed By** | Laura Casey |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00706.md)

@@ -14,7 +14,7 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **IN MEMORY OF** | JOSHUA HANIG |
+| **In Memory Of** | Joshua Hanig |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00055.md)

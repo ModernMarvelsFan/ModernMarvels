@@ -23,9 +23,9 @@
 | **Camera** | Paul Cronley, Stephen Farrier, Dan Lantz, Lon Magdich, Jared Manders, Brad W. Milsap, Terry Pratt, Dave Rutherford, Robert Shenise, Z Vidusin |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Mike Andrews |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Matt Bowman, Dan Cook, Bill Dillon, Servio Escobedo, Gordon Hayman, Joe McCartan, Charles Rohr, Adrian Sam, Thomas Shafer, Mark Soloman |
@@ -34,7 +34,7 @@
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Producer** | Tim Knauff |
-| **Produced by** | Glenn Kirschbaum |
+| **Produced By** | Glenn Kirschbaum |
 | **Producer** | Bruce Nash |
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |

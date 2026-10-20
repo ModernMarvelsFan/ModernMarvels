@@ -4,33 +4,13 @@
   "year": "2006",
   "copyright": "© 2006, 2002A & E Television Networks All Rights Reserved",
   "studios": [
-    "DIGITAL RANCH & ACTUALITY PRODUCTIONS, INC.",
+    "Digital Ranch & Actuality Productions, Inc.",
     "History Television Network Productions",
     "A & E Television Networks",
-    "DIGITAL RANCH PRODUCTIONS"
+    "Digital Ranch Productions"
   ],
   "narrators": [],
   "crew": {
-    "FOR ACTUALITY PRODUCTIONS / Executive Producer": [
-      "Don Cambou"
-    ],
-    "FOR ACTUALITY PRODUCTIONS / Line Producer": [
-      "Paul Dzilvelis"
-    ],
-    "Edited by": [
-      "Andre Vaillancourt",
-      "Ian Hutchinson"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Post Producers": [
-      "Scott Berkson",
-      "Tim Knauff"
-    ],
-    "Director of Rights and Clearances": [
-      "Katie Del Core"
-    ],
     "Accountants": [
       "Sheridan Liu",
       "Diana Stolpe"
@@ -38,19 +18,39 @@
     "Assistant Production Manager": [
       "John Harris"
     ],
+    "Assitant Post Coordinator": [
+      "Jeremiah Dockray"
+    ],
     "Clearance Coordinators": [
       "Lawrence Givens III",
       "Aaron Zober"
     ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
+    "Clearance Supervisor": [
+      "Valarie Sheldon"
     ],
-    "Assitant Post Coordinator": [
-      "Jeremiah Dockray"
+    "Co-Producer": [
+      "Terry Deitz"
     ],
-    "Post Assistants": [
-      "Rob Harrington",
-      "Gaylen Kobayashi"
+    "Director Of Rights And Clearances": [
+      "Katie Del Core"
+    ],
+    "Edited By": [
+      "Andre Vaillancourt",
+      "Ian Hutchinson"
+    ],
+    "Editors": [
+      "Joey Barasch",
+      "Samantha Jetter"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Executive Producers": [
+      "Robert Kirk",
+      "Rob Lihani"
     ],
     "Field Audio": [
       "Duncan Brown",
@@ -58,41 +58,41 @@
       "Bruce Moitoza",
       "Mark Solomon"
     ],
-    "Online Editor": [
-      "John Price"
+    "Footage Consultant": [
+      "Ted Troll"
     ],
     "Graphics": [
       "Barry Hill"
     ],
-    "Footage Consultant": [
-      "Ted Troll"
+    "Teleprompter": [
+      "Jeremy Evans"
     ],
     "Historical Consultants": [
       "Dennis Romano",
       "John Vosilla"
     ],
-    "FOR DIGITAL RANCH PRODUCTIONS / Executive Producers": [
-      "Robert Kirk",
-      "Rob Lihani"
+    "Online Editor": [
+      "John Price"
     ],
-    "Co-Producer": [
-      "Terry Deitz"
+    "Post Assistants": [
+      "Rob Harrington",
+      "Gaylen Kobayashi"
     ],
-    "Editors": [
-      "Joey Barasch",
-      "Samantha Jetter"
+    "Post Coordinator": [
+      "Terrence Hartwell"
     ],
-    "Clearance Supervisor": [
-      "Valarie Sheldon"
+    "Post Producers": [
+      "Scott Berkson",
+      "Tim Knauff"
     ],
     "Post Production Supervisor": [
       "Abe Scheuermann"
     ],
-    "Grip/Teleprompter": [
-      "Jeremy Evans"
-    ],
     "Production Associates": [
       "Joe Peicott"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
     ]
   }
 }

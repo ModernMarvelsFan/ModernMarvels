@@ -14,10 +14,10 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | JETHRO NEDEDOG |
-| **Executive Producer** | DON CAMBOU |
-| **Line Producer** | PAUL DZILVELIS |
-| **Written and Produced by** | GREG GOLDMAN |
+| **Associate Producer** | Jethro Nededog |
+| **Executive Producer** | Don Cambou |
+| **Line Producer** | Paul Dzilvelis |
+| **Written And Produced By** | Greg Goldman |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00504.md)

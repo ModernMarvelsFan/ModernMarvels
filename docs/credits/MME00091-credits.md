@@ -14,21 +14,21 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | STUART BRODLIEB, HARRIS COHEN, SPENCER KEIMON |
-| **Assistant Production Accountants** | LINDA SCRIBNER, JUDI MINITELLO |
-| **Assistant To Don Cambou** | TIM SHELL |
+| **Assistant Editors** | Stuart Brodlieb, Harris Cohen, Spencer Keimon |
+| **Assistant Production Accountants** | Linda Scribner, Judi Minitello |
+| **Assistant To Don Cambou** | Tim Shell |
 | **Audio Coordinator** | DERRICK McDANIEL |
-| **Executive Producer** | CHARLIE MADAY |
-| **Footage Consultant** | TED TROLL |
-| **Graphics &amp; Animation** | DOUG WHITNEY |
-| **Online Editor** | DAVID REX |
-| **Post Production Assistant** | GARY REID |
-| **Post Production Coordinator** | LEANNE M. ANAYA REECE |
-| **Production Assistant** | ERIC SCHAEFER |
-| **Production Auditor** | DANI ESLIN |
-| **Production Secretary** | KATHY EXNER |
-| **Sound Mixer** | SAM KAUFMANN |
-| **Supervising Producer** | BETH DIETRICH |
+| **Executive Producer** | Charlie Maday |
+| **Footage Consultant** | Ted Troll |
+| **Graphics &amp; Animation** | Doug Whitney |
+| **Online Editor** | David Rex |
+| **Post Production Assistant** | Gary Reid |
+| **Post Production Coordinator** | Leanne M. Anaya Reece |
+| **Production Assistant** | Eric Schaefer |
+| **Production Auditor** | Dani Eslin |
+| **Production Secretary** | Kathy Exner |
+| **Sound Mixer** | Sam Kaufmann |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00091.md)

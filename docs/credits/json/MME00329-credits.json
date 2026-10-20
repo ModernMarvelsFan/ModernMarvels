@@ -11,17 +11,64 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
+    "Assistant Accountant": [
+      "Dennis Luciani"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Assistant Editors": [
+      "Julio C. Perez IV",
+      "Eric Sievering"
+    ],
+    "Camera": [
+      "Doug Crawford",
+      "Brandon Green"
+    ],
+    "Clearance Coordinator": [
+      "Susan Wichmann"
     ],
     "Clearance Supervisor": [
       "Katie Del Core"
     ],
-    "Director of Research": [
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
       "Anthony Lacques"
+    ],
+    "Edited By": [
+      "Sven Nilsson"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
+    "Field Audio": [
+      "Michael Becker"
+    ],
+    "Historical Consultant": [
+      "Henry Lemieux"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Guy Thomas"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "Doug Nolan"
+    ],
+    "Post Assistant": [
+      "Laura Steinhoff"
+    ],
+    "Post Coordinator": [
+      "Danny Kim"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Rosalyn McVay"
     ],
     "Production Auditor": [
       "Dani Eslin"
@@ -29,61 +76,11 @@
     "Production Coordinator": [
       "James Wiser"
     ],
-    "Assistant Accountant": [
-      "Dennis Luciani"
-    ],
-    "Clearance Coordinator": [
-      "Susan Wichmann"
-    ],
-    "Assistant Editors": [
-      "Julio C. Perez IV",
-      "Eric Sievering"
-    ],
-    "Post Coordinator": [
-      "Danny Kim"
-    ],
-    "Post Assistant": [
-      "Laura Steinhoff"
-    ],
     "Voice Over Coordinator": [
       "Melanie Pipes"
     ],
-    "Production Assistant": [
-      "Rosalyn McVay"
-    ],
-    "Camera": [
-      "Doug Crawford",
-      "Brandon Green"
-    ],
-    "Field Audio": [
-      "Michael Becker"
-    ],
-    "Online Editor": [
-      "Doug Nolan"
-    ],
-    "Historical Consultant": [
-      "Henry Lemieux"
-    ],
-    "For The History Channel / Executive Producer": [
-      "Beth Dietrich-Segarra"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
+    "Written And Produced By": [
       "Matthew P. Hickey"
-    ],
-    "Line Producer": [
-      "Paul Dzilvelis"
-    ],
-    "Edited by": [
-      "Sven Nilsson"
-    ],
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Music by": [
-      "Guy Thomas"
     ]
   }
 }

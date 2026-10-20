@@ -14,35 +14,35 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **ACCOUNTANT** | Sheridan Liu |
-| **ANIMATION BY** | Victor Bornia |
-| **ASSISTANT EDITORS** | Laura Steinhoff, Michael Broome |
-| **ASSISTANT POST COORDINATOR** | Alexander Rubinow |
-| **ASSOCIATE PRODUCER** | Dan Gibbons |
-| **CAMERA** | A. Curtis Guyer, Carl Heinemann, Peter Krajewski, Lon Magdich, Randy J. Riesen, Gregory Steinbrecher |
-| **CLEARANCE COORDINATOR** | D.W. Blakeslee |
-| **CLEARANCE SUPERVISOR** | Katie Del Core |
-| **COORDINATOR** | Melinda Esquibel |
-| **CREATED BY** | Bruce Nash |
-| **DIRECTOR OF RESEARCH** | Anthony Lacques |
-| **EDITED BY** | Sean Dash |
-| **EXECUTIVE PRODUCER** | Don Cambou |
-| **FIELD AUDIO** | Jimmy Corn, Art Jaso, Don Murphy, Cary Pope |
-| **HISTORICAL CONSULTANTS** | Dreyer's Grand Ice Cream, Flower's Foods, Inc., Masterfoods, USA, Snyders Of Hanover, Tootsie Roll Industries, Inc., Utz Quality Foods, Inc., World Cocoa Foundation |
-| **LINE PRODUCER** | Paul Dzilvelis |
-| **MUSIC BY** | Guy Thomas |
-| **NARRATED BY** | Max Raphael |
-| **ONLINE EDITOR** | John Price |
-| **POST ASSISTANTS** | Gaylen Kobayashi, Linda Lino |
-| **POST PRODUCER** | Tim Knauff |
-| **PRODUCER** | Bruce Nash |
-| **PRODUCTION ASSISTANT** | Jeffery Perkins |
-| **PRODUCTION CONTROLLER** | Dani Eslin |
-| **PRODUCTION MANAGER** | Shella Collins |
-| **RESEARCHERS** | Mikki Del Monico, John Knapp, Sean Heckman, Tom Barclay |
-| **SOUND MIXER** | John Ray |
-| **VOICE OVER COORDINATOR** | Mikki Del Monico |
-| **WRITTEN AND PRODUCED BY** | Sean Dash |
+| **Accountant** | Sheridan Liu |
+| **Animation By** | Victor Bornia |
+| **Assistant Editors** | Laura Steinhoff, Michael Broome |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Associate Producer** | Dan Gibbons |
+| **Camera** | A. Curtis Guyer, Carl Heinemann, Peter Krajewski, Lon Magdich, Randy J. Riesen, Gregory Steinbrecher |
+| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Supervisor** | Katie Del Core |
+| **Coordinator** | Melinda Esquibel |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Sean Dash |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Jimmy Corn, Art Jaso, Don Murphy, Cary Pope |
+| **Historical Consultants** | Dreyer's Grand Ice Cream, Flower's Foods, Inc., Masterfoods, USA, Snyders Of Hanover, Tootsie Roll Industries, Inc., Utz Quality Foods, Inc., World Cocoa Foundation |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistants** | Gaylen Kobayashi, Linda Lino |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Jeffery Perkins |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shella Collins |
+| **Researchers** | Mikki Del Monico, John Knapp, Sean Heckman, Tom Barclay |
+| **Sound Mixer** | John Ray |
+| **Voice Over Coordinator** | Mikki Del Monico |
+| **Written And Produced By** | Sean Dash |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00425.md)

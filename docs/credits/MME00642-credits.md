@@ -22,9 +22,9 @@
 | **Camera** | Gary Azzinaro, Keith Barefoot, Dave Berliner, Mike Kelly, Ed Kukla, Lon Magdich, Matt Mayes, Charles Walter |
 | **Clearance Coordinator** | Kiana Moore |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Steve Brown, Frank Collins, Eric Golden, Chris Merz, Bernie Kriegel, Charles Rohr, Jerry Wheat, Paul Wustrack |
@@ -42,7 +42,7 @@
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
 | **Technical Consultants** | American Society of Civil Engineers, Algalita Marine Research Foundation, California Institute of Technology, General Motors, Hinkley Center for Solid &amp; Hazardous Waste Management, Naval Research Laboratory |
-| **Written and Produced by** | Penn Schofield |
+| **Written And Produced By** | Penn Schofield |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00642.md)

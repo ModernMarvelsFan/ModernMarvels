@@ -7,34 +7,34 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `All Rights Reserved. HistoryChannel.com`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, THE HISTORY CHANNEL
-* **Narrator:** HARLAN SAPERSTEIN
+* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, The History Channel
+* **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | STUART BRODLIEB, HARRIS COHEN |
-| **Assistant Production Accountants** | LINDA SCRIBNER, JUDI MINITELLO |
-| **Camera** | MICHAEL DEAN, KEVIN EGZAN, GENE MAYNARD, BRIAN NEFF, RALPH J. NELSON, II, DANIEL ROACH |
-| **Clearance Coordinator** | RANDY PITLER |
-| **Clearance Supervisor** | AMY TRAHANT |
-| **Field Audio** | JAMES CIRIGLIANO, JOHN DUFFY, MICHAEL KIMBALL, GARY McCAFFERTY, LAURA WONG |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Supervising Producer** | BETH DIETRICH |
-| **Graphics and Animation** | GLENN TAKAKJIAN |
-| **Music by** | ALAN ETT |
-| **Narrated by** | HARLAN SAPERSTEIN |
-| **Online Editor** | DAVID REX |
-| **Post Production Assistant** | GARY REID |
-| **Post Production Coordinator** | JASON STEINBERG |
-| **Post Production Supervisor** | SCOTT BERKSON |
-| **Production Assistants** | MARYALICE R. ARAGON, KEVIN CROWELL |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Production Manager** | LISA BLACKWOOD HOPE |
-| **Researcher** | BARRY HILL |
-| **Sound Mixer** | MATT GRUBER |
+| **Assistant Editors** | Stuart Brodlieb, Harris Cohen |
+| **Assistant Production Accountants** | Linda Scribner, Judi Minitello |
+| **Camera** | Michael Dean, Kevin Egzan, Gene Maynard, Brian Neff, Ralph J. Nelson, II, Daniel Roach |
+| **Clearance Coordinator** | Randy Pitler |
+| **Clearance Supervisor** | Amy Trahant |
+| **Executive Producer** | Charlie Maday |
+| **Field Audio** | James Cirigliano, John Duffy, Michael Kimball, GARY McCAFFERTY, Laura Wong |
+| **Graphics And Animation** | Glenn Takakjian |
+| **Music By** | Alan Ett |
+| **Narrated By** | Harlan Saperstein |
+| **Online Editor** | David Rex |
+| **Post Production Assistant** | Gary Reid |
+| **Post Production Coordinator** | Jason Steinberg |
+| **Post Production Supervisor** | Scott Berkson |
+| **Production Assistants** | Maryalice R. Aragon, Kevin Crowell |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Production Manager** | Lisa Blackwood Hope |
+| **Researcher** | Barry Hill |
+| **Sound Mixer** | Matt Gruber |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00098.md)

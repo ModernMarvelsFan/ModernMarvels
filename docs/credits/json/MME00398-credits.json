@@ -17,20 +17,8 @@
       "Judy Gordon",
       "Sheridan Liu"
     ],
-    "Coordinator": [
-      "Rosalyn McVay"
-    ],
-    "Researcher": [
-      "Mikki Del Monico"
-    ],
-    "Clearance Coordinator": [
-      "D.W. Blakeslee"
-    ],
-    "Production Assistant": [
-      "Jeffrey Perkins"
-    ],
-    "Voice Over Coordinator": [
-      "Mikki Del Monico"
+    "Animation By": [
+      "Randall Rickert"
     ],
     "Assistant Editor": [
       "Laura Steinhoff"
@@ -45,57 +33,66 @@
       "Greg Steinbrecher",
       "Marty Zimmerman"
     ],
+    "Clearance Coordinator": [
+      "D.W. Blakeslee"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Coordinator": [
+      "Rosalyn McVay"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Arek Hope"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
     "Field Audio": [
       "Mike Borman",
       "Aron Brown"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Paul Ray"
-    ],
-    "Animation by": [
-      "Randall Rickert"
-    ],
     "Historical Consultant": [
       "Raymond E. Foster"
     ],
-    "Produced by": [
-      "Actuality Productions, Inc. For History"
-    ],
-    "For History / Executive Producer": [
-      "Beth Dietrich-Segarra"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Jeffrey Willerth"
-    ],
-    "Edited by": [
-      "Arek Hope"
-    ],
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Music by": [
+    "Music By": [
       "Alan Ett Music Group"
     ],
-    "Producer": [
-      "Bruce Nash"
+    "Narrated By": [
+      "Max Raphael"
     ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
+    "Online Editor": [
+      "John Price"
     ],
     "Post Producer": [
       "Tim Knauff"
     ],
-    "Clearance Supervisor": [
-      "Katie Del Core"
+    "Produced By": [
+      "Actuality Productions, Inc. For History"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Jeffrey Perkins"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Mikki Del Monico"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
+    ],
+    "Written And Produced By": [
+      "Jeffrey Willerth"
     ]
   }
 }

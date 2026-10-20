@@ -21,13 +21,12 @@
 | **Camera** | Keith Barefoot, Dave Berliner, Robert Brunk, Jason Cantu, Jed Henry, Lon Magdich |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Bryan Evans, Bryan Kweskin, Ken Paulakovich, Matt Reigel, Paul Wustrack, Eric Zitske |
-| **For The History Channel / Programming Coordinator** | Adam Rosante |
 | **Historical Consultants** | Steve Burmester, Dale Drachneberg, Roger Elmore, Kendall Lamkey, Pioneer Hi-Bred, Patrick S. Schnable |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
@@ -38,9 +37,10 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Gloria L. Morris |
+| **Written And Produced By** | Gloria L. Morris |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00606.md)

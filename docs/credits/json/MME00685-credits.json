@@ -5,100 +5,100 @@
   "copyright": "© 2010 A&E Television Networks. All Rights Reserved.",
   "studios": [
     "Jupiter Entertainment",
-    "ELEVATION"
+    "Elevation"
   ],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "Writer": [
-      "RUDY FISCHMANN"
-    ],
-    "Camera": [
-      "DANIEL A. CEDOLIA",
-      "KRIS DENTON",
-      "JEFF DUNCAN",
-      "DOMINIC GIORDANO",
-      "LON MAGDICH",
-      "JOE PAGLINO"
-    ],
-    "Narrator": [
-      "MAX RAPHAEL"
-    ],
-    "Music": [
-      "LEGATIVITY"
-    ],
-    "Audio/Mix": [
-      "DYLEN TERFLINGER",
-      "JIM ROGERS"
-    ],
-    "Online Editors": [
-      "SCOTT LEE",
-      "PHILIP TATLER IV"
-    ],
     "Assistant Editors": [
-      "JOHN KENNEDY",
-      "TILLIS MADDOX"
-    ],
-    "Location Sound": [
-      "ADRIANO BRAVO",
-      "RANDY FOSTER",
-      "CHRIS GURNEY",
-      "DAVE MENDEZ",
-      "KEN PRIES"
-    ],
-    "Graphics": [
-      "ELEVATION"
-    ],
-    "Post Prep": [
-      "SARAH LONGNECKER",
-      "ZACH LAND",
-      "SEAN SEXTON"
-    ],
-    "Production Manager": [
-      "KATIE YOUNG"
-    ],
-    "Production Assistants": [
-      "MICHELLE WEISS",
-      "JEREMY ASHCRAFT"
-    ],
-    "Created By": [
-      "BRUCE NASH"
-    ],
-    "Programming Coordinator": [
-      "KELLY VORRASI"
-    ],
-    "Executive Producer": [
-      "JOHN VERHOFF",
-      "STEPHEN LAND"
-    ],
-    "Co-Executive Producer": [
-      "ROBERT TWILLEY"
-    ],
-    "Supervising Producers": [
-      "TODD MOSS",
-      "SHARON MARTIN"
-    ],
-    "Field Producers": [
-      "BRENT FARWICK",
-      "RUDY FISCHMANN",
-      "GREG DeHART",
-      "RANDALL SHUPTRINE"
-    ],
-    "Consulting Producer": [
-      "RON NELSON"
-    ],
-    "Post Producer": [
-      "LILY LI"
-    ],
-    "Edited By": [
-      "BRENT FARWICK",
-      "CLAUDIA RUSSELL",
-      "MATT WILMOTH",
-      "JAY WHITTLE"
+      "John Kennedy",
+      "Tillis Maddox"
     ],
     "Associate Producer": [
-      "ROBERT WEAR"
+      "Robert Wear"
+    ],
+    "Mix": [
+      "Dylen Terflinger",
+      "Jim Rogers"
+    ],
+    "Camera": [
+      "Daniel A. Cedolia",
+      "Kris Denton",
+      "Jeff Duncan",
+      "Dominic Giordano",
+      "Lon Magdich",
+      "Joe Paglino"
+    ],
+    "Co-Executive Producer": [
+      "Robert Twilley"
+    ],
+    "Consulting Producer": [
+      "Ron Nelson"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Brent Farwick",
+      "Claudia Russell",
+      "Matt Wilmoth",
+      "Jay Whittle"
+    ],
+    "Executive Producer": [
+      "John Verhoff",
+      "Stephen Land"
+    ],
+    "Field Producers": [
+      "Brent Farwick",
+      "Rudy Fischmann",
+      "GREG DeHART",
+      "Randall Shuptrine"
+    ],
+    "Graphics": [
+      "Elevation"
+    ],
+    "Location Sound": [
+      "Adriano Bravo",
+      "Randy Foster",
+      "Chris Gurney",
+      "Dave Mendez",
+      "Ken Pries"
+    ],
+    "Music": [
+      "Legativity"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Online Editors": [
+      "Scott Lee",
+      "Philip Tatler IV"
+    ],
+    "Post Prep": [
+      "Sarah Longnecker",
+      "Zach Land",
+      "Sean Sexton"
+    ],
+    "Post Producer": [
+      "Lily Li"
+    ],
+    "Production Assistants": [
+      "Michelle Weiss",
+      "Jeremy Ashcraft"
+    ],
+    "Production Manager": [
+      "Katie Young"
+    ],
+    "Programming Coordinator": [
+      "Kelly Vorrasi"
+    ],
+    "Supervising Producers": [
+      "Todd Moss",
+      "Sharon Martin"
+    ],
+    "Writer": [
+      "Rudy Fischmann"
     ]
   }
 }

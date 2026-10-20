@@ -24,9 +24,9 @@
 | **Camera** | Skip Clark, David Cosby, Brian Haughin, Jim Ledoux, Lon Magdich, Paul Neal, Terry Pratt |
 | **Clearance Coordinator** | Kiana Moore |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editors** | Gary Reid, Jeff Peltier |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Brian Dupuis, Chris Procopio, James W. Siler, III, John South |
@@ -43,7 +43,7 @@
 | **Researcher** | Joshua Janiak |
 | **Sound Mixer** | Paul Ray |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Richard Jones |
+| **Written And Produced By** | Richard Jones |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00652.md)

@@ -7,33 +7,33 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
-* **Narrator:** MIKKI DEL MONICO
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions
+* **Narrator:** Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountant** | SHERIDAN LIU |
-| **Animation by** | RED GYPSY ANIMATION |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Camera** | GARY CORRIGAN, LON MAGDICH, JARED MANDERS, RICH RANEY, GREG STEINBRECHER, STEVEN WEISS |
-| **Clearance Coordinator** | D.W. BLAKESLEE |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Coordinator** | MELINDA ESQUIBEL, BRAD SKILES |
-| **Director of Research** | ANTHONY LACOUES |
-| **Field Audio** | RYAN HANDLEY, DANIEL JEFFERY, THOM SHAFER, NICK TETI |
-| **Historical Consultant** | JOHN JANELLI |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistant** | GAYLEN KOBAYASHI |
-| **Post Producer** | TIM KNAUFF |
-| **Produced by** | ACTUALITY PRODUCTIONS, INC. |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | MIKKI DEL MONICO, JOHN KNAPP, SEAN HECKMAN, TOM BARCLAY |
-| **Sound Mixer** | ED THACKER |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
+| **Accountant** | Sheridan Liu |
+| **Animation By** | Red Gypsy Animation |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Camera** | Gary Corrigan, Lon Magdich, Jared Manders, Rich Raney, Greg Steinbrecher, Steven Weiss |
+| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Supervisor** | Katie Del Core |
+| **Coordinator** | Melinda Esquibel, Brad Skiles |
+| **Director Of Research** | Anthony Lacoues |
+| **Field Audio** | Ryan Handley, Daniel Jeffery, Thom Shafer, Nick Teti |
+| **Historical Consultant** | John Janelli |
+| **Online Editor** | John Price |
+| **Post Assistant** | Gaylen Kobayashi |
+| **Post Producer** | Tim Knauff |
+| **Produced By** | Actuality Productions, Inc. |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researchers** | Mikki Del Monico, John Knapp, Sean Heckman, Tom Barclay |
+| **Sound Mixer** | Ed Thacker |
+| **Voice Over Coordinator** | Mikki Del Monico |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00449.md)

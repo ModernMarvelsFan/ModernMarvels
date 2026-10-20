@@ -15,8 +15,8 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Accountant** | Sheridan Liu |
-| **Animated Stills by** | Victor Bornia, Adam Goodwin |
-| **Animation by** | FlyingBlue Studio |
+| **Animated Stills By** | Victor Bornia, Adam Goodwin |
+| **Animation By** | FlyingBlue Studio |
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow |
 | **Associate Producer** | Jessica Loveless |
 | **Asst Post Coordinator** | Gaylen Kobayashi |
@@ -24,9 +24,9 @@
 | **Clearance Coordinators** | Aaron Zober, Allan Schwegmann |
 | **Coordinator** | Brad Skiles |
 | **Created By** | Bruce Nash |
-| **Director of Clearance** | Katie Del Core |
-| **Director of Research** | Allison Boon |
-| **Edited by** | Lou LaProcido |
+| **Director Of Clearance** | Katie Del Core |
+| **Director Of Research** | Allison Boon |
+| **Edited By** | Lou LaProcido |
 | **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
 | **Field Audio** | Ryan Agostino, Nancie Araki, Jeffrey Knudsen, Franz Moore, Scott Payne, Jason Stoddard |
 | **Music By** | Alan Ett Music Group |
@@ -42,7 +42,7 @@
 | **Production Manager** | Shelia Collins |
 | **Programming Coordinator** | Michele Wilcox |
 | **Sound Mixer** | Ed Thacker |
-| **Written and Produced by** | Henry Schipper |
+| **Written And Produced By** | Henry Schipper |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00565.md)

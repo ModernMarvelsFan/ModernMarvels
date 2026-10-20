@@ -23,9 +23,9 @@
 | **Camera** | Aaron Harris, John Kabasakalis, Lon Magdich, Mark Niedelson, Z Vidusin |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Allison Boon |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Robert Lattanzio |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Ryan Agostino, Matt Cozza, Jed Henry, Charles Rohr, Mark Solomon |
@@ -42,7 +42,7 @@
 | **Researcher** | Paul Lacques |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Anthony Lacques |
+| **Written And Produced By** | Anthony Lacques |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00590.md)

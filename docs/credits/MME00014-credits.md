@@ -7,21 +7,21 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** JAFFE PRODUCTIONS, Hearst Entertainment Television, THE HISTORY CHANNEL, YEAH STUDIOS, INTERLOK, FILM/AUDIO SERVICES, INC., HEARST ARCHIVES
+* **Production Company:** Jaffe Productions, Hearst Entertainment Television, The History Channel, Yeah Studios, Interlok, Film/audio Services, Inc., Hearst Archives
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **- For The History Channel - / Coord., Documentary Programming** | ELYSE MIRANDA |
-| **- For The History Channel - / V.P., Historical Programming** | CHARLIE MADAY |
-| **Archival Footage Consultant** | TED TROLL |
-| **Executive Producer** | BOB JAFFE |
-| **Executive Producer for Hearst Entertainment Television** | GERALD W. ABRAMS |
-| **Executive in Charge of Production** | MEL A. BISHOP |
-| **Online Editor** | ERIC GARDNER |
-| **Post Facilities** | YEAH STUDIOS, INTERLOK |
+| **Archival Footage Consultant** | Ted Troll |
+| **Coord., Documentary Programming** | Elyse Miranda |
+| **Executive In Charge Of Production** | Mel A. Bishop |
+| **Executive Producer** | Bob Jaffe |
+| **Executive Producer For Hearst Entertainment Television** | Gerald W. Abrams |
+| **Online Editor** | Eric Gardner |
+| **Post Facilities** | Yeah Studios, Interlok |
+| **V.P., Historical Programming** | Charlie Maday |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00014.md)

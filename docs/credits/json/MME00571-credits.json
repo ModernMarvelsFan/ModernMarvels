@@ -12,17 +12,11 @@
     "Max Raphael"
   ],
   "crew": {
-    "Post Coordinator": [
-      "Terrence Hartwell"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
-    "Research": [
-      "Lawrence Givens"
+    "Animation": [
+      "eyeidea"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -32,9 +26,6 @@
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "James Orbison"
     ],
     "Camera": [
       "C. Walker Ballance",
@@ -49,6 +40,27 @@
       "Tom Taylor",
       "Charles Tudor"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Katie Del Core"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Editor": [
+      "Motoshi Wakabayashi"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Ryan Bedell",
       "Trey Derbes",
@@ -60,67 +72,55 @@
       "Troy Wilcox",
       "Paul Wustrack"
     ],
-    "Online Editor": [
-      "Sarah Steele"
-    ],
-    "Animation": [
-      "eyeidea"
-    ],
-    "Sound Mixer": [
-      "Mark Jensen"
-    ],
-    "Production Assistant": [
-      "Eugene F. O'Neill"
-    ],
-    "For The History Channel / Programming Coordinators": [
-      "Adam Rosante",
-      "Michele Wilcox"
-    ],
-    "For The History Channel / Executive Producers": [
+    "Executive Producers": [
       "Beth Dietrich-Segarra",
       "Michael Stiller"
     ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "W. Scott Goldie"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Editor": [
-      "Motoshi Wakabayashi"
-    ],
-    "Narrator": [
-      "Max Raphael"
+    "Programming Coordinators": [
+      "Adam Rosante",
+      "Michele Wilcox"
     ],
     "Music": [
       "Alan Ett Music Group"
     ],
-    "Producer": [
-      "Bruce Nash"
+    "Narrator": [
+      "Max Raphael"
     ],
-    "Created By": [
-      "Bruce Nash"
+    "Online Editor": [
+      "Sarah Steele"
     ],
-    "Production Manager": [
-      "Shelia Collins"
+    "Post Assist": [
+      "James Orbison"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
     ],
     "Post Producer": [
       "Tim Knauff"
     ],
-    "Director of Clearance": [
-      "Katie Del Core"
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Eugene F. O'Neill"
     ],
     "Production Controller": [
       "Dani Eslin"
     ],
-    "Director of Research": [
-      "Allison Boon"
+    "Production Executive": [
+      "Paul Dzilvelis"
     ],
-    "Coordinator": [
-      "Brad Skiles"
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Research": [
+      "Lawrence Givens"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
+    ],
+    "Written And Produced By": [
+      "W. Scott Goldie"
     ]
   }
 }

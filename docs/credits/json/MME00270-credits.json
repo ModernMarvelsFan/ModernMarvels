@@ -11,94 +11,91 @@
     "Max Raphael"
   ],
   "crew": {
-    "PRODUCER": [
-      "Bruce Nash"
+    "Animation": [
+      "Scott Boyer"
     ],
-    "CREATED BY": [
-      "Bruce Nash"
+    "Archivist": [
+      "Nilda Pergola-Jensen"
     ],
-    "MUSIC BY": [
-      "Guy Thomas"
+    "Assistant Editor": [
+      "Scott R. Martin"
     ],
-    "PRODUCTION MANAGER": [
-      "Kathlene Exner"
-    ],
-    "POST PRODUCTION MANAGER": [
-      "Gary Reid"
-    ],
-    "CLEARANCE SUPERVISOR": [
-      "Katie Del Core"
-    ],
-    "DIRECTOR OF RESEARCH": [
-      "Hildie Katibah"
-    ],
-    "PRODUCTION AUDITOR": [
-      "Dani Eslin"
-    ],
-    "ASSISTANT PRODUCTION ACCOUNTANTS": [
+    "Assistant Production Accountants": [
       "Linda Scribner",
       "Dennis Luciani"
     ],
-    "PRODUCTION COORDINATOR": [
-      "James Wiser"
-    ],
-    "CLEARANCE ASSISTANT": [
-      "Gabe Martinez"
-    ],
-    "PRODUCTION ASSISTANT": [
-      "David Falciani"
-    ],
-    "ASSISTANT EDITOR": [
-      "Scott R. Martin"
-    ],
-    "POST PRODUCTION COORDINATOR": [
-      "Danny Kim"
-    ],
-    "POST PRODUCTION ASSISTANT": [
-      "Laura Steinhoff"
-    ],
-    "VOICE OVER COORDINATOR": [
-      "Beata Genin"
-    ],
-    "ONLINE EDITOR": [
-      "Tim Doran"
-    ],
-    "SOUND MIXER": [
-      "Paul Ray"
-    ],
-    "ANIMATION": [
-      "Scott Boyer"
-    ],
-    "ARCHIVIST": [
-      "Nilda Pergola-Jensen"
-    ],
-    "CAMERA": [
+    "Camera": [
       "Brandon Green",
       "Peter Krajewski"
     ],
-    "HISTORICAL CONSULTANT": [
-      "William Allcorn"
+    "Clearance Assistant": [
+      "Gabe Martinez"
     ],
-    "FOOTAGE CONSULTANT": [
-      "Ted Troll"
+    "Clearance Supervisor": [
+      "Katie Del Core"
     ],
-    "FOR THE HISTORY CHANNEL / EXECUTIVE PRODUCER": [
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Hildie Katibah"
+    ],
+    "Edited By": [
+      "Julian Gomez"
+    ],
+    "Executive Producer": [
       "Beth Dietrich-Segarra"
     ],
-    "EXECUTIVE PRODUCER": [
-      "Don Cambou"
+    "Footage Consultant": [
+      "Ted Troll"
     ],
-    "WRITTEN AND PRODUCED BY": [
-      "Luke Ellis"
+    "Historical Consultant": [
+      "William Allcorn"
     ],
-    "LINE PRODUCER": [
+    "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "NARRATOR": [
+    "Music By": [
+      "Guy Thomas"
+    ],
+    "Narrator": [
       "Max Raphael"
     ],
-    "EDITED BY": [
-      "Julian Gomez"
+    "Online Editor": [
+      "Tim Doran"
+    ],
+    "Post Production Assistant": [
+      "Laura Steinhoff"
+    ],
+    "Post Production Coordinator": [
+      "Danny Kim"
+    ],
+    "Post Production Manager": [
+      "Gary Reid"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "David Falciani"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "James Wiser"
+    ],
+    "Production Manager": [
+      "Kathlene Exner"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Beata Genin"
+    ],
+    "Written And Produced By": [
+      "Luke Ellis"
     ]
   }
 }

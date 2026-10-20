@@ -7,45 +7,44 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2005, 1999 A&E Television Networks All Rights Reserved`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Networks
-* **Narrator:** MAX RAPHAEL, JOHN KNAPP
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions, A&E Television Networks
+* **Narrator:** Max Raphael, John Knapp
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | APRIL BROWN, SHERIDAN LIU, PAULETTE PANTOJA, DIANA STOLPE |
-| **Additional Animations by** | DOUG WHITNEY |
-| **Animated Stills by** | ADAM GOODWIN |
-| **Animation by** | RED GYPSY ANIMATION |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Camera** | SCOTT BAYER, DEBORAH BROWN, RANDY BROWN, PAUL CIRIGLIANO, DAVE MARLIN, RICH RANEY, DWAINE SCOTT, TIMOTHY SOREL, LIZ WATKINS |
-| **Clearance Coordinators** | LAWRENCE GIVENS III, AARON ZOBER |
-| **Clearance Supervisors** | AMY TRAHANT, KATIE DEL CORE |
-| **Consulting Producer** | RON NELSON |
-| **Coordinators** | BONI OSMANI, BRAD SKILES |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ALLISON BOON |
-| **Edited by** | SEAN DASH, IAN HUTCHINSON |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | LARRY AYOTTE, KATHIE BROWN, JAMES CIRIGLIANO, KEVIN DONALDSON, DOUG FARRIS, MARK HOLLENSTEINER, GRADY JONES, ANGELA MORTIMORE, JIM SIBLEY |
-| **Footage Consultant** | TED TROLL |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | DOUG NOLAN |
-| **Post Assistants** | GAYLEN KOBAYASHI, KEVIN McCARTNEY, ROB HARRINGTON |
-| **Post Coordinator** | TERRENCE HARTWELL |
-| **Post Producers** | SCOTT BERKSON, TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | EMILY LAU, ULDIS BALODIS, BRADLEY COMBEST, JOHN KNAPP |
-| **Sound Mixer** | ED THACKER |
-| **Voice Over Coordinator** | JOHN KNAPP |
-| **Written and Produced by** | MATTHEW P. HICKEY, W. SCOTT GOLDIE |
+| **Accountants** | April Brown, Sheridan Liu, Paulette Pantoja, Diana Stolpe |
+| **Additional Animations By** | Doug Whitney |
+| **Animated Stills By** | Adam Goodwin |
+| **Animation By** | Red Gypsy Animation |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Camera** | Scott Bayer, Deborah Brown, Randy Brown, Paul Cirigliano, Dave Marlin, Rich Raney, Dwaine Scott, Timothy Sorel, Liz Watkins |
+| **Clearance Coordinators** | Lawrence Givens III, Aaron Zober |
+| **Clearance Supervisors** | Amy Trahant, Katie Del Core |
+| **Consulting Producer** | Ron Nelson |
+| **Coordinators** | Boni Osmani, Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Edited By** | Sean Dash, Ian Hutchinson |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Larry Ayotte, Kathie Brown, James Cirigliano, Kevin Donaldson, Doug Farris, Mark Hollensteiner, Grady Jones, Angela Mortimore, Jim Sibley |
+| **Footage Consultant** | Ted Troll |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | Doug Nolan |
+| **Post Assistants** | Gaylen Kobayashi, KEVIN McCARTNEY, Rob Harrington |
+| **Post Coordinator** | Terrence Hartwell |
+| **Post Producers** | Scott Berkson, Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researchers** | Emily Lau, Uldis Balodis, Bradley Combest, John Knapp |
+| **Sound Mixer** | Ed Thacker |
+| **Voice Over Coordinator** | John Knapp |
+| **Written And Produced By** | Matthew P. Hickey, W. Scott Goldie |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00107.md)

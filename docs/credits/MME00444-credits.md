@@ -7,36 +7,36 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `Produced by. ACTUALITY PRODUCTIONS, INC.. History Television Network Productions. © 2005. A&E Television Network. All Rights Reserved`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Network (rights holder)
-* **Narrator:** MIKKI DEL MONICO
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions, A&E Television Network (rights holder)
+* **Narrator:** Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountant** | SHERIDAN LIU |
-| **Animation by** | ADAM DIAZ |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Camera** | KEITH BAREFOOT, JEFF HALPERIN, LON MAGDICH, MARK MORRIS |
-| **Clearance Coordinator** | D.W. BLAKESLEE |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Coordinator** | MELINDA ESQUIBEL |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACQUES |
-| **Field Audio** | JAY C. BROTHERS, CHRIS HALL |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Historical Consultants** | JOHN MEUNIER, CHARLES REDMAN, ALAN SIMMONS |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistant** | GAYLEN KOBAYASHI |
-| **Post Producer** | TIM KNAUFF |
-| **Produced by** | ACTUALITY PRODUCTIONS, INC., History Television Network Productions |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | MIKKI DEL MONICO, JOHN KNAPP, SEAN HECKMAN, TOM BARCLAY |
-| **Sound Mixer** | ED THACKER |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
+| **Accountant** | Sheridan Liu |
+| **Animation By** | Adam Diaz |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Camera** | Keith Barefoot, Jeff Halperin, Lon Magdich, Mark Morris |
+| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Supervisor** | Katie Del Core |
+| **Coordinator** | Melinda Esquibel |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Jay C. Brothers, Chris Hall |
+| **Historical Consultants** | John Meunier, Charles Redman, Alan Simmons |
+| **Online Editor** | John Price |
+| **Post Assistant** | Gaylen Kobayashi |
+| **Post Producer** | Tim Knauff |
+| **Produced By** | Actuality Productions, Inc., History Television Network Productions |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researchers** | Mikki Del Monico, John Knapp, Sean Heckman, Tom Barclay |
+| **Sound Mixer** | Ed Thacker |
+| **Voice Over Coordinator** | Mikki Del Monico |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00444.md)

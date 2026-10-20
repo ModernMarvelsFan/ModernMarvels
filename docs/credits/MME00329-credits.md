@@ -19,16 +19,15 @@
 | **Camera** | Doug Crawford, Brandon Green |
 | **Clearance Coordinator** | Susan Wichmann |
 | **Clearance Supervisor** | Katie Del Core |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Anthony Lacques |
-| **Edited by** | Sven Nilsson |
-| **Executive Producer** | Don Cambou |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Sven Nilsson |
+| **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Michael Becker |
-| **For The History Channel / Executive Producer** | Beth Dietrich-Segarra |
 | **Historical Consultant** | Henry Lemieux |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Guy Thomas |
-| **Narrated by** | Max Raphael |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | Doug Nolan |
 | **Post Assistant** | Laura Steinhoff |
 | **Post Coordinator** | Danny Kim |
@@ -37,7 +36,7 @@
 | **Production Auditor** | Dani Eslin |
 | **Production Coordinator** | James Wiser |
 | **Voice Over Coordinator** | Melanie Pipes |
-| **Written and Produced by** | Matthew P. Hickey |
+| **Written And Produced By** | Matthew P. Hickey |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00329.md)

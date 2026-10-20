@@ -14,20 +14,20 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Director** | ROBERT KIRK |
-| **Coordinating Producer** | ROBERT BEEMER |
-| **Directed by** | ROBERT LIHANI |
-| **Director of Photography** | STAN TAYLOR |
-| **Executive Producer** | CRAIG HAFNER |
-| **Graphics** | DAVID DRAIN |
-| **Main Title Design** | JONATHAN MOSER |
-| **Music by** | CHRISTOPHER STONE, RICHARD BAND |
-| **Narrated by** | GERALD McRANEY |
-| **Produced by** | ROD PYLE |
-| **Senior Editors** | JEFF CALDWELL, STEVE POMERANTZ, MARGARET WILLEY |
-| **Senior Producer** | ROBERT KIRK |
-| **Series Producer** | JOHN CORRY |
-| **Supervising Producer** | ROBERT LIHANI |
+| **Associate Director** | Robert Kirk |
+| **Coordinating Producer** | Robert Beemer |
+| **Directed By** | Robert Lihani |
+| **Director Of Photography** | Stan Taylor |
+| **Executive Producer** | Craig Hafner |
+| **Graphics** | David Drain |
+| **Main Title Design** | Jonathan Moser |
+| **Music By** | Christopher Stone, Richard Band |
+| **Narrated By** | GERALD McRANEY |
+| **Produced By** | Rod Pyle |
+| **Senior Editors** | Jeff Caldwell, Steve Pomerantz, Margaret Willey |
+| **Senior Producer** | Robert Kirk |
+| **Series Producer** | John Corry |
+| **Supervising Producer** | Robert Lihani |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00528.md)

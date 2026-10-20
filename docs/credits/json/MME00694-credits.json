@@ -8,7 +8,20 @@
   ],
   "narrators": [],
   "crew": {
-    "Directors of Photography": [
+    "Assistant Editors": [
+      "Adam Kirk",
+      "Wanakhavi Wakhisi"
+    ],
+    "Associate Producer": [
+      "Sarah Rooney"
+    ],
+    "Coordinating Producer": [
+      "Carter Figueroa"
+    ],
+    "Digitizer": [
+      "Marcia Robusto"
+    ],
+    "Directors Of Photography": [
       "Dallas Childers",
       "Hossam Aboulmagd",
       "Rob Featherstone",
@@ -16,60 +29,8 @@
       "Mike Maniglia",
       "Andy Schwartz"
     ],
-    "Sound": [
-      "Sean Demers",
-      "Brian Garfield",
-      "Adam Jones",
-      "Nick Poholchuk",
-      "Kelsey Wood"
-    ],
-    "Talent": [
-      "Matty Blake"
-    ],
-    "Music": [
-      "Audio Networks",
-      "Extreme Music"
-    ],
-    "Sound Design": [
-      "Takoma Media"
-    ],
-    "Online Editor/Colorist": [
-      "Matt Doe"
-    ],
-    "Graphics": [
-      "Percolate Digital"
-    ],
-    "Digitizer": [
-      "Marcia Robusto"
-    ],
-    "Assistant Editors": [
-      "Adam Kirk",
-      "Wanakhavi Wakhisi"
-    ],
-    "Production Assistants": [
-      "Corey Leonard",
-      "Dan Leonard"
-    ],
-    "Production Manager": [
-      "Jennifer Partin"
-    ],
-    "Post Production Supervisor": [
-      "Cameron Young"
-    ],
-    "Associate Producer": [
-      "Sarah Rooney"
-    ],
-    "Production Coordinator": [
-      "Tainesa Davis"
-    ],
-    "Production Accountant": [
-      "Rossana O'Hop"
-    ],
-    "Programming Coordinator": [
-      "Kelly Vorrasi"
-    ],
-    "Coordinating Producer": [
-      "Carter Figueroa"
+    "Editor": [
+      "Judd Fischer"
     ],
     "Executive Producer": [
       "John Verhoff"
@@ -78,14 +39,53 @@
       "Sean Gallagher",
       "Abby Greensfelder"
     ],
-    "Series Producer": [
-      "Brian Leonard"
+    "Graphics": [
+      "Percolate Digital"
+    ],
+    "Music": [
+      "Audio Networks",
+      "Extreme Music"
+    ],
+    "Colorist": [
+      "Matt Doe"
+    ],
+    "Post Production Supervisor": [
+      "Cameron Young"
     ],
     "Producer": [
       "Annabelle Hester"
     ],
-    "Editor": [
-      "Judd Fischer"
+    "Production Accountant": [
+      "Rossana O'Hop"
+    ],
+    "Production Assistants": [
+      "Corey Leonard",
+      "Dan Leonard"
+    ],
+    "Production Coordinator": [
+      "Tainesa Davis"
+    ],
+    "Production Manager": [
+      "Jennifer Partin"
+    ],
+    "Programming Coordinator": [
+      "Kelly Vorrasi"
+    ],
+    "Series Producer": [
+      "Brian Leonard"
+    ],
+    "Sound": [
+      "Sean Demers",
+      "Brian Garfield",
+      "Adam Jones",
+      "Nick Poholchuk",
+      "Kelsey Wood"
+    ],
+    "Sound Design": [
+      "Takoma Media"
+    ],
+    "Talent": [
+      "Matty Blake"
     ]
   }
 }

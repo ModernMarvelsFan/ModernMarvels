@@ -4,101 +4,98 @@
   "year": "2004",
   "copyright": "© 2004 A&E Television Network All Rights Reserved",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions"
   ],
   "narrators": [
-    "MAX RAPHAEL",
-    "MIKKI DEL MONICO"
+    "Max Raphael",
+    "Mikki Del Monico"
   ],
   "crew": {
-    "Edited by": [
-      "ANDREW CORWIN"
-    ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Music by": [
-      "GUY THOMAS"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "TIM KNAUFF"
-    ],
-    "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ANTHONY LACOUES"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
     "Accountants": [
-      "JUDY GORDON",
-      "SHERIDAN LIU"
+      "Judy Gordon",
+      "Sheridan Liu"
     ],
-    "Coordinator": [
-      "MELINDA ESQUIBEL"
-    ],
-    "Researchers": [
-      "MIKKI DEL MONICO",
-      "JOHN KNAPP",
-      "SEAN HECKMAN",
-      "TOM BARCLAY"
-    ],
-    "Clearance Coordinator": [
-      "D.W. BLAKESLEE"
-    ],
-    "Production Assistant": [
-      "JEFFERY PERKINS"
-    ],
-    "Voice Over Coordinator": [
-      "MIKKI DEL MONICO"
+    "Animation By": [
+      "Adam Diaz"
     ],
     "Assistant Editors": [
-      "LAURA STEINHOFF",
-      "MICHAEL BROOME"
+      "Laura Steinhoff",
+      "Michael Broome"
     ],
     "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
+      "Alexander Rubinow"
     ],
-    "Post Assistants": [
-      "GAYLEN KOBAYASHI",
-      "LINDA LIAO"
+    "Associate Producer": [
+      "Marianna Yarovskaya"
     ],
-    "Online Editor": [
-      "JOHN PRICE"
+    "Clearance Coordinator": [
+      "D.W. Blakeslee"
     ],
-    "Sound Mixer": [
-      "PAUL RAY"
+    "Clearance Supervisor": [
+      "Katie Del Core"
     ],
-    "Animation by": [
-      "ADAM DIAZ"
+    "Coordinator": [
+      "Melinda Esquibel"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Anthony Lacoues"
+    ],
+    "Edited By": [
+      "Andrew Corwin"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
     ],
     "Historical Consultants": [
       "PAUL KOLODZY, Ph.D.",
-      "BRUCE ROBERTSON"
+      "Bruce Robertson"
     ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
+    "Music By": [
+      "Guy Thomas"
     ],
-    "Executive Producer": [
-      "DON CAMBOU"
+    "Narrated By": [
+      "Max Raphael"
     ],
-    "Written and Produced by": [
-      "ROB STONE"
+    "Online Editor": [
+      "John Price"
     ],
-    "Associate Producer": [
-      "MARIANNA YAROVSKAYA"
+    "Post Assistants": [
+      "Gaylen Kobayashi",
+      "Linda Liao"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Jeffery Perkins"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Mikki Del Monico",
+      "John Knapp",
+      "Sean Heckman",
+      "Tom Barclay"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Mikki Del Monico"
+    ],
+    "Written And Produced By": [
+      "Rob Stone"
     ]
   }
 }

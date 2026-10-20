@@ -20,8 +20,8 @@
 | **Asst Post Coordinator** | Cory Parker |
 | **Camera** | Aron Brown, David Cosby, Ed Kukla, Dante Ludovici, Lon Magdich, Carey Moots, Rich Stone, Zvonimir Vidusin |
 | **Coordinator** | Gregory Zide |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
 | **Editor** | Dan Wolfmeyer |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Brian Clavey, Andrew Commiskey, Sean Demers, John Goheen, Charles Rohr, Mark Solomon, Don Yost, Marty Zimmerman |
@@ -37,8 +37,8 @@
 | **Researcher** | Kyle Salners |
 | **Sound Mixer** | Erik Valenzuela |
 | **Technical Consultants** | Biometric Services Int'l, Master Lock, Luke Tipple, Total Security Solutions, U.S. Customs &amp; Border Protection, U.S. Department of Energy, Universal Safety Response |
-| **VO Coordinator** | Rick George |
-| **Written and Produced by** | Jared Cook, Lawrence Givens III |
+| **Vo Coordinator** | Rick George |
+| **Written And Produced By** | Jared Cook, Lawrence Givens III |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00671.md)

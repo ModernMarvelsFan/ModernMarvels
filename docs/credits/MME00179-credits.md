@@ -8,41 +8,41 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | IAN MARKS |
-| **Archivist** | NILDA JENSEN |
-| **Assistant Editor** | MICHAEL LIM |
-| **Assistant Production Accountant** | LINDA SCRIBNER |
-| **Associate Producer** | HOLLY A. MURDOCH |
-| **Camera** | DOUGLAS BAIRD, TOMMASO BICIOCCHI, GIANNI MAITAN, DYLAN S. O'BRIEN |
-| **Consulting Producer** | HENRY SCHIPPER |
-| **Created by** | BRUCE NASH |
-| **Edited by** | ROBBIE PARAMOR |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | MASSIMILIANO D'OTTAVI, NORM THOMPSON |
-| **Footage Consultant** | TED TROLL |
-| **Graphics** | BARRY HILL |
-| **Historical Consultant** | JAMES RUSSELL |
-| **Music by** | ALAN ETT |
-| **Narrator** | MAX RAPHAEL |
-| **Online Editor** | DAVID REX |
-| **Post Producer** | SCOTT BERKSON |
-| **Post Production Assistant** | STEPHEN FRANKLIN |
-| **Post Production Coordinator** | GARY REID |
-| **Post Production Supervisor** | JASON STEINBERG |
-| **Producer** | BRUCE NASH |
-| **Production Assistants** | MARYALICE R. ARAGON, RASI DELGADO, SUNI NIVENS |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHLENE EXNER |
-| **Production Manager** | LINDA K. CLARK |
-| **Researchers** | KRISTINA DJOKIC, MARK SAVAGE |
-| **Sound Mixer** | PAUL RAY |
-| **Written and Produced by** | HENRY SCHIPPER |
+| **Animation** | Ian Marks |
+| **Archivist** | Nilda Jensen |
+| **Assistant Editor** | Michael Lim |
+| **Assistant Production Accountant** | Linda Scribner |
+| **Associate Producer** | Holly A. Murdoch |
+| **Camera** | Douglas Baird, Tommaso Biciocchi, Gianni Maitan, Dylan S. O'Brien |
+| **Consulting Producer** | Henry Schipper |
+| **Created By** | Bruce Nash |
+| **Edited By** | Robbie Paramor |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Massimiliano D'Ottavi, Norm Thompson |
+| **Footage Consultant** | Ted Troll |
+| **Graphics** | Barry Hill |
+| **Historical Consultant** | James Russell |
+| **Music By** | Alan Ett |
+| **Narrator** | Max Raphael |
+| **Online Editor** | David Rex |
+| **Post Producer** | Scott Berkson |
+| **Post Production Assistant** | Stephen Franklin |
+| **Post Production Coordinator** | Gary Reid |
+| **Post Production Supervisor** | Jason Steinberg |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Maryalice R. Aragon, Rasi Delgado, Suni Nivens |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathlene Exner |
+| **Production Manager** | Linda K. Clark |
+| **Researchers** | Kristina Djokic, Mark Savage |
+| **Sound Mixer** | Paul Ray |
+| **Written And Produced By** | Henry Schipper |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00179.md)

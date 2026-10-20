@@ -8,41 +8,41 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, i.e. effects
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountant** | SHERIDAN LIU |
-| **Animation by** | i.e. effects |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM, ALEXANDER RUBINOW |
-| **Associate Producer** | MELISSA FREEMAN |
-| **Asst Post Coordinator** | GAYLEN KOBAYASHI |
-| **Camera** | GARY BROOKS, JAMES EWING, GEORGE HUPKA, JOHN KABASAKALIS, LON MAGDICH, BOB SANDEFUR, SCOTT SHELLEY, GREG VOIGT |
-| **Clearance Coordinator** | AARON ZOBER |
-| **Coordinator** | BRAD SKILES |
-| **Created By** | BRUCE NASH |
-| **Director of Clearance** | KATIE DEL CORE |
-| **Director of Research** | ALLISON BOON |
-| **Editor** | MARCELO LOPES |
-| **Executive Producer** | BETH DIETRICH-SEGARRA, DON CAMBOU |
-| **Field Audio** | RYAN AGOSTINO, PAUL BALDWIN, DENNIS HAMLIN, JOE McCARTAN, FRANZ MOORE, AMY W. SANDEFUR, TIM STRINGFELLOW, LANNY J. WESTGARD |
-| **Music by** | GUY THOMAS |
-| **Narrator** | MAX RAPHAEL |
-| **Online Editor** | SARAH STEELE |
-| **Post Assist** | JAMES ORBISON |
-| **Post Coordinator** | TERRENCE HARTWELL |
-| **Post Producer** | TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | EUGENE F. O'NEILL |
-| **Production Controller** | DANI ESLIN |
-| **Production Executive** | PAUL DZILVELIS |
-| **Production Manager** | SHELIA COLLINS |
-| **Programming Coordinator** | MICHELE WILCOX |
-| **Research** | PAUL LACQUES |
-| **Sound Mixer** | ERIK VALENZUELA |
-| **Written and Produced by** | ANTHONY LACQUES |
+| **Accountant** | Sheridan Liu |
+| **Animation By** | i.e. effects |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow |
+| **Associate Producer** | Melissa Freeman |
+| **Asst Post Coordinator** | Gaylen Kobayashi |
+| **Camera** | Gary Brooks, James Ewing, George Hupka, John Kabasakalis, Lon Magdich, Bob Sandefur, Scott Shelley, Greg Voigt |
+| **Clearance Coordinator** | Aaron Zober |
+| **Coordinator** | Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Katie Del Core |
+| **Director Of Research** | Allison Boon |
+| **Editor** | Marcelo Lopes |
+| **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
+| **Field Audio** | Ryan Agostino, Paul Baldwin, Dennis Hamlin, JOE McCARTAN, Franz Moore, Amy W. Sandefur, Tim Stringfellow, Lanny J. Westgard |
+| **Music By** | Guy Thomas |
+| **Narrator** | Max Raphael |
+| **Online Editor** | Sarah Steele |
+| **Post Assist** | James Orbison |
+| **Post Coordinator** | Terrence Hartwell |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Eugene F. O'Neill |
+| **Production Controller** | Dani Eslin |
+| **Production Executive** | Paul Dzilvelis |
+| **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Michele Wilcox |
+| **Research** | Paul Lacques |
+| **Sound Mixer** | Erik Valenzuela |
+| **Written And Produced By** | Anthony Lacques |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00569.md)

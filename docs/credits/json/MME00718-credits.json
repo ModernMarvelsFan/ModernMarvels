@@ -4,31 +4,31 @@
   "year": "2015",
   "copyright": "© 2015 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "RADIANT FEATURES",
-    "H2(TM)"
+    "Radiant Features",
+    "H2(tm)"
   ],
   "narrators": [
     "Lloyd Sherr"
   ],
   "crew": {
+    "Animation": [
+      "David Hartwell"
+    ],
+    "Assistant Camera": [
+      "Anthony Lara"
+    ],
+    "Assistant Editor": [
+      "Jules Nurrish"
+    ],
+    "Associate Producer": [
+      "Geoffrey Boynton"
+    ],
+    "Audio": [
+      "Giuseppe Mangione",
+      "Alan Chow"
+    ],
     "Audio Mixer": [
       "Quinn Messmer"
-    ],
-    "Colorist": [
-      "Santi Padilla"
-    ],
-    "Post Producers/Picture Head": [
-      "Jake Torum",
-      "Pete Jackson",
-      "Rich Cole",
-      "Will Godar",
-      "Mike Madrid"
-    ],
-    "Drone": [
-      "Nel Boshoff",
-      "Vanessa Garnick Boshoff",
-      "Riccardo Filippini",
-      "Paolo Bertazza"
     ],
     "Camera": [
       "Travis Bush",
@@ -43,18 +43,44 @@
       "Moises Pinto",
       "Ricardo Dormoi"
     ],
-    "Audio": [
-      "Giuseppe Mangione",
-      "Alan Chow"
+    "Colorist": [
+      "Santi Padilla"
     ],
-    "Assistant Camera": [
-      "Anthony Lara"
+    "Consulting Producer": [
+      "Phil Alongi"
     ],
-    "Assistant Editor": [
-      "Jules Nurrish"
+    "Coordinating Producers": [
+      "Gabriela Mejia",
+      "Ricardo Barria",
+      "Gia Marie Amella"
+    ],
+    "Director Of Photography": [
+      "Andrew David Watson"
+    ],
+    "Producer": [
+      "Dylan Robertson",
+      "Bill Ferehawk"
+    ],
+    "Drone": [
+      "Nel Boshoff",
+      "Vanessa Garnick Boshoff",
+      "Riccardo Filippini",
+      "Paolo Bertazza"
+    ],
+    "Editors": [
+      "Geoffrey Boynton",
+      "Theo Love",
+      "Matthew Sultan"
     ],
     "Narrator": [
       "Lloyd Sherr"
+    ],
+    "Picture Head": [
+      "Jake Torum",
+      "Pete Jackson",
+      "Rich Cole",
+      "Will Godar",
+      "Mike Madrid"
     ],
     "Production Assistants": [
       "Matt Fuller",
@@ -64,36 +90,10 @@
       "Christian Ramirez",
       "Adriana Zyskowski"
     ],
-    "Director/Producer": [
-      "Dylan Robertson",
-      "Bill Ferehawk"
-    ],
-    "Director of Photography": [
-      "Andrew David Watson"
-    ],
-    "Editors": [
-      "Geoffrey Boynton",
-      "Theo Love",
-      "Matthew Sultan"
-    ],
-    "3D Graphics/Animation": [
-      "David Hartwell"
-    ],
     "Writers": [
       "Bill Ferehawk",
       "Dylan Robertson",
       "Savas Georgalis"
-    ],
-    "Associate Producer": [
-      "Geoffrey Boynton"
-    ],
-    "Consulting Producer": [
-      "Phil Alongi"
-    ],
-    "Coordinating Producers": [
-      "Gabriela Mejia",
-      "Ricardo Barria",
-      "Gia Marie Amella"
     ]
   }
 }

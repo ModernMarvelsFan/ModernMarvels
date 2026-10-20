@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1996 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** A&E HOME VIDEO
+* **Production Company:** A&e Home Video
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll

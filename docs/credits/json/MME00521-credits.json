@@ -13,21 +13,8 @@
     "Max Raphael"
   ],
   "crew": {
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Production Accountant": [
-      "Anthony R. Reyes"
-    ],
-    "Clearance Coordinators": [
-      "Lawrence Givens III",
-      "Aaron Zober"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
-    ],
-    "Voice Over Coordinator": [
-      "John Knapp"
+    "Animated Photos By": [
+      "Adam Goodwin"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -38,17 +25,24 @@
       "Gilbert Prowler",
       "Eric Thornton"
     ],
+    "Clearance Coordinators": [
+      "Lawrence Givens III",
+      "Aaron Zober"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Director Of Rights And Clearances": [
+      "Katie Del Core"
+    ],
+    "Edited By": [
+      "Scot Kelly"
+    ],
     "Field Audio": [
       "Walker Ballance",
       "Danny Clayton, Jr.",
       "Mike Johnson",
       "Charles Rohr"
-    ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animated Photos by": [
-      "Adam Goodwin"
     ],
     "Historical Consultants": [
       "Marshall Brain",
@@ -58,26 +52,32 @@
     "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "Edited by": [
-      "Scot Kelly"
-    ],
-    "Narrated by": [
-      "Max Raphael"
-    ],
-    "Music by": [
+    "Music By": [
       "Guy Thomas"
     ],
-    "Production Manager": [
-      "Shelia Collins"
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
     ],
     "Post Producer": [
       "Tim Knauff"
     ],
-    "Director of Rights and Clearances": [
-      "Katie Del Core"
+    "Production Accountant": [
+      "Anthony R. Reyes"
     ],
-    "Director of Research": [
-      "Allison Boon"
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
     ]
   }
 }

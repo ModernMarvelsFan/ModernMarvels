@@ -8,19 +8,19 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** HARLAN SAPERSTEIN
+* **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | RICK BENAVIDES |
-| **Created by** | BRUCE NASH |
-| **Edited by** | JACK FOSTER |
-| **Music by** | ALAN ETT |
-| **Narrated by** | HARLAN SAPERSTEIN |
-| **Producer** | BRUCE NASH |
-| **Written and Produced by** | J.V. MARTIN |
+| **Associate Producer** | Rick Benavides |
+| **Created By** | Bruce Nash |
+| **Edited By** | Jack Foster |
+| **Music By** | Alan Ett |
+| **Narrated By** | Harlan Saperstein |
+| **Producer** | Bruce Nash |
+| **Written And Produced By** | J.V. Martin |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00081.md)

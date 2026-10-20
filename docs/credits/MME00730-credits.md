@@ -14,22 +14,22 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | GLENN TAKAKJIAN |
-| **Assistant Editors** | STUART BRODLIEB, HARRIS COHEN |
-| **Assistant Production Accountants** | LINDA SCRIBNER, JUDI MINITELLO |
-| **Camera Operators** | MAURY DAHLEN, PAT HURLEY, JARED MANDERS, MICHAEL MARTON, BUD OSBORNE, DWAINE SCOTT, KENNEDY WHEATLEY, DAVID ZAPATKA |
-| **Field Audio** | MICHAEL BIDESE, TERRY MARTON, SHANE SELBY, THOM SHAFER, CHRIS SIMMONS, JASON SMITH, RUSS TOMLINSON |
-| **Footage Consultant** | TED TROLL |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Supervising Producer** | BETH DIETRICH |
-| **Graphics** | BARRY HILL |
-| **Online Editor** | DAVID REX |
-| **Post Production Assistant** | GARY REID |
-| **Post Production Coordinator** | JASON STEINBERG |
-| **Production Assistants** | MARYALICE R. ARAGON, GWENDOLYN MURPHY, BRIAN VOLK |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Sound Mixer** | PAUL RAY |
+| **Animation** | Glenn Takakjian |
+| **Assistant Editors** | Stuart Brodlieb, Harris Cohen |
+| **Assistant Production Accountants** | Linda Scribner, Judi Minitello |
+| **Camera Operators** | Maury Dahlen, Pat Hurley, Jared Manders, Michael Marton, Bud Osborne, Dwaine Scott, Kennedy Wheatley, David Zapatka |
+| **Executive Producer** | Charlie Maday |
+| **Field Audio** | Michael Bidese, Terry Marton, Shane Selby, Thom Shafer, Chris Simmons, Jason Smith, Russ Tomlinson |
+| **Footage Consultant** | Ted Troll |
+| **Graphics** | Barry Hill |
+| **Online Editor** | David Rex |
+| **Post Production Assistant** | Gary Reid |
+| **Post Production Coordinator** | Jason Steinberg |
+| **Production Assistants** | Maryalice R. Aragon, Gwendolyn Murphy, Brian Volk |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Sound Mixer** | Paul Ray |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00730.md)

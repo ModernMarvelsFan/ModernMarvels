@@ -7,26 +7,26 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1995 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** JAFFE PRODUCTIONS, Hearst Entertainment, ACTUALITY Productions, Inc., YEAH STUDIOS, INTERLOK
+* **Production Company:** Jaffe Productions, Hearst Entertainment, ACTUALITY Productions, Inc., Yeah Studios, Interlok
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant to Bob Jaffe** | HAY K. TANNING |
-| **Assistant to Tim Busa** | ALEXANDRA ROJAS |
-| **Coordinator, Documentary Programming** | ELYSE MIRANDA |
-| **Executive In Charge of Production** | MEL A. BISHOP |
-| **Executive Producer For Hearst Entertainment Television** | GERALD W. ABRAMS |
-| **Footage Consultant** | TED TROLL |
-| **Graphics** | RON CLARK, ART F/X |
-| **Music By** | SCOTT PAGE-PAGTER, JOHN VALENTINO |
-| **On-Line Editor** | NED WEISMAN |
-| **Original Artwork** | LORI GARY COSTAS, WENDY NIELD |
-| **Post Facilities** | YEAH STUDIOS, INTERLOK |
-| **Re-Recording Mixer** | TIM CARPENTER |
-| **Vice President, Historical Programming** | CHARLIE MADAY |
+| **Assistant To Bob Jaffe** | Hay K. Tanning |
+| **Assistant To Tim Busa** | Alexandra Rojas |
+| **Coordinator, Documentary Programming** | Elyse Miranda |
+| **Executive In Charge Of Production** | Mel A. Bishop |
+| **Executive Producer For Hearst Entertainment Television** | Gerald W. Abrams |
+| **Footage Consultant** | Ted Troll |
+| **Graphics** | Ron Clark, Art F/X |
+| **Music By** | Scott Page-Pagter, John Valentino |
+| **On-Line Editor** | Ned Weisman |
+| **Original Artwork** | Lori Gary Costas, Wendy Nield |
+| **Post Facilities** | Yeah Studios, Interlok |
+| **Re-Recording Mixer** | Tim Carpenter |
+| **Vice President, Historical Programming** | Charlie Maday |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00013.md)

@@ -7,38 +7,38 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ALAN ETT MUSIC GROUP, RED GYSPY ANIMATION
-* **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
+* **Production Company:** Alan Ett Music Group, Red Gyspy Animation
+* **Narrator:** Max Raphael, Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | LINDA SCRIBNER, THIA KULMA, SHERIDAN LIU, LISA CASELLA, PAULETTE PANTOJA |
-| **Animation by** | RED GYSPY ANIMATION |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Associate Producers** | MATT KLEINMAN, CORRIE KAUFMAN |
-| **Camera** | PHIL DIXON, MIKE HAMILTON, LON MAGDICH, B.J. SCAHILL, ED SPRINGER |
-| **Consulting Producer** | RON NELSON |
-| **Coordinators** | MELINDA ESQUIBEL, TERRENCE HARTWELL, BRAD SKILES |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ALLISON BOON |
-| **Edited by** | JACK FOSTER, AREK HOPE |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | TOM ECHLIN, JOHN PACKER, DAN PYKE |
-| **Historical Consultant** | ERIC C. ORLEMANN |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistant** | GAYLEN KOBAYASHI |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Researchers** | RICK BENAVIDES, MIKKI DEL MONICO, TOM BARCLAY, ULDIS BALODIS |
-| **Sound Mixer** | ED THACKER |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
-| **Written and Produced by** | HOWARD DRATCH, RICHARD JONES |
+| **Accountants** | Linda Scribner, Thia Kulma, Sheridan Liu, Lisa Casella, Paulette Pantoja |
+| **Animation By** | Red Gyspy Animation |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Associate Producers** | Matt Kleinman, Corrie Kaufman |
+| **Camera** | Phil Dixon, Mike Hamilton, Lon Magdich, B.J. Scahill, Ed Springer |
+| **Consulting Producer** | Ron Nelson |
+| **Coordinators** | Melinda Esquibel, Terrence Hartwell, Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Edited By** | Jack Foster, Arek Hope |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Tom Echlin, John Packer, Dan Pyke |
+| **Historical Consultant** | Eric C. Orlemann |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistant** | Gaylen Kobayashi |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Researchers** | Rick Benavides, Mikki Del Monico, Tom Barclay, Uldis Balodis |
+| **Sound Mixer** | Ed Thacker |
+| **Voice Over Coordinator** | Mikki Del Monico |
+| **Written And Produced By** | Howard Dratch, Richard Jones |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00054.md)

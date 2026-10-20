@@ -8,20 +8,20 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** A&E Television Networks, The History Channel
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Consulting Producer** | HENRY SCHIPPER |
-| **Created by** | BRUCE NASH |
-| **Edited by** | GARY RAS |
-| **Executive Producer** | DON CAMBOU |
-| **Line Producer** | PAUL DZILVELIS |
-| **Narrated by** | MAX RAPHAEL |
-| **Producer** | BRUCE NASH |
-| **Written and Produced by** | NANCY OEY, BOB PETRELLA |
+| **Consulting Producer** | Henry Schipper |
+| **Created By** | Bruce Nash |
+| **Edited By** | Gary Ras |
+| **Executive Producer** | Don Cambou |
+| **Line Producer** | Paul Dzilvelis |
+| **Narrated By** | Max Raphael |
+| **Producer** | Bruce Nash |
+| **Written And Produced By** | Nancy Oey, Bob Petrella |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00202.md)

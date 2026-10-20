@@ -7,43 +7,43 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Networks
-* **Narrator:** JOHN KNAPP, MAX RAPHAEL
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions, A&E Television Networks
+* **Narrator:** John Knapp, Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | APRIL BROWN, SHERIDAN LIU, DIANA STOLPE |
-| **Animation by** | GLENN TAKAKJIAN |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM, ALEXANDER RUBINOW |
-| **Assistant Post Coordinator** | JEREMIAH DOCKRAY |
-| **Assistant Production Manager** | JOHN HARRIS |
-| **Camera** | SCOTT BAYER, JOE FRENCH, JOHN KABASAKALIS, LON MAGDICH, PATRICK O'DONNELL, JED UDALL, WARREN WATSON |
-| **Clearance Coordinators** | LAWRENCE GIVENS III, AARON ZOBER |
-| **Coordinators** | BONI OSMANI, BRAD SKILES |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ALLISON BOON |
-| **Director of Rights and Clearances** | KATIE DEL CORE |
-| **Edited by** | LOU LAPROCIDO |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | DAN COOK, TODD COOPER, CAVEN KEITH, ELLIOT KLAYMAN, GREG STIDHAM |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | GUY THOMAS |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistants** | ROB HARRINGTON, GAYLEN KOBAYASHI |
-| **Post Coordinator** | TERRENCE HARTWELL |
-| **Post Producer** | TIM KNAUFF |
-| **Produced by** | ACTUALITY PRODUCTIONS, INC., History Television Network Productions |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | ULDIS BALODIS, BRADLEY COMBEST, JOHN KNAPP |
-| **Sound Mixer** | ED THACKER |
-| **Technical Consultants** | AMERICAN LICORICE COMPANY, LES CURTIN, SEE'S CANDIES, THE HERSHEY COMPANY, TOMI HOLT, SUSAN KARL, ANNABELLE CANDY CO., NATIONAL CONFECTIONERS ASSOCIATION, LARRY PETERMAN, HOTLIX CANDY, JILL &amp; WARREN SCHIMPFF |
-| **Voice Over Coordinator** | JOHN KNAPP |
-| **Written and Produced by** | BEATA ZIEL |
+| **Accountants** | April Brown, Sheridan Liu, Diana Stolpe |
+| **Animation By** | Glenn Takakjian |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow |
+| **Assistant Post Coordinator** | Jeremiah Dockray |
+| **Assistant Production Manager** | John Harris |
+| **Camera** | Scott Bayer, Joe French, John Kabasakalis, Lon Magdich, Patrick O'Donnell, Jed Udall, Warren Watson |
+| **Clearance Coordinators** | Lawrence Givens III, Aaron Zober |
+| **Coordinators** | Boni Osmani, Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Director Of Rights And Clearances** | Katie Del Core |
+| **Edited By** | Lou Laprocido |
+| **Executive Producer** | Don Cambou |
+| **Field Audio** | Dan Cook, Todd Cooper, Caven Keith, Elliot Klayman, Greg Stidham |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistants** | Rob Harrington, Gaylen Kobayashi |
+| **Post Coordinator** | Terrence Hartwell |
+| **Post Producer** | Tim Knauff |
+| **Produced By** | Actuality Productions, Inc., History Television Network Productions |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researchers** | Uldis Balodis, Bradley Combest, John Knapp |
+| **Sound Mixer** | Ed Thacker |
+| **Technical Consultants** | American Licorice Company, Les Curtin, See'S Candies, The Hershey Company, Tomi Holt, Susan Karl, Annabelle Candy Co., National Confectioners Association, Larry Peterman, Hotlix Candy, Jill &amp; Warren Schimpff |
+| **Voice Over Coordinator** | John Knapp |
+| **Written And Produced By** | Beata Ziel |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00509.md)

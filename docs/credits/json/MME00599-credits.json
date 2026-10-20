@@ -12,47 +12,6 @@
     "Dave Hoffman"
   ],
   "crew": {
-    "For Prometheus Entertainment / Director of Clearance": [
-      "Mary DeMaria"
-    ],
-    "For Prometheus Entertainment / Business & Legal Affairs": [
-      "Steven J. Pena"
-    ],
-    "For Lucasfilm Ltd. / Executive Producers": [
-      "Jim Ward",
-      "Tom Warner"
-    ],
-    "For Lucasfilm Ltd. / Creative Director": [
-      "Kayleen Walters"
-    ],
-    "For The History Channel / Executive Producer": [
-      "Beth Dietrich"
-    ],
-    "For The History Channel / Programming Coordinator": [
-      "Michele Wilcox"
-    ],
-    "Executive Producer": [
-      "Kevin Burns"
-    ],
-    "Co-Executive Producers": [
-      "Kim Sheerin",
-      "Scott Hartford"
-    ],
-    "Producer": [
-      "Rick Hull"
-    ],
-    "Narrator": [
-      "Dave Hoffman"
-    ],
-    "Writers": [
-      "Steven Smith",
-      "Rick Hull",
-      "Kevin Burns"
-    ],
-    "Editors": [
-      "David Comtois",
-      "David McQuillen"
-    ],
     "Additional Editing": [
       "John Richardson"
     ],
@@ -60,9 +19,47 @@
       "Ann Putney",
       "Andrew Giacometti"
     ],
+    "Co-Executive Producers": [
+      "Kim Sheerin",
+      "Scott Hartford"
+    ],
+    "Editors": [
+      "David Comtois",
+      "David McQuillen"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich"
+    ],
+    "Creative Director": [
+      "Kayleen Walters"
+    ],
+    "Executive Producers": [
+      "Jim Ward",
+      "Tom Warner"
+    ],
+    "Business &amp; Legal Affairs": [
+      "Steven J. Pena"
+    ],
+    "Director Of Clearance": [
+      "Mary DeMaria"
+    ],
+    "Programming Coordinator": [
+      "Michele Wilcox"
+    ],
+    "Narrator": [
+      "Dave Hoffman"
+    ],
+    "Producer": [
+      "Rick Hull"
+    ],
     "Researchers": [
       "Joe Lessard",
       "Amanda Taylor"
+    ],
+    "Writers": [
+      "Steven Smith",
+      "Rick Hull",
+      "Kevin Burns"
     ]
   }
 }

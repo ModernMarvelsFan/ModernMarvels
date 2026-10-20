@@ -8,42 +8,41 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Network Productions, The History Channel
-* **Narrator:** JOHN KNAPP, MAX RAPHAEL
+* **Narrator:** John Knapp, Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation by** | DOUG WHITNEY |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM, ALEXANDER RUBINOW |
-| **Assistant Post Coordinator** | JEREMIAH DOCKRAY |
-| **Camera** | MICHAEL CAMPBELL, DANIEL HARB, JAY KUNTZ, PETER LEVERMANN, LON MAGDICH, GILBERT PROWLER, JOHN SANTUCCI, GREG STEINBRECHER |
-| **Clearance Coordinators** | LAWRENCE GIVENS III, AARON ZOBER |
-| **Coordinators** | BONI OSMANI, BRAD SKILES |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ALLISON BOON |
-| **Director of Rights and Clearances** | KATIE DEL CORE |
-| **Edited by** | MOTOSHI WAKABAYASHI |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | GERE CANNON, JIM EMSWILLER, BRAD GODFREY, CHRISTOPHER GURNEY, MIKE JOHNSON, PATRICK LENEHAN, CHARLES ROHR, PAUL WUSTRACK |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **For The History Channel / Programming Coordinator** | MICHELE WILCOX |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistants** | ROB HARRINGTON, GAYLEN KOBAYASHI |
-| **Post Coordinator** | TERRENCE HARTWELL |
-| **Post Producer** | TIM KNAUFF |
-| **Produced by** | ACTUALITY PRODUCTIONS, INC., History Television Network Productions |
-| **Producer** | BRUCE NASH |
-| **Production Accountant** | ANTHONY R. REYES |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | ULDIS BALODIS, BRADLEY COMBEST, JOHN KNAPP |
-| **Sound Mixer** | ED THACKER |
-| **Voice Over Coordinator** | JOHN KNAPP |
-| **Written and Produced by** | KRISTINA DJOKIC |
+| **Animation By** | Doug Whitney |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow |
+| **Assistant Post Coordinator** | Jeremiah Dockray |
+| **Camera** | Michael Campbell, Daniel Harb, Jay Kuntz, Peter Levermann, Lon Magdich, Gilbert Prowler, John Santucci, Greg Steinbrecher |
+| **Clearance Coordinators** | Lawrence Givens III, Aaron Zober |
+| **Coordinators** | Boni Osmani, Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Director Of Rights And Clearances** | Katie Del Core |
+| **Edited By** | Motoshi Wakabayashi |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Gere Cannon, Jim Emswiller, Brad Godfrey, Christopher Gurney, Mike Johnson, Patrick Lenehan, Charles Rohr, Paul Wustrack |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistants** | Rob Harrington, Gaylen Kobayashi |
+| **Post Coordinator** | Terrence Hartwell |
+| **Post Producer** | Tim Knauff |
+| **Produced By** | Actuality Productions, Inc., History Television Network Productions |
+| **Producer** | Bruce Nash |
+| **Production Accountant** | Anthony R. Reyes |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Michele Wilcox |
+| **Researchers** | Uldis Balodis, Bradley Combest, John Knapp |
+| **Sound Mixer** | Ed Thacker |
+| **Voice Over Coordinator** | John Knapp |
+| **Written And Produced By** | Kristina Djokic |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00520.md)

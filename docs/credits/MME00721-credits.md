@@ -14,48 +14,46 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **2ND ASSISTANT ACCOUNTANTS** | Samara Choit, Aaliyah Fowler |
-| **ASSISTANT CAMERA / MEDIA MANAGERS** | Elliott Acevedo, Tracy Facelli, Jared Hardy, Joe Moceri, John Pope, Logan Quarles, Jordan Sommerland |
-| **ASSISTANT EDITORS** | Zac Bergerath, Jonathan A. Schwartz, Nicholas Sotera |
-| **ASSOCIATE PRODUCERS** | Malia Marsh, Margaux Moores-Tanvier, Daria Ramirez |
-| **AUDIO MIXER** | Andrew Kay |
-| **CAMERA OPERATORS** | Peter Curulaba, Bill Rubuchu, Glus Torino, Duane Gitschlag |
-| **CO-EXECUTIVE PRODUCER** | Steven C. Lawrence |
-| **COVID COMPLIANCE OFFICERS** | Brittany Agnew, Kasey Allison, Sarah Huff, Allie Leonard, Melissa McCollum, Michelle Polacinski |
-| **DEVELOPMENT PRODUCER** | Keith Malone |
-| **EDITORS** | Ralph Avellino, Sean Grossman, Jeremy Higgins, Peter Iannuccilli |
-| **EXECUTIVE PRODUCER** | Matthew J. Braley |
-| **EXECUTIVE PRODUCERS** | Steve Ascher, Kristy Sabat, Matt Pearl |
-| **FOR HISTORY(R) / EXECUTIVE PRODUCER** | Jim Pasquarella |
-| **FOR HISTORY(R) / PROGRAMMING COORDINATOR** | Celeste Amidon |
-| **FOR HISTORY(R) MUSIC SERVICES** | Jennifer Insogna, Liz Morgan |
-| **FOR THE SIX WEST MEDIA(TM) GROUP / ADMINISTRATIVE ASSISTANT** | Zoe Resnick |
-| **FOR THE SIX WEST MEDIA(TM) GROUP / EXECUTIVE-IN-CHARGE** | Patrice Andrews |
-| **FOR THE SIX WEST MEDIA(TM) GROUP / LINE PRODUCER** | Melissa Ray |
-| **FOR THE SIX WEST MEDIA(TM) GROUP / SUPERVISING PRODUCER** | Allie Breslin |
-| **GRAPHICS** | Monkeyhead, Trick &amp; Mortar |
-| **HOST** | Adam Richman |
-| **LEAD PRODUCTION ACCOUNTANT** | Sophiya Banu |
-| **LINE PRODUCER** | Pamela Wagner |
-| **ONLINE EDITOR AND COLORIST** | Andrew Eatherly |
-| **ONLINE PRODUCER** | Brian Street |
-| **Original series created by** | Bruce Nash |
-| **POST PROD MEDIA OPS TECH** | Howard Chisolm |
-| **POST PRODUCTION FACILITY** | Motion Picture Enterprises, Inc. |
-| **PRODUCED BY** | THE SIX WEST MEDIA(TM) GROUP FOR HISTORY(R) |
-| **PRODUCER** | Adam Richman |
-| **PRODUCERS** | Mark Kobara, Leslie Coffee, Libby Segal, Paul Taggart |
-| **PRODUCTION COORDINATORS** | Nicole Yovin, Jasmine Jean |
-| **PRODUCTION MANAGER** | Shannon Silver |
-| **PRODUCTION OFFICE ASSISTANTS** | Breanne Casucci, Allison Fennik |
-| **SENIOR DIRECTOR, POST PRODUCTION** | Tom Matheu |
-| **STORY PRODUCER** | Myles Sorenson |
-| **SUPERVISING FIELD PRODUCER** | Jon Doolan |
-| **SUPERVISING PRODUCER, POST PRODUCTION** | Mike Giordano |
-| **SVP PRODUCTION OPERATIONS** | Ed Ruggeri |
-| **UTILITY PA** | George Schramm |
-| **VO RECORD** | Coastella Sound |
-| **VP, PRODUCTION MANAGEMENT** | Patricia Paredes Saez |
+| **2Nd Assistant Accountants** | Samara Choit, Aaliyah Fowler |
+| **Administrative Assistant** | Zoe Resnick |
+| **Assistant Editors** | Zac Bergerath, Jonathan A. Schwartz, Nicholas Sotera |
+| **Associate Producers** | Malia Marsh, Margaux Moores-Tanvier, Daria Ramirez |
+| **Audio Mixer** | Andrew Kay |
+| **Camera Operators** | Peter Curulaba, Bill Rubuchu, Glus Torino, Duane Gitschlag |
+| **Co-Executive Producer** | Steven C. Lawrence |
+| **Covid Compliance Officers** | Brittany Agnew, Kasey Allison, Sarah Huff, Allie Leonard, Melissa McCollum, Michelle Polacinski |
+| **Development Producer** | Keith Malone |
+| **Editors** | Ralph Avellino, Sean Grossman, Jeremy Higgins, Peter Iannuccilli |
+| **Executive Producer** | Jim Pasquarella |
+| **Executive Producers** | Steve Ascher, Kristy Sabat, Matt Pearl |
+| **Executive-In-Charge** | Patrice Andrews |
+| **For History(R) Music Services** | Jennifer Insogna, Liz Morgan |
+| **Graphics** | Monkeyhead, Trick &amp; Mortar |
+| **Host** | Adam Richman |
+| **Lead Production Accountant** | Sophiya Banu |
+| **Line Producer** | Pamela Wagner |
+| **Media Managers** | Elliott Acevedo, Tracy Facelli, Jared Hardy, Joe Moceri, John Pope, Logan Quarles, Jordan Sommerland |
+| **Online Editor And Colorist** | Andrew Eatherly |
+| **Online Producer** | Brian Street |
+| **Original Series Created By** | Bruce Nash |
+| **Post Prod Media Ops Tech** | Howard Chisolm |
+| **Post Production Facility** | Motion Picture Enterprises, Inc. |
+| **Produced By** | The Six West Media(tm) Group For History(r) |
+| **Producer** | Adam Richman |
+| **Producers** | Mark Kobara, Leslie Coffee, Libby Segal, Paul Taggart |
+| **Production Coordinators** | Nicole Yovin, Jasmine Jean |
+| **Production Manager** | Shannon Silver |
+| **Production Office Assistants** | Breanne Casucci, Allison Fennik |
+| **Programming Coordinator** | Celeste Amidon |
+| **Senior Director, Post Production** | Tom Matheu |
+| **Story Producer** | Myles Sorenson |
+| **Supervising Field Producer** | Jon Doolan |
+| **Supervising Producer** | Allie Breslin |
+| **Supervising Producer, Post Production** | Mike Giordano |
+| **Svp Production Operations** | Ed Ruggeri |
+| **Utility Pa** | George Schramm |
+| **Vo Record** | Coastella Sound |
+| **Vp, Production Management** | Patricia Paredes Saez |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00721.md)

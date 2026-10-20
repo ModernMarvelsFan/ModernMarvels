@@ -7,48 +7,48 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `ⓒ1993 A&E Television Networks All Rights Reserved`
-* **Production Company:** Greystone Communications, Inc., The History Channel, PATRIOT FILMS, MATCHFRAME VIDEO, SOUND SERVICES, INC., HOLLYWOOD FILM CO., GIRL FRIDAY CO., JOHANNA BERTOLDO DESIGNS
+* **Production Company:** Greystone Communications, Inc., The History Channel, Patriot Films, Matchframe Video, Sound Services, Inc., Hollywood Film Co., Girl Friday Co., Johanna Bertoldo Designs
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **MACHINE GUNS (squeeze panel) / "Machine Guns" Produced by** | ROBERT LIHANI |
-| **MACHINE GUNS (squeeze panel) / Assistant Camera** | STEVEN L. GREEN |
-| **MACHINE GUNS (squeeze panel) / Associate Director** | ROBERT LIHANI |
-| **MACHINE GUNS (squeeze panel) / Camera Operator** | GEORGE STEPHENSON |
-| **MACHINE GUNS (squeeze panel) / Coordinating Producer** | ROBERT BEEMER |
-| **MACHINE GUNS (squeeze panel) / Crane Operator** | JOHN LOVELESS |
-| **MACHINE GUNS (squeeze panel) / Director** | ROBERT KIRK |
-| **MACHINE GUNS (squeeze panel) / Director of Photography** | DONALD M. McCUAIG |
-| **MACHINE GUNS (squeeze panel) / Driver** | BRADY McELROY |
-| **MACHINE GUNS (squeeze panel) / Editorial Consultant** | COL. WALTER J. BOYNE USAF (RET.) FORMER DIRECTOR, NATIONAL AIR &amp; SPACE MUSEUM, PAUL BEAVER PUBLISHER, JAMES DEFENCE WEEKLY, NORMAN POLMAR COLUMNIST AND AUTHOR U.S. NAVAL INSTITUTE |
-| **MACHINE GUNS (squeeze panel) / Editorial Consultants** | MARK LAMBERT EDITOR JANE'S ARMOUR AND ARTILLERY, STEVEN LLANSO SENIOR WEAPONS EDITOR PERISCOPE U.S. NAVAL INSTITUTE MILITARY DATABASE, LIET. GEN. F.J. BROWN U.S. ARMY (RET.) |
-| **MACHINE GUNS (squeeze panel) / Electrian** | DAVID AVERY |
-| **MACHINE GUNS (squeeze panel) / Executive Producer** | CRAIG HAFFNER |
-| **MACHINE GUNS (squeeze panel) / Executive in Charge of Production** | STEVEN LEWIS |
-| **MACHINE GUNS (squeeze panel) / Field Camera** | GORDON HOOVER, G. BOWDON HUNT III, KEN TUOHEY |
-| **MACHINE GUNS (squeeze panel) / Field Engineer** | KEVIN BROWN |
-| **MACHINE GUNS (squeeze panel) / Film Research** | DON HOUGHTALING DoD MOTION MEDIA RECORDS, BONNIE ROWAN NATIONAL ARCHIVES |
-| **MACHINE GUNS (squeeze panel) / Gaffer** | LARRY ROTH |
-| **MACHINE GUNS (squeeze panel) / Graphics** | JOHANNA BERTOLDO DESIGNS |
-| **MACHINE GUNS (squeeze panel) / Grip** | MARK CANE |
-| **MACHINE GUNS (squeeze panel) / Key Grip** | FRED ALBRECHT |
-| **MACHINE GUNS (squeeze panel) / Main Title Design** | JONATHAN MOSER |
-| **MACHINE GUNS (squeeze panel) / Music By** | CHRISTOPHER STONE, RICHARD BAND |
-| **MACHINE GUNS (squeeze panel) / Post Production Audio** | CRAIG PLACHY |
-| **MACHINE GUNS (squeeze panel) / Post Production Services** | MATCHFRAME VIDEO, SOUND SERVICES, INC., HOLLYWOOD FILM CO., GIRL FRIDAY CO., PATRICIA K. CORRY, NIMA SILVA |
-| **MACHINE GUNS (squeeze panel) / Producer in Great Britain** | PAUL BERNARD |
-| **MACHINE GUNS (squeeze panel) / Production Assistants** | CAREY CHRISMAN, PAOLA DI FLORIO |
-| **MACHINE GUNS (squeeze panel) / Production Executive** | DONNA E. LUSITANA |
-| **MACHINE GUNS (squeeze panel) / Production Services by** | PATRIOT FILMS |
-| **MACHINE GUNS (squeeze panel) / Senior Editors** | STEVE POMERANTZ, R.L. SHONTELL |
-| **MACHINE GUNS (squeeze panel) / Senior Producer** | ROBERT KIRK |
-| **MACHINE GUNS (squeeze panel) / Series Producer** | JOHN CORRY |
-| **MACHINE GUNS (squeeze panel) / Sound Mixer** | KEN WILLINGHAM |
-| **MACHINE GUNS (squeeze panel) / Supervising Producer** | ROBERT LIHANI |
-| **MACHINE GUNS (squeeze panel) / Teleprompter** | JERRY BRANCATO |
+| **"Machine Guns" Produced By** | Robert Lihani |
+| **Assistant Camera** | Steven L. Green |
+| **Associate Director** | Robert Lihani |
+| **Camera Operator** | George Stephenson |
+| **Coordinating Producer** | Robert Beemer |
+| **Crane Operator** | John Loveless |
+| **Director** | Robert Kirk |
+| **Director Of Photography** | DONALD M. McCUAIG |
+| **Driver** | BRADY McELROY |
+| **Editorial Consultant** | Col. Walter J. Boyne Usaf (ret.) Former Director, National Air &amp; Space Museum, Paul Beaver Publisher, James Defence Weekly, Norman Polmar Columnist And Author U.S. Naval Institute |
+| **Editorial Consultants** | Mark Lambert Editor Jane'S Armour And Artillery, Steven Llanso Senior Weapons Editor Periscope U.S. Naval Institute Military Database, Liet. Gen. F.J. Brown U.S. Army (ret.) |
+| **Electrian** | David Avery |
+| **Executive In Charge Of Production** | Steven Lewis |
+| **Executive Producer** | Craig Haffner |
+| **Field Camera** | Gordon Hoover, G. Bowdon Hunt III, Ken Tuohey |
+| **Field Engineer** | Kevin Brown |
+| **Film Research** | DON HOUGHTALING DoD MOTION MEDIA RECORDS, Bonnie Rowan National Archives |
+| **Gaffer** | Larry Roth |
+| **Graphics** | Johanna Bertoldo Designs |
+| **Grip** | Mark Cane |
+| **Key Grip** | Fred Albrecht |
+| **Main Title Design** | Jonathan Moser |
+| **Music By** | Christopher Stone, Richard Band |
+| **Post Production Audio** | Craig Plachy |
+| **Post Production Services** | Matchframe Video, Sound Services, Inc., Hollywood Film Co., Girl Friday Co., Patricia K. Corry, Nima Silva |
+| **Producer In Great Britain** | Paul Bernard |
+| **Production Assistants** | Carey Chrisman, Paola Di Florio |
+| **Production Executive** | Donna E. Lusitana |
+| **Production Services By** | Patriot Films |
+| **Senior Editors** | Steve Pomerantz, R.L. Shontell |
+| **Senior Producer** | Robert Kirk |
+| **Series Producer** | John Corry |
+| **Sound Mixer** | Ken Willingham |
+| **Supervising Producer** | Robert Lihani |
+| **Teleprompter** | Jerry Brancato |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00287.md)

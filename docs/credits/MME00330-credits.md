@@ -14,7 +14,7 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Executive Producers** | CRAIG HAFFNER, DONNA E. LUSITANA |
+| **Executive Producers** | Craig Haffner, Donna E. Lusitana |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00330.md)

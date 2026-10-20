@@ -6,46 +6,15 @@
   "studios": [],
   "narrators": [],
   "crew": {
-    "Consulting Producer": [
-      "Henry Schipper"
+    "Animation": [
+      "Glenn Takakjian"
     ],
-    "Edited by": [
-      "Joanne De Tora"
+    "Assistant Editor": [
+      "Kame Stoll"
     ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Music by": [
-      "Alan Ett"
-    ],
-    "Production Manager": [
-      "Linda K. Clark"
-    ],
-    "Post Producer": [
-      "Scott Berkson"
-    ],
-    "Clearance Supervisor": [
-      "Charlotte Carpenter"
-    ],
-    "Clearance Coordinator": [
-      "Katie Del Core"
-    ],
-    "Director of Research": [
-      "Barry Hill"
-    ],
-    "Researchers": [
-      "Kristina Djokic",
-      "Anthony Lacques",
-      "Gloria Morris"
-    ],
-    "Historical Consultant": [
-      "Walter Boyne"
-    ],
-    "Footage Consultant": [
-      "Ted Troll"
+    "Assistant Production Accountants": [
+      "Detricia Meza",
+      "Linda Scribner"
     ],
     "Camera": [
       "Deborah Brown",
@@ -53,62 +22,90 @@
       "John Kavanaugh",
       "Doug Snowden"
     ],
+    "Clearance Coordinator": [
+      "Katie Del Core"
+    ],
+    "Clearance Supervisor": [
+      "Charlotte Carpenter"
+    ],
+    "Consulting Producer": [
+      "Henry Schipper"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Barry Hill"
+    ],
+    "Edited By": [
+      "Joanne De Tora"
+    ],
+    "Executive Producer": [
+      "Charlie Maday"
+    ],
     "Field Audio": [
       "Anthony Breier",
       "Mark Hollensteiner",
       "James Peterson",
       "Keith Sasser"
     ],
-    "Post Production Supervisor": [
-      "Jason Steinberg"
+    "Footage Consultant": [
+      "Ted Troll"
     ],
-    "Post Production Coordinator": [
-      "Gary Reid"
+    "Supervising Producer": [
+      "Beth Dietrich"
     ],
-    "Assistant Editor": [
-      "Kame Stoll"
+    "Historical Consultant": [
+      "Walter Boyne"
     ],
-    "Post Production Assistant": [
-      "Stephen Franklin"
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett"
     ],
     "Online Editor": [
       "David Rex"
     ],
-    "Sound Mixer": [
-      "Paul Ray"
+    "Post Producer": [
+      "Scott Berkson"
     ],
-    "Animation": [
-      "Glenn Takakjian"
+    "Post Production Assistant": [
+      "Stephen Franklin"
     ],
-    "Production Auditor": [
-      "Dani Eslin"
+    "Post Production Coordinator": [
+      "Gary Reid"
     ],
-    "Assistant Production Accountants": [
-      "Detricia Meza",
-      "Linda Scribner"
+    "Post Production Supervisor": [
+      "Jason Steinberg"
     ],
-    "Production Coordinator": [
-      "Kathy Exner"
+    "Producer": [
+      "Bruce Nash"
     ],
     "Production Assistants": [
       "Maryalice R. Aragon",
       "Suni Nivens"
     ],
-    "For The History Channel / Supervising Producer": [
-      "Beth Dietrich"
+    "Production Auditor": [
+      "Dani Eslin"
     ],
-    "For The History Channel / Executive Producer": [
-      "Charlie Maday"
+    "Production Coordinator": [
+      "Kathy Exner"
     ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Production Manager": [
+      "Linda K. Clark"
     ],
-    "Written and Produced by": [
+    "Researchers": [
+      "Kristina Djokic",
+      "Anthony Lacques",
+      "Gloria Morris"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Written And Produced By": [
       "Barry Hill",
       "La Monte Westmoreland"
-    ],
-    "Line Producer": [
-      "Paul Dzilvelis"
     ]
   }
 }

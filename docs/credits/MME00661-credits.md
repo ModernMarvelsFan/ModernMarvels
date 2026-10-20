@@ -17,17 +17,17 @@
 | **Assistant Camera** | Barry Kaiser, Shin Kim |
 | **Assistant Editors** | Adam Kirk, Tabrina Hughes |
 | **Camera** | Doug Baird, Gordy Waterman, George Harrold, Daein Kim |
+| **Colorist** | James Sullivan |
 | **Consulting Producer** | Ann Carroll |
 | **Editors** | Leslie Atkins, Judd Fischer |
 | **Executive Producer** | John Verhoff |
 | **Executive Producers** | Sean Gallagher, Abby Greensfelder |
 | **Field Producer** | Conor McCarthy |
 | **Graphics** | Construct Visual |
-| **Head of Production** | Libby Richman |
+| **Head Of Production** | Libby Richman |
 | **Location Managers** | Jeannette Gallant, Unju Terry Rah |
 | **Music** | Extreme, Audio Networks |
 | **Narrator** | Max Raphael |
-| **Online Editor/Colorist** | James Sullivan |
 | **Post Production Coordinator** | Cameron Young |
 | **Post Production Supervisor** | Liam Monschein |
 | **Producers** | Emre Izat, Kendra Gahagan, Brooke Barrows |

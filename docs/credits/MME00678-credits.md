@@ -8,39 +8,39 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2010 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Additional Editing** | AUSTIN ELSTON, LARA UNDERWOOD |
-| **Additional Field Production** | FRENCH HORWITZ, LEE SCHNEIDER |
-| **Assistant Camera** | MARC SCHREIBMAN |
-| **Assistant Editors** | ADAM KIRK, WANAKHAVI WAKHISI |
-| **Associate Producer** | SARAH ROONEY |
-| **Associate Producers** | ARJUN RAO, AMBER SEYLER, KELLY TUCKER |
-| **Colorist** | JAMES SULLIVAN |
-| **Created by** | BRUCE NASH |
-| **Digitizer** | MARCIA ROBUSTO |
-| **Directors of Photography** | HOSSAM ABOULMAGD, ROB FEATHERSTONE, MATT FRANKLIN, STEPHEN HARRISON, RICHARD NEIL |
-| **Editor** | JUDD FISCHER |
-| **Executive Producers** | SEAN GALLAGHER, ABBY GREENSFELDER, LIBBY RICHMAN |
-| **Field Producers** | CONOR MCCARTHY, MARK YOUNG |
-| **Graphics** | PIXELDUST STUDIOS |
-| **Music** | AUDIO NETWORKS, EXTREME MUSIC, PRODUKT SOUND |
-| **Narrator** | MAX RAPHAEL |
-| **Online Editor** | JAMES SULLIVAN |
-| **Post Production Coordinator** | CAMERON YOUNG |
-| **Post Production Supervisor** | LIAM MONSCHEIN |
-| **Producer** | ANNABELLE HESTER |
-| **Production Accountant** | ROSSANA O'HOP |
-| **Production Coordinator** | TAINESA DAVIS |
-| **Production Manager** | JENNIFER PARTIN |
-| **Researcher** | ANN GRAU DUVALL |
-| **Series Producer** | BRIAN LEONARD |
-| **Sound** | MARK MARIACA, N.G. POHOLCHUK, ROBERT PORTER |
-| **Sound Design** | TAKOMA MEDIA |
+| **Additional Editing** | Austin Elston, Lara Underwood |
+| **Additional Field Production** | French Horwitz, Lee Schneider |
+| **Assistant Camera** | Marc Schreibman |
+| **Assistant Editors** | Adam Kirk, Wanakhavi Wakhisi |
+| **Associate Producer** | Sarah Rooney |
+| **Associate Producers** | Arjun Rao, Amber Seyler, Kelly Tucker |
+| **Colorist** | James Sullivan |
+| **Created By** | Bruce Nash |
+| **Digitizer** | Marcia Robusto |
+| **Directors Of Photography** | Hossam Aboulmagd, Rob Featherstone, Matt Franklin, Stephen Harrison, Richard Neil |
+| **Editor** | Judd Fischer |
+| **Executive Producers** | Sean Gallagher, Abby Greensfelder, Libby Richman |
+| **Field Producers** | Conor McCarthy, Mark Young |
+| **Graphics** | Pixeldust Studios |
+| **Music** | Audio Networks, Extreme Music, Produkt Sound |
+| **Narrator** | Max Raphael |
+| **Online Editor** | James Sullivan |
+| **Post Production Coordinator** | Cameron Young |
+| **Post Production Supervisor** | Liam Monschein |
+| **Producer** | Annabelle Hester |
+| **Production Accountant** | Rossana O'Hop |
+| **Production Coordinator** | Tainesa Davis |
+| **Production Manager** | Jennifer Partin |
+| **Researcher** | Ann Grau Duvall |
+| **Series Producer** | Brian Leonard |
+| **Sound** | Mark Mariaca, N.G. Poholchuk, Robert Porter |
+| **Sound Design** | Takoma Media |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00678.md)

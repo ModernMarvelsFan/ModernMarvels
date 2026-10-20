@@ -7,26 +7,26 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, THE HISTORY CHANNEL
+* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, The History Channel
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | SCOTT BOYER |
-| **Assistant Production Accountant** | LINDA SCRIBNER |
-| **Executive Producer** | CHARLIE MADAY |
-| **Online Editor** | DAVID REX |
-| **Post Production Assistant** | BRIAN VOLK |
-| **Post Production Coordinator** | GARY REID |
-| **Post Production Supervisor** | JASON STEINBERG |
-| **Produced by** | ACTUALITY Productions, Inc. |
-| **Production Assistants** | MARYALICE R. ARAGON, SUNI NIVENS |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Sound Mixer** | PAUL RAY |
-| **Supervising Producer** | BETH DIETRICH |
+| **Animation** | Scott Boyer |
+| **Assistant Production Accountant** | Linda Scribner |
+| **Executive Producer** | Charlie Maday |
+| **Online Editor** | David Rex |
+| **Post Production Assistant** | Brian Volk |
+| **Post Production Coordinator** | Gary Reid |
+| **Post Production Supervisor** | Jason Steinberg |
+| **Produced By** | ACTUALITY Productions, Inc. |
+| **Production Assistants** | Maryalice R. Aragon, Suni Nivens |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Sound Mixer** | Paul Ray |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00152.md)

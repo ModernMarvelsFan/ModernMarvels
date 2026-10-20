@@ -21,9 +21,8 @@
 | **Audio Coordinator** | Derrick McDaniel |
 | **Camera** | Chris Bell, Ed Springer, Ted Horton, John Sorapure |
 | **Clearance Supervisor** | Leslie Anne Clark |
+| **Executive Producer** | Charlie Maday |
 | **Field Audio** | Michael Bidese, Robert Fetzer, Adam Kaplan, Joe Walters |
-| **For The History Channel / Executive Producer** | Charlie Maday |
-| **For The History Channel / Supervising Producer** | Beth Dietrich |
 | **Online Editor** | David Rex |
 | **Post Production Assistant** | Gary Reid |
 | **Post Production Coordinator** | Leanne M. Anaya Reece |
@@ -32,6 +31,7 @@
 | **Production Secretary** | Kathy Exner |
 | **Researchers** | Erik Hietter, Tracy Hood, Julieann Pavesi |
 | **Sound Mixer** | Sam Kaufmann |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00078.md)

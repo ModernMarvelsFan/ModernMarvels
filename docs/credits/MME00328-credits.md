@@ -14,24 +14,23 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation by** | Victor Bornia |
+| **Animation By** | Victor Bornia |
 | **Assistant Accountant** | Dennis Luciani |
 | **Assistant Editors** | Julio C. Perez IV, Eric Sievering |
 | **Associate Producer** | Mai-Ly Nguyen |
 | **Camera** | Dale Hancock, David Hopper, Julio Luzquinos, John Twesten, Liz Watkins, John D. Westenhiser |
 | **Clearance Coordinator** | Susan Wichmann |
 | **Clearance Supervisor** | Katie Del Core |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Anthony Lacques |
-| **Edited by** | Mark S. Andrew |
-| **Executive Producer** | Don Cambou |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Mark S. Andrew |
+| **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Ray Bennett, Dan Desloge, Matt Engle, Derek Johnson, Jeremy C. Zunk |
 | **Field Producer** | Angela Aiello |
-| **For The History Channel / Executive Producer** | Beth Dietrich-Segarra |
 | **Historical Consultant** | Maj. Paul Gillespie Ph.D. |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett Music Group |
-| **Narrated by** | Max Raphael |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | Doug Nolan |
 | **Post Assistant** | Laura Steinhoff |
 | **Post Coordinator** | Danny Kim |
@@ -43,7 +42,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Paul Ray |
 | **Voice Over Coordinator** | Melanie Pipes |
-| **Written and Produced by** | Craig Constantine |
+| **Written And Produced By** | Craig Constantine |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00328.md)

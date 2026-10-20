@@ -15,7 +15,7 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Accountants** | Linda Scribner, April Brown, Sheridan Liu, Diana Stolpe |
-| **Animation by** | Bart Roen |
+| **Animation By** | Bart Roen |
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow |
 | **Assistant Post Coordinator** | Jeremiah Dockray |
 | **Associate Producer** | Nancy Oey |
@@ -23,16 +23,16 @@
 | **Clearance Coordinators** | Lawrence Givens III, Aaron Zober |
 | **Consulting Producer** | Ron Nelson |
 | **Coordinators** | Boni Osmani, Brad Skiles |
-| **Created by** | Bruce Nash |
-| **Directors of Research** | Barry Hill, Allison Boon |
-| **Edited by** | John Bininger, Barney Robinson |
+| **Created By** | Bruce Nash |
+| **Directors Of Research** | Barry Hill, Allison Boon |
+| **Edited By** | John Bininger, Barney Robinson |
 | **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
 | **Field Audio** | Aaron Austin, John V. Davis, John Duffy, David Kane |
 | **Footage Consultant** | Ted Troll |
 | **Historical Consultants** | Thomas X. Grasso, Andy Kitzmann |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett Music Group |
-| **Narrated by** | Max Raphael |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assistants** | Rob Harrington, Gaylen Kobayashi |
 | **Post Coordinator** | Terrence Hartwell |
@@ -42,7 +42,7 @@
 | **Researchers** | Anthony Lacques, Gloria Morris, Uldis Balodis, Bradley Combest, John Knapp |
 | **Sound Mixer** | Ed Thacker |
 | **Voice Over Coordinator** | John Knapp |
-| **Written and Produced by** | Tim Evans, Corrie Kaufman |
+| **Written And Produced By** | Tim Evans, Corrie Kaufman |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00136.md)

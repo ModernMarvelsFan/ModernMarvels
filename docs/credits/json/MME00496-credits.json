@@ -4,131 +4,128 @@
   "year": "2005",
   "copyright": "© 2005 A&E Television Networks All Rights Reserved",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions",
-    "RED GYPSY ANIMATION",
-    "ALAN ETT MUSIC GROUP"
+    "Red Gypsy Animation",
+    "Alan Ett Music Group"
   ],
   "narrators": [
-    "MAX RAPHAEL",
-    "JOHN KNAPP"
+    "Max Raphael",
+    "John Knapp"
   ],
   "crew": {
-    "Edited by": [
-      "ROBERT LATTANZIO"
-    ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Music by": [
-      "ALAN ETT MUSIC GROUP"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "TIM KNAUFF"
-    ],
-    "Clearance Supervisor": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ALLISON BOON"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
     "Accountants": [
-      "APRIL BROWN",
-      "SHERIDAN LIU",
-      "PAULETTE PANTOJA"
+      "April Brown",
+      "Sheridan Liu",
+      "Paulette Pantoja"
     ],
-    "Researchers": [
-      "ULDIS BALODIS",
-      "BRADLEY COMBEST",
-      "JOHN KNAPP"
+    "Animated Maps By": [
+      "Red Gypsy Animation"
     ],
-    "Coordinators": [
-      "BONI OSMANI",
-      "BRAD SKILES"
-    ],
-    "Clearance Coordinators": [
-      "LAWRENCE GIVENS III",
-      "AARON ZOBER"
-    ],
-    "Post Coordinator": [
-      "TERRENCE HARTWELL"
-    ],
-    "Voice Over Coordinator": [
-      "JOHN KNAPP"
+    "Animation By": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
-      "LAURA STEINHOFF",
-      "JOSH BECKHAM"
+      "Laura Steinhoff",
+      "Josh Beckham"
     ],
     "Assistant Post Coordinator": [
-      "ALEXANDER RUBINOW"
+      "Alexander Rubinow"
     ],
-    "Post Assistants": [
-      "GAYLEN KOBAYASHI",
-      "KEVIN McCARTNEY"
+    "Associate Producer": [
+      "David Bradstreet"
     ],
     "Camera": [
-      "GUY DEFEIS",
-      "DOUGLAS GLAZIER",
-      "LON MAGDICH",
-      "RICHARD NEILL",
-      "MIKE R. STEPHEN",
-      "T.J. WILLIAMS"
+      "Guy Defeis",
+      "Douglas Glazier",
+      "Lon Magdich",
+      "Richard Neill",
+      "Mike R. Stephen",
+      "T.J. Williams"
+    ],
+    "Clearance Coordinators": [
+      "Lawrence Givens III",
+      "Aaron Zober"
+    ],
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Coordinators": [
+      "Boni Osmani",
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Edited By": [
+      "Robert Lattanzio"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
     ],
     "Field Audio": [
-      "FRANK COAKLEY",
-      "ANDY REICHSMAN",
-      "HUGH SCOTT",
-      "JORGE SUAREZ",
-      "T.J. WILLIAMS, JR."
-    ],
-    "Online Editor": [
-      "JOHN PRICE"
-    ],
-    "Sound Mixer": [
-      "ED THACKER"
-    ],
-    "Animation by": [
-      "VICTOR BORNIA"
-    ],
-    "Animated Maps by": [
-      "RED GYPSY ANIMATION"
+      "Frank Coakley",
+      "Andy Reichsman",
+      "Hugh Scott",
+      "Jorge Suarez",
+      "T.J. Williams, Jr."
     ],
     "Historical Consultants": [
       "DAVID DAMERY, PhD",
       "MIKE DeSIMONI, SR.",
-      "NICHOLAS KENT"
-    ],
-    "Produced by": [
-      "ACTUALITY PRODUCTIONS, INC.",
-      "History Television Network Productions"
-    ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "MARTIN KENT"
+      "Nicholas Kent"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
     ],
-    "Associate Producer": [
-      "DAVID BRADSTREET"
+    "Music By": [
+      "Alan Ett Music Group"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistants": [
+      "Gaylen Kobayashi",
+      "KEVIN McCARTNEY"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc.",
+      "History Television Network Productions"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researchers": [
+      "Uldis Balodis",
+      "Bradley Combest",
+      "John Knapp"
+    ],
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
+    ],
+    "Written And Produced By": [
+      "Martin Kent"
     ]
   }
 }

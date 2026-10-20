@@ -8,16 +8,16 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Executive Producer** | DON CAMBOU |
-| **Line Producer** | PAUL DZILVELIS |
-| **Narrated by** | MAX RAPHAEL |
-| **Written and Produced by** | ROBERT E. ZIEL |
+| **Executive Producer** | Don Cambou |
+| **Line Producer** | Paul Dzilvelis |
+| **Narrated By** | Max Raphael |
+| **Written And Produced By** | Robert E. Ziel |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00240.md)

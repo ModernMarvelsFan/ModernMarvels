@@ -9,29 +9,29 @@
     "The History Channel"
   ],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "For The History Channel Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "LEE SCHNEIDER"
-    ],
     "Associate Producer": [
-      "NANCY OEY"
-    ],
-    "Line Producer": [
-      "PAUL DZILVELIS"
+      "Nancy Oey"
     ],
     "Consulting Producer": [
-      "HENRY SCHIPPER"
+      "Henry Schipper"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "For The History Channel Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
     ],
     "Narrator": [
-      "MAX RAPHAEL"
+      "Max Raphael"
+    ],
+    "Written And Produced By": [
+      "Lee Schneider"
     ]
   }
 }

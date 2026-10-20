@@ -15,7 +15,7 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Additional Graphics** | Barry Hill, Emily Lau |
-| **Animation and Graphics** | Doug Whitney |
+| **Animation And Graphics** | Doug Whitney |
 | **Assistant Editors** | Stuart Brodlieb, Harris Cohen |
 | **Assistant Production Accountants** | Linda Scribner, Judi Minitello |
 | **Associate Producer** | Tracy Hood |
@@ -24,9 +24,8 @@
 | **Clearance Supervisor** | Amy Trahant |
 | **Created By** | Bruce Nash |
 | **Edited By** | Jack Foster, Bob Potter |
+| **Executive Producer** | Charlie Maday |
 | **Field Audio** | Michael Becker, John Charles Skinner, James Hughes |
-| **For The History Channel / Executive Producer** | Charlie Maday |
-| **For The History Channel / Supervising Producer** | Beth Dietrich |
 | **Line Producer** | Paul Dzilvelis |
 | **Narrated By** | Harlan Saperstein |
 | **Online Editor** | David Rex |
@@ -41,7 +40,7 @@
 | **Researchers** | Barry Hill, Erik Hietter, Emily Lau |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Don Cambou |
-| **Written and Produced by** | Martin Kent |
+| **Written And Produced By** | Martin Kent |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00096.md)

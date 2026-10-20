@@ -6,86 +6,83 @@
   "studios": [],
   "narrators": [],
   "crew": {
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Line Producer": [
-      "PAUL DZILVELIS"
-    ],
-    "Music by": [
-      "ALAN ETT"
-    ],
-    "Production Manager": [
-      "LINDA K. CLARK"
-    ],
-    "Post Production Supervisor": [
-      "SCOTT BERKSON"
-    ],
-    "Clearance Supervisor": [
-      "CHARLOTTE CARPENTER"
-    ],
-    "Clearance Coordinator": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "BARRY HILL"
-    ],
-    "Researchers": [
-      "EMILY LAU",
-      "ANTHONY LACQUES"
-    ],
-    "Historical Consultant": [
-      "DAVID MOORE"
-    ],
-    "Footage Consultant": [
-      "TED TROLL"
-    ],
-    "Camera": [
-      "KARL KNOWLES",
-      "PETER KRAJEWSKI",
-      "DYLAN O'BRIEN",
-      "JON ROHRER"
-    ],
-    "Field Audio": [
-      "SKIP DAVIS",
-      "LEX MATTHEWS"
-    ],
-    "Post Production Coordinator": [
-      "JASON STEINBERG"
+    "Animation": [
+      "Glenn Takakjian"
     ],
     "Assistant Editors": [
-      "HARRIS COHEN",
-      "GARY REID"
-    ],
-    "Post Production Assistant": [
-      "BRIAN VOLK"
-    ],
-    "Online Editor": [
-      "DAVID REX"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Animation": [
-      "GLENN TAKAKJIAN"
-    ],
-    "For The History Channel / Supervising Producer": [
-      "BETH DIETRICH"
-    ],
-    "For The History Channel / Executive Producer": [
-      "CHARLIE MADAY"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "MARK MOHR"
+      "Harris Cohen",
+      "Gary Reid"
     ],
     "Associate Producer": [
-      "BOB PETRELLA"
+      "Bob Petrella"
     ],
-    "Edited by": [
-      "JOANNE DE TORA"
+    "Camera": [
+      "Karl Knowles",
+      "Peter Krajewski",
+      "Dylan O'Brien",
+      "Jon Rohrer"
+    ],
+    "Clearance Coordinator": [
+      "Katie Del Core"
+    ],
+    "Clearance Supervisor": [
+      "Charlotte Carpenter"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Barry Hill"
+    ],
+    "Edited By": [
+      "Joanne De Tora"
+    ],
+    "Executive Producer": [
+      "Charlie Maday"
+    ],
+    "Field Audio": [
+      "Skip Davis",
+      "Lex Matthews"
+    ],
+    "Footage Consultant": [
+      "Ted Troll"
+    ],
+    "Supervising Producer": [
+      "Beth Dietrich"
+    ],
+    "Historical Consultant": [
+      "David Moore"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Production Assistant": [
+      "Brian Volk"
+    ],
+    "Post Production Coordinator": [
+      "Jason Steinberg"
+    ],
+    "Post Production Supervisor": [
+      "Scott Berkson"
+    ],
+    "Production Manager": [
+      "Linda K. Clark"
+    ],
+    "Researchers": [
+      "Emily Lau",
+      "Anthony Lacques"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Written And Produced By": [
+      "Mark Mohr"
     ]
   }
 }

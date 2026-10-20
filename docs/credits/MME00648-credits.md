@@ -29,12 +29,12 @@
 | **Coordinating Producer** | Liv Fidler |
 | **Coordinator** | Maya Sykes |
 | **Created By** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Michael Newton, Scot Kelly |
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | John Verhoff, Jim Pasquarella, Brandy Crawford-Uriu, Steve Ascher, Matt Pearl, Kristy Sabat |
-| **Executive-in-Charge of Production** | Patrice Andrews |
+| **Executive-In-Charge Of Production** | Patrice Andrews |
 | **Field Audio** | Jonathan Burgess, Michael Frederick, Eric Golden, Isaac Halasima, Alan Halcon, Mike Harvey, Carlos Licht, Ian Lomme, James (W) Ess |
 | **Finishing Associate Producer** | RT Smith Jr. |
 | **Graphics** | Ballast U |
@@ -45,7 +45,7 @@
 | **Music** | Alan Ett Music Group, MIBE Music |
 | **Narration** | Lloyd Sherr |
 | **Online Editor** | John Price |
-| **Online Editor and Colorist** | Martin Behm |
+| **Online Editor And Colorist** | Martin Behm |
 | **Online Producer** | Brian Street |
 | **Post Assist** | Cory Zarker |
 | **Post Producer** | Lauren Vance, Tim Knauff |
@@ -53,24 +53,24 @@
 | **Post-Production Coordinator** | Denise McGillicuddy |
 | **Post-Production Facility** | Motion Picture Enterprises, Inc. |
 | **Post-Production Supervisor** | Andrew Moser |
-| **Produced by** | Dennis Lofgren |
+| **Produced By** | Dennis Lofgren |
 | **Producer** | Bruce Nash |
 | **Production Accountant** | Sandra Ta |
+| **Production And Development Assistant** | Zoe Resnick |
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Kathy Williams, Shelia Collins |
-| **Production and Development Assistant** | Zoe Resnick |
 | **Programming Coordinator** | Adam Rotunda |
 | **Researcher** | Sophia Chastain |
-| **SVP, Production Operations** | Ed Russo |
 | **Senior Manager, Rights &amp; Clearances** | Elio Concepcion |
 | **Sound Mixer** | Nozomu Furuya-Hirota |
 | **Supervising Producer** | Ron Nelson |
 | **Supervising Producers** | Allie Breslin |
 | **Supervising Producers, Post-Production** | Helena Greenwald, Mike Giordano |
+| **Svp, Production Operations** | Ed Russo |
 | **Technical Consultant** | International Carwash Association |
-| **VP, Production Management** | Patricia Paredes Saez |
-| **Written and Produced by** | Greg DeHart |
+| **Vp, Production Management** | Patricia Paredes Saez |
+| **Written And Produced By** | Greg DeHart |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00648.md)

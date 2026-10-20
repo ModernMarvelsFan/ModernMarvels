@@ -14,9 +14,9 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | ELLI BAER |
-| **Executive Producer** | BOB JAFFE |
-| **Written and Produced by** | ANN TOLER |
+| **Associate Producer** | Elli Baer |
+| **Executive Producer** | Bob Jaffe |
+| **Written And Produced By** | Ann Toler |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00043.md)

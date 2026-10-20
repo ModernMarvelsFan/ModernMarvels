@@ -5,25 +5,25 @@
   "copyright": "© 2001 A&E Television Networks. All Rights Reserved.",
   "studios": [
     "Hearst Entertainment",
-    "THE HISTORY CHANNEL",
+    "The History Channel",
     "ACTUALITY Productions, Inc."
   ],
   "narrators": [],
   "crew": {
-    "Production Secretary": [
-      "KATHY EXNER"
-    ],
-    "Production Assistant": [
-      "ERIC SCHAEFER"
-    ],
     "Animation": [
-      "DOUG WHITNEY"
-    ],
-    "Supervising Producer": [
-      "BETH DIETRICH"
+      "Doug Whitney"
     ],
     "Executive Producer": [
-      "CHARLIE MADAY"
+      "Charlie Maday"
+    ],
+    "Production Assistant": [
+      "Eric Schaefer"
+    ],
+    "Production Secretary": [
+      "Kathy Exner"
+    ],
+    "Supervising Producer": [
+      "Beth Dietrich"
     ]
   }
 }

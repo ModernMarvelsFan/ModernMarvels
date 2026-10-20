@@ -7,44 +7,43 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1999 & 2005 A&E Television Network All Rights Reserved`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
-* **Narrator:** MAX RAPHAEL, JOHN KNAPP
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions
+* **Narrator:** Max Raphael, John Knapp
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountants** | LINDA SCRIBNER, JUDI MINITELLO, SHERIDAN LIU, LISA CASELLA, PAULETTE PANTOJA |
-| **Animated Maps by** | RED GYPSY ANIMATION |
-| **Animated Stills by** | ADAM GOODWIN |
-| **Animation by** | VICTOR BORNIA |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Associate Producer** | CORRIE KAUFMAN |
-| **Camera** | RUDI DEMUNTER, LUKE ELLIS, DAVID GERDRUM, JOHN KABASAKALIS, MAC KENNY, RAINES SPEIDEL, THEODORE THORNTON |
-| **Clearance Supervisors** | AMY TRAHANT, KATIE DEL CORE |
-| **Consulting Producer** | RON NELSON |
-| **Coordinators** | TERRENCE HARTWELL, BRAD SKILES |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ALLISON BOON |
-| **Edited by** | SEAN DASH, ANDREW CORWIN |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | STEVE CONNOR, ROBERT FETZER, CHERYL GERDRUM, THIBAUT JAMAR, GREG STIDHAM, JUGEN SCHWARZ |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Historical Consultants** | EDWARD VON DER PORTEN, RUDI ROLF |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistants** | GAYLEN KOBAYASHI, KEVIN McCARTNEY |
-| **Post Producer** | TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Production Managers** | LISA BLACKWOOD HOPE, SHELIA COLLINS |
-| **Researchers** | BARRY HILL, ULDIS BALODIS, JOHN KNAPP |
-| **Sound Mixer** | ED THACKER |
-| **Voice Over Coordinator** | JOHN KNAPP |
-| **Written and Produced by** | MATTHEW P. HICKEY, RICHARD JONES |
+| **Accountants** | Linda Scribner, Judi Minitello, Sheridan Liu, Lisa Casella, Paulette Pantoja |
+| **Animated Maps By** | Red Gypsy Animation |
+| **Animated Stills By** | Adam Goodwin |
+| **Animation By** | Victor Bornia |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Associate Producer** | Corrie Kaufman |
+| **Camera** | Rudi Demunter, Luke Ellis, David Gerdrum, John Kabasakalis, Mac Kenny, Raines Speidel, Theodore Thornton |
+| **Clearance Supervisors** | Amy Trahant, Katie Del Core |
+| **Consulting Producer** | Ron Nelson |
+| **Coordinators** | Terrence Hartwell, Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Edited By** | Sean Dash, Andrew Corwin |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Steve Connor, Robert Fetzer, Cheryl Gerdrum, Thibaut Jamar, Greg Stidham, Jugen Schwarz |
+| **Historical Consultants** | Edward Von Der Porten, Rudi Rolf |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistants** | Gaylen Kobayashi, KEVIN McCARTNEY |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Managers** | Lisa Blackwood Hope, Shelia Collins |
+| **Researchers** | Barry Hill, Uldis Balodis, John Knapp |
+| **Sound Mixer** | Ed Thacker |
+| **Voice Over Coordinator** | John Knapp |
+| **Written And Produced By** | Matthew P. Hickey, Richard Jones |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00062.md)

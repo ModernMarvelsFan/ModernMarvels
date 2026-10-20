@@ -8,40 +8,40 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** HARLAN SAPERSTEIN
+* **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | DOUG WHITNEY |
-| **Assistant Editors** | STUART BRODLIEB, HARRIS COHEN |
-| **Assistant Production Accountants** | LINDA SCRIBNER, JUDI MINITELLO, MICHELE EVANS |
-| **Associate Producer** | MATTHEW P. HICKEY |
-| **Audio** | JAMES CIRIGLIANO, LARRY FARKAS, TOMMY FRKOVICH, TERRY MARTON |
-| **Camera Operators** | YAHEL HERZOG, MICHAEL MARTON, MARK MORRIS, RALPH NELSON, STEVE SCANZELLO |
-| **Clearance Coordinator** | KATIE DEL CORE |
-| **Clearance Supervisor** | AMY TRAHANT |
-| **Created by** | BRUCE NASH |
-| **Director Research** | BARRY HILL |
-| **Edited by** | SEAN DASH |
-| **Executive Producer** | DON CAMBOU |
-| **Footage Consultant** | TED TROLL |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT |
-| **Narrated by** | HARLAN SAPERSTEIN |
-| **Online Editor** | DAVID REX |
-| **Post Production Assistants** | GARY REID, BRIAN VOLK |
-| **Post Production Coordinator** | JASON STEINBERG |
-| **Post Production Supervisor** | SCOTT BERKSON |
-| **Producer** | BRUCE NASH |
-| **Production Assistants** | MARYALICE R. ARAGON, GWENDOLYN MURPHY, JAMIE SCHOENBRUN |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Production Manager** | LINDA K. CLARK |
-| **Researcher** | ERIK HIETTER |
-| **Sound Mixer** | PAUL RAY |
-| **Written and Produced by** | JIM CIRIGLIANO |
+| **Animation** | Doug Whitney |
+| **Assistant Editors** | Stuart Brodlieb, Harris Cohen |
+| **Assistant Production Accountants** | Linda Scribner, Judi Minitello, Michele Evans |
+| **Associate Producer** | Matthew P. Hickey |
+| **Audio** | James Cirigliano, Larry Farkas, Tommy Frkovich, Terry Marton |
+| **Camera Operators** | Yahel Herzog, Michael Marton, Mark Morris, Ralph Nelson, Steve Scanzello |
+| **Clearance Coordinator** | Katie Del Core |
+| **Clearance Supervisor** | Amy Trahant |
+| **Created By** | Bruce Nash |
+| **Director Research** | Barry Hill |
+| **Edited By** | Sean Dash |
+| **Executive Producer** | Don Cambou |
+| **Footage Consultant** | Ted Troll |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett |
+| **Narrated By** | Harlan Saperstein |
+| **Online Editor** | David Rex |
+| **Post Production Assistants** | Gary Reid, Brian Volk |
+| **Post Production Coordinator** | Jason Steinberg |
+| **Post Production Supervisor** | Scott Berkson |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Maryalice R. Aragon, Gwendolyn Murphy, Jamie Schoenbrun |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Production Manager** | Linda K. Clark |
+| **Researcher** | Erik Hietter |
+| **Sound Mixer** | Paul Ray |
+| **Written And Produced By** | Jim Cirigliano |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00123.md)

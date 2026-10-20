@@ -8,65 +8,17 @@
     "Max Raphael"
   ],
   "crew": {
-    "Written and Produced by": [
-      "Penn Schofield"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Associate Producer": [
-      "Caleb Roehrig"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Editor": [
-      "Lou LaProcido"
-    ],
-    "Music": [
-      "AMI Music Group"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Production Accountant": [
-      "Sheridan Liu"
-    ],
-    "Coordinator": [
-      "Maya Sykes"
-    ],
-    "Clearance Coordinator": [
-      "Kiana Moore"
-    ],
-    "Researcher": [
-      "Joshua Janiak"
+    "Animation": [
+      "Glenn Takakjian"
     ],
     "Assistant Editor": [
       "Alexander Rubinow"
     ],
-    "Post Assist": [
-      "Cory Parker"
+    "Associate Producer": [
+      "Caleb Roehrig"
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
@@ -81,6 +33,27 @@
       "Matt Mayes",
       "Charles Walter"
     ],
+    "Clearance Coordinator": [
+      "Kiana Moore"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Steve Brown",
       "Frank Collins",
@@ -91,17 +64,44 @@
       "Jerry Wheat",
       "Paul Wustrack"
     ],
+    "Music": [
+      "AMI Music Group"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
     "Online Editor": [
       "John Price"
     ],
-    "Animation": [
-      "Glenn Takakjian"
+    "Post Assist": [
+      "Cory Parker"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Sheridan Liu"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Joshua Janiak"
     ],
     "Sound Mixer": [
       "Erik Valenzuela"
     ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Supervising Producer": [
+      "Ron Nelson"
     ],
     "Technical Consultants": [
       "American Society of Civil Engineers",
@@ -111,8 +111,8 @@
       "Hinkley Center for Solid & Hazardous Waste Management",
       "Naval Research Laboratory"
     ],
-    "Executive Producer": [
-      "Don Cambou"
+    "Written And Produced By": [
+      "Penn Schofield"
     ]
   }
 }

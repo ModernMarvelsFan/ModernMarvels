@@ -4,111 +4,108 @@
   "year": "2006",
   "copyright": "© 2006 A&E Television Networks All Rights Reserved",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions",
     "A&E Television Networks"
   ],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "TIM KNAUFF"
-    ],
-    "Director of Rights and Clearances": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ALLISON BOON"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
-    "Coordinator": [
-      "BRAD SKILES"
-    ],
-    "Post Coordinator": [
-      "TERRENCE HARTWELL"
-    ],
-    "Clearance Coordinator": [
-      "AARON ZOBER"
+    "Animation By": [
+      "Glenn Takakjian"
     ],
     "Assistant Editors": [
-      "LAURA STEINHOFF",
-      "JOSH BECKHAM",
-      "ALEXANDER RUBINOW"
+      "Laura Steinhoff",
+      "Josh Beckham",
+      "Alexander Rubinow"
     ],
     "Assistant Post Coordinator": [
-      "GAYLEN KOBAYASHI"
+      "Gaylen Kobayashi"
     ],
     "Camera": [
-      "PAUL DOUGHERTY",
-      "JIMMY GARCIA",
-      "TOMAS HEJDA",
-      "PATRICK LENEHAN",
-      "LON MAGDICH",
-      "ADAM SAMPSON",
-      "LARS SCHWETJE",
-      "ROBERT SHENISE",
-      "GREG STEINBRECHER"
+      "Paul Dougherty",
+      "Jimmy Garcia",
+      "Tomas Hejda",
+      "Patrick Lenehan",
+      "Lon Magdich",
+      "Adam Sampson",
+      "Lars Schwetje",
+      "Robert Shenise",
+      "Greg Steinbrecher"
+    ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Director Of Rights And Clearances": [
+      "Katie Del Core"
     ],
     "Field Audio": [
-      "MICHAEL BORMAN",
-      "ED FRITZ",
-      "JEFFREY KNUDSEN",
-      "THOM STATON",
-      "CHRIS TRONT",
-      "MICHAEL WHELAN"
+      "Michael Borman",
+      "Ed Fritz",
+      "Jeffrey Knudsen",
+      "Thom Staton",
+      "Chris Tront",
+      "Michael Whelan"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Programming Coordinator": [
+      "Michele Wilcox"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Motoshi Wakabayashi"
+    ],
+    "Music By": [
+      "Guy Thomas"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Written And Produced By": [
+      "Beata Ziel"
     ],
     "Online Editor": [
-      "JOHN PRICE"
+      "John Price"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
     ],
     "Sound Mixer": [
-      "ERIK VALENZUELA"
-    ],
-    "Animation by": [
-      "GLENN TAKAKJIAN"
+      "Erik Valenzuela"
     ],
     "Technical Consultants": [
-      "EIKOS, INC.",
-      "HEWLETT-PACKARD",
-      "ABIGAIL QUANDT",
-      "SUN CHEMICAL",
-      "UNITED STATES SECRET SERVICE",
+      "Eikos, Inc.",
+      "Hewlett-Packard",
+      "Abigail Quandt",
+      "Sun Chemical",
+      "United States Secret Service",
       "PHILIP WALLIS, PhD"
-    ],
-    "For The History Channel / Programming Coordinator": [
-      "MICHELE WILCOX"
-    ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Modern Marvels / INK / Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Modern Marvels / INK / Written and Produced by": [
-      "BEATA ZIEL"
-    ],
-    "Modern Marvels / INK / Production Executive": [
-      "PAUL DZILVELIS"
-    ],
-    "Modern Marvels / INK / Edited by": [
-      "MOTOSHI WAKABAYASHI"
-    ],
-    "Modern Marvels / INK / Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Modern Marvels / INK / Music by": [
-      "GUY THOMAS"
-    ],
-    "Modern Marvels / INK / Producer": [
-      "BRUCE NASH"
-    ],
-    "Modern Marvels / INK / Created by": [
-      "BRUCE NASH"
     ]
   }
 }

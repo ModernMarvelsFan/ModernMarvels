@@ -11,29 +11,14 @@
     "Max Raphael"
   ],
   "crew": {
-    "Director of Clearance": [
-      "Katie Del Core"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
-    "Coordinator": [
-      "Brad Skiles"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Research": [
-      "Allison Boon"
+    "Animation": [
+      "Doug Whitney"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -41,11 +26,11 @@
       "Alexander Rubinow",
       "Jeremy Segal"
     ],
+    "Associate Producer": [
+      "Allison Boon"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "James Graham"
     ],
     "Camera": [
       "Bryan Baird",
@@ -57,6 +42,27 @@
       "Adam Sampson",
       "Lars Schwetje"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Katie Del Core"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Nancie Araki",
       "Roddy Bielloch",
@@ -67,61 +73,55 @@
       "Adrian Sam",
       "Andy Snyder"
     ],
-    "Online Editor": [
-      "Sarah Steele"
-    ],
-    "Animation": [
-      "Doug Whitney"
-    ],
-    "Sound Mixer": [
-      "Erik Valenzuela"
-    ],
-    "Animated Stills": [
-      "Adam Goodwin"
-    ],
-    "Production Assistant": [
-      "Eugene F. O'Neill"
-    ],
-    "For The History Channel / Programming Coordinators": [
-      "Adam Rosante",
-      "Michele Wilcox"
-    ],
-    "For The History Channel / Executive Producers": [
+    "Executive Producers": [
       "Beth Dietrich-Segarra",
       "Michael Stiller"
     ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Jeff Cole"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Associate Producer": [
-      "Allison Boon"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Editor": [
-      "Lou LaProcido"
+    "Programming Coordinators": [
+      "Adam Rosante",
+      "Michele Wilcox"
     ],
     "Music": [
       "Alan Ett Music Group"
     ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "Sarah Steele"
+    ],
+    "Post Assist": [
+      "James Graham"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
     "Producer": [
       "Bruce Nash"
+    ],
+    "Production Assistant": [
+      "Eugene F. O'Neill"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
     ],
     "Production Manager": [
       "Shelia Collins"
     ],
-    "Created By": [
-      "Bruce Nash"
+    "Research": [
+      "Allison Boon"
     ],
-    "Post Producer": [
-      "Tim Knauff"
+    "Sound Mixer": [
+      "Erik Valenzuela"
+    ],
+    "Written And Produced By": [
+      "Jeff Cole"
     ]
   }
 }

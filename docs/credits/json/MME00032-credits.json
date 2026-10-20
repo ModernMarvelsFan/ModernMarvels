@@ -4,111 +4,108 @@
   "year": "1996",
   "copyright": "© 2006 A&E Television Networks All Rights Reserved",
   "studios": [
-    "ACTUALITY PRODUCTIONS, INC.",
+    "Actuality Productions, Inc.",
     "History Television Network Productions",
-    "FLYINGBLUE STUDIO",
+    "Flyingblue Studio",
     "A&E Television Networks"
   ],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "Modern Marvels / THE TELEPHONE / Edited by": [
-      "MARCELO LOPES"
+    "Animated Maps By": [
+      "Flyingblue Studio"
     ],
-    "Modern Marvels / THE TELEPHONE / Narrated by": [
-      "MAX RAPHAEL"
+    "Animated Photos And Stills By": [
+      "Adam Goodwin"
     ],
-    "Modern Marvels / THE TELEPHONE / Music by": [
-      "GUY THOMAS"
-    ],
-    "Modern Marvels / THE TELEPHONE / Producer": [
-      "BRUCE NASH"
-    ],
-    "Modern Marvels / THE TELEPHONE / Created by": [
-      "BRUCE NASH"
-    ],
-    "Production Manager": [
-      "SHELIA COLLINS"
-    ],
-    "Post Producer": [
-      "TIM KNAUFF"
-    ],
-    "Director of Rights and Clearances": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "ALLISON BOON"
-    ],
-    "Production Controller": [
-      "DANI ESLIN"
-    ],
-    "Coordinator": [
-      "BRAD SKILES"
-    ],
-    "Post Coordinator": [
-      "TERRENCE HARTWELL"
-    ],
-    "Clearance Coordinator": [
-      "AARON ZOBER"
+    "Animation By": [
+      "Glenn Takakjian"
     ],
     "Assistant Editors": [
-      "LAURA STEINHOFF",
-      "JOSH BECKHAM",
-      "ALEXANDER RUBINOW"
+      "Laura Steinhoff",
+      "Josh Beckham",
+      "Alexander Rubinow"
     ],
     "Assistant Post Coordinator": [
-      "GAYLEN KOBAYASHI"
+      "Gaylen Kobayashi"
+    ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Brad Skiles"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Director Of Rights And Clearances": [
+      "Katie Del Core"
     ],
     "Field Audio": [
-      "SEAN DEMERS",
-      "DOUG DUNDERDALE",
-      "ED FRITZ",
-      "DENNIS HAMLIN",
-      "MIKE JOHNSON",
-      "FRANZ MOORE",
-      "CHARLES TOMARAS"
+      "Sean Demers",
+      "Doug Dunderdale",
+      "Ed Fritz",
+      "Dennis Hamlin",
+      "Mike Johnson",
+      "Franz Moore",
+      "Charles Tomaras"
     ],
-    "Online Editor": [
-      "JOHN PRICE"
+    "Executive Producer": [
+      "Don Cambou"
     ],
-    "Sound Mixer": [
-      "MARK JENSEN"
-    ],
-    "Animation by": [
-      "GLENN TAKAKJIAN"
-    ],
-    "Animated Maps by": [
-      "FLYINGBLUE STUDIO"
-    ],
-    "Animated Photos and Stills by": [
-      "ADAM GOODWIN"
+    "Programming Coordinator": [
+      "Michele Wilcox"
     ],
     "Historical Consultants": [
-      "JOHN BRITTON",
-      "WILLIAM CAUGHLIN",
-      "BLAIR KLEIN"
+      "John Britton",
+      "William Caughlin",
+      "Blair Klein"
     ],
-    "Produced by": [
-      "ACTUALITY PRODUCTIONS, INC."
+    "Associate Producer": [
+      "Mindy Pomper-Johnson"
     ],
-    "For The History Channel / Programming Coordinator": [
-      "MICHELE WILCOX"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
+    "Edited By": [
+      "Marcelo Lopes"
     ],
-    "Modern Marvels / THE TELEPHONE / Executive Producer": [
-      "DON CAMBOU"
+    "Music By": [
+      "Guy Thomas"
     ],
-    "Modern Marvels / THE TELEPHONE / Written and Produced by": [
-      "DAVID RAJTER"
+    "Narrated By": [
+      "Max Raphael"
     ],
-    "Modern Marvels / THE TELEPHONE / Production Executive": [
-      "PAUL DZILVELIS"
+    "Producer": [
+      "Bruce Nash"
     ],
-    "Modern Marvels / THE TELEPHONE / Associate Producer": [
-      "MINDY POMPER-JOHNSON"
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Written And Produced By": [
+      "David Rajter"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc."
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
     ]
   }
 }

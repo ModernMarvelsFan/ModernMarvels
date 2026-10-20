@@ -4,98 +4,95 @@
   "year": "1999",
   "copyright": "© 1999 A&E TELEVISION NETWORKS ALL RIGHTS RESERVED",
   "studios": [
-    "THE HISTORY CHANNEL"
+    "The History Channel"
   ],
   "narrators": [
-    "HARLAN SAPERSTEIN"
+    "Harlan Saperstein"
   ],
   "crew": {
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Line Producer": [
-      "PAUL DZILVELIS"
-    ],
-    "Narrated by": [
-      "HARLAN SAPERSTEIN"
-    ],
-    "Music by": [
-      "ALAN ETT"
-    ],
-    "Production Manager": [
-      "LINDA CLARK"
-    ],
-    "Post Production Supervisor": [
-      "SCOTT BERKSON"
-    ],
-    "Clearance Supervisor": [
-      "AMY TRAHANT"
-    ],
-    "Researcher": [
-      "BARRY HILL"
-    ],
-    "Field Audio": [
-      "ALEXANDRA BALTARZUK",
-      "ROBERT FETZER",
-      "BRUCE THOMPSON"
-    ],
-    "Post Production Coordinator": [
-      "JASON STEINBERG"
+    "Animation": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
-      "STUART BRODLIEB",
-      "HARRIS COHEN"
-    ],
-    "Post Production Assistant": [
-      "GARY REID"
-    ],
-    "Online Editor": [
-      "DAVID REX"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Animation": [
-      "VICTOR BORNIA"
-    ],
-    "Graphics": [
-      "BARRY HILL"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
+      "Stuart Brodlieb",
+      "Harris Cohen"
     ],
     "Assistant Production Accountants": [
-      "LINDA SCRIBNER",
-      "JUDI MINITELLO"
-    ],
-    "Production Coordinator": [
-      "KATHY EXNER"
-    ],
-    "Production Assistants": [
-      "MARYALICE R. ARAGON",
-      "GWENDOLYN MURPHY",
-      "BRIAN VOLK"
-    ],
-    "Footage Consultant": [
-      "TED TROLL"
-    ],
-    "For The History Channel / Supervising Producer": [
-      "BETH DIETRICH"
-    ],
-    "For The History Channel / Executive Producer": [
-      "CHARLIE MADAY"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "NOAH MOROWITZ"
+      "Linda Scribner",
+      "Judi Minitello"
     ],
     "Associate Producer": [
-      "HOLLY A. MURDOCH"
+      "Holly A. Murdoch"
+    ],
+    "Clearance Supervisor": [
+      "Amy Trahant"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Executive Producer": [
+      "Charlie Maday"
+    ],
+    "Field Audio": [
+      "Alexandra Baltarzuk",
+      "Robert Fetzer",
+      "Bruce Thompson"
+    ],
+    "Footage Consultant": [
+      "Ted Troll"
+    ],
+    "Supervising Producer": [
+      "Beth Dietrich"
+    ],
+    "Graphics": [
+      "Barry Hill"
+    ],
+    "Line Producer": [
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett"
+    ],
+    "Narrated By": [
+      "Harlan Saperstein"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Production Assistant": [
+      "Gary Reid"
+    ],
+    "Post Production Coordinator": [
+      "Jason Steinberg"
+    ],
+    "Post Production Supervisor": [
+      "Scott Berkson"
     ],
     "Producer": [
-      "BRUCE NASH"
+      "Bruce Nash"
+    ],
+    "Production Assistants": [
+      "Maryalice R. Aragon",
+      "Gwendolyn Murphy",
+      "Brian Volk"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Kathy Exner"
+    ],
+    "Production Manager": [
+      "Linda Clark"
+    ],
+    "Researcher": [
+      "Barry Hill"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Written And Produced By": [
+      "Noah Morowitz"
     ]
   }
 }

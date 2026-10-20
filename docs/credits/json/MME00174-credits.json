@@ -4,61 +4,58 @@
   "year": "2001",
   "copyright": "©2001 A&E Television Networks All Rights Reserved",
   "studios": [
-    "ACTUALITY PRODUCTIONS",
+    "Actuality Productions",
     "Hearst Entertainment"
   ],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "For The History Channel / Executive Producer": [
-      "BETH DIETRICH-SEGARRA"
-    ],
-    "Consulting Producer": [
-      "HENRY SCHIPPER"
-    ],
-    "Narrated by": [
-      "MAX RAPHAEL"
-    ],
-    "Edited by": [
-      "ROBBIE PARAMOR"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Music by": [
-      "ALAN ETT"
-    ],
-    "Production Manager": [
-      "LINDA K. CLARK"
-    ],
-    "Post Producer": [
-      "SCOTT BERKSON"
-    ],
-    "Clearance Supervisor": [
-      "KATIE DEL CORE"
+    "Associate Producers": [
+      "Ansley Bell",
+      "Eric Lindstrom"
     ],
     "Clearance Assistant": [
-      "BARBARA STRENG"
+      "Barbara Streng"
     ],
-    "Director of Research": [
-      "HILDIE KATIBAH"
+    "Clearance Supervisor": [
+      "Katie Del Core"
+    ],
+    "Consulting Producer": [
+      "Henry Schipper"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Research": [
+      "Hildie Katibah"
+    ],
+    "Edited By": [
+      "Robbie Paramor"
     ],
     "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "FRED PEABODY"
-    ],
-    "Associate Producers": [
-      "ANSLEY BELL",
-      "ERIC LINDSTROM"
+      "Beth Dietrich-Segarra"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
+    ],
+    "Music By": [
+      "Alan Ett"
+    ],
+    "Narrated By": [
+      "Max Raphael"
+    ],
+    "Post Producer": [
+      "Scott Berkson"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Manager": [
+      "Linda K. Clark"
+    ],
+    "Written And Produced By": [
+      "Fred Peabody"
     ]
   }
 }

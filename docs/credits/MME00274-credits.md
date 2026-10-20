@@ -7,43 +7,43 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC.
-* **Narrator:** BEATA GENIN, MAX RAPHAEL
+* **Production Company:** Actuality Productions, Inc.
+* **Narrator:** Beata Genin, Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | VICTOR BORNIA |
-| **Assistant Editor** | SCOTT R. MARTIN |
-| **Assistant Production Accountants** | LINDA SCRIBNER, DENNIS LUCIANI |
-| **Camera** | STUART AULL, SCOTT BELL, STEVE BRENZEL, COLE BUSCHE, SCOTT DOUGLAS, RANDALL MCKENZIE, TOM PAKULSKI |
-| **Clearance Assistant** | GABE MARTINEZ |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | HILDIE KATIBAH |
-| **Edited by** | JASON STEINBERG |
-| **Executive Producer** | BETH DIETRICH-SEGARRA, DON CAMBOU |
-| **Field Audio** | CHAD ANDERSON, MAUREEN AULL, JEFF COLON, GARY J. PEARSON, LAWRENCE ROGERS, MARCEL SCHAAL |
-| **Footage Consultant** | TED TROLL |
-| **Historical Consultant** | STAN COHEN |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT |
-| **Narrator** | MAX RAPHAEL |
-| **Online Editor** | TIM DORNAN |
-| **PRODUCED BY** | ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL |
-| **Post Production Assistant** | LAURA STEINHOFF |
-| **Post Production Coordinator** | DANNY KIM |
-| **Post Production Manager** | GARY REID |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | DAVID FALCIANI |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | JAMES WISER |
-| **Production Manager** | KATHLENE EXNER |
-| **Researcher/ Voice Over Coordinator** | BEATA GENIN |
-| **Sound Mixer** | PAUL RAY |
-| **Still Photographer** | KEITH L. POPE |
-| **Written and Produced by** | LA MONTE WESTMORELAND |
+| **Animation** | Victor Bornia |
+| **Assistant Editor** | Scott R. Martin |
+| **Assistant Production Accountants** | Linda Scribner, Dennis Luciani |
+| **Camera** | Stuart Aull, Scott Bell, Steve Brenzel, Cole Busche, Scott Douglas, Randall McKenzie, Tom Pakulski |
+| **Clearance Assistant** | Gabe Martinez |
+| **Clearance Supervisor** | Katie Del Core |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Hildie Katibah |
+| **Edited By** | Jason Steinberg |
+| **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
+| **Field Audio** | Chad Anderson, Maureen Aull, Jeff Colon, Gary J. Pearson, Lawrence Rogers, Marcel Schaal |
+| **Footage Consultant** | Ted Troll |
+| **Historical Consultant** | Stan Cohen |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett |
+| **Narrator** | Max Raphael |
+| **Online Editor** | Tim Dornan |
+| **Post Production Assistant** | Laura Steinhoff |
+| **Post Production Coordinator** | Danny Kim |
+| **Post Production Manager** | Gary Reid |
+| **Produced By** | ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | David Falciani |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | James Wiser |
+| **Production Manager** | Kathlene Exner |
+| **Sound Mixer** | Paul Ray |
+| **Still Photographer** | Keith L. Pope |
+| **Voice Over Coordinator** | Beata Genin |
+| **Written And Produced By** | La Monte Westmoreland |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00274.md)

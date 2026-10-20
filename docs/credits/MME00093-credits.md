@@ -8,28 +8,28 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment
-* **Narrator:** HARLAN SAPERSTEIN
+* **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | MATTHEW P. HICKEY |
-| **Camera Operators** | PAT CLARK, DAVID GAINES, SCOTT McCLENNEN, RICH RANEY, TED THORNTON |
-| **Clearance Coordinator** | RANDY PITLER |
-| **Clearance Supervisor** | AMY TRAHANT |
-| **Created by** | BRUCE NASH |
-| **Edited by** | ROBERT POTTER |
-| **Field Audio** | BOB BAUMANN, PETER LUCAS, PETE NUBILE, SCOTT RIGGAN, WARREN WOODS |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT |
-| **Narrated by** | HARLAN SAPERSTEIN |
-| **Post Production Supervisor** | SCOTT BERKSON |
-| **Producer** | BRUCE NASH |
-| **Production Manager** | LISA BLACKWOOD HOPE |
-| **Researchers** | ERIK HIETTER, EMILY LAU |
-| **Supervising Producer** | DON CAMBOU |
-| **Written and Produced by** | JOANNE FISH |
+| **Associate Producer** | Matthew P. Hickey |
+| **Camera Operators** | Pat Clark, David Gaines, SCOTT McCLENNEN, Rich Raney, Ted Thornton |
+| **Clearance Coordinator** | Randy Pitler |
+| **Clearance Supervisor** | Amy Trahant |
+| **Created By** | Bruce Nash |
+| **Edited By** | Robert Potter |
+| **Field Audio** | Bob Baumann, Peter Lucas, Pete Nubile, Scott Riggan, Warren Woods |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett |
+| **Narrated By** | Harlan Saperstein |
+| **Post Production Supervisor** | Scott Berkson |
+| **Producer** | Bruce Nash |
+| **Production Manager** | Lisa Blackwood Hope |
+| **Researchers** | Erik Hietter, Emily Lau |
+| **Supervising Producer** | Don Cambou |
+| **Written And Produced By** | Joanne Fish |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00093.md)

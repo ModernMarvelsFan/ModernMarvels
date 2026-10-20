@@ -6,93 +6,90 @@
   "studios": [],
   "narrators": [],
   "crew": {
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Music by": [
-      "ALAN ETT"
-    ],
-    "Production Manager": [
-      "LINDA K. CLARK"
-    ],
-    "Post Producer": [
-      "SCOTT BERKSON"
-    ],
-    "Clearance Supervisor": [
-      "CHARLOTTE CARPENTER"
-    ],
-    "Clearance Coordinator": [
-      "KATIE DEL CORE"
-    ],
-    "Director of Research": [
-      "BARRY HILL"
-    ],
-    "Researchers": [
-      "ANTHONY LACQUES",
-      "GLORIA MORRIS"
-    ],
-    "Footage Consultant": [
-      "TED TROLL"
-    ],
-    "Camera": [
-      "SHAUN DONAHUE",
-      "JAMES P. GRIBBINS",
-      "BILL HITCHCOCK",
-      "DYLAN O'BRIEN"
-    ],
-    "Field Audio": [
-      "TODD HUMPHRIES",
-      "MIKE KIMBALL",
-      "JOHN WICHMAN"
-    ],
-    "Post Production Supervisor": [
-      "JASON STEINBERG"
-    ],
-    "Post Production Coordinator": [
-      "GARY REID"
-    ],
-    "Post Production Assistant": [
-      "BRIAN VOLK"
-    ],
-    "Online Editor": [
-      "DAVID REX"
-    ],
-    "Sound Mixer": [
-      "MATT GRUBER"
-    ],
     "Animation": [
-      "GLENN TAKAKJIAN"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
+      "Glenn Takakjian"
     ],
     "Assistant Production Accountant": [
-      "LINDA SCRIBNER"
+      "Linda Scribner"
     ],
-    "Production Coordinator": [
-      "KATHY EXNER"
+    "Camera": [
+      "Shaun Donahue",
+      "James P. Gribbins",
+      "Bill Hitchcock",
+      "Dylan O'Brien"
     ],
-    "Production Assistants": [
-      "MARYALICE R. ARAGON",
-      "SUNI NIVENS"
+    "Clearance Coordinator": [
+      "Katie Del Core"
     ],
-    "For The History Channel / Supervising Producer": [
-      "BETH DIETRICH"
+    "Clearance Supervisor": [
+      "Charlotte Carpenter"
     ],
-    "For The History Channel / Executive Producer": [
-      "CHARLIE MADAY"
+    "Director Of Research": [
+      "Barry Hill"
+    ],
+    "Edited By": [
+      "Sean Dash"
     ],
     "Executive Producer": [
-      "DON CAMBOU"
+      "Charlie Maday"
     ],
-    "Written and Produced by": [
-      "MATTHEW P. HICKEY"
+    "Field Audio": [
+      "Todd Humphries",
+      "Mike Kimball",
+      "John Wichman"
+    ],
+    "Footage Consultant": [
+      "Ted Troll"
+    ],
+    "Supervising Producer": [
+      "Beth Dietrich"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
     ],
-    "Edited by": [
-      "SEAN DASH"
+    "Music By": [
+      "Alan Ett"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Producer": [
+      "Scott Berkson"
+    ],
+    "Post Production Assistant": [
+      "Brian Volk"
+    ],
+    "Post Production Coordinator": [
+      "Gary Reid"
+    ],
+    "Post Production Supervisor": [
+      "Jason Steinberg"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistants": [
+      "Maryalice R. Aragon",
+      "Suni Nivens"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Kathy Exner"
+    ],
+    "Production Manager": [
+      "Linda K. Clark"
+    ],
+    "Researchers": [
+      "Anthony Lacques",
+      "Gloria Morris"
+    ],
+    "Sound Mixer": [
+      "Matt Gruber"
+    ],
+    "Written And Produced By": [
+      "Matthew P. Hickey"
     ]
   }
 }

@@ -14,34 +14,33 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **ANIMATION BY** | Victor Bornia |
-| **ASSISTANT ACCOUNTANT** | Dennis Luciani |
-| **ASSISTANT EDITORS** | Julio C. Perez IV, Eric Sievering |
-| **CAMERA** | John Davis, Chas Isenhart, Peter Krajewski, Tom Pakulski, Nathan Smith |
-| **CLEARANCE COORDINATOR** | Susan Wichmann |
-| **CLEARANCE SUPERVISOR** | Katie Del Core |
-| **CREATED BY** | Bruce Nash |
-| **DIRECTOR OF RESEARCH** | Anthony Lacques |
-| **EDITED BY** | Pamela Malouf |
-| **EXECUTIVE PRODUCER** | Don Cambou |
-| **FIELD AUDIO** | Gregg Hinnen, Jeff McGall, Dino Quaglietta, Ramsey Tripp |
-| **FOR THE HISTORY CHANNEL / EXECUTIVE PRODUCER** | Beth Dietrich-Segarra |
-| **HISTORICAL CONSULTANTS** | Capt. Rick Hepburn, U.S. Navy (Ret), P.E., Nathan R. Lipfert, John Tuttle, Thomas R. Wilcox, Jr. |
-| **LINE PRODUCER** | Paul Dzilvelis |
-| **MUSIC BY** | Alan Ett Music Group |
-| **NARRATED BY** | Max Raphael |
-| **ONLINE EDITOR** | Doug Nolan |
-| **POST ASSISTANT** | Laura Steinhoff |
-| **POST COORDINATOR** | Danny Kim |
-| **POST PRODUCTION MANAGER** | Gary Reid |
-| **PRODUCER** | Bruce Nash |
-| **PRODUCTION ASSISTANT** | Rosalyn McVay |
-| **PRODUCTION AUDITOR** | Dani Eslin |
-| **PRODUCTION COORDINATOR** | James Wiser |
-| **PRODUCTION MANAGER** | Shelia Collins |
-| **SOUND MIXER** | Paul Ray |
-| **VOICE OVER COORDINATOR** | Melanie Pipes |
-| **WRITTEN AND PRODUCED BY** | Robert E. Ziel |
+| **Animation By** | Victor Bornia |
+| **Assistant Accountant** | Dennis Luciani |
+| **Assistant Editors** | Julio C. Perez IV, Eric Sievering |
+| **Camera** | John Davis, Chas Isenhart, Peter Krajewski, Tom Pakulski, Nathan Smith |
+| **Clearance Coordinator** | Susan Wichmann |
+| **Clearance Supervisor** | Katie Del Core |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Pamela Malouf |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Gregg Hinnen, Jeff McGall, Dino Quaglietta, Ramsey Tripp |
+| **Historical Consultants** | Capt. Rick Hepburn, U.S. Navy (Ret), P.E., Nathan R. Lipfert, John Tuttle, Thomas R. Wilcox, Jr. |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | Doug Nolan |
+| **Post Assistant** | Laura Steinhoff |
+| **Post Coordinator** | Danny Kim |
+| **Post Production Manager** | Gary Reid |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Rosalyn McVay |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | James Wiser |
+| **Production Manager** | Shelia Collins |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Melanie Pipes |
+| **Written And Produced By** | Robert E. Ziel |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00338.md)

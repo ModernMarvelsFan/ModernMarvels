@@ -11,65 +11,19 @@
     "Max Raphael"
   ],
   "crew": {
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "W. Scott Goldie"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Editor": [
-      "Robert Lattanzio"
-    ],
-    "Music": [
-      "Alan Ett Music Group"
-    ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Allison Boon"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Coordinators": [
-      "Brad Skiles",
-      "Maya Sykes"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
+    "Animation": [
+      "Crazybridge Studios"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
       "Josh Beckham",
       "Alexander Rubinow"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
@@ -84,22 +38,68 @@
       "Lon Magdich",
       "Jim Petit"
     ],
-    "Online Editor": [
-      "John Price"
+    "Clearance Coordinator": [
+      "Aaron Zober"
     ],
-    "Sound Mixer": [
-      "Mark Jensen"
+    "Coordinators": [
+      "Brad Skiles",
+      "Maya Sykes"
     ],
-    "Animation": [
-      "Crazybridge Studios"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Allison Boon"
+    ],
+    "Editor": [
+      "Robert Lattanzio"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
     ],
     "Historical Consultants": [
       "Ralph Baer",
       "Pamela Landis",
       "David Newhardt"
+    ],
+    "Music": [
+      "Alan Ett Music Group"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Sound Mixer": [
+      "Mark Jensen"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "W. Scott Goldie"
     ]
   }
 }

@@ -14,12 +14,13 @@ Asst Post Coordinator: Gaylen Kobayashi
 Camera: Walker Balance, Tomas Hejda, John Kabasakalis, Dan Lantz, Lon Magdich, Jim Petit, Adrian Sam, Greg Voigt, Diana Wilmar
 Clearance Coordinator: Aaron Zober
 Coordinators: Brad Skiles, Maya Sykes
-Created by: Bruce Nash
-Director of Clearance: Jerianne Keaney
-Director of Research: Terrence Hartwell
+Created By: Bruce Nash
+Director Of Clearance: Jerianne Keaney
+Director Of Research: Terrence Hartwell
 Editors: Lou LaProcido, Robert Lattanzio
 Executive Producer: Don Cambou
 Field Audio: Ryan Agostino, Dave Bratspis, Dennis Hamlin, Jeff Hoien, Charles Rohr, Brian Sepowitz, Rob Sumner
+Graphics: Adam Goodwin
 Music: Alan Ett Music Group
 Narrator: Max Raphael
 Online Editor: John Price
@@ -31,5 +32,4 @@ Production Executive: Paul Dzilvelis
 Production Manager: Shelia Collins
 Sound Mixer: Erik Valenzuela
 Supervising Producer: Ron Nelson
-Visual Effects/Graphics: Adam Goodwin
-Written and Produced by: Philip Kruener
+Written And Produced By: Philip Kruener

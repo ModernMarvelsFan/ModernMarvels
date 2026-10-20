@@ -7,37 +7,37 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `Produced by. ACTUALITY PRODUCTIONS, INC.. History Television Network Productions. © 2006. A&E Television Networks. All Rights Reserved`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, A&E Television Networks (rights holder)
-* **Narrator:** JOHN KNAPP
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions, A&E Television Networks (rights holder)
+* **Narrator:** John Knapp
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation by** | GLENN TAKAKJIAN |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM, ALEXANDER RUBINOW |
-| **Assistant Post Coordinator** | GAYLEN KOBAYASHI |
-| **Camera** | AL KLIMAS, PETER KRAJEWSKI, ED KUKLA, PETER LEVERMANN, LON MAGDICH, ANDRE SHANE, TJ WILLIAMS |
-| **Clearance Coordinators** | LAWRENCE GIVENS III, AARON ZOBER |
-| **Coordinator** | BRAD SKILES |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ALLISON BOON |
-| **Director of Rights and Clearances** | KATIE DEL CORE |
-| **Field Audio** | JOHN CHRISTIANSON, ERIC GOLDEN, MICHAEL GUSKE, JEFF KNUDSEN, MICHAEL MELENDEZ, JORGE SUAREZ |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **For The History Channel / Programming Coordinator** | MICHELE WILCOX |
-| **Online Editor** | JOHN PRICE |
-| **Post Coordinator** | TERRENCE HARTWELL |
-| **Post Producer** | TIM KNAUFF |
-| **Produced by** | ACTUALITY PRODUCTIONS, INC., History Television Network Productions |
-| **Producer** | BRUCE NASH |
-| **Production Accountant** | ANTHONY R. REYES |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | ULDIS BALODIS, JOHN KNAPP |
-| **Sound Mixer** | MARK JENSEN |
-| **Technical Consultants** | CURTIS JOHNSTON, RICHARD RAINS, TOM READ, LEO SCHNELLMANN, TED YERZYK |
-| **Voice Over Coordinator** | JOHN KNAPP |
+| **Animation By** | Glenn Takakjian |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow |
+| **Assistant Post Coordinator** | Gaylen Kobayashi |
+| **Camera** | Al Klimas, Peter Krajewski, Ed Kukla, Peter Levermann, Lon Magdich, Andre Shane, Tj Williams |
+| **Clearance Coordinators** | Lawrence Givens III, Aaron Zober |
+| **Coordinator** | Brad Skiles |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Director Of Rights And Clearances** | Katie Del Core |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | John Christianson, Eric Golden, Michael Guske, Jeff Knudsen, Michael Melendez, Jorge Suarez |
+| **Online Editor** | John Price |
+| **Post Coordinator** | Terrence Hartwell |
+| **Post Producer** | Tim Knauff |
+| **Produced By** | Actuality Productions, Inc., History Television Network Productions |
+| **Producer** | Bruce Nash |
+| **Production Accountant** | Anthony R. Reyes |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Michele Wilcox |
+| **Researchers** | Uldis Balodis, John Knapp |
+| **Sound Mixer** | Mark Jensen |
+| **Technical Consultants** | Curtis Johnston, Richard Rains, Tom Read, Leo Schnellmann, Ted Yerzyk |
+| **Voice Over Coordinator** | John Knapp |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00546.md)

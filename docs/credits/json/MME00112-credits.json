@@ -6,53 +6,53 @@
   "studios": [],
   "narrators": [],
   "crew": {
-    "Online Editor": [
-      "DAVID REX"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
     "Animation": [
-      "DOUG WHITNEY"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
+      "Doug Whitney"
     ],
     "Assistant Production Accountants": [
-      "LINDA SCRIBNER",
-      "JUDI MINITELLO"
-    ],
-    "Production Coordinator": [
-      "KATHY EXNER"
-    ],
-    "Production Assistants": [
-      "MARYALICE R. ARAGON",
-      "GWENDOLYN MURPHY",
-      "BRIAN VOLK"
-    ],
-    "Footage Consultant": [
-      "TED TROLL"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "DEAN VALLAS"
+      "Linda Scribner",
+      "Judi Minitello"
     ],
     "Associate Producer": [
-      "JEFF CONROY"
+      "Jeff Conroy"
     ],
-    "Edited by": [
-      "GEORGE DOUGHERTY"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Producer": [
-      "BRUCE NASH"
+    "Edited By": [
+      "George Dougherty"
     ],
-    "Created by": [
-      "BRUCE NASH"
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Footage Consultant": [
+      "Ted Troll"
     ],
     "Line Producer": [
-      "PAUL DZILVELIS"
+      "Paul Dzilvelis"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistants": [
+      "Maryalice R. Aragon",
+      "Gwendolyn Murphy",
+      "Brian Volk"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Kathy Exner"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Written And Produced By": [
+      "Dean Vallas"
     ]
   }
 }

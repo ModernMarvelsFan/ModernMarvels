@@ -14,7 +14,7 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation by** | Red Gypsy Animation |
+| **Animation By** | Red Gypsy Animation |
 | **Executive Producer** | Beth Dietrich-Segarra |
 | **Historical Consultants** | Michael Gorn, James Young |
 

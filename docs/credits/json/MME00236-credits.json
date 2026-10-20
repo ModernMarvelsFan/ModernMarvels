@@ -11,23 +11,30 @@
     "Max Raphael"
   ],
   "crew": {
+    "Animation": [
+      "Victor Bornia"
+    ],
+    "Archivist": [
+      "Nilda Pergola-Jensen"
+    ],
+    "Assistant Production Accountants": [
+      "Linda Scribner",
+      "Dennis Luciani"
+    ],
     "Clearance Assistant": [
       "Gabe Martinez"
     ],
-    "Historical Consultant": [
-      "Dr. John Provan"
+    "Clearance Supervisor": [
+      "Kate Del Core"
     ],
-    "Footage Consultant": [
-      "Ted Troll"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Post Production Supervisor": [
-      "Jason Steinberg"
+    "Director Of Research": [
+      "Hildie Katibah"
     ],
-    "Post Production Coordinator": [
-      "Gary Reid"
-    ],
-    "Post Production Assistant": [
-      "Montgomery Jesselton Kingsley"
+    "Edited By": [
+      "Lou Laprocido"
     ],
     "Field Audio": [
       "Paul Alfe",
@@ -36,61 +43,54 @@
       "David B. Shipman",
       "David O. Thomas"
     ],
-    "Online Editor": [
-      "David Rex"
-    ],
-    "Sound Mixer": [
-      "Paul Ray"
-    ],
-    "Animation": [
-      "Victor Bornia"
+    "Footage Consultant": [
+      "Ted Troll"
     ],
     "Graphics": [
       "Barry Hill"
     ],
-    "Production Auditor": [
-      "Dani Eslin"
-    ],
-    "Assistant Production Accountants": [
-      "Linda Scribner",
-      "Dennis Luciani"
-    ],
-    "Production Assistant": [
-      "Rasi Delgado"
-    ],
-    "Produced by": [
-      "Actuality Productions, Inc.",
-      "History Television Network Productions"
+    "Historical Consultant": [
+      "Dr. John Provan"
     ],
     "Line Producer": [
       "Paul Dzilvelis"
     ],
+    "Music By": [
+      "Alan Ett"
+    ],
     "Narrated By": [
       "Max Raphael"
     ],
-    "Edited by": [
-      "Lou Laprocido"
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Production Assistant": [
+      "Montgomery Jesselton Kingsley"
+    ],
+    "Post Production Coordinator": [
+      "Gary Reid"
+    ],
+    "Post Production Supervisor": [
+      "Jason Steinberg"
+    ],
+    "Produced By": [
+      "Actuality Productions, Inc.",
+      "History Television Network Productions"
     ],
     "Producer": [
       "Bruce Nash"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Production Assistant": [
+      "Rasi Delgado"
     ],
-    "Music by": [
-      "Alan Ett"
-    ],
-    "Clearance Supervisor": [
-      "Kate Del Core"
-    ],
-    "Director of Research": [
-      "Hildie Katibah"
-    ],
-    "Archivist": [
-      "Nilda Pergola-Jensen"
+    "Production Auditor": [
+      "Dani Eslin"
     ],
     "Researcher": [
       "Diane Wai"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
     ]
   }
 }

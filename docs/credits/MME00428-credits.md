@@ -7,40 +7,39 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions
-* **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions
+* **Narrator:** Max Raphael, Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountant** | SHERIDAN LIU |
-| **Animation by** | BART ROEN |
-| **Assistant Editors** | LAURA STEINHOFF, MICHAEL BROOME |
-| **Assistant Post Coordinator** | ALEXANDER RUBINOW |
-| **Associate Producer** | ALLISON BOON |
-| **Camera** | LON MAGDICH, PETER KRAJEWSKI |
-| **Clearance Coordinator** | D.W. BLAKESLEE |
-| **Clearance Supervisor** | KATIE DEL CORE |
-| **Coordinator** | MELINDA ESQUIBEL |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACQUES |
-| **Edited by** | ANDREW CORWIN |
-| **Executive Producer** | DON CAMBOU |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Historical Consultants** | MICHAEL CHAMBERS, CHRIS GLASS, LINWOOD PENDLETON, JOHN VAN AMERONGEN |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | GUY THOMAS |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Assistants** | GAYLEN KOBAYASHI, LINDA LIAO |
-| **Post Producer** | TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researchers** | MIKKI DEL MONICO, JOHN KNAPP, SEAN HECKMAN, TOM BARCLAY |
-| **Sound Mixer** | PAUL RAY |
-| **Voice Over Coordinator** | MIKKI DEL MONICO |
+| **Accountant** | Sheridan Liu |
+| **Animation By** | Bart Roen |
+| **Assistant Editors** | Laura Steinhoff, Michael Broome |
+| **Assistant Post Coordinator** | Alexander Rubinow |
+| **Associate Producer** | Allison Boon |
+| **Camera** | Lon Magdich, Peter Krajewski |
+| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Supervisor** | Katie Del Core |
+| **Coordinator** | Melinda Esquibel |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Andrew Corwin |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Historical Consultants** | Michael Chambers, Chris Glass, Linwood Pendleton, John Van Amerongen |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Guy Thomas |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Assistants** | Gaylen Kobayashi, Linda Liao |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Researchers** | Mikki Del Monico, John Knapp, Sean Heckman, Tom Barclay |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Mikki Del Monico |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00428.md)

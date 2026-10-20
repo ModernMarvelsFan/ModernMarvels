@@ -20,9 +20,9 @@
 | **Camera** | Dylan S. O'Brien, Tom Petrie |
 | **Clearance Coordinator** | Katie Del Core |
 | **Clearance Supervisor** | Charlotte Carpenter |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Barry Hill |
-| **Edited by** | Avi Fisher |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Barry Hill |
+| **Edited By** | Avi Fisher |
 | **Executive Producer** | Charlie Maday, Don Cambou |
 | **Field Audio** | Ben Moyer |
 | **Footage Consultant** | Ted Troll |
@@ -31,7 +31,7 @@
 | **Post Producer** | Scott Berkson |
 | **Post Production Coordinator** | Gary Reid |
 | **Post Production Supervisor** | Jason Steinberg |
-| **Produced by** | Actuality Productions, Inc. for The History Channel |
+| **Produced By** | Actuality Productions, Inc. for The History Channel |
 | **Producer** | Bruce Nash |
 | **Production Assistants** | Maryalice R. Aragon, Suni Nivens |
 | **Production Auditor** | Dani Eslin |
@@ -40,7 +40,7 @@
 | **Researchers** | Kristina Djokic, Anthony Lacques, Gloria Morris |
 | **Sound Mixer** | Paul Ray |
 | **Supervising Producer** | Beth Dietrich |
-| **Written and Produced By** | Robert Ziel |
+| **Written And Produced By** | Robert Ziel |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00163.md)

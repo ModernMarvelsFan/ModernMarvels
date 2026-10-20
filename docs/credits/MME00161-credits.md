@@ -14,9 +14,9 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Associate Producer** | EMILY LAU |
-| **Executive Producer** | DON CAMBOU |
-| **Written and Produced by** | LEE SCHNEIDER |
+| **Associate Producer** | Emily Lau |
+| **Executive Producer** | Don Cambou |
+| **Written And Produced By** | Lee Schneider |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00161.md)

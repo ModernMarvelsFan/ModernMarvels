@@ -12,21 +12,16 @@
     "Dawn Irwin"
   ],
   "crew": {
-    "Executive Producer": [
-      "Beth Dietrich-Segarra"
+    "Animation": [
+      "Doug Whitney"
     ],
-    "Clearance Assistant": [
-      "Gabe Martinez"
+    "Assistant Editors": [
+      "Michael Lim",
+      "Stephen Franklin"
     ],
-    "Researchers": [
-      "Mark Savage",
-      "Diane Wai"
-    ],
-    "Historical Consultant": [
-      "Steven Haggerty"
-    ],
-    "Footage Consultant": [
-      "Ted Troll"
+    "Assistant Production Accountants": [
+      "Linda Scribner",
+      "Sonia Randazzo"
     ],
     "Camera": [
       "Will Jacob",
@@ -36,6 +31,15 @@
       "John Sorapure",
       "\"Z\" Vidusin"
     ],
+    "Clearance Assistant": [
+      "Gabe Martinez"
+    ],
+    "Executive Assistant": [
+      "Beverly Short"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra"
+    ],
     "Field Audio": [
       "Chris Duncan Brown",
       "Abraham P. Kapa",
@@ -44,47 +48,43 @@
       "Geraint Owen",
       "Samuel Salnero"
     ],
-    "Post Production Supervisor": [
-      "Jason Steinberg"
-    ],
-    "Post Production Coordinator": [
-      "Gary Reid"
-    ],
-    "Voice Over Coordinator": [
-      "Dawn Irwin"
-    ],
-    "Assistant Editors": [
-      "Michael Lim",
-      "Stephen Franklin"
-    ],
-    "Online Editor": [
-      "David Rex"
-    ],
-    "Sound Mixer": [
-      "Paul Ray"
-    ],
-    "Animation": [
-      "Doug Whitney"
+    "Footage Consultant": [
+      "Ted Troll"
     ],
     "Graphics": [
       "Barry Hill"
     ],
-    "Production Auditor": [
-      "Dani Eslin"
+    "Historical Consultant": [
+      "Steven Haggerty"
     ],
-    "Assistant Production Accountants": [
-      "Linda Scribner",
-      "Sonia Randazzo"
+    "Online Editor": [
+      "David Rex"
     ],
-    "Production Coordinator": [
-      "Michael Z Davis"
+    "Post Production Coordinator": [
+      "Gary Reid"
+    ],
+    "Post Production Supervisor": [
+      "Jason Steinberg"
     ],
     "Production Assistants": [
       "Maryalice R. Aragon",
       "Rasi Delgado"
     ],
-    "Executive Assistant": [
-      "Beverly Short"
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Michael Z Davis"
+    ],
+    "Researchers": [
+      "Mark Savage",
+      "Diane Wai"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Voice Over Coordinator": [
+      "Dawn Irwin"
     ]
   }
 }

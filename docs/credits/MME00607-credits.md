@@ -22,9 +22,9 @@
 | **Camera** | Keith Barefoot, Bob Brunk, Bob Cundari, Morgan Schmidt-Feng, John Kabasakalis, Lon Magdich |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Harold E. Houze Jr. |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Ryan Agostino, Ray Day, Ryan Handley, Ken Paulakovich, Charles Rohr, Greg Stidham, Paul Wustrack |
@@ -40,7 +40,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Jim Hense |
+| **Written And Produced By** | Jim Hense |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00607.md)

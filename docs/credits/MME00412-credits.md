@@ -15,7 +15,7 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Accountants** | Judy Gordon, Sheridan Liu |
-| **Animation by** | John W. Richardson, Adam Goodwin |
+| **Animation By** | John W. Richardson, Adam Goodwin |
 | **Assistant Editors** | Laura Steinhoff, Michael Broome |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Associate Producer** | Dan Gibbons |
@@ -23,15 +23,14 @@
 | **Clearance Coordinator** | D.W. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
 | **Coordinators** | Rosalyn McVay, Melinda Esquibel |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Anthony Lacques |
-| **Edited by** | Minh T. Tran |
-| **Executive Producer** | Don Cambou |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacques |
+| **Edited By** | Minh T. Tran |
+| **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Adrian Parker |
-| **For The History Channel / Executive Producer** | Beth Dietrich-Segarra |
 | **Historical Consultant** | James D. Cooper |
-| **Music by** | Alan Ett Music Group |
-| **Narrated by** | Max Raphael |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assistants** | Gaylen Kobayashi, Linda Liao |
 | **Post Producer** | Tim Knauff |
@@ -42,7 +41,7 @@
 | **Researchers** | Mikki Del Monico, John Knapp, Sean Heckman, Tom Barclay |
 | **Sound Mixer** | Paul Ray |
 | **Voice Over Coordinator** | Mikki Del Monico |
-| **Written and Produced by** | Rod Pyle |
+| **Written And Produced By** | Rod Pyle |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00412.md)

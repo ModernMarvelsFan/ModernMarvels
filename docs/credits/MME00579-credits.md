@@ -22,11 +22,11 @@
 | **Camera** | Beau Bayada, Paul Crowley, Paul Dougherty, Stephen Henry, Lon Magdich, Bill Mills, Rich Rumppe |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
+| **Created By** | Bruce Nash |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
+| **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Field Audio** | Curt Britton, Danny Clayton, Chris Hall, Dennis Hamlin, Phillip Harris, Tom Staton, Phil Velasco |
-| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Historical Consultants** | Jim Ricci, Virginia Scott-Jenkins |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
@@ -38,7 +38,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Jim Hense |
+| **Written And Produced By** | Jim Hense |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00579.md)

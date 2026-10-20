@@ -18,15 +18,15 @@
 | **Associate Producer** | Aliza Pollack |
 | **Clearance Supervisor** | Katie Del Core |
 | **Coordinators** | Terrence Hartwell, Brad Skiles |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Allison Boon |
-| **Edited by** | Motoshi Wakabayashi |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Allison Boon |
+| **Edited By** | Motoshi Wakabayashi |
 | **Executive Producer** | Don Cambou |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett Music Group |
-| **Narrated by** | Max Raphael |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
 | **Post Producer** | Tim Knauff |
-| **Produced by** | Dave Garrison |
+| **Produced By** | Dave Garrison |
 | **Producer** | Bruce Nash |
 | **Production Controller** | Dani Eslin |
 | **Production Manager** | Shelia Collins |

@@ -12,60 +12,21 @@
     "Max Raphael"
   ],
   "crew": {
-    "Associate Producer": [
-      "Philip R. Cloutier"
+    "Animated Stills": [
+      "Adam Goodwin"
     ],
-    "Narrator": [
-      "Max Raphael"
-    ],
-    "Editor": [
-      "Scot Kelly"
-    ],
-    "Music": [
-      "Alan Ett Music Group"
-    ],
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Production Manager": [
-      "Shelia Collins"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Post Producer": [
-      "Tim Knauff"
-    ],
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Production Accountant": [
-      "Sheridan Liu"
-    ],
-    "Coordinator": [
-      "Maya Sykes"
-    ],
-    "Clearance Coordinator": [
-      "Kiana Moore"
-    ],
-    "Researcher": [
-      "Sapna Chhabra"
+    "Animation": [
+      "Adam Diaz"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
       "Nate Dusek"
     ],
+    "Associate Producer": [
+      "Philip R. Cloutier"
+    ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Cory Parker"
     ],
     "Camera": [
       "Spencer Cooper",
@@ -73,6 +34,27 @@
       "Sean Healey",
       "Stan Taylor",
       "Zvonimir Vidusin"
+    ],
+    "Clearance Coordinator": [
+      "Kiana Moore"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Scot Kelly"
+    ],
+    "Executive Producer": [
+      "John Verhoff"
     ],
     "Field Audio": [
       "Doug Donald",
@@ -82,42 +64,57 @@
       "Sean Madden",
       "Thom Staton"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation": [
-      "Adam Diaz"
-    ],
-    "Sound Mixer": [
-      "Erik Valenzuela"
-    ],
-    "Animated Stills": [
-      "Adam Goodwin"
+    "Programming Coordinator": [
+      "Adam Rosante"
     ],
     "Historical Consultant": [
       "David Stieghan"
     ],
-    "Produced by": [
+    "Music": [
+      "Alan Ett Music Group"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assist": [
+      "Cory Parker"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
+    "Produced By": [
       "Actuality Productions, Inc.",
       "For History"
     ],
-    "For History / Programming Coordinator": [
-      "Adam Rosante"
+    "Producer": [
+      "Bruce Nash"
     ],
-    "For History / Executive Producer": [
-      "John Verhoff"
+    "Production Accountant": [
+      "Sheridan Liu"
     ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Dennis Lofgren"
+    "Production Controller": [
+      "Dani Eslin"
     ],
     "Production Executive": [
       "Paul Dzilvelis"
     ],
+    "Production Manager": [
+      "Shelia Collins"
+    ],
+    "Researcher": [
+      "Sapna Chhabra"
+    ],
+    "Sound Mixer": [
+      "Erik Valenzuela"
+    ],
     "Supervising Producer": [
       "Ron Nelson"
+    ],
+    "Written And Produced By": [
+      "Dennis Lofgren"
     ]
   }
 }

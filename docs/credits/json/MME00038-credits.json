@@ -6,54 +6,54 @@
   "studios": [
     "Digital Ranch",
     "The History Channel",
-    "THE HISTORY CHANNEL"
+    "The History Channel"
   ],
   "narrators": [
-    "BILL RATNER"
+    "Bill Ratner"
   ],
   "crew": {
-    "Graphics by": [
-      "AplusA DESIGN"
-    ],
-    "Associate Producer": [
-      "LISA SHAFFER-KIRK"
+    "Additional Editing": [
+      "Michael Andrews",
+      "Kevin Browne"
     ],
     "Associate Director": [
-      "ROBERT LIHANI"
+      "Robert Lihani"
     ],
-    "Post Production Audio": [
-      "CRAIG PLACHY",
-      "RON MILLER"
+    "Associate Producer": [
+      "Lisa Shaffer-Kirk"
     ],
-    "Additional Editing": [
-      "MICHAEL ANDREWS",
-      "KEVIN BROWNE"
+    "Directed By": [
+      "Robert Kirk"
     ],
-    "Researcher": [
-      "BONNIE ROWAN"
+    "Edited By": [
+      "Jeff Caldwell"
     ],
-    "Written and Produced by": [
-      "ROBERT KIRK",
-      "ROBERT LIHANI"
+    "Graphics By": [
+      "AplusA DESIGN"
     ],
-    "Directed by": [
-      "ROBERT KIRK"
+    "Music By": [
+      "Alan Ett Music Group"
     ],
-    "Edited by": [
-      "JEFF CALDWELL"
+    "Narrated By": [
+      "Bill Ratner"
     ],
-    "Narrated by": [
-      "BILL RATNER"
-    ],
-    "Photographed by": [
-      "PAUL DOUGHERTY",
-      "MARK DOUGHERTY",
-      "BOWDON HUNT",
-      "JIM ARNOLD",
+    "Photographed By": [
+      "Paul Dougherty",
+      "Mark Dougherty",
+      "Bowdon Hunt",
+      "Jim Arnold",
       "\"MAC\" McALEENAN"
     ],
-    "Music by": [
-      "ALAN ETT MUSIC GROUP"
+    "Post Production Audio": [
+      "Craig Plachy",
+      "Ron Miller"
+    ],
+    "Researcher": [
+      "Bonnie Rowan"
+    ],
+    "Written And Produced By": [
+      "Robert Kirk",
+      "Robert Lihani"
     ]
   }
 }

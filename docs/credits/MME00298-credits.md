@@ -14,12 +14,11 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **2nd Unit Directors/Producers** | Chris Benjamin, Mike Callan, Jeff Conroy |
 | **Assistant Editor** | Ramya Srinivasan |
 | **Audio** | Tom Echlin |
 | **Chief Administrator** | Carol L. King |
 | **Crew Supervisor** | Scott Johnson |
-| **Director of Photography** | John Bonner |
+| **Director Of Photography** | John Bonner |
 | **Executive Assistant** | Susie Benanti |
 | **Executive Producer** | Michael Rose |
 | **Gaffers** | Malik Ali, Julie Bauman |
@@ -30,6 +29,7 @@
 | **Motion Control** | WoodHolly Prod. |
 | **Narrator** | Edward Herrmann |
 | **Original Music &amp; Audio Post Production** | Alan Ett Music Group, Media City Sound |
+| **Producers** | Chris Benjamin, Mike Callan, Jeff Conroy |
 | **Production Assistants** | Ewan Crispin, Tim Mitchell, Michael Griffee |
 | **Prompter** | Vivi Q |
 | **Script Supervisor** | Anita Duvall |

@@ -14,21 +14,21 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Additional Graphics** | BARRY HILL |
-| **Assistant Editors** | STUART BRODLIEB, HARRIS COHEN |
-| **Assistant Production Accountants** | LINDA SCRIBNER, JUDI MINITELLO |
-| **Field Audio** | ALAN AUSTIN, PAUL BUSCEMI, KEVIN LANG, TAMI LEACH, WILLIAM O'BRYAN, AMIR ZIV |
-| **Footage Consultant** | TED TROLL |
-| **For The History Channel / Executive Producer** | CHARLIE MADAY |
-| **For The History Channel / Supervising Producer** | BETH DIETRICH |
-| **Graphics and Animation** | DOUG WHITNEY |
-| **Online Editor** | DAVID REX |
-| **Post Production Assistant** | GARY REID |
-| **Post Production Coordinator** | JASON STEINBERG |
-| **Production Assistants** | MARYALICE R. ARAGON, GWENDOLYN MURPHY, BRIAN VOLK |
-| **Production Auditor** | DANI ESLIN |
-| **Production Coordinator** | KATHY EXNER |
-| **Sound Mixer** | MIKE FORSLUND |
+| **Additional Graphics** | Barry Hill |
+| **Assistant Editors** | Stuart Brodlieb, Harris Cohen |
+| **Assistant Production Accountants** | Linda Scribner, Judi Minitello |
+| **Executive Producer** | Charlie Maday |
+| **Field Audio** | Alan Austin, Paul Buscemi, Kevin Lang, Tami Leach, William O'Bryan, Amir Ziv |
+| **Footage Consultant** | Ted Troll |
+| **Graphics And Animation** | Doug Whitney |
+| **Online Editor** | David Rex |
+| **Post Production Assistant** | Gary Reid |
+| **Post Production Coordinator** | Jason Steinberg |
+| **Production Assistants** | Maryalice R. Aragon, Gwendolyn Murphy, Brian Volk |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Kathy Exner |
+| **Sound Mixer** | Mike Forslund |
+| **Supervising Producer** | Beth Dietrich |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00101.md)

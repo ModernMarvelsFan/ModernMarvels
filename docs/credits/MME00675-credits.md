@@ -22,13 +22,11 @@
 | **Asst Post Coordinator** | Cory Parker |
 | **Camera** | John Kabasakalis, Lon Magdich, Robert Rainey, Reid Riddell, Stan Taylor, Douglas Weisman |
 | **Coordinator** | Gregory Zide |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
 | **Editor** | Robert Lattanzio |
-| **Executive Producer** | Don Cambou |
+| **Executive Producer** | John Verhoff |
 | **Field Audio** | Dan Cook, Don Hooper, Rob Maerz, James W. Siler, III, Tammy Sortor, Greg Stidham |
-| **For History / Executive Producer** | John Verhoff |
-| **For History / Programming Coordinator** | Adam Rosante |
 | **Music** | AMI Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
@@ -38,11 +36,12 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Researcher** | Rick George |
 | **Sound Mixer** | Ryan Young |
 | **Technical Consultants** | Daniel Burrus, Brian Cooley |
-| **VO Coordinator** | Rick George |
-| **Written and Produced by** | Jeff Cole |
+| **Vo Coordinator** | Rick George |
+| **Written And Produced By** | Jeff Cole |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00675.md)

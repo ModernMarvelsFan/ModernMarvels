@@ -21,8 +21,8 @@
 | **Asst Post Coordinator** | Cory Parker |
 | **Camera** | Aron Brown, John Kabasakalis, Tom Pakulski, Jim Petit, Roger Prehoda, Stan Taylor, Marty Zimmerman |
 | **Coordinator** | Gregory Zide |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
 | **Editor** | Brian Johnson |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Ryan Agostino, Daniel Agustin, James Demer, Alan Halcon, Paul Mendez, Lori Mayer Smith, Geoff Pennington |
@@ -39,8 +39,8 @@
 | **Researcher** | Rick George |
 | **Sound Mixer** | Nozomu Furuya-Hirota |
 | **Technical Consultants** | Bay Ferries Limited, Foss Maritime, GDF Suez, Marine Advanced Research, Military Sealift Command, Scripps Institution of Oceanography |
-| **VO Coordinator** | Rick George |
-| **Written and Produced by** | Melissa Fuller |
+| **Vo Coordinator** | Rick George |
+| **Written And Produced By** | Melissa Fuller |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00669.md)

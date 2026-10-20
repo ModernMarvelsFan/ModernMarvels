@@ -25,9 +25,9 @@
 | **Post-Production Scheduling** | Greg Stadnik |
 | **Production Manager** | Melissa Ray |
 | **Programming Coordinator** | Fatime Kaba |
-| **Rights and Clearances** | Christopher Warsing, Stephen C. Brandt |
+| **Rights And Clearances** | Christopher Warsing, Stephen C. Brandt |
 | **Supervising Producers** | Ron Nelson, Kent Kitzman |
-| **VP Production Operations** | Ed Russo |
+| **Vp Production Operations** | Ed Russo |
 | **Writer** | Ron Nelson |
 
 ---

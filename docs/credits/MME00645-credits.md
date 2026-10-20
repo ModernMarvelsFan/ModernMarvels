@@ -22,9 +22,9 @@
 | **Camera** | Christopher Bell, Jim Bowen, Sean Healey, Paul Kremer, Dave Sanders, Steve Van Osdale |
 | **Clearance Coordinator** | Kiana Moore |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editors** | Scot Kelly, Gary Reid |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Chad Bryant, Brian Dupuis, Robert Porter, Tom Staton, Scott Thompson, John Vardas |
@@ -33,7 +33,7 @@
 | **Online Editor** | John Price |
 | **Post Assist** | Cory Parker |
 | **Post Producer** | Tim Knauff |
-| **Produced by** | Jim Lindsay |
+| **Produced By** | Jim Lindsay |
 | **Producer** | Bruce Nash |
 | **Production Accountant** | Sheridan Liu |
 | **Production Controller** | Dani Eslin |

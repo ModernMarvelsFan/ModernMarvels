@@ -4,86 +4,86 @@
   "year": "1995",
   "copyright": "© 1995 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "ART F/X"
+    "Art F/X"
   ],
   "narrators": [
-    "HARLAN SAPERSTEIN"
+    "Harlan Saperstein"
   ],
   "crew": {
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Edited by": [
-      "GREG CLAUSEN",
-      "TUDOR APPLEN"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Narrated by": [
-      "HARLAN SAPERSTEIN"
-    ],
-    "Post Production Supervisor": [
-      "JULIO KOLLERBOHM"
-    ],
-    "Director of Research": [
-      "CHUCK HAYES"
-    ],
-    "Researchers": [
-      "MILA MARVIZON"
-    ],
-    "Show Elements Coordinator": [
-      "KAREN S. MEISSNER"
-    ],
     "Assistant Editors": [
-      "MARC CEBRIAN",
-      "JARED BUSHANSKY",
-      "MAURICE CASSAMAJOR"
-    ],
-    "Directors of Photography": [
-      "JERRY LANE",
-      "JOHN MARSHALL"
-    ],
-    "Audio": [
-      "JEFF AYLEN",
-      "TRACY DUNCAN"
-    ],
-    "Production Accountant": [
-      "WENDY PRICE"
+      "Marc Cebrian",
+      "Jared Bushansky",
+      "Maurice Cassamajor"
     ],
     "Assistant Production Accountant": [
-      "JORI ESPINOSA"
+      "Jori Espinosa"
     ],
-    "Research Associate": [
-      "STACEY LUCHS"
+    "Assistant To Bob Jaffe": [
+      "Hay Tanning"
     ],
-    "Productions Assistants": [
-      "JASON MENZ",
-      "TONI GRAY"
+    "Assistant To Tim Busa": [
+      "Alexandra Rojas"
     ],
-    "Music by": [
-      "SCOTT PAGE-PAGTER",
-      "JOHN VALENTINO"
+    "Audio": [
+      "Jeff Aylen",
+      "Tracy Duncan"
     ],
-    "Graphics": [
-      "RON CLARK",
-      "ART F/X"
+    "Created By": [
+      "Bruce Nash"
     ],
-    "Assistant to Bob Jaffe": [
-      "HAY TANNING"
+    "Director Of Research": [
+      "Chuck Hayes"
     ],
-    "Assistant to Tim Busa": [
-      "ALEXANDRA ROJAS"
+    "Directors Of Photography": [
+      "Jerry Lane",
+      "John Marshall"
     ],
-    "On-Line Editor": [
-      "ANDREW CORWIN",
-      "DORY LUBLINER"
-    ],
-    "Re-Recording Mixer": [
-      "TIM BROWN"
+    "Edited By": [
+      "Greg Clausen",
+      "Tudor Applen"
     ],
     "Footage Consultant": [
-      "TED TROLL"
+      "Ted Troll"
+    ],
+    "Graphics": [
+      "Ron Clark",
+      "Art F/X"
+    ],
+    "Music By": [
+      "Scott Page-Pagter",
+      "John Valentino"
+    ],
+    "Narrated By": [
+      "Harlan Saperstein"
+    ],
+    "On-Line Editor": [
+      "Andrew Corwin",
+      "Dory Lubliner"
+    ],
+    "Post Production Supervisor": [
+      "Julio Kollerbohm"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Accountant": [
+      "Wendy Price"
+    ],
+    "Productions Assistants": [
+      "Jason Menz",
+      "Toni Gray"
+    ],
+    "Re-Recording Mixer": [
+      "Tim Brown"
+    ],
+    "Research Associate": [
+      "Stacey Luchs"
+    ],
+    "Researchers": [
+      "Mila Marvizon"
+    ],
+    "Show Elements Coordinator": [
+      "Karen S. Meissner"
     ]
   }
 }

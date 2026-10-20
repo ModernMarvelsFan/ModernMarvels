@@ -4,57 +4,57 @@
   "year": "2006",
   "copyright": "© 2006 A&E Television Networks. All Rights Reserved.",
   "studios": [
-    "JELLYFISH PICTURES",
-    "DARLOW SMITHSON PRODUCTIONS"
+    "Jellyfish Pictures",
+    "Darlow Smithson Productions"
   ],
   "narrators": [],
   "crew": {
-    "Composer": [
-      "JEROME CUREL"
+    "Assistant Producer": [
+      "Margaret Beckett"
     ],
-    "Graphics": [
-      "JELLYFISH PICTURES"
+    "Composer": [
+      "Jerome Curel"
+    ],
+    "Directed And Produced By": [
+      "Martin O'Collins"
     ],
     "Dubbing Mixer": [
-      "CHRIS MORRIS"
-    ],
-    "Online Editor": [
-      "NICK ARTHUR"
-    ],
-    "Production Coordinators": [
-      "FRANCIS CASEY",
-      "NATALIA FERNANDEZ"
-    ],
-    "Film Researcher": [
-      "STEVE BERGSON"
-    ],
-    "Production Manager": [
-      "SANDRA SHUTTLEWORTH"
-    ],
-    "Head of Operations": [
-      "ULLA STREIB"
-    ],
-    "Assistant Producer": [
-      "MARGARET BECKETT"
+      "Chris Morris"
     ],
     "Editor": [
-      "IRINA HOSS"
-    ],
-    "Executive Producers": [
-      "ROD CAIRD",
-      "RICHARD SATTIN"
-    ],
-    "Directed and Produced by": [
-      "MARTIN O'COLLINS"
-    ],
-    "Programming Coordinator": [
-      "MICHELE WILCOX"
+      "Irina Hoss"
     ],
     "Executive Producer": [
-      "BETH DIETRICH SEGARRA"
+      "Beth Dietrich Segarra"
     ],
-    "Produced by": [
-      "DARLOW SMITHSON PRODUCTIONS FOR THE HISTORY CHANNEL"
+    "Executive Producers": [
+      "Rod Caird",
+      "Richard Sattin"
+    ],
+    "Film Researcher": [
+      "Steve Bergson"
+    ],
+    "Graphics": [
+      "Jellyfish Pictures"
+    ],
+    "Head Of Operations": [
+      "Ulla Streib"
+    ],
+    "Online Editor": [
+      "Nick Arthur"
+    ],
+    "Produced By": [
+      "Darlow Smithson Productions For The History Channel"
+    ],
+    "Production Coordinators": [
+      "Francis Casey",
+      "Natalia Fernandez"
+    ],
+    "Production Manager": [
+      "Sandra Shuttleworth"
+    ],
+    "Programming Coordinator": [
+      "Michele Wilcox"
     ]
   }
 }

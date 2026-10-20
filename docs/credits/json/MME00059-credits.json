@@ -5,84 +5,84 @@
   "copyright": "© 1998 A&E Television Networks. All Rights Reserved.",
   "studios": [
     "ACTUALITY Productions, Inc.",
-    "THE HISTORY CHANNEL",
+    "The History Channel",
     "Hearst Entertainment"
   ],
   "narrators": [
-    "PETER BROOKS"
+    "Peter Brooks"
   ],
   "crew": {
-    "For The History Channel / Series Manager": [
-      "ELYSE MIRANDA"
-    ],
-    "For The History Channel / Executive Producer": [
-      "CHARLIE MADAY"
-    ],
-    "Created By": [
-      "BRUCE NASH"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Narrated By": [
-      "PETER BROOKS"
-    ],
-    "Music By": [
-      "ALAN ETT"
-    ],
-    "Senior Production Executive": [
-      "JACK SEIFERT"
-    ],
-    "Production Finance Supervisor": [
-      "PAUL DZILVELIS"
-    ],
-    "Production Manager": [
-      "PHILIP WALLNUTT"
-    ],
-    "Post Production Supervisor": [
-      "MIKE PARENTE"
-    ],
-    "Researchers": [
-      "BARRY HILL",
-      "RICK BENAVIDES",
-      "HELGA EIKE",
-      "TERRI FOX"
-    ],
-    "Camera Operators": [
-      "JIM BUCKLEY",
-      "RICHARD FAUMAN",
-      "ROB HEUERMAN"
-    ],
-    "Field Audio": [
-      "STUART ASH",
-      "RICH DEAN",
-      "JERRY KAMMEN"
-    ],
-    "Post Production Coordinator": [
-      "SCOTT BERKSON"
-    ],
-    "Archive and Audio Coordinator": [
+    "Archive And Audio Coordinator": [
       "DERRICK McDANIEL"
     ],
     "Assistant Editors": [
       "LOU LaPROCIDO",
-      "SPENCER KEIMON",
-      "DOUG CUMMINGHAM"
-    ],
-    "Online Editor": [
-      "DAVID REX"
-    ],
-    "Supervising Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "KERRY MILLERICK"
+      "Spencer Keimon",
+      "Doug Cummingham"
     ],
     "Associate Producer": [
-      "STANLEY BROWN"
+      "Stanley Brown"
     ],
-    "Edited by": [
-      "JACK FOSTER"
+    "Camera Operators": [
+      "Jim Buckley",
+      "Richard Fauman",
+      "Rob Heuerman"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Jack Foster"
+    ],
+    "Field Audio": [
+      "Stuart Ash",
+      "Rich Dean",
+      "Jerry Kammen"
+    ],
+    "Executive Producer": [
+      "Charlie Maday"
+    ],
+    "Series Manager": [
+      "Elyse Miranda"
+    ],
+    "Music By": [
+      "Alan Ett"
+    ],
+    "Narrated By": [
+      "Peter Brooks"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Production Coordinator": [
+      "Scott Berkson"
+    ],
+    "Post Production Supervisor": [
+      "Mike Parente"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Finance Supervisor": [
+      "Paul Dzilvelis"
+    ],
+    "Production Manager": [
+      "Philip Wallnutt"
+    ],
+    "Researchers": [
+      "Barry Hill",
+      "Rick Benavides",
+      "Helga Eike",
+      "Terri Fox"
+    ],
+    "Senior Production Executive": [
+      "Jack Seifert"
+    ],
+    "Supervising Producer": [
+      "Don Cambou"
+    ],
+    "Written And Produced By": [
+      "Kerry Millerick"
     ]
   }
 }

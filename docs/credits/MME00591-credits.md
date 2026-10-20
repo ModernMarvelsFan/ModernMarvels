@@ -21,14 +21,13 @@
 | **Camera** | David Elkins, Dan E. Lantz, Lon Magdich, R. Kelley Marchal, Bill Mills, Nathan Smith, Len Stanga, Diana Wilmar |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinators** | Terrence Hartwell, Brad Skiles, Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Allison Boon |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Allison Boon |
 | **Editor** | Sean Dash |
 | **Executive Producer** | Don Cambou |
+| **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Field Audio** | Ryan Bedell, Mike Curtiss, Adam Daniel, Robert A. DeLong, Phillip Harris, Adrian Sam, Andy Snyder |
-| **For The History Channel / Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **For The History Channel / Programming Coordinator** | Adam Rosante |
 | **Historical Consultant** | Sandor Nagyszalanczy |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |
@@ -40,9 +39,10 @@
 | **Production Controller** | Dani Eslin |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Sean Dash |
+| **Written And Produced By** | Sean Dash |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00591.md)

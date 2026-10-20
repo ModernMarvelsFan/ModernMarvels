@@ -15,31 +15,30 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Accountants** | Judy Gordon, Sheridan Liu |
-| **Animation by** | Randall Rickert |
+| **Animation By** | Randall Rickert |
 | **Assistant Editor** | Laura Steinhoff |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Camera** | Tim Holland, Peter Krajewski, Lon Magdich, Greg Steinbrecher, Marty Zimmerman |
 | **Clearance Coordinator** | D.W. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | Rosalyn McVay |
-| **Created by** | Bruce Nash |
-| **Edited by** | Arek Hope |
-| **Executive Producer** | Don Cambou |
+| **Created By** | Bruce Nash |
+| **Edited By** | Arek Hope |
+| **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Mike Borman, Aron Brown |
-| **For History / Executive Producer** | Beth Dietrich-Segarra |
 | **Historical Consultant** | Raymond E. Foster |
-| **Music by** | Alan Ett Music Group |
-| **Narrated by** | Max Raphael |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Producer** | Tim Knauff |
-| **Produced by** | Actuality Productions, Inc. For History |
+| **Produced By** | Actuality Productions, Inc. For History |
 | **Producer** | Bruce Nash |
 | **Production Assistant** | Jeffrey Perkins |
 | **Production Manager** | Shelia Collins |
 | **Researcher** | Mikki Del Monico |
 | **Sound Mixer** | Paul Ray |
 | **Voice Over Coordinator** | Mikki Del Monico |
-| **Written and Produced by** | Jeffrey Willerth |
+| **Written And Produced By** | Jeffrey Willerth |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00398.md)

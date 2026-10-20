@@ -1,4 +1,4 @@
-# Credit Roll: Wood (2012)
+# Credit Roll: Wood (2011)
 **Canonical Episode:** [`MME00701: Wood`](../episodes/MME00701.md)
 
 **Downloads:** [Credits JSON](json/MME00701-credits.json) • [Credits Plain Text](txt/MME00701-credits.txt)
@@ -6,7 +6,7 @@
 ---
 
 ### Copyright & Studio Identification
-* **Copyright Notice:** `© 2012 A&E Television Networks. All Rights Reserved.`
+* **Copyright Notice:** `© 2011 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Half Yard Productions, A&E Television Networks (R)
 * **Narrator:** —
 
@@ -14,28 +14,28 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Camera** | BOBBY BRUDERLE |
-| **Assistant Editor** | MIKE BAUTISTA |
-| **Associate Producer** | HANNAH RICHARDSON |
-| **Associate Producers** | PHILIP CLOUTIER, SARAH KATZ, SPENCER SMITH |
-| **Created by** | BRUCE NASH |
-| **Directors of Photography** | NEIL BARRETT, JOSEPH BRUNETTE, ROB FEATHERSTONE, THOMAS JACOBI, JULIO LUZQUINOS, ANDY SCHWARTZ, GORDY WATERMAN, BRETT WILEY |
-| **Edited by** | MATTHEW TILLEY |
-| **Executive Producers** | SEAN GALLAGHER, ABBY GREENSFELDER |
-| **Field Producers** | LAURA CASEY, ANASTASIA CRONIN, JENNY EWIG, ANNABELLE HESTER, SCOTT MICHNICK, AMBER SEYLER |
-| **Head of Production** | JANICE MEZZETTI |
-| **Intern** | JEREMY WEINREICH |
-| **Junior Editors** | NADIA IZAKSON, GUILLERMO MACO, WANAKHAVI WAKHISI |
-| **Music** | AUDIO NETWORK, EXTREME, PRODUKT, JINGLEPUNKS |
-| **Online Editor/Colorist** | MATT DOE |
-| **Production Assistant** | SUZIE ECKL |
-| **Production Coordinator** | KAIT GALLAGHER |
-| **Researchers** | ZOE COUACAUD, ANN DUVALL |
-| **Series Producer** | ANN CARROLL |
-| **Sound** | MATT ENGEL, BRIAN GARFIELD, MARK MARIACA |
-| **Sound Design &amp; Mix** | RICHARD HUMPHRIES, TAKOMA MEDIA |
-| **Sound Editors** | MIKE ESTLER, NICHOLAS KARLIN |
-| **Written and Produced by** | TIM DILWORTH |
+| **Assistant Camera** | Bobby Bruderle |
+| **Assistant Editor** | Mike Bautista |
+| **Associate Producer** | Hannah Richardson |
+| **Associate Producers** | Philip Cloutier, Sarah Katz, Spencer Smith |
+| **Colorist** | Matt Doe |
+| **Created By** | Bruce Nash |
+| **Directors Of Photography** | Neil Barrett, Joseph Brunette, Rob Featherstone, Thomas Jacobi, Julio Luzquinos, Andy Schwartz, Gordy Waterman, Brett Wiley |
+| **Edited By** | Matthew Tilley |
+| **Executive Producers** | Sean Gallagher, Abby Greensfelder |
+| **Field Producers** | Laura Casey, Anastasia Cronin, Jenny Ewig, Annabelle Hester, Scott Michnick, Amber Seyler |
+| **Head Of Production** | Janice Mezzetti |
+| **Intern** | Jeremy Weinreich |
+| **Junior Editors** | Nadia Izakson, Guillermo Maco, Wanakhavi Wakhisi |
+| **Music** | Audio Network, Extreme, Produkt, Jinglepunks |
+| **Production Assistant** | Suzie Eckl |
+| **Production Coordinator** | Kait Gallagher |
+| **Researchers** | Zoe Couacaud, Ann Duvall |
+| **Series Producer** | Ann Carroll |
+| **Sound** | Matt Engel, Brian Garfield, Mark Mariaca |
+| **Sound Design &amp; Mix** | Richard Humphries, Takoma Media |
+| **Sound Editors** | Mike Estler, Nicholas Karlin |
+| **Written And Produced By** | Tim Dilworth |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00701.md)

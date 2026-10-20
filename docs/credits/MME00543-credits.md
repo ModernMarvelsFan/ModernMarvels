@@ -8,22 +8,22 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** DAN CHANDLER
+* **Narrator:** Dan Chandler
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Additional Field Production** | CHRIS LEWIS |
-| **Additional Photography** | TOM BACKUS, JOE PEDALINO, ROD SLANE |
-| **Coordinating Producer** | DEBORAH DAWKINS |
-| **Directors of Photography** | GUY CLARKSON, PAUL FOSTER |
-| **Executive Producers** | STEPHEN LAND, GEOFFREY PROUD |
-| **Field Audio** | TOM BACKUS, JEFF MEESE |
-| **Narrator** | DAN CHANDLER |
-| **Post Production Audio** | TOM BACKUS, JIM ROGERS |
-| **Producers** | JON JEFFERSON, MICHAEL ROGERS |
-| **Writer** | JON JEFFERSON |
+| **Additional Field Production** | Chris Lewis |
+| **Additional Photography** | Tom Backus, Joe Pedalino, Rod Slane |
+| **Coordinating Producer** | Deborah Dawkins |
+| **Directors Of Photography** | Guy Clarkson, Paul Foster |
+| **Executive Producers** | Stephen Land, Geoffrey Proud |
+| **Field Audio** | Tom Backus, Jeff Meese |
+| **Narrator** | Dan Chandler |
+| **Post Production Audio** | Tom Backus, Jim Rogers |
+| **Producers** | Jon Jefferson, Michael Rogers |
+| **Writer** | Jon Jefferson |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00543.md)

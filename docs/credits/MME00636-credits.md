@@ -22,9 +22,9 @@
 | **Camera** | Keith Barefoot, Julio Luzquinos, John Kabasakalis, Terry Pratt, Gilbert Prowler |
 | **Clearance Coordinator** | Aaron Zober |
 | **Coordinator** | Maya Sykes |
-| **Created by** | Bruce Nash |
-| **Director of Clearance** | Jerianne Keaney |
-| **Director of Research** | Terrence Hartwell |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Terrence Hartwell |
 | **Editor** | Scot Kelly |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Thomas Echlin, Bryan Evans, Mickey Loud, Rory Nix, Saul Quinn, Greg Stidham, Paul Wustrack |
@@ -41,7 +41,7 @@
 | **Researcher** | Sapna Chhabra |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Written and Produced by** | Philip Kruener |
+| **Written And Produced By** | Philip Kruener |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00636.md)

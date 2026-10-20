@@ -21,17 +21,15 @@
 | **Clearance Coordinator** | Katie Del Core |
 | **Clearance Supervisor** | Charlotte Carpenter |
 | **Consulting Producer** | Henry Schipper |
-| **Created by** | Bruce Nash |
-| **Director of Research** | Barry Hill |
-| **Edited by** | Joanne De Tora |
-| **Executive Producer** | Don Cambou |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Barry Hill |
+| **Edited By** | Joanne De Tora |
+| **Executive Producer** | Charlie Maday |
 | **Field Audio** | Anthony Breier, Mark Hollensteiner, James Peterson, Keith Sasser |
 | **Footage Consultant** | Ted Troll |
-| **For The History Channel / Executive Producer** | Charlie Maday |
-| **For The History Channel / Supervising Producer** | Beth Dietrich |
 | **Historical Consultant** | Walter Boyne |
 | **Line Producer** | Paul Dzilvelis |
-| **Music by** | Alan Ett |
+| **Music By** | Alan Ett |
 | **Online Editor** | David Rex |
 | **Post Producer** | Scott Berkson |
 | **Post Production Assistant** | Stephen Franklin |
@@ -44,7 +42,8 @@
 | **Production Manager** | Linda K. Clark |
 | **Researchers** | Kristina Djokic, Anthony Lacques, Gloria Morris |
 | **Sound Mixer** | Paul Ray |
-| **Written and Produced by** | Barry Hill, La Monte Westmoreland |
+| **Supervising Producer** | Beth Dietrich |
+| **Written And Produced By** | Barry Hill, La Monte Westmoreland |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00160.md)

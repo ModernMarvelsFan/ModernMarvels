@@ -7,40 +7,39 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Network All Rights Reserved`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC., History Television Network Productions, PTC, ALAN ETT MUSIC GROUP
-* **Narrator:** MAX RAPHAEL, MIKKI DEL MONICO
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions, Ptc, Alan Ett Music Group
+* **Narrator:** Max Raphael, Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation by** | GLENN TAKAKJIAN, PTC |
-| **Assistant Accountants** | SHERIDAN LIU, DENNIS LUCIANI |
-| **Associate Producers** | SUZANNE GILREATH, MAI-LY NGUYEN |
-| **Camera** | DAVID BRADSTREET, TOM LORCH, LON MAGDICH, KELLEY MARCHAL, MARK MOORE, JOHN PALUZZI |
-| **Clearance Supervisor** | KATIE DEL CORE |
+| **Animation By** | Glenn Takakjian, Ptc |
+| **Assistant Accountants** | Sheridan Liu, Dennis Luciani |
+| **Associate Producers** | Suzanne Gilreath, Mai-Ly Nguyen |
+| **Camera** | David Bradstreet, Tom Lorch, Lon Magdich, Kelley Marchal, Mark Moore, John Paluzzi |
+| **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | ROSALYN McVAY |
-| **Created by** | BRUCE NASH |
-| **Director of Research** | ANTHONY LACOUES |
-| **Edited by** | ROBERT LATTANZIO, PAMELA MALOUF |
-| **Executive Producer** | DON CAMBOU |
-| **Field Audio** | CURTIS BRITTON, MICHAEL HEID, STEPHEN A. MONTET |
-| **For The History Channel / Executive Producer** | BETH DIETRICH-SEGARRA |
-| **Historical Consultant** | DR. ROBERT MULLINS |
-| **Line Producer** | PAUL DZILVELIS |
-| **Music by** | ALAN ETT MUSIC GROUP |
-| **Narrated by** | MAX RAPHAEL |
-| **Online Editor** | TOM HOK |
-| **Post Assistant** | ALEXANDER RUBINOW |
-| **Post Coordinator** | LAURA STEINHOFF |
-| **Post Producer** | LAUREN LEVINE |
-| **Producer** | BRUCE NASH |
-| **Production Assistant** | JEFFERY PERKINS |
-| **Production Auditor** | DANI ESLIN |
-| **Production Manager** | SHELIA COLLINS |
-| **Researcher / Voice Over Coordinator** | MIKKI DEL MONICO |
-| **Sound Mixer** | PAUL RAY |
-| **Written and Produced by** | JIM HENSE |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Anthony Lacoues |
+| **Edited By** | Robert Lattanzio, Pamela Malouf |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Curtis Britton, Michael Heid, Stephen A. Montet |
+| **Historical Consultant** | Dr. Robert Mullins |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett Music Group |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | Tom Hok |
+| **Post Assistant** | Alexander Rubinow |
+| **Post Coordinator** | Laura Steinhoff |
+| **Post Producer** | Lauren Levine |
+| **Producer** | Bruce Nash |
+| **Production Assistant** | Jeffery Perkins |
+| **Production Auditor** | Dani Eslin |
+| **Production Manager** | Shelia Collins |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Mikki Del Monico |
+| **Written And Produced By** | Jim Hense |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00367.md)

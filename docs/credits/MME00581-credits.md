@@ -8,41 +8,41 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2007 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Actuality Productions, Inc., History Television Networks Productions, FlyingBlue Studio
-* **Narrator:** MAX RAPHAEL
+* **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Accountant** | SHERIDAN LIU |
-| **Animated Stills** | ADAM GOODWIN |
+| **Accountant** | Sheridan Liu |
+| **Animated Stills** | Adam Goodwin |
 | **Animation** | FlyingBlue Studio |
-| **Assistant Editors** | LAURA STEINHOFF, JOSH BECKHAM, ALEXANDER RUBINOW |
-| **Associate Producer** | JAMES JOYCE |
-| **Asst Post Coordinator** | GAYLEN KOBAYASHI |
-| **Camera** | DENNIS BURNS, PAUL DOUGHERTY, JULIO LUZQUINOS, LON MAGDICH, CHARLES TUDOR |
-| **Clearance Coordinator** | AARON ZOBER |
-| **Coordinators** | BRAD SKILES, MAYA SYKES |
-| **Created by** | BRUCE NASH |
-| **Director of Clearance** | JERIANNE KEANEY |
-| **Director of Research** | ALLISON BOON |
+| **Assistant Editors** | Laura Steinhoff, Josh Beckham, Alexander Rubinow |
+| **Associate Producer** | James Joyce |
+| **Asst Post Coordinator** | Gaylen Kobayashi |
+| **Camera** | Dennis Burns, Paul Dougherty, Julio Luzquinos, Lon Magdich, Charles Tudor |
+| **Clearance Coordinator** | Aaron Zober |
+| **Coordinators** | Brad Skiles, Maya Sykes |
+| **Created By** | Bruce Nash |
+| **Director Of Clearance** | Jerianne Keaney |
+| **Director Of Research** | Allison Boon |
 | **Editor** | LOU LaPROCIDO |
-| **Executive Producer** | DON CAMBOU |
-| **Executive Producers** | BETH DIETRICH-SEGARRA, MICHAEL STILLER |
-| **Field Audio** | RYAN BEDELL, JOHN McFADDEN, JONATHAN PACKER, DANI SLEIMAN, TOM STATON |
-| **Music** | ALAN ETT MUSIC GROUP |
-| **Narrator** | MAX RAPHAEL |
-| **Online Editor** | JOHN PRICE |
-| **Post Coordinator** | TERRENCE HARTWELL |
-| **Post Producer** | TIM KNAUFF |
-| **Producer** | BRUCE NASH |
-| **Production Controller** | DANI ESLIN |
-| **Production Executive** | PAUL DZILVELIS |
-| **Production Manager** | SHELIA COLLINS |
-| **Programming Coordinator** | ADAM ROSANTE |
-| **Sound Mixer** | MARK JENSEN |
-| **Supervising Producer** | RON NELSON |
-| **Written and Produced by** | RICHARD JONES |
+| **Executive Producer** | Don Cambou |
+| **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
+| **Field Audio** | Ryan Bedell, JOHN McFADDEN, Jonathan Packer, Dani Sleiman, Tom Staton |
+| **Music** | Alan Ett Music Group |
+| **Narrator** | Max Raphael |
+| **Online Editor** | John Price |
+| **Post Coordinator** | Terrence Hartwell |
+| **Post Producer** | Tim Knauff |
+| **Producer** | Bruce Nash |
+| **Production Controller** | Dani Eslin |
+| **Production Executive** | Paul Dzilvelis |
+| **Production Manager** | Shelia Collins |
+| **Programming Coordinator** | Adam Rosante |
+| **Sound Mixer** | Mark Jensen |
+| **Supervising Producer** | Ron Nelson |
+| **Written And Produced By** | Richard Jones |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00581.md)

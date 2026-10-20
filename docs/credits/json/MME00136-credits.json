@@ -11,45 +11,14 @@
     "Max Raphael"
   ],
   "crew": {
-    "Producer": [
-      "Bruce Nash"
-    ],
-    "Created by": [
-      "Bruce Nash"
-    ],
-    "Directors of Research": [
-      "Barry Hill",
-      "Allison Boon"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
     "Accountants": [
       "Linda Scribner",
       "April Brown",
       "Sheridan Liu",
       "Diana Stolpe"
     ],
-    "Researchers": [
-      "Anthony Lacques",
-      "Gloria Morris",
-      "Uldis Balodis",
-      "Bradley Combest",
-      "John Knapp"
-    ],
-    "Coordinators": [
-      "Boni Osmani",
-      "Brad Skiles"
-    ],
-    "Clearance Coordinators": [
-      "Lawrence Givens III",
-      "Aaron Zober"
-    ],
-    "Post Coordinator": [
-      "Terrence Hartwell"
-    ],
-    "Voice Over Coordinator": [
-      "John Knapp"
+    "Animation By": [
+      "Bart Roen"
     ],
     "Assistant Editors": [
       "Laura Steinhoff",
@@ -59,29 +28,45 @@
     "Assistant Post Coordinator": [
       "Jeremiah Dockray"
     ],
-    "Post Assistants": [
-      "Rob Harrington",
-      "Gaylen Kobayashi"
+    "Associate Producer": [
+      "Nancy Oey"
     ],
     "Camera": [
       "Jim Gribbins",
       "Bryan Maslin",
       "Dan Roach"
     ],
+    "Clearance Coordinators": [
+      "Lawrence Givens III",
+      "Aaron Zober"
+    ],
+    "Consulting Producer": [
+      "Ron Nelson"
+    ],
+    "Coordinators": [
+      "Boni Osmani",
+      "Brad Skiles"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Directors Of Research": [
+      "Barry Hill",
+      "Allison Boon"
+    ],
+    "Edited By": [
+      "John Bininger",
+      "Barney Robinson"
+    ],
+    "Executive Producer": [
+      "Beth Dietrich-Segarra",
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Aaron Austin",
       "John V. Davis",
       "John Duffy",
       "David Kane"
-    ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Sound Mixer": [
-      "Ed Thacker"
-    ],
-    "Animation by": [
-      "Bart Roen"
     ],
     "Footage Consultant": [
       "Ted Troll"
@@ -90,35 +75,50 @@
       "Thomas X. Grasso",
       "Andy Kitzmann"
     ],
-    "Programming Coordinator": [
-      "Michele Wilcox"
-    ],
-    "Executive Producer": [
-      "Beth Dietrich-Segarra",
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Tim Evans",
-      "Corrie Kaufman"
-    ],
     "Line Producer": [
       "Paul Dzilvelis"
     ],
-    "Consulting Producer": [
-      "Ron Nelson"
+    "Music By": [
+      "Alan Ett Music Group"
     ],
-    "Associate Producer": [
-      "Nancy Oey"
-    ],
-    "Edited by": [
-      "John Bininger",
-      "Barney Robinson"
-    ],
-    "Narrated by": [
+    "Narrated By": [
       "Max Raphael"
     ],
-    "Music by": [
-      "Alan Ett Music Group"
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assistants": [
+      "Rob Harrington",
+      "Gaylen Kobayashi"
+    ],
+    "Post Coordinator": [
+      "Terrence Hartwell"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Programming Coordinator": [
+      "Michele Wilcox"
+    ],
+    "Researchers": [
+      "Anthony Lacques",
+      "Gloria Morris",
+      "Uldis Balodis",
+      "Bradley Combest",
+      "John Knapp"
+    ],
+    "Sound Mixer": [
+      "Ed Thacker"
+    ],
+    "Voice Over Coordinator": [
+      "John Knapp"
+    ],
+    "Written And Produced By": [
+      "Tim Evans",
+      "Corrie Kaufman"
     ]
   }
 }

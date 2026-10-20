@@ -5,102 +5,102 @@
   "copyright": "© 2001 A&E Television Networks. All Rights Reserved.",
   "studios": [],
   "narrators": [
-    "MAX RAPHAEL"
+    "Max Raphael"
   ],
   "crew": {
-    "Narrator": [
-      "MAX RAPHAEL"
-    ],
-    "Edited by": [
-      "ROBBIE PARAMOR"
-    ],
-    "Producer": [
-      "BRUCE NASH"
-    ],
-    "Created by": [
-      "BRUCE NASH"
-    ],
-    "Music by": [
-      "ALAN ETT"
-    ],
-    "Production Manager": [
-      "LINDA K. CLARK"
-    ],
-    "Post Producer": [
-      "SCOTT BERKSON"
-    ],
-    "Researchers": [
-      "KRISTINA DJOKIC",
-      "MARK SAVAGE"
-    ],
-    "Historical Consultant": [
-      "JAMES RUSSELL"
+    "Animation": [
+      "Ian Marks"
     ],
     "Archivist": [
-      "NILDA JENSEN"
-    ],
-    "Footage Consultant": [
-      "TED TROLL"
-    ],
-    "Camera": [
-      "DOUGLAS BAIRD",
-      "TOMMASO BICIOCCHI",
-      "GIANNI MAITAN",
-      "DYLAN S. O'BRIEN"
-    ],
-    "Field Audio": [
-      "MASSIMILIANO D'OTTAVI",
-      "NORM THOMPSON"
-    ],
-    "Post Production Supervisor": [
-      "JASON STEINBERG"
-    ],
-    "Post Production Coordinator": [
-      "GARY REID"
+      "Nilda Jensen"
     ],
     "Assistant Editor": [
-      "MICHAEL LIM"
-    ],
-    "Post Production Assistant": [
-      "STEPHEN FRANKLIN"
-    ],
-    "Online Editor": [
-      "DAVID REX"
-    ],
-    "Sound Mixer": [
-      "PAUL RAY"
-    ],
-    "Animation": [
-      "IAN MARKS"
-    ],
-    "Graphics": [
-      "BARRY HILL"
-    ],
-    "Production Auditor": [
-      "DANI ESLIN"
+      "Michael Lim"
     ],
     "Assistant Production Accountant": [
-      "LINDA SCRIBNER"
-    ],
-    "Production Coordinator": [
-      "KATHLENE EXNER"
-    ],
-    "Production Assistants": [
-      "MARYALICE R. ARAGON",
-      "RASI DELGADO",
-      "SUNI NIVENS"
-    ],
-    "Executive Producer": [
-      "DON CAMBOU"
-    ],
-    "Written and Produced by": [
-      "HENRY SCHIPPER"
+      "Linda Scribner"
     ],
     "Associate Producer": [
-      "HOLLY A. MURDOCH"
+      "Holly A. Murdoch"
+    ],
+    "Camera": [
+      "Douglas Baird",
+      "Tommaso Biciocchi",
+      "Gianni Maitan",
+      "Dylan S. O'Brien"
     ],
     "Consulting Producer": [
-      "HENRY SCHIPPER"
+      "Henry Schipper"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Edited By": [
+      "Robbie Paramor"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
+    "Field Audio": [
+      "Massimiliano D'Ottavi",
+      "Norm Thompson"
+    ],
+    "Footage Consultant": [
+      "Ted Troll"
+    ],
+    "Graphics": [
+      "Barry Hill"
+    ],
+    "Historical Consultant": [
+      "James Russell"
+    ],
+    "Music By": [
+      "Alan Ett"
+    ],
+    "Narrator": [
+      "Max Raphael"
+    ],
+    "Online Editor": [
+      "David Rex"
+    ],
+    "Post Producer": [
+      "Scott Berkson"
+    ],
+    "Post Production Assistant": [
+      "Stephen Franklin"
+    ],
+    "Post Production Coordinator": [
+      "Gary Reid"
+    ],
+    "Post Production Supervisor": [
+      "Jason Steinberg"
+    ],
+    "Producer": [
+      "Bruce Nash"
+    ],
+    "Production Assistants": [
+      "Maryalice R. Aragon",
+      "Rasi Delgado",
+      "Suni Nivens"
+    ],
+    "Production Auditor": [
+      "Dani Eslin"
+    ],
+    "Production Coordinator": [
+      "Kathlene Exner"
+    ],
+    "Production Manager": [
+      "Linda K. Clark"
+    ],
+    "Researchers": [
+      "Kristina Djokic",
+      "Mark Savage"
+    ],
+    "Sound Mixer": [
+      "Paul Ray"
+    ],
+    "Written And Produced By": [
+      "Henry Schipper"
     ]
   }
 }

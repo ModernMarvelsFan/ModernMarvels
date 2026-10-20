@@ -8,36 +8,36 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** Greystone Communications, Inc., The History Channel, Matchframe Video, HMA Digital
-* **Narrator:** THOM PINTO
+* **Narrator:** Thom Pinto
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Avid Editors** | KATHERINE SMITH, KYLE YASKIN |
-| **Assistant Researcher** | TOM COLLINS |
-| **Asst. Prod. Coordinator** | DAVID M. RAMIREZ |
-| **Controller** | ANIT CHAN |
-| **Coordinating Producer** | LOUIS C. TARANTINO |
-| **Editor** | KEVIN BROWNE |
-| **FOR THE HISTORY CHANNEL / Executive Producer** | CHARLIE MADAY |
-| **Field Audio** | MICHAEL ALEXANDER, DONALD HOOPER, JOHN PACKER |
-| **Field Camera** | PAUL JOHNSON, ROBERT RAINEY, DENNIS BONI |
-| **General Counsel** | SHINAAN KRAKOWSKY |
-| **Motion Control Services** | HMA DIGITAL |
-| **Narrated by** | THOM PINTO |
-| **Online/Composite Editors** | MARGARET MOORE, TOM DUGAN |
-| **Original Music by** | CHRISTOPHER STONE, STEVEN MORRELL |
-| **Post Production Coordinators** | JANICE BECH, CHRIS WORTHINGTON |
-| **Post Production Services** | MATCHFRAME VIDEO |
-| **Produced and Directed by** | WAYNE WEISS |
-| **Produced by** | GREYSTONE COMMUNICATIONS, INC. |
-| **Production Accountant** | VIVIAN SANTOS |
-| **Production Assistants** | BRAD HAIGHT, JARED KING, UNIQUE LENHARDT, DON SVEEN |
-| **Series Consultant** | GARRY JAMES |
-| **Studio Guns Provided by** | WILLIAM E. GUIETTE, III, BART LESLIE |
-| **Supervising Producer** | RAYMOND BRIDGERS |
-| **for** | THE HISTORY CHANNEL |
+| **Assistant Avid Editors** | Katherine Smith, Kyle Yaskin |
+| **Assistant Researcher** | Tom Collins |
+| **Asst. Prod. Coordinator** | David M. Ramirez |
+| **Composite Editors** | Margaret Moore, Tom Dugan |
+| **Controller** | Anit Chan |
+| **Coordinating Producer** | Louis C. Tarantino |
+| **Editor** | Kevin Browne |
+| **Executive Producer** | Charlie Maday |
+| **Field Audio** | Michael Alexander, Donald Hooper, John Packer |
+| **Field Camera** | Paul Johnson, Robert Rainey, Dennis Boni |
+| **For** | The History Channel |
+| **General Counsel** | Shinaan Krakowsky |
+| **Motion Control Services** | Hma Digital |
+| **Narrated By** | Thom Pinto |
+| **Original Music By** | Christopher Stone, Steven Morrell |
+| **Post Production Coordinators** | Janice Bech, Chris Worthington |
+| **Post Production Services** | Matchframe Video |
+| **Produced And Directed By** | Wayne Weiss |
+| **Produced By** | Greystone Communications, Inc. |
+| **Production Accountant** | Vivian Santos |
+| **Production Assistants** | Brad Haight, Jared King, Unique Lenhardt, Don Sveen |
+| **Series Consultant** | Garry James |
+| **Studio Guns Provided By** | William E. Guiette, III, Bart Leslie |
+| **Supervising Producer** | Raymond Bridgers |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00289.md)

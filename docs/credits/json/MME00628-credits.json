@@ -10,23 +10,14 @@
     "Max Raphael"
   ],
   "crew": {
-    "Director of Clearance": [
-      "Jerianne Keaney"
-    ],
-    "Production Controller": [
-      "Dani Eslin"
-    ],
-    "Director of Research": [
-      "Terrence Hartwell"
-    ],
-    "Clearance Coordinator": [
-      "Aaron Zober"
-    ],
     "Accountant": [
       "Sheridan Liu"
     ],
-    "Coordinator": [
-      "Maya Sykes"
+    "Animated Stills": [
+      "Adam Goodwin"
+    ],
+    "Animation": [
+      "Victor Bornia"
     ],
     "Assistant Editors": [
       "Alexander Rubinow",
@@ -34,9 +25,6 @@
     ],
     "Asst Post Coordinator": [
       "Gaylen Kobayashi"
-    ],
-    "Post Assist": [
-      "Cory Parker"
     ],
     "Camera": [
       "Keith Barefoot",
@@ -49,6 +37,27 @@
       "Dave Rutherford",
       "Marty Zimmerman"
     ],
+    "Clearance Coordinator": [
+      "Aaron Zober"
+    ],
+    "Coordinator": [
+      "Maya Sykes"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Director Of Clearance": [
+      "Jerianne Keaney"
+    ],
+    "Director Of Research": [
+      "Terrence Hartwell"
+    ],
+    "Editor": [
+      "Lou LaProcido"
+    ],
+    "Executive Producer": [
+      "Don Cambou"
+    ],
     "Field Audio": [
       "Dan Cook",
       "Jim Emswiller",
@@ -60,55 +69,46 @@
       "David S. Wason",
       "Paul Wustrack"
     ],
-    "Online Editor": [
-      "John Price"
-    ],
-    "Animation": [
-      "Victor Bornia"
-    ],
-    "Sound Mixer": [
-      "Erik Valenzuela"
-    ],
-    "Animated Stills": [
-      "Adam Goodwin"
-    ],
-    "Technical Consultants": [
-      "The Doe Run Company",
-      "Martin Lilley",
-      "Philip Shumard"
-    ],
-    "Executive Producer": [
-      "Don Cambou"
-    ],
-    "Written and Produced by": [
-      "Jeff Mercer"
-    ],
-    "Production Executive": [
-      "Paul Dzilvelis"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson"
-    ],
-    "Editor": [
-      "Lou LaProcido"
-    ],
     "Music": [
       "Alan Ett Music Group"
     ],
     "Narrator": [
       "Max Raphael"
     ],
+    "Online Editor": [
+      "John Price"
+    ],
+    "Post Assist": [
+      "Cory Parker"
+    ],
+    "Post Producer": [
+      "Tim Knauff"
+    ],
     "Producer": [
       "Bruce Nash"
+    ],
+    "Production Controller": [
+      "Dani Eslin"
+    ],
+    "Production Executive": [
+      "Paul Dzilvelis"
     ],
     "Production Manager": [
       "Shelia Collins"
     ],
-    "Created by": [
-      "Bruce Nash"
+    "Sound Mixer": [
+      "Erik Valenzuela"
     ],
-    "Post Producer": [
-      "Tim Knauff"
+    "Supervising Producer": [
+      "Ron Nelson"
+    ],
+    "Technical Consultants": [
+      "The Doe Run Company",
+      "Martin Lilley",
+      "Philip Shumard"
+    ],
+    "Written And Produced By": [
+      "Jeff Mercer"
     ]
   }
 }

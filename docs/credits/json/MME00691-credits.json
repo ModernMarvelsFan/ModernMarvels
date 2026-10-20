@@ -10,83 +10,16 @@
     "Max Raphael"
   ],
   "crew": {
-    "Music": [
-      "Legativity"
-    ],
-    "Post Supervisors": [
-      "John Kennedy",
-      "Dana Merwin"
-    ],
-    "Online Editors": [
-      "Scott W. Lee",
-      "Philip Tatler IV"
-    ],
     "Assistant Editors": [
       "Sarah Longnecker",
       "Alicia Lundgren"
-    ],
-    "Location Sound": [
-      "Glenn Bates",
-      "Chris Gurney",
-      "Dennis Jensen",
-      "Rich Raney",
-      "Tom Zimmerman"
-    ],
-    "Graphics": [
-      "Elevation",
-      "Adam Goodwin"
-    ],
-    "Production Manager": [
-      "Katie Young"
-    ],
-    "Post Prep": [
-      "Dylan Harris",
-      "Zach Land",
-      "Niles Maddox",
-      "Sean Sexton",
-      "Jamison Stalsworth"
-    ],
-    "Production Assistance": [
-      "Michelle Weiss",
-      "Jeremy Ashcraft",
-      "Amanda Feathers",
-      "Laura \"Q\" Heinrichs",
-      "Tamara Perry"
-    ],
-    "Project Accounting": [
-      "Natalie Aquino",
-      "Andrienne Smith"
-    ],
-    "Created By": [
-      "Bruce Nash"
-    ],
-    "Programming Coordinator": [
-      "Kelly Vorrasi"
-    ],
-    "Executive Producer": [
-      "John Verhoff",
-      "Stephen Land"
-    ],
-    "Co-Executive Producer": [
-      "Robert Twilley"
-    ],
-    "Supervising Producer": [
-      "Ron Nelson",
-      "Sharon Martin"
-    ],
-    "Producer": [
-      "Jim Lindsay"
-    ],
-    "Field Producers": [
-      "Richard Jones",
-      "Gloria Kruener"
     ],
     "Associate Producers": [
       "Mary Courtney",
       "Robert Wear"
     ],
-    "Editor": [
-      "Scot Kelly"
+    "Mix": [
+      "Dylen Terflinger"
     ],
     "Camera": [
       "Lance Catania",
@@ -95,11 +28,78 @@
       "Lon Magdich",
       "Chris Mitchell"
     ],
+    "Co-Executive Producer": [
+      "Robert Twilley"
+    ],
+    "Created By": [
+      "Bruce Nash"
+    ],
+    "Editor": [
+      "Scot Kelly"
+    ],
+    "Executive Producer": [
+      "John Verhoff",
+      "Stephen Land"
+    ],
+    "Field Producers": [
+      "Richard Jones",
+      "Gloria Kruener"
+    ],
+    "Graphics": [
+      "Elevation",
+      "Adam Goodwin"
+    ],
+    "Location Sound": [
+      "Glenn Bates",
+      "Chris Gurney",
+      "Dennis Jensen",
+      "Rich Raney",
+      "Tom Zimmerman"
+    ],
+    "Music": [
+      "Legativity"
+    ],
     "Narrator": [
       "Max Raphael"
     ],
-    "Audio/Mix": [
-      "Dylen Terflinger"
+    "Online Editors": [
+      "Scott W. Lee",
+      "Philip Tatler IV"
+    ],
+    "Post Prep": [
+      "Dylan Harris",
+      "Zach Land",
+      "Niles Maddox",
+      "Sean Sexton",
+      "Jamison Stalsworth"
+    ],
+    "Post Supervisors": [
+      "John Kennedy",
+      "Dana Merwin"
+    ],
+    "Producer": [
+      "Jim Lindsay"
+    ],
+    "Production Assistance": [
+      "Michelle Weiss",
+      "Jeremy Ashcraft",
+      "Amanda Feathers",
+      "Laura \"Q\" Heinrichs",
+      "Tamara Perry"
+    ],
+    "Production Manager": [
+      "Katie Young"
+    ],
+    "Programming Coordinator": [
+      "Kelly Vorrasi"
+    ],
+    "Project Accounting": [
+      "Natalie Aquino",
+      "Andrienne Smith"
+    ],
+    "Supervising Producer": [
+      "Ron Nelson",
+      "Sharon Martin"
     ]
   }
 }

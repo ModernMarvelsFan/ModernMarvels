@@ -16,7 +16,6 @@
 | :--- | :--- |
 | **Assistant Editors** | Sarah Longnecker, Alicia Lundgren |
 | **Associate Producers** | Mary Courtney, Robert Wear |
-| **Audio/Mix** | Dylen Terflinger |
 | **Camera** | Lance Catania, Sal Gallagher, Dominic Giordano, Lon Magdich, Chris Mitchell |
 | **Co-Executive Producer** | Robert Twilley |
 | **Created By** | Bruce Nash |
@@ -25,6 +24,7 @@
 | **Field Producers** | Richard Jones, Gloria Kruener |
 | **Graphics** | Elevation, Adam Goodwin |
 | **Location Sound** | Glenn Bates, Chris Gurney, Dennis Jensen, Rich Raney, Tom Zimmerman |
+| **Mix** | Dylen Terflinger |
 | **Music** | Legativity |
 | **Narrator** | Max Raphael |
 | **Online Editors** | Scott W. Lee, Philip Tatler IV |

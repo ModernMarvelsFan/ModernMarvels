@@ -30,12 +30,12 @@
 | **Coordinating Producer** | Liv Fidler |
 | **Coordinator** | Brad Skiles |
 | **Created By** | Bruce Nash |
-| **Director of Research** | Allison Boon |
-| **Director of Rights and Clearances** | Katie Del Core |
+| **Director Of Research** | Allison Boon |
+| **Director Of Rights And Clearances** | Katie Del Core |
 | **Editor** | Denny Thomas, Marcelo Lopes |
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Beth Dietrich-Segarra, John Verhoff, Jim Pasquarella, Brandy Crawford-Uriu, Steve Ascher, Matt Pearl, Kristy Sabat |
-| **Executive-in-Charge of Production** | Patrice Andrews |
+| **Executive-In-Charge Of Production** | Patrice Andrews |
 | **Field Audio** | Bruce Engler, Mike W. Thomason, Eldon Van Vickle, Patrick Lenehan, Rick Nyburg, Paul Wustrack, Adrian Sam |
 | **Finishing Associate Producer** | RT Smith Jr. |
 | **Graphics** | Ballast TV |
@@ -46,7 +46,7 @@
 | **Music** | Alan Ett Music Group, The 100% Music Library, Audio Network, Extreme Music, Strike Audio, Vanacore Music |
 | **Narration** | Lloyd Sherr |
 | **Online Editor** | John Price |
-| **Online Editor and Colorist** | Martin Behm |
+| **Online Editor And Colorist** | Martin Behm |
 | **Online Producer** | Brian Street |
 | **Post Coordinator** | Terrence Hartwell |
 | **Post Producer** | Lauren Vance, Tim Knauff |
@@ -56,20 +56,20 @@
 | **Post-Production Supervisor** | Allison Moser |
 | **Producer** | Bruce Nash |
 | **Production Accountant** | Anthony R. Reyes |
+| **Production And Development Assistant** | Zoe Resnick |
 | **Production Controller** | Dani Eslin |
 | **Production Coordinator** | Ashley Scalf |
 | **Production Executive** | Paul Dzilvelis |
 | **Production Manager** | Kathy Williams, Shelia Collins |
-| **Production and Development Assistant** | Zoe Resnick |
 | **Programming Coordinator** | Michele Wilcox |
 | **Researcher** | Uldis Balodis |
-| **SVP, Production Operations** | Ed Russo |
 | **Senior Manager, Rights &amp; Clearances** | Elio Concepcion |
 | **Sound Mixer** | Erik Valenzuela |
 | **Supervising Producers** | Allie Breslin, Pat Nigivic |
 | **Supervising Producers, Post-Production** | Helena Greenwald, Mike Giordano |
-| **VP, Production Management** | Patricia Paredes Saez |
-| **Written and Produced by** | Kristine Ripka |
+| **Svp, Production Operations** | Ed Russo |
+| **Vp, Production Management** | Patricia Paredes Saez |
+| **Written And Produced By** | Kristine Ripka |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00741.md)

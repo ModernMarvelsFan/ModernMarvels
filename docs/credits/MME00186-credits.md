@@ -14,40 +14,39 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **ANIMATION** | Glenn Takajian |
-| **ARCHIVIST** | Nilda Jensen |
-| **ASSISTANT EDITORS** | Michael Lim, Stephen Franklin |
-| **ASSISTANT PRODUCTION ACCOUNTANTS** | Linda Scribner, Sonia Randazzo |
-| **ASSOCIATE PRODUCER** | Ansley Bell |
-| **CAMERA** | Michael Ford, Michael Marton, Dylan S. O'Brien |
-| **CLEARANCE ASSISTANT** | Gabe Martinez |
-| **CLEARANCE SUPERVISOR** | Katie Del Core |
-| **CONSULTING PRODUCER** | Henry Schipper |
-| **CREATED BY** | Bruce Nash |
-| **DIRECTOR OF RESEARCH** | Hilde Katibah |
-| **EDITED BY** | Avi Fisher |
-| **EXECUTIVE PRODUCER** | Don Cambou |
-| **FIELD AUDIO** | Terry Marton, Aaron Webster |
-| **FIELD PRODUCER** | Steven Hamburg |
-| **FOOTAGE CONSULTANT** | Ted Troll |
-| **FOR THE HISTORY CHANNEL / EXECUTIVE PRODUCER** | Beth Dietrich-Segarra |
-| **GRAPHICS** | Barry Hill |
-| **LINE PRODUCER** | Paul Dzilvelis |
-| **MUSIC BY** | Alan Ett |
-| **NARRATED BY** | Max Raphael |
-| **ONLINE EDITOR** | David Rex |
-| **POST PRODUCER** | Scott Berkson |
-| **POST PRODUCTION COORDINATOR** | Gary Reid |
-| **POST PRODUCTION SUPERVISOR** | Jason Steinberg |
-| **PRODUCER** | Bruce Nash |
-| **PRODUCTION ASSISTANTS** | Maryalice R. Aragon, Rasi Delgado, Suni Nivens |
-| **PRODUCTION AUDITOR** | Dani Eslin |
-| **PRODUCTION COORDINATOR** | Michael Z. Davis |
-| **PRODUCTION MANAGER** | Kathleen Exner |
-| **RESEARCHERS** | Mark Savage, Diane Wai |
-| **SOUND MIXER** | Paul Ray |
-| **VOICE OVER COORDINATOR** | Dawn Irwin |
-| **WRITTEN AND PRODUCED BY** | Adrian Maher |
+| **Animation** | Glenn Takajian |
+| **Archivist** | Nilda Jensen |
+| **Assistant Editors** | Michael Lim, Stephen Franklin |
+| **Assistant Production Accountants** | Linda Scribner, Sonia Randazzo |
+| **Associate Producer** | Ansley Bell |
+| **Camera** | Michael Ford, Michael Marton, Dylan S. O'Brien |
+| **Clearance Assistant** | Gabe Martinez |
+| **Clearance Supervisor** | Katie Del Core |
+| **Consulting Producer** | Henry Schipper |
+| **Created By** | Bruce Nash |
+| **Director Of Research** | Hilde Katibah |
+| **Edited By** | Avi Fisher |
+| **Executive Producer** | Beth Dietrich-Segarra |
+| **Field Audio** | Terry Marton, Aaron Webster |
+| **Field Producer** | Steven Hamburg |
+| **Footage Consultant** | Ted Troll |
+| **Graphics** | Barry Hill |
+| **Line Producer** | Paul Dzilvelis |
+| **Music By** | Alan Ett |
+| **Narrated By** | Max Raphael |
+| **Online Editor** | David Rex |
+| **Post Producer** | Scott Berkson |
+| **Post Production Coordinator** | Gary Reid |
+| **Post Production Supervisor** | Jason Steinberg |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Maryalice R. Aragon, Rasi Delgado, Suni Nivens |
+| **Production Auditor** | Dani Eslin |
+| **Production Coordinator** | Michael Z. Davis |
+| **Production Manager** | Kathleen Exner |
+| **Researchers** | Mark Savage, Diane Wai |
+| **Sound Mixer** | Paul Ray |
+| **Voice Over Coordinator** | Dawn Irwin |
+| **Written And Produced By** | Adrian Maher |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00186.md)

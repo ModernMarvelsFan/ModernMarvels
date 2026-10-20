@@ -7,34 +7,34 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** JAFFE PRODUCTIONS, ACTUALITY PRODUCTIONS, Inc., Hearst Entertainment, ALAN ETT MUSIC GROUP, INC., ART F/X
-* **Narrator:** EARL BOEN
+* **Production Company:** Jaffe Productions, ACTUALITY PRODUCTIONS, Inc., Hearst Entertainment, Alan Ett Music Group, Inc., Art F/X
+* **Narrator:** Earl Boen
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | DERRICK McDANIEL, DONALD MILNE, LOU LaPROCIDO, JON FRANCIS |
-| **Assistant Production Accountants** | TRACY TOWERS, LINDA SCRIBNER |
-| **Assistant to Don Cambou** | TIM SHELL |
-| **Audio Post Production** | ALAN ETT MUSIC GROUP, INC., SAM KAUFMAN, DANIEL COLMAN |
-| **Camera Operators** | WILLIAM GODERRE, MARK GOULDY |
-| **Exective Producer** | CHARLIE MADAY |
-| **Footage Consultant** | TIM WAGNER |
-| **Graphics By** | ART F/X |
-| **Music By** | ALAN ETT |
-| **Narrated By** | EARL BOEN |
-| **Online Editor** | DON BURT |
-| **Post Production Coordinator** | BRADY HECK |
-| **Post Production Supervisor** | TOM ROGAN |
-| **Producer** | BRUCE NASH |
-| **Production Assistants** | KEITH DOLS, DANYA BERMAN |
-| **Production Finance Supervisor** | PAUL DZILVELIS |
-| **Production Manager** | W. GREG BOHNERT |
-| **Researcher** | RICK BENAVIDES |
-| **Senior Production Executive** | JACK SEIFERT |
-| **Series Manager** | ELYSE MIRANDA |
-| **Sound Mixers** | TIM HUGHES, STEVE RUSSEL |
+| **Assistant Editors** | DERRICK McDANIEL, Donald Milne, LOU LaPROCIDO, Jon Francis |
+| **Assistant Production Accountants** | Tracy Towers, Linda Scribner |
+| **Assistant To Don Cambou** | Tim Shell |
+| **Audio Post Production** | Alan Ett Music Group, Inc., Sam Kaufman, Daniel Colman |
+| **Camera Operators** | William Goderre, Mark Gouldy |
+| **Exective Producer** | Charlie Maday |
+| **Footage Consultant** | Tim Wagner |
+| **Graphics By** | Art F/X |
+| **Music By** | Alan Ett |
+| **Narrated By** | Earl Boen |
+| **Online Editor** | Don Burt |
+| **Post Production Coordinator** | Brady Heck |
+| **Post Production Supervisor** | Tom Rogan |
+| **Producer** | Bruce Nash |
+| **Production Assistants** | Keith Dols, Danya Berman |
+| **Production Finance Supervisor** | Paul Dzilvelis |
+| **Production Manager** | W. Greg Bohnert |
+| **Researcher** | Rick Benavides |
+| **Senior Production Executive** | Jack Seifert |
+| **Series Manager** | Elyse Miranda |
+| **Sound Mixers** | Tim Hughes, Steve Russel |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00045.md)
