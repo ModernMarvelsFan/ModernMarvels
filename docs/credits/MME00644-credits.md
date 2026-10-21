@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Actuality Productions, Inc., A&E Television Networks, AMI Music Group
+* **Production Company:** Actuality Productions, Inc., A&E Television Networks, Ami Music Group
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -30,7 +30,7 @@
 | **Field Audio** | Mike Harvey, Aaron Holloway, Bryan Kweskin, Thomas Moore, Charles Rohr, Don Yost |
 | **For History - Executive Producer** | John Verhoff |
 | **For History - Programming Coordinator** | Adam Rosante |
-| **Music** | AMI Music Group |
+| **Music** | Ami Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assist** | Cory Parker |

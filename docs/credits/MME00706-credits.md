@@ -27,7 +27,7 @@
 | **Narrator** | Max Raphael |
 | **Post Production Coordinator** | Ben Shuster |
 | **Post Production Manager** | Cameron Young |
-| **Produced By** | Half Yard Productions, LLC for HISTORY |
+| **Produced By** | Half Yard Productions, LLC for History |
 | **Production Assistant** | Jaye Callahan |
 | **Production Coordinator** | Kati Gallagher |
 | **Production Manager** | Jennifer Partin |

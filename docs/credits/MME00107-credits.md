@@ -1,5 +1,5 @@
-# Credit Roll: More Earthmovers. (1999)
-**Canonical Episode:** [`MME00107: More Earthmovers.`](../episodes/MME00107.md)
+# Credit Roll: More Earthmovers (1999)
+**Canonical Episode:** [`MME00107: More Earthmovers`](../episodes/MME00107.md)
 
 **Downloads:** [Credits JSON](json/MME00107-credits.json) • [Credits Plain Text](txt/MME00107-credits.txt)
 
@@ -35,7 +35,7 @@
 | **Music By** | Alan Ett Music Group |
 | **Narrated By** | Max Raphael |
 | **Online Editor** | Doug Nolan |
-| **Post Assistants** | Gaylen Kobayashi, KEVIN McCARTNEY, Rob Harrington |
+| **Post Assistants** | Gaylen Kobayashi, Kevin McCartney, Rob Harrington |
 | **Post Coordinator** | Terrence Hartwell |
 | **Post Producers** | Scott Berkson, Tim Knauff |
 | **Producer** | Bruce Nash |

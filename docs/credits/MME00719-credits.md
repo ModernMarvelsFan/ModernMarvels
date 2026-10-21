@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2021 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Produced by the Six West Media™ group for HISTORY®
+* **Production Company:** Produced by the Six West Media™ group for History®
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll

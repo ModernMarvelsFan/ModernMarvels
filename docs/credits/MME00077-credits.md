@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1998 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, The History Channel
+* **Production Company:** Actuality Productions, Inc., Hearst Entertainment, The History Channel
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll

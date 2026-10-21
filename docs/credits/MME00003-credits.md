@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1994 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Premore, Inc., Midtown Post, Valage, Jaffe Productions, Hearst Entertainment Television, PREMORE, INC. (Post Production, name partly cut at bottom edge of last frame)
+* **Production Company:** Premore, Inc., Midtown Post, Valage, Jaffe Productions, Hearst Entertainment Television, Premore, Inc. (Post Production, name partly cut at bottom edge of last frame)
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -20,7 +20,7 @@
 | **Editor** | Andy Thomas |
 | **Executive In Charge** | Mel A. Bishop |
 | **Executive Producer** | Bob Jaffe |
-| **Graphics** | Ron Clark, ART F/X |
+| **Graphics** | Ron Clark, Art F/X |
 | **Music By** | Scott Page-Pagter, John Valentino |
 | **Online Editor** | Brian Pete |
 | **Post Production** | Premore, Inc., Midtown Post, Valage |

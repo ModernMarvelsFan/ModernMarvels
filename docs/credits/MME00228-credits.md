@@ -1,5 +1,5 @@
-# Credit Roll: Axes, Swords and Knives. (2002)
-**Canonical Episode:** [`MME00228: Axes, Swords and Knives.`](../episodes/MME00228.md)
+# Credit Roll: Axes, Swords and Knives (2002)
+**Canonical Episode:** [`MME00228: Axes, Swords and Knives`](../episodes/MME00228.md)
 
 **Downloads:** [Credits JSON](json/MME00228-credits.json) • [Credits Plain Text](txt/MME00228-credits.txt)
 

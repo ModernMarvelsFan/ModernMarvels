@@ -29,7 +29,7 @@
 | **Editor** | Scot Kelly |
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **Field Audio** | Chad Bryant, JOHN DeMAIO, Gerald Hartley, Brandon Kappert, Jason Richmond, Charles Rohr, Marty Zimmerman |
+| **Field Audio** | Chad Bryant, John DeMaio, Gerald Hartley, Brandon Kappert, Jason Richmond, Charles Rohr, Marty Zimmerman |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |

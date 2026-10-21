@@ -19,7 +19,7 @@
 | **Associate Producers** | Suzanne Gilreath, Mai-Ly Nguyen |
 | **Camera** | David Bradstreet, Tom Lorch, Lon Magdich, Kelley Marchal, Mark Moore, John Paluzzi |
 | **Clearance Supervisor** | Katie Del Core |
-| **Coordinator** | ROSALYN McVAY |
+| **Coordinator** | Rosalyn McVay |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Anthony Lacoues |
 | **Edited By** | Robert Lattanzio, Pamela Malouf |

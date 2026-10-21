@@ -19,7 +19,7 @@
 | **Assistant Editor** | Laura Steinhoff |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Camera** | Tim Holland, Peter Krajewski, Lon Magdich, Greg Steinbrecher, Marty Zimmerman |
-| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Coordinator** | D.w. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | Rosalyn McVay |
 | **Created By** | Bruce Nash |

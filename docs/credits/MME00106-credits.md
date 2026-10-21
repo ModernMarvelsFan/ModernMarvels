@@ -21,7 +21,7 @@
 | **Camera Operators** | Scott Enlow, Jared Manders, Gene Maynard, George Odell, Bud Osborne, Doug Viar, Kennedy Wheatley |
 | **Director Of Photography** | John Bonner |
 | **Executive Producer** | Charlie Maday |
-| **Field Audio** | Kevin Cates, BRITT McBRYAR, Mike Murray, Thom Shafer, Jason Smith, David Wason |
+| **Field Audio** | Kevin Cates, Britt McBryar, Mike Murray, Thom Shafer, Jason Smith, David Wason |
 | **Footage Consultant** | Ted Troll |
 | **Graphics** | Barry Hill |
 | **Make-Up Artist** | Connie Cole |

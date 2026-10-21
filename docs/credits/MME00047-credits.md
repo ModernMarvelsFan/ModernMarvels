@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `PRODUCED BY ACTUALITY PRODUCTIONS INC. FOR THE HISTORY CHANNEL. © 1995 A&E TELEVISION NETWORKS ALL RIGHTS RESERVED`
-* **Production Company:** Jaffe Productions, Hearst Entertainment, ACTUALITY Productions, Inc., The History Channel, Actuality Productions Inc., A&e Television Networks
+* **Production Company:** Jaffe Productions, Hearst Entertainment, Actuality Productions, Inc., The History Channel, Actuality Productions Inc., A&E Television Networks
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll

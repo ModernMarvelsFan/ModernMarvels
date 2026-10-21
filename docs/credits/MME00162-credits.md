@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment
+* **Production Company:** Actuality Productions, Inc., Hearst Entertainment
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -32,7 +32,7 @@
 | **Post Production Assistant** | Stephen Franklin |
 | **Post Production Coordinator** | Gary Reid |
 | **Post Production Supervisor** | Jason Steinberg |
-| **Produced By** | ACTUALITY Productions, Inc. |
+| **Produced By** | Actuality Productions, Inc. |
 | **Producer** | Bruce Nash |
 | **Production Manager** | Linda K. Clark |
 | **Researchers** | Kristina Djokic, Anthony Lacques, Gloria Morris |

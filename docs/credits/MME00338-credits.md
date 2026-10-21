@@ -25,7 +25,7 @@
 | **Edited By** | Pamela Malouf |
 | **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Gregg Hinnen, Jeff McGall, Dino Quaglietta, Ramsey Tripp |
-| **Historical Consultants** | Capt. Rick Hepburn, U.S. Navy (Ret), P.E., Nathan R. Lipfert, John Tuttle, Thomas R. Wilcox, Jr. |
+| **Historical Consultants** | Capt. Rick Hepburn, U.S. Navy (Ret), P.e., Nathan R. Lipfert, John Tuttle, Thomas R. Wilcox, Jr. |
 | **Line Producer** | Paul Dzilvelis |
 | **Music By** | Alan Ett Music Group |
 | **Narrated By** | Max Raphael |

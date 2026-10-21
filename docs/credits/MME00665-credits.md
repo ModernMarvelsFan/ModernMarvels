@@ -18,13 +18,13 @@
 | **Animation** | Glenn Takakjian |
 | **Assistant Editors** | Alexander Rubinow, Nate Dusek |
 | **Asst Post Coordinator** | Gaylen Kobayashi |
-| **Camera** | James Alario, Robert Brunk, Scott Kilian, Bryan Maslin, Tom Pakulski, Jim Petit, Adam Sampson, Steve Van Osdale, Zvonimir “Z” Vidusin |
+| **Camera** | James Alario, Robert Brunk, Scott Kilian, Bryan Maslin, Tom Pakulski, Jim Petit, Adam Sampson, Steve Van Osdale, Zvonimir “z” Vidusin |
 | **Created By** | Bruce Nash |
 | **Director Of Clearance** | Jerianne Keaney |
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | John Verhoff |
 | **Field Audio** | Aaron Austin, Douglas Burton, Dan Cook, Andre Logan, Mark Mostad, Geoff Pennington, Phil Sirois, Kem Stralka |
-| **Music** | AMI Music Group |
+| **Music** | Ami Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assist** | Cory Parker |
@@ -38,7 +38,7 @@
 | **Researcher** | Kyle Salners |
 | **Sound Mixer** | Nozomu Furuya-Hirota |
 | **Supervising Producer** | Ron Nelson |
-| **Technical Consultants** | B&amp;G Foods, Inc., CHS, Inc., Kelley Bean Company |
+| **Technical Consultants** | B&amp;g Foods, Inc., Chs, Inc., Kelley Bean Company |
 | **Written And Produced By** | Jeff Mercer |
 
 ---

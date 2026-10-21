@@ -36,7 +36,7 @@
 | **Post Production Coordinator** | Gary Reid |
 | **Post Production Supervisor** | Jason Steinberg |
 | **Producer** | Bruce Nash |
-| **Production Assistants** | MaryALICE R. ARAGON, Rasi Delgado |
+| **Production Assistants** | Maryalice R. Aragon, Rasi Delgado |
 | **Production Auditor** | Dani Eslin |
 | **Production Coordinator** | Michael Z Davis |
 | **Production Manager** | Kathlene Exner |

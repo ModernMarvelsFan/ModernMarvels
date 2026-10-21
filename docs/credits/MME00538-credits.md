@@ -25,7 +25,7 @@
 | **Created By** | Bruce Nash |
 | **Director Of Clearance** | Jerianne Keaney |
 | **Director Of Research** | Allison Boon |
-| **Editor** | LOU LaPROCIDO |
+| **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Field Audio** | Ryan Agostino, Brandt Clark, Jeffery Hill, Cary Pope, Charles Rohr, Adrian Sam |

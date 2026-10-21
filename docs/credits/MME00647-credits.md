@@ -27,7 +27,7 @@
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | John Verhoff |
 | **Field Audio** | Gerald Hartly, Mark Perfetti, Saul Quinn, Charles Rohr, Thomas Shafer, Greg Stidham |
-| **Music** | AMI Music Group |
+| **Music** | Ami Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assist** | Cory Parker |

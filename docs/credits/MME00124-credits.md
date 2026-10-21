@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, The History Channel
+* **Production Company:** Actuality Productions, Inc., Hearst Entertainment, The History Channel
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -19,7 +19,7 @@
 | **Executive Producer** | Charlie Maday |
 | **Footage Consultant** | Ted Troll |
 | **Online Editor** | David Rex |
-| **Produced By** | ACTUALITY Productions, Inc. |
+| **Produced By** | Actuality Productions, Inc. |
 | **Production Assistants** | Maryalice R. Aragon, Gwendolyn Murphy, Jamie Schoenbrun |
 | **Production Auditor** | Dani Eslin |
 | **Production Coordinator** | Kathy Exner |

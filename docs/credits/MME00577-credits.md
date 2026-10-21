@@ -29,7 +29,7 @@
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Beth Dietrich-Segarra, Michael Stiler |
 | **Field Audio** | James Hanlon |
-| **Historical Consultants** | Dr. Kelly DeVries, Kim Siddorn |
+| **Historical Consultants** | Dr. Kelly deVries, Kim Siddorn |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |

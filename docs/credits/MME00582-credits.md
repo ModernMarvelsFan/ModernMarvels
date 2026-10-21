@@ -27,8 +27,8 @@
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **Field Audio** | James M. Emswiller C.A.S., Eric Golden, Thanos Panagiotaros, Thomas Shafer, Mark Solomon, Hans Van Der Bold |
-| **Historical Consultants** | American Welding Society, Lincoln Electric, Global Industries Ltd., Sonics &amp; Materials, Inc., George Young, P.E. |
+| **Field Audio** | James M. Emswiller C.a.s., Eric Golden, Thanos Panagiotaros, Thomas Shafer, Mark Solomon, Hans Van Der Bold |
+| **Historical Consultants** | American Welding Society, Lincoln Electric, Global Industries Ltd., Sonics &amp; Materials, Inc., George Young, P.e. |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |

@@ -21,7 +21,7 @@
 | **Online Editor** | David Rex |
 | **Post Production Assistant** | Brian Volk |
 | **Post Production Coordinator** | Jason Steinberg |
-| **Produced By** | ACTUALITY Productions, Inc. |
+| **Produced By** | Actuality Productions, Inc. |
 | **Production Assistants** | Maryalice R. Aragon, Gwendolyn Murphy, Jamie Schoenbrun |
 | **Production Auditor** | Dani Eslin |
 | **Production Coordinator** | Kathy Exner |

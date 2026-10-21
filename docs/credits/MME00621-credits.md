@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2008 A&E Television Networks, All Rights Reserved`
-* **Production Company:** Actuality Productions, Inc., FlyingBlue Studio, AMI Music Group
+* **Production Company:** Actuality Productions, Inc., FlyingBlue Studio, Ami Music Group
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -30,7 +30,7 @@
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Michael Stiller, John Verhoff |
 | **Field Audio** | Brian Garfield, Ryan Handley, Jay Quinn, Charles Rohr, Jay Round, Tom Staton, Steve Theroux |
-| **Music** | AMI Music Group |
+| **Music** | Ami Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Producer** | Tim Knauff |

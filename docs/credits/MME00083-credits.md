@@ -1,5 +1,5 @@
-# Credit Roll: Airships. (1999)
-**Canonical Episode:** [`MME00083: Airships.`](../episodes/MME00083.md)
+# Credit Roll: Airships (1999)
+**Canonical Episode:** [`MME00083: Airships`](../episodes/MME00083.md)
 
 **Downloads:** [Credits JSON](json/MME00083-credits.json) • [Credits Plain Text](txt/MME00083-credits.txt)
 

@@ -19,7 +19,7 @@
 | **Assistant To Bob Jaffe** | Hay Tanning |
 | **Assistant To Tim Busa** | Alexandra Rojas |
 | **Assistant Visual Coordinators** | William F. Swift, Eric Trueheart |
-| **Associate Producer** | DOUG DeLUCA |
+| **Associate Producer** | Doug DeLuca |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Chuck Hayes |
 | **Edited By** | Rick Moore |

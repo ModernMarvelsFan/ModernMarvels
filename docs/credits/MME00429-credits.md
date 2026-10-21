@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© S4C/S4C International 2003`
-* **Production Company:** Wild Dreams Films Ltd, S4C International, A&E Television Networks, The History Channel
+* **Production Company:** Wild Dreams Films Ltd., S4c International, A&E Television Networks, The History Channel
 * **Narrator:** Michael Carroll
 
 ### Complete Transcribed On-Screen Crew Roll

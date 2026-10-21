@@ -1,5 +1,5 @@
-# Credit Roll: Cannons. (2001)
-**Canonical Episode:** [`MME00185: Cannons.`](../episodes/MME00185.md)
+# Credit Roll: Cannons (2001)
+**Canonical Episode:** [`MME00185: Cannons`](../episodes/MME00185.md)
 
 **Downloads:** [Credits JSON](json/MME00185-credits.json) • [Credits Plain Text](txt/MME00185-credits.txt)
 

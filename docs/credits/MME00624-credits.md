@@ -31,7 +31,7 @@
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Aaron Austin, Gary Azzinaro, Dan Cook, Chris Grehan, Noah Mathers, Kem Stralka, Paul Wustrack |
 | **Historical Consultants** | Tom B. Jones, Joe Cunningham, Gary Peterson |
-| **Music** | AMI Music Group |
+| **Music** | Ami Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assist** | Cory Parker |

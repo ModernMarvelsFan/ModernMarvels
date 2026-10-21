@@ -25,7 +25,7 @@
 | **Editor** | Dan Wolfmeyer |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Brian Clavey, Andrew Commiskey, Sean Demers, John Goheen, Charles Rohr, Mark Solomon, Don Yost, Marty Zimmerman |
-| **Music** | AMI Music Group |
+| **Music** | Ami Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Coordinator** | Gaylen Kobayashi |

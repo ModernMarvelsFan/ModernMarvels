@@ -14,11 +14,11 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | DERRICK McDANIEL, Donald Milne |
+| **Assistant Editors** | Derrick McDaniel, Donald Milne |
 | **Associate Producer** | Luke Ellis |
 | **Audio Mixer** | Tim Brown |
 | **Created By** | Bruce Nash |
-| **Edited By** | JANE McCORD |
+| **Edited By** | Jane McCord |
 | **Executive Producer** | Charlie Maday, Bob Jaffe |
 | **Field Audio** | Greg Miller |
 | **Field Cameras** | Jeff Kurr, Thomas Wolf |

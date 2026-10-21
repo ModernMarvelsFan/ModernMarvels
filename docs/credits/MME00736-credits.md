@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `©2009 - 2022 A&E Television Networks, LLC. All Rights Reserved.`
-* **Production Company:** Actuality Productions, Inc., Six West Media(TM) group, Ballast TV, Motion Picture Enterprises, Inc., FlyingBlue Studio, Extreme Music
+* **Production Company:** Actuality Productions, Inc., Six West Media(tm) group, Ballast TV, Motion Picture Enterprises, Inc., FlyingBlue Studio, Extreme Music
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -34,7 +34,7 @@
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Steve Ascher, Matt Pearl, Kristy Sabat |
 | **Field Audio** | Daniel Agustin, Juan Cammarano, Dan Cook, Mark Page, Matt Hamilton, Andre Logan, Greg Stidham, Phil Velasco |
-| **Finishing Associate Producer** | KT Smith Jr. |
+| **Finishing Associate Producer** | Kt Smith Jr. |
 | **Graphics** | Ballast TV |
 | **Junior Production Accountant** | Phurbu Nepali |
 | **Lead Assistant Editor** | Scott R. Dixon |
@@ -64,7 +64,7 @@
 | **Supervising Producer** | Allie Breslin, Ron Nelson |
 | **Supervising Producers, Post-Production** | Helena Greenwald, Mike Giordano |
 | **Svp, Production Operations** | Ed Russo |
-| **Technical Consultants** | Mark Bassett, CJ Generation, LLC, Chris Crain, Jack W. Finger, I-Wei Huang, Stanley Museum, Steamboat Natchez |
+| **Technical Consultants** | Mark Bassett, Cj Generation, LLC, Chris Crain, Jack W. Finger, I-Wei Huang, Stanley Museum, Steamboat Natchez |
 | **Vp, Production Management** | Patricia Paredes Saez |
 | **Written And Produced By** | Richard Jones |
 

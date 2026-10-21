@@ -28,7 +28,7 @@
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Steve Brown, Frank Collins, Eric Golden, Chris Merz, Bernie Kriegel, Charles Rohr, Jerry Wheat, Paul Wustrack |
-| **Music** | AMI Music Group |
+| **Music** | Ami Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assist** | Cory Parker |

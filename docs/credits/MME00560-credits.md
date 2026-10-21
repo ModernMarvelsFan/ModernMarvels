@@ -24,10 +24,10 @@
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Allison Boon |
 | **Director Of Rights And Clearances** | Katie Del Core |
-| **Edited By** | Lou Laprocido |
+| **Edited By** | Lou LaProcido |
 | **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Tyler Bender, Anne Cocklin, Gordon Glascock, James Lindsay, Franz Moore, Rodney Ragan, Charles Rohr, Adrian Sam, Jason Stoddard |
-| **Historical Consultants** | Rudy Branham, Steve Fischer, Tony Lockard, Dan Mathews, Danny O'Day, BART SLAUGH, PhD |
+| **Historical Consultants** | Rudy Branham, Steve Fischer, Tony Lockard, Dan Mathews, Danny O'Day, Bart Slaugh, PhD |
 | **Music By** | Alan Ett Music Group |
 | **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |

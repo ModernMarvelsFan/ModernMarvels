@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `Produced by Half Yard Productions. For The History Channel © © 2011 A&E TELEVISION NETWORKS. ALL RIGHTS RESERVED`
-* **Production Company:** Half Yard Productions (producer), TAKOMA MEDIA (sound design), WORDPLAY (transcription), A&E TELEVISION NETWORKS (rights holder)
+* **Production Company:** Half Yard Productions (producer), Takoma Media (sound design), Wordplay (transcription), A&E Television Networks (rights holder)
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll

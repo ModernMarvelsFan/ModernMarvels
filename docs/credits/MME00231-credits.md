@@ -1,5 +1,5 @@
-# Credit Roll: The Manhattan Project. (2002)
-**Canonical Episode:** [`MME00231: The Manhattan Project.`](../episodes/MME00231.md)
+# Credit Roll: The Manhattan Project (2002)
+**Canonical Episode:** [`MME00231: The Manhattan Project`](../episodes/MME00231.md)
 
 **Downloads:** [Credits JSON](json/MME00231-credits.json) • [Credits Plain Text](txt/MME00231-credits.txt)
 

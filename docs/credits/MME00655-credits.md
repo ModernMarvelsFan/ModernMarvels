@@ -42,7 +42,7 @@
 | **Research** | Rick George |
 | **Sound Mixer** | Ryan Young |
 | **Supervising Producer** | Ron Nelson |
-| **Technical Consultants** | Architect of the Capitol's Office, LOC Preservation Directorate, SmithGroup Architects |
+| **Technical Consultants** | Architect of the Capitol's Office, Loc Preservation Directorate, SmithGroup Architects |
 
 ---
 [← Return to Episode Dossier](../episodes/MME00655.md)

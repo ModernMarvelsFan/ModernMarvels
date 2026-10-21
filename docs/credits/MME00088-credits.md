@@ -19,7 +19,7 @@
 | **Assistant Production Accountants** | Judi Minitello, Linda Scribner |
 | **Assistant To Don Cambou** | Tim Shell |
 | **Associate Producer** | Andrea Anderson |
-| **Audio Coordinator** | DERRICK McDANIEL |
+| **Audio Coordinator** | Derrick McDaniel |
 | **Camera** | Jim Arnold, Nicholas Blanchet, Lansing Dreamer, Jeff Lyle, Duwayne Rude |
 | **Created By** | Bruce Nash |
 | **Edited By** | Robert Potter |

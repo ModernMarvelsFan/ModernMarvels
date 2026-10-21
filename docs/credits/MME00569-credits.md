@@ -27,7 +27,7 @@
 | **Director Of Research** | Allison Boon |
 | **Editor** | Marcelo Lopes |
 | **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
-| **Field Audio** | Ryan Agostino, Paul Baldwin, Dennis Hamlin, JOE McCARTAN, Franz Moore, Amy W. Sandefur, Tim Stringfellow, Lanny J. Westgard |
+| **Field Audio** | Ryan Agostino, Paul Baldwin, Dennis Hamlin, Joe McCartan, Franz Moore, Amy W. Sandefur, Tim Stringfellow, Lanny J. Westgard |
 | **Music By** | Guy Thomas |
 | **Narrator** | Max Raphael |
 | **Online Editor** | Sarah Steele |

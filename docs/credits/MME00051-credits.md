@@ -1,5 +1,5 @@
-# Credit Roll: Forensic Science: The Crime Fighter's Weapon. (1997)
-**Canonical Episode:** [`MME00051: Forensic Science: The Crime Fighter's Weapon.`](../episodes/MME00051.md)
+# Credit Roll: Forensic Science: The Crime Fighter's Weapon (1997)
+**Canonical Episode:** [`MME00051: Forensic Science: The Crime Fighter's Weapon`](../episodes/MME00051.md)
 
 **Downloads:** [Credits JSON](json/MME00051-credits.json) • [Credits Plain Text](txt/MME00051-credits.txt)
 
@@ -16,7 +16,7 @@
 | :--- | :--- |
 | **Assistant Production Accountants** | Linda Scriber, Thia Kulma |
 | **Assistant To Don Cambou** | Tim Shell |
-| **Associate Producers** | J.V. Martin, Luke Ellis |
+| **Associate Producers** | J.v. Martin, Luke Ellis |
 | **Audio Post Production** | Alan Ett Music Group, Inc., Sam Kaufman, Daniel Colman |
 | **Camera Operator** | Paul Dougherty |
 | **Created By** | Bruce Nash |

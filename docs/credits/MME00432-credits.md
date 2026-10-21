@@ -19,7 +19,7 @@
 | **Assistant Editors** | Laura Steinhoff, Michael Broome |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Camera** | Roddy Bielloch, Chris Connell, Bob Elfstrom, Paul Young |
-| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Coordinator** | D.w. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Anthony Lacques |

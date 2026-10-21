@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, Flashback Television
+* **Production Company:** Actuality Productions, Inc., Hearst Entertainment, Flashback Television
 * **Narrator:** David Holt
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -19,7 +19,7 @@
 | **Executive Producer** | Don Cambou |
 | **Narrated By** | David Holt |
 | **Narration Produced By** | Flashback Television |
-| **Produced By** | ACTUALITY Productions, Inc. |
+| **Produced By** | Actuality Productions, Inc. |
 | **Producer** | Bruce Nash |
 | **Written And Produced By** | Dan Jackson |
 

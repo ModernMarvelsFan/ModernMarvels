@@ -1,5 +1,5 @@
-# Credit Roll: Las Vegas Hotels. (1998)
-**Canonical Episode:** [`MME00066: Las Vegas Hotels.`](../episodes/MME00066.md)
+# Credit Roll: Las Vegas Hotels (1998)
+**Canonical Episode:** [`MME00066: Las Vegas Hotels`](../episodes/MME00066.md)
 
 **Downloads:** [Credits JSON](json/MME00066-credits.json) • [Credits Plain Text](txt/MME00066-credits.txt)
 

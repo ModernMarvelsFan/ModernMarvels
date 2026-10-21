@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `PRODUCED BY THE SIX WEST MEDIA(TM) GROUP FOR HISTORY(R). ©2021 A&E Television Networks, LLC.. All Rights Reserved.`
-* **Production Company:** THE SIX WEST MEDIA(TM) GROUP (producer), Motion Picture Enterprises, Inc. (post facility), Monkeyhead / Trick & Mortar (graphics), Coastella Sound (VO record), A&E Television Networks, LLC (rights holder)
+* **Production Company:** The Six West Media(tm) Group (producer), Motion Picture Enterprises, Inc. (post facility), Monkeyhead / Trick & Mortar (graphics), Coastella Sound (Vo record), A&E Television Networks, LLC (rights holder)
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll

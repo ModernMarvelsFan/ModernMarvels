@@ -26,10 +26,10 @@
 | **Created By** | Bruce Nash |
 | **Director Of Clearance** | Jerianne Keaney |
 | **Director Of Research** | Allison Boon |
-| **Editor** | LOU LaPROCIDO |
+| **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
-| **Field Audio** | Ryan Bedell, JOHN McFADDEN, Jonathan Packer, Dani Sleiman, Tom Staton |
+| **Field Audio** | Ryan Bedell, John McFadden, Jonathan Packer, Dani Sleiman, Tom Staton |
 | **Music** | Alan Ett Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |

@@ -19,7 +19,7 @@
 | **Assistant To Bob Jaffe** | Hay Tanning |
 | **Assistant To Tim Busa** | Todd Bluechel |
 | **Assistant Visual Coordinator** | William F. Swift |
-| **Associate Producer** | DOUG DeLUCA |
+| **Associate Producer** | Doug DeLuca |
 | **Created By** | Bruce Nash |
 | **Edited By** | Brian Derby |
 | **Executive Producer** | Gerald W. Abrams, Charlie Maday, Bob Jaffe |

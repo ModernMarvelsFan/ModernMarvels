@@ -1,5 +1,5 @@
-# Credit Roll: Bunkers. (2001)
-**Canonical Episode:** [`MME00194: Bunkers.`](../episodes/MME00194.md)
+# Credit Roll: Bunkers (2001)
+**Canonical Episode:** [`MME00194: Bunkers`](../episodes/MME00194.md)
 
 **Downloads:** [Credits JSON](json/MME00194-credits.json) • [Credits Plain Text](txt/MME00194-credits.txt)
 
@@ -24,7 +24,7 @@
 | **Consulting Producer** | Henry Schipper |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Hildie Katibah |
-| **Edited By** | Lou Laprocido |
+| **Edited By** | Lou LaProcido |
 | **Executive Assistant** | Beverly Short |
 | **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Larry Dowling, Tony Krysinsky |

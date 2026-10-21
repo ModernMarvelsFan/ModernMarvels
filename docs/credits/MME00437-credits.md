@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC. (Produced by), History Television Network Productions
+* **Production Company:** Actuality Productions, Inc. (Produced by), History Television Network Productions
 * **Narrator:** Max Raphael, Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -20,7 +20,7 @@
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Associate Producer** | Danielle Parsons |
 | **Camera** | Mario Benassi, Peter Krajewski, Lon Magdich, Richard Neill, Rick Nyburg, James Scott, Nathan Shelton, William Zide |
-| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Coordinator** | D.w. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | Melinda Esquibel |
 | **Created By** | Bruce Nash |

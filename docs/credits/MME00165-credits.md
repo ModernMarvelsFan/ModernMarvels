@@ -15,8 +15,8 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Animation** | Doug Whitney |
-| **Archive &amp; Audio Coordinator** | DERRICK McDANIEL |
-| **Assistant Editors** | Lou Laprocido, Spencer Keimon, Stuart Brodlieb, Harris Cohen |
+| **Archive &amp; Audio Coordinator** | Derrick McDaniel |
+| **Assistant Editors** | Lou LaProcido, Spencer Keimon, Stuart Brodlieb, Harris Cohen |
 | **Assistant Production Accountants** | Linda Scribner, Judi Minitello |
 | **Assistant To Don Cambou** | Tim Shell |
 | **Associate Producer** | Matt Kleinman |

@@ -17,7 +17,7 @@
 | **Archival Research** | Michael Dolan |
 | **Executive In Charge Of Production** | Ann J. Hackett |
 | **Executive Producer** | Charlie Maday |
-| **Historical Consultants** | Maj.Gen. Perry Smith, Richard Guy Wilson, Alfred Goldberg |
+| **Historical Consultants** | Maj.gen. Perry Smith, Richard Guy Wilson, Alfred Goldberg |
 | **Produced By** | Digital Ranch |
 | **Supervising Producer** | Beth Dietrich-Segarra |
 

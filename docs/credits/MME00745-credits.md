@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2022 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Actuality Productions, Inc., the Six West Media(TM) group, Ballast.Tv, Motion Picture Enterprises, Inc., i.e. effects
+* **Production Company:** Actuality Productions, Inc., the Six West Media(tm) group, Ballast.tv, Motion Picture Enterprises, Inc., i.e. effects
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -20,7 +20,7 @@
 | **Assistant Editor** | Isaiah Dyer |
 | **Assistant Editors** | Alexander Rubinow, Nate Dusek |
 | **Assistant Post Coordinator** | Gaylen Kobayashi |
-| **Assistant Production Accountants** | Samara Choit, HAYDEN McCOMAS |
+| **Assistant Production Accountants** | Samara Choit, Hayden McComas |
 | **Associate Producer** | Jeff Merzer |
 | **Associate Producers** | Andre Bellamy-Cesar, Kimi Poston, Savannah Sivert |
 | **Audio Mixer** | Andrew Kay |
@@ -38,7 +38,7 @@
 | **Executive Producers** | Steve Ascher, Matt Pearl, Kristy Sabat |
 | **Field Audio** | Jaime Z. Cervantes, Dan Cook, Doug Donald, Michael Durski, Alan Halcon, David Mendez, Charles Rohr, James W. Sifer, III, Greg Stidham, Marty Zimmerman |
 | **Finishing Associate Producer** | Rt Smith Jr. |
-| **Graphics** | Ballast.Tv |
+| **Graphics** | Ballast.tv |
 | **Junior Production Accountant** | Phurbu Nepali |
 | **Lead Assistant Editor** | Scott Rapixon |
 | **Lead Production Accountant** | Sophiya Banu |
@@ -52,7 +52,7 @@
 | **Post Producer** | Tim Knauff |
 | **Post-Producers** | Rakesh Nair, Carla Ramirez |
 | **Post-Production Assistant** | Samantha Lochs |
-| **Post-Production Coordinator** | DENISE McGILLICUDDY |
+| **Post-Production Coordinator** | Denise McGillicuddy |
 | **Post-Production Facility** | Motion Picture Enterprises, Inc. |
 | **Post-Production Supervisor** | Allison Moser |
 | **Producer** | Bruce Nash |

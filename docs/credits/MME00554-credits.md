@@ -37,7 +37,7 @@
 | **Production Manager** | Shelia Collins |
 | **Programming Coordinator** | Michele Wilcox |
 | **Sound Mixer** | Erik Valenzuela |
-| **Technical Consultants** | Eikos, Inc., Hewlett-Packard, Abigail Quandt, Sun Chemical, United States Secret Service, PHILIP WALLIS, PhD |
+| **Technical Consultants** | Eikos, Inc., Hewlett-Packard, Abigail Quandt, Sun Chemical, United States Secret Service, Philip Wallis, PhD |
 | **Written And Produced By** | Beata Ziel |
 
 ---

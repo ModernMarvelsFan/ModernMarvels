@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `PRODUCED BY THE SIX WEST MEDIA(TM) GROUP FOR HISTORY(R). ©2021 A&E Television Networks, LLC.. All Rights Reserved.`
-* **Production Company:** THE SIX WEST MEDIA(TM) GROUP (producer), A&E Television Networks, LLC (rights holder), Motion Picture Enterprises, Inc. (post facility), Monkeyhead (graphics)
+* **Production Company:** The Six West Media(tm) Group (producer), A&E Television Networks, LLC (rights holder), Motion Picture Enterprises, Inc. (post facility), Monkeyhead (graphics)
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -20,7 +20,7 @@
 | **Executive-In-Charge Of Production** | Patrice Andrews |
 | **For History(R) Music Services** | Jennifer Insogna, Liz Morgan |
 | **Graphics** | Monkeyhead, Ken Dayhoff |
-| **Jr. Production Coordinator** | Sarah Mchugh |
+| **Jr. Production Coordinator** | Sarah McHugh |
 | **Junior Production Accountant** | Phurbu Nepali |
 | **Lead Production Accountant** | Sophiya Banu |
 | **Line Producers** | Melissa Ray, Lori Frye |

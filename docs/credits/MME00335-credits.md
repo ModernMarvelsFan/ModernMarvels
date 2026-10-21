@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `PRODUCED BY ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL. © 2003 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC. (producer), THE HISTORY CHANNEL (network), A&E Television Networks (rights holder)
+* **Production Company:** Actuality Productions, Inc. (producer), The History Channel (network), A&E Television Networks (rights holder)
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -17,7 +17,7 @@
 | **Animation By** | Glenn Takakjian |
 | **Assistant Accountant** | Dennis Luciani |
 | **Assistant Editors** | Julio C. Perez IV, Eric Sievering |
-| **Camera** | Michael Audick, Zvonimir "z" Vidusin |
+| **Camera** | Michael Audick, Zvonimir "Z" Vidusin |
 | **Clearance Coordinator** | Susan Wichmann |
 | **Clearance Supervisor** | Katie Del Core |
 | **Created By** | Bruce Nash |
@@ -34,7 +34,7 @@
 | **Post Coordinator** | Danny Kim |
 | **Post Production Manager** | Gary Reid |
 | **Producer** | Bruce Nash |
-| **Production Assistant** | ROSALYN McVAY |
+| **Production Assistant** | Rosalyn McVay |
 | **Production Auditor** | Dani Eslin |
 | **Production Coordinator** | James Wiser |
 | **Production Manager** | Shelia Collins |

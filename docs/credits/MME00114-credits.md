@@ -19,9 +19,9 @@
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Associate Producer** | Gloria L. Morris |
-| **Camera** | Paul Alvarez, Christopher Blanton, Lon Magdich, Mark Morris, Dylan S. O'Brien, George Odell, B.J. Scahill |
+| **Camera** | Paul Alvarez, Christopher Blanton, Lon Magdich, Mark Morris, Dylan S. O'Brien, George Odell, B.j. Scahill |
 | **Casino Tech** | Greg Goldman |
-| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Coordinator** | D.w. Blakeslee |
 | **Clearance Supervisors** | Amy Trahant, Katie Del Core |
 | **Coordinators** | Melinda Esquibel, Brad Skiles |
 | **Created By** | Bruce Nash |

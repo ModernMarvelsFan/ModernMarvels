@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `Produced by. ACTUALITY PRODUCTIONS, INC.. History Television Network Productions. © 2006. A&E Television Networks. All Rights Reserved`
-* **Production Company:** Actuality Productions, Inc., History Television Network Productions, FLYINGBLUE STUDIO (animation), A&E Television Networks (rights holder)
+* **Production Company:** Actuality Productions, Inc., History Television Network Productions, Flyingblue Studio (animation), A&E Television Networks (rights holder)
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -26,7 +26,7 @@
 | **Director Of Rights And Clearances** | Katie Del Core |
 | **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Jimmy Hall, Dennis Hamlin, Aaron Holloway, Jeffrey Knudsen, Charles Rohr, Paul Wustrack |
-| **Historical Consultants** | Dwight Bearden, Anthony Dias Blue, T.A. Breaux, Courvoisier, Tom Vitali |
+| **Historical Consultants** | Dwight Bearden, Anthony Dias Blue, T.a. Breaux, Courvoisier, Tom Vitali |
 | **Online Editor** | John Price |
 | **Post Coordinator** | Terrence Hartwell |
 | **Post Producer** | Tim Knauff |

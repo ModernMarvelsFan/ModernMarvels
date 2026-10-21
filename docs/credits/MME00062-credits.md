@@ -35,7 +35,7 @@
 | **Music By** | Alan Ett Music Group |
 | **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
-| **Post Assistants** | Gaylen Kobayashi, KEVIN McCARTNEY |
+| **Post Assistants** | Gaylen Kobayashi, Kevin McCartney |
 | **Post Producer** | Tim Knauff |
 | **Producer** | Bruce Nash |
 | **Production Controller** | Dani Eslin |

@@ -1,5 +1,5 @@
-# Credit Roll: Gold Mines. (2000)
-**Canonical Episode:** [`MME00134: Gold Mines.`](../episodes/MME00134.md)
+# Credit Roll: Gold Mines (2000)
+**Canonical Episode:** [`MME00134: Gold Mines`](../episodes/MME00134.md)
 
 **Downloads:** [Credits JSON](json/MME00134-credits.json) • [Credits Plain Text](txt/MME00134-credits.txt)
 

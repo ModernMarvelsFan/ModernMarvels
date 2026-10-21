@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment
+* **Production Company:** Actuality Productions, Inc., Hearst Entertainment
 * **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -19,7 +19,7 @@
 | **Clearance Supervisor** | Leslie Anne Clark |
 | **Created By** | Bruce Nash |
 | **Edited By** | Jack Foster |
-| **Field Audio** | Robert Fetzer, Eric Fox, GARY McCAFFERTY, Bert Thomas |
+| **Field Audio** | Robert Fetzer, Eric Fox, Gary McCafferty, Bert Thomas |
 | **Line Producer** | Paul Dzilvelis |
 | **Music By** | Alan Ett |
 | **Narrated By** | Harlan Saperstein |

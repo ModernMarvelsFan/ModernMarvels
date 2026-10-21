@@ -40,7 +40,7 @@
 | **Production Manager** | Shelia Collins |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Technical Consultants** | Lindt &amp; Sprüngli (USA) Inc., Masterfoods, Inc./MARS, Inc., Mark Schlott, Ed Seguine, World Cocoa Foundation |
+| **Technical Consultants** | Lindt &amp; Sprüngli (USA) Inc., Masterfoods, Inc./mars, Inc., Mark Schlott, Ed Seguine, World Cocoa Foundation |
 | **Written And Produced By** | Beata Ziel |
 
 ---

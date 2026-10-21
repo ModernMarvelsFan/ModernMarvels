@@ -8,7 +8,7 @@
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
 * **Production Company:** —
-* **Narrator:** GERALD McRANEY
+* **Narrator:** Gerald McRaney
 
 ### Complete Transcribed On-Screen Crew Roll
 
@@ -22,7 +22,7 @@
 | **Graphics** | David Drain |
 | **Main Title Design** | Jonathan Moser |
 | **Music By** | Christopher Stone, Richard Band |
-| **Narrated By** | GERALD McRANEY |
+| **Narrated By** | Gerald McRaney |
 | **Produced By** | Rod Pyle |
 | **Senior Editors** | Jeff Caldwell, Steve Pomerantz, Margaret Willey |
 | **Senior Producer** | Robert Kirk |

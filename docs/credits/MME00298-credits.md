@@ -24,7 +24,7 @@
 | **Gaffers** | Malik Ali, Julie Bauman |
 | **Grip** | Brandon Gomes |
 | **Host Segment Videography** | Hot Shot Video &amp; Productions, Inc. |
-| **Location Sound** | K.C. Clayton, Robert Dumont, Russell Edwards, Tom Moore, Dermot O'Boyle, Willy O'Bryan |
+| **Location Sound** | K.c. Clayton, Robert Dumont, Russell Edwards, Tom Moore, Dermot O'Boyle, Willy O'Bryan |
 | **Make Up** | Debra Green |
 | **Motion Control** | WoodHolly Prod. |
 | **Narrator** | Edward Herrmann |

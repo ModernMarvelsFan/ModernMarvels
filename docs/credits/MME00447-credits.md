@@ -19,7 +19,7 @@
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Associate Producer** | David Bradstreet |
 | **Camera** | Paul Alvarez, Peter Krajewski, Lon Magdich, Mark Morris, Nathan Shelton, Z Vidusin |
-| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Coordinator** | D.w. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | Melinda Esquibel |
 | **Created By** | Bruce Nash |

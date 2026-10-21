@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Produced by / ACTUALITY PRODUCTIONS, INC., History Television Network Productions
+* **Production Company:** Produced by / Actuality Productions, Inc., History Television Network Productions
 * **Narrator:** Max Raphael, Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -15,7 +15,7 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Accountants** | Sheridan Liu, Lisa Casella, Paulette Pantoja |
-| **Additional Animation By** | RED GYPSY ANIMATION and, Adam Goodwin |
+| **Additional Animation By** | Red Gypsy Animation and, Adam Goodwin |
 | **Animation By** | Tak Productions, Inc. |
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham |
 | **Assistant Post Coordinator** | Alexander Rubinow |

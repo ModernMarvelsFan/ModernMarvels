@@ -18,10 +18,10 @@
 | **Animation By** | Doug Whitney |
 | **Assistant Editor** | Laura Steinhoff |
 | **Assistant Post Coordinator** | Alexander Rubinow |
-| **Camera** | Luke Ellis, Kenneth Freund, Brandon Green, George Harrold, Peter Krajewski, Lon Magdich, Jim Mahoney, Dylan S. O'Brien, Jesse Phinney, John "jed" A. Udall |
-| **Clearance Coordinator** | D.W. Blakeslee |
+| **Camera** | Luke Ellis, Kenneth Freund, Brandon Green, George Harrold, Peter Krajewski, Lon Magdich, Jim Mahoney, Dylan S. O'Brien, Jesse Phinney, John "Jed" A. Udall |
+| **Clearance Coordinator** | D.w. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
-| **Coordinator** | ROSALYN McVAY |
+| **Coordinator** | Rosalyn McVay |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Anthony Lacoues |
 | **Executive Producer** | Beth Dietrich-Segarra |

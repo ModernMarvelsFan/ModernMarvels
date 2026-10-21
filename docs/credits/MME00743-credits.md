@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `©2004 - 2022 A&E Television Networks, LLC. All Rights Reserved.`
-* **Production Company:** Actuality Productions, Inc., the Six West Media(TM) group, History(r) Network, A&E Television Networks, LLC, Motion Picture Enterprises, Inc., Ballast TV, Alan Ett Music Group, The 100% Music Library, MIBE Music, West One Music
+* **Production Company:** Actuality Productions, Inc., the Six West Media(tm) group, History(r) Network, A&E Television Networks, LLC, Motion Picture Enterprises, Inc., Ballast TV, Alan Ett Music Group, The 100% Music Library, Mibe Music, West One Music
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -32,14 +32,14 @@
 | **Executive In Charge Of Production** | Patrice Andrews |
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Steve Ascher, Matt Pearl, Kristy Sabat |
-| **Finishing Associate Producer** | RT Smith Jr. |
+| **Finishing Associate Producer** | Rt Smith Jr. |
 | **Graphics** | Ballast TV |
 | **Historical Consultant** | Victor Duraj |
 | **Junior Production Accountant** | Phurbu Nepali |
 | **Lead Assistant Editor** | Scott R. Dixon |
 | **Lead Production Accountant** | Sophiya Banu |
 | **Line Producer** | Paul Dzilvelis |
-| **Music** | Alan Ett Music Group, The 100% Music Library, MIBE Music, West One Music |
+| **Music** | Alan Ett Music Group, The 100% Music Library, Mibe Music, West One Music |
 | **Narration** | Lloyd Sherr |
 | **Online Editor** | Chuck Crews |
 | **Online Editor And Colorist** | Martin Benn |

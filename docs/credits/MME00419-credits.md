@@ -19,7 +19,7 @@
 | **Assistant Editors** | Laura Steinhoff, Michael Broome |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Camera** | Peter Krajewski, Julio Luzquinos, Lon Magdich, Paul Neal, Paul Poirier, Les Rogers, Paul Young |
-| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Coordinator** | D.w. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | Melinda Esquibel |
 | **Created By** | Bruce Nash |

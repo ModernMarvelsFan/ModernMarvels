@@ -25,7 +25,7 @@
 | **Created By** | Bruce Nash |
 | **Director Of Clearance** | Jerianne Keaney |
 | **Director Of Research** | Allison Boon |
-| **Editor** | Lou Laprocido |
+| **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Dave Bratspis, Matt Cozza, Aaron Holloway, Chris Jones, Charles Rohr, Wally Skinner, Brian Swanson, Chris Tront, Jerry Wheat |
 | **Music** | Alan Ett Music Group |

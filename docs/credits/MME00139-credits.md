@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Perpetual Motion Films, The History Channel, A&e Television Networks
+* **Production Company:** Perpetual Motion Films, The History Channel, A&E Television Networks
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll

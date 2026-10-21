@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `©2003 A&E TELEVISION NETWORKS ALL RIGHTS RESERVED`
-* **Production Company:** Actuality Productions, Inc., The History Channel, A&e Television Networks
+* **Production Company:** Actuality Productions, Inc., The History Channel, A&E Television Networks
 * **Narrator:** Beata Genin, Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -33,7 +33,7 @@
 | **Post Production Coordinator** | Danny Kim |
 | **Post Production Manager** | Gary Reid |
 | **Producer** | Bruce Nash |
-| **Production Assistant** | ROSALYN McVAY |
+| **Production Assistant** | Rosalyn McVay |
 | **Production Auditor** | Dani Eslin |
 | **Production Coordinator** | James Wiser |
 | **Production Manager** | Kathlene Exner Rizzotti |

@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `Copyright 2007 A&E Television Networks`
-* **Production Company:** Blind Vision Films, Magic Molehill Productions, Inc., The History Channel, X1fx, CCI Burbank / DVS Intelestream, 1171 Production Group, The DR Group
+* **Production Company:** Blind Vision Films, Magic Molehill Productions, Inc., The History Channel, X1fx, CCI Burbank / DVS Intelestream, 1171 Production Group, The Dr Group
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll

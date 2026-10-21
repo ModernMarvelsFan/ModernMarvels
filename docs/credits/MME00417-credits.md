@@ -19,7 +19,7 @@
 | **Assistant Editors** | Laura Steinhoff, Michael Broome |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Camera** | Mike Audick, Bill Charette, Gary Corrigan, Lon Magdich, David Rabinovitz, John Wichman |
-| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Coordinator** | D.w. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
 | **Coordinator** | Melinda Esquibel |
 | **Created By** | Bruce Nash |

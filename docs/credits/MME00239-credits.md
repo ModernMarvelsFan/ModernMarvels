@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `©MCMXCIX. A&E TELEVISION NETWORKS. All Rights Reserved`
-* **Production Company:** GREYSTONE COMMUNICATIONS, INC. (producer; animated grey pyramid GREYSTONE logo plays full frame), THE HISTORY CHANNEL (presenter; gold H-box logo, card reads 'A Presentation of' then 'THE HISTORY CHANNEL'), MATCHFRAME VIDEO (post production services)
+* **Production Company:** Greystone Communications, Inc. (producer; animated grey pyramid Greystone logo plays full frame), The History Channel (presenter; gold H-box logo, card reads 'A Presentation of' then 'The History Channel'), Matchframe Video (post production services)
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll

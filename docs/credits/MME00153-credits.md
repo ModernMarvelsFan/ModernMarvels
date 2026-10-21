@@ -1,5 +1,5 @@
-# Credit Roll: Inventions of War. (2000)
-**Canonical Episode:** [`MME00153: Inventions of War.`](../episodes/MME00153.md)
+# Credit Roll: Inventions of War (2000)
+**Canonical Episode:** [`MME00153: Inventions of War`](../episodes/MME00153.md)
 
 **Downloads:** [Credits JSON](json/MME00153-credits.json) • [Credits Plain Text](txt/MME00153-credits.txt)
 

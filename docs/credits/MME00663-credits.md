@@ -26,7 +26,7 @@
 | **Editor** | Alexander Rubinow |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Chad Bryant, Douglas J. Burton, Dan Cook, Tim Fuller, Andre Logan, Thomas Moore, Ken Petrosky, Ian Vacek, Michael Whelan |
-| **Music** | AMI Music Group |
+| **Music** | Ami Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assist** | Cory Parker |

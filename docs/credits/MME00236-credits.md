@@ -21,7 +21,7 @@
 | **Clearance Supervisor** | Kate Del Core |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Hildie Katibah |
-| **Edited By** | Lou Laprocido |
+| **Edited By** | Lou LaProcido |
 | **Field Audio** | Paul Alfe, Paul Gramaglia, John Lucas, David B. Shipman, David O. Thomas |
 | **Footage Consultant** | Ted Troll |
 | **Graphics** | Barry Hill |

@@ -32,7 +32,7 @@
 | **Production Managers** | Silvia Homes Gaines, Jennifer Partin, Brigitta Shroyer |
 | **Programming Coordinator** | Divya Chungi |
 | **Senior Producer** | Carter Figueroa |
-| **Sound Design &amp; Mix** | MVI Post |
+| **Sound Design &amp; Mix** | Mvi Post |
 | **Sound Editors** | Frank Scheuring, Charles Sovek |
 | **Vice President Of Finance** | Rossana O'Hop |
 

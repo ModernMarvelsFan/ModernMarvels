@@ -22,7 +22,7 @@
 | **Created By** | Bruce Nash |
 | **Digitizer** | Marcia Robusto |
 | **Directors Of Photography** | Stephen Harrison, Stefan Wiesen |
-| **Editor** | JAY DANNER-McDONALD |
+| **Editor** | Jay Danner-McDonald |
 | **Executive Producer** | John Verhoff |
 | **Executive Producers** | Sean Gallagher, Abby Greensfelder, Libby Richman |
 | **Field Producer** | French Horwitz |
@@ -32,7 +32,7 @@
 | **Narrator** | Max Raphael |
 | **Post Production Coordinator** | Cameron Young |
 | **Post Production Supervisor** | Liam Monschein |
-| **Producer** | CONOR McCARTHY |
+| **Producer** | Conor McCarthy |
 | **Production Accountant** | Rossana O'Hop |
 | **Production Coordinator** | Tainesa Davis |
 | **Production Manager** | Jennifer Partin |

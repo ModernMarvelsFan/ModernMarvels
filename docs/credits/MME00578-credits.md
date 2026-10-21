@@ -29,7 +29,7 @@
 | **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller |
 | **Field Audio** | Ryan Agostino, Dennis Hamlin, Eric Reeves, Adrian Sam, Kem Stralka |
 | **For** | History Television Networks Productions |
-| **Historical Consultant** | D.C. Jackson |
+| **Historical Consultant** | D.c. Jackson |
 | **Music** | Guy Thomas |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |

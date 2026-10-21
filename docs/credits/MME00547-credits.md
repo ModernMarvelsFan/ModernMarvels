@@ -25,7 +25,7 @@
 | **Edited By** | Robert Lattanzio |
 | **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
 | **Field Audio** | Ryan Agostino, Dennis Hamlin, Jon Kjartansson, Jeffrey Knudsen, Kem Stralka, Paul Wustrack |
-| **Historical Consultants** | Daniel Kammen, MARY McCANN-GATES, John Perlin |
+| **Historical Consultants** | Daniel Kammen, Mary McCann-Gates, John Perlin |
 | **Music By** | Guy Thomas |
 | **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |

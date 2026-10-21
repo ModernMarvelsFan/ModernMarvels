@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E TELEVISION NETWORKS ALL RIGHTS RESERVED. HISTORYCHANNEL.COM (beneath THE HISTORY CHANNEL end card)`
-* **Production Company:** ACTUALITY PRODUCTIONS, INC. (producer), THE HISTORY CHANNEL (presenter; gold H-box end card, preceded by an 'A Presentation of' card), A&E TELEVISION NETWORKS (rights holder)
+* **Production Company:** Actuality Productions, Inc. (producer), The History Channel (presenter; gold H-box end card, preceded by an 'A Presentation of' card), A&E Television Networks (rights holder)
 * **Narrator:** Beata Genin
 
 ### Complete Transcribed On-Screen Crew Roll

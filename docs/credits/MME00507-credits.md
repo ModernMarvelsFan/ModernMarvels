@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Produced by / ACTUALITY PRODUCTIONS, INC., History Television Network Productions
+* **Production Company:** Produced by / Actuality Productions, Inc., History Television Network Productions
 * **Narrator:** Max Raphael, John Knapp
 
 ### Complete Transcribed On-Screen Crew Roll

@@ -27,7 +27,7 @@
 | **Editor** | Robert Lattanzio |
 | **Executive Producer** | John Verhoff |
 | **Field Audio** | Dan Cook, Don Hooper, Rob Maerz, James W. Siler, III, Tammy Sortor, Greg Stidham |
-| **Music** | AMI Music Group |
+| **Music** | Ami Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Coordinator** | Gaylen Kobayashi |

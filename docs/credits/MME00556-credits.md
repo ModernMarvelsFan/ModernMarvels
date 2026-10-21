@@ -23,7 +23,7 @@
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Allison Boon |
 | **Director Of Rights And Clearances** | Katie Del Core |
-| **Edited By** | Lou Laprocido |
+| **Edited By** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Tyler Bender, Sean Demers, Brian Garfield, Dennis Hamlin, Jeff Hoien, Rob Maerz, Troy Wilcox |
 | **Music By** | Alan Ett Music Group |

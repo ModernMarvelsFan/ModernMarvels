@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `©MCMXCIX A&E TELEVISION NETWORKS All Rights Reserved`
-* **Production Company:** Greystone Communications, Inc., The History Channel, A&e Television Networks
+* **Production Company:** Greystone Communications, Inc., The History Channel, A&E Television Networks
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll

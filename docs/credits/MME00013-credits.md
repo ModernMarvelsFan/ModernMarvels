@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1995 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Jaffe Productions, Hearst Entertainment, ACTUALITY Productions, Inc., Yeah Studios, Interlok
+* **Production Company:** Jaffe Productions, Hearst Entertainment, Actuality Productions, Inc., Yeah Studios, Interlok
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll

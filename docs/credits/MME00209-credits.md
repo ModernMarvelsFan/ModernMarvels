@@ -1,5 +1,5 @@
-# Credit Roll: Tunnels of Vietnam. (2002)
-**Canonical Episode:** [`MME00209: Tunnels of Vietnam.`](../episodes/MME00209.md)
+# Credit Roll: Tunnels of Vietnam (2002)
+**Canonical Episode:** [`MME00209: Tunnels of Vietnam`](../episodes/MME00209.md)
 
 **Downloads:** [Credits JSON](json/MME00209-credits.json) • [Credits Plain Text](txt/MME00209-credits.txt)
 

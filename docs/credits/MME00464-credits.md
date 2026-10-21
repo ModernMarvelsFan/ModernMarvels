@@ -23,7 +23,7 @@
 | **Coordinators** | Melinda Esquibel, Brad Skiles |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Allison Boon |
-| **Edited By** | Lou Laprocido |
+| **Edited By** | Lou LaProcido |
 | **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
 | **Field Audio** | James Fitzgerald, Jim Petit |
 | **Historical Consultants** | Robert H. Farson, United States Army Corps Of Engineers |

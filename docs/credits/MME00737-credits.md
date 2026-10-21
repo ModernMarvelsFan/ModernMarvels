@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2022 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Actuality Productions, Inc., the Six West Media(TM) group, Ballast TV, Motion Picture Enterprises, Inc., FlyingBlue Studio
+* **Production Company:** Actuality Productions, Inc., the Six West Media(tm) group, Ballast TV, Motion Picture Enterprises, Inc., FlyingBlue Studio
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -17,7 +17,7 @@
 | **Accounting Clerk** | Julia Casalino |
 | **Animation** | FlyingBlue Studio |
 | **Assistant Editors** | Cass Corner, Isaiah Dyer, Alexander Rubinow, Nate Dusek |
-| **Assistant Production Accountants** | Samara Choit, HAYDEN McCOMAS |
+| **Assistant Production Accountants** | Samara Choit, Hayden McComas |
 | **Associate Producers** | Andre Bellamy-Cesar, Kem Poston, Savannah Sivert |
 | **Asst Post Coordinator** | Gaylen Kobayashi |
 | **Audio Mixer** | Andrew Kay |
@@ -33,7 +33,7 @@
 | **Executive Producers** | Steve Ascher, Matt Pearl, Kristy Sabat |
 | **Field Audio** | Charlie Eshridge, Michael Frederick, Christopher K. Gurney, Tom Hale, Charles Rohr, Adrian Sam |
 | **Finishing Associate Producer** | Rt Smith Jr. |
-| **Graphics** | Ballast Tv |
+| **Graphics** | Ballast TV |
 | **Junior Production Accountant** | Phurbu Nepali |
 | **Lead Assistant Editor** | Scott R. Dixon |
 | **Lead Production Accountant** | Sophiya Banu |
@@ -46,7 +46,7 @@
 | **Post Assistant** | Cory Parker |
 | **Post Producer** | Trip Poole, Tim Knauff |
 | **Post-Production Assistant** | Samantha Lochs |
-| **Post-Production Coordinator** | DENISE McGILLICUDDY |
+| **Post-Production Coordinator** | Denise McGillicuddy |
 | **Post-Production Facility** | Motion Picture Enterprises, Inc. |
 | **Post-Production Supervisor** | Alison Moser |
 | **Producer** | Bruce Nash |

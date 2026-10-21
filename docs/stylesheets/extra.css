@@ -1,0 +1,111 @@
+/* Ensure Material for MkDocs purple header bar stays above all scrolling content */
+.md-header {
+    z-index: 100 !important;
+}
+
+/* Sticky Master Episode Directory Table Container */
+.sticky-table-wrapper {
+    height: 75vh;
+    max-height: 75vh;
+    overflow: auto;
+    position: relative;
+    z-index: 1;
+    isolation: isolate;
+    border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
+    border-radius: 6px;
+    margin: 1.5em 0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.08);
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Neutralize Material for MkDocs intermediate wrappers that break sticky scrolling */
+.sticky-table-wrapper .md-typeset__scrollwrap {
+    overflow: visible !important;
+    display: block !important;
+}
+
+.sticky-table-wrapper .md-typeset__table {
+    overflow: visible !important;
+    display: block !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* Ensure MkDocs default table styles do not break sticky layout */
+.md-typeset .sticky-table-wrapper table,
+.md-typeset .sticky-table-wrapper table:not([class]) {
+    display: table !important;
+    overflow: visible !important;
+    width: 100% !important;
+    min-width: 1100px !important;
+    border-collapse: separate !important;
+    border-spacing: 0 !important;
+    table-layout: fixed !important;
+    margin: 0 !important;
+}
+
+/* Keep thead static so th sticky top works cross-browser without coordinate conflicts */
+.md-typeset .sticky-table-wrapper thead {
+    position: static !important;
+}
+
+/* Sticky Header row on vertical scroll (Priority #1) */
+.md-typeset .sticky-table-wrapper thead th,
+.md-typeset .sticky-table-wrapper th {
+    position: -webkit-sticky !important;
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 2 !important;
+    background-color: var(--md-default-bg-color, #ffffff) !important;
+    border-bottom: 2px solid var(--md-default-fg-color--light, #bbb) !important;
+    box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* Dark mode slate support */
+[data-md-color-scheme="slate"] .md-typeset .sticky-table-wrapper thead th,
+[data-md-color-scheme="slate"] .md-typeset .sticky-table-wrapper th {
+    background-color: var(--md-default-bg-color, #1f232a) !important;
+    border-bottom-color: var(--md-default-fg-color--lightest, #444) !important;
+}
+
+/* Column Width Allocations */
+/* ID column */
+.md-typeset .sticky-table-wrapper th:nth-child(1),
+.md-typeset .sticky-table-wrapper td:nth-child(1) {
+    width: 10%;
+    min-width: 95px;
+}
+
+/* Title column */
+.md-typeset .sticky-table-wrapper th:nth-child(2),
+.md-typeset .sticky-table-wrapper td:nth-child(2) {
+    width: 25%;
+    min-width: 180px;
+}
+
+/* 5 Database Columns: strictly equal width (13% each = 65% total) */
+.md-typeset .sticky-table-wrapper th:nth-child(3),
+.md-typeset .sticky-table-wrapper td:nth-child(3),
+.md-typeset .sticky-table-wrapper th:nth-child(4),
+.md-typeset .sticky-table-wrapper td:nth-child(4),
+.md-typeset .sticky-table-wrapper th:nth-child(5),
+.md-typeset .sticky-table-wrapper td:nth-child(5),
+.md-typeset .sticky-table-wrapper th:nth-child(6),
+.md-typeset .sticky-table-wrapper td:nth-child(6),
+.md-typeset .sticky-table-wrapper th:nth-child(7),
+.md-typeset .sticky-table-wrapper td:nth-child(7) {
+    width: 13%;
+    min-width: 140px;
+}
+
+/* Aired date styling: smaller font size and italicized */
+.md-typeset .sticky-table-wrapper td small {
+    font-size: 0.82em;
+    display: inline-block;
+    color: var(--md-default-fg-color--light, #666);
+    line-height: 1.25;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .sticky-table-wrapper td small {
+    color: var(--md-default-fg-color--light, #999);
+}

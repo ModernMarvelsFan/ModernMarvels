@@ -1,5 +1,5 @@
-# Credit Roll: Hoover Dam. (1999)
-**Canonical Episode:** [`MME00097: Hoover Dam.`](../episodes/MME00097.md)
+# Credit Roll: Hoover Dam (1999)
+**Canonical Episode:** [`MME00097: Hoover Dam`](../episodes/MME00097.md)
 
 **Downloads:** [Credits JSON](json/MME00097-credits.json) • [Credits Plain Text](txt/MME00097-credits.txt)
 
@@ -18,8 +18,8 @@
 | **Animation By** | Tak Productions, Inc. |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Associate Producer** | Gloria L. Morris |
-| **Camera** | Jeff Taylor, B.J. Scahill |
-| **Clearance Coordinator** | D.W. Blakeslee |
+| **Camera** | Jeff Taylor, B.j. Scahill |
+| **Clearance Coordinator** | D.w. Blakeslee |
 | **Clearance Supervisors** | Amy Trahant, Katie Del Core |
 | **Coordinators** | Melinda Esquibel, Brad Skiles |
 | **Created By** | Bruce Nash |

@@ -20,9 +20,9 @@
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Associate Producer** | Emily Lau |
 | **Camera** | Keith Barefoot, Richard Beckmann, Gary Boyer, Gary Corrigan, Dan Fried, Sam Griffin, Lon Magdich, Julye Newlin |
-| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Coordinator** | D.w. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
-| **Coordinator** | ROSALYN McVAY |
+| **Coordinator** | Rosalyn McVay |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Anthony Lacques |
 | **Executive Producer** | Beth Dietrich-Segarra |

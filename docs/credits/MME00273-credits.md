@@ -26,7 +26,7 @@
 | **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Steven Barker |
 | **Footage Consultant** | Ted Troll |
-| **Historical Consultant** | WILLIAM F. ATWATER, Ph.D. |
+| **Historical Consultant** | William F. Atwater, Ph.D. |
 | **Line Producer** | Paul Dzilvelis |
 | **Music By** | Guy Thomas |
 | **Narrator** | Max Raphael |

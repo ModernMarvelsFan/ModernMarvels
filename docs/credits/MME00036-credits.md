@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1996 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Jaffe Productions, Hearst Entertainment, ACTUALITY Productions, Inc.
+* **Production Company:** Jaffe Productions, Hearst Entertainment, Actuality Productions, Inc.
 * **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -16,7 +16,7 @@
 | :--- | :--- |
 | **Assistant Production Accountant** | Jori Espinosa |
 | **Assistant Visual Coordinator** | William F. Swift |
-| **Associate Producer** | DOUG DeLUCA |
+| **Associate Producer** | Doug DeLuca |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Chuck Hayes |
 | **Edited By** | Mike Mahoney, Eve Gage, Mark Hovator, Greg Clauson |

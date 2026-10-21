@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment
+* **Production Company:** Actuality Productions, Inc., Hearst Entertainment
 * **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -15,7 +15,7 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Associate Producer** | Matthew P. Hickey |
-| **Camera Operators** | Pat Clark, David Gaines, SCOTT McCLENNEN, Rich Raney, Ted Thornton |
+| **Camera Operators** | Pat Clark, David Gaines, Scott McClennen, Rich Raney, Ted Thornton |
 | **Clearance Coordinator** | Randy Pitler |
 | **Clearance Supervisor** | Amy Trahant |
 | **Created By** | Bruce Nash |

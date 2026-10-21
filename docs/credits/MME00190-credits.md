@@ -17,7 +17,7 @@
 | **Animation** | Doug Whitney |
 | **Assistant Editors** | Michael Lim, Stephen Franklin |
 | **Assistant Production Accountants** | Linda Scribner, Sonia Randazzo |
-| **Camera** | Will Jacob, Michael Marton, Daniel E.P. Nortje, Patrick Ramsen, John Sorapure, "Z" Vidusin |
+| **Camera** | Will Jacob, Michael Marton, Daniel E.p. Nortje, Patrick Ramsen, John Sorapure, "Z" Vidusin |
 | **Clearance Assistant** | Gabe Martinez |
 | **Executive Assistant** | Beverly Short |
 | **Executive Producer** | Beth Dietrich-Segarra |

@@ -33,7 +33,7 @@
 | **Music By** | Alan Ett Music Group |
 | **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |
-| **Post Assistants** | Gaylen Kobayashi, KEVIN McCARTNEY |
+| **Post Assistants** | Gaylen Kobayashi, Kevin McCartney |
 | **Post Coordinator** | Terrence Hartwell |
 | **Post Producer** | Tim Knauff |
 | **Produced By** | Actuality Productions, Inc., History Television Network Productions |

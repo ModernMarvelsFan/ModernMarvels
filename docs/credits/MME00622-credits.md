@@ -28,7 +28,7 @@
 | **Editor** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Chad Byrant, Philippe Cusset, Brent Haliskie, Brian Haughin, David Mendez, Nick Modisett, Adrian Sam |
-| **Music** | AMI Music Group |
+| **Music** | Ami Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Producer** | Tim Knauff |

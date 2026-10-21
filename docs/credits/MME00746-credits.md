@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2022 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Actuality Productions, Inc., The Six West Media group, HISTORY Network, A&E Television Networks, LLC., Motion Picture Enterprises, Inc., Brilliant TV
+* **Production Company:** Actuality Productions, Inc., The Six West Media group, History Network, A&E Television Networks, Llc., Motion Picture Enterprises, Inc., Brilliant TV
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -38,7 +38,7 @@
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Steve Ascher, Matt Pearl, Kristy Sabat |
 | **Field Audio** | Ryan Agostino, Dave Cannon, Dan Cook, Rusty Duggan, Jeff Hoien, Bryan Kweskin, Thomas Moore, Jo Richardson, Charles Rohr, Ian Vacek |
-| **Finishing Associate Producer** | KT Smith Jr. |
+| **Finishing Associate Producer** | Kt Smith Jr. |
 | **Graphics** | Brilliant TV |
 | **Junior Production Accountant** | Phoebe Hepler |
 | **Lead Assistant Editor** | Scott R. Dixon |
@@ -55,7 +55,7 @@
 | **Post-Production Coordinator** | Denise McGillicuddy |
 | **Post-Production Facility** | Motion Picture Enterprises, Inc. |
 | **Post-Production Supervisor** | Allison Moser |
-| **Produced By** | Actuality Productions, Inc., the Six West Media(TM) group |
+| **Produced By** | Actuality Productions, Inc., the Six West Media(tm) group |
 | **Produced For** | History(r) Network |
 | **Producer** | Bruce Nash |
 | **Production Accountant** | Sheridan Liu |

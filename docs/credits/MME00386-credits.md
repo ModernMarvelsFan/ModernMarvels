@@ -19,12 +19,12 @@
 | **Assistant Editor** | Laura Steinhoff |
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Camera** | John Davis, Lon Magdich, Kevin Mills, Mario Ortiz, Jorge Catillo Trentin |
-| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Coordinator** | D.w. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
-| **Coordinator** | ROSALYN McVAY |
+| **Coordinator** | Rosalyn McVay |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Anthony Lacoues |
-| **Edited By** | Lou Laprocido |
+| **Edited By** | Lou LaProcido |
 | **Executive Producer** | Beth Dietrich-Segarra |
 | **Field Audio** | Keith Henderson, Derek Johnston, Mark Solomon, Tim Stronk |
 | **Historical Consultants** | Dragos Rauta, Peter Swift, Thomas Wildenberg |

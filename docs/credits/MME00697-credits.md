@@ -16,7 +16,7 @@
 | :--- | :--- |
 | **Assistant Editors** | Laura "Q" Heinrichs, Vankhoa "Mike" Le, Sarah Longnecker, Alicia Lundgren, Stephen Vaughn |
 | **Associate Producers** | Mary Courtney, Robert Wear |
-| **Audio Mix** | Tom Backus C.A.S. |
+| **Audio Mix** | Tom Backus C.a.s. |
 | **Camera** | Kevin Braband, Pat Clark, David Fox, Dom Giordano, Lon Magdich, Ken Nilsson, Joe Pedalino |
 | **Co-Executive Producer** | Robert Twilley |
 | **Created By** | Bruce Nash |

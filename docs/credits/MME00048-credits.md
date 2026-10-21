@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Jaffe Productions, Hearst Entertainment, ACTUALITY Productions, Inc., Alan Ett Music Group, Inc., Art F/X
+* **Production Company:** Jaffe Productions, Hearst Entertainment, Actuality Productions, Inc., Alan Ett Music Group, Inc., Art F/X
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -20,7 +20,7 @@
 | **Executive Producer** | Charlie Maday |
 | **Footage Consultant** | Ted Troll |
 | **Graphics By** | Art F/X |
-| **Online Editor** | JANE McCORD |
+| **Online Editor** | Jane McCord |
 | **Production Assistants** | Keith Dols, Danya Berman |
 | **Supervising Producer** | Elyse Miranda |
 

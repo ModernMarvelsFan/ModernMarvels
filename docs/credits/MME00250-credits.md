@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment
+* **Production Company:** Actuality Productions, Inc., Hearst Entertainment
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll

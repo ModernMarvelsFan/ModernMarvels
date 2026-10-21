@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2008 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** AMI Music Group
+* **Production Company:** Ami Music Group
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -28,7 +28,7 @@
 | **Field Audio** | Al Cambon, Michael Durski, Keith Highley, Jeff Hoien, Ian Loomer, Chuck Luther, Chris Procopio, Greg Stidham |
 | **For History - Executive Producer** | John Verhoff |
 | **For History - Programming Coordinator** | Adam Rosante |
-| **Music** | AMI Music Group |
+| **Music** | Ami Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assist** | Cory Parker |

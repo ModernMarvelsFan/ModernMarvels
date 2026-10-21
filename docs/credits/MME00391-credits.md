@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Produced by / ACTUALITY PRODUCTIONS, INC., History Television Network Productions
+* **Production Company:** Produced by / Actuality Productions, Inc., History Television Network Productions
 * **Narrator:** Max Raphael, Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -20,9 +20,9 @@
 | **Assistant Post Coordinator** | Alexander Rubinow |
 | **Associate Producer** | David Bradstreet |
 | **Camera** | Luke Ellis, Kenneth Freund, Brandon Green, George Harrold, Peter Krajewski, Lon Magdich, Jim Mahoney |
-| **Clearance Coordinator** | D.W. Blakeslee |
+| **Clearance Coordinator** | D.w. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
-| **Coordinator** | ROSALYN McVAY |
+| **Coordinator** | Rosalyn McVay |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Anthony Lacques |
 | **Edited By** | Scot Kelly |

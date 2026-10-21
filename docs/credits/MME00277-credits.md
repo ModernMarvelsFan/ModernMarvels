@@ -14,7 +14,7 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Animation** | John Richardson, KMP &amp; Associates |
+| **Animation** | John Richardson, Kmp &amp; Associates |
 | **Archivist** | Nilda Pergola-Jensen |
 | **Assistant Production Accountant** | Linda Scribner |
 | **Camera** | Peter Krajewski, Jesse Phinney, Rich Raney |

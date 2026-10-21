@@ -24,10 +24,10 @@
 | **Created By** | Bruce Nash |
 | **Director Of Clearance** | Jerianne Keaney |
 | **Director Of Research** | Terrence Hartwell |
-| **Editor** | LOU LaPROCIDO |
+| **Editor** | Lou LaProcido |
 | **Executive Producer** | John Verhoff, Don Cambou |
 | **Field Audio** | Steve Bemassu, Douglas Burton, Matthew J. Engel, Travis Smith |
-| **Historical Consultant** | BOB BOWDEN, PhD |
+| **Historical Consultant** | Bob Bowden, PhD |
 | **Music** | Ami Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |

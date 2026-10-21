@@ -41,7 +41,7 @@
 | **Researcher** | Sapna Chhabra |
 | **Sound Mixer** | Nozomu Furuya |
 | **Supervising Producer** | Ron Nelson |
-| **Technical Consultants** | Enviropro, Inc., LA BioMed, Paul Stamets, Gary Strobel, USDA Agricultural Research Service |
+| **Technical Consultants** | Enviropro, Inc., La BioMed, Paul Stamets, Gary Strobel, Usda Agricultural Research Service |
 | **Written And Produced By** | Melissa Fuller |
 
 ---

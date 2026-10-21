@@ -23,7 +23,7 @@
 | **Associate Producers** | Andre Bellamy-Cesar, Kem Poston, Savannah Sivert |
 | **Audio Mixer** | Andrew Kay |
 | **Audio Post** | Katherine Margulli |
-| **Camera** | Al Almas, Lon Magdich, Andre Shane, TJ Williams |
+| **Camera** | Al Almas, Lon Magdich, Andre Shane, Tj Williams |
 | **Clearance Coordinators** | Lawrence Givens III, Aaron Zober |
 | **Consultants** | Curtis Johnston, Richard Rains, Tom Read, Leo Schnellmann, Ted Yerzyk |
 | **Coordinating Producer** | Liz Ridler |
@@ -36,8 +36,8 @@
 | **Executive Producer** | Don Cambou |
 | **Executive Producers** | Steve Ascher, Matt Pearl, Kristy Sabat |
 | **Field Audio** | John Christianson, Eric Golden, Michael Guske, Jeff Knudsen, Michael Melendez, Jorge Suarez |
-| **Finishing Associate Producer** | KT Smith Jr. |
-| **Graphics** | Ballast:TV |
+| **Finishing Associate Producer** | Kt Smith Jr. |
+| **Graphics** | Ballast:tv |
 | **Junior Production Accountant** | Phurbu Nepali |
 | **Lead Assistant Editor** | Scott R. Dixon |
 | **Lead Production Accountant** | Sophiya Banu |

@@ -1,5 +1,5 @@
-# Credit Roll: The Great Wall of China. (1997)
-**Canonical Episode:** [`MME00043: The Great Wall of China.`](../episodes/MME00043.md)
+# Credit Roll: The Great Wall of China (1997)
+**Canonical Episode:** [`MME00043: The Great Wall of China`](../episodes/MME00043.md)
 
 **Downloads:** [Credits JSON](json/MME00043-credits.json) • [Credits Plain Text](txt/MME00043-credits.txt)
 

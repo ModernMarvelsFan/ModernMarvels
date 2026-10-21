@@ -17,15 +17,15 @@
 | **Animation By** | Glenn Takakjian |
 | **Assistant Accountants** | Sheridan Liu, Dennis Luciani |
 | **Associate Producers** | Corrie Kaufman, Emily Lau |
-| **Camera** | Michael Charlton, W. J. Dupuis, Dave Insley, Robert "chip" Monk, Dylan S. O'Brien |
+| **Camera** | Michael Charlton, W. J. Dupuis, Dave Insley, Robert "Chip" Monk, Dylan S. O'Brien |
 | **Clearance Supervisor** | Katie Del Core |
-| **Coordinator** | ROSALYN McVAY |
+| **Coordinator** | Rosalyn McVay |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Anthony Lacques |
-| **Edited By** | Lou Laprocido |
+| **Edited By** | Lou LaProcido |
 | **Executive Producer** | Don Cambou |
 | **Field Audio** | Kevin Broad, Leonard Carter III, Matt Cimaglia, Sam Insley |
-| **Historical Consultants** | JOHN HILLEN, Ph.D., Parks Stephenson |
+| **Historical Consultants** | John Hillen, Ph.D., Parks Stephenson |
 | **Line Producer** | Paul Dzilvelis |
 | **Music By** | Alan Ett Music Group |
 | **Narrated By** | Max Raphael |

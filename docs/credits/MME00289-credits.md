@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Greystone Communications, Inc., The History Channel, Matchframe Video, HMA Digital
+* **Production Company:** Greystone Communications, Inc., The History Channel, Matchframe Video, Hma Digital
 * **Narrator:** Thom Pinto
 
 ### Complete Transcribed On-Screen Crew Roll

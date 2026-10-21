@@ -28,7 +28,7 @@
 | **Field Audio** | Bryan Clavey, Alan Halcon, Chris Hall, Gary Heimann, William R. "Lee" Peach, Geoff Pennington, Ted Roth, Michael Stone |
 | **Field Producer** | Andy Jaden |
 | **For** | History |
-| **Music** | AMI Music Group |
+| **Music** | Ami Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Producer** | Tim Knauff |

@@ -25,12 +25,12 @@
 | **Director Of Photography** | Donald M. McCuaig |
 | **Driver** | Randy Bittle |
 | **Editorial Consultant** | Paul Beaver, Publisher, Janes Defence Weekly |
-| **Editorial Consultants** | Col. Walter J. Boyne Usaf (ret.), Former Director, National Air &amp; Space Museum, Steven Llanso, Senior Weapons Editor, Periscope U.S. Naval Institute Military Database, Liet. Gen. F.J. Brown U.S. Army (ret.) |
+| **Editorial Consultants** | Col. Walter J. Boyne USAF (Ret.), Former Director, National Air &amp; Space Museum, Steven Llanso, Senior Weapons Editor, Periscope U.S. Naval Institute Military Database, Liet. Gen. F.j. Brown U.S. Army (Ret.) |
 | **Electrician** | Lenny Levine |
 | **Executive In Charge Of Production** | Steven Lewis |
 | **Executive Producer** | Craig Haffner |
 | **Field Camera** | Gordon Hoover, Bowdon Hunt, Brian Pratt, John Sorapure |
-| **Field Engineers** | Scott Duncan, T.J. Langdon, Phillip Pratt, Andrew Willment |
+| **Field Engineers** | Scott Duncan, T.j. Langdon, Phillip Pratt, Andrew Willment |
 | **Film Research** | Don Houghtaling, Klara Foeller, Bonnie Rowan |
 | **Filmlook Process By** | Woodholly Productions |
 | **Gaffer** | Larry Roth |

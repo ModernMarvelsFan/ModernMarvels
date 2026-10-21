@@ -7,14 +7,14 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1997 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Jaffe Productions, Hearst Entertainment, ACTUALITY Productions, Inc., Art F/X, Alan Ett Music Group, Inc.
+* **Production Company:** Jaffe Productions, Hearst Entertainment, Actuality Productions, Inc., Art F/X, Alan Ett Music Group, Inc.
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | LOU LaPROCIDO, DERRICK McDANIEL, Donald Milne, Jon Francis |
+| **Assistant Editors** | Lou LaProcido, Derrick McDaniel, Donald Milne, Jon Francis |
 | **Assistant Production Accountants** | Tracy Towers, Linda Scribner |
 | **Assistant To Don Cambou** | Tim Shell |
 | **Audio Post Production** | Alan Ett Music Group, Inc., Sam Kaufman, Daniel Colman |

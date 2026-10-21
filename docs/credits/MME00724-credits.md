@@ -31,7 +31,7 @@
 | **Executive Producer** | Jim Pasquarella, Matthew J. Braley |
 | **Executive Producers** | Steve Ascher, Kelly Sabat, Matt Pearl |
 | **Executive-In-Charge** | Patrice Andrews |
-| **Gear Rental** | DV Depot |
+| **Gear Rental** | Dv Depot |
 | **Graphics** | Monkeyhead |
 | **Host** | Adam Richman |
 | **Lead Production Accountant** | Sophiya Bane |

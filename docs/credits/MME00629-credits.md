@@ -40,7 +40,7 @@
 | **Researcher** | Sapna Chhabra |
 | **Sound Mixer** | Mark Jensen |
 | **Supervising Producer** | Ron Nelson |
-| **Technical Consultants** | Carol Bennett-Clarke, PhD, Nickolas Careone, Mark Hankin, PhD, Graham S. Hetrick, FD, BCFE, LifeNet Health, Scott Mason, Dennis E. Morse, PhD, Tom Snyder |
+| **Technical Consultants** | Carol Bennett-Clarke, PhD, Nickolas Careone, Mark Hankin, PhD, Graham S. Hetrick, Fd, Bcfe, LifeNet Health, Scott Mason, Dennis E. Morse, PhD, Tom Snyder |
 | **Written And Produced By** | Gloria L. Morris |
 
 ---

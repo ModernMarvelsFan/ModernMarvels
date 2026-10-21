@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `Produced by Half Yard Productions. For A&E Television Networks (R)`
-* **Production Company:** Half Yard Productions (producer), PERCOLATE DIGITAL (3D animation), A&E Television Networks
+* **Production Company:** Half Yard Productions (producer), Percolate Digital (3d animation), A&E Television Networks
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll

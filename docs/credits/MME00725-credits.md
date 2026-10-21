@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2021 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Produced by the Six West Media™ Group for HISTORY®
+* **Production Company:** Produced by the Six West Media™ Group for History®
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -31,7 +31,7 @@
 | **Executive Producers** | Steve Ascher, Kristy Sabat, Matt Pearl |
 | **Executive-In-Charge** | Patrice Andrews |
 | **For History® Music Services** | Jennifer Insogna, Liz Morgan |
-| **Gear Rental** | DV Depot |
+| **Gear Rental** | Dv Depot |
 | **Graphics** | Monkeyhead |
 | **Host** | Adam Richman |
 | **Lead Production Accountant** | Sophiya Banu |

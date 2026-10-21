@@ -1,5 +1,5 @@
-# Credit Roll: Mt. Rushmore. (1994)
-**Canonical Episode:** [`MME00004: Mt. Rushmore.`](../episodes/MME00004.md)
+# Credit Roll: Mt. Rushmore (1994)
+**Canonical Episode:** [`MME00004: Mt. Rushmore`](../episodes/MME00004.md)
 
 **Downloads:** [Credits JSON](json/MME00004-credits.json) • [Credits Plain Text](txt/MME00004-credits.txt)
 

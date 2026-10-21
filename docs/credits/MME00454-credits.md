@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2005 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Produced by / ACTUALITY PRODUCTIONS, INC., History Television Network Productions
+* **Production Company:** Produced by / Actuality Productions, Inc., History Television Network Productions
 * **Narrator:** Max Raphael, Mikki Del Monico
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -18,8 +18,8 @@
 | **Animation By** | Randall Rickert |
 | **Assistant Editors** | Laura Steinhoff, Josh Beckham |
 | **Assistant Post Coordinator** | Alexander Rubinow |
-| **Camera** | John Davis, El Kukla, Lon Magdich, R. Kelley Marchal, Jed Udall, Doug Weisman, T.J. Williams |
-| **Clearance Coordinator** | D.W. Blakeslee |
+| **Camera** | John Davis, El Kukla, Lon Magdich, R. Kelley Marchal, Jed Udall, Doug Weisman, T.j. Williams |
+| **Clearance Coordinator** | D.w. Blakeslee |
 | **Clearance Supervisor** | Katie Del Core |
 | **Coordinators** | Melinda Esquibel, Brad Skiles |
 | **Created By** | Bruce Nash |

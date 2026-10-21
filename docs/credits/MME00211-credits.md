@@ -18,15 +18,15 @@
 | **Archivist** | Nilda Pergola-Jensen |
 | **Assistant Production Accountant** | Linda Scribner |
 | **Associate Producers** | La Monte Westmoreland, Beata Genin |
-| **Camera** | Jon Cermin, Peter Krajewski, CAMERON MacDONALD, Dylan S. O'Brien, Jesse Phinney, Jack Twesten, Z Vidusin, Alec Walterscheid, Bob Young |
+| **Camera** | Jon Cermin, Peter Krajewski, Cameron MacDonald, Dylan S. O'Brien, Jesse Phinney, Jack Twesten, Z Vidusin, Alec Walterscheid, Bob Young |
 | **Clearance Assistant** | Gabe Martinez |
 | **Clearance Supervisor** | Katie Del Core |
 | **Consulting Producer** | Henry Schipper |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Hildie Katibah |
-| **Edited By** | Lou Laprocido |
+| **Edited By** | Lou LaProcido |
 | **Executive Producer** | Beth Dietrich-Segarra |
-| **Field Audio** | Robert Howell, Eric Jewell, BRIAN McHENRY, James Robertson, Mark Solomon, Robby Watkins |
+| **Field Audio** | Robert Howell, Eric Jewell, Brian McHenry, James Robertson, Mark Solomon, Robby Watkins |
 | **Footage Consultant** | Ted Troll |
 | **Graphics** | Barry Hill |
 | **Historical Consultant** | Jeffrey Rodengen |

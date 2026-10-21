@@ -1,5 +1,5 @@
-# Credit Roll: Bridges. (2000)
-**Canonical Episode:** [`MME00121: Bridges.`](../episodes/MME00121.md)
+# Credit Roll: Bridges (2000)
+**Canonical Episode:** [`MME00121: Bridges`](../episodes/MME00121.md)
 
 **Downloads:** [Credits JSON](json/MME00121-credits.json) • [Credits Plain Text](txt/MME00121-credits.txt)
 
@@ -18,7 +18,7 @@
 | **Assistant Editors** | Stuart Brodlieb, Harris Cohen, Gary Reid |
 | **Assistant Production Accountants** | Linda Scribner, Francis Ramey |
 | **Associate Producer** | Christof Ritter |
-| **Audio** | K.C. Brown, Larry Farkas, Alejandro Fernandez-Ramos, Simon Kunz, Lucy Pickering |
+| **Audio** | K.c. Brown, Larry Farkas, Alejandro Fernandez-Ramos, Simon Kunz, Lucy Pickering |
 | **Camera** | Ueli Grossenbacher, Yahel Herzog, Jerry Hughes, Will Jacob, Arturo Jimenez Leon, Dylan O'Brien |
 | **Clearance Coordinator** | Katie Del Core |
 | **Clearance Supervisor** | Charlotte Carpenter |

@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `All Rights Reserved. HistoryChannel.com`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, The History Channel
+* **Production Company:** Actuality Productions, Inc., Hearst Entertainment, The History Channel
 * **Narrator:** Harlan Saperstein
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -20,7 +20,7 @@
 | **Clearance Coordinator** | Randy Pitler |
 | **Clearance Supervisor** | Amy Trahant |
 | **Executive Producer** | Charlie Maday |
-| **Field Audio** | James Cirigliano, John Duffy, Michael Kimball, GARY McCAFFERTY, Laura Wong |
+| **Field Audio** | James Cirigliano, John Duffy, Michael Kimball, Gary McCafferty, Laura Wong |
 | **Graphics And Animation** | Glenn Takakjian |
 | **Music By** | Alan Ett |
 | **Narrated By** | Harlan Saperstein |

@@ -40,7 +40,7 @@
 | **Research** | Rick George |
 | **Sound Mixer** | Nozomu Furuya-Hirota |
 | **Supervising Producer** | Ron Nelson |
-| **Technical Consultants** | Mark Bassett, CE Generation, LLC, Chris Crain, Jack W. Finger, I-Wei Huang, Stanley Museum, Steamboat Natchez |
+| **Technical Consultants** | Mark Bassett, Ce Generation, LLC, Chris Crain, Jack W. Finger, I-Wei Huang, Stanley Museum, Steamboat Natchez |
 | **Written And Produced By** | Richard Jones |
 
 ---

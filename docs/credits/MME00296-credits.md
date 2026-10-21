@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Produced by ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL
+* **Production Company:** Produced by Actuality Productions, Inc. for The History Channel
 * **Narrator:** Max Raphael, Beata Genin
 
 ### Complete Transcribed On-Screen Crew Roll

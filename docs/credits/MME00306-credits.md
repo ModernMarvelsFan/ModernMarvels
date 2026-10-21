@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** PRODUCED BY / ACTUALITY PRODUCTIONS, INC. / for / THE HISTORY CHANNEL
+* **Production Company:** Produced By / Actuality Productions, Inc. / for / The History Channel
 * **Narrator:** Max Raphael, Melanie Pipes
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -34,7 +34,7 @@
 | **Post Coordinator** | Danny Kim |
 | **Post Production Manager** | Gary Reid |
 | **Producer** | Bruce Nash |
-| **Production Assistant** | ROSALYN McVAY |
+| **Production Assistant** | Rosalyn McVay |
 | **Production Auditor** | Dani Eslin |
 | **Production Coordinator** | James Wiser |
 | **Production Manager** | Kathlene Exner Rizzotti |

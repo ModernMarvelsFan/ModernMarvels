@@ -22,7 +22,7 @@
 | **Clearance Supervisor** | Katie Del Core |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Hildie Katibah |
-| **Edited By** | Lou Laprocido |
+| **Edited By** | Lou LaProcido |
 | **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
 | **Field Audio** | Ken Furrow, Rick Randall, Marcel Schaal |
 | **Footage Consultant** | Ted Troll |

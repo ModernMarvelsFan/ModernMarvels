@@ -19,7 +19,7 @@
 | **Assistant Editor** | Taylor Greathead |
 | **Camera** | Brandon Green |
 | **Clearance Supervisor** | Katie Del Core |
-| **Coordinator** | ROSALYN McVAY |
+| **Coordinator** | Rosalyn McVay |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Anthony Lacques |
 | **Edited By** | Brandon Green |
@@ -31,7 +31,7 @@
 | **Post Assistant** | Alexander Rubinow |
 | **Post Coordinator** | Laura Steinhoff |
 | **Post Producer** | Lauren Levine |
-| **Produced By** | ACTUALITY PRODUCTIONS, INC. for THE HISTORY CHANNEL |
+| **Produced By** | Actuality Productions, Inc. for The History Channel |
 | **Producer** | Bruce Nash |
 | **Production Assistant** | Jeffery Perkins |
 | **Production Auditor** | Dani Eslin |

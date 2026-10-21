@@ -1,5 +1,5 @@
-# Credit Roll: American Steel: Built to Last. (1998)
-**Canonical Episode:** [`MME00058: American Steel: Built to Last.`](../episodes/MME00058.md)
+# Credit Roll: American Steel: Built to Last (1998)
+**Canonical Episode:** [`MME00058: American Steel: Built to Last`](../episodes/MME00058.md)
 
 **Downloads:** [Credits JSON](json/MME00058-credits.json) • [Credits Plain Text](txt/MME00058-credits.txt)
 
@@ -14,14 +14,14 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Assistant Editors** | LOU LaPROCIDO, DERRICK McDANIEL |
+| **Assistant Editors** | Lou LaProcido, Derrick McDaniel |
 | **Assistant Production Accountants** | Tracy Towers, Linda Scribner |
 | **Assistant To Don Cambou** | Tim Shell |
-| **Associate Producer** | GREG DeHART |
+| **Associate Producer** | Greg DeHart |
 | **Audio Post Production** | Alan Ett Music Group, Inc., Sam Kaufman, Daniel Colman |
 | **Camera Operators** | Jerry Hughes, Matthew Wolff |
 | **Created By** | Bruce Nash |
-| **Edited By** | JANE McCORD |
+| **Edited By** | Jane McCord |
 | **Executive Producer** | Charlie Maday |
 | **Footage Consultant** | Ted Troll |
 | **Graphics By** | Doug Whitney |

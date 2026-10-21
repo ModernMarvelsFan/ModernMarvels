@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2004 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Produced by / ACTUALITY PRODUCTIONS, INC., History Television Network Productions
+* **Production Company:** Produced by / Actuality Productions, Inc., History Television Network Productions
 * **Narrator:** Mikki Del Monico, Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -18,10 +18,10 @@
 | **Assistant Accountants** | Sheridan Liu, Dennis Luciani |
 | **Camera** | Lon Magdich, R. Kelley Marchal, Kirk Munson, Jeff Tanner |
 | **Clearance Supervisor** | Katie Del Core |
-| **Coordinator** | ROSALYN McVAY |
+| **Coordinator** | Rosalyn McVay |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Anthony Lacques |
-| **Edited By** | Lou Laprocido |
+| **Edited By** | Lou LaProcido |
 | **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
 | **Field Audio** | Bob Bates, Matt Bowman, Keith Hindman |
 | **Historical Consultants** | John Halat, Peter Parsons, John Pippenger, Jeff Stone |

@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2022 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Produced by Actuality Productions, Inc. and the Six West Media™ group for HISTORY®
+* **Production Company:** Produced by Actuality Productions, Inc. and the Six West Media™ group for History®
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -37,13 +37,13 @@
 | **Executive Producers** | Michael Stiller, John Verhoff, Jim Pasquarella, Brandy Crawford-Uriu, Steve Ascher, Matt Pearl, Kristy Sabat |
 | **Executive-In-Charge Of Production** | Patrice Andrews |
 | **Field Audio** | Chad Byrant, Philippe Cusset, Brent Haliskie, Brian Haughin, David Mendez, Nick Modisett, Adrian Sam |
-| **Finishing Associate Producer** | RT Smith Jr. |
+| **Finishing Associate Producer** | Rt Smith Jr. |
 | **Graphics** | Ballast TV |
 | **Junior Production Accountant** | Phurbu Nepali |
 | **Lead Assistant Editor** | Scott R. Dixon |
 | **Lead Production Accountant** | Sophiya Banu |
 | **Line Producer** | Melissa Ray |
-| **Music** | AMI Music Group, The 100% Music Library, West One Music |
+| **Music** | Ami Music Group, The 100% Music Library, West One Music |
 | **Narration** | Lloyd Sherr |
 | **Online Editor** | John Price |
 | **Online Editor And Colorist** | Martin Behm |

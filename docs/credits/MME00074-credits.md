@@ -15,8 +15,8 @@
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
 | **Additional Graphics** | Barry Hill |
-| **Archive &amp; Audio Coordinator** | DERRICK McDANIEL |
-| **Assistant Editors** | LOU LaPROCIDO, Spencer Keimon |
+| **Archive &amp; Audio Coordinator** | Derrick McDaniel |
+| **Assistant Editors** | Lou LaProcido, Spencer Keimon |
 | **Assistant Production Accountants** | Linda Scribner, Thia Kulma |
 | **Assistant To Don Cambou** | Tim Shell |
 | **Associate Producer** | Matthew P. Hickey |

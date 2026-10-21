@@ -20,7 +20,7 @@
 | **Camera** | James Bareis, Bob Boccaccio, Dan Fried, Brandon Green, Brian Haughin, R. Kelley Marchal, Jed Udall, Lon Magdich |
 | **Clearance Supervisor** | Katie Del Core |
 | **Consulting Producer** | Henry Schipper |
-| **Coordinator** | ROSALYN McVAY |
+| **Coordinator** | Rosalyn McVay |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Anthony Lacques |
 | **Edited By** | Brian Johnson |

@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `PRODUCED BY THE SIX WEST MEDIA™ GROUP FOR HISTORY® ©2021 A&E Television Networks, LLC. All Rights Reserved.`
-* **Production Company:** The Six West Media™ Group, History®, A&E Television Networks, LLC, Motion Picture Enterprises, Inc., Monkeyhead, Trick & Mortar, DV Depot, Guastella Sound
+* **Production Company:** The Six West Media™ Group, History®, A&E Television Networks, LLC, Motion Picture Enterprises, Inc., Monkeyhead, Trick & Mortar, Dv Depot, Guastella Sound
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -28,7 +28,7 @@
 | **Executive Producer** | Jim Pasquarella |
 | **Executive Producers** | Steve Ascher, Kristy Sabat, Matt Pearl |
 | **Executive-In-Charge** | Patrice Andrews |
-| **Gear Rental** | DV Depot |
+| **Gear Rental** | Dv Depot |
 | **Graphics** | Monkeyhead, Trick &amp; Mortar |
 | **Host** | Adam Richman |
 | **Lead Production Accountant** | Sophiya Banu |

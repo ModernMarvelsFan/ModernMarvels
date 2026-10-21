@@ -39,7 +39,7 @@
 | **Production Manager** | Jennifer Partin |
 | **Researcher** | Ann Grau Duvall |
 | **Series Producer** | Brian Leonard |
-| **Sound** | Mark Mariaca, N.G. Poholchuk, Robert Porter |
+| **Sound** | Mark Mariaca, N.g. Poholchuk, Robert Porter |
 | **Sound Design** | Takoma Media |
 
 ---

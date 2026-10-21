@@ -16,7 +16,7 @@
 | :--- | :--- |
 | **Associate Producer** | Robert Ziel |
 | **Created By** | Bruce Nash |
-| **Edited By** | JANE McCORD |
+| **Edited By** | Jane McCord |
 | **Supervising Producer** | Don Cambou |
 | **Written And Produced By** | Yann Debonne |
 

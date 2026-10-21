@@ -24,6 +24,8 @@ theme:
   - search.suggest
   - search.highlight
   - content.code.copy
+extra_css:
+- stylesheets/extra.css
 plugins:
 - search
 markdown_extensions:
@@ -34,6 +36,7 @@ markdown_extensions:
     alternate_style: true
 - tables
 - attr_list
+- md_in_html
 nav:
 - Home: index.md
 - Database Errata & Actions: errata.md
@@ -43,7 +46,7 @@ nav:
     - 'MME00001: Grand Coulee Dam': episodes/MME00001.md
     - 'MME00002: The Empire State Building': episodes/MME00002.md
     - 'MME00003: The Panama Canal': episodes/MME00003.md
-    - 'MME00004: Mt. Rushmore.': episodes/MME00004.md
+    - 'MME00004: Mt. Rushmore': episodes/MME00004.md
     - 'MME00005: Cruise Ships': episodes/MME00005.md
     - 'MME00006: Transatlantic Cable': episodes/MME00006.md
     - 'MME00007: Balloons': episodes/MME00007.md
@@ -54,7 +57,7 @@ nav:
     - 'MME00012: Statue of Liberty': episodes/MME00012.md
     - 'MME00013: Tunnels': episodes/MME00013.md
     - 'MME00014: Gothic Cathedrals': episodes/MME00014.md
-    - 'MME00015: Monuments to Freedom: The People''s House"': episodes/MME00015.md
+    - 'MME00015: Monuments to Freedom: The People''s House': episodes/MME00015.md
     - 'MME00016: Space Shuttle': episodes/MME00016.md
     - 'MME00017: The Golden Gate Bridge': episodes/MME00017.md
     - 'MME00018: Ocean Liners': episodes/MME00018.md
@@ -82,31 +85,31 @@ nav:
     - 'MME00040: Pyramids: Majesty And Mystery': episodes/MME00040.md
     - 'MME00041: Roller Coasters': episodes/MME00041.md
     - 'MME00042: Observatories: Stonehenge to Space Telescopes': episodes/MME00042.md
-    - 'MME00043: The Great Wall of China.': episodes/MME00043.md
+    - 'MME00043: The Great Wall of China': episodes/MME00043.md
     - 'MME00044: Polio Vaccine': episodes/MME00044.md
-    - 'MME00045: Satellites.': episodes/MME00045.md
+    - 'MME00045: Satellites': episodes/MME00045.md
     - 'MME00046: Radio: Out Of Thin Air': episodes/MME00046.md
     - 'MME00047: The Phonograph': episodes/MME00047.md
     - 'MME00048: Great Towers in the Sky': episodes/MME00048.md
-    - 'MME00049: Household Wonders.': episodes/MME00049.md
+    - 'MME00049: Household Wonders': episodes/MME00049.md
     - 'MME00050: Radar': episodes/MME00050.md
-    - 'MME00051: Forensic Science: The Crime Fighter''s Weapon.': episodes/MME00051.md
+    - 'MME00051: Forensic Science: The Crime Fighter''s Weapon': episodes/MME00051.md
     - 'MME00052: The Stock Exchange': episodes/MME00052.md
     - 'MME00053: NORAD: The War Game Fortress': episodes/MME00053.md
     - 'MME00054: Earthmovers: The Power to Move Mountains': episodes/MME00054.md
     - 'MME00055: International Airports': episodes/MME00055.md
     - 'MME00056: Deep Sea Exploration: Challenging The Abyss': episodes/MME00056.md
     - 'MME00057: The Alaskan Oil Pipeline': episodes/MME00057.md
-    - 'MME00058: American Steel: Built to Last.': episodes/MME00058.md
-    - 'MME00059: Battlefield Engineering.': episodes/MME00059.md
-    - 'MME00060: Statue of Liberty.': episodes/MME00060.md
+    - 'MME00058: American Steel: Built to Last': episodes/MME00058.md
+    - 'MME00059: Battlefield Engineering': episodes/MME00059.md
+    - 'MME00060: Statue of Liberty': episodes/MME00060.md
     - 'MME00061: Demolition': episodes/MME00061.md
     - 'MME00062: The Atlantic Wall': episodes/MME00062.md
     - 'MME00063: History of Tall Buildings': episodes/MME00063.md
     - 'MME00064: World''s Fair: Visions of the Future': episodes/MME00064.md
     - 'MME00065: Aquariums': episodes/MME00065.md
-    - 'MME00066: Las Vegas Hotels.': episodes/MME00066.md
-    - 'MME00067: The Oakland Bay Bridge.': episodes/MME00067.md
+    - 'MME00066: Las Vegas Hotels': episodes/MME00066.md
+    - 'MME00067: The Oakland Bay Bridge': episodes/MME00067.md
     - 'MME00068: Monumental Statues': episodes/MME00068.md
     - 'MME00069: Antibiotics: The Wonder Drugs': episodes/MME00069.md
     - 'MME00070: The Police Car': episodes/MME00070.md
@@ -123,7 +126,7 @@ nav:
     - 'MME00080: The Quest for Health': episodes/MME00080.md
     - 'MME00081: Mail Delivery': episodes/MME00081.md
     - 'MME00082: Clocks': episodes/MME00082.md
-    - 'MME00083: Airships.': episodes/MME00083.md
+    - 'MME00083: Airships': episodes/MME00083.md
     - 'MME00084: Physical Fitness': episodes/MME00084.md
     - 'MME00085: Engineering Disasters': episodes/MME00085.md
     - 'MME00086: Map Making': episodes/MME00086.md
@@ -136,8 +139,8 @@ nav:
     - 'MME00093: Rescue Equipment': episodes/MME00093.md
     - 'MME00094: Scuba And Deep Sea Diving': episodes/MME00094.md
     - 'MME00095: Offshore Oil Drilling': episodes/MME00095.md
-    - 'MME00096: Dynamite.': episodes/MME00096.md
-    - 'MME00097: Hoover Dam.': episodes/MME00097.md
+    - 'MME00096: Dynamite': episodes/MME00096.md
+    - 'MME00097: Hoover Dam': episodes/MME00097.md
     - 'MME00098: Baseball Parks': episodes/MME00098.md
     - 'MME00099: New York Bridges': episodes/MME00099.md
     - 'MME00100: Crash Testing': episodes/MME00100.md
@@ -147,12 +150,12 @@ nav:
     - 'MME00104: Simulators': episodes/MME00104.md
     - 'MME00105: The Tool Bench: Power Tools': episodes/MME00105.md
     - 'MME00106: The Tool Bench: Hand Tools': episodes/MME00106.md
-    - 'MME00107: More Earthmovers.': episodes/MME00107.md
+    - 'MME00107: More Earthmovers': episodes/MME00107.md
     - 'MME00108: Forts': episodes/MME00108.md
     - 'MME00109: Emergency Room': episodes/MME00109.md
     - 'MME00110: Motorcycles': episodes/MME00110.md
     - 'MME00111: Security Systems': episodes/MME00111.md
-    - 'MME00112: More Engineering Disasters.': episodes/MME00112.md
+    - 'MME00112: More Engineering Disasters': episodes/MME00112.md
     - 'MME00113: Niagara Power': episodes/MME00113.md
     - 'MME00114: Casino Technology': episodes/MME00114.md
     - 'MME00115: Lost Marvels': episodes/MME00115.md
@@ -160,8 +163,8 @@ nav:
     - 'MME00117: The City Beneath Our Feet': episodes/MME00117.md
     - 'MME00118: Tower Bridge': episodes/MME00118.md
     - 'MME00119: The Chunnel': episodes/MME00119.md
-    - 'MME00120: Space Stations.': episodes/MME00120.md
-    - 'MME00121: Bridges.': episodes/MME00121.md
+    - 'MME00120: Space Stations': episodes/MME00120.md
+    - 'MME00121: Bridges': episodes/MME00121.md
     - 'MME00122: Prisons': episodes/MME00122.md
     - 'MME00123: Gadgets': episodes/MME00123.md
     - 'MME00124: Office Wonders': episodes/MME00124.md
@@ -174,8 +177,8 @@ nav:
     - 'MME00131: Race Cars': episodes/MME00131.md
     - 'MME00132: Traffic': episodes/MME00132.md
     - 'MME00133: Buses': episodes/MME00133.md
-    - 'MME00134: Gold Mines.': episodes/MME00134.md
-    - 'MME00135: Banks.': episodes/MME00135.md
+    - 'MME00134: Gold Mines': episodes/MME00134.md
+    - 'MME00135: Banks': episodes/MME00135.md
     - 'MME00136: The Erie Canal': episodes/MME00136.md
     - 'MME00137: Trucks': episodes/MME00137.md
     - 'MME00138: Aswan Dam': episodes/MME00138.md
@@ -189,15 +192,15 @@ nav:
     - 'MME00146: Assembly Lines': episodes/MME00146.md
     - 'MME00147: Suez Canal': episodes/MME00147.md
     - 'MME00148: London Underground': episodes/MME00148.md
-    - 'MME00149: Combat Training.': episodes/MME00149.md
+    - 'MME00149: Combat Training': episodes/MME00149.md
     - 'MME00150: Remote Operated Vehicles': episodes/MME00150.md
     - 'MME00151: Death Devices': episodes/MME00151.md
-    - 'MME00152: Power Plants.': episodes/MME00152.md
-    - 'MME00153: Inventions of War.': episodes/MME00153.md
+    - 'MME00152: Power Plants': episodes/MME00152.md
+    - 'MME00153: Inventions of War': episodes/MME00153.md
     - 'MME00154: Plumbing: The Arteries Of Civilzation': episodes/MME00154.md
     - 'MME00155: Line of Defense': episodes/MME00155.md
     - 'MME00156: Engineering Disasters 2': episodes/MME00156.md
-    - 'MME00157: Battle Gear.': episodes/MME00157.md
+    - 'MME00157: Battle Gear': episodes/MME00157.md
     - 'MME00158: Proving Grounds': episodes/MME00158.md
     - 'MME00159: U-Boats': episodes/MME00159.md
     - 'MME00160: Commercial Jets': episodes/MME00160.md
@@ -208,16 +211,16 @@ nav:
     - 'MME00165: Construction Machines': episodes/MME00165.md
     - 'MME00166: Hadrian''s Wall': episodes/MME00166.md
     - 'MME00167: Then And Now: Airships': episodes/MME00167.md
-    - 'MME00168: Monster Trucks.': episodes/MME00168.md
+    - 'MME00168: Monster Trucks': episodes/MME00168.md
     - 'MME00169: The Pentagon': episodes/MME00169.md
     - 'MME00170: Lighthouses': episodes/MME00170.md
     - 'MME00171: How Did They Build That?: Concrete': episodes/MME00171.md
     - 'MME00172: Computers': episodes/MME00172.md
-    - 'MME00173: Engineering Disasters 3.': episodes/MME00173.md
+    - 'MME00173: Engineering Disasters 3': episodes/MME00173.md
     - 'MME00174: Chemical And Biological Weapons': episodes/MME00174.md
     - 'MME00175: International Airports II': episodes/MME00175.md
     - 'MME00176: Extreme Planes': episodes/MME00176.md
-    - 'MME00177: Codes.': episodes/MME00177.md
+    - 'MME00177: Codes': episodes/MME00177.md
     - 'MME00178: The M-16': episodes/MME00178.md
     - 'MME00179: The Colosseum': episodes/MME00179.md
     - 'MME00180: The World Trade Center': episodes/MME00180.md
@@ -225,17 +228,17 @@ nav:
     - 'MME00182: Saloons': episodes/MME00182.md
     - 'MME00183: More Gadgets': episodes/MME00183.md
     - 'MME00184: Cattle Ranches': episodes/MME00184.md
-    - 'MME00185: Cannons.': episodes/MME00185.md
+    - 'MME00185: Cannons': episodes/MME00185.md
     - 'MME00186: Nuclear Subs': episodes/MME00186.md
     - 'MME00187: Air Shows': episodes/MME00187.md
     - 'MME00188: West Point': episodes/MME00188.md
-    - 'MME00189: Quarries.': episodes/MME00189.md
+    - 'MME00189: Quarries': episodes/MME00189.md
     - 'MME00190: Diamond Mines': episodes/MME00190.md
     - 'MME00191: The Mig': episodes/MME00191.md
     - 'MME00192: The House': episodes/MME00192.md
     - 'MME00193: Work Clothes': episodes/MME00193.md
-    - 'MME00194: Bunkers.': episodes/MME00194.md
-    - 'MME00195: Cemeteries.': episodes/MME00195.md
+    - 'MME00194: Bunkers': episodes/MME00194.md
+    - 'MME00195: Cemeteries': episodes/MME00195.md
     - 'MME00196: War Games': episodes/MME00196.md
     - 'MME00197: Drive-Thru': episodes/MME00197.md
     - 'MME00198: Times Square': episodes/MME00198.md
@@ -244,21 +247,21 @@ nav:
   - '2001–2004: Peak Production (MME00201–MME00400)':
     - 'MME00201: Firing Ranges': episodes/MME00201.md
     - 'MME00202: The St. Louis Arch': episodes/MME00202.md
-    - 'MME00203: Breweries.': episodes/MME00203.md
+    - 'MME00203: Breweries': episodes/MME00203.md
     - 'MME00204: Failed Inventions': episodes/MME00204.md
     - 'MME00205: War Planes of World War II': episodes/MME00205.md
     - 'MME00206: The Winchester': episodes/MME00206.md
     - 'MME00207: Private Jets 2': episodes/MME00207.md
     - 'MME00208: Big Rigs of Combat: Tanks and Jeeps': episodes/MME00208.md
-    - 'MME00209: Tunnels of Vietnam.': episodes/MME00209.md
+    - 'MME00209: Tunnels of Vietnam': episodes/MME00209.md
     - 'MME00210: Helicopters': episodes/MME00210.md
     - 'MME00211: Private Jets': episodes/MME00211.md
-    - 'MME00212: James Bond Gadgets.': episodes/MME00212.md
+    - 'MME00212: James Bond Gadgets': episodes/MME00212.md
     - 'MME00213: Remote Control': episodes/MME00213.md
     - 'MME00214: Million Dollar Tech': episodes/MME00214.md
     - 'MME00215: Pleasure Boats': episodes/MME00215.md
-    - 'MME00216: Bulletproof.': episodes/MME00216.md
-    - 'MME00217: Siege Machines.': episodes/MME00217.md
+    - 'MME00216: Bulletproof': episodes/MME00216.md
+    - 'MME00217: Siege Machines': episodes/MME00217.md
     - 'MME00218: The Junkyard': episodes/MME00218.md
     - 'MME00219: The F-14': episodes/MME00219.md
     - 'MME00220: Engines': episodes/MME00220.md
@@ -267,29 +270,29 @@ nav:
     - 'MME00223: Star City': episodes/MME00223.md
     - 'MME00224: Ice Breakers': episodes/MME00224.md
     - 'MME00225: Big Rigs of Combat: Jeeps': episodes/MME00225.md
-    - 'MME00226: Fire and Ice.': episodes/MME00226.md
+    - 'MME00226: Fire and Ice': episodes/MME00226.md
     - 'MME00227: Muscle Cars': episodes/MME00227.md
-    - 'MME00228: Axes, Swords and Knives.': episodes/MME00228.md
-    - 'MME00229: The World''s Biggest Machines.': episodes/MME00229.md
+    - 'MME00228: Axes, Swords and Knives': episodes/MME00228.md
+    - 'MME00229: The World''s Biggest Machines': episodes/MME00229.md
     - 'MME00230: Drag Racing': episodes/MME00230.md
-    - 'MME00231: The Manhattan Project.': episodes/MME00231.md
+    - 'MME00231: The Manhattan Project': episodes/MME00231.md
     - 'MME00232: The Tackle Box': episodes/MME00232.md
-    - 'MME00233: Hunting Gear.': episodes/MME00233.md
+    - 'MME00233: Hunting Gear': episodes/MME00233.md
     - 'MME00234: Camouflage': episodes/MME00234.md
     - 'MME00235: Models': episodes/MME00235.md
     - 'MME00236: Hangars': episodes/MME00236.md
     - 'MME00237: Beach Technology': episodes/MME00237.md
     - 'MME00238: The Big Dig': episodes/MME00238.md
     - 'MME00239: Super Guns': episodes/MME00239.md
-    - 'MME00240: Strategic Air Command.': episodes/MME00240.md
+    - 'MME00240: Strategic Air Command': episodes/MME00240.md
     - 'MME00241: Gasoline': episodes/MME00241.md
-    - 'MME00242: Towing.': episodes/MME00242.md
+    - 'MME00242: Towing': episodes/MME00242.md
     - 'MME00243: Jet Engines': episodes/MME00243.md
     - 'MME00244: Nordhausen': episodes/MME00244.md
     - 'MME00245: War Trains': episodes/MME00245.md
     - 'MME00246: Liberty Ships of World War II': episodes/MME00246.md
     - 'MME00247: Magnets': episodes/MME00247.md
-    - 'MME00248: The Chrysler Building.': episodes/MME00248.md
+    - 'MME00248: The Chrysler Building': episodes/MME00248.md
     - 'MME00249: The Autobahn': episodes/MME00249.md
     - 'MME00250: Home Tech': episodes/MME00250.md
     - 'MME00251: Cranes': episodes/MME00251.md
@@ -307,7 +310,7 @@ nav:
     - 'MME00265: Motorcycles': episodes/MME00265.md
     - 'MME00266: Boys'' Toys - Motorcycles': episodes/MME00266.md
     - 'MME00267: Runways': episodes/MME00267.md
-    - 'MME00268: Failed Inventions.': episodes/MME00268.md
+    - 'MME00268: Failed Inventions': episodes/MME00268.md
     - 'MME00269: Trans-Siberian Railroad': episodes/MME00269.md
     - 'MME00270: Castles & Dungeons': episodes/MME00270.md
     - 'MME00271: Ice Road Truckers': episodes/MME00271.md

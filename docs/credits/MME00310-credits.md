@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** The History Channel, (illegible) PRODUCTIONS, INC.
+* **Production Company:** The History Channel, (illegible) Productions, Inc.
 * **Narrator:** Beata Genin, Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -30,7 +30,7 @@
 | **Line Producer** | Paul Dzilvelis |
 | **Music By** | Alan Ett |
 | **Narrator** | Max Raphael |
-| **Online Editor** | Ogden "obi" Bass |
+| **Online Editor** | Ogden "Obi" Bass |
 | **Post Production Assistant** | Laura Steinhoff |
 | **Post Production Coordinator** | Danny Kim |
 | **Post Production Manager** | Gary Reid |

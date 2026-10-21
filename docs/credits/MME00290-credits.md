@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2003 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** PRODUCED BY FLASHBACK TELEVISION for THE HISTORY CHANNEL, JUMP DESIGN (graphics)
+* **Production Company:** Produced By Flashback Television for The History Channel, Jump Design (graphics)
 * **Narrator:** Greg Stebner
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -31,7 +31,7 @@
 | **Production Runner** | Carrie Pennifer |
 | **Reconstructions** | Thomas Knowles, Greg Bender, Jimmy Rossi, Jnr, Barry Gay, Rupert Regis, Gunther Wurger, Max Casali, Nick Field, Oliver Calvert, John Coleman, Dave Weedon, Graham Naughton |
 | **Research** | Yelena Yakovleva, Paul Nelson |
-| **Sound** | Mikhail Fedulov, Chris Stanway, CLAY McMILLAN |
+| **Sound** | Mikhail Fedulov, Chris Stanway, Clay McMillan |
 | **Supervising Producer** | Dolores Gavin |
 | **Translation** | Lena Smolina, Svetlana Palmer |
 | **Written And Directed By** | Chris Warren |

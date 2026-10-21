@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 1999 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment
+* **Production Company:** Actuality Productions, Inc., Hearst Entertainment
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -17,7 +17,7 @@
 | **Assistant Editors** | Stuart Brodlieb, Harris Cohen, Spencer Keimon |
 | **Assistant Production Accountants** | Linda Scribner, Judi Minitello |
 | **Assistant To Don Cambou** | Tim Shell |
-| **Audio Coordinator** | DERRICK McDANIEL |
+| **Audio Coordinator** | Derrick McDaniel |
 | **Executive Producer** | Charlie Maday |
 | **Footage Consultant** | Ted Troll |
 | **Graphics &amp; Animation** | Doug Whitney |

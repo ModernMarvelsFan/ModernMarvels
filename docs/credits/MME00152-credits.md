@@ -1,5 +1,5 @@
-# Credit Roll: Power Plants. (2000)
-**Canonical Episode:** [`MME00152: Power Plants.`](../episodes/MME00152.md)
+# Credit Roll: Power Plants (2000)
+**Canonical Episode:** [`MME00152: Power Plants`](../episodes/MME00152.md)
 
 **Downloads:** [Credits JSON](json/MME00152-credits.json) • [Credits Plain Text](txt/MME00152-credits.txt)
 
@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment, The History Channel
+* **Production Company:** Actuality Productions, Inc., Hearst Entertainment, The History Channel
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -21,7 +21,7 @@
 | **Post Production Assistant** | Brian Volk |
 | **Post Production Coordinator** | Gary Reid |
 | **Post Production Supervisor** | Jason Steinberg |
-| **Produced By** | ACTUALITY Productions, Inc. |
+| **Produced By** | Actuality Productions, Inc. |
 | **Production Assistants** | Maryalice R. Aragon, Suni Nivens |
 | **Production Auditor** | Dani Eslin |
 | **Production Coordinator** | Kathy Exner |

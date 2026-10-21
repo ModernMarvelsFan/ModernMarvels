@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2022 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Actuality Productions, Inc., the Six West Media(TM) group, History(r)
+* **Production Company:** Actuality Productions, Inc., the Six West Media(tm) group, History(r)
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll

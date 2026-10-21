@@ -34,7 +34,7 @@
 | **Post Coordinator** | Danny Kim |
 | **Post Production Manager** | Gary Reid |
 | **Producer** | Bruce Nash |
-| **Production Assistant** | ROSALYN McVAY |
+| **Production Assistant** | Rosalyn McVay |
 | **Production Auditor** | Dani Eslin |
 | **Production Coordinator** | James Wiser |
 | **Production Manager** | Shelia Collins |

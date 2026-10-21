@@ -37,7 +37,7 @@
 | **Programming Coordinator** | Kelly Vorasi |
 | **Researcher** | Ann Grau Duvall |
 | **Series Producer** | Brian Leonard |
-| **Sound** | Pablo Durana, Matthew Engel, Mark Mariaca, Brad Mormon, N.G. Poholchuk, Robert Porter |
+| **Sound** | Pablo Durana, Matthew Engel, Mark Mariaca, Brad Mormon, N.g. Poholchuk, Robert Porter |
 | **Sound Design** | Takoma Media |
 
 ---

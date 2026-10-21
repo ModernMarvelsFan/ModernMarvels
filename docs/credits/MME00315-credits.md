@@ -20,11 +20,11 @@
 | **Assistant Production Coordinator** | Savas Georgalis |
 | **Associate Producer** | Steven D. Smith |
 | **Composite Editors** | Rod Decker, Peter Salas |
-| **Editors** | Larry Frank, R.L. Shontell |
+| **Editors** | Larry Frank, R.l. Shontell |
 | **Executive Producer** | Beth Dietrich Segarra |
 | **Executive Producers** | Craig Haffner, Donna E. Lusitana |
 | **Field Audio** | Kevin Brown, Frank Coakley, Branden Gomes, Scott Johnson, Julio Luzquinos |
-| **Field Producers** | KAREN McCABE, Chip Selby, Paul Stern |
+| **Field Producers** | Karen McCabe, Chip Selby, Paul Stern |
 | **General Counsel** | Shinaan S. Krakowsky |
 | **Graphic Design** | Christopher Gaal |
 | **Music By** | Dl Music |

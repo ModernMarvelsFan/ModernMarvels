@@ -27,7 +27,7 @@
 | **Field Audio** | Jeff Colon, Alex Fox, Dacid Rutherford, Nathan Smith |
 | **Footage Consultant** | Ted Troll |
 | **For** | The History Channel |
-| **Historical Consultant** | Martin K.A. Morgan |
+| **Historical Consultant** | Martin K.a. Morgan |
 | **Music By** | Alan Ett |
 | **Online Editor** | Tim Dornan |
 | **Post Production Assistant** | Laura Steinhoff |

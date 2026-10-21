@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `©2021 A&E Television Networks, LLC. All Rights Reserved.`
-* **Production Company:** The Six West Media(TM) Group, A&E Television Networks, LLC, Motion Picture Enterprises, Inc., Monkeyhead
+* **Production Company:** The Six West Media(tm) Group, A&E Television Networks, LLC, Motion Picture Enterprises, Inc., Monkeyhead
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -34,7 +34,7 @@
 | **Graphics** | Monkeyhead, Ken Dayhoff |
 | **Host** | Adam Richman |
 | **Jr Production Coordinator** | Breanne Casucci |
-| **Jr. Production Coordinator** | Sarah Mchugh |
+| **Jr. Production Coordinator** | Sarah McHugh |
 | **Junior Production Accountant** | Phurbu Nepali |
 | **Lead Production Accountant** | Sophiya Banu |
 | **Line Producer** | Pamela Wagner |

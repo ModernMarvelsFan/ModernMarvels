@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2012 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Produced by Half Yard Productions, LLC for HISTORY
+* **Production Company:** Produced by Half Yard Productions, LLC for History
 * **Narrator:** Max Raphael
 
 ### Complete Transcribed On-Screen Crew Roll

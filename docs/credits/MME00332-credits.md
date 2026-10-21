@@ -18,7 +18,7 @@
 | **Director** | Robert Kirk |
 | **Executive Producer** | Craig Haffner |
 | **Music By** | Christopher Stone, Richard Band |
-| **Senior Editors** | Steve Pomerantz, R.L. Shontell |
+| **Senior Editors** | Steve Pomerantz, R.l. Shontell |
 | **Series Producer** | John Corry |
 | **Supervising Producer** | Robert Lihani |
 

@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2022 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Produced by Actuality Productions, Inc. and the Six West Media™ group PRODUCED FOR HISTORY® NETWORK
+* **Production Company:** Produced by Actuality Productions, Inc. and the Six West Media™ group Produced For History® Network
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -36,7 +36,7 @@
 | **Executive Producers** | Beth Dietrich-Segarra, Michael Stiller, John Verhoff, Jim Pasquarella, Brandy Crawford-Uriu, Steve Ascher, Matt Pearl, Kristy Sabat |
 | **Executive-In-Charge Of Production** | Patrice Andrews |
 | **Field Audio** | Curt Britton, Danny Clayton, Chris Hall, Dennis Hamlin, Phillip Harris, Tom Staton, Phil Velasco |
-| **Finishing Associate Producer** | RT Smith Jr. |
+| **Finishing Associate Producer** | Rt Smith Jr. |
 | **Graphics** | Ballast TV |
 | **Historical Consultants** | Jim Ricci, Virginia Scott-Jenkins |
 | **Junior Production Accountant** | Phurbu Nepali |

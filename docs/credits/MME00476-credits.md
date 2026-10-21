@@ -24,9 +24,9 @@
 | **Coordinators** | Terrence Hartwell, Brad Skiles |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Allison Boon |
-| **Edited By** | Lou Laprocido |
+| **Edited By** | Lou LaProcido |
 | **Field Audio** | David Landry, Chris Rodgers, John Scott, Mark Solomon |
-| **Historical Consultants** | Steve Dorrler, TORRIE McALLISTER, USACE |
+| **Historical Consultants** | Steve Dorrler, Torrie McAllister, Usace |
 | **Music By** | Alan Ett Music Group |
 | **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |

@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2000 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** ACTUALITY Productions, Inc., Hearst Entertainment
+* **Production Company:** Actuality Productions, Inc., Hearst Entertainment
 * **Narrator:** Ron Hazelton
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -16,7 +16,7 @@
 | :--- | :--- |
 | **Executive Producer** | Charlie Maday |
 | **Hosted And Narrated By** | Ron Hazelton |
-| **Produced By** | ACTUALITY Productions, Inc. |
+| **Produced By** | Actuality Productions, Inc. |
 | **Supervising Producer** | Beth Dietrich |
 | **Written And Produced By** | Robert Beemer |
 

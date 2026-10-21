@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2006 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Produced by / ACTUALITY PRODUCTIONS, INC., History Television Network Productions
+* **Production Company:** Produced by / Actuality Productions, Inc., History Television Network Productions
 * **Narrator:** Max Raphael, John Knapp
 
 ### Complete Transcribed On-Screen Crew Roll
@@ -25,10 +25,10 @@
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Allison Boon |
 | **Director Of Rights And Clearances** | Katie Del Core |
-| **Edited By** | Lou Laprocido |
+| **Edited By** | Lou LaProcido |
 | **Executive Producer** | Beth Dietrich-Segarra, Don Cambou |
 | **Field Audio** | Bruce Brooks, Dave Curtin, Ryan Klimas, Jeffrey Knudsen, Robert Surenbroek |
-| **Historical Consultants** | Bio-Diesel Industries, Conagra Foods, Inc., Diamond Foods, Inc., GEORGE RAY McEACHERN, Mauna Loa, Paramount Foods, Inc., Gene Spiller |
+| **Historical Consultants** | Bio-Diesel Industries, Conagra Foods, Inc., Diamond Foods, Inc., George Ray McEachern, Mauna Loa, Paramount Foods, Inc., Gene Spiller |
 | **Music By** | Guy Thomas |
 | **Narrated By** | Max Raphael |
 | **Online Editor** | John Price |

@@ -28,7 +28,7 @@
 | **Editor** | Alexander Rubinow |
 | **Executive Producer** | John Verhoff |
 | **Field Audio** | Daniel Agustin, Chad Bryant, Eric Golden, Michael Harvey, Gary Heimann, Geoff Pennington, Tom Staton, Dave Wason |
-| **Music** | AMI Music Group |
+| **Music** | Ami Music Group |
 | **Narrator** | Max Raphael |
 | **Online Editor** | John Price |
 | **Post Assist** | Cory Parker |

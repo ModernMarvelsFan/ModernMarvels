@@ -31,7 +31,7 @@
 | **Executive Producers** | Steve Ascher, Kristy Sabat, Matt Pearl |
 | **Executive-In-Charge** | Patrice Andrews |
 | **For History'S Music Services** | Jennifer Insogna, Liz Morgan |
-| **Gear Rental** | DV Depot |
+| **Gear Rental** | Dv Depot |
 | **Graphics** | Monkeyhead |
 | **Host** | Adam Richman |
 | **Lead Production Accountant** | Sophiya Banu |

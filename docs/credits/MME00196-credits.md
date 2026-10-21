@@ -14,7 +14,7 @@
 
 | Screen Heading | Credited Name(s) |
 | :--- | :--- |
-| **Additional Footage** | NTC Vulture Team, Capt Eric L. Simon, Spc Erick Henson, Pfc Joe Hickey |
+| **Additional Footage** | Ntc Vulture Team, Capt Eric L. Simon, Spc Erick Henson, Pfc Joe Hickey |
 | **Assistant Editor** | Chandler Robbins |
 | **Edited By** | Guy W. Cearley |
 | **Executive Producer** | Beth Dietrich-Segarra |

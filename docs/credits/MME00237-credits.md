@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2002 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** GLOBAL BEAT MUSIC (inside the 'Music Provided by' credit), Weller/grossman Productions, Inc., The History Channel, A&e Television Networks, Weller Grossman productions
+* **Production Company:** Global Beat Music (inside the 'Music Provided by' credit), Weller/grossman Productions, Inc., The History Channel, A&E Television Networks, Weller Grossman productions
 * **Narrator:** —
 
 ### Complete Transcribed On-Screen Crew Roll

@@ -1,5 +1,5 @@
-# Credit Roll: Banks. (2000)
-**Canonical Episode:** [`MME00135: Banks.`](../episodes/MME00135.md)
+# Credit Roll: Banks (2000)
+**Canonical Episode:** [`MME00135: Banks`](../episodes/MME00135.md)
 
 **Downloads:** [Credits JSON](json/MME00135-credits.json) • [Credits Plain Text](txt/MME00135-credits.txt)
 

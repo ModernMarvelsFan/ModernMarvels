@@ -1,5 +1,5 @@
-# Credit Roll: Quarries. (2001)
-**Canonical Episode:** [`MME00189: Quarries.`](../episodes/MME00189.md)
+# Credit Roll: Quarries (2001)
+**Canonical Episode:** [`MME00189: Quarries`](../episodes/MME00189.md)
 
 **Downloads:** [Credits JSON](json/MME00189-credits.json) • [Credits Plain Text](txt/MME00189-credits.txt)
 
@@ -7,7 +7,7 @@
 
 ### Copyright & Studio Identification
 * **Copyright Notice:** `© 2001 A&E Television Networks. All Rights Reserved.`
-* **Production Company:** Actuality Productions, Hearst Entertainment, SONG DESIGN, INC. (named inside the 'Animation' credit)
+* **Production Company:** Actuality Productions, Hearst Entertainment, Song Design, Inc. (named inside the 'Animation' credit)
 * **Narrator:** Dawn Irwin
 
 ### Complete Transcribed On-Screen Crew Roll

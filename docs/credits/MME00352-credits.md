@@ -20,7 +20,7 @@
 | **Associate Producer** | Tamara Phillips |
 | **Camera** | Ayman Atef, Tony Flanagan, Eric Santiago |
 | **Clearance Supervisor** | Katie Del Core |
-| **Coordinator** | ROSALYN McVAY |
+| **Coordinator** | Rosalyn McVay |
 | **Created By** | Bruce Nash |
 | **Director Of Research** | Anthony Lacques |
 | **Edited By** | Brian Johnson |
