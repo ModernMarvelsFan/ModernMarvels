@@ -1,5 +1,5 @@
 # Credit Roll: Renewable Energy (2006)
-**Canonical Episode:** [`MME00547: Renewable Energy`](../episodes/MME00547.md)
+**Episode:** [`MME00547: Renewable Energy`](../episodes/MME00547.md)
 
 **Downloads:** [Credits JSON](json/MME00547-credits.json) • [Credits Plain Text](txt/MME00547-credits.txt)
 

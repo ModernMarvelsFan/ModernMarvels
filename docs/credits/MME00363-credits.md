@@ -1,5 +1,5 @@
 # Credit Roll: Oil Fire Fighting (2004)
-**Canonical Episode:** [`MME00363: Oil Fire Fighting`](../episodes/MME00363.md)
+**Episode:** [`MME00363: Oil Fire Fighting`](../episodes/MME00363.md)
 
 **Downloads:** [Credits JSON](json/MME00363-credits.json) • [Credits Plain Text](txt/MME00363-credits.txt)
 

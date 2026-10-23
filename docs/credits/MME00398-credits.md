@@ -1,5 +1,5 @@
 # Credit Roll: Police Pursuit (2004)
-**Canonical Episode:** [`MME00398: Police Pursuit`](../episodes/MME00398.md)
+**Episode:** [`MME00398: Police Pursuit`](../episodes/MME00398.md)
 
 **Downloads:** [Credits JSON](json/MME00398-credits.json) • [Credits Plain Text](txt/MME00398-credits.txt)
 

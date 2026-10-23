@@ -1,5 +1,5 @@
 # Credit Roll: Radar (1997)
-**Canonical Episode:** [`MME00050: Radar`](../episodes/MME00050.md)
+**Episode:** [`MME00050: Radar`](../episodes/MME00050.md)
 
 **Downloads:** [Credits JSON](json/MME00050-credits.json) • [Credits Plain Text](txt/MME00050-credits.txt)
 

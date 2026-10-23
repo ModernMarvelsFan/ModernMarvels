@@ -1,5 +1,5 @@
 # Credit Roll: Yard Tech (2007)
-**Canonical Episode:** [`MME00579: Yard Tech`](../episodes/MME00579.md)
+**Episode:** [`MME00579: Yard Tech`](../episodes/MME00579.md)
 
 **Downloads:** [Credits JSON](json/MME00579-credits.json) • [Credits Plain Text](txt/MME00579-credits.txt)
 

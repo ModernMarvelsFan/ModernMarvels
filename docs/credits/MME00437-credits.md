@@ -1,5 +1,5 @@
 # Credit Roll: More Nature's Engineers (2005)
-**Canonical Episode:** [`MME00437: More Nature's Engineers`](../episodes/MME00437.md)
+**Episode:** [`MME00437: More Nature's Engineers`](../episodes/MME00437.md)
 
 **Downloads:** [Credits JSON](json/MME00437-credits.json) • [Credits Plain Text](txt/MME00437-credits.txt)
 

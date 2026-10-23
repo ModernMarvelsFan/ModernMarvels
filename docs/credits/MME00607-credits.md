@@ -1,5 +1,5 @@
 # Credit Roll: The Pig (2007)
-**Canonical Episode:** [`MME00607: The Pig`](../episodes/MME00607.md)
+**Episode:** [`MME00607: The Pig`](../episodes/MME00607.md)
 
 **Downloads:** [Credits JSON](json/MME00607-credits.json) • [Credits Plain Text](txt/MME00607-credits.txt)
 

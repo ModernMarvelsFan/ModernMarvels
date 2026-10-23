@@ -1,5 +1,5 @@
 # Credit Roll: Chemical And Biological Weapons (2001)
-**Canonical Episode:** [`MME00174: Chemical And Biological Weapons`](../episodes/MME00174.md)
+**Episode:** [`MME00174: Chemical And Biological Weapons`](../episodes/MME00174.md)
 
 **Downloads:** [Credits JSON](json/MME00174-credits.json) • [Credits Plain Text](txt/MME00174-credits.txt)
 

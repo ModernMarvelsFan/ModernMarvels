@@ -1,5 +1,5 @@
 # Credit Roll: Weird Weapons: The Axis (2006)
-**Canonical Episode:** [`MME00510: Weird Weapons: The Axis`](../episodes/MME00510.md)
+**Episode:** [`MME00510: Weird Weapons: The Axis`](../episodes/MME00510.md)
 
 **Downloads:** [Credits JSON](json/MME00510-credits.json) • [Credits Plain Text](txt/MME00510-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Mega Speed Countdown (2012)
-**Canonical Episode:** [`MME00708: Mega Speed Countdown`](../episodes/MME00708.md)
+**Episode:** [`MME00708: Mega Speed Countdown`](../episodes/MME00708.md)
 
 **Downloads:** [Credits JSON](json/MME00708-credits.json) • [Credits Plain Text](txt/MME00708-credits.txt)
 

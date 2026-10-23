@@ -1,5 +1,5 @@
 # Credit Roll: Supersized Food (2010)
-**Canonical Episode:** [`MME00678: Supersized Food`](../episodes/MME00678.md)
+**Episode:** [`MME00678: Supersized Food`](../episodes/MME00678.md)
 
 **Downloads:** [Credits JSON](json/MME00678-credits.json) • [Credits Plain Text](txt/MME00678-credits.txt)
 

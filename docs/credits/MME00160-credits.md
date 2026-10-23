@@ -1,5 +1,5 @@
 # Credit Roll: Commercial Jets (2001)
-**Canonical Episode:** [`MME00160: Commercial Jets`](../episodes/MME00160.md)
+**Episode:** [`MME00160: Commercial Jets`](../episodes/MME00160.md)
 
 **Downloads:** [Credits JSON](json/MME00160-credits.json) • [Credits Plain Text](txt/MME00160-credits.txt)
 

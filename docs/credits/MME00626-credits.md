@@ -1,5 +1,5 @@
 # Credit Roll: Most Dangerous (2008)
-**Canonical Episode:** [`MME00626: Most Dangerous`](../episodes/MME00626.md)
+**Episode:** [`MME00626: Most Dangerous`](../episodes/MME00626.md)
 
 **Downloads:** [Credits JSON](json/MME00626-credits.json) • [Credits Plain Text](txt/MME00626-credits.txt)
 

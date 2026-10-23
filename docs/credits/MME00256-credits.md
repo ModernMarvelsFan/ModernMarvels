@@ -1,5 +1,5 @@
 # Credit Roll: High Tech Sex (2002)
-**Canonical Episode:** [`MME00256: High Tech Sex`](../episodes/MME00256.md)
+**Episode:** [`MME00256: High Tech Sex`](../episodes/MME00256.md)
 
 **Downloads:** [Credits JSON](json/MME00256-credits.json) • [Credits Plain Text](txt/MME00256-credits.txt)
 

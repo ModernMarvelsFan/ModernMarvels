@@ -1,5 +1,5 @@
 # Credit Roll: World's Biggest Machines 5 (2006)
-**Canonical Episode:** [`MME00531: World's Biggest Machines 5`](../episodes/MME00531.md)
+**Episode:** [`MME00531: World's Biggest Machines 5`](../episodes/MME00531.md)
 
 **Downloads:** [Credits JSON](json/MME00531-credits.json) • [Credits Plain Text](txt/MME00531-credits.txt)
 

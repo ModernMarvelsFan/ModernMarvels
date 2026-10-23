@@ -1,5 +1,5 @@
 # Credit Roll: Horsepower (2006)
-**Canonical Episode:** [`MME00546: Horsepower`](../episodes/MME00546.md)
+**Episode:** [`MME00546: Horsepower`](../episodes/MME00546.md)
 
 **Downloads:** [Credits JSON](json/MME00546-credits.json) • [Credits Plain Text](txt/MME00546-credits.txt)
 

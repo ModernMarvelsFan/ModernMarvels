@@ -1,5 +1,5 @@
 # Credit Roll: Cold Cuts (2007)
-**Canonical Episode:** [`MME00610: Cold Cuts`](../episodes/MME00610.md)
+**Episode:** [`MME00610: Cold Cuts`](../episodes/MME00610.md)
 
 **Downloads:** [Credits JSON](json/MME00610-credits.json) • [Credits Plain Text](txt/MME00610-credits.txt)
 

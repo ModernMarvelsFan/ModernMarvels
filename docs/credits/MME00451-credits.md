@@ -1,5 +1,5 @@
 # Credit Roll: Deadliest Weapons (2005)
-**Canonical Episode:** [`MME00451: Deadliest Weapons`](../episodes/MME00451.md)
+**Episode:** [`MME00451: Deadliest Weapons`](../episodes/MME00451.md)
 
 **Downloads:** [Credits JSON](json/MME00451-credits.json) • [Credits Plain Text](txt/MME00451-credits.txt)
 

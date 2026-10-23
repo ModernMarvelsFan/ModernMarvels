@@ -1,5 +1,5 @@
 # Credit Roll: More Ice (2007)
-**Canonical Episode:** [`MME00573: More Ice`](../episodes/MME00573.md)
+**Episode:** [`MME00573: More Ice`](../episodes/MME00573.md)
 
 **Downloads:** [Credits JSON](json/MME00573-credits.json) • [Credits Plain Text](txt/MME00573-credits.txt)
 

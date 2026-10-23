@@ -1,5 +1,5 @@
 # Credit Roll: Battle Ready (2011)
-**Canonical Episode:** [`MME00698: Battle Ready`](../episodes/MME00698.md)
+**Episode:** [`MME00698: Battle Ready`](../episodes/MME00698.md)
 
 **Downloads:** [Credits JSON](json/MME00698-credits.json) • [Credits Plain Text](txt/MME00698-credits.txt)
 

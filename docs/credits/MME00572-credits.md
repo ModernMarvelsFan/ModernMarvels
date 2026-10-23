@@ -1,5 +1,5 @@
 # Credit Roll: Ice (2007)
-**Canonical Episode:** [`MME00572: Ice`](../episodes/MME00572.md)
+**Episode:** [`MME00572: Ice`](../episodes/MME00572.md)
 
 **Downloads:** [Credits JSON](json/MME00572-credits.json) • [Credits Plain Text](txt/MME00572-credits.txt)
 

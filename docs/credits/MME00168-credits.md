@@ -1,5 +1,5 @@
 # Credit Roll: Monster Trucks (2001)
-**Canonical Episode:** [`MME00168: Monster Trucks`](../episodes/MME00168.md)
+**Episode:** [`MME00168: Monster Trucks`](../episodes/MME00168.md)
 
 **Downloads:** [Credits JSON](json/MME00168-credits.json) • [Credits Plain Text](txt/MME00168-credits.txt)
 

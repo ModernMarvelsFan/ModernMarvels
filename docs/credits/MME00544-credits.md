@@ -1,5 +1,5 @@
 # Credit Roll: Shotguns (2006)
-**Canonical Episode:** [`MME00544: Shotguns`](../episodes/MME00544.md)
+**Episode:** [`MME00544: Shotguns`](../episodes/MME00544.md)
 
 **Downloads:** [Credits JSON](json/MME00544-credits.json) • [Credits Plain Text](txt/MME00544-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Hot & Spicy (2010)
-**Canonical Episode:** [`MME00666: Hot & Spicy`](../episodes/MME00666.md)
+**Episode:** [`MME00666: Hot & Spicy`](../episodes/MME00666.md)
 
 **Downloads:** [Credits JSON](json/MME00666-credits.json) • [Credits Plain Text](txt/MME00666-credits.txt)
 

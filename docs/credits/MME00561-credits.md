@@ -1,5 +1,5 @@
 # Credit Roll: Wine (2006)
-**Canonical Episode:** [`MME00561: Wine`](../episodes/MME00561.md)
+**Episode:** [`MME00561: Wine`](../episodes/MME00561.md)
 
 **Downloads:** [Credits JSON](json/MME00561-credits.json) • [Credits Plain Text](txt/MME00561-credits.txt)
 

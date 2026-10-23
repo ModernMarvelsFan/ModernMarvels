@@ -1,5 +1,5 @@
 # Credit Roll: Dredging (2005)
-**Canonical Episode:** [`MME00476: Dredging`](../episodes/MME00476.md)
+**Episode:** [`MME00476: Dredging`](../episodes/MME00476.md)
 
 **Downloads:** [Credits JSON](json/MME00476-credits.json) • [Credits Plain Text](txt/MME00476-credits.txt)
 

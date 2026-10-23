@@ -1,5 +1,5 @@
 # Credit Roll: Mega Machine Countdown (2012)
-**Canonical Episode:** [`MME00709: Mega Machine Countdown`](../episodes/MME00709.md)
+**Episode:** [`MME00709: Mega Machine Countdown`](../episodes/MME00709.md)
 
 **Downloads:** [Credits JSON](json/MME00709-credits.json) • [Credits Plain Text](txt/MME00709-credits.txt)
 

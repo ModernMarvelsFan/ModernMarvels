@@ -1,5 +1,5 @@
 # Credit Roll: Oil (1995)
-**Canonical Episode:** [`MME00022: Oil`](../episodes/MME00022.md)
+**Episode:** [`MME00022: Oil`](../episodes/MME00022.md)
 
 **Downloads:** [Credits JSON](json/MME00022-credits.json) • [Credits Plain Text](txt/MME00022-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Toys (2003)
-**Canonical Episode:** [`MME00354: Toys`](../episodes/MME00354.md)
+**Episode:** [`MME00354: Toys`](../episodes/MME00354.md)
 
 **Downloads:** [Credits JSON](json/MME00354-credits.json) • [Credits Plain Text](txt/MME00354-credits.txt)
 

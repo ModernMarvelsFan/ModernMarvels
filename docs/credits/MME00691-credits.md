@@ -1,5 +1,5 @@
 # Credit Roll: Inside Your Walls (2011)
-**Canonical Episode:** [`MME00691: Inside Your Walls`](../episodes/MME00691.md)
+**Episode:** [`MME00691: Inside Your Walls`](../episodes/MME00691.md)
 
 **Downloads:** [Credits JSON](json/MME00691-credits.json) • [Credits Plain Text](txt/MME00691-credits.txt)
 

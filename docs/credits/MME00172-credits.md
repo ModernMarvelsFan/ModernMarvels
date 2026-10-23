@@ -1,5 +1,5 @@
 # Credit Roll: Computers (2001)
-**Canonical Episode:** [`MME00172: Computers`](../episodes/MME00172.md)
+**Episode:** [`MME00172: Computers`](../episodes/MME00172.md)
 
 **Downloads:** [Credits JSON](json/MME00172-credits.json) • [Credits Plain Text](txt/MME00172-credits.txt)
 

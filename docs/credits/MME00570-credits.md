@@ -1,5 +1,5 @@
 # Credit Roll: Canning (2007)
-**Canonical Episode:** [`MME00570: Canning`](../episodes/MME00570.md)
+**Episode:** [`MME00570: Canning`](../episodes/MME00570.md)
 
 **Downloads:** [Credits JSON](json/MME00570-credits.json) • [Credits Plain Text](txt/MME00570-credits.txt)
 

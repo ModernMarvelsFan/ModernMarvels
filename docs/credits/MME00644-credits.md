@@ -1,5 +1,5 @@
 # Credit Roll: Halloween Tech (2008)
-**Canonical Episode:** [`MME00644: Halloween Tech`](../episodes/MME00644.md)
+**Episode:** [`MME00644: Halloween Tech`](../episodes/MME00644.md)
 
 **Downloads:** [Credits JSON](json/MME00644-credits.json) • [Credits Plain Text](txt/MME00644-credits.txt)
 

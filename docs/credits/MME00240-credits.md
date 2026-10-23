@@ -1,5 +1,5 @@
 # Credit Roll: Strategic Air Command (2002)
-**Canonical Episode:** [`MME00240: Strategic Air Command`](../episodes/MME00240.md)
+**Episode:** [`MME00240: Strategic Air Command`](../episodes/MME00240.md)
 
 **Downloads:** [Credits JSON](json/MME00240-credits.json) • [Credits Plain Text](txt/MME00240-credits.txt)
 

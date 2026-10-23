@@ -1,5 +1,5 @@
 # Credit Roll: Mega Stores (2010)
-**Canonical Episode:** [`MME00677: Mega Stores`](../episodes/MME00677.md)
+**Episode:** [`MME00677: Mega Stores`](../episodes/MME00677.md)
 
 **Downloads:** [Credits JSON](json/MME00677-credits.json) • [Credits Plain Text](txt/MME00677-credits.txt)
 

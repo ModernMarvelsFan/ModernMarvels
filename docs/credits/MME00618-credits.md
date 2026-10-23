@@ -1,5 +1,5 @@
 # Credit Roll: Whiskey (2008)
-**Canonical Episode:** [`MME00618: Whiskey`](../episodes/MME00618.md)
+**Episode:** [`MME00618: Whiskey`](../episodes/MME00618.md)
 
 **Downloads:** [Credits JSON](json/MME00618-credits.json) • [Credits Plain Text](txt/MME00618-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: 70s Tech (2007)
-**Canonical Episode:** [`MME00587: 70s Tech`](../episodes/MME00587.md)
+**Episode:** [`MME00587: 70s Tech`](../episodes/MME00587.md)
 
 **Downloads:** [Credits JSON](json/MME00587-credits.json) • [Credits Plain Text](txt/MME00587-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Secret Life Of The Crash Test Dummy (2002)
-**Canonical Episode:** [`MME00255: Secret Life Of The Crash Test Dummy`](../episodes/MME00255.md)
+**Episode:** [`MME00255: Secret Life Of The Crash Test Dummy`](../episodes/MME00255.md)
 
 **Downloads:** [Credits JSON](json/MME00255-credits.json) • [Credits Plain Text](txt/MME00255-credits.txt)
 

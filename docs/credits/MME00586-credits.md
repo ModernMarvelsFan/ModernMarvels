@@ -1,5 +1,5 @@
 # Credit Roll: Engineering Disasters of the '70s (2007)
-**Canonical Episode:** [`MME00586: Engineering Disasters of the '70s`](../episodes/MME00586.md)
+**Episode:** [`MME00586: Engineering Disasters of the '70s`](../episodes/MME00586.md)
 
 **Downloads:** [Credits JSON](json/MME00586-credits.json) • [Credits Plain Text](txt/MME00586-credits.txt)
 

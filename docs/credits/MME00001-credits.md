@@ -1,5 +1,5 @@
 # Credit Roll: Grand Coulee Dam (1993)
-**Canonical Episode:** [`MME00001: Grand Coulee Dam`](../episodes/MME00001.md)
+**Episode:** [`MME00001: Grand Coulee Dam`](../episodes/MME00001.md)
 
 **Downloads:** [Credits JSON](json/MME00001-credits.json) • [Credits Plain Text](txt/MME00001-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Air Force One: A History (1997)
-**Canonical Episode:** [`MME00038: Air Force One: A History`](../episodes/MME00038.md)
+**Episode:** [`MME00038: Air Force One: A History`](../episodes/MME00038.md)
 
 **Downloads:** [Credits JSON](json/MME00038-credits.json) • [Credits Plain Text](txt/MME00038-credits.txt)
 

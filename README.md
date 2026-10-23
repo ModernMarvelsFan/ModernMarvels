@@ -1,5 +1,9 @@
-# Modern Marvels: Canonical Episode Cross-Reference & Evidence Archive
+# Modern Marvels Episode Reference
 
+> ### 🌐 [**Visit the Live Episode Reference & Directory Website →**](https://modernmarvelsfan.github.io/ModernMarvels/)
+> Explore interactive transcripts, on-screen credit rolls, broadcast variations, and comprehensive cross-references for all 752 episodes.
+
+---
 Welcome to the definitive historical cross-reference and verification archive for the History Channel documentary television series **Modern Marvels** (1993–2021).
 
 ---
@@ -33,7 +37,7 @@ Use the table below to cross-reference any episode across all five major databas
 
 <div class="sticky-table-wrapper">
 
-| ID | Title | TMDB | TheTVDB | IMDb | History.com | History Vault |
+| Episode ID | Title | TMDB | TheTVDB | IMDb | History.com | History Vault |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [**MME00001**](docs/episodes/MME00001.md) | **Grand Coulee Dam** (1993) | <a href="https://www.themoviedb.org/tv/6145-modern-marvels/season/1/episode/1" target="_blank" rel="noopener noreferrer">S01E01</a><br>`1022984`<br>Grand Coulee Dam<br><small>*(Aired: 1993-12-10)*</small> | <a href="https://thetvdb.com/series/modern-marvels/episodes/320422" target="_blank" rel="noopener noreferrer">S01E02</a><br>`320422`<br>Grand Coulee Dam<br><small>*(Aired: 1993-12-10)*</small> | —<br><a href="https://www.imdb.com/title/tt0911927/" target="_blank" rel="noopener noreferrer"><code>tt0911927</code></a><br>Grand Coulee Dam<br><small>*(Aired: 1993-12-10)*</small> | <a href="https://play.history.com/shows/modern-marvels/season-2/episode-5" target="_blank" rel="noopener noreferrer">S02E05</a><br>`10569`<br>Grand Coulee Dam<br><small>*(Aired: 1996-01-27)*</small> | — |
 | [**MME00002**](docs/episodes/MME00002.md) | **The Empire State Building** (1994) | <a href="https://www.themoviedb.org/tv/6145-modern-marvels/season/1/episode/2" target="_blank" rel="noopener noreferrer">S01E02</a><br>`1022985`<br>The Empire State Building<br><small>*(Aired: 1994-01-21)*</small> | <a href="https://thetvdb.com/series/modern-marvels/episodes/320418" target="_blank" rel="noopener noreferrer">S01E04</a><br>`320418`<br>Empire State Building<br><small>*(Aired: 1994-01-21)*</small> | <a href="https://www.imdb.com/title/tt0911925/" target="_blank" rel="noopener noreferrer">S01E02</a><br>`tt0911925`<br>The Empire State Building<br><small>*(Aired: 1994-01-21)*</small> | — | — |
@@ -792,10 +796,18 @@ Use the table below to cross-reference any episode across all five major databas
 
 ---
 
-## 🤝 Community Feedback & Contributions
+## 🤝 Contributing
 
-This archive is designed as a citable public resource to correct discrepancies across community databases. If you hold recordings of episodes currently marked as **Missing Capture**, or have details regarding unlisted broadcast variations:
+Contributions to the **Modern Marvels Episode Reference** are warmly welcomed! Because commercial databases frequently contain conflicting air dates, phantom rerun entries, and merged records, primary source verification from broadcast recordings is essential.
 
-* **Open an Issue**: Use GitHub Issues to suggest corrections, report dead database links, or propose metadata amendments.
-* **Contribute Transcripts**: Submit on-screen credit readings or dialogue transcripts for missing episodes.
-* **Citation Guidelines**: When referencing this archive on Wikipedia, TMDB, or TheTVDB, link directly to the stable `MME#####` episode dossier URL.
+### How You Can Help
+* **Submit Missing Credits or Dialogue**: If you have broadcast captures for episodes marked as *Missing Capture*, help us transcribe opening hooks or credit rolls.
+* **Report Discrepancies**: Notice an incorrect air date, missing production credit, or broken catalog link? Open an issue!
+* **Clarify Broadcast Variations**: Help document alternate cuts, syndication edits, and narration differences.
+
+### How to Submit
+1. **Open an Issue**: Head to [GitHub Issues](https://github.com/ModernMarvelsFan/ModernMarvels/issues) to report bugs, suggest corrections, or discuss discrepancies.
+2. **Submit a Pull Request**:
+   * Fork the repository.
+   * Make your updates or corrections.
+   * Submit a PR explaining the evidence (broadcast recording, on-screen copyright card, or primary source citation).

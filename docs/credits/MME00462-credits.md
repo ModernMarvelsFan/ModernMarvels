@@ -1,5 +1,5 @@
 # Credit Roll: Machines of D-Day (2005)
-**Canonical Episode:** [`MME00462: Machines of D-Day`](../episodes/MME00462.md)
+**Episode:** [`MME00462: Machines of D-Day`](../episodes/MME00462.md)
 
 **Downloads:** [Credits JSON](json/MME00462-credits.json) • [Credits Plain Text](txt/MME00462-credits.txt)
 

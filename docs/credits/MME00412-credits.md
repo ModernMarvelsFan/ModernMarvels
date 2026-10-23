@@ -1,5 +1,5 @@
 # Credit Roll: The World's Longest Bridge (2004)
-**Canonical Episode:** [`MME00412: The World's Longest Bridge`](../episodes/MME00412.md)
+**Episode:** [`MME00412: The World's Longest Bridge`](../episodes/MME00412.md)
 
 **Downloads:** [Credits JSON](json/MME00412-credits.json) • [Credits Plain Text](txt/MME00412-credits.txt)
 

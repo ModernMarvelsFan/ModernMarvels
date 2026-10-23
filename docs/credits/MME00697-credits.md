@@ -1,5 +1,5 @@
 # Credit Roll: More Candy (2011)
-**Canonical Episode:** [`MME00697: More Candy`](../episodes/MME00697.md)
+**Episode:** [`MME00697: More Candy`](../episodes/MME00697.md)
 
 **Downloads:** [Credits JSON](json/MME00697-credits.json) • [Credits Plain Text](txt/MME00697-credits.txt)
 

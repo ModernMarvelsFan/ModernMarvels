@@ -1,5 +1,5 @@
 # Credit Roll: Mold & Fungus (2008)
-**Canonical Episode:** [`MME00640: Mold & Fungus`](../episodes/MME00640.md)
+**Episode:** [`MME00640: Mold & Fungus`](../episodes/MME00640.md)
 
 **Downloads:** [Credits JSON](json/MME00640-credits.json) • [Credits Plain Text](txt/MME00640-credits.txt)
 

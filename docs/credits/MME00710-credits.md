@@ -1,5 +1,5 @@
 # Credit Roll: Mega Weapon Countdown (2012)
-**Canonical Episode:** [`MME00710: Mega Weapon Countdown`](../episodes/MME00710.md)
+**Episode:** [`MME00710: Mega Weapon Countdown`](../episodes/MME00710.md)
 
 **Downloads:** [Credits JSON](json/MME00710-credits.json) • [Credits Plain Text](txt/MME00710-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Dams (2007)
-**Canonical Episode:** [`MME00578: Dams`](../episodes/MME00578.md)
+**Episode:** [`MME00578: Dams`](../episodes/MME00578.md)
 
 **Downloads:** [Credits JSON](json/MME00578-credits.json) • [Credits Plain Text](txt/MME00578-credits.txt)
 

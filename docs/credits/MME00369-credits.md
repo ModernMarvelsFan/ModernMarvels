@@ -1,5 +1,5 @@
 # Credit Roll: Bathroom Tech (2004)
-**Canonical Episode:** [`MME00369: Bathroom Tech`](../episodes/MME00369.md)
+**Episode:** [`MME00369: Bathroom Tech`](../episodes/MME00369.md)
 
 **Downloads:** [Credits JSON](json/MME00369-credits.json) • [Credits Plain Text](txt/MME00369-credits.txt)
 

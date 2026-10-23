@@ -1,5 +1,5 @@
 # Credit Roll: Terror Tech: Military (2003)
-**Canonical Episode:** [`MME00311: Terror Tech: Military`](../episodes/MME00311.md)
+**Episode:** [`MME00311: Terror Tech: Military`](../episodes/MME00311.md)
 
 **Downloads:** [Credits JSON](json/MME00311-credits.json) • [Credits Plain Text](txt/MME00311-credits.txt)
 

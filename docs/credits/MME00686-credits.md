@@ -1,5 +1,5 @@
 # Credit Roll: Rice (2010)
-**Canonical Episode:** [`MME00686: Rice`](../episodes/MME00686.md)
+**Episode:** [`MME00686: Rice`](../episodes/MME00686.md)
 
 **Downloads:** [Credits JSON](json/MME00686-credits.json) • [Credits Plain Text](txt/MME00686-credits.txt)
 

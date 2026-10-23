@@ -1,5 +1,5 @@
 # Credit Roll: Secrets of Oil (2008)
-**Canonical Episode:** [`MME00636: Secrets of Oil`](../episodes/MME00636.md)
+**Episode:** [`MME00636: Secrets of Oil`](../episodes/MME00636.md)
 
 **Downloads:** [Credits JSON](json/MME00636-credits.json) • [Credits Plain Text](txt/MME00636-credits.txt)
 

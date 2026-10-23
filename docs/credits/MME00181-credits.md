@@ -1,5 +1,5 @@
 # Credit Roll: Hardware Stores (2001)
-**Canonical Episode:** [`MME00181: Hardware Stores`](../episodes/MME00181.md)
+**Episode:** [`MME00181: Hardware Stores`](../episodes/MME00181.md)
 
 **Downloads:** [Credits JSON](json/MME00181-credits.json) • [Credits Plain Text](txt/MME00181-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Strangest Countdown (2013)
-**Canonical Episode:** [`MME00715: Strangest Countdown`](../episodes/MME00715.md)
+**Episode:** [`MME00715: Strangest Countdown`](../episodes/MME00715.md)
 
 **Downloads:** [Credits JSON](json/MME00715-credits.json) • [Credits Plain Text](txt/MME00715-credits.txt)
 

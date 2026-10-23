@@ -1,5 +1,5 @@
 # Credit Roll: Mad Electricity (2008)
-**Canonical Episode:** [`MME00624: Mad Electricity`](../episodes/MME00624.md)
+**Episode:** [`MME00624: Mad Electricity`](../episodes/MME00624.md)
 
 **Downloads:** [Credits JSON](json/MME00624-credits.json) • [Credits Plain Text](txt/MME00624-credits.txt)
 

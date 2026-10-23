@@ -1,5 +1,5 @@
 # Credit Roll: Salt Mines (2002)
-**Canonical Episode:** [`MME00263: Salt Mines`](../episodes/MME00263.md)
+**Episode:** [`MME00263: Salt Mines`](../episodes/MME00263.md)
 
 **Downloads:** [Credits JSON](json/MME00263-credits.json) • [Credits Plain Text](txt/MME00263-credits.txt)
 

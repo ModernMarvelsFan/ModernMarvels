@@ -1,5 +1,5 @@
 # Credit Roll: Presidential Movers (2004)
-**Canonical Episode:** [`MME00409: Presidential Movers`](../episodes/MME00409.md)
+**Episode:** [`MME00409: Presidential Movers`](../episodes/MME00409.md)
 
 **Downloads:** [Credits JSON](json/MME00409-credits.json) • [Credits Plain Text](txt/MME00409-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Water (2006)
-**Canonical Episode:** [`MME00541: Water`](../episodes/MME00541.md)
+**Episode:** [`MME00541: Water`](../episodes/MME00541.md)
 
 **Downloads:** [Credits JSON](json/MME00541-credits.json) • [Credits Plain Text](txt/MME00541-credits.txt)
 

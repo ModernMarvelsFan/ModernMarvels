@@ -1,5 +1,5 @@
 # Credit Roll: Security Systems (1999)
-**Canonical Episode:** [`MME00111: Security Systems`](../episodes/MME00111.md)
+**Episode:** [`MME00111: Security Systems`](../episodes/MME00111.md)
 
 **Downloads:** [Credits JSON](json/MME00111-credits.json) • [Credits Plain Text](txt/MME00111-credits.txt)
 

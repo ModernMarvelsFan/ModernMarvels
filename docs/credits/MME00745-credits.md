@@ -1,5 +1,5 @@
 # Credit Roll: Tech Treasures (2022)
-**Canonical Episode:** [`MME00745: Tech Treasures`](../episodes/MME00745.md)
+**Episode:** [`MME00745: Tech Treasures`](../episodes/MME00745.md)
 
 **Downloads:** [Credits JSON](json/MME00745-credits.json) • [Credits Plain Text](txt/MME00745-credits.txt)
 

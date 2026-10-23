@@ -1,5 +1,5 @@
 # Credit Roll: Apollo 13 (2001)
-**Canonical Episode:** [`MME00161: Apollo 13`](../episodes/MME00161.md)
+**Episode:** [`MME00161: Apollo 13`](../episodes/MME00161.md)
 
 **Downloads:** [Credits JSON](json/MME00161-credits.json) • [Credits Plain Text](txt/MME00161-credits.txt)
 

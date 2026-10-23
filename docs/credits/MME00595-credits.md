@@ -1,5 +1,5 @@
 # Credit Roll: Bedroom Tech (2007)
-**Canonical Episode:** [`MME00595: Bedroom Tech`](../episodes/MME00595.md)
+**Episode:** [`MME00595: Bedroom Tech`](../episodes/MME00595.md)
 
 **Downloads:** [Credits JSON](json/MME00595-credits.json) • [Credits Plain Text](txt/MME00595-credits.txt)
 

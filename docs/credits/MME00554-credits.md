@@ -1,5 +1,5 @@
 # Credit Roll: Ink (2006)
-**Canonical Episode:** [`MME00554: Ink`](../episodes/MME00554.md)
+**Episode:** [`MME00554: Ink`](../episodes/MME00554.md)
 
 **Downloads:** [Credits JSON](json/MME00554-credits.json) • [Credits Plain Text](txt/MME00554-credits.txt)
 

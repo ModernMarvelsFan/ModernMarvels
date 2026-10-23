@@ -1,5 +1,5 @@
 # Credit Roll: Car Wash (2008)
-**Canonical Episode:** [`MME00648: Car Wash`](../episodes/MME00648.md)
+**Episode:** [`MME00648: Car Wash`](../episodes/MME00648.md)
 
 **Downloads:** [Credits JSON](json/MME00648-credits.json) • [Credits Plain Text](txt/MME00648-credits.txt)
 

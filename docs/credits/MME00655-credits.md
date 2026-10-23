@@ -1,5 +1,5 @@
 # Credit Roll: Library of Congress (2009)
-**Canonical Episode:** [`MME00655: Library of Congress`](../episodes/MME00655.md)
+**Episode:** [`MME00655: Library of Congress`](../episodes/MME00655.md)
 
 **Downloads:** [Credits JSON](json/MME00655-credits.json) • [Credits Plain Text](txt/MME00655-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Million Dollar Tech (2002)
-**Canonical Episode:** [`MME00214: Million Dollar Tech`](../episodes/MME00214.md)
+**Episode:** [`MME00214: Million Dollar Tech`](../episodes/MME00214.md)
 
 **Downloads:** [Credits JSON](json/MME00214-credits.json) • [Credits Plain Text](txt/MME00214-credits.txt)
 

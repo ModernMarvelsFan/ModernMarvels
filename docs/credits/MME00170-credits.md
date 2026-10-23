@@ -1,5 +1,5 @@
 # Credit Roll: Lighthouses (2001)
-**Canonical Episode:** [`MME00170: Lighthouses`](../episodes/MME00170.md)
+**Episode:** [`MME00170: Lighthouses`](../episodes/MME00170.md)
 
 **Downloads:** [Credits JSON](json/MME00170-credits.json) • [Credits Plain Text](txt/MME00170-credits.txt)
 

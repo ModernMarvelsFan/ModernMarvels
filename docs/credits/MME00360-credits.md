@@ -1,5 +1,5 @@
 # Credit Roll: Gangster Guns (2004)
-**Canonical Episode:** [`MME00360: Gangster Guns`](../episodes/MME00360.md)
+**Episode:** [`MME00360: Gangster Guns`](../episodes/MME00360.md)
 
 **Downloads:** [Credits JSON](json/MME00360-credits.json) • [Credits Plain Text](txt/MME00360-credits.txt)
 

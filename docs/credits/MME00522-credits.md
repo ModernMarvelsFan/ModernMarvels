@@ -1,5 +1,5 @@
 # Credit Roll: Ben Franklin Tech (2006)
-**Canonical Episode:** [`MME00522: Ben Franklin Tech`](../episodes/MME00522.md)
+**Episode:** [`MME00522: Ben Franklin Tech`](../episodes/MME00522.md)
 
 **Downloads:** [Credits JSON](json/MME00522-credits.json) • [Credits Plain Text](txt/MME00522-credits.txt)
 

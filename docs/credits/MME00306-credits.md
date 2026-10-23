@@ -1,5 +1,5 @@
 # Credit Roll: Breaking the Sound Barrier (2003)
-**Canonical Episode:** [`MME00306: Breaking the Sound Barrier`](../episodes/MME00306.md)
+**Episode:** [`MME00306: Breaking the Sound Barrier`](../episodes/MME00306.md)
 
 **Downloads:** [Credits JSON](json/MME00306-credits.json) • [Credits Plain Text](txt/MME00306-credits.txt)
 

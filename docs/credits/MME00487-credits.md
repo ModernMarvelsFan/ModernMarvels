@@ -1,5 +1,5 @@
 # Credit Roll: Sugar (2005)
-**Canonical Episode:** [`MME00487: Sugar`](../episodes/MME00487.md)
+**Episode:** [`MME00487: Sugar`](../episodes/MME00487.md)
 
 **Downloads:** [Credits JSON](json/MME00487-credits.json) • [Credits Plain Text](txt/MME00487-credits.txt)
 

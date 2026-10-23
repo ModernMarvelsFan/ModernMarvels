@@ -1,5 +1,5 @@
 # Credit Roll: Lead (2008)
-**Canonical Episode:** [`MME00628: Lead`](../episodes/MME00628.md)
+**Episode:** [`MME00628: Lead`](../episodes/MME00628.md)
 
 **Downloads:** [Credits JSON](json/MME00628-credits.json) • [Credits Plain Text](txt/MME00628-credits.txt)
 

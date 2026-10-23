@@ -1,5 +1,5 @@
 # Credit Roll: Household Wonders (1997)
-**Canonical Episode:** [`MME00049: Household Wonders`](../episodes/MME00049.md)
+**Episode:** [`MME00049: Household Wonders`](../episodes/MME00049.md)
 
 **Downloads:** [Credits JSON](json/MME00049-credits.json) • [Credits Plain Text](txt/MME00049-credits.txt)
 

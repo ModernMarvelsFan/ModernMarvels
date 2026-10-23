@@ -1,5 +1,5 @@
 # Credit Roll: Building a Skyscraper: The Exterior (2004)
-**Canonical Episode:** [`MME00391: Building a Skyscraper: The Exterior`](../episodes/MME00391.md)
+**Episode:** [`MME00391: Building a Skyscraper: The Exterior`](../episodes/MME00391.md)
 
 **Downloads:** [Credits JSON](json/MME00391-credits.json) • [Credits Plain Text](txt/MME00391-credits.txt)
 

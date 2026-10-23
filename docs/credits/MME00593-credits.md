@@ -1,5 +1,5 @@
 # Credit Roll: Sticky Stuff (2007)
-**Canonical Episode:** [`MME00593: Sticky Stuff`](../episodes/MME00593.md)
+**Episode:** [`MME00593: Sticky Stuff`](../episodes/MME00593.md)
 
 **Downloads:** [Credits JSON](json/MME00593-credits.json) • [Credits Plain Text](txt/MME00593-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: The Phonograph (1997)
-**Canonical Episode:** [`MME00047: The Phonograph`](../episodes/MME00047.md)
+**Episode:** [`MME00047: The Phonograph`](../episodes/MME00047.md)
 
 **Downloads:** [Credits JSON](json/MME00047-credits.json) • [Credits Plain Text](txt/MME00047-credits.txt)
 

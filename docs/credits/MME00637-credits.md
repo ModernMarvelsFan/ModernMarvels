@@ -1,5 +1,5 @@
 # Credit Roll: Iron (2008)
-**Canonical Episode:** [`MME00637: Iron`](../episodes/MME00637.md)
+**Episode:** [`MME00637: Iron`](../episodes/MME00637.md)
 
 **Downloads:** [Credits JSON](json/MME00637-credits.json) • [Credits Plain Text](txt/MME00637-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Future Tech (2005)
-**Canonical Episode:** [`MME00466: Future Tech`](../episodes/MME00466.md)
+**Episode:** [`MME00466: Future Tech`](../episodes/MME00466.md)
 
 **Downloads:** [Credits JSON](json/MME00466-credits.json) • [Credits Plain Text](txt/MME00466-credits.txt)
 

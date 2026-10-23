@@ -1,5 +1,5 @@
 # Credit Roll: Distilleries (2004)
-**Canonical Episode:** [`MME00385: Distilleries`](../episodes/MME00385.md)
+**Episode:** [`MME00385: Distilleries`](../episodes/MME00385.md)
 
 **Downloads:** [Credits JSON](json/MME00385-credits.json) • [Credits Plain Text](txt/MME00385-credits.txt)
 

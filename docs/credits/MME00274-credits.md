@@ -1,5 +1,5 @@
 # Credit Roll: The Alcan Highway (2003)
-**Canonical Episode:** [`MME00274: The Alcan Highway`](../episodes/MME00274.md)
+**Episode:** [`MME00274: The Alcan Highway`](../episodes/MME00274.md)
 
 **Downloads:** [Credits JSON](json/MME00274-credits.json) • [Credits Plain Text](txt/MME00274-credits.txt)
 

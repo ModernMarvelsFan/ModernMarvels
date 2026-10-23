@@ -1,5 +1,5 @@
 # Credit Roll: Copper (2006)
-**Canonical Episode:** [`MME00543: Copper`](../episodes/MME00543.md)
+**Episode:** [`MME00543: Copper`](../episodes/MME00543.md)
 
 **Downloads:** [Credits JSON](json/MME00543-credits.json) • [Credits Plain Text](txt/MME00543-credits.txt)
 

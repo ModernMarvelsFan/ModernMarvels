@@ -1,5 +1,5 @@
 # Credit Roll: Keep Out (2010)
-**Canonical Episode:** [`MME00671: Keep Out`](../episodes/MME00671.md)
+**Episode:** [`MME00671: Keep Out`](../episodes/MME00671.md)
 
 **Downloads:** [Credits JSON](json/MME00671-credits.json) • [Credits Plain Text](txt/MME00671-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Super Ships (2010)
-**Canonical Episode:** [`MME00669: Super Ships`](../episodes/MME00669.md)
+**Episode:** [`MME00669: Super Ships`](../episodes/MME00669.md)
 
 **Downloads:** [Credits JSON](json/MME00669-credits.json) • [Credits Plain Text](txt/MME00669-credits.txt)
 

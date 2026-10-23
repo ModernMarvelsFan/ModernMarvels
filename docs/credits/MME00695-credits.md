@@ -1,5 +1,5 @@
 # Credit Roll: Food Trucks (2011)
-**Canonical Episode:** [`MME00695: Food Trucks`](../episodes/MME00695.md)
+**Episode:** [`MME00695: Food Trucks`](../episodes/MME00695.md)
 
 **Downloads:** [Credits JSON](json/MME00695-credits.json) • [Credits Plain Text](txt/MME00695-credits.txt)
 

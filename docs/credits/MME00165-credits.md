@@ -1,5 +1,5 @@
 # Credit Roll: Construction Machines (2001)
-**Canonical Episode:** [`MME00165: Construction Machines`](../episodes/MME00165.md)
+**Episode:** [`MME00165: Construction Machines`](../episodes/MME00165.md)
 
 **Downloads:** [Credits JSON](json/MME00165-credits.json) • [Credits Plain Text](txt/MME00165-credits.txt)
 

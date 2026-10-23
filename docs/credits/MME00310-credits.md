@@ -1,5 +1,5 @@
 # Credit Roll: Loading Docks (2003)
-**Canonical Episode:** [`MME00310: Loading Docks`](../episodes/MME00310.md)
+**Episode:** [`MME00310: Loading Docks`](../episodes/MME00310.md)
 
 **Downloads:** [Credits JSON](json/MME00310-credits.json) • [Credits Plain Text](txt/MME00310-credits.txt)
 

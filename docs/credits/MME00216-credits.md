@@ -1,5 +1,5 @@
 # Credit Roll: Bulletproof (2002)
-**Canonical Episode:** [`MME00216: Bulletproof`](../episodes/MME00216.md)
+**Episode:** [`MME00216: Bulletproof`](../episodes/MME00216.md)
 
 **Downloads:** [Credits JSON](json/MME00216-credits.json) • [Credits Plain Text](txt/MME00216-credits.txt)
 

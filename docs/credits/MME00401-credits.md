@@ -1,5 +1,5 @@
 # Credit Roll: More of the World's Biggest Machines (2004)
-**Canonical Episode:** [`MME00401: More of the World's Biggest Machines`](../episodes/MME00401.md)
+**Episode:** [`MME00401: More of the World's Biggest Machines`](../episodes/MME00401.md)
 
 **Downloads:** [Credits JSON](json/MME00401-credits.json) • [Credits Plain Text](txt/MME00401-credits.txt)
 

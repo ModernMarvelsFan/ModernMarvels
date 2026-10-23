@@ -1,5 +1,5 @@
 # Credit Roll: Carbon (2008)
-**Canonical Episode:** [`MME00613: Carbon`](../episodes/MME00613.md)
+**Episode:** [`MME00613: Carbon`](../episodes/MME00613.md)
 
 **Downloads:** [Credits JSON](json/MME00613-credits.json) • [Credits Plain Text](txt/MME00613-credits.txt)
 

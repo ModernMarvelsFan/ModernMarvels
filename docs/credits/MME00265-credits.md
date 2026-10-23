@@ -1,5 +1,5 @@
 # Credit Roll: Motorcycles (2002)
-**Canonical Episode:** [`MME00265: Motorcycles`](../episodes/MME00265.md)
+**Episode:** [`MME00265: Motorcycles`](../episodes/MME00265.md)
 
 **Downloads:** [Credits JSON](json/MME00265-credits.json) • [Credits Plain Text](txt/MME00265-credits.txt)
 

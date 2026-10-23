@@ -1,5 +1,5 @@
 # Credit Roll: History of Tall Buildings (1998)
-**Canonical Episode:** [`MME00063: History of Tall Buildings`](../episodes/MME00063.md)
+**Episode:** [`MME00063: History of Tall Buildings`](../episodes/MME00063.md)
 
 **Downloads:** [Credits JSON](json/MME00063-credits.json) • [Credits Plain Text](txt/MME00063-credits.txt)
 

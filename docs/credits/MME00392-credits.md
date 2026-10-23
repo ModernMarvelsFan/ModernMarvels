@@ -1,5 +1,5 @@
 # Credit Roll: Building a Skyscraper: The Skeleton (2004)
-**Canonical Episode:** [`MME00392: Building a Skyscraper: The Skeleton`](../episodes/MME00392.md)
+**Episode:** [`MME00392: Building a Skyscraper: The Skeleton`](../episodes/MME00392.md)
 
 **Downloads:** [Credits JSON](json/MME00392-credits.json) • [Credits Plain Text](txt/MME00392-credits.txt)
 

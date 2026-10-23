@@ -1,5 +1,5 @@
 # Credit Roll: Forensic Science: The Crime Fighter's Weapon (1997)
-**Canonical Episode:** [`MME00051: Forensic Science: The Crime Fighter's Weapon`](../episodes/MME00051.md)
+**Episode:** [`MME00051: Forensic Science: The Crime Fighter's Weapon`](../episodes/MME00051.md)
 
 **Downloads:** [Credits JSON](json/MME00051-credits.json) • [Credits Plain Text](txt/MME00051-credits.txt)
 

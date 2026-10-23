@@ -1,5 +1,5 @@
 # Credit Roll: U.S. Guns of World War II (2003)
-**Canonical Episode:** [`MME00289: U.S. Guns of World War II`](../episodes/MME00289.md)
+**Episode:** [`MME00289: U.S. Guns of World War II`](../episodes/MME00289.md)
 
 **Downloads:** [Credits JSON](json/MME00289-credits.json) • [Credits Plain Text](txt/MME00289-credits.txt)
 

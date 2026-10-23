@@ -1,5 +1,5 @@
 # Credit Roll: Booby Traps (2003)
-**Canonical Episode:** [`MME00273: Booby Traps`](../episodes/MME00273.md)
+**Episode:** [`MME00273: Booby Traps`](../episodes/MME00273.md)
 
 **Downloads:** [Credits JSON](json/MME00273-credits.json) • [Credits Plain Text](txt/MME00273-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: George Washington Carver Tech (2005)
-**Canonical Episode:** [`MME00442: George Washington Carver Tech`](../episodes/MME00442.md)
+**Episode:** [`MME00442: George Washington Carver Tech`](../episodes/MME00442.md)
 
 **Downloads:** [Credits JSON](json/MME00442-credits.json) • [Credits Plain Text](txt/MME00442-credits.txt)
 

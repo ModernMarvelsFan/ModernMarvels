@@ -1,5 +1,5 @@
 # Credit Roll: Gas Tech (2004)
-**Canonical Episode:** [`MME00410: Gas Tech`](../episodes/MME00410.md)
+**Episode:** [`MME00410: Gas Tech`](../episodes/MME00410.md)
 
 **Downloads:** [Credits JSON](json/MME00410-credits.json) • [Credits Plain Text](txt/MME00410-credits.txt)
 

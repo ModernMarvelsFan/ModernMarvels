@@ -1,5 +1,5 @@
 # Credit Roll: The St. Louis Arch (2001)
-**Canonical Episode:** [`MME00202: The St. Louis Arch`](../episodes/MME00202.md)
+**Episode:** [`MME00202: The St. Louis Arch`](../episodes/MME00202.md)
 
 **Downloads:** [Credits JSON](json/MME00202-credits.json) • [Credits Plain Text](txt/MME00202-credits.txt)
 

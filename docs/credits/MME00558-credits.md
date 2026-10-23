@@ -1,5 +1,5 @@
 # Credit Roll: Tobacco (2006)
-**Canonical Episode:** [`MME00558: Tobacco`](../episodes/MME00558.md)
+**Episode:** [`MME00558: Tobacco`](../episodes/MME00558.md)
 
 **Downloads:** [Credits JSON](json/MME00558-credits.json) • [Credits Plain Text](txt/MME00558-credits.txt)
 

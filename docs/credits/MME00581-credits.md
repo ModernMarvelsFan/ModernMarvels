@@ -1,5 +1,5 @@
 # Credit Roll: Deep Sea Salvage (2007)
-**Canonical Episode:** [`MME00581: Deep Sea Salvage`](../episodes/MME00581.md)
+**Episode:** [`MME00581: Deep Sea Salvage`](../episodes/MME00581.md)
 
 **Downloads:** [Credits JSON](json/MME00581-credits.json) • [Credits Plain Text](txt/MME00581-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Machu Picchu (2003)
-**Canonical Episode:** [`MME00324: Machu Picchu`](../episodes/MME00324.md)
+**Episode:** [`MME00324: Machu Picchu`](../episodes/MME00324.md)
 
 **Downloads:** [Credits JSON](json/MME00324-credits.json) • [Credits Plain Text](txt/MME00324-credits.txt)
 

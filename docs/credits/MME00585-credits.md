@@ -1,5 +1,5 @@
 # Credit Roll: World's Strongest II (2007)
-**Canonical Episode:** [`MME00585: World's Strongest II`](../episodes/MME00585.md)
+**Episode:** [`MME00585: World's Strongest II`](../episodes/MME00585.md)
 
 **Downloads:** [Credits JSON](json/MME00585-credits.json) • [Credits Plain Text](txt/MME00585-credits.txt)
 

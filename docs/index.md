@@ -1,4 +1,4 @@
-# Modern Marvels: Canonical Episode Cross-Reference & Evidence Archive
+# Modern Marvels: Episode Reference & Evidence Archive
 
 Welcome to the definitive historical cross-reference and verification archive for the History Channel documentary television series **Modern Marvels** (1993–2021).
 
@@ -33,7 +33,7 @@ Use the table below to cross-reference any episode across all five major databas
 
 <div class="sticky-table-wrapper" markdown="1">
 
-| ID | Title | TMDB | TheTVDB | IMDb | History.com | History Vault |
+| Episode ID | Title | TMDB | TheTVDB | IMDb | History.com | History Vault |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [**MME00001**](episodes/MME00001.md) | **Grand Coulee Dam** (1993) | <a href="https://www.themoviedb.org/tv/6145-modern-marvels/season/1/episode/1" target="_blank" rel="noopener noreferrer">S01E01</a><br>`1022984`<br>Grand Coulee Dam<br><small>*(Aired: 1993-12-10)*</small> | <a href="https://thetvdb.com/series/modern-marvels/episodes/320422" target="_blank" rel="noopener noreferrer">S01E02</a><br>`320422`<br>Grand Coulee Dam<br><small>*(Aired: 1993-12-10)*</small> | —<br><a href="https://www.imdb.com/title/tt0911927/" target="_blank" rel="noopener noreferrer"><code>tt0911927</code></a><br>Grand Coulee Dam<br><small>*(Aired: 1993-12-10)*</small> | <a href="https://play.history.com/shows/modern-marvels/season-2/episode-5" target="_blank" rel="noopener noreferrer">S02E05</a><br>`10569`<br>Grand Coulee Dam<br><small>*(Aired: 1996-01-27)*</small> | — |
 | [**MME00002**](episodes/MME00002.md) | **The Empire State Building** (1994) | <a href="https://www.themoviedb.org/tv/6145-modern-marvels/season/1/episode/2" target="_blank" rel="noopener noreferrer">S01E02</a><br>`1022985`<br>The Empire State Building<br><small>*(Aired: 1994-01-21)*</small> | <a href="https://thetvdb.com/series/modern-marvels/episodes/320418" target="_blank" rel="noopener noreferrer">S01E04</a><br>`320418`<br>Empire State Building<br><small>*(Aired: 1994-01-21)*</small> | <a href="https://www.imdb.com/title/tt0911925/" target="_blank" rel="noopener noreferrer">S01E02</a><br>`tt0911925`<br>The Empire State Building<br><small>*(Aired: 1994-01-21)*</small> | — | — |

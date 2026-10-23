@@ -1,5 +1,5 @@
 # Credit Roll: Engineering Disasters 3 (2001)
-**Canonical Episode:** [`MME00173: Engineering Disasters 3`](../episodes/MME00173.md)
+**Episode:** [`MME00173: Engineering Disasters 3`](../episodes/MME00173.md)
 
 **Downloads:** [Credits JSON](json/MME00173-credits.json) • [Credits Plain Text](txt/MME00173-credits.txt)
 

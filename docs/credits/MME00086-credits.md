@@ -1,5 +1,5 @@
 # Credit Roll: Map Making (1999)
-**Canonical Episode:** [`MME00086: Map Making`](../episodes/MME00086.md)
+**Episode:** [`MME00086: Map Making`](../episodes/MME00086.md)
 
 **Downloads:** [Credits JSON](json/MME00086-credits.json) • [Credits Plain Text](txt/MME00086-credits.txt)
 

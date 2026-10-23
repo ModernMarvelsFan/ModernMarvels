@@ -1,5 +1,5 @@
 # Credit Roll: Moving America (2021)
-**Canonical Episode:** [`MME00729: Moving America`](../episodes/MME00729.md)
+**Episode:** [`MME00729: Moving America`](../episodes/MME00729.md)
 
 **Downloads:** [Credits JSON](json/MME00729-credits.json) • [Credits Plain Text](txt/MME00729-credits.txt)
 

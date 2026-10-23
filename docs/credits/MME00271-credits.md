@@ -1,5 +1,5 @@
 # Credit Roll: Ice Road Truckers (2003)
-**Canonical Episode:** [`MME00271: Ice Road Truckers`](../episodes/MME00271.md)
+**Episode:** [`MME00271: Ice Road Truckers`](../episodes/MME00271.md)
 
 **Downloads:** [Credits JSON](json/MME00271-credits.json) • [Credits Plain Text](txt/MME00271-credits.txt)
 

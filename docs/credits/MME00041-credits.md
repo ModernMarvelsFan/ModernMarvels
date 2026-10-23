@@ -1,5 +1,5 @@
 # Credit Roll: Roller Coasters (1997)
-**Canonical Episode:** [`MME00041: Roller Coasters`](../episodes/MME00041.md)
+**Episode:** [`MME00041: Roller Coasters`](../episodes/MME00041.md)
 
 **Downloads:** [Credits JSON](json/MME00041-credits.json) • [Credits Plain Text](txt/MME00041-credits.txt)
 

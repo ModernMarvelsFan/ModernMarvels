@@ -1,5 +1,5 @@
 # Credit Roll: Observatories: Stonehenge to Space Telescopes (1997)
-**Canonical Episode:** [`MME00042: Observatories: Stonehenge to Space Telescopes`](../episodes/MME00042.md)
+**Episode:** [`MME00042: Observatories: Stonehenge to Space Telescopes`](../episodes/MME00042.md)
 
 **Downloads:** [Credits JSON](json/MME00042-credits.json) • [Credits Plain Text](txt/MME00042-credits.txt)
 

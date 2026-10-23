@@ -1,5 +1,5 @@
 # Credit Roll: Army Corps of Engineers (2003)
-**Canonical Episode:** [`MME00280: Army Corps of Engineers`](../episodes/MME00280.md)
+**Episode:** [`MME00280: Army Corps of Engineers`](../episodes/MME00280.md)
 
 **Downloads:** [Credits JSON](json/MME00280-credits.json) • [Credits Plain Text](txt/MME00280-credits.txt)
 

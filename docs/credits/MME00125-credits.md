@@ -1,5 +1,5 @@
 # Credit Roll: Police Technology (2000)
-**Canonical Episode:** [`MME00125: Police Technology`](../episodes/MME00125.md)
+**Episode:** [`MME00125: Police Technology`](../episodes/MME00125.md)
 
 **Downloads:** [Credits JSON](json/MME00125-credits.json) • [Credits Plain Text](txt/MME00125-credits.txt)
 

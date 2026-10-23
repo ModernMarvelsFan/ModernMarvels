@@ -1,5 +1,5 @@
 # Credit Roll: Dangerous Drives (2022)
-**Canonical Episode:** [`MME00739: Dangerous Drives`](../episodes/MME00739.md)
+**Episode:** [`MME00739: Dangerous Drives`](../episodes/MME00739.md)
 
 **Downloads:** [Credits JSON](json/MME00739-credits.json) • [Credits Plain Text](txt/MME00739-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Spy Technology (1999)
-**Canonical Episode:** [`MME00088: Spy Technology`](../episodes/MME00088.md)
+**Episode:** [`MME00088: Spy Technology`](../episodes/MME00088.md)
 
 **Downloads:** [Credits JSON](json/MME00088-credits.json) • [Credits Plain Text](txt/MME00088-credits.txt)
 

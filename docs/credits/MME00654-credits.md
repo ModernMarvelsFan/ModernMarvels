@@ -1,5 +1,5 @@
 # Credit Roll: Mega Meals (2009)
-**Canonical Episode:** [`MME00654: Mega Meals`](../episodes/MME00654.md)
+**Episode:** [`MME00654: Mega Meals`](../episodes/MME00654.md)
 
 **Downloads:** [Credits JSON](json/MME00654-credits.json) • [Credits Plain Text](txt/MME00654-credits.txt)
 

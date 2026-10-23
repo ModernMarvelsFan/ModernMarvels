@@ -1,5 +1,5 @@
 # Credit Roll: Firefighting! Containing the Demon (1998)
-**Canonical Episode:** [`MME00074: Firefighting! Containing the Demon`](../episodes/MME00074.md)
+**Episode:** [`MME00074: Firefighting! Containing the Demon`](../episodes/MME00074.md)
 
 **Downloads:** [Credits JSON](json/MME00074-credits.json) • [Credits Plain Text](txt/MME00074-credits.txt)
 

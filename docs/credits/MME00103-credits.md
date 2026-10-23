@@ -1,5 +1,5 @@
 # Credit Roll: Fireworks (1999)
-**Canonical Episode:** [`MME00103: Fireworks`](../episodes/MME00103.md)
+**Episode:** [`MME00103: Fireworks`](../episodes/MME00103.md)
 
 **Downloads:** [Credits JSON](json/MME00103-credits.json) • [Credits Plain Text](txt/MME00103-credits.txt)
 

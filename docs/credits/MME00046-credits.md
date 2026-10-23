@@ -1,5 +1,5 @@
 # Credit Roll: Radio: Out Of Thin Air (1997)
-**Canonical Episode:** [`MME00046: Radio: Out Of Thin Air`](../episodes/MME00046.md)
+**Episode:** [`MME00046: Radio: Out Of Thin Air`](../episodes/MME00046.md)
 
 **Downloads:** [Credits JSON](json/MME00046-credits.json) • [Credits Plain Text](txt/MME00046-credits.txt)
 

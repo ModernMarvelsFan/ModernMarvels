@@ -1,5 +1,5 @@
 # Credit Roll: Dirt (2010)
-**Canonical Episode:** [`MME00656: Dirt`](../episodes/MME00656.md)
+**Episode:** [`MME00656: Dirt`](../episodes/MME00656.md)
 
 **Downloads:** [Credits JSON](json/MME00656-credits.json) • [Credits Plain Text](txt/MME00656-credits.txt)
 

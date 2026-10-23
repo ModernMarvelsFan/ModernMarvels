@@ -1,5 +1,5 @@
 # Credit Roll: Command Central (2004)
-**Canonical Episode:** [`MME00364: Command Central`](../episodes/MME00364.md)
+**Episode:** [`MME00364: Command Central`](../episodes/MME00364.md)
 
 **Downloads:** [Credits JSON](json/MME00364-credits.json) • [Credits Plain Text](txt/MME00364-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Convertibles (2003)
-**Canonical Episode:** [`MME00309: Convertibles`](../episodes/MME00309.md)
+**Episode:** [`MME00309: Convertibles`](../episodes/MME00309.md)
 
 **Downloads:** [Credits JSON](json/MME00309-credits.json) • [Credits Plain Text](txt/MME00309-credits.txt)
 

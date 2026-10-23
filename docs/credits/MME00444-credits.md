@@ -1,5 +1,5 @@
 # Credit Roll: Desert Tech (2005)
-**Canonical Episode:** [`MME00444: Desert Tech`](../episodes/MME00444.md)
+**Episode:** [`MME00444: Desert Tech`](../episodes/MME00444.md)
 
 **Downloads:** [Credits JSON](json/MME00444-credits.json) • [Credits Plain Text](txt/MME00444-credits.txt)
 

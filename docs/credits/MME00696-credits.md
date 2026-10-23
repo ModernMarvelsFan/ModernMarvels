@@ -1,5 +1,5 @@
 # Credit Roll: Weird Machines (2011)
-**Canonical Episode:** [`MME00696: Weird Machines`](../episodes/MME00696.md)
+**Episode:** [`MME00696: Weird Machines`](../episodes/MME00696.md)
 
 **Downloads:** [Credits JSON](json/MME00696-credits.json) • [Credits Plain Text](txt/MME00696-credits.txt)
 

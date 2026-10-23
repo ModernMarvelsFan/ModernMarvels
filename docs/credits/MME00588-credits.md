@@ -1,5 +1,5 @@
 # Credit Roll: Truck Stops (2007)
-**Canonical Episode:** [`MME00588: Truck Stops`](../episodes/MME00588.md)
+**Episode:** [`MME00588: Truck Stops`](../episodes/MME00588.md)
 
 **Downloads:** [Credits JSON](json/MME00588-credits.json) • [Credits Plain Text](txt/MME00588-credits.txt)
 

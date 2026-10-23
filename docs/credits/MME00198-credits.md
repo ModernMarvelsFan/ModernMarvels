@@ -1,5 +1,5 @@
 # Credit Roll: Times Square (2001)
-**Canonical Episode:** [`MME00198: Times Square`](../episodes/MME00198.md)
+**Episode:** [`MME00198: Times Square`](../episodes/MME00198.md)
 
 **Downloads:** [Credits JSON](json/MME00198-credits.json) • [Credits Plain Text](txt/MME00198-credits.txt)
 

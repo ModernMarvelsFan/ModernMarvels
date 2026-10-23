@@ -1,5 +1,5 @@
 # Credit Roll: Earthmovers: The Power to Move Mountains (1997)
-**Canonical Episode:** [`MME00054: Earthmovers: The Power to Move Mountains`](../episodes/MME00054.md)
+**Episode:** [`MME00054: Earthmovers: The Power to Move Mountains`](../episodes/MME00054.md)
 
 **Downloads:** [Credits JSON](json/MME00054-credits.json) • [Credits Plain Text](txt/MME00054-credits.txt)
 

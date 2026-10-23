@@ -1,5 +1,5 @@
 # Credit Roll: Bulls-eye (2008)
-**Canonical Episode:** [`MME00643: Bulls-eye`](../episodes/MME00643.md)
+**Episode:** [`MME00643: Bulls-eye`](../episodes/MME00643.md)
 
 **Downloads:** [Credits JSON](json/MME00643-credits.json) • [Credits Plain Text](txt/MME00643-credits.txt)
 

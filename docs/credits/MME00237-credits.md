@@ -1,5 +1,5 @@
 # Credit Roll: Beach Technology (2002)
-**Canonical Episode:** [`MME00237: Beach Technology`](../episodes/MME00237.md)
+**Episode:** [`MME00237: Beach Technology`](../episodes/MME00237.md)
 
 **Downloads:** [Credits JSON](json/MME00237-credits.json) • [Credits Plain Text](txt/MME00237-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Gasoline (2002)
-**Canonical Episode:** [`MME00241: Gasoline`](../episodes/MME00241.md)
+**Episode:** [`MME00241: Gasoline`](../episodes/MME00241.md)
 
 **Downloads:** [Credits JSON](json/MME00241-credits.json) • [Credits Plain Text](txt/MME00241-credits.txt)
 

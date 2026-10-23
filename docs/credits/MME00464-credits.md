@@ -1,5 +1,5 @@
 # Credit Roll: The Cape Cod Canal (2005)
-**Canonical Episode:** [`MME00464: The Cape Cod Canal`](../episodes/MME00464.md)
+**Episode:** [`MME00464: The Cape Cod Canal`](../episodes/MME00464.md)
 
 **Downloads:** [Credits JSON](json/MME00464-credits.json) • [Credits Plain Text](txt/MME00464-credits.txt)
 

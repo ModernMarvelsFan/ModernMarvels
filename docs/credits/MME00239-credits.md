@@ -1,5 +1,5 @@
 # Credit Roll: Super Guns (2002)
-**Canonical Episode:** [`MME00239: Super Guns`](../episodes/MME00239.md)
+**Episode:** [`MME00239: Super Guns`](../episodes/MME00239.md)
 
 **Downloads:** [Credits JSON](json/MME00239-credits.json) • [Credits Plain Text](txt/MME00239-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Bread (2008)
-**Canonical Episode:** [`MME00620: Bread`](../episodes/MME00620.md)
+**Episode:** [`MME00620: Bread`](../episodes/MME00620.md)
 
 **Downloads:** [Credits JSON](json/MME00620-credits.json) • [Credits Plain Text](txt/MME00620-credits.txt)
 

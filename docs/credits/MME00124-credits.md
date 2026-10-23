@@ -1,5 +1,5 @@
 # Credit Roll: Office Wonders (2000)
-**Canonical Episode:** [`MME00124: Office Wonders`](../episodes/MME00124.md)
+**Episode:** [`MME00124: Office Wonders`](../episodes/MME00124.md)
 
 **Downloads:** [Credits JSON](json/MME00124-credits.json) • [Credits Plain Text](txt/MME00124-credits.txt)
 

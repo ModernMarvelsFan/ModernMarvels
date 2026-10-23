@@ -1,5 +1,5 @@
 # Credit Roll: James Bond Gadgets (2002)
-**Canonical Episode:** [`MME00212: James Bond Gadgets`](../episodes/MME00212.md)
+**Episode:** [`MME00212: James Bond Gadgets`](../episodes/MME00212.md)
 
 **Downloads:** [Credits JSON](json/MME00212-credits.json) • [Credits Plain Text](txt/MME00212-credits.txt)
 

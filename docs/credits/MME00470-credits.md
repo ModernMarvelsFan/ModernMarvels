@@ -1,5 +1,5 @@
 # Credit Roll: Mountain Roads (2005)
-**Canonical Episode:** [`MME00470: Mountain Roads`](../episodes/MME00470.md)
+**Episode:** [`MME00470: Mountain Roads`](../episodes/MME00470.md)
 
 **Downloads:** [Credits JSON](json/MME00470-credits.json) • [Credits Plain Text](txt/MME00470-credits.txt)
 

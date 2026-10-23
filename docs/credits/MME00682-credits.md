@@ -1,5 +1,5 @@
 # Credit Roll: Built to Last (2010)
-**Canonical Episode:** [`MME00682: Built to Last`](../episodes/MME00682.md)
+**Episode:** [`MME00682: Built to Last`](../episodes/MME00682.md)
 
 **Downloads:** [Credits JSON](json/MME00682-credits.json) • [Credits Plain Text](txt/MME00682-credits.txt)
 

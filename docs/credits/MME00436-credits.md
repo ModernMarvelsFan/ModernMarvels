@@ -1,5 +1,5 @@
 # Credit Roll: The Arch (2005)
-**Canonical Episode:** [`MME00436: The Arch`](../episodes/MME00436.md)
+**Episode:** [`MME00436: The Arch`](../episodes/MME00436.md)
 
 **Downloads:** [Credits JSON](json/MME00436-credits.json) • [Credits Plain Text](txt/MME00436-credits.txt)
 

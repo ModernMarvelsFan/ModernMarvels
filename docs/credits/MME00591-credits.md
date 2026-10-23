@@ -1,5 +1,5 @@
 # Credit Roll: Saws (2007)
-**Canonical Episode:** [`MME00591: Saws`](../episodes/MME00591.md)
+**Episode:** [`MME00591: Saws`](../episodes/MME00591.md)
 
 **Downloads:** [Credits JSON](json/MME00591-credits.json) • [Credits Plain Text](txt/MME00591-credits.txt)
 

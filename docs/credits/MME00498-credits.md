@@ -1,5 +1,5 @@
 # Credit Roll: Da Vinci Tech (2005)
-**Canonical Episode:** [`MME00498: Da Vinci Tech`](../episodes/MME00498.md)
+**Episode:** [`MME00498: Da Vinci Tech`](../episodes/MME00498.md)
 
 **Downloads:** [Credits JSON](json/MME00498-credits.json) • [Credits Plain Text](txt/MME00498-credits.txt)
 

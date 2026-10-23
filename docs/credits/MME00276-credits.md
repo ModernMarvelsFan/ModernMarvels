@@ -1,5 +1,5 @@
 # Credit Roll: The Mackinac Bridge (2003)
-**Canonical Episode:** [`MME00276: The Mackinac Bridge`](../episodes/MME00276.md)
+**Episode:** [`MME00276: The Mackinac Bridge`](../episodes/MME00276.md)
 
 **Downloads:** [Credits JSON](json/MME00276-credits.json) • [Credits Plain Text](txt/MME00276-credits.txt)
 

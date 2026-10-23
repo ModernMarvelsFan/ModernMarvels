@@ -1,5 +1,5 @@
 # Credit Roll: Howard Hughes Tech (2005)
-**Canonical Episode:** [`MME00447: Howard Hughes Tech`](../episodes/MME00447.md)
+**Episode:** [`MME00447: Howard Hughes Tech`](../episodes/MME00447.md)
 
 **Downloads:** [Credits JSON](json/MME00447-credits.json) • [Credits Plain Text](txt/MME00447-credits.txt)
 

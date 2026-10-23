@@ -1,5 +1,5 @@
 # Credit Roll: 80s Tech (2006)
-**Canonical Episode:** [`MME00521: 80s Tech`](../episodes/MME00521.md)
+**Episode:** [`MME00521: 80s Tech`](../episodes/MME00521.md)
 
 **Downloads:** [Credits JSON](json/MME00521-credits.json) • [Credits Plain Text](txt/MME00521-credits.txt)
 

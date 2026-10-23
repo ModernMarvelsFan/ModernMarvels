@@ -1,5 +1,5 @@
 # Credit Roll: Offshore Oil Drilling (1999)
-**Canonical Episode:** [`MME00095: Offshore Oil Drilling`](../episodes/MME00095.md)
+**Episode:** [`MME00095: Offshore Oil Drilling`](../episodes/MME00095.md)
 
 **Downloads:** [Credits JSON](json/MME00095-credits.json) • [Credits Plain Text](txt/MME00095-credits.txt)
 

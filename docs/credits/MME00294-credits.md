@@ -1,5 +1,5 @@
 # Credit Roll: Torture Devices (2003)
-**Canonical Episode:** [`MME00294: Torture Devices`](../episodes/MME00294.md)
+**Episode:** [`MME00294: Torture Devices`](../episodes/MME00294.md)
 
 **Downloads:** [Credits JSON](json/MME00294-credits.json) • [Credits Plain Text](txt/MME00294-credits.txt)
 

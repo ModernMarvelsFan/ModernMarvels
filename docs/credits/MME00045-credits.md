@@ -1,5 +1,5 @@
 # Credit Roll: Satellites (1997)
-**Canonical Episode:** [`MME00045: Satellites`](../episodes/MME00045.md)
+**Episode:** [`MME00045: Satellites`](../episodes/MME00045.md)
 
 **Downloads:** [Credits JSON](json/MME00045-credits.json) • [Credits Plain Text](txt/MME00045-credits.txt)
 

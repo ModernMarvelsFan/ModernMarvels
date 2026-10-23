@@ -1,5 +1,5 @@
 # Credit Roll: The Wheel (2002)
-**Canonical Episode:** [`MME00222: The Wheel`](../episodes/MME00222.md)
+**Episode:** [`MME00222: The Wheel`](../episodes/MME00222.md)
 
 **Downloads:** [Credits JSON](json/MME00222-credits.json) • [Credits Plain Text](txt/MME00222-credits.txt)
 

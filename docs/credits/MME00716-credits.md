@@ -1,5 +1,5 @@
 # Credit Roll: Hottest Rides Countdown (2014)
-**Canonical Episode:** [`MME00716: Hottest Rides Countdown`](../episodes/MME00716.md)
+**Episode:** [`MME00716: Hottest Rides Countdown`](../episodes/MME00716.md)
 
 **Downloads:** [Credits JSON](json/MME00716-credits.json) • [Credits Plain Text](txt/MME00716-credits.txt)
 

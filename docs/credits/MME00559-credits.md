@@ -1,5 +1,5 @@
 # Credit Roll: The Supermarket (2006)
-**Canonical Episode:** [`MME00559: The Supermarket`](../episodes/MME00559.md)
+**Episode:** [`MME00559: The Supermarket`](../episodes/MME00559.md)
 
 **Downloads:** [Credits JSON](json/MME00559-credits.json) • [Credits Plain Text](txt/MME00559-credits.txt)
 

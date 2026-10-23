@@ -1,5 +1,5 @@
 # Credit Roll: The Golden Gate Bridge (1995)
-**Canonical Episode:** [`MME00017: The Golden Gate Bridge`](../episodes/MME00017.md)
+**Episode:** [`MME00017: The Golden Gate Bridge`](../episodes/MME00017.md)
 
 **Downloads:** [Credits JSON](json/MME00017-credits.json) • [Credits Plain Text](txt/MME00017-credits.txt)
 

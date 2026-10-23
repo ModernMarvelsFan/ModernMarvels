@@ -1,5 +1,5 @@
 # Credit Roll: Super Hot (2008)
-**Canonical Episode:** [`MME00627: Super Hot`](../episodes/MME00627.md)
+**Episode:** [`MME00627: Super Hot`](../episodes/MME00627.md)
 
 **Downloads:** [Credits JSON](json/MME00627-credits.json) • [Credits Plain Text](txt/MME00627-credits.txt)
 

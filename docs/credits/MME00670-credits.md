@@ -1,5 +1,5 @@
 # Credit Roll: Big & Small (2010)
-**Canonical Episode:** [`MME00670: Big & Small`](../episodes/MME00670.md)
+**Episode:** [`MME00670: Big & Small`](../episodes/MME00670.md)
 
 **Downloads:** [Credits JSON](json/MME00670-credits.json) • [Credits Plain Text](txt/MME00670-credits.txt)
 

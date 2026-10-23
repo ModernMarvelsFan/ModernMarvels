@@ -1,5 +1,5 @@
 # Credit Roll: The Telephone (1996)
-**Canonical Episode:** [`MME00032: The Telephone`](../episodes/MME00032.md)
+**Episode:** [`MME00032: The Telephone`](../episodes/MME00032.md)
 
 **Downloads:** [Credits JSON](json/MME00032-credits.json) • [Credits Plain Text](txt/MME00032-credits.txt)
 

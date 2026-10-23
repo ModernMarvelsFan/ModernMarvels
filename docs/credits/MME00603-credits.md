@@ -1,5 +1,5 @@
 # Credit Roll: World's Sharpest (2007)
-**Canonical Episode:** [`MME00603: World's Sharpest`](../episodes/MME00603.md)
+**Episode:** [`MME00603: World's Sharpest`](../episodes/MME00603.md)
 
 **Downloads:** [Credits JSON](json/MME00603-credits.json) • [Credits Plain Text](txt/MME00603-credits.txt)
 

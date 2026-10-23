@@ -1,5 +1,5 @@
 # Credit Roll: Super Human (2008)
-**Canonical Episode:** [`MME00650: Super Human`](../episodes/MME00650.md)
+**Episode:** [`MME00650: Super Human`](../episodes/MME00650.md)
 
 **Downloads:** [Credits JSON](json/MME00650-credits.json) • [Credits Plain Text](txt/MME00650-credits.txt)
 

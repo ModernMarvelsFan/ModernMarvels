@@ -1,5 +1,5 @@
 # Credit Roll: New York Bridges (1999)
-**Canonical Episode:** [`MME00099: New York Bridges`](../episodes/MME00099.md)
+**Episode:** [`MME00099: New York Bridges`](../episodes/MME00099.md)
 
 **Downloads:** [Credits JSON](json/MME00099-credits.json) • [Credits Plain Text](txt/MME00099-credits.txt)
 

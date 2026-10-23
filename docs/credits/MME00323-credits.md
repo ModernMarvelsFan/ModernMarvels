@@ -1,5 +1,5 @@
 # Credit Roll: Terror Tech: Civilian (2003)
-**Canonical Episode:** [`MME00323: Terror Tech: Civilian`](../episodes/MME00323.md)
+**Episode:** [`MME00323: Terror Tech: Civilian`](../episodes/MME00323.md)
 
 **Downloads:** [Credits JSON](json/MME00323-credits.json) • [Credits Plain Text](txt/MME00323-credits.txt)
 

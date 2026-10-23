@@ -1,5 +1,5 @@
 # Credit Roll: Rubber (2004)
-**Canonical Episode:** [`MME00378: Rubber`](../episodes/MME00378.md)
+**Episode:** [`MME00378: Rubber`](../episodes/MME00378.md)
 
 **Downloads:** [Credits JSON](json/MME00378-credits.json) • [Credits Plain Text](txt/MME00378-credits.txt)
 

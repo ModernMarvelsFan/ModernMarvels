@@ -1,5 +1,5 @@
 # Credit Roll: Commercial Fishing (2004)
-**Canonical Episode:** [`MME00428: Commercial Fishing`](../episodes/MME00428.md)
+**Episode:** [`MME00428: Commercial Fishing`](../episodes/MME00428.md)
 
 **Downloads:** [Credits JSON](json/MME00428-credits.json) • [Credits Plain Text](txt/MME00428-credits.txt)
 

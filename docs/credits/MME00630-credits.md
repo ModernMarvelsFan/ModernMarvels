@@ -1,5 +1,5 @@
 # Credit Roll: Ice Cream (2008)
-**Canonical Episode:** [`MME00630: Ice Cream`](../episodes/MME00630.md)
+**Episode:** [`MME00630: Ice Cream`](../episodes/MME00630.md)
 
 **Downloads:** [Credits JSON](json/MME00630-credits.json) • [Credits Plain Text](txt/MME00630-credits.txt)
 

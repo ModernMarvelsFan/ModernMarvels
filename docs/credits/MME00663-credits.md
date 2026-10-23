@@ -1,5 +1,5 @@
 # Credit Roll: Chrome (2010)
-**Canonical Episode:** [`MME00663: Chrome`](../episodes/MME00663.md)
+**Episode:** [`MME00663: Chrome`](../episodes/MME00663.md)
 
 **Downloads:** [Credits JSON](json/MME00663-credits.json) • [Credits Plain Text](txt/MME00663-credits.txt)
 

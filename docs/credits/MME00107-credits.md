@@ -1,5 +1,5 @@
 # Credit Roll: More Earthmovers (1999)
-**Canonical Episode:** [`MME00107: More Earthmovers`](../episodes/MME00107.md)
+**Episode:** [`MME00107: More Earthmovers`](../episodes/MME00107.md)
 
 **Downloads:** [Credits JSON](json/MME00107-credits.json) • [Credits Plain Text](txt/MME00107-credits.txt)
 

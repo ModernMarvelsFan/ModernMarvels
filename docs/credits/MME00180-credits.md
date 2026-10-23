@@ -1,5 +1,5 @@
 # Credit Roll: The World Trade Center (2001)
-**Canonical Episode:** [`MME00180: The World Trade Center`](../episodes/MME00180.md)
+**Episode:** [`MME00180: The World Trade Center`](../episodes/MME00180.md)
 
 **Downloads:** [Credits JSON](json/MME00180-credits.json) • [Credits Plain Text](txt/MME00180-credits.txt)
 

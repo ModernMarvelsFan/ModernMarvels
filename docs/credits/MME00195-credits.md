@@ -1,5 +1,5 @@
 # Credit Roll: Cemeteries (2001)
-**Canonical Episode:** [`MME00195: Cemeteries`](../episodes/MME00195.md)
+**Episode:** [`MME00195: Cemeteries`](../episodes/MME00195.md)
 
 **Downloads:** [Credits JSON](json/MME00195-credits.json) • [Credits Plain Text](txt/MME00195-credits.txt)
 

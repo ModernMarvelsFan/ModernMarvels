@@ -1,5 +1,5 @@
 # Credit Roll: Wheat (2008)
-**Canonical Episode:** [`MME00638: Wheat`](../episodes/MME00638.md)
+**Episode:** [`MME00638: Wheat`](../episodes/MME00638.md)
 
 **Downloads:** [Credits JSON](json/MME00638-credits.json) • [Credits Plain Text](txt/MME00638-credits.txt)
 

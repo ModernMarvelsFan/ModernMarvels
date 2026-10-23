@@ -1,5 +1,5 @@
 # Credit Roll: Strange Weapons (2008)
-**Canonical Episode:** [`MME00617: Strange Weapons`](../episodes/MME00617.md)
+**Episode:** [`MME00617: Strange Weapons`](../episodes/MME00617.md)
 
 **Downloads:** [Credits JSON](json/MME00617-credits.json) • [Credits Plain Text](txt/MME00617-credits.txt)
 

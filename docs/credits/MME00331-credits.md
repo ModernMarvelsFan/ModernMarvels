@@ -1,5 +1,5 @@
 # Credit Roll: The Luftwaffe (2003)
-**Canonical Episode:** [`MME00331: The Luftwaffe`](../episodes/MME00331.md)
+**Episode:** [`MME00331: The Luftwaffe`](../episodes/MME00331.md)
 
 **Downloads:** [Credits JSON](json/MME00331-credits.json) • [Credits Plain Text](txt/MME00331-credits.txt)
 

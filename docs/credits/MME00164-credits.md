@@ -1,5 +1,5 @@
 # Credit Roll: Garage Gadgets (2001)
-**Canonical Episode:** [`MME00164: Garage Gadgets`](../episodes/MME00164.md)
+**Episode:** [`MME00164: Garage Gadgets`](../episodes/MME00164.md)
 
 **Downloads:** [Credits JSON](json/MME00164-credits.json) • [Credits Plain Text](txt/MME00164-credits.txt)
 

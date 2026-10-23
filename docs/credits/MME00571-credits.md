@@ -1,5 +1,5 @@
 # Credit Roll: Pumps (2007)
-**Canonical Episode:** [`MME00571: Pumps`](../episodes/MME00571.md)
+**Episode:** [`MME00571: Pumps`](../episodes/MME00571.md)
 
 **Downloads:** [Credits JSON](json/MME00571-credits.json) • [Credits Plain Text](txt/MME00571-credits.txt)
 

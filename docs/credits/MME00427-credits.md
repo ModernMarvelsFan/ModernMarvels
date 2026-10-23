@@ -1,5 +1,5 @@
 # Credit Roll: More Dangerous Cargo! (2004)
-**Canonical Episode:** [`MME00427: More Dangerous Cargo!`](../episodes/MME00427.md)
+**Episode:** [`MME00427: More Dangerous Cargo!`](../episodes/MME00427.md)
 
 **Downloads:** [Credits JSON](json/MME00427-credits.json) • [Credits Plain Text](txt/MME00427-credits.txt)
 

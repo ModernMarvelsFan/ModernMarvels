@@ -1,5 +1,5 @@
 # Credit Roll: Technology of Kitty Hawk (2003)
-**Canonical Episode:** [`MME00351: Technology of Kitty Hawk`](../episodes/MME00351.md)
+**Episode:** [`MME00351: Technology of Kitty Hawk`](../episodes/MME00351.md)
 
 **Downloads:** [Credits JSON](json/MME00351-credits.json) • [Credits Plain Text](txt/MME00351-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Panama Canal Supersized (2015)
-**Canonical Episode:** [`MME00718: Panama Canal Supersized`](../episodes/MME00718.md)
+**Episode:** [`MME00718: Panama Canal Supersized`](../episodes/MME00718.md)
 
 **Downloads:** [Credits JSON](json/MME00718-credits.json) • [Credits Plain Text](txt/MME00718-credits.txt)
 

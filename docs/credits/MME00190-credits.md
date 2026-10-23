@@ -1,5 +1,5 @@
 # Credit Roll: Diamond Mines (2001)
-**Canonical Episode:** [`MME00190: Diamond Mines`](../episodes/MME00190.md)
+**Episode:** [`MME00190: Diamond Mines`](../episodes/MME00190.md)
 
 **Downloads:** [Credits JSON](json/MME00190-credits.json) • [Credits Plain Text](txt/MME00190-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: World's Strongest III (2008)
-**Canonical Episode:** [`MME00616: World's Strongest III`](../episodes/MME00616.md)
+**Episode:** [`MME00616: World's Strongest III`](../episodes/MME00616.md)
 
 **Downloads:** [Credits JSON](json/MME00616-credits.json) • [Credits Plain Text](txt/MME00616-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Chocolate (2007)
-**Canonical Episode:** [`MME00594: Chocolate`](../episodes/MME00594.md)
+**Episode:** [`MME00594: Chocolate`](../episodes/MME00594.md)
 
 **Downloads:** [Credits JSON](json/MME00594-credits.json) • [Credits Plain Text](txt/MME00594-credits.txt)
 

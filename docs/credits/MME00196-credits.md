@@ -1,5 +1,5 @@
 # Credit Roll: War Games (2001)
-**Canonical Episode:** [`MME00196: War Games`](../episodes/MME00196.md)
+**Episode:** [`MME00196: War Games`](../episodes/MME00196.md)
 
 **Downloads:** [Credits JSON](json/MME00196-credits.json) • [Credits Plain Text](txt/MME00196-credits.txt)
 

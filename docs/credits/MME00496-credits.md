@@ -1,5 +1,5 @@
 # Credit Roll: The Lumberyard (2005)
-**Canonical Episode:** [`MME00496: The Lumberyard`](../episodes/MME00496.md)
+**Episode:** [`MME00496: The Lumberyard`](../episodes/MME00496.md)
 
 **Downloads:** [Credits JSON](json/MME00496-credits.json) • [Credits Plain Text](txt/MME00496-credits.txt)
 

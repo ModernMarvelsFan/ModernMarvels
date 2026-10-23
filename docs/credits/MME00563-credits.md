@@ -1,5 +1,5 @@
 # Credit Roll: Engineering Disasters 20 (2006)
-**Canonical Episode:** [`MME00563: Engineering Disasters 20`](../episodes/MME00563.md)
+**Episode:** [`MME00563: Engineering Disasters 20`](../episodes/MME00563.md)
 
 **Downloads:** [Credits JSON](json/MME00563-credits.json) • [Credits Plain Text](txt/MME00563-credits.txt)
 

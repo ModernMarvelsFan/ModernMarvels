@@ -1,5 +1,5 @@
 # Credit Roll: Dogs (2010)
-**Canonical Episode:** [`MME00681: Dogs`](../episodes/MME00681.md)
+**Episode:** [`MME00681: Dogs`](../episodes/MME00681.md)
 
 **Downloads:** [Credits JSON](json/MME00681-credits.json) • [Credits Plain Text](txt/MME00681-credits.txt)
 

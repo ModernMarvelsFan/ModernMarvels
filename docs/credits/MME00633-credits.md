@@ -1,5 +1,5 @@
 # Credit Roll: Underwear (2008)
-**Canonical Episode:** [`MME00633: Underwear`](../episodes/MME00633.md)
+**Episode:** [`MME00633: Underwear`](../episodes/MME00633.md)
 
 **Downloads:** [Credits JSON](json/MME00633-credits.json) • [Credits Plain Text](txt/MME00633-credits.txt)
 

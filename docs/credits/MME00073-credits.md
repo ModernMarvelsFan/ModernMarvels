@@ -1,5 +1,5 @@
 # Credit Roll: Medical Imaging (1998)
-**Canonical Episode:** [`MME00073: Medical Imaging`](../episodes/MME00073.md)
+**Episode:** [`MME00073: Medical Imaging`](../episodes/MME00073.md)
 
 **Downloads:** [Credits JSON](json/MME00073-credits.json) • [Credits Plain Text](txt/MME00073-credits.txt)
 

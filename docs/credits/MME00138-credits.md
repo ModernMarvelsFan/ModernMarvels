@@ -1,5 +1,5 @@
 # Credit Roll: Aswan Dam (2000)
-**Canonical Episode:** [`MME00138: Aswan Dam`](../episodes/MME00138.md)
+**Episode:** [`MME00138: Aswan Dam`](../episodes/MME00138.md)
 
 **Downloads:** [Credits JSON](json/MME00138-credits.json) • [Credits Plain Text](txt/MME00138-credits.txt)
 

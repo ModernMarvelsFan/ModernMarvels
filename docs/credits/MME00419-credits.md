@@ -1,5 +1,5 @@
 # Credit Roll: Sub Disasters (2004)
-**Canonical Episode:** [`MME00419: Sub Disasters`](../episodes/MME00419.md)
+**Episode:** [`MME00419: Sub Disasters`](../episodes/MME00419.md)
 
 **Downloads:** [Credits JSON](json/MME00419-credits.json) • [Credits Plain Text](txt/MME00419-credits.txt)
 

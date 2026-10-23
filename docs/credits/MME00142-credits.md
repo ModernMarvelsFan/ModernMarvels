@@ -1,5 +1,5 @@
 # Credit Roll: The Body Shop (2000)
-**Canonical Episode:** [`MME00142: The Body Shop`](../episodes/MME00142.md)
+**Episode:** [`MME00142: The Body Shop`](../episodes/MME00142.md)
 
 **Downloads:** [Credits JSON](json/MME00142-credits.json) • [Credits Plain Text](txt/MME00142-credits.txt)
 

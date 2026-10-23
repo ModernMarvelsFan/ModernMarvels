@@ -1,5 +1,5 @@
 # Credit Roll: Weather Prediction (1999)
-**Canonical Episode:** [`MME00078: Weather Prediction`](../episodes/MME00078.md)
+**Episode:** [`MME00078: Weather Prediction`](../episodes/MME00078.md)
 
 **Downloads:** [Credits JSON](json/MME00078-credits.json) • [Credits Plain Text](txt/MME00078-credits.txt)
 

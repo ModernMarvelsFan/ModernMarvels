@@ -1,5 +1,5 @@
 # Credit Roll: Paint (2005)
-**Canonical Episode:** [`MME00454: Paint`](../episodes/MME00454.md)
+**Episode:** [`MME00454: Paint`](../episodes/MME00454.md)
 
 **Downloads:** [Credits JSON](json/MME00454-credits.json) • [Credits Plain Text](txt/MME00454-credits.txt)
 

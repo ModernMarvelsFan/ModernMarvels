@@ -1,5 +1,5 @@
 # Credit Roll: 60s Tech (2007)
-**Canonical Episode:** [`MME00583: 60s Tech`](../episodes/MME00583.md)
+**Episode:** [`MME00583: 60s Tech`](../episodes/MME00583.md)
 
 **Downloads:** [Credits JSON](json/MME00583-credits.json) • [Credits Plain Text](txt/MME00583-credits.txt)
 

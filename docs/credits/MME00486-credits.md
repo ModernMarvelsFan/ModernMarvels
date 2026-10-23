@@ -1,5 +1,5 @@
 # Credit Roll: Coffee (2005)
-**Canonical Episode:** [`MME00486: Coffee`](../episodes/MME00486.md)
+**Episode:** [`MME00486: Coffee`](../episodes/MME00486.md)
 
 **Downloads:** [Credits JSON](json/MME00486-credits.json) • [Credits Plain Text](txt/MME00486-credits.txt)
 

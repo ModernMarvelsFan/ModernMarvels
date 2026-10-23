@@ -1,5 +1,5 @@
 # Credit Roll: The Potato (2010)
-**Canonical Episode:** [`MME00658: The Potato`](../episodes/MME00658.md)
+**Episode:** [`MME00658: The Potato`](../episodes/MME00658.md)
 
 **Downloads:** [Credits JSON](json/MME00658-credits.json) • [Credits Plain Text](txt/MME00658-credits.txt)
 

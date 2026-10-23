@@ -1,5 +1,5 @@
 # Credit Roll: Food: Ice Cream (2021)
-**Canonical Episode:** [`MME00721: Food: Ice Cream`](../episodes/MME00721.md)
+**Episode:** [`MME00721: Food: Ice Cream`](../episodes/MME00721.md)
 
 **Downloads:** [Credits JSON](json/MME00721-credits.json) • [Credits Plain Text](txt/MME00721-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Edison Tech (2005)
-**Canonical Episode:** [`MME00467: Edison Tech`](../episodes/MME00467.md)
+**Episode:** [`MME00467: Edison Tech`](../episodes/MME00467.md)
 
 **Downloads:** [Credits JSON](json/MME00467-credits.json) • [Credits Plain Text](txt/MME00467-credits.txt)
 

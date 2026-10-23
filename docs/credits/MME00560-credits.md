@@ -1,5 +1,5 @@
 # Credit Roll: Breakfast Tech (2006)
-**Canonical Episode:** [`MME00560: Breakfast Tech`](../episodes/MME00560.md)
+**Episode:** [`MME00560: Breakfast Tech`](../episodes/MME00560.md)
 
 **Downloads:** [Credits JSON](json/MME00560-credits.json) • [Credits Plain Text](txt/MME00560-credits.txt)
 

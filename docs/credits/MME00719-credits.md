@@ -1,5 +1,5 @@
 # Credit Roll: Food: Cookies (2021)
-**Canonical Episode:** [`MME00719: Food: Cookies`](../episodes/MME00719.md)
+**Episode:** [`MME00719: Food: Cookies`](../episodes/MME00719.md)
 
 **Downloads:** [Credits JSON](json/MME00719-credits.json) • [Credits Plain Text](txt/MME00719-credits.txt)
 

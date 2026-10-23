@@ -1,5 +1,5 @@
 # Credit Roll: Trucks (2000)
-**Canonical Episode:** [`MME00137: Trucks`](../episodes/MME00137.md)
+**Episode:** [`MME00137: Trucks`](../episodes/MME00137.md)
 
 **Downloads:** [Credits JSON](json/MME00137-credits.json) • [Credits Plain Text](txt/MME00137-credits.txt)
 

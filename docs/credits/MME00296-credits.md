@@ -1,5 +1,5 @@
 # Credit Roll: Exterminator (2003)
-**Canonical Episode:** [`MME00296: Exterminator`](../episodes/MME00296.md)
+**Episode:** [`MME00296: Exterminator`](../episodes/MME00296.md)
 
 **Downloads:** [Credits JSON](json/MME00296-credits.json) • [Credits Plain Text](txt/MME00296-credits.txt)
 

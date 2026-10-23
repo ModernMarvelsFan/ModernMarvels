@@ -1,5 +1,5 @@
 # Credit Roll: Private Jets (2002)
-**Canonical Episode:** [`MME00211: Private Jets`](../episodes/MME00211.md)
+**Episode:** [`MME00211: Private Jets`](../episodes/MME00211.md)
 
 **Downloads:** [Credits JSON](json/MME00211-credits.json) • [Credits Plain Text](txt/MME00211-credits.txt)
 

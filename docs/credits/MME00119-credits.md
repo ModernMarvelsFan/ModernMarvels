@@ -1,5 +1,5 @@
 # Credit Roll: The Chunnel (2000)
-**Canonical Episode:** [`MME00119: The Chunnel`](../episodes/MME00119.md)
+**Episode:** [`MME00119: The Chunnel`](../episodes/MME00119.md)
 
 **Downloads:** [Credits JSON](json/MME00119-credits.json) • [Credits Plain Text](txt/MME00119-credits.txt)
 

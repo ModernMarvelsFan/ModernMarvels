@@ -1,5 +1,5 @@
 # Credit Roll: Steam Power (2022)
-**Canonical Episode:** [`MME00736: Steam Power`](../episodes/MME00736.md)
+**Episode:** [`MME00736: Steam Power`](../episodes/MME00736.md)
 
 **Downloads:** [Credits JSON](json/MME00736-credits.json) • [Credits Plain Text](txt/MME00736-credits.txt)
 

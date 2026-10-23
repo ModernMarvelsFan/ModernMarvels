@@ -1,5 +1,5 @@
 # Credit Roll: Surveillance Tech (2004)
-**Canonical Episode:** [`MME00416: Surveillance Tech`](../episodes/MME00416.md)
+**Episode:** [`MME00416: Surveillance Tech`](../episodes/MME00416.md)
 
 **Downloads:** [Credits JSON](json/MME00416-credits.json) • [Credits Plain Text](txt/MME00416-credits.txt)
 

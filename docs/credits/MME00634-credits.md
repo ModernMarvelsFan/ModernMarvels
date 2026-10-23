@@ -1,5 +1,5 @@
 # Credit Roll: Batman Tech (2008)
-**Canonical Episode:** [`MME00634: Batman Tech`](../episodes/MME00634.md)
+**Episode:** [`MME00634: Batman Tech`](../episodes/MME00634.md)
 
 **Downloads:** [Credits JSON](json/MME00634-credits.json) • [Credits Plain Text](txt/MME00634-credits.txt)
 

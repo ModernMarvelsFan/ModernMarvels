@@ -1,5 +1,5 @@
 # Credit Roll: Building a Skyscraper: The Human Environment (2004)
-**Canonical Episode:** [`MME00393: Building a Skyscraper: The Human Environment`](../episodes/MME00393.md)
+**Episode:** [`MME00393: Building a Skyscraper: The Human Environment`](../episodes/MME00393.md)
 
 **Downloads:** [Credits JSON](json/MME00393-credits.json) • [Credits Plain Text](txt/MME00393-credits.txt)
 

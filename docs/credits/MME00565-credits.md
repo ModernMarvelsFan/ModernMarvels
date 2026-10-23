@@ -1,5 +1,5 @@
 # Credit Roll: Tea (2006)
-**Canonical Episode:** [`MME00565: Tea`](../episodes/MME00565.md)
+**Episode:** [`MME00565: Tea`](../episodes/MME00565.md)
 
 **Downloads:** [Credits JSON](json/MME00565-credits.json) • [Credits Plain Text](txt/MME00565-credits.txt)
 

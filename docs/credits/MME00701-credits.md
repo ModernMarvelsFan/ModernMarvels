@@ -1,5 +1,5 @@
 # Credit Roll: Wood (2011)
-**Canonical Episode:** [`MME00701: Wood`](../episodes/MME00701.md)
+**Episode:** [`MME00701: Wood`](../episodes/MME00701.md)
 
 **Downloads:** [Credits JSON](json/MME00701-credits.json) • [Credits Plain Text](txt/MME00701-credits.txt)
 

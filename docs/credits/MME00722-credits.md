@@ -1,5 +1,5 @@
 # Credit Roll: Food: Chocolate (2021)
-**Canonical Episode:** [`MME00722: Food: Chocolate`](../episodes/MME00722.md)
+**Episode:** [`MME00722: Food: Chocolate`](../episodes/MME00722.md)
 
 **Downloads:** [Credits JSON](json/MME00722-credits.json) • [Credits Plain Text](txt/MME00722-credits.txt)
 

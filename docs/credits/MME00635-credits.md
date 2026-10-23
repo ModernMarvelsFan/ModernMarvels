@@ -1,5 +1,5 @@
 # Credit Roll: Coin Operated (2008)
-**Canonical Episode:** [`MME00635: Coin Operated`](../episodes/MME00635.md)
+**Episode:** [`MME00635: Coin Operated`](../episodes/MME00635.md)
 
 **Downloads:** [Credits JSON](json/MME00635-credits.json) • [Credits Plain Text](txt/MME00635-credits.txt)
 

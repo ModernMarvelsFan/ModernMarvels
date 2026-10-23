@@ -1,5 +1,5 @@
 # Credit Roll: Doors (2010)
-**Canonical Episode:** [`MME00673: Doors`](../episodes/MME00673.md)
+**Episode:** [`MME00673: Doors`](../episodes/MME00673.md)
 
 **Downloads:** [Credits JSON](json/MME00673-credits.json) • [Credits Plain Text](txt/MME00673-credits.txt)
 

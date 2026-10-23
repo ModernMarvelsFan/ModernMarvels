@@ -1,5 +1,5 @@
 # Credit Roll: Trans-Siberian Railroad (2003)
-**Canonical Episode:** [`MME00269: Trans-Siberian Railroad`](../episodes/MME00269.md)
+**Episode:** [`MME00269: Trans-Siberian Railroad`](../episodes/MME00269.md)
 
 **Downloads:** [Credits JSON](json/MME00269-credits.json) • [Credits Plain Text](txt/MME00269-credits.txt)
 

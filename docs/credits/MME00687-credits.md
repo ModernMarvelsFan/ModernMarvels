@@ -1,5 +1,5 @@
 # Credit Roll: Packaging (2011)
-**Canonical Episode:** [`MME00687: Packaging`](../episodes/MME00687.md)
+**Episode:** [`MME00687: Packaging`](../episodes/MME00687.md)
 
 **Downloads:** [Credits JSON](json/MME00687-credits.json) • [Credits Plain Text](txt/MME00687-credits.txt)
 

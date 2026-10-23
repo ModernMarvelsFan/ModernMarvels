@@ -1,5 +1,5 @@
 # Credit Roll: Ultimate Helicopters (2022)
-**Canonical Episode:** [`MME00737: Ultimate Helicopters`](../episodes/MME00737.md)
+**Episode:** [`MME00737: Ultimate Helicopters`](../episodes/MME00737.md)
 
 **Downloads:** [Credits JSON](json/MME00737-credits.json) • [Credits Plain Text](txt/MME00737-credits.txt)
 

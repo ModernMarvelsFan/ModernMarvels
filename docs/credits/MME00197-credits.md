@@ -1,5 +1,5 @@
 # Credit Roll: Drive-Thru (2001)
-**Canonical Episode:** [`MME00197: Drive-Thru`](../episodes/MME00197.md)
+**Episode:** [`MME00197: Drive-Thru`](../episodes/MME00197.md)
 
 **Downloads:** [Credits JSON](json/MME00197-credits.json) • [Credits Plain Text](txt/MME00197-credits.txt)
 

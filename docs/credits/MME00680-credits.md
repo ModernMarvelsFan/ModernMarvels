@@ -1,5 +1,5 @@
 # Credit Roll: Engineering Disasters 22 (2010)
-**Canonical Episode:** [`MME00680: Engineering Disasters 22`](../episodes/MME00680.md)
+**Episode:** [`MME00680: Engineering Disasters 22`](../episodes/MME00680.md)
 
 **Downloads:** [Credits JSON](json/MME00680-credits.json) • [Credits Plain Text](txt/MME00680-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Amazing Gadgets Countdown (2014)
-**Canonical Episode:** [`MME00717: Amazing Gadgets Countdown`](../episodes/MME00717.md)
+**Episode:** [`MME00717: Amazing Gadgets Countdown`](../episodes/MME00717.md)
 
 **Downloads:** [Credits JSON](json/MME00717-credits.json) • [Credits Plain Text](txt/MME00717-credits.txt)
 

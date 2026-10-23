@@ -1,5 +1,5 @@
 # Credit Roll: 4x4 (2003)
-**Canonical Episode:** [`MME00298: 4x4`](../episodes/MME00298.md)
+**Episode:** [`MME00298: 4x4`](../episodes/MME00298.md)
 
 **Downloads:** [Credits JSON](json/MME00298-credits.json) • [Credits Plain Text](txt/MME00298-credits.txt)
 

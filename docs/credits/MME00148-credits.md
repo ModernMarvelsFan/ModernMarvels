@@ -1,5 +1,5 @@
 # Credit Roll: London Underground (2000)
-**Canonical Episode:** [`MME00148: London Underground`](../episodes/MME00148.md)
+**Episode:** [`MME00148: London Underground`](../episodes/MME00148.md)
 
 **Downloads:** [Credits JSON](json/MME00148-credits.json) • [Credits Plain Text](txt/MME00148-credits.txt)
 

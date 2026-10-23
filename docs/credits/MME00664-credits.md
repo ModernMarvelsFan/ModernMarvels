@@ -1,5 +1,5 @@
 # Credit Roll: Start to Finish (2010)
-**Canonical Episode:** [`MME00664: Start to Finish`](../episodes/MME00664.md)
+**Episode:** [`MME00664: Start to Finish`](../episodes/MME00664.md)
 
 **Downloads:** [Credits JSON](json/MME00664-credits.json) • [Credits Plain Text](txt/MME00664-credits.txt)
 

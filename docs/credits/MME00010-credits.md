@@ -1,5 +1,5 @@
 # Credit Roll: The Eiffel Tower (1995)
-**Canonical Episode:** [`MME00010: The Eiffel Tower`](../episodes/MME00010.md)
+**Episode:** [`MME00010: The Eiffel Tower`](../episodes/MME00010.md)
 
 **Downloads:** [Credits JSON](json/MME00010-credits.json) • [Credits Plain Text](txt/MME00010-credits.txt)
 

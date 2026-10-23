@@ -1,5 +1,5 @@
 # Credit Roll: High Explosives (2006)
-**Canonical Episode:** [`MME00528: High Explosives`](../episodes/MME00528.md)
+**Episode:** [`MME00528: High Explosives`](../episodes/MME00528.md)
 
 **Downloads:** [Credits JSON](json/MME00528-credits.json) • [Credits Plain Text](txt/MME00528-credits.txt)
 

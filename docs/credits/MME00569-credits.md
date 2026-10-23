@@ -1,5 +1,5 @@
 # Credit Roll: Environmental Tech (2007)
-**Canonical Episode:** [`MME00569: Environmental Tech`](../episodes/MME00569.md)
+**Episode:** [`MME00569: Environmental Tech`](../episodes/MME00569.md)
 
 **Downloads:** [Credits JSON](json/MME00569-credits.json) • [Credits Plain Text](txt/MME00569-credits.txt)
 

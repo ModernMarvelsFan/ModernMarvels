@@ -1,5 +1,5 @@
 # Credit Roll: The Maginot Line (2000)
-**Canonical Episode:** [`MME00140: The Maginot Line`](../episodes/MME00140.md)
+**Episode:** [`MME00140: The Maginot Line`](../episodes/MME00140.md)
 
 **Downloads:** [Credits JSON](json/MME00140-credits.json) • [Credits Plain Text](txt/MME00140-credits.txt)
 

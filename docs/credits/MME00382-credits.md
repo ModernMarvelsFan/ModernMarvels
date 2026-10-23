@@ -1,5 +1,5 @@
 # Credit Roll: Nuclear Tech (2004)
-**Canonical Episode:** [`MME00382: Nuclear Tech`](../episodes/MME00382.md)
+**Episode:** [`MME00382: Nuclear Tech`](../episodes/MME00382.md)
 
 **Downloads:** [Credits JSON](json/MME00382-credits.json) • [Credits Plain Text](txt/MME00382-credits.txt)
 

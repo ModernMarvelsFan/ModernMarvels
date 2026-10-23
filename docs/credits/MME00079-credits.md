@@ -1,5 +1,5 @@
 # Credit Roll: Stereos (1999)
-**Canonical Episode:** [`MME00079: Stereos`](../episodes/MME00079.md)
+**Episode:** [`MME00079: Stereos`](../episodes/MME00079.md)
 
 **Downloads:** [Credits JSON](json/MME00079-credits.json) • [Credits Plain Text](txt/MME00079-credits.txt)
 

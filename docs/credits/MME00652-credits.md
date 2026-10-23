@@ -1,5 +1,5 @@
 # Credit Roll: Night (2008)
-**Canonical Episode:** [`MME00652: Night`](../episodes/MME00652.md)
+**Episode:** [`MME00652: Night`](../episodes/MME00652.md)
 
 **Downloads:** [Credits JSON](json/MME00652-credits.json) • [Credits Plain Text](txt/MME00652-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Candy (2006)
-**Canonical Episode:** [`MME00509: Candy`](../episodes/MME00509.md)
+**Episode:** [`MME00509: Candy`](../episodes/MME00509.md)
 
 **Downloads:** [Credits JSON](json/MME00509-credits.json) • [Credits Plain Text](txt/MME00509-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Salt (2008)
-**Canonical Episode:** [`MME00647: Salt`](../episodes/MME00647.md)
+**Episode:** [`MME00647: Salt`](../episodes/MME00647.md)
 
 **Downloads:** [Credits JSON](json/MME00647-credits.json) • [Credits Plain Text](txt/MME00647-credits.txt)
 

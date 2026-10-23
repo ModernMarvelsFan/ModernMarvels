@@ -1,5 +1,5 @@
 # Credit Roll: World's Biggest Machines 3 (2005)
-**Canonical Episode:** [`MME00439: World's Biggest Machines 3`](../episodes/MME00439.md)
+**Episode:** [`MME00439: World's Biggest Machines 3`](../episodes/MME00439.md)
 
 **Downloads:** [Credits JSON](json/MME00439-credits.json) • [Credits Plain Text](txt/MME00439-credits.txt)
 

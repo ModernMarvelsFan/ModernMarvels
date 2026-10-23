@@ -1,5 +1,5 @@
 # Credit Roll: Vacuums (2007)
-**Canonical Episode:** [`MME00596: Vacuums`](../episodes/MME00596.md)
+**Episode:** [`MME00596: Vacuums`](../episodes/MME00596.md)
 
 **Downloads:** [Credits JSON](json/MME00596-credits.json) • [Credits Plain Text](txt/MME00596-credits.txt)
 

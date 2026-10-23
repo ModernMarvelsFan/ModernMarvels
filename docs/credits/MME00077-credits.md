@@ -1,5 +1,5 @@
 # Credit Roll: Prosthetics (1998)
-**Canonical Episode:** [`MME00077: Prosthetics`](../episodes/MME00077.md)
+**Episode:** [`MME00077: Prosthetics`](../episodes/MME00077.md)
 
 **Downloads:** [Credits JSON](json/MME00077-credits.json) • [Credits Plain Text](txt/MME00077-credits.txt)
 

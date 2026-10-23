@@ -1,5 +1,5 @@
 # Credit Roll: Assembly Lines (2000)
-**Canonical Episode:** [`MME00146: Assembly Lines`](../episodes/MME00146.md)
+**Episode:** [`MME00146: Assembly Lines`](../episodes/MME00146.md)
 
 **Downloads:** [Credits JSON](json/MME00146-credits.json) • [Credits Plain Text](txt/MME00146-credits.txt)
 

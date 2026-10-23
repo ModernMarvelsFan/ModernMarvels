@@ -1,5 +1,5 @@
 # Credit Roll: Adventure Machines (2021)
-**Canonical Episode:** [`MME00727: Adventure Machines`](../episodes/MME00727.md)
+**Episode:** [`MME00727: Adventure Machines`](../episodes/MME00727.md)
 
 **Downloads:** [Credits JSON](json/MME00727-credits.json) • [Credits Plain Text](txt/MME00727-credits.txt)
 

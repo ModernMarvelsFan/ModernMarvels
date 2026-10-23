@@ -1,5 +1,5 @@
 # Credit Roll: Top Toys & Games (2021)
-**Canonical Episode:** [`MME00733: Top Toys & Games`](../episodes/MME00733.md)
+**Episode:** [`MME00733: Top Toys & Games`](../episodes/MME00733.md)
 
 **Downloads:** [Credits JSON](json/MME00733-credits.json) • [Credits Plain Text](txt/MME00733-credits.txt)
 

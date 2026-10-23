@@ -1,5 +1,5 @@
 # Credit Roll: Coin Operated Plus (2022)
-**Canonical Episode:** [`MME00746: Coin Operated Plus`](../episodes/MME00746.md)
+**Episode:** [`MME00746: Coin Operated Plus`](../episodes/MME00746.md)
 
 **Downloads:** [Credits JSON](json/MME00746-credits.json) • [Credits Plain Text](txt/MME00746-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Tennessee Valley Authority (1995)
-**Canonical Episode:** [`MME00021: Tennessee Valley Authority`](../episodes/MME00021.md)
+**Episode:** [`MME00021: Tennessee Valley Authority`](../episodes/MME00021.md)
 
 **Downloads:** [Credits JSON](json/MME00021-credits.json) • [Credits Plain Text](txt/MME00021-credits.txt)
 

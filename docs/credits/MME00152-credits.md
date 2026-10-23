@@ -1,5 +1,5 @@
 # Credit Roll: Power Plants (2000)
-**Canonical Episode:** [`MME00152: Power Plants`](../episodes/MME00152.md)
+**Episode:** [`MME00152: Power Plants`](../episodes/MME00152.md)
 
 **Downloads:** [Credits JSON](json/MME00152-credits.json) • [Credits Plain Text](txt/MME00152-credits.txt)
 

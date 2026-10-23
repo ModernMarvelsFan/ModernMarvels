@@ -1,5 +1,5 @@
 # Credit Roll: The Transcontinental Railroad (1995)
-**Canonical Episode:** [`MME00008: The Transcontinental Railroad`](../episodes/MME00008.md)
+**Episode:** [`MME00008: The Transcontinental Railroad`](../episodes/MME00008.md)
 
 **Downloads:** [Credits JSON](json/MME00008-credits.json) • [Credits Plain Text](txt/MME00008-credits.txt)
 

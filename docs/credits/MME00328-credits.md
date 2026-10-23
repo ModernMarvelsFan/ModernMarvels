@@ -1,5 +1,5 @@
 # Credit Roll: Smart Bombs (2003)
-**Canonical Episode:** [`MME00328: Smart Bombs`](../episodes/MME00328.md)
+**Episode:** [`MME00328: Smart Bombs`](../episodes/MME00328.md)
 
 **Downloads:** [Credits JSON](json/MME00328-credits.json) • [Credits Plain Text](txt/MME00328-credits.txt)
 

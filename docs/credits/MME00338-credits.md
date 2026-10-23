@@ -1,5 +1,5 @@
 # Credit Roll: Shipyards (2003)
-**Canonical Episode:** [`MME00338: Shipyards`](../episodes/MME00338.md)
+**Episode:** [`MME00338: Shipyards`](../episodes/MME00338.md)
 
 **Downloads:** [Credits JSON](json/MME00338-credits.json) • [Credits Plain Text](txt/MME00338-credits.txt)
 

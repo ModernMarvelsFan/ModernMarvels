@@ -1,5 +1,5 @@
 # Credit Roll: Most Shocking (2007)
-**Canonical Episode:** [`MME00609: Most Shocking`](../episodes/MME00609.md)
+**Episode:** [`MME00609: Most Shocking`](../episodes/MME00609.md)
 
 **Downloads:** [Credits JSON](json/MME00609-credits.json) • [Credits Plain Text](txt/MME00609-credits.txt)
 

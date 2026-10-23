@@ -1,5 +1,5 @@
 # Credit Roll: Locomotives Plus (2022)
-**Canonical Episode:** [`MME00742: Locomotives Plus`](../episodes/MME00742.md)
+**Episode:** [`MME00742: Locomotives Plus`](../episodes/MME00742.md)
 
 **Downloads:** [Credits JSON](json/MME00742-credits.json) • [Credits Plain Text](txt/MME00742-credits.txt)
 

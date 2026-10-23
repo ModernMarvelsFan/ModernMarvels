@@ -1,5 +1,5 @@
 # Credit Roll: Hydraulics (2004)
-**Canonical Episode:** [`MME00372: Hydraulics`](../episodes/MME00372.md)
+**Episode:** [`MME00372: Hydraulics`](../episodes/MME00372.md)
 
 **Downloads:** [Credits JSON](json/MME00372-credits.json) • [Credits Plain Text](txt/MME00372-credits.txt)
 

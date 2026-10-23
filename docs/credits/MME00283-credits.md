@@ -1,5 +1,5 @@
 # Credit Roll: Titanic Tech (2003)
-**Canonical Episode:** [`MME00283: Titanic Tech`](../episodes/MME00283.md)
+**Episode:** [`MME00283: Titanic Tech`](../episodes/MME00283.md)
 
 **Downloads:** [Credits JSON](json/MME00283-credits.json) • [Credits Plain Text](txt/MME00283-credits.txt)
 

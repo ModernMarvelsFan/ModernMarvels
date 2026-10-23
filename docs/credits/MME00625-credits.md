@@ -1,5 +1,5 @@
 # Credit Roll: Axes (2008)
-**Canonical Episode:** [`MME00625: Axes`](../episodes/MME00625.md)
+**Episode:** [`MME00625: Axes`](../episodes/MME00625.md)
 
 **Downloads:** [Credits JSON](json/MME00625-credits.json) • [Credits Plain Text](txt/MME00625-credits.txt)
 

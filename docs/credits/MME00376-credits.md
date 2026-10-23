@@ -1,5 +1,5 @@
 # Credit Roll: D-Day Tech (2004)
-**Canonical Episode:** [`MME00376: D-Day Tech`](../episodes/MME00376.md)
+**Episode:** [`MME00376: D-Day Tech`](../episodes/MME00376.md)
 
 **Downloads:** [Credits JSON](json/MME00376-credits.json) • [Credits Plain Text](txt/MME00376-credits.txt)
 

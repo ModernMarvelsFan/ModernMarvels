@@ -1,5 +1,5 @@
 # Credit Roll: The Turkey (2008)
-**Canonical Episode:** [`MME00646: The Turkey`](../episodes/MME00646.md)
+**Episode:** [`MME00646: The Turkey`](../episodes/MME00646.md)
 
 **Downloads:** [Credits JSON](json/MME00646-credits.json) • [Credits Plain Text](txt/MME00646-credits.txt)
 

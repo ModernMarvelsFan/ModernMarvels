@@ -1,5 +1,5 @@
 # Credit Roll: Stealth Technology (1997)
-**Canonical Episode:** [`MME00039: Stealth Technology`](../episodes/MME00039.md)
+**Episode:** [`MME00039: Stealth Technology`](../episodes/MME00039.md)
 
 **Downloads:** [Credits JSON](json/MME00039-credits.json) • [Credits Plain Text](txt/MME00039-credits.txt)
 

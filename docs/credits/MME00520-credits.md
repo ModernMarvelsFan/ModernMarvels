@@ -1,5 +1,5 @@
 # Credit Roll: Drilling (2006)
-**Canonical Episode:** [`MME00520: Drilling`](../episodes/MME00520.md)
+**Episode:** [`MME00520: Drilling`](../episodes/MME00520.md)
 
 **Downloads:** [Credits JSON](json/MME00520-credits.json) • [Credits Plain Text](txt/MME00520-credits.txt)
 

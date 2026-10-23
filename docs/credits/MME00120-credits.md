@@ -1,5 +1,5 @@
 # Credit Roll: Space Stations (2000)
-**Canonical Episode:** [`MME00120: Space Stations`](../episodes/MME00120.md)
+**Episode:** [`MME00120: Space Stations`](../episodes/MME00120.md)
 
 **Downloads:** [Credits JSON](json/MME00120-credits.json) • [Credits Plain Text](txt/MME00120-credits.txt)
 

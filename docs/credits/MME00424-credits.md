@@ -1,5 +1,5 @@
 # Credit Roll: Engineering Disasters 15 (2004)
-**Canonical Episode:** [`MME00424: Engineering Disasters 15`](../episodes/MME00424.md)
+**Episode:** [`MME00424: Engineering Disasters 15`](../episodes/MME00424.md)
 
 **Downloads:** [Credits JSON](json/MME00424-credits.json) • [Credits Plain Text](txt/MME00424-credits.txt)
 

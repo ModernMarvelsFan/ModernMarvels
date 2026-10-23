@@ -1,5 +1,5 @@
 # Credit Roll: FBI's Crime Lab (2003)
-**Canonical Episode:** [`MME00335: FBI's Crime Lab`](../episodes/MME00335.md)
+**Episode:** [`MME00335: FBI's Crime Lab`](../episodes/MME00335.md)
 
 **Downloads:** [Credits JSON](json/MME00335-credits.json) • [Credits Plain Text](txt/MME00335-credits.txt)
 

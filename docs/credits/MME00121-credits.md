@@ -1,5 +1,5 @@
 # Credit Roll: Bridges (2000)
-**Canonical Episode:** [`MME00121: Bridges`](../episodes/MME00121.md)
+**Episode:** [`MME00121: Bridges`](../episodes/MME00121.md)
 
 **Downloads:** [Credits JSON](json/MME00121-credits.json) • [Credits Plain Text](txt/MME00121-credits.txt)
 

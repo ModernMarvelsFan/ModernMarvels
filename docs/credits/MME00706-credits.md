@@ -1,5 +1,5 @@
 # Credit Roll: Alaska (2012)
-**Canonical Episode:** [`MME00706: Alaska`](../episodes/MME00706.md)
+**Episode:** [`MME00706: Alaska`](../episodes/MME00706.md)
 
 **Downloads:** [Credits JSON](json/MME00706-credits.json) • [Credits Plain Text](txt/MME00706-credits.txt)
 

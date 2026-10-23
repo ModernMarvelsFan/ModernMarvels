@@ -1,5 +1,5 @@
 # Credit Roll: Tuna (2010)
-**Canonical Episode:** [`MME00660: Tuna`](../episodes/MME00660.md)
+**Episode:** [`MME00660: Tuna`](../episodes/MME00660.md)
 
 **Downloads:** [Credits JSON](json/MME00660-credits.json) • [Credits Plain Text](txt/MME00660-credits.txt)
 

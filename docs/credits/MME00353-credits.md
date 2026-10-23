@@ -1,5 +1,5 @@
 # Credit Roll: The Berlin Wall (2003)
-**Canonical Episode:** [`MME00353: The Berlin Wall`](../episodes/MME00353.md)
+**Episode:** [`MME00353: The Berlin Wall`](../episodes/MME00353.md)
 
 **Downloads:** [Credits JSON](json/MME00353-credits.json) • [Credits Plain Text](txt/MME00353-credits.txt)
 

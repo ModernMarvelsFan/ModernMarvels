@@ -1,5 +1,5 @@
 # Credit Roll: The World's Fastest (2005)
-**Canonical Episode:** [`MME00479: The World's Fastest`](../episodes/MME00479.md)
+**Episode:** [`MME00479: The World's Fastest`](../episodes/MME00479.md)
 
 **Downloads:** [Credits JSON](json/MME00479-credits.json) • [Credits Plain Text](txt/MME00479-credits.txt)
 

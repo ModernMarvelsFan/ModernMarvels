@@ -1,5 +1,5 @@
 # Credit Roll: Aircraft Carrier (2003)
-**Canonical Episode:** [`MME00317: Aircraft Carrier`](../episodes/MME00317.md)
+**Episode:** [`MME00317: Aircraft Carrier`](../episodes/MME00317.md)
 
 **Downloads:** [Credits JSON](json/MME00317-credits.json) • [Credits Plain Text](txt/MME00317-credits.txt)
 

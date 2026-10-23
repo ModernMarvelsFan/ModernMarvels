@@ -1,5 +1,5 @@
 # Credit Roll: Ancient Discoveries (1) (2004)
-**Canonical Episode:** [`MME00429: Ancient Discoveries (1)`](../episodes/MME00429.md)
+**Episode:** [`MME00429: Ancient Discoveries (1)`](../episodes/MME00429.md)
 
 **Downloads:** [Credits JSON](json/MME00429-credits.json) • [Credits Plain Text](txt/MME00429-credits.txt)
 

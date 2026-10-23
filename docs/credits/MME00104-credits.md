@@ -1,5 +1,5 @@
 # Credit Roll: Simulators (1999)
-**Canonical Episode:** [`MME00104: Simulators`](../episodes/MME00104.md)
+**Episode:** [`MME00104: Simulators`](../episodes/MME00104.md)
 
 **Downloads:** [Credits JSON](json/MME00104-credits.json) • [Credits Plain Text](txt/MME00104-credits.txt)
 

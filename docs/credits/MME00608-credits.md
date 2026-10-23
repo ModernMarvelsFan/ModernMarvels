@@ -1,5 +1,5 @@
 # Credit Roll: Rocks (2007)
-**Canonical Episode:** [`MME00608: Rocks`](../episodes/MME00608.md)
+**Episode:** [`MME00608: Rocks`](../episodes/MME00608.md)
 
 **Downloads:** [Credits JSON](json/MME00608-credits.json) • [Credits Plain Text](txt/MME00608-credits.txt)
 

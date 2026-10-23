@@ -1,5 +1,5 @@
 # Credit Roll: Crash Testing (1999)
-**Canonical Episode:** [`MME00100: Crash Testing`](../episodes/MME00100.md)
+**Episode:** [`MME00100: Crash Testing`](../episodes/MME00100.md)
 
 **Downloads:** [Credits JSON](json/MME00100-credits.json) • [Credits Plain Text](txt/MME00100-credits.txt)
 

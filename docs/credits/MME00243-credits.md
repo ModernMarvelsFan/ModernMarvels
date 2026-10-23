@@ -1,5 +1,5 @@
 # Credit Roll: Jet Engines (2002)
-**Canonical Episode:** [`MME00243: Jet Engines`](../episodes/MME00243.md)
+**Episode:** [`MME00243: Jet Engines`](../episodes/MME00243.md)
 
 **Downloads:** [Credits JSON](json/MME00243-credits.json) • [Credits Plain Text](txt/MME00243-credits.txt)
 

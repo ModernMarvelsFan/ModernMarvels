@@ -1,5 +1,5 @@
 # Credit Roll: Traps (2007)
-**Canonical Episode:** [`MME00597: Traps`](../episodes/MME00597.md)
+**Episode:** [`MME00597: Traps`](../episodes/MME00597.md)
 
 **Downloads:** [Credits JSON](json/MME00597-credits.json) • [Credits Plain Text](txt/MME00597-credits.txt)
 

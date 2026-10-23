@@ -1,5 +1,5 @@
 # Credit Roll: Fry It (2009)
-**Canonical Episode:** [`MME00653: Fry It`](../episodes/MME00653.md)
+**Episode:** [`MME00653: Fry It`](../episodes/MME00653.md)
 
 **Downloads:** [Credits JSON](json/MME00653-credits.json) • [Credits Plain Text](txt/MME00653-credits.txt)
 

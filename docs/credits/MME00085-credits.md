@@ -1,5 +1,5 @@
 # Credit Roll: Engineering Disasters (1999)
-**Canonical Episode:** [`MME00085: Engineering Disasters`](../episodes/MME00085.md)
+**Episode:** [`MME00085: Engineering Disasters`](../episodes/MME00085.md)
 
 **Downloads:** [Credits JSON](json/MME00085-credits.json) • [Credits Plain Text](txt/MME00085-credits.txt)
 

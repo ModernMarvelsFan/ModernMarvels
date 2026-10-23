@@ -1,5 +1,5 @@
 # Credit Roll: Bullets (2003)
-**Canonical Episode:** [`MME00316: Bullets`](../episodes/MME00316.md)
+**Episode:** [`MME00316: Bullets`](../episodes/MME00316.md)
 
 **Downloads:** [Credits JSON](json/MME00316-credits.json) • [Credits Plain Text](txt/MME00316-credits.txt)
 

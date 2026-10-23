@@ -1,5 +1,5 @@
 # Credit Roll: Mega Food Countdown (2012)
-**Canonical Episode:** [`MME00711: Mega Food Countdown`](../episodes/MME00711.md)
+**Episode:** [`MME00711: Mega Food Countdown`](../episodes/MME00711.md)
 
 **Downloads:** [Credits JSON](json/MME00711-credits.json) • [Credits Plain Text](txt/MME00711-credits.txt)
 

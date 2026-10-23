@@ -1,5 +1,5 @@
 # Credit Roll: MiG 15 (2003)
-**Canonical Episode:** [`MME00290: MiG 15`](../episodes/MME00290.md)
+**Episode:** [`MME00290: MiG 15`](../episodes/MME00290.md)
 
 **Downloads:** [Credits JSON](json/MME00290-credits.json) • [Credits Plain Text](txt/MME00290-credits.txt)
 

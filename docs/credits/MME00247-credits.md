@@ -1,5 +1,5 @@
 # Credit Roll: Magnets (2002)
-**Canonical Episode:** [`MME00247: Magnets`](../episodes/MME00247.md)
+**Episode:** [`MME00247: Magnets`](../episodes/MME00247.md)
 
 **Downloads:** [Credits JSON](json/MME00247-credits.json) • [Credits Plain Text](txt/MME00247-credits.txt)
 

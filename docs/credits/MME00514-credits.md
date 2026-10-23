@@ -1,5 +1,5 @@
 # Credit Roll: Engineering Disasters 19 (2006)
-**Canonical Episode:** [`MME00514: Engineering Disasters 19`](../episodes/MME00514.md)
+**Episode:** [`MME00514: Engineering Disasters 19`](../episodes/MME00514.md)
 
 **Downloads:** [Credits JSON](json/MME00514-credits.json) • [Credits Plain Text](txt/MME00514-credits.txt)
 

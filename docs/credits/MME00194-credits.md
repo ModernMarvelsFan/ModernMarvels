@@ -1,5 +1,5 @@
 # Credit Roll: Bunkers (2001)
-**Canonical Episode:** [`MME00194: Bunkers`](../episodes/MME00194.md)
+**Episode:** [`MME00194: Bunkers`](../episodes/MME00194.md)
 
 **Downloads:** [Credits JSON](json/MME00194-credits.json) • [Credits Plain Text](txt/MME00194-credits.txt)
 

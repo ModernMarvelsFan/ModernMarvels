@@ -1,5 +1,5 @@
 # Credit Roll: Towing (2002)
-**Canonical Episode:** [`MME00242: Towing`](../episodes/MME00242.md)
+**Episode:** [`MME00242: Towing`](../episodes/MME00242.md)
 
 **Downloads:** [Credits JSON](json/MME00242-credits.json) • [Credits Plain Text](txt/MME00242-credits.txt)
 

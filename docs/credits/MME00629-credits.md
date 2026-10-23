@@ -1,5 +1,5 @@
 # Credit Roll: Corpse Tech (2008)
-**Canonical Episode:** [`MME00629: Corpse Tech`](../episodes/MME00629.md)
+**Episode:** [`MME00629: Corpse Tech`](../episodes/MME00629.md)
 
 **Downloads:** [Credits JSON](json/MME00629-credits.json) • [Credits Plain Text](txt/MME00629-credits.txt)
 

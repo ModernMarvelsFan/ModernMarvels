@@ -1,5 +1,5 @@
 # Credit Roll: Food: Cheese (2021)
-**Canonical Episode:** [`MME00720: Food: Cheese`](../episodes/MME00720.md)
+**Episode:** [`MME00720: Food: Cheese`](../episodes/MME00720.md)
 
 **Downloads:** [Credits JSON](json/MME00720-credits.json) • [Credits Plain Text](txt/MME00720-credits.txt)
 

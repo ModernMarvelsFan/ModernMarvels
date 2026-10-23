@@ -1,5 +1,5 @@
 # Credit Roll: Bullet Trains (2003)
-**Canonical Episode:** [`MME00277: Bullet Trains`](../episodes/MME00277.md)
+**Episode:** [`MME00277: Bullet Trains`](../episodes/MME00277.md)
 
 **Downloads:** [Credits JSON](json/MME00277-credits.json) • [Credits Plain Text](txt/MME00277-credits.txt)
 

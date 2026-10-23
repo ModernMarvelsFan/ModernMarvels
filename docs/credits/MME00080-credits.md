@@ -1,5 +1,5 @@
 # Credit Roll: The Quest for Health (1999)
-**Canonical Episode:** [`MME00080: The Quest for Health`](../episodes/MME00080.md)
+**Episode:** [`MME00080: The Quest for Health`](../episodes/MME00080.md)
 
 **Downloads:** [Credits JSON](json/MME00080-credits.json) • [Credits Plain Text](txt/MME00080-credits.txt)
 

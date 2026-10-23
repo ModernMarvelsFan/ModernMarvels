@@ -1,5 +1,5 @@
 # Credit Roll: Video Games: Behind The Fun (2000)
-**Canonical Episode:** [`MME00141: Video Games: Behind The Fun`](../episodes/MME00141.md)
+**Episode:** [`MME00141: Video Games: Behind The Fun`](../episodes/MME00141.md)
 
 **Downloads:** [Credits JSON](json/MME00141-credits.json) • [Credits Plain Text](txt/MME00141-credits.txt)
 

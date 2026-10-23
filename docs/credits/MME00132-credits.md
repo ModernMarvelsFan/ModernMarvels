@@ -1,5 +1,5 @@
 # Credit Roll: Traffic (2000)
-**Canonical Episode:** [`MME00132: Traffic`](../episodes/MME00132.md)
+**Episode:** [`MME00132: Traffic`](../episodes/MME00132.md)
 
 **Downloads:** [Credits JSON](json/MME00132-credits.json) • [Credits Plain Text](txt/MME00132-credits.txt)
 

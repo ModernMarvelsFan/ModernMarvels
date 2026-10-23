@@ -1,5 +1,5 @@
 # Credit Roll: Survival Technology (2001)
-**Canonical Episode:** [`MME00162: Survival Technology`](../episodes/MME00162.md)
+**Episode:** [`MME00162: Survival Technology`](../episodes/MME00162.md)
 
 **Downloads:** [Credits JSON](json/MME00162-credits.json) • [Credits Plain Text](txt/MME00162-credits.txt)
 

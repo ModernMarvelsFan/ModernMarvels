@@ -1,5 +1,5 @@
 # Credit Roll: Edwards Air Force Base (2005)
-**Canonical Episode:** [`MME00448: Edwards Air Force Base`](../episodes/MME00448.md)
+**Episode:** [`MME00448: Edwards Air Force Base`](../episodes/MME00448.md)
 
 **Downloads:** [Credits JSON](json/MME00448-credits.json) • [Credits Plain Text](txt/MME00448-credits.txt)
 

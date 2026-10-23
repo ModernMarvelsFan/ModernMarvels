@@ -1,5 +1,5 @@
 # Credit Roll: Scuba And Deep Sea Diving (1999)
-**Canonical Episode:** [`MME00094: Scuba And Deep Sea Diving`](../episodes/MME00094.md)
+**Episode:** [`MME00094: Scuba And Deep Sea Diving`](../episodes/MME00094.md)
 
 **Downloads:** [Credits JSON](json/MME00094-credits.json) • [Credits Plain Text](txt/MME00094-credits.txt)
 

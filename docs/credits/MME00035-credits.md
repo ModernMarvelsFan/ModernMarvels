@@ -1,5 +1,5 @@
 # Credit Roll: The Computer (1996)
-**Canonical Episode:** [`MME00035: The Computer`](../episodes/MME00035.md)
+**Episode:** [`MME00035: The Computer`](../episodes/MME00035.md)
 
 **Downloads:** [Credits JSON](json/MME00035-credits.json) • [Credits Plain Text](txt/MME00035-credits.txt)
 

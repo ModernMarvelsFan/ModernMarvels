@@ -1,5 +1,5 @@
 # Credit Roll: Car Crashes (2003)
-**Canonical Episode:** [`MME00307: Car Crashes`](../episodes/MME00307.md)
+**Episode:** [`MME00307: Car Crashes`](../episodes/MME00307.md)
 
 **Downloads:** [Credits JSON](json/MME00307-credits.json) • [Credits Plain Text](txt/MME00307-credits.txt)
 

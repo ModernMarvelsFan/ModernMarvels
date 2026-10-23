@@ -1,5 +1,5 @@
 # Credit Roll: Barbarian Battle Tech (2007)
-**Canonical Episode:** [`MME00577: Barbarian Battle Tech`](../episodes/MME00577.md)
+**Episode:** [`MME00577: Barbarian Battle Tech`](../episodes/MME00577.md)
 
 **Downloads:** [Credits JSON](json/MME00577-credits.json) • [Credits Plain Text](txt/MME00577-credits.txt)
 

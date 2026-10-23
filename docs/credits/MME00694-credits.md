@@ -1,5 +1,5 @@
 # Credit Roll: Pocket Tools (2011)
-**Canonical Episode:** [`MME00694: Pocket Tools`](../episodes/MME00694.md)
+**Episode:** [`MME00694: Pocket Tools`](../episodes/MME00694.md)
 
 **Downloads:** [Credits JSON](json/MME00694-credits.json) • [Credits Plain Text](txt/MME00694-credits.txt)
 

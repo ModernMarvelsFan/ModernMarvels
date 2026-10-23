@@ -1,5 +1,5 @@
 # Credit Roll: Fire and Ice (2002)
-**Canonical Episode:** [`MME00226: Fire and Ice`](../episodes/MME00226.md)
+**Episode:** [`MME00226: Fire and Ice`](../episodes/MME00226.md)
 
 **Downloads:** [Credits JSON](json/MME00226-credits.json) • [Credits Plain Text](txt/MME00226-credits.txt)
 

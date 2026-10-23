@@ -1,5 +1,5 @@
 # Credit Roll: Athens Subway (2004)
-**Canonical Episode:** [`MME00387: Athens Subway`](../episodes/MME00387.md)
+**Episode:** [`MME00387: Athens Subway`](../episodes/MME00387.md)
 
 **Downloads:** [Credits JSON](json/MME00387-credits.json) • [Credits Plain Text](txt/MME00387-credits.txt)
 

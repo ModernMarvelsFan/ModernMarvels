@@ -1,5 +1,5 @@
 # Credit Roll: 90s Tech (2008)
-**Canonical Episode:** [`MME00614: 90s Tech`](../episodes/MME00614.md)
+**Episode:** [`MME00614: 90s Tech`](../episodes/MME00614.md)
 
 **Downloads:** [Credits JSON](json/MME00614-credits.json) • [Credits Plain Text](txt/MME00614-credits.txt)
 

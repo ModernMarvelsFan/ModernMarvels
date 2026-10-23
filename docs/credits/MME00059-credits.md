@@ -1,5 +1,5 @@
 # Credit Roll: Battlefield Engineering (1998)
-**Canonical Episode:** [`MME00059: Battlefield Engineering`](../episodes/MME00059.md)
+**Episode:** [`MME00059: Battlefield Engineering`](../episodes/MME00059.md)
 
 **Downloads:** [Credits JSON](json/MME00059-credits.json) • [Credits Plain Text](txt/MME00059-credits.txt)
 

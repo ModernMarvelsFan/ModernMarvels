@@ -1,5 +1,5 @@
 # Credit Roll: Under Pressure (2012)
-**Canonical Episode:** [`MME00704: Under Pressure`](../episodes/MME00704.md)
+**Episode:** [`MME00704: Under Pressure`](../episodes/MME00704.md)
 
 **Downloads:** [Credits JSON](json/MME00704-credits.json) • [Credits Plain Text](txt/MME00704-credits.txt)
 

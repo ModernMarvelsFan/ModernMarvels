@@ -1,5 +1,5 @@
 # Credit Roll: Snow (2006)
-**Canonical Episode:** [`MME00564: Snow`](../episodes/MME00564.md)
+**Episode:** [`MME00564: Snow`](../episodes/MME00564.md)
 
 **Downloads:** [Credits JSON](json/MME00564-credits.json) • [Credits Plain Text](txt/MME00564-credits.txt)
 

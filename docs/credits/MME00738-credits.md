@@ -1,5 +1,5 @@
 # Credit Roll: Maximum Horsepower (2022)
-**Canonical Episode:** [`MME00738: Maximum Horsepower`](../episodes/MME00738.md)
+**Episode:** [`MME00738: Maximum Horsepower`](../episodes/MME00738.md)
 
 **Downloads:** [Credits JSON](json/MME00738-credits.json) • [Credits Plain Text](txt/MME00738-credits.txt)
 

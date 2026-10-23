@@ -1,5 +1,5 @@
 # Credit Roll: Milk (2008)
-**Canonical Episode:** [`MME00612: Milk`](../episodes/MME00612.md)
+**Episode:** [`MME00612: Milk`](../episodes/MME00612.md)
 
 **Downloads:** [Credits JSON](json/MME00612-credits.json) • [Credits Plain Text](txt/MME00612-credits.txt)
 

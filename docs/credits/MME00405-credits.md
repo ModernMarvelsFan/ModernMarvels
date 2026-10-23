@@ -1,5 +1,5 @@
 # Credit Roll: Harvesting (2004)
-**Canonical Episode:** [`MME00405: Harvesting`](../episodes/MME00405.md)
+**Episode:** [`MME00405: Harvesting`](../episodes/MME00405.md)
 
 **Downloads:** [Credits JSON](json/MME00405-credits.json) • [Credits Plain Text](txt/MME00405-credits.txt)
 

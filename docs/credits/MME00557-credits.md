@@ -1,5 +1,5 @@
 # Credit Roll: Tomcat Sunset (2006)
-**Canonical Episode:** [`MME00557: Tomcat Sunset`](../episodes/MME00557.md)
+**Episode:** [`MME00557: Tomcat Sunset`](../episodes/MME00557.md)
 
 **Downloads:** [Credits JSON](json/MME00557-credits.json) • [Credits Plain Text](txt/MME00557-credits.txt)
 

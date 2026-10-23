@@ -1,5 +1,5 @@
 # Credit Roll: Fast Food Tech (2007)
-**Canonical Episode:** [`MME00611: Fast Food Tech`](../episodes/MME00611.md)
+**Episode:** [`MME00611: Fast Food Tech`](../episodes/MME00611.md)
 
 **Downloads:** [Credits JSON](json/MME00611-credits.json) • [Credits Plain Text](txt/MME00611-credits.txt)
 

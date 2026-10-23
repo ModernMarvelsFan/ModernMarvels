@@ -1,5 +1,5 @@
 # Credit Roll: Cotton (2006)
-**Canonical Episode:** [`MME00507: Cotton`](../episodes/MME00507.md)
+**Episode:** [`MME00507: Cotton`](../episodes/MME00507.md)
 
 **Downloads:** [Credits JSON](json/MME00507-credits.json) • [Credits Plain Text](txt/MME00507-credits.txt)
 

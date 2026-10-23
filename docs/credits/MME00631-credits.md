@@ -1,5 +1,5 @@
 # Credit Roll: Bathroom Tech II (2008)
-**Canonical Episode:** [`MME00631: Bathroom Tech II`](../episodes/MME00631.md)
+**Episode:** [`MME00631: Bathroom Tech II`](../episodes/MME00631.md)
 
 **Downloads:** [Credits JSON](json/MME00631-credits.json) • [Credits Plain Text](txt/MME00631-credits.txt)
 

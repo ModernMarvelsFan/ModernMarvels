@@ -1,5 +1,5 @@
 # Credit Roll: The Winchester (2002)
-**Canonical Episode:** [`MME00206: The Winchester`](../episodes/MME00206.md)
+**Episode:** [`MME00206: The Winchester`](../episodes/MME00206.md)
 
 **Downloads:** [Credits JSON](json/MME00206-credits.json) • [Credits Plain Text](txt/MME00206-credits.txt)
 

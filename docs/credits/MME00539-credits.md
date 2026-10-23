@@ -1,5 +1,5 @@
 # Credit Roll: Mummy Tech (2006)
-**Canonical Episode:** [`MME00539: Mummy Tech`](../episodes/MME00539.md)
+**Episode:** [`MME00539: Mummy Tech`](../episodes/MME00539.md)
 
 **Downloads:** [Credits JSON](json/MME00539-credits.json) • [Credits Plain Text](txt/MME00539-credits.txt)
 

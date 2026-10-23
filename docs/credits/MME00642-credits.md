@@ -1,5 +1,5 @@
 # Credit Roll: Corrosion & Decompositon (2008)
-**Canonical Episode:** [`MME00642: Corrosion & Decompositon`](../episodes/MME00642.md)
+**Episode:** [`MME00642: Corrosion & Decompositon`](../episodes/MME00642.md)
 
 **Downloads:** [Credits JSON](json/MME00642-credits.json) • [Credits Plain Text](txt/MME00642-credits.txt)
 

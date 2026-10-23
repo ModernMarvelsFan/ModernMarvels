@@ -1,5 +1,5 @@
 # Credit Roll: The Alaskan Oil Pipeline (1998)
-**Canonical Episode:** [`MME00057: The Alaskan Oil Pipeline`](../episodes/MME00057.md)
+**Episode:** [`MME00057: The Alaskan Oil Pipeline`](../episodes/MME00057.md)
 
 **Downloads:** [Credits JSON](json/MME00057-credits.json) • [Credits Plain Text](txt/MME00057-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Batteries (2006)
-**Canonical Episode:** [`MME00538: Batteries`](../episodes/MME00538.md)
+**Episode:** [`MME00538: Batteries`](../episodes/MME00538.md)
 
 **Downloads:** [Credits JSON](json/MME00538-credits.json) • [Credits Plain Text](txt/MME00538-credits.txt)
 

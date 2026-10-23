@@ -1,5 +1,5 @@
 # Credit Roll: Transatlantic Cable (1994)
-**Canonical Episode:** [`MME00006: Transatlantic Cable`](../episodes/MME00006.md)
+**Episode:** [`MME00006: Transatlantic Cable`](../episodes/MME00006.md)
 
 **Downloads:** [Credits JSON](json/MME00006-credits.json) • [Credits Plain Text](txt/MME00006-credits.txt)
 

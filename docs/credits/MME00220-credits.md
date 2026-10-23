@@ -1,5 +1,5 @@
 # Credit Roll: Engines (2002)
-**Canonical Episode:** [`MME00220: Engines`](../episodes/MME00220.md)
+**Episode:** [`MME00220: Engines`](../episodes/MME00220.md)
 
 **Downloads:** [Credits JSON](json/MME00220-credits.json) • [Credits Plain Text](txt/MME00220-credits.txt)
 

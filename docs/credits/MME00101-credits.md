@@ -1,5 +1,5 @@
 # Credit Roll: Parachutes (1999)
-**Canonical Episode:** [`MME00101: Parachutes`](../episodes/MME00101.md)
+**Episode:** [`MME00101: Parachutes`](../episodes/MME00101.md)
 
 **Downloads:** [Credits JSON](json/MME00101-credits.json) • [Credits Plain Text](txt/MME00101-credits.txt)
 

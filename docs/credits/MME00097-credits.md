@@ -1,5 +1,5 @@
 # Credit Roll: Hoover Dam (1999)
-**Canonical Episode:** [`MME00097: Hoover Dam`](../episodes/MME00097.md)
+**Episode:** [`MME00097: Hoover Dam`](../episodes/MME00097.md)
 
 **Downloads:** [Credits JSON](json/MME00097-credits.json) • [Credits Plain Text](txt/MME00097-credits.txt)
 

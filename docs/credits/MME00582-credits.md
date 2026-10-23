@@ -1,5 +1,5 @@
 # Credit Roll: Welding (2007)
-**Canonical Episode:** [`MME00582: Welding`](../episodes/MME00582.md)
+**Episode:** [`MME00582: Welding`](../episodes/MME00582.md)
 
 **Downloads:** [Credits JSON](json/MME00582-credits.json) • [Credits Plain Text](txt/MME00582-credits.txt)
 

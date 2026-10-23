@@ -1,5 +1,5 @@
 # Credit Roll: Metal (2003)
-**Canonical Episode:** [`MME00319: Metal`](../episodes/MME00319.md)
+**Episode:** [`MME00319: Metal`](../episodes/MME00319.md)
 
 **Downloads:** [Credits JSON](json/MME00319-credits.json) • [Credits Plain Text](txt/MME00319-credits.txt)
 

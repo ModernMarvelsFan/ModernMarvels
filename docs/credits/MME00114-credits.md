@@ -1,5 +1,5 @@
 # Credit Roll: Casino Technology (1999)
-**Canonical Episode:** [`MME00114: Casino Technology`](../episodes/MME00114.md)
+**Episode:** [`MME00114: Casino Technology`](../episodes/MME00114.md)
 
 **Downloads:** [Credits JSON](json/MME00114-credits.json) • [Credits Plain Text](txt/MME00114-credits.txt)
 

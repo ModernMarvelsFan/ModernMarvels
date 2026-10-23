@@ -1,5 +1,5 @@
 # Credit Roll: BBQ Tech (2006)
-**Canonical Episode:** [`MME00526: BBQ Tech`](../episodes/MME00526.md)
+**Episode:** [`MME00526: BBQ Tech`](../episodes/MME00526.md)
 
 **Downloads:** [Credits JSON](json/MME00526-credits.json) • [Credits Plain Text](txt/MME00526-credits.txt)
 

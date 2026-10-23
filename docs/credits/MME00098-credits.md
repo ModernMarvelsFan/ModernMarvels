@@ -1,5 +1,5 @@
 # Credit Roll: Baseball Parks (1999)
-**Canonical Episode:** [`MME00098: Baseball Parks`](../episodes/MME00098.md)
+**Episode:** [`MME00098: Baseball Parks`](../episodes/MME00098.md)
 
 **Downloads:** [Credits JSON](json/MME00098-credits.json) • [Credits Plain Text](txt/MME00098-credits.txt)
 

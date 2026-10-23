@@ -1,5 +1,5 @@
 # Credit Roll: Snack Food Tech (2004)
-**Canonical Episode:** [`MME00425: Snack Food Tech`](../episodes/MME00425.md)
+**Episode:** [`MME00425: Snack Food Tech`](../episodes/MME00425.md)
 
 **Downloads:** [Credits JSON](json/MME00425-credits.json) • [Credits Plain Text](txt/MME00425-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Pacific Coast Highway (2004)
-**Canonical Episode:** [`MME00359: Pacific Coast Highway`](../episodes/MME00359.md)
+**Episode:** [`MME00359: Pacific Coast Highway`](../episodes/MME00359.md)
 
 **Downloads:** [Credits JSON](json/MME00359-credits.json) • [Credits Plain Text](txt/MME00359-credits.txt)
 

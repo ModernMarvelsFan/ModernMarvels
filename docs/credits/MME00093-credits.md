@@ -1,5 +1,5 @@
 # Credit Roll: Rescue Equipment (1999)
-**Canonical Episode:** [`MME00093: Rescue Equipment`](../episodes/MME00093.md)
+**Episode:** [`MME00093: Rescue Equipment`](../episodes/MME00093.md)
 
 **Downloads:** [Credits JSON](json/MME00093-credits.json) • [Credits Plain Text](txt/MME00093-credits.txt)
 

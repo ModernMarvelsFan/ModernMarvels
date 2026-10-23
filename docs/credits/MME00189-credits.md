@@ -1,5 +1,5 @@
 # Credit Roll: Quarries (2001)
-**Canonical Episode:** [`MME00189: Quarries`](../episodes/MME00189.md)
+**Episode:** [`MME00189: Quarries`](../episodes/MME00189.md)
 
 **Downloads:** [Credits JSON](json/MME00189-credits.json) • [Credits Plain Text](txt/MME00189-credits.txt)
 

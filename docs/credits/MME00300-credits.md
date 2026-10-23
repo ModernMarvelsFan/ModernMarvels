@@ -1,5 +1,5 @@
 # Credit Roll: Dangerous Cargo (2003)
-**Canonical Episode:** [`MME00300: Dangerous Cargo`](../episodes/MME00300.md)
+**Episode:** [`MME00300: Dangerous Cargo`](../episodes/MME00300.md)
 
 **Downloads:** [Credits JSON](json/MME00300-credits.json) • [Credits Plain Text](txt/MME00300-credits.txt)
 

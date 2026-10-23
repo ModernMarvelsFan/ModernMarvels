@@ -1,5 +1,5 @@
 # Credit Roll: Wiring America (2005)
-**Canonical Episode:** [`MME00482: Wiring America`](../episodes/MME00482.md)
+**Episode:** [`MME00482: Wiring America`](../episodes/MME00482.md)
 
 **Downloads:** [Credits JSON](json/MME00482-credits.json) • [Credits Plain Text](txt/MME00482-credits.txt)
 

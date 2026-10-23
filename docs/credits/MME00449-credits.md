@@ -1,5 +1,5 @@
 # Credit Roll: Taxidermy (2005)
-**Canonical Episode:** [`MME00449: Taxidermy`](../episodes/MME00449.md)
+**Episode:** [`MME00449: Taxidermy`](../episodes/MME00449.md)
 
 **Downloads:** [Credits JSON](json/MME00449-credits.json) • [Credits Plain Text](txt/MME00449-credits.txt)
 

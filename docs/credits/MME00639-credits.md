@@ -1,5 +1,5 @@
 # Credit Roll: Dangerous Roads (2008)
-**Canonical Episode:** [`MME00639: Dangerous Roads`](../episodes/MME00639.md)
+**Episode:** [`MME00639: Dangerous Roads`](../episodes/MME00639.md)
 
 **Downloads:** [Credits JSON](json/MME00639-credits.json) • [Credits Plain Text](txt/MME00639-credits.txt)
 

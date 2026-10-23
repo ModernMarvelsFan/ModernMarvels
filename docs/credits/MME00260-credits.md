@@ -1,5 +1,5 @@
 # Credit Roll: Limos (2002)
-**Canonical Episode:** [`MME00260: Limos`](../episodes/MME00260.md)
+**Episode:** [`MME00260: Limos`](../episodes/MME00260.md)
 
 **Downloads:** [Credits JSON](json/MME00260-credits.json) • [Credits Plain Text](txt/MME00260-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: World War I Tech (2004)
-**Canonical Episode:** [`MME00384: World War I Tech`](../episodes/MME00384.md)
+**Episode:** [`MME00384: World War I Tech`](../episodes/MME00384.md)
 
 **Downloads:** [Credits JSON](json/MME00384-credits.json) • [Credits Plain Text](txt/MME00384-credits.txt)
 

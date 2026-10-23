@@ -1,5 +1,5 @@
 # Credit Roll: Heavy Metals (2006)
-**Canonical Episode:** [`MME00524: Heavy Metals`](../episodes/MME00524.md)
+**Episode:** [`MME00524: Heavy Metals`](../episodes/MME00524.md)
 
 **Downloads:** [Credits JSON](json/MME00524-credits.json) • [Credits Plain Text](txt/MME00524-credits.txt)
 

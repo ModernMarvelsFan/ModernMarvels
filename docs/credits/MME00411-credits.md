@@ -1,5 +1,5 @@
 # Credit Roll: Engineering Disasters 11 (2004)
-**Canonical Episode:** [`MME00411: Engineering Disasters 11`](../episodes/MME00411.md)
+**Episode:** [`MME00411: Engineering Disasters 11`](../episodes/MME00411.md)
 
 **Downloads:** [Credits JSON](json/MME00411-credits.json) • [Credits Plain Text](txt/MME00411-credits.txt)
 

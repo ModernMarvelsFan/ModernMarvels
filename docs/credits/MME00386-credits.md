@@ -1,5 +1,5 @@
 # Credit Roll: Oil Tankers (2004)
-**Canonical Episode:** [`MME00386: Oil Tankers`](../episodes/MME00386.md)
+**Episode:** [`MME00386: Oil Tankers`](../episodes/MME00386.md)
 
 **Downloads:** [Credits JSON](json/MME00386-credits.json) • [Credits Plain Text](txt/MME00386-credits.txt)
 

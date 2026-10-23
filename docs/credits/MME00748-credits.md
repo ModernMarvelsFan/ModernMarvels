@@ -1,5 +1,5 @@
 # Credit Roll: Yard Tech Plus (2022)
-**Canonical Episode:** [`MME00748: Yard Tech Plus`](../episodes/MME00748.md)
+**Episode:** [`MME00748: Yard Tech Plus`](../episodes/MME00748.md)
 
 **Downloads:** [Credits JSON](json/MME00748-credits.json) • [Credits Plain Text](txt/MME00748-credits.txt)
 

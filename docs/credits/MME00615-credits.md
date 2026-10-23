@@ -1,5 +1,5 @@
 # Credit Roll: Superhighways (2008)
-**Canonical Episode:** [`MME00615: Superhighways`](../episodes/MME00615.md)
+**Episode:** [`MME00615: Superhighways`](../episodes/MME00615.md)
 
 **Downloads:** [Credits JSON](json/MME00615-credits.json) • [Credits Plain Text](txt/MME00615-credits.txt)
 

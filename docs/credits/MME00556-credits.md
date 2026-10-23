@@ -1,5 +1,5 @@
 # Credit Roll: World's Strongest (2006)
-**Canonical Episode:** [`MME00556: World's Strongest`](../episodes/MME00556.md)
+**Episode:** [`MME00556: World's Strongest`](../episodes/MME00556.md)
 
 **Downloads:** [Credits JSON](json/MME00556-credits.json) • [Credits Plain Text](txt/MME00556-credits.txt)
 

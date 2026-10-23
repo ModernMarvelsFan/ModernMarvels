@@ -1,5 +1,5 @@
 # Credit Roll: The Basement (2005)
-**Canonical Episode:** [`MME00453: The Basement`](../episodes/MME00453.md)
+**Episode:** [`MME00453: The Basement`](../episodes/MME00453.md)
 
 **Downloads:** [Credits JSON](json/MME00453-credits.json) • [Credits Plain Text](txt/MME00453-credits.txt)
 

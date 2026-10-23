@@ -1,5 +1,5 @@
 # Credit Roll: Food: Snacks (2021)
-**Canonical Episode:** [`MME00723: Food: Snacks`](../episodes/MME00723.md)
+**Episode:** [`MME00723: Food: Snacks`](../episodes/MME00723.md)
 
 **Downloads:** [Credits JSON](json/MME00723-credits.json) • [Credits Plain Text](txt/MME00723-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: The Butcher (2005)
-**Canonical Episode:** [`MME00441: The Butcher`](../episodes/MME00441.md)
+**Episode:** [`MME00441: The Butcher`](../episodes/MME00441.md)
 
 **Downloads:** [Credits JSON](json/MME00441-credits.json) • [Credits Plain Text](txt/MME00441-credits.txt)
 

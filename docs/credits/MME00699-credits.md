@@ -1,5 +1,5 @@
 # Credit Roll: Stink (2011)
-**Canonical Episode:** [`MME00699: Stink`](../episodes/MME00699.md)
+**Episode:** [`MME00699: Stink`](../episodes/MME00699.md)
 
 **Downloads:** [Credits JSON](json/MME00699-credits.json) • [Credits Plain Text](txt/MME00699-credits.txt)
 

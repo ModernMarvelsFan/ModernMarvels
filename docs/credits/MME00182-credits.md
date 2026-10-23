@@ -1,5 +1,5 @@
 # Credit Roll: Saloons (2001)
-**Canonical Episode:** [`MME00182: Saloons`](../episodes/MME00182.md)
+**Episode:** [`MME00182: Saloons`](../episodes/MME00182.md)
 
 **Downloads:** [Credits JSON](json/MME00182-credits.json) • [Credits Plain Text](txt/MME00182-credits.txt)
 

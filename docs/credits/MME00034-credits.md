@@ -1,5 +1,5 @@
 # Credit Roll: Television (1996)
-**Canonical Episode:** [`MME00034: Television`](../episodes/MME00034.md)
+**Episode:** [`MME00034: Television`](../episodes/MME00034.md)
 
 **Downloads:** [Credits JSON](json/MME00034-credits.json) • [Credits Plain Text](txt/MME00034-credits.txt)
 

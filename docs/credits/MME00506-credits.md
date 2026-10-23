@@ -1,5 +1,5 @@
 # Credit Roll: Fire (2006)
-**Canonical Episode:** [`MME00506: Fire`](../episodes/MME00506.md)
+**Episode:** [`MME00506: Fire`](../episodes/MME00506.md)
 
 **Downloads:** [Credits JSON](json/MME00506-credits.json) • [Credits Plain Text](txt/MME00506-credits.txt)
 

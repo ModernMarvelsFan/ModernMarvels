@@ -1,5 +1,5 @@
 # Credit Roll: Fast Food (2021)
-**Canonical Episode:** [`MME00725: Fast Food`](../episodes/MME00725.md)
+**Episode:** [`MME00725: Fast Food`](../episodes/MME00725.md)
 
 **Downloads:** [Credits JSON](json/MME00725-credits.json) • [Credits Plain Text](txt/MME00725-credits.txt)
 

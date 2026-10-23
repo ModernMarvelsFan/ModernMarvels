@@ -1,5 +1,5 @@
 # Credit Roll: Lake Pontchartrain Causeway (2003)
-**Canonical Episode:** [`MME00329: Lake Pontchartrain Causeway`](../episodes/MME00329.md)
+**Episode:** [`MME00329: Lake Pontchartrain Causeway`](../episodes/MME00329.md)
 
 **Downloads:** [Credits JSON](json/MME00329-credits.json) • [Credits Plain Text](txt/MME00329-credits.txt)
 

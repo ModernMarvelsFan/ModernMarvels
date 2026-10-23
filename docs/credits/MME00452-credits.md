@@ -1,5 +1,5 @@
 # Credit Roll: The Doomsday Clock (2005)
-**Canonical Episode:** [`MME00452: The Doomsday Clock`](../episodes/MME00452.md)
+**Episode:** [`MME00452: The Doomsday Clock`](../episodes/MME00452.md)
 
 **Downloads:** [Credits JSON](json/MME00452-credits.json) • [Credits Plain Text](txt/MME00452-credits.txt)
 

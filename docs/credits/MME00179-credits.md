@@ -1,5 +1,5 @@
 # Credit Roll: The Colosseum (2001)
-**Canonical Episode:** [`MME00179: The Colosseum`](../episodes/MME00179.md)
+**Episode:** [`MME00179: The Colosseum`](../episodes/MME00179.md)
 
 **Downloads:** [Credits JSON](json/MME00179-credits.json) • [Credits Plain Text](txt/MME00179-credits.txt)
 

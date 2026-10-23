@@ -1,5 +1,5 @@
 # Credit Roll: Crashes (2008)
-**Canonical Episode:** [`MME00632: Crashes`](../episodes/MME00632.md)
+**Episode:** [`MME00632: Crashes`](../episodes/MME00632.md)
 
 **Downloads:** [Credits JSON](json/MME00632-credits.json) • [Credits Plain Text](txt/MME00632-credits.txt)
 

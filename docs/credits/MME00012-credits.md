@@ -1,5 +1,5 @@
 # Credit Roll: Statue of Liberty (1995)
-**Canonical Episode:** [`MME00012: Statue of Liberty`](../episodes/MME00012.md)
+**Episode:** [`MME00012: Statue of Liberty`](../episodes/MME00012.md)
 
 **Downloads:** [Credits JSON](json/MME00012-credits.json) • [Credits Plain Text](txt/MME00012-credits.txt)
 

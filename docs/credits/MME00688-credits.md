@@ -1,5 +1,5 @@
 # Credit Roll: Grease (2011)
-**Canonical Episode:** [`MME00688: Grease`](../episodes/MME00688.md)
+**Episode:** [`MME00688: Grease`](../episodes/MME00688.md)
 
 **Downloads:** [Credits JSON](json/MME00688-credits.json) • [Credits Plain Text](txt/MME00688-credits.txt)
 

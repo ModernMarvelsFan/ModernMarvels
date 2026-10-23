@@ -1,5 +1,5 @@
 # Credit Roll: Shoes (2012)
-**Canonical Episode:** [`MME00705: Shoes`](../episodes/MME00705.md)
+**Episode:** [`MME00705: Shoes`](../episodes/MME00705.md)
 
 **Downloads:** [Credits JSON](json/MME00705-credits.json) • [Credits Plain Text](txt/MME00705-credits.txt)
 

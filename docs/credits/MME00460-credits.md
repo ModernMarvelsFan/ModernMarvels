@@ -1,5 +1,5 @@
 # Credit Roll: F/A-22 Raptor (2005)
-**Canonical Episode:** [`MME00460: F/A-22 Raptor`](../episodes/MME00460.md)
+**Episode:** [`MME00460: F/A-22 Raptor`](../episodes/MME00460.md)
 
 **Downloads:** [Credits JSON](json/MME00460-credits.json) • [Credits Plain Text](txt/MME00460-credits.txt)
 

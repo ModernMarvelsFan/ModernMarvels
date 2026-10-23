@@ -1,5 +1,5 @@
 # Credit Roll: Bombs (1998)
-**Canonical Episode:** [`MME00076: Bombs`](../episodes/MME00076.md)
+**Episode:** [`MME00076: Bombs`](../episodes/MME00076.md)
 
 **Downloads:** [Credits JSON](json/MME00076-credits.json) • [Credits Plain Text](txt/MME00076-credits.txt)
 

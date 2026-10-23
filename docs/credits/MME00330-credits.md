@@ -1,5 +1,5 @@
 # Credit Roll: Inviting Disaster 1: Three Mile Island (2003)
-**Canonical Episode:** [`MME00330: Inviting Disaster 1: Three Mile Island`](../episodes/MME00330.md)
+**Episode:** [`MME00330: Inviting Disaster 1: Three Mile Island`](../episodes/MME00330.md)
 
 **Downloads:** [Credits JSON](json/MME00330-credits.json) • [Credits Plain Text](txt/MME00330-credits.txt)
 

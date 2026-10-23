@@ -1,5 +1,5 @@
 # Credit Roll: Civil War Tech (2005)
-**Canonical Episode:** [`MME00461: Civil War Tech`](../episodes/MME00461.md)
+**Episode:** [`MME00461: Civil War Tech`](../episodes/MME00461.md)
 
 **Downloads:** [Credits JSON](json/MME00461-credits.json) • [Credits Plain Text](txt/MME00461-credits.txt)
 

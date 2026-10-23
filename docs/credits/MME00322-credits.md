@@ -1,5 +1,5 @@
 # Credit Roll: Overseas Highway (2003)
-**Canonical Episode:** [`MME00322: Overseas Highway`](../episodes/MME00322.md)
+**Episode:** [`MME00322: Overseas Highway`](../episodes/MME00322.md)
 
 **Downloads:** [Credits JSON](json/MME00322-credits.json) • [Credits Plain Text](txt/MME00322-credits.txt)
 

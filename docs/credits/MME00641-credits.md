@@ -1,5 +1,5 @@
 # Credit Roll: Soft Drinks (2008)
-**Canonical Episode:** [`MME00641: Soft Drinks`](../episodes/MME00641.md)
+**Episode:** [`MME00641: Soft Drinks`](../episodes/MME00641.md)
 
 **Downloads:** [Credits JSON](json/MME00641-credits.json) • [Credits Plain Text](txt/MME00641-credits.txt)
 

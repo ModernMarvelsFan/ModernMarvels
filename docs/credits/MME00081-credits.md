@@ -1,5 +1,5 @@
 # Credit Roll: Mail Delivery (1999)
-**Canonical Episode:** [`MME00081: Mail Delivery`](../episodes/MME00081.md)
+**Episode:** [`MME00081: Mail Delivery`](../episodes/MME00081.md)
 
 **Downloads:** [Credits JSON](json/MME00081-credits.json) • [Credits Plain Text](txt/MME00081-credits.txt)
 

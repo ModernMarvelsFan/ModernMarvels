@@ -1,5 +1,5 @@
 # Credit Roll: Brewing (2005)
-**Canonical Episode:** [`MME00495: Brewing`](../episodes/MME00495.md)
+**Episode:** [`MME00495: Brewing`](../episodes/MME00495.md)
 
 **Downloads:** [Credits JSON](json/MME00495-credits.json) • [Credits Plain Text](txt/MME00495-credits.txt)
 

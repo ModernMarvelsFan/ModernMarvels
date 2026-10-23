@@ -1,5 +1,5 @@
 # Credit Roll: Hunting Gear (2002)
-**Canonical Episode:** [`MME00233: Hunting Gear`](../episodes/MME00233.md)
+**Episode:** [`MME00233: Hunting Gear`](../episodes/MME00233.md)
 
 **Downloads:** [Credits JSON](json/MME00233-credits.json) • [Credits Plain Text](txt/MME00233-credits.txt)
 

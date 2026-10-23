@@ -1,5 +1,5 @@
 # Credit Roll: Nature Tech: Hurricanes (2005)
-**Canonical Episode:** [`MME00504: Nature Tech: Hurricanes`](../episodes/MME00504.md)
+**Episode:** [`MME00504: Nature Tech: Hurricanes`](../episodes/MME00504.md)
 
 **Downloads:** [Credits JSON](json/MME00504-credits.json) • [Credits Plain Text](txt/MME00504-credits.txt)
 

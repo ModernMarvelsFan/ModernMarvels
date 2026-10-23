@@ -1,5 +1,5 @@
 # Credit Roll: Machine Tools (2000)
-**Canonical Episode:** [`MME00144: Machine Tools`](../episodes/MME00144.md)
+**Episode:** [`MME00144: Machine Tools`](../episodes/MME00144.md)
 
 **Downloads:** [Credits JSON](json/MME00144-credits.json) • [Credits Plain Text](txt/MME00144-credits.txt)
 

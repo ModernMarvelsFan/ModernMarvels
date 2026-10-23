@@ -1,5 +1,5 @@
 # Credit Roll: It Came From Outer Space (2007)
-**Canonical Episode:** [`MME00584: It Came From Outer Space`](../episodes/MME00584.md)
+**Episode:** [`MME00584: It Came From Outer Space`](../episodes/MME00584.md)
 
 **Downloads:** [Credits JSON](json/MME00584-credits.json) • [Credits Plain Text](txt/MME00584-credits.txt)
 

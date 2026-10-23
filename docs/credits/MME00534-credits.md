@@ -1,5 +1,5 @@
 # Credit Roll: Nuts (2006)
-**Canonical Episode:** [`MME00534: Nuts`](../episodes/MME00534.md)
+**Episode:** [`MME00534: Nuts`](../episodes/MME00534.md)
 
 **Downloads:** [Credits JSON](json/MME00534-credits.json) • [Credits Plain Text](txt/MME00534-credits.txt)
 

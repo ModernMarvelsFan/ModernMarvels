@@ -1,5 +1,5 @@
 # Credit Roll: Antibiotics: The Wonder Drugs (1998)
-**Canonical Episode:** [`MME00069: Antibiotics: The Wonder Drugs`](../episodes/MME00069.md)
+**Episode:** [`MME00069: Antibiotics: The Wonder Drugs`](../episodes/MME00069.md)
 
 **Downloads:** [Credits JSON](json/MME00069-credits.json) • [Credits Plain Text](txt/MME00069-credits.txt)
 

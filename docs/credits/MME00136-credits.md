@@ -1,5 +1,5 @@
 # Credit Roll: The Erie Canal (2000)
-**Canonical Episode:** [`MME00136: The Erie Canal`](../episodes/MME00136.md)
+**Episode:** [`MME00136: The Erie Canal`](../episodes/MME00136.md)
 
 **Downloads:** [Credits JSON](json/MME00136-credits.json) • [Credits Plain Text](txt/MME00136-credits.txt)
 

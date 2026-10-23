@@ -1,5 +1,5 @@
 # Credit Roll: Siege Machines (2002)
-**Canonical Episode:** [`MME00217: Siege Machines`](../episodes/MME00217.md)
+**Episode:** [`MME00217: Siege Machines`](../episodes/MME00217.md)
 
 **Downloads:** [Credits JSON](json/MME00217-credits.json) • [Credits Plain Text](txt/MME00217-credits.txt)
 

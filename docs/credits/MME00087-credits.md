@@ -1,5 +1,5 @@
 # Credit Roll: City Parks (1999)
-**Canonical Episode:** [`MME00087: City Parks`](../episodes/MME00087.md)
+**Episode:** [`MME00087: City Parks`](../episodes/MME00087.md)
 
 **Downloads:** [Credits JSON](json/MME00087-credits.json) • [Credits Plain Text](txt/MME00087-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Acid (2007)
-**Canonical Episode:** [`MME00602: Acid`](../episodes/MME00602.md)
+**Episode:** [`MME00602: Acid`](../episodes/MME00602.md)
 
 **Downloads:** [Credits JSON](json/MME00602-credits.json) • [Credits Plain Text](txt/MME00602-credits.txt)
 

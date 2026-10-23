@@ -1,5 +1,5 @@
 # Credit Roll: Beans (2010)
-**Canonical Episode:** [`MME00665: Beans`](../episodes/MME00665.md)
+**Episode:** [`MME00665: Beans`](../episodes/MME00665.md)
 
 **Downloads:** [Credits JSON](json/MME00665-credits.json) • [Credits Plain Text](txt/MME00665-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Weapons of Mass Destruction (2007)
-**Canonical Episode:** [`MME00576: Weapons of Mass Destruction`](../episodes/MME00576.md)
+**Episode:** [`MME00576: Weapons of Mass Destruction`](../episodes/MME00576.md)
 
 **Downloads:** [Credits JSON](json/MME00576-credits.json) • [Credits Plain Text](txt/MME00576-credits.txt)
 

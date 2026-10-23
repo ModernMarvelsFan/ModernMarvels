@@ -1,5 +1,5 @@
 # Credit Roll: The Autobahn (2002)
-**Canonical Episode:** [`MME00249: The Autobahn`](../episodes/MME00249.md)
+**Episode:** [`MME00249: The Autobahn`](../episodes/MME00249.md)
 
 **Downloads:** [Credits JSON](json/MME00249-credits.json) • [Credits Plain Text](txt/MME00249-credits.txt)
 

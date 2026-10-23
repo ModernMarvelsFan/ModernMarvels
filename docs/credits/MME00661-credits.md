@@ -1,5 +1,5 @@
 # Credit Roll: Winter Tech (2010)
-**Canonical Episode:** [`MME00661: Winter Tech`](../episodes/MME00661.md)
+**Episode:** [`MME00661: Winter Tech`](../episodes/MME00661.md)
 
 **Downloads:** [Credits JSON](json/MME00661-credits.json) • [Credits Plain Text](txt/MME00661-credits.txt)
 

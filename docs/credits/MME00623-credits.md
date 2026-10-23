@@ -1,5 +1,5 @@
 # Credit Roll: Rats (2008)
-**Canonical Episode:** [`MME00623: Rats`](../episodes/MME00623.md)
+**Episode:** [`MME00623: Rats`](../episodes/MME00623.md)
 
 **Downloads:** [Credits JSON](json/MME00623-credits.json) • [Credits Plain Text](txt/MME00623-credits.txt)
 

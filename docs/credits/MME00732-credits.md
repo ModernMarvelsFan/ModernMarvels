@@ -1,5 +1,5 @@
 # Credit Roll: Classic Toys (2021)
-**Canonical Episode:** [`MME00732: Classic Toys`](../episodes/MME00732.md)
+**Episode:** [`MME00732: Classic Toys`](../episodes/MME00732.md)
 
 **Downloads:** [Credits JSON](json/MME00732-credits.json) • [Credits Plain Text](txt/MME00732-credits.txt)
 

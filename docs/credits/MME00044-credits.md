@@ -1,5 +1,5 @@
 # Credit Roll: Polio Vaccine (1997)
-**Canonical Episode:** [`MME00044: Polio Vaccine`](../episodes/MME00044.md)
+**Episode:** [`MME00044: Polio Vaccine`](../episodes/MME00044.md)
 
 **Downloads:** [Credits JSON](json/MME00044-credits.json) • [Credits Plain Text](txt/MME00044-credits.txt)
 

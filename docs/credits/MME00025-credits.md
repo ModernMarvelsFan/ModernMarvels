@@ -1,5 +1,5 @@
 # Credit Roll: Paving America (1995)
-**Canonical Episode:** [`MME00025: Paving America`](../episodes/MME00025.md)
+**Episode:** [`MME00025: Paving America`](../episodes/MME00025.md)
 
 **Downloads:** [Credits JSON](json/MME00025-credits.json) • [Credits Plain Text](txt/MME00025-credits.txt)
 

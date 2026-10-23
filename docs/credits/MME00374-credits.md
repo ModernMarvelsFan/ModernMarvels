@@ -1,5 +1,5 @@
 # Credit Roll: Plane Crashes (2004)
-**Canonical Episode:** [`MME00374: Plane Crashes`](../episodes/MME00374.md)
+**Episode:** [`MME00374: Plane Crashes`](../episodes/MME00374.md)
 
 **Downloads:** [Credits JSON](json/MME00374-credits.json) • [Credits Plain Text](txt/MME00374-credits.txt)
 

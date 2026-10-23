@@ -1,5 +1,5 @@
 # Credit Roll: American Steel: Built to Last (1998)
-**Canonical Episode:** [`MME00058: American Steel: Built to Last`](../episodes/MME00058.md)
+**Episode:** [`MME00058: American Steel: Built to Last`](../episodes/MME00058.md)
 
 **Downloads:** [Credits JSON](json/MME00058-credits.json) • [Credits Plain Text](txt/MME00058-credits.txt)
 

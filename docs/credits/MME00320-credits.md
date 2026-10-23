@@ -1,5 +1,5 @@
 # Credit Roll: Landmines (2003)
-**Canonical Episode:** [`MME00320: Landmines`](../episodes/MME00320.md)
+**Episode:** [`MME00320: Landmines`](../episodes/MME00320.md)
 
 **Downloads:** [Credits JSON](json/MME00320-credits.json) • [Credits Plain Text](txt/MME00320-credits.txt)
 

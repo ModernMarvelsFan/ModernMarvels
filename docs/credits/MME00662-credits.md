@@ -1,5 +1,5 @@
 # Credit Roll: Breaking Point (2010)
-**Canonical Episode:** [`MME00662: Breaking Point`](../episodes/MME00662.md)
+**Episode:** [`MME00662: Breaking Point`](../episodes/MME00662.md)
 
 **Downloads:** [Credits JSON](json/MME00662-credits.json) • [Credits Plain Text](txt/MME00662-credits.txt)
 

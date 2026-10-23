@@ -1,5 +1,5 @@
 # Credit Roll: Gadgets (2000)
-**Canonical Episode:** [`MME00123: Gadgets`](../episodes/MME00123.md)
+**Episode:** [`MME00123: Gadgets`](../episodes/MME00123.md)
 
 **Downloads:** [Credits JSON](json/MME00123-credits.json) • [Credits Plain Text](txt/MME00123-credits.txt)
 

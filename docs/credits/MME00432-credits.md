@@ -1,5 +1,5 @@
 # Credit Roll: More Doomsday Tech (2004)
-**Canonical Episode:** [`MME00432: More Doomsday Tech`](../episodes/MME00432.md)
+**Episode:** [`MME00432: More Doomsday Tech`](../episodes/MME00432.md)
 
 **Downloads:** [Credits JSON](json/MME00432-credits.json) • [Credits Plain Text](txt/MME00432-credits.txt)
 

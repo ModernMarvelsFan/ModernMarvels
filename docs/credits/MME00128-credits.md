@@ -1,5 +1,5 @@
 # Credit Roll: Concrete (2000)
-**Canonical Episode:** [`MME00128: Concrete`](../episodes/MME00128.md)
+**Episode:** [`MME00128: Concrete`](../episodes/MME00128.md)
 
 **Downloads:** [Credits JSON](json/MME00128-credits.json) • [Credits Plain Text](txt/MME00128-credits.txt)
 

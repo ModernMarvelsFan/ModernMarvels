@@ -1,5 +1,5 @@
 # Credit Roll: Terror Tech: Defending the Highrise (2003)
-**Canonical Episode:** [`MME00315: Terror Tech: Defending the Highrise`](../episodes/MME00315.md)
+**Episode:** [`MME00315: Terror Tech: Defending the Highrise`](../episodes/MME00315.md)
 
 **Downloads:** [Credits JSON](json/MME00315-credits.json) • [Credits Plain Text](txt/MME00315-credits.txt)
 

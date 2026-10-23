@@ -1,5 +1,5 @@
 # Credit Roll: Freight Trains Plus (2022)
-**Canonical Episode:** [`MME00741: Freight Trains Plus`](../episodes/MME00741.md)
+**Episode:** [`MME00741: Freight Trains Plus`](../episodes/MME00741.md)
 
 **Downloads:** [Credits JSON](json/MME00741-credits.json) • [Credits Plain Text](txt/MME00741-credits.txt)
 

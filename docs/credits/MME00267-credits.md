@@ -1,5 +1,5 @@
 # Credit Roll: Runways (2002)
-**Canonical Episode:** [`MME00267: Runways`](../episodes/MME00267.md)
+**Episode:** [`MME00267: Runways`](../episodes/MME00267.md)
 
 **Downloads:** [Credits JSON](json/MME00267-credits.json) • [Credits Plain Text](txt/MME00267-credits.txt)
 

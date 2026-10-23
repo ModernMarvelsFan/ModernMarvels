@@ -1,5 +1,5 @@
 # Credit Roll: Chesapeake Bay Bridge and Tunnel (2001)
-**Canonical Episode:** [`MME00163: Chesapeake Bay Bridge and Tunnel`](../episodes/MME00163.md)
+**Episode:** [`MME00163: Chesapeake Bay Bridge and Tunnel`](../episodes/MME00163.md)
 
 **Downloads:** [Credits JSON](json/MME00163-credits.json) • [Credits Plain Text](txt/MME00163-credits.txt)
 

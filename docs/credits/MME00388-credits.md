@@ -1,5 +1,5 @@
 # Credit Roll: Extreme Aircraft (2004)
-**Canonical Episode:** [`MME00388: Extreme Aircraft`](../episodes/MME00388.md)
+**Episode:** [`MME00388: Extreme Aircraft`](../episodes/MME00388.md)
 
 **Downloads:** [Credits JSON](json/MME00388-credits.json) • [Credits Plain Text](txt/MME00388-credits.txt)
 

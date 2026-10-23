@@ -1,5 +1,5 @@
 # Credit Roll: Tunnels (1995)
-**Canonical Episode:** [`MME00013: Tunnels`](../episodes/MME00013.md)
+**Episode:** [`MME00013: Tunnels`](../episodes/MME00013.md)
 
 **Downloads:** [Credits JSON](json/MME00013-credits.json) • [Credits Plain Text](txt/MME00013-credits.txt)
 

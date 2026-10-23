@@ -1,5 +1,5 @@
 # Credit Roll: Heavy Machinery (2021)
-**Canonical Episode:** [`MME00728: Heavy Machinery`](../episodes/MME00728.md)
+**Episode:** [`MME00728: Heavy Machinery`](../episodes/MME00728.md)
 
 **Downloads:** [Credits JSON](json/MME00728-credits.json) • [Credits Plain Text](txt/MME00728-credits.txt)
 

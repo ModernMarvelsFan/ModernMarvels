@@ -1,5 +1,5 @@
 # Credit Roll: Inviting Disaster 3: Challenger and Columbia (2003)
-**Canonical Episode:** [`MME00336: Inviting Disaster 3: Challenger and Columbia`](../episodes/MME00336.md)
+**Episode:** [`MME00336: Inviting Disaster 3: Challenger and Columbia`](../episodes/MME00336.md)
 
 **Downloads:** [Credits JSON](json/MME00336-credits.json) • [Credits Plain Text](txt/MME00336-credits.txt)
 

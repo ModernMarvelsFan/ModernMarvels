@@ -1,5 +1,5 @@
 # Credit Roll: Nuclear Subs (2001)
-**Canonical Episode:** [`MME00186: Nuclear Subs`](../episodes/MME00186.md)
+**Episode:** [`MME00186: Nuclear Subs`](../episodes/MME00186.md)
 
 **Downloads:** [Credits JSON](json/MME00186-credits.json) • [Credits Plain Text](txt/MME00186-credits.txt)
 

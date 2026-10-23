@@ -1,5 +1,5 @@
 # Credit Roll: Plumbing: The Arteries Of Civilzation (2000)
-**Canonical Episode:** [`MME00154: Plumbing: The Arteries Of Civilzation`](../episodes/MME00154.md)
+**Episode:** [`MME00154: Plumbing: The Arteries Of Civilzation`](../episodes/MME00154.md)
 
 **Downloads:** [Credits JSON](json/MME00154-credits.json) • [Credits Plain Text](txt/MME00154-credits.txt)
 

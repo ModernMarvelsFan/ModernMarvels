@@ -1,5 +1,5 @@
 # Credit Roll: Emergency Room (1999)
-**Canonical Episode:** [`MME00109: Emergency Room`](../episodes/MME00109.md)
+**Episode:** [`MME00109: Emergency Room`](../episodes/MME00109.md)
 
 **Downloads:** [Credits JSON](json/MME00109-credits.json) • [Credits Plain Text](txt/MME00109-credits.txt)
 

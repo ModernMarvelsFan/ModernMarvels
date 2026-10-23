@@ -1,5 +1,5 @@
 # Credit Roll: The Chrysler Building (2002)
-**Canonical Episode:** [`MME00248: The Chrysler Building`](../episodes/MME00248.md)
+**Episode:** [`MME00248: The Chrysler Building`](../episodes/MME00248.md)
 
 **Downloads:** [Credits JSON](json/MME00248-credits.json) • [Credits Plain Text](txt/MME00248-credits.txt)
 

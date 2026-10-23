@@ -1,5 +1,5 @@
 # Credit Roll: Great Towers in the Sky (1997)
-**Canonical Episode:** [`MME00048: Great Towers in the Sky`](../episodes/MME00048.md)
+**Episode:** [`MME00048: Great Towers in the Sky`](../episodes/MME00048.md)
 
 **Downloads:** [Credits JSON](json/MME00048-credits.json) • [Credits Plain Text](txt/MME00048-credits.txt)
 

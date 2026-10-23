@@ -1,5 +1,5 @@
 # Credit Roll: Dynamite (1999)
-**Canonical Episode:** [`MME00096: Dynamite`](../episodes/MME00096.md)
+**Episode:** [`MME00096: Dynamite`](../episodes/MME00096.md)
 
 **Downloads:** [Credits JSON](json/MME00096-credits.json) • [Credits Plain Text](txt/MME00096-credits.txt)
 

@@ -1,5 +1,5 @@
 # Credit Roll: Captured Light (1996)
-**Canonical Episode:** [`MME00036: Captured Light`](../episodes/MME00036.md)
+**Episode:** [`MME00036: Captured Light`](../episodes/MME00036.md)
 
 **Downloads:** [Credits JSON](json/MME00036-credits.json) • [Credits Plain Text](txt/MME00036-credits.txt)
 

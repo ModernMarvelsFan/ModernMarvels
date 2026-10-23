@@ -1,5 +1,5 @@
 # Credit Roll: Prisons (2000)
-**Canonical Episode:** [`MME00122: Prisons`](../episodes/MME00122.md)
+**Episode:** [`MME00122: Prisons`](../episodes/MME00122.md)
 
 **Downloads:** [Credits JSON](json/MME00122-credits.json) • [Credits Plain Text](txt/MME00122-credits.txt)
 
