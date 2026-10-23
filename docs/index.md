@@ -1,4 +1,4 @@
-# Modern Marvels: Episode Reference & Evidence Archive
+# Modern Marvels: Episodes Cross-Reference & Evidence Archive
 
 Welcome to the definitive historical cross-reference and verification archive for the History Channel documentary television series **Modern Marvels** (1993–2021).
 

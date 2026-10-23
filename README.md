@@ -1,6 +1,6 @@
-# Modern Marvels Episode Reference
+# Modern Marvels Episodes Cross-Reference
 
-> ### 🌐 [**Visit the Live Episode Reference & Directory Website →**](https://modernmarvelsfan.github.io/ModernMarvels/)
+> ### 🌐 [**Visit the Live Episodes Cross-Reference & Directory Website →**](https://modernmarvelsfan.github.io/ModernMarvels/)
 > Explore interactive transcripts, on-screen credit rolls, broadcast variations, and comprehensive cross-references for all 752 episodes.
 
 ---
@@ -798,7 +798,7 @@ Use the table below to cross-reference any episode across all five major databas
 
 ## 🤝 Contributing
 
-Contributions to the **Modern Marvels Episode Reference** are warmly welcomed! Because commercial databases frequently contain conflicting air dates, phantom rerun entries, and merged records, primary source verification from broadcast recordings is essential.
+Contributions to the **Modern Marvels Episodes Cross-Reference** are warmly welcomed! Because commercial databases frequently contain conflicting air dates, phantom rerun entries, and merged records, primary source verification from broadcast recordings is essential.
 
 ### How You Can Help
 * **Submit Missing Credits or Dialogue**: If you have broadcast captures for episodes marked as *Missing Capture*, help us transcribe opening hooks or credit rolls.
