@@ -27,7 +27,7 @@ Rather than assuming filenames or upstream databases were correct, this archive 
 
 ---
 
-## 📊 Master Episode Directory (752 Episodes)
+## 📊 Master Episode Directory (750 Episodes)
 
 Use the table below to cross-reference any episode across all five major databases. Click any **Episode ID** link to inspect the complete matching rationale, opening narration transcript, credit roll, and dialogue readers. External database links open in a new tab.
 
@@ -784,9 +784,7 @@ Use the table below to cross-reference any episode across all five major databas
 | [**MME00751**](episodes/MME00751.md) | **More Helicopters** (Unknown) | — | <a href="https://thetvdb.com/series/modern-marvels/episodes/320421" target="_blank" rel="noopener noreferrer">S00E103</a><br>`320421`<br>More Helicopters | — | — | — |
 | [**MME00752**](episodes/MME00752.md) | **B-26 Martin Marauder** (Unknown) | — | <a href="https://thetvdb.com/series/modern-marvels/episodes/7163516" target="_blank" rel="noopener noreferrer">S00E32</a><br>`7163516`<br>B-26 Martin Marauder | —<br><a href="https://www.imdb.com/title/tt1620241/" target="_blank" rel="noopener noreferrer"><code>tt1620241</code></a><br>B-26 Martin Marauder<br><small>*(Aired: 2015)*</small> | — | — |
 | [**MME00753**](episodes/MME00753.md) | **B-17 Flying Fortress** (Unknown) | — | <a href="https://thetvdb.com/series/modern-marvels/episodes/7312645" target="_blank" rel="noopener noreferrer">S00E102</a><br>`7312645`<br>B-17 Flying Fortress | — | — | — |
-| [**MME00754**](episodes/MME00754.md) | **Episode MME00754** (Unknown) | — | — | — | — | — |
-| [**MME00755**](episodes/MME00755.md) | **Episode MME00755** (Unknown) | — | — | — | — | — |
-| [**MME00756**](episodes/MME00756.md) | **Greatest Movie Gadgets** (2004) | — | <a href="https://thetvdb.com/series/modern-marvels/episodes/296878" target="_blank" rel="noopener noreferrer">S11E21</a><br>`296878`<br>Greatest Movie Gadgets<br><small>*(Aired: 2004-06-17)*</small> | <a href="https://www.imdb.com/title/tt1070037/" target="_blank" rel="noopener noreferrer">S10E21</a><br>`tt1070037`<br>Greatest Movies Gadgets<br><small>*(Aired: 2004-06-17)*</small> | — | — |
+| [**MME00754**](episodes/MME00754.md) | **Greatest Movie Gadgets** (2004) | — | <a href="https://thetvdb.com/series/modern-marvels/episodes/296878" target="_blank" rel="noopener noreferrer">S11E21</a><br>`296878`<br>Greatest Movie Gadgets<br><small>*(Aired: 2004-06-17)*</small> | <a href="https://www.imdb.com/title/tt1070037/" target="_blank" rel="noopener noreferrer">S10E21</a><br>`tt1070037`<br>Greatest Movies Gadgets<br><small>*(Aired: 2004-06-17)*</small> | — | — |
 
 </div>
 
