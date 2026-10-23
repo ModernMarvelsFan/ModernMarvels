@@ -64,7 +64,7 @@ Entries that duplicate an existing episode under an altered title, secondary bro
 * **Duplicate Episode(s):** [`MME00211: Private Jets (2002-02-01)`](episodes/MME00211.md)
 
 ### [`MME00258: Garbage (2002-11-06)`](episodes/MME00258.md)
-* **Reporting Database:** [TMDB #1023237](https://www.themoviedb.org/tv/6145-modern-marvels)
+* **Reporting Database:** [TMDB #1023237 (S09E53)](https://www.themoviedb.org/tv/6145-modern-marvels/season/9/episode/53)
 * **Broadcast Captures:** 0
 * **Duplicate Episode(s):** [`MME00089: Garbage (1999-05-10)`](episodes/MME00089.md)
 * **Investigation Finding:** *Garbage* was entered twice: once under TheTVDB (`1999-05-10`) and once under TMDB (`2002-11-06`). Both reference the identical documentary.
@@ -76,17 +76,17 @@ Entries that duplicate an existing episode under an altered title, secondary bro
 * **Duplicate Episode(s):** [`MME00110: Motorcycles (1999-11-15)`](episodes/MME00110.md), [`MME00265: Motorcycles (2002-12-03)`](episodes/MME00265.md), [`MME00354: Toys (2003-12-23)`](episodes/MME00354.md)
 
 ### [`MME00282: Japanese Guns of WWII (2003-03-26)`](episodes/MME00282.md)
-* **Reporting Database:** [TMDB #1023263](https://www.themoviedb.org/tv/6145-modern-marvels)
+* **Reporting Database:** [TMDB #1023263 (S10E14)](https://www.themoviedb.org/tv/6145-modern-marvels/season/10/episode/14)
 * **Broadcast Captures:** 0
 * **Duplicate Episode(s):** [`MME00397: Guns of WWII (2004-09-17)`](episodes/MME00397.md)
 
 ### [`MME00327: Early Machine Guns (2003-09-26)`](episodes/MME00327.md)
-* **Reporting Database:** [TMDB #1023307](https://www.themoviedb.org/tv/6145-modern-marvels)
+* **Reporting Database:** [TMDB #1023307 (S10E58)](https://www.themoviedb.org/tv/6145-modern-marvels/season/10/episode/58)
 * **Broadcast Captures:** 0
 * **Duplicate Episode(s):** [`MME00287: Machine Guns (2003-04-30)`](episodes/MME00287.md)
 
 ### [`MME00333: U-Boats (2003-10-25)`](episodes/MME00333.md)
-* **Reporting Database:** [TMDB #1023313](https://www.themoviedb.org/tv/6145-modern-marvels)
+* **Reporting Database:** [TMDB #1023313 (S10E64)](https://www.themoviedb.org/tv/6145-modern-marvels/season/10/episode/64)
 * **Broadcast Captures:** 0
 * **Duplicate Episode(s):** [`MME00159: U-Boats (2001-01-20)`](episodes/MME00159.md)
 * **Investigation Finding:** *U-Boats* was entered twice under different season numbering across TheTVDB and TMDB.
@@ -95,7 +95,7 @@ Entries that duplicate an existing episode under an altered title, secondary bro
 ### [`MME00350: Failed Inventions (2003-12-10)`](episodes/MME00350.md)
 * **Reporting Database:** [TVDB #11749934](https://thetvdb.com/series/modern-marvels/episodes/11749934)
 * **Broadcast Captures:** 0
-* **Duplicate Episode(s):** [`MME00204: Failed Inventions (2002-01-02)`](episodes/MME00204.md), [`MME00268: Failed Inventions. (2002-12-05)`](episodes/MME00268.md)
+* **Duplicate Episode(s):** [`MME00204: Failed Inventions (2002-01-02)`](episodes/MME00204.md), [`MME00268: Failed Inventions (2002-12-05)`](episodes/MME00268.md)
 * **Investigation Finding:** *Failed Inventions* was entered twice under TheTVDB and TMDB with different re-run dates.
 * **Recommendation:** **Consolidate into a single master entry.**
 
@@ -105,7 +105,7 @@ Entries that duplicate an existing episode under an altered title, secondary bro
 * **Duplicate Episode(s):** [`MME00366: Nature's Engineers (2004-03-31)`](episodes/MME00366.md), [`MME00375: Nature's Engineers (2004-05-31)`](episodes/MME00375.md)
 
 ### [`MME00440: Blackbird Stealth (2005-02-04)`](episodes/MME00440.md)
-* **Reporting Database:** [TMDB #1023800](https://www.themoviedb.org/tv/6145-modern-marvels)
+* **Reporting Database:** [TMDB #1023800 (S12E06)](https://www.themoviedb.org/tv/6145-modern-marvels/season/12/episode/6)
 * **Broadcast Captures:** 0
 * **Duplicate Episode(s):** [`MME00565: Tea (2006-12-13)`](episodes/MME00565.md)
 
@@ -124,7 +124,7 @@ Entries that duplicate an existing episode under an altered title, secondary bro
 * **Recommendation:** **Merge into primary master episode.**
 
 ### [`MME00552: Stealth & Beyond: Air Stealth (2006-09-27)`](episodes/MME00552.md)
-* **Reporting Database:** [TMDB #1023905](https://www.themoviedb.org/tv/6145-modern-marvels)
+* **Reporting Database:** [TMDB #1023905 (S13E45)](https://www.themoviedb.org/tv/6145-modern-marvels/season/13/episode/45)
 * **Broadcast Captures:** 0
 * **Duplicate Episode(s):** [`MME00565: Tea (2006-12-13)`](episodes/MME00565.md)
 
